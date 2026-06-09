@@ -1,0 +1,35 @@
+[META]
+id: P2
+name: Papyrus 2
+label: P2
+genre: new-testament
+book: John
+lat: 28.5383
+lon: 30.6765
+date: c. 550-650 CE
+language: Greek (Koiné)
+found: Egypt
+held: Biblioteca Medicea Laurenziana, Florence (Inv. 7134)
+content: John 12:12-15
+
+[GREEK]
+FOLIO Recto — John 12:12-15
+r.1    GAP: first 2 lines in Coptic
+r.3    [ευαγγελιον] [κατα] [ιωαννην]
+r.4    τη επαυριον οχλος π[ολυς] [ο] [ελθων] [εις] [την] εορτην
+r.5    ακουσαντ[ες] [οτι] [ερχεται] [ο] {ις} εις ιερου[σολυμα]
+r.6    [ελαβον] [τα] [βαια] [των] φοινικων κ[αι] [εξηλθον]
+r.7    [εις] [υπαντησιν] [αυτω] κα[ι] εκραυ[γαζον] [ωσαννα]
+r.8    [ευλογημενος] [ο] ε[ρχομε][νος] [εν] [ονοματι] {κυ}
+r.9    [και] [ο] [βασιλευς] τ[ου] {ιηλ}
+r.10   ε[υρων] [δε] [ο] {ις} [οναριον] [εκαθισεν] [επ] αυτ[ο]
+r.11   [καθως] [εστιν] [γεγραμμενον] μη φ[οβου] [θυγατηρ] [σιων]
+r.12   [ιδου] [ο] [βασιλευς] [σου] [ερχεται] [καθημενος]
+r.13   [επι] [πωλον] [ονου]
+
+[TRANSLATION]
+FOLIO Recto — John 12:12-15
+12:12   (heading: "Gospel according to John") On the next day, the great crowd that had come to the feast, hearing that Jesus was coming to Jerusalem,
+12:13   took the palm branches and went out to meet him, and were crying out: "Hosanna! Blessed is he who comes in the name of the Lord — and the King of Israel!"
+12:14   And Jesus, having found a young donkey, sat on it, just as it is written:
+12:15   "Fear not, daughter of Zion; behold, your King comes, seated on a donkey's colt."

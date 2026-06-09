@@ -1,0 +1,62 @@
+# ───────────────────────────────────────────────
+# Papyrus 21  (P21)
+# Source: NTVMR docID=10021
+# ───────────────────────────────────────────────
+
+[META]
+id:       P21
+name:     Papyrus 21
+genre:    new-testament
+date:     c. 300-400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Muhlenberg College, Allentown PA (P.Oxy. 1227)
+content:  Matthew 12:24-26; 12:32-33
+lat:      28.5383
+lon:      30.6765
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [ειπον] ο[υτος] [ου]κ εκβα[λλει]
+r.2      [τ]α δαιμον[ια] ει μη εν τω [βε]—
+r.3      ελζεβουλ αρχον[τ]ι των δ[αι]—
+r.4      μονιων ιδων δε τας [ενθυ]—
+r.5      [μησει]ς αυτων ειπ[εν] [αυτοις]
+r.6      [πασα] [βα]σιλε[ι]α [μ]ερισ[θεισα] [κα]—
+r.7      [θ] εαυτης ε[ρημ]ο[υ]ται [και] [πα]—
+r.8      [σ]α πολις η [οικια] [με]ρισθ[εισα]
+r.9      [κ]αθ εαυ[της] [ου] [σταθησεται]
+r.10     [κ]αι ει ο σ[ατανας] [τον] [σαταναν]
+
+FOLIO Verso
+
+v.1      [και] ος αν ειπ[η] [λογο]ν κατα τ[ου]
+v.2      {υυ} του {ανου} αφεθησεται αυ—
+v.3      [τ]ω ουτω ος δ αν ε[ι]πη κατα
+v.4      [του] {πνς} του αγιου ου[κ] α[φ]εθη—
+v.5      [σεται] [εν] το[υτ]ω τω α[ιωνι] [ο]υ—
+v.6      [τε] [εν] [τ]ω με[λλ]οντ[ι] η πο[ιη]—
+v.7      [σατ]ε το δ[ενδρον] καλον [και]
+v.8      [τον] [κ]αρ[πον] [αυτο]υ καλο[ν]
+v.9      [η] [ποιησατε] [το] [δ]ενδρο[ν] [σα]—
+v.10     [προν]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+12:24  But when the Pharisees heard it, they said, It is only by Beelzebul, the ruler of the demons, that this fellow casts out the demons.
+12:25  He knew what they were thinking and said to them, Every kingdom divided against itself is laid waste, and no city or house divided against itself will stand.
+12:26  If Satan casts out Satan, he is divided against himself; how then will his kingdom stand?
+12:32  Whoever speaks a word against the Son of Man will be forgiven, but whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come.
+12:33  Either make the tree good, and its fruit good; or make the tree bad, and its fruit bad; for the tree is known by its fruit.
+# 1:1   The book of the genealogy of ...

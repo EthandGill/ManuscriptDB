@@ -1,0 +1,28 @@
+[META]
+id: P107
+name: Papyrus 107
+label: P107
+genre: new-testament
+book: John
+lat: 28.5383
+lon: 30.6765
+date: c. 3rd century CE
+language: Greek (Koiné)
+found: Oxyrhynchus, Egypt
+held: Bodleian Art, Archaeology and Ancient World Library, Oxford (P. Oxy. 4446)
+content: John 17:1-2
+
+[GREEK]
+FOLIO Recto — John 17:1-2
+r.1    [ελαλη][σεν] {ιης} και [επ]αρ[ας] [τους] [οφθαλμους] [αυ][του]
+r.2    [εις] τον [ουρανον] [ειπεν] {περ}
+r.3    [εληλυ]θεν η [ωρα] [δοξασον] [σου]
+r.4    [τον] {υν} ινα κ[αι] [ο] {υς} [δ]οξ[αση] σε
+r.5    [καθω]ς εδωκας αυτω [ε]ξουσιαν
+r.6    [παση]ς σαρκος ινα παν [ο] [δεδω][κας]
+r.7    [αυ][τ]ω δως [α][υ]τω ζω[ην] [αιω][νιον]
+
+[TRANSLATION]
+FOLIO Recto — John 17:1-2
+17:1    Jesus spoke, and having lifted up his eyes to heaven he said: "Father, the hour has come; glorify your Son, that the Son also may glorify you,
+17:2    just as you gave him authority over all flesh, that he may give eternal life to all that you have given him."

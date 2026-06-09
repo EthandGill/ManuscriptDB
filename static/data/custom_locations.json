@@ -1,0 +1,65 @@
+[
+  {
+    "id":     "fayum",
+    "name":   "Fayum Region",
+    "modern": "Faiyum, Egypt",
+    "lat":    29.3084,
+    "lon":    30.8428
+  },
+  {
+    "id":     "middle-egypt",
+    "name":   "Middle Egypt",
+    "modern": "Minya Governorate, Egypt",
+    "lat":    26.8206,
+    "lon":    30.8025
+  },
+  {
+    "id":     "aphroditopolis",
+    "name":   "Aphroditopolis",
+    "modern": "Atfih, Egypt",
+    "lat":    29.4200,
+    "lon":    31.2500
+  },
+  {
+    "id":     "coptos",
+    "name":   "Coptos",
+    "modern": "Qift, Egypt",
+    "lat":    25.9990,
+    "lon":    32.5549
+  },
+  {
+    "id":     "khirbet-mird",
+    "name":   "Khirbet Mird",
+    "modern": "Judean Desert, West Bank",
+    "lat":    31.7027,
+    "lon":    35.3550
+  },
+  {
+    "id":     "lycopolis",
+    "name":   "Lycopolis",
+    "modern": "Asyut, Egypt",
+    "lat":    27.1833,
+    "lon":    31.1667
+  },
+  {
+    "id":     "nessana",
+    "name":   "Nessana",
+    "modern": "Nitzana, Negev Desert, Israel",
+    "lat":    30.8760,
+    "lon":    34.5030
+  },
+  {
+    "id":     "dishna",
+    "name":   "Dishna (Jabal Abu Mana)",
+    "modern": "Dishna, Qena Governorate, Egypt",
+    "lat":    26.1200,
+    "lon":    32.4700
+  },
+  {
+    "id":     "cenchreae",
+    "name":   "Cenchreae",
+    "modern": "Kechries, Greece",
+    "lat":    37.8897,
+    "lon":    22.9889
+  }
+]

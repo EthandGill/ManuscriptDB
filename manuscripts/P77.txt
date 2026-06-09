@@ -1,0 +1,77 @@
+# ───────────────────────────────────────────────
+# Papyrus 77  (P77)
+# Source: NTVMR docID=10077
+# ───────────────────────────────────────────────
+
+[META]
+id:       P77
+name:     Papyrus 77
+genre:    new-testament
+date:     c. 150-250 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Ashmolean Museum, Oxford
+content:  Matthew 23:30-39
+lat:      28.5383
+lon:      30.6765
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [ε]ι [η]μ[εθα] [εν] [ταις] [ημεραις] [των] [πα]—
+r.2      τερων ημω[ν] [ουκ] [αν] [ημεθα] [κοινω]—
+r.3      νοι αυτων εν τ[ω] [αιματι] [των] [προφη]—
+r.4      των ωστε μαρ[τυρειτε] [εαυτοις] [οτι]
+r.5      υιοι εστε των φ[ονευσαντων] [τους]
+r.6      προφητας και υ[μεις] [πληρωσατε]
+r.7      το μετρον των [πατερων] [υμων]
+r.8      οφεις γεννημ[ατα] [εχιδνων] [πως]
+r.9      φυγητε απο τη[ς] κρισε[ως] [της] [γεεν]—
+r.10     νης δια τουτο ιδου εγω αποσ[τελλω]
+r.11     πρ[ος] [υμας] [προ]φητας και σοφ[ους]
+r.12     και [γραμματει]ς εξ αυτων αποκ[τε]—
+r.13     ν[ειτε] [και] [σταυρω]σετε κ[αι] [ε]ξ αυ[των]
+r.14     [μαστιγωσετε] [εν] [τ]αις [συναγ]ωγα[ις]
+
+FOLIO Verso
+
+v.1      [ζα]—
+v.2      [χαριου] [υιου] [βαρα]χιου ον εφονευ—
+v.3      [σατε] [μεταξυ] [του] ναου και του θυσι—
+v.4      [αστηριου] [αμη]ν λεγω υμειν ηξει
+v.5      [ταυτα] [παντα] [ε]πι την γενεαν ταυ—
+v.6      [την]
+v.7      [ιερουσαλημ] [ιερουσ]αλημ η αποκτιν—
+v.8      [ουσα] [τους] [προ]φητας και λιθοβο—
+v.9      [λουσα] [τους] [απεστ]αλμενους προς α[υ]—
+v.10     [τη]ν [πο]σακι[ς] επεισυνα—
+v.11     [ξ]αι τα τεκνα σο[υ] [ο]ν τροπον ορνιξ
+v.12     [ε]πισυναγει τα ν[οσ]σ[ια] [αυ]της υπο
+v.13     τας πτερυγας ου[κ] [ηθελησατ]ε ιδο[υ]
+v.14     αφειεται υμιν ο [οικος] [υμων] λε—
+v.15     [γω] [γαρ] [υμιν] ου μη [με] [ιδητε] [απ]
+v.16     [αρτι] [ε]ως [αν] [ει]πητε [ευλογημενος]
+v.17     [ο] [ερχομενος] [εν] ο[νοματι] [κυριου]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+23:30 and you say, 'If we had lived in the days of our ancestors, we would not have taken part with them in shedding the blood of the prophets.'
+23:31 Thus you testify against yourselves that you are descendants of those who murdered the prophets.
+23:32 Fill up, then, the measure of your ancestors.
+23:33 You snakes, you brood of vipers! How can you escape being sentenced to hell?
+23:34 Therefore I send you prophets, sages, and scribes, some of whom you will kill and crucify, and some you will flog in your synagogues and pursue from town to town,
+23:35 so that upon you may come all the righteous blood shed on earth, from the blood of righteous Abel to the blood of Zechariah son of Barachiah, whom you murdered between the sanctuary and the altar.
+23:36 Truly I tell you, all this will come upon this generation.
+23:37 Jerusalem, Jerusalem, the city that kills the prophets and stones those who are sent to it! How often have I desired to gather your children together as a hen gathers her brood under her wings, and you were not willing!
+23:38 See, your house is left to you, desolate.
+23:39 For I tell you, you will not see me again until you say, Blessed is the one who comes in the name of the Lord.

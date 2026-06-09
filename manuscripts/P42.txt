@@ -1,0 +1,61 @@
+# ───────────────────────────────────────────────
+# Papyrus 42  (P42)
+# Source: NTVMR docID=10042
+# ───────────────────────────────────────────────
+
+[META]
+id:       P42
+name:     Papyrus 42
+genre:    new-testament
+date:     7th/8th cent. CE
+language: Greek (Koiné)
+found:    Fayum, Egypt (Erzherzog Rainer collection; exact site unrecorded)
+held:     Österreichische Nationalbibliothek, Vienna
+content:  Luke 1:54-55; 2:29-32
+lat:      29.3084
+lon:      30.8428
+book:     Luke
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[CONTENT:Luke]
+Luke 1:54-55; 2:29-32
+
+[GREEK:Luke]
+
+FOLIO Fragment A — Luke 1:54-55
+
+r.1    [αντελαβετο] {ιηλ} παιδ[ο]ς αυτου
+r.2    [μνησθηναι] [ε]λεους
+r.3    κ[αθ]ως [ελαλησεν] [π]ρος τους {πρς} ημ[ω]ν
+r.4    [τω] [αβρααμ] κ[αι] τω σπε[ρ][ματι]
+r.5    [αυτου] [εις] τον αιωνα
+
+# GAP: Luke 1:56 – 2:28 (intervening leaf not preserved)
+
+FOLIO Fragment B — Luke 2:29-32
+
+v.1    [νυν] [απολ][υ]εις τον δου[λ]ον
+v.2    [σου] {δεσπ} [κατα] [το] [ρημα] [σ]ου
+v.3    [ε]ν [ε][ι]ρ[ην]η
+v.4    [οτι] [ειδον] [οι] οφ[θ]α[λμοι] μου
+v.5    [το] [σωτ][η]ριον σου
+v.6    ο η[τοιμασας] κατα προσ[ω][πον]
+v.7    [παν]των τω[ν] [λαων]
+v.8    [φως] [εις] [α][π]οκ[αλ][υ][ψ]ιν
+
+[TRANSLATION:Luke]
+
+FOLIO Fragment A — Luke 1:54-55
+1:54  He has helped Israel his servant, to remember mercy,
+1:55  just as he spoke to our fathers, to Abraham and to his seed forever.
+
+FOLIO Fragment B — Luke 2:29-32
+2:29  Now, Master, you release your servant according to your word, in peace,
+2:30  for my eyes have seen your salvation,
+2:31  which you prepared before the face of all the peoples,
+2:32  a light for revelation [to the Gentiles]…

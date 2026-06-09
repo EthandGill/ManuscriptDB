@@ -1,0 +1,28 @@
+[META]
+id: P93
+name: Papyrus 93
+label: P93
+genre: new-testament
+book: John
+lat: 28.5383
+lon: 30.6765
+date: c. 3rd century CE
+language: Greek (Koiné)
+found: Egypt
+held: Istituto Papirologico, Florence (PSI inv. 108)
+content: John 13:15-17
+
+[GREEK]
+FOLIO Recto — John 13:15-17
+r.1    [και] υμεις ποιητε
+r.2    [αμην] [αμην] λεγω ι[μ][ιν] [ουκ] [εστιν] [δουλος] [μειζων]
+r.3    του κυρ[ιου] [αυτου] [ουδε] [αποστολος]
+r.4    μιζω[ν] [του] [πεμψαντος] [αυτον]
+r.5    [ε]ι ταυτ[α] [οιδατε] [μακαριοι] [εστε] [εαν]
+r.6    πιητε [αυτα]
+
+[TRANSLATION]
+FOLIO Recto — John 13:15-17
+13:15   …you also should do.
+13:16   Truly, truly, I say to you, a servant is not greater than his master, nor a messenger greater than the one who sent him.
+13:17   If you know these things, blessed are you if you do them.

@@ -1,0 +1,88 @@
+# ───────────────────────────────────────────────
+# Papyrus 65  (P65)
+# Source: NTVMR docID=10065
+# ───────────────────────────────────────────────
+
+[META]
+id:       P65
+name:     Papyrus 65
+genre:    new-testament
+date:     c. 3rd century CE
+language: Greek (Koiné)
+found:    Egypt
+held:     National Archaeological Museum, Florence (PSI 1373)
+content:  1 Thessalonians 1:3-2:1; 2:6-13
+lat:      28.5383
+lon:      30.6765
+book:     1 Thessalonians
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — 1 Thessalonians 1:3-2:1
+
+r.1      GAP:
+r.2      [μνημονευοντες] [υμων] [του] [εργου] [της] [πισ]τεως και
+r.3      [του] [κοπου] [της] [αγαπης] [και] [της] [υπομονης] [της] [ελπι]δος του {κυ}
+r.4      [ημων] {ιυ} {χυ} [εμπροσθεν] [του] {θυ} [και] {πρς} [ημων] ειδοτες
+r.5      [αδελφοι] [ηγαπημενοι] [υπο] [του] {θυ} [την] [εκλογην] [υμων] οτι το ευ—
+r.6      [αγγελιον] [ημων] [ουκ] [εγενηθη] [εις] [υμας] [εν] [λογω] [μονο]ν αλλα και
+r.7      [εν] [δυναμει] [και] [εν] {πνι} [αγιω] [και] [εν] [πληροφορια] [πολλη] [κ]αθως οι—
+r.8      [δατε] [οιοι] [εγενηθημεν] [εν] [υμιν] [δι] [υμας] [και] [υμεις] [μι]μηται
+r.9      [ημων] [εγενηθητε] [και] [του] {κυ} [δεξαμενοι] [τον] [λογο]ν εν
+r.10     [θλιψει] [πολλη] [μετα] [χαρας] {πνς} [αγιου] [ωστε] [γενεσθαι] υμας τυ—
+r.11     [πον] [πασιν] [τοις] [πιστευουσιν] [εν] [τη] [μακεδονια] [και] εν τη αχαια
+r.12     [αφ] [υμων] [γαρ] [εξηχηται] [ο] [λογος] [του] {κυ} [ου] [μονο]ν εν τη
+r.13     [μακεδονια] [και] [εν] [τη] [αχαια] [αλλ] [εν] [παντι] [τοπω] [η] πιστις
+r.14     [υμων] [η] [προς] [τον] {θν} [εξεληλυθεν] [ωστε] [μη] [χρειαν] εχειν
+r.15     [ημας] [λαλειν] [τι] [αυτοι] [γαρ] [περι] [ημων] [απαγγελλου]σιν
+r.16     [οποιαν] [εισοδον] [εσχομεν] [προς] [υμας] [και] [πως] [επεστρε]ψατε
+r.17     [προς] [τον] {θν} [απο] [των] [ειδωλων] [δουλευειν] {θω} [ζω]ντι
+r.18     [και] [αληθινω] [και] [αναμενειν] [τον] {υν} [αυτου] [εκ] [των] [ο]υρα—
+r.19     [νων] [ον] [ηγειρεν] [εκ] [των] [νεκρων] {ιν} [τον] [ρυομενον] ημας
+r.20     [εκ] [της] [οργης] [της] [ερχομενης] [αυτοι] [γαρ] [οιδατε] [αδελφοι] [την] [ει]σοδον
+
+FOLIO Verso — 1 Thessalonians 2:6-13
+
+v.1      GAP:
+v.2      εξ ανθ[ρωπων] [δοξαν] [ουτε] [αφ] [υμων] [ουτε] [απ] [αλλων] [δυνα]—
+v.3      μενοι ε[ν] [βαρει] [ειναι] [ως] {χυ} [αποστολοι] [αλλα] [εγενηθημεν]
+v.4      νηπιοι [εν] [μεσω] [υμων] [ως] [εαν] [τροφος] [θαλπη] [τα] [εαυτης] [τεκνα]
+v.5      ουτως ο[μειρομενοι] [υμων] [ευδοκουμεν] [μεταδουναι] [υμιν] [ου]
+v.6      μονον [το] [ευαγγελιον] [του] {θυ} [αλλα] [και] [τας] [εαυτων] [ψυχας] [διοτι]
+v.7      αγαπη[τοι] [ημιν] [εγενηθητε] [μνημονευετε] [γαρ] [αδελφοι] [τον]
+v.8      κοπον [ημων] [και] [τον] [μοχθον] [νυκτος] [και] [ημερας] [ερ]—
+v.9      γαζομ[ενοι] [προς] [το] [μη] [επιβαρησαι] [τινα] [υμων] [εκηρυξα]—
+v.10     μεν ε[ις] [υμας] [το] [ευαγγελιον] [του] {θυ} [υμεις] [μαρτυρες] [και] [ο]
+v.11     {θς} ως [οσιως] [και] [δικαιως] [και] [αμεμπτως] [υμιν] [τοις] [πιστευ]—
+v.12     σασιν [εγενηθημεν] [καθαπερ] [οιδατε] [ως] [ενα] [εκαστον] [υμων]
+v.13     ως π[ατηρ] [τεκνα] [εαυτου] [παρακαλουντες] [υμας] [και] [παρα]—
+v.14     μ[υθουμενοι] [και] [μαρτυρομενοι] [εις] [το] [περιπατειν] [υμας] [αξι]—
+v.15     ως [του] {θυ} [του] [καλουντος] [υμας] [εις] [την] [εαυτου] [βασιλειαν] [και]
+v.16     δ[οξαν] [και] [δια] [τουτο] [και] [ημεις] [ευχαριστουμεν] [τω] {θω} [αδιαλει]—
+v.17     π[τως] [οτι] [παραλαβοντες] [λογον] [ακοης] [παρ] [ημων] [του] {θυ} [εδε]—
+v.18     ξ[ασθε] [ου] [λογον] [ανθρωπων] [αλλα] [καθως] [εστιν] [αληθως] [λογον] [θεου]
+
+[TRANSLATION]
+1:3    remembering before our God and Father your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ.
+1:4    For we know, brothers loved by God, that he has chosen you,
+1:5    because our gospel came to you not only in word, but also in power and in the Holy Spirit and with full conviction. You know what kind of men we proved to be among you for your sake.
+1:6    And you became imitators of us and of the Lord, for you received the word in much affliction, with the joy of the Holy Spirit,
+1:7    so that you became an example to all the believers in Macedonia and in Achaia.
+1:8    For not only has the word of the Lord sounded forth from you in Macedonia and Achaia, but your faith in God has gone forth everywhere, so that we need not say anything.
+1:9    For they themselves report concerning us the kind of reception we had among you, and how you turned to God from idols to serve the living and true God,
+1:10   and to wait for his Son from heaven, whom he raised from the dead, Jesus who delivers us from the wrath to come.
+2:1    For you yourselves know, brothers, that our coming to you was not in vain.
+2:6    Nor did we seek glory from people, whether from you or from others, though we could have made demands as apostles of Christ.
+2:7    But we were gentle among you, like a nursing mother taking care of her own children.
+2:8    So, being affectionately desirous of you, we were ready to share with you not only the gospel of God but also our own selves, because you had become very dear to us.
+2:9    For you remember, brothers, our labor and toil: we worked night and day, that we might not be a burden to any of you, while we proclaimed to you the gospel of God.
+2:10   You are witnesses, and God also, how holy and righteous and blameless was our conduct toward you believers.
+2:11   For you know how, like a father with his children,
+2:12   we exhorted each one of you and encouraged you and charged you to walk in a manner worthy of God, who calls you into his own kingdom and glory.
+2:13   And we also thank God constantly for this, that when you received the word of God, which you heard from us, you accepted it not as the word of men but as what it really is, the word of God, which is at work in you believers.

@@ -1,0 +1,80 @@
+# ───────────────────────────────────────────────
+# Papyrus 97  (P97)
+# Source: NTVMR docID=10097
+# ───────────────────────────────────────────────
+
+[META]
+id:       P97
+name:     Papyrus 97
+genre:    new-testament
+date:     4th cent. CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Sackler Library, Oxford
+content:  Luke 14:7-14
+lat:      28.5383
+lon:      30.6765
+book:     Luke
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[CONTENT:Luke]
+Luke 14:7-14
+
+[GREEK:Luke]
+
+FOLIO Recto
+
+r.1    ελεγεν [δ]ε [πρ]ος τους [κ]εκλη—
+r.2    [μενους] παρ[α]βολη[ν] επεχ[ω][ν]
+r.3    πως τας [πρω]τοκλισιας εξελεγο—
+r.4    [ντο] λεγων πρ[ος] [αυτους]
+r.5    [οτ]α[ν] κληθ[η]ς υπο τι[ν][ος] [ει]ς
+r.6    γαμου[ς] [μη] [κ]ατακλιθης εις
+r.7    την πρωτοκλισιαν μηπο[τ]ε
+r.8    [ε]ντιμοτερος σου η κεκλη—
+r.9    [μ]ενος υπ αυτου
+r.10   [και] [ελθων] [ο] [καλεσας] [σε] [και] [αυτον]
+r.11   [ερει] [σοι] δος τουτω τοπον
+r.12   και τοτε αρξη μετα αισχυνης
+r.13   τον εσχατον τοπον κατεχειν
+r.14   αλλ οταν κληθης πορευθεις
+r.15   αναπεσε εις τον εσχατον τοπον
+r.16   ινα οταν ελθη ο κεκληκως σε
+r.17   ερει σοι φιλε προσαναβηθι
+r.18   ανωτερον τοτε εσται σοι δοξα
+r.19   ενωπιον παντων των συν—
+r.20   ανακειμενων σοι
+r.21   οτι πας ο υψων εαυτον τα—
+r.22   πεινωθησεται και ο ταπει—
+r.23   νων εαυτον υψωθησεται
+
+FOLIO Verso
+
+v.1    μη δε γειτον[α]ς πλουσιους
+v.2    μηποτε και αυτοι αντικαλε—
+v.3    σωσιν σε και γενηται ανταπο—
+v.4    δομα σοι
+v.5    αλλ οταν δοχην
+v.6    ποιης καλει πτωχους αναπειρους
+v.7    χωλους τυφ[λ]ους
+v.8    και μακαριος εση οτι ουκ εχουσιν
+v.9    ανταποδο—
+v.10   ναι σοι ανταποδοθησεται
+v.11   γαρ σοι εν τη αναστασει
+v.12   των δικαιων
+
+[TRANSLATION:Luke]
+
+14:7   When he noticed how the guests chose the places of honor, he told them a parable.
+14:8   When you are invited by someone to a wedding banquet, do not sit down at the place of honor, in case someone more distinguished than you has been invited by your host;
+14:9   and the host who invited both of you may come and say to you, Give this person your place, and then in disgrace you would start to take the lowest place.
+14:10  But when you are invited, go and sit down at the lowest place, so that when your host comes, he may say to you, Friend, move up higher; then you will be honored in the presence of all who sit at the table with you.
+14:11  For all who exalt themselves will be humbled, and those who humble themselves will be exalted.
+14:12  He said also to the one who had invited him, When you give a luncheon or a dinner, do not invite your friends or your brothers or your relatives or rich neighbors, in case they may invite you in return, and you would be repaid.
+14:13  But when you give a banquet, invite the poor, the crippled, the lame, and the blind.
+14:14  And you will be blessed, because they cannot repay you, for you will be repaid at the resurrection of the righteous.

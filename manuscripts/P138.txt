@@ -1,0 +1,90 @@
+# ───────────────────────────────────────────────
+# Papyrus 138  (P138)
+# Source: NTVMR docID=10138
+# ───────────────────────────────────────────────
+
+[META]
+id:       P138
+name:     Papyrus 138
+genre:    new-testament
+date:     3rd cent. CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Sackler Library, Oxford
+content:  Luke 13:13-17; 13:25-30
+lat:      28.5383
+lon:      30.6765
+book:     Luke
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[CONTENT:Luke]
+Luke 13:13-17; 13:25-30
+
+[GREEK:Luke]
+
+FOLIO Recto
+
+r.1    [και] [επεθηκεν] [αυτη] [τας] [χει]ρας
+r.2    [και] [παραχρημα] [ανωρθωθη] [και] [εδοξαζεν] [τον] {θν}
+r.3    [αποκριθεις] [δε] [ο] [αρχισυναγωγος] [αγανακτω]ν
+r.4    [οτι] [τω] [σαββατω] [εθεραπευσεν] [ο] {ιης}
+r.5    [ελε][γεν] [τω] [οχλω] [οτι] [εξ] [ημεραι] [εισιν] [εν] [αις] δει
+r.6    εργα[ζεσθαι] [εν] [αυταις] [ουν] [ερχομενοι] [θεραπευεσ]θε
+r.7    [και] [μη] [τη] [ημερα] [του] [σαββατου]
+r.8    [απεκριθη] [δε] [αυτω] [ο] {κς} [και] [ειπεν]
+r.9    [υποκριτα] [εκαστος] [υμων] [τω] [σαββατω]
+r.10   [ου] [λυει] [τον] [βουν] [αυτου] [η] [τον] [ονον]
+r.11   [απο] [της] [φατνης] [και] [απαγαγων] [ποτιζει]
+r.12   [ταυτην] δε [θυγατερα] {αβρμ} ουσαν [ην]
+r.13   [εδησεν] [ο] [σατανας] [ιδου] [δεκα] [και]
+r.14   [οκτω] [ετη] [ουκ] [εδει] [λυθηναι]
+r.15   [απο] [του] [δεσμου] [τουτου] [τη] [ημερα]
+r.16   [του] [σαββατου]
+r.17   [και] [ταυτα] [λεγοντος] [αυτου] [κατησχυνοντο]
+r.18   [παντες] [οι] [αντικειμενοι] [αυτω]
+r.19   [και] [πας] [ο] [οχλος] [εχαιρεν] [επι]
+r.20   [πασιν] [τοις] [ενδοξοις] [τοις] [γινομενοις]
+r.21   [υπ] [αυτου]
+
+FOLIO Verso
+
+# GAP: Luke 13:18-24 (not preserved)
+
+v.1    τη[ν] [θυραν] [λεγοντες] {κε} [ανοιξον] [ημιν] [και]
+v.2    κρι[θ][εις] [ερει] [υμιν] [ουκ] [οιδα] [υμας] [ποθεν] [εστε]
+v.3    τοτ[ε] [αρξεσθε] [λεγειν] [εφαγομεν] [ενωπιον] [σου]
+v.4    κ[αι] [επιομεν] [και] [εν] [ταις] [πλατειαις] [ημων] εδι—
+v.5    δαξας [και] [ερει] [λεγων] [υμιν] [ουκ] [οιδα] [υμας]
+v.6    [ποθεν] [εστε] [αποστητε] [απ] [εμου]
+v.7    [παντες] [εργαται] [αδικιας]
+v.8    [εκει] [εσται] [ο] [κλαυθμος]
+v.9    [και] [ο] [βρυγμος] [των] [οδοντων]
+v.10   [οταν] [οψησθε] {αβρμ} [και] [ισαακ]
+v.11   [και] [ιακωβ] [και] [παντας] [τους] [προφητας]
+v.12   [εν] [τη] [βασιλεια] [του] {θυ}
+v.13   [υμας] [δε] [εκβαλλομενους] [εξω]
+v.14   [και] [ηξουσιν] [απο] [ανατολων]
+v.15   [και] [δυσμων] [και] [απο] [βορρα]
+v.16   [και] [νοτου] [και] [ανακλιθησονται]
+v.17   [εν] [τη] [βασιλεια] [του] {θυ}
+v.18   [και] [ιδου] [εισιν] [εσχατοι] [οι] [εσονται]
+v.19   [πρωτοι] [και] [εισιν] [πρωτοι] [οι] [εσονται] [εσχατοι]
+
+[TRANSLATION:Luke]
+
+13:13  When he laid his hands on her, immediately she stood up straight and began praising God.
+13:14  But the leader of the synagogue, indignant because Jesus had cured on the sabbath, kept saying to the crowd, There are six days on which work ought to be done; come on those days and be cured, and not on the sabbath day.
+13:15  Then the Lord answered him and said, You hypocrites! Does not each of you on the sabbath untie his ox or his donkey from the manger, and lead it away to give it water?
+13:16  And ought not this woman, a daughter of Abraham whom Satan bound for eighteen long years, be set free from this bondage on the sabbath day?
+13:17  When he said this, all his opponents were put to shame; and the entire crowd was rejoicing at all the wonderful things that he was doing.
+13:25  When once the owner of the house has got up and shut the door, and you begin to stand outside and to knock at the door, saying, Lord, open to us; then in reply he will say to you, I do not know where you come from.
+13:26  Then you will begin to say, We ate and drank with you, and you taught in our streets.
+13:27  But he will say, I do not know where you come from; go away from me, all you evildoers!
+13:28  There will be weeping and gnashing of teeth when you see Abraham and Isaac and Jacob and all the prophets in the kingdom of God, and you yourselves thrown out.
+13:29  Then people will come from east and west, from north and south, and will eat in the kingdom of God.
+13:30  Indeed, some are last who will be first, and some are first who will be last.

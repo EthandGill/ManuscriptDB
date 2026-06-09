@@ -1,0 +1,58 @@
+# ───────────────────────────────────────────────
+# Papyrus 116  (P116)
+# Source: NTVMR docID=10116
+# ───────────────────────────────────────────────
+
+[META]
+id:       P116
+name:     Papyrus 116
+genre:    new-testament
+date:     c. 6th century CE
+language: Greek (Koiné)
+found:    Egypt
+held:     Oesterreichische Nationalbibliothek, Vienna (P. Vindob. G 42417)
+content:  Hebrews 2:9-11; 3:3-6
+lat:      28.5383
+lon:      30.6765
+book:     Hebrews
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — Hebrews 2:9-11
+
+r.1      GAP:
+r.2      [η]—
+r.3      [λαττωμενον] [βλεπομεν] {ιην} δια [το] [παθημα] [του]
+r.4      [θανατου] [δοξη] [και] [τιμ]η εστε[φανωμενον] [οπως]
+r.5      [χαριτι] {θυ} [υπερ] [παν]τος γε[υσηται] [θανατου]
+r.6      [επρεπεν] [γαρ] [αυτ]ω δι ον τα π[αντα] [και] [δι] [ου]
+r.7      [τα] [παντα] [πολλους] [υι]ους εις δο[ξαν] [αγαγοντα]
+r.8      [τον] [αρχηγον] [της] σωτηριας [αυτων] [δια] [παθη]—
+r.9      [ματων] [τελειωσαι] [ο] [τ]ε γαρ [αγιαζων] [και] [οι] [α]—
+r.10     [γιαζομενοι]
+
+FOLIO Verso — Hebrews 3:3-6
+
+v.1      GAP:
+v.2      [τιμην] [εχει] [το]υ οικο[υ] [ο] [κατασκευασας] [αυτον]
+v.3      [πας] [γαρ] [οικ]ος κατ[ασκευαζεται] [υπο]
+v.4      [τινος] [ο] [δε] [θεο]ς κατα[σκευασας] [παντα] [και]
+v.5      [μωυσης] [μεν] πιστος ε[ν] [ολω] [τω] [οικω] [αυτου] [ως]
+v.6      [θεραπων] [εις] [μα]ρτυριον τ[ων] [λαληθησομενων]
+v.7      [χριστος] [δε] [ω]ς υιος επι τ[ον] [οικον] [αυτου]
+v.8      [ου] [οικος] [εσμε]ν ημει[ς] [εανπερ] [την] [παρρησιαν]
+
+[TRANSLATION]
+2:9    But we see him who for a little while was made lower than the angels, namely Jesus, crowned with glory and honor because of the suffering of death, so that by the grace of God he might taste death for everyone.
+2:10   For it was fitting that he, for whom and by whom all things exist, in bringing many sons to glory, should make the founder of their salvation perfect through suffering.
+2:11   For he who sanctifies and those who are sanctified all have one source. That is why he is not ashamed to call them brothers,
+3:3    For Jesus has been counted worthy of more glory than Moses — as much more glory as the builder of a house has more honor than the house itself.
+3:4    (For every house is built by someone, but the builder of all things is God.)
+3:5    Now Moses was faithful in all God's house as a servant, to testify to the things that were to be spoken later,
+3:6    but Christ is faithful over God's house as a son. And we are his house, if indeed we hold fast our confidence and our boasting in our hope.

@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(not exist *)",
+      "mcp__Claude_Preview__preview_start",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(Get-Item \"C:\\\\ManuscriptDB\\\\static\\\\data\\\\gorbit-edges.csv\")",
+      "Bash(Select-Object Name, Length)",
+      "Bash(Get-Content \"C:\\\\ManuscriptDB\\\\static\\\\data\\\\gorbit-edges.csv\" -TotalCount 10)",
+      "PowerShell(Get-Content \"C:\\\\ManuscriptDB\\\\static\\\\data\\\\gorbit-edges.csv\" | Select-Object -Skip 1 | ForEach-Object { \\($_ -split ','\\)[5].Trim\\('\"'\\) } | Sort-Object -Unique)",
+      "WebFetch(domain:ntvmr.uni-muenster.de)",
+      "Bash(curl -s http://localhost:5000/api/manuscripts)",
+      "Bash(python -c ' *)",
+      "Bash(python3 -c ' *)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:papyri.info)",
+      "Bash(python3 -)",
+      "Bash(rm -f _missing_results.txt _probe_missing.py)",
+      "Bash(ls _*.py _*.txt)"
+    ]
+  }
+}

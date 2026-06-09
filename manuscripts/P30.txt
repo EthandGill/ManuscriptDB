@@ -1,0 +1,143 @@
+# ───────────────────────────────────────────────
+# Papyrus 30  (P30)
+# Source: NTVMR docID=10030
+# ───────────────────────────────────────────────
+
+[META]
+id:       P30
+name:     Papyrus 30
+genre:    new-testament
+date:     c. 3rd century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Ghent University Library (P. Oxy. 1598, Inv. 61)
+content:  1 Thessalonians 4:12-5:28; 2 Thessalonians 1:1-2
+lat:      28.5383
+lon:      30.6765
+book:     1 Thessalonians, 2 Thessalonians
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK:1 Thessalonians]
+
+FOLIO Recto — 1 Thessalonians 4:12-13
+
+r.1      GAP:
+r.2      [μηδε]—
+r.3      νος [χρειαν] [εχητε] [ου] [θελο]—
+r.4      μεν [δε] [υμας] [αγνοειν] [αδελ]—
+r.5      [φο]ι [περι] [των] [κοιμωμενων]
+r.6      GAP: unspecified lines
+
+FOLIO Verso — 1 Thessalonians 4:16-17
+
+v.1      GAP:
+v.2      [ουρα]—
+v.3      νου και ο[ι] [νεκροι] [εν] {χω} [α]—
+v.4      να[σ]τησο[νται] [πρωτον] [ε]—
+v.5      [πειτα] [ημεις] [οι] [ζωντες]
+v.6      [οι] περ[ιλειπομενοι] [αμα]
+v.7      σ[υ]ν αυτοις α[ρπαγησομεθα]
+v.8      εν νεφε[λαις] [εις] [απαντη]—
+v.9      σιν του {κυ} ει[ς] [αερα] [και] [ουτως]
+v.10     παντοτε συ[ν] {κω} [εσομεθα]
+
+FOLIO Recto 2 — 1 Thessalonians 5:2-3
+
+r.1      GAP:
+r.2      [τως] [ερχεται] [οταν] [λεγ]ωσιν
+r.3      [ειρηνη] [και] [ασφαλεια] [το]τ αι—
+r.4      [φνιδιος]
+
+FOLIO Verso 2 — 1 Thessalonians 5:8-10
+
+v.1      GAP:
+v.2      [ενδυσαμενοι] [θωρακ]α πιστε—
+v.3      [ως] [και] [αγαπης] [και] περικεφα—
+v.4      [λαιαν] [ελπιδα] [σ]ωτηριας οτι
+v.5      [ουκ] [εθετο] [ο] {θς} ημας εις ορ—
+v.6      [γην] [αλλα] [εις] [π]εριποιη[σ]ιν
+v.7      [σωτηριας] [δια] [το]υ {κυ} ημων
+v.8      {ιηυ} [του] [αποθανον]τος υπερ η—
+v.9      [μων]
+
+FOLIO Recto 3 — 1 Thessalonians 5:12-14
+
+r.1      GAP:
+r.2      [υμιν] [και] [προιστα]με—
+r.3      [νους] [υμων] [εν] {κω} [και] νου—
+r.4      [θετουντας] [υμας] [κ]αι ηγει—
+r.5      [σθαι] [αυτους] [εκ]περισσου
+r.6      [εν] [αγαπη] [δια] [το] ε[ργον] [α]υ—
+r.7      [των] [ειρηνευετε] εν αυτοις
+r.8      [παρακαλουμεν] [δε] [υ]μας α—
+r.9      [δελφοι] [νουθετειτε] τους
+r.10     [ατ]α[κτους] [παραμυθ]ε[ισ]θε
+
+FOLIO Verso 3 — 1 Thessalonians 5:14-18
+
+v.1      GAP:
+v.2      τους ο[λι]γοψυχ[ους] [αντεχε]—
+v.3      [σ]θε τω[ν] α[σθ]ε[νων]
+v.4      μακροθυμειτ[ε] [προς] [παν]—
+v.5      τας ορατε μη τ[ις] [κακον] [αν]—
+v.6      τι κακου τινι α[ποδω] [αλλα]
+v.7      παντοτε το α[γαθον] [διωκε]—
+v.8      τε και εις [αλληλους] [και] [εις]
+v.9      παν[τας] [παντοτε] [χαιρετε]
+v.10     αδια[λειπτως] [προσευχεσθε]
+v.11     εν π[αντι] [ευχαριστειτε]
+
+FOLIO Recto 4 — 1 Thessalonians 5:25-28
+
+r.1      GAP:
+r.2      και περι η[μων] [ασπασασθε]
+r.3      τους αδ[ελφους] [παντας] [εν]
+r.4      φιληματ[ι] [αγιω] [ενορκιζω] [υ]—
+r.5      μας τον {κν} [αναγνωσθηναι]
+r.6      την επισ[τολην] [πασιν] [τοις]
+r.7      αδελφ[οις] [η] [χα]—
+r.8      ρις του {κυ} [ημων] {ιηυ} {χυ} [με]—
+r.9      θ υμ[ων]
+
+[GREEK:2 Thessalonians]
+
+FOLIO Verso 4 — 2 Thessalonians 1:1-2
+
+v.1      GAP:
+v.2      [προς] [θεσσαλ]ονε[ικε]ις {β}
+v.3      [παυλος] [και] [σιλ]ουαν[ος] και
+v.4      [τιμοθεος] [τη] [εκκ]λησια
+v.5      [θεσσαλονικεων] [ε]ν {θω}
+v.6      {πρι} [ημων] [και] {κω} {ιηυ} {χω} χα—
+v.7      [ρις] [υμιν] [και] [ειρηνη] απ[ο]
+
+[TRANSLATION:1 Thessalonians]
+4:12   so that you may walk properly before outsiders and be dependent on no one.
+4:13   But we do not want you to be uninformed, brothers, about those who are asleep, that you may not grieve as others do who have no hope.
+4:16   For the Lord himself will descend from heaven with a cry of command, with the voice of an archangel, and with the sound of the trumpet of God. And the dead in Christ will rise first.
+4:17   Then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air, and so we will always be with the Lord.
+5:2    For you yourselves are fully aware that the day of the Lord will come like a thief in the night.
+5:3    While people are saying, "There is peace and security," then sudden destruction will come upon them as labor pains come upon a pregnant woman, and they will not escape.
+5:8    But since we belong to the day, let us be sober, having put on the breastplate of faith and love, and for a helmet the hope of salvation.
+5:9    For God has not destined us for wrath, but to obtain salvation through our Lord Jesus Christ,
+5:10   who died for us so that whether we are awake or asleep we might live with him.
+5:12   We ask you, brothers, to respect those who labor among you and are over you in the Lord and admonish you,
+5:13   and to esteem them very highly in love because of their work. Be at peace among yourselves.
+5:14   And we urge you, brothers, admonish the idle, encourage the fainthearted, help the weak, be patient with them all.
+5:15   See that no one repays anyone evil for evil, but always seek to do good to one another and to everyone.
+5:16   Rejoice always,
+5:17   pray without ceasing,
+5:18   give thanks in all circumstances; for this is the will of God in Christ Jesus for you.
+5:25   Brothers, pray for us.
+5:26   Greet all the brothers with a holy kiss.
+5:27   I put you under oath before the Lord to have this letter read to all the brothers.
+5:28   The grace of our Lord Jesus Christ be with you.
+
+[TRANSLATION:2 Thessalonians]
+1:1    Paul, Silvanus, and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ:
+1:2    Grace to you and peace from God our Father and the Lord Jesus Christ.

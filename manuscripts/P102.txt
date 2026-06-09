@@ -1,0 +1,48 @@
+# ───────────────────────────────────────────────
+# Papyrus 102  (P102)
+# Source: NTVMR docID=10102
+# ───────────────────────────────────────────────
+
+[META]
+id:       P102
+name:     Papyrus 102
+genre:    new-testament
+date:     c. 250-400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Ashmolean Museum, Oxford
+content:  Matthew 4:11-12; 4:22-23
+lat:      28.5383
+lon:      30.6765
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [ο] [διαβολος] [και] [ιδου] αγγελοι προσ—
+r.2      [ηλθον] [και] [διηκονουν] αυτω ακουσας
+
+FOLIO Verso
+
+v.1      [αυ]—
+v.2      τω και περι[ηγεν] [εν] [ολη] [τη] [γαλιλαια]
+v.3      διδασκων εν [ταις] [συναγωγαις] [αυτων]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+FOLIO Recto
+4:11  …the devil [leaves him]; and behold, angels came and were ministering to him.
+4:12  And having heard …
+
+FOLIO Verso
+4:22  …him.
+4:23  And he went about in all Galilee, teaching in their synagogues …

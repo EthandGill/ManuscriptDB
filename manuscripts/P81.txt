@@ -1,0 +1,110 @@
+# ───────────────────────────────────────────────
+# Papyrus 81  (P81)
+# Source: NTVMR docID=10081
+# ───────────────────────────────────────────────
+
+[META]
+id:       P81
+name:     Papyrus 81
+genre:    new-testament
+date:     c. 4th century CE (c. 300-350)
+language: Greek (Koiné)
+found:    Egypt (provenance unknown)
+held:     S. Daris collection, Trieste
+content:  1 Peter 2:20-3:1; 3:4-12
+lat:      28.5383
+lon:      30.6765
+book:     1 Peter
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — 1 Peter 2:20-3:1
+
+r.1      GAP:
+r.2      [κολαφιζομ]ενοι υ[π]ο[μ]ε[νειτε]
+r.3      αλ[λ] [ει] [αγαθο]ποιουντες κα[ι] [πασ]—
+r.4      χο[ντες] υ[π]ομενειτε τ[ουτο] [χα]—
+r.5      ρις [παρα] {θω} εις το γαρ εκ[ληθητε]
+r.6      οτι {χς} απε[θ]ανεν υπερ υ[μων] [υ]—
+r.7      μιν υπολιμπανων υπ[ογραμ]—
+r.8      μον [ινα] [ε]πακολουθη[σητε]
+r.9      τοις ι[χνε]σιν [αυτ]ου ος [αμαρτι]—
+r.10     αν ου[κ] [εποι]ησ[ε]ν ουδ[ε] [ευρε]—
+r.11     θη δο[λος] [ε]ν τω στοματ[ι] [αυτου]
+r.12     ος λοιδορ[ο]υμενος ουκ [αντε]—
+r.13     λοιδορει πασχων ουκ [ηπειλει]
+r.14     παρεδιδου δε τον τον τ[οπον]
+r.15     τω κρινοντι δικαιως [ος] [τας]
+r.16     αμαρτιας ημων αυτ[ος] [ανηνεγ]—
+r.17     κεν εν τ[ω] σωματ[ι] [αυτου] [επι]
+r.18     το ξυλον ι[να] [ται]ς [αμαρτιαις]
+r.19     απογενομε[νοι] [τ]η δικα[ιοσυ]—
+r.20     νη ζησωμεν ου τω μωλ[ωπι]
+r.21     ιαθητε η[τ]ε γαρ ως προβ[ατα]
+r.22     πλανωμε[νοι] αλλ επεστρ[αφη]—
+r.23     τε νυν επ[ι] τον ποιμεν[α] [και]
+r.24     επισκοπ[ον] [των] ψυχω[ν] [υμων]
+r.25     ομοιως γυναικες υπο[τασσο]—
+r.26     μεναι τ[οι]ς [ιδιοις] [ανδρασιν] [ινα]
+r.27     ει τ[ιν]ες [απειθουσιν] [τω] [λογω] [δια]
+r.28     της των [γυναικων] [αναστρο]—
+r.29     φης αν[ευ] [λογου] [κερδηθησον]—
+r.30     [ται]
+
+FOLIO Verso — 1 Peter 3:4-12
+
+v.1      GAP:
+v.2      [πολυτελ]ες [ουτως] [γαρ] [ποτε]
+v.3      [και] αι αγ[ι]αι γυναικ[ες] [αι] [ελπιζου]—
+v.4      [σαι] [εις] {θν} εκοσμουν [ε]αυ[τας] [υ]πο—
+v.5      [τασσομ]εναι τοις ιδ[ι]οις α[ν]δρασιν
+v.6      [ως] [σαρ]ρα υπηκουσεν τω αβρααμ
+v.7      {κν} [αυτ]ον καλουσα ης εγενηθη—
+v.8      [τε] [τεκν]α αγα[θ]οποιο[υσαι] και μη
+v.9      [φοβου]μενα[ι] [μηδεμιαν] πτοησ[ι]ν
+v.10     [ανδρε]ς ομοιω[ς] συ[νοικου]ντες
+v.11     [κατα] [γ]νωσιν ως α[σθενε]στερω
+v.12     [σκευει] τω γυναικει[ω] [απ]ονεμον—
+v.13     [τες] [τιμ]ην ως συγκληρονομοις
+v.14     [χαριτος] ζωης εις το μη εγκοπτε—
+v.15     [σθαι] [ται]ς προσευχαις υμων
+v.16     [το] [δε] [τελο]ς παντες ομοφρονες
+v.17     [συμπαθει]ς φ[ι]λαδε[λ]φοι ευσπλαγ—
+v.18     [χνοι] [ταπεινοφ]ρονες μη αποδι—
+v.19     [δον]τες κακ[ον] [αν]τι κακου η λοι—
+v.20     [δορι]αν αντι λοιδοριας τουναν—
+v.21     [τιον] δε ευλογ[ουν]τες οτι εις του—
+v.22     [το] [ε]κληθητε ιν[α] [ε]υλογιαν κληρο—
+v.23     [νομ]ησητε ο γαρ [θε]λων ζωην α—
+v.24     [γαπα]ν και [ιδειν] ημερας αγαθας
+v.25     [παυσ]ατω τη την γλωσσαν απο κακου
+v.26     [και] [χε]ιλη του μ[η] [λα]λησαι δολον
+v.27     [εκκλινατω] [δε] [απο] [κακου] [κ]αι ποιη—
+v.28     [σατω] [αγαθον] [ζητησατω] ειρηνην
+v.29     [και] [διωξατω] [αυτην] [ο]τι οφθαλμοι
+
+
+[TRANSLATION]
+
+2:20    For what credit is it if, when you sin and are beaten for it, you endure? But if when you do good and suffer for it you endure, this is a gracious thing in the sight of God.
+2:21    For to this you have been called, because Christ also suffered for you, leaving you an example, so that you might follow in his steps.
+2:22    He committed no sin, neither was deceit found in his mouth.
+2:23    When he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to him who judges justly.
+2:24    He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed.
+2:25    For you were straying like sheep, but have now returned to the Shepherd and Overseer of your souls.
+3:1     Likewise, wives, be subject to your own husbands, so that even if some do not obey the word, they may be won without a word by the conduct of their wives,
+3:4     but let your adorning be the hidden person of the heart with the imperishable beauty of a gentle and quiet spirit, which in God's sight is very precious.
+3:5     For this is how the holy women who hoped in God used to adorn themselves, by submitting to their own husbands,
+3:6     as Sarah obeyed Abraham, calling him lord. And you are her children, if you do good and do not fear anything that is frightening.
+3:7     Likewise, husbands, live with your wives in an understanding way, showing honor to the woman as the weaker vessel, since they are heirs with you of the grace of life, so that your prayers may not be hindered.
+3:8     Finally, all of you, have unity of mind, sympathy, brotherly love, a tender heart, and a humble mind.
+3:9     Do not repay evil for evil or reviling for reviling, but on the contrary, bless, for to this you were called, that you may obtain a blessing.
+3:10    For whoever desires to love life and see good days, let him keep his tongue from evil and his lips from speaking deceit;
+3:11    let him turn away from evil and do good; let him seek peace and pursue it.
+3:12    For the eyes of the Lord are on the righteous, and his ears are open to their prayer. But the face of the Lord is against those who do evil.

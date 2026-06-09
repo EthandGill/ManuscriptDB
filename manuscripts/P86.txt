@@ -1,0 +1,67 @@
+# ───────────────────────────────────────────────
+# Papyrus 86  (P86)
+# Source: NTVMR docID=10086
+# ───────────────────────────────────────────────
+
+[META]
+id:       P86
+name:     Papyrus 86
+genre:    new-testament
+date:     c. 400 CE
+language: Greek (Koiné)
+found:    Egypt (exact site unknown)
+held:     Universita degli Studi di Milano
+content:  Matthew 5:13-16, 22-25
+lat:      26.8206
+lon:      30.8025
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      δε το αλας μαρανθη ε[ν] [τι]νι αλισθ[ησε]—
+r.2      ται εις ουδενι εισχυει ετ[ι] ει μη β[λη]—
+r.3      θεν εξω καταπατεισθαι υπο των {ανων}
+r.4      [υ]μεις εστε το φως του κοσμου ου δυ[να]—
+r.5      [τ]αι πολις κρυβηναι επα[ν]ω ορους κει—
+r.6      μενη ουδε καιουσιν λυ[χ]νον και τι—
+r.7      θεασιν αυτον υπο το μο[δ]ιον αλλ επι
+r.8      [τ]ην λυχνιαν και λαμ[πει] [πασ]ιν τοις
+r.9      [εν] τη οικια ου[τως] [λαμψατω] [το] [φως]
+r.10     [υμων] εμ[προσθεν] [των] {ανων} [οπως] [ιδω]—
+r.11     [σιν]
+
+FOLIO Verso
+
+v.1      [α]—
+v.2      [δελ]φω α[υτου] [ρακα] [ενοχος] εσται τω [συνε]—
+v.3      [δρ]ιω ος δ αν ειπη μωρε ενοχος ε[σται]
+v.4      [ει]ς την γεενναν του πυρος εαν ο[υν] [προσ]—
+v.5      φερη το δωρον σου επι το θυσιαστ[ηριον]
+v.6      [κ]ακει μνησθης οτι ο αδελφος σου [εχει]
+v.7      τι κατα σο[υ] εκε[ι] το δωρον σο[υ] [εμ]—
+v.8      προσθεν του θυσιαστηριου και υπ[αγε]
+v.9      πρωτον διαλλαγη[θι] τω αδελφω [σου] [και]
+v.10     τοτε ελ[θων] προσφε[ρ]ε το δωρον [σου]
+v.11     [ισθι] [ευνοων] [τω] [αντιδικω] [σο]υ τ[α]χυ ε[ως]
+v.12     [οτου] [ει] [μετ] [αυτου] [εν] [τη] [οδω] μη[ποτε] [σε]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+5:13  You are the salt of the earth; but if salt has lost its taste, how can its saltiness be restored? It is no longer good for anything, but is thrown out and trampled under foot.
+5:14  You are the light of the world. A city built on a hill cannot be hid.
+5:15  No one after lighting a lamp puts it under the bushel basket, but on the lampstand, and it gives light to all in the house.
+5:16  In the same way, let your light shine before others, so that they may see your good works and give glory to your Father in heaven.
+5:22  But I say to you that if you are angry with a brother or sister, you will be liable to judgment; and if you insult a brother or sister, you will be liable to the council; and if you say, You fool, you will be liable to the hell of fire.
+5:23  So when you are offering your gift at the altar, if you remember that your brother or sister has something against you,
+5:24  leave your gift there before the altar and go; first be reconciled to your brother or sister, and then come and offer your gift.
+5:25  Come to terms quickly with your accuser while you are on the way to court with him, or your accuser may hand you over to the judge, and the judge to the guard, and you will be thrown into prison.

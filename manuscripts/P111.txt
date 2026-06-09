@@ -1,0 +1,61 @@
+# ───────────────────────────────────────────────
+# Papyrus 111  (P111)
+# Source: NTVMR docID=10111
+# ───────────────────────────────────────────────
+
+[META]
+id:       P111
+name:     Papyrus 111
+genre:    new-testament
+date:     late 3rd cent. CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Sackler Library, Oxford
+content:  Luke 17:11-13; 17:21-23
+lat:      28.5383
+lon:      30.6765
+book:     Luke
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[CONTENT:Luke]
+Luke 17:11-13; 17:21-23
+
+[GREEK:Luke]
+
+FOLIO Recto — Luke 17:11-13
+
+# Note: verse 17:11 begins on a preceding lost leaf; recto opens mid-word.
+
+r.1    [σα]—
+r.2    [μαρειας] [και] [γαλι]λαιας κ[αι] [εισερχομενου] [αυτου]
+r.3    [εις] [τινα] [κωμην] απηντης[αν] [αυτω] [δεκα] [λεπροι] [αν]—
+r.4    [δρες] [οι] [εστησα]ν πορωθ[εν] [και] [αυτοι] [ηραν]
+r.5    [φωνην] [λεγοντε]ς {ιηυ} επ[ιστατα] [ελεησον] [ημας]
+
+FOLIO Verso — Luke 17:21-23
+
+# Note: verse 17:21 begins on a preceding lost leaf; verso opens mid-word.
+
+v.1    [εν]—
+v.2    [τος] [υμων] [εστιν] [ειπεν] [δε] πρ[ο]ς [τους] [μαθη]—
+v.3    [τας] [ελευσονται] ημεραι του ε[πιθυμησαι]
+v.4    [υμας] [μιαν] [των] [η]μερων τ[ο][υ] [υιου] [του] {ανου}
+v.5    [ιδειν] [και] [ουκ] [οψ]εσθε και [ερουσιν] [υμιν]
+v.6    [ιδου] [εκει] [η] [ιδου] ωδε μη [απελθητε] [μηδε]
+
+[TRANSLATION:Luke]
+
+FOLIO Recto — Luke 17:11-13
+17:11  …[between] Samaria and Galilee.
+17:12  And as he was entering a certain village, ten leprous men met him, who stood at a distance;
+17:13  and they lifted up their voice, saying: "Jesus, Master, have mercy on us!"
+
+FOLIO Verso — Luke 17:21-23
+17:21  …it is within you. And he said to the disciples:
+17:22  "Days will come when you will long to see one of the days of the Son of Man, and you will not see it.
+17:23  And they will say to you: 'Behold, there!' or 'Behold, here!' Do not go off, nor [pursue them]…"

@@ -1,0 +1,94 @@
+# ───────────────────────────────────────────────
+# Papyrus 25  (P25)
+# Source: NTVMR docID=10025
+# ───────────────────────────────────────────────
+
+[META]
+id:       P25
+name:     Papyrus 25
+genre:    new-testament
+date:     c. 300-400 CE
+language: Greek (Koiné)
+found:    Egypt (exact site unknown)
+held:     Staatsbibliothek, Berlin (P.Berol. 16388)
+content:  Matthew 18:32-34; 19:1-3
+lat:      29.3084
+lon:      30.8428
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      αυτω πονηραι δου—
+r.2      λαι πασαν την ο—
+r.3      φιλην εκεινην α—
+r.4      φηκα σοι επι παρε—
+r.5      [κ]αλεσας με ουκ ε—
+r.6      δει ουν ελεησαι τον
+r.7      συνδουλον σου
+r.8      ως καγω ηλεησα
+r.9      υμας και ο[ργι]σθις
+r.10     της γαλιλαιας και
+r.11     ηλθεν εις τα ορια
+r.12     της ιουδαιας περαν
+r.13     [τ]ου ιορδ[α]νου και
+r.14     [ηκολουθ]ησαν αυ—
+r.15     [τω] [οχλο]ι πολλοι
+r.16     [και] [εθερ]απευσεν
+r.17     [αυτους] και προσ—
+r.18     [ηλθον] [αυτ]ω φ[α]—
+r.19     [ρισαιοι]
+
+FOLIO Verso
+
+v.1      και εσονται οι δυο
+v.2      εις σαρ[κα] μιαν ωσ—
+v.3      ται ουκετι εισιν δυ—
+v.4      ο αλλα σαρξ [μια] [ο]
+v.5      ουν ο {θς} σ[υνεζευ]—
+v.6      ξεν ανθρ[ωπος] [μη]
+v.7      χωριζετω [λ]—
+v.8      εγουσιν α[υτω] [τι]
+v.9      GAP:
+v.10     GAP:
+v.11     GAP:
+v.12     GAP:
+v.13     GAP:
+v.14     GAP:
+v.15     GAP:
+v.16     μοιχευθηναι
+v.17     ωσαυτως και ο γα—
+v.18     μων απολελυμε—
+v.19     νην μοιχαται
+v.20     λεγουσιν οι μαθη—
+v.21     ται αυτου ει ουτ[ως]
+v.22     ετιος γινεται αν—
+v.23     θρωπος μετα τη[ς]
+v.24     γυν[αι]κος ου συμ—
+v.25     [φερει]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+18:32  Then his lord summoned him and said to him, You wicked slave! I forgave you all that debt because you pleaded with me.
+18:33  Should you not have had mercy on your fellow slave, as I had mercy on you?
+18:34  And in anger his lord handed him over to be tortured until he would pay his entire debt.
+19:1   When Jesus had finished saying these things, he left Galilee and went to the region of Judea beyond the Jordan.
+19:2   Large crowds followed him, and he cured them there.
+19:3   Some Pharisees came to him, and to test him they asked, Is it lawful for a man to divorce his wife for any cause?
+19:4   He answered, Have you not read that the one who made them at the beginning made them male and female,
+19:5   and said, For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh?
+19:6   So they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.
+19:9   And I say to you, whoever divorces his wife, except for unchastity, and marries another commits adultery.
+19:10  His disciples said to him, If such is the case of a man with his wife, it is better not to marry.
+#
+# [TRANSLATION]
+# 1:1   The book of the genealogy of ...

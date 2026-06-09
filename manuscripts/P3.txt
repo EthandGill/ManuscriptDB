@@ -1,0 +1,101 @@
+# ───────────────────────────────────────────────
+# Papyrus 3  (P3)
+# Source: NTVMR docID=10003
+# ───────────────────────────────────────────────
+
+[META]
+id:       P3
+name:     Papyrus 3
+genre:    new-testament
+date:     6th/7th cent. CE
+language: Greek (Koiné)
+found:    Fayum, Egypt (Erzherzog Rainer collection; exact site unrecorded)
+held:     Österreichische Nationalbibliothek, Vienna (Pap. G. 2323)
+content:  Luke 7:36-45; 10:38-42
+lat:      29.3084
+lon:      30.8428
+book:     Luke
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[CONTENT:Luke]
+Luke 7:36-45; 10:38-42
+
+[GREEK:Luke]
+
+FOLIO Recto — Luke 7:36-45
+
+r.1    [ευ]αγγελιον
+r.2    [περι] [της] [αλει]ψα[σης] τον {κν} μυρ[ω]
+r.3    [ηρωτα] [δε] [τις] [αυ]τον των φαρι[σαιω]ν [ινα] [φαγη] [μετ]
+r.4    [αυτου] [και] [εισ]ελθων εις [τον] [οικον] [του] [φαρισαιου]
+r.5    [κατεκλιθη] [κ]αι ειδου γυνη ητις η[ν] [εν] [τη] [πολει] [αμαρ]—
+r.6    [τωλος] [και] [επ]ιγνουσα οτι κατακ[ειται] [εν] [τη] [οικια] [του] [φαρι]—
+r.7    [σαιου] [κομισα]σα αλαβαστρον μυρ[ου] [και] [στασα] [οπι]—
+r.8    [σω] [παρα] [τους] [π]οδας αυτου κλαιουσ[α] [τοις] [δακρυσιν] [ηρξα]—
+r.9    [το] [βρεχειν] [τ]ους ποδας αυτου και [ταις] [θριξιν] [της] [κε]—
+r.10   [φαλης] αυτης εξεμαξεν και κατε[φιλει] [τους] [πο]—
+r.11   [δας] [α]υτου και ηλιφεν τω μυρω [ιδων] [δε] [ο] [φαρι]—
+r.12   [σα]ιος ο κα[λ]εσας αυτον ειπεν εν [εα]υτω λ[ε]γω[ν] [ουτος]
+r.13   [ει] [ην] [προφη]της εγιγνωσκεν αν τις και ποταπ[η] [η] [γυνη]
+r.14   [ητις] [απτε]ται αυτου οτι αμαρτωλος εστιν [και] [απο]—
+r.15   [κριθεις] ειπεν ο {ις} προς α[υ]τον σιμων [εχω] [σοι] [τι]
+r.16   [ειπειν] [ο] δε διδασκαλε ειπε φησιν δυο [χρεοφει]—
+r.17   [λ]εται ησαν δανιστη τινι ο εις ωφειλεν δηναρ[ια] [πεντακο]—
+r.18   [σ]ια ο δε ετερος πεντηκοντα μη εχοντων δε αυτω[ν] [αποδου]—
+r.19   [ναι] αμφοτεροις εχαρισατο τις ουν αυτων πλειο[ν] [αγαπη]—
+r.20   [σ]ε[ι] αυτον αποκριθει[ς] δε σιμων ειπεν υπολαμ[βανω] [οτι] [ω] [το] [πλει]—
+r.21   [ο]ν εχαρισατο ο δε ειπεν αυτω ορθως εκριν[ας] [και] [στρα]—
+r.22   [φ]εις προς την γυνα[ι]κα τω σιμωνι εφ[η] [βλεπεις]
+r.23   ταυτην την γυναικα εισηλθον σου εις [την] [οικιαν]
+r.24   [υδωρ] [μοι] επι τους ποδας ουκ εδωκας α[υτη] [δε] [τοις] [δα]—
+r.25   [κρυσιν] [εβρ]εξεν μου τους ποδας και ταις θρι[ξιν] [αυτης]
+r.26   [εξεμαξεν] [φ]ιλημα μοι ουκ εδωκας α[υτη] [δε] [αφ] [ης] [εισηλθον]
+r.27   [ου] [διελιπεν] καταφιλουσα μους το[υς] [ποδας]
+
+FOLIO Verso — Luke 10:38-42
+
+v.1    [ευαγγελιο]ν του αγιου λουκα
+v.2    [πε]ρι μαρθας κα[ι] μαρ[ιας]
+v.3    [εν] [δε] [τω] πορε[υ]εσθαι αυτου[ς] [αυ]—
+v.4    [τος] [ειση]λθεν εις κωμην τιν[α] [γυ]—
+v.5    [νη] [δε] [τις] ονοματι μαρθα [υπε]—
+v.6    [δεξατ]ο αυτον εις την [ο][ι]κ[ι][αν]
+v.7    [και] [τηδε] ην αδελφη καλουμ[ε][νη]
+v.8    [μαριαμ] [η] [κ]αι παρακαθεσθεισ[α]
+v.9    [προς] [τους] [π]οδας του {κυ} ηκουσ[ε][ν] [τον]
+v.10   [λογον] [αυ]του
+v.11   η δε μαρθα περ[ι]—
+v.12   [ε]σπ[ατ]ο περι πολλην διακον[ι]αν
+v.13   επιστασα δε ειπεν {κε} ου μελ[ει] [σοι]
+v.14   οτι η αδελφη μου μονην με κατ[ελι]—
+v.15   [πεν] διακονειν ειπε ουν αυτη ιν[α] μ[οι]
+v.16   συν[α]ντιλαβητ[α]ι αποκριθεις [δε]
+v.17   ειπεν αυτη ο {κς} μαρθα μαρθα
+v.18   μεριμνας και θορυβαζη περι πολλα
+v.19   ολιγων δε εστιν χρεια η ενος
+v.20   [μ]αριαμ γαρ την α[γ][α]θην μεριδα
+v.21   [εξε]λεξατο ητις ουκ αφαιρε—
+v.22   [θησ]εται α[π] αυτης
+
+[TRANSLATION:Luke]
+
+7:36  One of the Pharisees asked Jesus to eat with him, and he went into the Pharisee's house and took his place at the table.
+7:37  And a woman in the city, who was a sinner, having learned that he was eating in the Pharisee's house, brought an alabaster jar of ointment.
+7:38  She stood behind him at his feet, weeping, and began to bathe his feet with her tears and to dry them with her hair. Then she continued kissing his feet and anointing them with the ointment.
+7:39  Now when the Pharisee who had invited him saw it, he said to himself, If this man were a prophet, he would have known who and what kind of woman this is who is touching him — that she is a sinner.
+7:40  Jesus spoke up and said to him, Simon, I have something to say to you. Teacher, he replied, speak.
+7:41  A certain creditor had two debtors; one owed five hundred denarii, and the other fifty.
+7:42  When they could not pay, he cancelled the debts for both of them. Now which of them will love him more?
+7:43  Simon answered, I suppose the one for whom he cancelled the greater debt. And Jesus said to him, You have judged rightly.
+7:44  Then turning toward the woman, he said to Simon, Do you see this woman? I entered your house; you gave me no water for my feet, but she has bathed my feet with her tears and dried them with her hair.
+7:45  You gave me no kiss, but from the time I came in she has not stopped kissing my feet.
+10:38  Now as they went on their way, he entered a certain village, where a woman named Martha welcomed him into her home.
+10:39  She had a sister named Mary, who sat at the Lord's feet and listened to what he was saying.
+10:40  But Martha was distracted by her many tasks; so she came to him and asked, Lord, do you not care that my sister has left me to do all the work by myself? Tell her then to help me.
+10:41  But the Lord answered her, Martha, Martha, you are worried and distracted by many things;
+10:42  there is need of only one thing. Mary has chosen the better part, which will not be taken away from her.

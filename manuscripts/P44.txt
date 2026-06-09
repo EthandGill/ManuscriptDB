@@ -1,0 +1,135 @@
+# ───────────────────────────────────────────────
+# Papyrus 44  (P44)
+# Source: NTVMR docID=10044
+# ───────────────────────────────────────────────
+
+[META]
+id:       P44
+name:     Papyrus 44
+genre:    new-testament
+date:     c. 550-650 CE
+language: Greek (Koiné)
+found:    Egypt (exact site unknown)
+held:     Pierpont Morgan Library, New York
+content:  Matthew 17:1-3, 6-7; 18:15-17, 19; 25:8-10; John 9:3-4; 10:8-14; 12:16-18
+lat:      26.8206
+lon:      30.8025
+book:     Matthew, John
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[CONTENT:Matthew]
+Matthew 17:1-3, 6-7; 18:15-17, 19; 25:8-10
+
+[CONTENT:John]
+John 9:3-4; 10:8-14; 12:16-18
+
+[GREEK:Matthew]
+
+FOLIO Recto
+
+r.1      [και] [μεθ] [ημε]ρας εξ παραλ[αμβανει] [ο] {ις} [τον]
+r.2      πετρον και ιακωβον κα[ι] [ιωαννην] [τον]
+r.3      αδελφον αυτου και αν[αφερει] [αυτους]
+r.4      εις ορος υ[ψ]ηλον καθ ι[διαν] [και] [μετεμ]—
+r.5      ορφωθ[η] [εμ]προσθεν [αυτων] [και] [ελα]—
+r.6      [μ]ψεν [το] [προσω]πον αυτο[υ] [ως] [ο] [ηλιος] [τα] [δε]
+r.7      [ιματια] [αυτου] εγενε[το] [λευκα] [ως] [το] [φως]
+r.8      [και] [ιδου] [ω]φθη α[υτοις] [μωυσης] [και]
+r.9      GAP:
+r.10     [οι] [μαθηται] [επεσαν] [επι] [προσ]ωπ[ον] [αυτων]
+r.11     [και] [εφοβηθησαν] [σφοδρα] [κ]αι π[ροσηλθεν]
+r.12     [ο] {ις} [και] [αψαμενος] [αυτων] [ειπ]εν ε[γερθητε]
+r.13     GAP: unspecified lines
+r.14     GAP:
+r.15     [μετα]—
+r.16     [ξυ] [σου] [κ]αι αυτου [μονου] [εαν] [σου] [ακουση]
+r.17     [εκερδη]σας τον αδελφ[ον] [σου] [εαν] [δε] [μη]
+r.18     [ακουσ]η παραλαβε ετι ε[να] [η] [δυο] [μετα] [σου]
+r.19     [ινα] [επι] [στομα]τος δυ[ο] [μαρτυρων] [η] [τριων]
+r.20     [σταθη] [παν] [ρ]ημα εαν [δε] [παρακουση] [αυ]—
+r.21     [των] [ειπε] [τη] [ε]κκλησια [εαν] [δε] [και] [της] [εκ]—
+r.22     [κλησιας] [πα]ρακο[υση] [εστω] [σοι] [ωσπερ]
+r.23     GAP: unspecified lines
+r.24     GAP:
+r.25     [παλιν] [αμην] [λε]γω [υμιν] [οτι] [εα]ν δυο συμ—
+r.26     [φωνησωσιν] εξ υμ[ων] [επι] [της] γης πε[ρι]
+r.27     [παντος] [π]ραγματ[ος] [ου] [εαν] [α]ιτησ[ων]—
+r.28     [ται] [γ]ενησεται αυ[τοις] [παρα] [του] {πρς}
+
+FOLIO Verso
+
+FOLIO Verso
+
+v.1      [ημιν] [εκ] [του] [ελα]ιου υμων [οτ]ι αι
+v.2      [λαμπαδες] [ημων] σβεννυνται απε—
+v.3      [κριθησαν] [δε] [αι] φρονιμοι λεγουσαι
+v.4      [μηποτε] [ου] [μη] [αρκεσ]η ημει[ν] [και] υμιν
+v.5      [πορευεσθε] [μα]λλον π[ρος] [τους] [πωλουν]—
+v.6      [τας] [και] [αγορασ]ατε εα[υταις] [απερχομε]—
+v.7      [νων] [δε] [αυτων] [α]γορα[σαι] [ηλθεν] [ο] [νυμφι]—
+v.8      [ος]
+
+[TRANSLATION:Matthew]
+
+17:1   Six days later, Jesus took with him Peter and James and his brother John and led them up a high mountain, by themselves.
+17:2   And he was transfigured before them, and his face shone like the sun, and his clothes became dazzling white.
+17:3   Suddenly there appeared to them Moses and Elijah, talking with him.
+17:6   When the disciples heard this, they fell to the ground and were overcome by fear.
+17:7   But Jesus came and touched them, saying, Get up and do not be afraid.
+18:15  If another member of the church sins against you, go and point out the fault when the two of you are alone. If the member listens to you, you have regained that one.
+18:16  But if you are not listened to, take one or two others along with you, so that every word may be confirmed by the evidence of two or three witnesses.
+18:17  If the member refuses to listen to them, tell it to the church; and if the offender refuses to listen even to the church, let such a one be to you as a Gentile and a tax collector.
+18:19  Again, truly I tell you, if two of you agree on earth about anything you ask, it will be done for you by my Father in heaven.
+25:8   And the foolish said to the wise, Give us some of your oil, for our lamps are going out.
+25:9   But the wise replied, No! there will not be enough for you and for us; you had better go to the dealers and buy some for yourselves.
+25:10  And while they went to buy it, the bridegroom came, and those who were ready went with him into the wedding banquet; and the door was shut.
+
+[GREEK:John]
+
+FOLIO Verso (John 10)
+
+v.9      GAP:
+v.10     [αυ]—
+v.11     [των] [τα] προ[βατα] [εγω] [ειμι] [η] [θυρα]
+v.12     [δι] [εμο]υ εα[ν] [τις] [εισελθη] [σωθη]—
+v.13     [σεται]
+v.14     GAP:
+v.15     [απολεση] [εγω] [ηλ]θ[ο]ν ινα [ζωην]
+v.16     [εχωσιν] [κ]αι περισσοτερον ε[χω]—
+v.17     [σιν] [εγω] [ε]ιμι ο π[οιμην] [ο] [καλος]
+v.18     [ο] [ποιμην] [ο] καλως [την] [ψυχην] [αυ]—
+v.19     [του] [τιθησιν] [υπ]ερ τω[ν] [προβατων]
+v.20     GAP: unspecified lines
+v.21     GAP:
+v.22     αρπα[ζει] [αυτα] [κ]α[ι] [σκορπιζει] [οτι]
+v.23     [μ]ισθω[τος] [εστιν] κα[ι] [ου] [μελει] [αυτω]
+v.24     [περι] [των] [προβα]των εγω ε[ιμι] [ο] [ποι]—
+v.25     [μην] [ο] [καλος] [κα]ι γινωσκω [τα] [εμα] [και]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION:John]
+
+9:3   Jesus answered, Neither this man nor his parents sinned; he was born blind so that God's works might be revealed in him.
+9:4   We must work the works of him who sent me while it is day; night is coming when no one can work.
+10:8  All who came before me are thieves and bandits; but the sheep did not listen to them.
+10:9  I am the gate. Whoever enters by me will be saved, and will come in and go out and find pasture.
+10:10 The thief comes only to steal and kill and destroy. I came that they may have life, and have it abundantly.
+10:11 I am the good shepherd. The good shepherd lays down his life for the sheep.
+10:12 The hired hand, who is not the shepherd and does not own the sheep, sees the wolf coming and leaves the sheep and runs away — and the wolf snatches them and scatters them.
+10:13 The hired hand runs away because a hired hand does not care for the sheep.
+10:14 I am the good shepherd. I know my own and my own know me,
+12:16 His disciples did not understand these things at first; but when Jesus was glorified, then they remembered that these things had been written of him and had been done to him.
+12:17 So the crowd that had been with him when he called Lazarus out of the tomb and raised him from the dead continued to testify.
+12:18 It was also because they heard that he had performed this sign that the crowd went to meet him.

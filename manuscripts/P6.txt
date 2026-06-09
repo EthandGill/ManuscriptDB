@@ -1,0 +1,78 @@
+[META]
+id: P6
+name: Papyrus 6
+label: P6
+genre: new-testament
+book: John
+lat: 28.5383
+lon: 30.6765
+date: c. 4th century CE
+language: Greek (Koiné)
+found: Egypt
+held: Bibliothèque nationale universitaire, Strasbourg (P. Copt. 379, 381, 382, 384)
+content: John 10:1-10; 11:1-8, 45
+
+[GREEK]
+FOLIO 1R — John 10:1-10
+r.1    GAP: first lines in Coptic
+r.3    [αμην] [αμην] [λεγω] [υμιν] [ο] [μη] εισερχομενος
+r.4    [δια] [της] [θυρας] [εις] [την] [αυλην] [των] [προβατων]
+r.5    [αλλα] [αναβαινων] [αλλαχοθεν] [εκεινος] [κλεπτης]
+r.6    [εστιν] [και] [ληστης] [ο] [δε] [εισερχομενος]
+r.7    [δια] [της] [θυρας] [ποιμην] [εστιν] [των] [προβατων]
+r.8    [τουτω] [ο] [θυρωρος] [ανοιγει] [και] [τα] [προβατα]
+r.9    [της] [φωνης] [αυτου] [ακουει] [και] [τα] [ιδια] [προβατα]
+r.10   [καλει] [κατ] [ονομα] [και] [εξαγει] [αυτα]
+r.11   [οταν] [τα] [ιδια] [παντα] [εκβαλη] [εμπροσθεν]
+r.12   [αυτων] [πορευεται] [και] [τα] [προβατα] [αυτω]
+r.13   [ακολουθει] [οτι] [οιδασιν] [την] [φωνην] [αυτου]
+r.14   [αλλοτριω] [δε] [ου] [μη] [ακολουθησωσιν] [αλλα]
+r.15   [φευξονται] [απ] [αυτου] [οτι] [ουκ] [οιδασιν]
+r.16   [των] [αλλοτριων] [την] [φωνην]
+r.17   GAP: lines not preserved (John 10:6-9a)
+r.18   [εγω] [ειμι] [η] [θυρα] [δι] [εμου] [εαν] [τις]
+r.19   [εισελθη] [σωθησεται] [και] [εισελευσεται]
+r.20   [και] [εξελευσεται] [και] [νομην] [ευρησει]
+r.21   [ο] [κλεπτης] [ουκ] [ερχεται] [ει] [μη] [ινα]
+r.22   [κλεψη] [και] [θυση] [και] [απολεση] [εγω]
+r.23   [ηλθον] [ινα] [ζωην] [εχωσιν] [και] [περισσον] [εχωσιν]
+
+FOLIO 1V — John 11:1-8
+v.1    GAP: first 9 lines in Coptic
+v.10   [ην] [δε] [τις] [ασθενων] [λαζαρος] [απο] [βηθανιας]
+v.11   [εκ] [της] [κωμης] [μαριας] [και] [μαρθας] [της]
+v.12   [αδελφης] [αυτης] [ην] [δε] [μαριαμ] η [αλειψασα]
+v.13   [τον] {κν} [μυρω] [και] [εκμαξασα] [τους] [ποδας]
+v.14   [αυτου] [ταις] [θριξιν] [αυτης] [ης] [ο] [αδελφος]
+v.15   [λαζαρος] [ησθενει] [απεστειλαν] [ουν] [αι] [αδελφαι]
+v.16   [προς] [αυτον] [λεγουσαι] {κε} [ιδε] [ον] [φιλεις]
+v.17   [ασθενει] [ακουσας] [δε] [ο] {ις} [ειπεν]
+v.18   [αυτη] [η] [ασθενεια] [ουκ] [εστιν] [προς] [θανατον]
+v.19   [αλλ] [υπερ] [της] [δοξης] [του] {θυ}
+v.20   [ινα] [δοξασθη] [ο] [υιος] [του] {θυ} [δι] [αυτης]
+v.21   [ηγαπα] [δε] [ο] {ις} [την] [μαρθαν] [και]
+v.22   [την] [αδελφην] [αυτης] [και] [τον] [λαζαρον]
+v.23   [ως] [ουν] [ηκουσεν] [οτι] [ασθενει] [τοτε]
+v.24   [μεν] [εμεινεν] [εν] [ω] [ην] [τοπω] [δυο] [ημερας]
+
+FOLIO 2R — John 11:45
+r.1    πολλοι ουν εκ των ιουδαιων οι
+r.2    ελθοντες προς την μαριαμ κ[α][ι]
+r.3    θεασαμενοι α εποιησεν επισ[τευσαν]
+
+[TRANSLATION]
+10:1    Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber.
+10:2    But he who enters by the door is the shepherd of the sheep.
+10:3    To him the gatekeeper opens. The sheep hear his voice, and he calls his own sheep by name and leads them out.
+10:4    When he has brought out all his own, he goes before them, and the sheep follow him, for they know his voice.
+10:5    A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers.
+10:9    I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture.
+10:10   The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly.
+11:1    Now a certain man was ill, Lazarus of Bethany, the village of Mary and her sister Martha.
+11:2    It was Mary who anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was ill.
+11:3    So the sisters sent to him, saying: Lord, he whom you love is ill.
+11:4    But when Jesus heard it he said: This illness does not lead to death. It is for the glory of God, so that the Son of God may be glorified through it.
+11:5    Now Jesus loved Martha and her sister and Lazarus.
+11:6    So, when he heard that Lazarus was ill, he stayed two days longer in the place where he was.
+11:7    Then after this he said to the disciples: Let us go to Judea again.
+11:45   Many of the Jews therefore, who had come with Mary and had seen what he did, believed in him.

@@ -1,0 +1,90 @@
+# ───────────────────────────────────────────────
+# Papyrus 16  (P16)
+# Source: NTVMR docID=10016
+# ───────────────────────────────────────────────
+
+[META]
+id:       P16
+name:     Papyrus 16
+genre:    new-testament
+date:     c. 3rd-4th century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Bibliotheca Alexandrina, Alexandria (BAAM 0544 / P. Oxy. 1009)
+content:  Philippians 3:10-17; 4:2-8
+lat:      28.5383
+lon:      30.6765
+book:     Philippians
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — Philippians 3:10-17
+
+r.1      GAP:
+r.2      [του] [γνω]ναι αυτ[ον] [κ]αι
+r.3      [την] [δυναμιν] [της] [ανασ]τασεως αυτου
+r.4      [και] [την] [κοινωνιαν] [των] παθηματων
+r.5      [αυτου] [συμμορφιζο]μενος τω θα—
+r.6      [νατω] [αυτου] [ει] [πως] καταντησω εις
+r.7      [την] [εξαναστασιν] [τη]ν εκ νεκρων
+r.8      [ουχ] [οτι] [ηδη] [ελαβον] η ηδη τετελει—
+r.9      [ωμαι] [διωκω] [δε] [ει] [και] [κα]ταλαβω εφ ω
+r.10     [και] [κατελημφθην] [υπο] υ αδελφοι ε—
+r.11     [γω] [ουπω] [λογιζομαι] [ε]μαυτον κατει—
+r.12     [ληφεναι] [εν] [δε] [τ]α μεν οπισω
+r.13     [επιλανθανομενος] τοις δε εμπρο—
+r.14     [σθεν] [επεκτεινομε]νος κατα σκο—
+r.15     [πον] [διωκω] [ει]ς το [βρ]αβιον της α—
+r.16     [νω] [κλη]σεως του {θυ} [ε]ν {ιυ} {χω} οσοι
+r.17     [ουν] [τελ]ειοι τουτο φ[ρο]νωμεν και
+r.18     [ει] [τι] [ετ]ερως φρονει[τε] και τουτο
+r.19     [ο] {θς} [υμι]ν αποκαλυψ[ει] πλην εις
+r.20     [ο] [εφθασ]ατε τω αυτω [στ]οιχειν συν—
+r.21     [μιμηται] μου γινεσθ[ε] [αδ]ελφοι και
+
+FOLIO Verso — Philippians 4:2-8
+
+v.1      GAP:
+v.2      φρονειτε [εν] {κω} [ναι] [ερωτω] [και] [σε]
+v.3      γνησιε συζ[υγε] [συλλαμβανου] [αυταις]
+v.4      αιτινες εν [τω] [ευαγγελιω] [συνη]—
+v.5      θλησαν μοι [μετα] [και] [κλημεντος]
+v.6      και των συν[εργων] [μου] [και] [των] [λοι]—
+v.7      πων ων τα ο[νοματα] [εν] [βιβλω] [ζω]—
+v.8      ης χαιρετε [εν] {κω} [παντοτε] [παλιν] [ερω]
+v.9      χαιρετε το [επιεικες] [υμων] [γνω]—
+v.10     σθητω πασ[ιν] {ανοις} [ο] {κς} [εγγυς]
+v.11     μηδεν μερ[ιμνατε] [αλλ] [εν] [παντι]
+v.12     τη προσευχ[η] [και] [τη] [δεησει] [μετα]
+v.13     ευχαριστια[ς] [τα] [αιτηματα] [υμων]
+v.14     γνωριζεσθ[ω] προ[ς] [τον] {θν} [και] [η] [ει]—
+v.15     ρηνη του {θυ} η υπερ[εχουσα] [παν]—
+v.16     τα νουν φρ[ου]ρησει τας [καρδιας] [υ]—
+v.17     μ[ων] και τ[α] [ν]οηματα κ[αι] [τα] [σωμα]—
+v.18     τα υμων [εν] {χω} {ιυ} το λο[ιπον] [αδελ]—
+v.19     φοι οσα ε[στι]ν αληθη ο[σα] [σεμνα]
+v.20     οσα δικα[ια] οσ[α] αγνα οσ[α] [προσ]—
+v.21     [φιλη]
+
+[TRANSLATION]
+3:10   that I may know him and the power of his resurrection, and may share his sufferings, becoming like him in his death,
+3:11   that by any means possible I may attain the resurrection from the dead.
+3:12   Not that I have already obtained this or am already perfect, but I press on to make it my own, because Christ Jesus has made me his own.
+3:13   Brothers, I do not consider that I have made it my own. But one thing I do: forgetting what lies behind and straining forward to what lies ahead,
+3:14   I press on toward the goal for the prize of the upward call of God in Christ Jesus.
+3:15   Let those of us who are mature think this way, and if in anything you think otherwise, God will reveal that also to you.
+3:16   Only let us hold true to what we have attained.
+3:17   Brothers, join in imitating me, and keep your eyes on those who walk according to the example you have in us.
+4:2    I entreat Euodia and I entreat Syntyche to agree in the Lord.
+4:3    Yes, I ask you also, true companion, help these women, who have labored side by side with me in the gospel together with Clement and the rest of my fellow workers, whose names are in the book of life.
+4:4    Rejoice in the Lord always; again I will say, rejoice.
+4:5    Let your reasonableness be known to everyone. The Lord is at hand;
+4:6    do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.
+4:7    And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.
+4:8    Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things.

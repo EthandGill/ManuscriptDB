@@ -1,0 +1,23 @@
+[META]
+id: P80
+name: Papyrus 80
+label: P80
+genre: new-testament
+book: John
+lat: 28.5383
+lon: 30.6765
+date: c. 3rd century CE
+language: Greek (Koiné)
+found: Egypt
+held: Abadia de Montserrat, Montserrat (P. Monts.Roca inv. 83)
+content: John 3:34 (partial)
+
+[GREEK]
+FOLIO Recto — John 3:34
+r.1    [τα] [ρ]ημ[α][τα] [του] [θεου] [λαλει]
+r.2    [ο]υ γαρ εκ μερου[ς] [διδωσιν]
+r.3    το πνευμα
+
+[TRANSLATION]
+FOLIO Recto — John 3:34
+3:34    …the words of God he speaks; for he does not give the Spirit in part.

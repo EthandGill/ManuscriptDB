@@ -1,0 +1,127 @@
+# ───────────────────────────────────────────────
+# Papyrus 1  (P1)
+# Source: NTVMR docID=10001
+# ───────────────────────────────────────────────
+
+[META]
+id:       P1
+name:     Papyrus 1
+genre:    new-testament
+date:     c. 250 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Penn Museum (E 2746)
+content:  Matthew 1:1-9, 1:12-20
+lat:      28.5383
+lon:      30.6765
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      βιβλος γενεσεως {ιυ} {χυ} {υυ} δαυιδ [υιου]
+r.2      αβρααμ αβρααμ εγεννησεν τον [ισαακ]
+r.3      ισαακ δε εγεννησεν τ[ον] ιακωβ [ιακωβ]
+r.4      δε εγ[ε]ννησεν τον ιουδαν κ[α]ι τ[ους]
+r.5      α[δ]ελφους αυτου ιουδας δε εγεννη—
+r.6      σεν τον φαρες και τον ζαρε εκ της θα—
+r.7      μαρ φαρες δε εγεννησεν τον εσρωμ
+r.8      εσ[ρω]μ δε εγεννησεν τον [α]ρ[α]μ [αραμ]
+r.9      δε [ε]γεννησεν τον αμμιναδαβ αμ—
+r.10     μ[ι]να[δα]β δε εγεννησεν τον ναασσων
+r.11     ναα[σ]σων δε εγεννησεν τον σαλ[μω]ν
+r.12     σαλμων δε εγενν[η]σεν τον βοες [εκ]
+r.13     της ραχαβ βοες δε εγεννησεν τον ι—
+r.14     ωβηδ εκ της ρ[ο]υθ ιω[βη]δ δε εγεννη—
+r.15     σεν τον ιεσσαι ιεσσ[αι] δε εγεννησεν
+r.16     τον δαυιδ τον βασιλε[α] [δαυ]ιδ δε εγεν—
+r.17     νησεν τον σολομωνα εκ της ουρειου σο—
+r.18     λομων δε εγεννη[σ]εν τον [ρ]οβοαμ ροβο—
+r.19     αμ δε εγεννησεν [το]ν αβ[ει]α αβεια δε
+r.20     εγεννησεν [τ]ον ασα[φ] [ασα]φ δε εγεν—
+r.21     νησεν τον ιωσαφατ [ιωσα]φατ δε εγεν—
+r.22     ν[η]σε[ν] τον ιωραμ ιωραμ δε εγενν[ησεν]
+r.23     [τον] οζε[ι]αν οζειας δε εγεν[νησεν]
+r.24     GAP:
+r.25     GAP:
+r.26     GAP:
+r.27     GAP:
+r.28     GAP:
+r.29     GAP:
+r.30     GAP:
+r.31     GAP:
+r.32     [μετα] [δε] [την] με—
+r.33     [τοικεσιαν] [βαβυλωνος] [ιεχονι]ας εγεν—
+r.34     [νησεν] [τον] [σαλαθιηλ] [σαλαθιηλ] [δε] [εγε]ν—
+r.35     [νεσεν] [τον] [ζοροβαβελ] [ζοροβαβελ] [δ]ε
+r.36     GAP:
+r.37     GAP:
+r.38     GAP:
+r.39     GAP:
+
+FOLIO Verso
+
+v.1      [τον] [σ]αδω[κ] [σ]αδωκ δε εγεννησεν το[ν]
+v.2      [αχειμ] αχειμ δε εγε[ν]νησεν τον ελιου[δ]
+v.3      [ελιου]δ δε εγ[εν]νη[σ]ε[ν] τον ελεαζαρ ελε—
+v.4      [αζ]αρ [δε] [εγ]εννησεν [το]ν μαθθαν μαθθα[ν]
+v.5      δε εγεννησεν τον [ι]ακωβ ιακωβ δε
+v.6      [εγ]εννησεν τον ιωσηφ τον ανδρα μ[α]—
+v.7      ριας [ε]ξ ης εγενν[ηθ]η {ις} ο λεγομενο[ς] {χς}
+v.8      π[ασ]αι ουν γε[νε]αι απο αβρααμ εως
+v.9      δαυιδ γενεαι {ιδ} και απο [δαυιδ] [εως] [της]
+v.10     μετοικεσιας βαβυλωνο[ς] γε[νεαι] {ιδ} κα[ι]
+v.11     απο της μετ[οι]κεσιας βαβ[υ]λων[ο]ς εως
+v.12     του {χυ} γενεαι {ιδ} του δε {ιυ} {χυ} η γενε—
+v.13     σις ουτως ην μνηστευθεισης της μη—
+v.14     τρος αυτου μ[αρι]α[ς] τω [ιω]σηφ πριν η συν—
+v.15     [ε]λθε[ι]ν αυ[το]υ[ς] ευρε[θη] εν γαστρι εχου—
+v.16     σα ε[κ] {πνς} [αγιου] [ιωσηφ] [δε] [ο] ανηρ αυ—
+v.17     της [δικα]ι[ος] [ων] [και] [μη] [θελων] [αυτην]
+v.18     δειγμα[τ]ε[ισαι] [εβουλη]θη [λαθρα]
+v.19     [α]πολυ[σαι] [αυ]τ[η]ν [τ]αυτα [δε] [αυτου] [εν]—
+v.20     [θ]υμη[θεντος] [ι]δου α[γγελος] {κυ} [κατ]
+v.21     [ο]ναρ [εφανη] [αυ]τω [λεγων] ιωσ[ηφ]
+v.22     [υιος] [δαυιδ] μ[η] φο[βηθη]ς παρ[αλαβ]ειν
+v.23     [μ]αρια[ν] [την] [γυ]ναι[κα] [σου] το [γαρ] [εν] [αυ]—
+v.24     [τη] [γεν]νηθεν ε[κ] {πνς} [εστιν] [αγιου]
+v.25     GAP:
+v.26     GAP:
+v.27     GAP:
+v.28     GAP:
+v.29     GAP:
+v.30     GAP:
+v.31     GAP:
+v.32     GAP:
+v.33     GAP:
+v.34     με[θερμηνευομενον] [μεθ] [ημων] [ο] {θς}
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+1:1   The book of the genealogy of Jesus Christ, son of David, son of Abraham.
+1:2   Abraham begat Isaac, Isaac begat Jacob, Jacob begat Judah and his brothers,
+1:3   Judah begat Phares and Zare from Thamar, Phares begat Esrom, Esrom begat Aram,
+1:4   Aram begat Aminadab, Aminadab begat Naason, Naason begat Salmon,
+1:5   Salmon begat Boes from Rachab, Boes begat Iobed from Routh, Iobed begat Jesse,
+1:6   Jesse begat David the king. David begat Solomon from the wife of Oureiou,
+1:7   Solomon begat Roboam, Roboam begat Abeia, Abeia begat Asaph,
+1:8   Asaph begat Iosaphat, Iosaphat begat Ioram, Ioram begat Ozeian,
+1:9   Ozeias begat — [lines 1:9b–11 not preserved]
+1:12  After the deportation to Babylon, Iechonias begat Salathiel, Salathiel begat Zorobabel,
+1:13  Zorobabel begat — [lines 1:13b not preserved]
+1:14  Sadok begat Achim, Achim begat Elioud,
+1:15  Elioud begat Eleazar, Eleazar begat Maththan, Maththan begat Iakob,
+1:16  Iakob begat Joseph the husband of Mary, from whom was born Jesus who is called Christ.
+1:17  All the generations from Abraham to David are 14, and from David to the deportation to Babylon 14, and from the deportation to Babylon to the Christ 14.
+1:18  Now the birth of Jesus Christ was thus: when his mother Mary was betrothed to Joseph, before they came together she was found with child from the Holy Spirit.
+1:19  Joseph her husband, being just and not wishing to expose her, resolved to divorce her quietly.
+1:20  While he was pondering these things, behold, an angel of the Lord appeared to him in a dream, saying: Joseph, son of David, do not be afraid to take Mary as your wife; for what was conceived in her is from the Holy Spirit.

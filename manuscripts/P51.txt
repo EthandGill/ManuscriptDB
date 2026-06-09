@@ -1,0 +1,96 @@
+# ───────────────────────────────────────────────
+# Papyrus 51  (P51)
+# Source: NTVMR docID=10051
+# ───────────────────────────────────────────────
+
+[META]
+id:       P51
+name:     Papyrus 51
+genre:    new-testament
+date:     c. 4th-5th century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Ashmolean Museum, Oxford (P. Oxy. 2157)
+content:  Galatians 1:2-10, 13, 16-20
+lat:      28.5383
+lon:      30.6765
+book:     Galatians
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — Galatians 1:2-10
+
+r.1      GAP:
+r.2      [συν] [εμ]ο[ι] παντε[ς] [αδελφοι] [ταις]
+r.3      [εκκλη]σιαις της [γαλατιας] [χα]—
+r.4      [ρις] [υ]μιν και ειρη[νη] [απο] {θυ} {πρς}
+r.5      [και] {κυ} ημων {ιυ} {χρυ} [του] [δοντος] [ε]—
+r.6      [αυτο]ν υπερ των [αμαρτιων]
+r.7      [ημω]ν οπως εξ[εληται] [ημας]
+r.8      [εκ] [του] αιωνος το[υ] [ενεστωτος]
+r.9      [πονη]ρου κατ[α] [το] [θελημα]
+r.10     [του] {θυ} [κ]αι {παρς} ημω[ν] [ω] [εστιν]
+r.11     [η] [δοξα] εις τους [α]ιω[νας] [των] [αι]—
+r.12     [ωνων] αμην
+r.13     [θαυμαζω] οτι ουτως τ[αχεως] [μετ]—
+r.14     [ατιθ]εσθε απο του κ[αλεσαντος]
+r.15     [υμας] [ε]ν χαριτι {χρυ} ε[ις] [ετερον] [ε]—
+r.16     υ[αγγ]ελιον ο ουκ εστι[ν] [αλλο] [ει]
+r.17     μ[η] [τ]ινες εισιν οι τ[αρασσοντες] [υ]—
+r.18     μ[ας] και θελοντες μ[εταστρε]—
+r.19     [ψαι] [τ]ο ευαγγελιον τ[ου] {χρυ} [αλλα]
+r.20     [καν] [η]μεις η αγγελ[ος] [εξ] {ουνου}
+r.21     [υμι]ν ευαγγελιζη[ται] [παρ] [ο] [ευηγ]—
+r.22     [γελ]ισαμεθα υμ[ιν] [αναθεμα]
+r.23     [εστω] ως προειρηκ[αμεν] [και] [αρ]—
+r.24     [τι] [παλ]ιν λεγω ει τ[ις] [υμας] [ευαγ]—
+r.25     [γελιζ]εται παρ ο ελ[αβετε] [ανα]—
+r.26     [θεμα] εστω αρτι γ[αρ] [ανθρω]—
+r.27     [πους]
+
+FOLIO Verso — Galatians 1:13-19
+
+v.1      GAP:
+v.2      [εδιω]—
+v.3      [κον] [την] [εκκλησ]ιαν [τ]ου {θυ} κ[αι]
+v.4      GAP:
+v.5      GAP:
+v.6      [αποκαλ]υψ[α]ι τ[ο]ν υ[ιον] [αυ]—
+v.7      [του] [εν] [εμοι] [ι]να ευαγγελ[ιζω]—
+v.8      [μαι] [αυτον] [εν] τοις εθνεσ[ιν] [ευ]—
+v.9      [θε]ως ου προσανεθεμην [σαρκι]
+v.10     [και] [αι]ματι ουδε απηλθον εις
+v.11     [ιεροσολυμ]α προς τους προ ε—
+v.12     [μου] [αποστολ]ους αλλα απηλθον
+v.13     [εις] [αραβιαν] και παλιν υπεστρ[ε]—
+v.14     [ψα] [εις] [δαμασ]κον επιτα μετα
+v.15     [ετη] [τρια] [αν]ηλ[θ]ον εις το[ρο]—
+v.16     [σολυμα] ιε[ρο]—
+v.17     [σολυμα] [ιστορ]ησαι κηφαν
+v.18     [και] [επεμεινα] προς αυτον ημ[ε]—
+v.19     [ρας] {ιε} [ετερον] [δε] των αποστο[λων]
+v.20     [ου]κ ειδον [ο]υδενα ει μη ιακ[ω]—
+v.21     [βον] [τον] [α]δελφον του {κυ}
+
+[TRANSLATION]
+1:2    and all the brothers who are with me, To the churches of Galatia:
+1:3    Grace to you and peace from God our Father and the Lord Jesus Christ,
+1:4    who gave himself for our sins to deliver us from the present evil age, according to the will of our God and Father,
+1:5    to whom be the glory forever and ever. Amen.
+1:6    I am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a different gospel —
+1:7    not that there is another one, but there are some who trouble you and want to distort the gospel of Christ.
+1:8    But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed.
+1:9    As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be accursed.
+1:10   For am I now seeking the approval of man, or of God? Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ.
+1:13   For you have heard of my former life in Judaism, how I persecuted the church of God violently and tried to destroy it.
+1:16   he was pleased to reveal his Son to me, in order that I might preach him among the Gentiles, I did not immediately consult with anyone;
+1:17   nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia, and returned again to Damascus.
+1:18   Then after three years I went up to Jerusalem to visit Cephas and remained with him fifteen days.
+1:19   But I saw none of the other apostles except James the Lord's brother.
+1:20   (In what I am writing to you, before God, I do not lie!)

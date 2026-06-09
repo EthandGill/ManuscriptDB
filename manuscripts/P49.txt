@@ -1,0 +1,113 @@
+# ───────────────────────────────────────────────
+# Papyrus 49  (P49)
+# Source: NTVMR docID=10049
+# ───────────────────────────────────────────────
+
+[META]
+id:       P49
+name:     Papyrus 49
+genre:    new-testament
+date:     c. 3rd century CE
+language: Greek (Koiné)
+found:    Egypt
+held:     Yale University Library, New Haven (P. Yale 415)
+content:  Ephesians 4:16-29; 4:31-5:13
+lat:      28.5383
+lon:      30.6765
+book:     Ephesians
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — Ephesians 4:16-29
+
+r.1      GAP:
+r.2      [οικοδομην] [εαυτου] εν αγαπ[η] [το]υτο ουν λ[εγω] [και]
+r.3      [μαρτυρομ]αι εν {κω} μηκετι υ[μας] [π]ερ[ι]πατ[ειν]
+r.4      [καθως] [και] [τα] εθνη περιπατει εν [ματαιοτ]ητι του
+r.5      [νοος] αυτων εσκοτωμενοι τη δ[ια]νοια οντες
+r.6      [απηλ]λοτριωμενοι της ζωης του {θυ} δια την αγνοι—
+r.7      [αν] [τη]ν ουσαν εν αυτοις δια τη[ν] [πωρ]ωσιν της
+r.8      [καρδια]ς αυτων οιτινες απηλ[γηκοτες] εαυτους
+r.9      [παρεδ]ωκαν τη ασελγια ει[ς] εργα[σιαν] ακαθαρ—
+r.10     [σιας] [πασης] [εν] [πλεο]νεξια υμ[εις] [δε] ουχ ουτως
+r.11     [εμαθετε] [τον] {χν} [ει] [γε] αυτον ηκ[ουσατ]ε και εν αυτω
+r.12     [εδιδαχθητε] [καθως] [εστι]ν αληθεια εν [τω] {ιυ} [α]ποθεσθε
+r.13     [υμας] [κατα] [τη]ν προ[τεραν] [α]ναστροφη[ν] [το]ν παλαιον αν—
+r.14     [θρωπον] [τον] φθειρομενον κατα τα[ς] [ε]πιθυμιας της
+r.15     [απατης] [ανα]νεουσθαι δε εν τω {πνι} [το]υ νοος υμων
+r.16     [και] [ενδυσασ]θαι τον καινον ανθ[ρωπο]ν τον κατα
+r.17     {θν} [κτισ]θεντα εν δικαιοσυνη τι της αλη—
+r.18     [θειας] [δι]ο αποθεμενοι το ψευδ[ος] [λαλει]τ[α]ι αληθειαν
+r.19     [εκαστος] [μ]ετα του πλησιον αυτ[ου] [οτι] [εσμεν] αλληλων
+r.20     [μελη] [ο]ργιζεσθαι και μη αμαρταν[ετ]αι ο ηλιος
+r.21     [μη] [επ]ιδυετω επι παρο[ργ]ισμω υμων μηδε
+r.22     [διδοτε] [τ]οπον τω διαβολω ο κλεπτων μηκετει
+r.23     [κλεπτετ]ω μαλλον δ[ε] [κ]οπιατω εργ[α]ζομενος
+r.24     [ταις] [χερσι]ν το αγαθον ινα εχη με[τα]διδοναι
+r.25     [τω] [χρεια]ν εχοντι πας λογος σαπρος [ε]κ του στοματος υμων
+
+FOLIO Verso — Ephesians 4:31-5:13
+
+v.1      GAP:
+v.2      [πα]—
+v.3      [ση] [κ]ακια [γ]ιν[εσθε] δε εις αλληλ[ους] [χρηστοι] [ευσπλαγ]—
+v.4      [χ]νοι χαρ[ι]ζο[μενοι] εαυτοι[ς] καθως ο {θς} ε[ν] {χω} [εχα]—
+v.5      ρισατο ημ[ιν] [γινεσθ]ε ουν μιμηται του {θυ} ως τε[κνα]
+v.6      αγαπητα κα[ι] πε[ρι]πατειται εν αγαπη καθως κ[αι]
+v.7      ο {χς} ηγαπησε[ν] [ημ]ας και παρεδωκε[ν] εαυτον [υπερ]
+v.8      ημων προ[σφορα]ν και θυσιαν τω {θω} ε[ι]ς οσμη[ν] [ευω]—
+v.9      διας πορν[εια] [δε] και ακαθαρσια πασα η πλε[ον]—
+v.10     εξεια μηδ[ε] [ονο]μαζεσθω εν υμιν [κ]αθως π[ρεπει]
+v.11     αγιοις και εσ[χροτ]ης και μω[ρολογια] [η] [ευτραπελια] [α]
+v.12     ουκ ανηκεν αλλ[α] [μ]αλ[λον] [ευχαριστια] [τουτο] [γαρ]
+v.13     ειστε γινωσκ[ο]ντ[ες] οτι πα[ς] [πορνος] [η] [ακ]α[θαρτος]
+v.14     η πλεονεκτης ο [εσ]τιν ειδωλολατρης ου[κ] [εχει]
+v.15     κληρονομεια εν [τη] βασιλεια του {χυ} και {θυ} [μηδεις]
+v.16     υμας απατατω [κε]νοις λογοις δια ταυτα [γαρ] [ερχε]—
+v.17     τε η οργη του {θυ} [επι] τους υιους της απιστια[ς] [μη]
+v.18     ουν γινεσθ[ε] [συμμετ]οχ[οι] αυτων ητε γαρ π[οτε]
+v.19     σκοτος ν[υν] [δε] [φω]ς εν {κω} ως τεκ[ν]α φ[ωτος] [πε]—
+v.20     ριπατειτε [ο] [γαρ] [καρπ]ος του φωτος εν πα[ση] [αγα]—
+v.21     θοσυνη και δ[ικα]ιοσυνη και αληθεια δοκι[μα]—
+v.22     ζοντες τι εστ[ι]ν ευαρεσ[το]ν τω {κω} και μη [συγ]—
+v.23     κοινωνειται τοις εργοις τ[οις] ακαρποις του σκ[οτους]
+v.24     μαλλον δε κ[α]ι ελλεγχετ[ε] τα κρυφη γινο[μενα]
+v.25     υπ αυτων [αι]σχρον εστιν και λεγειν τα [δε] [παν]—
+v.26     τα ελλεγχο[μ]ενα υπο του φωτος φανερ[ουται]
+
+[TRANSLATION]
+4:16   from whom the whole body, joined and held together by every joint with which it is equipped, when each part is working properly, makes the body grow so that it builds itself up in love.
+4:17   Now this I say and testify in the Lord, that you must no longer walk as the Gentiles do, in the futility of their minds.
+4:18   They are darkened in their understanding, alienated from the life of God because of the ignorance that is in them, due to their hardness of heart.
+4:19   They have become callous and have given themselves up to sensuality, greedy to practice every kind of impurity.
+4:20   But that is not the way you learned Christ! —
+4:21   assuming that you have heard about him and were taught in him, as the truth is in Jesus,
+4:22   to put off your old self, which belongs to your former manner of life and is corrupt through deceitful desires,
+4:23   and to be renewed in the spirit of your minds,
+4:24   and to put on the new self, created after the likeness of God in true righteousness and holiness.
+4:25   Therefore, having put away falsehood, let each one of you speak the truth with his neighbor, for we are members one of another.
+4:26   Be angry and do not sin; do not let the sun go down on your anger,
+4:27   and give no opportunity to the devil.
+4:28   Let the thief no longer steal, but rather let him labor, doing honest work with his own hands, so that he may have something to share with anyone in need.
+4:29   Let no corrupting talk come out of your mouths, but only such as is good for building up, as fits the occasion, that it may give grace to those who hear.
+4:31   Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice.
+4:32   Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you.
+5:1    Therefore be imitators of God, as beloved children.
+5:2    And walk in love, as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God.
+5:3    But sexual immorality and all impurity or covetousness must not even be named among you, as is proper among saints.
+5:4    Let there be no filthiness nor foolish talk nor crude joking, which are out of place, but instead let there be thanksgiving.
+5:5    For you may be sure of this, that everyone who is sexually immoral or impure, or who is covetous (that is, an idolater), has no inheritance in the kingdom of Christ and God.
+5:6    Let no one deceive you with empty words, for because of these things the wrath of God comes upon the sons of disobedience.
+5:7    Therefore do not become partners with them;
+5:8    for at one time you were darkness, but now you are light in the Lord. Walk as children of light
+5:9    (for the fruit of light is found in all that is good and right and true),
+5:10   and try to discern what is pleasing to the Lord.
+5:11   Take no part in the unfruitful works of darkness, but instead expose them.
+5:12   For it is shameful even to speak of the things that they do in secret.
+5:13   But when anything is exposed by the light, it becomes visible,

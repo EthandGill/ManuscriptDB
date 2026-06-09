@@ -1,0 +1,48 @@
+# ───────────────────────────────────────────────
+# Papyrus 7  (P7)
+# Source: NTVMR docID=10007
+# ───────────────────────────────────────────────
+
+[META]
+id:       P7
+name:     Papyrus 7
+genre:    new-testament
+date:     4th cent. CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     British Library, London
+content:  Luke 4:1-2
+lat:      28.5383
+lon:      30.6765
+book:     Luke
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[CONTENT:Luke]
+Luke 4:1-2
+
+[GREEK:Luke]
+
+FOLIO Recto
+
+r.1    {ις} δε πλ[ηρης] {πνς} αγιου υπε[σ]—
+r.2    [τρε]ψεν [απ]ο του ιορ—
+r.3    δανο[υ] [και] [ηγετο] εν [τω] {πνι}
+r.4    [εν] [τη] [ερ]ημ[ω]
+r.5    ημερας τεσ—
+r.6    σερακοντα πειραζομενος υπο
+r.7    του διαβολου και ουκ ε—
+r.8    φαγεν ου[δε]ν εν ταις ημε—
+r.9    ραις [εκ]ειναις κ[α]ι συντε—
+r.10   λ[εσθ]ει[σων] [αυτων] [επει]—
+r.11   ν[ασεν]
+
+[TRANSLATION:Luke]
+
+FOLIO Recto — Luke 4:1-2
+4:1  And Jesus, full of the Holy Spirit, returned from the Jordan and was being led by the Spirit in the wilderness
+4:2  forty days, being tempted by the devil. And he ate nothing in those days, and when they were completed, he hungered.

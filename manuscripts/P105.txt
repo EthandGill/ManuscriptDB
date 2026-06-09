@@ -1,0 +1,59 @@
+# ───────────────────────────────────────────────
+# Papyrus 105  (P105)
+# Source: NTVMR docID=10105
+# ───────────────────────────────────────────────
+
+[META]
+id:       P105
+name:     Papyrus 105
+genre:    new-testament
+date:     c. 5th-6th century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Sackler Library, Oxford (P. Oxy. 4406)
+content:  Matthew 27:62-64; 28:2-5
+lat:      28.5383
+lon:      30.6765
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — Matthew 27:62-64
+
+r.1      GAP:
+r.2      [η]—
+r.3      [τις] [εστιν] [μετα] [τ]ην παρ[ασκευην]
+r.4      [συνηχθησαν] [ο]ι αρχιερ[εις] [και] [οι]
+r.5      [φαρισαιοι] [προς] τον πει[λατον]
+r.6      [λεγοντες] {κε} [εμ]νησθημ[εν] [οτι] [εκει]—
+r.7      [νος] [ο] [πλανος] ειπεν ετι [ζων] [μετα]
+r.8      [τρεις] [ημερας] εγειρομα[ι] [κελευσον]
+r.9      [ουν] [ασφαλισθ]ηνα[ι] το[ν] [ταφον] [εως]
+
+FOLIO Verso — Matthew 28:2-5
+
+v.1      GAP:
+v.2      [εκαθητο] [επαν]ω αυτο[υ] [ην] [δε] [η] [ειδεα]
+v.3      [αυτου] [ως] [αστρ]απη και τ[ο] [ενδυμα]
+v.4      [αυτου] [λευκον] ως χειω[ν] [απο] [δε]
+v.5      [του] [φοβου] [αυτο]υ εσισθ[ησαν] [οι] [τη]—
+v.6      [ρουντες] [και] εγενηθη[σαν] [ως] [νε]—
+v.7      [κροι] [αποκριθ]εις δε ο α[γγελος] [ειπεν]
+v.8      [ταις] [γυναιξιν] [μ]η φο[βεισθε] [υμεις]
+
+
+[TRANSLATION]
+
+27:62   The next day, that is, after the day of Preparation, the chief priests and the Pharisees gathered before Pilate
+27:63   and said, Sir, we remember how that impostor said, while he was still alive, After three days I will rise.
+27:64   Therefore order the tomb to be made secure until the third day, lest his disciples go and steal him away and tell the people, He has risen from the dead, and the last fraud will be worse than the first.
+28:2    And behold, there was a great earthquake, for an angel of the Lord descended from heaven and came and rolled back the stone and sat on it.
+28:3    His appearance was like lightning, and his clothing white as snow.
+28:4    And for fear of him the guards trembled and became like dead men.
+28:5    But the angel said to the women, Do not be afraid, for I know that you seek Jesus who was crucified.

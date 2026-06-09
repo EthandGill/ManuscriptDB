@@ -1,0 +1,265 @@
+# ───────────────────────────────────────────────
+# Papyrus 13  (P13)
+# Source: NTVMR docID=10013
+# ───────────────────────────────────────────────
+
+[META]
+id:       P13
+name:     Papyrus 13
+genre:    new-testament
+date:     c. 225-250 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     British Library, London (Inv. 1532) & Egyptian Museum, Cairo (PSI 1292)
+content:  Hebrews 2:14-5:5; 10:8-22; 10:29-11:14
+lat:      28.5383
+lon:      30.6765
+book:     Hebrews
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO 47V — Hebrews 2:14-3:9
+
+r.1      GAP:
+r.2      [καταργηση] [τον] το κρατος εχοντα του θανατου
+r.3      [τουτ] [εστιν] [το]ν διαβολον και απαλλαξη του—
+r.4      [τους] [οσοι] [φοβω] [θ]ανατου δια παντοντος του ζην
+r.5      [ενοχοι] [ησαν] [δου]λειας ου γαρ δηπου αγγελων
+r.6      [επιλαμβανεται] αλλα σπερματος αβρααμ επι—
+r.7      [λαμβανεται] [οθ]εν ωφιλεν κατα παντα τοις α—
+r.8      [δελφοις] [ομοιωθ]ηναι ινα ελεημων γενηται
+r.9      [και] [πιστος] [αρχιε]ρευς τα προς τον {θν} εις το ειλασ—
+r.10     [κεσθαι] [τας] [αμαρ]τιας του λαου εν ω γαρ πεπον—
+r.11     [θεν] [αυτος] [πειρασ]θεις δυναται τοις πιραζομε—
+r.12     [νοις] [βοηθησαι] [ο]θεν αδελφοι αγιοι κλησεως ε—
+r.13     [πουρανιου] [μετοχ]οι κατανοησατε τον αποστολον
+r.14     [και] [αρχιερεα] [της] [ο]μολογιας ημων {ιν} πιστον οντα
+r.15     [τω] [ποιησαντι] αυτον ως κε μωυσης εν τω οικω
+r.16     [αυτου] [πλειο]νος γαρ δοξης ουτος παρα μωυσην
+r.17     [ηξιωται] [καθ] [ο]σον πλειονα τιμη εχει τ[ου] [ο]ικου ο
+r.18     [κατασκευα]σας αυτον πας γαρ οικος κατασκευ—
+r.19     [αζεται] [υπο] τινος ο δε παντα κατασκευασας {θς}
+r.20     [και] [μωυση]ς μεν πιστος εν ολω τω οικω αυτου
+r.21     [ως] [θεραπω]ν εις μαρτυριον των λαληθησομε—
+r.22     [νων] {χς} [δε] ως υιος επι τον οικον αυτου ου οικος
+r.23     [εσμεν] [ημει]ς εαν την παρρησιαν και το καυχη—
+r.24     [μα] [της] [ελπ]ιδος κατασχωμεν διο καθως λεγει
+r.25     [το] {πνα} [το] [α]γιον σημερον εαν της φωνης αυτου
+r.26     [ακουσητε] μη σκληρυνητε τας καρδιας υμων
+r.27     [ως] [εν] [τω] [πα]ραπικρασμω κατα την ημεραν του
+r.28     [πειρασμου] εν τη ερημω ου επιρσαν οι πατερες υμων
+
+FOLIO Col.41 — Hebrews 10:8-22
+
+v.1      GAP:
+v.2      προσφεροντα[ι] [το]τε ειρη[κεν] [ιδ]ου η[κω] [του] [ποιησαι]
+v.3      το θελημα σου αναιρει το [πρωτ]ον ινα [το] [δευτερον]
+v.4      στηση εν ω θε[λη]ματι ηγιασμεν[ο]ι εσμ[εν] [δια] [της] [προσ]—
+v.5      φορας του σωματος {ιυ} {χυ} εφαπαξ [και] [πας] [μεν]
+v.6      ιερευς εστηκεν καθ ημεραν λιτου[ργων] λειτου[ργων] [και] [τας] [αυ]—
+v.7      τας πολλακις προσφερω[ν] θυσιας αιτινες ου[δεπο]—
+v.8      ται δυνανται περιελειν αμαρτιαν ουτος δε [μιαν]
+v.9      υπερ αμαρτιω[ν] προσενεγκας θυσιαν εις το δι[ηνεκες]
+v.10     εκαθισεν εν [δεξια] του {θυ} το λοιπον εκδεχο[μενος]
+v.11     εως τεθωσιν [ο]ι εχθρ[ο]ι υποποδιον των ποδιω[ν] [αυτου]
+v.12     μια γαρ προσφορα τετελειωκεν εις το διηνεκε[ς] [τους]
+v.13     αγιαζομενους μαρτυρει δε ημειν και τ[ο] {πνα}
+v.14     το αγιον μετα γαρ το ειρηκεναι αυτη δε η δια[θηκη]
+v.15     ην διαθησομαι προς αυτους μετα τας ημερ[ας] [εκει]—
+v.16     νας λεγει {κς} διδους νομους μου επι καρδια[ς] [αυτων]
+v.17     και επι την διανοιαν [α]υτων α επιγραψω αυ[τους]
+v.18     και των αμαρτιων και [τ]ων ανομιων α[υ]των ου μι
+v.19     μνησθησομαι ετι οπου δε αφεσις του[τ]ων ουκ—
+v.20     ετι προσφορα περι αμαρτιαις εχοντες ουν αδελ—
+v.21     φοι παρρησιαν εις την εισοδον των αγιων εν τω
+v.22     αιματι {ιυ} ην ενεκενισεν ημιν οδο[ν] προσ—
+v.23     φατον και ζωσαν δια του καταπετασματος
+v.24     τουτ εστιν της σαρκος αυτου και ιερεα μεγαν
+v.25     επι τον οικον του {θυ} προσερ[χ]ωμεθα μετα
+
+FOLIO 65V — Hebrews 10:29-11:4
+
+r.1      GAP:
+r.2      GAP:
+r.3      GAP:
+r.4      GAP:
+r.5      GAP:
+r.6      GAP:
+r.7      GAP:
+r.8      GAP:
+r.9      GAP:
+r.10     GAP:
+r.11     GAP:
+r.12     GAP:
+r.13     GAP:
+r.14     GAP:
+r.15     GAP:
+r.16     GAP:
+r.17     GAP:
+r.18     GAP:
+r.19     GAP:
+r.20     GAP:
+r.21     GAP:
+r.22     GAP:
+r.23     GAP:
+r.24     GAP:
+r.25     GAP:
+r.26     GAP:
+r.27     GAP:
+r.28     GAP:
+r.29     GAP:
+r.30     GAP:
+r.31     GAP:
+r.32     GAP:
+r.33     GAP:
+r.34     GAP:
+r.35     GAP:
+r.36     GAP:
+r.37     GAP:
+r.38     GAP:
+r.39     GAP:
+r.40     GAP:
+r.41     GAP:
+r.42     GAP:
+r.43     GAP:
+r.44     GAP:
+r.45     GAP:
+
+FOLIO 67V — Hebrews 11:5-13
+
+v.1      GAP:
+v.2      ναι τω {θω} [χωρις] [δε] [πιστεως] [αδυνατον] [ευαρεστησαι]
+v.3      πιστευσαι [γαρ] [δει] [τον] [προσερχομενον] [τω] {θω} [οτι] [εστιν]
+v.4      και τοις ζη[τουσιν] [αυτον] [μισθαποδοτης] [γινεται] [πιστει]
+v.5      χρηματι[σθεις] [νωε] [περι] [των] [μηδεπω] [βλεπομενων]
+v.6      ευλαβηθε[ις] [κατεσκευασεν] [κιβωτον] [εις] [σωτηριαν] [του]
+v.7      οικου αυτου [δι] [ης] [κατεκρινεν] [τον] [κοσμον] [και] [της] [κατα]
+v.8      πισ[τι]ν δικα[ιοσυνης] [εγενετο] [κληρονομος] [πιστει] [καλου]—
+v.9      μενος αβραα[μ] [υπηκουσεν] [εξελθειν] [εις] [τοπον] [ον] [ημελ]—
+v.10     λεν λαμβαν[ειν] [εις] [κληρονομιαν] [και] [εξηλθεν] [μη] [επι]—
+v.11     σταμενος π[ου] [ερχεται] [πιστει] [παρωκησεν] [εις] [γην] [της]
+v.12     επαγγελιας [ως] [αλλοτριαν] [εν] [σκηναις] [κατοικησας] [μετα]
+v.13     ισακ και ιακ[ωβ] [των] [συγκληρονομων] [της] [επαγγελιας] [της]
+v.14     αυτης εξ[εδεχετο] [γαρ] [την] [τους] [θεμελιους] [εχουσαν] [πο]—
+v.15     λιν ης τεχν[ιτης] [και] [δημιουργος] [ο] {θς} [πιστει] [και] [αυτη] [σ]—
+v.16     αρρα δυναμ[ιν] [εις] [καταβολην] [σπερματος] [ελαβεν] [και] [πα]—
+v.17     ρα καιρον ηλ[ικιας] [επει] [πιστον] [ηγησατο] [τον] [επαγγειλαμε]—
+v.18     νον διο και [αφ] [ενος] [εγεννηθησαν] [και] [ταυτα] [νενεκρω]—
+v.19     μενου κα[θως] [τα] [αστρα] [του] [ουρανου] [τω] [πληθει] [και]
+v.20     ως η αμμος η [παρα] [το] [χειλος] [της] [θαλασσης] [η] [αναριθμητος]
+v.21     [κ]ατα πιστιν α[πεθανον] [ουτοι] [παντες] [μη] [λαβοντες] [τας]
+v.22     [ε]παγγελεια[ς] [αλλα] [πορρωθεν] [αυτας] [ιδοντες] [και] [ασ]—
+v.23     [π]ασαμενοι [και] [ομολογησαντες] [οτι] [ξενοι] [και] [παρεπιδημοι]
+v.24     [ε]ισιν επι της [γης]
+
+FOLIO 68V — Hebrews 11:14-26
+
+r.1      GAP:
+r.2      GAP:
+r.3      GAP:
+r.4      GAP:
+r.5      GAP:
+r.6      GAP:
+r.7      GAP:
+r.8      GAP:
+r.9      GAP:
+r.10     GAP:
+r.11     GAP:
+r.12     GAP:
+r.13     GAP:
+r.14     GAP:
+r.15     GAP:
+r.16     GAP:
+r.17     GAP:
+r.18     GAP:
+r.19     GAP:
+r.20     GAP:
+r.21     GAP:
+r.22     GAP:
+r.23     GAP:
+r.24     GAP:
+r.25     GAP:
+r.26     GAP:
+r.27     GAP:
+r.28     GAP:
+r.29     GAP:
+r.30     GAP:
+r.31     GAP:
+r.32     GAP:
+r.33     GAP:
+r.34     GAP:
+r.35     GAP:
+r.36     GAP:
+r.37     GAP:
+r.38     GAP:
+r.39     GAP:
+
+FOLIO 69V — Hebrews 11:26-28
+
+v.1      GAP:
+v.2      GAP:
+v.3      GAP:
+v.4      GAP:
+v.5      GAP:
+v.6      GAP:
+v.7      GAP:
+v.8      GAP:
+v.9      GAP:
+v.10     GAP:
+v.11     GAP:
+v.12     GAP:
+v.13     GAP:
+v.14     GAP:
+v.15     GAP:
+v.16     GAP:
+v.17     GAP:
+v.18     GAP:
+v.19     GAP:
+v.20     GAP:
+v.21     GAP:
+
+[TRANSLATION]
+2:14   Since therefore the children share in flesh and blood, he himself likewise partook of the same things, that through death he might destroy the one who has the power of death, that is, the devil,
+2:15   and deliver all those who through fear of death were subject to lifelong slavery.
+2:16   For surely it is not angels that he helps, but he helps the offspring of Abraham.
+2:17   Therefore he had to be made like his brothers in every respect, so that he might become a merciful and faithful high priest in the service of God, to make propitiation for the sins of the people.
+2:18   For because he himself has suffered when tempted, he is able to help those who are being tempted.
+3:1    Therefore, holy brothers, you who share in a heavenly calling, consider Jesus, the apostle and high priest of our confession,
+3:2    who was faithful to him who appointed him, just as Moses also was faithful in all God's house.
+3:3    For Jesus has been counted worthy of more glory than Moses — as much more glory as the builder of a house has more honor than the house itself.
+3:4    (For every house is built by someone, but the builder of all things is God.)
+3:5    Now Moses was faithful in all God's house as a servant, to testify to the things that were to be spoken later,
+3:6    but Christ is faithful over God's house as a son. And we are his house, if indeed we hold fast our confidence and our boasting in our hope.
+3:7    Therefore, as the Holy Spirit says, "Today, if you hear his voice,
+3:8    do not harden your hearts as in the rebellion, on the day of testing in the wilderness,
+3:9    where your fathers put me to the test and saw my works for forty years."
+10:8   when he said above, "You have neither desired nor taken pleasure in sacrifices and offerings and burnt offerings and sin offerings" (these are offered according to the law),
+10:9   then he added, "Behold, I have come to do your will." He does away with the first in order to establish the second.
+10:10  And by that will we have been sanctified through the offering of the body of Jesus Christ once for all.
+10:11  And every priest stands daily at his service, offering repeatedly the same sacrifices, which can never take away sins.
+10:12  But when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God,
+10:13  waiting from that time until his enemies should be made a footstool for his feet.
+10:14  For by a single offering he has perfected for all time those who are being sanctified.
+10:15  And the Holy Spirit also bears witness to us; for after saying,
+10:16  "This is the covenant that I will make with them after those days, declares the Lord: I will put my laws on their hearts, and write them on their minds,"
+10:17  then he adds, "I will remember their sins and their lawless deeds no more."
+10:18  Where there is forgiveness of these, there is no longer any offering for sin.
+10:19  Therefore, brothers, since we have confidence to enter the holy places by the blood of Jesus,
+10:20  by the new and living way that he opened for us through the curtain, that is, through his flesh,
+10:21  and since we have a great priest over the house of God,
+10:22  let us draw near with a true heart in full assurance of faith, with our hearts sprinkled clean from an evil conscience and our bodies washed with pure water.
+11:5   By faith Enoch was taken up so that he should not see death, and he was not found, because God had taken him. Now before he was taken he was commended as having pleased God.
+11:6   And without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him.
+11:7   By faith Noah, being warned by God concerning events as yet unseen, in reverent fear constructed an ark for the saving of his household. By this he condemned the world and became an heir of the righteousness that comes by faith.
+11:8   By faith Abraham obeyed when he was called to go out to a place that he was to receive as an inheritance. And he went out, not knowing where he was going.
+11:9   By faith he went to live in the land of promise, as in a foreign land, living in tents with Isaac and Jacob, heirs with him of the same promise.
+11:10  For he was looking forward to the city that has foundations, whose designer and builder is God.
+11:11  By faith Sarah herself received power to conceive, even when she was past the age, since she considered him faithful who had promised.
+11:12  Therefore from one man, and him as good as dead, were born descendants as many as the stars of heaven and as many as the innumerable grains of sand by the seashore.
+11:13  These all died in faith, not having received the things promised, but having seen them and greeted them from afar, and having acknowledged that they were strangers and exiles on the earth.

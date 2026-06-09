@@ -1,0 +1,64 @@
+# ───────────────────────────────────────────────
+# Papyrus 17  (P17)
+# Source: NTVMR docID=10017
+# ───────────────────────────────────────────────
+
+[META]
+id:       P17
+name:     Papyrus 17
+genre:    new-testament
+date:     c. 4th century CE
+language: Greek (Koiné)
+found:    Egypt
+held:     Cambridge University Library (Add. 5893)
+content:  Hebrews 9:12-19
+lat:      28.5383
+lon:      30.6765
+book:     Hebrews
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — Hebrews 9:12-14
+
+r.1      GAP:
+r.2      δ[ι]α δε [του] ι[δ]ι[ο]υ [αιματος] [εισηλθεν]
+r.3      εφαπαξ εις τα αγι[α] [αιωνιαν] [λυτρωσιν]
+r.4      ευραμενος ει γ[αρ] [το] [αιμα] [τραγων] [και]
+r.5      ταυρων και σπ[οδος] [δαμαλεως]
+r.6      ραντιζουσα τους [κεκοινωμενους]
+r.7      αγιαζει προς τη[ν] [της] [σαρκος] [καθαροτητα]
+r.8      [π]οσ[ω] [π]ολλ[ω] [μαλλ]ον τ[ο] [αιμα] [του] {χυ} [ος] [δια]
+r.9      {πνς} [αιων]ιου [εαυτον] [προσηνεγκεν]
+r.10     [αμωμον] [τω] {θω} [καθαριει] [την] [συν]—
+r.11     [ειδησιν] [η]μω[ν] [απο] [νεκρων] [εργων]
+
+FOLIO Verso — Hebrews 9:15-19
+
+v.1      GAP:
+v.2      [λαβωσιν] [οι] [κεκλημ]ε[νοι] [τ]ης αι[ω]—
+v.3      [νιου] [κληρονομια]ς οπου γαρ διαθηκη
+v.4      [θανατον] [αναγκη] [φ]ερεσθαι του διαθε—
+v.5      [μενου] [διαθηκη] [γαρ] επι νεκροις βεβαια
+v.6      [επει] [μηποτε] [ισχυει] [οτε] ζη ο διαθεμενο[ς]
+v.7      [οθεν] [ουδε] [η] [πρωτη] [χ]ωρις αιματος εν—
+v.8      [κεκαινισται] [λαληθεισ]ης γαρ πασης
+v.9      [εντολης] [κατα] [τον] [νο]μον [υπο] [μωυ]σεω[ς]
+v.10     [παντι] [τω] [λαω] [λαβω]ν τ[ο] [αιμα] [τ]ων [μο]—
+v.11     [σχων] [και] [των] [τραγω]ν μ[ετα] [υδα]τος [και]
+v.12     [εριου] [κοκκινου] [και] υσσ[ωπου] αυ[το]
+
+[TRANSLATION]
+9:12   he entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption.
+9:13   For if the blood of goats and bulls, and the sprinkling of defiled persons with the ashes of a heifer, sanctify for the purification of the flesh,
+9:14   how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to serve the living God.
+9:15   Therefore he is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance, since a death has occurred that redeems them from the transgressions committed under the first covenant.
+9:16   For where a will is involved, the death of the one who made it must be established.
+9:17   For a will takes effect only at death, since it is not in force as long as the one who made it is alive.
+9:18   Therefore not even the first covenant was inaugurated without blood.
+9:19   For when every commandment of the law had been declared by Moses to all the people, he took the blood of calves and goats, with water and scarlet wool and hyssop, and sprinkled both the book itself and all the people,

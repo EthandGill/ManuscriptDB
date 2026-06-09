@@ -1,0 +1,73 @@
+# ───────────────────────────────────────────────
+# Papyrus 124  (P124)
+# Source: NTVMR docID=10124
+# ───────────────────────────────────────────────
+
+[META]
+id:       P124
+name:     Papyrus 124
+genre:    new-testament
+date:     c. 6th century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Sackler Library, Oxford (P. Oxy. 4845)
+content:  2 Corinthians 11:1-4, 6-9
+lat:      28.5383
+lon:      30.6765
+book:     2 Corinthians
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — 2 Corinthians 11:1-4
+
+r.1      GAP:
+r.2      [μικρον] [τι]αφρο[συνης]
+r.3      [αλλα] [και] [ανει]χεσ[θε] [μου]
+r.4      [ζηλω] [γαρ] [υ]μας {θυ} ζηλ[ω]
+r.5      [ηρμοσαμ]ην γαρ υμα[ς] [ε]νι
+r.6      [ανδρι] [παρθ]ενον αγνην
+r.7      [παραστησα]ι τω {χω}
+r.8      [φοβουμαι] [δ]ε μη πως ω[ς]
+r.9      [ο] [οφις] [εξη]πατησεν ευαν
+r.10     [εν] [τη] [πανουρ]για αυτου φθα—
+r.11     [ρη] [τα] [νοηματα] υμων απο
+r.12     [της] [απλοτητο]ς και της αγνο—
+r.13     [τητος] [της] [εις] [το]ν {χν}
+r.14     [ει] [μεν] [γαρ] [ο] [ερχομεν]ος αλ—
+r.15     [λον] {ιν} [κηρυσσει] [ον] [ουκ] εκη—
+r.16     [ρυξαμεν]
+
+FOLIO Verso — 2 Corinthians 11:6-9
+
+v.1      GAP:
+v.2      [φανερωσαν]—
+v.3      τ[ες] [εν] [πα]σιν [εις] [υμας]
+v.4      η [αμαρτι]αν επ[οιησα] [εμαυ]—
+v.5      τ[ον] ταπεινω[ν] [ινα] [υμεις]
+v.6      [υψ]ωθητε οτ[ι] [δωρεαν]
+v.7      [τ]ο του {θυ} ευαγ[γελιον] [ευ]—
+v.8      ηγγελ[ι]σαμη[ν] [υμιν]
+v.9      [α]λλα[ς] εκκλη[σιας] [εσυλη]—
+v.10     σα λαβων οψ[ωνιον] [προς]
+v.11     την υμων [διακονιαν]
+v.12     και παρω[ν] [προς] [υμας]
+v.13     και υστερη[θεις] [ου] [κατε]—
+v.14     να[ρκ]ησ[α] [ουθενος] [το]
+v.15     γα[ρ] [υστερημα] [μου] [προσ]—
+v.16     αν[επληρωσαν] [οι] [αδελφοι]
+
+[TRANSLATION]
+11:1   I wish you would bear with me in a little foolishness. Do bear with me!
+11:2   For I feel a divine jealousy for you, since I betrothed you to one husband, to present you as a pure virgin to Christ.
+11:3   But I am afraid that as the serpent deceived Eve by his cunning, your thoughts will be led astray from a sincere and pure devotion to Christ.
+11:4   For if someone comes and proclaims another Jesus than the one we proclaimed, or if you receive a different spirit from the one you received, or if you accept a different gospel from the one you accepted, you put up with it readily enough.
+11:6   Even if I am unskilled in speaking, I am not so in knowledge; indeed, in every way we have made this plain to you in all things.
+11:7   Or did I commit a sin in humbling myself so that you might be exalted, because I preached God's gospel to you free of charge?
+11:8   I robbed other churches by accepting support from them in order to serve you.
+11:9   And when I was with you and was in need, I did not burden anyone, for the brothers who came from Macedonia supplied my need. So I refrained and will refrain from burdening you in any way.

@@ -1,0 +1,25 @@
+[META]
+id: P121
+name: Papyrus 121
+label: P121
+genre: new-testament
+book: John
+lat: 28.5383
+lon: 30.6765
+date: c. 3rd century CE
+language: Greek (Koiné)
+found: Oxyrhynchus, Egypt
+held: Bodleian Art, Archaeology and Ancient World Library, Oxford (P. Oxy. 4805)
+content: John 19:17-18
+
+[GREEK]
+FOLIO Recto — John 19:17-18
+r.1    [λεγεται] [ε]βραιστι γ[ολγοθα]
+r.2    [οπου] [αυτον] {εσταυρωσαν}
+r.3    και μ[ε][τ] [αυτου] [αλλους] [δυο]
+r.4    [εντευ][θεν] [και] [εντευθεν] [μεσον] [δε] [τον] [{ιν}]
+
+[TRANSLATION]
+FOLIO Recto — John 19:17-18
+19:17   …which is called in Hebrew Golgotha,
+19:18   where they crucified him, and with him two others, one on this side and one on that, and Jesus in the middle.

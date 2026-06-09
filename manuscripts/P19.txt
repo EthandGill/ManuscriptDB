@@ -1,0 +1,104 @@
+# ───────────────────────────────────────────────
+# Papyrus 19  (P19)
+# Source: NTVMR docID=10019
+# ───────────────────────────────────────────────
+
+[META]
+id:       P19
+name:     Papyrus 19
+genre:    new-testament
+date:     c. 300-350 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Bodleian Library, Oxford (P.Oxy. 1170)
+content:  Matthew 10:32-11:5; 11:24; 11:26-27
+lat:      28.5383
+lon:      30.6765
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      ενπ[ροσ]θεν των [ανθρωπων] [ομολο]—
+r.2      [γ]ησω [καγ]ω αυτον ενπρο[σθεν] [του] [πατρος]
+r.3      μου τ[ου] [ε]ν ουρανοις οσ[τις] [δ] [αν] [αρνη]—
+r.4      σητε με ενπροσθεν τω[ν] [ανθρωπων]
+r.5      καγω αυτον ενπ[ροσθεν] [του]
+r.6      πατρος μου του εν ουρα[νοις] [μη]
+r.7      ουν νομισητε οτι ηλ[θον] [βαλειν]
+r.8      ειρηνην επι την γην [ουκ] [ηλθον]
+r.9      [βαλειν] [ειρηνην] [αλλα] [μαχαιραν]
+r.10     [ηλθον] [γαρ] διχασαι ανθ[ρωπον] [κα]—
+r.11     [τα] [του] [π]ατρος αυτου [και] [θυ]—
+r.12     [γατερα] [κ]ατα τ[ης] [μητρος] [αυτης] [και]
+r.13     [νυμφην] [κα]τα της [πενθερας] [αυτης]
+r.14     [και] [εχθροι] το[υ] ανθρω[που] [οι] [οικι]—
+r.15     [ακοι] α[υτ]ου ο φιλ[ων] [πατερα] [η] [μη]—
+r.16     τερα υπερ εμε ουκ ε[στιν] [μου] [α]—
+r.17     ξιος ο ευρων την [ψυχην] [αυτου]
+r.18     α[πο]λεσ[ει] αυτην κα[ι] [ο] [απολεσας]
+r.19     την ψυχην αυτου εν[εκεν] [εμου]
+r.20     ευρησει αυτην [ο] [δ]εχ[ομενος]
+r.21     υμας εμε δεχετ[α]ι [και] [ο] [εμε] [δε]—
+r.22     χομενος δεχεται το[ν] [αποστει]
+
+FOLIO Verso
+
+v.1      [λαντα] [με] [ο] [δ]εχομενος προφητην
+v.2      [εις] [ονομ]α προφητου [μισθο]ν προ—
+v.3      [φητου] [λη]μψεται και ο δ[εχο]μενος
+v.4      [δικαιον] [ε]ις ονομα δικαιου μισθον
+v.5      [δικαιου] [λ]ηψεται και ος εαν πο—
+v.6      [τιση] [εν]α των μικρων τουτων
+v.7      [ποτηριο]ν ψυχρου μονον εις ο—
+v.8      [νομα] [μ]αθητου αμην [λ]εγω υμιν
+v.9      [ου] [μη] [α]πο[λεσ]η [τον] [μισθον] [αυ]—
+v.10     [του] [κα]ι ε[γενετο] [οτε] [ετελεσεν] [ο] [ιη]—
+v.11     [σους] [δι]ατ[ασ]σων το[ις] [δωδεκα] [μα]—
+v.12     [θηταις] αυ[το]υ [με]τ[εβη] [εκειθεν]
+v.13     [του] [διδα]σκ[ειν] και [κηρυσσειν]
+v.14     [εν] [ταις] πο[λεσιν] [αυτων] [ο] [δε] [ιω]—
+v.15     [αννης] [α]κο[υσας] [εν] [τω] [δεσμωτηριω]
+v.16     GAP:
+v.17     GAP:
+v.18     [αυ]—
+v.19     [τω] [συ] [ει] ο ερχομεν[ος] [η] [ετερον]
+v.20     [προσδο]κωμε[ν] [και] [αποκριθεις] [ο] [ιη]—
+v.21     [σους] [ει]πεν αυτοι[ς] [πο]ρευθεν[τ]ε[ς]
+v.22     [απαγγει]λατε ιωαν[νη] α ακου—
+v.23     [ετε] [και] [β]λεπετ[ε] τυφ[λο]ι ανα[βλεπου]—
+v.24     [σιν] [και] χωλοι περιπα[τουσιν]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+10:32  Everyone who acknowledges me before others, I also will acknowledge before my Father in heaven;
+10:33  but whoever denies me before others, I also will deny before my Father in heaven.
+10:34  Do not think that I have come to bring peace to the earth; I have not come to bring peace, but a sword.
+10:35  For I have come to set a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law;
+10:36  and one's foes will be members of one's own household.
+10:37  Whoever loves father or mother more than me is not worthy of me; and whoever loves son or daughter more than me is not worthy of me;
+10:38  and whoever does not take up the cross and follow me is not worthy of me.
+10:39  Those who find their life will lose it, and those who lose their life for my sake will find it.
+10:40  Whoever welcomes you welcomes me, and whoever welcomes me welcomes the one who sent me.
+10:41  Whoever welcomes a prophet in the name of a prophet will receive a prophet's reward; and whoever welcomes a righteous person in the name of a righteous person will receive the reward of the righteous;
+10:42  and whoever gives even a cup of cold water to one of these little ones in the name of a disciple — truly I tell you, none of these will lose their reward.
+11:1   Now when Jesus had finished instructing his twelve disciples, he went on from there to teach and proclaim his message in their cities.
+11:2   When John heard in prison what the Messiah was doing, he sent word by his disciples
+11:3   and said to him, Are you the one who is to come, or are we to wait for another?
+11:4   Jesus answered them, Go and tell John what you hear and see:
+11:5   the blind receive their sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, and the poor have good news brought to them.
+11:24  But I tell you that on the day of judgment it will be more tolerable for the land of Sodom than for you.
+11:26  Yes, Father, for such was your gracious will.
+11:27  All things have been handed over to me by my Father; and no one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him.
+#
+# [TRANSLATION]
+# 1:1   The book of the genealogy of ...

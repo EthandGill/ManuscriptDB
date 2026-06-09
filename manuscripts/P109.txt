@@ -1,0 +1,65 @@
+# ───────────────────────────────────────────────
+# Papyrus 109  (P109)
+# Source: NTVMR docID=10109
+# ───────────────────────────────────────────────
+
+[META]
+id:       P109
+name:     Papyrus 109
+genre:    new-testament
+date:     c. 3rd century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Sackler Library, Oxford (P. Oxy. 4448)
+content:  John 21:18-20, 23-25
+lat:      28.5383
+lon:      30.6765
+book:     John
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — John 21:18-20
+
+r.1      GAP:
+r.2      [οταν] [δε] [γηρασης] [εκτε]νει[ς]
+r.3      [τας] [χειρας] [σου] [κ]αι αλλοι
+r.4      ουσιν σε
+r.5      [οπου] [ου] [θελεις] [τ]ουτο δε
+r.6      [ειπεν] [σημαινων] [ποιω] θα—
+r.7      [νατω] [δοξασει] [τον] [θεον] [και]
+r.8      [τουτο] [ειπων] [λεγει] [αυ]τω ακο—
+r.9      [λουθει] [μοι] [επιστραφ]εις ο
+r.10     [πετρος] [βλεπει] [τον] μαθη—
+r.11     [την]
+
+FOLIO Verso — John 21:23-25
+
+v.1      GAP:
+v.2      [θε]—
+v.3      λ[ω] [μεν]ε[ιν] [εως] [ερχομαι] [τι]
+v.4      προς σ[ε] [ουτος] [εστιν] [ο] [μα]—
+v.5      θητης [ο] [και] [μαρτυρων] [πε]—
+v.6      ρι τουτ[ων] [και] [ο] [γραψας]
+v.7      ταυ[τα] [και] [οιδαμεν] [οτι]
+v.8      GAP:
+v.9      εσ[τιν] [εστιν] [δε] [και] [αλλα]
+v.10     πολλ[α] [α] [εποιησεν] [ο] {ις} [α]—
+v.11     τινα [εαν] [γραφηται] [καθ] [εν]
+v.12     ουδ [αυτον] [οιμαι] [τον] [κοσ]—
+v.13     [μον]
+
+
+[TRANSLATION]
+
+21:18   Truly, truly, I say to you, when you were young, you used to dress yourself and walk wherever you wanted, but when you are old, you will stretch out your hands, and another will dress you and carry you where you do not want to go.
+21:19   (This he said to show by what kind of death he was to glorify God.) And after saying this he said to him, Follow me.
+21:20   Peter turned and saw the disciple whom Jesus loved following them, the one who had been reclining at table close to him and had said, Lord, who is it that is going to betray you?
+21:23   So the saying spread abroad among the brothers that this disciple was not to die; yet Jesus did not say to him that he was not to die, but, If it is my will that he remain until I come, what is that to you?
+21:24   This is the disciple who is bearing witness about these things, and who has written these things, and we know that his testimony is true.
+21:25   Now there are also many other things that Jesus did. Were every one of them to be written, I suppose that the world itself could not contain the books that would be written.

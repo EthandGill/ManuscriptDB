@@ -1,0 +1,553 @@
+# ───────────────────────────────────────────────
+# Papyrus 115  (P115)
+# Source: NTVMR docID=10115
+# ───────────────────────────────────────────────
+
+[META]
+id:       P115
+name:     Papyrus 115
+genre:    new-testament
+date:     c. 3rd century CE (225-275)
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Sackler Library, Oxford (P. Oxy. 4499)
+content:  Revelation 2-15 (fragmentary)
+lat:      28.5383
+lon:      30.6765
+book:     Revelation
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO 1R — Revelation 2:1-3
+
+r.1      GAP:
+r.2      [δεξια] [αυτου] [ο] [περιπ]ατων ε[ν] [μεσω] [των] [επτα] [λυχνι]—
+r.3      [ων] [των] [χρυσων] [οιδα] [τ]α εργα σου [και] [τον] [κοπον] [και] [την]
+r.4      [υπομονην] [σου] [και] [οτι] [ο]υ δυνη [βαστασαι] [κακους] [και] [επει]—
+r.5      [ρασας] [τους] [λεγοντας] [εαυ]τους απ[οστολους] [και] [ουκ] [εισιν] [και] [ευρες] [αυ]—
+r.6      [τους] [ψευδεις] [και] [υπο]μον[ην] [εχεις] [και] [εβαστασας]
+
+FOLIO 1V — Revelation 2:13-15
+
+v.1      GAP:
+v.2      [οπου] [ο] [σαταν]ας κατο[ι]κ[ει] [αλλ] [εχω] [κατα] [σου] [ολι]—
+v.3      [γα] [οτι] [εχεις] εκει κρα[τουντας] [την] [διδαχην] [βαλα]—
+v.4      [αμ] [ος] [εδιδασ]κεν τω [βαλακ] [βαλειν] [σκανδαλον] [ενω]—
+v.5      [πιον] [των] [υι]ων {ιηλ} [φαγειν] [ειδωλοθυτα] [και] [πορ]—
+v.6      [νευσαι] [ουτ]ως εχε[ις] [και] [συ] [κρατουντας] [την] [διδα]—
+v.7      [χην]
+
+FOLIO 2R — Revelation 2:27-29
+
+r.1      GAP:
+r.2      [και] [ποιμανει] [αυτους] [εν] ραβδω σ[ιδηρα] [ως] [τα] [σκευη]
+r.3      [τα] [κεραμικα] [συντριβε]ται αυτου[ς] [ως] [καγω] [ειληφα]
+r.4      [παρα] [του] {πρς} [μου] [και] [δωσ]ω αυτω [τον] [αστερα] [τον] [πρωι]—
+r.5      [νον] [ο] [εχων] [ους] [ακουσατω] [τ]ι το {πνα} [λεγει] [ταις]
+
+FOLIO 2V — Revelation 3:10-12
+
+v.1      GAP:
+v.2      [οικουμε]—
+v.3      [νης] [ολης] [πειρασ]αι [τ]ους τ[ους] [κατοικουντας]
+v.4      [επι] [της] [γης] [ερχ]ομαι τα[χυ] [κρατει] [ο] [εχεις] [ινα]
+v.5      [μηδεις] [λαβη] [τον] [στε]φανον [σου] [ο] [νικων] [ποιησω] [αυ]—
+v.6      [τον] [στυλον] [εν] [τω] [ν]αου [ν]αω τ[ο]υ {θυ} [μου] [και] [εξω]
+v.7      [ου] [μη] [εξελθη] [ετι] και [γραψω] [επ] [αυτον] [το] [ονομα] [του]
+
+FOLIO 3R — Revelation 5:8-9
+
+r.1      GAP:
+r.2      [και] [οτε] [ελα]βεν το β[ιβλιον] [τα] {δ} [ζωα] [και] [οι]
+r.3      {κδ} [πρεσβυτεροι] [επε]σαν εν[ωπιον] [του] [αρνιου] [εχοντες] [εκα]—
+r.4      [στος] [κιθαρα]ν και φιαλας χρυ[σας] [γεμουσας] [θυμιαματων]
+r.5      [αι] [εισιν] [αι] [πρ]οσευ[χαι] [των] [αγιων] [και] [αδουσιν]
+r.6      [ωδην] [καινην] λεγοντε[ς] [αξιος] [ει] [λαβειν] [το] [βιβλιον] [και]
+r.7      [ανοιξαι] [τας] [σ]φραγ[ιδας] [αυτου] [οτι] [εσφαγης] [και] [ηγορασας]
+r.8      [τω] {θω} [εν] [τω] [αι]μα[τι] [σου] [εκ] [πασης] [φυλης] [και] [γλωσσης]
+
+FOLIO 3V — Revelation 6:5-6
+
+v.1      GAP:
+v.2      [και] [οτ]ε ηνο[ιξεν] [την] [σφραγιδα] [την] {γ} [ηκουσα] [του] {γ} [ζωου]
+v.3      [λεγοντο]ς ερχο[υ] και ιδ[ον] [και] [ιδου] [ιππος] [μελας]
+v.4      [και] [ο] κα[θη]με[ν]ος επ [αυτον] [εχων] [ζυγον] [εν] [τη] [χειρι] [αυτου]
+v.5      [και] [ηκουσα] [ως] φωνη[ν] [εν] [μεσω] [των] {δ} [ζωων] [λεγου]—
+v.6      [σαν] [χοινιξ] [σι]του δη[ναριου] [και] {γ} [χοινικες]
+v.7      [κριθων] [δηναριου] και [το] [ελαιον] [και] [τον] [οινον] [μη]
+
+FOLIO 4R — Revelation 8:3-13
+
+r.1      GAP:
+r.2      [πολ]—
+r.3      [λα] [ινα] δω[σει] τα[ις] [προσευχαις] [των] [αγιων] [παντων] [ε]—
+r.4      [πι] [το] θυσια[σ]τηρ[ιον] [το] [χρυσουν] [το] [ενωπιον] [του] [θρο]—
+r.5      [ν]ου και ανεβ[η] [ο] [καπνος] [των] [θυμιαματων] [ταις]
+r.6      προσευχαις τω[ν] [αγιων] [εκ] [χειρος] [του] [αγγελου] [ενω]—
+r.7      πιον του {θυ} [και] [ειληφεν] [ο] [αγγελος] [τον] [λιβανω]—
+r.8      τον και εγ[εμισεν] [αυτον] [εκ] [του] [πυρος] [του] [θυσια]—
+r.9      στηριου και εβαλ[εν] [εις] [την] [γην] [και] [εγενοντο] [βρον]—
+r.10     ται κα[ι] φωναι κα[ι] [α]σ[τραπαι] [και] [σεισμος] [και] [οι] {ζ}
+r.11     αγ[γελοι] οι εχοντες τα[ς] {ζ} [σαλπιγγας] [ητοιμασαν]
+r.12     εα[υτους] [ινα] [σαλ]πισω[σιν] [και] [ο] [πρωτος]
+r.13     [εσαλπισεν] [και] [εγ]ενε[το] [χαλαζα] [και] [πυρ] [μεμιγμε]—
+r.14     [να]
+r.15     GAP:
+r.16     [της] [γης] [κατεκαη] κα[ι] [το] {γ} τριτο[ν] τω[ν] [δενδρων] [κατε]—
+r.17     [καη] [και] [πας] [χ]ορτος [χλ]ωρος [κατεκαη] [και] [ο] [δευτε]—
+r.18     [ρος] [αγγελος] [εσ]αλπι[σεν] και [ως] [ορος] [μεγα] [πυρι]
+r.19     GAP:
+r.20     GAP:
+r.21     [αψιν]—
+r.22     [θος] [και] [εγενετο] [το] [τρι]τον τω[ν] [υδατων] [εις]
+r.23     [αψινθον] [και] [πολλοι] [τω]ν {ανων} [απεθανον] [εκ]
+r.24     [των] [υδατων] [οτι] [επι]κρανθη[σαν] [και] [ο] [τεταρτος] [αγ]—
+r.25     [γελος] [εσαλπισεν] [και] [επλ]ηγη το τ[ριτον]
+r.26     [και] [το] [τριτον] [των] [ασ]τερων [ινα] [σκοτισθη] [το]
+r.27     [τριτον] [αυτων] [και] [η] [η]μερα [μη] [φανη] [το] [τριτον]
+r.28     αυ[της] [και] [η] [νυξ] [ομοιως] [και] [ειδον] [και] [ηκουσα] [ενος] [α]—
+r.29     ετου πε[τομενου] [εν] [μεσουρανηματι] [λεγοντος]
+r.30     φωνη [μεγαλη] [ουαι] [ουαι] [ουαι] [τους] [κατοικουντας] [ε]—
+r.31     πι τη[ς] [γης] [εκ] [των] [λοιπων] [φωνων] [της] [σαλπιγ]—
+r.32     γος τ[ων] [τριων] [αγγελων] [των] [μελλοντων] [σαλπιζειν]
+
+FOLIO 4V — Revelation 9:1-11
+
+v.1      GAP:
+v.2      [και] [ο] {ε} [αγγελος] [εσαλπισεν] [και] [ει]δον [αστ]ερα [εκ]
+v.3      [του] {ουνου} [πεπτωκοτα] [εις] [την] [γ]ην και εδοθ[η]
+v.4      [αυτω] [η] [κλεις] [του] [φρεατος] [της] [α]βυσσου και η[νοι]—
+v.5      [ξεν] [το] [φρεαρ] [της] [αβυσσου] [και] [α]νεβη καπ[νος]
+v.6      [εκ] [του] [φρεατος] [ως] [καπνος] κ[α]μεινου με—
+v.7      [γαλης] [και] [εσκοτωθη] [ο] [ηλιος] [και] [ο] [α]ηρ εκ του
+v.8      [καπνου] [του] [φρεατος] [και] [εκ] [το]υ καπνου εξηλ—
+v.9      [θον] [ακριδες] [εις] [την] [γην] [κ]αι εδοθη [α]υτοις ε—
+v.10     [ξουσια] [ως] [εχουσιν] [εξ]ουσιαν οι σκο[ρπιο]ι της
+v.11     [γης] [και] [ερρεθη] [αυταις] ινα μ[η] [αδικησουσιν]
+v.12     [τον] [χορτον] [της] [γης] [ουδε] παν [χλωρον] [ουδε] [παν]
+v.13     [δενδρον] [ει] [μη] [τους] {ανους} [οιτινες] [ουκ] [εχουσιν]
+v.14     [την] [σφραγιδα] του {θυ} [επι] [των] [μετωπων] [και]
+v.15     [εδοθη] [αυτοις] ιν[α] [μη] αποκ[τεινωσιν] [αυτους] [αλλ]
+v.16     [ινα] [βασανισ]θω[σιν] μην[ας] {ε} [και] [ο] [βασανισμος]
+v.17     GAP:
+v.18     [προσωπα] [αυτων] [ως] [προσωπ]α {ανων} [και] [ειχον]
+v.19     [τριχας] [ως] [τριχας] [γυναικ]ων και [οι] [οδοντες]
+v.20     [αυτων] [ως] [λεοντων] [ησα]ν και ειχ[ον] [θωρα]—
+v.21     [κας] [ως] [θωρακας] [σιδηρο]υς και η φ[ωνη] [των]
+v.22     [πτερυγων] [αυτων] [ως] φωνη αρ[ματων] [ιππων]
+v.23     [πολλων] [τρεχοντων] [εις] [πολεμον] [και] [εχου]—
+v.24     [σιν] [ουρας] [ομοιας] [σκορπιοις] [και] [κεντρ]α και
+v.25     [εν] [ταις] [ουραις] [αυτων] [η] [εξουσια] [αυ]των αδι—
+v.26     [κησαι] [τους] {ανους} [μηνας] [πεντε] ε επ αυτων
+v.27     [βασιλεα] [τον] [αγγελον] [της] [αβυσσου] [ονο]μα αυτω
+
+FOLIO 5R — Revelation 9:11-21
+
+r.1      GAP:
+r.2      εβρα[ιστι] [αβαδδων] [και] [εν] [τη] [ελληνικη] [ονομα]
+r.3      εχει ο α[πολλυων] [η] [ουαι] [η] [μια] [απηλθεν] [ιδου]
+r.4      ερχετ[αι] [ετι] {β} [ουαι] [μετα] [ταυτα] [και] [ο] [εκτος] [αγγελος]
+r.5      εσαλπισεν [και] [ηκουσα] [φωνην] [μιαν] [εκ] [των] {δ}
+r.6      κερατων [του] [θυσιαστηριου] [του] [χρυσου] [του] [ε]—
+r.7      νωπιον τ[ου] {θυ} [λεγοντα] [τω] [εκτω] [αγγελω] [ο]
+r.8      εχων τη[ν] [σαλπιγγα] [λυσον] [τους] {δ} [αγγελους] [τους]
+r.9      δεδεμενους [επι] [τω] [ποταμω] [τω] [μεγαλω] [ευ]—
+r.10     φρατη και ελυ[θησαν] [οι] {δ} [αγγελοι] [οι] [ητοιμα]—
+r.11     [σμεν]οι εις την [ωραν] [και] [ημεραν] [και] [μηνα]
+r.12     [και] [εν]ιαυ[τ]ον [ινα] [αποκτεινωσιν] [το] [τριτον]
+r.13     [των] {ανων} [και] ο α[ριθμος] [των] [στρατευματων]
+r.14     GAP:
+r.15     [στομα]—
+r.16     [των] [αυτ]ων [η] [γαρ] [εξουσια] των [ιππων] [εκ] [του]
+r.17     [στο]ματος αυ[των] [εστιν] [κ]αι εν ται[ς] [ουραις] [αυτων]
+r.18     [αι] γαρ ουραι
+r.19     [ο]φεσιν αιχου[σαι] [κεφαλας] [και]
+r.20     [ε]ν αυταις α[δικουσιν] και οι λοιποι τ[ων] {ανων} [οι] [ου]—
+r.21     κ α[π]εκτα[νθησαν] [εν] ταις π[ληγαις] [ταυταις] [ουδε]
+r.22     μ[ετενοησαν] [εκ] [των] εργω[ν] [των] [χειρων] [αυτων]
+r.23     ι[να] μ[η] [προσκυνη]σουσι[ν] [προσκυνη]σωσι[ν] [τα] [δαιμονια] [και] [τα]
+r.24     ειδω[λα] [τα] [χρυσα] [κ]αι τα α[ργυρα] [και] [τα] [χαλκα] [και]
+r.25     τα λιθινα [και] [τα] [ξυλινα] [α] [ουτε] [βλεπειν] [δυ]—
+r.26     νανται ο[υτε] [ακουειν] [ουτε] [περιπατειν] [και] [ου]
+r.27     μετενοησαν [εκ] [των] [φονων] [αυτων] [ουτε] [εκ]
+r.28     των φαρμα[κων] [αυτων] [ουτε] [εκ] [της] [πορνει]—
+r.29     ας αυτων ου[τε] [εκ] [των] [κλεμματων] [αυτων]
+
+FOLIO 5V — Revelation 10:1-11:1
+
+v.1      GAP:
+v.2      [και] [ειδον] [αλλον] [αγγελον] [ισχυρον] [κατα]βαινον—
+v.3      [τα] [εκ] [του] {ουνου} [περιβεβλημενον] [νεφελ]ην και η
+v.4      [ιρις] [επι] [της] [κεφαλης] [αυτου] [και] [το] [προσω]πον αυ—
+v.5      [του] [ως] [ο] [ηλιος] [και] [οι] [ποδες] [αυτου] [ως] [στυλ]οι πυρ[ος]
+v.6      [και] [εχων] [εν] [τη] [χειρι] [αυτου] [βιβλαριδιον] ηνεωγμε—
+v.7      [νον] [και] [εθηκεν] [τον] [ποδα] [αυτου] [το]ν δεξιον
+v.8      [επι] [της] [θαλασσης] [τον] [δε] [ευωνυμο]ν επι της γης
+v.9      [και] [εκραξεν] [φωνη] [μεγαλη] [ω]σπερ λεων μοι—
+v.10     [καται] [και] [οτε] [εκραξεν] [ελαλη]σαν αι {ζ} βροντ[αι]
+v.11     [ημελλον] [γραφειν] [και] [ηκουσα] φωνην εκ τ[ου]
+v.12     {ουνου}
+v.13     [λεγουσαν] [σ]φραγισον [α] [ελαλη]—
+v.14     [σαν] [αι] {ζ} [βρονται] [και] [μη] [αυτα] [γρ]αψ[ης]
+v.15     GAP:
+v.16     [και] [η] [φ]ων[η] [ην] [ηκουσα] [εκ] [του] {ουνου} [παλιν] [λα]—
+v.17     [λουσαν] [μετ] [ε]μου και λε[γουσαν] [υπαγ]ε λ[αβε] [το]
+v.18     [βιβλιον] [το] [η]νεωγμε[νον] [εν] [τη] [χ]ειρι του α[γγε]—
+v.19     [λου] [του] [εστωτο]ς επι της θαλα[σσης] [κα]ι επι της γ[ης]
+v.20     [και] [απηλθα] [πρ]ος τον αγγελ[ον] [λεγ]ων αυτω δ[ου]—
+v.21     [ναι] [μοι] [το] [βιβλαρ]ιδιον κ[αι] [λεγει] [μ]οι λαβε και κ[α]—
+v.22     [ταφαγε] [αυτο] [και] [πι]κρανε[ι] [σου] [την] [κοιλ]ιαν [α]λλ
+v.23     [εν] [τω] [στοματι] [σου] [ε]σται γ[λυκυ] [ως] [μελ]ι και ελα—
+v.24     [βον] [το] [βιβλαριδιον] εκ τη[ς] [χειρος] [του] [αγ]γελου και
+v.25     [κατεφαγον] [αυτο] [και] [ην] [εν] [τω] [στομ]ατι μου ως
+v.26     [μελι] [γλυκυ] [και] [οτε] [εφαγον] [αυτο] [εγεμι]σθη η κοιλι—
+v.27     [α] [μου] [και] [λεγουσιν] [μοι] [δει] [σε] [παλ]ιν προφητευσ[αι]
+v.28     [επι] [λαοις] [και] [εθνεσιν] [και] [γλωσ]σαις και βασιλ[ευ]—
+v.29     [σιν] [πολλοις] [και] [εδοθη] [μοι] [καλαμ]ος ομοιος ρα[βδω]
+
+FOLIO 6R — Revelation 11:1-12
+
+r.1      GAP:
+r.2      [αυ]—
+r.3      τω κα[ι] [την] [αυλην] [την] [εξωθεν] [του] [ναου] [εκβαλε] [εξωθεν] [και] [μη]
+r.4      αυτην [μετρησης] [οτι] [εδοθη] [τοις]
+r.5      εθνεσιν κ[αι] [την] [πολιν] [την] [αγιαν] [πατησουσιν]
+r.6      μηνας {μβ} [και] [δωσω] [τοις] [δυσιν] [μαρτυσιν] [μου]
+r.7      [κα]ι προφη[τευσουσιν] [ημερας] {͵ασξ} [περιβεβλη]—
+r.8      [μ]ενοι σακ[κο]υ[ς] [ουτοι] [εισιν] [αι] {β} [ελαιαι] [και] [αι] {β}
+r.9      [λυ]χνιαι [αι] [ε]νω[πιον] [του] {κυ} [της] [γης] [εστωτες] [και]
+r.10     [ει] [τις] [αυτ]ους θε[λει] [αδικησαι] [πυρ] [εκπορευεται]
+r.11     [εκ] [του] [στ]οματος [αυτων] [και] [κατεσθιει] [τους] [εχθρους]
+r.12     [αυτων] και ει τ[ις] [θεληση] [αυτους] [αδικησαι] [ουτως] [δει]
+r.13     [αυτον] [α]ποκ[τ]α[νθηναι]
+r.14     GAP:
+r.15     [μεγαλης] ητι[ς] [καλειται] [πνευματικως] [σοδομα] [και]
+r.16     [αιγυπ]τ[ο]ς οπο[υ] [και] [ο] {κς} [αυτων] [εσταυρωθη] [και] [βλε]—
+r.17     [πουσι]ν εκ τω[ν] [λαων] [και] [φυλων] [και] [γλωσσων]
+r.18     [και] εθνων κα[ι] τα [πτωματα] [αυτων] [ημερας] {γ}
+r.19     [και] ημισυ κα[ι] [τα] [πτωματα] [αυτων] [ουκ] [αφιουσιν]
+r.20     [τεθ]ηναι εις μ[νημα] [και] [οι] [κατοικουντες]
+r.21     [ε]πι της [γ]ης χα[ιρουσιν] [επ] [αυτοις] [και] [ευφραινον]—
+r.22     [ται] κα[ι] [δ]ωρα π[εμψουσιν] [αλληλοις] [οτι] [ουτοι]
+r.23     [οι] {β} προφηται [εβασανισαν] [τους] [κατοικουντας]
+r.24     [επ]ι της γη[ς] κα[ι] [μετα] [τας] {γ} [ημερας] [και] [ημισυ]
+r.25     {πνα} ζωης ε[κ] [του] {θυ} [εισηλθεν] [εν] [αυτοις] [και] [εστη]—
+r.26     σαν επι το[υ]ς πο[δας] [αυτων] [και] [φοβος] [μεγας] [επε]—
+r.27     πεσεν επι του[ς] [θεωρουντας] [αυτους] [και] [ηκουσαν]
+r.28     [φω]νην μεγα[λην] [εκ] [του] {ουνου} [λεγουσαν] [αυτοις] [α]—
+r.29     [ναβ]ατε ωδ[ε] [και] [ανεβησαν] [εις] [τον] {ουνον} [εν] [τη]
+
+FOLIO 6V — Revelation 11:13-12:1
+
+v.1      GAP:
+v.2      [και] [εν] [εκεινη] [τη] [ωρα] [εγενετο] [σεισμ]ος
+v.3      [μεγας] [και] [το] [δεκατον] [της] [πολεως] [επε]σεν
+v.4      [και] [απεκτανθησαν] [εν] [τω] [σεισμω] [ο]νο—
+v.5      [ματα] {ανων} [χιλιαδες] {ζ} [και] [οι] [λ]οιποι εμ—
+v.6      [φοβοι] [εγενοντο] [και] [εδωκαν] [δοξα]ν τω
+v.7      {θω} [του] {ουνου} [η] [ουαι] [η] [δευτερ]α απηλ—
+v.8      [θεν] [ιδου] [η] [ουαι] [η] [τριτη] [ερχε]τ[αι] [τα]χυ και
+v.9      [ο] {ζ} [αγγελος] [εσαλπισεν] [και] [ε]γεν[ο]ν[το]
+v.10     [φωναι] [μεγαλαι] [εν] [τω] {ουνω} [λ]εγουσαι [εγε]—
+v.11     [νετο] [η] [βασιλεια] [του] [κοσμου] [του] {κυ} ημ[ων]
+v.12     [και] [του] {χρυ} [αυτου] [και] [βασιλε]υ[σ]ει ε[ις]
+v.13     GAP:
+v.14     GAP:
+v.15     [και] [ηλθεν] [η] [οργη] [σου] [και] [ο] [κ]αι[ρος]
+v.16     [των] [νεκρων] [κριθηναι] [και] [δου]ναι τ[ον]
+v.17     [μισθον] [τοις] [δουλοις] [σου] [τοις] [π]ροφητα[ις]
+v.18     [και] [τοις] [αγιοις] [και] [τοις] [φοβο]υμενοις τ[ο]
+v.19     [ονομα] [σου] [τους] [μικρους] [και] [τους] μεγαλου[ς]
+v.20     [και] [διαφθειραι] [τους] [διαφθειρ]οντας τη[ν]
+v.21     [γην] [και] [ηνοιγη] [ο] [ναος] [του] {θυ} ο ε[ν]
+v.22     [τω] {ουνω} [και] [ωφθη] [η] [κιβωτο]ς τη[ς] [δι]αθ[η]—
+v.23     [κης] [αυτου] [εν] [τω] [ναω] [αυτου] [και] εγενοντο φ[ω]—
+v.24     [ναι] [και] [αστραπαι] [και] [βροντα]ι κ[αι] [σ]εισμος
+v.25     [και] [χαλαζα] [μεγαλη] [και] [ση]με[ιο]ν με—
+v.26     [γα] [ωφθη] [εν] [τω] {ουνω} [γυν]η περιβεβλη—
+v.27     [μενη] [τον] [ηλιον] [και] [η] [σελ]ηνη υποκα—
+v.28     [τω] [των] [ποδων] [αυτης] [και] επι της κε—
+v.29     [φαλης] [αυτης] [στεφανος] [αστερω]ν {ιβ}
+
+FOLIO 7R — Revelation 12:2-10
+
+r.1      GAP:
+r.2      και βασα[νιζομενη] [τεκειν] [και] [ωφθη] [αλλο]
+r.3      σημειο[ν] [εν] [τω] {ουνω} [και] [ιδου] [δρακων] [πυρ]—
+r.4      ρος μεγ[ας] [εχων] [κεφαλας] {ζ} [και] [κερατα] {ι}
+r.5      [κα]ι επι τας [κεφαλας] [αυτου] {ζ} [διαδηματα]
+r.6      [κα]ι η ουρ[α] [αυτου] [συρει] [το] [τριτον] [των] [αστερων]
+r.7      [τ]ου {ουνου} κ[αι] [εβαλεν] [αυτους] [εις] [την] [γην] [και]
+r.8      ο δρακων ισ[τηκει] [ενωπιον] [της] [γυναικος]
+r.9      τη[ς] μ[ελλουσης] [τεκειν] [ινα] [οταν] [τεκη] [το] [τεκνον] [αυ]—
+r.10     της κα[ταφαγη] [και] [ετεκεν] [υιον] [αρσεν] [ος]
+r.11     μελλε[ι] [ποιμαινειν] [παντα] [τα] [εθνη] [εν] [ραβ]—
+r.12     [δω] σιδ[ηρα] [και] [ηρπασθη] [το] [τεκνον] [αυτης]
+r.13     [προ]ς το[ν] {θν} [και] [προς] [τον] [θρονον] [αυτου]
+r.14     GAP:
+r.15     [αυτων] [ετι] [εν] [τω] {ουνω} και ε[βληθη] [ο] [δρακων]
+r.16     [ο] [οφις] [ο] [μ]εγας ο αρχαιος ο κα[λουμενος] [διαβολος]
+r.17     [και] [ο] [σ]ατανας ο πλανων [την] [οικουμενην] [ο]—
+r.18     [λην] [ε]βληθη εις την γην [και] [οι] [αγγελοι] [αυ]—
+r.19     [του] [μ]ετ αυτου εβληθησαν κ[αι] [ηκουσα] [φω]—
+r.20     [νην] μεγαλην εν τω {ουνω} [λεγουσαν] [αρτι] [ε]—
+r.21     [γε]νετο η σωτηρια και η δυ[ναμις] [και] [η] [βα]—
+r.22     [σιλ]εια [το]υ {θυ} [η]μω[ν] και η [εξουσια] [του]
+r.23     {χρυ} [αυτου] [οτι] [εβληθη] [ο] [κατηγωρ] [των] [αδελ]—
+r.24     [φων] [ημω]ν ο [κατηγορων] [αυτους] [ενωπιον] [του]
+r.25     {θυ} [ημων] [η]με[ρας] [και] [νυκτος]
+
+FOLIO 7V — Revelation 12:13:3
+
+v.1      GAP:
+v.2      [και] [οτε] [ειδεν] [ο] [δρακων] [οτι] [εβληθ]η εις την
+v.3      [γην] [εδιωξεν] [την] [γυναικα] [ητις] [ετ]εκεν τον
+v.4      [αρσενα] [και] [εδοθησαν] [τη] [γυναικ]ι δυο πτερυ—
+v.5      [γες] [του] [αετου] [του] [μεγαλου] [ινα] [πετηται] εις την ε[ρη]—
+v.6      [μον] [εις] [τον] [τοπον] [αυτης] [οπου] [τρεφετ]αι εκε[ι]
+v.7      [καιρον] [και] [καιρους] [και] [ημισυ] [και]ρου απ[ο] προ—
+v.8      [σωπου] [του] [οφεως] [και] [εβαλεν] [ο] [ο]φις εκ του στο—
+v.9      [ματος] [αυτου] [οπισω] [της] [γυναικος] υδω[ρ] ως
+v.10     [ποταμον] [ινα] [αυτην] [ποτα]μοφορ[η]—
+v.11     [τον] [ποιηση] [και] [εβοηθησεν] [η] [γη] [τ]η γυνα[ι]—
+v.12     [κι] [και] [ηνοιξεν] [η] [γη] [το] [στομα] [αυτης] και
+v.13     [κατεπιεν] [τον] [ποταμον] [ον] [εβαλεν] [ο] [δρ]ακω[ν]
+v.14     [εκ] [του] [στοματος] [αυτου] [και] [ωργισθη] [ο] [δ]ρα—
+v.15     [κων]
+v.16     GAP:
+v.17     [δεκα] [διαδηματα] και επι τας κεφαλ[ας] [αυτου]
+v.18     [ονοματα] [βλασφ]ημιας και το θηριον [ο] [ειδον]
+v.19     [ην] [ομοιον] [παρδ]αλει και οι ποδες αυτ[ου] [ως] [αρκου]
+v.20     [και] [το] [στομα] [α]υτου ω[ς] [σ]τομα λεοντο[ς] [και]
+v.21     [εδωκεν] [αυτω] [ο] [δ]ρακων την δυναμιν α[υτου]
+v.22     [και] [τον] [θρο]νον αυτου και εξουσιαν [μεγα]—
+v.23     [λην] [και] [μια]ν εκ των κ[ε]φα[λ]ων αυτου ω[ς]
+v.24     [εσφαγμενην] [ε]ις [θανατον] [και] [η] [π]λη[γη]
+v.25     [του] [θανατου] [αυτου] [εθεραπ]ευθ[η] [και] [εθαυ]—
+v.26     [μασθη] [ολη] [η] [γη] [οπισω] [του] [θ]ηρι[ου]
+
+FOLIO 8R — Revelation 13:6-16
+
+r.1      GAP:
+r.2      {θν} βλασφ[ημησαι] [το] [ονομα] [αυτου] [και] [την]
+r.3      σκηνη[ν] [αυτου] [τους] [εν] [τω] {ουνω} [σκηνουντας]
+r.4      και εδοθ[η] [αυτω] [ποιησαι] [πολεμον] [μετα] [των]
+r.5      [α]γιων κα[ι] [νικησαι] [αυτους] [και] [εδοθη] [αυτω] [ε]—
+r.6      ξουσια [επι] [πασαν] [φυλην] [και] [λαον] [και] [γλωσ]—
+r.7      σαν κα[ι] [εθνος] [και] [προσκυνησουσιν] [αυτον] [παντες]
+r.8      οι κατοικουν[τες] [επι] [της] [γης] [ου] [ου] [γεγραπται] [το]
+r.9      ον[ο]μα εν τ[ω] [βιβλιω] [της] [ζωης] [του] [αρνιου] [του]
+r.10     [εσφαγμενου] [απο] [καταβολης] [κοσμου] [ει] [τις] [εχει]
+r.11     [ους] [ακου]σατω [ει] [τις] [εις] [αιχμαλωσιαν] [υπαγει]
+r.12     [ει] [τις] [εν] [μ]αχαιρ[η] [αποκτανθηναι] [αυτον] [εν] [μαχαι]—
+r.13     [ρη] [αποκτανθ]ηνα[ι] [ωδε] [εστιν] [η] [υπομονη] [και] [η]
+r.14     [πιστις] [των] [α]γιων και [ειδον] [αλλο] [θηριον] [ανα]—
+r.15     [βαινον] [εκ] [τη]ς γης και ει[χεν] [κερατα] {β} [ομοια]
+r.16     [αρνιω] [και] [ε]λ[α]λει ως δ[ρακων] [και] [την] [εξου]—
+r.17     [σιαν] [του] [πρ]ωτου θη[ριου] [πασαν] [ποιει] [ενωπιον]
+r.18     GAP:
+r.19     [πυρ] [ποι]η καταβα[ινειν] [εις] [την] [γην] [ενωπιον]
+r.20     [των] {ανων} και πλ[ανα] [τους] [κατοικουντας] [επι]
+r.21     [της] [γ]ης δια τα σημ[εια] [α] [εδοθη] [αυτω] [ποιησαι]
+r.22     [ενω]πιον του θ[ηριου] [λεγων] [τοις] [κατοικουσιν] [ε]—
+r.23     [πι] της γης π[οιησαι] [εικονα] [τω] [θηριω] [ος] [εχει] [την]
+r.24     [π]ληγην τη[ς] [μαχαιρης] [και] [εζησεν] [και] [ε]—
+r.25     δοθη αυτω δ[ουναι] {πνα} [τη] [εικονι] [του] [θηριου] [ιν]—
+r.26     α κ[αι] [λ]αληση [η] [εικων] [του] [θηριου] [και] [ποιηση] [ινα] [οσοι]
+r.27     [εαν] μη [προσκυνησωσιν] [τη] [εικονι] [του] [θηριου]
+r.28     [απ]οκτα[νθωσιν] [και] [ποιει] [παντας] [τους] [μικρους] [και]
+r.29     [τους] μεγ[αλους] [και] [τους] [πλουσιους] [και] [τους]
+r.30     [πτωχους]
+
+FOLIO 8V — Revelation 13:18-14:7
+
+v.1      GAP:
+v.2      [ωδε] [η] [σοφια] [εστιν] [ο] [εχων] [νο]υν ψηφισ[α]—
+v.3      [τω] [τον] [αριθμον] [του] [θηριου] [αριθμος] γαρ {ανου}
+v.4      [εστιν] [και] [ο] [αριθμος] [αυτου]
+v.5      {χξϛ} η {χιϛ}
+v.6      [και] [ειδον] [και] [ιδου] [το] [αρνιον] [εστος] επι το ορ[ος]
+v.7      [σιων] [και] [μετ] [αυτου] {ρμδ} [χιλιαδε]ς εχουσα[ι]
+v.8      [το] [ονομα] [αυτου] [και] [το] [ονομα] [του] {πρς} [α]υτου γε—
+v.9      [γραμμενον] [επι] [των] [μετωπων] αυτων και
+v.10     [ηκουσα] [φωνην] [εκ] [του] {ουνου} [ως] φωνην υ—
+v.11     [δατων] [πολλων] [και] [ως] [φωνην] [βροντης] [μεγα]—
+v.12     [λης] [και] [η] [φωνη] [ην] [ηκο]υσα ω[ς] [κι]—
+v.13     [θαρωδων] [κιθαριζοντω]ν εν [ταις] [κιθαραις]
+v.14     [αυτων] [και] [αδουσιν] [ως] [ωδη]ν κ[αινην] [ενωπιον]
+v.15     [του] [θρονου] [και] ενωπιον τω[ν] [τεσσαρων]
+v.16     [ζωων] [και] [των] [πρε]σβυτερων [και] [ουδεις] [εδυ]—
+v.17     [νατο] [μαθειν] [την] ωδην ει [μη] [αι] {ρμδ} [χιλια]—
+v.18     [δες] [οι] [ηγορασμενοι] [απο] της [γης]
+v.19     GAP:
+v.20     [τω] [στοματι] [αυτων] [ουχ] ευρεθη ψ[ευδος]
+v.21     [αμωμοι] [εισιν] [και] [αλ]λον ιδον αγγ[ελον]
+v.22     [πετομενον] [εν] [μεσουρανημ]ατι εχοντα [ευαγ]—
+v.23     [γελιον] [αιωνιον] [ευαγγελισαι] [επι] τους κατοι[κουν]—
+v.24     [τας] [επι] [της] [γης] [και] [επι] [παν] [εθ]νος και φυ[λην]
+v.25     [και] [γλωσσαν] [και] [λαον] [λεγων] εν φωνη μ[ε]—
+v.26     [γαλη] [φοβηθητε] [τον] {θν} [και] [δ]οτε αυτ[ω] δοξαν
+v.27     [οτι] [ηλθεν] [η] [ωρα] [της] [κρισεως] [αυτ]ου [και]
+v.28     [προσκυνησατε] [τω] [ποιησαντι] [το]ν {ουνον}
+v.29     [και] [την] [γην] [και] [θαλασσαν] [και] [πη]γας υ[δατων]
+
+FOLIO 9R — Revelation 14:10-15
+
+r.1      GAP:
+r.2      [βασανισθη]—
+r.3      σεται εν [π]υρ[ι] [και] [θειω] [ενωπιον] [αγγελων]
+r.4      α[γ]ιων [κα]ι ενω[πιον] [του] [αρνιου] [και] [ο] [καπνος] [του] [βασα]—
+r.5      [νισ]μου [αυ]των ε[ις] [αιωνας] [αιωνων]
+r.6      [αναβαινει] [κ]αι ουκ ε[χουσιν] [ανα]—
+r.7      [παυσιν] [ημερας] και [νυκτος] [οι] [προσκυνουντες]
+r.8      GAP:
+r.9      [της] [κεφαλης] [αυτου] [σ]τεφανο[ν] [χρυσουν] [και]
+r.10     [εν] [τη] [χειρι] [αυτου] [δρ]επανον [οξυ] [και] [αλ]—
+r.11     [λος] [αγγελος] [εξηλθ]εν εκ του [ναου]
+r.12     [κραζων] [εν] [φωνη] μεγαλη [τω] [καθημενω]
+r.13     [επι] [της] [νεφελης] πεμψ[ον] [το] [δρεπανον] [σου]
+r.14     [και] [θερισον] [οτι] [ηλθε]ν η ωρ[α] [θερισαι] [οτι]
+r.15     [εξηρανθη] [ο] [θερισμος] [τ]ης [γης]
+
+FOLIO 9V — Revelation 14:18-15:7
+
+v.1      GAP:
+v.2      [αμπελου] [της] [γης] [οτι] [ηκμασαν] [αι] [σταφυλαι] [αυ]τη[ς]
+v.3      [και] [εβαλεν] [ο] [αγγελος] [το] [δρεπανον] [αυτου] [ε]ις την
+v.4      [γην] [και] [ετρυγησεν] [την] [αμπελον] [της] γης και ε—
+v.5      [βαλεν] [εις] [την] [ληνον] [του] [θυμου] [το]υ {θυ} τον με[γ]αν
+v.6      [και] [επατηθη] [η] [ληνος] [εξωθεν] της π[ολ]εως και
+v.7      [εξηλθεν] [αιμα] [εκ] [της] ληνου αχ[ρι] των χ[α]—
+v.8      [λινων] [των] [ιππων] [απο] [σταδ]ιων {βχ} [και] [ειδον]
+v.9      [αλλο] [σημειον] [εν] [τω] {ουνω} [μ]εγα και θ[αυμαστον]
+v.10     GAP:
+v.11     [τα] [δικαιωματα] [σου] [εφαν]ερωθη[σαν] [και] [μετα]
+v.12     [ταυτα] [ειδον] [και] [ηνοι]γη ο ναο[ς] [της] [σκηνης]
+v.13     [του] [μαρτυριου] [εν] [τω] {ουνω} και εξ[ηλθον] [οι] {ζ}
+v.14     [αγγελοι] [οι] [εχοντες] [τας] {ζ} πληγ[α]ς [εκ] [του]
+v.15     [ναου] [ενδεδυμενοι] [λινον] καθαρο[ν] [λαμπρον]
+v.16     [και] [περιεζωσμενοι] [περ]ι τα στηθ[η] [ζωνας]
+v.17     [χρυσας] [και] [εν] [εκ] [των] {δ} ζωων [εδωκεν] [τοις]
+
+
+[TRANSLATION]
+
+2:1     To the angel of the church in Ephesus write: The words of him who holds the seven stars in his right hand, who walks among the seven golden lampstands.
+2:2     I know your works, your toil and your patient endurance, and how you cannot bear with those who are evil, but have tested those who call themselves apostles and are not, and found them to be false.
+2:3     I know you are enduring patiently and bearing up for my name's sake, and you have not grown weary.
+2:13    I know where you dwell, where Satan's throne is. Yet you hold fast my name, and you did not deny my faith even in the days of Antipas my faithful witness, who was killed among you, where Satan dwells.
+2:14    But I have a few things against you: you have some there who hold the teaching of Balaam, who taught Balak to put a stumbling block before the sons of Israel, so that they might eat food sacrificed to idols and practice sexual immorality.
+2:15    So also you have some who hold the teaching of the Nicolaitans.
+2:27    and he will rule them with a rod of iron, as when earthen pots are broken in pieces, even as I myself have received authority from my Father.
+2:28    And I will give him the morning star.
+2:29    He who has an ear, let him hear what the Spirit says to the churches.
+3:10    Because you have kept my word about patient endurance, I will keep you from the hour of trial that is coming on the whole world, to try those who dwell on the earth.
+3:11    I am coming soon. Hold fast what you have, so that no one may seize your crown.
+3:12    The one who conquers, I will make him a pillar in the temple of my God. Never shall he go out of it, and I will write on him the name of my God, and the name of the city of my God, the new Jerusalem, and my own new name.
+5:8     And when he had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each holding a harp, and golden bowls full of incense, which are the prayers of the saints.
+5:9     And they sang a new song, saying, Worthy are you to take the scroll and to open its seals, for you were slain, and by your blood you ransomed people for God from every tribe and language and people and nation.
+6:5     When he opened the third seal, I heard the third living creature say, Come. And I looked, and behold, a black horse, and its rider had a pair of scales in his hand.
+6:6     And I heard what seemed to be a voice in the midst of the four living creatures saying, A quart of wheat for a denarius, and three quarts of barley for a denarius, and do not harm the oil and wine.
+8:3     And another angel came and stood at the altar with a golden censer, and he was given much incense to offer with the prayers of all the saints on the golden altar before the throne.
+8:4     and the smoke of the incense, with the prayers of the saints, rose before God from the hand of the angel.
+8:5     Then the angel took the censer and filled it with fire from the altar and threw it on the earth, and there were peals of thunder, rumblings, flashes of lightning, and an earthquake.
+8:6     Now the seven angels who had the seven trumpets prepared to blow them.
+8:7     The first angel blew his trumpet, and there followed hail and fire, mixed with blood, and these were thrown upon the earth. And a third of the earth was burned up, and a third of the trees were burned up, and all green grass was burned up.
+8:8     The second angel blew his trumpet, and something like a great mountain, burning with fire, was thrown into the sea, and a third of the sea became blood.
+8:11    The name of the star is Wormwood. A third of the waters became wormwood, and many people died from the water, because it had been made bitter.
+8:12    The fourth angel blew his trumpet, and a third of the sun was struck, and a third of the moon, and a third of the stars, so that a third of their light might be darkened, and a third of the day might be kept from shining, and likewise a third of the night.
+8:13    Then I looked, and I heard an eagle crying with a loud voice as it flew directly overhead, Woe, woe, woe to those who dwell on the earth, at the blasts of the other trumpets that the three angels are about to blow!
+9:1     And the fifth angel blew his trumpet, and I saw a star fallen from heaven to earth, and he was given the key to the shaft of the bottomless pit.
+9:2     He opened the shaft of the bottomless pit, and from the shaft rose smoke like the smoke of a great furnace, and the sun and the air were darkened with the smoke from the shaft.
+9:3     Then from the smoke came locusts on the earth, and they were given power like the power of scorpions of the earth.
+9:4     They were told not to harm the grass of the earth or any green plant or any tree, but only those people who do not have the seal of God on their foreheads.
+9:5     They were allowed to torment them for five months, but not to kill them, and their torment was like the torment of a scorpion when it stings someone.
+9:7     In appearance the locusts were like horses prepared for battle: on their heads were what looked like crowns of gold; their faces were like human faces,
+9:8     their hair like women's hair, and their teeth like lions' teeth;
+9:9     they had breastplates like breastplates of iron, and the noise of their wings was like the noise of many chariots with horses rushing into battle.
+9:10    They have tails and stings like scorpions, and their power to hurt people for five months is in their tails.
+9:11    They have as king over them the angel of the bottomless pit. His name in Hebrew is Abaddon, and in Greek he is called Apollyon.
+9:12    The first woe has passed; behold, two woes are still to come.
+9:13    Then the sixth angel blew his trumpet, and I heard a voice from the four horns of the golden altar before God,
+9:14    saying to the sixth angel who had the trumpet, Release the four angels who are bound at the great river Euphrates.
+9:15    So the four angels were released, who had been prepared for the hour, the day, the month, and the year, to kill a third of mankind.
+9:16    The number of the mounted troops was twice ten thousand times ten thousand; I heard their number.
+9:18    By these three plagues a third of mankind was killed, by the fire and smoke and sulfur coming out of their mouths.
+9:19    For the power of the horses is in their mouths and in their tails, for their tails are like serpents with heads, and by means of them they wound.
+9:20    The rest of mankind, who were not killed by these plagues, did not repent of the works of their hands nor give up worshiping demons and idols of gold and silver and bronze and stone and wood, which cannot see or hear or walk.
+9:21    Nor did they repent of their murders or their sorceries or their sexual immorality or their thefts.
+10:1    Then I saw another mighty angel coming down from heaven, wrapped in a cloud, with a rainbow over his head, and his face was like the sun, and his legs like pillars of fire.
+10:2    He had a little scroll open in his hand. And he set his right foot on the sea, and his left foot on the land,
+10:3    and called out with a loud voice, like a lion roaring. When he called out, the seven thunders sounded.
+10:4    And when the seven thunders had sounded, I was about to write, but I heard a voice from heaven saying, Seal up what the seven thunders have said, and do not write it down.
+10:8    Then the voice that I had heard from heaven spoke to me again, saying, Go, take the scroll that is open in the hand of the angel who is standing on the sea and on the land.
+10:9    So I went to the angel and told him to give me the little scroll. And he said to me, Take and eat it; it will make your stomach bitter, but in your mouth it will be sweet as honey.
+10:10   And I took the little scroll from the hand of the angel and ate it. It was sweet as honey in my mouth, but when I had eaten it my stomach was made bitter.
+10:11   And I was told, You must again prophesy about many peoples and nations and languages and kings.
+11:1    Then I was given a measuring rod like a staff, and I was told, Rise and measure the temple of God and the altar and those who worship there,
+11:2    but do not measure the court outside the temple; leave that out, for it is given over to the nations, and they will trample the holy city for forty-two months.
+11:3    And I will grant authority to my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.
+11:4    These are the two olive trees and the two lampstands that stand before the Lord of the earth.
+11:5    And if anyone would harm them, fire pours from their mouth and consumes their foes. If anyone would harm them, this is how he is doomed to be killed.
+11:8    and their dead bodies will lie in the street of the great city that symbolically is called Sodom and Egypt, where their Lord was crucified.
+11:9    For three and a half days some from the peoples and tribes and languages and nations gaze at their dead bodies and refuse to let them be placed in a tomb,
+11:10   and those who dwell on the earth will rejoice over them and make merry and exchange gifts, because these two prophets had been a torment to those who dwell on the earth.
+11:11   But after the three and a half days a breath of life from God entered them, and they stood up on their feet, and great fear fell on those who saw them.
+11:12   Then they heard a loud voice from heaven saying to them, Come up here. And they went up to heaven in a cloud, and their enemies watched them.
+11:13   And at that hour there was a great earthquake, and a tenth of the city fell. Seven thousand people were killed in the earthquake, and the rest were terrified and gave glory to the God of heaven.
+11:14   The second woe has passed; behold, the third woe is soon to come.
+11:15   Then the seventh angel blew his trumpet, and there were loud voices in heaven, saying, The kingdom of the world has become the kingdom of our Lord and of his Christ, and he shall reign forever and ever.
+11:18   The nations raged, but your wrath came, and the time for the dead to be judged, and for rewarding your servants, the prophets and saints, and those who fear your name, both small and great, and for destroying the destroyers of the earth.
+11:19   Then God's temple in heaven was opened, and the ark of his covenant was seen within his temple. There were flashes of lightning, rumblings, peals of thunder, an earthquake, and heavy hail.
+12:1    And a great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars.
+12:2    She was pregnant and was crying out in birth pains and the agony of giving birth.
+12:3    And another sign appeared in heaven: behold, a great red dragon, with seven heads and ten horns, and on his heads seven diadems.
+12:4    His tail swept down a third of the stars of heaven and cast them to the earth. And the dragon stood before the woman who was about to give birth, so that when she bore her child he might devour it.
+12:5    She gave birth to a male child, one who is to rule all the nations with a rod of iron, but her child was caught up to God and to his throne,
+12:8    but he was defeated, and there was no longer any place for them in heaven.
+12:9    And the great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world — he was thrown down to the earth, and his angels were thrown down with him.
+12:10   And I heard a loud voice in heaven, saying, Now the salvation and the power and the kingdom of our God and the authority of his Christ have come, for the accuser of our brothers has been thrown down, who accuses them day and night before our God.
+12:13   And when the dragon saw that he had been thrown down to the earth, he pursued the woman who had given birth to the male child.
+12:14   But the woman was given the two wings of the great eagle so that she might fly from the serpent into the wilderness, to the place where she is to be nourished for a time, and times, and half a time.
+12:15   The serpent poured water like a river out of his mouth after the woman, to sweep her away with a flood.
+12:16   But the earth came to the help of the woman, and the earth opened its mouth and swallowed the river that the dragon had poured from his mouth.
+12:17   Then the dragon became furious with the woman and went off to make war on the rest of her offspring, on those who keep the commandments of God and hold to the testimony of Jesus.
+13:1    And I saw a beast rising out of the sea, with ten horns and seven heads, with ten diadems on its horns and blasphemous names on its heads.
+13:2    And the beast that I saw was like a leopard; its feet were like a bear's, and its mouth was like a lion's mouth. And to it the dragon gave his power and his throne and great authority.
+13:3    One of its heads seemed to have a mortal wound, but its mortal wound was healed, and the whole earth marveled as they followed the beast.
+13:6    It opened its mouth to utter blasphemies against God, blaspheming his name and his dwelling, that is, those who dwell in heaven.
+13:7    Also it was allowed to make war on the saints and to conquer them. And authority was given it over every tribe and people and language and nation,
+13:8    and all who dwell on earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb who was slain.
+13:9    If anyone has an ear, let him hear:
+13:10   If anyone is to be taken captive, to captivity he goes; if anyone is to be slain with the sword, with the sword must he be slain. Here is a call for the endurance and faith of the saints.
+13:11   Then I saw another beast rising out of the earth. It had two horns like a lamb and it spoke like a dragon.
+13:12   It exercises all the authority of the first beast in its presence, and makes the earth and its inhabitants worship the first beast, whose mortal wound was healed.
+13:13   It performs great signs, even making fire come down from heaven to earth in front of people,
+13:14   and by the signs that it is allowed to work in the presence of the beast it deceives those who dwell on earth, telling them to make an image for the beast that was wounded by the sword and yet lived.
+13:15   And it was allowed to give breath to the image of the beast, so that the image of the beast might even speak and might cause those who would not worship the image of the beast to be slain.
+13:16   Also it causes all, both small and great, both rich and poor, both free and slave, to be marked on the right hand or the forehead,
+13:18   This calls for wisdom: let the one who has understanding calculate the number of the beast, for it is the number of a man, and his number is 666.
+14:1    Then I looked, and behold, on Mount Zion stood the Lamb, and with him 144,000 who had his name and his Father's name written on their foreheads.
+14:2    And I heard a voice from heaven like the roar of many waters and like the sound of loud thunder. The voice I heard was like the sound of harpists playing on their harps,
+14:3    and they were singing a new song before the throne and before the four living creatures and before the elders. No one could learn that song except the 144,000 who had been redeemed from the earth.
+14:5    and in their mouth no lie was found, for they are blameless.
+14:6    Then I saw another angel flying directly overhead, with an eternal gospel to proclaim to those who dwell on earth, to every nation and tribe and language and people.
+14:7    And he said with a loud voice, Fear God and give him glory, because the hour of his judgment has come, and worship him who made heaven and earth, the sea and the springs of water.
+14:10   he also will drink the wine of God's wrath, poured full strength into the cup of his anger, and he will be tormented with fire and sulfur in the presence of the holy angels and in the presence of the Lamb.
+14:11   And the smoke of their torment goes up forever and ever, and they have no rest, day or night, these worshipers of the beast and its image, and whoever receives the mark of its name.
+14:14   Then I looked, and behold, a white cloud, and seated on the cloud one like a son of man, with a golden crown on his head, and a sharp sickle in his hand.
+14:15   And another angel came out of the temple, calling with a loud voice to him who sat on the cloud, Put in your sickle and reap, for the hour to reap has come, for the harvest of the earth is fully ripe.
+14:18   And another angel came out from the altar, the angel who has authority over the fire, and he called with a loud voice to the one who had the sharp sickle, Put in your sickle and gather the clusters of the vine of the earth, for its grapes are ripe.
+14:19   So the angel swung his sickle across the earth and gathered the grape harvest of the earth and threw it into the great winepress of the wrath of God.
+14:20   And the winepress was trodden outside the city, and blood flowed from the winepress, as high as a horse's bridle, for 1,600 stadia.
+15:1    Then I saw another sign in heaven, great and amazing, seven angels with seven plagues, which are the last, for with them the wrath of God is finished.
+15:4    Who will not fear, O Lord, and glorify your name? For you alone are holy. All nations will come and worship you, for your righteous acts have been revealed.
+15:5    After this I looked, and the sanctuary of the tent of witness in heaven was opened,
+15:6    and out of the sanctuary came the seven angels with the seven plagues, clothed in pure, bright linen, with golden sashes around their chests.
+15:7    And one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God who lives forever and ever,

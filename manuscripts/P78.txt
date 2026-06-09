@@ -1,0 +1,31 @@
+[META]
+id: P78
+name: Papyrus 78
+label: P78
+genre: new-testament
+book: Jude
+lat: 28.5411
+lon: 30.6767
+date: c. 3rd-4th century CE
+language: Greek (Koiné)
+found: Oxyrhynchus, Egypt
+held: Bodleian Art, Archaeology and Ancient World Library, Oxford (P. Oxy. 2684)
+content: Jude 4-5
+
+[GREEK]
+FOLIO Folio 1 Recto — Jude 4
+r.1    [ασελ-]γιαν και τον μο-
+r.2    νον δ[εσ]ποτην
+r.3    {κν} ημων {ιην} {χρν}
+
+FOLIO Folio 1 Verso — Jude 4-5
+v.1    αρνουμενοι
+v.2    υπομνησαι δε υμας
+v.3    βουλομε αδελφ[ο][ι]
+
+[TRANSLATION]
+FOLIO Folio 1 Recto — Jude 4
+4      …licentiousness, and our only Master and Lord Jesus Christ —
+FOLIO Folio 1 Verso — Jude 4-5
+4      …denying.
+5      But I want to remind you, brothers…

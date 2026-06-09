@@ -1,0 +1,109 @@
+# ───────────────────────────────────────────────
+# Papyrus 4  (P4)
+# Source: NTVMR docID=10004
+# ───────────────────────────────────────────────
+
+[META]
+id:       P4
+name:     Papyrus 4
+genre:    new-testament
+date:     c. late 2nd cent. CE
+language: Greek (Koiné)
+found:    Egypt
+held:     Bibliothèque nationale de France, Paris
+content:  Luke 1:58-79; 2:6-7; 3:8-4:2; 4:29-32, 34-35; 5:3-8; 5:30-6:16
+lat:      25.69
+lon:      32.64
+book:     Luke
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[CONTENT:Luke]
+Luke 1:58-79; 2:6-7; 3:8-4:2; 4:29-32, 34-35; 5:3-8; 5:30-6:16
+
+[GREEK:Luke]
+
+FOLIO Recto — Luke 1:58-64
+
+r.1    [και] [ηκου]σαν οι π[ε]ριοικοι και οι συγγε[νεις]
+r.2    [αυτη]ς οτι εμε[γαλυνεν] {κς} [ελ]εος αυτης
+r.3    [και] [εγενετο] [ε]ν [τη] [ημερα] [τη] [ογδοη]
+r.4    ηλ[θον] [ινα] [ονοματι] [του] {πρς} [αυτου] [ζαχαριαν]
+r.5    κ[αι] [εκαλουν] [αυτο]
+
+# GAP: Luke 1:60-61
+
+r.6    [το] τ[ι] [αν] [θελοι] [κα]λεισθαι αυτο
+r.7    και [αιτησας] [πιν]ακειδιον [εγραψε]ν λεγων
+r.8    {ιωαννης} [εστ]ιν ονομα [αυτου] κ[αι] εθαυμασαν [πα]ντες
+r.9    η[νεωχθη] [δε] παραχρημα [το] [στο]μα αυτου
+r.10   και [η] [γλωσ]σα αυτου και [ελαλει] [ε]υλογων {τον} {θν}
+
+FOLIO Recto — Luke 3:8-20
+
+r.1    τω {αβρμ}
+r.2    ηδη δε και η αξινη προς την ριζαν των δενδρων
+r.3    κειται παν ουν δενδρον μη ποιουν καρπον
+r.4    εκκοπτεται και εις πυρ βαλλεται
+r.5    και επηρωτων αυτον οι οχλοι λεγοντες
+r.6    τι ουν ποιησωμεν
+r.7    αποκριθεις δε ελεγεν αυτοις ο εχων δυο
+r.8    χιτωνας μεταδοτω τω μη εχοντι
+r.9    και ο εχων βρωματα ομοιως ποιειτω
+r.10   ηλθον δε και τελωναι βαπτισθηναι
+r.11   και ειπον προς αυτον διδασκαλε τι ποιησωμεν
+r.12   ο δε ειπεν προς αυτους μηδεν πλεον
+r.13   παρα το διατεταγμενον υμιν πρασσετε
+r.14   επηρωτων δε αυτον και στρατευομενοι
+r.15   λεγοντες τι ποιησωμεν και ημεις
+r.16   και ειπεν αυτοις μηδενα διασεισητε
+r.17   μηδε συκοφαντησητε και αρκεισθε
+r.18   τοις οψωνιοις υμων
+r.19   προσδοκωντος δε του λαου και διαλογιζο—
+r.20   μενων παντων εν ταις καρδιαις αυτων
+r.21   περι του {ιωαννου} μηποτε αυτος ειη ο {χς}
+r.22   απεκρινατο λεγων πασιν ο {ιωαννης}
+r.23   εγω μεν υδατι βαπτιζω υμας
+r.24   ερχεται δε ο ισχυροτερος μου
+r.25   ου ουκ ειμι ικανος λυσαι τον ιμαντα
+r.26   του υποδηματος αυτου αυτος υμας
+r.27   βαπτισει εν {πνι} αγιω και πυρι
+r.28   ου το πτυον εν τη χειρι αυτου
+r.29   [και] διακαθαραι την αλωνα [αυτου]
+r.30   [και] συναξαι τον σιτον εις [αποθηκην]
+r.31   [αυτου] το δε αχυρον κατακαυσει
+r.32   πυρι ασβεστω
+r.33   πολλα μεν ουν και ετερα παρακαλων
+r.34   ευηγγελιζετο τον λαον
+r.35   ο δε ηρωδης ο τετραρχης ελεγχομε—
+r.36   νος υπ αυτου περι ηρωδιαδος
+r.37   της γυναικος [του αδελφου] αυτου
+r.38   και περι παντων ων εποιησεν πο—
+r.39   νηρων ο ηρωδης
+r.40   προσεθηκεν [δε] τουτο επι πασιν
+r.41   κατεκλεισεν τον {ιωαννην} εν φυλακη
+
+[TRANSLATION:Luke]
+
+1:58  Now her neighbors and relatives heard that the Lord had shown his great mercy to her, and they rejoiced with her.
+1:59  On the eighth day they came to circumcise the child, and they were going to name him Zechariah after his father.
+1:62  They began motioning to his father to find out what name he wanted to give him.
+1:63  He asked for a writing tablet and wrote, His name is John. And all of them were amazed.
+1:64  Immediately his mouth was opened and his tongue freed, and he began to speak, praising God.
+3:8   Bear fruits worthy of repentance. Do not begin to say to yourselves, We have Abraham as our ancestor; for I tell you, God is able from these stones to raise up children to Abraham.
+3:9   Even now the ax is lying at the root of the trees; every tree therefore that does not bear good fruit is cut down and thrown into the fire.
+3:10  And the crowds asked him, What then should we do?
+3:11  In reply he said to them, Whoever has two coats must share with anyone who has none; and whoever has food must do likewise.
+3:12  Even tax collectors came to be baptized, and they asked him, Teacher, what should we do?
+3:13  He said to them, Collect no more than the amount prescribed for you.
+3:14  Soldiers also asked him, And we, what should we do? He said to them, Do not extort money from anyone by threats or false accusation, and be satisfied with your wages.
+3:15  As the people were filled with expectation, and all were questioning in their hearts concerning John, whether he might be the Messiah,
+3:16  John answered all of them by saying, I baptize you with water; but one who is more powerful than I is coming; I am not worthy to untie the thong of his sandals. He will baptize you with the Holy Spirit and fire.
+3:17  His winnowing fork is in his hand, to clear his threshing floor and to gather the wheat into his granary; but the chaff he will burn with unquenchable fire.
+3:18  So, with many other exhortations, he proclaimed the good news to the people.
+3:19  But Herod the ruler, who had been rebuked by him because of Herodias, his brother's wife, and because of all the evil things that Herod had done,
+3:20  added to them all by shutting up John in prison.

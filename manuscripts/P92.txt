@@ -1,0 +1,85 @@
+# ───────────────────────────────────────────────
+# Papyrus 92  (P92)
+# Source: NTVMR docID=10092
+# ───────────────────────────────────────────────
+
+[META]
+id:       P92
+name:     Papyrus 92
+genre:    new-testament
+date:     c. 3rd century CE
+language: Greek (Koiné)
+found:    Fayyum, Egypt
+held:     Egyptian Museum, Cairo (Inv. 69,39a + 69,229a)
+content:  Ephesians 1:11-13, 19-21; 2 Thessalonians 1:4-5, 11-12
+lat:      29.3084
+lon:      30.8428
+book:     Ephesians, 2 Thessalonians
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK:Ephesians]
+
+FOLIO Recto — Ephesians 1:11-13
+
+r.1      GAP:
+r.2      [εν] ω και εκληρω—
+r.3      [θημεν] [προορισθεντες] [κ]ατα πρ[ο]θε—
+r.4      [σιν] [του] [τα] [παντα] [ενεργο]υντος κατα
+r.5      [την] [βουλην] [του] [θελη]ματος αυτου
+r.6      [εις] [το] [ειναι] [ημας] [εις] [επα]ινον δοξης
+r.7      [αυτου] [τους] [προηλπικο]τας εν τω {χρω}
+r.8      [εν] [ω] [και] [υμεις] [ακουσαν]τες τον [λο]—
+r.9      [γον] [της] [αληθειας] [το] [ευαγγ]ελιον τ[ης]
+
+FOLIO Verso — Ephesians 1:19-21
+
+v.1      GAP:
+v.2      πλουτο[ς] υπερβαλλ[ον] [μεγεθος] [της] [δυναμεως]
+v.3      αυτου εις [ημας] [τους] [πιστευοντας]
+v.4      κατα τη[ν] [ενεργειαν] [του] [κρατους]
+v.5      της ισχ[υος] [αυτου] [ην] [ενηργησεν]
+v.6      εν τω {χρω} [εγειρας] [αυτον] [εκ] [νεκρων]
+v.7      και καθι[σας] [εν] [δεξια] [αυτου] [εν] [τοις]
+v.8      [ε]πουραν[ιοις] [υπερανω] [πασης] [αρ]—
+v.9      [χης] και [εξουσιας] [και] [δυναμεως]
+
+[GREEK:2 Thessalonians]
+
+FOLIO Recto 2 — 2 Thessalonians 1:4-5
+
+r.1      GAP:
+r.2      [εγκαυχασθαι] [εν] [ταις] ε[κκλησιαις]
+r.3      [του] {θυ} [υπερ] [της] [υπ]ομ[ονης] [υμων] [και]
+r.4      [πιστεως] [εν] [πασιν] [τοις] [δ]ιωγ[μοις]
+r.5      [υμων] [και] [ταις] [θλιψεσιν] αις ανε[χε]—
+r.6      [σθε] [ενδειγμα] [της] [δικαι]ας κρι[σεως]
+r.7      [του] {θυ} [εις] [το] [καταξι]ωθη[ναι]
+
+FOLIO Verso 2 — 2 Thessalonians 1:11-12
+
+v.1      GAP:
+v.2      [και] [πληρ]ωσ[η] [πασαν] [ευδοκιαν]
+v.3      [αγαθωσ]υν[ης] [και] [εργον] [πιστεως]
+v.4      [εν] [δυ]ναμει [οπως] [ενδοξασθη]
+v.5      [το] [ονο]μα του {κυ} [ημων] {ιηυ} [εν]
+v.6      [υμιν] [και] υμει[ς] [εν] [αυτω] [κατα] [την]
+v.7      [χαριν] [το]υ {θυ} [ημων] [και] {κυ} {ιηυ} {χρυ}
+
+[TRANSLATION:Ephesians]
+1:11   In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will,
+1:12   so that we who were the first to hope in Christ might be to the praise of his glory.
+1:13   In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit,
+1:19   and what is the immeasurable greatness of his power toward us who believe, according to the working of his great might
+1:20   that he worked in Christ when he raised him from the dead and seated him at his right hand in the heavenly places,
+1:21   far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come.
+
+[TRANSLATION:2 Thessalonians]
+1:4    Therefore we ourselves boast about you in the churches of God for your steadfastness and faith in all your persecutions and in the afflictions that you are enduring.
+1:5    This is evidence of the righteous judgment of God, that you may be considered worthy of the kingdom of God, for which you are also suffering —
+1:11   To this end we always pray for you, that our God may make you worthy of his calling and may fulfill every resolve for good and every work of faith by his power,
+1:12   so that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.

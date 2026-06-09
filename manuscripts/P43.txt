@@ -1,0 +1,52 @@
+# ───────────────────────────────────────────────
+# Papyrus 43  (P43)
+# Source: NTVMR docID=10043
+# ───────────────────────────────────────────────
+
+[META]
+id:       P43
+name:     Papyrus 43
+genre:    new-testament
+date:     c. 6th-7th century CE
+language: Greek (Koiné)
+found:    Egypt (provenance unknown)
+held:     British Library, London (Pap. 2241)
+content:  Revelation 2:12-13; 15:8-16:2
+lat:      28.5383
+lon:      30.6765
+book:     Revelation
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — Revelation 2:12-13
+
+r.1      GAP:
+r.2      [και] [τω] [αγγελω] [της] [εν] περγαμω εκκλησια[ς]
+r.3      [γραψον] [ταδε] [λεγει] [ο] [εχων] [την] [ρομφαιαν] [την] [διστομον] [τ]ην οξειαν οιδα
+r.4      [που] [κατοικεις] [οπου] [ο] [θρονος] [του] [σατανα] [και] [κρατεις] το ονομα μου
+r.5      [και] [ουκ] [ηρνησω] [την] [πιστιν] [μου] [και] [εν] [ταις] [ημεραις] [αντ]ιπας ο μα[ρ]—
+r.6      [τυς]
+
+FOLIO Verso — Revelation 15:8-16:2
+
+v.1      GAP:
+v.2      [εκ] [της] [δοξης] [του] {θυ} [και] [εκ] [της] [δυν]αμεως αυτου
+v.3      [και] [ουδεις] [εδυνατο] [εισελθειν] [εις] [τον] [ναον] [αχρι] [τελεσθωσιν] [αι] [επτα] [πληγαι] [των] [ε]πτα αγγελων και ηκ[ουσα]
+v.4      [μεγαλης] [φωνης] [εκ] [του] [ναου] [λεγουσης] [τοις] [επτα] [αγγελοις] [υπαγετε] [και] [εκχεετε] [τας] [επτα] φιαλας του θυμου του {θυ}
+v.5      [εις] [την] [γην] [και] [απηλθεν] [ο] [πρωτος] [και] [εξεχεεν] [την] [φιαλην] [αυτου] [εις] [την] [γην] και εγενετο ελκος
+v.6      [κακον] [και] [πονηρον] [επι] [τους] [ανθρωπους] [τους] [εχοντας] [το] [χαραγμα] [του] [θηριου] [και] [τους] [προσκυνο]υντας την
+
+
+[TRANSLATION]
+
+2:12    And to the angel of the church in Pergamum write: The words of him who has the sharp two-edged sword.
+2:13    I know where you dwell, where Satan's throne is. Yet you hold fast my name, and you did not deny my faith even in the days of Antipas my faithful witness, who was killed among you, where Satan dwells.
+15:8    and the sanctuary was filled with smoke from the glory of God and from his power, and no one could enter the sanctuary until the seven plagues of the seven angels were finished.
+16:1    Then I heard a loud voice from the temple telling the seven angels, Go and pour out on the earth the seven bowls of the wrath of God.
+16:2    So the first angel went and poured out his bowl on the earth, and harmful and painful sores came upon the people who bore the mark of the beast and worshiped its image.

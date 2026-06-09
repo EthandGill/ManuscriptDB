@@ -1,0 +1,55 @@
+# ───────────────────────────────────────────────
+# Papyrus 89  (P89)
+# Source: NTVMR docID=10089
+# ───────────────────────────────────────────────
+
+[META]
+id:       P89
+name:     Papyrus 89
+genre:    new-testament
+date:     c. 4th century CE
+language: Greek (Koiné)
+found:    Egypt
+held:     Biblioteca Medicea Laurenziana, Florence (PL III/292)
+content:  Hebrews 6:7-9, 15-17
+lat:      28.5383
+lon:      30.6765
+book:     Hebrews
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — Hebrews 6:7-9
+
+r.1      GAP:
+r.2      [πιουσα] [πο]λλα[κις] [τον] [επ] [αυτης] [ερχομε]—
+r.3      [νον] [υετο]ν και τι[κτουσα] [βοτανην] [ευθετον]
+r.4      [εκεινο]ις δι ους κ[αι] [γεωργειται] [μεταλαμ]—
+r.5      [βανει] [ευλ]ογιας απο [του] {θυ} [εκφερουσα] [δε] [ακαν]—
+r.6      [θας] [και] τριβολο[υς] [αδοκιμος] [και] [καταρας]
+r.7      [εγγυς] [η]ς το τελος ε[ις] [καυσιν] [πεπεισμεθα]
+r.8      [δε] [περι] [υμ]ων αγ[απητοι] [τα] [κρεισσονα] [και] [εχο]—
+r.9      [μενα] [σωτ]ηριας [ει] [και] [ουτως] [λαλουμεν]
+
+FOLIO Verso — Hebrews 6:16-17
+
+v.1      GAP:
+v.2      [γαρ] [κατα] [του] [μειζονο]ς ομνυου[σιν] [και]
+v.3      [πασης] [αυτοις] [αντιλογιας] περας εις [βεβαιω]—
+v.4      [σιν] [ο] [ορκος] [εν] [ω] [περισσο]τερον ο {θς} [βουλο]—
+v.5      [μενος] [επιδειξαι] [τοι]ς κληρον[ομοις]
+v.6      [της] [επαγγελιας] [το] [αμετ]αθετον [της] [βου]—
+v.7      [λης] [αυτου] [εμεσιτευσε]ν ορκω
+
+[TRANSLATION]
+6:7    For land that has drunk the rain that often falls on it, and produces a crop useful to those for whose sake it is cultivated, receives a blessing from God.
+6:8    But if it bears thorns and thistles, it is worthless and near to being cursed, and its end is to be burned.
+6:9    Though we speak in this way, yet in your case, beloved, we feel sure of better things — things that belong to salvation.
+6:15   And thus Abraham, having patiently waited, obtained the promise.
+6:16   For people swear by something greater than themselves, and in all their disputes an oath is final for confirmation.
+6:17   So when God desired to show more convincingly to the heirs of the promise the unchangeable character of his purpose, he guaranteed it with an oath,

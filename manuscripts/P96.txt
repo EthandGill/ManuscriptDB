@@ -1,0 +1,51 @@
+# ───────────────────────────────────────────────
+# Papyrus 96  (P96)
+# Source: NTVMR docID=10096
+# ───────────────────────────────────────────────
+
+[META]
+id:       P96
+name:     Papyrus 96
+genre:    new-testament
+date:     c. 300-400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Ashmolean Museum, Oxford
+content:  Matthew 3:13-15
+lat:      28.5383
+lon:      30.6765
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [τον] [ιορδαν]ην
+r.2      [προς] [το]ν ιωαν—
+r.3      [νην] [του] βαπτι—
+r.4      [σθη]ναι υπ αυ—
+r.5      [του] ο δε ιωαν—
+r.6      [νης] διεκωλυ—
+r.7      [εν] [α]υτον [λ]εγων
+r.8      [εγω] χρε[ιαν] εχω
+r.9      [υπο] [σο]υ β[α]πτι—
+r.10     [σθ]ηναι και συ
+r.11     [ερχ]η προς με
+r.12     [απο]κριθεις [δε] [ο]
+r.13     {ις} ειπεν αυτω
+r.14     [αφε]ς αρτι ουτ[ως]
+r.15     γαρ [πρεπον] [εστιν]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+3:13  Then Jesus came from Galilee to John at the Jordan, to be baptized by him.
+3:14  John would have prevented him, saying, I need to be baptized by you, and do you come to me?
+3:15  But Jesus answered him, Let it be so now; for it is proper for us in this way to fulfill all righteousness. Then he consented.

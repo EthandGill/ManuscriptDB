@@ -1,0 +1,89 @@
+[META]
+id: P100
+name: Papyrus 100
+label: P100
+genre: new-testament
+book: James
+lat: 28.5411
+lon: 30.6767
+date: c. 3rd century CE
+language: Greek (Koiné)
+found: Oxyrhynchus, Egypt
+held: Bodleian Art, Archaeology and Ancient World Library, Oxford (P. Oxy. 4449)
+content: James 3:13-4:4, 4:9-5:1
+
+[GREEK]
+FOLIO Folio 1 Recto — James 3:13-4:4
+r.1    [δειξατω] [εκ] [της] καλης αν[ασ]τροφης τα ερ[γα]
+r.2    [αυτου] [εν] [πραυ]τητι σοφια[ς]
+r.3    ει δ[ε] ζηλον [πικρον] [εχετε] κα[ι] ε[ρ]ειθ[ε]ιαν
+r.4    εν τη καρ[δια] [υμων] [μη] [κα]τακαυχασθε
+r.5    και ψευ[δε][σ]θε [κατα] [της] α[λ]ηθειας
+r.6    [ο]υκ εστιν αυτη [η] [σοφια] [ανωθεν] κατερχομεν[η]
+r.7    [αλ]λ επιγ[ε]ι[ος] [ψυχικη] [δαιμ]ονιωδης
+r.8    οπου γαρ ζη[λος] [και] [εριθεια] ε[κ]ει ακαταστασια
+r.9    και παν [φαυλον] [πραγμα]
+r.10   η δε ανωθεν σοφια πρω[τον] [μεν] [αγνη] [εστι]ν
+r.11   επειτα ειρηνικη επι[εικης] [ευπειθης]
+r.12   μεστη ελεους κα[ι] καρ[πων] [αγαθων]
+r.13   [αδιακρ]ιτ[ος] κ[αι] α[ν]υποκρι[τος]
+r.14   [καρπος] [δε] [δι]καιοσυν[ης] εν ειρηνη
+r.15   [σπειρεται] [τοις] [ποι]ουσ[ιν] [ει]ρην[η][ν]
+r.16   π[ο]θε[ν] [πολεμοι] [και] [ποθεν] [μαχαι] εν υμ[ε]ιν
+r.17   ουκ [εντευθεν] [εκ] [των] [η]δονω[ν] υμων τω[ν]
+r.18   [στρατευομενων] [εν] [τοις] μ[ελε]σ[ι]ν υ[μω][ν]
+r.19   [επιθυμειτε] [και] [ουκ] [εχετε] φον[ε]υετε
+r.20   και [ζηλουτε] [και] [ου] [δ]υνα[σθ][ε] επιτυχ[ε]ιν
+r.21   μα[χεσθε] [και] [πολεμ]ειτε ουκ εχετε δ[ι]α το μη
+r.22   [αιτεισθαι] [υμας]
+r.23   α[ι]τειτε κ[αι] ο[υ] λαμβανε[τε]
+r.24   [διοτι] [κακως] α[ι][τ]ειτε [ινα] [εν] ταις ηδο[ναις]
+r.25   [υμων] [δα]πανηση[τ][ε]
+r.26   [μοιχ]αλιδε[ς] [ουκ] [οιδατε] [οτι] [η] [φιλια]
+r.27   [τ]ου [κοσμ]ου [εχθρ]α [του] {θυ} [εστιν]
+r.28   [ος] [εαν] [ουν] [βουληθη] φιλο[ς]
+
+FOLIO Folio 1 Verso — James 4:9-5:1
+v.1    [ταλαιπωρησατε] [και] [πενθησατε] [και] [κλαυσατε]
+v.2    [ο] [γελως] [υμων] [εις] [πενθος] [μετατραπητω]
+v.3    [και] [η] [χαρα] [εις] [κατηφειαν]
+v.4    [ταπεινωθητε] [ενωπιον] {κυ} [και] [υψωσει] [υμας]
+v.5    [μη] [καταλαλειτε] [αλληλων] [αδελφοι]
+v.6    [ο] [καταλαλων] [αδελφου] [η] [κρινων] [τον] [αδελφον] [αυτου]
+v.7    [καταλαλει] [νομου] [και] [κρινει] [νομον]
+v.8    [εις] [εστιν] [ο] [νομοθετης] [και] [κριτης]
+v.9    [ο] [δυναμενος] [σωσαι] [και] [απολεσαι]
+v.10   [συ] [δε] [τις] [ει] [ο] [κρινων] [τον] [πλησιον]
+v.11   [αγε] [νυν] [οι] [λεγοντες] [σημερον] [η] [αυριον]
+v.12   [πορευσομεθα] [εις] [τηνδε] [την] [πολιν]
+v.13   [ποιησομεν] [εκει] [ενιαυτον] [και] [εμπορευσομεθα]
+v.14   [οιτινες] [ουκ] [επιστασθε] [το] [της] [αυριον]
+v.15   [ποια] [γαρ] [η] [ζωη] [υμων] [ατμις] [γαρ] [εστε]
+v.16   [προς] [ολιγον] [φαινομενη] [επειτα] [αφανιζομενη]
+v.17   [αντι] [του] [λεγειν] [υμας] [εαν] {κς} [θεληση]
+v.18   [ζησομεθα] [και] [ποιησομεν] [τουτο] [η] [εκεινο]
+v.19   [νυν] [δε] [καυχασθε] [εν] [ταις] [αλαζονειαις] [υμων]
+v.20   [πασα] [καυχησις] [τοιαυτη] [πονηρα] [εστιν]
+v.21   [αγε] [νυν] [οι] [πλουσιοι] [κλαυσατε] [ολολυζοντες]
+v.22   [επι] [ταις] [ταλαιπωριαις] [υμων] [ταις] [επερχομεναις]
+
+[TRANSLATION]
+3:13   Who is wise and understanding among you? By his good conduct let him show his works in the meekness of wisdom.
+3:14   But if you have bitter jealousy and selfish ambition in your hearts, do not boast and be false to the truth.
+3:15   This is not the wisdom that comes down from above, but is earthly, unspiritual, demonic.
+3:16   For where jealousy and selfish ambition exist, there will be disorder and every vile practice.
+3:17   But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere.
+3:18   And a harvest of righteousness is sown in peace by those who make peace.
+4:1    What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you?
+4:2    You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do not ask.
+4:3    You ask and do not receive, because you ask wrongly, to spend it on your passions.
+4:4    You adulterous people! Do you not know that friendship with the world is enmity with God? Therefore whoever wishes to be a friend of the world…
+4:9    Be wretched and mourn and weep. Let your laughter be turned to mourning and your joy to gloom.
+4:10   Humble yourselves before the Lord, and he will exalt you.
+4:11   Do not speak evil against one another, brothers. The one who speaks against a brother or judges his brother, speaks evil against the law and judges the law.
+4:12   There is only one lawgiver and judge, he who is able to save and to destroy. But who are you to judge your neighbour?
+4:13   Come now, you who say: Today or tomorrow we will go into such and such a town and spend a year there and trade and make a profit —
+4:14   yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes.
+4:15   Instead you ought to say: If the Lord wills, we will live and do this or that.
+4:16   As it is, you boast in your arrogance. All such boasting is evil.
+5:1    Come now, you rich, weep and howl for the miseries that are coming upon you.

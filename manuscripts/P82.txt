@@ -1,0 +1,67 @@
+# ───────────────────────────────────────────────
+# Papyrus 82  (P82)
+# Source: NTVMR docID=10082
+# ───────────────────────────────────────────────
+
+[META]
+id:       P82
+name:     Papyrus 82
+genre:    new-testament
+date:     4th/5th cent. CE
+language: Greek (Koiné)
+found:    Egypt, exact provenance unknown (possibly Lycopolis region)
+held:     Bibliothèque nationale universitaire de Strasbourg (P. Gr. 2677)
+content:  Luke 7:32-34; 7:37-38
+lat:      27.1833
+lon:      31.1667
+book:     Luke
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[CONTENT:Luke]
+Luke 7:32-34; 7:37-38
+
+[GREEK:Luke]
+
+FOLIO Recto
+
+r.1    [εθρηνησα]—
+r.2    [μεν] και [ο]υ[κ] [εκλαυσατε]
+r.3    [ελ]—
+r.4    [ηλ]υθεν [γ][αρ] [ιωαννης] [ο]
+r.5    [βα]πτιστ[ης] [μη] [εσθι]—
+r.6    [ων] [α]ρτον [μητε] [πινων] [οι]—
+r.7    [νον] και [λεγετε] [δαιμο]—
+r.8    [νι][ο]ν εχ[ε][ι]
+r.9    [εληλυθεν] [ο] {υις} [του] {ανου} [εσθι]—
+r.10   [ω][ν] και [πινων] [και] [λεγε]—
+r.11   [τα]ι ιδ[ου] [ανθρωπος]—
+
+FOLIO Verso
+
+v.1    [φα]—
+v.2    [ρισαιου] [κομι]σασα [αλα]—
+v.3    [βαστρον] [μυρου]
+v.4    και σ[τα]—
+v.5    [σα] [οπισω] [παρα] τους πο—
+v.6    [δας] [αυτου] [κλαι]ουσα [ηρξα]—
+v.7    [το] [βρεχειν] τους ποδας
+v.8    [αυτου] [και] [τ]αις [θ]ρι[ξιν]
+v.9    [της] [κεφαλης] αυτ[η][ς] [εξ]—
+v.10   [εμασσεν] [κα]ι [κ]α[τ]εφιλει
+v.11   [τους] [ποδας] [α]υ[τ]ου [και]
+
+[TRANSLATION:Luke]
+
+FOLIO Recto
+7:32  …we wailed, and you did not weep.
+7:33  For John the Baptist has come neither eating bread nor drinking wine, and you say: "He has a demon."
+7:34  The Son of Man has come eating and drinking, and you say: "Behold, a man, a glutton …"
+
+FOLIO Verso
+7:37  …[learning that he was reclining in the house] of the Pharisee, she brought an alabaster jar of ointment,
+7:38  and standing behind at his feet, weeping, she began to wet his feet, and with the hairs of her head she was wiping them, and she was kissing his feet and [anointing them]…

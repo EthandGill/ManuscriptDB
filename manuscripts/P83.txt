@@ -1,0 +1,71 @@
+# ───────────────────────────────────────────────
+# Papyrus 83  (P83)
+# Source: NTVMR docID=10083
+# ───────────────────────────────────────────────
+
+[META]
+id:       P83
+name:     Papyrus 83
+genre:    new-testament
+date:     c. 450-550 CE
+language: Greek (Koiné)
+found:    Khirbet Mird, Judean Desert
+held:     KU Leuven Libraries, Leuven
+content:  Matthew 20:23-25, 30-31; 23:39; 24:1, 6
+lat:      31.7027
+lon:      35.355
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [εστιν] [εμον] [τουτο] [δουνα]ι αλλ
+r.2      [οις] [ητοιμασται] [υπο] [του] {πρς}
+r.3      [μου] [και] [ακουσαντες] [οι] [δ]εκα
+r.4      [ηγανακτησαν] [περι] [των] δυ—
+r.5      [ο] [αδελφων] [ο] [δε] {ις} [προσκα]λε—
+r.6      [σαμενος] [αυτους] [ειπεν] [οι]δα—
+r.7      [τε] [οτι] [οι] [αρχοντες] [των] [εθ]νων
+r.8      [κατακυριευουσιν] [αυτων] [κ]α[ι]
+
+FOLIO Verso
+
+v.1      τυφλ[οι] [καθημενοι] [παρα] [την]
+v.2      ο[δον] [ακουσαντες] [οτι] {ις} [παραγει]
+v.3      ε[κραξαν] [λεγοντες] [ελεησον]
+v.4      [ημας] {κε} {υς} {δαδ} [ο] [δε] [οχλος] [επ]—
+v.5      ε[τιμησεν] [αυτοις] [ινα] [σιωπη]—
+v.6      [σωσιν]
+
+FOLIO Recto 2
+
+r.1      [ευλογημεν]ος ο ερχομ[ενος]
+r.2      [εν] [ονοματι] {κυ}
+r.3      [και] [εξελθων] [ο] {ις} απο [του] [ιε]—
+r.4      [ρου]
+
+FOLIO Verso 2
+
+v.1      [μελλ]η[σ]ετε δε ακ[ουειν] [πο]—
+v.2      [λεμους] [και] ακοα[ς] [πολεμων]
+v.3      [ορατε] [μ]η θροε[ισθε] [δει] [γαρ]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+20:23 He said to them, You will indeed drink my cup, but to sit at my right hand and at my left, this is not mine to grant, but it is for those for whom it has been prepared by my Father.
+20:24 When the ten heard it, they were angry with the two brothers.
+20:25 But Jesus called them to him and said, You know that the rulers of the Gentiles lord it over them, and their great ones are tyrants over them.
+20:30 There were also two blind men sitting by the roadside. When they heard that Jesus was passing by, they shouted, Lord, have mercy on us, Son of David!
+20:31 The crowd sternly ordered them to be quiet; but they shouted even more loudly, Have mercy on us, Lord, Son of David!
+23:39 For I tell you, you will not see me again until you say, Blessed is the one who comes in the name of the Lord.
+24:1  As Jesus came out of the temple and was going away, his disciples came to point out to him the buildings of the temple.
+24:6  And you will hear of wars and rumors of wars; see that you are not alarmed; for this must take place, but the end is not yet.

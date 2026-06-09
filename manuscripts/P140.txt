@@ -1,0 +1,25 @@
+[META]
+id: P140
+name: Papyrus 140
+label: P140
+genre: new-testament
+book: Acts
+lat: 28.5383
+lon: 30.6765
+date: c. 4th-5th century CE
+language: Greek (Koiné)
+found: Egypt
+held: Istituto Papirologico, Florence (PSI inv. 1971)
+content: Acts 7:54-55 (partial)
+
+[GREEK]
+FOLIO Recto — Acts 7:54-55
+r.1    [εν] [τη] [καρδια] [αυτων] [εβρυχον] [τους] [οδοντας]
+r.2    επ [αυ]τον
+r.3    στεφανος δε υ[π][αρχων] [πληρης] {πνς} [αγιου]
+r.4    [α][τε]νισας εις [τον] [ουρανον]
+
+[TRANSLATION]
+FOLIO Recto — Acts 7:54-55
+7:54   …in their hearts, and they gnashed their teeth at him.
+7:55   But Stephen, being full of the Holy Spirit, gazed into heaven…

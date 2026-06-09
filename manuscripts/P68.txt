@@ -1,0 +1,86 @@
+# ───────────────────────────────────────────────
+# Papyrus 68  (P68)
+# Source: NTVMR docID=10068
+# ───────────────────────────────────────────────
+
+[META]
+id:       P68
+name:     Papyrus 68
+genre:    new-testament
+date:     c. 7th century CE
+language: Greek (Koiné)
+found:    Egypt
+held:     Russian National Library, Saint Petersburg (Ms. Gr. 258B)
+content:  1 Corinthians 4:12-17; 4:19-5:3
+lat:      28.5383
+lon:      30.6765
+book:     1 Corinthians
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [χερσιν] λοιδορου[μενοι] [ευλο]—
+r.2      [γο]υμεν διωκ[ομενοι] [ανε]—
+r.3      [χο]μεθα βλασφ[ημουμενοι]
+r.4      [π]αρακαλουμεν [ως] [περικα]—
+r.5      [θ]αρματα του κ[οσμου] [εγε]—
+r.6      [ν]ηθημεν
+r.7      [πα]ντων περιψημ[α] [εως] [αρ]—
+r.8      [τ]ι ουκ εντρεπων [υμας]
+r.9      [γ]ραφω ταυτα αλλ [ως] [τεκνα]
+r.10     μου αγαπητα νου[θετων]
+r.11     [ε]αν γαρ μυριους πα[ιδαγω]—
+r.12     γους εχηται εν {χω} α[λλ] [ου]
+r.13     πολλους πατερας εν γ[αρ] {χω}
+r.14     {ιυ} δια του ευαγελιου [εγω]
+r.15     υμας εγεννησα
+r.16     [π]αρακαλω ουν υμ[α]ς μ[ι]—
+r.17     μηται μου γινεσθαι δ[ια]
+r.18     τουτο επεμψα υμιν τ[ι]—
+r.19     μοθεον ος εστιν μου τε[κνον]
+r.20     αγαπητον και πιστον εν
+r.21     {κω} ος υμας αναμνησε[ι]
+
+FOLIO Verso
+
+v.1      [προς] [υμας] εαν ο {κς} θελη[ση] [και]
+v.2      [γνωσομα]ι ου τον λογο[ν] [των]
+v.3      [πεφυσιω]μενων αλλα τ[ην]
+v.4      [δυναμιν] ου γαρ εν λογω [η] [βασι]—
+v.5      [λεια] [του] {θυ} αλλ εν δυνα[μει] [τι]
+v.6      [θελετε] [ε]ν ραβδω ελθω [προς]
+v.7      [υμας] η εν αγαπη {πνι} τε [πραυτη]—
+v.8      [τος] [ολ]ως ακουεται εν υμ[ιν]
+v.9      [πορνει]α και τοιαυτη πορν[εια]
+v.10     [ητις] [ο]υδε εν τοις εθνεσιν
+v.11     [ονο]μαζεται ωστε γυναικ[α]
+v.12     [τινα] του {πρς} εχειν και υμε[ις]
+v.13     [πεφ]υσιωμενοι εσται και ο[υ]—
+v.14     [χι] [μαλ]λον επενθησαται ι—
+v.15     [να] [α]ρθη εκ μεσου υμων
+v.16     [ο] [το] [ε]ργ[ο]ν τουτο ποιησας
+v.17     [εγω] [μ]εν γαρ απων τω σωμα—
+v.18     [τι] παρ[ω]ν δε τω {πνι} ηδη
+v.19     [κε]κρικα ως παρων τον ου—
+v.20     [τως]
+
+[TRANSLATION]
+4:12   and we labor, working with our own hands. When reviled, we bless; when persecuted, we endure;
+4:13   when slandered, we entreat. We have become, and are still, like the scum of the world, the refuse of all things.
+4:14   I do not write these things to make you ashamed, but to admonish you as my beloved children.
+4:15   For though you have countless guides in Christ, you do not have many fathers. For I became your father in Christ Jesus through the gospel.
+4:16   I urge you, then, be imitators of me.
+4:17   That is why I sent you Timothy, my beloved and faithful child in the Lord, to remind you of my ways in Christ, as I teach them everywhere in every church.
+4:19   But I will come to you soon, if the Lord wills, and I will find out not the talk of these arrogant people but their power.
+4:20   For the kingdom of God does not consist in talk but in power.
+4:21   What do you wish? Shall I come to you with a rod, or with love in a spirit of gentleness?
+5:1    It is actually reported that there is sexual immorality among you, and of a kind that is not tolerated even among pagans, for a man has his father's wife.
+5:2    And you are arrogant! Ought you not rather to mourn? Let him who has done this be removed from among you.
+5:3    For though absent in body, I am present in spirit; and as if present, I have already pronounced judgment on the one who did such a thing.

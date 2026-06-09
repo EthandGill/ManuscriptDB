@@ -1,0 +1,100 @@
+# ───────────────────────────────────────────────
+# Papyrus 133  (P133)
+# Source: NTVMR docID=10133
+# ───────────────────────────────────────────────
+
+[META]
+id:       P133
+name:     Papyrus 133
+genre:    new-testament
+date:     c. mid-3rd century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Sackler Library, Oxford (P. Oxy. 5259)
+content:  1 Timothy 3:13-4:8
+lat:      28.5383
+lon:      30.6765
+book:     1 Timothy
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — 1 Timothy 3:13-4:3
+
+r.1      GAP:
+r.2      [περιπατουνται] [κ]αι [π]ο[λλη]ν παρ[ρησιαν]
+r.3      [εν] [π]ιστ[ει] την ε[ν] {χρω}
+r.4      {ιηυ} [τ]αυτ[α] [σ]οι γρα[φω] [ελπι]—
+r.5      [ζων] [ε]λθ[ειν] εν τ[αχει] [εαν]
+r.6      [δε] [βρα]δυ[νω] [ινα] ειδ[ης] [πως]
+r.7      [δει] [εν] [ο]ι[κω] {θυ} α[ναστρε]—
+r.8      [φεσθαι] [ητις] εστ[ιν] [εκκλη]—
+r.9      [σια] {θυ} [ζων]τος [στυλος]
+r.10     [και] [εδραιωμ]α τ[ης] [αλη]—
+r.11     [θειας] [και] [ομολογουμε]—
+r.12     [νως] [μεγα] [εστιν] [το] [της]
+r.13     [ευσεβειας] [μ]υστ[ηριον] [ος]
+r.14     [εφανερ]ωθη εν σαρ[κι] [εδι]—
+r.15     [καιωθη] εν {πνι} ωφ[θη]
+r.16     [αγγελοι]ς εκ[η]ρυχ[θη]
+r.17     [εν] [εθνεσι]ν επι[σ]τευ[θη]
+r.18     [εν] [κοσμω] ανελ[η]μφ[θη]
+r.19     [εν] [δοξη] [τ]ο δε {πνα} ρη[τως]
+r.20     [λεγει] [οτι] [ε]ν υστεροι[ς]
+r.21     [καιροις] [απ]οστησον[ται]
+r.22     [τινες] [της] πιστ[ε]ως
+r.23     [προσεχο]ντες {πνσι} [πλα]—
+r.24     [νοις] [και] [δι]δασκαλια[ις]
+r.25     [δαιμονι]ων εν [υ]ποκ[ρι]—
+r.26     [σει] [ψευδο]λογω[ν] κεκ[αυ]—
+r.27     [στηριασμε]νων την [ιδιαν]
+r.28     [συνειδησιν] [κ]ωλυ[ο]ντω[ν] [γα]—
+r.29     [μειν] [απεχε]σθαι β[ρω]
+
+FOLIO Verso — 1 Timothy 4:3-8
+
+v.1      GAP:
+v.2      [ματος] [εκτισεν] [εις] [μεταλημ]—
+v.3      [ψιν] [μετα] ευχα[ριστι]α[ς]
+v.4      [τοις] [πισ]τοις [κα]ι επ[ε]—
+v.5      [γνωκοσι] την [αλ][η]θ[ει]—
+v.6      [αν] [οτι] [π]αν κ[τισ]μα {θυ}
+v.7      [καλον] [κ]αι ου[δεν] [α]π[ο]—
+v.8      [βλητον] [μ]ετ ε[υχαριστι]—
+v.9      [ας] [λαμβα]νομ[ενον] [αγι]—
+v.10     [αζεται] [γαρ] δι[α] [λογου] {θυ}
+v.11     [και] [εντευξεως] [ταυτα]
+v.12     [υπο]τι[θεμενος] [τοις]
+v.13     [αδ]ελφ[ο]ις [καλος] [εση]
+v.14     [δια]κο[ν]ος {χυ} [εντρε]—
+v.15     [φο]μενος τ[οις] [λογοις]
+v.16     [τη]ς π[ισ]τεω[ς] [και] [της]
+v.17     [κα]λης διδασ[καλιας] [η]
+v.18     [πα]ρηκολου[θηκας]
+v.19     [το]υς δε βεβη[λους] [και]
+v.20     [γρ]αωδ[ε]ις μ[υθους] [πα]—
+v.21     [ραι]του γυμ[ναζε] [δε]
+v.22     [σε]αυτ[ο]ν πρ[ος] [ευσε]—
+v.23     [βει]αν [η] [γαρ] [σωματι]—
+v.24     [κη] γυμνασ[ια] [προς] [ο]—
+v.25     [λι]γον [ε]στ[ιν] [ωφελι]—
+v.26     [μ]ος η [δε] [ευσεβεια]
+
+[TRANSLATION]
+3:13   For those who serve well as deacons gain a good standing for themselves and also great confidence in the faith that is in Christ Jesus.
+3:14   I hope to come to you soon, but I am writing these things to you so that,
+3:15   if I delay, you may know how one ought to behave in the household of God, which is the church of the living God, a pillar and buttress of the truth.
+3:16   Great indeed, we confess, is the mystery of godliness: He was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory.
+4:1    Now the Spirit expressly says that in later times some will depart from the faith by devoting themselves to deceitful spirits and teachings of demons,
+4:2    through the insincerity of liars whose consciences are seared,
+4:3    who forbid marriage and require abstinence from foods that God created to be received with thanksgiving by those who believe and know the truth.
+4:4    For everything created by God is good, and nothing is to be rejected if it is received with thanksgiving,
+4:5    for it is made holy by the word of God and prayer.
+4:6    If you put these things before the brothers, you will be a good servant of Christ Jesus, being trained in the words of the faith and of the good doctrine that you have followed.
+4:7    Have nothing to do with irreverent, silly myths. Rather train yourself for godliness;
+4:8    for while bodily training is of some value, godliness is of value in every way, as it holds promise for the present life and also for the life to come.

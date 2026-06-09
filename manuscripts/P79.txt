@@ -1,0 +1,73 @@
+# ───────────────────────────────────────────────
+# Papyrus 79  (P79)
+# Source: NTVMR docID=10079
+# ───────────────────────────────────────────────
+
+[META]
+id:       P79
+name:     Papyrus 79
+genre:    new-testament
+date:     c. 7th century CE
+language: Greek (Koiné)
+found:    Egypt
+held:     Staatliche Museen zu Berlin (Papyrus 6774)
+content:  Hebrews 10:10-12; 10:28-30
+lat:      28.5383
+lon:      30.6765
+book:     Hebrews
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — Hebrews 10:10-12
+
+r.1      GAP:
+r.2      της προσ[φορας] [του]
+r.3      σωματο[ς] {ιυ} {χυ} [εφα]—
+r.4      παξ κα[ι] [πας] [μεν]
+r.5      ιερευς εσ[τηκεν] [κα]—
+r.6      θ ημεραν [λειτουρ]—
+r.7      γων κα[ι] [τας] [αυτας] [πολλακις]
+r.8      προσφερ[ων] [θυ]—
+r.9      σιας αι[τινες] [ουδε]—
+r.10     ποτε δυν[ανται] [πε]—
+r.11     ριελειν α[μαρτιας]
+r.12     ουτος δε μ[ιαν] [υπερ]
+r.13     αμαρτιω[ν] [προσε]—
+r.14     νεγκας θ[υσιαν] [εις]
+r.15     το διηνε[κες] [εκαθι]—
+r.16     [σεν]
+
+FOLIO Verso — Hebrews 10:28-30
+
+v.1      GAP:
+v.2      [αθετη]σας
+v.3      [τις] [νομον] μωυσε—
+v.4      [ως] [χωρις] [ο]ικτειρ—
+v.5      [μων] [επι] δυσιν
+v.6      [η] [τρισιν] μαρτυσιν
+v.7      [αποθνησ]κει ποσω
+v.8      [δοκειτε] χειρο—
+v.9      [νος] [αξιω]θησεται
+v.10     [τιμωρια]ς ο τον {υν}
+v.11     [του] {θυ} [κα]ταπατη—
+v.12     [σας] [και] [το] αιμα
+v.13     [της] [διαθ]ηκης κοι—
+v.14     [νον] [ηγη]σαμενος
+v.15     [εν] [ω] [ηγι]ασθη
+v.16     [και] [το] {πνα} της
+v.17     [χαριτος] [ε]νυβρισας
+v.18     [οιδαμεν] γαρ τον
+
+[TRANSLATION]
+10:10  And by that will we have been sanctified through the offering of the body of Jesus Christ once for all.
+10:11  And every priest stands daily at his service, offering repeatedly the same sacrifices, which can never take away sins.
+10:12  But when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God,
+10:28  Anyone who has set aside the law of Moses dies without mercy on the evidence of two or three witnesses.
+10:29  How much worse punishment, do you think, will be deserved by the one who has trampled underfoot the Son of God, and has profaned the blood of the covenant by which he was sanctified, and has outraged the Spirit of grace?
+10:30  For we know him who said, "Vengeance is mine; I will repay." And again, "The Lord will judge his people."

@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ManuscriptDB</title>
+
+    <!-- FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+
+    <!-- LEAFLET -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <!-- APP -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+
+<body>
+<div id="container">
+
+    <!-- ── SIDEBAR ── -->
+    <div id="sidebar">
+
+        <div id="sidebar-header">
+            <h1>Manuscript<span>DB</span></h1>
+            <p class="tagline">Ancient World &middot; Manuscripts &amp; Cities</p>
+        </div>
+
+        <div id="sidebar-body">
+
+            <!-- Manuscript Browser (top) -->
+            <div id="manuscript-section">
+                <div class="section-label ms-section-label">Manuscripts</div>
+                <div id="ms-search-wrap">
+                    <input type="text" id="ms-search-input"
+                           placeholder="Search manuscripts&hellip;" autocomplete="off" />
+                </div>
+                <div id="ms-search-results"></div>
+
+                <!-- Date Filter -->
+                <div id="ms-filter-bar">
+                    <button id="ms-filter-btn">
+                        <span>Filters</span>
+                        <span id="ms-filter-active-dot" class="filter-active-dot"></span>
+                    </button>
+                </div>
+                <div id="ms-filter-panel">
+
+                    <!-- Date Range -->
+                    <div class="filter-date-row">
+                        <div class="filter-date-group">
+                            <div class="filter-date-label">From</div>
+                            <div class="filter-date-input-wrap">
+                                <input type="number" id="filter-start-year" class="filter-year-input" placeholder="Year" min="1" max="9999" />
+                                <div class="filter-era-toggle">
+                                    <div class="filter-era-btn" data-era="BCE" data-field="start">BCE</div>
+                                    <div class="filter-era-btn active" data-era="CE" data-field="start">CE</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="filter-date-sep">—</div>
+                        <div class="filter-date-group">
+                            <div class="filter-date-label">To</div>
+                            <div class="filter-date-input-wrap">
+                                <input type="number" id="filter-end-year" class="filter-year-input" placeholder="Year" min="1" max="9999" />
+                                <div class="filter-era-toggle">
+                                    <div class="filter-era-btn" data-era="BCE" data-field="end">BCE</div>
+                                    <div class="filter-era-btn active" data-era="CE" data-field="end">CE</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Pericope -->
+                    <div class="filter-section-divider"></div>
+
+                    <div class="filter-pericope-book-row">
+                        <div class="filter-pericope-source-header">
+                            <div class="filter-date-label">Source</div>
+                            <div class="filter-genre-tab-bar" id="filter-genre-tab-bar">
+                                <div class="filter-genre-tab" data-genre="OT">OT</div>
+                                <div class="filter-genre-tab active" data-genre="NT">NT</div>
+                                <div class="filter-genre-tab" data-genre="EC">EC</div>
+                                <div class="filter-genre-tab" data-genre="AP">AP</div>
+                            </div>
+                        </div>
+                        <div id="filter-book-wrap" class="filter-book-wrap">
+                            <input type="text" id="filter-book-input" class="filter-book-input"
+                                   placeholder="NT Book…" autocomplete="off" />
+                            <div id="filter-book-dropdown" class="filter-book-dropdown"></div>
+                        </div>
+                    </div>
+
+                    <div class="filter-pericope-cv-row">
+                        <div class="filter-cv-col">
+                            <div class="filter-date-label">Chapter</div>
+                            <input type="number" id="filter-chapter" class="filter-cv-input"
+                                   placeholder="Ch" min="1" max="150" />
+                        </div>
+                        <div class="filter-cv-col filter-cv-col-wide">
+                            <div class="filter-date-label">Verse</div>
+                            <div class="filter-verse-pair">
+                                <input type="number" id="filter-verse-start" class="filter-cv-input"
+                                       placeholder="V" min="1" max="200" />
+                                <span class="filter-date-sep">—</span>
+                                <input type="number" id="filter-verse-end" class="filter-cv-input"
+                                       placeholder="V" min="1" max="200" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <button id="ms-filter-clear" class="filter-clear-btn">Clear Filters</button>
+                </div>
+
+                <div id="genre-list"></div>
+            </div>
+
+            <!-- Epigraphy Browser -->
+            <div id="epigraphy-section">
+                <div class="section-label epi-section-label">Epigraphy</div>
+                <div id="epigraphy-genre-list"></div>
+            </div>
+
+            <!-- Route Planner -->
+            <div id="route-planner">
+                <div class="planner-header">
+                    <div class="planner-label">Route Planner</div>
+                    <label class="planner-toggle" title="Enable route planning">
+                        <input type="checkbox" id="route-planner-toggle">
+                        <span class="toggle-track"><span class="toggle-thumb"></span></span>
+                    </label>
+                </div>
+
+                <div id="route-planner-body">
+                <div class="route-slots">
+                    <div class="route-slot active" id="slot-from">
+                        <div class="slot-label">From</div>
+                        <div class="slot-value" id="from-value">Select a city&hellip;</div>
+                        <div class="slot-sub" id="from-sub"></div>
+                    </div>
+
+                    <div class="route-connector"></div>
+
+                    <div class="route-slot" id="slot-to">
+                        <div class="slot-label">To</div>
+                        <div class="slot-value" id="to-value">Select a city&hellip;</div>
+                        <div class="slot-sub" id="to-sub"></div>
+                    </div>
+                </div>
+
+                <!-- Travel time results (populated by JS) -->
+                <div id="route-result"></div>
+
+                <button id="clear-btn">Clear Route</button>
+                </div><!-- /#route-planner-body -->
+            </div>
+
+            <!-- City List (collapsible) -->
+            <div id="city-list-section">
+                <div class="city-list-header" id="city-section-toggle">
+                    <span class="city-chevron">›</span>
+                    <span class="city-list-title">Ancient Cities</span>
+                    <span class="city-list-count" id="city-count">0</span>
+                </div>
+                <div id="city-search-wrap">
+                    <input type="text" id="search-input"
+                           placeholder="Search cities&hellip;" autocomplete="off" />
+                </div>
+                <div id="locations-list"></div>
+            </div>
+
+            <!-- Social Networks -->
+            <div id="social-networks-section">
+                <div class="sn-section-header" id="sn-section-toggle">
+                    <span class="sn-chevron">›</span>
+                    <span class="sn-section-title">Social Networks</span>
+                </div>
+                <div id="sn-section-body">
+                    <div class="sn-network-item" id="sn-pauline-btn">
+                        <span class="sn-net-icon">⬡</span>
+                        <span class="sn-net-name">Pauline Network</span>
+                        <span class="sn-net-badge">62 people</span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- ── MAP ── -->
+    <div id="map"></div>
+
+    <!-- ── WRITING STAND ── -->
+    <div id="writing-stand">
+
+        <div id="ws-header">
+            <div id="ws-title">
+                <div id="ws-ms-id"></div>
+                <div id="ws-ms-name"></div>
+            </div>
+            <button id="ws-close" title="Close Reading Stand">&#x2715;</button>
+        </div>
+
+        <!-- Book tabs (multi-book manuscripts only) -->
+        <div id="ws-book-tabs" class="ws-hidden"></div>
+
+        <!-- Folio navigator (≥5 folio manuscripts only) -->
+        <div id="ws-folio-bar" class="ws-hidden">
+            <span class="ws-folio-label">Folio</span>
+            <!-- populated by JS -->
+        </div>
+
+        <!-- Diglot columns -->
+        <div id="ws-diglot">
+            <div class="ws-col" id="ws-greek-col">
+                <div class="ws-col-header">Greek Text</div>
+                <div id="ws-greek-scroll" class="ws-text-scroll ws-greek-text"></div>
+            </div>
+            <div class="ws-col" id="ws-english-col">
+                <div class="ws-col-header">English Translation</div>
+                <div id="ws-english-scroll" class="ws-text-scroll ws-english-text"></div>
+            </div>
+        </div>
+
+        <!-- Metadata footer -->
+        <div id="ws-meta"></div>
+
+    </div>
+
+</div>
+
+<!-- LEAFLET -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<!-- APP -->
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+<script src="{{ url_for('static', filename='pauline_network.js') }}"></script>
+<script src="{{ url_for('static', filename='manuscript_network.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+# ───────────────────────────────────────────────
+# Papyrus 73  (P73)
+# Source: NTVMR docID=10073
+# ───────────────────────────────────────────────
+
+[META]
+id:       P73
+name:     Papyrus 73
+genre:    new-testament
+date:     c. 400-500 CE
+language: Greek (Koiné)
+found:    Egypt (exact site unknown)
+held:     Biblioteca Bodmeriana, Geneva
+content:  Matthew 25:43; 26:2-3
+lat:      26.8206
+lon:      30.8025
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [ασθενης] [και] [ε]ν [φυ]—
+r.2      [λακη] [κ]αι ουκ επ[εσκε]—
+r.3      [ψασθε] [μ]ε
+
+FOLIO Verso
+
+v.1      [το] [στ]αυρωθ[ηναι]
+v.2      [τοτε] [συ]νηχθ[ησαν]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+FOLIO Recto
+25:43  …sick and in prison, and you did not visit me.
+
+FOLIO Verso
+26:2   …to be crucified.
+26:3   Then were gathered [the chief priests and the elders of the people]…

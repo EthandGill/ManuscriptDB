@@ -1,0 +1,50 @@
+# ───────────────────────────────────────────────
+# Papyrus 132  (P132)
+# Source: NTVMR docID=10132
+# ───────────────────────────────────────────────
+
+[META]
+id:       P132
+name:     Papyrus 132
+genre:    new-testament
+date:     c. 3rd-4th century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Sackler Library, Oxford (P. Oxy. 5258)
+content:  Ephesians 3:21-4:2, 14-16
+lat:      28.5383
+lon:      30.6765
+book:     Ephesians
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — Ephesians 3:21-4:2
+
+r.1      GAP:
+r.2      [αυτω] [η] [δοξα] [εν] [τη] [εκκλησ]ια και [ε]ν {χω} {ιυ} [εις] [πασας] [τας]
+r.3      [γενεας] [του] [αιωνος] [των] αιωνων [αμην] [παρακαλω] [ουν]
+r.4      [υμας] [εγω] [ο] [δεσμι]ος εν {κω} [αξιως] [περιπατησαι] [της]
+r.5      [κλησεως] [ης] [εκληθ]ητε μετα π[ασης] [ταπεινοφρο]—
+r.6      [συνης] [και] [πραυτητο]ς μετα μ[ακροθυμιας] [ανεχομενοι]
+
+FOLIO Verso — Ephesians 4:14-16
+
+v.1      GAP:
+v.2      [διδασκαλιας] [εν] [τ]η κυβι[α] [των] {ανων} [εν] [πανουρ]—
+v.3      [για] [προς] [την] [μεθοδε]ιαν [της] [πλανης] [αληθευ]—
+v.4      [οντες] [δε] [εν] [αγαπη] [α]υξ[ησωμεν] [εις] [αυτον] [τα] [παντα] [ος] [εστιν]
+v.5      [η] [κεφαλη] {χς} [εξ] [ου] [παν] [το] [σωμ]α συνα[ρμολογουμενον]
+
+[TRANSLATION]
+3:21   to him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.
+4:1    I therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called,
+4:2    with all humility and gentleness, with patience, bearing with one another in love,
+4:14   so that we may no longer be children, tossed to and fro by the waves and carried about by every wind of doctrine, by human cunning, by craftiness in deceitful schemes.
+4:15   Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ,
+4:16   from whom the whole body, joined and held together by every joint with which it is equipped, when each part is working properly, makes the body grow so that it builds itself up in love.

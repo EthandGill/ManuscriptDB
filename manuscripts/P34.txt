@@ -1,0 +1,234 @@
+# ───────────────────────────────────────────────
+# Papyrus 34  (P34)
+# Source: NTVMR docID=10034
+# ───────────────────────────────────────────────
+
+[META]
+id:       P34
+name:     Papyrus 34
+genre:    new-testament
+date:     c. 7th century CE
+language: Greek (Koiné)
+found:    Fayyum, Egypt
+held:     Oesterreichische Nationalbibliothek, Vienna (P. Vindob. G. 39784)
+content:  1 Corinthians 16:4-7,10; 2 Corinthians 5:18-21; 10:13-14; 11:2,4,6-7
+lat:      29.3084
+lon:      30.8428
+book:     1 Corinthians, 2 Corinthians
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK:1 Corinthians]
+
+FOLIO Recto
+
+r.1      καμ[ε] [πορευ]—
+r.2      εσθαι [συν]
+r.3      εμοι π[ορευ]—
+r.4      σονται [ε]—
+r.5      λευσομαι
+r.6      δε προς υμας
+r.7      οταν μακε—
+r.8      δονιαν δι—
+r.9      ελθω μακε—
+r.10     δονιαν γαρ
+r.11     διερχομαι
+r.12     προς υμας
+r.13     δε τυχον
+r.14     καταμένω
+r.15     η και παρα—
+r.16     χειμασω
+r.17     ινα υμεις με
+r.18     προπεμψη—
+r.19     τε ου εαν πο—
+r.20     ρευσομαι
+r.21     ου θελω γαρ
+r.22     GAP:
+r.23     GAP:
+r.24     GAP:
+r.25     GAP:
+r.26     GAP:
+r.27     GAP:
+r.28     GAP:
+r.29     GAP:
+r.30     GAP:
+r.31     GAP:
+r.32     GAP:
+r.33     GAP:
+r.34     GAP:
+r.35     GAP:
+r.36     [αντικειμε]—
+r.37     ν[οι] [πολ]λο[ι]
+r.38     εα[ν] δε ελθ[η]
+r.39     τ[ιμ]οθεος
+r.40     βλεπετε
+r.41     ινα αφοβω[ς]
+r.42     γενηται
+r.43     προς υμας
+r.44     το γαρ εργον
+r.45     κυ εργαζεται ως και εγω
+
+[GREEK:2 Corinthians]
+
+FOLIO Verso
+
+v.1      GAP:
+v.2      GAP:
+v.3      GAP:
+v.4      GAP:
+v.5      GAP:
+v.6      GAP:
+v.7      GAP:
+v.8      GAP:
+v.9      GAP:
+v.10     GAP:
+v.11     GAP:
+v.12     GAP:
+v.13     η[μιν] [την]
+v.14     δ[ιακονια]ν
+v.15     της κ[ατ]αλ—
+v.16     λαγης
+v.17     ως οτι {θς} ην
+v.18     [ε]ν {χω} κοσ—
+v.19     μον καταλ—
+v.20     λασσων ε—
+v.21     αυτω μη
+v.22     λογιζομε[νος]
+v.23     GAP: unspecified lines
+v.24     GAP:
+v.25     [κατα]λλαγης
+v.26     [υπε]ρ {χυ} ουν
+v.27     πρεσβευο—
+v.28     μεν ως του
+v.29     {θυ} παρακα—
+v.30     λουντος
+v.31     δι ημων
+v.32     δεομεθα
+v.33     υπερ {χυ} κα—
+v.34     ταλλαγητε
+v.35     τω {θω}
+v.36     τον μη γ—
+v.37     νοντα α—
+v.38     μαρτιαν
+v.39     υπερ ημων
+v.40     αμαρτιαν
+v.41     εποιησεν
+v.42     ινα ημεις
+v.43     γενωμεθα
+v.44     δικαιοσυνη
+
+FOLIO Recto 2
+
+r.1      [καυ]—
+r.2      χ[ησομεθα]
+r.3      αλλα [κατα] [το]
+r.4      μετ[ρον] [του]
+r.5      κανο[νος] [ου]
+r.6      εμερισ[εν]
+r.7      ημιν ο {θς}
+r.8      μετρου εφι—
+r.9      κεσθαι αχρι
+r.10     και υμων
+r.11     ου γαρ ως μη
+r.12     εφικνουμε—
+r.13     νοι εις υμας
+r.14     υπερεκτινο—
+r.15     μεν εαυτους
+r.16     αχρι γαρ και
+r.17     υμων εφθα—
+r.18     σαμεν εν
+r.19     τω ευαγγε—
+r.20     λιω του {χυ}
+r.21     GAP:
+r.22     GAP:
+r.23     GAP:
+r.24     GAP:
+r.25     GAP:
+r.26     GAP:
+r.27     GAP:
+r.28     GAP:
+r.29     GAP:
+r.30     GAP:
+r.31     GAP:
+r.32     GAP:
+r.33     GAP:
+r.34     [υ]—
+r.35     [μα]ς {θυ} ζη—
+r.36     λω ηρμοσα—
+r.37     μην γαρ υ—
+r.38     μας ενι αν—
+r.39     δρι παρθε—
+r.40     νον αγνην
+r.41     παραστησαι
+r.42     τω {χω}
+
+FOLIO Verso 2
+
+v.1      GAP:
+v.2      GAP:
+v.3      GAP:
+v.4      GAP:
+v.5      GAP:
+v.6      GAP:
+v.7      GAP:
+v.8      GAP:
+v.9      GAP:
+v.10     GAP:
+v.11     GAP:
+v.12     GAP:
+v.13     GAP:
+v.14     GAP:
+v.15     GAP:
+v.16     [εκηρυ]—
+v.17     [ξαμεν] [η] {πνα}
+v.18     ετερον [λα]μ—
+v.19     βανετε [ο] [ο]υ—
+v.20     κ ελαβετε
+v.21     η ευαγγελι—
+v.22     ον ο ουκ εδε—
+v.23     ξασθε καλως
+v.24     ανειχεσθε
+v.25     ει δε
+v.26     [και] [ι]διω—
+v.27     [της] τω λο—
+v.28     γω αλλ ου
+v.29     τη γνωσει
+v.30     αλλ εν παν—
+v.31     τι φανερω—
+v.32     θεντες εν
+v.33     πασιν εις
+v.34     υμας η α—
+v.35     μαρτιαν
+v.36     εποιησα
+v.37     εμαυτον τα—
+v.38     πεινων ι—
+v.39     να υμεις υ—
+v.40     ψωθητε
+v.41     οτι δωρεαν
+v.42     το του {θυ} ευ—
+v.43     αγγελιον
+v.44     ευηγελισα—
+v.45     μην υμιν
+
+[TRANSLATION:1 Corinthians]
+16:4   If it seems advisable that I should go also, they will accompany me.
+16:5   I will visit you after passing through Macedonia, for I intend to pass through Macedonia,
+16:6   and perhaps I will stay with you or even spend the winter, so that you may help me on my journey, wherever I go.
+16:7   For I do not want to see you now just in passing. I hope to spend some time with you, if the Lord permits.
+16:10  When Timothy comes, see that you put him at ease among you, for he is doing the work of the Lord, as I am.
+
+[TRANSLATION:2 Corinthians]
+5:18   All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation;
+5:19   that is, in Christ God was reconciling the world to himself, not counting their trespasses against them, and entrusting to us the message of reconciliation.
+5:20   Therefore, we are ambassadors for Christ, God making his appeal through us. We implore you on behalf of Christ, be reconciled to God.
+5:21   For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
+10:13  But we will not boast beyond limits, but will boast only with regard to the area of influence God assigned to us, to reach even to you.
+10:14  For we are not overextending ourselves, as though we did not reach you. For we were the first to come all the way to you with the gospel of Christ.
+11:2   For I feel a divine jealousy for you, since I betrothed you to one husband, to present you as a pure virgin to Christ.
+11:4   For if someone comes and proclaims another Jesus than the one we proclaimed, or if you receive a different spirit from the one you received, or if you accept a different gospel from the one you accepted, you put up with it readily enough.
+11:6   Even if I am unskilled in speaking, I am not so in knowledge; indeed, in every way we have made this plain to you in all things.
+11:7   Or did I commit a sin in humbling myself so that you might be exalted, because I preached God's gospel to you free of charge?

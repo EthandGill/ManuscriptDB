@@ -1,0 +1,51 @@
+# ───────────────────────────────────────────────
+# Papyrus 137  (P137)
+# Source: NTVMR docID=10137
+# ───────────────────────────────────────────────
+
+[META]
+id:       P137
+name:     Papyrus 137
+genre:    new-testament
+date:     c. 50-150 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Bodleian Library, Oxford
+content:  Mark 1:7-9, 16-18
+lat:      28.5383
+lon:      30.6765
+book:     Mark
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [οπισω] [μου] [ου] [ουκ] [ει]μ[ι] [ικανος] [κυψας] [λυσαι]
+r.2      [τον] [ιμαντα] των [υ]π[οδηματων] [αυτου]
+r.3      [εγ]ω εβαπτισα υμας υδ[ατι] [αυτος] [δε]
+r.4      [βαπτ]ισει υμ[ας] {πνι} αγ[ιω] [και] [εγενετο]
+r.5      [εν] [εκε]ιναις [ται]ς ημερ[αις] [ηλθεν]
+
+FOLIO Verso
+
+v.1      [αμφιβαλλοντας] [εν] τη θαλα[σση] [ησαν] [γαρ] [αλιεις]
+v.2      [και] [ειπε]ν αυτοις δευτε οπ[ισω] [μου] [και]
+v.3      [ποιησω] υμας γενεσθαι αλι[εις] [ανθρωπων]
+v.4      [και] [ευθυ]ς αφεντε[ς] [τ]α δικ[τυα] [ηκολουθησαν]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+1:7   He proclaimed, The one who is more powerful than I is coming after me; I am not worthy to stoop down and untie the thong of his sandals.
+1:8   I have baptized you with water; but he will baptize you with the Holy Spirit.
+1:9   In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan.
+1:16  As Jesus passed along the Sea of Galilee, he saw Simon and his brother Andrew casting a net into the sea — for they were fishermen.
+1:17  And Jesus said to them, Follow me and I will make you fish for people.
+1:18  And immediately they left their nets and followed him.

@@ -1,0 +1,56 @@
+# ───────────────────────────────────────────────
+# Papyrus 123  (P123)
+# Source: NTVMR docID=10123
+# ───────────────────────────────────────────────
+
+[META]
+id:       P123
+name:     Papyrus 123
+genre:    new-testament
+date:     c. 4th century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Sackler Library, Oxford (P. Oxy. 4844)
+content:  1 Corinthians 14:31-34; 15:3-6
+lat:      28.5383
+lon:      30.6765
+book:     1 Corinthians
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [προφη]—
+r.2      [τευειν] [ινα] [παντες] [μα]νθανωσιν κ[αι] [παντες]
+r.3      [παρακαλ]ωντ[αι] [και] {πνα} προφητω[ν] [προφηταις]
+r.4      [υπ]οτασσεται [ο]υ γαρ εστι[ν] [α]κατασ[τασιας] [ο] {θς}
+r.5      [αλλα] [ειρ]ηνης ως εν πασαις τα[ις] [ε]κκ[λησιαις]
+r.6      [των] [αγιων] αι γυναικες εν [ταις] [εκκλησιαις]
+r.7      [σιγατωσαν] [ου] [γαρ] επιτρεπ[εται] [αυταις] [λαλειν]
+
+FOLIO Verso
+
+v.1      [παρε]—
+v.2      [δωκα] [γαρ] [υ]μιν εν πρωτο[ις] [ο] [και] [παρελαβον] [οτι]
+v.3      {χς} [απεθα]νεν υπ[ε]ρ των [αμαρτιων] [ημων] [κατα]
+v.4      [τας] [γραφα]ς και [οτι] [ετα]φη κα[ι] [οτι] εγηγερτα[ι] [τη]
+v.5      [ημερα] [τη] [τριτη] κα[τα] [τα]ς γραφας [κ]αι οτι ωφ[θη] [κηφα]
+v.6      [ειτα] [τοις] [δωδεκα] [επειτα] ωφθη επαν[ω] πε[ντα]—
+v.7      [κοσιοις] [αδελφοις] [εφαπαξ] [εξ] ων οι πλ[ειονες]
+v.8      [μενουσιν] [εως] [αρτι] [τινες] [δε] [εκο]ιμ[ηθησαν]
+
+[TRANSLATION]
+14:31  For you can all prophesy one by one, so that all may learn and all be encouraged,
+14:32  and the spirits of prophets are subject to prophets.
+14:33  For God is not a God of confusion but of peace. As in all the churches of the saints,
+14:34  the women should keep silent in the churches. For they are not permitted to speak, but should be in submission, as the Law also says.
+15:3   For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures,
+15:4   that he was buried, that he was raised on the third day in accordance with the Scriptures,
+15:5   and that he appeared to Cephas, then to the twelve.
+15:6   Then he appeared to more than five hundred brothers at one time, most of whom are still alive, though some have fallen asleep.

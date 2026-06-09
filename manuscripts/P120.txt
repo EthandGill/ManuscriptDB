@@ -1,0 +1,36 @@
+[META]
+id: P120
+name: Papyrus 120
+label: P120
+genre: new-testament
+book: John
+lat: 28.5383
+lon: 30.6765
+date: c. 3rd-4th century CE
+language: Greek (Koiné)
+found: Oxyrhynchus, Egypt
+held: Bodleian Art, Archaeology and Ancient World Library, Oxford (P. Oxy. 4804)
+content: John 1:25-28, 33-34
+
+[GREEK]
+FOLIO Recto — John 1:25-28, 33-34
+r.1    [ει] [ο] {χς} [ουδε] [ηλιας] [ουδε] ο προφητης
+r.2    [απεκριθη] [αυτοις] [ο] [ιωαν]νης εγω βα[πτιζω]
+r.3    [εν] [υδατι] [με][σ]ος [υμω]ν [ι]στηκει [ον] [υμεις] ουκ [οιδα]τε
+r.4    ο οπισω [μου] [ερχομενος] [ου] [ουκ] [ειμ]ι αξιος ιν[α]
+r.5    [λυσω] [αυτου] [τον] [ιμαντα] [τ]ου υποδη[ματος]
+r.6    [ταυτα] [εν] [βηθανι]α εγενετο
+r.7    GAP: ≈5 lines not preserved (John 1:29-1:32)
+r.8    [υδατι] [εκεινος] [μοι] [ειπεν] εφ [ον] [ε]α[ν] [ιδης]
+r.9    [το] {πνα} [καταβαινον] [κα]ι μενον [επ] [αυτον]
+r.10   [ουτος] [εστιν] [ο] [βαπτιζων] [εν] {πνι} [αγιω]
+r.11   [καγω] [εωρακα] [κ]αι με[μαρτυρηκα]
+r.12   [οτι] [ουτος] [εστ]ιν ο υιος [ο]
+
+[TRANSLATION]
+1:25   …if you are neither the Christ, nor Elijah, nor the Prophet?
+1:26   John answered them: I baptise with water, but among you stands one you do not know,
+1:27   even he who comes after me, the strap of whose sandal I am not worthy to untie.
+1:28   These things took place in Bethany across the Jordan…
+1:33   …the one who sent me to baptise with water said to me: He on whom you see the Spirit descend and remain, this is he who baptises with the Holy Spirit.
+1:34   And I have seen and have borne witness that this is the Son of God.

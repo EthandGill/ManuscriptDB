@@ -1,0 +1,93 @@
+# ───────────────────────────────────────────────
+# Papyrus 85  (P85)
+# Source: NTVMR docID=10085
+# ───────────────────────────────────────────────
+
+[META]
+id:       P85
+name:     Papyrus 85
+genre:    new-testament
+date:     c. 4th-5th century CE
+language: Greek (Koiné)
+found:    Egypt
+held:     Bibliotheque nationale et universitaire, Strasbourg (P. Gr. 1028)
+content:  Revelation 9:19-10:2, 5-9
+lat:      28.5383
+lon:      30.6765
+book:     Revelation
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — Revelation 9:19-10:2
+
+r.1      GAP:
+r.2      GAP:
+r.3      [ομ]οι[αι] [οφεσιν] [εχουσαι]
+r.4      [κε]φαλας [και] [εν] [αυταις] [αδικου]—
+r.5      [σιν] και ο[ι] [λοιποι] [των] {ανων}
+r.6      [οι] [ο]υκ απ[εκτανθησαν] [εν] [ταις]
+r.7      [πλ]ηγαις [ταυταις] [ουδε] [μετενο]—
+r.8      [ησαν]
+r.9      GAP:
+r.10     [κα]ι ξ[υλινα] [α] [ουτε] [βλεπειν] [δυ]—
+r.11     ναντα[ι] [ουτε] [ακουειν] [ουτε]
+r.12     περιπ[ατειν] [και] [ου] [μετενο]—
+r.13     ησαν [εκ] [των] [φονων] [αυτων]
+r.14     ουτε
+r.15     κα[ι] ε[ιδον] [αλλον] [αγγελον] [ι]—
+r.16     σχυ[ρον] [καταβαινοντα] [εκ]
+r.17     του [ουρανου] [περιβεβλημε]—
+r.18     νο[ν] [νεφελην] [και] [η] [ιρις]
+r.19     επ[ι] [της] [κεφαλης] [αυτου]
+r.20     [και] το προ[σωπον] [αυτου] [ως]
+r.21     [ο] [η]λιος κα[ι] [οι] [ποδες] [αυτου]
+r.22     [ως] στυλοι [πυρος] [και] [εχων]
+r.23     [εν] τη χειρ[ι] [αυτου] [βιβλαριδι]—
+r.24     [ον] [ην]εωγ[μενον] [και] [εθηκεν]
+
+FOLIO Verso — Revelation 10:5-9
+
+v.1      GAP:
+v.2      [αγγε]—
+v.3      [λος] [ον] [ειδον] [εστωτ]α επι τ[ης]
+v.4      [θαλασσης] [και] [επι] [τη]ς γης η[ρεν]
+v.5      [την] [χειρα] [αυτου] [τη]ν δεξ[ιαν]
+v.6      [εις] [τον] [ουρανον] [και] ωμω[σεν]
+v.7      [εν] [τω] [ζωντι] [εις] [τους] αιων[ας]
+v.8      [των] [αιωνων] [ος] [εκτισεν] [το]ν ου[ρα]—
+v.9      [νον]
+v.10     [μυστη]—
+v.11     [ριον] [του] {θυ} [ως] [ευηγγ]ελι[σ]εν
+v.12     [τους] [εαυτου] [δουλους] [κ]αι τους
+v.13     [προφητας] [και] [η] [φωνη] ην η—
+v.14     [κουσα] [εκ] [του] [ουρανου] [παλι]ν λαλου—
+v.15     [σαν] [μετ] [εμου] [και] [λεγο]υσαν υ—
+v.16     [παγε] [λαβε] [το] [βιβλιον] το η—
+v.17     [νεωγμενον] [εν] [τη] [χειρι] [τ]ου αγ—
+v.18     [γελου] [του] [εστωτος] [επι] [της] [θ]αλασ—
+v.19     [σης] [και] [επι] [της] [γης] [κ]αι απηλ[θα]
+v.20     [προς] [τον] [αγγελο]ν λεγων [αυ]—
+v.21     [τω] [δουναι] [μοι] [το] βιβλαρ[ιδι]—
+v.22     [ον] [και] [λεγει] [μοι] [λαβ]ε αυτο κα[ι]
+v.23     [καταφαγε] [και] [π]ικρανι σ[ου]
+v.24     [την] [κοιλιαν] [αλλ] [εν] [τ]ω στομ[ατι]
+
+
+[TRANSLATION]
+
+9:19    For the power of the horses is in their mouths and in their tails, for their tails are like serpents with heads, and by means of them they wound.
+9:20    The rest of mankind, who were not killed by these plagues, did not repent of the works of their hands nor give up worshiping demons and idols of gold and silver and bronze and stone and wood, which cannot see or hear or walk.
+9:21    Nor did they repent of their murders or their sorceries or their sexual immorality or their thefts.
+10:1    Then I saw another mighty angel coming down from heaven, wrapped in a cloud, with a rainbow over his head, and his face was like the sun, and his legs like pillars of fire.
+10:2    He had a little scroll open in his hand. And he set his right foot on the sea, and his left foot on the land,
+10:5    And the angel whom I saw standing on the sea and on the land raised his right hand to heaven
+10:6    and swore by him who lives forever and ever, who created heaven and what is in it, the earth and what is in it, and the sea and what is in it, that there would be no more delay,
+10:7    but that in the days of the trumpet call to be sounded by the seventh angel, the mystery of God would be fulfilled, just as he announced to his servants the prophets.
+10:8    Then the voice that I had heard from heaven spoke to me again, saying, Go, take the scroll that is open in the hand of the angel who is standing on the sea and on the land.
+10:9    So I went to the angel and told him to give me the little scroll. And he said to me, Take and eat it; it will make your stomach bitter, but in your mouth it will be sweet as honey.

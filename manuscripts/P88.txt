@@ -1,0 +1,159 @@
+# ───────────────────────────────────────────────
+# Papyrus 88  (P88)
+# Source: NTVMR docID=10088
+# ───────────────────────────────────────────────
+
+[META]
+id:       P88
+name:     Papyrus 88
+genre:    new-testament
+date:     c. 250-350 CE
+language: Greek (Koiné)
+found:    Egypt (exact site unknown)
+held:     Universita Cattolica del Sacro Cuore, Milan
+content:  Mark 2:1-26
+lat:      26.8206
+lon:      30.8025
+book:     Mark
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      εν οι[κω] [εστιν] [και] [συνηχθησαν] [πολ]—
+r.2      λοι ωσ[τε] [μηκετι] [χωρειν] [μηδε] [τα]
+r.3      προς την θ[υραν] [και] [ελαλε]ι αυτ[οις]
+r.4      τον λογον [και] [ερχ]ονται φερ[ον]—
+r.5      τες προς αυτο[ν] [παρα]λυτικον αιρο—
+r.6      μενον υπο τ[εσσαρων] και μ[η] [δυνα]—
+r.7      μενοι προ[σενεγκ]αι αυτω δια τον ο—
+r.8      χλον απεσ[τεγασαν] την στεγ[ην] ο—
+r.9      που ην κα[ι] [εξορ]υξαντες χα[αλω]—
+r.10     σιν τ[ο]ν [κραβαττον] [οπ]ου ο παραλυ[τι]—
+r.11     κος κατεκειτο κ[α]ι ιδων ο {ις}
+r.12     την πιστιν αυτων λεγει τω παρα—
+r.13     λυτικω τεκνον αφεωνται σου αι
+r.14     αμαρτιαι ησαν δε [τι]νες των γραμ—
+r.15     ματεων εκει καθημενοι κ[αι] δια—
+r.16     λο[γ]ιζομενοι εν [τ]αις καρδιαις αυτων
+r.17     τι ουτος ουτως [λα]λει βλασφημει
+r.18     τις δυναται αφιε[ναι] [α]μαρ[τι]ας ει μη
+r.19     εις ο {θς} και [ευ]θυς επιγνους
+r.20     ο {ις} τω {πνι} αυτω ο[τι] ουτως [διαλο]—
+r.21     γιζονται εν εαυτοις λε[γει] [αυτοις]
+r.22     οτι ταυτα διαλογιζεσ[θε] [εν] [ταις]
+
+FOLIO Verso
+
+v.1      κ[αρδι]α[ις] [υμων]
+v.2      τ[ι] [εστιν] [ευκοπωτερον] [ειπει]ν τω πα—
+v.3      ρ[α]λυτι[κω] [αφιεντ]αι σου αι αμαρ—
+v.4      τ[ιαι] η ειπειν [εγειρε] και αρον τον
+v.5      κραβακτον σ[ου] [και] υπαγε
+v.6      ι[να] [δε] ειδητε οτ[ι] [εξου]σιαν ο υι—
+v.7      ος του {ανου} ε[πι] [της] γης αφιενε α—
+v.8      μ[α]ρτιας λεγε[ι] [τω] [παρ]αλυτικω εγει—
+v.9      [ρε] [σ]οι λεγω αρ[ον] [τον] κραβακτον
+v.10     [σου] και υπαγε [εις] [τον] [οικο]ν σου
+v.11     κα[ι] [ηγ]ερθη κ[αι] [ε]υθυς αρας τον κραβα—
+v.12     κτον εξηλθεν εμπροσθεν παν—
+v.13     των ω[στ]ε εξιστασθε παντας και
+v.14     δοξαζειν τον {θν} λεγοντας οτι ου—
+v.15     τω[ς] ουδεποτε ειδομεν και εξηλ—
+v.16     θεν παλιν παρ[α] [τη]ν θαλασσαν [κ]αι
+v.17     πας ο οχλος η[ρχετ]ο προς αυτ[ο]ν και
+v.18     εδιδασκεν αυ[το]υς και παραγων
+v.19     ειδεν λευειν [τ]ον του αλφαιου κ[α]—
+v.20     [θη]μενον ε[πι] το τελωνιον και λε—
+v.21     [γει] [αυτω] [ακ]ολουθει μοι και αναστας
+v.22     [ηκολο]υ[θ]ησεν αυτω
+v.23     [και] [γ]εινεται κ[α]τακεισθε αυτον εν τη
+
+FOLIO Recto 2
+
+r.1      οικια αυ[του] [και] [πολλοι] [τελω]ναι κα[ι]
+r.2      αμαρτ[ωλοι] [συνανεκειντο] [τ]ω {ιω} [και]
+r.3      τοις μαθητ[αις] [αυτ]ου ησαν γαρ π[ολλοι]
+r.4      και ηκολου[θου]ν αυτω και οι γρα[μμα]—
+r.5      τις των φα[ρεισ]εων και ιδοντ[ες] ο—
+r.6      τι ησθ[ιεν] [μετα] των αμαρτωλων και
+r.7      των τελω[νω]ν ελεγον τοις μα[θη]—
+r.8      τ[α]ις αυτου [οτι] [μ]ετα των τελω[νων]
+r.9      και των α[μαρτ]ωλων [εσ]θιει κα[ι] [π]ι—
+r.10     νει και ακουσ[ας] [ο] {ις} λεγει
+r.11     οτι ου χριαν εχουσιν ο[ι] [ισ]χυοντες ι—
+r.12     ατρου αλλ οι κ[α]κως εχοντες ουκ ηλ—
+r.13     θον καλεσαι δ[ι]καιους αλλα αμαρτω—
+r.14     λους και ησαν οι μαθηται ιωαν—
+r.15     νου και οι φαρεισεοι νηστευοντες
+r.16     και ερχονται και λεγουσιν αυτω δια
+r.17     τι οι μαθηται ιωαννου και οι μαθηται
+r.18     των φαρ[ει]σεω[ν] [ν]ηστευουσιν
+r.19     και ειπεν αυτοις ο {ις} μη δυνανται οι [υ]—
+r.20     ιοι του νυμφωνος εν ω ο νυμ[φι]—
+r.21     ος μετ αυτων εστιν νησ[τευειν] [ο]—
+r.22     σον χρονον εχουσι τον νυμφι[ον]
+r.23     μεθ εαυτων ου νηστευειν
+
+FOLIO Verso 2
+
+v.1      ελευσο[νται] [δε] [ημεραι] [οτα]ν απαρθη
+v.2      α[π] αυτω[ν] [ο] [νυμφιος] [και] [τοτε] [νηστευ]σου—
+v.3      [σιν] εν εκει[νη] [τη] [ημερα]
+v.4      ο[υδε]ις επιβλημα ρακ[ους] [α]γναφου ε[πι]—
+v.5      ρ[απ]τι επι ιματιον παλαιον ει δε μη αι—
+v.6      ρει το πληρωμα απ α[υτο]υ το κενον
+v.7      τ[ο]υ παλαιου και χειρ[ον] σχεισμα γει—
+v.8      [νε]ται και ουδε[ις] οινον νε—
+v.9      [ον] εις ασκ[ου]ς παλ[αιους] ει δε μη ρηξει
+v.10     ο [οι]νος του[ς] [α]σκους και ο οινος απολ—
+v.11     λυται κα[ι] [οι] [α]σκοι
+v.12     αλλα οινον νεον εις ασκους καινους
+v.13     βλητεον και εγενετο αυτον εν
+v.14     τ[οι]ς σαββασιν παραπορευεσθαι δια των
+v.15     κα[ι] οι μαθηται αυτου ηρξαν—
+v.16     το οδον ποιειν τιλλοντες τους στα—
+v.17     χυας και οι φαρεισεοι ελεγον αυτω
+v.18     ειδε τι [π]οιουσιν [το]ις σαββασιν ο ου—
+v.19     κ εξεστιν και ελεγεν αυτοις
+v.20     ο[υ]δεποτε ανεγνωτε τι εποιησεν
+v.21     δαυει[δ] οτε χριαν εσχεν και επινα—
+v.22     σεν αυτος και μετ αυτου πως εισ—
+v.23     ηλθεν εις τον οικον του {θυ} επι αβ[ι]—
+v.24     [αθαρ]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+2:1   When he returned to Capernaum after some days, it was reported that he was at home.
+2:2   And many gathered together, so that there was no longer room for them, not even near the door; and he was speaking the word to them.
+2:3   Then some people came, bringing to him a paralyzed man, carried by four of them.
+2:4   And when they could not bring him to Jesus because of the crowd, they removed the roof above him; and after having dug through it, they let down the mat on which the paralytic lay.
+2:5   When Jesus saw their faith, he said to the paralytic, Son, your sins are forgiven.
+2:6   Now some of the scribes were sitting there, questioning in their hearts,
+2:7   Why does this fellow speak in this way? It is blasphemy! Who can forgive sins but God alone?
+2:8   At once Jesus perceived in his spirit that they were discussing these questions among themselves; and he said to them, Why do you raise such questions in your hearts?
+2:9   Which is easier, to say to the paralytic, Your sins are forgiven, or to say, Stand up and take your mat and walk?
+2:10  But so that you may know that the Son of Man has authority on earth to forgive sins — he said to the paralytic —
+2:11  I say to you, stand up, take your mat and go to your home.
+2:12  And he stood up, and immediately took the mat and went out before all of them; so that they were all amazed and glorified God, saying, We have never seen anything like this!
+2:13  Jesus went out again beside the sea; the whole crowd gathered around him, and he taught them.
+2:14  As he was walking along, he saw Levi son of Alphaeus sitting at the tax booth, and he said to him, Follow me. And he got up and followed him.
+2:15  And as he sat at dinner in Levi's house, many tax collectors and sinners were also sitting with Jesus and his disciples — for there were many who followed him.
+2:16  When the scribes of the Pharisees saw that he was eating with sinners and tax collectors, they said to his disciples, Why does he eat with tax collectors and sinners?
+2:17  When Jesus heard this, he said to them, Those who are well have no need of a physician, but those who are sick; I have come to call not the righteous but sinners.
+2:18  Now John's disciples and the Pharisees were fasting; and people came and said to him, Why do John's disciples and the disciples of the Pharisees fast, but your disciples do not fast?
+2:19  Jesus said to them, The wedding guests cannot fast while the bridegroom is with them, can they? As long as they have the bridegroom with them, they cannot fast.
+2:20  The days will come when the bridegroom is taken away from them, and then they will fast on that day.
+2:21  No one sews a piece of unshrunk cloth on an old cloak; otherwise, the patch pulls away from it, the new from the old, and a worse tear is made.
+2:22  And no one puts new wine into old wineskins; otherwise, the wine will burst the skins, and the wine is lost, and so are the skins; but one puts new wine into fresh wineskins.
+2:23  One sabbath he was going through the grainfields; and as they made their way his disciples began to pluck heads of grain.
+2:24  The Pharisees said to him, Look, why are they doing what is not lawful on the sabbath?
+2:25  And he said to them, Have you never read what David did when he and his companions were hungry and in need of food?

@@ -1,0 +1,64 @@
+# ───────────────────────────────────────────────
+# Papyrus 139  (P139)
+# Source: NTVMR docID=10139
+# ───────────────────────────────────────────────
+
+[META]
+id:       P139
+name:     Papyrus 139
+genre:    new-testament
+date:     c. 4th century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Sackler Library, Oxford (P. Oxy. 5347)
+content:  Philemon 1:6-8; 1:18-20
+lat:      28.5383
+lon:      30.6765
+book:     Philemon
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — Philemon 1:6-8
+
+r.1      GAP:
+r.2      GAP:
+r.3      GAP:
+r.4      [επιγνωσει] παν[τος]
+r.5      [αγαθου] [του] [εν] υμειν [ε]ις {χν}
+r.6      [χαραν] [γαρ] [πο]λλην εσχον
+r.7      [και] [παρακ]λησιν επι
+r.8      [τη] [αγαπη] [σ]ου οτι τα
+r.9      [σπλαγχνα] των αγιων
+r.10     [αναπεπα]υται δια σου
+r.11     [αδελφε] [δ]ιο πολλην εν
+r.12     [χω] [παρρησιαν] εχων ε—
+r.13     [πιτασσειν] [σοι] [το] [α]νη[κον]
+
+FOLIO Verso — Philemon 1:18-20
+
+v.1      GAP:
+v.2      GAP:
+v.3      [ηδι]κη[σεν] [σε] [η] [οφειλει]
+v.4      το[σ]ουτο εμ[οι] [ελλογα]
+v.5      εγω παυλ[ος] [εγραψα] [τη]
+v.6      εμη χειρε[ι] [εγω] [αποτι]—
+v.7      σω ινα μη [λεγω] [σοι] [ο]—
+v.8      τι και αυτο[ν] εαυτο[ν] [μοι] [προσ]—
+v.9      οφιλεις ν[αι] [αδελφε]
+v.10     εγω σου ο[ναιμην] [εν]
+v.11     {χωι}
+v.12     GAP:
+
+[TRANSLATION]
+1:6    and I pray that the sharing of your faith may become effective for the full knowledge of every good thing that is in us for the sake of Christ.
+1:7    For I have derived much joy and comfort from your love, my brother, because the hearts of the saints have been refreshed through you.
+1:8    Accordingly, though I am bold enough in Christ to command you to do what is required,
+1:18   If he has wronged you at all, or owes you anything, charge that to my account.
+1:19   I, Paul, write this with my own hand: I will repay it — to say nothing of your owing me even your own self.
+1:20   Yes, brother, I want some benefit from you in the Lord. Refresh my heart in Christ.

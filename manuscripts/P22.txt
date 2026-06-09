@@ -1,0 +1,71 @@
+[META]
+id: P22
+name: Papyrus 22
+label: P22
+genre: new-testament
+book: John
+lat: 28.5383
+lon: 30.6765
+date: c. 3rd century CE
+language: Greek (Koiné)
+found: Egypt
+held: University of Glasgow Library (Ms. Gen. 1026/13)
+content: John 15:25-16:2, 16:21-32
+
+[GREEK]
+FOLIO Recto — John 15:25-16:2, 16:21-32
+r.1    [νομω] αυ[τ]ων γεγραμμ[ενος] [οτι] [εμισησαν] [με] [δωρεαν]
+r.2    [οταν] ελθη ο π[αρακλητος] [ον] [εγω] [πεμψω] υμ[ιν]
+r.3    παρα του {πρς} [το] {πνα} [της] [αληθειας]
+r.4    [ο] [παρα] [του] {πρς} εκπορευ[εται] [εκεινος] [μαρτυρησει] [περι] ε[μου]
+r.5    [και] υμ[εις] [δε] [μαρτυρειτε] [οτι] [απ] [αρχης] [μετ] εμ[ου] εστε
+r.6    τ[αυτα] [λελαληκα] [υμιν] [ινα] [μη] [σκανδαλ]ισθητε
+r.7    [αποσυναγωγους] [ποιησουσιν] [υμας] [αλλ] ε[ρχ]ε[τ]αι ω[ρα]
+r.8    [ινα] [πας] [ο] [αποκτεινας] [υμας] [δοξη] [{θω}] [προσφερειν]
+r.9    GAP: ≈38 lines not preserved (John 16:3-20)
+r.10   [η] γ[υ]νη οτα[ν] τικ[τη] λ[υ][πην] [εχει] [οτι] [ηλ][θεν] [η] [ωρα] αυ[της]
+r.11   οταν δε γ[εν]νη[ση] [το] [παιδιον] [ουκετι] [μνημο]νευει
+r.12   της θλε[ιψεως] [δια] [την] [χαραν] [οτι] [εγεν]η[θη] {ανος} ε[ις] τον κ[οσμον]
+r.13   [και] [υμεις] [ουν] [νυν] μ[εν] λυπην εχε[τε]
+r.14   [παλιν] [δε] [οψομαι] [υμας] [και] [χαρη]σεται υμων [η] κ[αρδια]
+r.15   [και] [την] [χαραν] [υμων] [ου]δεις αιρε[ι] αφ [υμων]
+r.16   [και] [εν] [εκεινη] [τη] [ημερα] [εμε] ο[υ]κ ερωτησε[τε] [ουδεν]
+r.17   [αμην] [αμην] [λεγω] [υμιν] [οτι] ε[αν] αιτη[σητε] [τον] {πρα}
+r.18   [εν] [τω] [ονοματι] [μου] [δωσει] υ[μιν]
+r.19   ε[ως] [αρτι] [ουκ] [ητησατε] [ουδεν] [εν] [τω] [ονοματι] μ[ου]
+r.20   [αιτειτε] [και] [λημψεσθε] [ινα]
+r.21   GAP: ≈3 illegible lines (John 16:24b-25a)
+r.22   [περι] [του] {πρς} [απαγγελω] [υμιν]
+r.23   [εν] [εκεινη] [τη] [ημερα] [εν] [τω] [ονοματι] [μου] [αιτησεσθε]
+r.24   [και] [ου] [λεγω] [υμιν] [οτι] εγ[ω] [ερωτησω] τ[ον] {πρα} [περι] [υμων]
+r.25   [αυτος] [γαρ] [ο] {πηρ} [φιλει] υ[μας] [οτι] υμ[εις] [εμε] [πεφιληκατε]
+r.26   κ[αι] π[επιστευκατε] οτι εγ[ω] [παρα] [του] {θυ} [εξηλθον]
+r.27   ε[ξηλθον] παρα τ[ου] {πρς} [και] [εληλυθα] [εις] τ[ον] [κοσμον]
+r.28   πα[λιν] α[φιημι] [τον] [κοσμον]
+r.29   GAP: ≈1 illegible line (John 16:28b)
+r.30   [μαθηται] αυτο[υ] [ιδε] ν[υν] [εν] [παρρησια] [λαλεις]
+r.31   [και] [παροιμιαν] ου[δεμ]ι[αν] λ[εγεις]
+r.32   [νυν] [οιδαμεν] [οτι] [οιδας] πα[ντα] κ[αι] ου χ[ρειαν] [εχεις]
+r.33   [ινα] [τις] [σε] [ερωτα] [εν] τ[ουτω] π[ιστευομεν] [οτι] [απο] {θυ} [εξηλθες]
+r.34   [απεκριθη] αυτοις {ιης} α[ρτι] [πιστευετε]
+r.35   [ιδου] [ερχεται] ω[ρα] [και] [εληλυθεν] [ινα] [σκορπισθητε]
+r.36   [εκαστος] ε[ις] [τα] [ιδια] κα[ι] εμ[ε] [μονον] [αφητε]
+
+[TRANSLATION]
+15:25   …written in their Law: They hated me without a cause.
+15:26   But when the Helper comes, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will bear witness about me.
+15:27   And you also will bear witness, because you have been with me from the beginning.
+16:1    I have said all these things to you to keep you from falling away.
+16:2    They will put you out of the synagogues. Indeed, the hour is coming when whoever kills you will think he is offering service to God.
+16:21   When a woman is giving birth, she has sorrow because her hour has come, but when she has delivered the baby, she no longer remembers the anguish, for joy that a human being has been born into the world.
+16:22   So also you have sorrow now, but I will see you again, and your hearts will rejoice, and no one will take your joy from you.
+16:23   In that day you will ask nothing of me. Truly, truly, I say to you, whatever you ask of the Father in my name, he will give it to you.
+16:24   Until now you have asked nothing in my name. Ask, and you will receive, that your joy may be full.
+16:25   …I will tell you plainly about the Father.
+16:26   In that day you will ask in my name, and I do not say to you that I will ask the Father on your behalf;
+16:27   for the Father himself loves you, because you have loved me and have believed that I came from God.
+16:28   I came from the Father and have come into the world, and now I am leaving the world and going to the Father.
+16:29   His disciples said: Ah, now you are speaking plainly and not using figurative speech!
+16:30   Now we know that you know all things and do not need anyone to question you; this is why we believe that you came from God.
+16:31   Jesus answered them: Do you now believe?
+16:32   Behold, the hour is coming, indeed it has come, when you will be scattered, each to his own home, and will leave me alone.

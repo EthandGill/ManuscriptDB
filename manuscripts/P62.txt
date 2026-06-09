@@ -1,0 +1,48 @@
+# ───────────────────────────────────────────────
+# Papyrus 62  (P62)
+# Source: NTVMR docID=10062
+# ───────────────────────────────────────────────
+
+[META]
+id:       P62
+name:     Papyrus 62
+genre:    new-testament
+date:     c. 400 CE
+language: Greek (Koiné)
+found:    Egypt (exact site unknown)
+held:     Bibliotheque Nationale, Paris (Suppl. gr. 1074)
+content:  Matthew 11:25-30
+lat:      26.8206
+lon:      30.8025
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Verso
+
+v.1      ευα[γ]γελ[ι]ον
+v.2      [κα]τα μαθαιος
+
+FOLIO Recto 2
+
+r.1      εν εκεινω
+r.2      τω καιρω α—
+r.3      ποκριθεις
+r.4      ειπεν ο {ις}
+r.5      ε[ξομολογο]—
+r.6      υ[μαι] [σοι] {πρ}
+r.7      {κε} [του] [ουρα]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+FOLIO Verso — title: Gospel according to Matthew
+FOLIO Recto 2 — Matthew 11:25
+11:25  At that time, answering, Jesus said: "I praise you, Father, Lord of heaven …"

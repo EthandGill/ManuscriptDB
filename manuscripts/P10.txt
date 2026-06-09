@@ -1,0 +1,45 @@
+[META]
+id: P10
+name: Papyrus 10
+label: P10
+genre: new-testament
+book: Romans
+lat: 28.5383
+lon: 30.6765
+date: c. 4th century CE
+language: Greek (Koiné)
+found: Egypt
+held: Houghton Library, Harvard University, Cambridge MA (MS Gr SM2218)
+content: Romans 1:1-7
+
+[GREEK]
+FOLIO Folio 1 Recto — Romans 1:1-7
+r.1    παυλ[ο]ς δουλος {χρυ} {ιηυ} κ[λητ]ος
+r.2    αποστολος [αφ]ωρισμενος
+r.3    εις ευαγγε[λι]ον {θυ}
+r.4    ο [π]ρο[ε]π[η]γγειλατο δια
+r.5    [τ]ων [π]ρωφητω αυτου
+r.6    εν γρ[α]φαις αγειαις
+r.7    περι του {υυ} αυτου του γενομενου
+r.8    εκ σπ[ε]ρματος δαυδ κατα σαρκα
+r.9    του ορισθεντος {υυ} {θυ} εν δυ[ν]αμει
+r.10   κατα {πνα} αγιωσσυνης
+r.11   ε[ξ] αναστ[α]σεως νεκρων
+r.12   [ι]ηυ {χρυ} του {κυ} ημων
+r.13   δι ο[υ] [ελαβο]μεν χαριν
+r.14   και α[π]οστολ[ων] ε[ι]ς υπακωον
+r.15   πι[στ]ε[ο]ς [εν] πασι τοις εθνεσ[ι]
+r.16   [υ]περ του ονοματος {ιηυ} {χρυ}
+r.17   πασιν τους ουσιν εν [ρ]ωμη
+r.18   αγαπητοις {θυ} κλητοις [αγ]ιοις
+r.19   χαρις ημιν και ε[ιρ]ηνη
+r.20   απο {θυ} {προς} ημων και {κυ} {χρυ} {ιηυ}
+
+[TRANSLATION]
+FOLIO Folio 1 Recto — Romans 1:1-7
+1:1    Paul, a servant of Christ Jesus, a called apostle, set apart for the gospel of God,
+1:2    which he promised beforehand through his prophets in holy Scriptures,
+1:3    concerning his Son, who was born of the seed of David according to the flesh,
+1:4    who was designated Son of God in power according to the Spirit of holiness by the resurrection of the dead — Jesus Christ our Lord,
+1:5    through whom we received grace and apostleship for the obedience of faith among all the nations, for the sake of the name of Jesus Christ;
+1:7    to all those who are in Rome, beloved of God, called saints: grace to you and peace from God our Father and the Lord Christ Jesus.

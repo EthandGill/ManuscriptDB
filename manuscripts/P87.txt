@@ -1,0 +1,51 @@
+# ───────────────────────────────────────────────
+# Papyrus 87  (P87)
+# Source: NTVMR docID=10087
+# ───────────────────────────────────────────────
+
+[META]
+id:       P87
+name:     Papyrus 87
+genre:    new-testament
+date:     c. 3rd century CE
+language: Greek (Koiné)
+found:    Egypt
+held:     Institut fuer Altertumskunde, University of Cologne (P. Col. theol. 12)
+content:  Philemon 13-15, 24-25
+lat:      28.5383
+lon:      30.6765
+book:     Philemon
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — Philemon 1:13-15
+
+r.1      GAP:
+r.2      [κατε]—
+r.3      [χειν] [ι]να υπερ σου μ[οι] [διακο]—
+r.4      [νη] [εν] τοις δεσμ[οις] [του] [ευαγγε]—
+r.5      [λιου] χωρις δε τη[ς] [σης] [γνω]—
+r.6      [μης] [ο]υδεν ηθελη[σα] [ποιη]—
+r.7      [σαι] [ιν]α μη ως κατα [αναγκην]
+r.8      [το] [αγ]αθον σου η αλ[λα] [κατα] [εκουσιον]
+r.9      [ταχα] [γαρ] δια τουτ[ο] [εχωρισθη]
+r.10     [προς] [ωρ]αν ι[να] [αιωνιον] [αυτον]
+
+FOLIO Verso — Philemon 1:24-25
+
+v.1      GAP:
+v.2      [δημας] [λουκ]ας οι συνερ[γοι] [μου]
+v.3      [η] [χαρις] [μ]εθ υμων
+
+[TRANSLATION]
+1:13   I would have been glad to keep him with me, in order that he might serve me on your behalf during my imprisonment for the gospel,
+1:14   but I preferred to do nothing without your consent in order that your goodness might not be by compulsion but of your own accord.
+1:15   For this perhaps is why he was parted from you for a while, that you might have him back forever,
+1:24   Mark, Aristarchus, Demas, and Luke, my fellow workers, greet you.
+1:25   The grace of the Lord Jesus Christ be with your spirit.

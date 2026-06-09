@@ -1,0 +1,60 @@
+# ───────────────────────────────────────────────
+# Papyrus 141  (P141)
+# Source: NTVMR docID=10141
+# ───────────────────────────────────────────────
+
+[META]
+id:       P141
+name:     Papyrus 141
+genre:    new-testament
+date:     4th/5th cent. CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Sackler Library, Oxford
+content:  Luke 2:32-34; 2:40-42
+lat:      28.5383
+lon:      30.6765
+book:     Luke
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[CONTENT:Luke]
+Luke 2:32-34; 2:40-42
+
+[GREEK:Luke]
+
+FOLIO Recto
+
+r.1    εις απο[κα]λ[υ]ψιν [εθνων] [και] δοξαν λαου σου {ιηλ}
+r.2    [και] [ην] [ο] π[ατ]ηρ αυτου και η μ[ητ]ηρ
+r.3    [θαυμαζοντες] επι τοις λαλουμ[ενοις] [περι] αυτου
+r.4    και ηυλογη[σ]εν [αυτους] συμεων
+r.5    και ειπεν προ[ς] [μαριαμ]
+
+# GAP: Luke 2:35-2:39 (not preserved)
+
+FOLIO Verso
+
+v.1    [ον] [ηυξανεν] [και] [ε]κ[ραταιουτο]
+v.2    [πληρουμενο]ν σοφια και χαρ[ις]
+v.3    {θυ} [ην] [επ] αυτο
+v.4    και επορευον[τ][ο]
+v.5    [οι] [γονε]ις αυτου κατ ετος εις ι[ε][ρουσαλ]ημ
+v.6    τη εορτη του πασχ[α]
+v.7    [και] ο[τ]ε εγενετο αυτω ετη δωδεκα
+
+[TRANSLATION:Luke]
+
+FOLIO Recto
+2:32  …for revelation to the Gentiles and glory of your people Israel.
+2:33  And his father and mother were marveling at the things being said about him.
+2:34  And Simeon blessed them and said to Mary [his mother]…
+
+FOLIO Verso
+2:40  …[the child] grew and became strong, being filled with wisdom; and the grace of God was upon him.
+2:41  And his parents went yearly to Jerusalem at the feast of the Passover.
+2:42  And when he became twelve years old…

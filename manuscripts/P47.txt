@@ -1,0 +1,791 @@
+# ───────────────────────────────────────────────
+# Papyrus 47  (P47)
+# Source: NTVMR docID=10047
+# ───────────────────────────────────────────────
+
+[META]
+id:       P47
+name:     Papyrus 47
+genre:    new-testament
+date:     c. 3rd century CE (250-300)
+language: Greek (Koiné)
+found:    Egypt (Fayyum)
+held:     Chester Beatty Library, Dublin (Biblical Papyrus III)
+content:  Revelation 9:10-11:3; 11:5-16:15; 16:17-17:2
+lat:      28.5383
+lon:      30.6765
+book:     Revelation
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO 1R — Revelation 9:10-17
+
+r.1      GAP: unspecified lines
+r.2      [σκορπι][οις] [και] [κε]νδρα κ[αι] εν ταις ουρ[αις] [αυ]—
+r.3      [των] [η] εξουσια αυτων αδικησαι τους
+r.4      [αν]θρωπους μηνας {ε} εχουσιν επ αυ—
+r.5      των βασιλεα τον αγγελον της αβυσ—
+r.6      σου ω ονομα εβραειστι βαττων και
+r.7      εν τη ελληνικη εχει ονομα απολ—
+r.8      λυων ουαι η μια απηλθεν ειδου ερχε—
+r.9      ται ετι δυο ουαι μετα ταυτα ο {ϛ} αγγε—
+r.10     λος εσαλπισεν και ηκουσα φωνην μι—
+r.11     αν εκ των κερατων του θυσιαστηρι—
+r.12     ου του χρυσου του ενωπιον του {θυ}
+r.13     λεγουσαν τω {ϛ} αγγελω ο εχων την
+r.14     σαλπιγγαν λυσον τους αγγελους
+r.15     τους δεδεμενους επι του ποταμου
+r.16     του μεγαλου ευφρατου και ελυθη—
+r.17     σαν οι {δ} αγγελοι οι ητοιμασμενοι
+r.18     εις την ωραν και ημεραν και μηνα
+r.19     και ενιαυτον ινα αποκτεινωσιν
+r.20     το {γ} των {αθν} και ο αριθμος των
+r.21     στρατευματων του ιππικου δυ[ο]
+r.22     μυριαδες μυριαδων ηκουσα [τον]
+r.23     αριθμον αυτων και ουτ[ως] [ειδον]
+r.24     τους ιππους εν τη ορασει κ[αι]
+r.25     τους καθημενους επαν[ω] [αυτων]
+r.26     [ε]χοντας θωρακας πυρι[νους] [και]
+
+FOLIO 1V — Revelation 9:17-10:1
+
+v.1      GAP:
+v.2      GAP: unspecified lines
+v.3      GAP:
+v.4      και εκ των στο[μ]ατων αυτ[ων] [εκπορευ]—
+v.5      εται πυρ και καπνος και θειον [απο]
+v.6      των {γ} πληγων απεκτανθη το {γ}
+v.7      των {αθν} εκ του πυρος και εκ του κ[α]—
+v.8      πνου και εκ του θειου του εκπορευο—
+v.9      μενου εκ των στοματων ην γαρ η
+v.10     εξουσια των ιππων εν τω στοματι αυ—
+v.11     των εστιν και [εν] ταις ουραις αυτων αι
+v.12     γαρ ουραι αυτων ομοιαι οφεσιν εχουσαι
+v.13     κεφαλας και εν αυταις αδικουσιν και
+v.14     οι λοιποι των {αθν} οι ουκ απεκτανθη—
+v.15     σαν εν ταις πληγες αυτων ταυταις
+v.16     ουδε μετενοησαν εκ των εργων
+v.17     των χειρων αυτων ινα μη προσκυ—
+v.18     νησουσιν τα δαιμονια τα χρυσεα
+v.19     και τα αργυρεα και τα χαλκα χαλκεα και τα
+v.20     λιθινα και ξυλινα α ουτε βλεπειν δυ—
+v.21     ναται ουτε ακουειν ουτε περιπα—
+v.22     τειν και ου μετενοησαν εκ των φο—
+v.23     νων αυτων ουτε εκ των φαρμακων
+v.24     [αυ]των ουτε εκ της πορνειας αυ—
+v.25     [των] και ιδον αλλον αγγελον ισχυ—
+v.26     [ρον] καταβαινοντα εκ του ουρανου
+v.27     [περιβεβλημ]ενον νεφελην και η
+v.28     [ιρις] [επι] [τ]ης [κε]φαλης αυτου και το
+
+FOLIO 2R — Revelation 10:1-8
+
+r.1      GAP:
+r.2      GAP: unspecified lines
+r.3      GAP: unspecified lines
+r.4      GAP:
+r.5      [τη] [χειρι] [α]υτ[ου] βι[βλιο]ν ηνεωγμ[ενο]ν
+r.6      [και] [ε]θηκεν τον ποδα αυτου τον δεξι—
+r.7      [ο]ν επι της θαλασσης τον δε ευωνυ—
+r.8      μον επι της γης και εκραξεν φωνη
+r.9      μεγαλη ωσπερ λεων μυχαται και ο—
+r.10     τε εκραξεν ελαλησαν αι βρονται τας
+r.11     εαυτων φωνας και ηκουσα οσα ελαλη—
+r.12     σαν αι βρονται και ημελλον αυτα γρα—
+r.13     φειν και ηκουσα φωνης εκ του ουρα—
+r.14     νου λεγουσης σφραγισον οσα ελαλη—
+r.15     σαν αι {ζ} βρονται και μη αυτα γραψης
+r.16     και ο αγγελος ον ειδον εστωτα επι της
+r.17     θαλασσης και επι της γης ηρεν την
+r.18     χειραν αυτου την δεξιαν εις τον
+r.19     ουρανον και ωμοσεν τω ζωντι εις
+r.20     τους αιωνας των αιωνων ος εκτισ[εν]
+r.21     τον ουρανον και τα εν αυτω κα[ι] [την]
+r.22     γην και τα εν αυτη και την θαλ[ασ]—
+r.23     σαν και τα εν αυτη οτι χρονος ου[κε]—
+r.24     τι εσται αλλ εν ταις ημεραις τη[ς] [φω]—
+r.25     νης του αγγελου του {ζ} οταν [μελ]—
+r.26     λει σαλπιζειν και ετελεσθ[η] [το] [μυ]—
+r.27     στηριον του {θυ} ως ευηγγ[ελισεν]
+r.28     τους εαυτου δουλους κ[αι] [τους]
+r.29     προφητας και φωνη [ην] [ηκου]
+
+FOLIO 2V — Revelation 10:8-11:3
+
+v.1      GAP:
+v.2      [σα]
+v.3      GAP: unspecified lines
+v.4      [βι]—
+v.5      [βλι]ον το ανεω[γμ]ενον εν [τη] [χειρι] [του]
+v.6      αγγελου του εστωτος επι της θ[αλασ]—
+v.7      σης και επι της γης και απηλθα [προς]
+v.8      τον αγγελον λεγων αυτω δουναι [μοι]
+v.9      το βιβλιον και λεγει μοι λαβε αυτο και
+v.10     καταφαγε και πικρανει σου την κοι—
+v.11     λιαν αλλ εν τω στοματι σου εσται γλυ—
+v.12     κυ ως μελι και ελαβον το βιβλιδιον ε—
+v.13     κ της χειρος του αγγελου και κατε—
+v.14     φαγον αυτο και ην εν τω στοματι
+v.15     μου ως μελι γλυκυ και οτε εφαγον
+v.16     αυτο επικρανθη η κοιλια μου και
+v.17     λεγουσιν μοι δει σαι παλιν προφητευ—
+v.18     σαι επι λαοις και εθνεσιν και γλωσσαις
+v.19     και βασιλευσις πολλοις και εδοθη μοι
+v.20     [κ]αλαμονος ραβδω λεγων εγειρε
+v.21     και μετρησον τον ναον του {θυ} και
+v.22     το θυσιαστηριον και τους προσκυ—
+v.23     νουντας εν αυτω και την εξωθεν
+v.24     [τ]ου ναου εκβαλε εξω και μη αυ—
+v.25     [τ]ην μετρησης οτι εδοθη και τοις
+v.26     [εθν]εσιν και την πολιν την αγιαν
+v.27     [πατη]σουσιν μηνας {ϛ} {μβ} και δω—
+v.28     [σω] [τοις] {β} μαρτυσιν μου και προ
+
+FOLIO 3R — Revelation 11:3-9
+
+r.1      GAP:
+r.2      [φητευσουσιν]
+r.3      GAP: unspecified lines
+r.4      GAP:
+r.5      [και] ει τις αυτους θελησει αδικησαι
+r.6      [πυρ] εκπορευεται εκ του στοματος
+r.7      αυτων και κατεσθειει τους εχθρους αυ—
+r.8      των και ει τις θελησει αδικησαι αυτους
+r.9      ουτως δει αυτον αποκτανθηναι ουτοι
+r.10     εχουσιν την εξουσιαν κλεισαι τον ουρα—
+r.11     νον ινα μη υετος βρεχη τας ημερας
+r.12     της προφητιας αυτων και εχουσιν ε—
+r.13     ξουσιαν επι των υδατων στρεφειν
+r.14     αυτα εις αιμα και παταξαι την γην
+r.15     πασα παση πληγη οσακις εαν θελωσιν και
+r.16     οταν τελωσιν την μαρτυριαν αυ—
+r.17     των τοτε το θηριον το αναβαινον ε—
+r.18     κ της αβυσσου ποιησει πολεμον μ[ε]—
+r.19     τ αυτων και νεικησει αυτους και α—
+r.20     ποκτενει αυτους και τα πτωματα
+r.21     αυτων επι της πλατειας της πολε—
+r.22     ως της μεγαλης ητις καλειτα[ι]
+r.23     πνευματικως σοδομα και αιγ[υ]—
+r.24     πτος οπου ο {κς} {εστρω} κα[ι] [β]λε—
+r.25     πουσιν εκ των λαων κα[ι] [φυλων]
+r.26     και γλωσσων και εθνων τ[ο] [πτω]—
+r.27     μα αυτων ημερας {γ} κα[ι] [ημισυ]
+r.28     και τα πτωματα α[υ]τ[ων] [ουκ]
+
+FOLIO 3V — Revelation 11:9-13
+
+v.1      GAP:
+v.2      GAP: unspecified lines
+v.3      GAP: unspecified lines
+v.4      GAP:
+v.5      γης χαιρουσιν επ α[υτοις] [και]
+v.6      ευφραινονται και δωρα π[εμψου]—
+v.7      σιν αλληλοις οτι οι προφητα[ι]
+v.8      οι {ιβ} εβασανισαν αυτους τους κα—
+v.9      τοικουντας επι της γης και
+v.10     μετα τας τρις ημερας ημισυ
+v.11     {πνα} ζωης εκ του {θυ} εισηλθεν
+v.12     εις αυτους και εστησαν επι τους
+v.13     ποδας αυτων και φοβος μεγας
+v.14     επεσεν επι τους θεωρουντας
+v.15     αυτους και ηκουσα φωνης με—
+v.16     γαλης εκ του ουρανου λεγουσης
+v.17     αυτοις αναβατε ωδε και ανεβη—
+v.18     [σ]αν εις τον ουρανον εν τη νεφε—
+v.19     [λ]η και εμετρησαν αυτους οι
+v.20     εχθροι αυτων και εν αυτη
+v.21     [τη] ωρα εγενετο σεισμος με—
+v.22     [γας] και το δεκατον της πο—
+v.23     [λεω]ς επεσεν και απεκταν—
+v.24     [θησα]ν εν τω σεισμω ονομα—
+v.25     [τα] [ανθ]ρωπων χειλιαδες {ζ}
+
+FOLIO 4R — Revelation 11:13-19
+
+r.1      GAP:
+r.2      GAP: unspecified lines
+r.3      GAP:
+r.4      [και] [εδωκαν] [δοξαν] [τω] {θω} του ο[υρανου]
+r.5      [η] [ουαι] [η] [δ]ευτερα απ[η]λθεν ειδου ερχε—
+r.6      [ται] [η] ουαι η τριτη ταχυ και ο {ζ} αγγελος
+r.7      εσαλπισεν και εγενοντο φωναι με—
+r.8      γαλαι εν τω ουρανω λεγουσαι εγενετο
+r.9      η βασιλεια του κοσμου του {κυ} ημων και
+r.10     του {χυ} αυτου και βασιλευσει εις τους αι—
+r.11     ωνας των αιωνων και οι {κδ} πρεσβυτε—
+r.12     ροι ενωπιον του {θυ} καθηνται επεσαν
+r.13     επι τα προσωπα αυτων και προσε—
+r.14     κυνησαν τω {θω} λεγοντες ευχαρι—
+r.15     στουμεν σοι ο {θς} {κς} ο {θς} ο {θς} ο παντοκρα—
+r.16     τωρ ο ων και ο ην και οτι ειληφας την
+r.17     δυναμιν σου την μενουσαν και ε—
+r.18     βασιλευσας και τα εθνη οργισθη κα[ι]
+r.19     ηλθεν η οργη σου και καιρος των [νε]—
+r.20     κρων κριθηναι και δουναι τον μ[ι]—
+r.21     σθον τοις δουλοις σου τοις προφη[ταις]
+r.22     και τοις αγιοις και τους φοβουμε[νους]
+r.23     το ονομα σου τους μεικρους κα[ι]
+r.24     τους μεγαλους και διαφθειραι [τους]
+r.25     διαφθειροντας την γην [και] [η]—
+r.26     νοιγη ο ναος του {θυ} εν τω ο[υρανω]
+r.27     και ωφθη η κιβωτος της δ[ιαθη]—
+r.28     κ[η]ς του {κυ} εν τω [ναω] [αυτου] [και]
+
+FOLIO 4V — Revelation 11:19-12:6
+
+v.1      GAP:
+v.2      GAP: unspecified lines
+v.3      GAP:
+v.4      [και] [βρο]νται κ[αι] [σεισμος] [και] [χαλαζα]
+v.5      μεγαλη και σημειον μεγ[α] [ωφθη]
+v.6      εν τω ουρανω γυνη περιβε[βλημε]—
+v.7      νη τον ηλιον και η σεληνη υ[ποκα]—
+v.8      τω των ποδων αυτης και επι τη[ς]
+v.9      κεφαλης αυτης στεφανος αστε—
+v.10     ρων {ιβ} και εν γαστρι γασττρι εχουσαν και κρα—
+v.11     δει ωδεινουσα και βασανιζομενη
+v.12     τεκειν και ωφθη αλλο σημειον εν τω
+v.13     ουρανω και ιδου δρακων πυρρος με—
+v.14     γας εχων κεφαλας {ζ} και κερατα {ι} και
+v.15     επι τας κεφαλας {ζ} διαδηματα
+v.16     και η ουρα αυτου συρει το τριτον των
+v.17     αστερων του ουρανου και εβαλλεν
+v.18     αυτους εις την γην και ο δρακων
+v.19     [ε]στηκεν ενωπιον της γυναικος
+v.20     [τ]ης μελλουσης τεκειν ινα οταν
+v.21     [τ]εκη το τεκνον αυτης καταφαγη
+v.22     [και] ετεκεν υιον αρρενα ος μελλει
+v.23     [ποιμ]αινειν παντα τα εθνη εν ρα—
+v.24     [βδω] σιδηρα και ηρπασθη το τε—
+v.25     [κνον] αυτης προς τον {θν} και
+v.26     [προς] [τ]ον θρονον αυτου και η γυ—
+v.27     [νη] [εφυγεν] εις την ερημο[ν]
+
+FOLIO 5R — Revelation 12:6-12
+
+r.1      GAP:
+r.2      GAP: unspecified lines
+r.3      GAP:
+r.4      [απο] [του] {θυ} [ινα] [εκει] τρεφω[σιν] [αυ]—
+r.5      [την] [η]μερας {ασξ} και εγενε—
+r.6      [το] [π]ολεμος εν τω ουρανω ο μιχα—
+r.7      [ηλ] και οι αγγελοι αυτου πολεμη—
+r.8      σαι μετα του δρακοντος και ο δρα—
+r.9      κων επολεμησεν και οι αγγελοι αυ—
+r.10     του και ουκ ισχυσαν ουδε τοπος αυ—
+r.11     των ευρεθη εν τω ουρανω και ε—
+r.12     βληθη ο δρακων ο οφεις ο μεγας
+r.13     ο καλουμενος διαβολος και σατα—
+r.14     νας ο πλανων την οικουμενην
+r.15     ολην εβληθη εις την γην και
+r.16     οι αγγελοι μετ αυτου εβληθησαν
+r.17     και ηκουσα φωνην μεγαλην εν
+r.18     τω ουρανω λεγουσαν αρτι εγε—
+r.19     νετο η σωτηρια και η δυναμις
+r.20     και η βασιλεια του {θυ} ημων κα[ι] [η]
+r.21     σωτηρια του {χυ} αυτου οτι εβλη—
+r.22     θη ο κατηγορος των αδελφων η—
+r.23     μων ο κατηγορων αυτους ενω[πι]—
+r.24     ον του {θυ} ημων ημερας κα[ι] [νυ]—
+r.25     κτος και αυτοι ενικησαν αυ[τον]
+r.26     δια το αιμα του αρνιου κα[ι] [δια] [τον]
+r.27     λογον της μαρτυριας α[υτων]
+r.28     και ουκ ηγαπησαν τη[ν] [ψυχην]
+r.29     αυτων αθρι θαν[ατου] [δια] [τουτο]
+
+FOLIO 5V — Revelation 12:12-13:1
+
+v.1      GAP:
+v.2      GAP: unspecified lines
+v.3      [τη] [γη] [και] [τη]
+v.4      θαλασση οτι κ[ατεβη] [ο] [διαβολος] [προς]
+v.5      υμας εχων θυμον μεγαν [ειδως]
+v.6      οτι ολιγον καιρον εχει και οτε ει[δεν]
+v.7      ο δρακων οτι εβληθη εις την γην
+v.8      απηλθεν εκδιωξαι την γυναικαν
+v.9      ητις ετεκεν τον αρρενα και εδοθη
+v.10     τη γυναικι δυο πτερυγας του αε—
+v.11     του του μεγαλου ινα πετητε εις
+v.12     την ερημον εις τον τοπον αυτης
+v.13     οπου τρεφεται εκει καιρον και και—
+v.14     ρου και ημισου καιρου απο προσω—
+v.15     που του οφεως και εβαλεν ο οφις α—
+v.16     πο του στοματος αυτου οπισω της
+v.17     γυναικος υδωρ ως ποταμον ινα
+v.18     αυτην ποταμοφορητον ποιηση
+v.19     και εβοηθησεν η γη την τη γυναικι και
+v.20     ηνοιξεν το στομα της και κατεπι—
+v.21     [ε]ν τον ποταμον ον εβαλεν ο δρα—
+v.22     κων απο του στοματος αυτου
+v.23     και ωργισθη ο δρακων τη γυναι—
+v.24     [κι] και απηλθεν ποιησαι πολεμο[ν]
+v.25     [μ]ετα των λοιπων του σπερμα—
+v.26     [τος] αυτης των τηρουντων τας
+v.27     [εντο]λας του {θυ} και εχοντων
+v.28     [την] [μ]αρτυριαν {ιυ} και εσταθη
+v.29     [επι] [τη]ν αμμον της θαλασσης
+v.30     [και] [ειδον] εκ τη[ς] θαλασσης θηρι
+
+FOLIO 6R — Revelation 13:1-8
+
+r.1      GAP:
+r.2      [ον]
+r.3      GAP: unspecified lines
+r.4      GAP:
+r.5      [αυτ]ου ονομα βλασφημειας και
+r.6      [το] [θ]ηριον ο ειδον ομοιον παρδαλει
+r.7      [και] οι ποδες αυτου ως αρκου και το
+r.8      στομα αυτου ως στομα λεοντος και
+r.9      εδωκεν αυτω ο δρακων την δυναμιν
+r.10     αυτου και τον θρονον αυτου και εξου—
+r.11     σιαν μεγαλην και μιαν εκ των κε—
+r.12     φαλων αυτου ως εσφαγμενην εις
+r.13     θανατον και η πληγη του θανατου
+r.14     αυτου εθαραπευθη εθεραπευθη και εθαυμα—
+r.15     σθη ολη η γη οπισω του θηριου και
+r.16     προσεκυνησεν τω δρακοντι οτι
+r.17     εδωκεν την εξουσιαν τω θηριω
+r.18     και τις δυναται πολεμησαι με—
+r.19     τ αυτου και εδοθη αυτω στομα λα—
+r.20     λουν τα μεγαλα και βλασφημιας
+r.21     και εδοθη αυτω εξουσια ποιησαι
+r.22     μηνας {μβ} και ηνοιξεν το στομα
+r.23     αυτου βλασφημησαι προς τον {θν}
+r.24     βλασφημησαι το ονομα αυτου κ[αι]
+r.25     την σκηνην αυτου εν τω ουρα—
+r.26     νω και εδοθη αυτω εξουσια επ[ι] [πα]—
+r.27     σαν φυλην και γλωσσαν και εθ[νος]
+r.28     [κ]αι προσκυνησουσιν αυτο[ν] [παν]—
+r.29     τες οι κατοικουντες επι τ[ης]
+r.30     [γ]ης ων ου γεγραπται τα ο[νομα]—
+r.31     [τ]α αυτων εν τη βιβλω [της]
+
+FOLIO 6V — Revelation 13:8-15
+
+v.1      GAP:
+v.2      GAP: unspecified lines
+v.3      GAP: unspecified lines
+v.4      [α]—
+v.5      κο[υ]σατω ει τις [εις] αιχ[μαλωσιαν] [υ]—
+v.6      παγει ει τις εν μαχαιρη απ[οκτενει]
+v.7      δει αυτον εν μαχαιρη αποκτ[ανθη]—
+v.8      ναι ωδε εστιν η υπομονη και [η] [πι]—
+v.9      στις των αγιων και ειδον αλλο θη—
+v.10     ριον αναβαινων εκ της γης και ει—
+v.11     χεν κερατα {β} ομοιω αρνιω και λα—
+v.12     λει ως δρακων και την εξουσιαν
+v.13     του πρωτου θηριου πασαν ποιει ε—
+v.14     νωπιον αυτου και ποιει την γην
+v.15     και τους εν αυτη κατοικουντας ι—
+v.16     να προσκυνησουσιν το θηριον το
+v.17     πρωτον ου εθεραπευθη η πληγη
+v.18     του θανατου αυτου και ποιει σημει—
+v.19     α μεγαλα ινα και πυρ ποιηση ε—
+v.20     κ του ουρανου καταβηναι επι την
+v.21     γην ενωπιον των ανθρωπων
+v.22     και πλανα τους κατοικουντας
+v.23     επι της γης δια τα σημεια α εδο—
+v.24     θη αυτω ποιησαι ενωπιον του θη—
+v.25     ριου λεγων τοις κατοικουσιν επι της
+v.26     γης ποιησαι εικονα τω θηριω
+v.27     ος εχει την πληγην της μαχα[ι]—
+v.28     [ρη]ς και ζησας και εδοθη αυτω δου—
+v.29     [ναι] {πνα} τη εικονι του πο[ι]η[σαι] [ο]—
+v.30     [σοι] [ε]αν μη προσκυνησωσιν [τη] [ει]—
+v.31     [κονι] του θηριου αποκταν[θωσιν]
+
+FOLIO 7R — Revelation 13:15-14:4
+
+r.1      GAP:
+r.2      GAP: unspecified lines
+r.3      GAP:
+r.4      [τους] [ελευθερους] [κ]αι [δου]λο[υς] ι[να] [δω]—
+r.5      [σιν] [αυτ]οις χαραγματα χαραγμα επι της χειρος
+r.6      [αυτω]ν της δεξιας η επι των μετωπων
+r.7      [αυτ]ων και ινα μη τις δυνηται αγορα—
+r.8      σαι η πωλησαι ει μη ο εχων το χαραγμα
+r.9      η το ονομα του θηριου η τον αριθμον
+r.10     του ονοματος αυτου ωδε η σοφια εστιν
+r.11     ο εχων ουν ψηφισατω τον αριθμον του
+r.12     θηριου αριθμος γαρ ανθρωπου εστιν
+r.13     εστιν δε {χξϛ} και ειδον και ειδου αρ—
+r.14     νιον εστως επι το ορος σειων και με—
+r.15     τ αυτου {ρμδ} χειλιαδες εχουσαι το ονο—
+r.16     μα αυτου και το ονομα του {πρς} αυτου
+r.17     γεγραμμενον επι των μετωπων
+r.18     αυτων και ηκουσα φωνην ως εκ του
+r.19     ουρανου ως φωνην υδατων πολλων
+r.20     και ως φωνην βροντης μεγαλης και
+r.21     φωνην ηκουσα ως φωνην κιθαρ[ω]—
+r.22     δων κιθαριζοντων εν ταις κιθα[ραις]
+r.23     αυτων και αδωσιν αδουσιν ωδην καιν[ην]
+r.24     ενωπιον του θρονου και ενωπ[ιον]
+r.25     [τ]ων {δ} ζωων και των πρεσ[βυτε]—
+r.26     ρων και ουδεις εδυνατο μαθε[ιν]
+r.27     την ωδην ει μη αι {ρμδ} χειλ[ιαδες]
+r.28     οι ηγορασμενοι απο της γη[ς] [ουτοι] [ει]—
+r.29     σιν οι μη μετα γυναικω[ν] [ουκ] [εμο]—
+r.30     λυνθησαν παρθενοι γαρ [εισιν]
+
+FOLIO 7V — Revelation 14:4-10
+
+v.1      GAP:
+v.2      GAP: unspecified lines
+v.3      [ηγορα]—
+v.4      σθησαν απο των [α]νθρω[πων] [α]—
+v.5      π αρχης τω {θω} και τω αρνι[ω] [και] [εν]
+v.6      τω στοματι αυτων ουχ ευρεθη [ψευ]—
+v.7      δος αμωμοι γαρ εισιν και ειδον [αγ]—
+v.8      γελον πετομενον εν μεσουρανη—
+v.9      ματι εχοντα ευαγγελιον αιωνιον
+v.10     ευαγγελισασθαι επι τους καθημε—
+v.11     νους επι της γης και επι παν εθνος
+v.12     και φυλων και γλωσσων και λαον
+v.13     λεγοντα εν φωνη μεγαλη φοβηθη—
+v.14     τε τον {θν} και δοξασατε αυτον δοξαν
+v.15     οτι ηλθεν η ωρα της κρισεως αυτου
+v.16     και προσκυνησατε τω ποιησαντι τον
+v.17     ουρανον και την γην και την θαλασ—
+v.18     σαν και πηγας υδατων και αλλος {β}
+v.19     ηκολουθει λεγων επεσεν επεσεν
+v.20     βαβυλων η μεγαλη εκ του οινου του
+v.21     [θ]υμου της πορνειας αυτης πεπτω—
+v.22     καν παντα τα εθνη και αλλος αγγελος
+v.23     [τ]ριτος ηκολουθησεν αυτοις λεγων
+v.24     [εν] φωνη μεγαλη ει τις προκυνει το
+v.25     [θ]ηριον και την εικονα αυτου και
+v.26     [λα]μβανει χαραγμα επι του με—
+v.27     [τω]που αυτου η επι της χειρο[ς]
+v.28     [αυτου] και αυτος πιεται εκ του
+v.29     [οινου] [το]υ θυμου του {θυ} μου του κε
+
+FOLIO 8R — Revelation 14:10-15
+
+r.1      GAP:
+r.2      [κερασμενου]
+r.3      GAP: unspecified lines
+r.4      GAP:
+r.5      [εν] [πυ]ρι και [θε]ιω εν[ω]πιον [α]γιω[ν] [αγ]—
+r.6      [γελων] και ενωπιον του αρνιου και ο κα—
+r.7      [πνος] του βασανισμου αυτων εις αιωνας
+r.8      αι[ω]νων αναβαινει και ουκ εχουσιν α—
+r.9      ναπαυσιν ημερας και νυκτος οι προσ—
+r.10     κυνουντας προσκυνουντες το θηριον και την εικονα
+r.11     αυτου και ει τις λαμβανει το χαραγμα
+r.12     του ονοματος αυτου ωδε εστιν η υ—
+r.13     πομονη των αγιων οι τηρουντες τας
+r.14     εντολας του {θυ} και την πιστιν {ιυ} και
+r.15     ηκουσα φωνης εκ του ουρανου λεγου—
+r.16     σης γραψον μακαριοι οι νεκροι εν {κω}
+r.17     αποθνησκοντες απ αρτι λεγει το {πνα}
+r.18     οτι αναπαησονται εκ των κοπων
+r.19     αυτων τα γαρ εργα αυτων ακολουθει
+r.20     μετ αυτων και ειδον και ειδου νεφε—
+r.21     λη λευκη και ο επι την νεφελην κα—
+r.22     θημενος ομοιον υιω ανθρωπου ε—
+r.23     χοντα επι της κεφαλης αυτου στ[ε]—
+r.24     φανον χρυσουν και εν τη χειρι αυ—
+r.25     του δραπανον οξυ και αλλος αγ—
+r.26     γελος εξηλθεν εκ του ναου α[να]—
+r.27     κραζων φωνη μεγαλη τω κ[αθη]—
+r.28     μενω επι της νεφελης πεμψ[ον] [το]
+r.29     δραπανον σου και θερισο[ν] [οτι] [ε]—
+r.30     ξηλθεν ο θερισμος οτι [εξηρανθη]
+
+FOLIO 8V — Revelation 14:15:2
+
+v.1      GAP:
+v.2      GAP: unspecified lines
+v.3      GAP: unspecified lines
+v.4      GAP:
+v.5      [νε]φελ[ης] το δραπαν[ον] [αυτου] [επι] [την] [γην]
+v.6      και εθερισθη η γη και α[λ]λος αγγ[ελος] [εξηλ]—
+v.7      θεν εκ του ναου αυτου εν τω ουρα[νω] [εχων]
+v.8      και αυτος δραπανον οξυ και αλλος α[γγελος]
+v.9      εκ του θυσιαστηριου εχων εξουσιαν ε—
+v.10     πι του πυρος και εφωνησεν κραυη με—
+v.11     γαλη τω εχοντι το δραπανον το οξυ λεγων
+v.12     πεμψον σου το δραπανον το οξυ και τρυ—
+v.13     γησον τους βοτρυας της αμπελου της
+v.14     γης οτι ηκμασαν αι σταφυλαι αυτης
+v.15     και εβαλεν ο αγγελος το δραπανον αυτου
+v.16     επι την γην και ετρυγησεν την αμπελον
+v.17     της γης και εβαλεν εις την ληνον του θυ—
+v.18     μου του {θυ} του μεγαλου και επατηθη η
+v.19     ληνος εξωθεν της πολεως και εξηλθεν
+v.20     αιμα εκ της ληνου μεχρι των χαλινων
+v.21     των ιππων απο σταδιων χειλιων εξα—
+v.22     κοσιων και ειδον αλλο σημειον εν τω ου—
+v.23     [ρ]ανω μεγα και θαυμαστον αγγελους
+v.24     [ε]πτα εχοντας πληγας {ζ} τας εσχα—
+v.25     [τ]ας οτι ετελεσθη εν αυταις ο θυμος
+v.26     [το]υ {θυ} και ειδον ως θαλασσαν υελινην
+v.27     [με]μιγμενην πυρι και τους νεικων—
+v.28     [τα]ς εκ του θηριου και της εικονος
+v.29     [αυτου] [κ]αι εκ του αριθμου του ονομα—
+v.30     [τος] [αυτο]υ εστωτας επι την θαλασ
+
+FOLIO 9R — Revelation 15:2-16:1
+
+r.1      GAP:
+r.2      [σαν]
+r.3      GAP: unspecified lines
+r.4      GAP:
+r.5      [ονοματος] [α]υτου ε[στ]ωτας [επι] [την] [θαλασ]—
+r.6      [σαν] [την] [υ]ελινην εχοντας κιθαρα[ς] [του] {θυ}
+r.7      [και] αδωσιν την ωδην μωσεως μωυσεως του δου—
+r.8      λου του {θυ} και την ωδην του αρνιου λε—
+r.9      γοντες μεγαλα και θαυμαστα τα εργα σου
+r.10     {κε} ο {θς} ο παντοκρατωρ δικαιαι και αλη—
+r.11     θειναι αι οδοι σου ο βασιλευς των αιωνων
+r.12     τις σε ου μη φοβηθη {κε} και δοξισει το ονο—
+r.13     μα σου οτι μονος ει οτι παντα τα εθνη η—
+r.14     ξουσιν και προσκυνησουσιν ενωπιον
+r.15     σου οτι τα δικαιωματα σου εφανερωθη
+r.16     και μετα ταυτα ειδον και ηνοιγη ο ναος
+r.17     της σκηνης του μαρτυριου εν τω ουρανω
+r.18     και εξηλθον οι {ζ} αγγελοι εχοντες τας {ζ}
+r.19     πληγας εκ του ναου ενδεδυμενοι λι—
+r.20     νουν καθαρον λαμπρον και περιεσχω—
+r.21     μενοι περι τα στηθη ζωνας χρυσας
+r.22     και εκ των {δ} εδωκαν τοις {ζ} αγγελοι[ς]
+r.23     {ζ} φιαλας χρυσας γεμουσας του θυμ[ου]
+r.24     του {θυ} του ζωντος εις τους αιωνας [των]
+r.25     αιωνων και εγεμισθη ο ναος εκ του [κα]—
+r.26     πνου εκ της δοξης του {θυ} και ε[κ] [της]
+r.27     δυναμεως αυτου και ουδε[ις] [εδυ]—
+r.28     νατο εισελθειν εις τον ναο[ν] [αχρι]
+r.29     τελεσθωσιν αι {ζ} πληγαι [των] {ζ}
+r.30     αγγελων και ηκουσα [μεγαλης]
+
+FOLIO 9V — Revelation 16:1-9
+
+v.1      GAP:
+v.2      GAP: unspecified lines
+v.3      GAP:
+v.4      [φιαλας] [του] [θυ]μου τ[ου] {θυ} κ[αι] [απηλθεν] [ο]
+v.5      πρωτος και εξεχεην την φι[αλην] [αυ]—
+v.6      του εις την γην και εγενετο ελ[κος] [πο]—
+v.7      νηρον και κακον επι τους ανθρωπου[ς]
+v.8      τους εχοντας το χαραγμα του θηριου και
+v.9      τους προσκυνουντας τη εικονι αυτου
+v.10     και ο {β} εχ εξεχεεν την φιαλην αυτου εις
+v.11     την θαλασσαν και εγενετο αιμα ως
+v.12     νεκρου και πασα ψυχη ζωσα απεθα—
+v.13     νον εν τη θαλασση και ο {γ} εχ εξεχεεν την
+v.14     φιαλην αυτου επι τους ποταμους και
+v.15     επι τας πηγας των υδατων και ε—
+v.16     γενοντο αιμα και ηκουσα του αγγελου
+v.17     των υδατων λεγοντος δικαιος ει ο ων
+v.18     και ος ην και οσιος οτι ταυτα εκρινας
+v.19     οτι αιμα αγιων και προφητων εξε—
+v.20     χεαν και αιμα αυτοις εδωκας πι—
+v.21     [ε]ιν αξιοι εισιν και ηκουσα του θυσια—
+v.22     [σ]τηριου λεγοντος ναι {κε} ο {θς} ο παν—
+v.23     [τ]οκρατωρ αληθιναι και δικαιαι
+v.24     [αι] κρισις σου και ο {δ} εξεχεεν την
+v.25     [φ]ιαλην αυτου επι τον ηλιον και
+v.26     [εδο]θη καυματισαι τους ανθρωπους
+v.27     [εν] [πυρ]ι και εκαυματισθησαν οι
+v.28     [ανθρωπ]οι καυμα μεγα και εβλα
+
+FOLIO 10R — Revelation 16:9-15
+
+r.1      GAP:
+r.2      [σφημησαν]
+r.3      GAP: unspecified lines
+r.4      GAP:
+r.5      [και] [ο] {ε} [εξε]χεεν τ[ην] φιαλ[ην] αυ[του] [επι]
+r.6      [τον] [θρονο]ν του θηριου και εγενετο η βα[σι]—
+r.7      [λε]ια αυτου εσκωτωμενην και αιμα—
+r.8      σωντο τας γλωσσας αυτων εκ του πο—
+r.9      νου και εβλασφημησαν εβλασφημουν τον {θν} του ου—
+r.10     ρανου εκ των πονων αυτων και εκ των
+r.11     ελκων αυτων και ου μετενοησαν ε—
+r.12     κ των εργων αυτων και ο {ϛ} εξεχεεν
+r.13     την φιαλην αυτου επι τον ποταμον
+r.14     τον μεγαν τον ευφρατην και εξηρανθη
+r.15     το υδωρ αυτου ινα ετοιμασθη η οδος
+r.16     των βασιλεων των απο ανατολης ηλι—
+r.17     ου και ειδον εκ του στοματος του δρακον—
+r.18     τος και εκ του στοματος του θηριου και
+r.19     εκ του στοματος του ψευδοπροφητου
+r.20     {πνα} τρια ακαθαρτα ωσει βατραχους ει—
+r.21     σιν γαρ {πνα} δαιμονιων ποιουντα σημει—
+r.22     α εκπορευεσθαι επι τους βασιλεις της
+r.23     οικουμενης ολης συναγαγειν αυ—
+r.24     τους εις πολεμον της μεγαλης ημ[ε]—
+r.25     ρας του {θυ} του παντοκρατορος ιδ[ου] ειδ[ου]
+r.26     ερχομαι ως κλεπτης μακαριος [ο]
+r.27     γρηγορων και τηρων τα ιματι[α] [αυ]—
+r.28     του ινα μη γυμνος περιπατ[η] [και]
+r.29     βλεπουσιν την ασχημοσυνη[ν] [αυτου]
+
+FOLIO 10V — Revelation 16:15-17:2
+
+v.1      GAP:
+v.2      GAP: unspecified lines
+v.3      GAP:
+v.4      [ο] {ζ} [εξεχεεν] [την] φ[ιαλη]ν α[υτου] [επι] [τον]
+v.5      [αε]ρα και εξηλθεν φωνη μεγ[αλη] [εκ] [του]
+v.6      ναου απο του θρονου λεγουσα [γεγονεν]
+v.7      και εγενοντο αστραπαι και βρονται και
+v.8      φωναι και σεισμος εγενετο μεγας οι—
+v.9      ος ουκ εγενετο αφ ου ανθρωπος εγε—
+v.10     νοντο επι της γης τηλικουτος σει—
+v.11     σμος ουτως μεγας και εγενετο η πο—
+v.12     λις η μεγαλη εις τρια μερη και αι πο—
+v.13     λις αι των εθνων επεσαν και βαβυ—
+v.14     ρων βαβυλων η μεγαλη εμνησθη ενωπιον
+v.15     του {θυ} δουναι αυτη το ποτηριον του οι—
+v.16     νου του θυμου της οργης αυτου και
+v.17     πασα νησος εφυγεν και ορη ουχ ευρε—
+v.18     θη και χαλαζα μεγαλη ως ταλαντιαια
+v.19     καταβαινει εκ του ουρανου επι τους
+v.20     ανθρωπους και εβλασφημησαν οι αν—
+v.21     θρωποι τον {θν} εκ της πληγης της χα—
+v.22     [λ]αζης οτι μεγαλη εστιν η πληγη αυ—
+v.23     [τ]ης σφοδρα και ηλθεν εις εκ των {ζ}
+v.24     [α]γγελων των εχοντων τας {ζ} φιαλας
+v.25     [κα]ι ε[λ]αλησεν μετ εμου λεγων δευρο
+v.26     [δειξ]ω σοι το κριμα της πορνης της
+v.27     [μεγα]λης της καθημενης επι υδα—
+v.28     [των] [των] [πολ]λων μεθ ης επορ[νευ]—
+v.29     [σαν]
+
+
+[TRANSLATION]
+
+9:10    They have tails and stings like scorpions, and their power to hurt people for five months is in their tails.
+9:11    They have as king over them the angel of the bottomless pit. His name in Hebrew is Abaddon, and in Greek he is called Apollyon.
+9:12    The first woe has passed; behold, two woes are still to come.
+9:13    Then the sixth angel blew his trumpet, and I heard a voice from the four horns of the golden altar before God,
+9:14    saying to the sixth angel who had the trumpet, Release the four angels who are bound at the great river Euphrates.
+9:15    So the four angels were released, who had been prepared for the hour, the day, the month, and the year, to kill a third of mankind.
+9:16    The number of the mounted troops was twice ten thousand times ten thousand; I heard their number.
+9:17    And this is how I saw the horses in my vision: the riders wore breastplates the color of fire and of sapphire and of sulfur, and the heads of the horses were like lions' heads, and fire and smoke and sulfur came out of their mouths.
+9:18    By these three plagues a third of mankind was killed, by the fire and smoke and sulfur coming out of their mouths.
+9:19    For the power of the horses is in their mouths and in their tails, for their tails are like serpents with heads, and by means of them they wound.
+9:20    The rest of mankind, who were not killed by these plagues, did not repent of the works of their hands nor give up worshiping demons and idols of gold and silver and bronze and stone and wood, which cannot see or hear or walk.
+9:21    Nor did they repent of their murders or their sorceries or their sexual immorality or their thefts.
+10:1    Then I saw another mighty angel coming down from heaven, wrapped in a cloud, with a rainbow over his head, and his face was like the sun, and his legs like pillars of fire.
+10:2    He had a little scroll open in his hand. And he set his right foot on the sea, and his left foot on the land,
+10:3    and called out with a loud voice, like a lion roaring. When he called out, the seven thunders sounded.
+10:4    And when the seven thunders had sounded, I was about to write, but I heard a voice from heaven saying, Seal up what the seven thunders have said, and do not write it down.
+10:5    And the angel whom I saw standing on the sea and on the land raised his right hand to heaven
+10:6    and swore by him who lives forever and ever, who created heaven and what is in it, the earth and what is in it, and the sea and what is in it, that there would be no more delay,
+10:7    but that in the days of the trumpet call to be sounded by the seventh angel, the mystery of God would be fulfilled, just as he announced to his servants the prophets.
+10:8    Then the voice that I had heard from heaven spoke to me again, saying, Go, take the scroll that is open in the hand of the angel who is standing on the sea and on the land.
+10:9    So I went to the angel and told him to give me the little scroll. And he said to me, Take and eat it; it will make your stomach bitter, but in your mouth it will be sweet as honey.
+10:10   And I took the little scroll from the hand of the angel and ate it. It was sweet as honey in my mouth, but when I had eaten it my stomach was made bitter.
+10:11   And I was told, You must again prophesy about many peoples and nations and languages and kings.
+11:1    Then I was given a measuring rod like a staff, and I was told, Rise and measure the temple of God and the altar and those who worship there,
+11:2    but do not measure the court outside the temple; leave that out, for it is given over to the nations, and they will trample the holy city for forty-two months.
+11:3    And I will grant authority to my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.
+11:5    And if anyone would harm them, fire pours from their mouth and consumes their foes. If anyone would harm them, this is how he is doomed to be killed.
+11:6    They have the power to shut the sky, that no rain may fall during the days of their prophesying, and they have power over the waters to turn them into blood and to strike the earth with every kind of plague, as often as they desire.
+11:7    And when they have finished their testimony, the beast that rises from the bottomless pit will make war on them and conquer them and kill them,
+11:8    and their dead bodies will lie in the street of the great city that symbolically is called Sodom and Egypt, where their Lord was crucified.
+11:9    For three and a half days some from the peoples and tribes and languages and nations gaze at their dead bodies and refuse to let them be placed in a tomb,
+11:10   and those who dwell on the earth will rejoice over them and make merry and exchange gifts, because these two prophets had been a torment to those who dwell on the earth.
+11:11   But after the three and a half days a breath of life from God entered them, and they stood up on their feet, and great fear fell on those who saw them.
+11:12   Then they heard a loud voice from heaven saying to them, Come up here. And they went up to heaven in a cloud, and their enemies watched them.
+11:13   And at that hour there was a great earthquake, and a tenth of the city fell. Seven thousand people were killed in the earthquake, and the rest were terrified and gave glory to the God of heaven.
+11:14   The second woe has passed; behold, the third woe is soon to come.
+11:15   Then the seventh angel blew his trumpet, and there were loud voices in heaven, saying, The kingdom of the world has become the kingdom of our Lord and of his Christ, and he shall reign forever and ever.
+11:16   And the twenty-four elders who sit on their thrones before God fell on their faces and worshiped God,
+11:17   saying, We give thanks to you, Lord God Almighty, who is and who was, for you have taken your great power and begun to reign.
+11:18   The nations raged, but your wrath came, and the time for the dead to be judged, and for rewarding your servants, the prophets and saints, and those who fear your name, both small and great, and for destroying the destroyers of the earth.
+11:19   Then God's temple in heaven was opened, and the ark of his covenant was seen within his temple. There were flashes of lightning, rumblings, peals of thunder, an earthquake, and heavy hail.
+12:1    And a great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars.
+12:2    She was pregnant and was crying out in birth pains and the agony of giving birth.
+12:3    And another sign appeared in heaven: behold, a great red dragon, with seven heads and ten horns, and on his heads seven diadems.
+12:4    His tail swept down a third of the stars of heaven and cast them to the earth. And the dragon stood before the woman who was about to give birth, so that when she bore her child he might devour it.
+12:5    She gave birth to a male child, one who is to rule all the nations with a rod of iron, but her child was caught up to God and to his throne,
+12:6    and the woman fled into the wilderness, where she has a place prepared by God, in which she is to be nourished for 1,260 days.
+12:7    Now war arose in heaven, Michael and his angels fighting against the dragon. And the dragon and his angels fought back,
+12:8    but he was defeated, and there was no longer any place for them in heaven.
+12:9    And the great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world — he was thrown down to the earth, and his angels were thrown down with him.
+12:10   And I heard a loud voice in heaven, saying, Now the salvation and the power and the kingdom of our God and the authority of his Christ have come, for the accuser of our brothers has been thrown down, who accuses them day and night before our God.
+12:11   And they have conquered him by the blood of the Lamb and by the word of their testimony, for they loved not their lives even unto death.
+12:12   Therefore, rejoice, O heavens and you who dwell in them! But woe to you, O earth and sea, for the devil has come down to you in great wrath, because he knows that his time is short!
+12:13   And when the dragon saw that he had been thrown down to the earth, he pursued the woman who had given birth to the male child.
+12:14   But the woman was given the two wings of the great eagle so that she might fly from the serpent into the wilderness, to the place where she is to be nourished for a time, and times, and half a time.
+12:15   The serpent poured water like a river out of his mouth after the woman, to sweep her away with a flood.
+12:16   But the earth came to the help of the woman, and the earth opened its mouth and swallowed the river that the dragon had poured from his mouth.
+12:17   Then the dragon became furious with the woman and went off to make war on the rest of her offspring, on those who keep the commandments of God and hold to the testimony of Jesus.
+12:18   And he stood on the sand of the sea.
+13:1    And I saw a beast rising out of the sea, with ten horns and seven heads, with ten diadems on its horns and blasphemous names on its heads.
+13:2    And the beast that I saw was like a leopard; its feet were like a bear's, and its mouth was like a lion's mouth. And to it the dragon gave his power and his throne and great authority.
+13:3    One of its heads seemed to have a mortal wound, but its mortal wound was healed, and the whole earth marveled as they followed the beast.
+13:4    And they worshiped the dragon, for he had given his authority to the beast, and they worshiped the beast, saying, Who is like the beast, and who can fight against it?
+13:5    And the beast was given a mouth uttering haughty and blasphemous words, and it was allowed to exercise authority for forty-two months.
+13:6    It opened its mouth to utter blasphemies against God, blaspheming his name and his dwelling, that is, those who dwell in heaven.
+13:7    Also it was allowed to make war on the saints and to conquer them. And authority was given it over every tribe and people and language and nation,
+13:8    and all who dwell on earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb who was slain.
+13:9    If anyone has an ear, let him hear:
+13:10   If anyone is to be taken captive, to captivity he goes; if anyone is to be slain with the sword, with the sword must he be slain. Here is a call for the endurance and faith of the saints.
+13:11   Then I saw another beast rising out of the earth. It had two horns like a lamb and it spoke like a dragon.
+13:12   It exercises all the authority of the first beast in its presence, and makes the earth and its inhabitants worship the first beast, whose mortal wound was healed.
+13:13   It performs great signs, even making fire come down from heaven to earth in front of people,
+13:14   and by the signs that it is allowed to work in the presence of the beast it deceives those who dwell on earth, telling them to make an image for the beast that was wounded by the sword and yet lived.
+13:15   And it was allowed to give breath to the image of the beast, so that the image of the beast might even speak and might cause those who would not worship the image of the beast to be slain.
+13:16   Also it causes all, both small and great, both rich and poor, both free and slave, to be marked on the right hand or the forehead,
+13:17   so that no one can buy or sell unless he has the mark, that is, the name of the beast or the number of its name.
+13:18   This calls for wisdom: let the one who has understanding calculate the number of the beast, for it is the number of a man, and his number is 666.
+14:1    Then I looked, and behold, on Mount Zion stood the Lamb, and with him 144,000 who had his name and his Father's name written on their foreheads.
+14:2    And I heard a voice from heaven like the roar of many waters and like the sound of loud thunder. The voice I heard was like the sound of harpists playing on their harps,
+14:3    and they were singing a new song before the throne and before the four living creatures and before the elders. No one could learn that song except the 144,000 who had been redeemed from the earth.
+14:4    It is these who have not defiled themselves with women, for they are virgins. It is these who follow the Lamb wherever he goes. These have been redeemed from mankind as firstfruits for God and the Lamb,
+14:5    and in their mouth no lie was found, for they are blameless.
+14:6    Then I saw another angel flying directly overhead, with an eternal gospel to proclaim to those who dwell on earth, to every nation and tribe and language and people.
+14:7    And he said with a loud voice, Fear God and give him glory, because the hour of his judgment has come, and worship him who made heaven and earth, the sea and the springs of water.
+14:8    Another angel, a second, followed, saying, Fallen, fallen is Babylon the great, she who made all nations drink the wine of the passion of her sexual immorality.
+14:9    And another angel, a third, followed them, saying with a loud voice, If anyone worships the beast and its image and receives a mark on his forehead or on his hand,
+14:10   he also will drink the wine of God's wrath, poured full strength into the cup of his anger, and he will be tormented with fire and sulfur in the presence of the holy angels and in the presence of the Lamb.
+14:11   And the smoke of their torment goes up forever and ever, and they have no rest, day or night, these worshipers of the beast and its image, and whoever receives the mark of its name.
+14:12   Here is a call for the endurance of the saints, those who keep the commandments of God and their faith in Jesus.
+14:13   And I heard a voice from heaven saying, Write this: Blessed are the dead who die in the Lord from now on. Blessed indeed, says the Spirit, that they may rest from their labors, for their deeds follow them!
+14:14   Then I looked, and behold, a white cloud, and seated on the cloud one like a son of man, with a golden crown on his head, and a sharp sickle in his hand.
+14:15   And another angel came out of the temple, calling with a loud voice to him who sat on the cloud, Put in your sickle and reap, for the hour to reap has come, for the harvest of the earth is fully ripe.
+14:16   So he who sat on the cloud swung his sickle across the earth, and the earth was reaped.
+14:17   Then another angel came out of the temple in heaven, and he too had a sharp sickle.
+14:18   And another angel came out from the altar, the angel who has authority over the fire, and he called with a loud voice to the one who had the sharp sickle, Put in your sickle and gather the clusters of the vine of the earth, for its grapes are ripe.
+14:19   So the angel swung his sickle across the earth and gathered the grape harvest of the earth and threw it into the great winepress of the wrath of God.
+14:20   And the winepress was trodden outside the city, and blood flowed from the winepress, as high as a horse's bridle, for 1,600 stadia.
+15:1    Then I saw another sign in heaven, great and amazing, seven angels with seven plagues, which are the last, for with them the wrath of God is finished.
+15:2    And I saw what appeared to be a sea of glass mingled with fire, and also those who had conquered the beast and its image and the number of its name, standing beside the sea of glass with harps of God in their hands.
+15:3    And they sing the song of Moses, the servant of God, and the song of the Lamb, saying, Great and amazing are your deeds, O Lord God the Almighty! Just and true are your ways, O King of the nations!
+15:4    Who will not fear, O Lord, and glorify your name? For you alone are holy. All nations will come and worship you, for your righteous acts have been revealed.
+15:5    After this I looked, and the sanctuary of the tent of witness in heaven was opened,
+15:6    and out of the sanctuary came the seven angels with the seven plagues, clothed in pure, bright linen, with golden sashes around their chests.
+15:7    And one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God who lives forever and ever,
+15:8    and the sanctuary was filled with smoke from the glory of God and from his power, and no one could enter the sanctuary until the seven plagues of the seven angels were finished.
+16:1    Then I heard a loud voice from the temple telling the seven angels, Go and pour out on the earth the seven bowls of the wrath of God.
+16:2    So the first angel went and poured out his bowl on the earth, and harmful and painful sores came upon the people who bore the mark of the beast and worshiped its image.
+16:3    The second angel poured out his bowl into the sea, and it became like the blood of a corpse, and every living thing died that was in the sea.
+16:4    The third angel poured out his bowl into the rivers and the springs of water, and they became blood.
+16:5    And I heard the angel in charge of the waters say, Just are you, O Holy One, who is and who was, for you brought these judgments.
+16:6    For they have shed the blood of saints and prophets, and you have given them blood to drink. It is what they deserve!
+16:7    And I heard the altar saying, Yes, Lord God the Almighty, true and just are your judgments!
+16:8    The fourth angel poured out his bowl on the sun, and it was allowed to scorch people with fire.
+16:9    They were scorched by the fierce heat, and they cursed the name of God who had power over these plagues. They did not repent and give him glory.
+16:10   The fifth angel poured out his bowl on the throne of the beast, and its kingdom was plunged into darkness. People gnawed their tongues in anguish
+16:11   and cursed the God of heaven for their pain and sores. They did not repent of their deeds.
+16:12   The sixth angel poured out his bowl on the great river Euphrates, and its water was dried up, to prepare the way for the kings from the east.
+16:13   And I saw, coming out of the mouth of the dragon and out of the mouth of the beast and out of the mouth of the false prophet, three unclean spirits like frogs.
+16:14   For they are demonic spirits, performing signs, who go abroad to the kings of the whole world, to assemble them for battle on the great day of God the Almighty.
+16:15   Behold, I am coming like a thief! Blessed is the one who stays awake, keeping his garments on, that he may not go about naked and be seen exposed.
+16:17   The seventh angel poured out his bowl into the air, and a loud voice came out of the temple, from the throne, saying, It is done!
+16:18   And there were flashes of lightning, rumblings, peals of thunder, and a great earthquake such as there had never been since man was on the earth, so great was that earthquake.
+16:19   The great city was split into three parts, and the cities of the nations fell, and God remembered Babylon the great, to make her drain the cup of the wine of the fury of his wrath.
+16:20   And every island fled away, and no mountains were to be found.
+16:21   And great hailstones, about a hundred pounds each, fell from heaven on people; and they cursed God for the plague of the hail, because the plague was so severe.
+17:1    Then one of the seven angels who had the seven bowls came and said to me, Come, I will show you the judgment of the great prostitute who is seated on many waters,
+17:2    with whom the kings of the earth have committed sexual immorality, and with the wine of whose immorality the dwellers on earth have become drunk.

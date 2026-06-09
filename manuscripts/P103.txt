@@ -1,0 +1,58 @@
+# ───────────────────────────────────────────────
+# Papyrus 103  (P103)
+# Source: NTVMR docID=10103
+# ───────────────────────────────────────────────
+
+[META]
+id:       P103
+name:     Papyrus 103
+genre:    new-testament
+date:     c. 200-300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Ashmolean Museum, Oxford
+content:  Matthew 13:55-57; 14:3-5
+lat:      28.5383
+lon:      30.6765
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [τεκτο]—
+r.2      [νος] {υς} [ουχ] [η] μητηρ αυτου λεγεται
+r.3      [μαριαμ] [και] [ο]ι αδελφοι αυτου ιακω—
+r.4      [βος] [και] ης και σιμων και ιου—
+r.5      [δας] [και] [αι] [αδ]ελφαι αυτου ουχι πασαι
+r.6      [προς] [ημας] ποθ[ε]ν ου[ν] τουτω ταυ—
+r.7      [τα]
+
+FOLIO Verso
+
+v.1      την γυναικα φιλ[ιππου] [του] [αδελ]—
+v.2      φου αυτου ελ[ε]γεν [γαρ] [ο] [ιωαννης] [αυτω]
+v.3      ουκ εξεστιν σοι εχ[ειν] [αυ]—
+v.4      την και θελων αυ[τον] [αποκτειναι]
+v.5      εφοβηθη το[ν] οχλο[ν] [οτι] [ως] [προφη]—
+v.6      [την]
+v.7      GAP:
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+FOLIO Recto
+13:55 …the carpenter's son? Is not his mother called Mary, and his brothers James and Joses and Simon and Judas?
+13:56 And his sisters, are they not all with us? Where then did this man get all these things?
+
+FOLIO Verso
+14:3  …[on account of Herodias] the wife of Philip his brother. For John was saying to him:
+14:4  "It is not lawful for you to have her."
+14:5  And [though] wanting to kill him, he feared the crowd, because they held him as a prophet.

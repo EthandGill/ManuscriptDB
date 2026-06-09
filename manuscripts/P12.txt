@@ -1,0 +1,36 @@
+# ───────────────────────────────────────────────
+# Papyrus 12  (P12)
+# Source: NTVMR docID=10012
+# ───────────────────────────────────────────────
+
+[META]
+id:       P12
+name:     Papyrus 12
+genre:    new-testament
+date:     c. 285 CE
+language: Greek (Koiné)
+found:    Fayyum, Egypt
+held:     Morgan Library & Museum, New York (P. Amherst 3b)
+content:  Hebrews 1:1
+lat:      29.3084
+lon:      30.8428
+book:     Hebrews
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Verso — Hebrews 1:1
+
+v.1      GAP:
+v.2      πολυμερως και πολυ[τρο]πως
+v.3      παλεο {θς} λαλησ[α]ς το[ις] [π]ατρα—
+v.4      σ[ι]ν ημ[ω]ν εν τοις προ[φηταις]
+
+[TRANSLATION]
+FOLIO Verso — Hebrews 1:1
+1:1    In many portions and in many ways, long ago God, having spoken to our fathers by the prophets,

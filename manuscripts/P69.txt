@@ -1,0 +1,77 @@
+# ───────────────────────────────────────────────
+# Papyrus 69  (P69)
+# Source: NTVMR docID=10069
+# ───────────────────────────────────────────────
+
+[META]
+id:       P69
+name:     Papyrus 69
+genre:    new-testament
+date:     3rd cent. CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Sackler Library, Oxford
+content:  Luke 22:41, 45-48; 22:58-61
+lat:      28.5383
+lon:      30.6765
+book:     Luke
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[CONTENT:Luke]
+Luke 22:41, 45-48; 22:58-61
+
+[GREEK:Luke]
+
+FOLIO Recto
+
+r.1    απεσ[πασθη] απ [αυτων] ωσει λιθ[ο]υ βολη[ν]
+r.2    [και] [θεις] [τα] [γονατα] προς[ηυ]χετ[ο]
+
+# GAP: Luke 22:42-44 (not preserved)
+
+r.3    [και] [αναστας] [απο] [της] [προσευχης]
+r.4    [ελθων] [προς] [τους] [μ]αθητας κ[ο]ι[μωμενους]
+r.5    [αυτους] [απο] [τη]ς λυπης
+r.6    [κ]αι [ειπεν] [αυτοις] τ[ι] [κα]θευ[δ]ε[τε]
+r.7    [ανασταντες] [πρ]οσευχε[σθ]ε [ινα] [μη]
+r.8    [εισελθητε] [εις] [πει]ρασ[μον]
+r.9    [ετι] [δε] [αυτου] [λαλουντος] [ι]δο[υ]
+r.10   [οχλος] [και] [ο] [λεγομενος] [ιου]δ[ας]
+r.11   [εις] [των] [ιβ] [προηρχετο] [αυτ]ους
+r.12   [και] [εγγισας] [εφιλησεν] τ[ον] {ιην}
+r.13   {ις} [δε] [ειπεν] [αυτω] [ιουδα] [φι]λη[ματι]
+
+FOLIO Verso
+
+v.1    ιδων αυτον εφη και συ εξ αυτων ει
+v.2    ο δε ειπεν {ανε} ουκ ειμι
+v.3    και δια στασης ωσει ωρας α αλλος τις διισχυ—
+v.4    ριζετο λεγων επ αληθειας και
+v.5    ουτος ην μετ αυτου και γαρ γα—
+v.6    λιλαιος εστιν
+v.7    ειπεν δε ο πετρος {ανε} ουκ οιδα ο λεγεις και ετι
+v.8    αυτου λαλουντος παραχρημα
+v.9    εφωνησεν αλεκτωρ
+v.10   και στρα—
+v.11   φεις ο πετρος ενεβλεψεν αυ—
+v.12   τω τοτε υπεμνησθη ο πετρος
+v.13   του ρηματος του {κυ} ως ειπεν
+v.14   αυτω πριν αλεκτορα φωνησαι ση—
+v.15   μερον απαρνηση με τρις
+
+[TRANSLATION:Luke]
+
+22:41  Then he withdrew from them about a stone's throw, knelt down, and prayed,
+22:45  When he got up from prayer, he came to the disciples and found them sleeping because of grief,
+22:46  and he said to them, Why are you sleeping? Get up and pray that you may not come into the time of trial.
+22:47  While he was still speaking, suddenly a crowd came, and the one called Judas, one of the twelve, was leading them. He approached Jesus to kiss him;
+22:48  but Jesus said to him, Judas, is it with a kiss that you are betraying the Son of Man?
+22:58  A little later someone else, on seeing him, said, You also are one of them. But Peter said, Man, I am not!
+22:59  Then about an hour later still another kept insisting, Surely this man also was with him; for he is a Galilean.
+22:60  But Peter said, Man, I do not know what you are talking about! At that moment, while he was still speaking, the cock crowed.
+22:61  The Lord turned and looked at Peter. Then Peter remembered the word of the Lord, how he had said to him, Before the cock crows today, you will deny me three times.

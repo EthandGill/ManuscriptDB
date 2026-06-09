@@ -1,0 +1,36 @@
+[META]
+id: P29
+name: Papyrus 29
+label: P29
+genre: new-testament
+book: Acts
+lat: 28.5383
+lon: 30.6765
+date: c. 3rd century CE
+language: Greek (Koiné)
+found: Oxyrhynchus, Egypt (P.Oxy. 1597)
+held: Bodleian Library, Oxford (Ms. Gr. bib. g. 4(P))
+content: Acts 26:7-8, 26:20
+
+[GREEK]
+FOLIO Recto — Acts 26:7-8
+r.1    GAP: Acts 26:7a — opening lines not preserved
+r.2    [τ]ουτου [της] [ελπιδος] [εγκαλουμαι]
+r.3    {βα}σιλευ [υπο] [ιουδαιων]
+r.4    τι [α]πιστον [κρινεται] [παρ] [υμιν]
+r.5    ει ο {θς} [νεκρους] [εγειρει]
+
+FOLIO Verso — Acts 26:20
+v.1    [α]λλα [ε]ν [δαμασκω] [πρωτον]
+v.2    τε [και] [ιερο]σολυμοις και
+v.3    [μετανοειν] [και] [επιστρεφειν]
+v.4    [ε]πι [τον] {θν} [αξια]
+v.5    [της] [μετανοιας] [εργα] [πρ]ασσοντας
+
+[TRANSLATION]
+FOLIO Recto — Acts 26:7-8
+26:7   …concerning this hope I am accused, O king, by Jews.
+26:8   Why is it judged incredible among you if God raises the dead?
+
+FOLIO Verso — Acts 26:20
+26:20  …but in Damascus first, and in Jerusalem … [I declared] that they should repent and turn to God, performing deeds worthy of repentance.

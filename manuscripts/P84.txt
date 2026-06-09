@@ -1,0 +1,162 @@
+# ───────────────────────────────────────────────
+# Papyrus 84  (P84)
+# Source: NTVMR docID=10084
+# ───────────────────────────────────────────────
+
+[META]
+id:       P84
+name:     Papyrus 84
+genre:    new-testament
+date:     c. 550-650 CE
+language: Greek (Koiné)
+found:    Khirbet Mird, Judean Desert
+held:     KU Leuven Libraries, Leuven
+content:  Mark 2:2-19; 6:34-41
+lat:      31.7027
+lon:      35.355
+book:     Mark
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [και] [ελα]λει
+r.2      [αυτοις] [το]ν
+r.3      [λογον] [και] ερ—
+r.4      [χονται] [π]ρο[ς]
+r.5      [αυτον] [παρα]λυ—
+r.6      [τικον] [φερον]—
+r.7      [τες] [αιρο]με—
+r.8      [νον] [υπο] [τ]εσ—
+r.9      [σαρων] [και] μη
+r.10     [δυναμενο]ι
+r.11     [προσεγγι]σαι
+r.12     [αυτω] [δια] τον
+r.13     GAP:
+r.14     GAP:
+r.15     GAP:
+r.16     GAP:
+r.17     [εξορυ]—
+r.18     [ξαντες] [χ]αλω—
+r.19     [σιν] [τον] [κ]ρα—
+r.20     [βαττον] [ε]φ ω
+r.21     [ο] [παραλυτ]ικος
+r.22     [κατεκει]το
+r.23     [ιδων] [δε] ο {ις}
+r.24     [την] [πισ]τιν
+r.25     [αυτων] [λ]εγει
+r.26     [τω] [παρα]λυτικω
+
+FOLIO Verso
+
+v.1      αυ[τοι] [διαλο]—
+v.2      γ[ιζονται] [εν]
+v.3      εα[υτοις] [λεγει]
+v.4      αυ[τοις] [τι] [ταυ]—
+v.5      τ[α] [διαλογιζε]—
+v.6      σ[θε] [εν] [ταις]
+v.7      κ[αρδιαις] [υμων]
+v.8      τι ε[στιν] [ευκο]—
+v.9      πω[τερον] [ει]—
+v.10     πε[ιν] [τω] [παρα]—
+v.11     [λυτικω]
+
+FOLIO Recto 2
+
+r.1      [αυτω] π[αν]—
+r.2      [τα] [οσα] [επ]οιη—
+r.3      [σαν] [κ]αι οσα
+r.4      [εδιδ]αξαν
+r.5      [και] [ει]πεν [α]υ—
+r.6      [τοις] δευ[τ]ε
+r.7      [υμε]ις [α]υτ[ο]ι
+r.8      [κατ] [ι]δ[ια]ν εις
+r.9      [ερημ]ον το[π]ον
+r.10     [και] αναπαυε—
+r.11     [σθε] ολιγον
+r.12     [ησα]ν γαρ οι ερ—
+r.13     [χομ]ενοι και
+r.14     [οι] [υπαγον]τες
+r.15     GAP:
+r.16     [κ]αι προ[ηλθον]
+r.17     αυτου[ς] [και]
+r.18     σ
+r.19     π[ρος] [αυτον]
+r.20     και [εξελθων]
+r.21     ο {ις} [ειδεν] [πο]—
+r.22     λυν [οχλον]
+r.23     και ε[σπλαγ]—
+r.24     χνισθη [επ] οτ[ι] [ησαν]
+r.25     ως προ[βατα]
+r.26     μη εχο[ντα]
+r.27     [π]οιμεν[α] [και]
+
+FOLIO Verso 2
+
+v.1      και κωμας [α]—
+v.2      [γορα]σωσιν
+v.3      [εαυτοις] [α]ρτους
+v.4      [τι] [γαρ] [φα]γω—
+v.5      [σιν] [ουκ] εχου—
+v.6      [σιν] [ο] [δ]ε απο—
+v.7      [κριθει]ς ειπεν
+v.8      [αυτοι]ς δοτε
+v.9      [αυ]τοις υμεις
+v.10     [φαγ]ειν και λε—
+v.11     [γου]σιν αυτω
+v.12     [απε]λθοντες
+v.13     [αγορα]σω[μ]εν
+v.14     GAP:
+v.15     [συ]μ[ποσια]
+v.16     επι [τω] [χλω]—
+v.17     [ρ]ω χ[ορτω]
+v.18     και αν[επεσαν]
+v.19     [πρ]ασια[ι] [πρασι]—
+v.20     [α]ι ανα ε[κατον]
+v.21     και [α]να [πεν]—
+v.22     τηκ[ο]ν[τα] [και]
+v.23     λαβων [τους]
+v.24     πεντε [αρτους]
+v.25     και του[ς] [δυο]
+v.26     ιχθυας [αναβλε]—
+v.27     ψας [ε]ις [τον] [ου]—
+v.28     [ρανον]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+2:2   And many gathered together, so that there was no longer room for them, not even near the door; and he was speaking the word to them.
+2:3   Then some people came, bringing to him a paralyzed man, carried by four of them.
+2:4   And when they could not bring him to Jesus because of the crowd, they removed the roof above him; and after having dug through it, they let down the mat on which the paralytic lay.
+2:5   When Jesus saw their faith, he said to the paralytic, Son, your sins are forgiven.
+2:6   Now some of the scribes were sitting there, questioning in their hearts,
+2:7   Why does this fellow speak in this way? It is blasphemy! Who can forgive sins but God alone?
+2:8   At once Jesus perceived in his spirit that they were discussing these questions among themselves; and he said to them, Why do you raise such questions in your hearts?
+2:9   Which is easier, to say to the paralytic, Your sins are forgiven, or to say, Stand up and take your mat and walk?
+2:10  But so that you may know that the Son of Man has authority on earth to forgive sins — he said to the paralytic —
+2:11  I say to you, stand up, take your mat and go to your home.
+2:12  And he stood up, and immediately took the mat and went out before all of them; so that they were all amazed and glorified God, saying, We have never seen anything like this!
+2:13  Jesus went out again beside the sea; the whole crowd gathered around him, and he taught them.
+2:14  As he was walking along, he saw Levi son of Alphaeus sitting at the tax booth, and he said to him, Follow me. And he got up and followed him.
+2:15  And as he sat at dinner in Levi's house, many tax collectors and sinners were also sitting with Jesus and his disciples — for there were many who followed him.
+2:16  When the scribes of the Pharisees saw that he was eating with sinners and tax collectors, they said to his disciples, Why does he eat with tax collectors and sinners?
+2:17  When Jesus heard this, he said to them, Those who are well have no need of a physician, but those who are sick; I have come to call not the righteous but sinners.
+2:18  Now John's disciples and the Pharisees were fasting; and people came and said to him, Why do John's disciples and the disciples of the Pharisees fast, but your disciples do not fast?
+2:19  Jesus said to them, The wedding guests cannot fast while the bridegroom is with them, can they? As long as they have the bridegroom with them, they cannot fast.
+2:25  And he said to them, Have you never read what David did when he and his companions were hungry and in need of food?
+2:26  He entered the house of God, when Abiathar was high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and he gave some to his companions.
+6:34  As he went ashore, he saw a great crowd; and he had compassion for them, because they were like sheep without a shepherd; and he began to teach them many things.
+6:35  When it grew late, his disciples came to him and said, This is a deserted place, and the hour is now very late;
+6:36  send them away so that they may go into the surrounding country and villages and buy something for themselves to eat.
+6:37  But he answered them, You give them something to eat. They said to him, Are we to go and buy two hundred denarii worth of bread, and give it to them to eat?
+6:39  Then he ordered them to get all the people to sit down in groups on the green grass.
+6:40  So they sat down in groups of hundreds and of fifties.
+6:41  Taking the five loaves and the two fish, he looked up to heaven, and blessed and broke the loaves, and gave them to his disciples to set before the people; and he divided the two fish among them all.
+# 1:1   The book of the genealogy of ...

@@ -1,0 +1,58 @@
+# ───────────────────────────────────────────────
+# Papyrus 104  (P104)
+# Source: NTVMR docID=10104
+# ───────────────────────────────────────────────
+
+[META]
+id:       P104
+name:     Papyrus 104
+genre:    new-testament
+date:     c. 100-150 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Ashmolean Museum, Oxford
+content:  Matthew 21:34-37; 21:43-45
+lat:      28.5383
+lon:      30.6765
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [απε]—
+r.2      [στειλεν] [τους] δ[ο]υλου[ς] αυτου προς
+r.3      [τους] [γεωργους] λαβειν τους καρ—
+r.4      [πους] [αυτου] [και] λαβοντες οι γεωρ—
+r.5      [γοι] [τους] [δουλο]υς αυτ[ου] ον μεν
+r.6      [εδειραν] ον δε απεκτειναν ον
+r.7      [δε] [ελιθοβ]ολησαν παλιν απε—
+r.8      [στειλεν] [α]λλους δουλους πλειο—
+r.9      [νας] [των] [πρωτων] [και] εποιησαν
+r.10     [αυτοις] [ωσαυτως] [υστερον] [δ]ε απε—
+r.11     [στειλεν]
+
+FOLIO Verso
+
+v.1      [θεου] [και] δοθησε[ται] [εθνει] [ποιουν]—
+v.2      τι τ[ο]υς καρ[πους] [αυτης] [και] [ακου]—
+v.3      σα[ν]τες ο[ι] [αρχιερεις] [και] [οι] [φα]—
+v.4      [ρισαιοι]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+21:34 When the harvest time had come, he sent his slaves to the tenants to collect his produce.
+21:35 But the tenants seized his slaves and beat one, killed another, and stoned another.
+21:36 Again he sent other slaves, more than the first; and they did the same to them.
+21:37 Finally he sent his son to them, saying, They will respect my son.
+21:43 Therefore I tell you, the kingdom of God will be taken away from you and given to a people that produces the fruits of the kingdom.
+21:44 The one who falls on this stone will be broken to pieces; and it will crush anyone on whom it falls.
+21:45 When the chief priests and the Pharisees heard his parables, they realized that he was speaking about them.

@@ -1,0 +1,46 @@
+[META]
+id: P36
+name: Papyrus 36
+label: P36
+genre: new-testament
+book: John
+lat: 28.5383
+lon: 30.6765
+date: c. 5th-6th century CE
+language: Greek (Koiné)
+found: Egypt
+held: Biblioteca Medicea Laurenziana, Florence (PSI I 3)
+content: John 3:14-18
+
+[GREEK]
+FOLIO Recto — John 3:14-16
+r.1    και καθω[ς] [μωυσης] [υψωσεν]
+r.2    τον οφιν [εν] [τη] [ερημω] [ουτως]
+r.3    [υψωθηναι] [δει] [τον] [υιον] [του] {ανου}
+r.4    ινα πας ο [πιστευων] [εν] [αυτω]
+r.5    εχη ζωη[ν] [αιωνιον]
+r.6    [ουτως] [γαρ] ηγαπη[σεν] [ο] {θς}
+r.7    [τον] [κοσμον] [ωστε] τον υιο[ν] [αυτου]
+r.8    [τον] [μονογενη] ε[δωκεν] ινα [πας]
+r.9    [ο] [πιστευων] αυ[τω] μη [αποληται]
+r.10   [αλλ] [εχη] ζωην α[ιωνιον]
+
+FOLIO Verso — John 3:17-18
+v.1    [ου] [γαρ] [απεστειλεν] ο {θς}
+v.2    τον [υιον] [εις] [τον] [κοσ]μ[ο]ν
+v.3    ινα [κρινη] [τον] [κοσμον] [αλ]λ
+v.4    ινα [σωθη] [ο] [κοσμος] [δι] αυτ[ου]
+v.5    ο πιστευ[ων] [εις] [αυτον] [ου] κρι[ν]ηται
+v.6    ο δε [μη] [πιστευων] [εις] τ[ο] [ονομα]
+v.7    [κεκριται] [οτι] [μη] [πεπι]στευκεν
+v.8    [εις] [το] [ονομα] [του] [μο][ν]ογενο[υς]
+
+[TRANSLATION]
+FOLIO Recto — John 3:14-16
+3:14   And just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up,
+3:15   that everyone who believes in him may have eternal life.
+3:16   For God so loved the world that he gave his only-begotten Son, that everyone who believes in him may not perish but have eternal life.
+
+FOLIO Verso — John 3:17-18
+3:17   For God did not send the Son into the world that he might judge the world, but that the world might be saved through him.
+3:18   The one who believes in him is not judged; but the one who does not believe is judged already, because he has not believed in the name of the only-begotten…

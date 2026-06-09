@@ -1,0 +1,23 @@
+[META]
+id: P76
+name: Papyrus 76
+label: P76
+genre: new-testament
+book: John
+lat: 28.5383
+lon: 30.6765
+date: c. 5th–6th century CE
+language: Greek (Koiné)
+found: Egypt
+held: Österreichische Nationalbibliothek, Vienna (Pap. G. 36102)
+content: John 4:9 (partial)
+
+[GREEK]
+FOLIO Recto — John 4:9
+r.1    [σα][μαρι]τιδος [ου]σης
+r.2    [ου] [γαρ] συν[χρ][ωνται]
+r.3    [ιου]δαιοι σ[α][μαρι][ταις]
+
+[TRANSLATION]
+FOLIO Recto — John 4:9
+4:9    …she being a Samaritan woman? For Jews do not associate with Samaritans.

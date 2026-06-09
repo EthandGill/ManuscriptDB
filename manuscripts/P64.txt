@@ -1,0 +1,66 @@
+# ───────────────────────────────────────────────
+# Papyrus 64  (P64)
+# Source: NTVMR docID=10064
+# ───────────────────────────────────────────────
+
+[META]
+id:       P64
+name:     Papyrus 64
+genre:    new-testament
+date:     c. 150-250 CE
+language: Greek (Koiné)
+found:    Egypt (Upper Egypt, possibly Coptos)
+held:     Magdalen College, Oxford; Fundacio Sant Lluc, Barcelona (P64+P67)
+content:  Matthew 3:9,15; 5:20-22,25-28; 26:7-8,10,14-15,22-23,31-33
+lat:      25.999
+lon:      32.5549
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      και μ[η] [δοξητε]
+r.2      [λεγ]ειν εν [εαυτοις]
+r.3      {πρα} εχομ[εν] [τον] [αβρα]—
+r.4      [αμ] [λε]γω γα[ρ] [υμιν] [οτι]
+r.5      [δυνα]τ[αι] [ο] {θς} [εκ] [των]
+
+FOLIO Verso
+
+v.1      αποκ[ριθεις]
+v.2      [δε] [ο] {ις} [ειπε]ν προ[ς] [αυ]—
+v.3      [τον] [αφες] [α]ρτι ου[τως]
+v.4      [γαρ] [πρεπ]ον εσ[τιν] [ημιν]
+v.5      [πληρωσαι] πα[σαν] [δι]—
+v.6      [καιοσυνην]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+3:9   And do not presume to say to yourselves, We have Abraham as our ancestor; for I tell you, God is able from these stones to raise up children to Abraham.
+3:15  But Jesus answered him, Let it be so now; for it is proper for us in this way to fulfill all righteousness. Then he consented.
+5:20  For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.
+5:21  You have heard that it was said to those of ancient times, You shall not murder; and whoever murders shall be liable to judgment.
+5:22  But I say to you that if you are angry with a brother or sister, you will be liable to judgment; and if you insult a brother or sister, you will be liable to the council; and if you say, You fool, you will be liable to the hell of fire.
+5:25  Come to terms quickly with your accuser while you are on the way to court with him, or your accuser may hand you over to the judge, and the judge to the guard, and you will be thrown into prison.
+5:26  Truly I tell you, you will never get out until you have paid the last penny.
+5:27  You have heard that it was said, You shall not commit adultery.
+5:28  But I say to you that everyone who looks at a woman with lust has already committed adultery with her in his heart.
+26:7  A woman came to him with an alabaster jar of very costly ointment, and she poured it on his head as he sat at the table.
+26:8  But when the disciples saw it, they were angry and said, Why this waste?
+26:10 But Jesus, aware of this, said to them, Why do you trouble the woman? She has performed a good service for me.
+26:14 Then one of the twelve, who was called Judas Iscariot, went to the chief priests
+26:15 and said, What will you give me if I betray him to you? They paid him thirty pieces of silver.
+26:22 And they became greatly distressed and began to say to him one after another, Surely not I, Lord?
+26:23 He answered, The one who has dipped his hand into the bowl with me will betray me.
+26:31 Then Jesus said to them, You will all become deserters because of me this night; for it is written, I will strike the shepherd, and the sheep of the flock will be scattered.
+26:32 But after I am raised up, I will go ahead of you to Galilee.
+26:33 Peter said to him, Though all become deserters because of you, I will never desert you.

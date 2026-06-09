@@ -1,0 +1,46 @@
+# ───────────────────────────────────────────────
+# Papyrus 126  (P126)
+# Source: NTVMR docID=10126
+# ───────────────────────────────────────────────
+
+[META]
+id:       P126
+name:     Papyrus 126
+genre:    new-testament
+date:     c. 4th century CE
+language: Greek (Koiné)
+found:    Egypt
+held:     Instituto Papirologico G. Vitelli, Florence (PSI inv. 2176)
+content:  Hebrews 13:12-13, 19-20
+lat:      28.5383
+lon:      30.6765
+book:     Hebrews
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — Hebrews 13:12-13
+
+r.1      GAP:
+r.2      [αιματος] [τον] [λαον] εξω της πυλης της πα—
+r.3      [ρεμβολης] [επαθεν] [τοιν]υν εξερχω[μ]εθα
+r.4      [προς] [αυτον] [εξω] [της] [παρεμβολης] [τον] [ο]νει—
+r.5      [δισμον]
+
+FOLIO Verso — Hebrews 13:19-20
+
+v.1      GAP:
+v.2      αποκατασταθω υμιν ο δ[ε] {θς} [της] [ειρηνης]
+v.3      ο αναγαγων εκ ν[εκρων] [τον] [ποιμενα] [των]
+v.4      πρ[οβατων] [τον] [μεγαν] [εν] [αιματι] [διαθηκης]
+
+[TRANSLATION]
+13:12  So Jesus also suffered outside the gate in order to sanctify the people through his own blood.
+13:13  Therefore let us go to him outside the camp and bear the reproach he endured.
+13:19  I urge you the more earnestly to do this in order that I may be restored to you the sooner.
+13:20  Now may the God of peace who brought again from the dead our Lord Jesus, the great shepherd of the sheep, by the blood of the eternal covenant,

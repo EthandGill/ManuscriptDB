@@ -1,0 +1,60 @@
+# ───────────────────────────────────────────────
+# Papyrus 98  (P98)
+# Source: NTVMR docID=10098
+# ───────────────────────────────────────────────
+
+[META]
+id:       P98
+name:     Papyrus 98
+genre:    new-testament
+date:     c. late 2nd century CE (150-250)
+language: Greek (Koiné)
+found:    Egypt
+held:     IFAO, Cairo (P. IFAO inv. 237b)
+content:  Revelation 1:13-2:1
+lat:      28.5383
+lon:      30.6765
+book:     Revelation
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Verso — Revelation 1:13-20
+
+v.1      GAP:
+v.2      [περ]ιεζωσμμεν[ον] [προς] [τοις] [μαστοις] [ζωνην]
+v.3      [χρυ]σην και η κε[φαλη] [αυτου] [και] [αι] [τριχες] [λευκαι]
+v.4      [ως] εριον λευκον [ως] [χιων] [και] [οι] [οφθαλμοι] [αυτου] [ως]
+v.5      [φλ]οξ πυρος και [οι] [ποδες] [αυτου] [ομοιοι] [χαλκολιβανω]
+v.6      [ως] εν καμινω πε[πυρωμενης] [και] [η] [φωνη] [αυτου] [ως]
+v.7      φωνη υδατων π[ολλων] [και] [εχων] [εν] [τη] [δεξια] [χειρι]
+v.8      αυτου αστερες ε[πτα] [και] [εκ] [του] [στοματος] [αυτου] [ρομ]—
+v.9      φαια διστομος ο[ξεια] [εκπορευομενη] [και] [η] [οψις] [αυ]—
+v.10     του ως ηλιος φ[αινει] [εν] [τη] [δυναμει] [αυτου] [και] [οτε] [ει]—
+v.11     δον αυτον επε[σα] [προς] [τους] [ποδας] [αυτου] [ως] [νεκρος]
+v.12     και εθηκε τη[ν] [δεξιαν] [αυτου] [εμ] [εμε] [λεγων]
+v.13     μη φοβ[ο]υ εγω [ειμι] [ο] [πρωτος] [και] [ο] [εσχατος] [και] [ο] [ζων] [και] [εγε]—
+v.14     νομην νεκρο[ς] [και] [ιδου] [ζων] [ειμι] [εις] [τους] [αιωνας]
+v.15     των αιωνων [και] [εχω] [τας] [κλεις] [του] [θανατου] [και]
+v.16     του αιδου γραψον [ουν] [α] [ειδες] [και] [α] [εισιν] [και] [α] [μελλει]
+v.17     γενε[σ]θαι [μετα] [ταυτα] [το] [μυστηριον] [των] {ζ}
+v.18     αστερων [ους] [ειδες] [επι] [της] [δεξιας] [μου] [και] [τας]
+v.19     {ζ} λυχνει[α]ς [τας] [χρυσας] [οι] {ζ} [αστερες] [αγγελοι] [των]
+v.20     {ζ} εκκλησιων ει[σιν] [και] [αι] [λυχνιαι] [αι] [επτα] [επτα] [εκκλησιαι]
+
+
+[TRANSLATION]
+
+1:13    and among the lampstands one like a son of man, clothed with a long robe and with a golden sash around his chest.
+1:14    The hairs of his head were white, like white wool, like snow. His eyes were like a flame of fire,
+1:15    his feet were like burnished bronze, refined in a furnace, and his voice was like the roar of many waters.
+1:16    In his right hand he held seven stars, from his mouth came a sharp two-edged sword, and his face was like the sun shining in full strength.
+1:17    When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, Fear not, I am the first and the last,
+1:18    and the living one. I died, and behold I am alive forevermore, and I have the keys of Death and Hades.
+1:19    Write therefore the things that you have seen, those that are and those that are to take place after this.
+1:20    As for the mystery of the seven stars that you saw in my right hand, and the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.

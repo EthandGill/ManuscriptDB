@@ -1,0 +1,154 @@
+# ───────────────────────────────────────────────
+# Papyrus 53  (P53)
+# Source: NTVMR docID=10053
+# ───────────────────────────────────────────────
+
+[META]
+id:       P53
+name:     Papyrus 53
+genre:    new-testament
+date:     c. 260 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     University of Michigan, Ann Arbor
+content:  Matthew 26:29-40; Acts 9:33-10:1
+lat:      28.5383
+lon:      30.6765
+book:     Matthew, Acts
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[CONTENT:Matthew]
+Matthew 26:29-40
+
+[CONTENT:Acts]
+Acts 9:33-10:1
+
+[GREEK:Matthew]
+
+FOLIO Recto
+
+r.1      [εκ] τουτου τ[ου] [γενηματος] [της] [αμ]—
+r.2      πελου εω[ς] [της] [ημερ]ας εκειν[ης]
+r.3      οταν α[υτο] [πινω] [μεθ] [υ]μων κ[αι]—
+r.4      νον εν τη β[ασι]λ[εια] [του] {πρς} μου
+r.5      και υμνησαντε[ς] [ε]ξηλθο[ν] εις το
+r.6      ορ[ο]ς των ελαιων τοτε λεγει αυ—
+r.7      τοις ο {ιης} παντες υμεις σκανδα—
+r.8      λισθησεσθε εν εμοι εν τη νυκτι
+r.9      [τα]υτη γεγραπται γαρ παταξω τον
+r.10     ποιμενα και διασκορπισθησον—
+r.11     [τα]ι τα προβατα της ποιμνης με[τα]
+r.12     [δε] το εγερθηναι με προαξω υμας
+r.13     [εις] την γαλιλαιαν αποκριθεις δε
+r.14     [ο] [πετρ]ος ειπεν αυτω ει παντες
+r.15     [σ]κανδαλισθησονται εγω εν σοι
+r.16     [ου]δεποτε σκανδαλισθησομαι
+r.17     εφη αυτω ο {ιης} αμην λεγω σοι
+r.18     οτι ε[ν] ταυτη τη νυκτι πριν αλε—
+r.19     κτορα φωνησαι [τ]ρεις απαρνη—
+r.20     σει μ[ε] λεγε[ι] [α]υτ[ω] [ο] [πετρος] [κα]ν
+
+FOLIO Verso
+
+v.1      ου αν α[πελθων] [εκει] [π]ροσευξ[ω]—
+v.2      μαι κ[αι] [παραλαβ]ων τον πετρον
+v.3      και [το]υ[ς] δ[υο] υι[ο]υς ζεβεδαιου
+v.4      ηρξατο λυπεισθαι και αδημ[ο]—
+v.5      νειν τοτε λεγει αυτοις περιλυ—
+v.6      πος εστιν η ψυχη μου εως θα—
+v.7      νατου μεινατε ωδε και γρηγο—
+v.8      ρειτε μετ εμου και προσελθ[ων]
+v.9      μικρον επε[σ]εν επι πρ[οσ]ω[πον]
+v.10     αυτου προσευχομενος κ[αι]
+v.11     λεγων {περ} ει δυνατον εστ[ιν]
+v.12     παρελθετω απ εμου το π[οτηριον]
+v.13     το[υ]το πλην ουχ ως εγω θελ[ω]
+v.14     αλλ ως συ και ερχεται προς το[υς]
+v.15     μαθητας και ευρισκει αυτους
+v.16     καθευδοντας και λε[γει] τω
+v.17     πετρω ο[υ]τως ουχ ισχυσατε
+v.18     μιαν [ωραν] [γρηγ]ορησα[ι] με[τ] ε—
+v.19     [μου]
+
+[TRANSLATION:Matthew]
+
+26:29  I tell you, I will never again drink of this fruit of the vine until that day when I drink it new with you in my Father's kingdom.
+26:30  When they had sung the hymn, they went out to the Mount of Olives.
+26:31  Then Jesus said to them, You will all become deserters because of me this night; for it is written, I will strike the shepherd, and the sheep of the flock will be scattered.
+26:32  But after I am raised up, I will go ahead of you to Galilee.
+26:33  Peter said to him, Though all become deserters because of you, I will never desert you.
+26:34  Jesus said to him, Truly I tell you, this very night, before the cock crows, you will deny me three times.
+26:35  Peter said to him, Even though I must die with you, I will not deny you. And so said all the disciples.
+26:36  Then Jesus went with them to a place called Gethsemane; and he said to his disciples, Sit here while I go over there and pray.
+26:37  He took with him Peter and the two sons of Zebedee, and began to be grieved and agitated.
+26:38  Then he said to them, I am deeply grieved, even to death; remain here, and stay awake with me.
+26:39  And going a little farther, he threw himself on the ground and prayed, My Father, if it is possible, let this cup pass from me; yet not what I want but what you want.
+26:40  Then he came to the disciples and found them sleeping; and he said to Peter, So, could you not stay awake with me one hour?
+
+[GREEK:Acts]
+
+FOLIO Recto
+
+r.1   πετρος [αινεα] [ιαται] [σε] {ιης} [{χρς}] αν[α]—
+r.2   [στηθι] [και] [στρωσον] σεαυτω και ευ—
+r.3   [θεως] [ανεστη]
+r.4   [και] [ει]δον α[υ]τον
+r.5   παντες οι κατο[ι]κ[ου][ν]τες [λυδ]—
+r.6   δαν και [τον] σαρωνα οιτινες επεστρεψαν
+r.7   επι τον {κν}
+r.8   εν ιο[π]πη δε τι[ς] [ην] [μ]αθη—
+r.9   τρια ταβειθα η δι[ε]ρμηνε[υ]ο[μ][ενη] [λ]ε—
+r.10  γε[τ]α[ι] δορκας [α]υ[τη] ην πληρ[η][ς] [αγα]—
+r.11  θων εργων κ[αι] [ελ]εημοσυν[ων] [ων]
+r.12  [εποιε][ι]
+r.13  [εγ]ενετο δε εν ταις [ημ]ε—
+r.14  ραις ε[κ]ειναις [α]σθενησασαν αυ—
+r.15  την α[π]οθανειν λουσαντες δε
+r.16  αυτ[η]ν εθηκα[ν] εν τ[ω] [υ]περωω
+r.17  εγγυς δε ουσης λυδδας [τ][η] ιοππη
+r.18  οι μαθητ[αι] [ακ]ουσαντ[ες] οτι πε—
+r.19  τρος εστι[ν] [εν] [αυτ][η] α[π][εστειλαν]
+r.20  [δυο] [ανδρ][α]ς [π][ρος] [αυτον] παρακαλουν—
+r.21  [τες]
+
+FOLIO Verso
+
+# Gap: end of 9:38 and beginning of 9:39 (not preserved between folios)
+
+v.1   [επ]οιει [μετ] [αυτων] [ουσα] [η] [δορκας]
+v.2   εκβα[λων] δε ε[ξω] [παντας] [ο] [πε]—
+v.3   τρος [κ]αι θεις τ[α] [γονατα] [προσηυξατο]
+v.4   και ε[πι]στρεψας [προς] [το] [σωμα] [ειπεν]
+v.5   ταβειθα αν[αστη]θι η δε η[ν]οι[ξεν]
+v.6   τ[ο]υς [ο]φθαλμου[ς] αυτης και ιδουσα
+v.7   τον [π][ε][τρο]ν ανε[κ]αθισεν
+v.8   δους δε αυτη [χειρ][α] [ανε]στησεν α[υτ]ην φω—
+v.9   [νησας] [δ]ε τους αγ[ι]ους και τας χ[η]ρας
+v.10  [παρ]ε[σ]τησεν αυτ[η][ν] [ζωσα]ν
+v.11  γνωστον δε εγενετο καθ [ο]λης ιοππης
+v.12  και επιστευσαν πολλοι επι τον {κν}
+v.13  εγενε[τ]ο δε ημερας ικανας μειν[αι]
+v.14  εν ιοπ[π]η παρα τινι σιμωνι βυρσ[ει]
+v.15  ανηρ δε τ[ις] εν [κ]αισαρεια ονομ[α]τι
+v.16  [κ]ορνηλιος εκ[ατοντα]ρχος ε[κ] [σπει]—
+v.17  [ρης] [της] [καλουμενης] [ιτα]λ[ι]κ[ης]
+
+[TRANSLATION:Acts]
+
+9:33  There he found a man named Aeneas, who had been bedridden for eight years, for he was paralyzed.
+9:34  Peter said to him, Aeneas, Jesus Christ heals you; get up and make your bed! And immediately he got up.
+9:35  And all the residents of Lydda and Sharon saw him and turned to the Lord.
+9:36  Now in Joppa there was a disciple whose name was Tabitha, which in Greek is Dorcas. She was devoted to good works and acts of charity.
+9:37  At that time she became ill and died. When they had washed her, they laid her in a room upstairs.
+9:38  Since Lydda was near Joppa, the disciples, who heard that Peter was there, sent two men to him with the request, Please come to us without delay.
+9:39  So Peter got up and went with them; and when he arrived, they took him to the room upstairs. All the widows stood beside him, weeping and showing tunics and other clothing that Dorcas had made while she was with them.
+9:40  Peter put all of them outside, and then he knelt down and prayed. He turned to the body and said, Tabitha, get up. Then she opened her eyes, and seeing Peter, she sat up.
+9:41  He gave her his hand and helped her up. Then calling the saints and widows, he showed her to be alive.
+9:42  This became known throughout Joppa, and many believed in the Lord.
+9:43  Meanwhile he stayed in Joppa for some time with a certain Simon, a tanner.
+10:1  In Caesarea there was a man named Cornelius, a centurion of the Italian Cohort, as it was called.

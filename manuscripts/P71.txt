@@ -1,0 +1,54 @@
+# ───────────────────────────────────────────────
+# Papyrus 71  (P71)
+# Source: NTVMR docID=10071
+# ───────────────────────────────────────────────
+
+[META]
+id:       P71
+name:     Papyrus 71
+genre:    new-testament
+date:     c. 400 CE
+language: Greek (Koiné)
+found:    Egypt (exact site unknown)
+held:     Various collections
+content:  Matthew 19:10-11, 17-18
+lat:      26.8206
+lon:      30.8025
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [λε]—
+r.2      [γο]υ[σιν] αυτ[ω] οι μα[θηται]
+r.3      ει ουτως εστιν αιτια το[υ] {ανου}
+r.4      [μετα] της γυναικος [ου] [συμ]—
+r.5      [φε]ρει γαμησαι ο δε [ειπεν]
+r.6      [α]υτοις ου παντες χω[ρουσιν]
+
+FOLIO Verso
+
+v.1      θε[λε]ις ε[ι]ς τη[ν] [ζωην]
+v.2      εισελθειν τη[ρ]ε[ι] [τας] [εν]—
+v.3      τολας λεγει αυτ[ω] [ποιας]
+v.4      ο δε εφη το ου φ[ονευ]—
+v.5      σης ου μοιχευσει[ς] [ου]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+FOLIO Recto
+19:10  The disciples say to him: "If such is the case of the man with the woman, it is not profitable to marry."
+19:11  But he said to them: "Not all receive [this word]…"
+
+FOLIO Verso
+19:17  …if you wish to enter into life, keep the commandments.
+19:18  He says to him: "Which?" And he said: "The 'You shall not murder; you shall not commit adultery; not…'"

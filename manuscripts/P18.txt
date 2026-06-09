@@ -1,0 +1,55 @@
+# ───────────────────────────────────────────────
+# Papyrus 18  (P18)
+# Source: NTVMR docID=10018
+# ───────────────────────────────────────────────
+
+[META]
+id:       P18
+name:     Papyrus 18
+genre:    new-testament
+date:     c. 3rd-4th century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     British Library, London (P. Oxy. 1079)
+content:  Revelation 1:4-7
+lat:      28.5383
+lon:      30.6765
+book:     Revelation
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Verso — Revelation 1:4-7
+
+v.1      GAP:
+v.2      [ιωαννης] [τα]ι[ς] [επτα] εκ[κλησ]ιαις
+v.3      [ταις] [εν] [τη] ασια χαρις υμειν και ειρη—
+v.4      [νη] [απο] [ο] [ων] και ο ην και ο ερχομε—
+v.5      [νος] [και] [απο] [τ]ων επτα πνευμα—
+v.6      [των] [α] εν[ω]πιον του θρονου αυ—
+v.7      [τ]ου και απ[ο] {ιη} {χρ} ο μαρτυς ο πι—
+v.8      στος ο πρωτοτοκος των νεκρων
+v.9      και ο αρχων των βασιλεων της γης
+v.10     τω αγαπωντι ημας και λυσαντι η—
+v.11     [μ]ας εκ των αμαρτιων ημων εν
+v.12     [τ]ω αιματι αυτου και εποιησεν ημ[ι]ν
+v.13     [βα]σ[ιλ]ειαν ιερεις του {θυ} τω {θω} και π[α]τρι
+v.14     [αυτο]υ αυτω το κρατος και η δοξα
+v.15     [εις] [το]υς αιωνας αμην ιδου
+v.16     [ερχε]ται μετα των νεφελων
+v.17     [και] [οψε]ται αυτον πας οφθαλ—
+v.18     [μος] [και] [ο]ιτινες αυτον εξε—
+v.19     [κεντησαν]
+
+
+[TRANSLATION]
+
+1:4     John, to the seven churches that are in Asia: Grace to you and peace from him who is and who was and who is to come, and from the seven spirits who are before his throne,
+1:5     and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To him who loves us and freed us from our sins by his blood,
+1:6     and made us a kingdom, priests to his God and Father — to him be glory and dominion forever and ever. Amen.
+1:7     Behold, he is coming with the clouds, and every eye will see him, even those who pierced him, and all the tribes of the earth will mourn over him. Even so. Amen.

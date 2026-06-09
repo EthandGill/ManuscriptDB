@@ -1,0 +1,94 @@
+# ───────────────────────────────────────────────
+# Papyrus 125  (P125)
+# Source: NTVMR docID=10125
+# ───────────────────────────────────────────────
+
+[META]
+id:       P125
+name:     Papyrus 125
+genre:    new-testament
+date:     c. 3rd-4th century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Sackler Library, Oxford (P. Oxy. 4934)
+content:  1 Peter 1:23-2:5; 2:7-12
+lat:      28.5383
+lon:      30.6765
+book:     1 Peter
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — 1 Peter 1:23-2:5
+
+r.1      GAP:
+r.2      [με]νοντος δ[ιοτι] [πασα] [σαρξ]
+r.3      [ως] χορτος κ[αι] [πασα] [δοξα] [αυτης]
+r.4      [ω]ς ανθος χ[ορτου] [εξηραν]—
+r.5      [θη] [ο] χορτος κα[ι] [το] [ανθος] [εξε]—
+r.6      [πεσεν] το δε ρη[μα] {κυ} [μενει] [εις]
+r.7      [τ]ον αιωνα [τουτο] [δε] [εστιν]
+r.8      το ρημα το ε[υαγγελισθεν]
+r.9      εις υμα[ς] απο[θεμενοι] [ουν] [πα]—
+r.10     [σ]αν κακιαν κ[αι] [παντα] [δολον]
+r.11     [κα]ι υποκρισ[ει]ς και φ[θονους]
+r.12     και συνκατ[α]λαλια [ως] [αρτιγεννη]—
+r.13     τα βρεφη τ[ο] [λογι]κο[ν] [αδολον]
+r.14     γελα επιπ[οθ]ησατε ιν[α]
+r.15     αυτων αυξ[η]θητε ει[ς] [σωτη]—
+r.16     ριαν ει ευγεσα[σ]θε οτ[ι] [χρηστος] [ο] {κς}
+r.17     προς ον προσε[ρ]χ[ομενοι] [λι]—
+r.18     θον ζωντα υπο {ανων} [μεν]
+r.19     α[π]οδεδοκασμ[ενον] [παρα]
+r.20     δε {θω} εκλεκτον [εντιμον]
+r.21     κ[αι] [α]υτοι ω[ς] [λιθοι] [ζωντες]
+
+FOLIO Verso — 1 Peter 2:7-12
+
+v.1      GAP:
+v.2      [απιστου]—
+v.3      [σιν] [δε] [λιθος] [ον] [απεδ]οκιμ[ασαν]
+v.4      [οι] [οικοδομουντες] ουτος ε[γενη]—
+v.5      [θη] [εις] [κεφαλην] [γω]νιας κα[ι] [λιθος]
+v.6      [προσκομματος] [και] με πετρ[α]
+v.7      [σκανδαλου] [οι] [πρ]οσκοψου[σιν]
+v.8      [τω] [λογω] [απειθουντ]ες εις ο [και]
+v.9      [ετεθησαν] [υμεις] δε γεν[ο]ς εκ[λεκ]—
+v.10     [τον] [βασιλειον] [ι]ερατ[ε]υμ[α] [ε]—
+v.11     [θνος] [αγιον] [λαος] εις περιποιη—
+v.12     [σιν] [οπως] τας [αρ]ετας εξ[α]γ[γει]—
+v.13     [λητε] [του] [εκ] [σκοτους] [υ]μας καλεσαντο[ς] [ει]ς
+v.14     [το] [θ]αυ[μ]αστον φως οι ποτε [ο]υ
+v.15     [λαος] [μ]ου νυν [δε] λαος {θυ} ο[ι]
+v.16     [ουκ] [ηλ]εημενο[ι] [ν]υν δε ελ[ε]η—
+v.17     [θεντε]ς αγαπητ[οι] παρακ[α]λω
+v.18     [ως] [παροικου]ς κ[αι] παρεπιδη—
+v.19     [μους] [απε]χεσ[θαι] [τ]ων σαρκι—
+v.20     [κων] [επιθυ]μιων αιτινες
+v.21     [στρατευον]ται [κα]τα της ψυ[χης]
+v.22     [την] [αναστ]ροφην υμων εν
+v.23     [τοις] [εθν]εσι[ν] καλην ινα
+v.24     [εν] [ω] [κατα]λαλ[ουσι]ν υμω[ν]
+
+
+[TRANSLATION]
+
+1:23    since you have been born again, not of perishable seed but of imperishable, through the living and abiding word of God;
+1:24    for all flesh is like grass and all its glory like the flower of grass. The grass withers, and the flower falls,
+1:25    but the word of the Lord remains forever. And this word is the good news that was preached to you.
+2:1     So put away all malice and all deceit and hypocrisy and envy and all slander.
+2:2     Like newborn infants, long for the pure spiritual milk, that by it you may grow up into salvation,
+2:3     if indeed you have tasted that the Lord is good.
+2:4     As you come to him, a living stone rejected by men but in the sight of God chosen and precious,
+2:5     you yourselves like living stones are being built up as a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ.
+2:7     So the honor is for you who believe, but for those who do not believe, the stone that the builders rejected has become the cornerstone,
+2:8     and a stone of stumbling, and a rock of offense. They stumble because they disobey the word, as they were destined to do.
+2:9     But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.
+2:10    Once you were not a people, but now you are God's people; once you had not received mercy, but now you have received mercy.
+2:11    Beloved, I urge you as sojourners and exiles to abstain from the passions of the flesh, which wage war against your soul.
+2:12    Keep your conduct among the Gentiles honorable, so that when they speak against you as evildoers, they may see your good deeds and glorify God on the day of visitation.

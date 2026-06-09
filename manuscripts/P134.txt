@@ -1,0 +1,32 @@
+[META]
+id: P134
+name: Papyrus 134
+label: P134
+genre: new-testament
+book: John
+lat: 28.5383
+lon: 30.6765
+date: c. 3rd century CE
+language: Greek (Koiné)
+found: Egypt
+held: University of Texas Harry Ransom Center, Austin, TX (s.n.)
+content: John 1:49-2:1
+
+[GREEK]
+FOLIO Recto — John 1:49-2:1
+r.1    [ναθαναηλ] [ραββι] [συ] [ει] [ο] {υς} [του] {θυ}
+r.2    [συ] [βασ][ιλ]ε[υς] ε[ι] [του] [ισραηλ]
+r.3    [απεκριθη] {ις} [και] [ειπεν] [αυ]τω
+r.4    οτ[ι] [ειπον] σοι [οτι] [ειδον] [σε] [υποκατω] [της] [συκης]
+r.5    [πιστευ]ε[ι]ς μειζ[ω] [τουτων] [οψη]
+r.6    [και] [λεγει] [αυτω] [αμην] [αμην] [λεγω] υ[μ][ε]ιν
+r.7    οψεσθε τον ο[υ][ρα][νον] [ανεωγοτα]
+r.8    [και] [τους] [αγγελους] [τ]ου θεου ανα[βα][ι]νοντας
+r.9    [και] [καταβαινοντας] [επι] [τον] {υν} [του] {ανου}
+r.10   κ[αι] τ[η] [ημε][ρα] τ[η] [τριτη] [γαμος] [εγενετο]
+
+[TRANSLATION]
+1:49   Nathanael answered him: Rabbi, you are the Son of God! You are the King of Israel!
+1:50   Jesus answered him: Because I said to you, I saw you under the fig tree, do you believe? You will see greater things than these.
+1:51   And he said to him: Truly, truly, I say to you, you will see heaven opened, and the angels of God ascending and descending on the Son of Man.
+2:1    On the third day there was a wedding at Cana in Galilee…

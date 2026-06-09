@@ -1,0 +1,63 @@
+# ───────────────────────────────────────────────
+# Papyrus 117  (P117)
+# Source: NTVMR docID=10117
+# ───────────────────────────────────────────────
+
+[META]
+id:       P117
+name:     Papyrus 117
+genre:    new-testament
+date:     c. 4th-5th century CE
+language: Greek (Koiné)
+found:    Egypt
+held:     University of Hamburg (Inv. NS 1002)
+content:  2 Corinthians 7:6-11
+lat:      28.5383
+lon:      30.6765
+book:     2 Corinthians
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — 2 Corinthians 7:6-8
+
+r.1      GAP:
+r.2      [παρεκαλεσεν] [ημας] [ο] {θς} ε[ν]
+r.3      [τη] [παρουσια] [τιτου] ου μονον δε
+r.4      [εν] [τη] [παρουσια] αυτου αλλα και εν
+r.5      [τη] [παρακλησει] η παρεκληθη εφ υ—
+r.6      [μιν] [αναγγελ]λων ημιν την υ—
+r.7      [μων] [επιποθησιν] τον υμων
+r.8      [οδυρμον] [τον] [υμω]ν ζηλον υπερ
+r.9      [εμου] [ωστε] [με] [μαλλ]ον χαρηναι
+r.10     [οτι] [ει] [και] [ελυπησα] [υμ]ας ε[ν] τη επι—
+r.11     [στολη] [ου] [μεταμελομ]αι ει δε
+r.12     [και] [μετεμελομην] [βλ]επω οτι η
+
+FOLIO Verso — 2 Corinthians 7:9-11
+
+v.1      GAP:
+v.2      [ελ]υπηθ[ητε] [εις] [μετανοιαν] [ελυ]—
+v.3      [πη]θητε γαρ κατα {θν} [ινα] [εν] [μηδενι]
+v.4      ζημιωθητε εξ η[μων] [η] [γαρ] [κατα]
+v.5      {θν} λυπη μετανο[ιαν] [εις] [σωτηριαν]
+v.6      αμεταμελητον ε[ργαζεται] [η] [δε]
+v.7      του κοσμου λυ[πη] [θανατον] [κατεργα]—
+v.8      ζεται ιδ[ου] [γαρ] [αυτο] [τουτο] [το] [κατα]
+v.9      {θν} λυπηθ[ηναι] [ποσην] [κατειρ]—
+v.10     γασατο [υμιν] [σπουδην] [αλλα] [απο]—
+v.11     λογιαν α[λλα] [αγανακτησιν] [αλλα]
+v.12     [φ]οβον α[λλα] [επιποθησιν] [αλλα]
+
+[TRANSLATION]
+7:6    But God, who comforts the downcast, comforted us by the coming of Titus,
+7:7    and not only by his coming but also by the comfort with which he was comforted by you, as he told us of your longing, your mourning, your zeal for me, so that I rejoiced still more.
+7:8    For even if I made you grieve with my letter, I do not regret it — though I did regret it, for I see that that letter grieved you, though only for a while.
+7:9    As it is, I rejoice, not because you were grieved, but because you were grieved into repenting. For you felt a godly grief, so that you suffered no loss through us.
+7:10   For godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death.
+7:11   For see what earnestness this godly grief has produced in you, but also what eagerness to clear yourselves, what indignation, what fear, what longing, what zeal, what punishment!

@@ -1,0 +1,71 @@
+# ───────────────────────────────────────────────
+# Papyrus 101  (P101)
+# Source: NTVMR docID=10101
+# ───────────────────────────────────────────────
+
+[META]
+id:       P101
+name:     Papyrus 101
+genre:    new-testament
+date:     c. 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Ashmolean Museum, Oxford
+content:  Matthew 3:10-12; 3:16-4:3
+lat:      28.5383
+lon:      30.6765
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [ουν] [δενδρ]ον [μη] [ποιουν]
+r.2      [καρπον] [κ]αλον ε[κκοπτεται]
+r.3      [και] [πρ]ος πυρ βα[λλεται]
+r.4      [εγ]ω μ[εν] [υ]μας β[απτιζω] [εν]
+r.5      [υ]δατι ε[ις] μετα[νοιαν] [ο]
+r.6      [δ]ε ερχο[μ]ενο[ς] [ισχυροτε]—
+r.7      [ρ]ος μου ε[σ]τιν ο[υ] [ουκ] [ειμι]
+r.8      [ι]κανος τ[α] υπο[δηματα]
+r.9      [λ]υ[σ]αι αυτος υμ[ας] [βαπτισει]
+r.10     [ε]ν {πνι} αγ[ιω] κα[ι] [πυρι] [ου] [το]
+r.11     [π]τυον εν τη χ[ειρι] [αυτου]
+r.12     [κ]αι διακαθαρ[ι]ε[ι] [την] [αλω]—
+r.13     [να] αυτου κ[αι] [συναξει] [τον]
+
+FOLIO Verso
+
+v.1      [ειδεν] [τ]ο {πνα} [του] {θυ} [κατα]—
+v.2      [βαινον] ως περιστ[εραν] [και] [ερχο]—
+v.3      [μενον] [ε]π αυτο[ν] [και] [ιδου]
+v.4      [φωνη] [εκ] τω[ν] ο[υραν]ων [λε]—
+v.5      [γουσα] [ου]τ[ο]ς [εστ]ιν ο {υς} μ[ου]
+v.6      [ο] [αγαπη]τος εν ω ηυδοκ[ησα]
+v.7      [τοτε] [ο] {ις} [αν]ηχθ[η] εις την [ερη]—
+v.8      [μον] [υπο] [το]υ {πνς} πειρασθ[η]—
+v.9      [ναι] [υπο] [το]υ διαβολου κ[αι]
+v.10     [νηστευσα]ς {μ} ημερας [και]
+v.11     {μ} [νυκτ]ας υστερον επε[ινα]—
+v.12     [σεν] [και] [πρ]οσελθων ο πει[ρα]—
+v.13     [ζων] [ειπε]ν αυτω ει {υς} [ει] [του]
+v.14     {θυ} [ειπε] [ινα] [οι] λιθοι ουτ[οι]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+3:10  Even now the ax is lying at the root of the trees; every tree therefore that does not bear good fruit is cut down and thrown into the fire.
+3:11  I baptize you with water for repentance, but one who is more powerful than I is coming after me; I am not worthy to carry his sandals. He will baptize you with the Holy Spirit and fire.
+3:12  His winnowing fork is in his hand, and he will clear his threshing floor and will gather his wheat into the granary; but the chaff he will burn with unquenchable fire.
+3:16  And when Jesus had been baptized, just as he came up from the water, suddenly the heavens were opened to him and he saw the Spirit of God descending like a dove and alighting on him.
+3:17  And a voice from heaven said, This is my Son, the Beloved, with whom I am well pleased.
+4:1   Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil.
+4:2   He fasted forty days and forty nights, and afterwards he was famished.
+4:3   The tempter came and said to him, If you are the Son of God, command these stones to become loaves of bread.

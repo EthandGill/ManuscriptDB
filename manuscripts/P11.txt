@@ -1,0 +1,476 @@
+# ───────────────────────────────────────────────
+# Papyrus 11  (P11)
+# Source: NTVMR docID=10011
+# ───────────────────────────────────────────────
+
+[META]
+id:       P11
+name:     Papyrus 11
+genre:    new-testament
+date:     c. 7th century CE
+language: Greek (Koiné)
+found:    Egypt
+held:     Russian National Library, Saint Petersburg (Ms. Gr. 258A)
+content:  1 Corinthians 1:17-7:14 (fragmentary; 17 surviving leaves)
+lat:      28.5383
+lon:      30.6765
+book:     1 Corinthians
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO 1R — 1 Corinthians 1:17-20
+
+r.1      GAP:
+r.2      [σοφια] [λ]ογων ινα μη κε—
+r.3      [νωθη] [ο] σταυρος του {χυ}
+r.4      [ο] [λογο]ς γαρ ο του σταυ—
+r.5      [ρου] [το]ις μεν απολλυ—
+r.6      [μενοι]ς μωρια εστιν
+r.7      [τοις] [δε] σωζομενοις
+r.8      [ημιν] [δ]υναμις {θυ} εστιν
+r.9      [γεγραπ]ται γαρ απολω
+r.10     [την] [σο]φιαν των σοφω[ν]
+r.11     [και] [την] συνεσιν των
+r.12     [συνετω]ν αθετησω
+r.13     [που] [σοφο]ς που γραμμ[α]—
+r.14     [τευς] [πο]υ συνζητητ[ης]
+
+FOLIO 1V — 1 Corinthians 1:20-22
+
+v.1      GAP:
+v.2      του αιωνος το[υτου]
+v.3      ουχι εμωραν[εν] [ο] {θς}
+v.4      την σοφιαν το[υ] [κοσ]—
+v.5      μου τουτου ε[πειδη]
+v.6      γαρ εν τη σοφ[ια] [του]
+v.7      {θυ} ουκ εγνω [ο] [κοσμος]
+v.8      δια της σοφι[ας] [τον]
+v.9      {θν} ηυδοκη[σεν] [ο] {θς} [δια]
+v.10     της μωριας [του] [κη]—
+v.11     ρυγματος σ[ωσαι] [τους]
+v.12     πιστευοντα[ς] [επει]—
+v.13     δη και ιουδα[ιοι] [ση]—
+v.14     [μεια] αιτουσ[ιν] [και]
+
+FOLIO 2R — 1 Corinthians 1:25-27
+
+v.1      GAP:
+v.2      [ασθε]—
+v.3      [νες] του {θυ} [ισχυροτερον] των αν[θρωπων]
+v.4      [βλε]πεται [γαρ] [την] [κλη]—
+v.5      σιν υμων [αδελφοι]
+v.6      [οτι] ου πολλ[οι] [σοφοι]
+v.7      [κατα] [σαρκ]α [ου] [πολλο]ι δυνατοι ου [πολλοι] [ευ]γενεις αλλα τ[α] [μωρα] του κοσμου ε[ξελε]ξατο ο {θς} ινα κα[ταισχυνη] [τ]ους σοφους και
+v.8      [τα] [ασθε]νη του [κοσμου]
+
+FOLIO 3V — 1 Corinthians 2:6-8
+
+v.1      GAP:
+v.2      [αρ]—
+v.3      χοντων [του] [αιωνος]
+v.4      τουτου τω[ν] [καταργου]—
+v.5      μενων αλλ[α] [λαλου]—
+v.6      μεν {θυ} σοφ[ιαν] [εν] [μυσ]—
+v.7      τηριω την [απο]κε—
+v.8      κρυμμενη[ν] ην ου—
+v.9      δις των αρ[χο]ντων
+v.10     του αιωνο[ς] τουτου
+v.11     εγνωκ[ε]ν [ει] [γαρ] [εγνωσαν]
+
+FOLIO 4R — 1 Corinthians 2:9-10
+
+r.1      GAP:
+r.2      [γεγραπται] [α] [οφθαλμ]ος
+r.3      [ουκ] [ειδεν] [και] [ου]ς ου—
+r.4      [κ] [ηκουσεν] [και] [επ]ι καρ—
+r.5      [διαν] {ανου} [ουκ] [α]νεβη
+r.6      [α] [ητοιμασεν] [ο] {θς}
+r.7      [τοις] [αγαπωσιν] [αυτον]
+r.8      [ημιν] [δε] [απεκαλυ]ψεν
+
+FOLIO 4V — 1 Corinthians 2:11-12
+
+v.1      GAP:
+v.2      μη [το] {πνα} [του] {ανου} [το]
+v.3      εν [αυτω] [ουτως] [και]
+v.4      τα [του] {θυ} [ουδεις] [εγνω]—
+v.5      κε[ν] [ει] [μη] [το] {πνα} [του]
+v.6      {θυ} [ημεις] [δε] [ου] [το] {πνα}
+v.7      το[υ] [κοσμου] [ελαβομεν]
+
+FOLIO 5R — 1 Corinthians 2:14
+
+r.1      GAP:
+r.2      [ψυχικος]
+r.3      [δε] {ανος} [ου] δ[εχε]τ[αι]
+r.4      [τα] [του] {πνς} του {θυ} [μω]—
+r.5      [ρια] [γαρ] [α]υτ[ω] [εστιν]
+
+FOLIO 5V — 1 Corinthians 3:1-2
+
+v.1      GAP:
+v.2      [σαρκι]—
+v.3      [νοις] ως ν[ηπιοις] [εν] {χω}
+v.4      [γαλ]α υμα[ς] [εποτισα] [ου]
+v.5      [βρωμ]α [ο]υ[πω] [γαρ] [εδυνα]
+
+FOLIO 6R — 1 Corinthians 3:2-3
+
+r.1      GAP:
+r.2      σθε αλλ ου[δε] [ετι] [νυν]
+r.3      δυνασθαι ετ[ι] [γαρ] [σαρ]—
+r.4      κικοι εστε οπ[ου] [γαρ]
+r.5      εν υμιν ζηλος [και] [ε]—
+r.6      ρις ουχι σαρκ[ικοι]
+
+FOLIO 6V — 1 Corinthians 3:5-6
+
+v.1      GAP:
+v.2      [επιστευσα]—
+v.3      [τε] [και] εκαστω ως
+v.4      [ο] {κς} [εδ]ωκεν εγω ε—
+v.5      [φυτε]υσα απολλως ε—
+v.6      [ποτι]σεν αλλ ο {θς} ηυ—
+v.7      [ξανεν]
+
+FOLIO 7R — 1 Corinthians 3:8-10
+
+v.1      GAP:
+v.2      [ιδιον] μισθον λημ[ψεται] [κατα] τον ιδιο[ν] [κοπον] {θυ} γαρ εσμεν
+v.3      [συνεργοι] {θυ} γεωρ—
+v.4      [γιον] {θυ} οι[κοδ]ομ[η] [εστε] κατα την χαριν
+
+FOLIO 8R — 1 Corinthians 3:20
+
+v.1      GAP:
+v.2      [πα]λιν {κς} [γινωσκει] [του]ς διαλο[γισμους] [των] σοφω[ν] [οτι] [εισιν] [ματαιοι]
+
+FOLIO 9R — 1 Corinthians 4:3-5
+
+r.1      GAP:
+r.2      [αν]—
+r.3      [θρ]ωπιν[ης] [ημερας]
+r.4      αλλ ουδε εμ[αυτον] [α]—
+r.5      νακρινω ου[δεν] [γαρ]
+r.6      εμαυτω συνο[ιδα] [αλ]—
+r.7      λ ουκ εν τουτ[ω] [δεδι]—
+r.8      καιωμαι ο δε [ανακρι]—
+r.9      νων με {κς} εσ[τιν] [ωσ]—
+r.10     τε μη προ καιρ[ου] [τι] [κρι]—
+r.11     νετε εως αν [ελθη] [ο]
+r.12     κς ος και φωτι[σει]
+
+FOLIO 9V — 1 Corinthians 4:5-6
+
+v.1      GAP:
+v.2      [σει] [τας] [β]ουλα[ς] [των]
+v.3      [καρδιων] [κ]αι τοτε ο
+v.4      [επαινο]ς γενησεται
+v.5      [εκαστ]ου απο του {θυ}
+v.6      [ταυτα] δε αδελφοι
+v.7      [μετε]σχηματισα
+v.8      [εις] [ε]μαυτον και
+v.9      [απολ]λω δι υμας
+v.10     [ινα] [ε]ν ημιν μαθητε
+
+FOLIO 10R — 1 Corinthians 4:6-8
+
+r.1      GAP:
+r.2      ουσθε [κατα] [του] [ετε]—
+r.3      ρου τ[ις] [γαρ] [σε] [διακρι]—
+r.4      νει τι δε [εχεις] [ο] [ου]—
+r.5      κ ελαβε[ς] [ει] [δε] [και] [ε]—
+r.6      λαβες τι [καυχασαι]
+r.7      ως μη λα[βων] [ηδη]
+r.8      κεκορε[σμενοι] [εσ]—
+r.9      ται ηδη ε[πλουτησα]—
+r.10     ται χωρ[ις] [ημων] [ε]—
+r.11     βασιλε[υσατε] [και]
+
+FOLIO 10V — 1 Corinthians 4:9-10
+
+v.1      GAP:
+v.2      [ημας] [τους] αποστολους
+v.3      [εσχατ]ους απεδειξεν
+v.4      [ως] [επι]θανατιους ο—
+v.5      [τι] [θεατ]ρον εγεννη—
+v.6      [θημε]ν τω κοσμω
+v.7      [και] [αγ]γελοις και αν—
+v.8      [θρωπ]οις ημεις μω—
+v.9      [ροι] [δια] {χν} υμεις δε
+v.10     [φρονιμοι] εν {κω}
+
+FOLIO 11R — 1 Corinthians 4:12
+
+r.1      GAP:
+r.2      [και]
+r.3      [κο]πιω[μεν] [εργαζο]—
+r.4      [με]νοι ταις [ιδιαις] [χερ]—
+r.5      [σι]ν λοιδορο[υμενοι]
+r.6      [ε]υλογουμεν [διωκο]—
+r.7      [μενοι]
+
+FOLIO 11V — 1 Corinthians 4:13-15
+
+v.1      GAP:
+v.2      [εγενη]—
+v.3      [θημεν] παν[τ]ων πε—
+v.4      [ριψημ]α εως αρτ[ι] ου—
+v.5      [κ] [εντρεπων] [υμ]ας
+v.6      [γραφω] [τα]υτα αλλ
+v.7      [ως] [τεκν]α μου αγα—
+v.8      [πητ]α [νου]θε[τ]ων
+v.9      [εαν] [γαρ] [μυρι]ους
+
+FOLIO 12R — 1 Corinthians 4:16-17
+
+r.1      GAP:
+r.2      μ[ιμηται] [μου] [γινεσ]—
+r.3      θε [δια] [τουτο] [αυτο]
+r.4      ε[πεμψα] [υμιν] [τιμο]—
+r.5      θ[εον] [ος] [εστιν]
+r.6      μ[ου] [τεκνον] [αγαπη]—
+r.7      [τον]
+
+FOLIO 12V — 1 Corinthians 4:18-19
+
+v.1      GAP:
+v.2      [μου] [προς] [υμας] [εφυ]σ—
+v.3      [ιωθησαν] [τινες] [ελευ]—
+v.4      [σομαι] [δε] [ταχεως] [π]ρος
+v.5      [υμας] [εαν] [ο] {κς} [θελ]η—
+v.6      [ση] [και] [γνωσομαι] [ο]υ
+
+FOLIO 13R — 1 Corinthians 4:20-5:1
+
+r.1      GAP:
+r.2      [βασι]—
+r.3      λεια των ο[υρανων]
+r.4      αλλ εν δυνα[μει] [τι]
+r.5      θελεται εν ρ[αβδω]
+r.6      ελθω προς υ[μας] [η]
+r.7      εν αγαπη {πνι} [τε]
+r.8      πραυτητος [ολως] [α]—
+r.9      κουεται εν [υμιν] [πορ]—
+r.10     νια και τοι[αυτη] [πορ]—
+r.11     νια ητις ου[δε] [εν]
+
+FOLIO 13V — 1 Corinthians 5:2-3
+
+v.1      GAP:
+v.2      [και] [υμεις] πεφυσιω—
+v.3      [μενοι] [εστ]ε και ου—
+v.4      [χι] [μαλ]λον επενθη—
+v.5      [σατε] [ι]να αρθη εκ με—
+v.6      [σου] [υ]μων ο το εργον
+v.7      [τουτ]ο π[ρα]ξας εγω
+v.8      [μεν] [γ]α[ρ] [απ]ων τω
+v.9      [σωμα]τι παρων δε
+v.10     [τω] {πνι} ηδη κεκρι—
+v.11     [κα]
+
+FOLIO 14R — 1 Corinthians 5:4-5
+
+r.1      GAP:
+r.2      εμου {πνς} [συν] [τη] [δυ]—
+r.3      ναμει του {κυ} [ημων]
+r.4      {ιυ} {χυ} παραδουναι
+r.5      τον τοιουτον τω
+r.6      σατανα εις ολεθρον
+r.7      της σαρκος ινα το
+
+FOLIO 14V — 1 Corinthians 5:7-8
+
+v.1      GAP:
+v.2      [εκκαθαρατε] [ου]ν την
+v.3      [παλαια]ν ζυμην ινα
+v.4      ητε νεον φυραμα κα—
+v.5      θως εστε αζυμοι
+v.6      [και] [γ]αρ το πασχα η—
+v.7      [μ]ω[ν] ετυθη {χς}
+v.8      ωστε [εορταζωμεν]
+
+FOLIO 15R — 1 Corinthians 6:5-7
+
+r.1      GAP:
+r.2      [ουτως] [ουκ] [εσ]τιν εν
+r.3      [υμιν] [σοφος] [ος] δυνη—
+r.4      [σεται] [διακριναι] [ανα]
+r.5      [μεσον] [του] [αδελφου]
+r.6      [αυτου] [αλλ] [α]δελφος
+r.7      [μετα] [αδελφ]ου κρινε—
+r.8      [ται] [και] [του]το επι απισ—
+r.9      [των] [ηδη] [μεν] [ουν] ολως
+r.10     [ηττημα] [υμιν] [ε]στιν
+r.11     [οτι] [κριματα] [ε]χετε
+
+FOLIO 16V — 1 Corinthians 6:11-12
+
+v.1      GAP:
+v.2      {κυ} {ιυ} {χυ} [και] [εν] [τω]
+v.3      {πνι} [του] {θυ} [ημων]
+v.4      παντα [μοι] [εξεστιν]
+v.5      αλλ [ου] [παντα] [συμφε]—
+v.6      ρει παν[τα] [μοι] [εξεσ]—
+v.7      τι αλλ ο[υκ] [εγω] [εξου]—
+v.8      σιασθ[ησομαι] [υπο]
+v.9      τινο[ς]
+
+FOLIO 17R — 1 Corinthians 6:13-15
+
+r.1      GAP:
+r.2      [ταυτα] καταρ[γησει]
+r.3      [το] [δε] [σωμα] ου τη πορ—
+r.4      [νεια] [αλλα] [τω] {κω} και ο
+r.5      {κς} [τω] [σωμ]ατι ο δε {θς}
+r.6      [και] [τον] {κν} ηγιρεν
+r.7      [και] [ημας] εξεγειρι
+r.8      [δια] [της] δυναμεως
+r.9      [αυτου] [ο]υκ οιδαται
+r.10     [οτι] [τα] σωματ[α] [υ]—
+r.11     [μων] [με]λι {χυ} ε[στιν]
+r.12     [αρας] [ουν] τα μ[ελη]
+r.13     [του] {χυ} ποιη[σω]
+
+FOLIO 17V — 1 Corinthians 6:15-18
+
+v.1      GAP:
+v.2      πορνης μ[ελη] [μη] [γε]—
+v.3      νοιτο [η] [ουκ] [οιδατε]
+v.4      οτι ο κολλωμ[ενος]
+v.5      τη πορνη εν [σωμα]
+v.6      [ε]στιν εσοντ[αι] [γαρ]
+v.7      [φ]ησιν οι δυο [εις] [σαρ]—
+v.8      κ[α] μι[α]ν ο δε [κολλω]—
+v.9      [μ]εν[ο]ς τω {κω} [εν] [πνευ]—
+v.10     [μα] [εσ]τιν φ[ευγε]—
+v.11     [τε] [την] πορν[ειαν] [παν]
+v.12     [αμαρτ]ημα [ο] [εαν] [ποι]—
+v.13     [ηση] [α]νθρ[ωπος] [εκτος]
+
+FOLIO 18R — 1 Corinthians 7:3-4
+
+r.1      GAP:
+r.2      [ανηρ] [την] οφει[λην] [α]—
+r.3      [ποδιδο]τω ομ[οιως]
+r.4      [δε] [κα]ι η γυνη τ[ω] [αν]—
+r.5      δρι η γυνη [του] [ιδιου]
+r.6      σωματος ο[υκ] [εξου]—
+r.7      σιαζει αλλ[α] [ο] [ανηρ] [ο]—
+r.8      μ[ο]ιω[ς] [δε] [και] [ο]
+
+FOLIO 18V — 1 Corinthians 7:5-6
+
+v.1      GAP:
+v.2      [εκ] [συ]μφω[νου] [προς]
+v.3      [καιρον] ινα [σχολαση]—
+v.4      [τε] [τη] [προσευχη] [και]
+v.5      [παλι]ν επι το αυτο η—
+v.6      [τε] [ινα] [μ]η πειραζει
+v.7      [υμας] [ο] [σα]τανας δια
+v.8      [την] [ακρα]σιαν υμων
+v.9      [τουτο] [δε] [λεγ]ω κα[τα]
+
+FOLIO 19V — 1 Corinthians 7:10-11
+
+v.1      GAP:
+v.2      [τοις] [δε] [γεγαμηκο]σι[ν]
+v.3      [παραγγελλω] [ουκ] [ε]γω αλ—
+v.4      [λα] [ο] {κς} [γυνα]ικα απο
+v.5      [ανδρος] [μη] χωρισ—
+v.6      [θηναι] [εαν] [δ]ε και
+
+FOLIO 20R — 1 Corinthians 7:12-14
+
+r.1      GAP:
+r.2      [γυναικα] [εχ]ει απιστ[ον]
+r.3      [και] [αυτη] [σ]υνευδοκει
+r.4      [οικειν] [με]τ αυτου μη
+r.5      [αφιετω] αυτην και
+r.6      [γυνη] [ει] τις εχει ανδρα
+r.7      [απιστο]ν και ουτος
+r.8      [συνευδ]οκει οικειν
+r.9      [μετ] [αυτ]ης μη αφιε—
+r.10     [τω] [τον] [α]νδρα ηγι—
+r.11     [ασται] [γαρ] ο ανηρ ο α—
+r.12     [πιστος] [ε]ν τη [γυ]ναι—
+r.13     [κι] [και] [ηγ]ιασ[ται] [η]
+
+[TRANSLATION]
+1:17   For Christ did not send me to baptize but to preach the gospel, and not with words of eloquent wisdom, lest the cross of Christ be emptied of its power.
+1:18   For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God.
+1:19   For it is written, "I will destroy the wisdom of the wise, and the discernment of the discerning I will thwart."
+1:20   Where is the one who is wise? Where is the scribe? Where is the debater of this age? Has not God made foolish the wisdom of the world?
+1:21   For since, in the wisdom of God, the world did not know God through wisdom, it pleased God through the folly of what we preach to save those who believe.
+1:22   For Jews demand signs and Greeks seek wisdom,
+1:25   For the foolishness of God is wiser than men, and the weakness of God is stronger than men.
+1:26   For consider your calling, brothers: not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth.
+1:27   But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong;
+2:6    Yet among the mature we do impart wisdom, although it is not a wisdom of this age or of the rulers of this age, who are doomed to pass away.
+2:7    But we impart a secret and hidden wisdom of God, which God decreed before the ages for our glory.
+2:8    None of the rulers of this age understood this, for if they had, they would not have crucified the Lord of glory.
+2:9    But, as it is written, "What no eye has seen, nor ear heard, nor the heart of man imagined, what God has prepared for those who love him" —
+2:10   these things God has revealed to us through the Spirit. For the Spirit searches everything, even the depths of God.
+2:11   For who knows a person's thoughts except the spirit of that person, which is in him? So also no one comprehends the thoughts of God except the Spirit of God.
+2:12   Now we have received not the spirit of the world, but the Spirit who is from God, that we might understand the things freely given us by God.
+2:14   The natural person does not accept the things of the Spirit of God, for they are folly to him, and he is not able to understand them because they are spiritually discerned.
+3:1    But I, brothers, could not address you as spiritual people, but as people of the flesh, as infants in Christ.
+3:2    I fed you with milk, not solid food, for you were not ready for it. And even now you are not yet ready,
+3:3    for you are still of the flesh. For while there is jealousy and strife among you, are you not of the flesh and behaving only in a human way?
+3:5    What then is Apollos? What is Paul? Servants through whom you believed, as the Lord assigned to each.
+3:6    I planted, Apollos watered, but God gave the growth.
+3:8    He who plants and he who waters are one, and each will receive his wages according to his labor.
+3:9    For we are God's fellow workers. You are God's field, God's building.
+3:10   According to the grace of God given to me, like a skilled master builder I laid a foundation, and someone else is building upon it.
+3:20   The Lord knows the thoughts of the wise, that they are futile.
+4:3    But with me it is a very small thing that I should be judged by you or by any human court. In fact, I do not even judge myself.
+4:4    For I am not aware of anything against myself, but I am not thereby acquitted. It is the Lord who judges me.
+4:5    Therefore do not pronounce judgment before the time, before the Lord comes, who will bring to light the things now hidden in darkness and will disclose the purposes of the heart.
+4:6    I have applied all these things to myself and Apollos for your benefit, brothers, that you may learn by us not to go beyond what is written, that none of you may be puffed up in favor of one against another.
+4:7    For who sees anything different in you? What do you have that you did not receive? If then you received it, why do you boast as if you did not receive it?
+4:8    Already you have all you want! Already you have become rich! Without us you have become kings!
+4:9    For I think that God has exhibited us apostles as last of all, like men sentenced to death, because we have become a spectacle to the world, to angels, and to men.
+4:10   We are fools for Christ's sake, but you are wise in Christ. We are weak, but you are strong. You are held in honor, but we in disrepute.
+4:12   and we labor, working with our own hands. When reviled, we bless; when persecuted, we endure;
+4:13   when slandered, we entreat. We have become, and are still, like the scum of the world, the refuse of all things.
+4:14   I do not write these things to make you ashamed, but to admonish you as my beloved children.
+4:15   For though you have countless guides in Christ, you do not have many fathers. For I became your father in Christ Jesus through the gospel.
+4:16   I urge you, then, be imitators of me.
+4:17   That is why I sent you Timothy, my beloved and faithful child in the Lord, to remind you of my ways in Christ, as I teach them everywhere in every church.
+4:18   Now some are arrogant, as though I were not coming to you.
+4:19   But I will come to you soon, if the Lord wills, and I will find out not the talk of these arrogant people but their power.
+4:20   For the kingdom of God does not consist in talk but in power.
+4:21   What do you wish? Shall I come to you with a rod, or with love in a spirit of gentleness?
+5:1    It is actually reported that there is sexual immorality among you, and of a kind that is not tolerated even among pagans, for a man has his father's wife.
+5:2    And you are arrogant! Ought you not rather to mourn? Let him who has done this be removed from among you.
+5:3    For though absent in body, I am present in spirit; and as if present, I have already pronounced judgment on the one who did such a thing.
+5:4    When you are assembled in the name of the Lord Jesus and my spirit is present, with the power of our Lord Jesus,
+5:5    you are to deliver this man to Satan for the destruction of the flesh, so that his spirit may be saved in the day of the Lord.
+5:7    Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed.
+5:8    Let us therefore celebrate the festival, not with the old leaven, the leaven of malice and evil, but with the unleavened bread of sincerity and truth.
+6:5    I say this to your shame. Can it be that there is no one among you wise enough to settle a dispute between the brothers,
+6:6    but brother goes to law against brother, and that before unbelievers?
+6:7    To have lawsuits at all with one another is already a defeat for you. Why not rather suffer wrong? Why not rather be defrauded?
+6:11   And such were some of you. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God.
+6:12   "All things are lawful for me," but not all things are helpful. "All things are lawful for me," but I will not be dominated by anything.
+6:13   "Food is meant for the stomach and the stomach for food" — and God will destroy both one and the other. The body is not meant for sexual immorality, but for the Lord, and the Lord for the body.
+6:14   And God raised the Lord and will also raise us up by his power.
+6:15   Do you not know that your bodies are members of Christ? Shall I then take the members of Christ and make them members of a prostitute? Never!
+6:16   Or do you not know that he who is joined to a prostitute becomes one body with her? For, as it is written, "The two will become one flesh."
+6:17   But he who is joined to the Lord becomes one spirit with him.
+6:18   Flee from sexual immorality. Every other sin a person commits is outside the body, but the sexually immoral person sins against his own body.
+7:3    The husband should give to his wife her conjugal rights, and likewise the wife to her husband.
+7:4    For the wife does not have authority over her own body, but the husband does. Likewise the husband does not have authority over his own body, but the wife does.
+7:5    Do not deprive one another, except perhaps by agreement for a limited time, that you may devote yourselves to prayer; but then come together again, so that Satan may not tempt you because of your lack of self-control.
+7:6    Now as a concession, not a command, I say this.
+7:10   To the married I give this charge (not I, but the Lord): the wife should not separate from her husband
+7:11   (but if she does, she should remain unmarried or else be reconciled to her husband), and the husband should not divorce his wife.
+7:12   To the rest I say (I, not the Lord) that if any brother has a wife who is an unbeliever, and she consents to live with him, he should not divorce her.
+7:13   If any woman has a husband who is an unbeliever, and he consents to live with her, she should not divorce him.
+7:14   For the unbelieving husband is made holy because of his wife, and the unbelieving wife is made holy because of her husband.

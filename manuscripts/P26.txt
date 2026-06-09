@@ -1,0 +1,83 @@
+[META]
+id: P26
+name: Papyrus 26
+label: P26
+genre: new-testament
+book: Romans
+lat: 28.5383
+lon: 30.6765
+date: c. late 3rd century CE
+language: Greek (Koiné)
+found: Egypt
+held: Bridwell Library, Southern Methodist University, Dallas TX (P.SMU 4)
+content: Romans 1:1-16
+
+[GREEK]
+FOLIO Folio 1 Recto — Romans 1:1-8
+r.1    [προς] ρωμα[ιους]
+r.2    [παυλος] [δουλ]ος {ιυ} {χυ} κλητος
+r.3    απο[στολος] [αφωρι]σμενος
+r.4    ε[ι]ς ευαγγελι[ον] {θυ}
+r.5    [ο] [προε]πηγγειλα[το] δι[α] [των]
+r.6    [προφητων] [α]υτ[ο]υ εν γραφαις α[γιαις]
+r.7    [περι] [το]υ υιου αυτου
+r.8    [του] [γε]νομενου] εκ [σ]περματος {δα}
+r.9    [κατα] [σαρκα]
+r.10   [του] [ορ]ισθεντος {υυ} {θυ} [εν] [δυναμει]
+r.11   [κατα] {πνα} αγιωσυνης
+r.12   [ε]ξ [α]ναστασεως νεκρων
+r.13   {ιυ} {χυ} [του] {κυ} [ημων]
+r.14   [δι] [ου] ελαβομεν χ[α]ριν
+r.15   [και] [αποστολην] [εις] [υπ]ακοην πιστε[ως]
+r.16   [εν] [πασιν] [τοις] [εθνεσιν] [υπ]ερ τ[ο]υ [ονοματος] [αυτου]
+r.17   [εν] [ο]ις εστε κα[ι] [υ]μεις κλητοι {ιυ} {χυ}
+r.18   [πασιν] [τοι]ς ουσιν [εν] [ρωμη] [αγαπ]ητοις {θυ}
+r.19   κλητοις [αγιοις] [χαρις] [υ]μιν και ειρηνη
+r.20   απο {θυ} {πρς} [ημω]ν [κ]αι {κυ} {ιυ} {χυ}
+r.21   τω {θω} μου δ[ι]α {ιυ} {χυ}
+r.22   [περι] [παντων] [υ]μων οτι η πιστις
+r.23   [υμων] [καταγγελλε]τε εν ολω τω [κοσμω]
+r.24   [μαρτυ]ς γαρ μ[ο]υ [εστιν] [ο]
+
+FOLIO Folio 1 Verso — Romans 1:9-16
+v.1    [ε]υαγγελι{ω} [του] {υυ} [αυτου]
+v.2    [ως] [αδια]λ[ιπτ]ως μνειαν [υμων] [ποιουμαι]
+v.3    [παντ]ο[τε] υπ[ε]ρ [τ]ων [προσευχων] [μου]
+v.4    δ[εο]μ[ε]νο[ς] [ει] [πως] [η]δη [ποτε]
+v.5    [ευοδω]θη[σ]ομαι εν τω [θε][ληματι] [του] {θυ}
+v.6    [ελθειν] προς υμας
+v.7    επιπο[θ][ω] [γαρ] [ιδειν] [υμας]
+v.8    [ι]να τι μεταδ[ω] [χ]αρι[σμα] [υμιν] {πνικον}
+v.9    ε[ι]ς το στιρηχ[θ]ηναι [υμας]
+v.10   [τουτο] [δε] [εστιν] συνπαρακλη[θ]ηναι
+v.11   [εν] [υμιν] [δια] [της] [εν] [αλλ]η[λ]οι[ς]
+v.12   πιστ[εω]ς [υμων] [τε] [και] [εμου]
+v.13   ο[υ] [θελω] [δε] [υμας] [αγνοειν] [αδελφοι]
+v.14   οτι [πολλακις] [προεθεμην] [ελθειν] [πρ]ος [υμ][ας]
+v.15   [και] [εκωλυθην] [αχρι] [του] [δευ]ρο
+v.16   [ινα] [τιν]α [καρπον] [σχω] [και] [εν] [υμιν]
+v.17   κα[θ]ω[ς] κ[αι] [εν] [τ]οις [λ]οιποις [εθνεσιν]
+v.18   [ελ]λ[η]σιν τ[ε] και [β]αρ[βα]ροις
+v.19   [σοφοις] [τε] [και] [α]ν[ν]οη[τοις] [οφ]ιλε[τη][ς] [ειμι]
+v.20   [ουτως] [το] [κατ] [ε]μ[ε] [προ][θυμον]
+v.21   [και] [υμιν] [τοις] [εν] [ρωμη] ε[υαγγε][λισασθαι]
+v.22   [ου] [γαρ] [επαισχυνομαι] [το] [ευ][αγγελι]ον
+v.23   δυ[να][μις] [γαρ] {θυ} [εστιν] [εις] [σωτηριαν]
+
+[TRANSLATION]
+1:1    Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God,
+1:2    which he promised beforehand through his prophets in the holy Scriptures,
+1:3    concerning his Son, who was descended from David according to the flesh
+1:4    and was declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord,
+1:5    through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations,
+1:6    including you who are called to belong to Jesus Christ,
+1:7    To all those in Rome who are loved by God and called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ.
+1:8    First, I thank my God through Jesus Christ for all of you, because your faith is proclaimed in all the world.
+1:9    For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I mention you
+1:10   always in my prayers, asking that somehow by God's will I may now at last succeed in coming to you.
+1:11   For I long to see you, that I may impart to you some spiritual gift to strengthen you —
+1:12   that is, that we may be mutually encouraged by each other's faith, both yours and mine.
+1:13   I do not want you to be unaware, brothers, that I have often intended to come to you (but thus far have been prevented), in order that I may reap some harvest among you as well as among the rest of the Gentiles.
+1:14   I am under obligation both to Greeks and to barbarians, both to the wise and to the foolish.
+1:15   So I am eager to preach the gospel to you also who are in Rome.
+1:16   For I am not ashamed of the gospel, for it is the power of God for salvation…

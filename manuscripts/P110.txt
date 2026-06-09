@@ -1,0 +1,56 @@
+# ───────────────────────────────────────────────
+# Papyrus 110  (P110)
+# Source: NTVMR docID=10110
+# ───────────────────────────────────────────────
+
+[META]
+id:       P110
+name:     Papyrus 110
+genre:    new-testament
+date:     c. 250-350 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Ashmolean Museum, Oxford
+content:  Matthew 10:13-15; 10:25-27
+lat:      28.5383
+lon:      30.6765
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [αξια] [ελθατω] [η] [ει]ρηνη επ αυτην
+r.2      [εαν] [δε] [μη] [η] [α]ξια η ειρηνη υμων
+r.3      [προς] [υμας] [επισ]τραφητω και ος εαν μη
+r.4      [δεξηται] [υμα]ς μηδε ακουση τους λο—
+r.5      [γους] [εξε]ρχομενων υμων της οι—
+r.6      [κιας] [η] [της] [πο]λεως η κωμης εκμαξα—
+r.7      [τε] [τον] [κονιορτο]ν απο των πο[δων]
+
+FOLIO Verso
+
+v.1      [γενη]—
+v.2      ται ως ο [διδασκαλος] [αυτου] [και] [ο] [δουλος]
+v.3      ως ο {κς} αυτου ει [τον] [οικοδεσποτην] ποσω [μαλλον] αυτου μη ουν φ[οβηθητε]
+v.4      αυτους ουδεν γαρ εστιν [κεκαλυμμε]—
+v.5      νον ο ουκ αποκαλυφθ[ησεται] [και]
+v.6      [κρ]υπτον ο ου γνωσθησε[ται] [ο] [λεγω]
+v.7      [υμιν] [εν] [τη] [σ]κο[τια] [ειπατε] [εν] [τω]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+10:13 If the house is worthy, let your peace come upon it; but if it is not worthy, let your peace return to you.
+10:14 If anyone will not welcome you or listen to your words, shake off the dust from your feet as you leave that house or town.
+10:15 Truly I tell you, it will be more tolerable for the land of Sodom and Gomorrah on the day of judgment than for that town.
+10:25 it is enough for the disciple to be like the teacher, and the slave like the master. If they have called the master of the house Beelzebul, how much more will they malign those of his household!
+10:26 So have no fear of them; for nothing is covered up that will not be uncovered, and nothing secret that will not become known.
+10:27 What I say to you in the dark, tell in the light; and what you hear whispered, proclaim from the housetops.

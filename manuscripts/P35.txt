@@ -1,0 +1,48 @@
+# ───────────────────────────────────────────────
+# Papyrus 35  (P35)
+# Source: NTVMR docID=10035
+# ───────────────────────────────────────────────
+
+[META]
+id:       P35
+name:     Papyrus 35
+genre:    new-testament
+date:     c. 300-400 CE
+language: Greek (Koiné)
+found:    Egypt (exact site unknown)
+held:     Biblioteca Medicea Laurenziana, Florence
+content:  Matthew 25:12-15, 20-23
+lat:      26.8206
+lon:      30.8025
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [ει]πεν αμην λεγω [υμιν]
+r.2      [ο]υκ οιδα υμας γρηγο[ρει]—
+r.3      [τα]ι ουν οτι ουκ ο[ι]δα[τε]
+r.4      [τ]η[ν] ημεραν [ουδε] [την]
+r.5      [ωρ]αν ωσπε[ρ] [γα]ρ αν[θρω]—
+r.6      [πο]ς αποδημων ε[καλε]—
+r.7      [σε]ν τους ιδιους δ[ουλους]
+r.8      [και] παρεδωκεν αυ[τοις]
+r.9      [τα] [υ]παρχοντα αυτο[υ] [και]
+r.10     [ω] [μεν] [εδ]ωκεν {ε} ταλ[αντα]
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+FOLIO Recto
+25:12  …he said: "Truly I say to you, I do not know you."
+25:13  Keep watch therefore, because you do not know the day nor the hour.
+25:14  For [it is] just as a man going abroad: he called his own slaves and handed over to them his belongings;
+25:15  and to one he gave five talents …

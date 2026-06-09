@@ -1,0 +1,48 @@
+# ───────────────────────────────────────────────
+# Papyrus 114  (P114)
+# Source: NTVMR docID=10114
+# ───────────────────────────────────────────────
+
+[META]
+id:       P114
+name:     Papyrus 114
+genre:    new-testament
+date:     c. 3rd century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Sackler Library, Oxford (P. Oxy. 4498)
+content:  Hebrews 1:7-12
+lat:      28.5383
+lon:      30.6765
+book:     Hebrews
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto — Hebrews 1:7-12
+
+r.1      GAP:
+r.2      [λειτουρ]—
+r.3      [γους] αυ[του] [πυρος] [φλογα] [προς] [δε] [τον] {υν} [ο] [θρονος]
+r.4      σ[ο]υ ο {θς} [εις] [τον] [αιωνα] [και] [η] [ραβδος] [της] [ευθυτητος]
+r.5      ραβδος [της] [βασιλειας] [σου] [ηγαπησας] [δικαιοσυνην]
+r.6      και εμ[ισησας] [ανομιαν] [δια] [τουτο] [εχρισεν] [σε] [ο] {θς}
+r.7      σου ο {θς} [ελαιον] [αγαλλιασεως] [παρα] [τους] [μετοχους] [σου] [και] [συ]
+r.8      κατ αρχ[ας] {κε} [την] [γην] [εθεμελιωσας] [και] [εργα] [των] [χει]—
+r.9      ρων σου [εισιν] [οι] [ουρανοι] [αυτοι] [απολουνται] [συ] [δε] [δια]—
+r.10     μεν[εις] [και] [παντες] [ως] [ιματιον] [παλαιωθησονται]
+r.11     κα[ι] [ωσει] [περιβολαιον] [ελιξεις] [αυτους] [ως] [ιμα]—
+r.12     τι[ον] [και] [αλλαγησονται] [συ] [δε] [ο] [αυτος] [ει] [και] [τα]
+
+[TRANSLATION]
+1:7    Of the angels he says, "He makes his angels winds, and his ministers a flame of fire."
+1:8    But of the Son he says, "Your throne, O God, is forever and ever, the scepter of uprightness is the scepter of your kingdom.
+1:9    You have loved righteousness and hated wickedness; therefore God, your God, has anointed you with the oil of gladness beyond your companions."
+1:10   And, "You, Lord, laid the foundation of the earth in the beginning, and the heavens are the work of your hands;
+1:11   they will perish, but you remain; they will all wear out like a garment,
+1:12   like a robe you will roll them up, like a garment they will be changed. But you are the same, and your years will have no end."

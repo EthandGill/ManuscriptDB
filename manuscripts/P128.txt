@@ -1,0 +1,27 @@
+[META]
+id: P128
+name: Papyrus 128
+label: P128
+genre: new-testament
+book: John
+lat: 28.5383
+lon: 30.6765
+date: c. 4th-5th century CE
+language: Greek (Koiné)
+found: Egypt
+held: The Metropolitan Museum of Art, New York (Inv. 14.1.527)
+content: John 9:3-4 (partial)
+
+[GREEK]
+FOLIO Recto — John 9:3-4
+r.1    ουτε [οι] [γ][ονεις] [αυτου] [αλλ] [ινα] [φανερω]
+r.2    θη τα [ε]ρ[γ][α] [του] [θεου] [εν] [αυτω]
+r.3    [ημας] [δει] [εργα]ζεσθαι τ[α] [εργα] [του]
+r.4    π[εμψαντος] [με] [ε][ω]ς ημ[ερα] [εστιν]
+r.5    [ε][ρ][χεται] [νυξ] [οτε] [ουδεις]
+r.6    δυνα[τ][αι] [εργαζεσθαι]
+
+[TRANSLATION]
+FOLIO Recto — John 9:3-4
+9:3    …nor his parents; but [it was] so that the works of God might be made manifest in him.
+9:4    We must work the works of the one who sent me while it is day; night is coming, when no one is able to work.

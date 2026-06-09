@@ -1,0 +1,129 @@
+# ───────────────────────────────────────────────
+# Papyrus 37  (P37)
+# Source: NTVMR docID=10037
+# ───────────────────────────────────────────────
+
+[META]
+id:       P37
+name:     Papyrus 37
+genre:    new-testament
+date:     c. 250-300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     University of Michigan, Ann Arbor
+content:  Matthew 26:19-52
+lat:      28.5383
+lon:      30.6765
+book:     Matthew
+
+# Notation:
+#   {word}  = nomen sacrum (rendered with overline)
+#   [word]  = supplied / reconstructed lacuna
+#   word—   = word continues on next line
+#   GAP:    = line not preserved
+
+[GREEK]
+
+FOLIO Recto
+
+r.1      [μαθη]—
+r.2      [ται] [ως] [συν]εταξεν αυ[τοις] [ο] {ιης} [και] [ητοιμασαν] [το] [πασχα]
+r.3      [ο]ψιας δε γενομενης αν[ε]κειτο μετα των {ιβ} [και] [εσθιον]—
+r.4      [τ]ων αυτων ειπεν αμην λεγω υμιν εις εξ υ[μων] [πα]—
+r.5      [ρ]αδωσει με και λυπουμενοι σφοδρα ηρξαντο [λεγειν] [εκα]—
+r.6      [σ]τος αυτων μητι εγω ειμι {κε} ο δε αποκριθε[ις] [ειπεν] [ο] [εμ]—
+r.7      [β]αψας την χειρα μετ εμου εν τω τρυβλιω ουτο[ς] [με] [παραδωσει]
+r.8      ο μεν υιος του ανθρωπου υπαγει καθως γεγραπται [περι] [αυτου]
+r.9      ουαι δε τω ανθρωπω εκεινω δι ου ο υιος του ανθρωπο[υ] [παραδιδοται]
+r.10     καλον ην αυτω ει ουκ ο ανθρωπος εκεινος [αποκριθεις]
+r.11     δε ιουδας ο παραδιδους αυτον ειπεν μητι εγω ειμι ρ[αββι] [λε]—
+r.12     γει [αυτω] [σ]υ ειπας εσθιοντων δε αυτων λαβων ο {ιης} [αρτον]
+r.13     [και] [ευλογ]ησας και δους τοις μαθηταις ε[ιπεν] [λα]—
+r.14     [βετε] [φαγε]τε τουτο εστιν το σωμα μου και λαβων [ποτηριον]
+r.15     [και] [ευχαρ]ιστησας εδωκεν αυτοις λεγων πιετε εξ [αυτου] [παν]—
+r.16     [τες] [τουτ]ο γαρ εστιν το αιμα μου της διαθηκης τ[ο] [περι]
+r.17     [πολλων] εις αφεσιν αμαρτιων λ[εγω] [δε] [υμιν]
+r.18     [ου] [μ]η πιω απ αρτι εκ τουτου γεννηματος της [αμπελου]
+r.19     [εως] [τη]ς ημερας εκεινης οταν αυτο πιω με[θ] [υμων]
+r.20     [καινον] εν τη βασιλεια του πατρος μου και υμνησαντ[ες]
+r.21     [εξηλθ]ον εις το ορος των ελαιων τοτ[ε] λεγει αυτοις ο {ιης}
+r.22     [παντες] υμεις σκανδαλισθησεσθε εν εμοι εν ταυτη τ[η]
+r.23     [νυκτι] ταυτη γεγραπται γαρ παταξω τον ποιμενα κ[αι] [δια]—
+r.24     [σκορπ]ισθησεται τα προβατα της ποιμνης μετα δε το
+r.25     [εγε]ρθηναι με προαξω υμας εις την γαλιλαιαν απο—
+r.26     [κ]ριθεις δε ο πετρος ειπεν ει παντες σκανδαλισθη—
+r.27     [σ]ονται εν σοι εγω ουδεποτε σκανδαλισθησομαι
+r.28     [ε]φη αυτω και ο {ιης} αμην λεγω σοι οτι ταυτη τη νυ—
+r.29     [κ]τι πριν αλεκτοροφ[ωνιας] [τρις] [απαρνησ]η με
+r.30     [λ]ε[γε]ι αυτω ο πετρος κ[αν] [δεη] [με] [συν] [σοι] [αποθανειν]
+r.31     [ο]υ μη σε απαρνησομ[αι] [ομοιως] [και] [παντες] [οι] [μαθηται]
+r.32     ειπον τοτε ερχεται [μετ] [αυτων] [ο] {ιης} [εις] [χωριον] [λεγομενον]
+r.33     γεθσημανει και [λεγει] [τοις] [μαθηταις] [καθισατε] [αυτου]
+
+FOLIO Verso
+
+v.1      [τον] [πετρον] [και] [τους] [δυο] [υιου]ς ζεβεδαιου [ηρ]ξ[ατο] [λυπει]—
+v.2      [σθαι] [και] αδημονειν τοτε λεγει αυτοις περ[ι]λυπος εστιν
+v.3      [η] [ψυχη] [μου] εως θανατου μεινατε [δ]ε ωδε και εγρηγορειτε
+v.4      [μετ] [εμου] [κ]αι προελθων μικρον ε[π]εσεν επι προσωπον αυτου
+v.5      [προσευχομ]ενος και λεγων πατερ μου ει δυνατον εστιν πα—
+v.6      [ρελθατω] [απ] εμου το ποτηριον τουτο πλην ουχ ως εγω θελω
+v.7      [αλλ] [ως] [συ] και ερχεται προς τους μαθητας και ευρισκει αυ—
+v.8      [τους] [κα]θευδοντας και λεγει τω πετρω ουτως ουκ ισχυσα—
+v.9      [τε] [μι]αν ωραν εγρηγορησαι μετ εμου εγρηγορειτε και
+v.10     [προσευ]χεσθε ινα μη ελθητε εις πειρασμον το μεν {πνα}
+v.11     [προθυ]μον η δε σαρξ ασθενης παλιν εκ δευτε[ρου] [προ]—
+v.12     [σηυξα]το λεγων πατερ ει ου δυναται τουτο παρελ[θειν] [εαν]
+v.13     [μη] [αυτ]ο πιω γενηθητω το θελημα σου και ελθω[ν] [παλιν]
+v.14     [ευρεν] αυτους καθευδοντας ησαν γαρ αυτων οι ο[φθαλμοι]
+v.15     [βεβαρ]ημενοι και αφεις αυτους απελθων προσ[ηυξατο]
+v.16     [τον] [αυ]τον λογον ειπων παλιν τοτε ερχεται πρ[ο]ς τ[ους] [μα]—
+v.17     [θητα]ς και λεγει αυτοις καθευδετε το λοιπον και ανα[παυε]—
+v.18     [σθε] [ιδ]ου ηγγικεν η ωρα και ο υιος του ανθρωπου παρ[αδιδοται]
+v.19     εις χειρας αμαρτωλων εγειρεσθε ιδου [ηγγικεν]
+v.20     ο παραδιδους μ[ε] [και] [ε]τι αυτου λαλουντος ιδου ιουδ[ας] [εις]
+v.21     των {ιβ} ηλθεν και μετ αυτου οχλος πολυς μετα [μαχαιρων]
+v.22     και ξυλων απο των αρχιερεων και πρεσβυτερων [του] [λαου]
+v.23     ο δε παραδιδους αυτον εδωκεν αυτοις σημει[ον] [λεγων]
+v.24     ον εαν φιλησω αυτος εστιν κρατησατε αυτον και ευθε—
+v.25     ως προσελθων τω {ιηου} εταιρε εφ ο [παρει]
+v.26     τοτε προσελθοντες επεβαλον τας χειρας επι τον {ιην}
+v.27     και εκρατησαν αυτον και ιδου εις μετα {ιησυ} εκτε[ινας]
+v.28     την χε[ιρ]α α[π]εσ[π]α[σεν] [την] [μα]χαιραν αυτου κα[ι] [πα]—
+v.29     [ταξας] [τον] [δουλον] [του] [α]ρχιερεως αφειλ[εν] [αυ]—
+v.30     [του] [το] [ωτιον] [τοτε] [λεγει] [αυτ]ω ο {ιης} αποστρεψο[ν] [την]
+v.31     [μαχαιραν] [σου] [εις] [τον] [τοπον] αυτης παντες γα[ρ] [οι]
+v.32     [λαβοντες] [μαχαιραν] [εν] [μα]χαιρη απολουντ[α]ι
+
+# ── TRANSLATION ──────────────────────────────────────────────
+
+[TRANSLATION]
+
+26:19  So the disciples did as Jesus had directed them, and they prepared the Passover meal.
+26:20  When it was evening, he took his place with the twelve;
+26:21  and while they were eating, he said, Truly I tell you, one of you will betray me.
+26:22  And they became greatly distressed and began to say to him one after another, Surely not I, Lord?
+26:23  He answered, The one who has dipped his hand into the bowl with me will betray me.
+26:24  The Son of Man goes as it is written of him, but woe to that one by whom the Son of Man is betrayed! It would have been better for that one not to have been born.
+26:25  Judas, who betrayed him, said, Surely not I, Rabbi? He replied, You have said so.
+26:26  While they were eating, Jesus took a loaf of bread, and after blessing it he broke it, gave it to the disciples, and said, Take, eat; this is my body.
+26:27  Then he took a cup, and after giving thanks he gave it to them, saying, Drink from it, all of you;
+26:28  for this is my blood of the covenant, which is poured out for many for the forgiveness of sins.
+26:29  I tell you, I will never again drink of this fruit of the vine until that day when I drink it new with you in my Father's kingdom.
+26:30  When they had sung the hymn, they went out to the Mount of Olives.
+26:36  Then Jesus went with them to a place called Gethsemane; and he said to his disciples, Sit here while I go over there and pray.
+26:37  He took with him Peter and the two sons of Zebedee, and began to be grieved and agitated.
+26:38  Then he said to them, I am deeply grieved, even to death; remain here, and stay awake with me.
+26:39  And going a little farther, he threw himself on the ground and prayed, My Father, if it is possible, let this cup pass from me; yet not what I want but what you want.
+26:40  Then he came to the disciples and found them sleeping; and he said to Peter, So, could you not stay awake with me one hour?
+26:42  Again he went away for the second time and prayed, My Father, if this cannot pass unless I drink it, your will be done.
+26:43  Again he came and found them sleeping, for their eyes were heavy.
+26:44  So leaving them again, he went away and prayed for the third time, saying the same words.
+26:45  Then he came to the disciples and said to them, Are you still sleeping and taking your rest? See, the hour is at hand, and the Son of Man is betrayed into the hands of sinners.
+26:46  Get up, let us be going. See, my betrayer is at hand.
+26:47  While he was still speaking, Judas, one of the twelve, arrived; with him was a large crowd with swords and clubs, from the chief priests and the elders of the people.
+26:48  Now the betrayer had given them a sign, saying, The one I will kiss is the man; arrest him.
+26:49  At once he came up to Jesus and said, Greetings, Rabbi! and kissed him.
+26:50  Jesus said to him, Friend, do what you are here to do. Then they came and laid hands on Jesus and arrested him.
+26:51  Suddenly, one of those with Jesus put his hand on his sword, drew it, and struck the slave of the high priest, cutting off his ear.
+26:52  Then Jesus said to him, Put your sword back into its place; for all who take the sword will perish by the sword.
