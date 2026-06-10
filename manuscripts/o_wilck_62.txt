@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 62 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;62  (Trismegistos 76640)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 62
+label:    O.Wilck. 62
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     100/101 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13980 (5790m)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76640
+source:   https://papyri.info/ddbdp/o.wilck;;62
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Πετεῦρις Πετεύρεω(ς)
+r.2   λινοπόλης ὑπ(ὲρ) λαογραφ(ίας)
+r.3   τετάρτου (ἔτους) Τραειανοῦ
+r.4   τοῦ κυρίου τὰς λυπὰ(ς) (δραχμὰς) θ.
+r.5   Ἑρμογένης πράκ(τωρ) ἔγραψα.
+
+[TRANSLATION]
+1   Peteuris son of Peteuris paid,
+2   linen-seller, for the poll-tax
+3   of the fourth year of Trajan
+4   the lord, the remaining 9 drachmas.
+5   I, Hermogenes, the collector, wrote (this).

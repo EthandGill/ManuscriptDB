@@ -1,0 +1,78 @@
+# ───────────────────────────────────────────────
+# BGU 3 697  — customs receipt (alum transport-tax)
+# Source: papyri.info DDbDP bgu;3;697  (Trismegistos 9301)
+# Scraped via Firecrawl; apparatus lines trimmed, papyri.info brackets
+# converted to ManuscriptDB notation, every-5 line markers stripped.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.697
+label:    BGU 3.697
+name:     Customs receipt — alum transport-tax
+genre:    receipts
+date:     145 CE
+language: Greek (Koiné)
+found:    Arsinoite nome, Fayum, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 6956
+content:  Customs receipt: transport-tax on alum carried from the Small Oasis into the Arsinoite
+tm:       9301
+source:   https://papyri.info/ddbdp/bgu;3;697
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    ἔτους ἐνάτου Αὐτοκράτορος
+r.2    Καίσαρος Τίτου Αἰλίου Ἁδριανοῦ
+r.3    Ἀντωνίνου Σεβαστοῦ Εὐσεβοῦς Τῦβι
+r.4    γ δι(ὰ) τῆς Σαβείνου τραπέζης
+r.5    Ταμείων Ἰσχυρίων Ἀφροδ(ισίου) καὶ οἱ
+r.6    σὺν αὐτῷ ἐπιτη(ρηταὶ) στυβ Ἀρσι(νοίτου)
+r.7    Πανούφι Τεσενούφεως μη(τρὸς) Στοτοή(τεως)
+r.8    ἀπὸ κώμης Σοκνο(παίου) Νήσου Ἡρακλ(είδου)
+r.9    μερίδος καμηλοτρόφῳ ἀπέχει(ν) αὐτο[ν]
+r.10   τέλος ὧν παρεκόμισεν ἀπὸ Ὀάσεως
+r.11   Μεικρᾶς δι(ὰ) πύλης Νύνπου εἰς Ἀρσι(νοίτην)
+r.12   στυπτη[ρίας] ψιλῶν ταλάντων τριάκον-
+r.13   τα, ὡς τοῦ (ταλάντου) α (δραχμὴ) α (τριώβολον), (δραχμαὶ) με, τὰ γεινόμε[να]
+r.14   μεταλλικὰ (τάλαντα) ιβ, φορέτρου αὐτῶν
+r.15   ἐκ (δραχμῶν) ζ (τριωβόλου), (δραχμὰς) ϙ, τὰς συναγομ(ένας) ἀργ(υρίου) (δραχμὰς) ρλε.
+r.16   παρείληφεν δὲ ὁ Ἰσχυρίων παρ' ἐπιτ(ηρητῶν)
+r.17   Ὀάσεως Μεικ(ρᾶς) δι' οὗ προγ(έγραπται) καμηλο(τρόφου)
+r.18   τας τῆς στυβ(τηρίας) μετα(λλικὰ) (τάλαντα) ιβ
+r.19   ἐκ ( ) τὰς συνήθ(ως) διδομ(ένας) (ἑκατοστὰς) ἓξ ἥμυ[συ]
+r.20   (hand 2) Ἰσχυρίων ἐπιτηρητὴς σὺν ἑ-
+r.21   τέροις παρελάβαμεν τας τῆς
+r.22   στυβτηρίας τάλαντα μετα[λ-]
+r.23   λικὰ δέκα δύο, τὰ γεινόμε-
+r.24   να ψειλὰ τάλαντα τριάκ[ον-]
+r.25   τα, ὧν τὸ τέλος καὶ τὰ φόλε[τρα]
+r.26   ἀποδεδώκαμεν.
+
+[TRANSLATION]
+1    In the ninth year of Imperator
+2    Caesar Titus Aelius Hadrianus
+3    Antoninus Augustus Pius, Tybi
+4    3, through the bank of Sabinus.
+5    Tameia(?): Ischyrion son of Aphrodisios and the
+6    overseers with him of the alum(-tax) of the Arsinoite —
+7    Panouphis son of Tesenouphis, mother Stotoetis,
+8    from the village of Soknopaiou Nesos, Herakleides
+9    division, camel-driver — (acknowledge) that he has paid in full
+10   the toll on what he transported from the Small
+11   Oasis through the gate of Nynpos into the Arsinoite:
+12   of crude alum, thirty talents,
+13   at 1 drachma 3 obols per talent = 45 drachmas; the resulting
+14   metallic talents, 12; for their freight,
+15   at 7 drachmas 3 obols = 90 drachmas; total collected, 135 silver drachmas.
+16   And Ischyrion has received from the overseers
+17   of the Small Oasis, through the aforesaid camel-driver,
+18   the … of the alum, 12 metallic talents,
+19   from … the customarily given six and a half percent(?).
+20   (2nd hand) I, Ischyrion, overseer, together with
+21   others, have received the … of the
+22   alum, twelve metallic
+23   talents, the resulting
+24   thirty crude talents,
+25   of which the toll and the freight charges
+26   we have paid in full.

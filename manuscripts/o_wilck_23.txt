@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 23 — tax receipt (weavers' trade-tax)
+# Source: papyri.info DDbDP o.wilck;;23  (Trismegistos 24735)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 23
+label:    O.Wilck. 23
+name:     Tax receipt — weavers' trade-tax
+genre:    receipts
+date:     72 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities A.T. 87 b
+content:  Ostracon tax receipt — weavers' trade-tax, Syene/Elephantine
+tm:       24735
+source:   https://papyri.info/ddbdp/o.wilck;;23
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγρ(αψεν) Φενῶυπις Παχομπαουον(νώφριος)
+r.2   ὑπ(ὲρ) χι(ρωναξίου) λινύφω(ν) παστοφω(ρων) τετάρτου (ἔτους)
+r.3   Οὐεσπασσιανοῦ τοῦ κυρίου Μεσορὴ
+r.4   λ ἀργυ(ρίου) δραχ(μὰς) δεκαδυω , (γίνονται) ιβ.
+r.5   Μελάνθις Ἑρμοδότου ἔγραψα.
+
+[TRANSLATION]
+1   Has paid: Phenoupis son of Pachompaouonnophris,
+2   for the trade-tax of the linen-weavers (and) pastophoroi, fourth year
+3   of Vespasian the lord, Mesore
+4   30: twelve silver drachmas — total 12.
+5   I, Melanthis son of Hermodotos, wrote (this).

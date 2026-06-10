@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 3 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;3  (Trismegistos 24732)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 3
+label:    O.Wilck. 3
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     19 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities B.A. 200
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       24732
+source:   https://papyri.info/ddbdp/o.wilck;;3
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διαγεγράφ(ηκε)
+r.2   Ζμηύθιος Παχνούβιος
+r.3   ὑπ(ὲρ) λαογραφ(ίας) τοῦ πέμτου (ἔτους)
+r.4   Τιβερίου Καίσαρος Σεβαστοῦ
+r.5   Φαρμοῦθι κζ ἀργυ(ρίου) δραχ(μὰς) ὀκτώι ,(γίνονται) (δραχμαὶ) η.
+r.6   (hand 2) Ἀπολ(λώνιος) ἐπηκολ(ούθηκα).
+
+[TRANSLATION]
+1   Has paid:
+2   Zmeuthis son of Pachnoubis,
+3   for the poll-tax of the fifth year
+4   of Tiberius Caesar Augustus,
+5   Pharmouthi 27: eight silver drachmas — total 8 dr.
+6   (2nd hand) I, Apollonios, have checked it.

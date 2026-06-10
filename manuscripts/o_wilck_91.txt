@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 91 — tax receipt (river-guard tax (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;91  (Trismegistos 76669)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 91
+label:    O.Wilck. 91
+name:     Tax receipt — river-guard tax (potamophylakis)
+genre:    receipts
+date:     114 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Rome, Vatican, Biblioteca del Vaticano Gr. 3
+content:  Ostracon tax receipt — river-guard tax (potamophylakis), Syene/Elephantine
+tm:       76669
+source:   https://papyri.info/ddbdp/o.wilck;;91
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀμώνιο(ς) καὶ Διονύ[σιος]
+r.2   ἐπιτ(ηρηταὶ). διέγραψεν Π(ε)τορ[ζμῆθις ]
+r.3   μη(τρὸς) Σενπαζμ(ῆ)θις Δακικοῦ π[οταμοῦ καὶ]
+r.4   μισθοῦ ποταμ(ο)φυλ(ακίδος) ιζ (ἔτους) Τραιανοῦ
+r.5   ἀργ(υρίου) δραχ(μὰς) ἕξ ὀβ(ο)λ(οὺς) πέντ(ε) <(γίνονται)> (δραχμαὶ) ϛ(πεντώβολον). (ἔτους) [ιζ]
+r.6   Τραιανοῦ Καίσαρος τοῦ κυρίου Μεσο[ρὴ ]
+
+[TRANSLATION]
+1   Ammonios and Dionysios,
+2   overseers. Paid: P(e)tor[zmethis …],
+3   mother Senpazmethis, for the Dakikon-r[iver (tax) and]
+4   the rent of the river-guard, 17th year of Trajan:
+5   six silver drachmas, five obols — total 6 dr. 5 ob. Year [17]
+6   of Trajan Caesar the lord, Meso[re …].

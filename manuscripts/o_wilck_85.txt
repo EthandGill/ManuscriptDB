@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 85 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;85  (Trismegistos 76663)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 85
+label:    O.Wilck. 85
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     113 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13985 (5791e)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76663
+source:   https://papyri.info/ddbdp/o.wilck;;85
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Παχνοῦμις
+r.2   Φανώφε(ως) μητ(ρὸς) Ταχουμτβῆκις
+r.3   ὑπ(ὲρ) λαογραφ(ίας) τοῦ ιε (ἔτους) Τραιανοῦ
+r.4   τοῦ κυρίου δραχ(μὰς) δέκα ἑπτὰ καὶ
+r.5   ὑπ(ὲρ) διπλῶ(ν) ὀβολ(οὺς) δύο χ(αλκοῦς) β (γίνονται) (δραχμαὶ) ιζ(διώβολον) χ(αλκοῖ) β.
+r.6   (ἔτους) ιϛ Τραιανοῦ τοῦ κυρίου Μεχ(ὶρ) ιθ
+r.7   δι(ὰ) Λουκί(ου) Αὐρηλί(ου) ἐπιτη(ρητοῦ).
+
+[TRANSLATION]
+1   Pachnoumis (son of)
+2   Phanophis, mother Tachoumtbekis, paid,
+3   for the poll-tax of the 15th year of Trajan
+4   the lord: seventeen drachmas, and
+5   for the surcharge (diplon), two obols (and) two chalkoi — total 17 dr. 2 ob. 2 ch.
+6   Year 16 of Trajan the lord, Mecheir 19,
+7   through Lucius Aurelius the overseer.

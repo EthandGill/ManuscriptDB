@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 16 — tax receipt (monthly trade-tax)
+# Source: papyri.info DDbDP o.wilck;;16  (Trismegistos 76597)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 16
+label:    O.Wilck. 16
+name:     Tax receipt — monthly trade-tax
+genre:    receipts
+date:     60 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Rome, Vatican, Biblioteca del Vaticano Gr. 1
+content:  Ostracon tax receipt — monthly trade-tax, Syene/Elephantine
+tm:       76597
+source:   https://papyri.info/ddbdp/o.wilck;;16
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διαγεγράφη(κεν) Θαῆσις Ὀρσενοῦφις γυνὴ
+r.2   Ψενμώνθου ὑπ(ὲρ) χειροναξίο(υ) μη(νιαίου) ζ (ἔτους) Θὼτ
+r.3   Φαῶφι Ἁθὺρ μη(νῶν) γ δραχ(μὰς) τέσσαρες (δραχμὰς) δ.
+r.4   (ἔτους) ζ Νέρωνος τοῦ κυρίου Χοίαχ ε.
+
+[TRANSLATION]
+1   Has paid: Thaesis (daughter of) Orsenouphis, wife
+2   of Psenmonthes, for the monthly trade-tax, 7th year — Thoth,
+3   Phaophi, Hathyr (= 3 months): four drachmas, 4 dr.
+4   Year 7 of Nero the lord, Choiak 5.

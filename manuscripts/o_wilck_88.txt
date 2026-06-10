@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 88 — tax receipt (palm-grove land-tax)
+# Source: papyri.info DDbDP o.wilck;;88  (Trismegistos 76666)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 88
+label:    O.Wilck. 88
+name:     Tax receipt — palm-grove land-tax
+genre:    receipts
+date:     114 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13968 (5790t)
+content:  Ostracon tax receipt — palm-grove land-tax, Syene/Elephantine
+tm:       76666
+source:   https://papyri.info/ddbdp/o.wilck;;88
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Τιβ(έριος) Κλαύδ(ιος) Εὐήμερος καὶ Μάριος
+r.2   Μάξιμος μισθωταὶ πύλης ἱερᾶς
+r.3   Σοή(νης). διέγ(ραψεν) Πετορζμῆθις Παχομ-
+r.4   βιήγχ(ιος) ὑπ(ὲρ) γεομ(ετρίας) φοι(νικῶνος) ιϛ (ἔτους) δραχ(μὰς)
+r.5   δέκα πέντε ὀβολ(οῦ) ἥμισυ \πέντε/ δίχαλκ(ον)
+r.6   [(γίνονται) (δραχμαὶ) ι]ε (ἡμιωβέλιον) χ(αλκοῖ) β. (ἔτους) ιζ Τραιανοῦ Καίσαρος
+r.7   [τοῦ κυρίο]υ Τῦβι ιβ.
+r.8   (hand 2) [ δρ]αχ(μὰς) δέκα πέντε ὀβολ(οῦ) ἥμισυ \πέντε/
+r.9   [δίχαλκον] (γίνονται) (δραχμαὶ) ιε (ἡμιωβέλιον) χ(αλκοῖ) β.
+
+[TRANSLATION]
+1   Tiberius Claudius Euemeros and Marius
+2   Maximus, lessees of the Sacred Gate
+3   of Syene. Paid: Petorzmethis son of Pachom-
+4   biegchis, for the land-survey tax on a palm-grove of the 16th year: drachmas
+5   fifteen, half an obol, two chalkoi,
+6   [total 1]5 dr., ½ ob., 2 chalkoi. Year 17 of Trajan Caesar
+7   [the lor]d, Tybi 12.
+8   (2nd hand) […] fifteen drachmas, half an obol,
+9   [two chalkoi] — total 15 dr., ½ ob., 2 chalkoi.

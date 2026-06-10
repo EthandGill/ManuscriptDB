@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 79 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;79  (Trismegistos 76657)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 79
+label:    O.Wilck. 79
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     107 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Bibliothèque Nationale. Cabinet des Médailles number unknown
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76657
+source:   https://papyri.info/ddbdp/o.wilck;;79
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Πετροσζμῆθ(ις) Φαν[ώ-]
+r.2   φεος μ(ητρὸς) Τισᾶτις ὑπ(ὲρ) λαογραφ(ίας)
+r.3   δεκάτου (ἔτους) Τραειανοῦ
+r.4   Καίσαρος τοῦ κυρίου ἀργ(υρίου)
+r.5   (δραχμὰς) δέκα ἑπτὰ (γίνονται) (δραχμαὶ) ιζ. Ἑρμογέ-
+r.6   νης Ἀμμωνᾶτ(ος) πράκ(τωρ) ἔγραψα
+r.7   τοῦ κυρίου Φαρμοῦθι
+r.8   ιϛ.
+
+[TRANSLATION]
+1   Petroszmethis son of Phan-
+2   ophis, mother Tisatis, paid, for the poll-tax
+3   of the tenth year of Trajan
+4   Caesar the lord: silver
+5   seventeen drachmas — total 17 dr. I, Hermoge-
+6   nes son of Ammonas, the collector, wrote (this),
+7   (of the year) of the lord, Pharmouthi
+8   16.

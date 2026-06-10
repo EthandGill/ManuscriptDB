@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 72 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;72  (Trismegistos 76650)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 72
+label:    O.Wilck. 72
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     104 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13995 (5790n)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76650
+source:   https://papyri.info/ddbdp/o.wilck;;72
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Πετροσζμῆθ(ις) Φενώφε(ως) Θρακίδ(ας)
+r.2   ὑπ(ὲρ) λαογραφ(ίας) ἑβδώμου (ἔτους)
+r.3   Τραειανοῦ Καίσαρος τοῦ
+r.4   κυρίου ἐπὶ λ(όγου) (δραχμὰς) ὀκτὼ (γίνονται) (δραχμαὶ) η Μεσορὴ λ.
+r.5   ὡ αὐτὸς τὰς λυπὰς (δραχμὰς) ἐννέα (γίνονται) (δραχμαὶ) θ.
+r.6   καὶ ὑπ(ὲρ) ἀνδ(ριάντος) τριόβολ(ον) . Ἑρμογένης πράκ(τωρ)
+r.7   ἔγραψα.
+
+[TRANSLATION]
+1   Petroszmethis son of Phenophis, Thrakidas, paid,
+2   for the poll-tax of the seventh year
+3   of Trajan Caesar the
+4   lord, on account eight drachmas — total 8 dr., Mesore 30.
+5   The same, the remaining nine drachmas — total 9 dr.,
+6   and for the statue, three obols. I, Hermogenes, the collector,
+7   wrote (this).

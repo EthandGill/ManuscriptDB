@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# BGU 3 704 — tax receipt (dike-tax), Soknopaiou Nesos
+# Source: papyri.info DDbDP bgu;3;704  (Trismegistos 9303)
+# Scraped via Firecrawl; apparatus trimmed, brackets/markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.704
+label:    BGU 3.704
+name:     Tax receipt — dike-tax (chomatikon)
+genre:    receipts
+date:     162 CE
+language: Greek (Koiné)
+found:    Soknopaiou Nesos, Fayum, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 8792
+content:  Receipt for payment of the dike-tax, paid through the collectors of Soknopaiou Nesos
+tm:       9303
+source:   https://papyri.info/ddbdp/bgu;3;704
+lat:      29.5377
+lon:      30.6856
+
+[GREEK]
+r.1   ἔτους δευ[τέρου Ἀντω]νίνου
+r.2   καὶ Οὐήρου τ[ῶν κ]υρίων
+r.3   Σεβαστῶν Ἐπὶφ ιβ. διέγρ(αψε)
+r.4   δι(ὰ) Σαταβ(οῦτος) καὶ μετόχ(ων) πρακ(τόρων) Σοκ(νοπαίου)
+r.5   Νήσου Πανεφρέ(μμις) Στοτοή(τεως) τοῦ
+r.6   Πανεφρέ(μμεως) μη(τρὸς) Τανεφρέ(μμεως)
+r.7   χωμάτ(ων) πρ[ώτ]ου ἔτους
+r.8   (δραχμὰς) ἓξ (τετρώβολον) (γίνονται) (δραχμαὶ) ϛ (τετρώβολον) (ἡμιωβέλιον) προσδ(ιαγραφόμενα)
+r.9   συμβολ(ικὰ)
+
+[TRANSLATION]
+1   In the second year of Antoninus
+2   and Verus, the lords
+3   Augusti, Epeiph 12. Paid,
+4   through Satabous and his fellow collectors of Soknopaiou
+5   Nesos, by Panephremmis son of Stotoetis son of
+6   Panephremmis, mother Tanephremmis,
+7   for the dike-tax of the first year:
+8   six drachmas four obols — total 6 dr. 4 ob. ½ ob.; additional charges,
+9   receipt-fee.

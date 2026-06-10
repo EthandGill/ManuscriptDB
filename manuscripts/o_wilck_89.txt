@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 89 — tax receipt (river-guard tax (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;89  (Trismegistos 76667)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 89
+label:    O.Wilck. 89
+name:     Tax receipt — river-guard tax (potamophylakis)
+genre:    receipts
+date:     114 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14047 (5791n)
+content:  Ostracon tax receipt — river-guard tax (potamophylakis), Syene/Elephantine
+tm:       76667
+source:   https://papyri.info/ddbdp/o.wilck;;89
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀμμώνιο(ς) καὶ Διονύσιο(ς) πράκ(τορες) ἀργ(υρικῆς) Σοή(νης).
+r.2   διέγραψεν Παχνοῦβις Φανώφιος
+r.3   μη(τρὸς) Ταχομτβῆκις υ
+r.4   καὶ μισθο(ῦ) [πο]ταμ(ο)φυλ(ακίδος) ιζ (ἔτους) Τραιανοῦ
+r.5   τοῦ κυρίου ἀργ(υρίου) δραχ(μὰς) ἓξ ὀβολ(οὺς) πέντε κ [ ]
+r.6   (γίνονται) (δραχμαὶ) ϛ(πεντώβολον). (ἔτους) ιζ Τραιανοῦ τοῦ κυρίου
+r.7   Μεσορὴ κζ.
+
+[TRANSLATION]
+1   Ammonios and Dionysios, collectors of the money-tax of Syene.
+2   Paid: Pachnoubis son of Phanophis,
+3   mother Tachomtbekis, for(?)
+4   and the rent of the river-guard, 17th year of Trajan
+5   the lord: six silver drachmas, five obols […]
+6   total 6 dr. 5 ob. Year 17 of Trajan the lord,
+7   Mesore 27.

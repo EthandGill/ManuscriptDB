@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 21 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;21  (Trismegistos 76602)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 21
+label:    O.Wilck. 21
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     68 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Bibliothèque Nationale. Cabinet des Médailles number unknown
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76602
+source:   https://papyri.info/ddbdp/o.wilck;;21
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διαγεγράφ(ηκεν) Πε-
+r.2   λαίας Παχυμπι-
+r.3   λοὺς ὑπ(ὲρ) λαογραφ(ίας) α (ἔτους)
+r.4   Λούκιος Γαλβᾶ
+r.5   Καίσαρος τοῦ κυρίου
+r.6   Μεσορὴι ιδ ἀργ(υρίου)
+r.7   δραχ(μὰς) δέκα ἕξ
+r.8   (γίνονται) (δραχμαὶ) ιϛ.
+
+[TRANSLATION]
+1   Has paid: Pe-
+2   laias son of Pachympi-
+3   lous, for the poll-tax of the 1st year
+4   of Lucius Galba
+5   Caesar the lord,
+6   Mesore 14, silver
+7   drachmas sixteen —
+8   total 16 dr.

@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 12 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;12  (Trismegistos 76593)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 12
+label:    O.Wilck. 12
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     46 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76593
+source:   https://papyri.info/ddbdp/o.wilck;;12
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διαγρεγράφη(κεν)
+r.2   Ἑρ[π]αῆσις ο [ ]
+r.3   καὶ Ψενταβλε [ ὑπ(ὲρ)]
+r.4   λαγραφ(ίας) ἕκτου (ἔτους) Τιβ[ερίου]
+r.5   Κλαυδίου Καίσαρος Σ[εβαστοῦ]
+r.6   Γερμανικοῦ Αὐτοκράτο[ρος]
+r.7   Μεσορὴ λ δ[ρ]αχ(μὰς) ὀκτ(ὼ) (γίνονται) (δραχμαὶ) η.
+r.8   Ἀμμώνιος Λυσιμάχου
+r.9   ἔγραψα.
+
+[TRANSLATION]
+1   Has paid:
+2   Herpaesis […]
+3   and Psentable[…], for
+4   the poll-tax of the sixth year of Tiberius
+5   Claudius Caesar Augustus
+6   Germanicus Imperator,
+7   Mesore 30: eight drachmas — total 8 dr.
+8   Ammonios son of Lysimachos,
+9   I wrote (this).

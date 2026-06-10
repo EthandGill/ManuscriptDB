@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 15 — tax receipt (palm-grove land-tax)
+# Source: papyri.info DDbDP o.wilck;;15  (Trismegistos 76596)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 15
+label:    O.Wilck. 15
+name:     Tax receipt — palm-grove land-tax
+genre:    receipts
+date:     59 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5822
+content:  Ostracon tax receipt — palm-grove land-tax, Syene/Elephantine
+tm:       76596
+source:   https://papyri.info/ddbdp/o.wilck;;15
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Ῥο]υφώνιος Ἀντίγο(νος). διαγεγρ(άφηκεν)
+r.2   ς Ζμήθ(ιος) ὑπὲρ
+r.3   γεομ(ετρίας) φοινικ(ῶνος) δ (ἔτους) δραχ(μὰς)
+r.4   δύο ὀβολ(ὸν) ἡμιώβ(ολον) (γίνονται) (δραχμαὶ) β (ὀβολὸς) α𐅵.
+r.5   (ἔτους) ε Νέρωνος Καίσαρος
+r.6   τοῦ κυρίου Φαρμ(οῦθι) κ.
+
+[TRANSLATION]
+1   [Ro]uphonios Antigonos (bank). Has paid:
+2   …s son of Zmethis, for
+3   the land-survey tax on a palm-grove, 4th year: drachmas
+4   two, one and a half obols — total 2 dr. 1½ ob.
+5   Year 5 of Nero Caesar
+6   the lord, Pharmouthi 20.

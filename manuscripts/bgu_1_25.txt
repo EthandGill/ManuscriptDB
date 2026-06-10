@@ -1,0 +1,55 @@
+# ───────────────────────────────────────────────
+# BGU 1 25 — tax receipt: altar-tax paid to the public bank, Soknopaiou Nesos, 200 CE
+# Source: papyri.info DDbDP bgu;1;25  (Trismegistos 9005)
+# Scraped via Firecrawl; apparatus & a stray cross-reference line trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 1.25
+label:    BGU 1.25
+name:     Tax receipt — altar-tax
+genre:    receipts
+date:     200 CE
+language: Greek (Koiné)
+found:    Soknopaiou Nesos, Fayum, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 6877
+content:  Tax-collectors of Soknopaiou Nesos report payment of 400 dr. altar-tax into the public bank
+tm:       9005
+source:   https://papyri.info/ddbdp/bgu;1;25
+lat:      29.5377
+lon:      30.6856
+
+[GREEK]
+r.1    Δημητρίῳ στρ(ατηγῷ) Ἀρσι(νοίτου)
+r.2    Ἡρακλ(είδου) μερίδος
+r.3    παρὰ Ἁρπάλου κ[α]ὶ μετόχ(ων)
+r.4    πρακ(τόρων) ἀργυ(ρικῶν) κώμης Σοκνοπ(αίου)
+r.5    Νήσου. [δ]ιεγρ(άψαμεν) ἐπὶ τὴν δ[η]μοσί-
+r.6    αν τράπεζαν εἰς ἀρίθμησιν
+r.7    μηνὸς Παῦνι τοῦ ἐνεστῶτος
+r.8    η (ἔτους) ὑπ(ὲρ) φόρου βω<μ>ῶν
+r.9    δραχμὰς τετρακοσίας
+r.10   (γίνονται) (δραχμαὶ) υ
+r.11   (ἔτους) η Λουκίου Σεπτιμίου
+r.12   Σεουήρου Εὐσεβοῦς
+r.13   Περτίνακος καὶ Μάρκου
+r.14   Αὐρηλίου Ἀντ[ω]νίνου
+r.15   Σεβα[σ]τῶν. Ἐπεὶφ α
+
+[TRANSLATION]
+1    To Demetrios, strategos of the Arsinoite,
+2    Herakleides division,
+3    from Harpalos and his fellow
+4    collectors of money-taxes of the village of Soknopaiou
+5    Nesos. We have paid into the pub-
+6    lic bank, for the account
+7    of the month Pauni of the present
+8    8th year, for the tax on altars,
+9    four hundred drachmas
+10   total 400 dr.
+11   Year 8 of Lucius Septimius
+12   Severus Pius
+13   Pertinax and Marcus
+14   Aurelius Antoninus,
+15   the Augusti. Epeiph 1.

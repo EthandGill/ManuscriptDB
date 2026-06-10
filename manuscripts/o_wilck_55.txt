@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 55 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;55  (Trismegistos 76634)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 55
+label:    O.Wilck. 55
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     98/99 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14034 (5791v)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76634
+source:   https://papyri.info/ddbdp/o.wilck;;55
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Πετροσζμῆθ(ις) Φενώφεος
+r.2   ὑπ(ὲρ) λαογραφ(ίας) β (ἔτους) Τραειανοῦ
+r.3   Καίσαρος τοῦ κυρίου ἀργ(υρίου) (δραχμὰς) ιζ.
+r.4   Ἑρμογένης Ἀμμωνᾶτ(ος) πράκ(τωρ)
+r.5   ἔγραψα.
+
+[TRANSLATION]
+1   Petroszmethis son of Phenophis paid,
+2   for the poll-tax of the 2nd year of Trajan
+3   Caesar the lord: 17 silver drachmas.
+4   I, Hermogenes son of Ammonas, the collector,
+5   wrote (this).

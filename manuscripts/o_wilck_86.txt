@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 86 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;86  (Trismegistos 76664)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 86
+label:    O.Wilck. 86
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     114 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13971 (5790q)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76664
+source:   https://papyri.info/ddbdp/o.wilck;;86
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Παχ[νοῦβις Φανώφεως]
+r.2   μη(τρὸς) Ταχομτβ[ήκιος ὑπ(ὲρ) λ]α[ογρ(αφίας)]
+r.3   τοῦ ιϛ (ἔτους) Τραι[ανοῦ τοῦ κυρί]ου ἀρ[γ(υρίου)]
+r.4   δραχ(μὰς) ὀκ[τὼ (γίνονται) (δραχμαὶ) η. (ἔτους) ιϛ] Τραιανοῦ
+r.5   τοῦ κυρίου Μεχ[ὶρ δ]ιὰ
+r.6   Λουκίου Αὐρηλί[ου].
+r.7   (hand 2) Φαμενὼθ ϛ τὰς λοιπ(ὰς) δραχ(μὰς) ἐννέα
+r.8   (γίνονται) ἐπ(ὶ τὸ αὐτὸ) (δραχμαὶ) ιζ.
+
+[TRANSLATION]
+1   Pach[noubis son of Phanophis],
+2   mother Tachomtb[ekis, for the] po[ll-tax]
+3   of the 16th year of Tra[jan the lo]rd: sil[ver]
+4   eig[ht drachmas — total 8 dr. Year 16 of] Trajan
+5   the lord, Mecheir, throu[gh]
+6   Lucius Aurelius.
+7   (2nd hand) Phamenoth 6, the remaining nine drachmas,
+8   total, all together, 17 dr.

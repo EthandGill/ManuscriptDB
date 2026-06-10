@@ -64,6 +64,12 @@ def extract(md):
                     or first(r"\|\s*Datierung\s*\|\s*([^|<\n]+)", md))
     info["support"] = first(r"\|\s*Support(?:/Dimensions)?\s*\|\s*([^|<\n]+)", md)
     info["title"] = first(r"\|\s*Title\s*\|\s*([^|<\n]+)", md)
+    # Inv. no. → shelf number. The value is usually a markdown link, e.g.
+    #   | Inv. no. | [Berlin, Staatliche Museen P. 6956](http://.../collection/40) |
+    info["shelf"] = first(r"\|\s*Inv\.?\s*no\.?\s*\|\s*\[?([^\]|<\n]+)", md)
+    # Subjects → genre keywords (German HGV terms: Quittung=receipt,
+    # Vertrag/Kaufvertrag=contract, Brief=letter, Eingabe/Petition=petition).
+    info["subjects"] = first(r"\|\s*Subjects?\s*\|\s*([^|<\n]+)", md)
     # canonical id (e.g. "bgu.1.2 = HGV ...")
     info["citation"] = first(r"###\s*([a-z][a-z0-9.;]+\s*=\s*HGV[^\n]+)", md)
     # Greek transcription lines: keep lines that actually contain Greek glyphs.
@@ -100,6 +106,8 @@ def main():
     print("DATE:      ", info["date"])
     print("SUPPORT:   ", info["support"])
     print("TITLE:     ", info["title"])
+    print("SHELF:     ", info["shelf"])
+    print("SUBJECTS:  ", info["subjects"])
     print("RAW chars: ", len(md))
     print("--- GREEK TRANSCRIPTION (%d lines) ---" % len(info["greek_lines"]))
     for i, ln in enumerate(info["greek_lines"], 1):

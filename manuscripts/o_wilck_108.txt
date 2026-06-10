@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 108 — tax receipt (river-guard assessment (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;108  (Trismegistos 76683)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 108
+label:    O.Wilck. 108
+name:     Tax receipt — river-guard assessment (potamophylakis)
+genre:    receipts
+date:     118 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14052 (5790s)
+content:  Ostracon tax receipt — river-guard assessment (potamophylakis), Syene/Elephantine
+tm:       76683
+source:   https://papyri.info/ddbdp/o.wilck;;108
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Σανμοὺς πράκ(τωρ). διέγρ(αψεν)
+r.2   Ἁρπαῆσις Φανώφεως
+r.3   ὑπ(ὲρ) μερισμοῦ ποταμουφυ(λακίδος)
+r.4   β (ἔτους) Ἁδριανοῦ τοῦ κυρίου
+r.5   ἀργ(υρίου) (δραχμὴν) α(τετρώβολον) Μεχεὶρ γ. Σαρ(απίων)
+r.6   γρ(αμματεὺς) ἔγρ(αψα).
+
+[TRANSLATION]
+1   Sanmous, collector. Paid:
+2   Harpaesis son of Phanophis,
+3   for the assessment of the river-guard,
+4   2nd year of Hadrian the lord:
+5   1 silver drachma 4 obols, Mecheir 3. Sarapion
+6   the scribe, I wrote (this).

@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 87 — tax receipt (river-guard levy (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;87  (Trismegistos 76665)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 87
+label:    O.Wilck. 87
+name:     Tax receipt — river-guard levy (potamophylakis)
+genre:    receipts
+date:     113 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13977 (5791t)
+content:  Ostracon tax receipt — river-guard levy (potamophylakis), Syene/Elephantine
+tm:       76665
+source:   https://papyri.info/ddbdp/o.wilck;;87
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀμμώνιος καὶ Πετορ-
+r.2   ζμῆτ(ις) πράκ(τορες). διέγραψ(εν)
+r.3   Παχνοῦβις Φανώφεος
+r.4   μη(τρὸς) Ταχομτβῆκις ὑπ(ὲρ)
+r.5   μερισμοῦ ποταμοφυλακ(ίδος) (δραχμὰς) β.
+r.6   (ἔτους) ιϛ Τραειανοῦ Καίσαρος
+r.7   τοῦ κυρίου Ἐπὶφ ιθ
+r.8   Ἀμμώνιος (δραχμὰς) β.
+
+[TRANSLATION]
+1   Ammonios and Petor-
+2   zmethis, collectors. Paid:
+3   Pachnoubis son of Phanophis,
+4   mother Tachomtbekis, for
+5   the levy of the river-guard, 2 drachmas.
+6   Year 16 of Trajan Caesar
+7   the lord, Epeiph 19.
+8   Ammonios: 2 drachmas.

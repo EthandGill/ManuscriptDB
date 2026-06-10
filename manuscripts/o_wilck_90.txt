@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 90 — tax receipt (river-guard tax (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;90  (Trismegistos 76668)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 90
+label:    O.Wilck. 90
+name:     Tax receipt — river-guard tax (potamophylakis)
+genre:    receipts
+date:     114 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7253
+content:  Ostracon tax receipt — river-guard tax (potamophylakis), Syene/Elephantine
+tm:       76668
+source:   https://papyri.info/ddbdp/o.wilck;;90
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀμμώνιο(ς) καὶ Διονύσιο(ς) πράκ(τορες) ἀργ(υρικῶν)
+r.2   Σοήνης. διέγραψεν Σαραπίων
+r.3   Ἀπολλ[ωνίου] μικροῦ μη(τρὸς) Θινψεν-
+r.4   χνο(ύβιος) Δακικοῦ ποταμοῦ καὶ μισθοῦ
+r.5   ποταμ(ο)φυλ(ακίδος) ιζ (ἔτους) Τραιανοῦ τοῦ κυρίου ἀργ(υρίου) (δραχμὰς) ϛ(πεντώβολον) .
+r.6   (ἔτους) ιζ Τραιανοῦ Καίσαρος τοῦ κυρίου Μεσωρὴ λ.
+r.7   (hand 2) Διονύσ(ιος).
+
+[TRANSLATION]
+1   Ammonios and Dionysios, collectors of the money-taxes
+2   of Syene. Paid: Sarapion
+3   son of Apollonios the younger, mother Thinpsen-
+4   chnoubis, for the Dakikon-river (tax) and the rent
+5   of the river-guard, 17th year of Trajan the lord: 6 silver drachmas 5 obols.
+6   Year 17 of Trajan Caesar the lord, Mesore 30.
+7   (2nd hand) Dionysios.

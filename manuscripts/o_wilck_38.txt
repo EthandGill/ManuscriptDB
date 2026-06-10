@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 38 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;38  (Trismegistos 76617)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 38
+label:    O.Wilck. 38
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     91/92 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12118
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76617
+source:   https://papyri.info/ddbdp/o.wilck;;38
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [διέγρ]αψ(εν) Παχομπαερμὼν
+r.2   [ ] ὑπ(ὲρ) λαογραφ(ίας) ἑνδεκάτου
+r.3   [(ἔτους) Δομι]τιανοῦ τοῦ κυρίου
+r.4   [ἀργ(υρίου) (δραχμὰς) ι]ϛ. Σωκράτ(ης) πράκ(τωρ) ἔγραψ(α).
+
+[TRANSLATION]
+1   Pachompaermon paid,
+2   […] for the poll-tax of the eleventh
+3   [year] of Domitian the lord:
+4   [16] silver drachmas. I, Socrates, the collector, wrote (this).

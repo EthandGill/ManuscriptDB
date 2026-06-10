@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 71 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;71  (Trismegistos 76649)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 71
+label:    O.Wilck. 71
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     104 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    formerly Dodgson collection (location unknown)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76649
+source:   https://papyri.info/ddbdp/o.wilck;;71
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Καλασῖρις
+r.2   ὑπ(ὲρ) λαογραφ(ίας) ἑβδόμου (ἔτους)
+r.3   Τραιανοῦ Καίσαρος τοῦ
+r.4   κυρίου ἀργ(υρίου) <(δραχμὰς)> δέκα ἑπτὰ <(γίνονται)> (δραχμαὶ) ιζ,
+r.5   καὶ ὑπ(ὲρ) <ἀνδριάντος> τριόβολον <(γίνονται) (τριώβολον)>.
+r.6   Ἑρμογένης πράκ(τωρ) ἔγραψα
+r.7   Μεσορὴ ιθ.
+
+[TRANSLATION]
+1   Kalasiris paid,
+2   for the poll-tax of the seventh year
+3   of Trajan Caesar the
+4   lord: seventeen silver drachmas — total 17 dr.,
+5   and for the (emperor's) statue, three obols — total 3 ob.
+6   I, Hermogenes, the collector, wrote (this),
+7   Mesore 19.

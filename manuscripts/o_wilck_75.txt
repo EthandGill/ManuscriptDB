@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 75 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;75  (Trismegistos 76653)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 75
+label:    O.Wilck. 75
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     105 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14117 (5790d)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76653
+source:   https://papyri.info/ddbdp/o.wilck;;75
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Ἁρπαῆσις Φενώφεω(ς) Θρακίδ(ας)
+r.2   ὑπ(ὲρ) λαογραφ(ίας) ὀγδωου (ἔτους) Τραειανοῦ
+r.3   Καίσαρος τοῦ κυρίου ἀργ(υρίου) (δραχμὰς) δέκα
+r.4   ἑπτὰ (γίνονται) (δραχμαὶ) ιζ σὺν αἷς ἐσχω(ν) πρότερο(ν).
+r.5   Ἑρμογένης Ἀμμωνᾶτος
+r.6   πράκ(τωρ) ἔγραψα Μεσορὴ κ.
+
+[TRANSLATION]
+1   Harpaesis son of Phenophis, Thrakidas, paid,
+2   for the poll-tax of the eighth year of Trajan
+3   Caesar the lord: seventeen silver drachmas,
+4   total 17 dr., together with those I had received before.
+5   I, Hermogenes son of Ammonas,
+6   the collector, wrote (this), Mesore 20.

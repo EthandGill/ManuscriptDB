@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 11 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;11  (Trismegistos 76592)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 11
+label:    O.Wilck. 11
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     c. 41 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13 (ostracon)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76592
+source:   https://papyri.info/ddbdp/o.wilck;;11
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διαγεγράφ(ηκεν) Πατ[ ]
+r.2   ὑπ(ὲρ) λαογ(ραφίας) πρώτου (ἔτους) [ ]
+r.3   Κλαυδίου Καίσαρ[ος Σεβαστοῦ]
+
+[TRANSLATION]
+1   Has paid: Pat[…]
+2   for the poll-tax of the first year […]
+3   of Claudius Caesar [Augustus].

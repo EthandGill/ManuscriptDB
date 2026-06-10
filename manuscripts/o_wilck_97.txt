@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 97 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;97  (Trismegistos 50751)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 97
+label:    O.Wilck. 97
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     115 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Museum EA 13976
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       50751
+source:   https://papyri.info/ddbdp/o.wilck;;97
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Διονύσιος καὶ Ἀ[μμώ]νιο(ς) καὶ Παχομπ( ) πρά[κ(τορες)]
+r.2   ἀργ(υρικῆς) Σοή(νης) διὰ Παχομπ( ). διέγρ(αψεν) Πετορζμῆθ(ις)
+r.3   (διὰ) Παβῶτο(ς) Φανώφιος μη(τρὸς) Ταχομτβή(κιος)
+r.4   λινο(πώλης(?)) μερισ(μὸν) ιη (ἔτους) (δραχμὰς) β <(ὀβολὸν)>. (ἔτους) ιη Τραιανοῦ
+r.5   Ἀρίστου τοῦ κυρίου Φαμε(νὼθ) κε.
+
+[TRANSLATION]
+1   Dionysios and A[mmo]nios and Pachomp(…), colle[ctors]
+2   of the money-tax of Syene, through Pachomp(…). Paid: Petorzmethis
+3   (through) Pabos, son of Phanophis, mother Tachomtbe(kis),
+4   linen-seller(?), the assessment of the 18th year: 2 drachmas 1 obol. Year 18 of Trajan
+5   Optimus the lord, Phamenoth 25.

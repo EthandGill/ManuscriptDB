@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 42 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;42  (Trismegistos 76621)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 42
+label:    O.Wilck. 42
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     c. 95 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 16473
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76621
+source:   https://papyri.info/ddbdp/o.wilck;;42
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγρα(ψεν) Πετορζμῆ(θις) Πα[ ]
+r.2   μητ(ρὸς) Σενπετεχνούμ(ιος) [ὑπ(ὲρ) ]
+r.3   ιδ (ἔτους) ἀργ(υρίου) δραχ(μὰς) ὀκτὼι [(γίνονται) (δραχμαὶ) η. διὰ]
+r.4   Λέοντος γραμμ(ατέως). (ἔτους) [ιε Δομιτιανοῦ]
+r.5   Καίσαρος τοῦ κυρίου Μ[ ]
+r.6   Πομπήιος Οὐάλ(ης) διὰ [ ]
+r.7   δραχ(μὰς) ὀκτὼι (γίνονται) (δραχμαὶ) η [ ]
+
+[TRANSLATION]
+1   Petorzmethis son of Pa[…] paid,
+2   mother Senpetechnoumis, [for]
+3   the 14th year: eight silver drachmas [total 8 dr., through]
+4   Leon the scribe. Year [15 of Domitian]
+5   Caesar the lord, M[…]
+6   Pompeius Vales, through […]
+7   eight drachmas — total 8 dr. […]

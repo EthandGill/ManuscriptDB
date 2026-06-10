@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 5 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;5  (Trismegistos 24733)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 5
+label:    O.Wilck. 5
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     24 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities A.T. 860
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       24733
+source:   https://papyri.info/ddbdp/o.wilck;;5
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διαγεγράφ(ηκε)
+r.2   Πειλονίδης Πετερζμ-
+r.3   ηύθιος ὑπ(ὲρ) λαογραφ(ίας) τοῦ
+r.4   δεκάτου (ἔτους) Τιβερίου Καίσαρος
+r.5   Σεβαστοῦ Μεσορὴι ιδ ἀρ(γυρίου) δραχ(μὰς)
+r.6   δεκαέξ, (γίνονται) (δραχμαὶ) ιϛ. (hand 2) Πελαίας
+r.7   Ἀρίστω(νος) ἐπηκολού(θηκα)
+r.8   δραχ(μὰς) δεκαέξ, (δραχμαὶ) ιϛ.
+
+[TRANSLATION]
+1   Has paid:
+2   Peilonides son of Peterzm-
+3   euthis, for the poll-tax of the
+4   tenth year of Tiberius Caesar
+5   Augustus, Mesore 14: silver drachmas
+6   sixteen — total 16 dr. (2nd hand) Pelaias
+7   son of Ariston, I have checked it,
+8   sixteen drachmas, 16 dr.

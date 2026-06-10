@@ -1,0 +1,73 @@
+# ───────────────────────────────────────────────
+# BGU 3 702 — contract: deposit (paratheke) / loan of money, Arsinoite, 151 CE
+# Source: papyri.info DDbDP bgu;3;702  (Trismegistos 9302)
+# Scraped via Firecrawl; apparatus trimmed, interlinear \../ & markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.702
+label:    BGU 3.702
+name:     Deposit/loan contract (paratheke)
+genre:    contracts
+date:     151 CE
+language: Greek (Koiné)
+found:    Arsinoite nome, Fayum, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 8681
+content:  Contract of deposit (paratheke) of 176 silver drachmas, through the bank of Apollonios at the Agora
+tm:       9302
+source:   https://papyri.info/ddbdp/bgu;3;702
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    ἔτους πεντεκαιδεκάτου Αὐτοκρ[άτορος]
+r.2    Καίσαρος Τίτου Αἰλίου Ἁδριαν[ο]ῦ
+r.3    Ἀντωνείνου Σεβαστοῦ Εὐσεβοῦς μη-
+r.4    νὸς Ἁδριανοῦ ιε. διὰ τῆς Ἀπολ-
+r.5    λωνίου τραπέζης Ἀγορᾶς. Δημάρι-
+r.6    ον Πετερμουθίωνος μετὰ κυρί-
+r.7    ου τοῦ συνγενοῦς Πτολεμαίου τοῦ
+r.8    Ἀφροδεισίου Εὐποροῦτι Πτολε-
+r.9    μαίου τοῦ Μύσθου, ὡς ἐτῶν τεσ-
+r.10   σαράκοντα πέντε, οὐλὴ ὀφρύι ἀριστερᾷ,
+r.11   μετὰ κυρίου καὶ ἐγγύου εἰς
+r.12   ἔκτισιν τοῦ ἀδελφοῦ Ἡρακλεί-
+r.13   δου, ὡς ἐτῶν τεσσαράκοντα, οὐ-
+r.14   λὴ ὀφρύι ἀριστερᾷ, ἀμφοτέροις
+r.15   ἀπὸ ἀμφόδου Ἱερᾶς πύλης, ἔ-
+r.16   χειν τὴν Εὐποροῦν παρὰ τῆς
+r.17   Δημαρίου παραθήκη[ν] ἀκίν-
+r.18   δυνον παντὸς κινδύνου
+r.19   καὶ ἀνυπόλογον παντὸς ὑπολόγου
+r.20   ἀργυρίου δραχμὰς ἑκατὸ[ν]
+r.21   ἑβδομήκοντα ἓξ (γίνονται) ἀργ(υρίου) (δραχμαὶ) ροϛ,
+r.22   ἃς καὶ ἀποδώσει ἡ Εὐπ[ο]ροῦ[ς ὁ-]
+r.23   πηνίκα ἐὰν αἱρῆται ἡ Δη[μ]άρι-
+r.24   [ον …]
+
+[TRANSLATION]
+1    In the fifteenth year of Imperator
+2    Caesar Titus Aelius Hadrianus
+3    Antoninus Augustus Pius, in the
+4    month of Hadrianos, 15. Through the bank of Apol-
+5    lonios at the Agora. Demari-
+6    on, daughter of Petermouthion, with her guard-
+7    ian, her kinsman Ptolemaios son of
+8    Aphrodisios, to Euporous, daughter of Ptole-
+9    maios son of Mysthes, about for-
+10   ty-five years old, with a scar on the left eyebrow,
+11   with (her) guardian and surety for
+12   repayment, her brother Heraklei-
+13   des, about forty years old, with a
+14   scar on the left eyebrow, both
+15   from the quarter of the Sacred Gate: (it is acknowledged) that
+16   Euporous holds from
+17   Demarion a deposit (parathēkē), free
+18   of every risk
+19   and exempt from every deduction,
+20   of one hundred
+21   seventy-six silver drachmas — total, 176 silver dr. —
+22   which Euporous shall also repay when-
+23   ever Demarion chooses.
+24   [Demarion …]

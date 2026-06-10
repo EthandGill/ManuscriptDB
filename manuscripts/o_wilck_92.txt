@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 92 — tax receipt (river-guard tax (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;92  (Trismegistos 76670)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 92
+label:    O.Wilck. 92
+name:     Tax receipt — river-guard tax (potamophylakis)
+genre:    receipts
+date:     114 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5815
+content:  Ostracon tax receipt — river-guard tax (potamophylakis), Syene/Elephantine
+tm:       76670
+source:   https://papyri.info/ddbdp/o.wilck;;92
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀμμώνιο(ς) καὶ Πετορζμῆ(θις) [πράκ(τορες) ἀργ(υρικῶν) Σοή(νης)].
+r.2   διέγραψεν Ζμετ[πῶς Ἁρπαήσεως]
+r.3   μη(τρὸς) Σεντιθοήους [Δακ]ικοῦ ποταμοῦ καὶ
+r.4   μισθ(οῦ) ποταμοφυλ(ακίδος) ιζ (ἔτους) Τραιανοῦ Καίσαρος
+r.5   τοῦ κυρίου ἀργ(υρίου) δραχ(μὰς) ἓξ ὀβολοὺς πέντε, (γίνονται) (δραχμαὶ) ϛ(πεντώβολον).
+r.6   (ἔτους) ιζ Τραιανοῦ [Κ]αίσαρος τοῦ κυρ[ίου]
+r.7   Φαμενωθ κε.
+r.8   (hand 2) Νιγρεῖνος σεσημίωμαι .
+r.9   (hand 3) Παχομπρῆτις σεσυμίω-
+r.10   μαι .
+
+[TRANSLATION]
+1   Ammonios and Petorzmethis, [collectors of the money-taxes of Syene].
+2   Paid: Zmet[pos son of Harpaesis],
+3   mother Sentithoeous, for the Dacian-river (tax) and
+4   the rent of the river-guard, 17th year of Trajan Caesar
+5   the lord: six silver drachmas, five obols — total 6 dr. 5 ob.
+6   Year 17 of Trajan Caesar the lord,
+7   Phamenoth 25.
+8   (2nd hand) I, Nigrinus, have signed off.
+9   (3rd hand) I, Pachompretis, have signed
+10   off.

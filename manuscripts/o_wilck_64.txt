@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 64 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;64  (Trismegistos 76642)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 64
+label:    O.Wilck. 64
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     101/102 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13991 (5790m)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76642
+source:   https://papyri.info/ddbdp/o.wilck;;64
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Παχνοῦβι(ς) Θρακίδος
+r.2   ὑπ(ὲρ) λαογραφ(ίας) πέμτου (ἔτους)
+r.3   Τραειανοῦ τοῦ κυρίου
+r.4   ἐπὶ λ(όγου) (δραχμὰς) ὀκτὼ (γίνονται) (δραχμαὶ) η ὑπ(ὲρ) ἐπικαρσίου
+r.5   ὁμοίως (δραχμὰς) τρῖς (γίνονται) (δραχμαὶ) γ. ὡ αὐτὸς
+r.6   τὰς λυπὰς (δραχμὰς) γ. Ἑρμογένη(ς)
+r.7   πράκ(τωρ) ἔγραψα.
+
+[TRANSLATION]
+1   Pachnoubis son of Thrakidas paid,
+2   for the poll-tax of the fifth year
+3   of Trajan the lord,
+4   on account eight drachmas — total 8 dr.; for the cross-weave tax(?)
+5   likewise three drachmas — total 3 dr. The same,
+6   the remaining 3 drachmas. I, Hermogenes,
+7   the collector, wrote (this).

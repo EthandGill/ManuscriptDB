@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 27 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;27  (Trismegistos 76607)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 27
+label:    O.Wilck. 27
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     76 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14020 (5791j)
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76607
+source:   https://papyri.info/ddbdp/o.wilck;;27
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγρ(αψεν) Φενῶπις Παχο[μ]πα[οννώφεως]
+r.2   ὑπ(ὲρ) χι(ρωναξίου) ὠγδόου ἔτους
+r.3   Οὐεσπασιανοῦ τοῦ κυρ[ίου]
+r.4   Μεσορὴ λ τὰς λ(οιπὰς) ἀργυ(ρίου) δρα(χμὰς)
+r.5   ὠγκτὼ (γίνονται) (δραχμαὶ) ιβ. Μελάνθ[ις]
+r.6   ἔγρ(αψα).
+
+[TRANSLATION]
+1   Has paid: Phenopis son of Pacho[mpaonnophis],
+2   for the trade-tax of the eighth year
+3   of Vespasian the lord,
+4   Mesore 30, the remaining silver drachmas
+5   eight — total 12 dr. I, Melanthis,
+6   wrote (this).

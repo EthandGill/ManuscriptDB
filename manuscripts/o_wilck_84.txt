@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 84 — tax receipt (state palm/date tax)
+# Source: papyri.info DDbDP o.wilck;;84  (Trismegistos 76662)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 84
+label:    O.Wilck. 84
+name:     Tax receipt — state palm/date tax
+genre:    receipts
+date:     112/113 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4 (ostracon)
+content:  Ostracon tax receipt — state palm/date tax, Syene/Elephantine
+tm:       76662
+source:   https://papyri.info/ddbdp/o.wilck;;84
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀμμ[ώνιος καὶ Πετορζμῆθις]
+r.2   πράκ(τορες). διέγρα[ψεν ]
+r.3   Πετορζμήθεω[ς ὑπ(ὲρ)]
+r.4   τιμῆς δημοσίου φύ[νικος] [γενή(ματος)]
+r.5   ιε (ἔτους) Τραειανοῦ Κ[αίσαρος]
+r.6   δραχ(μὰς) ἑπτὰ τε[τρώβολον (γίνονται) (δραχμαὶ) ζ(τετρώβολον)].
+r.7   (ἔτους) ιϛ Τραιανο[ῦ τοῦ κυρίου].
+r.8   (hand 2) Ἀμμώνιος πρ[άκτωρ σεση-]
+r.9   μίωμαι δραχ(μὰς) ἑ[πτὰ τετρώβολον (γίνονται)]
+r.10   (δραχμαὶ) ζ(τετρώβολον) [ ]
+
+[TRANSLATION]
+1   Ammonios [and Petorzmethis],
+2   collectors. [NN] paid,
+3   son of Petorzmethis, [for]
+4   the price of the state palm(-tax), of the produce of
+5   the 15th year of Trajan Caesar:
+6   seven drachmas four obols [— total 7 dr. 4 ob.].
+7   Year 16 of Traja[n the lord].
+8   (2nd hand) I, Ammonios the collector, have
+9   signed: se[ven drachmas four obols — total]
+10   7 dr. 4 ob. […]

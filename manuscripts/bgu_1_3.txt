@@ -1,0 +1,89 @@
+# ───────────────────────────────────────────────
+# BGU 1 3 — contract (homologia): agreement over a dwelling, Arsinoe, 605 CE
+# Source: papyri.info DDbDP bgu;1;3  (Trismegistos 41053)
+# Scraped via Firecrawl; apparatus trimmed, interlinear \../ & markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 1.3
+label:    BGU 1.3
+name:     Contract concerning a dwelling (homologia)
+genre:    contracts
+date:     605 CE
+language: Greek (Koiné)
+found:    Arsinoiton Polis (Krokodilopolis), Fayum, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 6825
+content:  Agreement by Aurelius Menas, estate rent-collector, with the pork-butcher Kyrikos over a dwelling
+tm:       41053
+source:   https://papyri.info/ddbdp/bgu;1;3
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    ⳨ ἐν ὀνόματι τῆς ἁγίας καὶ ὁμοουσίου τριάδος
+r.2    καὶ τῆς δεσποίν(ης) ἡμῶν τῆς θεοτόκ(ου)
+r.3    καὶ πάντων τῶν ἁγίων βασιλείας τοῦ εὐσεβ(εστάτου)
+r.4    ἡμῶν δεσπό(του) Φλ(αουίου) Φωκᾶ τοῦ αἰων(ίου) Αὐγούστου
+r.5    ἔτους τρίτου μετὰ τὴν ὑπατίαν τοῦ αὐτοῦ ἔτους
+r.6    δευτέρου Παῦνι ιγ τέλει ὀγδόης ἰν(δικτίωνος) ἐν Ἀρ(σινόῃ).
+r.7    (hand 2) Αὐρήλιος Μηνᾶς υἱὸς Ἠλία ἐ[ν]οι-
+r.8    κιολ[ό]γος οὐσίας Θεοδοσακίου τοῦ ἐνδοξο-
+r.9    τάτου στρατηλάτου ἀπὸ τῆς Ἀρσινοιτῶν πό-
+r.10   λεως ἀπὸ ἀμφόδου Κατωτέρου Αὐρηλίῳ
+r.11   Κυρικῷ χοιρομαγείρῳ υἱῷ Μηνᾶ ἀπὸ [τῆς] αὐ-
+r.12   τῆς πόλεως χ(αίρειν). ὁμολογῶ ἑκουσίᾳ γνώμῃ συν-
+r.13   τεθεῖσθαί με πρὸς σὲ ὡς εἰ οἵῳ δήποτε
+r.14   καιρῷ ζητήσω ἀποβαλέσθαι σε ἐκ τοῦ
+r.15   ὑπὸ σὲ μενήματος διαφέροντος Θεοδο-
+r.16   σακίῳ τῷ ἐνδοξοτάτῳ στρατηλάτῃ
+r.17   μὴ βουλο[μένου σου ἐ]ξελθεῖν ἐξ αὐτοῦ
+r.18   ἐπὶ τῷ με παρασχεῖν σοι τὰ ἀναλωθέντα
+r.19   παρὰ σοῦ εἰς τὸ κτίσμα τῆς ἐκεῖσε
+r.20   ἐπαύλεως, εἰ δὲ ἀφʼ ἧς εσεαυτοῦ ἐθελή-
+r.21   σῃς ἀναχωρῆσαι ἐκ τοῦ αὐτοῦ τόπου
+r.22   μηδέν σε λαβεῖν ὑπὲρ τῶν αὐτῶν
+r.23   ἀναλωμάτων τῶν γεναμένων παρὰ
+r.24   σοῦ ἐν τῇ αὐτῇ ἐπαύλει. [κ]υρία ἡ ὁμολο-
+r.25   γία καὶ ἐπερ(ωτηθεὶς) ὡμ(ολόγησα). † (hand 3) Μηνᾶς ἐνοικι-
+r.26   ολόγος ὁ προκ(είμενος)· ς[ ] μοι ἡ ὁμολογία
+r.27   ὡς πρόκ(ειται). Ἠλίας Ἰωάνης
+r.28   ἔγραψα ὑ(πὲρ) αὐτοῦ
+r.29   (hand 4) ⳨ δι εμυ ελια
+r.30   † ὁμ(ολογία) γενομ(ένη) ὑπὸ Αὐρ(ηλίου) Μηνᾶ ἐνοικιο-
+r.31   λόγο(υ) υἱοῦ Ἠλία εἰς Αὐρ(ήλιον) Κυρικὸν
+r.32   χοιρομάγειρον †
+
+[TRANSLATION]
+1    ✠ In the name of the holy and consubstantial Trinity
+2    and of our Lady the God-bearer (Theotokos)
+3    and of all the saints. In the reign of our most pious
+4    lord Flavius Phocas, the eternal Augustus,
+5    the third year after the consulship of the same — year
+6    two — Pauni 13, at the close of the eighth indiction, in Arsinoe.
+7    (2nd hand) Aurelius Menas, son of Elias, rent-
+8    collector of the estate of Theodosakios the most
+9    glorious general (stratēlatēs), from the city of the Arsinoites,
+10   from the Lower quarter, to Aurelius
+11   Kyrikos, pork-butcher, son of Menas, from the
+12   same city, greetings. I acknowledge, of my own free will, that I have
+13   agreed with you that, if at any
+14   time I seek to expel you from
+15   the dwelling under you, which belongs to Theodo-
+16   sakios the most glorious general,
+17   you being unwilling to depart from it,
+18   then I am to provide you the expenses laid out
+19   by you for the construction of the farmstead
+20   there; but if of your own accord you wish
+21   to withdraw from the same place,
+22   you are to take nothing for those same
+23   expenses incurred by
+24   you in the same farmstead. This agreement is valid,
+25   and on being formally questioned I gave my assent. ✠ (3rd hand) Menas the rent-
+26   collector, the aforesaid; the agreement is [valid?] for me
+27   as stated above. Elias (son of) John,
+28   I wrote on his behalf.
+29   (4th hand) ✠ through me, Elias.
+30   ✠ Agreement made by Aurelius Menas the rent-
+31   collector, son of Elias, with Aurelius Kyrikos
+32   the pork-butcher. ✠

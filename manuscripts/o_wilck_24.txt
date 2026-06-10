@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 24 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;24  (Trismegistos 76604)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 24
+label:    O.Wilck. 24
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     73 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Bibliothèque Nationale. Cabinet des Médailles number unknown
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76604
+source:   https://papyri.info/ddbdp/o.wilck;;24
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγρ(αψεν) Πατεύρρις Παχν(ούβιος)
+r.2   ὑπ(ὲρ) λαογρ(αφίας) πέμπτου ἔτους
+r.3   Οὐεσπασειανοῦ τοῦ κυρίου
+r.4   Παχὼν ζ ἀργυ(ρίου) δραχ(μὰς) δέκα
+r.5   ἓξ (γίνονται) (δραχμαὶ) ιϛ. Μελάνθι(ς) ἔγραψα.
+
+[TRANSLATION]
+1   Has paid: Pateurris son of Pachnoubis,
+2   for the poll-tax of the fifth year
+3   of Vespasian the lord,
+4   Pachon 7, silver drachmas six-
+5   teen — total 16 dr. I, Melanthis, wrote (this).

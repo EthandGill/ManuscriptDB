@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 19 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;19  (Trismegistos 76600)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 19
+label:    O.Wilck. 19
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     68 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Museum EA 12485
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76600
+source:   https://papyri.info/ddbdp/o.wilck;;19
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διαγεγράφ(ηκεν) Μέλας
+r.2   Πατῶτος ὑπ(ὲρ) χιρ-
+r.3   οναξίου τοῦ ιδ
+r.4   (ἔτους) Νέρωνος τοῦ
+r.5   κυρίου Ἐπεὶφ κε
+r.6   ἀργυρίου δραχ(μὰς) ἴκο-
+r.7   σι , (γίνονται) (δραχμαὶ) κ.
+
+[TRANSLATION]
+1   Has paid: Melas
+2   son of Patos, for the trade-
+3   tax of the 14th
+4   year of Nero the
+5   lord, Epeiph 25,
+6   silver drachmas twen-
+7   ty — total 20 dr.

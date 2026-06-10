@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 47 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;47  (Trismegistos 76626)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 47
+label:    O.Wilck. 47
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     97 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14017 (5791c)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76626
+source:   https://papyri.info/ddbdp/o.wilck;;47
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Πατεῶρις Πατεώρεος λινοπόλ(ης)
+r.2   ὑπ(ὲρ) λαογραφ(ίας) πρώτου (ἔτους) Νερουᾶ
+r.3   τοῦ κυρί(ου) ἀργ(υρίου) δραχ(μὰς) δέκα ἑπτὰ
+r.4   (γίνονται) (δραχμαὶ) ιζ. Ἑρμογ(ένης) Ἀμμ(ων)ᾶτ(ος) ἔγρα(ψα).
+r.5   (ἔτους) β Νερουᾶ Καίσαρ(ος)
+
+[TRANSLATION]
+1   Pateoris son of Pateoris, linen-seller, paid,
+2   for the poll-tax of the first year of Nerva
+3   the lord: seventeen silver drachmas
+4   total 17 dr. I, Hermogenes son of Ammonas, wrote (this).
+5   Year 2 of Nerva Caesar.

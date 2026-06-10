@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 50 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;50  (Trismegistos 76629)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 50
+label:    O.Wilck. 50
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     98 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14011 (5790h)
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76629
+source:   https://papyri.info/ddbdp/o.wilck;;50
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Πετεῦρις Πετεύριος ὑπ(ὲρ) χ(ειρωναξίου)
+r.2   α (ἔτους) Τραειαν[ο]ῦ Καίσαρος τοῦ κυρίου
+r.3   ἀργ(υρίου) (δραχμὰς) ιβ διὰ τὸ π(αρα)πεπτω(κέναι) τὴν ἀποχ(ήν).
+r.4   Ἑρμογένης πράκ(τωρ) ἔγραψα.
+
+[TRANSLATION]
+1   Peteuris son of Peteuris paid, for the trade-tax
+2   of the 1st year of Trajan Caesar the lord:
+3   12 silver drachmas, because the (previous) receipt had been lost.
+4   I, Hermogenes, the collector, wrote (this).

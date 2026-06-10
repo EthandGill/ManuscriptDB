@@ -1,0 +1,85 @@
+# ───────────────────────────────────────────────
+# BGU 4 1050 — contract: marriage agreement (synchoresis), Alexandria, 30 BCE–14 CE
+# Source: papyri.info DDbDP bgu;4;1050  (Trismegistos 18493)
+# Scraped via Firecrawl; apparatus & dittography trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1050
+label:    BGU 4.1050
+name:     Marriage contract (synchoresis)
+genre:    contracts
+date:     30 BCE – 14 CE
+language: Greek (Koiné)
+found:    Alexandria, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 13066
+content:  Marriage agreement of Isidora and Dionysios, with dowry terms, registered before Protarchos
+tm:       18493
+source:   https://papyri.info/ddbdp/bgu;4;1050
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1    Πρωτάρχωι
+r.2    παρὰ Ἰσιδώρας τῆς Ἡρακλείδου τοῦ καὶ Διονυσίου μετὰ
+r.3    κυρίου τοῦ ἀδελφοῦ Βακχίου τοῦ Ἡρακλείδου
+r.4    τοῦ καὶ Διονυσίου Ἀλθαιέως καὶ παρὰ Διονυσίου τοῦ
+r.5    Διονυσίου Ἰσιδείου. συγχωροῦσιν Ἰσιδώρα καὶ
+r.6    Διονύσιος συνεληλυθέναι ἀλλήλοις πρὸς γάμο(ν),
+r.7    Διονύσιος δὲ καὶ εἰληφέναι παρὰ τῆς Ἰσιδώρας
+r.8    διὰ χειρὸς ἐξ οἴκου φερνὴν ἱμάτια γυναικεῖα ἐν ἀργυ(ρίου)
+r.9    δραχμαῖς ἑκατὸν ἐνωτίων χρυ[σ]ῶν ζεῦγος τετα(ρτῶν)
+r.10   δύο καὶ ἀργυρίου Πτολεμαικοῦ ἐπισήμου
+r.11   δραχμὰς ἑξήκοντα, τὸν Διονύσιον ἀπεσχη-
+r.12   κότα τὴν προκειμένην φερνὴν τρέφειν καὶ
+r.13   ἱματίζειν τὴν Ἰσιδώραν ὡς γυναῖκα γα[μετὴν]
+r.14   κατὰ δύναμιν καὶ μὴ κακουχεῖν αὐτὴν μήδʼ ὑ-
+r.15   βρίζειν μήδʼ ἐγβάλλειν μήδʼ ἄλλην γυναῖκα
+r.16   ἐπεισάγειν ἢ ἐκτίνειν τὴν φερνὴν σὺν ἡμιο-
+r.17   λίᾳ τῆς πράξεως γινομένης τῇ Ἰσιδώρᾳ ἔκ τε αὐτοῦ
+r.18   Διονυσίου καὶ ἐκ τῶν ὑπαρχόντων αὐτῷ πάντων
+r.19   καθάπερ ἐγ δίκης, καὶ τὴν δὲ Ἰσιδώραν μήτε ἀπό-
+r.20   κοιτον μήτε ἀφήμερον γείνεσθαι ἀπὸ τῆς
+r.21   Διονυσίου οἰκίας ἄνευ τῆς Διονυσί[ου] γνώμης
+r.22   μηδὲ φθείρειν τὸν οἶκον μήδʼ ἄλλῳ ἀνδρὶ
+r.23   συνεῖναι ἢ καὶ αὐτὴν τούτων τι διαπραξαμέ-
+r.24   νην κριθεῖσαν στέρεσθαι τῆς φερνῆς, θέσθαι [δ]ὲ
+r.25   αὐτοὺς καὶ τὴν ἐφʼ ἱεροθυτῶν περὶ γάμου
+r.26   συνγραφὴν ἐν ἡμέραις χρηματιζούσαις πέντε
+r.27   ἀφʼ ἧς ἂν ἀλλήλοις προείπωσιν καθʼ ἣν ἐνγραφήσε-
+r.28   ται ἥ τε φερνὴ καὶ τἆλλα τὰ ἐν ἔθει ὄντα καὶ
+r.29   τὰ περὶ τῆς ὁποτέρου τῶν γαμούντων τελευ-
+r.30   τῆς, ὡς ἂν ἐπὶ τοῦ καιροῦ κοινῶς κριθῆι. ἀξ(ιοῦμεν)
+
+[TRANSLATION]
+1    To Protarchos,
+2    from Isidora daughter of Herakleides also called Dionysios, with
+3    her guardian, her brother Bakchios son of Herakleides
+4    also called Dionysios, of the Althaian deme; and from Dionysios son of
+5    Dionysios, of the Isideios deme. Isidora and
+6    Dionysios agree that they have come together with one another in marriage,
+7    and that Dionysios has also received from Isidora,
+8    from hand to hand out of the house, as a dowry: women's garments to the value of
+9    one hundred silver drachmas, a pair of gold earrings of two
+10   quarter-weights, and of stamped Ptolemaic silver
+11   sixty drachmas; (and that) Dionysios, having re-
+12   ceived the aforesaid dowry, shall feed and
+13   clothe Isidora as his wedded wife
+14   according to his means, and shall not mistreat her nor
+15   insult her nor cast her out nor bring in another
+16   woman — or (else) repay the dowry with half
+17   as much again, the right of execution belonging to Isidora against both
+18   Dionysios himself and all his property,
+19   as if by legal judgment; and that Isidora shall neither spend the night away
+20   nor be absent by day from
+21   Dionysios' house without Dionysios' consent,
+22   nor ruin the household, nor be with another man,
+23   or else she too, if she does any of these things,
+24   on being judged (guilty), shall be deprived of the dowry; and that they
+25   shall also deposit the marriage
+26   contract before the hierothytai within five business days
+27   from when they give notice to one another, in which shall be registered
+28   both the dowry and the other customary matters, and
+29   the provisions concerning the death of either of the spouses,
+30   as may be jointly decided at the time. We request (registration).

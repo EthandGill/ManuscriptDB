@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 35 — tax receipt (customs receipt — flax tax)
+# Source: papyri.info DDbDP o.wilck;;35  (Trismegistos 50748)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 35
+label:    O.Wilck. 35
+name:     Tax receipt — customs receipt — flax tax
+genre:    receipts
+date:     89 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 324
+content:  Ostracon tax receipt — customs receipt — flax tax, Syene/Elephantine
+tm:       50748
+source:   https://papyri.info/ddbdp/o.wilck;;35
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [ ] καὶ μέτοχ(οι) τελῶναι
+r.2   ] Σοήνη(ς) Παπρεμείτι
+r.3   [ ]πῆχις χ(αίρειν). ἀπέχομ(εν)
+r.4   [παρὰ σοῦ τέλ(ος)] λινοκ(αλάμης) δεσμ(ῶν) μζ,
+r.5   [(γίνονται) λιν(οκαλάμης) δεσ(μαὶ) μζ.] (ἔτους) η Δομιτινοῦ
+r.6   [Καίσαρος] τοῦ κυρίου Φαρμοῦθι κγ.
+
+[TRANSLATION]
+1   [NN] and his fellow tax-farmers
+2   [of] Syene, to Papremitis(?)
+3   …pechis, greetings. We have received
+4   [from you the tax on] flax-stalk: 47 bundles,
+5   [total 47 bundles of flax-stalk.] Year 8 of Domitian
+6   [Caesar] the lord, Pharmouthi 23.

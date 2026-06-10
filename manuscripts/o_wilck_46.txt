@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 46 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;46  (Trismegistos 76625)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 46
+label:    O.Wilck. 46
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     97 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76625
+source:   https://papyri.info/ddbdp/o.wilck;;46
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Πετροσζμῆθις Ἀμμωνίου
+r.2   Τισ(άτιος) διέ(γραψεν) ὑ(πὲρ) λαογραφ(ίας) πρώτου
+r.3   (ἔτους) Νερουᾶ Καίσαρος τοῦ
+r.4   κυρίου ἐπὶ λόγ(ου) (δραχμὰς) ὀκτὼ (γίνονται) (δραχμαὶ) η.
+r.5   Ἑρμογ(ένης) πράκ(τωρ) ἔγραψα Ἐπὶφ η.
+r.6   ὁ αὐτὸς Πετροσζμῆθις τὰς λυπ[ὰ]ς
+r.7   τοῦ α (ἔτους) Νερουᾶ τοῦ κυρίου (δραχμὰς) ἐννήα
+r.8   (γίνονται) (δραχμαὶ) θ. Ἑρμογ(ένης) Ἀμμωνᾶτ(ος) πράκ(τωρ) ἔγραψα Μεσορὴ λ.
+
+[TRANSLATION]
+1   Petroszmethis son of Ammonios,
+2   grandson of Tisas, paid for the poll-tax of the first
+3   year of Nerva Caesar the
+4   lord, on account eight drachmas — total 8 dr.
+5   I, Hermogenes, the collector, wrote (this), Epeiph 8.
+6   The same Petroszmethis, the remaining
+7   of the 1st year of Nerva the lord: nine drachmas
+8   total 9 dr. I, Hermogenes son of Ammonas, the collector, wrote (this), Mesore 30.

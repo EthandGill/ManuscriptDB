@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 74 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;74  (Trismegistos 76652)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 74
+label:    O.Wilck. 74
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     105 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13990 (5788e)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76652
+source:   https://papyri.info/ddbdp/o.wilck;;74
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Πετεῦρις Πετεύρε(ως) λινοπόλ(ης)
+r.2   ὑπ(ὲρ) λαογραφ(ίας) ὀγδώου (ἔτους)
+r.3   Τραειανοῦ Καίσαρος τοῦ κυρίου
+r.4   ἀργ(υρίου) (δραχμὰς) δέκα ἑπτὰ (γίνονται) (δραχμαὶ) ιζ σὺν αἶς ἐσχω(ν)
+r.5   προτέραις. Ἑρμογένης Ἀμμωνᾶτ(ος)
+
+[TRANSLATION]
+1   Peteuris son of Peteuris, linen-seller, paid,
+2   for the poll-tax of the eighth year
+3   of Trajan Caesar the lord:
+4   seventeen silver drachmas — total 17 dr., together with those I had received
+5   earlier. Hermogenes son of Ammonas.

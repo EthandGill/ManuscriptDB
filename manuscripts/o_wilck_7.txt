@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 7 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;7  (Trismegistos 76588)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 7
+label:    O.Wilck. 7
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     27 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre N 692
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76588
+source:   https://papyri.info/ddbdp/o.wilck;;7
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διαγεγράφηκεν
+r.2   Ζμήθιος Παχνοῦβις
+r.3   ὑπ(ὲρ) λαογραφίας τοῦ ιγ (ἔτους)
+r.4   Τιβερίου Καίσαρος Σεβαστοῦ
+r.5   Φαρμοῦθι κα ἐπὶ λόγ(ου)
+r.6   ἀρ(γυρίου) δραχ(μὰς) ὀκτὼι (γίνονται) (δραχμαὶ) η
+r.7   (hand 2) Ἡρακ(λείδης) Δημ(ητρίου) ἐπηκ(ολούθηκα) δραχ(μαῖς) ὀκτώ .
+
+[TRANSLATION]
+1   Has paid:
+2   Zmethis son of Pachnoubis,
+3   for the poll-tax of the 13th year
+4   of Tiberius Caesar Augustus,
+5   Pharmouthi 21, on account:
+6   eight silver drachmas — total 8 dr.
+7   (2nd hand) I, Herakleides son of Demetrios, have checked it, eight drachmas.

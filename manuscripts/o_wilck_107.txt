@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 107 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;107  (Trismegistos 76682)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 107
+label:    O.Wilck. 107
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     98–117 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 331
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76682
+source:   https://papyri.info/ddbdp/o.wilck;;107
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέ(γραψεν) Ἀπολλώνιος [ ]
+r.2   Τραιανοῦ τοῦ κυρί[ου ]
+r.3   ὁ αὐτὸς ὑπ(ὲρ) χει(ρωναξίου) τοῦ [ ]
+r.4   δι(ὰ) Ἀμωνίου [ ]
+r.5   (hand 2?) διὰ Θι [ ]
+
+[TRANSLATION]
+1   Apollonios paid, […]
+2   of Trajan the lord […]
+3   the same, for the trade-tax of the […]
+4   through Ammonios […]
+5   (2nd hand?) through Thi[…]

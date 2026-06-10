@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 77 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;77  (Trismegistos 76655)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 77
+label:    O.Wilck. 77
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     106 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 312
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76655
+source:   https://papyri.info/ddbdp/o.wilck;;77
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέ[γρα]ψ(εν) Ἁρπαῆσ(ις) Φενώφεως Θρακίδας
+r.2   ὑπ(ὲρ) χι[ρω]ναξίου τοῦ ἑβ[δό(μο)]υ (ἔτους) Τραειανοῦ
+r.3   Καίσαρος τοῦ κυρίου ἐπὶ λ(όγου) (δραχμὰς) ὀκτὼ (γίνονται) (δραχμαὶ) η.
+r.4   Ἑρμογένης πράκ(τωρ) ἔγραψα
+r.5   (ἔτους) θ Τραειανοῦ Καίσαρος τοῦ κυρίου
+r.6   Φαρμοῦθι ια.
+r.7   ὡ αὐτὸς τὰς λυπὰς (δραχμὰς) τέσσαρες (γίνονται) (δραχμαὶ) δ.
+r.8   ι (ἔτους) Τραειανοῦ τοῦ κυρίου Θὼθ κγ.
+
+[TRANSLATION]
+1   Harpaesis son of Phenophis, Thrakidas, paid,
+2   for the trade-tax of the seventh year of Trajan
+3   Caesar the lord, on account eight drachmas — total 8 dr.
+4   I, Hermogenes, the collector, wrote (this),
+5   year 9 of Trajan Caesar the lord,
+6   Pharmouthi 11.
+7   The same, the remaining four drachmas — total 4 dr.,
+8   year 10 of Trajan the lord, Thoth 23.

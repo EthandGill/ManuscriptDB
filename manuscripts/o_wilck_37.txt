@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 37 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;37  (Trismegistos 76616)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 37
+label:    O.Wilck. 37
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     91/92 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14018 (5790h)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76616
+source:   https://papyri.info/ddbdp/o.wilck;;37
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Πατεῦρις Πατε-
+r.2   ύρεως ὑπ(ὲρ) λαογραφ(ίας) ια (ἔτους)
+r.3   Δομιτιανοῦ τοῦ κυρίου
+r.4   ἀργ(υρίου) (δραχμὰς) ιϛ. Σωκράτ(ης)
+r.5   πράκ(τωρ) ἔγραψ(α).
+
+[TRANSLATION]
+1   Pateuris paid, son of Pate-
+2   uris, for the poll-tax of the 11th year
+3   of Domitian the lord:
+4   16 silver drachmas. I, Socrates,
+5   the collector, wrote (this).

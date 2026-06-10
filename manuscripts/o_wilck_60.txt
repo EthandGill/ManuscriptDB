@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 60 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;60  (Trismegistos 76638)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 60
+label:    O.Wilck. 60
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     99/100 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13989 (5790k)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76638
+source:   https://papyri.info/ddbdp/o.wilck;;60
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Πετροσζμῆθ(ις) Πελαίου Παιαὶ
+r.2   ὑπ(ὲρ) λαογραφ(ίας) τρίτου (ἔτους) Τραειανοῦ
+r.3   τοῦ κυρίου ἐπὶ λόγ(ου) (δραχμὰς) δέκα δυω (γίνονται) (δραχμαὶ) ιβ.
+r.4   (hand 2) ἐχο ὁμύως τὰς λυπὰς (δραχμὰς) ε.
+r.5   διὰ Νιγερᾶτος.
+
+[TRANSLATION]
+1   Petroszmethis son of Pelaios Paiai paid,
+2   for the poll-tax of the third year of Trajan
+3   the lord, on account twelve drachmas — total 12 dr.
+4   (2nd hand) I have, likewise, the remaining 5 drachmas.
+5   Through Nigeras.

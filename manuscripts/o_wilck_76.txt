@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 76 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;76  (Trismegistos 76654)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 76
+label:    O.Wilck. 76
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     105 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13978 (5790s)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76654
+source:   https://papyri.info/ddbdp/o.wilck;;76
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Πετροσζμῆθ(ις) Πελαί[ου Παιαὶ]
+r.2   ὑπ(ὲρ) λαογραφ(ίας) ὀγδώου (ἔτους) Τρ[αιανοῦ]
+r.3   Καίσαρος τοῦ κυρίου ἀργ(υρίου) [(δραχμὰς) δέκα ἑπτὰ]
+r.4   (γίνονται) (δραχμαὶ) ιζ σὺν αἶς ἔσχ(ον) δι(ὰ) Βιήνχ(ιος). [Ἑρμογένης]
+r.5   Ἀμμωνᾶτ(ος) πράκ(τωρ) ἔγραψα
+r.6   Μεσορὴ λ.
+
+[TRANSLATION]
+1   Petroszmethis son of Pelaios [Paiai] paid,
+2   for the poll-tax of the eighth year of Tr[ajan]
+3   Caesar the lord: [seventeen] silver drachmas
+4   total 17 dr., with those he received through Bienchis. [Hermogenes]
+5   son of Ammonas, the collector, wrote (this),
+6   Mesore 30.

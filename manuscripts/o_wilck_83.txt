@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 83 — tax receipt (club-tax (hetairikon))
+# Source: papyri.info DDbDP o.wilck;;83  (Trismegistos 76661)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 83
+label:    O.Wilck. 83
+name:     Tax receipt — club-tax (hetairikon)
+genre:    receipts
+date:     111 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14113 (5790i)
+content:  Ostracon tax receipt — club-tax (hetairikon), Syene/Elephantine
+tm:       76661
+source:   https://papyri.info/ddbdp/o.wilck;;83
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Πελαίας τελώνης ἑταιρικοῦ
+r.2   Θιψανσνώτι Ταχομτβῆκις χα(ίρειν).
+r.3   ἀπέχω παρὰ σοῦ τὴν λοιπὴν
+r.4   τοῦ ιδ (ἔτους) Τραιανοῦ
+r.5   Καίσαρος τοῦ κυρίου
+r.6   δραχμὴν μίαν
+r.7   Παοῖνι θ.
+
+[TRANSLATION]
+1   Pelaias, tax-farmer of the club-tax,
+2   to Thipsansnos (daughter of) Tachomtbekis, greetings.
+3   I have in full from you the remainder
+4   of the 14th year of Trajan
+5   Caesar the lord,
+6   one drachma.
+7   Pauni 9.

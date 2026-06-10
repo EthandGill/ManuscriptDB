@@ -1463,6 +1463,30 @@ function hideBookOnMap(book) {
     });
 }
 
+// Show / hide ALL manuscripts of a genre as orbs (used by the flat-list genres:
+// receipts / contracts / letters / OT / apocrypha). Documentary genres glow green
+// — the colour is decided per location in refreshLocationOrb.
+function showGenreOnMap(genreId) {
+    manuscripts.forEach(ms => {
+        if (ms.genre !== genreId) return;
+        if (ms.lat == null || ms.lon == null) return;
+        if (!_msPassesAllFilters(ms)) return;
+        const pair = msMarkers[ms.id];
+        if (!pair) return;
+        const loc = locationOrbs[pair.locKey];
+        if (loc) { loc.activeMs.add(ms.id); refreshLocationOrb(pair.locKey); }
+    });
+}
+function hideGenreOnMap(genreId) {
+    manuscripts.forEach(ms => {
+        if (ms.genre !== genreId) return;
+        const pair = msMarkers[ms.id];
+        if (!pair) return;
+        const loc = locationOrbs[pair.locKey];
+        if (loc) { loc.activeMs.delete(ms.id); refreshLocationOrb(pair.locKey); }
+    });
+}
+
 // Composes the hover badge label for an orb.
 // When a single NT book is active at this location, uses its scholarly adjective
 // ("12 Matthean manuscripts active here"). When multiple books are open, falls
@@ -1488,15 +1512,22 @@ function orbBadgeText(loc) {
     return `${count} ${noun} active here`;
 }
 
+// Orb colour palettes (inner→outer rgb stops). Biblical manuscripts glow red;
+// documentary papyri (receipts / contracts / letters) glow green.
+const ORB_RED   = [[160, 0, 0], [200, 0, 0], [210, 0, 0], [220, 0, 0]];
+const ORB_GREEN = [[20, 120, 40], [30, 158, 60], [40, 178, 70], [50, 190, 80]];
+const DOC_GENRES = new Set(['receipts', 'contracts', 'letters']);
+
 // Returns a CSS radial-gradient string whose alpha channels scale with `intensity`
 // (0–1). Using rgba() alpha instead of CSS opacity keeps child elements unaffected.
-function orbGradient(intensity) {
+function orbGradient(intensity, palette) {
+    const p = palette || ORB_RED;
     const a = (base) => +Math.min(1, intensity * base).toFixed(2);
     return `radial-gradient(circle at center,` +
-        `rgba(160,0,0,${a(1.00)}) 0%,` +
-        `rgba(200,0,0,${a(0.90)}) 20%,` +
-        `rgba(210,0,0,${a(0.50)}) 58%,` +
-        `rgba(220,0,0,0) 100%)`;
+        `rgba(${p[0]},${a(1.00)}) 0%,` +
+        `rgba(${p[1]},${a(0.90)}) 20%,` +
+        `rgba(${p[2]},${a(0.50)}) 58%,` +
+        `rgba(${p[3]},0) 100%)`;
 }
 
 // Redraws (or hides) the orb for a given location based on its current activeMs count.
@@ -1518,7 +1549,10 @@ function refreshLocationOrb(locKey) {
     // to children and would dim the .ms-orb-count button.
     const size      = Math.round(22 + 9 * Math.sqrt(Math.min(count, 55)));
     const intensity = 0.60 + 0.35 * Math.min(1, count / 20);   // 0.60 → 0.95
-    const grad      = orbGradient(intensity);
+    // Green when every active manuscript here is documentary; red otherwise.
+    const activeList = loc.allMs.filter(m => loc.activeMs.has(m.id));
+    const allDoc     = activeList.length > 0 && activeList.every(m => DOC_GENRES.has(m.genre));
+    const grad       = orbGradient(intensity, allDoc ? ORB_GREEN : ORB_RED);
 
     // Lightweight DOM update when only gradient or text changes (size unchanged);
     // full setIcon when size changes so Leaflet keeps the anchor centred.
@@ -1735,13 +1769,15 @@ function renderManuscriptSection() {
                         ? `<div class="genre-empty">No manuscripts yet</div>`
                         : genreItems.map(m => `
                             <div class="ms-item" data-id="${m.id}">
-                                <span class="ms-item-name">${m.name}</span>
-                                <span class="ms-item-meta">${m.date || ''}${m.language ? ' · ' + m.language : ''}</span>
+                                <span class="ms-item-name">${m.label || m.name || m.id}</span>
+                                <span class="ms-item-meta">${[m.shelf, m.date].filter(Boolean).join(' · ')}</span>
                             </div>`).join('')}
                 </div>`;
 
             el.querySelector('.genre-header').addEventListener('click', () => {
+                const wasOpen = el.classList.contains('open');
                 el.classList.toggle('open');
+                wasOpen ? hideGenreOnMap(genre.id) : showGenreOnMap(genre.id);
             });
         }
 
@@ -1787,7 +1823,7 @@ function renderMsSearchResults(query) {
 
     const matches = manuscripts.filter(ms => {
         const searchable = [
-            ms.id, ms.name, ms.content, ms.date, ms.found, ms.held,
+            ms.id, ms.name, ms.content, ms.date, ms.found, ms.held, ms.shelf,
             ...(Array.isArray(ms.books) ? ms.books : [ms.book || ''])
         ].filter(Boolean).join(' ').toLowerCase();
         return searchable.includes(q);
@@ -1808,7 +1844,7 @@ function renderMsSearchResults(query) {
                 <span class="ms-search-result-id">${ms.id}</span>
                 <span class="ms-search-result-name">${ms.name}</span>
             </div>
-            <div class="ms-search-result-meta">${books}${ms.date ? ' · ' + ms.date : ''}</div>
+            <div class="ms-search-result-meta">${[books, ms.shelf, ms.date].filter(Boolean).join(' · ')}</div>
         </div>`;
     }).join('');
 

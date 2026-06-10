@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 109 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;109  (Trismegistos 76684)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 109
+label:    O.Wilck. 109
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     118 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14137 (5790p)
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76684
+source:   https://papyri.info/ddbdp/o.wilck;;109
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   δι(ὰ) Σαραπ(ίωνος). διέγ(ραψεν) Ἁρπαῆσις
+r.2   Φενώφεως χειρω(ναξίου) κ (ἔτους)
+r.3   τοῦ καὶ α (ἔτους) Ἁδριανοῦ Καίσαρος
+r.4   τοῦ κυρίου δραχ(μὰς) ὀκτὼι
+r.5   (γίνονται) (δραχμαὶ) η. (ἔτους) β Ἁδριανοῦ τοῦ κυρίου
+r.6   Μεχ(ὶρ) κδ.
+r.7   (hand 2) Φαμενὼθ ε ἄλλας
+r.8   δραχ(μὰς) τέσσαρας
+r.9   (γίνονται) (δραχμαὶ) δ.
+
+[TRANSLATION]
+1   Through Sarapion. Paid: Harpaesis
+2   son of Phenophis, for the trade-tax of the 20th year,
+3   which is also the 1st year, of Hadrian Caesar
+4   the lord: eight drachmas
+5   — total 8 dr. Year 2 of Hadrian the lord,
+6   Mecheir 24.
+7   (2nd hand) Phamenoth 5, another
+8   four drachmas
+9   — total 4 dr.

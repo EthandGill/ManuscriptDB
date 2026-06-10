@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 82 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;82  (Trismegistos 76660)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 82
+label:    O.Wilck. 82
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     109 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    formerly Walker collection (location unknown)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76660
+source:   https://papyri.info/ddbdp/o.wilck;;82
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Παχομ [ ]
+r.2   ε ς τῶν ἀπʼ Ἐλεφ[αντ(ίνης) ὑπ(ὲρ) λαο(γραφίας) ιβ (ἔτους)]
+r.3   Τραιανοῦ Καίσαρο[ς τοῦ κυρίου]
+r.4   ἐπὶ λόγ(ου) δραχ(μὰς) ὀκτὼ [(γίνονται) (δραχμαὶ) η. Ἑρμογένης πράκ(τωρ)]
+r.5   ἔγραψ(α) (ἔτους) ιβ Τραιαν[οῦ Καίσαρος τοῦ]
+r.6   κυρίου Μεσορὴ [ ὁ αὐτὸς τὰς λοιπὰς]
+r.7   δραχ(μὰς) ἐννέα [(γίνονται) (δραχμαὶ) θ Μεσορὴ ]
+
+[TRANSLATION]
+1   Pachom[…] paid,
+2   one of those from Elephantine, [for the poll-tax of the 12th year]
+3   of Trajan Caesar [the lord],
+4   on account eight drachmas [— total 8 dr. Hermogenes the collector]
+5   wrote (this), year 12 of Trajan [Caesar the]
+6   lord, Mesore […; the same, the remaining]
+7   nine drachmas [— total 9 dr., Mesore …]

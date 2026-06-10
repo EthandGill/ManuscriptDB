@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 104 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;104  (Trismegistos 76679)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 104
+label:    O.Wilck. 104
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     116 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5791
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76679
+source:   https://papyri.info/ddbdp/o.wilck;;104
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Ἁρπαήσις [ ]
+r.2   σεως μη(τρὸς) Ταχνού]
+r.3   λαο(γραφίας) ιθ (ἔτους) Τραιανοῦ Ἀρ[ίστου]
+r.4   τοῦ κυρίου κατὰ μέρος [(δραχμὰς) δέκα]
+r.5   ἑπτὰ (ἡμιωβέλιον) δεσμο(φυλάκων) (?) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ι[ζ(ὀβολὸς)].
+r.6   δι(ὰ) Σαραπίωνος Ἐπεὶφ
+r.7   κθ. καὶ ὀψωνίου
+r.8   ποταμοφυλακί-
+r.9   δου (δραχμὴν) α(τριώβολον).
+
+[TRANSLATION]
+1   Harpaesis [son of Phano-]
+2   phis, mother Tachnou(…), paid,
+3   for the poll-tax of the 19th year of Trajan Op[timus]
+4   the lord, in part [: seventeen drachmas]
+5   (and) a half-obol for the prison-guards(?), a half-obol — total 1[7 dr. 1 ob.].
+6   Through Sarapion, Epeiph
+7   29. And for the wages of the river-
+8   guard,
+9   1 drachma 3 obols.

@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 103 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;103  (Trismegistos 76678)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 103
+label:    O.Wilck. 103
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     116 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13988 (5790f)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76678
+source:   https://papyri.info/ddbdp/o.wilck;;103
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Διδυμίων πράκ(τωρ) ἀργ(υρικῆς).
+r.2   διέγραψ[εν] Ἁρπαῆσις Φανώ-
+r.3   φεως μη(τρὸς) Ταχομτβῆκις
+r.4   λαο(γραφίας) ἐννεακαιδεκάτου (ἔτους)
+r.5   Τραιανοῦ Ἀρίσ(τ)ου τοῦ κυρίου
+r.6   δραχ(μὰς) ὀκτὼι (γίνονται) (δραχμαὶ) η. δι(ὰ) Σαραπ(ίωνος)
+r.7   Φ[αμ]ενὼθ κα.
+r.8   (hand 2) [ὁ]μοίω(ς) ἄλλας δραχ(μὰς)
+r.9   ὀκτὼι (γίνονται) (δραχμαὶ) η.
+
+[TRANSLATION]
+1   Didymion, collector of the money-tax.
+2   Paid: Harpaesis son of Phano-
+3   phis, mother Tachomtbekis,
+4   for the poll-tax of the nineteenth year
+5   of Trajan Optimus the lord:
+6   eight drachmas — total 8 dr., through Sarapion,
+7   Phamenoth 21.
+8   (2nd hand) likewise another eight drachmas
+9   — total 8 dr.

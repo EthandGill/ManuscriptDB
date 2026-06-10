@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 28 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;28  (Trismegistos 76608)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 28
+label:    O.Wilck. 28
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     76 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 317
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76608
+source:   https://papyri.info/ddbdp/o.wilck;;28
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   ἐχο ἐπὶ λόγο(υ) παρὰ Πατρασ-
+r.2   νοῦφις ὑπὲρ χιροναξίου (δραχμὰς) η.
+r.3   Οὐέρρις Φιλούμενος ἔγρα-
+r.4   ψα (ἔτους) θ Αὐτοκράτορος
+r.5   Καίσαρος Οὐεσπασιανοῦ
+r.6   Σεβαστοῦ
+r.7   Τῦβι γ.
+
+[TRANSLATION]
+1   I have, on account, from Patras-
+2   nouphis, for the trade-tax, 8 dr.
+3   I, Verris Philoumenos, wro-
+4   te (this). Year 9 of Imperator
+5   Caesar Vespasian
+6   Augustus,
+7   Tybi 3.

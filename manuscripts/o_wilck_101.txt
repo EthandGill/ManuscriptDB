@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 101 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;101  (Trismegistos 76676)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 101
+label:    O.Wilck. 101
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     115 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Bankes collection, Wimborne Minster
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76676
+source:   https://papyri.info/ddbdp/o.wilck;;101
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Διδυμίων πράκ(τωρ). διέγραψε(ν) Πετορζμῆθις Πουή-
+r.2   ρεως μη(τρὸς) Τισᾶτις ὑ(πὲρ) μερ(ισμοῦ) ανακ( ) ιη (ἔτους) Τραιανοῦ
+r.3   Ἀρίστου ῥυπ(αρὰς) δραχ(μὰς) δύο ὀβολ(οὺς) δύο (γίνονται) (δραχμαὶ) β(διώβολον). (ἔτους) ιθ Τραιανοῦ Θὼθ ζ.
+
+[TRANSLATION]
+1   Didymion, collector. Paid: Petorzmethis son of Poue-
+2   ris, mother Tisatis, for the assessment of the 18th year of Trajan
+3   Optimus: two drachmas two obols (worn coin) — total 2 dr. 2 ob. Year 19 of Trajan, Thoth 7.

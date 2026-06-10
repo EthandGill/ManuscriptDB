@@ -91,6 +91,24 @@ The other root-level `*.py` scripts (`postprocess_batch.py`, `finalize_p11.py`,
 `probe_*.py`, `fetch_missing.py`, etc.) are one-off import/cleanup utilities used
 while building out the collection.
 
+## Scraping manuscripts from the web (Firecrawl)
+
+The **`scrape-manuscript`** skill (`.claude/skills/scrape-manuscript/SKILL.md`)
+pulls papyri from web sources — primarily **papyri.info (DDbDP)** for *documentary*
+papyri (receipts, contracts, leases, letters) that the NTVMR API doesn't carry.
+It uses **Firecrawl**, which renders JS and clears the "Anubis" bot-gate that
+blocks plain WebFetch on papyri.info. Trigger: "scrape me a receipt", "firecrawl
+bgu;3;697", "pull contracts from Trismegistos". Documentary `.txt` files use
+`genre: receipts|contracts|letters`, line-numbered `r.N` Greek (no book/chapter),
+a `tm:`/`source:` field, and a faithful literal translation (e.g. `bgu_3_697.txt`).
+
+Setup: `pip install firecrawl-py truststore`; put the key in the `FIRECRAWL_API_KEY`
+env var (never hardcode it). On this machine TLS inspection breaks cert validation,
+so the helpers call `truststore.inject_into_ssl()` to trust the Windows cert store.
+`firecrawl_scrape.py` (repo root) is a generic scrape-any-URL helper;
+`.claude/skills/scrape-manuscript/scripts/scrape_papyrus.py` extracts the
+TM/origin/date/Greek fields from a papyri.info DDbDP id.
+
 ## Sharing a live demo
 
 `share_with_cloudflare.bat` puts the running app on a public link for free using

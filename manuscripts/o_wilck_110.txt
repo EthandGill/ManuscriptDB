@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 110 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;110  (Trismegistos 76685)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 110
+label:    O.Wilck. 110
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     118 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 310
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76685
+source:   https://papyri.info/ddbdp/o.wilck;;110
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Οὐαλερίων καὶ οἱ λοιπ(οὶ) μισθ(ωταὶ) ἱερᾶς
+r.2   πύλ(ης) Σοήνης δι(ὰ) Σαρα(πίωνος) γρ(αμματέως).
+r.3   διέγραψ(εν) Ἁρπαῆσις Φανώφεως
+r.4   μη(τρὸς) Ταχομτβῆκις χειρωνα-
+r.5   ξίου β (ἔτους) Ἁδριανοῦ τοῦ κυρίου
+r.6   δραχ(μὰς) δέκα δύο (γίνονται) (δραχμαὶ) ιβ. (ἔτους) γ
+r.7   Ἁδριανοῦ τοῦ κυρίου Θὼθ ιζ.
+
+[TRANSLATION]
+1   Valerion and the other lessees of the Sacred
+2   Gate of Syene, through Sarapion the scribe.
+3   Paid: Harpaesis son of Phanophis,
+4   mother Tachomtbekis, for the trade-
+5   tax of the 2nd year of Hadrian the lord:
+6   twelve drachmas — total 12 dr. Year 3
+7   of Hadrian the lord, Thoth 17.

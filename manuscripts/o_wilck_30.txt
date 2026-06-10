@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 30 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;30  (Trismegistos 76610)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 30
+label:    O.Wilck. 30
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     77 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76610
+source:   https://papyri.info/ddbdp/o.wilck;;30
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγρ(αψεν) Ζμῆθις Πατερ[μούθιος]
+r.2   ὑπ(ὲρ) λαογρ(αφίας) ἐνάτου ἔτους
+r.3   Οὐεσπασειανοῦ τοῦ [κυρίου]
+r.4   Μεσορὴ κζ ἀργυ(ρίου) δ[ρ]αχ(μὰς) [δέκα ἓξ]
+r.5   (γίνονται) (δραχμαὶ) ιϛ. Μελάνθι(ς) ἔγρα[ψα].
+
+[TRANSLATION]
+1   Has paid: Zmethis son of Pater[mouthis],
+2   for the poll-tax of the ninth year
+3   of Vespasian the [lord],
+4   Mesore 27, silver drachmas [sixteen] —
+5   total 16 dr. I, Melanthis, wrote (this).

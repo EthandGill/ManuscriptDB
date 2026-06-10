@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 17 — tax receipt (palm-grove land-tax)
+# Source: papyri.info DDbDP o.wilck;;17  (Trismegistos 76598)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 17
+label:    O.Wilck. 17
+name:     Tax receipt — palm-grove land-tax
+genre:    receipts
+date:     65/66 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4163
+content:  Ostracon tax receipt — palm-grove land-tax, Syene/Elephantine
+tm:       76598
+source:   https://papyri.info/ddbdp/o.wilck;;17
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ῥουφώνιος [Ἀντίγονος. διαγεγρ(άφηκεν)]
+r.2   Σενζμῆθ(ις) [ ὑπὲρ]
+r.3   γεομ(ετρίας) φοινικ(ῶνος) ιβ (ἔτους) [Κλαυδίου]
+r.4   Νέρωνος τοῦ κυρίου [ ].
+
+[TRANSLATION]
+1   Rouphonios [Antigonos (bank). Has paid:]
+2   Senzmethis […, for]
+3   the land-survey tax on a palm-grove, 12th year [of Claudius]
+4   Nero the lord […].

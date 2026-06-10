@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 100 — tax receipt (statue-tax (statue of Trajan))
+# Source: papyri.info DDbDP o.wilck;;100  (Trismegistos 76675)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 100
+label:    O.Wilck. 100
+name:     Tax receipt — statue-tax (statue of Trajan)
+genre:    receipts
+date:     114/115 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12135
+content:  Ostracon tax receipt — statue-tax (statue of Trajan), Syene/Elephantine
+tm:       76675
+source:   https://papyri.info/ddbdp/o.wilck;;100
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψε Πετορζμῆθις Φαχομφ [ ]
+r.2   Παοννώφρεο(ς) μη(τρὸς) Τισᾶτις
+r.3   ὑπ(ὲρ) τιμῆ(ς) καὶ δαπανή(ματος) ἀνδ(ριάντος) Τραι[ανοῦ]
+r.4   δραχ(μὰς) δύο (τετρώβολον), (γίνονται) (δραχμαὶ) β(τετρώβολον).
+r.5   (ἔτους) ιη Τραιανοῦ Ἀρίστου Καίσ[αρος]
+r.6   τοῦ κυρίου
+r.7   (hand 2) καὶ Ἀτπεχνοῦβις ἀ[πέσχον(?)]
+r.8   δραχ(μὰς) δύ[ο (τετρώβολον) ]
+
+[TRANSLATION]
+1   Petorzmethis (son of) Phachomph[…]
+2   Paonnophris, mother Tisatis, paid,
+3   for the price and expense of a statue of Tra[jan]:
+4   two drachmas four obols — total 2 dr. 4 ob.
+5   Year 18 of Trajan Optimus Cae[sar]
+6   the lord.
+7   (2nd hand) and I, Atpechnoubis, have rec[eived(?)]
+8   two drachmas [four obols …]

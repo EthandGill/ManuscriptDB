@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 13 — tax receipt (palm-grove land-tax)
+# Source: papyri.info DDbDP o.wilck;;13  (Trismegistos 76594)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 13
+label:    O.Wilck. 13
+name:     Tax receipt — palm-grove land-tax
+genre:    receipts
+date:     54 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5828
+content:  Ostracon tax receipt — palm-grove land-tax, Syene/Elephantine
+tm:       76594
+source:   https://papyri.info/ddbdp/o.wilck;;13
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ῥουφώνιος Ἀντίγο(νος). [διαγεγρ(άφηκεν)]
+r.2   Τύραννος Δ
+r.3   σιδηρου(ργὸς) ὑπ(ὲρ) γεομετ(ρίας) φοινικῶ(νος) ιδ (ἔτους)
+r.4   δραχμ(ὰς) ὀκτὼ (γίνονται) (δραχμαὶ) η. (ἔτους) ιε Τιβερίου
+r.5   Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.6   Αὐτοκράτορος Χοίαχ β.
+
+[TRANSLATION]
+1   Rouphonios Antigonos (bank). [Has paid:]
+2   Tyrannos son of D…,
+3   ironsmith, for the land-survey tax on a palm-grove, 14th year,
+4   eight drachmas — total 8 dr. Year 15 of Tiberius
+5   Claudius Caesar Augustus Germanicus
+6   Imperator, Choiak 2.

@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 99 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;99  (Trismegistos 76674)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 99
+label:    O.Wilck. 99
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     115 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76674
+source:   https://papyri.info/ddbdp/o.wilck;;99
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀμμώνιος καὶ Π\
+r.2   πράκτορες ἀργ(υρικῆς) δ[ιʼ Ἀμμω-]
+r.3   νίου. διέγραψ(εν) Κ[αλασῖρις]
+r.4   Πατεφαῦτος μη(τρὸς) [Θιψενμών-]
+r.5   θου ὑπ(ὲρ) μερισμοῦ [ιη (ἔτους) δραχ(μὴν) μίαν ὀβολ(ὸν) (γίνονται)]
+r.6   (δραχμὴ) α(ὀβολὸς). (ἔτους) ιη Τραι[ανοῦ Ἀρίστου]
+r.7   τοῦ κυρίου Μεσ[ορὴ .]
+
+[TRANSLATION]
+1   Ammonios and P(…),
+2   collectors of the money-tax, thr[ough Ammo-]
+3   nios. Paid: K[alasiris]
+4   son of Patephaus, mother [Thipsenmon-]
+5   thes, for the assessment [of the 18th year, one drachma one obol — total]
+6   1 dr. 1 ob. Year 18 of Tra[jan Optimus]
+7   the lord, Mes[ore …].

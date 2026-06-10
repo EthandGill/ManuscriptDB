@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 25 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;25  (Trismegistos 76605)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 25
+label:    O.Wilck. 25
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     74 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14041 (5791b)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76605
+source:   https://papyri.info/ddbdp/o.wilck;;25
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγρ(αψεν) Φενῶπις Παχομπαουον(νώφεως)
+r.2   ὑπ(ὲρ) λαογρα(φίας) ἕκτου ἔτους
+r.3   Οὐεσπασειανοῦ τοῦ κυρίου
+r.4   Παχὼν δ ἐπὶ λ(όγου) ἀργυ(ρίου) δραχ(μὰς) ὠγ-
+r.5   κτώ , (γίνονται) (δραχμαὶ) η, ὁμ(οίως) η τὰς ἀργυ(ρίου)
+r.6   δραχ(μὰς) ὠγκτώ , (γίνονται) (δραχμαὶ) ιϛ. Μελάνθι(ς)
+r.7   ἔγραψα.
+
+[TRANSLATION]
+1   Has paid: Phenopis son of Pachompaouonnophis,
+2   for the poll-tax of the sixth year
+3   of Vespasian the lord,
+4   Pachon 4, on account, silver drachmas eigh-
+5   t — total 8 dr.; likewise 8, the silver
+6   drachmas eight — total 16 dr. I, Melanthis,
+7   wrote (this).

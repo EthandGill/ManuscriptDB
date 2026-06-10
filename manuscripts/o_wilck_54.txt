@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 54 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;54  (Trismegistos 76633)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 54
+label:    O.Wilck. 54
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     98 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76633
+source:   https://papyri.info/ddbdp/o.wilck;;54
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ψανσνὼς Πετροσζμήθ(ιος) ὑπ(ὲρ) λαογραφ(ίας)
+r.2   πρώτου (ἔτους) Τραειανοῦ Καίσαρος τοῦ
+r.3   κυρίου ἐπὶ λόγ(ου) (δραχμὰς) η. ὡ αὐτὸς τὰς
+r.4   λυπὰς τοῦ α (ἔτους) (δραχμὰς) θ. Ἑρμογένης
+r.5   Ἀμμωνᾶτ(ος) πράκ(τωρ) ἔγραψα Μεσορὴ κδ.
+
+[TRANSLATION]
+1   Psansnos son of Petroszmethis, for the poll-tax
+2   of the first year of Trajan Caesar the
+3   lord, on account 8 drachmas. The same, the
+4   remaining of the 1st year, 9 drachmas. I, Hermogenes
+5   son of Ammonas, the collector, wrote (this), Mesore 24.

@@ -1,0 +1,71 @@
+# ───────────────────────────────────────────────
+# BGU 1 13 — contract: sale of a camel, Arsinoite, 289 CE
+# Source: papyri.info DDbDP bgu;1;13  (Trismegistos 8908)
+# Scraped via Firecrawl; apparatus trimmed, vac./interlinear markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 1.13
+label:    BGU 1.13
+name:     Sale contract for a camel
+genre:    contracts
+date:     289 CE
+language: Greek (Koiné)
+found:    Arsinoite nome, Fayum, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 5597
+content:  Deed of sale of a male Arabian camel to a primipilarius, with warranty clauses
+tm:       8908
+source:   https://papyri.info/ddbdp/bgu;1;13
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    Α[ὐρ]ήλιοι Ἀπολλῶς Σαραπίωνος τοῦ καὶ Συρίωνος καὶ Ἡρᾶς
+r.2    [Ἀ]μμων[ᾶ] ἀμφότεροι ἀπὸ χώρας Χενεβριτῶν τοῦ Μαρεώτου Αὐρηλίῳ
+r.3    Ἀ[ν]τινόῳ π(ριμι)π(ιλαρίῳ) ἐπάρχου Αἰγύπτου χαίρειν.
+r.4    ὁ[μο]λογοῦμεν πεπρακέναι σοι κάμηλον ἄρρενα ἀραβικὸν τῷ
+r.5    [σ]ώματι κατηρτυκότα τειμῆς ἀργυρίου Σεβαστῶν νομίσματος
+r.6    τ[αλ]άντων ιϛ καὶ δραχμῶν τρισχειλίων, ἅπερ ἐντεῦθεν ἀπέσ-
+r.7    [χ]αμεν παρὰ σοῦ πλήρης διὰ χειρὸς ἐξ οἴκου σου καὶ παρα-
+r.8    [δε]δώκαμέν σοι τὸν κάμηλον ἀχάρακτον ὑγιῆν καὶ ἀσινῆν
+r.9    πρὸς τὸ ἀπὸ τοῦ νῦν παριληφότα σεαυτὸν ἐξουσίαν ἔχειν
+r.10   ἑτέροις πωλεῖν καὶ διοικεῖν καὶ ἐπιτελεῖν περὶ αὐτοῦ ὡς ἐὰν
+r.11   αἱρῇ, ἐφʼ ὃν καὶ οὐκ ἐπελευσόμεθα οὔτε ἡμῖς οἱ πεπρακότες
+r.12   οὔτε ἄλλος ὑπὲρ ἡμῶν οὐδεὶς κατʼ οὐδένα τρόπον, τὸν δὲ καὶ
+r.13   ἐπελευσόμενον ἢ ἐμποιησόμενον τοῦ πεπραμένου καμή-
+r.14   λου ἢ μέρους αὐτοῦ χάριν ἡμεῖς αὐτὸν ἀποστήσωμεν καὶ
+r.15   ἐκδικήσωμεν παραχρῆμα τοῖς ἰδίοις ἑαυτῶν δαπανήμασιν
+r.16   καθάπερ ἐκ δίκης, καὶ ἐγράφη ἡ ὁμολογεία μοναχὴ ἐπὶ ὑπο-
+r.17   [γρ]αφῆς ἡμῶν καὶ κυρία ἔστω καὶ ἐπερωτηθέντες ὡμο-
+r.18   [λο]γήσα[μεν]. ἔτους πέμπτου τοῦ κυρίου ἡμῶν Αὐτοκράτορος
+r.19   Δ[ι]οκλητιανοῦ καὶ ἔτους δ Αὐτοκράτορος Καίσαρος Μάρκου
+r.20   Αὐρηλίου Οὐαλερίου Μαξιμιανοῦ Σεβαστῶν Μεσορὴ πέμπτῃ.
+r.21   (hand 2) Αὐρήλιος Ἀμμῶνις ἀπὸ χώρας Νεθειτῶν ἀξειοθεὶς ὑπαὶ-
+r.22   ρ ἀτῶν γράματα μεὶ εἰδώτων ἔγραψα ὑπαὶρ ἀτῶν.
+r.23   ὠνὴ καμήλου δι(ὰ) τοῦ Φεκούλου.
+
+[TRANSLATION]
+1    The Aurelii Apollos son of Sarapion also called Syrion, and Heras
+2    son of Ammonas, both from the district of the Chenebritai of the Mareotis, to Aurelius
+3    Antinoos, primipilarius of the prefect of Egypt, greetings.
+4    We acknowledge that we have sold to you a male Arabian camel,
+5    full-grown in body, for a price of silver, of the Augusti's coinage,
+6    of sixteen talents and three thousand drachmas, which we have here received
+7    from you in full, from hand to hand, out of your house; and we have
+8    handed over to you the camel, unbranded, healthy and unharmed,
+9    so that from now on you, having taken it over, may have authority
+10   to sell to others, and to manage and dispose of it as you
+11   choose; against which we will not proceed — neither we the sellers
+12   nor anyone else on our behalf, in any way; and whoever
+13   proceeds against it or lays claim to the sold
+14   camel or a part of it — him we ourselves will drive off and
+15   defend (the sale) at once, at our own expense,
+16   as if by legal judgment. And this agreement was written, single, upon
+17   our subscription, and let it be valid; and on being formally questioned we gave
+18   our assent. The fifth year of our lord Imperator
+19   Diocletian and the fourth year of Imperator Caesar Marcus
+20   Aurelius Valerius Maximianus, the Augusti, Mesore the fifth.
+21   (2nd hand) I, Aurelius Ammonis from the district of the Netheitai, having been asked on
+22   behalf of them, who do not know letters, wrote on their behalf.
+23   Sale of a camel, through Phekoulos.

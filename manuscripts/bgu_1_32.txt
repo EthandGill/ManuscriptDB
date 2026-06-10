@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# BGU 1 32 — receipt: warehouse rent, Arsinoite, c. 160 CE
+# Source: papyri.info DDbDP bgu;1;32  (Trismegistos 9050)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 1.32
+label:    BGU 1.32
+name:     Receipt for warehouse rent
+genre:    receipts
+date:     c. 160 CE
+language: Greek (Koiné)
+found:    Arsinoite nome, Fayum, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 6930
+content:  Nikephoros the steward acknowledges 40 dr. warehouse rent from Ptolemaios
+tm:       9050
+source:   https://papyri.info/ddbdp/bgu;1;32
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Νικήφορος οἰκονόμος
+r.2   Πτολεμαίῳ. ἀπέσχον παρὰ σοῦ
+r.3   ὑπὲρ ἐνοικ(ίου) ἀποθήκ(ης) τοῦ
+r.4   Ἐπεὶφ τοῦ κγ (ἔτους) (δραχμὰς) μ.
+
+[TRANSLATION]
+1   Nikephoros, steward,
+2   to Ptolemaios. I have received from you,
+3   for the rent of a storehouse for
+4   Epeiph of the 23rd year: 40 drachmas.

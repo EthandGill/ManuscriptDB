@@ -1,0 +1,83 @@
+# ───────────────────────────────────────────────
+# BGU 1 39 — contract: application to lease land (3 yrs), Arsinoite, 186 CE
+# Source: papyri.info DDbDP bgu;1;39  (Trismegistos 9087)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 1.39
+label:    BGU 1.39
+name:     Land-lease application (3-year lease)
+genre:    contracts
+date:     186 CE
+language: Greek (Koiné)
+found:    Karanis / Bakchias, Fayum, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 6872
+content:  Application by Pnepheros to lease 5 arouras of catoecic land near Bakchias from Longinia Sempronia
+tm:       9087
+source:   https://papyri.info/ddbdp/bgu;1;39
+lat:      29.5186
+lon:      30.9036
+
+[GREEK]
+r.1    Λογγινίᾳ Σεμπρωνίᾳ διὰ φρον-
+r.2    [τι]στοῦ τοῦ καὶ Νιννάρου τοῦ καὶ
+r.3    [Π]τολεμαίου Ἰσιδώρου
+r.4    παρὰ Πνεφερῶτος Πεταῦτος ἀπὸ
+r.5    κώμης Καρανίδος. βούλομαι μισ-
+r.6    θώσασθαι εἰς ἔτη τρεία σπορὰς
+r.7    τρεῖς ἀπὸ τοῦ ἐνεστῶτος κϛ (ἔτους)
+r.8    τὰς ὑπαρχούσας <σ>οι περὶ κώμην
+r.9    Βακχιάδαν κλήρου κατοικικοῦ
+r.10   ἐν μιᾷ σφραγίδι (ἀρούρας) ε τόπου Κε-
+r.11   τεκεμ λεγομ(ένου), ἐκφορίου κατʼ ἔ-
+r.12   τος τῶν ὅλων ἀρουρῶν πυροῦ
+r.13   ἀρτάβας εἴκοσι δύο ἥμισυ (γίνονται) (πυροῦ ἀρτάβαι) κβ𐅵
+r.14   μέτρῳ ἑξαχοι[ν]ίκου Σαραπὼς τοῦ
+r.15   Ταβει, τῶν σπερμάτων ὄντων
+r.16   πρὸς τὸν Πνεφερών, τῶν δη-
+r.17   μοσίων πάντων πρὸς τὴν Λογγι-
+r.18   νία<ν> τὰ δὲ γεωργικὰ ἔργα πάν-
+r.19   τα ἐπιτελέσω τῷ δέοντι κερῷ
+r.20   καὶ μετὰ τὸν χρόνον ἀποδώσω
+r.21   τὸν κλῆρον ἀπὸ θρύων καλά-
+r.22   μου, ἐὰν φένηται μισθώσασθαι
+r.23   ἐπὶ τοῖς προκειμένοις. Πνεφερὼς
+r.24   Πεταῦτος μεμίσθωμαι καθὼς
+r.25   πρόκειται. Νε[ῖ]λος ὁ καὶ Ἀχιλλᾶς
+r.26   ἔγραψα ὑπὲρ αὐτοῦ ἀγραμμάτου.
+r.27   (ἔτους) κϛ Μάρκου Αὐρηλίου
+r.28   Κομμόδου Ἀντωνείνου Καίσαρος
+r.29   τοῦ κυρίου. Μεσορὴ κϛ.
+
+[TRANSLATION]
+1    To Longinia Sempronia, through (her) man-
+2    ager, the one also called Ninnaros, also called
+3    Ptolemaios, (son) of Isidoros,
+4    from Pnepheros son of Petaus, from
+5    the village of Karanis. I wish to
+6    lease, for three years (and) three
+7    sowings, from the present 26th year,
+8    the (land) belonging to you near the village
+9    of Bakchias, of a catoecic allotment,
+10   in one parcel, 5 arouras, in the place called Ke-
+11   tekem, at a rent per
+12   year, for all the arouras, of wheat,
+13   twenty-two and a half artabas — total 22½ art. of wheat,
+14   by the six-choinix measure of Sarapous son of
+15   Tabei; the seed being
+16   (charged) to Pnepheros, and all the pub-
+17   lic taxes (charged) to Longi-
+18   nia. And all the farming works
+19   I shall carry out at the proper season,
+20   and after the term I shall give back
+21   the allotment (cleared) of rushes and reed,
+22   if it seems good to grant the lease
+23   on the aforesaid terms. I, Pnepheros
+24   son of Petaus, have taken the lease as
+25   stated above. I, Neilos also called Achillas,
+26   wrote on his behalf, as he is illiterate.
+27   Year 26 of Marcus Aurelius
+28   Commodus Antoninus Caesar
+29   the lord. Mesore 26.

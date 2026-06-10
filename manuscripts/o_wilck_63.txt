@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 63 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;63  (Trismegistos 76641)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 63
+label:    O.Wilck. 63
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     100/101 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13996 (5788f)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76641
+source:   https://papyri.info/ddbdp/o.wilck;;63
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἁρπαῆσις Θρακίδας
+r.2   ὑπ(ὲρ) λαογραφ(ίας) τετάρτου
+r.3   (ἔτους) Τραειανοῦ τοῦ κυρίο[υ]
+r.4   ἐπὶ λόγ(ου) (δραχμὰς) ὀκτὼ (γίνονται) (δραχμαὶ) η.
+r.5   ὁμοίως (δραχμὰς) ὀκτὼ (γίνονται) (δραχμαὶ) η.
+r.6   ὡ αὐτὸς τὴν λυπὴν (δραχμὴν) α
+r.7   Ἑρμογένης πράκ(τωρ)
+r.8   ἔγραψα.
+
+[TRANSLATION]
+1   Harpaesis Thrakidas,
+2   for the poll-tax of the fourth
+3   year of Trajan the lord,
+4   on account eight drachmas — total 8 dr.
+5   Likewise eight drachmas — total 8 dr.
+6   The same, the remaining 1 drachma.
+7   I, Hermogenes, the collector,
+8   wrote (this).

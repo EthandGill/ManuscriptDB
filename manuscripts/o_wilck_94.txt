@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 94 — tax receipt (statue-tax (statue of Trajan))
+# Source: papyri.info DDbDP o.wilck;;94  (Trismegistos 76672)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 94
+label:    O.Wilck. 94
+name:     Tax receipt — statue-tax (statue of Trajan)
+genre:    receipts
+date:     114 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13975 (5790c)
+content:  Ostracon tax receipt — statue-tax (statue of Trajan), Syene/Elephantine
+tm:       76672
+source:   https://papyri.info/ddbdp/o.wilck;;94
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Βασσίων καὶ Ἀμμών(ιος). Παχνο(ῦβις) Φανώφε(ως)
+r.2   ὑπ(ὲρ) τιμῆ(ς) καὶ δαπανή(ματος) ἀνδ(ριάντος) Τραιανοῦ
+r.3   δραχ(μὰς) δύο (τετρώβολον) (γίνονται) (δραχμαὶ) β(τετρώβολον). (ἔτους) ιη Τραιανοῦ Ἀρίστου
+r.4   Καίσαρος τοῦ κυρίου Χοίακ θ.
+
+[TRANSLATION]
+1   Bassion and Ammonios. Pachnoubis son of Phanophis,
+2   for the price and expense of a statue of Trajan:
+3   two drachmas four obols — total 2 dr. 4 ob. Year 18 of Trajan Optimus
+4   Caesar the lord, Choiak 9.

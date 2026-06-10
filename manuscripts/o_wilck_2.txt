@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 2 — tax receipt (orchard tax)
+# Source: papyri.info DDbDP o.wilck;;2  (Trismegistos 24731)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 2
+label:    O.Wilck. 2
+name:     Tax receipt — orchard tax
+genre:    receipts
+date:     13 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities A.T. 86 d
+content:  Ostracon tax receipt — orchard tax, Syene/Elephantine
+tm:       24731
+source:   https://papyri.info/ddbdp/o.wilck;;2
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   ἔτους μγ Καίσαρος Χοία(κ) ιε
+r.2   τέτακται ἐπὶ τὴν ἐν Συή(νῃ)
+r.3   τρά(πεζαν) ἐφʼ ἧς Ἀμμώ(νιος) εἰς τ[ὸ] μ (ἔτος)
+r.4   ἀκροδρύ(ων) Ζμῆθις Παχνο(ύβιος)
+r.5   ἀρο(ύρης) 𐅵. Ἀμμ(ώνιος) τρα(πεζίτης).
+
+[TRANSLATION]
+1   Year 43 of Caesar, Choiak 15.
+2   Paid into the (bank) at Syene,
+3   the bank at which Ammonios (is banker), for the 40th year:
+4   orchard-tax — Zmethis son of Pachnoubis,
+5   for ½ aroura. Ammonios, banker.

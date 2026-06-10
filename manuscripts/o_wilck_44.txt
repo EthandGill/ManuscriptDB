@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 44 — tax receipt (pasturage tax (ennomion))
+# Source: papyri.info DDbDP o.wilck;;44  (Trismegistos 76623)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 44
+label:    O.Wilck. 44
+name:     Tax receipt — pasturage tax (ennomion)
+genre:    receipts
+date:     96 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Museum EA 14024
+content:  Ostracon tax receipt — pasturage tax (ennomion), Syene/Elephantine
+tm:       76623
+source:   https://papyri.info/ddbdp/o.wilck;;44
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [διέγραψεν] Πατρεμίτθης
+r.2   [Παπρεμί]θου ὑπ(ὲρ) ἐννομίο[υ ]
+r.3   [ το]ῦ ιε (ἔτους) Δομιτιαν[οῦ ]
+r.4   [ Μ]εσορὴ λ. Ψανσνῶ(ς) [ ]
+
+[TRANSLATION]
+1   Patremitthes paid,
+2   son of Papremithes, for the pasturage-tax […]
+3   of the 15th year of Domitian […]
+4   Mesore 30. Psansnos […]

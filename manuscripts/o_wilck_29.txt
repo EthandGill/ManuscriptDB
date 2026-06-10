@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 29 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;29  (Trismegistos 76609)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 29
+label:    O.Wilck. 29
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     77 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre N 690 (29\
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76609
+source:   https://papyri.info/ddbdp/o.wilck;;29
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψεν Πατραεν-
+r.2   σνοῦφις Ἀουεμμαοὺς ὑπὲρ
+r.3   λαογραφίας ἐνάτου (ἔτους)
+r.4   Οὐεσπασιανοῦ τοῦ κυρίου
+r.5   Μεσορὴ ιβ ἀργυ(ρίου) δραχ(μὰς) δέκα ἓξ
+r.6   (γίνονται) (δραχμαὶ) ιϛ. Πελέας ἔγραψα.
+
+[TRANSLATION]
+1   Has paid: Patraen-
+2   snouphis son of Aouemmaous, for
+3   the poll-tax of the ninth year
+4   of Vespasian the lord,
+5   Mesore 12, silver drachmas sixteen —
+6   total 16 dr. I, Peleas, wrote (this).

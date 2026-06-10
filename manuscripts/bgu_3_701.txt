@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# BGU 3 701 — receipt for seed-grain loan (to the sitologoi of Karanis)
+# Source: papyri.info DDbDP bgu;3;701  (Trismegistos 28077)
+# Scraped via Firecrawl; apparatus trimmed, brackets/markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.701
+label:    BGU 3.701
+name:     Receipt for a seed-grain loan
+genre:    receipts
+date:     2nd century CE
+language: Greek (Koiné)
+found:    Karanis, Fayum, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 8667
+content:  Receipt acknowledging receipt of seed-grain as a loan from the sitologoi of Karanis
+tm:       28077
+source:   https://papyri.info/ddbdp/bgu;3;701
+lat:      29.5186
+lon:      30.9036
+
+[GREEK]
+r.1   σιτολόγοι(ς) κώ(μης) Καρ(ανίδος)
+r.2   χαίρειν.
+r.3   ἔσχον παρʼ ὑμῶν εἰς
+r.4   δάνιον σπέρματα τοῦ
+r.5   ἐνεστῶτος κ (ἔτους) ἀπ(ὸ) γ(ενήματος)
+r.6   τοῦ διεληλ(υθότος) ιθ (ἔτους)
+
+[TRANSLATION]
+1   To the grain-officials (sitologoi) of the village of Karanis,
+2   greetings.
+3   I have received from you, as
+4   a loan, seed-grain of the
+5   present 20th year, from the produce
+6   of the past 19th year …

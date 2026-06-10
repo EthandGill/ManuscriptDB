@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 53 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;53  (Trismegistos 76632)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 53
+label:    O.Wilck. 53
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     98 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13982 (5791a)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76632
+source:   https://papyri.info/ddbdp/o.wilck;;53
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Πατροσζμῆθ(ις) Πελαίου Παιαὶ ὑπ(ὲρ) λαογραφ(ίας)
+r.2   α (ἔτους) Τραειανοῦ Καίσαρος τοῦ κυρίου
+r.3   ἐπὶ λόγ(ου) (δραχμὰς) τέσσαρας (γίνονται) (δραχμαὶ) δ. Παοῖνι η ἄλλας (δραχμὰς) δ.
+r.4   ὁμοίως ἔχω ἄλλας (δραχμὰς) ζ. ὁ αὐτὸς τὰς λυπὰς (δραχμὰς) β.
+r.5   Ἑρμογένης Ἀμμωνᾶτ(ος) πράκ(τωρ) ἔγραψα Ἐπὶφ λ.
+
+[TRANSLATION]
+1   Patroszmethis son of Pelaios Paiai paid, for the poll-tax
+2   of the 1st year of Trajan Caesar the lord,
+3   on account four drachmas — total 4 dr. Pauni 8, another 4 drachmas.
+4   Likewise I have another 7 drachmas. The same, the remaining 2 drachmas.
+5   I, Hermogenes son of Ammonas, the collector, wrote (this), Epeiph 30.

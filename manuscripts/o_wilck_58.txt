@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 58 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;58  (Trismegistos 76636)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 58
+label:    O.Wilck. 58
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     98/99 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76636
+source:   https://papyri.info/ddbdp/o.wilck;;58
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Ἀτπαχνοῦβις Παχ[ ]
+r.2   ὑπ(ὲρ) λαογραφ(ίας) β (ἔτους) Τραειανο[ῦ] [ ]
+r.3   ἐπὶ λόγ(ου) (δραχμὰς) η. ὁμοίως ἄλλας
+r.4   ρ του[ ]
+
+[TRANSLATION]
+1   Atpachnoubis son of Pach[…] paid,
+2   for the poll-tax of the 2nd year of Trajan […]
+3   on account 8 drachmas. Likewise another
+4   100(?) … [text lost]

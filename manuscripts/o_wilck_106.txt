@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 106 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;106  (Trismegistos 76681)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 106
+label:    O.Wilck. 106
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     117 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13970 (5791f)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76681
+source:   https://papyri.info/ddbdp/o.wilck;;106
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Οὐαλερίων καὶ οἱ λοιπ(οὶ) μισθ(ωταὶ) ἱερᾶς
+r.2   πύλης Σοήνης δι(α) Σαραπ(ίωνος) γρ(αμματέως).
+r.3   διέγραψ(εν) Ἁρπαῆσις Φανώφε-
+r.4   ως μητ(ρὸς) Ταχομτβῆκις
+r.5   λαο(γραφίας) κ (ἔτους) Τραιανοῦ Ἀρίστου
+r.6   τοῦ κυρίου δραχ(μὰς) δέκα ἑ-
+r.7   πτὰ (ἡμιωβέλιον) δεσμ(ο)ῦ (ἡμιωβέλιον) (γίνονται) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς). [διὰ ]
+r.8   Ἐπεὶφ ιβ.
+
+[TRANSLATION]
+1   Valerion and the other lessees of the Sacred
+2   Gate of Syene, through Sarapion the scribe.
+3   Paid: Harpaesis son of Phanoph-
+4   is, mother Tachomtbekis,
+5   for the poll-tax of the 20th year of Trajan Optimus
+6   the lord: seventeen drach-
+7   mas (and) a half-obol, a half-obol for the bond(?) — total 17 dr. 1 ob. [through …]
+8   Epeiph 12.

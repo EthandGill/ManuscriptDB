@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 73 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;73  (Trismegistos 76651)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 73
+label:    O.Wilck. 73
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     104 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13969 (5790a)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76651
+source:   https://papyri.info/ddbdp/o.wilck;;73
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Πετεῦρις Πετεύρεος λινοπόλ(ης)
+r.2   ὑπ(ὲρ) λαογραφ(ίας) ἑβδώμου (ἔτους) Τραειανοῦ
+r.3   Καίσαρος τοῦ κυρίου ἀργ(υρίου) (δραχμὰς) δέκα ἑπ-
+r.4   τὰ (γίνονται) (δραχμαὶ) ιζ, καὶ ὑπ(ὲρ) ἀνδριάντ(ος) τριόβολ(ον) .
+r.5   Ἑρμογένης Ἀμμωνᾶτος πράκ(τωρ)
+r.6   ἔγραψα (ἔτους) η Τραειανοῦ
+r.7   τοῦ κυρίου Ἁθαὺρ β.
+
+[TRANSLATION]
+1   Peteuris son of Peteuris, linen-seller, paid,
+2   for the poll-tax of the seventh year of Trajan
+3   Caesar the lord: seventeen silver drach-
+4   mas — total 17 dr., and for the statue, three obols.
+5   I, Hermogenes son of Ammonas, the collector,
+6   wrote (this). Year 8 of Trajan
+7   the lord, Hathyr 2.

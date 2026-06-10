@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 48 — tax receipt (river-guard tax (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;48  (Trismegistos 76627)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 48
+label:    O.Wilck. 48
+name:     Tax receipt — river-guard tax (potamophylakis)
+genre:    receipts
+date:     97/98 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12159
+content:  Ostracon tax receipt — river-guard tax (potamophylakis), Syene/Elephantine
+tm:       76627
+source:   https://papyri.info/ddbdp/o.wilck;;48
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [ ]αριων Ἀρίστωνος διὰ Σαραπίωνο(ς)
+r.2   [βοηθ(οῦ)]. διέγραψ(εν) Ζμενπὼς Πετορζμήθ(ιος)
+r.3   [ὑπ(ὲρ) ποταμο]φυλακί[δο]ς τοῦ β (ἔτους) Νερουᾶ
+r.4   [Καίσαρος τ]οῦ κυρίο(υ) ἐπὶ λ(όγου) δραχ(μὰς) τέσσαρες
+r.5   [(γίνονται) (δραχμαὶ) δ (ἔτους) β Νε]ρουᾶ τοῦ [κυρ]ίου.
+
+[TRANSLATION]
+1   […]arion son of Ariston, through Sarapion
+2   [the assistant]. Zmenpos son of Petorzmethis paid,
+3   [for] the river-guard tax of the 2nd year of Nerva
+4   [Caesar] the lord, on account four drachmas
+5   [total 4 dr. Year 2 of] Nerva the lord.

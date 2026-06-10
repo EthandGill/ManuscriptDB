@@ -103,7 +103,12 @@ Step 5).
 
 ## Step 4 — Classify the genre + geolocate
 
-Set `genre:` to one of ManuscriptDB's documentary genres by reading the text:
+papyri.info's **`Subjects`** row (German HGV keywords) is the fastest genre signal:
+`Quittung` = receipt · `Vertrag`/`Kaufvertrag`/`Pachtvertrag`/`Darlehen` = contract
+(sale/lease/loan) · `Brief` = letter · `Eingabe`/`Petition` = petition. The scraper
+prints `SUBJECTS:` and `SHELF:` (from the `Inv. no.` row — the museum shelf mark,
+which **must** go in the `shelf:` field so it shows in the sidebar). Confirm with the
+Greek; set `genre:` to one of ManuscriptDB's documentary genres:
 
 - **receipts** — acknowledgement of payment received: `ἔσχον` / `ἀπέχω`
   ("I have received"), tax/rent receipts, ostraca for grain or money.
@@ -145,11 +150,13 @@ a slug of the citation (e.g. `bgu_1_2.txt`).
 [META]
 id:       BGU 1.2
 label:    BGU 1.2
+name:     Petition to the strategos about crop damage   # short human title
 genre:    contracts            # or receipts / letters
 date:     209 CE               # normalise the HGV date
 language: Greek (Koiné)
 found:    Soknopaiu Nesos, Fayum, Egypt
-held:     <collection + inv. if shown>
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 6956   # Inv. no. — shown in the sidebar
 content:  Petition to the strategos about crop damage   # one-line summary
 tm:       8961
 source:   https://papyri.info/ddbdp/bgu;1;2

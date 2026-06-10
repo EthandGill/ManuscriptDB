@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# BGU 1 24 — receipt: part-payment acknowledgement, Arsinoite, 3rd c. CE
+# Source: papyri.info DDbDP bgu;1;24  (Trismegistos 31282)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 1.24
+label:    BGU 1.24
+name:     Receipt for a part-payment
+genre:    receipts
+date:     3rd century CE
+language: Greek (Koiné)
+found:    Arsinoite nome, Fayum, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 6904
+content:  Aurelius Herakleides acknowledges receiving 100 dr. on account from Aurelia Diodora
+tm:       31282
+source:   https://papyri.info/ddbdp/bgu;1;24
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Αὐρήλιος Ἡρακλείδης Ὥρου Αὐρηλί-
+r.2   ᾳ Διοδώρᾳ χέ[ρ]ει[ν]. ἔσχον παρὰ σοῦ
+r.3   ἀφʼ ὧν ἔχι μου Οὐεττούριος Μάξιμος
+r.4   ὁ κ(αὶ) Πολυδεύκης δραχμῶν πε-
+r.5   ντακοσίων ἐπὶ λόγου δραχμὰς
+r.6   ἑκατόν (γίνονται) (δραχμαὶ) ρ. ἔτου(ς) γ Μεσορὴ ε.
+
+[TRANSLATION]
+1   Aurelius Herakleides son of Horos, to Aureli-
+2   a Diodora, greetings. I have received from you,
+3   out of what Vetturius Maximus
+4   also called Polydeukes holds of mine — five
+5   hundred drachmas — on account, drachmas
+6   one hundred — total 100 dr. Year 3, Mesore 5.

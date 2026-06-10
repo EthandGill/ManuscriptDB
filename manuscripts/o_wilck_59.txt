@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 59 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;59  (Trismegistos 76637)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 59
+label:    O.Wilck. 59
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     99/100 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14058 (5791u)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76637
+source:   https://papyri.info/ddbdp/o.wilck;;59
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἁρπαῆσις Φενώφεος Θρα[κίδας]
+r.2   ὑπ(ὲρ) λαογραφ(ίας) γ (ἔτους) Τραειανοῦ
+r.3   τοῦ κυρίου ἐπὶ λόγ(ου) (δραχμὰς) θ.
+r.4   Ἑρμογένης.
+
+[TRANSLATION]
+1   Harpaesis son of Phenophis, [Thrakidas],
+2   for the poll-tax of the 3rd year of Trajan
+3   the lord, on account 9 drachmas.
+4   Hermogenes.

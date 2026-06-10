@@ -1,0 +1,77 @@
+# ───────────────────────────────────────────────
+# P.Oxy. 2 320 — contract: loan of money, Oxyrhynchus, 59 CE
+# Source: papyri.info DDbDP p.oxy;2;320  (Trismegistos 18137)
+# Scraped via Firecrawl; apparatus & editorial fillers trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy. 2.320
+label:    P.Oxy. 2.320
+name:     Loan of money (314 drachmas)
+genre:    contracts
+date:     59 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Princeton University Library
+shelf:    Princeton, University Library AM 1096
+content:  Tryphaina lends 314 dr. (repayable as 414) to Tryphon, Onnophris and Sareus
+tm:       18137
+source:   https://papyri.info/ddbdp/p.oxy;2;320
+lat:      28.5383
+lon:      30.6765
+
+[GREEK]
+r.1    ἔτους πέμπτου Νέρωνος Κλα[υδ]ίου Καίσαρος Σεβαστοῦ Γερμανικ[ο]ῦ
+r.2    Αὐτοκράτορ[ος] Παῦν[ι] (hand 2) κε (hand 1) ἐν Ὀ[ξυ]ρύγχων πόλει τῆς Θηβαίδο(ς).
+r.3    ἐδάνεισα[ν] Τρύφαινα [ ]ωριων[ο]ς τῶν ἀπʼ Ὀξυρύγχων πόλεω(ς)
+r.4    μετὰ κυρίου τοῦ τῆς ἀδελφ[ῆς] αὐτῆς Τρυφαίνης θυγατρὸς
+r.5    Ἰσιδώρας ἀν[δ]ρὸς Διονυσίου τοῦ Ἀμμωνίου Τρύφωνι καὶ
+r.6    Ὀννώφρει [ἀ]μφοτέροις Διονυσίου Πέρσαις τῆς ἐπιγονῆς
+r.7    καὶ τῆι το[ῦ Τρ]ύφωνος γυναικὶ Σαρεῦτι Ἀπίωνος Περ[σίν]ηι
+r.8    μετὰ κυρίο[υ] τοῦ προγεγραμμένου ἀνδρὸς Τρύφωνος πᾶσι
+r.9    τῶν ἀπὸ τῆς αὐτῆς πόλεως ἐν ἀγυιᾶι ἀργυρίου Σεβαστοῦ
+r.10   καὶ Πτολεμαικοῦ νομίσματος δραχμὰς τριακοσίας δέκα
+r.11   τέσσαρας κε[φα]λαίου αἷς οὐδὲν τῷ καθόλου προσῆκται·
+r.12   ἀποδό[τ]ωσ[α]ν δὲ οἱ δεδανεισμένοι Τρυφαίνηι τὰς τοῦ
+r.13   ἀργυρίου δρα[χ]μὰ[ς τ]ετρακοσίας δέκα τέσσαρας τῆι τριακάδι
+r.14   τ[οῦ] Νέου [Σ]εβαστοῦ [μ]ηνὸς τοῦ ἰσιόντος ἕκτου ἔτους
+r.15   Νέρων[ος Κλαυδίο]υ Κα[ίσ]α[ρος] Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+r.16   χωρὶς [πάσης ὑπ]ερθέ[σ]εως. ἐὰν δὲ μὴ ἀποδῶσι καθὰ
+r.17   γέγραπ[ται ἐκ]τισάτω[σ]αν [οἱ] δεδανεισμένοι Τρυφαί[ν]ῃ
+r.18   τ[ὸ] μὲ[ν] κ[εφάλαιον μεθʼ ἡ]μιολίας τοῦ δὲ ὑπερπεσόντος χρόνο(υ)
+r.19   τ[οὺ]ς καθήκοντ[ας τόκου]ς, ὄντες ἀλλήλων ἔγγυοι εἰς ἔκτεισ(ιν),
+r.20   κ[αὶ ἡ] πρᾶξις [ἔ]στω Τρυφαίνῃ ἔκ τε τῶν δεδανεισμένων
+r.21   καὶ ἐξ οὗ ἐὰν αἱρῆ[ται καὶ] ἐκ τῶν ὑπαρχόντων αὐτοῖς πάντω(ν)
+r.22   καθάπερ ἐγ δίκης. κυρία ἡ συγγραφή.
+r.23   (hand 3) ἔτους πέμπτου Νέρωνος Κλαυδίου Καίσαρος
+r.24   Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος Παῦνι π[έμπτῃ]
+r.25   καὶ εἰκάδι. διʼ Ἀπολλωνίου τὸ πρὶν κεχρη(ματικότος) Σεκούν[δο]υ
+r.26   τοῦ συνεσταμένου ὑπὸ τῶν μετόχων ἀγο(ρανόμων) κεχρη(μάτισται).
+
+[TRANSLATION]
+1    The fifth year of Nero Claudius Caesar Augustus Germanicus
+2    Imperator, Pauni (2nd hand) 25 (1st hand), in the city of Oxyrhynchus of the Thebaid.
+3    Tryphaina daughter of [...]orion, of those from the city of Oxyrhynchus,
+4    with her guardian, the husband of her sister Tryphaina's daughter
+5    Isidora — namely Dionysios son of Ammonios — lent to Tryphon and
+6    Onnophris, both sons of Dionysios, Persians of the epigone,
+7    and to Tryphon's wife Sareus daughter of Apion, a Persian woman,
+8    with her guardian, the aforewritten husband Tryphon — to all of them,
+9    of those from the same city, in the street: of silver of Augustus'
+10   and Ptolemaic coinage, three hundred and
+11   fourteen drachmas of capital, to which nothing at all has been added.
+12   Let the borrowers repay to Tryphaina the
+13   four hundred and fourteen silver drachmas on the thirtieth
+14   of the month Neos Sebastos of the incoming sixth year
+15   of Nero Claudius Caesar Augustus Germanicus Imperator,
+16   without any postponement. And if they do not repay as
+17   has been written, let the borrowers pay to Tryphaina
+18   the capital with half as much again, and for the time overrun
+19   the appropriate interest, being sureties for one another for the payment;
+20   and let the right of execution belong to Tryphaina against the borrowers
+21   and against whomever she chooses and against all their property,
+22   as if by legal judgment. The contract is valid.
+23   (3rd hand) The fifth year of Nero Claudius Caesar
+24   Augustus Germanicus Imperator, Pauni the twenty-
+25   fifth. Through Apollonios, formerly styled Secundus,
+26   appointed by the associate agoranomoi, it has been registered.

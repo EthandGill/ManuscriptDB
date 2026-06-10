@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 67 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;67  (Trismegistos 76645)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 67
+label:    O.Wilck. 67
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     101/102 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14049 (5788d)
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76645
+source:   https://papyri.info/ddbdp/o.wilck;;67
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Πετεῦρις Πετεύρ(εως)
+r.2   ὑπ(ὲρ) χ(ειρωναξίου) πέμτου (ἔτους)
+r.3   Τραειανοῦ Καίσαρος
+r.4   τοῦ κυρίου ἀργ(υρίου) (δραχμὰς) ιβ.
+r.5   ὑπ(ὲρ) ἐπικαρσίου οὗ ἔσχεν.
+r.6   Κᾶσις. Ἑρμογένης
+r.7   πράκ(τωρ) ἔγραψα.
+
+[TRANSLATION]
+1   Peteuris son of Peteuris paid,
+2   for the trade-tax of the fifth year
+3   of Trajan Caesar
+4   the lord: 12 silver drachmas.
+5   For the cross-weave tax(?) which he received.
+6   Kasis. I, Hermogenes,
+7   the collector, wrote (this).

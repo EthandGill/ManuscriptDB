@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 22 — tax receipt (palm-grove land-tax)
+# Source: papyri.info DDbDP o.wilck;;22  (Trismegistos 76603)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 22
+label:    O.Wilck. 22
+name:     Tax receipt — palm-grove land-tax
+genre:    receipts
+date:     72 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14201
+content:  Ostracon tax receipt — palm-grove land-tax, Syene/Elephantine
+tm:       76603
+source:   https://papyri.info/ddbdp/o.wilck;;22
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Ῥου]φ[ών]ιος Ἀντίγο(νος) δια[γεγρ(άφηκεν)]
+r.2   [Πετορ]ζμῆθ(ις) Παχνο(ύβιος) [ ]
+r.3   [ὑπ(ὲρ)] γεο[μ]ετ (ρίας) φοινικ(ῶνος) δ (ἔτους) (δραχμὰς) [ (ἔτους) ε]
+r.4   Αὐτοκράτορος Καίσα[ρος]
+r.5   Οὐεσπασιανοῦ Σεβαστοῦ
+r.6   Χο(ίακ) β.
+
+[TRANSLATION]
+1   [Rou]ph[on]ios Antigonos (bank). Has paid:
+2   [Petor]zmethis son of Pachnoubis […],
+3   [for] the land-survey tax on a palm-grove, 4th year, drachmas […]; [year 5]
+4   of Imperator Caesar
+5   Vespasian Augustus,
+6   Choiak 2.

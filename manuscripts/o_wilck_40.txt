@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 40 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;40  (Trismegistos 76619)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 40
+label:    O.Wilck. 40
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     92/93 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14906
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76619
+source:   https://papyri.info/ddbdp/o.wilck;;40
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διέγραψ(εν) Ψανσνὼς
+r.2   Πετορ(ζμήθιος) ὑπ(ὲρ) χι(ρωναξίου) ιβ (ἔτους) Δομιτιανοῦ
+r.3   τοῦ κυρίου ἀργ(υρίου) (δραχμὰς) κ(διώβολον).
+r.4   Σωκράτ(ης) πράκ(τωρ) ἔγραψ(α).
+
+[TRANSLATION]
+1   Psansnos paid,
+2   son of Petorzmethis, for the trade-tax of the 12th year of Domitian
+3   the lord: 20 silver drachmas 2 obols.
+4   I, Socrates, the collector, wrote (this).

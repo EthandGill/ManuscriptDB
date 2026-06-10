@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 4 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;4  (Trismegistos 76586)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 4
+label:    O.Wilck. 4
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     19 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 315
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76586
+source:   https://papyri.info/ddbdp/o.wilck;;4
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   διαγεγράφ(ηκεν)
+r.2   Ζμήθιος Παχνοῦβις
+r.3   ὑπ(ὲρ) λαογραφίας τοῦ
+r.4   πέμτου (ἔτους) Τιβερίου
+r.5   Καίσαρος Σεβαστοῦ
+r.6   Μεσορὴ λ
+r.7   (γίνονται) (δραχμαὶ) η.
+
+[TRANSLATION]
+1   Has paid:
+2   Zmethis son of Pachnoubis,
+3   for the poll-tax of the
+4   fifth year of Tiberius
+5   Caesar Augustus,
+6   Mesore 30:
+7   total 8 dr.
