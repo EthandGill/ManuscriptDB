@@ -1,9 +1,30 @@
-from flask import Flask, render_template, jsonify, request
+from flask import Flask, render_template, jsonify, request, redirect
 import os, re, gzip
 
 app = Flask(__name__)
 # Preserve dict insertion order in JSON responses (default sorts alphabetically)
 app.json.sort_keys = False
+
+
+@app.before_request
+def force_https():
+    """Redirect insecure http:// visitors to https://.
+
+    Railway terminates TLS at its edge and forwards the original scheme in the
+    X-Forwarded-Proto header. We only redirect when that header explicitly says
+    "http", so this never fires on the local dev server (where the header is
+    absent) — `python app.py` on localhost keeps working over http as before."""
+    if request.headers.get("X-Forwarded-Proto") == "http":
+        return redirect(request.url.replace("http://", "https://", 1), code=301)
+
+
+@app.after_request
+def security_headers(response):
+    """Tell browsers to stick to HTTPS on future visits (HSTS). Only sent when
+    the request actually arrived over https, so local http dev is unaffected."""
+    if request.headers.get("X-Forwarded-Proto") == "https":
+        response.headers["Strict-Transport-Security"] = "max-age=31536000"
+    return response
 
 
 @app.after_request
