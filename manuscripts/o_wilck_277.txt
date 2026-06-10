@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 277 — Harbor-guard receipt — mooring due (ἐνόρμιον)
+# Source: papyri.info DDbDP o.wilck;;277  (Trismegistos 76842)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 277
+label:    O.Wilck. 277
+name:     Harbor-guard receipt — mooring due (ἐνόρμιον)
+genre:    receipts
+date:     187–188 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7 [ostracon]
+content:  Mooring-due of Pauni, year 28
+tm:       76842
+source:   https://papyri.info/ddbdp/o.wilck;;277
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Παχνοῦβ[ις καὶ ̣ ̣ ̣ ̣ ̣ ̣]
+r.2   μισθ(ωταὶ) εἴδου[ς ὁρμοφυλακίας].
+r.3   διέγρ(αψεν) Πᾶρις [ ̣ ̣ ̣ ̣]
+r.4   Ὥρου μη(τρὸς) Τ[ ̣ ̣ ̣ ̣ ὑπ(ὲρ) ἐνορμίου τοῦ]
+r.5   Παῦνι το[ῦ ἐνεστῶτος]
+r.6   κη (ἔτους) [- ca.9 -]
+
+[TRANSLATION]
+1   Pachnoub[is and …,]
+2   lessees of the conces[sion of the harbor-guard].
+3   Paid: Paris son of […]
+4   son of Horos, mother T[…, for the mooring-due of (the month)]
+5   Pauni of th[e present]
+6   year 28 […]

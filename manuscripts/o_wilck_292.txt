@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 292 — Tax receipt — house rent (ἐνοίκιον οἰκιῶν)
+# Source: papyri.info DDbDP o.wilck;;292  (Trismegistos 76856)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 292
+label:    O.Wilck. 292
+name:     Tax receipt — house rent (ἐνοίκιον οἰκιῶν)
+genre:    receipts
+date:     2nd c. CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7185
+content:  House-rent tax, year 3(?)
+tm:       76856
+source:   https://papyri.info/ddbdp/o.wilck;;292
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Σανσνὼς Πα[πρε]μείθου καὶ οἱ λοιπ(οὶ) πρ(ά)κ(τορες)
+r.2   ἀρ(γυρικῆς) Ἐλ[ε]φ(αντίνης). [δι]έγ(ραψεν) Ἀτπὴς Καλασείριος
+r.3   ὑπ(ὲρ) ἐν[ο]ικ(ίου) οἰκ(ιῶν) γθ (ἔτους) ὀνόμ(ατος) Αρι ̣ ̣η ̣·
+r.4   Σα … ίσιο(ς) [(δραχμὰς)] δ (ὀβολὸν) α𐅵.
+r.5   (ἔτους) ι Ἁθὺρ κε.
+
+[TRANSLATION]
+1   Sansnos son of Pa[pre]mithes and the other collectors
+2   of money-taxes of El[e]phantine. [Pa]id: Atpes son of Kalaseiris,
+3   for house-rent of year 3(?), for the account of Ari…es(?),
+4   Sa…isios: [drachmas] 4, 1½ obols.
+5   Year 10, Hathyr 25.

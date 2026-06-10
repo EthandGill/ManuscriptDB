@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 293 — Tax receipt — river-guard, station and praetorian-boat assessment
+# Source: papyri.info DDbDP o.wilck;;293  (Trismegistos 76857)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 293
+label:    O.Wilck. 293
+name:     Tax receipt — river-guard, station and praetorian-boat assessment
+genre:    receipts
+date:     1st–4th c. CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre O. 15
+content:  Assessment for river-guards, station and praetorian boat, year 7
+tm:       76857
+source:   https://papyri.info/ddbdp/o.wilck;;293
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣] καὶ Διονυσόδ(ωρος) Σερή[νου]
+r.2   [καὶ ̣ ̣ ̣ ̣ ̣ ̣]παχ( ) καὶ οἱ λοιπ(οὶ) πράκτορε[ς]
+r.3   [ἀργυρ]ικ(ῶν) καὶ σιτικ(ῶν) Ἐλεφαντίνης. διέγρα-
+r.4   ψεν Μενεὺς καὶ ὁ τούτ(ου) θεῖος Ψάεις καὶ
+r.5   ὁ τούτ(ου) ἀδελφὸς Πμούεις ὑπ(ὲρ) μερισμο(ῦ)
+r.6   ποταμοφυλακίδων καὶ στατίωνος
+r.7   καὶ πλοίου πρετωρίου λαμ(προτάτου(?)) ζ (ἔτους) (δραχμὴν) α χ.
+r.8   (ἔτους(?)) ζ Ἐπεὶφ κγ. Δ(ιονυσόδωρος)
+
+[TRANSLATION]
+1   […] and Dionysod(oros) son of Sere[nos]
+2   [and …]pach( ) and the other collector[s]
+3   [of money]-taxes and grain-taxes of Elephantine. Pai-
+4   d: Meneus and his uncle Psais and
+5   his brother Pmoueis, for the assessment
+6   of river-guards and the station
+7   and the most-illustrious(?) praetorian boat, of year 7: 1 dr. 1 chalkous.
+8   Year(?) 7, Epeiph 23. D(ionysodoros).

@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 281 — Tax receipt — price of state date-palm (τιμὴ δημοσίου φοίνικος)
+# Source: papyri.info DDbDP o.wilck;;281  (Trismegistos 76846)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 281
+label:    O.Wilck. 281
+name:     Tax receipt — price of state date-palm (τιμὴ δημοσίου φοίνικος)
+genre:    receipts
+date:     180–181 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7187
+content:  Price of state date-palm, produce of year 20
+tm:       76846
+source:   https://papyri.info/ddbdp/o.wilck;;281
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [- ca.9 -]ς Διδύμο(υ) καὶ Ἑρμόδωρος Σωτ( ) πρ(άκτορες) ἀργ(υρικῆς) Ἐλεφ(αντίνης).
+r.2   [διέγρ(αψεν) Παχνο]ῦβις Ἰήβεως ὑπ(ὲρ) τι(μῆς) δη(μοσίου) φοί(νικος) γ(εν)ή(ματος) κ (ἔτους)
+r.3   [δραχ(μας) ἓξ τετρώ]βολ(ον) (γίνονται) (δραχμαὶ) ϛ(τετρώβολον). (ἔτους) κα Μάρκου
+r.4   [Αὐρηλ(ίου(?)) Σεουήρου Ἀν]τωνίνου Καίσαρος τοῦ κυρίου
+r.5   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣] (hand 2) Μ ̣ ̣ ̣ ̣ σεσημίομαι
+
+[TRANSLATION]
+1   […]s son of Didymos and Hermodoros son of Sot( ), collectors of money-taxes of Eleph(antine).
+2   [Paid: Pachno]ubis son of Iebis, for the price of state date-palm of the produce of year 20,
+3   [six drachmas, four] obols — total 6 dr. 4 ob. Year 21 of Marcus
+4   [Aurelius Severus An]toninus Caesar the lord,
+5   […] (2nd hand) I, M…, have signed.

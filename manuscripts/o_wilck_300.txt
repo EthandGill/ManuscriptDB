@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 300 — Tax receipt in kind — ben-nuts (μυρόβαλανος)
+# Source: papyri.info DDbDP o.wilck;;300  (Trismegistos 76863)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 300
+label:    O.Wilck. 300
+name:     Tax receipt in kind — ben-nuts (μυρόβαλανος)
+genre:    receipts
+date:     25 Jul – 23 Aug 176 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ben-nuts in kind, produce of year 15
+tm:       76863
+source:   https://papyri.info/ddbdp/o.wilck;;300
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Μα ̣ ̣ ̣[ ̣ καὶ οἱ σὺν αὐτῷ]
+r.2   ἐπιτηρητα[ὶ ἱερᾶς πύλης Σοήνης]
+r.3   διʼ ἐμοῦ Μ[άρκου Ἀννίου Νε-]
+r.4   μωνιανοῦ ἀ[παιτητοῦ. ἐμέ-]
+r.5   τρησεν [Π]ουῆρ[ις Πετορζ-]
+r.6   μῆτις ὑπ(ὲρ) γ νο( ) μ[υροβ(αλάνων) γενή-]
+r.7   ματ(ος) ιε (ἔτους) ὀνόμ(ατος) Πα[ ̣ ̣ ̣ ̣ ̣]
+r.8   καὶ ἀδελφῶν τὸ ἐπιβ[άλλον]
+r.9   σοι μέρος. (ἔτους) ιϛ Μεσορ[ὴ ̣ ̣].
+
+[TRANSLATION]
+1   Ma…[. and his associates,]
+2   overseer[s of the sacred gate of Syene,]
+3   through me, M[arcus Annius Ne-]
+4   monianus, ta[x-requisitioner. Mea-]
+5   sured out: [P]ouer[is son of Petorz-]
+6   methes, for the 3rd (assessment) of b[en-nuts of the pro-]
+7   duce of year 15, for the account of Pa[…]
+8   and his brothers, the [portion] falling
+9   to you. Year 16, Mesor[e …]

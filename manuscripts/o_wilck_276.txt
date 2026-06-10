@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 276 — Tax receipt — palm revenue (πρόσοδοι φοινίκων)
+# Source: papyri.info DDbDP o.wilck;;276  (Trismegistos 76841)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 276
+label:    O.Wilck. 276
+name:     Tax receipt — palm revenue (πρόσοδοι φοινίκων)
+genre:    receipts
+date:     11 Dec 187 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Turin, Museo Egizio 16
+content:  Revenue from date-palms, produce of year 27
+tm:       76841
+source:   https://papyri.info/ddbdp/o.wilck;;276
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Νεμώνιος Σωκράτ(ους) καὶ Σωκ(ράτης)
+r.2   Σαραπίωνος πράκ(τορες) ἀργ(υρικῶν) Σοή-
+r.3   νης διʼ ἐμοῦ Αἰβουτίου Σερήνου
+r.4   βοηθ(οῦ). διέ(γραψεν) Ταλιλαοῦις ὑπ(ὲρ) προσ-
+r.5   όδων φοινίκ(ων) γενήμ(ατος) κζ (ἔτους)
+r.6   ὀνόμ(ατος) Σνασνῶτ(ος) Παχομ-
+r.7   παψενχνούμεως ἀπὸ
+r.8   (δραχμῶν) ϛ τὸ (τρίτον) (δραχμὰς) β . (ἔτους) κη…
+r.9   Ἁδριανοῦ ιδ.
+
+[TRANSLATION]
+1   Nemonios son of Sokrates and Sokrates
+2   son of Sarapion, collectors of the money-taxes of Sye-
+3   ne, through me, Aibutius Serenus,
+4   assistant. Paid: Talilaouis, for the rev-
+5   enues from date-palms of the produce of year 27,
+6   for the account of Snasnos son of Pachom-
+7   papsenchnoumis: from
+8   6 dr. the third, 2 dr. Year 28 …,
+9   Hadrianos (month) 14.

@@ -1,0 +1,47 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 297 — Tax receipt in kind — ben-nuts (μυρόβαλανος)
+# Source: papyri.info DDbDP o.wilck;;297  (Trismegistos 76860)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 297
+label:    O.Wilck. 297
+name:     Tax receipt in kind — ben-nuts (μυρόβαλανος)
+genre:    receipts
+date:     3 Jan 171 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre O. 5
+content:  Ben-nuts in kind, produce of years 8–10
+tm:       76860
+source:   https://papyri.info/ddbdp/o.wilck;;297
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Τιθοητίων καὶ Στέφανος
+r.2   ἐπιτηρηταὶ ἱερᾶς πύλης
+r.3   Σοήν(ης) διὰ Μάρκου Ἀννίου
+r.4   Νεμωνιανοῦ. ἐμέτρησεν
+r.5   Μηνόφιλος ὑπ(ὲρ) γ νομ( ) μυροβ(αλάνων)
+r.6   γενή(ματος) η (ἔτους) καὶ θ (ἔτους) καὶ ι (ἔτους)
+r.7   εἰς τ̣ὸ̣ γ [ὀνόμ(ατος)] Ἁρπαῆσις Π[α-]
+r.8   χνού(βιος) ἀπ(ὸ) ματ(ίων) ζ τὸ ἕκτ[ον].
+r.9   (ἔτους) ια Ἀντωνίνου
+r.10   Καίσαρος τοῦ κυρίου
+r.11   Τῦβι η.
+
+[TRANSLATION]
+1   Tithoetion and Stephanos,
+2   overseers of the sacred gate
+3   of Syene, through Marcus Annius
+4   Nemonianus. Measured out:
+5   Menophilos, for the 3rd (assessment) of ben-nuts,
+6   of the produce of year 8 and year 9 and year 10,
+7   toward the 3rd: [for the account of] Harpaesis son of Pa-
+8   chnoubis, from 7 matia, the sixth.
+9   Year 11 of Antoninus
+10   Caesar the lord,
+11   Tybi 8.

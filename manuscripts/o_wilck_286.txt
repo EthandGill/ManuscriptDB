@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 286 — Tax receipt — watchtower assessment (μερισμὸς σκοπέλων)
+# Source: papyri.info DDbDP o.wilck;;286  (Trismegistos 50755)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 286
+label:    O.Wilck. 286
+name:     Tax receipt — watchtower assessment (μερισμὸς σκοπέλων)
+genre:    receipts
+date:     2nd c. CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 323
+content:  Watchtower assessment of year 12, two men
+tm:       50755
+source:   https://papyri.info/ddbdp/o.wilck;;286
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀ̣ ̣ ̣π ̣ος Διδύ(μου)
+r.2   καὶ Ἀμῶνις πράκ(τορες)
+r.3   ἀργ(υρικῆς) Ἐ(λ)εφ(αντίνης) διὰ βοηθ(οῦ).
+r.4   διέγρ(αψεν) Μηνόφιλ(ος)
+r.5   μείζ(ων) Ὀρβ(άειδος) μη(τρὸς) Τισά(τιος)
+r.6   ὑπ(ὲρ) μερισ(μοῦ) σκοπ(ελ ) ιβ (ἔτους)
+r.7   (δραχμὰς) δ, καὶ Ἁρπ(αῆσις) υἱὸς
+r.8   ὑπ(ὲρ) μερισ(μοῦ) σκοπ(ελ )
+r.9   ιβ (ἔτους) (δραχμὰς) δ. (ἔτους) ιβ
+r.10   Μεχ(ὶρ) ιζ.
+
+[TRANSLATION]
+1   A..p..os son of Didymos
+2   and Amonis, collectors
+3   of money-taxes of Elephantine, through an assistant.
+4   Paid: Menophilos
+5   the elder, of Orbaeis, mother Tisas,
+6   for the watchtower assessment of year 12,
+7   4 dr.; and Harpaesis his son,
+8   for the watchtower assessment
+9   of year 12, 4 dr. Year 12,
+10   Mecheir 17.

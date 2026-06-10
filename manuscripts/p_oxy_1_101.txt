@@ -1,0 +1,145 @@
+# ───────────────────────────────────────────────
+# P.Oxy. 1.101 — contract: Lease of farmland (6 years, 38 arouras)
+# Source: papyri.info DDbDP p.oxy;1;101  (Trismegistos 20760)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy. 1.101
+label:    P.Oxy. 1.101
+name:     Lease of farmland (6 years, 38 arouras)
+genre:    contracts
+date:     142 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     Haskell Oriental Institute, Chicago
+shelf:    Chicago, Haskell Oriental Institute 2064
+content:  Dionysia leases 38 arouras to Psenamounis for 6 years at 190 art. wheat + 12 dr. per year
+tm:       20760
+source:   https://papyri.info/ddbdp/p.oxy;1;101
+lat:      28.5383
+lon:      30.6765
+
+[GREEK]
+r.1   ἐμίσθωσεν Διονυσία Χαιρήμ[ον]ος μετὰ
+r.2   κ[υ]ρίου τοῦ υἱ οῦ Ἀπίωνος τοῦ καὶ Διονυσίου Διογέ-
+r.3   νους, ἀμφότεροι ἀπʼ Ὀξυρύγχων πόλεως, Ψενα-
+r.4   μούνει Θώνιος μητρὸς Σεοήριος ἀπὸ Πακέρ-
+r.5   κη ἀπηλιώτου τοπαρχίας, Πέρσῃ τῆς ἐπιγονῆς,
+r.6   εἰς ἔτη ἓξ ἀπὸ τοῦ ἐνεστῶτος ἕκτου ἔτ[ους]
+r.7   Ἀντωνείνου Καίσαρος τοῦ κυρίου, τὰς ὑπαρχού-
+r.8   σας αὐτῇ καὶ πρ[ογ]εωργουμένας ὑπὸ τοῦ Ψενα-
+r.9   μούνιος καθʼ ἑτέραν μίσθωσιν ἀρούρας τριά-
+r.10   κοντα ὀκτώ , ὥστε ἐπὶ μὲν τὰ τακτὰ
+r.11   ἔτη πέντε σπεῖραι καὶ ξυλαμῆσαι οἷς ἐὰν
+r.12   αἱρῆται χωρὶς ἰ σάτεως καὶ ὀχομενίου,
+r.13   τῷ δὲ ἐσχάτῳ ἐνιαυτῷ ὁμοίως σπεῖραι
+r.14   καὶ ξυλαμῆσαι τοῖς διὰ τῆς προτέρας μισ-
+r.15   θώσεως δηλουμένοις ποιῆσαι αὐτὸν
+r.16   τῷ ἐσχάτῳ ἐνιαυτῷ γένεσι, ἐκφορίου
+r.17   τῶν ὅλων ἀρουρῶν ἐπὶ τὴν ἑξαετίαν κα-
+r.18   τʼ [ἔ]τος ἀποτακτοῦ πυροῦ ἀρταβῶν ἑκα-
+r.19   τ[ὸν] ἐνενήκοντα , καὶ σπονδῆς ὁμοίως κ[α-]
+r.20   τʼ [ἔτο]ς δραχμῶν δέκα δύο , ἀκίνδυνα πάν-
+r.21   τ[α] παντὸς κινδύνου, τῶν τῆς γῆς δημοσίων ὄν-
+r.22   των πρὸς τὴν μεμισθωκυῖαν, ἣν καὶ κυριεύειν
+r.23   τῶν καρπῶν ἕως τὰ κατʼ ἔτος ὀφειλόμενα κο-
+r.24   μίσηται. ἐὰν δέ τις τοῖς ἑξῆς ἔτεσι
+r.25   ἄβροχος γένηται, παραδεχθήσεται τῷ
+r.26   μεμισθωμένῳ, ὃς καὶ βεβαιουμένη[ς]
+r.27   τῆς μισθώσεως (hand 2) μετρείτω ἀπὸ τοῦ
+r.28   κατʼ ἔτος ἀποτακτοῦ εἰς δημόσιον
+r.29   θησαυρὸν τὰ ὑ πὲρ τῶν ἐδαφῶν κα-
+r.30   τʼ ἔτος σειτικὰ δημόσια ταῖς ἑαυτοῦ
+r.31   δαπάναις, ὧν θέμα ἀναδότω τῇ με-
+r.32   μιθωκυιη καθαρὸν ἀπὸ πάντων κατʼ ἔ-
+r.33   τος ὑπὸ τὴν πρώτην μέτρη[σ]ιν παρα-
+r.34   δεχομένης αὐτῷ μιᾶς ἀντὶ μιᾶς , τὰ
+r.35   δὲ λοιπὰ τῶν κατʼ ἔτος ἐκφορίων καὶ
+r.36   τὴν σπονδὴν ἀποδότω αὐτῇ ἀεὶ μη-
+r.37   νὶ Παῦνι ἐφʼ ἅλω Πακέρκη πυρὸν νέον
+r.38   καθαρὸν ἄδολον ἄκριθον κεκοσκινευ-
+r.39   μένον ὡς εἰς δημό[σι]ον μετρούμενον
+r.40   μέτρῳ τετραχοινίκῳ χαλκοστόμῳ
+r.41   παραλημπτικῷ τῆς μεμισθωκυίας [ἢ]
+r.42   τῶν παρʼ αὐτῆς μετρούντων. ὃ δʼ ἂν προσ-
+r.43   οφειλέσῃ ὁ μεμισθωμένος ἀποτεισά-
+r.44   τω μεθʼ ἡμιολίας, καὶ ἡ πρᾶξις ἔστω τῇ
+r.45   μεμισθωκυίῃ ἔκ τε τοῦ μεμισθωμέ-
+r.46   νου καὶ ἐκ τῶν ὑπαρχόντων αὐτῷ πά[ν-]
+r.47   των, οὐκ ἐξόντος τῇ μεμισθωκυίῃ ἑτέ-
+r.48   ροις μεταμισθοῦν οὐδὲ αὐτουργεῖν ἐν-
+r.49   τὸς τοῦ χρόνου. κυρία ἡ μίσθωσις. (ἔτους) ϛ
+r.50   Αὐτοκράτορος Καίσαρος Τίτου Αἰλίου
+r.51   Ἁδριανοῦ Ἀντωνίνου Σεβαστοῦ Εὐσεβοῦς,
+r.52   Φαῶφι ε. (hand 3) Ψεναμοῦνις Θώνιος μεμί-
+r.53   σθωμαι τὴν γῆν ἐπὶ τὰ ἓξ ἔτη
+r.54   ἀποτακτοῦ κατʼ ἔτος πυροῦ ἀρταβῶν
+r.55   ἑκατὸν ἐνενήκοντα καὶ σπονδῆς
+r.56   δραχμῶν δέκα δύο , καὶ ἀπο-
+r.57   [δ]ώσω πάντα ὡς πρόκιται. Θέων
+r.58   Θέωνος μητρὸς Ὠφελίας ἔγρα-
+r.59   ψα [ὑ]πὲρ αὐτοῦ μὴ εἰδότος γράμ-
+r.60   ματα. χρό(νος) ὁ α(ὐτός).
+
+[TRANSLATION]
+1   Dionysia daughter of Chairemon, with
+2   her guardian, her son Apion also called Dionysios son of Dioge-
+3   nes, both from the city of Oxyrhynchus, leased to Psena-
+4   mounis son of Thonis, mother Seoeris, from Paker-
+5   ke of the eastern toparchy, a Persian of the epigone,
+6   for six years from the present sixth ye[ar]
+7   of Antoninus Caesar the lord, the (land) belong-
+8   ing to her and previously farmed by Psena-
+9   mounis under another lease: thirty-
+10   eight arouras — so that, for the fixed
+11   five years, he may sow and cultivate with whatever he
+12   chooses, apart from woad and ochomenion(?),
+13   and in the last year likewise sow
+14   and cultivate with the crops indicated through the previous
+15   lease, he being required to produce them
+16   in the last year; at a rent,
+17   for all the arouras, over the six-year period, per
+18   [y]ear, of a fixed quantity of wheat: one hun-
+19   dre[d and] ninety artabas; and likewise of a libation pe[r]
+20   [yea]r of twelve drachmas — everything free of risk,
+21   of every risk, the public charges on the land be-
+22   ing (charged) to the lessor, who also is to own
+23   the crops until she rec-
+24   overs what is owed each year. And if in the following years any (land)
+25   goes unwatered, an allowance shall be made to the
+26   lessee; and he, the lease being guaranteed,
+27   (2nd hand) shall measure out, from the
+28   yearly fixed quantity, into the public
+29   granary the yearly grain-charges
+30   on the holdings, at his own
+31   expense, and the receipt for them let him hand over to the les-
+32   sor, clear of everything, each ye-
+33   ar at the first measuring, an allow-
+34   ance being made to him of one (artaba) for one; and the
+35   rest of the yearly rents and
+36   the libation let him pay to her always in the mo-
+37   nth Pauni, at the threshing-floor of Pakerke: new wheat,
+38   clean, unadulterated, free of barley, sift-
+39   ed, as measured into the publ[ic] (granary),
+40   by the four-choinix bronze-rimmed
+41   receiving-measure of the lessor [or]
+42   of those measuring for her. And whatever the les-
+43   see may additionally owe, let him pay
+44   with half as much again; and let the right of execution belong to the
+45   lessor against both the les-
+46   see and a[l]l his belong-
+47   ings — the lessor not being permitted
+48   to lease (it) out to others nor to farm it herself with-
+49   in the term. The lease is valid. Year 6
+50   of Imperator Caesar Titus Aelius
+51   Hadrianus Antoninus Augustus Pius,
+52   Phaophi 5. (3rd hand) I, Psenamounis son of Thonis, have
+53   leased the land for the six years
+54   at a fixed quantity per year of wheat: one hundred
+55   and ninety artabas, and a libation of
+56   twelve drachmas, and I shall
+57   pay everything as stated above. I, Theon
+58   son of Theon, mother Ophelia, wro-
+59   te on his behalf, as he does not know let-
+60   ters. The date is the same.

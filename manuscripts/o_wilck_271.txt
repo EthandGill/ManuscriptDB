@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 271 — Tax receipt — assessments / fort levy (μερισμοί)
+# Source: papyri.info DDbDP o.wilck;;271  (Trismegistos 76837)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 271
+label:    O.Wilck. 271
+name:     Tax receipt — assessments / fort levy (μερισμοί)
+genre:    receipts
+date:     10 Jan 179 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7645
+content:  Assessments of year 18 for the fort near Phoinike
+tm:       76837
+source:   https://papyri.info/ddbdp/o.wilck;;271
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἰούλ(ιος) Σερῆνος πράκ(τωρ) ἀργ(υρικῆς) Ἐλεφ(αντίνης) καὶ Ἀπολλώ-
+r.2   νιος Ἀμωνίου καὶ Οὐαλερίων Μη-
+r.3   μαρμ( ) ἀναδοθ(έντες) εἰς κλῆρο(ν) ἀντὶ Ἁρπ(χήμιος) .
+r.4   διέγραψ(εν) Πετορζ(μῆθις) μη(τρὸς) Θιν-
+r.5   πατρανσνοῦφις ὑπ(ὲρ) μερισμῶν
+r.6   ιη (ἔτους) ὑπ(ὲρ) προυρίου περὶ Φοινίκ(ην) καλο[ύ-]
+r.7   μενον Σανδαντ̣ην̣ δραχ(μὰς)
+r.8   δέκα τέσσαρας ὀβολ(ὸν) ἡμιοβελιν
+r.9   δίχαλκον. (ἔτους) ιθ Τῦβι ιε̣.
+r.10   Ἰούλ(ιος) Σερῆνο(ς) συναπέσχο(ν).
+
+[TRANSLATION]
+1   Iulius Serenus, collector of money-taxes of Elephantine, and Apollo-
+2   nios son of Amonios, and Valerion son of Me-
+3   marm( ), appointed to the office in place of Harp(chemis).
+4   Paid: Petorz(methes), mother Thin-
+5   patransnouphis, for assessments
+6   of year 18, for the fort(?) near Phoinike call-
+7   ed Sandantes: drachmas
+8   fourteen, one obol, a half-obol,
+9   two chalkoi. Year 19, Tybi 15.
+10   I, Iulius Serenus, have jointly received.

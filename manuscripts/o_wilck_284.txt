@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 284 — Tax receipt — palm-grove survey tax (fragmentary)
+# Source: papyri.info DDbDP o.wilck;;284  (Trismegistos 76849)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 284
+label:    O.Wilck. 284
+name:     Tax receipt — palm-grove survey tax (fragmentary)
+genre:    receipts
+date:     1st–4th c. CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Fragmentary survey-tax on palm-grove
+tm:       76849
+source:   https://papyri.info/ddbdp/o.wilck;;284
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [⁦ -ca.?- ⁩] ̣ Παμ ̣[ ̣ ̣ ̣ ̣]
+r.2   [⁦ -ca.?- ⁩]ου βοηθ(οῦ). δ[ιέγραψεν]
+r.3   [⁦ -ca.?- ⁩ ὑπ(ὲ)ρ] γεομετ(ρίας) φοι(νικῶνος) γενή[ματος]
+r.4   [⁦ -ca.?- ⁩]υ Καίσαρος τοῦ κυρίου ̣[⁦ -ca.?- ⁩]
+
+[TRANSLATION]
+1   […]. Pam…[…]
+2   […]os assistant. P[aid:]
+3   [… for] the survey-tax on the palm-grove of the produce
+4   […]os Caesar the lord …[…]

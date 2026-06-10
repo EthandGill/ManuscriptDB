@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 272 — Tax receipt — price of state date-palm (τιμὴ δημοσίου φοίνικος)
+# Source: papyri.info DDbDP o.wilck;;272  (Trismegistos 76838)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 272
+label:    O.Wilck. 272
+name:     Tax receipt — price of state date-palm (τιμὴ δημοσίου φοίνικος)
+genre:    receipts
+date:     30 Apr 179 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5810
+content:  Price of state date-palm, produce of year 18
+tm:       76838
+source:   https://papyri.info/ddbdp/o.wilck;;272
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἰού[λ(ιος) Σ]ερῆ(νος) πράκ(τωρ) ἀργ(υρικῆς) Ἐλε(φαντίνης) καὶ Οὐ-
+r.2   αλέριαν καὶ Ἀπολλ(ώνιος) ἰς κλῆρον
+r.3   πρακ(τορ ) κ̣ (ἔτους) ἀνε (δοθέντες). διέγραψεν Θινε-
+r.4   σέπτις Τισᾶτις τιμῆ(ς) δημω-
+r.5   σίου φένικος γενή(ματος) ιη (ἔτους) ὀνό(ματος)
+r.6   Ἀννίου Βάσσου (δραχμὴν) α(πεντώβολον), καὶ ὑπὲ(ρ) ὀνό(ματος)
+r.7   Ἀγαθωδώρου καὶ Βάσσο(υ) καθʼ ἑαυτὸ̣ν̣.
+r.8   μέρος (πεντώβολον). (ἔτους) ιθ Παχὼν ε.
+r.9   (hand 2) Ἰ ούλ(ιος) Σερ(ῆνος) συναπέσχ(ον).
+
+[TRANSLATION]
+1   Iu[lius S]erenus, collector of money-taxes of Ele(phantine), and Va-
+2   leria and Apollonius, appointed to the office
+3   as collectors(?) in year 20. Paid: Thine-
+4   septis daughter of Tisatis, for the price of state
+5   date-palm of the produce of year 18, for the account
+6   of Annius Bassus, 1 dr. 5 ob.; and for the account
+7   of Agathodoros and Bassus, on his own behalf:
+8   his share, 5 obols. Year 19, Pachon 5.
+9   (2nd hand) I, Iulius Serenus, have jointly received.

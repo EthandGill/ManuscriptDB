@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 270 — Tax receipt — poll-tax and assessments (λαογραφία, μερισμοί)
+# Source: papyri.info DDbDP o.wilck;;270  (Trismegistos 76836)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 270
+label:    O.Wilck. 270
+name:     Tax receipt — poll-tax and assessments (λαογραφία, μερισμοί)
+genre:    receipts
+date:     10 Aug 176 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13998
+content:  Poll-tax of year 16 and assessments from year 15
+tm:       76836
+source:   https://papyri.info/ddbdp/o.wilck;;270
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   ιϛ (ἔτους) Αὐρηλίου Ἀντωνίνου Κα[ίσαρος]
+r.2   τοῦ κυρίου Μεσορὴ ιζ διέγ(ραψαν) Σω[ ̣ ̣ ̣]
+r.3   καὶ Σεραπ(ίων) ἀμφό(τεροι) Ἀτπήους ο( ) Θιν[ ̣ ̣ ̣]
+r.4   λαογ(ραφίας) ιϛ (ἔτους) ἐκ (δραχμῶν) ιζ, καὶ ὑπ(ὲρ) μερισμ[ῶν ἀπὸ]
+r.5   λήμμα(τος) ιε (ἔτους) ἐκ (δραχμῶν) β(ὀβολοῦ). διὰ Σε[ ̣ ̣ ̣ ̣]
+
+[TRANSLATION]
+1   Year 16 of Aurelius Antoninus Ca[esar]
+2   the lord, Mesore 17. Paid: So[…]
+3   and Serapion, both sons of Atpheus …, Thin[…]
+4   for poll-tax of year 16 at 17 dr., and for assessmen[ts from]
+5   the receipt of year 15 at 2 dr. 1 ob. Through Se[…].

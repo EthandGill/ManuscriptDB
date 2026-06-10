@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 307 — Salt-tax receipt (ἁλική), Ptolemaic Thebes
+# Source: papyri.info DDbDP o.wilck;;307  (Trismegistos 76869)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 307
+label:    O.Wilck. 307
+name:     Salt-tax receipt (ἁλική), Ptolemaic Thebes
+genre:    receipts
+date:     26 Oct 235 BCE
+language: Greek (Koiné)
+found:    Thebes, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4017
+content:  Salt-tax through Sostratos, year 13 (Ptolemaic Thebes)
+tm:       76869
+source:   https://papyri.info/ddbdp/o.wilck;;307
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   (ἔτους) ιγ Θῶυθ ϛ
+r.2   ἁλικῆς διὰ Σωστράτου
+r.3   Παβοῦχις [ ̣ ̣ ̣ ̣ ̣]
+
+[TRANSLATION]
+1   Year 13, Thoth 6.
+2   (For) salt-tax, through Sostratos:
+3   Pabouchis […]

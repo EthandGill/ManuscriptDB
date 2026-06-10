@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 289 — Tax receipt — assessments (μερισμοί)
+# Source: papyri.info DDbDP o.wilck;;289  (Trismegistos 76853)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 289
+label:    O.Wilck. 289
+name:     Tax receipt — assessments (μερισμοί)
+genre:    receipts
+date:     170–171 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4166
+content:  Assessments of year 11
+tm:       76853
+source:   https://papyri.info/ddbdp/o.wilck;;289
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [- ca.9 -]γερ καὶ Παχνῦμις Παλαχῆμις
+r.2   [ ̣ ̣ ̣ ̣ ̣ ̣ διέγ]ραψ(εν) Ἁρπαῆσις Παναπῶ-
+r.3   [τεως μητ(ρὸς) Σεν]παπρεμείθου ὑπ(ὲρ) μερισ-
+r.4   [μῶν ια (ἔτους) δρα]χ(μὰς) τρεῖς ὀβολ(οὺς) δύο χαλ-
+r.5   [κοῦν (γίνονται) (δραχμαὶ) γ(διώβολον)] χ(αλκοῦς) α. (ἔτους) ια
+
+[TRANSLATION]
+1   […]ger and Pachnymis son of Palachemis
+2   […, pai]d: Harpaesis son of Panapo-
+3   [teus, mother Sen]papremithes, for the assess-
+4   [ments of year 11, drac]hmas three, two obols, a chal-
+5   [kous — total 3 dr. 2 ob.] 1 chalkous. Year 11.

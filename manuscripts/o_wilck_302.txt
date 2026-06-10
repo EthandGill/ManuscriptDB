@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 302 — Harbor-guard receipt — mooring due (ἐνόρμιον)
+# Source: papyri.info DDbDP o.wilck;;302  (Trismegistos 76865)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 302
+label:    O.Wilck. 302
+name:     Harbor-guard receipt — mooring due (ἐνόρμιον)
+genre:    receipts
+date:     27 Dec 107 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Lausanne, Private collection Marcelä number unknown
+content:  Mooring-due, Thoth to Choiak, year 1 of Trajan
+tm:       76865
+source:   https://papyri.info/ddbdp/o.wilck;;302
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀντώνιος Μαλχαῖος ὁ ἀσχολού-
+r.2   μενος τὴν ὁρμοφυλακίαν Σοή-
+r.3   νης Πετοσορχω ̣ ̣ ̣ ̣
+r.4   χαίρειν. ἔχω παρὰ σοῦ τὸ ἐν-
+r.5   όρμιον ἀγωγίων ὧν ἐ-
+r.6   ποιήσου τὰ ἀπὸ Θὼθ <ἕως>
+r.7   Χοίαχ λ τοῦ α ἔτου-
+r.8   ς Τραιανοῦ Καίσαρος
+r.9   τοῦ κυρίου
+r.10   Χοίακ λ.
+
+[TRANSLATION]
+1   Antonios Malchaios, the one occupied with
+2   the harbor-guard of Sye-
+3   ne, to Petosorchos…,
+4   greeting. I have from you the mo-
+5   oring-due for the freight-loads which you
+6   made, from Thoth <to>
+7   Choiak 30 of year 1
+8   of Trajan Caesar
+9   the lord.
+10   Choiak 30.

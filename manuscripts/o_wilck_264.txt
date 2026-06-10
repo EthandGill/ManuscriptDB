@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 264 — Poll-tax receipt (λαογραφία), sacred gate of Syene
+# Source: papyri.info DDbDP o.wilck;;264  (Trismegistos 76831)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 264
+label:    O.Wilck. 264
+name:     Poll-tax receipt (λαογραφία), sacred gate of Syene
+genre:    receipts
+date:     12 Aug 171 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12096
+content:  Poll-tax of year 11, sacred gate of Syene
+tm:       76831
+source:   https://papyri.info/ddbdp/o.wilck;;264
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Στέφανος καὶ οἱ σὺν αὐτ(ῷ) ἐπιτ(ηρηταὶ)
+r.2   ἱ ερᾶς πύλ(ης) Σοή(νης) διὰ Σερήνου βοη(θοῦ). διέγρ(αψεν)
+r.3   Παου( ) Πατσίβτε̣ο̣ς μη(τρὸς) Ταλειλα̣ύ̣εις
+r.4   ὑπ(ὲρ) [λαο]γ(ραφίας) ια (ἔτους) δραχ(μὰς) δέκα ἑπτὰ ὀβολ(ὸν) (δραχμὰς) ιζ(ὀβολὸν).
+r.5   (ἔτους) ια Αὐρηλίο[υ Ἀντωνίν]ου
+r.6   Καίσαρος τοῦ κυρίου Μεσορὴ ιθ.
+
+[TRANSLATION]
+1   Stephanos and his associates, overseers
+2   of the sacred gate of Syene, through Serenos assistant. Paid:
+3   Paou( ) son of Patsibtis, mother Taleilaueis,
+4   for [poll]-tax of year 11, seventeen drachmas one obol — 17 dr. 1 ob.
+5   Year 11 of Aureli[us Antonin]us
+6   Caesar the lord, Mesore 19.

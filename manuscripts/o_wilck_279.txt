@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 279 — Tax receipt (fragmentary), reign of Septimius Severus
+# Source: papyri.info DDbDP o.wilck;;279  (Trismegistos 76844)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 279
+label:    O.Wilck. 279
+name:     Tax receipt (fragmentary), reign of Septimius Severus
+genre:    receipts
+date:     194–195 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14022
+content:  Fragmentary money-tax receipt, year 3 of Septimius Severus
+tm:       76844
+source:   https://papyri.info/ddbdp/o.wilck;;279
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [- ca.10 -]ν̣[ ̣ ̣ ̣ ̣ ̣]
+r.2   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣] Νειλαμ[μων ̣ ̣]
+r.3   [ ̣ ̣ ̣ ̣ ̣ ̣] (γίνονται) (δραχμαὶ) ρ. (ἔτους) γ Αὐτοκρ[άτορος Καίσαρος Λουκίου]
+r.4   [Σεπτι]μίου Σεουήρου Πετρίνακο[ς] [ ̣ ̣ ̣]
+r.5   Ἰούλιος Φρόντων σεσημίωμαι .
+
+[TRANSLATION]
+1   […]…[…]
+2   […] Neilam[mon …]
+3   […] total 100 dr. Year 3 of Imper[ator Caesar Lucius]
+4   [Septi]mius Severus Pertinax […]
+5   I, Iulius Fronton, have signed.

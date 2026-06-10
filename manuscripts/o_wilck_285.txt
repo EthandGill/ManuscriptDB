@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 285 — Tax receipt — price of state date-palm and due
+# Source: papyri.info DDbDP o.wilck;;285  (Trismegistos 76850)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 285
+label:    O.Wilck. 285
+name:     Tax receipt — price of state date-palm and due
+genre:    receipts
+date:     2nd c. CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 325
+content:  Price of state date-palm and due
+tm:       76850
+source:   https://papyri.info/ddbdp/o.wilck;;285
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀτπεχνοῦμις Παπρεμίθου
+r.2   ἐν κλήρωι καὶ Κορνῆλις Σαρα-
+r.3   παμὼν γενό(μενοι) πράκτ(ορες) ἀργ(υρικῆς) Σοή(νης). διέγρ(αψεν)
+r.4   Παπρεμίθης Λάξος ὑπ(ὲρ) τιμ(ῆς) δημ(οσίου)
+r.5   [φ]οίνικ(ος) καὶ τέλ(ους) ὀνό(ματος) Χαερεχνού-
+r.6   [μιος] Πετορζμ[ήθιος ̣ ̣ ̣ ̣] β (ἔτους(?)) ἄλ(λας) δραχ(μὰς)
+r.7   [- ca.10 -]υ [ ̣ ̣ Ἁ]δριαν-
+r.8   [οῦ - ca.11 -]
+
+[TRANSLATION]
+1   Atpechnoumis son of Papremithes,
+2   (holding office) by lot, and Cornelius Sara-
+3   pamon, former collectors of money-taxes of Syene. Paid:
+4   Papremithes son of Laxos, for the price of state
+5   [d]ate-palm and the due, for the account of Chaerechnou-
+6   [mis] son of Petorzm[ethes …] of year 2(?), other drachmas …
+7   […]… [.. Ha]drian-
+8   [os …]

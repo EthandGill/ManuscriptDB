@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 275 — Tax receipt — palm-grove survey and quarter-tax
+# Source: papyri.info DDbDP o.wilck;;275  (Trismegistos 24739)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 275
+label:    O.Wilck. 275
+name:     Tax receipt — palm-grove survey and quarter-tax
+genre:    receipts
+date:     10 Nov 185 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities A.T. 86 f
+content:  Survey-tax and quarter-tax on palm-grove, produce of year 25
+tm:       24739
+source:   https://papyri.info/ddbdp/o.wilck;;275
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   κϛ (ἔτους) Ἁθὺρ ιδ διέγρ(αψεν)
+r.2   Πετεχνουτ( ) Ἀμμωνίου ὑπ(ὲρ) γεω̣(μετρίας)
+r.3   φοι(νικῶνος) γενή(ματος) κε (ἔτους) ὀ̣ν̣ό(ματος) Ἀμμωνίου
+r.4   Ψεντουῶρις τὸ δ´ δραχ(μὰς)
+r.5   δύο, (γίνονται) (δραχμαὶ) β, διʼ ἐμοῦ Ἀμενώθ(ου).
+r.6   τῇ α(ὐτῇ) ἡμέρᾳ διέγρ(αψεν) ὑπ(ὲρ) τετάρ(της)
+r.7   φοι(νικῶνος) γενή(ματος) κε (ἔτους) ὀνό(ματος) Ἀμμωνίου Ψεν-
+r.8   τουῶρις δραχ(μὴν) μίαν τριώβολ(ον)
+r.9   ἡμιοβ (έλιον), (γίνονται) (δραχμαὶ) α (ὀβολοὶ) γ𐅵 διʼ ἐμοῦ
+r.10   Ἀμενώθ(ου) βοηθ(οῦ).
+
+[TRANSLATION]
+1   Year 26, Hathyr 14. Paid:
+2   Petechnout( ) son of Ammonios, for the survey-tax
+3   on the palm-grove of the produce of year 25, for the account of Ammonios
+4   son of Psentouoris: the quarter, drachmas
+5   two, total 2 dr., through me, Amenothes.
+6   On the same day he paid, for the quarter-tax
+7   on the palm-grove of the produce of year 25, for the account of Ammonios, Psen-
+8   touoris: one drachma, three obols,
+9   a half-obol — total 1 dr. 3½ ob. — through me,
+10   Amenothes, assistant.

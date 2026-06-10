@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 282 — Receipt for repayment of a loan (interest and capital)
+# Source: papyri.info DDbDP o.wilck;;282  (Trismegistos 76847)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 282
+label:    O.Wilck. 282
+name:     Receipt for repayment of a loan (interest and capital)
+genre:    receipts
+date:     14 Jul 227 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Wimborne Minster, Private collection Bankes number unknown
+content:  Acknowledgement of repayment: 16 dr. interest + 40 dr. principal
+tm:       76847
+source:   https://papyri.info/ddbdp/o.wilck;;282
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Παχνοῦβις Ψενχνούβεως μητ(ρὸς) Θιναυ( )
+r.2   Βιήνχι Παπρεμίθου χαίρειν.
+r.3   ὁμολογῶ ἐσχον παρὰ σοῦ ἀφʼ ὧν
+r.4   μοι ὀφίλεις χειρόγραφον ὑ πὲρ τό-
+r.5   κου (δραχμὰς) ιϛ καὶ ὑπὲρ κεφαλαίου
+r.6   ἄλλας (δραχμὰς) μ. (ἔτους) ϛ Αὐτοκράτορος
+r.7   Καίσαρος Μάρκου Αὐρηλίου
+r.8   [Σεου]ήρου τοῦ κυρίου Ἐπεὶφ κ.
+
+[TRANSLATION]
+1   Pachnoubis son of Psenchnoubis, mother Thinau( ),
+2   to Bienchis son of Papremithes, greeting.
+3   I acknowledge that I have received from you, out of what
+4   you owe me by the note of hand, for in-
+5   terest, 16 drachmas, and for the principal
+6   another 40 drachmas. Year 6 of Imperator
+7   Caesar Marcus Aurelius
+8   [Sev]erus the lord, Epeiph 20.

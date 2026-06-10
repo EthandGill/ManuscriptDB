@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 283 — Tax receipt — assessment (μερισμός), Severus Alexander
+# Source: papyri.info DDbDP o.wilck;;283  (Trismegistos 76848)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 283
+label:    O.Wilck. 283
+name:     Tax receipt — assessment (μερισμός), Severus Alexander
+genre:    receipts
+date:     227–228 CE
+language: Greek (Koiné)
+found:    Thebes, Egypt
+held:     (see shelf)
+shelf:    Vienna, Nationalbibliothek G. O. without number
+content:  Assessment of year 7 under Severus Alexander
+tm:       76848
+source:   https://papyri.info/ddbdp/o.wilck;;283
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   [Κύρι]λλος Διογ[ένους πρά(κτωρ) ἀργ(υρικῆς) ̣ ̣ ̣ ̣ ̣]
+r.2   [διὰ] Μόσχου βοηθοῦ ἀγ[αθῇ]
+r.3   τύχηι διέγραψεν [ ̣ ̣ ̣ ̣]
+r.4   [ ̣ ̣ ̣]μούτιος μητ(ρὸς) Τιν[ ̣ ̣ ̣ ̣]
+r.5   ὑπὲρ μερισμο[ῦ ζ (ἔτους) Μάρκου Αὐρηλίου]
+r.6   [Σεουήρο]υ Ἀλεξάνδρου [Καίσαρος τοῦ κυρίου]
+r.7   [(δραχμὰς)] ιθ (ἡμιωβέλιον) . (ἔτους) ζ [Αὐτοκ(ράτορος) Καίσ(αρος) Μάρκ(ου)]
+r.8   [Αὐρηλ(ίου) Σ]εουήρου [Ἀλεξάνδρου]
+r.9   [Εὐσεβοῦς Ε]ὐτυχ[οῦς Σεβαστοῦ]
+
+[TRANSLATION]
+1   [Kyri]llos son of Diog[enes, collector of money-taxes …]
+2   [through] Moschos assistant. With good
+3   fortune. Paid: […]
+4   […]moutis, mother Tin[…],
+5   for the assessmen[t of year 7 of Marcus Aurelius]
+6   [Severu]s Alexander [Caesar the lord]:
+7   [(drachmas)] 19, a half-obol. Year 7 [of Imperator Caesar Marcus]
+8   [Aurelius S]everus [Alexander]
+9   [Pius Fo]rtun[ate Augustus].

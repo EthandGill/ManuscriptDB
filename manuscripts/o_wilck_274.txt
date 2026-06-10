@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 274 — Harbor-guard receipt — mooring due (ἐνόρμιον)
+# Source: papyri.info DDbDP o.wilck;;274  (Trismegistos 76840)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 274
+label:    O.Wilck. 274
+name:     Harbor-guard receipt — mooring due (ἐνόρμιον)
+genre:    receipts
+date:     26 Aug 185 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Museum EA 14068
+content:  Mooring-due for Pauni, Epeiph and Mesore, year 25
+tm:       76840
+source:   https://papyri.info/ddbdp/o.wilck;;274
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Παχνοῦβις καὶ Π̣απῶς
+r.2   [μ]ισ[θ(ωταὶ)] εἴδους ὁρμοφυλ(ακίας). διέ-
+r.3   γρ(αψεν) Πασῆτις ὁ καὶ Ψεν ̣ ̣ ̣ ̣
+r.4   ὑπ(ὲρ) ἐνορμίο(υ) τοῦ Παῦνι καὶ
+r.5   Ἐπεὶφ καὶ Μεσορὴ τοῦ
+r.6   [ἐνεσ]τῶτος κε (ἔτους)
+r.7   Μεσορὴ ἐπαγομ(ενῶν) γ.
+
+[TRANSLATION]
+1   Pachnoubis and Papos,
+2   [le]ssees of the harbor-guard concession. Pai-
+3   d: Pasetis also called Psen…,
+4   for the mooring-due of (the month) Pauni and
+5   Epeiph and Mesore of the
+6   [pres]ent year 25,
+7   Mesore, 3rd epagomenal day.

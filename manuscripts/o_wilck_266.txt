@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 266 — Tax receipt — price of state date-palm (τιμὴ δημοσίου φοίνικος)
+# Source: papyri.info DDbDP o.wilck;;266  (Trismegistos 76833)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 266
+label:    O.Wilck. 266
+name:     Tax receipt — price of state date-palm (τιμὴ δημοσίου φοίνικος)
+genre:    receipts
+date:     175–176 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 299
+content:  Price of state date-palm, produce of year 14
+tm:       76833
+source:   https://papyri.info/ddbdp/o.wilck;;266
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Αἰβούτιος Νίγερ καὶ Ἰούλιος Σερῆνος πράκ(τορες) ἀ[ργ(υρικῆς) <Ἐλεφ(αντίνης)>].
+r.2   διέγραψ(εν) Θινψενχ ὑπ(ὲρ) τιμῆς δη[μοσίου]
+r.3   φοίνεικος γενήματος <ιδ (ἔτους) ὑπ(ὲρ)> ὀνόματος Κατ ̣ ̣ ̣ ̣
+r.4   Παμώνθου δραχ(μὰς) δύο ὀβολ(οὺς) τρεῖς (γίνονται) (δραχμαὶ) β(τριώβολον). <(ἔτους) ιδ>
+r.5   Αὐρηλίου Ἀντωνείνου Καίσαρος τοῦ κυρί[ου].
+r.6   Ἰούλ(ιος) Σερῆνος συνέσχ (ον).
+
+[TRANSLATION]
+1   Aibutius Niger and Iulius Serenus, collectors of the mon[ey-taxes <of Elephantine>].
+2   Paid: Thinpsench( ), for the price of [state]
+3   date-palm of the produce <of year 14, for> the account of Kat…,
+4   son of Pamonthes: two drachmas, three obols — total 2 dr. 3 ob. <Year 14>
+5   of Aurelius Antoninus Caesar the lor[d].
+6   I, Iulius Serenus, have jointly received.

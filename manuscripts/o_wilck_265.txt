@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 265 — Tax receipt — recruits' expenses (δαπάνη τιρώνων)
+# Source: papyri.info DDbDP o.wilck;;265  (Trismegistos 76832)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 265
+label:    O.Wilck. 265
+name:     Tax receipt — recruits' expenses (δαπάνη τιρώνων)
+genre:    receipts
+date:     12 Dec 173 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 330
+content:  Expenses of recruits, transport and provisions, year 13
+tm:       76832
+source:   https://papyri.info/ddbdp/o.wilck;;265
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Αἰβούτιος Νίγερ καὶ Παχνοῦβις Πετορζ(μήθου)
+r.2   διὰ Ἀντωνείου Ἰουλᾶ(τος) γραμ(ματέως) . διέγ(ραψεν) Ψενπετὴς
+r.3   Ψάι τος μητ(ρὸς) Τισᾶτις ὑπὲρ δαπ̣άνης τιρόνον καὶ [ναυλ(ῶν)]
+r.4   καὶ τροφον δεσμ( ) καὶ ἄλλ(ων) δαπ̣α̣νῶν ιγ (ἔτους) (δραχμὴν) α (ὀβολοὺς) ε𐅵 χ(αλκοῦς) β. (ἔτους) ιδ
+r.5   Ἁδριανοῦ ιϛ. (hand 2) Αἰβοῦτις Νίγερ σε(σημείωμαι) ὀνόμ(ατος) ̣ ̣ ̣ ̣ (δραχμὴν) α (ὀβολοὺς) ε𐅵 χ(αλκοῦς) β.
+
+[TRANSLATION]
+1   Aibutius Niger and Pachnoubis son of Petorz(methes),
+2   through Antonios son of Ioulas, scribe. Paid: Psenpetes
+3   son of Psais, mother Tisatis, for the expense of recruits and [transport]
+4   and provisions of the guard(?) and other expenses, year 13: 1 dr. 5½ ob. 2 chalkoi. Year 14,
+5   Hadrianos (month) 16. (2nd hand) I, Aibutis Niger, have signed for the account …: 1 dr. 5½ ob. 2 chalkoi.

@@ -1,0 +1,99 @@
+# ───────────────────────────────────────────────
+# BGU 4.1149 — contract: Loan settlement with a slave as security
+# Source: papyri.info DDbDP bgu;4;1149  (Trismegistos 18595)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1149
+label:    BGU 4.1149
+name:     Loan settlement with a slave as security
+genre:    contracts
+date:     13 BCE
+language: Greek (Koiné)
+found:    Alexandria, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 13058 Vo col. 2
+content:  Synchoresis before Protarchos: Gaius Julius Philios settles two loans of Marcus and Isidora; the slave Zosimos stands as security
+tm:       18595
+source:   https://papyri.info/ddbdp/bgu;4;1149
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   (hand 2?) κόλ(λημα)
+r.2   (hand 1) Πρωτάρχωι
+r.3   παρὰ Γαίου Ἰουλίου Φιλίου καὶ παρὰ Μάρκου Μουνατίου Ἐπινα
+r.4   Πέρσου τῆς ἐπιγονῆς καὶ τῆς γυναικὸς Ἰσιδώρας τῆς Ἀρείου Περσείνη(ς)
+r.5   μετὰ κυρίου τοῦ ἀνδρός. περὶ τῶν διεσταμένων συνχωρεῖ ὁ Γάιος Ἰούλ(ιος)
+r.6   Φίλιος εἰληφέναι παρά τε τοῦ Μάρκου καὶ τῆς Ἰσιδώρας δι[ὰ]
+r.7   τῆς Κάστορος κολλυβιστικῆς τραπέζης εἰς ἃ ἔλαβον πα(ρὰ)
+r.8   αὐτοῦ ὅ τε Μᾶρκος καὶ Ἰσιδώρα σὺν Σέξστωι
+r.9   Ποπιλλίωι Σαραπίωνι ὅσπερ μετήλλαχεν δάνεια δύο
+r.10   κατὰ συγχωρήσεις τὰς διὰ τοῦ αὐτοῦ κριτηρίου γεγονυίας τῶι (ἔτει(?))
+r.11   Καίσαρος μίαν μὲν Μεχεὶρ δραχμῶν τετρακοσί[ων],
+r.12   τὴν δὲ ἑτέραν τῶι Φαμενὼθ δραχμῶν ἑκατὸν πεντήκο(ντα)
+r.13   εἰς τὰς ἐπὶ τὸ αὐτὸ δραχμὰς φν ἐπὶ λόγωι ἀργυ(ρίου) (δραχμὰς)
+r.14   διακοσίας εἴκοσι δύο , ἐκπεπληρῶσθαι
+r.15   δὲ καὶ τοῖς ἀμφοτέρων τῶν δανείων τόκοις μέχρι Φαμενὼθ
+r.16   τοῦ ἐνεστῶτος ιζ (ἔτους) Καίσαρος διὰ χειρὸς ἐξ οἴκου, ὥστε λοιπ(ὰς)
+r.17   ὀφείλεσθαι αὐτῶι Γαίωι Ἰουλίωι Φιλίωι ὑπό τε τοῦ ―
+r.18   Μάρκου καὶ τῆς Ἰσιδώρας ἀργυρίου δραχμὰς τριακο-
+r.19   σίας εἴκοσι ὀκτώι , ἃς καὶ κομισάμενος ὁ Φίλιος καὶ
+r.20   [- ca.18 -]δεκαστην μητεκα
+r.21   ἐν ᾧ μεμέρικεν αὐτοῖς χρόνωι μη[νῶν δύο]
+r.22   ἀπὸ Φαρμοῦθι τοῦ αὐτοῦ (ἔτους) λύσιν ποήσασθαι τῶν προκ(ειμένων)
+r.23   δανειστικῶν συγχωρή(σεων) δύο καὶ ἀναδώσειν τῇ
+r.24   Ἰσιδώρᾳ ἢ τῶι καταβαλόντι αὐτῶν ἃς εἴληφεν παρʼ αὐτῆς ἐν ὑπαλλάγματι ἀσφαλ(είας)
+r.25   ἀντίγραφόν τε συγχωρήσεως καὶ διαθή-
+r.26   κην κατὰ τοῦ ὑπάρχοντος αὐτῇ δούλου Ζωσίμου
+r.27   , ἐὰν δὲ μὴ ἀποδῶσιν οἱ ὑπόχρεοι Μᾶρκ(ος)
+r.28   καὶ Ἰσιδώρα διελθόντων τῶν δύο μηνῶν τὰς τοῦ ἀργυ(ρίου) (δραχμὰς) τκη
+r.29   καὶ ταύτης γείνεσθαι τὴν πρᾶξιν τῷ Γαίωι Ἰουλίωι
+r.30   Φιλίωι ἔκ τε αὐτῶν τῶν δύο ὄντων ἀλληλ(εγγύων) εἰς ἔκ(τισιν) καὶ ἐξ ἑνὸς καὶ ἐξ ὁποτέρου
+r.31   οὗ ἐὰν αὐτῶν αἱρῆται
+r.32   καὶ ἐκ τοῦ δούλου Ζωσίμου καὶ ἐκ τῶν ἄλλων αὐτς ὑπαρχόντ(ων)
+r.33   ταῖς προκειμέναις συνχωρή(σεσιν) ἀκολούθως, ἐὰν δὲ συν-
+r.34   βῇ τὸν δοῦλον διαδρᾶναι ἢ καὶ παθεῖν τι ἀνθρώπινον,
+r.35   καὶ οὕτως εἶναι τὰ ὀφιλόμενα ἀκίνδυνα παντὸς
+r.36   κινδύνου ἀκύρων οὐσῶν καὶ ὧν ἐὰν ἐπενέγκωσιν
+r.37   πίστεων [πασ]ῶν σκέπης πάσης. (ἔτους) ιζ Καίσαρος Φαρμοῦθι ιβ.
+
+[TRANSLATION]
+1   (2nd hand?) Sheet (kollema).
+2   (1st hand) To Protarchos,
+3   from Gaius Julius Philios and from Marcus Munatius Epina…,
+4   a Persian of the epigone, and his wife Isidora daughter of Areios, a Persian woman,
+5   with her guardian, her husband. Concerning the matters at issue: Gaius Jul(ius)
+6   Philios agrees that he has received, from both Marcus and Isidora, thr[ough]
+7   the money-changing bank of Kastor — toward what Marcus and Isidora took fr(om)
+8   him, together with Sextus
+9   Popillius Sarapion, who has died: two loans,
+10   under agreements made through the same tribunal in the (…) year
+11   of Caesar — one, in Mecheir, of four hund[red] drachmas,
+12   and the other, in Phamenoth, of one hundred and fif(ty) drachmas,
+13   toward the total of 550 drachmas — on account, of silver:
+14   two hundred and twenty-two (drachmas); and that there has been full payment
+15   also of the interest on both loans, up to Phamenoth
+16   of the present 17th year of Caesar, from hand to hand out of the house — so that there remain
+17   owed to him, Gaius Julius Philios, by —
+18   Marcus and Isidora, of silver, three hun-
+19   dred and twenty-eight drachmas; which Philios, on recovering, also
+20   […] … …
+21   within the time he has allotted to them — of [two] mo[nths]
+22   from Pharmouthi of the same year — is to make a discharge of the aforesaid
+23   two loan-agreements, and to give back to
+24   Isidora — or to whichever of them pays — what he received from her as security in pledge:
+25   both a copy of an agreement and a will
+26   concerning the slave Zosimos who belongs to her;
+27   and if the debtors, Marc(us)
+28   and Isidora, do not pay back, when the two months have passed, the 328 silver drachmas,
+29   then the right of execution for this too belongs to Gaius Julius
+30   Philios: against both of the two — being mutual sureties for the payment — and against one, and against whichever
+31   of them he may choose,
+32   and against the slave Zosimos and against her other belongings,
+33   in accordance with the aforesaid agreements; and if it should hap-
+34   pen that the slave run away or even suffer something human (i.e. die),
+35   even so the debts are to be free of all
+36   risk; and invalid are whatever
+37   pleas of trust they may bring forward — [al]l of them — (and) every protection. Year 17 of Caesar, Pharmouthi 12.

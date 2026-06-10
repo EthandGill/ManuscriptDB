@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 296 — Tax receipt in kind — date produce (μάτιον)
+# Source: papyri.info DDbDP o.wilck;;296  (Trismegistos 76859)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 296
+label:    O.Wilck. 296
+name:     Tax receipt in kind — date produce (μάτιον)
+genre:    receipts
+date:     24–28 Aug 177 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4168
+content:  Date produce in kind (mation fractions), produce of year 17
+tm:       76859
+source:   https://papyri.info/ddbdp/o.wilck;;296
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Οὔλπιος Κερεᾶλις καὶ Δομ[ίτιος]
+r.2   Δομιτίου μισθωτ(αὶ) ἱερᾶς π[ύλ(ης) Σοή(νης) διὰ]
+r.3   Μινουκίου Νίγερος βο[η]θ(οῦ). [ἐμέτρησεν]
+r.4   Ταμῦτις ὑπὲρ τρίτω[ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.5   γενή(ματος) ιζ (ἔτους) ὀνό(ματος) Π[ ̣ ̣ ̣ ̣ ̣ ̣]
+r.6   ματίου ἕκτονδ[ωδέκατον (γίνονται)]
+r.7   ματ(ίου) ϛ´ιβ´. (ἔτους) ι[ζ Ἀντωνίνου]
+r.8   Μεσορὴ ἐπα[γομένων ̣ ̣.]
+
+[TRANSLATION]
+1   Ulpius Cerealis and Dom[itius]
+2   son of Domitius, lessees of the sacred g[ate of Syene, through]
+3   Minucius Niger, assi[stant]. [Measured out:]
+4   Tamytis, for the third(?) […]
+5   of the produce of year 17, for the account of P[…]
+6   of a mation, one-sixth (and) twelfth, [total]
+7   ⅙ ¹⁄₁₂ of a mation. Year 1[7 of Antoninus],
+8   Mesore, epa[gomenal days …]

@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 261 — Tax receipt — assessment for men who have fled (μερισμὸς ἀνδρῶν ἀνακεχωρηκότων)
+# Source: papyri.info DDbDP o.wilck;;261  (Trismegistos 76828)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 261
+label:    O.Wilck. 261
+name:     Tax receipt — assessment for men who have fled (μερισμὸς ἀνδρῶν ἀνακεχωρηκότων)
+genre:    receipts
+date:     14 Oct 168 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5831
+content:  Receipt for the assessment on men who have withdrawn, years 6–7
+tm:       76828
+source:   https://papyri.info/ddbdp/o.wilck;;261
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [⁦ -ca.?- ⁩ μ]η̣τ̣(ρὸς) Θιν̣[ ̣ ̣ ̣ ̣ ̣]
+r.2   [ὑπ(ὲρ) μερισμ(ῶν) ἀνδ(ρῶν) ἀνακε]χ(ωρηκότων) λήματ̣(ος) [ϛ] (ἔτους) [ὀβολ(οὺς)]
+r.3   [δύο, (γίνονται) (διώβολον), καὶ ὑπ(ὲρ) μερισ]μ(ῶν) ἀνδ(ρῶν) ἀνακε[χ(ωρηκότων)]
+r.4   [λήμματ(ος) ζ (ἔτους) ὀβ]ολ(οὺς) δύω δίχαλκ[ον]
+r.5   [(γίνονται) (διώβολον)(δίχαλκον). (ἔτους) θ Ἀντωνί]νου καὶ Οὐήρου
+r.6   [Καισάρων τῶν κ]υρίων Φαῶφι ιζ.
+
+[TRANSLATION]
+1   [… mo]ther Thin[…]
+2   [for the assessment of men who have with]drawn, of the receipt of year [6], [obols]
+3   [two, total 2 obols; and for the assess]ment of men who have withdraw[n,]
+4   [of the receipt of year 7], two obols, two chalk[oi,]
+5   [total 2 obols 2 chalkoi. Year 9 of Antoni]nus and Verus,
+6   [the lord] Cae[sars,] Phaophi 17.

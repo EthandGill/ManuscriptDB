@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 269 — Poll-tax receipt (λαογραφία)
+# Source: papyri.info DDbDP o.wilck;;269  (Trismegistos 76835)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 269
+label:    O.Wilck. 269
+name:     Poll-tax receipt (λαογραφία)
+genre:    receipts
+date:     31 Mar 152 CE (year uncertain)
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14189 (5851a)
+content:  Poll-tax of year 15, three men
+tm:       76835
+source:   https://papyri.info/ddbdp/o.wilck;;269
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   ιε (ἔτους) Ἀντωνείνου Καίσαρος
+r.2   τοῦ κυρίου Φαρμοῦθι ε διέ(γραψαν) Πετορζμῆθ(ις)
+r.3   Πατχναύτιος μητρὸ(ς) Σενφαήσ(ιος) καὶ
+r.4   Παπρεμείθ(ης) ἀδελφὸς καὶ Πα ̣ ̣ ̣ων[ ̣ ̣]
+r.5   ἄλλος ὑπ(ὲρ) λαογραφίας ιε (ἔτους) ἑκάστ(ου) ἀνδ(ρὸς)
+r.6   ἐκ (δραχμῶν) ιϛ(ὀβολοῦ) (γίνονται) ἐπ(ὶ τὸ αὐτὸ) (δραχμαὶ) μη(τριώβολον). διὰ Ἀμμωνίου.
+
+[TRANSLATION]
+1   Year 15 of Antoninus Caesar
+2   the lord, Pharmouthi 5. Paid: Petorzmethes
+3   son of Patchnautis, mother Senphaesis, and
+4   Papremithes his brother, and Pa…on[…],
+5   another, for poll-tax of year 15, each man
+6   at 16 dr. 1 ob., total together 48 dr. 3 ob. Through Ammonios.

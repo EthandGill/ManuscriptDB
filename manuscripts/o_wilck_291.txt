@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 291 — Trade-tax receipt (χειρωνάξιον), sacred gate of Syene
+# Source: papyri.info DDbDP o.wilck;;291  (Trismegistos 76855)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 291
+label:    O.Wilck. 291
+name:     Trade-tax receipt (χειρωνάξιον), sacred gate of Syene
+genre:    receipts
+date:     13 Jun 197 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 3 [ostracon]
+content:  Trade-tax of year 4, sacred gate of Syene
+tm:       76855
+source:   https://papyri.info/ddbdp/o.wilck;;291
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀμμώνιος Διδύμου καὶ οἱ σὺν αὐτ(ῷ) ἐπ(ιτηρηταὶ) ἱερᾶς
+r.2   πύλ(ης) Σοή(νης) διʼ ἐμοῦ Μάρκου Ἀννίου Νεμωνια-
+r.3   ν[οῦ] νεωτ(έρου) βοηθ(οῦ). δι Θινψανσνὼς Πετορζ(μήθιος) ὑπ(ὲρ)
+r.4   τοῦ πατρὸς [Πετορ]ζμήθου μητ(ρὸς) Θινψανσνῶτ(ος)
+r.5   χειρωναξίου τοῦ δ (ἔτους) δραχμὰς ὀκτὼ ὀβολ(οὺς) δ[ύο]
+r.6   (γίνονται) (δραχμαὶ) η(διώβολον). (ἔτους) ε Παῦνι ιθ.
+
+[TRANSLATION]
+1   Ammonios son of Didymos and his associates, overseers of the sacred
+2   gate of Syene, through me, Marcus Annius Nemonia-
+3   n[us] the younger, assistant. Paid: Thinpsansnos son of Petorz(methes), for
+4   his father [Petor]zmethes, mother Thinpsansnos,
+5   (for) trade-tax of year 4: eight drachmas, t[wo] obols,
+6   total 8 dr. 2 ob. Year 5, Pauni 19.

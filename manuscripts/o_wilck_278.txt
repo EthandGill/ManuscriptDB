@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 278 — Tax receipt — assessments / river-guard station
+# Source: papyri.info DDbDP o.wilck;;278  (Trismegistos 76843)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 278
+label:    O.Wilck. 278
+name:     Tax receipt — assessments / river-guard station
+genre:    receipts
+date:     9 Feb 190 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7188
+content:  Assessments of years 29–30, station and river-guards
+tm:       76843
+source:   https://papyri.info/ddbdp/o.wilck;;278
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Μάρκος Ἄννιος Νεμωνια-
+r.2   ν[ὸ]ς πράκ(τωρ) ἀργ(υρικῆς) Ἐλεφαντ(ίνης).
+r.3   διέγρ(αψεν) Ἁρπαῆσις Παναπώτε-
+r.4   ως μητ(ρὸς) Τρεμαῶτος ὑπ(ὲρ)
+r.5   μερισμ(ῶν) κθ (ἔτους) σ̣π̣ ̣ ̣ελω̣ν̣
+r.6   (ὀβολοὺς) β𐅵 χ(αλκοῦς 2), λ (ἔτους) στατίωνος
+r.7   ποταμοφυλακ(ίδων) καὶ ἄλλων
+r.8   ἔργων (δραχμὰς) β(ὀβολὸν). (ἔτους) λ Μεχεὶρ
+r.9   ιε.
+
+[TRANSLATION]
+1   Marcus Annius Nemonia-
+2   n[u]s, collector of money-taxes of Elephant(ine).
+3   Paid: Harpaesis son of Panapote-
+4   us, mother Tremaos, for
+5   assessments of year 29, …,
+6   2½ obols, 2 chalkoi; (and) year 30, for the station,
+7   river-guards and other
+8   works, 2 dr. 1 ob. Year 30, Mecheir
+9   15.

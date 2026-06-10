@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 273 — Tax receipt — annona and station assessment
+# Source: papyri.info DDbDP o.wilck;;273  (Trismegistos 76839)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 273
+label:    O.Wilck. 273
+name:     Tax receipt — annona and station assessment
+genre:    receipts
+date:     26 Feb 217 CE (year uncertain)
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12405
+content:  Annona and station assessment, year 25
+tm:       76839
+source:   https://papyri.info/ddbdp/o.wilck;;273
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [ ̣ ̣ ̣πα]νπῶτ(ις) καὶ Πετορζ(μῆθις) Πετοζμ[ήθου]
+r.2   [πράκ(τορες)] ἀργ(υρικῆς) Ἐλεφαντ(ίνης). διέγραψεν Πρεμψαί μτος
+r.3   [Πετ]ορζ(μήθου) καὶ Πετορζ(μῆθις) Πρεμψαί μτος ὑπ(ὲρ) ἀννώ(νης)
+r.4   [(δραχμ ) ̣ ̣] ̣ μερισμοῦ στατίωνος (δραχμὰς) δ (ὀβολοὺς) δ𐅵. (ἔτους) κε
+r.5   Φαμενὼθ β.
+
+[TRANSLATION]
+1   […pa]npotis and Petorz(methes) son of Petozm[ethes],
+2   [collectors] of money-taxes of Elephantine. Paid: Prempsais son of …,
+3   [Pet]orz(methes), and Petorz(methes) son of Prempsais, for the annona
+4   [(drachmas) …] of the station assessment, 4 dr. 4½ ob. Year 25,
+5   Phamenoth 2.

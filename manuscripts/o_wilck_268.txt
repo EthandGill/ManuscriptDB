@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 268 — Tax receipt — palm-grove survey tax (γεωμετρία φοινικῶνος)
+# Source: papyri.info DDbDP o.wilck;;268  (Trismegistos 76834)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 268
+label:    O.Wilck. 268
+name:     Tax receipt — palm-grove survey tax (γεωμετρία φοινικῶνος)
+genre:    receipts
+date:     13 May 174 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7179
+content:  Survey-tax on palm-grove, produce of year 13
+tm:       76834
+source:   https://papyri.info/ddbdp/o.wilck;;268
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Κασσιανὸς καὶ οἱ σὺν [αὐτ(ῷ) ἐπιτ(ηρηταὶ)]
+r.2   ἱ ερᾶς πύλ(ης) Σοήν[ης διὰ Παχνούβ(ιος) βοηθ(οῦ)].
+r.3   διέγρα(ψεν) Ψᾶις ̣ ̣ ̣ ̣νος [ ̣ ̣ ̣ ̣ ̣]
+r.4   ὑπ(ὲρ) γε[ω(μετρίας)] φοι(νικῶνος) γεν(ήματος) ιγ (ἔτους) ἀπὸ (δραχμῶν) α[ ̣ ̣ ̣ ̣ ̣]
+r.5   καὶ ὀνόματος Πετορζ(μήθου) Ἁρπ(αήσιος) (δραχμ ) [ ̣ ̣ ̣ ̣ ̣]
+r.6   (ἔτους) ιδ Μάρκου Αὐληρίου Ἀν[τωνίνου]
+r.7   Καίσαρος τοῦ κυρίου Παχὼν ιη̣.
+
+[TRANSLATION]
+1   Cassianus and his associates, [overseers]
+2   of the sacred gate of Syen[e, through Pachnoubis assistant].
+3   Paid: Psais son of …nos […]
+4   for the sur[vey-tax] on the palm-grove of the produce of year 13, from 1 dr. […]
+5   and for the account of Petorz(methes) son of Harpaesis, (drachmas) […]
+6   Year 14 of Marcus Aurelius An[toninus]
+7   Caesar the lord, Pachon 18.

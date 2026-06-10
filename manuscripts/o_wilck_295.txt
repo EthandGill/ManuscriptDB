@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 295 — Granary receipt — wheat measured into the Syene granary
+# Source: papyri.info DDbDP o.wilck;;295  (Trismegistos 44263)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 295
+label:    O.Wilck. 295
+name:     Granary receipt — wheat measured into the Syene granary
+genre:    receipts
+date:     12 May – 10 Jun 89 BCE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities 453 a
+content:  3½ artabas of wheat measured into the Syene granary, year 25 (Ptolemaic)
+tm:       44263
+source:   https://papyri.info/ddbdp/o.wilck;;295
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   ἔτους κε Παχὼν
+r.2   εἰσμε(μέτρηκεν) εἰς τὸν ἐν Συ(ήνῃ) θη(σαυρὸν)
+r.3   εἰς τὴν ἐπιγραφ(ὴν) τοῦ αὐ(τοῦ) (ἔτους)
+r.4   ὑπὲρ τοῦ τόπου Βιῆγχις
+r.5   Πετενεφώτου πυροῦ ἀρ(τάβας)
+r.6   τρεῖς ἥμισυ, (γίνονται) (πυροῦ) γ𐅵.
+r.7   Ἀρτεμῆς σιτολόγο(ς)
+r.8   (ἀρτάβαι) δ.
+
+[TRANSLATION]
+1   Year 25, Pachon.
+2   Has measured in, into the granary at Sy(ene),
+3   for the assessment of the same year,
+4   for the locality: Bienchis
+5   son of Petenephotes, of wheat, artabas
+6   three and a half — total 3½ art. of wheat.
+7   Artemes, grain-officer.
+8   4 artabas.

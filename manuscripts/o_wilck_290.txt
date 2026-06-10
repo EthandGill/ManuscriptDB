@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 290 — Poll-tax receipt (λαογραφία), sacred gate of Syene
+# Source: papyri.info DDbDP o.wilck;;290  (Trismegistos 76854)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 290
+label:    O.Wilck. 290
+name:     Poll-tax receipt (λαογραφία), sacred gate of Syene
+genre:    receipts
+date:     28 Dec 207 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7204
+content:  Poll-tax, receipts of year 15
+tm:       76854
+source:   https://papyri.info/ddbdp/o.wilck;;290
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἰούλιο[ς Μάξιμος]
+r.2   καὶ Λεωνίδης Ε[ὐτύχου]
+r.3   μισθ(ωταὶ) ἱερᾶς πύλ(ης) Σοή(νης) διʼ ἐ-
+r.4   μοῦ Μάρκου βοηθ(οῦ). διέγρ(αψεν)
+r.5   Βιῆγχις μητ(ρὸς) Ταναπ(ώτιος) ὑπ(ὲρ) λαογρ(αφίας)
+r.6   λη(μμάτων) ιε (ἔτους) ἄλλας δραχ(μὰς) ὀκτὼ (γίνονται) (δραχμαὶ) η.
+r.7   (ἔτους) ιϛ Τῦβι α.
+
+[TRANSLATION]
+1   Iulio[s Maximos]
+2   and Leonides son of E[utyches],
+3   lessees of the sacred gate of Syene, through
+4   me, Marcus, assistant. Paid:
+5   Bienchis, mother Tanap(otis), for poll-tax,
+6   of the receipts of year 15, another eight drachmas — total 8 dr.
+7   Year 16, Tybi 1.

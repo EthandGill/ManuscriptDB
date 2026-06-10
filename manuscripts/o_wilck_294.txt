@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 294 — Tax receipt (fragmentary)
+# Source: papyri.info DDbDP o.wilck;;294  (Trismegistos 76858)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 294
+label:    O.Wilck. 294
+name:     Tax receipt (fragmentary)
+genre:    receipts
+date:     2nd c. CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 343
+content:  Fragmentary money/grain-tax receipt of Syene, year 5
+tm:       76858
+source:   https://papyri.info/ddbdp/o.wilck;;294
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Σαραπίω(ν) ̣ ̣ ̣ καὶ Περσι ̣ ̣ ̣ ̣ πράκτ(ορες) ἀργ(υρικῆς)
+r.2   καὶ σιτικ(ῆς) Σοή(νης). διέγραψ[ε]ν … ν ̣ ̣ ̣
+r.3   ̣ην …ϛ (δραχμ ) ̣ ̣ ̣ ̣χ … ν ̣ ̣ ̣
+r.4   κατὰ μέρος … οι
+r.5   π ̣ ̣ ̣ ̣νος … τ …
+r.6   τοῦ ε (ἔτους) κζ… μ …
+
+[TRANSLATION]
+1   Sarapion … and Persi…, collectors of money-taxes
+2   and grain-taxes of Syene. Paid: …n…
+3   …en …6, (drachmas) …ch … n …
+4   in part … oi
+5   p…nos … t …
+6   of year 5 … 27 … m …

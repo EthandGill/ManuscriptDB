@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 267 — Tax receipt — palm-grove survey tax (γεωμετρία φοινικῶνος)
+# Source: papyri.info DDbDP o.wilck;;267  (Trismegistos 50754)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 267
+label:    O.Wilck. 267
+name:     Tax receipt — palm-grove survey tax (γεωμετρία φοινικῶνος)
+genre:    receipts
+date:     1 Apr 174 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Turin, Museo Egizio 15
+content:  Survey-tax on palm-grove, produce of year 13
+tm:       50754
+source:   https://papyri.info/ddbdp/o.wilck;;267
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Κασσιανὸς καὶ οἱ σὺν α(ὐτῷ)
+r.2   ἐπιτ(ηρηταὶ) ἱερᾶς πύλ(ης) Σοήν(ης) διὰ
+r.3   Παχνούβ(ιος) βοηθ(οῦ). διέγρ(αψεν) Μη-
+r.4   νόφιλος ὑπ(ὲρ) ὀνόματ(ος) Πετε-
+r.5   σούχου Ἁρπ(αήσιος) ὑπ(ὲρ) γεο(μετρίας) φοιν(ικῶνος) γεν(ήματος)
+r.6   ιγ (ἔτους) (δραχμὰς) γ χ(αλκοῦν 1). (ἔτους) ιδ Μάρκου
+r.7   Αὐρηλίου Ἀντωνίνου
+r.8   Καίσαρος τοῦ κυρίου Φαρμ(οῦθι) ϛ.
+
+[TRANSLATION]
+1   Cassianus and his associates,
+2   overseers of the sacred gate of Syene, through
+3   Pachnoubis assistant. Paid: Me-
+4   nophilos, for the account of Pete-
+5   souchos son of Harpaesis, for the survey-tax on the palm-grove of the produce
+6   of year 13: 3 dr. 1 chalkous. Year 14 of Marcus
+7   Aurelius Antoninus
+8   Caesar the lord, Pharmouthi 6.

@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 280 — Poll-tax receipt (λαογραφία), Severan
+# Source: papyri.info DDbDP o.wilck;;280  (Trismegistos 76845)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 280
+label:    O.Wilck. 280
+name:     Poll-tax receipt (λαογραφία), Severan
+genre:    receipts
+date:     25 Feb – 26 Mar 199 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Turin, Museo Egizio 20
+content:  Poll-tax of year 7 under Severus and Antoninus
+tm:       76845
+source:   https://papyri.info/ddbdp/o.wilck;;280
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Δι ̣ ̣ ̣ ̣μη ̣[- ca.9 -]
+r.2   λαο(γραφίας) ζ (ἔτους) Λουκίο[υ Σεπτιμίου]
+r.3   Σεουήρου Εὐσεβο[ῦς Περτίνακος]
+r.4   καὶ Μάρκου Αὐ̣[ρηλίου Ἀντωνίνου].
+r.5   Σεβαστῶν δραχ(μὰς) ̣[ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.6   (ἔτους) ζ Φαμ[εν]ὼθ [ ̣ ̣]
+
+[TRANSLATION]
+1   Di…me…[…]
+2   for poll-tax of year 7 of Luciu[s Septimius]
+3   Severus Pius [Pertinax]
+4   and Marcus Au[relius Antoninus],
+5   the Augusti, drachmas …[…]
+6   Year 7, Pham[en]oth […]

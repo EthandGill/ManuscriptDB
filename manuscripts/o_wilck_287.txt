@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 287 — Tax receipt — station and river-guard assessment
+# Source: papyri.info DDbDP o.wilck;;287  (Trismegistos 76851)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 287
+label:    O.Wilck. 287
+name:     Tax receipt — station and river-guard assessment
+genre:    receipts
+date:     c. 2nd c. CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Turin, Museo Egizio 19
+content:  Station and river-guard assessment, year 19
+tm:       76851
+source:   https://papyri.info/ddbdp/o.wilck;;287
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Παπρεμίθη Ἀμωνίου
+r.2   καὶ οἱ σ(ὺν αὐτῷ) πρ(άκτορες) ἀργ(υρικῆς) Ἐλεφ(αντίνης). διέγρ(αψεν)
+r.3   Παναπότις Πα ̣ ̣ ̣σμητ( )
+r.4   ὑπ(ὲρ) μερισμοῦ στατίω(νος) καὶ
+r.5   ποτα(μοφυλακίδος) ιθ (ἔτους) (δραχμὴν) α [ ̣ ̣ ̣ ̣]
+
+[TRANSLATION]
+1   Papremithes son of Amonios
+2   and his associates, collectors of money-taxes of Elephantine. Paid:
+3   Panapotis son of Pa…smet( ),
+4   for the station assessment and
+5   river-guard of year 19, 1 dr. […]

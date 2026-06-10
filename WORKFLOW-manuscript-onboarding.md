@@ -218,6 +218,68 @@ receipts, verify"` from `C:\ManuscriptDB`.
 
 ---
 
+## 8. The queue-driven loop (run continuously, no re-prompting)
+
+§5's prompt works, but "the next range in the continue-from queue" was prose the
+agent had to interpret. Two files now make the loop **deterministic and resumable**
+so one prompt runs batch after batch on its own:
+
+- **`onboarding_queue.txt`** — the ranges to do, one per line, seeded from §4.
+  First token = the DDbDP range id; rest = genre hint + notes. `#` / `DONE ` lines
+  are skipped, so progress survives restarts and context limits.
+- **`next_batch.py`** — the driver:
+  ```
+  python next_batch.py            # -> next pending line (range + notes)
+  python next_batch.py --range-only   # -> just "o.wilck;;261-310"
+  python next_batch.py --count        # -> ranges remaining
+  python next_batch.py --done "o.wilck;;261-310"   # tick it off
+  python next_batch.py --add  "o.fay;;1-50  receipts  Fayum ostraca"
+  ```
+
+**The loop, per batch:**
+
+```
+next_batch.py            → get the next range
+  → SWEEP it to JSON (3a)   → CLASSIFY (3b) → CLEAN (3c)
+  → PICK well-preserved      → TRANSLATE line-aligned (3d)
+  → BUILD .txt, asserting line counts (3e)
+  → VERIFY API parse errors == 0 (3f)
+  → CHECKPOINT tally + credits (3g)
+  → next_batch.py --done "<range>"   → repeat
+```
+
+**Kick-off prompt (paste once; it does not stop between ranges):**
+
+> Run the onboarding loop from `WORKFLOW-manuscript-onboarding.md`. Repeat until
+> `python next_batch.py --count` is 0 or I stop you or credits run low:
+> 1. `range = python next_batch.py --range-only`.
+> 2. Sweep that range to a JSON, classify by `Subjects`, clean the Greek (§3c),
+>    pick the well-preserved items, translate them faithfully line-by-line (§3d),
+>    build `.txt` files with the line-count-asserting script (§3e).
+> 3. Verify `/api/manuscripts` shows **0 parse errors**; if not, fix before moving on.
+> 4. Preserve scrape JSON for anything not built (rename `_PENDING_*.json`).
+> 5. Report the per-genre tally + credits remaining, then `python next_batch.py
+>    --done "<range>"` and **immediately continue to the next range without asking me.**
+> If a range errors or is sparse, note it, mark it DONE with a comment, and move on.
+
+**Pace it honestly:** translation is the bottleneck, not credits — so a "batch" is
+however many items you can translate *at quality* in one turn (~40 formulaic
+receipts, ~10–15 prose letters). It's fine for one queue range to take several
+turns; just don't mark it `--done` until its well-preserved items are actually built
+and verified.
+
+**Unattended (overnight):** `run_onboarding_overnight.bat` does this for you —
+it runs `claude -p` headless with `--permission-mode bypassPermissions`, processes
+N ranges (default 2), logs to `logs\onboarding_<timestamp>.log`, and reads the
+Firecrawl key from the `FIRECRAWL_API_KEY` env var or a local `.firecrawl_key`
+file. Double-click **`register_onboarding_task.bat`** as administrator once to
+schedule it nightly at 2:00 AM (or `schtasks /Create /TN "ManuscriptDB Onboarding"
+/TR "C:\ManuscriptDB\run_onboarding_overnight.bat 2" /SC DAILY /ST 02:00 /F`).
+Prereqs: Claude Code installed + logged in, and the `.claude/settings.json`
+allowlist in §5 as a second safety layer.
+
+---
+
 ## 6. Frontend features already wired (so onboarded data "just works")
 
 - **Genres**: receipts/contracts/letters render as a flat list showing

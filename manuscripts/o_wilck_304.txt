@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 304 — Harbor-guard receipt — mooring due (ἐνόρμιον), for a goose-keeper
+# Source: papyri.info DDbDP o.wilck;;304  (Trismegistos 76867)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 304
+label:    O.Wilck. 304
+name:     Harbor-guard receipt — mooring due (ἐνόρμιον), for a goose-keeper
+genre:    receipts
+date:     25 Apr 115 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5790
+content:  Mooring-due, Choiak to Pharmouthi, year 18 of Trajan
+tm:       76867
+source:   https://papyri.info/ddbdp/o.wilck;;304
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀντῶνις Μαλχαῖς ὁ ἀσχολούμενος
+r.2   τὴν ὁρμοφυλακίαν Σοήνης Ἁρπαήσι
+r.3   χηνοτρόπῳ χαίρειν. ἀπέχω παρ εσοῦ
+r.4   τὸ ἐνόρμιν ἀγωγίων ὧν ἐποιήσου τὰ ἀ-
+r.5   πὸ Χοίακ λ ἕως Φαρμοῦθι λ τοῦ ιη (ἔτους)
+r.6   Τραιανοῦ Ἀρίστου Καίσαρος τοῦ κυρίου
+r.7   Φαρμουτι λ. (hand 2) Ἀντώνιος Μαλχαῖος
+r.8   ἀπέχω.
+
+[TRANSLATION]
+1   Antonis Malchais, the one occupied with
+2   the harbor-guard of Syene, to Harpaesis
+3   the goose-keeper, greeting. I have received from you
+4   the mooring-due for the freight-loads which you made, fr-
+5   om Choiak 30 to Pharmouthi 30 of year 18
+6   of Trajan Optimus Caesar the lord.
+7   Pharmouthi 30. (2nd hand) Antonios Malchaios,
+8   I have (it).

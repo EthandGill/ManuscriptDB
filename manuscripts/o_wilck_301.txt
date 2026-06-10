@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 301 — Granary receipt — wheat for the shepherds' assessment
+# Source: papyri.info DDbDP o.wilck;;301  (Trismegistos 76864)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 301
+label:    O.Wilck. 301
+name:     Granary receipt — wheat for the shepherds' assessment
+genre:    receipts
+date:     1st–4th c. CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1 [ostracon]
+content:  6 artabas of wheat for the shepherds' assessment, year 13
+tm:       76864
+source:   https://papyri.info/ddbdp/o.wilck;;301
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Πκῦλις Προμπιούθης καὶ Πετορζ(μῆθις)
+r.2   Ἑρμίωνος διὰ Ἀπολλωτᾶ καὶ Ἁτρῆ
+r.3   πράκ(τορες) σιτικ(ῆς) Σοή(νης). ἐμέτρησ(εν) Πε-
+r.4   τορζμῆθις Πετορζ(μήθιος) τοῦ Βοὺκ
+r.5   ὑπ(ὲρ(?)) μερισμοῦ ποι(μένων) πυροῦ ἀρτάβ(ας)
+r.6   ἓξ (γίνονται) (πυροῦ) (ἀρτάβαι) ϛ λημ(μάτων) ιγ (ἔτους).
+r.7   (ἔτους) ιγ ̣ ̣ ̣ Παχὼν κβ
+r.8   (hand 2) Ἁτρὴς σεσημεί(ωμαι).
+
+[TRANSLATION]
+1   Pkylis son of Prompiouthes and Petorz(methes)
+2   son of Hermion, through Apollotas and Hatres,
+3   collectors of grain-taxes of Syene. Measured out: Pe-
+4   torzmethes son of Petorz(methes), of Bouk,
+5   for the shepherds' assessment(?): of wheat, artabas
+6   six — total 6 art. of wheat — of the receipts of year 13.
+7   Year 13 …, Pachon 22.
+8   (2nd hand) I, Hatres, have signed.
