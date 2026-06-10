@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 225 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;225  (Trismegistos 76792)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 225
+label:    O.Wilck. 225
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     150 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 332
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76792
+source:   https://papyri.info/ddbdp/o.wilck;;225
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Δομί]τιος Φαννιανὸς
+r.2   καὶ Γερμ(ανὸ)ς πράκ(τορες) ἀργ(υρικῆς) Ἐλεφα(ντίνης).
+r.3   διέγραψεν Πεκῦσις Παχα
+r.4   μητ(ρὸς) Σεν ε ὑπ(ὲρ) μερισ(μῶν)
+r.5   ι (ἔτους) [Ἀντω]νίνου Καίσαρος
+r.6   τοῦ κυρίου ῥυπ(αρὰς) δραχ(μὰς) τέσσαρες
+r.7   (γίνονται) (δραχμαὶ) δ Ἐπεὶφ κα.
+
+[TRANSLATION]
+1   [Domi]tius Phannianus
+2   and Germanos, collectors of the money-tax of Elephantine.
+3   Paid: Pekysis son of Pacha...,
+4   mother Sen...e, for the assessments
+5   of the 10th year of [Anto]ninus Caesar
+6   the lord: (worn) four drachmas
+7   — total 4 dr. Epeiph 21.

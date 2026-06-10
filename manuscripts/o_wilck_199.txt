@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 199 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;199  (Trismegistos 76767)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 199
+label:    O.Wilck. 199
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     145 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5808
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76767
+source:   https://papyri.info/ddbdp/o.wilck;;199
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [ Κ]αλλίστου καὶ οἱ σὺν
+r.2   [αὐτ(ῷ(?)) ἐπιτ(ηρηταὶ)] ἱερᾶς πύλ(ης) Σοήνης
+r.3   [διὰ Σαρ]απίωνος βοηθοῦ.
+r.4   [διέγρ]αψ(εν) Πατίβπτις Πετορ-
+r.5   [ζμ]ήθιος μητ(ρὸς) Σινπελαίας
+r.6   ὑπ(ὲρ) χειρω(ναξίου) τοῦ η (ἔτους) Ἀντωνίνου
+r.7   Καίσαρος τοῦ κυρίου ῥυπ(αρὰς)
+r.8   δραχ(μὰς) εἴκοσι ὀβολ(οὺς)
+r.9   δύο (γίνονται) (δραχμαὶ) κ(διώβολον)
+r.10   Ἐπεὶφ ζ.
+
+[TRANSLATION]
+1   [NN son of K]allistos and those with
+2   [him, overseers] of the Sacred Gate of Syene,
+3   [through Sar]apion the assistant.
+4   [Pa]id: Patibptis son of Petor-
+5   [zm]ethis, mother Sinpelaias,
+6   for the trade-tax of the 8th year of Antoninus
+7   Caesar the lord: (worn)
+8   twenty drachmas (and) two
+9   obols — total 20 dr. 2 ob.
+10   Epeiph 7.

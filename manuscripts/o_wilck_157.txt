@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 157 — tax receipt (palm-grove land-tax)
+# Source: papyri.info DDbDP o.wilck;;157  (Trismegistos 76728)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 157
+label:    O.Wilck. 157
+name:     Tax receipt — palm-grove land-tax
+genre:    receipts
+date:     131/132 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12150
+content:  Ostracon tax receipt — palm-grove land-tax, Syene/Elephantine
+tm:       76728
+source:   https://papyri.info/ddbdp/o.wilck;;157
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἄρ(ρ)ιος [Πουπλιαν]ὸς καὶ οἱ [σὺν αὐτῷ ἐπιτη-]
+r.2   ρητ(αὶ) ἱερ(ᾶς) [πύλ(ης) Σοή]νης διὰ Σαραπίωνος βοηθ(οῦ).
+r.3   δ[ιέγρ(αψεν) Πετορ]ζμῆθις
+r.4   τιος ὑπ(ὲρ) γεο(μετρίας) φοινι(κῶνος) τοῦ ιγ (ἔτους)
+r.5   Ἁδριανοῦ Καίσαρος τοῦ κυρίου απο
+r.6   διαν Ὀννώφριος προφητ( )
+r.7   [(ἔτους)] ιγ Ἁδριανοῦ τοῦ κυρίου.
+
+[TRANSLATION]
+1   Ar(r)ius [Puplian]us and those [with him, over-]
+2   seers of the Sacred [Gate of Sye]ne, through Sarapion the assistant.
+3   P[aid: Petor]zmethis
+4   son of …tis, for the land-survey tax on a palm-grove of the 13th year
+5   of Hadrian Caesar the lord …
+6   … Onnophris, prophet(?)
+7   [Year] 13 of Hadrian the lord.

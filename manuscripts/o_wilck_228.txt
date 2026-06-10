@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 228 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;228  (Trismegistos 76795)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 228
+label:    O.Wilck. 228
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     c. 155 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    (shelf not recorded)
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76795
+source:   https://papyri.info/ddbdp/o.wilck;;228
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Φανῶφις πράκ(τωρ) ἀργ(υρικῆς) [Ἐλεφ(αντίνης). διέγρ(αψεν) ]
+r.2   Πετορζ(μήθου) ὑπ(ὲρ) μερισμῶ[ν (ἔτους) τριώβολον]
+r.3   δίχαλκων (γίνονται) (τριώβολον) χ(αλκοῖ 2). [ ]
+r.4   τοῦ κυρίου Φαμεν(ὼ)θ κ.
+
+[TRANSLATION]
+1   Phanophis, collector of the money-tax [of Elephantine. Paid: NN son of]
+2   Petorz(methes), for the assessment[s (of the year): three obols]
+3   (and) two chalkoi — total 3 ob. 2 ch. [...]
+4   the lord, Phamenoth 20.

@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 145 — tax receipt (river-guard assessment (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;145  (Trismegistos 76717)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 145
+label:    O.Wilck. 145
+name:     Tax receipt — river-guard assessment (potamophylakis)
+genre:    receipts
+date:     128 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Turin, Museo Egizio 18
+content:  Ostracon tax receipt — river-guard assessment (potamophylakis), Syene/Elephantine
+tm:       76717
+source:   https://papyri.info/ddbdp/o.wilck;;145
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Καλασῖρις πράκ(τωρ) ἀρ(γυρικῆς) διὰ Ἰουνίου
+r.2   Οὐάλεντος βοηθ(οῦ). διέγραψ(εν) Πετορ-
+r.3   ζμῆθις Παχνούβεως ε λ( )
+r.4   μη(τρὸς) Θιμεαῦτος ὑπ(ὲρ) μερισμ(οῦ) ποταμο-
+r.5   φυλακ(ίδος) ιγ (ἔτους) Ἁδριανοῦ τοῦ κυρίου ῥυπ(αρὰν)
+r.6   (δραχμὴν) α(τετρώβολον), στατίω(νος) (ἡμιωβέλιον) χ(αλκοῦς) β (γίνονται) (δραχμὴ) α (ὀβολοὶ) δ𐅵 χ(αλκοῖ) β.
+r.7   (ἔτους) ιγ Ἁδριανοῦ τοῦ κυρίο(υ) Χοίακ λ.
+
+[TRANSLATION]
+1   Kalasiris, collector of the money-tax, through Junius
+2   Valens the assistant. Paid: Petor-
+3   zmethis son of Pachnoubis … (grandson?),
+4   mother Thimeaus, for the assessment of the river-
+5   guard, 13th year of Hadrian the lord:
+6   1 drachma 4 obols (in worn coin), (and) for the station ½ obol (and) 2 chalkoi — total 1 dr. 4½ ob. 2 ch.
+7   Year 13 of Hadrian the lord, Choiak 30.

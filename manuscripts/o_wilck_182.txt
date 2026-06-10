@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 182 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;182  (Trismegistos 76752)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 182
+label:    O.Wilck. 182
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     141 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 349
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76752
+source:   https://papyri.info/ddbdp/o.wilck;;182
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Ἡρακλείδης] καὶ Ἰ σίδω[ρος]
+r.2   [μισθ(ωταὶ) πύλ(ης)] Σοήνης διὰ Πα[χομ-]
+r.3   [ψᾶχις βοηθ(οῦ). δι]έγρα(ψεν) Πετορζμ[ῆθις]
+r.4   [Παχνού]βεως μητ(ρὸς) Θ[ιν-]
+r.5   [πε]λαί[ας ὑπ(ὲρ)] λαο(γραφίας) δ (ἔτους) δραχ(μὰς) δ[έκα]
+r.6   ἑπτὰ ὀβολ(ὸν) (γίνονται) (δραχμαὶ) ιζ(ὀβολός), μερ[ισ(μοῦ)]
+r.7   ἐπ[ικ(εφαλίου) ἀ]νδ(ρῶν) [ἀ]νακ(εχωρηκότων) β (ἔτους) [ ].
+r.8   (ἔτους) δ Ἀντωνίνου Κα[ίσαρος]
+r.9   τοῦ κυρίου Μεσορ[ὴ ]
+
+[TRANSLATION]
+1   [Herakleides] and Isido[ros,]
+2   [lessees of the Gate] of Syene, through Pa[chom-]
+3   [psachis the assistant. Pa]id: Petorzm[ethis]
+4   [son of Pachnou]bis, mother Th[in-]
+5   [pe]lai[as, for] the poll-tax of the 4th year: s[even-]
+6   teen drachmas (and) an obol — total 17 dr. 1 ob., (and the) assess[ment]
+7   of the head-[tax of] the men who [had with]drawn, 2nd year […].
+8   Year 4 of Antoninus Ca[esar]
+9   the lord, Mesor[e …]

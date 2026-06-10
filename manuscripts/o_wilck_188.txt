@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 188 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;188  (Trismegistos 76757)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 188
+label:    O.Wilck. 188
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     142 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5802
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76757
+source:   https://papyri.info/ddbdp/o.wilck;;188
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἡρακ(λείδης) καὶ Ἰ σίδωρος
+r.2   μισθ(ωταὶ) πύλ(ης) Σοήνης διὰ
+r.3   Παχομψᾶχις βοηθ(οῦ).
+r.4   διέγρα(ψεν) Πατσεῖδις
+r.5   Πετορζμήθου ὑπ(ὲρ)
+r.6   λαο(γραφίας) δ (ἔτους) δραχ(μὰς) δέκα
+r.7   ἑπτὰ ὀβολ(ὸν) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς). (ἔτους) ε
+r.8   Ἀντωνίνου Καίσαρος
+r.9   τοῦ {τοῦ} κυρίου Παῦνι
+r.10   ιγ.
+
+[TRANSLATION]
+1   Herak(leides) and Isidoros,
+2   lessees of the Gate of Syene, through
+3   Pachompsachis the assistant.
+4   Paid: Patseidis
+5   son of Petorzmethes, for
+6   the poll-tax of the 4th year: seven-
+7   teen drachmas (and) an obol — total 17 dr. 1 ob. Year 5
+8   of Antoninus Caesar
+9   the lord, Pauni
+10   13.

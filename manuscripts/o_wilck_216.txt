@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 216 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;216  (Trismegistos 76784)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 216
+label:    O.Wilck. 216
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     147 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5834
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76784
+source:   https://papyri.info/ddbdp/o.wilck;;216
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Γερμανὸς καὶ Παπ]ρεμείθ(ης) πράκ(τορες)
+r.2   [ἀργ(υρικῆς) Ἐλεφ(αντίνης). διέγρ(αψεν)] Ἁρπαῆσις Ζμήτι[ος]
+r.3   [μητ(ρὸς) ] ὑπ(ὲρ) μερισ(μῶν) ια (ἔτους) Ἀντωνίνου
+r.4   [Καίσαρος τοῦ] κυρίου ῥυπ(αρὰς) (δραχμὰς) δ Θὼθ ιθ.
+r.5   [Γερμανὸς σεσημείωμ]αι (δραχμὰς) δ.
+
+[TRANSLATION]
+1   [Germanos and Pap]remith(es), collectors
+2   [of the money-tax of Elephantine. Paid:] Harpaesis son of Zmethis,
+3   [mother ...,] for the assessments of the 11th year of Antoninus
+4   [Caesar the] lord: (worn) 4 dr. Thoth 19.
+5   [I, Germanos, have signed o]ff: 4 dr.

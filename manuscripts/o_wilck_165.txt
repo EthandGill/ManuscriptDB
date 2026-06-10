@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 165 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;165  (Trismegistos 76735)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 165
+label:    O.Wilck. 165
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     136/137 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7184
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76735
+source:   https://papyri.info/ddbdp/o.wilck;;165
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Μέλας Φατρήους καὶ οἱ σὺν αὐτ(ῷ)
+r.2   ἐπιτηρητ(αὶ) ἱερᾶς πύ(λης) Σοήνης
+r.3   διὰ Σαραπίωνος βοηθ(οῦ). διέγραψ(εν)
+r.4   Ζμαντπὼς Π[ετ]ορζμήθ(ιος) μητρὸς
+r.5   Ταλε ις ὑπ(ὲρ) λαογ(ραφίας) τοῦ κ (ἔτους)
+r.6   Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.7   ἐπὶ λ(όγου) ῥυπ(αρὰς) δραχ(μὰς) τρεῖς τριώβολ(ον) ,
+r.8   [ὁ α(ὐτὸς)] λαογ(ραφίας) κα (ἔτους) δραχ(μὰς) δέκα
+r.9   [ἑπτὰ (ἡμιωβέλιον) δεσ(μοῦ)] (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς).
+r.10   [ ] β.
+
+[TRANSLATION]
+1   Melas son of Phatres and those with him,
+2   overseers of the Sacred Gate of Syene,
+3   through Sarapion the assistant. Paid:
+4   Zmantpos son of Petorzmethis, mother
+5   Tale…is, for the poll-tax of the 20th year
+6   of Hadrian Caesar the lord,
+7   on account, three drachmas three obols (worn);
+8   [the same,] for the poll-tax of the 21st year, seven-
+9   [teen drachmas (and) a half-obol, ½ obol (keepers')] — total 17 dr. 1 ob.
+10   […] 2.

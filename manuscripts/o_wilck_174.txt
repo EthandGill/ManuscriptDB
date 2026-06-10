@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 174 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;174  (Trismegistos 76744)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 174
+label:    O.Wilck. 174
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     140 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Bankes collection, Wimborne Minster
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76744
+source:   https://papyri.info/ddbdp/o.wilck;;174
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἄννιος Ἀμμωνιανὸς καὶ Σαραπ(αμμὼν)
+r.2   Παχνού(βιος) πράκ(τορες) ἀργ(υρικῆς). διέγραψεν Π[ατ-]
+r.3   σείπτις Π(ε)τορζμήθ(ου) μητ(ρὸς) Σενπελείας
+r.4   μερισ(μὸν) γ (ἔτους) ῥυπ(αρὰς) δρ[αχ(μὰς) ] (ἔτους) γ Ἀντωνίνου
+r.5   Καίσαρος τοῦ κυρίου Φαρμοῦθ(ι) κγ.
+r.6   (hand 2) Ἄννιος Ἀμμωνιανὸς σεσημαί[ωμαι] [(δραχμὰς) ]
+
+[TRANSLATION]
+1   Annius Ammonianus and Sarap(ammon)
+2   son of Pachnoubis, collectors of the money-tax. Paid: P[at-]
+3   seiptis son of Petorzmethes, mother Senpeleias,
+4   the assessment of the 3rd year: […] drachmas (worn). Year 3 of Antoninus
+5   Caesar the lord, Pharmouthi 23.
+6   (2nd hand) I, Annius Ammonianus, have signed off: [… drachmas].

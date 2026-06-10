@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 251 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;251  (Trismegistos 76818)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 251
+label:    O.Wilck. 251
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     163 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre O. 12
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76818
+source:   https://papyri.info/ddbdp/o.wilck;;251
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Οὔλπιος Κερεᾶλις μισθ(ωτὴς)
+r.2   ἱερᾶς πύλ(ης) Σοήνης διὰ Παχνούβ(ιος)
+r.3   Πετορζ(μήθου) βοηθ(οῦ). διέγρα(ψεν) Σεραπίων Ἀμ-
+r.4   μωνίου μη(τρὸς) Σεν[πε]τορζ(μήθιος) ὑπ(ὲρ) λαογ(ραφίας) γ (ἔτους)
+r.5   δραχ(μὰς) δέκα ἑπτὰ ὀβολ(ὸν) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς). (ἔτους) γ
+r.6   Ἀντωνείνου καὶ Οὐήρου
+r.7   Καισάρων τῶν κυρίων
+r.8   Σεβαστῶν Παῦνι ιγ.
+
+[TRANSLATION]
+1   Ulpius Cerealis, lessee
+2   of the Sacred Gate of Syene, through Pachnoub(is)
+3   son of Petorz(methes), the assistant. Paid: Serapion son of Am-
+4   monios, mother Sen[pe]torz(methes), for the poll-tax of the 3rd year:
+5   seventeen drachmas (and) an obol — total 17 dr. 1 ob. Year 3
+6   of Antoninus and Verus,
+7   the lords Caesars,
+8   the Augusti, Pauni 13.

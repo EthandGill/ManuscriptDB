@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 230 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;230  (Trismegistos 76797)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 230
+label:    O.Wilck. 230
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     156 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    (shelf not recorded)
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76797
+source:   https://papyri.info/ddbdp/o.wilck;;230
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Στλάκκιος μισθ(ωτὴς) ἱερᾶς πύλ(ης)
+r.2   Σοήνης διὰ Σερήνου βοηθ(οῦ). διέγρ(αψεν)
+r.3   Πεταμενὼρ Παχώμιος μητ(ρὸς) Τάι βις
+r.4   ὑ(πὲ)ρ μερ(ισμοῦ) α δραχ(μὰς) δέκα
+r.5   ὀβολ(οὺς) δύο (δραχμὰς) ι(διώβολον). (ἔτους) κ Ἀντω-
+r.6   νείνου Καίσαρος τοῦ κυρίου Χοίακ κα.
+
+[TRANSLATION]
+1   Stlakkios, lessee of the Sacred Gate
+2   of Syene, through Serenos the assistant. Paid:
+3   Petamenor son of Pachomios, mother Taibis,
+4   for the assessment, 1st(?): ten drachmas
+5   (and) two obols — 10 dr. 2 ob. Year 20 of Anto-
+6   ninus Caesar the lord, Choiak 21.

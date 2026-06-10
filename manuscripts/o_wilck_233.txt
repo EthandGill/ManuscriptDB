@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 233 — tax receipt (tax payment)
+# Source: papyri.info DDbDP o.wilck;;233  (Trismegistos 76800)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 233
+label:    O.Wilck. 233
+name:     Tax receipt — tax payment
+genre:    receipts
+date:     157 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    du Rocher collection, France
+content:  Ostracon tax receipt — tax payment, Syene/Elephantine
+tm:       76800
+source:   https://papyri.info/ddbdp/o.wilck;;233
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Στλάκκιος μι(σθωτὴς) ἱερᾶς πύλης Σοήνης
+r.2   διὰ Σερήνου βοη(θοῦ). διέγρ(αψεν) <Παναπ(ῶτις)>
+r.3   Ἀμμωνίου μη(τρος) Θινῆσις
+r.4   ὑ[πὲρ ] [ ]
+r.5   (ἔτους) κα Ἀντωνείνου
+r.6   Καίσαρος τοῦ κυρίου Ἁθὺρ κ.
+
+[TRANSLATION]
+1   Stlakkios, lessee of the Sacred Gate of Syene
+2   through Serenos the assistant. Paid: <Panap(otis)>
+3   son of Ammonios, mother Thinesis,
+4   fo[r ...] [...]
+5   Year 21 of Antoninus
+6   Caesar the lord, Hathyr 20.

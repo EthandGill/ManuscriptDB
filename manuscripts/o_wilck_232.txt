@@ -1,0 +1,47 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 232 — tax receipt (state palm/date tax)
+# Source: papyri.info DDbDP o.wilck;;232  (Trismegistos 76799)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 232
+label:    O.Wilck. 232
+name:     Tax receipt — state palm/date tax
+genre:    receipts
+date:     156/157 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12115
+content:  Ostracon tax receipt — state palm/date tax, Syene/Elephantine
+tm:       76799
+source:   https://papyri.info/ddbdp/o.wilck;;232
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀμμώνιος καὶ Σωκ(ράτης) οἱ β πράκ(τορες) ἀργ(υρικῶν) Ἐλεφ(αντίνης).
+r.2   διέγρ(αψεν) Παχνοῦβις Πετορζ(μήθιος) ὑπ(ὲρ) ὀνόμ(ατος) τῆς
+r.3   μητρὸ(ς) Θινζμήθ(ιος) Καλασίρεως ὑπ(ὲρ) τειμῆ(ς)
+r.4   δημοσίου φοίνεικ(ος) γενήμ(ατος) κ (ἔτους) (δραχμὰς) ι [ ]
+r.5   ἑτέρου τόπ(ου) (δραχμὰς) ϛ (ὀβολὸν) α𐅵, καὶ ὀνόμ(ατος) Θιν[ ]
+r.6   ἀδελφαι ἀπὸ (δραχμῶν) ια (δραχμὰς) γ(πεντώβολον), κ[αὶ ὀνόμ(ατος) Πε-]
+r.7   τεσούχ(ου) Ἁρπ(αήσιος) ἀπὸ (δραχμῶν) κ(ὀβολοῦ)(διχάλκου) (δραχμ ) [ ]
+r.8   τὸ ε´ ιϛ (ἔτους) (δραχμὰς) ϛ(ὀβολὸν) (γίνονται) ἐπ(ὶ τὸ αὐτὸ) (δραχμαὶ) λζ [(διώβολον) καὶ(?) τού-]
+r.9   των τὸ τέταρτον [(δραχμαὶ) ἐννέα]
+r.10   ὀβολ(οὶ) δύο (γίνονται) (δραχμαὶ) θ(διώβολον) [ (ἔτους) κ ]
+r.11   Ἀντωνείνου [ ]
+
+[TRANSLATION]
+1   Ammonios and Sok(rates), the two collectors of the money-taxes of Elephantine.
+2   Paid: Pachnoubis son of Petorz(methes), in the name of
+3   his mother Thinzmethis (daughter) of Kalasiris, for the price
+4   of the state palm(-dates), of the produce of the 20th year: 10 dr. [...];
+5   for another plot, 6 dr. 1½ ob., and in the name of Thin[...]
+6   sisters, from 11 dr., 3 dr. 5 ob.; a[nd in the name of Pe-]
+7   tesouchos son of Harp(aesis), from 20 dr. 1 ob. 2 ch., [...] dr.;
+8   the fifth (instalment) of the 16th year, 6 dr. 1 ob. — grand total 37 dr. [2 ob., and(?) of]
+9   these, the quarter: [nine drachmas]
+10   (and) two obols — total 9 dr. 2 ob. [... Year 20]
+11   of Antoninus [...]

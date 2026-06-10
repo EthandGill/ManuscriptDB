@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 180 — tax receipt (statue/bust assessment)
+# Source: papyri.info DDbDP o.wilck;;180  (Trismegistos 76750)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 180
+label:    O.Wilck. 180
+name:     Tax receipt — statue/bust assessment
+genre:    receipts
+date:     141 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5820
+content:  Ostracon tax receipt — statue/bust assessment, Syene/Elephantine
+tm:       76750
+source:   https://papyri.info/ddbdp/o.wilck;;180
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἄννιο(ς) Ἀμμωνια[νὸς καὶ Σαραπαμ(μὼν)]
+r.2   Παχνο(ύβιος) πράκ(τορες) ἀργ(υρικῆς) Ἐλεφ(αντίνης). [διέγρ(αψεν)]
+r.3   Σαραπίων Γερμανοῦ μητ(ρὸς) Σ[ενπα-]
+r.4   πρεμείθ(ου) ὑπ(ὲρ) μερι(σμῶν) δ (ἔτους) ῥυπ(αρὰς) δ[ραχ(μὰς) καὶ ὑπ(ὲρ)]
+r.5   [ἀν]δρι(άντος) καὶ προτομῆς [ ]
+r.6   (ἔτους) δ Ἀντωνείν[ου Καίσαρος τοῦ κυρίου]
+r.7   [Παῦ]νι ιδ. Ἄν[νιος ⁦ -ca.?- ⁩]
+
+[TRANSLATION]
+1   Anniu(s) Ammonia[nus and Sarapam(mon)]
+2   son of Pachno(ubis), collectors of the money-tax of Elephantine. [Paid:]
+3   Sarapion son of Germanos, mother S[enpa-]
+4   premeith(os), for the assessments of the 4th year: 4 d[rachmas (worn), and for]
+5   [the s]tatue and the bust […]
+6   Year 4 of Antonin[us Caesar the lord,]
+7   [Pau]ni 14. An[nius …]

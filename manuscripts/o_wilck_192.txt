@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 192 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;192  (Trismegistos 100067)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 192
+label:    O.Wilck. 192
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     143 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    (shelf not recorded)
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       100067
+source:   https://papyri.info/ddbdp/o.wilck;;192
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἡρακλείδης καὶ Ἰσίδωρος
+r.2   μισθ(ωταὶ) ἱερ(ᾶς) πύλ(ης) Σοήνης διὰ
+r.3   Παχομψᾶχις βοηθ(οῦ).
+r.4   διέγρ(αψεν) Πετοννόφρις
+r.5   Ἁρμάχιος ὑ(πὲ)ρ μερ(ισμοῦ) β
+r.6   δραχ(μὰς) δώδεκα ὀβολ(οὺς) τρεῖς
+r.7   (δραχμὰς) ιβ(τριώβολον) (ἔτους) ϛ Ἀντωνείνου
+r.8   Καίσαρος τοῦ κυρίου Παχὼν ιγ.
+
+[TRANSLATION]
+1   Herakleides and Isidoros,
+2   lessees of the Sacred Gate of Syene, through
+3   Pachompsachis the assistant.
+4   Paid: Petonnophris
+5   son of Harmachis, for the assessment, 2nd (instalment?):
+6   twelve drachmas (and) three obols
+7   — 12 dr. 3 ob. Year 6 of Antoninus
+8   Caesar the lord, Pachon 13.

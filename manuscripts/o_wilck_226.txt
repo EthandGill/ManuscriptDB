@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 226 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;226  (Trismegistos 76793)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 226
+label:    O.Wilck. 226
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     155 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    formerly Wilcken collection, Berlin
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76793
+source:   https://papyri.info/ddbdp/o.wilck;;226
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Στλά]κκιος μισθ(ωτὴς) ἱ ερᾶς πύλ(ης) Σοή(νης) διὰ
+r.2   [Ἀμ]μωνίου βοηθ(οῦ). διέγραψεν Πατε[ ]
+r.3   θ( ) Ἁρπ(αήσεως) μητ(ρὸς) Σενψανσ(νῶτος) Σαραπ(ίωνος) ὑπ(ὲρ)
+r.4   [λ]αογραφίας ιζ (ἔτους) κατὰ
+r.5   [μέ]ρος δρα[χ(μὰς)] δέκα ἑπτὰ ὀβολ(ὸν) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς).
+r.6   (ἔτους) ιη Ἀντωνείνου Καίσαρ[ος]
+r.7   τοῦ κυρίου Μεχ(ὶρ) ια.
+
+[TRANSLATION]
+1   [Stla]kkios, lessee of the Sacred Gate of Syene, through
+2   [Am]monios the assistant. Paid: Pate[...]
+3   son of Harp(aesis), mother Senpsans(notos) (granddaughter of) Sarapion, for
+4   the poll-tax of the 17th year, in
+5   part: seventeen drachmas (and) an obol — total 17 dr. 1 ob.
+6   Year 18 of Antoninus Caesar
+7   the lord, Mecheir 11.

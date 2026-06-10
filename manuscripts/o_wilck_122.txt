@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 122 — tax receipt (river-guard assessment (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;122  (Trismegistos 76695)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 122
+label:    O.Wilck. 122
+name:     Tax receipt — river-guard assessment (potamophylakis)
+genre:    receipts
+date:     122 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14112 (5790p)
+content:  Ostracon tax receipt — river-guard assessment (potamophylakis), Syene/Elephantine
+tm:       76695
+source:   https://papyri.info/ddbdp/o.wilck;;122
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Σανμοὺς πράκ(τωρ). διέγρ(αψεν)
+r.2   Παχνοῦβις Φανώφεω(ς)
+r.3   μη(τρὸς) Ταχομτβήκ(ιος) ὑπ(ὲρ) μερι(σμοῦ)
+r.4   ποταμοφυλ(ακίδος) ϛ (ἔτους) Ἁδριανοῦ τοῦ
+r.5   κυρίου ῥυπ(αρὰς) (δραχμὰς) β ὀβολ(οὺς) τρεῖς .
+r.6   Σαρ(απίων) γρ(αμματεὺς) ἔγρ(αψα) Φαρμ(οῦθι) ϛ.
+
+[TRANSLATION]
+1   Sanmous, collector. Paid:
+2   Pachnoubis son of Phanophis,
+3   mother Tachomtbekis, for the assessment
+4   of the river-guard, 6th year of Hadrian the
+5   lord: 2 drachmas 3 obols (in worn coin).
+6   I, Sarapion the scribe, wrote (this), Pharmouthi 6.

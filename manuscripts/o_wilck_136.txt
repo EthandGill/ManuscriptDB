@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 136 — tax receipt (priestly admission-fee (eiskritikon))
+# Source: papyri.info DDbDP o.wilck;;136  (Trismegistos 76709)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 136
+label:    O.Wilck. 136
+name:     Tax receipt — priestly admission-fee (eiskritikon)
+genre:    receipts
+date:     126 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14003 (5790c)
+content:  Ostracon tax receipt — priestly admission-fee (eiskritikon), Syene/Elephantine
+tm:       76709
+source:   https://papyri.info/ddbdp/o.wilck;;136
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Τριάδελφος πράκ(τωρ). διέγραψ(εν)
+r.2   Ἁρπαῆσις Φενόφεος πασαθ-
+r.3   φόρος Ἀμμῶνος θεοῦ μεγίσ(του)
+r.4   ὑπ(ὲρ) εἰσκριτικοῦ δραχ(μὰς) ὀκτο
+r.5   τριόβολον (γίνονται) (δραχμαὶ) η(τριώβολον).
+r.6   (ἔτους) ι Ἁδριανοῦ Καίσαρος
+r.7   τοῦ κυρίου Μεσορὴ ἐπα(γομενῶν) ε
+r.8   (hand 2) διὰ Παχνοῦβις ἀδελ-
+r.9   φοῦ.
+
+[TRANSLATION]
+1   Triadelphos, collector. Paid:
+2   Harpaesis son of Phenophis, pastoph-
+3   oros of Ammon the greatest god,
+4   for the admission-fee (eiskritikon): eight drachmas
+5   (and) three obols — total 8 dr. 3 ob.
+6   Year 10 of Hadrian Caesar
+7   the lord, Mesore, 5th intercalary day.
+8   (2nd hand) through Pachnoubis, his bro-
+9   ther.

@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 153 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;153  (Trismegistos 76724)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 153
+label:    O.Wilck. 153
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     132 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 311
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76724
+source:   https://papyri.info/ddbdp/o.wilck;;153
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀντίοχος Κασιανὸς καὶ Ἄρριο(ς) Πουπλ(ιανὸς) καὶ Ἰ ούλιο(ς) Μάξιμος καὶ οἱ
+r.2   σὺν αὐτοῖς ἐπιτηρ(ηταὶ) ἱερ(ᾶς) πύλ(ης) Σοή(νης) δι(ὰ) Φανώφ(εως) βοηθ(οῦ). διέγρ(αψεν)
+r.3   Πετεχνοῦ(βις)
+r.4   Παχνούβ(ιος) μητ(ρὸς) Ταχνούβ(ιος) ὑπ(ὲρ) χειρω(ναξίου) ἑκκαιδεκάτου ἔτους Ἁδριανοῦ
+r.5   τοῦ κυρίου δραχ(μὰς) εἴκοσι ὀβολ(οὺς) δύο (γίνονται) (δραχμαὶ) κ(διώβολον). (ἔτους) ιϛ Ἁδριανοῦ τοῦ κυρίου
+r.6   Παχ(ὼν) θ.
+
+[TRANSLATION]
+1   Antiochos Casianus and Arrius Pupl(ianus) and Julius Maximus and those
+2   with them, overseers of the Sacred Gate of Syene, through Phanophis the assistant. Paid:
+3   Petechnoubis
+4   son of Pachnoubis, mother Tachnoubis, for the trade-tax of the sixteenth year of Hadrian
+5   the lord: twenty drachmas (and) two obols — total 20 dr. 2 ob. Year 16 of Hadrian the lord,
+6   Pachon 9.

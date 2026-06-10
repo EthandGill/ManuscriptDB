@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 197 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;197  (Trismegistos 76765)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 197
+label:    O.Wilck. 197
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76765
+source:   https://papyri.info/ddbdp/o.wilck;;197
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Σωτὴρ καὶ Παπρεμίθ(ης)
+r.2   πράκ(τορες) ἀργυρικ(ῶν) Ἐλεφ(αντίνης). διέ-
+r.3   γραψ(εν) Πεττορζμῆτις Που-
+r.4   ήρεως μητρὸς Τισάτιος
+r.5   μερισμ(ὸν) ζ (ἔτους) Ἀντωνίνου
+r.6   Καίσαρος τοῦ κυρίου
+r.7   (δραχμὰς) η. (ἔτους) η Ἁθὺρ β.
+
+[TRANSLATION]
+1   Soter and Papremith(es),
+2   collectors of the money-taxes of Elephantine. Pai-
+3   d: Pettorzmetis son of Pou-
+4   eris, mother Tisatis,
+5   the assessment of the 7th year of Antoninus
+6   Caesar the lord:
+7   8 dr. Year 8, Hathyr 2.

@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 218 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;218  (Trismegistos 55690)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 218
+label:    O.Wilck. 218
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     148 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5817
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       55690
+source:   https://papyri.info/ddbdp/o.wilck;;218
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Δομίτιος Φαννιανὸς καὶ Γερμ[α-]
+r.2   νὸς πράκ(τορες) ἀργ(υρικῆς) Ἐλεφαντ(ίνης). διέγραψεν Πα[τρανσνοῦφις]
+r.3   Παχναῦτος μητ(ρὸς) Σενπασῆμις ὑπ[ὲρ μερισ(μῶν)]
+r.4   ια (ἔτους) Ἀντωνίνου Καίσαρος τοῦ κ[υρίου]
+r.5   ῥυπ(αρὰν) δραχ(μὴν) α χ(αλκοῦς 2) Παχὼν ια.
+
+[TRANSLATION]
+1   Domitius Phannianus and Germa-
+2   nos, collectors of the money-tax of Elephantine. Paid: Pa[transnouphis]
+3   son of Pachnaus, mother Senpasemis, fo[r the assessments]
+4   of the 11th year of Antoninus Caesar the l[ord]:
+5   (worn) 1 drachma (and) 2 chalkoi. Pachon 11.

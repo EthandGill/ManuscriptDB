@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 146 — tax receipt (river-guard assessment (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;146  (Trismegistos 76718)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 146
+label:    O.Wilck. 146
+name:     Tax receipt — river-guard assessment (potamophylakis)
+genre:    receipts
+date:     129 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    (shelf not recorded)
+content:  Ostracon tax receipt — river-guard assessment (potamophylakis), Syene/Elephantine
+tm:       76718
+source:   https://papyri.info/ddbdp/o.wilck;;146
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Καλασῖρις πράκ(τωρ) διὰ Ἰουνίο(υ) Οὐά-
+r.2   λεντος βοηθ(οῦ). διέγραψ(εν) Πε-
+r.3   τορζμ(ῆθις) Πουήρε[ω]ς μη(τρὸς) Τισᾶ-
+r.4   τις ὑπ(ὲρ) μερισμ(οῦ) ποταμοφ(υλακίδος)
+r.5   ιγ (ἔτους) Ἁδριανοῦ τοῦ κυρίο(υ)
+r.6   ῥυπ(αρὰν) (δραχμὴν) α <(τετρώβολον)>, στα (ἡμιωβέλιον) <χ(αλκοῦς 2)>.
+r.7   (ἔτους) ιγ Ἁδριανοῦ τοῦ κυρίο(υ)
+r.8   Τῦβι κη.
+
+[TRANSLATION]
+1   Kalasiris, collector, through Junius Va-
+2   lens the assistant. Paid: Pe-
+3   torzmethis son of Poueris, mother Tisa-
+4   tis, for the assessment of the river-guard,
+5   13th year of Hadrian the lord:
+6   1 drachma 4 obols (in worn coin), (and) for the station ½ obol (and) 2 chalkoi.
+7   Year 13 of Hadrian the lord,
+8   Tybi 28.

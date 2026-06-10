@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 191 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;191  (Trismegistos 76760)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 191
+label:    O.Wilck. 191
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     142 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5805
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76760
+source:   https://papyri.info/ddbdp/o.wilck;;191
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἡρακλείδης καὶ Ἰ σίδω-
+r.2   ρος μισθωτ(αὶ) πύλ(ης) Σοήνης
+r.3   διὰ Παχομψᾶχις βοηθ(οῦ).
+r.4   διέγρ(αψεν) Πατρανσνοῦ-
+r.5   φις Πατχναῦτις μητ(ρὸς)
+r.6   Θινπασῆνις ὑπ(ὲρ) λαο(γραφίας)
+r.7   ε (ἔτους) δραχ(μὰς) δέκα ἕξ
+r.8   ὀβολ(ὸν) (γίνονται) (δραχμαὶ) ιϛ(ὀβολὸς). (ἔτους) ϛ
+r.9   Ἀντωνίνου Καίσαρος
+r.10   τοῦ κυρίου Θὼθ ι.
+
+[TRANSLATION]
+1   Herakleides and Isido-
+2   ros, lessees of the Gate of Syene,
+3   through Pachompsachis the assistant.
+4   Paid: Patransnou-
+5   phis son of Patchnaus, mother
+6   Thinpasenis, for the poll-tax
+7   of the 5th year: sixteen drachmas
+8   (and) an obol — total 16 dr. 1 ob. Year 6
+9   of Antoninus Caesar
+10   the lord, Thoth 10.

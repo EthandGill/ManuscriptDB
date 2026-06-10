@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 133 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;133  (Trismegistos 76706)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 133
+label:    O.Wilck. 133
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     125 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Bankes collection, Wimborne Minster
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76706
+source:   https://papyri.info/ddbdp/o.wilck;;133
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Οὐαλερίων καὶ Διδυμίω[ν μ]ισ[θωταὶ ἱερᾶς πύλης Σοήνης]
+r.2   διὰ Παλαχή(μιος) . διέγραψε Κα[λασ]ῖρ[ι]ς
+r.3   ωτος μη(τρὸς) Σενμετος ὑπ(ὲρ) χ[ει]ρ[ωναξ-]
+r.4   ί[ου] τοῦ ἐνάτ[ο]υ (ἔτους) Ἁδριανοῦ Καίσαρος
+r.5   τοῦ κυρίου δραχ(μὰς) εἴκοσι ὀβο(λοὺς) δύο (γίνονται) (δραχμαὶ) κ(διώβολον)
+r.6   Μεσορὴ α.
+
+[TRANSLATION]
+1   Valerion and Didymio[n, le]ss[ees of the Sacred Gate of Syene],
+2   through Palachemis. Paid: Ka[las]ir[i]s
+3   son of …os, mother Senmetos, for the trade-
+4   tax of the ninth year of Hadrian Caesar
+5   the lord: twenty drachmas (and) two obols — total 20 dr. 2 ob.
+6   Mesore 1.

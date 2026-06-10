@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 248 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;248  (Trismegistos 76815)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 248
+label:    O.Wilck. 248
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     162 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76815
+source:   https://papyri.info/ddbdp/o.wilck;;248
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Οὐ]αλέριος Σερῆνος καὶ Πα[ταχῆμις]
+r.2   [οἱ] β πράκ(τορες) ἀρ(γυρικῆς) Ἐλεφα(ντίνης) διὰ Πετ[ορζμήθου]
+r.3   [βοηθ(οῦ)]. διέγρ(αψεν) Πετορζμ(ῆ)θ(ις) Παν[ μητ(ρὸς)]
+r.4   [Θι]νπατχνοῦβις ὑπ(ὲρ) μ[ερισμῶν γ (ἔτους)]
+r.5   [δραχ(μὰς)] δ. (ἔτους) γ Ἀντωνίνου καὶ [Οὐήρου]
+r.6   [Καισάρων] τῶν κυρίων Θὼθ [ ]
+
+[TRANSLATION]
+1   [Va]lerius Serenos and Pa[tachemis,]
+2   [the] two collectors of the money-tax of Elephantine, through Pet[orzmethes]
+3   [the assistant]. Paid: Petorzm(e)th(is) son of Pan[..., mother]
+4   [Thi]npatchnoubis, for the a[ssessments of the 3rd year]:
+5   [drachmas] 4. Year 3 of Antoninus and [Verus,]
+6   [the Caesars,] the lords, Thoth [...]

@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 223 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;223  (Trismegistos 76790)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 223
+label:    O.Wilck. 223
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     151 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76790
+source:   https://papyri.info/ddbdp/o.wilck;;223
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   σμῆτις Πετορζμήθεως ὑπ(ὲρ) λαογραφί(ας) ιε (ἔτους)
+r.2   ῥυπ(αρὰς) δραχ(μὰς) τέσσαρες (γίνονται) (δραχμαὶ) δ. (ἔτους) ιε Ἀντωνίνου
+r.3   Καίσαρος τοῦ κυρίου Ἁδριανοῦ κβ.
+
+[TRANSLATION]
+1   ...smetis son of Petorzmethes, for the poll-tax of the 15th year:
+2   (worn) four drachmas — total 4 dr. Year 15 of Antoninus
+3   Caesar the lord, Hadrianos 22.

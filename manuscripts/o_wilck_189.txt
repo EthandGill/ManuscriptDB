@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 189 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;189  (Trismegistos 76758)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 189
+label:    O.Wilck. 189
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     142 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7302
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76758
+source:   https://papyri.info/ddbdp/o.wilck;;189
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Ἡρακλεί]δης καὶ Ἰ σίδωρ[ος μισθ(ωταὶ)]
+r.2   [πύλ(ης) Σοήν]ης διὰ Παχομψᾶχ[ις βοηθ(οῦ)].
+r.3   [διέγρ(αψεν) ]ομων Ἕρμων[ος ]
+r.4   [ ὑ]π(ὲρ) λαο(γραφίας) ε (ἔτους) δραχ(μὰς) δ[έκα ἑπτὰ]
+r.5   [ὀβολ(ὸν) (γίνονται) (δραχμαὶ) ι]ζ(ὀβολὸς). (ἔτους) ε Ἀντωνί[νου]
+r.6   [Καίσαρος] τοῦ κυρίου Πα[ ]
+
+[TRANSLATION]
+1   [Heraklei]des and Isidor[os, lessees]
+2   [of the Gate of Syen]e, through Pachompsach[is the assistant.]
+3   [Paid: …]omon son of Hermon[…]
+4   […] for the poll-tax of the 5th year: s[eventeen]
+5   [drachmas (and) an obol — total 1]7 dr. 1 ob. Year 5 of Antoni[nus]
+6   [Caesar] the lord, Pa[uni …]

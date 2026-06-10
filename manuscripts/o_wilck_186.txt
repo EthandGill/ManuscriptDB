@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 186 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;186  (Trismegistos 76755)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 186
+label:    O.Wilck. 186
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     142 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14910
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76755
+source:   https://papyri.info/ddbdp/o.wilck;;186
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Σεραπαμμὼν καὶ Σω-
+r.2   τὴρ πράκ(τορες) ἀργ(υρικῆς) Ἐλεφ(αντίνης). διέ-
+r.3   γρα(ψεν) Πετορζμῆτ(ις) μείζ(ων) Που-
+r.4   ήρεο(ς) μητ(ρὸς) Τισᾶτις ὑπ(ὲρ) μερισ(μῶν)
+r.5   τοῦ ε (ἔτους) ῥυπ(αρὰς) (δραχμὰς) δ(πεντώβολον). (ἔτους) ε
+r.6   Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.7   Παχὼν η. Σωτὴρ σεσημίομαι
+
+[TRANSLATION]
+1   Sarapammon and So-
+2   ter, collectors of the money-tax of Elephantine. Pai-
+3   d: Petorzmetis the elder, son of Pou-
+4   eris, mother Tisatis, for the assessments
+5   of the 5th year: 4 dr. 5 ob. (worn). Year 5
+6   of Antoninus Caesar the lord,
+7   Pachon 8. I, Soter, have signed off.

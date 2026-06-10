@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 244 — tax receipt (pasturage tax (sheep))
+# Source: papyri.info DDbDP o.wilck;;244  (Trismegistos 76811)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 244
+label:    O.Wilck. 244
+name:     Tax receipt — pasturage tax (sheep)
+genre:    receipts
+date:     c. 160 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12460
+content:  Ostracon tax receipt — pasturage tax (sheep), Syene/Elephantine
+tm:       76811
+source:   https://papyri.info/ddbdp/o.wilck;;244
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [ο]ἱ λοιπ(οὶ) ἐπιτ(ηρηταὶ) ἱερ(ᾶς) πύ(λης) Σοήνης
+r.2   [διὰ ]ωνος μαχαιροφόρου
+r.3   [ ] Ἀτπεχνοῦβ(ις) ὁ καὶ Ἀμμώνιος
+r.4   [ὑπ(ὲρ) νομ(?)]ῶν προβάτων ἓξ (γίνονται) προβ(άτων) ϛ
+r.5   [ ] (ἔτους) Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.6   [ ] (διώβολον) (γίνονται) (δραχμαὶ) η.
+r.7   [(ἔτους) Ἀντωνεί]νου Καίσαρος τοῦ κυρίου
+r.8   Φαμενὼθ γ.
+
+[TRANSLATION]
+1   [NN and] the other overseers of the Sacred Gate of Syene
+2   [through ...]on the sword-bearer (machairophoros).
+3   [Paid:] Atpechnoub(is) also called Ammonios,
+4   [for the pastur(?)]age of six sheep — total 6 sheep,
+5   [...] (year) of Antoninus Caesar the lord,
+6   [...] (and) 2 obols — total 8 dr.
+7   [Year ... of Antoni]nus Caesar the lord,
+8   Phamenoth 3.

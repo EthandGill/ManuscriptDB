@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 183 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;183  (Trismegistos 76753)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 183
+label:    O.Wilck. 183
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     141 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Bankes collection, Wimborne Minster
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76753
+source:   https://papyri.info/ddbdp/o.wilck;;183
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἡρακλείδης καὶ Ἰ σίδω-
+r.2   ρος μισθ(ωταὶ) πύλ(ης) Σοήνης διὰ
+r.3   Παχομψᾶχις βοηθ(οῦ). διέγρα(ψεν)
+r.4   Πατσείβδις Πετορζμήθου
+r.5   μητ(ρὸς) Θινπηλ(αίας) ὑπ(ὲρ) λαο(γραφίας) δ (ἔτους)
+r.6   δραχ(μὰς) δέκα ἑπτὰ ὀβολ(ὸν) (δραχμὰς) ιζ(ὀβολὸν),
+r.7   μερισμ(ὸν) ἐπικ(εφαλίου) ἀνδρῶ(ν) ἀνακ(εχωρηκότων) γ (ἔτους)
+r.8   (δραχμὴν) α . (ἔτους) ε Ἀντωνίνου
+r.9   Καίσαρος τοῦ κυρίου Φα-
+r.10   ῶφι δ.
+
+[TRANSLATION]
+1   Herakleides and Isido-
+2   ros, lessees of the Gate of Syene, through
+3   Pachompsachis the assistant. Paid:
+4   Patseibdis son of Petorzmethes,
+5   mother Thinpel(aias), for the poll-tax of the 4th year:
+6   seventeen drachmas (and) an obol — 17 dr. 1 ob.,
+7   (and) the head-tax assessment of the men who had withdrawn, 3rd year:
+8   1 drachma. Year 5 of Antoninus
+9   Caesar the lord, Pha-
+10   ophi 4.

@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 227 — tax receipt (state palm/date tax)
+# Source: papyri.info DDbDP o.wilck;;227  (Trismegistos 76794)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 227
+label:    O.Wilck. 227
+name:     Tax receipt — state palm/date tax
+genre:    receipts
+date:     155 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5813
+content:  Ostracon tax receipt — state palm/date tax, Syene/Elephantine
+tm:       76794
+source:   https://papyri.info/ddbdp/o.wilck;;227
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Φανῶφις πράκ(τωρ) ἀργ(υρικῶν) Ἐλεφ(αντίνης). διέγρ(αψεν) Πετ(ο)ρζ(μῆθις) καὶ Πετ(ο)ρζ(μῆθις)
+r.2   ν(εώτερος(?))
+r.3   ὑπ(ὲρ) τιμῆς δημο(σίου) φοί(νικος) γενή(ματος) ιη (ἔτους) ὀνό(ματος) Θινζμήθ(εως) Π(ετο)ρζ(μήθιος)
+r.4   (δραχμὰς) ε, καὶ ὑπ(ὲρ) ιϛ (ἔτους) τὸ ε´ (δραχμὴν) α, καὶ ὑπ(ὲρ) α ο( ) Ἁδριανίου (τετρώβολον).
+r.5   (ἔτους) ιθ Ἀντωνείνου Καίσαρος τοῦ κυρίου Ἁθ(ὺρ) ι.
+
+[TRANSLATION]
+1   Phanophis, collector of the money-taxes of Elephantine. Paid: Petorz(methis) and Petorz(methis)
+2   the younger(?),
+3   for the price of the state palm(-dates), of the produce of the 18th year, in the name of Thinzmethes son of Petorzmethes,
+4   5 dr.; and for the 16th year, the fifth (instalment), 1 dr.; and for the 1st(?), ... of the Hadrianeion, 4 ob.
+5   Year 19 of Antoninus Caesar the lord, Hathyr 10.

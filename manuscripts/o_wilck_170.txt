@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 170 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;170  (Trismegistos 76740)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 170
+label:    O.Wilck. 170
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     139 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    (shelf not recorded)
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76740
+source:   https://papyri.info/ddbdp/o.wilck;;170
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Πετεσοῦχος πράκ(τωρ). διέ(γραψεν) Πατσίβτ[ις]
+r.2   Πετορζμήθ(ου) μη(τρὸς) Σενπελαία[ς] ὑπ(ὲρ) [μερ(ισμοῦ)]
+r.3   β (ἔτους) Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.4   ῥυπ(αροὺς) (ὀβολοὺς) γ𐅵 Φαρμοῦθι ιϛ.
+
+[TRANSLATION]
+1   Petesouchos, collector. Paid: Patsibt[is]
+2   son of Petorzmethes, mother Senpelaia[s], for [the assessment]
+3   of the 2nd year of Antoninus Caesar the lord:
+4   3½ obols (worn). Pharmouthi 16.

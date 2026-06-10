@@ -1,0 +1,53 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 168 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;168  (Trismegistos 76738)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 168
+label:    O.Wilck. 168
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     138/139 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Rome, Vatican, Biblioteca del Vaticano Gr. 7
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76738
+source:   https://papyri.info/ddbdp/o.wilck;;168
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Οὐαλέριος Μαρίων καὶ οἱ
+r.2   σὺν αὐτ(ῷ) ἐπιτ(ηρηταὶ) ἱ ερᾶς πύλ(ης)
+r.3   Σοήνης διὰ Παχομψᾶχις
+r.4   βοηθ(οῦ). διέγρα(ψεν) Ζμενπὼς Πε-
+r.5   τορζμήθου τοῦ/ καὶ Δακὸς ὑπ(ὲρ) χει(ρωναξίου)
+r.6   κβ (ἔτους) Ἁδριανοῦ Καίσαρος
+r.7   τοῦ κυρίου ἐπὶ λόγ(ου) ῥυπ(αρὰς) δραχ(μὰς) δέκα δύο
+r.8   (γίνονται) (δραχμαὶ) ιβ. (ἔτους) κβ Ἁδριανοῦ
+r.9   Καίσαρος τοῦ κυρίου
+r.10   Μεσορὴ ιδ.
+r.11   (hand 2) β (ἔτους) Ἀντωνείνου Καίσαρος
+r.12   τοῦ κυρίου διέγ(ραψεν) ὁ α(ὐτὸς) ὑπ(ὲρ) χειρο(ναξίου)
+r.13   α (ἔτους) ῥυπ(αρὰς) (δραχμὰς) η(διώβολον), ὁ α(ὐτὸς) λαο(γραφίας)
+r.14   κ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) γ(τριώβολον).
+
+[TRANSLATION]
+1   Valerius Marion and those
+2   with him, overseers of the Sacred Gate
+3   of Syene, through Pachompsachis
+4   the assistant. Paid: Zmenpos son of Pe-
+5   torzmethes, also called Dakos, for the trade-tax
+6   of the 22nd year of Hadrian Caesar
+7   the lord, on account, twelve drachmas (worn)
+8   — total 12 dr. Year 22 of Hadrian
+9   Caesar the lord,
+10   Mesore 14.
+11   (2nd hand) In the 2nd year of Antoninus Caesar
+12   the lord, the same paid for the trade-tax
+13   of the 1st year, 8 dr. 2 ob. (worn); the same, for poll-tax
+14   of the 20th year, 3 dr. 3 ob. (worn).

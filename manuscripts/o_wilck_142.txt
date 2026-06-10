@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 142 — tax receipt (river-guard assessment (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;142  (Trismegistos 76714)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 142
+label:    O.Wilck. 142
+name:     Tax receipt — river-guard assessment (potamophylakis)
+genre:    receipts
+date:     128 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 326
+content:  Ostracon tax receipt — river-guard assessment (potamophylakis), Syene/Elephantine
+tm:       76714
+source:   https://papyri.info/ddbdp/o.wilck;;142
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Τριάδ(ελφος)] πράκ(τωρ) Ἐλεφ(αντίνης) δι(ὰ) Ἀμωνίο(υ) βοηθ(οῦ).
+r.2   [δι(έγραψεν) ]ε νις Ζμεντπ(ῶτος) μη(τρὸς)
+r.3   Θινπετορζμή(θιος) ὑπὲρ μερισμο(ῦ)
+r.4   ποταμο(φυλακίας) ιβ (ἔτους) Ἁδριανοῦ Καίσαρος
+r.5   τοῦ κυρίου δρα(χμὴν) μίαν τετ(ρώβολον) καὶ
+r.6   ὑπ(ὲρ) χ( ) (ἡμιωβέλιον) Παῦνι κα.
+
+[TRANSLATION]
+1   [Triadelphos,] collector of Elephantine, through Ammonios the assistant.
+2   [Paid:] …enis son of Zmentpos, mother
+3   Thinpetorzmethis, for the assessment
+4   of the river-guard, 12th year of Hadrian Caesar
+5   the lord: one drachma four obols, and
+6   for …(?), a half-obol. Pauni 21.

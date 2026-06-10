@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 160 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;160  (Trismegistos 50753)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 160
+label:    O.Wilck. 160
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     134/135 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 334
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       50753
+source:   https://papyri.info/ddbdp/o.wilck;;160
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Ἰούλιος Σαβεῖ]νο(ς) κ(αὶ) Γέλιο(ς) Πέρσ(ις) κ(αὶ) Σανσνὼς Ανσ-
+r.2   [ καὶ οἱ σὺν αὐτοῖ]ς ἐπιτηρ(ηταὶ) ἱερ(ᾶς) πύλ(ης) Σοήνης. διέγρ(αψεν)
+r.3   [ ] μητ(ρὸς) Σενπατανοῦκις ὑπ(ὲρ) λαογρ(αφίας)
+r.4   [ (ἔτους) Ἁδριανοῦ] τοῦ κυρίου δραχ(μὰς) δέκα ἑπτὰ ὀβολ(ὸν)
+r.5   [(γίνονται) (δραχμαὶ) ιζ(ὀβολὸς). (ἔτους) Ἁδ]ρια[νοῦ το]ῦ [κυρί]ου.
+
+[TRANSLATION]
+1   [Julius Sabei]nus and Gelius Persis and Sansnos Ans-
+2   [… and those with the]m, overseers of the Sacred Gate of Syene. Paid:
+3   [NN], mother Senpatanoukis, for the poll-tax
+4   [of the (year) of Hadrian] the lord: seventeen drachmas (and) an obol
+5   [— total 17 dr. 1 ob. Year … of Had]ria[n the] [lor]d.

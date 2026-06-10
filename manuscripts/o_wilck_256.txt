@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 256 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;256  (Trismegistos 76823)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 256
+label:    O.Wilck. 256
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     163/164 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12088
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76823
+source:   https://papyri.info/ddbdp/o.wilck;;256
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [- ca.11 -] ἀργ(υρικῆς) Ἐλεφα(ντίνης) διὰ
+r.2   [ βοηθ(οῦ). διέγρ(αψεν)] Παναπῶτις
+r.3   [Ἀμμωνίου μη(τρὸς) Θιν]νῆσις ὑπ(ὲρ) μερισμ(ῶν) δ (ἔτους) ἀρ(γυρίου) (δραχμὰς) δ.
+r.4   [(ἔτους) δ Ἀντωνίνου καὶ Οὐή]ρου Καισάρων τῶν κυρίων.
+
+[TRANSLATION]
+1   [NN, collector] of the money-tax of Elephantine, through
+2   [NN the assistant. Paid:] Panapotis
+3   [son of Ammonios, mother Thin]nesis, for the assessments of the 4th year: 4 silver dr.
+4   [Year 4 of Antoninus and Ve]rus, the Caesars, the lords.

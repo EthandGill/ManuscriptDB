@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 222 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;222  (Trismegistos 76789)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 222
+label:    O.Wilck. 222
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     151 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7178
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76789
+source:   https://papyri.info/ddbdp/o.wilck;;222
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἰούλ(ιος) ρη καὶ
+r.2   πράκ(τορες) ἀργ(υρικῆς) Ἐλεφαντ(ίνης). διέγρα-
+r.3   ψεν Πατ( ) Ἁρπ(αήσιος) Σενπατχ( ) ῥυπ(αρὰς) ἀρ(γυρίου)
+r.4   δραχ(μὰς) τέσσαρας (δραχμὰς) δ ὑπὲρ μερισμῶν
+r.5   ιδ (ἔτους) Ἀντωνίνου Καίσαρος
+r.6   τοῦ κυρίου Παχ(ὼν) κβ. Φα ς
+r.7   σεσημαίωμαι (δραχμὰς) δ.
+
+[TRANSLATION]
+1   Jul(ius) ...re... and [NN],
+2   collectors of the money-tax of Elephantine. Pai-
+3   d: Pat(...) son of Harp(aesis), (mother?) Senpatch(...): (worn) silver
+4   four drachmas, 4 dr., for the assessments
+5   of the 14th year of Antoninus Caesar
+6   the lord, Pachon 22. Pha...s
+7   have signed off: 4 dr.

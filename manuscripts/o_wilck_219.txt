@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 219 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;219  (Trismegistos 76786)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 219
+label:    O.Wilck. 219
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     149 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre O. 6
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76786
+source:   https://papyri.info/ddbdp/o.wilck;;219
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Δομίτιος Φα[ννιανὸς]
+r.2   καὶ Γερμ(αν)ὸς πράκ(τορες) ἀργ(υρικῆς) [Ἐλεφ(αντίνης)].
+r.3   διέγραψεν Πετορζμῆθις
+r.4   ὁ καὶ Πεβὼς Ἁρπαή(σιος) μητ(ρὸς)
+r.5   Σενπετορζμῆθις ὑπὲρ μερισ-
+r.6   μῶν ιβ (ἔτους) Ἀντωνείνου Καίσ[αρος]
+r.7   τοῦ κυρίου ῥυπ(αρὰς) δραχ(μὰς) τεσ-
+r.8   σαρες (δραχμὰς) δ Τῦβι ιθ.
+
+[TRANSLATION]
+1   Domitius Pha[nnianus]
+2   and Germanos, collectors of the money-tax [of Elephantine].
+3   Paid: Petorzmethis
+4   also called Pebos, son of Harpaesis, mother
+5   Senpetorzmethis, for the assess-
+6   ments of the 12th year of Antoninus Caes[ar]
+7   the lord: (worn) four drach-
+8   mas, 4 dr. Tybi 19.

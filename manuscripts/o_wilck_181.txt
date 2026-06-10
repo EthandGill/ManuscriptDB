@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 181 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;181  (Trismegistos 76751)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 181
+label:    O.Wilck. 181
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     141 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5801
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76751
+source:   https://papyri.info/ddbdp/o.wilck;;181
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἡρακλείδης καὶ Ἰ σίδωρος
+r.2   μισθ(ωταὶ) πύλ(ης) Σοήνης διὰ Παχομ-
+r.3   ψᾶχις βοηθ(οῦ). διέγρ(αψεν) Πατσεί-
+r.4   βδις Πετορζμήθου μητ(ρὸς) Θιντρεμίθης(?) ὑπ(ὲρ)
+r.5   χειρω(ναξίου) δ (ἔτους) δραχ(μὰς) εἴκοσι
+r.6   ὀβολ(οὺς) δύο (γίνονται) (δραχμαὶ) κ(διώβολον). (ἔτους) δ
+r.7   Ἀντωνίνου Καίσαρος
+r.8   τοῦ κυρίου Μεσορὴ ι.
+
+[TRANSLATION]
+1   Herakleides and Isidoros,
+2   lessees of the Gate of Syene, through Pachom-
+3   psachis the assistant. Paid: Patsei-
+4   bdis son of Petorzmethes, mother Thintremithes(?), for
+5   the trade-tax of the 4th year: twenty drachmas
+6   (and) two obols — total 20 dr. 2 ob. Year 4
+7   of Antoninus Caesar
+8   the lord, Mesore 10.

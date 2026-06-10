@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 116 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;116  (Trismegistos 76690)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 116
+label:    O.Wilck. 116
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14000 (5791h)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76690
+source:   https://papyri.info/ddbdp/o.wilck;;116
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Οὐαλερίων καὶ οἱ λ[οιπ(οὶ) μισθ(ωταὶ) ἱερᾶς]
+r.2   πύλ(ης) Σοήνης δι(ὰ) [Σαραπ(ίωνος) γρ(αμματέως)].
+r.3   διέγραψ(εν) Παχνοῦ[βις Φανώ-]
+r.4   φεως μη(τρὸς) Ταχομτ[βῆκις λαογ(ραφίας)]
+r.5   τετάρτου ἔτους Ἁδρ[ιανοῦ]
+r.6   τοῦ κυρίου δραχ(μὰς) ὀκ[τὼ (γίνονται) (δραχμαὶ) η]
+r.7   Παῦνι ιϛ. Με[σορὴ τὰς]
+r.8   ἄλλας δραχ(μὰς) ἐννέ[α (ἡμιωβέλιον) ],
+r.9   δεσμο(ῦ) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) θ(ὀβολὸς) (γίνονται) ἐπ(ὶ τὸ αὐτὸ) (δραχμαὶ) ιζ [(ὀβολὸς)].
+
+[TRANSLATION]
+1   Valerion and the o[ther lessees of the Sacred]
+2   Gate of Syene, through [Sarapion the scribe].
+3   Paid: Pachnou[bis son of Phano-]
+4   phis, mother Tachomt[bekis, for the poll-tax]
+5   of the fourth year of Hadr[ian]
+6   the lord: eig[ht drachmas — total 8 dr.],
+7   Pauni 16. In Me[sore, the]
+8   other nine drach[mas (and) a half-obol],
+9   (and) ½ obol (keepers' fee) — total 9 dr. 1 ob.; grand total 17 dr. [1 ob.].

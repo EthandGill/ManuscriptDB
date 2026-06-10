@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 178 — tax receipt (statue/bust assessment)
+# Source: papyri.info DDbDP o.wilck;;178  (Trismegistos 76748)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 178
+label:    O.Wilck. 178
+name:     Tax receipt — statue/bust assessment
+genre:    receipts
+date:     141 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5825
+content:  Ostracon tax receipt — statue/bust assessment, Syene/Elephantine
+tm:       76748
+source:   https://papyri.info/ddbdp/o.wilck;;178
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἄννιος Ἀμμωνι-
+r.2   ανὸς καὶ Σερ(α)π(αμμὼν) Παχ(νούβιος)
+r.3   πράκ(τορες) Ἐλεφ(αντίνης) διὰ Παχνο(ύβιος)
+r.4   Πετορζ(μήθου) βοηθ(οῦ). διέγρα(ψεν)
+r.5   Πατσίβτις Πετορζ(μήθου)
+r.6   ὑπ(ὲρ) μερισ(μῶν) ἀνδριάντ(ος) καὶ
+r.7   προτομ(ῆς) ῥυπ(αρὰς) (δραχμὰς) δ καὶ
+r.8   ὑπ(ὲρ) μερισ(μοῦ) (ὀβολοὺς) β𐅵. (ἔτους) δ
+r.9   / / Μεχεὶρ ια.
+
+[TRANSLATION]
+1   Annius Ammoni-
+2   anus and Ser(a)p(ammon) son of Pach(noubis),
+3   collectors of Elephantine, through Pachno(ubis)
+4   son of Petorz(methes), the assistant. Paid:
+5   Patsibtis son of Petorz(methes),
+6   for the assessments for the statue and
+7   bust: 4 drachmas (worn), and
+8   for the assessment, 2½ obols. Year 4.
+9   Mecheir 11.

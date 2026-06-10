@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 243 — tax receipt (state palm/date tax)
+# Source: papyri.info DDbDP o.wilck;;243  (Trismegistos 76810)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 243
+label:    O.Wilck. 243
+name:     Tax receipt — state palm/date tax
+genre:    receipts
+date:     c. 156/157 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12476
+content:  Ostracon tax receipt — state palm/date tax, Syene/Elephantine
+tm:       76810
+source:   https://papyri.info/ddbdp/o.wilck;;243
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀμμώνιος καὶ Σωκ(ράτης) οἱ β [πράκ(τορες)]
+r.2   ἀργ(υρικῆς) Ἐλεφ(αντίνης). διέγρ(αψεν) Μην[όφιλος]
+r.3   μείζ(ων) Ὀρβ(άιτος) ὀνόμ(ατος) Πετε[ ὑπ(ὲρ)]
+r.4   τειμῆς δημοσίου [φοίνικος ]
+r.5   δραχ(μὰς) τρῖς ὀβολ(οὺς) δ[ύο (γίνονται) (δραχμαὶ) γ(διώβολον). (ἔτους) ]
+r.6   Ἀντωνείν[ου Καίσαρος τοῦ κυρίου ]
+
+[TRANSLATION]
+1   Ammonios and Sok(rates), the two [collectors]
+2   of the money-tax of Elephantine. Paid: Men[ophilos]
+3   the elder, son of Orb(aeis), in the name of Pete[..., for]
+4   the price of the state [palm(-dates) ...]:
+5   three drachmas (and) t[wo] obols — [total 3 dr. 2 ob. Year ...]
+6   of Antonin[us Caesar the lord ...]

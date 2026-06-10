@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 127 — tax receipt (river-guard assessment (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;127  (Trismegistos 76700)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 127
+label:    O.Wilck. 127
+name:     Tax receipt — river-guard assessment (potamophylakis)
+genre:    receipts
+date:     124 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14120 (5790e)
+content:  Ostracon tax receipt — river-guard assessment (potamophylakis), Syene/Elephantine
+tm:       76700
+source:   https://papyri.info/ddbdp/o.wilck;;127
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Παχομπατενεφώτης πράκ(τωρ).
+r.2   διέγρ(αψεν) Παχνοῦβις Φανώφεως
+r.3   μη(τρὸς) Ταχομτβήκ(ιος) μερι(σμοῦ) ποτα-
+r.4   μοφυλ(ακίδος) η (ἔτους) ῥυπ(αροὺς) ὀβολ(οὺς) δέκα. (ἔτους) η
+r.5   Ἁδριανοῦ τοῦ κυρίου Φαρμ(οῦθι) ια.
+
+[TRANSLATION]
+1   Pachompatenephotes, collector.
+2   Paid: Pachnoubis son of Phanophis,
+3   mother Tachomtbekis, (for) the assessment of the river-
+4   guard of the 8th year: ten obols (in worn coin). Year 8
+5   of Hadrian the lord, Pharmouthi 11.

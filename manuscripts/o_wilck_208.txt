@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 208 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;208  (Trismegistos 76776)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 208
+label:    O.Wilck. 208
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     146 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5818
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76776
+source:   https://papyri.info/ddbdp/o.wilck;;208
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Παπρεμίθ(ης) καὶ Βιῆνχ(ις) πράκ(τορες) ἀργ(υρικῆς)
+r.2   Ἐλεφαντ(ίνης) διʼ Ἀμμωνίου βοηθ(οῦ).
+r.3   διέ(γραψεν) Πατσίβτις Πετορζμήθ(ιος)
+r.4   μητ(ρὸς) Θινπελέας μερισμ(ὸν)
+r.5   ι (ἔτους) Ἀντωνίνου Καίσαρος
+r.6   τοῦ κυρίου δραχ(μὰς) τέσσαρες
+r.7   (γίνονται) (δραχμαὶ) δ Θὼθ η.
+
+[TRANSLATION]
+1   Papremith(es) and Bienchis, collectors of the money-tax
+2   of Elephantine, through Ammonios the assistant.
+3   Paid: Patsibtis son of Petorzmethes,
+4   mother Thinpeleas, the assessment
+5   of the 10th year of Antoninus Caesar
+6   the lord: four drachmas
+7   — total 4 dr. Thoth 8.

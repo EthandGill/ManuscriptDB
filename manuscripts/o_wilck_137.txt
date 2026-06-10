@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 137 — tax receipt (priestly admission-fee (eiskritikon))
+# Source: papyri.info DDbDP o.wilck;;137  (Trismegistos 76710)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 137
+label:    O.Wilck. 137
+name:     Tax receipt — priestly admission-fee (eiskritikon)
+genre:    receipts
+date:     c. 128 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 340
+content:  Ostracon tax receipt — priestly admission-fee (eiskritikon), Syene/Elephantine
+tm:       76710
+source:   https://papyri.info/ddbdp/o.wilck;;137
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Τριάδελφος πράκ(τωρ). διέγ[ραψεν Πετορ-]
+r.2   ζμήθης Ἁρπαήσιος πα[σαθφόρος]
+r.3   Ἀμμῶνος θεοῦ μεγ[ίστου ὑπὲρ εἰσκριτικοῦ]
+r.4   δραχ(μὰς) ὀκτὼ τριαβολ(ον) (γίνονται) (δραχμαὶ) [η(τριώβολον). (ἔτους) Ἁδριανοῦ]
+r.5   Καίσαρος τοῦ κυρί[ου ]
+
+[TRANSLATION]
+1   Triadelphos, collector. P[aid: Petor-]
+2   zmethes son of Harpaesis, pa[stophoros]
+3   of Ammon the great[est god, for the admission-fee]:
+4   eight drachmas (and) three obols — total [8 dr. 3 ob. Year … of Hadrian]
+5   Caesar the lor[d …]

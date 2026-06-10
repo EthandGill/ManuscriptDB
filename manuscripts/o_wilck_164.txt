@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 164 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;164  (Trismegistos 76734)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 164
+label:    O.Wilck. 164
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     137 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Walker collection (location unknown)
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76734
+source:   https://papyri.info/ddbdp/o.wilck;;164
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ψανμοὺς καὶ Πετεσοῦχος
+r.2   πράκ(τορες). διέ(γραψεν) Σανσνὼς Ψ
+r.3   εῖτος μ(ητρὸς) Σενπελα ὑπ(ὲρ)
+r.4   μερισμ(οῦ) διπλ(ῶν) κ (ἔτους) ρατ( ) ῥυπ(αροὺς) ὀβο(λοὺς) ἕξ .
+r.5   (ἔτους) κα Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.6   Μεσορὴ ε.
+r.7   Ψανμοὺς σεσημ(είωμαι).
+
+[TRANSLATION]
+1   Psanmous and Petesouchos,
+2   collectors. Paid: Sansnos son of Ps-
+3   eitos, mother Senpela…, for
+4   the assessment of the surcharge(?), 20th year: …(?) six obols (worn).
+5   Year 21 of Hadrian Caesar the lord,
+6   Mesore 5.
+7   I, Psanmous, have signed off.

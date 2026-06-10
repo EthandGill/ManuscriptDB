@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 166 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;166  (Trismegistos 76736)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 166
+label:    O.Wilck. 166
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     117–138 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5794
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76736
+source:   https://papyri.info/ddbdp/o.wilck;;166
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [⁦ -ca.?- ⁩] καὶ Διδυμίων ἀμφό(τεροι)
+r.2   [ἐπιτη]ρητῶν ἱερᾶς πύλη(ς) Σοή(νης)
+r.3   [δι]έγραψε(ν) Πετορζμῆθις
+r.4   [Πετορζμήθιος] μη(τρὸς) Θινπουῆρις ὑπ(ὲρ) χειρο(ναξίου)
+r.5   [⁦ -ca.?- ⁩]του (ἔτους) Ἁδριανοῦ Καίσαρος
+r.6   [δραχμὰς] εἴκοσι ὀβ(ολοὺς) δύο (γίνονται) (δραχμαὶ) κ(διώβολον).
+
+[TRANSLATION]
+1   [NN] and Didymion, both
+2   [over]seers of the Sacred Gate of Syene.
+3   [P]aid: Petorzmethis
+4   [son of Petorzmethes,] mother Thinpoueris, for the trade-tax
+5   [of the …]th year of Hadrian Caesar:
+6   [drachmas] twenty (and) two obols — total 20 dr. 2 ob.

@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 211 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;211  (Trismegistos 76779)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 211
+label:    O.Wilck. 211
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     146/147 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 341
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76779
+source:   https://papyri.info/ddbdp/o.wilck;;211
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ζήνων Ἡ[ρακλείδου μισθ(ωτὴς) ἱερᾶς πύλ(ης)]
+r.2   Σοήνης διὰ Σ[ωκράτους Ἀμμωνίου βοηθοῦ].
+r.3   διέγρα(ψεν) Ἁρ[παῆσις Πετορζμή-]
+r.4   θου μητ(ρὸς) [ ]
+r.5   ὑπ(ὲρ) λαο(γραφίας) ι (ἔτους) [ῥυπ(αρὰς) δραχ(μὰς) δέκα ἑπτὰ]
+r.6   ὀβολ(ὸν) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς). [(ἔτους) Ἀντωνίνου]
+r.7   Καίσαρος [τοῦ κυρίου ]
+
+[TRANSLATION]
+1   Zenon son of He[rakleides, lessee of the Sacred Gate]
+2   of Syene, through S[okrates son of Ammonios the assistant].
+3   Paid: Har[paesis son of Petorzme-]
+4   thes, mother [...],
+5   for the poll-tax of the 10th year: [(worn) seventeen drachmas]
+6   (and) an obol — total 17 dr. 1 ob. [(year) of Antoninus]
+7   Caesar [the lord ...]

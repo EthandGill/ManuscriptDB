@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 198 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;198  (Trismegistos 76766)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 198
+label:    O.Wilck. 198
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     145 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7644
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76766
+source:   https://papyri.info/ddbdp/o.wilck;;198
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Σωτὴρ καὶ Παπρεμίθης
+r.2   πράκ(τορες) ἀργυρικ(ῶν) Ἐλεφ(αντίνης). διέγραψ(εν)
+r.3   Παχνοῦβις Πετορζμητωτες
+r.4   μητρὸς Θιψανσνῶτες
+r.5   μερισμὸν η (ἔτους) Ἀντωνίνου
+r.6   Καίσαρος τοῦ κυρίου (δραχμὰς) β(διώβολον)
+r.7   Ἐπὶπ ιδ.
+
+[TRANSLATION]
+1   Soter and Papremithes,
+2   collectors of the money-taxes of Elephantine. Paid:
+3   Pachnoubis son of Petorzmetotes,
+4   mother Thipsansnotes,
+5   the assessment of the 8th year of Antoninus
+6   Caesar the lord: 2 dr. 2 ob.
+7   Epeiph 14.

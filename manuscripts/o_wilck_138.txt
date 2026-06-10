@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 138 — tax receipt (tax payment)
+# Source: papyri.info DDbDP o.wilck;;138  (Trismegistos 76711)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 138
+label:    O.Wilck. 138
+name:     Tax receipt — tax payment
+genre:    receipts
+date:     127 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12165
+content:  Ostracon tax receipt — tax payment, Syene/Elephantine
+tm:       76711
+source:   https://papyri.info/ddbdp/o.wilck;;138
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [⁦ -ca.?- ⁩] δραχ(μὰς) δέκα δύ[ο (γίνονται)]
+r.2   (δραχμαὶ) ιβ. (ἔτους) ια Ἁδριανοῦ [Καίσαρος]
+r.3   τοῦ κυρίου Φαρμ(οῦθι) η.
+
+[TRANSLATION]
+1   […] twelve drachmas [— total]
+2   12 dr. Year 11 of Hadrian [Caesar]
+3   the lord, Pharmouthi 8.

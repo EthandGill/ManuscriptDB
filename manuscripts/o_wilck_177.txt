@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 177 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;177  (Trismegistos 76747)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 177
+label:    O.Wilck. 177
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     c. 138–140 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76747
+source:   https://papyri.info/ddbdp/o.wilck;;177
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Οὐα]λέριος Μαρίων καὶ οἱ σὺ[ν]
+r.2   α[ὐτ(ῷ)] ἐπ[ι]τ(ηρηταὶ) ἱ ερᾶς πύλ(ης) Σοήν[ης]
+r.3   διὰ [Π]αχο[μ]ψᾶχις βοηθ(οῦ). δ[ιέγρ(αψεν)]
+r.4   μητ(ρὸς) Τισᾶτις ὑπ(ὲρ) [ ]
+r.5   δραχ(μὰς) δέκα δ[ύο (γίνονται) (δραχμαὶ) ιβ ]
+r.6   Καίσαρος [τοῦ κυρίου ]
+
+[TRANSLATION]
+1   [Va]lerius Marion and those wi[th]
+2   h[im], overseers of the Sacred Gate of Syen[e],
+3   through [P]acho[m]psachis the assistant. P[aid:]
+4   [NN], mother Tisatis, for […]
+5   twelve dra[chmas — total 12 dr. …]
+6   Caesar [the lord …]

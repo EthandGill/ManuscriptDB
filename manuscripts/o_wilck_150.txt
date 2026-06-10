@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 150 — tax receipt (harbour-tax (2% pentekoste))
+# Source: papyri.info DDbDP o.wilck;;150  (Trismegistos 76722)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 150
+label:    O.Wilck. 150
+name:     Tax receipt — harbour-tax (2% pentekoste)
+genre:    receipts
+date:     129 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Appleton collection (location unknown)
+content:  Ostracon tax receipt — harbour-tax (2% pentekoste), Syene/Elephantine
+tm:       76722
+source:   https://papyri.info/ddbdp/o.wilck;;150
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀμμώνιος καὶ οἱ σὺν αὐτῷ
+r.2   τελ(ῶναι) πεντ(ηκοστῆς) λι(μένος) Σοήν(ης) διὰ Ἀμμωνι
+r.3   <⁦ -ca.?- ⁩> Εἰρηνίῳ Τυράν-
+r.4   νου χ(αίρειν). ἀπέχο(μεν) παρὰ σοῦ τω
+r.5   γινόμεν(ον) τέλ(ος) ὁ͂ν ἐξήγ(αγες) κούφον
+r.6   λαγ(ύνων) Β. (ἔτους) ιγ Ἁδριανοῦ
+r.7   Καίσαρος τοῦ κυρίου Μεσορὴ
+r.8   ιη.
+
+[TRANSLATION]
+1   Ammonios and those with him,
+2   tax-farmers of the 2% (harbour-tax) of the harbour of Syene, through Ammoni(os)
+3   …, to Eirenios son of Tyran-
+4   nos, greetings. We have in full from you the
+5   duty arising on the empty (goods) you exported:
+6   of flasks, 2. Year 13 of Hadrian
+7   Caesar the lord, Mesore
+8   18.

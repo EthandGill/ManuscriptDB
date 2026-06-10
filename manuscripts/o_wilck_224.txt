@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 224 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;224  (Trismegistos 76791)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 224
+label:    O.Wilck. 224
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     152 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76791
+source:   https://papyri.info/ddbdp/o.wilck;;224
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Δομίτιος <Φαννιανὸς>
+r.2   [καὶ Γερ]μ(αν)ὸς πράκ(τορες) ἀργ(υρικῆς) Ἐλεφ(αντίνης).
+r.3   διέγραψεν Παταχῆμις Πε-
+r.4   τορ(ζμήθου) μητ(ρὸς) Θινασέπτος ὑπὲρ με-
+r.5   ρισμοῦ ιε (ἔτους) Ἀντωνίνου Καίσαρος
+r.6   τοῦ κυρίου ῥυπ(αρὰς) δραχ(μὰς) τέσσαρ(α)ς (γίνονται) δ Μεσορὴ ια.
+
+[TRANSLATION]
+1   Domitius <Phannianus>
+2   [and Ger]manos, collectors of the money-tax of Elephantine.
+3   Paid: Patachemis son of Pe-
+4   torz(methes), mother Thinaseptos, for the as-
+5   sessment of the 15th year of Antoninus Caesar
+6   the lord: (worn) four drachmas, total 4 dr. Mesore 11.

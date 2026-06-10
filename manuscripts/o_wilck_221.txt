@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 221 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;221  (Trismegistos 76788)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 221
+label:    O.Wilck. 221
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     149 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Bibliothèque Nationale Suppl. grec 722
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76788
+source:   https://papyri.info/ddbdp/o.wilck;;221
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Δωμίτιος Φα[ννιανὸς καὶ Γερ(μα)νὸς]
+r.2   πράκ(τορες) ἀργ(υρικῆς) Ἐλεφαντ(ίνης). [διέγραψεν]
+r.3   Παχνοῦμις Ψενχν[ούμ(ιος) τοῦ καὶ]
+r.4   ιος μητ(ρὸς) [ ]
+r.5   ὑπὲρ μερισμῶν ιβ [(ἔτους) Ἀντωνίνου]
+r.6   [Κ]αίσαρος τοῦ κυρίου [δραχ(μὴν) μίαν]
+r.7   δίχαλκ(ον) [(γίνονται)] (δραχμὴ) α χ(αλκοῖ 2) Π[ ]
+
+[TRANSLATION]
+1   Domitius Pha[nnianus and Germanos],
+2   collectors of the money-tax of Elephantine. [Paid:]
+3   Pachnoumis son of Psenchn[oumis also called]
+4   ...ios, mother [...],
+5   for the assessments of the 12th [year of Antoninus]
+6   Caesar the lord: [1 drachma]
+7   (and) 2 chalkoi — [total] 1 dr. 2 ch. P[...]

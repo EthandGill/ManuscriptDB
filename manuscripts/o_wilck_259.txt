@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 259 — tax receipt (canal/dike rent (phoros diorygos))
+# Source: papyri.info DDbDP o.wilck;;259  (Trismegistos 76826)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 259
+label:    O.Wilck. 259
+name:     Tax receipt — canal/dike rent (phoros diorygos)
+genre:    receipts
+date:     c. 165 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ostracon tax receipt — canal/dike rent (phoros diorygos), Syene/Elephantine
+tm:       76826
+source:   https://papyri.info/ddbdp/o.wilck;;259
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Λ[ο]νγεῖνο[ς Σ]ερῆνος καὶ Πετρῶνις Βᾶ[ρις]
+r.2   βις Πατχναύτεως καὶ Παχομπαρνοῦφις
+r.3   [ ] ειου καὶ Πα ηφνεὺς
+r.4   ορνω[ ]ς ὑπ(ὲρ) φ[όρ]ου διόρυγος Γαη λ
+r.5   χ δ[ρ]αχ(μὰς) πεντακοσίας δώδεκα (γίνονται) (δραχμαὶ) φιβ [ ]
+r.6   Τῦβι α.
+
+[TRANSLATION]
+1   L[o]ngeino[s S]erenos and Petronis Ba[ris ...]
+2   ...bis son of Patchnautes and Pachomparnouphis
+3   [...]eiou and Pa...phneus
+4   ...[...]s, for the rent of the canal (called) Gae..., 30(?):
+5   five hundred (and) twelve drachmas — total 512 dr. [...]
+6   Tybi 1.

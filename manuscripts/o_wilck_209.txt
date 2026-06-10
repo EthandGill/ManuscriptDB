@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 209 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;209  (Trismegistos 76777)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 209
+label:    O.Wilck. 209
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     146 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12126
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76777
+source:   https://papyri.info/ddbdp/o.wilck;;209
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Πα[πρε]μίθ(ης) καὶ Βιῆνχ(ις) π[ράκ(τορες) ἀργ(υρικῆς) Ἐλεφ(αντίνης)]
+r.2   διὰ Ἀ[μ]μωνίου βοηθ(οῦ). διέ(γραψεν) [Πετορζμῆθις]
+r.3   [Πετορζ(μήθιος) μη]τ(ρὸς) Θινπετ[ο]ρζμή[θιος μερισμ(ὸν)]
+r.4   ι (ἔτους) [Ἀντ]ωνίνου Καίσαρος [τοῦ]
+r.5   κυρίου δραχ(μὰς) τέσσαρες (γίνονται) (δραχμαὶ) [δ]
+r.6   Ἁθὺρ γ.
+
+[TRANSLATION]
+1   Pa[pre]mith(es) and Bienchis, c[ollectors of the money-tax of Elephantine]
+2   through A[m]monios the assistant. Paid: [Petorzmethis]
+3   [son of Petorz(methes), mo]ther Thinpet[o]rzme[this, the assessment]
+4   of the 10th year of [Ant]oninus Caesar [the]
+5   lord: four drachmas — total [4] dr.
+6   Hathyr 3.

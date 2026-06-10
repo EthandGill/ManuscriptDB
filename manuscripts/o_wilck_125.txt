@@ -1,0 +1,49 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 125 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;125  (Trismegistos 76698)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 125
+label:    O.Wilck. 125
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     123 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Rome, Vatican, Biblioteca del Vaticano Gr. 5
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76698
+source:   https://papyri.info/ddbdp/o.wilck;;125
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Σεμπρώνιος Κέλερ καὶ οἱ σὺν
+r.2   αὐτ(ῷ) ἐπιτηρητ(αὶ) ἱερᾶς πύλ(ης) Σοή-
+r.3   νης δι(ὰ) Σαραπ(αμμῶνος). διέγραψ(εν) Πα-
+r.4   τίβπτις Πε(το)ρζμήθ(ιος) τοῦ Ψαν-
+r.5   σνῶτ(ος) μ(ητρὸς) Σενπελαίας
+r.6   ὑπ(ὲρ) λαο(γραφίας) τοῦ ἑβδόμου
+r.7   ἔτους Ἁδριανοῦ
+r.8   Καίσαρος τοῦ κυρίου
+r.9   δραχ(μὰς) δέκα ἑπτὰ (ἡμιωβέλιον) ,
+r.10   δεσμο(ῦ) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς).
+r.11   (ἔτους) η Ἁδριανοῦ τοῦ κυρίου
+r.12   Φαῶφι ϛ.
+
+[TRANSLATION]
+1   Sempronius Celer and those with
+2   him, overseers of the Sacred Gate of Sye-
+3   ne, through Sarapammon. Paid: Pa-
+4   tibptis son of Petorzmethes (grandson) of Psan-
+5   snos, mother Senpelaias,
+6   for the poll-tax of the seventh
+7   year of Hadrian
+8   Caesar the lord:
+9   seventeen drachmas (and) a half-obol,
+10   (and) ½ obol (keepers' fee) — total 17 dr. 1 ob.
+11   Year 8 of Hadrian the lord,
+12   Phaophi 6.

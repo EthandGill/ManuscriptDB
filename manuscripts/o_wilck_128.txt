@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 128 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;128  (Trismegistos 76701)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 128
+label:    O.Wilck. 128
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     124 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5791 n
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76701
+source:   https://papyri.info/ddbdp/o.wilck;;128
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Δ[ιδυμίων πράκ(τωρ). διέγρ(αψεν)]
+r.2   [ ὑπ(ὲρ) λαο(γραφίας) η (ἔτους) (δραχμὰς) τέσσαρας] (γίνονται) (δραχμαὶ) δ,
+r.3   [- ca.16 -] (ὀβολὸς)
+r.4   κγ [ τέσσ]αρες (γίνονται) (δραχμαὶ) δ,
+r.5   Μεσορὴ [ δ]ραχ(μὰς) τέσσαρες (γίνονται) (δραχμαὶ) δ,
+r.6   θ (ἔτους) Ἁδρια[νοῦ] Καίσαρος τοῦ κυρίου
+r.7   Θὼθ κϛ ἄλλας δραχ(μὰς) πέντε (ἡμιωβέλιον) ,
+r.8   δεσμο(ῦ) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ε(ὀβολὸς) (γίνονται) ἐπ(ὶ τὸ αὐτὸ) (δραχμαὶ) ιζ(ὀβολὸς).
+
+[TRANSLATION]
+1   D[idymion, collector. Paid:]
+2   [… for the poll-tax of the 8th year: four drachmas] — total 4 dr.,
+3   […] 1 obol,
+4   23rd: [fou]r (drachmas) — total 4 dr.,
+5   Mesore: [fo]ur drachmas — total 4 dr.,
+6   9th year of Hadrian Caesar the lord,
+7   Thoth 26: another five drachmas (and) a half-obol,
+8   (and) ½ obol (keepers' fee) — total 5 dr. 1 ob.; grand total 17 dr. 1 ob.

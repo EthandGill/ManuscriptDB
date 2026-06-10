@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 169 — tax receipt (river-guard assessment (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;169  (Trismegistos 76739)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 169
+label:    O.Wilck. 169
+name:     Tax receipt — river-guard assessment (potamophylakis)
+genre:    receipts
+date:     139 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5809
+content:  Ostracon tax receipt — river-guard assessment (potamophylakis), Syene/Elephantine
+tm:       76739
+source:   https://papyri.info/ddbdp/o.wilck;;169
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Πετεσοῦχος πράκ(τωρ).
+r.2   διέ(γραψεν) Πατσίβτις Πετ-
+r.3   ορζμήθ(ου) μη(τρὸς) Σενπελ(αίας)
+r.4   ὑπ(ὲρ) μερισμ(οῦ) ποταμ(οφυλακίδος) β (ἔτους)
+r.5   Ἀντωνείνου Καίσαρος
+r.6   τοῦ κυρίου ῥυπ(αροὺς) (ὀβολοὺς) β𐅵, διπλ(ῶν)
+r.7   (δραχμὰς(?)) γ(ὀβολὸν) σνι( ) χ(αλκοῦς 2) Φαμ(ενὼθ) θ.
+
+[TRANSLATION]
+1   Petesouchos, collector.
+2   Paid: Patsibtis son of Pet-
+3   orzmethes, mother Senpel(aias),
+4   for the assessment of the river-guard, 2nd year
+5   of Antoninus Caesar
+6   the lord: 2½ obols (worn), (and) for the surcharge(?)
+7   3 dr. 1 ob.(?) … 2 chalkoi. Phamenoth 9.

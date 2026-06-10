@@ -1,0 +1,47 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 172 — tax receipt (state palm/date tax)
+# Source: papyri.info DDbDP o.wilck;;172  (Trismegistos 76742)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 172
+label:    O.Wilck. 172
+name:     Tax receipt — state palm/date tax
+genre:    receipts
+date:     139 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Turin, Museo Egizio 17
+content:  Ostracon tax receipt — state palm/date tax, Syene/Elephantine
+tm:       76742
+source:   https://papyri.info/ddbdp/o.wilck;;172
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἄννιος Ἀμμωνιανὸς καὶ <Σαραπαμών(?)>
+r.2   Παχνούβιος πράκ(τορες). διέ(γραψεν)
+r.3   Θιψενὼς Χεμσνῆις
+r.4   διὰ Ψινπ[ετορζ]μῆτις
+r.5   Βιήνχεος ὑπ(ὲρ) τιμῆ(ς) δη(μοσίου) φοί(νικος)
+r.6   γενή(ματος) β (ἔτους) Ἀντωνίνου
+r.7   Καίσαρος τοῦ κυρίου
+r.8   ῥυπ(αρὰς) (δραχμὰς) γ(τετρώβολον). (ἔτους) γ Ἀντωνίνου
+r.9   Καίσαρος τοῦ κυρίου Ἁθὺρ
+r.10   κϛ. (hand 2) Ἄννιος Ἀμμωνιανὸς
+r.11   σεσημίομαι (δραχμὰς) γ(τετρώβολον).
+
+[TRANSLATION]
+1   Annius Ammonianus and <Sarapamon(?)>
+2   son of Pachnoubis, collectors. Paid:
+3   Thipsenos son of Chemsneis,
+4   through Psinp[etorz]methis
+5   son of Bienchis, for the price of the state palm(-dates),
+6   of the produce of the 2nd year of Antoninus
+7   Caesar the lord:
+8   3 dr. 4 ob. (worn). Year 3 of Antoninus
+9   Caesar the lord, Hathyr
+10   26. (2nd hand) I, Annius Ammonianus,
+11   have signed off: 3 dr. 4 ob.

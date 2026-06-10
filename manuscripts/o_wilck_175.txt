@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 175 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;175  (Trismegistos 76745)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 175
+label:    O.Wilck. 175
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     140 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5804
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76745
+source:   https://papyri.info/ddbdp/o.wilck;;175
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Οὐαλέριος Μαρίων καὶ οἱ
+r.2   σὺν αὐτ(ῷ) ἐπιτ(ηρηταὶ) ἱ ερᾶς πύλ(ης) Σοήνης
+r.3   διὰ Παχαψᾶχις βοηθ(οῦ). διέγρα(ψεν) Πα-
+r.4   τεσίβδις Πετορζμήθου ὑπ(ὲρ)
+r.5   χειρω(ναξίου) γ (ἔτους) δραχ(μὰς) εἴκοσι
+r.6   ὀβολ(οὺς) δύο (γίνονται) (δραχμαὶ) κ(διώβολον). (ἔτους) γ
+r.7   Ἀντωνίνου Καίσαρος
+r.8   τοῦ κυρίου Ἐπὶφ ιζ.
+
+[TRANSLATION]
+1   Valerius Marion and those
+2   with him, overseers of the Sacred Gate of Syene,
+3   through Pachapsachis the assistant. Paid: Pa-
+4   tesibdis son of Petorzmethes, for
+5   the trade-tax of the 3rd year: twenty drachmas
+6   (and) two obols — total 20 dr. 2 ob. Year 3
+7   of Antoninus Caesar
+8   the lord, Epeiph 17.

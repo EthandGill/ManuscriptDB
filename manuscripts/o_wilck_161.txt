@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 161 — tax receipt (state palm/date tax)
+# Source: papyri.info DDbDP o.wilck;;161  (Trismegistos 76731)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 161
+label:    O.Wilck. 161
+name:     Tax receipt — state palm/date tax
+genre:    receipts
+date:     135 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5793
+content:  Ostracon tax receipt — state palm/date tax, Syene/Elephantine
+tm:       76731
+source:   https://papyri.info/ddbdp/o.wilck;;161
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ψανμοὺς πράκ(τωρ). διέγραψ(εν) Τύραννος
+r.2   καὶ Ἰσιδωρας ἀδελφὴ ὑπ(ὲρ) τειμῆς δη-
+r.3   μοσίου φοινεικ γενήματ(ος) ιθ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) θ.
+r.4   (ἔτους) κ Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.5   Ἁδριανοῦ η.
+
+[TRANSLATION]
+1   Psanmous, collector. Tyrannos paid,
+2   and his sister Isidora, for the price of the
+3   state palm(-dates), of the produce of the 19th year: 9 drachmas (in worn coin).
+4   Year 20 of Hadrian Caesar the lord,
+5   Hadrianos 8.

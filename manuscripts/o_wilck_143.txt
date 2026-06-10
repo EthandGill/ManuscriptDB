@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 143 — tax receipt (river-guard assessment (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;143  (Trismegistos 76715)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 143
+label:    O.Wilck. 143
+name:     Tax receipt — river-guard assessment (potamophylakis)
+genre:    receipts
+date:     c. 128 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7291
+content:  Ostracon tax receipt — river-guard assessment (potamophylakis), Syene/Elephantine
+tm:       76715
+source:   https://papyri.info/ddbdp/o.wilck;;143
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Τριάδ(ελφος) πράκ(τωρ) Ἐλεφ(αντίνης) δι(ὰ)
+r.2   [Ἀμ]μωνίο(υ) βοη(θοῦ). δι(έγραψεν) Ἁρπαῆσις
+r.3   Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.4   δραχ(μὴν) μίαν τετρώ(βολον) καὶ ὑπ(ὲρ) χ( ) (ἡμιωβέλιον)
+r.5   Παῦνι κβ.
+
+[TRANSLATION]
+1   Triadelphos, collector of Elephantine, through
+2   [Am]monios the assistant. Paid: Harpaesis …,
+3   (year …) of Hadrian Caesar the lord:
+4   one drachma four obols, and for …(?), a half-obol.
+5   Pauni 22.

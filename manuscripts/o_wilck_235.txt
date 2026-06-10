@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 235 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;235  (Trismegistos 76802)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 235
+label:    O.Wilck. 235
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     158 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7242
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76802
+source:   https://papyri.info/ddbdp/o.wilck;;235
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀντίχαρμος Διονυ(σίου(?)) πράκ(τωρ)
+r.2   ἀργ(υρικῆς) Ἐλε(φαντίνης)καὶ Βῆκις Διοσ-
+r.3   κώρῳ δούλ(ῳ) Διδυμίωνο(ς)
+r.4   ἔσχ(ομεν) ὑπ(ὲρ) μερισμ(ῶν) κ (ἔτους) δραχ(μὰς) δύο
+r.5   (γίνονται) (δραχμαὶ) β. (ἔτους) κα Ἀντωνείνου
+r.6   Καίσαρος τοῦ κυρίου Φαμε(νὼ)θ ϛ.
+
+[TRANSLATION]
+1   Anticharmos son of Diony(sios?), collector
+2   of the money-tax of Ele(phantine), and Bekis, to Dios-
+3   koros, slave of Didymion:
+4   we have received, for the assessments of the 20th year, two drachmas
+5   — total 2 dr. Year 21 of Antoninus
+6   Caesar the lord, Phamenoth 6.

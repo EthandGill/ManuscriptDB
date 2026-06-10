@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 195 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;195  (Trismegistos 76763)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 195
+label:    O.Wilck. 195
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5819
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76763
+source:   https://papyri.info/ddbdp/o.wilck;;195
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἰούλιος Δομίτιος καὶ Διοσ-
+r.2   κουρίδης καὶ οἱ λοιπ(οὶ) ἐπιτηρητ(αὶ)
+r.3   ἱερᾶς πύλης Σοήνης διὰ Σαραπ(ίωνος)
+r.4   βοηθ(οῦ). διέγραψ(εν) Πατίβπτις Π(ετ)ορζ(μήθου)
+r.5   μητρὸς Σενπελαίας χειρωναξί-
+r.6   ου ζ (ἔτους) Ἀντωνείνου Καίσαρος
+r.7   τοῦ κυρίου ῥυπ(αρὰς) δραχ(μὰς) εἴκοσι ὀβολ(οὺς)
+r.8   δύο (γίνονται) (δραχμαὶ) κ(διώβολον) Φαρμοῦθι κ.
+
+[TRANSLATION]
+1   Julius Domitius and Dios-
+2   kourides and the other overseers
+3   of the Sacred Gate of Syene, through Sarapion
+4   the assistant. Paid: Patibptis son of Petorz(methes),
+5   mother Senpelaias, (for) the trade-
+6   tax of the 7th year of Antoninus Caesar
+7   the lord: twenty drachmas (and) two obols (worn)
+8   — total 20 dr. 2 ob. Pharmouthi 20.

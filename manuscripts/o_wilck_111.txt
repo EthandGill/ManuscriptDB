@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 111 — tax receipt (state palm/date tax)
+# Source: papyri.info DDbDP o.wilck;;111  (Trismegistos 70568)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 111
+label:    O.Wilck. 111
+name:     Tax receipt — state palm/date tax
+genre:    receipts
+date:     118 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Gr. 1218
+content:  Ostracon tax receipt — state palm/date tax, Syene/Elephantine
+tm:       70568
+source:   https://papyri.info/ddbdp/o.wilck;;111
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Σανμοὺς πράκ(τωρ). διέγραψ(εν) Πετορζμῆτις
+r.2   Παχομπαβιήνχ(ιος) Ψύρου διάκ(ωνος) ὑπ(ὲρ) τιμῆς
+r.3   δημοσίου φοίνικ(ος) γενήμ(ατος) β (ἔτους) Ἁδριανοῦ
+r.4   τοῦ κυρίου ἀργ(υρίου) (δραχμὰς) δεκαπέντε ὀβολ(οὺς) τέσ-
+r.5   αρες ἥμυσου , (γίνονται) (δραχμαὶ) ιε (ὀβολοὶ) δ𐅵. (ἔτους) γ
+r.6   Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.7   Ἁθὺρ ιε.
+
+[TRANSLATION]
+1   Sanmous, collector. Petorzmetis paid,
+2   son of Pachompabienchis (grandson) of Psyros, deacon(?), for the price
+3   of the state palm(-dates), of the produce of the 2nd year of Hadrian
+4   the lord: fifteen silver drachmas, four
+5   and a half obols — total 15 dr. 4½ ob. Year 3
+6   of Hadrian Caesar the lord,
+7   Hathyr 15.

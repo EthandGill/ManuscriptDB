@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 217 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;217  (Trismegistos 76785)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 217
+label:    O.Wilck. 217
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     148 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5816
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76785
+source:   https://papyri.info/ddbdp/o.wilck;;217
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Δομίτιος Φαννιανὸς
+r.2   καὶ Γερμανὸς πράκ(τορες) ἀργ(υρικῆς) Ἐλε-
+r.3   φαντ(ίνης). διέγραψεν Ἁρπαῆσις
+r.4   Ζμενπτῶτος μητ(ρὸς) Θι-
+r.5   ψενσνῶτος ὑ πὲρ μερισ(μῶν)
+r.6   ια (ἔτους) Ἀντωνίνου Καίσαρος
+r.7   τοῦ κυρίου ῥυπ(αρὰς) δραχ(μὰς) τέσ-
+r.8   σαρες (δραχμὰς) δ Μεχὶρ ιϛ.
+
+[TRANSLATION]
+1   Domitius Phannianus
+2   and Germanos, collectors of the money-tax of Ele-
+3   phantine. Paid: Harpaesis
+4   son of Zmenptos, mother Thi-
+5   psensnotos, for the assessments
+6   of the 11th year of Antoninus Caesar
+7   the lord: (worn) four drach-
+8   mas, 4 dr. Mecheir 16.

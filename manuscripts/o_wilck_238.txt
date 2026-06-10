@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 238 — tax receipt (palm-grove land-tax)
+# Source: papyri.info DDbDP o.wilck;;238  (Trismegistos 76805)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 238
+label:    O.Wilck. 238
+name:     Tax receipt — palm-grove land-tax
+genre:    receipts
+date:     157/158 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5814
+content:  Ostracon tax receipt — palm-grove land-tax, Syene/Elephantine
+tm:       76805
+source:   https://papyri.info/ddbdp/o.wilck;;238
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Στλάκκ[ιος μισθ(ωτὴς)]
+r.2   ἱερᾶς πύλ(ης) [Σοή(νης). διὰ]
+r.3   Πετορζ(μῆθις) βοη[θ(οῦ). διέγρ(αψεν) ]
+r.4   ὑπ(ὲρ) ὀνόματο[ς ]
+r.5   ὑπ(ὲρ) γεομ(ετρίας) φοι[νικώνων ]
+r.6   δραχ(μὰς) δέκα ὀκ[τὼ] .
+r.7   (ἔτους) κα Ἀντω[νίνου Καίσαρος]
+r.8   τοῦ κυρίου [ ]
+
+[TRANSLATION]
+1   Stlakk[ios, lessee]
+2   of the Sacred Gate [of Syene. Through]
+3   Petorz(methis) the assi[stant. Paid: NN]
+4   in the name o[f ...],
+5   for the land-survey tax on pa[lm-groves ...]
+6   eighteen drach[mas].
+7   Year 21 of Anto[ninus Caesar]
+8   the lord [...]

@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 241 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;241  (Trismegistos 76808)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 241
+label:    O.Wilck. 241
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     160 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12070
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76808
+source:   https://papyri.info/ddbdp/o.wilck;;241
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀμμώνιος καὶ Σωκ(ράτης) οἱ β πράκ(τορες) ἀργ(υρικῆς) Ἐλεφ(αντίνης)
+r.2   διὰ Παχομπετενεφώτ(ου) βουηθοῦ . διέγρα(ψεν)
+r.3   Παναπῶθις Ἀμμωνίου μητ(ρὸς) Θιννῆσις ὑπ(ὲρ) μερισ-
+r.4   [μ]ῶν κα (ἔτους) (δραχμὴν) α (ὀβολὸν) α𐅵. (ἔτους) κγ Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.5   [Παῦ]νι ιγ. Ἀμμώνιος σεσημ(είωμαι).
+
+[TRANSLATION]
+1   Ammonios and Sok(rates), the two collectors of the money-tax of Elephantine,
+2   through Pachompetenephotes the assistant. Paid:
+3   Panapothis son of Ammonios, mother Thinnesis, for the assess-
+4   ments of the 21st year: 1 drachma 1½ obols. Year 23 of Antoninus Caesar the lord,
+5   [Pau]ni 13. I, Ammonios, have signed off.

@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 130 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;130  (Trismegistos 76703)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 130
+label:    O.Wilck. 130
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     124 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14001 (5790l)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76703
+source:   https://papyri.info/ddbdp/o.wilck;;130
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Φλάουιος Εὐτυχ(ὴς) ἀπελεύθ(ερος) Φλαουίου Πάνσα
+r.2   μισθ(ωτὴς) ἱερᾶς πύλ(ης) Σοήνης διὰ Σαραπίωνος
+r.3   βοηθ(οῦ). διέγραψ(εν) Ἁρπαῆσις Φανώφεως
+r.4   μ(ητρὸς) Ταχομτβῆκις ὑπ(ὲρ) λαογ(ραφίας) τοῦ ὀγδόου ἔτους
+r.5   Ἁδριανοῦ Καίσαρος τ(οῦ) κυρίου κατ(ὰ) μέρο(ς) δραχ(μὰς)
+r.6   δέκα ἑπτὰ (ἡμιωβέλιον) , δεσμο(ῦ) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς). (ἔτους) θ Ἁδριανοῦ
+r.7   τοῦ κυρίου Χοίακ β.
+
+[TRANSLATION]
+1   Flavius Eutyches, freedman of Flavius Pansa,
+2   lessee of the Sacred Gate of Syene, through Sarapion
+3   the assistant. Paid: Harpaesis son of Phanophis,
+4   mother Tachomtbekis, for the poll-tax of the eighth year
+5   of Hadrian Caesar the lord, in part: seven-
+6   teen drachmas (and) a half-obol, (and) ½ obol (keepers' fee) — total 17 dr. 1 ob. Year 9 of Hadrian
+7   the lord, Choiak 2.

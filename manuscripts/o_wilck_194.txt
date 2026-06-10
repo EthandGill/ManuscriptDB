@@ -1,0 +1,47 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 194 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;194  (Trismegistos 76762)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 194
+label:    O.Wilck. 194
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     143 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13997 (5790f)
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76762
+source:   https://papyri.info/ddbdp/o.wilck;;194
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Τιβέριος Ἰούλιος Λονγεῖνος
+r.2   καὶ Οὐαλέριος Σωκράτους
+r.3   καὶ οἱ σὺν αὐτοῖς ἐπιτηρητ(αὶ) ἱερᾶς
+r.4   πύλ(ης) Σοή(νης), ἐπακολουθ(ούντων) Ἡρακλείδου
+r.5   καὶ Ἰσιδώρου μισθ(ωτῶν) διὰ Παταχή(μιος)
+r.6   βοηθ(οῦ). διέ(γραψεν) Κᾶσις Πατεπῶτος
+r.7   μη(τρὸς) Θιμεαῦτος χειρο(ναξίου) ϛ (ἔτους)
+r.8   δραχ(μὰς) δέκα δύο (γίνονται) (δραχμαὶ) ιβ. (ἔτους) ζ
+r.9   Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.10   Ἁθὺρ γ, (hand 2) θ ὁ α(ὐτὸς) διέ(γραψεν) χειρο(ναξίου) δραχ(μὰς)
+r.11   ὀκτὼ ὀβο(λοὺς) δύο (γίνονται) (δραχμαὶ) η(διώβολον).
+
+[TRANSLATION]
+1   Tiberius Julius Longinus
+2   and Valerius son of Socrates
+3   and those with them, overseers of the Sacred
+4   Gate of Syene, with Herakleides
+5   and Isidoros the lessees concurring, through Patachemis
+6   the assistant. Paid: Kasis son of Patepos,
+7   mother Thimeaus, (for) the trade-tax of the 6th year:
+8   twelve drachmas — total 12 dr. Year 7
+9   of Antoninus Caesar the lord,
+10   Hathyr 3. (2nd hand) On the 9th the same paid for trade-tax
+11   eight drachmas (and) two obols — total 8 dr. 2 ob.

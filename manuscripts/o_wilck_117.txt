@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 117 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;117  (Trismegistos 70560)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 117
+label:    O.Wilck. 117
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Gr. 1221
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       70560
+source:   https://papyri.info/ddbdp/o.wilck;;117
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Διδυμίων πράκ(τωρ) διὰ Παλαχ(ήμιος).
+r.2   διέγραψε(ν) Πετορζμῆθις Πετορζμήθου τοῦ Πετορ-
+r.3   ζμήθου μη(τρὸς) Σενπαχνοῦβις ὑπ(ὲρ) λαο(γραφίας) τοῦ πέμ-
+r.4   πτου (ἔτους) Ἁδριανοῦ Καίσαρος τοῦ κυρίου δραχ(μὰς) δεκα-
+r.5   επτὰ (ἡμιωβέλιον) , δε(σμοφυλάκων) (ἡμιωβέλιον) , (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς). Ἁθὺρ γ.
+
+[TRANSLATION]
+1   Didymion, collector, through Palachemis.
+2   Paid: Petorzmethis son of Petorzmethes (grandson) of Petor-
+3   zmethes, mother Senpachnoubis, for the poll-tax of the fif-
+4   th year of Hadrian Caesar the lord: seven-
+5   teen drachmas (and) a half-obol, (and) ½ obol (prison-guards) — total 17 dr. 1 ob. Hathyr 3.

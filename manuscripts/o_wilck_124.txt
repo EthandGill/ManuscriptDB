@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 124 — tax receipt (river-guard assessment (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;124  (Trismegistos 76697)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 124
+label:    O.Wilck. 124
+name:     Tax receipt — river-guard assessment (potamophylakis)
+genre:    receipts
+date:     123 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14907
+content:  Ostracon tax receipt — river-guard assessment (potamophylakis), Syene/Elephantine
+tm:       76697
+source:   https://papyri.info/ddbdp/o.wilck;;124
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Παχομπατενεφώτης πράκ(τωρ) δι(ὰ) Σαρ(απίωνος)
+r.2   γρ(αμματέως). διέγρ(αψεν) Πετορζμῆθις Πουήρεω(ς)
+r.3   μητ(ρὸς) Τισᾶτις ὑπ(ὲρ) μερι(σμοῦ) ποταμοφυλ(ακίδος)
+r.4   ζ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) β. (ἔτους) ζ Ἁδριανοῦ τοῦ
+r.5   κυρίου Παχὼ(ν) ιε.
+
+[TRANSLATION]
+1   Pachompatenephotes, collector, through Sarapion
+2   the scribe. Paid: Petorzmethis son of Poueris,
+3   mother Tisatis, for the assessment of the river-guard
+4   of the 7th year: 2 drachmas (in worn coin). Year 7 of Hadrian the
+5   lord, Pachon 15.

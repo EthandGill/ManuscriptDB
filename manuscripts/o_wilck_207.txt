@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 207 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;207  (Trismegistos 76775)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 207
+label:    O.Wilck. 207
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     146 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 13999 (5790t)
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76775
+source:   https://papyri.info/ddbdp/o.wilck;;207
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Ζήνω]ν μισθωτ(ὴς) ἱερᾶς πύλ(ης)
+r.2   [Σοήνη]ς διὰ Παχομψᾶχις βοηθ(οῦ).
+r.3   [διέγραψ(εν)] Πετορζμήτως Πετορ-
+r.4   [ζμήθιο]ς μητ(ρὸς) Θινπετορζμήθιο(ς)
+r.5   [ὑπ(ὲρ) χει]ρω(ναξίου) θ (ἔτους) Ἀντωνείνου
+r.6   [Καίσ]αρος τοῦ κυρίου ῥυπ(αρὰς) δραχ(μὰς)
+r.7   [εἴ]κοσι ὀβολ(οὺς) δύο (γίνονται) (δραχμαὶ) κ(διώβολον) Ἐπεὶφ
+r.8   κη.
+
+[TRANSLATION]
+1   [Zeno]n, lessee of the Sacred Gate
+2   [of Syen]e, through Pachompsachis the assistant.
+3   [Paid:] Petorzmetos son of Petor-
+4   [zmethi]s, mother Thinpetorzmethis,
+5   [for the tr]ade-tax of the 9th year of Antoninus
+6   [Caes]ar the lord: (worn) drachmas
+7   [twen]ty (and) two obols — total 20 dr. 2 ob. Epeiph
+8   28.

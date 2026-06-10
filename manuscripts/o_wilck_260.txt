@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 260 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;260  (Trismegistos 76827)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 260
+label:    O.Wilck. 260
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     168 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7255
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76827
+source:   https://papyri.info/ddbdp/o.wilck;;260
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [ ]η· ἐπιτ(ηρητὴς) ἱ ερᾶς πύλ(ης) Σοή(νης) διὰ Σερή-
+r.2   [νου βοηθ(οῦ)]. διέγρ(αψεν) Σανσνὼς Θινπατχ(ναύτιος)
+r.3   [ὑπ(ὲρ) λ]αογ(ραφίας) η (ἔτους) δραχ(μὰς) δέκα ἓξ ὀβολ(ὸν) (γίνονται) (δραχμαὶ) ιϛ(ὀβολὸς).
+r.4   [(ἔτους) η] Ἀντωνίνου καὶ Οὐήρου
+r.5   [Κ]αισάρων τῶ[ν] κυρίων Μεσορὴ κ.
+
+[TRANSLATION]
+1   [NN], overseer of the Sacred Gate of Syene, through Sere-
+2   [nos the assistant]. Paid: Sansnos son of Thinpatch(nautes)
+3   [for the po]ll-tax of the 8th year: sixteen drachmas (and) an obol — total 16 dr. 1 ob.
+4   [Year 8] of Antoninus and Verus,
+5   [the] Caesars, the lords, Mesore 20.

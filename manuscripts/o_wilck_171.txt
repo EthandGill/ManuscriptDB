@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 171 — tax receipt (head-tax assessment)
+# Source: papyri.info DDbDP o.wilck;;171  (Trismegistos 76741)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 171
+label:    O.Wilck. 171
+name:     Tax receipt — head-tax assessment
+genre:    receipts
+date:     139 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ostracon tax receipt — head-tax assessment, Syene/Elephantine
+tm:       76741
+source:   https://papyri.info/ddbdp/o.wilck;;171
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Οὐαλ]έριος Μαρίων καὶ οἱ σὺν αὐτ(ῷ)
+r.2   [ἐπιτ(ηρηταὶ)] ἱ ερᾶς πύλ(ης) Σοήνης διὰ
+r.3   [Παχομ]ψᾶχις βοηθ(οῦ). διέγρα(ψεν) Πατ-
+r.4   [σίβ]δις Πετορζμῆθος
+r.5   [ὑπ(ὲρ) μ]ερισμ(οῦ) ἐπικ(εφαλίου) ἀνδ(ρῶν) ἀνακ(εχωρηκότων)
+r.6   ] (ἔτους) ῥυπ(αρὰν) (δραχμὴν) α (ὀβολοὺς) ε𐅵. (ἔτους) γ
+r.7   Ἀντωνίνου
+r.8   τοῦ κυρίου Ἁθὺρ ι.
+
+[TRANSLATION]
+1   [Val]erius Marion and those with him,
+2   [overseers] of the Sacred Gate of Syene, through
+3   [Pachom]psachis the assistant. Paid: Pat-
+4   [sib]dis son of Petorzmethes,
+5   [for the] assessment of the head-tax of the men who had withdrawn
+6   (of the …) year: 1 drachma 5½ obols (worn). Year 3
+7   of Antoninus
+8   the lord, Hathyr 10.

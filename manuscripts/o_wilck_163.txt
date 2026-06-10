@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 163 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;163  (Trismegistos 76733)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 163
+label:    O.Wilck. 163
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     136 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5796
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76733
+source:   https://papyri.info/ddbdp/o.wilck;;163
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ψα[ν]μοὺς πράκ(τωρ). διέγραψ(εν)
+r.2   Βιῆγχις Πατχναῦτ(ος) ὁ καὶ
+r.3   Σύρος ὑπ(ὲρ) μερισμ(οῦ) διπλ(ῶν) κ (ἔτους) ῥυ(παρὰς)
+r.4   (δραχμὰς) β(διώβολον) χ(αλκοῦς 2). (ἔτους) κ Ἁδριανοῦ
+r.5   Καίσαρος τοῦ κυρίου
+r.6   Φαμ(ενὼθ) κη.
+
+[TRANSLATION]
+1   Psanmous, collector. Paid:
+2   Bienchis son of Patchnaus, also called
+3   Syros, for the assessment of the surcharge(?), 20th year: (worn)
+4   2 drachmas 2 obols (and) 2 chalkoi. Year 20 of Hadrian
+5   Caesar the lord,
+6   Phamenoth 28.

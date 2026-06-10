@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 147 — tax receipt (river-guard assessment (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;147  (Trismegistos 76719)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 147
+label:    O.Wilck. 147
+name:     Tax receipt — river-guard assessment (potamophylakis)
+genre:    receipts
+date:     129 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Florence, Museo Egizio 5633
+content:  Ostracon tax receipt — river-guard assessment (potamophylakis), Syene/Elephantine
+tm:       76719
+source:   https://papyri.info/ddbdp/o.wilck;;147
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Καλασῖρις πρ]άκ(τωρ) ἀργ(υρικῆς) διὰ Ἰουνίο(υ)
+r.2   [Οὐάλεντος βο]ηθ(οῦ). διέγραψ(εν) Καλασῖρις
+r.3   [Πατεφαῦτος] μη(τρὸς) Θιψενμώνθου
+r.4   [ὑπ(ὲρ) μερισμ(οῦ)] ποταμοφυλ(ακίδος) β (ἔτους)
+r.5   [ῥυπ(αρὰν) (δραχμὴν) α(τετρώβολον), στατίω(νος)] (ἡμιωβέλιον) χ(αλκοὺς 2). (ἔτους) ιγ
+r.6   [Ἁδριαν]οῦ τοῦ κυρίου Μεχ(ὶρ) ιδ.
+
+[TRANSLATION]
+1   [Kalasiris, coll]ector of the money-tax, through Junius
+2   [Valens the as]sistant. Paid: Kalasiris
+3   [son of Patephaus,] mother Thipsenmonthes,
+4   [for the assessment] of the river-guard, 2nd year(?):
+5   [1 dr. 4 ob. (worn), (and) for the station] ½ obol (and) 2 chalkoi. Year 13
+6   [of Hadri]an the lord, Mecheir 14.

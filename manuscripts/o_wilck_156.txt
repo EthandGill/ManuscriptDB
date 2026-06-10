@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 156 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;156  (Trismegistos 76727)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 156
+label:    O.Wilck. 156
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     131/132 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    (shelf not recorded)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76727
+source:   https://papyri.info/ddbdp/o.wilck;;156
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀντίοχος Κασιανὸ(ς) καὶ Ἄρριος Πουπλι(ανὸς) καὶ Ἰο[ύλιος] Μ[ά-]
+r.2   ξιμος καὶ οἱ σὺν αὐτοῖς ἐπιτηρ(ηταὶ) ἱερ(ᾶς) πύλης Σοή(νης) δι(ὰ)
+r.3   Φανώφ(εως) βοηθ(οῦ). διέγρ(αψεν) Πετορζμῆθ(ις) Πουήρεως
+r.4   μητ(ρὸς) Τισάτ(ιος) ὑπ(ὲρ) λαογρ(αφίας) ἑκκαιδεκάτου ἔτους Ἁδριανοῦ
+r.5   τοῦ κυρίου δραχ(μὰς) δέκα ἑπτὰ (ἡμιωβέλιον) , δ(εσμοφυλακίας) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς), καὶ ὑπ(ὲρ)
+r.6   τοῦ ιε (ἔτους)] δραχ(μὴν) μίαν
+r.7   [ὀβολ(ὸν) χ(αλκοῦς) γ]. (ἔτους) ιϛ Ἁδριανοῦ τοῦ κυρίου
+
+[TRANSLATION]
+1   Antiochos Kasianos and Arrius Pupli(anus) and Jo[ulius] M[a-]
+2   ximos and those with them, overseers of the Sacred Gate of Syene, through
+3   Phanophis the assistant. Paid: Petorzmethis son of Poueris,
+4   mother Tisatis, for the poll-tax of the sixteenth year of Hadrian
+5   the lord: seventeen drachmas (and) a half-obol, (and) ½ obol (keepers' fee) — total 17 dr. 1 ob.; and for
+6   the 15th year, one drachma
+7   [(and) an obol (and) 3 chalkoi]. Year 16 of Hadrian the lord.

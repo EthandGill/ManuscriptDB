@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 245 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;245  (Trismegistos 76812)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 245
+label:    O.Wilck. 245
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     161 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5826
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76812
+source:   https://papyri.info/ddbdp/o.wilck;;245
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Οὔλπιος Κερεᾶλις μισθ(ωτὴς) ἱερᾶς πύλ(ης)
+r.2   Σοήνης διὰ Παχνοῦβις βοηθ(οῦ). διέγρ(αψεν)
+r.3   Σεραπίων Ἀμμωνίου μη(τρὸς) Θινπετορζ(μήθου)
+r.4   ὑπ(ὲρ) λαογ(ραφίας) α (ἔτους) δραχ(μὰς) δέκα ἑπτὰ ὀβολ(ὸν) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς).
+r.5   (ἔτους) (hand 2) α (hand 1) Αὐτοκράτορος Καίσαρος Μάρκου
+r.6   Αὐρηλίου Ἀντωνίνου Σεβαστοῦ
+r.7   καὶ Αὐτοκράτορος Καίσαρος Λουκίου
+r.8   Αὐρηλίου Οὐήρου Σεβαστοῦ
+r.9   Παχ(ὼν) κζ.
+
+[TRANSLATION]
+1   Ulpius Cerealis, lessee of the Sacred Gate
+2   of Syene, through Pachnoubis the assistant. Paid:
+3   Serapion son of Ammonios, mother Thinpetorz(methes),
+4   for the poll-tax of the 1st year: seventeen drachmas (and) an obol — total 17 dr. 1 ob.
+5   Year (2nd hand) 1 (1st hand) of Imperator Caesar Marcus
+6   Aurelius Antoninus Augustus
+7   and Imperator Caesar Lucius
+8   Aurelius Verus Augustus,
+9   Pachon 27.

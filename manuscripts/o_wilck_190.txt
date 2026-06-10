@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 190 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;190  (Trismegistos 76759)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 190
+label:    O.Wilck. 190
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     142 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 322
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76759
+source:   https://papyri.info/ddbdp/o.wilck;;190
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Ἡρακλείδης] καὶ Ἰ σίδω-
+r.2   [ρος μισθ(ωταὶ)] πύλ(ης) Σοή-
+r.3   [νης διὰ Παχομ]ψᾶχις βοηθ(οῦ).
+r.4   [διέγρ(αψεν) Πετο]ρζμῆθις Πετε-
+r.5   [ μητ(ρὸς)] Θινπετορζμή(θου)
+r.6   [ὑπ(ὲρ) λαο(γραφίας) ε] (ἔτους) δραχ(μὰς) δέκα ἑπτὰ
+r.7   [ὀβολ(ὸν) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς)]. (ἔτους) ϛ Ἀντωνίνου
+r.8   [Καίσαρος τ]οῦ κυρίου Θὼθ
+r.9   θ.
+
+[TRANSLATION]
+1   [Herakleides] and Isido-
+2   [ros, lessees] of the Gate of Sye-
+3   [ne, through Pachom]psachis the assistant.
+4   [Paid: Peto]rzmethis son of Pete-
+5   […, mother] Thinpetorzmethes,
+6   [for the poll-tax of the 5th] year: seventeen drachmas
+7   [(and) an obol — total 17 dr. 1 ob.]. Year 6 of Antoninus
+8   [Caesar t]he lord, Thoth
+9   9.

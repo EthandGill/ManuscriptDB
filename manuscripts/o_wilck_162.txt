@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 162 — tax receipt (river-guard assessment (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;162  (Trismegistos 76732)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 162
+label:    O.Wilck. 162
+name:     Tax receipt — river-guard assessment (potamophylakis)
+genre:    receipts
+date:     136 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12116
+content:  Ostracon tax receipt — river-guard assessment (potamophylakis), Syene/Elephantine
+tm:       76732
+source:   https://papyri.info/ddbdp/o.wilck;;162
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ψανμοὺς πράκ(τωρ). διέγραψεν
+r.2   Ζμενπὼς Πετορζμήθεως
+r.3   μητ(ρὸς) Τισᾶτις ὑπ(ὲρ) μερισμ(οῦ) ποταμο-
+r.4   φυλ(ακίδος) κ (ἔτους) ῥυ(παρὰν) (δραχμὴν) α (ὀβολοὺς) γ𐅵. (ἔτους) κ
+r.5   Ἁδριανοῦ Καίσαρος
+r.6   τοῦ κυρίου Τῦβι κγ.
+
+[TRANSLATION]
+1   Psanmous, collector. Paid:
+2   Zmenpos son of Petorzmethes,
+3   mother Tisatis, for the assessment of the river-
+4   guard, 20th year: 1 drachma 3½ obols (worn). Year 20
+5   of Hadrian Caesar
+6   the lord, Tybi 23.

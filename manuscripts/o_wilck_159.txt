@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 159 — tax receipt (state palm/date tax)
+# Source: papyri.info DDbDP o.wilck;;159  (Trismegistos 76730)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 159
+label:    O.Wilck. 159
+name:     Tax receipt — state palm/date tax
+genre:    receipts
+date:     134 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ostracon tax receipt — state palm/date tax, Syene/Elephantine
+tm:       76730
+source:   https://papyri.info/ddbdp/o.wilck;;159
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Γέλλιος Πέρσις καὶ οἱ σὺν αὐτ(ῷ)
+r.2   ἐπιτ(ηρηταὶ) πύλ(ης) Σοήνης διὰ Πανίσ[κου]
+r.3   βοηθ(οῦ). διέγραψεν Παχομ[ ]
+r.4   τιμῆς φοίνικ(ος) γενήμ(ατος) ιζ (ἔτους)
+r.5   ῥυπ(αρὰς) δραχ(μὰς) ὀκτώ . (hand 2) (ἡμιωβέλιον) χ(αλκοῦς 2)/ (ἔτους) ιη Ἁδ[ριανοῦ]
+r.6   τοῦ κυρίου Μεσορὴ
+r.7   λ.
+
+[TRANSLATION]
+1   Gellius Persis and those with him,
+2   overseers of the Gate of Syene, through Panis[kos]
+3   the assistant. Paid: Pachom[…]
+4   (for) the price of palm(-dates), of the produce of the 17th year:
+5   eight drachmas (in worn coin). (2nd hand) ½ obol (and) 2 chalkoi. Year 18 of Had[rian]
+6   the lord, Mesore
+7   30.

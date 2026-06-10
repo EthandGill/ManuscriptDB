@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 215 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;215  (Trismegistos 76783)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 215
+label:    O.Wilck. 215
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     147 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Rome, Vatican, Biblioteca del Vaticano Gr. 10
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76783
+source:   https://papyri.info/ddbdp/o.wilck;;215
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Γερμανὸς καὶ Παπρμείθ(ης)
+r.2   πράκ(τορες) ἀργ(υρικῆς) Ἐλεφ(αντίνης). διέγρα(ψεν) Πατ-
+r.3   σίβτις Πετορζμήθ(ου) μητ(ρὸς) Θιν-
+r.4   πελαίας ὑπ(ὲρ) μερι(σ)μ(ῶν) ια (ἔτους) Ἀν[τωνίνου]
+r.5   Καίσαρος τοῦ κυρίου ῥυπ(αρὰς) (δραχμὰς) δ
+r.6   Θῶυθ ζ. [ ]
+r.7   [Γ]ερμανὸς σεσημ(είωμαι) [(δραχμὰς) δ].
+
+[TRANSLATION]
+1   Germanos and Paprmeith(es),
+2   collectors of the money-tax of Elephantine. Paid: Pat-
+3   sibtis son of Petorzmethes, mother Thin-
+4   pelaias, for the assessments of the 11th year of An[toninus]
+5   Caesar the lord: (worn) 4 dr.
+6   Thoth 7. [...]
+7   I, [G]ermanos, have signed off [: 4 dr.].

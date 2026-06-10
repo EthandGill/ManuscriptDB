@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 121 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;121  (Trismegistos 76694)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 121
+label:    O.Wilck. 121
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     121 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 2 (ostracon)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76694
+source:   https://papyri.info/ddbdp/o.wilck;;121
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Διδυμίων πράκ(τωρ) διὰ Παπ[ διέγρ(αψεν)]
+r.2   Καλασεῖρις Ψανσνῶτο[ς μη(τρὸς) Θινπατερ-]
+r.3   ζμῆθις ὑπ(ὲρ) λαο(γραφίας) τοῦ πέμ[πτου ἔτους Ἁδριανοῦ]
+r.4   Καίσαρος τοῦ κυρίου δ[ραχ(μὰς) δέκα ἑπτὰ(ἡμιωβέλιον)],
+r.5   δεσ(μοῦ) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς). Μεσορὴ [ .]
+
+[TRANSLATION]
+1   Didymion, collector, through Pap[… Paid:]
+2   Kalaseiris son of Psansnos, [mother Thinpater-]
+3   zmethis, for the poll-tax of the fif[th year of Hadrian]
+4   Caesar the lord: [seventeen drachmas (and) a half-obol],
+5   (and) ½ obol (keepers' fee) — total 17 dr. 1 ob. Mesore […]

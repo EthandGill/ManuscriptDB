@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 246 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;246  (Trismegistos 76813)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 246
+label:    O.Wilck. 246
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     162 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5799
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76813
+source:   https://papyri.info/ddbdp/o.wilck;;246
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Οὐαλέριος Σερῆνος καὶ Παταχῆμις οἱ β
+r.2   πράκ(τορες) ἀργ(υρικῆς) Ἐλεφα(ντίνης) διὰ Πετορζμ(ή)θ(ου) βοηθ(οῦ). διέγρ(αψεν)
+r.3   Παπρεμείθης Ἁρπαήσεως μητ(ρὸς) Θινζμεντ-
+r.4   πῶτος ὑπ(ὲρ(?)) μερισ(μοῦ) α (ἔτους) κβ (ἔτους(?)) (δραχμὰς) ε (ὀβολοὺς) β𐅵. (ἔτους) β
+r.5   Ἀντωνίνου καὶ Οὐήρου Καισάρων τῶν
+r.6   κυρίων Ἐπὶφ ιϛ.
+
+[TRANSLATION]
+1   Valerius Serenos and Patachemis, the two
+2   collectors of the money-tax of Elephantine, through Petorzm(ethes) the assistant. Paid:
+3   Papremithes son of Harpaesis, mother Thinzment-
+4   pos, for(?) the assessment of the 1st year (and) 22nd year(?): 5 dr. 2½ ob. Year 2
+5   of Antoninus and Verus, the Caesars, the
+6   lords, Epeiph 16.

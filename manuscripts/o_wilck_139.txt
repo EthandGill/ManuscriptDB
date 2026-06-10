@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 139 — tax receipt (river-guard assessment (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;139  (Trismegistos 76712)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 139
+label:    O.Wilck. 139
+name:     Tax receipt — river-guard assessment (potamophylakis)
+genre:    receipts
+date:     127 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Marcelä collection, Lausanne
+content:  Ostracon tax receipt — river-guard assessment (potamophylakis), Syene/Elephantine
+tm:       76712
+source:   https://papyri.info/ddbdp/o.wilck;;139
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Παχο πράκ(τωρ).
+r.2   διέγρ(αψεν) Πετορζμῆθις
+r.3   Παχουμαμμῶν(ος) μη(τρὸς)
+r.4   τος ὑπ(ὲρ) μερι(σμοῦ) ποτα-
+r.5   μ ια ἔτους Ἁδριανοῦ
+r.6   τοῦ κυρίου <ῥυπ(αρὰς)> (δραχμὰς) β ὀβολ(οὺς)
+r.7   τρεῖς . Σρ (απίων) γρ(αμματεὺς) ἔγρ(αψα)
+r.8   Παχ(ὼν) η.
+
+[TRANSLATION]
+1   Pacho…, collector.
+2   Paid: Petorzmethis
+3   son of Pachoumammon, mother
+4   …tos, for the assessment of the river-
+5   guard, 11th year of Hadrian
+6   the lord: 2 drachmas (and) three
+7   obols (in worn coin). I, Sarapion the scribe, wrote (this),
+8   Pachon 8.

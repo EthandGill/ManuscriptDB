@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 148 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;148  (Trismegistos 76720)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 148
+label:    O.Wilck. 148
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     129 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14119 (5805b)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76720
+source:   https://papyri.info/ddbdp/o.wilck;;148
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Ἄρριο]ς Πουπλιανὸς καὶ οἱ σὺν αὐτῶι
+r.2   [ἐ]πιτηρηταὶ ἱερᾶς πύλ(ης) Σοήνης.
+r.3   διέγραψ(εν) Ἀτπῆς Παπρεμμεί-
+r.4   θου μητρὸ(ς) Σενβαμπουῆρις ὑπ(ὲρ) λαογ(ραφίας)
+r.5   τοῦ τρισκαιδεκάτου ἔτους Ἁδριανοῦ
+r.6   Καίσαρος τοῦ κυρίου δραχ(μὰς) δέκα
+r.7   ἑπτὰ (ἡμιωβέλιον) , δεσμο(ῦ) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς)
+r.8   Ἐπεὶφ ε.
+r.9   (hand 2) Ἄρριος Πουπλιανὸς σεση(μείωμαι) δραχ(μὰς)
+r.10   δέκα ἑπτὰ ὀβολ(όν) .
+
+[TRANSLATION]
+1   [Arrio]s Puplianus and those with him,
+2   overseers of the Sacred Gate of Syene.
+3   Paid: Atpes son of Papremmei-
+4   thos, mother Senbampoueris, for the poll-tax
+5   of the thirteenth year of Hadrian
+6   Caesar the lord: seventeen
+7   drachmas (and) a half-obol, (and) ½ obol (keepers' fee) — total 17 dr. 1 ob.,
+8   Epeiph 5.
+9   (2nd hand) I, Arrius Puplianus, have signed off: seventeen
+10   drachmas (and) an obol.

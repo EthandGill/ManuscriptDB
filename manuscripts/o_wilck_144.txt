@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 144 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;144  (Trismegistos 76716)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 144
+label:    O.Wilck. 144
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     128 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    (shelf not recorded)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76716
+source:   https://papyri.info/ddbdp/o.wilck;;144
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Λονγῖνος Κρίσπος καὶ οἱ λοιπ(οὶ) ἐπιτη-
+r.2   ρηταὶ ἱερᾶς πύλ(ης) Σοήνης. διέγραψεν
+r.3   Πετορζμῆθ(ις) μείζω(ν) Πουήρεως μη(τρὸς)
+r.4   Τισᾶτις λαογ(ραφίας) ιβ (ἔτους) Ἁδριανοῦ κυρίου
+r.5   δραχ(μὰς) δέκα ἑπτὰ <(ἡμιωβέλιον)> , δεσ(μοῦ) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς). (ἔτους) ιβ Ἁδριανοῦ
+r.6   τοῦ κυρίου Μεσορὴ η.
+r.7   (hand 2) Λονγῖνος σεση(μείωμαι) δέκα ἑπτὰ <ὀβ(ολόν)>.
+
+[TRANSLATION]
+1   Longinus Crispus and the other over-
+2   seers of the Sacred Gate of Syene. Paid:
+3   Petorzmethis the elder, son of Poueris, mother
+4   Tisatis, for the poll-tax of the 12th year of Hadrian the lord:
+5   seventeen drachmas (and) a half-obol, (and) ½ obol (keepers' fee) — total 17 dr. 1 ob. Year 12 of Hadrian
+6   the lord, Mesore 8.
+7   (2nd hand) I, Longinus, have signed off: seventeen (drachmas) (and) an obol.

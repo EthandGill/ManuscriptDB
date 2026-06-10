@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 236 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;236  (Trismegistos 76803)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 236
+label:    O.Wilck. 236
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     158 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre O. 9
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76803
+source:   https://papyri.info/ddbdp/o.wilck;;236
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Στλάκκιος μισθ(ωτὴς)
+r.2   ἱ ερᾶς πύλ(ης) Σοή(νης) διὰ Σερήνου
+r.3   βοη(θοῦ). διέγρ(αψεν) Μηνόφειλος μείζ(ων)
+r.4   Ὀρβάειδος μητ(ρὸς) Τισᾶτις ὑπ(ὲρ) λαο(γραφίας)
+r.5   κα (ἔτους) δραχ(μὰς) ὀκτὼ (γίνονται) (δραχμαὶ) η. (ἔτους) κα
+r.6   Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.7   Παχ(ὼν) γ.
+
+[TRANSLATION]
+1   Stlakkios, lessee
+2   of the Sacred Gate of Syene, through Serenos
+3   the assistant. Paid: Menopheilos the elder,
+4   son of Orbaeis, mother Tisatis, for the poll-tax
+5   of the 21st year: eight drachmas — total 8 dr. Year 21
+6   of Antoninus Caesar the lord,
+7   Pachon 3.

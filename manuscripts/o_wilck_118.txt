@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 118 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;118  (Trismegistos 76691)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 118
+label:    O.Wilck. 118
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre O. 3
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76691
+source:   https://papyri.info/ddbdp/o.wilck;;118
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Οὐαλερίων καὶ οἱ λοιπ(οὶ) μισθ(ωταὶ)
+r.2   ἱερᾶς πύλ(ης) Σοήνης δι(ὰ) Σαραπ(ίωνος).
+r.3   διέγραψ(εν) Ψενχνοῦμις Α-
+r.4   τρίτου ἔτους Ἁδριανοῦ
+r.5   τοῦ κυρίου δραχ(μὰς) δέκα
+r.6   ἑπτὰ (ἡμιωβέλιον) , δεσμο(ῦ) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς).
+r.7   (ἔτους) ε Ἁδριανοῦ τοῦ κυρίου
+r.8   Ἁθὺρ κη.
+
+[TRANSLATION]
+1   Valerion and the other lessees
+2   of the Sacred Gate of Syene, through Sarapion.
+3   Paid: Psenchnoumis (son of) A…,
+4   (for) the third year of Hadrian
+5   the lord: seventeen
+6   drachmas (and) a half-obol, (and) ½ obol (keepers' fee) — total 17 dr. 1 ob.
+7   Year 5 of Hadrian the lord,
+8   Hathyr 28.

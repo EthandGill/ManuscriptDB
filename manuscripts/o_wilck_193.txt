@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 193 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;193  (Trismegistos 76761)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 193
+label:    O.Wilck. 193
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     c. 139–143 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7807
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76761
+source:   https://papyri.info/ddbdp/o.wilck;;193
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἡρακλείδης [καὶ Ἰσίδωρος μισθ(ωταὶ)]
+r.2   πύλ(ης) Σοή(νης) διὰ Π[αχομψᾶχις βοηθ(οῦ). διέγρ(αψεν)]
+r.3   Θοτομοὺς Θο[ ὑπὲρ χειρω(ναξίου) (ἔτους)]
+r.4   Ἀντωνείνο[υ Καίσαρος τοῦ κυρίου]
+r.5   δραχ(μὰς) εἴκοσι ὀβο(λοὺς) [δύο (γίνονται) (δραχμαὶ) κ(διώβολον)].
+
+[TRANSLATION]
+1   Herakleides [and Isidoros, lessees]
+2   of the Gate of Syene, through P[achompsachis the assistant. Paid:]
+3   Thotomous son of Tho[…, for the trade-tax (year)]
+4   of Antonino[s Caesar the lord:]
+5   twenty drachmas (and) [two] obols [— total 20 dr. 2 ob.].

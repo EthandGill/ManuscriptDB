@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 229 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;229  (Trismegistos 76796)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 229
+label:    O.Wilck. 229
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     156 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Munich, Bayerische Staatsbibliothek without number
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76796
+source:   https://papyri.info/ddbdp/o.wilck;;229
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Στλάκιος μισθ(ωτὴς) ἱ [ερᾶς πύλης]
+r.2   Σοήνης. διέγρ(αψεν) Π [ ]
+r.3   Ἁρπαήσεως μητ(ρὸς) Θ[ ]
+r.4   τος ὑπ(ὲρ) λα[ο(γραφίας)] ιθ (ἔτους) δρα[χμὰς ]
+r.5   (ἔτους) ιθ Ἀντωνίνου Κ[αίσαρος τοῦ κυρίου]
+r.6   Ἐπ(ὶ)φ κα. (hand 2) Διονυσόδω[ρος Τρι-]
+r.7   αδέλφου ἔσχον [ ]
+
+[TRANSLATION]
+1   Stlakios, lessee of the S[acred Gate]
+2   of Syene. Paid: P[...]
+3   son of Harpaesis, mother Th[...]
+4   ...tos, for the po[ll-tax] of the 19th year: dra[chmas ...]
+5   Year 19 of Antoninus C[aesar the lord],
+6   Epeiph 21. (2nd hand) Dionysodo[ros son of Tri-]
+7   adelphos, I have received [...]

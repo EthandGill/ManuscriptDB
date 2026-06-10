@@ -1,0 +1,47 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 167 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;167  (Trismegistos 699480)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 167
+label:    O.Wilck. 167
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     c. 139/140 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 318
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       699480
+source:   https://papyri.info/ddbdp/o.wilck;;167
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Οὐαλέρι[ος Μα]ρίων
+r.2   καὶ οἱ σὺν α[(ὐτῷ)] ἐπιτ(ηρηταὶ) ἱ ερᾶ[ς]
+r.3   πύλ(ης) Σοήνης διὰ Πα-
+r.4   χομψᾶχις βοηθ(οῦ). διέγρ[α(ψεν)]
+r.5   Πατσεῖβδις Πετορζμή-
+r.6   θου ὑπ(ὲρ) λα[ο(γραφίας)] γ (ἔτους) δραχ(μὰς)
+r.7   δέκα ἑπτὰ ὀ[β]ολ(όν), (γίνονται) (δραχμαὶ) ιζ (ὀβολός(?)).
+r.8   λαο(γραφίας) κ (ἔτους) θε[οῦ Ἁ]δριανοῦ
+r.9   (δραχμὰς) γ(τριώβολον), χειρω(ναξίου) [(δραχμὰς) δ] (ἡμιωβέλιον(?)). (ἔτους) δ
+r.10   [Ἀ]ντων[ίνου Καίσαρο]ς
+r.11   τοῦ κυ[ρίου ⁦ -ca.?- ⁩]
+
+[TRANSLATION]
+1   Valeri[us Ma]rion
+2   and those with h[im], overseers of the Sacred
+3   Gate of Syene, through Pa-
+4   chompsachis the assistant. Pai[d:]
+5   Patseibdis son of Petorzme-
+6   thes, for the poll-tax of the 3rd year: drachmas
+7   seventeen (and) an o[b]ol — total 17 dr. 1 ob.(?);
+8   for the poll-tax of the 20th year of the de[ified Ha]drian
+9   3 dr. 3 ob., (and) for the trade-tax [4 dr.] ½ ob.(?). Year 4
+10   of [A]nton[inus Caesar]
+11   the lo[rd …]

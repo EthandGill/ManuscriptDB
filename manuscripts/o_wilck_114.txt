@@ -1,0 +1,47 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 114 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;114  (Trismegistos 76688)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 114
+label:    O.Wilck. 114
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     119 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    (shelf not recorded)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76688
+source:   https://papyri.info/ddbdp/o.wilck;;114
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Οὐαλερίων καὶ] οἱ λοιπ(οὶ) μισθ(ωταὶ)
+r.2   [ἱερᾶς πύλης Σοήνης] δι(ὰ) Σαραπ(ίωνος)
+r.3   [γρ(αμματέως). διέγραψεν ]χιμ . σ-
+r.4   ησιος Ζ υ Πέρσης.
+r.5   λαογ(ραφίας) τρίτου ἔτους
+r.6   Ἁδριανοῦ τοῦ κυρίου
+r.7   δραχ(μὰς) δέκα ἑπτὰ (ἡμιωβέλιον) ,
+r.8   δεσμο(ῦ) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς).
+r.9   (ἔτους) δ Ἁδριανοῦ
+r.10   τοῦ κυρίου
+r.11   Χοίακ
+
+[TRANSLATION]
+1   [Valerion and] the other lessees
+2   [of the Sacred Gate of Syene,] through Sarapion
+3   [the scribe. Paid:] …chim…s-
+4   …sesios, son of Z…, a Persian,
+5   the poll-tax of the third year
+6   of Hadrian the lord:
+7   seventeen drachmas (and) a half-obol,
+8   (and) ½ obol (keepers' fee) — total 17 dr. 1 ob.
+9   Year 4 of Hadrian
+10   the lord,
+11   Choiak.

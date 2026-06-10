@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 152 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;152  (Trismegistos 76723)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 152
+label:    O.Wilck. 152
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     130/131 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7221
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76723
+source:   https://papyri.info/ddbdp/o.wilck;;152
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Ἀντίοχος Κασσιανὸ]ς καὶ Ἄρριος Πουπλι καὶ Ἰ ούλιο(ς) Μάξιμος καὶ
+r.2   [οἱ σὺν αὐτοῖς ἐπιτ]ηρ(ηταὶ) ἱ ερᾶς πύλ(ης) Σοήνης δι(ὰ) Φανῶφις βοηθ(οῦ). [δι]έγ[ρ(αψεν)]
+r.3   δραχ(μὰς) δέ]κα ἑπτὰ (ἡμιωβέλιον) , δεσ(μοφυλακίας) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς), καὶ ὑπ(ὲρ) μερισ[μοῦ] ἐπ[ικε]φ[αλίου]
+r.4   το]ῦ ιδ (ἔτους) δραχ(μὴν) μίαν ὀβολ(ὸν) χ(αλκοῦς 3) . (ἔτους) ιε Ἁδριανοῦ
+r.5   [τοῦ κυρίου ] α.
+
+[TRANSLATION]
+1   [Antiochos Cassiano]s and Arrius Pupli(anus) and Julius Maximus and
+2   [those with them, over]seers of the Sacred Gate of Syene, through Phanophis the assistant. [Pa]id:
+3   seven]teen drachmas (and) a half-obol, (and) ½ obol (keepers' fee) — total 17 dr. 1 ob.; and for the assess[ment] of the head-[tax]
+4   of the 14th year, one drachma (and) an obol (and) 3 chalkoi. Year 15 of Hadrian
+5   [the lord …] 1.

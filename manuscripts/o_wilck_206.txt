@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 206 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;206  (Trismegistos 76774)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 206
+label:    O.Wilck. 206
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     146 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    (shelf not recorded)
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76774
+source:   https://papyri.info/ddbdp/o.wilck;;206
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ζήνων Ἡρακλείδου μισθ(ωτὴς)
+r.2   ἱ ερᾶς πύλ(ης) Σοήνης διὰ Πα-
+r.3   χομψᾶχις βοηθ(οῦ). διέγρα(ψεν)
+r.4   Πατεσίβδις Πετορζμήθου
+r.5   μητ(ρὸς) Θινπελαίας ὑπ(ὲρ) χειρω(ναξίου)
+r.6   θ (ἔτους) Ἀντωνείνου Καίσαρος
+r.7   τοῦ κυρίου ῥυπ(αρὰς) δραχ(μὰς) εἴκοσι
+r.8   ὀβολ(οὺς) δύο Ἐπεὶφ κα.
+
+[TRANSLATION]
+1   Zenon son of Herakleides, lessee
+2   of the Sacred Gate of Syene, through Pa-
+3   chompsachis the assistant. Paid:
+4   Patesibdis son of Petorzmethes,
+5   mother Thinpelaias, for the trade-tax
+6   of the 9th year of Antoninus Caesar
+7   the lord: twenty drachmas (worn)
+8   (and) two obols. Epeiph 21.

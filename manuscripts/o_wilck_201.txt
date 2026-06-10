@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 201 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;201  (Trismegistos 76769)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 201
+label:    O.Wilck. 201
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     145 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5811
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76769
+source:   https://papyri.info/ddbdp/o.wilck;;201
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ζήνων Ἡρακλείδ(ου) μισθ(ωτὴς) ἱερᾶς πύ(λης)
+r.2   Σοήνης διὰ Σαραπίωνος βοηθ(οῦ).
+r.3   διέγραψ(εν) Πατίβπτις Πετορζμήθ(ου)
+r.4   μητρὸς Σενπελαίας ὑπ(ὲρ) λαογ(ραφίας) τοῦ
+r.5   η (ἔτους) Ἀντωνείνου Καίσαρος
+r.6   τοῦ κυρίου ῥυπ(αρὰς) δραχ(μὰς) δέκα ἑπτὰ (ἡμιωβέλιον) ,
+r.7   δεσμο(φυλακίας) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ιζ(ὀβολός). ὁ α(ὐτὸς) μερισ(μὸν)
+r.8   ἀνδ(ρῶν) ἀνακ(εχωρηκότων) ζ (ἔτους) (δραχμὴν) α(τετρώβολον).
+r.9   (ἔτους) θ Ἀντωνείνου
+r.10   τοῦ κυρίου Θὼθ θ.
+
+[TRANSLATION]
+1   Zenon son of Herakleides, lessee of the Sacred Gate
+2   of Syene, through Sarapion the assistant.
+3   Paid: Patibptis son of Petorzmethes,
+4   mother Senpelaias, for the poll-tax of the
+5   8th year of Antoninus Caesar
+6   the lord: seventeen drachmas (and) a half-obol (worn),
+7   (and) ½ obol (keepers') — total 17 dr. 1 ob. The same, the assessment
+8   of the men who had withdrawn, 7th year: 1 dr. 4 ob.
+9   Year 9 of Antoninus
+10   the lord, Thoth 9.

@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 113 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;113  (Trismegistos 76687)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 113
+label:    O.Wilck. 113
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     119 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5795
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76687
+source:   https://papyri.info/ddbdp/o.wilck;;113
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Οὐαλλαρίων καὶ οἱ λοιπ(οὶ) μισθ(ωταὶ)
+r.2   ἱερᾶς πύλ(ης) Σοήνης
+r.3   δι(ὰ) Σαραπ(ίωνος) γρ(αμματέως). διέγραψ(εν)
+r.4   Παχνοῦβις Πετορζμήθ(ιος)
+r.5   μη(τρὸς) Θινπουῆρις λαο(γραφίας) β (ἔτους)
+r.6   Ἁδριανοῦ τοῦ κυρίου
+r.7   δραχ(μὰς) ὀκτὼι (γίνονται) (δραχμαὶ) η. (ἔτους) γ
+r.8   Ἁδριανοῦ τοῦ κυρίου
+r.9   Φαρμοῦθι η.
+
+[TRANSLATION]
+1   Vallarion and the other lessees
+2   of the Sacred Gate of Syene,
+3   through Sarapion the scribe. Paid:
+4   Pachnoubis son of Petorzmethis,
+5   mother Thinpoueris, for the poll-tax of the 2nd year
+6   of Hadrian the lord:
+7   eight drachmas — total 8 dr. Year 3
+8   of Hadrian the lord,
+9   Pharmouthi 8.

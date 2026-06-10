@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 257 — tax receipt (state palm/date tax)
+# Source: papyri.info DDbDP o.wilck;;257  (Trismegistos 76824)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 257
+label:    O.Wilck. 257
+name:     Tax receipt — state palm/date tax
+genre:    receipts
+date:     165 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5824
+content:  Ostracon tax receipt — state palm/date tax, Syene/Elephantine
+tm:       76824
+source:   https://papyri.info/ddbdp/o.wilck;;257
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Λονγεῖνος Σερῆνος καὶ Πετρῶνις Βάραχ
+r.2   πράκ(τορες) ἀργ(υρικῆς) Ἐλεφαντ(ίνης) διὰ Πετορζμήθ(ου) β[οηθ(οῦ)]. διέγρ(αψεν) Θινπετε
+r.3   ὑπ(ὲρ) τιμῆς δημ(οσίου) φοί(νικος) γενήματ(ος) δ (ἔτους) δι τ( ) Πετ(ο)ρ-
+r.4   ζμ(ή)θ(ιος) Θωτ (δραχμὰς) β. (ἔτους) ε Ἀντωνίνου καὶ Οὐήρου Καισάρων
+r.5   τῶν κυρίων Φαμενὼθ κδ.
+
+[TRANSLATION]
+1   Longinus Serenos and Petronis Barach,
+2   collectors of the money-tax of Elephantine, through Petorzmethes the a[ssistant]. Paid: Thinpete...,
+3   for the price of the state palm(-dates), of the produce of the 4th year, ... son of Petor-
+4   zmethes ...: 2 dr. Year 5 of Antoninus and Verus, the Caesars,
+5   the lords, Phamenoth 24.

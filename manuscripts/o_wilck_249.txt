@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 249 — tax receipt (statue/bust assessment)
+# Source: papyri.info DDbDP o.wilck;;249  (Trismegistos 76816)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 249
+label:    O.Wilck. 249
+name:     Tax receipt — statue/bust assessment
+genre:    receipts
+date:     162 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14908
+content:  Ostracon tax receipt — statue/bust assessment, Syene/Elephantine
+tm:       76816
+source:   https://papyri.info/ddbdp/o.wilck;;249
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Οὐαλέριος Σερῆνος καὶ Παταχῆμις οἱ β]
+r.2   [πράκ(τορες) ἀργ(υρικῆς) Ἐλε]φ(αντίνης) δι[ὰ Πε]τορζμ(ή)θ(ου)
+r.3   [βοηθ(οῦ). διέγ]ρ(αψεν) Σαραπίων Ἀμωνίου μ(η)τ(ρὸς)
+r.4   Σενπετορζ(μήθιος) ὑπ(ὲρ) μερισμ(οῦ) ἀ[ν]δριά(ν)τ(ων) β καὶ
+r.5   προτομ(ῶν) β τῶν κυρίων Καισάρων (δραχμὰς) ι, καὶ
+r.6   ὑπ(ὲρ(?)) μερισμ(οῦ) οἰκοδ(ομίας) σκ(ο)π(έλου) (τριώβολον) χ(αλκοῦς) γ. (ἔτους) γ Ἀντωνίνου
+r.7   καὶ Οὐήρου Καισάρων τῶν κυρίων Φαῶφι ια.
+
+[TRANSLATION]
+1   [Valerius Serenos and Patachemis, the two]
+2   [collectors of the money-tax of Ele]phantine, thro[ugh Pe]torzm(ethes)
+3   [the assistant. Pa]id: Sarapion son of Amonios, mother
+4   Senpetorz(methes), for the assessment for 2 statues and
+5   2 busts of the lords Caesars: 10 dr., and
+6   for the assessment for the building of a watch-tower(?): 3 ob. 3 ch. Year 3 of Antoninus
+7   and Verus, the Caesars, the lords, Phaophi 11.

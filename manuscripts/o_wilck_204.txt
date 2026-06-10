@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 204 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;204  (Trismegistos 76772)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 204
+label:    O.Wilck. 204
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     146 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14183
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76772
+source:   https://papyri.info/ddbdp/o.wilck;;204
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Σωτὴρ καὶ Παπρεμίθης
+r.2   πράκ(τορες) ἀργυρικ(ῶν) Ἐλεφ(αντίνης).
+r.3   διέγρα(ψεν) Παπρεμίθ(ης)
+r.4   Ἁρπαῆσις μητ(ρὸς)
+r.5   Θιψενσνῶτος
+r.6   μερισμ(ὸν) θ (ἔτους)
+r.7   Ἀντωνίνου τοῦ
+r.8   κυρίου (δραχμὰς) δ Φαρ[μ(οῦθι)]
+
+[TRANSLATION]
+1   Soter and Papremithes,
+2   collectors of the money-taxes of Elephantine.
+3   Paid: Papremith(es)
+4   son of Harpaesis, mother
+5   Thipsensnotos,
+6   the assessment of the 9th year
+7   of Antoninus the
+8   lord: 4 dr. Phar[mouthi]

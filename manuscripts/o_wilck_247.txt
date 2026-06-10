@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 247 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;247  (Trismegistos 76814)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 247
+label:    O.Wilck. 247
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     162 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Vienna, Nationalbibliothek G. O. number unknown
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76814
+source:   https://papyri.info/ddbdp/o.wilck;;247
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἰος Σερῆνος καὶ Πς
+r.2   [οἱ β π]ράκ(τορες) ἀργ(υρικῆς) Ἐλεφαντ(ίνης) διὰ Μάρκ(ου) βο[η]θ(οῦ).
+r.3   [δι]έγρ(αψεν) Ἀτρατῖνος ὁ καὶ Κέφαλ(ος)
+r.4   Πέρσου μητ(ρὸς) Ταναπῶτις
+r.5   [ὑπ(ὲρ)] μερισμ(ῶν) β (ἔτους) (δραχμὰς) η (ὀβολοὺς) β𐅵. (ἔτους) β
+r.6   [Ἀντ]ω[νίνου] καὶ Οὐήρου
+r.7   [Καισάρων τ]ῶν κυρίων.
+
+[TRANSLATION]
+1   ...ios Serenos and P...s,
+2   [the two co]llectors of the money-tax of Elephantine, through Marcus the assistant.
+3   [P]aid: Atratinos also called Kephalos,
+4   son of Perses, mother Tanapotis,
+5   [for the] assessments of the 2nd year: 8 dr. 2½ ob. Year 2
+6   [of Anto]n[inus] and Verus,
+7   [the Caesars,] the lords.

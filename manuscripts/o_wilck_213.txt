@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 213 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;213  (Trismegistos 76781)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 213
+label:    O.Wilck. 213
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     147 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7190
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76781
+source:   https://papyri.info/ddbdp/o.wilck;;213
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἑρμογένης καὶ Γερμανὸς καὶ
+r.2   Ἵεραξ καὶ Παπρεμείθ(ης) οἱ δ πράκ(τορες) ἀργ(υρικῆς) Ἐλεφ(αντίνης).
+r.3   διέγρα(ψεν) Μηνόφειλος μείζω(ν) Ὀρβαεῖ[δ(ος)]
+r.4   μητ(ρὸς) Τισᾶτις ὑπ(ὲρ) μερισμ(ῶν) ι (ἔτους) Ἀντωνίνου
+r.5   Καίσαρος τοῦ κυρίου ῥυπ(αρὰς) δραχ(μὰς) τέσσαρες
+r.6   (γίνονται) (δραχμαὶ) δ Φαμενὼθ ϛ. Ἑρμογένης σε-
+r.7   σημαίομαι (δραχμὰς) δ.
+
+[TRANSLATION]
+1   Hermogenes and Germanos and
+2   Hierax and Papremith(es), the four collectors of the money-tax of Elephantine.
+3   Paid: Menopheilos the elder, son of Orbaei[s],
+4   mother Tisatis, for the assessments of the 10th year of Antoninus
+5   Caesar the lord: (worn) four drachmas
+6   — total 4 dr. Phamenoth 6. I, Hermogenes, have
+7   signed off: 4 dr.

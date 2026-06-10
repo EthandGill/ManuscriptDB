@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 210 — tax receipt (palm-grove land-tax)
+# Source: papyri.info DDbDP o.wilck;;210  (Trismegistos 76778)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 210
+label:    O.Wilck. 210
+name:     Tax receipt — palm-grove land-tax
+genre:    receipts
+date:     146 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12086
+content:  Ostracon tax receipt — palm-grove land-tax, Syene/Elephantine
+tm:       76778
+source:   https://papyri.info/ddbdp/o.wilck;;210
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ζήνων μισθωτ(ὴς) ἱ ερᾶ[ς πύλ(ης) Σοήνης διὰ]
+r.2   Σωκράτ(ους) Ἀμμωνίου βοηθ(οῦ). δ[ιέγραψεν]
+r.3   Θιννεβδοοὺς καὶ Θινατ( ) ἀμ[φότ(εραι)]
+r.4   Πετορσμήθ(ιος) τόπ(ων) β ὑπ(ὲρ) γεομετρί[ας]
+r.5   φοινικ(ῶνος) θ (ἔτους) ῥυπ(αρὰς) δραχμ(ὰς) ὀκτὼ ἱμιω[βολον]
+r.6   (γίνονται) (δραχμαὶ) η (ἡμιωβέλιον) . (ἔτους) ι Ἀντωνίνου Καίσαρος τοῦ
+r.7   κυρίου Ἁθὺρ κγ.
+
+[TRANSLATION]
+1   Zenon, lessee of the Sacre[d Gate of Syene, through]
+2   Sokrates son of Ammonios the assistant. P[aid:]
+3   Thinnebdoous and Thinat(…), bo[th]
+4   daughters of Petorsmethes, (for) 2 plots, for the land-survey ta[x]
+5   on a palm-grove of the 9th year: (worn) eight drachmas (and) a half-ob[ol]
+6   — total 8 dr. ½ ob. Year 10 of Antoninus Caesar the
+7   lord, Hathyr 23.

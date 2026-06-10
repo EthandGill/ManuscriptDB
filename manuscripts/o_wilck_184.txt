@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 184 — tax receipt (palm-grove land-tax)
+# Source: papyri.info DDbDP o.wilck;;184  (Trismegistos 24737)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 184
+label:    O.Wilck. 184
+name:     Tax receipt — palm-grove land-tax
+genre:    receipts
+date:     141 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities A.T. 85 g
+content:  Ostracon tax receipt — palm-grove land-tax, Syene/Elephantine
+tm:       24737
+source:   https://papyri.info/ddbdp/o.wilck;;184
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Ἰσίδω]ρος καὶ Ἡρακλείδης μισθ(ωταὶ)
+r.2   [ἱ]ερᾶς πύ(λης) Σοήνης διὰ Σαραπίω-
+r.3   νος βοηθ(οῦ), διέγραψ(εν) Παχόμιος
+r.4   Παχομίο(υ) τοῦ ὑπ(ὲρ) γεομετ(ρίας)
+r.5   [φ]οινικῶνος γενήματος τοῦ
+r.6   [δ] (ἔτους) Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.7   δραχ(μὰς) εἴκοσι ἓξ ὀβολ(οὺς) τέσσαρ(ας),
+r.8   [(γίνονται)] (δραχμαὶ) κϛ(τετρώβολον). (ἔτους) ε Ἀντω[νείνου]
+r.9   τοῦ κυρίου Ἁθὺρ ε.
+
+[TRANSLATION]
+1   [Isido]ros and Herakleides, lessees
+2   of the Sacred Gate of Syene, through Sarapio-
+3   n the assistant. Paid: Pachomios
+4   son of Pachomios, for the land-survey tax
+5   on a palm-grove, of the produce of the
+6   [4th] year of Antoninus Caesar the lord:
+7   twenty-six drachmas (and) four obols,
+8   [total] 26 dr. 4 ob. Year 5 of Anto[ninus]
+9   the lord, Hathyr 5.

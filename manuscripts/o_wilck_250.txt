@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 250 — tax receipt (trade-tax (cheironaxion))
+# Source: papyri.info DDbDP o.wilck;;250  (Trismegistos 76817)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 250
+label:    O.Wilck. 250
+name:     Tax receipt — trade-tax (cheironaxion)
+genre:    receipts
+date:     163 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 5800
+content:  Ostracon tax receipt — trade-tax (cheironaxion), Syene/Elephantine
+tm:       76817
+source:   https://papyri.info/ddbdp/o.wilck;;250
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Οὔλπιος Κερεᾶλις μισθ(ωτὴς) ἱερᾶς
+r.2   πύλης Σοήνης διὰ Παχνοῦβις
+r.3   Πετορζ(μήθου) βοηθ(οῦ). διέγρα(ψεν) Πατσίβτις
+r.4   Πετορζ(μήθου) μη(τρὸς) Σενπελαίας ὑπ(ὲρ)
+r.5   χειρω(ναξίου) γ (ἔτους) δραχ(μὰς) εἴκοσι ὀβολ(οὺς)
+r.6   δύο (γίνονται) (δραχμαὶ) κ(διώβολον). (ἔτους) γ
+r.7   Ἀντωνίνου καὶ Οὐήρου
+r.8   Καισάρων τῶν κυρίων
+r.9   Σεβαστῶν Φαμενὼθ λ.
+
+[TRANSLATION]
+1   Ulpius Cerealis, lessee of the Sacred
+2   Gate of Syene, through Pachnoubis
+3   son of Petorz(methes), the assistant. Paid: Patsibtis
+4   son of Petorz(methes), mother Senpelaias, for
+5   the trade-tax of the 3rd year: twenty drachmas (and) ob-
+6   ols two — total 20 dr. 2 ob. Year 3
+7   of Antoninus and Verus,
+8   the lords Caesars,
+9   the Augusti, Phamenoth 30.

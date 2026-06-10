@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 149 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;149  (Trismegistos 76721)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 149
+label:    O.Wilck. 149
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     129 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 6 (ostracon)
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       76721
+source:   https://papyri.info/ddbdp/o.wilck;;149
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Καλασῖρις πράκ(τωρ) ἀργ(υρικῆς) δι]ὰ Οὐάλ(εντος) βοηθ(οῦ). διέγραψ(εν)
+r.2   [Πετορζμῆθις μείζω(ν)] Πουήρεω(ς) μη(τρὸς) Τισᾶτις
+r.3   [ὑπ(ὲρ) - ca.11 -] τοῦ κυρίο(υ) Ἁδριανοῦ
+r.4   [- ca.9 -] (ἔτους) ιγ Ἁδριανοῦ
+r.5   [Καίσαρος τοῦ] κυρίο(υ) Ἐπεὶφ κε.
+
+[TRANSLATION]
+1   [Kalasiris, collector of the money-tax,] through Valens the assistant. Paid:
+2   [Petorzmethis the elder,] son of Poueris, mother Tisatis,
+3   [for …] of Hadrian the lord,
+4   […] year 13 of Hadrian
+5   [Caesar the] lord, Epeiph 25.

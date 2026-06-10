@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 258 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;258  (Trismegistos 76825)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 258
+label:    O.Wilck. 258
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     165 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 5 (Greek)
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76825
+source:   https://papyri.info/ddbdp/o.wilck;;258
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   [Λονγεῖνος Σερ]ῆνος καὶ Πετρῶνις
+r.2   [Βᾶρις πράκ(τορες) ἀ]ργ(υρικῆς) Ἐ(λ)εφαντ(ίνης) διὰ Πετορ-
+r.3   [ζμήθ(ου) βοηθ(οῦ). διέγρ(αψεν) Ἁ]ρπαῆσις Πετεσούχου
+r.4   [μητ(ρὸς) Σενπετορ]ζμήτ(ιος) ὑπ(ὲρ) μερισ(μῶν) ε (ἔτους) ἐπὶ λόγ(ου) (δραχμὰς) δ.
+r.5   [(ἔτους) ε Ἀντωνίν]ου καὶ Οὐήρου Καισάρων τῶν
+r.6   [κυρίων Παχ]ὼν κζ.
+
+[TRANSLATION]
+1   [Longinus Ser]enos and Petronis
+2   [Baris, collectors of the] money-tax of Elephantine, through Petor-
+3   [zmethes the assistant. Paid: Ha]rpaesis son of Petesouchos,
+4   [mother Senpetor]zmethis, for the assessments of the 5th year, on account: 4 dr.
+5   [Year 5 of Antonin]us and Verus, the Caesars, the
+6   [lords, Pach]on 27.

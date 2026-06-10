@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 214 — tax receipt (assessment (merismos))
+# Source: papyri.info DDbDP o.wilck;;214  (Trismegistos 76782)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 214
+label:    O.Wilck. 214
+name:     Tax receipt — assessment (merismos)
+genre:    receipts
+date:     146/147 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12106
+content:  Ostracon tax receipt — assessment (merismos), Syene/Elephantine
+tm:       76782
+source:   https://papyri.info/ddbdp/o.wilck;;214
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἑρμογένη[ς καὶ Γερμανὸς καὶ]
+r.2   οἱ σὺν αὐτ(οῖς) πρά[κ(τορες) ἀργ(υρικῆς) Ἐλεφ(αντίνης). διέγρ(αψεν)]
+r.3   Παχνοῦβις Π[ ]
+r.4   ὑπ(ὲρ) μερισμ(ῶν) ι (ἔτους) Ἀντω[νίνου Καίσαρος τοῦ]
+r.5   κυρίου ῥυπ(αρὰς) δραχ(μὰς) τέσσ[αρας (γίνονται) (δραχμαὶ) δ ]
+r.6   ι. (hand 2) Ἑρμογένης σεσημ[είωμαι (δραχμὰς) δ].
+
+[TRANSLATION]
+1   Hermogene[s and Germanos and]
+2   those with them, colle[ctors of the money-tax of Elephantine. Paid:]
+3   Pachnoubis son of P[...]
+4   for the assessments of the 10th year of Anto[ninus Caesar the]
+5   lord: (worn) four drach[mas — total 4 dr. ...]
+6   10(?). (2nd hand) I, Hermogenes, have signed off [: 4 dr.].

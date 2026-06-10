@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 112 — tax receipt (river-guard assessment (potamophylakis))
+# Source: papyri.info DDbDP o.wilck;;112  (Trismegistos 76686)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 112
+label:    O.Wilck. 112
+name:     Tax receipt — river-guard assessment (potamophylakis)
+genre:    receipts
+date:     119 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 14171 (5805d)
+content:  Ostracon tax receipt — river-guard assessment (potamophylakis), Syene/Elephantine
+tm:       76686
+source:   https://papyri.info/ddbdp/o.wilck;;112
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Σανμοὺς πράκ(τωρ). διέγραψ(εν)
+r.2   Πετορζμῆθις Πετορζμήθ(ιος)
+r.3   μη(τρὸς) Θιπουῆρις ὑπ(ὲρ) μερισμ(οῦ) ποτα-
+r.4   μοφυλ(ακίδος) γ (ἔτους) Ἁδριανοῦ τοῦ κυρίο(υ)
+r.5   ἀργ(υρίου) (δραχμὰς) δύο, καὶ ὑπ(ὲρ) β (ἔτους) τριώβο(λον).
+r.6   Σαρ(απίων) γρ(αμματεὺς) ἔγρ(αψα) Μεχ(ὶρ) κθ.
+
+[TRANSLATION]
+1   Sanmous, collector. Paid:
+2   Petorzmethis son of Petorzmethis,
+3   mother Thipoueris, for the assessment of the river-
+4   guard, 3rd year of Hadrian the lord:
+5   two silver drachmas, and for the 2nd year, three obols.
+6   I, Sarapion the scribe, wrote (this), Mecheir 29.

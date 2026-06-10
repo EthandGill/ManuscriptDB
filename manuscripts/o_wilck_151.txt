@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 151 — tax receipt (poll-tax (laographia))
+# Source: papyri.info DDbDP o.wilck;;151  (Trismegistos 24736)
+# Scraped via Firecrawl; apparatus trimmed, markers normalised.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 151
+label:    O.Wilck. 151
+name:     Tax receipt — poll-tax (laographia)
+genre:    receipts
+date:     129/130 CE
+language: Greek (Koiné)
+found:    Syene / Elephantine (Aswan), Egypt
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities A.T. 87 c
+content:  Ostracon tax receipt — poll-tax (laographia), Syene/Elephantine
+tm:       24736
+source:   https://papyri.info/ddbdp/o.wilck;;151
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1   Ἀντίοχος Κασσιανὸς καὶ οἱ σὺν αὐτῷ
+r.2   ἐπιτηρη(ταὶ) ἱερᾶς πύλ(ης) Σοήνη(ς) διὰ Φανώφ(εως) βοηθ(οῦ),
+r.3   διέγρ(αψεν) Βιῆγχ(ις) Ζμήτ(ιος) μητ(ρὸς) Σεν ὑπ(ὲρ) λαογρ(αφίας)
+r.4   ιδ (ἔτους) [Ἁδρ]ιανοῦ τοῦ κυρίου [δρ]αχ(μὰς) δεκαεπτὰ (ἡμιωβέλιον) δεσμ(ῆς) (ἡμιωβέλιον)
+r.5   (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς) καὶ ὑ[π(ὲρ)] μερισμο(ῦ) ἐπικεφαλί[ου] ἀνακεχ(ωρηκότων) τοῦ
+r.6   ιγ (ἔτους) Ἁδρι[αν]οῦ τοῦ κυρίου δραχ(μὴν) [μία]ν ἡμιώβολον, (γίνεται) (δραχμὴ) α(ἡμιωβέλιον). (ἔτους) ι[δ]
+r.7   Ἁδριανοῦ τοῦ κυρίου.
+
+[TRANSLATION]
+1   Antiochos Cassianus and those with him,
+2   overseers of the Sacred Gate of Syene, through Phanophis the assistant.
+3   Paid: Bienchis son of Zmethis, mother Sen…, for the poll-tax
+4   of the 14th year of Hadrian the lord: seventeen drachmas (and) a half-obol, (and) ½ obol (keepers' fee)
+5   — total 17 dr. 1 ob.; and for the assessment of the head-tax of those who had withdrawn, of the
+6   13th year of Hadrian the lord, one drachma (and) a half-obol — total 1 dr. ½ ob. Year 14
+7   of Hadrian the lord.
