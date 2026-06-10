@@ -1,0 +1,105 @@
+# ───────────────────────────────────────────────
+# BGU 3 814 — Private letter — a young soldier to his mother
+# Source: papyri.info DDbDP bgu;3;814  (Trismegistos 31238)
+# Scraped via Firecrawl; apparatus trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.814
+label:    BGU 3.814
+name:     Private letter — a young soldier to his mother
+genre:    letters
+date:     3rd century CE
+language: Greek (Koiné)
+found:    Arsinoite nome, Fayum, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 7098
+content:  Private letter — a young soldier to his mother
+tm:       31238
+source:   https://papyri.info/ddbdp/bgu;3;814
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   [ γλυκυτ(?)]άτ [μου μητρ]ὶ πλεῖστα χαίρειν.
+r.2   [πρὸ μὲν πά]ντων ε[ὔχομαί σ]ε ὑ γιαίνειν μετὰ τῶν σῶν
+r.3   [πάντων. κ]αλῶς π[οιήσεις] κ[ο]μισάμενός μου τὸ ἐπι-
+r.4   [στόλιον, π]έμψις μ[οι δια]κοσίας δραχμάς. ὅτε Γέμεινος
+r.5   [πρὸς ἐμὲ] ἦλθεν, ο[ὐκ ἔσχ]ον εἰ μὴ εἴκοσι στατῆρες ,
+r.6   [νῦν δὲ οὐ]χ ἕνα, ὅτ[ι ἡμι]ονικὸν ἅρμα ἔλαβα καὶ ὅ-
+r.7   [λον τὸν χ]αλκὸν [δεδα]πάνηκα εἰς αὐτω . ταῦτά σοι
+r.8   [ἔγραψ]α ἵνʼ εἰδῇς. [πέμψει]ς μοι ἀβόλλην καὶ βύρρον
+r.9   [ ]νταν καὶ [ζεῦγο]ς φασκίων καὶ ζεῦγος ἱματίω(ν)
+r.10   [χρωμ]ατίνων καὶ [ἔλαιο]ν καὶ τὸ τρ/ουλιν ὡς εἶπές μοι
+r.11   [καὶ βα]ρυγαύτην κ[αὶ ζεῦγο]ς κερβικαρίων καὶ Γερμανὸν
+r.12   [ἐπεὶ χρ]είαν αὐτοῦ [ἔχω] . τ[ὸ] λοιπὸν οὖν, μῆτηρ , πέμψις
+r.13   [μοι ἐπ]ιμήνεια ἐν[τάχι]ον. ταῦτά μοι ἔλεγες, ὅτε ἦλθα
+r.14   [πρός σ]ε, ὅτι πρὸ τοῦ [εἰσέ]λθοις εἰς τὴν παρεμπολήν σου
+r.15   [πρός] σε πέμπω ἕν[α τ]ῶν ἀδελφῶν σου καὶ οὐδέν μοι
+r.16   [ἔπε]μψε[ς], ἀλλὰ ἀφ[ῆ]κ[ές] μοι οὕτως μηδὲν ἔχων
+r.17   [- ca.13 -] μηδὲ ἄλλου μηδέν. οὐκ εἶπες ὅτι
+r.18   [ ] [ οὐ]κ ἔχων οὐ χαλκὸν ο[ὐ]κ οὐδέν, ἀλλὰ ἀφῆκές
+r.19   [μοι οὕ]τω[ς] ὡς κύων καὶ ὁ πατήρ μου πρὸς ἐμὲ ἐλθ
+r.20   οὐκ ἔδωκ[έν μο]ι ὀβολὸν οὐ βύρρον οὐκ οὐδέν, ἀλλὰ πάντες
+r.21   καταγελῶσί μοι, ὅτι ὁ πατὴρ αὐτοῦ στρατεύεται, οὐδὲν
+r.22   αὐτῷ δέδ[ω]κε, ἔλεγε ὅτι ἐὰν ἀπέλθω εἰς οἶκον, πέμπω σ[οι]
+r.23   πάντα· οὐδέν μ[ο]ι ἐπέμψαται . διὰ τεί ; ἡ μήτηρ Οὐαλερίου
+r.24   ἔπεμψε α[ὐ]τῷ ζεῦγος ὑποζωνῶν καὶ κεραμεῖον ἐλαίου
+r.25   κ[αὶ] σφυρίδαν κρεδίων καὶ δίλασσον καὶ διακοσίας δραχμὰς
+r.26   [ ]εο λαρουτος . ἐρωτῶ σε οὖν, μήτηρ , πέμψις πρὸς ἐμέ,
+r.27   μὴ ἀφήσις μοι οὕτος , ἀλλὰ ἀπῆλθα, κέχρημαι χαλκὸν
+r.28   π[α]ρὰ συστρατιώτου καὶ παρὰ τοῦ ὀπτίωνός μου καὶ ὁ ἀδελ-
+r.29   φός μου Γέμελλος ἔπεμψέ μοι ἐπιστολὴν καὶ βρακέλλας.
+r.30   γείνωσκε , ὅτι λοιποῦμαι , ὅτι οὐκ ἀπῆλθα ἐνγὺς τοῦ ἀδελφοῦ
+r.31   κ[αὶ] αὐτὸς λυπεῖτ[αι] ὅτι οὐκ ἀπῆλ[θ]α ἐνγὺς αὐτοῦ· ἔπεμ-
+r.32   ψέ ἐπι]στολὴν μεμφόμενός μου, ὅτι εἰς ἄλλην χώρδην
+r.33   [ἀπῆλθα. γ]ράφω σοι οὖν ταῦτα, ἵνʼ εἰδῇς, μήτηρ . καλῶς
+r.34   [ποιήσεις κ]ομισάμενός μου τὸ ἐπιστόλιν ἐντάχειον
+r.35   [πέμψις πρὸ]ς ἐμαί . γείνωσκε , ὅτι ὁ ἀδελφός μου Γέμελλος
+r.36   [εἰς - ca.8 - ]λην <ἔπεμψε καὶ> ἀπῆ[λ]θε. ἀσπάζομαι τοὺς ἐν οἰκί[ᾳ] πάντες
+r.37   [τοὺς σοὺς], ἀσπάζομαι Ἀπωλλινάριον καὶ Οὐαλέρ[ι]ον καὶ Γέμιν[ον],
+r.38   [ἀσπάζομαι καὶ το]ὺς φιλοῦντος ἡμᾶς πάντες .
+r.39   (perpendicular) [⁦ -ca.?- ⁩] πέμψ[ει]ς πρὸς ἐμέ, ἐὰν εἰδῇς οὐδεὶς το [⁦ -ca.?- ⁩]
+r.40   (perpendicular) 40 [⁦ -ca.?- ⁩] εἶπέ μοι ὁ πατ[ή]ρ [⁦ -ca.?- ⁩]
+
+[TRANSLATION]
+1   To my [sweet]est mother, very many greetings.
+2   [Before all] things I pray for your health together with all your (folk).
+3   You will do [well], on receiving my
+4   letter, to send me two hundred drachmas. When Geminus
+5   [came to me], I had nothing but twenty staters,
+6   [but now not] one, because I bought a mule-cart and
+7   spent [all the] money on it. I wrote these things to you
+8   so that you may know. [You will send] me a cloak (abolla) and a hooded mantle (birrus),
+9   [...] and a pair of leggings and a pair of
+10   coloured garments, and oil, and the little basin(?) as you told me,
+11   [and] a heavy cloak(?) and a pair of pillows (cervicaria) and Germanus,
+12   [since I have] need of him. For the rest, mother, you will send
+13   me my monthly supplies quickly. You told me these things when I came
+14   to you: that before you enter your camp(?)
+15   I will send you one of your brothers; and you sent me nothing,
+16   but you left me thus with nothing,
+17   [...] nor anything from anyone else. You did not say that
+18   [...] having nothing, neither money nor anything, but you left
+19   me thus like a dog; and my father, coming to me,
+20   gave me not an obol, not a hooded mantle, not anything; but everyone
+21   laughs at me, (saying) that 'his father is a soldier (and) gave him nothing.'
+22   He kept saying that 'when I go home I will send you
+23   everything' — (but) he sent me nothing. Why? The mother of Valerius
+24   sent him a pair of girdles and a jar of oil
+25   and a little basket of preserved meat and a money-belt(?) and two hundred drachmas
+26   [...]. So I ask you, mother, send (something) to me,
+27   do not leave me thus; for I went off (and) have borrowed money
+28   from a fellow-soldier and from my optio. And my broth-
+29   er Gemellus sent me a letter and trousers (bracae).
+30   Know that I am grieved that I did not go off near my brother,
+31   and he himself is grieved that I did not go off near him; he
+32   sent a letter blaming me, that I went off to another unit.
+33   So I write you these things, mother, that you may know. You will do well,
+34   on receiving my letter, to send (a reply) to me quickly.
+35   Know that my brother Gemellus
+36   <sent and> went off to …len. I greet all those in the house,
+37   [your folk]; I greet Apollinarios and Valerios and Geminos,
+38   [I greet also] all those who love us.
+39   (written sideways) [...] you will send to me, if you know that no one [...]
+40   [...] my father said to me [...]

@@ -1,0 +1,53 @@
+# ───────────────────────────────────────────────
+# P.Mich. 8 506 — Private letter — Valerianus to Sokrates (come quickly)
+# Source: papyri.info DDbDP p.mich;8;506  (Trismegistos 27116)
+# Claudius Tiberianus / Apollinarius archive (Karanis). Scraped via Firecrawl.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Mich. 8.506
+label:    P.Mich. 8.506
+name:     Private letter — Valerianus to Sokrates (come quickly)
+genre:    letters
+date:     2nd–3rd century CE
+language: Greek (Koiné)
+found:    Egypt (Karanis archive), Fayum
+held:     (see shelf)
+shelf:    Ann Arbor, Michigan University Library P. 4708 a
+content:  Private letter — Valerianus to Sokrates (come quickly)
+tm:       27116
+source:   https://papyri.info/ddbdp/p.mich;8;506
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   [Οὐαλε]ριανὸς Σωκράτει
+r.2   χαίρειν.
+r.3   [ἀ]νανκαίως ταχὺ κατάντη-
+r.4   σον ἐνθάδε ἐπεὶ φίλος μου Αὐ-
+r.5   λίατος τὸ πρᾶγμά σ[ο]ι ἀπαλλά-
+r.6   ξαι ἤδη ὑπέ[σ]χετό μοι καταν-
+r.7   τήσαν[τι] τ[ο]ῦ ἐξ[αι]τήσασθαι α[ὐ-]
+r.8   τό. ὅρα ο[ὖ]ν μὴ βραδύνῃς μή-
+r.9   ποτε ἐξάπινα ἀποπλεύσῃ
+r.10   [Ἰ]ούλιος. χαρειεῖς καὶ τούτῳ ἐπεὶ
+r.11   [ξ]ένος ἄνθρωπός ἐστι. ἀσπάζε-
+r.12   ταί σε ἡ θυγάτηρ σου.
+r.13   (hand 2) ἔρρωσο.
+r.14   [⁦ -ca.?- ⁩ Σω]κράτει.
+
+[TRANSLATION]
+1   [Vale]rianus to Sokrates,
+2   greetings.
+3   Necessarily come down quick-
+4   ly here, since my friend Au-
+5   liatos has already promised me, on my coming
+6   down, to settle the matter for you,
+7   (so) that I may request
+8   it. So see that you do not delay, lest
+9   suddenly Julius sail away.
+10   You will oblige him too, since
+11   he is a stranger. There greets
+12   you your daughter.
+13   (2nd hand) Farewell.
+14   [… to So]krates.

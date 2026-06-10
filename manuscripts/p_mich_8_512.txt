@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# P.Mich. 8 512 — Private letter — Ptolemaios to his son Heron (a sale)
+# Source: papyri.info DDbDP p.mich;8;512  (Trismegistos 30512)
+# Claudius Tiberianus / Apollinarius archive (Karanis). Scraped via Firecrawl.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Mich. 8.512
+label:    P.Mich. 8.512
+name:     Private letter — Ptolemaios to his son Heron (a sale)
+genre:    letters
+date:     early 3rd century CE
+language: Greek (Koiné)
+found:    Alexandria, Egypt (place of writing)
+held:     (see shelf)
+shelf:    Ann Arbor, Michigan University Library P. 4749 a
+content:  Private letter — Ptolemaios to his son Heron (a sale)
+tm:       30512
+source:   https://papyri.info/ddbdp/p.mich;8;512
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   Πτολεμαῖος Ἥρωνι τῶι υἱ ῷ χαίρειν.
+r.2   μέχρι σήμερον οὐχ εὕραμεν ἀγοραστήν. ἐκχωρῶ
+r.3   πάντα Διδύμῳ ἐπὶ τῷ λαβεῖν μετὸ τρίτον μέρος
+r.4   τοῦ δανείου καὶ τῶν ἄλλων. εἰ μὴ ὅτι συνεζήτηκα
+r.5   τῷ Πτολεμαίῳ πάλαι ἂν ἀπηλλαγμένοι ἠσμεν · ὠργίσθη
+r.6   γὰρ καταβάς. διὸ γράφω σοι ἵνʼ εἰδῇς. ἀσπάζου
+r.7   [τὰ τέ]κνα σου καὶ π[άντ]ας τοὺς σοὺς καὶ Τάι ν καὶ τὰ τέκνα αὐτῆς.
+r.8   ἐ[ρρῶσθαί σε εὔχομαι].
+r.9   ἀπόδος Ἥρωνι ὁριο[δείκτῃ].
+
+[TRANSLATION]
+1   Ptolemaios to Heron, his son, greetings.
+2   Up to today we have not found a buyer. I cede
+3   everything to Didymos, on (his) taking a third part
+4   of the loan and of the rest. Had I not disputed
+5   with Ptolemaios, we would long ago have been quit; for he was angered
+6   on coming down. So I write to you that you may know. Greet
+7   your [chil]dren and a[l]l your (folk) and Tais and her children.
+8   I [pray for your health].
+9   Deliver to Heron the land-sur[veyor].

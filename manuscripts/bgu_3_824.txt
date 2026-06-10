@@ -1,0 +1,67 @@
+# ───────────────────────────────────────────────
+# BGU 3 824 — Private letter — Papireis to Kialetes (a jewelry-box)
+# Source: papyri.info DDbDP bgu;3;824  (Trismegistos 9371)
+# Scraped via Firecrawl; apparatus trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.824
+label:    BGU 3.824
+name:     Private letter — Papireis to Kialetes (a jewelry-box)
+genre:    letters
+date:     97/98 CE
+language: Greek (Koiné)
+found:    Arsinoite nome, Fayum, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 7396
+content:  Private letter — Papireis to Kialetes (a jewelry-box)
+tm:       9371
+source:   https://papyri.info/ddbdp/bgu;3;824
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Παπίρεις Κιαλήτει
+r.2   τῷ φ[ι]λτάτωι χαίρειν.
+r.3   πρὸ μὲν πάντων ἀναγ-
+r.4   καῖω[ν] ἡγησάμην διὰ
+r.5   ἐπιστολῆς σε ἀσπάσασθαι/ [ ]
+r.6   δὲ γινώσκ[ει]ν σε θέλωι ,
+r.7   ὅτει ἀπε͂λθον παρὰ
+r.8   Καλ[ ] μην. γνώσῃ,
+r.9   ὅτει τα τὸ γλοσσο-
+r.10   κομῖον ἐπιδέδωκα
+r.11   Στοτοήτει τῷ παρὰ
+r.12   Παρεῦμις ξυλάριον
+r.13   ἐρίκινον δῶναι αὐτῶι.
+r.14   παράβαλε οὖν ἐκεῖ, εἵνα
+r.15   συντόμως αὐτὸ ποιήσῃ
+r.16   καὶ καλόν. ἐρρῶσθαι.
+r.17   μὴ οὖν ἄλλ[ως ποιῇς(?)]
+r.18   ἀ[σ]πάζου Παρεῦμιν.
+r.19   ἔτους δευτέρο(υ) Αὐτοκράτορος Νέρουα
+r.20   Καίσαρος Σεβαστοῦ [⁦ -ca.?- ⁩]
+r.21   ἀπὸ Παπίριος [☓ Κι]αλήτει
+
+[TRANSLATION]
+1   Papireis to Kialetes,
+2   his dearest (friend), greetings.
+3   Before all things I deemed (it) neces-
+4   sary, through
+5   a letter, to greet you; [and]
+6   I want you to know,
+7   that I went off to
+8   Kal… . You will know,
+9   that I have handed over the jewelry-
+10   box
+11   to Stotoetis, the agent of
+12   Pareumis — a little (box)
+13   of heather-wood — to give it to him.
+14   So go over there, so that
+15   he may make it quickly
+16   and well. Farewell.
+17   So do not do oth[erwise].
+18   Greet Pareumis.
+19   Year two of Imperator Nerva
+20   Caesar Augustus [...]
+21   From Papireis ☓ to Kialetes.

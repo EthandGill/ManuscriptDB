@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# BGU 3 848 — Official letter — Satyros to the actarius (tax collection)
+# Source: papyri.info DDbDP bgu;3;848  (Trismegistos 31240)
+# Scraped via Firecrawl; apparatus trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.848
+label:    BGU 3.848
+name:     Official letter — Satyros to the actarius (tax collection)
+genre:    letters
+date:     3rd century CE
+language: Greek (Koiné)
+found:    Egypt (provenance unknown)
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 7284
+content:  Official letter — Satyros to the actarius (tax collection)
+tm:       31240
+source:   https://papyri.info/ddbdp/bgu;3;848
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Σάτυρος μα( ) τῷ ἀκταρί[ῳ] πλεῖστα
+r.2   χαίριν
+r.3   καλῶς ποιήσις εκυ[ ]ας σα τὸν σι
+r.4   στ(ρατηγ ) μετὰ τῶν πρα[κ]τόρω[ν] ε[ ]ν
+r.5   ων κη ἄν σοι ποιήσῃ ν [ ] ε
+r.6   ἢ ἂν μὴ ποιῇ σοι τὴν χά[ρ]ιν [ ] δέ-
+r.7   ξαι σοὶ αὐτὰ ιϛ στὸν ἑξῆς μ[ ]α
+r.8   ἔρρωσω [κ]ύριε
+
+[TRANSLATION]
+1   Satyros, …, to the actarius, very many
+2   greetings.
+3   You will do well … the …
+4   the strategos with the collectors …
+5   … whatever he may do for you …
+6   or if he does not do you the favour …, re-
+7   ceive them for yourself, 16, the next …
+8   Farewell, lord.

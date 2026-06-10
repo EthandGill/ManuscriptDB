@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# P.Mich. 8 505 — Private letter — Valerianus to Sokrates (money)
+# Source: papyri.info DDbDP p.mich;8;505  (Trismegistos 27115)
+# Claudius Tiberianus / Apollinarius archive (Karanis). Scraped via Firecrawl.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Mich. 8.505
+label:    P.Mich. 8.505
+name:     Private letter — Valerianus to Sokrates (money)
+genre:    letters
+date:     2nd–3rd century CE
+language: Greek (Koiné)
+found:    Egypt (Karanis archive), Fayum
+held:     (see shelf)
+shelf:    Ann Arbor, Michigan University Library P. 4750 e
+content:  Private letter — Valerianus to Sokrates (money)
+tm:       27115
+source:   https://papyri.info/ddbdp/p.mich;8;505
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Οὐαλεριανὸς Σωκράτῃ χαίρειν.
+r.2   ὁ ὑπηρέτης παρʼ ᾧ τὸν χαλκὸν ἐθε-
+r.3   ματίσαμεν λέγει δεδωκέναι τῶι
+r.4   πράκτορι ὡς ἵ να σοι μεταβάληται.
+r.5   καὶ ἐπεὶ ἡ ἑορτὴ προσεγγίζει ἐν ᾗ
+r.6   ἴ σως καὶ σὺ καὶ ὁ πράκτωρ ἀνελεύ-
+r.7   σεσθε οὐδὲν πλέον ἐποίησα.
+r.8   σὺ οὖν σύμβαλε τῷ πράκτορι
+r.9   Σωκρ[ά]τει.
+
+[TRANSLATION]
+1   Valerianus to Sokrates, greetings.
+2   The attendant with whom we deposit-
+3   ed the money says he has given (it) to the
+4   tax-collector, so that he may transfer (it) to you.
+5   And since the festival is approaching, in which
+6   perhaps both you and the tax-collector will go
+7   up, I did nothing further.
+8   So you settle (it) with the tax-collector,
+9   Sokrates.

@@ -118,3 +118,54 @@ installs `cloudflared` if missing, starts `python app.py`, and prints a public
 temporary and changes each run; keep the window open while sharing, Ctrl+C to
 stop. For a permanent address, register a domain on Cloudflare and create a named
 tunnel (`cloudflared tunnel create` + a DNS route) instead.
+
+## Continuous bulk import (run without re-prompting)
+
+To import many manuscripts in one autonomous run instead of one-at-a-time:
+
+1. **Build the worklist:** `python make_queue.py` scans `manuscripts/` and writes
+   `import_queue.txt` with every Gregory-Aland number still missing (gaps in
+   P1–P141 by default; `--max N` to extend). Skip rules: lines starting with `#`
+   or `DONE ` are ignored, so items can be ticked off as `DONE P14`.
+2. **Turn off the pauses:** in Claude Code press **Shift+Tab** to reach
+   *auto-accept edits* / bypass-permissions, or add an allowlist to
+   `.claude/settings.json` (see below) so the run never stops for approval.
+3. **Kick it off with one looping prompt** (this is the whole point — it does not
+   stop between manuscripts):
+
+   > Work through `import_queue.txt` top to bottom. For each ID not already in
+   > `manuscripts/`, run the full grab-manuscript flow (probe -> `import_manuscript.py`
+   > -> post-process folio labels -> `extract_verses.py` -> translate every verse
+   > faithfully from the actual Greek per Step 5). Then mark that line `DONE` in
+   > the queue and **immediately continue to the next without asking me**. Don't
+   > stop until the queue is empty. If one manuscript errors, append it to
+   > `import_errors.log` and move on to the next.
+
+   Re-running the same prompt later resumes where it left off (DONE lines skip).
+
+**Speed:** the probe/import/post-process steps need no model, so for raw Greek
+import you can fan out parallel subagents (one per manuscript). The translation
+step needs the model, so it runs in the main session as the loop proceeds.
+
+**Unattended / scheduled:** for hands-off recurring runs, schedule a headless call
+on Windows Task Scheduler, e.g. daily:
+`claude -p "process the next 10 items in import_queue.txt per CLAUDE.md"`
+(run from `C:\ManuscriptDB`). The NTVMR fetch needs outbound internet, so this
+runs on your machine, not on a restricted host.
+
+**Permission allowlist** (paste into `.claude/settings.json` to avoid prompts):
+
+```json
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(python3 *)",
+      "Read(*)",
+      "Write(manuscripts/*)",
+      "Edit(manuscripts/*)",
+      "Edit(import_queue.txt)"
+    ]
+  }
+}
+```

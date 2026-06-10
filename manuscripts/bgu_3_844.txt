@@ -1,0 +1,73 @@
+# ───────────────────────────────────────────────
+# BGU 3 844 — Private letter — Herodes to Apollonios (illness; wood)
+# Source: papyri.info DDbDP bgu;3;844  (Trismegistos 9379)
+# Scraped via Firecrawl; apparatus trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.844
+label:    BGU 3.844
+name:     Private letter — Herodes to Apollonios (illness; wood)
+genre:    letters
+date:     83 CE
+language: Greek (Koiné)
+found:    Arsinoite nome, Fayum, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 7263
+content:  Private letter — Herodes to Apollonios (illness; wood)
+tm:       9379
+source:   https://papyri.info/ddbdp/bgu;3;844
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Ἡρώιδης Ἀπολλωνίωι
+r.2   τῶ[ι] φιλτάτ[ωι] χαίρειν.
+r.3   [γ]εινώσκειν σε θέλω, ὅτει
+r.4   [ε]ὐθέω[ς] ἀναβ[ὰς] ἐχειμάσ-
+r.5   [θ]ην πο[λ]λὰ ὑπὸ τ[οῦ] ἱερέος
+r.6   [ ]ν [ Ἀρ]σινόηι
+r.7   [ἀ]σθενίᾳ ἀφʼ ὧ[ν] μοι παρέχι
+r.8   [κ]α[λ]ῶς οὖ[ν] π[οιή]σις πέμ-
+r.9   ψας μοι ἐὰν ὃ [ἔχηι]ς ἐν χερ-
+r.10   σὶν εἵνα αὐ[τ ] δῶ κό-
+r.11   πους γάρ μο[ι] παρέχει ―
+r.12   ἀσθενοῦντει μὴ οὖν
+r.13   ἄλλως ποιήσῃς, πέμ-
+r.14   ψις δέ μοι τὸ ἐρείκεινον
+r.15   ξυλαρειν , ἐ[π]ιδὴ χρίαν
+r.16   αὐτοῦ ἔχω[ι] . καλῶς δὲ
+r.17   ποιήσεις παρασχὼν
+r.18   Διοσκόρῳ χάνας ι εἰς ―
+r.19   ἐμὴν τειμήν . μὴ οὖν
+r.20   ἄλλως ποιήσῃς ὑπὲρ ὧν
+r.21   σοι γράφωι (hand 2) ἔρρωσο.
+r.22   (ἔτους) γ Αὐτοκράτ[ο]ρος Καίσαρος Δομιττιανο(ῦ)
+r.23   Σεβαστοῦ Θὼθ κβv
+r.24   (hand 1) Ἀπολλωνίωι παρὰ Ἡρώδου
+
+[TRANSLATION]
+1   Herodes to Apollonios,
+2   his dearest (friend), greetings.
+3   I want you to know that,
+4   having gone up at once, I was much
+5   storm-tossed (i.e. afflicted) by the priest
+6   [...] in Arsinoe
+7   by an illness, from which he causes me (trouble).
+8   So you will do well to send
+9   me, if you have anything in
+10   hand, so that I may give (it) …; for he causes
+11   me troubles —
+12   (me) being ill. So do not
+13   do otherwise; you will
+14   send me the heather-
+15   wood stick, since I have need
+16   of it. And you will do well
+17   to furnish
+18   Dioskoros (with) ten geese(?) for
+19   my account. So do not
+20   do otherwise concerning the things about which
+21   I write you. (2nd hand) Farewell.
+22   Year 3 of Imperator Caesar Domitian
+23   Augustus, Thoth 22.
+24   (1st hand) To Apollonios from Herodes.

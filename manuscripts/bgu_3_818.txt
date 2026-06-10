@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# BGU 3 818 — Official letter — urgent work on the dike
+# Source: papyri.info DDbDP bgu;3;818  (Trismegistos 33241)
+# Scraped via Firecrawl; apparatus trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.818
+label:    BGU 3.818
+name:     Official letter — urgent work on the dike
+genre:    letters
+date:     4th–7th century CE
+language: Greek (Koiné)
+found:    Arsinoite nome, Fayum, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 6947
+content:  Official letter — urgent work on the dike
+tm:       33241
+source:   https://papyri.info/ddbdp/bgu;3;818
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   † ὁς γεγράφηκεν ἡ σὴ ἀρετὴ περὶ τῆς διορυγου , γέγραπται Π[ο]ῦσι το υἱῷ Ἐλ’λᾶ
+r.2   κολληθῆναι τοῖς ἀπὸ Σύρων, αἵως ἂν ταύτ[η]ν ποιήσου[σ]ιν , ὁ͂ν καὶ τὰ γράμμα-
+r.3   τα’ ἀπέστιλα . κατα[ξ]ίωσον τοίνυν σπουδα[σ(?)]θ[ῆναι(?) ]ο Ποῦσι, αἵως ἂν
+r.4   [τ]αύτην ποιήσουσιν , τὰ δὲ πράγματα τον δύο χρυσίνον , ὁ͂ν β γέγρα[πται(?)]
+r.5   το σο ἀδελφ[ῷ] περὶ τῶν ποταμιτο͂ν δήλοσον , ἐπιδὴ οὐκ ἔμαθεν
+r.6   τὸ πρᾶγμα.
+
+[TRANSLATION]
+1   † As your Excellence has written concerning the canal, it has been written to Pousis son of Ella
+2   to join (forces) with those from Syron(?), until they make it; for whom also the letters
+3   I have sent. Deem it worthy, then, to have Pousis make haste, until
+4   they make it; and as for the matter of the two gold pieces, about which it has been written
+5   to your brother concerning the rivermen, make (it) known, since he did not learn
+6   the matter.

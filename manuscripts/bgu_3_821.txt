@@ -1,0 +1,47 @@
+# ───────────────────────────────────────────────
+# BGU 3 821 — Private letter — Heraiskos to his father
+# Source: papyri.info DDbDP bgu;3;821  (Trismegistos 28092)
+# Scraped via Firecrawl; apparatus trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.821
+label:    BGU 3.821
+name:     Private letter — Heraiskos to his father
+genre:    letters
+date:     2nd century CE
+language: Greek (Koiné)
+found:    Arsinoite nome, Fayum, Egypt
+held:     Staatliche Museen zu Berlin
+shelf:    Berlin, Staatliche Museen P. 7942
+content:  Private letter — Heraiskos to his father
+tm:       28092
+source:   https://papyri.info/ddbdp/bgu;3;821
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   χαῖρε κύριέ μου πάτερ Ἡραίσκος
+r.2   σὲ ἀσπάζομαι. τὴν αγιο
+r.3   τερας ἀνεβη εἰ[ς τ]ὴν πόλιν, ἵνα εἰδ[ῶ]
+r.4   τὰ καινοτερον . μέχ[ρι] τῆς ιζ οὔπω εὕρη-
+r.5   καν τὸν εἰσερχόμενον μετὰ [αὐτ]ο[ῦ ·(?)] πάντες/
+r.6   γὰρ ἐστάλη[σα]ν. ὅταν ἠν τι και/νότερον
+r.7   εὐθέως σοι δηλ[ώ]σω, καὶ σὺ δ[ὲ] γράφ[ε]
+r.8   ἡμῖν, τί ἔπραξας. πάντα τὰ ἔργα εὖ
+r.9   διάκει[τ]αι. ἀσπάζεταί σε ἡ μήτηρ μου
+r.10   καὶ οἱ ἡμέτεροι [π]άντες. [ἐρ]ρ[ῶσ]θαί σε
+r.11   εὔχομαι.
+
+[TRANSLATION]
+1   Greetings, my lord father. Heraiskos
+2   greets you. The …(?)
+3   went up to the city, so that I might know
+4   the latest news. Up to the 17th they have not yet
+5   found the one coming in with him; for all
+6   have been dispatched. Whenever there is anything newer,
+7   I will at once make it known to you; and you too, write
+8   to us what you have done. All the works are
+9   going well. My mother greets you,
+10   and all our (folk). I pray for your
+11   health.
