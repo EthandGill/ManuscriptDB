@@ -24,6 +24,12 @@ def security_headers(response):
     the request actually arrived over https, so local http dev is unaffected."""
     if request.headers.get("X-Forwarded-Proto") == "https":
         response.headers["Strict-Transport-Security"] = "max-age=31536000"
+
+    # Map tiles never change once generated, so let browsers AND Railway's edge
+    # CDN cache them for a year. This makes repeat views instant and lets the
+    # CDN serve them from a location near each visitor instead of from origin.
+    if request.path.startswith("/static/tiles/"):
+        response.headers["Cache-Control"] = "public, max-age=31536000, immutable"
     return response
 
 
@@ -40,6 +46,10 @@ def gzip_large_responses(response):
         and response.content_length is not None
         and response.content_length > 1024
         and "Content-Encoding" not in response.headers
+        # Skip map tiles / images: PNGs are already compressed, so gzipping them
+        # wastes CPU and slows the response without shrinking the payload.
+        and not request.path.startswith("/static/tiles/")
+        and not (response.mimetype or "").startswith("image/")
     ):
         data = gzip.compress(response.get_data(), compresslevel=6)
         response.set_data(data)
