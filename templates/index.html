@@ -191,7 +191,25 @@
     </div>
 
     <!-- ── MAP ── -->
-    <div id="map"></div>
+    <div id="map">
+        <!-- AI search agent: tab attached to the sidebar edge + slide-out panel -->
+        <button id="agent-tab" type="button" title="Ask the Archive" aria-label="Ask the Archive">
+            <span class="agent-tab-text">Search our Data Base with a prompt</span>
+            <span class="agent-tab-arrow">&#x2192;</span>
+        </button>
+        <div id="agent-panel">
+            <div id="agent-header">
+                <span id="agent-title">Ask the Archive</span>
+                <button id="agent-close" type="button" aria-label="Close">&#x2715;</button>
+            </div>
+            <div id="agent-history"></div>
+            <form id="agent-form" autocomplete="off">
+                <input id="agent-input" type="text"
+                       placeholder="e.g. do you have seed-grain loans?" />
+                <button id="agent-send" type="submit" aria-label="Send">&#x27A4;</button>
+            </form>
+        </div>
+    </div>
 
     <!-- ── WRITING STAND ── -->
     <div id="writing-stand">
@@ -232,6 +250,33 @@
 
 </div>
 
+<!-- ── WELCOME SCREEN ── -->
+<div id="welcome-overlay">
+    <div id="welcome-modal" role="dialog" aria-modal="true" aria-labelledby="welcome-title">
+        <button id="welcome-close" type="button" aria-label="Close welcome screen">&#x2715;</button>
+        <h1 id="welcome-title">Welcome to Manuscript DB</h1>
+        <p id="welcome-sub">Search and Study through the ancient world for manuscripts, cities and routes.</p>
+        <div id="welcome-grid">
+            <div class="wc-card" data-media="feature-manuscripts">
+                <div class="wc-card-title">Search and Study Thousands of Manuscripts</div>
+                <div class="wc-card-media"></div>
+            </div>
+            <div class="wc-card" data-media="feature-routes">
+                <div class="wc-card-title">Plan routes in the ancient world</div>
+                <div class="wc-card-media"></div>
+            </div>
+            <div class="wc-card" data-media="feature-social">
+                <div class="wc-card-title">View social networks <span class="wc-new">NEW</span></div>
+                <div class="wc-card-media"></div>
+            </div>
+            <div class="wc-card" data-media="feature-msnetworks">
+                <div class="wc-card-title">View Manuscript networks <span class="wc-new">NEW</span></div>
+                <div class="wc-card-media"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- LEAFLET -->
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
@@ -239,5 +284,6 @@
 <script src="{{ url_for('static', filename='script.js') }}"></script>
 <script src="{{ url_for('static', filename='pauline_network.js') }}"></script>
 <script src="{{ url_for('static', filename='manuscript_network.js') }}"></script>
+<script src="{{ url_for('static', filename='account.js') }}"></script>
 </body>
 </html>

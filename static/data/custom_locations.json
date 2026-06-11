@@ -61,5 +61,54 @@
     "modern": "Kechries, Greece",
     "lat":    37.8897,
     "lon":    22.9889
+  },
+  {
+    "id":     "euhemeria",
+    "name":   "Euhemeria",
+    "modern": "Qasr el-Banat (Fayum), Egypt",
+    "lat":    29.4333,
+    "lon":    30.4000
+  },
+  {
+    "id":     "theadelphia",
+    "name":   "Theadelphia",
+    "modern": "Batn el-Harit (Fayum), Egypt",
+    "lat":    29.4333,
+    "lon":    30.5333
+  },
+  {
+    "id":     "philoteris",
+    "name":   "Philoteris",
+    "modern": "Themistou meris (Fayum), Egypt",
+    "lat":    29.4200,
+    "lon":    30.4000
+  },
+  {
+    "id":     "polydeukia",
+    "name":   "Polydeukia",
+    "modern": "Themistou meris (Fayum), Egypt",
+    "lat":    29.4300,
+    "lon":    30.4500
+  },
+  {
+    "id":     "thraso",
+    "name":   "Thraso",
+    "modern": "Arsinoite nome (Fayum), Egypt",
+    "lat":    29.4600,
+    "lon":    30.4700
+  },
+  {
+    "id":     "apollonopolis-magna",
+    "name":   "Apollonopolis Magna",
+    "modern": "Edfu, Egypt",
+    "lat":    24.9781,
+    "lon":    32.8731
+  },
+  {
+    "id":     "hermopolis-magna",
+    "name":   "Hermopolis Magna",
+    "modern": "el-Ashmunein, Egypt",
+    "lat":    27.7803,
+    "lon":    30.8016
   }
 ]

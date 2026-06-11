@@ -21,20 +21,41 @@ L.tileLayer('/static/tiles/{z}/{x}/{y}.png', {
     updateWhenIdle: false
 }).addTo(map);
 
-const FULL_BOUNDS = L.latLngBounds([[-128, 0], [0, 256]]);
+// Exact extent of the rendered tiles per zoom level — panning is clamped to
+// these so the black void beyond the tiles is never scrollable into.
 const TILE_BOUNDS = {
+    4: L.latLngBounds([[-128,  96], [-64, 176]]),
     5: L.latLngBounds([[-120,  96], [-72, 176]]),
     6: L.latLngBounds([[-120, 100], [-72, 176]]),
     7: L.latLngBounds([[-120, 100], [-72, 176]])
 };
 
 function applyBounds() {
-    const z = map.getZoom();
-    map.setMaxBounds(z >= 5 ? TILE_BOUNDS[Math.min(7, Math.round(z))] : FULL_BOUNDS);
+    const z = Math.min(7, Math.max(4, Math.round(map.getZoom())));
+    map.setMaxBounds(TILE_BOUNDS[z]);
 }
+
+// On large viewports the zoom-4 tile extent can be smaller than the screen, so
+// black would still show at the edges — raise minZoom until the view fits
+// entirely inside the tiled area.
+function applyMinZoom() {
+    const minz = Math.max(4, map.getBoundsZoom(TILE_BOUNDS[4], true));
+    map.setMinZoom(minz);
+    // Enforce synchronously: Leaflet's own raise animates via rAF, which never
+    // completes in a background tab, leaving the view wider than the tiles.
+    if (map.getZoom() < minz) map.setZoom(minz, { animate: false });
+}
+
 map.on('zoomend', applyBounds);
+map.on('resize', applyMinZoom);
 map.setView([-96, 136], 4);
+applyMinZoom();
 applyBounds();
+
+// The container also resizes without a window resize (e.g. the Writing Stand
+// squeezing the flex row). invalidateSize() fires Leaflet's 'resize' event,
+// which re-runs applyMinZoom and re-clamps the view to the tiles.
+new ResizeObserver(() => map.invalidateSize()).observe(document.getElementById('map'));
 
 // ── COORDINATE CONVERSION ─────────────────────────────────
 // Tiles use standard Web Mercator (EPSG:3857) numbering.
@@ -1514,9 +1535,17 @@ function orbBadgeText(loc) {
 
 // Orb colour palettes (inner→outer rgb stops). Biblical manuscripts glow red;
 // documentary papyri (receipts / contracts / letters) glow green.
-const ORB_RED   = [[160, 0, 0], [200, 0, 0], [210, 0, 0], [220, 0, 0]];
-const ORB_GREEN = [[20, 120, 40], [30, 158, 60], [40, 178, 70], [50, 190, 80]];
+const ORB_RED    = [[160, 0, 0], [200, 0, 0], [210, 0, 0], [220, 0, 0]];
+const ORB_GREEN  = [[20, 120, 40], [30, 158, 60], [40, 178, 70], [50, 190, 80]];
+const ORB_PURPLE = [[100, 40, 150], [130, 60, 185], [145, 70, 200], [155, 80, 215]];
+const ORB_ORANGE = [[180, 95, 20], [215, 120, 30], [230, 130, 35], [240, 140, 45]];
 const DOC_GENRES = new Set(['receipts', 'contracts', 'letters']);
+// Per-genre orb colour: receipts green, contracts purple, letters orange.
+const GENRE_PALETTES = {
+    receipts:  ORB_GREEN,
+    contracts: ORB_PURPLE,
+    letters:   ORB_ORANGE,
+};
 
 // Returns a CSS radial-gradient string whose alpha channels scale with `intensity`
 // (0–1). Using rgba() alpha instead of CSS opacity keeps child elements unaffected.
@@ -1549,10 +1578,20 @@ function refreshLocationOrb(locKey) {
     // to children and would dim the .ms-orb-count button.
     const size      = Math.round(22 + 9 * Math.sqrt(Math.min(count, 55)));
     const intensity = 0.60 + 0.35 * Math.min(1, count / 20);   // 0.60 → 0.95
-    // Green when every active manuscript here is documentary; red otherwise.
+    // Red when any active manuscript here is biblical; otherwise coloured by
+    // the dominant documentary genre (receipts green, contracts purple,
+    // letters orange).
     const activeList = loc.allMs.filter(m => loc.activeMs.has(m.id));
     const allDoc     = activeList.length > 0 && activeList.every(m => DOC_GENRES.has(m.genre));
-    const grad       = orbGradient(intensity, allDoc ? ORB_GREEN : ORB_RED);
+    let palette = ORB_RED;
+    if (allDoc) {
+        const counts = {};
+        activeList.forEach(m => { counts[m.genre] = (counts[m.genre] || 0) + 1; });
+        const dominant = ['receipts', 'contracts', 'letters']
+            .reduce((a, b) => (counts[b] || 0) > (counts[a] || 0) ? b : a);
+        palette = GENRE_PALETTES[dominant] || ORB_GREEN;
+    }
+    const grad = orbGradient(intensity, palette);
 
     // Lightweight DOM update when only gradient or text changes (size unchanged);
     // full setIcon when size changes so Leaflet keeps the anchor centred.
@@ -1587,15 +1626,22 @@ function showOrbPopup(locKey) {
         : loc.allMs;
     // Use the stored snap city name (correct even when two cities are close together)
     const cityName = loc.snapCity?.name || 'This site';
-    const listHtml = displayMs.map(ms =>
+    // Cap the in-popup list; the rest are reachable via the "See all" sidebar.
+    const ORB_POPUP_CAP = 10;
+    const shown = displayMs.slice(0, ORB_POPUP_CAP);
+    const listHtml = shown.map(ms =>
         `<span class="city-ms-pill" data-ms-id="${ms.id}" title="${ms.name}">${ms.id}</span>`
     ).join('');
+    const moreHtml = displayMs.length > ORB_POPUP_CAP
+        ? `<button class="city-ms-more" type="button">See all ${displayMs.length} →</button>`
+        : '';
     const orbPopup = L.popup({ className: 'city-ms-popup', offset: [0, -8], closeButton: true, autoClose: true })
         .setLatLng(loc.pos)
         .setContent(
             `<div class="city-ms-popup-title">${cityName}</div>` +
             `<div class="city-ms-popup-sub">${orbBadgeText(loc)}</div>` +
-            `<div class="city-ms-popup-pills">${listHtml}</div>`
+            `<div class="city-ms-popup-pills">${listHtml}</div>` +
+            moreHtml
         )
         .openOn(map);
     activeCityPopupObj = orbPopup;
@@ -1609,6 +1655,53 @@ function showOrbPopup(locKey) {
             }
         });
     });
+    orbPopup.getElement()?.querySelector('.city-ms-more')?.addEventListener('click', () => {
+        map.closePopup(orbPopup);
+        showLocationSidebar(cityName, orbBadgeText(loc), displayMs);
+    });
+}
+
+// Slide-out sidebar listing ALL manuscripts at a location (scrollable).
+// Opened from the "See all N →" button when an orb popup caps its list.
+function showLocationSidebar(cityName, subText, msList) {
+    let panel = document.getElementById('location-sidebar');
+    if (!panel) {
+        panel = document.createElement('div');
+        panel.id = 'location-sidebar';
+        panel.innerHTML =
+            '<div class="locsb-header">' +
+              '<div><div class="locsb-title"></div><div class="locsb-sub"></div></div>' +
+              '<button class="locsb-close" type="button" aria-label="Close">×</button>' +
+            '</div>' +
+            '<div class="locsb-list"></div>';
+        document.body.appendChild(panel);
+        panel.querySelector('.locsb-close').addEventListener('click',
+            () => panel.classList.remove('open'));
+    }
+    panel.querySelector('.locsb-title').textContent = cityName;
+    panel.querySelector('.locsb-sub').textContent = subText ||
+        (msList.length + ' manuscript' + (msList.length > 1 ? 's' : ''));
+    const list = panel.querySelector('.locsb-list');
+    list.innerHTML = '';
+    msList.forEach(ms => {
+        const item = document.createElement('button');
+        item.type = 'button';
+        item.className = 'locsb-item';
+        const idEl = document.createElement('span');
+        idEl.className = 'locsb-item-id';
+        idEl.textContent = ms.id;
+        const nameEl = document.createElement('span');
+        nameEl.className = 'locsb-item-name';
+        nameEl.textContent = ms.label && ms.label !== ms.id
+            ? ms.label : (ms.name || '');
+        item.append(idEl, nameEl);
+        item.addEventListener('click', () => {
+            const pair = msMarkers[ms.id];
+            if (pair?.popup) pair.popup.openOn(map);
+        });
+        list.appendChild(item);
+    });
+    panel.classList.add('open');
 }
 
 function renderManuscriptSection() {
@@ -2626,6 +2719,195 @@ async function fetchJson(url, { retries = 3, delay = 250 } = {}) {
         }
     }
 }
+
+// ── AI SEARCH AGENT (Ask the Archive) ─────────────────────
+// Tab on the map's left edge → slide-out chat panel → POST /api/agent-search.
+// Clicking a result flies the map to the find-spot, opens the marker popup,
+// and opens the Writing Stand reader.
+
+(function initAgentSearch() {
+    const tab     = document.getElementById('agent-tab');
+    const panel   = document.getElementById('agent-panel');
+    const form    = document.getElementById('agent-form');
+    const input   = document.getElementById('agent-input');
+    const sendBtn = document.getElementById('agent-send');
+    const history = document.getElementById('agent-history');
+    if (!tab || !panel) return;
+
+    // The tab/panel live inside #map — keep clicks/scrolls from hitting Leaflet.
+    [tab, panel].forEach(el => {
+        L.DomEvent.disableClickPropagation(el);
+        L.DomEvent.disableScrollPropagation(el);
+    });
+
+    const openPanel  = () => { panel.classList.add('open');  input.focus(); };
+    const closePanel = () => panel.classList.remove('open');
+
+    tab.addEventListener('click', () =>
+        panel.classList.contains('open') ? closePanel() : openPanel());
+    document.getElementById('agent-close').addEventListener('click', closePanel);
+    document.addEventListener('keydown', e => {
+        if (e.key === 'Escape' && panel.classList.contains('open')) closePanel();
+    });
+
+    let busy = false;
+
+    form.addEventListener('submit', async e => {
+        e.preventDefault();
+        const query = input.value.trim();
+        if (busy || query.length < 3) return;
+        busy = true;
+        sendBtn.disabled = true;
+        input.value = '';
+
+        // User bubble
+        const q = document.createElement('div');
+        q.className = 'agent-q';
+        q.textContent = query;
+        history.appendChild(q);
+
+        // Typing indicator
+        const typing = document.createElement('div');
+        typing.className = 'agent-typing';
+        typing.innerHTML = '<span></span><span></span><span></span>';
+        history.appendChild(typing);
+        history.scrollTop = history.scrollHeight;
+
+        let data = null, err = null;
+        try {
+            const res = await fetch('/api/agent-search', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ query }),
+            });
+            if (!res.ok) throw new Error('HTTP ' + res.status);
+            data = await res.json();
+        } catch (ex) { err = ex; }
+
+        typing.remove();
+        const a = document.createElement('div');
+        a.className = 'agent-a';
+
+        if (err || !data) {
+            const msg = document.createElement('div');
+            msg.className = 'agent-error';
+            msg.textContent = 'Search failed — is the server running? Please try again.';
+            a.appendChild(msg);
+        } else {
+            const answer = document.createElement('div');
+            answer.className = 'agent-answer';
+            answer.textContent = data.answer || '';
+            a.appendChild(answer);
+            if (data.fallback) {
+                const note = document.createElement('div');
+                note.className = 'agent-fallback-note';
+                note.textContent = 'AI unavailable — showing basic keyword results.';
+                a.appendChild(note);
+            }
+            (data.matches || []).forEach(m => a.appendChild(buildAgentResult(m)));
+        }
+
+        history.appendChild(a);
+        history.scrollTop = history.scrollHeight;
+        busy = false;
+        sendBtn.disabled = false;
+        input.focus();
+    });
+
+    function buildAgentResult(m) {
+        const row = document.createElement('button');
+        row.type = 'button';
+        row.className = 'agent-result';
+
+        const top = document.createElement('div');
+        top.className = 'agent-result-top';
+        const id = document.createElement('span');
+        id.className = 'agent-result-id';
+        id.textContent = m.label || m.id;
+        const genre = document.createElement('span');
+        genre.className = 'agent-result-genre g-' + (m.genre || 'other');
+        genre.textContent = m.genre === 'new-testament' ? 'NT' : (m.genre || '');
+        const date = document.createElement('span');
+        date.className = 'agent-result-date';
+        date.textContent = m.date || '';
+        top.append(id, genre, date);
+
+        const name = document.createElement('div');
+        name.className = 'agent-result-name';
+        name.textContent = m.name || '';
+        const reason = document.createElement('div');
+        reason.className = 'agent-result-reason';
+        reason.textContent = m.reason || '';
+
+        row.append(top, name, reason);
+        row.addEventListener('click', () => activateAgentResult(m.id));
+        return row;
+    }
+
+    // Open the Writing Stand reader, then fly the map to the manuscript's
+    // find-spot and open its marker popup (reusing the existing code paths).
+    // The reader opens FIRST: its width transition resizes the map container,
+    // which would cancel an in-flight flyTo animation.
+    function activateAgentResult(msId) {
+        const ms = manuscripts.find(x => x.id === msId);
+        if (!ms) return;
+        openWritingStand(ms, null);
+        setTimeout(() => {
+            map.invalidateSize();
+            if (ms.lat != null && ms.lon != null) {
+                const target = geoToCRS(parseFloat(ms.lon), parseFloat(ms.lat));
+                // flyTo animates via rAF, which background tabs throttle to a
+                // standstill — jump instantly when the page isn't visible.
+                if (document.hidden) map.setView(target, 5, { animate: false });
+                else map.flyTo(target, 5, { duration: 0.8 });
+            }
+            const pair = msMarkers[ms.id];
+            // Popup after the flight so its auto-pan doesn't fight flyTo.
+            setTimeout(() => { if (pair?.popup) pair.popup.openOn(map); }, 900);
+        }, 420);
+    }
+})();
+
+// ── WELCOME SCREEN ────────────────────────────────────────
+// Centered intro modal over a dimmed app. Each feature card shows a short
+// clip of real site usage (static/media/welcome/<name>.mp4) when available,
+// falling back to the real screenshot (<name>.png).
+
+(function initWelcomeScreen() {
+    const overlay = document.getElementById('welcome-overlay');
+    if (!overlay) return;
+
+    const close = () => {
+        overlay.classList.add('closing');
+        setTimeout(() => overlay.classList.add('hidden'), 260);
+    };
+    document.getElementById('welcome-close').addEventListener('click', close);
+    overlay.addEventListener('click', e => { if (e.target === overlay) close(); });
+    document.addEventListener('keydown', e => {
+        if (e.key === 'Escape' && !overlay.classList.contains('hidden')) close();
+    });
+
+    overlay.querySelectorAll('.wc-card').forEach(card => {
+        const name = card.dataset.media;
+        const box  = card.querySelector('.wc-card-media');
+        const png  = `/static/media/welcome/${name}.png`;
+        const mp4  = `/static/media/welcome/${name}.mp4`;
+        fetch(mp4, { method: 'HEAD' }).then(r => {
+            if (!r.ok) throw new Error('no video');
+            const v = document.createElement('video');
+            v.autoplay = true; v.loop = true; v.muted = true; v.playsInline = true;
+            v.poster = png;
+            v.src = mp4;
+            box.appendChild(v);
+        }).catch(() => {
+            const img = document.createElement('img');
+            img.src = png;
+            img.alt = card.querySelector('.wc-card-title').textContent.trim();
+            img.loading = 'lazy';
+            box.appendChild(img);
+        });
+    });
+})();
 
 Promise.all([
     fetchJson('/static/data/orbis.json'),

@@ -109,6 +109,16 @@ so the helpers call `truststore.inject_into_ssl()` to trust the Windows cert sto
 `.claude/skills/scrape-manuscript/scripts/scrape_papyrus.py` extracts the
 TM/origin/date/Greek fields from a papyri.info DDbDP id.
 
+## Keeping map city-nodes consistent
+
+The map snaps each manuscript's `lat`/`lon` find-site to the nearest city within
+**0.3°** (ORBIS cities in `static/data/orbis.json` + `static/data/custom_locations.json`).
+A find-site with no city in range shows as an unnamed "This site" orb. The
+**`check-city-nodes`** skill (`.claude/skills/check-city-nodes/SKILL.md`) audits and
+fixes this — run **`python check_city_nodes.py`** (repo root) as the last step of any
+onboarding batch; for each orphan it reports, add a node at that coordinate to
+`custom_locations.json` and re-run until `ORPHAN: 0`.
+
 ## Sharing a live demo
 
 `share_with_cloudflare.bat` puts the running app on a public link for free using

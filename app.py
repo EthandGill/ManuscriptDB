@@ -5,6 +5,14 @@ app = Flask(__name__)
 # Preserve dict insertion order in JSON responses (default sorts alphabetically)
 app.json.sort_keys = False
 
+# Email accounts + freemium metering for the search agent (see accounts.py).
+from accounts import init_accounts, current_user, consume_quota
+init_accounts(app)
+
+# Stripe subscriptions ($10 CAD/mo unlimited) — see stripe_billing.py.
+from stripe_billing import init_billing
+init_billing(app)
+
 
 @app.before_request
 def force_https():
@@ -179,23 +187,302 @@ def home():
     return render_template("index.html")
 
 
+# Parsing all ~745 manuscript files takes seconds; the data only changes when
+# the files do. Cache the parsed list (and its pre-gzipped JSON) keyed by a
+# cheap directory fingerprint so repeat requests are served from memory.
+_ms_cache = {"fp": None, "data": None, "gz": None}
+
+
+def _manuscripts_fingerprint():
+    if not os.path.isdir(MANUSCRIPTS_DIR):
+        return ("missing",)
+    n, latest = 0, 0.0
+    with os.scandir(MANUSCRIPTS_DIR) as it:
+        for e in it:
+            if e.name.endswith(".txt"):
+                n += 1
+                m = e.stat().st_mtime
+                if m > latest:
+                    latest = m
+    return (n, latest)
+
+
+def get_all_manuscripts():
+    fp = _manuscripts_fingerprint()
+    if _ms_cache["fp"] != fp:
+        results = []
+        if os.path.isdir(MANUSCRIPTS_DIR):
+            for fname in sorted(os.listdir(MANUSCRIPTS_DIR)):
+                if fname.endswith(".txt"):
+                    try:
+                        results.append(parse_manuscript(
+                            os.path.join(MANUSCRIPTS_DIR, fname)
+                        ))
+                    except Exception as e:
+                        results.append({"error": str(e), "file": fname})
+        _ms_cache["fp"] = fp
+        _ms_cache["data"] = results
+        _ms_cache["gz"] = gzip.compress(
+            app.json.dumps(results).encode("utf-8"), compresslevel=6)
+    return _ms_cache["data"]
+
+
 @app.route("/api/manuscripts")
 def api_manuscripts():
-    results = []
-    if os.path.isdir(MANUSCRIPTS_DIR):
-        for fname in sorted(os.listdir(MANUSCRIPTS_DIR)):
-            if fname.endswith(".txt"):
-                try:
-                    results.append(parse_manuscript(
-                        os.path.join(MANUSCRIPTS_DIR, fname)
-                    ))
-                except Exception as e:
-                    results.append({"error": str(e), "file": fname})
-    return jsonify(results)
+    get_all_manuscripts()
+    if "gzip" in request.headers.get("Accept-Encoding", "").lower():
+        resp = app.response_class(_ms_cache["gz"], mimetype="application/json")
+        resp.headers["Content-Encoding"] = "gzip"
+        resp.headers["Content-Length"] = str(len(_ms_cache["gz"]))
+        resp.headers["Vary"] = "Accept-Encoding"
+        # direct_passthrough False is fine; the gzip after_request skips us
+        # because Content-Encoding is already set.
+        return resp
+    return jsonify(_ms_cache["data"])
+
+
+# ── AI MANUSCRIPT SEARCH AGENT ────────────────────────────────────────────
+# POST /api/agent-search {"query": "..."} → conversational answer + ranked
+# matches, powered by the Claude API over a compact catalog of all manuscripts.
+
+AGENT_MODEL = "claude-haiku-4-5-20251001"
+
+_agent_catalog = None   # [{id, genre, date, found, content, lat, lon, name, label}]
+_agent_client = None    # anthropic.Anthropic, created lazily
+
+AGENT_INSTRUCTIONS = """\
+You are a search assistant for ManuscriptDB, an archive of ancient manuscripts:
+New Testament papyri plus documentary papyri and ostraca (tax receipts, contracts,
+leases, loans, sales, letters) from Roman and Ptolemaic Egypt and beyond.
+
+Below is the full catalog, one manuscript per line in the format:
+id | genre | date | found | summary
+
+Given a user query, pick the manuscripts that genuinely match, ranked most
+relevant first. Understand concepts and synonyms, not just keywords — e.g.
+"seed-grain loans" should match loan contracts for wheat/barley seed even if
+the words "seed-grain" never appear; "letters from soldiers" should match
+letters whose writer is a soldier; "earliest copy of Matthew" should use the
+dates. Use the genre field (new-testament, receipts, contracts, letters).
+
+Respond with ONLY a JSON object, no markdown fences, no prose around it:
+{"answer": "<1-2 conversational sentences summarizing what you found>",
+ "matches": [{"id": "<exact id from the catalog>", "reason": "<one short line: why it matches>"}]}
+
+At most 15 matches. Only use ids that appear in the catalog, copied exactly.
+If nothing fits, return an empty matches array and a polite answer saying so.
+
+CATALOG:
+"""
+
+
+def _get_agent_catalog():
+    """Compact one-line-per-manuscript catalog, built once and cached."""
+    global _agent_catalog
+    if _agent_catalog is None:
+        rows = []
+        for m in get_all_manuscripts():   # shares the parsed in-memory cache
+            if "error" in m and "id" not in m:
+                continue
+            rows.append({
+                "id":      m.get("id", ""),
+                "label":   m.get("label") or m.get("id", ""),
+                "name":    m.get("name", ""),
+                "genre":   m.get("genre", ""),
+                "date":    m.get("date", ""),
+                "found":   m.get("found", ""),
+                "content": m.get("content") or m.get("name", ""),
+                "lat":     m.get("lat"),
+                "lon":     m.get("lon"),
+            })
+        _agent_catalog = rows
+    return _agent_catalog
+
+
+def _catalog_text(rows):
+    return "\n".join(
+        f"{r['id']} | {r['genre']} | {r['date']} | {r['found']} | {r['content']}"
+        for r in rows
+    )
+
+
+def _anthropic_api_key():
+    """ANTHROPIC_API_KEY from the environment (never hardcoded). On Windows,
+    fall back to the user-scope registry value so a server launched before the
+    var was set still finds it."""
+    key = os.environ.get("ANTHROPIC_API_KEY")
+    if key:
+        return key
+    try:
+        import winreg
+        with winreg.OpenKey(winreg.HKEY_CURRENT_USER, "Environment") as k:
+            val, _ = winreg.QueryValueEx(k, "ANTHROPIC_API_KEY")
+            return val or None
+    except Exception:
+        return None
+
+
+def _get_agent_client():
+    global _agent_client
+    if _agent_client is None:
+        key = _anthropic_api_key()
+        if not key:
+            return None
+        # This machine's TLS inspection breaks certifi validation (same gotcha
+        # as the Firecrawl scraper) — trust the Windows cert store instead.
+        try:
+            import truststore
+            truststore.inject_into_ssl()
+        except ImportError:
+            pass
+        import anthropic
+        _agent_client = anthropic.Anthropic(api_key=key, timeout=30.0, max_retries=1)
+    return _agent_client
+
+
+def _parse_agent_json(text):
+    """Parse the model's JSON reply, tolerating markdown fences."""
+    import json as _json
+    t = text.strip()
+    if t.startswith("```"):
+        t = re.sub(r"^```[a-zA-Z]*\s*", "", t)
+        t = re.sub(r"\s*```$", "", t)
+    start, end = t.find("{"), t.rfind("}")
+    if start == -1 or end == -1:
+        raise ValueError("no JSON object in reply")
+    data = _json.loads(t[start:end + 1])
+    if not isinstance(data, dict) or "matches" not in data:
+        raise ValueError("missing matches")
+    return data
+
+
+def _keyword_fallback(query, rows):
+    """Degraded plain keyword search when the Claude API is unavailable."""
+    terms = [w for w in re.split(r"\W+", query.lower()) if len(w) > 2]
+    scored = []
+    for r in rows:
+        hay = " ".join([r["id"], r["genre"], r["date"], r["found"],
+                        r["content"], r["name"]]).lower()
+        score = sum(hay.count(t) for t in terms)
+        if score > 0:
+            scored.append((score, r))
+    scored.sort(key=lambda s: -s[0])
+    matches = [{"id": r["id"], "reason": "Keyword match"} for _, r in scored[:15]]
+    n = len(matches)
+    answer = (f"Found {n} manuscript{'s' if n != 1 else ''} by keyword search."
+              if n else "No manuscripts matched those keywords.")
+    return {"answer": answer, "matches": matches, "fallback": True}
+
+
+@app.route("/api/agent-search", methods=["POST"])
+def api_agent_search():
+    body = request.get_json(silent=True) or {}
+    query = (body.get("query") or "").strip()
+    if len(query) < 3:
+        return jsonify({"error": "Query too short (min 3 characters)."}), 400
+
+    # ── freemium gate ────────────────────────────────────────────────────
+    # Require an account, then count this search against the user's daily
+    # quota (5/day free; unlimited for subscribers, with an abuse cap).
+    user = current_user()
+    if user is None:
+        return jsonify({"error": "login_required",
+                        "message": "Please sign in to use the search assistant."}), 401
+    gate = consume_quota(user)
+    if not gate["allowed"]:
+        return jsonify(gate), gate["status"]
+
+    rows = _get_agent_catalog()
+    by_id = {r["id"]: r for r in rows}
+    client = _get_agent_client()
+
+    result = None
+    if client is not None:
+        import anthropic
+        # Catalog lives in a cached system block so repeat queries are cheap;
+        # the per-request query goes in the (uncached) user turn.
+        system_blocks = [{
+            "type": "text",
+            "text": AGENT_INSTRUCTIONS + _catalog_text(rows),
+            "cache_control": {"type": "ephemeral"},
+        }]
+        for attempt in range(2):
+            try:
+                resp = client.messages.create(
+                    model=AGENT_MODEL,
+                    max_tokens=1500,
+                    system=system_blocks,
+                    messages=[{"role": "user", "content": query}],
+                )
+                text = next((b.text for b in resp.content if b.type == "text"), "")
+                result = _parse_agent_json(text)
+                break
+            except (ValueError, KeyError):
+                continue                      # malformed JSON — retry once
+            except anthropic.APIError:
+                break                          # API problem — use fallback
+            except Exception:
+                break
+
+    if result is None:
+        result = _keyword_fallback(query, rows)
+
+    # Join model-returned ids against the real data; drop hallucinated ids and
+    # never trust the model for coordinates/metadata.
+    matches = []
+    for m in result.get("matches", [])[:15]:
+        r = by_id.get((m.get("id") or "").strip())
+        if not r:
+            continue
+        matches.append({
+            "id":     r["id"],
+            "label":  r["label"],
+            "name":   r["name"],
+            "genre":  r["genre"],
+            "date":   r["date"],
+            "lat":    r["lat"],
+            "lon":    r["lon"],
+            "reason": (m.get("reason") or "").strip() or "Relevant match",
+        })
+
+    return jsonify({
+        "answer":   result.get("answer", ""),
+        "matches":  matches,
+        "fallback": bool(result.get("fallback", False)),
+    })
+
+
+@app.route("/api/health")
+def api_health():
+    """Lightweight diagnostic: confirms the DB layer and which backend is live.
+    'postgresql' = your Railway Postgres (persistent). 'sqlite' = local fallback
+    (data is wiped on every Railway redeploy). Exposes no secrets or user data."""
+    from accounts import db
+    from sqlalchemy import text
+    info = {"ok": True}
+    try:
+        eng = db.engine
+        info["db_backend"] = eng.dialect.name
+        info["persistent"] = (eng.dialect.name == "postgresql")
+        with eng.connect() as conn:
+            conn.execute(text("SELECT 1"))
+        info["db_connected"] = True
+    except Exception as e:
+        info.update({"ok": False, "db_connected": False, "error": type(e).__name__})
+    return jsonify(info)
 
 
 if __name__ == "__main__":
-    # threaded=True lets the dev server reliably stream large responses
-    # (the /api/manuscripts feed is ~7.8 MB); single-threaded mode drops
-    # the body mid-transfer on Windows/Python 3.14.
-    app.run(debug=True, threaded=True)
+    # The Werkzeug dev server transfers large bodies at ~65 KB/s on this
+    # machine (and drops them mid-stream), which broke the ~1.3 MB gzipped
+    # /api/manuscripts feed. Serve locally with waitress instead — it delivers
+    # the feed in milliseconds. app.debug stays on for template auto-reload
+    # and the dev-only endpoints; note there is no code auto-reloader, so
+    # restart after editing app.py.
+    app.debug = True
+    try:
+        from waitress import serve
+        print("Serving on http://localhost:5000 (waitress)")
+        serve(app, host="127.0.0.1", port=5000, threads=8)
+    except ImportError:
+        app.run(debug=True, threaded=True)

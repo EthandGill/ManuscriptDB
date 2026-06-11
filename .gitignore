@@ -1,3 +1,14 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# local accounts/metering database (use Postgres in production)
+*.sqlite3
+manuscriptdb.sqlite3
+
+# secrets — never commit
+.firecrawl_key
+.env
+
+# scheduler logs
+logs/

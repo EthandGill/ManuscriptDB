@@ -1761,6 +1761,484 @@ html, body {
     border-color: #c9a96e;
 }
 
+/* "See all N →" button shown when an orb popup caps its list */
+.city-ms-more {
+    display: block;
+    width: 100%;
+    margin-top: 8px;
+    padding: 5px 8px;
+    background: #1e1a12;
+    border: 1px solid #3a3020;
+    border-radius: 4px;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #c9a96e;
+    font-family: 'Inter', sans-serif;
+    cursor: pointer;
+    transition: background 0.12s, border-color 0.12s;
+}
+.city-ms-more:hover { background: #2a2416; border-color: #c9a96e; }
+
+/* ── LOCATION SIDEBAR (full manuscript list for a site) ──── */
+#location-sidebar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 320px;
+    max-width: 86vw;
+    background: #0d0c07;
+    border-left: 1px solid #2a2416;
+    box-shadow: -6px 0 24px rgba(0,0,0,0.6);
+    z-index: 1200;            /* above the Leaflet map + controls */
+    transform: translateX(100%);
+    transition: transform 0.22s ease;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Inter', sans-serif;
+}
+#location-sidebar.open { transform: translateX(0); }
+
+.locsb-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 14px 14px 10px;
+    border-bottom: 1px solid #2a2416;
+    flex-shrink: 0;
+}
+.locsb-title {
+    font-size: 12px;
+    font-weight: 700;
+    color: #c9a96e;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+.locsb-sub {
+    font-size: 10px;
+    color: #6a5d42;
+    letter-spacing: 0.04em;
+    margin-top: 3px;
+}
+.locsb-close {
+    background: none;
+    border: none;
+    color: #6a5d42;
+    font-size: 20px;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0 2px;
+    transition: color 0.12s;
+}
+.locsb-close:hover { color: #c9a96e; }
+
+.locsb-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.locsb-item {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    width: 100%;
+    text-align: left;
+    background: #15130d;
+    border: 1px solid #2a2416;
+    border-radius: 5px;
+    padding: 7px 9px;
+    cursor: pointer;
+    transition: background 0.12s, border-color 0.12s;
+}
+.locsb-item:hover { background: #221d12; border-color: #c9a96e; }
+.locsb-item-id {
+    font-size: 11px;
+    font-weight: 700;
+    color: #c9a96e;
+    letter-spacing: 0.04em;
+}
+.locsb-item-name {
+    font-size: 10px;
+    color: #8a7c5c;
+    line-height: 1.3;
+}
+
+/* ── AI SEARCH AGENT (Ask the Archive) ──────────────────── */
+
+/* Rectangular tab attached to the sidebar (the map's left edge), below the
+   Leaflet zoom controls. Gold tab, black lettering; arrow points outward. */
+#agent-tab {
+    position: absolute;
+    top: 92px;                 /* just under the +/− zoom buttons */
+    left: 0;                   /* flush against the sidebar boundary */
+    z-index: 1100;             /* above Leaflet panes & controls */
+    display: flex;
+    align-items: center;
+    gap: 11px;
+    padding: 16px 16px 16px 18px;
+    background: #c9a96e;       /* gold */
+    border: 1px solid #b0935a;
+    border-left: none;         /* reads as attached to the sidebar */
+    border-radius: 0 8px 8px 0;
+    color: #0d0c07;            /* black lettering */
+    cursor: pointer;
+    box-shadow: 3px 2px 14px rgba(0,0,0,0.55);
+    transition: background 0.12s, padding-left 0.12s;
+    font-family: 'Inter', sans-serif;
+}
+#agent-tab:hover { background: #d8bd86; padding-left: 22px; }
+.agent-tab-text {
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    line-height: 1.25;
+    text-align: left;
+    width: 9.5em;              /* wrap to ~2-3 lines so it isn't a long strip */
+}
+.agent-tab-arrow {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1;
+    transition: transform 0.12s;
+}
+#agent-tab:hover .agent-tab-arrow { transform: translateX(4px); }
+
+/* Slide-out panel overlaying the map's left edge */
+#agent-panel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 320px;
+    max-width: 86vw;
+    z-index: 1150;
+    background: #0d0c07;
+    border-right: 1px solid #2a2416;
+    box-shadow: 6px 0 24px rgba(0,0,0,0.6);
+    transform: translateX(-100%);
+    transition: transform 0.22s ease;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Inter', sans-serif;
+}
+#agent-panel.open { transform: translateX(0); }
+
+#agent-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 13px 14px 10px;
+    border-bottom: 1px solid #2a2416;
+    flex-shrink: 0;
+}
+#agent-title {
+    font-size: 12px;
+    font-weight: 700;
+    color: #c9a96e;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+#agent-close {
+    background: none;
+    border: none;
+    color: #6a5d42;
+    font-size: 15px;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0 2px;
+    transition: color 0.12s;
+}
+#agent-close:hover { color: #c9a96e; }
+
+#agent-history {
+    flex: 1;
+    overflow-y: auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+#agent-history:empty::before {
+    content: "Ask in plain language — \"camel sales\", \"letters from soldiers\", \"tax receipts from the Fayum\"…";
+    color: #4a4030;
+    font-size: 11px;
+    line-height: 1.5;
+    padding: 4px 2px;
+}
+
+.agent-q {
+    align-self: flex-end;
+    max-width: 88%;
+    background: #1e1a12;
+    border: 1px solid #3a3020;
+    border-radius: 8px 8px 2px 8px;
+    padding: 6px 9px;
+    font-size: 11px;
+    color: #d6c39a;
+    line-height: 1.4;
+}
+.agent-a {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+.agent-answer {
+    font-size: 11px;
+    color: #a89878;
+    line-height: 1.45;
+    padding: 0 2px;
+}
+.agent-fallback-note {
+    font-size: 9px;
+    color: #6a5d42;
+    font-style: italic;
+    padding: 0 2px;
+}
+.agent-error {
+    font-size: 11px;
+    color: #b07a6e;
+    padding: 0 2px;
+}
+
+/* Typing indicator */
+.agent-typing {
+    display: flex;
+    gap: 4px;
+    padding: 4px 2px;
+}
+.agent-typing span {
+    width: 5px; height: 5px;
+    border-radius: 50%;
+    background: #6a5d42;
+    animation: agentPulse 1.1s infinite ease-in-out;
+}
+.agent-typing span:nth-child(2) { animation-delay: 0.18s; }
+.agent-typing span:nth-child(3) { animation-delay: 0.36s; }
+@keyframes agentPulse {
+    0%, 70%, 100% { opacity: 0.25; transform: scale(0.85); }
+    35%           { opacity: 1;    transform: scale(1.05); }
+}
+
+/* Result rows */
+.agent-result {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    width: 100%;
+    text-align: left;
+    background: #15130d;
+    border: 1px solid #2a2416;
+    border-radius: 5px;
+    padding: 7px 9px;
+    cursor: pointer;
+    transition: background 0.12s, border-color 0.12s;
+}
+.agent-result:hover { background: #221d12; border-color: #c9a96e; }
+.agent-result-top {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+.agent-result-id {
+    font-size: 11px;
+    font-weight: 700;
+    color: #c9a96e;
+    letter-spacing: 0.04em;
+}
+.agent-result-genre {
+    font-size: 8px;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    padding: 1px 5px;
+    border-radius: 3px;
+    border: 1px solid #3a3020;
+    color: #8a7c5c;
+}
+.agent-result-genre.g-new-testament { color: #c98a7a; border-color: #5a3a30; }
+.agent-result-genre.g-receipts      { color: #7aa97a; border-color: #2f4a2f; }
+.agent-result-genre.g-contracts     { color: #a98ac9; border-color: #45305a; }
+.agent-result-genre.g-letters       { color: #c9a06a; border-color: #5a452a; }
+.agent-result-date {
+    font-size: 9px;
+    color: #6a5d42;
+    margin-left: auto;
+}
+.agent-result-name {
+    font-size: 10px;
+    color: #8a7c5c;
+    line-height: 1.3;
+}
+.agent-result-reason {
+    font-size: 10px;
+    color: #a89878;
+    font-style: italic;
+    line-height: 1.35;
+}
+
+/* Input row */
+#agent-form {
+    display: flex;
+    gap: 6px;
+    padding: 10px;
+    border-top: 1px solid #2a2416;
+    flex-shrink: 0;
+}
+#agent-input {
+    flex: 1;
+    background: #15130d;
+    border: 1px solid #2a2416;
+    border-radius: 5px;
+    padding: 7px 9px;
+    font-size: 11px;
+    color: #d6c39a;
+    font-family: 'Inter', sans-serif;
+    outline: none;
+}
+#agent-input:focus { border-color: #c9a96e; }
+#agent-input::placeholder { color: #4a4030; }
+#agent-send {
+    background: #1e1a12;
+    border: 1px solid #3a3020;
+    border-radius: 5px;
+    color: #c9a96e;
+    font-size: 13px;
+    padding: 0 11px;
+    cursor: pointer;
+    transition: background 0.12s, border-color 0.12s;
+}
+#agent-send:hover { background: #2a2416; border-color: #c9a96e; }
+#agent-send:disabled { opacity: 0.45; cursor: default; }
+
+/* ── WELCOME SCREEN ─────────────────────────────────────── */
+
+#welcome-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 3000;
+    background: rgba(5, 4, 2, 0.78);    /* dims the whole app */
+    backdrop-filter: blur(3px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    transition: opacity 0.25s ease;
+}
+#welcome-overlay.closing { opacity: 0; pointer-events: none; }
+#welcome-overlay.hidden  { display: none; }
+
+#welcome-modal {
+    position: relative;
+    width: min(80vw, 740px);
+    max-height: 80vh;            /* clear air above and below, like the sides */
+    overflow-y: auto;
+    background: #0d0c07;
+    border: 1px solid #3a3020;
+    border-radius: 12px;
+    box-shadow: 0 18px 80px rgba(0,0,0,0.85);
+    padding: 26px 30px 24px;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+
+#welcome-close {
+    position: absolute;
+    top: 14px;
+    right: 16px;
+    background: none;
+    border: none;
+    color: #6a5d42;
+    font-size: 19px;
+    line-height: 1;
+    cursor: pointer;
+    padding: 4px;
+    transition: color 0.12s, transform 0.12s;
+}
+#welcome-close:hover { color: #c9a96e; transform: scale(1.12); }
+
+#welcome-title {
+    margin: 0 0 8px;
+    font-family: 'Cinzel', serif;
+    font-size: 25px;
+    font-weight: 700;
+    color: #c9a96e;
+    letter-spacing: 0.06em;
+}
+#welcome-sub {
+    margin: 0 auto 20px;
+    max-width: 520px;
+    font-size: 12.5px;
+    line-height: 1.5;
+    color: #a89878;
+}
+
+#welcome-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+}
+
+.wc-card {
+    background: #15130d;
+    border: 1px solid #2a2416;
+    border-radius: 9px;
+    padding: 11px 12px 10px;
+    text-align: left;
+    transition: border-color 0.15s, transform 0.15s;
+}
+.wc-card:hover { border-color: #c9a96e; transform: translateY(-2px); }
+
+.wc-card-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #d6c39a;
+    letter-spacing: 0.02em;
+    margin-bottom: 9px;
+    min-height: 30px;
+}
+.wc-new {
+    flex-shrink: 0;
+    background: #c9a96e;
+    color: #0d0c07;
+    font-size: 9px;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    padding: 2px 7px;
+    border-radius: 3px;
+}
+
+.wc-card-media {
+    aspect-ratio: 16 / 7.4;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid #2a2416;
+    background: #0a0906;
+}
+.wc-card-media img,
+.wc-card-media video {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+@media (max-width: 700px) {
+    #welcome-grid { grid-template-columns: 1fr; }
+    #welcome-title { font-size: 22px; }
+}
+
 /* ── WRITING STAND ──────────────────────────────────────── */
 
 /* Panel — always in flex flow; slides via width 0 → 700px */
