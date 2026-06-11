@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 438 — Poll-tax receipt with instalments (λαογραφία)
+# Source: papyri.info DDbDP o.wilck;;438  (Trismegistos 76949)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 438
+label:    O.Wilck. 438
+name:     Poll-tax receipt with instalments (λαογραφία)
+genre:    receipts
+date:     2 Oct 75 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4326
+content:  Poll-tax instalments, year 7 of Vespasian, Hermonthis
+tm:       76949
+source:   https://papyri.info/ddbdp/o.wilck;;438
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέγρα(ψεν) Καμῆτις Πε(τε)αρπ(ρήους) Ἀμφιώμ(ιος)
+r.2   ὑπ(ὲρ) λαογ(ραφίας) Νότ(ου) κ(αὶ Λιβὸς) ζ (ἔτους) (δραχμὰς) ιβ. (ἔτους) ζ Οὐεσπασιανοῦ
+r.3   τοῦ κυρίου Μεχ(ὶρ) λ, ὁμο(ίως) Φαρμοῦθ(ι) κγ
+r.4   (δραχμὰς) δ, ὁμο(ίως) Παχὼ(ν) κε (δραχμὰς) η, ὁμο(ίως) Φαῶφι δ
+r.5   (δραχμὰς) β(τριώβολον), αἱ κ(αὶ) (δραχμαὶ) β(διώβολον).
+
+[TRANSLATION]
+1   Kametis son of Petearpres, (grand)son of Amphiomis, paid,
+2   for poll-tax of the South-(and-West), year 7, 12 dr. Year 7 of Vespasian
+3   the lord, Mecheir 30; likewise Pharmouthi 23,
+4   4 dr.; likewise Pachon 25, 8 dr.; likewise Phaophi 4,
+5   2 dr. 3 ob., which are 2 dr. 2 ob.

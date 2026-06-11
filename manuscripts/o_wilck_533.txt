@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 533 — Dike-tax and other-taxes receipt (χωματικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;533  (Trismegistos 77043)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 533
+label:    O.Wilck. 533
+name:     Dike-tax and other-taxes receipt (χωματικόν), Charax quarter
+genre:    receipts
+date:     23 Jul 123 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 7953
+content:  Dike-tax + others of year 7 of Hadrian, Thebes
+tm:       77043
+source:   https://papyri.info/ddbdp/o.wilck;;533
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Φατρὴ(ς) πράκ(τωρ) ἀρ(γυρικῶν) Ψεναμενω( )
+r.2   Παουψάιτος Παοῦτος. ἔσχ(ον)
+r.3   ὑπ(ὲρ) χω(µατικοῦ) καὶ ἄλ(λων) ζ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) ἑπτὰ (τετρώβολον) χ(αλκοῦς) [β]
+r.4   (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) ἑπτὰ (τετρώβολον) χ(αλκοῖ 2). (ἔτους) ζ Ἁδριανοῦ [Καί-]
+r.5   σαρος τοῦ κυρίου _(?)_ Ἐ(πὶ)φ κθ. Α ̣ ̣( )
+
+[TRANSLATION]
+1   Phatres, collector of money-taxes, (to) Psenameno( )
+2   son of Paoupsais, (grand)son of Paous. He received,
+3   for dike-tax and others of year 7, in base (coin), seven drachmas, 4 obols, [2] chalkoi
+4   — total, base, seven (dr.), 4 obols, 2 chalkoi. Year 7 of Hadrian [Cae-]
+5   sar the lord, Epeiph 29. A…( )

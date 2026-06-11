@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 514 — Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;514  (Trismegistos 77024)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 514
+label:    O.Wilck. 514
+name:     Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+genre:    receipts
+date:     23 Sept 116 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1603
+content:  Watchtower + other taxes of the Charax quarter, year 20 of Trajan
+tm:       77024
+source:   https://papyri.info/ddbdp/o.wilck;;514
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ψε(ν)χῶ(νσις) καὶ (μέτοχοι) <πράκ(τορες) ἀργ(υρικῶν)> μη(τροπόλεως) Κολλούθ(ῃ) Παναμ(έως)
+r.2   μη(τρὸς) ̣φ ̣ο( ). ἔσχ(ον) ὑπ(ὲρ) σκοπ(έλου) καὶ ἄ(λλων) Χά(ρακος) κ (ἔτους) ῥυπ(αρὰς)
+r.3   δ(ρα)χ(μὰς) τρεῖς (πεντώβολον) (γίνονται) (δραχμαὶ) γ(πεντώβολον). (ἔτους) κ Τ(ραιαν)οῦ
+r.4   Ἀρ(ίστου) τοῦ κ(υρίου) Θὼτ κϛ ̣ ̣ ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1   Psenchonsis and partners, <collectors of money-taxes> of the metropolis, to Kollouthes son of Panameus,
+2   mother .ph.o( ). He received, for the watchtower(-tax) and others of the Charax (quarter), year 20, in base (coin),
+3   three drachmas, 5 obols — total 3 dr. 5 ob. Year 20 of Trajan
+4   Optimus the lord, Thoth 26. …( ), I have signed.

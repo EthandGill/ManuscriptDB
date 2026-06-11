@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Fay. 41 — Grain-delivery certificate
+# Source: papyri.info DDbDP o.fay;;41  (Trismegistos 32889)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 41
+label:    O.Fay. 41
+name:     Grain-delivery certificate
+genre:    receipts
+date:     early IV CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 41
+content:  ⅓ sack + 1 artaba of grain, Euhemeria
+tm:       32889
+source:   https://papyri.info/ddbdp/o.fay;;41
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   Παύνει κζ
+r.2   Ἀβοῦς σίτου
+r.3   σάκου γ´,
+r.4   σίτου (ἀρτάβην) α.
+
+[TRANSLATION]
+1   Pauni 27:
+2   Abous, of grain,
+3   ⅓ of a sack,
+4   1 artaba of grain.

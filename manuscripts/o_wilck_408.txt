@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 408 — Memnoneia-drachma and dike-tax receipt
+# Source: papyri.info DDbDP o.wilck;;408  (Trismegistos 76919)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 408
+label:    O.Wilck. 408
+name:     Memnoneia-drachma and dike-tax receipt
+genre:    receipts
+date:     9 Oct 58 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4496
+content:  'Drachma of the Memnoneia' + dike-tax, year 5 of Nero
+tm:       76919
+source:   https://papyri.info/ddbdp/o.wilck;;408
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διέγρ(αψαν) Πασῆ(μις) Παῶς Λεω( ) καὶ Πασῆ(μις) υἱὸ(ς)
+r.2   ὑπ(ὲρ) δραχ(μῆς) Μεμ̣νο(νείων) δ (ἔτους) (δραχμὰς) β. (ἔτους) ε Νέρωνος Κλαυδίου
+r.3   Καίσαρος Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+r.4   Φαῶ(φι) ε. ὁμο(ίως) ιβ ὑπ(ὲρ) χω(ματικοῦ) (δραχμὴν) α (ὀβολοὺς) γ𐅵, ὁμο(ίως) ὑπ(ὲρ) Πασή(μιος) υἱο(ῦ) (δραχμὴν) α [ ̣ ̣ ̣ ̣]
+r.5   αἱ κ(αὶ) (δραχμὴ) α (ὀβολοὶ) δ𐅵.
+
+[TRANSLATION]
+1   Pasemis son of Paos, of Leo( ), and Pasemis (his) son paid,
+2   for the drachma of the Memnoneia of year 4, 2 dr. Year 5 of Nero Claudius
+3   Caesar Augustus Germanicus Imperator,
+4   Phaophi 5. Likewise (on the) 12th, for dike-tax 1 dr. 3½ ob.; likewise for Pasemis (his) son 1 dr. [..]
+5   which are also 1 dr. 4½ ob.

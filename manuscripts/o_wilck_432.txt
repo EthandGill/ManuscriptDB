@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 432 — Poll-tax receipt with instalments (λαογραφία)
+# Source: papyri.info DDbDP o.wilck;;432  (Trismegistos 76943)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 432
+label:    O.Wilck. 432
+name:     Poll-tax receipt with instalments (λαογραφία)
+genre:    receipts
+date:     28 Apr 72 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1623
+content:  Poll-tax instalments, year 4 of Vespasian, Hermonthis
+tm:       76943
+source:   https://papyri.info/ddbdp/o.wilck;;432
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέγρα(ψεν) Καμῆτις Πετεαρπ(ρήους) Ἀμφιώμι(ος)
+r.2   μη(τρὸς) Τασήμιος Παμοντκ(ύσιος) ὑπ(ὲρ) λαογ(ραφίας) Νότου κ(αὶ Λιβὸς) δ (ἔτους)
+r.3   (δραχμὰς) η. (ἔτους) δ Οὐεσπασιανοῦ τοῦ κυρίου Μεχ(ὶρ) κ[ ̣],
+r.4   ὁμο(ίως) Φαρμο(ῦθι) κε (δραχμὰς) η, ὁμο(ίως) Παχὼ(ν) γ (δραχμὰς) δ.
+
+[TRANSLATION]
+1   Kametis son of Petearpres, (grand)son of Amphiomis,
+2   mother Tasemis, of Pamontkysis, paid, for poll-tax of the South-(and-West), year 4,
+3   8 dr. Year 4 of Vespasian the lord, Mecheir 2[.],
+4   likewise Pharmouthi 25, 8 dr.; likewise Pachon 3, 4 dr.

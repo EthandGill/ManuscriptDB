@@ -1,0 +1,79 @@
+# ───────────────────────────────────────────────
+# BGU 4.1056 — Loan of money (synchoresis), with interest
+# Source: papyri.info DDbDP bgu;4;1056  (Trismegistos 18500)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1056
+label:    BGU 4.1056
+name:     Loan of money (synchoresis), with interest
+genre:    contracts
+date:     17 Apr 13 BCE
+language: Greek (Koiné)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13081
+content:  Ptolemaios and his wife Selene acknowledge a loan of 112 dr. from Platon at 2 dr. interest, repayable in 6 months; synchoresis before Protarchos
+tm:       18500
+source:   https://papyri.info/ddbdp/bgu;4;1056
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   [Πρωτάρχ]ωι
+r.2   παρὰ Πλάτωνος τοῦ Θεοδώρου καὶ παρὰ Πτο-
+r.3   λεμαίου τοῦ Ζή[ν]ωνος Πέρσου τῆς ἐπιγονῆς
+r.4   καὶ τῆς τούτ[ο]υ γυναικὸς Σελήνης τῆς Πτο-
+r.5   λεμαίου Περσείνης μετὰ κυρίου αὐτοῦ τοῦ
+r.6   ἀνδρὸς περὶ τῶν διεσταμένων συνχω-
+r.7   [ροῦ]σιν Πτολεμαῖος καὶ Σελήνη ἔχιν παρὰ
+r.8   το[ῦ] Πλάτωνος δάνηον διὰ χιρὸς ἐξ οἴκου
+r.9   ἀργυρίου Πτολεμαικοῦ (δραχμὰς) ριβ τόκων διδρ̣[ά-]
+r.10   χμων τῶν ριβ (δραχμῶν) τοῦ μηνὸς ἑκάστου
+r.11   ὃ καὶ ἀποδώσειν ἐν μησὶν ἓξ ἀπὸ Παχὼν
+r.12   το[ῦ ἐ]νεστῶτος ιζ (ἔτους) Καίσαρος διδόντες
+r.13   τὸν μὲν τόκον κατὰ μῆνα εὐτάκτως τὸ δὲ
+r.14   κεφάλαιον ἐν τῷ ἐσχάτῳ μηνὶ ἄνευ πά-
+r.15   σης ὑπερθέσεως ἢ̣ εἶναι αὐτοὺς παραχρῆ-
+r.16   μα ἀγωγίμους καὶ συνέχεσθαι μέχρι τοῦ
+r.17   ἐκτεῖσαι τὸ μὲν δάνηον σὺν ἡμιολίᾳ, τοὺς
+r.18   δὲ τόκους ἁπλοῦς καὶ τοῦ δὲ ὑ̣περπεσόν-
+r.19   τος χρόνου τοὺς ἴσους τῆς πράξεως γι-
+r.20   νομένης τῷ Πλάτωνι ἔκ τε τῶν ὑποχρέ-
+r.21   ων ὄντων ἀλληλενγύων εἰς ἔκτισιν καὶ
+r.22   ἐξ ἑνὸς καὶ ἐξ οὗ ἐὰν αὐτῶν αἱρῆται καὶ
+r.23   ἐκ τῶν ὑπαρχόντων αὐτοῖς πάντων
+r.24   καθάπερ ἐγ δίκης ἀκύρων οὐσῶν καὶ ὧν
+r.25   ἐὰν ἐπενέγκωσιν πίστεων πασῶ[ν]
+r.26   σκέπης πάσης. ἀ̣ξ̣(ιοῦμεν)
+r.27   ἔ(τους) ιζ Καίσαρος Φαρμοῦθι κβ
+
+[TRANSLATION]
+1   [To Protarch]os,
+2   from Platon son of Theodoros and from Pto-
+3   lemaios son of Zenon, a Persian of the epigone,
+4   and from this man's wife Selene daughter of Pto-
+5   lemaios, a Persian woman, with her guardian, her
+6   husband. Concerning the matters at issue, they agree —
+7   Ptolemaios and Selene — that they have from
+8   Platon a loan, from hand to hand out of the house,
+9   of Ptolemaic silver, 112 (drachmas), at interest of two drach-
+10   mas on the 112 (drachmas) each month,
+11   which they will also repay in six months from Pachon
+12   of the present year 17 of Caesar, paying
+13   the interest monthly and punctually, and the
+14   principal in the last month, without any
+15   postponement; or else they are at once
+16   liable to seizure and to be held until
+17   they pay the loan with half as much again, and the
+18   interest at the simple rate, and, for the time
+19   elapsed, the equal (interest), the right of execution be-
+20   longing to Platon, both from the debtors,
+21   who are mutual sureties for the payment, and
+22   from one and from whichever of them he chooses, and
+23   from all their property,
+24   as if by legal judgement, void being whatever
+25   pledges of trust they may bring forward,
+26   (and) every protection. We request (this).
+27   Year 17 of Caesar, Pharmouthi 22.

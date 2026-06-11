@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 347 — Bank receipt — general-dealers' tax, Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;347  (Trismegistos 43809)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 347
+label:    O.Wilck. 347
+name:     Bank receipt — general-dealers' tax, Diospolis Magna
+genre:    receipts
+date:     26 Dec 136 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 3982
+content:  Tax on general-dealers, year 35
+tm:       43809
+source:   https://papyri.info/ddbdp/o.wilck;;347
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   ἔτους λε Χοίαχ β τέ(τακται) ἐπὶ τὴν
+r.2   ἐν Διὸς πό(λει) τῆι με(γάλῃ) τρά(πεζαν), ἐφʼ ἧς Ἡρα(κλείδης),
+r.3   ἐπιζη( ) παντοπωλῶν Ἡρακλείδη(ς)
+r.4   δισχιλίας ἑξακο(σίας) ὀγδοή(κοντα) (γίνονται) Βχπ.
+r.5   Ἡρα(κλείδης) τρα(πεζίτης).
+r.6   Γρ
+
+[TRANSLATION]
+1   Year 35, Choiak 2. There has been paid into the
+2   bank at Diospolis Magna, at which Hera(kleides) (presides):
+3   of the inspection(?)-tax on general-dealers, Herakleides,
+4   two thousand six hun(dred) eighty — total 2680.
+5   Hera(kleides) banker.
+6   Gr( ).

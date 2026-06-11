@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 466 — Poll-tax and dike-tax receipt with instalments
+# Source: papyri.info DDbDP o.wilck;;466  (Trismegistos 76976)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 466
+label:    O.Wilck. 466
+name:     Poll-tax and dike-tax receipt with instalments
+genre:    receipts
+date:     25 Oct 86 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4319
+content:  Poll-tax + dike + guard instalments, year 5 of Domitian, Hermonthis
+tm:       76976
+source:   https://papyri.info/ddbdp/o.wilck;;466
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέγρα(ψεν) Ψενσεντιθοήο(υς) Παβούχιο(ς)
+r.2   Πετεήσεω(ς) ὑπ(ὲρ) λαο(γραφίας) Νότου καὶ Λιβ(ὸς)
+r.3   ε (ἔτους) (δραχμὰς) η. (ἔτους) ε Δ(ο)μ(ιτιαν)οῦ Καίσαρος (τοῦ) κυρίου
+r.4   Παχὼ(ν) ϛ. ὁμο(ίως) Παχὼ(ν) ϛ (δραχμὰς) δ, ὁμο(ίως)
+r.5   Παχῶ(ν) η (δραχμὰς) δ, ὁμοί(ως) ϛ (ἔτους) Φαῶφι ε χω(ματικοῦ) (δραχμὰς) δ,
+r.6   αἱ κ(αὶ) (δραχμαὶ) γ (ὀβολοὶ) δ𐅵, ὁμο(ίως) Φαῶφι κη χω(ματικοῦ) (δραχμὰς) ϛ(τριώβολον).
+r.7   (hand 2) ὁμοίω(ς) Παχὼ(ν) ϛ ὑπ(ὲρ) ὀψω(νίου) φυλ(άκων) ε (ἔτους) (δραχμὴν) α.
+
+[TRANSLATION]
+1   Psensentithoes son of Pabouchis,
+2   grandson of Peteesis, paid, for poll-tax of the South-and-West (quarter),
+3   year 5, 8 dr. Year 5 of Domitian Caesar the lord,
+4   Pachon 6. Likewise Pachon 6, 4 dr.; likewise
+5   Pachon 8, 4 dr.; likewise (in) year 6, Phaophi 5, dike-tax 4 dr.,
+6   (= ) 3 dr. 4½ ob.; likewise Phaophi 28, dike-tax 6 dr. 3 ob.
+7   (2nd hand) Likewise Pachon 6, for the guards' pay of year 5, 1 dr.

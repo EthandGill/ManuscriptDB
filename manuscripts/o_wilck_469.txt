@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 469 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;469  (Trismegistos 76979)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 469
+label:    O.Wilck. 469
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+genre:    receipts
+date:     2 Apr 87 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1117
+content:  Poll-tax + bath-tax of the Charax quarter, year 6 of Domitian
+tm:       76979
+source:   https://papyri.info/ddbdp/o.wilck;;469
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρ(άφηκεν) Ὧρος Μεσο(ήριος)
+r.2   ὑπ(ὲρ) λαο(γραφίας) Χά(ρακος) ϛ (ἔτους) (δραχμὰς) ι, βα(λανικοῦ) α (ὀβολὸν) α𐅵 (γίνονται) ια (ὀβολὸς) α𐅵
+r.3   καὶ προ(σδιαγραφόμενα). (ἔτους) ϛ Δομιτιανοῦ τοῦ κυρίου
+r.4   Φαμε(νὼθ) λ‡7ζ. Ἀπολ( ) ̣ ̣ ̣ σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1   Horos son of Mesoeris paid,
+2   for poll-tax of the Charax (quarter), year 6, 10 dr.; bath-tax 1 dr. 1½ ob. — total 11 (dr.) 1½ ob. —
+3   and surcharges. Year 6 of Domitian the lord,
+4   Phamenoth 7(?). Apol( ) …, I have signed.

@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Fay. 44 — Wine-delivery note (Koan jars)
+# Source: papyri.info DDbDP o.fay;;44  (Trismegistos 29923)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 44
+label:    O.Fay. 44
+name:     Wine-delivery note (Koan jars)
+genre:    receipts
+date:     2nd–3rd c. CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 44
+content:  10 Koan wine-jars delivered to Apychis, Theadelphia
+tm:       29923
+source:   https://papyri.info/ddbdp/o.fay;;44
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   Παῦνι κθ ,
+r.2   ἀπώδως Ἀπύχι
+r.3   Κῷα ι.
+
+[TRANSLATION]
+1   Pauni 29:
+2   paid out(?) to Apychis,
+3   10 Koan (jars).

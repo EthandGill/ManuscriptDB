@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 531 — Dike-tax and other-taxes receipt (χωματικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;531  (Trismegistos 77041)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 531
+label:    O.Wilck. 531
+name:     Dike-tax and other-taxes receipt (χωματικόν), Charax quarter
+genre:    receipts
+date:     26 Jul 123 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 8569
+content:  Dike-tax + others of the Charax quarter, year 7 of Hadrian
+tm:       77041
+source:   https://papyri.info/ddbdp/o.wilck;;531
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Φαῆρι(ς) πράκ(τωρ) ἀργ(υρικῆς) Πετεχ(εσ)π(οχράτῃ)
+r.2   (ὁμοίως) Ταύρων(ος). ἔσχ(ον) ὑπ(ὲρ) χω(ματικοῦ)
+r.3   καὶ ἄλ(λων) Χά(ρακος) ζ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) ἑπτὰ (τετρώβολον) [χ(αλκοῦς 2)]
+r.4   (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) ζ(τετρώβολον) χ(αλκοῖ 2). (ἔτους) ζ Ἁδριανοῦ
+r.5   τοῦ κυρίου Ἐπ(ὶ)φ λβ. Α ̣ ̣( )
+
+[TRANSLATION]
+1   Phaeres, collector of money-tax, (to) Petecheaspochrates,
+2   likewise (son) of Tauron. He received, for dike-tax
+3   and others of the Charax (quarter), year 7, in base (coin), seven drachmas, 4 obols, [2 chalkoi]
+4   — total, base, 7 dr. 4 ob. 2 chalkoi. Year 7 of Hadrian
+5   the lord, Epeiph 32(?). A…( ).

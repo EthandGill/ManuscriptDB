@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 431 — Poll-tax receipt with instalments (λαογραφία)
+# Source: papyri.info DDbDP o.wilck;;431  (Trismegistos 76942)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 431
+label:    O.Wilck. 431
+name:     Poll-tax receipt with instalments (λαογραφία)
+genre:    receipts
+date:     26 Sept 71 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4305
+content:  Poll-tax + dike-tax instalments, year 3 of Vespasian, Hermonthis
+tm:       76942
+source:   https://papyri.info/ddbdp/o.wilck;;431
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέγ(ραψεν) Καμῆτις Πετεαρπρήους
+r.2   Ἀμφιώμιος ὑπ(ὲρ) λαογ(ραφίας) Νότου κ(αὶ Λιβὸς) γ (ἔτους)
+r.3   (δραχμὰς) η. (ἔτους) γ Αὐτοκράτορος Καίσαρος
+r.4   Οὐεσπασιανοῦ Σεβαστοῦ Μεχ(ὶρ) κθ.
+r.5   (hand 2) ὁμο(ίως) Φαρμο(ῦθι) ε (δραχμὰς) η, ὁμο(ίως) Παχὼ(ν)
+r.6   κθ (δραχμὰς) δ, ὁμο(ίως) Παῦ(νι) κη (δραχμὰς) δ,
+r.7   ὁμο(ίως) Ἐπὶφ λ ὑπ(ὲρ) ̣ ̣ ̣ ̣( ) χω(ματικοῦ) α (ἔτους)
+r.8   (δραχμὰς) γ (ὀβολοὺς) γ𐅵, αἱ κ(αὶ) (δραχμαὶ) γ(διώβολον), ὁμο(ίως) Θὼτ κη
+r.9   (δραχμὰς) γ (ἡμιωβέλιον) αἱ κ(αὶ) (δραχμαὶ) β (ὀβολοὶ) ε𐅵.
+
+[TRANSLATION]
+1   Kametis son of Petearpres,
+2   (grand)son of Amphiomis, paid, for poll-tax of the South-(and-West, quarter), year 3,
+3   8 dr. Year 3 of Imperator Caesar
+4   Vespasian Augustus, Mecheir 29.
+5   (2nd hand) Likewise Pharmouthi 5, 8 dr.; likewise Pachon
+6   29, 4 dr.; likewise Pauni 28, 4 dr.;
+7   likewise Epeiph 30, for …( ) dike-tax of year 1,
+8   3 dr. 3½ ob., which are 3 dr. 2 ob.; likewise Thoth 28,
+9   3 dr. ½ ob., which are 2 dr. 5½ ob.

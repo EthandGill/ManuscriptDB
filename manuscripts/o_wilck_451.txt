@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 451 — Guards'-tax receipt (φυλακή), Apollonopolis
+# Source: papyri.info DDbDP o.wilck;;451  (Trismegistos 76962)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 451
+label:    O.Wilck. 451
+name:     Guards'-tax receipt (φυλακή), Apollonopolis
+genre:    receipts
+date:     15 Jun 80 CE
+language: Greek (Koiné)
+found:    Apollonopolis Magna (Edfu), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12477
+content:  Guard-tax of year 2 of Titus, Apollonopolis (Edfu)
+tm:       76962
+source:   https://papyri.info/ddbdp/o.wilck;;451
+lat:      24.9781
+lon:      32.8731
+
+[GREEK]
+r.1   Ἀπολλ(ὼς) Ἁρνούριο(ς)
+r.2   φυλ(ακῆς) β (ἔτους) Τίτου
+r.3   (δραχμὴν) α. (ἔτους) β Παῦνι
+r.4   κα.
+
+[TRANSLATION]
+1   Apollos son of Harnouris,
+2   (for) the guard(-tax) of year 2 of Titus,
+3   1 dr. Year 2, Pauni
+4   21.

@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 350 — Bank receipt — land-surtax (ἐπαρούριον), bank of Hermonthis
+# Source: papyri.info DDbDP o.wilck;;350  (Trismegistos 43440)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 350
+label:    O.Wilck. 350
+name:     Bank receipt — land-surtax (ἐπαρούριον), bank of Hermonthis
+genre:    receipts
+date:     20 Aug – 18 Sept 126 BCE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12627
+content:  Land-surtax of year 44, paid into the Hermonthis bank
+tm:       43440
+source:   https://papyri.info/ddbdp/o.wilck;;350
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   ἔτους μδ Μεσορὴ
+r.2   τέ(τακται) ἐπὶ τὴν ἐν Ἑρμ(ώνθει) τρά(πεζαν), ἐφʼ ἧς Ἡρα(κλείδης),
+r.3   ἐπαρουρίου μδ (ἔτους) Ἁρεν-
+r.4   δώτης Θοτήους
+r.5   χα(λκοῦ) (δραχμὰς) χιλίας πεντακοσίας
+r.6   (γίνονται) (δραχμαὶ) Αφ. Ἡρα(κλείδης) τρα(πεζίτης).
+r.7   Αχε.
+
+[TRANSLATION]
+1   Year 44, Mesore.
+2   There has been paid into the bank at Hermonthis, at which Hera(kleides) (presides):
+3   of the land-surtax (eparourion) of year 44, Haren-
+4   dotes son of Thoteus,
+5   of copper, drachmas one thousand five hundred
+6   — total 1500 dr. Hera(kleides) banker.
+7   1605.

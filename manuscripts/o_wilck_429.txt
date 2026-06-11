@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 429 — Poll-tax, bath- and dike-tax receipt with instalments
+# Source: papyri.info DDbDP o.wilck;;429  (Trismegistos 76940)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 429
+label:    O.Wilck. 429
+name:     Poll-tax, bath- and dike-tax receipt with instalments
+genre:    receipts
+date:     1 Oct 70 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4325
+content:  Poll-tax + baths + dike-tax instalments, years 2–3 of Vespasian, Hermonthis
+tm:       76940
+source:   https://papyri.info/ddbdp/o.wilck;;429
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέγρα(ψεν) Καμῆ(τις) Πετεαρπ(ρήους) Ἀμφιῶμις ὑπ(ὲρ)
+r.2   λαο(γραφίας) Νότου καὶ Λιβ(ὸς) β (ἔτους) (δραχμὰς) η. (ἔτους) β Οὐεσπασιανοῦ
+r.3   τοῦ κυρίου Μεχεὶρ κϛ. ὁμ(οίως) Φαμενὼ(θ) λ
+r.4   (δραχμὰς) η, ὁμ(οίως) Παχὼν ι (δραχμὰς) δ, ὁμο(ίως) Μεσορὴ ϛ
+r.5   ὑπ(ὲρ) βαλανή(ων) (δραχμὰς) δ, ὁμο(ίως) γ (ἔτους) Φαῶφι δ ὑπ(ὲρ) χω(ματικοῦ)
+r.6   β (ἔτους) (δραχμὰς) γ (ὀβολὸν) α𐅵, αἱ κ(αὶ) (δραχμαὶ) β (ὀβολοὶ) ε𐅵.
+
+[TRANSLATION]
+1   Kametis son of Petearpres, (grand)son of Amphiomis, paid, for
+2   poll-tax of the South-and-West (quarter), year 2, 8 dr. Year 2 of Vespasian
+3   the lord, Mecheir 26. Likewise Phamenoth 30,
+4   8 dr.; likewise Pachon 10, 4 dr.; likewise Mesore 6,
+5   for the baths, 4 dr.; likewise (in) year 3, Phaophi 4, for dike-tax
+6   of year 2, 3 dr. 1½ ob., which are 2 dr. 5½ ob.

@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 549 — Assessments receipt (μερισμοί), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;549  (Trismegistos 77058)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 549
+label:    O.Wilck. 549
+name:     Assessments receipt (μερισμοί), Charax quarter
+genre:    receipts
+date:     14 Apr 132 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 520
+content:  Assessments of the Charax quarter, year 16 of Hadrian, requisitioners
+tm:       77058
+source:   https://papyri.info/ddbdp/o.wilck;;549
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἵεραξ κ(αὶ) μὲ(τοχοι) ἀπαιτηταὶ Χά(ρακος)
+r.2   Πετεχενσεβάιος Ψαήριο(ς) Πετεχώ(νσιος)
+r.3   <ἔσχομεν> ὑπ(ὲρ) μερισ(μῶν) προχ( ) ῥυπ(αρὰς) (δραχμὰς) γ(τριώβολον) (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) γ(τριώβολον).
+r.4   (ἔτους) ιϛ Ἁδριανοῦ τοῦ κυρίου Φαρμο(ῦθι) ιθ.
+
+[TRANSLATION]
+1   Hierax and partners, requisitioners of the Charax (quarter),
+2   (to) Petechensebais son of Psaeris, (grand)son of Petechonsis.
+3   <We have received>, for assessments, in advance(?), in base (coin), 3 dr. 3 ob. — total, base, 3 dr. 3 ob.
+4   Year 16 of Hadrian the lord, Pharmouthi 19.

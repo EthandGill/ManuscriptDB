@@ -1,0 +1,101 @@
+# ───────────────────────────────────────────────
+# BGU 4.1100 — Marriage contract (synchoresis): Artemidoros & Ammonarion
+# Source: papyri.info DDbDP bgu;4;1100  (Trismegistos 18538)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1100
+label:    BGU 4.1100
+name:     Marriage contract (synchoresis): Artemidoros & Ammonarion
+genre:    contracts
+date:     30 BCE – 14 CE (Augustan)
+language: Greek (Koiné)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13090 Ro
+content:  Marriage agreement before the tribunal: Ammonios and Semele give their daughter Ammonarion to Artemidoros with a dowry of 300 dr. in garments, gold and silver; mutual obligations
+tm:       18538
+source:   https://papyri.info/ddbdp/bgu;4;1100
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   ̣ ̣η Ἀρτεμιδωρ( ) Π̣α̣μ̣φίλ(ου)
+r.2   κ (πυροῦ ἀρταβ ) ἀ̣ποφε̣ρ̣ο̣μ̣ε̣(ν )
+r.3   ̣ ̣ ̣ ̣ θ̣υ̣γ̣α̣τ̣ ̣ ̣( ) Ζωὶς απο ̣ ̣ ̣( ) ctr
+r.4   [π]αρὰ Ἀμμωνίου τοῦ Ἀμμω̣ν̣ί̣ο̣υ̣ Ἀ̣λ̣θ̣α̣ι̣έ̣[ως καὶ]
+r.5   [τ]ῆς τούτου γυναικὸς Σεμέλης τῆς Ἀ̣μμ̣[ωνί-]
+r.6   [ου ἀ]στῆς μετὰ κυρίου αὐτοῦ Ἀμμωνίου
+r.7   [κ]αὶ παρὰ Ἀρτεμιδώρου τοῦ Ἀρτεμ̣[ιδώρου]
+r.8   Ἀλθαιέως. περὶ ὧν διεστάμεθα συν-
+r.9   χωροῦμεν πρὸς ἀλλήλους ἐπὶ το̣ῖ̣σ̣δ̣ε̣
+r.10   ὥ̣σ̣τ̣ʼ ἐπεὶ ἐγδέδονται ὅ τε Ἀμμώνιο[ς]
+r.11   [κ]αὶ Σεμέλη τῷ Ἀρτεμιδώρου τ[ὴν]
+r.12   ἑ̣α̣τῶν θυγατέρ̣α Ἀμμωνάριον [ ̣ ̣ ̣]
+r.13   [τ]έλιον ο̣ὐ̣σα πρὸς βίου κοινωνίαν [ἀν-]
+r.14   δ̣ρ̣ὶ̣ καὶ προσενηνεγμε̣ν̣ο̣ι̣ ο̣ἷ̣α [ἐν]
+r.15   [φ]ερνῇ ἱμάτια καὶ χρυσώ̣τια καὶ ἐ̣π̣[ί-]
+r.16   σ̣η̣μον τά τε πάντα εἰς λόγον ἀ̣ρ̣γ̣υ̣(ρίου)
+r.17   [(δραχμῶν)] τριακοσίων , ἀπὸ τοῦ νῦν το Ἀρτε-
+r.18   μίδωρον ἀπεσχηκότα διὰ χει[ρὸς]
+r.19   ἐξ οἴκου τὴν προκειμένην φ̣[ερνὴν]
+r.20   ἀπὸ τοῦ νῦν χ̣ορηγεῖν τῇ Ἀμμω[ναρί-]
+r.21   ῳ τὰ δέοντα ππά̣ν̣τ̣α̣ κ̣α̣ὶ̣ τὸν ἱ̣μ̣α̣-
+r.22   τισμὸν ὡ̣ς̣ γ̣υ̣ν̣ὴ̣ γαμετ̣ῇ̣ κ̣α̣τ̣ὰ̣ δ̣ύ̣ν̣[μιν]
+r.23   τῶν ὑ̣π̣α̣ρ̣χ̣ό̣ν̣τ̣ω̣ν̣ κ̣α̣ὶ̣ μ̣ὴ̣ κ̣α̣κ̣ο̣υ̣[χεῖν]
+r.24   μ̣η̣δ̣ὲ̣ ὑ̣β̣ρ̣ί̣ζ̣ε̣ι̣ν̣ μηδʼ ἐγβάλλειν μ[ηδὲ]
+r.25   γ̣υ̣ν̣α̣ῖ̣κα ἐ̣π̣ι̣σ̣ά̣γ̣γ̣ε̣ι̣ν̣ μ̣η̣δ’ ἕτ̣ε̣ρ̣ο̣ν̣
+r.26   μ̣η̣δ̣ὲ̣ν̣ τ̣ῶ̣ν̣ ἀπηγορευ[μένων]
+r.27   ἀ̣δίκημα εἰς αὐτὴν δ̣ι̣α̣π̣ρ̣ά̣[σσεσθαι·]
+r.28   ἐ̣ὰ̣ν̣ δ̣έ̣ τ̣ι̣ τ̣ο̣ύ̣τ̣ω̣ν̣ παραβαί̣ν̣ῃ̣
+r.29   ἐ̣κ̣τ̣ί̣νειν αὐτὸν τὴν προκειμέν-
+r.30   ην φερνὴν τῆς πράξεως γε̣ι̣ν̣ο̣μ̣-
+r.31   ένης τῇ Ἀμμωναρίῳ ἔκ τε [αὐτοῦ]
+r.32   Ἀρτεμιδώρου καὶ ἐκ τῶν ὑ̣-
+r.33   παρχόντων αὐτῷ πάντων κα-
+r.34   θάπερ ἐγ δίκης· κατὰ δὲ τ̣ὸ̣ν̣ [αὐτὸν]
+r.35   τρόπον μηδὲ τῇ Ἀμμρίῳ ἐ[ξεῖναι]
+r.36   [μή]τʼ ἀπόκοιτον μ̣ή̣τ̣ʼ ἀ̣φ̣ή̣μ̣ε̣[ρον]
+r.37   [γεί]νεσθαι ἀπὸ τῆς Ἀρτεμιδώρ[ου]
+r.38   [οἰκίας] ἄ̣ν̣ε̣υ̣ τ̣ῆ̣ς̣ α̣ὐ̣τ̣ο̣[ῦ γνώμης]
+
+[TRANSLATION]
+1   … Artemidoros(?) son of Pamphilos
+2   20 (artabas of wheat?), being carried off …
+3   … daughter(?) … Zois …
+4   [fr]om Ammonios son of Ammonios, of the Althaian (deme), [and]
+5   [fr]om this man's wife Semele daughter of Amm[oni-]
+6   [os], a citizen-woman, with her guardian Ammonios,
+7   [a]nd from Artemidoros son of Artem[idoros],
+8   of the Althaian (deme). Concerning the matters at issue we a-
+9   gree with one another on these terms:
+10   that, since Ammonio[s]
+11   [a]nd Semele have given in marriage to Artemidoros t[heir]
+12   own daughter Ammonarion, […]
+13   being of age, for a partnership of life with a hus-
+14   band, and have brought, as [in]
+15   dowry, garments and gold ornaments and st[am-]
+16   ped (silver), all of it to the account of silver,
+17   [of] three hundred [drachmas]; (and) from now on Arte-
+18   midoros, having received from ha[nd]
+19   to hand out of the house the aforesaid d[owry],
+20   (is) from now on to provide Ammo[narion]
+21   with all the necessaries and cloth-
+22   ing, as for a wedded wife, according to the mea[ns]
+23   of his property, and not to mal[treat (her)],
+24   nor to insult (her), nor to eject (her), n[or]
+25   to bring in (another) woman, nor any other
+26   of the forbid[den]
+27   wrong to com[mit] against her;
+28   and if he transgresses any of these things,
+29   he is to pay back the afore-
+30   said dowry, the right of execution be-
+31   longing to Ammonarion, both from [him,]
+32   Artemidoros, and from his pr-
+33   operty, all of it, as
+34   if by legal judgement; and in the [same]
+35   way, neither (is) it [to be permitted] to Ammonarion
+36   (to be) either away by night or by d[ay]
+37   [from] Artemidoros's
+38   [house] without his [consent]

@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 400 — Receipt — hieratic palm-groves (φοινικῶνες ἱερατικοί)
+# Source: papyri.info DDbDP o.wilck;;400  (Trismegistos 76913)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 400
+label:    O.Wilck. 400
+name:     Receipt — hieratic palm-groves (φοινικῶνες ἱερατικοί)
+genre:    receipts
+date:     50–51 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4804
+content:  Tax on hieratic palm-groves, year 10, under Claudius
+tm:       76913
+source:   https://papyri.info/ddbdp/o.wilck;;400
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) Πετεμώ(νθης) [Παμώνθ(ου) ὑπ(ὲρ) φοι(νικώνων)]
+r.2   ἱερατικῶν ι (ἔτους) (δραχμ ) [ ̣ ̣ ̣ ̣ καὶ προσδ(ιαγραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου)].
+r.3   (ἔτους) ια Τιβερίου Κ[λαυδίου Καίσαρος Σεβαστοῦ]
+r.4   Γερμανικοῦ Αὐτο[κράτορος ̣ ̣ ̣ ̣ ̣ ̣ ̣].
+
+[TRANSLATION]
+1   Petemonthes [son of Pamonthes paid, for the palm-groves]
+2   of the hieratic (land), year 10, (drachmas) [… and surcharges at an obol (and) half-obol].
+3   Year 11 of Tiberius C[laudius Caesar Augustus]
+4   Germanicus Impe[rator, …].

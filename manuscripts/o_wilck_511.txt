@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 511 — Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;511  (Trismegistos 77021)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 511
+label:    O.Wilck. 511
+name:     Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+genre:    receipts
+date:     6–25 Jan 115 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4502
+content:  Watchtower + other taxes of the Charax quarter, year 18 of Trajan
+tm:       77021
+source:   https://papyri.info/ddbdp/o.wilck;;511
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἰμούθης καὶ μ(έτοχοι) Φαήρει
+r.2   Ψενμ̣υ̣χήους ἔσχ(ομεν) ὑπ(ὲρ) σκοπ(έλου)
+r.3   καὶ ἄλ(λων) Χά(ρακος) ιη (ἔτους) ῥυπ(αρὰς) (δραχμὰς) τέσσαρας (ὀβολοὺς) β𐅵
+r.4   (γίνονται) ῥυπ(αρὰς) (δραχμαὶ) δ (ὀβολοὶ) β𐅵. (ἔτους) ιη Τραιανοῦ
+r.5   Ἀρίστου τοῦ κυρίου Τῦβι ̣ ̣
+r.6   Ἀ ̣( ) σ(εσημείωμαι).
+
+[TRANSLATION]
+1   Imouthes and partners, to Phaeres
+2   son of Psenmychis. We have received, for the watchtower(-tax)
+3   and others of the Charax (quarter), year 18, in base (coin), four drachmas, 2½ obols
+4   — total, base, 4 dr. 2½ ob. Year 18 of Trajan
+5   Optimus the lord, Tybi .. .
+6   A( ), I have signed.

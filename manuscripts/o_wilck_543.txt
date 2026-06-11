@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 543 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;543  (Trismegistos 77052)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 543
+label:    O.Wilck. 543
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+genre:    receipts
+date:     8 Feb 130 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4589
+content:  Poll-tax + bath-tax of the Charax quarter, year 14 of Hadrian
+tm:       77052
+source:   https://papyri.info/ddbdp/o.wilck;;543
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἑριοφμόις πράκ(τωρ) ἀργ(υρικῆς)
+r.2   Ἀμενώθῃ Ἁρβήχ(ιος) μη(τρὸς)
+r.3   Σενχεσθώτο(υ). ἔσχο(ν) ὑπ(ὲρ) λαο(γραφίας)
+r.4   καὶ βαλ(ανικοῦ) Χά(ρακος) δ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) δώδεκα
+r.5   (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) ιβ. (ἔτους) ιδ Ἁδριανοῦ
+r.6   τοῦ κυρίου Μεχεὶρ ιδ.
+
+[TRANSLATION]
+1   Heriophmois, collector of money-tax,
+2   (to) Amenothes son of Harbechis, mother
+3   Sencheasthotes. He received, for poll-tax
+4   and bath-tax of the Charax (quarter), year 4, in base (coin), twelve drachmas
+5   — total, base, 12 dr. Year 14 of Hadrian
+6   the lord, Mecheir 14.

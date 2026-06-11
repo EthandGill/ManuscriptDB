@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 313 — Salt-tax receipt (ἁλική), Ptolemaic Thebes
+# Source: papyri.info DDbDP o.wilck;;313  (Trismegistos 50758)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 313
+label:    O.Wilck. 313
+name:     Salt-tax receipt (ἁλική), Ptolemaic Thebes
+genre:    receipts
+date:     19 Jul 256 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    London, British Museum EA 5829
+content:  Salt-tax through Kleitandros, year 30
+tm:       50758
+source:   https://papyri.info/ddbdp/o.wilck;;313
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   (ἔτους) λ Παχὼνς κζ
+r.2   πέπτωκεν ἁλι-
+r.3   κῆς διὰ Κλειτάν-
+r.4   δρου Χιβ̣ῶις γυν(ὴ)-
+r.5   Π̣ε̣κυς (δραχμὴν) α
+
+[TRANSLATION]
+1   Year 30, Pachon 27.
+2   There has been paid, of the salt-
+3   tax, through Kleitan-
+4   dros: Chiboïs, wife
+5   of Pekys, 1 drachma.

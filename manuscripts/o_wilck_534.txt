@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 534 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;534  (Trismegistos 77044)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 534
+label:    O.Wilck. 534
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+genre:    receipts
+date:     31 Aug 125 CE (Hadrian, yr 10)
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 [534
+content:  Dike-tax + bath-tax of the Charax quarter, year 10 of Hadrian
+tm:       77044
+source:   https://papyri.info/ddbdp/o.wilck;;534
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διέγρα(ψεν) Πανίσκο(ς) Πτολλίδ[ος]
+r.2   ὑπ(ὲρ) χω(ματικοῦ) Χά(ρακος) ι (ἔτους) (δραχμὰς) ε(διώβολον), β(α)λ(ανικοῦ) (ὀβολοὺς) δ𐅵 (γίνονται) ϛ (ἡμιωβέλιον)
+r.3   καὶ προ(σδιαγραφόμενα). (ἔτους) ι Ἁδριανοῦ τοῦ κυρίου Θὼθ δ. Ε ̣ ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1   Paniskos son of Ptollis paid,
+2   for dike-tax of the Charax (quarter), year 10, 5 dr. 2 ob.; bath-tax 4½ ob. — total 6 (dr.) ½ ob.
+3   and surcharges. Year 10 of Hadrian the lord, Thoth 4. E…( ), I have signed.

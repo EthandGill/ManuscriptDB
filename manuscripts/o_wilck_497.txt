@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 497 — Watchtower-guard receipt (σκόπελος φυλάκων), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;497  (Trismegistos 77007)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 497
+label:    O.Wilck. 497
+name:     Watchtower-guard receipt (σκόπελος φυλάκων), Charax quarter
+genre:    receipts
+date:     7 Nov 107 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4768
+content:  Watchtower-guard tax of year 11 of Trajan, collectors of the metropolis
+tm:       77007
+source:   https://papyri.info/ddbdp/o.wilck;;497
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἀπολ(λώνιος) καὶ μ(έτοχοι) π[ράκ(τορες) μ]ητ(ροπόλεως) Πεκύσει Πικ(ῶτος) νε(ωτέρου)
+r.2   Πετε[ψάιτος].
+r.3   ἔσχ(ομεν) ὑπ(ὲρ) σκοπ(έλου) φυλ(άκων) … ἑνδεκ(άτου) (ἔτους)
+r.4   ῥυπ(αρὰς) (δραχμὰς) τέσσαρ(ας) (ὀβολὸν) α𐅵. (ἔτους) ἑνδεκ(άτου)
+r.5   Τραιανοῦ Φαῶφι λ‡7ι.
+
+[TRANSLATION]
+1   Apollonios and partners, c[ollectors of the m]etropolis, to Pekysis son of Pikos the younger,
+2   son of Pete[psais].
+3   We have received, for the watchtower-guard(-tax) … of the eleventh year,
+4   in base (coin), four drachmas, 1½ ob. Of the eleventh (year)
+5   of Trajan, Phaophi 10.

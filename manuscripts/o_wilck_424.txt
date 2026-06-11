@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 424 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;424  (Trismegistos 76935)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 424
+label:    O.Wilck. 424
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+genre:    receipts
+date:     15 Mar 69 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 309
+content:  Poll-tax + bath-tax of the Charax quarter, year 1 of Otho
+tm:       76935
+source:   https://papyri.info/ddbdp/o.wilck;;424
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρ(άφηκεν) Παμώνθη(ς) Π ̣ ̣ ̣ ̣
+r.2   Παμώνθ(ου) ὑπ(ὲρ) λαο(γραφίας) Χά(ρακος) α (ἔτους) (δραχμὰς) δέκα , βαλ(ανικοῦ) α (ὀβολὸν) α𐅵
+r.3   (γίνονται) ια (ὀβολὸν) α𐅵 καὶ προ(σδιαγραφόμενα). (ἔτους) α Μάρκου
+r.4   Ὄτωνος Καίσαρος Σεβαστοῦ
+r.5   Αὐτοκράτορος Μεχεὶ(ρ) λ‡7ιθ. Πανα(μεὺς) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1   Pamonthes son of P… ,
+2   grandson of Pamonthes, paid, for poll-tax of the Charax (quarter), year 1, ten drachmas; bath-tax 1 dr. 1½ ob.,
+3   total 11 (dr.) 1½ ob., and surcharges. Year 1 of Marcus
+4   Otho Caesar Augustus
+5   Imperator, Mecheir 19(?). Pana(meus) signed.

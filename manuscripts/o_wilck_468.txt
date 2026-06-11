@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 468 — Hunting-dogs(?) tax receipt (κυνηγίδες)
+# Source: papyri.info DDbDP o.wilck;;468  (Trismegistos 76978)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 468
+label:    O.Wilck. 468
+name:     Hunting-dogs(?) tax receipt (κυνηγίδες)
+genre:    receipts
+date:     21 Feb 87 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 [468
+content:  Hunting-dogs(?) tax, year 6 of Domitian, paid in base coin
+tm:       76978
+source:   https://papyri.info/ddbdp/o.wilck;;468
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   κυνη(γίδων) ϛ (ἔτους) Δομιτιανοῦ
+r.2   Καίσαρος τοῦ κυρίου
+r.3   Μεχ(ὶρ) κ̣ζ Νεφερὼ(ς)
+r.4   Πεχοί(του) κ(έ)ρμ(ατος) ῥυπ(αροὺς) (ὀβολοὺς) ξ ̣ ̣ ̣ ̣
+
+[TRANSLATION]
+1   (For the) hunting-dogs(-tax)(?) of year 6 of Domitian
+2   Caesar the lord,
+3   Mecheir 27. Nepheros
+4   son of Pechoites, in base coin, 60 obols …

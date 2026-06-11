@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 404 — Vineyard- and wine-tax receipt (ἀμπελών, οἶνος)
+# Source: papyri.info DDbDP o.wilck;;404  (Trismegistos 76916)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 404
+label:    O.Wilck. 404
+name:     Vineyard- and wine-tax receipt (ἀμπελών, οἶνος)
+genre:    receipts
+date:     22 Sept 53 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 12718
+content:  Vineyard (4 arouras) + wine of year 13, year 14 of Claudius
+tm:       76916
+source:   https://papyri.info/ddbdp/o.wilck;;404
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρ(άφηκεν) Παμώνθ(ης) Ἁρυώθου
+r.2   ὑπ(ὲρ) ἀμπ(ελῶνος) ιγ (ἔτους) (ἀρουρῶν) δ (δραχμὰς) δέκα (γίνονται) (δραχμαὶ) ι
+r.3   καὶ ὑπ(ὲρ) οἴνο(υ) (δραχμὴν) μίαν (ὀβολὸν) (γίνονται) (δραχμὴ) α(ὀβολὸς)
+r.4   καὶ τ(ούτ)ω(ν) προ(σδιαγραφόμενα). (ἔτους) ιδ Τιβερίου
+r.5   Κλαυδίου Καίσαρος Σεβαστοῦ
+r.6   Γερμανικοῦ Αὐτοκράτορος
+r.7   μη(νὸς) Σεβα(στοῦ) κε.
+r.8   Κέφαλ(ος) [σεση(μείωμαι)].
+
+[TRANSLATION]
+1   Pamonthes son of Haryothes paid,
+2   for the vineyard of year 13, of 4 arouras, ten drachmas — total 10 dr.,
+3   and for wine one drachma, an obol — total 1 dr. 1 ob.,
+4   and the surcharges on these. Year 14 of Tiberius
+5   Claudius Caesar Augustus
+6   Germanicus Imperator,
+7   month Sebastos 25.
+8   Kephalos, [I have signed].

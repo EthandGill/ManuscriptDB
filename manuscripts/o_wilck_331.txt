@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 331 — Bank receipt — royal fishery quarter-tax (τετάρτη ἁλιέων), Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;331  (Trismegistos 43633)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 331
+label:    O.Wilck. 331
+name:     Bank receipt — royal fishery quarter-tax (τετάρτη ἁλιέων), Diospolis Magna
+genre:    receipts
+date:     18 Mar 226 BCE (day uncertain)
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 156 [ostracon]
+content:  Quarter-tax on fisher-folk paid to the king, year 22
+tm:       43633
+source:   https://papyri.info/ddbdp/o.wilck;;331
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   (ἔτους) κβ Μεχεὶρ α πέπτωκεν
+r.2   ἐπὶ τὴν ἐν Διὸς πό(λει) τῆι με(γάλῃ) τρά(πεζαν),
+r.3   ἐφʼ ἧς Διόδοτος, βασιλεῖ
+r.4   εἰς τὸ κβ (ἔτους) (τετάρτη) ἰχθυικῶν ἁλιέων
+r.5   Πικῶτος χα(λκοῦ) εἰς κϛν ὀγδο-
+r.6   [ή]κοντα (γίνονται) π. ☓☓☓☓☓.
+r.7   Τεὼν γρ(αμματεύς).
+
+[TRANSLATION]
+1   Year 22, Mecheir 1. There has been paid
+2   into the bank at Diospolis Magna,
+3   at which Diodotos (presides): to the king,
+4   for year 22, the quarter-tax on fisher-folk,
+5   Pikos, of copper, toward 26, eigh-
+6   ty — total 80 (drachmas).
+7   Teon scribe.

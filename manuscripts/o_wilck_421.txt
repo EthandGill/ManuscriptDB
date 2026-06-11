@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 421 — Temple-collection receipt — phennesis & warden of the god
+# Source: papyri.info DDbDP o.wilck;;421  (Trismegistos 76932)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 421
+label:    O.Wilck. 421
+name:     Temple-collection receipt — phennesis & warden of the god
+genre:    receipts
+date:     69 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1571
+content:  Receipt of 4 dr. for the public dues of the phennesia (Nero/civil-war year)
+tm:       76932
+source:   https://papyri.info/ddbdp/o.wilck;;421
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ψεναμοῦνις Πεκύσιος φ-
+r.2   εννῆσι καὶ προστάτης θεοῦ
+r.3   Πιβοῦχις Πετεήσιο(ς) χαίρειν.
+r.4   ἀπέχω παρὰ σοῦ (δραχμὰς) δ ὑπ(ὲρ) τῶν
+r.5   [δη]μωσιω τη φεννησί(ας)
+r.6   [⁦ -ca.?- ⁩]ε ̣ ̣ ̣λ̣ι̣οσ ̣ου
+r.7   [⁦ -ca.?- ⁩]ε
+
+[TRANSLATION]
+1   Psenamounis son of Pekysis, ph-
+2   ennesis and warden of the god,
+3   to Pibouchis son of Peteesis, greeting.
+4   I have received from you 4 dr., for the
+5   [pu]blic (dues) of the phennesia,
+6   […]……
+7   […]…

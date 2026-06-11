@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 499 — Lentil(?)-tax receipt
+# Source: papyri.info DDbDP o.wilck;;499  (Trismegistos 77009)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 499
+label:    O.Wilck. 499
+name:     Lentil(?)-tax receipt
+genre:    receipts
+date:     6 Mar 109 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 [499
+content:  Tax on lentils(?), year 12 of Trajan, base coin
+tm:       77009
+source:   https://papyri.info/ddbdp/o.wilck;;499
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἀπολ(λώνιος) κ(α)ὶ μ(έ)τ(οχοι) Πικώτι Πτολ[λίδος]
+r.2   Παμώ(νθου). ἔσχ(ομεν) ὑπ(ὲρ) θ( ) φακο̣ῦ̣ χο ̣[ ̣ ̣]
+r.3   ῥυπ(αρὰς) (δραχμὰς) δ (ὀβολοὺς 4(?)) χ(αλκοῦς 1) καὶ ὁμοίω(ς) Παμ[ ̣ ̣ ̣ ̣ ̣]
+r.4   ἀδελ(φ ) ὁ(μοίως) δ (ὀβολοὺς 4(?)) χ(αλκοῦς 1). (ἔτους) δωδε[κάτου]
+r.5   Τραιανοῦ τοῦ κυρίου
+r.6   Μεχεὶρ λ‡7ι.
+
+[TRANSLATION]
+1   Apollonios and partners, to Pikos son of Ptol[lis],
+2   (grand)son of Pamonthes. We have received, for the … of lentils …[..],
+3   in base (coin), 4 dr. 4(?) ob. 1 chalkous; and likewise Pam…,
+4   (his) brother, likewise 4 dr. 4(?) ob. 1 chalkous. Of the twelf[th year]
+5   of Trajan the lord,
+6   Mecheir 10(?).

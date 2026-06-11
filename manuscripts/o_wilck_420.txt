@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 420 — Temple-collection receipt — phennesis & warden of the god
+# Source: papyri.info DDbDP o.wilck;;420  (Trismegistos 76931)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 420
+label:    O.Wilck. 420
+name:     Temple-collection receipt — phennesis & warden of the god
+genre:    receipts
+date:     16 Mar 68 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4301
+content:  Receipt of 4 dr. 5 ob. for the public dues of the phennesia, year 14 of Nero
+tm:       76931
+source:   https://papyri.info/ddbdp/o.wilck;;420
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ψεναμοῦνις Πεκύσιος φεν-
+r.2   νῆσις καὶ προστάτης τοῦ θεοῦ
+r.3   Πιβοῦχις Πετεήσιος χαίρειν.
+r.4   ὁμολογῶι ἔχειν παρὰ σοῦ (δραχμὰς) δ(πεντώβολον)
+r.5   ὑπὲρ τῶν δημωσίων τῆς
+r.6   φεννησίας τοῦ ιδ (ἔτους)
+r.7   Νέρωνος τοῦ κυρίου
+r.8   Φαμενὼθ κ.
+
+[TRANSLATION]
+1   Psenamounis son of Pekysis, phen-
+2   nesis and warden of the god,
+3   to Pibouchis son of Peteesis, greeting.
+4   I acknowledge that I have from you 4 dr. 5 ob.,
+5   for the public dues of the
+6   phennesia(-office) of year 14
+7   of Nero the lord,
+8   Phamenoth 20.

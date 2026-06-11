@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 508 — Poll-tax and other-taxes receipt (λαογραφία), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;508  (Trismegistos 77018)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 508
+label:    O.Wilck. 508
+name:     Poll-tax and other-taxes receipt (λαογραφία), Charax quarter
+genre:    receipts
+date:     2 May 114 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4130
+content:  Poll-tax + other taxes of the Charax quarter, year 17 of Trajan
+tm:       77018
+source:   https://papyri.info/ddbdp/o.wilck;;508
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἰμούθ(ης) καὶ μέτ(ο)χ(οι) Ταύρων
+r.2   Ὀννώφριο(ς). ἔσχ(ομεν) ὑπ(ὲρ) λαο(γραφίας) καὶ ἄ(λλων) Χά(ρακος) ιζ (ἔτους)
+r.3   ῥυπ(αρὰς) (δραχμὰς) δώδεκα (δραχμὰς) ιβ. (ἔτους) ιζ Τραιανοῦ
+r.4   τοῦ κυρίου Φαρμο(ῦθι) λ‡7ζ. Ἀ ̣ ̣( ) σ(εσημείωμαι).
+
+[TRANSLATION]
+1   Imouthes and partners, to Tauron
+2   son of Onnophris. We have received, for poll-tax and others of the Charax (quarter), year 17,
+3   in base (coin), twelve drachmas — 12 dr. Year 17 of Trajan
+4   the lord, Pharmouthi 7(?). A…( ), I have signed.

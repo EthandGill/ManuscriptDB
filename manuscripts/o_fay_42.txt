@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Fay. 42 — Grain note
+# Source: papyri.info DDbDP o.fay;;42  (Trismegistos 34716)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 42
+label:    O.Fay. 42
+name:     Grain note
+genre:    receipts
+date:     early IV CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 42
+content:  4 sacks of grain, Euhemeria
+tm:       34716
+source:   https://papyri.info/ddbdp/o.fay;;42
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   Παοῖνει ζ,
+r.2   Ὦλ Διδύμου
+r.3   σίτου σάκυς
+r.4   δ.
+
+[TRANSLATION]
+1   Pauni 7:
+2   Ol son of Didymos,
+3   of grain, sacks
+4   4.

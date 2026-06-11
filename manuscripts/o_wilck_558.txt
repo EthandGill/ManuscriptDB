@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 558 — Goods-tax deficit receipt (μερισμὸς ὠνίων)
+# Source: papyri.info DDbDP o.wilck;;558  (Trismegistos 77068)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 558
+label:    O.Wilck. 558
+name:     Goods-tax deficit receipt (μερισμὸς ὠνίων)
+genre:    receipts
+date:     14 Nov 133 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 8041
+content:  Deficit of the goods-tax revenues of year 17, year 18 of Hadrian
+tm:       77068
+source:   https://papyri.info/ddbdp/o.wilck;;558
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Λολοὺς καὶ Ποριεύθης ἀπαιτη-
+r.2   ταὶ μερισμοῦ ὠνίων ἐνλ(είμματος) τελωνικ(ῶν)
+r.3   τοῦ ιζ (ἔτους) ὀνό(ματος) Ἀβὼς πρ(εσβυτέρου) Πετοσίριος. ἐσχον
+r.4   παρὰ σοῦ ὑπ(ὲρ(?)) ὁμολ̣ο̣γο( ) Ὠφιήο(υ) (?) ̣γ δραχ(μὰς) δύο
+r.5   (γίνονται) (δραχμαὶ) β. (ἔτους) ιη Ἁδριανοῦ Καίσαρος
+r.6   τοῦ κυρίου Ἁθὺρ ιη.
+r.7   Ποριεύθ(ης) [σ]εση(μείωμαι).
+
+[TRANSLATION]
+1   Lolous and Porieuthes, requisi-
+2   tioners of the assessment of goods sold, of the deficit of the tax-revenues
+3   of year 17, in the name of Abos the elder, son of Petosiris. I received
+4   from you, for the covenant(?) of the Opheion(?) (quarter), … 3(?), two drachmas
+5   — total 2 dr. Year 18 of Hadrian Caesar
+6   the lord, Hathyr 18.
+7   Porieuthes, [I] have signed.

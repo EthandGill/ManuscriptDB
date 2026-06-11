@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 333 — Receipt — unguents for the oil-works
+# Source: papyri.info DDbDP o.wilck;;333  (Trismegistos 76876)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 333
+label:    O.Wilck. 333
+name:     Receipt — unguents for the oil-works
+genre:    receipts
+date:     26 May – 24 Jun 144 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4000
+content:  6 dr. copper of unguents for the oil-works, Pharmouthi
+tm:       76876
+source:   https://papyri.info/ddbdp/o.wilck;;333
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   [ ̣ ̣ ̣ ̣ ̣ ̣]θιος Λυσιμάχωι χαί(ρειν).
+r.2   [ἀπέχω π]αρὰ σοῦ εἰς τὸ ἐλαιο(υργεῖον) χρισμ̣[ά(των)]
+r.3   [τοῦ Φαρμ]οῦθι χα(λκοῦ) δραχμὰς ἓ̣ξ̣
+r.4   [(γίνονται) ϛ]. (ἔτους) κϛ Παχὼ[ν ̣ ̣]
+
+[TRANSLATION]
+1   […]thios to Lysimachos, greeting.
+2   [I have] from you, for the oil-works, of unguent[s]
+3   [of Pharm]outhi, of copper, six drachmas
+4   [total 6]. Year 26, Pacho[n ..].

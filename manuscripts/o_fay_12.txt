@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Fay. 12 — Payment-order (money)
+# Source: papyri.info DDbDP o.fay;;12  (Trismegistos 40857)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 12
+label:    O.Fay. 12
+name:     Payment-order (money)
+genre:    receipts
+date:     10 Jan 6 BCE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 12
+content:  Order to pay 4 dr. to Polion, year 24, Theadelphia
+tm:       40857
+source:   https://papyri.info/ddbdp/o.fay;;12
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   Πετεσο(ῦχος) λογε(υτὴς) Ὀννώ(φρει)
+r.2   Πετεσο(ύχου) χαίρειν. δὸς
+r.3   Πολίω̣ι̣ ἀργ(υρίου) (δραχμὰς) δ,
+r.4   (γίνονται) ἀργ(υρίου) (δραχμαὶ) δ.
+r.5   (ἔτους) κδ, Τῦβ(ι) ιε.
+
+[TRANSLATION]
+1   Petesouchos, collector, to Onnophris
+2   son of Petesouchos, greeting. Give
+3   to Polion 4 drachmas of silver,
+4   total 4 dr. of silver.
+5   Year 24, Tybi 15.

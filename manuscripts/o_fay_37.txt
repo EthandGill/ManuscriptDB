@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Fay. 37 — Granary receipt — produce (Memphite nome)
+# Source: papyri.info DDbDP o.fay;;37  (Trismegistos 32273)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 37
+label:    O.Fay. 37
+name:     Granary receipt — produce (Memphite nome)
+genre:    receipts
+date:     3rd c. CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 37
+content:  Produce of year 3 of the Memphite nome, 3 donkey-loads, Euhemeria
+tm:       32273
+source:   https://papyri.info/ddbdp/o.fay;;37
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   δ (ἔτους), Χύακ κζ,
+r.2   γενη(μάτων) γ (ἔτους) Μεμφίτου νομοῦ
+r.3   Ἄρειος
+r.4   Ἀγχώφεως ὄνοι γ.
+
+[TRANSLATION]
+1   Year 4, Choiak 27,
+2   produce of year 3 of the Memphite nome:
+3   Areios
+4   son of Anchophis, 3 donkey(-loads).

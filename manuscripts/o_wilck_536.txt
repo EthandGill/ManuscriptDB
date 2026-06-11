@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 536 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;536  (Trismegistos 50774)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 536
+label:    O.Wilck. 536
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+genre:    receipts
+date:     27 Feb 127 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 [536
+content:  Poll-tax + bath-tax of year 11 of Hadrian, Thebes
+tm:       50774
+source:   https://papyri.info/ddbdp/o.wilck;;536
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Σποτοὺς πράκ(τωρ) ἀργ(υρικῆς) Φθουμίνιος
+r.2   Πικῶτος. ἔσχο(ν) ὑπ(ὲρ) λαογρα(φίας) καὶ βαλ(ανικοῦ) ἑν-
+r.3   δεκάτου ἔτους ῥυπ(αρὰς) δραχ(μὰς) δώδεκα
+r.4   (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) ιβ. (ἔτους) ια Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.5   Φαμενὼθ γ. Κ ̣ ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1   Spotous, collector of money-tax, (to) Phthouminis son of
+2   Pikos. He received, for poll-tax and bath-tax of the el-
+3   eventh year, in base (coin), twelve drachmas
+4   — total, base, 12 dr. Year 11 of Hadrian Caesar the lord,
+5   Phamenoth 3. K…( ), I have signed.

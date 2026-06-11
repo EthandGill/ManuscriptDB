@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 530 — Poll-tax receipt (λαογραφία), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;530  (Trismegistos 77040)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 530
+label:    O.Wilck. 530
+name:     Poll-tax receipt (λαογραφία), Charax quarter
+genre:    receipts
+date:     23 Feb 123 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1161
+content:  Poll-tax of the Charax quarter, year 7 of Hadrian
+tm:       77040
+source:   https://papyri.info/ddbdp/o.wilck;;530
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Φατρὴ(ς) πράκ(τωρ) ἀργ(υρικῆς) Ὀννόφρ(ει)
+r.2   Περμάμιο(ς) ̣ ̣ερι ̣ ̣ ἔσχ(ον) ὑπ(ὲρ) λα(ο)γρ(αφίας)
+r.3   Χά(ρακος) ζ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) δώδεκα (γίνονται) (δραχμαὶ) ιβ. (ἔτους) ζ
+r.4   Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.5   Μεχεὶρ κθ.
+
+[TRANSLATION]
+1   Phatres, collector of money-tax, (to) Onnophris son of
+2   Permamis …. He received, for poll-tax
+3   of the Charax (quarter), year 7, in base (coin), twelve drachmas — total 12 dr. Year 7
+4   of Hadrian Caesar the lord,
+5   Mecheir 29.

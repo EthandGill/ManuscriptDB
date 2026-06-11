@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Fay. 8 — Beer-tax receipt (ζυτηρά)
+# Source: papyri.info DDbDP o.fay;;8  (Trismegistos 40854)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 8
+label:    O.Fay. 8
+name:     Beer-tax receipt (ζυτηρά)
+genre:    receipts
+date:     17 Mar 6 BCE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 8
+content:  Beer-tax, 4 dr., year 24 of Caesar (Augustus), Euhemeria
+tm:       40854
+source:   https://papyri.info/ddbdp/o.fay;;8
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   Σαραπίων ζυτο(ποιὸς(?)) Πετεσούχ(ῳ)
+r.2   Σισόιτος κωμάρχ(ῃ) χαίρειν.
+r.3   ἔχω παρὰ σοῦ ε ̣ ̣ ̣( ) ζυτ( )
+r.4   τοῦ κδ (ἔτους) Καίσαρος ἀργυ(ρίου)
+r.5   (δραχμὰς) τέσσαρες, (γίνονται) (δραχμαὶ) δ.
+r.6   (ἔτους) κδ Καίσαρος,
+r.7   Φαμε(νὼθ) κα.
+
+[TRANSLATION]
+1   Sarapion, beer-brewer(?), to Petesouchos
+2   son of Sisois, village-head, greeting.
+3   I have from you … beer(?)
+4   of the 24th year of Caesar, of silver,
+5   four drachmas — total 4 dr.
+6   Year 24 of Caesar,
+7   Phamenoth 21.

@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Fay. 4 — Bath-tax receipt (τέλος βαλανείων)
+# Source: papyri.info DDbDP o.fay;;4  (Trismegistos 40851)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 4
+label:    O.Fay. 4
+name:     Bath-tax receipt (τέλος βαλανείων)
+genre:    receipts
+date:     6 May 24 CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 4
+content:  Bath-tax of Euhemeria, 4 dr., year 10 of Tiberius
+tm:       40851
+source:   https://papyri.info/ddbdp/o.fay;;4
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   (ἔτους) ι̣ Τιβερίου Καίσαρος Σεβαστοῦ,
+r.2   Παχὼ(ν) ια, διαγέ(γραφε) Μενχ(ῆς) Πάτρω(νος)
+r.3   τέλ(ους) βαλ(ανείων) Εὐ(ημερείας) ἐπὶ λό(γου) (δραχμὰς) τέσσαρας, (γίνονται) (δραχμαὶ) δ.
+
+[TRANSLATION]
+1   Year 10 of Tiberius Caesar Augustus,
+2   Pachon 11: Menches son of Patron has paid
+3   (for) the bath-tax of Eu(hemeria), on account, four drachmas — total 4 dr.

@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 439 — River-guard tax receipt (ποταμῶν φυλακή)
+# Source: papyri.info DDbDP o.wilck;;439  (Trismegistos 76950)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 439
+label:    O.Wilck. 439
+name:     River-guard tax receipt (ποταμῶν φυλακή)
+genre:    receipts
+date:     8 Feb 76 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1632
+content:  River-guard tax of the South-and-West quarter, year 8 of Vespasian
+tm:       76950
+source:   https://papyri.info/ddbdp/o.wilck;;439
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέ(γραψεν) Καμήτιο(ς) Πετεαρπ(ρήους)
+r.2   Ἀμφιώμιος ὑπ(ὲρ) ποτα(μῶν) φυλακ(ῆς)
+r.3   η (ἔτους) Νότου κ(αὶ) Λιβ(ὸς) (τετρώβολον). (ἔτους) η Οὐεσπασιανοῦ
+r.4   Αὐτοκρ(άτορος) τοῦ κυρίου Μεχ(ὶρ) ιγ.
+
+[TRANSLATION]
+1   Kametis son of Petearpres,
+2   (grand)son of Amphiomis, paid, for the guarding of the rivers (river-guard),
+3   year 8, of the South-and-West (quarter), 4 ob. Year 8 of Vespasian
+4   Imperator the lord, Mecheir 13.

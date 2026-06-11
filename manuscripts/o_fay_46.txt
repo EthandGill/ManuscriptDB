@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Fay. 46 — Account — crown-tax and wheat
+# Source: papyri.info DDbDP o.fay;;46  (Trismegistos 26359)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 46
+label:    O.Fay. 46
+name:     Account — crown-tax and wheat
+genre:    receipts
+date:     early I CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 46
+content:  Account: crown-tax in silver + 1 artaba of wheat, Theadelphia
+tm:       26359
+source:   https://papyri.info/ddbdp/o.fay;;46
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   ἀργυ(ρ (?)) στε(φάνου) (δραχμαὶ) ιϛ,
+r.2   δα( ) π̣α̣ρ( ) στε(φάνου) Αφ,
+r.3   ἱππάρχ(ῃ(?)) (πυροῦ) (ἀρτάβη) α.
+
+[TRANSLATION]
+1   Of silver(?), for the crown(-tax), 16 drachmas;
+2   da( ) par( ), for the crown(-tax), 1500;
+3   to the hipparch(?), 1 artaba of wheat.

@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 535 — Tax receipt (πράκτωρ), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;535  (Trismegistos 77045)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 535
+label:    O.Wilck. 535
+name:     Tax receipt (πράκτωρ), Charax quarter
+genre:    receipts
+date:     11 Feb 126 CE (day uncertain)
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4439
+content:  Money-taxes of the Charax quarter, year 10 of Hadrian
+tm:       77045
+source:   https://papyri.info/ddbdp/o.wilck;;535
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Πικὼς πρά(κτωρ) ἀργ(υρικῆς)
+r.2   Ἀμενώθ(ῃ) Ἁρβήχιος μη(τρὸς)
+r.3   Σενχεσθώτου. ἔσχ(ον)
+r.4   ὑπ(ὲρ) ̣ ̣( ) ̣ ̣( ) Χά(ρακος) ι (ἔτους) ῥυπ(αρὰς) (δραχμὰς)
+r.5   δώδεκα (γίνονται) (δραχμαὶ) ιβ.
+r.6   (ἔτους) ι Ἁδριανοῦ Καίσ(αρος)
+r.7   τοῦ κυρίου Μεχ(ὶρ) ̣ζ.
+
+[TRANSLATION]
+1   Pikos, collector of money-tax,
+2   (to) Amenothes son of Harbechis, mother
+3   Sencheasthotes. He received,
+4   for …( ) …( ) of the Charax (quarter), year 10, in base (coin), drachmas
+5   twelve — total 12 dr.
+6   Year 10 of Hadrian Caesar
+7   the lord, Mecheir 7(?).

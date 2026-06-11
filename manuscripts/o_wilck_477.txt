@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 477 — Poll-tax receipt (λαογραφία), Apollonopolis
+# Source: papyri.info DDbDP o.wilck;;477  (Trismegistos 76987)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 477
+label:    O.Wilck. 477
+name:     Poll-tax receipt (λαογραφία), Apollonopolis
+genre:    receipts
+date:     88–89 CE
+language: Greek (Koiné)
+found:    Apollonopolis Magna (Edfu), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4251
+content:  Poll-tax of year 8 of Domitian, Apollonopolis (Edfu)
+tm:       76987
+source:   https://papyri.info/ddbdp/o.wilck;;477
+lat:      24.9781
+lon:      32.8731
+
+[GREEK]
+r.1   Ἀπολλὼς Ἁρνούριος
+r.2   λαο(γραφίας) η (ἔτους) Δωμετιανοῦ
+r.3   (ἔτους) η καὶ Ἀπολ(λὼς) υἱὸ(ς)
+
+[TRANSLATION]
+1   Apollos son of Harnouris,
+2   (for) poll-tax of year 8 of Domitian,
+3   year 8; and Apollos (his) son.

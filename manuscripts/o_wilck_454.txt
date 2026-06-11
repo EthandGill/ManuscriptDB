@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 454 — Poll-tax receipt (λαογραφία), Opheion quarter
+# Source: papyri.info DDbDP o.wilck;;454  (Trismegistos 76965)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 454
+label:    O.Wilck. 454
+name:     Poll-tax receipt (λαογραφία), Opheion quarter
+genre:    receipts
+date:     15 May 82 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4263
+content:  Poll-tax of the Opheion(?) quarter, year 1 of Domitian
+tm:       76965
+source:   https://papyri.info/ddbdp/o.wilck;;454
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διέγρα(ψεν) Πεχοίτης Ἀμμωνίου
+r.2   ὑπ(ὲρ) λαο(γραφίας) Ὠ̣φιή(ου) α (ἔτους) (δραχμὰς) ἑπτὰτριόβ(ολον)
+r.3   (γίνονται) (δραχμαὶ) ζ(τριώβολον) καὶ τούτω(ν) προσδ(ιαγραφόμενα). (ἔτους) α
+r.4   Δομιτιανοῦ τοῦ κυρίου
+r.5   Μεχ(ὶρ) λκ. Βάσσο(ς) σεση(μείωμαι).
+r.6   (hand 2) ἄλ(λαι) Φαρμοῦθ(ι) λκ (δραχμὰς) δύο (τριώβολον)
+r.7   (γίνονται) (δραχμαὶ) β(τριώβολον) βοη(θὸς) Ἀπολ( ) Ἀπίω(νος)
+r.8   σ(εσ)η(μείωμαι)
+
+[TRANSLATION]
+1   Pechoites son of Ammonios paid,
+2   for poll-tax of the Opheion(?) (quarter), year 1, seven drachmas three obols,
+3   total 7 dr. 3 ob., and surcharges on these. Year 1
+4   of Domitian the lord,
+5   Mecheir 32(?). Bassos, I have signed.
+6   (2nd hand) others, Pharmouthi 32(?), two drachmas three obols
+7   total 2 dr. 3 ob. Apol( ) son of Apion, assistant,
+8   I have signed.

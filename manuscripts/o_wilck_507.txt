@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 507 — Money-tax and river-guard receipt (ἀργυρική, ποταμοφυλακίς)
+# Source: papyri.info DDbDP o.wilck;;507  (Trismegistos 77017)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 507
+label:    O.Wilck. 507
+name:     Money-tax and river-guard receipt (ἀργυρική, ποταμοφυλακίς)
+genre:    receipts
+date:     19 Jul 113 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4801
+content:  Money-tax + river-guard of the Charax quarter, year 16 of Trajan
+tm:       77017
+source:   https://papyri.info/ddbdp/o.wilck;;507
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἰμούθης κ(αὶ) μ(έτοχοι) πράκ(τορες) ἀργ(υρικῆς) ἄν(ω τό)π(ου) _(?)_
+r.2   Ἡράτι Ψανε̣νο( ). ἔσχ(ομεν) ὑπ(ὲρ) ̣ ̣( ) ̣ ̣( )
+r.3   Χά(ρακος) ιϛ (ἔτους) κέρ(ματος) ὀβ(ολοὺς) πέντε (γίνονται) κέρ(ματος) ε
+r.4   καὶ ὑπ(ὲρ) ποταμοφυλ(ακίδων) κ[έρ(ματος)] τέσσαρες (γίνονται) κέρ(ματος) δ.
+r.5   (ἔτους) ιϛ Τραιανοῦ τοῦ κυρίου Παῦνι
+r.6   λ‡7κε. Α ̣ ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1   Imouthes and partners, collectors of money-tax of the upper district(?),
+2   to Heras son of Psaneno( ). We have received, for …( ) …( )
+3   of the Charax (quarter), year 16, in coin, five obols — total 5 coin(-obols),
+4   and for the river-guards, [in coin] four — total 4 coin(-obols).
+5   Year 16 of Trajan the lord, Pauni
+6   25(?). A…( ), I have signed.

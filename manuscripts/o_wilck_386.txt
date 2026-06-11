@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 386 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;386  (Trismegistos 76903)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 386
+label:    O.Wilck. 386
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν)
+genre:    receipts
+date:     37–40 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1622
+content:  Dike-tax + bath-tax under Gaius (Caligula)
+tm:       76903
+source:   https://papyri.info/ddbdp/o.wilck;;386
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   [διαγεγρά(φηκεν)] Ψανσνὸς Πετεμ[ ̣ ̣ ̣]
+r.2   [ὑπ(ὲρ) χω(ματικοῦ) κ (ἔτους)] (δραχμὰς) ἓξ τετρώβολ(ον) καὶ
+r.3   [βαλ(ανικοῦ) τετρ]όβολ (ον) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ζ(διώβολον)(ἡμιωβέλιον) καὶ προ(σδιαγραφόμενα) ἐξ [(ὀβολοῦ) α] 𐅵.
+r.4   [(ἔτους) ̣ Γαί]ου Καίσαρος Σεβαστοῦ
+r.5   [Γερμα]νικοῦ μη(νὸς) Σεβαστοῦ λε.
+r.6   Π ̣ ̣ ̣ τρα(πεζίτης).
+
+[TRANSLATION]
+1   [Has paid:] Psansnos son of Petem[…]
+2   [for dike-tax of year 20(?),] six drachmas, four obols, and
+3   [bath-tax four ob]ols, a half-obol — total 7 dr. 2½ ob. — and surcharges at [an obol] (and) half-obol.
+4   [Year . of Gai]us Caesar Augustus
+5   [Germa]nicus, month Sebastos 35.
+6   P… banker.

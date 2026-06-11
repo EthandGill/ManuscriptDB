@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 504 — Tax-farmer receipt — remaining tax
+# Source: papyri.info DDbDP o.wilck;;504  (Trismegistos 77014)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 504
+label:    O.Wilck. 504
+name:     Tax-farmer receipt — remaining tax
+genre:    receipts
+date:     14 Jul 112 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4067
+content:  Remaining 9 obols of the tax (Pachon–Pauni), year 15 of Trajan
+tm:       77014
+source:   https://papyri.info/ddbdp/o.wilck;;504
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   [Π]οριεύθης καὶ μέτοχοι Σενψενμώνθ(ῃ)
+r.2   χ(αίρειν). ἔσχα(μεν) παρὰ σοῦ τὸ τέλ(ος) Παχὼ(ν) Παοῖνι,
+r.3   λυπε ὀβολυ ἐννέα, τοῦ ιε (ἔτους)
+r.4   Τραιανοῦ τοῦ κυρίου Ἐφὶπ κ.
+
+[TRANSLATION]
+1   Porieuthes and partners, to Senpsenmonthes,
+2   greeting. We have from you the tax (of) Pachon (and) Pauni,
+3   the remaining nine obols, of year 15
+4   of Trajan the lord, Epeiph 20.

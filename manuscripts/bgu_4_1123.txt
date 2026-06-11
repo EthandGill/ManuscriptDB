@@ -1,0 +1,73 @@
+# ───────────────────────────────────────────────
+# BGU 4.1123 — Three-partner lease of a large estate (μίσθωσις)
+# Source: papyri.info DDbDP bgu;4;1123  (Trismegistos 18565)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1123
+label:    BGU 4.1123
+name:     Three-partner lease of a large estate (μίσθωσις)
+genre:    contracts
+date:     30 BCE – 14 CE (Augustan)
+language: Greek (Koiné)
+found:    Alexandria, Egypt (estate in the Menelaite nome)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13113
+content:  Three lessees agree to share equally a 1084-aroura estate (with vineyard and pastures) on Alexarchou Island in the Menelaite nome — crown-payment, rent, profits and expenses divided in thirds
+tm:       18565
+source:   https://papyri.info/ddbdp/bgu;4;1123
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   [⁦ -ca.?- ⁩ ]ος Πτολε[μαίου] ̣ ̣ ̣ ̣ ̣ε̣υ̣ς̣ [οἱ] τρεῖς ἑατοῖς χαίρειν. ἐπεὶ προσεληλύθαμεν μισθώσει εἰς [τ]ὸ πατρικὸν μαμ̣μ̣ικ[ὸν] π̣ρο̣ ̣α[⁦ -ca.?- ⁩]
+r.2   [⁦ -ca.?- ⁩ γενομ]ένης ἐν ὑπολόγω̣ι̣ περὶ κώμην Σύρων μ̣εσό̣γ̣ει̣ο̣ν̣ τῆς Ἀλεξάρχου νήσου τοῦ
+r.3   Μενελαείτου νομοῦ δὲ Βερενίκης ἀρουρῶν χιλίων ὀγδοήκοντα τεσσάρων καὶ ὅσων ἐὰν ᾖ, ἐν αἷς ἄμπελος παραδη̣ν̣ καὶ νομαὶ καὶ α̣[⁦ -ca.?- ⁩]
+r.4   [⁦ -ca.?- ⁩] ἔδωκαν δ̣ὲ̣ ὅ̣ τ̣ε̣ Νικομήδης καὶ Ἀλέξαν[δ]ρος ἐκ τοῦ ἑατῶν ὀνόματ̣ο̣ς̣ τ̣ὸ̣ π̣ε̣ρ̣ὶ̣ τ̣ῆ̣ς μ̣ι̣σ̣θώσεως ἀναφόριον, διὰ δὲ τούτου δηλοῦται διαγράψαι
+r.5   στέφανον ἅπαξ ὑπὲρ τῶν προκειμένων ἀργυρίου δραχμὰς χιλίας [⁦ -ca.?- ⁩]
+r.6   [⁦ -ca.?- ⁩] φ̣όρον δραχμὰς ὀκτακο[σί]α̣ς, ὁμολογοῦμεν εἶναι τοὺς τρεῖς με[τό]χ̣ους καὶ κοινωνοὺς καὶ κυρίους ἕκαστον κατὰ
+r.7   τὸ τρίτον μέρος ἀπὸ τοῦ νῦν εἰς τὸν ἀε̣ὶ̣ χ̣ρ̣ό̣νον τῆς προκειμένης μισθώσε[ως ⁦ -ca.?- ⁩]
+r.8   [⁦ -ca.?- ⁩]π̣ι̣τ̣[ ̣ ̣ ̣ ̣]ερ̣[ ̣ ̣ ̣ ̣ ̣] ̣ω̣ν̣ πάντων, ἐφ̣ʼ ὧ[ι ὁ] Σέξστος ἢ ὁ Νικομήδης δώσουσ[ιν] ἀν[αφό]ρ̣ι̣ο̣ν τῶι πράκτορ[ι]
+r.9   τῶν προσόδων ὑπὲρ τοῦ διδομένου στεφάνου ἤτοι τοῦ̣ προκειμένου ἢ οὗ ἐὰν κατὰ τὴν ἐσομέ[νην
+r.10   [⁦ -ca.?- ⁩]ι̣ κεφαλαίου καὶ ἐξο[δι]άσουσιν ἐκ τοῦ ἰδίου ἀμφότεροι ἢ̣ ἑ̣κ̣ά̣τε[ρ]ος αὐτῶν τὰς
+r.11   ἐσομένας δαπάνας πάσας μέχρι τοῦ τὰ περὶ τῆς κυρείας λαβεῖν γράμματα, κομιο͂νται δὲ ὅ τε Σέξστος [καὶ ὁ Νικομήδης ⁦ -ca.?- ⁩]
+r.12   [⁦ -ca.?- ⁩ ἐξο]δ[ιά]σωσ[ι]ν̣ κ[ε]φαλαίω̣ν̣ τ̣[ό]κον ἐξ ὧν ἐὰν εὑρίσκωμεν εὐ̣θ̣έ̣ως γενόμενοι
+r.13   ἐπὶ τῶν τόπων ἐκ τῆς μισθώσεως καθʼ ὁνδήποτε οὖν τρόπον, ἐὰν δέ τι περιλε[ί]πηται
+r.14   ἐγ̣ τ̣ο̣υ̣[⁦ -ca.?- ⁩]
+r.15   [⁦ -ca.?- ⁩ μ]ι[σ]θώσεως μετὰ τὴν διόρθω[σ]ιν τῶν κεφαλαίων διαιρεθήσεται εἰς μ̣έ̣[ρη] ἴσα καὶ
+r.16   ὅμοια τρία, καὶ λήμψεται ἕκαστ[ο]ς ἡμῶν μέρος ἕν, γ̣ε[ν]έσθαι δ[ὲ] καὶ πάντοτε τον̣α ̣ν̣[⁦ -ca.?- ⁩]
+r.17   [⁦ -ca.?- ⁩] μ̣έρη̣ τρία τῶν ἐκ τῆς μισθώσεως ἐ[σ]ομένων ἤτοι οἰνικῶν ἢ σιτικῶν γ̣ε̣ν̣η̣μ̣ά̣των
+r.18   ἢ ἰχθύας ἢ ἀγριας ἢ ξυλείας ἢ ἑτέρου τινὸς καθʼ ὁνδήποτε οὖν τρόπον χ̣ρωμένου τοῦ λα ̣[⁦ -ca.?- ⁩]
+r.19   [⁦ -ca.?- ⁩ τῶν] χ̣ά̣ρ̣ιν τῆς μισθώσεως ἐσομένων δ[α]πανῶν καὶ λαμβάνειν ἕκ[αστον] τὸ [τ]ρ[ίτο]ν̣
+r.20   μέρος τοῦ Νικομήδους καὶ Ἀλεξάνδρου ποιουμένων [ ̣]δ[ ̣]σ̣[ ̣ ̣ ̣ ̣ ̣]τ̣ι̣σ̣ ̣ ̣ ̣ο̣υ̣ τὴν ὑπὲρ τῆς μ̣ι̣[σθώσεως ⁦ -ca.?- ⁩]
+r.21   [⁦ -ca.?- ⁩] μηδενὶ ἡ[μ]ῶν ἐξόντος ἀθετεῖν τῶν ὡμολογημένων μηδὲν [τῶν] κ̣α̣τ̣ὰ̣ τὴν μετοχὴν
+r.22   μηδʼ ἄλλο μηδὲν ἐπιτελεῖν ἐπὶ τῇ τοῦ ἑτέρου ἀδικίᾳ τρόπῳ μηδενὶ ἢ ε̣[⁦ -ca.?- ⁩]
+r.23   [⁦ -ca.?- ⁩] ἐ̣κ̣τ[εῖ]σ̣α̣ι̣ τὸν παραβ̣ησόμενον [τῶι ἐμ]μ̣έ̣ν̣ο̣ν̣[τι] τ̣ὰ̣ διʼ αὐ̣τὸ̣ν παρακολο̣υ̣[θοῦν]τ̣α̣
+r.24   β̣λ̣ά̣β̣η̣ κ̣α̣[ὶ] δαπανήμ[ατ]α διπλᾶ καὶ ὡς ἴδιον χρέος ἀρ[γ]υρίου δραχμὰς τρισχειλίας , τ[ὸ]ν δὲ Σέξσ[τον ⁦ -ca.?- ⁩]
+
+[TRANSLATION]
+1   […]os son of Ptole[maios] …, the three (of us), to ourselves, greeting. Since we have entered upon a lease for the paternal (and) grandmaternal … […]
+2   [… which has come to be] on the unprofitable-land register, near the village of Syron Mesogeios of Alexarchou Island of the
+3   Menelaite nome, of the (district) of Berenike, of one thousand and eighty-four arouras, and however many there may be, in which (are) a vineyard … and pastures and …[…]
+4   […] Nikomedes and Alexandros gave, in their own name, the petition concerning the lease; and through this it is declared that a
+5   crown(-payment) is to be paid, once, for the aforesaid (land), of one thousand silver drachmas […]
+6   […] a rent of eight hundred drachmas; we agree that the three (of us) are partners and sharers and owners, each according to
+7   the third part, from now for all time, of the aforesaid lease […]
+8   […] of all …, on condition that Sextus or Nikomedes shall give the petition to the collector
+9   of the revenues for the crown that is given, whether the aforesaid (one) or whatever (it shall be) according to the coming (assessment)
+10   […] of capital, and both, or either of them, shall expend from their own (funds) the
+11   future expenses, all of them, until the receiving of the documents concerning the ownership; and Sextus [and Nikomedes] shall recover […]
+12   […] they shall expend, the interest of the capital, out of whatever we may find, immediately upon coming
+13   to the place(s), from the lease, in whatever manner; and if anything is left over
+14   from the …[…]
+15   […] of the [le]ase, after the settlement of the capital, it shall be divided into thr[ee] equal and
+16   alike parts, and each of us shall take one part; and there shall always be …[…]
+17   […] the three parts of what shall come from the lease, whether of wine or of grain produce
+18   or fish or wild (game) or timber or anything else, in whatever manner, the … using it […]
+19   [… of the] expenses that shall be on account of the lease, and each is to take the third
+20   part, Nikomedes and Alexandros making … the (payment) for the le[ase …]
+21   […] it being permitted to none of us to set aside any of the things agreed concerning the partnership,
+22   nor to do anything else to the injury of the other, in any way, or …[…]
+23   […] the transgressor is to pay to the one abiding (by it) the damages following on his account
+24   and expenses, double, and, as a private debt, three thousand silver drachmas; and Sext[us …]

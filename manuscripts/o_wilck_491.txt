@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 491 — Tax-farmer receipt — part-payment of a tax
+# Source: papyri.info DDbDP o.wilck;;491  (Trismegistos 77001)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 491
+label:    O.Wilck. 491
+name:     Tax-farmer receipt — part-payment of a tax
+genre:    receipts
+date:     10 Aug 98 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1588
+content:  Part-payment (16 dr.) of a tax, year 1 of Trajan
+tm:       77001
+source:   https://papyri.info/ddbdp/o.wilck;;491
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Πετα̣νοβτοῦς ̣ ̣ ̣ ̣ λ( ) ̣[ ̣ ̣ ̣]
+r.2   τοῦ α (ἔτους) Τραιανοῦ Καίσαρος
+r.3   Καλαμαῦς Παμώνθ(ου) καὶ Α ̣ ̣ ̣ ̣
+r.4   χα(ίρειν). ἔχωι παρʼ ὑ(μῶν) ὑπ(ὲρ) τέλ(ους) α̣μ[ ̣ ̣ ̣ ̣ ̣]
+r.5   ἐπὶ λ(όγου) δραχ(μὰς) δέκα ἓξ (γίνονται) (δραχμαὶ) [ιϛ. (ἔτους) α Τραιανοῦ]
+r.6   τοῦ κυρίου Μεσο(ρὴ) ιε.
+r.7   Μεσο(ρὴ) ιζ ̣ ̣ ̣ ̣[ ̣ ̣ ̣ ̣].
+r.8   Ἀ̣ ̣ ̣ ̣ ̣[ ̣ ̣ ̣ ̣].
+
+[TRANSLATION]
+1   Petanobtous …, of …( ) …[…],
+2   of year 1 of Trajan Caesar:
+3   Kalamaus son of Pamonthes and A…,
+4   greeting. I have from you(pl.), for the tax am[…],
+5   on account, sixteen drachmas — total [16. Year 1 of Trajan]
+6   the lord, Mesore 15.
+7   Mesore 17 …[…].
+8   A…[…].

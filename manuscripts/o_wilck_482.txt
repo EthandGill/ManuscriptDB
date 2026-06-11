@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 482 — Poll-tax receipt (λαογραφία), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;482  (Trismegistos 76992)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 482
+label:    O.Wilck. 482
+name:     Poll-tax receipt (λαογραφία), Charax quarter
+genre:    receipts
+date:     21 Apr 93 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 8512
+content:  Poll-tax of the Charax quarter, year 12 of Domitian
+tm:       76992
+source:   https://papyri.info/ddbdp/o.wilck;;482
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγ(εγράφηκεν) Παναμεὺς Νεφερῶτο(ς)
+r.2   ὑπ(ὲρ) λαο(γραφίας) Χά(ρακος) ιβ (ἔτους) (δραχμὰς) ι, ἄ(λλων) α (ὀβολὸν) α𐅵 κ(αὶ) προ(σδιαγραφόμενα).
+r.3   (ἔτους) ιβ Δομιτιανοῦ τοῦ κυρίου
+r.4   Φαρμ(οῦθι(?)) κϛ. Ἀπ̣ί̣ω̣(ν) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1   Panameus son of Nepheros paid,
+2   for poll-tax of the Charax (quarter), year 12, 10 dr.; of others, 1 (dr.) 1½ ob., and surcharges.
+3   Year 12 of Domitian the lord,
+4   Pharmouthi(?) 26. Apion, I have signed.

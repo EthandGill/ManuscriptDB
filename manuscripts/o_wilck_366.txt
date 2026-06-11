@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 366 — Poll-tax receipt (λαογραφία) of the Memnoneia
+# Source: papyri.info DDbDP o.wilck;;366  (Trismegistos 76886)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 366
+label:    O.Wilck. 366
+name:     Poll-tax receipt (λαογραφία) of the Memnoneia
+genre:    receipts
+date:     29 Aug – 27 Sept 52 CE
+language: Greek (Koiné)
+found:    Theban Memnoneia (West Thebes), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12661
+content:  Poll-tax of the Memnoneia, year 12 of Claudius, with later instalments
+tm:       76886
+source:   https://papyri.info/ddbdp/o.wilck;;366
+lat:      25.73
+lon:      32.61
+
+[GREEK]
+r.1   διαγεγρ(άφηκεν) Παμώνθ(ης) Θ[ ̣ ̣ ̣ ̣ ̣ ̣ ὑπ(ὲρ)]
+r.2   λαο(γραφίας) Με(μνονείων) ιβ (ἔτους) (δραχμὰς) η. (ἔτους) ιβ Τ̣ι̣β̣[ερίου Κλαυδίου]
+r.3   Καίσαρος Σεβαστοῦ Γ[ερμανικοῦ]
+r.4   Αὐτοκράτορος Φαρμ[οῦθι ̣ ̣].
+r.5   (hand 2) Παχὼν γ (δραχμὰς) δ, ὁμοί(ως) ̣ ̣[ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.6   ὁμοί(ως) ὑπ(ὲρ) βαλ(ανικοῦ) (δραχμὰς) β ̣ ̣[ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.7   ὁμοίως ιγ (ἔτους) Θὼτ ̣[ ̣ ̣ ̣ ̣ ̣ ̣]
+
+[TRANSLATION]
+1   Pamonthes son of Th[… has paid, for]
+2   poll-tax of the Memnoneia, year 12, 8 dr. Year 12 of Tib[erius Claudius]
+3   Caesar Augustus G[ermanicus]
+4   Imperator, Pharm[outhi ..].
+5   (2nd hand) Pachon 3, 4 dr.; likewise …[…]
+6   likewise for the bath(-tax), 2 dr. …[…]
+7   likewise (in) year 13, Thoth …[…]

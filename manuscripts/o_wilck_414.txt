@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 414 — Temple-collection receipt — warden of the god (λογεία τοῦ θεοῦ)
+# Source: papyri.info DDbDP o.wilck;;414  (Trismegistos 76925)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 414
+label:    O.Wilck. 414
+name:     Temple-collection receipt — warden of the god (λογεία τοῦ θεοῦ)
+genre:    receipts
+date:     4 Aug 63 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4298
+content:  Psenamounis, warden of the god, receives 4 dr. 2 ob. for the god's collection, year 9 of Nero
+tm:       76925
+source:   https://papyri.info/ddbdp/o.wilck;;414
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ψεναμούνιος Πεκύσιος
+r.2   προστάτης θεοῦ ὁμολ(όγῳ)
+r.3   Πιβούχι Πετεήσιος χαίρε(ιν).
+r.4   ἀπέχω παρὰ σοῦ (δραχμὰς) δ ὀβο-
+r.5   λοὶ β τὴν λογείαν τοῦ
+r.6   θεοῦ περὶ τῶν δημοσίω[ν].
+r.7   (ἔτους) ἐνάτου Νέρωνος
+r.8   τοῦ κυρίου Μεσορὴ ια.
+
+[TRANSLATION]
+1   Psenamounis son of Pekysis,
+2   warden (prostates) of the god, to (his) covenanter
+3   Pibouchis son of Peteesis, greeting.
+4   I have received from you 4 drachmas, 2 obo-
+5   ls, (for) the collection of the
+6   god, for the public dues.
+7   Year nine of Nero
+8   the lord, Mesore 11.

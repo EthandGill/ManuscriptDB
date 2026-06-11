@@ -1,0 +1,69 @@
+# ───────────────────────────────────────────────
+# BGU 3.858 — Quitclaim for repayment of a 5000-dr. loan
+# Source: papyri.info DDbDP bgu;3;858  (Trismegistos 9385)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.858
+label:    BGU 3.858
+name:     Quitclaim for repayment of a 5000-dr. loan
+genre:    contracts
+date:     11 Oct 295 CE
+language: Greek (Koiné)
+found:    Arsinoite nome / Fayum (Narmouthis), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7944
+content:  Aurelius Patron of Narmouthis acknowledges he has received back his 5000-dr. loan in full from Aurelius Hatres and has no further claim; tetrarchic consular dating
+tm:       9385
+source:   https://papyri.info/ddbdp/bgu;3;858
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Τού̣[σ]κῳ καὶ Ἀ̣ν̣[ο]υ̣λείνῳ ὑ̣πάτο̣[ις]
+r.2   Αὐρήλιος Πάτρων Σαβείνου ἀλλόφυλος
+r.3   κώμης Ναρμούθεως
+r.4   Αὐρηλίῳ Ἁτρῇ Ἀβὸκ ὁμοίως
+r.5   ἀλλοφύλου κώμης Ἀρσινόης
+r.6   τῆς Ἡρακλείδου μερίδος χαίρειν.
+r.7   ἀπέσχον παρὰ σοῦ τὸ ἑροῦν̣ [σο]υ
+r.8   ἀργυρίο[υ δ]ραχμὰς πεντ[α]κισ-
+r.9   χειλί[ας] [περὶ ὧν] κ̣αὶ οὐδέ[ν]α̣.
+r.10   λόγο̣ν̣ [ἔχω πρὸς σὲ] περὶ ο[ὐδε]νὸς
+r.11   ἁπλῶ[ς πράγμα]τος ἐνγρ[ά]φου
+r.12   ἢ ἀ̣γράφου̣ [ ̣ ̣ ̣ ̣]του κ̣α̣ὶ̣ ἐπερωτη-
+r.13   θεὶ[ς] ὡμολόγησα. ―
+r.14   Αὐρή(λιος) Πάτρων ἀπέσχον πᾶν τὸ ἑροῦ̣ν̣
+r.15   σου ἀργυρίου δραχμὰς πεντακ(ισ)χιλίας
+r.16   καὶ οὐδέ<να> λόγον ἔχω̣ πρὸ̣ς̣ σὲ κ̣α̣θ̣ὼ̣ς̣ πρόκ(ειται).
+r.17   Αὐ̣ρ(ήλιος) Σαραπίων Θέωνος ἔγραψα ὑπὲρ
+r.18   αὐτοῦ ἀ[γραμ]μάτου
+r.19   (ἔτους) ιβ καὶ (ἔτους) ια καὶ (ἔτους) [δ] τῶν
+r.20   κυρίων ἡμῶν Διοκλητιανοῦ κ[αὶ Μαξ]ιμιανοῦ
+r.21   Σεβαστῶν καὶ Κωνσταντ̣ίου καὶ [Μαξ]ιμιανοῦ
+r.22   ἐπιφανεστάτων Καισάρων Φαῶφ(ι) ιγ.
+
+[TRANSLATION]
+1   In the consulship of Tus[c]us and A[n]ulinus,
+2   Aurelius Patron son of Sabinus, of foreign (non-citizen) status,
+3   of the village of Narmouthis,
+4   to Aurelius Hatres son of Abok, likewise
+5   of foreign status, of the village of Arsinoe
+6   of the Herakleides division, greeting.
+7   I have received back from you what is [yo]ur debt(?),
+8   of silve[r, fi]ve thou[sa]nd
+9   [d]rachmas, [concerning which] also no(thing).
+10   I [have] no [claim against you] about [a]ny[thi]ng
+11   at al[l, (any) ma]tter, writt[e]n
+12   or unwritten, …, and on being formally
+13   question[ed] I acknowledged. —
+14   I, Aureli(us) Patron, have received back the whole of
+15   your debt(?), of silver, five thousand drachmas,
+16   and I have no claim against you, as is stated above.
+17   I, Aur(elius) Sarapion son of Theon, wrote on behalf of
+18   him, as he is il[lit]erate.
+19   Year 12 and year 11 and year [4] of
+20   our lords Diocletian a[nd Max]imian,
+21   Augusti, and Constantius and [Max]imian,
+22   the most illustrious Caesars, Phaoph(i) 13.

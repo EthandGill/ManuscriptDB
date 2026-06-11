@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 516 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;516  (Trismegistos 77026)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 516
+label:    O.Wilck. 516
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+genre:    receipts
+date:     25 May 118 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12657
+content:  Poll-tax + bath-tax of the Charax quarter, year 2 of Hadrian
+tm:       77026
+source:   https://papyri.info/ddbdp/o.wilck;;516
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἀπολλόδ(ωρος) πράκ(τωρ) ψεναμούνιο
+r.2   Φθουμώνθου. ἔσχ(ον) ὑπ(ὲρ) λαο(γραφίας) καὶ βαλ(ανικοῦ)
+r.3   Χά(ρακος) β (ἔτους) ῥυπ(αρὰς) δέκα δύο (γίνονται) (δραχμαὶ) ιβ. (ἔτους) β
+r.4   Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.5   Φαρμ(οῦθι) λ‡7λ. Ποριεύ(θης).
+
+[TRANSLATION]
+1   Apollodoros, collector, (to) Psenamounis son of
+2   Phthomonthes. He received, for poll-tax and bath-tax
+3   of the Charax (quarter), year 2, in base (coin), twelve — total 12 dr. Year 2
+4   of Hadrian Caesar the lord,
+5   Pharmouthi 30(?). Porieu(thes).

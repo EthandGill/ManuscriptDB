@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 384 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;384  (Trismegistos 76901)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 384
+label:    O.Wilck. 384
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+genre:    receipts
+date:     25 Jun – 24 Jul 40 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1289
+content:  Poll-tax + bath-tax of year 4 of Gaius (Caligula)
+tm:       76901
+source:   https://papyri.info/ddbdp/o.wilck;;384
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρ(άφηκεν) Ἀμενώθη(ς) Πικὼς ὑπ(ὲρ) λαογ(ραφίας)
+r.2   δ (ἔτους) (δραχμὰς) δέκ[α] βαλ(ανικοῦ) μίαν ὀβολ(ὸν) (ἡμιωβέλιον) (γίνονται) ια (ὀβολὸς) α𐅵 καὶ πρ(οσδιαγραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου).
+r.3   (ἔτους) δ Γαίου Καίσαρος Αὐτοκράτορος
+r.4   Σεβαστοῦ μη(νὸς) Δ̣ίου ̣ ̣ ̣ ̣ σεβαστῆι
+r.5   Πετεμ(ενῶφις(?)) Πικ(ῶτος).
+
+[TRANSLATION]
+1   Has paid: Amenothes son of Pikos, for poll-tax
+2   of year 4, ten drachmas, bath-tax one, an obol, a half-obol — total 11 (dr.) 1½ ob. — and surcharges at an obol (and) half-obol.
+3   Year 4 of Gaius Caesar Imperator
+4   Augustus, month Dios …, the Sebaste day.
+5   Petemenophis(?) son of Pikos.

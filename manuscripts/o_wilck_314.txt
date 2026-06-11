@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 314 — Salt-tax receipt (ἁλική), Ptolemaic Thebes
+# Source: papyri.info DDbDP o.wilck;;314  (Trismegistos 50759)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 314
+label:    O.Wilck. 314
+name:     Salt-tax receipt (ἁλική), Ptolemaic Thebes
+genre:    receipts
+date:     7 Nov 256 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4313
+content:  Salt-tax through Ptolemaios, year 30
+tm:       50759
+source:   https://papyri.info/ddbdp/o.wilck;;314
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   (ἔτους) λ Θαὺτ ιγ πέπτω-
+r.2   κεν ἁλικῆς διὰ Πτολε-
+r.3   μαίου Τιτοὶς Ἁρπαίσιος (ὀβολοὺς) δ𐅵.
+
+[TRANSLATION]
+1   Year 30, Thoth 13. There has been
+2   paid, of the salt-tax, through Ptole-
+3   maios: Titoïs son of Harpaesis, 4½ obols.

@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 353 — Bank receipt — crown of the katoikoi (στέφανος), Hermonthis
+# Source: papyri.info DDbDP o.wilck;;353  (Trismegistos 44026)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 353
+label:    O.Wilck. 353
+name:     Bank receipt — crown of the katoikoi (στέφανος), Hermonthis
+genre:    receipts
+date:     31 May 117 BCE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 [353
+content:  Crown of the katoikoi around Thebes, year 53
+tm:       44026
+source:   https://papyri.info/ddbdp/o.wilck;;353
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   ἔτους νγ Παχὼ(ν) ιγ τέ(τακται) ἐπὶ τὴν
+r.2   ἐν ̣ ̣ τρά(πεζαν), ἐφʼ ἧς Ἀμμώνιος, στεφάνου
+r.3   κατοίκ(ων) περὶ Θή(βας) Πετεαρπρὴς
+r.4   Κολ̣φ ̣ ̣ ̣ χα(λκοῦ) δισχιλίας ἑκατὸν
+r.5   ἑξή(κοντα) (γίνονται) (δραχμαὶ) Βρξ.
+
+[TRANSLATION]
+1   Year 53, Pachon 13. There has been paid into the
+2   bank at .. , at which Ammonios (presides): of the crown
+3   of the katoikoi around Thebes, Petearpres
+4   son of Kolph…, of copper, two thousand one hundred
+5   sixty — total 2160 (drachmas).

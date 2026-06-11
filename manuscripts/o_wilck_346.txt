@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 346 — Bank receipt — fishery quarter-tax (τετάρτη ἁλιέων), Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;346  (Trismegistos 43641)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 346
+label:    O.Wilck. 346
+name:     Bank receipt — fishery quarter-tax (τετάρτη ἁλιέων), Diospolis Magna
+genre:    receipts
+date:     2 Jul 85 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1559
+content:  Quarter-tax on fisher-folk of year 32
+tm:       43641
+source:   https://papyri.info/ddbdp/o.wilck;;346
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   (ἔτους) λβ Παῦνι κγ τέ(τακται) ἐπὶ τὴν ἐν
+r.2   Διὸς πόλ(ει) τῆι μεγ(άλῃ) τρά(πεζαν) (τετάρτης) ἁλιέων
+r.3   λβ (ἔτους) Ὧρος Λύκου τριακο(σίας) λε
+r.4   (γίνονται) τλε. Κέφα(λος) τρα(πεζίτης).
+r.5   υ.
+
+[TRANSLATION]
+1   Year 32, Pauni 23. There has been paid into the
+2   bank at Diospolis Magna: of the quarter-tax on fisher-folk
+3   of year 32, Horos son of Lykos, three hundred 35
+4   — total 335. Kephalos banker.
+5   400.

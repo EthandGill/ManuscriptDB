@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 358 — Receipt — access-due (τέλος ἐμβαδικόν), early Roman Thebes
+# Source: papyri.info DDbDP o.wilck;;358  (Trismegistos 76878)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 358
+label:    O.Wilck. 358
+name:     Receipt — access-due (τέλος ἐμβαδικόν), early Roman Thebes
+genre:    receipts
+date:     26 Jan – 24 Feb 16 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4435
+content:  Access-due of year 14: 2 dr. 1 ob., year 14 of Caesar (Augustus)
+tm:       76878
+source:   https://papyri.info/ddbdp/o.wilck;;358
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Πετεμενῶφις Πετεχ(ώνσιος(?))
+r.2   τοῦ Σε̣νρ̣ηυ( ) τέτακ(ται) τέλ(ος) ἐμ(βαδικὸν)
+r.3   ιδ (ἔτους) (δραχμὰς) β(ὀβολὸν). (ἔτους) ιδ Καίσα(ρος)
+r.4   Μεχ(είρ) .
+
+[TRANSLATION]
+1   Petemenophis son of Petech(onsis?),
+2   son of Senreu( ), has paid the access-due (telos embadikon)
+3   of year 14, 2 (drachmas) 1 obol. Year 14 of Caesar,
+4   Mecheir (..).

@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Fay. 34 — Donkey-load account (produce)
+# Source: papyri.info DDbDP o.fay;;34  (Trismegistos 40870)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 34
+label:    O.Fay. 34
+name:     Donkey-load account (produce)
+genre:    receipts
+date:     14 Nov 210 CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 34
+content:  Account of 22 donkey-loads of produce of year 18, Euhemeria
+tm:       40870
+source:   https://papyri.info/ddbdp/o.fay;;34
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   ιθ (ἔτους), Ἀθὺρ ιη, γενη(μάτων) ιη (ἔτους),
+r.2   Ὀξυρύγχ(ων) ὄνοι ια,
+r.3   Ἄρεως ὄνοι ϛ,
+r.4   Πτολ(εμαίδος) Μελ(ισσουργῶν) ὄνοι ε,
+r.5   γ(ίνονται) ὄνοι κβ.
+r.6   πρὸς Ὀρσέα̣ν
+r.7   Ἥρωνα.
+
+[TRANSLATION]
+1   Year 19, Hathyr 18, produce of year 18:
+2   Oxyrhyncha, 11 donkey(-loads);
+3   Areos, 6 donkey(-loads);
+4   Ptolemais of the Bee-keepers, 5 donkey(-loads);
+5   total 22 donkey(-loads).
+6   To Orsea(?)
+7   Heron.

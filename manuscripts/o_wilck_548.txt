@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 548 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;548  (Trismegistos 77057)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 548
+label:    O.Wilck. 548
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+genre:    receipts
+date:     15 Feb 132 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 8578
+content:  Poll-tax + bath-tax of the Charax quarter, year 16 of Hadrian
+tm:       77057
+source:   https://papyri.info/ddbdp/o.wilck;;548
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἑριοφμόις πράκ(τωρ) ἀργ(υρικῆς) Π ̣ ̣ου ̣ ̣ ̣
+r.2   Πανᾶτ(ος) Παουφθείους. ἔσχ(ον) ὑπ(ὲρ)
+r.3   λαο(γραφίας) καὶ βα(λανικοῦ) [Χ]ά(ρακος) ιϛ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) δώδεκα
+r.4   ῥυπ(αρὰς) (δραχμὰς) ιβ. (ἔτους) ιϛ Ἁδριανοῦ Καίσαρος
+r.5   τοῦ κυρίου Μεχεὶρ κ.
+
+[TRANSLATION]
+1   Heriophmois, collector of money-tax, (to) P..ou…
+2   son of Panas, (grand)son of Paouphtheus. He received, for
+3   poll-tax and bath-tax of the [Ch]arax (quarter), year 16, in base (coin), twelve drachmas
+4   — base, 12 dr. Year 16 of Hadrian Caesar
+5   the lord, Mecheir 20.

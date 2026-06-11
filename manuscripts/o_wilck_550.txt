@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 550 — Assessments receipt (μερισμοί), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;550  (Trismegistos 77059)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 550
+label:    O.Wilck. 550
+name:     Assessments receipt (μερισμοί), Charax quarter
+genre:    receipts
+date:     17 May 132 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4513
+content:  Assessment of the Charax quarter, year 16 of Hadrian, requisitioners
+tm:       77059
+source:   https://papyri.info/ddbdp/o.wilck;;550
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἥρων ὁ κ(αὶ) Πετοσῖρι(ς) κ(αὶ) μ(έτοχοι)
+r.2   ἀπαιτηταὶ μερισ(μῶν) Τικὼς Παμώνθ(ου)
+r.3   Ἁρβήχιος. ἔσχομ(εν) παρὰ σοῦ ὑπ(ὲρ) τοῦ μερισμ(οῦ)
+r.4   ῥυπ(αρὰς) δραχμὰς ἐννέα ὀβ(ολοὺς) δύο ἡμοσι δίχαλκ(ον)
+r.5   (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) θ (ὀβολοὶ) β𐅵 χ(αλκοῖ 2). (ἔτους) ιϛ Ἁδριανοῦ Καίσαρος
+r.6   τοῦ κυρίου Παχὼν κβ.
+
+[TRANSLATION]
+1   Heron also called Petosiris and partners,
+2   requisitioners of assessments, (to) Tikos son of Pamonthes,
+3   (grand)son of Harbechis. We have received from you, for the assessment,
+4   in base (coin), nine drachmas, two-and-a-half obols, 2 chalkoi
+5   — total, base, 9 dr. 2½ ob. 2 chalkoi. Year 16 of Hadrian Caesar
+6   the lord, Pachon 22.

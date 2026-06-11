@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 338 — Receipt — payment toward the pastures (νομαί)
+# Source: papyri.info DDbDP o.wilck;;338  (Trismegistos 43602)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 338
+label:    O.Wilck. 338
+name:     Receipt — payment toward the pastures (νομαί)
+genre:    receipts
+date:     154–153 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 3996
+content:  Adaios: 1400 dr. copper toward the pastures of year 28
+tm:       43602
+source:   https://papyri.info/ddbdp/o.wilck;;338
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἀδαῖος Ἡμικήλωι
+r.2   χαί(ρειν). τέ(ταξαι) εἰς τὰς νομὰς
+r.3   τοῦ κη (ἔτους) χα(λκοῦ) Αυ.
+
+[TRANSLATION]
+1   Adaios to Hemikelos,
+2   greeting. You have paid, toward the pastures
+3   of year 28, of copper, 1400.

@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 390 — Bath-tax receipt (βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;390  (Trismegistos 76906)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 390
+label:    O.Wilck. 390
+name:     Bath-tax receipt (βαλανικόν)
+genre:    receipts
+date:     43–44 CE (?)
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4150
+content:  Bath-tax of year 4 of Claudius, collector Ptolemaios
+tm:       76906
+source:   https://papyri.info/ddbdp/o.wilck;;390
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Πτολεμαῖος Ἀσκλᾶς
+r.2   πράκ(τωρ) βαλ(ανικοῦ) Φᾶφις Ὥρου
+r.3   χ(αίρειν). ἀπέχω ὑπὲρ βαλ(ανικοῦ) (δραχμὴν) α
+r.4   τοῦ δ (ἔτους). (hand 2) Πτολεμαῖ[ο-]
+r.5   ς.
+
+[TRANSLATION]
+1   Ptolemaios son of Asklas,
+2   collector of the bath-tax, to Phaphis son of Horos,
+3   greeting. I have received, for the bath-tax, 1 drachma
+4   of year 4. (2nd hand) Ptolemai-
+5   os.

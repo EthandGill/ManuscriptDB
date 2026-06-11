@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 467 — Guard-tax receipt (φυλακή), Apollonopolis
+# Source: papyri.info DDbDP o.wilck;;467  (Trismegistos 76977)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 467
+label:    O.Wilck. 467
+name:     Guard-tax receipt (φυλακή), Apollonopolis
+genre:    receipts
+date:     1 Dec 86 CE
+language: Greek (Koiné)
+found:    Apollonopolis Magna (Edfu), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12467
+content:  Guard-tax of year 6 of Domitian, Apollonopolis (Edfu)
+tm:       76977
+source:   https://papyri.info/ddbdp/o.wilck;;467
+lat:      24.9781
+lon:      32.8731
+
+[GREEK]
+r.1   Ἀπολλὼς Ἁρνούριος
+r.2   φυλ(ακῆς) ϛ (ἔτους) Δομιτιανοῦ
+r.3   (δραχμὴν) α. (ἔτους) ϛ Χοί(ακ) ε.
+
+[TRANSLATION]
+1   Apollos son of Harnouris,
+2   (for) the guard(-tax) of year 6 of Domitian,
+3   1 dr. Year 6, Choiak 5.

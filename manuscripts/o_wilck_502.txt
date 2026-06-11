@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 502 — Receipt — price of dates / wine (Charax quarter)
+# Source: papyri.info DDbDP o.wilck;;502  (Trismegistos 77012)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 502
+label:    O.Wilck. 502
+name:     Receipt — price of dates / wine (Charax quarter)
+genre:    receipts
+date:     24 Dec 109 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4107
+content:  Price of dates / wine of the Charax quarter, year 12 of Trajan
+tm:       77012
+source:   https://papyri.info/ddbdp/o.wilck;;502
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἀπολ(λώνιος) καὶ μ(έ)τ(οχοι) Σενψενχώ(νσει) Παμών(θου)
+r.2   διὰ Τφοῦτ(ος) Πολάιο(ς). ἔσχ(ομεν) ὑπ(ὲρ) ̣( )
+r.3   οἴνου ὑπ(ὲρ) τι(μῆς) φοι(νίκων) Χά(ρακος) ιβ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) τρῖς (γίνονται) (δραχμαὶ) γ.
+r.4   (ἔτους) ιγ Τραιανοῦ τοῦ κυρίου
+r.5   Ἁθὺρ λ‡7κη.
+
+[TRANSLATION]
+1   Apollonios and partners, to Senpsenchonsis daughter of Pamonthes,
+2   through Tphous son of Polais. We have received, for the …( )
+3   of wine, for the price of dates of the Charax (quarter), year 12, in base (coin), three drachmas — total 3 dr.
+4   Year 13 of Trajan the lord,
+5   Hathyr 28(?).

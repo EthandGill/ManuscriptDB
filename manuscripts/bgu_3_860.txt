@@ -1,0 +1,51 @@
+# ───────────────────────────────────────────────
+# BGU 3.860 — Offer to lease farmland (μίσθωσις)
+# Source: papyri.info DDbDP bgu;3;860  (Trismegistos 20069)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.860
+label:    BGU 3.860
+name:     Offer to lease farmland (μίσθωσις)
+genre:    contracts
+date:     254–268 CE (Gallienus)
+language: Greek (Koiné)
+found:    Magdola Mire (Hermopolite nome), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 9003
+content:  Two villagers of Magdola Mire offer to lease 18 arouras of jointly-held land from Aurelia Diogenis for one year for wheat and fodder; reign of Gallienus
+tm:       20069
+source:   https://papyri.info/ddbdp/bgu;3;860
+lat:      27.7803
+lon:      30.8016
+
+[GREEK]
+r.1   [Αὐρη(?)]λίᾳ Διογενίδι τ̣ῇ̣ κ̣αὶ Ἡρακλείᾳ ματρώνᾳ στολάτᾳ(?)
+r.2   [διʼ Ἁρπο(?)]κρατίωνος προ̣ν̣οητοῦ(?)
+r.3   [παρὰ Αὐ]ρηλίων Πε̣θώ̣του Παήσ̣[ι]ος μητρὸς Τασ[ο]υκ̣ᾶ̣-
+r.4   [τος καὶ] Ἁρπαθώτου Σαρᾶτος μητρὸς Εὖτ̣ος ἀμφοτέρων
+r.5   [ἀπὸ κώ]μης Μαγδώλων Μίρη. βουλόμεθα ἑκου̣σ̣ί̣ω̣ς̣
+r.6   [μισθ]ώσασθαι παρὰ σοῦ πρὸς μόνον τὸ ἐνεστὸς
+r.7   [ ̣ ἔτο]ς̣ τοῦ κυρίου ἡμῶν Γαλλιηνοῦ Σεβαστοῦ
+r.8   [ἀπὸ τ]ῶν ὑπαρχόντων σοι ἅμʼ ἄλλο[ι]ς̣ κατὰ τὰ μέρη
+r.9   [περὶ] Ποαμπινοῦφιν ἐκ τοῦ Ἀγ̣αζήλ̣ο̣υ̣ κλήρου
+r.10   [ἀρού]ρας δέκα ὀκτὼ εἰ[ς] σπορὰν πυροῦ καὶ χόρτου
+r.11   [καὶ] ὧν ἄλλων ἐὰν αἱρώμεθα ἀναπαυματι-
+r.12   [κῶ]ν γενῶν κατὰ τὸ ἥμισυ φόρου τῆς μὲν ἐν
+r.13   [ ̣ ̣ ̣ ̣ ̣] ἡμισίας μ̣[ ̣ ̣ ̣]ου ἀρτάβας τέσσαρας
+
+[TRANSLATION]
+1   To [Aure]lia Diogenis also called Heraklia, a matron stolata(?),
+2   [through Harpo]kration the steward(?),
+3   [from Au]relii Pethotes son of Paesis, mother Tasouka-
+4   [tis, and] Harpathotes son of Saras, mother Eus, both
+5   [from the vil]lage of Magdola Mire. We wish, willingly,
+6   [to le]ase from you, for the present
+7   [. yea]r only of our lord Gallienus Augustus,
+8   [from] the (lands) belonging to you jointly with others, by shares,
+9   [near] Poampinouphis, from the allotment of Agazelos,
+10   [arou]ras eighteen, for sowing wheat and grass (fodder)
+11   [and] whatever other crops we choose, of the fallow-
+12   rotation kinds, at half(-share) rent: of the (land) in
+13   […], the half … four artabas

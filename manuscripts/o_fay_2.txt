@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Fay. 2 — Bath-tax receipt (τέλος βαλανείων)
+# Source: papyri.info DDbDP o.fay;;2  (Trismegistos 40849)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 2
+label:    O.Fay. 2
+name:     Bath-tax receipt (τέλος βαλανείων)
+genre:    receipts
+date:     13 May 23 BCE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 2
+content:  Bath-tax of Euhemeria, 14 obols
+tm:       40849
+source:   https://papyri.info/ddbdp/o.fay;;2
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   (ἔτους) ζ, Παχὼν ιη, δι(έγραψεν)
+r.2   Ἡρᾶς χήρα μήτερ Ἥρων̣ο̣ς̣
+r.3   τέλ(ους) βαλαν(είων) Εὐημερ(είας) δι(ὰ) Ἥρωνος ἐπ̣ὶ̣ λ̣(όγου)
+r.4   ὀβολ(οὺς) δέκα τέσαρες , (γίνονται) (ὀβολοὶ) ιδ. (hand 2) Ἥρων σεση-
+r.5   μέωμαι .
+
+[TRANSLATION]
+1   Year 7, Pachon 18: paid,
+2   Heras, widow, mother of Heron,
+3   (for) the bath-tax of Euhemeria, through Heron, on account,
+4   fourteen obols — total 14 ob. (2nd hand) I, Heron, have
+5   signed.

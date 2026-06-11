@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 336 — Salt-tax receipt (ἁλική), Ptolemaic Thebes
+# Source: papyri.info DDbDP o.wilck;;336  (Trismegistos 50761)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 336
+label:    O.Wilck. 336
+name:     Salt-tax receipt (ἁλική), Ptolemaic Thebes
+genre:    receipts
+date:     8 Oct 259 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4345
+content:  Salt-tax of the first half-year, year 27
+tm:       50761
+source:   https://papyri.info/ddbdp/o.wilck;;336
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   (ἔτους) κζ Μεσορὴ ιζ
+r.2   πέπτωκεν τῆς
+r.3   πρώτης ἑκξα-
+r.4   μένου Πιριτ (τετρώβολον)(ἡμιωβέλιον)
+r.5   Νοφερευ̣ (τριώβολον).
+
+[TRANSLATION]
+1   Year 27, Mesore 17.
+2   There has been paid, of the
+3   first six-month period:
+4   Pirit( ), 4½ obols;
+5   Nophereus, 3 obols.

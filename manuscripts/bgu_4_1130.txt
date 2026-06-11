@@ -1,0 +1,95 @@
+# ───────────────────────────────────────────────
+# BGU 4.1130 — Cession of a house and public bath (synchoresis)
+# Source: papyri.info DDbDP bgu;4;1130  (Trismegistos 18573)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1130
+label:    BGU 4.1130
+name:     Cession of a house and public bath (synchoresis)
+genre:    contracts
+date:     14 Feb 4 BCE
+language: Greek (Koiné)
+found:    Alexandria, Egypt (property at Hypsele, Lykopolite)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13108
+content:  Pylaimenes, slave of Caesar, cedes to Sarapion plots at Hypsele (Lykopolite) including a house and a public bath, with the consent of the master’s agent; warranty and penalty clauses; year 26 of Augustus
+tm:       18573
+source:   https://papyri.info/ddbdp/bgu;4;1130
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   [Πρωτάρχ]ωι
+r.2   [παρὰ Σα]ρ̣α̣π̣ί̣[ω]νος τοῦ Διοδώρου Ἀλθαιέω[ς καὶ παρὰ Πυλαι]μένο̣υ̣ τ̣ο̣ῦ̣
+r.3   [Ἀκρ]άτου Καίσαρ[ο]ς παρόντος καὶ σ̣υ̣ν̣ε̣υ̣δ̣ο̣κ̣[οῦντος τῇδε τῇ συνχωρ]ήσει
+r.4   [Γαίου Ἰουλίου Ἑρ]μίου ̣ ̣ ̣ ̣ τοῦ δ̣ε̣σ̣π̣ό̣τ̣ο̣υ̣ [Ἀ]κ̣ρ̣ά̣τ̣ο̣υ̣ τ̣ο̣ῦ̣ Κ̣α̣ί̣σ̣α̣ρ̣ο̣ς̣ κεχ[ρηματικότος δὲ Ἑρμίου
+r.5   τοῦ Πρίσκου. περὶ τῶν διεσ-]
+r.6   τ̣α̣μ̣έ̣ν̣ω̣ν̣ [συν]χωρεῖ ὁ Πυλαιμένης [εὐπειθὴς κα]τὰ πᾶν γεγονὼς
+r.7   ὑ̣π̣ὸ̣ τ̣ο̣ῦ̣ Σαρ[απί]ωνος καὶ ἀπεσχηκὼς [παρʼ αὐτοῦ διὰ χειρὸς ἐξ] οἴκου τὸ ἑστα-
+r.8   [μένον] παραχωρητικὸν παρακεχωρη̣[κέναι αὐτῷ τοὺς ὑπάρχοντας αὐτῷ]
+r.9   ἐν κώμῃ Ὑ[ψ]ηλῇ τοῦ Λυκοπολεί[του τῆς Θηβαίδος ἐκ τ]οῦ πρὸς
+r.10   ἀπηλι[ώτην μέρους τόπ]ους [ἐν οἷς οἰκία καὶ] βαλανεῖον δημόσι[ο]ν
+r.11   [πρότερον Διογ]ένους τοῦ Ἰ̣σ̣ι̣δ̣ώ̣ρ̣ο̣υ̣, ὧν [γείτον]ες νότωι δρόμος
+r.12   τοῦ ἱεροῦ Χ[νο]ύβεως θεοῦ μεγίστου βορρ[ᾶι προ]βατ[ι]ῶνες τ̣ο̣ῦ̣
+r.13   Ἀμενώθο[υ] ἀπηλιώτηι ὕδρευμα λιβὶ [κοι]νὴ εἴσοδος καὶ ἔξοδος
+r.14   τῶν τόπων, καὶ ἀπὸ τοῦ νῦν κρατεῖν καὶ κυρι[εύει]ν τὸν Σαραπίωνα
+r.15   τ̣ῶ̣ν̣ π̣α̣ρ̣α̣κ̣ε̣χ̣[ωρη]μένων αὐτῶι καὶ ἐ̣μβατεύειν [καὶ ἐποι]κοδομεῖν καὶ
+r.16   ἐγμισθοῦν [καὶ] ἑτέροις παραχωρεῖν καὶ χρῆσθ[αι καὶ] διοικεῖν καὶ ἐ̣π̣ι̣τ̣ε̣λ̣ε̣ῖ̣ν̣
+r.17   περὶ αὐτῶν ὃ ἐ[ὰν βο]ύληται, μηδεμίαν δʼ εἶναι ἔφ[ο]δον τῷ Πυλαιμέ(νῃ)
+r.18   μηδʼ ἄλλῳ ὑ[πὲρ] αὐτοῦ ἐπὶ τὸν Σαραπίωνα τ̣ὸ̣ν̣ παρακ̣ε̣χ̣ω̣ρ̣[η]μ̣έ̣(νον) [μ]η̣δ̣ʼ
+r.19   [ἐ]πὶ̣
+r.20   μέρος αὐτῶν [μ]ηδʼ ἐπὶ τὰ ἐξ αὐτῶν περιγινόμενα ἀπ[ὸ] μηδενὸς
+r.21   ἁπλῶς ἐνγ[ρά]πτου ἢ ἀγράφου κατὰ μηδένα τρόπον, ἐξακολουθεῖν
+r.22   δʼ αὐτῶι τὴν βεβαίωσιν διὰ παντὸς ἀπὸ πάντων καὶ ἀφισ[τάν]ειν τὸν
+r.23   ἐπελευ[σό]μενον τοῖς ἰδίοις δαπανήμασιν, ὑ̣π̣α̣κ̣ο̣ῦ̣σ̣αι(?) δʼ αὐτὸν καὶ αἷς
+r.24   ἐὰν ἄλλαις [προ]αιρῆται ὁ Σαραπίων περὶ τῶν αὐτῶν καὶ διὰ τῶν ἐπὶ τ̣ῶ̣ν̣
+r.25   τόπ[ων] ἀ̣ρχείω̣[ν] οἰκονομίαις μ̣η̣δ̣ὲ̣ν̣ ἕτερον λαβόντα τῶν δαπα-
+r.26   νημάτων ὄντων πρὸς τὸν Σαραπίωνα, ἢ χωρὶς τοῦ κύρια εἶναι τὰ συν-
+r.27   [κεχωρημέ]να ἐ̣[κτ]ί̣νειν αὐτὸν ὅ̣ τ̣ε̣ ὁ̣ Π̣υ̣λ̣α̣ι̣μέ(νης) εἴληφεν παραχωρητικὸν
+r.28   σὺν ἡ-
+r.29   μ̣[ιολίᾳ κ]αὶ τὰ βλάβη καὶ δαπανήματα καὶ ἄλλας ἀρ[γυ(ρίου)] (δραχμὰς) Α καὶ τὸ ὡρι[σμένον]
+r.30   πρόστε[ι]μον καθάπερ ἐγ δίκης, ἀνακεκομίσθα[ι] δὲ ὁ Σαραπίων
+r.31   παρὰ τοῦ Πυλαιμένου ἃς εἶχεν κατὰ τῶν προκειμένων ἀσφαλε̣ί̣α̣ς̣
+r.32   κ̣α̣τ̣ὰ̣ μ̣η̣δ̣ὲ̣ν̣ ̣ ̣ ̣ ̣[ ̣ ̣ ̣ ̣ ̣μ]έ̣ν̣ου Σαραπίωνος ἐ̣ν̣ τ̣ῇ̣ ἐ̣π̣ὶ̣ τὸν Γάιον
+r.33   Ἑ̣ρ̣μ̣ί̣α̣ν̣ ἐ̣φ̣ό̣δωι ὑ̣π̣έ̣ρ̣ τ̣ε̣ β̣εβαιώσεως οὗ παρακεχώρηκεν α ̣ ̣α
+r.34   κ̣α̣τ̣ὰ̣ τὴν συνχώρησιν χ̣ωρίο̣υ̣ ἀρ̣ο̣υ̣ρῶν δύο κ̣α̣ὶ̣ οὗ ὀφ̣ε̣ί̣λει α̣ὐ̣τ̣ῷ̣ ̣ ̣ ̣ ̣ ̣ ̣
+r.35   (ἔτους) κϛ Καίσαρος Μεχεὶρ κ
+
+[TRANSLATION]
+1   [To Protarch]os,
+2   [from Sa]rap[i]on son of Diodoros, of the Althaian (deme), [and from Pylai]menes son of
+3   [Akr]atos (slave) of Caesar — present and conse[nting to this agree]ment being
+4   [Gaius Julius Her]mias …, (agent) of the master Akratos (slave) of Caesar, Hermias having transacted
+5   (as) son of Priscus. Concerning the matters at iss-
+6   ue, Pylaimenes agrees — having become [compliant] in all
+7   by Sarapion, and having received [from him, from hand to hand out of] the house, the fixed
+8   cession-price — that he has ceded [to him the (properties) belonging to him]
+9   in the village of Hypsele of the Lykopoli[te (nome) of the Thebaid, from t]he toward-
+10   the-eas[t part, plo]ts [in which (are) a house and] a public bath,
+11   [formerly (of) Diog]enes son of Isidoros, of which [the neighbo]urs (are): on the south, the avenue
+12   of the temple of Chnoubis, the greatest god; on the nort[h, the] sheep-folds of
+13   Amenothes; on the east, a water-channel; on the west, a [com]mon entrance and exit
+14   of the plots; and that from now Sarapion holds and ow[n]s
+15   the (properties) ce[de]d to him, and enters upon (them) [and bui]lds upon and
+16   leases out [and] cedes to others and uses [and] manages and carries out
+17   concerning them whatever he [wi]shes; and that there is no proceeding for Pylaimene(s)
+18   nor for another on [his behalf] against Sarapion, the ce[d]ed (party), nor
+19   agai[nst]
+20   a part of them, nor against the proceeds from them, from no one
+21   at all, written or unwritten, in any way; and that the guarantee
+22   follows for him throughout from all, and that he shall ward off the
+23   one who proceeds, at his own expense, and shall comply also with whatever
+24   other (dispositions) Sarapion may choose concerning the same (properties), through the
+25   record-offices at the place, taking nothing further, the ex-
+26   penses being charged to Sarapion; or else, apart from the things agreed being
+27   valid, that he pay back — both what Pylaimene(s) received as cession-price
+28   with half
+29   [as much again,] and the damages and expenses, and another 1,000 silver (drachmas), and the fix[ed]
+30   penalty, just as by legal judgement; and Sarapion has recovered
+31   from Pylaimenes the securities which he held against the aforesaid (matters),
+32   in no way … Sarapion being … in the proceeding against Gaius
+33   Hermias for the guarantee of what he has ceded …
+34   according to the agreement, a plot of two arouras, and of what he owes him …
+35   Year 26 of Caesar, Mecheir 20.

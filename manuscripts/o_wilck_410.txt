@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 410 — Private receipt — tax-farmers of the island
+# Source: papyri.info DDbDP o.wilck;;410  (Trismegistos 76921)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 410
+label:    O.Wilck. 410
+name:     Private receipt — tax-farmers of the island
+genre:    receipts
+date:     26 Feb 59 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 [410
+content:  Part-payment of 4 of 8 dr. owed to the island tax-farmers, year 5 of Nero
+tm:       76921
+source:   https://papyri.info/ddbdp/o.wilck;;410
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Μίμνος καὶ μ(έτο)χ(οι) τελ(ῶναι) νή(σου)
+r.2   Παμώ(νθῃ) χα(ίρειν). ἔσχομ(εν) παρὰ σοῦ
+r.3   ἀφʼ ὧν ὀφείλ(εις) δραχμ(ῶν) ὀκτὼι
+r.4   ἐπὶ λόγωι δραχ(μὰς) τέσσαρας .
+r.5   (ἔτους) ε Νέρωνος τοῦ κυρίου Φαμε(νὼθ) β.
+
+[TRANSLATION]
+1   Mimnos and partners, tax-farmers of the island,
+2   to Pamonthes, greeting. We have received from you,
+3   out of the eight drachmas which you owe,
+4   on account, four drachmas.
+5   Year 5 of Nero the lord, Phamenoth 2.

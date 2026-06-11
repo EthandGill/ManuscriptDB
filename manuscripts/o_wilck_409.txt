@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 409 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;409  (Trismegistos 76920)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 409
+label:    O.Wilck. 409
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν)
+genre:    receipts
+date:     19 Oct 58 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 8169 (sic?)
+content:  Dike-tax + bath-tax of year 4, year 5 of Nero
+tm:       76920
+source:   https://papyri.info/ddbdp/o.wilck;;409
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγ(εγράφηκεν) Πετεμε(νῶφις) Ἁρυώθου ὑπ(ὲρ)
+r.2   χω(ματικοῦ) δ (ἔτους) (δραχμὰς) ἓξ τρο (βολον) , βαλ(ανικοῦ) (ὀβολοὺς) δ𐅵 (γίνονται) (δραχμαὶ) ζ (ὀβολοὶ) β𐅵
+r.3   καὶ τ(ούτ)ω(ν) προ(σδιαγραφόμενα). (ἔτους) ε Νέρωνος Κλαυδίου
+r.4   Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.5   Αὐτοκράτορος Φαῶφι κβ. Ἀπ[ί]ω(ν).
+
+[TRANSLATION]
+1   Petemenophis son of Haryothes paid, for
+2   dike-tax of year 4, six drachmas, four obols; bath-tax 4½ obols — total 7 dr. 2½ ob.,
+3   and the surcharges on these. Year 5 of Nero Claudius
+4   Caesar Augustus Germanicus
+5   Imperator, Phaophi 22. Apion.

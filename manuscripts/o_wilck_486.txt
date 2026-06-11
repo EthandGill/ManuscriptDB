@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 486 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;486  (Trismegistos 76996)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 486
+label:    O.Wilck. 486
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+genre:    receipts
+date:     28 Apr 96 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 312
+content:  Poll-tax + bath-tax of the Charax quarter, year 15 of Domitian
+tm:       76996
+source:   https://papyri.info/ddbdp/o.wilck;;486
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) Πατομραῦτις
+r.2   Πεχώ(νσιος) Νεχθανούφιος ὑπ(ὲρ)
+r.3   λαο(γραφίας) Χά(ρακος) ιε (ἔτους) (δραχμὰς) δέκα , βαλ(ανικοῦ) α (ὀβολὸν) α𐅵 (γίνονται) (δραχμαὶ) ια (ὀβολὸς) α𐅵
+r.4   καὶ (προσδιαγραφόμενα). (ἔτους) ιε Δομ(ιτιαν)οῦ Καίσαρος τοῦ κυρ[ίου]
+r.5   Φαρμοῦθι λ‡7γ. ̣ ̣ο ̣( )
+
+[TRANSLATION]
+1   Patomrautis son of
+2   Pechonsis, (grand)son of Nechthanouphis, paid, for
+3   poll-tax of the Charax (quarter), year 15, ten drachmas; bath-tax 1 dr. 1½ ob. — total 11 dr. 1½ ob. —
+4   and surcharges. Year 15 of Domitian Caesar the lor[d],
+5   Pharmouthi 33(?). …o.( )

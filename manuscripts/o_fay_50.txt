@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Fay. 50 — Account — monthly assessments (Dionysias)
+# Source: papyri.info DDbDP o.fay;;50  (Trismegistos 32277)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 50
+label:    O.Fay. 50
+name:     Account — monthly assessments (Dionysias)
+genre:    receipts
+date:     3rd c. CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 50
+content:  Monthly assessments of 8 dr., Dionysias / Euhemeria
+tm:       32277
+source:   https://papyri.info/ddbdp/o.fay;;50
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   Κάστ̣ρ(ων(?)) Δι̣ο̣ν̣υ(σιάδος) μηνὶ
+r.2   Θὼθ καὶ Φαῶφι
+r.3   δι( ) Ἑρμι( ) τάξις (δραχμαὶ) η,
+r.4   καὶ Τῦβι καὶ Μεχὶρ (δραχμαὶ) η,
+r.5   καὶ Φαρμοῦθ(ι) ̣ ̣ (δραχμαὶ) η.
+
+[TRANSLATION]
+1   Of the fort(?) of Dionysias: in the month
+2   Thoth and Phaophi,
+3   through Hermi( ), assessment 8 drachmas,
+4   and (in) Tybi and Mecheir, 8 drachmas,
+5   and (in) Pharmouthi …, 8 drachmas.

@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 362 — Bank receipt — vineyard-land tax (γῆ ἀμπελῖτις), Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;362  (Trismegistos 76882)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 362
+label:    O.Wilck. 362
+name:     Bank receipt — vineyard-land tax (γῆ ἀμπελῖτις), Diospolis Magna
+genre:    receipts
+date:     26 Sept 20 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4503
+content:  Tax on vineyard-land of year 6, paid into the Diospolis Magna bank
+tm:       76882
+source:   https://papyri.info/ddbdp/o.wilck;;362
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   [διαγεγρ(άφηκεν) ἐπ]ὶ τὴν ἐν Διὸ(ς) πόλ(ει) τῆι μεγάλ(ῃ) τρά̣π(εζαν) Πετε-
+r.2   [ ̣ ̣ ̣] ̣ι̣ος Νεχθανούφιος ὑπὲρ ̣ ̣ ̣( ) γῆς
+r.3   ἀμπελί(τι)δ(ος) ϛ (ἔτους) ἀργ(υρίου) (δραχμὰς) ἓξ ὀβολ(ὸν) ἡμι(ωβέ)λ(ιον) (γίνονται) (δραχμαὶ) ϛ (ὀβολὸς) α𐅵 καὶ
+r.4   τὰ τούτω(ν) πρ(οσ)δ(ιαγραφόμενα) ἐξ ὀβολ(οῦ) ἡμι(ωβε)λ(ίου) (ἔτους) ζ Τιβερίου Καίσαρο(ς)
+r.5   Σεβαστοῦ, μηνὸς Σεβαστοῦ κθ.
+
+[TRANSLATION]
+1   [Has paid in]to the bank at Diospolis Magna: Pete-
+2   …ios son of Nechthanouphis, for … of vineyard
+3   land, year 6, of silver six drachmas, an obol, a half-obol — total 6 dr. 1½ ob., and
+4   the surcharges on these at an obol (and) a half-obol. Year 7 of Tiberius Caesar
+5   Augustus, month Sebastos 29.

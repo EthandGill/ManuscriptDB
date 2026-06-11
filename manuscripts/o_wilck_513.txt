@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 513 — Copy of a survey-tax receipt (γεωμετρία)
+# Source: papyri.info DDbDP o.wilck;;513  (Trismegistos 77023)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 513
+label:    O.Wilck. 513
+name:     Copy of a survey-tax receipt (γεωμετρία)
+genre:    receipts
+date:     22 Aug 115 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1596
+content:  Copy of a receipt: survey-tax of year 18 of Trajan
+tm:       77023
+source:   https://papyri.info/ddbdp/o.wilck;;513
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   ἀντίγρ(αφον) ἀποχ(ῆς).
+r.2   Πεφῖ( ) πράκ(τωρ) ἀργ(υρικῶν) μη(τροπόλεως) ̣[ ̣ ̣ ̣ ̣ ̣]
+r.3   ὁ(μοίως) Ἀπολλωνίο(υ) καὶ καὶ ἀδ̣ε̣λ(φ ) ̣[ ̣ ̣ ̣ ̣ ̣]
+r.4   ἔσχ(ον(?)) ὑπ(ὲρ) γε(ωμετρίας) ιη (ἔτους) ῥυπ(αρὰς) (δραχμὰς) ὀκ[τὼ (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) η].
+r.5   (ἔτους) ιη Τραιανοῦ Ἀρ(ίστου) [τοῦ κυρίου]
+r.6   Μεσορὴ κθ. ἄ(λλα) ̣[ ̣ ̣ ̣ ̣ ῥυπ(αρὰν)]
+r.7   δραχ(μὴν) μίαν (τετρώβολον) (γίνονται) ῥυ[π(αρὰ) (δραχμὴ 1) (τετρώβολον)].
+r.8   (hand 2) Ποριεύθης σεσημ(είωμαι).
+
+[TRANSLATION]
+1   Copy of a receipt.
+2   Pephi( ), collector of money-taxes of the metropolis …[…],
+3   likewise (son) of Apollonios, and … (his) brother …[…].
+4   He received(?), for the survey-tax of year 18, in base (coin), eig[ht] drachmas [— total, base, 8 dr.].
+5   Year 18 of Trajan Op(timus) [the lord],
+6   Mesore 29. Other(s) …[… base]
+7   one drachma, 4 obols — total ba[se, 1 dr. 4 ob.].
+8   (2nd hand) Porieuthes, I have signed.

@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 425 — Poll-tax and bath-tax receipt, Agorai-north quarter
+# Source: papyri.info DDbDP o.wilck;;425  (Trismegistos 76936)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 425
+label:    O.Wilck. 425
+name:     Poll-tax and bath-tax receipt, Agorai-north quarter
+genre:    receipts
+date:     27 Apr 69 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 6048
+content:  Poll-tax + bath-tax of the Agorai-north quarter, year 1 of Otho
+tm:       76936
+source:   https://papyri.info/ddbdp/o.wilck;;425
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρ(άφηκεν) Χεσθώτη(ς) πρε(σβύτερος) Πετεχώ(νσιος)
+r.2   ὑπ(ὲρ) λαο(γραφίας) Ἀγο(ρῶν) βο(ρρᾶ) α (ἔτους) [(δραχμὰς)] δέκα , βαλ(ανικοῦ) α (ὀβολὸν) α𐅵
+r.3   (γίνονται) (δραχμὰς) ια (ὀβολὸς) α𐅵 καὶ προ(σδιαγραφόμενα). (ἔτους) α Αὐτοκράτορος
+r.4   Μάρκου Ὄτωνος Καίσαρος Σεβ(ασ)τοῦ
+r.5   Φαρμο(ῦθι) λ‡7β. Π ̣ ̣ ̣ σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1   Chesthotes the elder, son of Petechonsis, paid,
+2   for poll-tax of the Agorai-north (quarter), year 1, [ten drachmas]; bath-tax 1 dr. 1½ ob.,
+3   total 11 dr. 1½ ob., and surcharges. Year 1 of Imperator
+4   Marcus Otho Caesar Augustus,
+5   Pharmouthi 2(?). P… signed.

@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Fay. 35 — Donkey-load account
+# Source: papyri.info DDbDP o.fay;;35  (Trismegistos 32271)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 35
+label:    O.Fay. 35
+name:     Donkey-load account
+genre:    receipts
+date:     3rd c. CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 35
+content:  Account of donkey-loads by village, Euhemeria
+tm:       32271
+source:   https://papyri.info/ddbdp/o.fay;;35
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   Κυνῶ(ν) ὄνοι θ,
+r.2   Τρικω̣μία(ς) ὄνοι ι̣,
+r.3   Φυλακιτικῆ(ς) ὄνοι η̣,
+r.4   Λυσομαχὶς ὄνοι δ,
+r.5   πρὸς Ὀρσέαν Ἥρωνα.
+
+[TRANSLATION]
+1   Kynon, 9 donkey(-loads);
+2   Trikomia, 10 donkey(-loads);
+3   Phylakitike, 8 donkey(-loads);
+4   Lysomachis, 4 donkey(-loads);
+5   to Orsea(?) Heron.

@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Fay. 49 — Tax receipt — money + anabolika levy
+# Source: papyri.info DDbDP o.fay;;49  (Trismegistos 40871)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 49
+label:    O.Fay. 49
+name:     Tax receipt — money + anabolika levy
+genre:    receipts
+date:     5 Oct 19 CE (year uncertain)
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 49
+content:  100 dr. + 18 dr. for the anabolika of year 5, year 6 of Tiberius, Euhemeria
+tm:       40871
+source:   https://papyri.info/ddbdp/o.fay;;49
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   ἔτους ἕ̣κ̣του Τ̣ι̣β̣ε̣ρ̣ί̣ο̣υ̣ Κ̣α̣ί̣σ̣α̣ρ̣ο̣ς̣
+r.2   Σεβαστοῦ, Φαῶφι ζ, δι(έγραψε) ε̣ἰ̣ς̣ β̣ι̣-
+r.3   ον̣ ̣ ̣ ̣ν̣ν̣ω̣γ̣ον Θ̣ω̣ναρίμφης̣
+r.4   (δραχμὰς) ἑκατόν, (γίνονται) (δραχμαὶ) ρ, καὶ τιμῆς̣
+r.5   ἀναβολ̣ι̣κ̣(ῶν) ε (ἔτους) (δραχμὰς) ιη.
+
+[TRANSLATION]
+1   Year six of Tiberius Caesar
+2   Augustus, Phaophi 7: paid, for the …(?)
+3   … Thonarimphis
+4   one hundred drachmas — total 100 dr. — and for the price
+5   of the anabolika(?) (levy) of year 5, 18 drachmas.

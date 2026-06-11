@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 479 — Hunting-dogs(?) tax receipt (κυνηγίδες), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;479  (Trismegistos 76989)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 479
+label:    O.Wilck. 479
+name:     Hunting-dogs(?) tax receipt (κυνηγίδες), Charax quarter
+genre:    receipts
+date:     8 Feb 92 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4560
+content:  Hunting-dogs(?) tax, year 11 of Domitian, paid in base coin
+tm:       76989
+source:   https://papyri.info/ddbdp/o.wilck;;479
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   κυν(ηγίδ)ω(ν) ια (ἔτους) Δομιτιανοῦ τοῦ κυρίου
+r.2   Μεχ(ὶρ) ιγ Χά(ρακος) Παναμε(ὺς) Νεφερῶ(τος)
+r.3   Καμή(τιος) ῥυπ(αροὺς) ὀβολ(οὺς) τεσσαράκοντα (γίνονται) (ὀβολοὶ) μ.
+r.4   Ἡρακ(λείδης) σεση(μείωμαι).
+
+[TRANSLATION]
+1   (For the) hunting-dogs(-tax)(?) of year 11 of Domitian the lord,
+2   Mecheir 13, of the Charax (quarter): Panameus son of Nepheros,
+3   (grand)son of Kametis, in base coin, forty obols — total 40 ob.
+4   Herakleides, I have signed.

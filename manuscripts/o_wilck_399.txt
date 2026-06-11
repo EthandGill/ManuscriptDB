@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 399 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;399  (Trismegistos 50770)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 399
+label:    O.Wilck. 399
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+genre:    receipts
+date:     28 Apr 51 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1206
+content:  Poll-tax + bath-tax of year 11 of Claudius, banker Bassos
+tm:       50770
+source:   https://papyri.info/ddbdp/o.wilck;;399
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρ(άφηκεν) Ἀντίφιλος Ἀντιφίλου ὑπ(ὲρ)
+r.2   λαο(γραφίας) ια (ἔτους) (δραχμὰς) δέκα (γίνονται) (δραχμαὶ) ι καὶ προσδ(ιαγραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου).
+r.3   (ἔτους) ια Τιβερίου Κλαυδίου Καίσαρος
+r.4   Σεβ(αστ)οῦ Γερμαν(ικ)οῦ Αὐτοκράτορος
+r.5   Φαρμο(ῦθι) λ‡7γ. Βάσσος Δέκμου τρα(πεζίτης) σεση(μείωμαι)
+r.6   (hand 2) Φαρμο(ῦθι) λ‡7γ βαλ(ανικοῦ) (δραχμὴν) α (ὀβολὸν) α𐅵 (γίνονται) α (ὀβολὸς) α𐅵. Ἀπολ( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1   Antiphilos son of Antiphilos paid, for
+2   poll-tax of year 11, ten drachmas — total 10 dr. — and surcharges at an obol (and) half-obol.
+3   Year 11 of Tiberius Claudius Caesar
+4   Augustus Germanicus Imperator,
+5   Pharmouthi 33. Bassos son of Decmus, banker, I have signed.
+6   (2nd hand) Pharmouthi 33, bath-tax 1 drachma 1½ obols — total 1 (dr.) 1½ ob. Apol( ) signed.

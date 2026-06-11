@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 487 — Poll-tax receipt (λαογραφία), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;487  (Trismegistos 76997)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 487
+label:    O.Wilck. 487
+name:     Poll-tax receipt (λαογραφία), Charax quarter
+genre:    receipts
+date:     2 Apr 97 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 8613
+content:  Poll-tax of the Charax quarter, year 1 of Nerva
+tm:       76997
+source:   https://papyri.info/ddbdp/o.wilck;;487
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   δι(έγραψεν) Παναμεὺς Νεφερῶ(τος) Παχοίτ(ου)
+r.2   ὑπ(ὲρ) λαο(γραφίας) Χά(ρακος) α (ἔτους) (δραχμὰς) δέκα , ἄ(λλων) α (ὀβολὸν) α𐅵
+r.3   (γίνονται) (δραχμαὶ) ια (ὀβολὸς) α𐅵 κ(αὶ) προ(σδιαγραφόμενα). (ἔτους) α Νερουᾶ
+r.4   Φα(μενὼ(?))θ λ‡7ζ. Ἡ(ρακλείδης) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1   Panameus son of Nepheros, grandson of Pachoites, paid,
+2   for poll-tax of the Charax (quarter), year 1, ten drachmas; of others, 1 dr. 1½ ob.,
+3   total 11 dr. 1½ ob., and surcharges. Year 1 of Nerva,
+4   Phamenoth(?) 37(?). H(erakleides), I have signed.

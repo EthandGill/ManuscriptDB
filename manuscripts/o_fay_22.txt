@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Fay. 22 — Barley receipt — public land (γενήματα)
+# Source: papyri.info DDbDP o.fay;;22  (Trismegistos 40863)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 22
+label:    O.Fay. 22
+name:     Barley receipt — public land (γενήματα)
+genre:    receipts
+date:     10 Mar 285 CE (year uncertain)
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 22
+content:  10 artabas of barley for public land, Euhemeria
+tm:       40863
+source:   https://papyri.info/ddbdp/o.fay;;22
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   ἔσχον παρὰ Παήσιο(ς)
+r.2   ὑπ(ὲρ) γενημ(άτων) τοῦ διεληλυθ(ότος)
+r.3   β (ἔτους) ὑπ(ὲρ) δημοσί(ας) γῆς ὀνό(ματος)
+r.4   αὐτ(οῦ) κριθῆς ἀρτάβας δέκα,
+r.5   γ(ίνονται) (ἀρτάβαι) ι. α (ἔτους), Φαμε(νὼθ)
+r.6   ιδ.
+
+[TRANSLATION]
+1   I received from Paesis,
+2   for the produce of the past
+3   year 2, for public land in his
+4   name, ten artabas of barley,
+5   total 10 art. Year 1, Phamenoth
+6   14.

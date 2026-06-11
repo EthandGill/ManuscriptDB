@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Fay. 26 — Granary receipt — produce by donkey (Theadelphia)
+# Source: papyri.info DDbDP o.fay;;26  (Trismegistos 40865)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 26
+label:    O.Fay. 26
+name:     Granary receipt — produce by donkey (Theadelphia)
+genre:    receipts
+date:     20 Jan 254 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 26
+content:  Produce of year 6, public beasts, 2 donkey-loads, Theadelphia
+tm:       40865
+source:   https://papyri.info/ddbdp/o.fay;;26
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   Θεαδελφίας γενη(μάτων) ϛ (ἔτους)
+r.2   δη(μοσίων) κτην(ῶν) Πέλα
+r.3   Σωδίκης ποιμὴν
+r.4   ὄν(οι) β. (ἔτους) α, Τῦβι κε.
+
+[TRANSLATION]
+1   Of Theadelphia, produce of year 6,
+2   of public beasts: Pela,
+3   (of) Sodike the shepherd,
+4   2 donkey(-loads). Year 1, Tybi 25.

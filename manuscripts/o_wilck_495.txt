@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 495 — Watchtower-tax receipt (σκόπελος), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;495  (Trismegistos 77005)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 495
+label:    O.Wilck. 495
+name:     Watchtower-tax receipt (σκόπελος), Charax quarter
+genre:    receipts
+date:     12 Apr 104 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4544
+content:  Watchtower-tax of the Charax quarter, year 7 of Trajan, base coin
+tm:       77005
+source:   https://papyri.info/ddbdp/o.wilck;;495
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   α.
+r.2   διέ(γραψεν) Ἰσίδωρο(ς) Χαταβοὺς
+r.3   ὑπ(ὲρ) σκοπέλ(ου) Χά(ρακος) ζ (ἔτους) ῥυπ(αρὰν)
+r.4   (δραχμὴν) α(πεντώβολον) χ(αλκοῦς 2). (ἔτους) ζ Τραιανοῦ
+r.5   τοῦ κυρίου Φαμενὼ(θ)
+r.6   κ‡7ιζ. (hand 2) Σαραπ(ίων(?)) σεση(μείωμαι).
+
+[TRANSLATION]
+1   (year) 1.
+2   Isidoros son of Chatabous paid,
+3   for the watchtower(-tax) of the Charax (quarter), year 7, in base (coin),
+4   1 dr. 5 ob., 2 chalkoi. Year 7 of Trajan
+5   the lord, Phamenoth
+6   17. (2nd hand) Sarapion(?), I have signed.

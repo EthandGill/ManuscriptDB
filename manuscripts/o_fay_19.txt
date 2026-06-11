@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Fay. 19 — Hay-delivery order (χόρτος)
+# Source: papyri.info DDbDP o.fay;;19  (Trismegistos 34715)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 19
+label:    O.Fay. 19
+name:     Hay-delivery order (χόρτος)
+genre:    receipts
+date:     early IV CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 19
+content:  Army order to deliver 2 units of cavalry hay, Theadelphia
+tm:       34715
+source:   https://papyri.info/ddbdp/o.fay;;19
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   π(αρὰ) Ἀγαθίνου
+r.2   ὀπτίωνος ἐπιμ(ελητοῦ)
+r.3   χόρτου Ἀρσινοίτου
+r.4   Πτολεμίνου. δὸς Νι̣γ̣ί-
+r.5   ρῳ χόρτ(ου) ἵππ(ικοῦ) δύο, γ(ίνονται) β.
+r.6   Χοίακ ιδ.
+
+[TRANSLATION]
+1   From Agathinos,
+2   optio, supervisor of
+3   hay of the Arsinoite (nome),
+4   of Ptoleminos. Give to Nigi-
+5   ros two (units) of cavalry hay — total 2.
+6   Choiak 14.

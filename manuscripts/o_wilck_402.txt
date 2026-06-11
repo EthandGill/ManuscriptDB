@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 402 — Private receipt — a collection (λογεία)
+# Source: papyri.info DDbDP o.wilck;;402  (Trismegistos 76914)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 402
+label:    O.Wilck. 402
+name:     Private receipt — a collection (λογεία)
+genre:    receipts
+date:     16 Sept 52 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4304
+content:  4 dr. 2 ob. for a collection, year 13 of Claudius
+tm:       76914
+source:   https://papyri.info/ddbdp/o.wilck;;402
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   Ψενεντῆρις Πατεήσιος Πιβόχις Πατεῆσις
+r.2   χαίρειν. ἀπέχω παρὰ σοῦ (δραχμὰς) δ(διώβολον) ὑπὲρ λογίας
+r.3   ἐ̣ν̣φ̣ι̣λ̣α̣ς̣ τοῦ ιγ (ἔτους) Τιβερίου Κλαυδίου
+r.4   Καίσαρος Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+r.5   Θὼθ ιθ. Πετεμενροὺς Πατραασσνοῦφις
+r.6   ἔγραψαι ὑπὲρ τοῦ ἀδελφοῦ.
+
+[TRANSLATION]
+1   Psententeris son of Pateesis, to Pibochis son of Pateesis,
+2   greeting. I have received from you 4 dr. 2 ob., for the collection
+3   …(?) of year 13 of Tiberius Claudius
+4   Caesar Augustus Germanicus Imperator,
+5   Thoth 19. Petemenrous son of Patraassnouphis
+6   wrote on behalf of (his) brother.

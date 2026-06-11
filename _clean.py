@@ -18,6 +18,13 @@ def clean(lines):
         # English editorial commentary that happens to contain Greek glyphs
         if re.match(r'^[A-Za-z]', s) or 'stigma' in s or 'construed' in s or 'the image' in s:
             continue
+        if ('www.' in s or 'trismegistos' in s or 'ghostname' in s or 'paroxytone' in s
+                or 'appears now' in s or 'prev.' in s):
+            continue
+        if s.startswith('=>') or '<#' in s or '#>' in s or 'monogr' in s:
+            continue
+        if 'gratia' in s or 'serves as' in s or 'variation' in s or 'KorrTyche' in s:
+            continue
         c = re.sub(r'⟦[^⟧]*⟧', '', l)          # scribal deletions
         c = c.replace('⟦', '').replace('⟧', '')
         c = c.replace('\\', '').replace('/', '')   # interlinear markers

@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Fay. 6 — Bath-tax payment (βαλανεῖον)
+# Source: papyri.info DDbDP o.fay;;6  (Trismegistos 29922)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 6
+label:    O.Fay. 6
+name:     Bath-tax payment (βαλανεῖον)
+genre:    receipts
+date:     2nd c. CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 6
+content:  Bath-tax payment of year 20, 4 dr., Euhemeria
+tm:       29922
+source:   https://papyri.info/ddbdp/o.fay;;6
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   δόσις βαλ(ανείου(?)) τοῦ κ (ἔτους)
+r.2   διὰ Μάρων(ος) Ὥρ̣(ου)
+r.3   καὶ τ̣ῶ̣ν λο(ι)π̣(ῶν)
+r.4   Ἥρων ιγ
+r.5   ἀργ(υρίου) (δραχμαὶ) τέσσαρες,
+r.6   (γίνονται) (δραχμαὶ) δ.
+
+[TRANSLATION]
+1   Payment of the bath(-tax)(?) of year 20,
+2   through Maron son of Horos
+3   and the rest:
+4   Heron, 13,
+5   of silver, four drachmas,
+6   total 4 dr.

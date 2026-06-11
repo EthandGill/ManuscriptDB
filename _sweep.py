@@ -58,12 +58,12 @@ def scrape_one(ident, tries=4):
 
 
 def main():
-    rng = sys.argv[1]                       # o.wilck;;261-310
-    series, lohi = rng.rsplit(";;", 1)
+    rng = sys.argv[1]                       # o.wilck;;261-310  OR  bgu;4;1050-1100
+    series, lohi = rng.rsplit(";", 1)       # last ";" splits off the numeric range
     lo, hi = (int(x) for x in lohi.split("-"))
     out = {}
     for n in range(lo, hi + 1):
-        ident = f"{series};;{n}"
+        ident = f"{series};{n}"
         rec = scrape_one(ident)
         out[ident] = rec
         ng = len(rec["greek"])

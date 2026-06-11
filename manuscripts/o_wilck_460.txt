@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 460 — Poll-tax and river-guard receipt (λαογραφία, φυλακή)
+# Source: papyri.info DDbDP o.wilck;;460  (Trismegistos 76970)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 460
+label:    O.Wilck. 460
+name:     Poll-tax and river-guard receipt (λαογραφία, φυλακή)
+genre:    receipts
+date:     29 Jul 84 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4533
+content:  Poll-tax + river-guard, year 3 of Domitian, Hermonthis
+tm:       76970
+source:   https://papyri.info/ddbdp/o.wilck;;460
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέγρα(ψεν) Ψενσεντιθοὴς
+r.2   {τιθοὴς} Πιβούχ(ιος) ὑπ(ὲρ) λαο(γραφίας)
+r.3   Νό(του) καὶ Λ(ιβὸς) γ (ἔτους) (δραχμὰς) β. (ἔτους) γ Αὐτοκράτορος Καίσαρος
+r.4   Δομ(ιτιαν)οῦ τοῦ κυρίου Παῦνι κβ,
+r.5   ὁμοίω(ς) Μεσορὴ ε (δραχμὰς) ϛ(τριώβολον), ὁμοί(ως) ὑπ(ὲρ) φυλ(ακῆς)
+r.6   γ (ἔτους) (δραχμὴν) α.
+
+[TRANSLATION]
+1   Psensentithoes
+2   son of Pibouchis paid, for poll-tax
+3   of the South-and-West (quarter), year 3, 2 dr. Year 3 of Imperator Caesar
+4   Domitian the lord, Pauni 22,
+5   likewise Mesore 5, 6 dr. 3 ob.; likewise for the guard(-tax)
+6   of year 3, 1 dr.

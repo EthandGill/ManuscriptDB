@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 343 — Receipt — fishery-tax (ἰχθυικά)
+# Source: papyri.info DDbDP o.wilck;;343  (Trismegistos 43632)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 343
+label:    O.Wilck. 343
+name:     Receipt — fishery-tax (ἰχθυικά)
+genre:    receipts
+date:     23 Dec 255 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12634
+content:  Protogenes receives 2½ dr. fishery-tax of Phaophi, year 31
+tm:       43632
+source:   https://papyri.info/ddbdp/o.wilck;;343
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   (ἔτους) λα Παῶπι κθ ἔχει Πρωτο-
+r.2   γένη(ς) παρὰ Παθαύτης ἰχθυ-
+r.3   ικῶν τοῦ Παῶπι (δραχμὰς) β𐅵
+
+[TRANSLATION]
+1   Year 31, Phaophi 29. Proto-
+2   genes has from Pathautes, of the fishery-
+3   tax of Phaophi, 2½ drachmas.

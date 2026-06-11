@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Fay. 11 — Payment-order for beer (δός)
+# Source: papyri.info DDbDP o.fay;;11  (Trismegistos 40856)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 11
+label:    O.Fay. 11
+name:     Payment-order for beer (δός)
+genre:    receipts
+date:     27 Nov 25 BCE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 11
+content:  Order to deliver 1 keramion of beer, Theadelphia
+tm:       40856
+source:   https://papyri.info/ddbdp/o.fay;;11
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   Δίδυμος Πετεσούχ(ῳ)
+r.2   χαίρειν. δὸς Διδύμ(ῳ)
+r.3   ὥστε εἰς τὴν τοῦ Διὸς ση̣( )
+r.4   ζύ(του) κερά(μιον) ἕν, (γίνεται) ζύ(του) κερά(μιον) α.
+r.5   (ἔτους) ϛ, Χοί(ακ) α.
+
+[TRANSLATION]
+1   Didymos to Petesouchos,
+2   greeting. Give to Didymos,
+3   for the (festival) of Zeus …( ),
+4   one keramion of beer — total 1 keramion of beer.
+5   Year 6, Choiak 1.

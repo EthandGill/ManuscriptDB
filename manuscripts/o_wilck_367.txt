@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 367 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;367  (Trismegistos 76887)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 367
+label:    O.Wilck. 367
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+genre:    receipts
+date:     26 Feb 33 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4808
+content:  Poll-tax + bath-tax of year 19 of Tiberius
+tm:       76887
+source:   https://papyri.info/ddbdp/o.wilck;;367
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   [διαγεγρά(φηκεν) ̣ ̣ ̣] σι( ) Πετεμίνι(ος) ὑπ(ὲρ) λαογ(ραφίας)
+r.2   [ιθ (ἔτους) (δραχμὰς) δ]έκα καὶ βαλ(ανικοῦ) μίαν ὀβολ(ὸν) (ἡμιωβέλιον)
+r.3   [(γίνονται) (δραχμαὶ)] ια (ὀβολὸς) α𐅵 καὶ τὰ τούτων προσδ(ιαγραφόμενα)
+r.4   ἐξ ὀβολ(οῦ) α𐅵. (ἔτους) ιθ Τιβερίου
+r.5   Καίσαρος Σεβαστοῦ
+r.6   Φαμενὼθ σεβαστῆι.
+r.7   Πετεμε(νῶφις) Πικ(ῶτος).
+
+[TRANSLATION]
+1   [Has paid: …]si( ) son of Peteminis, for poll-tax
+2   [of year 19, t]en [drachmas] and bath-tax one, an obol, a half-obol,
+3   [total] 11 (dr.) 1½ ob., and the surcharges on these
+4   at an obol (and) half-obol. Year 19 of Tiberius
+5   Caesar Augustus,
+6   Phamenoth, the Sebaste day.
+7   Petemenophis son of Pikos.

@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Fay. 39 — Granary delivery by donkey (Euhemeria)
+# Source: papyri.info DDbDP o.fay;;39  (Trismegistos 32275)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 39
+label:    O.Fay. 39
+name:     Granary delivery by donkey (Euhemeria)
+genre:    receipts
+date:     3rd c. CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 39
+content:  Produce of year 1, 6 donkey-loads, Euhemeria
+tm:       32275
+source:   https://papyri.info/ddbdp/o.fay;;39
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   θησ(αυροῦ) κώ(μης) Εὐημε(ρείας) γενη(μάτων) α (ἔτους),
+r.2   κώ(μης) Εὐημ(ερείας) δι(ὰ) Κη̣πωλ(ίωνος) καὶ
+r.3   Ἰωά̣ν̣ν̣(ου) ὀν(ηλατῶν) Ἀνοῦφις
+r.4   Πανετωηῦ̣τ̣ο̣ς δι(ὰ) κτη(νῶν)
+r.5   Ὀξ(υρυγχ ) ὄν(οι) ϛ
+r.6   (ἔτους) β, Φαῶ(φι) ιϛ.
+
+[TRANSLATION]
+1   Of the granary of the village of Euhemeria, produce of year 1,
+2   of the village of Euhemeria, through Kepolion and
+3   Ioannes, donkey-drivers: Anouphis
+4   son of Panetoeus, through the beasts
+5   of Ox(yrhyncha?), 6 donkey(-loads).
+6   Year 2, Phaophi 16.

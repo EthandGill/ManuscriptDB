@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# BGU 4.1076 — Penthemeros dike-labour certificate (χωματικά)
+# Source: papyri.info DDbDP bgu;4;1076  (Trismegistos 9453)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1076
+label:    BGU 4.1076
+name:     Penthemeros dike-labour certificate (χωματικά)
+genre:    receipts
+date:     10 Jul 148 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13311
+content:  Five-day dike-work certificate, year 11 of Antoninus Pius, Psinaleitis canal of Theadelphia
+tm:       9453
+source:   https://papyri.info/ddbdp/bgu;4;1076
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   ἔ[τους] ἑν[δεκά]του Αὐτ[ο]κράτορος Καίσαρος Τίτου
+r.2   Α[ἰλίου] Ἁδρ[ιαν]οῦ Ἀ[ντων]ίνου Σεβαστοῦ
+r.3   Ε[ὐ]σε[βο]ῦς. εἴρ(γασται) ὑπ(ὲρ) χωμ(ατικῶν) ἔργων
+r.4   τοῦ α(ὐτοῦ) ια (ἔτους) Ἐπεὶφ ιβιϛ ἐν τῇ
+r.5   Ψιναλειτ(ίδος) διώ(ρυγι) Θεαδελ(φείας)
+r.6   Πανεσ(νεὺς) Ὥρο(υ) Πανεσ(νέως)
+r.7   (μητρὸς) Ἡρῶτ(ος)
+r.8   (hand 2) Σαιμπρών ̣ ̣ς σε(ση)μ(είωμαι)
+
+[TRANSLATION]
+1   Year eleven of Imperator Caesar Titus
+2   A[elius] Had[rian]us A[nton]inus Augustus
+3   Pius. Has wor[ked], for the dike-works
+4   of the same year 11, Epeiph 12–16, in the
+5   Psinaleitis canal of Theadelphia:
+6   Panesneus son of Horos, (grand)son of Panesneus,
+7   (mother) Heros.
+8   (2nd hand) Saimpron…s, I have signed.

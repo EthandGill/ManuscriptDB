@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 330 — Bank receipt — crown of the katoikoi (στέφανος), Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;330  (Trismegistos 44027)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 330
+label:    O.Wilck. 330
+name:     Bank receipt — crown of the katoikoi (στέφανος), Diospolis Magna
+genre:    receipts
+date:     12 Jul – 10 Aug 93 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4336
+content:  Toward the crown of the katoikoi, year 21
+tm:       44027
+source:   https://papyri.info/ddbdp/o.wilck;;330
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   (ἔτους) κα Ἐπεὶφ τέ(τακται) ἐπὶ τὴν ἐν
+r.2   Διὸς πόλ(ει) τῆι μεγ(άλῃ) τρά(πεζαν) εἰς στέφα(νον)
+r.3   [τῶ]ν κατοίκων Φίλιππος
+r.4   [ ̣ ̣ ̣ ̣]δώ[ρ]ου …
+
+[TRANSLATION]
+1   Year 21, Epeiph. There has been paid into the
+2   bank at Diospolis Magna: toward the crown
+3   [of] the katoikoi, Philippos
+4   [son of …]doros …

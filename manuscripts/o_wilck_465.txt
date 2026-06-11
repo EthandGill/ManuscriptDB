@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 465 — Poll-tax, guard- and dike-tax receipt with instalments
+# Source: papyri.info DDbDP o.wilck;;465  (Trismegistos 76975)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 465
+label:    O.Wilck. 465
+name:     Poll-tax, guard- and dike-tax receipt with instalments
+genre:    receipts
+date:     23 Oct 86 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1634
+content:  Poll-tax + guard + dike instalments, year 5 of Domitian, Hermonthis
+tm:       76975
+source:   https://papyri.info/ddbdp/o.wilck;;465
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέγρ(αψεν) Καμῆτις Καμή[τιος Πετεαρπ(ρήους)]
+r.2   ὑπ(ὲρ) λαο(γραφίας) Νότου καὶ Λιβ(ὸς) ε (ἔτους) (δραχμὰς) ιβ. (ἔτους) ε Δ(ο)μ(ιτιαν)οῦ
+r.3   Καίσαρος τοῦ κυρίου Παχὼ(ν) η, ὀψω(νίου) φυλ(άκων) (δραχμὴν) α.
+r.4   ὁμο(ίως) Παχὼ(ν) ι (δραχμὰς) δ, ὁμο(ίως) Ἐπὶφ κζ (δραχμὰς) η,
+r.5   ὁμο(ίως) ϛ (ἔτους) Φαῶφι κϛ χω(ματικοῦ) (δραχμὰς) β(τριώβολον), αἱ κ(αὶ) β (ὀβολὸς) α𐅵 χ(αλκοῖ 2).
+
+[TRANSLATION]
+1   Kametis son of Kame[tis, grandson of Petearpres,] paid,
+2   for poll-tax of the South-and-West (quarter), year 5, 12 dr. Year 5 of Domitian
+3   Caesar the lord, Pachon 8; (and) guards' pay, 1 dr.
+4   Likewise Pachon 10, 4 dr.; likewise Epeiph 27, 8 dr.;
+5   likewise (in) year 6, Phaophi 26, dike-tax 2 dr. 3 ob., (= ) 2 (dr.) 1½ ob. 2 chalkoi.

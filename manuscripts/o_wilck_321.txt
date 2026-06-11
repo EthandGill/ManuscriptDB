@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 321 — Receipt — payment to the Ammoneion
+# Source: papyri.info DDbDP o.wilck;;321  (Trismegistos 43374)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 321
+label:    O.Wilck. 321
+name:     Receipt — payment to the Ammoneion
+genre:    receipts
+date:     26 Apr 112 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 480
+content:  Konon, priest of Amon, pays to the Ammoneion, year 5
+tm:       43374
+source:   https://papyri.info/ddbdp/o.wilck;;321
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   (ἔτους) ε Φαρμοῦθι θ με(μέτρηκεν) Ἀμ(μωνείῳ) ε (ἔτους)
+r.2   Π[οανε]μώ(νεως(?)) Κόνων Δώρου τῶν
+r.3   {τῶν} ἱερέων Ἀμῶνος ̣ ̣ ̣ ̣
+
+[TRANSLATION]
+1   Year 5, Pharmouthi 9. Has measured (paid) to the Ammoneion, for year 5,
+2   of P[oane]mon(?): Konon son of Doros, of the
+3   priests of Amon …

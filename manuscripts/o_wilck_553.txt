@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 553 — Goods-tax assessment receipt (τέλος ὠνίων)
+# Source: papyri.info DDbDP o.wilck;;553  (Trismegistos 77063)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 553
+label:    O.Wilck. 553
+name:     Goods-tax assessment receipt (τέλος ὠνίων)
+genre:    receipts
+date:     9 Mar 133 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4597
+content:  Assessment of the goods-tax of year 16, Charax quarter, year 17 of Hadrian
+tm:       77063
+source:   https://papyri.info/ddbdp/o.wilck;;553
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Φθουμ …
+r.2   ἀπαιτηταὶ Χά(ρακος) [μερισμ(ῶν)]
+r.3   τέλ(ους) ὠνίων τοῦ ιϛ (ἔτους) Ἀμενώθ(ῃ)
+r.4   Ἁρβήχ(ιος). ἔσχ(ομεν) παρὰ σοῦ κέρμ(ατος)
+r.5   ὀβολ(οὺς) δώδεκα (γίνονται) κέρμ(ατος) ὀβολ(οὶ) ιβ.
+r.6   (ἔτους) ιζ Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.7   Μεχ(ὶρ) λ‡7ιγ.
+r.8   (hand 2) Ἀμενώθης σε(σημείωμαι). (hand 3) Φατρῆς
+
+[TRANSLATION]
+1   Phthoum…,
+2   requisitioners of the Charax (quarter), [of the assessments]
+3   of the tax on goods sold, of year 16, (to) Amenothes son of
+4   Harbechis. We have received from you, in coin,
+5   twelve obols — total, in coin, 12 obols.
+6   Year 17 of Hadrian Caesar the lord,
+7   Mecheir 13.
+8   (2nd hand) Amenothes, I have signed. (3rd hand) Phatres

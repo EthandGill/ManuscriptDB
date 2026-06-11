@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 526 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;526  (Trismegistos 77036)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 526
+label:    O.Wilck. 526
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+genre:    receipts
+date:     16 Jul 121 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4358
+content:  Dike-tax + bath-tax of the Charax quarter, year 5 of Hadrian
+tm:       77036
+source:   https://papyri.info/ddbdp/o.wilck;;526
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Φαῆ(ρις) πρ(άκτωρ) ἀργ(υρικῆς) Ἀμενώθ(ῃ)
+r.2   Ἁρβήχ(ιος) μη(τρὸς) Σενχεσθ(ώτου). ἔσχ(ον) ὑπ(ὲρ)
+r.3   χω(ματικοῦ) καὶ βαλ(ανικοῦ) Χά(ρακος) ε (ἔτους) ῥυπ(αρὰς) (δραχμὰς) ἑπτα
+r.4   (πεντώβολον) χ(αλκοῦς 2) (γίνονται) (δραχμαὶ) ζ(πεντώβολον) χ(αλκοῖ 2) (ἔτους) ε Ἁδριανοῦ
+r.5   Καίσαρος τοῦ κυρίου Ἐπεὶφ
+r.6   κβ.
+
+[TRANSLATION]
+1   Phaeres, collector of money-tax, (to) Amenothes son of
+2   Harbechis, mother Sencheasth(otes). He received, for
+3   dike-tax and bath-tax of the Charax (quarter), year 5, in base (coin), seven drachmas,
+4   five obols, 2 chalkoi — total 7 dr. 5 ob. 2 chalkoi. Year 5 of Hadrian
+5   Caesar the lord, Epeiph
+6   22.

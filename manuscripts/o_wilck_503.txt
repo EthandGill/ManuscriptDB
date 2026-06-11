@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 503 — Receipt — treasury of the sacred revenues (θησαυρὸς ἱερῶν)
+# Source: papyri.info DDbDP o.wilck;;503  (Trismegistos 77013)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 503
+label:    O.Wilck. 503
+name:     Receipt — treasury of the sacred revenues (θησαυρὸς ἱερῶν)
+genre:    receipts
+date:     109–110 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1814
+content:  Treasury of the sacred revenues, year 13 of Trajan
+tm:       77013
+source:   https://papyri.info/ddbdp/o.wilck;;503
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἀπολ(λώνιος) καὶ μ(έτοχοι) Πασήμ(ει) νε(ωτέρῳ) ̣ ̣ ̣[ ̣ ̣ ̣].
+r.2   ἔσχ(ομεν) ὑπ(ὲρ) θησ(αυροῦ) ἱερῶ(ν) ιγ (ἔτους) <(δραχμὰς)> ἕνδ[ε-]
+r.3   κα ὀβολ(ὸν) α𐅵 . (ἔτους) ιγ Τραιανοῦ
+r.4   τοῦ κυρίου, λ‡7ζ.
+r.5   ἄλ(λας) λ‡7η (δραχμὰς) τριάκ(οντα) μίαν
+r.6   ὀβολ(οὺς) δύο (γίνονται) (δραχμαὶ) λα(διώβολον).
+
+[TRANSLATION]
+1   Apollonios and partners, to Pasemis the younger …[…].
+2   We have received, for the treasury of the sacred (revenues) of year 13, <drachmas> eleven,
+3   an obol, a half-obol. Year 13 of Trajan
+4   the lord, (day) 7(?).
+5   Other(s), (day) 8(?), thirty-one drachmas,
+6   two obols — total 31 dr. 2 ob.

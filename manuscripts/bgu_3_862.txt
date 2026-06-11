@@ -1,0 +1,53 @@
+# ───────────────────────────────────────────────
+# BGU 3.862 — Offer to lease palm-fruits (μίσθωσις)
+# Source: papyri.info DDbDP bgu;3;862  (Trismegistos 9387)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.862
+label:    BGU 3.862
+name:     Offer to lease palm-fruits (μίσθωσις)
+genre:    contracts
+date:     154/155 CE (?)
+language: Greek (Koiné)
+found:    Arsinoite nome / Fayum, Egypt
+held:     (see shelf)
+shelf:    Warsaw, Department of Papyrology P. Berlin 8472
+content:  Ptolemaios offers to lease the palm-fruits of year 17 (carrying into year 18) from the soldier Julius Apollinarios; Arsinoite
+tm:       9387
+source:   https://papyri.info/ddbdp/bgu;3;862
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Ἰουλίῳ Ἀ̣π̣ο̣λ[λ]ιναρίῳ
+r.2   στρατιώτῃ παρὰ
+r.3   Πτολεμαίο[υ] Μύσθου.
+r.4   βούλομαι μισθώσασ-
+r.5   θαι παρὰ σοῦ φοινικι-
+r.6   κοὺς καρποὺς τοῦ
+r.7   διεληλυθότος ἑπτα-
+r.8   καιδεκάτου ἔτους
+r.9   ἐκπίπτοντος εἰς
+r.10   τὸ ὀ̣κ̣τωκαιδέκα-
+r.11   τὸν ἔτους πρὸς μό-
+r.12   νον τὸ [διελ]ηλ[υ]θὸς
+r.13   ἑπτακα[ιδέκατο]ν
+r.14   ἔ[τος ⁦ -ca.?- ⁩]
+
+[TRANSLATION]
+1   To Julius Apollinarios,
+2   soldier, from
+3   Ptolemaios son of Mysthes.
+4   I wish to lease
+5   from you the palm-
+6   fruits of the
+7   past seven-
+8   teenth year,
+9   running over into
+10   the eighteenth
+11   year, for
+12   the [pas]t
+13   seven[teen]th
+14   ye[ar …]

@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 450 — Poll-tax receipt with instalments (λαογραφία)
+# Source: papyri.info DDbDP o.wilck;;450  (Trismegistos 76961)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 450
+label:    O.Wilck. 450
+name:     Poll-tax receipt with instalments (λαογραφία)
+genre:    receipts
+date:     21 Jul 79 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1642
+content:  Poll-tax instalments, year 11 of Vespasian, Hermonthis
+tm:       76961
+source:   https://papyri.info/ddbdp/o.wilck;;450
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   [δι]έγρα(ψεν) Ψενσεντιθοὴς Πιβ[ούχιος]
+r.2   [ὑπ(ὲρ)] λαογ(ραφίας) Νότου κ(αὶ Λιβὸς) ια (ἔτους) (δραχμὰς) η. (ἔτους) ια
+r.3   Οὐεσπασιανοῦ Καίσαρος τοῦ κυρίου
+r.4   Φαῶ(φι) ε. ὁμο(ίως) Φ[α ̣ ̣ ̣ ̣] (δραχμὰς) δ,
+r.5   ὁμο(ίως) Φαρμο(ῦθι) κδ (δραχμὰς) δ, ὁμο(ίως)
+r.6   Παχὼ(ν) ϛ (δραχμὰς) δ, ὁμο(ίως) Ἐπὶφ κζ
+r.7   (δραχμὰς) δ.
+
+[TRANSLATION]
+1   Psensentithoes son of Pib[ouchis] paid,
+2   [for] poll-tax of the South-(and-West, quarter), year 11, 8 dr. Year 11
+3   of Vespasian Caesar the lord,
+4   Phaophi 5. Likewise Ph[a…], 4 dr.,
+5   likewise Pharmouthi 24, 4 dr.; likewise
+6   Pachon 6, 4 dr.; likewise Epeiph 27,
+7   4 dr.

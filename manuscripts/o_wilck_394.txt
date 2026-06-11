@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 394 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;394  (Trismegistos 50768)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 394
+label:    O.Wilck. 394
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν)
+genre:    receipts
+date:     15 Oct 45 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 307
+content:  Dike-tax + bath-tax of year 5, year 6 of Claudius
+tm:       50768
+source:   https://papyri.info/ddbdp/o.wilck;;394
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διέγρ(αψεν) Πετεμεν[ῶ(φις)] Παμώνθ(ου) ὑπ(ὲρ) χω(ματικοῦ) ε (ἔτους)
+r.2   (δραχμὰς) ἓξ τετρόβολ(ον) , βαλ(ανικοῦ) τετρόβολ(ον) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ζ (ὀβολοὶ) β𐅵 καὶ προσδ(ιαγραφόμενα) <ἐξ (ὀβολοῦ)(ἡμιωβελίου)>
+r.3   (ἔτους) ϛ Τιβερίου Κλαυδίου Καίσαρος <Σεβαστοῦ>
+r.4   Γερμανικοῦ Αὐτοκράτορος Φαῶφι ιη.
+r.5   Πικ(ὼς) Κεφάλ(ου).
+
+[TRANSLATION]
+1   Petemen[ophis] son of Pamonthes paid, for dike-tax of year 5,
+2   six drachmas, four obols; bath-tax four obols, a half-obol — total 7 dr. 2½ ob. — and surcharges <at an obol (and) half-obol>
+3   Year 6 of Tiberius Claudius Caesar <Augustus>
+4   Germanicus Imperator, Phaophi 18.
+5   Pikos son of Kephalos.

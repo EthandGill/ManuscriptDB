@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 492 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;492  (Trismegistos 77002)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 492
+label:    O.Wilck. 492
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+genre:    receipts
+date:     24 Apr 99 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 8043
+content:  Poll-tax + bath-tax of the Charax quarter, year 2 of Trajan
+tm:       77002
+source:   https://papyri.info/ddbdp/o.wilck;;492
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διέ(γραψεν) Πεχύτης Φθουμ(ίνιος)
+r.2   Ἀμμω(νίου) ὑπ(ὲρ) λαο(γραφίας) Χά(ρακος)
+r.3   β (ἔτους) (δραχμὰς) ι, β(αλανικοῦ) α (ὀβολὸν) α𐅵
+r.4   (γίνονται) (δραχμαὶ) ια (ὀβολὸς) α𐅵 κ(αὶ πρ)ο(σδιαγραφόμενα). (ἔτους) β
+r.5   Τραι(ανοῦ) Φα(μενὼ)θ
+r.6   λ‡7κθ.
+r.7   Ἀπί(ων) σ(εσημείωμαι).
+
+[TRANSLATION]
+1   Pechytes son of Phthouminis,
+2   (grand)son of Ammonios, paid, for poll-tax of the Charax (quarter),
+3   year 2, 10 dr.; bath-tax 1 dr. 1½ ob.,
+4   total 11 dr. 1½ ob., and surcharges. Year 2
+5   of Trajan, Phamenoth
+6   29.
+7   Apion, I have signed.

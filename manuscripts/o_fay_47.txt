@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Fay. 47 — Tax receipt — syntaxis collection
+# Source: papyri.info DDbDP o.fay;;47  (Trismegistos 44560)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 47
+label:    O.Fay. 47
+name:     Tax receipt — syntaxis collection
+genre:    receipts
+date:     late I BCE – early I CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 47
+content:  4 dr. for the collection of the syntaxis, Euhemeria
+tm:       44560
+source:   https://papyri.info/ddbdp/o.fay;;47
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   Φαρμο(ῦθι) θ, Τούθης Ἀφοῦς ὑπ(ὲρ)
+r.2   ἐκλόγο[υ τῆς(?) συ]ντάξεως
+r.3   ἀργ(υρίου) (δραχμὰς) δ.
+
+[TRANSLATION]
+1   Pharmouthi 9: Touthes son of Aphous, for
+2   the collection(?) of the syntaxis(-tax),
+3   4 drachmas of silver.

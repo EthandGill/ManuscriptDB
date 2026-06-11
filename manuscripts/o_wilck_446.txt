@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 446 — Poll-tax receipt (λαογραφία), Opheion quarter
+# Source: papyri.info DDbDP o.wilck;;446  (Trismegistos 76957)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 446
+label:    O.Wilck. 446
+name:     Poll-tax receipt (λαογραφία), Opheion quarter
+genre:    receipts
+date:     11 Mar 78 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1617
+content:  Poll-tax of the Opheion(?) quarter, year 10 of Vespasian
+tm:       76957
+source:   https://papyri.info/ddbdp/o.wilck;;446
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διέγρα(ψεν) Παχοί(της) Ἀμμωνίο(υ) ὑπ(ὲρ) λαο(γραφίας)
+r.2   Ὠφιή(ου) ι (ἔτους) (δραχμὰς) δέκα (γίνονται) (δραχμαὶ) ι καὶ τούτω(ν)
+r.3   προσδ(ιαγραφόμενα). (ἔτους) ι Οὐεσπασιανοῦ
+r.4   τοῦ κυρίου Μεχ(ὶρ) λιε.
+r.5   Βάσσο(ς) σε(σημείωμαι).
+
+[TRANSLATION]
+1   Pachoites son of Ammonios paid, for poll-tax
+2   of the Opheion(?) (quarter), year 10, ten drachmas — total 10 dr. — and on these
+3   surcharges. Year 10 of Vespasian
+4   the lord, Mecheir 15(?).
+5   Bassos, I have signed.

@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 423 — Dike-tax receipt (χωματικόν)
+# Source: papyri.info DDbDP o.wilck;;423  (Trismegistos 76934)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 423
+label:    O.Wilck. 423
+name:     Dike-tax receipt (χωματικόν)
+genre:    receipts
+date:     6 Jan 69 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1624
+content:  Dike-tax of year 1, year 2 of Galba
+tm:       76934
+source:   https://papyri.info/ddbdp/o.wilck;;423
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέγρ(αψεν) Κ̣α̣τ̣θ̣η̣τ̣ῦ̣β̣ι̣ς̣ Πα-
+r.2   τουμώ̣θι Μιύσιο(ς) ὑπ(ὲρ) χωμ(α)τικ(οῦ)
+r.3   α (ἔτους) Αφεο( ) (δραχμὰς) δ, αἱ κ(αὶ) (δραχμαὶ) γ (ὀβολοὶ) δ𐅵. (ἔτους) β Γάλβα
+r.4   τοῦ κυρίου Τῦβ(ι) ια, καὶ ἄλ(λων) (δραχμ ) (πεντώβολον),
+r.5   αἱ κ(αὶ) (δραχμαὶ) β (ὀβολοὶ) ε𐅵.
+
+[TRANSLATION]
+1   Katthetybis son of Pa-
+2   toumothes, of Miysis, paid, for dike-tax
+3   of year 1, of Apheo( ), 4 dr., which are 3 dr. 4½ ob. Year 2 of Galba
+4   the lord, Tybi 11; and of others, (drachmas) 5 ob.,
+5   which are 2 dr. 5½ ob.

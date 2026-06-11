@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 337 — Bank receipt — fishery quarter-tax (τετάρτη ἁλιέων), Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;337  (Trismegistos 43634)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 337
+label:    O.Wilck. 337
+name:     Bank receipt — fishery quarter-tax (τετάρτη ἁλιέων), Diospolis Magna
+genre:    receipts
+date:     14 Sept 153 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4593
+content:  Quarter-tax on fisher-folk of year 28
+tm:       43634
+source:   https://papyri.info/ddbdp/o.wilck;;337
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   ἔτους κη Μεσορὴ κ τέ(τακται) ἐπὶ τὴν
+r.2   ἐν Δ(ιὸ)ς πό(λει) τῆι με(γάλῃ) τρά(πεζαν), ἐφʼ ἧς Πτολεμαῖος,
+r.3   τετάρτης ἁλιέων κη (ἔτους) Σίμων
+r.4   οὗ ἀλ(λαγὴ) (τάλαντα) δύο τρισχιλίας ἑξακοσίας
+r.5   τεσσαράκοντα πέντε
+r.6   (γίνονται) οὗ ἀλ(λαγὴ) (τάλαντα) βΓχμε.
+r.7   Π(τολεμαῖος) τ(ρ)α(πεζίτης) (τάλαντα) γ.
+
+[TRANSLATION]
+1   Year 28, Mesore 20. There has been paid into the
+2   bank at Diospolis Magna, at which Ptolemaios (presides):
+3   of the quarter-tax on fisher-folk of year 28, Simon —
+4   whose exchange-charge is two talents — three thousand six hundred
+5   forty-five
+6   — total (with) exchange-charge 2 tal. 3645.
+7   P(tolemaios) banker, 3 talents.

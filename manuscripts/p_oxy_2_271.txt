@@ -1,0 +1,79 @@
+# ───────────────────────────────────────────────
+# P.Oxy. 2.271 — Cession (transfer) of a loan-claim
+# Source: papyri.info DDbDP p.oxy;2;271  (Trismegistos 20542)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy. 2.271
+label:    P.Oxy. 2.271
+name:     Cession (transfer) of a loan-claim
+genre:    contracts
+date:     56 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cambridge (MA), Harvard University Library SM 4356
+content:  Herakleia cedes to Papontos her right of execution over a 200-dr. loan to Pnepheros, having been repaid; copy through the record-office; year 2 of Nero
+tm:       20542
+source:   https://papyri.info/ddbdp/p.oxy;2;271
+lat:      28.5383
+lon:      30.6765
+
+[GREEK]
+r.1   ἀντίγρα(φον). ἔτους δευτέρου Νέρωνος Κλα[υδίου Κ]αίσαρος Σεβαστοῦ Γερμ[ανικ]οῦ Αὐτοκράτορος,
+r.2   μηνὸς Καισαρείου ἐπαγο(μένων) γ, ἐν Ὀξυρύγχ(ων) π[όλει] τῆς Θηβαίδος. ὁ[μολο]γεῖ
+r.3   Ἡράκλεια Ἡρακλείδου ἀστὴ μετὰ [κυρίο]υ Νικίππου τοῦ Ν[ι]κίππου
+r.4   Ἀλθαιέως Παποντῶτι Ἀφύγχιος τοῦ κ[αὶ] Ζωίλου τῶν ἀπʼ Ὀξυρύγχων πόλεως
+r.5   ἐν ἀγυιᾷ παρακεχωρηκέναι αὐτῷ πρ[ᾶ]ξιν καὶ κομιδὴν ἀργυρίου Σεβαστοῦ
+r.6   καὶ Π[τολε]μαικοῦ νομίσμα[τ]ος δραχμῶν [δι]ακοσίων , ὧν καὶ αὐτὴ Ἡράκλεια
+r.7   τυγχ[άνε]ι παρακεχωρημένη κατὰ [συν]χώρησιν τὴν τελειωθεῖσαν
+r.8   διὰ τῆς [ἐ]φημερίδος τοῦ καταλογείου τ[ῷ Κα]ισαρείῳ μηνὶ τοῦ ἐνεστῶτος
+r.9   δ[ε]υ[τ]έρο[υ] ἔτους Νέρωνος Κλαυδίου Καίσαρ[ος Σεβασ]τοῦ Γερμανικοῦ Αὐ[το]κράτορος,
+r.10   δανε[ι]σθεισῶν δὲ ὑπὸ ⁦ vac. ? ⁩ Πνεφερ[ῶτι] Παποντῶτος χρ[η]ματίσαντι
+r.11   Πέρ[σῃ τῆς] ἐπιγονῆς καθʼ ἑτέραν σ[υνχ]ώρησιν τὴν τελειωθεῖσαν
+r.12   διὰ το[ῦ] αὐτοῦ καταλογείου ταῖς ἐπ[αγομέ]ναις τοῦ Καισαρείου μηνὸς τοῦ
+r.13   πρώτου ἔτους Νέρωνος Κλαυδίου Καί[σαρ]ος Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος·
+r.14   π[ρο]σπ[αρ]ακεχωρηκέναι δʼ αὐτῷ ὁ̣μ̣[ο]ίως ἣν καὶ αὐτὴ παρεκεχώ-
+r.15   ρη[τ]α̣ι πρᾶξιν διὰ τῆς εἰς αὐτὴν ὡς πρόκειται γεγονυ[ία]ς συν[χω-]
+r.16   ρήσεως τῶν τοῦ ἀργ(υρίου) (δραχμῶν) διακοσίω[ν , ̣] ̣ ̣ ̣κ̣[ ̣]ν̣ Π̣α̣[πο]ν̣[τω ̣] ̣[ ̣ ̣]
+r.17   συν[κεχ]ωρηκέναι αὐτὴν ἑαυτῷ τὴν π[ρᾶξιν] καὶ κομιδὴν ̣[ ̣ ̣]
+r.18   εισ ̣ ̣υ̣τ̣ων τοῦ ἀργ(υρίου) (δραχμῶν) σ καὶ τῶν τόκ[ω]ν, καὶ τὰ ἄ[λ]λα ἐπ[ι]τελ[εῖ]ν καθὰ
+r.19   καὶ αὐτῇ καὶ τῷ Εἰρηναίῳ ἐξῆν, καὶ αὐτόθεν ἀναδέδωκεν τῷ
+r.20   Παποντῶτι τὰς εἰς αὐτὴν καὶ τὸν Εἰρην[αῖ]ον ὡς πρόκειται
+r.21   συνχωρήσεις δύο ἃς καὶ παρέξεται ἐνθέσμους καὶ ἀπεριλύτους
+r.22   διὰ τὸ ἐξευλυτῆσθ[α]ι αὐτὴν ὑπ[ὸ] τοῦ Παπ[ο]ντῶτος ταῖς τοῦ
+r.23   ἀργ(υρίου) (δραχμαῖς) διακοσίαις [κ]αὶ τοῖς τόκοις. τὴν δ[ὲ π]αρὰ ταῦτα ἐσομένην
+r.24   ἔφοδ[ο]ν ἄκυρον ε[ἶ]ναι, ἔτι καὶ [ἐ]κτίνειν [Ἡρ]άκλειαν ἢ τὸν [π]αρʼ
+r.25   αὐ[τῆ]ς ἐπελευσόμενον τ[ῷ Π]αποντῶτ[ι] ἢ τοῖς [π]αρʼ αὐτοῦ καθʼ ἑ-
+r.26   κά[στ]ην ἔφοδον τό τε βλάβο[ς κ]αὶ ἐπίτιμον ἀρ[γ(υρίου) (δραχμὰς) ἑ]κατὸν καὶ
+r.27   εἰ[ς τὸ δ]ημόσιον τὰς ἴσας, καὶ μ[ηδ]ὲν ἧσσον κυρία [ἡ] συνγραφηι .
+
+[TRANSLATION]
+1   Copy. Year second of Nero Cla[udius C]aesar Augustus Germ[anic]us Imperator,
+2   month Kaisareios, 3rd epagomenal day, in the city of Oxyrhynch(us) of the Thebaid. He[reby] acknowledges
+3   Herakleia daughter of Herakleides, a citizen-woman, with [(her) guardia]n Nikippos son of N[i]kippos
+4   of the Althaian (deme), to Papontos son of Aphynchis al[so called] Zoilos, of those from the city of Oxyrhynchus,
+5   in the street, that she has ceded to him the right of execution and recovery of silver, of Augustan
+6   and P[tole]maic coinage, of two hundred drachmas, of which Herakleia herself also
+7   happen[s] to have had ceded (to her), according to an [agree]ment completed
+8   through the day-register of the record-office, in the [Ka]isareios month of the present
+9   se[c]o[n]d year of Nero Claudius Caesa[r Augus]tus Germanicus Im[pe]rator,
+10   (the sum) having been lent by (vac.) to Pnepher[os] son of Papontos, having transacted
+11   as a Per[sian of the] epigone, according to another a[gre]ement completed
+12   through th[e] same record-office, in the ep[agom]enal (days) of the Kaisareios month of the
+13   first year of Nero Claudius Cae[sar] Augustus Germanicus Imperator;
+14   and that she has further ceded to him likewise the right which she herself had ce-
+15   ded, through the agree[ment] made in her favour as stated above,
+16   of the two hundred silver (drachmas), … Pa[pon]tos …
+17   that she has ceded to him herself the rig[ht] and recovery …
+18   … of the 200 silver (drachmas) and of the inter[e]st, and to perform the o[th]er things just as
+19   was permitted to her and to Eirenaios, and on the spot she has handed over to
+20   Papontos the (agreements) in favour of her and Eiren[ai]os, as stated above,
+21   the two agreements, which she will also furnish valid and unbroken,
+22   because she has been paid off by Papontos with the
+23   two hundred silver (drachmas) [a]nd the interest. And the [p]roceeding against these things, should it occur,
+24   is to be void; and further [Her]akleia, or the one proceeding on
+25   her [behal]f, is to pay [to P]apontos, or to those [ac]ting for him, at e-
+26   a[ch] proceeding, both the damage [a]nd a penalty of [one h]undred silver [dr(achmas)] and
+27   to[ the p]ublic (treasury) the same; and none the less the contract is valid.

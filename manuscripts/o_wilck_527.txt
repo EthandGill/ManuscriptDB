@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 527 — Bath-keepers' trade-tax receipt (χειρωνάξιον βαλανευτῶν)
+# Source: papyri.info DDbDP o.wilck;;527  (Trismegistos 77037)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 527
+label:    O.Wilck. 527
+name:     Bath-keepers' trade-tax receipt (χειρωνάξιον βαλανευτῶν)
+genre:    receipts
+date:     25 Sept 121 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4807
+content:  Trade-tax on bath-keepers of year 5, year 6 of Hadrian
+tm:       77037
+source:   https://papyri.info/ddbdp/o.wilck;;527
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Πόστ(ουμος) ὁ καὶ Ὧρο(ς) Πανάτ(ι)
+r.2   μη(τρὸς) Θατρῆτ(ος). ἔσχο(ν) ὑπ(ὲρ) χ(ειρωναξίου)
+r.3   βαλανευτ(ῶν) πέμπτου ἔτους
+r.4   ῥυπ(αρὰς) δραχ(μὰς) ἑπτὰ τριώβολ(ον) δίχαλ[κον]
+r.5   (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) ζ(τριώβολον) χ(αλκοῖ 2). (ἔτους) ϛ Ἁδραινοῦ Καίσ(αρος)
+r.6   τοῦ κυρίου Θὼτ κη.
+
+[TRANSLATION]
+1   Postumus also called Horos, (to) Panas(?),
+2   mother Thatres. He received, for the trade-tax (cheironaxion)
+3   of the bath-keepers, of the fifth year,
+4   in base (coin), seven drachmas, three obols, two chalk[oi]
+5   — total, base, 7 dr. 3 ob. 2 chalkoi. Year 6 of Hadrian Caesar
+6   the lord, Thoth 28.

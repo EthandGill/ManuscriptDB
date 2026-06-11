@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 463 — Poll-tax, guard- and dike-tax receipt with instalments
+# Source: papyri.info DDbDP o.wilck;;463  (Trismegistos 76973)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 463
+label:    O.Wilck. 463
+name:     Poll-tax, guard- and dike-tax receipt with instalments
+genre:    receipts
+date:     27 Oct 85 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4310
+content:  Poll-tax + guard + dike instalments, year 4 of Domitian, Hermonthis
+tm:       76973
+source:   https://papyri.info/ddbdp/o.wilck;;463
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέγρ(αψεν) Καμῆτις Πετεαρπ(ρήους) Ἀμφιώμιο(ς)
+r.2   ὑπ(ὲρ) λαο(γραφίας) Νότου καὶ Λιβ(ὸς) δ (ἔτους) (δραχμὰς) η
+r.3   (ἔτους) δ Δ(ο)μ(ιτιαν)οῦ Καίσαρος τοῦ κυρίου
+r.4   Φαῶ(φι) γ. ὁμο(ίως) ὑπ(ὲρ) φυλ(ακῆς) δ (ἔτους) (δραχμὴν) α,
+r.5   ὁμο(ίως) Φαμ(ενὼ)θ κε (δραχμὰς) δ, ὁμοί(ως)
+r.6   Φαμ(εν)ὼθ κϛ (δραχμὰς) δ, ὁμο(ίως)
+r.7   Παχὼ(ν) ε (δραχμὰς) δ, ὁμο(ίως) Ἐπὶφ ιε
+r.8   βα(λανικοῦ) (δραχμὰς) δ, ὁμο(ίως) Φαῶφι λ
+r.9   (δραχμὰς) β (ὀβολοὺς) β𐅵, β (ὀβολὸς) α𐅵 χ(αλκοῖ 2).
+
+[TRANSLATION]
+1   Kametis son of Petearpres, (grand)son of Amphiomis,
+2   for poll-tax of the South-and-West (quarter), year 4, 8 dr.
+3   Year 4 of Domitian Caesar the lord,
+4   Phaophi 3. Likewise for the guard(-tax) of year 4, 1 dr.;
+5   likewise Phamenoth 25, 4 dr.; likewise
+6   Phamenoth 26, 4 dr.; likewise
+7   Pachon 5, 4 dr.; likewise Epeiph 15,
+8   bath-tax 4 dr.; likewise Phaophi 30,
+9   2 dr. 2½ ob., (= ) 2 (dr.) 1½ ob. 2 chalkoi.

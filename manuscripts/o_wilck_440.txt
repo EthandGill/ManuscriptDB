@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 440 — River-guard tax receipt (ποταμῶν φυλακή)
+# Source: papyri.info DDbDP o.wilck;;440  (Trismegistos 76951)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 440
+label:    O.Wilck. 440
+name:     River-guard tax receipt (ποταμῶν φυλακή)
+genre:    receipts
+date:     8 Feb 76 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1619
+content:  River-guard tax of the South-and-West quarter, year 8 of Vespasian
+tm:       76951
+source:   https://papyri.info/ddbdp/o.wilck;;440
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέ(γραψεν) Ψενσεντιθοὴς Πιβούχιο(ς) ὑπ(ὲρ)
+r.2   ποταμῶν φυλακῆ(ς) η (ἔτους) Νότου κ(αὶ Λιβὸς) (τετρώβολον). (ἔτους) η.
+r.3   Οὐεσπασιανοῦ τοῦ κυρίου Μεχ(ὶρ) ιγ.
+
+[TRANSLATION]
+1   Psensentithoes son of Pibouchis paid, for
+2   the guarding of the rivers, year 8, of the South-(and-West), 4 ob. Year 8
+3   of Vespasian the lord, Mecheir 13.

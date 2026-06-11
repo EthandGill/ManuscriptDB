@@ -1,0 +1,51 @@
+# ───────────────────────────────────────────────
+# BGU 3.839 — Purchase-on-delivery of dry hay (for a gold solidus)
+# Source: papyri.info DDbDP bgu;3;839  (Trismegistos 33243)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.839
+label:    BGU 3.839
+name:     Purchase-on-delivery of dry hay (for a gold solidus)
+genre:    contracts
+date:     4th–7th c. CE
+language: Greek (Koiné)
+found:    Arsinoite nome / Fayum, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8913
+content:  The writer acknowledges receipt of one gold solidus as the price of first-cut dry village hay, to be delivered at the price that shall appear; Byzantine Arsinoite
+tm:       33243
+source:   https://papyri.info/ddbdp/bgu;3;839
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Αὐρηλίᾳ Καλ θυγατρὶ ̣ ̣
+r.2   ρωνος ἀπὸ τῆς αὐτῆς
+r.3   πόλεως χ(αίρειν). ὁμολογῶ
+r.4   ἐσχηκέναι με παρὰ σοῦ
+r.5   διὰ χειρὸς εἰς ἰδίαν μου χρεία(ν)
+r.6   χρυσίου νομισμάτιον
+r.7   ἓν ὡς ν(ομιτεύεται), χρ(υσίου) νο(μισμάτιον) α ὡς ν(ομιτεύεται)
+r.8   κεφαλαίου ὂν παρʼ ἐμοὶ εἰς
+r.9   τιμὴν χόρτου ξηροῦ κω-
+r.10   μητικοῦ πρωτοκόπο(υ)
+r.11   εὐα[ρ]έσ τῇ φαινομέ-
+r.12   [νῃ τιμῇ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.13   [⁦ -ca.?- ⁩]ε ̣νθ χρ(υσίου) νο(μισμάτιον) α ὡς ν(ομιτεύεται) εἰς [⁦ -ca.?- ⁩]
+
+[TRANSLATION]
+1   To Aurelia Kal-, daughter of …
+2   …ron, from the same
+3   city, gr(eetings). I acknowledge
+4   that I have received from you,
+5   from hand to hand, for my own need,
+6   of gold, one solidus(-coin),
+7   as is current — 1 gold sol. as current —
+8   as principal, which is with me toward
+9   the price of dry village
+10   first-cut hay,
+11   at the satisfactory pri[ce that shall ap-]
+12   [pear …]
+13   […]…th, 1 gold sol. as current, for […]

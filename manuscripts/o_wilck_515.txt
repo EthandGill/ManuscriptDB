@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 515 — Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;515  (Trismegistos 77025)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 515
+label:    O.Wilck. 515
+name:     Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+genre:    receipts
+date:     10 Apr 118 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4100
+content:  Watchtower + other taxes of the Charax quarter, year 2 of Hadrian
+tm:       77025
+source:   https://papyri.info/ddbdp/o.wilck;;515
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἀπολλόδ(ωρος) πράκ(τωρ) Ψεναμούνιος
+r.2   Θεοδώρου. ἔσχ(ον) ὑπ(ὲρ) σκοπ(έλου) καὶ ἄλ(λων)
+r.3   Χά(ρακος) β (ἔτους) ῥυπ(αρὰς) (δραχμὰς) τέσσαρας ὀ(βολοὺς) γ (γίνονται) (δραχμαὶ) δ ὀ(βολοὶ) γ.
+r.4   (ἔτους) β Ἁδριανοῦ Καίσαρος
+r.5   τοῦ κυρίου Φαμενὼ(θ) λ‡7ιε.
+r.6   Πο[ρι]εύθ̣(ης(?)) σεσημ(είωμαι).
+
+[TRANSLATION]
+1   Apollodoros, collector, (to) Psenamounis son of
+2   Theodoros. He received, for the watchtower(-tax) and others
+3   of the Charax (quarter), year 2, in base (coin), four drachmas, 3 obols — total 4 dr. 3 ob.
+4   Year 2 of Hadrian Caesar
+5   the lord, Phamenoth 15(?).
+6   Po[ri]euthes(?), I have signed.

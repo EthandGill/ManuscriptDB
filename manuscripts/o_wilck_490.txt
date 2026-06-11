@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 490 — Poll-tax receipt (λαογραφία), Agorai-south quarter
+# Source: papyri.info DDbDP o.wilck;;490  (Trismegistos 77000)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 490
+label:    O.Wilck. 490
+name:     Poll-tax receipt (λαογραφία), Agorai-south quarter
+genre:    receipts
+date:     7 Apr 98 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 56 [ostracon
+content:  Poll-tax of the Agorai-south quarter, year 1 of Trajan
+tm:       77000
+source:   https://papyri.info/ddbdp/o.wilck;;490
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διέγ(ραψεν) Ψενσεμμῖ(νις) Παμώνθ(ου)
+r.2   ὑπ(ὲρ) λαο(γραφίας) Ἀγο(ρῶν) νό(του) α (ἔτους) (δραχμὰς) δέκα
+r.3   μία(ν) (ὀβολὸν) α𐅵 (γίνονται) (δραχμαὶ) ια (ὀβολὸς) α𐅵 καὶ πρ(οσδιαγραφόμενα).
+r.4   (ἔτους) α Αὐτοκράτορος
+r.5   Καίσαρος Τραιανοῦ Σ̣ε̣β̣(αστοῦ)
+r.6   Γερμανικοῦ Φαρμ(οῦθι) ιβ.
+r.7   Ἡρακ(λείδης) σ(εσ)η(μείωμαι).
+r.8   Τραιανοῦ:>
+r.9   Τραιανοῦ:>
+
+[TRANSLATION]
+1   Psensemminis son of Pamonthes paid,
+2   for poll-tax of the Agorai-south (quarter), year 1, ten drachmas,
+3   one (more), 1½ ob. — total 11 dr. 1½ ob. — and surcharges.
+4   Year 1 of Imperator
+5   Caesar Trajan Augustus
+6   Germanicus, Pharmouthi 12.
+7   Herakleides, I have signed.
+8   (Trajan)
+9   (Trajan)

@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 459 — Dike-tax receipt (χωματικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;459  (Trismegistos 76969)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 459
+label:    O.Wilck. 459
+name:     Dike-tax receipt (χωματικόν), Charax quarter
+genre:    receipts
+date:     28 Aug 84 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4196
+content:  Dike-tax of the Charax quarter, year 3 of Domitian
+tm:       76969
+source:   https://papyri.info/ddbdp/o.wilck;;459
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρ(άφηκεν) Ψενχῶ(νσις)
+r.2   Καρ ̣ ̣νο ̣( ) ὑπ(ὲρ) χω(ματικοῦ) Χά(ρακος) γ (ἔτους)
+r.3   (δραχμὰς) ϛ(τετρώβολον), ἄ(λλων) (ὀβολοὺς) δ𐅵 (γίνονται) ζ (ὀβολοὶ) β𐅵 καὶ προ(σδιαγραφόμενα). (ἔτους) γ
+r.4   Δομ(ιτιαν)οῦ τοῦ κυρίου,
+r.5   Καισ(αρείου) λ‡7ε. Ἀπολ(λόδωρος) σεση(μείωμαι).
+
+[TRANSLATION]
+1   Psenchonsis son of
+2   Kar…no…( ) paid, for dike-tax of the Charax (quarter), year 3,
+3   6 dr. 4 ob.; of others, 4½ ob. — total 7 dr. 2½ ob. — and surcharges. Year 3
+4   of Domitian the lord,
+5   (month) Kaisareios 35(?). Apollodoros, I have signed.

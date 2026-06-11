@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 524 — Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;524  (Trismegistos 77034)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 524
+label:    O.Wilck. 524
+name:     Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+genre:    receipts
+date:     26 Nov 120 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4526
+content:  Watchtower + other taxes of the Charax quarter, year 5 of Hadrian
+tm:       77034
+source:   https://papyri.info/ddbdp/o.wilck;;524
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἀπολλόδ(ωρος) πράκ(τωρ) Παμώνθῃ Ἁρβή(χιος)
+r.2   μη(τρὸς) Σενχεσθώτο(υ). ἔσχ(ον) ὑπ(ὲρ) σκοπ(έλου) καὶ ἄλ(λων)
+r.3   Χά(ρακος) ε (ἔτους) ῥυπ(αρὰς) (δραχμὰς) τρῖς ὀβ(ολοὺς) δύο (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) γ(διώβολον).
+r.4   (ἔτους) ε Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.5   Ἁθὺρ λ.
+
+[TRANSLATION]
+1   Apollodoros, collector, to Pamonthes son of Harbe(chis),
+2   mother Sencheasthotes. He received, for the watchtower(-tax) and others
+3   of the Charax (quarter), year 5, in base (coin), three drachmas, two obols — total, base, 3 dr. 2 ob.
+4   Year 5 of Hadrian Caesar the lord,
+5   Hathyr 30.

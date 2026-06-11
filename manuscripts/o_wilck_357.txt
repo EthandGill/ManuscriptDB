@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 357 — Poll-tax receipt (λαογραφία), early Roman Thebes
+# Source: papyri.info DDbDP o.wilck;;357  (Trismegistos 76877)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 357
+label:    O.Wilck. 357
+name:     Poll-tax receipt (λαογραφία), early Roman Thebes
+genre:    receipts
+date:     1 Apr 17 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4713
+content:  Poll-tax of year 13: 10 dr., year 13 of Caesar (Augustus)
+tm:       76877
+source:   https://papyri.info/ddbdp/o.wilck;;357
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Πικὼς Ψεναμού(νιος)
+r.2   Πειαντιτ τέτακ(ται)
+r.3   λαογ(ραφίας) ιγ (ἔτους) (δραχμὰς) ι.
+r.4   (ἔτους) ιγ Καίσα(ρος) Φαρμ(οῦθι) ϛ.
+
+[TRANSLATION]
+1   Pikos son of Psenamounis,
+2   of Peianti(?), has paid
+3   (for) poll-tax of year 13, 10 (drachmas).
+4   Year 13 of Caesar, Pharmouthi 6.

@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Fay. 27 — Granary receipt — shepherd's donkeys (Theadelphia)
+# Source: papyri.info DDbDP o.fay;;27  (Trismegistos 40866)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 27
+label:    O.Fay. 27
+name:     Granary receipt — shepherd's donkeys (Theadelphia)
+genre:    receipts
+date:     18 Jan 258 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 27
+content:  4 donkey-loads via the shepherd Sodike, Theadelphia
+tm:       40866
+source:   https://papyri.info/ddbdp/o.fay;;27
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   ε (ἔτους), Τῦβι κγ, Τήεως
+r.2   Σωδίκης ποι-
+r.3   μὴν ὄνοι δ.
+
+[TRANSLATION]
+1   Year 5, Tybi 23: Teos(?),
+2   (of) Sodike the shep-
+3   herd, 4 donkey(-loads).

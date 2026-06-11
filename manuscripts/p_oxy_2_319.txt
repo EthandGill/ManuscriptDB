@@ -1,0 +1,77 @@
+# ───────────────────────────────────────────────
+# P.Oxy. 2.319 — Loan of money from a son to his mother
+# Source: papyri.info DDbDP p.oxy;2;319  (Trismegistos 16676)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy. 2.319
+label:    P.Oxy. 2.319
+name:     Loan of money from a son to his mother
+genre:    contracts
+date:     20 Dec 37 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Baltimore, Johns Hopkins University P. Oxy. 319
+content:  Thamounis acknowledges a 16-dr. loan from her own son Tryphon, paid through the Sarapeion bank, repayable in year 3; year 2 of Gaius (Caligula)
+tm:       16676
+source:   https://papyri.info/ddbdp/p.oxy;2;319
+lat:      28.5383
+lon:      30.6765
+
+[GREEK]
+r.1   [Θαμοῦνις τῆς Ὀν]ν̣ώφριο[ς Περ]σείνη μετ[ὰ κ]υρίου
+r.2   [τοῦ - ca.13 -]ερῶτος τῷ ἐμ̣α̣υτῆς υἱῷ
+r.3   [Τρύφωνι Διονυσίου χαίρειν. ὁ]μολογῶ ἔχειν παρὰ [σ]οῦ ἐπὶ τοῦ
+r.4   [πρὸς Ὀξυρύγχ]ων πόλει Σ[α]ραπείου διὰ τῆς Πλο[υ-]
+r.5   [τάρχου Σαραπί]ω̣νος τραπέζης ἀργυρίου Σεβαστοῦ
+r.6   [καὶ Πτολεμαικοῦ] νομίσματος δραχμὰς δέκα ἕξ,
+r.7   [(γίνονται) δραχμαὶ δ]έκα ἓξ κεφαλαίου αἷς οὐδὲν τῷ
+r.8   [καθόλου προσῆκτα]ι, ἃς καὶ ἀποδώσω σοι τῇ τριακάδ[ι]
+r.9   [τοῦ ̣ ̣ ̣ ̣ ̣ τοῦ εἰσιό]ντος τρίτο[υ ἔ]τους Γαίου Καίσαρος
+r.10   [Σεβαστοῦ Γερμα]νικοῦ, κω[ρὶς] πάσης ὑπερθέσεως.
+r.11   [- ca.14 -]ε̣ιμ̣αι̣ ει[ ̣ ̣ ̣]ερθωσιν δημο-
+r.12   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ἐ]μοῦ μὲν υ[ἱοῦ] Θοώνιος τοῦ Διον(υσίου).
+r.13   [ἐὰν δὲ] μὴ ἀποδῶ [σοι κ]αθὰ γέγραπται, ἐκτεί-
+r.14   [σω σοι τὸ προ]κείμεν[ον] κεφάλαιον μεθʼ ἡ-
+r.15   [μιολίας καὶ] τοῦ ὑπερπ[ε]σόντος χρόνου τὸν κα-
+r.16   [θήκοντα, τῆς π]ράξεώς σου [ο]ὔσης ἔκ τε ἐμοῦ
+r.17   [καὶ ἐκ τῶν ὑπαρχόντων μοι] πάντων καθάπερ
+r.18   [ἐγ] [δίκης. κυρία ἡ χεὶρ παντα]χῇ ἐπιφερομένη
+r.19   [καὶ παντὶ τῷ ἐπιφέροντι. (ἔτους) β] Γαίου Καίσαρος
+r.20   [Σεβαστοῦ Γερμανικοῦ] Χοιὰχ κδ.
+r.21   (hand 2) [Θαμοῦνις ἔχω τὰς τοῦ ἀργ]υρίου δραχμὰς δέ̣κ̣α ἓξ κεφαλαίου
+r.22   [- ca.21 -]ερῶτος ἐπιγέγραμμαι
+r.23   [καὶ γέγρ]αφα ὑπὲρ αὐ[τῆς μ]ὴ εἰδυίης γράμματα.
+r.24   [(ἔτους) β Γαίου Καίσαρ]ος Σεβαστοῦ Γερ[μ]ανικοῦ Χοιὰχ [κ]δ.
+r.25   [(ἔτους) β Γαί]ου Καίσαρος [Σεβαστ]οῦ Γερμανικοῦ Χοιὰχ
+r.26   [κδ. διὰ τῆς Πλουτάρχου Σαραπί]ω(νος) τρ(απέζης) γέγ(ονεν) ἡ διαγραφή.
+
+[TRANSLATION]
+1   [Thamounis daughter of On]nophris, a [Per]sian woman, with [(her) g]uardian
+2   [the (son) of …]eros, to my own son
+3   [Tryphon son of Dionysios, greeting. I a]cknowledge that I have from [yo]u, at the
+4   [Sa]rapeion [by Oxyrhynch]us city, through the bank of Plou-
+5   [tarchos son of Sarapi]on, of silver of Augustan
+6   [and Ptolemaic] coinage, sixteen drachmas,
+7   [total six]teen [drachmas] of principal, to which nothing at
+8   [all has been adde]d, which I will also repay to you on the thirtieth
+9   [of … of the comi]ng third [ye]ar of Gaius Caesar
+10   [Augustus Germa]nicus, with[out] any postponement.
+11   […]…[…]… public(?)-
+12   […] of me, my so[n] Thoonis son of Dion(ysios).
+13   [And if] I do not repay [you a]s is written, I will pa-
+14   [y you the af]oresaid principal with ha-
+15   [lf as much again, and] for the time elap[s]ed the ap-
+16   [propriate (interest), the right of ex]ecution belonging to you both from me
+17   [and from all my possessions], just as
+18   [by] [legal judgement. The bond is valid] everywhere produced
+19   [and for everyone producing it. Year 2] of Gaius Caesar
+20   [Augustus Germanicus,] Choiak 24.
+21   (2nd hand) [Thamounis: I have the sil]ver, sixteen drachmas of principal,
+22   [… (son) of …]eros, I have been registered
+23   [and have wr]itten on her behalf, as she does not know letters.
+24   [Year 2 of Gaius Caesa]r Augustus Ger[m]anicus, Choiak [2]4.
+25   [Year 2 of Gai]us Caesar [Augus]tus Germanicus, Choiak
+26   [24. Through the bank of Plutarchos son of Sarapi]on the payment was made.

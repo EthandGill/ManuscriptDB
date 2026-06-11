@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 472 — Poll-tax receipt with instalments and guard-tax
+# Source: papyri.info DDbDP o.wilck;;472  (Trismegistos 76982)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 472
+label:    O.Wilck. 472
+name:     Poll-tax receipt with instalments and guard-tax
+genre:    receipts
+date:     1 Dec 87 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4324
+content:  Poll-tax instalments + guard, year 6 of Domitian, Hermonthis
+tm:       76982
+source:   https://papyri.info/ddbdp/o.wilck;;472
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέ(γραψεν) Ψενσεντιθοὴς Πιβούχιος
+r.2   Πετεήσεως ὑπ(ὲρ) λαο(γραφίας) Νότου καὶ Λιβ(ὸς) ϛ (ἔτους) (δραχμὰς) η.
+r.3   (ἔτους) ϛ Δ(ο)μ(ιτιαν)οῦ Καίσαρος τοῦ κυρίου Παχὼ(ν) γ. ὁμο(ίως)
+r.4   δ (δραχμὰς) η, ὁμο(ίως) ζ (ἔτους) Φαῶφι κη (δραχμὰς) η, αἱ κ(αθαραὶ) ζ(τριώβολον),
+r.5   ὁμο(ίως) Χοι(ὰχ) δ (δραχμὰς) β(τριώβολον), φυλ(άκων) ϛ (ἔτους) <(δραχμὴν)> α. λογ( ) ζ (ἔτους)
+r.6   (ὀβολόν) .
+
+[TRANSLATION]
+1   Psensentithoes son of Pibouchis,
+2   grandson of Peteesis, paid, for poll-tax of the South-and-West (quarter), year 6, 8 dr.
+3   Year 6 of Domitian Caesar the lord, Pachon 3. Likewise
+4   (on the) 4th, 8 dr.; likewise (in) year 7, Phaophi 28, 8 dr., which net 7 (dr.) 3 ob.,
+5   likewise Choiak 4, 2 dr. 3 ob.; (for) the guards (of) year 6, <1> dr. Collection(?) of year 7,
+6   1 obol.

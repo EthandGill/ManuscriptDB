@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 483 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;483  (Trismegistos 76993)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 483
+label:    O.Wilck. 483
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+genre:    receipts
+date:     25 Jul 93 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4789
+content:  Dike-tax + bath-tax of the Charax quarter, year 12 of Domitian
+tm:       76993
+source:   https://papyri.info/ddbdp/o.wilck;;483
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διέ(γραψεν) Καμή(τιος) Χμελ̣ε̣ω( )
+r.2   ὑπ(ὲρ) χωμ(ατικοῦ) Χά(ρακος) ιβ (ἔτους) (δραχμὰς) ε(πεντώβολον),
+r.3   βαλ(ανικοῦ) (ὀβολοὺς) δ𐅵 (γίνονται) (δραχμαὶ) ϛ (ὀβολοὶ) γ𐅵 καὶ προ(σδιαγραφόμενα).
+r.4   (ἔτους) ιβ Δομιτιανοῦ τοῦ κ(υρίου) Ἐπὶφ λ‡7α.
+r.5   Ἀπίω(ν) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1   Kametis son of Chmeleo( ) paid,
+2   for dike-tax of the Charax (quarter), year 12, 5 dr. 5 ob.,
+3   bath-tax 4½ ob. — total 6 dr. 3½ ob. — and surcharges.
+4   Year 12 of Domitian the lord, Epeiph 31(?).
+5   Apion, I have signed.

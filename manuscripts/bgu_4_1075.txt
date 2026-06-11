@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# BGU 4.1075 — Penthemeros dike-labour certificate (χωματικά)
+# Source: papyri.info DDbDP bgu;4;1075  (Trismegistos 9452)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1075
+label:    BGU 4.1075
+name:     Penthemeros dike-labour certificate (χωματικά)
+genre:    receipts
+date:     23 Jun 148 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13312
+content:  Five-day dike-work certificate, year 11 of Antoninus Pius, old Hexathyron of Theadelphia
+tm:       9452
+source:   https://papyri.info/ddbdp/bgu;4;1075
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   ἔτους ἑνδεκάτου Αὐτοκράτορος Καίσαρος
+r.2   Τίτου Αἰλίου Ἁδριανοῦ Ἀντωνίνου
+r.3   Σεβαστοῦ Εὐσεβοῦς. εἴργ(ασται) ὑπ(ὲρ) χω(ματικῶν) ἔρ(γων) τοῦ
+r.4   αὐτοῦ ια (ἔτους) Παῦνι κεκθ
+r.5   ἐν τῇ παλαιᾷ ἑξαθ(ύρῳ) Θεαδελ(φείας)
+r.6   Τέως Κρονίωνος το(ῦ) Νεφερῶ(τος)
+r.7   μ(ητρὸς) Ταουεῖτ(ος)
+r.8   (hand 2) Νῖλος σεσημ(είωμαι)
+
+[TRANSLATION]
+1   Year eleven of Imperator Caesar
+2   Titus Aelius Hadrianus Antoninus
+3   Augustus Pius. Has worked, for the dike-works of
+4   the same year 11, Pauni 25–29,
+5   in the old Hexathyron of Theadelphia:
+6   Teos son of Kronion, the (son) of Nepheros,
+7   mother Taoueis.
+8   (2nd hand) Nilos, I have signed.

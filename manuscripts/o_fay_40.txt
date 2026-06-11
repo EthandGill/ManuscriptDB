@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Fay. 40 — Granary delivery by donkey (Euhemeria)
+# Source: papyri.info DDbDP o.fay;;40  (Trismegistos 32276)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 40
+label:    O.Fay. 40
+name:     Granary delivery by donkey (Euhemeria)
+genre:    receipts
+date:     3rd c. CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 40
+content:  Produce of year 1, 5 donkey-loads, Euhemeria
+tm:       32276
+source:   https://papyri.info/ddbdp/o.fay;;40
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   θησ(αυροῦ) κώ(μης) Εὐημε(ρείας) γενη(μάτων) α (ἔτους)
+r.2   δι(ὰ) Κ̣η̣πωλίω(νος) (καὶ) Ἰο̣ά̣ν̣ν̣(ου)
+r.3   ὀν(ηλατῶν) Ἀρίμφεως
+r.4   δι(ὰ) κτη(νῶν) Τ̣υ̣ω̣( ) ὄν(οι) ε.
+r.5   (ἔτους) β, Φαῶ(φι) ιϛ.
+
+[TRANSLATION]
+1   Of the granary of the village of Euhemeria, produce of year 1,
+2   through Kepolion and Ioannes,
+3   donkey-drivers: Arimpheus,
+4   through the beasts of Tyo( ), 5 donkey(-loads).
+5   Year 2, Phaophi 16.

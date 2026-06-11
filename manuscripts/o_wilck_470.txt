@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 470 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;470  (Trismegistos 76980)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 470
+label:    O.Wilck. 470
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+genre:    receipts
+date:     31 Aug 87 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1618
+content:  Dike-tax + bath-tax of the Charax quarter, year 6 of Domitian
+tm:       76980
+source:   https://papyri.info/ddbdp/o.wilck;;470
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγ(εγ)ρ(άφηκεν) Παναμεὺς
+r.2   Νεφερὼς ὑπ(ὲρ) χω(ματικοῦ) Χά(ρακος)
+r.3   ϛ (ἔτους) (δραχμὰς) ϛ(τετρώβολον), βαλ(ανικοῦ) (ὀβολοὺς) δ𐅵 (γίνονται) (δραχμαὶ) ζ (ὀβολοὶ) β𐅵
+r.4   καὶ (προσδιαγραφόμενα). (ἔτους) ϛ Δομιτιανοῦ
+r.5   τοῦ κυρίου Μεσορὴ λ‡7η.
+r.6   Ἀπίω(ν) σεση(μείωμαι).
+
+[TRANSLATION]
+1   Panameus son of
+2   Nepheros paid, for dike-tax of the Charax (quarter),
+3   year 6, 6 dr. 4 ob.; bath-tax 4½ ob. — total 7 dr. 2½ ob. —
+4   and surcharges. Year 6 of Domitian
+5   the lord, Mesore 8(?).
+6   Apion, I have signed.

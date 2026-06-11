@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 317 — Bank receipt — copper payment (τράπεζα), Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;317  (Trismegistos 44253)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 317
+label:    O.Wilck. 317
+name:     Bank receipt — copper payment (τράπεζα), Diospolis Magna
+genre:    receipts
+date:     18 Nov 152 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 285
+content:  Bank payment of 200 dr. copper, year 30
+tm:       44253
+source:   https://papyri.info/ddbdp/o.wilck;;317
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   ἔτους λ Φαῶφι κ τέ(τακται) ἐπὶ τὴν
+r.2   ἐν Διὸς πό(λει) τῆι με(γάλῃ) τρά(πεζαν), ἐφʼ ἧς Πτολεμαῖος,
+r.3   Ἀπολλώνιος χαλκοῦ διακοσίας (γίνονται) σ.
+r.4   Π(τολεμαῖος) τ(ρ)α(πεζίτης). v
+r.5   (hand 2) τοῦ Σικῶνος υἱοῦ
+r.6   ̣ ̣ ̣α ̣χω( ) ἰς λόγον.
+
+[TRANSLATION]
+1   Year 30, Phaophi 20. There has been paid into the
+2   bank at Diospolis Magna, at which Ptolemaios (presides):
+3   Apollonios, two hundred (drachmas) of copper — total 200.
+4   P(tolemaios) banker. (verso)
+5   (2nd hand) of the son of Sikon,
+6   …a.cho( ) to the account.

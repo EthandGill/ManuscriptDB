@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 458 — Dike-tax receipt (χωματικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;458  (Trismegistos 76968)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 458
+label:    O.Wilck. 458
+name:     Dike-tax receipt (χωματικόν), Charax quarter
+genre:    receipts
+date:     18 Aug 83 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4190
+content:  Dike-tax of the Charax quarter, year 2 of Domitian
+tm:       76968
+source:   https://papyri.info/ddbdp/o.wilck;;458
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρ(άφηκεν) Νεφερὼς Πεχοίτου
+r.2   ὑπ(ὲρ) χω(ματικοῦ) Χά(ρακος) β (ἔτους) (δραχμὰς) ϛ(τετρώβολον), ἄ(λλων) (ὀβολοὺς) δ𐅵 (γίνονται) ζ(διώβολον) καὶ προ(σδιαγραφόμενα).
+r.3   (ἔτους) β Δομιτιανοῦ τοῦ κυρίου, Καισ(αρείου) κε.
+r.4   Ἀπολ(λόδωρος) Ἡ(ρακλείδου) σεση(μείωμαι).
+
+[TRANSLATION]
+1   Nepheros son of Pechoites paid,
+2   for dike-tax of the Charax (quarter), year 2, 6 dr. 4 ob.; of others, 4½ ob. — total 7 dr. 2 ob. — and surcharges.
+3   Year 2 of Domitian the lord, (month) Kaisareios 25.
+4   Apollodoros son of H(erakleides), I have signed.

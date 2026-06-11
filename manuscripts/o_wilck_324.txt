@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 324 — Pasture-tax receipt (ἐννόμιον), bank of Hermonthis
+# Source: papyri.info DDbDP o.wilck;;324  (Trismegistos 43611)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 324
+label:    O.Wilck. 324
+name:     Pasture-tax receipt (ἐννόμιον), bank of Hermonthis
+genre:    receipts
+date:     3 May 107 BCE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4294
+content:  Pasture-tax of year 10, paid into the Hermonthis bank
+tm:       43611
+source:   https://papyri.info/ddbdp/o.wilck;;324
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   ἔτους ι Φαρμοῦθι ιζ τέ(τακται) ἐπὶ τὴν
+r.2   ἐν Ἑρμ(ώνθει) τρά(πεζαν) ἐννο(μίου) Τμοντεχ( ) ι (ἔτους) Ποήριος
+r.3   Πασήμιος (τάλαντον) ἓν χιλίας φπ (γίνονται) (τάλαντον) αΑφπ.
+r.4   Δι(ονύσιος(?)) τρα(πεζίτης) (τάλαντον) αΒτμ.
+
+[TRANSLATION]
+1   Year 10, Pharmouthi 17. There has been paid into the
+2   bank at Hermonthis: of the pasture-tax of Tmontech( ), year 10, Poeris
+3   son of Pasemis, one talent, one thousand 580 — total 1 tal. 1580.
+4   Di(onysios?) banker, 1 tal. 2340.

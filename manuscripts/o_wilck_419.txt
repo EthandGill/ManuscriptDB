@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 419 — Poll-tax receipt with instalments (λαογραφία), South-and-West quarter
+# Source: papyri.info DDbDP o.wilck;;419  (Trismegistos 76930)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 419
+label:    O.Wilck. 419
+name:     Poll-tax receipt with instalments (λαογραφία), South-and-West quarter
+genre:    receipts
+date:     26 Sept 68 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1627
+content:  Poll-tax + dike-tax instalments, year 13 of Nero
+tm:       76930
+source:   https://papyri.info/ddbdp/o.wilck;;419
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγέγρ(αφεν) Καμῆτις Πετεαρπρ(ήους)
+r.2   Ἀμφιώμιος μη(τρὸς) Τασήμιος Παμοντκύσ(ιος)
+r.3   λαο(γραφίας) Νό(του) καὶ Λιβ(ὸς) ιγ (ἔτους) (δραχμὰς) η. (ἔτους) ιγ Νέρωνος
+r.4   τοῦ κυρίου Μεχὶρ ιζ. ὁμο(ίως) Φα(μενὼ)θ
+r.5   κη (δραχμὰς) δ, ὁμοίω(ς) Φαρμοῦθι ιθ (δραχμὰς) δ,
+r.6   ὁμο(ίως) Παχὼ(ν) κη (δραχμὰς) δ, ὁμο(ίως) Παῦνι κβ
+r.7   (δραχμὰς) δ, ὁμο(ίως) Θὼτ κη ὑπ(ὲρ) χω(ματικοῦ) α (ἔτους)
+r.8   (δραχμὰς) δ, αἳ κ(αθαραὶ) (δραχμαὶ) γ(τετρώβολον)(ἡμιωβέλιον), ὁμο(ίως) Θὼτ κθ
+r.9   (δραχμὰς) γ (ἡμιωβέλιον), αἳ κ(αθαραὶ) (δραχμαὶ) β(πεντώβολον)(ἡμιωβέλιον).
+
+[TRANSLATION]
+1   Kametis son of Petearpres,
+2   grandson of Amphiomis, mother Tasemis, of Pamontkysis,
+3   (for) poll-tax of the South-and-West (quarter), year 13, 8 dr. Year 13 of Nero
+4   the lord, Mecheir 17. Likewise Phamenoth
+5   28, 4 dr.; likewise Pharmouthi 19, 4 dr.;
+6   likewise Pachon 28, 4 dr.; likewise Pauni 22,
+7   4 dr.; likewise Thoth 28, for dike-tax of year 1,
+8   4 dr., which net 3 dr. 4½ ob.; likewise Thoth 29,
+9   3 dr. ½ ob., which net 2 dr. 5½ ob.

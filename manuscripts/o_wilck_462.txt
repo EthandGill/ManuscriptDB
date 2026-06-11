@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 462 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;462  (Trismegistos 76972)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 462
+label:    O.Wilck. 462
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+genre:    receipts
+date:     19 Mar 85 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4159
+content:  Poll-tax + bath-tax of the Charax quarter, year 4 of Domitian
+tm:       76972
+source:   https://papyri.info/ddbdp/o.wilck;;462
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρ(άφηκεν) Παναμεὺς Φθουμί(νιος)
+r.2   Ψενχνο(ύβιος) ὑπ(ὲρ) λαο(γραφίας) Χά(ρακος) δ (ἔτους) (δραχμὰς) δέκα ,
+r.3   (καὶ) βα(λανικοῦ) α (ὀβολὸν) α𐅵 (γίνονται) ια (ὀβολὸς) α𐅵 καὶ πρ(οσδιαγραφόμενα). (ἔτους) δ Δομιτιανοῦ
+r.4   τοῦ κυρίου Μεχ(ὶρ) λ‡7κγ.
+r.5   Ἀπολ(λόδωρος) σεση(μείωμαι).
+
+[TRANSLATION]
+1   Panameus son of Phthouminis,
+2   (grand)son of Psenchnoubis, paid, for poll-tax of the Charax (quarter), year 4, ten drachmas,
+3   (and) bath-tax 1 dr. 1½ ob. — total 11 (dr.) 1½ ob. — and surcharges. Year 4 of Domitian
+4   the lord, Mecheir 23(?).
+5   Apollodoros, I have signed.

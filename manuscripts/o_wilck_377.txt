@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 377 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;377  (Trismegistos 76894)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 377
+label:    O.Wilck. 377
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν)
+genre:    receipts
+date:     2 Oct 36 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 8585
+content:  Dike-tax + bath-tax of year 22 of Tiberius
+tm:       76894
+source:   https://papyri.info/ddbdp/o.wilck;;377
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρ(άφηκεν) Ἑριέως Παάπιο(ς)
+r.2   ὑπ(ὲρ) χω(ματικοῦ) κβ (ἔτους) (δραχμὰς) ἓξ τετροβλ (ον)
+r.3   καὶ <βα(λανικοῦ)> (τετρώβολον) προσδ(ιαγραφόμενα) (ὀβολοὺς) β𐅵. (ἔτους) κγ
+r.4   Τιβερίου Καίσαρος Σεβαστοῦ,
+r.5   Σεβαστοῦ λ‡7ε. Πετεμε(νῶφις) Πικ(ῶτος).
+
+[TRANSLATION]
+1   Has paid: (the son) of Herieus son of Paapis,
+2   for dike-tax of year 22, six drachmas, four obols,
+3   and <bath-tax> 4 obols; surcharges 2½ obols. Year 23
+4   of Tiberius Caesar Augustus,
+5   the Sebaste day. Petemenophis son of Pikos.

@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 341 — Bank receipt — price of salt for the infantry (τιμὴ ἁλός), Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;341  (Trismegistos 43991)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 341
+label:    O.Wilck. 341
+name:     Bank receipt — price of salt for the infantry (τιμὴ ἁλός), Diospolis Magna
+genre:    receipts
+date:     20 Jun 151 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 300
+content:  Price of salt, paid by the infantry official Chares, year 30
+tm:       43991
+source:   https://papyri.info/ddbdp/o.wilck;;341
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   ἔτους λ Παχὼν κδ τέ(τακται) ἐπὶ
+r.2   τὴν ἐν Διὸς πό(λει) τῆι με(γάλῃ) τρά(πεζαν), ἐφʼ ἧς
+r.3   Πτολεμαῖος, ἀπὸ τιμῆς ἁλὸς
+r.4   Χάρης τοῦ τοῖς πεζοῖς χα(λκοῦ)
+r.5   (τάλαντα) τρία τρισχιλίας ἑπτα-
+r.6   κοσιὰς (γίνονται) (τάλαντα) γΓψ.
+r.7   Π(τολεμαῖος) τρα(πεζίτης)
+r.8   (hand 2) Καλλίας γρ(αμματεύς). v
+r.9   Καλλίου γρ(αμματέως)
+r.10   πεζῶν.
+
+[TRANSLATION]
+1   Year 30, Pachon 24. There has been paid into
+2   the bank at Diospolis Magna, at which
+3   Ptolemaios (presides): from the price of salt,
+4   Chares the (official) of the infantry, of copper,
+5   three talents, three thousand seven-
+6   hundred — total 3 tal. 3700.
+7   P(tolemaios) banker.
+8   (2nd hand) Kallias scribe. (verso)
+9   of Kallias, scribe
+10   of the infantry.

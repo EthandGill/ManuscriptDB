@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Fay. 17 — Payment-order in kind (vegetable-seed)
+# Source: papyri.info DDbDP o.fay;;17  (Trismegistos 40861)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 17
+label:    O.Fay. 17
+name:     Payment-order in kind (vegetable-seed)
+genre:    receipts
+date:     14 May 35 CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 17
+content:  Order to apportion 2 donkey-loads of vegetable-seed, year 21 of Tiberius
+tm:       40861
+source:   https://papyri.info/ddbdp/o.fay;;17
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   Ἀπολλωνίῳ γρ̣(α(?))μ̣(ματεῖ) ὄ̣ν̣ω̣ν̣, μέρισον Φάσι[τ]ι
+r.2   Ἡλιοδώρου ὑπὸ λαχανοσπέρμον ὄνους δύο
+r.3   ἰς θησαυρὸν Λιβύλλης διὰ Πεθ̣βῶς
+r.4   Πάτρων̣ο̣ς̣ πρ( ). (ἔτους) κα Τιβερίου Καίσαρος,
+r.5   Παχὼ(ν) ιθ̣.
+
+[TRANSLATION]
+1   To Apollonios, scribe of the donkeys: apportion to Phasi[s]
+2   son of Heliodoros, under vegetable-seed, two donkey(-loads),
+3   to the granary of Libylle, through Pethbos
+4   son of Patron …( ). Year 21 of Tiberius Caesar,
+5   Pachon 19.

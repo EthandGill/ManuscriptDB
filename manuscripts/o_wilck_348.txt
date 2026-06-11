@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 348 — Bank receipt — general-dealers' tax, Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;348  (Trismegistos 44238)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 348
+label:    O.Wilck. 348
+name:     Bank receipt — general-dealers' tax, Diospolis Magna
+genre:    receipts
+date:     7 Jun 134 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 302
+content:  Tax on general-dealers, year 36
+tm:       44238
+source:   https://papyri.info/ddbdp/o.wilck;;348
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   ἔτους λϛ Παχὼν ιε τέ(τακται) ἐπὶ τὴν ἐν Διὸς πό(λει)
+r.2   [τῆι με(γάλῃ) τρά(πεζαν)], ἐφʼ ἧς Ἡρα(κλείδης), ἐπιζη( ) παντοπωλῶ(ν)
+r.3   [δι]ακο(σίας) ἓξ ἡμ(ιωβέλιον) (γίνονται) (τάλαντα) βΑσ[ϛ𐅵]
+r.4   [⁦ -ca.?- ⁩]θ.
+
+[TRANSLATION]
+1   Year 36, Pachon 15. There has been paid into the bank at Diospolis Magna,
+2   [at which] Hera(kleides) (presides): of the inspection(?)-tax on general-dealer(s),
+3   [two h]undred six, a half-obol — total 2 tal. 120[6½]
+4   […]9.

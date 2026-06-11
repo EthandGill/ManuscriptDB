@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 359 — Bank receipt — price of wheat and hieratic-tax, bank of Kephalos
+# Source: papyri.info DDbDP o.wilck;;359  (Trismegistos 76879)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 359
+label:    O.Wilck. 359
+name:     Bank receipt — price of wheat and hieratic-tax, bank of Kephalos
+genre:    receipts
+date:     6 Mar 9 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12664
+content:  Price of wheat (administration) and hieratic-tax of year 20, year 21 of Caesar (Augustus)
+tm:       76879
+source:   https://papyri.info/ddbdp/o.wilck;;359
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) ἐπὶ τὴ(ν) Κεφάλου τράπ(εζαν)
+r.2   Λυσίμαχο(ς) Ἀπολωνίου ὑπ(ὲρ) κ (ἔτους) διο(ι)κ(ήσεως) τιμ(ῆς)
+r.3   πυροῦ (δραχμὰς) ιγ (ὀβολοὺς) δ𐅵, καὶ διὰ Πικὼς Ἁρ-
+r.4   ̣ ̣ ̣νέχθιος ἱερατικ(οῦ) κ (ἔτους) ̣ ̣ ̣[ ̣ ̣]
+r.5   (ἔτους) κα Καίσαρος Φαμενὼ(θ) ι.
+
+[TRANSLATION]
+1   There has been paid into the bank of Kephalos:
+2   Lysimachos son of Apollonios, for year 20, (toward) the administration, of the price
+3   of wheat, 13 (drachmas) 4½ obols; and through Pikos son of Har-
+4   …nechthis, of the hieratic(-tax) of year 20 …[..]
+5   Year 21 of Caesar, Phamenoth 10.

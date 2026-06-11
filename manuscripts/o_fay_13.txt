@@ -1,0 +1,29 @@
+# ───────────────────────────────────────────────
+# O.Fay. 13 — Tax label — rent on saplings (φόρος φυτῶν)
+# Source: papyri.info DDbDP o.fay;;13  (Trismegistos 26355)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 13
+label:    O.Fay. 13
+name:     Tax label — rent on saplings (φόρος φυτῶν)
+genre:    receipts
+date:     1st–2nd c. CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 13
+content:  Label: tax on the rent of plants/saplings
+tm:       26355
+source:   https://papyri.info/ddbdp/o.fay;;13
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   φόρου φυ-
+r.2   τῶν.
+
+[TRANSLATION]
+1   (Tax) on the rent of
+2   plants (saplings).

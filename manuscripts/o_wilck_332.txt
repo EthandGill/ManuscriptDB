@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 332 — Bank receipt — apomoira and eparourion, Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;332  (Trismegistos 43463)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 332
+label:    O.Wilck. 332
+name:     Bank receipt — apomoira and eparourion, Diospolis Magna
+genre:    receipts
+date:     28 Mar 92 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 283
+content:  Apomoira and land-surtax of year 22
+tm:       43463
+source:   https://papyri.info/ddbdp/o.wilck;;332
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   (ἔτους) κβ Φαμενὼθ ιε τέ(τακται)
+r.2   κβ (ἔτους) ἀπομο(ίρας) Καλῆ(ς (?)) ̣η̣τω
+r.3   χιλίας πεντακοσίας εἴκοσι
+r.4   πέντε (γίνονται) Αφκε, ἐπαρου(ρίου) φ
+r.5   (γίνονται) Βκε. Κέφα(λος) τρα(πεζίτης) Βσλ[ ̣]
+
+[TRANSLATION]
+1   Year 22, Phamenoth 15. There has been paid,
+2   for year 22, of the apomoira: Kale(s?) …,
+3   one thousand five hundred twenty-
+4   five — total 1525; (and) of the eparourion (land-surtax), 500
+5   — total 2025. Kephalos banker, 223[.].

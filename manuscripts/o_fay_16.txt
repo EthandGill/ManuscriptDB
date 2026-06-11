@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Fay. 16 — Payment-order in kind (safflower, vetch)
+# Source: papyri.info DDbDP o.fay;;16  (Trismegistos 40860)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 16
+label:    O.Fay. 16
+name:     Payment-order in kind (safflower, vetch)
+genre:    receipts
+date:     c. 1 CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 16
+content:  Order to apportion donkey-loads of safflower and vetch, Euhemeria
+tm:       40860
+source:   https://papyri.info/ddbdp/o.fay;;16
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   Ἀ̣λ̣ι̣ο̣ν̣ω̣ μέρισον Να̣ν̣τι-
+r.2   τω̣ ̣ ι̣( ) ὑπ(ὸ) κνῆ(κον) [ὄ]νο(υς) β
+r.3   καὶ ὑπ(ὸ) ὄροβον ὄνο(υς) β
+r.4   θη(σαυρ ) πρ( )
+
+[TRANSLATION]
+1   To Alion(?): apportion to Nanti-
+2   to(?) …, under safflower, 2 donkey(-loads),
+3   and under bitter-vetch, 2 donkey(-loads),
+4   (to the) granary …( ).

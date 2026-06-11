@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 449 — Guards'-pay receipt (ὀψώνιον φυλάκων)
+# Source: papyri.info DDbDP o.wilck;;449  (Trismegistos 76960)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 449
+label:    O.Wilck. 449
+name:     Guards'-pay receipt (ὀψώνιον φυλάκων)
+genre:    receipts
+date:     26 Mar 79 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1637
+content:  Guards'-pay of the South-and-West quarter, year 11 of Vespasian
+tm:       76960
+source:   https://papyri.info/ddbdp/o.wilck;;449
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέγρ(αψεν) Ψενσεντιθοήο(υς)
+r.2   Πιβούχ(ιος) ὑπ(ὲρ) ὀψω(νίου) φυλ(άκων) ια (ἔτους)
+r.3   Νό(το)υ καὶ Λιβὸ(ς) (δραχμὴν) α. (ἔτους) ια
+r.4   Φαμ(εν)ὼ(θ) λ.
+
+[TRANSLATION]
+1   (He,) son of Psensentithoes,
+2   (grand)son of Pibouchis, paid, for the guards' pay, year 11,
+3   of the South-and-West (quarter), 1 dr. Year 11,
+4   Phamenoth 30.

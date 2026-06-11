@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 406 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;406  (Trismegistos 76917)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 406
+label:    O.Wilck. 406
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν)
+genre:    receipts
+date:     18 Oct 53 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 8044
+content:  Dike-tax + bath-tax of year 13, year 14 of Claudius
+tm:       76917
+source:   https://papyri.info/ddbdp/o.wilck;;406
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρ(άφηκεν) Παμώνθης Ἑρμίου ὑπ(ὲρ)
+r.2   χω(ματικοῦ) ιγ (ἔτους) (δραχμὰς) ἓξ τετρώ(βολον) καὶ β(α)λ(ανικοῦ) (ὀβολοὺς) δ𐅵
+r.3   (γίνονται) (δραχμαὶ) ζ (ὀβολοὶ) β𐅵 καὶ τούτω(ν) προσδ(ιαγραφόμενα). (ἔτους) ιδ
+r.4   Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ
+r.5   Γερμανικοῦ Αὐτοκράτορος Φαῶ(φι) κα.
+r.6   Κέφαλ(ος) σεση(μείωμαι).
+
+[TRANSLATION]
+1   Pamonthes son of Hermias paid, for
+2   dike-tax of year 13, six drachmas, four obols, and bath-tax 4½ obols,
+3   total 7 dr. 2½ ob., and the surcharges on these. Year 14
+4   of Tiberius Claudius Caesar Augustus
+5   Germanicus Imperator, Phaophi 21.
+6   Kephalos, I have signed.

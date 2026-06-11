@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 356 — Receipt — palm-grove tax (φοινικών), early Roman Thebes
+# Source: papyri.info DDbDP o.wilck;;356  (Trismegistos 49734)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 356
+label:    O.Wilck. 356
+name:     Receipt — palm-grove tax (φοινικών), early Roman Thebes
+genre:    receipts
+date:     12 Nov 18 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 158 [ostracon]
+content:  Palm-grove tax of year 12: 8 dr. 3 ob., year 13 of Caesar (Augustus)
+tm:       49734
+source:   https://papyri.info/ddbdp/o.wilck;;356
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Φατρὴς Ἀβώτου τέτακ(ται) ὑπ(ὲρ) ιβ (ἔτους)
+r.2   φοι(νικῶνος) δ´η´λβ´ξδ´ (δραχμὰς) η(τριώβολον).
+r.3   (ἔτους) ιγ Καίσα(ρος) Ἁθὺ(ρ) ιε.
+r.4   Κέφα(λος) ο( ) (τριώβολον).
+
+[TRANSLATION]
+1   Phatres son of Abos has paid, for year 12,
+2   of the palm-grove(-tax), ¼ ⅛ ¹⁄₃₂ ¹⁄₆₄: 8 (drachmas) 3 obols.
+3   Year 13 of Caesar, Hathyr 15.
+4   Kephalos …, 3 obols.

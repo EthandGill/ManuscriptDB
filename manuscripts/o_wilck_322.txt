@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 322 — Bank receipt — apomoira (1/6 orchard-tax), Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;322  (Trismegistos 43454)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 322
+label:    O.Wilck. 322
+name:     Bank receipt — apomoira (1/6 orchard-tax), Diospolis Magna
+genre:    receipts
+date:     12 Jan 111 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 8100
+content:  Apomoira of year 6, paid into the Diospolis Magna bank
+tm:       43454
+source:   https://papyri.info/ddbdp/o.wilck;;322
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   ἔτου(ς) ϛ Χοίαχ κε τέ(τακται) ἐπὶ τὴν
+r.2   ἐν Δ(ιὸς) πό(λει) τῇ μεγ(άλῃ) τρά(πεζαν) ἀπομοί(ρας) ϛ (ἔτους) Ἑριεὺς
+r.3   Ἰμούθου δισχιλίας διακο(σίας) π (γίνονται) Βσπ.
+r.4   Δ(ιονύσιος(?)) τρα(πεζίτης).
+r.5   Βφκ
+
+[TRANSLATION]
+1   Year 6, Choiak 25. There has been paid into the
+2   bank at Diospolis Magna: of the apomoira of year 6, Herieus
+3   son of Imouthes, two thousand two hundred 80 — total 2280.
+4   D(ionysios?) banker.
+5   2520.

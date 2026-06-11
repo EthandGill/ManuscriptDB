@@ -1,0 +1,61 @@
+# ───────────────────────────────────────────────
+# BGU 3.829 — Private letter: instructions about a memorandum and a debtor
+# Source: papyri.info DDbDP bgu;3;829  (Trismegistos 9373)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.829
+label:    BGU 3.829
+name:     Private letter: instructions about a memorandum and a debtor
+genre:    letters
+date:     10 Jan 105 CE
+language: Greek (Koiné)
+found:    Arsinoite nome / Fayum, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7308
+content:  Instructions to correct a memorandum of homesteads and slaves of Tabous into the debtor’s name, secure a signature, and report on pending matters; Trajan, Tybi 15
+tm:       9373
+source:   https://papyri.info/ddbdp/bgu;3;829
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   καλ[ῶς π]οιήσις λαβών μου
+r.2   τὸ ἐπ[ιστόλι]ν παρ[ὰ] τοῦ κομιζον-
+r.3   τιο σ[οι] τὸ ὑπόμνημα τῶν οἰκο-
+r.4   πέδων καὶ σωμάτων Ταβοῦτος
+r.5   τῆς Τεσήους ἐμοῦ ὑπογραφῆς
+r.6   καὶ ἐ̣[π]ι̣γ̣[νοὺς] τ̣ί θέλει ὁ κομίζων
+r.7   {σοι τὸ̣ <ὑπόμνημα>} διο[ρ]θῶσε̣ τὸ ὑπόμνημα εἰς
+r.8   τὸν [ὑπό]χ̣ρ̣εων ἀπ[ο]γραφὴν ποιήσας̣,
+r.9   ἀσφ[άλισο]ν̣ δὲ τ[ὴ]ν ἐ[μὴ]ν ὑπογραφὴν
+r.10   καὶ γράψον μοι περὶ τῶν μετεώρω[ν]
+r.11   ἡμ[ῶν καὶ π]ερὶ τοῦ διαλ[ο]γισμοῦ·
+r.12   [κ]αὶ̣ [βούλομ]α̣ι τὸ̣ν̣ νομά̣ρ̣χ̣ην
+r.13   ἔχ[ειν τὴν ἀ]ρτάβην τῶν ἄρτων
+r.14   ὥ[σ]τ̣[ε δοῦναι] γραμματ(εῖ) τοῦ βασιλικοῦ
+r.15   [ἔρ]ρωσο.
+r.16   (ἔτους) η Α[ὐτο]κράτορος Κ[αί]σαρος
+r.17   Νέ[ρουα Τρ]αιανοῦ Σεβαστοῦ
+r.18   Γερμα[νικ]οῦ Δακικοῦ μηνὸς Τῦβι ιε̣.
+
+[TRANSLATION]
+1   You will do [well] to take my
+2   le[tter] from the one bringing
+3   you the memorandum of the home-
+4   steads and persons (slaves) of Tabous
+5   daughter of Teses, with my signature,
+6   and, having [learned] what the bringer wants,
+7   to correct the memorandum into
+8   the (name of the) [deb]tor, making a registration,
+9   and [secure] [m]y signature,
+10   and write to me about our pending matters
+11   and about the reckoning;
+12   [and I wi]sh the nomarch
+13   to have the artaba of the loaves,
+14   so [as to give it] to the scribe of the royal (scribe).
+15   [Far]ewell.
+16   Year 8 of Imperator Caesar
+17   Ne[rva Tr]ajan Augustus
+18   Germa[nic]us Dacicus, month Tybi 15.

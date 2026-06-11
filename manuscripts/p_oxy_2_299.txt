@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# P.Oxy. 2.299 — Private letter: Horos to Apion — hiring a mouse-catcher
+# Source: papyri.info DDbDP p.oxy;2;299  (Trismegistos 25672)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy. 2.299
+label:    P.Oxy. 2.299
+name:     Private letter: Horos to Apion — hiring a mouse-catcher
+genre:    letters
+date:     late 1st c. CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    formerly Bradfield, College P. Oxy. 299
+content:  Horos tells Apion he paid an 8-dr. deposit, through him, to Lampon the mouse-catcher to catch mice at Toka, and asks to be reimbursed; also a loan to Dionysios
+tm:       25672
+source:   https://papyri.info/ddbdp/p.oxy;2;299
+lat:      28.5383
+lon:      30.6765
+
+[GREEK]
+r.1   Ὧρος Ἀπίωνι τῷ τειμειωτάτωι χαίρειν.
+r.2   Λάμπωνι μυοθηρευτῇ ἔδωκα αὐτῷ διὰ σοῦ ἀρα-
+r.3   βῶνα (δραχμὰς) η ἵνα μυοθηρεύσει ἐν Τόκα . καλῶς ποιήσεις
+r.4   πέμψεις μοι αὐτάς. καὶ Διονυσίῳ προσ[τ]άτῃ Νεμερῶν
+r.5   κέκρηκα (δραχμὰς) η καὶ ταύτας οὐκ ἔπεμψε, ἵνα εἰδῇς.
+r.6   ἔρρωσ(ο). Παῦνι κδ.
+
+[TRANSLATION]
+1   Horos, to Apion the most honoured, greetings.
+2   To Lampon the mouse-catcher I gave, through you, a de-
+3   posit of 8 (drachmas), so that he may catch mice at Toka. You will do well
+4   to send them (the drachmas) to me. And to Dionysios, president of Nemerai,
+5   I have lent 8 (drachmas), and these he has not sent — that you may know (it).
+6   Farewell. Pauni 24.

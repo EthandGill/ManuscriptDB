@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 542 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;542  (Trismegistos 77051)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 542
+label:    O.Wilck. 542
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+genre:    receipts
+date:     10 Nov 129 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4121
+content:  Dike-tax + bath-tax of the Charax quarter, year 13/14 of Hadrian
+tm:       77051
+source:   https://papyri.info/ddbdp/o.wilck;;542
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἑριοφμόις πράκ(τωρ) ἀργ(υρικῆς)
+r.2   Ἀβῶς πρ(εσβυτέρῳ) Λελοῦτο(ς) Π ̣ ̣ ̣ ̣
+r.3   ἔσχ(ον) ὑπ(ὲρ) χω(ματικοῦ) καὶ βα(λανικοῦ) Χά(ρακος) ιγ (ἔτους)
+r.4   ῥυπ(αρὰς) (δραχμὰς) δ(διώβολον) (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) δ(διώβολον). (ἔτους) ιδ
+r.5   Ἁδριανοῦ τοῦ κυρίου
+r.6   Ἁθὺρ ιδ.
+
+[TRANSLATION]
+1   Heriophmois, collector of money-tax,
+2   (to) Abos the elder, son of Lelous, P….
+3   He received, for dike-tax and bath-tax of the Charax (quarter), year 13,
+4   in base (coin), 4 dr. 2 ob. — total, base, 4 dr. 2 ob. Year 14
+5   of Hadrian the lord,
+6   Hathyr 14.

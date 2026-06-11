@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 545 — Assessments and watchtower-tax receipt (μερισμοί, σκόπελος), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;545  (Trismegistos 77054)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 545
+label:    O.Wilck. 545
+name:     Assessments and watchtower-tax receipt (μερισμοί, σκόπελος), Charax quarter
+genre:    receipts
+date:     22 May 131 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 8736
+content:  Assessments + watchtower-tax of the Charax quarter, year 15 of Hadrian
+tm:       77054
+source:   https://papyri.info/ddbdp/o.wilck;;545
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἑριοφμ[όι]ς πράκ(τωρ) ἀργ(υρικῆς)
+r.2   Ὀννώφρι Φθουμεί(νιος) μη(τρὸς)
+r.3   Σενθ(ώτου). ἔσχο(ν) ὑπ(ὲρ) μερισ(μῶν) Χά(ρακος)
+r.4   ιε (ἔτους) (πεντώβολον) καὶ ὑπ(ὲρ) σκοπ(έλου) (διώβολον). (ἔτους) ιε
+r.5   Ἁδριανοῦ τοῦ κυρίου
+r.6   Παχὼ(ν) κζ.
+
+[TRANSLATION]
+1   Heriophm[oi]s, collector of money-tax,
+2   (to) Onnophris son of Phthouminis, mother
+3   Senthotes. He received, for assessments of the Charax (quarter),
+4   year 15, 5 obols, and for the watchtower(-tax), 2 obols. Year 15
+5   of Hadrian the lord,
+6   Pachon 27.

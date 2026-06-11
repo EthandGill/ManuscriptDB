@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 444 — Poll-tax receipt with instalments (λαογραφία)
+# Source: papyri.info DDbDP o.wilck;;444  (Trismegistos 76955)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 444
+label:    O.Wilck. 444
+name:     Poll-tax receipt with instalments (λαογραφία)
+genre:    receipts
+date:     26 Sept 76 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4322
+content:  Poll-tax instalments, year 8 of Vespasian, Hermonthis
+tm:       76955
+source:   https://papyri.info/ddbdp/o.wilck;;444
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέ(γραψεν) Ψενσεντιθοὴς Πιβούχ(ιος) ὑ(πέρ)
+r.2   λαογ(ραφίας) Ν(ότ)ου (καὶ) Λιβ(ὸς) η (ἔτους) (δραχμὰς) ιβ. (ἔτους) η Οὐεσπασιανοῦ
+r.3   τοῦ κυρίου Φαμε(νὼθ) ε, ὁμο(ίως) Παχὼ(ν)
+r.4   β (δραχμὰς) η, ὁμο(ίως) Ἐπεὶφ γ (δραχμὰς) γ(διώβολον), Ἐπὶφ ̣ ̣
+r.5   (τετρώβολον), ὁμο(ίως) Θὼτ κθ (δραχμὰς) β(τριώβολον), αἳ κ(αθαραὶ)
+r.6   (δραχμαὶ) β(διώβολον).
+
+[TRANSLATION]
+1   Psensentithoes son of Pibouchis paid, for
+2   poll-tax of the South-and-West (quarter), year 8, 12 dr. Year 8 of Vespasian
+3   the lord, Phamenoth 5; likewise Pachon
+4   2, 8 dr.; likewise Epeiph 3, 3 dr. 2 ob.; Epeiph ..,
+5   4 ob.; likewise Thoth 29, 2 dr. 3 ob., which net
+6   2 dr. 2 ob.

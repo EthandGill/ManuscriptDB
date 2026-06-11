@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 364 — Private receipt — part-payment of an agreed sum
+# Source: papyri.info DDbDP o.wilck;;364  (Trismegistos 76884)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 364
+label:    O.Wilck. 364
+name:     Private receipt — part-payment of an agreed sum
+genre:    receipts
+date:     24–25 CE (?)
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4458
+content:  Paemrautis acknowledges 12 of 16 dr.; 4 dr. remain, year 11
+tm:       76884
+source:   https://papyri.info/ddbdp/o.wilck;;364
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Παε̣μ̣ραῦτις Ἑριέως
+r.2   Πασήμει Φαῆρις χα(ίρειν). ἔχωι
+r.3   παρὰ σοῦ ἀπὸ τῆς συμφω-
+r.4   [νίας] ἀπὸ τῶν δραχμῶν
+r.5   [δέκα] ἓξ ἐπὶ λόγ(ο)υ δραχμ(ὰς)
+r.6   [δώδεκα] (γίνονται) (δραχμαὶ) ιβ, λοιπ(αὶ) (δραχμαὶ) δ.
+r.7   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ̣ ̣ ̣ ̣ (ἔτους) ια Τιβ(ε)ρίου
+
+[TRANSLATION]
+1   Paemrautis son of Herieus,
+2   to Pasemis son of Phaeris, greeting. I have
+3   from you, out of the agree-
+4   [ment], out of the [six-]
+5   [teen] drachmas, on account, drach(mas)
+6   [twelve] — total 12 dr.; remaining 4 dr.
+7   […]… Year 11 of Tiberius.

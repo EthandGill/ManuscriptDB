@@ -1,0 +1,73 @@
+# ───────────────────────────────────────────────
+# P.Oxy. 2.280 — Lease of farmland (μίσθωσις), 4 years
+# Source: papyri.info DDbDP p.oxy;2;280  (Trismegistos 20551)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy. 2.280
+label:    P.Oxy. 2.280
+name:     Lease of farmland (μίσθωσις), 4 years
+genre:    contracts
+date:     88/89 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cambridge, University Library Add. Ms. 4056
+content:  Dionysios leases 5 arouras near Tychis Nekotis to another Dionysios for 4 years at a fixed rent of 17 artabas of wheat; rotation clause; Oxyrhynchus
+tm:       20551
+source:   https://papyri.info/ddbdp/p.oxy;2;280
+lat:      28.5383
+lon:      30.6765
+
+[GREEK]
+r.1   ἐμίσθωσεν Διονύσιος Διονυσίου τοῦ Παυ-
+r.2   σιρίωνος τῶν ἀπʼ Ὀξυρύγχων πόλεως
+r.3   Διονυσίῳ Ἁρποχρατίωνος τοῦ Σαραπίωνο(ς)
+r.4   τῶν ἀπὸ τῆς αὐτῆς πόλεως Πέρσῃ τῆς ἐπι-
+r.5   γονῆς εἰς ἔτη τέσσαρα βροχὰς τέσσαρες ἀπὸ τ(οῦ)
+r.6   ἐνεστῶτος ὀγδώου ἔ[του]ς Αὐτοκράτορος
+r.7   Καίσαρος Δομιτιανοῦ Σεβαστοῦ Γερμανικοῦ
+r.8   τὰς ὑπαρχούσας αὐτῷ περὶ Τύχιν Νεκῶτιν
+r.9   ἐκ τοῦ μέσου περιχώματος καὶ τῆς πρότερο[ν]
+r.10   Ἀρτεμιδώρου δωραιᾶς ἀπὸ κοινωνικῶν
+r.11   ἀρουρῶν ἀρούρας πέντε , ὥστε ἐπὶ μὲν
+r.12   τὰ πρῶτα ἔτη τρία κατʼ ἔτος σπεῖραι καὶ ξυλα-
+r.13   μῆσαι ταύτας οἷς ἐὰν αἱρῆται γένεσι χωρὶς
+r.14   ἰσάτεως, ἐν δὲ τῷ ἐσχάτῳ ἐνιαυτῷ σπεῖραι
+r.15   τὸ μὲν ἥμισυ πυρῷ τὸ δʼ ἄλλο ἥμισυ ξυλα-
+r.16   μῆσαι ἀράκῳ, ἀφʼ οὗ τὸ μὲν ἥμισυ εἰς ἄρωσιν
+r.17   τὸ δὲ ἕτερον ἥμισυ εἰς κοπήν, ἀποτάκτου
+r.18   [φόρου πυρο]ῦ ἀρταβῶν δέκα ἑπτὰ ἀκιν-
+r.19   δ[ύνου κ]ατʼ ἔτος ἀπ̣ό̣τακτον παντὸς κιν-
+r.20   [δύνου] παραδεχομένης τ[ῷ] μεμισ-
+r.21   [θωμένῳ τ]ῆς ἐσομέν[ης] τ̣ὸ̣ τάχιστ̣[ον]
+r.22   [- ca.20 -]ησ[ ̣]τ̣ ̣[ ̣ ̣]
+r.23   [- ca.20 -]ο ̣[ ̣ ̣ ̣ ̣ ̣ ̣]
+r.24   μίσθ(ωσις) Διον(υσίου) ἀρο(υρῶν) ε περὶ [Τύχιν Νεκῶτιν].
+
+[TRANSLATION]
+1   Dionysios son of Dionysios son of Pau-
+2   sirion, of those from the city of Oxyrhynchus, leased
+3   to Dionysios son of Harpochration son of Sarapion,
+4   of those from the same city, a Persian of the epi-
+5   gone, for four years, four inundations, from the
+6   present eighth ye[ar] of Imperator
+7   Caesar Domitian Augustus Germanicus,
+8   the (arouras) belonging to him near Tychis Nekotis,
+9   from the middle embankment, and from the formerly-
+10   Artemidoros gift-land, from the jointly-held
+11   arouras, five arouras: so that for the
+12   first three years he is each year to sow and culti-
+13   vate them with whatever crops he chooses, except
+14   woad; and in the last year to sow
+15   the one half with wheat and to culti-
+16   vate the other half with arakos (vetch), of which the one half (is) for ploughing
+17   and the other half for cutting, at a fixed
+18   [rent of whe]at of seventeen artabas, free of
+19   ri[sk, k]ept fixed each year, free of every
+20   [risk], an allowance being made to the les-
+21   [see for the (land) that shall] very soon be (unwatered)
+22   […]
+23   […]
+24   Lease of Dionysios, of 5 arouras near [Tychis Nekotis].

@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 365 — Private money receipt
+# Source: papyri.info DDbDP o.wilck;;365  (Trismegistos 76885)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 365
+label:    O.Wilck. 365
+name:     Private money receipt
+genre:    receipts
+date:     28 Mar 26 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4821
+content:  Dionytous acknowledges 1 dr., year 12 of Tiberius
+tm:       76885
+source:   https://papyri.info/ddbdp/o.wilck;;365
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Διονυτοὺς Ψεναμ[ού]νιος Πικὼς Ὀννόφρις
+r.2   χ(αίρειν). ἔχω ὑπ(ὲρ) β̣ο̣α ̣ου (δραχμὴν) α. (ἔτους) ιβ Τιβερίους
+r.3   Καίσαρως Σεβαστοῦ Φαρμοῦθι
+r.4   β.
+
+[TRANSLATION]
+1   Dionytous son of Psenamounis, to Pikos son of Onnophris,
+2   greeting. I have, for … , 1 drachma. Year 12 of Tiberius
+3   Caesar Augustus, Pharmouthi
+4   2.

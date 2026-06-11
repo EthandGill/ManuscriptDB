@@ -1,0 +1,111 @@
+# ───────────────────────────────────────────────
+# P.Oxy. 2.278 — Lease of a millstone (μίσθωσις μύλου)
+# Source: papyri.info DDbDP p.oxy;2;278  (Trismegistos 20549)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy. 2.278
+label:    P.Oxy. 2.278
+name:     Lease of a millstone (μίσθωσις μύλου)
+genre:    contracts
+date:     26 Jan 17 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    London, British Library Pap 795
+content:  Isidoros leases one full-grown Theban millstone to Herakleios from Mecheir to the 5th epagomenal day at 2 dr. 3 ob. per month; restore-or-pay-100-dr. clause; year 3 of Tiberius
+tm:       20549
+source:   https://papyri.info/ddbdp/p.oxy;2;278
+lat:      28.5383
+lon:      30.6765
+
+[GREEK]
+r.1   ἐμ[ίσθωσεν Ἰσίδωρο]ς Ἰσιδώρου
+r.2   Ἡρα[κλείῳ Σωτ]ηρ[ίχου Π]έρ[σ]ῃ τῆς ἐ[πι-]
+r.3   γον[ῆς ἐκ τῶν] ὑπ[αρ]χ[ό]ντων αὐτῶι
+r.4   μύλ[ων μύλο]ν ἕν[α] τ[έ]λει[ο]ν Θηβαει-
+r.5   κὸν [ἀπὸ τοῦ ἐ]νεστ[ῶ]τος μηνὸς Μεχεὶρ
+r.6   μέχ[ρι Μεσορ]ὴ ἐπαγομένων πέμπτης
+r.7   τοῦ α[ὐτοῦ ἐνεσ]τῶτος τρίτου ἔ[τ]ους
+r.8   Τιβ[ερίου Κ]αί[σα]ρος Σεβαστοῦ, ἐνοικίου
+r.9   τοῦ ἑσταμέ[ν]ου πρὸς ἀλλήλους
+r.10   ὑπὲ[ρ] τοῦ σημ[αι]νομένου μύλου ἑκάστου
+r.11   μ[ηνὸ]ς ἀργ[υρί]ου δραχμάς δύο τριωβόλ(ων)
+r.12   ἀ[ποδ]ιδότ[ωι] δὲ ὁ μ[εμι]σθωμένος
+r.13   τῶ[ι Ἰσι]δώρ[ω]ι τὸ κατὰ [μ]ῆνα τοῦ μύλου
+r.14   ἐνόκιον ἄν[ευ] πάσης [ὑ]περθέσ[ε]ως.
+r.15   ἀκίνδυνος δὲ ὁ μύλ[ος] καὶ τὸ ἐνοίκιον
+r.16   παν[τὸ]ς κινδύνου, καὶ μετὰ τὸν χρόνον
+r.17   ἀπ[οκα]ταστησάτωι ὁ μά̣νης τὸν μύλον
+r.18   ὑγιηι καὶ ἀσινηι , οἷον καὶ παρείληφεν,
+r.19   ὅπου [ἐ]ὰν συντάσσηι ὁ Ἰσίδωρος ἐν Ὀ-
+r.20   ξυρύγχων π[ό]λει, ἢ τὴν ἑσταμένην
+r.21   τούτου τ[ι]μὴ[ν] ἀργυρίου δραχμὰς ἑκατόν ,
+r.22   ἑκάστου δὲ μ[η]νὸς οὗ ἐὰν μὴ ἀποδῶι,
+r.23   τὸ ἐνόκιον μεθʼ ἡμιολίας, τῆς πρά-
+r.24   ξεως [ο]ὔσης [τ]ῶι Ἰσιδώρωι ἔκ τε τοῦ
+r.25   μεμισθωμένου κα[ὶ] ἐκ τῶν ὑπαρ-
+r.26   χόντων αὐτῶι πάντων, καθάπερ
+r.27   ἐγ δίκης. κυρία ἡ μ[ίσ]θωσις πανταχηι
+r.28   ἐπιφερομένηι .
+r.29   (ἔτους) γ Τιβερίου Καίσαρος Σεβαστοῦ, Μεχ(εὶρ) α.
+r.30   (hand 2) Ἡρά[κλε]ιος Σωτηρίχου μεμίσθωμαι
+r.31   τὸν μύλον ἕως ἐπαγομένων
+r.32   πέμπτης, καὶ ἀποδώσω τὸ κα-
+r.33   τὰ μῆνα ἐνοίκιο[ν], καὶ μετὰ τὸν
+r.34   χρόνον ἀποκαταστήσω τὸν μύ-
+r.35   λον ὑγιῆ ἢ τὴν τ[ου] τειμὴν
+r.36   δρα[χ]μὰς ἑκατό[ν] , καθότι πρό-
+r.37   κειται. Διονύσιος Διον[υ]σίου
+r.38   γέγραφα ὑπὲρ αὐτοῦ μὴ εἰ-
+r.39   δότος γραμμα .
+r.40   (ἔτους) γ Τιβερίου Καίσαρος Σεβαστοῦ
+r.41   Μεχε[ὶ]ρ α. v
+r.42   (hand 1) ἔτους γ Τ[ι]βερίου Καίσαρ[ο]ς Σεβαστοῦ, Μεχ(εὶρ) α.
+r.43   μ[ί]σ[θ(ωσις)] Ἰσιδώ[ρ]ο(υ) π̣[ρὸ]ς Ἡ[ρ]άκλ[ειο]ν.
+
+[TRANSLATION]
+1   Isidoro]s son of Isidoros [lea]sed
+2   to Hera[kleios son of Sot]er[ichos, a P]er[s]ian of the epi-
+3   gon[e, from the] mil[ls bel]on[g]ing to him,
+4   one full-grown Theban mil[lsto]ne,
+5   [from the pr]esent month Mecheir
+6   unti[l Mesor]e, the fifth epagomenal day
+7   of the s[ame pres]ent third ye[a]r
+8   of Tib[erius C]ae[sa]r Augustus, at a rent
+9   fixed between one another
+10   for the indicated mill, each
+11   m[onth], of sil[ve]r, two drachmas, three obols.
+12   And let the [le]ssee [pay]
+13   to [Isi]dor[o]s the monthly rent of the mill
+14   with[out] any [p]ostpon[e]ment.
+15   And the mil[l] and the rent are free
+16   of ev[er]y risk; and after the period
+17   let the slave(?) (manes) [resto]re the mill
+18   sound and undamaged, just as he received it,
+19   wherever [I]sidoros directs, in O-
+20   xyrhynchus ci[t]y, or (pay) the fixed
+21   price of it, of silver, one hundred drachmas;
+22   and for each m[o]nth in which he does not pay,
+23   the rent with half as much again, the right of exe-
+24   cution belonging [t]o Isidoros both from the
+25   lessee an[d] from all his pos-
+26   sessions, just as
+27   by legal judgement. The le[a]se is valid, every-
+28   where produced.
+29   Year 3 of Tiberius Caesar Augustus, Mech(eir) 1.
+30   (2nd hand) I, Hera[kle]ios son of Soterichos, have leased
+31   the mill until the fifth epago-
+32   menal day, and I will pay the
+33   monthly rent, and after the
+34   period I will restore the mil-
+35   l sound, or its price,
+36   one hundred dra[ch]mas, as is
+37   stated above. I, Dionysios son of Dion[y]sios,
+38   have written on his behalf, as he does not
+39   know letters.
+40   Year 3 of Tiberius Caesar Augustus,
+41   Meche[i]r 1. (verso)
+42   (1st hand) Year 3 of Tiberius Caesar Augustus, Mech(eir) 1.
+43   Le[as]e of Isidoros to He[r]akl[eio]s.

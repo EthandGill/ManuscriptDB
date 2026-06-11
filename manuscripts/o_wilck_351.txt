@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 351 — Bank receipt — penalty (πρόστιμον), bank of Hermonthis
+# Source: papyri.info DDbDP o.wilck;;351  (Trismegistos 43486)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 351
+label:    O.Wilck. 351
+name:     Bank receipt — penalty (πρόστιμον), bank of Hermonthis
+genre:    receipts
+date:     6 Mar 122 BCE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 3977
+content:  Penalty of 3000 dr. + dues, paid into the Hermonthis bank, year 48
+tm:       43486
+source:   https://papyri.info/ddbdp/o.wilck;;351
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   ἔτους μη Μεχεὶρ ιε τέ(τακται) ἐπὶ τὴν
+r.2   ἐν Ἑρμ(ώνθει) τρά(πεζαν), ἐφʼ ἧς Ἀμμώ(νιος), προστί(μου)
+r.3   Λυσίμαχος Λυσιμάχου τῶι
+r.4   πρότερον γρα(φέντι) τοῦ ἴσου μὴ χ[ρήσηι]
+r.5   τρισχιλίας (γίνονται) Γ καὶ τὰ καθή(κοντα) τέλ(η).
+r.6   Ἀμμώνιος τρα(πεζίτης).
+
+[TRANSLATION]
+1   Year 48, Mecheir 15. There has been paid into the
+2   bank at Hermonthis, at which Ammonios (presides): of a penalty —
+3   Lysimachos son of Lysimachos, that he do not make use of the
+4   equivalent written earlier(?) —
+5   three thousand — total 3000, and the appropriate dues.
+6   Ammonios banker.

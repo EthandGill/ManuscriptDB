@@ -1,0 +1,83 @@
+# ───────────────────────────────────────────────
+# BGU 4.1092 — Lease of farmland (μίσθωσις), Hermopolite
+# Source: papyri.info DDbDP bgu;4;1092  (Trismegistos 18530)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1092
+label:    BGU 4.1092
+name:     Lease of farmland (μίσθωσις), Hermopolite
+genre:    contracts
+date:     1 Sept 372 CE
+language: Greek (Koiné)
+found:    Hermopolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 11037
+content:  Aurelius Silvanus leases a farm-plot near Thrage (Hermopolite) for one sowing; rent 6 art. wheat / 4 art. barley per aroura; consular dating
+tm:       18530
+source:   https://papyri.info/ddbdp/bgu;4;1092
+lat:      27.7803
+lon:      30.8016
+
+[GREEK]
+r.1   [ὑπα]τείας Δομιττίου Μοδέστου τοῦ ἐπάρχου
+r.2   [τοῦ ἱε]ροῦ πραι[τ]ωρίου καὶ Ἀρινθέου τοῦ λαμπροτάτου
+r.3   κ̣όμ̣ι̣τος καὶ μαγ[ί]στρου στρατιωτῶν Θὼθ δ.
+r.4   Αὐρηλίῳ Ἑρμείνῳ Ἑρμείου πολιτευομένῳ Ἑρμοῦ πόλεως
+r.5   τῆς μεγάλης καὶ λαμπροτάτης
+r.6   πα[ρὰ] Αὐ[ρ]ηλίου Σιλβανοῦ Ἑρμοδώρου πολιτευομένου τῆς
+r.7   α[ὐτ]ῆς πόλεως. ὁ[μο]λογῶ ἑκουσίως καὶ αὐθαιρέτως
+r.8   [μ]ε[μι]σθῶσθαι π[α]ρ[ὰ σο]ῦ πρὸς μόνην τὴν εὐτυχῶς ἐσομέ-
+r.9   νην κ[ατ]ασπορὰ[ν] τῆς ἑκκαιδεκάτης ἤτοι πρώτης ἰ νδικτί(ονος),
+r.10   καρπῶν δευτέρα[ς] τὸ ὑ πάρχον σοι γεώργιον ἀρουρῶν
+r.11   ὅσων ἐστί, ἐν ᾧ λάκκος, καὶ χρηστηρίων πάντων τοὺ
+r.12   ἐν πε[δ]ίοις κώ[μη]ς Θραγὴ τοῦ Ἑρμουπολίτου εἰς σπορὰν
+r.13   καὶ κατάθεσιν ὧν ἐὰν αἱρῶμαι, φόρου ἀποτάκτου τοῦ
+r.14   πρὸς ἀλλήλους σ[υ]μπεφωνημένου ἑκάστης ἀρους
+r.15   τῆ[ς] ἐκ γεωμετρί[ας κα]ιρῷ φανησομένης δικαίῳ σχοινίῳ
+r.16   ἐν αὐτῇ τῇ καστ[α]σ̣π̣ορᾷ , τῶν μὲν ἐν ἀναπαύμασι κατα-
+r.17   τιθεμένων ἐ[ν π]υρῷ ἀρουρῶν εἴκοσι πυροῦ
+r.18   ἀρταβῶν ἕξ , τὰ̣ς δὲ λοιπὰς κατατιθεμένας ἐν ὀσπραίοις
+r.19   κριθῶν ἀρταβ[ῶ]ν τεσσάρων . ὅνπερ φόρον συναγόμε-
+r.20   νον καὶ φανησό̣[μ]ενον ἀποδώσω σοι καὶ μετρήσ̣ω
+r.21   καιρῷ συνκομιδ̣ῆς, πυρὸν καὶ κριθὰς νέα καθαρὰ ἀβολω
+r.22   ἄδολα κεκοσκιν[ε]υμένα τῷ Ἐπεὶφ μηνὶ τῆς αὐτῆς
+r.23   δευτέρας ἰ νδι[κτίον]ος μέτρῳ Ἀθηναίῳ ἐφʼ ἁλώνων
+r.24   τῆς αὐτῆς κώ[μης, τῶ]ν δημοσίων παντοίων πρὸς σὲ
+r.25   Ἑρμεῖνον. εἰ δ[ὲ μ]ὴ ἐ̣ξεῖναί σ̣οι μετὰ ταῦτα ἑτ̣έρῳ ἐκμι-
+r.26   σασθαι . ἡ μίσθω[σις] κυρία καὶ ἐπερωτηθ(εὶς) ὡμολ(όγησα) Θὼθ δ.
+r.27   (hand 2) Αὐρ(ήλιος) Σιλβανὸς Ἑρμοδώρου μεμίσθωμαι ὡ̣ς πρό-
+r.28   κειται, παρέ̣ξ̣ω δέ σοι κριθινοῦ ἀχύρου
+r.29   γύργαθα δύ[ο] .
+
+[TRANSLATION]
+1   In the consulship of Domitius Modestus, prefect
+2   [of the sa]cred praetorium, and of Arinthaeus, the most illustrious
+3   count and master of soldiers, Thoth 4.
+4   To Aurelius Hermeinos son of Hermeias, councillor of Hermopolis
+5   the great and most illustrious,
+6   fr[om] Au[r]elius Silvanus son of Hermodoros, councillor of the
+7   s[am]e city. I agree, willingly and of my own choice,
+8   to have [le]ased fr[om yo]u, for the single coming (and) prosperous
+9   sowing of the sixteenth — that is, first — indiction,
+10   of the second harvest, the farm-plot belonging to you, of
+11   however many arouras, in which (there is) a cistern, and all the equipment, the (land)
+12   in the fields of the village of Thrage of the Hermopolite (nome), for sowing
+13   and planting with whatever I choose, at a fixed rent
+14   agreed between us, for each aroura
+15   of those that shall appear by survey at the time, by a just measuring-cord,
+16   at the very sowing: of those laid down in fallow-rotation
+17   in wheat, twenty arouras, at six artabas
+18   of wheat (each); and the remaining ones laid down in pulses,
+19   at four artabas of barley (each). Which rent, gathered
+20   and shown (to be due), I will pay you and measure out
+21   at harvest-time — wheat and barley, new, clean, free of clods,
+22   unadulterated, sieved — in the month Epeiph of the same
+23   second indiction, by the Athenian measure, at the threshing-floors
+24   of the same village, the public dues of all kinds being charged to you,
+25   Hermeinos. And if not, it shall not be permitted to you afterwards to lease (it) to another.
+26   The lease is valid, and, on being formally questioned, I agreed. Thoth 4.
+27   (2nd hand) I, Aur(elius) Silvanus son of Hermodoros, have leased as a-
+28   bove, and I will furnish you two baskets
+29   of barley-chaff.

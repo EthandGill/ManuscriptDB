@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 489 — Dike-tax receipt (χωματικόν), South-and-West quarter
+# Source: papyri.info DDbDP o.wilck;;489  (Trismegistos 76999)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 489
+label:    O.Wilck. 489
+name:     Dike-tax receipt (χωματικόν), South-and-West quarter
+genre:    receipts
+date:     after 28 Jan 98 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 166 [ostracon
+content:  Dike-tax of the South-and-West quarter, year 1 of Trajan
+tm:       76999
+source:   https://papyri.info/ddbdp/o.wilck;;489
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διέ(γραψεν) Πακοῖβις Πετεχώ[νσιος] [μη(τρὸς)].
+r.2   Σεναβ(ῶτος) ὑπ(ὲρ) χω(ματικοῦ) Ν(ότου) καὶ Λ(ιβὸς) α (ἔτους)
+r.3   (δραχμὰς) ἓξ(τετρώβολον) κ(αὶ π)ρο(σδιαγραφόμενα). (ἔτους) α Τραιανοῦ
+r.4   τοῦ κυρίου ⁦ -ca.?- ⁩ .
+r.5   λκγ. Φα ̣( ) ̣
+
+[TRANSLATION]
+1   Pakoibis son of Petecho[nsis], [mother]
+2   Senabos, paid, for dike-tax of the South-and-West (quarter), year 1,
+3   six drachmas, four obols, and surcharges. Year 1 of Trajan
+4   the lord, … .
+5   23(?). Pha…( ) …

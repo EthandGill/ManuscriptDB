@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 476 — Weavers'-tax receipt (γέρδιοι)
+# Source: papyri.info DDbDP o.wilck;;476  (Trismegistos 76986)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 476
+label:    O.Wilck. 476
+name:     Weavers'-tax receipt (γέρδιοι)
+genre:    receipts
+date:     24 Jun 89 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4479
+content:  Weavers'-tax of year 8 of Domitian
+tm:       76986
+source:   https://papyri.info/ddbdp/o.wilck;;476
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) Πεκῦσις Ὥρο(υ) ὑπ(ὲρ) γερδ(ίων) η (ἔτους)
+r.2   (δραχμὰς) τέσσαρες (γίνονται) δ καὶ το(ύτων) προ(σδιαγραφόμενα).
+r.3   (ἔτους) η Δομιτιανοῦ τοῦ κυρίου
+r.4   Παῦνι λ. Ἡρακ(λείδης) σεση(μείωμαι).
+
+[TRANSLATION]
+1   Pekysis son of Horos paid, for the weavers'(-tax) of year 8,
+2   four drachmas — total 4 — and surcharges on these.
+3   Year 8 of Domitian the lord,
+4   Pauni 30. Herakleides, I have signed.

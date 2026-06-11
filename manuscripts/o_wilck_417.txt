@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 417 — Temple-collection receipt — public dues
+# Source: papyri.info DDbDP o.wilck;;417  (Trismegistos 76928)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 417
+label:    O.Wilck. 417
+name:     Temple-collection receipt — public dues
+genre:    receipts
+date:     5 Mar 67 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1573
+content:  Receipt of 4 dr. 2 ob. for the public dues, year 13 of Nero
+tm:       76928
+source:   https://papyri.info/ddbdp/o.wilck;;417
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ψεναμοῦνις Πεκύσιος φεννῆσι Πιβούχ(ι)
+r.2   Πετεήσιο(ς) χαίρειν. ἀπέχω παρὰ σοῦ (δραχμὰς) δ(διώβολον) ὑπ(ὲρ)
+r.3   τῶν δημωσίων ιγ (ἔτους) Νέρωνος τοῦ κυ-
+r.4   ρίου Φαμενὼ(θ) θ.
+
+[TRANSLATION]
+1   Psenamounis son of Pekysis, phennesis, to Pibouchis
+2   son of Peteesis, greeting. I have received from you 4 dr. 2 ob., for
+3   the public dues, year 13 of Nero the
+4   lord, Phamenoth 9.

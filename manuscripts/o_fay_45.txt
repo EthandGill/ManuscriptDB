@@ -1,0 +1,29 @@
+# ───────────────────────────────────────────────
+# O.Fay. 45 — Note / order
+# Source: papyri.info DDbDP o.fay;;45  (Trismegistos 26358)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 45
+label:    O.Fay. 45
+name:     Note / order
+genre:    receipts
+date:     1st c. CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 45
+content:  Note: do not trouble the people of Sambas, Euhemeria
+tm:       26358
+source:   https://papyri.info/ddbdp/o.fay;;45
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   μὴ ὤχλει τοὺς
+r.2   Σαμβᾶτος.
+
+[TRANSLATION]
+1   Do not trouble the (people)
+2   of Sambas.

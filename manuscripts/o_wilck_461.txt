@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 461 — Poll-tax and guards'-pay receipt with instalments
+# Source: papyri.info DDbDP o.wilck;;461  (Trismegistos 76971)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 461
+label:    O.Wilck. 461
+name:     Poll-tax and guards'-pay receipt with instalments
+genre:    receipts
+date:     1 Aug 84 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4323
+content:  Poll-tax + guards'-pay instalments, year 3 of Domitian, Hermonthis
+tm:       76971
+source:   https://papyri.info/ddbdp/o.wilck;;461
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέγρα(ψεν) Καμῆτις Καμήτιος Π(ετεα)ρπ(ρήους)
+r.2   ὑπ(ὲρ) λαο(γραφίας) Νότου καὶ Λιβ(ὸς) γ (ἔτους) (δραχμὰς) η. (ἔτους) γ Δομ(ιτιαν)οῦ
+r.3   Καίσαρος τοῦ κυρίου Φαρμοῦθι λ (hand 2) ὁμο(ίως)
+r.4   Παχὼ(ν) ε (δραχμὰς) δ, ὁμο(ίως) θ (δραχμὰς) δ,
+r.5   ὁμ(οίως) Παῦνι κβδ, ὁμο(ίως) Ἐ(πὶ)φ β
+r.6   (δραχμὰς) δ, ὁμο(ίως) Με(σο)ρὴ ηβ (ὀβολοὺς) β𐅵, αἱ κ(αὶ) β (ὀβολὸς) α𐅵 χ(αλκοῦς 1),
+r.7   ὁμο(ίως) ὑπ(ὲρ) ὀψω(νίου) φυλ(άκων) γ (ἔτους) (δραχμὴν) α.
+
+[TRANSLATION]
+1   Kametis son of Kametis, (grand)son of Petearpres, paid,
+2   for poll-tax of the South-and-West (quarter), year 3, 8 dr. Year 3 of Domitian
+3   Caesar the lord, Pharmouthi 30. (2nd hand) Likewise
+4   Pachon 5, 4 dr.; likewise (on the) 9th, 4 dr.;
+5   likewise Pauni 22, 4 (dr.); likewise Epeiph 2,
+6   4 dr.; likewise Mesore 8, 2 (dr.) 2½ ob., (= ) 2 (dr.) 1½ ob. 1 chalkous,
+7   likewise for the guards' pay of year 3, 1 dr.

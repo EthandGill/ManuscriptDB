@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# P.Oxy. 2.296 — Private letter: Herakleides to Asklatas
+# Source: papyri.info DDbDP p.oxy;2;296  (Trismegistos 20567)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy. 2.296
+label:    P.Oxy. 2.296
+name:     Private letter: Herakleides to Asklatas
+genre:    letters
+date:     24 Mar 37 CE (year uncertain)
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Baltimore, Johns Hopkins University P. Oxy. 296
+content:  Herakleides tells Asklatas to hand the courier the poll-tax and dyke-tax (naubion) of Mnesitheos and to report on the account-books
+tm:       20567
+source:   https://papyri.info/ddbdp/p.oxy;2;296
+lat:      28.5383
+lon:      30.6765
+
+[GREEK]
+r.1   Ἡρακληείδης Ἀσκλατᾶι
+r.2   χ(αίρειν).
+r.3   δὸς τῷ κομείζοντί σου τὴν
+r.4   ἐπιστολὴν τὴν λαογραφίαν
+r.5   Μνησιθέου καὶ τὸ ναύβιον,
+r.6   καὶ πέμψον ἡμεῖν περὶ
+r.7   τῶν βιβλίον ᾗ ἐξήρτισας.
+r.8   ἔρρω(σο).
+r.9   (ἔτους) α, μηνὸς Φαμε(νὼθ) κη.
+
+[TRANSLATION]
+1   Herakleides, to Asklatas,
+2   gr(eetings).
+3   Give to the one carrying you the
+4   letter the poll-tax
+5   of Mnesitheos and the dyke-tax (naubion),
+6   and send us (word) about
+7   the books which you completed.
+8   Farewell.
+9   Year 1, month Phamenoth 28.

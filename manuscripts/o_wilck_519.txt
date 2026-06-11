@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 519 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;519  (Trismegistos 77029)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 519
+label:    O.Wilck. 519
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+genre:    receipts
+date:     24 Nov 118 CE (year uncertain)
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4460
+content:  Dike-tax + bath-tax of the Charax quarter, year 3 of Hadrian
+tm:       77029
+source:   https://papyri.info/ddbdp/o.wilck;;519
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἀπολλόδ(ωρος) πράκ(τωρ)
+r.2   Παμώνθ(ῃ) Ἁρβήχιο(ς).
+r.3   ἔσχ(ον) ὑπ(ὲρ) χω(ματικοῦ) καὶ βαλ(ανικοῦ)
+r.4   Χά(ρακος) γ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) ἑπτὰ (τριώβολον) χ(αλκοῦς 2).
+r.5   (ἔτους) γ Ἁδριανοῦ Καίσαρος
+r.6   τοῦ κυρίου Ἁθὺρ κη.
+r.7   Πο̣ρι̣ε̣ύ̣(θης(?)) σεση(μείωμαι).
+
+[TRANSLATION]
+1   Apollodoros, collector,
+2   to Pamonthes son of Harbechis.
+3   He received, for dike-tax and bath-tax
+4   of the Charax (quarter), year 3, in base (coin), seven drachmas, 3 obols, 2 chalkoi.
+5   Year 3 of Hadrian Caesar
+6   the lord, Hathyr 28.
+7   Porieuthes(?), I have signed.

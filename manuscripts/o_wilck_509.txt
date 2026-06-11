@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 509 — Watchtower-tax receipt (σκόπελος), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;509  (Trismegistos 77019)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 509
+label:    O.Wilck. 509
+name:     Watchtower-tax receipt (σκόπελος), Charax quarter
+genre:    receipts
+date:     16 Jun 114 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4245
+content:  Watchtower-tax of the Charax quarter, year 17 of Trajan
+tm:       77019
+source:   https://papyri.info/ddbdp/o.wilck;;509
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἰμούθης καὶ (μέτοχοι) … αι …
+r.2   Χεσφμόις. ἔσχ(ομεν) ὑπ(ὲρ) σκοπ(έλου) Χά(ρακος) ιζ (ἔτους)
+r.3   κέ(ρματος) ὀβ(ολοὺς) δέκα ἓξ (γίνονται) κέ(ρματος) ὀβ(ολοὶ) ιϛ.
+r.4   (ἔτους) ιζ Τραιανοῦ τοῦ κυρίου
+r.5   Παῦνι κβ…
+
+[TRANSLATION]
+1   Imouthes and (partners), … ai …,
+2   to Chesphmois. We have received, for the watchtower(-tax) of the Charax (quarter), year 17,
+3   in coin, sixteen obols — total 16 coin(-obols).
+4   Year 17 of Trajan the lord,
+5   Pauni 22…

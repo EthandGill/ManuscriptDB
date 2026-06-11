@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 481 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;481  (Trismegistos 76991)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 481
+label:    O.Wilck. 481
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+genre:    receipts
+date:     31 Mar 93 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. number unknown
+content:  Poll-tax + bath-tax of the Charax quarter, year 12 of Domitian
+tm:       76991
+source:   https://papyri.info/ddbdp/o.wilck;;481
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρ(άφηκεν) Ἀβὼς Καμήτ[ιος]
+r.2   ὑπ(ὲρ) λαο(γραφίας) Χά(ρακος) ιβ (ἔτους) (δραχμὰς) δέκα , βα(λανικοῦ) α (ὀβολὸν) α𐅵
+r.3   (γίνονται) ια (ὀβολὸς) α𐅵 καὶ προ(σδιαγραφόμενα). (ἔτους) ιβ Δομιτιανοῦ
+r.4   τοῦ κυρίου Φαμε(νὼθ) λ‡7ε. Ἡρακ(λείδης) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1   Abos son of Kametis paid,
+2   for poll-tax of the Charax (quarter), year 12, ten drachmas; bath-tax 1 dr. 1½ ob.,
+3   total 11 (dr.) 1½ ob., and surcharges. Year 12 of Domitian
+4   the lord, Phamenoth 5(?). Herakleides, I have signed.

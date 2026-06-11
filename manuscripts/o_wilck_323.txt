@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 323 — Private receipt — levy of the old cavalry
+# Source: papyri.info DDbDP o.wilck;;323  (Trismegistos 44004)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 323
+label:    O.Wilck. 323
+name:     Private receipt — levy of the old cavalry
+genre:    receipts
+date:     17 May 108 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 505
+content:  Theodoros acknowledges 180 dr., levy of the 'old cavalry', year 9
+tm:       44004
+source:   https://papyri.info/ddbdp/o.wilck;;323
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Θεόδωρος Ταυρώκᾳ
+r.2   τῷ ἀδελφῷ χαίρειν.
+r.3   ἔχω παρὰ σοῦ τοῦ
+r.4   (ἔτους) θ Παχὼν α ἀρχαίων
+r.5   ἱππέων δραχμὰς
+r.6   ἑκατὸν ὀδωκοντα
+r.7   (γίνονται) ρπ.
+
+[TRANSLATION]
+1   Theodoros to Tauroka
+2   his brother, greeting.
+3   I have from you, of the
+4   year 9, Pachon 1, (the levy) of the old
+5   cavalrymen: drachmas
+6   one hundred eighty
+7   — total 180.

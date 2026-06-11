@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 529 — Watchtower-, guard- and other-taxes receipt, Charax quarter
+# Source: papyri.info DDbDP o.wilck;;529  (Trismegistos 77039)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 529
+label:    O.Wilck. 529
+name:     Watchtower-, guard- and other-taxes receipt, Charax quarter
+genre:    receipts
+date:     20 Nov 122 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4365
+content:  Watchtower + guard + others of year 7 of Hadrian, Thebes
+tm:       77039
+source:   https://papyri.info/ddbdp/o.wilck;;529
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Πόστ(ουμος) ὁ καὶ Ὧρο(ς) Ποστ(ούμου) Φατρήτ(ι) Βήχιος
+r.2   (ὁμοίως). ἔσχο(ν) ὑπ(ὲρ) σκοπ(έλου) καὶ φυλ(ακῆς) καὶ ἄλ(λων) ἑβ-
+r.3   δόμου ἔτους ῥυπ(αρὰς) δραχ(μὰς) τέσσαρας
+r.4   κέρματ(ος) ὀβολ(οὺς) πέντε (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) δ (ὀβολοὶ) ε.
+r.5   (ἔτους) ζ Ἁδριανοῦ Καίσαρος τοῦ
+r.6   κυρίου Ἁθὺρ κδ.
+
+[TRANSLATION]
+1   Postumus also called Horos, son of Postumus, (to) Phatres son of Bechis,
+2   likewise. He received, for the watchtower(-tax) and guard(-tax) and others of the sev-
+3   enth year, in base (coin), four drachmas,
+4   five obols in coin — total, base, 4 dr. 5 ob.
+5   Year 7 of Hadrian Caesar the
+6   lord, Hathyr 24.

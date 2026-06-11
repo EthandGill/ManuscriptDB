@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 385 — Builders'-tax receipt (μερισμὸς οἰκοδόμων)
+# Source: papyri.info DDbDP o.wilck;;385  (Trismegistos 76902)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 385
+label:    O.Wilck. 385
+name:     Builders'-tax receipt (μερισμὸς οἰκοδόμων)
+genre:    receipts
+date:     26 Feb – 26 Mar 40 CE (month/day uncertain)
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4379
+content:  Builders'-tax of year 4 of Gaius (Caligula)
+tm:       76902
+source:   https://papyri.info/ddbdp/o.wilck;;385
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρά(φηκεν(?)) Πικὼς Ψενμώ(νθου) ὑπ(ὲρ) οἰκοδ(όμων)
+r.2   δ (ἔτους) (δραχμὰς) δέκα ὀκτὼι δυωβολ (γίνονται) (δραχμαὶ) ιη(διώβολον)
+r.3   καὶ τὰ προ(σδιαγραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου). (ἔτους) δ Γαίου Καίσαρος
+r.4   Σεβαστοῦ Γερμανικοῦ μηνὸς
+r.5   Σεβαστοῦ σεβαστῆι. Π ̣ ̣ ̣ τρα(πεζίτης).
+
+[TRANSLATION]
+1   Has paid(?): Pikos son of Psenmonthes, for the builders'(-tax)
+2   of year 4, eighteen drachmas, two obols — total 18 dr. 2 ob.,
+3   and the surcharges at an obol (and) half-obol. Year 4 of Gaius Caesar
+4   Augustus Germanicus, month
+5   Sebastos, the Sebaste day. P… banker.

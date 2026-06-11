@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 437 — Poll-tax and guards'-pay receipt with instalments
+# Source: papyri.info DDbDP o.wilck;;437  (Trismegistos 76948)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 437
+label:    O.Wilck. 437
+name:     Poll-tax and guards'-pay receipt with instalments
+genre:    receipts
+date:     22 Aug 75 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4308
+content:  Poll-tax + guards'-pay instalments, year 7 of Vespasian, Hermonthis
+tm:       76948
+source:   https://papyri.info/ddbdp/o.wilck;;437
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέ(γραψεν) Ψενσεντιθοὴς Πιβούχιο(ς)
+r.2   ὑπ(ὲρ) λαογ(ραφίας) Ν(ότο)υ κ(αὶ) Λιβ(ὸς) ζ (ἔτους) (δραχμὰς) ιϛ. (ἔτους) ζ
+r.3   Οὐεσπασιανοῦ τοῦ κυρίου Φαμενὼ(θ) ιζ.
+r.4   (hand 2) ὁμο(ίως) Παχὼ(ν) κζ (δραχμὰς) δ, ὁμο(ίως) Ἐπὶφ β
+r.5   ὑπ(ὲρ) β ̣ο( ) ζ (ἔτους) (δραχμὰς) β, ὁμο(ίως) ὑπ(ὲρ) υ ̣ ̣ ̣ζ (ἔτους) (δραχμὴν) α(διώβολον),
+r.6   ὁμο(ίως) Μ(εσο)ρὴ κθ (δραχμὰς) γ(ὀβολὸν), αἱ κ(αὶ) (δραχμαὶ) β (ὀβολοὶ) ε𐅵.
+r.7   (hand 3) ὁμοί(ως) ζ (ἔτους) Παχὼν κζ ὑπ(ὲρ) ὀψω(νίου) φυλ(άκων)
+r.8   Νό(του) καὶ Λι(βὸς) ζ (ἔτους) (δραχμὴν) α (ὀβολοὺς) β𐅵.
+
+[TRANSLATION]
+1   Psensentithoes son of Pibouchis paid,
+2   for poll-tax of the South-and-West (quarter), year 7, 16 dr. Year 7
+3   of Vespasian the lord, Phamenoth 17.
+4   (2nd hand) Likewise Pachon 27, 4 dr.; likewise Epeiph 2,
+5   for b( ) of year 7, 2 dr.; likewise for u…, of year 7, 1 dr. 2 ob.,
+6   likewise Mesore 29, 3 dr. 1 ob., which are 2 dr. 5½ ob.
+7   (3rd hand) Likewise (in) year 7, Pachon 27, for the guards' pay
+8   of the South-and-West (quarter), year 7, 1 dr. 2½ ob.

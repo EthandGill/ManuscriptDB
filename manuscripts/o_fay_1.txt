@@ -1,0 +1,29 @@
+# ───────────────────────────────────────────────
+# O.Fay. 1 — Tax receipt (money)
+# Source: papyri.info DDbDP o.fay;;1  (Trismegistos 40848)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 1
+label:    O.Fay. 1
+name:     Tax receipt (money)
+genre:    receipts
+date:     13 Jan 25 BCE
+language: Greek (Koiné)
+found:    Philoteris (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 1
+content:  Money payment, year 5 of Caesar (Augustus)
+tm:       40848
+source:   https://papyri.info/ddbdp/o.fay;;1
+lat:      29.42
+lon:      30.4
+
+[GREEK]
+r.1   (ἔτους) ε Καίσαρος, δι(έγραψεν)
+r.2   Ἡρακλ( ) Τῦβ(ι) ιζ (δραχμὰς) δ.
+
+[TRANSLATION]
+1   Year 5 of Caesar: paid,
+2   Herakl( ), Tybi 17, 4 drachmas.

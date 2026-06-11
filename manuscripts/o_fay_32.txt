@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Fay. 32 — Granary receipt — clean wheat (Theadelphia)
+# Source: papyri.info DDbDP o.fay;;32  (Trismegistos 32269)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 32
+label:    O.Fay. 32
+name:     Granary receipt — clean wheat (Theadelphia)
+genre:    receipts
+date:     3rd c. CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 32
+content:  9 artabas of clean wheat to the public granary, Theadelphia
+tm:       32269
+source:   https://papyri.info/ddbdp/o.fay;;32
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   ἰς τὸ(ν) δη(μόσιον) θησαυρὸν
+r.2   δι(ὰ) Σαραπάμμωνος κτηνο-
+r.3   τροπ Ἔρως Ἔρωτ(ος) πυροῦ
+r.4   καθ(αροῦ) (ἀρτάβας) θ.
+
+[TRANSLATION]
+1   Into the public granary,
+2   through Sarapammon, beast-
+3   keeper: Eros son of Eros, of clean wheat,
+4   9 artabas.

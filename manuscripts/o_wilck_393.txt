@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 393 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;393  (Trismegistos 76909)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 393
+label:    O.Wilck. 393
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+genre:    receipts
+date:     44–45 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4489
+content:  Poll-tax + bath-tax of year 5 of Claudius
+tm:       76909
+source:   https://papyri.info/ddbdp/o.wilck;;393
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διέγρ(αψεν) Ὧρος Παναμέως ὑπ(ὲρ) λαογ(ραφίας) ε (ἔτους) (δραχμὰς) δέκα , βαλ(ανικοῦ)
+r.2   (δραχμὴν) μίαν ὀβολ(ὸν) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ια (ὀβολὸς) α𐅵 καὶ προ(σ)δ(ιαγραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου). (ἔτους) ε Τιβερ[ίου]
+r.3   Κλαυδίου Καίσαρος [Σεβαστοῦ Γερμ]ανικοῦ
+r.4   Αὐτοκράτορος …κζ.
+
+[TRANSLATION]
+1   Horos son of Pnameus paid, for poll-tax of year 5, ten drachmas; bath-tax
+2   one drachma, an obol, a half-obol — total 11 dr. 1½ ob. — and surcharges at an obol (and) half-obol. Year 5 of Tiber[ius]
+3   Claudius Caesar [Augustus Germ]anicus
+4   Imperator, … 27.

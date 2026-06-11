@@ -17,21 +17,21 @@ DONE BUILD:_PENDING_scraped_p.oxy1.101_bgu4.1149.json   contracts   P.Oxy 1.101 
 
 # --- Receipts: Wilcken ostraca, Syene/Elephantine (series runs 1–1624) ---
 DONE o.wilck;;261-310    receipts    tax ostraca — continue the deepest well
-o.wilck;;311-360    receipts
-o.wilck;;361-410    receipts
-o.wilck;;411-460    receipts
-o.wilck;;461-510    receipts
-o.wilck;;511-560    receipts
-o.fay;;1-50         receipts    Fayum ostraca (probe first)
+DONE o.wilck;;311-360    receipts
+DONE o.wilck;;361-410    receipts
+DONE o.wilck;;411-460    receipts
+DONE o.wilck;;461-510    receipts
+DONE o.wilck;;511-560    receipts
+DONE o.fay;;1-50         receipts    Fayum ostraca (probe first)
 
 # --- Contracts: dense in BGU 4 (Alexandria) and P.Oxy ---
-bgu;4;1050-1100     contracts   marriage / loan / sale (probe first)
-bgu;4;1100-1150     contracts   (1149 covered by pending build)
-p.oxy;2;234-285     contracts   lease / sale / loan; some letters (probe first)
+DONE bgu;4;1050-1100     contracts   marriage / loan / sale (probe first)
+DONE bgu;4;1100-1150     contracts   (1149 covered by pending build)
+DONE p.oxy;2;234-285     contracts   lease / sale / loan; some letters (probe first)
 
 # --- Letters: BGU 3 dense block, then archives ---
-bgu;3;800-849       letters     private letters — dense block
-bgu;3;850-900       letters     (probe first)
-p.oxy;2;286-320     letters     Oxyrhynchus letters (probe first)
+DONE bgu;3;800-849       letters     private letters — dense block
+DONE bgu;3;850-900       letters     (probe first)
+DONE p.oxy;2;286-320     letters     Oxyrhynchus letters (probe first)
 # Archives worth sweeping once the above are done (find exact id ranges by probing):
 #   Heroninos archive · Zenon archive (p.cair.zen / psi) · more P.Mich / P.Oxy

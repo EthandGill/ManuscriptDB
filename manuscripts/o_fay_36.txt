@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Fay. 36 — Granary delivery by donkey (Euhemeria)
+# Source: papyri.info DDbDP o.fay;;36  (Trismegistos 32272)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 36
+label:    O.Fay. 36
+name:     Granary delivery by donkey (Euhemeria)
+genre:    receipts
+date:     3rd c. CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 36
+content:  1 sack via the beasts of Philagris, Euhemeria
+tm:       32272
+source:   https://papyri.info/ddbdp/o.fay;;36
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   θησ(αυροῦ) Εὐημερίας
+r.2   γενη(μάτων) ε (ἔτους) διὰ κτη(νῶν)
+r.3   Φιλαγρίδος Κόλλου-
+r.4   θος Σαβε̣ι̣ν̣ο̣ς σάκ(κον) α
+r.5   διὰ Σούλι̣ο̣ς ὀνηλ(άτου).
+r.6   (ἔτους) ϛ, Φαμενὼθ γ.
+
+[TRANSLATION]
+1   Of the granary of Euhemeria,
+2   produce of year 5, through the beasts
+3   of Philagris: Kollou-
+4   thos son of Sabinos, 1 sack,
+5   through Soulis, donkey-driver.
+6   Year 6, Phamenoth 3.

@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# BGU 3.806 — Sale of a donkey (ὄνος)
+# Source: papyri.info DDbDP bgu;3;806  (Trismegistos 20064)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.806
+label:    BGU 3.806
+name:     Sale of a donkey (ὄνος)
+genre:    contracts
+date:     21 Nov 1 CE
+language: Greek (Koiné)
+found:    Provenance unknown, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8951
+content:  Eirenaios sells a full-grown donkey to Teses son of Satabous, having received the full agreed price; year 31 of Caesar (Augustus)
+tm:       20064
+source:   https://papyri.info/ddbdp/bgu;3;806
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Εἰρηναῖος Εἰρηναίου ὁμολογῶι
+r.2   πεπρακέναι Τεσήει Σαταβοῦτι τὸν
+r.3   ὑπάρχοντά μοι ὄνον ἕνον τέλης
+r.4   [ ̣ ̣] ̣[ ̣μ]ελας κολοβὸς τὰ χ ̣ ̣ καὶ ἀπέ-
+r.5   χω τὴν συνκεχωρημένην τιμὴ[ν]
+r.6   πᾶσαν ἐκ πλήρους καὶ οὐδέν σοι
+r.7   ἐνκαλῶι τοῦτον τοιοῦτον ἀναπόρι-
+r.8   πτον καὶ βεβαιώσωι πάσῃ βεβ[α]ιώ[σι].
+r.9   (ἔτους) λα Καίσαρος Ἁθὺρ κε.
+
+[TRANSLATION]
+1   Eirenaios son of Eirenaios, I acknowledge
+2   that I have sold to Teses son of Satabous the
+3   donkey belonging to me, one, full-grown,
+4   [..]…[ bl]ack, docked(?), … and I have re-
+5   ceived the agreed pric[e],
+6   all of it, in full, and I make no
+7   claim against you (about) this one, such as it is, irre-
+8   claimable, and I will guarantee with every guaran[tee].
+9   Year 31 of Caesar, Hathyr 25.

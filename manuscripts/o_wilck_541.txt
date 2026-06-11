@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 541 — Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;541  (Trismegistos 77050)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 541
+label:    O.Wilck. 541
+name:     Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+genre:    receipts
+date:     14 Oct 129 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4577
+content:  Watchtower + other taxes of year 14 of Hadrian, Thebes
+tm:       77050
+source:   https://papyri.info/ddbdp/o.wilck;;541
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἑριοφμόις πράκ(τωρ) ἀργ(υρικῆς)
+r.2   Ἀμενώθῃ Ἁρβήχ(ιος) μη(τρὸς) Σενχεσ-
+r.3   θώτο(υ). ἔσχο(ν) ὑπ(ὲρ) σκοπ(έλου) καὶ ἄλ(λων) ιδ (ἔτους)
+r.4   ῤυπ(αρὰς) (δραχμὰς) δ(πεντώβολον). (ἔτους) ιδ Ἁδριανοῦ τοῦ
+r.5   κυρίου Φαῶφι ιζ.
+
+[TRANSLATION]
+1   Heriophmois, collector of money-tax,
+2   (to) Amenothes son of Harbechis, mother Senche-
+3   asthotes. He received, for the watchtower(-tax) and others of year 14,
+4   in base (coin), 4 dr. 5 ob. Year 14 of Hadrian the
+5   lord, Phaophi 17.

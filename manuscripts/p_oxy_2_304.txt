@@ -1,0 +1,97 @@
+# ───────────────────────────────────────────────
+# P.Oxy. 2.304 — Loan of money (cheirograph)
+# Source: papyri.info DDbDP p.oxy;2;304  (Trismegistos 16685)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy. 2.304
+label:    P.Oxy. 2.304
+name:     Loan of money (cheirograph)
+genre:    contracts
+date:     1 Nov 55 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cambridge, University Library Add. Ms. 4058
+content:  Tryphon borrows 104 dr. from Thoonis through the Ammonios & Epimachos bank, repayable by Tybi 30; with bank-note and full-repayment quittance; year 2 of Nero, Oxyrhynchus
+tm:       16685
+source:   https://papyri.info/ddbdp/p.oxy;2;304
+lat:      28.5383
+lon:      30.6765
+
+[GREEK]
+r.1   Τρύφων Διονυσίου Πέρ[σης τῆς ἐ]π̣ι̣γ̣ο̣ν̣ῆ̣ς̣ Θοώνει
+r.2   Θοώνιος χαίρειν. ὁμολο[γῶ ἔ]χειν παρὰ σ[ο]ῦ ἐπὶ
+r.3   τοῦ πρὸς Ὀξυρύγχων πό[λει Σα]ραπείου διὰ τῆς
+r.4   Ἀμμωνίου καὶ Ἐπιμάχου τραπέζης ἀργυρίου
+r.5   Σεβαστοῦ καὶ Πτ[ο]λεμαικοῦ νομίσματος δρ[α]χμὰς
+r.6   ἑκατὸν τέσσαρας, (γίνονται) νο(μίσματος) Πτ(ολεμαικοῦ) ἀργυ(ρίου) (δραχμαὶ) ρδ κεφαλαίου
+r.7   αἷς οὐδὲν τῶι καθόλου προσῆ̣[κ]ται ἃς καὶ ἀποδώσω
+r.8   σοι τῇ τριακάδι τοῦ Τῦβι [τ]οῦ ἐνεστῶτος
+r.9   δευτέρου ἔτους Νέρωνος Κλαυδίου Καίσαρος
+r.10   Σε[β]αστοῦ Γερμανικοῦ Αὐτοκράτορος χωρὶς
+r.11   πά[σ]ης ὑπερθέσεως. ἐὰ[ν] δ[ὲ] μὴ ἀποδῶ καθὰ
+r.12   γέγραπται, ἐκτείσω σοι τὸ μὲν π̣ᾶ̣ν̣ προκείμενον
+r.13   κεφάλαιον μεθʼ ἡμιολί[α]ς κ(αὶ) τόκους τοῦ ὑπερ-
+r.14   πεσόντος χρόν[ο]υ τὸν καθή[κ]οντα, [τῆς] πράξε-
+r.15   ώς σοι οὔσης ἔκ τε ἐμοῦ [καὶ] ἐκ τῶν ὑπαρ-
+r.16   χόντων μοι πάντων. κυρία ἡ χε[ὶ]ρ παντα-
+r.17   χῇ ἐπιφε[ρο]μένη καὶ παν[τὶ] τῶι ἐπιφέροντι.
+r.18   (ἔτους) δ[ευ]τ̣έ̣ρ̣[ου] Νέρωνος Κλαυ[δίου] Καίσαρος Σεβαστοῦ
+r.19   Γερ[μ]ανικοῦ Αὐτοκράτορος, μ[η(νὸς) Νέου Σεβαστο]ῦ̣ δ.
+r.20   (hand 2) Τρύφων Διονυσίου ἔχω τὰς το̣ῦ̣ [ἀργυρίου δρα]χμὰς
+r.21   ἑκατὸν τέσσαρας κεφαλαίου [καὶ] ἀ̣π̣ο̣δ̣ώ̣σωι καθότι
+r.22   πρόκειται. Ζωίλος Ζωίλου [ἔγρα]ψα [ὑπὲρ αὐτ]ο̣ῦ̣
+r.23   μὴ εἰδότος γράμματα. (ἔτους) β Ν̣[έρω]νος Κλαυδίου
+r.24   Καίσαρος Σεβαστοῦ Γερμανικ[οῦ] Αὐτοκράτορο[ς μη(νὸς)] Νέου
+r.25   Σε[βαστ]οῦ δ.
+r.26   (hand 3) ἔτους δευτέρου Νέρω[νος] Κλαυδίου Καίσαρος
+r.27   Σεβαστοῦ Γερμανικοῦ Αὐτοκρ[άτορος] μη(νὸς) Νέου Σεβαστοῦ δ.
+r.28   Ἀμμώ(νιος) καὶ Ἐπίμαχ(ος) τρα(πεζεῖται) σεση(μειώμεθα).
+r.29   (hand 4) Θοῶνις Θοώνιος ἀπέχωι τὸ προκείμενον κεφαλαῖον
+r.30   καὶ οὐδὲν ἐνκαλῶι . Στρατό̣ν̣ι̣κ̣ο̣ς̣ Ἀπίωνος ἔγραψα
+r.31   ὑπὲρ αὐτοῦ μὴ εἰδότος γράμματα. (ἔτους) β Νέρωνος
+r.32   Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.33   Αὐτοκράτορος, Μεχεὶρ [α].
+r.34   (hand 5) ἔτους δευτέρου Νέρωνος Κλαυδίου Καίσαρος
+r.35   Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος, Μεχ(εὶρ) α. δ̣ι̣ὰ̣ τῆς
+r.36   Ἀμμω(νίου) καὶ Ἐπιμά[χ(ου) τ]ρ(απέζης) γέγ(ονεν) ἡ δ̣[ιαγ]ραφή·
+
+[TRANSLATION]
+1   Tryphon son of Dionysios, a Per[sian of the e]pigone, to Thoonis
+2   son of Thoonis, greeting. I acknow[ledge that I h]ave from y[o]u, at
+3   the [Sa]rapeion by Oxyrhynchus ci[ty], through the
+4   bank of Ammonios and Epimachos, of silver
+5   of Augustan and Pt[o]lemaic coinage, dr[a]chmas
+6   one hundred and four — total 104 dr. of Pt(olemaic) silver coin(age) — of principal,
+7   to which nothing at all has been ad[d]ed, which I will also repay
+8   to you on the thirtieth of Tybi of the present
+9   second year of Nero Claudius Caesar
+10   Au[g]ustus Germanicus Imperator, without
+11   an[y] postponement. And i[f] I do [n]ot repay as
+12   is written, I will pay you the whole aforesaid
+13   principal with half as much again, and interest for the over-
+14   due time, the appropriate (rate), [the] right of execu-
+15   tion belonging to you both from me [and] from my pos-
+16   sessions, all of them. The bond is valid every-
+17   where produced and for everyone producing it.
+18   Year [sec]ond of Nero Clau[dius] Caesar Augustus
+19   Ger[m]anicus Imperator, m[onth Neos Sebasto]s 4.
+20   (2nd hand) I, Tryphon son of Dionysios, have the [silver] drachmas
+21   one hundred and four of principal, [and] I will repay as
+22   is stated above. I, Zoilos son of Zoilos, [wro]te [on his behal]f,
+23   as he does not know letters. Year 2 of N[ero] Claudius
+24   Caesar Augustus Germanic[us] Imperator, [mo(nth)] Neos
+25   Se[bast]os 4.
+26   (3rd hand) Year second of Nero Claudius Caesar
+27   Augustus Germanicus Impe[rator], mo(nth) Neos Sebastos 4.
+28   We, Ammonios and Epimachos, bankers, have signed.
+29   (4th hand) I, Thoonis son of Thoonis, have back the aforesaid principal
+30   and make no claim. I, Straton[i]kos son of Apion, wrote
+31   on his behalf, as he does not know letters. Year 2 of Nero
+32   Claudius Caesar Augustus Germanicus
+33   Imperator, Mecheir [1].
+34   (5th hand) Year second of Nero Claudius Caesar
+35   Augustus Germanicus Imperator, Mech(eir) 1. Through the
+36   bank of Ammonios and Epima[ch(os)] the payment was made.

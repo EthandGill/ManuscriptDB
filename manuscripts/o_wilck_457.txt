@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 457 — Poll-tax receipt (λαογραφία), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;457  (Trismegistos 50773)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 457
+label:    O.Wilck. 457
+name:     Poll-tax receipt (λαογραφία), Charax quarter
+genre:    receipts
+date:     21 May 83 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 311
+content:  Poll-tax of the Charax quarter, year 2 of Domitian
+tm:       50773
+source:   https://papyri.info/ddbdp/o.wilck;;457
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διέγρ(αψεν) Νεφερὼς Παχοί(του) ὑπ(ὲρ) λαο(γραφίας)
+r.2   Χά(ρακος) β (ἔτους) (δραχμὰς) ἑπτὰτριόβ(ολον) (γίνονται) ζ(τριώβολον)
+r.3   καὶ τούτω(ν) προσδ(ιαγραφόμενα). (ἔτους) β Δομιτιανοῦ
+r.4   τοῦ κυρίου Φαρμ(οῦθι) κη. Βάσσο(ς) σεση(μείωμαι).
+r.5   Demotic 2 characters (hand 2) Παχὼ(ν) κϛ (δραχμὰς) β(τριώβολον) ̣ ̣ ̣ ̣ ̣ ̣ ̣
+
+[TRANSLATION]
+1   Nepheros son of Pachoites paid, for poll-tax
+2   of the Charax (quarter), year 2, seven drachmas three obols — total 7 dr. 3 ob. —
+3   and surcharges on these. Year 2 of Domitian
+4   the lord, Pharmouthi 28. Bassos, I have signed.
+5   (Demotic, 2 characters) (2nd hand) Pachon 26, 2 dr. 3 ob. ……

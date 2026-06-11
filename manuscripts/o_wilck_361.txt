@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 361 — Tax receipt (fragmentary), Koptos
+# Source: papyri.info DDbDP o.wilck;;361  (Trismegistos 76881)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 361
+label:    O.Wilck. 361
+name:     Tax receipt (fragmentary), Koptos
+genre:    receipts
+date:     1–2 CE (Augustus, yr 31)
+language: Greek (Koiné)
+found:    Koptos (Qift), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 4352
+content:  Fragmentary money receipt, year 31 of Caesar
+tm:       76881
+source:   https://papyri.info/ddbdp/o.wilck;;361
+lat:      26.0011
+lon:      32.8092
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) διὰ τ[ῆς ⁦ -ca.?- ⁩]
+r.2   α ̣ ̣ ̣ ̣λα (ἔτους) [- ca.9 -]
+r.3   Ἀπολλωνίου [- ca.9 -]
+r.4   (ὀβολοὺς) β𐅵. (ἔτους) λα Καί[σαρος - ca.9 -]
+
+[TRANSLATION]
+1   Has paid, through th[e …]
+2   …la, year [..] […]
+3   of Apollonios […]
+4   2½ obols. Year 31 of Cae[sar …]

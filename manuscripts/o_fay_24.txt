@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Fay. 24 — Granary receipt — produce by donkey (Theadelphia)
+# Source: papyri.info DDbDP o.fay;;24  (Trismegistos 32267)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 24
+label:    O.Fay. 24
+name:     Granary receipt — produce by donkey (Theadelphia)
+genre:    receipts
+date:     mid-III CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Sevilla, Universidad Hispalense 71
+content:  Produce of year 5 by donkey, 6 sacks, Theadelphia
+tm:       32267
+source:   https://papyri.info/ddbdp/o.fay;;24
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   θησ(αυροῦ) Θεαδελφ(είας)
+r.2   γενη(μάτων) ε (ἔτους) διὰ κτη-
+r.3   νῶν μητροπόλε-
+r.4   ως Σωδίκης ποιμὴν
+r.5   διὰ Ἀμμωνίου ὀνηλ(άτου)
+r.6   σάκ(κοι) δ. (ἔτους) ϛ, Μεχ(εὶρ) ιϛ .
+r.7   καὶ τῇ ιθ ὁμοίως ἄλ-
+r.8   λοι σάκ(κοι) β, (γίνονται) σάκ(κοι) ϛ.
+r.9   (ἔτους) ϛ, Μεχ(είρ).
+
+[TRANSLATION]
+1   Of the granary of Theadelphia,
+2   produce of year 5, through the beasts
+3   of the metropolis:
+4   Sodike, shepherd,
+5   through Ammonios, donkey-driver:
+6   4 sacks. Year 6, Mecheir 16.
+7   And on the 19th likewise an-
+8   other 2 sacks — total 6 sacks.
+9   Year 6, Mecheir.

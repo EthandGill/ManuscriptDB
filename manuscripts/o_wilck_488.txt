@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 488 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Agorai-north quarter
+# Source: papyri.info DDbDP o.wilck;;488  (Trismegistos 76998)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 488
+label:    O.Wilck. 488
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Agorai-north quarter
+genre:    receipts
+date:     9 Oct 97 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4268
+content:  Dike-tax + bath-tax of the Agorai-north quarter, year 2 of Nerva
+tm:       76998
+source:   https://papyri.info/ddbdp/o.wilck;;488
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   δι(έγραψεν) Ψενμῖ(νις) Καμήτ(ιος)
+r.2   Ψενμί(νιος) ὑπ(ὲρ) χω(ματικοῦ) Ἀγο(ρῶν) βο(ρρᾶ)
+r.3   α (ἔτους) (δραχμὰς) ἓξ (διώβολον), βα(λανικοῦ) (ὀβολοὺς) δ𐅵 κ(αὶ) προ(σδιαγραφόμενα).
+r.4   (ἔτους) β Νερουᾶ τοῦ κυρίου
+r.5   Θὼτ λ‡7ιβ. Ἰσχ(υρίων) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1   Psenminis son of Kametis,
+2   (grand)son of Psenminis, paid, for dike-tax of the Agorai-north (quarter),
+3   year 1, six drachmas, two obols; bath-tax 4½ ob., and surcharges.
+4   Year 2 of Nerva the lord,
+5   Thoth 12(?). Ischyrion, I have signed.

@@ -1,0 +1,29 @@
+# ============================================================================
+#  Cloudflare named-tunnel config for ManuscriptDB
+# ----------------------------------------------------------------------------
+#  This maps your domain -> the app running on your PC (localhost:5000), so
+#  manuscriptdb.org is a live window onto your localhost. There is only one
+#  copy of the site (the one on your machine); the domain just proxies to it.
+#
+#  WHERE THIS GOES:
+#    Copy this file to:   C:\Users\Ethan\.cloudflared\config.yml
+#    (create the .cloudflared folder if it doesn't exist)
+#
+#  FILL IN THE UUID FIRST:
+#    Run   cloudflared tunnel create manuscriptdb
+#    It prints a line like  "Created tunnel manuscriptdb with id <UUID>"
+#    and writes  C:\Users\Ethan\.cloudflared\<UUID>.json
+#    Replace BOTH <TUNNEL-UUID> placeholders below with that id.
+# ============================================================================
+
+tunnel: <TUNNEL-UUID>
+credentials-file: C:\Users\Ethan\.cloudflared\<TUNNEL-UUID>.json
+
+# How incoming hostnames are routed. First match wins; the last rule is the
+# required catch-all.
+ingress:
+  - hostname: manuscriptdb.org
+    service: http://localhost:5000
+  - hostname: www.manuscriptdb.org
+    service: http://localhost:5000
+  - service: http_status:404

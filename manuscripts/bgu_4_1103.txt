@@ -1,0 +1,97 @@
+# ───────────────────────────────────────────────
+# BGU 4.1103 — Deed of divorce (synchoresis)
+# Source: papyri.info DDbDP bgu;4;1103  (Trismegistos 18542)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1103
+label:    BGU 4.1103
+name:     Deed of divorce (synchoresis)
+genre:    contracts
+date:     14 Apr 13 BCE
+language: Greek (Koiné)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13052 Vo l. 1-30
+content:  Zois and Antipatros agree, before Protarchos, that they have separated; Zois has recovered her small dowry (120 dr. + gold earrings); the marriage-agreement is void and both may remarry; year 17 of Augustus
+tm:       18542
+source:   https://papyri.info/ddbdp/bgu;4;1103
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   κόλ(λημα)
+r.2   Πρωτάρχωι
+r.3   παρὰ Ζωίδος τῆς Ἡρακλείδου μετὰ κυ-
+r.4   ρίου τοῦ ἀδελφοῦ Εἰρηναίου τοῦ Ἡρακλείδου
+r.5   καὶ παρὰ Ἀντιπάτρου [τ]οῦ Ζήνωνος. συ[νχω-]
+r.6   ροῦσιν Ζωὶς καὶ Ἀντίπατρος κεχωρίσ[θ]αι
+r.7   ἀπʼ ἀλλήλων τῆς συστάσης αὐτοῖ[ς συμ-]
+r.8   βιώσεως κατὰ συγχώρησιν διὰ τοῦ [αὐ-]
+r.9   τοῦ κριτηρίου τῷ ἐνεστῶτι ιζ (ἔτει) Καίσαρ[ος]
+r.10   Ἁθύρ, ἡ δὲ Ζωὶς ἀπεσχηκέναι παρὰ τοῦ
+r.11   Ἀντιπάτρου διὰ χιρὸς ἐξ οἴκου ἃ̣ εἶχεν ε̣ἰ̣ς̣
+r.12   φερνάριον ἱματίδια ἐν ἀργυ[ρί]ου δρα[χμαῖς]
+r.13   ἑκατὸν εἴκοσι καὶ ἐνωτίω̣ν̣ [χ]ρυσῶν
+r.14   ζεῦγος· εἶναι μὲν αὐτόθεν ἄκυρο̣ν
+r.15   τὴν τοῦ γάμου συνχώρησιν, μὴ ἐπε-
+r.16   λεύσεσθαι δὲ τὴν Ζωίδα μηδʼ ἄλ-
+r.17   λον ὑπὲρ αὐτῆς ἐπὶ τὸν Ἀντίπατρον
+r.18   περὶ ἀπαιτ̣ήσεως τοῦ φερναρίου, ἀ̣μ̣φ̣ο̣-
+r.19   τέρους δὲ ἐπʼ ἀλλήλους μήτε περὶ
+r.20   συνβιώσεως μηδὲ περὶ ἄλλου μηδε-
+r.21   νὸς ἁπλῶς τῶν ἕως τῆς ἐνεστώσης
+r.22   ἡμέρας, ἀφʼ ἧς καὶ ἐξεῖναι τῇ μὲν
+r.23   Ζωίδι συναρμόζεσθαι ἄλλῳ ἀνδρὶ
+r.24   καὶ τῷ δὲ Ἀντιπάτρῳ ἄλλῃ γυναι-
+r.25   κὶ ἀμφοτέροις ἀνυπευθύνοις οὖσι,
+r.26   καὶ χωρὶς τοῦ κύρια εἶναι τὰ συνκε-
+r.27   χωρημένα ἔτι καὶ ἐνέχεσθαι τὸν
+r.28   παραβαίνοντα τοῖς τε βλάβεσσι
+r.29   καὶ τῷ ὡρισμένῳ προστίμωι.
+r.30   (ἔτους) ιζ Καίσαρος Φαρμοῦθι β̣
+r.31   κ̣ό̣λ̣λ̣η(μα)
+r.32   [⁦ -ca.?- ⁩] Πτολ(εμαι ) ̣ ̣ ̣ελ( ) ̣ ̣ ̣ ̣κ̣λ̣η̣ς̣ Γ̣αβ̣ινιου ̣ ̣ ̣ ̣ ̣ ̣
+r.33   [⁦ -ca.?- ⁩] Ἀ̣π̣ο̣λ̣λω̣νίῳ ̣ ̣ ̣ ̣ ̣ δ̣α̣ν̣η̣ δ̣ι̣ὰ̣ χ(ειρὸς) (δραχμῶν(?)) ρ ἀρχι( )
+r.34   καὶ ἐ̣ν̣ Ἀλεξανδρέαι τοῦ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ Φαρμο(ῦθι)
+r.35   ̣ ̣ ̣ ̣ ̣ ̣ πρὸς τὸ βῆμα κ̣α̣ὶ̣ ἀ̣π̣έ̣χ̣(ειν) [⁦ -ca.?- ⁩]
+r.36   [⁦ -ca.?- ⁩] ̣ ̣δα ̣ ̣ ̣ ̣[⁦ -ca.?- ⁩]
+
+[TRANSLATION]
+1   Sheet (kollema).
+2   To Protarchos,
+3   from Zois daughter of Heraklides, with (her) guar-
+4   dian, her brother Eirenaios son of Heraklides,
+5   and from Antipatros [s]on of Zenon. They a[gree,]
+6   Zois and Antipatros, that they have separated
+7   from one another from the [co-]
+8   habitation established for them by agreement through the [sa-]
+9   me tribunal in the present year 17 of Caesar,
+10   Hathyr; and that Zois has received from
+11   Antipatros, from hand to hand out of the house, what she had as
+12   a little dowry — garments, in [silv]er dra[chmas]
+13   one hundred and twenty, and of [g]old earrings
+14   a pair; (and that) the marriage-agreement is from this moment void,
+15   and that Zois shall not pro-
+16   ceed, nor an-
+17   other on her behalf, against Antipatros
+18   concerning the demand for the dowry; and that nei-
+19   ther (shall proceed) against the other, neither concerning
+20   the cohabitation nor concerning anything
+21   else at all, of (matters) up to the present
+22   day — from which it is also permitted to
+23   Zois to join with another man
+24   and to Antipatros (to join) with another wo-
+25   man, both being free of liability;
+26   and, apart from the things agreed being
+27   valid, the transgressor is also to be liable
+28   both to the damages
+29   and to the fixed penalty.
+30   Year 17 of Caesar, Pharmouthi 2.
+31   Sheet (kollema).
+32   […] Ptolem( )…kles son of Gabinius …
+33   […] to Apollonios … a loan, from hand, of 100 (drachmas)(?), chief…
+34   and in Alexandria, of the … Pharmou(thi)
+35   … to the tribunal, and to receive (back) […]
+36   […]…[…]

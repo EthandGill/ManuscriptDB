@@ -1,0 +1,53 @@
+# ───────────────────────────────────────────────
+# BGU 4.1088 — Customs-gate toll receipt — camel imports (τελώνιον)
+# Source: papyri.info DDbDP bgu;4;1088  (Trismegistos 9459)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1088
+label:    BGU 4.1088
+name:     Customs-gate toll receipt — camel imports (τελώνιον)
+genre:    receipts
+date:     11 Apr 142 CE
+language: Greek (Koiné)
+found:    Soknopaiou Nesos (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 9740
+content:  Double toll receipt at the gate of Soknopaiou Nesos (desert-guard duty): Panouphis imports two she-camels, year 5 of Antoninus Pius
+tm:       9459
+source:   https://papyri.info/ddbdp/bgu;4;1088
+lat:      29.5377
+lon:      30.6856
+
+[GREEK]
+r.1   τετελ(ώνηται) διὰ πύλ(ης) Σοκ[νο]π(αίου) Πησνήσου
+r.2   ἐρλημοφυλακ̣ίας Π[α]νοῦφ(ι)ς Πανο[ῦ-]
+r.3   φις εἰσάγων καμήλου θήλι(αν) λε[υ-]
+r.4   κὴν δευτεροβόλον καιχαλ[αγ-]
+r.5   με(νην) Ἀραβι̣κοῖς χαράγμασ[ιν].
+r.6   (ἔτους) ε Ἀντωνίνου Καίσαρο[ς]
+r.7   τοῦ κ[υ]ρίου Φαρμοῦθι ἑκκαι[δε-]
+r.8   [κ]άτῃ ιϛ ―
+r.9   τετελ(ώνηται) διὰ πύλ(ης) Σοκονπ(αίου) Νήσου
+r.10   [ἐ]ρλημοφυλακίας Πανοῦφις Παν[οῦ-]
+r.11   [φις ε]ἰσάγω[ν] καμηλου θήει(αν) φυ[ρρὰν]
+r.12   [κ]εχαρ[αγ]μέμη(ν) [μ]η̣ρ̣ῷ δε[ξιῷ]
+r.13   [Ἀραβικοῖς(?) χ]αράγ(μασιν). (ἔτους) ε Ἀν[τ]ωνίνου
+r.14   [Κ]αίσα̣ρος τ̣οῦ κυρίου Ἐπεὶφ τρίτῃ γ
+
+[TRANSLATION]
+1   Has paid toll through the gate of Soknopaiou Nesos,
+2   (for) desert-guard duty: Panouphis son of Panou-
+3   phis, importing one she-camel, whi-
+4   te, two-toothed (young), bran-
+5   ded with Arabic marks.
+6   Year 5 of Antoninus Caesar
+7   the lord, Pharmouthi six-
+8   teenth, 16. —
+9   Has paid toll through the gate of Sokonpaiou Nesos,
+10   (for) desert-guard duty: Panouphis son of Panou-
+11   [phis, im]porting one she-camel, ta[wny],
+12   branded on the right [thigh]
+13   [with Arabic(?)] marks. Year 5 of Antoninus
+14   Caesar the lord, Epeiph third, 3.

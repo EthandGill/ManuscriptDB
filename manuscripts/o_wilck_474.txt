@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 474 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;474  (Trismegistos 76984)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 474
+label:    O.Wilck. 474
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+genre:    receipts
+date:     9 Mar 89 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4197
+content:  Poll-tax + bath-tax of the Charax quarter, year 8 of Domitian
+tm:       76984
+source:   https://papyri.info/ddbdp/o.wilck;;474
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) Πετεχὼν Χάρωνος το(ῦ) Παμώνθ(ου)
+r.2   μη(τρὸς) Σεναμενώθ(ιος) ὑπ(ὲρ) λαο(γραφίας) Χά(ρακος) η (ἔτους)
+r.3   (δραχμὰς) δέκα , βα(λανικοῦ) α (ὀβολὸν) α𐅵 (γίνονται) ια (ὀβολὸς) α𐅵 καὶ το(ύτων) προ(σδιαγραφόμενα).
+r.4   (ἔτους) η Δομιτιανοῦ τοῦ κυρίου
+r.5   Μεχ(ὶρ) λ‡7ιγ. Ἡρακ(λείδης) σεση(μείωμαι).
+
+[TRANSLATION]
+1   Petechon son of Charon, the (son) of Pamonthes,
+2   mother Senamenothis, paid, for poll-tax of the Charax (quarter), year 8,
+3   ten drachmas; bath-tax 1 dr. 1½ ob. — total 11 (dr.) 1½ ob. — and surcharges on these.
+4   Year 8 of Domitian the lord,
+5   Mecheir 13(?). Herakleides, I have signed.

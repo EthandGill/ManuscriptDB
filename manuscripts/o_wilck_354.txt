@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 354 — Bank receipt — apomoira, Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;354  (Trismegistos 43437)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 354
+label:    O.Wilck. 354
+name:     Bank receipt — apomoira, Diospolis Magna
+genre:    receipts
+date:     16 Sept 101 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 2870
+content:  Apomoira of year 16, paid into the Diospolis Magna bank
+tm:       43437
+source:   https://papyri.info/ddbdp/o.wilck;;354
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   (ἔτους) ιϛ τοῦ καὶ ιγ Μεσ(ορὴ) ἐπ(α)γ(ομενῶν) ε τέ(τακται) ἐπὶ τὴν
+r.2   ἐν Διὸς πόλ(ει) τῆι μεγ(άληι) τρά(πεζαν) ἀπομοί(ρας) ιϛ (ἔτους)
+r.3   Ἀπολλώνιος Ἀπολλω(νίου) διὰ Πετεύριος
+r.4   χειλίας φκε (γίνονται) Αφκε.
+r.5   Αψ.
+
+[TRANSLATION]
+1   Year 16 (= 13), Mesore, 5th epagomenal day. There has been paid into the
+2   bank at Diospolis Magna: of the apomoira of year 16,
+3   Apollonios son of Apollonios, through Peteuris,
+4   one thousand 525 — total 1525.
+5   1700.

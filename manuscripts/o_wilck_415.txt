@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 415 — Temple-collection receipt — collection of Isis (λογεία Ἴσιδος)
+# Source: papyri.info DDbDP o.wilck;;415  (Trismegistos 76926)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 415
+label:    O.Wilck. 415
+name:     Temple-collection receipt — collection of Isis (λογεία Ἴσιδος)
+genre:    receipts
+date:     4 Jul 64 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1572
+content:  Receipt of 4 dr. 2 ob. for the collection of Isis, year 10 of Nero
+tm:       76926
+source:   https://papyri.info/ddbdp/o.wilck;;415
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ψεναμοῦνις Πεκύσιος [φεννῆσις]
+r.2   ὁμολόγῳ Πιβούχ(ι) Πετε[ήσιος χαίρειν].
+r.3   ἀπέχω παρὰ σοῦ (δραχμὰς) δ(διώβολον) [εἰς τὴν λο]ι-
+r.4   γείαν Εἴσιδος ὑπερι τῶν [δημδημ]ωσίων ι (ἔτους) Νέρωνος τοῦ κυ[ρίου]
+r.5   Ἐφεὶφ ι.
+
+[TRANSLATION]
+1   Psenamounis son of Pekysis, [phennesis],
+2   to (his) covenanter Pibouch(is) son of Pete[esis, greeting].
+3   I have received from you 4 dr. 2 ob., [for the col]-
+4   lection of Isis, for the [public dues], year 10 of Nero the lo[rd],
+5   Epeiph 10.

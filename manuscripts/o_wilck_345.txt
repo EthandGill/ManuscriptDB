@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 345 — Bank receipt — ferrymen's tax (πορευτῶν), Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;345  (Trismegistos 43891)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 345
+label:    O.Wilck. 345
+name:     Bank receipt — ferrymen's tax (πορευτῶν), Diospolis Magna
+genre:    receipts
+date:     26 Feb 138 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 504
+content:  Ferrymen's-tax, Portis pays into the Diospolis Magna bank, year 32
+tm:       43891
+source:   https://papyri.info/ddbdp/o.wilck;;345
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   ἔτους λβ Μεχεὶρ γ.
+r.2   τέ(τακται) ἐπὶ τὴν ἐν Διὸς πό(λει) τῆι με(γάλῃ) τρά(πεζαν),
+r.3   ἐφʼ ἧς Ἑρμό(φιλος), πορ(ευτῶν) Πόρτις (τάλαντα) δύο
+r.4   [⁦ -ca.?- ⁩] ἑξακοσίας [⁦ -ca.?- ⁩]
+
+[TRANSLATION]
+1   Year 32, Mecheir 3.
+2   There has been paid into the bank at Diospolis Magna,
+3   at which Hermophilos (presides): of the ferrymen(-tax), Portis, two talents
+4   […] six hundred […]

@@ -1,0 +1,77 @@
+# ───────────────────────────────────────────────
+# P.Oxy. 2.273 — Deed of gift (cession) of land to a daughter
+# Source: papyri.info DDbDP p.oxy;2;273  (Trismegistos 20544)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy. 2.273
+label:    P.Oxy. 2.273
+name:     Deed of gift (cession) of land to a daughter
+genre:    contracts
+date:     24 Jun 95 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Brussels, Musées Royaux E 5946
+content:  Julia Heraklas, with a Roman-law guardian, cedes 5 arouras of katoikic land near Seryphis to her under-age daughter Gaia/Sarapias as an irrevocable gift; year 14 of Domitian
+tm:       20544
+source:   https://papyri.info/ddbdp/p.oxy;2;273
+lat:      28.5383
+lon:      30.6765
+
+[GREEK]
+r.1   ἔτους τεσσαρεσκαιδεκάτου {ι} Αὐτοκράτορος Καίσ[αρος]
+r.2   Δομιτιανοῦ Σεβαστοῦ Γερμανικοῦ, μηνὸς [Π]α̣ῦν[ι]
+r.3   (hand 2) λ, (hand 1) ἐν Ὀξυρύγχων πόλει τῆς Θηβαίδ[ο]ς.
+r.4   ὁμολογεῖ Ἰουλί[α Ἡ]ρακ[λ]ᾶ μ[ε]τὰ κυρίου τοῦ δεδ[ομ]ένου
+r.5   αὐτῇ κατὰ τὰ [Ῥω]μαίων ἔ[θ]η ὑπὸ Γαίου Σε[πτ]ιμ̣[ίο]υ̣
+r.6   Ο[ὐ]εγέ[τ]ου τοῦ [ἡγ]εμονεύσαντος ἀκ[ολο]ύθως
+r.7   τῇ γεν[ο]μέ[ν]ῃ ταβέλλῃ Λουκίου Ὀφελλίου Λουκί-
+r.8   ου [Οὐ]φ̣ε̣τ̣είνα Ἀνθ[ε]στίου Θέωνι Νικίππου
+r.9   τοῦ Νικίππου Φυλαξιθαλασσείῳ τῷ καὶ Ἀλθεῖ
+r.10   ἐν ἀγυιᾷ συνκεχωρηκέναι τῇ ἑαυτῆς θυγατρὶ
+r.11   Γαίᾳ τῇ καὶ Σαραπιάδι Παυσανίου τοῦ καὶ Διονυ-
+r.12   σίου Ἀστυάνακτος τοῦ Τρύφωνος Φυλαξιθαλασ-
+r.13   σείου τοῦ καὶ Ἡρακλείου οὐδέπω οὔσῃ ἐν ἡλι-
+r.14   κίᾳ ἀπὸ τοῦ νῦν εἰς τὸν ἀεὶ χρόνον κατὰ χάριν
+r.15   ἀναφαίρετον ἀπὸ τῶν ὑπαρχουσῶν αὐτῇ
+r.16   περὶ Σερῦφιν τῆς πρὸς λίβα τοπαρχίας ἐκ τοῦ
+r.17   Νεικάνδρου κλήρου ἀρουρῶν δέκα πέντε
+r.18   ἐξ ἧς ἐὰν αἱρῆται τούτων κεφαλῆς κ̣α̣[τοι-]
+r.19   κικῆς γῆς ἀρούρας πέντε , ἃς καὶ ἐξέσ[ται]
+r.20   τῇ Γαίᾳ τῇ καὶ Σαραπιάδι ἀπὸ τῆσδε [τῆς ὁμο-]
+r.21   λογίας διʼ ἑαυτῆς μετεπιγράφεσθαι [διὰ τῶν]
+r.22   [κ]αταλοχισμῶν, μὴ προσδεηθ̣ε̣[ίσῃ τῆς]
+r.23   τῆς μητρὸς Ἰουλίας Ἡρακλᾶς συ[νεπιγρα-]
+r.24   φῆς. κρατεῖν οὖν καὶ κυριεύειν τ[ὴν Γαίαν]
+r.25   τὴν καὶ Σαραπιάδα σὺν ἐγγόνοις κ[αὶ τοῖς]
+r.26   [π]α̣ρ̣ʼ αὐτῆς μεταλημψομένοις [ ̣ ̣ ̣ ̣ ̣ ̣]
+
+[TRANSLATION]
+1   Year fourteenth of Imperator Caes[ar]
+2   Domitian Augustus Germanicus, month [P]aun[i]
+3   (2nd hand) 30, (1st hand) in the city of Oxyrhynchus of the Thebaïd.
+4   Julia [H]erak[l]as, with the guardian gi[v]en
+5   to her according to [Ro]man cus[t]om by Gaius Se[pt]im[iu]s
+6   V[e]ge[t]us the former [pre]fect, in accord[an]ce with
+7   the executed tablet (tabella) of Lucius Ofellius son of Lucius,
+8   of the [Ou]fentine (tribe), Anthestius, to Theon son of Nikippos
+9   son of Nikippos, of the Phylaxithalassios (deme), also called Altheus,
+10   in the street, acknowledges that she has ceded to her own daughter
+11   Gaia also called Sarapias, (daughter) of Pausanias also called Diony-
+12   sios son of Astyanax son of Tryphon, of the Phylaxithalas-
+13   sios (deme) also called Herakleios, not yet being of
+14   age — from now for all time, as a gift
+15   irrevocable — from the (lands) belonging to her
+16   near Seryphis of the toparchy toward the west, from the
+17   allotment of Nikandros, fifteen arouras,
+18   out of which, whichever of these she chooses, of the principal (parcel) of [katoi-]
+19   kic land, five arouras, which it shall also be permitt[ed]
+20   for Gaia also called Sarapias, from this [agree-]
+21   ment, to have re-registered through herself [through the]
+22   land-registries, without further needing [the]
+23   joint-subscription of her mother Julia Heraklas.
+24   So Gaia also called Sarapias is to hold and own (it)
+25   together with offspring an[d those]
+26   [w]ho shall take over from her […]

@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 480 — Poll-, dike- and guard-tax receipt with instalments
+# Source: papyri.info DDbDP o.wilck;;480  (Trismegistos 76990)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 480
+label:    O.Wilck. 480
+name:     Poll-, dike- and guard-tax receipt with instalments
+genre:    receipts
+date:     6 Jan 93 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1630
+content:  Poll + dike + guard instalments, years 11–12 of Domitian, Hermonthis
+tm:       76990
+source:   https://papyri.info/ddbdp/o.wilck;;480
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέγρ(αψεν) Φθομώνθου Μιύσιο(ς)
+r.2   Ἀμσούφιος ὑπ(ὲρ) λαο(γραφίας) Νό(του) καὶ Λ(ιβὸς)
+r.3   ια (ἔτους) (δραχμὰς) η. (ἔτους) ια Δομιτιανοῦ τοῦ κυρίου
+r.4   Φαμενὼ(θ) ε. ὁμο(ίως) Φαρμο(ῦθι) θ
+r.5   (δραχμὰς) δ, ὁμο(ίως) Παχὼ(ν) α (δραχμὰς) δ, ὁμο(ίως)
+r.6   ιβ (ἔτους) Φαῶ(φι) ιβ χω(ματικοῦ) (δραχμὰς) δ, α(ἱ καὶ) γ (ὀβολοὶ) δ𐅵,
+r.7   ὁμοίω(ς) Ἁθὺρ ε (δραχμὰς) δ, αἱ κ(αὶ) γ (ὀβολοὶ) δ𐅵,
+r.8   ὁμο(ίως) Τῦβ(ι) ια φυλ(ακῆς)
+r.9   (δραχμὴν) α.
+
+[TRANSLATION]
+1   Phthomonthes son of Miysis,
+2   (grand)son of Amsouphis, paid, for poll-tax of the South-and-West (quarter),
+3   year 11, 8 dr. Year 11 of Domitian the lord,
+4   Phamenoth 5. Likewise Pharmouthi 9,
+5   4 dr.; likewise Pachon 1, 4 dr.; likewise
+6   (in) year 12, Phaophi 12, dike-tax 4 dr., (= ) 3 dr. 4½ ob.,
+7   likewise Hathyr 5, 4 dr., (= ) 3 dr. 4½ ob.,
+8   likewise Tybi 11, (for) the guard(-tax),
+9   1 dr.

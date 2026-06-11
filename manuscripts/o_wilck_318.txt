@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 318 — Receipt for the price of oil
+# Source: papyri.info DDbDP o.wilck;;318  (Trismegistos 44297)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 318
+label:    O.Wilck. 318
+name:     Receipt for the price of oil
+genre:    receipts
+date:     30 Oct 168 BCE (year uncertain)
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 8537
+content:  Gorgias acknowledges 3000 dr. copper for oil, year 3
+tm:       44297
+source:   https://papyri.info/ddbdp/o.wilck;;318
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Γοργίας Ζήνωνι λογευτῆι Διὸς πό(λεως)
+r.2   βαλνηω(ν) γ (ἔτους) χαί(ρειν). ἔχω παρὰ σοῦ
+r.3   Ἀσηπιοδωρωι γ ̣( ) εἰς τιμ(ὴν) ἐλ(αίου) χαλκοῦ
+r.4   δραχ(μὰς) τρεισχιλίας (γίνονται) Γ. (ἔτους) γ Θῶ(υτ) κζ.
+
+[TRANSLATION]
+1   Gorgias to Zenon, tax-collector of Diospolis,
+2   for the bath(-tax)(?) of year 3, greeting. I have from you,
+3   (through) Asepiodoros …, toward the price of oil, of copper,
+4   three thousand drachmas — total 3000. Year 3, Thoth 27.

@@ -1,0 +1,47 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 551 — Assessments and watchtower-tax receipt (double), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;551  (Trismegistos 77060)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 551
+label:    O.Wilck. 551
+name:     Assessments and watchtower-tax receipt (double), Charax quarter
+genre:    receipts
+date:     26 Feb – 25 Apr 132 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 8559
+content:  Assessments + watchtower-tax (two hands) of the Charax quarter, year 16 of Hadrian
+tm:       77060
+source:   https://papyri.info/ddbdp/o.wilck;;551
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἵεραξ κ(αὶ) μ(έτοχοι) ἀπαιτηταὶ Χά(ρακος)
+r.2   Παουκαλή[τι] Παχνούμιος
+r.3   <ἔσχομεν> ὑπ(ὲρ) μειρσ(μῶν) προχ( ) ῥυπ(αρὰς) (δραχμὰς) τρεῖςτριόβολ(ον)
+r.4   (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) γ(τριώβολον). (ἔτους) ιϛ Ἁδριαν[οῦ τοῦ κυρί]ου
+r.5   Φ[ ̣ ̣ ̣ ̣ ̣ ̣].
+r.6   (hand 2) Ἑριοφμ[όις πρά]κ(τωρ) ἀργ(υρικῆς) Χά(ρακος)
+r.7   Πα[ουκα]λήτ[ι] Παχνούμ(ιος).
+r.8   ἔσχο(ν) [ὑ]π(ὲρ) σκοπ(έλου) καὶ ἄλ(λων) Χά(ρακος) ιϛ (ἔτους)
+r.9   ῥυπ(αρὰς) (δραχμὰς) τρεῖς (ὀβολοὺς) δ𐅵. (ἔτους) ιϛ
+r.10   Ἁδριανοῦ τοῦ κυρίου
+r.11   Παχὼ(ν) κγ.
+
+[TRANSLATION]
+1   Hierax and partners, requisitioners of the Charax (quarter),
+2   (to) Paoukales son of Pachnoumis.
+3   <We have received>, for assessments, in advance(?), in base (coin), three drachmas, three obols
+4   — total, base, 3 dr. 3 ob. Year 16 of Hadri[an the lor]d,
+5   Ph[…].
+6   (2nd hand) Heriophm[ois, colle]ctor of money-tax of the Charax (quarter),
+7   (to) Pa[ouka]les son of Pachnoumis.
+8   He received, [f]or the watchtower(-tax) and others of the Charax (quarter), year 16,
+9   in base (coin), three drachmas, 4½ obols. Year 16
+10   of Hadrian the lord,
+11   Pachon 23.

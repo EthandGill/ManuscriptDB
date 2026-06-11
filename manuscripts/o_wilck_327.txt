@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 327 — Bank receipt — wine-tax (οἴνου τέλος), Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;327  (Trismegistos 76874)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 327
+label:    O.Wilck. 327
+name:     Bank receipt — wine-tax (οἴνου τέλος), Diospolis Magna
+genre:    receipts
+date:     1 Mar 99 BCE (year uncertain)
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12734
+content:  Wine-tax of year 15, paid into the Diospolis Magna bank
+tm:       76874
+source:   https://papyri.info/ddbdp/o.wilck;;327
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   (ἔτους) ιε Μεχ(ὶρ) ιϛ τέ(τακται) ἐπὶ τὴν ἐν
+r.2   Διὸς πόλ(ει) τῆι μεγ(άλῃ) τρά(πεζαν) οἴνου
+r.3   τέλ(ους) ιε (ἔτους) ἐνακο(σίας) ι (γίνονται) ϡι.
+r.4   Α.
+
+[TRANSLATION]
+1   Year 15, Mecheir 16. There has been paid into the
+2   bank at Diospolis Magna: of the wine-
+3   tax of year 15, nine hundred 10 — total 910.
+4   1000.

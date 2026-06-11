@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 391 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;391  (Trismegistos 76907)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 391
+label:    O.Wilck. 391
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν)
+genre:    receipts
+date:     13 Sept 44 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4350
+content:  Dike-tax + bath-tax of year 4, year 5 of Claudius
+tm:       76907
+source:   https://papyri.info/ddbdp/o.wilck;;391
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διέγρ(αψεν) Φαῆρι(ς) Ὀννώ(φριος) ὑπ(ὲρ) χω(ματικοῦ) δ (ἔτους)
+r.2   (δραχμὰς) ἓξ (τετρώβολον), βαλ(ανικοῦ) τετρόβολ(ον) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ζ (ὀβολοὶ) β𐅵,
+r.3   προσδ(ιαγραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου). (ἔτους) ε Τιβερίου Κλαυδίου
+r.4   Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.5   Αὐτοκράτορος μη(νὸς) Σεβα(στοῦ) ιϛ
+
+[TRANSLATION]
+1   Phaeris son of Onnophris paid, for dike-tax of year 4,
+2   six (drachmas), four obols; bath-tax four obols, a half-obol — total 7 dr. 2½ ob.,
+3   surcharges at an obol (and) half-obol. Year 5 of Tiberius Claudius
+4   Caesar Augustus Germanicus
+5   Imperator, month Sebastos 16.

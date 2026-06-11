@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 360 — Receipt — collection for the agoranomia, early Roman Thebes
+# Source: papyri.info DDbDP o.wilck;;360  (Trismegistos 76880)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 360
+label:    O.Wilck. 360
+name:     Receipt — collection for the agoranomia, early Roman Thebes
+genre:    receipts
+date:     25 Jun – 24 Jul 8 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4352
+content:  Collection for the agoranomia of year 22, year 22 of Caesar (Augustus)
+tm:       76880
+source:   https://papyri.info/ddbdp/o.wilck;;360
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   [⁦ -ca.?- ⁩ ]λολ(οῦτος(?)) διαγεγρ(άφηκεν) εἰς τὴν λογείαν
+r.2   [⁦ -ca.?- ⁩]ρας τῇ ἀγορανομίᾳ τοῦ ἐνεσ-
+r.3   [τῶτος] δύο καὶ εἰκοστοῦ ἔτους Καίσαρος
+r.4   [⁦ -ca.?- ⁩]υ δραχ(μὰς) τέσσαρας (γίνονται) (δραχμαὶ) δ.
+r.5   [(ἔτους)] κβ Καίσαρος Ἐπεὶ[φ ̣ ̣]
+
+[TRANSLATION]
+1   […]lolous(?) has paid, toward the collection
+2   […]ras, for the agoranomia of the pres-
+3   [ent] twenty-second year of Caesar,
+4   […], four drachmas — total 4 dr.
+5   [Year] 22 of Caesar, Epei[ph ..].

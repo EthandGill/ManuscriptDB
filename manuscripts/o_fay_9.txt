@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Fay. 9 — Beer-tax receipt (ζυτηρά)
+# Source: papyri.info DDbDP o.fay;;9  (Trismegistos 44557)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 9
+label:    O.Fay. 9
+name:     Beer-tax receipt (ζυτηρά)
+genre:    receipts
+date:     late I BCE – early I CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 9
+content:  Beer-tax, 8 obols, Theadelphia
+tm:       44557
+source:   https://papyri.info/ddbdp/o.fay;;9
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   Φαρμοῦθι
+r.2   Ὥρ̣ω̣ς Ἀμε̣ψάιτος
+r.3   λ(όγῳ) ζυτ(ηρᾶς) ὀβολ(οὶ) η.
+
+[TRANSLATION]
+1   Pharmouthi:
+2   Horos son of Amepsais,
+3   on account of the beer-tax, 8 obols.

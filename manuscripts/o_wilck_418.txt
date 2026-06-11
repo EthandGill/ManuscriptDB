@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 418 — Temple-collection receipt — warden of the god
+# Source: papyri.info DDbDP o.wilck;;418  (Trismegistos 76929)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 418
+label:    O.Wilck. 418
+name:     Temple-collection receipt — warden of the god
+genre:    receipts
+date:     26 Apr – 25 May 67 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4297
+content:  Receipt of 5 dr. 3 ob. for the public dues, year 13 of Nero
+tm:       76929
+source:   https://papyri.info/ddbdp/o.wilck;;418
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ψεναμοῦνις Πεκύσιος προστάτ[η-]
+r.2   ς θεοῦ Πιβούχ(ι) Πετεήσιος χαίρ[ειν].
+r.3   ἀπέχω παρὰ σοῦ (δραχμὰς) ε(τριώβολον) ὑπ(ὲρ) τῶν δ[ημοσίων]
+r.4   ιγ (ἔτους) Νέρωνος τοῦ κυρίου Παχ[ὼν ̣].
+
+[TRANSLATION]
+1   Psenamounis son of Pekysis, warden
+2   of the god, to Pibouchis son of Peteesis, greet[ing].
+3   I have received from you 5 dr. 3 ob., for the p[ublic dues],
+4   year 13 of Nero the lord, Pach[on .].

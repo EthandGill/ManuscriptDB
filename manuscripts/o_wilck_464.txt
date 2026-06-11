@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 464 — Menders'-tax receipt (τελῶναι ἠπητῶν)
+# Source: papyri.info DDbDP o.wilck;;464  (Trismegistos 76974)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 464
+label:    O.Wilck. 464
+name:     Menders'-tax receipt (τελῶναι ἠπητῶν)
+genre:    receipts
+date:     after 23 Aug 86 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    London, British Library O 16456
+content:  Final payment of the menders'(cobblers') tax, year 5 of Domitian
+tm:       76974
+source:   https://papyri.info/ddbdp/o.wilck;;464
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Γερμανὸς Μενέφρωνος
+r.2   καὶ Φμόις Φθουμείνιος
+r.3   τελῶ(ναι) ἠπη(τῶν) τοῦ ε (ἔτους)
+r.4   Ψενμωνθης Παναμέως.
+r.5   ἀπεχω(μεν) παρὰ σοῦ τὸ τέλ(ος)
+r.6   ἕως Μεσορὴ λ, λυπαι δραχμαι
+r.7   δύο (γίνονται) (δραχμαὶ) β εἰς πλήρωσιν.
+r.8   (ἔτους) ε Δομιττιανοῦ τοῦ κυ[ρίου ̣ ̣ ̣ ̣ ̣].
+
+[TRANSLATION]
+1   Germanos son of Menephron
+2   and Phmois son of Phthouminis,
+3   tax-farmers of the menders (cobblers) of year 5,
+4   (to) Psenmonthes son of Panameus.
+5   We have from you the tax
+6   up to Mesore 30, the remaining two drachmas
+7   — total 2 dr. — in full payment.
+8   Year 5 of Domitian the lo[rd …].

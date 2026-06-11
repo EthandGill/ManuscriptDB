@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 392 — Donkey- and wagon-tax receipt (ὀνηλασία καὶ ἁμαξῶν)
+# Source: papyri.info DDbDP o.wilck;;392  (Trismegistos 76908)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 392
+label:    O.Wilck. 392
+name:     Donkey- and wagon-tax receipt (ὀνηλασία καὶ ἁμαξῶν)
+genre:    receipts
+date:     15 Dec 44 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4551
+content:  Transport-tax of year 5 of Claudius, with instalments
+tm:       76908
+source:   https://papyri.info/ddbdp/o.wilck;;392
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διέγρ(αψαν) Καμῆ(τις) Παχράτου καὶ μέτ(ο)χ(οι) ὑπ(ὲρ) ὀνηλ(ασίας) καὶ ἁμαξ(ῶν)
+r.2   ε (ἔτους) (δραχμὰς) ἑβταμήκοντα πέντε (γίνονται) (δραχμαὶ) οε καὶ προσδ(ιαγραφόμενα) ἐξ (ὀβολὸς) α𐅵. (ἔτους) ε
+r.3   Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.4   Αὐτοκράτορος Νέ(ου) Σεβ(αστοῦ) λ‡7ζ Ε ̣ ̣ ̣ ̣( ) (hand 2) ὁμο(ίως) Χοίαχ ιβ ἄλ(λας)
+r.5   (δραχμὰς) τριάκοντα (γίνονται) (δραχμαὶ) λ. Ἐπικ(ράτης) Πικ(ῶτος). Χοίαχ ιθ τριάκοντα
+r.6   (γίνονται) λ. ̣ ̣ ̣ ̣( )
+
+[TRANSLATION]
+1   Kametis son of Pachrates and partners paid, for donkey-driving and wagons(-tax)
+2   of year 5, seventy-five drachmas — total 75 dr. — and surcharges at 1½ obols. Year 5
+3   of Tiberius Claudius Caesar Augustus Germanicus
+4   Imperator the New Augustus, (month) 37(?), E…( ). (2nd hand) Likewise Choiak 12, another
+5   thirty drachmas — total 30 dr. Epikrates son of Pikos. Choiak 19, thirty
+6   — total 30. …( )

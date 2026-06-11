@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 320 — Crown-tax receipt — king's gold crown (στέφανος)
+# Source: papyri.info DDbDP o.wilck;;320  (Trismegistos 43316)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 320
+label:    O.Wilck. 320
+name:     Crown-tax receipt — king's gold crown (στέφανος)
+genre:    receipts
+date:     after 4 Jun 166 BCE (year uncertain)
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 3999
+content:  Payment toward the royal gold crown, year 4
+tm:       43316
+source:   https://papyri.info/ddbdp/o.wilck;;320
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Σαραπίων Ἀ̣[πί]ωνι χαί(ρειν). τέ(ταξαι) ὑπὲρ
+r.2   Ἡρακλείδου τοῦ Ἀπολλω(νίου) εἰς τὸν
+r.3   τοῦ βασιλέ(ως) χρυ(σοῦν) στέφα(νον) τοῖς παρὰ
+r.4   Πάτρω(νος) τοῦ πρὸς τῆι συντά(ξει) χα(λκοῦ) (δραχμὰς) Δ
+r.5   τετρακ(οσίας) (γίνονται) Δυ. (ἔτους) δ Παχ(ὼν) δ.
+
+[TRANSLATION]
+1   Sarapion to A[pi]on, greeting. You have paid, on behalf
+2   of Herakleides son of Apollonios, toward the
+3   king's gold crown, to the agents of
+4   Patron the official in charge of the syntaxis, of copper, (drachmas) 4000,
+5   four hundred — total 4400. Year 4, Pachon 4.

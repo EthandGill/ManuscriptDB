@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Fay. 38 — Granary receipt — produce of Isis of the village
+# Source: papyri.info DDbDP o.fay;;38  (Trismegistos 32274)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 38
+label:    O.Fay. 38
+name:     Granary receipt — produce of Isis of the village
+genre:    receipts
+date:     3rd c. CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 38
+content:  Produce of year 3 of Isis of the village, 2 donkey-loads, Euhemeria
+tm:       32274
+source:   https://papyri.info/ddbdp/o.fay;;38
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   δ (ἔτους), Φαῶφι ι, γενη(μάτων)
+r.2   τοῦ διελ(ηλυθότος) γ (ἔτους) θεᾶς
+r.3   Ἴσιδος τῆς κώ(μης)
+r.4   ὄνοι β.
+
+[TRANSLATION]
+1   Year 4, Phaophi 10, produce
+2   of the past year 3, of the goddess
+3   Isis of the village:
+4   2 donkey(-loads).

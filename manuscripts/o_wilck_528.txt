@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 528 — Dike-tax and other-taxes receipt (χωματικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;528  (Trismegistos 77038)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 528
+label:    O.Wilck. 528
+name:     Dike-tax and other-taxes receipt (χωματικόν), Charax quarter
+genre:    receipts
+date:     25 Jul – 23 Aug 122 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4488
+content:  Dike-tax + others of the Charax quarter, year 6 of Hadrian
+tm:       77038
+source:   https://papyri.info/ddbdp/o.wilck;;528
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Φαῆ(ρις) ἀργ(υρικῆς) Ἀμενώθ(ῃ) Ἁρβήχ(ιος) μη(τρὸς) Σενχεσθ(ώτου)
+r.2   ὑπ(ὲρ) χω(ματικοῦ) καὶ ἄλ(λων) Χά(ρακος) ϛ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) ἑπτὰ (πεντώβολον) χ(αλκοῦς 2)
+r.3   (γίνονται) (δραχμαὶ) ζ(πεντώβολον) χ(αλκοῖ 2). (ἔτους) ϛ Ἁδριανοῦ Καίσαρος τοῦ κυρίου Μ ̣ ̣ ̣ ̣( ).
+
+[TRANSLATION]
+1   Phaeres (collector) of money-tax, (to) Amenothes son of Harbechis, mother Sencheasth(otes),
+2   for dike-tax and others of the Charax (quarter), year 6, in base (coin), seven drachmas, 5 obols, 2 chalkoi
+3   — total 7 dr. 5 ob. 2 chalkoi. Year 6 of Hadrian Caesar the lord, M…( ).

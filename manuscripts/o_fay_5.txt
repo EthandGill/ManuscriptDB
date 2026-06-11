@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Fay. 5 — Bath-keeper's receipt (βαλανευτικόν)
+# Source: papyri.info DDbDP o.fay;;5  (Trismegistos 40852)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 5
+label:    O.Fay. 5
+name:     Bath-keeper's receipt (βαλανευτικόν)
+genre:    receipts
+date:     19 Aug 34 CE
+language: Greek (Koiné)
+found:    Philoteris (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 5
+content:  Bath-tax of Philoteris, year 20 of Tiberius
+tm:       40852
+source:   https://papyri.info/ddbdp/o.fay;;5
+lat:      29.42
+lon:      30.4
+
+[GREEK]
+r.1   Χαιρέας βαλαν(ευ)τ(ὴς) Φιλωτ(ερίδος) Ἑρμίᾳ [χα(ίρειν)].
+r.2   ἔχω εἰς λόγον βαλανευτ(ικοῦ) το[ῦ]
+r.3   ἰκοστοῦ (ἔτους) Τιβερίου Καίσ[αρος]
+r.4   Σεβαστοῦ ὀβολοὺς [ ̣ ̣ ̣ ̣ ̣]
+r.5   Μεσορὴ κϛ ς̣[ ̣ ̣]
+
+[TRANSLATION]
+1   Chaireas, bath-keeper of Philoteris, to Hermias, [greeting].
+2   I have, on account of the bath-tax of the
+3   twentieth year of Tiberius Caes[ar]
+4   Augustus, obols [...]
+5   Mesore 26 …

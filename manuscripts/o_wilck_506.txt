@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 506 — Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;506  (Trismegistos 77016)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 506
+label:    O.Wilck. 506
+name:     Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+genre:    receipts
+date:     17 Apr 113 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4140
+content:  Watchtower + other taxes of the Charax quarter, year 16 of Trajan
+tm:       77016
+source:   https://papyri.info/ddbdp/o.wilck;;506
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἰμούθη(ς) καὶ μέτοχ(οι)
+r.2   Πετεχώ(νσει) ὁ(μοίως) Ψε(νμών)θου.
+r.3   ἔσχ(ομεν) ὑπ(ὲρ) σκοπ(έλου) καὶ ἄ(λλων) Χά(ρακος) ιϛ (ἔτους)
+r.4   ῥυπ(αρὰς) (δραχμὰς) τέσσαρας κέρμ(ατος) δ
+r.5   (γίνονται) (δραχμαὶ) δ κέρμ(ατος) δ. (ἔτους) ιϛ Τρα(ιαν)οῦ
+r.6   τοῦ κυρίου Φαμ(ενὼ)θ λ‡7κβ.
+r.7   Α ̣( )
+
+[TRANSLATION]
+1   Imouthes and partners,
+2   to Petechon likewise (son) of Psenmonthes.
+3   We have received, for the watchtower(-tax) and others of the Charax (quarter), year 16,
+4   in base (coin), four drachmas, 4 coin(-obols)
+5   — total 4 dr. 4 coin(-obols). Year 16 of Trajan
+6   the lord, Phamenoth 22(?).
+7   A…( )

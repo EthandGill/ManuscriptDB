@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 426 — Dike-tax receipt (χωματικόν), Apollonopolis
+# Source: papyri.info DDbDP o.wilck;;426  (Trismegistos 76937)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 426
+label:    O.Wilck. 426
+name:     Dike-tax receipt (χωματικόν), Apollonopolis
+genre:    receipts
+date:     28 Apr 69 CE
+language: Greek (Koiné)
+found:    Apollonopolis Magna (Edfu), Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre O. without number
+content:  Dike-tax of year 1 of Otho, Apollonopolis (Edfu)
+tm:       76937
+source:   https://papyri.info/ddbdp/o.wilck;;426
+lat:      24.9781
+lon:      32.8731
+
+[GREEK]
+r.1   Ἁρν[οῦ]ρι Ἀπολλ(ωνίου)
+r.2   χω(ματικοῦ) α (ἔτους) Ὄθων[ο]ς
+r.3   (δραχμὰς) ϛ(τετρώβολον) κ ̣ ̣ ̣ (ἔτους) α
+r.4   Παχὼ(ν) γ.
+
+[TRANSLATION]
+1   Harnouris son of Apollonios,
+2   (for) dike-tax of year 1 of Otho,
+3   6 dr. 4 ob., …, year 1,
+4   Pachon 3.

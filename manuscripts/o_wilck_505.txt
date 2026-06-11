@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 505 — Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;505  (Trismegistos 77015)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 505
+label:    O.Wilck. 505
+name:     Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+genre:    receipts
+date:     17 Nov 112 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4057
+content:  Watchtower + other taxes of the Charax quarter, year 16 of Trajan
+tm:       77015
+source:   https://papyri.info/ddbdp/o.wilck;;505
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Φαήρη(ς) καὶ μ(έτοχοι) πράκ(τορες) _(?)_
+r.2   Πασήµιο(ς) Πεκύσιο(ς). ἔσχ(ομεν)
+r.3   ὑπ(ὲρ) σκοπ(έλου) καὶ ἄλ(λων) Χά(ρακος) ιϛ (ἔτους) ῥυπ(αρὰς)
+r.4   (δραχμὰς) τέσσαρας κέρ(ματος) δ (γίνονται) (δραχμαὶ) δ κέρ(ματος) δ.
+r.5   (ἔτους) ιϛ Τραιανοῦ τοῦ κυρίου
+r.6   Φαῶφι λκα [ ̣]
+r.7   δ ̣ ̣ ̣δ[ ̣ ̣]
+r.8   χ[ ̣ ̣ ̣ ̣]
+
+[TRANSLATION]
+1   Phaeres and partners, collectors (of) …(?),
+2   to Pasemis son of Pekysis. We have received,
+3   for the watchtower(-tax) and others of the Charax (quarter), year 16, in base (coin),
+4   four drachmas, 4 coin(-obols) — total 4 dr. 4 coin(-obols).
+5   Year 16 of Trajan the lord,
+6   Phaophi 31(?) [.]
+7   d…d[..]
+8   ch[…]

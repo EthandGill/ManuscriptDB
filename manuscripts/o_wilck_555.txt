@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 555 — Bath-tax receipt (βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;555  (Trismegistos 77065)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 555
+label:    O.Wilck. 555
+name:     Bath-tax receipt (βαλανικόν), Charax quarter
+genre:    receipts
+date:     19 Apr 133 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    London, British Library O 16468
+content:  Bath-tax of the Charax quarter, year 17 of Hadrian
+tm:       77065
+source:   https://papyri.info/ddbdp/o.wilck;;555
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Καμῆτις πράκ(τωρ) ἀργ(υρικῆς)
+r.2   Ἐπωνύχωι Καμή-
+r.3   τιος μητ(ρὸς) Τεσαύριος ?. ἔσχο(ν)
+r.4   ὑπ(ὲρ) βα(λανικοῦ) Χά(ρακος) ιζ (ἔτους) ῥυπ(αρὰς) δραχ(μὰς) δύο
+r.5   (τριώβολον) χ(αλκοῦς 2) (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) β(τριώβολον) χ(αλκοῖ 2). (ἔτους) ιζ
+r.6   Ἁδριανοῦ τοῦ
+r.7   κυρίου {ι}
+r.8   Φαρ(μοῦθι) κδ. …
+
+[TRANSLATION]
+1   Kametis, collector of money-tax,
+2   (to) Eponychos son of Kame-
+3   tis, mother Tesauris(?). He received,
+4   for bath-tax of the Charax (quarter), year 17, in base (coin), two drachmas,
+5   3 obols, 2 chalkoi — total, base, 2 dr. 3 ob. 2 chalkoi. Year 17
+6   of Hadrian the
+7   lord,
+8   Pharmouthi 24. …

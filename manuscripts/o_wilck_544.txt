@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 544 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;544  (Trismegistos 77053)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 544
+label:    O.Wilck. 544
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+genre:    receipts
+date:     20 Jul 130 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4528
+content:  Dike-tax + bath-tax of the Charax quarter, year 14 of Hadrian
+tm:       77053
+source:   https://papyri.info/ddbdp/o.wilck;;544
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἑριοφμόις πράκ(τωρ) ἀργ(υρικῆς)
+r.2   Ἀμενώθ(ῃ) Ἁρβήχ(ιος) μη(τρὸς) Σενχεσθ(ώτου).
+r.3   ἔσχ(ον) ὑπ(ὲρ) χω(ματικοῦ) καὶ βαλ(ανικοῦ) Χά(ρακος) ιδ (ἔτους)
+r.4   ῥυπ(αρὰς) (δραχμὰς) ἑπτὰ (ὀβολοὺς) δ𐅵. (ἔτους) ιδ Ἁδριανοῦ
+r.5   τοῦ κυρίου Ἐπὶφ κϛ.
+
+[TRANSLATION]
+1   Heriophmois, collector of money-tax,
+2   (to) Amenothes son of Harbechis, mother Sencheasthotes.
+3   He received, for dike-tax and bath-tax of the Charax (quarter), year 14,
+4   in base (coin), seven drachmas, 4½ obols. Year 14 of Hadrian
+5   the lord, Epeiph 26.

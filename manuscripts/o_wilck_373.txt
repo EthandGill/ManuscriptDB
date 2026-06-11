@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 373 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;373  (Trismegistos 50766)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 373
+label:    O.Wilck. 373
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+genre:    receipts
+date:     23 Apr 35 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1620
+content:  Poll-tax + bath-tax of year 21 of Tiberius
+tm:       50766
+source:   https://papyri.info/ddbdp/o.wilck;;373
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) Ἀπολλὼς Πετεμε(νώφιος)
+r.2   ὑπ(ὲρ) λαογ(ραφίας) κα (ἔτους) (δραχμὰς) δέκα καὶ βαλ(ανικοῦ) μίαν
+r.3   ὀβολ(ὸν) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ια (ὀβολὸς) α𐅵 καὶ τὰ προσδ(ιαγραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου).
+r.4   (ἔτους) κα Τιβερίου Καίσαρος
+r.5   Σεβαστοῦ Φαρμοῦθ(ι) κη.
+r.6   Πετεμε(νῶφις) Πικ(ῶτος).
+
+[TRANSLATION]
+1   Has paid: Apollos son of Petemenophis,
+2   for poll-tax of year 21, ten drachmas and bath-tax one,
+3   an obol, a half-obol — total 11 dr. 1½ ob. — and the surcharges at an obol (and) half-obol.
+4   Year 21 of Tiberius Caesar
+5   Augustus, Pharmouthi 28.
+6   Petemenophis son of Pikos.

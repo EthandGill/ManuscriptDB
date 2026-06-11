@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Fay. 21 — Delivery receipt — fuel-chaff for the fort
+# Source: papyri.info DDbDP o.fay;;21  (Trismegistos 40862)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 21
+label:    O.Fay. 21
+name:     Delivery receipt — fuel-chaff for the fort
+genre:    receipts
+date:     25 Aug 306 CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 21
+content:  1 basket of fuel-chaff for the fort at Dionysias
+tm:       40862
+source:   https://papyri.info/ddbdp/o.fay;;21
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   παρήνεγ’κεν ἐν κάστρις ἀνικοδομουμένις ἐν κώ(μῃ)
+r.2   Διονυσιάδι Ἀννιανὸς Ἀπόλλωνος ἀπὸ κώ(μης)
+r.3   Ταυρίνου ἀχύρου καυσίμου σαργ(άνην) α.
+r.4   (ἔτους) ιδ (ἔτους) καὶ β (ἔτους), Μεσορὴ ἐπαγ(ομένων) β.
+r.5   Σκαμ̣μεῖφος σεση(μείωμαι).
+
+[TRANSLATION]
+1   Has delivered, to the fort being built in the village
+2   of Dionysias, Annianos son of Apollon, from the village
+3   of Taurinos, one basket of burning-chaff (fuel).
+4   Year 14 and year 2 and year 1, Mesore, 2nd epagomenal day.
+5   Skammeiphos(?), I have signed.

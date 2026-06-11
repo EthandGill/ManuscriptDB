@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 325 — Pasture-tax receipt (ἐννόμιον), Ptolemaic Thebes
+# Source: papyri.info DDbDP o.wilck;;325  (Trismegistos 43610)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 325
+label:    O.Wilck. 325
+name:     Pasture-tax receipt (ἐννόμιον), Ptolemaic Thebes
+genre:    receipts
+date:     18 Jan 233 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4399
+content:  Pasture-tax of year 14: Pitres, 20 dr.
+tm:       43610
+source:   https://papyri.info/ddbdp/o.wilck;;325
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   (ἔτους) ιδ Ἁθὺρ λ πέπτω-
+r.2   κεν εἰς τὸ ιδ (ἔτους) ἐννο-
+r.3   μίου Πιτρὴς (δραχμὰς) εἴκο-
+r.4   σι (γίνονται) (δραχμαὶ) κ. ̣ομ̣ω̣ν.
+
+[TRANSLATION]
+1   Year 14, Hathyr 30. There has
+2   been paid, for year 14, of the pasture-
+3   tax: Pitres, drachmas twen-
+4   ty — total 20 dr. …omon.

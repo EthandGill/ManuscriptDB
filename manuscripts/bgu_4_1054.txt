@@ -1,0 +1,61 @@
+# ───────────────────────────────────────────────
+# BGU 4.1054 — Loan of money (synchoresis), interest-free
+# Source: papyri.info DDbDP bgu;4;1054  (Trismegistos 18498)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1054
+label:    BGU 4.1054
+name:     Loan of money (synchoresis), interest-free
+genre:    contracts
+date:     13 BCE (Augustus, yr 17)
+language: Greek (Koiné)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13056 Vo
+content:  Ammonios acknowledges an interest-free loan of 64 dr. from Apollonios, repayable in 3 months; synchoresis before Protarchos
+tm:       18498
+source:   https://papyri.info/ddbdp/bgu;4;1054
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   [Π]ρωτάρχωι τῶι ἐπὶ τοῦ κριτηρίου
+r.2   παρὰ Ἀπολλωνίου τοῦ Ἡρακλείδου καὶ παρὰ Ἀμ-
+r.3   μωνίου τοῦ Ἀνουβί̣ω̣ν̣ο̣ς̣ Πέρσου τῆς ἐπιγονῆς. συν-
+r.4   χωρεῖ ὁ Ἀμμώνιος ἔχειν παρὰ τοῦ Ἀπολλωνίου δάνειον
+r.5   διὰ χειρὸς ἐξ οἴκου ἀργυρίου Πτολεμαικοῦ δραχμὰς
+r.6   ἑξήκοντα τέσσαρες ἄ̣τ̣ο̣κ̣ο̣ν̣, ὃ καὶ ἀποδώσειν ἐν
+r.7   μησὶν τρισὶν ἀ̣π̣ὸ μ̣η̣ν̣ὸ̣ς̣ Φ̣α̣ρ̣μ̣ο̣ῦ̣θ̣ι̣ τοῦ ἐνεστῶτ[ος]
+r.8   ἑπτακαιδεκάτου ἔτους Καίσαρος ἄνευ πάσης ὑπερθέσεως
+r.9   ἢ εἶναι αὐτὸν π̣α̣ρ̣α̣χ̣ρ̣ῆμα ἀγώγιμον καὶ συνέχεσθαι μέ-
+r.10   χρ[ι] τοῦ [ἐκ]τ̣ε̣ῖ̣[σαι τὸ κεφά]λαιον σὺν ἡμιολίᾳ, [τοῦ]
+r.11   δὲ ὑπερπεσόντος [χρόνου] τοὺς κατὰ τὸ διάγραμμα τόκους
+r.12   διδράχμους τῆς πράξεως γεινομένης τῷ Ἀπο[λλωνίῳ]
+r.13   ἔκ τε αὐτοῦ Ἀμμωνίου καὶ ἐκ τῶν ὑπαρχόντων αὐτῷ πάντων
+r.14   καθάπερ ἐγ δίκης ἀκύρων ο̣ὐ̣σ̣ῶ̣ν̣ καὶ ὧν ἐὰν <ἐπενέγκῃ> πίστεων
+r.15   πασῶν σκέπης πάσης. τοῦτο δʼ ἐστὶν τὸ δάνειον ἐκτὸς
+r.16   ἑτέρων ὧν ὀφείλει ὁ αὐτὸς Ἀμμώνιος σὺν τῇ μη-
+r.17   τρὶ αὐτοῦ τῷ Ἀπολλωνίῳ καθʼ ἑτέραν συνχώρη[σιν]
+r.18   δραχμῶν ἑκατόν .
+
+[TRANSLATION]
+1   To Protarchos, the (official) in charge of the tribunal,
+2   from Apollonios son of Heraklides and from Am-
+3   monios son of Anoubion, a Persian of the epigone. Am-
+4   monios agrees that he has from Apollonios a loan,
+5   from hand to hand out of the house, of Ptolemaic silver, drachmas
+6   sixty-four, interest-free, which he will also repay in
+7   three months from the month Pharmouthi of the present
+8   seventeenth year of Caesar, without any postponement;
+9   or else he is at once liable to seizure and to be held
+10   until he pays the [princi]pal with half as much again, and, for
+11   the time elapsed, the interest according to the diagramma,
+12   at two drachmas (per mina), the right of execution belonging to Apo[llonios]
+13   both from Ammonios himself and from all his property,
+14   as if by legal judgement, void being whatever pledges of trust he may bring forward,
+15   (and) every protection. This loan is apart from
+16   the others which the same Ammonios, together with his mo-
+17   ther, owes to Apollonios under another agreement,
+18   of one hundred drachmas.

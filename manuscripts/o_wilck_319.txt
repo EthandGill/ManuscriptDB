@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 319 — Pasture-tax receipt (ἐννόμιον), bank of Hermonthis
+# Source: papyri.info DDbDP o.wilck;;319  (Trismegistos 43596)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 319
+label:    O.Wilck. 319
+name:     Pasture-tax receipt (ἐννόμιον), bank of Hermonthis
+genre:    receipts
+date:     13 Mar 113 BCE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 508
+content:  Pasture-tax on livestock of year 4, paid into the Hermonthis bank
+tm:       43596
+source:   https://papyri.info/ddbdp/o.wilck;;319
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   ἔτους δ Μεχεὶρ κε τε(τάχαται)
+r.2   ἐπὶ τὴν ἐν Ἑρμ(ώνθει) τρά(πεζαν), ἐφʼ ἧς Ἀμμώ(νιος),
+r.3   ἐννο(μίου) κτη(νῶν) δ (ἔτους) Ἑρμ(ώνθεως) Ἀμμώνιος
+r.4   καὶ οἱ μέ(τοχοι) διὰ Ὥρου τοῦ
+r.5   Παθώτου τάλαντον ἓν
+r.6   τετρακισ(χιλίας) ωθ (γίνονται) (τάλαντον) αυπ[θ].
+r.7   Ἀμμώ(νιος) τρα(πεζίτης) (τάλαντον) αΕϡο.
+
+[TRANSLATION]
+1   Year 4, Mecheir 25. There has been paid
+2   into the bank at Hermonthis, at which Ammonios (presides):
+3   for the pasture-tax on livestock of year 4 at Hermonthis, Ammonios
+4   and his partners, through Horos son of
+5   Pathotes, one talent,
+6   four thousand 809 — total 1 talent 480[9].
+7   Ammonios banker, 1 tal. 4870.

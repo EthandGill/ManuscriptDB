@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 478 — Guard-tax receipt (φυλακή), Apollonopolis
+# Source: papyri.info DDbDP o.wilck;;478  (Trismegistos 76988)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 478
+label:    O.Wilck. 478
+name:     Guard-tax receipt (φυλακή), Apollonopolis
+genre:    receipts
+date:     25 Jul 90 CE
+language: Greek (Koiné)
+found:    Apollonopolis Magna (Edfu), Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12423
+content:  Guard-tax of year 9 of Domitian, Apollonopolis (Edfu)
+tm:       76988
+source:   https://papyri.info/ddbdp/o.wilck;;478
+lat:      24.9781
+lon:      32.8731
+
+[GREEK]
+r.1   Ἁρνούριο(ς) Ἀπολλωνίο(υ)
+r.2   φυλ(ακῆς) θ (ἔτους) Δομιτ(ιαν)οῦ
+r.3   (δραχμὴν) α. (ἔτους) θ Μεσο(ρὴ) α.
+
+[TRANSLATION]
+1   Harnouris son of Apollonios,
+2   (for) the guard(-tax) of year 9 of Domitian,
+3   1 dr. Year 9, Mesore 1.

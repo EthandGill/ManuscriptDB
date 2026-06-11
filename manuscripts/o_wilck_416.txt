@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 416 — Temple-collection receipt — the phennesia office
+# Source: papyri.info DDbDP o.wilck;;416  (Trismegistos 76927)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 416
+label:    O.Wilck. 416
+name:     Temple-collection receipt — the phennesia office
+genre:    receipts
+date:     1 Jun 65 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1574
+content:  Receipt of 4 dr. 2 ob. for the public dues / phennesia, year 11 of Nero
+tm:       76927
+source:   https://papyri.info/ddbdp/o.wilck;;416
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ψεναμοῦνις Πεκύσιος φεννῆσι Πιβοῦχις
+r.2   Πετεή(σιος) χαίρειν. ἀπέχω παρὰ σοῦ (δραχμὰς) δ(διώβολον)
+r.3   ὑπερι τῶν δημωσίων τη φεννησίαν
+r.4   ια (ἔτους) Νέρωνος τοῦ κυρίου Παῦνι ζ.
+
+[TRANSLATION]
+1   Psenamounis son of Pekysis, phennesis, to Pibouchis
+2   son of Peteesis, greeting. I have received from you 4 dr. 2 ob.,
+3   for the public dues, the phennesia(-office),
+4   year 11 of Nero the lord, Pauni 7.

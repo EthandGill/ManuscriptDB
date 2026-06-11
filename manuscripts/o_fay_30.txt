@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Fay. 30 — Granary receipt — produce by donkey (Theadelphia)
+# Source: papyri.info DDbDP o.fay;;30  (Trismegistos 40869)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 30
+label:    O.Fay. 30
+name:     Granary receipt — produce by donkey (Theadelphia)
+genre:    receipts
+date:     265–266 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 30
+content:  Produce of year 13, 4 donkey-loads, 14 artabas, Theadelphia
+tm:       40869
+source:   https://papyri.info/ddbdp/o.fay;;30
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   θησαυροῦ Θεαδ(ελφείας)
+r.2   γενη(μάτων) ιγ (ἔτους)
+r.3   Ἀρντ̣( ) ὄνο(ι) δ (ἀρτάβαι) ιδ.
+
+[TRANSLATION]
+1   Of the granary of Theadelphia,
+2   produce of year 13:
+3   Arnt( ), 4 donkey(-loads), 14 artabas.

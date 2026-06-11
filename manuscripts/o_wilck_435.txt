@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 435 — Guards'-pay receipt (ὀψώνιον φυλάκων)
+# Source: papyri.info DDbDP o.wilck;;435  (Trismegistos 76946)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 435
+label:    O.Wilck. 435
+name:     Guards'-pay receipt (ὀψώνιον φυλάκων)
+genre:    receipts
+date:     73–74 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1641
+content:  Guards'-pay of the South-and-West quarter, years 5–6 of Vespasian
+tm:       76946
+source:   https://papyri.info/ddbdp/o.wilck;;435
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέγρα(ψεν) Καμῆ(τις) Πετεαρπ(ρήους) Ἀμφιώ(μιος)
+r.2   ὑπ(ὲρ) ὀψω(νίου) φυλ(άκων) Νό(του) καὶ Λι(βὸς) ε (ἔτους) [(δραχμ ) ̣ ̣]
+r.3   (ἔτους) ϛ Οὐεσπασιανοῦ τοῦ
+r.4   κυρίου [ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+
+[TRANSLATION]
+1   Kametis son of Petearpres, (grand)son of Amphiomis, paid,
+2   for the guards' pay of the South-and-West (quarter), year 5, [(drachmas) ..]
+3   Year 6 of Vespasian the
+4   lord [……]

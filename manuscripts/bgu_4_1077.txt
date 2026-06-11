@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# BGU 4.1077 — Penthemeros dike-labour certificate (χωματικά)
+# Source: papyri.info DDbDP bgu;4;1077  (Trismegistos 9454)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1077
+label:    BGU 4.1077
+name:     Penthemeros dike-labour certificate (χωματικά)
+genre:    receipts
+date:     10 Jul 163 CE
+language: Greek (Koiné)
+found:    Polydeukia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13310
+content:  Five-day dike-work certificate, year 3 of Marcus Aurelius & Lucius Verus, Psinaleitis canal of Polydeukia
+tm:       9454
+source:   https://papyri.info/ddbdp/bgu;4;1077
+lat:      29.43
+lon:      30.45
+
+[GREEK]
+r.1   ἔτους γ Αὐτοκράτορος Καίσαρος
+r.2   Μάρκου Αὐρηλίου Ἀντωνείνου
+r.3   Σ(ε)β(α)στοῦ καὶ Αὐτοκράτορος Καίσαρος
+r.4   Λουκίου Αὐρηλίου Οὐήρου Σε[β(αστ)ο]ῦ.
+r.5   εἴργ(ασται) ὑπ(ὲρ) χω(ματικῶν) το(ῦ) α(ὐτοῦ) γ (ἔτους) Ἐπεὶφ ιβ
+r.6   ιϛ ἐν τ(ῇ) Ψιναλ(είτιδι) Πολ(υδευκίας) Σαραπάμμ(ων)
+r.7   Πετεοκυῶτ(ος) το(ῦ) Πετεσούχ(ου) μη(τρὸς) Θερμουθ( ).
+
+[TRANSLATION]
+1   Year 3 of Imperator Caesar
+2   Marcus Aurelius Antoninus
+3   Augustus and Imperator Caesar
+4   Lucius Aurelius Verus Augustus.
+5   Has worked, for the dike(-works) of the same year 3, Epeiph 12–
+6   16, in the Psinaleitis (canal) of Polydeukia: Sarapammon
+7   son of Peteokyos, the (son) of Petesouchos, mother Thermouth( ).

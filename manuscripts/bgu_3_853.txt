@@ -1,0 +1,49 @@
+# ───────────────────────────────────────────────
+# BGU 3.853 — Sale of a she-camel (κάμηλος)
+# Source: papyri.info DDbDP bgu;3;853  (Trismegistos 11826)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.853
+label:    BGU 3.853
+name:     Sale of a she-camel (κάμηλος)
+genre:    contracts
+date:     28 Jan 142 CE
+language: Greek (Koiné)
+found:    Soknopaiou Nesos (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8956 Vo
+content:  Panephremmis sells a full-grown branded she-camel to Satabous for 600 dr.; Soknopaiou Nesos, year 5 of Antoninus Pius
+tm:       11826
+source:   https://papyri.info/ddbdp/bgu;3;853
+lat:      29.5377
+lon:      30.6856
+
+[GREEK]
+r.1   Πανεφ̣ρ̣ε(μμις) Ὥρου τ̣ο̣[ῦ] Στοτοήτεως τῶν ἀπὸ
+r.2   κώμ̣η̣ς Σοκνοπ(αίου) Νήσου τῆς Ἡρακλείδου
+r.3   με̣ρ̣ί̣δ̣ο̣ς ̣ ̣ ̣ τ̣οῦ Ἀρσινοείτου
+r.4   νομοῦ. ὁ[μ]ο̣λ̣[ο]γ̣ῶ̣ πεπρακέ̣ν̣αι
+r.5   Σατα[β]ο̣ῦ̣τ̣ι̣ [Π]α̣νεφ̣[ρ]έμμε(ως) ἀπ̣ὸ̣ [τ]ῆς̣
+r.6   α̣ὐ̣[τῆ]ς̣ [Σο]κ̣ν̣(οπαίου) Νήσ(ου) κώμης κάμ̣[η]λον
+r.7   θήλ̣[εια]ν̣ {θή̣λ̣ειαν} τελίαν κεχ̣[αραγμ]έ̣ν[ην]
+r.8   ἐπ̣[ὶ] τ̣ῷ̣ δ̣ε̣ξ̣ιῷ μ̣η̣[ρῷ ̣]Η, καὶ ἀπέ̣χ̣[ω] τὴν
+r.9   συμπ̣[εφ]ω̣ν̣η̣μ[έν]η̣ν̣ τ̣ιμὴ[ν ἀ]ργυρίου
+r.10   δραχ̣μ̣ὰ̣ς̣ ἑ̣ξ̣ακοσ̣ίας, (γίνονται) (δραχμαὶ) χ.
+r.11   (ἔτους) ε Ἀ[ντ]ω̣νίνο[υ] Καίσαρος τοῦ κυρίου,
+r.12   Με̣[χεὶρ] γ.
+
+[TRANSLATION]
+1   Panephremmis son of Horos son [of] Stotoetis, of those from
+2   the village of Soknopaiou Nesos of the Herakleides
+3   division … of the Arsinoite
+4   nome. I a[c]kn[o]wledge that I have sold
+5   to Sata[b]ous son of [P]anephremmis from [t]he
+6   sa[m]e village of [So]knopaiou Nesos a cam[e]l,
+7   fem[al]e, full-grown, bran[d]ed
+8   on the right thi[gh …]Η, and I have re[ceived] the
+9   agreed price, [of s]ilver,
+10   six hundred drachmas — total 600 dr.
+11   Year 5 of A[nt]oninus Caesar the lord,
+12   Me[cheir] 3.

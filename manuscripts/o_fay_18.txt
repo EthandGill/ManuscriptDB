@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Fay. 18 — Granary delivery — lentils
+# Source: papyri.info DDbDP o.fay;;18  (Trismegistos 26356)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 18
+label:    O.Fay. 18
+name:     Granary delivery — lentils
+genre:    receipts
+date:     early I CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 18
+content:  12 artabas of lentils to the granary of Ision, Euhemeria
+tm:       26356
+source:   https://papyri.info/ddbdp/o.fay;;18
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   Ἡλιοδώρῳ̣ γρ(αμματεῖ) γεωργ(ῶν)
+r.2   Ἀπ̣α̣[ ̣ ̣]μ̣ας̣ καὶ Ἀγχο( ) ἀμφό(τεροι) Πάσ̣ειτ̣ο̣ς̣
+r.3   θ̣η̣(σαυρ ) Ἰσ̣ί̣ο̣υ̣ φακ(οῦ) (ἀρτάβας) ιβ. Ἰσχυρᾶς
+r.4   σε̣ι̣ση μ̣ ̣μ̣α̣κ̣( ) φακ(οῦ) (ἀρτάβας) ιβ.
+
+[TRANSLATION]
+1   To Heliodoros, scribe of the farmers:
+2   Apa[..]mas and Ancho( ), both sons of Pasis,
+3   (to the) granary of Ision, 12 artabas of lentils. Ischyras,
+4   having signed(?) …( ), 12 artabas of lentils.

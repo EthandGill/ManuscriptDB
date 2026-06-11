@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 401 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;401  (Trismegistos 50771)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 401
+label:    O.Wilck. 401
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+genre:    receipts
+date:     25 May 52 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 308
+content:  Poll-tax + bath-tax of year 12 of Claudius, banker Bassos
+tm:       50771
+source:   https://papyri.info/ddbdp/o.wilck;;401
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) Πετεμώ(νθης) Παμώνθ(ου) ὑπ(ὲρ) λαο(γραφίας)
+r.2   ιβ (ἔτους) (δραχμὰς) δέκα , καὶ βαλ(ανικοῦ) (δραχμὴν) α (ὀβολὸν) α𐅵 (γίνονται) (δραχμαὶ) ια (ὀβολὸς) α𐅵 καὶ
+r.3   προσδ(ιαγραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου). (ἔτους) ιβ Τιβερίου Κλαυδίου
+r.4   Καίσαρος <Σεβαστοῦ Γερμανικοῦ>
+r.5   Αὐτοκράτορος μη(νὸς) Γερμα(νικείου) λ.
+r.6   (hand 2) Βάσσος Δέκ(μου) τρα(πεζίτης) σεση(μείωμαι).
+
+[TRANSLATION]
+1   Petemonthes son of Pamonthes paid, for poll-tax
+2   of year 12, ten drachmas, and bath-tax 1 (dr.) 1½ ob. — total 11 dr. 1½ ob. — and
+3   surcharges at an obol (and) half-obol. Year 12 of Tiberius Claudius
+4   Caesar <Augustus Germanicus>
+5   Imperator, month Germanikeios 30.
+6   (2nd hand) Bassos son of Dec(mus), banker, I have signed.

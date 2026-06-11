@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Fay. 33 — Donkey-load account
+# Source: papyri.info DDbDP o.fay;;33  (Trismegistos 32270)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 33
+label:    O.Fay. 33
+name:     Donkey-load account
+genre:    receipts
+date:     3rd c. CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 33
+content:  Account of donkey-loads by person, Theadelphia
+tm:       32270
+source:   https://papyri.info/ddbdp/o.fay;;33
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   Παίλα ὄνοι ιϛ,
+r.2   Πτολε(μαῖος(?)) Βακχα( ) ι,
+r.3   Μ ̣ ̣ι̣θης Ζωσί(μου) ϛ,
+r.4   Σένεπτα ὄνοι ια,
+r.5   Δῖος Πετε̣ρ(μούθιος) καὶ Ἀπῦγχ(ις) ἀδελφ(ός).
+
+[TRANSLATION]
+1   Paila, 16 donkey(-loads);
+2   Ptolemaios(?) son of Baccha( ), 10;
+3   M..ithes son of Zosimos, 6;
+4   Senepta, 11 donkey(-loads);
+5   Dios son of Petermouthis and Apynchis (his) brother.

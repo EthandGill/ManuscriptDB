@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 349 — Bank receipt — fishery quarter-tax (τετάρτη ἁλιέων), Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;349  (Trismegistos 43598)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 349
+label:    O.Wilck. 349
+name:     Bank receipt — fishery quarter-tax (τετάρτη ἁλιέων), Diospolis Magna
+genre:    receipts
+date:     17 Dec 130 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4470
+content:  Quarter-tax on fisher-folk of year 41 (two days)
+tm:       43598
+source:   https://papyri.info/ddbdp/o.wilck;;349
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   (ἔτους) μα Ἁθὺρ κδ τε(τάχαται) ἐπὶ τὴν ἐν Διὸς πό(λει) τῆι με(γάλῃ) τρά(πεζαν)
+r.2   (τετάρτη) ἁλιέων ἑνὸς καὶ μ (ἔτους) Νικ[ό]λαος καὶ Βιηρτᾶς
+r.3   ὀκτακοσίας ἑξή(κοντα) (γίνονται) ωξ. Ἡρακ(λείδης) τρα(πεζίτης) Α…
+r.4   κθ οἱ αὐ(τοὶ) ὀκτακο(σίας) ἑξή(κοντα) (γίνονται) ωξ. Ἡρακ(λείδης) τρα(πεζίτης) Α…
+
+[TRANSLATION]
+1   Year 41, Hathyr 24. There has been paid into the bank at Diospolis Magna:
+2   the quarter-tax on fisher-folk of year 41, Nik[o]laos and Biertas,
+3   eight hundred sixty — total 860. Herak(leides) banker, 1[…]
+4   On the 29th, the same men, eight hundred sixty — total 860. Herak(leides) banker, 1[…]

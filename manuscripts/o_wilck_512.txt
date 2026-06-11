@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 512 — Brick-tax receipt (πλίνθος), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;512  (Trismegistos 77022)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 512
+label:    O.Wilck. 512
+name:     Brick-tax receipt (πλίνθος), Charax quarter
+genre:    receipts
+date:     22 Jun 115 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12731
+content:  Brick(?)-tax of year 18 of Trajan, Thebes
+tm:       77022
+source:   https://papyri.info/ddbdp/o.wilck;;512
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἰμούθης καὶ μ(έτοχοι) Ἀμενρώσει Ἀμενώθ(ου).
+r.2   ἔσχ(ομεν) ὑπ(ὲρ) πλινθ( ) ιη (ἔτους) κέρ(ματος) (δραχμὰς) τέσσαρας
+r.3   τετρώβολ(ον) (γίνονται) (δραχμαὶ) δ(τετρώβολον). (ἔτους) ιη Τραιανοῦ
+r.4   Ἀρίστου τοῦ κυρίου Παῦνι
+r.5   κη. Ἀ ̣( ) σ(σεσημείωμαι).
+
+[TRANSLATION]
+1   Imouthes and partners, to Amenrosis son of Amenothes.
+2   We have received, for the brick(-tax)(?) of year 18, in coin, four drachmas,
+3   four obols — total 4 dr. 4 ob. Year 18 of Trajan
+4   Optimus the lord, Pauni
+5   28. A( ), I have signed.

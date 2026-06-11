@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Fay. 10 — Brewing-tax receipt (παραζυτοποιία)
+# Source: papyri.info DDbDP o.fay;;10  (Trismegistos 40855)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 10
+label:    O.Fay. 10
+name:     Brewing-tax receipt (παραζυτοποιία)
+genre:    receipts
+date:     55–68 CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 10
+content:  Per-man brewing-tax of Euhemeria, 4 dr., under Nero
+tm:       40855
+source:   https://papyri.info/ddbdp/o.fay;;10
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   [(ἔτους) ̣ ̣ Ν]έρωνος Κλαυδίου Καίσαρος
+r.2   [Σεβαστο]ῦ Γερμανικοῦ Αὐτοκράτορο(ς),
+r.3   [Φαμε]νὼ̣(θ) δ, Κο̣πίθων κα̣ὶ̣ Σ̣άτυ(ρος(?))
+r.4   [παραζ]υτοπ(οιίας(?)) κατʼ ἄνδ(ρα) Εὐημ(ερείας)
+r.5   [ἀργ(υρίου) (δραχμὰς) τέσσ]αρες, (γίνονται) (δραχμαὶ) δ.
+
+[TRANSLATION]
+1   [Year .. of N]ero Claudius Caesar
+2   [Augustu]s Germanicus Imperator,
+3   [Phame]noth 4: Kopithon and Satyros(?)
+4   [for the para-]brewing(?), per man, of Euhemeria,
+5   [of silver, fou]r [drachmas] — total 4 dr.

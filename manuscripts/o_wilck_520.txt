@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 520 — Watchtower- and bath-tax receipt (σκόπελος, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;520  (Trismegistos 77030)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 520
+label:    O.Wilck. 520
+name:     Watchtower- and bath-tax receipt (σκόπελος, βαλανικόν), Charax quarter
+genre:    receipts
+date:     27 May 119 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1581
+content:  Watchtower + bath-tax of year 3 of Hadrian, Thebes
+tm:       77030
+source:   https://papyri.info/ddbdp/o.wilck;;520
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἀπολλόδ(ωρος) πράκ(τωρ) Ὡρος Πεκύσιο(ς) Ὥρο(υ).
+r.2   ἔσχ(ον) ὑπ(ὲρ) σκοπ(έλου) καὶ β(α)λ(ανικοῦ) γ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) τρῖς ὀβ(ολοὺς) τέσσαρας ἥμισυ . (ἔτους) γ
+r.3   Ἁδριανοῦ Καίσαρος τοῦ κυρίου Παχ(ὼν) λ‡7β.
+
+[TRANSLATION]
+1   Apollodoros collector, (to) Horos son of Pekysis, (grand)son of Horos.
+2   He received, for the watchtower(-tax) and bath-tax of year 3, in base (coin), three drachmas, four-and-a-half obols. Year 3
+3   of Hadrian Caesar the lord, Pachon 2(?).

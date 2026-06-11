@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 500 — Collector's receipt (πράκτορες), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;500  (Trismegistos 77010)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 500
+label:    O.Wilck. 500
+name:     Collector's receipt (πράκτορες), Charax quarter
+genre:    receipts
+date:     5 May 109 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4861
+content:  12 dr. of the Charax quarter, year 12 of Trajan, base coin
+tm:       77010
+source:   https://papyri.info/ddbdp/o.wilck;;500
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἀπολ(λώνιος) καὶ μ(έ)τ(οχοι) Φθουμίνι
+r.2   Καλήο(υς). ἔσχ(ομεν) ὑπ(ὲρ) ̣ ̣ ̣ Χά(ρακος) δωδε(κάτου) (ἔτους)
+r.3   ῥυπ(αρὰς) (δραχμὰς) ιβ. (ἔτους) δωδεκ(άτου)
+r.4   Τραιανοῦ τοῦ κυρίου
+r.5   Φαρμ(οῦθι) λ‡7ι.
+
+[TRANSLATION]
+1   Apollonios and partners, to Phthouminis
+2   son of Kales. We have received, for the … of the Charax (quarter), of the twelfth year,
+3   in base (coin), 12 drachmas. Of the twelfth (year)
+4   of Trajan the lord,
+5   Pharmouthi 10(?).

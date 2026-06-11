@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 329 — Bank receipt — nitre-washing tax, Diospolis Magna
+# Source: papyri.info DDbDP o.wilck;;329  (Trismegistos 43730)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 329
+label:    O.Wilck. 329
+name:     Bank receipt — nitre-washing tax, Diospolis Magna
+genre:    receipts
+date:     27 Aug 228 BCE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1147
+content:  Nitre-washing tax, paid into the Diospolis Magna bank, year 20
+tm:       43730
+source:   https://papyri.info/ddbdp/o.wilck;;329
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   (ἔτους) κ Ἐπεὶφ ιγ πέπτωκεν
+r.2   ἐπὶ τὴν ἐν Δι[ὸς πό(λει)] τῆι με(γάλῃ) τρά(πεζαν),
+r.3   ἐφʼ ἧς Διόδοτος, νι τρικῆς πλύ-
+r.4   νου Ψεμμῖνις Παπαῖτος
+r.5   πρὸς ἀργυριν ἑξήκοντα (γίνονται) ξ ☓ [☓].
+r.6   Ἀρί(σ)των γρ(αμματεὺς) ξ ☓.
+
+[TRANSLATION]
+1   Year 20, Epeiph 13. There has been paid
+2   into the bank at Di[ospolis] Magna,
+3   at which Diodotos (presides): of the nitre-washing(-tax),
+4   Psemminis son of Papais,
+5   toward silver, sixty — total 60 dr. [dr.].
+6   Ariston scribe, 60 dr.

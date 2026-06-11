@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 552 — Assessments receipt (μερισμοί), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;552  (Trismegistos 77062)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 552
+label:    O.Wilck. 552
+name:     Assessments receipt (μερισμοί), Charax quarter
+genre:    receipts
+date:     29 May 132 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4584
+content:  Assessments of the Charax quarter, year 16 of Hadrian
+tm:       77062
+source:   https://papyri.info/ddbdp/o.wilck;;552
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἑριοφμόις πράκ(τωρ) ἀργ(υρικῆς) Χά(ρακος)
+r.2   Ἀμενώθῃ Ἁρβήχιο(ς). ἔσχ(ον)
+r.3   ὑπ(ὲρ) μερισ(μῶν) Χά(ρακος) ιϛ (ἔτους) ῥυπ(αρὰν) (δραχμὴν) μίαν (γίνεται) ῥυπ(αρὰ)
+r.4   (δραχμὴ) α. (ἔτους) ιϛ Ἁδριανοῦ τοῦ κυρίου
+r.5   Παῦνι δ.
+
+[TRANSLATION]
+1   Heriophmois, collector of money-tax of the Charax (quarter),
+2   (to) Amenothes son of Harbechis. He received,
+3   for assessments of the Charax (quarter), year 16, in base (coin), one drachma — total, base,
+4   1 dr. Year 16 of Hadrian the lord,
+5   Pauni 4.

@@ -1,0 +1,47 @@
+# ───────────────────────────────────────────────
+# BGU 3.840 — Lease of farmland with labour obligations
+# Source: papyri.info DDbDP bgu;3;840  (Trismegistos 37081)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.840
+label:    BGU 3.840
+name:     Lease of farmland with labour obligations
+genre:    contracts
+date:     6th–7th c. CE
+language: Greek (Koiné)
+found:    Arsinoite nome / Fayum, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 2564
+content:  A farmer undertakes all cultivation of the leased arouras (binding the hay, etc.); the landlord supplies seed and deducts wages from the common account; Byzantine Arsinoite
+tm:       37081
+source:   https://papyri.info/ddbdp/bgu;3;840
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   [ ̣ ̣ ̣ ̣ ̣ ̣ τὰ πρ]ὸς τὴν καλλιεργείαν τῶν αὐτῶν ἀρουρῶν ἔργα πάντα ἀκατα-
+r.2   [γνώστως ποι]εῖσθαι δʼ ἐμὲ καὶ τὴν δέσιν το(ῦ) παντὸς χόρτο(υ), τῶν τε παντοίων
+r.3   [τετραπόδων] καὶ προχρείας σπερμάτων καὶ τίλσεως τοῦ χόρτου ὁρώντω(ν)
+r.4   [πρὸς σ]ὲ τὸν γεοῦχον, καὶ ὑφεξαιρεῖσθαί σε ἐνιαυσίως ἐκ τῆς κοινώτητος
+r.5   [τὰ διδό(?)]μενα παρὰ σοῦ σπέρματα καὶ ὑπὲρ μισθο(ῦ) δραγματηγείας κατα
+r.6   [- ca.27 -] ̣ ̣ ὑφεξαιρεῖσθαί σε ἐκ τῆς
+r.7   [κοινώτη]τος καὶ τὸν μισθὸν τοῦ ἁλωεισμοῦ καὶ ὑπὲρ γεουχικῆς συνηθείας
+r.8   [ ̣ ̣ ̣ ̣ κα]τὰ ἀρτάβην μίαν ἀρτάβης ἥμισυ . ἡ μίσθωσις κυρία καὶ ἐπερ(ωτηθεὶς) ὡμ(ολόγησα).
+r.9   (hand 2) [- ca.10 -] ̣ ̣ ̣ ̣ γεο̣ρ̣γ̣ὸ̣ς̣ ὁ̣ π̣ροκ(είμενος) μεμίσθωμαι τὰς προγεγραμμένας ἀρ̣ο̣ύ̣ρ̣ας
+r.10   καὶ πο̣ι̣ήσω καὶ δώσω καὶ πληρώσω πάντο ὁς πρόκ(ειται) Αὐρήλιος Ἠλίας Παύλ(ου)
+r.11   [ἔγρ(αψα) (ὑπὲρ) αὐτοῦ παρόν]τος ἀγραμμάτου ὄντος ⳨ .
+
+[TRANSLATION]
+1   […] to do all the works [t]oward the good cultivation of the same arouras, irre-
+2   [proachably]; and (that) I (do) also the binding of all the hay, while the various
+3   [four-footed beasts] and the advance of seed and the plucking of the hay look
+4   [to y]ou the landlord; and (that) you deduct yearly from the common (account)
+5   [the see]d given by you, and for the wage of sheaf-carrying, accord-
+6   [ing to …] … (that) you deduct from the
+7   [commo]n (account) also the wage of the threshing, and for the landlord's customary due
+8   […, a]t one and a half artabas per artaba. The lease is valid, and on being questioned I agreed.
+9   (2nd hand) [I, …]…, the aforesaid farmer, have leased the aforewritten arouras
+10   and I will do and give and pay everything as is stated above. I, Aurelius Elias son of Paul(os),
+11   [wrote on his behalf, as he is] present (but) illiterate. ⳨

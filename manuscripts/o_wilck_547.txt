@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 547 — Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;547  (Trismegistos 77056)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 547
+label:    O.Wilck. 547
+name:     Watchtower- and other-taxes receipt (σκόπελος), Charax quarter
+genre:    receipts
+date:     5 Nov 131 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4547
+content:  Watchtower + other taxes of the Charax quarter, year 16 of Hadrian
+tm:       77056
+source:   https://papyri.info/ddbdp/o.wilck;;547
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἑριοφμόις πράκ(τωρ) ἀργ(υρικῆς)
+r.2   Ἀμενώθῃ Ἁρβήχ(ιος).
+r.3   ἔσχ(ον) ὑπ(ὲρ) σκοπ(έλου) καὶ ἄλ(λων) Χά(ρακος) ιϛ (ἔτους)
+r.4   ῥυπ(αρὰς) (δραχμὰς) τρεῖς (ὀβολοὺς) δ𐅵 (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) γ (ὀβολοὶ) δ𐅵.
+r.5   (ἔτους) ιϛ Ἁδριανοῦ τοῦ κυρίου
+r.6   Ἁθὺρ η.
+
+[TRANSLATION]
+1   Heriophmois, collector of money-tax,
+2   (to) Amenothes son of Harbechis.
+3   He received, for the watchtower(-tax) and others of the Charax (quarter), year 16,
+4   in base (coin), three drachmas, 4½ obols — total, base, 3 dr. 4½ ob.
+5   Year 16 of Hadrian the lord,
+6   Hathyr 8.

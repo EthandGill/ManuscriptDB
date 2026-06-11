@@ -1,0 +1,57 @@
+# ───────────────────────────────────────────────
+# BGU 3.825 — Declaration of a house-sale to the property-registry
+# Source: papyri.info DDbDP bgu;3;825  (Trismegistos 9372)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.825
+label:    BGU 3.825
+name:     Declaration of a house-sale to the property-registry
+genre:    contracts
+date:     190/191 CE
+language: Greek (Koiné)
+found:    Arsinoite nome / Fayum, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7110
+content:  Lower part of a house-sale: the buyer is to own the house and may resell; the seller (Taeu…) warrants it; with a request to register the sale with the bibliophylakes; year 31 of Commodus
+tm:       9372
+source:   https://papyri.info/ddbdp/bgu;3;825
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   [- ca.29 -] ̣νει
+r.2   ̣ ̣ ̣ην κ̣αὶ [ἀπὸ] τοῦ νῦν κρατεῖν καὶ κυριεύειν
+r.3   τῆς πε[πρα]μένης αὐτῇ ὡς πρόκειται οἰκίας
+r.4   καὶ τὰ ἐξ α[ὐτ]ῆς περιγεινόμενα ἀποφέρεσθαι εἰς τὸ
+r.5   ἴδιον καὶ [ἐξ]ουσίαν ἔχειν ἑτέροις πωλεῖν καὶ διοι-
+r.6   κεῖν καὶ [ἐπι]τελεῖν περὶ αὐτῆς ὃ ἐὰν αἱρῆται, τὴν δὲ
+r.7   Ταευ ̣[ ̣ ̣ ̣]ν μὴ ἐπιπορευσθαι ἐπὶ ταύτην μη-
+r.8   δὲ ἄλλ[ον ὑ]πὲρ αὐτῆς μηδένα κατὰ μηδένα
+r.9   τρόπον [τῆ]ς βεβαιώσεως ἐξακολουθούσης αὐτῇ
+r.10   διὰ παν[τ]ὸς δεδομου τοῦ ὑπὲρ ἐπιστάλματος
+r.11   ὡρισμου . ἀξιο(ῦμεν). ἔτους λα Αὐρηλίου Κομόδου
+r.12   Ἀντων[εί]νου Καίσαρος τοῦ [κ]υρί[ου] ̣ ̣ ̣ ̣
+r.13   ταύτην̣ δὲ β[ο]υλομεος̣ προ[σ(?)]φωνηθῆναι τ̣ο̣ῖ̣ς̣(?) τῶν
+r.14   [ἐ]νκτήσεων τοῦ Ἀρ[σ]ι[νο]εί[του] βιβλιοφύλαξι ἀξ̣[ιῶ] ἐπιλα-
+r.15   βοῦσι τοτε̣ [ ̣ ̣]ης ἐγδόσ̣ε̣ω̣ς̣ ̣ ̣ς καὶ τῷ̣ ἐ̣π̣ιστ̣[άλ]ματι
+r.16   (hand 3) σεσημ(είωμαι)
+
+[TRANSLATION]
+1   […]…
+2   …; and [from] now to hold and own
+3   the house [so]ld to her as stated above,
+4   and to carry off for her own the proceeds from i[t],
+5   and to have the [pow]er to sell to others and to man-
+6   age and [to ca]rry out concerning it whatever she chooses; and that
+7   Taeu…[…]n shall not proceed against this (house), nor
+8   anyone [els]e on her behalf, in any
+9   way, the guarantee following upon it for her
+10   throughout, the (sum) given for the order(?) being
+11   fixed. We request (it). Year 31 of Aurelius Commodus
+12   Anton[i]nus Caesar the [l]ord …
+13   And wishing this to be reported to the
+14   [ke]epers of the property-registry of the Arsinoite (nome), I req[uest] that, having received
+15   the … of the issue … and to the (registration-)order(?) …
+16   (3rd hand) I have signed.

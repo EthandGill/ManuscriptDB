@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 525 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;525  (Trismegistos 77035)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 525
+label:    O.Wilck. 525
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν), Charax quarter
+genre:    receipts
+date:     30 Mar 121 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4582
+content:  Poll-tax + bath-tax (two persons) of the Charax quarter, year 5 of Hadrian
+tm:       77035
+source:   https://papyri.info/ddbdp/o.wilck;;525
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἀπολλόδ(ωρος) πράκ(τωρ) Ἀμενώθης Ἁρβήχιος.
+r.2   ἔσχ(ον) ὑπ(ὲρ) λαογρ(αφίας) καὶ βαλ(ανικοῦ) Χά(ρακος) ε (ἔτους) ῥυπ(αρὰς) (δραχμὰς) δώδεκα
+r.3   (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) ιβ, καὶ ὀνόμ(ατος) Παμώνθης ἀδελφὸς
+r.4   ὁμοίως ὑπ(ὲρ) λαογρ(αφίας) καὶ βαλ(ανικοῦ) ε (ἔτους) ῥυπ(αρὰς) (δραχμὰς) ιβ (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) ιβ.
+r.5   (ἔτους) ε Ἁδριανοῦ Καίσαρος
+r.6   τοῦ κυρίου Φαμ(εν)ὼθ λ‡7λ. Πεκ̣( )
+
+[TRANSLATION]
+1   Apollodoros, collector, (to) Amenothes son of Harbechis.
+2   He received, for poll-tax and bath-tax of the Charax (quarter), year 5, in base (coin), twelve drachmas
+3   — total, base, 12 dr.; and in the name of Pamonthes (his) brother,
+4   likewise for poll-tax and bath-tax of year 5, in base (coin), 12 dr. — total, base, 12 dr.
+5   Year 5 of Hadrian Caesar
+6   the lord, Phamenoth 30. Pek( ).

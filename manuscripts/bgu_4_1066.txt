@@ -1,0 +1,49 @@
+# ───────────────────────────────────────────────
+# BGU 4.1066 — Sale of a donkey (ὄνος)
+# Source: papyri.info DDbDP bgu;4;1066  (Trismegistos 18510)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1066
+label:    BGU 4.1066
+name:     Sale of a donkey (ὄνος)
+genre:    contracts
+date:     29 Aug – 27 Sept 98 CE
+language: Greek (Koiné)
+found:    Provenance unknown, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13364
+content:  Theogiton sells a white-mouse-coloured full-grown donkey to Ptolemaios for 108 dr.; receipt of price, year 2 of Trajan
+tm:       18510
+source:   https://papyri.info/ddbdp/bgu;4;1066
+lat:      27.0
+lon:      31.0
+
+[GREEK]
+r.1   Θεογ[ί]τ[ω]ν Θεογίτωνος
+r.2   Πτολεμαίῳ Ἡρακλίδου
+r.3   χαίριν . πέπρακά σοι
+r.4   τὸν ὑπάρχοντά μοι
+r.5   ἀγορασ̣τὸν παρὰ σοῦ
+r.6   ὄνον λευκομυόχρουν
+r.7   τέ̣λιον καὶ ἀπέχω τὴν
+r.8   τ̣ιμὴν ἀργυρίου δρα[χμὰς]
+r.9   ἑκατὸν ὀκκτώ , (γίνονται) (δραχμαὶ) ρη ̣ ̣ ̣[⁦ -ca.?- ⁩]
+r.10   θου. ἔτους δευτέρου Αὐτοκράτορος
+r.11   Καίσαρο[ς] Νέρουα Τραιανοῦ Σεβαστοῦ
+r.12   Θῶ[θ ̣ ̣]
+
+[TRANSLATION]
+1   Theogiton son of Theogiton,
+2   to Ptolemaios son of Heraklides,
+3   greeting. I have sold to you
+4   the donkey belonging to me,
+5   bought from you,
+6   white-mouse-coloured,
+7   full-grown, and I have received the
+8   price, of silver, [drachmas]
+9   one hundred and eight — total 108 dr. …[…]
+10   …thou(?). Year two of Imperator
+11   Caesar Nerva Trajan Augustus,
+12   Tho[th ..].

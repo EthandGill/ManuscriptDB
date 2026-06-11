@@ -1,0 +1,77 @@
+# ───────────────────────────────────────────────
+# P.Oxy. 2.264 — Sale of a weaver's loom (ἱστὸς γερδιακός)
+# Source: papyri.info DDbDP p.oxy;2;264  (Trismegistos 20535)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy. 2.264
+label:    P.Oxy. 2.264
+name:     Sale of a weaver's loom (ἱστὸς γερδιακός)
+genre:    contracts
+date:     8 Aug 54 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cambridge, University Library Add. Ms. 4054
+content:  Ammonios sells Tryphon a weaver’s loom (3 cubits, 2 beams, 2 loom-feet, 1 heddle-rod) for 20 dr. paid through the Sarapeion bank; signatures and bank-note
+tm:       20535
+source:   https://papyri.info/ddbdp/p.oxy;2;264
+lat:      28.5383
+lon:      30.6765
+
+[GREEK]
+r.1   Ἀμμώνιος Ἀμμωνίου Τρύφωνι Διονυσίου
+r.2   χαίρειν. ὁμολογῶ πεπρακέναι σοι τὸν ὑπάρ-
+r.3   χοντά μοι ἱστὸν γερδι[ακὸν] π[η]χῶν γερδιακῶ(ν)
+r.4   τριῶν παρὰ παλαιστὰς δύο , οὗ ἀντία δύο ,
+r.5   ἱστόποδες δύο , ἐπίμιτ[ρον ἓν καὶ] ἀ̣πέχειν παρὰ σ(οῦ)
+r.6   διὰ τῆς ἐπὶ τοῦ πρὸς Ὀξ[υρύγχ(ων)] πόλει Σαραπιείου
+r.7   Σαραπίωνος τοῦ Λόχου τραπέζης τὴν ἑσταμένη(ν)
+r.8   πρὸς ἀλλήλους τούτου τιμὴν ἀργυρίου Σεβαστοῦ καὶ
+r.9   Πτολεμαικοῦ νομίσματος δραχμὰς
+r.10   εἴκοσι , κ[αὶ] βεβαιώσειν σοι τὴν πρᾶσιν πάσῃ
+r.11   βεβαιώσ[ει] ἢ ἐκτείσειν σοι ἣν ἔσχον παρὰ σοῦ
+r.12   τιμὴν σὺν ἡμιολίᾳ καὶ τὸ βλάβος. κυρία ἡ χείρ.
+r.13   (ἔτους) ιδ Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ
+r.14   Γερμανικοῦ Αὐτοκράτορος, μη(νὸς) Καισαρείου ιε.
+r.15   (hand 2) Ἀμμώνιος Ἀμμωνίου πέπρακα τὸν ἱστὸν
+r.16   καὶ ἀπέχω τὴν τιμὴν τὰς τοῦ ἀργυρίου δραχμὰ(ς)
+r.17   εἴκοσι καὶ βεβαιώσωι καθότι πρόκιται. Ἡρα-
+r.18   κλείδης Δ[ιον]υσίου ἔγραψα ὑπὲρ αὐτοῦ μὴ
+r.19   εἰδότος γράμματα. (ἔτους) ιδ Τιβερίου Κλαυδίου
+r.20   Καίσαρος Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος,
+r.21   μη(νὸς) Καισαρείου ιε Σεβαστῇ.
+r.22   (hand 3) ἔτους τεσσαρεσκαιδεκάτου
+r.23   Τιβερίου Κλαυδίου Καίσαρος
+r.24   Σεβαστοῦ Γερμανικοῦ
+r.25   Αὐτοκράτορος, μη(νὸς) Καισαρείου ιε
+r.26   Σεβαστῇ, δι(ὰ) τῆ(ς) Σαρ(απίωνος) τρ(απέζης) γέγο(νεν) ἡ διαγρ(αφή).
+
+[TRANSLATION]
+1   Ammonios son of Ammonios, to Tryphon son of Dionysios,
+2   greeting. I acknowledge that I have sold to you the loom
+3   belonging to me, a weaver's loom of three weaver's cubits
+4   less two palms, of which (there are) two beams,
+5   two loom-feet, [one] heddle-rod, [and that I have] received from yo(u),
+6   through the bank of Sarapion son of Lochos at the Sarapeion by the
+7   city of Ox[yrhynchus], the
+8   price of this, fixed between us, of silver of Augustan and
+9   Ptolemaic coinage,
+10   twenty drachmas, an[d that] I will guarantee to you the sale with every
+11   guaran[tee], or else pay you back the price which I received from you
+12   with half as much again, and the damage. The bond is valid.
+13   Year 14 of Tiberius Claudius Caesar Augustus
+14   Germanicus Imperator, mo(nth) Kaisareios 15.
+15   (2nd hand) I, Ammonios son of Ammonios, have sold the loom
+16   and have received the price, the twenty silver drachma(s),
+17   twenty, and I will guarantee as stated above. I, Hera-
+18   kleides son of D[ion]ysios, wrote on his behalf, as he does not
+19   know letters. Year 14 of Tiberius Claudius
+20   Caesar Augustus Germanicus Imperator,
+21   mo(nth) Kaisareios 15, the Sebaste (day).
+22   (3rd hand) Year fourteenth
+23   of Tiberius Claudius Caesar
+24   Augustus Germanicus
+25   Imperator, mo(nth) Kaisareios 15,
+26   the Sebaste (day): through the bank of Sar(apion) the payment (diagraphe) was made.

@@ -1,0 +1,89 @@
+# ───────────────────────────────────────────────
+# P.Oxy. 2.305 — Loan of money (cheirograph) to a priest
+# Source: papyri.info DDbDP p.oxy;2;305  (Trismegistos 16671)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy. 2.305
+label:    P.Oxy. 2.305
+name:     Loan of money (cheirograph) to a priest
+genre:    contracts
+date:     12 Jan 20 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Oxford, Bodleian Library MS. Gr. class. c. 48 (P)
+content:  Herakleios and his wife Thermoutharion acknowledge a 104-dr. loan from Thoonis, priest of Thoeris/Isis/Sarapis, repayable by Mecheir 30; year 6 of Tiberius
+tm:       16671
+source:   https://papyri.info/ddbdp/p.oxy;2;305
+lat:      28.5383
+lon:      30.6765
+
+[GREEK]
+r.1   Ἡράκλειος Σωτηρίχου Πέρσ[η]ς τῆς ἐπιγονῆς
+r.2   καὶ ἡ γυνὴ Θερμουθάριον ἀπελ[ε]υθέρα Σωτάδου
+r.3   μετὰ κυρίου [τ]οῦ ἀνδρὸς, Θοῶνει Πατβέως ἱερεῖ Θοήριδος
+r.4   κ[αὶ Ἴσι]δος καὶ Σαράπιδος καὶ τῶν συννάων θεῶν
+r.5   μεγίστων χαίρειν. ὁμολογοῦμεν ἔχειν παρὰ σοῦ ἐπὶ τοῦ
+r.6   π̣ρ̣ὸ̣ς̣ Ὀξυρύγχων π[ό]λει Σαραπιείου διὰ τῆς Ἁρποχρατίωνο(ς)
+r.7   τοῦ Ἀπερῶτος [ἰδιω]τικ[ῆς] τραπέζης ἀργυρίου νομίσ-
+r.8   ματος δραχμὰς ἑκατὸν τέσσαρας, (γίνονται) ἀργ(υρίου) (δραχμαὶ) ρδ κεφαλαίου
+r.9   α[ἷς] οὐδὲν τῷ κα[θό]λου προσῆκται, ἃς καὶ ἀποδώσ[ο-]
+r.10   μέν σοι τ[ῇ] τριακ[άδ]ι τοῦ Μεχεὶρ τοῦ ἐνεστῶτος ἕκτου
+r.11   ἔτους Τιβερίου [Καί]σ[α]ρος Σεβαστοῦ, χω[ρὶ]ς πάσης ὑπερθέ-
+r.12   σεως. ἐὰν δ[ὲ] μὴ [ἀ]ποδῶμεν κ[αθὰ] γέγραπται, ἐκτεί-
+r.13   σομέν σοι τὸ προκείμενον κεφ[άλαι]ον μεθʼ ἡμ[ιο]λίας
+r.14   καὶ τόκους τοῦ ὑπερπε[σ]όντ[ος χρό]νου [το]ὺ̣ς̣ καθή-
+r.15   κ̣ο̣ν̣τας, ὄ̣ν̣τ̣ε̣ς̣ ἀλλήλων ἔγγυ[ο]ι [εἰς ἔ]κτεισιν, τῆς
+r.16   πράξεώς σοι οὔσης ἔκ τε ἡμῶν κ[αὶ ἐ]ξ οὗ ἐὰν αἱρῇ
+r.17   [καὶ ἐ]κ τῶν ὑ[πα]ρχόντω̣ν̣ ἡ̣μ̣[ῶν πά]ντων καθ[ά]περ
+r.18   ἐ[κ] δί[κ]ης, ἀ̣κ̣ύ̣ρων οὐσῶ[ν καὶ ὧν] ἐὰν ἐπενεγ-
+r.19   [κ]ῶσιν ̣ ̣[- ca.9 -]ν. κ[υρία ἡ χεὶρ] π[αντα]χῇ
+r.20   ἐπι[φε]ρομένη καὶ παντὶ τῶ[ι ἐπιφέ]ροντι.
+r.21   (ἔτους) ἕκτου Τιβερίου [Καίσαρος] Σ[ε]βαστοῦ, Τῦβι ιϛ.
+r.22   (hand 2) Ἡράκλ[ε]ιος Σωτηρίχου [κα]ὶ ἡ γυνὴ
+r.23   Θερμουθάριον ἀπελευθέρα Σωτάδου ἔχομεν
+r.24   διʼ ἐγγύω[ν] ἀλλήλων τὰ[ς] τοῦ ἀργυρίου δραχ(μὰς)
+r.25   ἑκατὸν τέσσαρες κεφαλαίου καὶ ἀποδώ-
+r.26   σομεν καθό[τι πρό]κίται. Ἡρά̣[κλε]ιος ἐπιγέγραμμαι
+r.27   τῆς γυνα[ικὸς κύ]ριος. Δίος [Σ]αραπίωνος ἔγραψα ὑπὲρ
+r.28   α̣ὐ̣τ̣ῶ̣ν̣ μὴ̣ [ε]ἰδότ[ω]ν γράμματ[α. (ἔτους) ϛ] Τιβερίου Καίσαρος
+r.29   [Σε]βαστοῦ, Τῦβι ιϛ. (hand 2)
+r.30   [ἔτους] ἕκτου [Τιβ]ερίου Καίσαρος Σεβαστο[ῦ], Τῦβι ιϛ, διὰ τῆς Ἁρποκρ(ατίωνος)
+r.31   [τ]ρα(πέζης) γέ[γο]νεν [ἡ] διαγρα(φή). ἔτους ἕ[κτου] Τιβερίου Καίσαρος Σεβαστοῦ
+r.32   [- ca.20 -] ̣ ̣ ̣ ̣ (δραχμὰς) ι[δ]
+
+[TRANSLATION]
+1   Herakleios son of Soterichos, a Pers[i]an of the epigone,
+2   and his wife Thermoutharion, freed[wo]man of Sotades,
+3   with (her) guardian, [h]er husband, to Thoonis son of Patbeus, priest of Thoeris
+4   a[nd Isi]s and Sarapis and the temple-sharing gods,
+5   the greatest, greeting. We acknowledge that we have from you, at the
+6   Sarapeion by the city of Oxyrhynchus, through the [priva]te bank of Harpochration
+7   son of Aperos, of silver coin-
+8   age, one hundred and four drachmas — total 104 silver dr. — of principal,
+9   t[o which] nothing at all has been added, which we will also repay
+10   to you on the thirti[et]h of Mecheir of the present sixth
+11   year of Tiberius [Cae]s[a]r Augustus, with[ou]t any postpone-
+12   ment. And if [we] do not [r]epay a[s] is written, we will pay
+13   you the aforesaid prin[cip]al with half as much again
+14   and interest, for the time elap[s]ed, the appropr-
+15   iate (rate), being sureties for one another [for the re]payment, the
+16   right of execution belonging to you both from us a[nd fr]om whomever you choose
+17   [and fr]om all our [pos]sessions, just as
+18   by legal judgement, void being [whatever pledges] they may bring
+19   forward …[…]. The [bond is valid] every[wh]ere
+20   produced and for everyone [produ]cing it.
+21   Year sixth of Tiberius [Caesar] A[u]gustus, Tybi 16.
+22   (2nd hand) Herakl[e]ios son of Soterichos [an]d his wife
+23   Thermoutharion, freedwoman of Sotades, we have,
+24   through sureties of one another, the silver drach(mas)
+25   one hundred and four of principal, and we will re-
+26   pay as is sta[ted abo]ve. I, Hera[kle]ios, have been registered
+27   (as) the guardian of the wo[man]. I, Dios son of [S]arapion, wrote on behalf
+28   of them, as they do not [k]now letter[s. Year 6] of Tiberius Caesar
+29   [Au]gustus, Tybi 16. (2nd hand)
+30   [Year] sixth of [Tib]erius Caesar Augustu[s], Tybi 16: through the bank of Harpokr(ation)
+31   the payment [wa]s made. Year si[xth] of Tiberius Caesar Augustus
+32   […] … 1[4] (drachmas)

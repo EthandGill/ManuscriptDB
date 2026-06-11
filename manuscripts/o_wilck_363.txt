@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 363 — Poll-tax receipt (λαογραφία), Thebes
+# Source: papyri.info DDbDP o.wilck;;363  (Trismegistos 76883)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 363
+label:    O.Wilck. 363
+name:     Poll-tax receipt (λαογραφία), Thebes
+genre:    receipts
+date:     20/21 CE (Tiberius, yr 7)
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Paris, Louvre E 8199
+content:  Poll-tax of year 7: 10 dr. + surcharges
+tm:       76883
+source:   https://papyri.info/ddbdp/o.wilck;;363
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρ(άφηκεν(?)) Πανᾶς Πετεμ( ) ὑπ(ὲρ) λα(ογραφίας)
+r.2   ζ (ἔτους) (δραχμὰς) δ(έ)κ(α) (γίνονται) (δραχμαὶ) ι καὶ πρ(οσδιαγραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου). (ἔτους) ζ Τ̣ι̣β̣(ερί)ου
+r.3   Καίσαρος Αὐτοκράτορος Σεβαστοῦ
+r.4   Παχὼ(ν) σεβαστῆι. Πα( ) σ(εσημείωμαι).
+
+[TRANSLATION]
+1   Panas son of Petem( ) has paid(?), for poll-(tax)
+2   of year 7, ten drachmas — total 10 dr. — and surcharges at an obol (and) half-obol. Year 7 of Tib(eri)us
+3   Caesar Imperator Augustus,
+4   Pachon, the Sebaste day. Pa( ) signed.

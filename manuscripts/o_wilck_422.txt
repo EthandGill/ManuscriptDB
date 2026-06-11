@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 422 — Poll-tax, guards'-pay and dike-tax receipt
+# Source: papyri.info DDbDP o.wilck;;422  (Trismegistos 76933)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 422
+label:    O.Wilck. 422
+name:     Poll-tax, guards'-pay and dike-tax receipt
+genre:    receipts
+date:     10 Oct 68 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4306
+content:  Poll-tax + guards'-pay + dike-tax, year 14 of Nero, Hermonthis
+tm:       76933
+source:   https://papyri.info/ddbdp/o.wilck;;422
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέγρα(ψεν) Καμήτιο(ς) Πετεαρπ(ρήους)
+r.2   Ἀμφιώμιο(ς) μη(τρὸς) Τασήμιος
+r.3   ὑπ(ὲρ) λαο(γραφίας) Νότου καὶ Λιβὸ(ς) ιδ (ἔτους)
+r.4   (δραχμὰς) δ. (ἔτους) ιδ Νέρωνος τοῦ
+r.5   κυρίου Παῦνι κβ. (hand 2) [ὁ]μο(ίως) Ἐπὶφ
+r.6   κϛ ὑπ(ὲρ) ὀψω(νίου) φυλάκ(ων) (δραχμὴν) α(τετρώβολον), ὁμο(ίως)
+r.7   β (ἔτους) Φαῶφ(ι) ιγ ὑπ(ὲρ) χω(ματικοῦ) α (ἔτους)
+r.8   (δραχμὰς) γ(ὀβολὸν), αἳ κ(αθαραί) (δραχμαὶ) β(τετρώβολον)(ἡμιωβέλιον).
+
+[TRANSLATION]
+1   Kametis son of Petearpres,
+2   grandson of Amphiomis, mother Tasemis,
+3   for poll-tax of the South-and-West (quarter), year 14,
+4   4 dr. Year 14 of Nero the
+5   lord, Pauni 22. (2nd hand) [Li]kewise Epeiph
+6   26, for the guards' pay, 1 dr. 4 ob.; likewise
+7   (in) year 2, Phaophi 13, for dike-tax of year 1,
+8   3 dr. 1 ob., which net 2 dr. 4½ ob.

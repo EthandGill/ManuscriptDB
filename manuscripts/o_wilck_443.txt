@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 443 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;443  (Trismegistos 76954)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 443
+label:    O.Wilck. 443
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν), Charax quarter
+genre:    receipts
+date:     28 Jul 76 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 516
+content:  Dike-tax + bath-tax of the Charax quarter, year 8 of Vespasian, two payers
+tm:       76954
+source:   https://papyri.info/ddbdp/o.wilck;;443
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρα(φήκασιν) Ἀμενρῶ(σις) Θαμο ̣( )
+r.2   καὶ Ἀχιλλεὺς Τεῶτος
+r.3   (οἱ) β ὑπ(ὲρ) χω(ματικοῦ) Χά(ρακος) η (ἔτους) (δραχμὰς) ιγ(διώβολον), βα(λανικοῦ) α(τετρώβολον)
+r.4   καὶ (προσδιαγραφόμενα). (ἔτους) η Οὐεσπασιανοῦ
+r.5   τοῦ κυρίου Ἐπεὶφ λ‡7δ.
+r.6   (hand 2) Ἀπίω(ν) σεση(μείωμαι).
+
+[TRANSLATION]
+1   Amenrosis son of Thamo…( )
+2   and Achilleus son of Teos,
+3   the two, paid, for dike-tax of the Charax (quarter), year 8, 13 dr. 2 ob.; bath-tax 1 dr. 4 ob.,
+4   and surcharges. Year 8 of Vespasian
+5   the lord, Epeiph 4(?).
+6   (2nd hand) Apion, I have signed.

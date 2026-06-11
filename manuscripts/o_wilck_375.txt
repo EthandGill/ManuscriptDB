@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 375 — Poll-tax receipt (λαογραφία)
+# Source: papyri.info DDbDP o.wilck;;375  (Trismegistos 76892)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 375
+label:    O.Wilck. 375
+name:     Poll-tax receipt (λαογραφία)
+genre:    receipts
+date:     28 Aug 35 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1621
+content:  Poll-tax of year 21 of Tiberius
+tm:       76892
+source:   https://papyri.info/ddbdp/o.wilck;;375
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) Ἑριέως Παάπιος [ὑπ(ὲρ) ̣ ̣ ̣ ̣]
+r.2   κα (ἔτους) δ´λβ´ (δραχμὰς) ια (ὀβολὸν) α𐅵 καὶ τὰ προσδ(ιαγραφόμενα) [ἐξ (ὀβολοῦ)(ἡμιωβελίου)].
+r.3   (ἔτους) κα Τιβερίου Καίσαρος Σεβαστοῦ.
+r.4   Μεσορὴ λ‡7ε. Πετεμε(νῶφις) Πικ(ῶτος).
+
+[TRANSLATION]
+1   Has paid: (the son) of Herieus son of Paapis, [for …]
+2   year 21: ¼ ¹⁄₃₂, 11 (dr.) 1½ ob., and the surcharges [at an obol (and) half-obol].
+3   Year 21 of Tiberius Caesar Augustus.
+4   Mesore 35. Petemenophis son of Pikos.

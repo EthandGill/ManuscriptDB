@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 475 — Poll-tax receipt (λαογραφία), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;475  (Trismegistos 76985)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 475
+label:    O.Wilck. 475
+name:     Poll-tax receipt (λαογραφία), Charax quarter
+genre:    receipts
+date:     14 May 89 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. number unknown
+content:  Poll-tax of the Charax quarter, year 8 of Domitian
+tm:       76985
+source:   https://papyri.info/ddbdp/o.wilck;;475
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διέ(γραψεν) Παναμ(εὺς) Φθουμ(ίνιος) Ψενχνο(ύβιος)
+r.2   ὑπ(ὲρ) λαο(γραφίας) Χά(ρακος) η (ἔτους) (δραχμὰς) ι, ἄ(λλων) α (ὀβολὸν) α𐅵 κ(αὶ) προ(σδιαγραφόμενα).
+r.3   (ἔτους) η Δομιτιανοῦ τοῦ κυρίου
+r.4   Φαρμ(οῦθι) λ‡7ιθ. Ἀπολ( ).
+
+[TRANSLATION]
+1   Panameus son of Phthouminis, (grand)son of Psenchnoubis, paid,
+2   for poll-tax of the Charax (quarter), year 8, 10 dr.; of others, 1 (dr.) 1½ ob., and surcharges.
+3   Year 8 of Domitian the lord,
+4   Pharmouthi 19(?). Apol( ).

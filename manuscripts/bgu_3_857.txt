@@ -1,0 +1,57 @@
+# ───────────────────────────────────────────────
+# BGU 3.857 — Loan of money (cheirograph)
+# Source: papyri.info DDbDP bgu;3;857  (Trismegistos 20068)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.857
+label:    BGU 3.857
+name:     Loan of money (cheirograph)
+genre:    contracts
+date:     6 Jan 113 CE
+language: Greek (Koiné)
+found:    Arsinoite nome / Fayum (provenance uncertain), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8145
+content:  Gaius Aruntius Posidonios acknowledges an interest-bearing loan of 300 dr. from Stotoetis, on top of 1452½ dr. already owed; year 16 of Trajan
+tm:       20068
+source:   https://papyri.info/ddbdp/bgu;3;857
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Γάιος Ἀ̣ρούντ[ιο]ς̣ Ποσιδώ̣νιος
+r.2   Στοτοήτι Ἀπύγχιτο[ς Ὀρσ]ενούφι[ος]
+r.3   χαίρειν. ὁμολο[γ]ῶ ἔχε[ιν] παρὰ σοῦ
+r.4   χρῆσιν ἔντοκ[ο]ν ἀργυρίου κεφαλαίου
+r.5   δραχμὰς τριακοσίας (γίνονται) (δραχμαὶ) τ
+r.6   χρωρὶς μὲν ἄλλων <ὧν> ὀφίλο σο̣[ι]
+r.7   κατʼ ἀσπάλιαν δανίω̣ν
+r.8   ἀργυρίου κεφαλέου (δραχμὰς) χιλίας τετρα-
+r.9   κοσίας πεντήκοντα δύο (τριώβολον),
+r.10   (γίνονται) Αυνβ ̣, ἃς καὶ ἀποδόσο σοι
+r.11   ἐν μηνὶ Ἐπὶπ τοῦ ἐνεστο͂τος ἔτο[υ]ς
+r.12   ἑκ[κ]αιδεκάτου Τραι[α]νοῦ Καίσαρ[ος τ]οῦ
+r.13   κυ[ρ]ίου. ἡ χὶρ ὁς ἔγραψα.
+r.14   ἔτους ιϛ Αὐτοκράτορος Καίσαρος
+r.15   Νέρ[ου]α Τραιανοῦ Σεβαστοῦ Γερμ[ανι]κοῦ
+r.16   Δα[κι]κοῦ Τῦβ̣[ι] ια.
+
+[TRANSLATION]
+1   Gaius Aruntius Posidonios,
+2   to Stotoetis son of Apynchis son [of Ors]enouphis,
+3   greeting. I acknowled[g]e that I have from you
+4   an interest-bearing loan, of silver principal,
+5   three hundred drachmas — total 300 dr. —
+6   apart from the others which I owe yo[u]
+7   under a security of loans,
+8   of silver principal, one thousand four
+9   hundred fifty-two (drachmas), three obols,
+10   — total 1452 — which I will also repay you
+11   in the month Epeiph of the present
+12   sixteenth year of Trajan Caesar the
+13   lord. The bond, as I wrote (it, is valid).
+14   Year 16 of Imperator Caesar
+15   Ner[v]a Trajan Augustus Germ[ani]cus
+16   Da[ci]cus, Tyb[i] 11.

@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 383 — Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;383  (Trismegistos 76900)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 383
+label:    O.Wilck. 383
+name:     Poll-tax and bath-tax receipt (λαογραφία, βαλανικόν)
+genre:    receipts
+date:     21 May 40 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1198
+content:  Poll-tax + bath-tax of year 4 of Gaius (Caligula)
+tm:       76900
+source:   https://papyri.info/ddbdp/o.wilck;;383
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) Πακῦβις Παχ[νούμιος(?) ὑπ(ὲρ)]
+r.2   λαογ(ραφίας) δ (ἔτους) (δραχμὰς) δέκα καὶ βαλ(ανικοῦ) μία[ν]
+r.3   ὀβολ(ὸν) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ια (ὀβολὸς) α𐅵 καὶ προσδ(ιαγραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου).
+r.4   (ἔτους) δ Γαίου Καίσαρος Αὐτοκράτορος
+r.5   Σεβαστοῦ Παχὼ(ν) κϛ.
+r.6   Πετεμε(νῶφις) Πικ(ῶτος).
+
+[TRANSLATION]
+1   Has paid: Pakybis son of Pach[noumis(?), for]
+2   poll-tax of year 4, ten drachmas and bath-tax on[e,]
+3   an obol, a half-obol — total 11 dr. 1½ ob. — and surcharges at an obol (and) half-obol.
+4   Year 4 of Gaius Caesar Imperator
+5   Augustus, Pachon 26.
+6   Petemenophis son of Pikos.

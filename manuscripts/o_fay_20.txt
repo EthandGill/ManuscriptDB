@@ -1,0 +1,33 @@
+# ───────────────────────────────────────────────
+# O.Fay. 20 — Hay-delivery note (χόρτος)
+# Source: papyri.info DDbDP o.fay;;20  (Trismegistos 26357)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 20
+label:    O.Fay. 20
+name:     Hay-delivery note (χόρτος)
+genre:    receipts
+date:     early I CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 20
+content:  Delivery of 130 bundles of hay, Theadelphia
+tm:       26357
+source:   https://papyri.info/ddbdp/o.fay;;20
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   μηνι Καισαρείου ἐνάτ̣η̣ι̣
+r.2   ε( ) δι(ὰ) Πεκύσιος Φε̣μ̣ιᾶ̣τ̣ο̣(ς)
+r.3   ὑπη(ρέτου(?)) χόρτο(υ(?)) διμνώ(ου) δέ(σμας)
+r.4   ἑκατὸν τριάκ(οντα), (γίνονται) δέ(σμαι) ρλ.
+
+[TRANSLATION]
+1   In the month Kaisareios, on the ninth:
+2   e( ) through Pekysis son of Phemias,
+3   attendant(?), of two-mina(?) hay, bundles
+4   one hundred and thirty — total 130 bundles.

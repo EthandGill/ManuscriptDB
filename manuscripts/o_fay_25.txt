@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# O.Fay. 25 — Granary receipt — produce by donkey (Theadelphia)
+# Source: papyri.info DDbDP o.fay;;25  (Trismegistos 40864)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Fay. 25
+label:    O.Fay. 25
+name:     Granary receipt — produce by donkey (Theadelphia)
+genre:    receipts
+date:     18 Oct 254 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum O. Fay. 25
+content:  Produce of year 1, 1 donkey-load, Theadelphia
+tm:       40864
+source:   https://papyri.info/ddbdp/o.fay;;25
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   Θεαδελφίας
+r.2   γενη(μάτων) α (ἔτους) δι(ὰ)
+r.3   ἰδίο(υ) κτήν(ους)
+r.4   Σωδίκης
+r.5   ποιμὴν ὄν(ος)
+r.6   α. (ἔτους) β,
+r.7   Φαῶφι
+r.8   κα.
+
+[TRANSLATION]
+1   Of Theadelphia,
+2   produce of year 1, through
+3   (his) own beast:
+4   Sodike,
+5   shepherd, 1 donkey(-load).
+6   Year 2,
+7   Phaophi
+8   21.

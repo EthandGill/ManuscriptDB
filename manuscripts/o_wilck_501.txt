@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 501 — Bath-tax receipt — money-tax of Arabia (Koptos)
+# Source: papyri.info DDbDP o.wilck;;501  (Trismegistos 77011)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 501
+label:    O.Wilck. 501
+name:     Bath-tax receipt — money-tax of Arabia (Koptos)
+genre:    receipts
+date:     21 Aug 109 CE
+language: Greek (Koiné)
+found:    Koptos (Qift), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4367
+content:  Bath-tax of year 12 of Trajan, collectors of the money-tax of Arabia
+tm:       77011
+source:   https://papyri.info/ddbdp/o.wilck;;501
+lat:      26.0011
+lon:      32.8092
+
+[GREEK]
+r.1   Ἡρων( ) καὶ Πρεμ ̣ ̣ ̣
+r.2   πράκ(τορες(?)) ἀργ(υρικῆς) Ἀρα(βίας) δι(ὰ)
+r.3   Ἁρπαήσιο(ς) γρ(αμματέως) Πετελ-
+r.4   λ̣ὼν̣ς Επ ̣ ̣ ̣ατ( ).
+r.5   ἔσχ(ομεν) ὑπὲρ βαλ(ανικοῦ) τοῦ
+r.6   ιβ (ἔτους) (δραχμὰς) ϛ(τετρώβολον). (ἔτους) ιβ Τραιανοῦ
+r.7   Καίσαρος τοῦ κυρίου
+r.8   Μεσορὴ κη.
+r.9   ὁμοί(ως) π̣ ̣γδ( ) β (ὀβολ 1).
+
+[TRANSLATION]
+1   Heron( ) and Prem…,
+2   collectors(?) of the money-tax of Arabia, through
+3   Harpaesis the scribe: Petel-
+4   lons son of Ep…at( ).
+5   We have received, for the bath-tax of
+6   year 12, 6 dr. 4 ob. Year 12 of Trajan
+7   Caesar the lord,
+8   Mesore 28.
+9   Likewise …gd( ), 2 (dr.) 1 ob.

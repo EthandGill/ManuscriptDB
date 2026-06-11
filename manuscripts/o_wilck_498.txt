@@ -1,0 +1,37 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 498 — Dike- and other-taxes receipt (χώματα), Charax quarter
+# Source: papyri.info DDbDP o.wilck;;498  (Trismegistos 77008)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 498
+label:    O.Wilck. 498
+name:     Dike- and other-taxes receipt (χώματα), Charax quarter
+genre:    receipts
+date:     1 Aug 108 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4761
+content:  Dikes + other taxes of the Charax quarter, year 11 of Trajan
+tm:       77008
+source:   https://papyri.info/ddbdp/o.wilck;;498
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Ἀπολ(λώνιος) καὶ μ(έτοχοι) πράκ(τορες) ἀργ(υρικῆς) μητ(ροπόλεως)
+r.2   Καμήτ(ει) ὁ(μοίως) Ψενμ(ών)θ(ου).
+r.3   ἔσχ(ομεν) ὑπ(ὲρ) χω(μάτων) κ(αὶ) ἄλ(λων) Χά(ρακος) ἑνδεκ(άτου) (ἔτους)
+r.4   ῥυπ(αρὰς) (δραχμὰς) ἑπτὰ (διώβολον) χ(αλκοῦς 2). (ἔτους) ἑνδεκ(άτου)
+r.5   Τραιανοῦ τοῦ κυρίου
+r.6   Ἐπεὶφ λ‡7η. ̣ ̣
+
+[TRANSLATION]
+1   Apollonios and partners, collectors of money-taxes of the metropolis,
+2   to Kametis likewise (son) of Psenmonthes.
+3   We have received, for the dikes and others of the Charax (quarter), of the eleventh year,
+4   in base (coin), seven drachmas, 2 ob., 2 chalkoi. Of the eleventh (year)
+5   of Trajan the lord,
+6   Epeiph 8(?). ..

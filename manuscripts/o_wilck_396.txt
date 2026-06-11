@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 396 — Private receipt — palm-grove tax (φοινικών)
+# Source: papyri.info DDbDP o.wilck;;396  (Trismegistos 76911)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 396
+label:    O.Wilck. 396
+name:     Private receipt — palm-grove tax (φοινικών)
+genre:    receipts
+date:     11 Sept 48 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    London, British Library O 12677
+content:  Palm-grove tax of year 8, year 9 of Claudius
+tm:       76911
+source:   https://papyri.info/ddbdp/o.wilck;;396
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   Πικὼς Θέωνο(ς) καὶ Διονύσι(ος) Παμώνθ(ου)
+r.2   Πανᾶς ̣ ̣ ̣ ̣ς χα(ίρειν). ὁμολογοῦμ(εν) ἔχιν παρὰ
+r.3   σοῦ ὑπ(ὲρ) φοι(νικῶνος) η (ἔτους) ιϛ´λβ´α(πεντώβολον). (ἔτους) θ Τιβερίου Κλαυδίου
+r.4   Καίσαρος Σεβαστοῦ Γερμ[ανικ]οῦ Αὐτοκράτορος
+r.5   [μ]ηνὸ(ς) Σε[β]αστοῦ ιδ.
+
+[TRANSLATION]
+1   Pikos son of Theon and Dionysios son of Pamonthes,
+2   to Panas son of …, greeting. We acknowledge that we have from
+3   you, for the palm-grove of year 8, ¹⁄₁₆ ¹⁄₃₂, 1 (dr.) 5 ob. Year 9 of Tiberius Claudius
+4   Caesar Augustus Germ[anic]us Imperator,
+5   [m]onth Se[b]astos 14.

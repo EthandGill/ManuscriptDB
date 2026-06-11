@@ -1,0 +1,35 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 378 — Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν)
+# Source: papyri.info DDbDP o.wilck;;378  (Trismegistos 76895)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 378
+label:    O.Wilck. 378
+name:     Dike-tax and bath-tax receipt (χωματικόν, βαλανικόν)
+genre:    receipts
+date:     15 Oct 37 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4809
+content:  Dike-tax + bath-tax of year 1, year 2 of Gaius (Caligula)
+tm:       76895
+source:   https://papyri.info/ddbdp/o.wilck;;378
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) Φατρὴ(ς) Ἑρίεω̣ς ὑπ(ὲρ) χω(ματικοῦ) α (ἔτους)
+r.2   ἓξ τετροβλ (ον) καὶ βαλ(ανικοῦ) τετροβλ (ον) (γίνονται) ζ(διώβολον) καὶ
+r.3   προσδ(ιαγραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου). (ἔτους) β Γαίου Καίσαρος
+r.4   Σεβαστοῦ Γερμανικοῦ Φαῶφι ιη.
+r.5   Π ̣ ̣ ̣ τ̣ρα(πεζίτης).
+
+[TRANSLATION]
+1   Has paid: Phatres son of Herieus, for dike-tax of year 1,
+2   six (drachmas) four obols and bath-tax four obols — total 7 (dr.) 2 ob. — and
+3   surcharges at an obol (and) half-obol. Year 2 of Gaius Caesar
+4   Augustus Germanicus, Phaophi 18.
+5   P… banker.

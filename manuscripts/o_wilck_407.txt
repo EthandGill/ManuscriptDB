@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 407 — Vineyard-survey and palm-grove tax receipt
+# Source: papyri.info DDbDP o.wilck;;407  (Trismegistos 76918)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 407
+label:    O.Wilck. 407
+name:     Vineyard-survey and palm-grove tax receipt
+genre:    receipts
+date:     22 Sept 55 CE
+language: Greek (Koiné)
+found:    Thebes / Diospolis Magna, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4561
+content:  Vineyard survey-tax + palm-grove of year 1, year 2 of Nero
+tm:       76918
+source:   https://papyri.info/ddbdp/o.wilck;;407
+lat:      25.7188
+lon:      32.6109
+
+[GREEK]
+r.1   διαγ(εγράφηκεν(?)) Καλουμη(νᾶς) Ψεννη( ) ὑπ(ὲρ)
+r.2   γεωμ(ετρίας) ἀμπ(ελῶνος) α (ἔτους) (ἀρουρῶν) διϛ´ (δραχμὰς) ιβ(τριώβολον),
+r.3   ὁμοίω(ς) ̣ ̣ ̣ φο(ινικώνων) ιϛ´λβ´ (δραχμὴν) α (ὀβολοὺς) ε𐅵 καὶ τούτω(ν)
+r.4   προσδ(ιαγραφόμενα). (ἔτους) β Νέρωνος Κλαυδίου
+r.5   Καίσαρος Σεβ(αστ)οῦ Γερμανικοῦ
+r.6   Αὐτοκράτορος, Σεβασ(τοῦ) κδ. Βάσσο(ς)
+r.7   σεση(μείωμαι).
+
+[TRANSLATION]
+1   Kaloumenas son of Psenne( ) paid, for
+2   survey-tax of the vineyard of year 1, of 4¹⁄₆ arouras, 12 (dr.) 3 ob.,
+3   likewise … of the palm-groves ¹⁄₁₆ ¹⁄₃₂, 1 dr. 5½ ob., and the surcharges
+4   on these. Year 2 of Nero Claudius
+5   Caesar Augustus Germanicus
+6   Imperator, Sebastos 24. Bassos,
+7   I have signed.

@@ -1,0 +1,31 @@
+# ───────────────────────────────────────────────
+# O.Wilck. 473 — Sales-tax receipt (ἐγκύκλιον)
+# Source: papyri.info DDbDP o.wilck;;473  (Trismegistos 76983)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       O.Wilck. 473
+label:    O.Wilck. 473
+name:     Sales-tax receipt (ἐγκύκλιον)
+genre:    receipts
+date:     29 Jun 88 CE
+language: Greek (Koiné)
+found:    Hermonthis (Armant), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4486
+content:  Transfer/sales-tax of year 7 of Domitian
+tm:       76983
+source:   https://papyri.info/ddbdp/o.wilck;;473
+lat:      25.6167
+lon:      32.5333
+
+[GREEK]
+r.1   διέγρ(αψεν) Σενπε̣βήκιος Πανεχ(άτου)
+r.2   ὑπ(ὲρ) ἐνκ(υκλίου) ζ (ἔτους) (πεντώβολον). (ἔτους) ζ Δομ(ιτιαν)οῦ Καίσαρος
+r.3   τοῦ κυρίου Ἐπ(ὶ)φ ε.
+
+[TRANSLATION]
+1   Senpebekis son of Panechates paid,
+2   for the enkyklion (transfer-tax) of year 7, 5 ob. Year 7 of Domitian Caesar
+3   the lord, Epeiph 5.
