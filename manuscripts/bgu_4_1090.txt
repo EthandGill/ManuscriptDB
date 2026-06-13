@@ -1,0 +1,105 @@
+# ---------------------------------------------------------
+# BGU 4.1090 - Granary Receipts to the Decaprotoi
+# Source: papyri.info DDbDP bgu;4;1090  (Trismegistos 18528)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1090
+label:    BGU 4.1090
+name:     Granary Receipts to the Decaprotoi
+genre:    receipts
+date:     22. Juli 280
+language: Greek (Koine)
+found:    Hermopolis, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 11051 b-d
+content:  A series of receipts recording measured deliveries of wheat and barley to the public granary at Hermopolis through the decaprotoi, with bank-signed acknowledgments, dated under Probus and Diocletian.
+tm:       18528
+source:   https://papyri.info/ddbdp/bgu;4;1090
+lat:      27.7833
+lon:      30.8016
+
+[GREEK]
+r.1   μ[ε]μ[έ]τ(ρηκεν) ἐφʼ ἁλ(ώνων) Ἐνσεὺ εἰς τὸν ἐν [τῇ] Ἑρμοῦ πόλ(ει) δημόσ(ιον)
+r.2   θησ(αυρὸν) δεκαπ(ρώτοις) Περὶ Πόλ(ιν) Ἄνω ἐπὶ τ[ῆς] κη Ἐπεὶφ’
+r.3   γενή(ματος) το̣ῦ̣ ἐνεστ(ῶτος) ε (ἔτους) τοῦ κυρίου ἡμῶν Πρόβου
+r.4   Σεβ[ασ]τοῦ ἀπὸ γενή(ματος) τοῦ διελ(ηλυθότος) δ (ἔτους) [Θ]αικὶς ἡ καὶ Τι-
+r.5   μ[οῦν]ις Σαραπίωνος διὰ Τιμούνιος Αἰλουρίωνος
+r.6   εἰσδι(δομένας) Μογκανεὶ πυρ̣ο(ῦ) δοχ(ικῷ) (ἀρτάβας) ὀκτὼ γ(ίνονται) (πυροῦ) δοχ(ικῷ)
+r.7   (ἀρτάβαι) η,
+r.8   [Ἐνσε]ὺ ὁμοίως πυρο(ῦ) δοχ(ικῷ) (ἀρτάβας) ὀκτὼ γ(ίνονται) (πυροῦ) δοχ(ικῷ) (ἀρτάβαι) η,
+r.9   Θ[ραγὴ ὁμο]ίως πυρο(ῦ) δοχ(ικῷ) (ἀρτάβας) τέσσαρ̣ε̣ς γ(ίνονται) (πυροῦ) δοχ(ικῷ) (ἀρτάβαι) δ,
+r.10   ἐπὶ [τὸ αὐ(τὸ)] τῆς μετρ(ήσεως) (πυροῦ) δοχ(ικῷ) (ἀρτάβας) κ. (hand 2) Κλ(αύδιος) Νέαρχος σεσημ(είωμαι)
+r.11   τὰς τοῦ πυροῦ ἀρτάβας εἴκοσι.
+r.12   (hand 1) μεμέτ(ρηκεν) ἐφʼ ἁλ(ώνων) Ἐνσεὺ εἰς τὸν ἐν Ἑρμουπόλ(ει) δημόσι(ον) θησ(αυρὸν)
+r.13   δεκαπ(ρώτοις) Περὶ Πόλ(ιν) Ἄνω ἐπὶ τῆς κη Ἐπεὶφ’ γενή(ματος) το̣ῦ ἐνεστ(ῶτος)
+r.14   ε (ἔτους) τοῦ κυρίου ἡμῶν Πρόβου Σε̣β̣αστοῦ Θαικὶς ἡ καὶ Τιμοῦνις
+r.15   Σαραπίωνος διὰ Τιμούνιος Αἰλου[ρ]ίωνος εἰσδι(δομένας) Μογ̣κανεὶ πυρο(ῦ)
+r.16   δοχ(ικῷ) (ἀρτάβας) ὀκτὼ γ(ίνονται) (πυροῦ) δοχ(ικῷ) (ἀρτάβαι) η, Ἐνσεὺ ὁ̣μ̣οίως π̣υ̣ρ̣ο̣(ῦ) δοχ(ικῷ) (ἀρτάβας) ὀκτὼ
+r.17   γ(ίνονται) (πυροῦ) δοχ(ικῷ) (ἀρτάβαι) η, Θραγὴ ὁμοίως [πυ]ρο(ῦ) δο̣χ(ικῷ) (ἀρτάβας) τέσσ[α]ρε̣ς γ(ίνονται) [(πυροῦ)] δοχ(ικῷ) (ἀρτάβαι) δ,
+r.18   ἐπὶ τὸ αὐ(τὸ) τῆς μετ(ρήσεως) (πυροῦ) δοχ(ικῷ) (ἀρτάβαι) κ. (hand 2) Κλ(αύδιος) Νέαρχ̣ος δεκάπ(ρωτος) σεσημ(είωμαι) τὰς τοῦ
+r.19   πυροῦ ἀρτά̣βας εἴκοσι .
+r.20   (hand 1) μεμετ(ρήκασιν) ἐν τῇ μητροπόλ(ει) δεκαπ(ρώτοις) Περὶ Πόλ(ιν) Ἄνω
+r.21   ἐπὶ τῆς κβ Χοιὰκ’ τοῦ ἐνεστῶτος ϛ (ἔτους)
+r.22   τοῦ κυρίου ἡμῶν Πρόβου Σεβαστοῦ
+r.23   ἀπὸ γενή(ματος) τοῦ διελ(ηλυθότος) ε (ἔτους) Ἐνσεὺ κληρο(νόμοι)
+r.24   Τιμ̣ούνιος Ἡρακλήου κριθ(ῆς) (ἀρτάβης) δίμο̣ι[ρον]
+r.25   γ(ίνεται) κριθ(ῆς) (ἀρτάβη) 𐅷, Μ̣[ογκα]νεὶ ὁμοίως κριθ(ῆς) (ἀρτάβης) δίμοιρ̣ον
+r.26   γ(ίνεται) κριθ(ῆς) (ἀρτάβη) 𐅷, Θ[ραγ]ὴ ὁμοίως κριθ(ῆς) (ἀρτάβης) ἥμισυ
+r.27   γ(ίνεται) κριθ(ῆς) (ἀρτάβη) 𐅵, ἐπὶ τὸ αὐ(τὸ) κριθ(ῆς) (ἀρτάβη) α𐅵γ´. 4
+r.28   (hand 3) χωρὶς ὀβο̣λ( )
+r.29   μεμέτ(ρηκεν) ἐφʼ ἁλώνων Σενοάβεως δεκαπρώτ(οις)
+r.30   Λε[υ]κοπ(υργείτου) Ἄνω ἐπὶ τῆς κϛ Μεσορὴ γενήματ(ος)
+r.31   πέμ̣π̣του ε (ἔτους) τοῦ κυρίου ἡμῶν Πρόβου
+r.32   Σ[εβασ]τοῦ Ἑρμῖνος Δαμοστράτου δ (ἔτους) ε (ἔτους)
+r.33   [διʼ Αὐρ]ηλίου Σιλβανοῦ αἱ διʼ ἑαυτοῦ (πυροῦ) δοχ(ικῷ) (ἀρτάβαι)
+r.34   [εἴκο]σι ἕκτον γ(ίνονται) (πυροῦ) (ἀρτάβαι) κϛ´ δο̣χ̣(ικῷ).
+r.35   (hand 4) [(ἔτους) β τ]οῦ κυρίου ἡμῶν Γαΐ ου Αὐρηλίου Οὐαλερίου
+r.36   Δ[ιοκλητι]ανοῦ καὶ (ἔτους) α Μάρκου Αὐρηλίου Οὐαλερίου
+r.37   [Μαξιμ]ιανοῦ Σεβαστῶν Φαρμοῦθι ε Σενοάβεως
+r.38   [τ]ιμ̣[ῆς] πυροῦ διοικ(ήσεως(?)) γενή(ματος) ε (ἔτους) Πρόβου Ἑρμῖνος
+r.39   Δα[μοσ]τράτου καινοῦ νο(μίσματος) (δραχμὰς) τριακοσίας ἑξήκοντα
+r.40   [ὀκτὼ γ(ίνονται)] (δραχμαὶ) τξη
+
+[TRANSLATION]
+1   Enseu has measured out at the threshing-floors, into the public [in] Hermopolis
+2   granary, to the decaprotoi of the Upper Toparchy About-the-City, on the 28th of Epeiph,
+3   of the produce of the present 5th year of our lord Probus
+4   Augustus, from the produce of the past 4th year: [Th]aikis also called Ti-
+5   mounis, daughter of Sarapion, through Timounis son of Ailourion,
+6   (the artabas) delivered to Mongkaneus, of wheat by granary measure eight artabas, total of wheat by granary measure
+7   8 artabas,
+8   [Ense]u likewise of wheat by granary measure eight artabas, total of wheat by granary measure 8 artabas,
+9   Th[rage like]wise of wheat by granary measure four artabas, total of wheat by granary measure 4,
+10   to the [same total] of the measurement of wheat by granary measure 20 artabas. (hand 2) I, Cl(audius) Nearchos, have signed off
+11   the twenty artabas of wheat.
+12   (hand 1) Enseu has measured out at the threshing-floors, into the public granary in Hermopolis,
+13   to the decaprotoi of the Upper Toparchy About-the-City, on the 28th of Epeiph, of the produce of the present
+14   5th year of our lord Probus Augustus: Thaikis also called Timounis,
+15   daughter of Sarapion, through Timounis son of Ailourion, (the artabas) delivered to Mongkaneus, of wheat
+16   by granary measure eight artabas, total of wheat by granary measure 8, Enseu likewise of wheat by granary measure eight artabas,
+17   total of wheat by granary measure 8, Thrage likewise of wheat by granary measure four artabas, total [of wheat] by granary measure 4,
+18   to the same total of the measurement of wheat by granary measure 20 artabas. (hand 2) I, Cl(audius) Nearchos, decaprotos, have signed off the
+19   twenty artabas of wheat.
+20   (hand 1) They have measured out in the metropolis, to the decaprotoi of the Upper Toparchy About-the-City,
+21   on the 22nd of Choiak of the present 6th year
+22   of our lord Probus Augustus,
+23   from the produce of the past 5th year: Enseu, the heirs
+24   of Timounis son of Herakleos, of barley two-thirds of an artaba,
+25   total of barley 2/3 artaba; M[ongka]neus likewise of barley two-thirds of an artaba,
+26   total of barley 2/3 artaba; Th[rag]e likewise of barley one-half of an artaba,
+27   total of barley 1/2 artaba, to the same total of barley 1 + 1/2 + 1/3 artaba. 4
+28   (hand 3) apart from an obol(?)
+29   He has measured out at the threshing-floors of Senoabis, to the decaprotoi
+30   of the Upper Leukopyrgites, on the 26th of Mesore, of the produce
+31   of the fifth 5th year of our lord Probus
+32   Augustus: Herminos son of Damostratos, 4th year (and) 5th year,
+33   [through Aur]elius Silvanus, the (artabas) through himself of wheat by granary measure
+34   [twen]ty and a sixth artabas, total of wheat 26 1/6 artabas by granary measure.
+35   (hand 4) [Year 2 o]f our lord Gaius Aurelius Valerius
+36   D[iocleti]an and year 1 of Marcus Aurelius Valerius
+37   [Maxim]ian, the Augusti, Pharmouthi 5: from Senoabis,
+38   as the [price] of wheat of the administration(?) of the produce of the 5th year of Probus, Herminos
+39   son of Da[mos]tratos, of new coinage three hundred and sixty
+40   [eight drachmas, total] 368 drachmas.

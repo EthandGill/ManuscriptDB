@@ -524,7 +524,7 @@ html, body {
     font-weight: 500;
     letter-spacing: 0.16em;
     text-transform: uppercase;
-    color: #3d3d3d;
+    color: #9a9a9a;
     margin-bottom: 0;
 }
 
@@ -847,8 +847,28 @@ html, body {
     font-weight: 500;
     letter-spacing: 0.16em;
     text-transform: uppercase;
-    color: #3d3d3d;
+    color: #9a9a9a;
     margin-bottom: 10px;
+}
+
+/* Manuscripts label row: title + gold "More Manuscripts Daily!" badge */
+.ms-section-label {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    flex-wrap: wrap;
+}
+.ms-daily-badge {
+    background: linear-gradient(180deg, #d8bd86 0%, #c9a96e 100%);
+    color: #0d0c07;
+    font-size: 8.5px;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 2px 8px;
+    border-radius: 3px;
+    white-space: nowrap;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.4);
 }
 
 .city-item {
@@ -977,7 +997,7 @@ html, body {
 
 .genre-count {
     font-size: 9.5px;
-    color: #3a3a3a;
+    color: #b0b0b0;
     background: #181818;
     border: 1px solid #242424;
     border-radius: 10px;
@@ -1083,7 +1103,7 @@ html, body {
     font-weight: 500;
     letter-spacing: 0.16em;
     text-transform: uppercase;
-    color: #3d3d3d;
+    color: #9a9a9a;
     flex: 1;
     transition: color 0.18s;
 }
@@ -2068,6 +2088,8 @@ html, body {
 .agent-result-genre.g-receipts      { color: #7aa97a; border-color: #2f4a2f; }
 .agent-result-genre.g-contracts     { color: #a98ac9; border-color: #45305a; }
 .agent-result-genre.g-letters       { color: #c9a06a; border-color: #5a452a; }
+.agent-result-genre.g-petitions     { color: #6abcc9; border-color: #2a4a52; }
+.agent-result-genre.g-documents     { color: #8a9cc0; border-color: #353f52; }
 .agent-result-date {
     font-size: 9px;
     color: #6a5d42;
@@ -2535,7 +2557,7 @@ html, body {
     font-weight: 500;
     letter-spacing: 0.16em;
     text-transform: uppercase;
-    color: #3d3d3d;
+    color: #9a9a9a;
     font-family: 'Inter', sans-serif;
     transition: color 0.18s;
 }
@@ -2906,7 +2928,7 @@ html, body {
     font-weight: 500;
     letter-spacing: 0.16em;
     text-transform: uppercase;
-    color: #3d3d3d;
+    color: #9a9a9a;
     font-family: 'Inter', sans-serif;
     transition: color 0.18s;
 }

@@ -1,0 +1,89 @@
+# ---------------------------------------------------------
+# P.Oxy 1.133 - Receipt for seed-grain loaned by the Apion estate
+# Source: papyri.info DDbDP p.oxy;1;133  (Trismegistos 20772)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.133
+label:    P.Oxy 1.133
+name:     Receipt for seed-grain loaned by the Apion estate
+genre:    receipts
+date:     19. Okt. 550
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10056
+content:  The leading villagers of Takona acknowledge receipt of 200 artabas of grain from the Apion estate for sowing their fields and undertake to repay it with their rent in the month Pauni.
+tm:       20772
+source:   https://papyri.info/ddbdp/p.oxy;1;133
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   † β[ασι]λεί[ας] τοῦ θειοτά[το]υ καὶ εὐσεβ(εστάτου) ἡμῶν δεσπότου Φλ(αουίου) Ἰουστινιανοῦ
+r.2   τοῦ αἰωνίου Αὐγού[σ]του
+r.3   καὶ Αὐτοκρ(άτορος) ἔτους κ[δ], τοῖς τὸ η μετὰ τὴν ὑ πατίαν Φλ(αουίου) Βασιλίου τοῦ λαμπροτάτου,
+r.4   Φα[ῶ]φι κβ, ἰ νδ(ικτίονος) ιδ, ἐν Ὀξυρύγχ(ων) πόλ(ει). †
+r.5   Φλαουίῳ Ἀπίωνι τ[ῷ] πανευφήμῳ καὶ ὑ περφυεστάτῳ ἀπὸ ὑπάτων ὀρδιναρίων
+r.6   γεουχοῦντι καὶ ἐνταῦθ[α τ]ῇ λαμπρᾷ Ὀξυρυγχιτῶν πόλει, διὰ Μηνᾶ οἰκέτου τοῦ ἐπερωτῶντος
+r.7   καὶ προσπορίζοντος τῷ ἰδίῳ δεσπότῃ τῷ αὐτῷ πανευφήμῳ ἀνδρὶ τὴν ἀγωγὴν καὶ
+r.8   ἐνοχήν, τὸ κοινὸν τῶν πρωτοκωμητῶν τῆς κώμης Τάκονα τοῦ Ὀξυρυγχίτου
+r.9   νομοῦ, παγαρχουμένη[ς ὑ]πὸ τοῦ οἴκου τῆς ὑ μῶν ἐνδοξότητος, διʼ ἡμῶν Αὐρηλίων
+r.10   Φοιβάμμωνος μείζον[ος], υἱ οῦ Πεκυσίου, καὶ Ἀνοὺπ υἱ οῦ Ἀριτσί, καὶ Μηνᾶ ἀδελφοῦ αὐτοῦ,
+r.11   καὶ Κουλαὴτ̣β υἱ οῦ Ἰωάννου, καὶ Ἀνοὺπ υἱ οῦ Πρίσκου, καὶ Ἡρακλείδου υἱ οῦ Παλμᾶ̣, καὶ Φὶβ υἱ οῦ
+r.12   Ἰουλίου, καὶ λοιπῶν κωμαρχῶν ταύτης, χαίρειν. ὁμολογοῦμεν ἐσχηκέναι παρὰ τῆς
+r.13   ὑ μῶν ἐνδοξότητος ἐν χρήσει καὶ παραμεμετρῆσθαι ἀπὸ γενήματος τῆς παρούσης
+r.14   τεσσαρεσκαιδεκάτης ἰ νδ(ικτίονος) εἰς σπερμοβολίαν τῶν ἡμῶν ἀρουρῶν καρπῶν τῆς
+r.15   σὺν θεῷ πεντεκαιδεκάτης ἐπινεμήσεως σίτου ῥυπαροῦ ἐκτὸς διαπίσματος
+r.16   καγκέλλῳ ἀρτάβας διακοσίας τὰς καὶ δοθείσας ἡμῖν διὰ τῶν κληρονόμων τοῦ
+r.17   μακαρίου Μηνᾶ υἱ οῦ Ἀ̣σκλᾶτος ναυκλήρου τοῦ αὐτοῦ ἐνδόξ(ου) ὑμῶν οἴκου, γί(νονται) σί(του) (ἀρτάβαι) σ καγκέλλ(ῳ)·
+r.18   ὅνπερ σῖτον νέον κεκοσκινευμένον καγκέλλῳ ᾧ παρειλήφαμεν ἐπάναγκες
+r.19   ἀποδώσομεν τῇ ὑμῶν ἐνδοξ(ότητι) μετὰ καὶ τοῦ φορικοῦ ἡμῶν φόρου ἐν τῷ Παῦνι μηνὶ
+r.20   τοῦ ἐνεστῶτος ἔτους σκζρϙϛ τῆς αὐτῆς παρούσης τεσσαρεσκαιδεκάτης ἰ νδ(ικτίονος)
+r.21   ἐκ νέων καρπῶν τῆς σὺν θεῷ πεντεκαιδεκάτης ἐπινεμ(ήσεως), ἀνυ περθέτως κινδύνῳ τῶν
+r.22   ἡμῖν ὑπαρχόντων ὑποκειμ(ένων) εἰς τοῦτο. κύρ(ιον) τὸ γραμμ(άτιον) ἁπλ(οῦν) γραφ(έν),
+r.23   καὶ ἐπερ(ωτηθέντες) ὡμολ(ογήσαμεν). †
+r.24   (hand 2) τὼν κοινὼν τῶν προτοκομητο͂ν τῆς κώμης Τάκονα τοῦ Ὀξυρυγχίτου νομοῦ διὰ τῶν προγεγραμ(μένων)
+r.25   ἐν αὐτῇ ὀνομ(άτων) τοῦτο τὸ γραμμάτιον πρὸς των ἡμῶν ἐνδοξ(ότητα) τόν τε σῖτον ἀρταβῶν διακοσίον
+r.26   ῥυπαροῦ ἐκτὸς διαπίσματος καγέλ[λ]ῳ , γί(νονται) σίτ(ου) ῥ(υπαροῦ) (ἀρτάβαι) σ, καὶ ἀποδώσωμεν ἐν τῇ εἰρημένον προθ(εσμίᾳ)
+r.27   καὶ συμφωνῖ ἡμῖν πάντα τὰ ἐγεγραμμέ(να) ὡς πρόκιται, † καὶ ἐπερωτηθέντες ὡμολογήσαμεν
+r.28   καὶ ἀπελήσαμεν . Αὐρήλιος Ἡρακλίδη[ς] γραμ(ματεὺς) κώμης Τάκονα ἀξιωθεὶς ἔγραψα ὑ πὲρ αὐτοὺς
+r.29   ἀγραμάτον ὄντων. †
+r.30   (hand 1) ☧ di emu F̣ịḷoxenu etelioth(e). Φ(αῶφι) κγ (ἰνδι)κ(τίονος) ιδ ̣ ̣ ̣ ̣ † v
+r.31   † γρ(αμμάτιον) γενόμ(ενον) π(αρὰ) τῶν πρωτ[ο]κωμητ(ῶν) τῆς κώμ(ης) Τάκονα
+r.32   λόγ(ῳ) σπερμ(οβολίας) καρπῶν ιε ἐπινεμήσεως, σί(του) κ(αγκέλλῳ) (ἀρταβῶν) σ.
+
+[TRANSLATION]
+1   † In the reign of our most divine and most pious master Flavius Justinianus
+2   the eternal Augustus
+3   and Imperator, in the 24th year, in the 8th (year) after the consulship of Flavius Basilius the most illustrious,
+4   Phaophi 22, of the 14th indiction, in the city of the Oxyrhynchites. †
+5   To Flavius Apion the all-praiseworthy and most exalted, of the ordinary ex-consuls,
+6   landowner also here in the illustrious city of the Oxyrhynchites, through Menas the servant who interrogates
+7   and procures for his own master, the same all-praiseworthy man, the right of action and
+8   liability, the community of the chief villagers of the village of Takona of the Oxyrhynchite
+9   nome, administered as a pagarchy by the house of your gloriousness, through us, the Aurelii
+10   Phoibammon the headman, son of Pekysios, and Anoup son of Aritsi, and Menas his brother,
+11   and Koulaetb son of Ioannes, and Anoup son of Priskos, and Herakleides son of Palmas, and Phib son of
+12   Ioulios, and the rest of the village-officials of this (village), greetings. We acknowledge that we have received from
+13   your gloriousness on loan and have had measured out to us, from the produce of the present
+14   fourteenth indiction, for the seed-sowing of our arouras (with) the crops of the
+15   fifteenth tax-cycle, God willing, of dirty wheat without sifting-deduction
+16   by the kankellos-measure, two hundred artabas, the same also given to us through the heirs of the
+17   late Menas son of Asklas, shipmaster of the same glorious house of yours, total: wheat 200 artabas by the kankellos;
+18   which new wheat, sifted, by the kankellos-measure by which we received it, of necessity
+19   we shall repay to your gloriousness together also with our transport-rent in the month Pauni
+20   of the present year 296 (era reckoning) of the same present fourteenth indiction
+21   from the new crops of the fifteenth tax-cycle, God willing, without delay, at the risk of
+22   the property belonging to us pledged for this. Valid is the document, drawn up in single copy,
+23   and having been asked we gave our assent. †
+24   (hand 2) The community of the chief villagers of the village of Takona of the Oxyrhynchite nome, through the aforewritten
+25   names in it, (issued) this document to your gloriousness for the wheat, two hundred artabas
+26   of dirty (wheat) without sifting-deduction by the kankellos, total: dirty wheat 200 artabas, and we shall repay within the said term
+27   and everything written is agreed by us as stated above, † and having been asked we gave our assent
+28   and we discharged (it). (I,) Aurelius Herakleides scribe of the village of Takona, having been requested, wrote on their behalf,
+29   they being illiterate. †
+30   (hand 1) ☧ through me, Philoxenos, it was completed. Phaophi 23, of the indiction 14 .... † (verso)
+31   † Document made by the chief villagers of the village of Takona
+32   on account of seed-sowing of the crops of the 15th tax-cycle, of wheat by the kankellos 200 artabas.

@@ -1,0 +1,41 @@
+# ---------------------------------------------------------
+# P.Oxy 2.314 - Census return of a weaver’s household
+# Source: papyri.info DDbDP p.oxy;2;314  (Trismegistos 16666)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.314
+label:    P.Oxy 2.314
+name:     Census return of a weaver’s household
+genre:    documents
+date:     1st-2nd c. CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cambridge (MA), Harvard University Library SM 2220
+content:  A copy of a census return for Tryphon son of Didymos, weaver, listing the male members of his household by relationship, trade and age
+tm:       16666
+source:   https://papyri.info/ddbdp/p.oxy;2;314
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   μητρ(οπόλεως)·
+r.2   Τρύφωνος το[ῦ Δι]δύμου ὁ κύριος, γέρδ(ιος) [(ἐτῶν) ξ]ε
+r.3   Δίδυμος υἱὸς, γέρδ(ιος) [(ἐτῶν)] λ̣η
+r.4   Διονύσ(ιος) ἀδελφ̣(ός), γέρ[δ(ιος) (ἐτῶν) λ]γ
+r.5   Τρύφων υἱὸς [(ἐτῶν)] δ
+r.6   Θοῶνις ἀδε̣[λ]φὸς α (ἔτους)
+r.7   Θοῶνις Τρύφων(ος) γέρδιος (ἐτῶν) κβ
+r.8   τετέλ(εσται) μβ (ἔτους)
+
+[TRANSLATION]
+1   Of the metropolis:
+2   Of Tryphon son of Didymos: the householder, weaver, [aged 6]5;
+3   Didymos, son, weaver, [aged] 38;
+4   Dionysios, brother, wea[ver, aged 3]3;
+5   Tryphon, son, [aged] 4;
+6   Thoonis, brother, 1 year old;
+7   Thoonis son of Tryphon, weaver, aged 22.
+8   Registered in the 42nd year.

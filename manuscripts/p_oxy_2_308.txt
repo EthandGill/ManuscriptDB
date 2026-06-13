@@ -1,0 +1,59 @@
+# ---------------------------------------------------------
+# P.Oxy 2.308 - Tax-receipts of Tryphon son of Dionysios (weavers'-tax and others)
+# Source: papyri.info DDbDP p.oxy;2;308  (Trismegistos 16682)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.308
+label:    P.Oxy 2.308
+name:     Tax-receipts of Tryphon son of Dionysios (weavers'-tax and others)
+genre:    receipts
+date:     15. Juli 50
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Dublin, Trinity College Pap. B 2
+content:  A bank account of payments by Tryphon son of Dionysios of Temenouthis covering the weavers'-tax (gerdiakon), poll-tax (laographia), pig-tax, and dyke-tax (chomatikon) over several years under Tiberius Claudius, with running totals.
+tm:       16682
+source:   https://papyri.info/ddbdp/p.oxy;2;308
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   θ (ἔτους), Φαῶφι ι. ὀφειλ(ήματα) η (ἔτους) διαγ(εγράφηκεν) [γερ]δ(ιακοῦ)
+r.2   Τεμεν(ούθεως) Τρύφων Διον(υσίου) καὶ
+r.3   τρα(πεζίτου) ̣ ̣χ( ) (δραχμὰς) ἑπτὰ(τριώβολον), (γίνονται) (δραχμαὶ) ζ(τριώβολον). Μεχεὶρ ιδ
+r.4   ὁμ(οίως) ὁ α(ὐτὸς) η (ἔτους) (δραχμὰς) ἑπτὰ(τριώβολον), (γίνονται) (δραχμαὶ) ζ(τριώβολον), καὶ ἐπὶ τοῦ αὐ-
+r.5   τοῦ η (ἔτους) (δραχμὰς) ἑπτὰ τριώ(βολον), (γίνονται) (δραχμαὶ) ζ(τριώβολον). Φαμε(νὼθ) ζ ὀφιλ(ήματα) η (ἔτους)
+r.6   δραχμὰς τρεῖς (ὀβολοὺς) δ𐅵, (γίνονται) (δραχμαὶ) γτετρώ(βολον)𐅵
+r.7   (hand 2) Ἐπεὶφ κε [διαγ(εγράφηκεν)] γερδ(ιακοῦ) ι (ἔτους) διὰ Διον(υσίου) …νδι
+r.8   να ̣ ̣ ̣ τρ(απέζης) … μη(νὸς)
+r.9   ̣ ̣ ̣δο ̣ ̣ ̣λ.…
+r.10   ἔτους ϛ Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ Γερμαν̣ι̣κ̣ο̣ῦ̣
+r.11   Αὐτοκράτορος, Ἐπεὶφ δ. διαγεγρά(φηκεν) διὰ Δωρί(ωνος) κ(αὶ) Διον(υσίου) τρα(πεζίτου) χ[ω(ματικοῦ)]
+r.12   Τεμ(ενούθεως) Τρύφων Διον(υσίου) (δραχμὰς) ἓξ τετρώ(βολον), (γίνονται) ϛ(τετρώβολον). ζ (ἔτους) Φαρμ(οῦθι) ιζ Σ̣ε̣β̣α̣σ̣τ̣ῆ̣ι̣
+r.13   λ̣α̣ο̣(γραφίας) ὁ α(ὐτὸς) (δραχμὰς) τέσσαρας (γίνονται) δ. Πα(χὼν) α ὑικ(ῆς) ζ (ἔτους) ὁ α(ὐτὸς) (δραχμὴν) μίαντετρώ(βολον)(ἡμιώβολον) (γίνονται) α(τετρώβολον)𐅵.
+r.14   μη(νὸς) Καισαρείου δ χω(ματικοῦ) ζ (ἔτους) ὀ α(ὐτὸς) [(δραχμὰς)] τρεῖςτετρώ(βολον)(ἡμιώβολον), (γίνονται) γ(τετρώβολον)𐅵. μη(νὸς) Κ̣α̣ι̣σ̣α̣ρ̣(είου) ιγ
+r.15   [χ]ω(ματικοῦ) ζ (ἔτους) ὁ α(ὐτὸς) (δραχμὰς) δύο πεντώ(βολον)ἡμιώ(βολον), (γίνονται) β(πεντώβολον)𐅵 κ(αὶ) μη(νὸς) Σ̣ε̣β̣α̣σ̣τ̣ο̣ῦ̣ κ̣α̣ λαο(γραφίας) θ (ἔτους) Τ[ρ]ύφων
+r.16   Διον(υσίου) (δραχμὰς) ὀκτώ, (γίνονται) [η]. ι (ἔτους) Φαῶ(φι) κη γερδ(ιακοῦ) θ (ἔτους) Τρύφω(ν) Διον(υσίου) (δραχμὰς) τέσσαρας, (γίνονται) δ.
+r.17   Ἐπεὶφ κα χω(ματικοῦ) ι (ἔτους) Τρ(ύφων) Διον(υσίου) (δραχμὰς) ἓξτετρώ(βολον), (γίνονται) ϛ(τετρώβολον)
+
+[TRANSLATION]
+1   Year 9, Phaophi 10. Debts of year 8 he has paid, for the weavers'-tax (gerdiakon),
+2   (district of) Temenouthis, Tryphon son of Dionysios; and
+3   to the banker ...ch(...) seven drachmas (three obols), total 7 drachmas (3 obols). Mecheir 14,
+4   likewise the same man, of year 8, seven drachmas (three obols), total 7 drachmas (3 obols); and for the
+5   same year 8, seven drachmas three obols, total 7 drachmas (3 obols). Phamenoth 7, debts of year 8,
+6   three drachmas, 4 1/2 obols, total 3 drachmas 4 1/2 obols.
+7   (hand 2) Epeiph 25, [he has paid] for the weavers'-tax (gerdiakon) of year 10 through Dionysios ...ndi
+8   na ... of the bank ... of the month
+9   ...do...l...
+10   Year 6 of Tiberius Claudius Caesar Augustus Germanicus
+11   Imperator, Epeiph 4. He has paid through Dorion and Dionysios the banker, for the dyke-tax (chomatikon),
+12   (district of) Temenouthis, Tryphon son of Dionysios, six drachmas four obols, total 6 (drachmas) 4 obols. Year 7, Pharmouthi 17, on the Sebaste-day,
+13   for the poll-tax (laographia) the same man four drachmas, total 4. Pachon 1, for the pig-tax (hyike) of year 7 the same man one drachma 4 1/2 obols, total 1 (drachma) 4 1/2 obols.
+14   In the month Kaisareios 4, for the dyke-tax (chomatikon) of year 7 the same man three drachmas 4 1/2 obols, total 3 (drachmas) 4 1/2 obols. In the month Kaisareios 13,
+15   for the dyke-tax (chomatikon) of year 7 the same man two drachmas 5 1/2 obols, total 2 (drachmas) 5 1/2 obols; and in the month Sebastos 21, for the poll-tax (laographia) of year 9 Tryphon
+16   son of Dionysios eight drachmas, total [8]. Year 10, Phaophi 28, for the weavers'-tax (gerdiakon) of year 9 Tryphon son of Dionysios four drachmas, total 4.
+17   Epeiph 21, for the dyke-tax (chomatikon) of year 10 Tryphon son of Dionysios six drachmas four obols, total 6 (drachmas) 4 obols.

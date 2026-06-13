@@ -1,0 +1,73 @@
+# ---------------------------------------------------------
+# BGU 3.831 - Application to lease fallow shore-land (18 arouras)
+# Source: papyri.info DDbDP bgu;3;831  (Trismegistos 9374)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.831
+label:    BGU 3.831
+name:     Application to lease fallow shore-land (18 arouras)
+genre:    contracts
+date:     26. Jan. - 24. Febr. 201
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7267
+content:  Tiaboulis son of Tiaboulis of Soknopaiou Nesos applies to the royal scribe Sarapion to lease for two years 18 arouras of dry shore-land in two plots, with boundaries described and a clause for remission of rent if the land goes unwatered or over-flooded.
+tm:       9374
+source:   https://papyri.info/ddbdp/bgu;3;831
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ̣ ̣ ̣ ̣ω̣νι βασ(ιλικῷ) γρ(αμματεῖ) Ἀρσι(νοΐτου) Ἡρακλ(είδου) μερίδος
+r.2   [παρὰ Τ]ιαβούλεως Τιαβούλεως ἀπ[ὸ]
+r.3   [κώμ]ης Σ[ο]κνοπ[α]ίου Νήσου. βούλομαι
+r.4   [μισθώσ]ασθαι εἰς (ἔτη) β ἀπὸ τοῦ ἐνεστῶτος θ (ἔτους)
+r.5   [ἀπ]ὸ χέρσου αἰγιαλοῦ πε̣ρ̣ὶ τὴν αὐτ(ὴν) κώ(μην)
+r.6   [ἐν] τῇ α σφρ(αγῖδι) (ἀρούρας) ιη οὔσας ἐν β τό(ποις)
+r.7   [ὧν] (ἄρουραι) ι γί(τονες) νότ(ου) διῶρυξ, βο(ρρᾶ) ὄρος,
+r.8   [ἀπηλ(ιώτου) ὁ]δὸς, λ[ι]βὸς χέρσος αἰγιαλοῦ
+r.9   κ̣[αὶ] τῶν λοι(πῶν) (ἀρουρῶν) η γί(τονες) νότ(ου) συνορία
+r.10   [Ηρακλ]είας Θεμ(ίστου) μερίδος, βο(ρρᾶ) κ(αὶ) ἀπ[η]λ(ιώτου) καὶ λι(βὸς)
+r.11   [χέρ]σος αἰγιαλοῦ, ἐκφο(ρίου) κατʼ ἔτος κατὰ (ἀρούρας)
+r.12   [(δραχμὰς(?))] ̣ ̣ ἐπὶ τῷ μὴ ἄλλο παραπράσ[σεσθα]ι
+r.13   εἰς [μη]δένα λόγον ἀ̣π̣ὸ̣ δραγ(ματηγίας) [ ̣] ̣ ̣ ̣μ[ ̣ ̣ ̣]
+r.14   ἄλλου τινός , ἐὰν δέ τις ἄβροχος ἢ κα-
+r.15   θʼ ὕδ[α]τος γένηται, παραδεχθ(ῆναί) μοι τ[ὸ]
+r.16   [ ̣ ̣ ̣] ἐ̣[κφ]όριον ἐὰν φαίνηται μισθῶσαι πα[ ̣ ̣]
+r.17   [ ̣ ̣ ̣ ̣ ̣ ̣]του π ̣ην ̣α ̣του φ[ ̣ ̣]νιν[ ̣ ̣ ̣]
+r.18   [ ̣ ̣ ̣ ̣ ̣ ̣] ̣κη. [(hand 2) Τιαβοῦ]λις ἐπιδέδωκα, Δω[ρ]ω-
+r.19   [ ̣ ̣ ̣ ̣ ̣ ̣] ἔγραψα ὑ[πὲ]ρ τε αὐτοῦ καὶ τοῦ ἐνγυητοῦ
+r.20   [Τ]ε[σενο]ύ̣φεως ἀγραμμάτων.
+r.21   […] ̣ ̣ ̣ π(αρὰ) βασιλ(ικῷ γραμματεῖ)
+r.22   ἔ[τους θ Λ]ουκ(ίου) Σεπτιμ(ίου) Σεουήρου Εὐσεβ(οῦς) Περτίν(ακος)
+r.23   καὶ Μ[άρκο]υ Αὐρηλ(ίου) Ἀν[των(είνου)] Εὐ[σ]εβοῦς Σεβαστῶν καὶ Πο̣υ̣βλ(ίου)
+r.24   Σ[επ]τιμ(ίου) Γέτα Κ(αί)σαρ(ος) Σεβ(αστοῦ) Μεχ[εί]ρ.
+
+[TRANSLATION]
+1   To ...onios royal scribe of the Herakleides division of the Arsinoite (nome),
+2   [from T]iaboulis son of Tiaboulis fro[m]
+3   [the villa]ge of S[o]knop[a]iou Nesos. I wish
+4   [to leas]e for 2 (years) from the present 9th (year)
+5   [fro]m the dry shore-land arou̲nd the same vill(age)
+6   [in] the 1st seal-plot, 18 (arouras), being in 2 pla(ces),
+7   [of which] 10 (arouras), neighbours: on the south a canal, on the no(rth) the desert,
+8   [on the eas]t a road, on the west dry shore-land,
+9   a[nd] of the remain(ing) 8 (arouras), neighbours: on the south the boundary
+10   [of Herakl]eia of the Themistes division, on the north a(nd) ea[s]t and we(st)
+11   [dr]y shore-land, at a rent per year per (aroura)
+12   [(of drachmas?)] .., on condition that nothing else be exacted in addition
+13   on any account, from sheaf-carrying [.]...m[...]
+14   of anything else; and if any (land) becomes unflooded or
+15   under water, that there be allowed to me the
+16   [...] r[en]t if it seems good to lease pa[..]
+17   [......]tou p.en.a.tou ph[..]nin[...]
+18   [......] .ke. [(hand 2) Tiabou]lis, I have submitted (it), Doro-
+19   [......] I wrote on behalf both of him and of the guarantor
+20   [T]e[seno]uphis, they being illiterate.
+21   [...] ... by the royal scri(be).
+22   Ye[ar 9 of L]uc(ius) Septim(ius) Severus Pius Pertin(ax)
+23   and M[arcu]s Aurel(ius) An[ton(inus)] Pi[o]us Augusti and Po̲ub̲l(ius)
+24   S[ep]tim(ius) Geta Caesar Aug(ustus), Mech[ei]r.

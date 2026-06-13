@@ -1,0 +1,51 @@
+# ───────────────────────────────────────────────
+# BGU 3.881 — Tax account — money-taxes of Stotoetis over a year
+# Source: papyri.info DDbDP bgu;3;881  (Trismegistos 9395)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.881
+label:    BGU 3.881
+name:     Tax account — money-taxes of Stotoetis over a year
+genre:    receipts
+date:     23 Dec 154 CE
+language: Greek (Koiné)
+found:    Soknopaiou Nesos (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7079
+content:  A running account of payments by Stotoetis son of Apynchis to the collectors of money-taxes at Soknopaiou Nesos: syntaximon, guard-pay, river- and prison-guard dues, and apportionments on the destitute
+tm:       9395
+source:   https://papyri.info/ddbdp/bgu;3;881
+lat:      29.5377
+lon:      30.6856
+
+[GREEK]
+r.1   ἔτους ἑπτακαιδεκάτου Αὐτοκράτορος Καίσαρος Τίτου Αἰλίου Ἁδριανοῦ
+r.2   Ἀντωνίνου Σ[εβ]αστοῦ Εὐσεβοῦς Φαῶφι κε. διέγρα(ψεν) Θεογί(τωνι) καὶ μετόχ(οις)
+r.3   πράκ(τορσιν) ἀργ(υρικῶν) Σοκνοπ(αίου Νήσου) Στοτοῆ(τις) Ἀπύγχ(εως) τοῦ Στοτ(οήτεως)
+r.4   (μητρὸς) Τεκιάσιο(ς) συνταξί(μου) το(ῦ) αὐτοῦ (ἔτους)
+r.5   ἀργ(υρίου) (δραχμὰς) δώδεκα (γίνονται) (δραχμαὶ) ιβ, Ἁδριανῶι κθ ἄλλας ἀργ(υρίου) δραχ(μὰς) τέσσαρες (γίνονται) (δραχμαὶ) δ, Τῦβι κϛ ἄλλας ἀργ(υρίου) δραχ(μὰς) τέσσαρες (γίνονται) (δραχμαὶ) δ,
+r.6   Φαμενὼθ κθ ἄλλας ἀργ(υρίου) δραχ(μὰς) τέσσαρες (γίνονται) (δραχμαὶ) δ, Φαρμο(ῦθι) λ ἄλλας ἀργ(υρίου) δραχ(μὰς) τέσσαρες (γίνονται) (δραχμαὶ) δ, Παχ(ὼν) κθ
+r.7   ὀψω(νίου) φυλ(άκων) ἀργ(υρίου) δραχ(μὰς) δύο (πεντώβολον) (γίνονται) (δραχμαὶ) β(πεντώβολον), μαγ(δώλων) (ὀβολοὺς) ε𐅵, Παῦνι κϛ ἄλλας ἀργ(υρίου) δραχ(μὰς) ὀκτὼ (γίνονται) (δραχμαὶ) η, Ἐπεὶφ κη ποτ(αμοφυλακίδων) (τριώβολον)
+r.8   δεσ(μοφυλάκων) (ὀβολὸν) (ἡμιωβέλιον), διπ(λῶν) (διώβολον)(ἡμιωβέλιον), θηρ(ίων) (ὀβολὸν) (ἡμιωβέλιον)(δίχαλκον) , ιη (ἔτους) Θῶθ κζιζ (ἔτους) ἐπι(μερισμοῦ) ἀπόρω(ν) ἀργ(υρίου) (δραχμὰς) τέσσαρες (γίνονται) (δραχμαὶ) δ,
+r.9   καὶ ιη (ἔτους) Φαῶφ(ι) ιε διʼ Ἁρπ( ) ἐπικ(λασμοῦ) ἑπτακαιδ(ε)κ(άτου) (ἔτους) (δραχμὰς) δεκαδύο (γίνονται) (δραχμαὶ) ιβ, Ἁθὺρ κζ ἐπικ(λασμοῦ) ιζ (ἔτους) (δραχμὰς) δεκαδύο (γίνονται) (δραχμαὶ) [ι]β,
+r.10   Ἁδριανῷ κζ φυλ(άκτρου) ἀπόρων ιζ (ἔτους) (δραχμὰς) τρε[ῖ]ς (πεντώβολον) (γίνονται) (δραχμαὶ) γ(πεντώβολον).
+r.11   ιζ (ἔτους) Μεχεὶρ λ δι(έγρ)α(ψεν) Θεογί(τωνι) ὑπὲρ τοῦ διεληλυθότος ἑκκαιδεκάτου (ἔτους) ἐπιμε(ρισμοῦ) ἀπόρων ἀργ(υρίου) δραχ(μὰς) ὀκτώι (γίνονται) (δραχμαὶ) η,
+r.12   Παῦνι κϛ ὑπὲρ τοῦ διεληλ(υθότος) ἑκκαιδεκάτου (ἔτους) ἀργ(υρίου) δραχ(μὰς) τέσσαρες (γίνονται) (δραχμαὶ) δ, Μεσο(ρὴ) ἐπαγο(μένων) α ὑπ(ὲρ) τοῦ διεληλ(υθότος)
+r.13   ἑκκαιδεκάτου (ἔτους) ἀργ(υρίου) (δραχμὰς) ὀκτώ (γίνονται) (δραχμαὶ) η.
+
+[TRANSLATION]
+1   Seventeenth year of Imperator Caesar Titus Aelius Hadrianus
+2   Antoninus S[eb]astos Pius, Phaophi 25. Paid to Theogi(ton) and partners,
+3   collec(tors) of money(-taxes) of Soknop(aiou Nesos): Stotoe(tis) son of Apynch(is) son of Stot(oetis),
+4   (mother) Tekiasis, syntaximon-tax of the same (year),
+5   12 silver drachmas, total 12 dr.; on Hadrianos 29, another 4 silver dr., total 4 dr.; on Tybi 26, another 4 silver dr., total 4 dr.;
+6   Phamenoth 29, another 4 silver dr., total 4 dr.; Pharmo(uthi) 30, another 4 silver dr., total 4 dr.; Pacho(n) 29,
+7   guard-pay, 2 silver dr. 5 ob., total 2 dr. 5 ob.; mag(dola-tax) 5½ ob.; Pauni 26, another 8 silver dr., total 8 dr.; Epeiph 28, river-guard(-dues) 3 ob.,
+8   prison-guard(-dues) 1½ ob., dou(ble-tax) 2½ ob., wild-beast(-tax) 1 ob. 1½ ob. ¼-ob.; for the 18th (year), Thoth 27, of the 17th (year) apportion(ment) on the destitute, 4 silver dr., total 4 dr.,
+9   and 18th (year), Phaoph(i) 15, through Harp(…) of the additional-levy of the seventeenth (year), 12 dr., total 12 dr.; Hathyr 27, additional-levy of the 17th (year), 12 dr., total [1]2 dr.,
+10   on Hadrianos 27, guard-tax of the destitute of the 17th (year), 3 dr. 5 ob., total 3 dr. 5 ob.
+11   17th (year), Mecheir 30, paid to Theogi(ton) for the past sixteenth (year), apportion(ment) on the destitute, 8 silver dr., total 8 dr.,
+12   Pauni 26, for the past sixteenth (year), 4 silver dr., total 4 dr.; Mesore, Epagomenai 1, for the past
+13   sixteenth (year), 8 silver dr., total 8 dr.

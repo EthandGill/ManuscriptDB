@@ -1,0 +1,69 @@
+# ---------------------------------------------------------
+# P.Oxy 3.519 - Account of expenditure on public games and performers
+# Source: papyri.info DDbDP p.oxy;3;519  (Trismegistos 28359)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.519
+label:    P.Oxy 3.519
+name:     Account of expenditure on public games and performers
+genre:    documents
+date:     II
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Brussels, Musées Royaux E 5932 - 5933
+content:  An account of the gymnasiarch's office recording sums paid out to performers (a mime, a Homeric reciter, a dancer), receipts taken in from officials, and disbursements to processional groups, attendants, and athletes for a public festival at Oxyrhynchus.
+tm:       28359
+source:   https://papyri.info/ddbdp/p.oxy;3;519
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   (ὧν) ἀπεδόθη
+r.2   Μεχ(εὶρ) κγ
+r.3   μίμῳ (δραχμαὶ) υϙϛ,
+r.4   ὁμηριστῇ (δραχμαὶ) υ̣μη,
+r.5   καὶ ὑπὲρ μου[σ]ι[κῶν] [ (δραχμαὶ) ̣ ̣ ̣]
+r.6   [ὀ]ρχη̣στῇ [(δραχμαὶ)] α̣[ ̣]δ
+r.7   ἀ̣π̣έ̣λ̣[αβον] [ πα]ρὰ̣ τοῦ ἐξη(γητοῦ) (δραχμαὶ) μβ,
+r.8   παρὰ τοῦ κοσμητ(οῦ) (δραχμαὶ) νγ (ἡμιωβέλιον) ,
+r.9   (γίνονται) (δραχμαὶ) φ(ὀβολὸς).
+r.10   (ὧν) ἀνηλ(ώθησαν) κωμασταῖς Νείλ(ου) (δραχμαὶ) κ,
+r.11   κωμασταῖς θεῶν (δραχμαὶ) νϛ,
+r.12   ἱπποκόμοις (δραχμαὶ) ιϛ,
+r.13   ἱεροδού(λοις) ιδ ὀβ(ολοὶ) πδ,
+r.14   πλου( ) ἱεροδού(λοις) (δραχμαὶ) κ,
+r.15   κήρυκι (δραχμαὶ) η,
+r.16   σαλπικτῇ (δραχμαὶ) δ,
+r.17   παιδίοις ἀρίστου ὀβ(ολοὶ) ϛ,
+r.18   παλμῶν ὀβ(ολοὶ) ϛ,
+r.19   (γίνονται) {(ὧν)} (δραχμαὶ) ρκδ ὀβ(ολοὶ) ϙϛ.
+r.20   [ ̣ ̣] ̣α( ) πανκρατ(ιαστῇ) (δραχμαὶ) ̣[ ̣ ̣]
+r.21   [ ̣ ̣]ανωνι ἀνταγ(ωνιστῇ) (δραχμαὶ) [ ]
+r.22   [ ̣ ̣] ̣ν̣ι πύκ̣τ̣ῃ μη ̣( ) ι̣[ ]
+
+[TRANSLATION]
+1   (Of which) was paid out:
+2   Mecheir 23:
+3   to a mime, 496 drachmas,
+4   to a Homeric reciter, 448 drachmas,
+5   and for mus[ic]ians, [...drachmas...]
+6   to a [d]ancer, [drachmas] 1[.]4;
+7   I rece[ived] [fr]om the exegetes 42 drachmas,
+8   from the kosmetes 53 drachmas (and) a half-obol,
+9   total 500 drachmas (and an) obol.
+10   (Of which) were spent: to the revelers of Nilos 20 drachmas,
+11   to the revelers of the gods 56 drachmas,
+12   to the grooms 16 drachmas,
+13   to the temple-slaves 14 (drachmas), obols 84,
+14   plou( ) to the temple-slaves 20 drachmas,
+15   to a herald 8 drachmas,
+16   to a trumpeter 4 drachmas,
+17   to the boys, for breakfast, obols 6,
+18   of palmoi(?), obols 6,
+19   total {of which} 124 drachmas, obols 96.
+20   [..] .a( ) to a pankratiast [drachmas] .[..]
+21   [..]anon to an opponent (drachmas) [ ]
+22   [..].ni to a boxer me.( ) 1.[ ]

@@ -1,0 +1,81 @@
+# ---------------------------------------------------------
+# BGU 3.864 - Contract for the Sale of a Female Slave
+# Source: papyri.info DDbDP bgu;3;864  (Trismegistos 9428)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.864
+label:    BGU 3.864
+name:     Contract for the Sale of a Female Slave
+genre:    contracts
+date:     26. Jan. - 24. Febr. 19 (Jahr unsicher)
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7447
+content:  A notarial sale-contract from the Arsinoite nome (19 CE?) in which Stotoetis sells the female slave Eudaimonis to Chairemon for one thousand silver drachmas, with warranty clauses and subscriptions.
+tm:       9428
+source:   https://papyri.info/ddbdp/bgu;3;864
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   [ἔτο]υς πέμπτου Τιβερίου [ ]
+r.2   [Ἡρα]κλείδου μερίδος τοῦ Ἀρσινοεί[του νομοῦ. ὁμολογεῖ Στοτοῆτις Στοτοήτιος ὡς ἐτῶν ]
+r.3   [ ̣ ̣ ̣]στερας κα χειρὶ δεξιᾷ Χ[αιρήμονι Σωκράτους ὡς ἐτῶν οὐλὴ πεπρακέναι αὐτῷ κατὰ]
+r.4   [τήν]δε τὴν ὁμολογίαν ἀπὸ τῆ[ς ἐνεστώσης ἡμέρας εἰς ἀεὶ τὴν ὑπάρχουσαν αὐτῷ δούλην]
+r.5   [ᾗς ὄ]νομα Εὐδαιμονὶς ἣ καὶ [ ὡς ἐτῶν ταύτην τοιαύτην ἀναπόρριφον πλὴν ἐπαφῆς καὶ ἱερᾶς νόσου]
+r.6   [καὶ] ἀπέχειν τὸν Στοτοῆ[τιν παρὰ τοῦ Χαιρήμονος τὴν συμπεφωνημένην τιμὴν πᾶσαν]
+r.7   [ἐκ π]λήρους παραχρῆμα διὰ [χειρὸς ἐξ οἴκου ἀργυρίου δραχμὰς χιλίας καὶ βεβαιώσειν αὐτὸν τῷ Χαιρήμονι]
+r.8   [καὶ] τοῖς παρʼ αὐτοῦ τὴν πεπρ[αμένην αὐτῷ ὡς πρόκειται δούλην Εὐδαιμονίδα τὴν καὶ
+r.9   πάσῃ βεβαιώσει πλὴν]
+r.10   [δρασ]μοῦ καὶ παρεχέσθωι [ἀνέπαφον καὶ ἀνενεχύραστον καὶ ἀνεπιδάνειστον καὶ καθαρὰν]
+r.11   [ ̣ ̣ ̣] ̣ ̣ ̣ ̣ ὀφειλήματος [δημοσίου μέχρι τῆς ἐνεστώσης ἡμέρας ἀπὸ δὲ ἰδιωτικῶν καὶ ]
+r.12   [ ̣ ̣ ̣] ̣ ̣ ̣ κ̣α̣ὶ̣ μηδένα ἐμ[ποιούμενον αὐτῆς μηδὲ μέρους αὐτῆς μηδὲ τρόπῳ μηδενὶ]
+r.13   [μη]δὲ κωλύοντα Χαιρήμ[ονα μηδὲ τοὺς παρʼ αὐτοῦ κυριεύοντας αὐτῶν καὶ ὑποτιθέντας
+r.14   καὶ ἐξαλλοτριοῦντας καὶ]
+r.15   [χρ]ωμ̣έ̣ν̣ους αὐτοῖς ὡς ἐὰν α[ἱρῶνται ]
+r.16   [ ̣ ̣ ̣] ̣ ̣ ̣ ̣αι, πρὸς δὲ τὰ προκεί[μενα μηδὲν τὸν Στοτοῆτιν ἐπικαλεῖν μήδʼ ἐνκαλεῖν μήδʼ ἐπελεύσεσθαι]
+r.17   [ἐπὶ τὴ]ν πεπραμένην καθὼς π[ρόκειται δούλην Εὐδαιμονίδα τὴν καὶ ὅτι δʼ ἂν τούτων παραβῇ ὁ]
+r.18   [Στοτ]οῆτις, ἀποτισάτωι τῷ Χ[αιρήμονι ἥν τε ἀπείληφεν τιμὴν καὶ ἀνηλωμένα διπλᾶ καὶ ἐπίτιμον]
+r.19   [ἀργ(υρίου) δρα]χ(μὰς) δισχιλίας κὰ μηδὲ[ν ἧσσον τὰ διωμολογημένα κύρια εἶναι. ὑπογραφεῖς τοῦ μὲν Στοτοήτιος]
+r.20   [ ̣ ̣ ̣] ̣ ̣ ̣ ̣ Σαταβοὺς κα̣λ[ ]
+r.21   (hand 2) [Στο]τουῆτις Στοτουήτιος [ ὁμολογῶ πεπρακέναι Χαιρήμονι Σωκράτους ]
+r.22   [ ̣ ̣ ἀ]πὸ τῆς ἐνεστώσης ἡμέ[ρας εἰς ἀεὶ τὴν ὑπάρχουσάν μοι δούλην ἧς ὄνομα Εὐδαιμονὶς]
+r.23   [ ̣ ̣ ̣] ̣ ̣ ̣ραεις ὡς ἐτῶν δ[ ̣ ̣ ̣ ταύτην τοιαύτην ἀναπόρριφον καὶ ἀπέχω τὴν τιμὴν πᾶσαν ἐκ πλή-]
+r.24   [ρους] παραχρῆμα διὰ χιρὸ[ς] [ἐξ οἴκου ἀργυρίου δραχμὰς χιλίας καὶ βεβαιώσω πάσῃ βεβαιώσει]
+r.25   [ ̣ ̣ ̣] πλη δρασμοῦ καθὸς π[ρόκειται ἔγραψα ὑπὲρ αὐτοῦ ]
+r.26   [ ̣ ̣ ̣]ρ̣ι̣
+r.27   (hand 3) [Χαι]ρήμων Σωκράτους εικο ̣ [ (ἔτων(?)) ]
+r.28   (hand 4) [Μεχ]εὶρ ἀναγέγρ(απται) δ[ιὰ] τοῦ κ[ γραφείου.]
+
+[TRANSLATION]
+1   In the fifth year of Tiberius [ ]
+2   [of the Hera]kleides division of the Arsinoite [nome. Stotoetis son of Stotoetis, about ... years old,] acknowledges
+3   [...]steras 21(?), with right hand, [to Ch]airemon [son of Sokrates, about ... years old, scar ..., that he has sold to him according to]
+4   [thi]s agreement, from the [present day for ever, the female slave belonging to him]
+5   [whose] name is Eudaimonis, who also [... about ... years old, this one as such, not to be returned, except for leprosy and the sacred disease,]
+6   [and] that Stotoe[tis has received from Chairemon the whole agreed price]
+7   [in f]ull immediately by [hand from the house, one thousand drachmas of silver, and that he will guarantee to Chairemon]
+8   [and] to his agents the [slave Eudaimonis sold to him as aforesaid
+9   with every guarantee except]
+10   [for fl]ight, and shall furnish her [free from claim and from pledge and from debt and clear]
+11   [...] [...] of public debt [up to the present day, and from private (debts) and ]
+12   [...] [...] and that no one shall lay [claim to her nor to a part of her nor in any way]
+13   [no]r hinder Chairem[on nor his agents from owning them and pledging them
+14   and alienating them and]
+15   [us]ing them as they may c[hoose ]
+16   [...] [...]ai, and that against the afore[said matters Stotoetis shall make no charge nor accusation nor proceed]
+17   [against th]e sold (slave) as a[foresaid, Eudaimonis who also ...; and that whatever of these the]
+18   [Stot]oetis transgresses, let him pay to Ch[airemon both the price which he received and the expenses doubled and as penalty]
+19   [of silver dra]chmas two thousand, and none[theless the agreed terms shall be valid. Subscribers, of Stotoetis on the one hand]
+20   [...] [...] Satabous [...]
+21   (hand 2) [Sto]touetis son of Stotouetis [... I acknowledge that I have sold to Chairemon son of Sokrates ]
+22   [... fr]om the present da[y for ever the female slave belonging to me whose name is Eudaimonis]
+23   [...] [...]raeis, about ... years old, [... this one as such, not to be returned, and I have received the whole price in ful-]
+24   [l] immediately by han[d] [from the house, one thousand drachmas of silver, and I will guarantee with every guarantee]
+25   [...] except for flight as a[foresaid. I wrote on his behalf ]
+26   [...]ri
+27   (hand 3) [Chai]remon son of Sokrates, eiko[... about ... years old ]
+28   (hand 4) [Mech]eir. Registered th[rough] the [... record-office.]

@@ -1,0 +1,37 @@
+# ---------------------------------------------------------
+# BGU 3.867 - Gate-toll receipt - desert-guard tax
+# Source: papyri.info DDbDP bgu;3;867  (Trismegistos 28100)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.867
+label:    BGU 3.867
+name:     Gate-toll receipt - desert-guard tax
+genre:    receipts
+date:     29 Nov 193 CE
+language: Greek (Koine)
+found:    Soknopaiou Nesos (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8783
+content:  Toll paid at the gate of Soknopaiou Nesos: Sarapion exporting (cargo of dates) under the desert-guard tax, year 2 of (Pertinax/Didius?), day 3
+tm:       28100
+source:   https://papyri.info/ddbdp/bgu;3;867
+lat:      29.5377
+lon:      30.6856
+
+[GREEK]
+r.1   τετελ(ώνηται) διὰ πύλ(ης) Σοκνοπ(αίου)
+r.2   ἐρημοφυλ(ακίας) Σαρα-
+r.3   πίων ἐ̣ξ̣(άγων(?)) ἐ̣π̣ὶ̣ καλ
+r.4   ἑνὶ φοίνικ(- ) (ἔτους) β
+r.5   Ἁδριανοῦ
+r.6   τρίτῃ, γ.
+
+[TRANSLATION]
+1   Toll paid through the gate of Soknop(aiou Nesos),
+2   (tax) of the desert-guard: Sara-
+3   pion, exporting on a came(l)
+4   one, dates(?). Year 2
+5   of Hadrian(?),
+6   on the third, 3.

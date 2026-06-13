@@ -1,0 +1,85 @@
+# ---------------------------------------------------------
+# P.Fay 98 - Receipt for House Rent
+# Source: papyri.info DDbDP p.fay;;98  (Trismegistos 10940)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Fay 98
+label:    P.Fay 98
+name:     Receipt for House Rent
+genre:    receipts
+date:     2. Nov. 123
+language: Greek (Koine)
+found:    Euhemeria / Theadelphia (Arsinoite nome, Fayum), Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10791
+content:  A receipt from Euhemeria in 123 CE in which Herakleides and Neilos acknowledge having received from Tauris the rent for the seventh year on a jointly-owned house she occupies.
+tm:       10940
+source:   https://papyri.info/ddbdp/p.fay;;98
+lat:      29.4239
+lon:      30.5536
+
+[GREEK]
+r.1   [ἔ]του[ς ὀ]γ̣δ̣[ό]ου Αὐτοκράτο[ρο]ς Καίσαρος
+r.2   Τρα[ια]νοῦ Ἁδριανοῦ Σεβαστοῦ, μην[ὸ]ς Περιτίου ε
+r.3   Χοίαχ ε, ἐν Εὐημερείᾳ τῆς Θεμίστου μερίδος
+r.4   τοῦ Ἀ[ρ]σ[ι]νοείτου νομοῦ. ὁμολογοῦσι Ἡρακλείδης
+r.5   Φιλα[δέ]λφου ἀνα[γρ]αφόμενος ἐπʼ ἀμφόδου Ἱερᾶς
+r.6   Πύλη[ς] ὡς ἐτῶν τριάκοντα ἓξ ο[ὐ]λὴ [γ]όνατι ἀριστερῷ
+r.7   καὶ Νεῖλος Ἥρων[ο]ς ἀναγραφόμενος ἐπʼ ἀμφόδο(υ)
+r.8   Διονυσίου Τόπων [ὡς ἐτ]ῶν εἴκοσι πέντε ἄσημος
+r.9   Ταύρι Ἁτ̣ρείους̣ ὡς ἐτῶν πεντήκοντα ἀσημωι
+r.10   μετὰ κυρίου τοῦ ἀνδρ[ὸς] Πνεφερῶτος τοῦ Πνεφε-
+r.11   ρῶτος ὡ[ς ἐτ]ῶν πεντ[ήκο]ντα πέντε οὐλὴ πήχι
+r.12   ἀριστερῷ, ἀπέχιν τοὺς ὁμ[ο]λογο͂ντας παρὰ τῆς
+r.13   Ταύρεως τὰ ἐνοίκια τοῦ διεληλυθότος ἑβδόμου
+r.14   ἔτους Ἁδριανοῦ Καίσαρος τοῦ κυρίου ἧς κατοικῖ
+r.15   αὐτῶν κοινωνικῆς ο[ἰκίας] ἐν κώμῃ Εὐημερείᾳ,
+r.16   καὶ μηδὲν αὐτοὺς μη[δὲ τοὺ]ς παρʼ αὐτῶν τῇ Ταύρι
+r.17   μηδὲ τοῖς παρʼ αὐτ[ῆς ἐνκα]λ[εῖν] μηδὲ ἐπελεύσεσθ(αι)
+r.18   περὶ ὧν ἀπέχουσι ὡ̣[ς πρόκ(ειται)]. ὑ̣π̣[ο]γρ(αφεὺς) τῶν ὁμολ(ογούντων) Μύσθης
+r.19   Ἥρωνος ὡ(ς) ἐτῶν κ ἄση[μος] (hand 2) Ἡρακλείδης Φιλαδέ-
+r.20   λφ[ο]υ καὶ Νεῖλος Ἥρωνος ὁμολογοῦ-
+r.21   μεν ἀπέχιν παρ[ὰ τῆ]ς Ταύρεως τὰ ἐνοί-
+r.22   κια τοῦ διεληλυθότος ἑβδόμου ἔτους
+r.23   Ἁδριανοῦ Καίσαρος τοῦ κυρίου ἧς κατοικῖ
+r.24   ἡμ[ῶν] κοινωνικῆς οἰκίας ἐν κώμῃ Εὐ-
+r.25   ημ[ερείᾳ], καὶ οὐδὲν ἐνκαλοῦμεν κα-
+r.26   θὼς [π]ρόκιται. ἔγραψα ὑπὲρ αὐτῶν Μύ-
+r.27   σθη[ς Ἥρ]ωνος μ[ὴ ἰδ]οτο ̣ς γράμματα.
+r.28   (hand 1) [(ἔτους) ὀ]γ̣[δ]ό̣ου, μηνὶ Χ[οί]αχ ε, διὰ Ἥρω[ν]ος τοῦ πρὸς τῷ
+r.29   [γρ]αφίῳ Εὐημερ[εία]ς. v
+r.30   ἀποχὴ ἐνοικίω(ν) ζ (ἔτους) Τ[αύρεως].
+
+[TRANSLATION]
+1   In the eighth year of Imperator Caesar
+2   Trajan Hadrian Augustus, in the month Peritios 5,
+3   Choiach 5, in Euhemeria of the Themistos division
+4   of the Arsinoite nome. There acknowledge: Herakleides
+5   son of Philadelphos, registered in the quarter of the Sacred
+6   Gate, about thirty-six years old, scar on the left knee,
+7   and Neilos son of Heron, registered in the quarter
+8   of Dionysios Topon, about twenty-five years old, without distinguishing mark,
+9   to Tauris daughter of Hatres, about fifty years old, without distinguishing mark,
+10   with as guardian her husband Pnepheros son of Pnephe-
+11   ros, about fifty-five years old, scar on the left forearm,
+12   that the acknowledging parties have received from
+13   Tauris the rent of the past seventh
+14   year of Hadrian Caesar the lord, of the jointly-owned
+15   house of theirs which she inhabits, in the village of Euhemeria,
+16   and that neither they nor their agents make any claim against Tauris
+17   nor against her agents, nor will proceed
+18   concerning the matters of which they have received (payment), as aforesaid. Subscriber for the acknowledging parties, Mysthes
+19   son of Heron, about 20 years old, without distinguishing mark. (hand 2) We, Herakleides son of Philadel-
+20   phos and Neilos son of Heron, acknowledge
+21   that we have received from Tauris the rent
+22   of the past seventh year
+23   of Hadrian Caesar the lord, of the jointly-owned house which she inhabits,
+24   of ours, in the village of Eu-
+25   hemeria, and we make no claim, as
+26   aforesaid. I wrote on their behalf, Mys-
+27   thes son of Heron, since they do not know letters.
+28   (hand 1) In the eighth year, in the month Choiach 5, through Heron of the
+29   record-office of Euhemeria. (verso)
+30   Receipt for rent of the 7th year, of Tauris.

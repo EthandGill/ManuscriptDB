@@ -1,0 +1,41 @@
+# ---------------------------------------------------------
+# P.Oxy 2.287 - Sitologoi receipt - 41 artabas of wheat measured in
+# Source: papyri.info DDbDP p.oxy;2;287  (Trismegistos 20558)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.287
+label:    P.Oxy 2.287
+name:     Sitologoi receipt - 41 artabas of wheat measured in
+genre:    receipts
+date:     23 Nov 23 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    New York, Columbia University P. Oxy. 287
+content:  The sitologoi of the lower toparchy acknowledge that 41 artabas 3 choinikes of wheat were measured in by Aristandros for the villages of Apion in the western toparchy
+tm:       20558
+source:   https://papyri.info/ddbdp/p.oxy;2;287
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   [ἔτους] δεκάτου Τιβερίου Κα[ίσαρος Σεβαστοῦ],
+r.2   [μηνὸ]ς Νέ[ου] Σεβαστοῦ κϛ. [ὁμολογεῖ ̣ ̣ ̣ ̣ ̣]
+r.3   [καὶ] μέτοχοι οἱ σιτολογοῦ[ντες τ]ὴ̣ν πρὸς
+r.4   μερ(ίδα) τῆς κάτω τοπαρχ(ίας) [μεμετρ]ῆ̣σθαι
+r.5   [πα]ρὰ Ἀριστάνδ[ρ]ου τοῦ Ἀρίστων[ο]ς ὑ(πὲρ)
+r.6   [λι]βὸς τοπαρχ(ίας) Ἀπίων[ο]ς κωμῶν πυρ(οῦ)
+r.7   [σύ]ν̣παντ(ι) ἀρτάβας τεσσαράκοντα μίαν χ(οίνικας) γ,
+r.8   [(γίνονται) (πυροῦ ἀρτάβαι)] μα χ(οίνικας) γ.
+
+[TRANSLATION]
+1   [Year] tenth of Tiberius Ca[esar Augustus],
+2   [mont]h Neos Sebastos 26. [N.N. acknowledges]
+3   [and] partners, the sitologoi of the
+4   division of the lower toparchy, that there has been [measured]
+5   [fr]om Aristandros son of Ariston, for
+6   the [we]stern toparchy, of the villages of Apion, of wheat,
+7   in [a]ll, forty-one artabas, 3 choinikes,
+8   [total wheat art.] 41, 3 choin.

@@ -1,0 +1,65 @@
+# ---------------------------------------------------------
+# BGU 4.1168 - Acknowledgment of repayment of a 400-drachma loan
+# Source: papyri.info DDbDP bgu;4;1168  (Trismegistos 18620)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1168
+label:    BGU 4.1168
+name:     Acknowledgment of repayment of a 400-drachma loan
+genre:    contracts
+date:     11 - 10 v.Chr.
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13051 Vo
+content:  Marcus Tigellius Ialysos, persuaded by Eros son of Diodoros, acknowledges before Protarchos that he has received back through the bank of Hermias from the account of Kalathos (also called Philemon) the 400 Ptolemaic silver drachmas he had lent, with interest, and renounces all further claim, dated year 20 of Caesar.
+tm:       18620
+source:   https://papyri.info/ddbdp/bgu;4;1168
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   [Πρω]τ̣ά̣ρ̣χ̣ωι
+r.2   παρὰ Μάρκ[ο(υ)] Τιγελλίο(υ) Ἰαλύσ̣ο̣υ̣ [καὶ π(αρὰ) Ἔρ]ω̣[τος τοῦ] Δ̣ι̣[ο-]
+r.3   δώρο(υ) τοῦ διαπεσταλμένο(υ) π̣ρ̣ὸ̣ς̣ [τε]λείωσ(ιν) τῆσδ̣[ε τῆς]
+r.4   συγχωρή(σεως) ὑπὸ Καλάθου τοῦ καὶ Φιλ[ή]μονος τοῦ ̣ ̣ ̣ ̣[ ̣ ̣]
+r.5   δ̣ώ̣[ρο(υ)]. συνχω(ρεῖ) ὁ Μᾶρκ(ος) Τιγέλλιο(ς) Ἰάλυσο(ς) σ̣υ̣[ν-]
+r.6   πεπεισμέ(νος) ὑπὸ τοῦ Ἔρωτο(ς) ἀπε̣σ̣χη(κέναι) παρʼ αὐτοῦ
+r.7   διὰ τῆ(ς) Ἑρμί(ου) τραπ(έζης) ἐκ τ[ο]ῦ τοῦ Καλάθου [ὀνό(ματος)]
+r.8   ἀργυρίου Πτολ(εμαικοῦ) [δραχμὰς] τετρακοσίας, ἅσπερ ἐ̣[δάνε(ισε)]
+r.9   τῶι Καλάθωι κατ [συν]χώρη(σιν) διὰ τῆς τοῦ κ̣[αταλ(ογείου)]
+r.10   ἐφημερίδ(ος) ἐ̣ν̣ τ̣ο̣ῖ̣ς̣ ἔμπροσθ(εν) χρ(όνοις), ἔ̣τ̣ι̣ δ̣ὲ̣ [καὶ]
+r.11   πάντας [τ]ῶ̣ν̣ ἑ̣ξ̣ῆ̣ς̣ τοῦ [χ]ρ̣(όνου) τόκ(ους)· εἶν[αι] ἀκύρο(υς) [τὴν]
+r.12   τοῦ δ̣α̣ν̣η̣ σ(υν)χώρη(σιν) καὶ τὴν πρὸς αὐτὴ(ν) γεγονυῖα(ν)
+r.13   [διὰ τῆ(ς) αὐ(τῆς)] τ̣ρ̣α̣π̣(έζης) διαγραφήν, μ̣ὴ ἐπελεύσεσθαι [τὸν]
+r.14   Μᾶρκ(ον) Τιγέλλιο(ν) Ἰάλυσο(ν) μηδʼ <ἄλλον> ὑπὲρ αὐ(τοῦ) [ἐπὶ] τ(ὸν) [Κάλ(αθον)]
+r.15   τὸν καὶ Φιλήμο(να) μήτε π̣ε̣ρ̣ὶ̣ τῶ̣ν̣ αὐ(τῶν) μηδὲ π̣[ερὶ ἄ(λλου)]
+r.16   μηδενὸς ἁπλῶς ὀφειλ(ήματος) ἢ ἀπαιτή(ματος) [ἢ] ἐγγράπ(του) ἢ [ἀγρά(φου)]
+r.17   π̣ρ̣ά̣γ̣μ̣α̣τ̣ο̣ς̣ κ̣α̣θ̣όλ(ου) τ̣ῶ̣ν̣ ἀπὸ τῶν ἔνπροσθ(εν) χρό(νων) μέχ̣[ρι τῆ(ς)]
+r.18   [ἐνε(στώσης)] ἡμέρας ἢ χ[ωρὶς] τοῦ κύρια εἶναι τὰ συγ[κεχωρη(μένα)]
+r.19   [ἐνέχεσθ]αι αὐ(τὸν) παραβ(αίνοντα) τ̣ο̣ῖ̣ς̣ τ̣ε̣ β̣λ̣(άβεσι) καὶ τῷ ὡ̣(ρισμένῳ) προ(στίμῳ).
+r.20   (ἔτους) κ Καίσαρος [ ̣ ̣ ̣ ̣ ̣] κθ̣
+
+[TRANSLATION]
+1   To [Prot]archos,
+2   from Marc[u]s Tigellius Ialysos [and from Er]o[s son of] Di[o-]
+3   doros, the one dispatched for [the com]pletion of this
+4   agreement by Kalathos also called Phil[e]mon son of ...[..]
+5   doros. Marcus Tigellius Ialysos agrees, having been per-
+6   suaded by Eros, that he has received back from him
+7   through the bank of Hermias, from the account of Kalathos,
+8   four hundred drachmas of Ptol(emaic) silver, which he had [lent]
+9   to Kalathos by [agree]ment through the day-book of the re[cord-office]
+10   in the previous times, and furthermore [also]
+11   all the interest of the time thereafter; (and) that the
+12   loan-agreement is void and the (payment-order) made in regard to it
+13   [through the sa]me bank, and that
+14   Marcus Tigellius Ialysos shall not proceed, nor anyone on his behalf, [against the Kalathos]
+15   also called Philemon, neither concerning the same matters nor con[cerning any other]
+16   matter whatsoever, of debt or demand, [whether] written or [unwritten]
+17   affair at all, of the things from the previous times unt[il the]
+18   [present] day, or apart from the things agreed being valid,
+19   (and) that he, transgressing, shall be [liabl]e both to the damages and to the fixed penalty.
+20   (In the year) 20 of Caesar, [....] 29

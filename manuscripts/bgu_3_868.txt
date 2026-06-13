@@ -1,0 +1,63 @@
+# ---------------------------------------------------------
+# BGU 3.868 - Petition to the Idios Logos Postumus on an Estate Without Heir
+# Source: papyri.info DDbDP bgu;3;868  (Trismegistos 16285)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.868
+label:    BGU 3.868
+name:     Petition to the Idios Logos Postumus on an Estate Without Heir
+genre:    petitions
+date:     158 - 159
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7298
+content:  Copy of a petition from Gaius Valerius Apolinarius to the procurator Gaius Annius Postumus concerning a deceased public official, a missing inheritance, and repayment of interest, with a ruling Postumus gave from the tribunal.
+tm:       16285
+source:   https://papyri.info/ddbdp/bgu;3;868
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ἀ(ντίγραφον)
+r.2   Γαίωι Ἀννίωι Ποστούμωι τῶι κρατίστωι πρὸς τῶι ἰδίωι λόγωι
+r.3   παρὰ Γαίου Οὐαλερίου Ἀπο̣λ̣ιναρίου Ἀντινοέως Ματιδείου τοῦ καὶ Καλλι-
+r.4   τεκνείου· Ἀμμώνιος Ἀμμωνίου δημόσιος̣ προσοποιὸς πρὶν αὐτὸν
+r.5   τελευτῆσαι διʼ οὗ ἐπέδωκεν ̣ ̣ ̣ ̣ιβ ̣ ̣ ̣ ̣λ ̣ ̣ν Γάιον Οὐαλέριον ̣ ̣ ̣ ̣[ ̣ ̣]
+r.6   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣]μου ̣[ ̣ ̣] ̣ ̣ τὸ ἀν(τί)γρ ̣ ̣ ̣ ̣ ̣λ̣οντ̣α̣ ̣ ̣ ̣ ̣ τοῦ Ἀρσ(ινοίτου) ἀκληρονομ ̣ ̣ ̣ ̣[ ̣ ̣]
+r.7   […] ̣εξ καὶ ταῦ̣τ̣α̣ ̣ ̣ ̣[ ̣ ̣ ̣ ̣ ̣ ̣] ̣ ̣ ̣υτωι ̣ ̣ ̣ω ̣ι ὁμολογ ̣ ̣ ̣ ̣ εν ̣η
+r.8   […] ̣ ̣ ̣ ̣τα[ ̣ ̣ ̣ ̣ ̣ ̣ ἐ]ν τῇ γενομένῃ ἐπὶ σοῦ, κύριε, ἀν̣τικατα-
+r.9   [στάσει] [τοῦ Ἀμμω]νίου πρὸ[ς τὸν Ἡ]ρακλ[ι]ανὸν μετὰ τὰ ἑκατέρωθεν
+r.10   a[ Μ]εσορὴ μ(η)νὸς τ[οῦ διεληλ]υθότος κα (ἔτους)
+r.11   [λεχθέντα ἀπεφήν]ω ἐπὶ τ[οῦ βήμα]τ̣ο̣ς̣ Πόστουμος σκεψάμενος [εἶπεν]
+r.12   [… κλ]ηρονόμος ὢν τῶν τῆς μητρός σ̣ου τῆς υ[ ̣ ̣]
+r.13   [… ἀ]λλὰ ἐν τοσούτῳ ἁπλοῦν ἀποδώσεις, ἐάν σ[ο]ι
+r.14   [… ὄ]νομα τοῦ ἀκληρονομήτου κα[ὶ] τῶ[ν] ἄλ-
+r.15   […] ἀπόδος δὲ καὶ τοὺς τόκους καὶ τὰ λοιπά̣.
+r.16   [… πε]ρὶ ἑτέρων. ἐπεὶ οὖν, κύριε, μέχρι τούτου
+r.17   […] κ̣α̣ὶ̣ κ̣[α]τ̣ὰ̣ μ̣έρος τὰ ὑπ̣ο̣[λελειμμένα ̣ ̣ ̣ ̣]
+r.18   […] φαίνηται ἐὰν σοῦ τ[ῇ τύχῃ δόξῃ, γράψαι(?)]
+r.19   [τῷ Ἀρσινοίτου Ἡρακλείδου] μερ[ίδος στρατηγῷ ]
+
+[TRANSLATION]
+1   Copy.
+2   To Gaius Annius Postumus, the most excellent, in charge of the Private Account (Idios Logos),
+3   from Gaius Valerius Apolinarius, an Antinoite of the Matidian tribe, the Calli-
+4   teknean (deme). Ammonios son of Ammonios, public agent, before he
+5   died, through which he submitted ... 12 ... 30 ... Gaius Valerius ...[ .. ]
+6   [ ...... ]mou ..[ .. ] .. the copy ... ... of the Ars(inoite nome), without heir ...[ .. ]
+7   [...] .. six and these things ...[ ...... ] ... to him ... ... acknowledg... ...
+8   [...] .... ta[ ...... i]n the (proceeding) that took place before you, lord, the counter-
+9   [suit] [of Ammo]nios agai[nst He]rakl[i]anos, after the things on both sides
+10   a[ in the month M]esore of the [pas]t 21st (year)
+11   [said, you pronounce]d on the [tribuna]l; Postumus, having considered, [said:]
+12   [... being an h]eir of the (property) of your mother the ..[ .. ]
+13   [... b]ut in the meantime you shall repay the single (amount), if for y[o]u
+14   [... the n]ame of the heirless one an[d] of the oth-
+15   [...] but pay back also the interest and the rest.
+16   [... con]cerning others. Since therefore, lord, up to this point
+17   [...] .. and pi[e]ce by piece the remain[ing matters ... ]
+18   [...] it appears, if it seem [good to your fortune, to write]
+19   [to the strategos of the Herakleides division of the Arsinoite (nome).]

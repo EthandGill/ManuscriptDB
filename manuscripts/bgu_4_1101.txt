@@ -1,0 +1,85 @@
+# ---------------------------------------------------------
+# BGU 4.1101 - Marriage Contract Renewed After Divorce
+# Source: papyri.info DDbDP bgu;4;1101  (Trismegistos 18539)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1101
+label:    BGU 4.1101
+name:     Marriage Contract Renewed After Divorce
+genre:    contracts
+date:     3. Apr. 13 v.Chr.
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13072 Vo
+content:  An Alexandrian marriage contract (13 BCE) by which Ammonios and Dionysia, having divorced, reunite; Ammonios acknowledges receipt of her dowry and undertakes marital obligations, with mutual duties and penalties and mention of their daughter Ammonarion.
+tm:       18539
+source:   https://papyri.info/ddbdp/bgu;4;1101
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   κόλ(λημα)
+r.2   Πρωτ[άρ]χ̣ωι
+r.3   πα[ρ]ὰ [Διονυ]σ̣ί̣α̣ς̣ τῆς Διονυσίου ἀστῆ(ς) μετὰ κ(υρίου) Ε̣υ̣ ̣ ̣ ̣σ̣ι̣ο̣ν̣ο̣ς̣ τοῦ (ὁμοίως)
+r.4   κ̣α̣ὶ̣ [παρὰ Ἀμμωνίου τοῦ Διονυ]σί(ου) Ἀλεξανδρέ(ως). ἐπεὶ συνό̣ν̣τ̣ες ἑ̣α̣[υτ]ο̣ῖς
+r.5   ἔ̣τ̣[η ̣ ̣ ̣] ἐ̣χ̣ω̣ρ̣ί̣σ̣θ̣η̣μ̣ε̣ν̣ ἀπʼ ἀλλή(λων), τὰ δὲ νῦν εἰς τὸ(ν) αὐτὸ(ν) κα̣τ̣η̣ν̣-
+r.6   τηκ̣έ̣ν̣α̣ι̣ βίο(ν) συνχωροῦμεν ἐπὶ τοῖσδε ὥστʼ ἐπεὶ εἴληφεν
+r.7   [ὁ Ἀμ]μώνι̣ο̣ς̣ παρὰ τῆ(ς) Διονυσία(ς) διὰ χ(ειρὸς) ἐξ οἴκ(ου) φερνὴν ἱμάτια γυναικ(εῖα)
+r.8   καὶ ἐνωτίω(ν)
+r.9   χ̣ρ̣υ̣σ̣(ῶν) ζ̣ε̣ῦ̣γ̣ο̣ς̣ τ̣ε̣τ̣α̣ρ̣τ̣ῶν̣ δύο καὶ ψέλια ἀργυρᾶ δ ἕκαστον ὁλ̣κῆς (δραχμῶν) δ
+r.10   κ̣[αὶ ἐπίση]μ̣ο(ν(?)) τὰ δὲ π̣ά̣ν̣τ̣α̣ εἰς λόγο(ν) ἀργυ(ρίου) (δραχμῶν) διακοσίων , ἀπὸ τοῦ νῦν
+r.11   τ̣ὸ̣ν̣ Ἀ̣μ̣μ̣ώ̣ν̣ι̣ο̣ν̣ χορη(γεῖν) αὐτὸ(ν) τῇ Διονυσί(αι) τὰ δέοντα πάντα καὶ τὸν
+r.12   εἱματισ(μὸν)
+r.13   [ὡς] γ̣υ̣ν̣α̣ι̣(κὶ) γ̣α̣μ̣ε̣τ̣ῇ̣ κατὰ δ(ύναμιν) τῶν ὑπαρχ(όντων) καὶ μὴ κακουχεῖν
+r.14   αὐ(τὴν) μηδὲ ἐγβάλ(λειν)
+r.15   μ̣η̣(δὲ) ὑ̣β̣ρ̣(ίζειν) μηδ(ὲ) <ἄλλην> γυναῖκα ἐπεισάγειν ἢ ἐκτίν(ειν) τὴν φερνὴ(ν)
+r.16   σὺν ἡ(μιολίαι)
+r.17   τ̣ῆ̣(ς) π̣ρ̣ά̣ξ̣(εως) γ̣ε̣ι̣ν̣ο̣(μένης) τῇ Διο(νυσίαι) ἔκ τε αὐτοῦ Ἀμμω(νίου) καὶ
+r.18   ἐκ τῶν ὑπαρχ(όντων) αὐ(τοῦ) πάντων
+r.19   καθ(άπερ) ἐ̣κ̣ δίκ(ης), καὶ τὴν δὲ Διονυσί(αν) συντηρε(ῖν) τὰ πρὸς τὸν ἄνδρ(α) καὶ
+r.20   τὸ(ν)
+r.21   κ̣[οινὸν] βίο(ν) δίκαια μήτε ἀπόκ(οιτον) μηδʼ ἀφήμερο(ν) γείνε(σθαι) ἀπὸ τῆ(ς) οἰκ(ίας)
+r.22   ἄνευ τῆς Ἀ̣μ̣μ̣ω̣(νίου) γνώ(μης) μηδὲ φθ(είρειν) μηδὲ καταβλ(άπτειν) τ̣ὸ̣ν̣ κοιν(ὸν)
+r.23   οἶκον μηδ̣ʼ ἄλλ(ωι) ἀνδρὶ συνεῖναι ἢ καὶ αὐτὴ(ν) τούτων <τι> διαπραξαμέ(νην)
+r.24   κ̣ρ̣ι̣θ(εῖσαν) στέρεσθαι τοῦ φερνα(ρίου) χωρὶς τοῦ τὸν παραβ(αίνοντα) ἐνέ̣χ̣(εσθαι)
+r.25   τῷ ὡρ(ισμένῳ) προστ[ί]μ̣(ωι)
+r.26   καὶ ἐν ἡμέρ(αις) δὲ χρη(ματιζούσαις) ε ἀφʼ ἧς ἐὰν ἀλλήλ(οις) προείπωμ(εν), θησόμεθα
+r.27   καὶ δ̣ι̣ὰ̣ τῶν ἱεροθυτῶν τ̣ο̣ῦ̣ σ̣υ̣ν̣ο̣ι̣κ̣(ισίου) σ̣υ̣γ̣γ̣ρ̣α(φὴν) ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ κ̣α̣ὶ̣ τ̣ὰ̣ κ̣α̣θ̣ή̣κ̣(οντα)
+r.28   καὶ τὸ γεγονὸς ἡμεῖν ἐξ ἀλ(λήλων) παιδίο(ν) θῆλυ ᾧ ὄνομ(α) Ἀμμωνάριον
+r.29   ̣[ ̣ ̣ ̣ ̣]ρο̣ι̣ς δʼ εἰς τὸ παιδίον ὡς ἐὰν ἐπὶ τοῦ καιροῦ κοινῶς κρε̣ί̣-
+r.30   ν̣[ω]μεν ̣ ̣ ̣ ̣ ̣ ̣ ἀ̣ξ̣ι̣ο̣ῦ̣μ̣ε̣ν̣ ̣ ̣ ̣
+
+[TRANSLATION]
+1   Sheet.
+2   To Protarchos,
+3   from Dionysia daughter of Dionysios, a citizen, with her guardian Eu...sion son of the same (i.e. of Dionysios)
+4   and [from Ammonios son of Diony]sios, an Alexandrian. Since, having lived together
+5   for [...] years, we were separated from one another, but now have come together into the same
+6   life again, we agree on these terms: that, since
+7   [Am]monios has received from Dionysia from hand to hand out of the house as dowry women's garments
+8   and of earrings
+9   two pairs of gold quarter-pieces, and four silver bracelets each of 4 drachmas weight,
+10   and stamped (silver?) — the whole on account of silver coming to two hundred drachmas — from now on
+11   Ammonios shall provide her, Dionysia, with all necessities and the
+12   clothing
+13   [as] for a wedded wife according to the means of his property, and not maltreat
+14   her nor cast (her) out
+15   nor abuse (her) nor bring in another woman, or (else) pay back the dowry
+16   with half as much again,
+17   the execution being made for Dionysia both from Ammonios himself and
+18   from all his property
+19   as if by judgment; and that Dionysia for her part keep her duties toward her husband and
+20   the
+21   common life justly, neither sleeping away nor staying away by day from the house
+22   without Ammonios' consent, nor ruining nor damaging the common
+23   household, nor consorting with another man; or, if she herself does any of these things,
+24   being condemned, she shall lose her dowry, apart from the transgressor being liable
+25   to the fixed penalty;
+26   and within five business days from when we give notice to one another, we shall draw up
+27   also through the sacrificers the contract of cohabitation [...] and the appropriate things,
+28   and (regarding) the female child born to us from one another whose name is Ammonarion
+29   [...] for the child, as we may at the time jointly de-
+30   cide [...] we request [...]

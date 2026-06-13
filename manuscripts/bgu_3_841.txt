@@ -1,0 +1,45 @@
+# ---------------------------------------------------------
+# BGU 3.841 - Contract for the rent of a house (8 gold carats yearly)
+# Source: papyri.info DDbDP bgu;3;841  (Trismegistos 37082)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.841
+label:    BGU 3.841
+name:     Contract for the rent of a house (8 gold carats yearly)
+genre:    contracts
+date:     26. Apr. - 25. Mai 672
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 2567
+content:  A lease of a share of a house opening to the east, from the new moon of Pauni of the present 15th indiction, at a yearly rent of eight gold carats, acknowledged by Georgios son of Pheib.
+tm:       37082
+source:   https://papyri.info/ddbdp/bgu;3;841
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ̣ ̣ ̣τ ̣[ ̣ ̣] ̣ ̣τερ[ ̣ ̣] ̣ ̣ ̣ ̣[ ̣ ̣ ̣ ̣]
+r.2   ἀνεοͅγμένον εἰς ἀπηλιότην σὸν μέρος
+r.3   καὶ παντὸς ἀτο͂ν τοῦ δικαίου ἐφʼ ὅσον χρ[όνον]
+r.4   βούλει ἀπὸ νεομηνίας τοῦ εἰσιόντος
+r.5   [μ]ηνὸς Παῦνι τῆς παρούσης πεντ[ε-]
+r.6   [καιδε]κάτης ἰν(δικτίωνος) καὶ παρασχ(εῖν) σοι λόγῳ ἐνοικ[ίου]
+r.7   [ἐνι]αυσίως χρυσοῦ κεράτια ὀκτὼ
+r.8   [χρ(υσοῦ) (κεράτια) η κα]ὶ ἐπερ(ωτηθεὶς) ὡμ(ολόγησα) † Γεώργιος υἱὸς
+r.9   Φεὶβ στοιχεῖ μοι πάντα ὡς πρό(κειται) †
+r.10   [ ]ε̣[ ̣ ̣]θα ̣ ̣ ̣ορι̣ων […] ̣ ̣
+
+[TRANSLATION]
+1   ...t.[..]..ter[..]....[....]
+2   opened toward the east, your share
+3   and of every right of it for as long a tim[e as]
+4   you wish, from the new moon of the coming
+5   [m]onth Pauni of the present fif-
+6   [teen]th ind(iction), and to provide to you by way of ren[t]
+7   [year]ly eight gold carats
+8   [gold (carats) 8, an]d, having been formally asked, I ac(knowledged). I, Georgios son
+9   of Pheib, am satisfied with everything as afore(said). †
+10   [ ]e[..]tha...ori.on [...]..

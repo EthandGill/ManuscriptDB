@@ -1,0 +1,65 @@
+# ---------------------------------------------------------
+# BGU 4.1061 - Petition - a temple doorkeeper murdered, a merchant robbed
+# Source: papyri.info DDbDP bgu;4;1061  (Trismegistos 18506)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1061
+label:    BGU 4.1061
+name:     Petition - a temple doorkeeper murdered, a merchant robbed
+genre:    petitions
+date:     25 Jan 14 BCE
+language: Greek (Koine)
+found:    Busiris (Herakleopolite nome), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13100
+content:  Pnephoros reports to the deputy-strategos how Patellis with 15 others murdered the woman doorkeeper of the chapel at Busiris, then in brigand fashion stripped a merchant of 150 fleeces and 1500 drachmas
+tm:       18506
+source:   https://papyri.info/ddbdp/bgu;4;1061
+lat:      29.0667
+lon:      30.9333
+
+[GREEK]
+r.1   (hand 2) [ ̣]ελ( ) (ἔτους) ιϛ Τῦ(βι) λ
+r.2   (hand 1) Νεάρχωι ὑποστρατήγωι
+r.3   παρὰ Πνεφορῶτος τοῦ Ἡρακλείου τῶν ἐκ Σιναρὺ τοῦ
+r.4   πέραν. προσαγγέλλω σοί, ὃν τρόπον ἐν τῶι διελη-
+r.5   λυθότι <ἔτει> ἐπιβαλόντες Πα̣τῆλλις τῶν ἐκ τῆς Σιναρὺ
+r.6   υἱὸς Μεσθασῦτος σὺν ἑτέροις καὶ προσλαπὼν
+r.7   ὄργανον ἀλλοι ἄνδρες ιε τῶν ἐκ τῆς αὐτῆς
+r.8   τῶι ἐν τῶι ἐν Βουσίρει ἱερῶι Ἑλλανίκου παστο-
+r.9   φορίωι τὴν ἀποτεταγμένην πρὸς τῆι
+r.10   τηρήσει θυρωρὸν Μ̣α̣λήφιος γυναῖκα
+r.11   παραχρῆμα ἐφόνευσαν. ἔτι δὲ καὶ τὸν
+r.12   τούτου νεώτερον ἀδελφὸν Ἀμβῆσιν σὺμ
+r.13   Πνεφορῶτι Πετεσούχου φερομένωι ἐν τῆι
+r.14   κατοικίαι ἐπιθέμενοι ληστρικῶι τρόπωι
+r.15   ἐπί τινα ἔμπορον τῶν ἐκ τοῦ Ὀξυρυγχίτου
+r.16   ἐξέδυσαν καὶ περιείλοντο αὐτοῦ πόκους
+r.17   ἐρίων ρν καὶ ἀργυ(ρίου) (δραχμὰς) Αφ, περὶ ὧν καὶ ἐν
+r.18   αὐτῆι τῆι Σιναρὺ παρεδόθησαν καὶ πρὸς
+r.19   τὸ μὴ ἐκθριαμβισθῆναι τὸ πρᾶγμα ἀπε-
+r.20   [λύθησαν.] ἔτι δὲ καὶ πλοίου τινὸς κατά-
+
+[TRANSLATION]
+1   (…, year 16, Tybi 30.)
+2   To Nearchos, deputy-strategos,
+3   from Pnephoros son of Herakleios, of those from Sinaru on the
+4   far side. I report to you how, in the
+5   past <year>, Patellis, of those from Sinaru,
+6   son of Mesthasys, attacking together with others, and taking up
+7   a tool — other men, 15, of those from the same (village) —
+8   the doorkeeper assigned to the watch at the chap-
+9   el of Hellanikos in the temple at Busiris,
+10   the wife of Malephis,
+11   they murdered on the spot. And further, this man's
+12   younger brother Ambesis, together
+13   with Pnephoros son of Petesouchos, who was traveling in the
+14   settlement — setting upon, in brigand fashion,
+15   a certain merchant of those from the Oxyrhynchite —
+16   they stripped and stole from him fleeces
+17   of wool, 150, and 1500 silver drachmas; concerning which, even in
+18   Sinaru itself they were handed over, and, so
+19   that the matter not be paraded in public, were re-
+20   leased.

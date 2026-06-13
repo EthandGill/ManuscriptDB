@@ -1,0 +1,59 @@
+# ---------------------------------------------------------
+# P.Oxy 2.244 - Application to transfer livestock to the Kynopolite nome
+# Source: papyri.info DDbDP p.oxy;2;244  (Trismegistos 20513)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.244
+label:    P.Oxy 2.244
+name:     Application to transfer livestock to the Kynopolite nome
+genre:    documents
+date:     2. Febr. 23
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    London, British Library Pap 791
+content:  Kerinthos, slave of Antonia daughter of Drusus, applies to the strategos Chaireas for permission to move 320 sheep and 160 goats (with their lambs and kids) from the Oxyrhynchite to the Kynopolite nome, with the strategos's covering note to his colleague appended.
+tm:       20513
+source:   https://papyri.info/ddbdp/p.oxy;2;244
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   [Χ]αιρέαι στρατηγῶι
+r.2   παρὰ Κηρίνθου Ἀντωνίας Δρούσου
+r.3   δούλου. βουλόμενος μεταγαγεῖν
+r.4   ἐκ τοῦ Ὀξυρυγχίτου εἰς τὸν Κυν[ο]πολίτην
+r.5   νομὸν νο[μῶ]ν χάριν ἃ ἔχω ἐν ἀπογρα(φῇ)
+r.6   ἐπὶ τοῦ Ὀξ[υρυγ]χίτου ἐν τῷ ἐνεστῶτι
+r.7   ἐνάτωι ἔτει Τιβερίου Καίσαρος Σεβαστοῦ
+r.8   πρόβατα τριακόσια εἴκοσι καὶ αἶγας
+r.9   [ἑκατ]ὸν ἑξήκο[τ]α καὶ τοὺς ἐπακολουθ(οῦντας)
+r.10   ἄρνας [κ]αὶ ἐρίφους, ἐπιδίδωμι τὸ ὑπόμνη(μα)
+r.11   ὅπως γραφη τῶι τοῦ Κυνοπολίτου
+r.12   [σ]τρατηγῶ[ι] φ̣[έρ]ε̣ι̣ν̣ τὰ σημαινα πρό̣β̣α̣τ̣α̣
+r.13   καὶ ε̣ν̣ ̣ ̣ ̣α̣ ̣ [ἐν] ἀπογραφῆι̣ ̣ ̣ ̣ ̣
+r.14   ̣ ̣[ ̣ ̣ ̣ ̣ ̣] ̣[ ̣]ν̣τος γ̣ ̣ ̣ ̣ ̣ν̣[ ̣ ̣ ̣ ̣ ̣ ̣]
+r.15   (hand 3) Χαιρέας Ἑρμίᾳ [στρα(τηγῷ) Κυνο]πο̣λίτου πλεῖστα χαίρειν.
+r.16   ἐπέδωκέν μοι ἀ[πογραφὴ]ν Κήρινθ[ο]ς Ἀντωνίας Δρούσου
+r.17   δοῦλος βου[λό]μ[ενος …] ̣ ̣ε̣ι̣
+
+[TRANSLATION]
+1   To [Ch]aireas, strategos,
+2   from Kerinthos, slave of Antonia daughter of Drusus.
+3   Wishing to transfer
+4   from the Oxyrhynchite to the Kyn[o]polite
+5   nome, for the sake of pasturage, the animals which I have on register
+6   in the Ox[yrhyn]chite in the present
+7   ninth year of Tiberius Caesar Augustus,
+8   three hundred and twenty sheep and
+9   [one hundr]ed sixty goats and the accompanying
+10   lambs [a]nd kids, I submit this memorandum,
+11   so that it may be written to the strategos of the Kynopolite
+12   [s]trategos to allow the said sheep to be brought
+13   and ... [on] the register ....
+14   ...[......] .[.]ntos ... ...n[......]
+15   (hand 3) Chaireas to Hermias, [stra(tegos) of the Kyno]polite, very many greetings.
+16   Kerinth[o]s, slave of Antonia daughter of Drusus, submitted to me a [registration]
+17   wishing [... ] ...ei

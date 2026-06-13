@@ -1,0 +1,77 @@
+# ───────────────────────────────────────────────
+# P.Fay. 95 — Lease application — an oil-mill at Dionysias, rent paid in oil
+# Source: papyri.info DDbDP p.fay;;95  (Trismegistos 28616)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Fay. 95
+label:    P.Fay. 95
+name:     Lease application — an oil-mill at Dionysias, rent paid in oil
+genre:    contracts
+date:     2nd century CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10788
+content:  Apollonios applies to lease an oil-mill with axles, mortars, presses and kettle for four years, the rent payable in strained olive oil and radish oil
+tm:       28616
+source:   https://papyri.info/ddbdp/p.fay;;95
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   [Ἀ]χιλλῖ τῷ καὶ Σαραπάμ[μωνι διὰ Σαρα-]
+r.2   πίωνος φροντιστοῦ [⁦ -ca.?- ⁩]
+r.3   παρὰ Ἀπολλωνίου Ἀπολ[λωνίου τοῦ Σω-]
+r.4   τηρίχου ἀπὸ ἀμφόδου Χηνο-]
+r.5   βοσκίων. βούλομαι μ[ισθώσασθαι πα-]
+r.6   ρὰ <σοῦ> ἐφʼ ἔτη δ ἀπὸ τριακ[άδος τοῦ ἐνεστῶ(τος)]
+r.7   μηνὸς Μεσορὴ ἀπὸ τῶ[ν ὑπαρχόντων]
+r.8   σοι ἐν κώμῃ Διονυσιάδ ἐ-]
+r.9   πʼ ἀμφόδου Ἁρποχρατείω]
+r.10   ἐπεξηρτισμένον ἄξο̣[σι καὶ θυίαι δύο καὶ(?)]
+r.11   μηχαναὶ δύο καὶ χαλκίον κ̣[αὶ ⁦ -ca.?- ⁩] [ σὺν]
+r.12   τοῖς οὖσι ὑπερωσι τόπο[ις πᾶσι, τελέσω δὲ]
+r.13   κα[θ]ʼ ἔτος σύνπαντι λόγῳ [ἐλαίνου ὑλιστοῦ]
+r.14   μετρητὴν ἕνα χοεις ἕξ κ[αὶ ῥαφανίνου]
+r.15   ὁμ[ο]ίως μετρητὴν ἕνα [χοᾶς ἕξ , πα-]
+r.16   ρέχων καθʼ ἔτος Ἀμεσ[υσίοις] [ ἐλαίου]
+r.17   ῥ[α]φανίνου κοτυλαι ἓξ καὶ [⁦ -ca.?- ⁩]
+r.18   χω[ω]ν δώδεκα καὶ κ̣[⁦ -ca.?- ⁩]
+r.19   ἐλαίνου κοτυλαι ἓξ̣ [κ]αὶ δ̣[⁦ -ca.?- ⁩ χοᾶς]
+r.20   δώδεκα , τ[ὸ]ν δὲ πρ[ο]κίμε[νον φόρον ἀπο-]
+r.21   δώσω ἐν μηνὶ Φ[α]μενὼ[θ ⁦ -ca.?- ⁩ ἐ-]
+r.22   λαί νου ὑλιστοῦ μετρητὴ[ν ἕνα χοᾶς ἕξ , ἐν δὲ]
+r.23   μηνὶ Παῦνι ὁμοίως μετ[ρητὴν ἕνα ]
+r.24   χοι ς ἕξ , ἅπαντα μέτρῳ θ[⁦ -ca.?- ⁩]
+r.25   σὺν ἐ̣πιχύματι ἑκάστῳ̣ μ̣[ετρητῇ ἐλαί-]
+r.26   ου κ[ο]τυλῶν δύο λημψ[⁦ -ca.?- ⁩]
+
+[TRANSLATION]
+1   To [A]chillis also called Sarapam[mon, through Sara-]
+2   pion, manager […],
+3   from Apollonios son of Apol[lonios son of So-]
+4   terichos, of the quarter [of the Goose-]
+5   herds. I wish to l[ease from]
+6   <you>, for 4 years from the thirti[eth of the present]
+7   month Mesore, of [your property]
+8   in the village of Dionysias[ …, in]
+9   the quarter of Harpochrateio[n, the oil-mill(?)]
+10   fitted out with axl[es and two mortars and(?)]
+11   two presses and a kettle a[nd …, with]
+12   all the upper room[s] there; [and I will pay]
+13   each year, in sum total, one metretes [of strained]
+14   [olive oil,] six choes, a[nd of radish oil]
+15   like[w]ise one metretes, [six choes, fur-]
+16   nishing each year at the Ames[ysia festival] six kotylai
+17   [of] r[a]dish [oil] and […]
+18   twelve cho[e]s and …[…]
+19   six kotylai of olive oil [a]nd …[… choes]
+20   twelve; and I will pay the afore-
+21   said [rent] in the month Ph[a]menot[h …:] of
+22   strained [olive] oil one metrete[s, six choes, and in]
+23   the month Pauni likewise [one] met[retes,]
+24   six choes — everything by the measure …[…],
+25   with a surcharge for each m[etretes] of two kotylai
+26   of oil … receiv[ing(?) …]

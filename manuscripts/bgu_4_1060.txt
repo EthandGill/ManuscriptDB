@@ -1,0 +1,95 @@
+# ---------------------------------------------------------
+# BGU 4.1060 - Petition over an Encroached Field Boundary
+# Source: papyri.info DDbDP bgu;4;1060  (Trismegistos 18505)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1060
+label:    BGU 4.1060
+name:     Petition over an Encroached Field Boundary
+genre:    petitions
+date:     5. März 14 v.Chr.
+language: Greek (Koine)
+found:    Herakleopolite nome, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13101
+content:  A petition to the deputy-general complaining that a neighbor among the catoecic cavalry has by force seized a four-aroura plot and a quarter of the petitioners' allotment near Tilothis, demanding restoration of the land and recovery of the royal rents.
+tm:       18505
+source:   https://papyri.info/ddbdp/bgu;4;1060
+lat:      29.0772
+lon:      30.9342
+
+[GREEK]
+r.1   (hand 2) [ (ἔτους)] ιϛ Φ(αμεν)ὼ̣θ θ
+r.2   (hand 1) [Νεάρχωι ὑποστρατήγ]ω̣ι̣ καὶ ἀρχ[ ̣ ̣] ̣
+r.3   […] ἐπιτυχίας
+r.4   […] ̣ασιαι ̣ ̣ ̣
+r.5   […]εν τῶν
+r.6   [… βασ]ιλικὸν
+r.7   [… α]ὐ̣τῶ̣ν ἐκ
+r.8   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣ κατοίκ]ων ἱππέων ὁ
+r.9   […]α̣θως ἐν οὐδενὶ
+r.10   [λόγωι ποιούμενος τ]ὸ καλῶς ἔχ[ο]ν καὶ
+r.11   […]ους διὰ πλειόνων
+r.12   […] ̣να οἷς θάνατος
+r.13   […]μ̣ον ἔχων τὸν
+r.14   κλῆρο[ν γει]τνιῶντα ἐκ τοῦ πρὸς
+r.15   ἀπηλ[ιώτ]ην μέρους τοῦ τετρώρου
+r.16   ἐν τοῖς περὶ τὴν Τιλῶθιν(?) πεδίοις
+r.17   πρὸς β[ί]ας προσεί̣λ̣η̣μ̣ται τὸν δηλού-
+r.18   μενον τετρῶρον, ἀποβεβίασται
+r.19   δὲ καὶ ἀπὸ τοῦ ὑποδικνυμένου ἡμῶν
+r.20   κλήρου τέταρτον ἐπὶ τὰ εἴκοσι
+r.21   σχοινία ἔτι ἀπὸ τοῦ η (ἔτους) καὶ ἀπο-
+r.22   φέρεται τὰ κατʼ ἔτος γενήματα (πυροῦ ἀρτάβαι) ε,
+r.23   ἡμᾶς δὲ συμβαίνει τὰ καθήκοντα
+r.24   αὐτῶν διορθοῦσθαι, ὅθεν καταπεπο-
+r.25   νημένοι προήγμεθα πρὸς ἀπειλαίς .
+r.26   ἀξιοῦμεν ἐν μηδενὶ ἐλαττώμ̣α̣τ̣ι̣
+r.27   ἡμᾶς πρόνοιαν γενέσθαι, ὡς ἡ μὲν
+r.28   γηι ἡμῖν ἀποκατασταθήσεται, πραχθή-
+r.29   σεται δὲ τὰ τῶν χρόνων ἐτῶν β
+r.30   [ε]ἰ̣ς̣ τὸ βασιλικὸν ἐκφόρια προσδιαλη-
+r.31   φθέντ[ο]ς περὶ αὐτοῦ ἁρμοζόντως.
+r.32   εὐτύχει
+r.33   (hand 2) γρ(άψον) Θέωνι ἀρχεφ(όδῳ) τὸν
+r.34   ἀφωρικό(τα) τὸ ἔδαφος
+r.35   καταντῆ(σαι) (ἔτους) ιϛ Φ(αμεν)ὼθ θ
+
+[TRANSLATION]
+1   (hand 2) [In year] 16, Phamenoth 9
+2   (hand 1) [To Nearchos, deputy-general] and chief[...]
+3   [...] of success
+4   [...]asiai[...]
+5   [...]en of the
+6   [...the] royal
+7   [... of] them out of
+8   [...of the catoec]ic cavalry, the
+9   [...]athos in no
+10   [reckoning, holding] what is fair and
+11   [...]ous through many
+12   [...]na to whom death
+13   [...]mon, holding the
+14   allotment which neighbors on the side toward the
+15   east of the four-aroura plot
+16   in the fields around Tilothis(?),
+17   by force has taken in addition the said
+18   four-aroura plot, and he has driven (us) out
+19   also from the aforementioned allotment of ours,
+20   (a) quarter over the twenty
+21   schoinia, since the 8th year, and he carries
+22   off the yearly produce, (of wheat) 5 (artabas),
+23   while it falls to us to settle the dues
+24   upon them, wherefore, worn down,
+25   we have been driven to threats.
+26   We ask that in no detriment to
+27   us provision be made, so that the
+28   land may be restored to us, and there shall be exacted
+29   the rents of the times of the 2 years
+30   [in]to the royal treasury, the matter concerning it being further
+31   settled fittingly.
+32   Farewell.
+33   (hand 2) Write to Theon the chief-of-police that the man
+34   who has appropriated the ground
+35   appear. Year 16, Phamenoth 9

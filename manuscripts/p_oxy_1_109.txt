@@ -1,0 +1,81 @@
+# ---------------------------------------------------------
+# P.Oxy 1.109 - Inventory of clothing and household goods
+# Source: papyri.info DDbDP p.oxy;1;109  (Trismegistos 31342)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.109
+label:    P.Oxy 1.109
+name:     Inventory of clothing and household goods
+genre:    documents
+date:     late 3rd-4th century CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cambridge (MA), Harvard University Library SM 2214
+content:  A list of articles: tunics white and purple, mantles, Tarsian linens, girdles, cloaks, mattresses, pillows, bronze vessels, a Dalmatian tunic, women’s tunics, and 20 minai of silver
+tm:       31342
+source:   https://papyri.info/ddbdp/p.oxy;1;109
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   λόγ(ος) εἰδῶν.
+r.2   μονόμαλλος λευκὸς α.
+r.3   κολόβια λευκὰ β.
+r.4   ἰδιόχρωμα β.
+r.5   ὀστρῖνον κολόβιον α.
+r.6   μαφόρτια λευκὰ β.
+r.7   μαφόρτιον ἰδιόχρωμον α.
+r.8   λίνα Θαρσικὰ β.
+r.9   ἀναβολάδια β.
+r.10   πλατύσημα β.
+r.11   ζῶναι β.
+r.12   ἱμάτια β.
+r.13   χιτώνια β.
+r.14   τύλαι γ.
+r.15   προσκεφάλαια γ.
+r.16   στρώματα β.
+r.17   χιτὼν ο̣ὐλίριος
+r.18   καὶ μαφόρτης.
+r.19   χιτὼν λευκὸς α.
+r.20   στέγαστρον καινὸν α.
+r.21   ξέσται χαλκοῖ γ.
+r.22   βασκαύλης α.
+r.23   χαλκία β.
+r.24   δελματικὴ α.
+r.25   εἰς Ὀξυρυγχείτην·
+r.26   φασκία α.
+r.27   γυναικεῖα χιτώνια β.
+r.28   ἀργυρίου μναῖ κ.
+
+[TRANSLATION]
+1   Account of articles.
+2   1 white single-nap (cloak).
+3   2 white sleeveless tunics.
+4   2 natural-colored ones.
+5   1 purple sleeveless tunic.
+6   2 white mantles.
+7   1 natural-colored mantle.
+8   2 Tarsian linens.
+9   2 wraps.
+10   2 broad-striped (garments).
+11   2 girdles.
+12   2 cloaks.
+13   2 tunics.
+14   3 mattresses.
+15   3 pillows.
+16   2 coverlets.
+17   a woollen(?) tunic
+18   and a mantle.
+19   1 white tunic.
+20   1 new wrapper.
+21   3 bronze pints.
+22   1 cooler.
+23   2 bronze vessels.
+24   1 Dalmatian (tunic).
+25   Into the Oxyrhynchite:
+26   1 swathe.
+27   2 women's tunics.
+28   20 minai of silver.

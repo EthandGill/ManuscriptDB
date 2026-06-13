@@ -1,0 +1,41 @@
+# ---------------------------------------------------------
+# P.Oxy 3.515 - Granary-keepers’ note registering sitologoi accounts
+# Source: papyri.info DDbDP p.oxy;3;515  (Trismegistos 20646)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.515
+label:    P.Oxy 3.515
+name:     Granary-keepers’ note registering sitologoi accounts
+genre:    receipts
+date:     26 Mar 134 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Washington, Smithsonian, Library number unknown
+content:  The keepers of the public accounts notify the sitologoi of three districts that their per-man completion-records and monthly accounts of the 17th-year wheat have been registered; Theon the scribe signs
+tm:       20646
+source:   https://papyri.info/ddbdp/p.oxy;3;515
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Φιλίσκος καὶ Ἡρώδης βιβλ(ιοφύλακες) δημο(σίων) λόγων Χαιρή(μονι) καὶ Παπο(ντῶτι) σιτολ(όγοις)
+r.2   Μονίμ(ου) τόπ(ων) καὶ Ἡρακλ(είδῃ) σι(τολόγῳ) Σινγκ(εφᾶ) τόπ(ων) καὶ Διονυ(σίῳ) γενομ(ένῳ) Μ̣ε̣μ̣( ) τόπ(ων) χαίρειν.
+r.3   κατεχωρίσθη ἡμεῖν διὰ Ἀπολ(λωνίου) γρ(αμματέως) τῇ λ τοῦ Φαμενὼθ τοῦ ιη (ἔτους)
+r.4   Ἁδριανοῦ Καίσαρος τοῦ κυρίου ἑκάστης σιτολ(ογίας) κατʼ ἄνδρα συ̣ν̣π̣λ̣η̣(ρώσεως)
+r.5   (πυροῦ) γενήμ(ατος) ιζ (ἔτους), καὶ Χαιρήμ(ων) καὶ Παπο(ντῶς) Μονίμ(ου) τόπ(ων) καὶ Ἡρακλ(είδης)
+r.6   Σι̣νγκ( ) τόπ(ων) [τὸ] μηνιαῖον ἐπὶ κεφαλαίο(υ) τοῦ Μεχείρ, καὶ ὁ Χαιρή(μων)
+r.7   καὶ Παπο(ντῶς) μόνοι Μονίμ(ου) τόπ(ων) καὶ μηνιαῖο(ν) Φαμενὼθ καὶ μεταλ̣ό̣γιο(ν)
+r.8   κατʼ ἄνδρα ἰ̣σ̣δοχῆς . (hand 2) Θέων γρ(αμματεὺς) σεση(μείωμαι).
+
+[TRANSLATION]
+1   Philiskos and Herodes, keepers of the public accounts, to Chairemon and Papontos, sitologoi
+2   of the district of Monimos, and to Herakleides, sitologos of the district of Singkepha, and to Dionysios, former (sitologos) of the district of Mem(?), greeting.
+3   There was registered with us, through Apollonios the scribe, on the 30th of Phamenoth of the 18th year
+4   of Hadrian Caesar the lord, for each granary, by individual, the completion-record
+5   of wheat of the produce of the 17th year; and Chairemon and Papontos of the district of Monimos, and Herakleides
+6   of the district of Singk(epha): [the] monthly account, under the heading of Mecheir; and Chairemon
+7   and Papontos alone, of the district of Monimos, also the monthly account of Phamenoth and the supplementary record
+8   by individual, of receipts. I, Theon, scribe, have signed.

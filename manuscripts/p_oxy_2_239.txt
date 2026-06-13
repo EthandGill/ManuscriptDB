@@ -1,0 +1,55 @@
+# ---------------------------------------------------------
+# P.Oxy 2.239 - Sworn declaration of no tax-collection
+# Source: papyri.info DDbDP p.oxy;2;239  (Trismegistos 20508)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.239
+label:    P.Oxy 2.239
+name:     Sworn declaration of no tax-collection
+genre:    documents
+date:     19 Sept 66 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Philadelphia, University of Pennsylvania Museum E 2758
+content:  Epimachos of Psobthis swears by Nero that he has made no collection in his village on any account and will not be set over it henceforth, on pain of the oath
+tm:       20508
+source:   https://papyri.info/ddbdp/p.oxy;2;239
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   τῷ γράφοντι τὸν Ὀξυρυγχίτ[ην]
+r.2   Ἐπίμαχος Παυσίριος τ̣[οῦ Π]τολ̣ε̣[μα(ίου)]
+r.3   μητρὸς Ἡρακλείας τῆς Ἐπιμάχ[ου]
+r.4   τῶν ἀπὸ κώμης Ψώβθεως
+r.5   τῆς κάτω τοπαρχίας. ὀμνύω
+r.6   Νέρωνα Κλαύδιον Καίσαρα Σεβ[α(στὸν)]
+r.7   Γερμανικὸν Αὐτοκράτορα μη-
+r.8   δεμίαν λογείαν γεγονέναι
+r.9   ὑπʼ ἐμοῦ ἐν τῇ αὐτῇ κώμῃ
+r.10   εἰς μηδένα λόγον τῷ καθόλου,
+r.11   μηδὲ μὴν ἀπὸ τοῦ νῦν προστήσε[σ]θ̣(αι)
+r.12   κώμης, ἢ ἔνοχος εἴην τῷ ὅρκ(ῳ).
+r.13   (ἔτους) ιγ Νέρωνος Κλαυδίου Καίσαρος
+r.14   Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος,
+r.15   μη(νὸς) Σεβαστοῦ κβ.
+
+[TRANSLATION]
+1   To the registrar of the Oxyrhynchit[e nome],
+2   Epimachos son of Pausiris son [of P]tole[mai(os)],
+3   his mother being Herakleia daughter of Epimach[os],
+4   of the village of Psobthis
+5   of the lower toparchy. I swear
+6   by Nero Claudius Caesar Aug[ustus]
+7   Germanicus Imperator that no
+8   collection has been made
+9   by me in the same village
+10   on any account whatsoever,
+11   nor indeed that from now on I will be set over
+12   the village; or may I be liable to the oath.
+13   Year 13 of Nero Claudius Caesar
+14   Augustus Germanicus Imperator,
+15   month Sebastos 22.

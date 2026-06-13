@@ -1,0 +1,67 @@
+# ---------------------------------------------------------
+# BGU 3.898 - Account of land-tax in wheat (arouras and artabas)
+# Source: papyri.info DDbDP bgu;3;898  (Trismegistos 28107)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.898
+label:    BGU 3.898
+name:     Account of land-tax in wheat (arouras and artabas)
+genre:    receipts
+date:     II
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7401
+content:  A fragmentary fiscal account, by named landholders, of arouras of land and the wheat (in artabas, with fractions and additional levies such as podoma and ekphorion) assessed on them for a particular year.
+tm:       28107
+source:   https://papyri.info/ddbdp/bgu;3;898
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ἰ[ς] [ἔ]κλη(ψιν) κ̣α̣ (ἔτους) [(ἄρουραι)] η (πυροῦ) κ̣δ̣´
+r.2   α̣ (πυροῦ(?)) δ̣δ´ (ὀκτὼ καὶ δεκατόν) (ἀρούρης) 𐅵ιϛ´λβ´ (πυροῦ) ιε𐅷κδ´
+r.3   ποδ(ώματος(?)) (πυροῦ) κδ´ ἐπιστ( ) καὶ ὑπόκ(ειται) κ(α)ὶ α̣ ̣ ̣ς
+r.4   […] ἐπ( ) (πυροῦ) κγ´
+r.5   […] ̣ ̣κα ηπ( )
+r.6   […] κ̣δ̣´ ̣ _(?)_ φ̣αι̣ο( ) (ἀρούρης) 𐅵
+r.7   […] ̣ (πυροῦ) κδγ´κδ´
+r.8   Πτολ(εμαίου) τοῦ καὶ Ἰούστ(ου) εἰς Γάι(ον) Οὐαλ(έριον) Ἰοῦστ(ον)
+r.9   κ(ατ)οι(κικῆς) (ἄρουραι) ϛ𐅸 καὶ
+r.10   εἰς Θερ[μ(οῦθιν) Πα]κύσιο(ς) ἐξ ἐπισκ(έψεως)
+r.11   πρὸς τ(ὸ) ιϛ (ἔτος) ἐ̣ (ἀρούρης) ιϛ´ξδ´ (πυροῦ) 𐅵 ποδ(ώματος) ιβ´
+r.12   πατ( ) ηα( ) (ἀρούρης) η´λβ´ξδ´ (ἀρτάβης) 𐅵κδ´
+r.13   ποδ(ώματος) ιβ´
+r.14   ἐκφο(ρίου) ἐπ̣ι̣στ( ) α𐅵 εἰς Πωλ(ίονα) Ἀφροδ(ισίου)
+r.15   (γίνεται) (ἀρούρης) 𐅸κδ´
+r.16   (γίνονται) (ἀρτάβαι)
+r.17   Πεθέ(ως) Ἁτρείο(υς) ἰδιοκ(τήτου) (ἄρουρα(?)) α ἐπ( ) (ἀρούρης) ιϛ´
+r.18   καὶ εἰς Σάμβιον Διονυσίο(υ)
+r.19   ἀπὸ μέρους ἐπ( ) (πυροῦ) η´
+r.20   καὶ Ἁτ̣ρῆς Ἀπολ(λωνίου) (πυροῦ) πο(δώματος) τὸ (ἥμισυ)
+r.21   διʼ ἐμοῦ η̣ (πυροῦ) (δεκατόν)
+
+[TRANSLATION]
+1   For collection, year 21(?), [arouras] 8, (of wheat) 1/24
+2   1 (of wheat?) 4 1/4 (eighteen) (of an aroura) 1/2 1/16 1/32 (of wheat) 15 2/3 1/24
+3   of the podoma(?) (of wheat) 1/24, epist(...) and there is also charged and a...s
+4   [...] ep(...) (of wheat) 1/23
+5   [...] ...ka ep(...)
+6   [...] 1/24 ... phaio(...) (of an aroura) 1/2
+7   [...] (of wheat) 1/24 1/3 1/24
+8   (account) of Ptolemaios also called Ioustos, charged to Gaius Valerius Ioustos,
+9   of catoecic (land) arouras 6 3/4 and
+10   for Therm[outhis daughter of Pa]kysis, from the survey,
+11   for the 16th year, ... (of an aroura) 1/16 1/64, (of wheat) 1/2, of the podoma 1/12
+12   pat(...) ea(...) (of an aroura) 1/8 1/32 1/64, (of an artaba) 1/2 1/24
+13   of the podoma 1/12,
+14   of the rent epist(...) 1 1/2, for Polion son of Aphrodisios
+15   total (of an aroura) 3/4 1/24
+16   total (of) artabas
+17   of Petheus son of Hatres, private owner, 1 aroura(?), ep(...) (of an aroura) 1/16
+18   and for Sambion son of Dionysios
+19   in part, ep(...) (of wheat) 1/8
+20   and Hatres son of Apollonios, (of wheat) of the podoma, the half,
+21   through me 8(?), (of wheat) (a tenth)

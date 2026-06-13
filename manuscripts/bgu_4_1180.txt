@@ -1,0 +1,99 @@
+# ───────────────────────────────────────────────
+# BGU 4.1180 — Loan of 200 drachmas repaid in papyrus stalks — twenty thousand armfuls
+# Source: papyri.info DDbDP bgu;4;1180  (Trismegistos 23723)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1180
+label:    BGU 4.1180
+name:     Loan of 200 drachmas repaid in papyrus stalks — twenty thousand armfuls
+genre:    contracts
+date:     Mar–Apr 12 BCE
+language: Greek (Koiné)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Warsaw, Department of Papyrology P. Berlin 13062 Vo
+content:  A legionary lends 200 drachmas interest-free; in lieu of interest the lessees of a papyrus marsh deliver twenty thousand armfuls of stalks and a drachma a day
+tm:       23723
+source:   https://papyri.info/ddbdp/bgu;4;1180
+lat:      31.2
+lon:      29.9
+
+[GREEK]
+r.1   κολ( )
+r.2   Πρ[ωτ]ά̣ρ̣[χωι]
+r.3   παρὰ Μάρκου [ ̣ ̣ ̣⁦ -ca.?- ⁩] ̣ ̣τρίο(υ) Μάρκο(υ) υἱο(ῦ) Α̣ ̣ι̣ ̣ι̣α̣ σ̣τ̣ρ̣α̣τ̣ι̣ώ̣τ̣ο̣υ̣ [τῶν ἐκ τῆς κβ λεγε-]
+r.4   ῶνο̣(ς) σ̣π̣ε̣ί̣ρ̣[η(ς) τ]ρ[ί]τ̣ης κεντεριωνίας Ἀτιλ̣ίου [καὶ παρὰ Μαρίου τοῦ ̣ ̣ ̣ ̣ ̣ ̣]
+r.5   Πέρ(σου) τ̣ῆ̣(ς) ἐ̣πι̣γ̣ο̣(νῆς) [καὶ τῆς τού]τ̣ο̣υ̣ γυναικ(ὸς) Θαήσιος τῆς ̣ ̣ ̣ ̣ ̣[ μετὰ κυρίου τοῦ]
+r.6   ἀνδρὸ̣(ς) συνχωρ[οῦ(σιν)] Μ̣ά̣ρ̣ι̣ο̣(ς) καὶ Θαῆσις ἔχε(ιν) παρὰ τοῦ Μάρκ(ου) δ̣ι̣ὰ̣
+r.7   χ̣ε̣ι̣ρ̣ὸ̣ς̣ ἐ̣ξ ο̣ἴ̣κ̣(ου)
+r.8   ἀργυρίο(υ) Πτολ(εμαικοῦ) δρ[α]χ(μὰς) διακοσίας ἀτόκο̣υ̣ς ἐπάναγκες α[ὐ]τ̣ή̣ν̣ τε κ̣α̣ὶ̣ Μ̣ά̣ρ̣ι̣ο̣(ν)
+r.9   ὑπὲρ τ̣ό̣(κων) το(ῦ) ιη (ἔτους) Καίσαρος χορηγήσ(ειν) τῶι Μάρκωι ξύλων παπυρικῶν ἀνκάλας
+r.10   μὲν δισμυρίας ἑξάνκαλα δὲ φορτία τρισχίλια π̣εντα[κ]ό̣σ̣ια ἐξ οὗ ἔχ̣ο̣υ̣σ̣(ιν)
+r.11   ἐν μισθώσ(ει) ἕλους παπυρικοῦ παραδι ̣ ̣ ̣ ̣ ̣ ̣ ̣ ἐ̣ν̣ τ̣η̣- ca.19 -
+r.12   - ca.14 - ὅ̣σ̣ων ἐὰν λάβῃ παρʼ αὐτῶ(ν) καθʼ ἡμέρ(αν) ἑ̣κ̣ά̣σ̣τ̣η̣(ν) - ca.10 - α̣υ̣τ̣ο̣( )
+r.13   δ̣ω̣ς̣( ) καὶ ̣ ̣ ̣ ̣ ̣χρ ̣( ) π̣ρ̣ο̣σ̣τιμαα διαλογιζομε(ν- ) ἑκάστου ε̣κ̣α̣τ̣ε̣ρ̣ο̣ς̣ ε̣ν̣η̣ι̣-
+r.14   λασ ̣ ̣ ̣ ̣ε̣ξ ̣ ̣ ̣ ̣σ̣α̣ ̣ζευγε δὲ δέκα τρίτον ὁ δὲ Μάριο(ς) καὶ Θαῆσις τ̣ε̣λ̣έ̣-
+r.15   σουσι τῶι Μάρκωι εἰς τὰς τοῦ ἀργυ(ρίου) (δραχμὰς) διακοσίας ἀπὸ Παῦνι τοῦ ἐνε-
+r.16   σ̣τ̣ῶ̣τ̣ο̣ς̣ ι̣η̣ (ἔτους) Καίσαρος ἐπὶ το(ὺς) λοιπ(οὺς) μῆ(νας) ἓξ καθʼ ἑκάστη(ν ἡμέραν) ἀργυ(ρίου) (δραχμήν) μίαν ε ̣ε
+r.17   ̣ ̣ ̣ ̣ ̣μ̣ι̣ ̣ ̣ ̣ ̣ ̣ μηνὶ μηδεμίαν ἡμέραν κοιλὴν ποιη-
+r.18   σ̣ά̣μ̣ε̣ν̣ο̣ι̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ειν τῶι Μάρκωι τὰ ξύλα ε̣ἰ̣ς̣ τ̣ ̣( ) ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣( ) ἢ εἰς ὃ̣
+r.19   [ἐὰν αἱρῆται] ̣ ̣ ̣ ̣ ̣ ̣ ̣ο( ) ακ̣εφου τοῖς ἰδίο(ις) αὐτῶ(ν) δαπανήμασι ἀποδι-
+r.20   [δόντες] ̣ ̣ ̣ ̣ ̣ ̣ ̣ ἀρεστὰς καὶ φορτία εχε ̣ ̣ ̣η ὡ̣ς καθή(κει) κ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣
+r.21   ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ταῖς αὐταῖς ἐ̣ν̣ γ̣έ̣ν̣ε̣ι̣ ἀνε ̣( ) ̣ ̣ ̣ ̣ ̣ ̣
+r.22   ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ α̣ὐ̣τ̣ο̣ῖ̣ς̣ ἐ̣π̣ὶ̣ τὸν προκ(είμενον) χ̣ρ̣όν̣ον α̣ν̣α̣- ca.12 -
+r.23   - ca.11 - ξύλα μηδὲ διέλκειν τ̣ὴ̣ν̣ κ̣α̣θ̣ʼ ἡ̣μ̣έ̣ρ̣α̣(ν)
+r.24   τ̣ῆ̣ς̣ - ca.9 -ίας χορηγίαν ἢ καθʼ ὃ ἐὰν παραβαίνω(σιν) ε̣ἶ̣ν̣α̣ι̣
+r.25   αὐτο(ὺς) παραχ̣ρ̣ῆ(μα) ἀγωγίμο(υς) καὶ συνέχεσθαι μέχρι τοῦ ἐκτῖσαι τὰ̣ς
+r.26   μὲν τοῦ ἀργυ(ρίου) (δραχμὰς) σ ἢ ὃ ἐὰν ᾖ λοι(πὸν) σὺν ἡμιολ(ίᾳ) καὶ τ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ [βλά-]
+r.27   β̣η̣ καὶ δαπ(ανήματα) κ̣α̣ὶ̣ ἐ̣π̣ί̣τ̣ι̣μ̣ο̣(ν) (δραχμὰς) σ τῆς πράξεως γενομέ(νης) ἐ̣ξ ̣ ̣ ̣ ̣ ̣ ̣
+r.28   ὄ̣ν̣τ̣ω̣(ν) ἀλληλεγγύων εἰς ἔκτεισ(ιν) καὶ ἐξ ἑνὸ(ς) καὶ ἐξ οὗ ἐὰν αἱρῆ(ται) καὶ τ̣ῶ̣ν̣
+r.29   ὑπαρχ(όντων) αὐτοῖς πάντω(ν) καθάπ(ερ) ἐγ δίκ(ης) ἀκύρω(ν) οὐσῶν κ̣α̣ὶ̣ ὧ̣ν̣ ἐ̣ὰ̣ν̣ ἐ̣π̣ε̣-
+r.30   νένκωσιν πίστε(ων) πασῶ(ν) σκέπ(ης) πάση(ς) καὶ - ca.15 -
+r.31   ̣ ̣ ̣ α̣ὐ̣τ̣ο̣ῖ̣ς̣ ὧν ἐὰν λαμβάνῃ καθʼ ἡμέρ(αν) - ca.14 -
+r.32   τιμ̣ας καὶ μὴ διέλκειν μηδὲ ἐξεῖναι αὐτῶι [πρὸ τοῦ]
+r.33   προκ(ειμένου) χ̣ρόν(ου) ἐνκαταλιπεῖν τὸν τῶν ξύλων ̣ ̣ ̣ ̣ ̣[ ̣ ̣ ̣ ̣ ̣]
+r.34   πληρωθ̣έ̣ν̣τα δὲ ταῖς τοῦ ἀργυ(ρίου) (δραχμαῖς) σ̣ καθὼς πρό[κ(ειται) βεβαιώσειν]
+r.35   τή(ν)δε τὴ(ν) συνχωρη ἢ καὶ αὐτὸν ἐ̣κ̣τ̣ί̣σ̣ε̣ι̣ν̣ ὃ ἐὰν [ὀφιλήσῃ]
+r.36   πρὸς τὴν τ̣η̣μ̣η̣ σὺν ἡ(μιολίᾳ) καὶ τὸ ἴσον ἐπίτιμον. ἀξ(ιοῦμεν).
+r.37   (ἔτους) ιη̣ Καίσαρος Φαρμο(ῦθι).
+
+[TRANSLATION]
+1   Sheet.
+2   To Pr[ot]ar[chos]
+3   from Marcus […]…trius, son of Marcus, …, soldier [of the 22nd legi-]
+4   on, of the th[i]rd cohort, century of Atilius, [and from Marius son of …,]
+5   Per(sian) of the epigo(ne), [and] his wife Thaesis daughter of …, [with as guardian her]
+6   husband. Marius and Thaesis concede that they have from Marcus, from
+7   hand to hand out of the hou(se),
+8   two hundred drach(mas) of Ptol(emaic) silver, free of interest, on the binding condition that she and Marius,
+9   in lieu of int(erest) for the 18th (year) of Caesar, will furnish to Marcus of papyrus stalks twenty thousand
+10   armfuls, and of six-armful loads three thousand five hundred, from the
+11   papyrus marsh they hold on lease, deliver…(?) in the …
+12   […] of however much he receives from them each day […] …
+13   … and … the fines being reckoned for each … either of them …
+14   … and ten yoke(?) … a third; and Marius and Thaesis will pay
+15   to Marcus, toward the two hundred silver (drachmas), from Pauni of the pres-
+16   ent 18th (year) of Caesar, for the remaining six months, one silver (drachma) each (day) …
+17   …, making no day in the month an emp-
+18   ty one, … the stalks to Marcus to …, or to whatever (place)
+19   [he may choose] … at their own expense, deliver-
+20   [ing them] … acceptable, and loads … as is fit(ting) …
+21   … to the same … in kind …
+22   … to them for the aforesaid time …
+23   […] stalks, nor to drag out the daily
+24   furnishing of the …; or, in whatever they transgress, they are
+25   liable at once to seizure and to be held until they pay back the
+26   two hundred silver (drachmas), or whatever remains, with half again, and the [dam-]
+27   ages and exp(enses), and a fine of 200 (drachmas), the right of execution being from …,
+28   they being mutual sureties for payment, and from either one, whichever he choo(ses), and from
+29   all their belong(ings), as if by judg(ment); void being also whatever pleas
+30   they may bring forward, every shel(ter); and […]
+31   … to them of whatever he receives each day […]
+32   … and not to drag it out; nor may he [before the]
+33   aforesaid time abandon the … of the stalks […;]
+34   and when paid in full with the 200 silver (drachmas) as afore[said, he shall confirm]
+35   this agreement, or he too shall pay whatever [he may owe]
+36   toward the price, with ha(lf again), and the equal fine. We req(uest registration).
+37   Year 18 of Caesar, Pharmo(uthi).

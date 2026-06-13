@@ -1,0 +1,103 @@
+# ---------------------------------------------------------
+# P.Oxy 2.267 - Loan and Marriage Settlement of Tryphon and Saraeus
+# Source: papyri.info DDbDP p.oxy;2;267  (Trismegistos 20538)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.267
+label:    P.Oxy 2.267
+name:     Loan and Marriage Settlement of Tryphon and Saraeus
+genre:    receipts
+date:     22. Mai 37
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Baltimore, Johns Hopkins University P. Oxy. 267
+content:  Tryphon acknowledges a loan of 72 silver drachmas from Saraeus (including the value of gold earrings and a tunic), with provisions for their unwritten marriage and repayment, followed by subscriptions and a receipt for repayment.
+tm:       20538
+source:   https://papyri.info/ddbdp/p.oxy;2;267
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Τρύφων Διονυσίου Πέρσης τῆς ἐπ[ι]γονῆς Σαραεῦτι Ἀπίωνος
+r.2   μετὰ κυρίου Ὀννώφριος τοῦ Ἀντιπάτρου χαίρειν. ὁμολογῶι ἔχειν
+r.3   παρὰ σοῦ ἐπὶ τοῦ πρὸς Ὀξυρύγχων πόλει Σαραπιείου διὰ τῆς
+r.4   Σαραπίωνος τοῦ Κλεάνδρου τραπέζης ἀργυρίου Σεβαστοῦ
+r.5   καὶ Πτολεμαικοῦ νομίσματος δραχμὰς τεσσαράκοντα καὶ
+r.6   τιμῆς ἐνωτίων χρυσῶν ζεύγους ἑνὸς ἀργυρίου δραχμὰς
+r.7   εἴκοσι καὶ χιτῶνος γαλακτίνου ἀργυρίου δραχμὰς δέκα δύο ,
+r.8   ὥστʼ εἶναι ἐπὶ τὸ αὐτὸ ἀργυρίου δραχμὰς ἑβδομήκοντα δύο
+r.9   κεφαλαίου αἷς οὐδὲν τῶι καθόλου προσῆκται, ὑπὲρ ὧν καὶ
+r.10   συνπέπεισμαι. τὰς δὲ τοῦ ἀργυρίου δραχμὰς ἑβδομήκον-
+r.11   τα δύο ἀποδώσω σοι τῇ τριακάδι τοῦ Φαῶφι τοῦ ἰσιόντος
+r.12   δευτέρου ἔτους Γαίου Καίσαρος Γερμανικοῦ Νέου Σεβαστοῦ
+r.13   Αὐτοκράτορος, χωρὶς πάσης ὑπερθέσεως. ἐὰν δὲ μὴ ἀποδῶι
+r.14   καθὰ γέγραπται ἐκτείσω σοι τὸ προκείμενον κεφάλαιον
+r.15   μεθʼ ἡμιολίας, τῆ[ς] πράξεώς σοι οὔσης ἔκ τε ἐμοῦ καὶ ἐκ τῶν
+r.16   ὑπαρχόντων μοι πάντων καθάπερ ἐγ δίκης. ἐὰν δὲ
+r.17   ἀπαλλαγῶμεν ἀπʼ ἀλλήλων ἐξέστα̣ι̣ σοι ἔχειν τὸ τῶν ἐνω-
+r.18   τίων ζεῦγος ἐν τῆι ἴσῃ διατιμ[ή]σει. ἐπεὶ δὲ σύνεσμεν
+r.19   ἀλλήλοις ἀγράφω[ς] προσομολογῶι ἐὰν ὡσαύτως ἐκ διαφορᾶς
+r.20   ἀπ[αλλαγ]ῶμεν ἀπʼ ἀλλήλ[ων] ἐνκύου σ[ο]ῦ οὔση[ς] δ̣ώσειν σοι
+r.21   [εἰς λόγον δ]απάν̣[ης λ]ο̣χ̣[είας] […]
+r.22   [κυρία ἡ ἀπο]χηι [πανταχῇ ἐπιφερομένη καὶ] παντὶ̣ [τῷ ἐπιφέροντι].
+r.23   [ἔτους α Γαίου Κα]ίσαρος Γερμ[ανικοῦ Νέο]υ Σεβαστο[ῦ Αὐτοκρ]άτορος,
+r.24   Παχὼν κζ Σεβαστῆι.
+r.25   (hand 2) [Τρύφω]ν Διονυσίου ἔχ̣ω̣ τὰς το[ῦ] ἀργυρίου δ[ραχ]μὰς ἑβδομήκοντα δύο
+r.26   [κεφαλαίο]υ καὶ ἀποδώσω καθότι πρόκειται. Λέων Ἀ[π]ερῶτος γέγραφα ὑπὲρ αὐτοῦ διὰ
+r.27   μὴ εἰναι αὐτὸν γράμματ[α]. (ἔτους) α Γαί[ο]υ Καίσαρος Γερμαν[ι]κοῦ Νέου Σεβαστοῦ Αὐτοκράτορος,
+r.28   Παχὼν κ[ζ] Σεβαστῆι.
+r.29   (hand 3) Ὀννῶφρις Ἀντιπάτρου ἐπιγέγραμμαι τῆς Σεραηῦτος κύριος. Θέων
+r.30   Παάπιος γέγραφα ὑπὲρ αὐτοῦ μὴ ἰδότος γράμματα. (ἔτους) α Γαίου Καίσαρος
+r.31   Γερμανικοῦ Νέου Σεβαστοῦ Αὐτοκράτορος, Παχὼν κζ Σεβαστῇ.
+r.32   (hand 4) ἔτους πρώτου Γαίου Καίσαρος Γερμανικοῦ Νέου Σεβαστοῦ Αὐτοκράτορος
+r.33   Παχὼν Σεβαστῆι. διὰ τῆς Σαραπίωνος τ[ο]ῦ Κλεάνδρου τραπέζης
+r.34   γέγονεν ἡ διαγραφηι . (hand 5) Σεραηεὺς Ἀπιων ἀπέχω τὸ
+r.35   προκίμενον κεφάλεον κεφαλέου καὶ οὐδε
+r.36   σε ἐνκαλῶ . Δίδυμος Βοηθοῦ ἔγραψεν ὑπὲρ ἀδευς
+r.37   μευ εἰδ γρατα καὶ ἐπιγρε αὐτῆς α[ ̣ ̣ ̣]
+r.38   (ἔτους) γ Τεβρίου Γλαυτίου Καίσαρος Σεβαστ[ο]ῦ
+r.39   Γερμανικοῦ Αὐτουκρακράτορος , Παοῖνι ιε̣.
+
+[TRANSLATION]
+1   Tryphon son of Dionysios, a Persian of the epigone, to Saraeus daughter of Apion,
+2   with her guardian Onnophris son of Antipatros, greeting. I acknowledge that I have received
+3   from you at the Sarapeion by the city of Oxyrhynchus, through the
+4   bank of Sarapion son of Kleandros, in Imperial silver
+5   and Ptolemaic coin, forty drachmas, and
+6   as the value of one pair of gold earrings twenty silver drachmas,
+7   and of a milk-white tunic twelve silver drachmas,
+8   so that the total is seventy-two silver drachmas
+9   of capital, to which nothing at all has been added, concerning which also
+10   I have been persuaded. And the seventy-
+11   two silver drachmas I will repay to you on the thirtieth of Phaophi of the coming
+12   second year of Gaius Caesar Germanicus the New Augustus
+13   Imperator, without any delay. And if I do not repay
+14   as has been written, I will forfeit to you the aforesaid capital
+15   with the half as much again, the right of execution belonging to you both against me and against
+16   all my property, just as by a legal judgment. And if
+17   we be separated from one another, it shall be permitted to you to keep the pair of ear-
+18   rings at the equal valuation. And since we live together
+19   with one another without written contract, I further agree that if likewise from a disagreement
+20   we be separated from one another, you being pregnant, I will give to you
+21   [on account of the ex]pense of [childbirth] [ ... ]
+22   [Valid is the recei]pt, [wherever produced and] to anyone [who produces it].
+23   [Year 1 of Gaius Ca]esar Germ[anicus the Ne]w Augustu[s Impera]tor,
+24   Pachon 27, the Augustan (day).
+25   (hand 2) [Tryph]on son of Dionysios: I have the seventy-two silver d[rach]mas
+26   [of capita]l and I will repay as is set forth. Leon son of A[p]eros, I have written on his behalf because
+27   he does not know letters. Year 1 of Gai[u]s Caesar German[i]cus the New Augustus Imperator,
+28   Pachon 2[7], the Augustan (day).
+29   (hand 3) Onnophris son of Antipatros: I have been registered as guardian of Seraeus. Theon
+30   son of Paapis, I have written on his behalf as he does not know letters. Year 1 of Gaius Caesar
+31   Germanicus the New Augustus Imperator, Pachon 27, the Augustan (day).
+32   (hand 4) Year one of Gaius Caesar Germanicus the New Augustus Imperator,
+33   Pachon, the Augustan (day). Through the bank of Sarapion son of Kleandros
+34   the payment has been made. (hand 5) Seraeus daughter of Apion: I have received the
+35   aforesaid capital of the capital and
+36   I make no claim against you. Didymos son of Boethos wrote on behalf of
+37   me, not knowing letters, and as her guardian a[ . . . ]
+38   Year 3 of Tiberius Claudius Caesar Augustus
+39   Germanicus Imperator, Pauni 15.

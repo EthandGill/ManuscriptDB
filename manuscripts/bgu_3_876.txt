@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# BGU 3.876 — Penthemeros receipt — dyke-work in the Epagathian canal
+# Source: papyri.info DDbDP bgu;3;876  (Trismegistos 9390)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.876
+label:    BGU 3.876
+name:     Penthemeros receipt — dyke-work in the Epagathian canal
+genre:    receipts
+date:     17 June 152 CE
+language: Greek (Koiné)
+found:    Soknopaiou Nesos (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7334
+content:  Stotoetis son of Apynchis has worked his five-day embankment corvée in the Epagathian canal of Soknopaiou Nesos; signed by Antonis Zerion
+tm:       9390
+source:   https://papyri.info/ddbdp/bgu;3;876
+lat:      29.5377
+lon:      30.6856
+
+[GREEK]
+r.1   ἔτους ιε Αὐτοκράτ(ορος) Κ[α]ί[σ]α[ρ]ος
+r.2   Τίτου Αἰλίου Ἁδριανοῦ Ἀντωνίνου
+r.3   Σεβαστο(ῦ) Εὐσεβοῦς. [εἴ]ργ(ασται) ὑπ(ὲρ)
+r.4   χω(ματικῶν) ἔργω(ν) το(ῦ) α(ὐτοῦ) ιε (ἔτους) ἀπὸ Παῦνι
+r.5   ιθκγ ἐν τῇ Ἐπαγαθ(ιανῇ) διώ(ρυγι)
+r.6   Σοκνοπ(αίου Νήσου) Στοτοῆ(τις) Ἀπύγχε(ως)
+r.7   τοῦ Στ(ο)τ(ο)ή(τιος) (μητρὸς) Τεκιάσιο(ς).
+r.8   (hand 2) Ἀντώνις Ζηρίων
+r.9   σεσημείωμαι.
+
+[TRANSLATION]
+1   Year 15 of Imperat(or) C[a]e[s]a[r]
+2   Titus Aelius Hadrianus Antoninus
+3   Augustu(s) Pius. [Ha]s worked for the
+4   embankment-works of the s(ame) 15th (year), from Pauni
+5   19 to 23, in the Epagath(ian) canal
+6   of Soknop(aiou Nesos): Stotoe(tis) son of Apynchis
+7   son of St(o)t(o)e(tis), (mother) Tekiasis.
+8   (2nd hand) I, Antonis Zerion,
+9   have signed.

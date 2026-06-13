@@ -1,0 +1,49 @@
+# ---------------------------------------------------------
+# P.Oxy 1.107 - Acknowledgment of receiving back a will for annulment
+# Source: papyri.info DDbDP p.oxy;1;107  (Trismegistos 20766)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.107
+label:    P.Oxy 1.107
+name:     Acknowledgment of receiving back a will for annulment
+genre:    documents
+date:     27 Feb 123 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10006
+content:  A man notifies Horion, clerk of the Oxyrhynchus record-office, that he has received back from him, for cancellation, the sealed will he had earlier deposited there
+tm:       20766
+source:   https://papyri.info/ddbdp/p.oxy;1;107
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   [ ̣ ̣ ̣] ̣ ̣ ̣ ̣[ ̣ ̣ ̣ ̣]αρος Διονυσίου [Σαρ]α̣[πί-]
+r.2   ωνος ἀπʼ Ὀξυρύγχων π[ό]λεως Ὡ̣ρ̣ίωνι
+r.3   γραμματεῖ ἀγορανομείου τῆς αὐτῆς
+r.4   πόλεως, χαίρειν. ἀνέλαβον παρὰ σοῦ
+r.5   εἰς ἀκύρωσιν ἣν ἐθέμην διὰ τοῦ
+r.6   αὐτοῦ ἀγορανομείου ἐπὶ σφραγεί-
+r.7   δων διαθήκην τοῦ ἑκκαιδεκάτου
+r.8   ἔτους θεοῦ Τραιανοῦ μ̣[η(νὶ)] Καισαρείῳ ἐπα-
+r.9   γομένων πέμπτῃ, τοῦτο ἐμοῦ ἀξιώσαν-
+r.10   τος. ἔτους ἑβδόμου Αὐτοκράτορος
+r.11   Καίσαρος Τραιανοῦ Ἁδριανοῦ Σεβαστοῦ,
+r.12   Φαμενὼθ τρίτῃ.
+
+[TRANSLATION]
+1   [...]...[...]...aros, son of Dionysios son of [Sar]a[pi-]
+2   on, from the city of Oxyrhynchus, to Horion,
+3   clerk of the record-office (agoranomeion) of the same
+4   city, greeting. I have received back from you,
+5   for annulment, the will which I deposited through the
+6   same record-office under seal,
+7   (the will) of the sixteenth
+8   year of the deified Trajan, in the month Kaisareios, on the
+9   fifth of the intercalary days - this at my own re-
+10   quest. In the seventh year of Imperator
+11   Caesar Trajan Hadrian Augustus,
+12   Phamenoth the third.

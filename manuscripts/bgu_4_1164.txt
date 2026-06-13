@@ -1,0 +1,71 @@
+# ---------------------------------------------------------
+# BGU 4.1164 - Acknowledgment of Repayment of a Loan (Alexandria)
+# Source: papyri.info DDbDP bgu;4;1164  (Trismegistos 18614)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1164
+label:    BGU 4.1164
+name:     Acknowledgment of Repayment of a Loan (Alexandria)
+genre:    contracts
+date:     27. März 13 v.Chr. (Jahr unsicher)
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13071
+content:  An Alexandrian agreement (27 March 13 BCE, year uncertain) before Protarchos in which Nikanor acknowledges receiving from Eros repayment of a loan of one hundred drachmas plus interest, cancels the loan-contract, and undertakes not to proceed against Eros, Tyche, or the estate of the deceased Chrysogonos.
+tm:       18614
+source:   https://papyri.info/ddbdp/bgu;4;1164
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   κόλ(λημα)
+r.2   Πρωτάρχωι
+r.3   παρὰ Νικάνορο(ς) τοῦ Ἰσιδώρου Φιλομητορείου καὶ παρὰ
+r.4   Ἔρωτος τοῦ Πτολεμαίου. περὶ τῶν διεστ[α]μένων
+r.5   συνχωρεῖ ὁ Νικάνωρ ἀπέχειν παρὰ τοῦ Ἔρωτος διὰ χει-
+r.6   ρὸς ἐξ οἴκου ἐ̣π̣ὶ̣ π̣ε̣ρ̣ι̣λ̣ύ̣σει καὶ τῆς γυναικὸς αὐτοῦ ̣ ̣ ̣ ̣
+r.7   Τύχης τῆς Διονυσίου καὶ ἔτι Χρυσογόνου τ̣ο̣ῦ̣ Ἰσιδώρο(υ) ὅσπερ μετήλλαχεν, ἃς
+r.8   ἐδάνεισεν
+r.9   αὐτοῖς κ[ατὰ συγχ(ώρησιν)] δ̣ι̣ὰ̣ τ̣ο̣ῦ̣ α̣ὐ̣τ̣ο̣ῦ̣ κριτηρίου τῶι τεσσαρεσ-
+r.10   καιδεκ[άτῳ (ἔτει) Καίσαρος] Ἐ̣π̣ε̣ὶ̣φ̣ ἀρ̣γυ̣ρί̣ο̣υ̣ δ̣ρ̣α̣χ̣μὰς̣
+r.11   ἑκατὸν ̣ ̣ ̣ ̣ ̣ ̣ κ̣α̣ὶ̣ τ̣ό̣κ̣ο̣υ̣ς̣, καὶ εἶναι ἄκυρον
+r.12   τὴν το̣ῦ̣ δ̣α̣ν̣ε̣ί̣ο̣υ̣ συνχώρ(ησιν) καὶ μὴ ἐπ̣ε̣λ̣θ̣ε̣ῖ̣ν̣ τὸν
+r.13   Νικάνορα μηδʼ ἄλλον ὑπὲρ α̣ὐ̣τ̣ο̣ῦ̣ ἐ̣π̣ὶ̣ τ̣ὸ̣ν̣ Ἔ̣ρ̣ω̣τ̣(α)
+r.14   δ̣ι̣ὰ̣ τὴν Τύχην μήτε περὶ τῶν [α]ὐτῶν μήτε περὶ
+r.15   ἄλλου μηδενὸς ἁπλῶς ὀφιλήματος ἢ̣ ἀ̣π̣α̣ι̣τ̣(ήματος)
+r.16   ἐγγράπτου ἢ ἀγράφου ἀπὸ τῶν ἐπάνω χρόνων μέχρι τ(ῆς)
+r.17   ἐνεστώσης ἡμέρας, μὴ ἐ̣π̣ε̣λ̣ε̣ύ̣σ̣ε̣σ̣θ̣α̣ι̣ δ̣ὲ̣ τ̣ὸ̣ν̣
+r.18   Νικάνορα μηδὲ ἐπὶ τὰ ὑπὸ τοῦ Χρυσογόνου
+r.19   ἀπολελειμμένα περὶ ̣ ̣ ̣ν τ̣ο̣ῦ̣ δ̣α̣ν̣είου
+r.20   τ̣ο̣ῦ̣ α̣ὐ̣τ̣ο̣ῦ̣ καὶ τῶν τόκων, καὶ χωρὶς τοῦ κύρια εἶ-
+r.21   ναι τὰ συνκεχωρη(μένα) ἔτι καὶ ἐ(νεχέ)σθαι αὐτὸν παραβ(αίνοντα)
+r.22   ταῦτα τοῖς τε βλάβεσι καὶ τῶι ὡρισμ(ένῳ) προστίμωι.
+r.23   (ἔτους) ιζ̣ Καίσαρος Φαρμο(ῦθι) α.
+
+[TRANSLATION]
+1   ko(llema) (document-sheet)
+2   To Protarchos,
+3   from Nikanor(os) son of Isidoros, of the Philometoreios (deme), and from
+4   Eros son of Ptolemaios. Concerning the matters in dispute,
+5   Nikanor agrees that he has received back from Eros from hand
+6   to hand, out of the house, upon release, also of his wife ....
+7   Tyche daughter of Dionysios, and further of Chrysogonos son of Isidoros, who is deceased — which (sums)
+8   he had lent
+9   to them ac[cording to an agreement] through the same court, in the four-
+10   teenth [(year) of Caesar,] in Epeiph, of silver, drachmas
+11   one hundred ...... and the interest, and that the
+12   agree(ment) of the loan is void, and that Nikanor shall not proceed,
+13   nor anyone else on his behalf, against Eros
+14   through (the matter of) Tyche, neither concerning the [s]ame matters nor concerning
+15   any other thing whatsoever, of any debt or claim,
+16   written or unwritten, from the times above until the
+17   present day; and that Nikanor shall not proceed
+18   even against the property left behind by Chrysogonos
+19   concerning ...n of the loan,
+20   the same, and its interest; and, apart from the things agreed being
+21   valid, further that he, if he transgresses
+22   these terms, shall be liable both for the damages and for the fixed penalty.
+23   (Year) 17 of Caesar, Pharmo(uthi) 1.

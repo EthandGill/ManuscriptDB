@@ -1,0 +1,39 @@
+# ---------------------------------------------------------
+# BGU 3.803 - Gate-toll receipt - three donkey-loads of wheat
+# Source: papyri.info DDbDP bgu;3;803  (Trismegistos 9358)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.803
+label:    BGU 3.803
+name:     Gate-toll receipt - three donkey-loads of wheat
+genre:    receipts
+date:     165-166 CE
+language: Greek (Koine)
+found:    Soknopaiou Nesos (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7879
+content:  Toll paid at the gate of Soknopaiou Nesos (1/100 and 1/50 taxes): Pabous exporting three donkeys laden with nine artabas of wheat
+tm:       9358
+source:   https://papyri.info/ddbdp/bgu;3;803
+lat:      29.5377
+lon:      30.6856
+
+[GREEK]
+r.1   τετελ(ώνηται) διὰ πύλ(ης) Σοκνο(παίου)
+r.2   Νήσου (ἑκατοστῆς(?)) καὶ (πεντηκοστῆς(?))
+r.3   Παβοῦς ἐξάγ(ων) ὄνους
+r.4   τρε[ῖς] πυ[ο(ῦ) (ἀρτάβας)] ἐννέα
+r.5   (ἔτους) ι̣ [ ̣ ̣] ̣ ̣ ̣ιν ̣ ̣ ̣ ̣
+r.6   ,mmΣοκνοπαις
+r.7   (ἔτους) ϛ Ἀ[ντωνίνου καὶ Οὐήρου τῶν κυρίων]
+
+[TRANSLATION]
+1   Toll paid through the gate of Sokno(paiou)
+2   Nesos, (the) 1/100 and 1/50 (tax):
+3   Pabous, exporting donkeys
+4   thre[e], nine [art.] of wheat.
+5   Year 1(0?) ...
+6   Soknopais(?)
+7   Year 6 of A[ntoninus and Verus the lords.]

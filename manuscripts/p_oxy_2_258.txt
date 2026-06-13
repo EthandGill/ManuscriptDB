@@ -1,0 +1,77 @@
+# ---------------------------------------------------------
+# P.Oxy 2.258 - Application for the Epikrisis of a Son (Oxyrhynchos)
+# Source: papyri.info DDbDP p.oxy;2;258  (Trismegistos 20528)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.258
+label:    P.Oxy 2.258
+name:     Application for the Epikrisis of a Son (Oxyrhynchos)
+genre:    documents
+date:     86 - 87 (?)
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Brussels, Musées Royaux E 5945
+content:  A Flavian-period petition (86-87 CE?) for the scrutiny (epikrisis) of a son who has reached his thirteenth year, asserting that he is descended on both sides from twelve-drachma metropolites, with an oath by the emperor Domitian.
+tm:       20528
+source:   https://papyri.info/ddbdp/p.oxy;2;258
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   ̣ ̣ ̣ν̣ων τ̣ὴν ε ̣ ̣ ̣ ̣[…]
+r.2   Διδύμου τῶν ἀπʼ Ὀξυρύγχ[ων πόλεως]
+r.3   ἐπʼ ἀμβόδου Πυμενικῆς . κα̣τὰ τ̣ὰ̣
+r.4   κριθέντα ἐπὶ τῶν προσβεβηκότων
+r.5   ἰς τρισκαιδεκαετεῖς εἰ ἐξ ἀμφοτέ-
+r.6   ρων γονέων μη[τ]ροπολειτῶν δω-
+r.7   δεκαδράχμων ε̣[ἰσ]ὶ̣ν ἐτάγη ἐπὶ
+r.8   τοῦ αὐτοῦ ἀμφόδου ὁ υ[ἱός μ]ο̣υ̣ ̣ ̣ ̣ ̣
+r.9   ος μητρὸς Θ̣ε̣ψ̣εῖτος τῆς [Δι]δύμου
+r.10   προσβεβηκὼ̣ς ἰς τρισκαιδεκα[ετεῖ]ς
+r.11   τῷ ἐνεστῶτι ̣ (ἔτει) Αὐτοκράτ[ορος]
+r.12   Καίσαρος Δομιτιανοῦ Σεβαστοῦ
+r.13   Γερμανικοῦ. ὅθεν πα[ρ]α[γενόμε-]
+r.14   νος ἰς τὴν τούτου ἐπ[ίκρισιν <δηλῶ> εἶ-]
+r.15   ναι ἐμὲ κατὰ τ ̣ ̣ ̣ ̣[ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.16   κα̣ὶ τὸν τῆ[ς μη]τ̣[ρὸς αὐτοῦ πατέ-]
+r.17   ρα Δίδυμον̣ ̣[ ̣ ̣ ̣] ̣[…]
+r.18   ἀναγραφόμενον ἐ̣ν ὁ̣
+r.19   ἐπʼ ἀμβόδου [ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ὃς καὶ τε-]
+r.20   τελεύτηκε τ[ῷ ̣ ̣ ̣ ̣ ̣ ̣ ἔτει Νέρω-]
+r.21   νος, καὶ ὀμνύ[ω Αὐτοκράτορα Καίσαρα]
+r.22   Δομιτιανὸν Σε[βαστὸν Γερμανικὸν]
+r.23   ἀληθῆ εἶναι [τὰ προγεγραμμένα].
+r.24   ἔτους ἕκ̣[τ]ο̣υ̣ [Αὐτοκράτορος Καίσαρος]
+r.25   Δομιτι[ανοῦ Σεβαστοῦ Γερμανικοῦ ̣ ̣ ̣ ̣]
+r.26   (hand 2) Μ ̣ν̣ ̣ ̣ ̣ ̣ρ̣[ ἐπιδέδωκα].
+
+[TRANSLATION]
+1   ...non the e... [...]
+2   of Didymos, of those from Oxyrhynch[os city,]
+3   in the quarter of Pymenike. According to the
+4   decisions concerning those who have advanced
+5   to thirteen years of age, whether they are of bo[th]
+6   parents being metropolites of the twelve-
+7   drachma class — they have been registered. In
+8   the same quarter my s[on] ... ... was enrolled,
+9   ...os, his mother being Thepseis daughter of [Di]dymos,
+10   having advanced to thirteen [years]
+11   in the current . (year) of the Imperator (Emperor)
+12   Caesar Domitian Augustus
+13   Germanicus. Wherefore, having pre[sented my-]
+14   self for his ep[ikrisis, <I declare> that]
+15   I am, according to ... [.......]
+16   and (also) the fa[ther of his mo]th[er,]
+17   Didymos .[...] .[...]
+18   registered in (the quarter) ...
+19   in the quarter [........, who also has]
+20   died in t[he ...... year of Nero,]
+21   and I swe[ar by the Imperator (Emperor) Caesar]
+22   Domitian Au[gustus Germanicus]
+23   that [the foregoing statements] are true.
+24   In the six[t]h year [of the Imperator (Emperor) Caesar]
+25   Domit[ian Augustus Germanicus ....]
+26   (hand 2) M.n....r[ I have submitted (this)].

@@ -1,0 +1,53 @@
+# ---------------------------------------------------------
+# BGU 4.1174 - Acknowledgment of loan repayment and quittance
+# Source: papyri.info DDbDP bgu;4;1174  (Trismegistos 18631)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1174
+label:    BGU 4.1174
+name:     Acknowledgment of loan repayment and quittance
+genre:    contracts
+date:     5 BCE
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13103 Ro \[2\
+content:  Lucius Maccius Meleager acknowledges that Herodes has repaid the 500 Ptolemaic drachmas (with interest) that Lucius and his wife Hermione had lent him; the loan-deed is cancelled and no further claim may be made
+tm:       18631
+source:   https://papyri.info/ddbdp/bgu;4;1174
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   Πρωτάρχ(ωι)
+r.2   παρὰ Λουκίου Μακκίου Μελεάγρο(υ) καὶ π(αρὰ) Ἡρώδου τοῦ Ἀ̣π̣ο̣λ̣λ̣ω̣-
+r.3   νίου Ἀλθαιέ(ως). συνχωρεῖ ὁ Λούκιο(ς) ἀπεσχηκ(έναι) παρὰ το(ῦ) Ἡρώδου
+r.4   διὰ χειρὸς ἐξ οἴκ(ου) ἐπὶ π̣ε̣ρ[ι]λ̣ύ̣σ̣ε̣ι̣ καὶ τῆ(ς) γυναικ(ὸς) αὐ(τοῦ) Ἑρμιόνης
+r.5   τῆ(ς) Διονυσίου ἃς ἐδάνε̣ι̣σ̣(εν) <αὐτῷ> κ(ατὰ συν)χώρη(σιν) δ̣ι̣[ὰ τοῦ αὐ(τοῦ) κρι]τ̣η̣ρίου
+r.6   τῶι
+r.7   κα̣ (ἔτει) Καίσαρος ̣ ̣ ̣ ̣ο( ) ἀργ(υρίου) Π̣τ̣ο̣λ̣(εμαικοῦ) δραχ(μὰς) πεντακοσίας
+r.8   καὶ τοὺς τούτω(ν) τόκ(ους) εἶναι μὲν ἄκυρ[ον τὴν τοῦ] δανείου σ̣(υγ)χ̣(ώρ)η̣(σιν),
+r.9   μὴ ἐπελ(εύσε)σθαι δὲ τὸν Λούκ(ιον) μηδʼ ἄ̣(λλον) ὑπὲρ αὐ(τοῦ) ἐπὶ τὸ(ν) Ἡρώδ[ην]
+r.10   μήτε περὶ τοῦ δαν(είου) καὶ τῶν τόκ(ων) μηδ̣ὲ̣ [περὶ ἄλλου μηδε-]
+r.11   νὸς ἁπλῶς ἐνγράπ(του) ἢ ἀγράφ(ου) τῶν ἕω[ς τῆς ἐνε(στώσης) ἡμέρ(ας)]
+r.12   ἢ̣ ἐ̣ν̣έχεσθαι τῷ [ὡρισ]μέ(νωι) προ(στίμωι) χωρὶς τοῦ [κύρια εἶναι]
+r.13   τ[ὰ συν]κεχωρη(μένα). ἀξιο(ῦμεν).
+r.14   (ἔτους) κϛ̣ [Κ]αίσαρος Ἁ[θὺρ η]
+
+[TRANSLATION]
+1   To Protarchos.
+2   From Lucius Maccius Meleager, and from Herodes son of Apollo-
+3   nios, of the Althaieus deme. Lucius agrees that he has received from Herodes,
+4   by hand from his house, in full discharge - also on behalf of his wife Hermione
+5   daughter of Dionysios - those (drachmas) which he had lent <to him> by agreement registered [through the same] court
+6   in the
+7   21st year of Caesar, ..., namely five hundred Ptolemaic silver drachmas,
+8   together with their interest; and that the loan-agreement is to be void,
+9   and that neither Lucius nor anyone on his behalf shall proceed against Herodes,
+10   neither concerning the loan and the interest nor [concerning anything else]
+11   at all, written or unwritten, of matters up [to the present day],
+12   or he shall be liable to the [fixed] penalty, apart from [the validity of]
+13   the things [agr]eed. We request (registration).
+14   Year 26 of [C]aesar, Ha[thyr 8].

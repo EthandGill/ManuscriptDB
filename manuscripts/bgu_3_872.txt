@@ -1,0 +1,35 @@
+# ---------------------------------------------------------
+# BGU 3.872 - Fragment of a land-cession contract
+# Source: papyri.info DDbDP bgu;3;872  (Trismegistos 33244)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.872
+label:    BGU 3.872
+name:     Fragment of a land-cession contract
+genre:    contracts
+date:     late 6th-early 7th c. CE
+language: Greek (Koine)
+found:    Arsinoite nome (provenance uncertain), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 5881
+content:  A fragment dealing with a half-aroura, the share falling to the addressee of ten square ammata of land ceded as an allotment
+tm:       33244
+source:   https://papyri.info/ddbdp/bgu;3;872
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   (ἀρούρης) (ἤμισυ) πλέον ἔλαττ(ον) καὶ τὸ
+r.2   ἐπιβάλλον σοι μέρ[ο]ς
+r.3   τῶν δέκα ἀμμάτων
+r.4   τῶν ἐχωρηθέντων μοι
+r.5   κλῆρον ἀλλὰ καὶ ἕτοιμος
+
+[TRANSLATION]
+1   half an aroura, more or less, and the
+2   share falling to you
+3   of the ten (square) ammata
+4   that were ceded to me
+5   as an allotment; but also (I am) ready ...

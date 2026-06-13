@@ -1,0 +1,53 @@
+# ───────────────────────────────────────────────
+# P.Tebt 2.421 — Letter — Apion: “come at once, your sister is ailing”
+# Source: papyri.info DDbDP p.tebt;2;421  (Trismegistos 31365)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Tebt 2.421
+label:    P.Tebt 2.421
+name:     Letter — Apion: “come at once, your sister is ailing”
+genre:    letters
+date:     3rd century CE
+language: Greek (Koiné)
+found:    Tebtunis (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berkeley, Bancroft Library P. Tebt. 421
+content:  Drop everything and come; bring her white tunic, but the turquoise one sell or leave to your daughter as you please
+tm:       31365
+source:   https://papyri.info/ddbdp/p.tebt;2;421
+lat:      29.108
+lon:      30.937
+
+[GREEK]
+r.1   Ἀπίων Διδύμῳ χαίρειν. πάντα
+r.2   ὑ περθέμενος ἐξαυτὴς ἅμα τῷ
+r.3   λαβεῖν σε ταῦτά μου τὰ γράμματα
+r.4   γενοῦ πρὸς ἐμὲ ἐπεὶ ἡ ἀδελφή σου
+r.5   νωθρεύεται. καὶ τὰ κιτώνιον
+r.6   αὐτῆς τὸ λευκὸν τὸ παρὰ σοὶ ἐνιγ-
+r.7   κο̣ν̣ ἐρχ[ό]μενος τὸ δὲ καλλάι νον
+r.8   μ[ὴ] ενιγκῃς , ἀλλὰ θέλις αὐτὸ πωλῆ-
+r.9   σα[ι] πώλησον, θέλις αὐτὸ ἀφεῖναι
+r.10   τῇ θυγατρί σ[ου] ἄφες. ἀλλὰ μὴ ἀμελή-
+r.11   σῃς̣ τ̣ι̣ αὐτῆς [κ]α̣ὶ μὴ σκύλῃς τὴν
+r.12   γ̣[υνα]ῖκά σου ἢ τὰ παιδία, ἐρχόμε-
+r.13   ν[ο]ς δὲ ἔρχου ἰς Θεογενίδα .
+r.14   ἐρρῶσθαί σε εὔχομαι.
+
+[TRANSLATION]
+1   Apion to Didymos, greeting. Putting off
+2   everything, at once, the moment
+3   you receive this letter of mine,
+4   come to me, since your sister
+5   is ailing. And her white
+6   tunic, the one you have — bring
+7   it when you come; but the turquoise one
+8   do n[ot] bring — rather, if you want to sell
+9   it, sell it; if you want to leave it
+10   to yo[ur] daughter, leave it. But do not neg-
+11   lect her at all, and do not trouble your
+12   w[if]e or the children; and when you come,
+13   come to Theogenis.
+14   I pray for your health.

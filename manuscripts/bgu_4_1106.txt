@@ -1,0 +1,131 @@
+# ───────────────────────────────────────────────
+# BGU 4.1106 — Nurse contract — Theodote to suckle the foundling Tyche
+# Source: papyri.info DDbDP bgu;4;1106  (Trismegistos 18547)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1106
+label:    BGU 4.1106
+name:     Nurse contract — Theodote to suckle the foundling Tyche
+genre:    contracts
+date:     c. 13 BCE
+language: Greek (Koiné)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13190 Ro
+content:  Theodote, with her husband as surety, nurses Marcus Aemilius’ foundling slave-girl for 18 months; nine months’ wages paid up front
+tm:       18547
+source:   https://papyri.info/ddbdp/bgu;4;1106
+lat:      31.2
+lon:      29.9
+
+[GREEK]
+r.1   (hand 1) [Πρωτάρχω]ι τῶι ἐπὶ τοῦ κριτηρίου
+r.2   (hand 2) [παρὰ] Μ̣άρκου Αἰμιλίου Μάρκου Καλλιδία κ[αὶ παρὰ]
+r.3   Θ[εοδ]ό̣της τῆς Δωσιθέου Περσεί[ν]ης με[τὰ κυρίου]
+r.4   κ[αὶ ἐ]γγύου τῶν κατὰ τήνδε τὴν συνχώ[ρησιν]
+r.5   σημαινομένων τοῦ ἀνδρὸς Σώφρο̣ν̣ο̣ς̣ [τοῦ]
+r.6   [ ̣ ̣ ̣ ̣] ̣ ̣ ̣άρχου Πέρ[σ]ο̣υ̣ τῆ[ς ἐπι-]
+r.7   [γονῆς.] π̣ε̣ρ̣ὶ τῶν διεσταμένων [συγχωρεῖ ἡ Θεο-]
+r.8   δό̣τ̣η ἐπὶ χρόνον μῆνας δέκα [ὀκτὼ ἀπὸ Φα-]
+r.9   με̣ν̣ὼ̣θ̣ τοῦ ἐνεστῶτος ι̣ζ̣ <(ἔτους)> Καί[σαρος τρο-]
+r.10   [φεύσειν καὶ θηλάσειν ἔξω] παρʼ ἑατῇ [κατὰ πόλιν]
+r.11   [τῷ ἰδίῳ αὐτῆς γάλακτι καθαρῷ καὶ ἀφθόρῳ]
+r.12   [ὃ ἐνκεχείρικεν αὐτῇ ὁ Μᾶρκος ἀναίρετον]
+r.13   [δουλικὸν παιδίον ἑαυτοῦ ὑποτίτθιον Τύχην]
+r.14   [λαμβάνουσα παρʼ αὐ]τοῦ κ̣α̣τ̣ὰ̣ μ[ῆνα ἕκαστον]
+r.15   [μισθὸν τοῦ τε γάλακτος καὶ τῆς τροφείας σὺν]
+r.16   [ἐλαίῳ ἀργυρίου (δραχμὰς) η. ἀπέσχηκεν δὲ ἡ Θεο-]
+r.17   [δότη] δ̣ι̣ʼ ἐγγύου [τ]ο̣ῦ̣ Σ̣[ώ]φ̣ρ̣ο̣ν̣ο̣ς̣ παρὰ τ̣ο̣ῦ̣ Μ[άρκου]
+r.18   [διὰ χειρὸς ἐ]ξ οἴκου εἰς τοὺς προκιμένους μῆν[ας δέκα]
+r.19   [ὀκτὼτ]ροφῆα μηνῶν ἐννέα τὰς συναγο[μένας]
+r.20   [δραχμὰ]ς ἑβδομήκοντα δύο, καὶ ἐὰν συνβῇ ἐντὸς [τού-]
+r.21   [των] παθῖν τι ἀνθρώπινον τὸ παιδίον, τ̣ὴ[ν Θεο-]
+r.22   [δότην ἀ]ν̣ελομένην ἕτερον παιδίον τρο[φεύσειν]
+r.23   [καὶ θηλ]άσειν καὶ παραστήσειν τῷ Μάρκ[ῳ ἐπὶ]
+r.24   [τῶν] ἴ̣σ̣ων μηνῶν ἐννέα μηδὲν τὸ καθόλου λ̣α̣-
+r.25   [βοῦσ]α διὰ τὸ ἀθάνατον αὐτὴν ἐπιδεδέχθαι τρ[ο-]
+r.26   [φεύει]ν. εὐτακτουμένην αὐτὴν τοῖς λ̣ο̣[ιποῖς]
+r.27   [κατ]ὰ̣ μ̣ῆνα τροφήοις ποιεῖσθαι τήν τε ἑατῆς
+r.28   [καὶ τοῦ] παιδίου προσήκουσαν ἐπιμέληαν μὴ
+r.29   [φθείρουσ]α̣ν̣ τ̣ὸ̣ γάλα μηδʼ ἀνδροκοιτοῦσαν μηδʼ ἐ[πι-]
+r.30   [κ]υ̣ο̣ῦ̣σ̣αν μηδʼ ἕτερον παραθηλάζουσαν παιδί-
+r.31   ον, ἅ τε ἐὰν λάβῃ ἢ πιστευθῇ σῶα συντηρήσιν
+r.32   καὶ ἀποδώσειν ὅτ̣α̣ν̣ ἀπαιτῆται ἢ ἐκτίσειν τὴν
+r.33   ἑ̣κ̣ά̣σ̣τ̣ο̣υ̣ ἀξίαν πλὴν συνφανοῦς ἀ̣π̣ωλήας ἧς καὶ
+r.34   φανερᾶς γενηθείσ[ης ἀ]πολελύσθω, καὶ μὴ ἐγλ̣ε̣ι̣π̣[εῖν]
+r.35   τὴν τρ[ο]φήαν ἐντὸς τοῦ [χ]ρόνο̣υ̣· ἐ[ὰν δ]έ τι παραβαί-
+r.36   νῃ, εἶναι αὐτήν τε καὶ τὸν Σώφρον[α ἀ]γ̣ωγίμους
+r.37   καὶ συνέχεσθαι μέχρει τοῦ ἐκτε[ῖσ]αι ἅ τε εἴλη-
+r.38   φ̣ε̣ν̣ τ[ρο]φῆα καὶ ἃ ἐὰν λάβ[ῃ] σὺν ἡμ[ι]ολίᾳ καὶ τὰ
+r.39   βλάβη καὶ δαπανήματα καὶ ἄλλας ἀργυ(ρίου) (δραχμὰς) τ̣, τ̣ῆ̣ς̣
+r.40   π̣ρ̣ά̣ξ̣[ε]ως γινομένης <τῷ Μάρκῳ> ἔκ τε ἀμφοτέρων ὄντω[ν]
+r.41   ἀλληλενγύων εἰς ἔκτισιν καὶ ἐξ ἑνὸς καὶ ἐξ οὗ ἐ[ὰν]
+r.42   αὐτῶν αἱρῆται καὶ ἐκ τῶν ὑπαρχόντων αὐτοῖς
+r.43   πάντων καθάπερ ἐγ δίκης, ἀκύρ[ω]ν οὐσῶν καὶ
+r.44   ὧν ἐ[ὰν ἐ]πενέγκωσιν πίστεων πασ[ῶ]ν σκέπ[ης]
+r.45   πάσης, ἕκαστα δὲ αὐτῆς ἐπιτελο̣ύ̣σ̣η̣ς̣ κ̣α̣ὶ̣ τ̣[ὸν]
+r.46   [Μᾶρκο]ν Αἰμίλιον χορηγεῖν αὐτῇ τὰ κατὰ μῆ[να]
+r.47   τροφῆα ἐπὶ τοὺς λοιποὺς μῆνας ἐννέα καὶ μ̣ὴ̣ [ἀ-]
+r.48   ποσ̣π̣άσιν τὸ παιδίον ἐντὸς τοῦ χρόνου ἢ κ̣α̣[ὶ αὐ-]
+r.49   τὸν ἐκτίνιν τὸ ἴσον ἐπίτιμον. παραβαλε[ῖ δὲ]
+r.50   ἡ Θεοδότη πρὸς τὸν Μᾶρκον τοῦ μηνὸς ̣ ̣ ̣ ̣
+r.51   ἑκοῦσα καὶ τὸ παιδίον πρὸς τὸ ἐπιθεωρεῖσθαι
+r.52   ὑπʼ αὐτοῦ.
+r.53   βεβαι[⁦ -ca.?- ⁩]
+
+[TRANSLATION]
+1   (1st hand) [To Protarcho]s, president of the tribunal,
+2   (2nd hand) [from] Marcus Aemilius, son of Marcus, of the tribe Callidia(?), a[nd from]
+3   Th[eod]ote daughter of Dositheos, Persian, wi[th as guardian]
+4   a[nd s]urety for what is set out in this agree[ment]
+5   her husband Sophron, [son of]
+6   […]…archos, Per[s]ian of the [epi-]
+7   [gone.] Concerning the matters agreed, [Theo-]
+8   dote [consents,] for a period of [eighteen] months [from Pha-]
+9   menoth of the current 17th <year> of Cae[sar, to]
+10   [nurse and suckle, outside,] at her own home [in the city,]
+11   [with her own milk, pure and unspoiled,]
+12   [the foundling slave infant at the breast of his, Tyche,]
+13   [that Marcus has entrusted to her,]
+14   [receiving from] him each m[onth as]
+15   [wage for the milk and the nursing, with]
+16   [oil, 8 silver drachmas. And Theo-]
+17   [dote] has received, through her surety S[o]phron, from M[arcus,]
+18   [from hand to hand ou]t of the house, for the aforesaid [eighteen] mon[ths,]
+19   the nursing-wages of nine months gathered to[gether —]
+20   seventy-two [drachma]s; and if it happen within [these]
+21   that the child suffer the human lot, [Theo-]
+22   [dote,] taking up another child, [shall nurse]
+23   [and suck]le it and present it to Marc[us for]
+24   [the] same nine months, taking nothing at
+25   [all,] because she has undertaken to nurse a-
+26   gainst death; and, being kept in good order with the re[maining]
+27   monthly nursing-wages, she is to exercise the proper care
+28   both of herself [and of the] child, not
+29   [spoili]ng her milk, nor sleeping with a man, nor con-
+30   ceiving, nor suckling another child be-
+31   sides; and whatever she receives or is entrusted with, to keep safe
+32   and return whenever demanded, or to pay the
+33   value of each item, except manifest loss, on which, hav-
+34   ing also been made evident, she shall be released; and not to qu[it]
+35   the nursing within the period. And [i]f she trans-
+36   gresses anything, she and Sophron are to be liable to seizure
+37   and held until they pay back both the nursing-wages she has re-
+38   ceived and whatever she may receive, with half again, and the
+39   damages and expenses and a further 300 silver drachmas, the
+40   right of execution belonging <to Marcus> upon both — being
+41   mutual sureties for the payment — and upon one, and upon whichever
+42   of them he chooses, and upon all their belong-
+43   ings, as if by legal judgment; void being also
+44   whatever pleas they may bring forward, every shel-
+45   ter; and, she performing each thing, that [Mar-]
+46   [cu]s Aemilius furnish her the monthly
+47   nursing-wages for the remaining nine months, and not [take]
+48   the child away within the period, or him-
+49   self pay the same penalty. And Theodote shall come over
+50   to Marcus … of the month …
+51   willingly, with the child too, for it to be inspected
+52   by him.
+53   (inverted) guarantee[…]

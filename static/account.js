@@ -26,50 +26,92 @@
   /* ---- styles ---- */
   function injectStyles() {
     var css = ""
-      + ".mdb-badge{position:fixed;top:10px;right:12px;z-index:99999;font:13px/1.3 system-ui,sans-serif;"
-      + "background:#1c1c22;color:#eee;border:1px solid #3a3a44;border-radius:8px;padding:7px 11px;"
-      + "box-shadow:0 2px 10px rgba(0,0,0,.35);display:flex;gap:8px;align-items:center}"
-      + ".mdb-badge a{color:#8ab4ff;cursor:pointer;text-decoration:none}"
+      // Account badge — sits in the sidebar header (not fixed top-right);
+      // GOLD bar with BLACK text.
+      + ".mdb-badge{margin-top:12px;font:11.5px/1.35 'Inter',system-ui,sans-serif;"
+      + "background:linear-gradient(180deg,#d8bd86,#c9a96e);color:#0d0c07;"
+      + "border:1px solid #b0935a;border-radius:7px;padding:8px 11px;"
+      + "display:flex;flex-direction:column;gap:6px}"
+      // Logged-out: the whole gold bar is a button that presses in on hover.
+      + ".mdb-badge--login{cursor:pointer;text-align:center;padding:10px 11px;"
+      + "box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 2px 5px rgba(0,0,0,.45);"
+      + "transition:background .1s,box-shadow .1s,transform .05s}"
+      + ".mdb-badge--login:hover{background:linear-gradient(180deg,#c4a361,#b08f52);"
+      + "box-shadow:inset 0 2px 6px rgba(0,0,0,.55);transform:translateY(1px)}"
+      + ".mdb-badge--login a:hover{color:#fff;text-decoration:none}"
+      + ".mdb-badge .mdb-row{display:flex;gap:8px;align-items:center;justify-content:center;flex-wrap:wrap}"
+      + ".mdb-badge a{color:#0d0c07;cursor:pointer;text-decoration:none;font-weight:800;letter-spacing:.03em}"
       + ".mdb-badge a:hover{text-decoration:underline}"
-      + ".mdb-pill{background:#2a2a32;border-radius:20px;padding:2px 9px;font-size:12px}"
-      + ".mdb-overlay{position:fixed;inset:0;z-index:100000;background:rgba(0,0,0,.55);"
+      // Logged-in: compact one-line top (Log out + email left, quota right).
+      + ".mdb-top{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:9.5px}"
+      + ".mdb-left{display:flex;align-items:center;gap:6px;min-width:0;flex:1}"
+      + ".mdb-left a{white-space:nowrap}"
+      + ".mdb-badge .mdb-email{color:#0d0c07;font-weight:700;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}"
+      + ".mdb-quota{font-size:9px;color:#3a2f18;font-weight:800;letter-spacing:.01em;white-space:nowrap;flex:none}"
+      // Subscribe bar — dark with gold text; inverts to cream/black on hover.
+      + ".mdb-sub-bar{display:block;width:100%;box-sizing:border-box;cursor:pointer;"
+      + "background:#0d0c07;color:#c9a96e;border:1px solid #0d0c07;border-radius:5px;"
+      + "padding:5px 8px;font-size:9px;font-weight:800;letter-spacing:.05em;text-transform:uppercase;text-align:center;"
+      + "transition:background .12s,color .12s}"
+      + ".mdb-sub-bar:hover{background:#fff5e0;color:#0d0c07}"
+      + ".mdb-overlay{position:fixed;inset:0;z-index:100000;background:rgba(0,0,0,.62);"
       + "display:none;align-items:center;justify-content:center}"
       + ".mdb-overlay.open{display:flex}"
-      + ".mdb-card{background:#17171c;color:#eee;width:340px;max-width:92vw;border:1px solid #33333d;"
-      + "border-radius:14px;padding:22px;font:14px/1.45 system-ui,sans-serif;box-shadow:0 12px 40px rgba(0,0,0,.5)}"
-      + ".mdb-card h2{margin:0 0 4px;font-size:19px}"
-      + ".mdb-card p{margin:6px 0 14px;color:#b9b9c4}"
-      + ".mdb-card input{width:100%;box-sizing:border-box;margin:6px 0;padding:10px;border-radius:8px;"
-      + "border:1px solid #3a3a44;background:#0f0f13;color:#fff;font-size:14px}"
-      + ".mdb-btn{width:100%;padding:11px;border:0;border-radius:8px;background:#3b6cf6;color:#fff;"
-      + "font-size:15px;font-weight:600;cursor:pointer;margin-top:6px}"
-      + ".mdb-btn:hover{background:#2f59d6}"
-      + ".mdb-btn.alt{background:#2a2a32}"
-      + ".mdb-link{color:#8ab4ff;cursor:pointer;text-align:center;margin-top:12px;font-size:13px}"
-      + ".mdb-err{color:#ff7676;min-height:16px;font-size:13px;margin:2px 0 4px}"
-      + ".mdb-x{float:right;cursor:pointer;color:#888;font-size:18px;line-height:1}";
+      + ".mdb-card{background:#0d0c07;color:#d6c39a;width:340px;max-width:92vw;border:1px solid #3a3020;"
+      + "border-radius:12px;padding:22px;font:14px/1.45 'Inter',system-ui,sans-serif;box-shadow:0 18px 60px rgba(0,0,0,.7)}"
+      + ".mdb-card h2{margin:0 0 4px;font-size:19px;color:#c9a96e;font-family:'Cinzel',serif}"
+      + ".mdb-card p{margin:6px 0 14px;color:#a89878}"
+      + ".mdb-card input{width:100%;box-sizing:border-box;margin:6px 0;padding:10px;border-radius:7px;"
+      + "border:1px solid #2a2416;background:#15130d;color:#d6c39a;font-size:14px}"
+      + ".mdb-card input:focus{border-color:#c9a96e;outline:none}"
+      + ".mdb-btn{width:100%;padding:11px;border:0;border-radius:7px;"
+      + "background:linear-gradient(180deg,#d8bd86,#c9a96e);color:#0d0c07;"
+      + "font-size:15px;font-weight:700;cursor:pointer;margin-top:6px}"
+      + ".mdb-btn:hover{background:#d8bd86}"
+      + ".mdb-btn.alt{background:#1e1a12;color:#c9a96e;border:1px solid #3a3020}"
+      + ".mdb-link{color:#c9a96e;cursor:pointer;text-align:center;margin-top:12px;font-size:13px}"
+      + ".mdb-err{color:#c98a7a;min-height:16px;font-size:13px;margin:2px 0 4px}"
+      + ".mdb-x{float:right;cursor:pointer;color:#6a5d42;font-size:18px;line-height:1}"
+      + ".mdb-x:hover{color:#c9a96e}";
     var s = document.createElement("style"); s.textContent = css; document.head.appendChild(s);
   }
 
   /* ---- badge ---- */
   function renderBadge() {
     var b = el("mdb-badge");
-    if (!b) { b = document.createElement("div"); b.id = "mdb-badge"; b.className = "mdb-badge"; document.body.appendChild(b); }
+    if (!b) {
+      b = document.createElement("div"); b.id = "mdb-badge"; b.className = "mdb-badge";
+      // Place it just below the header title (inside #sidebar-header), not
+      // fixed top-right where it overlapped the reading-stand close button.
+      var host = document.getElementById("sidebar-header") || document.body;
+      host.appendChild(b);
+    }
+    var lim = state.limit == null ? (state.free_limit == null ? 5 : state.free_limit) : state.limit;
+    b.classList.toggle("mdb-badge--login", !state.logged_in);
     if (!state.logged_in) {
-      b.innerHTML = '<span>Search assistant:</span> <a id="mdb-open-login">Sign in</a> '
-                  + '<span style="color:#555">/</span> <a id="mdb-open-register">Register</a>';
+      // Gold pressable bar, black text: "Login or Sign up".
+      b.innerHTML = '<div class="mdb-row"><a id="mdb-open-login">Login</a>'
+                  + '<span>or</span><a id="mdb-open-register">Sign up</a></div>';
       el("mdb-open-login").onclick = function () { openAuth("login"); };
       el("mdb-open-register").onclick = function () { openAuth("register"); };
     } else if (state.subscribed) {
-      b.innerHTML = '<span class="mdb-pill">★ Unlimited</span> <span>' + esc(state.email) + '</span> '
-                  + '<a id="mdb-manage">Manage</a> <a id="mdb-logout">Log out</a>';
+      // Compact: Log out + email on one line, "Unlimited" across from email,
+      // manage bar below.
+      b.innerHTML = '<div class="mdb-top"><span class="mdb-left">'
+                  + '<a id="mdb-logout">Log out</a>'
+                  + '<span class="mdb-email">' + esc(state.email) + '</span></span>'
+                  + '<span class="mdb-quota">Unlimited</span></div>'
+                  + '<div class="mdb-sub-bar" id="mdb-manage">Manage ManuscriptDB Unlimited</div>';
       el("mdb-manage").onclick = openPortal;
       el("mdb-logout").onclick = doLogout;
     } else {
-      var left = state.remaining == null ? "" : state.remaining;
-      b.innerHTML = '<span class="mdb-pill">' + left + ' free left today</span> '
-                  + '<a id="mdb-upgrade">Upgrade</a> '
-                  + '<a id="mdb-logout">Log out</a>';
+      // Compact: Log out + email on one line, free-search count across from
+      // email, Subscribe bar below.
+      b.innerHTML = '<div class="mdb-top"><span class="mdb-left">'
+                  + '<a id="mdb-logout">Log out</a>'
+                  + '<span class="mdb-email">' + esc(state.email) + '</span></span>'
+                  + '<span class="mdb-quota">' + lim + ' free daily AI searches</span></div>'
+                  + '<div class="mdb-sub-bar" id="mdb-upgrade">Subscribe to ManuscriptDB Unlimited</div>';
       el("mdb-upgrade").onclick = openPaywall;
       el("mdb-logout").onclick = doLogout;
     }

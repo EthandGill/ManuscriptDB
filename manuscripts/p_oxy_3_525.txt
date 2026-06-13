@@ -1,0 +1,47 @@
+# ───────────────────────────────────────────────
+# P.Oxy 3.525 — Letter — the dreadful voyage through the Antaiopolite
+# Source: papyri.info DDbDP p.oxy;3;525  (Trismegistos 28365)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy 3.525
+label:    P.Oxy 3.525
+name:     Letter — the dreadful voyage through the Antaiopolite
+genre:    letters
+date:     early 2nd century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Poughkeepsie, Vassar College P. Oxy. 525
+content:  “The coasting-voyage of the Antaiopolite is most vexing, and every day I am burdened by it”; give a small libation-fee, and remember the night-festival of Isis
+tm:       28365
+source:   https://papyri.info/ddbdp/p.oxy;3;525
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   ὁ παράπλους τοῦ Ἀνταιοπολίτου
+r.2   ὀχληρότατός ἐστιν καὶ καθʼ ἑκάσ-
+r.3   την ἡμέραν βαροῦμαι διʼ αὐτὸν
+r.4   καὶ λείαν τῷ πράγματι καταξύο-
+r.5   μαι. ἐὰν δέῃ τῷ ἀδελφῶι τῆς μη-
+r.6   τρὸ[ς] τῶν υἱῶν Ἀχιλλᾶ δοθῆναι
+r.7   σπο[ν]δάριον καλῶς ποιήσεις δοὺς
+r.8   λ̣α̣[βὼ]ν̣ παρὰ Σαραπίωνος ἐκ τοῦ
+r.9   ἐ[μοῦ] λόγου. μέμνη[σ]ο τοῦ νυ[κ-]
+r.10   τ[ελίου] Ἴσιδος τοῦ ἐν τῶι Σαρα-
+r.11   π[ιείωι].
+
+[TRANSLATION]
+1   The coasting-voyage of the Antaiopolite
+2   is most vexing, and ev-
+3   ery day I am burdened on its account
+4   and quite worn down by the
+5   business. If a small libation-fee must be given to the
+6   brother of the mother of
+7   the sons of Achillas, you will do well to give it,
+8   ta[ki]ng it from Sarapion on
+9   [my] account. Remember the night-
+10   [festival] of Isis in the Sara-
+11   p[eion].

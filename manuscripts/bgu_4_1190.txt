@@ -1,0 +1,61 @@
+# ---------------------------------------------------------
+# BGU 4.1190 - Petition to Strategos Antiochos on a Soldier's Debt
+# Source: papyri.info DDbDP bgu;4;1190  (Trismegistos 4525)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1190
+label:    BGU 4.1190
+name:     Petition to Strategos Antiochos on a Soldier's Debt
+genre:    petitions
+date:     nach 80 v.Chr.
+language: Greek (Koine)
+found:    Herakleopolite nome, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13160
+content:  Petition from Dorion and Dionysios, officers of an association of sword-bearers, to the strategos Antiochos, asking that the debts owed to the synod by the soldier Isidoros be settled by withholding his pay-ration.
+tm:       4525
+source:   https://papyri.info/ddbdp/bgu;4;1190
+lat:      29.0772
+lon:      30.9342
+
+[GREEK]
+r.1   Ἀ̣ν̣τ̣ι̣ό̣χ̣ω̣ι̣ συγγενεῖ καὶ γραμματεῖ τῶν δυνάμεω[ν]
+r.2   παρ[ὰ] Δωρίωνος προστάτου καὶ Διονυσίου γραμμα[τέως]
+r.3   συνόδου ρμγ̣ τῶ̣ν̣ (πρώτων) φίλων καὶ καὶ περὶ
+r.4   τοὺς βασιλεῖς μαχαιροφόρων. Ἰσίδωρος Ἰσιδώρου
+r.5   ̣ ̣ ̣ ̣ο̣υ̣ ̣ε̣μ̣ ̣ ̣ ̣ τὰς μὲν χρείας παρεχομενου ἐν
+r.6   [Ἀλεξαν]δ̣ρεία̣ι̣, σιταρχουμενου δὲ ἐπὶ τοῦ
+r.7   [Ἡρακλε]οπο̣λ̣[ίτο]υ τοῦ ὑπὲρ Μέμφιν νομοῦ ὀφείλων
+r.8   [τῆι συνόδωι ̣ ̣ ̣ ̣ κε]φ̣ά̣λ̣α̣ι̣α̣ καὶ ἕνεκα τοῦ τὰς
+r.9   [σιταρχίας α]ὐ̣τοῦ ἐπὶ τῶν τόπων ἀναρπά̣ζ̣ε̣ι̣ν̣
+r.10   […]ω̣ς τὴν πρᾶξιν ποιεῖσθαι
+r.11   […]ν τοῦ̣ [ὑ]π̣ο̣μ̣νήματ̣ο̣ς̣ ἐ̣π̣ι̣-
+r.12   […]δ̣ε̣[ ̣ ̣ ̣ ἀ]ξιοῦμεν συντά[ξαι] τῶι
+r.13   [… τ]ακτικῷ γραμματεῖ τὰς
+r.14   [τοῦ Ἰσιδώρου σιτα]ρχίας ἀπὸ τοῦ νῦν
+r.15   [… ἐ]κ τοῦ τ̣ά̣γ̣μ̣α̣τ̣ο̣ς̣ α̣ὐ̣τοῦ
+r.16   […] ̣ ̣ ̣ μέχρι τοῦ̣ ε̣ἰ̣λ̣η̣φέ̣ν̣αι
+r.17   [… πλ]η̣ρ̣ω̣θ̣ῆ̣ν̣α̣ι̣, ἐ̣ὰ̣ν̣ δέ τι
+r.18   [ ]μη πρὸς
+
+[TRANSLATION]
+1   To Antiochos, kinsman and secretary of the forces,
+2   from Dorion the patron and Dionysios the secre[tary]
+3   of the synod (numbering) 143 of the (first) friends and (those) about
+4   the kings, sword-bearers. Isidoros son of Isidoros
+5   ....ou .em... rendering his services in
+6   [Alexan]dria, but being supplied with rations in
+7   [the Herakle]opol[it]e (nome) of the (nome) above Memphis, owing
+8   [to the synod the ... fun]ds and on account of the fact that
+9   [his pay-rations] are seized upon in the (local) places
+10   [...]ōs to make the exaction
+11   [...]n of the memorandum ...
+12   [...]de[ ... we as]k (you) to inst[ruct] the
+13   [... ration-]secretary that the
+14   [ration-payments of Isidoros] from now
+15   [... f]rom his unit
+16   [...] ... until he has received
+17   [...] to be discharged, and if anything
+18   [ ]but toward

@@ -1,0 +1,51 @@
+# ---------------------------------------------------------
+# P.Oxy 1.127 - Account of grain-shipment dues paid at Alexandria
+# Source: papyri.info DDbDP p.oxy;1;127  (Trismegistos 38554)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.127
+label:    P.Oxy 1.127
+name:     Account of grain-shipment dues paid at Alexandria
+genre:    documents
+date:     late 6th c. CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10084 Ro
+content:  The great houses of the Oxyrhynchite and Kynopolite contribute grain for the annona-shipment (embole); the cash equivalent, converted at 55 solidi 12 carats per myriad, is sent to Alexandria and paid to the bankers Ioannes and Theodoros
+tm:       38554
+source:   https://papyri.info/ddbdp/p.oxy;1;127
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   † συντελεῖ ὀ ἔνδοξ(ος) οἶκ(ος) Ὀξυρυγχ(ιτῶν) ὑ(πὲρ) ἐμβολῆς, σί(του) καν(κέλλῳ) (ἀρταβῶν) (μυριάδας) η καὶ
+r.2   Ζωιη𐅵, τούτων ὑ(πὲρ) τοῦ διαγράφου τοῦ τηγάνου
+r.3   τῇ μυριάδ(ι) α νο(μίσματα) νε κερ(άτια) ιβ, γί(νεται) Ἀλεξ(ανδρείας) νο(μίσματα) υπζ κερ(άτια) η·
+r.4   ἐξ (ὧν) ἐπέμφθ(η) ἐν Ἀλεξα(νδρείᾳ) δ(ιὰ) Μηνᾶ νοταρ(ίου) (καὶ) παραπομπ(οῦ)
+r.5   τὰ καὶ καταβλ τοῖς λαμπρο(τάτοις) ἀργυροπρά(ταις) Ἰ ωαννου
+r.6   (καὶ) Θεοδώρ[ο]υ [Ἀ]λεξ(ανδρείας) νο(μίσματα) υπδ κ[ερ(άτια)] κβ. λοι[πὰ] Ἀλεξ(ανδρείας) νο(μίσματα) β κερ(άτια) ι.
+r.7   † συντελεῖ ὁ ἔνδ[ο]ξ(ος) [ο]ἶκ(ος) τῆς Κυνῶ[ν] ὑ(πὲρ) ἐμβολῆς,
+r.8   σί(του) καν(κέλλῳ) μ̣[υ]ρ[ι]άδ(ας) ε καὶ Βω[ ̣ ̣], τούτω[ν]
+r.9   ὑ(πὲρ) διαγράφου τ[ο]ῦ τηγάνου τῇ [μ]υριάδ(ι) α [νο(μίσματα)] νε κερ(άτια) ιβ,
+r.10   γί(νεται) Ἀλεξ(ανδρείας) νο(μίσματα) σϙγ· ἐξ (ὧν) ἐπέμφθ(η) ἐν Ἀλεξ(ανδρείᾳ) δ(ιὰ) Μηνᾶ
+r.11   νοταρ(ίου) (καὶ) παραπομποῦ τὰ καὶ καταβληθ(έντα) τοῖς λαμπρ(οτάτοις)
+r.12   ἀ[ργυρο]πρά(ταις) Ἰ ωάνν[ου] [ (καὶ)] Θεοδώρου [Ἀ]λεξ(ανδρείας) νο(μίσματα) σπε κερ(άτιον) α.
+r.13   λ[οι(πὰ) Ἀλ]ε[ξ(ανδρείας) ν]ο(μίσματα) [ζ] κ[ερ(άτια) κγ].
+
+[TRANSLATION]
+1   † The glorious house of the Oxyrhynchites contributes, for the grain-shipment (embole), by the cancellus-measure 8 myriads of artabas of grain and
+2   7018 1/2; of these, for the mint-levy,
+3   at 55 solidi 12 carats per myriad, total 487 solidi 8 carats, Alexandrian standard;
+4   of which there was sent to Alexandria, through Menas notary and escort,
+5   and paid to the most distinguished bankers Ioannes
+6   and Theodoros, 484 solidi 22 carats, Alexandrian standard. Remainder: 2 solidi 10 carats, Alexandrian standard.
+7   † The glorious house of the Kynopolites contributes, for the grain-shipment,
+8   by the cancellus-measure 5 myriads and 2,8[..] of grain; of these,
+9   for the mint-levy, at 55 solidi 12 carats per myriad,
+10   total 293 solidi, Alexandrian standard; of which there was sent to Alexandria through Menas
+11   notary and escort, and paid to the most distinguished
+12   bankers Ioannes and Theodoros, 285 solidi 1 carat, Alexandrian standard.
+13   Remainder: [7] solidi [23 carats], Alexandrian standard.

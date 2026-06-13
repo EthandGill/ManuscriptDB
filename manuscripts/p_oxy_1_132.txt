@@ -1,0 +1,53 @@
+# ---------------------------------------------------------
+# P.Oxy 1.132 - Account of gold distributed to heirs
+# Source: papyri.info DDbDP p.oxy;1;132  (Trismegistos 37143)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.132
+label:    P.Oxy 1.132
+name:     Account of gold distributed to heirs
+genre:    documents
+date:     late 6th-early 7th c. CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10133
+content:  An account of 360 solidi found in the estate of the late headman Paulos and shared among his named heirs (Serenos and the husbands of Herais and Sophia), with weight-allowances
+tm:       37143
+source:   https://papyri.info/ddbdp/p.oxy;1;132
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   † γνῶ(σις) χρυ(σίου) εὑρεθέ(ντος) πα(ρὰ) τῷ μακαρ(ίῳ) Παύλῳ τῷ ἀπὸ μειζό(νων) Ὤφεως
+r.2   (καὶ) δοθέ(ντος) τοῖς
+r.3   γεγραμμέ(νοις) αὐτοῦ κληρονόμο(ις) ἐπὶ μην(ὸς) Ἐπεὶφ κζ
+r.4   ἰνδ(ικτίονος) ιγ, ἀπὸ νο(μισμάτων) τξ, οὕ(τως)·
+r.5   διὰ Σερήνου υἱ οῦ τοῦ αὐτ(οῦ) Παύλου νο(μίσματα) ρνθ (κεράτια) κ,
+r.6   (καὶ) ὑ(πὲρ) παρασταθμ(ίας) αὐτ(ῶν) νο(μίσματα) ϛ (κεράτια) δ,
+r.7   (γίνεται) νο(μίσματα) ρξϛ Ἀλεξ(ανδρείας).
+r.8   δ(ιὰ) Φοιβάμμωνος χρυσο(χόου) ὑ(πὲρ) τῆ(ς) γαμετο(ῦ) αὐτ(οῦ) Ἡραί δος νο(μίσματα) ρζ (κεράτια) ιϛ,
+r.9   (καὶ) ὑ(πὲρ) παρασταθμ(ίας) αὐτ(ῶν) νο(μίσματα) δ (κεράτια) η,
+r.10   (γίνεται) νο(μίσματα) ριβ Ἀλεξ(ανδρείας).
+r.11   δ(ιὰ) Μακαρίου μείζ(ονος) ὑ(πὲρ) τῆ(ς) γαμετο(ῦ) αὐτ(οῦ) Σοφίας νο(μίσματα) οη (κεράτια) κ,
+r.12   (καὶ) ὑ(πὲρ) παρασταθμ(ίας) αὐτ(ῶν) νο(μίσματα) γ (κεράτια) δ,
+r.13   (γίνεται) νο(μίσματα) πβ Ἀλεξ(ανδρείας).
+r.14   γί(νονται) τὸ πᾶ(ν) νο(μίσματα) τξ Ἀλεξα(νδρείας). †
+
+[TRANSLATION]
+1   † Account of gold found in the keeping of the blessed Paulos, former headman, of Ophis,
+2   and given to the
+3   his named heirs, in the month Epeiph 27,
+4   13th indiction, out of 360 solidi, as follows:
+5   through Serenos, son of the same Paulos, 159 solidi 20 carats,
+6   and for their weight-allowance, 6 solidi 4 carats,
+7   total 166 solidi, Alexandrian standard.
+8   Through Phoibammon the goldsmith, on behalf of his wife Herais, 107 solidi 16 carats,
+9   and for their weight-allowance, 4 solidi 8 carats,
+10   total 112 solidi, Alexandrian standard.
+11   Through Makarios the headman, on behalf of his wife Sophia, 78 solidi 20 carats,
+12   and for their weight-allowance, 3 solidi 4 carats,
+13   total 82 solidi, Alexandrian standard.
+14   Grand total 360 solidi, Alexandrian standard. †

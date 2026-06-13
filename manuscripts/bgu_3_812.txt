@@ -1,0 +1,65 @@
+# ---------------------------------------------------------
+# BGU 3.812 - Account of dyke-tax (penthemeros) labour commuted by ferry transport
+# Source: papyri.info DDbDP bgu;3;812  (Trismegistos 28090)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.812
+label:    BGU 3.812
+name:     Account of dyke-tax (penthemeros) labour commuted by ferry transport
+genre:    documents
+date:     II - III
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 6944
+content:  A daily register of commuted dyke-corvée obligations, listing men exporting goods by boat over a ten-day and five-day period, with the expenditure in drachmas charged to each and the running totals.
+tm:       28090
+source:   https://papyri.info/ddbdp/bgu;3;812
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   καὶ τὰ περιγενάμενα ἀπὸ ια ἕως κ προθμείας · ἔστιν δέ ·
+r.2   ια Ἀντίνοος ἐξάγ(ων) ἐν ξυλοπακ(τῶνι) μικρῷ πεντάδια μ ἀνα(λώματος) (δραχμὰς) κ
+r.3   Ἥρων ἐξάγ(ων) ἐν πακ(τῶνι) ἀρσενικ(ῷ) ἐρίων σάκκοι δύο ἀνα(λώματος) (δραχμὰς) π
+r.4   καὶ ἀπὸ ιβ ἕως ιγ κερδῶν Ἑρμῆς.
+r.5   ιδ Φέ̣σις ἐξάγ(ων) ὀφφ(ικ ) ἐν πλο(ίῳ) Ἑλληνικ(ῷ) κρι(θῆς) ψιάθια ἑπτὰ ὁλκῆς λί(τρας) ιδ χωρὶ(ς) ἀνα(λώματος).
+r.6   ιε Δράκων ἐξάγ(ων) ἐν πακ(τῶνι) ἀρσενι(κῷ) ἰδίῳ πεντάδια σ ἀναλώματος (δραχμὰς) ρ
+r.7   ιϛ κερδῶν Ἑρμῆς.
+r.8   ιζ Αἰθιοποῦς ἐξάγ(ων) ἐν πλο(ιαρίῳ) Ἑλληνικ(ῷ) κρι(θῆς) ψιάθια δύο ὁλκῆς λί(τρας) δ ἀν(αλώματος) (δραχμὰς) π
+r.9   καὶ ἀπὸ ιη ἕως κ κερδῶν Ἑρμῆς
+r.10   γί(νεται) τῆς δεκημέρου ἐπὶ τὸ αὐτὸ (δραχμαὶ) σπ2
+r.11   […] ἀν(αλώματος(?)) [ ]
+r.12   κζ Σαραπίων ὁμ̣[οίως] [ἐξάγων ἐν π]λοι(αρίῳ(?)) σκαφο[πρῴρῳ ̣ ̣ ̣ ̣ ̣] ω̣νομου α̣ (ὧν) ἀ[ν]α(λώματος) (δραχμὰς) π
+r.13   κη κερδῶν Ἑ[ρμ]ῆς.
+r.14   κθ Ἡρωδιαν[ὸ]ς ἐξάγ(ων) ἐ̣ν̣ π̣λ̣ο̣ι̣(αρίῳ) σκαφοπ̣[ρ]ῴ̣ρῳ καλάθους [ ̣ ̣ ̣ ̣ ̣ ̣]ο̣ν̣[ ̣ ̣ ἀ]ν̣α(λώματος) — (δραχμὰς) κ
+r.15   υ̣ρ̣ Παουῆσις ἐξ[άγ(ων)] ἐν πλοί(ῳ) [Ἑλ]ληνικ(ῷ) ιστο ̣[ ̣ ̣ ̣ ̣] ̣ ̣ατικων [(δραχμὰς)] κ
+r.16   λ κερδῶν Ἑρμῆς
+r.17   γί(νεται) τῆς πενθημέρο[υ] ἐπ[ὶ] τὸ αὐτ[ὸ] (δραχμαὶ) σξ
+r.18   καὶ ἐγλόγου̣ ὁμοίως (δραχμαὶ) ωπη
+r.19   ὁμοῦ ἐπὶ τὸ [α]ὐτ̣(ὸ) ／ Αρμη
+r.20   αἳ καὶ διεγράφα̣σ̣ιν ἐπ[ὶ] τραπέ(ζης) ε( ) η
+
+[TRANSLATION]
+1   and the surplus from the 11th to the 20th of ferriage; and it is as follows:
+2   11th: Antinoos, exporting in a small wooden boat 40 bundles, of expenditure 20 drachmas;
+3   Heron, exporting in a male barge two sacks of wool, of expenditure 80 drachmas;
+4   and from the 12th to the 13th: of profits, Hermes (i.e. lucky gain).
+5   14th: Phesis, exporting offic( ) in a Greek ship seven mats of barley, of weight 14 pounds, without expenditure.
+6   15th: Drakon, exporting in his own male barge 200 bundles, of expenditure 100 drachmas;
+7   16th: of profits, Hermes.
+8   17th: Aithiopous, exporting in a Greek skiff two mats of barley, of weight 4 pounds, of expenditure 80 drachmas;
+9   and from the 18th to the 20th: of profits, Hermes;
+10   the total for the ten-day period comes to 280 drachmas.
+11   [...] of expenditure(?) [ ]
+12   27th: Sarapion, lik[ewise, exporting in] a boat(?) with a hollow prow [.....] ...nomou 1, (of which) of expenditure 80 drachmas;
+13   28th: of profits, He[rm]es.
+14   29th: Herodianos, exporting in a boat with a hollow prow baskets [......]on[.. of] expenditure — 20 drachmas;
+15   ...r Paouesis export[ing] in a [Gr]eek ship isto.[....]..atikon [drachmas] 20;
+16   30th: of profits, Hermes;
+17   the total for the five-day period comes to 260 drachmas.
+18   and of the eklogos (selection-account) likewise 888 drachmas;
+19   altogether the to[t]al / Arme(?)
+20   which were also paid out at the bank of e( ) 8.

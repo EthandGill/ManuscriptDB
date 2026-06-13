@@ -1,0 +1,39 @@
+# ---------------------------------------------------------
+# P.Oxy 2.313 - Tax receipts paid through the bankers
+# Source: papyri.info DDbDP p.oxy;2;313  (Trismegistos 16681)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.313
+label:    P.Oxy 2.313
+name:     Tax receipts paid through the bankers
+genre:    receipts
+date:     9 Oct 47 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cambridge, University Library Add. Ms. 4059
+content:  Through the bankers Kollouthos and partners: Paesis son of Paesis pays a series of small taxes of the 7th year - 12 dr., 4 dr., embankment-tax and pig-tax
+tm:       16681
+source:   https://papyri.info/ddbdp/p.oxy;2;313
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   ἔτους η Τιβερίου Κλαυ[δίου Κα]ί[σα]ρ[ος Σεβαστοῦ] Γερμανικοῦ
+r.2   Αὐτοκράτορος, Φαῶφι ι̣α̣, δ̣ι̣ὰ̣ Κολ(λούθου) κα[ὶ ̣ ̣] ̣ ̣( ) τρα(πεζιτῶν) ̣ ̣ ̣ ̣ ̣( ) ζ (ἔτους)
+r.3   διαγε(γράφηκεν) Π̣α̣ῆ̣σ̣ι̣ς̣ [Πα]ή̣σ̣ι̣ο̣ς̣ ε̣κ̣α̣( ) (δραχμὰς) δέκα δύο, (γίνονται) ιβ.
+r.4   ἄλλ(ας) τῆι α ̣ ̣ ̣ ̣ ̣ ̣( ) ζ (ἔτους) ὁ α(ὐτὸς) ε̣κ̣α̣( ) (δραχμὰς) τέσσαρα(ς), (γίνονται) δ. χωμα(τικοῦ) ζ (ἔτους)
+r.5   ὁ α(ὐτὸς) (δραχμὰς) ἓξτετρώ(βολον), (γίνονται) ϛ(τετρώβολον). ὑικ(ῆς) ζ
+r.6   (ἔτους) ὁ α(ὐτὸς) (δραχμὴν) μίαντετρώ(βολον)(ἡμιώβολον), (γίνονται)
+r.7   α(τετρώβολον)𐅵
+
+[TRANSLATION]
+1   Year 8 of Tiberius Clau[dius Ca]es[ar Augustus] Germanicus
+2   Imperator, Phaophi 11, through Kollouthos an[d ...], bankers, ... of the 7th year
+3   Paesis son of [Pa]esis has paid ... twelve drachmas, total 12.
+4   (and) other (sums) on the 1st ... of the 7th year, the same ... four drachmas, total 4. Embankment-tax of the 7th year,
+5   the same: six drachmas 4 obols, total 6 dr. 4 ob. Pig-tax of the 7th
+6   year, the same: one drachma 4 1/2 obols, total
+7   1 dr. 4 1/2 ob.

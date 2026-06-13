@@ -1,0 +1,93 @@
+# ───────────────────────────────────────────────
+# P.Oxy 3.533 — Letter — Apion to his sons: claims, leases, wheat and wine
+# Source: papyri.info DDbDP p.oxy;3;533  (Trismegistos 28373)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy 3.533
+label:    P.Oxy 3.533
+name:     Letter — Apion to his sons: claims, leases, wheat and wine
+genre:    letters
+date:     late 2nd–early 3rd century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    . formerly: [Cambridge (MA), Harvard University Library SM 4358
+content:  A landowner’s long instruction list: publish the claim-notices before Phaophi, don’t lease the house to young men, collect the wheat, greet everyone by name
+tm:       28373
+source:   https://papyri.info/ddbdp/p.oxy;3;533
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Ἀπίων Ἀπίωνι τῶι υἱῷ καὶ Ὡρίωνι τῶι φιλτάτῳ πλεῖστα χαίρειν.
+r.2   πρὸ τῶν ὅλων εὔχομαι ὑμᾶς ὑγιαίνειν μετὰ τῶν τέκνων καὶ συμβίων. ὅσα
+r.3   διὰ τῆς ἑτέρας ἐπιστολῆς ἔγραψα ἵνα μὴ τὰ αὐτὰ γράψω καὶ Ὡρίωνι γράφω. διεπεμψάμην
+r.4   ὑ -
+r.5   με[ῖ]ν δ[ι]ὰ Εὐτυχοῦς τοῦ ἀπὸ Ἰσίου Τρύφωνος διαστολικὰ γ, β μὲν πρὸς γεωργοὺς Μαξί-
+r.6   μου, τὸ [δὲ] ἄλλο πρὸ[ς] Διογ[έ]νην τὸν τοῦ Βε̣λ̣εη ̣( ), εὐθέως δημοσιώσατε αὐτὰ πρὸ τοῦ
+r.7   Φαῶφ[ι ἵ]να μὴ ἐκπρόθεσμα γένηται. ἕτερα δὲ ἀνεπέμφθη Πανεχώτῃ νομικῷ παρʼ οὗ
+r.8   κ̣ο̣μ̣[ίσ]ε̣σθε κα̣ὶ̣ δ̣ό̣τε αὐτῷ (δραχμὰς) ξδ. τὸ χορτόσπερμον πωλήσατε καὶ πύθεσθε
+r.9   τοῦ Ὀ[ ̣]φ[ ̣]λη εἰ χρ[εί]αν ἔχει τοῦ ἀπὸ Ταμπιτεί. αἱ πρόσοδοί μου αἱ διὰ τῶν γεωργῶν
+r.10   διαστ[αλ]εῖσα[ι] ἢ παρὰ τῷ ταμείῳ ἐ[ν π]αραθέσει λογισθήτωσαν ἢ ἐν ἀσφαλεῖ [ἐσ]τω
+r.11   παρὰ [τοῖ]ς γεωργοῖς ἵνα θεῶν θ[ελ]όντων ἐὰν ἀνεθῶσι μὴ ἔχωμεν περιπλο-
+r.12   κὴν π[ρ]ὸς τὸν ἀντίδικον, ἢ ὁ κίνδυνος αὐτῶν ἤτω πρὸς τοὺς γεωργούς. τὴν οἰ-
+r.13   κίαν Τ̣[ ̣ ̣] ̣βιου μὴ μισθώσῃς μηδενὶ εἰ μή τι γυναικὶ μελλούσῃ ἐν αὐτῇ οἰ-
+r.14   κεῖν ̣[ ̣ ̣ ̣ ̣]ατ[ ̣] ̣ρ̣[ ̣]τε ̣[ ̣ ̣ ̣] γ̣ὰρ ̣[ ̣ ̣]ον ἐστὶν τοιαύ[τ]ην οἰκίαν παρα[β]άλλε[ι]ν νεανίσ-
+r.15   κοις ἵ[ν]α μὴ ἔχωμεν στομάχου[ς] μηδὲ φθόνον. εἴπατε Ζωίλῳ τῷ ἀπὸ Σεντὼ
+r.16   γεωργῷ ὅτ[ι] κατὰ τὰς συνθήκας φρόντισον τοῦ χαλκοῦ. εἴπατε καὶ τοῖς διδύμοις ὅτι
+r.17   προ-
+r.18   νοήσ[α]τε τοῦ κερματίου, ὁμοίως καὶ Ἀπολλωνίῳ καὶ Διονυσίῳ ἐὰν ἰσχύσητε πέμψαι
+r.19   εἰς Πα[κέ]ρκη ἀπηλιώτου πρὸς Παυσῖριν τὸν ὀνηλάτην ὅτι καθὼς συνετάξασθέ
+r.20   μοι δοῦναι κεράμια οἴνου καὶ ἵνα τηρήσωσι αὐτῶν τὴν δεξιάν. παράλαβε πα-
+r.21   ρὰ Ἁρθώνιος ἱερέως τὰς τοῦ (πυροῦ) (ἀρτάβας) κ καὶ παρὰ Ζωίλου τοῦ γεωργοῦ τῆς Σεντὼ ἃς κέχρη-
+r.22   ται παρʼ ἐμοῦ πυροῦ (ἀρτάβας) ε. ἐπισκέψασθε ἐκ τοῦ λογιστηρίου τοῦ στρα(τηγοῦ) ἐπιστολ(ὴν) τοῦ διοικητοῦ
+r.23   ἐπὶ τοῦ Θὼθ μηνὸς γραφεῖσαν περὶ τοῦ ὀνόματα πεμφθῆναι ἀντʼ ἐμοῦ εἰς κλῆρον τῆς
+r.24   πρακτο-
+r.25   ρείας. εἴπατε Σερήνῳ τῷ ἐν τῷ καμηλῶνι ὅτι προνόησον τοῦ χαλκοῦ. εἴπατε Ἑρμίᾳ
+r.26   τῷ τ[οῦ Ἰσ]ίου Παγγᾶ γραμματεῖ πρακτόρων ἀργυ(ρικῶν) ὅτι διάστειλον ὃν ὀφείλεις μοι
+r.27   πυρὸν ἢ
+r.28   ὃν ἐ[ὰν δ]οκιμᾷς. Ἡρακλείδης Ἑρμαίσκ[ο]υ ἀποδότω τὰς τοῦ (πυροῦ) (ἀρτάβας) ϛ ἐν θέματι. ε[ἴ]πατε Διο-
+r.29   νυσίῳ Ἐπιμάχου ἀρχιερατεύσαντι ὅτι ἐνέτυχον τῷ διοικητῇ ἕνεκα τῆς προσόδου
+r.30   ἵνα πα[ρα]δεχθῇ εἰς τὸ ὄφλημα Σαραπίωνος Φανίου. ἀσπάσασθε Στατίαν τὴν θυγατέρα μου
+r.31   καὶ Ἡρ[α]κλείδην καὶ Ἀπίωνα τοὺς υἱούς μου. ἀσπάσασθε τὸν μεικρὸν Σερῆνον καὶ Κοπρέα
+r.32   καὶ το[ὺ]ς ἡμῶν πάντας κατʼ ὄνομα. ἀσπάζονται ὑμᾶς Ἀμάραντος καὶ Ζμάραγδος.
+r.33   ἐρρῶσθαι ὑμᾶς εὔχομαι. v
+r.34   ἀπόδος Ἀπίωνι υἱῶι καὶ Ὡρίωνι.
+
+[TRANSLATION]
+1   Apion to Apion his son and Horion his dearest, very many greetings.
+2   Before all I pray that you are in health, with your children and wives. All that
+3   I wrote in the other letter — so as not to write the same again — I write to Horion too. I sent
+4   to you
+5   by Eutyches of Ision Tryphonos 3 notices-of-claim, 2 against the farmers of Maxi-
+6   mus, the other against Diogenes the (son) of Belee.; publish them at once before
+7   Phaoph[i, s]o they do not run past their term. Others were sent up to Panechotes the lawyer, from whom
+8   you will fetch them — and give him 64 dr. Sell the hay-seed, and ask
+9   O.ph.les whether he has need of that from Tampitei. My revenues collected
+10   through the farmers: either let them be reckoned at the treasury on deposit, or let them be in safe keeping
+11   with the farmers, so that, the gods willing, if they are released we have no entangle-
+12   ment with our adversary — or let the risk of them rest on the farmers. The
+13   house of T..bios do not lease to anyone, except perhaps to a woman meaning to live
+14   in it; … for it is […] to expose such a house to young
+15   men — so we get no vexations and no ill-will. Tell Zoilos the farmer from Sento:
+16   “See to the bronze according to the agreements.” Tell the twins too:
+17   “See
+18   to the cash,” and likewise Apollonios and Dionysios; if you are able, send
+19   to Pa[ke]rke-East, to Pausiris the donkey-driver: “Just as you arranged with
+20   me, give the jars of wine — and let them keep their pledged word.” Take over from
+21   Harthonis the priest the 20 artabas of wheat, and from Zoilos the farmer of Sento the 5 artabas of wheat he has
+22   borrowed from me. Look up in the strategos’ account-office the letter of the dioiketes
+23   written in the month Thoth about names being sent in, in my stead, for the allotment of the
+24   collector-
+25   ship. Tell Serenos at the camel-yard: “See to the bronze.” Tell Hermias
+26   the scribe of the money-collectors of Ision Panga: “Transfer the wheat you owe me, or
+27   whatever
+28   you approve.” Let Herakleides son of Hermaiskos repay the 6 artabas of wheat on deposit. Tell Dio-
+29   nysios son of Epimachos, former chief priest, that I petitioned the dioiketes about the revenue,
+30   that it be credited against the debt of Sarapion son of Phanias. Greet Statia my daughter
+31   and Herakleides and Apion my sons. Greet little Serenos and Kopreus
+32   and all ours by name. Amarantos and Zmaragdos greet you.
+33   I pray for your health.
+34   Deliver to Apion my son and Horion.

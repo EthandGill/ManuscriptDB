@@ -1,0 +1,77 @@
+# ---------------------------------------------------------
+# BGU 4.1152 - Repayment release - two loans repaid through Helenos’ bank
+# Source: papyri.info DDbDP bgu;4;1152  (Trismegistos 18601)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1152
+label:    BGU 4.1152
+name:     Repayment release - two loans repaid through Helenos’ bank
+genre:    contracts
+date:     11-10 BCE
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13077 Vo
+content:  Stephanos, freedman of Caesar, acknowledges repayment by Diodoros, through Helenos money-changing bank, of two loans (300 + 200 dr.) with overdue interest; the loan-agreements and a slave-deed are returned
+tm:       18601
+source:   https://papyri.info/ddbdp/bgu;4;1152
+lat:      31.2
+lon:      29.9
+
+[GREEK]
+r.1   Πρωτάρχωι
+r.2   παρὰ Στεφάνου τοῦ Καίσαρος καὶ π̣α̣ρ̣ὰ̣ Δ̣ι̣ο̣δ̣ώ̣ρ̣ο̣υ̣
+r.3   τοῦ Διοδώρου. συγχωρ[εῖ] ὁ Στ[έφα]νος ἀπ(εσ)-
+r.4   χηκέναι παρὰ τοῦ Διοδώρ[ο]υ δ̣ι̣ὰ̣ τ̣ῆ̣ς Ἑ̣λ̣έ̣ν̣ο̣υ̣ κολ-
+r.5   λυβιστικῆς τραπέζης τὰ δάνηα ἃ ἐδάνισεν αὐτῷ
+r.6   κατὰ συνχωρήσις τὰς διὰ τοῦ αὐτοῦ κριτηρίου
+r.7   γεγονυίας δύο τῶι η (ἔτει) Καίσαρος μίαν μὲν Φα-
+r.8   ῶφι ἀργ(υρίου) (δραχμὰς) τ, τὴν δὲ ἑτέραν Φ̣α̣μ̣ε̣ν̣[ὼθ] ἀργυ(ρίου)
+r.9   (δραχμὰς) σ, ἀμφοτέρων δὲ τῶν δανήων καὶ τοὺς
+r.10   τόκους τοῦ ὑπερπεπτωκότος χρόνου, καὶ ε̣ἶ̣ν̣αι
+r.11   ἀκύρους τὰς δηλουμένας συνχωρήσις σὺν ταῖ[ς]
+r.12   γενηθ[είσαις] π̣ρ̣ὸ̣ς̣ ἑκάστην αὐτῶν διαγραφαῖς
+r.13   διὰ Τετ̣ ̣ ̣ ̣ τ̣ο̣ῦ̣ ἰ̣δ̣ί̣ο̣υ̣ ̣ ̣ ̣ ̣ κ̣α̣ὶ̣ Δημητρίου κολλυβιστικῆς
+r.14   τραπέζης, μὴ ἐπελεύσεσθαι δὲ τὸν Στέφα-
+r.15   νον μηδʼ ἄλλον ὑπὲρ αὐτοῦ ἐπὶ τὸν Διόδω-
+r.16   ρον μ̣η̣δ̣ὲ̣ π̣ε̣ρ̣ὶ̣ τῶν αὐτῶν μηδὲ περὶ ἄ[λλο]υ μηδε-
+r.17   νὸς ἁπ̣λ̣ῶ̣ς ἐνγράπτου ἢ ἀγράφου ἀπ[ὸ τῶ]ν ἔν̣-
+r.18   προ[σθεν] χρόνων μέχρι τῆς ἐνεστώ[σ]ης ἡμέ-
+r.19   ρας ἢ χωρὶς τοῦ κύρια ἶ̣ν̣α̣ι̣ τὰ σ[υ]νκεχ[ωρη]μ̣έ̣ν̣α̣
+r.20   ἐνέχεσθαι αὐτὸν τοῖς τε βλάβεσι κ̣α̣[ὶ τῷ] ὡ̣ρ̣[ισ-]
+r.21   μένῳ προστίμῳ. συνχωρῖ δὲ καὶ ὁ Δ[ιό]δω[ρος]
+r.22   ἀνακεκομίσθαι πα[ρὰ τ]οῦ Στεφάνου ἃ̣ ἔ̣[δω]κεν
+r.23   αὐτῷ [κ]ατ̣ὰ̣ τ̣ὴ̣ν̣ π̣α̣ρ̣ὰ̣ τοῦ Φαῶφι μ̣η̣ν̣[ὸς] σ̣υ̣ν̣-
+r.24   χώρησ̣ι̣ν̣ βυβλία ̣ ̣ ̣ω̣[ ̣]θ̣[ ̣]ν π̣άντα̣ [καὶ ἀντί-]
+r.25   γραφον σ[υ]νχωρή[σ]εως κ̣ατὰ δο̣ύ̣λ̣[ου, ὁ-]
+r.26   π̣ο̣ῖ̣α̣ πα[ρ]έδωκεν.
+
+[TRANSLATION]
+1   To Protarchos,
+2   from Stephanos (freedman) of Caesar and from Diodoros
+3   son of Diodoros. Stephanos concedes that he has re-
+4   ceived from Diodor[o]s, through the money-changing
+5   bank of Helenos, the loans he lent him
+6   according to the agreements made through the same tribunal,
+7   two, in the 8th (year) of Caesar: one in Pha-
+8   ophi, 300 silver dr., the other in Phamen[oth],
+9   200 silver dr.; and, of both loans, the
+10   interest of the overdue time; and that
+11   the said agreements are void, together with the
+12   bank-payments made toward each of them
+13   through Tet... his own ... and Demetrios’ money-changing
+14   bank; and that Stepha-
+15   nos will not proceed, nor any other on his behalf, against Diodo-
+16   ros, neither about the same nor about any-
+17   thing else at all, written or unwritten, fr[om] times
+18   [pa]st up to the present
+19   day; or - the agreed terms not being valid -
+20   he is liable both for the damages an[d the] ap-
+21   pointed fine. And D[io]do[ros] too concedes
+22   that he has recovered from Stephanos what he [ga]ve
+23   him according to the agreement of the month Phaophi -
+24   the documents ..., all of them, [and a co]-
+25   py of the agreement concerning the sl[ave,]
+26   such (documents) as he handed over.

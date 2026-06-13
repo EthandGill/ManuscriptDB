@@ -1,0 +1,57 @@
+# ---------------------------------------------------------
+# P.Oxy 2.256 - Census declaration of a household in the Goose-keepers' quarter
+# Source: papyri.info DDbDP p.oxy;2;256  (Trismegistos 20526)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.256
+label:    P.Oxy 2.256
+name:     Census declaration of a household in the Goose-keepers' quarter
+genre:    documents
+date:     ca. 34
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    New York, Union Theological Seminary P. Oxy. 256
+content:  A fragmentary census return from Oxyrhynchus listing the persons resident in a house in the Chenoboskon (Goose-keepers') quarter, with each individual's age and physical description.
+tm:       20526
+source:   https://papyri.info/ddbdp/p.oxy;2;256
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   [ ] ̣ρ( )
+r.2   [παρὰ καὶ ἀμφ]οτέρων Θ[ο]ώνιος καὶ τῆς {της} ἀδ[ελ-]
+r.3   [φῆς Ταμε]ννέως τῆς [ ̣] ̣ ̣[ ̣ ̣ ̣ ̣ ̣]ς̣ ἑκατέρας̣ μετὰ
+r.4   [κυρίου μὲν ]ρ̣ωτ[ο]ς τοῦ Ἀπολλοφάνους, Ταῶτος δὲ
+r.5   [ ]κου, Ταμεννέως δὲ τοῦ ἀνδρὸς
+r.6   [ εἴσιν οἱ κα]ταγεινόμενοι ἐν τῇ ὑπαρχούσῃ
+r.7   [ἡμῖν καὶ με]τόχ[ο]ις οἰκίᾳ λαύρας Χηνοβοσ[κῶν]
+r.8   [ ] ὧν εἶναι·
+r.9   [ ]θεως ἄτεχ(νος) (ἐτῶν) μέ(ς ) μελίχ(ρως) μα(κρο)πρό(σωπος) ἄση(μος)
+r.10   [ ] ὑπόστραβος.
+r.11   [ ]ρα̣( ) Κρονίο(υ) ἀφῆ(λιξ) [(ἐτῶν) ̣ μέ(σος)] μελίχ(ρως) [στ]ρ[ο]γ(γυλοπρόσωπος) ἄση(μος).
+r.12   [ ]ρησκ( ) Τασεῦτος γ(υνὴ) τοῦ Κρονίου ἄτεχ(νος)
+r.13   [ ] στρογγ(υλο)πρό(σωπος) καρπῷ δεξ(ιῷ).
+r.14   [ Κρον]ίου ἀφῆ(λιξ) ἄτεχ(νος) ὡς (ἐτῶν) ε ἄσημος.
+r.15   [ ] ̣ προγεγρα(μμέν ) προαπογραφον το̣ εν̣[ ̣ ̣ ̣]
+r.16   [ λ]α̣ύ̣ρας [ ̣ ̣ ̣ ̣ ̣]η[ ̣ ̣] ̣[ ̣] ̣ ̣κ̣ ̣ ̣ ̣ετ̣[ ]
+
+[TRANSLATION]
+1   [ ... ] ...r( )
+2   [from both,] the sons of Th[o]onis and of his sis[ter]
+3   [Tame]nneus the [...] ... [.....], each of them with
+4   [as guardian] ...rotos son of Apollophanes, and Taos with
+5   [ ...]kou, and Tamenneus with her husband
+6   [ ... are those who are re]sident in the house belonging
+7   [to us and our par]tners in the quarter of the Goose-keepe[rs],
+8   [ ... ] of whom there are:
+9   [ ...]theos, without a trade, aged 45, medium height, honey-colored complexion, long-faced, no distinguishing mark,
+10   [ ... ] somewhat squinting.
+11   [ ...]ra( ) son of Kronios, a minor, [aged ., medium height,] honey-colored complexion, [ro]und-faced, no distinguishing mark.
+12   [ ...]reesk( ) daughter of Taseus, wife of Kronios, without a trade,
+13   [ ... ] round-faced, (scar) on the right wrist.
+14   [ ... son of Kron]ios, a minor, without a trade, about 5 years old, no distinguishing mark.
+15   [ ... ] the aforewritten ... previously registered the ... in ... [...]
+16   [ ... of the qu]arter [.....]e[..] ... ... ...et... [ ]

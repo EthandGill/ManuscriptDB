@@ -1,0 +1,75 @@
+# ---------------------------------------------------------
+# P.Oxy 1.106 - Revocation of a will before the agoranomoi
+# Source: papyri.info DDbDP p.oxy;1;106  (Trismegistos 20765)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.106
+label:    P.Oxy 1.106
+name:     Revocation of a will before the agoranomoi
+genre:    documents
+date:     20. Apr. 135
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Chicago, Haskell Oriental Institute 2065
+content:  A servant of the former strategos Demetrios notifies the agoranomoi of Oxyrhynchos that Ptolema daughter of Straton has, at her own request and through him, taken back the will she had deposited under seals, with her subscription.
+tm:       20765
+source:   https://papyri.info/ddbdp/p.oxy;1;106
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   ἀγορανόμοις Ὀξυρύγ-
+r.2   χων πόλεως Ἀπολλώνι-
+r.3   ος Πτολεμαίου ὑπηρέ-
+r.4   της. ἀπήνγειλα ὑμεῖν
+r.5   τὸν τοῦ νομοῦ στρ(ατηγήσαντα) Δημή-
+r.6   τριον συντεταχέναι
+r.7   ἀναδοῦναι Πτολέμᾳ
+r.8   Στράτωνος μητρὸς Διονυ-
+r.9   σίας ἀπʼ Ὀξυρύγχων πό-
+r.10   λεως ἣν ἔθετο διʼ ὑμῶν
+r.11   τῶι θ (ἔτει) θεοῦ Τραιανοῦ
+r.12   Μεχεὶρ ἐπὶ σφραγίδων
+r.13   διαθήκην, τοῦτο ἀξιω-
+r.14   σάσης αὐτῆς, ἣν καὶ διʼ ἐ-
+r.15   μοῦ ἀνέλαβεν. ἔτους
+r.16   ἐννεακαιδεκάτου
+r.17   Αὐτοκράτορος Καίσαρος
+r.18   Τραιανοῦ Ἁδριανοῦ
+r.19   Σεβαστοῦ, Φαρμοῦθι κε.
+r.20   (hand 2) Πτολέμα Στράτωνος ἀνέλαβον τὴν
+r.21   προκειμένην μου διαθήκην ἐπὶ τῶν
+r.22   αὐτῶν σφραγείδων . Πέδων Καλλι-
+r.23   στράτου ἐπιγέγραμμαι αὐτῆς κύριος
+r.24   καὶ ἔγραψα ὑπὲρ αὐτῆς μὴ εἰδυίης γράμ(ματα).
+r.25   χρόνος ὁ αὐτός.
+
+[TRANSLATION]
+1   To the agoranomoi of Oxyryn-
+2   chos, (from) Apollon-
+3   ios son of Ptolemaios, servant.
+4   I have reported to you
+5   that the former strategos of the nome, Deme-
+6   trios, has given orders
+7   to hand over to Ptolema
+8   daughter of Straton, mother being Diony-
+9   sia, from the city of Oxyrhynchos,
+10   the will which she deposited through you
+11   in the 9th year of the deified Trajan,
+12   (in the month) Mecheir, under seals,
+13   the will, this being what she re-
+14   quested herself, which (will) also through
+15   me she took back. In the year
+16   the nineteenth
+17   of the Emperor Caesar
+18   Trajan Hadrian
+19   Augustus, Pharmouthi 25.
+20   (hand 2) I, Ptolema daughter of Straton, have taken back my
+21   aforementioned will under the
+22   same seals. I, Pedon son of Calli-
+23   stratos, have been registered as her guardian
+24   and have written on her behalf, since she does not know letters.
+25   The date is the same.

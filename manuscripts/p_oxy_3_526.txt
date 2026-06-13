@@ -1,0 +1,53 @@
+# ───────────────────────────────────────────────
+# P.Oxy 3.526 — Letter — Kyrillos: “I was not unfeeling to leave you”
+# Source: papyri.info DDbDP p.oxy;3;526  (Trismegistos 28366)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy 3.526
+label:    P.Oxy 3.526
+name:     Letter — Kyrillos: “I was not unfeeling to leave you”
+genre:    letters
+date:     first half of 2nd century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Philadelphia, University of Pennsylvania Museum E 2802
+content:  An apology for sudden departure, with a proverb about tenfold interest; “I am going up with the dancer — I would not break my word”
+tm:       28366
+source:   https://papyri.info/ddbdp/p.oxy;3;526
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   χαίροις Καλόκαιρε,
+r.2   Κύριλλός σε προσαγο-
+r.3   ρεύω. οὐκ ἤμην ἀπα-
+r.4   θὴς ἀλόγως σε κατα-
+r.5   λείπιν , οὐ γάρ τις λαν-
+r.6   βάνων τοῦ Τῦβι τὸν
+r.7   τόκον δεκαπ̣λ̣ο̣[ῦν] κε-
+r.8   φάλαιον κομείζ[ει] [. ἀλλὰ]
+r.9   ἀναβένω σὺν [τῷ ὀρ-]
+r.10   χηστῇ· εἰ καὶ μὴ ἀ[νέ-]
+r.11   βενε ἐγὼ τὸν λόγον
+r.12   μου οὐ παρέβενον .
+r.13   εὐτύχει. v
+r.14   [ἀ]πό(δος) Καλοκαίρῳ.
+
+[TRANSLATION]
+1   Greetings, Kalokairos —
+2   I, Kyrillos, address
+3   you. I was not un-
+4   feeling, to leave you
+5   without reason; for no one,
+6   collecting in Tybi his
+7   interest tenfold, re-
+8   ceives the principal. [But]
+9   I am going up with [the dan-]
+10   cer; even if he were not go-
+11   ing up, I would not break
+12   my word.
+13   Good fortune.
+14   Deli(ver) to Kalokairos.

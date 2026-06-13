@@ -1,0 +1,55 @@
+# ───────────────────────────────────────────────
+# P.Oxy 2.291 — Letter — the strategos Chaireas orders the tax statements ready
+# Source: papyri.info DDbDP p.oxy;2;291  (Trismegistos 20562)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy 2.291
+label:    P.Oxy 2.291
+name:     Letter — the strategos Chaireas orders the tax statements ready
+genre:    letters
+date:     25–26 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    London, British Library Pap 800
+content:  Chaireas tells the dioiketes Tyrannos to write up the grain and money statements of year 12 at once — “act the man and collect”
+tm:       20562
+source:   https://papyri.info/ddbdp/p.oxy;2;291
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Χαιρέας Τυράννωι τῶι φιλτάτωι
+r.2   πλεῖστα χαίρειν.
+r.3   [τὴν] ἔκχθεσιν τοῦ ιβ (ἔτους) Τιβερίου
+r.4   Καί[σαρ]ος Σεβαστοῦ σειτικὴν καὶ
+r.5   ἀρ[γ]υρικὴν εὐθέως γράψον,
+r.6   ἐ[πεὶ] Σεουῆρος μοι ἐνετείλατο
+r.7   πρὸς ἀπαίτησιν· καὶ προέγρα-
+r.8   ψ[ά σοι] ἀνδραγαθῖ[ν] καὶ ἀπαιτεῖν
+r.9   μ[έχ]ρι ὑγια[ί]νων παρ[α]γένωμαι.
+r.10   [μὴ ο]ὖν ἀμελήσῃς καὶ τὰ ἀπὸ
+r.11   [ ̣ (ἔτους) μ]έχρι ια (ἔτους) ἑτο[ῖ]μα ποίησον
+r.12   [εἰς τὴ]ν ἀπαίτησιν σιτικὰ καὶ
+r.13   [ἀργυρικά].
+r.14   ἔρρωσο. v
+r.15   Τυράννωι διοικητῆι.
+
+[TRANSLATION]
+1   Chaireas to Tyrannos his dearest,
+2   very many greetings.
+3   [The] statement of the 12th year of Tiberius
+4   Caesar Augustus, in grain and
+5   in silver, write up at once,
+6   since Severus has charged me
+7   with the collection; and I have already writ-
+8   ten [you] to act the man and to collect
+9   until I arrive in good health.
+10   Do [not] neglect it, then, and make ready
+11   also those from the [.. year] up to the 11th year
+12   [for th]e collection, in grain and
+13   [in silver].
+14   Farewell.
+15   To Tyrannos, dioiketes.

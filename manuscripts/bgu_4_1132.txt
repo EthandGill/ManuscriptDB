@@ -1,0 +1,107 @@
+# ---------------------------------------------------------
+# BGU 4.1132 - Contract Reciting Four Prior Loan Agreements
+# Source: papyri.info DDbDP bgu;4;1132  (Trismegistos 18576)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1132
+label:    BGU 4.1132
+name:     Contract Reciting Four Prior Loan Agreements
+genre:    contracts
+date:     nach 24. Juni 14 v.Chr.
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13079 Vo
+content:  A contract before Protarchos in which Ammonios son of Dionysios and Alexandros son of Nikodemos the Macedonian recite four earlier agreements involving loans, interest, mortgaged inundated land near the village of Syron, cessions of property and bank transactions through the bank of Marion and Theogenes, dated after 24 June 14 BC.
+tm:       18576
+source:   https://papyri.info/ddbdp/bgu;4;1132
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   Πρωτάρχωι
+r.2   παρὰ Ἀμμωνίο(υ) τοῦ Διονυσίο(υ) Ζη(νείου) καὶ παρὰ Ἀλεξάνδρου τοῦ Νικοδείμου
+r.3   Μακεδό(νος). ἐπεὶ κατὰ τὰς διὰ τοῦ κριτηρίου τετελειωμένας ὑπό τε
+r.4   τοῦ Ἀμμωνίου καὶ ἔτι τοῦ μετηλλαχότος τοῦ Ἀλεξάνδρου ἀδελφοῦ
+r.5   Θεοδώρου τοῦ Νικοδε̣ί̣μου συνχωρήσεις δ σημαίνεται
+r.6   κατὰ μὲν μίαν τῶι ιε (ἔτει) Καίσαρος Θωῦθ τὸν Ἀμμώνιον
+r.7   πρὸς ἃς ἐδάνεισεν τῶι Θεοδώρωι κατὰ μνημονικὴν συγ-
+r.8   γραφὴν κ̣α̣ὶ̣ κατὰ δ̣ι̣α̣γραφὴ(ν) δ̣ι̣ὰ̣ τῆ(ς) Μ̣α̣ρ̣ί̣ο̣ν̣ο̣ς̣ καὶ [Θεο]γ̣έ̣ν̣ο̣(υς)
+r.9   τραπ(έζης) (δραχμὰς) φ καὶ τόκους προσβεβλ̣ῆ̣σθαι διὰ τῶν πρακτόρων
+r.10   τῶν τοῦ Θεοδώρου ὑπαρχόντων ἐν τῷ Αὐρινείτῃ τῆς
+r.11   Ἀλεξανδ(ρέων) χώρα(ς) περὶ κώμην Σύρων γύου ϛ ἐπισήμου Π̣α[ι-]
+r.12   δέρωτος καὶ Ἀβρυτάνου γῆν χέρσον κατακεκλυσμένην
+r.13   ἥ ἐστιν ἀρου(ρῶν) θδ´ιϛ´λβ´ κ[ο]ινῶν τὸ περιλελιμμένον αὐτῶι
+r.14   μέρος (ἥμισυ) καὶ ἐν τῶι αὐτῶι γύω̣ι̣ καὶ ἐπ(ισήμῳ) ἄλλην ἐχομένην χέρσ(ον)
+r.15   ἐκ τοῦ πρὸς νότον μέρους ὁμοίως κατακεκλυσμένην ἀρου(ρῶν) ε
+r.16   καὶ ἐν τῶι αὐτῷ γύωι καὶ ἐπ(ισήμῳ) ὁμοίως κατακεκλυσμένην ἀρού(ρας)
+r.17   ἥμισυτέταρτονἑκκαιδέκατον καὶ παρακεχωρῆσθαι τὸν αὐτὸν
+r.18   Ἀμμώνιον παρὰ τοῦ Θεοδώρου διὰ τῶν πρακτόρων προσβολὴν τῶν
+r.19   πρότερον Ἀριστίου τῆς Ἀ̣ρ̣ι̣σ̣τ̣ί̣ω̣νος ἐπο̣ι̣κίου ἐν τῇ Σύρων κώμῃ καὶ
+r.20   τῶν συνκυρόντων ἐργαστηρίων καὶ ψιλῶν τόπων καὶ οἰκοπέδων
+r.21   εἰληφέ(ναι) τ̣ε τὸν αὐτὸν Ἀμμώνιον παρὰ τοῦ Θεοδώρου ἀπὸ τῶν τοῦ ἀργυρίο(υ)
+r.22   δραχ(μῶν) φ (δραχμὰς) σ καὶ πεπληρῶσθαι τ̣ο̣ῖ̣ς̣ τ̣ῶ̣ν̣ φ̣ (δραχμῶν(?)) τόκοις ἕως τοῦ ση-
+r.23   μανθέντος χρόνου, ἔτι δὲ καὶ εἰληφέναι
+r.24   εἰς τὸ̣ν̣ τῆ̣ς̣ π̣ρ̣ο̣σ̣β̣ο̣λῆς λόγο(ν) ὧν παρε-
+r.25   χώρησεν αὐτῶι τῶ̣ν̣ Ἀρι̣σ̣τ̣ί̣ο̣υ̣ ἀ̣ρ̣γ̣υ̣(ρίου) (δραχμῶν) ̣, κατὰ δὲ ἑτέραν
+r.26   τὴν γεγο(νυῖαν) τῶι αὐτῶι (ἔτει) Φαῶ̣φ̣ι̣ σημαίνεται τά τε προκείμ(ενα)
+r.27   καὶ λοιπῶν οὐσῶν ἐν τῶι Θεοδώρωι ἀπὸ τῶν τοῦ ἀργυ(ρίου) (δραχμῶν) φ
+r.28   δραχ(μῶν) τ προσδεδανεῖσθαι παρὰ τ̣ο̣ῦ̣ Ἀ̣μ̣μ̣ω̣ν̣ί̣ο̣υ̣ διὰ τῆς τε ̣
+r.29   αὐτῆς τραπ(έζης) ἄλλας ἀργυ(ρίου) (δραχμὰς) φ, ὥστε γίνεσθαι ἐν τῶι Θεοδ(ώρωι) (δραχμὰς) ω,
+r.30   ὧν καὶ ἀνενηνοχέναι εἰς τ̣ὸ̣ν̣ Ἀ̣μ̣(μώνιον) ἐν τῇ αὐτῇ
+r.31   συνχωρή̣(σει) δανείου συνχώρη(σιν), κατὰ δὲ τὴν τρίτην
+r.32   τὴν γεγο(νυῖαν) τῶι ιϛ (ἔτει) Καίσαρο(ς) Ἁθὺρ δηλοῦται τὰς προτέρας
+r.33   συνχωρή(σεις) ἀναφ̣έρ̣ε̣σθαι καὶ προσδεδανεῖσθαι τὸν Θεόδωρο(ν) παρὰ
+r.34   τοῦ Ἀμμω(νίου) διὰ τῆς αὐτῆς Μαρίονο(ς) καὶ Θεογένο(υς) τραπέζης
+r.35   ἐν μὲν τῶι Ἁθὺρ ἄλλας (δραχμὰς) σ, ὥστε
+r.36   γενέσθαι ἐντ̣ὸ̣ς̣ μ̣[ηνῶν κζ τὰς π(?)]ά̣σ̣α̣ς̣(?) ἀργυ(ρίου) (δραχμὰς) Ασ, ἃς καὶ ω̣ ̣
+r.37   […]ωι[ ̣ ̣]ε̣[ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣] δ̣ι̣α̣γ̣ρ̣α̣ψ̣ε̣( ) … τὰ̣ς προκ(ειμένας) συνχωρή(σεις) τῶι Θεοδώρῳ
+r.38   [… συν]χώρη(ς ), κατὰ δὲ τὴν τετάρτην
+r.39   [συνχώρησιν τὴν γεγονυῖαν] τῶι αὐτῶι ιϛ (ἔτει) Καίσαρο(ς) Πα̣ῦ̣ν̣ι̣ ̣ ̣.
+r.40   μὴ οὔσης τῆς βεβαιώσεως τ(ῆ)ς προκ(ειμένης) προσβο(λῆς) <πρὸς> Ἀμμώνιον διὰ τῆς διὰ
+r.41   τῶν πρακτ(όρων) συγχωρήσεως ̣ ̣ ̣ ̣
+
+[TRANSLATION]
+1   To Protarchos,
+2   from Ammonios son of Dionysios of the Zeneion (deme) and from Alexandros son of Nikodemos
+3   the Macedonian. Since, according to the agreements completed through the tribunal by
+4   Ammonios and also by the deceased brother of Alexandros,
+5   Theodoros son of Nikodemos, four agreements are indicated:
+6   according to one, in the 15th year of Caesar, in Thoth, Ammonios
+7   with respect to (the sums) he lent to Theodoros under a memorandum-
+8   contract and under a diagraphe through the bank of Marion and [Theo]genes,
+9   (of) 500 (drachmas), and that interest had been added through the agents
+10   from the property of Theodoros in the Aurinites of the
+11   territory of the Alexandrians, near the village of Syron, of plot 6, of the parcel of P[ai-]
+12   deros and Abrytanos, dry land overflowed (by inundation),
+13   which is of arouras 9 1/4 1/16 1/32, held in common, the remaining
+14   share to him (being) (a half) and in the same plot and parcel another adjacent dry (land)
+15   on the side toward the south, likewise overflowed, of arouras 5,
+16   and in the same plot and parcel, likewise overflowed, arouras
+17   1/2 1/4 1/16, and that there had been ceded to the same
+18   Ammonios by Theodoros, through the agents, an additional claim of the (properties)
+19   formerly of Aristios, of the homestead of Aristion in the village of Syron, and
+20   of the adjoining workshops and vacant lots and house-plots,
+21   and that the same Ammonios had received from Theodoros, out of the silver
+22   of 500 drach(mas), 200 (drachmas), and had been paid the interest on the 500 (drachmas(?)) up to the
+23   indicated time, and further also had received
+24   into the account of the additional claim, of those (sums) which he
+25   ceded to him, of the (property) of Aristios, of silver (drachmas) [.], and according to another (agreement),
+26   the one made in the same year, in Phaophi, are indicated both the aforesaid things
+27   and that, of (the sums) remaining with Theodoros out of the silver of 500 (drachmas),
+28   300 drach(mas) had been further lent by Ammonios through the same
+29   bank, another 500 of silver (drachmas), so that there came to be with Theodoros 800 (drachmas),
+30   of which also he had carried over to Ammonios, in the same
+31   agreement, a loan-agreement, and according to the third,
+32   the one made in the 16th year of Caesar, in Hathyr, it is shown that the earlier
+33   agreements were carried over and that Theodoros had been further lent by
+34   Ammonios, through the same bank of Marion and Theogenes,
+35   in Hathyr another 200 (drachmas), so as
+36   to come, within m[onths 27, the t(otal)] of(?) silver (drachmas) 1200, which also[...]
+37   [...]oi[...]e[...] to pay( ) ... the aforesaid agreements to Theodoros
+38   [... agree]ment( ), and according to the fourth,
+39   [the agreement made] in the same 16th year of Caesar, in Pauni[...].
+40   There being no guarantee of the aforesaid additional claim <against> Ammonios through the
+41   agreement made through the agents[...]

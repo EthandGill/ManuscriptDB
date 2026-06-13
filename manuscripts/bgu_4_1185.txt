@@ -1,0 +1,83 @@
+# ---------------------------------------------------------
+# BGU 4.1185 - Royal Decree of Amnesty for the Katoikoi
+# Source: papyri.info DDbDP bgu;4;1185  (Trismegistos 5554)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1185
+label:    BGU 4.1185
+name:     Royal Decree of Amnesty for the Katoikoi
+genre:    documents
+date:     nach 61 - 60 v.Chr.
+language: Greek (Koine)
+found:    Herakleopolite nome, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13183
+content:  A royal decree (after 61-60 BCE) from the Herakleopolite nome granting amnesty to the katoikic cavalry for their loyalty, freeing them from accusations and debts and confirming the heredity of their kleroi.
+tm:       5554
+source:   https://papyri.info/ddbdp/bgu;4;1185
+lat:      29.0772
+lon:      30.9342
+
+[GREEK]
+r.1   [βασιλέως προσ]τ̣ά̣ξαντος
+r.2   […]α̣μ̣εθ̣[α] τ̣ο̣ὺ̣ς̣ [κ]α̣τ̣ο̣[ί]κους ἱππεῖς τετηρηκότας
+r.3   [τὴν ἀπὸ τῶν προγό]νων εἰς τὰ π̣ρ̣άγματα εὔνοιαν καὶ ἐν τοῖς
+r.4   [… ἀνά]γκῃ ἐπείγουσι κα[ιρ]οῖς τούς τε σιτικ[οὺς] καὶ
+r.5   [χρυσικοὺς] σ̣τ̣ε̣φ̣[ά]νους ἀνεμποδίστως εἰσενηνοχότας
+r.6   [ἀπολύεσθαι] μὲν σὺν γυναιξὶ καὶ τέκνοις καὶ ̣[ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.7   [ ̣ ̣ ̣ ̣ ̣ ἀγν]ο̣η[μ]άτων ἁμαρτημάτων καταγνωσμάτω̣[ν]
+r.8   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ω]ν σκεπεστικῶν αἰτιῶν πασῶν ἐπιγραφῶ̣[ν]
+r.9   [ζη]μ̣ι̣ῶ̣ν παραλογηῶν ἐπιτείμων προστε[ί]μ[ων]
+r.10   […] τ̣οῦ ιθ (ἔτους) [ὀ]φειλημάτων βασιλικῶν πάντω[ν]
+r.11   […]ο̣υ̣λ̣[ ̣ ̣ ̣ ̣ ̣] τισὶν τούτων προσηγμένοις
+r.12   [… ἀ]πὸ [τοῦ ι]ϛ _(?)_ (ἔτους)· μένειν δʼ αὐτοῖς οὓς κατεσ-
+r.13   [χήκασι κλήρους καὶ τοῖς] ἐ̣ν̣γόνοις σὺν τοῖς σταθμοῖς
+r.14   [… ἀσυκοφαντήτοις καὶ ἀ]κατη-
+r.15   [γορήτοις καὶ ἀνεπιλήμπτοις πάσης αἰτίας οὖσιν]
+r.16   βασιλικά. ἐὰν δέ τινες ἐξ αὐτῶν τελευτήσωσι
+r.17   ἀδιάθετοι, ἔρχεσθαι τοὺς κλήρους τούτων εἰς
+r.18   τοὺς ἔγγιστα γένους καθότι καὶ ἐπὴ̣ τῶν Ἀρσινο-
+r.19   ειτῶν ἐστιν. καὶ τοὺς ἀμπελῶνας καὶ παραδείσους
+r.20   ὧν τετελέκασι εἰς τὴν τοῦ κα (ἔτους) γεωμετρίαν δύσ-
+r.21   βροχον δ[ι]ὰ τὸ λείαν ὑψηλὴν εἶναι καὶ εἰς ἀμπέ-
+r.22   λου καὶ παραδείσων φυτείαν καὶ ἄλλα α̣ὐ̣τὰ μό̣ν̣ο̣ν̣-
+r.23   τα ἀργυρικὰ καὶ σιτικὰ ἀτελείας καὶ ταύταις μερι-
+r.24   σθείσης. τοῖς θεοῖς ἀνιερώσεων καὶ μισθώσεων δὲ
+r.25   καὶ εἰς τὸ λοιπὸν μηδένα αἰτεῖσθαι μηδὲ κατα-
+r.26   καλεῖσθαι ἀπὸ μηδεν κρατήσεις συνίστασθαι
+r.27   ἀκολούθως τοῖς ἀπὸ συνκρισεις καὶ ἐπὶ ἄλλα ἐπι-
+r.28   κεχωρήκαμεν διʼ ἄλλων ὰ τά τε τείμια καὶ τοὺς ἐθισμοὺς
+r.29   μηδέν̣α̣ ̣ ̣[ ̣ ̣ ̣ ̣ ̣]φ̣[ ]
+
+[TRANSLATION]
+1   The king having ordered:
+2   we [...] the katoikic cavalry who have kept
+3   the goodwill toward affairs [from their fore]fathers and in the
+4   [...] times pressing with necessity, having contributed both the grain and
+5   the [gold] crowns without hindrance,
+6   [to be released] together with their wives and children and [...]
+7   [...] of errors, sins, condemnations,
+8   [...] of sheltering charges, of all accusations, of registrations,
+9   of penalties, of overcharges, of fines, of surcharges
+10   [...] of the 19th year, of all royal debts
+11   [...] those brought to account for any of these,
+12   [...] from the 16th(?) year; and that there remain to them the kleroi which
+13   they have held, and to their descendants, together with the billet-quarters,
+14   [... free from sycophantic charge and] unac-
+15   [cused and unimpeachable, free of every charge being]
+16   royal (property). And if any of them should die
+17   intestate, the kleroi of these are to pass to
+18   those nearest in kin, just as is the case also among the Arsino-
+19   ites. And the vineyards and orchards
+20   of which they have paid into the survey of the 21st year as poorly-
+21   irrigated because it is very high-lying, and into vine-
+22   and orchard-planting, and other things only [...]-
+23   ing, immunities of money- and grain-dues, these also being appor-
+24   tioned. And of dedications to the gods and of leases
+25   also for the future let no one make demand nor be
+26   summoned; from no one shall claims of possession be established
+27   in accordance with those from comparison(?), and to other matters we have
+28   made concession through others [...] both the privileges and the customs
+29   no one [...]

@@ -1,0 +1,53 @@
+# ---------------------------------------------------------
+# P.Oxy 3.516 - Order to the sitologoi - pay out wheat from deposit
+# Source: papyri.info DDbDP p.oxy;3;516  (Trismegistos 20647)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.516
+label:    P.Oxy 3.516
+name:     Order to the sitologoi - pay out wheat from deposit
+genre:    documents
+date:     17 Nov 160 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Philadelphia, University of Pennsylvania Museum E 2799
+content:  Dionysios, sacred victor and former exegetes, instructs the granary-keepers of the Kerkeurosis district to pay Apion 25½ artabas 9 choinikes of wheat from his deposit
+tm:       20647
+source:   https://papyri.info/ddbdp/p.oxy;3;516
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Διονύσιος Φαύστου τοῦ καὶ
+r.2   Ἀμφείονος τῶν ἱερονικ(ῶν)
+r.3   καὶ ἐξηγητευκότ(ων) τῆς Ὀξυ(ρυγχιτῶν)
+r.4   πόλεως διὰ Ὡρίωνος γραμματ(έως)
+r.5   σιτολ(όγοις) μέσης τοπ(αρχίας) Κερκευ(ρώσεως) τόπ(ων)
+r.6   χαίρειν. διαστείλατε
+r.7   ἃς ἔχετέ μου ἐν θέματι
+r.8   πυροῦ γενήμ(ατος) τοῦ διελ(θόντος) κγ (ἔτους)
+r.9   Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.10   Ἀπίωνι Ἀπίωνος ἀρτάβ(ας)
+r.11   εἴκοσι πέντ[ε] ἥμισυ χοί(νικας) ἐννέα,
+r.12   (γίνονται) (ἀρτάβαι) κε𐅵 χ(οίνικες) θ. (ἔτους) κδ Ἀντωνείνου
+r.13   Καίσαρος τοῦ κυρίου Ἀθύρ κα.
+r.14   (hand 2) Ἀπίων Ἀπίω(νος) ἐπήνεγκα.
+
+[TRANSLATION]
+1   Dionysios son of Faustus also called
+2   Amphion, of the sacred victors
+3   and former exegetes of the city of the Oxy(rhynchites),
+4   through Horion (his) secretary,
+5   to the sitologoi of the middle toparchy, district of Kerkeurosis,
+6   greeting. Pay out
+7   from what you hold on deposit of mine,
+8   of wheat of the produce of the past 23rd year
+9   of Antoninus Caesar the lord,
+10   to Apion son of Apion, artabas
+11   twenty-five and a half, nine choin(ikes),
+12   total 25 1/2 art., 9 choin. Year 24 of Antoninus
+13   Caesar the lord, Hathyr 21.
+14   I, Apion son of Apion, presented (it).

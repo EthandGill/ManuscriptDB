@@ -1,0 +1,83 @@
+# ---------------------------------------------------------
+# P.Fay. 100 - Bank order - pay out the price of a half house-share
+# Source: papyri.info DDbDP p.fay;;100  (Trismegistos 10767)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Fay. 100
+label:    P.Fay. 100
+name:     Bank order - pay out the price of a half house-share
+genre:    documents
+date:     23 Jan 99 CE
+language: Greek (Koine)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10793
+content:  Aphrodous instructs the banker to pay two women (each with husband-guardian) 300 drachmas apiece — 600 on deposit — as the price of a half share of a house and court at Theadelphia; both women sign by their husbands
+tm:       10767
+source:   https://papyri.info/ddbdp/p.fay;;100
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   Ἀφροδοῦς Σατ[ύ]ρ[ο]υ με[τὰ] κυρίου τοῦ συν-
+r.2   γενοῦς Ἀμμωνίου τοῦ Ἡρ[α]κλείδου Σαμβᾷ
+r.3   τῷ καὶ Διδύμῳ τραπ[ε]ζ[ε]ίτῃ χα[ί]ρειν. χρη-
+r.4   μάτισον Χαριτίῳ τῇ καὶ Τασουχαρίῳ
+r.5   Χαριδήμου καὶ Χαρ[ι]τίῳ Διδύμου
+r.6   μετὰ κυρίων ἑκάστ[η]ς τοῦ ἀνδρός, τ[ῇ]
+r.7   μὲν Χαριτίῳ τῆς καὶ Τα[σ]ουχαρίῳ Ἀπολλω-
+r.8   ν[ί]ου τοῦ Ἀπολλω[νί]ου, [τ]ῇ δὲ ἑτέρᾳ Χα-
+r.9   ριτίῳ Ἥρωνος τοῦ Διδύμου, τιμὴν
+r.10   ἡμύσους μέρους οἰκίας καὶ αὐλῆ[ς] καὶ τόπων
+r.11   [κ]αὶ τῶν συνκυρόντων πάντων ἐν κώ-
+r.12   [μῃ] Θεαδελφείᾳ τῆς Θεμίστου μερίδ(ος)
+r.13   [ἀκ]ολολούθως ταῖς γεγονυίαις εἰς α̣ὐ̣[τὰς]
+r.14   [πα]λαιαῖς καταγραφαῖς, ἃς ἔχις μου ἐν
+r.15   θέματι ἀργυρίου δραχμὰς ἑξακοσί-
+r.16   [ας], (γίνονται) (δραχμαὶ) χ. (ἔτους) β Αὐτοκράτορος Καίσαρος
+r.17   Νερούα Τραιανο(ῦ) Σεβαστοῦ Γερμανικοῦ, Τῦβ[ι]
+r.18   κη. (hand 2) Χαρίτιον Διδύμου μετὰ κυρίου τοῦ ἀνδρὸς
+r.19   Ἥρωνος τοῦ Διδύμου καταχώρισον, καὶ ἀνίρημαι
+r.20   τὰς ἐπιβαλλούσας μοι ἀργ(υρίου) (δραχμὰς) τριακοσίας, (γίνονται) (δραχμαὶ) τ.
+r.21   Ἥρων ἔγραψα καὶ ὑπὲρ τῆς γυναικός μου μὴ εἰδυίης
+r.22   γράμματα. (ἔτους) δευτέρου Αὐτοκράτορος Καίσαρος
+r.23   Νερούα Τραιανοῦ Σεβαστοῦ Γερμανικοῦ, Τῦβι κη̣.
+r.24   (hand 3) Χαρίτιον ἡ καὶ Τασουχιον Χαριδήμο̣υ̣
+r.25   μετὰ κυρίου τοῦ ἀνδρὸς Ἀπολωνίου
+r.26   τοῦ Ἀπίωνος ἀνίρημαι τὰς δραχμὰ-
+r.27   ς τριακοσίας, (γίνονται) (δραχμαὶ) τ. Ἀπολλώνιος
+r.28   ἔγραψα καὶ ὑπὲρ τῆς γυναικός μου
+r.29   μὴ ἰδυειης γράμματα.
+
+[TRANSLATION]
+1   Aphrodous daughter of Sat[y]r[o]s, w[ith] as guardian her kins-
+2   man Ammonios son of Her[a]kleides, to Sambas
+3   also called Didymos, banker, gr[ee]ting. Pay
+4   out to Charition also called Tasoucharion,
+5   daughter of Charidemos, and to Char[i]tion daughter of Didymos,
+6   each with her husband as guardian — t[o]
+7   Charition also called Ta[s]oucharion (the guardian) being Apollo-
+8   n[i]os son of Apollo[ni]os, and to the other Cha-
+9   rition (the guardian) Heron son of Didymos — the price
+10   of a half share of a house and cour[t] and plots
+11   [a]nd all the appurtenances, in the vil-
+12   [lage of] Theadelphia in the Themistes division,
+13   [in acc]ordance with the old conveyances made to th[em],
+14   which you hold of mine on
+15   deposit: six hundred silver drach-
+16   [mas], total 600 dr. Year 2 of Imperator Caesar
+17   Nerva Trajan Augustus Germanicus, Tyb[i]
+18   28. I, Charition daughter of Didymos, with as guardian my husband
+19   Heron son of Didymos: register it; and I have received
+20   the 300 silver drachmas falling to me, total 300 dr.
+21   I, Heron, wrote also for my wife, she not knowing
+22   letters. Year two of Imperator Caesar
+23   Nerva Trajan Augustus Germanicus, Tybi 28.
+24   I, Charition also called Tasouchion, daughter of Charidemos,
+25   with as guardian my husband Apollonios
+26   son of Apion, have received the three
+27   hundred drachmas, total 300 dr. I, Apollonios,
+28   wrote also for my wife,
+29   she not knowing letters.

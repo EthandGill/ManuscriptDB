@@ -1,0 +1,37 @@
+# ---------------------------------------------------------
+# P.Oxy 2.311 - Tax receipts of Tryphon - poll-tax, pig-tax, embankment
+# Source: papyri.info DDbDP p.oxy;2;311  (Trismegistos 16672)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.311
+label:    P.Oxy 2.311
+name:     Tax receipts of Tryphon - poll-tax, pig-tax, embankment
+genre:    receipts
+date:     28 July 23 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    St Andrews, University P. Oxy. 311
+content:  Through the banker Diogenes: Tryphon son of Dionysios pays 12 dr. poll-tax (Hippodrome quarter), then pig-tax and embankment-tax
+tm:       16672
+source:   https://papyri.info/ddbdp/p.oxy;2;311
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   [ἔτου]ς ἐνάτου Τιβερίου Καίσαρος Σεβαστοῦ
+r.2   [Πα(ῦνι) β.] διεγρά(φη) διὰ Διογέν(ους) τρα(πεζίτου) ἐπι(κεφαλαίου) Ἱπποδ(ρόμου)
+r.3   [Τρύ]φων Διονυσίου ὁ α(ὐτὸς) (δραχμάς) δεκαδύο, (γίνονται) (δραχμαὶ) ιβ
+r.4   [καὶ τῇ] κθ τοῦ Πα(ῦνι) ὑικῆ(ς) ὁ α(ὐτὸς)
+r.5   [(δραχμὰς) δ]ύο (ὀβολὸν) ἡμιώ(βολον), (γίνονται) (δραχμαὶ) β [(ὀβολὸν) α𐅵 καὶ τῇ δ τοῦ]
+r.6   [Μεσορὴ] χω(ματικοῦ) (δραχμὰς) ἓξτετρώ(βολον), (γίνονται) (δραχμαὶ) ϛ(τετρώβολον)
+
+[TRANSLATION]
+1   [Yea]r nine of Tiberius Caesar Augustus,
+2   [Pauni 2.] Paid through Diogenes the banker, poll-tax of the Hippodrome (quarter):
+3   [Try]phon son of Dionysios, the same, twelve drachmas, total 12 dr.;
+4   [and on the] 29th of Pauni, pig-tax, the same,
+5   [t]wo [drachmas] 1 1/2 obols, total 2 dr. 1 1/2 ob.; [and on the 4th of]
+6   [Mesore,] embankment-tax, six drachmas 4 obols, total 6 dr. 4 ob.

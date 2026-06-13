@@ -1,0 +1,75 @@
+# ---------------------------------------------------------
+# P.Tebt 2.441 - Lease of two and a half arouras of public land for fodder
+# Source: papyri.info DDbDP p.tebt;2;441  (Trismegistos 14463)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Tebt 2.441
+label:    P.Tebt 2.441
+name:     Lease of two and a half arouras of public land for fodder
+genre:    contracts
+date:     91 - 92
+language: Greek (Koine)
+found:    Tebtynis (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berkeley, Bancroft Library P. Tebt. 441
+content:  A lease from Tebtynis (year 11 of Domitian) in which Psoiphis son of Paopis leases to Eutychos two and a half arouras of public land that Psoiphis farms, for sowing and cutting hay, for the coming twelfth year, with terms on costs and guarantee.
+tm:       14463
+source:   https://papyri.info/ddbdp/p.tebt;2;441
+lat:      29.1117
+lon:      30.7444
+
+[GREEK]
+r.1   ἔτους ἑνδεκάτου Αὐροκράτορ[ος Καίσαρο]ς
+r.2   Δομιτι̣[α]νοῦ Σεβαστοῦ Γερμανικοῦ [ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.3   ἐν Τεβτύ̣ν̣ι̣ τῆς Πολέμωνος μερίδ̣[ος τοῦ]
+r.4   Ἀρσινοείτου νο̣μοῦ. ὁμολογεῖ [Ψοῖφις]
+r.5   [Πα]ώ̣πιος ὡς ἐτῶν εἴκοσι ἕξ οὐλ̣ηι [δακτύλωι]
+r.6   πρώτωι χιρὸς δεξιᾶς Εὐτύχωι [ ̣ ̣ ̣ ̣ ̣ ̣]
+r.7   ὡς ἐτῶν εἴκοσι πέντε οὐληι δακτύλωι
+r.8   μικρῶι χιρὸς ἀριστερᾶς μεμισθωκέν[αι αὐ-]
+r.9   τῶι Εὐτύχωι εἰς τὸ ἰσιὸν δωδέ̣κ̣α̣τ̣[ον] ἔ̣τ̣ο̣ς̣
+r.10   Αὐτοκράτορος Καίσαρος Δομιτιανοῦ Σεβαστοῦ
+r.11   Γε̣ρμ̣α̣ν̣ικοῦ ἀφʼ ὧν γεωργεῖ ὁ Ψοῖφις περὶ Τεβτῦνιν̣
+r.12   δημοσίων ἐδαφῶν τὰς ἐν μιᾷ σ[φ]ραγῖδι
+r.13   ἐν τῶι λεγομένωι Τεσσερακονταρούρωι
+r.14   [γ]ῆς ἀρούρ[α]ς δύο ἥμισυ ἢ ὅσαι ἐὰν ὦσι
+r.15   [π]ροσγιτνιώσας ἐκ τοῦ πρὸς νότον μέρους
+r.16   [Μα]ρεψήμι Ψοίφιος εἰς πορὰν χόρτου καὶ
+r.17   [κ]οπὴν καὶ ξηρασίαν, τῆς τῶν σπερμάτων
+r.18   χωρηγίας καὶ τῆς τοῦ χόρτου κοπῆ̣ς οὐσ̣[ῶν]
+r.19   πρὸς τὸν Εὔτυχον, τῶ̣[ν δ]ὲ γεωργικῶ̣ν̣
+r.20   [ἔργων πάντ]ων καὶ φ̣ο̣ρ̣έτ̣ρ̣ω̣ν̣ ὄντω̣ν̣ [πρὸς]
+r.21   [τὸν Ψοῖφ]ι̣[ν, ὃν καὶ] ἔ̣χ̣ε̣[ι]ν̣ παρὰ τ̣ο̣ῦ Ε̣ὐ̣[τύχου]
+r.22   [ἐκ προδόματο]ς̣ τὴν συ̣[μπεφωνημέν]η̣ν̣ τιμ̣ὴ̣[ν πᾶσ]α̣ν̣
+r.23   [διὰ χι]ρὸς ἐξ [οἴ]κ̣ου καὶ βεβα[ιώσειν τὸν Ψοῖφιν]
+r.24   τῶι Εὐτύχωι τὰς ε̣[ἰρημένας ἀρούρας]
+r.25   δ̣ύ̣[ο] ἥμισ[υ] π̣ά̣σ̣ῃ̣ β̣εβ̣[αιώσει …]
+
+[TRANSLATION]
+1   In the eleventh year of Imp[erator Caesar]
+2   Domiti[a]nus Augustus Germanicus, [.......]
+3   in Tebty̆nis of the Polemon divis[ion of the]
+4   Arsinoite nome. [Psoiphis]
+5   son of [Pa]opis, about twenty-six years old, with a scar [on the]
+6   first [finger] of the right hand, agrees with Eutychos [......],
+7   about twenty-five years old, with a scar on the little finger
+8   of the left hand, that he has leased to
+9   him, Eutychos, for the coming twelf[th] year
+10   of Imperator Caesar Domitianus Augustus
+11   Germanicus, out of the (lands) which Psoiphis farms around Tebtynis
+12   of public lands, those in a single seal-plot
+13   in the so-called Forty-Aroura(-field),
+14   two and a half arouras of land, or however many there may be,
+15   adjoining on the south side
+16   (the land of) Marepsemis son of Psoiphis, for the sowing of grass and
+17   cutting and drying, the supply of the seed
+18   and the cutting of the grass being
+19   (the responsibility of) Eutychos, while all the agricultural
+20   [work]s and transport-costs are [to be borne by]
+21   [Psoiph]i[s, who also] is to ha[v]e from Eu[tychos]
+22   [as an advance pay]ment the whole agreed pri[ce]
+23   [by ha]nd out of the house, and that [Psoiphis] shall guarantee
+24   to Eutychos the said [arouras],
+25   the t[wo] and a half, with every guar[antee ...]

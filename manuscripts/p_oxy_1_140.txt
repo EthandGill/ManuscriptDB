@@ -1,0 +1,99 @@
+# ---------------------------------------------------------
+# P.Oxy 1.140 - Contract of a Stableman for the Cursus Velox
+# Source: papyri.info DDbDP p.oxy;1;140  (Trismegistos 20779)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.140
+label:    P.Oxy 1.140
+name:     Contract of a Stableman for the Cursus Velox
+genre:    contracts
+date:     26. Apr. 550
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10057
+content:  Aurelius Serenos alias Kortibos contracts to serve for one year as a stableman of the express post (cursus velox) for the household of the comes Flavius Serenos, with stipulated provisions, wages, and an earnest payment.
+tm:       20779
+source:   https://papyri.info/ddbdp/p.oxy;1;140
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   † βασιλείας τοῦ [θ]ειοτάτου καὶ εὐσεβ(εστάτου) ἡμῶν δεσπότου Φλ(αουίου) Ἰ ουστινιανοῦ τοῦ
+r.2   αἰωνίου Αὐγ[ού]στου καὶ Αὐτοκράτορος ἔτους κδ, τοῖς τὸ η μετὰ τὴν ὑπατίαν Φλ(αουίου)
+r.3   Βασιλ[είο]υ τοῦ λαμπρ(οτάτου), Παχὼν α , ἰνδ(ικτίονος) ιγ, ἐν Ὀξυρύγχ(ων) πόλ(ει). †
+r.4   Φλαουίῳ Σερήνῳ [τ]ῷ μεγαλοπρεπεστάτῳ καὶ περιβλέπτῳ κόμετι τοῦ [θ]εί̣ου
+r.5   κονσιστωρίου, υἱ ῷ το[ῦ] τῆς λαμπρᾶς μνήμης Μαρτυρίου, γεουχοῦντι ἐ[ν]ταῦθα
+r.6   τῇ λαμπρᾷ Ὀξυρυγχιτῶν πόλει, Αὐρήλιος Σερῆνος ὁ καὶ Κόρτιβο̣[ς υ]ἱ ὸς
+r.7   Ἰ ούστου μητρὸς Μ[α]ρίας, σταβλίτης τοῦ ὀξέως δρόμου ἀπὸ τῆς αὐτῆς
+r.8   πόλεως, χαίρειν. ὁμολογῶ ἑκουσίᾳ γνώμῃ καὶ αὐθαιρέτῳ προαιρέσει συντεθεῖσθαι
+r.9   πρὸς τὴ[ν] ὑ μῶν μεγαλοπρ(έπειαν) ἐφ’ ἐνιαυτὸν ἕνα, λογιζόμενον ἀπὸ τῆς σήμερον
+r.10   ἡμέρας, ἥτις ἐστὶν Παχὼν νεομηνία τοῦ ἐνεστῶτος ἔτους σκϛρϙε τῆς παρούσης
+r.11   τρισκαιδεκάτης ἰ νδ(ικτίονος), ἀρχῇ καὶ καρπῶν τῆς σὺν θεῷ τεσσαρεσκαιδεκάτης ἐπινεμ(ήσεως),
+r.12   ἐπὶ τῷ με χώραν σταβλίτου τοῦ αὐτοῦ ὀξέως δρόμου ὑ πὲρ τοῦ οἴκ[ου τ]ῆς ὑμ[ῶν μεγαλο]π̣ρ(επείας)
+r.13   κατὰ ταύτην τὴν πόλ[ι]ν ἐκτελέσαι, καὶ ἑτοίμως ἔχω προ̣ς̣ κ̣α̣τ̣α̣κ ̣ ̣ ̣ ̣ καὶ ̣[ ̣ ̣ ̣] ̣ ̣ ̣ ̣
+r.14   ἐν τῷ αὐτῆς στάβλῳ, καὶ πάντα τὰ ἀνήκοντα τῇ αὐτῇ χρείᾳ τοῦ στα[βλί]του
+r.15   ἀποπληρῶσαι ἀμέμπτως καὶ ἀόκνως καὶ ἀκαταγνώστως μετὰ πάσης σπουδῆς
+r.16   καὶ γνησι[ό]τητος καὶ ἐλευθερίας καὶ πίστεως ἀγαθῆς, εἰς τὸ μηδεμίαν μέμψιν
+r.17   ἢ ἀμελίαν ἢ κατάγνωσίν τινα περὶ ἐμὲ γενέσθαι, δίχα ἀρρωστίας καὶ πόνου τινός·
+r.18   κ[α]ὶ δέξασθαί με παρὰ τῆς ὑμῶν μεγαλοπρ(επείας) λόγῳ ὀψωνίου ἐμοῦ τε καὶ τῶν αὐτῶν
+r.19   ἱ πποκόμ(ων)
+r.20   παντὸς τοῦ αὐτοῦ ἑν[ὸ]ς ἐνιαυτοῦ, σίτου καγκέλλῳ ἀρτάβας ὀγδοήκοντα, καὶ ὑ πὲρ
+r.21   κριθῆς καὶ λαχάνο[υ] χρυσοῦ νομίσματα ἐννέα ἰ διωτικῷ ζυγῷ νομιτευόμενα καὶ οἴνου
+r.22   γεουχικὰ κνίδια ὀγδοήκοντα, καὶ ὑ πὲρ ἀναλώματος χλωροφαγίας ἑτέρου̣ νομισμ[ατ]ίου
+r.23   ἥμισυ καὶ αὐτὸ νομιτευόμενον, μετὰ καὶ τοῦ ἐμοῦ ζῴου τοῦ λεγομένου Περισσοῦ. προσ-
+r.24   ομολογῶ δὲ ἐσχηκέναι παρὰ τῆς ὑ μῶν μεγαλοπρ(επείας) ἐντεῦθεν ἤδη λόγῳ ἀρραβῶνος
+r.25   χρυσοῦ νομίσματα τέσσαραἥμισυ, καὶ μὴ ἐξεῖν[αί] μοι ἐντὸς τοῦ αὐτοῦ ἑνὸς ἐνιαυτοῦ
+r.26   ὑ παναχωρῆσαι ἀπὸ [τ]ῆς ὑμῶν χρείας καὶ παραμονῆς. εἰ δὲ τοῦτο ποιήσω, ὁμολογῶ τὰ
+r.27   αὐτὰ τέσσαραἥμισυ νομίσματα ἐν [τ]ῷ διπλῷ ἀποκαταστῆσαι αὐτῇ. εἰ δὲ ἡ [ὑμῶν]
+r.28   μεγαλοπρ(έπεια) ἐθελήσῃ ἐκβαλεῖν με ἐκ τῆς χρείας τοῦ σταβλίτου πρὸ συμπληρώσεω̣ς̣
+r.29   τ[οῦ]
+r.30   αὐτοῦ ἑνὸς ἐνιαυτοῦ ἄνευ αἰτίας τινός, ἐπὶ τῷ καὶ αὐτὴν ζημιοῦσθαι τὰ αὐτὰ τέσσαραἥμισυ
+r.31   νομίσματα τοῦ ἀρραβῶνος. κύρ(ιον) τὸ συνάλλαγμ(α) ἁπλ(οῦν) γραφ(έν), καὶ ἐπερ(ωτηθεὶς)
+r.32   ὡμολ(όγησα). (hand 2) † Αὐρ(ήλιος) Σερῆν[ο]ς [υ]ἱὸς
+r.33   Ἰ ούστου ὁ προγεγραμμ(ένος) [π]εποίημαι τοῦτο τὸ συνάλλαγμ(α) κατὰ τὸν προκείμ(ενον)
+r.34   τρόπον, κα[ὶ στοιχ]ε̣ῖ̣ μ̣ο̣ι̣
+r.35   ὡς πρόκ(ειται). Ἀπό̣λ̣λω̣ν̣ Ἡ̣ρ̣ακλ̣(είδου) ἀξι[ω]θ(εὶς) ἔγραψ[α] ὑ πὲρ αὐτοῦ ἀγραμμ(άτου) ὄντος.
+r.36   † d[i] emu F̣ịḷoxẹṇu etel[io]th(e) (Παχων(?)) ̣ (ἰνδικτίωνος) ι[γ] ̣ ̣ ̣ † v
+r.37   † συνάλλαγμ(α) Σερήνου σταβλίτ(ου) υἱοῦ Ἰούστου ἀπὸ τῆς Ὀξυρυγχ(ιτῶν).
+
+[TRANSLATION]
+1   † In the reign of our most divine and most pious master Flavius Justinian the
+2   eternal Augustus and Emperor, year 24, in the 8th year after the consulship of Flavius
+3   Basilios the most illustrious, Pachon 1, indiction 13, in the city of the Oxyrhynchites. †
+4   To Flavius Serenos the most magnificent and most distinguished comes of the divine
+5   consistory, son of Martyrios of illustrious memory, landholder here
+6   in the illustrious city of the Oxyrhynchites, Aurelius Serenos alias Kortibos, son
+7   of Ioustos, his mother being Maria, a stableman of the express post (cursus velox) from the same
+8   city, greeting. I acknowledge of my own free will and self-chosen purpose that I have made an agreement
+9   with your magnificence for one year, reckoned from this present
+10   day, which is Pachon, the new-moon (first) day of the current year 295/226 of the present
+11   thirteenth indiction, at the beginning and with the harvest of the, God willing, fourteenth indiction-cycle,
+12   on the condition that I fulfill the office of stableman of the same express post on behalf of the household of your magnificence
+13   throughout this city, and I am ready to ... and ...
+14   in its (your) own stable, and to discharge all the duties pertaining to the same service of the stableman
+15   blamelessly and without slackness and irreproachably with all zeal
+16   and genuineness and free goodwill and good faith, so that no blame
+17   or negligence or any reproach concerning me may arise, apart from sickness and any pain;
+18   and that I receive from your magnificence by way of wages for myself and the same
+19   grooms,
+20   for the whole of the same single year, of wheat by the kankellon measure eighty artabas, and for
+21   barley and vegetables nine gold solidi reckoned by the private standard, and of wine
+22   eighty estate-jars (knidia), and for the expense of green-fodder another half solidus,
+23   this too being current (legal tender), together also with my own animal called Perissos. And I further
+24   acknowledge that I have already received from your magnificence by way of earnest-money (arrabon)
+25   four and a half gold solidi, and that it is not permitted to me within the same single year
+26   to withdraw from your service and attendance. And if I do this, I acknowledge that the
+27   same four and a half solidi I will restore to her (it) double. But if your
+28   magnificence should wish to dismiss me from the service of the stableman before the completion of
+29   the
+30   same single year without any cause, on the condition that she too forfeit the same four and a half
+31   solidi of the earnest-money. The contract is valid, written in single copy, and on being formally questioned
+32   I gave my acknowledgment. (hand 2) † Aurelius Serenos son
+33   of Ioustos the aforewritten, I have made this contract according to the foregoing
+34   manner, and it is satisfactory to me
+35   as stated above. I, Apollon son of Herakleides, having been requested, wrote on his behalf, he being illiterate.
+36   † Through me, Philoxenos, it was completed, (Pachon?) ..., indiction 13 ... † (verso)
+37   † Contract of Serenos the stableman, son of Ioustos, from the (city) of the Oxyrhynchites.

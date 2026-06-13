@@ -1,0 +1,85 @@
+# ───────────────────────────────────────────────
+# BGU 4.1153 — Double release — a repaid loan, and the nurse Martha discharged
+# Source: papyri.info DDbDP bgu;4;1153  (Trismegistos 18603)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1153
+label:    BGU 4.1153
+name:     Double release — a repaid loan, and the nurse Martha discharged
+genre:    contracts
+date:     16 May 14 BCE
+language: Greek (Koiné)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13080 Vo
+content:  Two settlements on one sheet: Arsinoe acknowledges repayment of 300 drachmas with the paramone of Paron annulled; and mutual releases over the child nursed by Martha
+tm:       18603
+source:   https://papyri.info/ddbdp/bgu;4;1153
+lat:      31.2
+lon:      29.9
+
+[GREEK]
+r.1   [Πρω]τάρχ(ωι)
+r.2   παρὰ Ἀρσινόης τῆ(ς) Ἀμμω(νίου) ἀστῆ(ς) μετὰ κ(υρίου) τοῦ υἱο(ῦ) Νικο-
+r.3   [δ]ήμου τοῦ Διονυσίο(υ) Μαρω(νέως) καὶ π(αρὰ) Θερμίο(υ) τῆς Ἑρμίο(υ) μετὰ κ(υρίου)
+r.4   [Ἀ]μμω(νίου) τοῦ Ψ̣ά̣μ̣μ̣ιδο(ς) Εὐσεβε(ίου). συνχωρεῖ ἡ Ἀρσινό(η) ἀπέχ(ειν)
+r.5   παρὰ τῆ(ς) Θερμίο(υ) διὰ χειρὸ(ς) ἐξ οἴκ(ου) ἃς ἐδάνεισ(εν) αὐτῇ κα̣τ̣ὰ̣ σ̣υ̣ν̣χ̣ώρη(σιν)
+r.6   [δ]ιὰ τοῦ καταλ(ογείου) τῶι ιε (ἔτει) Καίσαρο(ς) Θῶθ ἀργυρίου δραχμὰς
+r.7   τ̣ρ̣ι̣α̣κοσίας , [καὶ εἶ]ναι ἄκυρο(ν) τὴν τοῦ δανείο(υ) συνχώρη(σιν) σὺν τῇ πρὸ̣ς̣
+r.8   τ̣α̣ύ̣τῃ
+r.9   σ̣η̣μ̣α̣ι̣ν̣ο̣μ(ένῃ) παραμο(νῇ) τοῦ υἱο(ῦ) αὐτῆ(ς) Πάρ̣ω̣ν̣ο̣ς̣, καὶ μηδεμί(αν) τῇ
+r.10   Ἀρσινό(ῃ) μηδʼ <ἄλλῳ> ὑπὲρ αὐ(τῆς) καταλ(είπεσθαι) ἔφοδ(ον) ἐπὶ τὴ(ν) Θέρμιο(ν) μήτε
+r.11   περὶ τῶν αὐ(τῶν) μη-
+r.12   δ̣ὲ περὶ ἄλ(λου) μη(δενὸς) ἁπ(λῶς) ἐγγράπ(του) ἢ ἀγράφου τῶν ἕως τῆ(ς) ἐνε(στώσης)
+r.13   ἡμέρα(ς) καὶ ἐ̣ν̣έ̣χ̣ε̣σ̣θ̣α̣ι̣ τ(ὸν) τ̣αῦ(τα)
+r.14   [π]αραβ(αίνοντα) <τοῖς τε βλάβεσι καὶ τῷ ὡρισμένῳ προστίμῳ> χωρὶς τοῦ κύρια εἶναι
+r.15   (ἔτους) ιϛ Καίσαρο(ς) Παχὼ(ν) κα
+r.16   ̣ ̣ ̣ ̣ Καίσ̣α̣ρ̣ο(ς) χρόνοις δουλικ(οῦ) ἑαυτῆ(ς) παιδίο(υ) [Ἀγαλ]μ̣α̣τ̣ί̣[ου, ὥσ]τ̣ε̣
+r.17   τ̣ι̣θ̣η̣νεῖσθαι δι̣ὰ̣ τ̣ῆ̣ς̣ αὐτῆς Μ̣ά̣ρ̣θ̣α̣ς̣ καὶ μηδεμία̣ν̣
+r.18   [τ]ῇ Μ̣α̣ρ̣ί̣ῳ̣ μηδ’ ἄλλωι ὑπὲρ αὐτῆ(ς) μη(δενὶ) καταλείπ(εσθαι) ἔφοδο(ν) ἐπὶ τὴ(ν) Σο̣υ̣ε̣ροῦ(ν)
+r.19   μ̣η̣δ̣ὲ̣ ἐ̣π̣ὶ̣ τῆ(ς) προκ(ειμένης) συνχωρή(σεως) ἣν καὶ εἶναι ἄκυρο(ν) μηδὲ ἐ̣π̣ὶ̣
+r.20   ἄ̣λ̣λ̣ο̣υ̣ μηδενὸ(ς) ἁπ(λῶς) ἐγγράπ(του) ἢ ἀγρά(φου)
+r.21   [ἀπὸ τ(ῶν) ἔμ(προσθεν) χρ(όνων) μέχρι] τῆ(ς) ἐνε(στώσης) ἡμέρα(ς), τὴν δὲ Μάρθαν ἐπὶ
+r.22   τὴν Μάριο(ν) μηδὲ
+r.23   [περὶ τῶν] τ̣ι̣θ̣η̣ν̣ή̣σ̣(εως) τ̣ρ(οφείων) τοῦ μεταξὺ χρόνου μηδὲ ἐπὶ τὸ δουλικ(ὸν)
+r.24   σ̣ω̣(μάτιον) π̣α̣(ιδίον)
+r.25   [ἐπελεύ]σ̣ε̣σ̣θ̣α̣ι̣ κατὰ μη(δένα) τρόπ(ον), τὸν δὲ καὶ ἐπελευσόμ(ενον) ἐπὶ τὴ(ν)
+r.26   Σουερ(οῦν) ἢ παρα-
+r.27   [συ]νγραφοῦντα ἀποστή(σειν) παραχ(ρῆμα) τοῖς ἰδίο(ις) δαπ(ανήμασιν) καὶ, χωρὶς τοῦ
+r.28   κύρια εἶναι τὰ σχη ,
+r.29   ἔτι καὶ ἐνεσθαι τὴ(ν) παραβ(αίνουσαν) τ̣ο̣ῖ̣ς̣ τ̣ε̣ β̣(λάβεσι) καὶ τῷ <ὡρισμένῳ> προ(στίμωι). ἀ̣ξ̣(ιοῦμεν)
+r.30   (ἔτους) ιϛ Καίσαρο(ς) Παχὼ(ν) κα
+
+[TRANSLATION]
+1   [To Pro]tarch(os),
+2   from Arsinoe daughter of Ammo(nios), citizeness, with as guardian her son Niko-
+3   [d]emos son of Dionysio(s), of the Maro(nean) deme, and f(rom) Thermion daughter of Hermio(s), with as guardian
+4   [A]mmo(nios) son of Psammis, of the Eusebe(ian) deme. Arsino(e) concedes that she has received
+5   from Thermion, from hand to hand out of the hou(se), what she lent her by agree(ment)
+6   through the registry in the 15th (year) of Caesar, Thoth: three hundred
+7   silver drachmas; [and] that the agree(ment) of the loan is void, together with the
+8   (clause of) paramone of her son Paron
+9   signified along with it; and that no right of approach is left to
+10   Arsino(e), nor to <any other> on her behalf, against Thermion — neither
+11   about the same matters
+12   nor about anything else at all, written or unwritten, up to the pres(ent)
+13   day; and that whoever transgresses this is liable
+14   <both for the damages and for the appointed fine>, the terms remaining nonetheless valid.
+15   Year 16 of Caesar, Pacho(n) 21.
+16   … in the times of Caesar, concerning her own slave child [Agal]mat[ion, so a]s
+17   to be nursed by the same Martha; and that no (right of approach)
+18   is left [to] Marion, nor to any other on her behalf, against Souerou(s) —
+19   neither upon the aforesaid agree(ment), which likewise is void, nor upon
+20   anything else at all, written or unwrit(ten),
+21   [from times past up to] the pres(ent) day; and that Martha (shall have none)
+22   against Marion, neither
+23   [about the] nursing-wages of the time between, nor against the little slave
+24   child,
+25   [and shall not pro]ceed (against them) in any way; and that whoever does proceed against
+26   Souero(us), or con-
+27   travenes the contract, shall desist at once at his own exp(ense) and — the terms
+28   remaining nonetheless valid —
+29   the transgressor is moreover liable for the dam(ages) and the <appointed> fi(ne). We req(uest registration).
+30   Year 16 of Caesar, Pacho(n) 21.

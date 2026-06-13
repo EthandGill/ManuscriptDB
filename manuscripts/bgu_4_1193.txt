@@ -1,0 +1,55 @@
+# ---------------------------------------------------------
+# BGU 4.1193 - Petition reporting flooded fields unfit for sowing
+# Source: papyri.info DDbDP bgu;4;1193  (Trismegistos 18643)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1193
+label:    BGU 4.1193
+name:     Petition reporting flooded fields unfit for sowing
+genre:    petitions
+date:     6. - 24. Febr. 8 v.Chr.
+language: Greek (Koine)
+found:    Herakleopolite nome, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13129
+content:  Dionysios reports to the village scribe Demetrios that eight arouras of his land near Koma, flooded until Mecheir 12 of the 22nd year of Caesar and unable to be sown at all, should be recorded so that the underwater acreage may be officially noted.
+tm:       18643
+source:   https://papyri.info/ddbdp/bgu;4;1193
+lat:      29.0772
+lon:      30.9342
+
+[GREEK]
+r.1   Δημ̣η̣τ̣ρ̣ί̣ῳ̣ κω[μ]ογραμ[ματ]εῖ κ ̣[ ]
+r.2   παρὰ Δ̣ι̣ο̣ν̣υ̣σ̣ί̣ο̣υ̣ τ̣ῶ̣ν̣ λ̣ε̣[ ]
+r.3   κατοίκων. ἐ̣π̣ὶ̣ ἀ̣π̣ὸ̣ ἀ̣ρ̣ο̣υ̣[ρῶν ]
+r.4   ,msζ(ήτει)
+r.5   περὶ Κόμα ἐκ τοῦ Ῥόδων[ος κλήρου …]
+r.6   ἀπὸ ἀρουρῶν πέντε ἀρ[ούρας τρεῖς καὶ ἐκ τοῦ]
+r.7   Σατόκου ἀρούρας δύο καὶ ἐ̣π̣ὶ̣ σ̣ω̣τ̣ ̣ ̣ ̣ ̣
+r.8   τῷ πρότερον τῶν Ἡλιοδώρου ἐκ τοῦ
+r.9   Δημητρίου ἀρούρας τρῖς (γίνονται) ἄρουραι η καὶ
+r.10   τούτων ἐμβρόχων οὐσῶν μέχρι ιβ τοῦ
+r.11   Μεχεὶρ τοῦ δευτέρου καὶ εἰκοστοῦ ἔτους Καίσαρος καὶ μὴ δυναμένων καθόλου
+r.12   σπαρῆναι, προήγεμαι τὴν [τού]τ[ων] ἐπίδοσιν
+r.13   ποήσεσθαι , ὅπως ἀνενέν[κ]ω̣μ̣[εν] τὰς ἐν τῇ
+r.14   ἐμβρόχῳ. τούτου δὲ πεποημέν[ου] ἐσόμεθα ἀντει-
+r.15   λημμένοι. (ἔτους) κβ Καίσαρος Μεχεὶρ [ ̣ ̣]
+
+[TRANSLATION]
+1   To Demetrios village scribe k.[ ]
+2   from Di̲o̲nysios of the le[ ]
+3   settlers (katoikoi). Since from arou[ras ]
+4   ,ms (seek!)
+5   around Koma from the allotment of Rhodon [...]
+6   from five arouras th[ree] ar[ouras and from the]
+7   (allotment) of Satokos two arouras and at sot....
+8   in that formerly belonging to Heliodoros's (heirs), from the
+9   (allotment) of Demetrios three arouras, (total) makes arouras 8, and
+10   these being underwater until the 12th of
+11   Mecheir of the twenty-second year of Caesar and being wholly unable
+12   to be sown, I have been led to make the
+13   submission concerning [the]se, so that we may report the (arouras) in the
+14   flooded land. And this having been done, we shall be
+15   assisted. (Year) 22 of Caesar, Mecheir [..].

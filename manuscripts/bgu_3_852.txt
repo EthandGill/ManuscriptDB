@@ -1,0 +1,65 @@
+# ---------------------------------------------------------
+# BGU 3.852 - Census declaration - four camels
+# Source: papyri.info DDbDP bgu;3;852  (Trismegistos 9382)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.852
+label:    BGU 3.852
+name:     Census declaration - four camels
+genre:    documents
+date:     28 Jan 167 CE
+language: Greek (Koine)
+found:    Soknopaiou Nesos (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8874
+content:  Tesenouphis and Pakysis of Soknopaiou Nesos register, through a manager, the same four camels for the present 7th year as in the past 6th; countersigned by strategos and royal scribe, counted in agreement
+tm:       9382
+source:   https://papyri.info/ddbdp/bgu;3;852
+lat:      29.5377
+lon:      30.6856
+
+[GREEK]
+r.1   (hand 6) _(possibly the same as m1)_ Σοκνοπ(αίου Νήσου) κάμηλ(οι) [δ]
+r.2   (hand 1) [ ̣ ̣ ̣] Ἑ̣[ρ]μίνῳ ̣ ̣ ̣ ̣[ ̣ ̣ ̣]
+r.3   διὰ Π̣άππου γεγυ(μνασιαρχηκότος) διαδ̣[όχου]
+r.4   καὶ Σερήνῳ βασιλ(ικῷ) γρ(αμματεῖ) τῆς αὐτῆς
+r.5   δι(ὰ) Εὐδαίμονος διαδ[ό]χου
+r.6   παρὰ Τεσενούφεως Τεσενού-
+r.7   φεως πρεσβυτέρου, ἐπικαλ(ουμένου)
+r.8   Σ̣ε̣ί̣φ̣ωνος, καὶ Πακύσιος υἱοῦ
+r.9   Τεσενουφεως νεωτέρου, ἐπικ(αλουμένου)
+r.10   Κιαλῆτος, ἀμφοτέρων ἀπ(ὸ) κώ(μης)
+r.11   Σοκνο(παίου) Ν[ή]σου, διὰ φροντιστοῦ
+r.12   Τεσενούφεως τοῦ Τεσενούφεως.
+r.13   οὓς ἀπεγρ(αψάμην) τῷ διελ(ηλυθότι) ϛ̣ (ἔτει) καμήλ(ους)
+r.14   δ ἀπογρ(άφομαι) καὶ εἰς τὸ ἐνε[στὸς]
+r.15   ζ (ἔτος). διὸ ἐπιδίδωμ[ι].
+r.16   (hand 2) ἀπεγρ(άφησαν) παρὰ [σ]τρ(ατηγῷ) κάμηλ(οι) δ.
+r.17   Με[χ]εὶρ β. (hand 3) ἀπεγρ(άφησαν) παρὰ βασιλ(ικῷ)
+r.18   κάμηλ(οι) δ. Μεχεὶρ γ.
+r.19   (hand 4) ἐξη(ριθμήθη) συ̣(μφώνως)
+r.20   (hand 5) ἐξη(ριθμήθη) συμ(φώνως).
+
+[TRANSLATION]
+1   (Soknopaiou Nesos: camels [4].)
+2   [To So-and-so,] to Herminos [...,]
+3   through Pappos, former gymnasiarch, depu[ty],
+4   and to Serenos, royal scribe of the same (division),
+5   through Eudaimon, deputy,
+6   from Tesenouphis son of Teseno-
+7   uphis, elder, called
+8   Seiphon, and Pakysis son
+9   of Tesenouphis, younger, called
+10   Kiales, both from the village
+11   of Soknopaiou Nesos, through the manager
+12   Tesenouphis son of Tesenouphis.
+13   The camels I registered in the past 6th year,
+14   4, I register also for the pres[ent]
+15   7th year. Wherefore I submit (this).
+16   Registered before the strategos: camels 4.
+17   Mecheir 2. Registered before the royal (scribe):
+18   camels 4. Mecheir 3.
+19   Counted, in agreement.
+20   Counted, in agreement.

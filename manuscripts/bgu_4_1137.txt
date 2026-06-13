@@ -1,0 +1,69 @@
+# ---------------------------------------------------------
+# BGU 4.1137 - Decree of an Augustus-Association on a Priest's Debt
+# Source: papyri.info DDbDP bgu;4;1137  (Trismegistos 18581)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1137
+label:    BGU 4.1137
+name:     Decree of an Augustus-Association on a Priest's Debt
+genre:    documents
+date:     19. Nov. 6 v.Chr.
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13137 Ro
+content:  Minutes of a meeting of the synod of the deified Emperor Caesar Augustus at Paratomos, ruling that the priest Iucundus may settle a fellow-member's debt of 120 Ptolemaic drachmas out of the association's funds he holds.
+tm:       18581
+source:   https://papyri.info/ddbdp/bgu;4;1137
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   ἔτους κε Καίσαρος Ἁθὺρ κ̣β̣, ἐ̣π̣ὶ̣ τ̣ῆ̣ς̣ γ̣ε̣[νη-]
+r.2   θείσης συναγωγῆς ἐν τῷ Παρα̣τόμωι συνόδου
+r.3   Σεβαστῆς τοῦ θεοῦ Αὐτοκράτορος Καίσαρος ἧς συνα[γωγὸς]
+r.4   καὶ προστάτης Πρῖμος Καίσαρος ἱερεὺς Ἰουκοῦνδ[ος]
+r.5   Καίσαρος γυμνασίαρχος Ἀλέξανδ[ρο]ς [συμπαρ]ό̣ν̣-
+r.6   των τῶν πλ̣εί̣στων. ἐπεὶ συντ̣ε̣τ̣ά̣χ̣α̣μεν [τῶι]
+r.7   προκιμένωι ἱερεῖ Ἰουκούνδωι [ἀφʼ] ὧν ἔχει τῆς
+r.8   συνόδου κεφαλαίων ἐπιδέξασθαι Ο̣ὔρ̣σῳ Καίσαρος
+r.9   ἀποδοῦ[ν]αι ὑπὲρ Συντρόφου το̣ῦ̣ Κ̣α̣ί̣σ̣α̣ρ̣ο̣ς̣ συνοδε̣ί̣του
+r.10   [ἕως] μ̣[ι]ᾶς τριακάδος τ̣[ο]ῦ̣ ἐνεστῶτος ἔ̣τ̣ο̣υ̣ς̣ ἃ̣ς̣ [ὀ-]
+r.11   [φεί]λ̣ε̣ι̣ αὐτῶι ἀργυρίου Πτολεμαι[κ]οῦ (δραχμὰς) ρκ,
+r.12   ἔδοξε κοινῇ γνώμῃ τὸν μὲν Ἰουκοῦνδον ἐ[ξο-]
+r.13   διάσαι ἕως τῆς τριακάδος τ̣ο̣ῦ̣ Ἁθὺρ ἕ̣ω̣ς̣ ὑπὲρ τοῦ
+r.14   Συντρόφ[ου] τὰς τ[οῦ] ἀρ̣γ̣(υρίου) (δραχμὰς(?)) ρ̣[κ] ἀτόκους, τοὺς δὲ ἀπὸ τῆ̣ς̣
+r.15   συνόδου π[α]ραδέξασθαι τῶι Ἰουκούνδῳ ταύτας
+r.16   εἰ[ς] ἃ ὀ̣φ̣[είλ]ε̣[ι τ]ῆι συνόδωι κεφάλαια, εἶναι δὲ
+r.17   [ἀνυ]πεύθυν̣[ον τ]ὸν Ἰουκ[οῦνδο]ν περὶ τούτων
+r.18   [μη]δενὶ ἐξόντος ἐπʼ ἀ[ναγ]ω̣γ̣ῇ τούτων λ̣ό̣γ̣ο̣ν
+r.19   [ποιεῖσ]θ̣α[ι] ἢ̣ τὸν τοιο̣ῦ̣[τον ̣ ̣ ̣ ̣] ̣α̣σθαι, βεβ̣[αι-]
+r.20   [οῦν δὲ] τὸ ὑπογραφὲν δισσὸν [χειρόγραφον ]
+r.21   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ὧν τὸ μὲν ἓν κα̣[ ]
+r.22   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ τ]ὸ δὲ ἕτερον ἐπ̣[ ]
+
+[TRANSLATION]
+1   In the 25th year of Caesar, Hathyr 22, at the as-
+2   sembly held in Paratomos of the synod
+3   of Augustus the god, the Emperor Caesar, of which the syna[gogos]
+4   and patron is Primus (slave) of Caesar, the priest Iucund[us]
+5   (slave) of Caesar, the gymnasiarch Alexand[ro]s, there being [present]
+6   the greater part (of the members). Since we have arranged [for]
+7   the aforementioned priest Iucundus, [from] those funds which he holds of the
+8   synod, to undertake to pay to Oursus (slave) of Caesar
+9   on behalf of Syntrophos the (slave) of Caesar, a fellow-member of the synod,
+10   [until] the single thirtieth (day) of the present year, the (sums) which he ow-
+11   es him, namely 120 (drachmas) of Ptolemaic silver,
+12   it was resolved by common decision that Iucundus should pay
+13   out, by the thirtieth of Hathyr, on behalf of
+14   Syntrophos the 1[20] (drachmas) of silver(?), without interest, and that those of the
+15   synod should credit to Iucundus these (sums)
+16   toward the funds which he owes the synod, and that
+17   Iucundus shall be [un]accountable concerning these matters
+18   to anyone, it not being permitted, upon recovery of these (sums), to bring
+19   an account [against him] or for such a person to ... , and to con-
+20   [firm] the subscribed duplicate [handwritten document]
+21   [ ... ] of which the one [copy] ...
+22   [ ... and t]he other ...

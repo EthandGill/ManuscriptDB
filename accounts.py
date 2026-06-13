@@ -143,7 +143,8 @@ def consume_quota(user):
 
 def _me_payload(user):
     if user is None:
-        return {"logged_in": False}
+        # Surface the daily free allowance so the UI can advertise it pre-login.
+        return {"logged_in": False, "free_limit": FREE_DAILY_LIMIT}
     q = quota_status(user)
     return {"logged_in": True, "email": user.email, **q}
 

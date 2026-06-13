@@ -1,0 +1,69 @@
+# ---------------------------------------------------------
+# P.Oxy 1.93 - Orders for payments in grain, bread and wine
+# Source: papyri.info DDbDP p.oxy;1;93  (Trismegistos 39061)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.93
+label:    P.Oxy 1.93
+name:     Orders for payments in grain, bread and wine
+genre:    documents
+date:     VII - VIII
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 2685
+content:  A bundle of administrative payment-orders directing officials to issue specified quantities of grain (artabas), bread-loaves (laga) and wine (kerameia/dipla) to various named recipients and groups, with dates by indiction year.
+tm:       39061
+source:   https://papyri.info/ddbdp/p.oxy;1;93
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   [† τ]ῷ κυρ(ίῳ) Τιμοθέῳ μεσίτ(ῃ)
+r.2   [ὁρρ(ίων) π]ολιτ (ῶν) Φοιβάμμ(ων) ζυ-
+r.3   [γοστ(άτης(?)) παρ]ά(σ)χ(ου) Θεοδωρο αμ( )σι( )
+r.4   [ἀπὸ] καρπ(ῶν) δωδεκάτης ἰνδ(ικτίονος)
+r.5   σί(του) καγκέλλ(ῳ) ἀ̣ρ̣(τάβας) δύο ἕκτον μ(όνας)
+r.6   σί(του) (ἀρτάβας) βϛ´ κ̣[α]γ̣κέ(λλῳ) Μεσορ(ὴ) α ̣
+r.7   ιβ ἰν(δικτίονος) †
+r.8   π(αρὰ) Εὐτρυγίου Διοσκόρῳ βοηθῷ χαί(ρειν)·
+r.9   δὸς Γοργονίῳ ὑ δραύλῃ ἐκ διαταγῆς σίτου
+r.10   (ἀρτάβας) δύο
+r.11   (ἔτους) λη ζ Τῦβι κα. σεσημείωμαι·
+r.12   † Ἰ ωάννης κόμες Φοιβάμμ[(ωνι) οἰ]νοχειρ(ιστῇ)·
+r.13   παράσχου τοῖς ἀπ(ὸ(?)) Σεφὼ ἐνεγκοῦσ(ι) λάγ(ανα) (διπλᾶ) β, Διδύμῳ τέκτ(ονι) Ἀλεξανδρ(είας) δι(πλοῦν) α, καὶ τοῖς ἀπ(ὸ) Κεσμούχ(εως) ἐνεγκοῦσ(ι)
+r.14   λάγ(ανα(?)) δι(πλᾶ) β, Μεγάλῳ ἀπ(ὸ) στατιοναρ(ίων) δι(πλοῦν) α, τοῖς ἁλιεῦσ(ι) Κεσμούχ(εως) διὰ Καλεωνίστου δι(πλοῦν) α, τῷ θυρουρ(ῷ) τοῦ ἁγίου
+r.15   Ἰωάννου διὰ Φῖβ συμμάχ(ου) δι(πλοῦν) α, τοῖς χωρικ(οῖς) τοῦ Μάρτυρ(ος) διὰ Φῖβ συμμάχ(ου) δι(πλοῦν) α, τοῖς ἀγροφύλαξ(ι) τοῦ μεγάλου
+r.16   εἰρηναρχείου φυλάττουσ(ι(?)) τὸ ἀντιπέλ(α) δι(πλᾶ) ϛ, τοῖς χωρικ(οῖς) ἐργάτ(αις) δι(πλᾶ) β, γί(νονται) ὅ(λου) τοῦ ἐπισταλ(έντος) διπλᾶ δέκα ὀκτώ
+r.17   (ἔτους) ρπρμθ Χοιὰκ κβιβ ἰνδ(ικτίονος) γί(νονται) ὅ(λου) (διπλᾶ) ιη μό(να) † σεσημεί(ωμαι) οἴνου διπλᾶ δέκα καὶ ὀκτὼ γί(νονται) οἴν(ου) (διπλᾶ) ιη εἰς Φοιβάμμ(ωνα) οἰνοχειρ(ιστήν).
+r.18   μηνὶ Χοιὰκ κβιβ ἰνδικ(τίονος)
+r.19   π(αρὰ) Ἀφθονίου Ὀφελλίῳ Ὦ̣χ̣ι̣ν̣ χαίρειν·
+r.20   παράσχες εἰς ὑ πηρεσίαν τῆς γεουχ(ικῆς) οἰκίας οἴνου νέου κεράμια δέκα καὶ
+r.21   Ἀμεσύστῳ ἱ πποι ατρῷ ἐκ διαταγ(ῆς) οἴνου κεράμιον ἓν ν̣έ̣ο̣ν̣ γί(νονται) κ(εράμια) ια
+r.22   (ἔτους) λα κα ιγ δ β Φαῶφι ιη
+
+[TRANSLATION]
+1   [† T]o the lord Timotheos, intermediary
+2   [of the granaries of the] citizens, Phoibammon the weigh-
+3   [er(?). Furn]ish to Theodoros, son of Am(...)si(...),
+4   [from] the produce of the twelfth indiction,
+5   of grain by the kankellos-measure two and one-sixth artabas only,
+6   of grain (artabas) 2 1/6 by the kankellos(-measure). Mesore 1.
+7   12th indiction. †
+8   From Eutrygios to Dioskoros the assistant, greeting:
+9   give to Gorgonios the water-organ player, by order, of grain
+10   two (artabas).
+11   Year 38, 7th (indiction), Tybi 21. I have signed off.
+12   † Ioannes the count, to Phoibammon the wine-steward:
+13   furnish to the men from Sepho who brought (it) cakes, 2 double(-loaves); to Didymos the carpenter of Alexandria, 1 double; and to the men from Kesmouchis who brought (it),
+14   cakes(?), 2 double; to Megas, one of the stationarii, 1 double; to the fishermen of Kesmouchis through Kaleonistos, 1 double; to the doorkeeper of Saint
+15   John, through Phib the soldier, 1 double; to the country-folk of the Martyr (shrine), through Phib the soldier, 1 double; to the field-guards of the great
+16   peace-office who guard the opposite (bank?), 6 double; to the country laborers, 2 double; total of the whole assigned, eighteen double(-loaves).
+17   Year 149(?), Choiak 22, 12th(?) indiction; total of the whole, 18 double only. † I have signed off. Of wine eighteen double, total of wine 18 double, to Phoibammon the wine-steward.
+18   In the month Choiak 22, 12th indiction.
+19   From Aphthonios to Ophellios Ochin(?), greeting:
+20   furnish for the service of the landlord's house of new wine ten kerameia, and
+21   to Amesystos the horse-doctor, by order, one keramion of new wine; total 11 kerameia.
+22   Year 31, 21, 13, 4, 2(?), Phaophi 18.

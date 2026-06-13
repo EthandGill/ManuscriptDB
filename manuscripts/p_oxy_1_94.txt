@@ -1,0 +1,71 @@
+# ---------------------------------------------------------
+# P.Oxy 1.94 - Deed of agency - authorizing the sale of two slaves
+# Source: papyri.info DDbDP p.oxy;1;94  (Trismegistos 20753)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.94
+label:    P.Oxy 1.94
+name:     Deed of agency - authorizing the sale of two slaves
+genre:    contracts
+date:     26 Oct 83 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    London, British Library Pap 763
+content:  Marcus Antonius Ptolemaios appoints Dionysios his agent to sell two inherited slaves, Diogas alias Nilos and another Diogas, at whatever price he finds
+tm:       20753
+source:   https://papyri.info/ddbdp/p.oxy;1;94
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   ἔτους τρίτου Αὐτοκράτορος Καίσαρος Δομιτιανοῦ Σεβαστοῦ,
+r.2   Φαῶφι (hand 2) κη, (hand 1) ἐν Ὀξυρύγχων πόλει τῆς Θηβαίδος.
+r.3   ὁμολογεῖ Μάρκος Ἀντώνιος Πτολεμαίου υἱὸς Σεργία
+r.4   Πτολεμαῖος καὶ ὡς χρηματίζει Διονυσίωι πρεσ-
+r.5   βυτέρωι Θέωνος τοῦ Διονυσίου τῶν ἀπʼ Ὀξυρύγχων
+r.6   πόλεως ἐν ἀγυιᾷ συνεστακέναι αὐτὸν κατὰ τὴν-
+r.7   δε τὴν ὁμολογίαν πρὸς ἐξαλλοτρίωσιν ἄξοντα
+r.8   τὰ ὑπάρχοντα αὐτῷ Ἀντωνίῳ Πτολεμαίῳ πατρι-
+r.9   κὰ δοῦλα σώματα, Διογᾶν τὸν καὶ Νῖλον ὡς (ἐτῶν) μ
+r.10   καὶ ἕτερον Διογᾶν ὡς (ἐτῶν) λ, ταῦτα τοιαῦτα ἀναπό-
+r.11   ριφα πλὴν ἐπαφῆς καὶ ἱερᾶς νόσου, τοῖς προσελευ-
+r.12   σομένοις τῶι ἀγορασμῷ ἤτοι ὑφʼ ἓν ἢ καθʼ ἕνα
+r.13   ἧς ἐὰν εὕρῃ τιμῆς, καὶ τὰ ἄλλα (hand 2) περὶ αὐτῶ(ν) περιοικο-
+r.14   νομήσοντα καθὰ καὶ αὐτῷ Μάρκῳ Πτολεμαί-
+r.15   ωι [π]αρόντι ἐξῆν· εὐδοκεῖν γὰρ αὐτὸν ἐπὶ τού-
+r.16   το[ι]ς ἐφʼ ᾧ τὴν δοθησομένην (hand 2) αὐτῷ τούτων
+r.17   (hand 1) ἢ τοῦ ἀπʼ αὐτῶν πραθησομένου τιμὴν ἀποκατα-
+r.18   στείσειν τῷ Ἀντωνίῳ Πτολεμαίῳ, τῆς πίστεως
+r.19   περὶ αὐτὸν Διονύσ[ι]ον οὔσης, τῆς δὲ περὶ κυ-
+r.20   ρείας βεβαιώσεως ἐξακολουθούσης τῷ Ἀντω-
+r.21   νίῳ Πτολεμαίῳ ἐπὶ τοῖς προκειμένοις δικαίοις.
+r.22   κυρία ἡ σύστασις. v
+r.23   σύστα(σις) Ἀντω(νίου) Πτολ(εμαίου).
+
+[TRANSLATION]
+1   In the third year of Imperator Caesar Domitian Augustus,
+2   Phaophi (2nd hand) 28, (1st hand) in the city of the Oxyrhynchi in the Thebaid.
+3   Marcus Antonius Ptolemaios, son of Ptolemaios, of the Sergian tribe,
+4   and however he is styled, acknowledges to Dionysios the el-
+5   der, son of Theon son of Dionysios, of the city of the Oxyrhynchi,
+6   in the street, that he has appointed him, by this
+7   acknowledgment, as agent to carry off, for alienation,
+8   the slave bodies belonging to him, Antonius Ptolemaios, by paternal
+9   inheritance - Diogas also called Nilos, about 40 years old,
+10   and another Diogas, about 30 years old - these such, not to be re-
+11   turned, except for (legal) claim and the sacred disease, to those who come forward
+12   for the purchase, whether all together or one by one,
+13   at whatever price he finds, and (2nd hand) about them to manage all else
+14   (1st hand) just as it was open to Marcus Ptolemaios himself
+15   [w]hen present; for he approves of these
+16   thing[s], on condition that the price to be given (2nd hand) him for these
+17   (1st hand) - or for what shall be sold of them - he shall re-
+18   store to Antonius Ptolemaios, the trust
+19   resting upon Dionys[i]os, and the guarantee
+20   of owner[ship] falling to Anto-
+21   nius Ptolemaios on the aforesaid terms.
+22   The deed of agency is valid.
+23   Deed of agency of Anto(nius) Ptol(emaios).

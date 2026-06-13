@@ -1,0 +1,93 @@
+# ---------------------------------------------------------
+# BGU 3.832 - Enforcement of a Debt: Embadeia into Mortgaged Property
+# Source: papyri.info DDbDP bgu;3;832  (Trismegistos 9375)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.832
+label:    BGU 3.832
+name:     Enforcement of a Debt: Embadeia into Mortgaged Property
+genre:    contracts
+date:     112 - 113
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7152
+content:  Official records from the Arsinoite (Herakleides division) concerning the execution of a debt and the installation of the creditor into the mortgaged catoecic land and olive-grove, with copies of several documents securing the loan by hypothec, dated regnal year 16 of Trajan.
+tm:       9375
+source:   https://papyri.info/ddbdp/bgu;3;832
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   (hand 3) [μη]τροπόλ(εως)
+r.2   (hand 1) [εἰ μηδὲν] [ἐ]ναντίον ἐστιν ἐπιτέλει ὡς κα[θ]ήκει μ[ ]
+r.3   [ Ἀ]ρσινοείτου Ἡρακλείδου μερίδ[ος] τῷ τιμι[ωτάτῳ ]
+r.4   [ ]ξει (ἀρούρας) δη´ περὶ Σεβεννῖτον πρὸς τάλαντον α [ ]
+r.5   [ κλήρου] κατοικικοῦ (ἀρούρας) γ𐅵δ´ τῆς δὲ Σαμβοῦτος αἱ̣ λοι(παὶ) (ἄρουραι) [ ]
+r.6   [ κλήρου κατοικι]κοῦ (ἀρουρῶν) ϛ𐅵δ´ οὐ[σ]ῶν ἀπὸ (ἀρουρῶν) ζ ἐν δυσὶ σφραγῖσι περὶ Δινν̣[έως ]
+r.7   [ το]ῦ Ἥρωνος ἀπὸ ἀμφόδου Ἀραβῶν ἀπογεγραμμένος Σωκράτη Ἀντιπάτρ[ου ]
+r.8   [ ] ἀρουρῶν μὴ ἀπογεγραμμένων διατεταγμενω αὐτῇ ὑπὸ τῆς κατὰ πα[τέρα ]
+r.9   [ Σωκράτ]ους Ἀντιπ[ά]τρω καὶ ἐπʼ ὀνόματος Μάρκου Δομιτίου Λόγγου στρατιώτου [ ]
+r.10   [ ] ̣ ̣ καὶ ἐλαιῶνος (ἀρουρῶν) δη´ παρακειμένων τῷ Φας[ ̣ ̣ ̣] ὁμοίως ἀπεγρ[αφ ]
+r.11   [ σ]εσημ(είωμαι). Ἀπίων στρ[ατη]γὸς Ἀρσινοείτου Ἡρακλείδου [μ]ερίδος [β]ιβλιοφ̣[ύλαξιν
+r.12   ἐγκτήσεων Ἀρσινοίτου ]
+r.13   [ ᾠκο]νομήθη . (ἔτους) ιϛ Αὐτοκράτορος Καίσαρος Νέρουα Τραιανοῦ Σεβαστοῦ Γερμ ]
+r.14   [ ] ἱερέως καὶ ἀρχιδικαστοῦ ἀπὸ διαλογῆς χρηματισμοῦ ἐμβαδίας ἀπ[ ]
+r.15   [ ]ν (ἔτους) ιϛ Αὐτοκράτορος Καίσαρος Νέρουα Τραιανοῦ Σεβαστοῦ Γερμανικοῦ [Δακικοῦ] [ ]
+r.16   [ χρηματι]σμοῦ ἀντίγραφον ὑπόκιται.
+r.17   [ ]Θέων̣ι Θέω̣[ν]ος τῶν γεγυμνασιαρχ(ηκότων) [γ]ενομένῳ ὑπομ[νηματογράφῳ ἱερεῖ ἁρχιδικαστῇ ]
+r.18   [ Φ]αμενὼθ ιθ ἐπὶ Θέωνος τοῦ Θέωνος τῶν γεγυ[μνασιαρχ(ηκότων) ]
+r.19   [ π]ροκιμένης καταστάσεως Καλπουρν[ί]ας Βουβ[αστ ]
+r.20   [ στρα]τιώτῃ λεγιῶνος κβ κεντυρίας Λιβίου Μ[ ̣] ̣ ̣ ̣ ̣[ ]
+r.21   [ ] ̣ ̣τας τῆς Ἡρακλεί[δου] μερίδος τοῦ Ἀρσι[νοείτου ]
+r.22   [ ]ρ̣τον πρὸς Ἡρακλείδην καὶ ὁμοίως ταῖς ὑ[ ]
+r.23   [ μετ]ηλλαχέναι τε τὴν Σαμβοῦν ἠξίου μεταδ[οθῆναι] ̣[ ]
+r.24   [ ἐμ]βαδεύσουσ[α]ν̣ αὐτὴν εἰς τὴν ὑποθήκην καὶ κρα̣τήσ[ουσαν ]
+r.25   [ ] Κλήμεντος ὑπογεγραφυίης ὑπὸ ἀντίγρ(αφον) τοῦ σημαινομέν[ου ]
+r.26   [ ] ὑπομηματισμῷ , γεγονέναι δὲ τὴν τοῦ ὑπομήματος μετάδ[οσιν ]
+r.27   [ ] ̣ ἐν Πατρικοῖς ἐπὶ βήματος ἐπὶ τῆς τῶν διαστολικῶν ἀν̣[αγορείας ]
+r.28   [ τὸ]ν ἑξαμήνιον χρόνο(ν) ἐν ᾧ ἐξεσθαι καὶ τοῖς βουλωμένοις [ ]
+r.29   [ ]τη δη´ ἀπεγρ(αφομεν ) οἰκονομημένον ἢ ὅτι ἐάν τι ᾖ τούτων διε ̣[ ]
+r.30   [ ] ταύτης οὔσης ἀξιῶ συν γράψαι τῷ τῆς Ἡρακ(λείδου) μερίδο(ς) τοῦ Ἀρσι[νοείτου ]
+r.31   [ ἀφεστη]κότ(ος) καὶ ἐξεσταμένου μοι τοῦ Μάρκου Δομιτίου Λόγγου ὡς δεδ[ήλωται ]
+r.32   [ καὶ ἐν οἷς ἄλλοι]ς αὐτοῦ προσδέομ(αι(?)) περὶ τ̣ο̣ύ̣των. (ἔτους) ιϛ Αὐτοκράτορος Καί[σαρος] Νέρουα ]
+r.33   [ ]μ̣[ ̣] ̣ ̣ ̣[ ̣ ̣] ̣ ̣ ̣ στρατηγικὸς ὑπηρέτης Ἡρακλ(είδου) μερίδος με[τ]ενήνοχ(α) τὴν πρ[οκειμένην ]
+r.34   (hand 2) [ ]ς ἐγρ(αφ ) ̣ ̣ ̣ ̣ Ἀφροδ( ) Φάστου το(ῦ) Ἥρωνος ἀπὸ ἀμφόδου Ἀραβῶν π̣ερι[ ]
+
+[TRANSLATION]
+1   (hand 3) [of the] metropolis
+2   (hand 1) [If nothing is] contrary, carry out as is fitting m[...]
+3   [of the Ar]sinoite, of the Herakleides division, to the most honored [...]
+4   [...]xei (arouras) 4 1/8 near Sebennytos toward 1 talent [...]
+5   [... of a catoecic allotment] (arouras) 3 1/2 1/4, and of Sambous the remaining (arouras) [...]
+6   [... of a catoeci]c [allotment] of (arouras) 6 1/2 1/4, being of (arouras) 7, in two parcels near Dinn[eos ...]
+7   [... s]on of Heron, from the quarter of the Arabs, registered, Sokrates son of Antipatr[os ...]
+8   [...] of arouras not registered, assigned to her by the paternal [...]
+9   [... of Sokrat]es son of Antipatros, and in the name of Marcus Domitius Longus, soldier [...]
+10   [...] and of an olive-grove of (arouras) 4 1/8 lying beside the Phas[...] likewise regist[ered ...]
+11   [... I have] noted. Apion, strategos of the Arsinoite, of the Herakleides division, to the keepers of
+12   the property-registers of the Arsinoite ]
+13   [... it was] administered. Year 16 of the Emperor Caesar Nerva Trajan Augustus Germ[anicus ]
+14   [...] priest and chief-justice, from the assize, a transaction of embadeia [...]
+15   [...]n. Year 16 of the Emperor Caesar Nerva Trajan Augustus Germanicus [Dacicus] [...]
+16   [... of a transac]tion a copy is appended below.
+17   [...] to Theon son of Theon, of those who have served as gymnasiarch, having become record-keeper, [priest, chief-justice ]
+18   [... Ph]amenoth 19, before Theon son of Theon, of those who have ser[ved as gymnasiarch ]
+19   [... of the af]oresaid suit of Calpurnia Bub[ast...]
+20   [... to the sol]dier of legion 22, of the century of Livius M[...]
+21   [...]tas of the Herakleides division of the Arsi[noite ...]
+22   [...]rton toward Herakleides and likewise to the[...]
+23   [... that] Sambous had also died, she asked that it be hand[ed over] [...]
+24   [... she] entering into the mortgage and tak[ing possession ...]
+25   [...] of Clemens, having subscribed beneath a cop(y) of the signified [...]
+26   [...] by minute, and that the delivery of the memorandum had taken pl[ace ...]
+27   [...] in Patrika upon the tribunal, at the prom[ulgation] of the diastolic (notices) [...]
+28   [... th]e six-month period, in which it would be permitted also to those who wish [...]
+29   [...]te 4 1/8 we register, as administered, or that, if any of these be di...[...]
+30   [...] this being so, I ask (the official) to write to the (strategos) of the Herakleides division of the Arsi[noite ...]
+31   [... having absen]ted himself, and Marcus Domitius Longus having been ceded to me, as has been sh[own ...]
+32   [... and in whatever other thing]s of his I have need(?) concerning these matters. Year 16 of the Emperor Cae[sar] Nerva ]
+33   [...]m[...] [...] strategic assistant of the Herakleides division, I have transferred the af[oresaid ...]
+34   (hand 2) [...]s wrot( ) [...] Aphrod( ) son of Phastos son of Heron, from the quarter of the Arabs, peri[...]

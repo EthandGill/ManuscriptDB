@@ -1,0 +1,53 @@
+# ───────────────────────────────────────────────
+# BGU 4.1096 — Letter — Isidoros to Hierax: hand the office books to Sarapion
+# Source: papyri.info DDbDP bgu;4;1096  (Trismegistos 18534)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1096
+label:    BGU 4.1096
+name:     Letter — Isidoros to Hierax: hand the office books to Sarapion
+genre:    letters
+date:     c. 38 CE (year uncertain)
+language: Greek (Koiné)
+found:    Arsinoite nome, Fayum, Egypt (?)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 11043
+content:  Isidoros has re-engaged Sarapion as his scribe and orders the account books handed over at once; Doras is dismissed
+tm:       18534
+source:   https://papyri.info/ddbdp/bgu;4;1096
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Ἰσίδωρος Ἱέρακι τῷ φιλ-
+r.2   τάτῳ χα(ίρειν). ἐπεὶ Σαραπίων[α]
+r.3   ἔσχον γραμματέα, ὃν
+r.4   πρότερον εἶχον, ὑπὲρ οὗ [κ]αὶ
+r.5   ἄλλοτέ σοι ἔγραψα, εὖ ποι-
+r.6   ήσεις παραδοὺς αὐτῷ
+r.7   τὰ τῆς τάξεως βυβλία
+r.8   ἐξαυτῆς καὶ μὴ προσχρή-
+r.9   σασθαι τῷ Δωρᾷ διὰ̣ τ[ὸ]
+r.10   τὸν Σαραπίωνα κεκρι-
+r.11   κέναι ἔχειν μὲ γραμμα-
+r.12   τέα. μὴ οὖν ἄλλως ποι-
+r.13   ήσῃς. ἔρρω(σο). (ἔτους) β Γ̣[αίου Καίσαρος]
+r.14   τοῦ [κυρίο]υ μηνὸ̣ς ̣[⁦ -ca.?- ⁩]
+
+[TRANSLATION]
+1   Isidoros to Hierax his dear-
+2   est, greeting. Since Sarapion
+3   I have got as scribe — whom
+4   I had before, about whom too
+5   I wrote you at another time — you will do
+6   well to hand over to him
+7   the books of the office
+8   at once, and not to make fur-
+9   ther use of Doras, be-
+10   cause I have de-
+11   cided to have Sarapion as my
+12   scribe. So do not do other-
+13   wise. Farewell. Year 2 of G[aius Caesar]
+14   the [lord], month […]

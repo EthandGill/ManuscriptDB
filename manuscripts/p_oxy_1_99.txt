@@ -1,0 +1,85 @@
+# ───────────────────────────────────────────────
+# P.Oxy 1.99 — Sale of a half-share of a three-storey house — the weaver Tryphon buys
+# Source: papyri.info DDbDP p.oxy;1;99  (Trismegistos 20758)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy 1.99
+label:    P.Oxy 1.99
+name:     Sale of a half-share of a three-storey house — the weaver Tryphon buys
+genre:    contracts
+date:     4 Sept 55 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    London, British Library Pap 765
+content:  Tryphon, “honey-skinned, long-faced, somewhat squinting”, buys half a three-storey house from his mother’s cousin for 32 bronze talents; tax receipt appended
+tm:       20758
+source:   https://papyri.info/ddbdp/p.oxy;1;99
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   ἀντίγρα(φον). ἔτους δευτέρου Νέρωνος Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος,
+r.2   Αὐδναίου μηνὸς Σ[ε]βαστο[ῦ ϛ, ἐν Ὀξυρύγχων]
+r.3   πόλει τῆς Θηβαίδος, ἐπʼ ἀγορανόμων Ἀνδρομάχου καὶ Διογένους. ἐπρίατο Τρύφων Διονυσίου
+r.4   τῶν ἀπʼ Ὀξυρύγχω],
+r.5   μέσος [μ]ελίχρως μακροπρόσωπος ὑπόστραβος οὐληι καρπῶι δεξιῶι, παρὰ τοῦ τῆς μητρὸς αὐτοῦ Θαμούνιος ἀν[εψιοῦ Πνεφερῶτος]
+r.6   τοῦ Παπ[ο]ντῶτ[ο]ς τῶν ἀπὸ τῆς αὐτῆς πόλεως, [ὡς] (ἐτῶν) ξε, μέσου μελιχρω μακροπροσώπου οὐληι ὑπὲρ ὀφ[ρύος ⁦ -ca.?- ⁩ καὶ]
+r.7   ἀλληι γόνατι δεξιῶι, ἐν ἀγυιᾶι, μέρος ἥμισυ τῆς ὑπαρχούσης αὐτῷ μητρικῆς οἰκία[ς] τριστέγου
+r.8   καὶ τῶν εἰ[σόδων πασῶν]
+r.9   καὶ ἐξόδων [καὶ] τῶν συγκυρόντων, τῶν ὄντων ἐπὶ τοῦ πρὸς Ὀξυρύγχων πόλει Σαραπιείου
+r.10   ἐν τοῖς ἀπὸ νότου [μέρεσι λαύρας]
+r.11   Τεμγεμο[ύθεω]ς ἀπὸ λιβὸς ῥύμ[η]ς [τ]ῆς φερούσης εἰς τὴν τῶν Ποιμένων λεγομενη λαυρα · γείτονες τῆς ὅλη[ς οἰκίας, νότου]
+r.12   καὶ ἀπηλιώτο[υ] δημόσιαι ῥῦμαι, βορρᾶ τῆς προγεγραμμένης τοῦ ὠν[ο]υμένου Τρύφωνος
+r.13   μητρὸς Θαμούνιος, [λιβὸς οἰκία τῆς τοῦ]
+r.14   διατιθεμένου Πνεφερῶτος ἀδελφῆς Ταυσίριος, ἀνὰ μέσον οὔσης τυφλῆς ῥύμης· χαλκ(οῦ)
+r.15   (ταλάντων) λβ. βε[βαιώσει δὲ τὸ δια-]
+r.16   [τι]θέμενον μέρος ἥμισυ τῆς οἰκίας διὰ παντὸς ἀπὸ πάντων πάσ[ῃ] βεβαιώσει ἐν ἀγυιᾶι
+r.17   τῆι αὐ[τῆι].
+r.18   (ἔτους) δευτέρου Νέρωνος Κλαυδίου Καίσαρος Σ[ε]βαστοῦ Γερμανικοῦ Αὐτοκράτορος, μη(νὸς)
+r.19   Σεβαστοῦ ϛ, διὰ Ἀνδ[ρομάχου καὶ Διογένους]
+r.20   ἀγορανόμων κεχρημάτισται.
+r.21   τελῶν διαγραφῆς ἔτους β Νέρωνος Κλαυδίου Καίσαρος Σεβαστοῦ Γερ[μανικο]ῦ Αὐτοκράτορος, μη(νὸς) [Σεβαστοῦ ϛ. τέτακται διὰ τῆς]
+r.22   ἐν Ὀξυρύγχων πόλει τραπέζης ἐφʼ ἧς Σαρα[πί]ων καὶ μέτοχοι α̣ν̣[ ̣ ̣ ̣ ̣]ν̣[ο]υ Τρύφωνος Διονυσίου τ[- ca.16 -]
+r.23   τέλος ἡμίσους μέρους τῆς ὑπαρχούσης τῶι [δ]ιατιθεμένωι μητρ[ικῆς οἰκ]ίας τριστέγου
+r.24   καὶ τῶν [εἰσόδων πασῶν]
+r.25   καὶ ἐξόδων καὶ τῶν συνκοιρώντων , τῶν ὄντων ἐπὶ τοῦ πρὸς Ὀξυρύγχ[ω]ν πόλει Σαραπιείου ἐν τ[οῖς ἀπὸ νότου μέρεσι]
+r.26   λαύρας Τεμγενούθεως ἐν τοῖς ἀπὸ λιβὸς ῥύμης τ[ῆ]ς φερούσης εἰς τὴν [τ]ῶν Π[ο]ιμένων
+r.27   λεγομ[ένην λαύραν],
+r.28   ὧν [ἐ]πρίατο παρὰ τοῦ τῆς μητρὸς αὐτοῦ Θα[μού]νι[ος] ἀνεψ[ιο]ῦ Πνεφ[ερῶτος] τοῦ Παποντῶτ[ος
+r.29   ἀπὸ τῆς αὐτῆς]
+r.30   πόλεως κατʼ ἀγορανομικὸν χρηματισμὸν χ(αλκοῦ) (ταλάντων) λβ, χαλκ(οῦ) πρὸς ἀργ(ύριον) (τάλαντα) γΑσ, ἐπιδεκα(το ) σ(ὺν) κα(ταγωγίῳ) (δραχμὰς) [ ̣ ̣ ̣]
+
+[TRANSLATION]
+1   Copy. In the second year of Nero Claudius Caesar Augustus Germanicus Imperator,
+2   month Audnaios-S[e]basto[s 6, in the city of the Oxyrhynchi]
+3   in the Thebaid, before the agoranomoi Andromachos and Diogenes. Tryphon son of Dionysios,
+4   [of the city of the Oxyrhynchi],
+5   of middle height, honey-skinned, long-faced, somewhat squinting, a scar on his right wrist, has bought from his mother Thamounis’ cou[sin Pnepheros]
+6   son of Pap[o]ntos, of the same city, aged [about] 65, of middle height, honey-skinned, long-faced, a scar above his [eye]brow [… and]
+7   another on his right knee, in the street: the half share of the three-storey house belonging to him from his mother,
+8   with [all] its en[trances]
+9   and exits [and] appurtenances, situated at the Sarapeion by the city of the Oxyrhynchi,
+10   in the southern [parts of the quarter]
+11   Temgemou[thi]s, west of the street leading to the quarter called “of the Shepherds”. Neighbors of the whole [house: on the south]
+12   and east, public streets; on the north, that of the aforesaid buyer Tryphon’s
+13   mother Thamounis; [on the west, the house of the]
+14   seller Pnepheros’ sister Tausiris, a blind alley lying between. (Price:) 32 talents
+15   of bronze. And [the seller] will gua[rantee the]
+16   half share of the house under disposition, for ever, against all comers, with every guarantee, in the
+17   sa[me] street.
+18   In the second year of Nero Claudius Caesar Augustus Germanicus Imperator, month
+19   Sebastos 6, executed through And[romachos and Diogenes]
+20   the agoranomoi.
+21   Payment of the conveyance-tax, year 2 of Nero Claudius Caesar Augustus Ger[manicu]s Imperator, month [Sebastos 6. Paid through the]
+22   bank in the city of the Oxyrhynchi headed by Sara[pi]on and partners …[…] Tryphon son of Dionysios […]
+23   tax on the half share of the three-storey house belonging from his mother to the [se]ller,
+24   with [all its entrances]
+25   and exits and appurtenances, situated at the Sarapeion by the city of the Oxyrhynchi in the [southern parts]
+26   of the quarter Temgenouthis, in the parts west of the street leading to the quarter called
+27   [“of the Shepherds”,]
+28   which he bought from his mother Thamounis’ cousin Pnephe[ros] son of Papontos
+29   [of the same]
+30   city by agoranomic deed, for 32 bronze talents — bronze reckoned in silver, 3 talents 1200 dr. — the one-tenth tax with transport charge, […] drachmas.

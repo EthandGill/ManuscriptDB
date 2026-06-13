@@ -1,0 +1,83 @@
+# ---------------------------------------------------------
+# P.Oxy 2.268 - Contract for Repayment of a Dowry
+# Source: papyri.info DDbDP p.oxy;2;268  (Trismegistos 20539)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.268
+label:    P.Oxy 2.268
+name:     Contract for Repayment of a Dowry
+genre:    contracts
+date:     nach 29. Nov. 57
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    New Haven, Yale University, Beinecke Library P. CtYBR 38 fol
+content:  A copy of a contract from Oxyrhynchos (after 57 CE) settling the repayment of a dowry and the cession of inheritance shares between Ammonarion, her daughter Ophelous, and Antiphanes, with a registration note.
+tm:       20539
+source:   https://papyri.info/ddbdp/p.oxy;2;268
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   ἀντίγραφον. Θέωνι ἀρχιδικα[στ]ῆι καὶ πρὸς τῇ ἐπιμελε[ί]ᾳ τ[ῶ]ν χρη[μα]τιστῶν καὶ τῶν
+r.2   ἄλλων κριτηρίων
+r.3   παρὰ Ἀμμωναρί[ο]υ τῆς Ἀμμω[νί]ου τοῦ Διονυσίου, ὡς ἐν [Πτο]λεμαίδι τῆς Ἑρμίου χρηματί[ζ]ει,
+r.4   ἀ[σ]τῆς καὶ τῆς ταύτης
+r.5   [θ]υ̣[γ]ατρὸς Ὠφε[λοῦτ]ος τῆς Ἡρακλᾶτος τῶν ἀπʼ Ὀξυρύγχων πόλεως, μετὰ κυρίο[υ] τῶν
+r.6   δύ[ο] γυναικῶν τ[ο]ῦ τῆς
+r.7   [Ἀμμων]αρίου ὁμ[ομ]ητρίου ἀδ[ε]λφοῦ Βησαρί[ω]νος τοῦ Ἡρ[ᾶτο]ς, ὡς ἐν τῆι αὐτῇ Πτολε[μ]αίδι
+r.8   χρηματίζει,
+r.9   [καὶ παρὰ Γα(?)]ί̣ου Κ[λαυδί(?)]ο̣υ̣(?) Ἀντιφάν[ο]υς τοῦ Ἀμμωνί̣[ου τ]ῶ̣ν̣ [ἀπὸ] τῆς αὐτῆς Ὀξυρύγχων πόλ[ε]ως. συνχωροῦμεν
+r.10   [πρὸς ἀλλήλο]υς ἐπὶ τοῖσδε, ὥστε εἶναι ἡ̣ [Ἀμμωνάριο]ν [καὶ] ἡ Ὠφελοὺς εὐπιθεῖς γεγονυῖαι
+r.11   καὶ ἀπεσχηκυῖαι
+r.12   [παρὰ τοῦ Ἀντ]ιφάνους διὰ χειρὸς [ἐ]ξ οἴκου ὃ καὶ ἐπε[ίσθη]σαν κεφάλαιον, ἡ μὲν Ἀμμωνάριον
+r.13   ἀνθʼ ἧς προσ-
+r.14   [ηνέγκατο τ]ῷ̣ τοῦ μὲν Ἀντιφάνους πατρὸς ἀδελφ[οῦ] δετῆς Ὠφελο[ῦ]τος πατρὶ ἑ̣[αυ]τῆς δ̣ὲ̣ γενομένωι
+r.15   καὶ [μετηλλ]αχότι ἀνδρὶ Ἡρακλᾶτι Ἀντιφάνους τῶ[ν] ἀπὸ τῆς αὐτῆς Ὀξυρύγχων πόλεως φ[ε]ρν[ῆ]ς
+r.16   τ̣ε̣ι̣μ̣[ῆς] [ ἀργ]υρίου δραχμῶν ὀκτακοσίων κατ[ὰ συ]νχώρησιν τὴν τελειωθεῖσαν διὰ τῆς ἐφημερίδος
+r.17   ἐν τοῖς ἔμπ[ρο]σθεν χρόνοις, ἡ δὲ Ὠφελοῦς καὶ αὐ[τη]ι̣ ἐξέσταται τῶι Ἀντιφάνει τοῦ κατʼ αὐτὴν μ[έ]ρους
+r.18   τῶν ὑπὸ τοῦ μετηλλαχότος αὐτῆς πατρὸς Ἡρακλᾶτος ἀπολελιμμένων πάντων, καὶ εἶναι ἄκυρον
+r.19   [τ]ὴν δηλουμένην τοῦ γάμου συγχώρησιν κ[αὶ μη]δεμίαν τῆι Ἀμμωναρίωι καὶ τῆι Ὠφελοῦτι
+r.20   μηδʼ ἄλλωι
+r.21   ὑπὲρ αὐτῶν καταλίπεσθαι ἔφ[ο]δον ἐπὶ τὸν Ἀντιφάν[η] μηδὲ ἐπὶ τὰ τοῦ Ἡρακλᾶτος ἀπολελιμμένα ,
+r.22   [τῇ] μὲν Ἀμμ[ω]νάριον μήτε περὶ τῆς διευλυτημένης φερνῆς, ῇ δὲ Ὠφέλους μήτε περὶ τῶν
+r.23   [ἐξε]σταμένων καθὼς πρόκειτα[ι, ἀμ]φοτέροις δ̣ὲ περὶ ἄλλου μηδενὸς ἁπλῶς ἐνγράπτου
+r.24   ἢ ἀγράφου πράγματος τῶν ἐκ τῶν ἐπάνω χ̣ρ[ό]ν̣ων μέχρι τῆς ἐνεστώσης ἡμέρας, ἢ τὴν
+r.25   ἐσομένην ἔφ[ο]δον ἄκυρον καὶ πρόσδεκτον ὑπάρχειν. ἐν δὲ τοῖς προκειμένοις οὐκ ἔνεστι σωματ(ισμός)·
+r.26   ἀξιοῦμεν ὡς καθήκ[ε]ι. (ἔτους) δ Νέρωνος Κλαυδίου Κ[αί]σαρ[ο]ς Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος, μη(νὸς) Νερωνείου
+r.27   Σεβαστοῦ γ. ἀντίγρα(φον). Ἀπ[ολλώ]ν̣ιος. κατακε[χ]ώρισται. ms
+r.28   (hand 2) μὴ ἐλαττουμένου τοῦ Ἀντιφάνους ἐν τῇ ἐπ[ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ̣[ ̣]α[ ̣ ̣ ̣ οὗ ἐπρίατο]
+r.29   παρʼ αὐτοῦ μέρους αἰθρίου ἀκολούθως τῇ εἰς αὐτὸ̣ν̣ [γεγονυίᾳ καταγραφῇ].
+
+[TRANSLATION]
+1   Copy. To Theon, chief-justice (archidikastes) and in charge of the superintendence of the chrematistai and of the
+2   other tribunals,
+3   from Ammonarion daughter of Ammonios son of Dionysios, as she is registered in Ptolemais Hermiou,
+4   a citizen, and from her
+5   daughter Ophelous daughter of Herakles, of those from Oxyrhynchos city, with the guardian of the
+6   two women,
+7   the full brother by the same mother of [Ammon]arion, Besarion son of Heras, as he is registered in the same Ptolemais,
+8   a registered citizen,
+9   [and from Ga]ius Cl[audi]us(?) Antiphanes son of Ammonios, of those [from] the same Oxyrhynchos city. We agree
+10   [with one anoth]er on these terms, that Ammonarion and Ophelous, having become satisfied
+11   and having received in full
+12   [from Ant]iphanes by hand, from the house, the capital sum which they were also persuaded (to accept), Ammonarion on the one hand
+13   in return for what she contri-
+14   [buted t]o the brother of Antiphanes's father, who became husband of herself and father of Ophelous,
+15   and (now) deceased, Herakles son of Antiphanes, of those from the same Oxyrhynchos city, as a dowry
+16   in value, [of sil]ver eight hundred drachmas, according to the agreement completed through the daybook (ephemeris)
+17   in the times before, and Ophelous on the other hand herself also cedes to Antiphanes the share belonging to her
+18   of all the things left behind by her deceased father Herakles, and that the
+19   declared agreement of the marriage is void, and that no right of recourse is left to Ammonarion or to Ophelous
+20   nor to anyone else
+21   on their behalf against Antiphanes, nor upon the things left behind by Herakles,
+22   to Ammonarion neither concerning the discharged dowry, to Ophelous neither concerning the
+23   [ce]ded (shares) as aforesaid, and to both concerning absolutely nothing else, written
+24   or unwritten matter, from the times above up to the present day, or that the
+25   future right of recourse shall be void and inadmissible. And in the aforesaid there is no registration of persons (somatismos);
+26   we request as is fitting. Year 4 of Nero Claudius Caesar Augustus Germanicus Imperator, in the month Neroneios
+27   Sebastos, the 3rd. Copy. Apollonios. It has been registered. (ms)
+28   (hand 2) Without prejudice to Antiphanes in the [...] of the [share of the courtyard which he bought]
+29   from him, in accordance with the [conveyance made] to him.

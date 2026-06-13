@@ -1,0 +1,67 @@
+# ───────────────────────────────────────────────
+# P.Tebt 2.445 — Lease — five arouras of royal land for one year
+# Source: papyri.info DDbDP p.tebt;2;445  (Trismegistos 14557)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Tebt 2.445
+label:    P.Tebt 2.445
+name:     Lease — five arouras of royal land for one year
+genre:    contracts
+date:     92 CE (?)
+language: Greek (Koiné)
+found:    Tebtunis (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berkeley, Bancroft Library P. Tebt. 445
+content:  Pakebkis leases Orseus five arouras in two parcels at 37½ artabas of wheat by the four-choinix measure of the god’s granary; both sign by proxy
+tm:       14557
+source:   https://papyri.info/ddbdp/p.tebt;2;445
+lat:      29.108
+lon:      30.937
+
+[GREEK]
+r.1   [⁦ -ca.?- ⁩ ο(ὐλὴ)] ὀ̣φ[ρ]ύι [δεξιᾷ, τοῦ δὲ Ὀρσέως Δίδυμος Κρονίωνος]
+r.2   ὡ(ς) (ἐτῶν) λδ [⁦ -ca.?- ⁩]
+r.3   (hand 2) Πακῆβκις Π[ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ μεμίσθωκα πρὸς μόνον τὸ]
+r.4   δωδοδέκατον ἔτ̣[ος τὰς τῆς βασιλικῆς γῆς ἀρούρας]
+r.5   πέντε ἐν δυσὶ [σφραγῖσι, ὧν πρώτης σφραγῖδος ἄρουραι]
+r.6   τέσσαρες ἐν τῷ λ[εγομένου] [Λααρ]χικοῦ γύου , δε̣υτ[έρας δὲ]
+r.7   σφραγῖτος οἱ λυ̣πηι ἄρουρ[α μ]ία ἐν τῷ ἕκτου γ̣ύ[ου] ,
+r.8   ἐκφορίου τοῦ παντὸς ἄνευ σπερμάτων πυροῦ ἀρ̣ταβῶν
+r.9   τριάκοντα ἑπτ̣ὰ̣ ἡμίσους μέτρου τετραχ̣ο̣ι̣[ν]ί̣κου
+r.10   θησαυροῦ θεοῦ, καθὼς πρόκιται. ἔγραψεν ὑπὲρ αὐ̣τοῦ̣
+r.11   Ψενκῆβκις ὁ υἱὸς διὰ τὸ μὴ δεν αὐτὸν γράμματα.
+r.12   (hand 3) Ὀρσεῦς Κρονίω(νος) Πέρσης τῆς ἐπιγονῆς μμίσθωμαι τὰς̣
+r.13   τῆς βασιλεικῆς γῆς ἀρούρας πέντε πρὸς μόνον τὸ δωδεκακα-
+r.14   τον ἔτος, ἐκφορίου τοῦ παντὸς πυροῦ ἀρτάβας τριά̣κ̣ον-
+r.15   τα ἑπτὰἡμίσους, πρὸς ἐμὲ ὄ̣ντων τῶν {τοῦ} φολετρο̣υ
+r.16   ἐπισπουδασμοῦ, καθὼ(ς) πρόκιται. ἔγραψεν ὑπὲρ αὐ(τοῦ) Δίδυμ̣(ος)
+r.17   Κρονίω(νος) μὴ εἰδό(τος) γραμτα .
+r.18   ἐντέτακ(ται) διὰ το(ῦ) ἐν Τεβτύνι
+r.19   γραφίου . r
+r.20   μίσθ(ωσις) Πα̣[κήβκε]ω̣ς̣
+r.21   πρὸ(ς) Ὀρ̣[σ]ε̣ῦ̣ν̣ (ἀρουρῶν) ε.
+
+[TRANSLATION]
+1   [… a scar on the right] eyebr[ow; and for Orseus, Didymos son of Kronion,]
+2   ag(ed) 34 […]
+3   (2nd hand) I, Pakebkis son of P[……, have leased, for only the]
+4   twelfth ye[ar, the five arouras of royal land]
+5   in two [parcels, of which the first parcel is four] arouras
+6   in the field [called] of [Laar]chos, and of the second
+7   parcel the remaining [o]ne arour[a] in the Sixth fie[ld],
+8   at a total rent, apart from seed, of thirty-
+9   seven and a half artabas of wheat by the four-choi[n]ix measure
+10   of the god’s granary, as aforesaid. His son Psenkebkis wrote
+11   on his behalf because he does not know letters.
+12   (3rd hand) I, Orseus son of Kronio(n), Persian of the epigone, have taken on lease the
+13   five arouras of royal land for only the twelf-
+14   th year, at a total rent of thirty-sev-
+15   en and a half artabas of wheat, the carriage-charges of the
+16   delivery falling on me, as afore(said). Didym(os) son of
+17   Kronio(n) wrote on his beh(alf), as he does not know letters.
+18   Registered through the record-office at
+19   Tebtunis.
+20   Lease, of Pa[kebki]s
+21   to Or[s]eus, of 5 (arouras).

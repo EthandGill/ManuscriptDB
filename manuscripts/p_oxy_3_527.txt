@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# P.Oxy 3.527 — Letter — Hatres offers the fuller Serenus for a day’s work
+# Source: papyri.info DDbDP p.oxy;3;527  (Trismegistos 28367)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy 3.527
+label:    P.Oxy 3.527
+name:     Letter — Hatres offers the fuller Serenus for a day’s work
+genre:    letters
+date:     2nd–early 3rd century CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Philadelphia, University of Pennsylvania Museum E 2803
+content:  “If you need him, send an attendant for him today, the 19th — see you don’t neglect it, for I am holding him”
+tm:       28367
+source:   https://papyri.info/ddbdp/p.oxy;3;527
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Ἁτρῆς Ἡρᾶτι τῷ ἀδελφῷ χαίρειν.
+r.2   καθὼς ἐνετείλω μοι περὶ Σερήνου
+r.3   τοῦ γναφέως ὁ συνεργαζόμενος μετὰ
+r.4   Φιλέου, εἰ μὲν χρείαν αὐτοῦ ἔχεις πέμ-
+r.5   ψον ὑπηρέτην ἐπʼ αὐτὸν σήμερον, ἥτις
+r.6   ἐστὶν ιθ. {ἐπεὶ γὰρ αὐτὸν κατέχω} ἀλ ὅ-
+r.7   )ρα μὴ ἀμελήσῃς, ἐπεὶ γὰρ ἐγὼ αὐτὸν κα-
+r.8   τέχω.
+r.9   ἐρρῶσθ(αι) εὔχομ(αι) εὖ πράττοντ(α). v
+r.10   ἀπόδ(ος) [Ἡ]ρ̣ᾶτι.
+
+[TRANSLATION]
+1   Hatres to Heras his brother, greeting.
+2   As you instructed me about Serenus
+3   the fuller, the one working with
+4   Phileas: if you have need of him, send
+5   an attendant for him today, that
+6   is the 19th. {For I am holding him} But
+7   see that you do not neglect it, for I am hold-
+8   ing him.
+9   I pray that you fare well and prosper.
+10   Deli(ver) to [He]ras.

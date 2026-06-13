@@ -1,0 +1,73 @@
+# ---------------------------------------------------------
+# P.Fay 102 - Estate account of harvest-labour (fruit-shaking)
+# Source: papyri.info DDbDP p.fay;;102  (Trismegistos 10769)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Fay 102
+label:    P.Fay 102
+name:     Estate account of harvest-labour (fruit-shaking)
+genre:    documents
+date:     c. 105 CE
+language: Greek (Koine)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10794
+content:  A day-by-day account of an estate's fruit harvest (the 'shaking'), tallying gangs of workmen, younger workmen and boys with their pay in obols and the baskets gathered, at Apias, Sentheus, Dionysias and other plots
+tm:       10769
+source:   https://papyri.info/ddbdp/p.fay;;102
+lat:      29.4239
+lon:      30.5536
+
+[GREEK]
+r.1   ιθ ὁμοίω(ς) εἰς Ἀπιάδα τι[να]σσό(ντων) ἐργ(ατῶν) ιη (ὀβολοὶ) ρη, ἄλ(λων) νεω(τέρων) ἐργ(ατῶν) ιβ (ὀβολοὶ) ξ,
+r.2   καὶ παίδ(ων) ια [(ὀβολοὶ)] μδ, ἄλ(λων) παίδ(ων) ζ (ὀβολοὶ) κδ𐅵, ἄλ(λων) παίδ(ων) ζ (ὀβολοὶ) κα, ἄλ(λων) παίδ(ων) ια
+r.3   (ὀβολοὶ) κζ𐅵, ἄλ(λων) παίδ(ων) β (ὀβολοὶ) δ, ἄλ(λου) παιδ(ὸς) α (ὀβολὸς) α. γί(νονται) (ὀβολοὶ) σϙ, σφυρίδ(ες) νε, ἐγλεκ(τοὶ) ἄλ(λαι) ε.
+r.4   κα ὁμοίω(ς) ἐργ(ατῶν) κα (ὀβολοὶ) ρκϛ, ἄλ(λων) νεω(τέρων) ἐργ(ατῶν) ιγ (ὀβολοὶ) ξε, καὶ παίδ(ων) ιε (ὀβολοὶ) ξ,
+r.5   ἀλ(λων) παίδ(ων) κγ (ὀβολοὶ) π𐅵, ἄλ(λων) παίδ(ων) γ (ὀβολοὶ) θ, ἄλ(λων) παίδ(ων) θ (ὀβολοὶ) κβ𐅵, ἄλ(λων) παίδ(ων) θ
+r.6   (ὀβολοὶ) ιη. γί(νονται) ἐπὶ τὸ αὐτὸ (ὀβολοὶ) τπα, σφυρίδ(ες) οϛ, ἐγλεκ(τοὶ) ἄλ(λαι) β.
+r.7   κβ ὁμοίω(ς) ἐργ(ατῶν) η (ὀβολοὶ) μη, ἄλ(λων) ἐργ(ατῶν) ι (ὀβολοὶ) ν, καὶ παίδ(ων) ιδ (ὀβολοὶ) νϛ, ἄλ(λων) παίδ(ων) ζ
+r.8   (ὀβολοὶ) κδ𐅵, ἄλ(λων) παίδ(ων) ιε (ὀβολοὶ) με, ἄλ(λων) παίδ(ων) β (ὀβολοὶ) ε, ἄλ(λων) παίδ(ων) ιδ (ὀβολοὶ) κη.
+r.9   γί(νονται) ἐπὶ τὸ αὐτὸ (ὀβολοὶ) σνϛ𐅵, σφυρίδ(ες) ξζ, ἐγλεκ(τοὶ) ἄλ(λαι) γ.
+r.10   κγ ὁμοίω(ς) ἐργ(ατῶν) β (ὀβολοὶ) ιβ, καὶ παιδ(ὸς) α (ὀβολοὶ) δ, ἄλ(λων) παίδ(ων) ζ (ὀβολοὶ) κα, γί(νονται) (ὀβολοὶ) λζ, σφυρίδ(ες) γ.
+r.11   γί(νονται) ἐπὶ τὸ αὐτὸ ὅλου τοῦ κτήματ(ος) σφυρίδ(ες) σια, (δραχμαὶ) ρλζ(πεντώβολον)(ἡμιωβέλιον).
+r.12   κδ ὁμοίω(ς) εἰς τὴν Σένθεω(ς) τινασσό(ντων) ἐργ(ατῶν) ιϛ (ὀβολοὶ) ϙϛ, ἄλ(λων) νεω(τέρων) ἐργ(ατῶν) β (ὀβολοὶ) ι,
+r.13   καὶ παιδ(ὸς) α (ὀβολοὶ) δ, ἄλ(λων) παίδ(ων) ια (ὀβολοὶ) κζ𐅵, ἄλ(λων) παίδ(ων) θ (ὀβολοὶ) ιη. γί(νονται) ἐπὶ τὸ
+r.14   αὐτὸ (ὀβολοὶ) ρνε𐅵, σφυρίδες λβ, ἐγλεκ(τοὶ) ἄλ(λαι) δ.
+r.15   κε ὁμοίω(ς) ἐργ(ατῶν) ιε (ὀβολοὶ) ϙ, ἄλ(λου) νεω(τέρου) ἐργ(άτου) α (ὀβολοὶ) ε, καὶ παιδ(ὸς) α (ὀβολοὶ) δ, ἄλ(λων) παίδ(ων) ια
+r.16   [(ὀβολοὶ) κ]ζ𐅵, ἄλ(λων) παίδ(ων) ια (ὀβολοὶ) κβ. γί(νονται) (ὀβολοὶ) ρμη𐅵, σφυρίδ(ες) λα.
+r.17   [κ ̣] ὁμοίω(ς) ἐργ(ατῶν) β (ὀβολοὶ) ιβ, καὶ παιδ(ὸς) α (ὀβολοὶ) δ, ἄ[λ(λων)] παί[δ(ων) ι]γ (ὀβολοὶ) λβ𐅵, ἄλ(λων) παίδ(ων) ζ
+r.18   (ὀβολοὶ) ιδ. γί(νονται) ἐπὶ τὸ αὐτὸ (ὀβολοὶ) ξβ𐅵, σφυρίδ(ες) ια.
+r.19   γί(νονται) ἐπὶ τὸ αὐτὸ ὅλου τοῦ κτήματος σφυρίδ(ες) οη, (δραχμαὶ) νβ(διώβολον)(ἡμιωβέλιον).
+r.20   κθ ὁμοίω(ς) εἰς Διονυσιάδα διαλεγόντ(ων) πτῶμα παίδ(ων) κ (ὀβολοὶ) ξ,
+r.21   ἄλ(λων) παίδ(ων) ιε (ὀβολοὶ) λ. γί(νονται) (ὀβολοὶ) ϙ, σφυρίδ(ες) νθ.
+r.22   γί(νονται) ἐπὶ τὸ αὐτὸ ὅλου τοῦ κτήματος σφυρίδ(ες) ρξζ, (δραχμαὶ) ϙβ(τριώβολον).
+r.23   γί(νονται) ὅλου τοῦ τιναγμοῦ ἐπὶ τὸ αὐτὸ σφυρίδ(ες) ωλ, [(δραχμαὶ)] ψλη(ὀβολὸς)(ἡμιωβέλιον).
+r.24   καὶ παρθέ(νων) λικνιζουσῶ(ν) σῖτον (δραχμαὶ) ι (ὀβολοὶ) ε.
+
+[TRANSLATION]
+1   19th, likewise, at Apias: of shakers, 18 workmen, 108 obols; of other younger workmen, 12, 60 obols;
+2   and of boys, 11, 44 [obols]; of other boys, 7, 24 1/2 obols; of other boys, 7, 21 obols; of other boys, 11,
+3   27 1/2 obols; of other boys, 2, 4 obols; of one other boy, 1 obol. Total 290 obols; 55 baskets; 5 more choice (baskets).
+4   21st, likewise: 21 workmen, 126 obols; 13 other younger workmen, 65 obols; and 15 boys, 60 obols;
+5   23 other boys, 80 1/2 obols; 3 other boys, 9 obols; 9 other boys, 22 1/2 obols; 9 other boys,
+6   18 obols. Grand total 381 obols; 76 baskets; 2 more choice (baskets).
+7   22nd, likewise: 8 workmen, 48 obols; 10 other workmen, 50 obols; and 14 boys, 56 obols; 7 other boys,
+8   24 1/2 obols; 15 other boys, 45 obols; 2 other boys, 5 obols; 14 other boys, 28 obols.
+9   Grand total 256 1/2 obols; 67 baskets; 3 more choice (baskets).
+10   23rd, likewise: 2 workmen, 12 obols; and 1 boy, 4 obols; 7 other boys, 21 obols; total 37 obols; 3 baskets.
+11   Grand total for the whole estate: 211 baskets; 137 drachmas 5 1/2 obols.
+12   24th, likewise, to the (plot) of Sentheus: of shakers, 16 workmen, 96 obols; 2 other younger workmen, 10 obols;
+13   and 1 boy, 4 obols; 11 other boys, 27 1/2 obols; 9 other boys, 18 obols. Grand
+14   total 155 1/2 obols; 32 baskets; 4 more choice (baskets).
+15   25th, likewise: 15 workmen, 90 obols; 1 other younger workman, 5 obols; and 1 boy, 4 obols; 11 other boys,
+16   27 1/2 [obols]; 11 other boys, 22 obols. Total 148 1/2 obols; 31 baskets.
+17   2[6th?], likewise: 2 workmen, 12 obols; and 1 boy, 4 obols; 1[3] o[ther] boys, 32 1/2 obols; 7 other boys,
+18   14 obols. Grand total 62 1/2 obols; 11 baskets.
+19   Grand total for the whole estate: 78 baskets; 52 drachmas 2 1/2 obols.
+20   29th, likewise, to Dionysias: of those gathering windfall, 20 boys, 60 obols;
+21   15 other boys, 30 obols. Total 90 obols; 59 baskets.
+22   Grand total for the whole estate: 167 baskets; 92 drachmas 3 obols.
+23   Grand total of the whole shaking (harvest): 830 baskets; [738] drachmas 1 1/2 obols.
+24   And of the girls winnowing grain: 10 drachmas 5 obols.

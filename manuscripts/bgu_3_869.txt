@@ -1,0 +1,55 @@
+# ---------------------------------------------------------
+# BGU 3.869 - Census declaration - five camels of a minor
+# Source: papyri.info DDbDP bgu;3;869  (Trismegistos 9388)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.869
+label:    BGU 3.869
+name:     Census declaration - five camels of a minor
+genre:    documents
+date:     Jan-Feb 135 CE
+language: Greek (Koine)
+found:    Soknopaiou Nesos (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8791
+content:  Taouetis, a minor, through her kinsman-manager Satabous, registers the same five full-grown camels at Soknopaiou Nesos for the 19th year of Hadrian as in the past 18th
+tm:       9388
+source:   https://papyri.info/ddbdp/bgu;3;869
+lat:      29.5377
+lon:      30.6856
+
+[GREEK]
+r.1   [Ἀρ]χίᾳ στρ(ατηγῷ) κ̣α̣[ὶ]
+r.2   Ἑρμείνῳ βασιλ(ικῷ) γραματ(εῖ)
+r.3   Ἀρσι(νοΐτου) Ἡρακλείδο(υ) μερίδο(ς)
+r.4   παρὰ Ταουῆτις τῆς Ἁρ̣-
+r.5   π̣α̣γ̣ά̣θ̣ου ἀφήλικος μετὰ
+r.6   φροντιστοῦ τοῦ συνγενοῦς
+r.7   Σαταβοῦτος τοῦ Σαταβ(οῦτος). [ο]ὓς
+r.8   ἀπεγρ(αψάμην) τῷ διεληλυθότι
+r.9   ιη (ἔτει) ἐπὶ κώμης [Σοκνο-]
+r.10   [π]αίου Νήσου κα[μήλους]
+r.11   τ̣ελ̣είους π̣έν̣τε τ[ο]ὺ̣[ς]
+r.12   α̣ὐ̣τοὺς . ἀπογράφομαι
+r.13   [κα]ὶ εἰς τὴν τοῦ ἐνεστῶτ(ος)
+r.14   ι̣θ̣ (ἔτους) Ἑ̣δ̣[ρια]ν̣ου Καίσαρος
+r.15   [τοῦ κ]υρίου [ἀπο]γραφὴν
+
+[TRANSLATION]
+1   To [Ar]chias, strategos, an[d]
+2   to Hermeinos, royal scribe,
+3   of the Arsinoite, Herakleides division,
+4   from Taouetis daughter of Har-
+5   pagathos, a minor, with
+6   as manager her kinsman
+7   Satabous son of Satab(ous). The (camels) which
+8   I registered in the past
+9   18th year at the village of [Sokno-]
+10   paiou Nesos, ca[mels]
+11   full-grown, five, the
+12   same — I register (them)
+13   [al]so for the registration of the present
+14   19th year of Hadrian Caesar
+15   [the l]ord.

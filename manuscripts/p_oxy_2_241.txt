@@ -1,0 +1,95 @@
+# ---------------------------------------------------------
+# P.Oxy 2.241 - Request to Register a Mortgage Contract
+# Source: papyri.info DDbDP p.oxy;2;241  (Trismegistos 20510)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.241
+label:    P.Oxy 2.241
+name:     Request to Register a Mortgage Contract
+genre:    contracts
+date:     ca. 98 - 99
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Princeton, University Library 0132.692.241?
+content:  Caecilius Clemens asks the agoranomos to register a loan-and-mortgage contract on a one-third share of a house at Oxyrhynchus given as security by Thonis's brother for four hundred-plus drachmas.
+tm:       20510
+source:   https://papyri.info/ddbdp/p.oxy;2;241
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Καικιλλις Κλήμης
+r.2   τῷ ἀγρανόμῳ χ(αί)ρειν.
+r.3   ἀνάγραψον δανίου
+r.4   συνγραφὴν Θώνιος
+r.5   τοῦ Ἁρπαήσιος τοῦ
+r.6   Πετσερω̣θώνιος
+r.7   μητρὸς Πετοσίριος
+r.8   τῆς Ἁρπαήσιος
+r.9   τῶν ἀπʼ Ὀξυρύγχ(ων)
+r.10   πόλ(εως), ἀρχειπαστω-
+r.11   φώρου Θοήριδ̣ος
+r.12   καὶ Ἤσιδος καὶ Σ[α-]
+r.13   ράπιδος καὶ Ὠσί[ριος]
+r.14   καὶ τῶν συννά-
+r.15   ων θεῶν μεγίσ-
+r.16   των, ὑποθήκης
+r.17   τρίτου μέρους
+r.18   οἰκίας, ἐν ᾗ αἴθριον,
+r.19   καὶ αὐλῆς καὶ εἰ-
+r.20   σώδων καὶ ἐξόδων
+r.21   καὶ τῶν συνκυρόν-
+r.22   των τῶν ὄντων
+r.23   ἐπʼ ἀμφόδ(ου) δρώμου
+r.24   Γυμνασίου πρὸς
+r.25   τῷ Ὠσιρίῳ καὶ τῷ
+r.26   Ταμῳ , οὗ ὑπεθε-
+r.27   τω αὐτῷ ὁ ὁμογνή-
+r.28   σιος αὐτοῦ ἀδελ(φὸς)
+r.29   Θομφύας πρός ται
+r.30   ἃς εὐχρήστη̣σαν
+r.31   αὐτῷ κατὰ χιρόγρα-
+r.32   φον καὶ δι̣αιαγραφὴν
+r.33   τραπέζης δραχμὰς
+r.34   τετρακοσί[ας ̣ ̣ ̣ ̣ ̣]
+r.35   καὶ α[…]
+
+[TRANSLATION]
+1   Caecilius Clemens
+2   to the agoranomos, greeting.
+3   Register the contract of a loan
+4   (belonging to) Thonis
+5   son of Harpaesis son of
+6   Petserothonis,
+7   his mother being Petosiris
+8   daughter of Harpaesis,
+9   of those from the city of Oxyrhynchus,
+10   chief shrine-bearer (archipastopho-
+11   ros) of Thoeris
+12   and Isis and S[a-]
+13   rapis and Osi[ris]
+14   and the associated
+15   greatest gods,
+16   concerning a mortgage
+17   of a third part
+18   of a house, in which there is a courtyard,
+19   and of a court and en-
+20   trances and exits
+21   and of the things belonging together,
+22   which are
+23   in the quarter of the street
+24   of the Gymnasium by
+25   the Osireion and the
+26   Tamo, which his
+27   full-blooded brother
+28   Thomphyas mortgaged
+29   to him, against those (sums)
+30   which were lent for use
+31   to him according to a chiro-
+32   graph and bank pay-
+33   ment order: four hundred drachmas
+34   [ . . . . . ]
+35   and a[ ... ]

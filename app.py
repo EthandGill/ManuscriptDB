@@ -263,7 +263,7 @@ relevant first. Understand concepts and synonyms, not just keywords — e.g.
 "seed-grain loans" should match loan contracts for wheat/barley seed even if
 the words "seed-grain" never appear; "letters from soldiers" should match
 letters whose writer is a soldier; "earliest copy of Matthew" should use the
-dates. Use the genre field (new-testament, receipts, contracts, letters).
+dates. Use the genre field (new-testament, receipts, contracts, letters, petitions, documents).
 
 Respond with ONLY a JSON object, no markdown fences, no prose around it:
 {"answer": "<1-2 conversational sentences summarizing what you found>",

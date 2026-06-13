@@ -1,0 +1,57 @@
+# ---------------------------------------------------------
+# P.Oxy 2.276 - Receipt - delivery of state grain by ship-captains
+# Source: papyri.info DDbDP p.oxy;2;276  (Trismegistos 20547)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.276
+label:    P.Oxy 2.276
+name:     Receipt - delivery of state grain by ship-captains
+genre:    receipts
+date:     5 Sept 77 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    New Haven, Yale University, Beinecke Library P. CtYBR 39
+content:  Two helmsmen of a freight-boat, via the supercargo Claudius Celer, acknowledge to the sitologoi of Mermertha that they received the grain directed to them by the strategos for shipment
+tm:       20547
+source:   https://papyri.info/ddbdp/p.oxy;2;276
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   (hand 2) ̣ ̣ ̣ ̣λ( ) πλ( )
+r.2   (hand 1) ἔτους δεκά[του Αὐτοκρ]άτορος Καίσαρος
+r.3   Οὐεσπασιαν[οῦ Σεβαστο]ῦ, μηνὸς Σεβαστοῦ
+r.4   (hand 2) η Σεβ(αστῇ), (hand 1) ἐν Ὀ[ξυρύγχω]ν πόλει τῆς Θηβαίδος.
+r.5   ὁμολογοῦσ[ι ̣ ̣ ̣ ̣ ̣ ̣]ς Ἰ̣ακούβου καὶ Πτολ-
+r.6   λᾶς Νικοστράτου κ[αὶ ̣ ̣ ̣]ων Τρύφωνος κυ-
+r.7   βερνῆται π[λ]οίο[υ] ναυλωσίμου, ἑκάτε-
+r.8   ρος ἑνὲς διʼ ἐπιπλόου Κλαυδίου Κέλερος
+r.9   στρατιώτου λεγεῶνος δευτέρας ἑκατον-
+r.10   ταρχίας Βραβιρίου, Φρίβι Ἡρακλήου τῷ
+r.11   σὺν ἄλλοις σιτολόγοις δημοσίου θησαυ-
+r.12   ροῦ κώμης Μερμέρθων τῆς ἄνω τοπαρ-
+r.13   χίας, παριληφέναι πα[ρ]ʼ αὐτῶν τὰς ἐπισ-
+r.14   [τ]αλείσας α[ὐτ]οῖς ὑπὸ τοῦ τοῦ νομοῦ στρατη-
+r.15   γοῦ Κλαυδ[ίου] Ἡρακλε̣[ίο]υ ἐξ ἐπιστολῆς
+r.16   γραφείση[ς ὑπὸ ̣ ̣ ̣ ̣ ̣ ̣] Μ̣αρίου Οὐ[ί]νδικος
+
+[TRANSLATION]
+1   (docket ...)
+2   Year ten[th of Imper]ator Caesar
+3   Vespasian[us Augustu]s, month Sebastos
+4   8, dies Augusta, in the city of the O[xyrhyn]chi in the Thebaid.
+5   There acknowledge [...] son of Iakoubos, and Ptol-
+6   las son of Nikostratos, an[d ...]on son of Tryphon, hel-
+7   msmen of a freight-boat, ea-
+8   ch of one (boat), through the supercargo Claudius Celer,
+9   soldier of the second legion, of the centu-
+10   ry of Braberius, to Phribis son of Herakles, who is
+11   with the other sitologoi of the public gran-
+12   ary of the village of Mermertha of the upper topar-
+13   chy - that they have received fro[m] them the (grain) di-
+14   rected to them by the strategos of the nome,
+15   Claud[ius] Herakle[io]s, from a letter
+16   writte[n by ...] Marius Vi[n]dex

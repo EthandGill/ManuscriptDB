@@ -1,0 +1,99 @@
+# ---------------------------------------------------------
+# P.Oxy 3.486 - Petition of Dionysia to the Epistrategos
+# Source: papyri.info DDbDP p.oxy;3;486  (Trismegistos 20622)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.486
+label:    P.Oxy 3.486
+name:     Petition of Dionysia to the Epistrategos
+genre:    petitions
+date:     nach 10. Okt. 131
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    New York, Columbia University P. Oxy. 486
+content:  Dionysia daughter of Chairemon petitions the epistrategos Iulius Varianus for leave to sail home to attend to her flooded estates while her absent opponent Sarapion fails to appear, appending a copy of an earlier petition of the same matter to the prefect Titus Flavius Titianus.
+tm:       20622
+source:   https://papyri.info/ddbdp/p.oxy;3;486
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Ἰουλίῳ Οὐαριανῷ ἐπιστρατήγῳ Ἑπτ[ὰ ν]ομῶν καὶ Ἀρσινοείτ[ου]
+r.2   παρὰ Διονυσίας τῆς Χαι[ρ]ήμονος μητρὸς Ἑρμιό[νη]ς τῆς Χαιρήμονος τῶν
+r.3   ἀπὸ τῆς μητροπόλεως τοῦ Ὀξυρυγχείτου νομοῦ. ἐνστάσης μ[οι] ἀμφισβητήσε-
+r.4   ως πρὸς Σαραπίωνά τινα Μ[ν]η̣[σιθέ]ου ὅ̣στις ὃ ἠγόρασα κ[τῆ]μα ἀμπελι[κ]ὸν καὶ σειτικὰ
+r.5   ἐδάφη παρὰ τοῦ πατρὸς α̣ὐ̣τ̣[ο]ῦ ἔτι ἀπὸ τοῦ ια (ἔτους) Ἁδριαν[οῦ] Καίσαρος τοῦ κυρίου ἀριθμή-
+r.6   σασα αὐτῷ τε τῷ π̣α̣τ̣[ρ]ὶ̣ [καί τι]ν̣[ι] δανε[ι]στῇ αὐ[τοῦ τὴν σ]υμφωνηθεῖ[σα]ν τιμὴν
+r.7   καὶ λαβοῦσα τὸν καθήκοντα τῆς ὠνῆς δημόσι[ον χρημα]τισμὸν ἔλεγεν ἐν πίστει
+r.8   με ἔχειν αὐτά, ἀκούσας Κλαύδιος Κυιντιανὸς [ὁ γενόμε]νος ἐπιστράτηγος [ὑ]περ-
+r.9   έθετο ἐπὶ τὸν κράτιστον [ἡγ]εμόνα. καἰγὼ μὲν ἔκ[τ]οτε προσκαρτερῶ τῷ [τ]οῦ
+r.10   ἡγεμόνος βήματι, τοῦ δὲ [ἀν]τιδίκου ἀνεπιστρεπτήσαντος καὶ μὴ παραγε-
+r.11   νομένου ἀνέδωκα τῷ [κρ]ατίστῳ ἡγεμόνι ἀναφ[ό]ριον οὗ ἀντίγραφ[ο]ν ὑπέτα-
+r.12   ξα ἐξιστοροῦσα τ̣ὴ̣ν̣ εκ̣[ ̣] ̣ ̣τ̣[ο]υ πράγματος διάθεσ̣ι̣ν καὶ ἀνέπεμψέ με ἐπ[ὶ] σὲ
+r.13   τὸν κύριον κριθησομένη[ν. ἐπ]εὶ οὖν ὁ ἀντίδικος [ο]ὐδὲ νῦν πάρεστιν ἡ δὲ [κα-]
+r.14   τασπορὰ ἐπείγει καὶ ἡ ἐπι̣μ̣[έ]λ̣ε̣ι̣α̣ τ̣ῶν ὑπὸ τοῦ ποτ[α]μοῦ παρασεσυρμένων
+r.15   χρῄζει μου τῆς παρουσία[ς] ἀξιῶ ἐὰν δόξῃ σοι ἐπιτρέψαι μοι ἀναπλεῦ̣σ̣α̣ι̣ κρι-
+r.16   θησομένην ὑπὸ σοῦ ἐπὶ τῶν τ̣ό̣πων, ἵνʼ ὦ εὐεργετημένη. διευτύχει.
+r.17   ἔστιν δὲ οὗ ἐπέδωκ[α τῷ κρα]τίστῳ ἡγεμόνι ἀναφορίου ἀντίγραφον·
+r.18   [Τ]ίτῳ Φλαουίῳ Τιτ[ι]αν[ῷ τ]ῷ κρατίστῳ ἡγεμόνι
+r.19   παρὰ Διονυσίας τῆς Χαιρήμ[ο]νος μητρὸς Ἑρμιόνης τῶν ἀπὸ Ὀξυρύγχων πόλεως.
+r.20   Σαραπίων τις Μνησιθέου ἀπ[ὸ τ]ῆς αὐτῆς πόλεως ἐπ[ὶ] Κλαυδίου Κυιντ[ι]ανοῦ τοῦ
+r.21   γενομένου ἐπιστρατήγου [τῶν] Ἑπτὰ νομῶν τῇ μητρί μου Ἑρμιόνῃ φαρμα-
+r.22   κείας ἐνκαλῶν καὶ περὶ ὑπα[ρχό]ντων τινῶν ἐλογοποιήσατο ὡς ὑποστελλόν-
+r.23   των αὐτῷ ὧν ἐγὼ ἡ Διονυ[σί]α κατὰ δημοσίους ἠγόρασα χρηματισμοὺς ἀρι-
+r.24   θμήσασα τιμὴν αὐτῶν τ[ῷ] π̣α̣τ̣ρὶ αὐτοῦ περιόντι καὶ δανεισταῖς τοῦ α[ὐ]τοῦ
+r.25   πατρὸς παρʼ οἷς ἦν τὰ δηλ[ο]ύμενα κτήματα ἐν ὑποθήκῃ κρατούμενα
+r.26   φάσκων κατὰ πίστιν ̣ ̣[ ̣ ̣] ̣ ἐ̣γ̣γεγράφθαι, καὶ τὴν ὅλην ὑπόθεσιν ὑπερ-
+r.27   θεμένου τοῦ ἐπιστρ[ατήγο]υ ἐπὶ σὲ τὸν εὐεργέτην τὴν μὲν μητέ-
+r.28   ρα μου συνέβη ἀποθαν̣ε̣ῖ̣[ν] πρὸ τῆς δίκης, ἐγὼ δὲ ἔκτοτε ἐκ τῆς τοῦ
+r.29   ἐπιστρατήγου ἐπιστολῆ[ς] μετὰ τοῦ Σαραπίωνος κελευσθεῖσα καταπ[λεῦ-]
+r.30   σαι ἐνθάδε κατήντησα τ[οῦ Σ]αραπίωνος μὴ ἐπιστραφέντος ὥστε κ[ατα-]
+r.31   πλεῦσαι. ἐπεὶ οὖν ἐνθάδ[ε] μοι διατριβούσῃ ἀπηνγέλη τὰ ἐμὰ πάν[τα]
+r.32   ἐκ τῆς ὑπερβαροῦς ἀνα[βάσ]ε̣ως τοῦ ἱερωτάτου Νίλου ἀπολωλένα[ι]
+r.33   ἐποίκιά τε κ[αὶ ἐδάφη καὶ] χώματα, παρακαλῶ σε, ἡγεμὼν κύριε, [τ]οῦ
+r.34   ἀντιδίκο[υ οὐδὲ νῦν παρό]ντος, ἐπιτρέψαι μοι ἀναπλεῦσαι ἵνα τὰ ἐ[μα]υ-
+r.35   τῆς δίκ̣[αια λάβω, μὴ σὺ]ν τοῖς ὑπάρχουσί μου κἀγὼ λειμῷ συναπολῶμαι,
+r.36   [ἵνʼ ὦ εὐεργετημένη]. διευτύχει. (ἔτους) ιϛ Ἁδριανοῦ Καίσαρος Φαῶφι ιβ.
+r.37   […]ς̣ ἔχει ἔντυχε τῷ ἐπιστρατήγῳ. ἀπόδος .
+
+[TRANSLATION]
+1   To Iulius Varianus, epistrategos of the Seven Nomes and of the Arsinoite,
+2   from Dionysia daughter of Chairemon, her mother being Hermione daughter of Chairemon, of those
+3   from the metropolis of the Oxyrhynchite nome. A dispute having been brought against me
+4   by a certain Sarapion son of Mnesitheos, who, regarding a vineyard property and grain-
+5   lands which I bought from his father back in the 11th year of Hadrian Caesar the lord, having paid
+6   to the father himself and to a certain creditor of his the agreed-upon price
+7   and having received the proper public registration of the purchase, alleged that I held
+8   them in trust, Claudius Quintianus, the former epistrategos, having heard (the case), re-
+9   ferred it to the most excellent prefect. And I from then on attend constantly at the
+10   prefect's tribunal, but since my opponent has been negligent and has not appeared,
+11   I submitted to the most excellent prefect a petition, a copy of which I have ap-
+12   pended, setting forth the disposition of the ... matter, and he sent me on to you
+13   the lord to have the case judged. Since then the opponent is not present even now, and the
+14   sowing-season presses and the care of the (lands) swept away by the river
+15   requires my presence, I request, if it seem good to you, that you permit me to sail up to be
+16   judged by you on the spot, that I may be benefited. Farewell.
+17   And the following is the copy of the petition which I submitted to the most excellent prefect:
+18   To Titus Flavius Titianus the most excellent prefect,
+19   from Dionysia daughter of Chairemon, her mother being Hermione, of those from the city of the Oxyrhynchites.
+20   A certain Sarapion son of Mnesitheos from the same city, before Claudius Quintianus the
+21   former epistrategos of the Seven Nomes, accusing my mother Hermione of poison-
+22   ing and concerning certain possessions, made up a story that there were being withheld
+23   from him (the properties) which I, Dionysia, bought according to public registrations, having
+24   paid the price for them to his father while living and to creditors of the same
+25   father, with whom the said properties were held under mortgage,
+26   asserting that they had been registered in trust, and the whole matter having been
+27   referred by the epistrategos to you the benefactor, it happened that my moth-
+28   er died before the trial, and I from then on, by the
+29   epistrategos's letter, having been ordered along with Sarapion to sail down
+30   here, arrived, Sarapion not having troubled himself to sail
+31   down. Since then, while I am staying here, it has been reported to me that all my property
+32   from the excessively high rise of the most sacred Nile has been destroyed,
+33   both farmsteads and lands and embankments, I beseech you, lord prefect, the
+34   opponent not being present even now, to permit me to sail up so that my own
+35   rights I may obtain, lest together with my property I too perish of famine,
+36   [that I may be benefited]. Farewell. Year 16 of Hadrian Caesar, Phaophi 12.
+37   [...] has (it); petition the epistrategos. Deliver it.

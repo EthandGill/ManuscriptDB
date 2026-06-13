@@ -1,0 +1,37 @@
+# ---------------------------------------------------------
+# BGU 3.880 - Tax receipt - hay-bundle and sundry kinds
+# Source: papyri.info DDbDP bgu;3;880  (Trismegistos 9394)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.880
+label:    BGU 3.880
+name:     Tax receipt - hay-bundle and sundry kinds
+genre:    receipts
+date:     27 June 197 CE
+language: Greek (Koine)
+found:    Arsinoite nome, Fayum, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7945
+content:  Sarapion of the village of Mouchis pays Horion, through the elders, 12 dr. for the single-bundle hay-tax and other kinds, twice
+tm:       9394
+source:   https://papyri.info/ddbdp/bgu;3;880
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ἔτους πέμτου Λουκίου Σεπτιμίο[υ]
+r.2   Σεουήρου Εὐσεβοῦς Περτίνακος Σε(βασ)τοῦ
+r.3   Παοῖνι κθ. διέγρα(ψεν) Ὡρίωνι διὰ πρεσ(βυτέρων)
+r.4   κ̣ώ̣(μης) Μούχ(εως) Σαραπίων μονοδεσμίας
+r.5   χόρτου καὶ ἄλλων ἰδῶν δώδεκα
+r.6   (γίνονται) (δραχμαὶ) ιβ, Ἐπὶφ γ δώδεκα (γίνονται) (δραχμαὶ) ιβ.
+
+[TRANSLATION]
+1   Year five of Lucius Septimiu[s]
+2   Severus Pius Pertinax Augustus,
+3   Pauni 29. Paid to Horion, through the elders
+4   of the village of Mouchis: Sarapion, (tax) on single-bundle
+5   hay and other kinds, twelve (dr.),
+6   total 12 dr.; Epeiph 3, twelve, total 12 dr.

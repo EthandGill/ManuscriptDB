@@ -1,0 +1,83 @@
+# ---------------------------------------------------------
+# BGU 3.835 - Monthly Report of the Sitologoi of Karanis
+# Source: papyri.info DDbDP bgu;3;835  (Trismegistos 9377)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.835
+label:    BGU 3.835
+name:     Monthly Report of the Sitologoi of Karanis
+genre:    documents
+date:     7. Jan. 217
+language: Greek (Koine)
+found:    Karanis (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7048
+content:  A monthly grain-account submitted by the sitologoi (grain-officials) of Karanis to the strategos in 217 CE, detailing wheat measured into the granary and seed-grain disbursed.
+tm:       9377
+source:   https://papyri.info/ddbdp/bgu;3;835
+lat:      29.5186
+lon:      30.9036
+
+[GREEK]
+r.1   Αὐρηλίῳ Διον[υσ]ίῳ στρ(ατηγῷ) Ἀρσι(νοΐτου) Ἡρακλ(είδου) μερίδος
+r.2   παρὰ Αὐρηλίω[ν] Λογ’γεί[νο]υ τοῦ καὶ Ζωσίμου
+r.3   Λεωνίδου κα[ὶ] Ἁρπά[λου Σ]αραπίωνος καὶ Ἥρωνος
+r.4   Κοπρῆτος τῶν γ καὶ τῶν λοιπῶν σιτολόγ(ων)
+r.5   κώμης Καρανίδος. μηνιαῖος ἐν κεφαλαίου
+r.6   τοῦ Χύακ μηνὸς τοῦ ἐνεστῶτος κε (ἔτους)
+r.7   ἀπὸ γενήματος τοῦ δειελ(ηλυθότος) κδ (ἔτους)
+r.8   εἰσὶν αἱ μετρηθ(εῖσαι) ἡμεῖν ἐν θησαυρῷ τῆς προκ(ειμένης)
+r.9   κώμης τῷδε τῷ μηνὶ (πυροῦ ἀρτάβαι) τε𐅵 διαφό(ρου) (πυροῦ ἀρτάβης) δ´
+r.10   γ(ίνοναι) σὺν δι[α]φό(ρῳ) (πυροῦ ἀρτάβαι) λ[ε𐅸] ὧν
+r.11   Καρανίδος δη(μοσίων) (πυροῦ ἀρτάβαι) σν[δ], ὁμοί(ως) κ(ατ)οί(κων) (πυροῦ ἀρτάβαι) μϛ
+r.12   γ(ίνονται) κώμης (πυροῦ ἀρτάβαι) τ, ὑ π(ὲρ) τῶν ἄλλων κω(μῶ)ν
+r.13   Ἱερ(ᾶς) κ(ατ)οί(κων) (πυροῦ ἀρτάβαι) β𐅵, Κερκ(εσούχων) κ ̣ ̣ ̣ (πυροῦ ἀρτάβαι) γ διαφό(ρου) (πυροῦ ἀρτάβης) δ´
+r.14   γ(ίνονται) καὶ ὑπὲρ ἄλ[λ]ων κωμ[ῶν] (πυροῦ ἀρτάβαι) ε𐅵 διαφό(ρου) (πυροῦ ἀρτάβης) δ´
+r.15   καὶ ταύτας προσαναλ(αμβάνονται) ὑπὲρ [φιλ(ανθρώπου) καὶ] ἄλ(λων) (πυροῦ ἀρτάβαι) θγ´η´
+r.16   γ(ίνονται) σὺν φειλ(ανθρώπῳ) (πυροῦ ἀρτάβαι) τιεκδ´ [κα]ὶ ἐκλόγ(ου) τοῦ προτ(έρου)
+r.17   μηνὸς (πυροῦ ἀρτάβαι) Ζρ𐅵 σὺν δ[ὲ τ]ῇ ἐκλόγ(ῳ)
+r.18   (πυροῦ ἀρτάβαι) Ζυιε𐅵κδ´, ἐξ ὧν [ἀ]νηλώθησαν εἰς δά-
+r.19   νιον σπέρματα εἰς τὴν ἐπʼ [ἀ]γαθοῖς γεναμένης
+r.20   κατασπορὰν (πυροῦ ἀρτάβαι) Γχϙζδ´ ὧν
+r.21   Καρ(ανίδος) σπερμ(άτων) (πυροῦ ἀρτάβαι) Βυξε, Κερκ(εσούχων) διὰ τῶν ἀπὸ Καρ(ανίδος)
+r.22   (πυροῦ ἀρτάβαι(?)) φλ, Πτολε(μαΐδος) ὁμοί(ως) (πυροῦ ἀρτάβαι) φιε, Στρ(άτωνος) ὁμ(οίως) (πυροῦ ἀρτάβαι) ρν
+r.23   Ἱερ(ᾶς) Σεουήρου διὰ Καρ(ανίδος) (πυροῦ ἀρτάβαι) λζδ´, γ(ίνονται) αἱ π(ροκείμεναι).
+r.24   λοιπ(αὶ) ἐπὶ τὸ π(ᾶν) (πυροῦ ἀρτάβαι) Γψιηϛ̣´η´
+r.25   Αὐρήλιος Λογγῖνος ὁ καὶ Ζώσιμος ἐπιδέδ[ω]κ(α). Αὐρήλ(ιος) Ἅρπαλος
+r.26   Σαραπίωνος συνεπιδέδωκα.
+r.27   (ἔτους) κε Μάρκου Αὐρηλίου Σεουήρου Ἀντωνίνου Παρθικοῦ μεγίστου
+r.28   Βρεντανικοῦ μεγίστου Γερμανικοῦ μεγίστου Εὐσεβοῦς Σεβαστοῦ
+r.29   Τῦβι ιβ.
+
+[TRANSLATION]
+1   To Aurelius Dionysios, strategos of the Herakleides division of the Arsinoite nome,
+2   from the Aurelii Longinus also called Zosimos
+3   son of Leonides and Harpalos son of Sarapion and Heron
+4   son of Kopres, the three, and the remaining grain-officials (sitologoi)
+5   of the village of Karanis. Monthly summary in total
+6   of the month Choiak of the present 25th year
+7   from the produce of the past 24th year:
+8   These are the (artabas) measured out to us in the granary of the aforesaid
+9   village in this month: of wheat 305 1/2 artabas, of surcharge wheat 1/4 artaba,
+10   total with surcharge wheat 305 1/2 3/4 artabas, of which:
+11   of Karanis, public (land) wheat 254 artabas, likewise of katoikoi wheat 46 artabas,
+12   total for the village 300 artabas; and on behalf of the other villages:
+13   of Hiera, katoikoi wheat 2 1/2 artabas, of Kerkesoucha [...] wheat 3 artabas, of surcharge wheat 1/4 artaba,
+14   total also on behalf of other villages wheat 5 1/2 artabas, surcharge wheat 1/4 artaba,
+15   and these are taken up in addition on behalf of [the philanthropon and] other charges, wheat 9 1/3 1/8 artabas,
+16   total with the philanthropon wheat 315 1/4 24th artabas, [and] of the carry-over (eklogos) of the previous
+17   month wheat 7100 1/2 artabas; and with the carry-over
+18   wheat 7415 1/2 1/24th artabas, out of which there were expended for a loan
+19   of seed-grain for the sowing of the (land) which by good fortune was made,
+20   wheat 3690 1/4 artabas, of which:
+21   of Karanis, seed-grain wheat 2465 artabas, of Kerkesoucha, through those from Karanis,
+22   wheat 530, of Ptolemais likewise wheat 515 artabas, of Straton(?) likewise wheat 150 artabas,
+23   of Hiera of Severus through Karanis wheat 37 1/4 artabas, total the aforesaid.
+24   Remaining for the whole, wheat 3718 6 1/8 artabas.
+25   I, Aurelius Longinus also called Zosimos, have submitted (this). I, Aurelius Harpalos
+26   son of Sarapion, have co-submitted.
+27   Year 25 of Marcus Aurelius Severus Antoninus Parthicus Maximus,
+28   Britannicus Maximus, Germanicus Maximus, Pius Augustus,
+29   Tybi 12.

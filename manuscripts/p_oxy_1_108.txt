@@ -1,0 +1,105 @@
+# ---------------------------------------------------------
+# P.Oxy 1.108 - A cook’s meat account - daily deliveries
+# Source: papyri.info DDbDP p.oxy;1;108  (Trismegistos 20767)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.108
+label:    P.Oxy 1.108
+name:     A cook’s meat account - daily deliveries
+genre:    documents
+date:     28 Sept 215 CE (?)
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Philadelphia, University of Pennsylvania Museum E 2753
+content:  A running ledger of a cook’s daily meat deliveries by date: minai of meat, tongues, trotters, kidneys, breast, tripe, snout, ears, over Thoth and the preceding Mesore
+tm:       20767
+source:   https://papyri.info/ddbdp/p.oxy;1;108
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Θὼθ δκδ (ἔτους),
+r.2   κρέως μν(αῖ) δ,
+r.3   ἄκρα β,
+r.4   γλῶσσα μία,
+r.5   ῥυγχίον α.
+r.6   ϛ, γλωσοπωγώνιον .
+r.7   ια, κρέω(ς) μν(αῖ) β,
+r.8   γλῶσσα μία,
+r.9   νεφρία β.
+r.10   ιβ, κρέω(ς) μν(ᾶ) α,
+r.11   στέρνα μία.
+r.12   ιδ, κρέω(ς) μν(αῖ) β,
+r.13   στέρνα α.
+r.14   ιϛ, κρέως μν(αῖ) γ.
+r.15   ιζ, κρέω(ς) μν(αῖ) β,
+r.16   γλῶσσα μία.
+r.17   ιη, γλῶσσα μία.
+r.18   κα, κοιλία.
+r.19   κβ,
+r.20   κοιλία,
+r.21   νεφρία β.
+r.22   κγ,
+r.23   κρέω(ς) μν(αῖ) β,
+r.24   κοιλία α,
+r.25   ἄκρα β.
+r.26   κϛ,
+r.27   γλῶσσα μία.
+r.28   λ, στέρνα μία.
+r.29   (hand 2) καὶ πρὸ τούτων Μεσορὴ
+r.30   ιη, κρέως μναῖ β, κοιλία α,
+r.31   νεφρία β. κα, στέρνα α.
+r.32   κγ, γλωσσοπωγώνιν α, νε-
+r.33   φρία β. κδ, μναῖ β, νεφρί-
+r.34   α β. κε, Τρύφωνι μναῖ β,
+r.35   ὠτίον α, ἄκρον α, νεφρία β.
+r.36   κθ, μναῖ β, ἄκρα β, γλῶσ-
+r.37   σα α. ἐπαγομένων β,
+r.38   γλῶσσα α. γ, στέρνα α. v
+r.39   λόγος
+r.40   μαγείρου.
+
+[TRANSLATION]
+1   Thoth 4, year 24:
+2   of meat, 4 minai,
+3   2 trotters,
+4   one tongue,
+5   one snout.
+6   (Thoth) 6: a tongue-and-jowl.
+7   11: of meat, 2 minai,
+8   one tongue,
+9   2 kidneys.
+10   12: of meat, 1 mina,
+11   one breast.
+12   14: of meat, 2 minai,
+13   1 breast.
+14   16: of meat, 3 minai.
+15   17: of meat, 2 minai,
+16   one tongue.
+17   18: one tongue.
+18   21: tripe.
+19   22:
+20   tripe,
+21   2 kidneys.
+22   23:
+23   of meat, 2 minai,
+24   1 tripe,
+25   2 trotters.
+26   26:
+27   one tongue.
+28   30: one breast.
+29   And before these, Mesore
+30   18: of meat 2 minai, 1 tripe,
+31   2 kidneys. 21: 1 breast.
+32   23: 1 tongue-and-jowl, kid-
+33   neys 2. 24: 2 minai, kid-
+34   neys 2. 25: for Tryphon 2 minai,
+35   1 ear, 1 trotter, 2 kidneys.
+36   29: 2 minai, 2 trotters, a tong-
+37   ue. On the 2nd intercalary day,
+38   a tongue. 3rd: 1 breast.
+39   Account
+40   of a cook.

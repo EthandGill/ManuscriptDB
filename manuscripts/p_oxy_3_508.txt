@@ -1,0 +1,79 @@
+# ---------------------------------------------------------
+# P.Oxy 3.508 - Contract of Surety for Two Loans
+# Source: papyri.info DDbDP p.oxy;3;508  (Trismegistos 20640)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.508
+label:    P.Oxy 3.508
+name:     Contract of Surety for Two Loans
+genre:    contracts
+date:     23. Aug. 102
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Ann Arbor, Michigan University, Library P. Cornell inv. Ms. A. 101 IV
+content:  A guarantee contract from Oxyrhynchos in 102 CE in which Stephanos acknowledges two outstanding loans made by Herakles to Rufus and his brother Diokles, secured on landed property.
+tm:       20640
+source:   https://papyri.info/ddbdp/p.oxy;3;508
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   ἔτους πέμπτου Αὐτοκράτορος Καίσαρος
+r.2   Νέρουα Τραι ανοῦ Σεβαστοῦ Γερμανικοῦ
+r.3   [μ]ηνὸς Καισαρείου (hand 2) λ, (hand 1) ἐν
+r.4   Ὀξυρύγχων πόλει τῆς Θηβαί δος.
+r.5   ὁμολογεῖ Στέφανος ὁ καὶ Ἀμόις Σωσιβίου
+r.6   τοῦ Ἀπολλοφάνους μητρὸς Πτολλαροῦτος
+r.7   Χαιρήμονος τῶν ἀπʼ Ὀξυρύγχων πόλεως
+r.8   Ἡρακλ(hand 2) ᾶτι Ἡρακλ(ᾶτος) (hand 1) τοῦ Ἁρθώνιος μητρὸς
+r.9   Δημητροῦτος ἀπὸ τῆς αὐτῆς πόλεως ἐν ἀ-
+r.10   γυι ᾷ γεγονέναι ἐπʼ ὀνόματος τοῦ ὁμολο-
+r.11   γοῦντος Στεφάνου κατὰ πίστιν δάνεια δύο
+r.12   ὧν ἐκ τοῦ ἰ δίου ὁ Ἡρακλᾶς ἐδάνεισεν διὰ
+r.13   τ[ο]ῦ ἐν τῇ αὐτῇ πόλει μνημονείου, κατὰ
+r.14   μὲν τὸ πρῶτον τῷ Μεχεὶρ μηνὶ τοῦ β (ἔτους)
+r.15   [Τ]ραι ανοῦ Καίσαρ[ο]ς τοῦ κυρίου Ῥούφῳ Διο-
+r.16   [κ]λέος τοῦ Διοκλέ[ος] μητρὸς Διδύμης Ῥου-
+r.17   φίωνος ἀργυρίου δραχμῶν τετρακοσίων
+r.18   πεντήκοντα ἐντόκων ἐφʼ ὑποθήκῃ τῶν δι-
+r.19   ὰ τοῦ αὐτοῦ δανείου δηλωθέντων τοῦ
+r.20   Ῥούφου ἐνγαίων , κατὰ δὲ τὸ ἕτερον τῷ Τῦ-
+r.21   βι μηνὶ τοῦ ἐχομένου τρίτου ἔτους τῷ
+r.22   τοῦ Ῥούφου ὁμογνησίῳ ἀδελφῷ Διοκλεῖ
+r.23   ἄλλων ἀργυρίου [δρ]αχμῶν τετρακοσίων
+r.24   δέκα ἓξ κεφα[λαίου ἐφʼ] ὑποθήκῃ τῶν [διὰ]
+r.25   τοῦ αὐτοῦ δη[λωθέντω]ν ἐνγαίων, ἅπ[ερ]
+r.26   δάνειά ἐστ[ι παρὰ τῷ Ἡ]ρακλᾷ, ᾧ καὶ ἐ[ξεῖ-]
+r.27   [ναι ]
+
+[TRANSLATION]
+1   In the fifth year of Imperator Caesar
+2   Nerva Trajan Augustus Germanicus,
+3   in the month Kaisareios, (hand 2) the 30th, (hand 1) in
+4   Oxyrhynchos city of the Thebaid.
+5   Stephanos also called Amois, son of Sosibios
+6   son of Apollophanes, his mother being Ptollarous
+7   daughter of Chairemon, of those from Oxyrhynchos city,
+8   acknowledges to Herakl(hand 2)as son of Herakles (hand 1) son of Harthonis, his mother being
+9   Demetrous, from the same city, in the
+10   street, that there have come into being in the name of the acknowledg-
+11   ing party Stephanos, on trust, two loans,
+12   of which from his own (funds) Herakles lent through
+13   the record-office in the same city: according to
+14   the first, in the month Mecheir of the 2nd year
+15   of Trajan Caesar the lord, to Rufus son of Dio-
+16   kles son of Diokles, his mother being Didyme, of Ru-
+17   fion, of silver four hundred
+18   fifty drachmas at interest, on the security of the (properties)
+19   declared through the same loan belonging to
+20   Rufus, landed property; and according to the other, in the month Ty-
+21   bi of the following third year, to
+22   Rufus's full brother Diokles,
+23   of other silver four hundred
+24   sixteen drachmas of capital, [on the] security of the
+25   landed property [declared] through the same (loan), which
+26   loans are [with He]rakles, to whom also it shall be permit-
+27   [ted ]

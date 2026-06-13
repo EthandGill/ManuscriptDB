@@ -1,0 +1,67 @@
+# ---------------------------------------------------------
+# BGU 3.865 - Agreement on a Lease and Repayment of Loans
+# Source: papyri.info DDbDP bgu;3;865  (Trismegistos 28099)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.865
+label:    BGU 3.865
+name:     Agreement on a Lease and Repayment of Loans
+genre:    contracts
+date:     II
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 9005
+content:  A second-century Arsinoite contract regulating a lease and the repayment of loans by annual payments in silver talents and deliveries of jars of produce, referring to earlier agreements.
+tm:       28099
+source:   https://papyri.info/ddbdp/bgu;3;865
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   [ κα]ὶ ὡς χ[ρ]ημ[ατίζει] Ἰουλίῳ Ἀπ[ο]λλ[ωνίῳ τ]ῷ καὶ Ἀπολιναρίῳ καὶ ὡς χρηματείζεις χαίρε[ι]ν.
+r.2   [ ὑπ]άρχοντ[α ̣ ̣ ἔχ]ειν ἀκολούθω[ς ᾖ] ἔ̣[γρα]ψά σοι ἐπιστολῇ ἀποτάκτου ἀργυρίου ταλάντων
+r.3   [ κερ]αμίων̣ [δι]σχειλ[ίω]ν̣ ἐννακοσίω[ν ἑ]ξήκ[ον]τα τεσσάρων , καὶ [ν]ῦν συνεθέμην πρὸς σὲ ὥσ-
+r.4   [τε πρὸς τὰ διὰ τῆς ἐπιστ]ολῆς δηλ[ο]ύμενα τελεῖν σέ μοι ἄλ[λ]α κατʼ ἔτος ἀργυρίου [τάλ]αντα πέντε ἐπὶ τῷ με παρα-
+r.5   [ ]ν ἐνιαυτὸν [τ]οῦ ἐνεστῶτος δευτέρο[υ] ἔτους εἰς τὰ ὀφειλόμενα ὑ πʼ ἐμοῦ τῇ γυναικὶ
+r.6   [ ] ̣ ̣ο̣υσία καθʼ ἕκ[ασ]τον ἔτος ἀργυρίου τάλαντα δύο , ἕως οὗ πληρωθῇ τὸ διαπ[ ̣ ̣] ̣[ ̣ ̣] ̣ο
+r.7   [ ]σ̣ερι̣[ ̣] ̣είων κ[α]ὶ γράμματά μ[οι] ἐκγδωσις , ἀπὸ δὲ τῶν λοιπῶν χορηγήσ[ε]ις μοι τῷ
+r.8   [ ]ω ̣ ̣ ἀπὸ μηνὸς [Τ]ῦβι ἕως Μεσορὴ μηνῶν ὀκτώ , ἐκ μηνιαίων δραχμῶν ὀκτα-
+r.9   [κοσίων ] ̣ ̣ ̣ τάλαντ[α ̣] ̣[ ̣ ̣ ̣ ̣ δρ]αχμὰς τετρακ[οσ]ίας , τὸ δὲ λοιπὸν ἀποδώσεις μοι τῷ Θῶθ
+r.10   [ ]ου ἔτους καὶ ἀπὸ Ἁ[θὺρ τοῦ τρ]ίγου ἔτου[ς ἕως μηνὸ]ς Μεσορὴ ἐπὶ τὸν λοιπὸν πενταετῆ χρ[ό-]
+r.11   [νον ] ̣ μηνιαίων [δραχμ]ῶν ὀκτακοσίω[ν ̣ ̣ συ]ναγόμενον κατʼ ἔτος ἀργυρίου τάλαντον
+r.12   [ἓν δραχμὰς τρισχιλί]ας ἑξακ[οσ]ίας καὶ τὸ λοιπ[ὸν ἀποδ]ώσε[ις] μοι θ[ ̣ ̣ ̣ ̣ ̣] ἐξενίαυτα κατʼ ἔτος, παραδώσεις δέ μοι
+r.13   [ χ]ειλίας ̣[ ̣ ̣ ̣ ̣ ̣ ἑ]ξήκοντα π̣[έντε ] διὰ τῆς αὐτῆς ἐπιστ[ο]λῆς δηλούμενα
+r.14   [ ἐκ κοτ]υλῶν δώ[δεκα ] κούφοι[ς ̣ ̣ ̣ ̣] [τ]ριακ[όσ]ια ὀγδοήκοντα καὶ περὶ τὸ οὗ χωρὶς
+r.15   [ ἐ]κ κοτυ[λῶν ὀκ]τὼ κερά[μια εἴκο]σι κτήματος καλαμοτόμου ἐκ κοτυλῶν
+r.16   [ ] τριάκον[τα ̣ ̣ ̣ ̣ κ]τήματος [ ̣ ̣ ̣ ̣ ̣ ̣] ̣ ὁμοίως ἐκ κοτυλῶν δέκα ἓξ κεράμια
+r.17   [ ] ̣ ̣ ̣[ ̣ ̣ ̣ ̣ ̣ ̣] ̣εκτυ[ ̣ ̣ ̣ ̣ ̣ ̣]ων δεκ[ ̣ ̣ ̣] ̣ ̣α̣[ ̣ ̣] ̣ ἑπτακόσια τῶν
+r.18   [ ]στα[ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣]ων μισθώ[σεω]ν̣ ̣ ̣
+r.19   [ ] ̣δε[ ̣ ̣ ̣ ̣ ̣ ̣]ς τῆς τιμ[ῆς ̣ ̣ ̣ ̣ ̣ ̣]
+r.20   [ ]νισ[…] ̣[ ̣]ομο[ ̣ ̣ ̣ ̣ ̣ ̣]
+r.21   [ ]σς[…] (hand 2) συρι[ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+
+[TRANSLATION]
+1   [...] and however he is styled, to Iulius Ap[o]llonios also called Apolinarios and however you are styled, greetings.
+2   [...] to have [...] in accordance with the letter I wrote to you of a fixed rent of silver talents
+3   [... and of jars] two thousand nine hundred sixty-four, and now I have agreed with you so
+4   [that, in addition to the things] shown through the letter, you pay me other five talents of silver per year, on condition that I [...]
+5   [...] year of the present second year toward what is owed by me to (my) wife
+6   [...] ...ousia each year two talents of silver, until the [...] be paid in full
+7   [...] ... and documents be issued to me, and from the rest you will supply to me for the
+8   [...] from the month Tybi to Mesore, eight months, from monthly eight hun-
+9   [dred] drachmas ... talents [...] four hundred drachmas, and the remainder you will repay to me in Thoth
+10   [...] year, and from Hathyr of the third year [until the month] Mesore for the remaining five-year peri-
+11   [od ...] of monthly eight hundred [drachm]as, amounting per year to one talent of silver
+12   [and three thousand] six hundred drachmas, and the remainder you will repay to me [...] year by year throughout the year, and you will deliver to me
+13   [...] thousand [...] sixty-five, shown through the same letter,
+14   [... of] twelve kotylai [...] in light (jars?) [...] three hundred eighty, and concerning the [...] apart from which
+15   [...] of eight kotylai twenty jars, of the reed-cutter holding, of kotylai
+16   [...] thirty [...] of the holding [...] likewise of sixteen kotylai jars
+17   [...] ... [...] ... of the ... ten [...] ... seven hundred of the
+18   [...] ... of the leases ...
+19   [...] ... of the price [...]
+20   [...] ... [...]
+21   [...] (hand 2) Syri[...]

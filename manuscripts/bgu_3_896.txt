@@ -1,0 +1,57 @@
+# ---------------------------------------------------------
+# BGU 3.896 - Will of a citizen of Antinoopolis
+# Source: papyri.info DDbDP bgu;3;896  (Trismegistos 20072)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.896
+label:    BGU 3.896
+name:     Will of a citizen of Antinoopolis
+genre:    documents
+date:     161 - 169
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7442
+content:  A fragmentary testament of Sarapion son of Philon, an Antinoite citizen, making his daughter Hierakiaina (a minor) his heir to his property, household goods, and furniture, and arranging for his funeral, with the closing dating formula under Marcus Aurelius and Lucius Verus.
+tm:       20072
+source:   https://papyri.info/ddbdp/bgu;3;896
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ἀνηκόντων πα ̣[ Ἀν-]
+r.2   τινόου καὶ πᾶσαι ̣ ̣ ̣ ̣ι̣[ ]
+r.3   ἄχρις ἂν τέλεια γένηται, βούλ̣[ομαι ]
+r.4   πων εἰς οἴκησιν αὐτῆς τόπον ἕνα ἄνε̣υ ἐ̣ν̣ο̣[ικίου κλη-]
+r.5   ρονόμους εἶναι τῇ προγεγραμμένῃ θ[υ]γατρ[ὶ ]
+r.6   σαι πάντα τὰ ἐμὰ ἀνακάμψει εἰς τὴν προγεγραμμ[ένην θυγατέρα ]
+r.7   ἥτις τὴν κηδείαν μου καὶ περιστολὴν τοῦ σώμ[ατος ]
+r.8   μου τῇ διαθήκῃ ἐκτίννειν εἰς τὸ δημόσιον ̣ ̣[ ]
+r.9   (hand 2) Σαραπίωνος τοῦ Φίλων̣ος Ὀ[σ]ειροα̣ν̣τ̣ι̣ν̣[οείου τοῦ καὶ Βιθυνιέως (?) ]
+r.10   μ̣ω̣[ ̣] τῇ θυγατρί μου Ἱερακειαίνῃ ἀφή̣[λικι ἐνδομε-]
+r.11   ν̣είαν καὶ ἔπ(ι)π̣λα καὶ ἐπισθησ̣ι̣ν̣αισ ̣[ ]
+r.12   σφραγιῶ γλύματι Ἁρποκράτο[υς ] ms
+r.13   (hand 6) [ἔτους …] Αὐτοκράτορος Καίσαρος Μάρκου Αὐρηλίου Ἀντωνίνου Σεβαστοῦ [καὶ] Αὐ[τοκρά]τορος Καίσαρος
+r.14   [Λουκίου Αὐρηλίο]υ Οὐήρο[υ] Σεβαστοῦ μ̣ηνὸς Μεταγειτνιῶνος Π[αχ]ὼ̣ν̣ ̣ ̣ διαθή[κη]
+r.15   […] Σαραπίωνος τοῦ Φίλωνος Ὀσ[ειρ]αντ[ι]ν̣[ο]ε̣ί̣ου τοῦ καὶ [Βι]θυνι [έως κ]αὶ ὡς χ̣ρ̣η̣μ̣α̣τ̣(ίζει) ὡ̣ς (ἐτῶν) ξδ ̣[ ]
+r.16   [… ὀφθα]λμῷ δεξιῷ οὐλὴ ὑπὲρ ὀφρὺν [ ̣] ̣ ̣ ̣[ ̣ ̣] ̣[ ̣] σ̣φραγ[ὶς] ̣ ̣ ̣ ̣ ̣ ̣
+
+[TRANSLATION]
+1   belonging ... [ ... of An-]
+2   tinoos and all ... ...[ ]
+3   until they (the children?) come of full age, I wis[h ]
+4   ...pon, for her dwelling, one place witho[ut r]ent, [to be]
+5   heirs to the aforewritten d[au]ghte[r ]
+6   ... all my property shall revert to the aforewrit[ten daughter ]
+7   who (shall provide) for my burial and the wrapping of (my) bod[y]
+8   for me by this will, to pay to the public treasury ..[ ]
+9   (hand 2) (of) Sarapion son of Philon, of O[s]iroant[inoeus also called Bithynieus (?) ]
+10   ...[.] to my daughter Hierakiaina, a min[or, the house-]
+11   hold and furniture and ... ...[ ]
+12   I will seal with a seal-stone of Harpokrate[s ] ms
+13   (hand 6) [In the year ...] of Imperator Caesar Marcus Aurelius Antoninus Augustus [and] Im[pera]tor Caesar
+14   [Lucius Aureliu]s Veru[s] Augustus, in the month of Metageitnion (= P[ach]on) .., the wil[l]
+15   [...] of Sarapion son of Philon, of Os[eir]ant[i]n[o]eus also called [Bi]thynie[us a]nd as he is styled, about 64 years old, .[ ]
+16   [... on the right ey]e a scar above the eyebrow [.] ...[..].[.] se[al] ......

@@ -1,0 +1,53 @@
+# ───────────────────────────────────────────────
+# P.Oxy 2.292 — Letter of recommendation — Theon commends his brother Herakleides
+# Source: papyri.info DDbDP p.oxy;2;292  (Trismegistos 20563)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy 2.292
+label:    P.Oxy 2.292
+name:     Letter of recommendation — Theon commends his brother Herakleides
+genre:    letters
+date:     c. 25 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cambridge, University Library Add. Ms. 4057
+content:  Theon asks the dioiketes Tyrannos to receive his brother Herakleides as recommended — “unharmed by the evil eye”
+tm:       20563
+source:   https://papyri.info/ddbdp/p.oxy;2;292
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Θέων Τυράννωι τῶι τιμιωτάτωι
+r.2   πλεῖστα χαίρειν.
+r.3   Ἡρακλείδης ὁ ἀποδιδούς σοι τὴν
+r.4   ἐπιστολὴν ἐστίν μου ἀδελφός·
+r.5   διὸ παρακαλῶ σε μετὰ πάσης δυνά-
+r.6   μεως ἔχειν αὐτὸν συνεσταμέ-
+r.7   νον. ἠρώτησα δέ καὶ Ἑρμί[α]ν
+r.8   τὸν ἀδελφὸν διὰ γραπτοῦ ἀνηγεῖ̣[σθαί]
+r.9   σοι περὶ τούτου. χαριεσαι δέ μοι τὰ μέγιστα
+r.10   ἐάν σου τῆς ἐπισημασίας τύχηι.
+r.11   πρὸ δὲ πάντων ὑγιάνειν σε εὔχ[ο-]
+r.12   μαι ἀβασκάντως τὰ ἄριστα
+r.13   πράττων. ἔρρω(σο).
+r.14   Τυράννωι διοικ(ητῇ).
+
+[TRANSLATION]
+1   Theon to Tyrannos the most honored,
+2   very many greetings.
+3   Herakleides, who delivers this
+4   letter to you, is my brother;
+5   wherefore I entreat you with all your pow-
+6   er to hold him as one recommend-
+7   ed. And I have asked also Hermias
+8   my brother in writing to tell [you]
+9   about him. And you will do me the greatest favor
+10   if he wins your notice.
+11   Before all I pray that you have health,
+12   unharmed by the evil eye, faring
+13   excellently. Farewell.
+14   To Tyrannos, dioiketes.

@@ -1,0 +1,65 @@
+# ---------------------------------------------------------
+# P.Fay. 96 - Receipt - rent of an oil-mill paid in oil
+# Source: papyri.info DDbDP p.fay;;96  (Trismegistos 10938)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Fay. 96
+label:    P.Fay. 96
+name:     Receipt - rent of an oil-mill paid in oil
+genre:    receipts
+date:     26 Nov 143 CE
+language: Greek (Koine)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10789
+content:  Through Sarapion’s bank: Nemesas acknowledges from Syros the oil-maker the rent of the oil-mill - five metretes of oil, half olive and half radish
+tm:       10938
+source:   https://papyri.info/ddbdp/p.fay;;96
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   ἔτους ἑβδόμου Αὐτοκράτορος
+r.2   Καίσαρος Τίτου Αἰλίου Ἁδριανοῦ Ἀντωνείνου
+r.3   Σεβαστοῦ Εὐσεβοῦς, Ἁθὺρ κθ̣, διὰ τῆς Σαρα-
+r.4   πίωνος τραπέζης Πτερ̣ο̣υιτ̣ ̣ ̣[ ̣ ̣]κ̣ου.
+r.5   Σύρος Ἀλεξάνδρου τοῦ Ἀλεξάνδρου
+r.6   ἐλαιοῦργ[ος] Νεμεσᾶτι Ἡλι[οδ]ώρου τοῦ
+r.7   Εὐδαίμονος ἀπὸ ἀμφόδου [ ̣ ̣]κ̣ων ὡς
+r.8   ἐτῶν τεσσαράκοντα ἀσή[μῳ] ἀπέχειν
+r.9   τὸν Νεμεσᾶτα παρὰ τοῦ Σύρ[ο]υ φόρον
+r.10   ̣οῦ διεληλυθότος ἕκτου ἔτους Ἀντωνείνου
+r.11   Καίσαρος τοῦ κυρίου οὗ ἔχει ὁ Σύρος
+r.12   ἐν μισθώσει ἐλαιουργίου τοῦ ὑπάρχον-
+r.13   τος τῷ φροντιζομένῳ ὑπʼ αὐτοῦ
+r.14   Πομπηίου Πτολεμαίου ἐνάρχου γυμνα-
+r.15   σιάρχου ἐλαίου μετρητὰς πέντε ,
+r.16   ὡς ἐλαίνου μὲν μετρητὰς δύο ἥμισυ
+r.17   καὶ ῥαφανίνου τοὺς λοιποὺς μετρητὰς
+r.18   δύο ἥμισυ , καὶ μηδὲν αὐτῷ ἐνκαλεῖν
+r.19   περὶ τούτων, μενούσης κυρίας τῆς
+r.20   μισθώσεως ἐφʼ οἷς περιέχει πᾶσει .
+
+[TRANSLATION]
+1   In the seventh year of Imperator
+2   Caesar Titus Aelius Hadrianus Antoninus
+3   Augustus Pius, Hathyr 29, through the bank of Sara-
+4   pion (son of) Pterouit…kos:
+5   Syros son of Alexandros son of Alexandros,
+6   oil-make[r], to Nemesas son of Heli[od]oros son of
+7   Eudaimon, of the quarter of …kon, aged about
+8   forty, without distinguishing mark - that
+9   Nemesas has received from Syr[o]s the rent
+10   of the past sixth year of Antoninus
+11   Caesar the lord, which Syros holds
+12   in lease, of the oil-mill belonging
+13   to the one in his charge,
+14   Pompeius Ptolemaios, prytanizing gymna-
+15   siarch: of oil, five metretes,
+16   namely two and a half metretes of olive oil
+17   and the remaining two and a half metretes
+18   of radish oil; and that he makes no claim against him
+19   about these things, the lease remaining
+20   valid on the terms it contains.

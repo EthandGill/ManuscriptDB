@@ -1,0 +1,77 @@
+# ---------------------------------------------------------
+# P.Oxy 3.510 - Repayment and cancellation of a loan secured on property
+# Source: papyri.info DDbDP p.oxy;3;510  (Trismegistos 20641)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.510
+label:    P.Oxy 3.510
+name:     Repayment and cancellation of a loan secured on property
+genre:    contracts
+date:     ca. 28. Aug. 101
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Chicago, Haskell Oriental Institute number unknown
+content:  Artemidoros acknowledges receiving back from the borrowers (with the woman acting under her husband Dionysios's guardianship) the 472 silver drachmas of principal plus interest of a loan secured by mortgage on properties at Psobthis, returns the loan-contract and tax-receipts for cancellation, and renounces all further claim.
+tm:       20641
+source:   https://papyri.info/ddbdp/p.oxy;3;510
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   τ̣ούτου̣ ̣ ̣ ̣[…]ν̣[…]
+r.2   νου μητρὸς Τ̣α̣[υ]σ̣ε̣ίριος̣ τ̣ῆ̣ς̣ [ ̣ ̣ ̣]ωπ̣ ̣[ ̣ ̣] ἀπὸ Ψ̣ώ̣β̣θ̣ε̣ω̣ς̣
+r.3   ἀπηλιώτου μετὰ κυρίου τοῦ αὐτοῦ ἀνδρὸς Διονυσίου
+r.4   ἐν ἀγυιᾷ ἀπέχειν παρʼ αὐτῶν ἀργυρίου Σεβαστοῦ νομίσ-
+r.5   ματος δραχμὰς τετρακοσίας ἑβδομήκοντα δύο κε-
+r.6   φαλαίου ἃς ἐδάνεισεν αὐτοῖς κατὰ δανείου συνγρα-
+r.7   φὴν τὴν τελειωθεῖσαν διὰ τοῦ ἐν τῇ αὐτῇ Ὀξυρύγ-
+r.8   χων πόλει μνημονείου τῷ τρίτῳ ἔτι Τραιανοῦ Καίσαρος
+r.9   τοῦ κυρίου μηνὶ Καισαρείῳ εἰς ἀπόδοσιν πέμπτην
+r.10   ἐπαγομένων τοῦ ἑξῆς τετάρτου ἔτους ἐπὶ ὑποθήκῃ τοῖς
+r.11   ὑπάρχου[σ]ι τῷ Διονυσίῳ ἐν τῇ προκειμένῃ Ψώβθει
+r.12   ἡμ[ί]σει μέρει ψειλῶν τόπων καὶ μέρεσι οἰκίας
+r.13   συμπεπτωκυίης καὶ ἡμίσει μέρει ἑτέρας οἰκίας
+r.14   καὶ τῶν ταύτης χρηστηρίων καὶ μέρεσι ἑτέρας οἰ-
+r.15   κίας καὶ αὐλῆς καὶ ψειλῶν τόπων καὶ πρότερον
+r.16   Κλαυδίου Θέωνος ἐν τῇ αὐτῇ Ψώβθε[ι] οἰκίᾳ καὶ αἰθρίῳ
+r.17   καὶ ἑτέροις χρηστηρίοις. διὸ λύσιν ποιούμενος
+r.18   ὁ Ἀρτεμί[δω]ρο[ς] τῆς ὑποθήκης αὐτόθι ἀναδέδω-
+r.19   κεν οἷς ὁμολογεῖ τὴν ἐπίφορον τοῦ δανείου
+r.20   συνγραφὴν καὶ τὰ τῶν τελῶν σύμβολα εἰς ἀκύ-
+r.21   ρωσιν, προσαπεσχηκέναι δὲ παρʼ αὐτῶν καὶ τοὺς
+r.22   τοῦ αὐτοῦ κε[φ]αλαίου τόκους καὶ ἃ ἀπῄτηται τέ-
+r.23   λη, μητὲ αὐτὸν Ἀρτεμίδωρον μηδʼ ἄλλον ὑπὲρ
+r.24   αὐτοῦ ἐνκαλεῖν μηδʼ ἐνκαλέσειν μηδʼ ἐπε-
+r.25   [λεύσεσθαι οἷς ὁ]μολογεῖ μηδὲ τοῖς παρʼ αὐτῶν
+r.26   […] ̣ ̣ ̣ε[ ̣]ο̣σ̣γ̣ ̣[ ̣ ̣]
+
+[TRANSLATION]
+1   of this ... [...]n[...]
+2   ...nos, mother being T[au]seiris daughter of [...]op...[..], from Psobthis
+3   of the eastern (toparchy), with guardian her same husband Dionysios,
+4   in the street, that he has received back from them, of imperial silver coin-
+5   age, four hundred seventy-two drachmas of
+6   principal, which he had lent them according to a loan con-
+7   tract executed through the record-office in the same city
+8   of Oxyrhynchos in the third year of Trajan Caesar
+9   the lord, in the month Kaisareios, for repayment on the fifth
+10   intercalary day of the following fourth year, on mortgage on the
+11   property belonging to Dionysios in the aforesaid Psobthis,
+12   (namely) a half share of bare plots and parts of a house
+13   that has collapsed, and a half share of another house
+14   and its appurtenances, and parts of another
+15   house and a courtyard and bare plots, and (property) formerly
+16   of Claudius Theon in the same Psobthis, a house and a court
+17   and other appurtenances. Therefore, making the release
+18   of the mortgage, Artemidoros has on the spot handed back
+19   to those to whom he acknowledges (it) the original loan
+20   contract and the receipts for the dues, for can-
+21   cellation; and (he acknowledges) that he has further received back from them also the
+22   interest of the same principal and the dues which were demanded,
+23   and that neither Artemidoros himself nor anyone else on
+24   his behalf shall make claim or shall claim or shall pro-
+25   [ceed against those whom he ac]knowledges nor against their representatives
+26   [...] ...e[.]os...[..]

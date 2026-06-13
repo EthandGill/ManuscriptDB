@@ -1,0 +1,37 @@
+# ---------------------------------------------------------
+# P.Oxy 3.518 - Sitologoi receipt - four artabas of wheat on deposit
+# Source: papyri.info DDbDP p.oxy;3;518  (Trismegistos 20649)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.518
+label:    P.Oxy 3.518
+name:     Sitologoi receipt - four artabas of wheat on deposit
+genre:    receipts
+date:     179-180 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Philadelphia, University of Pennsylvania Museum E 2801
+content:  Wheat of the produce of the past 19th year measured into the public granary through the sitologoi of the western toparchy; Diogenes the sitologos signs for 4 artabas
+tm:       20649
+source:   https://papyri.info/ddbdp/p.oxy;3;518
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   μεμέ̣(τρηνται) ἰς τὸ δη(μόσιον) (πυροῦ) γενή(ματος) [το]ῦ διελ(θόντος)
+r.2   ιθ (ἔτους) Αὐρηλίων Ἀντωνίνου
+r.3   καὶ Κομμόδου Καισάρων τῶν
+r.4   κυρίων διὰ σι(τολόγων(?)) λιβὸ(ς) τ[ο]π(αρχίας) Ἐντ(ελεὺ) τόπ(ων)
+r.5   Σαρα[π]ίωνι Χαρ̣ισίου θέμ(ατος) (ἀρτάβαι) δ
+r.6   (γίνονται(?)) (πυροῦ) (ἀρτάβαι) [δ]. (hand 2) Διογ̣(ένης) σι(τολόγος) σεσημ(είωμαι) τὰς τοῦ (πυροῦ) (ἀρτάβας) δ.
+
+[TRANSLATION]
+1   Measured into the public (granary), of wheat of the produce of the past
+2   19th year of the Aurelii Antoninus
+3   and Commodus, Caesars the
+4   lords, through the sitologoi of the western toparchy, district of Enteleu:
+5   to Sarapion son of Charisios, on deposit, artabas 4,
+6   total 4 art. of wheat. I, Diogenes, sitologos, have signed for the 4 art. of wheat.

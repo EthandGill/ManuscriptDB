@@ -1,0 +1,75 @@
+# ---------------------------------------------------------
+# BGU 3.800 - Loan note - 100 drachmas and five artabas of wheat (double copy)
+# Source: papyri.info DDbDP bgu;3;800  (Trismegistos 9357)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.800
+label:    BGU 3.800
+name:     Loan note - 100 drachmas and five artabas of wheat (double copy)
+genre:    contracts
+date:     30 Jan 158 CE
+language: Greek (Koine)
+found:    Arsinoite nome, Fayum, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8384
+content:  Sotas son of Papeis and Sotas alias Tryphon acknowledge a loan of 100 drachmas and 5 artabas of wheat from Onnophris, repayable in Pauni; written twice
+tm:       9357
+source:   https://papyri.info/ddbdp/bgu;3;800
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Σωτᾶς Παπεῖτος καὶ Σωτᾶς ὁ καὶ
+r.2   Τρύφων Ὀννώφρ[ι] Πακύσεως
+r.3   χαίριν . ὁμολογοῦμεν κατὰ το(ῦ)-
+r.4   [το] τὸ χειρόγραφον [ἔ]χειν παρὰ
+r.5   σοῦ [ἀρ]γυ[ρίο]υ δραχμὰς ἑκα[τὸ]ν
+r.6   [κα]ὶ πυρ[ο]ῦ ἀρτά[βα]ς π[έν]τ[ε], γί(νονται) (δραχμαὶ) ρ
+r.7   (πυροῦ ἀρτάβαι) ε, ἃς καὶ ἀποδώσωμεν ἐν μη-
+r.8   νὶ Παῦνι τοῦ ἐνεστῶτος πρώ-
+r.9   του [κα]ὶ εἰκοστοῦ ἔτους
+r.10   [Ἀντωνί]νου Καίσαρος το[ῦ κυρίου]
+r.11   Μεχεὶρ ε. Σω[τᾶ]ς ὁ καὶ Τ[ρ]ύφων συν-
+r.12   ἀποδώσω καθὼς πρόκιται ―
+r.13   Σωτᾶς Παπεῖτ[ο]ς καὶ Σωτᾶς ὁ καὶ
+r.14   Τρύφων Ὀννώφρι Πακύσεως
+r.15   χαίριν . ὁμολογοῦμεν κατὰ
+r.16   [το]ῦτο τὸ χειρόγραφον ἔχειν
+r.17   παρὰ σοῦ ἀργυρίου δραχμὰς
+r.18   ἑκατὸ[ν] καὶ πυροῦ ἀρτάβας πέν-
+r.19   τε, γί(νονται) (δραχμαὶ) ρ (πυροῦ ἀρτάβαι) ε, ἃς καὶ ἀποδώ-
+r.20   σωμεν ἐν μηνὶ Παῦνι τοῦ
+r.21   ἐνεστῶτος πρώτου καὶ εἰκ[ο]σ-
+r.22   τοῦ ἔ[το]υς [Ἀ]ντωνίνου Καί-
+r.23   σαρος τοῦ κυρ[ί]ου Μεχεὶρ ε.
+r.24   Σωτᾶς ὁ καὶ Τρύφων συναποδώσω
+r.25   καθὼ[ς] πρόκιται ―
+
+[TRANSLATION]
+1   Sotas son of Papeis and Sotas also called
+2   Tryphon, to Onnophris son of Pakysis,
+3   gree(ting). We acknowledge by this
+4   written bond that we have from
+5   you [a hund]red [si]l[ve]r drachmas
+6   [an]d fiv[e] artab[a]s of whe[a]t, total 100 dr.
+7   (and) 5 (art. of wheat), which we will also repay in the month
+8   Pauni of the present twenty-
+9   first [an]d year
+10   of [Antoni]nus Caesar t[he lord],
+11   Mecheir 5. I, So[ta]s also called T[r]yphon, will jointly
+12   repay as aforesaid.
+13   Sotas son of Papei[s] and Sotas also called
+14   Tryphon, to Onnophris son of Pakysis,
+15   gree(ting). We acknowledge by
+16   this written bond that we have
+17   from you a hundr[ed] silver drachmas
+18   and five artabas of wheat - five,
+19   total 100 dr. (and) 5 (art. of wheat), which we will also re-
+20   pay in the month Pauni of the
+21   present twenty-fir[s]t
+22   ye[a]r of [A]ntoninus Cae-
+23   sar the lo[r]d, Mecheir 5.
+24   I, Sotas also called Tryphon, will jointly repay
+25   as aforesaid.

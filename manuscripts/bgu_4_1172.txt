@@ -1,0 +1,59 @@
+# ---------------------------------------------------------
+# BGU 4.1172 - Loan contract - 70 drachmas interest-free
+# Source: papyri.info DDbDP bgu;4;1172  (Trismegistos 18629)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1172
+label:    BGU 4.1172
+name:     Loan contract - 70 drachmas interest-free
+genre:    contracts
+date:     9 BCE
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13139 Ro
+content:  Dionysios and his wife Dionysia acknowledge an interest-free loan of 70 Ptolemaic drachmas from Princeps, repayable in five months; on default, the half-as-much penalty and execution against both jointly and their property
+tm:       18629
+source:   https://papyri.info/ddbdp/bgu;4;1172
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   [Πρωτάρχωι]
+r.2   [παρὰ Πρίνκιπος τοῦ καὶ παρὰ Διονυσίου τοῦ ]
+r.3   [Πέρσου τῆς ἐπιγονῆς καὶ τῆς τούτου γυναικὸς Διονυσίας τῆς ̣ ̣ ̣ ̣]
+r.4   νί̣ο̣υ̣ μετὰ κ̣[υρίου αὐτοῦ τοῦ ἀνδρός. συνχωροῦσι]ν Διονύ-
+r.5   σιος καὶ Διονυσία ἔχειν [παρὰ τοῦ] Πρίνκ[ιπο]ς δάνειον διὰ
+r.6   χειρὸς ἐξ οἴκου [ἀργυρίου Πτολε]μαικοῦ δραχμὰς ἑβδομή-
+r.7   κοντα ἄτοκο̣ν̣, ὃ καὶ ἀποδώσειν ἐν μησὶν πέντε
+r.8   ἀπὸ Ἁθὺρ τοῦ ἐνεστῶτος δευτέρου καὶ εἰκοστοῦ ἔτους
+r.9   Καίσαρος ἄνευ πά[σ]ης ὑπερθέσεως, ἢ εἶναι αὐτοὺς παρα-
+r.10   χρῆμα ἀγωγίμους καὶ συνέ[χ]εσθαι μέχρι τοῦ ἐκτῖσαι
+r.11   τὸ μὲν [δάνειον σὺν ἡμιολίᾳ], τοῦ δὲ ὑπερπεσόντος
+r.12   χρόνου τοὺς κατὰ τὸ διάγραμμα τόκους (διδράχμου) τῆς πρά-
+r.13   ξεως οὔσης τῶι Πρίνκιπι ἔκ τε τῶν δύο ὄντων
+r.14   ἀλληλεγγύων εἰς ἔκτεισιν καὶ ἐξ ἑν[ὸς καὶ ὁ]ποτέρου οὗ
+r.15   ἐὰν αὐτ[ῶν] αἱρῆται καὶ ἐκ τῶν ὑπαρχ[όν]των αὐτοῖς
+r.16   πάντων καθάπερ ἐγ δίκης καὶ μὴ ἐπιφέρειν πίστεις
+r.17   ἢ ἀκύρους εἶναι. ἀξιο(ῦμεν). εὐτύχει.
+
+[TRANSLATION]
+1   [To Protarchos.]
+2   [From Princeps, and from Dionysios son of ...]
+3   [a Persian of the epigone, and his wife Dionysia daughter of ...]
+4   ...nios, with [her husband as guardian. There agree] Diony-
+5   sios and Dionysia that they have [from] Princeps a loan, by
+6   hand from his house, of seventy [Ptole]maic silver drachmas,
+7   interest-free, which they will also repay within five months
+8   from Hathyr of the present twenty-second year
+9   of Caesar, without any delay; or they shall be im-
+10   mediately subject to seizure and held until they pay
+11   the [loan with the half-as-much-again penalty], and for the time overrun
+12   the interest fixed by the edict, two drachmas (per mina); the right of ex-
+13   ecution belonging to Princeps against both, who are
+14   mutually surety for payment, and against either one, whichever
+15   of them he chooses, and against all their
+16   property, as if by legal judgment; and they shall bring no pleas
+17   or (such pleas) shall be void. We request (registration). Farewell.

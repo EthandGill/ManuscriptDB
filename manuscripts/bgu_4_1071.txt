@@ -1,0 +1,39 @@
+# ---------------------------------------------------------
+# BGU 4.1071 - Petition to the archidikastes re Roman citizenship
+# Source: papyri.info DDbDP bgu;4;1071  (Trismegistos 31015)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1071
+label:    BGU 4.1071
+name:     Petition to the archidikastes re Roman citizenship
+genre:    petitions
+date:     3rd c. CE
+language: Greek (Koine)
+found:    Ptolemais Euergetis (Arsinoite metropolis), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13373
+content:  Marcus Aurelius Hermias alias Herakleides petitions the chief justice Agathos Daimon alias Didymos, setting out his descent and his status before receiving the Roman citizenship
+tm:       31015
+source:   https://papyri.info/ddbdp/bgu;4;1071
+lat:      29.3309
+lon:      30.8419
+
+[GREEK]
+r.1   [Ἀγαθῷ Δαίμονι τῷ καὶ Δι]δύμῳ ἱερῖ ἀρχιδικαστῇ καὶ πρὸς τῇ ἐπιμελίᾳ τῶν χρηματισ-
+r.2   [τῶν καὶ τῶν ἄλλων κριτη]ρίων
+r.3   [παρὰ Μάρκου Αὐρηλίου Ἑρμ]εία τοῦ καὶ Ἡρακλείδου Σαραπάμμωνος τοῦ Ἡρακλεί-
+r.4   [δου ἀπὸ τῆς μητροπόλ]εως τοῦ Ἀρσινοείτου ἀπὸ ἀμφόδου Μοήρεως καὶ πα-
+r.5   [ρὰ - ca.16 - Ἡρα]κλείδου, ὡς δὲ πρὶν ἢ λαβεῖν τὴν Ῥωμαίων πολειτί-
+r.6   [αν] [ἐχρημάτιζεν] [ ̣ ̣ ̣ ̣ ̣ ̣ δ]ήμ̣ο̣υ τοῦ κατὰ μητέρα πάπ’που Ἰσιδώρου Ἀρχισ-
+r.7   [τρατίου - ca.13 -] ̣ ̣ ̣ ̣α συμ[β]εβαιοῦντος τήνδε τὴν
+
+[TRANSLATION]
+1   [To Agathos Daimon also called Di]dymos, priest, chief justice and superintendent of the registry
+2   [of notaries and of the other] courts,
+3   [from Marcus Aurelius Herm]ias also called Herakleides, son of Sarapammon son of Heraklei-
+4   [des, from the metropol]is of the Arsinoite (nome), from the Moeris quarter; and fr-
+5   [om ... son of Hera]kleides - who, before receiving the Roman citizen-
+6   [ship was styled ...] of the deme; (descended) on his mother's side from his grandfather Isidoros son of Archis-
+7   [tratios ...] ... confirming this ...

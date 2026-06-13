@@ -1,0 +1,79 @@
+# ---------------------------------------------------------
+# P.Oxy 2.255 - Census declaration with oath - no privileged lodgers
+# Source: papyri.info DDbDP p.oxy;2;255  (Trismegistos 20525)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.255
+label:    P.Oxy 2.255
+name:     Census declaration with oath - no privileged lodgers
+genre:    documents
+date:     Sept-Oct 48 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    New York, Union Theological Seminary P. Oxy. 255
+content:  Thermoutharion declares the inmates of her house (only herself, a freedwoman aged 65) and swears by Tiberius Claudius that no stranger, Alexandrian, freedman, Roman or Egyptian lodges with her beyond those listed
+tm:       20525
+source:   https://papyri.info/ddbdp/p.oxy;2;255
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Δωρ[ίωνι σ]τρατηγῶι κ[αὶ Ἀ]π̣ο̣[λ]λ̣ω̣(νίῳ(?))
+r.2   βα[σι]λικῷ γρ[α(μματεῖ)] καὶ Διδύμωι [καὶ Ἀ]π̣ολ̣[λω(νίωι)]
+r.3   τοπογρα(μματεῦσι) καὶ κωμογρα(μματεῦσι) παρὰ Θερ[μου-]
+r.4   θαρίου τῆς Θοώνιος μετὰ κυρίου
+r.5   Ἀπολλω(νίου) τοῦ Σωτάδου. εἴσιν
+r.6   [οἱ] καταγεινόμενοι ἐν τῇ ὑπαρ-
+r.7   χο[ύσῃ μοι οἰκίᾳ λαύρ]ας νότου [ ̣ ̣]
+r.8   Θερμου[θάριον ἀπελ(ευθέρα) τοῦ προ-]
+r.9   γ[εγ]ρα(μμένου) Σωτάδ[ου] ὡς (ἐτῶν) ξε,
+r.10   μέση μελίχ(ρως) μακροπ(ρόσωπος) οὐλ(ὴ) γόνα(τι) δ̣ε̣[ξι]ῶ̣[ι],
+r.11   (γίνονται) γ(υναῖκες) β̣ (?) .
+r.12   Θερμουθάρι[ον] ἡ προγεγρα(μμένη) μ[ετὰ]
+r.13   κυρίου τοῦ α[ὐτο]ῦ̣ Ἀπολλω(νίου) ὀμνύω
+r.14   [Τ]ιβέριον Κλαύδιον Καίσαρα Σεβ[αστὸν]
+r.15   Γερμανικὸν Αὐτοκράτορα εἶ μὴν
+r.16   [ἐ]ξ [ὑ]γιοῦς καὶ ἐπʼ ἀληθείας ἐπι-
+r.17   δεδωκέναι τὴ[ν π]ροκειμένην ἀ[πο-]
+r.18   γ̣[ρα(?)]φὴν(?) τῶν παρʼ ἐμοὶ [ο]ἰκούν[των],
+r.19   καὶ μηδένα ἕτερον οἰκῖν παρʼ ἐμοὶ
+r.20   μήτε ἐπ[ί]ξ[ενον μή]τε Ἀλεξανδ(ρέα)
+r.21   μηδὲ ἀπελεύθερον μήτε Ῥώμαν
+r.22   μηδὲ Αἰγύπ[τιον ἐ]ξ τῶν προ-
+r.23   γεγραμμένω[ν. εὐορ]κούσῃ μέν μοι
+r.24   εὖ ε[ἴη, ἐπ]ιορκουντι δὲ τ[ὰ ἐν]αντία.
+r.25   [ἔτο]υς ἐνάτου Τιβερίου Κλαυδ[ίου]
+r.26   [Καίσαρο]ς Σεβαστοῦ Γερμανικοῦ
+r.27   [Αὐτοκρά]τορος, Φαῶφι [ ̣ ̣].
+
+[TRANSLATION]
+1   To Dor[ion, s]trategos, an[d A]po[l]lo(nios),
+2   ro[y]al scr[ibe], and Didymos [and A]pol[lo(nios)],
+3   topogrammateis and komogrammateis, from Ther[mou-]
+4   tharion daughter of Thoonis, with as guardian
+5   Apollonios son of Sotades. The
+6   [persons] dwelling in the house belong-
+7   [ing to me, of the south]ern [quart]er […]
+8   are: Thermou[tharion, freedwoman of the afore-]
+9   writ(ten) Sotad[es], aged about 65,
+10   of middle height, honey-skinned, long-faced, a scar on the ri[gh]t knee;
+11   total: women 2(?).
+12   I, Thermouthari[on] the aforewritten, w[ith]
+13   as guardian the s[am]e Apollonios, swear
+14   by [T]iberius Claudius Caesar Aug[ustus]
+15   Germanicus Imperator that
+16   soundly and truthfully I have sub-
+17   mitted the foregoing reg-
+18   istration of those dwelling with me,
+19   and that no one else dwells with me,
+20   neither a stra[nger n]or an Alexandrian
+21   nor a freedman nor a Roman
+22   nor an Egyp[tian b]eyond those a-
+23   forewritten. If I keep my [oath], may it
+24   go w[ell] with me; if I [for]swear, the [con]trary.
+25   Year nine of Tiberius Claud[ius]
+26   Caesar Augustus Germanicus
+27   [Imper]ator, Phaophi [..].

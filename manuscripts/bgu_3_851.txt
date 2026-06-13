@@ -1,0 +1,45 @@
+# ───────────────────────────────────────────────
+# BGU 3.851 — Receipt — purchase of confiscated olive-bearing property
+# Source: papyri.info DDbDP bgu;3;851  (Trismegistos 9381)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.851
+label:    BGU 3.851
+name:     Receipt — purchase of confiscated olive-bearing property
+genre:    receipts
+date:     10 Aug 163 CE
+language: Greek (Koiné)
+found:    Arsinoite nome, Fayum, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8462
+content:  A note of a payment to Isidoros and the overseers of confiscated property of the estate of Heliodoros son of Maron, for olive-land
+tm:       9381
+source:   https://papyri.info/ddbdp/bgu;3;851
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ἔτους β Αὐρηλίων ―
+r.2   Ἀντων[ί]νου καὶ Οὐήρου
+r.3   τῶν κυρίων Σεβαστῶν
+r.4   Μεσορ[ὴ] ιζ. διέγρ(αψεν) Ἰσιδώρῳ
+r.5   καὶ μετόχ[ο]ις ἐπιτηρητ(αῖς)
+r.6   γενη(ματογραφουμένων) ὑπ[α]ρ̣χ(όντων) διοι(κήσεως) Ἡλιω-
+r.7   δώρου Μάρωνος δ[ι]ὰ
+r.8   Ὥρου Ἀ[μ]βρω ̣ ̣ ̣ς̣ ἐπι-
+r.9   τηρη̣τ̣[οῦ(?)] γε̣ν̣η̣(ματογραφουμένων(?)) γ (ἔτους) ἐλαϊ -
+r.10   κ̣ῶν ι̣[ ̣ ̣]ω ἐ̣πρία̣τ̣ο̣ η̣ ̣
+
+[TRANSLATION]
+1   Year 2 of the Aurelii
+2   Anton[i]nus and Verus
+3   the lords Augusti,
+4   Mesor[e] 17. Paid to Isidoros
+5   and partners, overseers
+6   of confiscated property of the administration of Helio-
+7   doros son of Maron, through
+8   Horos son of Ambro…s, over-
+9   seer(?) of confiscated 3rd-(year) olive-
+10   lands …, he bought …

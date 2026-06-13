@@ -1,0 +1,67 @@
+# ---------------------------------------------------------
+# BGU 4.1166 - Loan of 100 Ptolemaic silver drachmas
+# Source: papyri.info DDbDP bgu;4;1166  (Trismegistos 18616)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1166
+label:    BGU 4.1166
+name:     Loan of 100 Ptolemaic silver drachmas
+genre:    contracts
+date:     25. März 13 v.Chr.
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13191 Vo II
+content:  A loan-agreement registered before Protarchos by which Helenos and his wife Tryphaina acknowledge receiving a loan of 100 Ptolemaic silver drachmas from Gaius Julius Philos through Kastor's exchange-bank, at 2 drachmas interest per mina monthly, with penalty clauses; dated Year 17 of Caesar.
+tm:       18616
+source:   https://papyri.info/ddbdp/bgu;4;1166
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   Πρωτάρχῳ
+r.2   παρὰ Γαίο(υ) Ἰουλίο(υ) Φιλίο(υ) καὶ παρὰ Ἑλένου τοῦ Καίσαρος Πέρσου τῆ(ς)
+r.3   ἐπιγο(νῆς) καὶ τῆς γυναικ(ὸς) Τρυφαίνη(ς) τῆς Πτολ(εμαίου) Περσείνη(ς)
+r.4   μετὰ κ(υρίου) τοῦ ἀνδρό(ς). περὶ τῶ(ν) διεσταμ(ένων) σ<υν>χωρο(ῦσιν) Ἕλενος
+r.5   καὶ Τρύφαινα ἔχειν παρὰ τοῦ Γαίο(υ) Ἰουλίο(υ) Φιλ(ίου) δάνειον διὰ τῆ(ς)
+r.6   Κάστορο(ς) κολ(λυβιστικῆς) τραπ(έζης) ἀργυρίου Πτολ(εμαικοῦ) (δραχμὰς) ἑκατὸν τόκων
+r.7   (διδράχμων)
+r.8   τοῦ μηνὸς ἑκάστου, ὃ καὶ ἀποδώσειν ἐν μησὶν [ ̣ ̣ ̣ ̣ ̣ ̣]
+r.9   ἀπὸ Φαμενὼ(θ) τοῦ ἐνε(στῶτος) ιζ (ἔτους) Καίσαρος διδ[όν]τες τοὺς μὲν
+r.10   τόκ(ους) κατὰ μῆ(να) εὐτάκ(τως), τὸ δὲ κεφάλ(αιον) ἐν τῷ ἐσχάτῳ μηνὶ ἄνευ π(άσης)
+r.11   ὑπερθ(έσεως), ἢ εἶναι αὐτο(ὺς) παραχρῆ(μα) ἀγω(γίμους) καὶ σ̣υ̣ν̣έ̣[χεσθαι μέχ]ρ̣ι̣
+r.12   τοῦ ἐκτῖσαι
+r.13   τὸ μὲν δάνειο(ν) σὺν ἡ(μιολίᾳ), τοὺς δὲ τόκ(ους) ἁπ(λοῦς), τοῦ δὲ ὑπερπεσ(όντος) χρόνο(υ)
+r.14   τοὺς ἴσους, τῆς πρά(ξεως) γεινο(μένης) τῷ Γαίωι Ἰουλί[ωι] Φιλ(ίῳ) [ἔ]κ [τε τῶ]ν
+r.15   ὑποχρέ(ων) <ὄντων> ἀλληλ(εγγύων) εἰς ἔκ(τισιν) καὶ ἐκ ἑ(νὸς) καὶ ἐξ οὗ ἐὰν αἱρῆ(ται)
+r.16   [καὶ ἐκ τ(ῶν) ὑπαρχ(όνων) αὐτοῖς]
+r.17   πάντων καθάπ(ερ) ἐκ δίκ(ης) ἀκύρ(ων) οὐσ(ῶν) καὶ ὧν ἐὰν ἐπενένκ[ωσι] [πίστ(εων) πασ(ῶν) σκέπ(ης) πάσ(ης)].
+r.18   τοῦτο δʼ ἐστὶν τὸ δάνη(ον) ἐκτὸν οὗ ὀφείλει ὁ αὐτ[ὸς] Ἕλ[ενος]
+r.19   σὺν Ἁρποκρατίω(νι) Ἀρείου καὶ Τρυφαίνῃ Ἀρείου [τῷ αὐτῷ]
+r.20   Γαίωι Ἰουλίωι Φιλ(ίωι) καθʼ ἑτέρ(αν) σχωρ διὰ τ̣ο̣ῦ̣ α̣ὐ̣(τοῦ) κ̣ρ̣(ιτηρίου)
+r.21   (ἔτους) ιζ Καίσαρος Φαμε(νὼθ) κθ
+
+[TRANSLATION]
+1   To Protarchos,
+2   from Gaius Julius Philos and from Helenos, Persian of
+3   Caesar's epigone, and (from) his wife Tryphaina daughter of Ptolemaios, Persian woman,
+4   with her guardian her husband. Concerning the matters in dispute, Helenos
+5   and Tryphaina agree that they have from Gaius Julius Philos a loan, through the
+6   exchange-bank of Kastor, of one hundred drachmas of Ptolemaic silver, at interest of two drachmas
+7   (per mina)
+8   for each month, which they will also repay within [...] months
+9   from Phamenoth of the present 17th year of Caesar, paying the
+10   interest each month punctually, and the principal in the last month without any
+11   delay; or else they shall be immediately liable to seizure and held until
+12   the repayment;
+13   (repaying) the loan together with half as much again, and the interest at the simple rate, and for the time overrun
+14   an equal (interest), the right of execution belonging to Gaius Julius Philos both from the
+15   debtors, being mutually liable for the repayment, and from any one of them, and from whichever (of them) he chooses,
+16   [and from] all [their possessions]
+17   as if by legal judgment, any (counter-claims) being invalid, and whatever pledges they may bring forward [(being) all of no protection].
+18   And this is the loan apart from that which the same Helenos owes,
+19   together with Harpokration son of Areios and Tryphaina daughter of Areios, to the same
+20   Gaius Julius Philos under another agreement (synchoresis) through the same court.
+21   Year 17 of Caesar, Phamenoth 29.

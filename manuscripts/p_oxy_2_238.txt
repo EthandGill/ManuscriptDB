@@ -1,0 +1,61 @@
+# ---------------------------------------------------------
+# P.Oxy 2.238 - Official notice ordering completion of pending contracts
+# Source: papyri.info DDbDP p.oxy;2;238  (Trismegistos 20507)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.238
+label:    P.Oxy 2.238
+name:     Official notice ordering completion of pending contracts
+genre:    contracts
+date:     29. Aug. - 27. Sept. 72
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Dublin, Trinity College Pap. E 3
+content:  An official proclamation from Oxyrhynchus (year 4 of Vespasian) calling on those who have business transactions left pending in the agoranomion, record-office, and notary's office to appear before the agoranomoi and complete them within the current month of Sebastos.
+tm:       20507
+source:   https://papyri.info/ddbdp/p.oxy;2;238
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   τοὺς ἔχοντας μετεώρους
+r.2   οἰκονομίας ἔν τε τῶι
+r.3   ἀγορανομίωι καὶ μνημο-
+r.4   νείωι καὶ γραφίωι ἐν τῶι
+r.5   διεληλυθότι τετάρτωι ἔτει
+r.6   Αὐτοκράτορος Καίσαρος
+r.7   Οὐεσπασιανοῦ Σεβαστοῦ
+r.8   προσέρχεσθαι τοῖς
+r.9   ἀγορανόμοις καὶ τε[λειοῦν]
+r.10   ταύτας ἐντὸς [ ̣ ̣ ̣ ̣]
+r.11   τοῦ ἐνεστῶτ[ος]
+r.12   μηνὸς Σεβαστοῦ [ ̣ ̣ ̣]
+r.13   καὶ ὀφείλοντα[ς ̣ ̣ ̣]
+r.14   φέρειν [ ̣ ̣ ̣ ̣ καταλο-]
+r.15   χισμῶν ε[…]
+r.16   καὶ ἐνκυκλι[ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.17   ματα ἔτι καὶ νῦ[ν ̣ ̣ ̣]
+r.18   φέρειν ἢ ὅτι τοῖς α̣[ ̣ ̣ ̣ ̣]
+
+[TRANSLATION]
+1   Those who have pending
+2   transactions both in the
+3   agoranomion and the record-
+4   office and the notary's office in the
+5   past fourth year
+6   of Imperator Caesar
+7   Vespasian Augustus,
+8   (are) to come forward to the
+9   agoranomoi and com[plete]
+10   these within [....]
+11   of the present
+12   month of Sebastos [...]
+13   and those who ow[e ...]
+14   to pay [.... of the cadastral-]
+15   registrations ...[...]
+16   and the sales-tax [........]
+17   ...mata, still even now [...]
+18   to pay, or because to the ...[....]

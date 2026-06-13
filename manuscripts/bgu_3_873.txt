@@ -1,0 +1,77 @@
+# ---------------------------------------------------------
+# BGU 3.873 - Contract for advance purchase (delivery) of flax
+# Source: papyri.info DDbDP bgu;3;873  (Trismegistos 33245)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.873
+label:    BGU 3.873
+name:     Contract for advance purchase (delivery) of flax
+genre:    contracts
+date:     Ende V - Anfang VI
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7801
+content:  A late-antique contract (preserved in several fragments) in which Aurelius Victor son of Maurikios acknowledges receiving from Aurelius Sambas, a tow-worker of Arsinoe, the price of flax-stalks, undertaking to deliver it at the hamlet in the month Pauni from the crops of the 13th indiction, with subscriptions.
+tm:       33245
+source:   https://papyri.info/ddbdp/bgu;3;873
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   [ἀπὸ χωρί]ου Πιαμούει τοῦ Ἀρσι-
+r.2   [νοείτου νο]μοῦ Αὐρηλίῳ Σαμβᾷ
+r.3   [υἱῷ Σουννί]ωνος στιπ’πουργῷ
+r.4   [ἀπὸ τῆς Ἀρσι]νοειτῶν πόλεως χ(αίρειν).
+r.5   [ὁμολογῶ] ἐσχηκέναι με
+r.6   [παρὰ σοῦ διὰ χειρὸ]ς κα[ὶ πεπλη-]
+r.7   [ρῶσθαι] [ ] fragment II
+r.8   [ ] νομο[ῦ]
+r.9   [Σα]μβᾷ υ ἱῷ Σουν’νίω[νος ]εστιπ’πα
+r.10   [Ἀρσι]νοειτῶν πόλεως ̣[ ] ὁμολογῶ
+r.11   [ἐμ]ὲ παρὰ σοῦ διὰ χειρὸς [ ]κειν’ν ̣
+r.12   [ ̣ ̣ ̣ ̣ ̣ ̣] ̣ ̣ ̣[…] Νειλο
+r.13   [ ] ̣υ̣ ̣ ̣ ̣ ̣fragment III
+r.14   [ ̣ ̣ ̣ ̣ ̣] τὴν δὲ τούτων ἀπό-
+r.15   δοσίν σοι [π]οιήσομαι ἐν τῷ
+r.16   ἐποικίῳ μηνὶ Παῧ νι ἀπὸ
+r.17   καρπῶν τῆς τρεισκαιδεκάτης
+r.18   ἰ [ν]δικτίονος ἀνυπερθέτως
+r.19   [ἐξ ὑπ]αρχόντων μου πάντων,
+r.20   [καὶ ἐπ]ερωτηθεὶς ὡμολόγησα. †
+r.21   (hand 2) Αὐρήλιος Οὐίκτορ ὑὸς Μαυ[ρ]ικίου ὁ προκίμ[εν]ος
+r.22   ἔσχων τὴν τιμὴν λινοκαλάμης δεκάτῳ ἢ τρισ-
+r.23   χιλίον τετρακοσίων καὶ ἀποδώσω τῇ πρωγ(εγραμμένῃ)
+r.24   ̣ ̣ ̣ ὡς πρόκιτε . Αὐρήλιος Κῦρος Παύλου ἔγραψα
+r.25   περ αὐτο[ῦ …ὡ(?)]ς ἀγραμάτου ὄντος
+r.26   λινοκαλάμ( ) ̣σματ[ ]
+
+[TRANSLATION]
+1   [from the hamle]t of Piamouei of the Arsi-
+2   [noite nom]e, to Aurelius Sambas
+3   [son of Sounni]on, tow-worker,
+4   [from the city of the Arsi]noites, greeting.
+5   [I acknowledge] that I have received
+6   [from you, through (your) hand, an]d [that I have been pai-]
+7   [d in full] [ ] fragment II
+8   [ ] of the nom[e]
+9   [to Sa]mbas son of Sounnion [ ] tow-worker(?)
+10   [of the Arsi]noites' city .[ ] I acknowledge
+11   [that I (received)] from you through (your) hand [ ]kein'n .
+12   [......] ...[...] Neilo
+13   [ ] .y..... fragment III
+14   [.....] and the deli-
+15   very of these I will make to you in the
+16   hamlet in the month Pauni from
+17   the crops of the thirteenth
+18   i[n]diction, without delay,
+19   [out of] all my property,
+20   [and being f]ormally questioned I gave my assent. †
+21   (hand 2) Aurelius Victor son of Mau[r]ikios, the aforesaid,
+22   I have received the price of flax-stalks, at a tenth or three-
+23   thousand four hundred, and I will deliver to the afo(resaid woman)
+24   ... as is stated above. Aurelius Kyros son of Paulos, I wrote
+25   on behalf of him, since he is illiterate,
+26   of flax-stalk( ) .smat[ ]

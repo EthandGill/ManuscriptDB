@@ -1,0 +1,67 @@
+# ---------------------------------------------------------
+# BGU 4.1139 - Petition of Spintheros on the Abduction of His Daughter
+# Source: papyri.info DDbDP bgu;4;1139  (Trismegistos 18583)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1139
+label:    BGU 4.1139
+name:     Petition of Spintheros on the Abduction of His Daughter
+genre:    contracts
+date:     nach
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13112 \[2\
+content:  Petition from Spintheros and his wife Apollonia to the prefect Gaius Tyrranius, complaining that the slave Paris abducted and imprisoned their daughter Tathreiphis and the child Prima, and asking that Paris be compelled to return her.
+tm:       18583
+source:   https://papyri.info/ddbdp/bgu;4;1139
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   Γ̣α̣ί̣ω̣ι̣ Τυρρανίωι
+r.2   παρὰ Σπινθῆρο(ς) το(ῦ) Ἁρπαήσιος κ̣α̣ὶ̣ τ̣ῆ̣(ς) τ̣ο̣(ύτου) γ̣υ̣(ναικὸς) Ἀπολλωνίο̣υ̣ τ̣ῆ̣ς̣ Λύκου ἀ̣μ̣φο̣(τέρων)
+r.3   π̣α̣ρ̣ό̣ντων ἀπὸ Λ̣ύ̣κων̣ πόλεω(ς) τῆ(ς) Θ̣η̣β̣α̣ί̣δ̣(ος). π̣ά̣ρ̣ε̣σ̣μεν τὴν θυγατέρα
+r.4   ἡμῶ(ν) Ταθρεῖφιν
+r.5   χαρν τῆς ἐσχηκυίας ἡμᾶς β̣ι̣ω̣τ̣ι̣κ̣ῆ̣ς̣ θλε[ίψ]εως ἐποιήσα-
+r.6   μεν̣ ε̣ἰ̣ς̣ Π̣άρθ̣ον δοῦλο(ν) Χρήτο(υ) παραμονὴν
+r.7   ἔτι δὲ καὶ τροφεῖτ̣ι̣ν̣ τοῦ γε̣ν̣ο̣μ̣έν(ου) ἐξ ἀλλήλων παιδίου Ταθρείφιος
+r.8   ὅπ̣ε̣ρ δ̣ὲ μετοννομάσας Πά̣ρ̣θ̣ο̣ς̣ τ̣ὸ̣ ὄ̣ν̣ο̣μ̣α̣ α̣ὐ̣τ̣ῇ̣ ἐπέθηκεν Π̣ρί̣μ̣α̣,
+r.9   ἐν δὲ τῷ μεταξὺ ἡμῶν π̣ί̣σ̣τ̣ι̣ν̣ ε̣ἰ̣σ̣ε̣ν̣ε̣γ̣κ̣α̣μένων ἀπελύθημεν ὑπὸ τοῦ
+r.10   Πάρθου κατὰ τὴν
+r.11   γεγονυῖαν διὰ τοῦ καταλογείου π̣ε̣ρ̣ὶ̣ τῆς ἀπολύσεως τῆς τε παραμονῆς
+r.12   καὶ τῆς τροφειδος τοῦ ἐξονομαζομέ(νου) παιδίου ἀσφάλειαν, τῷ δὲ Ἐπεὶφ
+r.13   μηνὶ τοῦ κε (ἔτους) Καί̣σ̣α̣ρ̣ο(ς) Πάρις δοῦλο(ς) τῶν Χρήτο̣υ̣ -
+r.14   συνιδὼν τὸν Πάρθον ἐν τοῖς ἔξω τόποις ὄντα ἐτόλμησε
+r.15   μηδ̣ὲ̣ν̣ ἀ̣δ̣ι̣κ̣ή̣σ̣α̣ντας ἡμᾶς τ̣ή̣ν̣ τ̣ε̣ οἰκον̣ο̣μ̣ί̣α̣ν̣
+r.16   ἀποσ̣τ̣ερε̣ῖ̣ν, ἀπαγαγεῖν <δὲ> τὴν θυγατέρα ἡμῶν Ταθρεῖφιν και την Π̣ρ̣ί̣μ̣α̣(ν)
+r.17   καὶ ἔχειν παρʼ ἑαυτῶι ἐν εἱρκ̣τ̣[ῇ ἐπὶ] μ̣ῆ̣ν̣ας ε. διὸ ἀξιοῦμέν [σε]
+r.18   τὸν πάντων σωτῆρα καὶ ἀντιλήμπτορα ὑπὲρ σπλάγχνου τὸν ἀγῶνα
+r.19   ποιούμενοι ἐὰν φαίνηται προστάξαι παρασταθῆναι τὸ(ν) π̣ρ̣ο̣γ̣ε̣γ̣ρ̣α̣μ̣μ̣έ̣ν̣ο̣ν̣
+r.20   Πάρ[ι]ν καὶ ἐπαναγκάσαι παραγαγεῖν τὴν θυγατέρα ἡμῶν, [ἵν]α̣
+r.21   ἀποκομισώμεθα αὐτὴν κα̣ὶ̣ ὦ̣[μεν ε]ὐ̣ε̣ρ̣γ̣ε̣τ̣η̣(μένοι).
+
+[TRANSLATION]
+1   To Gaius Tyrranius,
+2   from Spintheros son of Harpaesis and his wife Apollonia daughter of Lykos, both
+3   present, from the city of the Wolves (Lykopolis) of the Thebaid. We present (the matter of) our daughter
+4   Tathreiphis.
+5   On account of the everyday distress that gripped us, we made
+6   to Parthon, slave of Chretos, a contract of service (paramone),
+7   and further also the wet-nursing of the child Tathreiphis born of us to each other,
+8   which (child) Parthos, having renamed her, gave her the name Prima,
+9   and in the meantime, we having brought in security, we were released by
+10   Parthon according to the
+11   guarantee made through the registry concerning the release both of the paramone-service
+12   and of the nursing of the named child; but in the month Epeiph
+13   of the 25th (year) of Caesar, Paris, slave of (the household) of Chretos -
+14   having perceived Parthon to be in the regions abroad, dared,
+15   though we had done no wrong, the household-arrangement
+16   to deprive (us of), and to lead away our daughter Tathreiphis and the (girl) Prima
+17   and to keep (them) with himself in prison [for] 5 months. Therefore we ask [you],
+18   the savior and protector of all, making the struggle on behalf of (our own) flesh,
+19   if it appears (good), to order that the aforewritten
+20   Paris be produced and be compelled to bring back our daughter, [so th]at
+21   we may recover her and [may be be]nefited.

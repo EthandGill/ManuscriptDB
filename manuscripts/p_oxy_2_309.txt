@@ -1,0 +1,71 @@
+# ---------------------------------------------------------
+# P.Oxy 2.309 - Bank receipts for weavers' tax, poll-tax and dyke-tax
+# Source: papyri.info DDbDP p.oxy;2;309  (Trismegistos 16667)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.309
+label:    P.Oxy 2.309
+name:     Bank receipts for weavers' tax, poll-tax and dyke-tax
+genre:    receipts
+date:     16. Mai 18 (Jahr unsicher)
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Edinburgh, University Library Ox. P. number unknown
+content:  A series of bank payment-receipts from the reign of Tiberius recording installments of the weavers' tax (gerdiakon), poll-tax (epikephalion) and dyke-tax (chomatikon) paid by Thoonis, freedman of Ptolemaios, on various dates.
+tm:       16667
+source:   https://papyri.info/ddbdp/p.oxy;2;309
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   [ἔτους ̣ Τιβερίου Καίσαρος Σεβ]α̣στοῦ,
+r.2   [ ] ̣ διαγεγρ(άφηκεν) γερδ(ιακοῦ) χη( ) Θ[ο]ώ[ν]ιος ἀπε(λεύθερος)
+r.3   [Πτολ(εμαίου) Δ]ε̣φ̣ ̣ ̣σ̣ί̣ω̣(νος) (δραχμὰς) ἑ̣π̣τ̣ὰ̣ τριώ(βολον), (γίνονται) ζ(τριώβολον) [καὶ τ(ῇ) ̣ ̣] τοῦ ̣ ̣ ̣ ̣
+r.4   [(δραχμὰς) ἑπτὰ τριώ(βολον), (γίνονται) ζ] (τριώβολον) [κ(αὶ)] τ(ῇ) ̣ ̣ τοῦ ̣ ̣ ̣ [(δραχμὰς) ἑ]π[τὰ τρι]ώ(βολον),
+r.5   [(γίνονται)] ζ(τριώβολον) κ(αὶ) τ(ῇ) κα τοῦ Παχὼ(ν) [(δραχμὰς)] ἕξ, (γίνονται) (δραχμαὶ) ϛ
+r.6   ἔτους ε Τιβερίου Κ[αίσ]αρος
+r.7   Σεβαστοῦ, Μεχ(εὶρ) κε. δ[ιαγε]γρ(άφηκεν)
+r.8   διὰ Πτολ(εμαίου) κ(αὶ) ̣ ̣ τρα(πεζίτου)
+r.9   ̣ ̣ ̣ ̣ Θοώνιο[ς ἀ]πελ(εύθερος)
+r.10   Πτολεμαίο(υ) ὁ α(ὐτὸς) (δραχμὰς) ὀκτώ, [(γίνονται)] (δραχμαὶ) η
+r.11   Παχὼ̣(ν) β ἐπικ(εφαλαίου) χη( ) θ[ ̣ ̣]ν̣ι̣ς̣
+r.12   α̣ ̣ ̣α̣ ̣( ) ̣ ̣ ̣ ̣ τ̣έ̣σ̣[σαρα]ς, (γίνονται) δ.
+r.13   Ἐπεὶφ β χω(ματικοῦ) ὁ α(ὐτὸς) (δραχμὰς) ϛ τετρώ(βολον), (γίνονται) ϛ(τετρώβολον)
+r.14   ἔτους ε Τιβερίου Καίσαρος Σεβαστοῦ, μη(νὸς) Νέου Σεβ(αστοῦ) ιζ.
+r.15   διαγεγρ(άφηκεν) γερδ(ιακοῦ) Θοώνιος ἀπελ(εύθερος) Πτο(λεμαίου) Δ̣ε̣φ̣ ̣ ̣σίω(νος)
+r.16   (δραχμὰς) ἑ̣π̣τ̣ὰ̣ τριώ(βολον), (γίνονται) ζ(τριώβολον) καὶ τ(ῇ) ιζ τοῦ Χο(ιὰκ) ὁ α(ὐτὸς) (δραχμὰς) ἑπτὰ τριώ(βολον), (γίνονται) ζ(τριώβολον)
+r.17   καὶ τ̣(ῇ) κ̣α̣ τοῦ Φαμενὼ(θ) ὁ α(ὐτὸς) (δραχμὰς) ἑπτὰ τριώ(βολον), (γίνονται) ζ(τριώβολον) κ̣α̣ὶ̣ τ(ῇ) α̣ τ(οῦ)
+r.18   Πα(χὼν) ὁ α(ὐτὸς) (δραχμὰς) ἑπτὰ τριώ(βολον), (γίνονται) ζ(τριώβολον) καὶ τ(ῇ) θ τοῦ Π̣α̣ῦ̣νι ὁ α(ὐτὸς)
+r.19   (δραχμὰς) ϛ, (γίνονται) (δραχμαὶ) ϛ
+r.20   ἔτους δ Τιβερίου Καίσαρος Σεβαστοῦ [ ]
+r.21   διαγεγρ(άφηκεν) διὰ Πτολ(εμαίου) τ̣ρ̣(απέζης) ἐπικ(εφαλαίου) χ Θ[οώνιος]
+r.22   Παχ(ὼν) ϛ (δραχμὰς) ὀκτώ, (γίνονται) (δραχμαὶ) [η ̣ ̣ ̣ ̣ ̣ ̣]
+r.23   Ἐπεὶφ θ χω(ματικοῦ) ὁ α(ὐτὸς) (δραχμὰς) ἓξ τετρώ(βολον), [(γίνονται) (δραχμαὶ) ϛ(τετρώβολον)]
+
+[TRANSLATION]
+1   [Year .. of Tiberius Caesar Aug]ustus,
+2   [ ] . has paid in, of weavers'-tax, ch( ), Th[o]o[n]is, freedman
+3   [of Ptol(emaios)] son of Deph..sion, seven drachmas (and) a tri-obol, total 7 (and a tri-obol), [and on the ..] of the ...
+4   [seven drachmas (and) a tri-obol, total 7] (and a tri-obol), [and] on the .. of the ... [seven dra]ch[mas (and) a tri-]obol,
+5   [total] 7 (and a tri-obol), and on the 21st of Pacho(n) [drachmas] six, total 6 drachmas;
+6   Year 5 of Tiberius C[aes]ar
+7   Augustus, Mecheir 25. He has p[ai]d in
+8   through Ptolemaios and .. the ban(ker)
+9   .... Thoonis, [f]reedman
+10   of Ptolemaios, the s(ame man), eight drachmas, [total] 8 drachmas;
+11   Pacho(n) 2, of poll-tax, ch( ) th[..]nis(?)
+12   a..a.( ) .... fo[ur], total 4.
+13   Epeiph 2, of dyke-tax, the s(ame man), 6 drachmas (and) a tetr-obol, total 6 (and a tetr-obol);
+14   Year 5 of Tiberius Caesar Augustus, in the mo(nth) Neos Seb(astos), 17th.
+15   He has paid in, of weavers'-tax, Thoonis, freedman of Pto(lemaios) son of Deph..sion,
+16   seven drachmas (and) a tri-obol, total 7 (and a tri-obol), and on the 17th of Choi(ak) the s(ame man) seven drachmas (and) a tri-obol, total 7 (and a tri-obol),
+17   and on the 21st of Phameno(th) the s(ame man) seven drachmas (and) a tri-obol, total 7 (and a tri-obol), and on the 1st of
+18   Pa(chon) the s(ame man) seven drachmas (and) a tri-obol, total 7 (and a tri-obol), and on the 9th of Pauni the s(ame man)
+19   6 drachmas, total 6 drachmas;
+20   Year 4 of Tiberius Caesar Augustus [ ]
+21   He has paid in through Ptolemaios the ba(nk), of poll-tax, ch( ), Th[oonis]
+22   Pacho(n) 6, eight drachmas, total [8] drachmas[......]
+23   Epeiph 9, of dyke-tax, the s(ame man), six drachmas (and) a tetr-obol, [total 6 drachmas (and a tetr-obol)]

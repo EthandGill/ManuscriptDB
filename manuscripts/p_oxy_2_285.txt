@@ -1,0 +1,67 @@
+# ---------------------------------------------------------
+# P.Oxy 2.285 - Petition - a weaver extorted by the trade-tax collector
+# Source: papyri.info DDbDP p.oxy;2;285  (Trismegistos 20556)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.285
+label:    P.Oxy 2.285
+name:     Petition - a weaver extorted by the trade-tax collector
+genre:    petitions
+date:     c. 50 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    London, British Library Pap 796 Ro
+content:  Sarapion the weaver petitions the strategos Tiberius Claudius Pasion: the tax-collector Apollophanes seized the linen tunic off his back, extorted four drachmas more, and exacted two a month for six months
+tm:       20556
+source:   https://papyri.info/ddbdp/p.oxy;2;285
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Τιβερίωι Κλαυδίῳ Πασίων[ι] στρ[α(τηγῷ)]
+r.2   παρὰ Σαραπίωνος τοῦ Θέωνος
+r.3   τῶν ἀπʼ Ὀξυρύγχων πόλεως
+r.4   γερδίων λαύρας δρόμου Γυμν[α-]
+r.5   σίου. Ἀπολλοφάνης γενόμ[ενος]
+r.6   πράκτωρ χιρωναξίου γερ-
+r.7   δίων τῷ α (ἔτει) Τιβερίου Κλαυδ[ίου]
+r.8   Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.9   Αὐτοκρά[τ]ορος πολλῇ βίᾳ χρώ-
+r.10   μενος ἀφήρπασεν ὃν ἤμην
+r.11   ἐνδεδυμενο χιτῶνα λ̣ε̣ι̣νοῦν
+r.12   ἀξιν δραχμῶν ὀκτώ , καὶ διέ-
+r.13   σισέν με ἄλλας δραχμὰς τέσσα-
+r.14   ρες , καὶ ἀπὸ μηνὸς Νέου Σεβασ-
+r.15   τοῦ ἐνάτου ἔτους Τιβερίου
+r.16   Κλαυδδίου Καίσαρος Σεβαστοῦ
+r.17   Γερμανικοῦ Αὐτοκράτορος ἕως
+r.18   Φαρμοῦθι, μηνῶν ἕξ , κατὰ μῆνα
+r.19   δραχμὰς δύο , αἳ συναγόμεναι (δραχμαὶ) κδ.
+r.20   διὸ ἀξιῶ διαλαβεῖν κατʼ αὐτοῦ
+r.21   ὡς ἐάν σοι φαίνηται. εὐτύχει.
+
+[TRANSLATION]
+1   To Tiberius Claudius Pasion, strate(gos),
+2   from Sarapion son of Theon,
+3   of the city of the Oxyrhynchi,
+4   weaver, of the quarter of the Gymna-
+5   sium street. Apollophanes, having been
+6   collector of the trade-tax of the weav-
+7   ers in the 1st year of Tiberius Claud[ius]
+8   Caesar Augustus Germanicus
+9   Imperator, using much force,
+10   snatched away the (tunic) I was
+11   wearing, a linen tunic
+12   worth eight drachmas, and ex-
+13   torted from me another four
+14   drachmas, and from the month Neos Sebas-
+15   tos of the ninth year of Tiberius
+16   Claudius Caesar Augustus
+17   Germanicus Imperator until
+18   Pharmouthi, six months, each month
+19   two drachmas, which come to 24 dr.
+20   Therefore I ask that proceedings be taken against him
+21   as may seem good to you. Farewell.

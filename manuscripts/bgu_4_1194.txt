@@ -1,0 +1,59 @@
+# ---------------------------------------------------------
+# BGU 4.1194 - Bank Payment of Money to a Temple at Herakleopolis
+# Source: papyri.info DDbDP bgu;4;1194  (Trismegistos 18644)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1194
+label:    BGU 4.1194
+name:     Bank Payment of Money to a Temple at Herakleopolis
+genre:    documents
+date:     16. - 24. Juli 27 v.Chr.
+language: Greek (Koine)
+found:    Herakleopolite nome, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13166
+content:  A bank disbursement through the bank of Herokrates whereby Ptolemaios, agent of the prophet and overseer of sacred things Horos, pays sums to temple officials for the sacred tower.
+tm:       18644
+source:   https://papyri.info/ddbdp/bgu;4;1194
+lat:      29.0772
+lon:      30.9342
+
+[GREEK]
+r.1   ἔτους γ Ἐφ β ̣ ἐ̣ν̣ Ἡ̣ρα̣(κλέους πόλει).
+r.2   διαγρα(φὴ) διὰ τῆς Ἡροκρ(άτους) τ̣ρα(πέζης).
+r.3   Πτολεμαῖος ὁ παρʼ Ὥρου
+r.4   προφήτου καὶ ἐπιστάτου
+r.5   ἱερῶν Προ̣[ί]τωι καὶ
+r.6   Μαρσύαι τοῖς παρὰ
+r.7   Σαραπίωνος τοῦ
+r.8   ἐπὶ τῶν προσόδων
+r.9   τοῦ ἱεροῦ πύργου τιμ(ὴν) ι
+r.10   καπ̣τ̣έρ̣ων τῶ̣ν καθη(κόντων) το ἱ̣ε̣ρ̣ῷ̣
+r.11   τελεῖσθαι ἐκ τοῦ ἐν Ἡρα(κλέους) πό(λει)
+r.12   αὐ(τῷ) ἀνιερω(μένου) ε̣ ̣ε ̣ ̣ ̣ ̣ε( )
+r.13   ̣ ̣ ̣ ̣ειτ̣ο̣μ̣α̣ τ̣ο̣ῦ̣ [ἱ]ε̣ρο̣ῦ̣
+r.14   π̣ύρ̣γ̣ο̣υ̣ πρὸς [ ̣ ̣] ̣[ ̣ ̣]
+r.15   ̣ ̣ ̣ ̣μη τ̣αμιε( )
+r.16   [χ]αλ̣(κοῦ) (τάλαντα) ηε ̣λε
+r.17   ἀ̣λ̣λ̣α̣γ̣ὴ̣ (δραχμαὶ) ρλδ2
+
+[TRANSLATION]
+1   Year 3, Eph(iph) 2, in Hera(kleopolis).
+2   Disbursement through the bank of Herokr(ates).
+3   Ptolemaios the agent of Horos,
+4   prophet and overseer
+5   of sacred things, to Pro[i]tos and
+6   Marsyas, the agents of
+7   Sarapion the one
+8   in charge of the revenues
+9   of the sacred tower, the price 10
+10   of the kapteres (jars?) due to the temple
+11   to be paid from the (fund) in Hera(kleopolis)
+12   consecrated to him ... e( )
+13   ... ...eitoma of the [s]acred
+14   tower toward [ .. ] .[ .. ]
+15   ....me the treasury( )
+16   [of bro]nze, 8 (talents) 5 ... 35
+17   exchange-fee 134 1/2 (drachmas).

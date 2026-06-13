@@ -1,0 +1,43 @@
+# ---------------------------------------------------------
+# BGU 3.861 - Extract from a Land-Inspection Register (Karanis)
+# Source: papyri.info DDbDP bgu;3;861  (Trismegistos 27677)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.861
+label:    BGU 3.861
+name:     Extract from a Land-Inspection Register (Karanis)
+genre:    documents
+date:     Ende II
+language: Greek (Koine)
+found:    Karanis (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7490 Vo
+content:  A fragmentary late second-century extract from the public-records office at Karanis concerning an inspection, recording that Artemas son of Ptolemaios wished to lease (land) from the current (year).
+tm:       27677
+source:   https://papyri.info/ddbdp/bgu;3;861
+lat:      29.5186
+lon:      30.9036
+
+[GREEK]
+r.1   ἐκ βιβλιοθήκης [δημοσίων λόγων]
+r.2   ἐπισκέψεως μ[εθʼ ἕτερα·]
+r.3   Ἀρτεμᾶς Πτολεμ[αίου τοῦ Σωκράτους]
+r.4   μη(τρὸς) Σοήρεως [ἀπὸ κώμης Καρανίδος]
+r.5   ἐβουλήθη μισθ[ως ]
+r.6   ἀ̣π̣ὸ̣ τοῦ ἐνεστῶ[τος ]
+r.7   ̣ ̣ν ἐν μισθώσ[ει ]
+r.8   [ ̣] δι̣ὰ λογ[ ]
+r.9   [ ̣ ̣ ̣ ̣]απ ̣ ̣[ ]
+
+[TRANSLATION]
+1   From the record-office [of public accounts],
+2   of an inspection, w[ith other matters:]
+3   Artemas son of Ptolem[aios, grandson of Sokrates,]
+4   mo(ther) Soeris, [from the village of Karanis,]
+5   wished to leas[e ]
+6   from the curren[t (year) ]
+7   ...n in leas[e ]
+8   [.] through acc[ount ]
+9   [....]ap..[ ]

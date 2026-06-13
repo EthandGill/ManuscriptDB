@@ -1,0 +1,51 @@
+# ---------------------------------------------------------
+# P.Oxy 3.512 - Receipt - purchase of standing green fodder
+# Source: papyri.info DDbDP p.oxy;3;512  (Trismegistos 20643)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.512
+label:    P.Oxy 3.512
+name:     Receipt - purchase of standing green fodder
+genre:    receipts
+date:     8 Mar 173 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Chicago, Haskell Oriental Institute number unknown
+content:  Dorion buys from Apion the green crops he holds on lease in the Sampsouchinos district for 1720 dr.; 600 paid, the balance to go to the agents of Aurelius Antiochos’ heirs
+tm:       20643
+source:   https://papyri.info/ddbdp/p.oxy;3;512
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Δωρίων ἐξηγητεύσας καὶ ὡς χρη-
+r.2   ματίζω Ἀπίωνι τῷ καὶ Διονυσίῳ γυ-
+r.3   μνασιαρχή(σαντι) καὶ ὡς χρηματ(ίζεις) χαίρειν. ἠγό-
+r.4   ρασα παρὰ σοῦ ἃ ἔχεις ἐν μισθώσι χλωρὰ
+r.5   ἐντὸς περιχώματος Σαμψουχίνου λε-
+r.6   γομέν[ο]υ (δραχμῶν) Αψκ, ἐξ ὧν μετεβαλό-
+r.7   μην σοι (δραχμὰς) χ τὰς δὲ λοιπὰς (δραχμὰς) Αρκ μετα-
+r.8   βαλοῦμαι πραγματευταῖς κληρονόμων
+r.9   Αὐρηλίου Ἀντιόχου ἀκολούθως τῇ εἰς
+r.10   σὲ μισθώσι , καὶ τὴν τούτων ἀποχὴν
+r.11   ἀναδώσω σοι. (ἔτους) ιγ̣ Αὐρηλίου
+r.12   Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.13   Φαμενὼθ ιβ.
+
+[TRANSLATION]
+1   Dorion, former exegetes, and however
+2   I am styled, to Apion also called Dionysios, former gym-
+3   nasiarch and however you are styled, greeting. I have
+4   bought from you the green crops you hold on lease
+5   within the embankment-district called
+6   Sampsouchinos, for 1720 dr., of which I have trans-
+7   ferred to you 600 dr., and the remaining 1120 dr. I will trans-
+8   fer to the agents of the heirs
+9   of Aurelius Antiochos, in accordance with the
+10   lease made to you, and their receipt
+11   I will deliver to you. Year 13 of Aurelius
+12   Antoninus Caesar the lord,
+13   Phamenoth 12.

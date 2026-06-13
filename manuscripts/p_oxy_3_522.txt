@@ -1,0 +1,87 @@
+# ---------------------------------------------------------
+# P.Oxy 3.522 - Account of the apostoleus Triadelphos
+# Source: papyri.info DDbDP p.oxy;3;522  (Trismegistos 28362)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.522
+label:    P.Oxy 3.522
+name:     Account of the apostoleus Triadelphos
+genre:    documents
+date:     II
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    New Haven, Yale University, Beinecke Library P. CtYBR 50 qua
+content:  A shipping account recording wheat cargoes, transport freight, wages, and various expenses connected with grain consignments at Oxyrhynchus.
+tm:       28362
+source:   https://papyri.info/ddbdp/p.oxy;3;522
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   λόγος ἀποστόλου Τριαδέλφου
+r.2   (πυροῦ) (ἀρτάβαι) Γυ ἐκ (δραχμῶν) κα (δραχμαὶ) ψιβ.
+r.3   τῷ αὐ(τῷ) ὡς τ(ῶν) Α (ἀρταβῶν) (δραχμῶν) δ (δραχμαὶ) ιβ.
+r.4   φορέτρο(υ) (πυροῦ) (ἀρταβῶν) ροα βασταχθ(εισῶν) ἐξώσει ψυγμ(οῦ)
+r.5   ὡς τ(ῶν) ρ (δραχμῶν) δ (δραχμαὶ) ϛ.
+r.6   τιμ(ῆς) κερ(αμίου) πεμφθ(έντος) ὑπηρέτ(αις) καὶ στρ(ατιώτῃ) (δραχμαὶ) η(ὀβολὸς).
+r.7   πρεσβυ(τέροις) Ὤφε(ως) ὑπ(ὲρ) μισθ(οῦ) ἐργ(ατῶν) ια
+r.8   ἐμβολευόντ(ων) (δραχμαὶ) ϛ(διώβολον).
+r.9   Ἀφύγχ(ει) θησαυροφύ(λακι) ὑπ(ὲρ) ὀψω(νίων) τῶν
+r.10   ἀπὸ Τῦβι ἄλ(λαι) (δραχμαὶ) ιη.
+r.11   (γίνονται) ἀνηλ(ώματος) (δραχμαὶ) ψξβ(τριώβολον), ὧν τὸ 𐅵
+r.12   ἀποστόλ(ου) Ὡρίω(νος) Ἀμμω(νίου) (ἀρτάβαι) Αφ
+r.13   καὶ ἀποστόλ(ου) Παυσί(ριος) Ἀπολ(λωνίου) (ἀρτάβαι) φ, (γίνονται) (ἀρτάβαι) Β,
+r.14   ἐκ (δραχμῶν) κα (δραχμαὶ) υκ.
+r.15   ναυτικ(οῦ) Ὡρίωνος κυβε(ρνήτου) αἱ δοθ(εῖσαι) (δραχμαὶ) η.
+r.16   τιμ(ῆς) κερ(αμίου) πεμφθ(έντος) ὑπηρέτ(αις) καὶ στρ(ατιώτῃ) (δραχμαὶ) η(ὀβολὸς).
+r.17   τιμ(ῆς) ἄλ(λων) κερ(αμίων) β πεμφθ(έντων) ναύτ(αις) (δραχμαὶ) ιϛ (διώβολον).
+r.18   τιμ(ῆς(?)) λαχ(άνων) τοῖς αὐ(τοῖς) χω(ρὶς) ἄρτ(ων(?)) (τετρώβολον).
+r.19   πρεσβυ(τέροις) Ὤφεω(ς) ὑπ(ὲρ) μισθ(οῦ) ἐργ(ατῶν) ζ
+r.20   ἐμβολ(ευόντων) (δραχμαὶ) δ .
+r.21   ἐργ(άτῃ) α ὑπηρτ̣ουντ παρὰ τὸ 𐅵 (ἀρτάβης) καὶ ἀνα-
+r.22   βάλλοντ(ι) σεῖτ(ον) ἡμ(ερῶν) γ𐅵 (δραχμαὶ) ε.
+r.23   (γίνονται) ἀνηλ(ώματος) (δραχμαὶ) υξϛ, ὧν τὸ 𐅵
+r.24   (γίνεται) ἐπὶ τὸ αὐ(τὸ) ἀνηλ(ώματος) (δραχμαὶ) Ασκη(τριώβολον), ὧν τὸ 𐅵
+r.25   (δραχμαὶ) χιδ(διώβολον).
+r.26   Διοσκορᾶτ(ι) ὧν λόγ(ον) δωει ὀβ(ολοὶ) γ.
+r.27   τιμ(ῆς) κερ(αμίων) β ἀναλωθ(έντων) ἡμεῖν μόνοις
+r.28   ἀπὸ Φαμε(νὼθ) κζ ἕως Φαρμ(οῦθι) ιε (δραχμαὶ) ιϛ(διώβολον).
+r.29   λεπ(τ ) δαπ(άνης) σὺ(ν) τιμ(ῇ) ἐλαίου τῶν αὐ(τῶν)
+r.30   ἡμερῶ(ν) (δραχμαὶ) η(τετρώβολον).
+r.31   [ἀποστό]λ(ου) [ ̣ ̣ ̣]ω( ) [ ]
+
+[TRANSLATION]
+1   Account of the apostoleus (dispatcher) Triadelphos.
+2   3,400 artabas of wheat at 21 drachmas (each): 712 drachmas.
+3   To the same, as on the 1,000 (artabas) at 4 drachmas: 12 drachmas.
+4   For freight of 171 artabas of wheat carried out at the unloading of the dried-out (grain),
+5   as on the 100 at 4 drachmas: 6 drachmas.
+6   Price of a jar sent to the assistants and a soldier: 8 drachmas 1 obol.
+7   To the elders of Ophis for the wage of 11 workers
+8   loading the cargo: 6 drachmas 2 obols.
+9   To Aphynchis the granary-guard for the provisions of those
+10   from (the month) Tybi, another 18 drachmas.
+11   Total of expenditure: 762 drachmas 3 obols, of which the half...
+12   Of the consignment of Horion son of Ammonios: 1,500 artabas
+13   and of the consignment of Pausiris son of Apollonios: 500 artabas, total: 2,000 artabas,
+14   at 21 drachmas: 420 drachmas.
+15   For the sailors' (fee) of Horion the helmsman, the (sums) given: 8 drachmas.
+16   Price of a jar sent to the assistants and a soldier: 8 drachmas 1 obol.
+17   Price of 2 other jars sent to the sailors: 16 drachmas 2 obols.
+18   Price(?) of vegetables for the same men, apart from bread(?): 4 obols.
+19   To the elders of Ophis for the wage of 7 workers
+20   loading the cargo: 4 drachmas.
+21   To 1 worker assisting at the half-(artaba?) and
+22   loading up the grain, for 3½ days: 5 drachmas.
+23   Total of expenditure: 466 drachmas, of which the half...
+24   Grand total of expenditure altogether: 1,228 drachmas 3 obols, of which the half...
+25   614 drachmas 2 obols.
+26   To Dioskoras, of which he gives account: 3 obols.
+27   Price of 2 jars consumed by us alone
+28   from Phamenoth 27 until Pharmouthi 15: 16 drachmas 2 obols.
+29   Small(?) expenses together with the price of oil for the same
+30   days: 8 drachmas 4 obols.
+31   [Of the consignmen]t of [...]...

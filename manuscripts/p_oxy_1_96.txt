@@ -1,0 +1,79 @@
+# ---------------------------------------------------------
+# P.Oxy 1.96 - Tax Receipt for Sale of a Slave
+# Source: papyri.info DDbDP p.oxy;1;96  (Trismegistos 20755)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.96
+label:    P.Oxy 1.96
+name:     Tax Receipt for Sale of a Slave
+genre:    contracts
+date:     5. Nov. 180
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cambridge, University Library Add. Ms. 4041
+content:  A receipt for the sale-tax (enkyklion) of 52 drachmas on the slave Ploution, paid through the tax-overseer Diogenes at Oxyrhynchos in 180 CE.
+tm:       20755
+source:   https://papyri.info/ddbdp/p.oxy;1;96
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   ε ̣ ̣ ̣λα.
+r.2   Διογένης ὁ σὺν ἄλ(λοις(?)) ἐπιτη(ρητὴς)
+r.3   ἐνκυκλ[ίου] κα (ἔτους) Ἡρώδῃ
+r.4   καὶ μετόχ(οις) δημ(οσίοις) τραπ(εζίταις)
+r.5   χαίρειν. δέξασ[θ]ε
+r.6   παρὰ Χαιρημονί-
+r.7   δος Ἀπολλωνίου τοῦ
+r.8   Ἡρακλείδου μητ(ρὸς)
+r.9   Ἀμμωναρίου ἀπʼ Ὀ-
+r.10   ξυρύγ(χων) πόλ(εως) τέλ(ος) δούλ(ου)
+r.11   Πλουτίωνος, οὗ ἠ-
+r.12   γόρασεν παρὰ Ἀσ-
+r.13   κληπιάδου τοῦ κ(αὶ)
+r.14   Ἀπίωνος Ἀπίωνος
+r.15   τοῦ Ἀσκληπιάδου
+r.16   μητ(ρὸς) Ἀσκλεταρίου
+r.17   Θέωνος ἀπὸ τῆς α(ὐτῆς)
+r.18   πόλ(εως) διὰ τοῦ ἐν τῇ α(ὐτῇ)
+r.19   πόλει ἀγορανομείο(υ)
+r.20   τῷ ἐνεστ(ῶτι) μηνὶ Ἀθύρ,
+r.21   (δραχμὰς) νβ. (ἔτους) κα
+r.22   Μάρκου Αὐρηλίου
+r.23   Κομμόδου Ἀντωνίνου
+r.24   Καίσαρος τοῦ κυρίου,
+r.25   Ἀθὺρ θ. Διογένης
+r.26   ὁ σὺν ἄλ(λοις(?)) ἐπὶ τ(ῆς) ἐνκυκλ(ίου)
+r.27   δέξ[ασ]θε τὰς (δραχμὰς) νβ.
+
+[TRANSLATION]
+1   e [...] la.
+2   Diogenes, who with others is overseer
+3   of the sale-tax (enkyklion) for the 21st year, to Herodes
+4   and his colleagues, public bankers,
+5   greeting. Receive
+6   from Chairemoni-
+7   das son of Apollonios son of
+8   Herakleides, his mother being
+9   Ammonarion, from O-
+10   xyrhynchos city, the tax on the slave
+11   Ploution, whom he
+12   bought from As-
+13   klepiades also called
+14   Apion son of Apion
+15   son of Asklepiades,
+16   his mother being Askletarion
+17   daughter of Theon, from the same
+18   city, through the record-office in the same
+19   city, the agoranomeion,
+20   in the present month Hathyr,
+21   52 drachmas. Year 21
+22   of Marcus Aurelius
+23   Commodus Antoninus
+24   Caesar the lord,
+25   Hathyr 9. Diogenes,
+26   who with others is in charge of the sale-tax (enkyklion):
+27   receive the 52 drachmas.

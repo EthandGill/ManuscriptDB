@@ -1,0 +1,63 @@
+# ---------------------------------------------------------
+# P.Oxy 1.100 - Oath-declaration accompanying a sale of building-lots
+# Source: papyri.info DDbDP p.oxy;1;100  (Trismegistos 20759)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.100
+label:    P.Oxy 1.100
+name:     Oath-declaration accompanying a sale of building-lots
+genre:    contracts
+date:     8 Apr 133 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Edinburgh, University Library Ox. P. number unknown
+content:  Marcus Antonius Deios swears the Roman oath that he has sold four vacant building-lots in the Cretan/Jewish quarter to Adrastos and the minor Dionysios for 2200 drachmas, free of mortgage, with full warranty
+tm:       20759
+source:   https://papyri.info/ddbdp/p.oxy;1;100
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   τοῖς ἀγορανόμοις Μάρκος Ἀντώνιος Δεῖος καὶ ὡς χρηματίζω,
+r.2   στρατηγήσας Ἀλεξανδρείας, νεωκόρος τοῦ μεγάλου Σαράπιδος.
+r.3   ὀμνύω τὸν Ῥωμαίοις ἔθιμον ὅρκον πεπρακέναι Ἀδράστῳ Χ[αι-]
+r.4   ρήμονος τοῦ Ἀδράστου [Ν]ειλαναβατείῳ τῷ καὶ Ἀλθαιεῖ μητρ[ὸς]
+r.5   Φιλωτέρας τῆς Ὠριγένους ἀστῆς, καὶ Διονυσίῳ τῷ καὶ Παποντῶτι
+r.6   μητρὸς Τααρπαήσιος Πέρτακος ἀπʼ Ὀξυρύγχων πόλεως ἀφή-
+r.7   [λικι] τοῦ πατρὸς Ὥρ[ο]υ χρηματίζοντος μητρὸς Ταψόιτος
+r.8   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣ τοῖς] δυσὶ κο[ι]νῶς ἐξ ἴσου, ἀπὸ τῶν ὑπαρχόντων
+r.9   μ[ο]ι ἐπʼ ἀμφόδου Κρητικοῦ καὶ Ἰουδαι κῆς λοιπῶν ψειλῶν τό-
+r.10   πων βείκους τέσσαρας , ὧν ἡ τοποθεσία καὶ τὸ κατʼ ἄνεμον διὰ τῆς
+r.11   καταγραφῆς δεδήλωται· εἶναί τε ἐμοῦ καὶ μήτε ὑποκεῖσθαι
+r.12   μηδὲ ἑτέροις ἐξηλλοτριῶσθαι κατὰ μηδένα τρόπον, ἀπέχειν
+r.13   δέ με τὴν τειμὴν ἀργυρίου δραχμὰς δισχειλίας διακοσίας , καὶ
+r.14   βεβαιώσειν πάσῃ βεβαιώσει καὶ παρέξειν καθαροὺς ἀ[πὸ ἀ]πο-
+r.15   [γρ]αφῆς πάσης καὶ παντὸς οὑτινοσοῦν ἄλλου. (ἔτους) ιζ Αὐτ[οκράτορος]
+r.16   Καίσαρος Τραιανοῦ Ἁδριανοῦ Σεβαστοῦ, Φαρμοῦθι ιγ.
+r.17   (hand 2) Μάρκος Ἀντώνιος ὀμώμ[οκα]
+r.18   τὸν ὅρκον. v
+r.19   Φαρμ(οῦθι) ιγ, ἐ̣ώ̣ν̣(ηνται) Ἄδραστος καὶ ἄ[λ]λ̣ος π̣(αρὰ) Μάρκου.
+
+[TRANSLATION]
+1   To the agoranomoi, Marcus Antonius Deios - and however I am styled -
+2   former strategos of Alexandria, temple-warden of the great Sarapis.
+3   I swear the oath customary among the Romans that I have sold to Adrastos son of Chai-
+4   remon son of Adrastos, of the Neilanabateios (deme) also called Althaieus, his mother being
+5   Philotera daughter of Origenes, a citizen-woman; and to Dionysios also called Papontos,
+6   his mother being Taarpaesis, son of Pertas, from the city of Oxyrhynchus, a min-
+7   or, his father Horos being styled (guardian), his mother being Tapsois -
+8   [...to the] two jointly and in equal shares, out of the property
+9   belonging to me in the quarter of the Cretan and the Jewish (quarter): the remaining vacant
+10   lots, four vici(?), whose situation and orientation by the compass have been shown in the
+11   deed of cession; (I swear) that they are mine and are neither mortgaged
+12   nor alienated to others in any way, and that I have received
+13   the price, two thousand two hundred silver drachmas, and
+14   that I will warrant (them) with every guarantee and provide them free fr[om] any reg-
+15   istration whatsoever and from everything else of any kind. Year 17 of Imp[erator]
+16   Caesar Trajan Hadrian Augustus, Pharmouthi 13.
+17   I, Marcus Antonius, have sw[orn]
+18   the oath.
+19   Pharmouthi 13: Adrastos and the other (party) have purchased from Marcus.

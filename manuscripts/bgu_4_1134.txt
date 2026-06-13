@@ -1,0 +1,77 @@
+# ---------------------------------------------------------
+# BGU 4.1134 - Contract for Repayment of an Eranos-Loan in Installments
+# Source: papyri.info DDbDP bgu;4;1134  (Trismegistos 18578)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1134
+label:    BGU 4.1134
+name:     Contract for Repayment of an Eranos-Loan in Installments
+genre:    contracts
+date:     10. März 10 v.Chr.
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13051 Ro
+content:  Contract before Protarchos in which Tryphon, patron of associations, and three Persian debtors agree to repay an eranos-loan in monthly installments of 10 drachmas, with the first installment paid and a penalty clause for default.
+tm:       18578
+source:   https://papyri.info/ddbdp/bgu;4;1134
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   Πρωτάρχωι
+r.2   παρὰ Τρύφωνος τοῦ Πτολεμαίου προστάτου
+r.3   ἐράνων καὶ παρὰ Λυσιμάχου τοῦ Θεοδότ[ου καὶ]
+r.4   τῆς γυναικὸς Μαρίου τῆς Ἰσάκιος καὶ Τρύφων̣ο̣ς̣
+r.5   τοῦ Θεοδότου τῶν τριῶν Π̣ε̣ρ̣σ̣ῶ̣ν̣ μετὰ κυρί[ου]
+r.6   τῆς Μαρίου τ̣ο̣ῦ̣ ἀνδρός(?) . ὃ κ̣α̣τ̣αφέρο̣υ̣σ̣ι̣ν̣
+r.7   ὄνομα ἓν ἐράνου δεκαδράχμου ̣λ̣η̣ρ ̣ο̣υ̣,
+r.8   ὃ ἑκατὸν καὶ μ ἦν , οὗ ἡ ἀρχὴ ἀπὸ Φαμ(ενὼ)θ
+r.9   τοῦ κ (ἔτους) Καίσαρος, συγχ̣ωροῦσ̣ι̣ν προφ(έρεσθαι),
+r.10   ο̣ἱ̣ δ ̣ ̣ ̣ ̣ε̣ρυ̣α̣ι̣ δ̣ι̣ὰ̣ χ̣ειρὸ̣(ς) (δραχμὰς) ρμ κ̣α̣ὶ̣ π̣ρ̣ο̣[ ̣ ̣ ̣ ̣]
+r.11   ἐπὶ τοὺς λοιποὺς μῆνας ι̣γ̣ ἀπὸ [Φαρμο(ῦθι)]
+r.12   τοῦ αὐτοῦ (ἔτους) τὰς κατὰ μῆνα (δραχμὰς(?)) ι̣ [μηδέ(να)]
+r.13   μ̣ῆ̣ν̣(α) κο̣ι̣λο̣ποιο̣ύ̣μ̣ε̣ν̣ο̣ι̣ ἢ ἐ̣φ̣ʼ [ο]ὗ̣ ἐ̣ὰ̣ν̣ μ̣η̣[νὸς]
+r.14   μ̣ὴ̣ διορθώσω̣νται τὰς κατ̣[ὰ μῆνα (δραχμὰς) ι]
+r.15   [ἐκτῖσαι ἐντὸς το]ῦ̣ χ̣ρ̣ό̣ν̣ο̣υ̣ τ̣[ὸ ἐνοφειλη(θησόμενον)]
+r.16   [σὺν] ἡμιολίαι τοῦ δʼ ὑπερ[πεσόντο(ς) χρό(νου)]
+r.17   τ̣ό̣κ̣ο̣υ̣ς̣ (διδραχμῶν(?)) τῆς πράξεως γεινομέ[νης τῷ]
+r.18   Τρύφω̣(νι) ἔ̣κ̣ τ̣ε̣ α̣ὐ̣τ̣ῶ̣ν̣ ὄ̣ν̣των ἀλληλεγ̣γ̣ύ̣ων εἰς [ἔκ-]
+r.19   [τισιν] κ̣α̣ὶ̣ ἐ̣ξ̣ ἑ̣ν̣ὸ̣ς̣ κ̣α̣ὶ̣ ἐ̣ξ̣ ο̣ὗ̣ ἐ̣ὰ̣ν̣ α̣ὐ̣τ̣ῶ̣ν̣ α̣ἱ̣ρ̣ῆ̣τ̣α̣ι̣
+r.20   κ̣α̣θ̣ά̣π̣ε̣ρ̣ ἐ̣κ̣ δ̣ί̣κ̣η̣ς̣ ̣ ̣ ̣ ̣Fr
+r.21   Λυσίμαχ(ος) Θεοδότο(υ)
+r.22   Μάριον Ἰσάκιος
+r.23   καὶ Τρύφ(ων) Θεοδότου
+r.24   ἔρανο(ς) (δραχμῶν) ι
+r.25   ἀπὸ Φαμε(νὼθ) ιδ
+r.26   ἐπὶ λοιπ(οὺς) μῆ(νας) ι̣γ̣ ἀ̣π̣ὸ̣ Φ(α)ρ(μοῦθι).
+
+[TRANSLATION]
+1   To Protarchos,
+2   from Tryphon son of Ptolemaios, patron
+3   of associations (eranoi), and from Lysimachos son of Theodot[os and]
+4   his wife Marion daughter of Isakis and Tryphon
+5   son of Theodotos, the three Persians, with the guardi[an]
+6   of Marion, her husband(?). That which they pay down
+7   (is) one share of a ten-drachma association (eranos) ...lēr.ou,
+8   which was one hundred and 40, of which the beginning is from Pham(eno)th
+9   of the 20th (year) of Caesar, they agree to bring forward,
+10   and the ... through (their) hand 140 (drachmas) and pro[ ... ]
+11   for the remaining 13 months from [Pharmo(uthi)]
+12   of the same (year) the monthly 10 (drachmas?), n[o]
+13   month being left hollow (defaulted), or in whatever mon[th]
+14   they do not pay the monthly [10 (drachmas)],
+15   [to pay off, within th]e time, t[he amount that will be owed]
+16   [with] the half-as-much (penalty) of the time over[run]
+17   the interest at (two drachmas?), the exaction being made [for]
+18   Tryphon both from them themselves, being mutually-bound, for [re-]
+19   [payment] and from any one and from whichever of them he chooses,
+20   just as by judgment ....Fr
+21   Lysimachos son of Theodotos
+22   Marion daughter of Isakis
+23   and Tryphon son of Theodotos
+24   association (eranos), 10 (drachmas)
+25   from Phame(noth) 14
+26   for the remaining 13 months from Ph(a)r(mouthi).

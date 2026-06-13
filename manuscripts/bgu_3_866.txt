@@ -1,0 +1,43 @@
+# ---------------------------------------------------------
+# BGU 3.866 - Extracts from a register of katoikic land-allotments
+# Source: papyri.info DDbDP bgu;3;866  (Trismegistos 24891)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.866
+label:    BGU 3.866
+name:     Extracts from a register of katoikic land-allotments
+genre:    documents
+date:     2nd c. CE
+language: Greek (Koine)
+found:    Soknopaiou Nesos (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7491
+content:  Two extracts from the register of land-allotments (katalochismoi), of the 9th and 15th years, recording grain-bearing arouras held by Satyraina daughter of Papous near Soknopaiou Nesos
+tm:       24891
+source:   https://papyri.info/ddbdp/bgu;3;866
+lat:      29.5377
+lon:      30.6856
+
+[GREEK]
+r.1   γραφῆ]ς κα[τ]αλοχισμῶν θ [(ἔτους) ]
+r.2   [ ] ̣ κολ(λήματος) νθ Σα[τ]υρίαινα Πάπ[ου ]
+r.3   [ Σοκν]οπ(αίου) Νήσου παρὰ Ταμύσθα ̣[ ]
+r.4   [ Πηλο]ύσιον σιτικὰς ἀρούρας εἴκο[σι ]
+r.5   [ ]ως.
+r.6   γρα]φῆς καταλοχισμῶν ιε [(ἔτους) ]
+r.7   [ Σατυρία]ινα Πάπου τοῦ Σωτηρί[χου ]
+r.8   [ ] ̣νου παρὰ Θεωνίδος [ ]
+r.9   [ Πη]λούσιον σιτικὰς ἀρούρας [ ]
+
+[TRANSLATION]
+1   From the regist]er of land-allotments (katalochismoi), 9th [year ...]
+2   [...] sheet 59: Satyraina daughter of Pap[ous ...]
+3   [... of Sokn]opaiou Nesos, from Tamystha[... ]
+4   [...] twen[ty] grain-bearing arouras [...]
+5   [...]
+6   From the regist]er of land-allotments, 15th [year ...]
+7   [... Satyra]ina daughter of Papous son of Soteri[chos ...]
+8   [...]nos, from Theonis [...]
+9   [...] grain-bearing arouras [...]

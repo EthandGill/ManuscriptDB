@@ -960,6 +960,8 @@ const MANUSCRIPT_GENRES = [
     { id: 'receipts',       label: 'Receipts',               icon: '◇' },
     { id: 'contracts',      label: 'Contracts',              icon: '◇' },
     { id: 'letters',        label: 'Letters',                icon: '◇' },
+    { id: 'petitions',      label: 'Petitions',              icon: '◇' },
+    { id: 'documents',      label: 'Documents',              icon: '◇' },
 ];
 
 // Shorthand helpers for the manuscript data strings below.
@@ -1539,12 +1541,17 @@ const ORB_RED    = [[160, 0, 0], [200, 0, 0], [210, 0, 0], [220, 0, 0]];
 const ORB_GREEN  = [[20, 120, 40], [30, 158, 60], [40, 178, 70], [50, 190, 80]];
 const ORB_PURPLE = [[100, 40, 150], [130, 60, 185], [145, 70, 200], [155, 80, 215]];
 const ORB_ORANGE = [[180, 95, 20], [215, 120, 30], [230, 130, 35], [240, 140, 45]];
-const DOC_GENRES = new Set(['receipts', 'contracts', 'letters']);
-// Per-genre orb colour: receipts green, contracts purple, letters orange.
+const ORB_TEAL   = [[20, 120, 130], [30, 155, 168], [40, 175, 188], [50, 190, 205]];
+const ORB_SLATE  = [[90, 100, 120], [115, 128, 152], [130, 145, 170], [145, 160, 188]];
+const DOC_GENRES = new Set(['receipts', 'contracts', 'letters', 'petitions', 'documents']);
+// Per-genre orb colour: receipts green, contracts purple, letters orange,
+// petitions teal, documents slate-blue.
 const GENRE_PALETTES = {
     receipts:  ORB_GREEN,
     contracts: ORB_PURPLE,
     letters:   ORB_ORANGE,
+    petitions: ORB_TEAL,
+    documents: ORB_SLATE,
 };
 
 // Returns a CSS radial-gradient string whose alpha channels scale with `intensity`
@@ -1587,7 +1594,7 @@ function refreshLocationOrb(locKey) {
     if (allDoc) {
         const counts = {};
         activeList.forEach(m => { counts[m.genre] = (counts[m.genre] || 0) + 1; });
-        const dominant = ['receipts', 'contracts', 'letters']
+        const dominant = ['receipts', 'contracts', 'letters', 'petitions', 'documents']
             .reduce((a, b) => (counts[b] || 0) > (counts[a] || 0) ? b : a);
         palette = GENRE_PALETTES[dominant] || ORB_GREEN;
     }

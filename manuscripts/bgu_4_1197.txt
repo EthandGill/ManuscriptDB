@@ -1,0 +1,71 @@
+# ---------------------------------------------------------
+# BGU 4.1197 - Petition of Priests of Busiris for Unpaid Temple Syntaxis
+# Source: papyri.info DDbDP bgu;4;1197  (Trismegistos 18648)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1197
+label:    BGU 4.1197
+name:     Petition of Priests of Busiris for Unpaid Temple Syntaxis
+genre:    petitions
+date:     7 - 4 v.Chr.
+language: Greek (Koine)
+found:    Herakleopolite nome, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 9916 col. 1
+content:  Petition from the priests Stotoetis and Harpsenesis to Asklepiades urging payment of the annual syntaxis (150 artabas of wheat) owed to their temple of the great gods at Busiris, unpaid since the prefect's departure.
+tm:       18648
+source:   https://papyri.info/ddbdp/bgu;4;1197
+lat:      29.0772
+lon:      30.9342
+
+[GREEK]
+r.1   Ἀσκληπιάδῃ τῷ θεῶι καὶ κυρίωι
+r.2   παρὰ Στοτοήτιος τοῦ Νού̣χ̣εω̣ς̣ ἱερέως κα[ὶ προφή]του Ἁρψ̣ε̣ν̣[ή-]
+r.3   σιος καὶ Σαράπιος θεῶν μ[εγί]στων ἱγεροῦ τ[οῦ ὄν]τος ἐν κώ[μῃ]
+r.4   Βουσίρι τοῦ ὑπὲρ Μέμφιν Ἡρακλεοπολίτ[ου. ὑπόκε]ι̣ται τῶι
+r.5   προκιμένῳ ἱγερῷ σύνταξις ἐκ τῆς Ἁρπ̣ί̣σ̣ι̣ο̣ς̣ π̣[ρ]ο̣σ̣ό̣δου κ̣α̣θ̣ʼ ἐ-
+r.6   νιαυτὸν (πυροῦ ἀρτάβαι) ρν, καὶ ὑπὸ σοῦ ἀπεδόθησα̣ν̣ ἕως το̣ῦ̣ ιη (ἔτους)
+r.7   [Κα]ίσαιρος , ἐκδημήσαντος δὲ σοῦ εἰς τοὺ̣ς̣ ἐ̣κ̣[τὸ]ς̣ [τόπους]
+r.8   [οἱ σοὶ] π̣ρ̣ο̣σ̣[τ]άται ἕως τοῦ ν̣ῦ̣ν̣ ἀ̣[πὸ] τοῦ ἐννεακαιδεκ[άτου] (ἔτους)
+r.9   [Κα]ίσαρος οὐκ ἔδωκαν ἡμῖν. καὶ ο̣ἱ̣ μὲν ἀ̣π̣ὸ Λινῆ κ̣α̣ὶ̣ Κόμα
+r.10   κ̣ω̣μ̣ῶ̣ν [ἱ]γερῖς μὴ λαμβάνοντες τὰ ὑποκ̣ί̣μ̣ε̣ν̣α̣ αὐτοῖς
+r.11   ἐντ̣[ρ]έχοντες τῷ ἡγεμόνι Τυρρανίωι ἀ̣π̣εκομίσαντο,
+r.12   ἡμε̣ῖ̣ς̣ δὲ τὴν ἐπʼ ἀγαθῷ σου παρο̣υ̣σ̣ί̣αν πρὸς καλ̣[ὸ]ν̣ π̣ο̣ι̣-
+r.13   ο̣[ῦμ]εν, ἵνα μὲν τοῖς θεοῖς εὐχόμενοι δι̣ʼ ὅ̣λ̣ο̣υ̣ καὶ δ̣ι̣ὰ παν-
+r.14   [τὸς ̣]ε̣ρ̣ι̣ ̣ ̣ ̣ ̣ε̣ρ̣η̣ ̣ ἣν ἂν ἐπαφροδισίαν ̣ ̣ ̣ ̣ν
+r.15   [θεὸν κ]α̣ὶ̣ [κύριο]ν Κ[αίσ]αρα Αὐτοκράτορα καὶ τοὺς αὐ-
+r.16   [τοῦ υἱούς. δ]εόμενοι οὐ τῆς παρὰ σ̣ο̣ῦ̣ εὐσεβήας
+r.17   [μεταλαβεῖν ̣ ̣ ̣ ̣ ̣]ε̣ι̣του ἀξιοῦμεν ἐὰν φαίνηται
+r.18   [προστάξαι ἀποκατασταθῆ]ναι ἡμῖν τὴν ὀφιλομένην
+r.19   [σύνταξιν …] ̣ ̣τω̣ ̣ ̣ ̣ ̣, ὅ̣π̣ω̣ς̣ τὰς̣ θ̣υ̣σ̣ί̣α̣ς̣
+r.20   [δυνώμεθα ἐπιτελεῖν καὶ τὰ ἄ]λ̣λ̣α τ̣ο̣ῖς θ̣ε̣ο̣ῖ̣ς̣ νομιζόμε-
+r.21   [να ἀνεμποδίστως ποι]ῶ̣μ̣ε̣ν̣ ὑ[πέ]ρ̣ τε σοῦ καὶ τῶν
+r.22   [τέκνων, ἵνʼ ὦμεν εὐεργετη]μένοι.
+r.23   διευτύχι .
+
+[TRANSLATION]
+1   To Asklepiades the god and lord,
+2   from Stotoetis son of Noucheus, priest an[d prophe]t, and Harps[en]e-
+3   sis, of (the temple) of Sarapis, greatest gods, the temple [be]ing in the vil[lage]
+4   of Busiris, of (the nome) above Memphis, the Herakleopolit[e. There is assig]ned to the
+5   aforementioned temple a syntaxis from the Harpisis re[v]enue, ann-
+6   ually, 150 (artabas of wheat), and by you they were paid up to the 18th (year)
+7   of [Ca]esar; but when you departed abroad to the regions out[side],
+8   [your] managers, from the now (past) nineteenth (year)
+9   of [Ca]esar, up to the present, have not given (them) to us. And those from Line and Koma
+10   the priests of the (two) villages, not receiving the (sums) assigned
+11   to them, by appealing to the governor Tyrranios, recovered (them);
+12   but we make your auspicious presence into a fair (occasion),
+13   so that, praying to the gods throughout and contin-
+14   [ually ...]eri ... ...erē . whatever charm ....n
+15   [the god a]nd [lord] C[ae]sar the Emperor and h-
+16   [is sons. Be]ing in need not [to receive] of the piety from y[o]u
+17   [...]eitou we request, if it appears (good),
+18   [to order] that there be [restor]ed to us the owed
+19   [syntaxis ...] ..tō ...., so that the sacrifices
+20   [we may be able to perform and the oth]er things customary to the gods
+21   [we may do unhindered] on be[hal]f both of you and of your
+22   [children, that we may be] benefited.
+23   Farewell.

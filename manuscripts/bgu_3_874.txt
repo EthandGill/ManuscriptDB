@@ -1,0 +1,49 @@
+# ───────────────────────────────────────────────
+# BGU 3.874 — Letter — gold pieces from the deacon, grain from Phoibammon
+# Source: papyri.info DDbDP bgu;3;874  (Trismegistos 33246)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.874
+label:    BGU 3.874
+name:     Letter — gold pieces from the deacon, grain from Phoibammon
+genre:    letters
+date:     4th–7th century CE
+language: Greek (Koiné)
+found:    Arsinoite nome, Fayum, Egypt (?)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 2748
+content:  A Byzantine Christian letter: collect two gold pieces at Narmouthis, get grain from Phoibammon, greetings to the household
+tm:       33246
+source:   https://papyri.info/ddbdp/bgu;3;874
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ⳨ καὶ ἄλλοτε γεγράφηκα ὑμῖν ὥστε πέμψηται εἰς Ναρμοῦθιν καὶ δέξηται
+r.2   τὰ δύο χρύσινα παρὰ τοῦ διάκονος. εἰ δὲ τοῦτο ἐποίησας, γράψον μοι
+r.3   ἐνταῦθα. καταξιώσηται οὖν πέμψατε πρὸς Φοιβάμμωνα
+r.4   καὶ δέξηται παρʼ αὐτοῦ σῖτον καὶ μάθηται τί λαμβάνεται παρʼ αὐτοῦ.
+r.5   μετάδος δὲ τῷ κυρίῳ Ἠλίᾳ τῷ ἀδελφ(ῷ) ὡς μετέδοκα Πέτρῳ
+r.6   περὶ τοῦ πράγματος ὧν εἶπέν μοι καὶ μεταδέδωκέν μοι
+r.7   ἀνεπεγνώσκει τὰ ἀναλώματα τοῦ λιβελλίου . γράψον μοι καὶ
+r.8   ποιῶ. πολλὰ δὲ προσαγόρευσον τὴν κυρίαν τὴν ὑμῶν μητέραν
+r.9   καὶ Ἠλίαν καὶ Ῥωμᾶνον τοὺς ἀδελφοὺς καὶ πάντας τοὺς ἐν τῷ
+r.10   ἀφθόν<ῳ> ὑ̣μῶν οἴκῳ καὶ τὸν κύριον Εὐφράντιον καὶ τὰ γλυκύτατα
+r.11   αὐτοῦ παιδία. μὴ οὖν ὀληγωρήσατε , πιστεύομεν εἰς τὸν πάντων
+r.12   δεσπότην, ὅτι μετὰ τοῦ νέου ἄρχοντος ἐξερχόμεθα ἐνταῦθα.
+
+[TRANSLATION]
+1   ⳨ Also at another time I wrote to you to send to Narmouthis and receive
+2   the two gold pieces from the deacon. If you have done this, write me
+3   here. So please send to Phoibammon
+4   and receive grain from him, and learn what is received from him.
+5   And inform the lord Elias my brother, as I informed Petros,
+6   about the matter of which he spoke to me; and he has informed me —
+7   he has reviewed the expenses of the petition. Write me and
+8   I act. Greet warmly your lady mother
+9   and Elias and Romanos my brothers and all those in your
+10   bountiful house, and the lord Euphrantios and his sweetest
+11   children. Do not neglect it, then; we trust in the Master of
+12   all that with the new governor we are coming out there.

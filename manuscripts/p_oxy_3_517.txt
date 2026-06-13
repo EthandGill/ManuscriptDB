@@ -1,0 +1,65 @@
+# ---------------------------------------------------------
+# P.Oxy 3.517 - Granary receipt - 35 artabas of wheat transferred
+# Source: papyri.info DDbDP p.oxy;3;517  (Trismegistos 20648)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.517
+label:    P.Oxy 3.517
+name:     Granary receipt - 35 artabas of wheat transferred
+genre:    receipts
+date:     129-130 CE
+language: Greek (Koine)
+found:    Psobthis (Oxyrhynchite nome), Egypt
+held:     (see shelf)
+shelf:    Philadelphia, University of Pennsylvania Museum E 2800
+content:  Through the sitologos Theon of Singkepha and the lessees, 35 artabas of 14th-year wheat are credited from the cultivator Papontos’ deposit to Sarapion; Horos and Ptollas each subscribe
+tm:       20648
+source:   https://papyri.info/ddbdp/p.oxy;3;517
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Ψώβθ(εως(?)), διεστάλ(ησαν) τῷ ιδ (ἔτει)
+r.2   ἀπὸ Σενέπ(τα) (ἀρτάβαι) λ.
+r.3   μεμέτρη(νται) εἰς τὸ δημ(όσιον)
+r.4   (πυροῦ) γενήμ(ατος) ιδ (ἔτους) Ἁδριανοῦ
+r.5   Καίσαρος τοῦ κυρίου
+r.6   διὰ Θέωνος σιτολ(όγου) Σ̣ιγκ(εφᾶ)
+r.7   καὶ μισθωτ(ῶν) Ἡρακλείδ(ου)
+r.8   Ἀντίου Ὥρου καὶ Πτολ-
+r.9   λᾶτ[ο]ς Σαραπί[ω]νι
+r.10   Ἡρώδου ἀπὸ θέματ(ος)
+r.11   Παποντῶτ(ος) Δωροθ(έου)
+r.12   γεωργ(οῦ) (πυροῦ) (ἀρτάβαι) τριάκον-
+r.13   τα πέντε, (γίνονται) (πυροῦ) (ἀρτάβαι) λε.
+r.14   Ὧρος διὰ Στεφά(νου) γρ(αμματέως) σεση(μείωμαι)
+r.15   τὰς τοῦ (πυροῦ) (ἀρτάβας) τριάκον-
+r.16   τα πέντε, (γίνονται) (πυροῦ) (ἀρτάβαι) λε.
+r.17   Πτολλᾶς διὰ Διό̣μου
+r.18   γραμ(ματέως) σεσημείωμαι
+r.19   τὰς τοῦ (πυροῦ) (ἀρτάβας) τριάκοντα
+r.20   πέντε, (γίνονται) (πυροῦ) (ἀρτάβαι) λε.
+
+[TRANSLATION]
+1   (Village) of Psobthis: there were disbursed in the 14th year,
+2   from Senepta, 30 artabas.
+3   There have been measured into the public (granary),
+4   of wheat of the produce of the 14th year of Hadrian
+5   Caesar the lord,
+6   through Theon, sitologos of Singkepha,
+7   and the lessees Herakleides
+8   son of Antios, Horos, and Ptol-
+9   las - to Sarapion
+10   son of Herodes, from the deposit
+11   of Papontos son of Dorotheos,
+12   cultivator: thir-
+13   ty-five artabas of wheat, total 35 art. of wheat.
+14   I, Horos, through Stephanos the scribe, have signed
+15   for the thir-
+16   ty-five art. of wheat, total 35 art. of wheat.
+17   I, Ptollas, through Diomos
+18   the scribe, have signed
+19   for the thirty-
+20   five art. of wheat, total 35 art. of wheat.

@@ -1,0 +1,105 @@
+# ---------------------------------------------------------
+# BGU 3.837 - Sale of reeds - 42 bundles of male reed (Byzantine)
+# Source: papyri.info DDbDP bgu;3;837  (Trismegistos 41033)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.837
+label:    BGU 3.837
+name:     Sale of reeds - 42 bundles of male reed (Byzantine)
+genre:    contracts
+date:     29 May 609 CE
+language: Greek (Koine)
+found:    Arsinoe / Ptolemais Euergetis (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 2586
+content:  Three villagers acknowledge receiving payment in full from Menas the public weigher for 42 bundles of male reed, to be delivered the following Mecheir
+tm:       41033
+source:   https://papyri.info/ddbdp/bgu;3;837
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   [ ̣ ̣ ̣ καὶ τῆς δεσ]ποίνης
+r.2   [ἡμῶν τῆς ἁγ]ίας θεοτόκο(υ)
+r.3   [καὶ πάντων] τῶν ἁγίω(ν)
+r.4   βασιλεί[ας τοῦ] δεσπ(ότου)
+r.5   ἡμῶν Φλ(αουίου) [Φω]κᾶ τοῦ
+r.6   αἰων(ίου) Αὐγούστου [ἔτ]ους
+r.7   ζ Παῦνι δ τέλ(ει) ιβ ἰν(δικτίωνος)
+r.8   ἐν Ἀρ(σινόῃ).
+r.9   Αὐρήλιοι ἄπα Ὂλ υἱὸς
+r.10   Ποῦσι καὶ Ἀγαμμὼν
+r.11   υἱὸς Παμοῦν καὶ Οὐενά-
+r.12   φριος υἱὸς Ἀνοὺπ απὸ
+r.13   ἐποικίο(υ) ̣ι ̣ω̣λίο(υ)
+r.14   τοῦ Ἀρσινοίτου νομοῦ
+r.15   τῷ θαυμασιωτάτῳ
+r.16   Μηνᾷ δημοσίῳ ζυ-
+r.17   γ[ο]στάτῃ υἱῷ τοῦ μακαρίου
+r.18   Παύλου ἀπὸ τῆς Ἀρσινοι-
+r.19   τῶν πόλεως χ(αίρειν). ὁμολο-
+r.20   γοῦμεν ἐξ ἀλληλεγ-
+r.21   γύης ἐσχηκέναι ἡμᾶς
+r.22   παρὰ σο(ῦ) διὰ χειρὸς καὶ
+r.23   πεπληρῶσθαι τὴν
+r.24   τιμὴν καλάμων ἀρρε-
+r.25   νικῶν δεσμοδίων τεσσαρά-
+r.26   κοντα δύο, καλάμ(ων) δεσμ(άτια) μβ,
+r.27   ἐγὼ μὲν Ἀπαὸλ δεσμ(άτια)
+r.28   εἴκοσι τέσσαρα , ἐγὼ δὲ
+r.29   Ἀγαμμὼν δεσμήδια ἐν-
+r.30   νέα καὶ Οὐενάφριος τὰ
+r.31   ἄλλα ἐννέα δεσμήτια
+r.32   ἑκάστου δεσμητίου
+r.33   ἔχοντος ἀπὸ παλεστῶ(ν)
+r.34   ἐννέα , καὶ τὴν ἀπόδοσιν
+r.35   αὐτῶν ποιησόμεθά σοι
+r.36   [τῷ] Μεχεὶρ μηνὶ τῆς εἰσιού-
+r.37   [σης] τρεισκαιδεκάτη[ς]
+r.38   [ἰνδικτίονος] καὶ ἀπ[ ̣ ̣]
+r.39   [ ] κοιν(ῶς(?)) ὑπʼ ἄπα Ὂλ υἱο(ῦ) Ποῦσι (καὶ) Ἀγαμμ(ῶνος) υἱο(ῦ) Παμοῦν (καὶ) Οὐεναφρίο(υ) υἱοῦ Ἀνοὺπ καλ[αμ
+r.40   ε[ἰ]ς θαυμ(ασιώτατον) Μηνᾶν δημόσ(ιον) ζ[υγοστάτην ]
+
+[TRANSLATION]
+1   [… and of our la]dy
+2   [the h]oly Mother of God
+3   [and all] the saints,
+4   in the reign [of] our lord
+5   Fl(avius) [Pho]cas the
+6   eternal Augustus, [ye]ar
+7   7, Pauni 4, tax-period 12 of the ind(iction),
+8   in Ar(sinoe).
+9   The Aurelii: apa Ol son of
+10   Pousi, and Agammon
+11   son of Pamoun, and Ouena-
+12   phrios son of Anoup, from
+13   the hamlet of …iolios(?)
+14   of the Arsinoite nome,
+15   to the most admirable
+16   Menas, public weigh-
+17   er, son of the blessed
+18   Paul, from the city of the Arsinoi-
+19   tes, greeting. We acknowl-
+20   edge, by mutual surety-
+21   ship, that we have had
+22   from you, from hand to hand, and
+23   have been paid in full the
+24   price of male reeds,
+25   of bundles, forty-
+26   two, reed bundles 42,
+27   I apa Ol bundles
+28   twenty-four, and I
+29   Agammon bundles
+30   nine, and Ouenaphrios the
+31   other nine bundles,
+32   each bundle
+33   being, of palms,
+34   nine, and the delivery
+35   of them we will make to you
+36   [in] the month Mecheir of the coming
+37   thirteenth
+38   [indiction] and …
+39   […] jointly: by apa Ol son of Pousi (and) Agamm(on) son of Pamoun (and) Ouenaphrios son of Anoup, ree[ds]
+40   for the most admir(able) Menas, public w[eigher].

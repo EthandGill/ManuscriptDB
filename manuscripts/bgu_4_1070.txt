@@ -1,0 +1,53 @@
+# ---------------------------------------------------------
+# BGU 4.1070 - Petition - Aurelia Techosarion requests a guardian for her children
+# Source: papyri.info DDbDP bgu;4;1070  (Trismegistos 18511)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1070
+label:    BGU 4.1070
+name:     Petition - Aurelia Techosarion requests a guardian for her children
+genre:    petitions
+date:     Sept-Oct 218 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 10528
+content:  Aurelia Techosarion asks the priest-exegetes of Oxyrhynchus to appoint the children’s well-off paternal uncle Aurelius Achilles as guardian over their inheritance, so their rights are not lost
+tm:       18511
+source:   https://papyri.info/ddbdp/bgu;4;1070
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   [τῷ δεῖνι] ἱερεῖ ἐνάρχ(ῳ) ἐξηγ(ητῇ) βουλ(ευτῇ) τῆς Ὀξ(υρυγχιτῶν) πόλ(εως)
+r.2   [παρὰ Αὐρηλ(ίας) Τεχωσαρίου] τῆς καὶ Ἰ̣σ̣ι̣δ̣ώρας Παναρέτου τοῦ κ(αὶ) Θέωνος ἀπὸ τῆς α(ὐτῆς) πόλ(εως).
+r.3   [αἰτοῦμαι(?) ̣ ̣ ̣ ̣ τῷ ἰδίῳ] κινδύνῳ ἐπίτροπον τῶ[ν] ἀφηλίκων μου τέκνων
+r.4   [- ca.18 -] τῆς πατρικῆς αὐτῶν κληρονομίας Αὐρήλιον Ἀχιλλέα
+r.5   [Θέωνος - ca.11 -] ̣αλειτο[ ̣] τὸν πρὸς πατρὸς αὐτῶν θεῖον ὄντα εὔπορον
+r.6   [- ca.10 - παρόντα] καὶ εὐδοκοῦντα τῇ αἱρέσει τῆς ἐπιτροπῆς ἐπὶ τῷ αὐτὸν
+r.7   [- ca.17 -]η τῇ ἐμῇ δ[ι]ὰ τὸ ἀναγκαί[ω]ς κἀμὲ εἶναι ἐπακολουθή-
+r.8   [τριαν - ca.9 -βιβ]λείδιον πρὸς τὸ τὰ τούτων ἑξῆς ἀκόλουθα γενέσθαι καὶ
+r.9   [τὰ δίκαια αὐτῶν μὴ ἀ]πολέσθαι. (ἔτους) β Αὐτοκράτορος Καίσαρος Μάρκου Αὐρηλίου
+r.10   [Ἀντωνίνου Εὐσεβο]ῦς Εὐτυχοῦς Σεβαστοῦ Φαῶφι. Αὐρηλία Τεχωσάριον
+r.11   [ἡ και Ἰσιδώρα ἐπιδέδωκα] Αὐρήλιος Σερῆνος ἐπιγέγραμμαι αὐτῆς κύριος αἰτηθεὶς
+r.12   [καὶ ἔγρ(αψα) ὑπ(ὲρ) αὐτῆς] [μὴ] εἰδυίης γράμμα[τ]α. Αὐρήλιος Ἀχιλλεὺς Θέωνος εὐδοκῶ
+r.13   [ ] ̣ς ὑπηρέτης δ[ιὰ Α]ὐρηλ(ίου) Ὠριγένους υἱοῦ ἐπήνεγκα.
+r.14   [- ca.17 -] ὑπηρέτης ἐ[πή]νεγκα Ἁθὺρ γ.
+
+[TRANSLATION]
+1   [To So-and-so,] priest, prytanis in office, exeg(etes), council(lor) of the city of the Ox(yrhynchites),
+2   [from Aurel(ia) Techosarion] also called Isidora, daughter of Panaretos also called Theon, of the same city.
+3   [I request,] at my own risk, as guardian of my under-age children
+4   [over] their paternal inheritance, Aurelius Achilles
+5   [son of Theon ...], their paternal uncle, who is well-off,
+6   [... being present] and consenting to the choice of the guardianship, on condition that he
+7   [...] to mine, since I too must necessarily be a co-
+8   [overseer ...] this petition, so that what follows for them may come about and
+9   [their rights not be l]ost. Year 2 of Imperator Caesar Marcus Aurelius
+10   [Antoninus Piou]s Felix Augustus, Phaophi. I, Aurelia Techosarion
+11   [also called Isidora, have submitted it.] I, Aurelius Serenos, am registered as her guardian, having been asked,
+12   [and wrote on her behalf,] as she does [not] know letters. I, Aurelius Achilles son of Theon, consent.
+13   [...]…, assistant, through Aurelius Origenes (his) son, I delivered (it).
+14   [...], assistant, I delivered (it). Hathyr 3.

@@ -1,0 +1,79 @@
+# ---------------------------------------------------------
+# P.Oxy 1.131 - Petition - Susneus: a disputed paternal inheritance
+# Source: papyri.info DDbDP p.oxy;1;131  (Trismegistos 37142)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.131
+label:    P.Oxy 1.131
+name:     Petition - Susneus: a disputed paternal inheritance
+genre:    petitions
+date:     6th-7th century CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10063
+content:  Susneus of Patani petitions his lord over his father’s estate: his brother David got the mother’s property plus a half-aroura, but now demands a re-division of the whole inheritance
+tm:       37142
+source:   https://papyri.info/ddbdp/p.oxy;1;131
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   † τῷ ἐμῷ με(τὰ) θ(εὸν) ἀγαθ(ῷ) δεσπ[(ότῃ) δέη]σις (καὶ) ἱ κεσία̣ † παρʼ ἐμοῦ
+r.2   Σουσνεῦ ἐλεεινοῦ ὑ μετέρ[ου δ]ούλου ἀπὸ Πάτανι. διδάσκω
+r.3   τὸν ἐμὸν ἀγαθὸν δεσπ(ότην) τὸ κατ̣ʼ [ἐ]μ̣ὲ πρᾶγμ[α], τοῦτον ἔ̣χ̣οντα τὸν
+r.4   τρόπον. ἡνίκα ἔζη ὁ πατὴρ μου ἐκάλεσεν ἐμὲ καὶ τοὺς
+r.5   ἀδελφοὺς ἐμοῦ, λέγων ὅτ[ι] κ̣ρ̣ατή̣σῃ εἷς ἐξ ὑ μῶν τὴν
+r.6   οὐσίαν τῆς μητρὸς ὑμῶν Ἰ ω[ ̣ ̣]ρ̣αφη, καὶ οἱ ἄλλοι ἐκ τῆς οὐσίας μου
+r.7   τρέφονται· καὶ ἐπῆρεν Δαυεὶτ τὸν μικρότερόν μου
+r.8   ἀδελφόν, καὶ δέδωκεν εἰς τὴν κτῆσιν τῆς μητρός μου.
+r.9   καὶ μέλλων τελευτᾶν ὁ πατήρ μου ἐκέλευσεν δοθῆναι
+r.10   αὐτῷ τῷ Δαυεὶτ ἐκ τῆς αὑτοῦ [ο]ὐσίας ἡμιαρούριον, λέγων
+r.11   ὅτι ἀρκεῖ αὐτῷ τὸ ἡμιαρούριον διότι καὶ τὴν κτῆσιν τῆς
+r.12   μητρὸς αὐτοῦ ἔχει. καὶ ἰδοὺ τρία ἔτη σήμερον ἀπʼ ὅτε ἀπέθανεν,
+r.13   ἅμα δὲ ἀπέθανεν παρεγενάμην πρὸς Ἀβραάμιον τὸν
+r.14   μείζονα Κλαυδιανοῦ, καὶ παρήνεγκεν τοὺς μάρτυρας το[ὺ]ς
+r.15   εὑρεθέντας ἐπάνω τοῦ πατρός μου, τοῦτʼ ἔστιν, Ἰ ούλιον τὸν πρεσβ(ύτερον)
+r.16   καὶ Ἀπολλών, κα[ὶ] πρ[ὸ]ς τὴν φωνὴν τοῦ πατρός μου ἐποίησεν
+r.17   γενέσθαι· καὶ καθʼ ἐνιαυτ̣ὸ̣ν σπείρω τὴν οὐσίαν μου, καὶ
+r.18   Δαυεὶτ ὁ ἀδελφός μου σπείρει τὴν οὐσίαν τῆς μητρὸς μου καὶ
+r.19   τὸ ἡμιαρούριον αὐτοῦ. καὶ σήμερον Ἀβραάμιος ὁ πορδουλεσθεὶς
+r.20   παρὰ τοῦ αὐτ[ο]ῦ Δαυεὶτ ἐφύλαξέν με λέγων ὡς ἐὰν μὴ λάβῃ
+r.21   ὁ ἀδελφός μου τὴν οὐσίαν τῆς μητρὸς παρὰ μίαν καὶ τὸ ἡμιαρούριον
+r.22   ὃ δέδωκεν αὐτῷ ὁ πατήρ μου, καὶ πάλιν μερισθηναι εἰς ἐμὲ καὶ
+r.23   αὐτὸν ὅσα κατέλειψέν μοι ὁ πατήρ μου· δέδωκεν δὲ τῇ μητρί μου
+r.24   ὁ πατήρ μου ρι νο(μίσματα) ἵ να μερίσηται εἰς ἐμὲ καὶ τοὺ[ς] ἀδελφούς μου,
+r.25   καὶ ταῦτα δέδωκεν Ἐλισάβετ τῇ μειζοτέρᾳ μου ἀδελφῇ. καὶ παρακαλ(ῶ)
+r.26   τὸ[ν] ἐμὸν ἀγαθ[ὸ]ν δεσπ[ό(την)] παρασκευσάσαι πρὸς ὃ εἶπεν ὁ πατήρ μου
+r.27   φυλαχθῆναί μοι τὸ δίκαιον. †
+
+[TRANSLATION]
+1   † To my good lord, (next) after God, a petition (and) supplication † from me,
+2   Susneus, your pitiable slave, from Patani. I inform
+3   my good lord of the matter concerning me, which is in this
+4   way. While my father lived he called me and
+5   my brothers, saying that one of you shall hold
+6   the property of your mother Io[..]raphe, and the others are maintained from my property;
+7   and he raised up David my younger
+8   brother, and gave (him) into the holding of my mother.
+9   And as he was about to die, my father ordered that there be given
+10   to that David from his own [pr]operty a half-aroura, saying
+11   that the half-aroura suffices him, since he also has the holding of
+12   his mother. And behold, it is three years today since he died;
+13   and as soon as he died I went to Abraamios the
+14   headman of Klaudianos, and he brought forward the witnesses
+15   who had been present over my father — that is, Julius the elder
+16   and Apollon — and he caused it to be done according to the word of my father;
+17   and year by year I sow my property, and
+18   David my brother sows the property of my mother and
+19   his half-aroura. And today Abraamios, suborned
+20   by the same David, has warned me, saying that unless
+21   my brother takes the property of the mother — save one (aroura) — and the half-aroura
+22   which my father gave him, then again there be re-divided between me and
+23   him whatever my father left me; for my father gave to my mother
+24   110 sol(idi) to divide between me and m[y] brothers,
+25   and these she gave to Elisabet my elder sister. And I beg
+26   my good lord to make provision that, according to what my father said,
+27   the right be safeguarded for me. †

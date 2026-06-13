@@ -1,0 +1,67 @@
+# ---------------------------------------------------------
+# BGU 3.836 - Petition of the Transtigritani soldiers to the praeses Strategios
+# Source: papyri.info DDbDP bgu;3;836  (Trismegistos 9378)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.836
+label:    BGU 3.836
+name:     Petition of the Transtigritani soldiers to the praeses Strategios
+genre:    petitions
+date:     528 - 542
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 2754
+content:  A sixth-century petition from the officers (priores) of the unit of the devoted Transtigritani to the comes and governor of the Arkadian province, complaining that the inhabitants of the village of Kerke refused and drove off soldiers sent to collect the imperially decreed annona owing to them, and invoking the emperor Justinian in their appeal.
+tm:       9378
+source:   https://papyri.info/ddbdp/bgu;3;836
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   [ ] ̣ ̣ ̣[ ̣ ̣ ̣ ̣]ω̣ρῳ Π̣ετ̣τιρίῳ Στρατηγίῳ Ἀταρβίῳ Φ[ ̣ ̣ ̣ ̣]τ̣ῳ Φοιβάμμ[ωνι] Μηνᾷ τῷ λαμπρ(οτάτῳ(?)) κόμε(τι) κ̣(αὶ) ἄρχ̣οντι τῆς Ἀρκάδων ἐπαρχίας
+r.2   παρὰ τῶν πριόρων τῶν καθ[ωσιω]μένων Τρανστιγριτανῶν.
+r.3   [ ]εια ἐκ τ[ῆς] καταπεμφθείσης θείας δηληγατίονος ἑκάστης ἐπ[ιν]εμήσεως φανερὰς ἀννώνας
+r.4   καὶ κάπιτα ἐκταττόμενα [ε]ἰ[ς] Κερκὴ τὴν κώμην καὶ ὅτι πάμπολλα
+r.5   [ ] ̣ μὴ ποῆσ[αι] καὶ πρὸ ὀλίγων ἡμερῶν ἐξεπέμψαμεν στρατιώτας ἐκ το[ῦ ἡμε]τέρου ἀρ[ι]θ̣μοῦ εἰς τὴν
+r.6   α[ὐτ]ὴν κώμην ἐπὶ τῷ ἀπαιτῆσαι κατὰ [μ]έρος τῶν χρεωστουμένων ἡμῖν ἀννωνῶ[ν]
+r.7   [ ] καταστασιασάντων κατὰ τῶν ἀπελθοτων ἐκεῖσε στρατιωτῶν ἐξεδίωξ[αν αὐτ]οὺς μὴ βουλόμενοι αὐτῶν ἀπόκρισιν ποιῆσαι. νῦν οὖν
+r.8   ἐν μετανοίᾳ γεν[ό]μενοι οἱ ἀπὸ τῆς αὐτῆς κώμης
+r.9   [ ]οντες ἡμῖν καὶ αἰτοῦντες συγγνώμην δοθῆναι αὑτοῖς ὑπὲρ τοῦ τολμ[ηθέντο]ς παρʼ αὐτῶν,
+r.10   αἰτοῦντες καὶ στρατιώτας πάλιν ἐκ τοῦ ἡμετέρου ν̣ο̣υμέ̣[ρου(?) ἐλ]θεῖν εἰς τὸ παραγενέσθαι
+r.11   [ τὰς χρεωσ]τουμένας ἡμῖν ἀννώνας, διεμαρτύραντο δὲ ἡμᾶς ἐγγράφως δ[ιὰ τοῦ λογ]ιωτάτου
+r.12   ἐκδίκου τῆς Ἀρσινοϊ τῶν ἀποδυρόμενοι καὶ λέγοντες ὥς τινων διαφερόντων ασηφ
+r.13   [ ] κώμην [βου]κκελλαρίους ἐχόντω[ν] τοῦ ἐνδόξου οἴκου τοῦ πατρι[κίου Στρατ]ηγίου ἀναλώματα πικ[ρ]ὰ ἡμᾶς ἀπαιτοῦντες μηδεμίαν μετουσίαν ἔχοντες ἐν τῇ ἡμῶν κώμ[ῃ]
+r.14   [ ] ̣ου ἡμῶν κατέφαγον τὰ ἱ ππάρια α[ὐ]τῶν καὶ τοὺς ἄλλους δεκ[ ̣] ̣[ ̣ ̣ ̣ ̣ ̣]ανισαν καὶ προσκαλοῦμεν τὴν ὑ μετέραν ἐξουσίαν καὶ ἐνορκο[ῦ]μεν κατὰ τοῦ δεσπότου Χριστ̣οῦ
+r.15   [ ] τοῦ εὐσεβεστάτου καὶ καλλινίκου ἡμῶν δεσπότου Φλαουίου Ἰ ουστ[ινιανο]ῦ τοῦ αἰωνίου Αὐγούστου καὶ Αὐτοκράτορος, ὥστε κελεῦσαι τοὺς διοικητὰς
+r.16   τοῦ αὐτοῦ ἐνδόξου οἴκ[ου]
+r.17   [ βουκ]ελλαρίους μηδεμίαν ἔχοντες μετουσίαν, καθὼς προείπαμ[εν, ἐν τ]ῇ προλεχθείσῃ κώμῃ, ἵνα μὴ τῶν ἡμετέρων στρατιωτῶν
+r.18   ἀπερχομένων ἐν τῇ
+r.19   [ καθὼ(?)]ς εἴρηται τὰς ̣[ ̣ ̣ ̣ ̣ ἀνν]ώνας ἐναντίοσις γένηται παρὰ τ[ῶν αὐτ]ῶν βουκκελλαρίων καὶ ὡς εἰκὸς ἀμιξία γένηται [εἰ]ς τὸ μεταξὺ αὐτῶν καὶ ἀνέγκλητοι ἡμεῖ[ς]
+r.20   [ ]οσαι ἐν[…] ἐνδόξου οἴκου α ̣ ̣ ̣[ ̣ ̣] θεραπευς[ ̣ ̣ ̣ ̣ ̣] ̣ ̣ ̣ ̣ κατὰ τὸ δυνατὸν καὶ ὅτι ταῦτα γνώριμα κατέστη [ἐγράψα(?)]μεν τῇ ὑμετέρᾳ μεγαλοπρεπείᾳ
+r.21   [ ]ενου[…]ρ̣ημένης [ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ κατ]αγένηται ̣[ ̣ ̣ ̣ ̣ ̣ ̣ α]ὐτῆς τῆς δια ̣[ ] ̣ ̣ιασπα ̣ ̣ ̣[ ] ̣χομενης [ ̣ ̣ ̣ ̣ ̣] ̣[ ̣ ̣ ̣]
+
+[TRANSLATION]
+1   [ ] ...[....]oros Pettirios Strategios Atarbios Ph[....]tos Phoibamm[on] Menas, the most illustrious(?) comes and governor of the province of the Arkadians,
+2   from the priores of the devoted Transtigritani.
+3   [ ]eia, out of the divine delegatio (tax-assignment) sent down for each indiction, the assigned annonae
+4   and capita levied [u]p[on] Kerke the village, and that very many things
+5   [ ] . not to do, and a few days ago we sent out soldiers from o[ur] nu[m]ber (unit) to
+6   the s[am]e village in order to collect, part by part, of the annonae owed to us,
+7   [ ] when they (the villagers) rose in revolt against the soldiers who had gone there, they drove [the]m out, not wishing to give them an answer. Now therefore,
+8   having come to repentance, the people from the same village
+9   [ ]onting(?) us and asking that pardon be granted to them for what was dared by them,
+10   asking also that soldiers again from our nu[mber come] to (the place) to arrive
+11   [ the annonae] owed to us, but they protested against us in writing thr[ough the most lea]rned
+12   defensor (ekdikos) of Arsinoe, lamenting and saying that, certain persons being concerned, aseph
+13   [ ] the village, (these persons) having [bu]ccellarii of the glorious house of the patri[cian Strat]egios, demanding bitter exactions of us though having no share in our villa[ge,]
+14   [ ] of our ... they devoured their little horses and the other dek[.] .[.....]anisan, and we summon your authority and we adjure by the Lord Christ
+15   [ ] of our most pious and gloriously victorious lord Flavius J[ustinia]n the eternal Augustus and Emperor, that you order the administrators
+16   of the same glorious hou[se]
+17   [ buc]cellarii, having no share, as we said before, in the aforesaid village, so that, when our soldiers
+18   go away into the (village)
+19   [ a]s has been said, the [...annon]ae, no opposition arise from t[hose] buccellarii, and as is likely no conflict arise between them, and we be blameless,
+20   [ ]osai in[...] of the glorious house a...[..] therapeus[.....] .... as far as possible; and since these things became known [we wro]te(?) to your magnificence
+21   [ ]enou[...]remenes [........ that it] be brought down .[......] of the very dia.[ ] ..iaspa...[ ].chomenes [.....].[...]

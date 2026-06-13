@@ -1,0 +1,79 @@
+# ---------------------------------------------------------
+# BGU 4.1085 - Register of Court Proceedings
+# Source: papyri.info DDbDP bgu;4;1085  (Trismegistos 18517)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1085
+label:    BGU 4.1085
+name:     Register of Court Proceedings
+genre:    documents
+date:     nach 27. Sept. 170
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 11049 Ro
+content:  A register of judicial protocols (after 170 CE) recording statements by Donatos concerning the lawful claimants Syros and his sister to a tomb under Antoninus' grace, with further hearing minutes.
+tm:       18517
+source:   https://papyri.info/ddbdp/bgu;4;1085
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ναμένων (δραχμ ) Βσ, Δων[ᾶ]τος ε[ἶ]πεν· Σύρος
+r.2   καὶ ἡ ἀδελφὴ νόμ[ι]μ[οί ε]ἰσιν ο[ἱ] ἐντ[υ]νχά-
+r.3   νοντες καὶ οὐκ ὑπε̣ρ̣α̣ί̣ρει τὴ[ν] σ̣υ̣ν̣τεί-
+r.4   μησιν τῶν δύ[ο] τ[αλ]άντων. κατὰ τὴν
+r.5   χάριν τοῦ θεοῦ Αἰλ[ί]ου Ἀντων[ε]ίνου δύ-
+r.6   νονται ἔχειν τὸν τάφον. ἀξιούντων
+r.7   περιαιρεθῆναι αὐτὸν τῆς προκηρύ̣ξε-
+r.8   ω[ς], Δωνᾶτ[ο]ς ε[ἶπ]εν· κατὰ τὰ ὑπομνή-
+r.9   μ[α]τά μου π[ε]ρια[ιρεθ]ήσεται. (hand 2) …
+r.10   (hand 1) [ἔτο]υς πένπτου [Αὐρηλ]ίων Ἀντωνείνου
+r.11   [καὶ] Οὐήρου τῶ[ν κυρίω]ν Σεβαστῶν Παῦνι ιη
+r.12   [πρ]οσελθόντω[ν Πτολε]μαίου καὶ Διδυμαρίου
+r.13   [κα]ὶ Ἡρακλείδ[ου Διο]νυσίου μεθʼ ἕτερα.
+r.14   το πεντήκοντα λοιπ[ά ]
+r.15   ἔτους ια̣ [Αὐρ]ηλίου [Ἀντωνείνου]
+r.16   τοῦ κυρίο̣υ̣ [Σε]β̣α̣σ̣τ̣ο̣ῦ̣ [ ]
+r.17   προσελ[θ]ό̣ντος Αὐ̣[ρηλίου ]
+r.18   θ̣έντος περ ̣ ̣τι ̣[ ]
+r.19   καὶ εἰπ[ό]ντος πε̣[ρ]ι[ ]
+r.20   μετα[τε]θέντος [ ]
+r.21   κέναι τῷ ἡγεμ[όνι ]
+r.22   τος τὸ βιβ̣λ̣[ίδιον ἐφʼ ὑπογραφῆς οὕτως]
+r.23   ἐχούσης [ ἀρι-]
+r.24   θμῷ τριά [ ]
+r.25   ὃς τὰ προς[ ]
+r.26   ἐμῆς δι[ ]
+r.27   ἀν[ ]
+
+[TRANSLATION]
+1   ...ing 2200 drachmas, Donatos said: Syros
+2   and his sister are the lawful peti-
+3   tioners and it does not exceed the joint val-
+4   uation of the two talents. By the
+5   grace of the deified Aelius Antoninus they are
+6   able to have the tomb. When they asked
+7   that it be removed from the proclamation,
+8   Donatos said: according to my
+9   memoranda it shall be removed. (hand 2) ...
+10   (hand 1) In the fifth year of the Aurelii Antoninus
+11   [and] Verus the lords Augusti, Pauni 18,
+12   Ptolemaios and Didymarion having come forward
+13   and Herakleides son of Dionysios, after other matters.
+14   the fifty remaining [...]
+15   Year 11 of Aurelius [Antoninus]
+16   the lord Augustus [...]
+17   Aurelius [...] having come forward
+18   [...] having been placed ... [...]
+19   and having said concerning [...]
+20   having been transferred [...]
+21   ... to the governor [...]
+22   ...os the little book [on the subscription thus]
+23   having (it) [... in num-]
+24   ber three [...]
+25   who the [...]
+26   of my [...]
+27   up [...]

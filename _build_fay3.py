@@ -1,0 +1,363 @@
+#!/usr/bin/env python3
+"""Build P.Fay tranche 3: contracts 92/93/95 + nine shorter letters."""
+import json, re, sys
+sys.path.insert(0, '.')
+from _clean import clean
+
+def polish(line):
+    l = re.sub(r'\(perpendicular\)\s*', '', line)
+    l = re.sub(r'\d*,ms(up)?\b', '', l)
+    l = l.replace('⁦ vac. ? ⁩', ' ').replace('vac.', ' ')
+    return re.sub(r'\s+', ' ', l).strip()
+
+DATA = json.load(open('_sweep_p.fay_91-140.json', encoding='utf-8'))
+EUH = dict(found='Euhemeria (Arsinoite nome / Fayum), Egypt', lat=29.4333, lon=30.4)
+
+ITEMS = [
+ dict(key='p.fay;;92', nlines=34, slug='p_fay_92', genre='contracts',
+      name='Deed of sale — a mouse-colored she-donkey for 56 drachmas',
+      date='13 Sept 126 CE', found='Theadelphia (Arsinoite nome / Fayum), Egypt',
+      lat=29.4333, lon=30.5333,
+      content='Mystarion sells Satabous a first-teethed she-donkey, “this very one, not to be returned”, price paid hand-to-hand',
+      trans=[
+        "In the eleventh year of Imperator",
+        "Caesar Trajan Ha[dr]ian Augus[t]us,",
+        "month Sebas[tos,] Thoth 16, at Thea-",
+        "delphia in the Themist[e]s division of the",
+        "Arsinoite nome. Mystarion",
+        "son of Heron, aged about",
+        "forty years, a scar on the little finger",
+        "of his left hand, acknowledges to Satabous",
+        "son of Pekysis, aged about thirty, a scar",
+        "on the little finger of his left hand,",
+        "that he has sold [to hi]m a female donkey,",
+        "m[ouse-colored,] that has shed her first teeth — this",
+        "very one, not to be returned — [a]nd that",
+        "Mystarion has received from Satabous",
+        "the price agreed be-",
+        "tween them, fifty-",
+        "six drachmas of silver,",
+        "at once, from hand to hand out of the hou[se,]",
+        "and will guarantee with every guarantee.",
+        "(2nd hand) I, Mystharion son of Heron, ac-",
+        "knowledge that I have sold to",
+        "Satabous a female d[o]nkey",
+        "that has shed her fir[st teeth] — this very",
+        "one, not [to be re]turned — [and that I have re-]",
+        "cei[ved] the price, fifty-",
+        "six drach[m]as of silver,",
+        "and I will guaran[t]ee as",
+        "stated above. Herakleides son of Herakleid(es)",
+        "wrote for him, since he does [not]",
+        "know letters.",
+        "(1st hand?) Registered through the record-office at Th(eadelphia).",
+        "Sale by Myst(arion)",
+        "to Satabous",
+        "of [one] don[key].",
+      ]),
+ dict(key='p.fay;;93', nlines=23, slug='p_fay_93', genre='contracts',
+      name='Lease — a quarter share of the perfume-selling monopoly',
+      date='2 Sept 161 CE', found='Ptolemais Euergetis (Arsinoite nome / Fayum), Egypt',
+      lat=29.3084, lon=30.8428,
+      content='Sarapion leases from Kastor a fourth of his half share of the perfume and unguent business of the Themistes division, at 45 drachmas for the year',
+      trans=[
+        "To Kastor son of Antiphilos, of the Sosikosmian tribe",
+        "and Althaian deme,",
+        "from Sarapion son of Artemidoros",
+        "son of Ptolemaios, of the quarter",
+        "of the Other Goose-herds. I wish",
+        "to lease from you the busi-",
+        "ness of perfume-selling and unguent-making —",
+        "wishing (to take), of the half",
+        "share falling to you, a fourth part —",
+        "in the Themistes division, (2nd hand) apart from mar-",
+        "kets together with fairs,",
+        "for the current",
+        "2nd year only, at a rent for the whole of",
+        "forty-five sil-",
+        "ver drachmas, of which I will",
+        "make the payment",
+        "monthly, in equal portions,",
+        "if it please you to",
+        "lease it. (3rd hand) I, Kastor son of Antiphilos, have",
+        "leased as stated above.",
+        "Year (2) of Antoninus and Verus",
+        "the lords Augusti,",
+        "Thoth 5.",
+      ]),
+ dict(key='p.fay;;95', nlines=26, slug='p_fay_95', genre='contracts',
+      name='Lease application — an oil-mill at Dionysias, rent paid in oil',
+      date='2nd century CE', found='Theadelphia (Arsinoite nome / Fayum), Egypt',
+      lat=29.4333, lon=30.5333,
+      content='Apollonios applies to lease an oil-mill with axles, mortars, presses and kettle for four years, the rent payable in strained olive oil and radish oil',
+      trans=[
+        "To [A]chillis also called Sarapam[mon, through Sara-]",
+        "pion, manager […],",
+        "from Apollonios son of Apol[lonios son of So-]",
+        "terichos, of the quarter [of the Goose-]",
+        "herds. I wish to l[ease from]",
+        "<you>, for 4 years from the thirti[eth of the present]",
+        "month Mesore, of [your property]",
+        "in the village of Dionysias[ …, in]",
+        "the quarter of Harpochrateio[n, the oil-mill(?)]",
+        "fitted out with axl[es and two mortars and(?)]",
+        "two presses and a kettle a[nd …, with]",
+        "all the upper room[s] there; [and I will pay]",
+        "each year, in sum total, one metretes [of strained]",
+        "[olive oil,] six choes, a[nd of radish oil]",
+        "like[w]ise one metretes, [six choes, fur-]",
+        "nishing each year at the Ames[ysia festival] six kotylai",
+        "[of] r[a]dish [oil] and […]",
+        "twelve cho[e]s and …[…]",
+        "six kotylai of olive oil [a]nd …[… choes]",
+        "twelve; and I will pay the afore-",
+        "said [rent] in the month Ph[a]menot[h …:] of",
+        "strained [olive] oil one metrete[s, six choes, and in]",
+        "the month Pauni likewise [one] met[retes,]",
+        "six choes — everything by the measure …[…],",
+        "with a surcharge for each m[etretes] of two kotylai",
+        "of oil … receiv[ing(?) …]",
+      ]),
+ dict(key='p.fay;;125', nlines=15, slug='p_fay_125', genre='letters', **EUH,
+      name='Letter — Ptolemaios the high priest encourages Heron',
+      date='2nd century CE',
+      content='Do not neglect the allotted office; the writer will accept the expense, praying his friend rise to greater dignity',
+      trans=[
+        "Ptolemaios to Heron his dearest,",
+        "greeting.",
+        "You will do well, brother, not to ne-",
+        "glect the allotted office of the strate-",
+        "gia, but, as is your way, tak-",
+        "ing up what authority you have —",
+        "you can also have the assessment of the",
+        "Phil[o]pa[to]r district. And if it be need-",
+        "ful, […] I will accept the ex-",
+        "pense laid out; for I",
+        "pray that you come to greater dig-",
+        "nity [from the t]ime we enjoy these",
+        "gif[ts].",
+        "I pray [for your health,] dear[est].",
+        "[From Ptole]maios, high priest.",
+      ]),
+ dict(key='p.fay;;126', nlines=13, slug='p_fay_126', genre='letters',
+      name='Letter — Dioxenos to his father: the boundary-fixing presses',
+      date='2nd–3rd century CE', found='Philoteris (Arsinoite nome / Fayum), Egypt',
+      lat=29.42, lon=30.4,
+      content='Overheard news: someone has sent to the mother-in-law about the property since the bounds are to be fixed — come up quickly',
+      trans=[
+        "Dioxenos to Sarapion his fa-",
+        "ther, greeting. As I was walking about",
+        "with father I heard a friend of",
+        "my father’s talking about you — that",
+        "he has sent to your mother-in-law be-",
+        "cause of the property, since the bounds are about",
+        "to be fixed. So come up quickly, for",
+        "it presses. I greet Thermouthas and",
+        "Isidoros and his sister",
+        "Helene and Tepsois and her child —",
+        "may the evil eye not touch it — and all the house-",
+        "hold. Farewell. Pauni 30.",
+        "From Dioxenos; deliver ✗ to Sarapion.",
+      ]),
+ dict(key='p.fay;;127', nlines=17, slug='p_fay_127', genre='letters',
+      name='Letter — Taorsenuphis to her mother: bowls, grapes and lentils',
+      date='2nd–3rd century CE', found='Bakchias (Arsinoite nome / Fayum), Egypt',
+      lat=29.57, lon=30.97,
+      content='Obeisance before the lord Sarapis; give the sister her share of the vineyard fruit; three pairs of bowls distributed; send lentils',
+      trans=[
+        "Taorsenuphis to Ision her mother,",
+        "many greetings.",
+        "Before all I pray that you are in",
+        "health, and I make obeisance for you be-",
+        "fore the lord Sarapis. You will do",
+        "well to give the share falling to you",
+        "of the fruit of the vineyard",
+        "to your sister, with the",
+        "grapes. I sent you 3 [pai]rs of",
+        "bowls — for you 1, and for Petesouchos 1,",
+        "and for the in-laws of your sister",
+        "1, and a little cup for Theo-",
+        "nas the little one, and another for the daugh-",
+        "ter of your sister; and if you get",
+        "lentils, send me some by Katoi-",
+        "tos.",
+        "From Taorsenuphis, to (her) mother.",
+      ]),
+ dict(key='p.fay;;129', nlines=10, slug='p_fay_129', genre='letters', **EUH,
+      name='Letter — arranging a hand-over before Serenos',
+      date='3rd century CE',
+      content='Apollos has undertaken to come down on the eleventh and make the delivery — and asks that Serenos be present',
+      trans=[
+        "Greetings, my most honored lord.",
+        "I met with Apollos,",
+        "and he undertook by all means",
+        "to come down on the elev-",
+        "enth and to make the de-",
+        "livery. And he asks that it",
+        "take place in your presence.",
+        "So that you may know, I report",
+        "to you. I pray for the health of all your house.",
+        "Deli(ver) to Serenos.",
+      ]),
+ dict(key='p.fay;;130', nlines=23, slug='p_fay_130', genre='letters', **EUH,
+      name='Letter — Mysthes: the money is seen to, a jar of olives sent',
+      date='3rd century CE',
+      content='Daily obeisance before the gods here; the money is in hand as promised; write back the news of the city',
+      trans=[
+        "Mysthes to Serapammon h[is]",
+        "brother, very many greetings. Be-",
+        "fore all I pray that you are in",
+        "health, and I make obeisance for you each",
+        "day before the gods here.",
+        "I want you to know, [my] lord, that",
+        "I am seeing to the money by [all]",
+        "mea[ns,] as I undertook, [until I]",
+        "catch you up at the festi-",
+        "val — be without care for me,",
+        "since I am seeing to the mon-",
+        "ey. Write me back, you too, the",
+        "news of the city, and if you have",
+        "need of anything, write me back with-",
+        "out hesitation. Receive from the man who hands",
+        "you this letter a jar of olives.",
+        "I greet Ptolemaios your bro-",
+        "ther and Eu[n]ike your sister",
+        "and your father.",
+        "I pray for your health with all",
+        "your house, my lord.",
+        "Deliver …[… to Ser-]",
+        "apammon […]…, f(rom) Mysthes.",
+      ]),
+ dict(key='p.fay;;131', nlines=23, slug='p_fay_131', genre='letters', **EUH,
+      name='Letter — sell the barley, fill the reservoir, water Dekasios’ plot',
+      date='3rd–early 4th century CE',
+      content='Thirty-six artabas of barley to be sold at 14 drachmas; when the water comes down use all haste; the ox-teams must not stand idle',
+      trans=[
+        "…[…]…",
+        "…kraton(?): of barley,",
+        "thirty-six artabas —",
+        "and have them",
+        "sold at 14 dr.,",
+        "since he has had them a",
+        "long time and has not been will-",
+        "ing to do our",
+        "work. If the water",
+        "comes down, use all",
+        "haste until the",
+        "reservoir is filled;",
+        "but in any case,",
+        "the vegetable-plot of Dekasios",
+        "our friend — water it",
+        "without fail. If you have not",
+        "watered, let the ox-teams",
+        "not stand idle; let him pull(?)",
+        "…",
+        "…… and …",
+        "…[…]… I sent over",
+        "…[.] … I pray for your health.",
+        "To Sarapi✗on.",
+      ]),
+ dict(key='p.fay;;134', nlines=8, slug='p_fay_134', genre='letters', **EUH,
+      name='Letter — Eudaimon: bring the glass, and good Mareotic wine',
+      date='early 4th century CE',
+      content='Rouse yourself and come, bring the glass so we can settle the little account, and procure good Mareotic on the way',
+      trans=[
+        "Eudaimon to Longinus, greeting.",
+        "Be entreated, lord: rouse your-",
+        "self and come to us, bringing, if you",
+        "think fit, the glass, that we may",
+        "cut short the little account, if",
+        "…; and coming you will be a-",
+        "ble to draw off for me good Mareotic (wine)",
+        "at the (right) price. Farewell. —",
+      ]),
+ dict(key='p.fay;;135', nlines=17, slug='p_fay_135', genre='letters', **EUH,
+      name='Letter — Agathos to Naph: pay up, or I send soldiers',
+      date='4th century CE',
+      content='Half-joking dunning letter: pay in full “so that friendship may abide”, or soldiers will come and lock you up; vegetable-seed still owed from last year',
+      trans=[
+        "Agathos to Naph his father, gr(eeting).",
+        "Since the season of the har-",
+        "vest calls, …[……]",
+        "to yourself the deb[t(?)] …",
+        "to send off, lest I think fit",
+        "to send soldiers after",
+        "you and you be locked up until",
+        "you pay in full. Rather, make",
+        "haste to pay in full,",
+        "so that friendship may abide be-",
+        "tween us; and let our",
+        "brother pass word to Gerontios",
+        "about the monies you received and",
+        "gave to him. For you owe",
+        "also from last year one and a",
+        "half artabas of vegetable-seed.",
+        "I pray for your health.",
+      ]),
+ dict(key='p.fay;;136', nlines=15, slug='p_fay_136', genre='letters', **EUH,
+      name='Letter — a Christian summons home: “God helping”',
+      date='4th century CE',
+      content='Come back of yourselves before someone brings you in; better to be among your own than abroad',
+      trans=[
+        "…[……] know-",
+        "ing that you have me for whatever",
+        "you may suffer, God helping.",
+        "Wherefore, fearing no one,",
+        "rather come back",
+        "of yourselves, before someone",
+        "brings you in — and then there is no long-",
+        "er any thanks in you. It is better for",
+        "you to be among your own, wherever",
+        "that may chance to be, than abroad.",
+        "I pray for your",
+        "health for many",
+        "years …",
+        "Aki…[…]",
+        "…[…]",
+      ]),
+]
+
+HDR = """# ───────────────────────────────────────────────
+# {label} — {name}
+# Source: papyri.info DDbDP {key}  (Trismegistos {tm})
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       {label}
+label:    {label}
+name:     {name}
+genre:    {genre}
+date:     {date}
+language: Greek (Koiné)
+found:    {found}
+held:     (see shelf)
+shelf:    {shelf}
+content:  {content}
+tm:       {tm}
+source:   https://papyri.info/ddbdp/{key}
+lat:      {lat}
+lon:      {lon}
+
+[GREEK]
+"""
+
+for it in ITEMS:
+    r = DATA[it['key']]
+    gk = [polish(l) for l in clean(r['greek'])][:it['nlines']]
+    gk = [l for l in gk if l]
+    tr = it['trans']
+    assert len(gk) == len(tr), f"{it['key']}: greek {len(gk)} != trans {len(tr)}"
+    num = it['key'].split(';')[2]
+    label = f"P.Fay. {num}"
+    body = HDR.format(label=label, name=it['name'], key=it['key'], tm=r.get('tm', '?'),
+                      genre=it['genre'], date=it['date'], found=it['found'],
+                      shelf=r.get('shelf', '?'), content=it['content'],
+                      lat=it['lat'], lon=it['lon'])
+    body += "".join(f"r.{i}   {l}\n" for i, l in enumerate(gk, 1))
+    body += "\n[TRANSLATION]\n"
+    body += "".join(f"{i}   {l}\n" for i, l in enumerate(tr, 1))
+    with open(f"manuscripts/{it['slug']}.txt", 'w', encoding='utf-8') as f:
+        f.write(body)
+    print(f"built manuscripts/{it['slug']}.txt  ({len(gk)} lines)")
+print("ALL OK")

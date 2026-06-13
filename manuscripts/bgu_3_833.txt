@@ -1,0 +1,97 @@
+# ---------------------------------------------------------
+# BGU 3.833 - Census declaration - Melas of Memphis and his children
+# Source: papyri.info DDbDP bgu;3;833  (Trismegistos 20066)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.833
+label:    BGU 3.833
+name:     Census declaration - Melas of Memphis and his children
+genre:    documents
+date:     1 Oct 174 CE
+language: Greek (Koine)
+found:    Memphis, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7097
+content:  Melas, a tradeless man of Memphis, registers himself (aged 51) and his children by two different women in a lodging-house, with the owner standing surety for the poll-taxes, under oath
+tm:       20066
+source:   https://papyri.info/ddbdp/bgu;3;833
+lat:      29.8489
+lon:      31.2503
+
+[GREEK]
+r.1   Ἥρωνι βασιλικῷ γρα(μματεῖ)
+r.2   Μεμφείτου
+r.3   παρὰ Μέλανος Ἀρείου μητ(ρὸς)
+r.4   Καλεῖτος τῶν ἀπὸ Μέμφε-
+r.5   ως ἀργῶν ἀν[α]γρ(αφομένου) ἐπὶ τοῦ β
+r.6   ἀμφόδου. ἀπογρ(άφομαι) ἐμαυτ(όν)
+r.7   τε καὶ τοὺς ἐμοὺς, ἐνοίκ(ους),
+r.8   ἐν ἣν οἰκῶ ἐν Μέμφει
+r.9   ἐ[πὶ το]ῦ αὐτοῦ β ἀμφόδ(ου)
+r.10   [οἰκ]ίαν Ἰσιδώρου Ἀνου-
+r.11   βίωνος τοῦ καὶ Παγκράτ(ους)
+r.12   πρὸς τὴν τοῦ διεληλυ-
+r.13   θ[ό]τος ιδ (ἔτους) Αὐρηλίου
+r.14   Ἀντωνίνου Καίσαρος
+r.15   [το]ῦ κυρ[ί]ου κατʼ [ο]ἰκί[α(ν)]
+r.16   ἀπογραφήν,
+r.17   ἐμαυτὸν Μέλαν εἰς τὸ αὐ-
+r.18   τὸ ιδ (ἔτος) (ἐτῶν) να,
+r.19   κα[ὶ] τοὺς γενομένου[ς] ἐκ
+r.20   διαφόρων γυναι[κ]ῶν
+r.21   ἡοὺς [ἐ]κ μὲν Τεσαγ̣ρίτ[ος]
+r.22   Μεμφείτ[ι]δος Μέλα[ν]α
+r.23   (ἐτῶν) α
+r.24   ἐκ δὲ Ἑριέω[ς θυ]γατέρα Τνε-
+r.25   φρέμφι[ν] (ἐτῶν) ιϛ
+r.26   παρὼν δὲ ὁ προγεγρ(αμμένος(?)) σταθ(μοῦχος)
+r.27   [Ἰ]σίδωρ[ος] ἐνγυᾶται ἡμ[ᾶς]
+r.28   τῶ[ν] ἐπικεφαλίων
+r.29   κ[αὶ] ὀμνύω τὴν τοῦ κυρίου
+r.30   [Αὐ]ρηλίου Ἀντωνίνου Καίσαρος
+r.31   [τύ]χην ἀληθῆ εἶναι τὰ προκ(είμενα).
+r.32   (ἔτους) ιε Αὐτοκράτορος Καίσαρος
+r.33   Μάρκου Αὐρηλίου Ἀντωνίνου
+r.34   Σεβαστοῦ Ἀρμενιακοῦ Μηδικοῦ
+r.35   Παρθικοῦ Γερμανικοῦ Μεγίστου
+r.36   Φαῶφι δ.
+
+[TRANSLATION]
+1   To Heron, royal scribe
+2   of the Memphite (nome),
+3   from Melas son of Areios, his mother
+4   being Kaleis, of those from Memph-
+5   is without a trade, registered in the 2nd
+6   quarter. I register myself
+7   and my people, as lodgers,
+8   in (the house) I dwell in at Memphis
+9   in the same 2nd quarter,
+10   the house of Isidoros son of Anou-
+11   bion also called Pankrates,
+12   for the house-by-house
+13   census of the past 14th year of Aurelius
+14   Antoninus Caesar
+15   the lord —
+16   (this) registration:
+17   myself, Melas, for the sa-
+18   me 14th year, aged 51,
+19   and the (children) born of
+20   different women,
+21   (my) sons: from Tesagris,
+22   a Memphite woman, Melas,
+23   aged 1;
+24   and from Herieus a [dau]ghter, Tne-
+25   phremphis, aged 16.
+26   And the aforesaid house-owner, present,
+27   Isidoros, goes surety for us
+28   for the poll-taxes.
+29   And I swear by the
+30   Fortune of the lord Aurelius Antoninus Caesar
+31   that the foregoing is true.
+32   Year 15 of Imperator Caesar
+33   Marcus Aurelius Antoninus
+34   Augustus Armeniacus Medicus
+35   Parthicus Germanicus Greatest,
+36   Phaophi 4.

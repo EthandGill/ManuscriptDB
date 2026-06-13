@@ -1,0 +1,67 @@
+# ---------------------------------------------------------
+# P.Oxy 2.283 - Petition concerning assault and a runaway slave
+# Source: papyri.info DDbDP p.oxy;2;283  (Trismegistos 20554)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.283
+label:    P.Oxy 2.283
+name:     Petition concerning assault and a runaway slave
+genre:    petitions
+date:     8. Aug. 45
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Bristol, Museum H 3685
+content:  Sarapion petitions the strategos Tiberius Claudius, reporting an assault and beating inflicted on him, his sailing down to Alexandria, and his arrest of the slave Euporos, whom he asks to keep in custody and send to the prefect.
+tm:       20554
+source:   https://papyri.info/ddbdp/p.oxy;2;283
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Τιβερίωι Κλ[αυδίωι] Πα[σί(?)]ων[ι(?) στρα(τηγῷ)]
+r.2   παρὰ [Σ]αραπ[ίωνος τῷ ̣ ἔτει]
+r.3   Τιβερ[ίου] Κλαυ[δίου Καίσ]αρος Σεβασ[τοῦ Γερμανικοῦ]
+r.4   Αὐτοκράτορος […]υ̣ ν̣εωτέρ[ου ̣ ̣ ̣] ̣ ̣ω̣ραθ̣ ̣ ̣ ̣ ̣
+r.5   [ ̣ ̣]ο̣ς[…]α̣ν̣[ ̣]χ̣ ̣[ ̣ ̣ ̣ ̣ ̣]τος δ̣ ̣ ̣ ̣ ̣[ ̣ ̣ ̣]
+r.6   τε ἐ̣μοὶ π̣ε̣μ[…]τ̣α ̣[ ̣ ̣] δ̣ύ̣ο̣ ̣ ̣ ̣ ̣
+r.7   ἀργυρίου ταλ[ά]ντων τ̣ρ̣ις̣ ̣ ̣ ̣ ̣[ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ̣ ̣ μοι̣ β̣λ̣άβ̣η̣ παρηκο-
+r.8   λ[ούθ]ηκεν, πρὸς δὲ τὴν γεγονοι[ῖαν] [ μοι ἐ]πί̣[θε]σ̣ι̣ν̣ καὶ ̣[ ̣ ̣] ̣ παρῆ̣[ν].
+r.9   καταπλέων νυν εἰς Ἀλεξάνδρε[ι]αν, ὅπου ἐστὶν ὁ Ἄρειο̣ς̣ καὶ ὁ
+r.10   Εὔπορος καὶ ὁ τοῦ Ἀπίωνος [ἀ]δελφὸς καὶ ἐπίτροπο[ς Κα]λλιδάμα(ς)
+r.11   καὶ γενόμενος ἐν τῇ Μέμφει τῇ ιε Ἰουλίᾳ [Σ]εβαστῇ τοῦ ἐνεστῶ-
+r.12   τος μηνὸς Καισαρείου συνέλαβον τὸν σημαινόμενον δοῦλον
+r.13   Εὔπορον ἐξ οὗ δεήσει γνωσθῆναι πᾶσαν τὴν περὶ τῶν προ-
+r.14   γεγραμμένων ἀλήθειαν, ὃν καὶ ἀγείοχα ἐπὶ σὲ μεθʼ ἱκανῆς
+r.15   τῆς γεγονοιίας μοι ἐπιθέσεως καὶ πληγῶν ἐπιφορᾶς ὑπʼ αὐτοῦ τε
+r.16   καὶ τῶν σὺν αὐτῷ περιχυθέντων. διὸ προῆγμαι τὸ ὑπόμνημα ἐπιδοῦ-
+r.17   ναι, καὶ ἀξιῶι ἐὰν φαίνηται ἐν ἀσφαλείᾳ ἔχειν τὸν αὐτὸν δοῦλον καὶ ἐκπέμ-
+r.18   ψαι ἐπὶ τὸν κύριον ἡγεμόνα Ἰούλιον [Πόσ]τομον πρὸς τὴν ἐπʼ αὐτοῦ
+r.19   ἐσομένην ὑπʼ ἐμοῦ περὶ ὅλου τοῦ πράγματος προσέλευσιν ὃν προσήκει
+r.20   τρόπον. (ἔτους) ε Τιβερίου Κλαυδίου Καίσαρος [Σ]εβαστοῦ Γερμανικοῦ Αὐτοκράτορος,
+r.21   μη(νος) Κ[αισαρ]είου ιε Ἰουλίᾳ Σεβασ[τ]ῆι.
+
+[TRANSLATION]
+1   To Tiberius Cl[audius] Pa[si?]on[?, stra(tegos)],
+2   from [S]arap[ion in the .. year]
+3   of Tiber[ius] Clau[dius Caes]ar Augus[tus Germanicus]
+4   Imperator [...]u the young[er ...]..wrath....
+5   [..]os[...]an[.]ch.[.....]tos d.....[...]
+6   and to me ..pem[...]ta.[..] two ....
+7   of silver tal[e]nts thr̲ee....[.......].. damage has be-
+8   fallen me, and at the [a]ss[au]l̲t̲ [which had been made on me] and .[..]. he was present.
+9   Now sailing down to Alexandri[a], where Areios is, and
+10   Euporos, and the [b]rother and steward of Apion, [Ka]llidama(s),
+11   and finding myself in Memphis on the 15th, Iulia [S]ebaste, of the present
+12   month Kaisareios, I arrested the indicated slave
+13   Euporos, from whom it will be necessary that all the truth about the
+14   afore-written matters be learned, whom also I have brought before you, after the sufficient
+15   assault which had been made on me and the infliction of blows by him
+16   and by those who gathered round him. Wherefore I have been led to submit the memorandum,
+17   and I ask, if it seems good, to keep the same slave in custody and to send him
+18   to the lord prefect Iulius [Pos]tumus for the approach which will be made
+19   before him by me about the whole matter, in the manner
+20   which is fitting. (Year) 5 of Tiberius Claudius Caesar [A]ugustus Germanicus Imperator,
+21   in the mon(th) K[aisar]eios, the 15th, Iulia Sebas[t]e.

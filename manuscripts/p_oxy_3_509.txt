@@ -1,0 +1,65 @@
+# ---------------------------------------------------------
+# P.Oxy 3.509 - Letter cancelling an agent’s debt-collection commission
+# Source: papyri.info DDbDP p.oxy;3;509  (Trismegistos 28358)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.509
+label:    P.Oxy 3.509
+name:     Letter cancelling an agent’s debt-collection commission
+genre:    contracts
+date:     late 2nd c. CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Oxford, Sackler Library, Papyrology Rooms P. Oxy. 509
+content:  Having already been paid via autograph receipts, the writer declares that the public power-of-attorney appointing his agent to collect the half-share of a debt from Memmius Kornouthos at Alexandria stands only so the formal quittance can be issued and the mortgage released
+tm:       28358
+source:   https://papyri.info/ddbdp/p.oxy;3;509
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   τίς τινι χαίρει[ν]. τῇ ἐνεστώσῃ ἡμέ-
+r.2   ρᾳ συνέστησά σε [κατ]ὰ δημόσιον χρημα-
+r.3   τισμὸν διὰ τοῦ [ἐ]ν[θ]άδε ἀρχείου ἀπαι-
+r.4   τήσοντα Γάι ον Μέμμειον Κ̣[ο]ρνοῦ-
+r.5   θον τὸν καὶ Πολυδεύκην ὄντα ἐν Ἀλεξαν-
+r.6   δρείᾳ τὸ κατʼ ἐμὲ ἥμισυ μέρος τῶν ὀφει-
+r.7   λομένων ὑπʼ αὐτοῦ τῷ κληρονομησαν-
+r.8   τι ὑπὸ τοῦ αὐτοῦ πατρός μου ἀδελφι-
+r.9   δῷ [α]ὐτοῦ Ἡρακλείδῃ τῷ καὶ Ἀμοιτᾷ,
+r.10   τυγ̣[χά]νω δὲ πεπληροφορημένος
+r.11   τοῖς ὀφειλομένοις μοι. ὁμολο[γῶ]
+r.12   τον συστατικὸν πεπυῆσθαί σ[ο]ι
+r.13   πρὸς τὸ μόνον τὴν ἀποχὴ[ν]
+r.14   ἐκδοθῆναι ὑπὸ σο[ῦ τ]οῖς δημοσίο(ις)
+r.15   μηδὲν λαμβάνοντ̣(ος) καὶ ἀπολῦ-
+r.16   σαι τὴν ὑποθήκην, διὰ τὸ ἐμὲ
+r.17   ὡς πρόκειται ἤδη ἀπεσχη-
+r.18   κέναι καθʼ ἃ ἐξεδόμην ἰδιό-
+r.19   γραφα γρ[άμμ]ατα, καὶ μηδὲν
+r.20   ἐνκαλεῖν πε[ρὶ μη]δενὸς ἁπλῶς.
+
+[TRANSLATION]
+1   So-and-so to so-and-so, greeting. On the present
+2   day I appointed you, by a public
+3   instrument through the record-office here, to de-
+4   mand from Gaius Memmius Kornou-
+5   thos also called Polydeukes, who is in Alexan-
+6   dria, the half-share belonging to me of the (sums)
+7   owed by him to the heir
+8   of my same father, his neph-
+9   ew Herakleides also called Amoitas;
+10   but I happen to have been fully satisfied
+11   as to what is owed to me. I acknowled[ge]
+12   that the letter of appointment was made for you
+13   only so that the receipt
+14   might be issued by you to the public (officials),
+15   you taking nothing, and so as to re-
+16   lease the mortgage, since I,
+17   as set out above, have already re-
+18   ceived (payment) according to the autograph
+19   documents I issued, and (I acknowledge) that I make no
+20   claim about anything at all.

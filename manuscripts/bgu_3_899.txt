@@ -1,0 +1,59 @@
+# ---------------------------------------------------------
+# BGU 3.899 - Receipt for a donkey returned to a peace-officer
+# Source: papyri.info DDbDP bgu;3;899  (Trismegistos 33247)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.899
+label:    BGU 3.899
+name:     Receipt for a donkey returned to a peace-officer
+genre:    receipts
+date:     4th century CE (?)
+language: Greek (Koine)
+found:    Philadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8640
+content:  Flavius Souchtas, a soldier of the Fifth Macedonian legion at Memphis, acknowledges receiving back his donkey from Atrius the village peace-officer of Philadelphia, with no further claim
+tm:       33247
+source:   https://papyri.info/ddbdp/bgu;3;899
+lat:      29.4544
+lon:      31.0539
+
+[GREEK]
+r.1   Φλ(άουϊος) Σ̣ο̣υ̣χ̣χτὰς στρατιώτης λεγιό-
+r.2   νω[ς] πέμπτης Μακαιδωνικῆς
+r.3   τῶν ἐν Μέμφι διακιμένων
+r.4   ὑπ[ὸ] ̣υμο̣ν̣ τριβ̣ο̣ῦ̣ν̣ο(ν) Ἀτρίῳ υἱῷ Ἀπίο-
+r.5   νω̣[ς] εἰρινάρχῃ κώμι<ς> Φιλαδελφία(ς)
+r.6   το[ῦ] Ἀρσινωείτου νωμοῦ χ(αίρειν).
+r.7   ὁμωλογῶ ἐδεξάμιν παρ εσοῦ
+r.8   των ὑμέτερων ὄνων καὶ οὐ-
+r.9   [δ]έ̣ν̣α λώγων ἔχω πρὼς σὲ
+r.10   οὐδὲ ἐγὼ οὐδὲ οἱ προφασι-
+r.11   ξώμενοι αἰ̣των ὅς̣ ἐ̣σ̣τιν Ἀγα-
+r.12   θωκλῆς καὶ ἐξεδώμιν συ τὴν
+r.13   δεξηάν μου πρὼς ἀσφάλιαν .
+r.14   (hand 2) Φλ(άουϊος) Σουχιδὰς ὁ προ-
+r.15   κίμενος σ[τ]υχῆ μοι
+r.16   ὡ[ς] πρόκιτε κὲ οἱ <προφασιζόμενοι>
+r.17   ὑπογράψας̣ .
+
+[TRANSLATION]
+1   Fl(avius) Souchtas(?), soldier of the le-
+2   gion, the fifth Macedonian,
+3   of those stationed at Memphis
+4   under the tribune ..., to Atrius son of Apio-
+5   n, peace-officer of the village of Philadelphia
+6   of the Arsinoite nome, greeting.
+7   I acknowledge that I have received from you
+8   your donkey, and
+9   I have no claim against you,
+10   neither I nor those who might raise
+11   a pretext on its behalf, that is, Aga-
+12   thokles; and I have given you my
+13   pledge for security.
+14   I, Fl(avius) Souchidas, the afore-
+15   said: it is agreeable to me
+16   as aforesaid, and those who might raise a pretext;
+17   having subscribed.

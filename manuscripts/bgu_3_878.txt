@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# BGU 3.878 — Penthemeros receipt — under the joint reign
+# Source: papyri.info DDbDP bgu;3;878  (Trismegistos 9392)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.878
+label:    BGU 3.878
+name:     Penthemeros receipt — under the joint reign
+genre:    receipts
+date:     11 Sept 162 CE
+language: Greek (Koiné)
+found:    Soknopaiou Nesos (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7286
+content:  Stotoetis son of Apynchis has worked the ordered five-day embankment stint in the first year of Marcus Aurelius and Lucius Verus
+tm:       9392
+source:   https://papyri.info/ddbdp/bgu;3;878
+lat:      29.5377
+lon:      30.6856
+
+[GREEK]
+r.1   ἔτους γ Αὐτοκράτορος Καίσαρος
+r.2   Μάρκου Αὐρηλίου Ἀντωνίνου
+r.3   Σεβαστοῦ καὶ Αὐτοκράτορος Καίσαρος
+r.4   Λουκίου Αὐρηλίου Οὐήρ[ο]υ Σεβαστοῦ.
+r.5   εἴργ(ασται) ὑπ(ὲρ) χωμ(ατικῶν) τοῦ διελ(ηλυθότος) β (ἔτους) Θῶθ ι ἕως
+r.6   ιδ τὴν κελ(ευσθεῖσαν(?)) ε ἡ(μερῶν(?)) πενθ(ημερίον) ἐν διώ̣(ρυγι) φυρης φρω̣( )
+r.7   Σοκνοπ(αίου) Νήσου Στοτοῆ(τις) Ἀπύγχ(εως)
+r.8   το(ῦ) Στοτοή(τιος) (μητρὸς) Τεκιάσιος.
+
+[TRANSLATION]
+1   Year 3 of Imperator Caesar
+2   Marcus Aurelius Antoninus
+3   Augustus and Imperator Caesar
+4   Lucius Aurelius Ver[u]s Augustus.
+5   Has worked for the embankment(-dues) of the past 2nd (year), Thoth 10 to
+6   14, the ordered 5 day(s’) five-day stint, in the … canal,
+7   of Soknopaiou Nesos: Stotoe(tis) son of Apynch(is)
+8   son of Stotoe(tis), (mother) Tekiasis.

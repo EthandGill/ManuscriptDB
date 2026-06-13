@@ -1,0 +1,39 @@
+# ───────────────────────────────────────────────
+# P.Fay. 128 — Letter — Midas to Akous: the Pontic man and the house
+# Source: papyri.info DDbDP p.fay;;128  (Trismegistos 31420)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Fay. 128
+label:    P.Fay. 128
+name:     Letter — Midas to Akous: the Pontic man and the house
+genre:    letters
+date:     first half of 3rd century CE (?)
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10806 Ro
+content:  Go to the estimable Posidonios and tell him the Pontic man has not turned to buying the house from us; we approached him and he gave us a token to Pontikos
+tm:       31420
+source:   https://papyri.info/ddbdp/p.fay;;128
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   Μίδας Ἀκοῦτι τῷ [ ̣ ̣ ̣] χαίρειν.
+r.2   γενοῦ πρὸς τὸν ἀξιολογώτατον Ποσι-
+r.3   δώνιον καὶ εἶπον αὐτῷ ὅτι οὐκ ἐ-
+r.4   πέστρε̣πται ὁ Ποντικὸς λαβεῖν τὴν
+r.5   οἰκίαν παρʼ ἡμῶν. προσήλθαμεν
+r.6   δὲ ἡμεῖς αὐτῷ κα[ὶ ἔδ]ωκεν
+r.7   ἡμῖν σημεῖον πρ[ὸ]ς Ποντικό[ν].
+
+[TRANSLATION]
+1   Midas to Akous the […], greeting.
+2   Go to the most estimable Posi-
+3   donios and tell him that the
+4   Pontic man has not turned to taking the
+5   house from us. We approached
+6   him and he gave
+7   us a token to Pontikos.

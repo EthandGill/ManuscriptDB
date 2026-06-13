@@ -1,0 +1,75 @@
+# ---------------------------------------------------------
+# BGU 3.834 - Acknowledgement of receipt of a grain-loan by ten cultivators
+# Source: papyri.info DDbDP bgu;3;834  (Trismegistos 9376)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.834
+label:    BGU 3.834
+name:     Acknowledgement of receipt of a grain-loan by ten cultivators
+genre:    contracts
+date:     25. Aug. 125
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 6860
+content:  A copy of an agreement (homologia) in which ten named cultivators of Soknopaiou Nesos, with full descriptions and identifying scars, acknowledge to the village-scribe Athenion the receipt and measuring-out of forty-five artabas of wheat assigned to them from the granaries of Herakleia and Boubastos, with the price reckoned at 7 drachmas 1 obol per artaba.
+tm:       9376
+source:   https://papyri.info/ddbdp/bgu;3;834
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ἀντίγραφον ὁμολογείας . (ἔτους) θ Αὐτοκράτορος Καίσαρος Τραιανοῦ Ἁδριανοῦ
+r.2   Σεβαστοῦ μηνὸς Καισαρίου ἐπαγομένων β ἐν Βουβάστῳ τοῦ Ἀρσι(νοΐτου) νομοῦ. ὁμολογοῦσ[ιν]
+r.3   Ὀρσενοῦφις Πετεσούχου τοῦ Ἑριέος ὡ(ς) (ἐτῶν) κη ο(ὐλὴ) ποδὶ ἀριστερῷ καὶ Σωτᾶς Πανεφρέμμεο(ς) τοῦ Ἁρ[π]α-
+r.4   γάθου ὡ(ς) (ἐτῶν) λζ ο(ὐλὴ) ποδὶ δεξιῷ καὶ Σωτᾶς Ψενατύμεος τοῦ Στοτοήτιος ὡ(ς) (ἐτῶν) μ ἀση[μ]ο̣ι καὶ Τε[σ]ε-
+r.5   νοῦφις Στοτοή(τιος) [τ]οῦ Πάπειτος ὡ(ς) (ἐτῶν) λβ ο(ὐλὴ) δακτύλῳ μικρͅ χιρὸς ἀριστερᾶς καὶ Ἁτρῆς Σατ[α]βοῦτος τοῦ
+r.6   Τεσενούφεο[ς] ὡ(ς) (ἐτῶν) λβ ο(ὐλὴ) γόνατι ἀριστερῷ καὶ Τεσενοῦφις Πάπειτος τοῦ Πάπ[ει]τος ὡ(ς) (ἐτῶν) λ ο(ὐλὴ) α[ν-]
+r.7   τικνημείῳ δεξιῷ καὶ Ἀπῦγχις Πανεφρέμμεος τοῦ Ἀπύγχεως ὡ(ς) (ἐτῶν) κγ ο(ὐλὴ) δακτύ[λ]ῳ
+r.8   μικρͅ χιρὸς ἀ[ρ]ιστερᾶς καὶ Πακῦσις Πακύσεως τοῦ Πακύσεως [ὡ(ς) (ἐτῶν) ̣ ̣] ο(ὐλὴ) δακ[τύλ]ῳ μικρͅ [χειρὸς]
+r.9   ἀρ[ιστερ]ᾶς καὶ Σωτᾶς Σαταβοῦτος τοῦ Πανοκνέος ὡ(ς) (ἐτῶν) κ̣ϛ̣ ο(ὐλὴ) ἀντι[κν]ημείῳ δεξιῷ κ[αὶ Σ]το-
+r.10   [τοῆτις] Στοτοῆτ[ι]ς τοῦ Πάπειτος ὡ(ς) (ἐτῶν) ν ο(ὐλὴ) δακτύλῳ μικρͅ χιρὸς ἀρ[ισ]τ(ερᾶς) ο[ἱ] δέκα ̣ ̣ ̣οχ[ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.11   τες δεκα[ν]ίαν πυροῦ Ἀθηνίωνι κωμογραμματῖ Σο[κ]νοπαίο[υ]
+r.12   Νήσου ὡ(ς) (ἐτῶν) λ λεύκωμα ὀφθαλμὸν δεξιὸν ἀ[πέ]χειν καὶ μεμ[ετρῆσ]θα[ι τ]ῶν
+r.13   ὁμολογούντων τὰς ἐπισταλείσας αὐτοῖς ἀ[π]ὸ γενήματος δ (ἔτους) καὶ ε [(ἔτους)]
+r.14   Ἁδριανοῦ Καίσαρος τοῦ κυρίου ἀπὸ θησαυροῦ Ἡρακλείας τῆ[ς Θ]ε[μί]στ[ο]υ
+r.15   μερίδος πυροῦ μέτρῳ δημωσίῳ τὸν μὲν Ἀ[πῦ]γχιν Πανεφ[ρέ]μμ[εως]
+r.16   καὶ Στοτοῆτις Στοτοήτιος ἕκαστον ἐξ ἀρταβῶν δέκα πέντε , [τοὺ]ς δὲ λ[οιποὺ]ς
+r.17   ἅπαντος ἐξ ἀρταβῶν πέντε , χωρὶς ὧν ἐπεστάλη καὶ ἔσχε αἴτι πάλαι τὸν μὲ[ν]
+r.18   Ἀπῦγχις Πανεφρέμμεος καὶ Στοτοῆτις Στοτοήτιος ἀπὸ θησαυροῦ Βουβάσ-
+r.19   του γενήματος δ (ἔτους) ἐξ ἀρταβῶν τριάκοντα , τοὺς δὲ λοιποὺς ἅπαντος ἀπὸ
+r.20   μὲν θησα[υρ]οῦ Βουβάστου γενήματος δ (ἔτους) ἀρταβῶν τριάκοντα καὶ ἀπὸ θησαυροῦ
+r.21   Ἡρακλείας γενήματος δ (ἔτους) καὶ ε (ἔτους) ἀρταβῶν δέκα ὡς εἶναι ἐπὶ τὼ αὐτὼ ἑκ[άστο]υ
+r.22   δεκανο[ῦ] ἀρταβῶν τεσσεράκοντα πέντε , ὧν τὴν τιμὴν ὡς τῆς ἀρτάβης δρα-
+r.23   χμῶν ἑπτὰ ὀβολοῦ ἑνὸς προφέρεσθαι τὸν Ἀθηνίωνα πεπληρωκένα[ι αὐ]τού[ς]
+r.24   Πανεφρέμμις Δημᾶς ὡ(ς) (ἐτῶν) ν ο(ὐλὴ) δακτύλῳ μικρͅ χιρὸς ἀριστερᾶς συνευδο[κῶ]ι
+r.25   τῷ δεκαν[ῷ] Ἀπύγχι. ὑπογρ(αφεὺς) Κεφάλων Διοδώρου ―.
+
+[TRANSLATION]
+1   Copy of an agreement. Year 9 of the Emperor Caesar Trajan Hadrian
+2   Augustus, in the month Kaisareios, 2nd intercalary day, in Boubastos of the Arsinoite nome. There acknowledge
+3   Orsenouphis son of Petesouchos, grandson of Herieus, about 28 years old, with a scar on his left foot, and Sotas son of Panephremmis, grandson of Har-
+4   pagathes, about 37 years old, with a scar on his right foot, and Sotas son of Psenatymis, grandson of Stotoetis, about 40 years old, without distinguishing marks, and Tese-
+5   nouphis son of Stotoetis, grandson of Papeis, about 32 years old, with a scar on the little finger of his left hand, and Hatres son of Satabous, grandson of
+6   Tesenouphis, about 32 years old, with a scar on his left knee, and Tesenouphis son of Papeis, grandson of Papeis, about 30 years old, with a scar on his right
+7   shin, and Apynchis son of Panephremmis, grandson of Apynchis, about 23 years old, with a scar on the little finger
+8   of his left hand, and Pakysis son of Pakysis, grandson of Pakysis, [about ... years old,] with a scar on the little finger of his [left]
+9   hand, and Sotas son of Satabous, grandson of Panokneus, about 26 years old, with a scar on his right shin, and Sto-
+10   [toetis] son of Stotoetis, grandson of Papeis, about 50 years old, with a scar on the little finger of his left hand — the ten ... 
+11   (forming) a decania (collective of ten), to Athenion, village-scribe of Soknopaiou
+12   Nesos, about 30 years old, with a white film over his right eye, (acknowledge) that they have received and have had measured out, of the (sums)
+13   assigned to the acknowledging parties from the harvest of the 4th year and 5th [year]
+14   of Hadrian Caesar the lord, from the granary of Herakleia of the Themistes
+15   division, of wheat by the public measure: that Apynchis son of Panephremmis
+16   and Stotoetis son of Stotoetis each (received) fifteen artabas, and the rest
+17   each five artabas, apart from what was assigned and which they previously received — namely that
+18   Apynchis son of Panephremmis and Stotoetis son of Stotoetis (received) from the granary of Boubas-
+19   tos, harvest of the 4th year, thirty artabas, and the rest all (received)
+20   from the granary of Boubastos, harvest of the 4th year, thirty artabas, and from the granary
+21   of Herakleia, harvest of the 4th year and 5th year, ten artabas — so that for the same two each
+22   cultivator (received) forty-five artabas, the price of which, at the rate of seven drachmas one obol per artaba,
+23   Athenion declares that he has paid them in full.
+24   Panephremmis (called) Demas, about 50 years old, with a scar on the little finger of his left hand, I consent
+25   with the cultivator Apynchis. Subscriber: Kephalon son of Diodoros. ―

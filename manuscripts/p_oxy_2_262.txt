@@ -1,0 +1,73 @@
+# ---------------------------------------------------------
+# P.Oxy 2.262 - Declaration of the death of a slave
+# Source: papyri.info DDbDP p.oxy;2;262  (Trismegistos 20533)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.262
+label:    P.Oxy 2.262
+name:     Declaration of the death of a slave
+genre:    documents
+date:     21 Feb 61 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    New York, Columbia University P. Oxy. 262
+content:  Sarapion notifies Philiskos, contractor for the weavers, that his slave Apollophanes, a weaver registered in the Tegmouthis quarter, died abroad, and asks that he be entered on the register of the dead, swearing the statement true
+tm:       20533
+source:   https://papyri.info/ddbdp/p.oxy;2;262
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Φιλίσκωι ἐγλή(μπτορι) γερδ(ίων)
+r.2   παρὰ Σαραπίωνος τοῦ Σαρα(πίωνος).
+r.3   ὁ δοῦλός μου Ἀπολλοφάνης
+r.4   γέρδιος ἀναγραφόμενος
+r.5   ἐπʼ ἀμφόδου Τεγμούθεως
+r.6   ἐτελε(ύτησεν) ἐν τῆι ξένῃ
+r.7   τῶι ἐνεστῶτι ζ (ἔτει) Νέρωνο(ς)
+r.8   Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανι[κ(οῦ)]
+r.9   Αὐτοκράτορος. διὸ ἀξιῶ
+r.10   ἀναγραφῆναι τοῦτον
+r.11   ἐν τῇ τῶν τετελε(υτηκότων)
+r.12   τάξει, καὶ ὀμνύωι
+r.13   Νέρωνα Κλαύδιον Καίσαρ[α]
+r.14   Σεβαστὸν Γερμανικὸν Αὐτοκρά(τορα)
+r.15   ἀληθῆ εἶναι.
+r.16   (ἔτους) ζ Νέρωνος Κλαυδίου
+r.17   Καίσαρος Σεβαστοῦ Γερμανικοῦ Αὐτοκρά(τορος),
+r.18   Μεχ(εὶρ) κζ Σεβα(στῇ).
+r.19   (hand 2) Φιλίσκος σεσημ(είωμαι).
+r.20   (ἔτους) ζ Νέρωνος Κλαυδίου
+r.21   [Κα]ίσαρος Σεβαστοῦ
+r.22   [Γερ]μανικοῦ
+r.23   [Αὐτο]κράτορ[ος]
+r.24   [Με]χ(εὶρ) κ̣ζ [Σεβα(στῇ).]
+
+[TRANSLATION]
+1   To Philiskos, contractor for the weavers,
+2   from Sarapion son of Sarapion.
+3   My slave Apollophanes,
+4   a weaver, registered
+5   in the quarter of Tegmouthis,
+6   died abroad
+7   in the present 7th year of Nero
+8   Claudius Caesar Augustus Germani[cus]
+9   Imperator. Therefore I request
+10   that he be registered
+11   in the list of the de-
+12   ceased; and I swear by
+13   Nero Claudius Caesar
+14   Augustus Germanicus Imperator
+15   that this is true.
+16   Year 7 of Nero Claudius
+17   Caesar Augustus Germanicus Imperator,
+18   Mecheir 27, dies Augusta.
+19   I, Philiskos, have signed.
+20   Year 7 of Nero Claudius
+21   [Ca]esar Augustus
+22   [Ger]manicus
+23   [Impe]rato[r],
+24   [Me]cheir 27, [dies Augusta.]

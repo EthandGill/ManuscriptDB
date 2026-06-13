@@ -1,0 +1,57 @@
+# ---------------------------------------------------------
+# BGU 3.813 - Agreement concerning the balance of a debt
+# Source: papyri.info DDbDP bgu;3;813  (Trismegistos 28091)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.813
+label:    BGU 3.813
+name:     Agreement concerning the balance of a debt
+genre:    contracts
+date:     II
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8676
+content:  A fragmentary contract (drafted through Diogenes the scribe) in which Polydeukes and the daughter of the deceased Althaieus instruct an official to settle matters relating to silver-capital sums they had borrowed under six-witness loans, concerning the remaining balance owed to Harpokration and Apollonios.
+tm:       28091
+source:   https://papyri.info/ddbdp/bgu;3;813
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   (hand 2) δι(ὰ) Διογένο(υς) γ̣[ραμμ(ατέως) (?) ]
+r.2   (hand 1) Πολυδεύκης Εἰρηνίωνος τοῦ Ἀχιλλ[έως ]
+r.3   Ἀλθα[ι]εὺς καὶ ἡ τοῦ τετελευτηκό[τος ]
+r.4   ποσεβαστείου τοῦ καὶ Ἀλθαιέως θυγά[τηρ ]
+r.5   τοῦ Πολυδεύκους Πτολεμαίωι Λε ̣[ χαίρειν. χρημά-]
+r.6   τισον Ἁρποκρατίωνι καὶ Ἀπολλ[ωνίωι ]
+r.7   ὧν ὠφείλαμεν ἐγώ τε ὁ Πολυδεύ[κης ]
+r.8   τῶν περὶ τὸν Ἁρποκρατίωνα μην[ ]
+r.9   ἀργυρικῶ(ν) κεφαλαίων δανεισθέντω[ν ]
+r.10   τε περιῆν κατὰ δάνεια ἑξαμάρτυρ[α ]
+r.11   χρόνοις ἀκολούθως ᾗ πεποίητ(αι) ε[ ]
+r.12   δημοσίᾳ ἀποχῇ ἃς ἔχεις ἡμῶν ἐν ]
+r.13   κατὰ μηδὲ[ν τ]οῦ Ἁρποκρατίωνος [ἐλαττουμένου ]
+r.14   ὑπὲρ [ὧ]ν ἄλλων ὀφείλει ὁ προγεγραμμ[ένος ]
+r.15   πατὴρ Ἀλκιμ ̣ς κατὰ μόνας τῇ μ̣η[ ]
+r.16   δύο ἀργυρί(ου) κεφαλ[α]ίου δραχμῶν [ ]
+
+[TRANSLATION]
+1   (hand 2) Through Diogenes the scribe(?) [...]
+2   (hand 1) Polydeukes son of Eirenion, grandson of Achill[eus ...]
+3   Althaieus, and the daughter of the deceased
+4   Posebasteios also called Althaieus, daugh[ter ...]
+5   of Polydeukes, to Ptolemaios Le...[..., greeting. Trans-]
+6   act for Harpokration and Apoll[onios ...]
+7   of those (sums) which we owed, both I, Polydeu[kes, ...]
+8   of the (sums concerning) Harpokration, mon[th ...]
+9   of silver capital-sums that were lent [...]
+10   what also remained according to six-witness loans [...]
+11   in the (proper) times, in accordance with what has been done e[...]
+12   by the public receipt which you hold of ours in [...]
+13   with Harpokration in no way [being disadvantaged ...]
+14   concerning the other (sums) which the aforewritten owes,
+15   the father Alkim...s, separately, in the m[onth ...]
+16   two, of silver capital, of drachmas [...]

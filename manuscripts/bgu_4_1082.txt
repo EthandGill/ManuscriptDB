@@ -1,0 +1,49 @@
+# ───────────────────────────────────────────────
+# BGU 4.1082 — Letter — Petysis orders payment of half a gold solidus
+# Source: papyri.info DDbDP bgu;4;1082  (Trismegistos 33057)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1082
+label:    BGU 4.1082
+name:     Letter — Petysis orders payment of half a gold solidus
+genre:    letters
+date:     4th century CE
+language: Greek (Koiné)
+found:    Hermopolis (?), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 10540
+content:  Petysis instructs Apphynchios and Didymos the carpet-weaver to pay the scribe Pettirios another half nomismation for the ninth indiction
+tm:       33057
+source:   https://papyri.info/ddbdp/bgu;4;1082
+lat:      27.7803
+lon:      30.8016
+
+[GREEK]
+r.1   κυρίῳ μου ἀδελφῷ Ἀπφυνχίῳ
+r.2   καὶ Διδυμος ταπιταρίου
+r.3   Πετῦσις Παντηβε .
+r.4   καθὼς ἔλαβα ἀπφ ὑμῶν ἐν
+r.5   τῇ κώμῃ τὸ ἥμισοι τοῦ ὁλοκοτιου
+r.6   καὶ νῦν παράσχου τῷ ἀδελφῷ
+r.7   μου Πετ’τ̣ιρίῳ γραμ(ματεῖ) ὑπὲρ ἀμερ(ιμνίας)
+r.8   τῆς ἐννάτης ἰνδ(ι)κ(τίωνος) ἄλλο χρυσοῦ
+r.9   νομισμάτιον ἥμισοι · ἀλλὰ μὴ ἀμελή-
+r.10   σατε, κύριοι ἀδελφ(οί). (hand 2) ἐρρῶσθαι ὑμᾶς
+r.11   εὐχόμαιθα π[ο]λλοῖ(ς) χρόνοις, κύριοι
+r.12   ἀδελφ(οί).
+
+[TRANSLATION]
+1   To my lord brother Apphynchios
+2   and Didymos the carpet-weaver:
+3   Petysis son of Pantebes.
+4   Just as I received from you in
+5   the village the half holokottinos,
+6   so now provide to my brother
+7   Pettirios the scribe, for the security-receipt
+8   of the ninth indiction, another half
+9   gold nomismation. Do not neg-
+10   lect it, lord brothers. (2nd hand) We pray for your
+11   health for many years, lord
+12   brothers.

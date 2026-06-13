@@ -1,0 +1,81 @@
+# ---------------------------------------------------------
+# P.Oxy 1.103 - Lease of land - one aroura for flax, rent in half the crop
+# Source: papyri.info DDbDP p.oxy;1;103  (Trismegistos 45292)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.103
+label:    P.Oxy 1.103
+name:     Lease of land - one aroura for flax, rent in half the crop
+genre:    contracts
+date:     13 Oct 316 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    London, British Library Pap 767
+content:  Two Aurelii lease one aroura near Ision Panga from the gymnasiarch Themistokles to sow flax, paying half the retted flax-stalk as rent
+tm:       45292
+source:   https://papyri.info/ddbdp/p.oxy;1;103
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Αὐρηλίῳ [Θ]εμιστοκλεῖ τῷ καὶ Διοσκουρί[δῃ γυμ]νασιάρχῳ
+r.2   πρυτανε[ύσ]αντει βουλ(ευτῇ) τῆ[ς λ]αμ(πρᾶς) καὶ λ[αμ(προτάτης) Ὀξυρυγχ]ειτῶ[ν πόλεως]
+r.3   διὰ Κο[ρμ]ιλίου βοηθοῦ,
+r.4   παρὰ Αὐρηλίων Λεωνίδου Θέωνος καὶ Δι[οσ]κ[ό]ρου Ἀμμωνίου
+r.5   ἀμφοτέρων ἀπὸ τῆς αὐτῆς πόλεως. ἑκουσίω[ς] ἐπιδεχόμεθα
+r.6   μεισθώσα[σ]θαι πρὸς μόνον τὸ ἐνεστὸς ια καὶ ἔνατον ἔτος
+r.7   ἀπὸ τῶν ὑπ[α]ρχόντων σοι περὶ τὸ Ἰσῖον Πανγᾶ ἐν περιχώματι
+r.8   Νέσλα κο[ι]νωνείας τοῦ ἀδ[ε]λφοῦ σου Λευκα[δ]ίου ἄρουραν μείαν
+r.9   εἰς σπορὰν λινοκαλάμη[ς, κα]ὶ ἀντὶ φόρου παρασχῖν σοι τῷ γεού-
+r.10   χῳ ἥμυσοι μέρος τῆς π[ερι]γινομένης λινοκαλάμης ἀπὸ τῆς
+r.11   γῆς, καὶ ἡμᾶς τοὺς μεμ[ισ]θωμένους ἀν[θʼ] ἧς ποιούμεθα γε-
+r.12   ωργείας καὶ ὧν παρέχομ[εν] σπερμάτων καὶ ἀναλωμάτων
+r.13   πάντων τὸ λοιπὸν ἥμισοι μέρος καὶ ὁλό[κλ]ηρον τὸ λινόσπερμον
+r.14   ἀκίνδυνα πάντα παντὸς κινδύνου, τῶν τῆς γῆς δημοσίων ὄντων
+r.15   πρὸς σὲ τὸν γεοῦχον κυριεύοντα τῶν καρπῶν ἕως τὰ ὀφιλόμενα
+r.16   ἀπολάβῃς. βεβεουμένης δὲ ἡμῖν τῆς ἐπιδοχῆς ἐπάνανκες
+r.17   ἀποδώσωμεν τὸ ἥμισοι μέρος τῆς περιγινομένης λινο-
+r.18   καλάμης ἐπὶ τῆς λιμνου τεταριχευμένης ἀνυπερθέτως
+r.19   τῷ δέοντι καιρῷ, γινομένης σοι τῆς πραξεω παρά ται ἡμῶν
+r.20   ἀλληλεγ’γύων ὄντων εἰς ἔκτισιν ὡς καθήκι . κυρία ἡ ἐπιδο-
+r.21   χή, καὶ ἐπερωτηθέντες ὡμολογήσαμεν.
+r.22   ὑπατείας Καικινίου Σαβίνου καὶ Οὐετίου Ῥουφίνου τῶν
+r.23   λαμ(προτάτων), Φαῶφι ιϛ.
+r.24   (hand 2) Αὐρήλιος Θεμιστοκλῆς ὁ καὶ Διοσκουρίδης
+r.25   [δ]ιʼ ἐμοῦ Κορμιλίου βοηθ(οῦ) ἔσχον τούτου
+r.26   τ̣[ὸ ἴ]σον. ὑπερβολίου προσφερομένου
+r.27   [προ]σδεχθήσεται. v
+r.28   Λεωνίδου καὶ Διοσκόρ(ου) στιπ’ποτιμη̣τ(ῶν).
+
+[TRANSLATION]
+1   To Aurelius [Th]emistokles also called Dioskouri[des, gym]nasiarch,
+2   former prytanis, council(lor) of the [il]lus(trious) and most ill[ustrious city of the Oxyrhynch]ite[s],
+3   through Ko[rm]ilios, assistant,
+4   from the Aurelii Leonides son of Theon and Di[os]k[o]ros son of Ammonios,
+5   both of the same city. Of our own free will we undertake
+6   to lease, for the present 11th and ninth year only,
+7   of the (land) belonging to you near Ision Panga, in the embankment-district of
+8   Nesla, held in common with your brother Leukadios, one aroura
+9   for sowing flax-stalk; and, in lieu of rent, to furnish you the land-
+10   owner half the share of the flax-stalk arising from
+11   the land; and we the lessees, in return for the farming we do
+12   and the seed and all the expenses we provide,
+13   (to keep) the remaining half share and the whole of the linseed,
+14   all free of every risk, the public dues of the land being
+15   your charge as landowner, you being master of the crops until you recover
+16   what is owing. The undertaking being guaranteed to us, of necessity
+17   we shall deliver the half share of the flax-stalk arising,
+18   retted at the pool, without delay,
+19   at the proper season, you having the right of execution against us,
+20   we being mutual sureties for payment as is fitting. The undertaking is
+21   valid, and on being questioned we acknowledged it.
+22   In the consulship of Caecinius Sabinus and Vettius Rufinus the
+23   most illustrious, Phaophi 16.
+24   (2nd hand) I, Aurelius Themistokles also called Dioskourides,
+25   through me Kormilios assistant, have a copy of this
+26   deed. If a higher bid is offered,
+27   it shall be accepted.
+28   (Lease) of Leonides and Diskoros, flax-stalk-valuers(?).

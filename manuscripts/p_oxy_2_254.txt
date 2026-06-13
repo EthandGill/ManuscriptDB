@@ -1,0 +1,45 @@
+# ---------------------------------------------------------
+# P.Oxy 2.254 - Census declaration of a priest of Isis
+# Source: papyri.info DDbDP p.oxy;2;254  (Trismegistos 20524)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.254
+label:    P.Oxy 2.254
+name:     Census declaration of a priest of Isis
+genre:    documents
+date:     c. 13-26 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    New York, Union Theological Seminary P. Oxy. 254
+content:  Horion, priest of Isis at the temple of the Two Brothers by the Sarapeion, declares the persons dwelling in the house he shares with his wife Tasis and others
+tm:       20524
+source:   https://papyri.info/ddbdp/p.oxy;2;254
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Εὐτυχίδῃ καὶ Θέωνι τοπ(ογραμματεῦσι) καὶ κω(μογραμματεῦσι)
+r.2   παρὰ Ὡρίωνος τοῦ Πετοσίριος ἱερέος Ἴσιδ(ος)
+r.3   θεᾶς μεγί(στης) ἱεροῦ Δύο Ἀδελφο͂ν λεγομένου
+r.4   τοῦ ὄντος ἐπ[ὶ το]ῦ πρὸς [Ὀ]ξυρύγχων πό-
+r.5   λει Σαραπιήου ἐν λαύρᾳ Μυροβαλάνου.
+r.6   εἴσιν [ο]ἱ καταγινόμεν(οι) ἐν τῇ ὑπαρχούσῃ
+r.7   μοι καὶ τῇ γυ(ναικὶ) Τάσιδι καὶ Ταύριος Ἁρβίχιος
+r.8   καὶ Πανποντῶτι Νεχθεσόριος καὶ Θαεχμέ-
+r.9   ρη οἰκίᾳ ἐν τῷ προκιμέν(ῳ) Δύο Ἀδελ(φῶν) λεγομέ(νῳ),
+r.10   ὧν εἶναι·
+
+[TRANSLATION]
+1   To Eutychides and Theon, topo- and komo-grammateis,
+2   from Horion son of Petosiris, priest of Isis
+3   greatest goddess, of the temple called of the Two Brothers,
+4   which is at the Sara-
+5   peion by the city of the Oxyrhynchi, in the Myrobalanos quarter.
+6   The persons dwelling in the house belonging
+7   to me and (my) wife Tasis, and to Tauris son of Harbichis(?)
+8   and to Panpontos son of Nechthesoris and Thaechme-
+9   re — a house in the aforesaid (place) called of the Two Brothers —
+10   of whom there are:

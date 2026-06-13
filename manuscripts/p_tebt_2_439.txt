@@ -1,0 +1,55 @@
+# ---------------------------------------------------------
+# P.Tebt 2.439 - Petition - Zoilos seeks release lest he flee his village
+# Source: papyri.info DDbDP p.tebt;2;439  (Trismegistos 13569)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Tebt 2.439
+label:    P.Tebt 2.439
+name:     Petition - Zoilos seeks release lest he flee his village
+genre:    petitions
+date:     15 June 151 CE
+language: Greek (Koine)
+found:    Tebtunis (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berkeley, Bancroft Library UC 1424
+content:  Zoilos, aged 42, takes refuge with the (epi)strategos asking him to write to the divisional strategos for his release, lest he become a fugitive from his own land; with the official’s endorsement
+tm:       13569
+source:   https://papyri.info/ddbdp/p.tebt;2;439
+lat:      29.108
+lon:      30.937
+
+[GREEK]
+r.1   (hand 1) π̣ ̣ ̣ ̣ ̣[ ἵνα μὴ]
+r.2   μετανάστης γέν[ωμαι ἐκ τῆς]
+r.3   ἰδίας, κατέφυγον ἐπὶ σὲ δεό-
+r.4   μενος, ἐάν σοι δόξῃ, κελεῦσαι
+r.5   γραφῆναι τῶι τῆς Θεμίστου καὶ
+r.6   Πολέμωνος μερίδων στρατηγῶι
+r.7   ἀπολῦ̣σαί με, ἵνʼ ὦ ὑπὸ σοῦ βεβοη-
+r.8   θημένος. διευτύχει.
+r.9   Ζωίλος (ἐτῶν) μβ (οὐλὴ) δακτύ(λῳ) χε(ιρὸς) ἀριστ(ερᾶς).
+r.10   (ἔτους) ιδ Αὐτοκράτορος Καίσαρος Τίτου
+r.11   Αἰλίου Ἁδριανοῦ Ἀντωνίνου Σεβαστοῦ
+r.12   Εὐσεβοῦς, Παῦνι κα.
+r.13   (hand 2) (ἔτους) ιδ Παῦνι κα.
+r.14   (hand 3) μηδενὸς ἐπεχομένου
+r.15   ἔντυχε τῷ στρατηγῷ.
+
+[TRANSLATION]
+1   (1st hand) …[… lest]
+2   I become a fugitive [from my]
+3   own (land), I have taken refuge with you, beg-
+4   ging, if it seem good to you, to order
+5   a letter written to the strategos of the Themistes and
+6   Polemon divisions
+7   to release me, that I may be helped
+8   by you. Prosper.
+9   Zoilos, 42 (years old), (a scar) on a finger of the left hand.
+10   Year 14 of Imperator Caesar Titus
+11   Aelius Hadrianus Antoninus Augustus
+12   Pius, Pauni 21.
+13   (2nd hand) Year 14, Pauni 21.
+14   (3rd hand) No one objecting,
+15   petition the strategos.

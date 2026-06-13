@@ -1,0 +1,109 @@
+# ---------------------------------------------------------
+# P.Oxy 2.288 - Account of tax payments by Tryphon the weaver
+# Source: papyri.info DDbDP p.oxy;2;288  (Trismegistos 20559)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.288
+label:    P.Oxy 2.288
+name:     Account of tax payments by Tryphon the weaver
+genre:    receipts
+date:     nach
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    London, British Library Pap 798
+content:  Copies of tax receipts and an excerpt from an epikrisis recording payments of weavers' tax, poll-tax, pig-tax and dike-tax by Tryphon son of Dionysios over several years of Tiberius's reign.
+tm:       20559
+source:   https://papyri.info/ddbdp/p.oxy;2;288
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   ἀντίγρα(φον). ἔτους ἐνάτου Τιβερίου Καίσαρος Σεβαστοῦ, μηνὸς Νέου Σεβαστοῦ ιϛ, διαγέγρ(αφε)
+r.2   γερδιακοῦ Ἱπποδρόμο(υ) Τρύφων Διονυσίο(υ) διὰ Παά[πιο]ς δραχ(μὰς) ζ τριώβολον, (γίνεται) (δραχμαὶ) ζ(τριώβολον).
+r.3   Χοίαχ κε ὁ α[ὐτὸ]ς (δραχμὰς) γ (ὀβολοὺς) δ𐅵, (γίνονται) γ (ὀβολοὶ) δ𐅵. Τῦβι ε ὁ αὐτὸς (δραχμὰς) γ (ὀβολοὺς) δ𐅵.
+r.4   Μεχεὶρ ιθ ὁ αὐτὸς (δραχμὰς) ζ(τριώβολον), (γίνονται) (δραχμαὶ) ζ(τριώβολον). Φαρμοῦθι λ ὁ αὐτὸς (δραχμὰς) γ (ὀβολοὺς) δ𐅵, (γίνονται) γ (ὀβολοὶ) δ𐅵.
+r.5   Παχὼν δ (δραχμὰς) γ (ὀβολοὺς) δ𐅵, (γίνονται) (δραχμαὶ) γ (ὀβολοὶ) δ𐅵. Παῦνι Σεβαστῆι ὁ αὐτὸς (δραχμὰς) γ (ὀβολοὺς) δ𐅵,
+r.6   ἀλλαι (δραχμὰς) β (ὀβολὸν) α𐅵, (γίνονται) (δραχμαὶ) β (ὀβολὸς) α𐅵.
+r.7   ἔτους ἐνάτου Τιβερίου Καίσαρος Σεβαστοῦ, Παῦνι β, διαγέγρ(αφε)
+r.8   διὰ Διογένους τρα(πεζίτου) ἐπικεφαλ(αίου) Ἱπποδρόμου Τρύφων Διονυσίου
+r.9   σὺν καταγωγίωι (δραχμὰς) ιβ, [(γίνονται) (δραχμαὶ)] ιβ, καὶ τῆι κθ τοῦ Παῦνι
+r.10   ὑικῆς ὁ αὐτὸς (δραχμὰς) β (ὀβολὸν) α𐅵, (γίνονται) (δραχμαὶ) [β] (ὀβολὸς) α𐅵, καὶ τῆι δ τοῦ Μεσορὴι χωματικ(οῦ)
+r.11   (δραχμὰς) ϛ(τετρώβολον), (γίνονται) (δραχμαὶ) ϛ (ὀβολοὶ) δ. [ἔ]τους δεκάτου Τιβερίου Καίσαρος
+r.12   Σεβαστοῦ, Χοίαχ ιζ, διαγέγρ(αφε) γερδιακοῦ Ἱππ[ο]δρόμου
+r.13   Τρύφων Διονυσίου διὰ Παάπιος (δραχμὰς) ζ(τριώβολον), (γίνονται) (δραχμαὶ) ζ(τριώβολον). Μεχεὶρ ιϛ
+r.14   ὁ αὐτὸς (δραχμὰς) ζ(τριώβολον), (γίνονται) (δραχμαὶ) ζ(τριώβολον). Φαρμοῦθι κβ ὁ αὐτὸς (δραχμὰς) ζ(τριώβολον), (γίνονται) (δραχμαὶ) ζ(τριώβολον).
+r.15   Παῦνι η [ὁ α]ὐτὸς (δραχμὰς) γ (ὀβολοὺς) δ𐅵, (γίνονται) (δραχμαὶ) γ (ὀβολοὶ) δ𐅵. Μεσορὴι γ ὁ α(ὐτὸς) (δραχμὰς) ϛ.
+r.16   ἔτους δεκάτου Τιβερίου Καίσαρος Σεβαστοῦ, Μεχεὶρ ιγ,
+r.17   διαγέγρ(αφε) διὰ Διογένους [τ]ρα(πεζίτου) ἐπικεφαλ(αίου) Ἱπποδρόμου Τρύφων
+r.18   Διονυσίου σὺν κα(ταγωγίωι) (δραχμὰς) η, καὶ τῆι κδ τοῦ Φαρμοῦθι ἐπικ(εφαλαίου)
+r.19   ὁ αὐτὸς (δραχμὰς) δ. Παῦνι κ̣α̣ Σεβαστῆι ὑικῆς (δραχμὰς) β (ὀβολὸν) α𐅵.
+r.20   Ἐπεὶφ ιϛ χωμα(τικοῦ) (δραχμὰς) ϛ. ἔτους ια Τιβερίου
+r.21   Καίσαρος [Σε]βαστοῦ, [μ]ηνὸς Σεβα[σ]τοῦ ιγ, διαγέγρ(αφε) γερδ(ιακοῦ)
+r.22   Ἱπποδρόμ[ο]υ Διον[ύ]σιο] διὰ Διον(υσίου) (δραχμὰς) ζ(τριώβολον),
+r.23   καὶ τῆι ιθ τοῦ Τῦβι (δραχμὰς) ζ(τριώβολον), [κα]ὶ̣ τ̣ῆ̣ι̣ [ ̣ ̣] τοῦ Φαμενὼθ (δραχμὰς) ζ(τριώβολον),
+r.24   καὶ τῆι ιζ [το]ῦ Παῦνι (δραχμὰς) ζ(τριώβολον), καὶ τῆι ιε τοῦ Ἐπεὶφ (δραχμὰς) ϛ.
+r.25   ἔτους ια Τι[β]ερίου Καίσαρος Σεβαστοῦ, Μεχ(εὶρ) ιε, διαγέγρ(αφε)
+r.26   διὰ Διογένους τρα(πεζίτου) ἐπικ(εφαλαίου) Ἱπποδ(ρόμου) Τρύφων Διονυσίου σὺν κα(ταγωγίωι) (δραχμὰς) η,
+r.27   καὶ τῆι ιγ τοῦ Παχὼν ἐπικεφαλ(αίου) (δραχμὰς) δ, καὶ τῆι ιγ τοῦ Ἐπεὶφ
+r.28   ὑι[κ]ῆς (δραχμὰς) β (ὀβολὸν) α𐅵, καὶ τῆ[ι] κη τοῦ Ἐπεὶφ ὑικῆς (δραχμὰς) ϛ(τετρώβολον).
+r.29   ἔτους η Τι[β]ερίου Καί[σ]αρος Σεβαστοῦ, Μεχεὶρ ιη,
+r.30   διαγέγρ(αφε) γ[ε]ρδιακοῦ [Ἱ]πποδρόμου Τρύφων Διονυσίου
+r.31   διὰ Πα[άπ]ιος (δραχμὰς) ζ(τριώβολον). ἔτους ι Τιβερίου Καίσαρος
+r.32   Σε[βαστο]ῦ, [Φαῶ]φ̣ι̣ Σ[ε]βαστῆι, διαγέγρ(αφε) γερδιακοῦ Ἱπποδ(ρόμου)
+r.33   Τρύφων Δι[ο]νυ[σίου] δ[ιὰ] Παάπιος (δραχμὰς) γ (ὀβολοὺς) δ𐅵.
+r.34   μηνὸς Νέ[ο]υ Σεβασ[τοῦ] γ ὁ αὐτὸς (δραχμὰς) γ (ὀβολοὺς) δ𐅵.
+r.35   ἀντίγρα(φον). ἐ[ξ] ἐπικρίσ[ε]ως μα (ἔτους) Καίσαρος.
+r.36   Τρύφωνος τοῦ Διδύμου ἀπογ(ραφὴ) γερ(δίων)· ὁ α(ὐτὸς) (ἐτῶν) ξδ.
+r.37   Δίδυμος υἱὸς μητ(ρὸς) Τιμῶτος γέρδ(ιος) (ἐτῶν) λζ.
+r.38   Διονύσιος ἀδελ(φὸς) μητρὸ(ς) τῆς α(ὐτῆς) γέρδ(ιος) (ἐτῶν) λβ.
+r.39   Τρύφων υἱ[ὸς] μητρὸς Θαμούνιος (ἐτῶν) γ.
+r.40   Θ[ο]ῶνι[ς Τρύφωνος] μητρὸ(ς) Τιμῶτος γέρδ(ιος) (ἐτῶν) κα.
+r.41   καὶ ἐξ ἀπ[ογραφῆς κω]μογραμματέων
+r.42   μβ (ἔτους), [Θοῶνις Διο]νυσίου α (ἔτους).
+
+[TRANSLATION]
+1   Copy. In the ninth year of Tiberius Caesar Augustus, on the 16th of the month Neos Sebastos, there paid
+2   for weavers' tax of the Hippodrome (quarter) Tryphon son of Dionysios, through Paapis, 7 drachmas 3 obols, total: 7 drachmas 3 obols.
+3   Choiach 25, the same (paid) 3 drachmas 4½ obols, total: 3 (drachmas) 4½ obols. Tybi 5, the same (paid) 3 drachmas 4½ obols.
+4   Mecheir 19, the same (paid) 7 drachmas 3 obols, total: 7 drachmas 3 obols. Pharmouthi 30, the same (paid) 3 drachmas 4½ obols, total: 3 (drachmas) 4½ obols.
+5   Pachon 4, (paid) 3 drachmas 4½ obols, total: 3 drachmas 4½ obols. Pauni Sebaste, the same (paid) 3 drachmas 4½ obols,
+6   another (payment) 2 drachmas 1½ obols, total: 2 drachmas 1½ obols.
+7   In the ninth year of Tiberius Caesar Augustus, Pauni 2, there paid
+8   through Diogenes the banker, for poll-tax of the Hippodrome (quarter), Tryphon son of Dionysios
+9   together with the import-duty 12 drachmas, [total:] 12 drachmas, and on the 29th of Pauni
+10   for pig-tax the same (paid) 2 drachmas 1½ obols, total: [2] drachmas 1½ obols, and on the 4th of Mesore for dike-tax
+11   6 drachmas 4 obols, total: 6 drachmas 4 obols. In the tenth year of Tiberius Caesar
+12   Augustus, Choiach 17, there paid for weavers' tax of the Hippodrome (quarter)
+13   Tryphon son of Dionysios through Paapis 7 drachmas 3 obols, total: 7 drachmas 3 obols. Mecheir 16
+14   the same (paid) 7 drachmas 3 obols, total: 7 drachmas 3 obols. Pharmouthi 22 the same (paid) 7 drachmas 3 obols, total: 7 drachmas 3 obols.
+15   Pauni 8 [the s]ame (paid) 3 drachmas 4½ obols, total: 3 drachmas 4½ obols. Mesore 3 the s(ame) (paid) 6 drachmas.
+16   In the tenth year of Tiberius Caesar Augustus, Mecheir 13,
+17   there paid through Diogenes the [b]anker, for poll-tax of the Hippodrome (quarter), Tryphon
+18   son of Dionysios together with the im(port-duty) 8 drachmas, and on the 24th of Pharmouthi for poll-tax
+19   the same (paid) 4 drachmas. Pauni 21 Sebaste for pig-tax 2 drachmas 1½ obols.
+20   Epeiph 16 for dike-tax 6 drachmas. In the 11th year of Tiberius
+21   Caesar [Au]gustus, in the month Sebastos 13, there paid for weav(ers' tax) of
+22   the Hippodrome (quarter) Dionysios through Dionysios 7 drachmas 3 obols,
+23   and on the 19th of Tybi 7 drachmas 3 obols, [an]d on the [..] of Phamenoth 7 drachmas 3 obols,
+24   and on the 17th [o]f Pauni 7 drachmas 3 obols, and on the 15th of Epeiph 6 drachmas.
+25   In the 11th year of Ti[b]erius Caesar Augustus, Mech(eir) 15, there paid
+26   through Diogenes the banker, for pol(l-tax) of the Hippod(rome quarter), Tryphon son of Dionysios together with the im(port-duty) 8 drachmas,
+27   and on the 13th of Pachon for poll-tax 4 drachmas, and on the 13th of Epeiph
+28   for pig-tax 2 drachmas 1½ obols, and on the 28th of Epeiph for pig-tax 6 drachmas 4 obols.
+29   In the 8th year of Ti[b]erius Cae[s]ar Augustus, Mecheir 18,
+30   there paid for weavers' tax of the [H]ippodrome (quarter) Tryphon son of Dionysios
+31   through Pa[ap]is 7 drachmas 3 obols. In the 10th year of Tiberius Caesar
+32   Au[gustu]s, [Phao]phi Sebaste, there paid for weavers' tax of the Hippod(rome quarter)
+33   Tryphon son of Dionysios th[rough] Paapis 3 drachmas 4½ obols.
+34   In the month of Neos Sebastos 3 the same (paid) 3 drachmas 4½ obols.
+35   Copy. From the epikrisis of the 41st year of Caesar.
+36   Registration of Tryphon son of Didymos, of the weavers: the s(ame), aged 64.
+37   Didymos his son, of the mother Timos, weaver, aged 37.
+38   Dionysios the brother, of the same mother, weaver, aged 32.
+39   Tryphon the so[n], of the mother Thamounis, aged 3.
+40   Th[o]onis [son of Tryphon], of the mother Timos, weaver, aged 21.
+41   And from the regis[tration of the vil]lage-scribes
+42   of the 42nd year, [Thoonis son of Dio]nysios, aged 1 year.

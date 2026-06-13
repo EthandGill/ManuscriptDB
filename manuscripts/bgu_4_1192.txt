@@ -1,0 +1,59 @@
+# ---------------------------------------------------------
+# BGU 4.1192 - Official Report on Tax Collection and the Arabs
+# Source: papyri.info DDbDP bgu;4;1192  (Trismegistos 4526)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1192
+label:    BGU 4.1192
+name:     Official Report on Tax Collection and the Arabs
+genre:    documents
+date:     nach 55 v.Chr.
+language: Greek (Koine)
+found:    Herakleopolite nome, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13150
+content:  A fragmentary official account concerning the collection of annual rents and grain dues from the time of the former strategos Paniskos, the demands made on Pindaros, and matters relating to the Arabs in the Herakleopolite nome.
+tm:       4526
+source:   https://papyri.info/ddbdp/bgu;4;1192
+lat:      29.0772
+lon:      30.9342
+
+[GREEK]
+r.1   [γ]ράφο̣ν̣τος τῶν δηλ[ο]υμένων ἐκφορίων κατʼ ἔτος
+r.2   ἐξ ὁμολόγου σπόρου προσαγομένων καὶ τῶν πυρῶ̣ν̣
+r.3   ἐπὶ Πανίσκου τοῦ στρατηγήσαντος εἰσηγμένων
+r.4   προσῆκον (hand 2) ἦν̣ (hand 1) εἶ̣ν̣α̣ι̣ καὶ ὑμᾶς ἐκκοι … τὸν Πίνδαρον ἀπῃτ̣ηκέν̣[αι] καὶ
+r.5   π̣ά̣ν̣τας̣ τῶν (hand 2) τὸν Ἡλιόδωρον
+r.6   (hand 1) Ἀράβων κατεσταλμένων (hand 2) μ̣ε̣μ̣ι̣σ̣θ̣( ) ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣η ̣ ̣ π̣ρ̣α̣χθη( ) (hand 1) καὶ π̣ά̣ν̣τ̣ω̣ν̣
+r.7   (hand 2) ̣α̣ν̣ Ἀράβ̣ω̣ν̣ κατεσ̣ ̣ ̣ ̣ ̣ ̣ (hand 1) ἐν τῆι μεγίστη[ι] εἰρήνηι γενονότων, τ̣ι̣θ̣εμ̣ένων δὲ
+r.8   καὶ ὑφʼ ἡμῶν ἐν τοῖς παρὰ τοῦ Ἡλιοδώρου ἀπαιτηθη[σο-]
+r.9   μένοις ἕνεκα τοῦ ὀφείλε̣ι̣ν μεταπαρ[ει]ληφότα τὰ τ[ῆς]
+r.10   στρατηγίας συνχρη[σάμε]νον ταῖς ὑπʼ αὐτοῦ γεγονυίαις
+r.11   π̣ροσαγωγα̣ῖ̣ς [ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ̣ο̣φ̣ ̣ ̣ ̣ τῶν [μ]ὲν β[αι]νόν[των]
+r.12   (hand 2) ̣ ̣ ἐν τῆι μεγίστη[ι εἰρήνηι μ]ε̣ν̣ό̣ν̣τ̣ω̣ν̣ (hand 1) τὴν
+r.13   ἀπα̣[ίτησιν ̣ ̣]σ̣π̣ ̣ατ̣ε̣ν ̣ ̣ ̣
+r.14   λ̣η̣ν̣[ ̣] περὶ κώμην Σχνῶμθιν κατατ[ ]
+r.15   ̣ ̣ ̣[ ̣ ̣ ̣]τ̣ω̣ν̣ ἀ̣π̣ὸ̣ τ̣ῶ̣ν̣ ἑα̣τ̣ῶ̣ν̣ ̣ ̣ ̣
+r.16   (hand 2) [ ]ω̣ν̣τη … (hand 1) […]ης τῶν ἐκφορί[ω]ν τ̣ὰ̣ προσμετρ[ού-]
+r.17   [μενα ̣ ̣ ̣ ̣] τοῦ Πινδάρου ἐν π[ ̣ ̣ ̣] ̣ ̣ ̣ μ̣ετὰ τ̣ο̣ῦ̣ ἀ̣λ̣-
+
+[TRANSLATION]
+1   of him who records the aforementioned rents year by year
+2   from the agreed sowing brought in, and of the wheat
+3   introduced under Paniskos who had been strategos,
+4   it was fitting (hand 2) it was (hand 1) that you too ... that Pindaros had collected, and
+5   all of those (hand 2) Heliodoros
+6   (hand 1) the Arabs having been put down (hand 2) lease(d) ... was exacted (hand 1) and of all
+7   (hand 2) ... of the Arabs ... (hand 1) having taken place in the greatest peace, and there being set down
+8   also by us among the things to be demanded from Heliodoros
+9   on account of the debt, he having taken over in succession the affairs of the
+10   strategia, having made use together of the levyings that had been made by him
+11   of the introductions [...] ... of those [going down,]
+12   (hand 2) ... [remaining] in the greatest [peace] (hand 1) the
+13   the de[mand ...] ... ...
+14   ...[.] concerning the village of Schnomthis ...[ ]
+15   ...[...] ... from their own ...
+16   (hand 2) [ ]... ... (hand 1) [...] of the rents the additionally measured
+17   [items ...] of Pindaros in p[...] ... with the ...

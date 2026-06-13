@@ -1,0 +1,67 @@
+# ---------------------------------------------------------
+# P.Oxy 2.316 - Petition concerning Housebreaking and Theft (Oxyrhynchos)
+# Source: papyri.info DDbDP p.oxy;2;316  (Trismegistos 16684)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.316
+label:    P.Oxy 2.316
+name:     Petition concerning Housebreaking and Theft (Oxyrhynchos)
+genre:    petitions
+date:     28. Okt. - 26. Nov. 50
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Oxford, Bodleian Library MS. Gr. class. e. 78 (P)
+content:  A petition of 50 CE addressed to the strategos Tiberius Claudius Pasion by Tryphon son of Dionysios, reporting that certain persons broke into a house he held jointly with partners in the Shepherds' Quarter near the Sarapeion and carried off property.
+tm:       16684
+source:   https://papyri.info/ddbdp/p.oxy;2;316
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Τιβερίῳ Κλαυδίῳ Πα[σίωνι] στρ[α(τηγῷ)]
+r.2   παρὰ Τρύφωνος τοῦ Διον(υσίου)
+r.3   τῶ[ν ἀ]πʼ Ὀξυρύγχ[ω]ν
+r.4   π[όλ]εω[ς τ]ῆ[ς Θη]β[αίδος·]
+r.5   τ[ῃ] ̣ το[ῦ ἐν]εστῶτος μη[νὸς]
+r.6   Νέου Σ[εβ]αστοῦ τοῦ ια (ἔτους)
+r.7   Τιβε[ρίο]υ [Κ]λαυδίου
+r.8   Καίσαρος Σεβαστοῦ
+r.9   Γερμαν[ικο]ῦ Αυτοκράτορος
+r.10   ἐπιβα[λόντες τ]ινές
+r.11   αν ̣ου[ ̣ ̣ ̣ ̣ ̣ ̣ ἐ]πὶ ἣν
+r.12   ἔχω σ[ὺν ̣ ̣ ̣ ̣ ̣]ς μ[ε]τόχοις
+r.13   οἰκίαν ἐ̣[πὶ τοῦ] πρὸς Ὀξυρύ[γχων]
+r.14   πόλει Σαρ[α]πιείου ἐν λαύρᾳ
+r.15   ποιμενικῆι, ἀπηνεκαν
+r.16   τὰ ̣ ̣ ̣ν[ ̣ ̣] ̣λυ[ ̣ ̣] ̣ ̣
+r.17   ετ[ ]
+r.18   ἀπογ[ ]
+r.19   ν̣ε̣ου[ ]
+r.20   ὑπογ[ ]
+r.21   νοι[ ]
+
+[TRANSLATION]
+1   To Tiberius Claudius Pa[sion] str[a(tegos)]
+2   from Tryphon son of Dion(ysios),
+3   of tho[se f]rom Oxyrhynch[o]s
+4   ci[t]y [of] th[e Th]eb[aid:]
+5   On th[e] . of the cur]rent mo[nth]
+6   Neos Sebastos of the 11th (year)
+7   of Tibe[ri]us [C]laudius
+8   Caesar Augustus
+9   German[icu]s Imperator (Emperor),
+10   certain persons, having set upo[n (it),]
+11   an...ou[...... u]pon which
+12   I hold, t[ogether with ...]s (my) partners,
+13   a house n[ear the] Sarapeion by Oxyrhy[nchos]
+14   city, in the Shepherds'
+15   Quarter (lit. shepherd's lane), they carried off
+16   the ...n[..] .ly[..] ..
+17   et[ ]
+18   apog[ ]
+19   neou[ ]
+20   hypog[ ]
+21   noi[ ]

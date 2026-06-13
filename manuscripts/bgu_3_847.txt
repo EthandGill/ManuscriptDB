@@ -1,0 +1,61 @@
+# ---------------------------------------------------------
+# BGU 3.847 - Extract of a military epikrisis (status-verification) record
+# Source: papyri.info DDbDP bgu;3;847  (Trismegistos 28098)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.847
+label:    BGU 3.847
+name:     Extract of a military epikrisis (status-verification) record
+genre:    documents
+date:     Ende II - III
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8337
+content:  A fragmentary copy of an epikrisis register concerning veterans, Romans, freedmen and slaves who appeared for status-verification before the prefect Veturius Macrinus through the tribune Cocceius Varus of the Legio II Traiana Fortis under Commodus, citing earlier documentary proofs.
+tm:       28098
+source:   https://papyri.info/ddbdp/bgu;3;847
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   [… οὗ προγ]ρ(αφή)· οἱ ὑπογεγρ(αμμένοι)
+r.2   [οὐετρανοὶ καὶ Ῥωμαῖοι καὶ ἀπελευ]θεροις καὶ δοῦλοι καὶ
+r.3   [ἕτεροι παρεγένοντο πρὸς ἐπίκρισιν] Οὐετουρίου Μακρίνου
+r.4   [ἐπάρχου Αἰγύπτου διὰ Κοκκηίου] Οὐάρ̣ου χειλη̣άρχου
+r.5   [λεγιῶνος β Τραιανῆς Ἰσχυρᾶ]ς ἀπὸ Παχὼν ἕως
+r.6   [τοῦ ̣ ̣ ̣ ̣ ̣ ̣ μηνὸς τοῦ ἐνεστῶτος(?)] κγ (ἔτους) Μάρκου Αὐρηλίου
+r.7   [Κομμόδου Ἀντωνίνου Σεβαστο]ῦ̣. ἃ δὲ παρέθεντο
+r.8   [δικαιώματα τῷ προγεγραμμένῳ] Κοκκηΐ ῳ Οὐάρῳ, ἑκάστῳ
+r.9   [ὀνόματι παράκειται. μεθʼ ἕτ]ερα σελίδων ιζ· Ἀρσινο-
+r.10   [ίτου …] Μά̣ξι̣μος ἐτῶν Πολυδευκη
+r.11   [ἐτῶν ἐπήνεγκεν ὁ τῶν] [ ἐ]π[ι]κρινομένων πατ[ὴρ]
+r.12   […]δι̣ ̣[ ̣ ̣] ̣ ἐπεί[κ]ρισειν ἑαυτοῦ ἐπεὶ
+r.13   ̣ (ἔτους) Μάρκου Αὐρηλίου Ἀντ]ωνίνου γενομένην ὑ πὸ Καλου-
+r.14   [ισίου Στατιανοῦ τοῦ ἡγεμο]νεύσαντος καθʼ ἣν αὐτὸς
+r.15   […] ἀπὸ χαλκῆς τάβλ̣η[ς ἐ]πεκρίθη
+r.16   [καὶ τῶν ἐπικρινομένων δέλτο]υς β [π]ροφεσσιώ[ν]ων ἐπεὶ
+r.17   [σφραγίδων κεχρονισμένας, τὴ]ν μ[ὲ]ν Μαξίμ[ου τ]ῇ πρὸ̣ ε
+r.18   […] ̣ ̣ ̣ ̣αι Μαξι̣μ̣[ ̣ ̣ ̣]πατ[ ̣ ̣]
+
+[TRANSLATION]
+1   [... of which the heading]: the undersigned
+2   [veterans and Romans and freed]men and slaves and
+3   [others appeared for the status-verification (epikrisis)] of Veturius Macrinus,
+4   [prefect of Egypt, through Cocceius] Varus, tribune
+5   [of the Legio II Traiana Fortis(?)], from Pachon until
+6   [the .. of the month of the current(?)] 23rd (year) of Marcus Aurelius
+7   [Commodus Antoninus Augustu]s. And the proofs which they presented
+8   [to the aforesaid] Cocceius Varus, for each
+9   [name are appended. After other matter]s, of pages 17: of the Arsino-
+10   [ite ...] Maximus, aged .., (son of) Polydeukes
+11   [aged .., the father of those being verified presented,]
+12   [...]di.[..] . the verification of himself, since
+13   . (year) of Marcus Aurelius Ant]oninus, which was carried out by Calu-
+14   [isius Statianus the one who had been gover]nor, according to which he himself
+15   [...] from the bronze tab[le was] verified
+16   [and of those being verified, two tabl]ets of declarations, since
+17   [of the seals dated, th]e o[n]e of Maximus on the day before the 5th
+18   [...] ....ai Maxim[...]pat[..]

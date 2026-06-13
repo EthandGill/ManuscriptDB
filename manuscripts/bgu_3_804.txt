@@ -1,0 +1,39 @@
+# ---------------------------------------------------------
+# BGU 3.804 - Gate-toll receipt - camels, foals and a pack-animal
+# Source: papyri.info DDbDP bgu;3;804  (Trismegistos 9359)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.804
+label:    BGU 3.804
+name:     Gate-toll receipt - camels, foals and a pack-animal
+genre:    receipts
+date:     c. 200 CE
+language: Greek (Koine)
+found:    Karanis (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8231
+content:  Toll paid at the gate of Karanis (1/100 and 1/50): Heron exporting on two camels, two foals and one pack-animal, twenty-two artabas
+tm:       9359
+source:   https://papyri.info/ddbdp/bgu;3;804
+lat:      29.5186
+lon:      30.9036
+
+[GREEK]
+r.1   τετελ(ώνηται(?)) διὰ πύλ(ης) Καρανίδ(ος)
+r.2   (ἑκατοστῆς) καὶ (πεντηκοστῆς) Ἥρων ἐξ(άγων) ἐπὶ
+r.3   καμήλ(οις) δυσί , πώλ(οις) δυσί ,
+r.4   σκευοφ(όρῳ) ἑνὶ ̣ ̣ ̣ ̣
+r.5   (ἀρτάβας) εἴκοσι δύο . (ἔτους) θ
+r.6   Ἁδριανοῦ πέντε καὶ
+r.7   δεκάτῃ ιε.
+
+[TRANSLATION]
+1   Toll paid through the gate of Karanis,
+2   (the) 1/100 and 1/50: Heron, exporting on
+3   two camels, two foals,
+4   one pack-animal ...,
+5   twenty-two artabas. Year 9(?)
+6   of Hadrian(?), on the fif-
+7   teenth, 15.

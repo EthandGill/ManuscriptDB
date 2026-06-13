@@ -1,0 +1,45 @@
+# ---------------------------------------------------------
+# BGU 3.897 - Tax receipt for grain (sitologia) on katoikic land
+# Source: papyri.info DDbDP bgu;3;897  (Trismegistos 28106)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.897
+label:    BGU 3.897
+name:     Tax receipt for grain (sitologia) on katoikic land
+genre:    receipts
+date:     II
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7380
+content:  A fragmentary receipt/account recording the collection of grain (wheat) dues from various landholders' katoikic and privately owned arouras in the Arsinoite nome, with assessed amounts per aroura.
+tm:       28106
+source:   https://papyri.info/ddbdp/bgu;3;897
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ἔκλη(ψις) διὰ Πτολ(εμαίου) Ἀχιλλᾶ.
+r.2   Πτολεμαίο(υ) Πτολ(εμαίου) το(ῦ) καὶ Ἰούστ(ου) εἰς Γάιον Οὐαλ(έριον) Ἰοῦ στ(ον)
+r.3   κ(ατ)οι(κικῆς) (ἄρουραι) ϛδ´ καὶ εἰς Θερμο(ῦθιν) Πακύσιο(ς) ἐξ ἐπισ̣κ̣(έψεως)
+r.4   πρὸς τὸ ιϛ (ἔτος) ἐπ( ) ιϛ´ξδ´ (πυροῦ) 𐅵κδ´ ποδ(ώματος) ιβ´
+r.5   πατ( ) ̣α (ἄρουραι) η´λβ´ξδ´ (πυροῦ) 𐅵κ̣δ̣´ ποδ(ώματος) ιβ´
+r.6   Πεθέως Ἁτρείους ἰδιοκτ(ήτου) (ἄρουρα) αδ´ ἐπιβ̣ο̣λ( ) (ἀρούρης) ιϛ´ καὶ
+r.7   εἰς Ἁτ̣ρ̣ῆν Ἀπολλω(νίου) ε̣ω̣ς ἐλαιων ̣
+r.8   ἐπ( ) [(ἄρουραι) ̣] ̣ (πυροῦ) ποδ(ώματος) τὸ (ἥμισυ)
+r.9   [ ̣ ̣] (ἀρτάβη(?)) αγ´ ̣[ ̣ ̣]
+r.10   γ(ίνεται) ̣[ ]
+
+[TRANSLATION]
+1   Collection through Ptolemaios son of Achillas.
+2   Of Ptolemaios son of Ptolemaios also called Ioustos, to the account of Gaios Valerios Ioustos,
+3   of katoikic (land), 6 1/4 arouras, and to the account of Thermouthis daughter of Pakysis, from the survey,
+4   for the 16th year: ep( ) 1/16, 1/64 (of wheat); 1/2, 1/24 (of wheat) of podoma 1/12;
+5   pat( ) ...a, arouras 1/8, 1/32, 1/64, (of wheat) 1/2, 1/24, of podoma 1/12;
+6   of Petheus son of Hatres, of privately owned (land), 1 1/4 arouras, additional assessment 1/16 of an aroura, and
+7   to the account of Hatres son of Apollonios, ... of olive-yards ...
+8   ep( ) [...arouras...] ... (of wheat), of podoma the half;
+9   [...] 1 artaba(?) 1/4 ...[...]
+10   Total: ...[ ]

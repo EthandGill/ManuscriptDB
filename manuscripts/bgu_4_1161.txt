@@ -1,0 +1,83 @@
+# ---------------------------------------------------------
+# BGU 4.1161 - Loan of Money Contract
+# Source: papyri.info DDbDP bgu;4;1161  (Trismegistos 18611)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1161
+label:    BGU 4.1161
+name:     Loan of Money Contract
+genre:    contracts
+date:     24 - 23 v.Chr.
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13136 Vo
+content:  An Alexandrian loan agreement (24-23 BCE) in which Hermaphilos and his wife Agathonike acknowledge a money loan from Ptolemaios at nine-obol interest, to be repaid in six months with penalties for default.
+tm:       18611
+source:   https://papyri.info/ddbdp/bgu;4;1161
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   [π]αρὰ Πτολεμαίου τοῦ Π̣τ̣ο̣[λεμαίου ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.2   [κ]αὶ παρὰ Ἑρμαφίλου τ[οῦ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ Πέρσου]
+r.3   τῆς ἐπιγονῆς καὶ τ[ῆς τούτου γυναι-]
+r.4   κὸς Ἀγαθονίκης τ[ῆς … Περ-]
+r.5   σείνης μετὰ κυρίο[υ τοῦ ἀνδρός. συν-]
+r.6   χωροῦσιν Ἑρμάφ[ιλος καὶ Ἀγαθονίκη]
+r.7   ἔχιν παρὰ τοῦ Πτολ[εμαίου δάνειον δι-]
+r.8   ὰ χιρὸς ἐξ οἴκου ἀργυ[ρίου (δραχμὰς) ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.9   τόκων ἐννεοβολῶν [τῆς μνᾶς ἑκάσ-]
+r.10   της τοῦ μηνὸς ἑκά[στου, ὃ καὶ ἀπο-
+r.11   δ]ώσιν ἐν μησὶν ἓξ ἀ[πὸ ̣ ̣ ̣ ̣ τοῦ ἐνε-]
+r.12   [σ]τῶτος ζ (ἔτους) Καίσαρ[ος διδόντες τὸν]
+r.13   μὲν τόκον κατὰ μ[ῆνα εὐτάκτως],
+r.14   τὸ δὲ κεφάλαιον [ἐν τῷ ἐσχάτῳ μη-]
+r.15   νὶ ἄνευ πάσης ὑπ[ερθέσεως, ἢ εἶ-]
+r.16   ναι αὐτοὺς παραχ[ρῆμα ἀγωγίμους]
+r.17   καὶ συνέχεσθαι [μέχρι τοῦ ἐκτεῖ-]
+r.18   σαι τὸ μὲν δάνη̣[ον] [σὺν ἡμιολίᾳ],
+r.19   τοὺς δὲ τόκους ἁ̣[πλοῦς, τοῦ δὲ]
+r.20   ὑπερπεσόντος [χρόνου τοὺς κατὰ]
+r.21   τὸ διάγραμμα [τόκους (διδράχμους) τῆς]
+r.22   πράξεως γινο[μένης τῷ Πτο-]
+r.23   [λεμ]αίῳ ἔκ τε [τῶν ὑποχρέων ὄν-]
+r.24   [των ἀ]λληλενγύ[ων] [εἰς ἔκτισιν]
+r.25   [καὶ ἐ]ξ ἑνὸς κα[ὶ ἐξ οὗ ἐὰν αὐ(τῶν) αἱρῆ(ται)]
+r.26   [καὶ ἐ]κ τῶν ὑπα[ρχόντων αὐτοῖς]
+r.27   [πάντ]ων κα[θάπερ ἐκ δίκης ἀκύ-]
+r.28   [ρων οὐ]σῶν κα[ὶ ὧν ἐὰν ἐπενέγ-]
+r.29   [κωσι πίσ]τεω[ν πασῶν σκέπης πάσης.]
+
+[TRANSLATION]
+1   From Ptolemaios son of Ptolemaios [...]
+2   and from Hermaphilos son of [..., a Persian]
+3   of the epigone, and his [wife]
+4   Agathonike, [the ... Per-]
+5   sian woman, with her guardian [her husband. There]
+6   agree Hermaphilos [and Agathonike]
+7   to have from Ptolemaios [a loan]
+8   from hand to hand out of the house of silver [... drachmas]
+9   at nine-obol interest [for each mina]
+10   for each month, which also they will re-
+11   pay in six months from [... of the pres-]
+12   ent 7th year of Caesar, [giving the]
+13   interest by the month [duly],
+14   and the capital [in the last]
+15   month without any de[lay, or that they]
+16   be on the spot liable to seizure
+17   and held under arrest [until they pay]
+18   off the loan [with the half-as-much again],
+19   and the interest at the simple rate, and for the
+20   time overrun the interest according to
+21   the edict [at two drachmas, the]
+22   execution being made for Pto-
+23   lemaios from those who are liable, being
+24   jointly bound [for repayment],
+25   both from one and from whichever of them he chooses,
+26   and from all that belongs to them,
+27   as if by judgment, all (pledges of) good
+28   faith they may adduce being void
+29   and all protection being void.

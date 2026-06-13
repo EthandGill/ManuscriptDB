@@ -1,0 +1,97 @@
+# ───────────────────────────────────────────────
+# P.Oxy 2.269 — Letter with loan copy — Tryphon asks Ammonas to collect a debt
+# Source: papyri.info DDbDP p.oxy;2;269  (Trismegistos 20540)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy 2.269
+label:    P.Oxy 2.269
+name:     Letter with loan copy — Tryphon asks Ammonas to collect a debt
+genre:    letters
+date:     after 13 May 57 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Philadelphia, University of Pennsylvania Museum E 2760
+content:  Copy of Dioskoros’ 52-drachma bank loan, with Tryphon’s cover note: press him and exact the bond
+tm:       20540
+source:   https://papyri.info/ddbdp/p.oxy;2;269
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   ἀντίγρα(φον). Διό[σκο]ρος Ζηνοδ[ώρου Πέρ]σαι τῆς ἐπιγονῆς Τρύφων[ι]
+r.2   Διονυσίο[υ χα]ίρειν. ὁ[μ]ολογ[ῶ ἔχει]ν παρὰ σοῦ ἐπὶ τοῦ πρὸς Ὀξυρύγχων
+r.3   πόλει [Σαραπ]είου διὰ τῆς Ἀ[ρχιβίου] τοῦ Ἀρχιβίου τραπέζης ἀργ[υ]ρίου
+r.4   Σεβαστ[οῦ νο]μίσματος δρ[αχ]μὰς πεντήκοντα δύο κεφαλαίου
+r.5   αἷς οὐδ[ὲν τ]ῶι καθόλου π[ροσ]ῆκτ[α]ι, ἃς καὶ ἀποδώσω σοι τῇ τριακάδι
+r.6   τοῦ Κα[ισαρεί]ου μηνὸς τοῦ [ἐ]νεστῶτος γ (ἔτους) Νέρωνος Κλαυδ[ί]ου
+r.7   Καίσαρ[ος Σεβ]αστοῦ Γερμ[ανι]κοῦ Αὐτοκράτορος χωρὶς πάσης
+r.8   ὑπερ[θέσ]εως. ἐὰν δὲ μ[ὴ ἀπ]οδ[ῶ]ι καθὰ γέγραπται ἐκτείσω σοι
+r.9   τ[ὸ π]ρο[κ]είμενον κεφ[άλ]αιον μεθʼ ἡμιολίας καὶ τοῦ ὑπερπεσόν-
+r.10   τος χρ[ό]νου τοὺς καθήκοντας τόκους, τῆς πράξεώς σου
+r.11   οὔσης ἔ[κ τ]ε ἐμοῦ καὶ ἐ[κ] τῶν ὑπαρχόντων αυτωι πάντων
+r.12   καθάπερ ἐγ δίκης. κυρί[α] ἡ χε[ὶ]ρ πανταχῇ ἐπιφερομέν[η]
+r.13   καὶ παντὶ τῶι ἐπιφέροντι. (ἔτους) γ Νέρω[ν]ος Κλαυδίου Καίσαρος
+r.14   Σεβαστοῦ Γερμανικοῦ [Α]ὐτοκράτορ[ος, μ]ηνὸς Γερμανικείου ιη Σεβα(στῇ).
+r.15   ὑπογρα(φῆς) ἀντίγρα(φον). Διόσκορος Ζηνοδώρου [ἔ]χωι τὰς τοῦ ἀργυρίου
+r.16   δραχμὰς πεντήκ[ο]ντα δύο κεφαλαίου καὶ ἀποδώσωι
+r.17   καθότι πρόκειται. Ζωίλος Ὥρου ἔγραψα ὑπὲρ αὐτοῦ μὴ ε[ἰ]δότος
+r.18   γράμματα. (ἔτους) γ Νέρωνος Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.19   Αὐτοκράτορος, μηνὸς Γερμανικείου ιη Σεβαστῇ.
+r.20   σημεωσεω ἀντίγρα(φον). ἔτους γ Νέρωνος Κλαυδίου Καίσαρος Σεβαστοῦ
+r.21   Γερμα[νι]κοῦ Αὐτοκρά[τ]ορος, μηνὸς Γερμανικείου ιη Σεβασῇ .
+r.22   διὰ Θέωνος τοῦ Σύρου τοῦ συνεσταμένου ὑπὸ Ἀρχιβίου τραπεζείτο(υ) γέγο(νεν) ἡ̣ διαγρα(φή). 2
+r.23   (hand 2) Τρύφων Ἀμμωνᾶτι
+r.24   τῷ [μ]ακρῷ τῷ φιλτά-
+r.25   τῳ χαίρειν. ἐὰν δύ-
+r.26   νῃ ἐρωτηθεὶς ὄχλη-
+r.27   σον Διόσκορον καὶ ἔκ-
+r.28   πραξον αὐτὸν τὸ
+r.29   χειρόγραφον καὶ
+r.30   ἐάν σοι δυ τὸ ἀργύριον
+r.31   δῦς αὐτῷ ἀποχήν,
+r.32   καὶ ἐὰν εὕ[ρ]ῃς ἀσφα-
+r.33   λὴν δὺς αὐτῷ τὸ ἀρ-
+r.34   γύριον ἐνένκαι μοι.
+r.35   ἄσπασαι τοὺς οὺς
+r.36   πάντας. ἔρρωσ[ο].
+
+[TRANSLATION]
+1   Copy. Dioskoros son of Zenodoros, Persian of the epigone, to Tryphon
+2   son of Dionysios, greeting. I acknowledge that I have from you, at the Sarapeion near the city of
+3   the Oxyrhynchi, through the bank of Archibios son of Archibios, fifty-two
+4   drachmas of Imperial silver coin as principal,
+5   to which nothing at all has been added; which I will also repay you on the thirtieth
+6   of the month Kaisareios of the present 3rd year of Nero Claudius
+7   Caesar Augustus Germanicus Imperator, without any
+8   postponement. And if I do not repay as written, I will forfeit to you
+9   the aforesaid principal increased by half, and for the time
+10   overdue the proper interest, you having the right of execution
+11   upon me and upon all my property,
+12   as if by legal judgment. This bond is valid wherever produced
+13   and for whoever produces it. Year 3 of Nero Claudius Caesar
+14   Augustus Germanicus Imperator, month Germanikeios 18, dies Augusta.
+15   Copy of the subscription. I, Dioskoros son of Zenodoros, have the fifty-two
+16   drachmas of silver as principal, and I will repay
+17   as stated above. I, Zoilos son of Horos, wrote for him since he does not know
+18   letters. Year 3 of Nero Claudius Caesar Augustus Germanicus
+19   Imperator, month Germanikeios 18, dies Augusta.
+20   Copy of the bank-note. Year 3 of Nero Claudius Caesar Augustus
+21   Germanicus Imperator, month Germanikeios 18, dies Augusta.
+22   Through Theon son of Syros, agent of Archibios the banker, the payment was made.
+23   (2nd hand) Tryphon to Ammonas
+24   the tall, his dearest,
+25   greeting. If you can,
+26   — I beg you — press
+27   Dioskoros and exact from
+28   him the
+29   bond; and
+30   if he gives you the money,
+31   give him a receipt,
+32   and if you find someone trust-
+33   worthy, give him the money
+34   to bring to me.
+35   Greet all your
+36   people. Farewell.

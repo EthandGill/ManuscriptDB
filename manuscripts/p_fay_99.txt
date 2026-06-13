@@ -1,0 +1,63 @@
+# ---------------------------------------------------------
+# P.Fay 99 - Receipt for rent in kind (2¼ artabas of grain)
+# Source: papyri.info DDbDP p.fay;;99  (Trismegistos 10941)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Fay 99
+label:    P.Fay 99
+name:     Receipt for rent in kind (2¼ artabas of grain)
+genre:    receipts
+date:     22. Juli 159
+language: Greek (Koine)
+found:    Euhemeria / Theadelphia (Arsinoite nome, Fayum), Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10792
+content:  Didyme, also called Matrona, acknowledges receipt from the farmer Heron of the rents in kind (2¼ artabas) due on her allotment for the 22nd year, dated under Antoninus.
+tm:       10941
+source:   https://papyri.info/ddbdp/p.fay;;99
+lat:      29.4239
+lon:      30.5536
+
+[GREEK]
+r.1   Διδύμη ἡ καὶ Μα-
+r.2   τρώνα Ἀσκληπιάδ(ου)
+r.3   μετὰ κυρίου τοῦ
+r.4   [κ]ατὰ μητέρα
+r.5   μου ἀνεψιοῦ
+r.6   Ἥρων[ο]ς τοῦ Ἀπολλ(ωνίου)
+r.7   Ἥρωνι Σαταβοῦτ(ος)
+r.8   γεωργ(ῷ) χαίριν . ἀπέχω
+r.9   παρὰ σοῦ τὰ ἐκφόρ[ια τ]οῦ
+r.10   κβ (ἔτους) ο̣ὗ̣ [γεω]ργεῖ<ς> μο[υ]
+r.11   κ̣λ̣ή̣ρου [ ̣ ̣] ἀ[ρ]τ̣ά̣β̣α̣ς̣
+r.12   δύο τ̣έ̣[ταρ]τ̣ο̣ν̣ ,
+r.13   τῆς ἀρταβείας καὶ
+r.14   τοῦ ναυβίου ὄν-
+r.15   τος πρὸς σὲ τὸν
+r.16   Ἥρωνα. (ἔτους) κβ
+r.17   Ἀντωνίνου Καίσα-
+r.18   ρος τοῦ κυρίου,
+r.19   Ἐπὶφ κη.
+
+[TRANSLATION]
+1   Didyme, also called Ma-
+2   trona, daughter of Asklepiades,
+3   with as guardian the
+4   [c]ousin on my mother's
+5   side,
+6   Heron son of Apoll(onios),
+7   to Heron son of Satabous,
+8   farmer, greeting. I have received
+9   from you the rent[s in kind o]f the
+10   22nd (year), which [you fa]rm of my
+11   all[ot]ment [..], arta[b]as
+12   two, a qua[rt]er,
+13   the artaba-charge and
+14   the embankment-tax be-
+15   ing chargeable to you,
+16   Heron. (Year) 22
+17   of Antoninus Caesa-
+18   r the lord,
+19   Epeiph 28.

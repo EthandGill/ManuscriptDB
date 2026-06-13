@@ -1,0 +1,85 @@
+# ---------------------------------------------------------
+# BGU 3.838 - Receipt for Grain by a Grain-Measurer
+# Source: papyri.info DDbDP bgu;3;838  (Trismegistos 41034)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.838
+label:    BGU 3.838
+name:     Receipt for Grain by a Grain-Measurer
+genre:    receipts
+date:     27. Febr. 578
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 2551
+content:  A receipt from Arsinoiton Polis in 578 CE in which the grain-measurer Aurelius Paulos acknowledges receiving four artabas of grain from the overseer Philoxenos, promising to repay them in the month Thoth.
+tm:       41034
+source:   https://papyri.info/ddbdp/bgu;3;838
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   [† μετὰ] τὴν ὑπατίαν
+r.2   [τοῦ] δεσπότου ἡμῶν Φλ(αουίου)
+r.3   [Ἰου]στίνου τοῦ αἰωνίου
+r.4   [Αὐγ]ούστου ἔτους τρισκαι-
+r.5   δεκάτου (καὶ) Φλ(αουίου) Τιβαιρίου
+r.6   Νέου Κωνσταντίνου
+r.7   Κέσαρος ἔτους τετάρτου
+r.8   Φαμενὼθ γ̣ια ἰν(δικτίωνος) ἐν̣ Ἀ[ρ(σινόῃ) †]
+r.9   Αὐρήλιος Παῦλος υἱὸς
+r.10   Γεροντίου σιτομέτρης
+r.11   ἀπὸ τῆς Ἀρσινοιτῶν
+r.12   πόλεως ἀπὸ ἀμφόδου
+r.13   Διονυσίου Σεβαστη-
+r.14   τῷ θαυμασιωτάτῳ
+r.15   Φιλοξένῳ ἐπιστάτῃ
+r.16   ἐργασίας σιτομετρῶν
+r.17   υἱῷ τοῦ μακαρίου Φοιβάμ-
+r.18   μωνος ἀπὸ τῆς αὐτῆς
+r.19   [πόλεως] χ(αίρειν). ὁμολογῶ
+r.20   ἐσχηκέναι με παρὰ σοῦ
+r.21   διὰ χειρὸς καὶ μεμετρῆσ-
+r.22   [θαι] ἐν γένει τοῦ κεφα-
+r.23   λαίου ἀρτάβας τέσσε̣ρ[ας]
+r.24   [ ̣] ̣ ̣δ μέτρῳ καγκέλ-
+r.25   λῳ ἐν τοῖς δημοσί[οις]
+r.26   ὁρρίοις, τὴν δὲ τούτων
+r.27   ἀπόδοσίν σοι ποιήσομαι
+r.28   μηνὶ Θὼ[θ ἀπ]ὸ καρ-
+r.29   [πῶν ]
+r.30   ἐπιστά(την) ἐρ̣γ̣[ασίας ]
+
+[TRANSLATION]
+1   [† After] the consulship
+2   [of] our master Flavius
+3   [Ius]tinus the eternal
+4   [Aug]ustus, the thirteenth year,
+5   (and) of Flavius Tiberius
+6   Novus Constantinus
+7   Caesar, the fourth year,
+8   Phamenoth, the 11th(?), of the indiction, in A[rsinoe †]
+9   Aurelius Paulos, son
+10   of Gerontios, grain-measurer (sitometres)
+11   from the city of the Arsinoites,
+12   from the quarter
+13   of Dionysios Sebaste,
+14   to the most admirable
+15   Philoxenos, overseer
+16   of the guild of grain-measurers,
+17   son of the late Phoibam-
+18   mon, from the same
+19   [city], greeting. I acknowledge
+20   that I have received from you
+21   by hand and have had measured out
+22   [to me] in kind, of the capital
+23   four artabas
+24   [ ] [...] 4, by the kankellos measure,
+25   in the public
+26   granaries; and the repayment of these
+27   I will make to you
+28   in the month Tho[th, fr]om the pro-
+29   [duce ]
+30   overseer of the gu[ild ]

@@ -1,0 +1,69 @@
+# ---------------------------------------------------------
+# BGU 4.1173 - Acknowledgement of repayment of a 100-drachma loan
+# Source: papyri.info DDbDP bgu;4;1173  (Trismegistos 18630)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1173
+label:    BGU 4.1173
+name:     Acknowledgement of repayment of a 100-drachma loan
+genre:    contracts
+date:     5 - 4 v.Chr.
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13076 Ro
+content:  Through the official Protarchos, Gaius Iulius Primus acknowledges to Lucius Cornelius Acutus that he has received back 100 Ptolemaic silver drachmas he had lent, with interest, voiding the loan and renouncing all future claims under penalty.
+tm:       18630
+source:   https://papyri.info/ddbdp/bgu;4;1173
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   Πρωτάρχωι
+r.2   παρὰ Γαείου Ἰουλίου Πρίμου καὶ παρὰ Λευκίου
+r.3   Κορνηλίου Ἀκούτου. συνχωρ[εῖ ὁ Γάιος ἀπε-]
+r.4   σχηκέναι παρὰ τοῦ Λευκίου διὰ χιρ[ὸς]
+r.5   ἐξ οἴκου ἃς ἐδάνισεν αὐτῷ κατὰ
+r.6   συνχώρησε̣[ιν] διὰ τοῦ αὐτοῦ κριτη-
+r.7   ρί[ου] τῷ ̣ ̣ ̣ ̣ [καὶ] εἰκοστῷ ἔτ[ει Καί]σ̣[α-]
+r.8   [ρος] Φαρμοῦθι ἀργυρίου Πτ[ολεμαι-]
+r.9   κ̣[ο]ῦ̣ (δραχμὰς(?)) ρ καὶ τοὺς τούτων τόκους
+r.10   τοῦ ὑπερπεπτοκότος χρόνου· εἶ-
+r.11   ναι μὲν ἄκυρον τὴν τ̣ο̣ῦ̣ [δαν]ή̣ο̣υ̣
+r.12   συνχώρησιν, μὴ ἐπελε[ύσεσθαι]
+r.13   δὲ τὸν Γάιον μηδʼ ἄλλον ὑπὲρ αὐ-
+r.14   τοῦ ἐπὶ τὸν Λεύκ[ιον μή]τε πε-
+r.15   ρὶ τῶν αὐτῶν μηδ̣ὲ̣ π̣ε̣ρ̣ὶ̣ ἄ̣λ̣λ̣ο̣υ̣ [μη-]
+r.16   δενὸς ἁπλῶς ἐνγράπτου [ἢ ἀγρά-]
+r.17   φου ἀπὸ τῶν ἔ[μ]προσθε[ν] χρόνων
+r.18   μέχρι τῆς ἐνεστώσης ἡμέρας
+r.19   ἢ ἐν[έ]χεσθαι τῷ ὡριζμέν[ῳ] πρ[οσ-]
+r.20   τίμῳ χωρὶς τοῦ κύρια εἶναι τ[ὰ συ]ν-
+r.21   κεχωρημένα. ἀξιοῦμεν ο̣ὖ̣ν̣.
+r.22   ε̣ὐ̣(τύχει).
+
+[TRANSLATION]
+1   To Protarchos,
+2   from Gaius Iulius Primus and from Lucius
+3   Cornelius Acutus. Gaius agrees [that he has re-]
+4   ceived back from Lucius by han[d]
+5   from house to house the sums which he had lent him according to
+6   an agreement through the same court
+7   in the [..] [and] twentieth ye[ar of Cae]s[a-]
+8   [r], Pharmouthi, of Pt[olemai]c silver
+9   (drachmas) 100 and the interest on these
+10   for the time overdue; and that
+11   the agreement of the [lo]an is void,
+12   and that Gaius shall not pro[ceed],
+13   nor any other on his behalf, against Luc[ius] nei-
+14   ther con[cerning] the same matters
+15   nor concerning any [oth]er thing
+16   whatsoever, written [or unwrit-]
+17   ten, from former times
+18   up to the present day,
+19   or shall be liable to the fixed pen[al-]
+20   ty, apart from the [agree]ments re-
+21   maining valid. We request therefore.
+22   Fare(well).

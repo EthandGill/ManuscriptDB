@@ -1,0 +1,103 @@
+# ───────────────────────────────────────────────
+# P.Oxy 3.496 — Marriage contract — Thaïs and Sarapion, with dowry of 4,100 drachmas
+# Source: papyri.info DDbDP p.oxy;3;496  (Trismegistos 20632)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Oxy 3.496
+label:    P.Oxy 3.496
+name:     Marriage contract — Thaïs and Sarapion, with dowry of 4,100 drachmas
+genre:    contracts
+date:     19 Apr 127 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Oxford, Bodleian Library MS. Gr. class. a. 9 (P) Ro
+content:  Gold jewelry weighed to the quarter, two sets of clothing, the slave Kallityche from grandmother — with full divorce, guardianship and inheritance clauses
+tm:       20632
+source:   https://papyri.info/ddbdp/p.oxy;3;496
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   ἔτους ἑνδεκάτου Αὐτοκράτορος Καίσαρος Τραιανοῦ Ἁδριανοῦ Σεβαστοῦ Φ[α]ρμ[ο]ῦθι κδ, ἐν Ὀξυρύγχων πόλει τῆς Θηβαίδος, ἀ[γα]θῇ [τύ]χῃ, ἐ̣[πὶ Ἰο]υλίας Σ̣[εβα]στ[ῆς] .
+r.2   ἐξέδοτο Σαραπίων Σαραπίωνος τοῦ Σαραπίωνος τοῦ Σαραπίωνος μητρ[ὸ]ς Θα[ί]δος Σαραπίωνος
+r.3   ἀπὸ [Ὀ]ξυρύ[γ]χω[ν π]ό[λ]εως τὴν [ἑ]αυ[τοῦ] θυ[γ]ατέρ[α] Θαίδα μη̣[τ]ρὸ[ς ̣ ̣ ̣]σ̣[ ̣ ̣]μ̣ι̣[ ̣ ̣ ̣] Σαραπ[ί]ω̣[νι Εὐδ]αίμονος τοῦ Θέων[ος μητρὸ]ς̣ Ἡρᾶτος τῆ[ς ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ μη]τρὸς Δ[ιδο]ῦτος, ἀ[πέχει δὲ ὁ γαμῶν παρὰ Σαραπίωνος τοῦ πατρὸς]
+r.4   [κ]αὶ ἐκδότου ̣ ̣ ̣τ̣ι̣ω̣ν ζ̣ε̣ῦ̣γ̣ο̣ς̣ μναιαίων τριῶν καὶ τετάρτων δεκ[α]τεσσάρωνἡμ[ί]σο[υς] π̣ερ[ον]εδ̣ι̣ον τετάρτων ὀκ̣[τ]ὼ̣[ἁπ]τ̣ώ̣δ̣ιον τετάρτων ἓξ ἁλυσείδι[ο]ν ἔχον χλωροὺς χ[ ̣ ̣]τους λ̣ί̣[θο]υ̣ τοῦ χρυσίου ἄγοντος τετά[ρτας ̣ ̣ ̣ ̣ἥ]μισυ ὡς εἶναι ἐπὶ τὸ [αὐτὸ χρυσίο]υ̣ σταθμῷ Ὀξυρυγχειτ[ικῷ] [ μναιαῖα πέντε καὶ τετάρτας ⁦ -ca.?- ⁩]
+r.5   [κα]ὶ ἱματίων συνθέσεις δύ̣ο̣ ζώνας δύο σανδυκίνη̣ν̣ ῥοδίνην ̣α̣τ̣ιον π̣ά̣λ̣ιον πάντα [δ]ὲ ἐν συντιμήσει ἀ[ρ]γυρίο[υ] δρα[χ]μῶ[ν] πεντακοσίων ἑξήκ[ο]ντα [κ]αὶ ἀργυρίου δραχμὰς χ[ι]λία[ς ὀ]κτακοσίας ἑξήκοντα ὡ[ς ε]ἶναι ἐ[π]ὶ τ[ὸ] αὐτὸ τὴν ὅλην φερνὴν [ἀργυρίου] Σεβαστοῦ νομίσματο[ς δραχμὰς τετρακισχιλίας ἑκατόν, καὶ ἡ]
+r.6   [τῆς] γαμουμένης μάμμη Θαὶς Σαραπίωνος μη[τ]ρὸς Ἡρακλού[το]ς ἀπὸ τῆς αὐτῆς π[όλεως] μετὰ κυρίου τοῦ ἑ̣αυτῆ̣[ς] μ̣ὲ̣ν̣ ἑ̣τ̣έ̣ρ̣ο̣υ̣
+r.7   υἱοῦ τοῦ δὲ ἐκδότου γνησίου ἀδελφοῦ Σαραπίωνος [Σα]ρ̣α̣π̣ί̣[ω]ν̣ο̣ς̣ [ὁ]μολογεῖ ἐν
+r.8   ἀγυι[ᾷ] τῇ αὐτῇ ἐγδοῦναι τὴ̣ν̣ Θ̣α̣ί̣δ̣[α κ]αὶ δίδωσι τῇ [αὐ]τῇ Θαίδι ̣[⁦ -ca.?- ⁩ Καλ-]
+r.9   [λιτ]ύχης καὶ [τ]ῶν ἐσομένων ἐξ αὐτῆς ἐκγόνων τὴν <δὲ> δουλείαν καὶ ἀπ[ο]φορὰς αὐτ[ῆς]
+r.10   συνέξει ὁ γαμῶν [ ̣ ̣] ̣μ̣[ ̣ ̣]μ̣ω̣ν τῇ γαμου[μ]ένῃ ἐφʼ ὅσον σύνεισι ἀλλή[λοι]ς, [ο]ὐκ ἐξόντος τ[ῷ] γ̣[αμοῦ]ν̣τ̣[ι
+r.11   ̣ ̣]ε̣τ̣ισθαι τὴν δούλ[η]ν̣ ἄ̣ν̣[ε]υ̣ τῆ̣[ς - ca.12 -]υ̣ ο̣ὐ̣δ̣έ τ̣ι προ̣σφερό̣μ̣[ενον ⁦ -ca.?- ⁩ οἰκίαν]
+r.12   [καὶ] αἴθριον κ[αὶ] αὐλὴν καὶ τὰ ταύτης χρηστήρια καὶ δοῦλα σώματα Σαραποῦν [καὶ]
+r.13   Νικαροῦν καὶ τὰ τῆς Ν[ικα]ροῦτος ἔκγονα Σαραποῦν καὶ Κέρδωνα καὶ [Ἐπίχ]α̣ρμον καὶ
+r.14   τὰ ἐσόμεν[α ἐξ α]ὐτῶν ἢ̣ ἄ̣λ̣ων ἔκ[γ]ονα κ[α]ὶ ἃ ἐ̣ὰ̣ν̣ π̣ρ̣ὸ̣[ς τούτοις ἐπ]ι̣κ̣τήσηται ἢ̣ προσκ ̣[⁦ -ca.?- ⁩ πωλεῖν οὐδὲ ὑποτίθεσθαι οὐδὲ ἄλλως καταχρη-]
+r.15   [μα]τίζειν χωρὶς εὐδοκούσης τῆς γαμουμένης. συμβιούτωσαν οὖν ἀλλή[λο]ις ἀμέμπτω[ς
+r.16   οἱ γ]αμοῦντες καὶ χορ[η]γείτω ὁ γαμῶν τῇ γαμουμένῃ τὰ [δ]έοντα κατὰ δύν[α]μιν, ἐ[ὰ]ν
+r.17   δέ τι διαφέρωντα[ι] πρὸς ἀλλήλους κ̣[αὶ βούλ]η̣ται ἡ γαμουμένη ἀ[παλλάσσεσθαι ἀπὸ
+r.18   τοῦ γαμοῦντος ⁦ -ca.?- ⁩ ἐπει-]
+r.19   [δὰν] ἡ ἀπαλλαγὴ [γ]ένηται <ἡ> γ̣αμ̣ο̣υ̣[μέ]ν̣η̣ μὲν ἀποσπάτω τ̣ὴ̣ν̣ δ̣[ο]ύ̣λην Καλλιτύχη[ν]
+r.20   καὶ τὰ ἐσόμενα ἐξ αὐτῆς ἔκγονα καὶ [ἀ]ποδότω ὁ γαμῶν τῷ ἐκδότῃ ἐὰν περιῆν , εἰ δὲ μή, τῇ γαμουμένῃ τὰς τῆς φερνῆς δ[ρ]αχμὰς τ̣ε̣τ̣ρα̣κ̣[ισχιλ]ίας ἑκατὸν ἐν ἡμέρα[ις ⁦ -ca.?- ⁩ ἀφʼ ἧς ἐὰν ἀπαιτηθῇ ἢ ἀποτεισάτω μεθʼ ἡμιολίας]
+r.21   [ ̣ ̣ ̣] ἕ̣κασ̣τα̣ κα̣ὶ̣ ̣ ̣τ̣αδε̣ ̣ ̣ ̣ ̣κ̣ιν̣ γένηται. ἐὰν δὲ ἔνκ̣υ̣ο̣[ς] οὖσα ἡ γα[μου]μένη ἀπαλλαγῇ δώσει αὐτῇ ὁ γαμῶν ἄλλας εἰς
+r.22   λόγον λοχείας δραχμὰς ἑξήκοντ[α] . [σ]υνφερομένων δʼ αὐτῶν εἴη μὲν ὑγεία, ἐ̣ὰ̣ν̣ δ̣[ὲ] ̣ ̣ ̣ ̣η̣ τ̣ι̣ν̣α̣ τῶν γαμούντω[ν τελευτῆσαι ⁦ -ca.?- ⁩ ἐχέτω ὁ γα-]
+r.23   [μῶν] τὴν κατὰ τῶν ἑαυτοῦ ἐξου[σί]αν ἃ̣ ἐὰν αἱρῆται ἐπιτελε[ῖ]ν καὶ οἷς ἐὰν βούλη[ται]
+r.24   μερίζε[ιν], ἐὰν δὲ μηδὲν [ἐ]πιτελέσῃ εἶναι καὶ αὐτὰ μετὰ τελευτὴν αὐτοῦ τῶν ἐξ ἀλλή[λ]ων
+r.25   [τ]έκνω[ν]. ε̣ἰ̣ δὲ ἦν [ὁ] γαμῶν πρότερος [τ]ε̣τελ[ε]υτηκ[ὼ]ς ἐχέτω ἡ γαμουμένη [⁦ -ca.?- ⁩]
+r.26   [ ̣ ̣ ̣ ̣] ἔ̣στω ἡ γαμουμένη κατὰ τὸ ἥ̣μ̣[ισυ] ἢ̣ ὁ̣ ἔγγιστος καὶ ὁ ὑπὸ τοῦ γαμοῦντ[ος] κατασταθησόμ[ε]νος
+r.27   κατὰ τὸ ἕτερον ἥμισυ ἀμφότεροι ἐπίτροποι, <τῶν> τέ̣κ̣νων παρὰ τῇ μητρὶ διαιτ[ο]υμένων ἕως ἡλικίας γέ[ν]ωντ[αι]. ἐὰν δὲ μηδένα ὁ γαμῶν τῆς ἡμισεί[ας ἐπιτροπῆς ἐπίτροπον καταστήσῃ ἔστω μόνη ἡ γαμουμένη ἢ]
+r.28   ὁ̣ [ἔ]νγιστος , οὐδενὶ ἐξόντ[ο]ς ἐ̣κ̣β̣ά̣[λλε]ι̣ν αὐτὴν τῆς ἐπιτροπῆς οὐδὲ μέρ[ου]ς. ἐὰν δὲ ἡ γαμουμένη
+r.29   προτέρα τελευτήσῃ τέκνων αὐτοῖς μὴ ὄντων ἐξ ἀλλήλων ἢ καὶ τῶν γενομένων μεταλλαξάντων
+r.30   ἀτέκνων ἀποδότω ὁ γαμῶν τὰ ἐ[ν φερνῇ ⁦ -ca.?- ⁩ ἀργυρίου δραχμὰς τετρα-]
+r.31   κισχιλίας ἑκατὸν ἐν ἡμέραις ἑξ[ή]κοντα καὶ ἀναπεμπέσθω εἰς τοῦς αὐτοὺς περὶ τὴν γαμουμένην τὰ ἄλλα αὐτῆς πάντα. ἐὰν δὲ ὡσαύτως
+r.32   ὁ γαμῶν [π]ρ[ό]τερος τελευτήσῃ τ[έκ]νων α[ὐ]τοῖς μὴ ὄντων ἐξ ἀλλήλων ἢ καὶ τῶν γενομένων
+r.33   ἐπιμετα[λλαξάντων ἀτέκνων]
+r.34   ἀποσπάσασα τὴν δούλην Καλλιτύχην καὶ τὰ ἐσόμενα ἐξ αὐτῆς ἔκγονα, ἕως δʼ ἂν κομίσηται
+r.35   κυριευέτω πάντων, ἐπὶ δὲ πασῶν τῶν διαστολῶν ἐκλογῆς οὔσης περὶ τὴν γαμουμένην ἐὰν
+r.36   αἱρω̣ται ἔχειν τὰ προκείμενα ἐν φερνῇ χρυσία [ἄγοντα τὴν αὐτὴν ὁλκὴν ἢ τὴν ἴσην συντίμησιν]
+r.37   τῆς πράξεως γινομένης τῇ γαμουμένῃ καὶ τοῖς αὐτῆς ἔκ τε τοῦ γαμοῦντος καὶ ἐκ τῶν ὑπαρχόντων
+r.38   αὐτῷ π[ά]ντων καθότι πρὸς ἀλλήλους συνεχώρησαν. γνωστὴρ ἀμφοτέρων (hand 2) Δ[ι]ογένης
+r.39   Ἱέρακος γραμμ[ατεὺς ἀπ]ὸ τῆς αὐτῆς πόλεως ἐν̣ [ἀγυιᾷ τῇ αὐτῇ].
+
+[TRANSLATION]
+1   In the eleventh year of Imperator Caesar Trajan Hadrian Augustus, Ph[a]rm[ou]thi 24, in the city of the Oxyrhynchi in the Thebaid, with good fortune, in the priesthood of [Ju]lia A[ugu]sta.
+2   Sarapion son of Sarapion son of Sarapion son of Sarapion, his mother being Tha[ï]s daughter of Sarapion,
+3   of the city of the [O]xyrhynchi, has given his own daughter Thaïs, her mother being […], in marriage to Sarap[i]on son of [Eud]aimon son of Theon, [his mother bei]ng Heras daughter of […, her mo]ther being D[ido]us; [and the bridegroom acknowledges receipt from Sarapion the father]
+4   [an]d giver: a pair of … of three minaiai and fourteen and a half quarters, a brooch of eight quarters, a clasp of six quarters, a little chain with green … stones — the gold weighing […] and a half [quart]ers — so that in all there is, by the Oxyrhynchite stan[dard, gold of five minaiai and … quarters,]
+5   [an]d two sets of clothing, two girdles, one flame-colored, one rose-colored, a … mantle — all at a joint valuation of five hundred and sixty silver drachmas — and one thousand eight hundred and sixty silver drachmas, so that the whole dowry together is [four thousand one hundred drachmas of] Imperial [silver] coin; [and the]
+6   grandmother [of the] bride, Thaïs daughter of Sarapion, her mother being Heraklou[s], of the same c[ity], with as guardian her own
+7   other son — full brother of the giver — Sarapion son of [Sa]rapi[o]n, acknowledges, in
+8   the same stree[t], that she has given the Thaï[s] in marriage, and gives to the [sa]me Thaïs [… the slave Kal-]
+9   [lit]yche and the offspring to be born of her; <but> her service and earnings
+10   the bridegroom shall hold together … with the bride so long as they live with one another, it not being lawful for the [bridegr]oo[m]
+11   to […] the slav[e] with[out the …] nor anything brought in [… Also a house]
+12   [and] light-well a[nd] court and its fixtures, and the slave bodies Sarapous [and]
+13   Nikarous and the offspring of N[ika]rous — Sarapous and Kerdon and [Epich]armos — and
+14   what offspring shall be born of them or of others, and whatever she may acquire [besides these] or …[… — these he may not sell nor pledge nor otherwise dis-]
+15   [po]se of without the consent of the bride. So let the married pair live together with one another blamelessly,
+16   and let the bridegroom furnish the bride with necessaries according to his means; and if
+17   they differ with one another a[nd] the bride [wishes to separate from
+18   the bridegroom …, then,]
+19   [when] the separation has taken place, let the bride take away the s[l]ave Kallityche
+20   and the offspring born of her, and let the bridegroom repay — to the giver if he survives, otherwise to the bride — the four thou[sand] one hundred drachmas of the dowry within [… days from demand, or let him pay it with half again;]
+21   […] each … and … be done. And if the bride is pregnant when she separates, the bridegroom shall give her another sixty drachmas toward
+22   the expenses of her confinement. While they live together, may there be health; but if it happen that one of the married pair [die …, let the bride-]
+23   [groom] have power over his own property, to bestow whatever he chooses and to share out to whom he
+24   will; and if he bestow nothing, these things too shall after his death belong to the children born of them
+25   both. And if [the] bridegroom have died first, let the bride have […]
+26   […] let the bride be (guardian) as to the ha[lf], or the next-of-kin, and the man to be appointed by the bridegroo[m]
+27   as to the other half — both guardians — the children being maintained with their mother until they come of age. And if the bridegroom appoint no one [as guardian] of the half [guardianship, let the bride alone, or]
+28   the [n]ext-of-kin, (be guardian), it being lawful for no one to ca[st] her out of the guardianship or any part of it. And if the bride
+29   die first, there being no children of them both, or those born having passed away
+30   childless, let the bridegroom give back what is [in the dowry …: the four thou-]
+31   sand one hundred [silver drachmas] within six[t]y days, and let all her other property be remitted to the same kin of the bride. And if likewise
+32   the bridegroom die first, there being no children of them both, or those born having
+33   after[wards passed away childless,]
+34   (the bride shall recover it,) taking away the slave Kallityche and the offspring to be born of her — and until she recover it,
+35   let her be mistress of everything; and in all the stipulations the choice rests with the bride, if
+36   she choose, to have the gold objects named in the dowry [at the same weight, or their equal valuation,]
+37   the right of execution belonging to the bride and hers both upon the bridegroom and upon all his
+38   property, according as they agreed with one another. Identifier of both parties: (2nd hand) D[i]ogenes
+39   son of Hierax, scri[be, o]f the same city, in [the same street].

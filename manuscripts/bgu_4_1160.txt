@@ -1,0 +1,43 @@
+# ---------------------------------------------------------
+# BGU 4.1160 - Deed of security (cheirographon) - waiver of all claims
+# Source: papyri.info DDbDP bgu;4;1160  (Trismegistos 18610)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1160
+label:    BGU 4.1160
+name:     Deed of security (cheirographon) - waiver of all claims
+genre:    contracts
+date:     5-4 BCE
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13115 Ro \[2\
+content:  Timokrates undertakes to Strobilos and Philemon that neither he nor anyone on his behalf will bring any claim, written or unwritten, against them, on pain of damages and a 3000-drachma penalty
+tm:       18610
+source:   https://papyri.info/ddbdp/bgu;4;1160
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   Τειμοκράτης Τιμοκράτους Στροβείλῳ
+r.2   Ἥρωνος καὶ Φιλήμονι Στροβείλου χαίρε(ιν). ὁμολογῶ μ̣ή̣[τε]
+r.3   αὐτὸ(ς) μήτʼ ἄλλο(ν) ὑπέρ μου μηδέ(να) ἐπελ(εύσεσθαι) ἐφʼ ὑμᾶς
+r.4   περὶ μηδενὸ(ς) ἁπλῶ(ς) ἐνγράπ(του) ἢ ἀγρά(φου) ἢ ὀφειλή(ματος) ἢ [ἀπαιτή(ματος)]
+r.5   ἢ διαγραφῶν καθʼ ὁντινοῦν τρόπ(ον) ἀπὸ τῶν ἔμπροσθ(εν) χρό(νων) μέχρι τῆ(ς) ἐνε(στώσης)
+r.6   ἡμέρ(ας) [ ̣ ̣ ̣ ̣ ̣]
+r.7   παρευρέσει μηδεμιᾷ ἢ χωρὶς τοῦ κύρια εἶναι τὰ ὡ̣μ̣ο̣λ̣ο̣γ̣[η-]
+r.8   μένα ἐκτείσειν ὑμεῖν κ̣α̣θʼ ὃ ἐ̣ὰ̣ν̣ π̣α̣ρ̣α̣βαίνωι τά τε βλ(άβη) καὶ δαπ(ανήματα) καὶ ὡς ἴδ(ιον) χρέο(ς) ἀρ[γυ(ρίου)] (δραχμὰς) Γ,
+r.9   ἡ δὲ χ̣ε̣ὶ̣ρ̣ ἥδε κυρί̣α̣ ἔ̣σ̣τ̣ω̣.
+
+[TRANSLATION]
+1   Timokrates son of Timokrates, to Strobilos
+2   son of Heron, and to Philemon son of Strobilos, greeting. I acknowledge that nei[ther]
+3   I myself nor anyone else on my behalf shall proceed against you
+4   concerning anything at all, written or unwritten, whether debt or [claim]
+5   or payments, in any manner whatsoever, from former times up to the present
+6   day [...]
+7   on no pretext; or, apart from the things agr[eed] remaining valid,
+8   I will pay to you, for whatever I transgress, both the damages and expenses, and as a private debt 3000 silver drachmas;
+9   and let this bond be valid.

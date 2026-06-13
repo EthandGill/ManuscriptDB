@@ -1,0 +1,95 @@
+# ---------------------------------------------------------
+# P.Oxy 2.290 - Register of private dikes
+# Source: papyri.info DDbDP p.oxy;2;290  (Trismegistos 20561)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.290
+label:    P.Oxy 2.290
+name:     Register of private dikes
+genre:    documents
+date:     83 - 84
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Philadelphia, University of Pennsylvania Museum E 2761
+content:  A register from year 3 of Domitian listing private embankments at Oxyrhynchus and the landholders, with their aroura-assessments, responsible for maintaining them.
+tm:       20561
+source:   https://papyri.info/ddbdp/p.oxy;2;290
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   γραφὴ ἰδιωτικ(ῶν) χωμάτ(ων)
+r.2   τοῦ γ (ἔτους) Αὐτοκράτορος
+r.3   Καίσαρος Δομιτιανοῦ
+r.4   Σεβαστοῦ Γερμανικοῦ,
+r.5   εἶναι δέ·
+r.6   Τύχ(ιος) Νεκώ(τιος), χῶμα λεγό(μενον)
+r.7   Πάψις, τὸ ἀγό(μενον) κατʼ ἐπιβολ(ὴν)
+r.8   ὧν ἕκαστ(ος) ἔχει (ἀρουρῶν)
+r.9   ὑπὸ τῶν ὑπογεγραμμέ(νων)
+r.10   ἀνδ(ρῶν), σχοι(νίου) 𐅵δ´ιϛ´·
+r.11   Ὡρίωνος Ἁρπαήσι(ος) (ἄρουραι) ιϛ,
+r.12   Δημητρις καὶ Θέων ἀμφό(τεροι)
+r.13   Διδ(ύμου) ἐξ ἴσου νϛγ´,
+r.14   Διδύμη Ὡρίωνο(ς) καὶ Ἁρθοῶ(νις)
+r.15   Θοώ(νιος) τοῦ Ἁρθοώ(νιος) καὶ Τανεχώ(της)
+r.16   Ὡρίω(νος) ιη,
+r.17   Σαμβοῦς Διονυσίου γ,
+r.18   Σαραπ(ίων) καὶ Χαιρή(μων) κ[αὶ] Δι[ο]νυσία
+r.19   οἱ γ Διον(υσίου) Σαραπ(ίωνος) Ἀθηνα(ίου) ϙα,
+r.20   τῶν ἐκ τοῦ οἴκου (διὰ) Ὡρίω(νος)
+r.21   προστάτου σ,
+r.22   Πετσί(ριος) το(ῦ) κ(αὶ) Ἀντιτ( ) Πετσί(ριος) τε̣τ̣έλ(εσται)
+r.23   (διὰ) Τοτοέως Ὀννώφ(ριος)
+r.24   ἀποπιμπ(λὰς(?)) α,
+r.25   Τασενθέως Ὀννώφ(ριος) β ,
+r.26   Τσένυρις Ἐργέω[ς] γ,
+r.27   Στρούθης Στρούθ(ου) το(ῦ) Πετσί(ριος) α,
+r.28   Ἡρακλείδ(ης(?)) Ἡρακλ(είδου) ἀποπιμπ(λὰς) α,
+r.29   Τιβερίου Κλαυδ(ίου) Θέωνο(ς) υἱο(ῦ)
+r.30   Σαραπίωνο(ς) ϛ,
+r.31   Πετσίριος το(ῦ) κ(αὶ) Ἀνικήτ(ου) Ἰναρω( )
+r.32   υἱῶν γ𐅵,
+r.33   (γίνονται) ἄρο(υραι) υα𐅵γ´.
+r.34   καὶ ἀπὸ λιβ(ὸς) δημοσίου χώματ(ος)
+r.35   […]οι[ ̣ ̣] ̣ δημοσι( )
+
+[TRANSLATION]
+1   Register of private embankments
+2   of the 3rd year of the Imperator
+3   Caesar Domitianus
+4   Augustus Germanicus,
+5   and these are (the items):
+6   Tychios son of Nekos, embankment called
+7   Papsis, that maintained according to the assessment-allotment
+8   of which each holds (in) arouras
+9   by the men listed below,
+10   (measuring by) cord: ½ + ¼ + 1/16;
+11   Horion son of Harpaesis: 16 arouras,
+12   Demetris and Theon, both
+13   sons of Didymos in equal shares: 50 1/3,
+14   Didyme daughter of Horion and Harthoonis
+15   son of Thoonis son of Harthoonis and Tanechotes
+16   (daughter) of Horion: 18,
+17   Sambous (daughter) of Dionysios: 3,
+18   Sarapion and Chairemon a[nd] Di[o]nysia,
+19   the three children of Dionysios son of Sarapion son of Athenaios: 91,
+20   of those from the household, (through) Horion
+21   the overseer: 200,
+22   Petsiris also called Antit( ) son of Petsiris: paid in full,
+23   (through) Totoeus son of Onnophris,
+24   completing(?): 1,
+25   Tasentheus (daughter) of Onnophris: 2,
+26   Tsenyris (daughter) of Ergeus: 3,
+27   Strouthes son of Strouthos son of Petsiris: 1,
+28   Herakleides(?) son of Herakleides, completing: 1,
+29   (of) Tiberius Claudius son of Theon
+30   son of Sarapion: 6,
+31   Petsiris also called Aniketos, Inaro( )
+32   for the sons: 3½,
+33   total: 401½ + 1/3 arouras.
+34   And from the west of the public embankment
+35   [...]oi[..]. public( )

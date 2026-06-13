@@ -1,0 +1,51 @@
+# ───────────────────────────────────────────────
+# BGU 3.854 — Deed of sale — a two-storey house at Soknopaiou Nesos
+# Source: papyri.info DDbDP bgu;3;854  (Trismegistos 45593)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.854
+label:    BGU 3.854
+name:     Deed of sale — a two-storey house at Soknopaiou Nesos
+genre:    contracts
+date:     18 May 45 CE
+language: Greek (Koiné)
+found:    Soknopaiou Nesos (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 6857
+content:  Thases sells Herieus her two-storey house; price received hand-to-hand; both women sign by proxy
+tm:       45593
+source:   https://papyri.info/ddbdp/bgu;3;854
+lat:      29.5377
+lon:      30.6856
+
+[GREEK]
+r.1   [Θασῆς ἡ Πανεφρέμμεως μητρὸς] Θερμοῦθις ὁμ[ολογῶ πεπρακέ]ν̣α̣ι̣ Ἑρ[ιέως] τῆς Σαμβαθίων μητρὸς Θα̣[σ]ῆς το ὑπα̣ρχοντα μοι οἰκίαν δίσστηκον καὶ των συνκυρ[ο]ντω
+r.2   [πάντων ἐν τῇ Σοκνοπαίου Νήσο]υ̣ τ̣ῆς Ἡρακ[λείτου (μερίδος) τοῦ Ἀρσινοείτου νο]μ̣οῦ
+r.3   ὧν γίτ̣[ο]ν̣ο̣ς̣ ὥλης τ[ῆ]ς οἰκίας νότου καὶ λιβὸς ῥύμη βασιλικης βωρας Τεσενουφι̣
+r.4   [οἰκία ὧν ἐπικρατεῖ τὰ τέκνα] ἀπ̣η̣λ̣ι̣ώ̣[τ]ο̣υ Ἑρ̣ι̣[έως τῆς Σαμ]β̣α̣θ̣ί̣ω̣ν̣[ος
+r.5   οἰκία] καὶ ἀπέχ[ω] παραχρῆμα διὰ χιλὸς [ἐ]ξ ὔκου τὴν συνκεχω[ρ]ημενη τιμὴν πᾶσαν
+r.6   [ἐκ πλήρους καὶ βεβαιώσω] πάσῃ βεβα̣ιώ[σει ἀπὸ τῆς] ἐ̣νεσ[τώ]σ[ης ἡμ]έλας ἐπὶ [τὸν ἅπ]α̣ν̣τ̣α̣ χρω[ν]ου καὶ τὰ ἄλλα ποιήσου γαθώτι πρωγέγραπται καὶ ἐπιτέ-
+r.7   [ταχα τοῖς μάρτυσι γράφε]ιν κα̣ὶ τ̣ὴ̣ν̣ γρα[φὴν(?) τῷ πρὸς τῷ γρα]φίου χ̣α̣ρ̣ά̣ξ̣α̣ν̣τ̣ι̣ ἀπ[ο]τάξ̣α̣σ̣θ̣[αι]. ἔγραψεν ὑπὲρ αὐτῆς Π̣α̣παῖς Πα ̣ ̣σήους διὰ τὸ μὴ εἰταίναι αὐτὴν
+r.8   [γράμματα. Ἑριεὺς ἡ Σαμβα]τίωνος μητ[ρὸς Θασῆτος ἠγ]ώλακα [ὡς] πρόκιτ̣ε̣ . ἔγραψεν ὑπὲρ αὐτῆς Λεοντᾶς Εἰρ[η]ναίου διὰ των μὴ τ̣ον α̣ὐτὴν
+r.9   [εἰδέναι γράμματα πρᾶσις καὶ ἀποστα]σ̣ίο̣υ οἰκίας δι̣[σστήκου] [καὶ τῶ]ν σ̣υ̣[νκ]υ̣ρ̣ό̣ν̣[τω]ν̣ πάντων ἐν τῇ Σοκνοπαίου νήσου τῆς Ἡρακλείτου μερίδος ὧν γίτονο̣ς ὥλης τῆς
+r.10   [οἰκίας νότου καὶ λιβὸς ῥύμη βασιλ]ικὴ βορρᾷ̣ [Τεσενούφιος οἰκία ὧν ἐπι]γ̣ρ̣α̣τ̣ῖ [τὰ τέ]κ̣να ἀπηλώ̣τ̣ο̣υ Ἑριέως Σα[μ]βαθίονος οἰκία καὶ ἀπέχι τὴ[ν] τιμὴν καὶ βεβαιοιτε ἣν [πο]ιεῖτε Θαηση
+r.11   [ἡ Πανεφρέμμεως μητρὸς Θερμο]ῦ̣θις ὡ(ς) (ἐτῶν) γ[ ̣ φακὸς μετώπου] [ἀρισ]τερα [καὶ] Ἑριέ[ως] τῆς Σαμβαθίονος μητρὸς Θασῆς ὡ(ς) (ἐτῶν) λη (ὁμοίως) φα̣κ̣ὸ̣ς̣ μετόπου ἀριστερα . ὑ[π]ογραφεὺς
+r.12   [- ca.45 -] ̣ ̣ ̣ ̣[ ̣ ̣ ̣ ̣ ̣ ̣ ̣ κ]α̣ὶ τ̣η ἀλλη Λεοντᾶς Εἰρηνέου (ἐτῶν) κ̣ ἄ̣ζημος . ἔτους πέμπτου Τιβερίου Κλαυδίου
+r.13   [- ca.45 - Πα]χὼν κ. ἀναγ̣έ̣γραπτει διὰ τω ἐν τῇ Σοκνοπαίου νήσου γραφίου .
+
+[TRANSLATION]
+1   [Thases, daughter of Panephremmis, my mother being] Thermouthis: I acknowledge [that I have sold] to Herieus, daughter of Sambathion, her mother being Thases, the two-storey house belonging to me with all its appurtenances,
+2   [all of them, at Soknopaiou Neso]s in the Herak[leides division of the Arsinoite no]me,
+3   the neighbors of the whole house being: on the south and west the royal road, on the north the house of Tesenouphis,
+4   [over which his children hold control,] on the east the [house] of Herieus daughter of Sambathion;
+5   and I have received at once, from hand to hand out of the house, the whole agreed price
+6   [in full, and I will guarantee it] with every guarantee from the present day for all time, and I will do the rest as written above, and I have in-
+7   [structed the witnesses to wri]te, and that the deed be drawn up by the clerk at the record-office. Papais son of Pa..ses wrote on her behalf because she does not know
+8   [letters. I, Herieus daughter of Samba]tion, my mother being Thases, have bought as aforesaid. Leontas son of Eirenaios wrote on her behalf because she does not
+9   [know letters. Sale and ces]sion of a two-storey house [and] all its appurtenances at Soknopaiou Nesos in the Herakleides division, the neighbors of the whole
+10   [house being: on the south and west the roy]al [road], on the north [the house of Tesenouphis, over which] his children hold control, on the east the house of Herieus daughter of Sambathion; and she has the price and gives guarantee — done by Thases
+11   [daughter of Panephremmis, mother Thermo]uthis, aged about 3(?), a mole on the left of her forehead; and Herieus daughter of Sambathion, mother Thases, aged about 38, likewise a mole on the left of her forehead. Subscriber:
+12   […] … and the other (signatory): Leontas son of Eirenaios, aged about 20, without distinguishing mark. In the fifth year of Tiberius Claudius
+13   [Caesar Augustus Germanicus Imperator, Pa]chon 20. Registered through the record-office at Soknopaiou Nesos.

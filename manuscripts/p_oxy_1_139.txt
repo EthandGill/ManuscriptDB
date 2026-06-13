@@ -1,0 +1,91 @@
+# ---------------------------------------------------------
+# P.Oxy 1.139 - Sworn bond of an estate chief-guard against theft
+# Source: papyri.info DDbDP p.oxy;1;139  (Trismegistos 20778)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.139
+label:    P.Oxy 1.139
+name:     Sworn bond of an estate chief-guard against theft
+genre:    documents
+date:     26 Oct 612 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10049
+content:  Aurelius Menas, chief-guard on the Apion estate, binds himself to pay 24 solidi per offense if he or his men are ever found stealing machine-parts or oxen, or harboring brigands
+tm:       20778
+source:   https://papyri.info/ddbdp/p.oxy;1;139
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   [† ἐν ὀνόματι τοῦ κυρίου καὶ δεσπότου Ἰησοῦ]
+r.2   [Χριστοῦ του θεοῦ καὶ σωτῆρος ἡμῶν],
+r.3   [δεσπότου μεγίστου εὐεργέτου Φλ(αουίου) Ἡρακλείου]
+r.4   [τοῦ αἰωνίου Αὐγούστου] καὶ Αὐτοκρ(άτορος)
+r.5   ἔτ[ους γ], Φ[αῶ]φι κθ, ἰνδ(ικτίονος) α.
+r.6   Φλ(αουίῳ) Ἀπίωνι τῷ πανευφήμῳ καὶ ὑ περφ(υεστάτῳ)
+r.7   ἀπὸ ὑ πάτων καὶ πατρικίῳ, γεουχοῦντι καὶ
+r.8   ἐνταῦθα τῇ λαμπρᾷ Ὀξυρ(υγχιτῶν) πόλ(ει), διὰ Μηνᾶ
+r.9   οἰκέτου τοῦ ἐπερωτῶντος καὶ προσπορ(ίζοντος)
+r.10   τῷ ἰ δίῳ δεσπότῃ τῷ αὐτῷ πανευφ(ήμῳ)
+r.11   ἀνδρὶ τὴν ἀγωγὴν καὶ ἐνοχήν,
+r.12   Αὐρήλιος Μηνᾶς πρωτοφύλαξ, υἱὸς
+r.13   Ὦρ μητρὸς Ἡραίδος, ἀπὸ κώμης
+r.14   Ἀδαίου τοῦ Ὀξυρ(υγχίτου) νομοῦ παγαρχουμέ(νης)
+r.15   παρὰ τῆς ὑ μετέρας ὑ περφ(υείας). ὁμολογῶ
+r.16   τῇ ὑ μετέρᾳ ὑπερφ(υείᾳ) διὰ τῶν αὐτῇ
+r.17   προσηκόντων, ὡς ε̣ἴ ποτε καιρῷ
+r.18   ἢ χρόνῳ φανομεν κλέψαντες
+r.19   μηχανικὰ σκεύη ἢ βοί δια,
+r.20   ἢ οἱανδήποτε κλοπὴν
+r.21   ποιήσαντες, ἢ ὑ ποδέξασθαι
+r.22   λιστάς , ἐπὶ τῷ ἐμὲ παρασχεῖν
+r.23   τῇ ὑ μετέρᾳ ὑπερφ(υείᾳ) ὑ πὲρ
+r.24   ἑκάστου ἐγχειρήματος χρυσίου
+r.25   νομίσμ(ατα) εἴκοσι τέσσαρα , ἔργῳ καὶ
+r.26   δυνάμει ἀπαιτούμ(ενα) κινδ(ύνῳ) ἐμῷ καὶ
+r.27   τῆς ἐμῆς ὑ ποστάσεως. κυρ(ία)
+r.28   ἡ ὁμολ(ογία) ἁπλ(ῆ) γραφ(εῖσα), καὶ ἐπερ(ωτηθεὶς) ὡμολ(όγησα). †
+r.29   Μηνᾶς υἱὸς Ὦρ, στοιχεῖ μοι
+r.30   αὕτη ἡ ὁμολ(ογία) ὡς πρ(όκειται). Ἰωάν[ν]ης
+r.31   ἔγρ(αψα) ὑ(πὲρ) αὐτοῦ ἀγρ(αμμάτου) ὄντος.
+r.32   Μηνᾶ πρωτοφύλακ(ος), υἱοῦ Ὦρ, ἀπὸ κώμ(ης) Ἀδαίου τοῦ Ὀξυρυγχ(ίτου)
+r.33   νομοῦ. †
+
+[TRANSLATION]
+1   [† In the name of the Lord and Master Jesus]
+2   [Christ our God and Savior,]
+3   [(in the reign of) our greatest lord and benefactor Fl(avius) Heraclius,]
+4   [the eternal Augustus] and Imperator,
+5   ye[ar 3], Ph[ao]phi 29, indiction 1.
+6   To Fl(avius) Apion, the all-praiseworthy and most magnificent,
+7   ex-consul and patrician, landholder also
+8   here in the illustrious city of the Oxyr(hynchites), through Menas
+9   the servant, who puts the question and secures
+10   for his own master, the same all-praiseworthy
+11   man, the right of action and obligation —
+12   Aurelius Menas, chief-guard, son
+13   of Hor, his mother being Herais, from the village
+14   of Adaios in the Oxyr(hynchite) nome, governed as a pagarchy
+15   by your magnificence. I acknowledge
+16   to your magnificence, through those belonging to it,
+17   that if ever, at any season
+18   or time, we be found to have stolen
+19   machine-parts or oxen,
+20   or to have committed any theft whatever,
+21   or to have harbored
+22   brigands — on condition that I furnish
+23   to your magnificence, for
+24   each offense, of gold
+25   twenty-four solidi, in deed and
+26   in effect exacted, at my own risk and
+27   (that) of my property. Valid is
+28   the acknowledgment, written in single copy, and on question I acknowledged it. †
+29   I, Menas son of Hor — it is agreeable to me,
+30   this acknowledgment, as aforesaid. I, Joh[n],
+31   wrote on his behalf, (he) being illiterate.
+32   (Bond) of Menas chief-guard, son of Hor, from the village of Adaios of the Oxyrhynch(ite)
+33   nome. †

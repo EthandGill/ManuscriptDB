@@ -1,0 +1,69 @@
+# ───────────────────────────────────────────────
+# BGU 4.1073 — Letter — the council of Oxyrhynchus confirms an athlete’s immunity
+# Source: papyri.info DDbDP bgu;4;1073  (Trismegistos 18516)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1073
+label:    BGU 4.1073
+name:     Letter — the council of Oxyrhynchus confirms an athlete’s immunity
+genre:    letters
+date:     Jan–Feb 274 CE
+language: Greek (Koiné)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 10538
+content:  The city council notifies the property-archive keepers that Aurelius Apollodidymos, enrolled in the sacred synod, holds tax immunity
+tm:       18516
+source:   https://papyri.info/ddbdp/bgu;4;1073
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   ἀ(ντίγραφον(?))
+r.2   Ὀξυρυγχι[τ]ῶν τῆ[ς] λαμπρᾶς καὶ λαμπροτάτης πόλ(εως)
+r.3   ἡ κρ(ατίστη) βουλὴ δι[ὰ] Αὐρηλίου Εὐπόρου τοῦ κ(αὶ) Ἀγαθοῦ Δαί-
+r.4   μονος, γενομένου κοσμητοῦ, ἐξηγητοῦ, ὑπομνημα-
+r.5   τογρά(φου) τῆ[ς] λαμπροτάτης πόλ(εως) τῶν Ἀλεξ(ανδρέων), πρυτ(ανεύσαντος)
+r.6   καὶ ὡς χρημα(τίζει), βουλευτοῦ, ἐνάρχου πρυτάνεως,
+r.7   βιβλιοφύλαξι ἐνκτήσεων τοῖς φιλ(τάτοις) χαίρειν·
+r.8   δίκαια ἡμῖν παρέθετο ἑαυτοῦ ἠρτημένα
+r.9   καθολικῶν νόμων Αὐρήλιος Ἀπολλοδίδυ-
+r.10   μος Πλουτίωνος περὶ τοῦ καταλ[ε]λέχθαι
+r.11   αὐτὸν εἰς τὸν σύλλογον τῆς ἱ ερᾶς συνόδου,
+r.12   καὶ κατὰ τὰ εἰθισμένα προσκυνήσαντες
+r.13   τὰ θεῖα ἔτι μᾶλλον ταῦτα αὐτῷ ἐβεβαιώ-
+r.14   σαμεν. ἐπεὶ οὖν ἀκόλουθον ἔγνωμεν εἶ-
+r.15   ναι ταῦ̣τα φανερ(ῶς) ἀν̣ενέγκαι ὑμῖν, ἵνʼ εἰδῆ-
+r.16   τε τὴν ὑπάρχουσαν αὐτῷ ἐκ τῶν
+r.17   νόμων ἀτέλιαν καὶ τὴν δέουσαν πα-
+r.18   ράθεσιν ποιήσησθε τῷ ὀνόματι αὐ-
+r.19   τοῦ, ἐπιστέλλεται ὑμῖν, φίλτατοι.
+r.20   ἐρρῶσθαι ὑ μᾶς εὔχομαι, φίλ(τατοι).
+r.21   (ἔτους) ε´ τοῦ κυρίου ἡμῶν Αὐρηλιανοῦ
+r.22   Σεβαστοῦ, Μεχείρ.
+
+[TRANSLATION]
+1   Copy(?).
+2   The most excellent council of the illustrious and most illustrious city of the Oxyrhynchites,
+3   through Aurelius Euporos also called Agathos Dai-
+4   mon, former kosmetes, exegetes, hypomnemato-
+5   graph of the most illustrious city of the Alexandrians, former prytanis,
+6   and however he is styled, councillor, prytanis in office,
+7   to the keepers of the property-archives, their dearest, greeting:
+8   Aurelius Apollodidy-
+9   mos son of Ploution presented to us his rights, depending
+10   on universal laws, concerning his having been enrolled
+11   in the assembly of the sacred synod,
+12   and, having according to custom done reverence to
+13   the divine, we have all the more confirmed
+14   these to him. Since, then, we judged it conse-
+15   quent to report this openly to you, that you may
+16   know the immunity belonging to him by the
+17   laws and may make the due an-
+18   notation against his name,
+19   this is sent to you, dearest friends.
+20   I pray for your health, dearest friends.
+21   Year 5 of our lord Aurelian
+22   Augustus, Mecheir.

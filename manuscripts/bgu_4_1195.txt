@@ -1,0 +1,65 @@
+# ---------------------------------------------------------
+# BGU 4.1195 - Priest’s account of unpaid salary in grain and cash
+# Source: papyri.info DDbDP bgu;4;1195  (Trismegistos 18645)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1195
+label:    BGU 4.1195
+name:     Priest’s account of unpaid salary in grain and cash
+genre:    documents
+date:     after 12-11 BCE
+language: Greek (Koine)
+found:    Herakleopolite nome, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13196
+content:  The priest Haryotes lays out, in vernacular Greek, the arrears of his vegetable-seed allowance and cash salary for the 18th and 19th years of Caesar, with surpluses, freight-charges and an oil deduction
+tm:       18645
+source:   https://papyri.info/ddbdp/bgu;4;1195
+lat:      29.0772
+lon:      30.9342
+
+[GREEK]
+r.1   [ἱε]ρ̣ε̣ὺς Ἁρυώτης Π̣ε̣ ̣αρίῳ προφητης
+r.2   ̣[ ̣ ̣] ̣ λεγιν · ἠὰν καλο͂ς ποήσις ἐρωτήσις
+r.3   [π]ε̣ρ̣ὶ ἐμοῦ ι̣τ̣( ) ἐχηκα παρὰ τοῦ ς[ ̣ ̣ ̣ ̣]
+r.4   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ὑπὲρ τοῦ οὐκτοκαιτεκάτου
+r.5   [ἔτους] Καίσαρος λαχάνου τῶν δεκαδυω
+r.6   [μ]η̣νός ἀρταβῶν ἑκατὸν δεκα εν ἡμος
+r.7   διάφωρον ἀρταβο͂ν πέτε ἡμος καὶ τοῦ Ἐπὲφ
+r.8   τιμῆς λαχάνου ἀρταβῶν τρίακοντα πέντε
+r.9   ἀργυρίου δραχμὰς ἑκατὸν τριακοτα ἓξ
+r.10   ἀντὶ ἀργυρίου δραχμάς ἑκατὸν πετήκοντα
+r.11   ἓξ τριωβουρον καταλίπεντε ἀργυρίου
+r.12   δραχμὰς ἰκοσις τριωβουρου (γίνονται) (δραχμαὶ) κ(τριώβολον) (ἀρτάβαι) ε𐅵
+r.13   καὶ τοῦ ἐννεακαιδεκάτου ἔτους Καίσαρος
+r.14   μηνός πέντε ὧν ἀρταβο͂ν δεσαράκοντα
+r.15   ἓξ ἡμος διάφωρον ἀρταβο͂ν δυω δετατατον
+r.16   [λε]ί̣π̣ο̣ντε διάφωρον ἀρταβο͂ν ζ𐅵δ´ καὶ ἀργυρίου
+r.17   δραχαμας ἴκοσι τριωβουρου καὶ φόρετρον
+r.18   ἀργυρίου δραχμὰς δέκα (γίνονται) τω( ) (δραχμαὶ) λ(τριώβολον) (ἀρτάβαι) ζ𐅵δ´
+r.19   καὶ ἐλατωνῖ ἀπὸ τῶν (ἀρταβῶν) μϛ𐅵 ἐλέου
+r.20   κοτυλῶν σλ τι(μῇ) (δραχμαὶ) ξ (γίνονται) (δραχμαὶ) ϙ(τριώβολον) (ἀρτάβαι) ζ𐅵δ´
+
+[TRANSLATION]
+1   The [pri]est Haryotes to Pe...arios(?), prophet,
+2   says: if you would kindly inquire
+3   about me ... I have received from the ...[...]
+4   [...] for the eighteenth
+5   [year] of Caesar, of vegetable(-seed), for the twelve
+6   months, one hundred and eleven and a half artabas,
+7   with a surplus of five and a half artabas; and for Epeiph,
+8   as the price of thirty-five artabas of vegetable(-seed),
+9   one hundred and thirty-six silver drachmas,
+10   instead of one hundred and fifty
+11   six (drachmas) three obols; there remaining (owed)
+12   twenty drachmas three obols, total 20 dr. 3 ob., 5 1/2 art.
+13   And for the nineteenth year of Caesar,
+14   for five months, of which forty-
+15   six and a half artabas, with a surplus of two and ... artabas,
+16   there remaining a surplus of 7 3/4 artabas, and in silver
+17   twenty drachmas three obols, and as freight-charge
+18   ten silver drachmas; total 30 dr. 3 ob., 7 3/4 art.
+19   and there is deducted from the 46 1/2 artabas, for oil,
+20   230 kotylai at a price of 60 drachmas; total 90 dr. 3 ob., 7 3/4 art.

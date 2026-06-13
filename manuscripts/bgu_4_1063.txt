@@ -1,0 +1,47 @@
+# ---------------------------------------------------------
+# BGU 4.1063 - Order to a banker to pay out 200 drachmas
+# Source: papyri.info DDbDP bgu;4;1063  (Trismegistos 18508)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1063
+label:    BGU 4.1063
+name:     Order to a banker to pay out 200 drachmas
+genre:    documents
+date:     13 Feb 100 CE
+language: Greek (Koine)
+found:    Arsinoite nome (provenance uncertain), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13334
+content:  Mar...nos son of Ptolemaios instructs the banker Herodes to pay Papion son of Papion 200 silver drachmas on the 30th of Mecheir of the 3rd year of Trajan
+tm:       18508
+source:   https://papyri.info/ddbdp/bgu;4;1063
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Μαρ ̣ ̣νος Πτολεμαίου Ἡρώδῃ
+r.2   τ̣ρ̣α̣π̣ε̣ζ̣ί̣τ̣ῃ̣ χα(ίρειν). χρημάτεισον
+r.3   ἐπὶ τῆς τρειακάδος τοῦ Μεχὶ-
+r.4   ρ μηνὸς τοῦ ἐνεστο͂τος τρείτου
+r.5   (ἔτους) Παπειῶνει Παπειῶνος
+r.6   τὰς εἴσας ὧν εὐχρήστημαι
+r.7   παρὰ αὐτοῦ ἀργυρείου δρα-
+r.8   χμὰς διακοσίας (γίνονται) (δραχμαὶ) σ.
+r.9   (ἔτους) τρείτου Αὐτοκράτορος Καίσαρος
+r.10   Νέρουα Τραιανοῦ Σεβαστοῦ
+r.11   Γερμανεικοῦ Μεχὲρ ιη.
+
+[TRANSLATION]
+1   Mar...nos son of Ptolemaios, to Herodes
+2   the banker, greeting. Pay out,
+3   on the thirtieth of the month Mech-
+4   eir of the present third
+5   year, to Papion son of Papion,
+6   the (sums) equal to those for which I am accommodated
+7   by him, namely two hundred silver drach-
+8   mas, total 200 dr.
+9   Year three of Imperator Caesar
+10   Nerva Trajan Augustus
+11   Germanicus, Mecheir 18.

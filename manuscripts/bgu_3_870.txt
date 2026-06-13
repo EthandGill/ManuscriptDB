@@ -1,0 +1,45 @@
+# ---------------------------------------------------------
+# BGU 3.870 - Extracts from a Report on the Allotment of Land (Soknopaiu Nesos)
+# Source: papyri.info DDbDP bgu;3;870  (Trismegistos 28101)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.870
+label:    BGU 3.870
+name:     Extracts from a Report on the Allotment of Land (Soknopaiu Nesos)
+genre:    documents
+date:     II
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8471
+content:  A second-century extract from the record-office of public accounts, drawn from a daily inspection of building-plots in the fourth year, concerning houses of Stotoetis son of Stotoetis grandson of Apion at Soknopaiu Nesos.
+tm:       28101
+source:   https://papyri.info/ddbdp/bgu;3;870
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ἐκ βιβλιοθήκης δ̣η̣μ̣(οσίων)
+r.2   λόγων. ἐξ ἐπισκέψεως
+r.3   ἡμερησίας οἰκο(πέδων(?)) (ἔτους) δ
+r.4   κώμης Σοκνοπαίου
+r.5   Νήσου μεθʼ ἕτερα
+r.6   Στοτοήτεως Στο[τ]οή-
+r.7   τεως τοῦ Ἀπί̣[ωνο]ς̣
+r.8   οἰκίας καὶ ἐν ἄ̣λ̣λ̣ῳ
+r.9   τόπῳ οἰκία ὄντων
+r.10   [ ̣ ̣ ̣] ̣[ ̣ ̣] ̣[ ̣]ς ελ̣[ ̣]η̣ ̣
+
+[TRANSLATION]
+1   From the record-office of pub(lic)
+2   accounts. From a daily
+3   inspection of building-plots(?) of the 4th (year),
+4   of the village of Soknopaiou
+5   Nesos, with other matters:
+6   of Stotoetis son of Sto[t]o-
+7   etis, grandson of Api[on],
+8   of (his) house, and in ano̱ther
+9   place, there being a house
+10   [...] .[..] .[.]s el[.]e. .

@@ -1,0 +1,101 @@
+# ───────────────────────────────────────────────
+# BGU 4.1107 — Nurse contract — Didyme to suckle Isidora’s foundling
+# Source: papyri.info DDbDP bgu;4;1107  (Trismegistos 18548)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1107
+label:    BGU 4.1107
+name:     Nurse contract — Didyme to suckle Isidora’s foundling
+genre:    contracts
+date:     c. 13 BCE
+language: Greek (Koiné)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13060
+content:  Didyme nurses Isidora’s foundling slave infant for 16 months at 10 drachmas and two kotylai of oil a month; both women sign by their brothers
+tm:       18548
+source:   https://papyri.info/ddbdp/bgu;4;1107
+lat:      31.2
+lon:      29.9
+
+[GREEK]
+r.1   κόλ(λημα)
+r.2   Πρωτάρχ[ω]ι
+r.3   παρὰ Ἰσιδώρας τῆς Κ̣ο̣μ̣[- ca.11 -] μ̣ε̣τ̣ὰ̣ κ̣υ̣ρ̣ί̣ο̣υ̣ τ̣ο̣ῦ̣ ἀ̣[δελφοῦ Εὐτυχίδου]
+r.4   [το]ῦ̣ Κ̣ο̣μ̣[ ̣ ̣ ̣ ̣] κ̣α̣ὶ̣ π̣α̣ρ̣[ὰ Δ]ιδ[ύ]μ̣η̣ς̣ [τῆς] Ἀ̣π̣ο̣λ̣[λωνίου Περ]σ̣ε̣ί̣νης [μετὰ κυρίου]
+r.5   τοῦ ἀδελφοῦ Ἰσχυρίωνος τοῦ Ἀπολλων[ίου. περὶ τῶν διεσταμένων συνχωρεῖ ἡ]
+r.6   [Διδύ]μη τροφεύσειν καὶ θηλάσειν ἔ̣ξ̣ω̣ [πα]ρʼ ἑ̣α̣[υτῆι κατὰ πόλιν τῶι ἰδίωι]
+r.7   αὐ̣τ̣ῆ̣ς̣ γάλακτι καθαρῶι καὶ ἀφθόρωι ἐ̣π̣ὶ̣ χ̣ρ̣[όνον μῆ]νας [δεκαὲξ ] ἀ̣π̣ὸ̣ Φ̣α̣ρ̣-
+r.8   μοῦθι τοῦ ἐνεστῶτος ἑπτακαιδεκάτου (ἔτους) [Καίσαρος] ὃ̣ ἐ̣γ̣δ̣[έδοται αὐτῇ ἡ Ἰσιδώρα]
+r.9   δουλικὸν αὐτῆς παιδίον [ἀ]ναίρε[τον] ὑ̣π̣ο̣τ̣[ίτθιον ̣ ̣ ̣ ̣ ̣ ̣ ὧι ὄνομα ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.10   λαμβάνουσα παρʼ αὐτῆς Ἰσιδώρας μισθ[ὸν τοῦ τε γάλακτος καὶ τῆς τροφείας κατὰ]
+r.11   μῆνα ἕκαστον ἀργυρίου δραχμὰς δέκα καὶ ἐλαίου κοτύλας δ[ύ]ο , ο̣ἷ̣ς̣ [εὐτα-]
+r.12   κτουμένην αὐτὴν ποιεῖσθαι τήν τε ἑατῆς καὶ τοῦ παιδίου ἐ̣π̣ι̣μ̣έ̣λ̣η̣α̣ν̣
+r.13   μὴ φθείρουσαν τὸ γάλα μηδʼ ἀνδροκοιτοῦσαν μηδʼ ἐπικυοῦσαν [μηδʼ ἕτερον]
+r.14   παραθηλάζουσαν παιδίον, ἅ τε ἐὰν λάβῃ ἢ πιστευθῇ τῶν τούτου ταῦτα σ̣ῶ̣α̣ σ̣υ̣ν̣-
+r.15   τηρήσειν καὶ ἀποδώσειν ὅταν ἀπαιτῆται ἢ ἐκτείσειν τὴν [ἑκάστου ἀξίαν πλὴν]
+r.16   συνφανοῦς ἀπωλείας, ἧς καὶ φανερᾶς γενηθίσης [ἀπο]λελύσ[θω. αὐτόθεν]
+r.17   δὲ ἀ̣π̣έ̣σχηκεν ἡ Διδύμη παρὰ τῆς Ἰσιδώρας δ̣ι̣ὰ̣ χ̣ε̣ι̣ρ̣ὸ̣ς̣ ἐ̣ξ̣ ο̣ἴ̣κ̣ο̣υ̣ <(δραχμὰς) λ καὶ> ἔλαιον τῶν πρώτων
+r.18   μηνῶν τριῶν τοῦ τε Φαρμοῦθι καὶ Παχὼν καὶ Παῦνι καὶ μὴ ἐγλείπειν τ[ὴν τροφείαν ἐντὸς]
+r.19   τοῦ χρόνου, ἐὰν δέ τι παραβαίνῃ ἐκτίνιν αὐτὴν ἅ τε [εἴληφεν τροφεῖα καὶ]
+r.20   ἃ ἐὰν προσλάβῃ σὺν ἡμιολίαι καὶ τὰ βλάβη καὶ δα[παν]ήματα, [ἐκτί]σ̣ε̣ι̣ν̣ δ̣ʼ ἔ̣τ̣ι̣
+r.21   [(δραχμὰς)]
+r.22   πεντακοσίας καὶ τὸ ὡρισμένον [πρόστιμον], τῆς πράξεως γεινομένης τῇ Ἰσιδώρᾳ
+r.23   ἔκ τε αὐτῆς Διδύμης καὶ [ἐκ τῶν] ὑπαρχόντων αὐτῆς π̣ά̣ν̣(των) καθ[ά]περ ἐγ δίκ[ης],
+r.24   ἀκύρων οὐσῶν καὶ ὧν ἐὰν ἐπενένκῃ πίστεων πασῶν σκέπης [πάσης,]
+r.25   ἕκαστα δὲ αὐτῆς ἐπιτελούσης καὶ τὴν Ἰσιδώρα̣ν̣ [χο]ρ̣η̣γ̣ή̣σ̣ε̣ι̣ν̣ α̣ὐ̣τ̣ῇ
+r.26   τὰ κατὰ μῆνα τροφεῖα ὡ̣ς̣ π̣ρ̣ό̣κ̣ε̣ι̣τ̣α̣ι̣ ἐπὶ τοὺς λοιποὺς [μῆνας]
+r.27   δεκατρεῖς καὶ μὴ ἀποσπάσειν τὸ παιδίον ἐντὸς τοῦ χρόνο̣υ̣ [ἢ καὶ αὐτὴν]
+r.28   ἐκτίνιν τὸ ἴσον ἐπίτιμον· παραβαλεῖ δὲ ἡ Διδύμη πρὸς [τὴν Ἰσιδώραν]
+r.29   κατὰ μῆνα ἕκαστον ἀεὶ διὰ ἡμερῶν τεσσάρων ἄ̣γ̣ο̣υ̣σ̣α̣ [καὶ τὸ παιδίον πρὸς τὸ]
+r.30   ἐπιθεωρεῖσθαι ὑπʼ αὐτῆς. ἀ̣ξ̣ι̣ο̣ῦ̣(μεν)
+r.31   (hand 2) Ἰσιδώρα συνχωρῶ κατὰ τὰ προγε[γραμμένα]
+r.32   Εὐτυχίδης ἐπιγέγραμμαι κύριος τῆς ἀδελφ[ῆς] <καὶ γέγραφα>
+r.33   ὑπὲρ αὐτῆς γρά(μματα) μ̣ὴ̣ ἰ̣δ̣υ̣ί̣α̣ς̣
+r.34   (hand 3) Διδύμη συνχωρῶ κατὰ τὰ πρ[ογεγραμμένα]
+r.35   Ἰσχυρίων ἐπιγέγραμμαι [τῆς ἀδελφ-]
+r.36   ῆς μου κύριος καὶ γέγρα[φα ὑπὲρ αὐτῆ-]
+r.37   ς γράματα μὴ εἰδυίας
+r.38   (hand 1) Ἰσιδώ(ρας) (ἔτους) ιζ̣ Κ̣α̣ί̣σ̣α̣ρ̣ο̣ς̣
+
+[TRANSLATION]
+1   Sheet (kollema).
+2   To Protarchos,
+3   from Isidora daughter of Kom[…], with as guardian her [brother Eutychides]
+4   son of Kom[…], and from Didyme daughter of Apol[lonios, Per]sian, [with as guardian]
+5   her brother Ischyrion son of Apollon[ios. Concerning the matters agreed,]
+6   [Didy]me [consents] to nurse and suckle, outside, at her own home [in the city, with her own]
+7   milk, pure and unspoiled, for a per[iod of sixteen mon]ths from Phar-
+8   mouthi of the current seventeenth <year> [of Caesar,] the slave
+9   infant of hers, a foundling at the br[east, … whose name is …,] that [Isidora has gi]ven over to her,
+10   receiving from Isidora herself as wa[ge for the milk and the nursing, for each]
+11   month, ten silver drachmas and two kotylai of oil; with which, kept
+12   in good [or]der, she is to exercise the care both of herself and of the child,
+13   not spoiling her milk, nor sleeping with a man, nor conceiving, [nor]
+14   suckling [another] child besides; and whatever she receives or is entrusted with of its things, to keep
+15   these safe and return them whenever demanded, or to pay the [value of each, except]
+16   manifest loss, on which, having also been made evident, [she shall be re]leased. [And forthwith]
+17   Didyme has received from Isidora, from hand to hand out of the house, <30 drachmas and> the oil of the first
+18   three months, Pharmouthi and Pachon and Pauni; and (she is) not to quit t[he nursing within]
+19   the period; and if she transgresses anything, she is to pay back both what [she has received of the nursing-wages and]
+20   whatever she may receive in addition, with half again, and the damages and ex[pen]ses, and to pay further
+21   [drachmas]
+22   five hundred and the appointed [fine], the right of execution belonging to Isidora
+23   both from Didyme herself and [from] all her belongings, as if by legal judg[ment;]
+24   void being also whatever pleas she may bring forward, every [shelter;]
+25   and, she performing each thing, that Isidora shall furnish her
+26   the monthly nursing-wages as aforesaid for the remaining [months,]
+27   thirteen, and not take the child away within the period, [or herself]
+28   pay the same penalty. And Didyme shall come over to [Isidora]
+29   each month, always every four days, bringing [the child too, for it to be]
+30   inspected by her. We request (registration).
+31   (2nd hand) I, Isidora, agree according to what is written above.
+32   I, Eutychides, am registered as guardian of my sister <and have written>
+33   on her behalf, as she does not know letters.
+34   (3rd hand) I, Didyme, agree according to what is wr[itten above.]
+35   I, Ischyrion, am registered as my sis-
+36   ter’s guardian and have writ[ten on her be-]
+37   half, as she does not know letters.
+38   (1st hand) Of Isido(ra). Year 17 of Caesar.

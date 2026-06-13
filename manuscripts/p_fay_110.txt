@@ -1,0 +1,95 @@
+# ───────────────────────────────────────────────
+# P.Fay. 110 — Letter — Gemellus to Epagathos: manure, oil-press, debts to collect
+# Source: papyri.info DDbDP p.fay;;110  (Trismegistos 10775)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Fay. 110
+label:    P.Fay. 110
+name:     Letter — Gemellus to Epagathos: manure, oil-press, debts to collect
+genre:    letters
+date:     11 Sept 94 CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    New York, Columbia University P. Fay. 110
+content:  Estate orders: cart out the manure, dig round the oil-press, flood the allotments, water the olives twice, collect debts with interest
+tm:       10775
+source:   https://papyri.info/ddbdp/p.fay;;110
+lat:      29.4333
+lon:      30.4
+
+[GREEK]
+r.1   Λουκις Βελλιῆνος Γέμελλος
+r.2   Ἐπαγαθῶι τῶι ἰ δίωι χαίρειν.
+r.3   εὖ ποιήσεις κομισάμενός μου
+r.4   τὴν [ἐ]πιστ[ο]λὴν ἀναγκάσας
+r.5   ἐκχω̣σθῆναι τὸ ἐν αὐτῶι κόπριον
+r.6   ἵ να καταβ[ο]λαῖον γένηται ὃ λέγεις
+r.7   ταμε[ῖ]ον , κ[α]ὶ τὰ κύκλωι τοῦ ἐλαι-
+r.8   οὐργίου ἔξωθεν σκάψον ἐπὶ βάθος
+r.9   ἵ να μὴ εὐυ πέρβατον ἦι τὸ ἐλαι-
+r.10   ούργιον, καὶ χώρισον τὸ κόπριον
+r.11   εἰς τὴν κοπρηγίαν, καὶ λιμναζέ-
+r.12   τωσαν ἡμῶν τοὺς κλήρους πάν-
+r.13   τας ἵ[ν]α τὰ πρόβατα ἐκεῖ κοιμηθῆι,
+r.14   καὶ το[ὺ]ς ἐ[λαι]ῶνας τὸ δεύτερον
+r.15   [ὕ]δω[ρ] ποτ[ισ]άτωσαν , καὶ διάβα εἰς
+r.16   Διον[υ]σιά[δα] καὶ γνῶθι εἰ πεπότισ-
+r.17   ται ὁ [ἐ]λαιὼν δυσὶ ὕ δασι καὶ δεδι-
+r.18   [κ]ράν[ισται, εἰ] δέ̣ τ̣ι̣ μὴ ποτισθήτωι
+r.19   κ̣α̣ὶ ε̣ν̣[ ̣]τ̣ε ̣[ ̣ ̣] ̣ ̣ ἀσφαλῶς δικρανισ-
+r.20   [θ]ῆ̣ μ̣[ ̣ ̣]κ̣ ̣α ̣[ ̣] αὐτοὺς διαπέσηι, καὶ
+r.21   [δ]οὺς ̣[ ̣ ̣ ̣ κα]ὶ̣ Ψέλλον του σιτολόγους
+r.22   [ ̣] ̣υχ ̣[ ̣ ̣ καὶ] Χαιρᾶν τὸν γρ(αμματέα) τῶν
+r.23   [γε]ωρ[γῶν καὶ] Ἡρακλᾶν (δραχμὰς) ϙ καὶ τόκους,
+r.24   καὶ Χα[ιρᾶ]ν [τό]ν ποτε πράκτορα (δραχμὰς) κδ,
+r.25   καὶ Διδᾶν [ ̣]δ̣ου̣ν τιμ(ὴν) κριθ(ῆς) (δραχμὰς) σμ καὶ τόκ(ους),
+r.26   καὶ Ἥρωνα τόν ποτε ἡγούμ(ενον) τόκ(ους) (ἐτῶν) β
+r.27   (δραχμὰς) ρκ. καὶ τὰς θύρας ἐπιστησάτωσαν
+r.28   οἱ τέκτονες· πέμπω δέ σοι τὰ σχοι-
+r.29   νία. τὰς δὲ ὠλένας τοῦ ἐλαιουργίου
+r.30   δ[ι]πλᾶς ποίησον, τὰς δὲ τῶν κα-
+r.31   ταβολα[ί]ω(ν) ἁ[π]λᾶς. ἔρρωσο.
+r.32   (ἔτους) ιδ Αὐτοκράτορος Καίσαρος Δομιτιανοῦ
+r.33   [Σ]εβασ[τοῦ Γερμ]ανικοῦ, μηνὸς Γερμανικοῦ ιδ.
+r.34   μὴ οὖν [ἄ]λλως ποιήσῃς. v
+r.35   ἀπόδος Ἐπαγαθῷ ἀπὸ Λουκίου Βελλιήνου Γεμέλλου.
+
+[TRANSLATION]
+1   Lucius Bellienus Gemellus
+2   to Epagathos his own, greeting.
+3   You will do well, on receiving my
+4   letter, to have
+5   the manure in it carted out,
+6   so that what you call a store-chamber
+7   be made a depot; and dig deep round the oil-
+8   press on the outside,
+9   so that the oil-press is not
+10   easy to climb into; and sort the manure
+11   off to the dung-heap; and let them
+12   flood all our allot-
+13   ments, that the sheep may bed there,
+14   and let them give the olive-groves their second
+15   watering; and cross over to
+16   Diony[s]ias and find out whether the olive-
+17   grove has been watered twice and forked
+18   over; and if at all not, let it be watered
+19   and … safely forked
+20   over, lest … them fall through; and
+21   having paid(?) … [an]d Psellos, the sitologoi,
+22   …[… and] Chairas the scribe of the
+23   farmers, and Heraklas 90 dr. and interest,
+24   and Cha[ira]s the former tax-collector 24 dr.,
+25   and Didas …, the price of barley, 240 dr. and interest,
+26   and Heron the former foreman two years’ interest,
+27   120 dr. And let the carpenters hang
+28   the doors; and I am sending you the
+29   ropes. Make the arms of the oil-press
+30   double, and those of the de-
+31   pots single. Farewell.
+32   Year 14 of Imperator Caesar Domitian
+33   Augustus Germanicus, month Germanikos 14.
+34   So do not do otherwise.
+35   Deliver to Epagathos from Lucius Bellienus Gemellus.

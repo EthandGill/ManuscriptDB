@@ -1,0 +1,57 @@
+# ---------------------------------------------------------
+# BGU 4.1175 - Contract for a loan of 100 silver drachmas
+# Source: papyri.info DDbDP bgu;4;1175  (Trismegistos 18632)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1175
+label:    BGU 4.1175
+name:     Contract for a loan of 100 silver drachmas
+genre:    contracts
+date:     27. Dez. 5 v.Chr.
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13104 Ro
+content:  Through Protarchos, Zmyrna and her husband Helenos agree to have received from Gaius a loan of 100 Ptolemaic silver drachmas at two-drachma interest per mina monthly, to be repaid in two months with the usual penalties for default.
+tm:       18632
+source:   https://papyri.info/ddbdp/bgu;4;1175
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   Πρωτάρχω[ι]
+r.2   παρὰ Γαίου [ ̣ ̣ ̣ ̣ ̣]υτ̣η̣ν̣[ο]υ̣ καὶ παρὰ Ζμύρνης τῆς Ἀσκληπιάδο(υ)
+r.3   Περσείνης μετὰ κυρίου τοῦ ἀνδρὸς Ἑλένου τοῦ Καίσαρος [Πέρσου τῆ(ς) ἐπιγο(νῆς) καὶ] αὐ(τοῦ)
+r.4   Ἑλένου. συνχωροῦσι Ζμύρνα καὶ Ἕλενο[ς] ἔχειν παρὰ τοῦ Γαίου δάνειον διὰ χειρὸς
+r.5   ἐξ οἴκου ἀργυρίου Π̣τ̣ο̣λ̣ε̣μ̣α̣ι̣κ̣ο̣ῦ̣ δραχ[μὰς] ἑ̣κ̣α̣[τὸν τόκων]
+r.6   δ̣ι̣δ̣ρ̣ά̣χ̣μ̣ω̣ν̣(?) τῆς μνᾶς κατὰ μῆνα, ὃ καὶ ἀποδώσειν
+r.7   ἐν μησὶν δυσὶν ἀπὸ Τῦβι τοῦ ἐνεστῶτος ἕκτου καὶ
+r.8   εἰκοστοῦ ἔτους Καίσαρος ἄνευ πάσης ὑπερθέσεως ἢ ἐκτί-
+r.9   νειν τὸ μὲν δάνειον σὺν ἡμιολίᾳ, τοὺς δὲ τόκους ἁπλοῦς,
+r.10   τ̣ο̣ῦ̣ δ̣ὲ̣ ὑ̣π̣ε̣ρ̣π̣[ε]σ̣ό̣ν̣[τος χρό]νου τ[οὺ]ς ἴσ[ο]υς τῆς πράξ[εως γινο(μένης)]
+r.11   τῶι Γαίωι ἔκ τε τῶν κάτω
+r.12   καὶ μὴ ἐπιφέρειν πίστε[ις ἢ]
+r.13   ὑποχρέ(ων) ὄντων ἀλληλ(εγγύων) εἰς ἔκτισ(ιν) καὶ ἐξ ἑνὸ(ς) οὗ ἐὰν αὐ(τῶν) αἱρῆ(ται)
+r.14   καὶ ἐκ τῶν
+r.15   ὑπαρχ(όντων) α̣ὐ̣(τοῖς) σ̣τ̣ ̣μ̣ε̣σ̣ω( ) καθά(περ) ἐγ δίκ(ης).
+r.16   (ἔτους) κϛ Καίσαρος Τῦβι α
+
+[TRANSLATION]
+1   To Protarcho[s],
+2   from Gaius [.....]uten[o]s and from Zmyrna daughter of Asklepiades,
+3   a Persian woman, with as guardian her husband Helenos son of Caesar's freedman, [a Persian of the epigo(ne), and] he
+4   Helenos himself. Zmyrna and Heleno[s] agree to have from Gaius a loan by hand
+5   from house to house of Ptolemaic silver one hun[dred] drach[mas, of interest]
+6   of two drachm(as?) per mina by the month, which also they will repay
+7   within two months from Tybi of the present sixth and
+8   twentieth year of Caesar without any postponement, or to pay
+9   the loan with a half as much again, and the interest in single amount,
+10   and for the over[due time] the like, the exaction [being made]
+11   for Gaius from both the persons below
+12   and they not bringing forward pledges [or]
+13   being liable jointly to each other for repayment, both from one of them, whichever he chooses,
+14   and from the
+15   property belonging to them [..]..meso( ) as if by judgement.
+16   (Year) 26 of Caesar, Tybi 1.

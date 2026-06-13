@@ -1,0 +1,45 @@
+# ---------------------------------------------------------
+# BGU 4.1191 - Official Report of Questioning and Voting
+# Source: papyri.info DDbDP bgu;4;1191  (Trismegistos 69743)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1191
+label:    BGU 4.1191
+name:     Official Report of Questioning and Voting
+genre:    documents
+date:     I v.Chr.
+language: Greek (Koine)
+found:    Herakleopolite nome, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13158
+content:  A fragmentary official report concerning storehouses, exported goods, a vote by decree, and a designated official questioned about good order, mentioning an act of obeisance.
+tm:       69743
+source:   https://papyri.info/ddbdp/bgu;4;1191
+lat:      29.0772
+lon:      30.9342
+
+[GREEK]
+r.1   θησαυρῶν καὶ προ̣[ ]
+r.2   καὶ ἐξαγομένων ἐφω[ ]
+r.3   πό̣σ̣ι̣ν δ̣ʼ ἐκ πόσεως ἀπὸ Ἁθὺρ ε̣[ ]
+r.4   ὑπ[ο]δεικνύμενον ἐφʼ ἑκάστου [ ]
+r.5   διὰ ψηφίσματος ὑπογε̣γ̣[ ]
+r.6   τῶι προκεχειροτονημένωι κα̣ὶ̣ [ ]
+r.7   πρ[ ̣ ̣ ἐ]π̣ερωτημένον ἀποκρυ̣[ ]
+r.8   τ[ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣] πᾶσαν εὐκοσμίαν [ ]
+r.9   [… προσ]κ̣υ̣νῆ̣σ̣αι ̣[ ]
+r.10   […]ε̣ρ̣ον μηδ̣[ ]
+
+[TRANSLATION]
+1   of storehouses and pro[ ]
+2   and of things being exported epho[ ]
+3   drink from drink, from Hathyr e[ ]
+4   being indicated upon each [ ]
+5   by decree subscri[bed ]
+6   to the one previously elected and [ ]
+7   pr[ .. having been q]uestioned, hidden/answered[ ]
+8   t[ ...... ] all good order [ ]
+9   [... to do ob]eisance .[ ]
+10   [...]eron not [ ]

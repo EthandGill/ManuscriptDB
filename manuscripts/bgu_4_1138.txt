@@ -1,0 +1,67 @@
+# ---------------------------------------------------------
+# BGU 4.1138 - Petition of Nikanor demanding repayment after wrongful release of a debtor
+# Source: papyri.info DDbDP bgu;4;1138  (Trismegistos 18582)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1138
+label:    BGU 4.1138
+name:     Petition of Nikanor demanding repayment after wrongful release of a debtor
+genre:    petitions
+date:     27. Nov. - 26. Dez. 19 v.Chr.
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13068 Ro \[2\
+content:  Nikanor son of Sositheos petitions Lucius (?), recounting a dispute with Ischyrion before the judge Casius: the jailer Chairemon testified that the debtor Papias had been handed over for 1600 silver drachmas, yet Ischyrion released him, and Nikanor asks that Ischyrion be compelled to repay the extortion-money and be punished.
+tm:       18582
+source:   https://papyri.info/ddbdp/bgu;4;1138
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   [Λ]ευκ(ίῳ) _(?)_
+r.2   [π]αρὰ Νεικά̣νο(ρος) τοῦ Σωσιθέ(ου) τῶν ἀπὸ Ἐλβώνθ̣εω(ς). ἐκ τῆ(ς)
+r.3   [γε]νηθείση(ς) μο(ι) ἀντικατασ̣τ̣άσ̣ε(ως) πρὸς Ἰσχυρίων(α) προχει-
+r.4   [ρ]ο̣φόρο̣(ν(?)) τρ ̣ ̣ ̣ ̣ο( ) ἐπιστρ̣α(τηγ ) καὶ
+r.5   [δ]έδωκας ἡμεῖ(ν) κριτὴ(ν) Κα̣ασιο(ν) , καὶ ἐκ τῶν ὑποδιχθέντων
+r.6   ὑπʼ ἐμο(ῦ) ἐπὶ το(ῦ) Κασίο(υ) ἐπὶ παρόντ(ος) καὶ το(ῦ) Ἰσχυρίωνος
+r.7   καὶ πάλιν ἐπὶ το(ῦ) Κασίο(υ) ἐξάρνο(υ) αὐτοῦ
+r.8   γ̣ε̣ινομένο(υ) ἐπὶ τῷ μὴ παραδεδωκέναι τὸν Παπίαν
+r.9   χάριν το(ῦ) διασείσματο(ς) ἐφάνη τῷ Κασίωι ὄντ(ι) ἐν-
+r.10   τ̣α̣ῦ̣θ̣α τὸν τῆ(ς) Σάιεως δεσμοφύλακ(α) Χαιρήμονα
+r.11   καλέσαι κα̣ὶ̣ ἐ̣λ̣ε̣ν̣χ̣ο̣ α̣ὐ̣το(ῦ) πρὸς ἐλενχο τοῦ Ἰσχυρίω(νος) ὃ ἠ̣δίκησ̣ε̣ν̣
+r.12   ἐμαρτύρησ(εν) ὁ δεσμοφύλαξ Χ̣α̣ι̣ρήμω(ν) περὶ το(ῦ) παρα-
+r.13   δεδόσθαι αὐτῷ τὸν Παπία(ν) πρὸς τὰς το(ῦ) ἀργυ(ρίου) (δραχμὰς) Αχ
+r.14   κ̣α̣ὶ̣ μ̣ε̣τ̣ὰ̣ τ̣α̣ῦ̣τα ἐλθόντ(α) τὸν Ἰσχυρίων(α) εἰρηκέναι
+r.15   αὐτῷ· ε̣ι̣ ̣λ̣εια( ) π̣λ̣εη̣ο( ) α̣ ̣ ̣π̣ ̣ ̣ ̣ισ̣α̣ι̣ τ̣ο̣υ̣ ̣( ) ἀπολε̣ί̣-
+r.16   [ψ(?)]ο̣μ̣αι τὸν Παπία(ν) ἐκ τῆ(ς) φ̣υ̣λ̣α̣κ̣ῆ̣(ς) ̣ ̣ ̣ ̣ ἀξιῶ σε̣
+r.17   τὸν πάντ(ων) σωτῆ(ρα) καὶ ἀντιλ(ήμπτορα) ἐά[ν σ]οι φαίνη(ται) σ̣υ̣ν̣-
+r.18   τάξαι καταστῆ(σαι) τὸν Κάσιο(ν) ἐ̣π̣ὶ̣ σ̣[ὲ καὶ] ἐ̣π̣ι̣λ̣α̣β̣όντ(α) παρʼ αὐ̣τ̣(οῦ)
+r.19   τ̣ὸ̣ν̣ κ̣ε̣χωρηκ(ότα) ἐπανανκά[σαι] [τὸ(ν) Ἰ]σ̣χ̣υ̣ρ̣ί̣ο̣(να) ἀποδοῦναί
+r.20   μο(ι) τὰς το(ῦ) διασείσματος ἀργ(υρίου) (δραχμὰς) Αχ καὶ αὐτὸ(ν) ἐ̣π̣ι̣π̣λ̣ῆ̣ξ̣αι καταξίως,
+r.21   ἵνʼ ὦι ἀντιλημμέ(νος).
+
+[TRANSLATION]
+1   To [L]ucius _(?)_
+2   [f]rom Neikanor son of Sositheos, of those from Elbonthis. From the
+3   [co]unter-suit that arose for me against Ischyrion, the proxy-
+4   bearer (?) ... ...o( ) epistr[ategos] and
+5   you gave us as judge Kaasios, and from the things shown
+6   by me before Casius, in the presence also of Ischyrion,
+7   and again before Casius, when he (Ischyrion) became a denier
+8   on the ground that he had not handed over Papias,
+9   for the sake of the extortion it seemed good to Casius, being there,
+10   to summon Chairemon the jailer of Sais
+11   and (to make) his examination for the conviction of Ischyrion, who did wrong;
+12   the jailer Chairemon testified concerning Papias
+13   having been handed over to him against the 1600 drachmas of silver,
+14   and after these things, when Ischyrion came, (he said) that he had said
+15   to him: ‘...leia( ) pleeo( ) ...p...isai tou...( ) I shall re-
+16   [lea]se Papias from the prison’ .... I ask you,
+17   the savior of all and protector, if it seems good to you, to or-
+18   der Casius to be brought befo[re y]ou and, having taken from him
+19   the one who has departed, to compel [I]schyrion to repay
+20   to me the 1600 silver drachmas of the extortion and to rebuke him fittingly,
+21   so that I may be protected.

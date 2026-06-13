@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# BGU 3.875 — Penthemeros receipt — dyke-work at the Boubastos canal of Karanis
+# Source: papyri.info DDbDP bgu;3;875  (Trismegistos 9389)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.875
+label:    BGU 3.875
+name:     Penthemeros receipt — dyke-work at the Boubastos canal of Karanis
+genre:    receipts
+date:     27 July 146 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7276
+content:  Herodes son of Petheus has worked his five-day embankment corvée at the Boubastos canal of Karanis; countersigned by Longinus
+tm:       9389
+source:   https://papyri.info/ddbdp/bgu;3;875
+lat:      29.5186
+lon:      30.9036
+
+[GREEK]
+r.1   ἔτους ἐνάτου Αὐ[τ]οκράτορος Καίσαρος
+r.2   Τίτου Αἰλίου Ἁδριανοῦ Ἀντωνείνου
+r.3   Σεβαστοῦ Εὐσεβοῦς. εἴργ(ασται) ὑπ(ὲρ) χω(ματικῶν) ἔργω(ν)
+r.4   τοῦ αὐτοῦ θ (ἔτους) Ἐπεὶφ κθ ἕως
+r.5   Μεσο(ρὴ) γ ἐν διώ(ρυγι) Β̣ουβ̣(άστου) Καρα(νίδος)
+r.6   (hand 2?) Ἡρώδης Πεθέως τοῦ
+r.7   Ἡρώδου (μητρὸς) Σεραπ( ).
+r.8   (hand 3) Λογγῖ(νος) σεση(μείωμαι).
+
+[TRANSLATION]
+1   Year nine of Imperator Caesar
+2   Titus Aelius Hadrianus Antoninus
+3   Augustus Pius. Has worked for the embankment-works
+4   of the same 9th (year), Epeiph 29 to
+5   Meso(re) 3, in the Boub(astos) canal of Kara(nis):
+6   (2nd hand?) Herodes son of Petheus son of
+7   Herodes, (mother) Serap(…).
+8   (3rd hand) I, Longi(nus), have signed.

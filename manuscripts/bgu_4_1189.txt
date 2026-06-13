@@ -1,0 +1,53 @@
+# ---------------------------------------------------------
+# BGU 4.1189 - Petition - Antaios seeks recovery of money he paid as surety
+# Source: papyri.info DDbDP bgu;4;1189  (Trismegistos 18642)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1189
+label:    BGU 4.1189
+name:     Petition - Antaios seeks recovery of money he paid as surety
+genre:    petitions
+date:     1 BCE - 1 CE
+language: Greek (Koine)
+found:    Busiris (Herakleopolite nome), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 9910
+content:  Antaios, gymnasiarch of Busiris, having stood surety for two defaulting embankment-decani and been forced to pay 421 drachmas into the treasury, asks the strategos to make the toparch help him recover it from their property
+tm:       18642
+source:   https://papyri.info/ddbdp/bgu;4;1189
+lat:      29.0667
+lon:      30.9333
+
+[GREEK]
+r.1   Θέ̣ω̣ν̣ι̣ στρατηγῶι καὶ ἐπὶ τῶν προσόδων··
+r.2   παρʼ Ἀνταίου τοῦ Ὀννώφριος γυμνασιαρχῶν κώ-
+r.3   μης Βουσίρεως τὸ λ (ἔτος) Καίσαρος· ἱκανοδότης̣ ἐγενό-
+r.4   μην Θεοξένου τοῦ Λύκου καὶ Πανετβεύιος τοῦ Πετε-
+r.5   χῶντος τῶν ἀπὸ τῆς αὐτῆς κώμης δεκανῶν
+r.6   χώματος τοῦ κατὰ Κόμα , καὶ τῶν προκιμένων
+r.7   ἀνδρῶν ἐγνενευκότων τὴν ἐνφανήαν ἠναγ-
+r.8   κάσθην ὑπὸ Ἀπολλωνίου τοῦ τοπάρχου τῶν
+r.9   περὶ Βουσ̣ῖ̣[ριν δ]ι̣α̣γράψαι εἰ̣ς τὸ δημόσιον ὑπὲρ τού-
+r.10   τῶν ἀργυ(ρίου) [δ]ραχ(μὰς) υκα καὶ τὰ τούτων προσδιαγραφό-
+r.11   μενα. ἐπ[εὶ] ο̣ὖ̣ν οἱ σημαινόμενοι ἄνδρες πόρ[ο]ν
+r.12   ἔχουσι[ν] ο̣ἰ̣[κία]ς̣ καὶ κλήρους καὶ βο̣ι̣κ̣ὰ κτηνηι καὶ
+r.13   σπόρους, ἀξιῶ ἐὰν φαίνηται ἐπιτάξαι τῷ α̣(ὐτῷ)
+r.14   τοπάρχηι συν̣επισχύε[ι]ν μοι ἀπαιτοῦντι
+
+[TRANSLATION]
+1   To Theon, strategos and in charge of the revenues,
+2   from Antaios son of Onnophris, gymnasiarch of the vil-
+3   lage of Busiris in the 30th year of Caesar. I became surety
+4   for Theoxenos son of Lykos and Panetbeuis son of Pete-
+5   chon, of the same village, decani
+6   of the embankment near Koma; and, the aforesaid
+7   men having defaulted on (their) appearance, I was com-
+8   pelled by Apollonios, the toparch of the (parts)
+9   around Busi[ris, to p]ay into the treasury on their
+10   behalf 421 silver [d]rachmas and the additional charges
+11   on them. Si[nce], then, the said men have means —
+12   [hous]es and allotments and cattle and
+13   crops — I ask, if it seem good, to instruct the sa(me)
+14   toparch to assist me as I exact (it).

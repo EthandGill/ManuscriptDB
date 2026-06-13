@@ -1,0 +1,85 @@
+# ---------------------------------------------------------
+# BGU 4.1065 - Bank-remittance - the price of two gold serpent-bracelets
+# Source: papyri.info DDbDP bgu;4;1065  (Trismegistos 9448)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1065
+label:    BGU 4.1065
+name:     Bank-remittance - the price of two gold serpent-bracelets
+genre:    documents
+date:     25 Aug 98 CE
+language: Greek (Koine)
+found:    Arsinoite nome, Fayum, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13390
+content:  A bank copy: the goldsmith Mystharion acknowledges receiving 2,816 drachmas for a pair of serpent-headed “Magian” bracelets of 8 minaiai of assayed gold, with terms for remaking
+tm:       9448
+source:   https://papyri.info/ddbdp/bgu;4;1065
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ἀντίγραφον δ[ια]γραφῆς διὰ τῆς
+r.2   Παππίωνος τραπέζης Μακεδόν[ω]ν
+r.3   (ἔτους) πρώτου Αὐτοκράτορος Καίσαρος Νέρουα Τραιανοῦ
+r.4   Σεβαστοῦ Γερμανικοῦ μηνὸς Καισαρείου ἐπαγο(μένων) β.
+r.5   Ἡρώδης Λέοντος Μυσθᾶι Μενελάου χρυσοχει
+r.6   ἀπέχειν αὐτὸν τιμὴν χρυσίου δοκιμεί[ο]υ
+r.7   μναϊ αίων ὀκτὼι ὧν κατεσκεύασε αὐτῷ
+r.8   [ἐ]ν ψελίων μαγιανῶν ζεύγει δικαμπῶ(ν)
+r.9   δρακοντοκεφάλων ἐ̣[ν] σταθμῷ Ἀρσινοιτικῷ,
+r.10   ἃ καὶ παρέλαβεν ὁ Ἡρώ[δης] τῆς συμπεφωνημ(ένης)
+r.11   χρήσεως ἀργυρίου [δ]ραχμὰς δ[ι]σχειλίας
+r.12   ὀκτακοσίας δεκαέξ, (γίνονται) (δραχμαὶ) Βωιϛ. ἐὰν δὲ
+r.13   βούληται ὁ Ἡρώδης μεταποιῆσαι τὰ προκεί-
+r.14   μενα σκεύη, δώσει ἑκάστου μναϊ αίου
+r.15   [ὑπ]ὲρ ἀπουσίας τετάρτην μίαν. ἐὰν δὲ καὶ
+r.16   [ἐ]ξστήσῃ , ὁμοίως δώσει ἑκάστου μναϊαίου
+r.17   τετάρτην μίαν, ἀπο(διδόντος(?)) Μύ̣σ̣θ(ου) τὴν ἐπὶ τ(οῦ) καιροῦ τιμ(ὴν) ̣ ̣ ̣ιτ( ) καὶ ̣ ̣ ̣
+r.18   (hand 2) Μυσθαρίων Μενελάου χρυσο-
+r.19   χῶς ἀπέχω παρὰ τοῦ [Ἡ]ρώδου
+r.20   [τ]ιμὴν χρυσίου δοκι[μ]ίου μν-
+r.21   α̈ήων ὀκκτὼ , ὧν κατασκεύ-
+r.22   ασα αὐτο ἐν ψελίων μαγιαν-
+r.23   ῶν ζεύγει ἀργυρίο[υ] δραχμὰς
+r.24   [δισχ]ιλίας ὀκτακοσίας δεκαέξ,
+r.25   [(γίνονται) (δραχμαὶ) Β]ωιϛ. ἐὰν δὲ βούληται αὐτὰ
+r.26   μεταποιῆσαι ἢ ἐξστῆσαι , ἀπ-
+r.27   οδώσω τὴν ἐπὶ τοῦ καιροῦ τιμ-
+r.28   [ὴ]ν ἀπολαβάνων τὰ σκεύη καὶ
+r.29   [ὑ]π̣ὲρ ἑκάστου μναϊαίου τετά-
+r.30   ρ̣τ̣ην μίαν, καθὼς π[ρό]κιται.
+
+[TRANSLATION]
+1   Copy of a bank-payment through the
+2   bank of Pappion of the Macedonians.
+3   Year one of Imperator Caesar Nerva Trajan
+4   Augustus Germanicus, month Kaisareios, 2nd intercalary day.
+5   Herodes son of Leon, to Mysthas son of Menelaos, goldsmith,
+6   (acknowledges) that he has received the price of assayed gold,
+7   of eight minaiai, which he made for him
+8   into a pair of Magian bracelets, double-curved,
+9   serpent-headed, by the Arsinoite standard,
+10   which Hero[des] also received — of the agreed
+11   charge: two thousand silver [d]rachmas
+12   eight hundred and sixteen, total 2816 dr. And if
+13   Herodes wishes to remake the afore-
+14   said articles, he shall give, for each minaion,
+15   for wastage one quarter. And if also
+16   he should dispose (of them), likewise he shall give, for each minaion,
+17   one quarter, Mysthas repaying the price current at the time …
+18   I, Mystharion son of Menelaos, gold-
+19   smith, have received from [He]rodes
+20   the price of assayed gold, of
+21   eight minaiai, which I made
+22   for him into a pair of Magian
+23   bracelets: silver drachmas
+24   two thousand eight hundred sixteen,
+25   [total 2]816 dr. And if he wishes to
+26   remake them or dispose (of them), I will re-
+27   pay the price current at the time,
+28   taking back the articles, and
+29   for each minaion one quar-
+30   ter, as aforesaid.

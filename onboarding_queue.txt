@@ -35,3 +35,39 @@ DONE bgu;3;850-900       letters     (probe first)
 DONE p.oxy;2;286-320     letters     Oxyrhynchus letters (probe first)
 # Archives worth sweeping once the above are done (find exact id ranges by probing):
 #   Heroninos archive · Zenon archive (p.cair.zen / psi) · more P.Mich / P.Oxy
+DONE bgu;4;1151-1200    contracts   swept 2026-06-11; pending build (_PENDING_bgu4_1151-1200.json)
+DONE p.fay;;91-140      letters     Gemellus archive: 26 built; rest pending
+DONE p.oxy;1;91-140     letters     6 letters built (incl. 115/119); wills+contracts pending
+DONE p.oxy;3;485-534    contracts   swept; pending build (_PENDING_p.oxy3_485-534.json)
+DONE p.tebt;2;408-445   letters     swept; pending build (_PENDING_p.tebt2_408-445.json)
+# --- 2026-06-13 build-from-pending session (no Firecrawl credits used) ---
+# Built from preserved _PENDING_*.json: +30 manuscripts (823 -> 853).
+#   letters:  BGU 4.1141 (freedman apologia), P.Oxy 1.118/120/123, P.Tebt 2.419,
+#             P.Fay 109/133, P.Oxy 2.298/259, P.Oxy 3.525/529, P.Tebt 2.408/409/415,
+#             BGU 4.1081, P.Fay 128
+#   receipts: BGU 3.807/851/875/876/877/878/881, P.Fay 96
+#   contracts: P.Oxy 1.99/104/105/94/103/95, P.Oxy 3.496/497, BGU 3.800/837/854,
+#             BGU 4.1133/1152
+# REMAINING in _PENDING files (~120 records): mostly PETITIONS (Eingabe) and
+# ADMINISTRATIVE docs (Abrechnung/Liste/Deklaration) with no matching genre in
+# the app (receipts|contracts|letters|new-testament), plus heavily-lacunose
+# contracts. Need a 'petitions'/'documents' genre before onboarding those.
+# --- 2026-06-13 (cont.): added PETITIONS genre + first 10 petitions ---
+# App change: 'petitions' genre wired through MANUSCRIPT_GENRES, DOC_GENRES,
+# GENRE_PALETTES (teal ORB_TEAL), sidebar, agent badge (.g-petitions), agent prompt.
+# Built (863 total now): P.Oxy 1.130/131, 2.281/282/285, P.Tebt 2.439, P.Fay 107/108,
+#   BGU 4.1070/1187. Added node: Herakleopolis Magna (29.0667,30.9333).
+# Still ~13 more petitions + ~62 admin docs (Abrechnung/Liste/Deklaration) in pending.
+# --- 2026-06-13 (cont. 2): DOCUMENTS genre + bulk build + UI tweaks ---
+# App: 'documents' genre wired (slate ORB_SLATE); UI: sidebar labels+counts
+#   lightened to grey, gold "More Manuscripts Daily!" badge by Manuscripts title,
+#   header subtitle reordered. Added node: Memphis snaps natively (ORBIS).
+# Built this session (882 total): petitions +12 (Syra/Tryphon divorce, Anup,
+#   Susneus, temple-guard murder, Antaios surety, weaver-extortion, guardian,
+#   pig-dealers, Kastor land, Zoilos, Papontos hides);
+#   documents +11 (cook's meat ledger, clothing inventory, 2 camel-census,
+#   anachoresis-flight, grain order, gold-bracelet remittance, 2 Apion-estate
+#   bonds, sheep declaration, tax-oath, Memphis census, 2 census+oath, property
+#   declaration, bank transfer, Aurelian bank-order, Isis-priest census).
+# Remaining buildable in pending: ~4 petitions (Dionysia 486 etc.), ~26 documents
+#   (mostly census/property declarations + abbreviated accounts).

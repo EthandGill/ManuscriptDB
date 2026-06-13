@@ -1,0 +1,45 @@
+# ---------------------------------------------------------
+# BGU 3.809 - Administrative account of disbursements
+# Source: papyri.info DDbDP bgu;3;809  (Trismegistos 39040)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.809
+label:    BGU 3.809
+name:     Administrative account of disbursements
+genre:    documents
+date:     7th-8th c. CE
+language: Greek (Koine)
+found:    Arsinoite nome (provenance uncertain), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7961
+content:  A Byzantine-era account listing payments for accountants, apparitors’ expenses, a chartularius, warrants and agreements, handled through Menas and the deacon Theonas
+tm:       39040
+source:   https://papyri.info/ddbdp/bgu;3;809
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   (ὑπὲρ) ἀναλογιαστῶν (γίνονται) νο(μισμάτια) σιϛ
+r.2   (ὑπὲρ(?)) ἀναλωμάτ(ων) τα̣ξ̣εωτικ̣(ῶν) νο(μισμάτια) ξη π(αρὰ) ξ
+r.3   (ὑπὲρ) χαρτουλαρ(ίου) σ ̣ ̣με( )
+r.4   δ(ιὰ) Μηνᾶ θαυμασίας
+r.5   (ὑπὲρ) πιττακίο(υ) το(ῦ) κυρ(ίου) Ἰ ακώβου
+r.6   μισθ(οῦ(?)) χρυσώνου
+r.7   (ὑπὲρ(?)) τομαρ(ίων) ρ
+r.8   (ὑπὲρ) τῶν καθ( ) βις( ) ἀναλογίας τῶ̣ν̣ ε(?)( )
+r.9   δ(ιὰ) Θεωνᾶ διακ(όνου) (καὶ) Μηνᾶ
+r.10   (ὑπὲρ) συνθεμάτων
+
+[TRANSLATION]
+1   For the accountants: total 216 solidi.
+2   For the expenses of the apparitors: 68 solidi, less 60(?).
+3   For the chartularius ...
+4   Through Menas of the admirable (office?).
+5   For the warrant of the lord Iakobos.
+6   For the wage of the gold-purchaser(?).
+7   For 100 tomaria(?).
+8   For the ... proportional accounts of the ...
+9   Through Theonas the deacon and Menas.
+10   For agreements.

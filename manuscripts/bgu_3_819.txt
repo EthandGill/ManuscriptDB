@@ -1,0 +1,37 @@
+# ---------------------------------------------------------
+# BGU 3.819 - Tax receipts - katoikic nabion and oil-press registration
+# Source: papyri.info DDbDP bgu;3;819  (Trismegistos 9368)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.819
+label:    BGU 3.819
+name:     Tax receipts - katoikic nabion and oil-press registration
+genre:    receipts
+date:     203-204 CE
+language: Greek (Koine)
+found:    Arsinoite nome, Fayum, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7304
+content:  Sarapion pays the collectors of Herakleia 4 dr. for the katoikic nabion-tax (year 11) and 24 dr. for the oil-press registration (year 12)
+tm:       9368
+source:   https://papyri.info/ddbdp/bgu;3;819
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ἔτους ια διέγραψε Σαραπίων καὶ
+r.2   μετώχω [ἐ]ν κλήρου πράκ(τορες) ἀργ(υρικῶν) κώ(μης)
+r.3   Ἡρακλί̣ας εἰς Τῖξι ὑ πὲρ ναβίου κατύκ(ων)
+r.4   δραμὰς τ[έσ]σαρος (γίνονται) (δραχμαὶ) δ
+r.5   (hand 2) ἔτ[ο]υς ιβ ὁμύος ὁ α[ὐ]τὸ[ς] (hand 1) ὑ [π]ὲρ παρακραφῆς ἐλεοργίου
+r.6   δραχ[μὰς] εἴκοσι [τέσ]σαρος (γίνονται) (δραχμαὶ) κδ
+
+[TRANSLATION]
+1   Year 11: Sarapion paid, and
+2   partners, collectors of money-taxes of the village
+3   of Herakleia, to Tixis(?), for the nabion-tax of the katoikoi,
+4   four drachmas, total 4 dr.
+5   Year 12, likewise the same, for the registration of the oil-press,
+6   twenty-four drachmas, total 24 dr.

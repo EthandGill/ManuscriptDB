@@ -1,0 +1,57 @@
+# ───────────────────────────────────────────────
+# P.Tebt 2.411 — Letter — Paulinos: “the epistrategos is asking for you”
+# Source: papyri.info DDbDP p.tebt;2;411  (Trismegistos 28424)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       P.Tebt 2.411
+label:    P.Tebt 2.411
+name:     Letter — Paulinos: “the epistrategos is asking for you”
+genre:    letters
+date:     2nd century CE
+language: Greek (Koiné)
+found:    Tebtunis (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berkeley, Bancroft Library P. Tebt. 411
+content:  Come up that very hour — he was ready to post a proclamation; “do not be alarmed: when you arrive you will know what it is about”
+tm:       28424
+source:   https://papyri.info/ddbdp/p.tebt;2;411
+lat:      29.108
+lon:      30.937
+
+[GREEK]
+r.1   Παυλεῖνος Ἥρωνι τῶι
+r.2   υἱῶι χαίρειν.
+r.3   ἅμα τῷ λαβεῖν μου τὴν
+r.4   ἐπιστολὴν αὐτῇ ὥρᾳ
+r.5   ἄνελθε, ὁ γὰρ κράτιστος
+r.6   ἐπιστράτηγος ἱκανῶς
+r.7   σε ἐπεζήτησε. οἷός τε
+r.8   ἦν καὶ προγράψαι εἰ μὴ
+r.9   ἐπηγγειλάμην σήμερόν
+r.10   σε παρέσασθαι . μὴ οὖν
+r.11   ἄλλως ποιήσῃς, μηδὲν
+r.12   μέντοι θορυβηθῇς,
+r.13   παραγενόμενος γὰρ εἴσῃ
+r.14   ὅ τι ποτέ ἐστιν.
+r.15   ἐρρωσ(θαί) σε εὔχο(μαι).
+r.16   Παχ(ὼν) γ. v
+
+[TRANSLATION]
+1   Pauleinos to Heron his
+2   son, greeting.
+3   The moment you receive my
+4   letter, that very hour
+5   come up, for his excellency the
+6   epistrategos has been asking for
+7   you insistently. He was even ready
+8   to post a proclamation, had I not
+9   promised that today
+10   you would present yourself. So do not
+11   do otherwise — yet do not
+12   be at all alarmed:
+13   when you arrive you will know
+14   what it is about.
+15   I pray for your health.
+16   Pach(on) 3.

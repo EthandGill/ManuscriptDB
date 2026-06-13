@@ -1,0 +1,75 @@
+# ---------------------------------------------------------
+# BGU 3.889 - Register of Offers and Leases of Estate Land (Arsinoites)
+# Source: papyri.info DDbDP bgu;3;889  (Trismegistos 9401)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.889
+label:    BGU 3.889
+name:     Register of Offers and Leases of Estate Land (Arsinoites)
+genre:    contracts
+date:     nach 151
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7259 Ro
+content:  A second-century administrative register from the Arsinoite nome (after 151 CE) recording offers and leases of land, buildings, canals, and an olive-grove on the Maecenatian estate, with rents, payment terms, and notes on land left barren since the Jewish revolt.
+tm:       9401
+source:   https://papyri.info/ddbdp/bgu;3;889
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ̣υμενο( ) [ ̣ ̣]δ̣ ̣ ̣( ) κα ̣ ̣ ̣[ ̣] ̣[…]
+r.2   ὑπέσχ(ετο) ε[ ̣]ι̣ μδ καὶ προσδ(ιαγραφόμενα) ̣[ ̣ ̣ ̣ ̣]ρ̣ο Φαμ[ενὼθ ̣ ̣] ̣[…]
+r.3   ἀπὸ δὲ ι (ἔτους) [ε]ἰς (ἔτη) ϛ ἐμισθώθη τῷ [α]ὐτῷ Σαραπ(ίωνι) [ ̣ ̣ ̣ ̣ ̣] ̣[…]
+r.4   Ἁρποκ(ράτῃ) κα[ὶ] Διοσκουρίδῃ ἐπὶ Σ[ε]βεννύτου [ ̣ ̣ ̣ ̣] ̣ ̣ ̣[…]
+r.5   ἀργ(υρίου) (ταλάντων) γ (δραχμῶν) β̣[ ̣]λ̣θ καὶ προσδ(ιαγραφόμενα) ἀπ[ὸ] δ̣ὲ δ (ἔτους) ἐμισθ[ώθη ̣ ̣] ̣[…]
+r.6   προσδ(ιαγραφόμενα) κ[αὶ] Διοσκουρίδῃ ̣ ̣ ἐπὶ Σε[β(εννύτου)] ̣λ̣( ) ἐν̣ ̣[ ̣ ̣] ̣φ ̣[…]
+r.7   ὑπέσχ(ετο) Τ[ύ]ραν̣ν̣ος Ἀπολ(λωνίου) τοῦ κ(αὶ) Ἁρποκράτ[ου]ς ὡς [(ἔτων) ̣] ̣ μέσος ̣[…]
+r.8   οἰκιδου μονοστέγου Τεκτονικο(ῦ) λεγο(μένου) καὶ διώ(ρυγας) β μίαν μὲν Εὐμεν[ ] [λεγο(μένην)]
+r.9   τὴν δὲ ἑτ[έ]ραν (τριακονταρούρων) λεγο(μένην), ἃ προεῖχεν μισθῷ ὁ προγεγρ(αμμένος)
+r.10   Πτολ(εμαῖος) ὁ κ(αὶ) Ἁρποκρ[άτης]
+r.11   τὰς μὲν [διώ]ρυχας ἀπὸ ἀναβάσεως τοῦ ι (ἔτος) καὶ ἐκπεπ(τωκυίας) εἰς τὸ ια (ἔτος), τὸ δ[ὲ πυρ-]
+r.12   γίον ἀ[πὸ τ]οῦ αὐτοῦ ι (ἔτους) φόρου ρ̣μ καὶ προσδ(ιαγραφόμενα) καθὼς ἐπὶ ἐλαιῶ(νι) Τιμ ̣ ̣[ ̣ ̣ ̣]
+r.13   λεγομέν[ῳ π]ερὶ κώμην Σεβ(εννῦτον) δεδήλ(ωται).
+r.14   (hand 2) ιδ (ἔτους) Ἀντ[ωνίν]ου τοῦ κυρίου Φαρμο(ῦθι) α. ὑπέσχ(ετο) Δεῖος Διονυσίου εἰς (ἔτος) τὸ προκ(είμενον) πυργίο(ν) κ[αὶ]
+r.15   τὰς διώρυγ̣[ας] δύο εἰς (ἔτος(?)) ἓν σὺν μ(ετ)ό̣χ(οις) ἑτέρ[ο]ις ὡς η̣ καθὼς κ̣α̣ὶ̣ ἐπὶ ἐλαιῶν(ι) Πάσσαλα λεγ(ομένῳ) δεδήλ(ωται),
+r.16   ἐφʼ οὗ ὁ φόρ[ος καὶ] ἡ αἵρεσις παράκ(ειται) <(τάλαντον)> ἓν _(?)_ (δραχμαὶ) Δφ
+r.17   (hand 1) [ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ̣ διω[ρυγ ̣ ̣] ἕως ἀναπ( )
+r.18   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ̣ ̣ ̣ ̣ τῆ[ς γενομ(ένης)] ὁροθεσίας τ[οῦ] θ (ἔτους) εἶναι τῆς Μαικ(ηνατιανῆς) οὐσ[ίας]
+r.19   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣]α Σώτου σ̣[ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ̣ς τοῦ Σώτου μητρὸ(ς) Θαήσιος ἀπὸ κώμη[ς ̣ ̣ ̣]
+r.20   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ̣ ἀπὸ Φαμ[ενὼθ τοῦ] θ (ἔτους) εἰς (ἔτη) δ φόρ̣[ου] κατʼ ἔτος (δραχμὰς) ρμ καὶ π[ρ]οσδ(ιαγραφόμενα) [ ̣ ̣ ̣]
+r.21   [ ̣ ̣ ̣ ἀπὸ Μ]εσορὴ παρ[έμει(?)]νεν ἕως νῦν.
+r.22   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣]ιθην̣ων̣ λ̣[εγ(ομένη(?)) ̣ ̣] ἥπερ ἐγνώσθη ἐκ τῆς γενο(μένης) τῷ θ (ἔτει) τῶν οὐσι(ακῶν) κτ[ή(σεων)]
+r.23   [ὁροθεσίας] εἶναι τῆς [Μαι]κ(ηνατιανῆς) οὐσίας ἔρημος [ἐ]κ τοῦ πλείστου καταπεπ(τωκὼς) (ἀρουρ ) [ ̣]
+r.24   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ̣σ̣ιν[ ̣] ̣αφος τι ἀπὸ κα̣ὶ̣ τοῦ κα (ἔτους) ̣[ ̣ ̣ ̣]ο̣ ἐν τῷ Ἰουδ(αϊκῷ) ταράχῳ ταξ( ) υ ̣[ ̣]
+r.25   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣]θ̣α̣ι ἣ καὶ μέχρι νῦν ἄφορος
+
+[TRANSLATION]
+1   ...umeno( ) [..]d...( ) ka...[.].[...]
+2   he promis(ed) e[.]i 44 and the additional charges ...[....]ro Pham[enoth ..].[...]
+3   and from the 10th (year) [f]or 6 (years) it was leased to the [s]ame Sarap(ion) [.....].[...]
+4   to Harpok(rates) an[d] Dioskourides at S[e]bennytos [....]...[...]
+5   of silver, 3 (talents), 2[.]l[.]th (drachmas), and the additional charges; and fr[om] the 4th (year) it was leas[ed ..].[...]
+6   additional charges, al[so] to Dioskourides .. at Se[b(ennytos)] .l.( ) in ...[..].ph.[...]
+7   T[y]rannos son of Apol(lonios) also (called) Harpokrat[e]s promis(ed), being about [.] years (old), of middle (build) ...[...]
+8   of a single-storey house called Tektonikon, and 2 canals (diorygas), one called Eumen[ ] [called]
+9   and the oth[e]r called (the field) of the thirty-arouras (men), which the aforewri(tten) Ptol(emaios) held in advance at a rent
+10   Ptol(emaios) also (called) Harpokr[ates]
+11   the [ca]nals from the flood of the 10th (year) and lapsing into the 11th (year), and the small tower (pyr-)
+12   from the same 10th (year), at a rent of 14[0] and additional charges, just as concerning the olive-grove called Tim..[...]
+13   called, [n]ear the village of Seb(ennytos), it has been declared.
+14   (hand 2) 14th (year) of Ant[onin]us the lord, Pharmo(uthi) 1. Deios son of Dionysios promis(ed) for the af(ore)said (year) the small tower an[d]
+15   the two canals for one (year)(?), together with other par(t)ners, about 8, just as concerning the olive-grove called Passala it has been declared,
+16   on which the rent [and] the offer stands at <(a talent)> one (?), (drachmas) 4,500
+17   (hand 1) [.......] . of the can[al ..] until anap( )
+18   [.......] ..... of the [survey] boundary-fixing of the 9th (year), (it is declared) to belong to the Mae(cenatian) est[ate]
+19   [.......]a of Sotes s[.......].s son of Sotes, mothe(r) Thaesis, from the villag[e of ...]
+20   [.......] . from Pham[enoth of the] 9th (year) for 4 (years), at a rent per year of (drachmas) 140 and ad(ditional charges) [...]
+21   [... from M]esore it has re[main]ed(?) until now.
+22   [......]ithenon l[eg(omene)(?) ..] which it was ascertained, from the (survey) made in the 9th (year) of the estate hol[dings],
+23   [boundary-fixing], to belong to the [Mae]c(enatian) estate, deserted for the most part, fallen into ruin, (arouras) [.]
+24   [.......] .sin[.] .aphos something from also the 21st (year) ...[...]o in the Jew(ish) disturbance tax( ) 400 .[.]
+25   [.......]thai which also until now is unproductive

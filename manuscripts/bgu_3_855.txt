@@ -1,0 +1,37 @@
+# ---------------------------------------------------------
+# BGU 3.855 - Contract handing over a slave-girl for service
+# Source: papyri.info DDbDP bgu;3;855  (Trismegistos 9383)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.855
+label:    BGU 3.855
+name:     Contract handing over a slave-girl for service
+genre:    contracts
+date:     8 Nov 147 CE
+language: Greek (Koine)
+found:    Soknopaiou Nesos (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7287
+content:  Paouetis the younger, a priest of Soknopaiou Nesos, acknowledges to Herieus the weaver that he hands over his slave-girl Tasous for one year and six months
+tm:       9383
+source:   https://papyri.info/ddbdp/bgu;3;855
+lat:      29.5377
+lon:      30.6856
+
+[GREEK]
+r.1   ἔτ[ο]υς κ̣α̣ Α[ὐτοκ]ράτορος Καίσαρος Τίτου Αἰλί[ο]υ Ἁδρια[νοῦ]
+r.2   Ἀντωνί[νου] Σ[ε]βαστοπῦ Εὐσεβοῦς Ἁθὺρ ια. ὁμολογεῖ
+r.3   Π̣α̣ουῆτ̣[ις] νεώτ(ερος) Ὀννώφρεως τοῦ Ὀννώφρεως ἱερέως
+r.4   [ἀ]πὸ κώμ[ης Σ]οκνοπ(αίου) Νήσου Ἑριεῦτι Ἁρπαγάθου
+r.5   γ̣[ε]ρδί̣ῳ̣ ἐπ[ ̣ ̣]ω̣σμοῦ τὴν παιδίσκιν μου Τασοῦς ἐφʼ ἐνι-
+r.6   αυτὸν ἕνα κ̣[α]ι μῆνα(ς) ἕξ
+
+[TRANSLATION]
+1   Year 21 of Imperator Caesar Titus Aelius Hadria[nus]
+2   Antoninus Augustus Pius, Hathyr 11. There acknowledges
+3   Paouetis the younger, son of Onnophris son of Onnophris, priest,
+4   from the village of Soknopaiou Nesos, to Herieus son of Harpagathes,
+5   weaver, ... that my slave-girl Tasous (is given) for one
+6   year and six months.

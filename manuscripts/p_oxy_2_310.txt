@@ -1,0 +1,37 @@
+# ---------------------------------------------------------
+# P.Oxy 2.310 - Tax receipt - weaver-tax of an apprentice
+# Source: papyri.info DDbDP p.oxy;2;310  (Trismegistos 16686)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.310
+label:    P.Oxy 2.310
+name:     Tax receipt - weaver-tax of an apprentice
+genre:    receipts
+date:     27 July 56 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Glasgow, University Gen 1026 /6
+content:  Apion son of Tryphon, apprentice of the Teumenouthis quarter, pays the weaver-tax for year 1 in three installments (15, 15, 6 dr.)
+tm:       16686
+source:   https://papyri.info/ddbdp/p.oxy;2;310
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   ἔτους β Νέρωνος Κλαυδίου Καίσαρος Σεβαστοῦ
+r.2   Γερμανικοῦ Αὐτοκράτορος, Πα(ῦνι) κ Σεβα(στῆι). διαγ(εγράφηκεν) ὑπ(ὲρ) γερδ(ιακοῦ) α (ἔτους)
+r.3   Τευμεν(ούθεως) Ἀπίω(ν) Τρύφωνο(ς) μαθ(ητής), α (ἔτους) διὰ Θέω(νος) (δραχμὰς) δέκα
+r.4   πέντ(ε), (γίνονται) ιε. Ἐπὶφ ι ὁ α(ὐτὸς) Ἀπίω(ν) Τρ(ύφωνος) μαθ(ητὴς) διὰ
+r.5   Διον(υσίου) δραχ(μὰς) δέκα πέντε, (γίνονται) ιε· μη(νὸς) Καισαρείου γ ὁ α(ὐτὸς)
+r.6   διὰ Ἀπολ(λωνίου) (δραχμὰς) ἓξ, (γίνονται) ϛ
+
+[TRANSLATION]
+1   Year 2 of Nero Claudius Caesar Augustus
+2   Germanicus Imperator, Pauni 20, dies Augusta. Has paid for the weaver-tax of the 1st year,
+3   (quarter of) Teumenouthis: Apion son of Tryphon, apprentice - 1st year, through Theon, ten
+4   (and) five, total 15. Epeiph 10, the same Apion son of Tryphon, apprentice, through
+5   Dionysios, fifteen drachmas, total 15; month Kaisareios 3, the same,
+6   through Apollonios, six drachmas, total 6.

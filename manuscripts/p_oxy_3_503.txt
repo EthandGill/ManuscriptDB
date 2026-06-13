@@ -1,0 +1,87 @@
+# ---------------------------------------------------------
+# P.Oxy 3.503 - Division of a House and Courtyard
+# Source: papyri.info DDbDP p.oxy;3;503  (Trismegistos 20637)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.503
+label:    P.Oxy 3.503
+name:     Division of a House and Courtyard
+genre:    contracts
+date:     11. Juni 118
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Chicago, Haskell Oriental Institute 8340
+content:  Epimachos son of Harsiesis, his cousins Epimachos and Petosiris, and their paternal aunt Sepsarion agree to divide among themselves by lot a house and courtyard with four palm-trees in the village of Kerketheyris, defining each party's share and right of access.
+tm:       20637
+source:   https://papyri.info/ddbdp/p.oxy;3;503
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   [ἔ]τους δευτέρου Αὐτοκράτορος Καίσαρος Τραιανοῦ Ἁδριανοῦ Σεβαστοῦ Ἐπεὶφ ιζ, ἐ[ν Ὀ]ξυρύγχ(ων) πόλ(ει) τῆς [Θηβ(αίδος)].
+r.2   [ὁμολογοῦ]σιν ἀλλήλοις Ἐπίμαχος Ἁρσιήσιος τοῦ Ἐπιμάχου μητρὸς Δημῆτος καὶ οἱ ἀνεψιοὶ
+r.3   Ἐπίμαχ[ος]
+r.4   καὶ Πετοσεῖρις ἀμφ[ότ]εροι Διονυσίου τοῦ Ἐπιμάχ[ο]υ μητρὸς Θατρῆτος καὶ ἡ πάντων αὐτῶν
+r.5   πρὸς πατρὸς τη[θὶς Σε-]
+r.6   ψάριον Ἐ[π]ιμάχου τοῦ Διονυσίου μητρὸς Θατρῆτος πάντες ἀπʼ Ὀξυρύγχων πόλεως, ἡ δὲ
+r.7   Σεψάριον μετὰ κυρίου [ ̣ ̣ ̣ ̣ ̣ ̣]
+r.8   Ἑρμᾶτος Θέωνος ἐν ἀγυιᾷ διῃρῆσθαι πρὸς ἑαυτοὺς ἐξ εὐδοκούντων ἐπὶ τοῦ παρόντος τὴν
+r.9   ὑπάρχουσαν αὐτοῖ[ς]
+r.10   ἐν κώμῃ Κερκεθύρει οἰκίαν καὶ αὐλὴν ἐν ᾗ φοίνικες τέσσαρες , ὧν πάντων μέτεστι τῷ
+r.11   μ̣[ὲν] [ Ἐπιμάχῳ Ἁρσιήσιος μέ-]
+r.12   ρη δύο ἀπὸ μερῶν πέντε , τῷ δὲ Ἐπιμάχῳ καὶ Πετοσείρι ἀμφοτέροις Διονυσίου ἐξ ἴ σου μέρη δύο , [τῇ δὲ Σεψαρίῳ]
+r.13   [Ἐπιμάχου μ]έρ[ο]ς ἕν , καὶ κεκληρῶσθαι τὸν μὲν Ἐπίμαχον Ἁρσιήσιος τὰ ἑαυτοῦ μέρη
+r.14   δύο ἐκ τοῦ ἀ̣[πὸ βορρᾶ μέρους]
+r.15   [… διατεῖνον λίβα] ἐπʼ ἀπηλιώτην ἐπὶ τὸ πέρας τῶν ὅλων τόπων, [τὴν δ]ὲ̣ Σ̣[εψάριον Ἐπιμά-]
+r.16   [χου ἐχομένως μετὰ τὸν Ἐπί]μαχ[ο]ν Ἁρσιήσιος ἐπὶ νότον διατεῖνον λίβα ἐπʼ ἀπηλιώτην
+r.17   ἐπὶ τὸ πέρα[ς τῶν ὅλων τό-]
+r.18   [πων, καὶ] τὸν Πετοσεῖριν ἐχομένως μετὰ τὴν Σεψάριον ἐπὶ νότον τὸ ἑαυτοῦ μέρος ἓν
+r.19   δι[ατεῖνο]ν λίβα ἐ[πʼ ἀπηλι-]
+r.20   [ώτην ἐπὶ] τὸ πέρας τῶν ὅλων τόπων, καὶ τὸν Ἐπίμαχον Διονυσίου ἐχομένως μετὰ τὸν ἀδελφὸν αὐτοῦ Πετοσ[εῖ-]
+r.21   [ριν Διονυσίου] ὁμοίως τὸ ἑαυτοῦ μέρος ἓν διατεῖνον ὁμοίως λίβα ἐπʼ ἀπηλιώτην ἐπὶ
+r.22   τὸ [πέ]ρ[α]ς τῶν ὅλων τόπ[ων]
+r.23   [ἕνα δ’ ἕκαστο]ν αὐτῶν σὺν τοῖς συνεμπεσουμένοις εἰς ἃ κεκλήρωται φορτίοις τῶν τεσσάρων φοινίκων σὺν
+r.24   […] ̣ εἰς τὰ τοῦ Ἐπιμάχου καὶ Πετοσείριος ἀμφοτέρων Διονυσίου μέρη ο̣ ̣[ ̣ ̣ ̣ ἀ]μφοτέρω[ν ̣ ̣ ̣ ̣ ̣]
+r.25   [ ̣ ̣ ̣ συγχωροῦσ]ι̣ δὲ οἱ ὁμολογοῦντες ἕκαστος κατὰ τὰ προκείμενα αὐτοῦ μέρη εἴσο̣[δον …]
+r.26   [ ̣ ̣ ̣ ̣ ̣ ̣ ἀπηλι]ώ̣του τῆς ὅλης οἰκίας καὶ αὐλῆς μέρους πλάτους λιβὸς ἐπʼ ἀπηλιώτην π̣η̣[χῶν
+r.27   [… ἐπὶ τὸ π]έρας τῶν ὅλων τόπων εἰς ἣν εἴσοδον ἐξέσται αὐτοῖς ἀνεῖναι ἃς ἐὰν αἱρῶ[νται ̣ ̣ ̣ ̣]
+r.28   […]ι̣αν διʼ ἧς εἰσοδεύσει ἕκαστος αὐτῶν εἰς μόνα ἃ κεκλήρω[ται] ὡ̣ς̣ πρόκειται, διοι̣[κεῖν
+r.29   δὲ]
+r.30   [ἕκαστον αὐτῶν καὶ κρατεῖ]ν καὶ κυριεύειν ὧν λέλονχεν εἰς τὸν αἰεὶ χρόνον [… ἑ]κ̣ατε[ρ ̣ ̣ ̣ ̣ ̣]
+r.31   [… μηδὲν] ἐνκαλεῖν ἀλλ[ήλοις κατὰ μηδέ]ν̣α τ[ρόπον ]
+
+[TRANSLATION]
+1   In the second year of the Emperor Caesar Trajan Hadrian Augustus, Epeiph 17, in the city of the Oxyrhynchites of the Thebaid.
+2   Epimachos son of Harsiesis son of Epimachos, his mother being Demes, and the cousins,
+3   Epimachos
+4   and Petosiris, both sons of Dionysios son of Epimachos, their mother being Thatres, and the paternal aunt of them all,
+5   Se-
+6   psarion daughter of Epimachos son of Dionysios, her mother being Thatres, all from the city of the Oxyrhynchites, and
+7   Sepsarion with as guardian ...
+8   Hermas son of Theon, in the street, acknowledge to one another that they have divided among themselves by mutual consent for the present the
+9   house and courtyard belonging to them
+10   in the village of Kerketheyris, in which there are four palm-trees, of all which there belongs to
+11   Epimachos son of Harsiesis
+12   two parts out of five parts, and to Epimachos and Petosiris, both sons of Dionysios, in equal share two parts, and to Sepsarion
+13   daughter of Epimachos one part, and that there has been allotted by lot to Epimachos son of Harsiesis his own two parts from the
+14   north part,
+15   [...] extending from west to east to the end of the whole grounds, and to Sepsarion daughter of Epi-
+16   machos, adjoining, after Epimachos son of Harsiesis, on the south, extending from west to east
+17   to the end of the whole
+18   grounds, and to Petosiris, adjoining, after Sepsarion, on the south, his own one part
+19   extending from west to east
+20   to the end of the whole grounds, and to Epimachos son of Dionysios, adjoining, after his brother Peto-
+21   siris son of Dionysios, likewise his own one part extending likewise from west to east to
+22   the end of the whole grounds;
+23   and that each one of them, together with the loads (rubble) falling in upon them, into what has been allotted, of the four palm-trees together with
+24   [...] into the parts of Epimachos and Petosiris both sons of Dionysios ... of both ...
+25   And the acknowledging parties agree, each according to his aforesaid parts, an entrance [...]
+26   [...] on the east of the whole house and courtyard, of a part of a width from west to east of cubits ...
+27   [...] to the end of the whole grounds, into which entrance it shall be permitted to them to leave open whatever (doors) they may choose ...
+28   [...] through which each of them will enter into only the (parts) which he has been allotted as stated above, and to manage
+29   and (that)
+30   [each of them] hold and own what he has obtained by lot for ever ... each (of the two?)
+31   [... nor] make any claim against one another in any way.

@@ -1,0 +1,109 @@
+# ---------------------------------------------------------
+# P.Oxy 3.507 - Loan of Money Secured on Fodder
+# Source: papyri.info DDbDP p.oxy;3;507  (Trismegistos 20639)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.507
+label:    P.Oxy 3.507
+name:     Loan of Money Secured on Fodder
+genre:    contracts
+date:     27. März - 25. Apr. 146
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Oxford, Sackler Library, Papyrology Rooms P. Oxy. 507
+content:  Harmiysis acknowledges a loan of 260 silver drachmas at one drachma per mina interest from Diogenes, to be repaid with interest by Phamenoth, securing the debt on hay stored in a leased camel-stable.
+tm:       20639
+source:   https://papyri.info/ddbdp/p.oxy;3;507
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Ἁρμιῦσ[ις ]
+r.2   ἀπὸ τοῦ Ἀ[φροδίσιου τῆς Μικρᾶς Ὀάσεως]
+r.3   Διογένει Σαραπ[ίωνος ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.4   ἠγορανομηκό[τι ἐνάρχῳ γυμνα-]
+r.5   σιάρχῳ τῆς Ὀξυ[ρυγχιτῶν] [ πόλεως νε-]
+r.6   ωκόρῳ Τύχη[ς χαίρειν. ὁ-]
+r.7   μολογῶ παρειλ[ηφέναι παρὰ σοῦ ἀρ-]
+r.8   γυρίου δραχμ[ὰς διακοσίας ἑξήκοντα]
+r.9   κεφαλαίου αἷς [οὐδὲν προσῆκται τόκου]
+r.10   δραχμιαίου ἑκάστη[ς μνᾶς τοῦ μη-]
+r.11   νὸς ἑκάστου ἀπὸ τοῦ [ὄντος μηνὸς]
+r.12   Φαρμοῦθι. ἀποδώσ[ω δὲ τὸ κεφά-]
+r.13   λαιον σὺν τοῖς τόκ[οις τῇ τριακάδι]
+r.14   τοῦ Φαμεν[ὼθ τοῦ εἰσ]ιόντος
+r.15   δεκάτου ἔτου[ς Αὐρηλί]ου Ἀντωνίνου
+r.16   Καίσαρος τοῦ κυ[ρίου χωρὶ]ς ὑπερθέ-
+r.17   σεως, εἰ δὲ μὴ [ἐκτε]ίσω σοι μεθʼ ἡ-
+r.18   μιολίας σὺν τοῖς καὶ τῆς ὑπερχρονεί-
+r.19   ας ἴσοις δρα[χ]μιαίοις τόκοις ἑκάσ-
+r.20   της μνᾶς κατὰ μῆνα, τῆς πράξεως
+r.21   σοι οὔσης ἔκ τε ἐμοῦ καὶ ἐκ τῶν ὑπαρ-
+r.22   χόντων μοι π[ά]ντων. τὰς δὲ
+r.23   προκειμένας δραχμὰς διακοσίας
+r.24   ἑξήκοντα κατατέθειμαι εἰς συν-
+r.25   ωνὴν χόρτου ἀποτ[ε]θ̣ησομένου
+r.26   ἐν ᾧ ἔχω ἐν μισθώσει καμηλ̣ῶ-
+r.27   νι Σιμίλεως ἐν τῇ Ὀξυρύγχω[ν] πό-
+r.28   λει, ὅνπερ χόρτον οὐκ ἐξέσται μοι
+r.29   βαστάξαι οὐδὲ πωλεῖν οὐδὲ ὑποτί-
+r.30   θεσθαι ἄχρι οὗ ἀποδῶ σοι τὸ κεφά-
+r.31   λαιον καὶ τοὺς τόκους διὰ τὸ ὑ πένγυ-
+r.32   όν σοι εἶναι. ἐὰν δέ τις κίνδυνος
+r.33   συμβῇ τοῦ αὐτοῦ χόρτου οὐδὲν
+r.34   βλάβος ἐξακολουθήσι σοι διὰ τὸ
+r.35   εἶναι τὸ ἀργύριον σὺν τοῖς τόκοις
+r.36   ἀκίνδυνον παντὸς κινδύνου. κύρι-
+r.37   ον τὸ χειρό[γ]ραφον δισσὸν γραφὲν
+r.38   πανταχῇ ἐ[πι]φερόμενον.
+r.39   (ἔτους) θ Αὐτοκράτορος Καίσαρος
+r.40   Μάρκου Αὐρη[λί]ου Ἀντωνίνου Σεβαστοῦ
+r.41   Ἀρμενιακο[ῦ] [ Μ]ηδικοῦ Παρθικοῦ Μεγίστου
+r.42   [Φαρμοῦθι ̣ ̣]
+
+[TRANSLATION]
+1   Harmiysis
+2   from the Aphrodision of the Small Oasis
+3   to Diogenes son of Sarapion, ...
+4   former agoranomos, gymnasiarch-in-office
+5   of the city of the Oxyrhynchites, temple-
+6   warden of Tyche, greeting. I ac-
+7   knowledge that I have received from you of sil-
+8   ver two hundred and sixty drachmas
+9   of capital, to which nothing has been added, at interest
+10   of one drachma per each mina each
+11   month from the present month
+12   Pharmouthi. And I will repay the capi-
+13   tal together with the interest on the thirtieth
+14   of Phamenoth of the coming
+15   tenth year of Aurelius Antoninus
+16   Caesar the lord, without delay;
+17   but if I do not repay you, I will pay (it) back with the
+18   half-as-much-again, together with the interest equal to the dues for the over-
+19   time, the same one-drachma interest for each
+20   mina per month, the right of execution
+21   belonging to you against both me and
+22   all my property. And the
+23   aforesaid two hundred
+24   and sixty drachmas I have deposited for the joint-
+25   purchase of hay to be stored
+26   in the camel-stable which I hold on lease,
+27   (that) of Similis in the city of the Oxyrhynchites,
+28   which very hay it will not be permitted to me
+29   to carry off nor to sell nor to mort-
+30   gage until I repay you the capi-
+31   tal and the interest, because it is pledged
+32   to you. And if any peril
+33   should befall the said hay, no
+34   harm shall follow upon you, because
+35   the money together with the interest
+36   is free of all peril. Valid
+37   is the handwritten document, written in duplicate,
+38   producible everywhere.
+39   Year 9 of the Emperor Caesar
+40   Marcus Aurelius Antoninus Augustus
+41   Armeniacus Medicus Parthicus Maximus,
+42   [Pharmouthi ..]

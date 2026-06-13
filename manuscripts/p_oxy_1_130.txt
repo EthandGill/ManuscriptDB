@@ -1,0 +1,71 @@
+# ---------------------------------------------------------
+# P.Oxy 1.130 - Petition - Anup begs the patrician Apion for relief
+# Source: papyri.info DDbDP p.oxy;1;130  (Trismegistos 20771)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 1.130
+label:    P.Oxy 1.130
+name:     Petition - Anup begs the patrician Apion for relief
+genre:    petitions
+date:     c. 548 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10072
+content:  A Byzantine tenant on the Apion estate at Phakra petitions his lord, the dux and patrician Apion, for mercy: his beasts died, he borrowed 15 solidi, and the estate agents will not heed the lord’s order to relieve him
+tm:       20771
+source:   https://papyri.info/ddbdp/p.oxy;1;130
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   † τῷ ἐμῷ ἀγαθῷ δεσπότῃ φιλοχρίστῳ φιλοπτόχῳ παν-
+r.2   ευφήμῳ ὑ περφυεστάτῳ πατρικίῳ καὶ δουκὶ τῆς Θηβαίων
+r.3   χώρας Ἀπίωνι π(αρὰ) Ἀνοὺπ ἐλεεινοῦ ὑ μετέρου δούλου ἀπὸ τοῦ διαφέροντος
+r.4   αὐτῇ κτήματος καλουμένου Φάκρα.
+r.5   οὐδὲν ἄδικον ἢ ἀσεβὲς κέκτηται ὁ ἔνδοξος οἶκος τοῦ ἐμοῦ ἀγαθοῦ
+r.6   δεσπότου, ἀλλʼ ἀεὶ μεστός ἐστι ἐλεημοσύνης ἐπιρέον τοῖς ἐδέεσιν
+r.7   τὰ χριώδη . ὅθεν κἀγὼ ὁ ἐλεεινὸς δοῦλος τοῦ ἐμοῦ ἀγαθοῦ δεσπότου
+r.8   διὰ ταύτης μοῦ τῆ[ς] παρούσης δεησεήσεως ἐλεηθῆναί μοι βούλομαι
+r.9   γνῶναι τὴν ὑ μετέραν δεσποτίαν ὡς ἐκ πατέρων καὶ ἐκ προγόνων δουλεύειν
+r.10   τῷ ἐμῷ ἀγαθῷ δεσπότῃ πληρῶσαι ἐτησίως τὰ δημόσια· καὶ θεοῦ
+r.11   βουλήσει ἐπὶ τῆς παρελθούσης ἑνδεκάτης ἰ νδ(ικτίονος) καὶ τῆς παρελθούσης
+r.12   δεκάτης θ̣εθνάναι τὰ ἐμὰ κτηναι , καὶ χρυσίον οὐκ ὀλίγον ἐδανισάμην
+r.13   νο(μίσματα) ιε̣ ἕως ὅτε δυνηθῶ ἀγοράσαι τὰ αὐτὰ κτήνη. {καὶ} ἀλλʼ ὅτε προσῆλθον
+r.14   τῷ ἐμῷ ἀγαθῷ δεσπότῃ καὶ ἐλεῆσαί με ἐλθον ἐνταῦθα, οἱ διαφέροντες
+r.15   τοῦ ἐμοῦ δεσπότου οὐκ ἠνεσχετο ποιῆσαι κατὰ τὴν κέλευσιν τοῦ ἐμοῦ ἀγαθοῦ
+r.16   δεσπότου. ἐὰν γάρ, δέσποτα, μὴ καταλάβεͅ με ὁ ἔλεός σου, οὐ δύνομαι σταθῆναι
+r.17   ἐν τῷ ἐμῷ κτήματι καὶ χρησιμεῦσαι τοῖς γεουχικοῖς πράγμασιν. καὶ
+r.18   παρακαλῶ καὶ κατικελεύω τὴν ὑ μετέραν δεσποτίαν προστάξαι ἐλεηθῆναί
+r.19   με, ἐπε[ι]δὴ εἰς μεγάλην ἀνατροπὴν ἦλθον. οὐκ ἔχω γὰρ ἄλλην κατα-
+r.20   φυγὴν εἰ μὴ τὴν τοῦ δεσπότου Χριστοῦ καὶ τῆς ὑ μετέρας ὑ περοχῆς.
+r.21   καὶ ὕ μνους ἀθανάτους ἀναπέμψω τῷ δεσπότῃ Χριστῷ ὑ πὲρ τῆς
+r.22   ζωῆς τῆς ὑ μετέρας δεσποτίας καὶ τοῦ ὑ περφυεστάτου αὐτῆς υἱ οῦ
+r.23   Στρατηγίου δεσπότου. †
+
+[TRANSLATION]
+1   † To my good lord, lover of Christ, lover of the poor, all-
+2   praiseworthy, most magnificent patrician and dux of the Thebaid,
+3   Apion, fr(om) Anup, your pitiable slave, from the property belonging to
+4   it called Phakra.
+5   Nothing unjust or impious does the glorious house of my good
+6   lord possess; rather it is ever full of mercy, pouring out upon the needy
+7   their necessities. Wherefore I too, the pitiable slave of my good lord,
+8   through this my present petition wish to be shown mercy,
+9   (and) that your lordship know how, from fathers and forefathers, I have served
+10   my good lord (and) paid yearly the public dues; and, by God’s
+11   will, in the past eleventh indiction and the past
+12   tenth my beasts died, and I borrowed no little gold,
+13   15 sol(idi), until I could buy the same beasts. But when I came
+14   to my good lord and (when) he came here to have mercy on me, the agents
+15   of my lord would not act according to the command of my good
+16   lord. For if, master, your mercy does not reach me, I cannot stand
+17   on my property and be of use for the landlord’s affairs. And
+18   I beg and entreat your lordship to order that I be shown mercy,
+19   since I have come to great ruin. For I have no other ref-
+20   uge except that of the Master Christ and of your eminence.
+21   And I will send up undying hymns to the Master Christ for the
+22   life of your lordship and of her most magnificent son
+23   Strategios the lord. †

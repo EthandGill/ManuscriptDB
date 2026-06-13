@@ -1,0 +1,69 @@
+# ───────────────────────────────────────────────
+# BGU 3.807 — Receipt — military requisition of barley for the Heraklian cavalry-wing
+# Source: papyri.info DDbDP bgu;3;807  (Trismegistos 44370)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.807
+label:    BGU 3.807
+name:     Receipt — military requisition of barley for the Heraklian cavalry-wing
+genre:    receipts
+date:     Oct–Nov 185 CE
+language: Greek (Koiné)
+found:    Hermopolite nome, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 9002
+content:  A duplicarius of the Heraklian ala at Koptos certifies receipt of 15 artabas of barley levied on the village of Magdola toward 20,000 artabas for the wing
+tm:       44370
+source:   https://papyri.info/ddbdp/bgu;3;807
+lat:      27.7803
+lon:      30.8016
+
+[GREEK]
+r.1   Πλουτογένει βασιλ(ικῷ) γραμματ(εῖ) διαδεχομ(ένῳ) τὰ κατὰ
+r.2   τὴν στρατηγίαν
+r.3   Ἀντώνιος Οὐηστεῖνος δουπλικάριος, διαπεμ-
+r.4   φθεὶς ὑπὸ Οὐαλερίου Φροντίνου ἐπάρχου τῆς
+r.5   ἐν Κόπτῳ ἴλης Ἡρακλιανῆς. μεμέτρημαι
+r.6   παρὰ Ἀσιήους Φίβιος τοῦ Ἀσιήους καὶ Ἰναρω-
+r.7   οῦτος Κολλούθ(ου) Κορνηλίου, πρεσβυτέρων Μαγδώ-
+r.8   λων Πετεχῶντος τοῦ Κουσσείτου ἄνω, τὰς ἐπιβλη-
+r.9   θ[εί]σας τῇ κώμῃ αὐτῶν ἀπὸ τῶν κελευ-
+r.10   σθεισῶν ὑπὸ τοῦ ἡγεμονευσαν Λογγαίου
+r.11   Ῥούφου συνωνηθῆναι ἀπὸ γενήματος κδ (ἔτους)
+r.12   εἰς χρείαν τῆς προκειμένης ἴλης ἀρταβῶ(ν)
+r.13   μυριάδων δύο κριθῆς μέτ(ρῳ) δημοσίῳ δοχικ(ῷ)
+r.14   μετρήσει τῇ κελευσθείσης κριθῆς (ἀρταβῶν) δέκα
+r.15   πέντα ἀκολούθως τῷ γενομένῳ ἐπιμε-
+r.16   ρισμῷ ὑπὸ τῶν τοῦ νομοῦ πραγματικῶν.
+r.17   τὴν δὲ ἀποχὴν ταύτην τετρασσὴν ἐξεδόμην.
+r.18   (ἔτους) κϛ Αὐτοκρ[ά]τορος Καίσαρος Μάρκ[ο]υ [Αὐ]ρηλ[ίου]
+r.19   [Κομμ]όδ[ου Ἀντωνί]νου [Σε]βαστοῦ [Εὐτυχοῦς]
+r.20   [Εὐσεβοῦς Ἀρμενιακοῦ Μηδικ]οῦ Παρ[θ]ικοῦ [Σαρματικοῦ]
+r.21   [Γε]ρμανικοῦ Β[ρετανν]ικοῦ Μεγίσ[το]υ Ἁθὺ[ρ ̣ ̣]
+r.22   [⁦ -ca.?- ⁩ (hand 2) ⁦ -ca.?- ⁩]ου[⁦ -ca.?- ⁩]
+
+[TRANSLATION]
+1   To Ploutogenes, royal scribe acting in the matters of
+2   the strategia,
+3   Antonius Vestinus, duplicarius, dispatched
+4   by Valerius Frontinus, prefect of the
+5   Heraklian cavalry-wing at Koptos. I have had measured out
+6   to me from Asies son of Phibis son of Asies, and Inaro-
+7   ous son of Kollouthos son of Cornelius, elders of Magdo-
+8   la of Petechon the Kousseite, Upper, the
+9   (barley) levied on their village out of what was order-
+10   ed by the former prefect Longaeus
+11   Rufus to be requisitioned from the produce of the 24th (year)
+12   for the use of the aforesaid wing — of barley, two
+13   myriads of artabas, by the public receiving-measure,
+14   by the ordered measurement, of barley fifteen artabas,
+15   in accordance with the apportionment made
+16   by the procurators of the nome.
+17   And I have issued this receipt in quadruplicate.
+18   Year 26 of Imperator Caesar Marc[u]s [Au]rel[ius]
+19   [Comm]od[us Antoni]nus [Au]gustus [Pius]
+20   [Felix Armeniacus Medic]us Par[th]icus [Sarmaticus]
+21   [Ge]rmanicus B[retann]icus Greate[s]t, Hathy[r ..]
+22   [… (2nd hand) …]ou[…]

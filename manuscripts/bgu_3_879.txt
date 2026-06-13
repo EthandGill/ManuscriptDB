@@ -1,0 +1,39 @@
+# ---------------------------------------------------------
+# BGU 3.879 - Penthemeros receipt - dyke-work at Psennophris of Karanis
+# Source: papyri.info DDbDP bgu;3;879  (Trismegistos 9393)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.879
+label:    BGU 3.879
+name:     Penthemeros receipt - dyke-work at Psennophris of Karanis
+genre:    receipts
+date:     11 Aug 164 CE
+language: Greek (Koine)
+found:    Karanis (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7333
+content:  Ptolemaios son of Onnophris has worked the five-day embankment corvee at the canal of Psennophris of Karanis in the joint reign of Marcus Aurelius and Lucius Verus
+tm:       9393
+source:   https://papyri.info/ddbdp/bgu;3;879
+lat:      29.5186
+lon:      30.9036
+
+[GREEK]
+r.1   ἔτους δ [Αὐτ]οκράτορος Καίσαρος
+r.2   Μάρκ[ου] Αὐρηλίου Ἀντωνίνου
+r.3   Σεβαστ[ο]ῦ καὶ Αὐτοκράτορος Καίσαρος
+r.4   Λουκίου Α̣ὐρηλίου Οὐήρου Σεβαστοῦ.
+r.5   εἴργ(ασται) ὑπ(ὲρ) χω(ματικῶν) τοῦ α(ὐτοῦ) δ (ἔτους) Μεσορὴ ιδ
+r.6   ἕως ιη ἐν τ(ῇ(?)) Ψεννώ(φρεως) Καρα(νίδος) Πτολ(εμαῖος)
+r.7   Ὀννώ(φρεως) το(ῦ) Πακύσιο(ς) Τκατει τ.
+
+[TRANSLATION]
+1   Year 4 of [Imp]erator Caesar
+2   Marc[us] Aurelius Antoninus
+3   Augustus and Imperator Caesar
+4   Lucius Aurelius Verus Augustus.
+5   Has worked for the embankment-dues of the same 4th year, Mesore 14
+6   to 18, in the (canal) of Psennophris of Karanis: Ptolemaios
+7   son of Onnophris son of Pakysis, (mother) Tkatei(?).

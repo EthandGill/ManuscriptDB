@@ -1,0 +1,43 @@
+# ───────────────────────────────────────────────
+# BGU 4.1081 — Letter — Didymos to his lady Hermione: greetings
+# Source: papyri.info DDbDP bgu;4;1081  (Trismegistos 27750)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1081
+label:    BGU 4.1081
+name:     Letter — Didymos to his lady Hermione: greetings
+genre:    letters
+date:     2nd–3rd century CE
+language: Greek (Koiné)
+found:    Arsinoite nome, Fayum, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13363
+content:  A short note of greeting and prayer for Hermione’s health, asking for news of how she fares; greetings to the family
+tm:       27750
+source:   https://papyri.info/ddbdp/bgu;4;1081
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Δίδυμο[ς] Ἑρμιόνῃ τῇ κυρίᾳ πο[λλ]ὰ χαίρειν.
+r.2   εὐκαιρί̣α̣ν εὑρὼν τοῦ πρὸς σὲ ἐρχομένου
+r.3   ἐχάρην, ἵνα σὲ ἀσπάζομαι καὶ εὔχομαι τοῖς
+r.4   θεοῖς ὑπὲ[ρ] σοῦ, ἵνα σὲ διαφυλά[ξ]ωσι καὶ ἤδη καλῶς
+r.5   ποιήσ[ει]ς ἐπιστείλας ἡμεῖν περὶ τῆς σῆς ὑγίας .
+r.6   ἀσπάζονταί σε υἱοί σου, ἀσπάζομαι Εὐδαίμονα
+r.7   καὶ Σουεροῦν καὶ Εὐδαιμονίδα καὶ ε̣λκικη̣ν̣
+r.8   ἔρρω[σο]. v
+r.9   Ἑρμιόνῃ ☓ ἀπὸ Διδύμου
+
+[TRANSLATION]
+1   Didymo[s] to Hermione his lady, ma[n]y greetings.
+2   Finding the opportunity of the man coming to you,
+3   I rejoiced, that I might greet you and pray to the
+4   gods for you, that they keep you safe; and now you will do well
+5   to write us about your health.
+6   Your sons greet you; I greet Eudaimon
+7   and Souerous and Eudaimonis and Elkike(?).
+8   Farewell.
+9   To Hermione ✗ from Didymos.

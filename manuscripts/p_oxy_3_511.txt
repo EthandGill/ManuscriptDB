@@ -1,0 +1,55 @@
+# ---------------------------------------------------------
+# P.Oxy 3.511 - Receipt - the balance of a mortgage-tax
+# Source: papyri.info DDbDP p.oxy;3;511  (Trismegistos 20642)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.511
+label:    P.Oxy 3.511
+name:     Receipt - the balance of a mortgage-tax
+genre:    receipts
+date:     4 Sept 103 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Graz, Universität Ms. I 1931
+content:  Harmiusis acknowledges receiving from Didymos the remaining 16 drachmas of the mortgage-tax of the 3rd year of Trajan, promising to issue the formal receipt on arrival
+tm:       20642
+source:   https://papyri.info/ddbdp/p.oxy;3;511
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Ἁρμιῦσις ὁ καὶ Ἡρακλᾶς
+r.2   Δ[ι]δύμ̣ῳ̣ Σαραπί̣ω̣νος δημο-
+r.3   σίῳ̣ ἀφρ̣ο̣δ(ισιαστῇ(?)) χαίρειν. ἔχω
+r.4   παρὰ σοῦ λυπὸν τέλος
+r.5   ὑποθηκς τῆς ἐπὶ τοῦ
+r.6   γ (ἔτους) Τραιανοῦ Καίσαρος
+r.7   τοῦ κυρίου ἀργυρίου δρα-
+r.8   χμὰς δέκα ἕξ, (γίνονται) (δραχμαὶ) ιϛ, ἃς
+r.9   καὶ ἀποδώσω σοι ἐπὶ
+r.10   τῶν τόπων γενόμενος
+r.11   ἀνυπερθέτως.
+r.12   (ἔτους) ζ Αὐτοκράτορος
+r.13   Καίσαρος Νέρουα Τραιανο[ῦ]
+r.14   Σεβαστοῦ Γερμανικοῦ
+r.15   Δακικοῦ Θὼθ ϛ.
+
+[TRANSLATION]
+1   Harmiusis also called Heraklas,
+2   to D[i]dymos son of Sarapion, public
+3   keeper of an aphrodision(?), greeting. I have
+4   from you the remaining tax
+5   of the mortgage of the
+6   3rd year of Trajan Caesar
+7   the lord - silver drach-
+8   mas sixteen, total 16 dr., which
+9   I will also repay you when
+10   I come to the place,
+11   without delay.
+12   Year 7 of Imperator
+13   Caesar Nerva Traja[n]
+14   Augustus Germanicus
+15   Dacicus, Thoth 6.

@@ -1,0 +1,83 @@
+# ───────────────────────────────────────────────
+# BGU 4.1157 — Hire-purchase of a timber barge — thirty-five cubits long
+# Source: papyri.info DDbDP bgu;4;1157  (Trismegistos 18607)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 4.1157
+label:    BGU 4.1157
+name:     Hire-purchase of a timber barge — thirty-five cubits long
+genre:    contracts
+date:     11–10 BCE
+language: Greek (Koiné)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13093 Ro
+content:  Three prior tribunal agreements over a 1,032-drachma loan resolve into a fifty-year lease of two-thirds of Ammonios’ timber-carrying barge
+tm:       18607
+source:   https://papyri.info/ddbdp/bgu;4;1157
+lat:      31.2
+lon:      29.9
+
+[GREEK]
+r.1   Πρω[τάρχωι]
+r.2   π[αρὰ Ἀμμωνίου τοῦ ⁦ -ca.?- ⁩ καὶ παρὰ Πνεφερῶτος τοῦ ⁦ -ca.?- ⁩]
+r.3   [καὶ Πιεσιήους τοῦ ⁦ -ca.?- ⁩ καὶ Πετεαρενφόις τοῦ Π]ι̣ε̣σ̣ιήους.
+r.4   [ἐπεὶ κατὰ συνχωρήσεις τρεῖς τὰς τελειωθείσας διὰ τοῦ κριτηρίου κατὰ μὲν μίαν] τ̣ὴ̣(ν) γ̣ε̣γ̣ο̣ν̣υ̣ῖ̣α̣ν̣ [ἐν τῷ]
+r.5   [τε]τ̣[ά]ρ̣τῳ̣ [(ἔτει) Κα]ί[σα]ρος Π[αῦνι (?)- ca.11 - ὁμολογήκασιν ἀπέχειν] ὅ̣ τ̣ε̣ Πνεφερὼς̣ καὶ
+r.6   Π̣ι̣ε̣σ̣ι̣ῆ̣ς̣ καὶ ἔτι Πετε̣αρε̣ν̣φόις Π̣ι̣ε̣σ̣ι̣ῆ̣ος παρὰ τοῦ Ἀμμωνίου ἀ̣ρ̣[γ]υ̣ρ̣ί̣ο̣υ̣
+r.7   δραχμὰς χιλίας τριάκοντα
+r.8   δύο ἐντόκους, κατὰ δὲ τὴν ἑτέραν ὡμολόγηκεν ὁ Ἀμμώνιος κομισάμενος ταύτας καὶ τ̣ο̣ὺ̣ς̣
+r.9   τ̣ό̣[κους]
+r.10   ἀνοίσειν εἰς τοὺς τρεῖς συνχώρησιν περὶ μισθοπρασίας τ[ῆ]ς ὑπαρχούσης αὐτῷ σκάφης ξ̣υ̣λ̣η-
+r.11   γοῦ πηχῶν τριάκοντα πέντε πλάτους πηχῶν ἕνδεκα, κατὰ δὲ τὴν τρίτην
+r.12   τὴν γεγονυῖαν ἐν τῶι ἐννεακαιδεκάτωι ἔτει Καίσαρος Ἐπεὶφ τ̣ὸ̣ν̣ Ἀμμώνιον κατειληφότα
+r.13   παρὰ
+r.14   τοῦ Πνεφερῶτος καὶ Π̣ι̣ε̣σ̣ι̣ή̣ους εἰς τὸ προκείμενον κεφάλαιον ἀ[ρ]γυρίου δραχμὰς τρια-
+r.15   κοσίας ἀνε̣ν̣η̣ν̣ο̣χ̣έ̣ν̣α̣ι̣ εἰς Πετε̣αρε̣ν̣φ̣ό̣ς κατὰ τὸ ὑπʼ αὐτῶν ε̣ὐ̣δ̣(οκηθὲν) περὶ μισθοπρα-
+r.16   σίας θ̣ε̣ ̣ ̣ τρίτου μέρους τῆς δηλουμένης σκάφης συνχώρησιν, τὰ νῦν συνχωροῦμε(ν)
+r.17   πρὸς ἑατοὺς ἐπὶ τοῖσδε ὁ Ἀμμώνιος κεκομισμένος παρὰ τοῦ Πνεφερῶς καὶ Π̣ι̣ε̣σ̣ι̣ή̣ους τὰς λ̣ο̣ι̣π̣(ὰς) - ca.10 -
+r.18   τοῦ δ̣α̣ν̣είο̣υ̣ ἀ̣ρ̣γ̣υ̣(ρίου) δραχμὰς {ο(?)} ἑπτακοσίας τριάκοντα δύο καὶ τ̣ο̣ὺ̣ς̣ γ̣ε̣γ̣ε̣ν̣ημένους
+r.19   τόκους καὶ π̣ο̣ι̣ή̣σ̣ε̣ι̣ν̣ ἀκύρους ̣ ̣ ̣ τὰς δηλουμένας τ̣ο̣ῦ̣ δ̣α̣ν̣ε̣ί̣ο̣(υ) [καὶ] τ̣ῆ̣(ς) μ̣ι̣σ̣θ̣ο̣π̣ρ̣α̣σ̣ί̣α̣ς̣ συν-
+r.20   χωρήσεις, αὐτόθεν δὲ μεμ̣ι̣σ̣θ̣ω̣κ̣έ̣ν̣α̣ι̣ α̣ὐ̣τ̣ο̣ῖ̣ς̣ Πνεφερῶτι κ̣α̣ὶ̣ [Πιε]σ̣ι̣ῆ
+r.21   εἰς χ̣ρ̣ό̣(νον) ἔ̣τ̣η
+r.22   πεντήκοντα ἀπὸ Φαρμοῦθι τοῦ ἐνεστῶτος εἰκοστοῦ ἔτους Καίσαρος τὰ λοιπὰ μέρη
+r.23   [δύο τῆς αὐτῆς σκάφης] … ἐ̣ρ̣γ̣ά̣ζ̣ε̣σ̣θ̣α̣ι̣ - ca.9 -
+r.24   τ̣ο̣ π̣ρ̣ο̣σ̣κ̣ο̣μίζειν καὶ ὅτι ἐὰν θέλωσι συντελεῖν, α̣ὐ̣τ̣ό̣θ̣ε̣ν̣ δὲ - ca.16 -
+r.25   [μ]η̣δετ̣έρο̣υ̣ς̣ αὐτῶν μηδʼ ἄλλον ὑπὲρ αὐτοῦ μηδέ(να) ἐπελεύσεσθαι π̣ε̣ρ̣ὶ̣ - ca.12 -
+r.26   κεκ̣ομ[ ̣ ̣ ̣ ̣ ̣ ̣]ε̣ι̣ ̣ ̣ καὶ τῶν τόκων, βεβαιώσειν δὲ τὰ δύο μέρη τῆ[ς σκά]φ̣η̣[ς - ca.10 -]
+r.27   [- ca.10 -] ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣δ̣υ̣σ̣ὶ̣ π̣α̣ρ̣α̣χ̣ρῆμα̣ ἀ̣π̣α̣ρ̣α̣π̣ο̣δ̣ί̣σ̣τ̣ω̣ς̣ ἢ χωρὶς τοῦ κύρια ε̣ἶ̣ν̣α̣ι̣
+r.28   [τὰ συγκεχωρημένα ἐκτίνειν τὸ] κεφάλαιον σὺν ἡμιολίᾳ [καὶ τὰ βλάβη καὶ δαπανήματα]
+r.29   [καθάπερ ἐκ δίκης. ⁦ -ca.?- ⁩]
+
+[TRANSLATION]
+1   To Pro[tarchos]
+2   f[rom Ammonios son of …, and from Pnepheros son of …,]
+3   [and Piesies son of …, and Petearenphois son of P]iesies.
+4   [Whereas, by three agreements completed through the tribunal — by one,] made [in the]
+5   four[th (year) of Ca]esar, P[auni(?) …,] Pnepheros and
+6   Piesies, and further Petearenphois son of Piesies, [have acknowledged receipt] from Ammonios of one thousand
+7   and thirty-two silver drachmas
+8   at interest; and by the second, Ammonios has acknowledged that, on recovering these and the
+9   in[terest,]
+10   he will credit them to the three — an agreement of hire-purchase of the timber-carry-
+11   ing barge belonging to him, of thirty-five cubits, eleven cubits in beam; and by the third,
+12   made in the nineteenth year of Caesar, Epeiph, that Ammonios, having received
+13   from
+14   Pnepheros and Piesies, toward the aforesaid principal, three hun-
+15   dred silver drachmas, has credited them to Petearenphois according to the agreement approved by them concerning hire-pur-
+16   chase of … a third share of the said barge — now we agree
+17   with one another on these terms: Ammonios, having recovered from Pnepheros and Piesies the remain(ing) […]
+18   of the loan — seven hundred and thirty-two silver drachmas — and the accrued
+19   interest, shall render void … the said agreements of the loan [and] of the hire-purchase,
+20   and forthwith has leased to them, Pnepheros and [Pie]sies,
+21   for a per(iod) of
+22   fifty years from Pharmouthi of the present twentieth year of Caesar, the remaining
+23   [two] shares [of the same barge,] … to work it …
+24   … to bring in, and whatever they may wish to contribute; and forthwith […]
+25   neither of them, nor any other on his behalf, shall proceed about […]
+26   … and the interest; and he shall guarantee the two shares of the [bar]ge […]
+27   […] … to the two, at once, unimpeded; or — the agreed terms remaining nonetheless valid —
+28   [he shall pay back the] principal with half again, [and the damages and expenses,]
+29   [as if by legal judgment. …]

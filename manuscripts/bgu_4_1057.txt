@@ -1,0 +1,101 @@
+# ---------------------------------------------------------
+# BGU 4.1057 - Loan of Money with Surety (Two Copies)
+# Source: papyri.info DDbDP bgu;4;1057  (Trismegistos 18502)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1057
+label:    BGU 4.1057
+name:     Loan of Money with Surety (Two Copies)
+genre:    contracts
+date:     9. Apr. 13 v.Chr.
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13070 Ro
+content:  A loan agreement before Protarchos at Alexandria in which Thermouthis and Philoxenos acknowledge receiving 100 silver drachmas from Chairemon at two-drachma monthly interest, to be repaid in thirty days, with Heliodoros standing surety; followed by a second related agreement, dated year 17 of Caesar, Pharmouthi 14.
+tm:       18502
+source:   https://papyri.info/ddbdp/bgu;4;1057
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   κόλ(λημα)
+r.2   Πρωτάρχωι
+r.3   παρὰ Χαιρήμονος τοῦ Ἰσιδώρου κ̣α̣ὶ̣ παρὰ Θ̣ε̣ρ̣μ̣ο̣ύ̣θιος τῆς Παδάλλου
+r.4   Περσείνης μ̣ε̣τ̣ὰ̣ κ̣υ̣ρ̣ί̣ο̣υ̣ τ̣ο̣ῦ̣ υ̣ἱ̣ο̣ῦ̣ Φ̣ι̣λ̣ο̣ξ̣έ̣ν̣ο̣υ̣ τοῦ Φιλοξένου καὶ αὐτο(ῦ)
+r.5   Φιλοξένου καὶ ̣ ̣ ̣ ̣ ἐγγυωμ̣έ̣ν̣ο̣υ̣ ε̣ἰ̣ς̣ ἔ̣κ̣τ̣ι̣σ̣ι̣ν̣ Ἡλιοδώρου τοῦ Κανδάνου ἀμφοτέρων Π̣ε̣ρ̣σ̣ῶ̣ν̣
+r.6   τῆς ἐπιγο(νῆς)
+r.7   περὶ τῶν διεστ[αμέν]ων. συνχωρο̣ῦ̣σ̣ιν Θ̣ε̣ρ̣μ̣ο̣ῦθις καὶ Φιλόξενος
+r.8   ἔχιν παρὰ τοῦ [Χ]αιρήμονος δ̣ά̣ν̣ε̣ι̣ο̣ν̣ διὰ χειρὸς ἐξ οἴκου ἀργυρίου
+r.9   Πτολεμαικοῦ δραχμὰς ἑκατὸν τ̣ό̣κ̣ω̣ν διδράχμων τ̣ο̣ῦ̣ μη̣ν̣ὸ̣ς̣ ἑκάστο(υ)
+r.10   ὃ καὶ ἀποδώσειν σὺν τοῖς τόκοις ἐν ἡμέραις τ̣ρ̣ι̣ά̣κ̣ο̣ν̣τ̣α̣ ἀ̣π̣ὸ̣ τ̣ε̣σ̣σ̣α̣ρ̣ε̣σ̣-
+r.11   καιδεκάτης τοῦ ἐνεστῶτος μηνὸς Φαρμοῦθι τοῦ ἑπτακαιδεκάτου ἔτους
+r.12   Καίσαρος ἄνευ πάσης ὑπερθέσεως ἢ εἶναι αὐτοὺς παραχρῆμα ἀγωγίμους καὶ
+r.13   συνέχεσθαι μ̣έ̣χ̣ρ̣ι̣ τοῦ ἐκτῖσαι τὸ μὲν δάνειον σὺν ἡμιολίαι, τοὺς δὲ τόκους ἁπλο(ῦς),
+r.14   τοῦ δὲ ὑπερπεσόντος χρόνου τοὺς ἴσους τῆς πράξεως γεινομένης τῷ Χαιρήμο(νι)
+r.15   ἐκ τῶν ὑποχρέ(ων) Θερμούθιος καὶ Φιλοξένου καὶ ἐκ τοῦ ἐνγύου Ἡλιοδώρου
+r.16   καὶ ἐξ ἑνὸς καὶ ἐξ οὗ ἐὰν αἱρῆται καὶ ἐκ τῶν ὑπαρχόντων αὐτοῖς πάντων κα[θάπε]ρ ἐγ δ(ίκης)
+r.17   ἀκύρων οὐσῶν καὶ ὧν ἐὰν ἐπενένκωσιν πίστεων πασῶν σκέπης πάσης.
+r.18   (ἔτους) ιζ Καίσαρος Φαρμοῦθι ιδ ζ(?)( )
+r.19   Πρωτάρχωι
+r.20   παρὰ Ἡλιοδώρο(υ) τοῦ Κανδάνου καὶ παρὰ Θερμούθιο(ς) τῆς Κανδάνου Περ-
+r.21   σεινη μετὰ κυρίου τοῦ υἱοῦ Φιλοξένου Πέρσου τῆ(ς) ἐπιγ(ονῆς) καὶ
+r.22   αὐτοῦ Φιλοξένο(υ) περὶ τῶν διεσταμέ(νων). συνχωρ(οῦσι) Θερμοῦθις καὶ Φιλόξενο(ς) παρέ-
+r.23   ξεσθαι τὸν Ἡλιόδωρο(ν) ἀπερίσπαστο(ν) καὶ ἀπαρενόχλη(τον) ὑπὲρ ὧν ἐνγυᾶται
+r.24   αὐτο(ὺς) δανειζομένο(υς) παρὰ Χαιρή(μονος) τοῦ Ἰσιδώρο(υ) κατὰ τὴ(ν) ἀ̣π̣ὸ̣ τ̣α̣ύ̣τ̣η̣ς̣
+r.25   τετελει-
+r.26   ωμένη(ν) διὰ τοῦ αὐτοῦ κριτη(ρίου) συγχώρη(σιν) ἀργυ(ρίου) (δραχμὰς) ἑκατὸν τόκ(ων)
+r.27   διδρ[άχμ(ων)]
+r.28   εἰς ἡμέρ(ας) τριάκοντα ἀπὸ τοῦ ἐνε(στῶτος) μη(νὸς) Φαρμ(οῦθι) τοῦ ιζ (ἔτους) Καίσαρος καὶ ἐπ̣ά̣-
+r.29   ναγ(κον) καταβαλ(εῖν) ἀμφο(τέρους) τῷ Χαιρή(μονι) τὰς τοῦ ἀργυ(ρίου) (δραχμὰς) καὶ
+r.30   τοὺς τόκ(ους) ἐν τῇ προκ(ειμένῃ)
+r.31   ἡμέρ(ᾳ) πρὸς τὸ περιλυθῆ(ναι) τὸν Ἡλιόδωρο(ν), ἐὰν δέ τι παραβ(αίνωσιν) ἐκτίν(ειν)
+r.32   αὐτοὺς
+r.33   ὃ ἐὰν πραχθῇ ἢ βλαβῇ ὁ Ἡλιόδωρο(ς) τοῦ δανείου χ̣ ἀ̣ρ̣γ̣υ(ρίου) (δραχμὰς(?)) ἑ̣κ̣α̣τ̣ὸ̣(ν)
+r.34   καὶ τόκ(ων) τῆς πράξεως γεινομ(ένης) τῶι Ἡλιοδώρ(ωι) ἔκ τε ἀμφο(τέρων) ἀλληλενγύων
+r.35   εἰς ἔκτι(σιν) καὶ ἐξ ἑνὸς καὶ ἐξ οὗ ἐὰν αἱρῆ(ται) καὶ ἐκ τῶν ὑπαρχ(όντων) αὐτοῖς καθάπερ
+r.36   ἐγ δίκ(ης) ἀκύρ(ων) οὐσῶν καὶ
+r.37   ὧν ἐὰν ἐπενένκ(ωσι) πίστε(ων) πασῶν σκέπ(ης) πάση(ς).
+r.38   (ἔτους) ιζ Καίσαρος Φαρμο(ῦθι) ιδ
+
+[TRANSLATION]
+1   Sheet (kollema)
+2   To Protarchos,
+3   from Chairemon son of Isidoros and from Thermouthis daughter of Padallos,
+4   Persian woman, with her guardian her son Philoxenos son of Philoxenos, and (from) the same
+5   Philoxenos and [...] standing surety for the repayment, Heliodoros son of Kandanos, both being Persians
+6   of the epigone.
+7   Concerning the matters at issue: Thermouthis and Philoxenos agree
+8   to have from [Ch]airemon a loan, by hand from the house, of silver,
+9   Ptolemaic, one hundred drachmas, at interest of two drachmas per month each,
+10   which they will also repay with the interest within thirty days from the four-
+11   teenth of the present month Pharmouthi of the seventeenth year
+12   of Caesar, without any deferral, or they shall be at once subject to seizure and
+13   be held until they pay the loan with half as much again, and the interest plainly,
+14   and for the time overrun the equal (interest), the execution being made for Chairemon
+15   from those liable, Thermouthis and Philoxenos, and from the surety Heliodoros
+16   and from any one and from whichever he chooses and from all their possessions, just as by a court judgment,
+17   (the documents) being void, and of all pledges whatsoever they may bring forward, and of all protection.
+18   Year 17 of Caesar, Pharmouthi 14, z(?)( )
+19   To Protarchos,
+20   from Heliodoros son of Kandanos and from Thermouthis daughter of Kandanos, Per-
+21   sian woman, with her guardian her son Philoxenos, Persian of the epigone, and
+22   the same Philoxenos. Concerning the matters at issue: Thermouthis and Philoxenos agree to pro-
+23   vide Heliodoros undisturbed and untroubled concerning those for whom he stands surety,
+24   (namely) themselves, borrowing from Chaire(mon) son of Isidoros according to the agreement completed from this
+25   having been comple-
+26   ted through the same tribunal, of silver (drachmas) one hundred, of interest
+27   at two drach[mas],
+28   for thirty days from the present month Pharm(outhi) of the 17th year of Caesar, and being under com-
+29   pulsion both to pay to Chaire(mon) the (drachmas) of silver and
+30   the interest on the aforesaid
+31   day, so that Heliodoros be released; and if they transgress anything, that they pay
+32   them,
+33   whatever may be exacted from or Heliodoros be damaged of the loan, [...] of silver (drachmas(?)) one hundred
+34   and of interest, the execution being made for Heliodoros from both, mutually liable,
+35   for repayment, and from any one and from whichever he chooses and from their possessions, just as
+36   by a court judgment, (the documents) being void, and
+37   of all pledges whatsoever they may bring forward, of all protection.
+38   Year 17 of Caesar, Pharmouthi 14

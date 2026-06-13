@@ -1,0 +1,79 @@
+# ---------------------------------------------------------
+# P.Oxy 2.245 - Declaration of sheep and lambs
+# Source: papyri.info DDbDP p.oxy;2;245  (Trismegistos 20514)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 2.245
+label:    P.Oxy 2.245
+name:     Declaration of sheep and lambs
+genre:    documents
+date:     30 Jan 26 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Philadelphia, University of Pennsylvania Museum E 2759
+content:  Herakleios and Naris register 12 sheep (six each) with following lambs, to graze around Pela and through the nome, mixed with another’s flock; countersigned by the toparch
+tm:       20514
+source:   https://papyri.info/ddbdp/p.oxy;2;245
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   (hand 1) ξη
+r.2   (hand 2) Χαιρέαι στρατηγῶι
+r.3   παρὰ Ἡρακλείου τοῦ
+r.4   Ἀπίωνος καὶ Νάριδος
+r.5   τοῦ Κολλούθου πρσβυ-
+r.6   τέρου . ἀπογραφόμεθα
+r.7   εἰς τὸ ἐνεστὸς ιβ (ἔτος)
+r.8   Τιβερίου Καίσαρος Σεβαστοῦ
+r.9   τὰ ὑπάρχοντα ἡμεῖν
+r.10   πρόβ(ατα) ἑκάστῳ ἕξ ,
+r.11   πρ(όβατα) ιβ, ἃ νεμήσεται
+r.12   σὺν το͂ς ἐπακολουθοῦ-
+r.13   σι ἀρνάσι περὶ Πέλα τῆς
+r.14   πρὸς λίβα τοπαρχίας
+r.15   καὶ διʼ ὅλου τοῦ νομοῦ
+r.16   ἐπιμεμιγμένα τοῖς
+r.17   Διονυσίου τοῦ Ἱππάλου
+r.18   διὰ νομέως τούτου
+r.19   υἱοῦ Στράτωνος νεω-
+r.20   τέρου λαογραφουμένο(υ)
+r.21   εἰς τὴν αὐτὴν Πέλα·
+r.22   ὧν καὶ ταξόμεθα τὸ καθῆ-
+r.23   κον τέλος. εὐ̣τ̣[ύ]χ̣(ει).
+r.24   (hand 3) Σαρα(πίων) τοπ(άρχης) σεση(μείωμαι) πρόβατα
+r.25   δέκα δύο, (γίνεται) ιβ.
+r.26   (hand 2?) (ἔτους) ιβ Τιβερίου Καίσαρος
+r.27   Σεβαστοῦ, (hand 1?) Μεχ(εὶρ) ε.
+
+[TRANSLATION]
+1   68
+2   To Chaireas, strategos,
+3   from Herakleios son of
+4   Apion, and Naris son
+5   of Kollouthos, eld-
+6   er. We register
+7   for the present 12th year
+8   of Tiberius Caesar Augustus
+9   the sheep belonging to us,
+10   six each,
+11   sheep 12, which will graze
+12   together with the follow-
+13   ing lambs, around Pela in the
+14   western toparchy
+15   and throughout the whole nome,
+16   mixed in with those
+17   of Dionysios son of Hippalos,
+18   through the shepherd of this man,
+19   (his) son Straton the youn-
+20   ger, registered for the poll-tax
+21   in the same Pela;
+22   for which we will also pay the prop-
+23   er tax. Fare[w]ell.
+24   I, Sara(pion) toparch, have signed: sheep
+25   twelve, total 12.
+26   Year 12 of Tiberius Caesar
+27   Augustus, Mech(eir) 5.

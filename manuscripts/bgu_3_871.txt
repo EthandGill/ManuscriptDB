@@ -1,0 +1,61 @@
+# ---------------------------------------------------------
+# BGU 3.871 - Petition of Kastor concerning robbery, insult, and violence
+# Source: papyri.info DDbDP bgu;3;871  (Trismegistos 28102)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.871
+label:    BGU 3.871
+name:     Petition of Kastor concerning robbery, insult, and violence
+genre:    petitions
+date:     II
+language: Greek (Koine)
+found:    Arsinoite nome (Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7449
+content:  A fragmentary petition from Kastor son of Onnophris to the epistrategos (or other official), referring to earlier petitions filed against an opponent and Terentius and concerning insult, violence, and robbery.
+tm:       28102
+source:   https://papyri.info/ddbdp/bgu;3;871
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   [ ] ̣ρβῳ τῷ κρατίστωι [ ]
+r.2   [ παρὰ Κά]στορος Ὀννώφρεως ἀ[πὸ κώμης ]
+r.3   [ Ἡρακλ]είδου μερίδος. ἐκ δικ[ ]
+r.4   ] σοι διὰ βιβλιδ[ί]ων δυο[ῖν ]
+r.5   [ περὶ ὕβρ]εως (?) καὶ β[ί]ας καὶ ἁρπαγ[ῆς ]
+r.6   [ ] τῶν ἐνκλημάτων [ ]
+r.7   [ ] τῷ ἀντιδίκῳ ἐ̣πι[ ]
+r.8   [ ] ̣ τῷ δὲ Τερεντί[ῳ ]
+r.9   [ τ]ῶν διαπρασσομένων [ ]
+r.10   [ ] καὶ ὑπέγραψάς μοι οὕτ[ως] · ἔ[ντυχε ]
+r.11   [ ] ̣ ἐνέτυχ[ο]ν τῷ στρα[τηγῷ ]
+r.12   βι]β̣λιδίων, ὃ̣ς δὲ ὑπὸ μ[ ]
+r.13   [ ] προσκα[ρτε]ρήσιν [τῷ βήματι (?)] [ ]
+r.14   [ ] ̣ου. πάλ[ιν] μὴ ἀρκε[σθεὶς ]
+r.15   [ τ]ὸν παῖδα εὐηθη ̣[ ]
+r.16   ἡσύ]χασα, ἀλλὰ ἐπέδωκα [ ]
+r.17   [ μ]α̣ρτυρ[ῶ(?)]μεν [ ]
+r.18   [ ]η δ[ι]αζη[ ]
+
+[TRANSLATION]
+1   [ ... ]rbus, the most excellent [ ]
+2   [ from Ka]stor son of Onnophris, fr[om the village of ]
+3   [ of the Herakl]eides division. From the right[ ]
+4   [ ... ] to you by means of two petition[s ]
+5   [ concerning insul]t (?) and violence and robber[y ]
+6   [ ... ] of the charges [ ]
+7   [ ... ] against the opponent ...[ ]
+8   [ ... ] and against Terenti[us ]
+9   [ of] the things being perpetrated [ ]
+10   [ ... ] and you subscribed for me thu[s]: ‘pe[tition ]
+11   [ ... ] I petitioned the str[ategos ]
+12   of pe]titions, and he who under m[ ]
+13   [ ... ] continued attendance [at the tribunal (?)] [ ]
+14   [ ... ]ou. Aga[in,] not being satisfi[ed ]
+15   [ the] servant simple-mindedly ...[ ]
+16   I kept] quiet, but I submitted [ ]
+17   [ we te]stif[y (?) ... ] [ ]
+18   [ ... ]e li[v]e through[ ]

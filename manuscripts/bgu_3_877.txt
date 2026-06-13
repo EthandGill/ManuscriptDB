@@ -1,0 +1,41 @@
+# ───────────────────────────────────────────────
+# BGU 3.877 — Penthemeros receipt — the ordered five-day stint
+# Source: papyri.info DDbDP bgu;3;877  (Trismegistos 9391)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ───────────────────────────────────────────────
+
+[META]
+id:       BGU 3.877
+label:    BGU 3.877
+name:     Penthemeros receipt — the ordered five-day stint
+genre:    receipts
+date:     6 Nov 159 CE
+language: Greek (Koiné)
+found:    Soknopaiou Nesos (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Warsaw, Department of Papyrology P. Berlin 7331
+content:  Stotoetis son of Apynchis has done the ordered five days’ embankment work in the Epagathian canal of Soknopaiou Nesos; signed by Phanias
+tm:       9391
+source:   https://papyri.info/ddbdp/bgu;3;877
+lat:      29.5377
+lon:      30.6856
+
+[GREEK]
+r.1   ἔτους κγ Αὐτοκράτορος Καίσαρος
+r.2   Τίτου Αἰλίου Ἁδριανο[ῦ Ἀν]τωνίνου
+r.3   Σεβαστοῦ Ε[ὐ]σεβοῦς. εἴργ(ασται) ὑπὲρ χωμ(ατικῶν)
+r.4   τοῦ διελ(ηλυθότος) κβ (ἔτους) Ἁθὺρ ε θ ἐν τ(ῇ) Ἐπαγ(αθιανῇ διώρυγι)
+r.5   τὴν κελ(ευσθεῖσαν) ε ἡ(μερῶν) πενθ(ήμερον) Σοκνοπ(αίου Νήσου)
+r.6   Στοτοῆ(τις) Ἀπύγχ(εως) τοῦ Στοτ(οήτιος)
+r.7   (μητρὸς) Τεκιάσιο(ς)
+r.8   (hand 2) Φανίας σεση(μείωμαι).
+
+[TRANSLATION]
+1   Year 23 of Imperator Caesar
+2   Titus Aelius Hadrian[us An]toninus
+3   Augustus P[i]us. Has worked for the embankment(-dues)
+4   of the past 22nd (year), Hathyr 5–9, in th(e) Epag(athian canal),
+5   the ordered 5 day(s’) five-day stint, of Soknop(aiou Nesos):
+6   Stotoe(tis) son of Apynch(is) son of Stot(oetis),
+7   (mother) Tekiasis.
+8   (2nd hand) I, Phanias, have signed.

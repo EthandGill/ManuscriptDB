@@ -1,0 +1,59 @@
+# ---------------------------------------------------------
+# P.Fay. 107 - Petition - Papontos reports the theft of hides
+# Source: papyri.info DDbDP p.fay;;107  (Trismegistos 10772)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Fay. 107
+label:    P.Fay. 107
+name:     Petition - Papontos reports the theft of hides
+genre:    petitions
+date:     24 Nov 133 CE
+language: Greek (Koine)
+found:    Theadelphia (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Cairo, Egyptian Museum CG 10796
+content:  Papontos, aged about 55, reports that four goatskins and four sheep-fleeces were stolen, asking the village patrol to make the due search and hold the guilty
+tm:       10772
+source:   https://papyri.info/ddbdp/p.fay;;107
+lat:      29.4333
+lon:      30.5333
+
+[GREEK]
+r.1   ι̣ ̣ ̣σ̣κ̣ ̣ ̣ ̣β̣ ̣ ̣[ ̣ ̣] ̣
+r.2   ὑφείλαντο δέρματα
+r.3   αἰγειαν τέσσαρα
+r.4   καὶ βότεια κώδεια
+r.5   τέσσαρα . ὧν χάριν
+r.6   ἀξιῶι συντάξαι τῶι
+r.7   τῆς κώμης ἐπιτρέ-
+r.8   χοντι ποήσασθαι τὴν
+r.9   καθήκουσαν ἀναζή-
+r.10   τησιν καὶ τοὺς φανέν-
+r.11   τας αἰτίους ἔχιν ἐν
+r.12   ἀσφαλείᾳ πρὸς τὴν δέ-
+r.13   ουσαν ἐπέξοδο(ν). διευτύχ(ει)
+r.14   Παποντ(ῶς) ὡ(ς) (ἐτῶν) νε οὐλ(ὴ)
+r.15   ὀφρύι δεξιᾷ.
+r.16   (ἔτους) ιη Ἁδριανοῦ Καίσαρος
+r.17   τοῦ κυρίου, Ἀθὺρ κη.
+
+[TRANSLATION]
+1   …[…]…
+2   they stole away
+3   four goat-
+4   skins
+5   and four sheep-fleeces.
+6   On account of which
+7   I ask that order be given to the
+8   patrolman of the village
+9   to make the
+10   due
+11   search and to keep those
+12   found guilty in
+13   custody for the
+14   due
+15   prosecution. Prosper.
+16   Papontos, aged about 55, a scar
+17   on the right eyebrow.

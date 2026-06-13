@@ -1,0 +1,63 @@
+# ---------------------------------------------------------
+# BGU 4.1064 - Bank order - transfer ten talents to the exegetes
+# Source: papyri.info DDbDP bgu;4;1064  (Trismegistos 18509)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1064
+label:    BGU 4.1064
+name:     Bank order - transfer ten talents to the exegetes
+genre:    documents
+date:     Dec 277 - Jan 278 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 10541
+content:  An order to the banker Sarapion to transfer ten talents of new silver coin to Aurelius Ofellius, exegetes of the Oxyrhynchites, in return for money received at Hermopolis; a single-copy autograph draft
+tm:       18509
+source:   https://papyri.info/ddbdp/bgu;4;1064
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣ Αὐρηλίῳ Σα]ρ[α-]
+r.2   πίωνι τραπ[εζ]είτῃ χαίρειν.
+r.3   καλ[ῶς] ποιήσεις με[τ]αβαλὼν
+r.4   τ[ῷ] παρὰ σοὶ ἐν Ὀξυ[ρυ]γχείτῃ Αὐ-
+r.5   ρηλίῳ Ὀφελλίῳ ἐξηγητῇ Ὀξυ-
+r.6   ρυγχειτῶν ἀνθʼ ὧν ἔσχον παρʼ αὐ-
+r.7   τοῦ ἐν Ἑρμο[υ]πόλει ἀργυρίου και-
+r.8   νοῦ νομίσματος ταλάντων δέκα,
+r.9   (τάλαντα) ι, τὰ ἴσα τοῦ ἀργυρίου τάλαντα [δ]έκα
+r.10   πλήρης ἀριθμοῦ καὶ μὴ αὐτὼ̣[ν] κα-
+r.11   τάσχῃς· τὴν δὲ ἐπιθήκη̣ν ταύ-
+r.12   την μοναχήν σοι ἐξεδόμην
+r.13   ἰδιόγραφόν μου καὶ κυρία ἔστω καὶ
+r.14   ἐπερωτηθεὶ[ς] ὡμολόγησα.
+r.15   (ἔτους) γ τοῦ κυρίου ἡμῶν Μάρκου
+r.16   Αὐρηλίου Πρόβου Σεβαστοῦ
+r.17   Τῦβι ̣ ̣
+r.18   σημα̣[σί(?)]α̣(?) ἐν Ὀξυρυγχείτῃ
+r.19   ἐπιζ̣( ) Σαραπίωνα διαστολέα.
+
+[TRANSLATION]
+1   [(N.N.) to Aurelius Sa]r[a-]
+2   pion, banker, greeting.
+3   You will do w[ell] to t[r]ansfer
+4   to (the man) with you in the Oxy[rhy]nchite, Au-
+5   relius Ofellius, exegetes of the Oxy-
+6   rhynchites, in return for what I had from
+7   him at Hermo[u]polis, of new sil-
+8   ver coin, ten talents,
+9   10 tal., the equal ten silver talents,
+10   full in number, and do not de-
+11   tain them; and this draft
+12   I have issued you in single copy,
+13   in my own hand, and let it be valid, and
+14   on being questioned I acknowledged it.
+15   Year 3 of our lord Marcus
+16   Aurelius Probus Augustus,
+17   Tybi …
+18   (Notice) in the Oxyrhynchite:
+19   … Sarapion the distributing-clerk.
