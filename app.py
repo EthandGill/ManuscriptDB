@@ -481,6 +481,13 @@ def api_health():
         info["db_connected"] = True
     except Exception as e:
         info.update({"ok": False, "db_connected": False, "error": type(e).__name__})
+    # Stripe config presence (booleans only — never expose key values)
+    info["stripe"] = {
+        "secret_key":     bool(os.environ.get("STRIPE_SECRET_KEY", "").strip()),
+        "price_id":       bool(os.environ.get("STRIPE_PRICE_ID", "").strip()),
+        "webhook_secret": bool(os.environ.get("STRIPE_WEBHOOK_SECRET", "").strip()),
+        "public_base_url": os.environ.get("PUBLIC_BASE_URL", "").strip() or None,
+    }
     return jsonify(info)
 
 
