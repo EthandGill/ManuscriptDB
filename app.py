@@ -481,6 +481,9 @@ def api_health():
         info["db_connected"] = True
     except Exception as e:
         info.update({"ok": False, "db_connected": False, "error": type(e).__name__})
+    # AI agent key presence (boolean only) — if false, the search agent falls
+    # back to keyword-only ("AI unavailable").
+    info["anthropic_key"] = bool(os.environ.get("ANTHROPIC_API_KEY", "").strip())
     # Stripe config presence (booleans only — never expose key values)
     info["stripe"] = {
         "secret_key":     bool(os.environ.get("STRIPE_SECRET_KEY", "").strip()),
