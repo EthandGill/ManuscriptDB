@@ -25,7 +25,7 @@ Uses only the existing User columns (is_subscribed, stripe_customer_id) — no D
 migration required.
 """
 
-import os
+import os, sys, traceback
 from flask import Blueprint, request, jsonify
 
 from accounts import db, User, current_user
@@ -117,6 +117,27 @@ def _set_subscribed(user, value, customer_id=None):
     db.session.commit()
 
 
+def _find_user_for_session(obj):
+    """Find the account for a completed checkout. Prefer client_reference_id
+    (our user id); fall back to the email Stripe collected during checkout."""
+    uid = obj.get("client_reference_id")
+    if uid:
+        try:
+            u = db.session.get(User, int(uid))
+            if u is not None:
+                return u
+        except (ValueError, TypeError):
+            pass
+    email = obj.get("customer_email") or ""
+    if not email:
+        details = obj.get("customer_details") or {}
+        email = details.get("email") or ""
+    email = email.strip().lower()
+    if email:
+        return db.session.query(User).filter_by(email=email).first()
+    return None
+
+
 @bp.route("/api/stripe-webhook", methods=["POST"])
 def stripe_webhook():
     stripe = _stripe()
@@ -128,37 +149,39 @@ def stripe_webhook():
     sig = request.headers.get("Stripe-Signature", "")
     try:
         event = stripe.Webhook.construct_event(payload, sig, secret)
-    except Exception:
+    except Exception as e:
         # bad signature or malformed — reject so Stripe retries / flags it
-        return jsonify({"error": "invalid_signature"}), 400
+        return jsonify({"error": "invalid_signature", "message": str(e)}), 400
 
-    etype = event["type"]
-    obj = event["data"]["object"]
+    # Process the event. Any failure is caught, logged to Railway, and returned
+    # as readable JSON (instead of an opaque 500 HTML page) so it's diagnosable.
+    try:
+        etype = event["type"]
+        obj = event["data"]["object"]
 
-    # 1) Checkout finished → activate the subscription for the referenced user.
-    if etype == "checkout.session.completed":
-        uid = obj.get("client_reference_id")
-        customer_id = obj.get("customer")
-        user = db.session.get(User, int(uid)) if uid else None
-        if user is not None:
-            _set_subscribed(user, True, customer_id)
+        if etype == "checkout.session.completed":
+            user = _find_user_for_session(obj)
+            if user is not None:
+                _set_subscribed(user, True, obj.get("customer"))
 
-    # 2) Subscription canceled or lapsed → revoke access.
-    elif etype in ("customer.subscription.deleted",):
-        customer_id = obj.get("customer")
-        user = db.session.query(User).filter_by(stripe_customer_id=customer_id).first()
-        if user is not None:
-            _set_subscribed(user, False)
+        elif etype == "customer.subscription.deleted":
+            cust = obj.get("customer")
+            user = db.session.query(User).filter_by(stripe_customer_id=cust).first()
+            if user is not None:
+                _set_subscribed(user, False)
 
-    # 3) Subscription updated → mirror its active/inactive status.
-    elif etype == "customer.subscription.updated":
-        customer_id = obj.get("customer")
-        status = obj.get("status")  # active, trialing, past_due, canceled, unpaid...
-        user = db.session.query(User).filter_by(stripe_customer_id=customer_id).first()
-        if user is not None:
-            _set_subscribed(user, status in ("active", "trialing"))
+        elif etype == "customer.subscription.updated":
+            cust = obj.get("customer")
+            status = obj.get("status")  # active, trialing, past_due, canceled...
+            user = db.session.query(User).filter_by(stripe_customer_id=cust).first()
+            if user is not None:
+                _set_subscribed(user, status in ("active", "trialing"))
 
-    return jsonify({"received": True})
+        return jsonify({"received": True})
+    except Exception as e:
+        db.session.rollback()
+        traceback.print_exc(file=sys.stderr)   # surfaces in Railway logs
+        return jsonify({"error": "handler_exception", "message": str(e)}), 500
 
 
 def init_billing(app):
