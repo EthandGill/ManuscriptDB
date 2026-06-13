@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 
     <!-- APP -->
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+    <link rel="stylesheet" href="{{ asset('style.css') }}" />
 </head>
 
 <body>
@@ -284,9 +284,9 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <!-- APP -->
-<script src="{{ url_for('static', filename='script.js') }}"></script>
-<script src="{{ url_for('static', filename='pauline_network.js') }}"></script>
-<script src="{{ url_for('static', filename='manuscript_network.js') }}"></script>
-<script src="{{ url_for('static', filename='account.js') }}"></script>
+<script src="{{ asset('script.js') }}"></script>
+<script src="{{ asset('pauline_network.js') }}"></script>
+<script src="{{ asset('manuscript_network.js') }}"></script>
+<script src="{{ asset('account.js') }}"></script>
 </body>
 </html>

@@ -1,9 +1,21 @@
-from flask import Flask, render_template, jsonify, request, redirect
+from flask import Flask, render_template, jsonify, request, redirect, url_for
 import os, re, gzip
 
 app = Flask(__name__)
 # Preserve dict insertion order in JSON responses (default sorts alphabetically)
 app.json.sort_keys = False
+
+
+@app.template_global()
+def asset(filename):
+    """Static URL with a ?v=<mtime> cache-buster so browsers always refetch a
+    file after it changes (avoids stale cached JS/CSS like the old login bar)."""
+    path = os.path.join(app.static_folder, filename)
+    try:
+        ver = int(os.path.getmtime(path))
+    except OSError:
+        ver = 0
+    return url_for("static", filename=filename) + "?v=" + str(ver)
 
 # Email accounts + freemium metering for the search agent (see accounts.py).
 from accounts import init_accounts, current_user, consume_quota
