@@ -25,7 +25,7 @@ Uses only the existing User columns (is_subscribed, stripe_customer_id) — no D
 migration required.
 """
 
-import os, sys, traceback
+import os, sys, json, traceback
 from flask import Blueprint, request, jsonify
 
 from accounts import db, User, current_user
@@ -148,16 +148,20 @@ def stripe_webhook():
     payload = request.get_data()
     sig = request.headers.get("Stripe-Signature", "")
     try:
-        event = stripe.Webhook.construct_event(payload, sig, secret)
+        # Verify the signature (raises if invalid)...
+        stripe.Webhook.construct_event(payload, sig, secret)
     except Exception as e:
         # bad signature or malformed — reject so Stripe retries / flags it
         return jsonify({"error": "invalid_signature", "message": str(e)}), 400
 
+    # ...then read the event from the raw JSON as plain dicts. This avoids the
+    # Stripe library's typed objects, whose .get() behavior raised AttributeError.
     # Process the event. Any failure is caught, logged to Railway, and returned
     # as readable JSON (instead of an opaque 500 HTML page) so it's diagnosable.
     try:
-        etype = event["type"]
-        obj = event["data"]["object"]
+        event = json.loads(payload)
+        etype = event.get("type")
+        obj = ((event.get("data") or {}).get("object")) or {}
 
         if etype == "checkout.session.completed":
             user = _find_user_for_session(obj)
