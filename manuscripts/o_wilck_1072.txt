@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1072
+label:    O.Wilck. 1072
+name:     Menders'-tax quittance (Commodus)
+genre:    receipts
+date:     16. Jun 192
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8652
+content:  Herieus and partners, menders'-tax overseers, receive the tax of Pauni of year 32 of Commodus from Panameus.
+tm:       77539
+source:   https://papyri.info/ddbdp/o.wilck;;1072
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἑριεὺς κ(αὶ) μ(έτοχοι) ἐπιτ(ηρηταὶ) τέλ(ους) ἠπητ(ῶν) τοῦ λβ (ἔτους)
+r.2    Παναμ(εῖ) Φαήριο(ς). ἐσχήκ(αμεν) παρὰ σοῦ
+r.3    ὑπ(ὲρ) τέλ(ους) μηνὸς Παῦνι τοῦ λβ (ἔτους).
+r.4    (ἔτους) λβ Κομ(μόδ)ου Παῦνι κβ.
+
+[TRANSLATION]
+1     Herieus and partners, overseers of the menders' tax of year 32,
+2     to Panameus (son of) Phaeris. We have received from you
+3     for the tax of the month Pauni of year 32.
+4     Year 32 of Commodus, Pauni 22.

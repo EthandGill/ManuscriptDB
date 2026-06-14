@@ -1,0 +1,37 @@
+[META]
+id:       O.Wilck. 1083
+label:    O.Wilck. 1083
+name:     Money receipt
+genre:    receipts
+date:     13. Jun 139 v.Chr.
+language: Greek (Koiné)
+found:    Koptos
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. (?)
+content:  Hermodoros credits to Biteai 7 copper drachmas to the account of his son Horos, year 31.
+tm:       43735
+source:   https://papyri.info/ddbdp/o.wilck;;1083
+lat:      
+lon:      
+
+[GREEK]
+r.1    Ἑρμόδωρος
+r.2    Β̣ι̣τ̣ε̣α̣ι̣ χαίριν .
+r.3    ἔχω παρὰ σοῦ
+r.4    εἰς τὸν Ὅρου
+r.5    τοῦ <υἱοῦ σου>
+r.6    λόγον χαλκοῦ
+r.7    (δραχμὰς) ζ. ἔρρωσο
+r.8    (ἔτους) λα
+r.9    Παχὼν κ.
+
+[TRANSLATION]
+1     Hermodoros
+2     to Biteai(?), greeting.
+3     I have from you,
+4     to the account of Horos
+5     <your son>,
+6     of copper money
+7     7 drachmas. Farewell.
+8     Year 31,
+9     Pachon 20.

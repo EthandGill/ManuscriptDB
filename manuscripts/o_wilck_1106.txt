@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1106
+label:    O.Wilck. 1106
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     5. Jun 192
+language: Greek (Koiné)
+found:    Theogonis (Arsinoites)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 799
+content:  Sitologoi of Theogonis: 66 art. of wheat by 32 Herakleopolite donkeys (Poeis), year 32.
+tm:       41783
+source:   https://papyri.info/ddbdp/o.wilck;;1106
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    λβ (ἔτους) Παῦνι ια σιτολ(όγοι)
+r.2    Θεογο(νίδος) διὰ ὄνο(υ) Ἡρακ(λεοπολίτου)
+r.3    Πώεως ὄνο(ι) λβ,
+r.4    (πυροῦ) ξϛ.
+
+[TRANSLATION]
+1     Year 32, Pauni 11: sitologoi
+2     of Theogonis, by a donkey of the Herakleopolite,
+3     Poeis: donkeys 32,
+4     66 (artabas) of wheat.

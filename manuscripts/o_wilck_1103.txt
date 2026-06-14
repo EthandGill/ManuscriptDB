@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1103
+label:    O.Wilck. 1103
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     16. Jul 191
+language: Greek (Koiné)
+found:    Theogonis (Arsinoites)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 805
+content:  Sitologoi of Theogonis: 45 art. of wheat by 15 Oxyrhynchite donkeys (Sesyphis), year 31.
+tm:       41781
+source:   https://papyri.info/ddbdp/o.wilck;;1103
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    λα (ἔτους) Ἐπὶφ κβ
+r.2    σιτολ(όγοι) Θεογο(νίδος) διὰ
+r.3    ὄνω(ν) Ὀξ(υρυγχίτου) Σεσ̣ύ̣φεω̣(ς) _(?)_
+r.4    ὄνο(ι) ιε, (πυροῦ) με.
+
+[TRANSLATION]
+1     Year 31, Epeiph 22:
+2     sitologoi of Theogonis, by
+3     donkeys of the Oxyrhynchite, Sesyphis:
+4     donkeys 15, 45 (artabas) of wheat.

@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1100
+label:    O.Wilck. 1100
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     25. Nov 188
+language: Greek (Koiné)
+found:    Kerkesephis (Arsinoites, Ägypten)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 821
+content:  Sitologoi of Kerkesephis: 24 art. of year-28 wheat by 8 Kynopolite donkeys (Keuothis), year 29.
+tm:       41778
+source:   https://papyri.info/ddbdp/o.wilck;;1100
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    κθ (ἔτους) Ἁθὺρ κθ
+r.2    σιτολ(όγοι) Κερκεσ̣ή̣φ̣ε̣ω̣ς̣
+r.3    γενή(ματος) κη (ἔτους) διʼ ὄνο(υ) Κυνοπ(ολίτου)
+r.4    νομοῦ Κευ̣ώθεως
+r.5    ὄνοι η, (πυροῦ) κδ.
+
+[TRANSLATION]
+1     Year 29, Hathyr 29:
+2     sitologoi of Kerkesephis,
+3     of the produce of year 28, by a donkey of the Kynopolite
+4     nome, Keuothis (village):
+5     donkeys 8, 24 (artabas) of wheat.

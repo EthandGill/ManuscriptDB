@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1098
+label:    O.Wilck. 1098
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     22. Febr. 186
+language: Greek (Koiné)
+found:    Kerkeosiris (Arsinoites)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 794
+content:  Sitologoi of Kerkeusiris (Polemon): 42 art. of year-25 wheat by 14 donkeys (Ibion Argaiou), year 26.
+tm:       41776
+source:   https://papyri.info/ddbdp/o.wilck;;1098
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    κϛ (ἔτους) Μεχεὶρ κη
+r.2    σιτολ(όγοι) Κερκευσί(ρεως) Πολ(έμωνος)
+r.3    γενή(ματος) κε (ἔτους) διὰ ὄνων
+r.4    Ἰβίωνος Ἀργαίου
+r.5    ὄνοι ιδ, (πυροῦ) μβ.
+
+[TRANSLATION]
+1     Year 26, Mecheir 28:
+2     sitologoi of Kerkeusiris (of) Polemon (division),
+3     of the produce of year 25, by donkeys
+4     of Ibion Argaiou,
+5     donkeys 14, 42 (artabas) of wheat.

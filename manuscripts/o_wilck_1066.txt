@@ -1,0 +1,39 @@
+[META]
+id:       O.Wilck. 1066
+label:    O.Wilck. 1066
+name:     Sales-tax (enkyklion) quittance on slaves
+genre:    receipts
+date:     27. Nov - 26. Dec 154
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1590
+content:  Marcus Minicius Ap..., overseer of the enkyklion tax on slaves, acknowledges the tax on slaves bought, year 18 of Antoninus.
+tm:       77533
+source:   https://papyri.info/ddbdp/o.wilck;;1066
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Μᾶρκος Μινίκιος Ἀπ[ ̣ ̣ ̣ ̣ ἐπιτ(ηρητὴς) τέλ(ους) ἐγκυ(κλίου)]
+r.2    ἀνδραπόδων κ[ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.3    ἔσχο(ν) παρὰ σοῦ τὸ κ[αθῆκον τέλ(ος) ̣ ̣ ̣ ̣]
+r.4    Παύτωνος οὗ ἐώ[νησο παρὰ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.5    (ἔτους) ιη Ἀντωνίνου Κ[αίσαρος τοῦ κυρίου ̣ ̣ ̣ ̣ ̣ ̣]
+r.6    (hand 2) Τίτος Ἄ̣ν̣ιος Π̣ακωνι ̣[ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.7    καὶ μετόχ(οις(?)) δι(ὰ) τῆς ημ ̣ ̣ ̣[…]
+r.8    ἀπέσχον παρὰ σοῦ τὸ καθῆκ(ον) [τέλος ̣ ̣ ̣ ̣ ̣]
+r.9    οὗ ἐώνη(σο) παρὰ Παήσιο(ς) [ ̣ ̣ ̣ ̣ ̣ ̣]
+r.10   Ἀντωνίνου τοῦ κυρίου Ἁδριαν[οῦ ̣ ̣]
+
+[TRANSLATION]
+1     Marcus Minicius Ap[... overseer of the enkyklion tax]
+2     on slaves k[...]
+3     I have received from you the d[ue tax …]
+4     of Pauton, whom you bo[ught from …]
+5     Year 18 of Antoninus C[aesar the lord, …]
+6     (2nd hand) Titus Annius Pakoni.[...]
+7     and partners(?), through the …[…]
+8     I have received from you the due [tax …]
+9     of (the slave) whom you bought from Paesis [...]
+10    of Antoninus the lord, Hadrian[os ..].

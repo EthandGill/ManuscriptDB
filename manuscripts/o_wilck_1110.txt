@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1110
+label:    O.Wilck. 1110
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     3. Jul 192
+language: Greek (Koiné)
+found:    Kerkesucha (Arsinoites)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 801
+content:  Sitologoi of Kerkesoucha: 66 art. of year-32 wheat by 22 Aphroditopolite donkeys (Tolis), Epeiph 9.
+tm:       77548
+source:   https://papyri.info/ddbdp/o.wilck;;1110
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    Ἐπεὶφ θ σιτολ(όγοι)
+r.2    Κερκοσ̣ού(χων) γενή(ματος) λβ (ἔτους)
+r.3    Ἀφροδ(ιτοπολίτου) νομ(οῦ)
+r.4    Τώλεως
+r.5    ὄνο(ι) κβ
+r.6    (πυροῦ) (ἀρτάβαι) ξϛ.
+
+[TRANSLATION]
+1     Epeiph 9: sitologoi
+2     of Kerkesoucha, of the produce of year 32,
+3     of the Aphroditopolite nome,
+4     Tolis (village):
+5     donkeys 22,
+6     66 (artabas) of wheat.

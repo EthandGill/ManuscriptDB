@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1108
+label:    O.Wilck. 1108
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     9. Jun 192
+language: Greek (Koiné)
+found:    Theogonis (Arsinoites)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 819
+content:  Sitologoi of Theogonis: 89 art. of wheat by 29 Herakleopolite donkeys (Poimenon), year 32.
+tm:       41785
+source:   https://papyri.info/ddbdp/o.wilck;;1108
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    λβ (ἔτους) Παῦνι ιε
+r.2    σιτολ(όγοι) Θεογονίδο(ς)
+r.3    διʼ ὄνω(ν) Ἡρακλεοπολ(ίτου)
+r.4    Ποιμένων
+r.5    ὄνο(ι) κθ (πυροῦ) πθ.
+
+[TRANSLATION]
+1     Year 32, Pauni 15:
+2     sitologoi of Theogonis,
+3     by donkeys of the Herakleopolite,
+4     Poimenon (village):
+5     donkeys 29, 89 (artabas) of wheat.

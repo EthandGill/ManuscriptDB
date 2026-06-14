@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1092
+label:    O.Wilck. 1092
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     2. Sep 181
+language: Greek (Koiné)
+found:    Hiera Nesos (Arsinoites)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 806
+content:  Sitologoi of Hiera: 78 art. of year-21 wheat by 26 Memphite donkeys (Kerke, Moithymis).
+tm:       41771
+source:   https://papyri.info/ddbdp/o.wilck;;1092
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    θὼθ ε σιτολ(όγοι) Ἱερᾶς γενή(ματος) κα (ἔτους)
+r.2    διὰ ὄνων Μεμφίτου Κερ-
+r.3    κὴ ιδ, Μοιθύμεως
+r.4    ιβ γ(ίνονται) κϛ, (πυροῦ ἀρτάβαι) οη.
+
+[TRANSLATION]
+1     Thoth 5: sitologoi of Hiera, of the produce of year 21,
+2     by donkeys of the Memphite (nome), Ker-
+3     ke 14, Moithymis
+4     12, total 26, 78 (artabas) of wheat.

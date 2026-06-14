@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1064
+label:    O.Wilck. 1064
+name:     Weavers'-tax quittance
+genre:    receipts
+date:     26. Apr 152
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 290
+content:  Inaros son of Patothes and partners receive the tax of Phamenoth & Pharmouthi of year 15 of Antoninus from Pakoibis.
+tm:       77531
+source:   https://papyri.info/ddbdp/o.wilck;;1064
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἰναρῶς Πατώθ(ου) καὶ (μέτοχοι) τελ(ῶναι) γερδ(ιακοῦ)
+r.2    Πακοῖβις Διογένο(υς). ἔσχ(ομεν) τὸ τέλ(ος)
+r.3    Φαμενὼθ καὶ Φαρμοῦθι
+r.4    τοῦ ιε (ἔτους) Ἀντωνίνου Καίσαρος τοῦ κυ(ρίου)
+r.5    Παχὼν α̣.
+
+[TRANSLATION]
+1     Inaros (son of) Patothes and partners, tax-farmers of the weavers' tax,
+2     to Pakoibis (son of) Diogenes. We have received the tax
+3     of Phamenoth and Pharmouthi
+4     of year 15 of Antoninus Caesar the lord,
+5     Pachon 1.

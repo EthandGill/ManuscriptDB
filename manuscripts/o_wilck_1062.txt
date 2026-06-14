@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 1062
+label:    O.Wilck. 1062
+name:     Burial-tax quittance (clothes-dealers)
+genre:    receipts
+date:     16. Dec 148
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4570
+content:  Petosiris and partners, clothes-dealers' tax-farmers, receive from Temous the tax on one burial, year 12 of Antoninus.
+tm:       77529
+source:   https://papyri.info/ddbdp/o.wilck;;1062
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πετοσῖρις καὶ μ(έτοχοι) τελ(ῶναι)
+r.2    ἱματιοπολῶν Τεμοῦτι
+r.3    Χαταβ(οῦτος). ἔσχομ(εν) παρὰ σοῦ
+r.4    ὑπ(ὲρ) τέλ(ους) ταφῆς α.
+r.5    (ἔτους) ιβ Ἀν(τωνίν)ου
+r.6    Καίσαρος τοῦ κυρίου
+r.7    Ἁδριανοῦ
+r.8    κ.
+
+[TRANSLATION]
+1     Petosiris and partners, tax-farmers
+2     of the clothes-dealers, to Temous
+3     (daughter of) Chataboous. We have received from you
+4     for the burial-tax, 1 (burial).
+5     Year 12 of Antoninus
+6     Caesar the lord,
+7     Hadrianos
+8     20.

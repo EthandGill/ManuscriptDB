@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1101
+label:    O.Wilck. 1101
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     22. Oct 189
+language: Greek (Koiné)
+found:    Kaminoi (Arsinoites)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 802
+content:  Sitologoi of Kaminoi: 16 sacks (48 art.) of year-29 wheat by village donkeys, Phaophi 25.
+tm:       41779
+source:   https://papyri.info/ddbdp/o.wilck;;1101
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    Φαὼφ κε
+r.2    σιτολ(όγοι) Καμείνων γενή(ματος)
+r.3    κθ (ἔτους) διὰ ὄνων
+r.4    τῆς κώμης σάκ(κοι) ιϛ,
+r.5    (πυροῦ) (ἀρτάβαι) μη.
+
+[TRANSLATION]
+1     Phaophi 25:
+2     sitologoi of Kaminoi, of the produce
+3     of year 29, by donkeys
+4     of the village, sacks 16,
+5     48 (artabas) of wheat.

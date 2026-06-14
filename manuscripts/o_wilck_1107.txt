@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1107
+label:    O.Wilck. 1107
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     6. Jun 192
+language: Greek (Koiné)
+found:    Kaminoi (Arsinoites)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 807
+content:  Sitologoi of Kaminoi (Polemon): 78 art. of year-32 wheat by 26 Memphite donkeys (Pedio.), Pauni 12.
+tm:       41784
+source:   https://papyri.info/ddbdp/o.wilck;;1107
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    Παύνη ιβ σιτ[ολ(όγοι)]
+r.2    κώμης Καμεί[νων Πολ(έμωνος)]
+r.3    λβ (ἔτους) διὰ Μεμφ[ίτου νομ(οῦ)]
+r.4    Πεδ̣ιο( ) ὄννου
+r.5    κϛ, (πυροῦ) οη.
+
+[TRANSLATION]
+1     Pauni 12: sit[ologoi]
+2     of the village of Kamei[noi (of) Polemon],
+3     year 32, by (donkeys of) the Memph[ite nome],
+4     Pedio( ): donkeys
+5     26, 78 (artabas) of wheat.

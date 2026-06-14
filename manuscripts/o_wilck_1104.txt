@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1104
+label:    O.Wilck. 1104
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     190 - 191
+language: Greek (Koiné)
+found:    Oxyrhyncha (Arsinoites)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 800
+content:  Sitologoi of Oxyrhynchos: 21 sacks (63 art.) of year-31 wheat, Herakleopolite (Eebekis).
+tm:       41841
+source:   https://papyri.info/ddbdp/o.wilck;;1104
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    ιζ σιτο(λόγοι) Ὀξυρύ(γχου)
+r.2    γενή(ματος) λα (ἔτους) διὰ ὄνων
+r.3    Ἡρακλεο(πολίτου) Ἐεβῆκις
+r.4    σάκ(κοι) κα,
+r.5    (πυροῦ) ξγ.
+
+[TRANSLATION]
+1     (Day) 17: sitologoi of Oxyrhynchos,
+2     of the produce of year 31, by donkeys
+3     of the Herakleopolite, Eebekis:
+4     sacks 21,
+5     63 (artabas) of wheat.

@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1076
+label:    O.Wilck. 1076
+name:     Sales-tax (1/50) quittance on wood
+genre:    receipts
+date:     I - IV
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4428
+content:  Herakleides, 1/50 sales-tax farmer, acknowledges the tax on wood bought, from Psais.
+tm:       77543
+source:   https://papyri.info/ddbdp/o.wilck;;1076
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [Ἡρ]ακλείδης τελ(ώνης) πεντ(ηκοστῆς)
+r.2    [ὠνίων Ψ]άιτι Ψενενούπεο(ς).
+r.3    [ἔσχον] ὑπ(ὲρ) τέλ(ους) ξύλου
+r.4    [- …9 -] οὗ ἠγόρ-
+
+[TRANSLATION]
+1     [Her]akleides, tax-farmer of the 1/50
+2     [sales-tax, to Ps]ais (son of) Psenenoupis.
+3     [I have received] for the tax on wood
+4     […] which you bought…

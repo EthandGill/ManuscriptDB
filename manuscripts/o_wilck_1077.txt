@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1077
+label:    O.Wilck. 1077
+name:     Weavers'-tax quittance
+genre:    receipts
+date:     26. Febr. - 25. Apr 116
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 455
+content:  Porieuthes and partners, weavers'-tax farmers of year 19, hold the tax of Phamenoth & Pharmouthi from Amenothes.
+tm:       77544
+source:   https://papyri.info/ddbdp/o.wilck;;1077
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ποριεύθ(ης) καὶ (μέτοχοι)
+r.2    τελ(ῶναι) γερδ(ιακοῦ) ιθ (ἔτους)
+r.3    Ἀμενώθῃ Πικ̣ ̣ ̣ ̣
+r.4    ἔχο(μεν) [τὸ] τέλ(ος) Φαμενὼθ
+r.5    Φαρμοῦθι.
+
+[TRANSLATION]
+1     Porieuthes and partners,
+2     tax-farmers of the weavers' tax of year 19,
+3     to Amenothes (son of) Pik...,
+4     we have [the] tax of Phamenoth
+5     (and) Pharmouthi.

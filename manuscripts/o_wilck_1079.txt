@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1079
+label:    O.Wilck. 1079
+name:     Tax quittance
+genre:    receipts
+date:     I - III
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4423
+content:  Phaphis son of Pompheus receives the due tax on one batch.
+tm:       77546
+source:   https://papyri.info/ddbdp/o.wilck;;1079
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φᾶφις Πομφευτας ̣[…]γ
+r.2    ε̣λωρεως Πετοβ[…]
+r.3    ἔσχον παρὰ σοῦ τέλο[ς …]
+r.4    φυραν μίαν τὸ καθῆ[κον τέλος ̣ (ἔτους) ̣ ̣ ̣ ̣ ̣ ̣]
+r.5    Καίσαρος τοῦ κυρίου Φ[ ̣ ̣ ̣ ̣ ̣ ̣]
+
+[TRANSLATION]
+1     Phaphis (son of) Pompheus ..[..]g
+2     ...eloreos (son of) Petob[..]
+3     I have received from you the tax […]
+4     one batch(?), the d[ue tax, year .., …]
+5     Caesar the lord, Ph[......]

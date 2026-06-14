@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1078
+label:    O.Wilck. 1078
+name:     Monthly tax quittance
+genre:    receipts
+date:     II
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4495
+content:  ...(son of) Psenthotes and partners receive in full the tax of Pachon & Pauni of year 5.
+tm:       77545
+source:   https://papyri.info/ddbdp/o.wilck;;1078
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [ ̣ ̣ ̣ ̣] Ψενθώτ(ου) καὶ μέτοχο(ι) Ψεναμο(ύνι) καὶ
+r.2    [ ̣ ̣ ̣ ̣ ἀ]πέχο(μεν) τὸ τέλ(ος) Παχὼν Παῦνι τοῦ ε (ἔτους)
+r.3    [ ̣ ̣ ̣ ̣ ̣ ̣] ̣ου τοῦ κυρίου.
+
+[TRANSLATION]
+1     [..] (son of) Psenthotes and partners, to Psenamounis and
+2     [..]: we have received in full the tax of Pachon (and) Pauni of year 5
+3     [of …] the lord.

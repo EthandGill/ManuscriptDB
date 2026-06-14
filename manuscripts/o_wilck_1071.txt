@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1071
+label:    O.Wilck. 1071
+name:     Menders'-tax quittance (Commodus)
+genre:    receipts
+date:     16. Febr. 185
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8508
+content:  Tithoes & Asklas, menders'-tax overseers, receive the tax in full (Hathyr–Mecheir), year 25 of Commodus, from Panameus.
+tm:       77538
+source:   https://papyri.info/ddbdp/o.wilck;;1071
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Τιθ[οῆ]ς Πετεμίνιος καὶ Ἀσκλᾶς Πεκύσιο(ς) ἐπιτηρητ(αὶ)
+r.2    τέλ(ους) [ἠπ]ητῶν Πανα(μεῖ) Φαή(ριος). ἔσχ(ομεν) τὸ τέλ(ος) πλήρης
+r.3    ἀπὸ Ἁθὺρ ἕως Μεχεὶρ κβ.
+r.4    (ἔτους) κε Αὐρηλίου Κο(μμό)δου Ἀντ(ωνίνο)υ Καίσαρος τοῦ κυρίου
+r.5    Μεχ(εὶρ) κβ.
+
+[TRANSLATION]
+1     Tithoes (son of) Peteminis and Asklas (son of) Pekysis, overseers
+2     of the menders' tax, to Panameus (son of) Phaeris. We have received the tax in full
+3     from Hathyr to Mecheir 22.
+4     Year 25 of Aurelius Commodus Antoninus Caesar the lord,
+5     Mecheir 22.

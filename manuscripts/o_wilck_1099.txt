@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1099
+label:    O.Wilck. 1099
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     185 - 186
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 824
+content:  Sitologoi of Athenai: 36 art. in sacks + 36 art. by donkeys of year-26 wheat, Herakleopolite (Phnebieus).
+tm:       41777
+source:   https://papyri.info/ddbdp/o.wilck;;1099
+lat:      29.0667
+lon:      30.9333
+
+[GREEK]
+r.1    σιτολ(όγοι) Ἀθηνῶν
+r.2    γενή(ματος) κϛ (ἔτους) νο(μοῦ)
+r.3    Ἡρακ(λεοπολίτου) Φνεβ(ιέως)
+r.4    σ[άκκο]ι ιβ, (πυροῦ) λϛ,
+r.5    ὄνοι ιβ, (πυροῦ) λϛ.
+
+[TRANSLATION]
+1     Sitologoi of Athenai,
+2     of the produce of year 26, of the nome
+3     of the Herakleopolite, Phnebieus (village):
+4     s[ack]s 12, 36 (artabas) of wheat,
+5     donkeys 12, 36 (artabas) of wheat.

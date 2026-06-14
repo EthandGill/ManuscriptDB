@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1061
+label:    O.Wilck. 1061
+name:     Bath-tax assessment quittance
+genre:    receipts
+date:     5. Dec 140
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4364
+content:  Pikos son of Pamonthes pays the bath-tax assessment, year 4 of Antoninus.
+tm:       77528
+source:   https://papyri.info/ddbdp/o.wilck;;1061
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μερισ(μοῦ) βαλα(νικοῦ) Πικῶς
+r.2    Παμώνθου χα(ίρειν). ἔσχομ(εν) ̣[ ̣ ̣ ̣]
+r.3    (ἔτους) δ̣ Ἀντωνείνου Καίσαρος
+r.4    τοῦ κυρίου Ἁδριανοῦ θ.
+
+[TRANSLATION]
+1     (For the) bath-tax assessment: Pikos
+2     (son of) Pamonthes, greeting. We have received .[...]
+3     Year 4 of Antoninus Caesar
+4     the lord, Hadrianos 9.
