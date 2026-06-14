@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 763
+label:    O.Wilck. 763
+name:     Sesame land-tax receipt (Ptolemaic)
+genre:    receipts
+date:     24. Febr. 9 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4492
+content:  Pachoumis pays 3 artabas of sesame per aroura, year 21 of Augustus.
+tm:       77244
+source:   https://papyri.info/ddbdp/o.wilck;;763
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παχοῦμις Πετεσθ( )
+r.2    Τεβῆι τ̣ε̣ν̣α̣γ̣ω̣ν̣
+r.3    ἑκάστη(ς) ἀρούρη(ς) σησάμ(ου)
+r.4    (ἀρτάβας) γ.
+r.5    (ἔτους) κα Καίσ(αρος) Μεχ(ὶρ) κθ.
+
+[TRANSLATION]
+1     Pachoumis (son of) Petesth( ),
+2     of Tebei(?), marsh-land(?),
+3     for each aroura, of sesame,
+4     3 (artabas).
+5     Year 21 of Caesar, Mecheir 29.

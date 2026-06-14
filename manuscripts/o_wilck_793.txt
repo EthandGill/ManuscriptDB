@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 793
+label:    O.Wilck. 793
+name:     Grain-measure receipt (temple-villages granary)
+genre:    receipts
+date:     26. Jul 101
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1154
+content:  Sachomneus son of Psenchnoumis, via Kronion, measures in 3¼ art. of wheat, year 4 of Trajan.
+tm:       77272
+source:   https://papyri.info/ddbdp/o.wilck;;793
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μέ(τρημα)] θη(σαυροῦ) ἱερῶ(ν) κω(μῶν) γ(ενήματος) δ (ἔτους)
+r.2    Τραιανοῦ τοῦ κυρίου
+r.3    Μεσο(ρὴ) β Σαχομ(νεὺς)
+r.4    Ψενχνούμ(ιος) Ο ̣ ̣ση
+r.5    διὰ Κρονίω(νος) (πυροῦ) γδ´ (γίνονται) (πυροῦ) γδ´.
+
+[TRANSLATION]
+1     [Measure] of the granary of the temples of the villages, of the produce of year 4
+2     of Trajan the lord,
+3     Mesore 2, Sachomneus
+4     (son of) Psenchnoumis, O..se(?),
+5     through Kronion, of wheat 3¼, total wheat 3¼.

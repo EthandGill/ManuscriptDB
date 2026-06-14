@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 802
+label:    O.Wilck. 802
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     24. Jul 108
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4506
+content:  Bechis and his son Phatres measure in ½ art. of wheat, year 11 of Trajan.
+tm:       77281
+source:   https://papyri.info/ddbdp/o.wilck;;802
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέτρη(μα) θησαυρ(οῦ) μητροπ(όλεως)
+r.2    γενή(ματος) ια (ἔτους) Τραιανοῦ τοῦ κυρίου
+r.3    Ἐ(πὶ)φ λ ὀνό(ματος) Βήχιος (ὁμοίως)
+r.4    καὶ Φατρή(ους) υἱο(ῦ) (πυροῦ) 𐅵. Πι̣κ̣(ῶς).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis,
+2     of the produce of year 11 of Trajan the lord,
+3     Epeiph 30, in the name of Bechis, likewise
+4     and (of) Phatres (his) son, of wheat ½. Pikos.

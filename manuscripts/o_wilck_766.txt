@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 766
+label:    O.Wilck. 766
+name:     Grain-measure receipt
+genre:    receipts
+date:     29. Jun 3 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12618
+content:  Diogenes the grain-officer: 4 artabas of wheat, year 27 of Augustus.
+tm:       50783
+source:   https://papyri.info/ddbdp/o.wilck;;766
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Διογένης σιτολ(όγος) (πυροῦ) (ἀρτάβας)
+r.2    τέσσαρες (γίνονται) (πυροῦ) (ἀρτάβαι) δ.
+r.3    (ἔτους) κζ Καίσαρος Ἐπεὶφ ε.
+
+[TRANSLATION]
+1     Diogenes, grain-officer (sitologos): of wheat, artabas
+2     four, total wheat 4 artabas.
+3     Year 27 of Caesar, Epeiph 5.

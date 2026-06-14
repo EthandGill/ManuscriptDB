@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 765
+label:    O.Wilck. 765
+name:     Chaff-delivery receipt
+genre:    receipts
+date:     28. Jul 4 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12636
+content:  Lysimachos acknowledges receiving 1 load of chaff, year 26 of Augustus.
+tm:       77245
+source:   https://papyri.info/ddbdp/o.wilck;;765
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἡρακλείδης Παχνούμιος α̣·
+r.2    Λυσίμαχος Ἀπο̣λ̣λώς.
+r.3    ἀπέχω παρὰ σοῦ ἀχύ(ρου) ἀγω(γὴν) α.
+r.4    (ἔτους) κϛ Καίσαρος
+r.5    Μεσορὴ δ.
+
+[TRANSLATION]
+1     Herakleides (son of) Pachnoumis, 1(?);
+2     Lysimachos (son of) Apollos.
+3     I have received from you 1 load of chaff.
+4     Year 26 of Caesar,
+5     Mesore 4.

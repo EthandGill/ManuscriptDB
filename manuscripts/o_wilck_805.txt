@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 805
+label:    O.Wilck. 805
+name:     Grain-measure receipt (Lower toparchy granary)
+genre:    receipts
+date:     22. May 112
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 326
+content:  Chesphmois son of Phthouminis, via the cultivator Eponychos, measures in 12 1/8 art. of wheat, year 15 of Trajan.
+tm:       77284
+source:   https://papyri.info/ddbdp/o.wilck;;805
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέτρημ(α) θησ(αυροῦ) κάτω (το)π(αρχίας)
+r.2    γενήμ(ατος) ιε (ἔτους) Τραιανοῦ
+r.3    τοῦ κυρίου Παχὼ(ν) κζ ὀνό(ματος)
+r.4    Χεσφμόι̣(τος) Φθουμί(νιος) διὰ γεω(ργοῦ)
+r.5    Ἐπω(νύχου) Φθουμί(νιος) Π̣ικελεμέως
+r.6    [(πυροῦ)] (ἀρτάβαι) δ̣έκα δύο η´ (γίνονται) (πυροῦ) ιβη´.
+
+[TRANSLATION]
+1     Measure of the granary of the Lower toparchy,
+2     of the produce of year 15 of Trajan
+3     the lord, Pachon 27, in the name
+4     of Chesphmois (son of) Phthouminis, through the cultivator
+5     Eponychos (son of) Phthouminis (son of) Pikelemes,
+6     [of wheat] twelve artabas and an eighth, total wheat 12 1/8.

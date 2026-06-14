@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 809
+label:    O.Wilck. 809
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     14. Jul 116
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 451
+content:  Phatres son of Teos, via Psenarb…, measures in 42 art. of wheat, year 19 of Trajan.
+tm:       77288
+source:   https://papyri.info/ddbdp/o.wilck;;809
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) εἰς θησ(αυρὸν) μητρο[(πόλεως)]
+r.2    γ(εν)ή(ματος) ιθ (ἔτους) Τραιανοῦ Ἀρίστου
+r.3    τοῦ κυρίου Ἐ(πὶ)φ ιϛ ὀνό(ματος) Φατ̣ρ̣[ήο(υς)]
+r.4    Τεῶ(τος) δι(ὰ) Ψεναρβ ̣χ ̣ ̣ ̣ ̣
+r.5    (πυροῦ) τεσσαράκοντα δύο (γίνονται) (πυροῦ) μβ,
+r.6    ἄλ(λον) κ (πυροῦ) μίαν δωδ(έκατον) (γίνεται) (πυροῦ) αιβ´.
+
+[TRANSLATION]
+1     Measure into the granary of the metropo[lis],
+2     of the produce of year 19 of Trajan Optimus (Aristos)
+3     the lord, Epeiph 16, in the name of Phat[res]
+4     (son of) Teos, through Psenarb…,
+5     of wheat forty-two, total wheat 42,
+6     another, the 20th, of wheat one and a twelfth, total wheat 1 1/12.

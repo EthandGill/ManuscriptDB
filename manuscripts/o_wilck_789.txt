@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 789
+label:    O.Wilck. 789
+name:     Bath-tax receipt
+genre:    receipts
+date:     18. May 98
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1600
+content:  Apion and partners, temple-granary tax-farmers, receive the bath-tax from Phthouminis, year 1 of Trajan.
+tm:       77268
+source:   https://papyri.info/ddbdp/o.wilck;;789
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀπίω(ν) καὶ (μέτοχοι) τελ(ῶναι) θη(σαυροῦ) ἱερῶν α (ἔτους)
+r.2    Φθουμ(ίνει) Φαή(ριος) Πετεχώ(νσιος) χα(ίρειν).
+r.3    ἔσχο(μεν) παρὰ (σοῦ) τὸ βαλ(ανικόν). (ἔτους) α
+r.4    Τραιανοῦ τοῦ κυρίου Παχὼ(ν) κγ.
+
+[TRANSLATION]
+1     Apion and partners, tax-farmers of the granary of the temples, of year 1,
+2     to Phthouminis (son of) Phaeris (son of) Petechonsis, greeting.
+3     We have received from you the bath-tax. Year 1
+4     of Trajan the lord, Pachon 23.

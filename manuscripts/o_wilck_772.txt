@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 772
+label:    O.Wilck. 772
+name:     Grain-measure receipt (administration granary)
+genre:    receipts
+date:     41 - 68
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 53 \[ostracon\
+content:  Senephotes son of Haronnophris measures in 2½ art. of wheat for the dioikesis, reign of Nero.
+tm:       77250
+source:   https://papyri.info/ddbdp/o.wilck;;772
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μεμέ(τρηκεν) εἰς τὸν τῆς διοική(σεως) θη(σαυρὸν) γενη(μάτων) [ ̣ ̣ (ἔτους)]
+r.2    Σενεφώτης Ἁροννῶφρις Σεν[εφώτου(?)]
+r.3    ἀριθ( ) (πυροῦ) δυω ἥμισυ (γίνονται) ἀριθ( ) (ἀρτάβαι) β𐅵. (ἔτους) [ ̣ ̣ Νέρωνος]
+r.4    Κλαυδίου Καίσαρος Σεβαστοῦ
+r.5    Αὐτοκρατος Ἐπὶφ κα. ἔγρα(ψα) Διο( )
+r.6    σιτολ(όγος).
+
+[TRANSLATION]
+1     There measured into the granary of the administration, of the produce [of year ..],
+2     Senephotes (son of) Haronnophris (son of) Sen[ephotes(?)],
+3     by count, of wheat two and a half, total by count 2½ artabas. Year [.. of Nero]
+4     Claudius Caesar Augustus
+5     Imperator, Epeiph 21. I, Dio( ),
+6     grain-officer, wrote (this).

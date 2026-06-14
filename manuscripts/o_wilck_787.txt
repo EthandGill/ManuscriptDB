@@ -1,0 +1,41 @@
+[META]
+id:       O.Wilck. 787
+label:    O.Wilck. 787
+name:     Vegetable-tax quittance (lease)
+genre:    receipts
+date:     2. Jan 96
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4455
+content:  Alexas and partners, vegetable-tax farmers, receive in full the tax on Pekysis' leased plot, year 15 of Domitian.
+tm:       77266
+source:   https://papyri.info/ddbdp/o.wilck;;787
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀλεξᾶς κα(ὶ) μ(έτο)χ(οι) τελ(ῶναι) λαχ(ανικοῦ)
+r.2    τοῦ ιε (ἔτους) Δομ(ιτιαν)οῦ Καίσαρος
+r.3    τοῦ κυρίου Πεκύσιος Νεφερῶτος χα(ίρειν).
+r.4    ἀπέχω(μεν) τὸ τέλ(ος) τῆς λαχανίας οὗ γεοργ ̣ῖ̣ς
+r.5    Νήσου λεγόμενον , οὗ μίσθωσις
+r.6    παρὰ Ἀκὼς Παμώνθου, προσταχ( )
+r.7    καὶ οὐδέν συ ἐνκαλοῦμεν. (ἔτους) ιε
+r.8    Αὐτοκράτορος Καίσαρος
+r.9    Δομ(ιτιαν)οῦ Σεβαστοῦ
+r.10   Γερμανικοῦ
+r.11   Τῦβι ϛ.
+
+[TRANSLATION]
+1     Alexas and partners, tax-farmers of the vegetable-tax (lachanikon)
+2     of year 15 of Domitian Caesar
+3     the lord, to Pekysis (son of) Nepheros, greeting.
+4     We have received in full the tax of the vegetable-plot which you cultivate,
+5     called 'of the Island', of which the lease (is held)
+6     from Akos (son of) Pamonthes, by order(?),
+7     and we make no claim against you. Year 15
+8     of Imperator Caesar
+9     Domitian Augustus
+10    Germanicus,
+11    Tybi 6.

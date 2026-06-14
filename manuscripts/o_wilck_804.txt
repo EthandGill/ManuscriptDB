@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 804
+label:    O.Wilck. 804
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     21. May 110
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 7749
+content:  Hermias and Dioskoros (with their kin) measure in 15 art. of wheat, year 13 of Trajan.
+tm:       77283
+source:   https://papyri.info/ddbdp/o.wilck;;804
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέτρη(μα) θησ(αυροῦ) μητροπ(όλεως) γενή(ματος) ιγ (ἔτους)
+r.2    Τραια(νοῦ) τοῦ κ(υρίου) Παχὼν κϛ ὀνό(ματος)
+r.3    Ἑρμίου Μαρ̣ίου καὶ Ἀπολλω(νίου)
+r.4    υἱοῦ (πυροῦ) (ἀρτάβας) πέντε , καὶ ὀνό(ματος) Διοσκ(όρου)
+r.5    Ἀμωνίου καὶ Ἀπολλοδ(ώρου) ἀδε(λφοῦ)
+r.6    (πυροῦ) (ἀρτάβας) δέκα (γίνονται) (πυροῦ) (ἀρτάβαι) ιε. Πεκ(ῦσις) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 13
+2     of Trajan the lord, Pachon 26, in the name
+3     of Hermias (son of) Marius and Apollonios
+4     (his) son, of wheat five artabas; and in the name of Dioskoros
+5     (son of) Ammonios and Apollodoros (his) brother,
+6     of wheat ten artabas, total wheat 15 artabas. I, Pekysis, have signed.

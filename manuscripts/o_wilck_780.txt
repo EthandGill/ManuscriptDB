@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 780
+label:    O.Wilck. 780
+name:     Bath-tax receipt
+genre:    receipts
+date:     8. Jul 89
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4133
+content:  Pisais and Psenminis, granary-overseers, receive the bath-tax of year 8 of Domitian from Pekysis.
+tm:       77258
+source:   https://papyri.info/ddbdp/o.wilck;;780
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πισᾶι[ς] καὶ Ψενμ(ῖνις) ἐπιτ(ηρηταὶ) θη(σαυροῦ)
+r.2    Πεκύσιο(ς) Ἡρα(κλείδου) χα(ίρειν). ἔσχ(ομεν) τὸ βα(λανικὸν)
+r.3    τοῦ η (ἔτους) Δομ(ιτιαν)οῦ τοῦ κυρίου
+r.4    Ἐφεὶπ ιδ.
+
+[TRANSLATION]
+1     Pisais and Psenminis, overseers of the granary,
+2     to Pekysis (son of) Herakleides, greeting. We have received the bath-tax
+3     of year 8 of Domitian the lord,
+4     Epeiph 14.

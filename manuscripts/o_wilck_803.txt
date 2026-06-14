@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 803
+label:    O.Wilck. 803
+name:     Grain-measure receipt (villages granary)
+genre:    receipts
+date:     2. Jul 109
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 325
+content:  Petechonsis son of Chataboous measures in 2 art. of wheat, year 12 of Trajan.
+tm:       77282
+source:   https://papyri.info/ddbdp/o.wilck;;803
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέτρη(μα) θησ(αυροῦ) κω(μῶν) γενή(ματος) ιβ (ἔτους) Τραιανοῦ
+r.2    τοῦ κυρίου Ἐφεὶπ η ὀνό(ματος) Πετεχώ(νσιος) Χαταβοῦ(τος)
+r.3    πυροῦ δύο (γίνονται) (πυροῦ) β. Ἵεραξ σεση(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the villages, of the produce of year 12 of Trajan
+2     the lord, Epeiph 8, in the name of Petechonsis (son of) Chataboous,
+3     of wheat two, total wheat 2. I, Hierax, have signed.

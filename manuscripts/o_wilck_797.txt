@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 797
+label:    O.Wilck. 797
+name:     Bath-tax receipt
+genre:    receipts
+date:     6. Jul 102
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4116
+content:  Phaminis and partners, temple-granary tax-farmers, receive in full the bath-tax of year 5 of Trajan from P..t( ).
+tm:       77276
+source:   https://papyri.info/ddbdp/o.wilck;;797
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φαμῖ(νις) καὶ μέ(το)χ(οι) τελ(ῶναι) θη(σαυροῦ)
+r.2    ἱερῶ(ν) Π ̣ ̣τ( ) Πασήμ(ιος) χα(ίρειν).
+r.3    ἀπέχ(ομεν) τὸ βαλ(ανικὸν) τοῦ ε (ἔτους)
+r.4    Τραιανοῦ Καίσαρος
+r.5    τοῦ κυρίου Ἐφεὶπ ιβ.
+
+[TRANSLATION]
+1     Phaminis and partners, tax-farmers of the granary
+2     of the temples, to P..t( ) (son of) Pasemis, greeting.
+3     We have received in full the bath-tax of year 5
+4     of Trajan Caesar
+5     the lord, Epeiph 12.

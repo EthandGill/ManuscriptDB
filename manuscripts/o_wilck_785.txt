@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 785
+label:    O.Wilck. 785
+name:     Bath-tax receipt
+genre:    receipts
+date:     30. May 94
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4137
+content:  Petechespochrates and partners, granary tax-farmers, to Petechonsis, reign of Domitian.
+tm:       77264
+source:   https://papyri.info/ddbdp/o.wilck;;785
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πετεχεσπ[ο]χ(ράτης) κ(αὶ) μέ(τοχοι) τελ(ῶναι) θησ(αυροῦ)
+r.2    Πετεχώ(νσει) Χεσθώτο(υ) καὶ Πε(τε)χώ(νσει) ἄλ(λῳ)
+r.3    Δομιτιανοῦ τοῦ κυρίου
+r.4    Παῦνι ε.
+
+[TRANSLATION]
+1     Petechespochrates and partners, tax-farmers of the granary,
+2     to Petechonsis (son of) Chesthotes and to Petechonsis (his) other (son?):
+3     (year ..) of Domitian the lord,
+4     Pauni 5.

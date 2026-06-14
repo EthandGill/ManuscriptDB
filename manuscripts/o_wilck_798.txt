@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 798
+label:    O.Wilck. 798
+name:     Bath-tax receipt
+genre:    receipts
+date:     7. Sep 104
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1580
+content:  Dioskourides and partners, temple-granary tax-farmers, receive in full the bath-tax of year 7 of Trajan.
+tm:       77277
+source:   https://papyri.info/ddbdp/o.wilck;;798
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Διοσκουρίδ(ης) κ(αὶ μ)έ(τοχοι) τελ(ῶναι) θησ(αυροῦ)
+r.2    ἱερῶ(ν) Φθουμίνι Φθουμίνιο(ς) καὶ
+r.3    {καὶ} Ἁρσεπνεῖ υἱῶι χα(ίρειν). ἀπέχ(ομεν)
+r.4    τὸ βαλ(ανικὸν) τοῦ ζ (ἔτους). (ἔτους) η Τραιανοῦ
+r.5    τοῦ κυρίου Θὼθ ι.
+
+[TRANSLATION]
+1     Dioskourides and partners, tax-farmers of the granary
+2     of the temples, to Phthouminis (son of) Phthouminis and
+3     to Harsepneus (his) son, greeting. We have received in full
+4     the bath-tax of year 7. Year 8 of Trajan
+5     the lord, Thoth 10.

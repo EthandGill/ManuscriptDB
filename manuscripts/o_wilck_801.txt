@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 801
+label:    O.Wilck. 801
+name:     Export-toll receipt (Hermonthite 1/50)
+genre:    receipts
+date:     16. Jul 107
+language: Greek (Koiné)
+found:    Hermonthis
+held:     (see shelf)
+shelf:    Paris, Louvre O. 2
+content:  Longinus Crispus, veteran, pays the 1/50 toll on exporting 150 art. of wheat and 8 art. of lentils, year 10 of Trajan.
+tm:       77280
+source:   https://papyri.info/ddbdp/o.wilck;;801
+lat:      25.6167
+lon:      32.55
+
+[GREEK]
+r.1    Ἱέραξ καὶ μέτοχ(οι) τελ(ῶναι) (πεντηκοστῆς) Ἑρμωνθ(ίτου) Λον-
+r.2    γῖνος Κρίσπος οὐετρανὸς χαίρ(ειν).
+r.3    τετελ(ώνηται) ἐν Ἑρμώνθ(ει) ἐξά(γων) πυροῦ ἀρ-
+r.4    τάβας ἑκατὸν πεντήκοντα
+r.5    (γίνονται) (πυροῦ) ρν καὶ φακοῦ ἀρτάβας ὀκτ[ὼ]
+r.6    (γίνονται) (ἀρτάβαι) η. (ἔτους) ι Τραιανοῦ Καίσαρος
+r.7    τοῦ κυρίου Ἐπεὶφ κβ.
+
+[TRANSLATION]
+1     Hierax and partners, tax-farmers of the 1/50 (export toll) of the Hermonthite (nome): Lon-
+2     ginus Crispus, veteran, greeting.
+3     Toll has been paid at Hermonthis, exporting, of wheat
+4     one hundred fifty artabas,
+5     total wheat 150, and of lentils eig[ht] artabas,
+6     total artabas 8. Year 10 of Trajan Caesar
+7     the lord, Epeiph 22.

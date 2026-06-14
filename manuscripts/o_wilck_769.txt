@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 769
+label:    O.Wilck. 769
+name:     Wheat quittance (private)
+genre:    receipts
+date:     22. Jun 37
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12692
+content:  Bakchios, agent of Eponychos, acknowledges receiving 3 art. of wheat owed by Sosibios, year 1 of Gaius.
+tm:       77248
+source:   https://papyri.info/ddbdp/o.wilck;;769
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Βάκχιος ὁ παρὰ Ἐπωνύχου Σωσιβίωι
+r.2    Ἁρβήχιος χα(ίρειν). ὁμολ(ογῶ) ἀπεσχη(κέναι) παρὰ σοῦ ἃς ὤφειλες
+r.3    αὐτῶι Ἐπωνύχωι Φατρείους ἐπʼ ὀνόματος Ἐπικράτου
+r.4    τοῦ Ἀμμωνίου κατὰ διαγραφὴν πυροῦ καθ(αροῦ) ἀρτά(βας)
+r.5    τρεῖς (γίνονται) (πυροῦ) (ἀρτάβαι) γ, ἀκολούθ(ως) τῆι διαγρ(αφῇ) κα(ὶ) οὐδέν σοι
+r.6    ἐνκαλῶι. (ἔτους) α Γαίου Καίσαρος Γερμανικοῦ
+r.7    Νέου Σεβαστοῦ Αὐτοκράτορος Παῦνι κη.
+
+[TRANSLATION]
+1     Bakchios, the agent of Eponychos, to Sosibios
+2     (son of) Harbechis, greeting. I acknowledge that I have received from you what you owed
+3     to Eponychos himself (son of) Phatres, in the name of Epikrates
+4     son of Ammonios, according to the bank-order, of pure wheat,
+5     three artabas, total wheat 3 artabas, in accordance with the bank-order; and I make no
+6     claim against you. Year 1 of Gaius Caesar Germanicus,
+7     the New Augustus, Imperator, Pauni 28.

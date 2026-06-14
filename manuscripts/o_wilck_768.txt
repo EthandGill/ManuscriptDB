@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 768
+label:    O.Wilck. 768
+name:     Grain-measure receipt (temple granary, Hermonthis)
+genre:    receipts
+date:     15. Jun 37
+language: Greek (Koiné)
+found:    Hermonthis
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 518
+content:  Pamonthes son of Psenamounis measures in 29 1/6 art. of unsifted wheat, year 1 of Gaius.
+tm:       77247
+source:   https://papyri.info/ddbdp/o.wilck;;768
+lat:      25.6167
+lon:      32.55
+
+[GREEK]
+r.1    μεμέτρη(κεν) Παμώνθ(ης) Ψεναμούνιο(ς)
+r.2    εἰς θη(σαυρὸν) ἱερῶ(ν) Ἑρμώνθεως γενη(μάτων)
+r.3    α (ἔτους) πυροῦ ῥυπαροῦ ἀρτάβας
+r.4    εἴκοσι ἐννέα ἕκτον (γίνονται) (ἀρτάβαι) κθϛ´.
+r.5    (ἔτους) α Γαίου Καίσαρος Σεβαστοῦ
+r.6    Γερμανικοῦ Παῦνι κα.
+
+[TRANSLATION]
+1     There measured in, Pamonthes son of Psenamounis,
+2     into the granary of the temples of Hermonthis, of the produce
+3     of year 1, of unsifted wheat, artabas
+4     twenty-nine and a sixth, total artabas 29 1/6.
+5     Year 1 of Gaius Caesar Augustus
+6     Germanicus, Pauni 21.

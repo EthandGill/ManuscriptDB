@@ -1,0 +1,37 @@
+[META]
+id:       O.Wilck. 767
+label:    O.Wilck. 767
+name:     Grain-measure receipt (administration granary)
+genre:    receipts
+date:     14. Aug 2
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12707
+content:  Lysimachos son of Apollonios measures in 19½ art. of wheat for the dioikesis, year 31 of Augustus.
+tm:       77246
+source:   https://papyri.info/ddbdp/o.wilck;;767
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μεμέ(τρηκεν) Λυσίμαχος
+r.2    Ἀπολλωνίου εἰς τὸν
+r.3    τῆς διοικ(ήσεως) θησ(αυρὸν) ὑπ(ὲρ) δημιω( )
+r.4    γενη(μάτων) λα (ἔτους) με( )ου Καίσαρος (πυροῦ) (ἀρτάβας)
+r.5    δέκα ἑπτὰ ἥμισυ τρίτ(ον) ,
+r.6    ὁμοίω(ς) Μεσο(ρὴ) κα (πυροῦ) (ἀρτάβαν) μίαν δίμο(ιρον)
+r.7    (γίνονται) (πυροῦ) (ἀρτάβαι) ιθ𐅵.
+r.8    (ἔτους) λα Καίσαρος Μεσο(ρὴ) κα.
+r.9    ἔγρα(ψα) Διονύ(σιος) σιτολ(όγος).
+
+[TRANSLATION]
+1     There measured in, Lysimachos
+2     son of Apollonios, into the
+3     granary of the administration (dioikesis), for the public(?) (levy),
+4     of the produce of year 31, … of Caesar, of wheat, artabas
+5     seventeen and a half and a third,
+6     likewise Mesore 21, of wheat one artaba and two-thirds,
+7     total wheat 19½ artabas.
+8     Year 31 of Caesar, Mesore 21.
+9     I, Dionysios, grain-officer, wrote (this).

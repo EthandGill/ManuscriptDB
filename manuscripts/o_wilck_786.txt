@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 786
+label:    O.Wilck. 786
+name:     Bath-tax receipt
+genre:    receipts
+date:     23. Jun 95
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4594
+content:  Apion and partners, temple-granary tax-farmers, receive in full the bath-tax of year 14 of Domitian.
+tm:       77265
+source:   https://papyri.info/ddbdp/o.wilck;;786
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀπίων κ(αὶ) μέ(τοχοι) τελ(ῶναι) θησ(αυροῦ) ἱερῶ(ν) Ψενχώ(νσει)
+r.2    Πετεχώ(νσιος) χα(ίρειν). ἀπέχ(ομεν) τὸ βαλ(ανικὸν) τοῦ ιδ (ἔτους)
+r.3    Δομιτιανοῦ τοῦ κυρίου Παῦνι
+r.4    κβ.
+
+[TRANSLATION]
+1     Apion and partners, tax-farmers of the granary of the temples, to Psenchonsis
+2     (son of) Petechonsis, greeting. We have received in full the bath-tax of year 14
+3     of Domitian the lord, Pauni
+4     22.

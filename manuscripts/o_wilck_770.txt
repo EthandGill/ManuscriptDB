@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 770
+label:    O.Wilck. 770
+name:     Grain-measure receipt (administration granary)
+genre:    receipts
+date:     5. Aug 58
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4474
+content:  Chthich… measures in 6 1/12 art. of wheat for the dioikesis, year 4 of Nero.
+tm:       50784
+source:   https://papyri.info/ddbdp/o.wilck;;770
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    με(μέτρ)η(ται) εἰς τὸν τῆς διοικ(ήσεως)
+r.2    θη(σαυρὸν) γενη(μάτων) δ (ἔτους) ὀνό(ματος) Χθ̣ιχ ̣ ̣ ̣ ̣
+r.3    Π ̣ ̣ ̣ο ̣ φ̣ο̣ρ̣ι̣ν̣ (πυροῦ) ἓξ δωδέκ(ατον)
+r.4    (γίνονται(?)) φο(ριν) (πυροῦ) ϛιβ´. (ἔτους) δ Νέρωνος
+r.5    Κλαυδίου Καίσαρος Σεβαστοῦ
+r.6    Γερμανικοῦ Αὐτοκράτορος μη(νὸς) Καισ(αρείου) ιβ.
+
+[TRANSLATION]
+1     There has been measured into the granary of the administration (dioikesis),
+2     of the produce of year 4, in the name of Chthich…,
+3     P…o.phorin(?), of wheat six and a twelfth,
+4     total, in tax(?), of wheat 6 1/12. Year 4 of Nero
+5     Claudius Caesar Augustus
+6     Germanicus Imperator, month Kaisareios 12.

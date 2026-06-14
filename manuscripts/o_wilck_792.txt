@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 792
+label:    O.Wilck. 792
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     15. Jul 101
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 \[792\
+content:  Pecho…io( ) the decanus, via the cultivator Hermias, measures in 2 art. of wheat, year 4 of Trajan.
+tm:       77271
+source:   https://papyri.info/ddbdp/o.wilck;;792
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μητ(ροπόλεως) γε(νήματος) δ (ἔτους) Τραιανοῦ
+r.2    τοῦ κ(υρίου) ὀ(νόματος) Πεχω ̣ ̣ ̣ιο( ) Παχώ(νσιος) (δεκανοῦ)
+r.3    (διὰ) γ(εωργοῦ) Ἑρμίο(υ) ̣ ̣ ̣ερμ( ) ο ̣α ̣ω( )
+r.4    Ἐ(πὶ)φ κα (πυροῦ) δύο (γίνονται) (πυροῦ) β. Π( ) σ(εσημείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 4 of Trajan
+2     the lord, in the name of Pecho…io( ) (son of) Pachonsis, decanus,
+3     through the cultivator Hermias …,
+4     Epeiph 21, of wheat two, total wheat 2. I, P( ), have signed.

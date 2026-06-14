@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 807
+label:    O.Wilck. 807
+name:     Bath-tax receipt
+genre:    receipts
+date:     3. Jul 114
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1592
+content:  Petechespochrates and partners, granary tax-farmers, receive in full the bath-tax of year 17 of Trajan.
+tm:       77286
+source:   https://papyri.info/ddbdp/o.wilck;;807
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πετεχεσπ(οχράτης) καὶ μ(έτοχοι) τ(ε)λ(ῶναι) θη(σαυροῦ)
+r.2    Παχνο(ύβει) Παουφθείο(υς) χα(ίρειν).
+r.3    ἀπέχο(μεν) παρὰ σοῦ
+r.4    [τὸ] βαλ(ανικὸν) τοῦ ιζ (ἔτους) Τραιανοῦ
+r.5    τοῦ κυρίου Ἐ(πὶ)φ θ.
+
+[TRANSLATION]
+1     Petechespochrates and partners, tax-farmers of the granary,
+2     to Pachnoubis (son of) Paouphtheus, greeting.
+3     We have received in full from you
+4     [the] bath-tax of year 17 of Trajan
+5     the lord, Epeiph 9.

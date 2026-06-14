@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 806
+label:    O.Wilck. 806
+name:     Export-toll receipt (Hermonthis)
+genre:    receipts
+date:     11. Jan 114
+language: Greek (Koiné)
+found:    Hermonthis
+held:     (see shelf)
+shelf:    Paris, Louvre E 7196
+content:  Ammonis pays the toll on exporting 85 art. of wheat at Hermonthis, year 17 of Trajan.
+tm:       77285
+source:   https://papyri.info/ddbdp/o.wilck;;806
+lat:      25.6167
+lon:      32.55
+
+[GREEK]
+r.1    [Ἵεραξ] καὶ μέτοχ(οι) τελ(ῶναι) ν( ) Ἑρ-
+r.2    Ἀμμῶνις {Ἀμμῶνις}
+r.3    [χαίρ(ειν). τ]ετέλ(εσαι) ἐν Ἑρμώνθ(ει) ἑξά(γων)
+r.4    [(πυροῦ)] πε. (ἔτους) ιζ Τραιανοῦ
+r.5    5[Καίσ]αρος τοῦ κυρίου
+r.6    Τῦβι ιϛ.
+
+[TRANSLATION]
+1     [Hierax] and partners, tax-farmers of the … of Her-
+2     (monthis): Ammonis,
+3     [greeting. T]oll has been paid at Hermonthis, exporting,
+4     [of wheat] 85. Year 17 of Trajan
+5     [Cae]sar the lord,
+6     Tybi 16.
