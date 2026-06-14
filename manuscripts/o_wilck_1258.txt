@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1258
+label:    O.Wilck. 1258
+name:     Chaff receipt (soldier, Domitian)
+genre:    receipts
+date:     11. Jul 88
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4349
+content:  Lucius Longinus, a soldier, acknowledges 1 load of chaff from Psenchonsis, reign of Domitian.
+tm:       77643
+source:   https://papyri.info/ddbdp/o.wilck;;1258
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Λούκιος Λονγῖνος στρατιώτη(ς)
+r.2    Ψενχῶνσις Πετεχῶνσις χα(ίρειν).
+r.3    ἀπέχω παρὰ σοῦ γονος ἀχύρου α
+r.4    το̣ῦ̣ ̣ ̣ζ (ἔτους) Δομιτιανοῦ τοῦ κυρίου
+r.5    Ἐπεὶφ ιζ.
+r.6    (hand 2) Λούκιος Λονγῖνος.
+
+[TRANSLATION]
+1     Lucius Longinus, soldier,
+2     to Psenchonsis (son of) Petechonsis, greeting.
+3     I have received from you a load of chaff, 1,
+4     of year .7 of Domitian the lord,
+5     Epeiph 17.
+6     (2nd hand) Lucius Longinus.

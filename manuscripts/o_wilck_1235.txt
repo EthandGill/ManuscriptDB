@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1235
+label:    O.Wilck. 1235
+name:     Bank-payment docket (apomoira)
+genre:    receipts
+date:     12. Oct 106 v.Chr.
+language: Greek (Koiné)
+found:    Koptos (?)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4009
+content:  Pachos pays 3000 dr. for the apomoira of year 9 at the Coptos bank.
+tm:       43501
+source:   https://papyri.info/ddbdp/o.wilck;;1235
+lat:      
+lon:      
+
+[GREEK]
+r.1    (ἔτους) ιβ τοῦ καὶ θ Θῶυθ κδ τέ(τακται)
+r.2    ἐπὶ τὴν ἐν Κό̣π̣(τωι(?)) τρά(πεζαν) ἀπομοί(ρας) θ (ἔτους)
+r.3    Παχὼς Ὀμεαὺς τρισχιλίας
+r.4    (γίνονται) Γ.
+
+[TRANSLATION]
+1     Year 12 which is also 9, Thoth 24: there has been paid
+2     to the bank in Coptos(?), (for) the apomoira of year 9:
+3     Pachos (son of) Omeaus, three thousand,
+4     total 3000.

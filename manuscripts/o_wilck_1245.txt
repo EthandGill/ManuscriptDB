@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1245
+label:    O.Wilck. 1245
+name:     Embankment-tax receipt (Hadrian)
+genre:    receipts
+date:     14. Jul 125
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 6052
+content:  Pikos, money-tax collector, receives 7 dr. 4 ob. 2 chal. embankment/other taxes of Charax of year 9 of Hadrian.
+tm:       77634
+source:   https://papyri.info/ddbdp/o.wilck;;1245
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πικῶς πράκ(τωρ) ἀρ(γυρικῆς) Ἀμενώθ(ῃ)
+r.2    Ἁρβήχιος. ἔσχ(ον) ὑ(πὲρ) χω(ματικοῦ)
+r.3    καὶ (ἄλλων) Χά(ρακος) θ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) ἑπτὰ
+r.4    ὀβο(λοὺς) τέσσαρες χ(αλκοὺς 2) (γίνονται) (δραχμαὶ) ζ(τετρώβολον) χ(αλκοῖ 2).
+r.5    (ἔτους) θ Ἁδριανοῦ Καίσαρος
+r.6    Ἐφεὶφ κ. Α( ).
+
+[TRANSLATION]
+1     Pikos, collector of money-taxes, to Amenothes
+2     (son of) Harbechis. I have received for embankment-tax
+3     and other (taxes) of Charax of year 9, base drachmas seven,
+4     four obols, 2 chalkoi, total drachmas 7, 4 obols, 2 chalkoi.
+5     Year 9 of Hadrian Caesar,
+6     Epeiph 20. A( ).

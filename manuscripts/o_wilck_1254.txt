@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1254
+label:    O.Wilck. 1254
+name:     Barley-assessment receipt (Ptolemaic)
+genre:    receipts
+date:     8. Jul 217 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 231
+content:  Philokles son of Nikon measures in 153⅓ art. of barley for the year-5 assessment.
+tm:       43556
+source:   https://papyri.info/ddbdp/o.wilck;;1254
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) ε Παχων κϛ
+r.2    εἰσμέτρηκεν Φιλοκλῆς
+r.3    Νίκωνος εἰς τὴν ἐπιγρα-
+r.4    φὴν τοῦ ε (ἔτους) κριθῶν ρνγγ´
+r.5    (γίνεται) ρνγγ´
+r.6    Καλλίας.
+r.7    Δίφιλο̣ς̣ κ(ριθῶν) ρνγγ´
+
+[TRANSLATION]
+1     Year 5, Pachon 26:
+2     there has measured in, Philokles
+3     (son of) Nikon, for the assess-
+4     ment of year 5, of barley, 153⅓,
+5     total 153⅓.
+6     Kallias.
+7     Diphilos: of barley, 153⅓.

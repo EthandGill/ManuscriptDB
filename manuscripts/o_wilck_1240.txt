@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1240
+label:    O.Wilck. 1240
+name:     Embankment-tax receipt (Domitian)
+genre:    receipts
+date:     27. Jul 85
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 6053
+content:  Harbechis son of Pamonthes pays 7 dr. 2½ ob. embankment-tax of Charax of year 4 of Domitian.
+tm:       77629
+source:   https://papyri.info/ddbdp/o.wilck;;1240
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    διέγρα(ψεν) Ἁρβῆχ(ις) Παμώνθου
+r.2    μη(τρὸς) Σεναρυώθ(ου) ὑπ(ὲρ) χω(ματικοῦ) Χά(ρακος)
+r.3    δ (ἔτους) <(δραχμὰς)> ϛ(τετρώβολον), ἄ(λλων) (ὀβολοὺς) γ𐅵 (γίνονται) ζ (ὀβολοὶ) β𐅵 καὶ (προσδιαγραφόμενα).
+r.4    (ἔτους) δ Δομιτιανοῦ τοῦ κυρίου
+r.5    Ἐ(πὶ(?))φ λ‡γ. Ἠλ(ιᾶς) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Harbechis (son of) Pamonthes has paid,
+2     (whose) mother is Senaryothis, for the embankment-tax of Charax
+3     of year 4, 6 dr. 4 obols, and of others, 3½ obols, total 7 dr. 2½ obols, and surcharges.
+4     Year 4 of Domitian the lord,
+5     Epeiph 30 (and) 3(?). I, Elias, have signed.

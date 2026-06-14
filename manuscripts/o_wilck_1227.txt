@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1227
+label:    O.Wilck. 1227
+name:     Salt-tax receipt
+genre:    receipts
+date:     6. May 231 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1552
+content:  Salt-tax (on wool), through Sostratos: Tamounis pays 5¼ obols, year 17.
+tm:       43693
+source:   https://papyri.info/ddbdp/o.wilck;;1227
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) ιζ Φαμενὼθ ιθ ἁλικῆς
+r.2    ἐρεῶν διὰ Σωστράτου
+r.3    Ταμοῦνι̣ς̣ Ἀμενώθου (πεντώβολον)(τέταρτον) ,
+
+[TRANSLATION]
+1     Year 17, Phamenoth 19: of the salt-tax,
+2     on wool(?), through Sostratos:
+3     Tamounis (daughter of) Amenothes: 5¼ obols(?),

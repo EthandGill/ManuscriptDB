@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1229
+label:    O.Wilck. 1229
+name:     Bank-payment docket (cavalry account)
+genre:    receipts
+date:     II - I v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4411
+content:  Payment of 1500 copper dr. to the account of Heras the overseer of the cavalrymen, year 12.
+tm:       43996
+source:   https://papyri.info/ddbdp/o.wilck;;1229
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [πα]ρὰ σοῦ χαλκοῦ δ̣[ραχμὰς …]
+r.2    χιλίας πεντακο[σίας ̣ ̣ ̣ ̣ ̣ ̣]
+r.3    εἰς τὸν λόγον το[ῦ …]
+r.4    Ἡρᾶ τοῦ ἐπιτη[ρητοῦ (?)…]
+r.5    ἱ ππέων.
+r.6    (ἔτους) ιβ […]
+
+[TRANSLATION]
+1     [fr]om you, of copper d[rachmas …]
+2     one thousand five hu[ndred …]
+3     to the account of th[e …]
+4     of Heras the over[seer(?) …]
+5     of the cavalrymen.
+6     Year 12 […]

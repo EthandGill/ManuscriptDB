@@ -1,0 +1,37 @@
+[META]
+id:       O.Wilck. 1250
+label:    O.Wilck. 1250
+name:     Customs-arrears assessment receipt (Antoninus)
+genre:    receipts
+date:     4. Mar 141
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4138
+content:  Asklas and partners receive 2 dr. for the customs-arrears assessment of year 21 from Harondotes, year 4 of Antoninus.
+tm:       77639
+source:   https://papyri.info/ddbdp/o.wilck;;1250
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀσκλᾶς καὶ (μέτοχοι) ἀπαιτ(ηταὶ) με(ρισμοῦ) ἐνλ(είμματος)
+r.2    τελωνικ(οῦ) Ἁρονδώτου
+r.3    Ἀμων̣ί̣ου Ἁρονδώτου.
+r.4    ἔσχ(ομεν) ὑπ(ὲρ) τέ(λους) κα (ἔτους) δραχ(μὰς)
+r.5    δύο (γίνονταὶ) (δραχμαὶ) β. (ἔτους) δ
+r.6    Ἀντωνείνου
+r.7    Καίσαρος τοῦ κυρίου
+r.8    Φαμ(ενὼθ) η ̣ ̣ ̣ ̣
+r.9    (hand 2) [ ̣ ̣ ̣] ̣ ̣θης.
+
+[TRANSLATION]
+1     Asklas and partners, collectors of the assessment for the customs-arrears,
+2     to Harondotes
+3     (son of) Ammonios (son of) Harondotes.
+4     We have received for the tax of year 21, drachmas
+5     two, total drachmas 2. Year 4
+6     of Antoninus
+7     Caesar the lord,
+8     Phamenoth 8 ....
+9     (2nd hand) [...]thes.

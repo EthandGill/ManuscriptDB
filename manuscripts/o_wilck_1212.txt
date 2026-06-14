@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1212
+label:    O.Wilck. 1212
+name:     Name-list
+genre:    documents
+date:     Mitte II - IV
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 \[1212\
+content:  A list of men by relationship (sons, elder, younger).
+tm:       77612
+source:   https://papyri.info/ddbdp/o.wilck;;1212
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (δεκανὸς(?)) Μέρσ[ι]ς υἱ[ός].
+r.2    Φαμῖνις ἄλλο(ς) υἱός.
+r.3    Ποριεύθης Ὥρο(υ) πρ(εσβύτερος).
+r.4    Ψενθαήσιο(ς) νεώ(τερος) Πανα[…]
+r.5    Σαραπαμὼν νεώ(τερος) […]
+r.6    Ἀντίνος Πανα( ) τοῦ […]
+r.7    Ψεντφοὺς ὁ καὶ Ἀγα[…]
+
+[TRANSLATION]
+1     Decanus(?) Mersis (his) son.
+2     Phaminis, another son.
+3     Porieuthes (son of) Horos the elder.
+4     Psenthaesis the younger (son of) Pana[…]
+5     Sarapamon the younger […]
+6     Antinos (son of) Pana( ) (son of) the […]
+7     Psentphous also called Aga[…]

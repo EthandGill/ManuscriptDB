@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 1234
+label:    O.Wilck. 1234
+name:     Bank-payment docket (apomoira and eparourion)
+genre:    receipts
+date:     4. Apr 119 v.Chr.
+language: Greek (Koiné)
+found:    Koptos
+held:     (see shelf)
+shelf:    London, British Library O 12623
+content:  Phatres pays the apomoira/eparourion (2780 dr.) and the sacred revenue of Ammon (1660 dr.) at the Coptos bank, year 51.
+tm:       43314
+source:   https://papyri.info/ddbdp/o.wilck;;1234
+lat:      
+lon:      
+
+[GREEK]
+r.1    (ἔτους) να Φαμε(νὼθ) ιε. τέ(τακται) ἐπὶ τὴν ἐν Κόπ(τωι) τρά(πεζαν)
+r.2    ἀπομοί(ρας) καὶ ἐπαρ(ουρίου) να (ἔτους) Φατρῆς
+r.3    Πχοίριος διὰ Πολ[υ]δε̣ύκου
+r.4    τοῦ Ἕρμω̣ν̣ος δισχιλίας ἑπτα-
+r.5    κοσίας π, (γίνονται) Βψπ,
+r.6    ἱερᾶς Ἄμμω̣(νος) χιλίας ἑξακοσίας
+r.7    ἑξήκοντα (γίνονται) Αχξ.
+r.8    Κεφα(λ ) Δϡο. v
+
+[TRANSLATION]
+1     Year 51, Phamenoth 15: there has been paid to the bank in Coptos,
+2     (for) the apomoira and eparourion of year 51: Phatres
+3     (son of) Pchoiris, through Polydeukes
+4     son of Hermon, two thousand seven
+5     hundred 80, total 2780;
+6     (for) the sacred (revenue) of Ammon, one thousand six hundred
+7     sixty, total 1660.
+8     Kephal( ): 4970(?).

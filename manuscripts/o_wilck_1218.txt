@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 1218
+label:    O.Wilck. 1218
+name:     Private letter (dispatch of goods)
+genre:    letters
+date:     I - IV
+language: Greek (Koiné)
+found:    Theben oder Elephantine
+held:     (see shelf)
+shelf:    London, British Library O 14186
+content:  Salutarios writes that he has sent dishes, scarlet dye, anatomical specimens and a cup-washer, with a covering letter via Paesis.
+tm:       77618
+source:   https://papyri.info/ddbdp/o.wilck;;1218
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1    Σαλουτάριος Πανώχι
+r.2    παρακληθεὶς ἔνεγκόν
+r.3    συνθέσις βατελλίων δ,
+r.4    κόκκου μάτας δ, μέλη
+r.5    ἰ ατρικὰ ἀνθρώπινα πο-
+r.6    τηροπλύτην α. ἔδωκα
+r.7    δὲ Παήσι ἐπιστολὴν περὶ
+r.8    τούτων, ἵ να σοι πέμψῃ.
+
+[TRANSLATION]
+1     Salutarios to Panochis:
+2     having been asked, I sent
+3     (a) set of four small dishes (batellia),
+4     four masses of scarlet (dye), human
+5     anatomical specimens (for medical use), one
+6     cup-washer(?). I have given
+7     to Paesis a letter about
+8     these, that he may send (them) to you.

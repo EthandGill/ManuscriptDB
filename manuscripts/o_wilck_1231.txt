@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1231
+label:    O.Wilck. 1231
+name:     Money receipt
+genre:    receipts
+date:     nach 210 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4342
+content:  Theodoros, Abaious and Skymnos acknowledge 1950 copper dr. from Iaeire, year 25.
+tm:       77626
+source:   https://papyri.info/ddbdp/o.wilck;;1231
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) κε Μεχεὶρ ε
+r.2    Θεόδωρος καὶ Ἀβαιοῦς καὶ Σκύ-
+r.3    μνος Ἰαείρῃ χα(ίρειν). ἔχομεν παρὰ
+r.4    σοῦ χα(λκοῦ) (δραχμὰς) χειλίας ἐνακοσίας
+r.5    πεντήκοντα (γίνονται) Αϡν {ν}.
+r.6    ἐγραψαεν ̣ ̣διους.
+
+[TRANSLATION]
+1     Year 25, Mecheir 5:
+2     Theodoros and Abaious and Sky-
+3     mnos, to Iaeire, greeting. We have from
+4     you, of copper, one thousand nine hundred
+5     fifty drachmas, total 1950.
+6     ...dios wrote (this).

@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1238
+label:    O.Wilck. 1238
+name:     Poll-tax receipt (Claudius)
+genre:    receipts
+date:     7. Apr 48
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4193
+content:  Petemenophis pays 10 dr. poll-tax (and 1 dr. bath-tax) of year 8 of Claudius.
+tm:       50789
+source:   https://papyri.info/ddbdp/o.wilck;;1238
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    διαγ(εγράφηκεν) Πετεμε(νῶφις) Πεωτ( ) ὑπ(ὲρ) λ(αο)γ(ραφίας) η (ἔτους)
+r.2    (δραχμὰς) δέκα (γίνονται) (δραχμαὶ) ι καὶ προσδ(ιαγραφόμενα) (ὀβολὸν) α𐅵. (ἔτους) η Τιβε(ρίου) Κλαυδίου
+r.3    Καίσαρος Σεβ(αστοῦ) Γερμανικοῦ Αὐτοκράτορος
+r.4    Φαμε(νὼθ) λ‡ιβ. Πικ(ὼς) Πικ(ῶτος).
+r.5    βαλ(ανικοῦ) (δραχμὴν) μίαν ὀβολ(ὸν) α𐅵 (γίνεται) (δραχμὴ) α (ὀβολὸς) α𐅵.
+
+[TRANSLATION]
+1     Petemenophis (son of) Peot( ) has paid for the poll-tax of year 8,
+2     ten drachmas, total 10 dr., and surcharges, 1½ obols. Year 8 of Tiberius Claudius
+3     Caesar Augustus Germanicus Imperator,
+4     Phamenoth 30 (and) 12(?). Pikos (son of) Pikos.
+5     Of bath-tax, one drachma, 1½ obols, total 1 dr. 1½ ob.

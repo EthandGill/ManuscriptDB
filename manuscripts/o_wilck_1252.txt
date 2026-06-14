@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1252
+label:    O.Wilck. 1252
+name:     Bath-tax receipt (Antoninus)
+genre:    receipts
+date:     22. May 154
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 16461
+content:  Hierax and partners (temple granary) receive 1 dr. bath-tax of year 17 of Antoninus from Petebechis.
+tm:       77641
+source:   https://papyri.info/ddbdp/o.wilck;;1252
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἵεραξ καὶ (μέτοχοι) ἐπιτη(ρηταὶ) τέλ(ους) θησ(αυροῦ) ἱερῶ(ν)
+r.2    Πετεβήχει Ἑριέως. ἔσχο(ν)
+r.3    δραχ(μὴν) μίαν (γίνεται) (δραχμὴ) α ὑπ(ὲρ) βαλ(ανικοῦ) ιζ (ἔτους)
+r.4    Ἀντωνίνου Καίσαρος τοῦ
+r.5    κυρίου Παχὼ(ν) κζ.
+
+[TRANSLATION]
+1     Hierax and partners, overseers of the tax of the granary of the temples,
+2     to Petebechis (son of) Herieus. I have received
+3     one drachma, total drachma 1, for bath-tax of year 17
+4     of Antoninus Caesar the
+5     lord, Pachon 27.

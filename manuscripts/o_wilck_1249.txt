@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1249
+label:    O.Wilck. 1249
+name:     Customs-arrears assessment receipt (Antoninus)
+genre:    receipts
+date:     138 - 139
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4141
+content:  Asklas and partners receive 4 dr. for the customs-arrears assessment of year 1 of Antoninus from Pachrates.
+tm:       77638
+source:   https://papyri.info/ddbdp/o.wilck;;1249
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀσκλᾶς καὶ (μέτοχοι)
+r.2    ἀπαιτ(ηταὶ) με(ρισμοῦ) ἐνλ(είμματος)
+r.3    τελ(ωνικοῦ) α (ἔτους) Παχράτῃ
+r.4    Ἡρακ(λείδου). ἔσχ(ομεν) ὑπ(ὲρ) τέλ(ους) δραχ(μὰς)
+r.5    τέσσαρες (γίνονται) (δραχμαὶ) δ. (ἔτους) β
+r.6    Ἀντωνείνου [Καὶσαρος]
+r.7    Διόσκ(ορος) Ὥρο(υ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Asklas and partners,
+2     collectors of the assessment for the customs-arrears
+3     of year 1, to Pachrates
+4     (son of) Herakleides. We have received for the tax, drachmas
+5     four, total drachmas 4. Year 2
+6     of Antoninus [Caesar].
+7     I, Dioskoros (son of) Horos, have signed.

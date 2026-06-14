@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1260
+label:    O.Wilck. 1260
+name:     Grain-measure receipt (metropolis granary, Antoninus)
+genre:    receipts
+date:     29. May 139
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4422
+content:  Heriophmois son of Petemenophis measures in 1 art. of wheat for Charax, year 2 of Antoninus.
+tm:       77645
+source:   https://papyri.info/ddbdp/o.wilck;;1260
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μέ(τρημα) θ]ησ(αυροῦ) μητροπ(όλεως) γενήμ(ατος) β (ἔτους)
+r.2    [Ἀντ]ω̣ν̣είνου Καίσαρος τοῦ κυρίου
+r.3    Παῦνι δ ὑπ(ὲρ) Χ(άρακος) ὀνό(ματος) Ἑριοφμόϊς
+r.4    Πετεμενώ(φιος) διὰ Β ̣ ̣ ̣ ̣ πυροῦ μίαν
+r.5    (γίνεται) (πυροῦ) α. Πετε( ) ̣ ̣( )
+
+[TRANSLATION]
+1     [Measure of the gr]anary of the metropolis, of the produce of year 2
+2     [of Ant]oninus Caesar the lord,
+3     Pauni 4, for Charax, in the name of Heriophmois
+4     (son of) Petemenophis, through B...., of wheat one,
+5     total wheat 1. Pete( ) ..( )

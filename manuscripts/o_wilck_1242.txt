@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1242
+label:    O.Wilck. 1242
+name:     Poll-tax receipt (Hadrian)
+genre:    receipts
+date:     20. Mar 122
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 5898
+content:  Phaeris, money-tax collector, receives 12 dr. poll-tax of Charax of year 6 of Hadrian from Amenothes.
+tm:       77631
+source:   https://papyri.info/ddbdp/o.wilck;;1242
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φαῆ(ρις) πρ(άκτωρ) ἀργ(υρικῆς) Ἀμενώθ(ῃ)
+r.2    Ἁρβήχ(ιος) μη(τρὸς) Σενχεσθώτου.
+r.3    ἔσχ(ον) ὑπ(ὲρ) λαογρα(φίας) Χά(ρακος) ϛ (ἔτους) ῥυπ(αρὰς)
+r.4    (δραχμὰς) δώδεκα (γίνονται) (δραχμαὶ) ιβ. (ἔτους) ϛ
+r.5    Ἁδριανοῦ Καίσαρος τοῦ
+r.6    κυρίου Φαμ(ενὼ)θ κε.
+
+[TRANSLATION]
+1     Phaeris, collector of money-taxes, to Amenothes
+2     (son of) Harbechis, (whose) mother is Senchesthotis.
+3     I have received for poll-tax of Charax of year 6, base
+4     drachmas twelve, total drachmas 12. Year 6
+5     of Hadrian Caesar the
+6     lord, Phamenoth 25.

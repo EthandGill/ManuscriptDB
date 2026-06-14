@@ -1,0 +1,23 @@
+[META]
+id:       O.Wilck. 1248
+label:    O.Wilck. 1248
+name:     Tax receipt fragment (Hadrian)
+genre:    receipts
+date:     23. Jun 138
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4153
+content:  Tax-receipt fragment, year 22 of Hadrian, Pauni 29.
+tm:       77637
+source:   https://papyri.info/ddbdp/o.wilck;;1248
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ̣ ̣(διώβολον). (ἔτους) κβ Ἁδριανοῦ Καίσαρος
+r.2    5[τοῦ κυρίου] Παῦ(νι) κθ. Α( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     .. (2 obols). Year 22 of Hadrian Caesar
+2     [the lord,] Pauni 29. A( ), I have signed.

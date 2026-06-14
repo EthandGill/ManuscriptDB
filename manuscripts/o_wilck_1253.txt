@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1253
+label:    O.Wilck. 1253
+name:     Grain-assessment receipt (Ptolemaic, Around Thebes)
+genre:    receipts
+date:     26. Jun 219 v.Chr. (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 358
+content:  Philokles son of Nikon measures in 100 art. of wheat for the year-3 assessment of the district Around Thebes.
+tm:       43555
+source:   https://papyri.info/ddbdp/o.wilck;;1253
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) γ Παχὼν ια εἰσμεμέ-
+r.2    τρηκεν εἰς τὴν ἐπιγραφὴν
+r.3    τοῦ Περὶ Θήβας τόπου τοῦ
+r.4    αὐτοῦ ἔτους Φιλοκλῆς
+r.5    Νίκωνος πυροῦ ἑκατὸν (γίνονται) (πυροῦ) ρ.
+r.6    Κριτόλαος.
+
+[TRANSLATION]
+1     Year 3, Pachon 11: there has measured in,
+2     for the assessment (epigraphe)
+3     of the district Around Thebes, of the
+4     same year: Philokles
+5     (son of) Nikon, of wheat one hundred, total wheat 100.
+6     Kritolaos.

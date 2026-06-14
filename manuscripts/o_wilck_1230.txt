@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1230
+label:    O.Wilck. 1230
+name:     Oil-tax receipt
+genre:    receipts
+date:     III v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1556
+content:  Psemminis pays 3 (units) of the oil-taxes to Dorion, year 18.
+tm:       77625
+source:   https://papyri.info/ddbdp/o.wilck;;1230
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) ιη Θῶυθ η ἐλα-
+r.2    ικῶν Ψεμμεῖνις
+r.3    ̣ τρεῖς (γίνονται) γ Δωρίωνι.
+
+[TRANSLATION]
+1     Year 18, Thoth 8: of the oil-
+2     taxes, Psemminis:
+3     .. three, total 3, to Dorion.

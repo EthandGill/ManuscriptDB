@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1255
+label:    O.Wilck. 1255
+name:     Grain-measure receipt (Ptolemaic, Diospolis Magna)
+genre:    receipts
+date:     8. Febr. 153 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. (?)
+content:  Simon son of Izaros, lessee, measures in 90 art. of wheat into the Theban granary, year 28; countersigned.
+tm:       44296
+source:   https://papyri.info/ddbdp/o.wilck;;1255
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους κη Τῦβι ια με(μέτρηκεν) εἰς τν
+r.2    ἐν Διὸς πό(λει) τῆι μεγ(άληι) θη(σαυρὸν) κη (ἔτους)
+r.3    Σίμων Ἰζάρου ἐειληφὼς πυροῦ
+r.4    ἐνενήκοντα (γίνονται) (πυροῦ) ϙ. Βρύων .
+r.5    (hand 2) Ἀπολλώνιος. με(μέτρημαι) (πυροῦ) ἐνενήκοντα (γίνονται) (πυροῦ) ϙ.
+r.6    (hand 3) Ἑρμοκράτης (πυροῦ) ἐνενήκοντα (γίνονται) (πυροῦ) ϙ.
+
+[TRANSLATION]
+1     Year 28, Tybi 11: there has measured into the
+2     (granary) in Diospolis Magna, the granary, year 28:
+3     Simon (son of) Izaros, who has farmed (the tax), of wheat
+4     ninety, total wheat 90. Bryon.
+5     (2nd hand) Apollonios: I have received by measure, of wheat ninety, total wheat 90.
+6     (3rd hand) Hermokrates: of wheat ninety, total wheat 90.

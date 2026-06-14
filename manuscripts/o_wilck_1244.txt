@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1244
+label:    O.Wilck. 1244
+name:     Tax receipt (Hadrian)
+genre:    receipts
+date:     123 - 124
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4824
+content:  Phaeris, money-tax collector, receives a tax of Charax of year 8 of Hadrian from Amenothes.
+tm:       77633
+source:   https://papyri.info/ddbdp/o.wilck;;1244
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φαῆ(ρις) πράκ(τωρ) ἀργ(υρικῆς) [Ἀμενώθ(ῃ) Ἁρβήχ(ιος)]
+r.2    μη(τρὸς) Σενχεσθώτ[ου. ἔσχ(ον) ὑπ(ὲρ) ̣ ̣ ̣ ̣ ̣ ̣]
+r.3    καὶ ἄλ(λων) Χά(ρακος) η (ἔτους) ῥυπ(αρὰς) (δραχμὰς) ̣[ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.4    (ἔτους) η Ἁδριανοῦ [Καίσαρος τοῦ κυρίου ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+
+[TRANSLATION]
+1     Phaeris, collector of money-taxes [to Amenothes (son of) Harbechis]
+2     (whose) mother is Senchesthot[is. I have received for ...]
+3     and other (taxes) of Charax of year 8, base drachmas .[......]
+4     Year 8 of Hadrian [Caesar the lord, …]

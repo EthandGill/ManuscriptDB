@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1222
+label:    O.Wilck. 1222
+name:     Naubion dyke-work receipt
+genre:    receipts
+date:     I - IV
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 16482
+content:  Orses' outstanding naubia on the metropolis canal, not worked off in year 1, paid in full in year 2.
+tm:       77622
+source:   https://papyri.info/ddbdp/o.wilck;;1222
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Διώρυγος μητροπ(όλεως)
+r.2    ὀνό(ματος) Ὀρσῆτος ἐλάσ̣σ̣ω ναυ-
+r.3    βίων μη ἀπεργασθέν-
+r.4    των τῷ α (ἔτει) πλήρης .
+r.5    (ἔτους) β Τῦβι η.
+
+[TRANSLATION]
+1     Of the canal of the metropolis,
+2     in the name of Orses: fewer nau-
+3     bia not worked-off
+4     in year 1, (paid) in full.
+5     Year 2, Tybi 8.

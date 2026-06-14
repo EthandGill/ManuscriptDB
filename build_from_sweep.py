@@ -139,7 +139,7 @@ def clean_line(line):
 _APPARATUS = re.compile(
     r"(^\s*[.\-])|(^\s*\d+\.\s)|(\blin\d)|(=>)|(\|ed\|)|(\bl\.\s)|(\bBL\b)|"
     r"(prev\.\s*ed)|(corr\.)|\bZPE\b|\bAPF\b|\bcf\.\b|Traces|(p\.\s*\d+)|(,\s*n\.\s*\d)|"
-    r"(\bpapyrus\b)|(\bostrac)",
+    r"(\bpapyrus\b)|(\bostrac)|(\s\|\s)|(^\s*(Title|Subjects|Inv|Date|Material|Origin|Provenance|Language)\b)",
     re.I)
 
 def clean_greek(greek):

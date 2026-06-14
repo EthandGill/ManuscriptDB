@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 1232
+label:    O.Wilck. 1232
+name:     Bank-payment docket (land-fine)
+genre:    receipts
+date:     15. Jul 154 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 3987
+content:  Haryothes pays a land-fine of 1 talent 1500 dr. plus dues at the Diospolis Magna bank, year 27.
+tm:       43444
+source:   https://papyri.info/ddbdp/o.wilck;;1232
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους κ̣ζ Παῦνι ιη [τέ(τακται) ἐπὶ τὴν ἐν]
+r.2    Διὸς πόλ(ει) τῇι μεγ(άληι) τρά(πεζαν), ἐ[φʼ ἠς Πτολεμαῖος],
+r.3    προστ(ίμου) α ̣ ̣μη( ) γῆς Ἁρυ[ώθης]
+r.4    Παμώ(νθου) διʼ Ἁρμίνιος ̣ ̣ ̣[ ̣ ̣]
+r.5    (τάλαντα) ἓν χιλίας πεντακ[οσίας]
+r.6    (γίνεται) (τάλαντον) αΑφ καὶ τὰ̣
+r.7    καθ̣(ήκοντα) τ̣έ̣λ̣[η].
+r.8    Πτο(λεμαῖος) τρα(πεζίτης).
+
+[TRANSLATION]
+1     Year 27, Pauni 18: [there has been paid to the bank in]
+2     Diospolis Magna, [of which Ptolemaios (is in charge)],
+3     of a fine ...mh( ) of land: Haryothes
+4     (son of) Pamonthes, through Harminis …[..]
+5     one talent, one thousand five hun[dred (dr.)],
+6     total 1 talent 1500 (dr.), and the
+7     due ta[xes].
+8     Ptolemaios, banker.
