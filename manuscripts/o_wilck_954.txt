@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 954
+label:    O.Wilck. 954
+name:     Grain-measure receipts (metropolis granary, Charax)
+genre:    receipts
+date:     5. Jun 186
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 332
+content:  Nechthanouphis, Tasemis & Pasemis measure in wheat for Charax (three entries), year 26 of Commodus.
+tm:       77430
+source:   https://papyri.info/ddbdp/o.wilck;;954
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γ(εν)ή(ματος) κϛ (ἔτους) Κομ(μόδ)ου
+r.2    Ἀντω(νίνου) Καίσαρος τοῦ κυρίου
+r.3    Παῦ(νι) ια ὑπ(ὲρ) Χ(άρακος) ὀνό(ματος) Νεχθ̣ανούφιος Απ ̣ ̣ ̣ ̣
+r.4    ὁ(μοίως) (πυροῦ) ἕκτον (γίνεται) (πυροῦ) ϛ´, καὶ [ὀνό(ματος)]
+r.5    Τασήμιος Σενε̣υ̣ρο̣ς
+r.6    (πυροῦ) δωδέκατον (γίνεται) (πυροῦ) ιβ´. Ὥρ[ος]
+r.7    ἄλ(λον) Παῦ(νι) θ ὀνό(ματος) Πασήμιο(ς)
+r.8    Σουῆρος (πυροῦ) ἕκτον (γίνεται) (πυροῦ) ϛ´. Ὥρ(ος).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 26 of Commodus
+2     Antoninus Caesar the lord,
+3     Pauni 11, for Charax, in the name of Nechthanouphis (son of) Ap....,
+4     likewise, of wheat a sixth, total wheat 1/6, and [in the name of]
+5     Tasemis (child of) Seneuros,
+6     of wheat a twelfth, total wheat 1/12. Hor[os].
+7     Another, Pauni 9, in the name of Pasemis
+8     (son of) Soueros, of wheat a sixth, total wheat 1/6. Horos.

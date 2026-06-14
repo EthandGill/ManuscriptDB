@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 924
+label:    O.Wilck. 924
+name:     Bath-tax receipt
+genre:    receipts
+date:     8. Apr 165
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4566
+content:  Pempsais and partners (temple granary) receive the bath-tax of year 5 of Marcus Aurelius & Verus from Philamon.
+tm:       77400
+source:   https://papyri.info/ddbdp/o.wilck;;924
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πεμψᾶις καὶ (μέτοχοι) ἐπ(ιτηρηταὶ) τέλ(ους) θησ(αυροῦ)
+r.2    ἱερ(ῶν) Φιλαμὼν ὁ καὶ Πνῆφι Ὥρου.
+r.3    ἔσχομ(εν) τὸ βαλ(ανικὸν) τοῦ ε (ἔτους) Ἀντωνίνου
+r.4    καὶ Οὐήρου τῶν κυρίων Σεβαστῶν Φαρ(μοῦθι) ιγ.
+
+[TRANSLATION]
+1     Pempsais and partners, overseers of the tax of the granary
+2     of the temples, (to) Philamon also called Pnephis (son of) Horos.
+3     We have received the bath-tax of year 5 of Antoninus
+4     and Verus, the lords, the Augusti, Pharmouthi 13.

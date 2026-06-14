@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 917
+label:    O.Wilck. 917
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     11. Jun 161
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4136
+content:  ...sio( ) son of Nechthaus measures in 1¼ 1/24 art. of wheat, year 1 of Marcus Aurelius & Verus.
+tm:       77393
+source:   https://papyri.info/ddbdp/o.wilck;;917
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μέ(τρημα)] θησ(αυροῦ) μη(τροπόλεως) γενή(ματος) α (ἔτους)
+r.2    [Αὐρη]λίου Ἀντωνίνου καὶ
+r.3    [Λουκ]ίου Οὐήρου τῶν κυρίων
+r.4    5[ ̣ ̣ ̣ ̣]σιο( ) Νεχθαὺς
+r.5    [(πυροῦ) μ]ίαν τέταρτο(ν) κδ´ (γίνεται) (πυροῦ) αδ´κδ´.
+r.6    Π ̣ ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     [Measure] of the granary of the metropolis, of the produce of year 1
+2     of [Aure]lius Antoninus and
+3     [Luc]ius Verus, the lords,
+4     […]sio( ) (son of) Nechthaus,
+5     [of wheat o]ne and a quarter and a twenty-fourth, total wheat 1¼ 1/24.
+6     I, P..( ), have signed.

@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 936
+label:    O.Wilck. 936
+name:     Chaff receipt (bath-furnace)
+genre:    receipts
+date:     24. Jun 173
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4070
+content:  Harpokration and partners, metropolis chaff-collectors, receive ⅔ load for the bath-furnace from Pekys, year 13 of Marcus Aurelius.
+tm:       77412
+source:   https://papyri.info/ddbdp/o.wilck;;936
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἁρποκ(ρατίων) καὶ (μέτοχοι) ἀχυροπ(ράκτορες)
+r.2    μη(τροπόλεως) Πεκὺς Παναροῦτ[ος]
+r.3    χ(αίρειν). ἐσχήκ(αμεν) παρὰ σοῦ
+r.4    εἰς ὑπόκ(αυσιν) βαλ(ανείου) γό(μου) 𐅷 γενή(ματος)
+r.5    ιγ (ἔτους) Αὐρηλίου Ἀντωνίνου
+r.6    Καίσαρος τοῦ κυρίου Παῦ(νι) λ.
+
+[TRANSLATION]
+1     Harpokration and partners, chaff-collectors
+2     of the metropolis, to Pekys (son of) Panarous,
+3     greeting. We have received from you
+4     for the heating of the bath, a load, ⅔, of the produce
+5     of year 13 of Aurelius Antoninus
+6     Caesar the lord, Pauni 30.

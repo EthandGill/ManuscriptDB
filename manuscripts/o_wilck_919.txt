@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 919
+label:    O.Wilck. 919
+name:     Bath-tax receipt
+genre:    receipts
+date:     25. May 162
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1151
+content:  Asklas and partners (temple granary) receive the bath-tax of year 2 of Marcus Aurelius & Verus from Petosiris.
+tm:       77395
+source:   https://papyri.info/ddbdp/o.wilck;;919
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀσκλᾶς καὶ μέ(τοχοι) ἐπιτ(ηρηταὶ) τέλ(ους) θησ(αυροῦ)
+r.2    ἱερῶ(ν) Πετοσί(ρει) Ψενσενύ(ριος). ἔσχ(ομεν)
+r.3    τὸ βαλ(ανικὸν) τοῦ β (ἔτους) Ἀντωνίνου
+r.4    καὶ Οὐήρου τῶν κυρίων Σεβασ-
+r.5    τῶν Παχὼ(ν) λ.
+
+[TRANSLATION]
+1     Asklas and partners, overseers of the tax of the granary
+2     of the temples, to Petosiris (son of) Psensenyris. We have received
+3     the bath-tax of year 2 of Antoninus
+4     and Verus, the lords, the Augus-
+5     ti, Pachon 30.

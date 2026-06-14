@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 945
+label:    O.Wilck. 945
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     5. Aug 178
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4033
+content:  Thaminis son of Thasis, via Lolous, measures in 3½ 1/24 art. of wheat for Charax, year 18 of Marcus Aurelius & Commodus.
+tm:       77421
+source:   https://papyri.info/ddbdp/o.wilck;;945
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γε]νή(ματος) ιη (ἔτους) Αὐρηλίων
+r.2    [Ἀντωνίνου καὶ Κ]ομμόδου Καισάρων
+r.3    [τῶν κυρίων Μ]εσο(ρὴ) ιβ ὑπ(ὲρ) Χ(άρακος) ὀνό(ματος) Θαμί-
+r.4    [νιος Θασιῆτος διὰ] γ(εωργοῦ) Λολο(ῦτος) Πεκύσιο(ς) (πυροῦ) τρεῖς
+r.5    5[ἥμισυ τετρακ(αιεικοστὸν) (γίνονται)] (πυροῦ) γ𐅵κδ´. Ἀμώ(νιος) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     [Measure of the granary of the metropolis, of the pro]duce of year 18 of the Aurelii
+2     [Antoninus and C]ommodus, Caesars,
+3     [the lords, M]esore 12, for Charax, in the name of Thami-
+4     [nis (son of) Thasis, through] the cultivator Lolous (son of) Pekysis, of wheat three
+5     [and a half and a twenty-fourth, total] wheat 3½ 1/24. I, Amonios, have signed.

@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 920
+label:    O.Wilck. 920
+name:     Grain-measure receipt (metropolis granary, South)
+genre:    receipts
+date:     13. Jun 163
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12632
+content:  Amenrosis son of Apion, via Lolous, measures in 3 art. of wheat for the South, year 3 of Marcus Aurelius & Verus.
+tm:       77396
+source:   https://papyri.info/ddbdp/o.wilck;;920
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μέ(τρημα)] θησ(αυροῦ) μη(τροπόλεως) γ(εν)ή(ματος) γ (ἔτους) Ἀντωνίνου
+r.2    [καὶ] Οὐήρου τῶν κυρίων Σεβαστῶν
+r.3    Παῦ(νι(?)) ιθ ὑπ(ὲρ) Ν(ότου) ἀ(πὸ) Ἀμενρώ(σιος) Ἀπίω(νος)
+r.4    διὰ γ(εωργοῦ) Λολο(ῦτος) τοῦ καὶ Σεμπρω(νίου) ̣ ̣ρ( )
+r.5    ̣ ̣ ( ) (ὁμοίως) (πυροῦ) τρεῖς (γίνονται) (πυροῦ) γ.
+r.6    Ἀμώ(νιος) σ(εσημείωμαι).
+
+[TRANSLATION]
+1     [Measure] of the granary of the metropolis, of the produce of year 3 of Antoninus
+2     [and] Verus, the lords, the Augusti,
+3     Pauni(?) 19, for the South, from Amenrosis (son of) Apion,
+4     through the cultivator Lolous also called Sempronius …r( ),
+5     …( ), likewise, of wheat three, total wheat 3.
+6     I, Amonios, have signed.

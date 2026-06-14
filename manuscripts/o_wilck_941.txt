@@ -1,0 +1,41 @@
+[META]
+id:       O.Wilck. 941
+label:    O.Wilck. 941
+name:     Grain-measure receipts (metropolis granary, Charax)
+genre:    receipts
+date:     3. Jul 178
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 55 \[ostracon\
+content:  Pekysis, via Phthomonthes, measures in wheat for Charax (three entries), year 18 of Marcus Aurelius & Commodus.
+tm:       77417
+source:   https://papyri.info/ddbdp/o.wilck;;941
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γ(εν)ή(ματος) ιη (ἔτους)
+r.2    Αὐρηλίων Ἀντωνίνου (καὶ)
+r.3    Κομμόδου Καισάρων τῶν
+r.4    κυρίων Ἐ(πὶ)φ θ ὑπ(ὲρ) Χ(άρακος) ὀνό(ματος)
+r.5    Πεκύσιο(ς) διὰ Φθομώνθ(ου)
+r.6    Φαήριο(ς) (πυροῦ) τρίτο(ν) (γίνεται) (πυροῦ) γ´.
+r.7    Ἀμώ(νιος) σ(εσ)η(μείωμαι).
+r.8    ἄλ(λον) Παῦ(νι) ιε ὁμο(ίως) (πυροῦ) δω-
+r.9    δέκατο(ν) (γίνεται) (πυροῦ) ιβ´. ἄλ(λον) Παῦ(νι) ϛ
+r.10   ὁμοί(ως) (πυροῦ) μίαν ἥμισυ
+r.11   ιβ´ (γίνεται) (πυροῦ) α𐅵ιβ´. Ἀμώ(νιος) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 18
+2     of the Aurelii Antoninus (and)
+3     Commodus, Caesars, the
+4     lords, Epeiph 9, for Charax, in the name
+5     of Pekysis, through Phthomonthes
+6     (son of) Phaeris, of wheat a third, total wheat ⅓.
+7     I, Amonios, have signed.
+8     Another, Pauni 15, likewise, of wheat a twel-
+9     fth, total wheat 1/12. Another, Pauni 6,
+10    likewise, of wheat one and a half
+11    and a twelfth, total wheat 1½ 1/12. I, Amonios, have signed.

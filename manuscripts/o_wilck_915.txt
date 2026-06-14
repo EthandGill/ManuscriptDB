@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 915
+label:    O.Wilck. 915
+name:     Grain-measure receipt (metropolis granary, South)
+genre:    receipts
+date:     15. Aug 160
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1174
+content:  Hermes, via Petosiris, measures in 1/12 art. of wheat for the South, year 23 of Antoninus.
+tm:       77391
+source:   https://papyri.info/ddbdp/o.wilck;;915
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θη(σαυροῦ) μη(τροπόλεως) γενή(ματος) κγ (ἔτους) Ἀντω(νίνου) Καίσαρος
+r.2    του κυ(ρίου) Μεσο(ρὴ) κβ ὑπ(ὲρ) Νό(του) ὀνό(ματος)
+r.3    Ἑρμοῦ τοῦ κ ̣ ̣ ̣ ̣( ) δι(ὰ)
+r.4    Πετοσί(ριος) Ψενσεν[ύριος]
+r.5    (πυροῦ) δωδέκατο(ν) (γίνεται) (πυροῦ) ιβ´.
+r.6    Ε ̣ ̣( ) (πυροῦ) ιβ´.
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 23 of Antoninus Caesar
+2     the lord, Mesore 22, for the South, in the name of
+3     Hermes (son of) the …( ), through
+4     Petosiris (son of) Psensen[yris],
+5     of wheat a twelfth, total wheat 1/12.
+6     E..( ), of wheat 1/12.

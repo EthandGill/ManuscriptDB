@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 955
+label:    O.Wilck. 955
+name:     Bath-tax receipt
+genre:    receipts
+date:     185 - 186
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 294
+content:  Pikos and partners (temple granary) receive the bath-tax of year 26 (of Commodus) from Besis.
+tm:       77431
+source:   https://papyri.info/ddbdp/o.wilck;;955
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πικὼς καὶ (μέτοχοι) ἐπιτ(ηρηταὶ) θησ(αυροῦ) ἱερ(ῶν)
+r.2    Βήσιος Σενύριος. ἔσχ(ομεν)
+r.3    τὸ βαλ(ανικὸν) τοῦ κϛ (ἔτους).
+
+[TRANSLATION]
+1     Pikos and partners, overseers of the granary of the temples,
+2     to Besis (son of) Senyris. We have received
+3     the bath-tax of year 26.

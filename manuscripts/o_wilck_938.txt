@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 938
+label:    O.Wilck. 938
+name:     Grain-measure receipt (metropolis granary, islands)
+genre:    receipts
+date:     20. Sep 174
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8171
+content:  Senapollos (child of) Pikos measures in 1/12 art. of wheat for the islands, year 14 of Marcus Aurelius.
+tm:       77414
+source:   https://papyri.info/ddbdp/o.wilck;;938
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γ(εν)ή(ματος) ιδ (ἔτους)
+r.2    Αὐρηλίου Ἀντωνίνου Καίσαρος
+r.3    τοῦ κυρίου Θὼθ κγ τοῦ ιε (ἔτους)
+r.4    ὑπ(ὲρ) νή(σων) ὀνό(ματος) Σεναπολλῶτο(ς)
+r.5    Πικῶτο(ς) (πυροῦ) δωδέκατο(ν)
+r.6    (γίνεται) (πυροῦ) ιβ´. Ἀμώ(νιος) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 14
+2     of Aurelius Antoninus Caesar
+3     the lord, Thoth 23 of year 15,
+4     for the islands, in the name of Senapollos
+5     (child of) Pikos, of wheat a twelfth,
+6     total wheat 1/12. I, Amonios, have signed.

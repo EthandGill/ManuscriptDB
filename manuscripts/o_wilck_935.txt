@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 935
+label:    O.Wilck. 935
+name:     Grain-measure receipt (metropolis granary, South)
+genre:    receipts
+date:     6. Jul 171
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 51 \[ostracon\
+content:  Kephal( ) son of Apollodoros, via Psenchonsis, measures in ½ 1/12 art. of wheat for the South, year 11 of Marcus Aurelius.
+tm:       77411
+source:   https://papyri.info/ddbdp/o.wilck;;935
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γ(ενήματος) ια (ἔτους) Αὐρη(λίου)
+r.2    Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.3    Ἐπ(ὶ)φ ιβ ὑπ(ὲρ) Νό(του) ὀν(όματος) Κεφαλ( ) Ἀπολοδ(ώρου)
+r.4    δι(ὰ) γ(εωργοῦ) Ψενχώ(νσιος) Καμή(τιος) (πυροῦ) ἥμισυ
+r.5    δωδέκ(ατον) (γίνεται) (πυροῦ) 𐅵ιβ´. Ἀμώ(νιος) σ(εσ)η(μείωμαι). (hand 2) ἄλ(λον)
+r.6    Ἐ(πὶ)φ ε̣ ὁ(μοίως) (πυροῦ) ἕκτο(ν) (γίνεται) (πυροῦ) ϛ´. (hand 1) Ἀμώ(νιος) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 11 of Aure(lius)
+2     Antoninus Caesar the lord,
+3     Epeiph 12, for the South, in the name of Kephal( ) (son of) Apollodoros,
+4     through the cultivator Psenchonsis (son of) Kametis, of wheat a half
+5     and a twelfth, total wheat ½ 1/12. I, Amonios, have signed. (2nd hand) Another,
+6     Epeiph 5, likewise, of wheat a sixth, total wheat 1/6. (1st hand) I, Amonios, have signed.

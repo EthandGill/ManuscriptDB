@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 937
+label:    O.Wilck. 937
+name:     Chaff receipt (cohort)
+genre:    receipts
+date:     25. Jul 174
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4565
+content:  Panameus delivers 3½ loads of chaff to the cohort, produce of year 14 of Marcus Aurelius.
+tm:       77413
+source:   https://papyri.info/ddbdp/o.wilck;;937
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    παρεκο(μίσθησαν) εἰς τὴν σπεῖρ(αν) ὀνόμ(ατος) Παναμ(έως)
+r.2    Περ ̣νε̣υ̣ς ἀχύρου γό(μους) τρεῖς ἥμι-
+r.3    συ (γίνονται) γό(μοι) γ𐅵 ὑπ(ὲρ) γενή(ματος) ιδ (ἔτους) Αὐρηλίου
+r.4    Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.5    Μεσο(ρὴ) α.
+
+[TRANSLATION]
+1     There were conveyed, to the cohort (speira), in the name of Panameus
+2     (son of) Per.neus, of chaff, loads three and a h-
+3     alf, total loads 3½, for the produce of year 14 of Aurelius
+4     Antoninus Caesar the lord,
+5     Mesore 1.

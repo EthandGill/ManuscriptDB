@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 942
+label:    O.Wilck. 942
+name:     Grain-measure receipts (metropolis granary, Charax)
+genre:    receipts
+date:     28. Jul 178
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 331
+content:  Horos son of Pikos measures in wheat for Charax (two entries), year 18 of Marcus Aurelius & Commodus.
+tm:       77418
+source:   https://papyri.info/ddbdp/o.wilck;;942
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γενή(ματος) ιη (ἔτους)
+r.2    Αὐρηλίων Ἀντωνίνου
+r.3    καὶ Κομμόδου Καισάρων
+r.4    τῶν κυρίων Παῦ(νι) ιη ὑπ(ὲρ) Χὰ(ρακος) ὀνό(ματος)
+r.5    Ὥρο(υ) (ὁμοίως) Πικῶτος (πυροῦ) δύο (γίνονται) (πυροῦ) β.
+r.6    Ἀμώ(νιος) σ(εσ)η(μείωμαι).
+r.7    ἄλ(λον) Μεσο(ρὴ) δ ὁμ(οίως) (πυροῦ) δίμοιρον
+r.8    (γίνεται) (πυροῦ) 𐅷. Ἀμώ(νιος) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 18
+2     of the Aurelii Antoninus
+3     and Commodus, Caesars,
+4     the lords, Pauni 18, for Charax, in the name
+5     of Horos, likewise (son of) Pikos, of wheat two, total wheat 2.
+6     I, Amonios, have signed.
+7     Another, Mesore 4, likewise, of wheat two-thirds,
+8     total wheat ⅔. I, Amonios, have signed.

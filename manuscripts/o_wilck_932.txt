@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 932
+label:    O.Wilck. 932
+name:     Bath-tax receipt
+genre:    receipts
+date:     30. Mar 169
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 330
+content:  Asklas and partners (temple granary) receive the bath-tax of year 9 of Marcus Aurelius & Verus from Pekysis.
+tm:       77408
+source:   https://papyri.info/ddbdp/o.wilck;;932
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀσκλᾶς καὶ (μέτοχοι) ἐπιτ(ηρηταὶ) θησ(αυροῦ) ἱερ(ῶν)
+r.2    Πεκύσιο(ς) Ὀννώ(φριος) Φθουμί(νιος).
+r.3    ἔσχ(ομεν) τὸ βα(λανικὸν) τοῦ θ (ἔτους) Ἀν(τωνίν)ου
+r.4    καὶ Οὐήρου τῶν κυρίων
+r.5    Σεβαστῶν Φαρμ(οῦθι) ̣.
+
+[TRANSLATION]
+1     Asklas and partners, overseers of the granary of the temples,
+2     to Pekysis (son of) Onnophris (son of) Phthouminis.
+3     We have received the bath-tax of year 9 of Antoninus
+4     and Verus, the lords,
+5     the Augusti, Pharmouthi .

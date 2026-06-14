@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 949
+label:    O.Wilck. 949
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     18. Nov 182
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1179
+content:  ...phous the younger son of Pikos measures in ½ art. of wheat, year 22 of Commodus.
+tm:       77425
+source:   https://papyri.info/ddbdp/o.wilck;;949
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μέ(τρημα) θη(σαυροῦ) μη(τροπόλεως) γ(ενήματος)] κβ (ἔτους) Κομμόδου Ἀντωνίνου
+r.2    [Καίσαρος τοῦ κυρ]ίου Ἁθὺρ κβ τοῦ κγ (ἔτους)
+r.3    [ὑπ(ὲρ) ̣ ̣ ̣ ὀνό(ματος) ̣ ̣ ̣]φοὺς ν(εωτέρ ) Πικῶτο(ς) αγ̣ ̣( ) ολ( )
+r.4    [(πυροῦ) ἥμισυ (γίνεται) (πυροῦ)] 𐅵. (hand 2) Ἀπ̣ολ( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     [Measure of the granary of the metropolis, of the produce of] year 22 of Commodus Antoninus
+2     [Caesar the lo]rd, Hathyr 22 of year 23,
+3     [for …, in the name of …]phous the younger (son of) Pikos, ag..( ) ol( ),
+4     [of wheat a half, total wheat] ½. (2nd hand) I, Apol( ), have signed.
