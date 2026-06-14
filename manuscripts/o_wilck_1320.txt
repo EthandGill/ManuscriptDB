@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1320
+label:    O.Wilck. 1320
+name:     Bank-payment docket (poll-tax)
+genre:    receipts
+date:     5. Jun 3
+language: Greek (Koiné)
+found:    Koptos
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities Ae.S. 126
+content:  Psenosiris son of Apollos pays 16 dr. poll-tax of year 32 (of the Phrourion) at the bank.
+tm:       24730
+source:   https://papyri.info/ddbdp/o.wilck;;1320
+lat:      
+lon:      
+
+[GREEK]
+r.1    διαγέγρα(φε) δι̣ὰ̣ ̣ ̣ ̣ ̣ τραπ(έζης)
+r.2    ὑπ(ὲρ) λ̣αο(γραφίας) λβ (ἔτους) Φρ(ουρίου) Ψενωσῖρ(ις)
+r.3    Ἀπολ(λῶτος) (δραχμὰς) ιϛ. (ἔτους) λβ Καίσαρος
+r.4    … Πα̣ῦ̣νι ια.
+
+[TRANSLATION]
+1     There has paid, through the bank of ....,
+2     for poll-tax of year 32, of the Phrourion (fort): Psenosiris
+3     (son of) Apollos, 16 drachmas. Year 32 of Caesar,
+4     ... Pauni 11.

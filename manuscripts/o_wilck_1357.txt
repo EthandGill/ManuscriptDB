@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1357
+label:    O.Wilck. 1357
+name:     Bank-payment docket (porters'-tax)
+genre:    receipts
+date:     20. Dec 138 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    London, British Library O 25893
+content:  A bank-payment of 4180 dr. for the porters(?), year 33, at the Diospolis Magna bank under Hermophilos.
+tm:       43883
+source:   https://papyri.info/ddbdp/o.wilck;;1357
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους λγ Ἁθὺρ κε
+r.2    τέ(τακται) ἐπὶ τὴν ἐν Διὸς πό(λει) τῆι μ(εγάληι) τρά(πεζαν),
+r.3    ἐφʼ ἧς Ἑρμόφ(ιλος(?)), πορ(ευτῶν) Ἀσκληπιάδ ̣ ̣
+r.4    ̣ ̣ ̣ ̣λων τετρακισχιλίας
+r.5    ἑκατὸν π (γίνονται) Δρπ
+r.6    Ἑρμ(ό)φ(ιλος) τρ(απεζίτης).
+r.7    Δωι.
+
+[TRANSLATION]
+1     Year 33, Hathyr 25:
+2     there has been paid to the bank in Diospolis Magna,
+3     of which Hermophilos(?) (is in charge), (for) the porters(?), Asklepiad...
+4     ....lon, four thousand
+5     one hundred 80, total 4180.
+6     Hermophilos, banker.
+7     ....

@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1348
+label:    O.Wilck. 1348
+name:     Bank-payment docket (fishermen's quarter-tax)
+genre:    receipts
+date:     18. Jul 96 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25641
+content:  Horos pays 1660 dr. for the quarter-tax on fishermen of year 18 at the bank.
+tm:       43640
+source:   https://papyri.info/ddbdp/o.wilck;;1348
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) ιη Ἐπεὶφ ϛ τέ(τακται) (τετάρτης)
+r.2    ἁλιείων ιη (ἔτους) Ὧρος
+r.3    χα(λκοῦ) Αχξ. Κέφα(λος) τρα(πεζίτης).
+r.4    Β.
+
+[TRANSLATION]
+1     Year 18, Epeiph 6: there has been paid, (for the) quarter-tax
+2     on fishermen of year 18: Horos,
+3     of copper, 1660. Kephalos, banker.
+4     2(?).

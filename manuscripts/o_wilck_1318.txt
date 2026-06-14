@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1318
+label:    O.Wilck. 1318
+name:     Bank-payment docket
+genre:    receipts
+date:     11. Apr 8 v.Chr. (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities Ae.S. 132
+content:  A bank-payment of year 22 of Caesar through the bank of Kephalos.
+tm:       24612
+source:   https://papyri.info/ddbdp/o.wilck;;1318
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [διαγέ]γρα(φε) ἐπὶ τὴν Κεφά(λου) τράπ(εζαν)
+r.2    [ ̣ ̣ ̣ ̣] ̣πτ̣ο̣η̣ ̣ ̣ ̣ τοῦ κβ (ἔτους)
+r.3    [(δραχμὰς) (?) ̣ ̣ (ἔτους) κβ Κ]αίσαρος Φαρμ(οῦθι) ιϛ.
+
+[TRANSLATION]
+1     [There has p]aid, to the bank of Kephalos,
+2     [NN] ...ptoe..., of year 22,
+3     [.. drachmas. Year 22 of C]aesar, Pharmouthi 16.

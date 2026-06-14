@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1324
+label:    O.Wilck. 1324
+name:     Poll- and bath-tax receipt (Nero)
+genre:    receipts
+date:     3. Mar 56
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities Ae.S. 75
+content:  Amenothes son of Petechonsis pays 10 dr. poll-tax and 1 dr. bath-tax of year 2 of Nero.
+tm:       24642
+source:   https://papyri.info/ddbdp/o.wilck;;1324
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [διαγέγρα(φε)] Ἀμενώθη(ς) Πετεχώ(νσιος)
+r.2    [ὑπ(ὲρ)] λαο(γραφίας) β (ἔτους) (δραχμὰς) δέκα βα(λανευτικοῦ) (δραχμὴν) α (ὀβολὸν) α𐅵,
+r.3    [(γίνονται)] (δραχμαὶ) ια (ὀβολὸς) α𐅵 καὶ το̣ύ(των) προ(σδιαγραφόμενα). (ἔτους) β
+r.4    Νέρωνος Κλαυδίου Κ̣α̣ί̣σ̣α̣ρ̣ο̣ς̣
+r.5    Σεβαστοῦ Γερμανικοῦ
+r.6    Αὐτοκράτορος Φαμενὼ(θ) ζ̣.
+r.7    Κέφαλ(ος) σεση(μείωμαι).
+
+[TRANSLATION]
+1     [There has paid,] Amenothes (son of) Petechonsis,
+2     [for] poll-tax of year 2, ten drachmas; (for) bath-tax, 1 dr. 1½ obols,
+3     [total] drachmas 11, 1½ obols, and surcharges on these. Year 2
+4     of Nero Claudius Caesar
+5     Augustus Germanicus
+6     Imperator, Phamenoth 7.
+7     I, Kephalos, have signed.

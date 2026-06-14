@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1343
+label:    O.Wilck. 1343
+name:     Grain-measure receipt (Ptolemaic, temple)
+genre:    receipts
+date:     4. Jun 110 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, University College, Petrie Museum UC 32060
+content:  Konon son of Doros measures in 15 art. of wheat, year 7.
+tm:       43375
+source:   https://papyri.info/ddbdp/o.wilck;;1343
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἱε(ρο)ῦ ϛ.
+r.2    ἔτους ζ Παχὼν ιη μ(εμέτρηκεν) ζ (ἔτους)
+r.3    Κόνων Δώρου (πυροῦ) δέκα-
+r.4    πέντε (γίνονται) (πυροῦ) ιε.
+
+[TRANSLATION]
+1     Of the temple, 1/6(?).
+2     Year 7, Pachon 18: there has measured in, of year 7,
+3     Konon (son of) Doros, of wheat fif-
+4     teen, total wheat 15.

@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1340
+label:    O.Wilck. 1340
+name:     Salt-tax receipt (bank)
+genre:    receipts
+date:     6. Jul 255 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Museum EA 5846
+content:  Panas son of Phorchonsis pays 30 dr. 3 ob. salt-tax through Polianthos, year 31.
+tm:       50793
+source:   https://papyri.info/ddbdp/o.wilck;;1340
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) λα Παῦνι ιδ πέπτωκεν
+r.2    ἁλικῆς διὰ Πολιάνθου Καρ-
+r.3    ν̣ο̣ς̣ Πανᾶς Φορχώνσιος
+r.4    (δραχμὰς) λ̣(τριώβολον).
+
+[TRANSLATION]
+1     Year 31, Pauni 14: there has been paid,
+2     of the salt-tax, through Polianthos (son of) Kar-
+3     nos: Panas (son of) Phorchonsis,
+4     30 drachmas, 3 obols.

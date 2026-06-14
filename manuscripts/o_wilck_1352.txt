@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1352
+label:    O.Wilck. 1352
+name:     Chaff-levy receipt (Ptolemaic)
+genre:    receipts
+date:     29. May - 27. Jun 154 v.Chr. (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25623
+content:  Psemminis delivers 90 loads of chaff for the due chaff-levy, year 27.
+tm:       77694
+source:   https://papyri.info/ddbdp/o.wilck;;1352
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους κζ Παχὼν παρα(δέδωκεν)
+r.2    εἰς τὸ καθῆ(κον) ἀχυ(ρικὸν) τέλος
+r.3    Ψεμμῖνις ̣ ̣ενου( ) ἀγω(γὰς)
+r.4    ἐνενήκοντα (γίνονται) ϙ.
+r.5    Εἰρηναῖος.
+
+[TRANSLATION]
+1     Year 27, Pachon: there has delivered,
+2     for the due chaff-levy,
+3     Psemminis (son of) ..enou( ), loads
+4     ninety, total 90.
+5     Eirenaios.

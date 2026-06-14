@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1338
+label:    O.Wilck. 1338
+name:     Bank-payment docket (royal vineyard-tax)
+genre:    receipts
+date:     6. Aug 226 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25527
+content:  Philokles son of Nikon pays 50 silver dr. vineyard-tax to the king, year 22, at the Diospolis Magna bank.
+tm:       43553
+source:   https://papyri.info/ddbdp/o.wilck;;1338
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) κβ Παῦνι κβ πέπτωκεν
+r.2    ἐπὶ τὴν ἐν Διὸς πόλει τῆι μεγάληι
+r.3    τρά(πεζαν), ἐφʼ ἧς Διόδοτος, βασιλεῖ εἰς τὸ κβ (ἔτος)
+r.4    ἀμπε̣λ̣ικοῦ Φιλοκλῆς Νίκωνος
+r.5    ἀργ(υρίου) (δραχμὰς) πεντήκοντα (γίνονται) ν. ☓☓☓☓☓ Ἀρίστων γρ(αμματεύς).
+
+[TRANSLATION]
+1     Year 22, Pauni 22: there has been paid
+2     to the bank in Diospolis Magna,
+3     of which Diodotos (is in charge), to the king, for year 22,
+4     of the vineyard-tax: Philokles (son of) Nikon,
+5     fifty silver drachmas, total 50. ☓☓☓☓☓ Ariston, clerk.

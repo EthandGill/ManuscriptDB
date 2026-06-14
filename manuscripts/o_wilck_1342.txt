@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1342
+label:    O.Wilck. 1342
+name:     Grain-measure receipt (Ptolemaic)
+genre:    receipts
+date:     6. Sep 111 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25868
+content:  Apollonios son of Praxos measures in 51½ art. of wheat for the locality, year 6.
+tm:       77692
+source:   https://papyri.info/ddbdp/o.wilck;;1342
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους ϛ Μεσορὴ κβ. μ(εμέτρηκεν) ϛ (ἔτους) ὑπὲρ τόπ(ου)
+r.2    Ἀπολλώνιος Πράξ̣ο̣υ (πυροῦ) πεντή-
+r.3    κοντα μίαν ἥμισυ (γίνονται) (πυροῦ) να𐅵.
+
+[TRANSLATION]
+1     Year 6, Mesore 22: there has measured in, of year 6, for the locality,
+2     Apollonios (son of) Praxos, of wheat fifty-
+3     one and a half, total wheat 51½.

@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 1350
+label:    O.Wilck. 1350
+name:     Grain-measure receipt (Diospolis Magna)
+genre:    receipts
+date:     7. Jul 156 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    London, British Library O 25739
+content:  Theochrestos son of Salaminios measures in 30 art. of wheat for the locality, year 25; countersigned.
+tm:       77693
+source:   https://papyri.info/ddbdp/o.wilck;;1350
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους κε Παῦνι ι με(μέτρηκεν) εἰ[ς]
+r.2    τὸν ἐν Διὸς πό(λει) τῆι με(γάληι) θη(σαυρὸν) ὑπὲρ
+r.3    τοῦ τόπου κδ (ἔτους) Θεόχρηστος
+r.4    Σαλαμίνιος ̣ ̣ ̣ ̣ τοῦ πυροῦ
+r.5    τρίακοντα (γίνονται) (πυροῦ) λ.
+r.6    Ἀμβρύων.
+r.7    (hand 2) Πτολεμαῖος με(μέτρηαι) (πυρου) τριάκοντα (γίνονται) (πυροῦ) λ.
+r.8    (hand 3) Ἀπολλώνιος με(μέτρημαι) (πυροῦ) τριάκοντα (γίνονται) (πυροῦ) λ.
+
+[TRANSLATION]
+1     Year 25, Pauni 10: there has measured in[to]
+2     the (granary) in Diospolis Magna, the granary, for
+3     the locality of year 24: Theochrestos
+4     (son of) Salaminios ...., of wheat
+5     thirty, total wheat 30.
+6     Ambryon.
+7     (2nd hand) Ptolemaios: I have received by measure, of wheat thirty, total wheat 30.
+8     (3rd hand) Apollonios: I have received by measure, of wheat thirty, total wheat 30.

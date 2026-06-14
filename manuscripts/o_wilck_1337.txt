@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1337
+label:    O.Wilck. 1337
+name:     Salt-tax receipt (bank)
+genre:    receipts
+date:     17. Mar 256 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Museum EA 5838
+content:  Paas son of Patoes pays 1 dr. 4½ ob. salt-tax through Kleitandros, year 22.
+tm:       50792
+source:   https://papyri.info/ddbdp/o.wilck;;1337
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) κβ Τῦβι κγ
+r.2    πέπτωκεν ἁλικῆς
+r.3    διὰ Κλειτάνδρου
+r.4    Παᾶς Πατοη̣ (δραχμὴν) α (ὀβολοὺς) δ𐅵.
+
+[TRANSLATION]
+1     Year 22, Tybi 23:
+2     there has fallen (been paid), of the salt-tax,
+3     through Kleitandros:
+4     Paas (son of) Patoes(?): 1 drachma, 4½ obols.

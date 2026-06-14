@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1351
+label:    O.Wilck. 1351
+name:     Bank-payment docket (ferry-tax)
+genre:    receipts
+date:     7. Febr. 154 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    London, British Library O 25957
+content:  Sambathaios pays the ferry-boat tax (867 dr. exchange) of year 27 at the Diospolis Magna bank.
+tm:       43520
+source:   https://papyri.info/ddbdp/o.wilck;;1351
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους κζ Τῦβι ι τ(έτακται) ἐπὶ τὴν ἐν Δι[ὸς πόλει]
+r.2    τῆι με(γάληι) τρ(άπεζαν), ἐφʼ ἧς Πτολεμαῖος, πορθμίδων
+r.3    κζ (ἔτους) Σαμβα(θαῖος) οὗ ἀ(λλαγὴ) ὀκτακοσίας ἑξήκοντα
+r.4    ἑπτὰ (γίνονται) οὗ ἀ(λλαγὴ) ωξζ. Π(τολεμαῖος) τρα(πεζίτης) .
+r.5    Α.
+
+[TRANSLATION]
+1     Year 27, Tybi 10: there has been paid to the bank in Di[ospolis]
+2     Magna, of which Ptolemaios (is in charge), (for) ferry-boats
+3     of year 27: Sambathaios, whose exchange (is) eight hundred sixty
+4     seven, total whose exchange 867. Ptolemaios, banker.
+5     1(?).

@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1327
+label:    O.Wilck. 1327
+name:     Date-grove tax receipt (Vespasian)
+genre:    receipts
+date:     30. Oct 78
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities Ae.S. 60
+content:  Kametis son of Pachrates pays 5 dr. for the date-groves of the Upper toparchy of year 10, Vespasian.
+tm:       24652
+source:   https://papyri.info/ddbdp/o.wilck;;1327
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    διαγέγρα(φε) Καμῆ(τις) Παχράτο(υ) ὑπ(ὲρ) φο(ινικώνων) ἄνω (τοπαρχίας) ι (ἔτους)
+r.2    (δραχμὰς) ε κ(αὶ) προ(σδιαγραφόμενα). (ἔτους) ια Οὐεσπασιανοῦ τοῦ κυρίου
+r.3    Φαῶ(φι) λγ . Ἀπίω(ν) σεση(μείωμαι).
+
+[TRANSLATION]
+1     There has paid, Kametis (son of) Pachrates, for the date-groves of the Upper toparchy of year 10,
+2     5 drachmas, and surcharges. Year 11 of Vespasian the lord,
+3     Phaophi 33(sic). I, Apion, have signed.

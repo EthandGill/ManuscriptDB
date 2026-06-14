@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1336
+label:    O.Wilck. 1336
+name:     Barley-measure receipt (sitologos)
+genre:    receipts
+date:     2. Jul 232 v.Chr.
+language: Greek (Koiné)
+found:    Theben (?)
+held:     (see shelf)
+shelf:    London, British Museum EA 12640
+content:  Sopatros son of Agathokles delivers 25⅓ art. of barley for the district Around Thebes, year 15.
+tm:       50791
+source:   https://papyri.info/ddbdp/o.wilck;;1336
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) ιε Παχὼν ιϛ.
+r.2    Σώπατρος Ἀγαθοκλέους
+r.3    ὑπὲρ τοῦ Π[ε]ρὶ Θ̣ή(βας) κριθ(ῆς) κεγ´.
+r.4    Ἀπολλώ(νιος) σιτ(ολόγος).
+
+[TRANSLATION]
+1     Year 15, Pachon 16.
+2     Sopatros (son of) Agathokles,
+3     for the (district) Around Thebes, of barley, 25⅓.
+4     Apollonios, grain-officer (sitologos).

@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1325
+label:    O.Wilck. 1325
+name:     Grain-price tax receipt (Nero)
+genre:    receipts
+date:     3. Sep 67
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities Ae.S. 93
+content:  Receipt for 3 dr. 2 ob. for the price of wheat of year 11, of the administration, Nero.
+tm:       24647
+source:   https://papyri.info/ddbdp/o.wilck;;1325
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    δε ̣ ̣ ̣ ̣
+r.2    ὑπ(ὲρ) τιμ(ῆς) (πυροῦ) κθ ια (ἔτους) διοική(σεως)
+r.3    ῥυπ(αρὰς) τρῖς (διώβολον), (γίνονται) γ(διώβολον).
+r.4    (ἔτους) ιδ Νέρωνος τοῦ κυρίου μη(νὶ) Σεβαστῷ ε. Π ̣( ) σεση(μείωμαι).
+
+[TRANSLATION]
+1     De.... ,
+2     for the price of wheat, 29(?), of year 11, of the administration,
+3     base three (dr.), 2 obols, total 3 dr. 2 obols.
+4     Year 14 of Nero the lord, in the month Sebastos 5. I, P( ), have signed.

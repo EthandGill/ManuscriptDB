@@ -1,0 +1,37 @@
+[META]
+id:       O.Wilck. 1358
+label:    O.Wilck. 1358
+name:     Grain receipt (entry-fee)
+genre:    receipts
+date:     11. Jan 130 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25910
+content:  Herakleides and his partner-brothers acknowledge to Bion 5 art. of wheat from the entry-fee (embatikon), year 40.
+tm:       44293
+source:   https://papyri.info/ddbdp/o.wilck;;1358
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἡρακλείδης καὶ
+r.2    οἱ μέτοχοι ἀδελφοὶ
+r.3    Βίωνι χαίρειν.
+r.4    ἔχομεν παρὰ
+r.5    σοῦ πυροῦ ἀρ-
+r.6    τάβας πέντε
+r.7    (γίνονται) εἀπὸ τοῦ ἐμ-
+r.8    βατι̣χοῦ
+r.9    (ἔτους) μ Χοίακ ιθ.
+
+[TRANSLATION]
+1     Herakleides and
+2     (his) partners, the brothers,
+3     to Bion, greeting.
+4     We have from
+5     you of wheat, ar-
+6     tabas five
+7     total 5, from the en-
+8     try-fee (embatikon).
+9     Year 40, Choiak 19.

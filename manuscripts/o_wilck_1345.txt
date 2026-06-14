@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1345
+label:    O.Wilck. 1345
+name:     Bank-payment docket (apomoira)
+genre:    receipts
+date:     20. Nov 99 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    London, British Library O 25606
+content:  Herieus son of Imouthes pays 1 talent 1600 dr. apomoira of year 16 at the Diospolis Magna bank.
+tm:       43455
+source:   https://papyri.info/ddbdp/o.wilck;;1345
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους Ἁθὺρ ε τέ(τακται) ἐπὶ τὴν ἐν Δι(ὸς) πό(λει)
+r.2    τῇ μεγ(άληι) τρά(πεζαν) ἀπομοί(ρας) ιϛ (ἔτους) Ἑριεὺς Ἰμούθου
+r.3    χα(λκοῦ) (τάλαντον) ἓν χιλίας ἑξακο(σίας) (γίνονται) (τάλαντον) αΑχ
+r.4    Κέφα(λος)
+r.5    (τάλαντον) αΒυ.
+
+[TRANSLATION]
+1     Year .., Hathyr 5: there has been paid to the bank in Diospolis
+2     Magna, (for) the apomoira of year 16: Herieus (son of) Imouthes,
+3     of copper, one talent one thousand six hundred, total 1 talent 1600;
+4     Kephalos.
+5     1 talent 2400(?).

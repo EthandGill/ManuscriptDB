@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1335
+label:    O.Wilck. 1335
+name:     Grain-price tax payment (Ptolemaic)
+genre:    receipts
+date:     12. Jul 273 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25530
+content:  Aristoteles son of Paoasaetes pays 60 dr. toward the tax of Pharmouthi, year 13.
+tm:       77690
+source:   https://papyri.info/ddbdp/o.wilck;;1335
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) ιγ Παχανες ιϛ ἐχρη(μάτισεν)
+r.2    Ἀριστοτέλης Παο̣ασαή-
+r.3    τ̣ο̣υ̣ εἰς τὸ τέλος τοῦ Φαρμο-
+r.4    ῦτι (δραχμὰς) ξ.
+
+[TRANSLATION]
+1     Year 13, Pachons(?) 16: there has paid,
+2     Aristoteles (son of) Paoasae-
+3     tes, toward the tax of Pharmou-
+4     thi, 60 drachmas.

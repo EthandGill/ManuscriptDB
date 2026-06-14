@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1332
+label:    O.Wilck. 1332
+name:     Weavers'-tax receipt
+genre:    receipts
+date:     196
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities Ae.S. 101
+content:  Nepheros and partners, weavers'-tax overseers, receive 6 dr. (Thoth–Hathyr) of year 5 from Bessarion.
+tm:       24715
+source:   https://papyri.info/ddbdp/o.wilck;;1332
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Νεφερῶς πρ(εσβύτερος) Φθουμί(νιος) καὶ μ(έτοχοι)
+r.2    ἐπιτη(ρηταὶ) τέλ(ους) γερδ(ίων) ὀνό(ματος) Βησ-
+r.3    σαρίων πρ(εσβυτέρου) ἔσχο(μεν)
+r.4    παρὰ σο(ῦ) τὸ τέλ(ος) ὑπ(ὲρ) μη(νῶν)
+r.5    Θὼθ Φαῶφι Ἁθὺρ
+r.6    δραχμὰς ἕκξ , (γίνονται) (δραχμαὶ) ϛ. (ἔτους) ε
+
+[TRANSLATION]
+1     Nepheros the elder (son of) Phthouminis and partners,
+2     overseers of the weavers' tax, in the name of Bes-
+3     sarion the elder. We have received
+4     from you the tax for the months
+5     Thoth, Phaophi, Hathyr,
+6     six drachmas, total drachmas 6. Year 5.

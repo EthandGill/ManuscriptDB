@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1315
+label:    O.Wilck. 1315
+name:     Bank-payment docket (apomoira)
+genre:    receipts
+date:     16. Oct 107 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities Ae.S. 69
+content:  Thermouthis son of Mekphres pays 2800 dr. apomoira of year 11 at the Diospolis Magna bank.
+tm:       43479
+source:   https://papyri.info/ddbdp/o.wilck;;1315
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους ια Θὼ(θ) κη τ(έτακται) ἐπὶ τὴν ἐν
+r.2    Διὸς πό(λει) τῆι μεγ(άλῃ) τρά(πεζαν) ἀπο(μοίρας) ια (ἔτους)
+r.3    Θερμοῦ(θις) Μεκφρέους δισχιλίας
+r.4    ὀκτακο(σίας), (γίνονται) Βω. Ἰ̣μ̣ο̣ύ̣(θης) τρα(πεζίτης).
+r.5    Γπ
+
+[TRANSLATION]
+1     Year 11, Thoth 28: there has been paid to the bank in
+2     Diospolis Magna, (for) the apomoira of year 11:
+3     Thermouthis (son of) Mekphres, two thousand
+4     eight hundred, total 2800. Imouthes, banker.
+5     3080(?).

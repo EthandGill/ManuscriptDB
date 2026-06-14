@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1316
+label:    O.Wilck. 1316
+name:     Orchard-tax quittance
+genre:    receipts
+date:     11. Sep 122 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities Ae.S. 77
+content:  NN acknowledges to Theogenes 240 copper dr. for the fruit-tree plot-tax, year 48.
+tm:       43478
+source:   https://papyri.info/ddbdp/o.wilck;;1316
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [- …10 -] Θεογένει χαί(ρειν)·
+r.2    [ἀπέχω πα]ρὰ σοῦ τὸ γεινόμενον
+r.3    [τέ]λος τόπ(ου) ἀκροδρύ(ων) σου
+r.4    χα(λκοῦ) (δραχμὰς) σμ, (γίνονται) (δραχμαὶ) σμ.
+r.5    (ἔτους) μη Μεσορὴ κδ.
+
+[TRANSLATION]
+1     [NN] to Theogenes, greeting:
+2     [I have] from you the accruing
+3     [ta]x on your plot of fruit-trees,
+4     of copper, 240 drachmas, total 240 drachmas.
+5     Year 48, Mesore 24.

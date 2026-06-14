@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1334
+label:    O.Wilck. 1334
+name:     Crown-tax receipt
+genre:    receipts
+date:     27. May 220 (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities Ae.S. 124
+content:  Ammonios son of Horos pays 4 dr. for the crown-money of year 3.
+tm:       24723
+source:   https://papyri.info/ddbdp/o.wilck;;1334
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παῦ(νι) β τοῦ γ (ἔτους) ὀνό(ματος) Ἀμμω(νίου)
+r.2    Ὥρο(υ) νεω(τέρου) Ψεναμού(νιος) διὰ Ψενα(μούνιος)
+r.3    ὑπ(ὲρ) στεφ(ανικοῦ) χρή(ματος) τοῦ αὐτοῦ γ (ἔτους)
+r.4    δραχ(μὰς) τέσσαρες , (γίνονται) (δραχμαὶ) δ. Αὐ(ρήλιος) Κρο( ) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Pauni 2 of year 3, in the name of Ammonios
+2     (son of) Horos the younger (son of) Psenamounis, through Psenamounis,
+3     for the crown-money of the same year 3,
+4     four drachmas, total drachmas 4. I, Aurelius Kro( ), have signed.

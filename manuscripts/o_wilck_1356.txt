@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1356
+label:    O.Wilck. 1356
+name:     Grain-measure receipt (assessment)
+genre:    receipts
+date:     31. Oct 138 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, University College, Petrie Museum UC 32490
+content:  Phatres son of Heras measures in 8 1/12 art. of wheat for the year-32 assessment, year 33.
+tm:       77696
+source:   https://papyri.info/ddbdp/o.wilck;;1356
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους λγ Φαῶφι ε με(μέτρηκεν) εἰς̣ τ̣ὴ̣ν ἐπιγρ(αφὴν)
+r.2    τοῦ λβ (ἔτους) Φατρῆς Ἡρᾶτος π̣υ̣ροῦ (ἀρτάβας) η(δωδέκατον)
+r.3    (γίνονται) (πυροῦ) (ἀρτάβαι) η(δωδέκατον)
+
+[TRANSLATION]
+1     Year 33, Phaophi 5: there has measured in, for the assessment
+2     of year 32: Phatres (son of) Heras, of wheat 8 1/12 artabas,
+3     total wheat, artabas 8 1/12.

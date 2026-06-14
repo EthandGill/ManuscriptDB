@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1333
+label:    O.Wilck. 1333
+name:     Market-tax receipt
+genre:    receipts
+date:     23. May 197
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Leiden, National Museum of Antiquities Ae.S. 58
+content:  Besarion the elder pays 40 dr. for the market-tax (agoranomia) of year 5.
+tm:       24716
+source:   https://papyri.info/ddbdp/o.wilck;;1333
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παχὼ(ν) κη τοῦ ε (ἔτους) ὀνό(ματος) Βησαρί(ωνος)
+r.2    πρ(εσβυτέρου) Ὥρο(υ) Διογέν(ους) ὑπ(ὲρ) τέλ(ους)
+r.3    ἀγο(ρανομίας) ε (ἔτους) (δραχμὰς) τεσσαράκοντα, (γίνονται) (δραχμαὶ) μ. σεση(μείωμαι).
+
+[TRANSLATION]
+1     Pachon 28 of year 5, in the name of Besarion
+2     the elder (son of) Horos (son of) Diogenes, for the market-tax (agoranomia)
+3     of year 5, forty drachmas, total drachmas 40. I have signed.
