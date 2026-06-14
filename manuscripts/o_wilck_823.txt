@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 823
+label:    O.Wilck. 823
+name:     Barley-measure receipt (metropolis granary)
+genre:    receipts
+date:     146 - 147
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4216
+content:  Eponychos son of Tauron measures in ⅓ art. of barley for Charax, year 10 of Hadrian.
+tm:       77299
+source:   https://papyri.info/ddbdp/o.wilck;;823
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γενή(ματος) ι (ἔτους)
+r.2    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.3    [ ̣ ̣ ̣ ̣ ̣ ̣] ὑπ(ὲρ) Χ(άρακος) ὀνό(ματος) Ἐπωνύχ(ου)
+r.4    [ ̣ ̣ ̣ ̣ Τ]αύρω(νος) κριθ(ῆς) τρίτον
+r.5    5[(γίνεται) κ]ρ(ιθῆς) γ´. Καρο( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 10
+2     of Hadrian Caesar the lord,
+3     […], for Charax, in the name of Eponychos
+4     (son of) [..] Tauron, of barley a third,
+5     [total b]arley ⅓. I, Karo( ), have signed.

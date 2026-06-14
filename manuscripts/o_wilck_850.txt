@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 850
+label:    O.Wilck. 850
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     2. Jun 134
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4850
+content:  Petenobthois (son of) Psenamounis measures in 1/24 art. of wheat for Charax, year 18 of Hadrian.
+tm:       77326
+source:   https://papyri.info/ddbdp/o.wilck;;850
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γενή(ματος)
+r.2    ιη (ἔτους) Ἁδριανοῦ τοῦ κυρίου
+r.3    Παῦνι η ὑπ(ὲρ) Χά(ρακος) ὀνό(ματος)
+r.4    Πετενοβδῶις
+r.5    Ψ̣[ε]ν[αμούν]ιο(ς(?)) (πυροῦ) τετρακ(αιεικοστὸν)
+r.6    (γίνεται) (πυροῦ) κδ´. Γάι(ος) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce
+2     of year 18 of Hadrian the lord,
+3     Pauni 8, for Charax, in the name
+4     of Petenobthois
+5     (son of) Ps[en]amounis(?), of wheat a twenty-fourth,
+6     total wheat 1/24. I, Gaios, have signed.

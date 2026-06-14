@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 828
+label:    O.Wilck. 828
+name:     Grain-measure receipt (villages granary)
+genre:    receipts
+date:     15. Jul 128
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4069
+content:  Sarapo( ) measures in ½ 1/24 art. of wheat, year 12 of Hadrian.
+tm:       77304
+source:   https://papyri.info/ddbdp/o.wilck;;828
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) εἰς θησ(αυρὸν) κω(μῶν) γενή(ματος) ιβ (ἔτους) Ἁδριανοῦ
+r.2    τοῦ κυρίου Ἐπεὶφ κα [ὀνό(ματος)] Σαραπο( )
+r.3    (πυροῦ) ἥμισυ τετρακ(αιεικοστὸν) (γίνεται) (πυροῦ) 𐅵κδ´.
+r.4    ̣ ̣ ̣( ) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Measure into the granary of the villages, of the produce of year 12 of Hadrian
+2     the lord, Epeiph 21, [in the name of] Sarapo( ),
+3     of wheat a half and a twenty-fourth, total wheat ½ 1/24.
+4     I, …( ), have signed.

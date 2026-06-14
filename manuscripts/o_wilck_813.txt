@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 813
+label:    O.Wilck. 813
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     23. Jun 120
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8727
+content:  Panisna( ) son of Horos measures in 3½ 1/24 art. of wheat, year 4 of Hadrian.
+tm:       77291
+source:   https://papyri.info/ddbdp/o.wilck;;813
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μητροπ(όλεως) γενή(ματος) δ (ἔτους)
+r.2    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.3    Παῦνι κθ ὀνόμ(ατος) Πανισνα( )
+r.4    Ὥρου Φθουμί(νιος) (πυροῦ) τρεῖς ἥμι-
+r.5    συ τετρακ(αιεικοστὸν) (γίνονται) (πυροῦ) γ𐅵κδ´. ̣ σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 4
+2     of Hadrian Caesar the lord,
+3     Pauni 29, in the name of Panisna( )
+4     (son of) Horos (son of) Phthouminis, of wheat three and a half
+5     and a twenty-fourth, total wheat 3½ 1/24. I, …, have signed.

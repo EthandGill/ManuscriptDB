@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 845
+label:    O.Wilck. 845
+name:     Bath-tax receipt
+genre:    receipts
+date:     8. Apr 133
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4487
+content:  Petechespochrates and partners, via Phaminis, receive in full the bath-tax of year 17 of Hadrian from Amenothes.
+tm:       77321
+source:   https://papyri.info/ddbdp/o.wilck;;845
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πετεχεσπ(οχράτης) κ(αὶ μέτο)χ(οι) τελ(ῶναι) θησ(αυροῦ)
+r.2    διὰ Φαμίνιο(ς) καὶ (μετόχων) ἐ(πι)τ(ηρητῶν) Ἀμενώθῃ
+r.3    Ἁρβήχιος χα(ίρειν). ἀπέχο(μεν) τὸ
+r.4    βαλ(ανικὸν) τοῦ ιζ (ἔτους) Ἁδριανοῦ τοῦ
+r.5    κυρίου Φαρμ(οῦθι) ιγ.
+
+[TRANSLATION]
+1     Petechespochrates and partners, tax-farmers of the granary,
+2     through Phaminis and partners, overseers, to Amenothes
+3     (son of) Harbechis, greeting. We have received in full the
+4     bath-tax of year 17 of Hadrian the
+5     lord, Pharmouthi 13.

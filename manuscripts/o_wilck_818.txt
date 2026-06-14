@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 818
+label:    O.Wilck. 818
+name:     Bath-tax receipt
+genre:    receipts
+date:     19. Apr 124
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4556
+content:  Pamonthes and partners (temple granary) receive the bath-tax of year 8 of Hadrian from Pamonthes.
+tm:       77296
+source:   https://papyri.info/ddbdp/o.wilck;;818
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παμώνθ(ης) καὶ μ(έτοχοι) τελ(ῶναι) θησ(αυροῦ)
+r.2    ἱε(ρῶν) Παμώνθ(ῃ) Ἁρπήχιο(ς). ἔσχ(ομεν)
+r.3    παρὰ σο(ῦ) ὑπὲρ βαλ(ανικοῦ) τοῦ η (ἔτους)
+r.4    Ἁδριανοῦ τοῦ κυρίου
+r.5    Φαρμ(οῦθι) κδ. Παμ(ώνθης) σεσ(ημείωμαι).
+
+[TRANSLATION]
+1     Pamonthes and partners, tax-farmers of the granary
+2     of the temples, to Pamonthes (son of) Harpechis. We have received
+3     from you for the bath-tax of year 8
+4     of Hadrian the lord,
+5     Pharmouthi 24. I, Pamonthes, have signed.

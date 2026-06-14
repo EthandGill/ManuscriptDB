@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 835
+label:    O.Wilck. 835
+name:     Bath-tax receipt
+genre:    receipts
+date:     26. Apr - 25. May 132
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4810
+content:  Ammonios son of Phaeris pays the bath-tax of year 16 of Hadrian (temple granary).
+tm:       77311
+source:   https://papyri.info/ddbdp/o.wilck;;835
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἱερῶ(ν) Ἀμμωνίωι Φαήρ(ιος).
+r.2    ἔσχ(ον) ὑπ(ὲρ) βαλ(ανικοῦ) τοῦ ιϛ (ἔτους)
+r.3    Ἁδριανοῦ Καίσαρος
+r.4    τοῦ κυρίου Παχώ(ν).
+r.5    (hand 2) Εἰρη(νίων) σεση(μείωμαι).
+
+[TRANSLATION]
+1     (of the granary) of the temples, to Ammonios (son of) Phaeris.
+2     I have received for the bath-tax of year 16
+3     of Hadrian Caesar
+4     the lord, Pachon.
+5     (2nd hand) I, Eirenion, have signed.

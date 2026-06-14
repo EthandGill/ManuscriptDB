@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 860
+label:    O.Wilck. 860
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     10. Jul 132 (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 129 \[ostracon\
+content:  Abos son of Petosiris measures in 2 1/6 art. of wheat for Charax, reign of Hadrian.
+tm:       77336
+source:   https://papyri.info/ddbdp/o.wilck;;860
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) εἰς θησ(αυρὸν) μη(τροπόλεως) γ[ενή(ματος) ̣ ̣ (ἔτους)]
+r.2    Ἁδριανοῦ Καίσαρος τοῦ [κυρίου]
+r.3    Ἐπ(ὶ)φ ιϛ ὀνό(ματος) Ἀβὼς Πετοσί(ριος)
+r.4    ὑπ(ὲρ) Χ(άρακος) (πυροῦ) δύο ἕκτον
+r.5    (γίνονται) (πυροῦ) βϛ´. Ὧρ(ος) σεση(μείωμαι) (πυροῦ)
+r.6    δύο ἕκτον .
+
+[TRANSLATION]
+1     Measure into the granary of the metropolis, of the pro[duce of year ..]
+2     of Hadrian Caesar the [lord],
+3     Epeiph 16, in the name of Abos (son of) Petosiris,
+4     for Charax, of wheat two and a sixth,
+5     total wheat 2 1/6. I, Horos, have signed, of wheat
+6     two and a sixth.

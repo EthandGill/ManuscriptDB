@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 852
+label:    O.Wilck. 852
+name:     Grain-measure receipt (metropolis granary, Markets)
+genre:    receipts
+date:     13. Jul 134
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4055
+content:  Thermouthis (child of) Pikos, via Esoueris, measures in ¼ art. of wheat for the Markets, year 18 of Hadrian.
+tm:       77328
+source:   https://papyri.info/ddbdp/o.wilck;;852
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    με(μέτρηται) εἰς θησ(αυρὸν) μητροπ(όλεως) γενή(ματος) ιη (ἔτους)
+r.2    Ἁδριανοῦ τοῦ κυρίου Ἐπ(ὶ)φ ιθ ὑπ(ὲρ)
+r.3    Ἀγο(ρῶν) ὀνό(ματος) Θερμούθιο(ς) Πικῶ(τος)
+r.4    Φανεκ( ) διὰ Ἐσουή(ριος) Πικῶ(τος)
+r.5    (πυροῦ) τέταρτον (γίνεται) (πυροῦ) δ´. Π̣α̣ ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     There has been measured into the granary of the metropolis, of the produce of year 18
+2     of Hadrian the lord, Epeiph 19, for
+3     the Markets, in the name of Thermouthis (child of) Pikos
+4     (son of) Phanek( ), through Esoueris (son of) Pikos,
+5     of wheat a quarter, total wheat ¼. I, Pa..( ), have signed.

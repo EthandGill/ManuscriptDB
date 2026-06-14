@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 819
+label:    O.Wilck. 819
+name:     Bath-tax receipt
+genre:    receipts
+date:     5. Mar 125
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4504
+content:  Petechespochrates and partners (granary) receive the bath-tax of year 9 of Hadrian from Herieus.
+tm:       50785
+source:   https://papyri.info/ddbdp/o.wilck;;819
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πετεχεσποχ(ράτης) καὶ μ(έτοχοι) τελ(ῶναι) θησ(αυροῦ)
+r.2    Ἑριεὺς Ἁρβήχ(ιος) Πουώριο(ς) μη(τρὸς)
+r.3    Σενεπω(νύ)χου χα(ίρειν). ἔσχομ(εν) π(αρὰ σ)οῦ ὑπ(ὲρ) βαλ(ανικοῦ)
+r.4    τοῦ θ (ἔτους) Ἁδριανοῦ τοῦ κυρίου
+r.5    Φαμ(ενὼθ) θ.
+
+[TRANSLATION]
+1     Petechespochrates and partners, tax-farmers of the granary,
+2     to Herieus (son of) Harbechis (son of) Pouoris, (whose) mother is
+3     Seneponychos, greeting. We have received from you for the bath-tax
+4     of year 9 of Hadrian the lord,
+5     Phamenoth 9.

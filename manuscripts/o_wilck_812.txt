@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 812
+label:    O.Wilck. 812
+name:     Bath-tax receipt
+genre:    receipts
+date:     13. May 119
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1183
+content:  Apol( ) and partners (temple granary) receive the bath-tax of year 3 of Hadrian from Phthoumonthes.
+tm:       77290
+source:   https://papyri.info/ddbdp/o.wilck;;812
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀπολ( ) καὶ μ(έτοχοι) ̣ ̣ ̣ ̣λ( ) θηα(αυροῦ) ἱερῶ(ν)
+r.2    Φθουμώνθῃ π(ρεσβυτέρῳ) Πετεμ(ών)θο(υ) Πι ̣ ̣ ̣
+r.3    χα(ίρειν). ἔσχομ(εν) παρὰ σο(ῦ) τὸ βαλ(ανικὸν)
+r.4    του γ (ἔτους) Ἁδριανοῦ τοῦ κυρίου
+r.5    Παχὼ(ν) ιη.
+r.6    Ἀμενώ(θης) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Apol( ) and partners, …( ) of the granary of the temples,
+2     to Phthoumonthes the elder (son of) Petemonthes, Pi…,
+3     greeting. We have received from you the bath-tax
+4     of year 3 of Hadrian the lord,
+5     Pachon 18.
+6     I, Amenothes, have signed.

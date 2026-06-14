@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 831
+label:    O.Wilck. 831
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     7. Oct 130
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4450
+content:  Senthotes (child of) Pikos measures in 1/8 art. of wheat for Charax, year 14 of Hadrian.
+tm:       77307
+source:   https://papyri.info/ddbdp/o.wilck;;831
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) εἰς θησ(αυρὸν) μη(τροπόλεως) γ(ενήματος) ιδ (ἔτους)
+r.2    Ἁδριανοῦ τοῦ κυρίου Φαῶφι
+r.3    ι τοῦ ιε (ἔτους) ὀνό(ματος) Σενθώτης
+r.4    Πικῶτο(ς) δ ̣ ̣ ̣ ὑπ(ὲρ) Χ(άρακος) (πυροῦ) ὄγδο(ον) (γίνεται) (πυροῦ) η´.
+
+[TRANSLATION]
+1     Measure into the granary of the metropolis, of the produce of year 14
+2     of Hadrian the lord, Phaophi
+3     10 of year 15, in the name of Senthotes
+4     (child of) Pikos, …, for Charax, of wheat an eighth, total wheat 1/8.

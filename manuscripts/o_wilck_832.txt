@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 832
+label:    O.Wilck. 832
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     14. Aug 131
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 757
+content:  Senmouthis (child of) Pikos measures in 1 1/12 art. of wheat for South and West, year 15 of Hadrian.
+tm:       77308
+source:   https://papyri.info/ddbdp/o.wilck;;832
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) εἰς θησ(αυρὸν) μη(τροπόλεως) γ(εν)ή(ματος) ιε (ἔτους) Ἁδριανοῦ
+r.2    Καίσαρος τοῦ κυρίου Μεσορὴ κα
+r.3    ὀνό(ματος) Σενμούθιο(ς) Πικῶτο(ς)
+r.4    Πετοβάσθιο(ς) ὑπ(ὲρ) Νό(του) κ(αὶ) Λ(ιβὸς) (πυροῦ)
+r.5    μίαν δωδέκατον
+r.6    (γίνεται) (πυροῦ) αιβ´. Πικ(ὼς) σ(εσ)η(μείωμαι) .
+
+[TRANSLATION]
+1     Measure into the granary of the metropolis, of the produce of year 15 of Hadrian
+2     Caesar the lord, Mesore 21,
+3     in the name of Senmouthis (child of) Pikos
+4     (son of) Petobasthis, for the South and West, of wheat
+5     one and a twelfth,
+6     total wheat 1 1/12. I, Pikos, have signed.

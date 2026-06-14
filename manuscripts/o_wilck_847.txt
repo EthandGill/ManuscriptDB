@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 847
+label:    O.Wilck. 847
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     13. Jul 133
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8574
+content:  Pachnoumis son of Paouphtheus measures in ½⅓ 1/12 art. of wheat, year 17 of Hadrian.
+tm:       77323
+source:   https://papyri.info/ddbdp/o.wilck;;847
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μητ[ρο(πόλεως) γενή(ματος)]
+r.2    ιζ (ἔτους) Ἁδριανοῦ τοῦ κ[υρίου]
+r.3    Ἐ(πὶ(?))φ ιθ ὑπ(ὲρ) Αποχ( ) ̣[ ̣ ̣ ̣ ̣]
+r.4    ὀνό(ματος) Παχνούμ(ιος) Πα[ουφθείο(υς)]
+r.5    (πυροῦ) ἥμισυ τρίτον δω[δέκατον]
+r.6    (γίνεται) (πυροῦ) 𐅵γ´ιβ´. Γάιο(ς) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metro[polis, of the produce]
+2     of year 17 of Hadrian the l[ord],
+3     Epeiph 19, for Apoch( ) …,
+4     in the name of Pachnoumis (son of) Pa[ouphtheus],
+5     of wheat a half and a third and a twe[lfth],
+6     total wheat ½⅓ 1/12. I, Gaios, have signed.

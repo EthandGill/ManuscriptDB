@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 853
+label:    O.Wilck. 853
+name:     Bath-tax receipt
+genre:    receipts
+date:     4. Febr. 135
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4456
+content:  Phaminis and partners (temple granary) receive in full the bath-tax of year 19 of Hadrian from Amenothes.
+tm:       77329
+source:   https://papyri.info/ddbdp/o.wilck;;853
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φαμῖνι(ς) κα(ὶ μέ)τοχ(οι) ἐπιτ(ηρηταὶ) τέλ(ους) θησ(αυροῦ) ἱερ(ῶν)
+r.2    Ἀμενώθ(ῃ) Ἁρβήχιος χα(ίρειν). ἀπέχο(μεν)
+r.3    τὸ βαλ(ανικὸν) τοῦ ιθ (ἔτους) Ἁδριανοῦ
+r.4    τοῦ κυρίου Μεχεὶρ ι.
+
+[TRANSLATION]
+1     Phaminis and partners, overseers of the tax of the granary of the temples,
+2     to Amenothes (son of) Harbechis, greeting. We have received in full
+3     the bath-tax of year 19 of Hadrian
+4     the lord, Mecheir 10.

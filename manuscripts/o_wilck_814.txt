@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 814
+label:    O.Wilck. 814
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     1. Jul 120
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 7252
+content:  Phatres son of Teos, via Petephi( ), measures in 4 art. of wheat, year 4 of Hadrian.
+tm:       77292
+source:   https://papyri.info/ddbdp/o.wilck;;814
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μεμ(έτρηται) θησ(αυροῦ) μητροπ(όλεως) γενή(ματος) δ (ἔτους) Ἁδριανοῦ
+r.2    τοῦ κυρίου Ἐπεὶφ ζ ὀνό(ματος) Φατρήο(υς)
+r.3    Τεῶτο(ς) (διὰ) Π̣ε̣τ̣ε̣φι( ) Πανκή̣τ̣ιος
+r.4    (πυροῦ) τέσσαρας (γίνονται) (πυροῦ) δ. ̣ σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     There has been measured, of the granary of the metropolis, of the produce of year 4 of Hadrian
+2     the lord, Epeiph 7, in the name of Phatres
+3     (son of) Teos, through Petephi( ) (son of) Panketis,
+4     of wheat four, total wheat 4. I, …, have signed.

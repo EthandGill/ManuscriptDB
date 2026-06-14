@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 829
+label:    O.Wilck. 829
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     24. Jun 129
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4062
+content:  Pikos son of Archis measures in 1 art. of wheat for Charax, year 13 of Hadrian.
+tm:       77305
+source:   https://papyri.info/ddbdp/o.wilck;;829
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) εἰς θησ(αυρὸν) μη(τροπόλεως) γ(εν)ή(ματος) ιγ (ἔτους) Ἁδριανοῦ τοῦ κυρίου
+r.2    Παῦνι λ, ὀνό(ματος) Πικῶτο(ς) Ἀρχίο(υ) Πε ̣ ̣φ ̣ος
+r.3    ὑπ(ὲρ) Χ(άρακος) (πυροῦ) μίαν (γίνεται) (πυροῦ) α. Πικ(ώς).
+
+[TRANSLATION]
+1     Measure into the granary of the metropolis, of the produce of year 13 of Hadrian the lord,
+2     Pauni 30, in the name of Pikos (son of) Archis (son of) Pe..ph..os,
+3     for Charax, of wheat one, total wheat 1. Pikos.

@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 811
+label:    O.Wilck. 811
+name:     Chaff receipt (metropolis)
+genre:    receipts
+date:     135 - 136
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 141 \[ostracon\
+content:  Pamonthes and partners, chaff-collectors of the metropolis, receive 1 load of chaff for the year-18 produce.
+tm:       77330
+source:   https://papyri.info/ddbdp/o.wilck;;811
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παμώνθης καὶ (μέτοχοι) ἀχυρ(άριοι) μητροπ(όλεως)
+r.2    Ἀβώτι Ψεν ̣ ̣ρ ̣ ̣( ) χ(αίρειν). ἔσχ(ομεν)
+r.3    παρὰ σο(ῦ) γόμ(ον) ἀχύρου ἓν
+r.4    (γίνεται) γό(μον) α ὑπ(ὲρ) γενή(ματος) ιη (ἔτους). (ἔτους) κ
+r.5    5[Ἁδρι]ανοῦ τοῦ κυρίου.
+
+[TRANSLATION]
+1     Pamonthes and partners, chaff-collectors of the metropolis,
+2     to Abos (son of) Psen..r..( ), greeting. We have received
+3     from you one load of chaff,
+4     total 1 load, for the produce of year 18. Year 20
+5     of [Hadr]ian the lord.

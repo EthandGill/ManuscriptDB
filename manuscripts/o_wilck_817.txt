@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 817
+label:    O.Wilck. 817
+name:     Grain-measure receipt (administration granary)
+genre:    receipts
+date:     27. Sep 123
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4602
+content:  Thaesis and Senerieus measure in small amounts of wheat for the dioikesis, year 8 of Hadrian.
+tm:       77295
+source:   https://papyri.info/ddbdp/o.wilck;;817
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέτρ(ημα) θησ(αυροῦ) διο(ικήσεως) γ(εν)ή(ματος) η (ἔτους)
+r.2    Ἁδριανοῦ Θὼθ κθ ὀνό(ματος)
+r.3    Θαήσιο(ς) Ἑριοφμόιτος
+r.4    (πυροῦ) τρίτον ὄγδο(ον) (γίνεται) (πυροῦ) γ´η´,
+r.5    καὶ ὀνό(ματος) Σενεριέως
+r.6    Χαταβοὺς (πυροῦ)
+r.7    δωδέκ(ατον) (γίνεται) (πυροῦ) ιβ´.
+
+[TRANSLATION]
+1     Measure of the granary of the administration, of the produce of year 8
+2     of Hadrian, Thoth 29, in the name
+3     of Thaesis (daughter of) Heriophmois,
+4     of wheat a third and an eighth, total wheat ⅓ 1/8,
+5     and in the name of Senerieus
+6     (child of) Chataboous, of wheat
+7     a twelfth, total wheat 1/12.

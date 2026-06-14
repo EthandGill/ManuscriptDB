@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 830
+label:    O.Wilck. 830
+name:     Grain-measure receipt (metropolis granary, islands)
+genre:    receipts
+date:     19. Aug 129
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8592
+content:  Horion son of Ammonios, via Pachnoumis, measures in 1⅓ art. of wheat for the islands, year 13 of Hadrian.
+tm:       77306
+source:   https://papyri.info/ddbdp/o.wilck;;830
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) εἰς θησ(αυρὸν) μη(τροπόλεως) γ(εν)ή(ματος) ιγ (ἔτους)
+r.2    Ἁδριανοῦ Μεσ(ορ)ὴ κϛ ὀνό(ματος)
+r.3    Ὡρίωνο(ς) Ἀμωνίο(υ) (διὰ) Πα[χ]νούμ(ιος)
+r.4    Παουφθειοῦτ(ος(?)) ὑπ(ὲρ) νή(σων) (πυροῦ) μίαν
+r.5    τρίτον ̣ ̣ ̣ ̣ (γίνεται) (πυροῦ) αγ´. ̣ ̣( )
+
+[TRANSLATION]
+1     Measure into the granary of the metropolis, of the produce of year 13
+2     of Hadrian, Mesore 26, in the name
+3     of Horion (son of) Ammonios, through Pachnoumis
+4     (son of) Paouphtheus(?), for the islands, of wheat one
+5     and a third …, total wheat 1⅓. …( )

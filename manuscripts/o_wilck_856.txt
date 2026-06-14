@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 856
+label:    O.Wilck. 856
+name:     Bath-tax receipt (Ophieus)
+genre:    receipts
+date:     11. Febr. 138
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 123 \[ostracon\
+content:  Overseers of the temple granary receive the bath-tax of Ophieus, year 22 of Hadrian, from Abos the elder.
+tm:       77332
+source:   https://papyri.info/ddbdp/o.wilck;;856
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [ ̣ ̣ ̣ ̣ ̣ ̣] καὶ μέτοχ(οι) ἐπιτηρη(ταὶ) θησ(αυροῦ)
+r.2    [ἱερ(ῶν) Ἀβώτι] πρε(σ)β(υτέρῳ) Πετοσίριος. ἔσχ(ομεν)
+r.3    [τὸ βαλ(ανικὸν)] Ὠφιή(ου) τοῦ κβ (ἔτους) Ἁδριανοῦ
+r.4    [Καί]σαρος τοῦ κυρίου Μεχεὶρ ιζ.
+
+[TRANSLATION]
+1     […] and partners, overseers of the granary
+2     [of the temples, to Abos] the elder, (son of) Petosiris. We have received
+3     [the bath-tax] of Ophieus, of year 22 of Hadrian
+4     [Cae]sar the lord, Mecheir 17.

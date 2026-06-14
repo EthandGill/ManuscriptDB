@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 837
+label:    O.Wilck. 837
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     15. Jul 132
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4081
+content:  Petearmaios son of Hermophilos, for Charax, year 16 of Hadrian.
+tm:       77313
+source:   https://papyri.info/ddbdp/o.wilck;;837
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) εἰς θησ(αυρὸν) μη(τροπόλεως) γ(ενήματος) ιϛ (ἔτους)
+r.2    Ἁδριανοῦ Ἐπὶφ κα ὀνό(ματος)
+r.3    Πετεαρμαίου Ἑρμοφίλου ὑπ(ὲρ) Χ(άρακος)
+
+[TRANSLATION]
+1     Measure into the granary of the metropolis, of the produce of year 16
+2     of Hadrian, Epeiph 21, in the name
+3     of Petearmaios (son of) Hermophilos, for Charax.

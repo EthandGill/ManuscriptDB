@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 826
+label:    O.Wilck. 826
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     18. Jul 127
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12703
+content:  Chataboous (son of) Phthou( ), via Psenamounis, measures in 1½⅓ art. of wheat, year 11 of Hadrian.
+tm:       77302
+source:   https://papyri.info/ddbdp/o.wilck;;826
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) εἰς θησ(αυρὸν) μη(τροπόλεως) γ(εν)ή(ματος) ια (ἔτους)
+r.2    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.3    Ἐπεὶφ κδ ὀνό(ματος) Χαταβο(ῦτος) Φθου( ).
+r.4    διὰ Ψεναμο(ύνιος) Πε ̣ ̣ ̣( ) Πετε̣ό̣βτο(υ)
+r.5    (πυροῦ) μίαν ἥμισυ τρίτον (γίνεται) (πυροῦ) α𐅵γ´.
+r.6    Αφ( ) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Measure into the granary of the metropolis, of the produce of year 11
+2     of Hadrian Caesar the lord,
+3     Epeiph 24, in the name of Chataboous (son of) Phthou( ),
+4     through Psenamounis (son of) Pe…( ) (son of) Peteobtous,
+5     of wheat one and a half and a third, total wheat 1½⅓.
+6     I, Aph( ), have signed.

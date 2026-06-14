@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 840
+label:    O.Wilck. 840
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     10. Sep 132
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8035
+content:  Chataboous son of Phthouminis & brothers, via the cultivator Phthouminis, measure in 3 art. of wheat, year 16 of Hadrian.
+tm:       77316
+source:   https://papyri.info/ddbdp/o.wilck;;840
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) εἰς θησ(αυρὸν) μη(τροπόλεως) γ(εν)ή(ματος) ιϛ (ἔτους) Ἁδριανοῦ
+r.2    τοῦ κυρίου Θὼθ ιγ τοῦ ιζ (ἔτους) ὀνόμ(ατος)
+r.3    Χαταβο(ῦτος) Φθουμεί(νιος) καὶ ἀδ(ελφῶν) (διὰ) γεω(ργοῦ)
+r.4    Φθουμίνιο(ς) Πικῶτο(ς) Παχράτου
+r.5    ὑπ(ὲρ) εξ ̣( ) (πυροῦ) τρεῖς (γίνονται) (πυροῦ) γ. Πικ(ώς).
+
+[TRANSLATION]
+1     Measure into the granary of the metropolis, of the produce of year 16 of Hadrian
+2     the lord, Thoth 13 of year 17, in the name
+3     of Chataboous (son of) Phthouminis and his brothers, through the cultivator
+4     Phthouminis (son of) Pikos (son of) Pachrates,
+5     for ex( ), of wheat three, total wheat 3. Pikos.

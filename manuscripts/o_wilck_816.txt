@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 816
+label:    O.Wilck. 816
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     24. Jun 123
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8263
+content:  Kametis son of Myron measures in 1 art. of wheat, year 7 of Hadrian.
+tm:       77294
+source:   https://papyri.info/ddbdp/o.wilck;;816
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μεμέ(τρηται) εἰς θησ(αυρὸν) μη(τροπόλεως) γενή(ματος) ζ (ἔτους)
+r.2    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.3    Παῦνι λ ὀνό(ματος) Καμήτιος
+r.4    Μύρωνος (πυροῦ) μίαν (γίνεται) (πυροῦ) α. Φ ̣ ̣( ) σ(εσημείωμαι).
+
+[TRANSLATION]
+1     There has been measured into the granary of the metropolis, of the produce of year 7
+2     of Hadrian Caesar the lord,
+3     Pauni 30, in the name of Kametis
+4     (son of) Myron, of wheat one, total wheat 1. I, Ph..( ), have signed.

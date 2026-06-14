@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 824
+label:    O.Wilck. 824
+name:     Grain-measure receipt (villages granary)
+genre:    receipts
+date:     25. Jun 127
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1652
+content:  Phmois (son of) Pan..( ) measures in 5 1/8 art. of wheat (several lots), year 11 of Hadrian.
+tm:       77300
+source:   https://papyri.info/ddbdp/o.wilck;;824
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέτρη(μα) θησ(αυροῦ) κω(μῶν) γ(ενήματος) ια (ἔτους)
+r.2    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.3    Ἐπεὶφ α ὀνό(ματος) Φμόιτο(ς) Παν ̣( )
+r.4    (πυροῦ) τρεῖς ἥμισ(υ) τρίτον , ἄλ(λον) ὀνό(ματος)
+r.5    τοῦ α(ὐτοῦ) (πυροῦ) δίμοιρο(ν) ὄγδον {ἥμισυ τέταρτον}
+r.6    ἄλ(λον) ὀνό(ματος) τοῦ α(ὐτοῦ) διὰ Πε ̣ ̣νο( )
+r.7    (πυροῦ) ἥμισυ (γίνονται) (πυροῦ) εη´ ̣ ̣ ̣
+
+[TRANSLATION]
+1     Measure of the granary of the villages, of the produce of year 11
+2     of Hadrian Caesar the lord,
+3     Epeiph 1, in the name of Phmois (son of) Pan..( ),
+4     of wheat three and a half and a third; another, in the name
+5     of the same, of wheat two-thirds and an eighth {a half and a quarter},
+6     another, in the name of the same, through Pe..no( ),
+7     of wheat a half, total wheat 5 1/8 …
