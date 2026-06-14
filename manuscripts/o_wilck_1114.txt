@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1114
+label:    O.Wilck. 1114
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     12. Nov 193
+language: Greek (Koiné)
+found:    Kerkeosiris (Arsinoites)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 796
+content:  Sitologoi of Kerkeusiris (Polemon): 15 art. of year-1 wheat by 5 Herakleopolite donkeys (Kerkesephis), Hathyr 16.
+tm:       41788
+source:   https://papyri.info/ddbdp/o.wilck;;1114
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    Ἁθὺρ ιϛ Κερκ[ευ]σί(ρεως)
+r.2    Πολέ(μωνος) γενή(ματος) α (ἔτους)
+r.3    Ἡρακ(λεοπολίτου) νο(μοῦ) Κερκε-
+r.4    σήφεως ὄνοι ε,
+r.5    (πυροῦ) (ἀρτάβαι) ιε.
+
+[TRANSLATION]
+1     Hathyr 16: (sitologoi of) Kerk[eu]siris
+2     (of) Polemon, of the produce of year 1,
+3     of the Herakleopolite nome, Kerke-
+4     sephis: donkeys 5,
+5     15 (artabas) of wheat.

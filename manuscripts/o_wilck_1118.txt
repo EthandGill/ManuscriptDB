@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1118
+label:    O.Wilck. 1118
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     2. Sep 199
+language: Greek (Koiné)
+found:    Berenikis Thesmophoru (Arsinoites)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 850
+content:  Sitologoi of Berenikis Thesmophorou: 9 art. of past-year-7 wheat by 3 donkeys (Lysimachis), year 8.
+tm:       41791
+source:   https://papyri.info/ddbdp/o.wilck;;1118
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    η (ἔτους) Θὼθ δ σιτολ(όγοι)
+r.2    Βερενικίδος Θεσ(μοφόρου)
+r.3    γενή(ματος) τοῦ διελ(ηλυθότος)
+r.4    ζ (ἔτους) Λυσιμαχί-
+r.5    δος ὄνοι
+r.6    γ (πυροῦ) θ.
+
+[TRANSLATION]
+1     Year 8, Thoth 4: sitologoi
+2     of Berenikis Thesmophorou,
+3     of the produce of the past
+4     year 7, (village) Lysimachi-
+5     s: donkeys
+6     3, 9 (artabas) of wheat.

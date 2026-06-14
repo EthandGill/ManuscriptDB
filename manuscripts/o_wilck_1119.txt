@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1119
+label:    O.Wilck. 1119
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     15. Oct 199
+language: Greek (Koiné)
+found:    Anubias (Arsinoites)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 845
+content:  Sitologoi of Anoubias: 36 art. of year-7 wheat by 12 Herakleopolite beasts, year 8.
+tm:       41792
+source:   https://papyri.info/ddbdp/o.wilck;;1119
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    η (ἔτους) Φα(ῶφι) ιζ σιτολ(όγοι)
+r.2    Ἀνουβ(ιάδος) γενή(ματος)
+r.3    ζ (ἔτους) διὰ κτη(νῶν)
+r.4    Ἡρακλεοπολ(ίτου)
+r.5    ὄνο(ι) ιβ, (πυροῦ)
+r.6    λϛ.
+
+[TRANSLATION]
+1     Year 8, Phaophi 17: sitologoi
+2     of Anoubias, of the produce
+3     of year 7, by beasts
+4     of the Herakleopolite:
+5     donkeys 12, (artabas) of wheat
+6     36.

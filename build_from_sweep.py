@@ -124,6 +124,7 @@ def clean_line(line):
     line = re.sub(r"[⁦⁧⁨⁩]", "", line)        # any stray directional-isolate marks
     line = line.replace("\\[", "[").replace("\\]", "]")     # unescape markdown brackets
     line = re.sub(r"[\\/]", "", line)                       # \\..// above-line marks, stray escapes
+    line = re.sub(r"_\([^)]*\)_", "", line)                 # _(Reprinted from O.Wilck NNNN)_ markdown notes
     line = re.sub(r"⟦[^⟧]*⟧", "", line)      # ⟦deletions⟧
     line = re.sub(r"\(\([^)]*\)\)", "", line)               # ((editorial notes))
     line = re.sub(r"~+", "", line)                          # ~~~ markers

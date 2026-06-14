@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1125
+label:    O.Wilck. 1125
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     193 - 211
+language: Greek (Koiné)
+found:    Lebetr\[ia\] (Herakleopolites)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 814
+content:  120 art. of wheat by 40 donkeys, Herakleopolite (Busiris), Pauni 20.
+tm:       77553
+source:   https://papyri.info/ddbdp/o.wilck;;1125
+lat:      29.0667
+lon:      30.9333
+
+[GREEK]
+r.1    (hand 1) Ἡρακλεοπ(ολίτου) νομοῦ
+r.2    (hand 1) Βουσίρεως
+r.3    ὄνοι μ (πυροῦ) ρκ
+r.4    Παῦνι κ.
+
+[TRANSLATION]
+1     (Of) the Herakleopolite nome,
+2     Busiris:
+3     donkeys 40, 120 (artabas) of wheat.
+4     Pauni 20.

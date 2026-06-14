@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1126
+label:    O.Wilck. 1126
+name:     Wine docket (Byzantine, Tritipithon estate)
+genre:    receipts
+date:     VI - VII
+language: Greek (Koiné)
+found:    Sakkara (Memphites)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 328
+content:  Wine delivered to the Tritipithon estate: Mores 43 kouria, Georgios son of Pekysis 43 kouria.
+tm:       77554
+source:   https://papyri.info/ddbdp/o.wilck;;1126
+lat:      
+lon:      
+
+[GREEK]
+r.1    † τριτιπίθων.
+r.2    Μῶρε οἴνου κοῦρ(ι) μγ.
+r.3    Γεώρ(γιος) Πεκύσιως οἴνου κοῦρ(ι) μγ.
+
+[TRANSLATION]
+1     † (Estate) of the Tritipithon.
+2     Mores: of wine, 43 kouria.
+3     Georgios (son of) Pekysis: of wine, 43 kouria.

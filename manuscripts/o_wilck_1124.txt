@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1124
+label:    O.Wilck. 1124
+name:     Sitologoi grain-transit docket
+genre:    receipts
+date:     193 - 211
+language: Greek (Koiné)
+found:    Kerkesephis (Arsinoites)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 817
+content:  69 art. of wheat: 39 (Kerkesephis, 13 donkeys) + 30 (Magdola, 10 donkeys), Hathyr.
+tm:       41795
+source:   https://papyri.info/ddbdp/o.wilck;;1124
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    Ἁθὺρ ̣ ̣ ̣ γενή(ματος)
+r.2    Κερκεσήφεως
+r.3    ὄνοι ιγ (πυροῦ) λθ,
+r.4    Μαγδώλων
+r.5    ὄνοι ι (πυροῦ) λ
+r.6    (γίνονται) (πυροῦ) ξθ.
+
+[TRANSLATION]
+1     Hathyr ..., of the produce:
+2     (of) Kerkesephis,
+3     donkeys 13, 39 (artabas) of wheat;
+4     (of) Magdola,
+5     donkeys 10, 30 (artabas) of wheat,
+6     total 69 (artabas) of wheat.
