@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 970
+label:    O.Wilck. 970
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     23. May 191
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12699
+content:  Decimus the elder & his brother Panameus measure in 1⅓ 1/24 art. of wheat for Charax, year 31 of Commodus.
+tm:       77446
+source:   https://papyri.info/ddbdp/o.wilck;;970
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γενή(ματος) λα (ἔτους) Κομ(μόδ)ου
+r.2    Ἀντων(ίνου) Καίσαρος τοῦ κυρίου Παῦ(νι) κη
+r.3    ὑπ(ὲρ) Χ(άρακος) ὀνό(ματος) Δέκμου πρεσβ(υτέρου) Ἡρακ(λᾶτος)
+r.4    καὶ Πανα(μέως) ἀδε(λφοῦ) (πυροῦ) μίαν τρίτο(ν) κδ´
+r.5    (γίνεται) (πυροῦ) αγ´κδ´. Παν( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 31 of Commodus
+2     Antoninus Caesar the lord, Pauni 28,
+3     for Charax, in the name of Decimus the elder (son of) Heraklas
+4     and Panameus (his) brother, of wheat one and a third and a twenty-fourth,
+5     total wheat 1⅓ 1/24. I, Pan( ), have signed.

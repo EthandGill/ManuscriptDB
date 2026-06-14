@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 974
+label:    O.Wilck. 974
+name:     Grain-measure receipt (metropolis granary; Pescennius Niger)
+genre:    receipts
+date:     8. Jul 193
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4374
+content:  Asklas measures in 1/6 1/24 art. of wheat for Charax, year 1 of Pescennius Niger.
+tm:       77450
+source:   https://papyri.info/ddbdp/o.wilck;;974
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γενή(ματος) [α (ἔτους)]
+r.2    Πεσκ(εννί)ου Νιγέρο(υ) Ἰούστο(υ) Κα(ίσαρος)
+r.3    τοῦ κυρίου Ἐ(πὶ)φ ιδ ὑπ(ὲρ) Χ(άρακος) ὀνό(ματος)
+r.4    Ἀσκλᾶτο(ς) ̣ ̣ ̣α ̣ ̣ ̣ ̣( )
+r.5    (πυροῦ) ἕκτο(ν) κδ´ (γίνεται) (πυροῦ) ϛ´κδ´. Λο ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of [year 1]
+2     of Pescennius Niger Justus Caesar
+3     the lord, Epeiph 14, for Charax, in the name
+4     of Asklas …,
+5     of wheat a sixth and a twenty-fourth, total wheat 1/6 1/24. I, Lo( ), have signed.

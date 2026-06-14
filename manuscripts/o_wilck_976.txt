@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 976
+label:    O.Wilck. 976
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     8. Dec 193
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4114
+content:  Pekysis son of Pikos measures in wheat, year 32(/2) of Commodus.
+tm:       77452
+source:   https://papyri.info/ddbdp/o.wilck;;976
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γενή(ματος) λβ (ἔτους)
+r.2    Κομμόδου Καίσαρος τοῦ κυρίου
+r.3    Ἁδρι(ανοῦ) ιβ τοῦ β (ἔτους) ὑπ(ὲρ) ̣ ̣ρ( ) λβ (ἔτους)
+r.4    ̣ ̣ ὀνό(ματος) Πεκύσι[ος Πι]κῶ(τος)
+r.5    (πυροῦ) ̣ ̣ ̣ ̣ (γίνεται) (πυροῦ) η´.
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 32
+2     of Commodus Caesar the lord,
+3     Hadrianos 12 of year 2, for ..r( ) of year 32,
+4     .. in the name of Pekysis [(son of) Pi]kos,
+5     of wheat …, total wheat 1/8.

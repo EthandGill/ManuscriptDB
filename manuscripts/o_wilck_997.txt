@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 997
+label:    O.Wilck. 997
+name:     Grain-measure receipt (granary, islands; Maximinus & Maximus)
+genre:    receipts
+date:     235 - 238
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4445
+content:  Pasemis measures in ½⅓ 1/24 art. of wheat for the islands, reign of Maximinus & Maximus.
+tm:       77473
+source:   https://papyri.info/ddbdp/o.wilck;;997
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μέ(τρημα) θησ(αυροῦ) ̣ ̣( ) γ(εν)ή(ματος) ̣ (ἔτους) τ]ῶν κυρίων
+r.2    [ἡμῶν Γαίου Ἰουλ(ίου)] Οὐήρου Μαξιμείνου
+r.3    [(καὶ) Γαίου Ἰουλ(ίου) Οὐήρο]υ Μαξίμου Εὐσεβῶν
+r.4    [Σεβαστῶν ̣ ̣ ̣ ̣ ̣] ̣ζ ὑπ(ὲρ) νή(σων) ὀνό(ματος) Πασήμιος
+r.5    5[ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣] (πυροῦ) (ἀρτάβης) ἥμισυ τρίτον κδ´
+r.6    [(γίνεται) (πυροῦ) 𐅵γ´κδ´ ̣ ̣ ̣ ̣].
+
+[TRANSLATION]
+1     [Measure of the granary of ..( ), of the produce of year .. of t]he lords
+2     [our Gaius Julius] Verus Maximinus
+3     [and Gaius Julius Veru]s Maximus, the Pii
+4     [Augusti, …].7, for the islands, in the name of Pasemis
+5     […] of wheat, of an artaba, a half and a third and a twenty-fourth,
+6     [total wheat ½⅓ 1/24 …].

@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 971
+label:    O.Wilck. 971
+name:     Grain-measure receipt (villages granary)
+genre:    receipts
+date:     10. May 192
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4472
+content:  Pamonthes son of Leon measures in wheat for Charax (two entries), year 32 of Commodus.
+tm:       77447
+source:   https://papyri.info/ddbdp/o.wilck;;971
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) κω(μῶν) γενή(ματος) λβ (ἔτους) Αὐ(ρηλί)ου Κομ(μ)όδου
+r.2    Καίσαρος τοῦ κυρίου Παχὼ(ν) ιδ ὑπ(ὲρ) Χ(άρακος)
+r.3    ὀνό(ματος) Παμώνθου Λέωντος (πυροῦ) ὄγδον
+r.4    (γίνεται) (πυροῦ) η´. ἄ(λλον) Παχὼ(ν) ιε ὁμοίως
+r.5    (πυροῦ) ἕκ[τον …]
+
+[TRANSLATION]
+1     Measure of the granary of the villages, of the produce of year 32 of Aurelius Commodus
+2     Caesar the lord, Pachon 14, for Charax,
+3     in the name of Pamonthes (son of) Leon, of wheat an eighth,
+4     total wheat 1/8. Another, Pachon 15, likewise,
+5     of wheat a six[th …]

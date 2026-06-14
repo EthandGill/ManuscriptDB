@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 982
+label:    O.Wilck. 982
+name:     Grain-measure receipt (metropolis granary, islands)
+genre:    receipts
+date:     14. Aug 198
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4759
+content:  Kametis son of Pikos measures in 1¼ art. of wheat for the islands, year 6 of Severus & Caracalla.
+tm:       77458
+source:   https://papyri.info/ddbdp/o.wilck;;982
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γενή(ματος) ϛ (ἔτους) Λουκ(ίου) Σεπτι(μίου)
+r.2    Σεο(υήρου) καὶ Μάρκου Αὐρη(λίου) Ἀντωνίνου
+r.3    Καισάρων τῶν κυρίων Σεβαστῶν
+r.4    Μεσο(ρὴ) κα ὑπ(ὲρ) νή(σων) ὀνό(ματος) Καμή(τιος)
+r.5    Πικῶτο(ς(?)) (διὰ) ̣ ̣κατο( ) πυροῦ μίαν
+r.6    τέταρτον (γίνεται) (πυροῦ) αδ´. Ἀπο( ).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 6 of Lucius Septimius
+2     Severus and Marcus Aurelius Antoninus,
+3     Caesars the lords, the Augusti,
+4     Mesore 21, for the islands, in the name of Kametis
+5     (son of) Pikos(?), through ..kato( ), of wheat one
+6     and a quarter, total wheat 1¼. Apo( ).

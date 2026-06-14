@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1002
+label:    O.Wilck. 1002
+name:     Grain-measure receipt (metropolis granary; Gordian III)
+genre:    receipts
+date:     240 - 241
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4135
+content:  Lolous son of Psenchonsis measures in 6 art. of wheat for Charax, year 4 of Gordian III.
+tm:       77478
+source:   https://papyri.info/ddbdp/o.wilck;;1002
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέτρη(μα) θησ(αυροῦ) μη(τροπόλεως) γενή(ματος) δ (ἔτους) Μάρκου
+r.2    Ἀντωνίου Γορδιανοῦ Καίσαρος
+r.3    τοῦ κυρίου ὑπ(ὲρ) Χ(άρακος) ὀνό(ματος) Λολοῦτο(ς)
+r.4    Ψενχώνσιος πυροῦ ἓξ (γίνονται) (πυροῦ) ϛ.
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 4 of Marcus
+2     Antonius Gordianus Caesar
+3     the lord, for Charax, in the name of Lolous
+4     (son of) Psenchonsis, of wheat six, total wheat 6.

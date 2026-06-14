@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 980
+label:    O.Wilck. 980
+name:     Grain-measure receipt (metropolis granary, South)
+genre:    receipts
+date:     13. Jun 197
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12669
+content:  Horos son of Kolouthos measures in 1 art. of wheat for the South, year 5 of Septimius Severus.
+tm:       77456
+source:   https://papyri.info/ddbdp/o.wilck;;980
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γ(εν)ή(ματος) ε (ἔτους) Λουκίου
+r.2    Σεπτιμίου Σεου(ήρου) Εὐσεβ(οῦς)
+r.3    Περτίνακος Καίσαρ(ος) τοῦ κ(υρίου)
+r.4    Παῦ(νι) ιθ ὑπ(ὲρ) Νό(του) ὀνό(ματος) Ὥρου (ὁμοίως)
+r.5    Κολούθου πυροῦ μίαν (γίνεται) (πυροῦ) α.
+r.6    Α ̣ ̣( ) σεση(μείωμαι) πυροῦ μίαν (γίνεται) (πυροῦ) α.
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 5 of Lucius
+2     Septimius Severus Pius
+3     Pertinax Caesar the lord,
+4     Pauni 19, for the South, in the name of Horos, likewise
+5     (son of) Kolouthos, of wheat one, total wheat 1.
+6     A..( ), I have signed, of wheat one, total wheat 1.

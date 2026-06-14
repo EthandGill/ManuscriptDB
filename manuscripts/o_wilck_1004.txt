@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1004
+label:    O.Wilck. 1004
+name:     Grain-measure receipt (metropolis granary; Gordian III)
+genre:    receipts
+date:     18. Jul 243
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1654
+content:  Dioskoros, via Psenmonthes, measures in 3 art. of wheat, year 6 of Gordian III.
+tm:       77480
+source:   https://papyri.info/ddbdp/o.wilck;;1004
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θη(σαυροῦ) μη(τροπόλεως) γενή(ματος) ϛ (ἔτους) τοῦ κυρίου
+r.2    Αὐτοκράτορος Καίσαρος Μάρκου
+r.3    Γορδιανοῦ Εὐσεβοῦς Εὐτυχοῦς Σεβ(αστοῦ)
+r.4    Διοσκόρου δ̣ι̣ὰ γ̣ε̣(ωργοῦ) Ψενμώνθ(ου)
+r.5    πυροῦ τρῖς (γίνονται) (πυροῦ) γ. Αὐ(ρήλιος) Δίοσκ(ορος) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 6 of our lord
+2     Imperator Caesar Marcus
+3     Gordianus Pius Felix Augustus,
+4     (in the name of) Dioskoros, through the cultivator Psenmonthes,
+5     of wheat three, total wheat 3. I, Aurelius Dioskoros, have signed.

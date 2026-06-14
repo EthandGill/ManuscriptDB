@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 972
+label:    O.Wilck. 972
+name:     Grain-measure receipt (metropolis granary; usurper Pescennius Niger)
+genre:    receipts
+date:     17. Jun 193
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4025
+content:  Decimus the elder son of Heraklas measures in 4 art. of wheat for Charax, year 1 of Pescennius Niger.
+tm:       77448
+source:   https://papyri.info/ddbdp/o.wilck;;972
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γενή(ματος) α (ἔτους)
+r.2    Γαίου Πεσκεννίου Νιγέρο[υ]
+r.3    Ἰούστου Καίσαρος τοῦ κυρίου
+r.4    Παῦ(νι) κγ ὑπ(ὲρ) Χ(άρακος) ὀνό(ματος) Δέκμου
+r.5    πρ(εσβυτέρου) Ἡρακλᾶτο(ς) (πυροῦ) τέσσαρ[ες]
+r.6    (γίνονται) (πυροῦ) (ἀρτάβαι) δ. Λο( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 1
+2     of Gaius Pescennius Niger
+3     Justus Caesar the lord,
+4     Pauni 23, for Charax, in the name of Decimus
+5     the elder (son of) Heraklas, of wheat fou[r],
+6     total wheat 4 artabas. I, Lo( ), have signed.

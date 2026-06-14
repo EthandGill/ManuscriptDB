@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 969
+label:    O.Wilck. 969
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     17. May 191
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12647
+content:  Decimus the elder son of Heraklas measures in 1 art. of wheat for Charax, year 31 of Commodus.
+tm:       77445
+source:   https://papyri.info/ddbdp/o.wilck;;969
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) [θη]σ(αυροῦ) μη(τροπόλεως) γενή(ματος) λα (ἔτους)
+r.2    Κ(ομμόδ)ου Ἀντω(νίνου) Καίσαρος τοῦ
+r.3    κυρίου Παχ̣(ὼν) κβ ὑπ(ὲρ) Χ(άρακος)
+r.4    ὀνό(ματος) Δέκμου πρ(εσβυτέρου)
+r.5    Ἡρακ(λᾶτος) (πυροῦ) μίαν
+r.6    (γίνεται) (πυροῦ) α. Πα ̣ ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the [gra]nary of the metropolis, of the produce of year 31
+2     of Commodus Antoninus Caesar the
+3     lord, Pachon 22, for Charax,
+4     in the name of Decimus the elder
+5     (son of) Heraklas, of wheat one,
+6     total wheat 1. I, Pa..( ), have signed.
