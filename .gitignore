@@ -20,3 +20,12 @@ _translate_*.txt
 _fill_*.py
 _b_*.py
 .vscode/
+
+# EDH/LIST epigraphy raw dump — huge, never commit. Only static/epigraphy_data.js
+# (the generated output) gets committed.
+*.zip
+data-master/
+data-main/
+edh_inscriptions*
+LIST*
+
