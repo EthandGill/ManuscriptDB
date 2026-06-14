@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 684
+label:    O.Wilck. 684
+name:     Tax receipt - donkey-drivers' tax
+genre:    receipts
+date:     17. May 174 (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4158
+content:  Pha..is son of Herieus pays 2 dr. 1 ob. donkey-drivers' tax of year 14.
+tm:       77193
+source:   https://papyri.info/ddbdp/o.wilck;;684
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παχὼ(ν) κβ τοῦ ιδ (ἔτους)
+r.2    ὀνό(ματος) Φα ̣ις Ἑριέω(ς) ὑπ(ὲρ)
+r.3    τέλ(ους) ὀνηλ(ατῶν) ιδ (ἔτους) δραχ(μὰς) δύο (ὀβολὸν)
+r.4    (γίνονται) (δραχμαὶ) β(ὀβολὸς). Θ ̣( ) σ(εσημείωμαι).
+
+[TRANSLATION]
+1     Pachon 22 of the 14th year,
+2     in the name of Pha..is (son of) Herieus, for
+3     the tax on donkey-drivers of year 14, two drachmas, 1 obol,
+4     total drachmas 2, 1 obol. I, Th( ), have signed.

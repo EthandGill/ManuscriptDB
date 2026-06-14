@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 694
+label:    O.Wilck. 694
+name:     Wheat-price receipt (South)
+genre:    receipts
+date:     10. Jul 215
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4732
+content:  Receipt for 80 dr. for the price of wheat (South), year 23.
+tm:       77203
+source:   https://papyri.info/ddbdp/o.wilck;;694
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἐ(πὶ)φ ιϛ τοῦ κγ (ἔτους) ὀνό(ματος) [ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.2    ὑπ(ὲρ) Νό(του) τι(μῆς) (πυροῦ) δραχ(μὰς) ὀγ[δοήκοντα]
+r.3    (γίνονται) (δραχμαὶ) π. Αὐρή(λιος) Φθ( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Epeiph 16 of the 23rd year, in the name [of …]
+2     for the South, the price/tax of wheat, eig[hty] drachmas,
+3     total drachmas 80. I, Aurelius Phth( ), have signed.

@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 693
+label:    O.Wilck. 693
+name:     Date-tax receipt
+genre:    receipts
+date:     21. Apr 183 (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4265
+content:  Petechonsis son of S...ous pays 3 dr. 3 ob. for the price of dates of year 22.
+tm:       77202
+source:   https://papyri.info/ddbdp/o.wilck;;693
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φαρ(μοῦθι) κϛ ὀνό(ματος) Πετεχώ(νσιος) Σ̣ ̣ ̣ ̣οῦτο(ς) ὑπ(ὲρ)
+r.2    τοῦ κγ (ἔτους) ὑπ(ὲρ) τι(μῆς) φοί(νικος) γενη(μάτων) κβ [(ἔτους)]
+r.3    (δραχμὰς) τρῖς (τριώβολον) (γίνονται) (δραχμαὶ) γ(τριώβολον). ̣ ̣( ) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Pharmouthi 26, in the name of Petechonsis (son of) S…ous, for
+2     the (account of) year 23, for the price/tax of dates of the produce of year 22,
+3     three drachmas, 3 obols, total drachmas 3, 3 obols. I, …( ), have signed.

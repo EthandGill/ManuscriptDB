@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 710
+label:    O.Wilck. 710
+name:     Grain-measure receipt (Ptolemaic)
+genre:    receipts
+date:     IV - I v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 191 \[ostracon\
+content:  Apollonios son of Tauron measures in 70½⅓ artabas of wheat for year 7.
+tm:       77215
+source:   https://papyri.info/ddbdp/o.wilck;;710
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἱε(ρο)ῦ 𐅵γ´.
+r.2    ἔτους ζ Παχὼν ιη με(μέτρηκεν)
+r.3    εἰς τὸ ζ (ἔτος) Ἀπολλώνιος
+r.4    Ταύρωνος (πυροῦ) ἑβδομή(κοντα) 𐅵γ´.
+r.5    (γίνονται) [(πυροῦ)] ο𐅵γ´.
+
+[TRANSLATION]
+1     of the temple, ½ ⅓.
+2     Year 7, Pachon 18: there has measured (in),
+3     for year 7, Apollonios
+4     (son of) Tauron, of wheat seventy and ½ and ⅓,
+5     total [wheat] 70½ ⅓.

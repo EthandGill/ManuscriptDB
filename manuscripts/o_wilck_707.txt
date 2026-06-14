@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 707
+label:    O.Wilck. 707
+name:     Chaff-delivery receipt (Ptolemaic, Hermonthis)
+genre:    receipts
+date:     3. Aug 111 v.Chr.
+language: Greek (Koiné)
+found:    Hermonthis
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 509
+content:  Poregebthis son of Harnouphis delivers one load of chaff, year 6.
+tm:       77213
+source:   https://papyri.info/ddbdp/o.wilck;;707
+lat:      25.6167
+lon:      32.55
+
+[GREEK]
+r.1    ἔτους ϛ Ἐπεὶφ ιη
+r.2    παραδέδω(κεν) Πορεγέβθις
+r.3    Ἁρνούφιος ἀχύρου ἀγω(γὴν)
+r.4    ενα (γίνεται) ἀγω(γὴ) α.
+
+[TRANSLATION]
+1     Year 6, Epeiph 18:
+2     Poregebthis
+3     (son of) Harnouphis has delivered, of chaff one load (agoge),
+4     one, total 1 load.

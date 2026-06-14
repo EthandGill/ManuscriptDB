@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 696
+label:    O.Wilck. 696
+name:     Fruit-tax receipt (epikarpia, Charax)
+genre:    receipts
+date:     19. Sep 183 (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 199 \[ostracon\
+content:  Tapaos pays 2 dr. ½ ob. 2 chal. fruit-tax of year 23, Charax.
+tm:       77205
+source:   https://papyri.info/ddbdp/o.wilck;;696
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Θὼθ κα τοῦ κδ (ἔτους)
+r.2    ὀνό(ματος) Ταπαὼς ̣ ̣ ̣( ) ὑπ(ὲρ)
+r.3    ἐπικ(αρπίας) κγ (ἔτους) Χ(άρακος) (δραχμὰς) δύο (ἡμιωβέλιον) χ(αλκοῦς 2)
+r.4    (γίνονται) (δραχμαὶ) β (ἡμιωβέλιον) χ(αλκοῖ 2). ̣ ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Thoth 21 of the 24th year,
+2     in the name of Tapaos …( ), for
+3     the fruit-tax (epikarpia) of year 23, of Charax, two drachmas, ½ obol, 2 chalkoi,
+4     total drachmas 2, ½ obol, 2 chalkoi. I, …( ), have signed.

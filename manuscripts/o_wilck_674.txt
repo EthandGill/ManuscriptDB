@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 674
+label:    O.Wilck. 674
+name:     Tax receipt - annona assessment
+genre:    receipts
+date:     5. Oct 217 (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4361
+content:  Senminis son of Herieus pays 1 dr. 5 ob. for the annona assessment, year 2.
+tm:       77183
+source:   https://papyri.info/ddbdp/o.wilck;;674
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φαῶφι η τοῦ β (ἔτους) ὀνό(ματος)
+r.2    Σ[εν]μῖνις Ἑριέως ὑπ(ὲρ)
+r.3    μερισ(μοῦ) ἀννο(νης) δραχας
+r.4    μίαν (πεντώβολον) (γίνεται) (δραχμὴ) α(πεντώβολον). Πουῆ(ρις) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Phaophi 8 of the 2nd year, in the name
+2     of Senminis (son of) Herieus, for
+3     the assessment of the annona, drachmas
+4     one, 5 obols, total drachma 1, 5 obols. I, Poueris, have signed.

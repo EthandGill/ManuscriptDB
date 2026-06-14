@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 675
+label:    O.Wilck. 675
+name:     Tax receipt - gold-crown tax
+genre:    receipts
+date:     11. Mar 195
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1608
+content:  Besarion son of Horos pays 2 dr. for the gold-crown tax of year 2.
+tm:       77184
+source:   https://papyri.info/ddbdp/o.wilck;;675
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φα( ) ιε τοῦ γ̣ (ἔτους) ὀν(όματος) Βησαρίο(υ)
+r.2    Ὥρο(υ) Διογ(ένους) ὑπ(ὲρ) στεφ(άνου) χ(ρυσοῦ) β (ἔτους) ̣ ̣ ̣
+r.3    (δραχμὰς) δύο (γίνονται) (δραχμαὶ) β. ̣ ̣η σε(σημείωμαι).
+
+[TRANSLATION]
+1     Pha( ) 15 of the 3rd year, in the name of Besarion
+2     (son of) Horos (son of) Diogenes, for the gold crown(-tax) of year 2 …
+3     two drachmas, total drachmas 2. I, …e, have signed.

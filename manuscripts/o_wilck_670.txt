@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 670
+label:    O.Wilck. 670
+name:     Tax receipt - monthly tax assessment
+genre:    receipts
+date:     28. Dec 139 - 26. Jan 140
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1165
+content:  Paniskos and partners receive 2 dr. for the tax-assessment of year 2 from Pasemis the younger.
+tm:       77180
+source:   https://papyri.info/ddbdp/o.wilck;;670
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πανίσκος καὶ (μέτοχοι) ἀπαι(τηταὶ) μερισ(μοῦ) τέλ(ους) β (ἔτους)
+r.2    ὀνό(ματος) Πασή(μιος) νε(ωτέρου) Ἀμωνίου
+r.3    δραχ(μὰς) δύο (γίνονται) (δραχμαὶ) β. (ἔτους) γ Α[ ̣ ̣ ̣ ̣ ̣ ̣]
+r.4    Καίσαρος τοῦ κυρίου Τ[ῦβι ̣ ̣].
+
+[TRANSLATION]
+1     Paniskos and partners, collectors of the assessment for the tax of year 2,
+2     in the name of Pasemis the younger (son of) Amonios,
+3     two drachmas, total drachmas 2. Year 3 of A[…]
+4     Caesar the lord, T[ybi ..].

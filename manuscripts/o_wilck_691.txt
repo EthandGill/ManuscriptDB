@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 691
+label:    O.Wilck. 691
+name:     Wine-tax receipt (metropolis)
+genre:    receipts
+date:     30. Jul 181
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4192
+content:  Decimus the elder son of Heraklas pays 3 dr. for the price of wine of year 21, metropolis.
+tm:       77200
+source:   https://papyri.info/ddbdp/o.wilck;;691
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Μεσο(ρὴ) ϛ τοῦ κα (ἔτους)
+r.2    ὀνό(ματος) Δέκμου πρ(εσβυτέρου) ηρακλᾶτο(ς)
+r.3    ὑπ(ὲρ) τι(μῆς) οἴν(ου) κα (ἔτους) μη(τροπόλεως)
+r.4    (δραχμὰς) τρεῖς (γίνονται) (δραχμαὶ) γ. ̣ ̣( )
+
+[TRANSLATION]
+1     Mesore 6 of the 21st year,
+2     in the name of Decimus the elder (son of) Heraklas,
+3     for the price/tax of wine of year 21, of the metropolis,
+4     three drachmas, total drachmas 3. …( )

@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 695
+label:    O.Wilck. 695
+name:     Tax receipt - assessment (Charax)
+genre:    receipts
+date:     I - IV
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8304
+content:  Senphabos pays 3 dr. 5 ob. for the assessment of year 23, Charax.
+tm:       77204
+source:   https://papyri.info/ddbdp/o.wilck;;695
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Μεσο(ρὴ) κζ τοῦ κγ (ἔτους) ὀνό(ματος)
+r.2    Σενφαβῶτο(ς) Ψενμου ̣( )
+r.3    ὑπ(ὲρ(?)) μ(ερισμοῦ) κγ (ἔτους) Χ(άρακος) (δραχμὰς) τρε͂ς (πεντώβολον)
+r.4    (γίνονται) (δραχμαὶ) γ(πεντώβολον). ̣ ̣( )
+
+[TRANSLATION]
+1     Mesore 27 of the 23rd year, in the name
+2     of Senphabos (son of) Psenmou( ),
+3     for the assessment of year 23, of Charax, three drachmas, 5 obols,
+4     total drachmas 3, 5 obols. …( )

@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 698
+label:    O.Wilck. 698
+name:     Tax receipt - barley for the annona
+genre:    receipts
+date:     1. Aug 216 (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4803
+content:  Phthouminis son of Pamaus pays 12 dr. for the price of barley for the annona, year 24.
+tm:       77207
+source:   https://papyri.info/ddbdp/o.wilck;;698
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Μεσο(ρὴ) η τοῦ κδ (ἔτους) ὀνό(ματος)
+r.2    Φθουμεί(νιος) Παμα̣υ̣το(ς) ὑπ(ὲρ) τι(μῆς)
+r.3    κρ(ιθῆς) ἀνώ(νης) ῥυπ(αρὰς) δραχ(μὰς) δώδεκ(α)
+r.4    (γίνονται) (δραχμαὶ) ιβ. Α̣ὐ̣ρ̣(ήλιος) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Mesore 8 of the 24th year, in the name
+2     of Phthouminis (son of) Pamaus, for the price/tax
+3     of barley for the annona, base drachmas twelve,
+4     total drachmas 12. I, Aurelius, have signed.

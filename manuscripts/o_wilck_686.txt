@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 686
+label:    O.Wilck. 686
+name:     Fruit-tax receipt (epikarpia, South)
+genre:    receipts
+date:     18. Sep 210
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 \[686\
+content:  Kysis son of Teionchonsis (via his brother Melas) pays 1 dr. 5 ob. fruit-tax of year 18.
+tm:       77195
+source:   https://papyri.info/ddbdp/o.wilck;;686
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Θὼθ κα τοῦ ιθ (ἔτους)
+r.2    ὀνό(ματος) Κύσιο(ς) Τηιονχώ(νσιος)
+r.3    (διὰ) Μέλας ἀδε(λφοῦ) ὑπ(ὲρ) ἐπικ(αρπίας) ιη (ἔτους)
+r.4    Νό(του) (δραχμὴν) μίαν (πεντώβολον) (γίνεται) (δραχμὴ) α(πεντώβολον). Α ̣ω( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Thoth 21 of the 19th year,
+2     in the name of Kysis (son of) Teionchonsis,
+3     through Melas (his) brother, for the fruit-tax (epikarpia) of year 18,
+4     of the South, one drachma, 5 obols, total drachma 1, 5 obols. I, A.o( ), have signed.

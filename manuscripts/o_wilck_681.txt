@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 681
+label:    O.Wilck. 681
+name:     Fruit-tax receipt (epikarpia, South)
+genre:    receipts
+date:     17. Apr 204
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 \[681\
+content:  Melas son of Teionchonsis pays 4 dr. fruit-tax of year 12, South quarter.
+tm:       77190
+source:   https://papyri.info/ddbdp/o.wilck;;681
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φαρμοῦθι κβ τοῦ ιβ (ἔτους) ὀνό(ματος) Μέλανο(ς)
+r.2    Τηιονχώνσιο(ς) ὑπ(ὲρ) ἐπι(καρπίας) ιβ (ἔτους) Νό(του) (δραχμὰς)
+r.3    τέσσαρες (γίνονται) (δραχμαὶ) δ. Παν( ) σ(εσημείωμαι).
+
+[TRANSLATION]
+1     Pharmouthi 22 of the 12th year, in the name of Melas
+2     (son of) Teionchonsis, for the fruit-tax (epikarpia) of year 12, of the South, drachmas
+3     four, total drachmas 4. I, Pan( ), have signed.

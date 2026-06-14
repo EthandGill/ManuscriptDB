@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 661
+label:    O.Wilck. 661
+name:     House-rent receipt
+genre:    receipts
+date:     3. Aug 189
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre 8258
+content:  Ench( ) son of Phaeris pays 1 dr. ½ ob. rent of Charax for year 9.
+tm:       77171
+source:   https://papyri.info/ddbdp/o.wilck;;661
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Μεσ(ορὴ) ι τοῦ κθ (ἔτους)
+r.2    ὀνό(ματος) Εν̣χ( ) Φαήριο(ς)
+r.3    Ἑριοφάφι̣(ος) ὑπ(ὲρ) ἐνοικ(ίου)
+r.4    Χ(άρακος) θ (ἔτους) (δραχμὴν) μίαν (ἡμιωβέλιον) (γίνεται) (δραχμὴ) α (ἡμιωβέλιον) .
+
+[TRANSLATION]
+1     Mesore 10 of the 29th year,
+2     in the name of Ench( ) (son of) Phaeris
+3     (son of) Heriophphis, for rent
+4     of Charax of year 9, one drachma, ½ obol, total drachma 1, ½ obol.

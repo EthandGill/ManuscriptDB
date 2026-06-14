@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 671
+label:    O.Wilck. 671
+name:     House-rent receipt
+genre:    receipts
+date:     27. Jul 121
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1589
+content:  Apollodoros receives 8 dr. 3 ob. rent of Charax (heirs of Chataboous) for year 5.
+tm:       77181
+source:   https://papyri.info/ddbdp/o.wilck;;671
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [Ἀπολλόδ(ωρος) πράκ(τωρ)] (ὀνόµατι κληρονόµων(?)) Χαταβοὺς Παναμ(έως) διὰ
+r.2    [διὰ Ἡρᾶτ(ος) θυ]γ(ατρός) . ἔσχ(ον) ὑπ(ὲρ) ἐνοικίου Χά(ρακος)
+r.3    [ῥυπ(αρὰς) δραχ(μὰς) ὀ]κτὼι τριόβολ(ον) (γίνονται) (δραχμαὶ) η(τριώβολον). (ἔτους) ε
+r.4    [Ἁδριανοῦ] Καίσαρος τοῦ κυρίου Μεσο(ρὴ) γ.
+
+[TRANSLATION]
+1     [Apollodoros, collector,] (in the name of the heirs of) Chataboous (son of) Panames, through
+2     [Heras (his) dau]ghter. I have received for rent of Charax,
+3     [base drachmas e]ight, three obols, total drachmas 8, 3 obols. Year 5
+4     [of Hadrian] Caesar the lord, Mesore 3.

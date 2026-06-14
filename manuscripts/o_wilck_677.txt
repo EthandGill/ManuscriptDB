@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 677
+label:    O.Wilck. 677
+name:     Land-survey tax receipt (Markets)
+genre:    receipts
+date:     1. Sep 196
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1609
+content:  Paniskos the elder son of Kephalos pays 4 dr. land-survey tax of the Markets, year 5.
+tm:       77186
+source:   https://papyri.info/ddbdp/o.wilck;;677
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Θὼθ δ̣ τοῦ ε (ἔτους) ὀνό(ματος)
+r.2    Πανίσκος πρ(εσβυτέρου) Κεφά(λου)
+r.3    ὑπ(ὲρ) γεο(μετρίας) Ἀγο(ρῶν) λ̣η̣(µµάτων) ε (ἔτους) δραχμὰς
+r.4    τέσσαρες (γίνονται) (δραχμαὶ) δ. Παν( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Thoth 4 of the 5th year, in the name
+2     of Paniskos the elder (son of) Kephalos,
+3     for the land-survey tax of the Markets, of the receipts(?) of year 5, drachmas
+4     four, total drachmas 4. I, Pan( ), have signed.

@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 665
+label:    O.Wilck. 665
+name:     Bath-tax receipt (reign of Philip)
+genre:    receipts
+date:     23. Aug 246
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12682
+content:  Porieuthes pays 8 dr. bath-tax of year 2, in year 3 of the Philippi.
+tm:       77175
+source:   https://papyri.info/ddbdp/o.wilck;;665
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    διέγρ(αψεν) Μεσορὴ λ τοῦ γ (ἔτους) Ἰουλίων
+r.2    Φιλίππων Σεβαστῶν Ποριεύθης
+r.3    Σ̣υ̣ρᾶτος Πετρωνίου Ποτάμω(νος) ὑπ(ὲρ) βαλα(νικοῦ) β (ἔτους)
+r.4    δραχ(μὰς) ὀκτὼ (γίνονται) (δραχμαὶ) η. ̣ ̣δ ̣ ̣( ) σ(εσημείωμαι).
+
+[TRANSLATION]
+1     There has paid, Mesore 30 of the 3rd year of the Julii
+2     Philippi, the Augusti: Porieuthes
+3     (son of) Syras (son of) Petronius Potamon, for bath-tax of year 2,
+4     eight drachmas, total drachmas 8. I, …d…( ), have signed.

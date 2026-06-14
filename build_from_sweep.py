@@ -137,13 +137,17 @@ def clean_line(line):
 
 _APPARATUS = re.compile(
     r"(^\s*[.\-])|(^\s*\d+\.\s)|(\blin\d)|(=>)|(\|ed\|)|(\bl\.\s)|(\bBL\b)|"
-    r"(prev\.\s*ed)|(corr\.)|\bZPE\b|\bAPF\b|\bcf\.\b|Traces|(p\.\s*\d+)|(,\s*n\.\s*\d)",
+    r"(prev\.\s*ed)|(corr\.)|\bZPE\b|\bAPF\b|\bcf\.\b|Traces|(p\.\s*\d+)|(,\s*n\.\s*\d)|"
+    r"(\bpapyrus\b)|(\bostrac)",
     re.I)
 
 def clean_greek(greek):
     out = []
     for raw in greek or []:
-        if _APPARATUS.search(raw):
+        # strip directional-isolate marks + leading space so the ^-anchored
+        # apparatus patterns still fire on lines like "⁧3. ϊερασ papyrus"
+        probe = re.sub(r"[⁦⁧⁨⁩]", "", raw).lstrip()
+        if _APPARATUS.search(probe):
             continue
         c = clean_line(raw)
         if c and re.search("[" + GREEK + "]", c):

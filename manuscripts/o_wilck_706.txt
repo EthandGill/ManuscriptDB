@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 706
+label:    O.Wilck. 706
+name:     Grain-measure receipt (Ptolemaic)
+genre:    receipts
+date:     IV - I v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4019
+content:  Chesthotes son of Petosiris measures in 7⅓ artabas of wheat, year 5.
+tm:       77212
+source:   https://papyri.info/ddbdp/o.wilck;;706
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους ε Μεσορὴι α με(μέτρηκεν) ε (ἔτους)
+r.2    νήσου Πτ̣ο̣λ̣(εμαΐδος) Χεσθώτης Πετοσίριος
+r.3    διὰ Ψενθώ(του) (πυροῦ) ἑπτὰ τρίτον (γίνονται) (πυροῦ) χ(οινίκων) κϛ, ζγ´.
+
+[TRANSLATION]
+1     Year 5, Mesore 1: there has measured (in), of year 5,
+2     of the island of Ptolemais, Chesthotes (son of) Petosiris,
+3     through Psenthotes, of wheat seven and a third, total wheat 7⅓ (= 26 choinikes).

@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 669
+label:    O.Wilck. 669
+name:     Poll-tax receipt (Apollonopolis)
+genre:    receipts
+date:     22. Mar 76 (year uncertain)
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     (see shelf)
+shelf:    London, British Library O 12452
+content:  Harnouris son of Apollonios pays 8 dr. poll-tax.
+tm:       77179
+source:   https://papyri.info/ddbdp/o.wilck;;669
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ἁρνοῦρις
+r.2    Ἀπολ(λωνίου) λαογρα(φίας)
+r.3    ̣ (ἔτους) (δραχμὰς) η. (ἔτους) η
+r.4    Φαμε(νὼ)θ.
+r.5    κϛ.
+
+[TRANSLATION]
+1     Harnouris
+2     (son of) Apollonios: poll-tax,
+3     year .., 8 drachmas. Year 8,
+4     Phamenoth,
+5     26.

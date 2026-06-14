@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 708
+label:    O.Wilck. 708
+name:     Grain-measure receipt (Ptolemaic, Hermonthis)
+genre:    receipts
+date:     5. Aug 111 v.Chr.
+language: Greek (Koiné)
+found:    Hermonthis
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 523
+content:  Poregebthis son of Harnouphis measures in 9½ 1/12 artabas of wheat, year 6.
+tm:       77214
+source:   https://papyri.info/ddbdp/o.wilck;;708
+lat:      25.6167
+lon:      32.55
+
+[GREEK]
+r.1    ἔτους ϛ Ἐπεὶφ κ με(μέτρηκεν) ϛ (ἔτους) Ἑρ[μ(ώνθεως)]
+r.2    Πορεγέβθις Ἁρνούφιος (πυροῦ) ἐννέα 𐅵ιβ´
+r.3    (γίνονται) θ𐅵ιβ´.
+
+[TRANSLATION]
+1     Year 6, Epeiph 20: there has measured (in), of year 6, at Her[monthis],
+2     Poregebthis (son of) Harnouphis, of wheat nine and ½ and 1/12,
+3     total 9½ 1/12 (artabas).

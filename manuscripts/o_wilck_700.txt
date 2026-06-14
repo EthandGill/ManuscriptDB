@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 700
+label:    O.Wilck. 700
+name:     Tax receipt - dyers' tax (two payments)
+genre:    receipts
+date:     20. Mar 185
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12698
+content:  Decimus the elder pays 4 dr. then 4 dr. 4 ob. for the tax on dyers, year 25.
+tm:       77209
+source:   https://papyri.info/ddbdp/o.wilck;;700
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φαμ(ενὼ)θ κδ τοῦ κε (ἔτους) ὀνό(ματος) Δέκμου
+r.2    πρ(εσβυτέρου) ὑπ(ὲρ) τέλ(ους) βαφ(έων) κε (ἔτους) (δραχμὰς) δ. ἄλ(λας)
+r.3    τῇ α(ὐτῇ) ἡ(μέρᾳ) (δραχμὰς) δ(τετρώβολον) (γίνονται) ἐπ(ὶ τὸ αὐτὸ) (δραχμαὶ) η(τετρώβολον). ̣ ̣( ) σ(εσημείωμαι).
+
+[TRANSLATION]
+1     Phamenoth 24 of the 25th year, in the name of Decimus
+2     the elder, for the tax on dyers of year 25, 4 drachmas. Another (payment),
+3     on the same day, 4 drachmas 4 obols, total together drachmas 8, 4 obols. I, …( ), have signed.

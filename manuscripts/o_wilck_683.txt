@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 683
+label:    O.Wilck. 683
+name:     Tax receipt - gold-crown tax
+genre:    receipts
+date:     1. May 205 (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4189
+content:  Ammonios son of ..phos pays 8 dr. for the gold-crown tax, year 13.
+tm:       77192
+source:   https://papyri.info/ddbdp/o.wilck;;683
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παχὼν ϛ τοῦ ιγ (ἔτους)
+r.2    ὀνό(ματος) Ἀμμωνίου τοῦ
+r.3    ̣ ̣φω̣ς Ποριεύθ(ου)
+r.4    ὑπ(ὲρ) στεφ(άνου) χρ(υσοῦ) δραχ(μὰς)
+r.5    ὀκτὼ (γίνονται(?)) (δραχμαὶ) η. Πα̣ν̣ί̣σ̣κ̣(ος) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Pachon 6 of the 13th year,
+2     in the name of Ammonios (son of)
+3     ..phos (son of) Porieuthes,
+4     for the gold crown(-tax), drachmas
+5     eight, total drachmas 8. I, Paniskos, have signed.

@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 663
+label:    O.Wilck. 663
+name:     Wheat-price receipt
+genre:    receipts
+date:     1. Apr 190
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 7774
+content:  Pana( ) son of Tauron pays 5 dr. for the price of wheat (Charax), year 30.
+tm:       77173
+source:   https://papyri.info/ddbdp/o.wilck;;663
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [Φαρμ]οῦθι ϛ το(ῦ) λ (ἔτους) ὑπ(ὲρ) Χ(άρακος) ὀνό(ματος)
+r.2    [Πα]να( ) Ταύρωνος
+r.3    [Ἀπο]λλοδώ(ρου) ὑπ(ὲρ) τιμ(ῆς) πυρ(οῦ)
+r.4    [ ̣ ̣ ̣ ] (δραχμ ) ε.
+
+[TRANSLATION]
+1     [Pharm]outhi 6 of the 30th year, for Charax, in the name
+2     of [Pa]na( ) (son of) Tauron
+3     (son of) [Apo]llodoros, for the price/tax of wheat,
+4     […] 5 drachmas.

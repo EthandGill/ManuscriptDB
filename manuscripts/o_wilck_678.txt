@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 678
+label:    O.Wilck. 678
+name:     Tax receipt - Charax (two payments)
+genre:    receipts
+date:     25. Jun 167
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8654
+content:  Horos son of Senapathes pays for year-7 taxes of Charax (2 dr. 3 ob. 1 chal., then 4 dr.).
+tm:       77187
+source:   https://papyri.info/ddbdp/o.wilck;;678
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παῦ(νι) ια τοῦ ζ (ἔτους) ὀνό(ματος) Ὥρου
+r.2    Σεναπάθ(ου) ὑπ(ὲρ) ς( ) δι ̣( ) ζ (ἔτους) Χ(άρακος) ῥυπ(αρὰς) δραχ(μὰς) δύο (τριώβολον) χ(αλκοῦν 1)
+r.3    (γίνονται) (δραχμαὶ) β(τριώβολον) χ(αλκοῦς 1). Ὧρο(ς) σεση(μείωμαι).
+r.4    Ἐπ(εὶ)φ α τοῦ ζ (ἔτους) ὀνό(ματος) Ὥρου
+r.5    Σεναπάθου ὑπ(ὲρ) ς( ) δι ̣( ) ζ (ἔτους) Χ(άρακος)
+r.6    ῥυπ(αρὰς) δραχ(μὰς) τέσσαρες (γίνονται) (δραχμαὶ) δ. Ὧρο(ς) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Pauni 11 of the 7th year, in the name of Horos
+2     (son of) Senapathes, for s( ) di( ) of year 7, of Charax, base drachmas two, 3 obols, 1 chalkous,
+3     total drachmas 2, 3 obols, 1 chalkous. I, Horos, have signed.
+4     Epeiph 1 of the 7th year, in the name of Horos
+5     (son of) Senapathes, for s( ) di( ) of year 7, of Charax,
+6     base drachmas four, total drachmas 4. I, Horos, have signed.

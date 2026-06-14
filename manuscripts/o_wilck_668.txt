@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 668
+label:    O.Wilck. 668
+name:     Poll-tax receipt (Apollonopolis)
+genre:    receipts
+date:     27. May 73 (year uncertain)
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     (see shelf)
+shelf:    London, British Library O 12457
+content:  Harmouris son of Apollos pays 8 dr. poll-tax of year 5.
+tm:       77178
+source:   https://papyri.info/ddbdp/o.wilck;;668
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ἁρμοῦρις Ἀπολλὼς
+r.2    λα(ο)γρ(αφίας) ε (ἔτους) (δραχμὰς) η. (ἔτους) ε
+r.3    Παῦνι β.
+
+[TRANSLATION]
+1     Harmouris (son of) Apollos:
+2     poll-tax of year 5, 8 drachmas. Year 5,
+3     Pauni 2.

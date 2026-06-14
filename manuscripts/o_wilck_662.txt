@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 662
+label:    O.Wilck. 662
+name:     Wine-tax receipt
+genre:    receipts
+date:     Frühjahr 190 (?)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8152
+content:  Mersis and partners, overseers of the wine and date tax, receive 21 dr. 3 ob. for the year-29 vintage from Psenamounis.
+tm:       77172
+source:   https://papyri.info/ddbdp/o.wilck;;662
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Μέρσις καὶ (μέτοχοι) ἐπιτη(ρηταὶ) οἴνου καὶ φοι(νίκων)
+r.2    Ψεναμούνι Ὥρο(υ). ἔσχ(ομεν) παρὰ σο(ῦ)
+r.3    ὑπ(ὲρ) τι(μῆς) οἴνου γενή(ματος) κθ (ἔτους) (δραχμὰς) εἴκοσι
+r.4    μίαν (τριώβολον) (γίνονται) (δραχμαὶ) κα(τριώβολον), ἃς καὶ διαγρ(άψομεν) ἐπὶ
+r.5    τὴν δη(μοσίαν) τράπ(εζαν).
+
+[TRANSLATION]
+1     Mersis and partners, overseers of (the tax on) wine and dates,
+2     to Psenamounis (son of) Horos. We have received from you
+3     for the price/tax of wine of the produce (vintage) of year 29, twenty-
+4     one drachmas, 3 obols, total drachmas 21, 3 obols, which we will also pay over to
+5     the public bank.

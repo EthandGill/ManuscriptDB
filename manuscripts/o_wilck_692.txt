@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 692
+label:    O.Wilck. 692
+name:     Date-tax receipt (two payments)
+genre:    receipts
+date:     8. Apr 214
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1614
+content:  Herieus son of Phaeris pays 4 dr. then 2 dr. 2 ob. for the price of dates of year 21.
+tm:       77201
+source:   https://papyri.info/ddbdp/o.wilck;;692
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φαρμοῦθ(ι) ϛ τοῦ κβ (ἔτους) ὀνό(ματος)
+r.2    Ἑριέως Φαῆρις νεω(τέρου) Πανα(μέως)
+r.3    ὑπ(ὲρ) τι(μῆς) φοί(νικος) γενη(μάτων) κα (ἔτους) (δραχμὰς) τέσσαρας
+r.4    (γίνονται) (δραχμαὶ) δ. Ἀπολ( ) σεση(μείωμαι) (δραχμὰς) δ. (hand 2) ἄλ(λας) Φαρ(μοῦθι) ιγ
+r.5    (δραχμὰς) δύο (διώβολον) (γίνονται) (δραχμαὶ) β(διώβολον). Παχνοῦ(μις)
+r.6    σε(σημείωμαι).
+
+[TRANSLATION]
+1     Pharmouthi 6 of the 22nd year, in the name
+2     of Herieus (son of) Phaeris the younger (son of) Panames,
+3     for the price/tax of dates of the produce of year 21, four drachmas,
+4     total drachmas 4. I, Apol( ), have signed, drachmas 4. (2nd hand) Another (payment), Pharmouthi 13,
+5     two drachmas, 2 obols, total drachmas 2, 2 obols. I, Pachnoumis,
+6     have signed.

@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 697
+label:    O.Wilck. 697
+name:     Wine- and date-tax receipt (two payments)
+genre:    receipts
+date:     2. May 216
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4415
+content:  Herieus son of Phaeris pays 4 dr. then 4 dr. 4 ob. for the price of wine and dates of year 23.
+tm:       77206
+source:   https://papyri.info/ddbdp/o.wilck;;697
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φαρ(μοῦθι) κε τοῦ κδ (ἔτους) ὀν(όματος) Ἑριέως
+r.2    Φαή(ριος) πρ(εσβυτέρου) Πανα(μέως) ὑπ(ὲρ) τί(μῆς) οἴνο(υ)
+r.3    καὶ φοί(νικος) γενη(μάτων) κγ (ἔτους) (δραχμὰς) τέσσαρας
+r.4    (γίνονται) (δραχμαὶ) δ. Βη ̣( ) σ(εσ)η(μείωμαι). ἄλ(λας) Παχὼ(ν) ζ
+r.5    ὁμ(οίως) (δραχμὰς) τέσσαρες (τετρώβολον) (γίνονται) <δραχμαὶ> δ(τετρώβολον).
+r.6    Βη ̣( ) τέσσαρες τετρώ(βολον)
+r.7    (γίνονται) (δραχμαὶ) δ(τετρώβολον).
+
+[TRANSLATION]
+1     Pharmouthi 25 of the 24th year, in the name of Herieus
+2     (son of) Phaeris the elder (son of) Panames, for the price/tax of wine
+3     and dates of the produce of year 23, four drachmas,
+4     total drachmas 4. I, Be( ), have signed. Another (payment), Pachon 7,
+5     likewise four drachmas, 4 obols, total <drachmas> 4, 4 obols.
+6     Be( ): four, 4 obols,
+7     total drachmas 4, 4 obols.

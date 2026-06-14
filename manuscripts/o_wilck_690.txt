@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 690
+label:    O.Wilck. 690
+name:     Tax receipt - gold-crown tax (two payments)
+genre:    receipts
+date:     8. Nov 180 (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4267
+content:  Panas son of Horos pays 4 dr. then 4 dr. for the gold-crown tax of year 20.
+tm:       77199
+source:   https://papyri.info/ddbdp/o.wilck;;690
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἁθὺρ ιβ τοῦ κα (ἔτους) ὀνό(ματος) Παν(αμέως)
+r.2    Π̣[αν(?)]ᾶς Ὥρου ὑπ(ὲρ) στεφ(άνου) χρυσ(οῦ) κ (ἔτους) ̣ ̣( )
+r.3    δραχμὰ(ς) τέσσαρες (γίνονται) (δραχμαὶ) δ. Ἀπολ( ) σεσ(ημείωμαι).
+r.4    ἄ(λλας) κζ ὁμοίως δραχμὰς τέσσαρες
+r.5    (γίνονται) (δραχμαὶ) δ. Ἀπολ( ) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Hathyr 12 of the 21st year, in the name of Pan(ames),
+2     P[an]as (son of) Horos, for the gold crown(-tax) of year 20, …( )
+3     four drachmas, total drachmas 4. I, Apol( ), have signed.
+4     Another (payment), the 27th, likewise four drachmas,
+5     total drachmas 4. I, Apol( ), have signed.
