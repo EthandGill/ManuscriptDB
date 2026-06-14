@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1271
+label:    O.Wilck. 1271
+name:     Customs-gate poll-tax receipt (Syene, Hadrian)
+genre:    receipts
+date:     121 - 122
+language: Greek (Koiné)
+found:    Elephantine oder Syene
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7863
+content:  Pachnoubis pays 17 dr. poll-tax (plus seal-fee) of year 6 at the sacred gate of Syene, under Sempronius Celer.
+tm:       77655
+source:   https://papyri.info/ddbdp/o.wilck;;1271
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1    Σενπρώνιος Κέλερ καὶ οἱ σὺν [αὐτῷ ἐπιτ(ηρηταὶ) ἱερᾶς πύλ(ης)]
+r.2    Σ̣ο̣ή(νης). διέγραψ(εν) Παχνοῦβις Πετορζ̣[μήθιος ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.3    μη(τρὸς) Τισᾶτις ὑπ(ὲρ) λαο(γραφίας) τοῦ ἕκτου [(ἔτους) Ἁδριανοῦ Καίσαρος]
+r.4    τοῦ κυρίου δραχ(μὰς) δέκα ἑπτὰ (ἡμιωβέλιον) [δεσ(μοῦ) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ιζ(ὀβολὸς). …]
+
+[TRANSLATION]
+1     Sempronius Celer and those with [him, overseers of the sacred gate]
+2     of Syene. Pachnoubis (son of) Petorz[methis …]
+3     (whose) mother is Tisatis, has paid for the poll-tax of the sixth [year of Hadrian Caesar]
+4     the lord, seventeen drachmas, ½ obol [(and) ½ obol seal-fee, total drachmas 17, 1 obol. …]

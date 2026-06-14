@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1263
+label:    O.Wilck. 1263
+name:     Bath-attendants' tax receipt (Tiberius)
+genre:    receipts
+date:     19 - 20
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 6047
+content:  Pasemis and partners, bath-attendants, receive a tax of year 6 of Tiberius from Psenmonthes.
+tm:       77647
+source:   https://papyri.info/ddbdp/o.wilck;;1263
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    α (γίνεται) ̣
+r.2    Πασῆμις καὶ οἱ μετωχω
+r.3    βαλ(ανεῖς) Ψενμώνθῃ Παμώνθ(ου)
+r.4    καὶ Πεκῦσις ἀδελφος . ἔσχο(μεν)
+r.5    πα ἡμῶν ὑπὲρ ̣ ̣ ̣ ̣ (ἔτους) ϛ
+r.6    Τιβερίου Καίσαρος Σεβαστοῦ.
+
+[TRANSLATION]
+1     1, total ..
+2     Pasemis and partners,
+3     bath-attendants, to Psenmonthes (son of) Pamonthes
+4     and Pekysis (his) brother. We have received
+5     from us(sic) for ... year 6
+6     of Tiberius Caesar Augustus.

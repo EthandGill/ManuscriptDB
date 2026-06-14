@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1277
+label:    O.Wilck. 1277
+name:     Beer-and-nitre tax receipt (bank)
+genre:    receipts
+date:     149 - 148 v.Chr. (?)
+language: Greek (Koiné)
+found:    Theben (?)
+held:     (see shelf)
+shelf:    Lemgo, Gymnasium number unknown
+content:  ...us son of Orzmethis pays 120 copper dr. for the beer-and-nitre tax, year 33; through Zopyros.
+tm:       4639
+source:   https://papyri.info/ddbdp/o.wilck;;1277
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) λγ τέτακται
+r.2    ̣ ̣ ̣ ̣υς Ὀρζμηθις
+r.3    ζυ(τηρᾶς) νι(τρικῆς) χα(λκοῦ) (δραχμὰς) ρκ (γίνονται) ρκ.
+r.4    Ζώπυρος ὁ παρὰ
+r.5    Μενάνδρου.
+
+[TRANSLATION]
+1     Year 33: there has been paid,
+2     ...us (son of) Orzmethis,
+3     (for) the beer-and-nitre (tax), 120 copper drachmas, total 120.
+4     Zopyros, the agent of
+5     Menandros.

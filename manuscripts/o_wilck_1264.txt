@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1264
+label:    O.Wilck. 1264
+name:     Wine-price tax for the annona (Antoninus-era)
+genre:    receipts
+date:     20. Mar 183
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4225
+content:  Miysis and partners receive from Decimus the price-tax on wine of the year-22 produce, for the annona.
+tm:       77648
+source:   https://papyri.info/ddbdp/o.wilck;;1264
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Μιῦσις καὶ (μέτοχοι) ἐπιτ(ηρηταὶ) τι(μῆς)
+r.2    οἴνου καὶ φοι(νίκων) Δέκμῳ πρ(εσβυτέρῳ)
+r.3    Ἡρακλ(ᾶτος). ἔσχ(ομεν) παρὰ σο(ῦ) ὑπ(ὲρ) τι(μῆς) οἴν(ου)
+r.4    γενή(ματος) κβ (ἔτους) εἰς̣ ἀννῶν(αν)
+r.5    (ἔτους) κ̣γ̣ Φαμ(ενὼθ) κδ.
+
+[TRANSLATION]
+1     Miysis and partners, overseers of the price
+2     of wine and dates, to Decimus the elder
+3     (son of) Heraklas. We have received from you for the price of wine
+4     of the produce of year 22, for the annona.
+5     Year 23, Phamenoth 24.

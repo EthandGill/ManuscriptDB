@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1274
+label:    O.Wilck. 1274
+name:     River-guard tax receipt (Elephantine)
+genre:    receipts
+date:     I - IV
+language: Greek (Koiné)
+found:    Elephantine
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 345
+content:  Ammonios pays 3 dr. 3 ob. for the river-guard assessment of year 3, of Elephantine.
+tm:       77658
+source:   https://papyri.info/ddbdp/o.wilck;;1274
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1    [… Ἐλ]εφ(αντίνης). διέ(γραψεν) Ἀμμώνιος
+r.2    [… ἐ]ξωδιασθ( ) ̣ ̣ ̣ ̣τι ̣( )
+r.3    […] καὶ ὑπ(ὲρ) μερισμοῦ ποταμ(οφυλακίας)
+r.4    [… γενή]ματ(ος) γ (ἔτους) (δραχμὴν) α(τριώβολον) (γίνονται) (δραχμαὶ) γ(τριώβολον).
+r.5    (hand 2) […]ς σεσημίωμαι .
+
+[TRANSLATION]
+1     [… (of) El]ephantine. Ammonios has paid
+2     […] disbursed …,
+3     […] and for the assessment of the river-guard
+4     [… of the produce] of year 3, 1 dr. 3 obols, total drachmas 3, 3 obols(?).
+5     (2nd hand) […]s, I have signed.

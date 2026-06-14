@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1287
+label:    O.Wilck. 1287
+name:     Watchtower- and bath-tax receipt (Hadrian)
+genre:    receipts
+date:     20. Nov 119
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1601
+content:  Apollodoros receives 3 dr. 4½ ob. for watchtower and bath-tax of Charax of year 4 of Hadrian from Pansnos.
+tm:       77668
+source:   https://papyri.info/ddbdp/o.wilck;;1287
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀπολλόδ(ωρος) πράκ(τωρ) Πανσνως
+r.2    Ὥρου. ἀπέχ(ω) ὑπ(ὲρ) σκοπ(έλου) καὶ β(αλανικοῦ)
+r.3    Χά(ρακος) δ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) τρῖς ὀβ(ολοὺς) δ𐅵.
+r.4    (ἔτους) δ Ἁδριανοῦ Καίσαρος
+r.5    τοῦ κυρίου Ἁθὺρ κγ.
+r.6    Ποριεύ(θης) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Apollodoros, collector, to Pansnos
+2     (son of) Horos. I have received for watchtower and bath-tax
+3     of Charax of year 4, base drachmas three, 4½ obols.
+4     Year 4 of Hadrian Caesar
+5     the lord, Hathyr 23.
+6     I, Porieuthes, have signed.

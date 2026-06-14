@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1291
+label:    O.Wilck. 1291
+name:     'Doubles' tax receipt (Antoninus)
+genre:    receipts
+date:     6. Febr. 148
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4372
+content:  Didymos receives 1 dr. for the doubles of year 11 of Antoninus from Petepsais.
+tm:       77672
+source:   https://papyri.info/ddbdp/o.wilck;;1291
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Δίδυμος πράκ(τωρ) ἀργ(υρικῆς) Χάρακ(ος)
+r.2    Πετεψᾶτι [Ποριεύ(θου(?))] ἔσχ(ομεν) ὑπ(ὲρ)
+r.3    διπλῶν ια (ἔτους) ῥυπ(αρὰν) (δραχμὴν) μίαν (γίνεται) ῥυ(παρὰ) (δραχμὴ) α. (ἔτους) ια
+r.4    Ἀντωνίνου Καίσαρος τοῦ κυρίου Μεχεὶρ ια.
+r.5    Δί(δυμος) διὰ Φατ(ρέους) γρ(αμματέως) σε(σημείωμαι).
+
+[TRANSLATION]
+1     Didymos, collector of money-taxes of Charax,
+2     to Petepsais [(son of) Porieuthes]. We have received for
+3     the doubles of year 11, one base drachma, total base drachma 1. Year 11
+4     of Antoninus Caesar the lord, Mecheir 11.
+5     I, Didymos, through Phatres the scribe, have signed.

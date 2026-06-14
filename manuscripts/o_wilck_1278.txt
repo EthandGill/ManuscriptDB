@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1278
+label:    O.Wilck. 1278
+name:     Orchard-tax receipt
+genre:    receipts
+date:     IV - I v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4021
+content:  Neon acknowledges to Horos 1500 (dr.) for the plot-tax (the 1/6 on fruit-trees), year 12.
+tm:       43572
+source:   https://papyri.info/ddbdp/o.wilck;;1278
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Νέων Ὡρος χαίρειν. [ἔχω]
+r.2    παρὰ σοῦ τὸ τέλος τόπ̣[ου τῆς]
+r.3    ἕκτης ἀκροτρύων […]
+r.4    (γίνονται) Αφ. (ἔτους) ιβ Παῦνι θ […]
+
+[TRANSLATION]
+1     Neon to Horos, greeting. [I have]
+2     from you the tax on the plo[t, of the]
+3     sixth (1/6) on fruit-trees […]
+4     total 1500. Year 12, Pauni 9 […]

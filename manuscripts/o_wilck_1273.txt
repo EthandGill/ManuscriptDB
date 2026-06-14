@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1273
+label:    O.Wilck. 1273
+name:     Date-palm tax receipt (Antoninus)
+genre:    receipts
+date:     9. Dec 143
+language: Greek (Koiné)
+found:    Elephantine oder Syene
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7870
+content:  NN son of Melas pays 48 dr. 4 ob. for the price of public dates of year 6 of Antoninus.
+tm:       77657
+source:   https://papyri.info/ddbdp/o.wilck;;1273
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1    [ ̣ ̣ ̣ ̣ ̣ ̣ ̣]ς ̣ ̣ ̣ ̣
+r.2    [ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ̣ Μέλανος Ἐσου-
+r.3    [ήριος(?) ὑπ(ὲρ) τι(μῆς) δη(μοσίου)] φοίνικ(ος) γενήμ(ατος) ϛ (ἔτους)
+r.4    [Ἀντων(ίνου) Καίσα]ρος τοῦ κυρίου ἀπὸ (δραχμῶν) ϙζ
+r.5    5[ῥ]υ̣π̣(αρὰς) δ̣ρ̣α̣χ(μὰς) {(δραχμὰς)} μη(τετρώβολον). (ἔτους) ζ
+r.6    Ἀντονίνου Καίσαρος τοῦ κυρίου
+r.7    μηνὸς Ἁδρειανοῦ ιβ.
+
+[TRANSLATION]
+1     […]s …
+2     […] (son of) Melas (son of) Esou-
+3     [eris(?), for the price of public] dates of the produce of year 6
+4     [of Antoninus Caes]ar the lord, out of 97 (drachmas),
+5     [ba]se drachmas 48, 4 obols. Year 7
+6     of Antoninus Caesar the lord,
+7     in the month Hadrianos 12.

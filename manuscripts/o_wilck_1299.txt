@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1299
+label:    O.Wilck. 1299
+name:     Land-survey tax account (Charax)
+genre:    receipts
+date:     II
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Lemgo, Gymnasium number unknown
+content:  A land-survey-tax account for Charax, naming payers and their drachma amounts.
+tm:       77680
+source:   https://papyri.info/ddbdp/o.wilck;;1299
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    γεο(μετρίας) Χ(άρακος). Πικῶς πρ(εσβύτερος) Μεσουή(ριος)
+r.2    (δραχμὰς) θ (ὀβολοὺς) δ𐅵.
+r.3    Σενπικῶς Θοτέως (δραχμὰς) ε (ὀβολοὺς) ε𐅵 (χαλκοὺς 1).
+r.4    Τανομιεύως Ἰ ναρῶ(τος) (δραχμὰς) ε(διώβολον).
+r.5    Τρεμπαποπουήσιος πρ(εσβυτέρας)
+r.6    Δάμωνος (δραχμὰς) β(πεντώβολον).
+r.7    Τισάτιος Φαή(ριος) (δραχμὴν) α.
+
+[TRANSLATION]
+1     Land-survey tax of Charax. Pikos the elder (son of) Mesoueris:
+2     9 drachmas, 4½ obols.
+3     Senpikos (son of) Thoteus: 5 drachmas, 5½ obols, 1 chalkous.
+4     Tanomieus (son of) Inaros: 5 drachmas, 2 obols.
+5     Trempapopouesis the elder (daughter of)
+6     Damon: 2 drachmas, 5 obols.
+7     Tisatis (son of) Phaeris: 1 drachma.

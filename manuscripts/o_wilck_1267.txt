@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1267
+label:    O.Wilck. 1267
+name:     Tax receipt (Vespasian)
+genre:    receipts
+date:     71 - 72
+language: Greek (Koiné)
+found:    Elephantine oder Syene
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7865
+content:  NN son of Sarapion pays a tax of the 4th year of Vespasian; written by Melanthis.
+tm:       77651
+source:   https://papyri.info/ddbdp/o.wilck;;1267
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1    [διέγρ(αψεν) ̣ ̣ ̣ ̣ ̣ ̣ Σ]αραπίωνος
+r.2    [- …13 -] ̣ τὸ δ Οὐεσπασιανοῦ
+r.3    [τοῦ κυρίου ̣ ̣ ̣ ̣ ̣] κη ἀργ(υρίου) δραχ(μὰς)
+r.4    [ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ Μελά]νθις Ἑρμοδότου
+r.5    5[ἔγραψα].
+
+[TRANSLATION]
+1     [NN (son of) S]arapion has paid
+2     […] the 4th (year) of Vespasian
+3     [the lord …] 28, in silver, drachmas […];
+4     [I, Mela]nthis (son of) Hermodotos,
+5     [wrote (this)].

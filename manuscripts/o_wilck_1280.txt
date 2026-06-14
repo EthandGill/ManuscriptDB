@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1280
+label:    O.Wilck. 1280
+name:     Embankment-tax receipt (Nero)
+genre:    receipts
+date:     14. Jul 59
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4420
+content:  Psenmonthes pays 6 dr. 4 ob. embankment-tax of year 5 of Nero; I, Sabinos, have signed.
+tm:       77661
+source:   https://papyri.info/ddbdp/o.wilck;;1280
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [διαγεγρ(άφηκεν) Ψ]ενμώνθης ε̣ρα( ) Ἑρμίου ὑπ(ὲρ) χω(ματικοῦ) ε (ἔτους) (δραχμὰς) ἕξ
+r.2    [τετρώβ(ολον) (γίνονται) (δραχμαὶ) ϛ(τετρώβολον)] καὶ προσδ(ιαγραφόμενα). (ἔτους) ε Νέρωνος Κλαυδίου
+r.3    [Καίσαρος Σεβα]στοῦ Γερμανικοῦ Αὐτοκράτορος Ἐπεὶφ κ. Σ̣α̣β̣ῖ̣ν̣ο̣ς̣ Πε̣κ(ύσιος(?)) σεση(μείωμαι).
+
+[TRANSLATION]
+1     [Ps]enmonthes (son of) era( ) (son of) Hermias has paid for the embankment-tax of year 5, six drachmas,
+2     [four obols, total drachmas 6, 4 obols,] and surcharges. Year 5 of Nero Claudius
+3     [Caesar Augu]stus Germanicus Imperator, Epeiph 20. I, Sabinos (son of) Pekysis, have signed.

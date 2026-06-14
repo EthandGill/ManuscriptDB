@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1293
+label:    O.Wilck. 1293
+name:     Tax payment (Antoninus)
+genre:    receipts
+date:     138 - 179
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 57 \[ostracon\
+content:  NN pays 110 (units) for a month's account, reign of Antoninus.
+tm:       77674
+source:   https://papyri.info/ddbdp/o.wilck;;1293
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    διέγρ(αψεν) […]
+r.2    εἰς ἀρίθ(μησιν) μην[ὸς …]
+r.3    ἐκατὸν δέκα […]
+r.4    Ἀντωνίνου Κ[αίσαρος …]
+
+[TRANSLATION]
+1     [NN] has paid
+2     for the account of the mon[th …]
+3     one hundred and ten […]
+4     of Antoninus C[aesar …]

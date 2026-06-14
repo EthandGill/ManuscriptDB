@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1269
+label:    O.Wilck. 1269
+name:     Poll-tax receipt (Trajan)
+genre:    receipts
+date:     113 - 114
+language: Greek (Koiné)
+found:    Elephantine oder Syene
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 23 \[ostracon\
+content:  Bienchis son of Psansnos pays 8 dr. poll-tax of year 16 of Trajan, on account.
+tm:       77653
+source:   https://papyri.info/ddbdp/o.wilck;;1269
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1    διέγραψ(εν) Βιῆ[γχις Ψαν-]
+r.2    σνῶτος μη(τρὸς) Ταπ̣ ̣[ ̣ ̣ ̣ ̣ ὑπ(ὲρ)]
+r.3    λαογραφί(ας) τοῦ ιϛ (ἔτους) [Τραιανοῦ]
+r.4    τοῦ κυρίου ἐπὶ λόγ(ου) [δραχ(μὰς)]
+r.5    ὀκτὼ (γίνονται) (δραχμαὶ) η. (ἔτους) ιζ
+r.6    [Τρ]αιανοῦ τοῦ κυρίου
+r.7    [- …10 -] δραχ(μὰς) [ ̣ ̣ ̣ ̣].
+
+[TRANSLATION]
+1     Bienchis (son of) [Psan-]
+2     snos, (whose) mother is Tap.[..., for]
+3     poll-tax of year 16 [of Trajan]
+4     the lord, on account, [drachmas]
+5     eight, total drachmas 8. Year 17
+6     of [Tr]ajan the lord,
+7     […] drachmas [....]

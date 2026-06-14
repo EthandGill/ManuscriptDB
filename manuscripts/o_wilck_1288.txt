@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1288
+label:    O.Wilck. 1288
+name:     Embankment-tax receipt (Hadrian)
+genre:    receipts
+date:     26. Jul 126
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4509
+content:  Pikos receives 7 dr. 1 ob. embankment-tax of year 10 of Hadrian from Amenothes.
+tm:       77669
+source:   https://papyri.info/ddbdp/o.wilck;;1288
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πικῶς πράκ(τωρ) ἀργ(υρικῆς) Ἀμεν-
+r.2    ώθου Ἁρβηχι Σενχεσ(θώτου).
+r.3    ἔσχ(ον) ὑπὲρ χω(ματικοῦ) καὶ ̣ ̣ ̣ ̣ι (ἔτους)
+r.4    ῥυπ(αρὰς) (δραχμὰς) ἑπτὰ ὀβολ(ὸν) (γίνονται) ζ(ὀβολὸν).
+r.5    (ἔτους) ι Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.6    Μεσορὴ β.
+
+[TRANSLATION]
+1     Pikos, collector of money-taxes, to Amen-
+2     othes (son of) Harbechis (son of) Senchesthotis.
+3     I have received for embankment-tax and ..i of year (10),
+4     base drachmas seven, 1 obol, total 7 dr. 1 obol.
+5     Year 10 of Hadrian Caesar the lord,
+6     Mesore 2.

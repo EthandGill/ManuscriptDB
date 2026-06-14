@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1292
+label:    O.Wilck. 1292
+name:     Land-survey tax receipt (Antoninus)
+genre:    receipts
+date:     3. Dec 151 (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Lemgo, Gymnasium number unknown
+content:  Petechonsis receives 16 dr. land-survey tax of year 13 of Antoninus from Herakleides.
+tm:       77673
+source:   https://papyri.info/ddbdp/o.wilck;;1292
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πε(τε)χῶ(νσις) π[ράκ(τωρ)] ἀργ(υρικῆς) Χά(ρακος) Ἡρακλείδο(υ)
+r.2    ὑπ(ὲρ) γεο(μετρίας) ιγ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) δέκα ἓξ (γίνονται) ῥυ(παραὶ) (δραχμαὶ) ιϛ.
+r.3    (ἔτους) ιδ Ἀντω(νίνου) Καίσαρος τοῦ κυρίου
+r.4    Φα(μενὼ)θ α. Πε(τε)χῶ(νσις) ̣ ̣ ̣ ̣
+r.5    (hand 2) ἄλλαι Ἁδρ(ιανοῦ(?)) ϛ ὀν̣[ό(ματος) το(ῦ) αὐτ(οῦ)] ὑπ(ὲρ) γε[ω(μετρίας)]
+
+[TRANSLATION]
+1     Petechonsis, c[ollector] of money-taxes of Charax, to Herakleides:
+2     for the land-survey tax of year 13, base drachmas sixteen, total base drachmas 16.
+3     Year 14 of Antoninus Caesar the lord,
+4     Phamenoth 1. Petechonsis ....
+5     (2nd hand) Others, Hadrianos(?) 6, in the na[me of the same], for la[nd-survey tax]

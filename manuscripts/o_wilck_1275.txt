@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1275
+label:    O.Wilck. 1275
+name:     Tax receipt (Syene)
+genre:    receipts
+date:     I - IV
+language: Greek (Koiné)
+found:    Elephantine oder Syene
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7867
+content:  Fragmentary Syene tax receipt mentioning wheat, year 1, Epeiph 4.
+tm:       77659
+source:   https://papyri.info/ddbdp/o.wilck;;1275
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1    Πετ[ε …]
+r.2    Σοή(νης) εν[…]
+r.3    χαει χα ̣[…]
+r.4    πυροῦ μίαν ̣[…]
+r.5    (ἔτους) α Ἐπὶφ δ ̣ ̣ ̣[…]
+r.6    της.
+
+[TRANSLATION]
+1     Pet[e …]
+2     of Syene, …[…]
+3     ..., gree[ting? …]
+4     of wheat one .[…]
+5     Year 1, Epeiph 4 .[…]
+6     ...tes.

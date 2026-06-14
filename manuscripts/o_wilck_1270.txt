@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1270
+label:    O.Wilck. 1270
+name:     Poll-tax receipt (Syene, Trajan)
+genre:    receipts
+date:     25. Jul - 23. Aug 115
+language: Greek (Koiné)
+found:    Elephantine oder Syene
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7868
+content:  Ammonios and the money-tax collectors of Syene record a payment, year 18 of Trajan.
+tm:       77654
+source:   https://papyri.info/ddbdp/o.wilck;;1270
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1    Ἀμμώνιο(ς) καὶ οἱ σὺν αὐτῷ πράκ[τορες ἀργ(υρικῆς) Σοή(νης). διέγρ(αψεν) ̣ ̣ ̣ ̣]
+r.2    διʼ Ἀμμωνίου ?. (ἔτους) ιη Τραιαν[οῦ Ἀρίστου τοῦ κυρίου]
+r.3    Μεσορ[ὴ ̣ ̣].
+
+[TRANSLATION]
+1     Ammonios and the collectors of money-taxes with him, of Syene. [NN] has paid
+2     through Ammonios(?). Year 18 of Traja[n Optimus the lord,]
+3     Mesor[e ..].
