@@ -65,7 +65,11 @@ RULES = [
  (r"γενή"+P+r"|γ"+P+r"ή"+P+r"|γενημ"+P+r"|γενη"+P+r"|γ\(ενήματος\)|γ\(εν\)ή"+P, "of the produce"),
  (r"διὰ γεω"+P+r"|δι"+P+r"\s*γ"+P+r"|διὰ γ"+P, "through the cultivator"),
  (r"εἰς ἀρίθ"+P+r"\s*μη"+P, "for the account of the month"),
- (r"τοῦ κυρίου|τοῦ κυρ"+P, "the lord"),
+ (r"τοῦ κυρίου|τοῦ κυρ"+P+r"|του κυ"+P+r"|τοῦ κυ"+P, "the lord"),
+ (r"τῶν κυρίων", "the lords"), (r"Σεβασ"+P+r"|Σεβαστῶν", "Augusti"),
+ (r"Αὐρηλίου|Αὐρη"+P+r"ου|\[Αὐρη\]λίου", "Aurelius"), (r"Οὐήρου|Ο\[ὐήρου\]", "Verus"),
+ (r"παρελάβ\w*|παρελαβ\w*", "we have received"),
+ (r"γενήματος|γενημ\w*|γενη\w*(?!\))", "of the produce"),
  (r"παρὰ σο\w*", "from you"),
  (r"στεφ"+P+r"\s*χρ?"+P, "the gold-crown tax"),
  (r"τι"+P+r"\s*οἴν\w*", "the price of wine"),
@@ -143,6 +147,7 @@ RULES = [
  (r"τέταρτον|τέταρτο"+P, "and a quarter"), (r"ἕκτον|ἕκτο"+P, "and a sixth"),
  (r"ὄγδοον|ὄγδο"+P, "and an eighth"), (r"δωδέκατον|δωδέκ"+P, "and a twelfth"),
  (r"τετρακ"+P+r"|τετρακαιεικοστ\w*", "and a twenty-fourth"), (r"δίμοιρον|δίμο"+P, "and two-thirds"),
+ (r"δωδέκατο\w*|δωδέκατο"+P, "and a twelfth"),
  (r"ἐπαγο"+P+r"|ἐπαγομενῶν", "intercalary days"),
  (r"\(ἔτους\)|\(ἔτει\)|\(ἔτος\)", "year"), (r"ἔτους", "year"),
 ]
@@ -161,9 +166,14 @@ def gloss_line(greek):
     # merge leftover name-abbreviation parens: "Ψανσνῶτο(ς)" -> "Ψανσνῶτος"; drop "( )"
     s = re.sub(r"\(\s*\)", " ", s)
     s = re.sub(r"([%s])\(([%s]+)\)" % (GRK,GRK), r"\1\2", s)
-    # Greek numerals: ONLY space-bounded tokens (years, days, amounts), not letters in words
+    # Greek numerals: ONLY space-bounded tokens (years, days, amounts), not letters in words.
+    # Skip common function-word forms that happen to be all numeral-letters.
+    STOP = {'του','τοῦ','των','τῶν','τον','τὸν','τω','τῷ','τὸ','τα','τὰ','ον','ων','ος','ου',
+            'οὐ','σου','σοῦ','συ','σὺ','ρον','νον','τι','τις','ος','ως','ο','η','ηι'}
     def numsub(m):
-        v = grknum(m.group(1))
+        tok = m.group(1)
+        if tok in STOP: return m.group(0)
+        v = grknum(tok)
         return (" "+str(v)+" ") if v is not None else m.group(0)
     s = re.sub(r"(?:^|\s)([αβγδεϛζηθικλμνξοπρστυφχψω]{1,4})(?=[\s.,·]|$)", numsub, s)
     # transliterate any remaining Greek-script runs (personal names)
