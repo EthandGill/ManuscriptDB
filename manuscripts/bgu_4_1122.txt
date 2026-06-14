@@ -1,0 +1,111 @@
+# ---------------------------------------------------------
+# BGU 4.1122 - Vineyard-planting labour contract
+# Source: papyri.info DDbDP bgu;4;1122  (Trismegistos 18564)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1122
+label:    BGU 4.1122
+name:     Vineyard-planting labour contract
+genre:    contracts
+date:     31 Mar 13 BCE
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Warsaw, Department of Papyrology P. Berlin 13047 Vo
+content:  Papos and Ptolemaios contract with Gaius to plant and bring up two arouras of vines near Taphilis over three years for 450 dr. (200 paid, balance in installments); they must dig, water, replace failed vines, and hand over the arouras flourishing, with penalties and joint liability
+tm:       18564
+source:   https://papyri.info/ddbdp/bgu;4;1122
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   κόλ(λημα)
+r.2   Πρ[ωτάρχ]ωι
+r.3   [παρὰ] Γ[αίου] ̣ ̣ ̣ ̣ ̣ι̣[ ̣]ν̣α̣σ̣ι[ ̣]ν̣ο̣υ̣ καὶ παρὰ Πάπου καὶ Πτολ(εμαίου) ἀμφο(τέρων) ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣
+r.4   π̣ε̣ρ ̣ ̣( ) [ ̣ ̣ ̣] ̣ ̣ ̣ περὶ̣ τ̣ὰ διεσταμέν̣α̣ συνχωροῦμεν ἐπὶ τοῖσδε ὥ̣σ̣τ̣ε ἐπε̣ὶ̣ ἐ̣ξ̣-
+r.5   ειλή(φασιν) [ὅ τε] Πάπος καὶ Πτολ(εμαῖος) παρὰ τοῦ Γαίο(υ) κατα̣[φ]υ̣τε̣ί̣(αν) ἀναγω(γὴν) - ca.9 -
+r.6   ἐπὶ χρό(νον) (ἔτη) τ̣ρ̣ί̣α̣ ἀ̣π̣ὸ̣ τ̣ο̣ῦ̣ ἐ̣ν̣ε̣σ̣(τῶτος) ιζ (ἔτους) Καίσαρος ἀρούρας δύο ο̣ὔ̣σ̣α̣ς̣ ἐν τοῖς ὑπάρ-
+r.7   χουσι αὐτῶι ἀμπελικ(οις) κτήμασι περὶ [κώ]μη(ν) Ταφιλις τ̣ῆ̣(ς) ̣ ̣ ̣ ̣ ̣ ̣
+r.8   μίαν ἐν ἐ̣π̣ι̣[σ]ήμωι Μούσαις, τὴν δὲ ἑτέραν ἐν ἐ̣π̣ι̣σήμωι ̣ ̣ ̣ ̣
+r.9   πριστει μισθοῦ τοῦ ἑσταμένου τ̣ῶ̣ν̣ δ̣ύ̣ο̣ ἀρουρ(ῶν) ἀ̣ρ̣γ̣υ̣ρ̣ί̣ο̣υ̣ Π̣τ̣ο̣λ̣(εμαικοῦ)
+r.10   δραχμῶ(ν) τετρακοσίων πεντήκοντα, ἀφʼ ὧν καὶ αὐτόθεν ἔ̣χ̣ειν παρὰ τ̣ο̣ῦ̣
+r.11   Γ̣αίο̣υ̣ [ ̣ ̣ ̣]ρ̣α̣π̣( ) διὰ χειρὸς ἐξ οἴκου ἀργ(υρίου) (δραχμὰς) σ, τὰς δὲ λοιπ(ὰς) (δραχμὰς) σν
+r.12   λήμψ[οντ]α̣ι̣ [ἐν] δ̣ό̣σεσι ἰσομερέσι δυσὶ Μεχεὶρ τοῦ εἰσιόντο(ς)
+r.13   ιη (ἔτους) Καίσαρος (δραχμὰς) ρκε, τὴν δὲ δευτέραν ἐπὶ τῆς ἀναγωγῆς τὰς λοιπ(ὰς)
+r.14   δραχμὰς ρ̣κ̣ε̣, ἀπὸ δὲ τοῦ νῦν ἐπιτελ(έσειν) αὐτοὺς Πάπ̣ο̣ν̣ κ̣α̣ὶ̣ Π̣τ̣ο̣λ̣(εμαῖον)
+r.15   ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ἀμπ(ελ ) ̣ ̣ ̣ ̣ο̣ι̣ν̣ο̣π̣( ) ̣ ̣ ̣ ̣
+r.16   τὰ τῆς φυ[τεί]ας τῶν δύο ἀρουρῶ(ν) τ̣ι̣θέντες τὸ φυτὸν ἐν̣ ̣ ̣ ̣ ̣ α̣ρ̣ο̣υ̣ρ̣ ̣ ̣
+r.17   α̣ρ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ἔ̣χ̣ο̣ν̣ τὸ καθῆκον βάθος.
+r.18   κάλαμο̣ν̣
+r.19   σκάπτοντας
+r.20   καὶ ποτίζοντας κατὰ τρόπ(ον) ἐν τοῖς δέουσι καιροῖς τοῦ Γαίου παρέ-
+r.21   χο̣ν̣τ̣ο̣ς̣ αὐτοῖς τὸ φυτὸ(ν) ἐπὶ τοῦ βοθύνου καὶ χάρακας καὶ φλοῦν καὶ τὸν κάλαμον
+r.22   τὰ αὐταρκ(οῦντα)
+r.23   καὶ τὸ̣ ὕ̣δ̣ω̣[ρ ἐπ]ὶ̣ τῆ(ς) στάσεως μὴ ἐξόντος αὐτο(ῖς) ἐγλιπ(εῖν) τὴ(ν) ἔγλημ-
+r.24   ψιν ἐντὸς τοῦ χρό(νου)
+r.25   ἐφʼ ὃν καὶ ἐὰν συνβῇ τινα τῶν φυτῶν δ̣ι̣α̣λ ̣ ̣ ̣η(ναι(?)) καταφυ-
+r.26   τεύσειν αὐτο(ὺς) ἐ̣κ̣ τ̣ο̣ῦ̣ ἰδίου αὐτενίαυ(τα) μηδὲ̣ν̣ χείρο(να)
+r.27   καὶ ἐπὶ δὲ τοῦ σ̣υ̣ν̣πληρω(θῆναι) τ̣ο̣ῦ̣τ̣ο̣ν̣ παραδώσειν α̣ὐ̣τ̣(οὺς)
+r.28   τὰς δύο ἀρούρ(ας) συνφύτους καὶ εὐθηνούσας καὶ ἀναγ̣ο̣μ̣έ̣ν̣(ας)
+r.29   ἐπὶ τ̣ὸ̣ ἴ̣σ̣ο̣ν̣, ἐὰν δέ τι παραβαίνω(σιν) εἶναι αὐτο(ὺς) παραχ(ρῆμα)
+r.30   ἀγωγίμ[ο(υς)] καὶ σ̣υ̣ν̣έχρι τοῦ ἐκτῖσ(αι) ἅ τ̣ε ἔ̣χ̣ο̣υ̣σ̣ι̣ τοῦ μισθοῦ καὶ
+r.31   ὃ̣ ἐὰν μ̣έ̣ρος λάβω̣(σι) σὺν ἡ(μιολίᾳ) καὶ ̣ ̣ ̣ ̣ καταβλάψω(σι) διπλο̣ῦ̣ν̣
+r.32   καὶ τὰ βλ(άβη) καὶ δαπ(ανήματα) καὶ ἐπίτιμ(ον) ἀργ(υρίου) (δραχμὰς) φ καὶ τὸ ὡρι(σμένον) πρό(στιμον) τῆς πρ(άξεως) γεινο(μένης)
+r.33   τῶι Γαίωι ἔκ τε ἀμφ(οτέρων) ἀλλήλ(ων) ἐ̣ν̣γ̣(ύων) εἰς ἔκ(τισιν) καὶ ἐξ ἑνὸς καὶ ἐξ οὗ ἐὰν αἱρ(ῆται) καὶ
+r.34   ἐκ τῶν ὑπαρχ(όντων) αὐ(τοῖς) πάντων καθάπ(ερ) ἐγ δίκ(ης) ἀκύρ(ων) οὐσ(ῶν) καὶ ὧν ἐὰν ἐπενένκ(ωσι) π̣ί̣σ̣τ̣(εων) [πασ(ῶν)]
+r.35   σκέπη(ς) πάση(ς) μηδὲν ἧσσ(ον) ἐξουσί(ας) οὔση(ς) τῶι Γαίωι παρασυνγρα-
+r.36   φοῦντας αὐτο(ὺς) μεθ[ι]σταμέ(νωι) τῆς ἐγλή(μψεως) ἐντὸς τοῦ χρό(νου) καὶ ἑτέρ(οις)
+r.37   μεταμισθοῦν καὶ πράσ(σειν) τὸ ἐσόμ(ενον) ἀφεύρεμ(α) παρὰ τὴ(ν) ἀναμίσθω(σιν),
+r.38   ποιούντων δὲ αὐτῶν ἕκαστα ἀκολ(ούθως) καὶ τὸν Γάιο(ν) παρέχεσθαι αὐτο(ῖς)
+r.39   τὴ(ν) ἔγλη(μψιν) ἐπὶ τὸ(ν) χρό(νον) καὶ προσαποδ̣ι̣δ̣ό̣ναι τὸ λοιπ(ὸν) τοῦ μισθοῦ
+r.40   ἐν ταῖς σεση(μασμέναις) δόσεσι ἢ καὶ αὐτ(ὸν) ἐκτίν(ειν) τὸ ἴσο(ν) ἐπίτιμ(ον) μενού-
+r.41   σης τῷ Γαίωι τῆς ἐπὶ το(ὺς) αὐτο(ὺς) Πάπον καὶ Πτολ(εμαῖον) ἐφόδου
+r.42   π̣ε̣ρ̣[ί] τ̣ε̣ μισθώσεων τῶν προκ(ειμένων) κτη̣(μάτων) κ̣α̣ὶ̣ ὧν ὀ̣φείλω̣σ(ιν)
+r.43   (ἔτους) ιζ Καίσαρος Φαρμο(ῦθι) ε.
+
+[TRANSLATION]
+1   (Sheet.)
+2   To Pr[otarch]os.
+3   [From] G[aius] ..., and from Papos and Ptolemaios, both sons of ...:
+4   concerning the matters in dispute we agree on these terms, namely: since
+5   Papos and Ptolemaios have taken over from Gaius the planting (and) bringing-up (of vines) ...
+6   for a period of three years from the present 17th year of Caesar, (for) two arouras which are among the
+7   vineyard-properties belonging to him near the village of Taphilis of the ...,
+8   one in the plot marked 'Muses', the other in the plot marked ...,
+9   ...; at the fixed wage for the two arouras, of four hundred and
+10   fifty Ptolemaic silver drachmas, of which they (acknowledge) having here and now received from
+11   Gaius, by hand from the house, 200 silver drachmas, and the remaining 250 dr.
+12   they will receive [in] two equal installments: (in) Mecheir of the coming
+13   18th year of Caesar, 125 dr., and the second, at the bringing-up (of the vines), the remaining
+14   125 drachmas; and that from now Papos and Ptolemaios will carry out
+15   ... vine ... wine ...
+16   the planting of the two arouras, setting the vine-shoot in ... aroura(s)
+17   ... having the proper depth,
+18   (providing) reed,
+19   digging,
+20   and watering duly at the proper seasons, Gaius pro-
+21   viding them with the vine-shoot at the trench, and stakes and reed-grass and the reed,
+22   in sufficient quantity,
+23   and the wat[er] at the standing(?); they not being permitted to abandon the under-
+24   taking within the period;
+25   and if any of the vines should happen to fail, they shall re-
+26   plant them at their own expense, within the same year, no worse (than before);
+27   and at the completion of this (period) they shall hand over
+28   the two arouras fully planted and flourishing and brought up,
+29   to the same standard; and if they transgress anything, they shall be immediately
+30   subject to execution and held until they repay both what they have of the wage and
+31   whatever portion they have received, with half as much again, and whatever they damage, twofold,
+32   and the damages and expenses and a penalty of 500 silver drachmas and the fixed fine, the right of execution being
+33   Gaius', against both, who are mutually surety for payment, and against either one, whichever he chooses, and
+34   against all their property, as if by legal judgment, (all) pleas which they may bring being void,
+35   and every protection (notwithstanding); Gaius nonetheless having the power, should they
+36   breach the contract by withdrawing from the undertaking within the period, to (remove them) and to others
+37   re-let it, and to exact whatever shortfall results from the re-letting;
+38   and, they performing each duty accordingly, Gaius too is to provide them
+39   the undertaking for the period, and to pay over the balance of the wage
+40   in the stated installments, or himself pay the same penalty, there remain-
+41   ing to Gaius his recourse against the same Papos and Ptolemaios
+42   concerning the leases of the aforesaid properties and whatever they owe.
+43   Year 17 of Caesar, Pharmouthi 5.

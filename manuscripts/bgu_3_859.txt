@@ -1,0 +1,107 @@
+# ---------------------------------------------------------
+# BGU 3.859 - Sale of a home-born slave child, Kosmos
+# Source: papyri.info DDbDP bgu;3;859  (Trismegistos 9386)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.859
+label:    BGU 3.859
+name:     Sale of a home-born slave child, Kosmos
+genre:    contracts
+date:     161-163 CE
+language: Greek (Koine)
+found:    Arsinoite nome (provenance uncertain), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7832
+content:  Lucius Vibius Cassianus sells to Ammonios his home-born three-year-old slave Kosmos (offspring of the slave-woman Demetrous), "as is, not returnable" except for epilepsy and legal claim, for 300 dr. set against nursing-fees and a debt
+tm:       9386
+source:   https://papyri.info/ddbdp/bgu;3;859
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   [- ca.65 - ὁμολογεῖ]
+r.2   [Λούκιος Οὐίβιος Κασιανὸς π]επρακέν̣α̣ι̣ <τῷ> αὐτῷ Ἀ̣μ̣μω̣νίῳ κατὰ τήνδε τὴν ὁμολογίαν
+r.3   τῇ ἐ̣ν̣εσ-
+r.4   [τώσῃ ἡμέρᾳ τὸ ὑπάρχον τῷ] Κ̣[α]σιανῷ οἰκογεν[ὲς] δουλικὸν ἔνγονον ὀνόματι Κόσμον
+r.5   ἐτῶν τριῶν
+r.6   [- ca.25 - ὃ ἐγαλακτο]τρόφησεν καὶ ἐτιθήνησεν ἡ τοῦ Ἀμμωνίου δούλη Δημητροῦς, ἥνπερ
+r.7   [ἐξέστη - ca.13 - ὁ Λ]ο̣ύ̣κι̣ος Οὐίβιος [Κα]σιανὸ̣ς τῷ Ἀμμ[ω]νίῳ καθʼ ὁμολ[ο]γίαν τελειωθεῖ[σ]αν διὰ
+r.8   γραφείου
+r.9   [τῆς αὐτῆς κώμης ̣ ̣ ̣ ̣ ̣ ̣ κ]αὶ εἰκοστῷ ἔτει θεοῦ Αἰλίου Ἀντωνίνου μηνὶ Μεχεὶρ νεομηνίᾳ, ἀντί τε ὧν
+r.10   [ὤφειλεν τῷ Ἀμμωνίῳ καὶ] ὧν ἔ[σ]χεν τότε ε[ἰ]ς πλήρ[ωσ]ιν τῆς ὅλης τιμῆς τῆς δούλης
+r.11   Δημητροῦτος δρα-
+r.12   [χμῶν ̣ ̣ ̣ ̣ ̣ ̣ νυνὶ δὲ τοῦ ἐγγ]ό̣νο̣υ Κόσμ̣[ου] πεν̣τα̣μηνε[ίο]υ ὄντος τούτου τοιούτου ἀναπορίφου πλὴν
+r.13   [ἱερᾶς νόσου καὶ ἐπαφῆς ἀπέχειν τὸν Λ]ούκιον Ο̣ὐ̣[ί]βιον Κασιανὸν παρὰ τοῦ Ἀμμωνίου
+r.14   ἀπὸ τῶν συμπεφωνη-
+r.15   [μένων ἀργυρίου δραχμ]ῶν τριακοσίων , μεθʼ ἃς [ὑ]π̣ελόγησεν ἑαυτῷ ὁ Ἀμμώνιος ὑπὲρ
+r.16   τρο-
+r.17   [φείων τοῦ δουλικοῦ δρα]χμὰ[ς διακ]οσίας , τὰς λοιπ[ὰ]ς δραχμὰς ἑκατ[ὸ]ν καὶ βεβαιώσειν
+r.18   αὐτόν τε Λούκιον
+r.19   [Οὐίβιον Κασιανὸν καὶ τοὺς παρʼ] αὐτοῦ τ[ῷ] Ἀμμωνίῳ καὶ τοῖς παρʼ αὐτοῦ τὸ αὐτὸ πεπραμένον
+r.20   δουλικὸν ἔνγονον
+r.21   [Κόσμον πάσῃ βεβαιώσει πλὴ]ν δρασμοῦ. κρα̣τ̣εῖν οὖν καὶ κυριεύειν τὸν Ἀμμώνιον καὶ
+r.22   τοὺς παρʼ αὐτοῦ
+r.23   [τοῦ πεπραμένου δουλικοῦ κ]αὶ ἐξουσίαν ἔχειν πωλεῖν, ὑποτίθεσθαι, οἰκονομεῖν κατʼ
+r.24   αὐτοῦ ὅ τι ἐὰν αἱρῶν-
+r.25   Λ]ούκιον Οὐίβιον [Κ]ασιανὸν ἐνκαλεῖν μηδὲ ἐπελε[ύ]σεσθαι τρόπῳ μηδενὶ,
+r.26   [εἰ δὲ μὴ τὸν Λούκιον ἀποδοῦν]αι τῷ Ἀμμωνίῳ [τ]ὴν τιμὴν διπ[λ]ῆν καὶ τὰ τέλη καὶ δαπανήματα
+r.27   καὶ ἐπίτει-
+r.28   [μον] [ἀργυρίου δραχμὰς ̣ ̣]α̣κ̣ο̣σίας καὶ εἰς τὸ δ[η]μόσιον τ̣[ὰ]ς ἴσας, χωρὶς τοῦ μένειν κύρια καὶ τὰ προγεγρ(αμμένα)
+r.29   [ἀκολουθούσης αὐτῷ τῆς βεβαι]ώσεως τῆς δού[λης] Δημητροῦτος ταῖς εἰς [τὸ]ν Ἀμμώνιον
+r.30   ἀσφαλείαις ἀκολούθως.
+r.31   [ὑπογραφεὺς τοῦ Κα]σιανοῦ φαμένου μ[ὴ] εἰδέναι γρ[ά]μματα (hand 2?) Ἡρακλ[ί]δης Ἰσιδώρου
+r.32   ὡς ἐτῶν πεντήκον-
+r.33   [τα - ca.12 -] ̣ ̣ (hand 3) Λούκιος Οὐίβιος Κασιανὸς ὁμολογῶ πεπρακέναι τῷ Ἀμμω̣ν̣ί̣ῳ̣
+r.34   [δουλικὸν ἔγγο]νον ὀνόματι Κ[ό]σμον γεγονός μοι ἐξ ἧς ἐξέστην αὐτῷ κατὰ
+r.35   [δημόσιον χρηματισ]μὸν δούλης Δημητροῦτος ὅπερ ἔ[γ]γονον ἐγαλακτοτρόφησεν
+r.36   [καὶ ἐτιθήνησεν. ἀπ]ὸ δὲ τῶν συ̣μ̣π̣ε̣φ̣ωνημένων τιμῆς δραχμῶν τριακοσίων
+r.37   [ὑπελόγησα αὐτῷ] τ[ὰ]ς τ[ῶ]ν τροφείων δραχμὰ̣ς̣ διακοσίας , τὰς δὲ λοιπὰς δρα-
+r.38   [χμὰς ἑκατὸν ἀπέχω καὶ βε]βα̣ι̣ώ̣σ̣ω̣ καθὼς πρόκιται. Ἡ̣ρ̣α̣κ̣λ̣ί̣δ̣η̣ς̣ Ἰ̣σ̣ι̣δ̣ώ̣ρ̣ο̣υ̣
+r.39   ἔγραψα ὑπὲρ
+r.40   [αὐτοῦ φαμένου μὴ εἰδέναι γράμματα.] (hand 4) Ἀ̣μ̣μ̣ώ̣ν̣ι̣ο̣ς̣ ἠγόρακα τὸ δουλικὸν
+r.41   ἔνγονον Κόσμον.
+
+[TRANSLATION]
+1   [... acknowledges]
+2   [Lucius Vibius Cassianus] has sold to the same Ammonios, by this agreement,
+3   on the pres-
+4   ent [day, the home-born slave child belonging to] Cassianus, by name Kosmos,
+5   three years old,
+6   [whom] Ammonios' slave-woman Demetrous [had suckl]ed and nursed - she whom
+7   [L]ucius Vibius [Ca]ssianus [had ceded] to Ammonios by an agreement completed through
+8   the record-office
+9   [of the same village, in the ... and] twentieth year of the deified Aelius Antoninus, in the month Mecheir, on the new moon - in return both for what
+10   [he owed Ammonios and] what he then received toward the full price of the slave-woman
+11   Demetrous, dra-
+12   [chmas ...; and now] the child Kosmos being such as he is, not returnable, save
+13   [for the sacred disease and legal claim; and that L]ucius Vibius Cassianus has received from Ammonios,
+14   out of the agreed
+15   [three hundred silver drachm]as - after Ammonios had reckoned to his own account, for
+16   nurs-
+17   [ing-fees of the slave, two hun]dred dra[chmas] - the remaining hundred drachmas; and that he will guarantee (the sale),
+18   both Lucius
+19   [Vibius Cassianus and his (heirs)] to Ammonios and his (heirs), the same sold
+20   slave child
+21   [Kosmos, with every guarantee, exce]pt against flight. So Ammonios and
+22   his (heirs) are to hold and own
+23   [the sold slave,] and to have power to sell, mortgage, and dispose of him as
+24   they may choose;
+25   (and that) Lucius Vibius Cassianus shall not make claim nor proceed (against it) in any way;
+26   [otherwise Lucius shall repay] Ammonios the price twofold, and the taxes and expenses
+27   and a pen-
+28   [alty of ... hun]dred silver drachmas, and the like sum to the treasury, apart from the foregoing remaining valid,
+29   [the guarant]ee of the slave-woman Demetrous following him in accordance with the securities (made) to Ammonios,
+30   accordingly.
+31   [Subscriber for Cas]sianus, who says he does not know letters: I, Herakleides son of Isidoros,
+32   about fif-
+33   [ty] years old. I, Lucius Vibius Cassianus, acknowledge that I have sold to Ammonios
+34   [the slave chi]ld named Kosmos, born to me from (the woman) whom I ceded to him by
+35   [a public deed], the slave-woman Demetrous - which child she suckled
+36   [and nursed. Out of] the agreed price of three hundred drachmas
+37   [I reckoned to him] the two hundred drachmas of nursing-fees, and the remaining dra-
+38   [chmas one hundred I have received, and I will gua]rantee as aforesaid. I, Herakleides son of Isidoros,
+39   wrote for
+40   [him, since he says he does not know letters.] I, Ammonios, have bought the slave
+41   child Kosmos.

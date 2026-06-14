@@ -12,3 +12,11 @@ manuscriptdb.sqlite3
 
 # scheduler logs
 logs/
+
+# scrape / translation scratch (kept on disk, never committed)
+_sweep_*.json
+_PENDING_*.json
+_translate_*.txt
+_fill_*.py
+_b_*.py
+.vscode/

@@ -1,0 +1,89 @@
+# ---------------------------------------------------------
+# P.Oxy 3.500 - Lease of public (domain) land near Tetaphos
+# Source: papyri.info DDbDP p.oxy;3;500  (Trismegistos 20634)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.500
+label:    P.Oxy 3.500
+name:     Lease of public (domain) land near Tetaphos
+genre:    contracts
+date:     2 Oct 130 CE
+language: Greek (Koine)
+found:    Athribite nome (Tell Atrib), Egypt
+held:     (see shelf)
+shelf:    Graz, Universität Ms. III 1918
+content:  Horos and Nekpheros lease from the strategos of the Athribite about 20¼ arouras of public land (formerly of dispossessed Jews and heirless Greeks) near Tetaphos and Psenarsiesis, at 2-3 artabas of wheat per aroura plus a surcharge, under joint surety
+tm:       20634
+source:   https://papyri.info/ddbdp/p.oxy;3;500
+lat:      30.47
+lon:      31.18
+
+[GREEK]
+r.1   ιγ
+r.2   (hand 2) [Ἱέρα]κι στρατηγῷ Ἀθριβε[ίτου]
+r.3   [παρ]ὰ Ὥρου Ψενοβάσθι[ος κ]αὶ
+r.4   [Νεκ]φερῶς Θαισοῦτος κα[ὶ ̣ ̣]ε̣
+r.5   [ ̣ ̣ ̣ ̣] Πετ[ ̣ ̣ ̣ ̣ ̣]ς̣ καὶ τῶν λ̣[ο]ι̣[πῶν]
+r.6   [ ̣ ̣ ̣ ̣]ι̣π̣[- ca.9 -]κ̣εφα̣[ ̣ ̣ ̣ ̣ ̣]
+r.7   [- ca.12 -]ου[ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.8   (πρότερον) [Ἰ]ουδαίω̣[ν ἀφ]ε̣ιρη[μένων] καὶ
+r.9   Ἑλλήνων ἀ̣[κλ]ηρονομήτων περὶ
+r.10   Τετάφου δημοσί(ας) γῆς ἀνὰ (πυροῦ) (ἀρτάβας) β
+r.11   (ἀρούρας) κδ´ καὶ ὑ πὲρ ἐπι[θ]έματος
+r.12   τῶν ὅλων (πυροῦ) (ἀρτάβας) ε καὶ περὶ Ψ[ε-]
+r.13   ναρσι(ῆσιν) τοῦ Θώσ̣του ἀπηλ(ιώτου) δημοσίας
+r.14   γῆς ἀνὰ (πυροῦ) γ (ἄρουραν) α, ἃς καὶ με[τρή-]
+r.15   σομεν ἐξ ἀλληλεγγύης εἰς τὸ
+r.16   [δη]μόσιον ἐγ νέων [γε]νημάτων
+r.17   τοῦ αὐ(τοῦ) ιε (ἔτους) Ἁδριανοῦ Καίσαρ[ο]ς
+r.18   τοῦ κυρίου.
+r.19   (ἔτους) ιε Αὐτοκράτορος Καίσαρος
+r.20   Τραιανοῦ Ἁδριανοῦ Σεβαστοῦ
+r.21   Φαῶφι ε.
+r.22   (hand 3) [Ὧ]ρος Ψενομοιθᾶτος καὶ Νεκφερῶς
+r.23   [Θ]αισοῦτος ἀπὸ κώμης Σινεκθο̣ιεκ̣ὺ̣
+r.24   τοῦ Θώσ̣τ̣ου ἀπηλιώτου μεμεσ-
+r.25   θώμεθα τὰς προκιμένας ἀρούρας
+r.26   εἴκοσι τέταρτ[ο]ν περὶ Τετάφου δημο-
+r.27   [σίας γῆς ἀνὰ πυροῦ] ἀρτάβας δύο καὶ
+r.28   [ὑπὲρ ἐπιθέματο]ς τῶν ὅλων πυροῦ
+r.29   [ἀρτάβας πέντε καὶ] περὶ Ψεναρσιησις
+r.30   [δημοσίας ὁμο]ί̣ω̣ς γῆς ἀνὰ πυρο[ῦ]
+r.31   [ἀρτάβας τρεῖς ἄρουραν μί]αν καὶ μετρήσ̣ο̣-
+r.32   [μεν - ca.20 -] ̣ε̣νως̣
+
+[TRANSLATION]
+1   13
+2   (2nd hand) To [Hiera]x, strategos of the Athribi[te nome],
+3   [fro]m Horos son of Psenobasthis, an[d]
+4   [Nek]pheros son of Thaisous, an[d ...]
+5   [...] Pet[...]s and the rest:
+6   [...]
+7   [...]
+8   (formerly belonging to) [J]ews [who have been disposs]essed, and
+9   of Greeks who left no heirs, near
+10   Tetaphos: public land at 2 artabas of wheat (per aroura),
+11   24 arouras; and for the surcharge
+12   of the whole, 5 artabas of wheat; and near Pse-
+13   narsiesis, in the eastern (part) of Thostos, public
+14   land at 3 (artabas) per aroura, 1 aroura; which we shall also me-
+15   asure out, under joint surety, into the
+16   [pu]blic (granary) from the new produce
+17   of the same 15th year of Hadrian Caesar
+18   the lord.
+19   Year 15 of Imperator Caesar
+20   Trajan Hadrian Augustus,
+21   Phaophi 5.
+22   (3rd hand) [Ho]ros son of Psenomoithas and Nekpheros
+23   son of Thaisous, from the village of Sinekthoieku(?)
+24   in the eastern (part) of Thostos, have lea-
+25   sed the aforesaid arouras,
+26   twenty and a quarter, near Tetaphos, of pub-
+27   [lic land at] two artabas [of wheat], and
+28   [for the surcharg]e of the whole, five
+29   [artabas of wheat; and] near Psenarsiesis
+30   [public] land [like]wise at three
+31   [artabas of wheat, one arour]a; and we shall mea-
+32   [sure out ...]

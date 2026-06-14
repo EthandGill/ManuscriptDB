@@ -1,0 +1,109 @@
+# ---------------------------------------------------------
+# BGU 4.1155 - Receipt for repayment of half a loan owed to a dead patron
+# Source: papyri.info DDbDP bgu;4;1155  (Trismegistos 18605)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1155
+label:    BGU 4.1155
+name:     Receipt for repayment of half a loan owed to a dead patron
+genre:    contracts
+date:     11-10 BCE
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13118
+content:  Apollonios, who had demanded from Martha and Protarchos the 200 dr. plus interest owed to him by their deceased patron/father, acknowledges that Martha has now paid her half-share and waives all claims against her, reserving his recourse against Protarchos for the other half
+tm:       18605
+source:   https://papyri.info/ddbdp/bgu;4;1155
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   κόλ(λημα)
+r.2   Πρωτάρχ(ωι)
+r.3   παρὰ Ἀπολλωνίου τοῦ Θέωνος καὶ [παρὰ]
+r.4   Μάρθας τῆς Πρωτάρχου μετὰ κυρίου [Ἡρα-]
+r.5   κλίδου τοῦ Ἡρακλίδου. ἐπὶ τυ[γ]χ̣ά̣ν̣ε̣ι̣ [Ἀπολλώ-]
+r.6   νιος ἐπιδεδωκὼς Ἀρτεμιδώρ̣ω̣ι̣ τῷ ἀ̣ρ̣[χι-]
+r.7   δικαστῇ τῷ ἐνεστῶτι κ̣ (ἔτει) Καίσα[ρ]ος Ἁ̣θ̣[ὺρ]
+r.8   ὑπόμνημα ἀπαίτησιν π̣ο̣ι̣ο̣ύ̣μ̣ε̣ν̣ο̣ς̣
+r.9   παρά τε τῆς Μάρθας κ[α]ὶ ἔτι Πρω-
+r.10   τάρχου τοῦ Πρωτάρχο[υ] ἀργυ(ρίου) (δραχμῶν) σ καὶ
+r.11   τόκω̣ν̣, ἅσπερ ὀφίλεσθαι αὑτῷ ἔγρα-
+r.12   φ̣ε̣ν̣ ὑπὸ τοῦ μετηλλαχότος τῆς μὲν
+r.13   Μ̣άρθα̣ς̣ πάτρωνος, τοῦ δὲ Πρωτάρχου
+r.14   πατρὸς Πρωτάρχου τοῦ Πολέμωνος
+r.15   ἀφʼ οὗ προ̣ί̣κατο οὗτος πιττακ̣ί̣ου μεμαρ-
+r.16   τυρημένου δὲ διʼ ὧν ἀνήνενκεν ὁ Πρώταρ-
+r.17   χος συνχωρήσεων, νυνὶ δὲ ε̣ὐ̣π̣[ε]ιθὴς γεγο-
+r.18   νὼς ὑ̣π̣ὸ̣ [τῆς] Μ̣ά̣ρ̣θ̣α̣ς̣ ἐ[π]ὶ τ̣ο̣[ῦ] κ̣α̣τ̣ʼ αὐτὴ̣ν̣ μ̣έ̣-
+r.19   ρους ἡμίσους καὶ ἀπεσχ[ηκ]ὼς π̣α̣ρ̣ʼ α̣ὐ̣τ̣ῆ̣[ς]
+r.20   διὰ χιρὸς ἐξ οἴκου τὸ [ἐν αὐτῇ μέρος ἥμισυ]
+r.21   συνχωρῖ Ἀπολλώνιος [μήτʼ αὐτὸς μήτʼ ἄλλος ὑπὲρ]
+r.22   αὐτοῦ μηδὶς ἐ̣π̣ε̣λ̣ε̣ύ̣σ̣ε̣[σθαι ἐπʼ αὐτὴν μηδʼ ἐπὶ]
+r.23   τὰ ὑπὸ τοῦ τετελ[ε]υτ[ηκότος πάτρωνος Πρωτάρ-]
+r.24   χ̣ου ἀπολελιμμέ̣ν̣α̣ πε[ρὶ τοῦ κατὰ τὴν]
+r.25   Μ̣άρθα̣ν̣ μέρους ἡμίσους [τοῦ κεφαλαίου]
+r.26   χ̣ε̣ι̣ τ̣ῶ̣ν̣ τόκων [ ]
+r.27   μήτε περὶ τῶν [ μήτε περὶ]
+r.28   ἄλλου μηδενὸ[ς ἁπλῶς ὀφειλήματος]
+r.29   ἢ ἀπαιτήματ[ος ἢ ἐγγράπτου ἢ ἀγρά-]
+r.30   φου πράγματος τ̣ῶ̣[ν γενομένων ἀπὸ τῶν]
+r.31   ἔμπροσθεν χρόν[ων μέχρι τῆς ἐνεσ-]
+r.32   τώσης ἡμ[έρας ]
+r.33   δηλ̣ω̣[ ]
+r.34   την[ ]
+r.35   τὰ συνκ[εχωρημένα ἐνέχεσθαι αὐτὸν]
+r.36   παρ[αβαίνοντα] [τοῖς τε βλάβεσι καὶ τῷ]
+r.37   ὡ̣ρ̣ι̣σ̣[μένῳ προστίμῳ, μὴ ἐλαττουμένου τοῦ]
+r.38   Ἀπολ̣λ̣[ωνίου ἐν τῇ ἐπὶ τὸν Πρώταρχον]
+r.39   ἐ̣φ̣ό̣δ̣ῳ̣ [περὶ τοῦ ἑτέρου τοῦ κεφαλαίου]
+r.40   μ̣έ̣ρ̣ο̣υ̣[ς ἡμίσους τῶν τοῦ ἀργυ(ρίου) (δραχμῶν) ρ καὶ]
+r.41   τ̣ῶ̣ν̣ [τούτων τόκων ]
+r.42   με[ ]
+
+[TRANSLATION]
+1   (Sheet.)
+2   To Protarchos.
+3   From Apollonios son of Theon, and [from]
+4   Martha daughter of Protarchos, with her guardian [Hera-]
+5   kleides son of Herakleides. Since [Apollo-]
+6   nios has submitted to Artemidoros the chi-
+7   ef justice, in the present 20th year of Caesar, Hath[yr],
+8   a memorandum, making a demand
+9   both from Martha and also from Pro-
+10   tarchos son of Protarchos, for 200 silver drachmas and
+11   interest, which he wrote were owed to him
+12   by the deceased - of Martha
+13   the patron, and of Protarchos
+14   the father, (namely) Protarchos son of Polemon,
+15   from a note which this man had issued, attes-
+16   ted by the agreements which Protar-
+17   chos brought in; and now, having been
+18   satisfied by [Martha] as to the half-share
+19   belonging to her, and having received from her,
+20   by hand from the house, [her half-share],
+21   Apollonios agrees [that neither he himself nor anyone on]
+22   his behalf shall proceed [against her, nor against]
+23   the (property) left by the deceased patron Protar-
+24   chos, con[cerning the half-share belonging to]
+25   Martha [of the capital]
+26   ... of the interest ...
+27   nor concerning the ... [nor concerning]
+28   any other [debt at all]
+29   or claim, [whether written or un-]
+30   written, of matters [arising from]
+31   former tim[es up to the pres-]
+32   ent d[ay ...]
+33   ... declar...(?)
+34   ... the ...
+35   the agr[eed terms; (otherwise) he shall be liable,]
+36   if he transgr[esses, both to the damages and to the]
+37   fix[ed penalty - without prejudice to]
+38   Apol[lonios in his right of recourse against Protarchos]
+39   [concerning the other]
+40   [half-share of the 100 silver drachmas and]
+41   [their interest ...]
+42   ...

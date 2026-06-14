@@ -91,13 +91,26 @@ ManuscriptDB notation:
 | `(...)` after an abbrev (e.g. `στρ(ατηγῷ)`) | keep the resolved form | abbreviation expanded by editors |
 | leading every-5 line number (e.g. `5σήκοντα`, `10καὶ`) | strip the digit | papyri.info line counter         |
 | `⟦ ... ⟧` / `{ ... }` (deletions) | drop / note             | scribal deletion                 |
+| `⁦ ... ⁩` directional-isolate spans (often wrap `vac.`, `? `, editorial fillers) | **strip the whole span** | Unicode isolates from the renderer — leave NO stray `⁦⁩` marks |
+| `vac.` / `vac. ? ` (and the `?` left behind) | strip | uninscribed space (vacat) — not text |
+| `(perpendicular)`, `column 2`, `,ms` / `,msup` / `,minf` | strip | layout/hand-position editorial tags |
+| leading `a ` or glued `aγενήμ(ατος)` | strip the leading `a` | papyri.info above-line/interlinear insertion marker |
+| `(hand 2)`, `(hand 1)` etc.       | **keep inline**          | scribal-hand change — kept in the Greek, mirrored loosely in the translation |
 | trailing `1. l. …`, vote/commit log lines | DROP                | apparatus criticus & edit history — NOT text |
 | nomen sacrum (rare in documents) | `{...}`                  | sacred-name abbreviation         |
+
+A reusable cleaning pass (the `polish()` helper used in the build scripts) applies
+all of the above in order, then collapses runs of whitespace. After cleaning, every
+line must be either real Greek or a kept `(hand N)` marker — no stray `⁦⁩`, `?`,
+`vac.`, or counter digits.
 
 Keep the editor's line breaks: each transcription line becomes one `r.N` line.
 Documentary papyri are single-side unless the source marks recto/verso — then use
 `FOLIO Recto` / `FOLIO Verso` headers (and they will also appear in the translation,
 Step 5).
+
+> **Never edit the `[GREEK]` to "improve" it.** Clean the markup only; if a reading
+> looks wrong, flag it — don't silently change the transcription.
 
 ---
 
@@ -115,9 +128,16 @@ Greek; set `genre:` to one of ManuscriptDB's documentary genres:
 - **contracts** — `ὁμολογῶ` ("I acknowledge/agree"), leases (`ἐκμίσθωσις`/`μισθόω`),
   sales (`πρᾶσις`/`ἀπέδομην`), loans (`δάνειον`), marriage, apprenticeship.
 - **letters** — private correspondence: `χαίρειν` greeting, `ἐρρῶσθαί σε εὔχομαι`.
-- (petitions/applications like `ἐπιδίδωμι … βιβλίδιον`, `παρὰ X τῷ στρατηγῷ` have no
-  dedicated genre yet — confirm with the user whether to add one or file under the
-  closest fit.)
+- **petitions** — applications to officials: `παρὰ X τῷ στρατηγῷ`/`ἐπιστρατήγῳ`/
+  `ἀρχιδικαστῇ`, `ἐπιδίδωμι … βιβλίδιον`, `ἀξιῶ`/`δέομαι`, complaints of wrong,
+  divorce applications, requests for redress.
+- **documents** — everything administrative/fiscal that isn't the above: accounts
+  and registers (`Abrechnung`, `λόγος`, `γνῶσις`), census returns / declarations
+  (`Zensus`, `ἀπογραφή`), land registers, payment orders (`Anweisung`), wills
+  (`Testament`, `διαθήκη`), name-lists.
+
+> **Six live genres:** `new-testament`, `receipts`, `contracts`, `letters`,
+> `petitions`, `documents`. Pick the closest fit; don't ask whether to "add one."
 
 Map `Origin` → `lat`/`lon` (find-site coordinates). Common documentary provenances:
 
@@ -205,3 +225,43 @@ dating formulae). End where the papyrus breaks off; mark lost stretches with `�
 
 Then verify it parses: load `http://localhost:5000/api/manuscripts` (or restart the
 app) and confirm the new entry appears under its genre with Greek + translation.
+After a batch, also run **`python check_city_nodes.py`** (the `check-city-nodes`
+skill) until it reports `ORPHAN: 0`, and re-run the parse check across all files —
+parse every `manuscripts/*.txt`, assert each returns an id, expect 0 errors:
+
+```python
+import glob, app
+ok = err = 0
+for f in glob.glob('manuscripts/*.txt'):
+    try:
+        m = app.parse_manuscript(f); assert m and m.get('id'); ok += 1
+    except Exception as e:
+        err += 1; print("ERR", f, e)
+print(f"OK {ok}  ERR {err}")   # ERR must be 0
+```
+
+---
+
+## Conserve Firecrawl credits: scrape once, build later
+
+Firecrawl credits are limited and Greek-cleaning + translation don't need the
+network. So **separate the network step from the build step**:
+
+- **Bulk sweeps preserve the structured scrape** (TM / origin / date / shelf / raw
+  Greek lines per id) to a `_PENDING_<range>.json` file at the repo root, keyed by
+  DDbDP id. These are the credit-funded raw material.
+- When credits are exhausted (or to work offline), **build straight from the
+  `_PENDING_*.json`** with no new scraping: dump the cleaned Greek (Step 3 `polish()`),
+  write a faithful line-aligned translation (Step 6), and write the `.txt` (Step 5).
+  Each build script should **`assert len(greek_lines) == len(translation_lines)`** so
+  the diglot columns can't drift, then parse-verify.
+- A `.txt` already in `manuscripts/` means that id is done — skip it (compare by the
+  citation slug, e.g. `bgu;3;803` → `bgu_3_803`).
+
+### Quality boundary — don't build bracket-soup
+
+Only build records that yield a **meaningful faithful translation**. Skip (and say
+you skipped) texts that are too fragmentary or unsuitable: gapped on nearly every
+line (high lacuna ratio), oversized rolls, or pure tabular name-lists/registers where
+a line-by-line rendering would be mostly `[...]`. Padding the corpus with near-empty
+bracket translations lowers quality — hold the line and report what was left.

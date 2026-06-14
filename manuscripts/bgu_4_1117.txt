@@ -1,0 +1,115 @@
+# ---------------------------------------------------------
+# BGU 4.1117 - Lease of a bakery (oven-workshop)
+# Source: papyri.info DDbDP bgu;4;1117  (Trismegistos 18559)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1117
+label:    BGU 4.1117
+name:     Lease of a bakery (oven-workshop)
+genre:    contracts
+date:     13 BCE
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13063
+content:  Artemidoros and his wife Hermione lease from Eirenaios his oven-workshop in quarter Beta of Alexandria, with two ovens and baking-gear, for sixteen months at 2 obols a day; they bear upkeep, may not open a rival bakery within five plethra, and must return it clean, with penalties and joint liability
+tm:       18559
+source:   https://papyri.info/ddbdp/bgu;4;1117
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   [Πρωτ]άρ̣[χ]ω̣ι̣
+r.2   [πα]ρὰ Ε̣ἰ̣[ρη]ν[αί]ου τοῦ Σώτου καὶ παρὰ Ἀ̣ρ̣τ̣ε̣μ̣ι̣δ̣[ώρου]
+r.3   [το]ῦ Δ̣ι̣δ̣ύ̣μ̣ο̣υ̣ Πέρσου τῆς ἐπιγονῆς καὶ τῆς τούτου
+r.4   [γυ]ναικὸς Ἑρμιόνης τῆς Χαιρήμονος Περσ̣ε̣ί̣νης μ[ε]τὰ
+r.5   [κυ]ρίου τοῦ ἀνδρός. συνχωροῦσιν Ἀρτεμίδωρος κα[ὶ] Ἑρ-
+r.6   [μι]όνη μεμισθ̣ῶ̣σ̣θ̣α̣ι̣ παρὰ τοῦ Εἰρηνάου ἐπὶ χρόνο[ν] μῆνα[ς] δέκα ἓξ ἀπὸ
+r.7   Παχὼν τοῦ ἐνεστῶτος
+r.8   [ἑπ]τακαιδεκάτου (ἔτους) Καίσαρος τὸ ὑπάρχον αὐτῷ ἐ̣[ργ]α̣-
+r.9   [στή]ρ̣ι̣ον κλιβάνι̣ο̣ν̣ ἐν τῷ Βῆτα ἐν τῇ Εὐδαίμον[ο]ς
+r.10   [λε]γομένῃ ῥύμῃ πλησίον τοῦ Ρυαμωνος ἐκ τῆς Μ̣ε̣-
+r.11   [ ̣ ̣ ̣] ̣ρ̣ες [ ̣ ̣] ̣τος κτήσεως σὺν τοῖς ἐν αὐτῷ κλιβάν[οις δυ-]
+r.12   [σί]ν τε καὶ κλιβανικοῖς σκεύεσσιν τηλ[ίᾳ] θ̣[ ̣ ̣]
+r.13   [ ̣ ̣]ς φόρου τοῦ ἑσταμένου καθʼ ἡμέραν ἑκάστ[ην]
+r.14   [ὀβ]ο̣λ̣ῶν δύο , οὓς καὶ τελεσι τῷ Εἰρηνάῳ τὴν ἡ̣μ̣[έ-]
+r.15   [ρα]ν ἐν τῇ ἡμέρᾳ ἀνυπόλογον παντὸς ὑπολόγου
+r.16   [κ]αὶ ἀνηλώματος τῶν ἐπισκευῶν τοῦ ἐργαστηρίου
+r.17   [κ]α̣ὶ̣ δο̣κ̣ῶ̣ν ἀντενβόλων καὶ ὠλενῶν στεγνώσεω̣[ν],
+r.18   [ἔ]τι δ[ὲ] καὶ το ὑπὲρ τοῦ ἐργαστηρίου διδομέν[ου]
+r.19   [ἐ]νοικιον καὶ τα ὑπὲρ ̣ ̣ ̣ ̣ τῆς ἐ̣ρ̣γασίας παντα ὄντων πρὸς τοὺ[ς]
+r.20   μ̣εμισθωμένους Ἀρτεμίδωρον καὶ Ἑρμιόνην,
+r.21   [ο]ὓ̣ς καὶ ἀπὸ τοῦ νῦν ἀντέχεσθαι τῆς μισθώσεως
+r.22   [κ]αὶ̣ τ̣ὰ περιγινόμενα ἀποφέρεσθαι εἰς τὸ ἴδ[ι]ον μὴ
+r.23   [ἐ]ξ̣ό̣ν̣τος αὐτοῖς ἐγλ[ι]πεῖν τὴν μίσθωσιν ἐντὸς τοῦ
+r.24   [χ]ρόνου μηδὲ ἀπὸ τοῦ νῦν εἰς τὸν ἀεὶ χρόνον ἀντι̣[ ̣ ̣ ̣] ̣
+r.25   [ ̣ ̣]ι̣ ἕτερον ἐργαστήριον τῷ κλιβανήῳ ἐντὸ[ς πλ]έ-
+r.26   [θρ]ω̣ν̣ κυ̣κ̣λ̣ό̣θεν πέντε , τοῦ δὲ χρόνου διελθόντο[ς] π̣α̣ρ̣α̣-
+r.27   [δ]ώσειν τὸ ἐργαστήριον καθαρὸν ἀπό τε σ̣ί̣[τ]ου κα[ὶ]
+r.28   [τῆ]ς ἄ̣λ̣λ̣η̣ς ἀκαθαρσίας σὺν τοῖς κατʼ αὐτὸ [σ]κεύεσ[ι]
+r.29   κ̣α̣ὶ̣ κλειβάνοις οἷα ἐὰν ἔτι ᾖ ἐκ τῆς χρήσε[ω]ς, ἔτι̣ δ̣[ὲ]
+r.30   [κα]ὶ ἀ̣π̣ὸ̣ ἐνοικίων καὶ τελῶν ὁμοίως καθαρό[ν], ἐ̣[ὰ]ν δ[έ]
+r.31   [τι] τούτ[ω]ν παραβαίνωσιν, εἶναι αὐτοὺς π[αρ]α̣χ̣ρ̣[ῆ]μα
+r.32   [ἀγ]ωγίμ[ο]υς καὶ συνέχεσθαι μέχρι τοῦ ἐ[ξ]ο̣υ̣δ̣ε̣ν̣ῆ̣-
+r.33   [σαι] καὶ ἐκτελέσαι καὶ ἐκτεῖσαι τʼ Εἰρηναίωι
+r.34   [ὃ ἐ]ὰν ἐνοφιλήσωσιν πρὸς τὸν ἡμερήσιον φόρο(ν)
+r.35   [σὺν ἡ]μιολίαι [κ]αὶ οὗ ἐὰν μὴ παραδῶσι τὴν ἀξίαν καὶ τὸ
+r.36   [βλάβος] κ̣α̣ὶ̣ δαπανήματα καὶ ἐπίτιμον ἀργυ(ρίου) (δραχμὰς(?)) φ̣ κα[ὶ]
+r.37   [τὸ ὡρισμένον] πρόστιμον τῆς πράξεως γινο-
+r.38   [μένης τῷ Εἰρηναίωι] ἔ[κ] τε̣ α̣ὐ̣[τῶν] ὄντων ἀλληλεγ-
+r.39   [γύων εἰς ἔκτισι]ν κα[ὶ] ἐξ ἑνὸς κ̣α̣ὶ̣ ἐ̣ξ̣ ο̣ὗ̣ ἐὰν [αὐτῶν]
+r.40   [αἱρῆται καὶ ἐκ τ]ῶν ὑπαρχόντων αὐτοῖς πάντων
+r.41   [καθάπερ ἐκ δίκ]ης ἀκύρων οὐσῶν καὶ ὧν ἐὰν ἐπε-
+r.42   [νέγκωσι πίστ]εων πασῶν σκέπης πάσης μη-
+r.43   [δὲν ἧσσον ἐξουσίας] οὔσης τῷ Εἰρη[ν]αίῳ ἐὰ̣ν̣ μ̣ὲ̣ν̣ π̣α̣-
+r.44   [ρασυγγράψωσι] μ̣ε̣θ̣ι̣σ̣τ̣α̣[μένῳ α]ὐτοὺς ἐντ[ὸς]
+r.45   [τοῦ χρόνου ]
+
+[TRANSLATION]
+1   [To Prot]archos.
+2   [Fr]om Eirenaios son of Sotas, and from Artemid[oros]
+3   son of Didymos, a Persian of the epigone, and his
+4   wife Hermione daughter of Chairemon, a Persian woman, with
+5   her husband as guardian. There agree Artemidoros an[d] Her-
+6   mione that they have leased from Eirenaios, for a period of sixteen months from
+7   Pachon of the present
+8   seventeenth year of Caesar, the bakery be-
+9   longing to him, an oven-workshop in (quarter) Beta, in the street called
+10   Eudaimon's, near the Ryamon(?), from the
+11   ...property, together with the [two] ovens in it
+12   and the baking-implements, a kneading-board ...,
+13   at the fixed rent for each day
+14   of two [ob]ols, which they shall pay to Eirenaios da-
+15   y by day, free of every deduction
+16   and expense of the repairs of the workshop
+17   and of beams, cross-pieces, and roof-timbers for the roofing,
+18   and also the rent paid for the workshop
+19   and the charges for ... the business, all being chargeable to the
+20   lessees Artemidoros and Hermione,
+21   who from now are to hold to the lease
+22   and to take the profits for themselves, they not
+23   being permitted to abandon the lease within the
+24   period, nor from now on, in perpetuity, to set up against (it)
+25   another bakery-workshop (in competition) with the oven-house, within fi-
+26   ve plethra all around; and, the period having elapsed, they shall hand
+27   over the workshop clean, both of grain and
+28   of other refuse, together with the implements belonging to it
+29   and the ovens, such as they may be from the use; and also
+30   clean likewise of rents and taxes; and if
+31   they transgress any of these, they shall be immediate-
+32   ly subject to execution and held until they make good,
+33   and fulfil, and pay to Eirenaios
+34   [what]ever they owe against the daily rent,
+35   [with] half as much again, and the value of whatever they fail to hand over, and the
+36   [damage] and expenses and a penalty of 500 silver drachmas, an[d]
+37   [the fixed] fine, the right of execution being
+38   [Eirenaios'], against [them], who are mutually sur-
+39   [ety for payment], and against either one, whichever [of them]
+40   [he chooses, and against] all their property,
+41   [as if by legal judgment], (all pleas) which they may bring being void,
+42   [all] pleas, every protection (notwithstanding),
+43   Eirenaios nonetheless having the power, if they
+44   [breach the contract], to (remove) them with[in]
+45   [the period ...]

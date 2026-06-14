@@ -1,0 +1,87 @@
+# ---------------------------------------------------------
+# BGU 4.1200 - Petition of priests to the prefect for restored temple revenue
+# Source: papyri.info DDbDP bgu;4;1200  (Trismegistos 18650)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1200
+label:    BGU 4.1200
+name:     Petition of priests to the prefect for restored temple revenue
+genre:    petitions
+date:     2-1 BCE
+language: Greek (Koine)
+found:    Busiris, Herakleopolite nome, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 9914
+content:  Horos and the priests of Busiris petition the prefect Publius Octavius: after their consecrated land was taken into the public domain they received a wheat allowance, but Asklepiades’ nephews, bribed by the men of Line, unlawfully diverted it; they ask that the men be summoned and the revenue restored
+tm:       18650
+source:   https://papyri.info/ddbdp/bgu;4;1200
+lat:      29.0876
+lon:      30.9302
+
+[GREEK]
+r.1   Ποπλίωι Ὀκταίωι
+r.2   παρὰ Ὥρου τοῦ Τεῶτος καὶ τῶν [ἄλλων ἱ]ε̣ρ̣έ̣ω̣ν̣ [- ca.12 - καὶ]
+r.3   Ἀπόλλωνος θεῶν μεγίστων [ὄν]τ̣[ων ἀπ]ὸ̣ κ̣[ώμης Βουσίρεως]
+r.4   τοῦ ὑπὲρ Μέμφιν Ἡρακλεοπο[λίτο]υ. [περὶ κώμην ̣ ̣ ̣ ̣ ̣ ἐτύχομεν]
+r.5   ἐδάφη̣ ἔχοντες ἀνιερω̣μ̣[ένα καὶ πρόσοδον κατὰ διαδοχὴν τῶν]
+r.6   γον[έ]ων ἡμῶν πυροῦ ἀρτάβας [ἑκατόν. τῶι δὲ (ἔτει) ἀνειλημμένων]
+r.7   εἰς τὸ δ̣η̣μ̣[ό]σιον τῶν ἐδαφῶν δ̣ι̣ε̣τ̣α̣ ̣[- ca.15 - σύνταξιν]
+r.8   πυροῦ ἀρτάβας ἑκατὸν καὶ ἀπὸ τ̣ῶ̣ν̣ [προσόδου - ca.15 -]
+r.9   πυροῦ ἀρτάβας ἑκατόν, ὥστε εἶνα[ι] τὰ[ς πάσας διακοσίας κατʼ ἔτος]
+r.10   ἀπὸ τοῦ [ι]α̣ [(ἔτους)] Καίσαρος μέχρι τοῦ ι̣[θ (ἔτους) - ca.10 - καὶ εἰς τὰς]
+r.11   ὑπὲρ τοῦ θε̣[οῦ] καὶ κυρίου Αὐτοκράτορος Κ̣α̣[ίσαρος καθηκούσας]
+r.12   θυσίας καὶ σπονδὰς καὶ εἰς τὰς [συν]τελουμένας ὑ̣φ̣ʼ [ἡμῶν λειτουργίας]
+r.13   κατʼ ἔτος ἀργυρίου δραχμὰς διακοσ[ί]ας ὀγδοήκον[τα]. ἀ̣π̣[ὸ δὲ τοῦ ιθ (ἔτους)]
+r.14   Ἀσκληπιάδου τοῦ τὴν πρόσοδον ἀνη̣γ̣μένου εἰς Ἰ̣τ̣αλίαν [ἐγδημήσαντος οἱ]
+r.15   προστάται καὶ σιτολόγοι Ἡρακλείδης καὶ Διονύσιος ἀμφότ[εροι ὄντες]
+r.16   τοῦ ἀδελφοῦ τοῦ Ἀσκληπιάδου υἱοὶ, ὀ̣ντων̣ δ̣ὲ̣ ἀ̣π̣ὸ̣ [κ]ώ[μης Λινῆ πεισθέντες]
+r.17   οὐ μικρῶι κεφαλαίωι παρὰ τῶν ἐκ τῆς κώμης αὐτῶν ἀ̣π̣[εστέρησαν]
+r.18   ἡμᾶς ὧν ἔχομεν ἐκ τῆς προσόδου πυροῦ ἀρταβῶν ἑκατὸν [ ̣ ̣ ̣ ̣ ̣ ̣ μέχρι]
+r.19   τοῦ ιθ (ἔτους) Καίσαρος. ὁ προγεγραμμένος δ̣ὲ̣ Ἡρακλείδης καὶ Διονύ[σιος ̣ ̣ ̣ ̣ ̣ ̣]
+r.20   ἐξουσίαν ἔχοντες τῶν Ἀσκληπιάδου ἀνόμως ἀποδέδωκαν τ̣ο̣ῖ̣[ς ἀπὸ Λινῆ]
+r.21   μηδέπω ἐσχηκότες ἐκ τῆς προσόδου (πυροῦ) πλω̣ ̣ ̣ ̣ ̣τας ἡμῶν εἰς πλήρωσιν [τ]ῶ̣ν̣ ροε (πυροῦ) ρ τὰς ἡμῶν καὶ μέχρι τοῦ νῦν διεμώλ̣υ̣σ̣α̣ν̣ [ δυνα-]
+r.22   στευόμενοι ὑπʼ αὐτῶν. νυνεὶ δὲ ἐπισκεψάμενοι τὸ δημόσιο[ν καὶ εὑρόντες]
+r.23   διεγβαλλομένας εἰς τὸ ἡμῶν ἱερὸν τὰς προκειμένας πυροῦ
+r.24   [ἀ]ρτάβας ἑκατ[ὸν καὶ]
+r.25   αὐτῶν τῶν ἀπὸ Λινῆ πυροῦ ἀρτάβας ἑβδομήκοντα πέντε ἐπὶ σὲ κα[ταπεφεύ-]
+r.26   γαμεν , ἀξιοῦμέν σε τὸν πάντ[ων] σωτῆρα
+r.27   καὶ εὐεργέτην συντάξαι κλ[ηθῆναι αὐτοὺς]
+r.28   [ἐ]πὶ σὲ καὶ διαλαβεῖν περὶ τῆς ἀληθε[ίας, ὅτι] ἀπεστέρεσαν ἡ[μ]ᾶς [ ̣ ̣ ̣ ̣ ̣]
+r.29   [μ]έχρι τοῦ κη (ἔτους) πυροῦ ἀρταβῶν ἐνακοσ[ίων καὶ] τ̣ο̣ῦ̣δε τοῦ κθ (ἔτους) [Καί]σαρος (πυροῦ) ἀ̣[ρτάβας ρ]
+r.30   [καὶ] τὴν πρόσοδον ἀποδοῦναι ἡμεῖν [τὰς κατʼ] ἔτος ὑποκειμένας πυρο̣ῦ̣ ἀ̣ρ̣[τάβας ἑκατόν,]
+r.31   [ἵνʼ ὦ]μεν [ὑπὸ σ]οῦ εὐεργετημένοι.
+
+[TRANSLATION]
+1   To Publius Octavius,
+2   from Horos son of Teos and the [other p]riests [of (the gods) ... and]
+3   Apollo, the greatest gods, [from] the v[illage of Busiris]
+4   of the Herakleopolite (nome) above Memphis. [Near the village ... we happened to]
+5   hold lands consecrated [(to the temple) and a revenue, by succession from our]
+6   parents, of [one hundred] artabas of wheat. [But when the lands were taken over]
+7   into the public domain, ... [an allowance(?)]
+8   of one hundred artabas of wheat, and from the [revenue ...]
+9   one hundred artabas of wheat, so that the [total was two hundred per year,]
+10   from the [11]th [year] of Caesar until the 1[9th year ...; and for the]
+11   [due] (sacrifices) on behalf of the god and lord, Imperator Ca[esar],
+12   the sacrifices and libations, and for the [public services] performed by [us]
+13   each year, two hundred and eighty silver drachmas. [But from the 19th year,]
+14   Asklepiades, who had charge of the revenue, having gone abroad to Italy, the
+15   managers and grain-officers Herakleides and Dionysios, [both being]
+16   sons of Asklepiades' brother, and being from the [village of Line, having been bribed]
+17   with no small sum by the men of their own village, [deprived]
+18   us of the hundred artabas of wheat which we have from the revenue, [... until]
+19   the 19th year of Caesar. And the aforesaid Herakleides and Diony[sios ...],
+20   having authority over Asklepiades' affairs, have unlawfully given (the wheat) to th[ose of Line],
+21   though they had not yet received ... from the revenue ... ours, toward completion of the 175 (artabas) - the 100 (artabas) of wheat (that are) ours; and up to now they have obstructed (us), [being pow-]
+22   erfully backed by them. But now, having examined the public (records) [and found]
+23   the aforesaid wheat being assigned out to our temple,
+24   one hund[red] artabas, [and]
+25   (those) of the men of Line, seventy-five artabas of wheat - we have ta[ken refuge]
+26   with you, and we ask you, the savior of [all]
+27   and benefactor, to order [that they be summoned]
+28   before you, and to decide concerning the tru[th - that] they deprived [us ...]
+29   up to the 28th year, of nine hund[red] artabas of wheat, [and] for this 29th year of [Cae]sar, [100] ar[tabas] of wheat;
+30   [and] to restore to us the revenue, [the hundred] artabas of wheat [due each] year,
+31   [so that we may] be benefited [by] you.

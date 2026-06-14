@@ -1,0 +1,37 @@
+# ---------------------------------------------------------
+# BGU 3.863 - Fragment of a deed (festival at Karanis)
+# Source: papyri.info DDbDP bgu;3;863  (Trismegistos 31241)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 3.863
+label:    BGU 3.863
+name:     Fragment of a deed (festival at Karanis)
+genre:    contracts
+date:     3rd c. CE
+language: Greek (Koine)
+found:    Karanis (Arsinoite nome / Fayum), Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 7490 Ro
+content:  Opening of a deed of Aurelia Seuthaurion, acting without a guardian by the Roman right of children, drawn up during a festival at the village of Karanis, concerning her son Kastor
+tm:       31241
+source:   https://papyri.info/ddbdp/bgu;3;863
+lat:      29.5186
+lon:      30.9036
+
+[GREEK]
+r.1   [παρὰ Αὐρηλία]ς Σευθαρίου χρηματι-
+r.2   [ζούσης] [χωρ]ὶς κυρίου κατὰ τὰ Ῥωμαί-
+r.3   [ων ἔθη τέ]κνων δικαίῳ. πανηγύ-
+r.4   [ρεως οὔσ]ης ἐν κώμῃ Καρανίδι
+r.5   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ̣ ̣[ ̣ ̣] υἱ ῷ μου Κάστορι
+r.6   [ ]ν Σαράπ[ιδι (?) ]
+
+[TRANSLATION]
+1   [From Aurelia] Seuthaurion, sty-
+2   [led, acting] without a guardian by the Roman
+3   [custom, by the right of] children. A fest-
+4   ival [being held] in the village of Karanis,
+5   [...] to my son Kastor
+6   [...] to Sarapis(?) ...

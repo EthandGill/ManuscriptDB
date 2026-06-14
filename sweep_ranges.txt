@@ -1,0 +1,43 @@
+# Ranges for parallel_sweep.py — one DDbDP series-range per line.
+# Format: <series>;;<lo>-<hi>   (e.g. o.wilck;;561-610) or <series>;<vol>;<lo>-<hi>
+# Lines starting with '#' are ignored. ~1 Firecrawl credit per id scraped.
+# Each line produces _sweep_<range>.json; already-scraped ranges are skipped.
+#
+# Seeded to continue your existing wells. EDIT freely — probe sparse series first.
+# At 50 ids/line, the list below is ~1,150 ids (~1,150 credits) of receipts —
+# the deepest, most formulaic well. Add contracts/letters/petitions ranges as you go.
+# ----------------------------------------------------------------------------
+
+# --- Receipts: Wilcken ostraca (series runs to ~1624; you've done <=560) ---
+o.wilck;;561-610
+o.wilck;;611-660
+o.wilck;;661-710
+o.wilck;;711-760
+o.wilck;;761-810
+o.wilck;;811-860
+o.wilck;;861-910
+o.wilck;;911-960
+o.wilck;;961-1010
+o.wilck;;1011-1060
+o.wilck;;1061-1110
+o.wilck;;1111-1160
+o.wilck;;1161-1210
+o.wilck;;1211-1260
+o.wilck;;1261-1310
+o.wilck;;1311-1360
+o.wilck;;1361-1410
+o.wilck;;1411-1460
+o.wilck;;1461-1510
+o.wilck;;1511-1560
+o.wilck;;1561-1610
+o.wilck;;1611-1624
+
+# --- Fayum ostraca (receipts) — probe density first ---
+o.fay;;51-100
+o.fay;;101-150
+
+# --- More series to mix in (probe a few ids before committing big ranges) ---
+# bgu;3;901-950        letters / receipts
+# bgu;4;1201-1250      contracts
+# p.oxy;2;321-360      letters / contracts
+# p.tebt;2;446-490     letters / documents

@@ -1,0 +1,87 @@
+# ---------------------------------------------------------
+# BGU 4.1110 - Release ending a wet-nurse engagement (milk failed)
+# Source: papyri.info DDbDP bgu;4;1110  (Trismegistos 18551)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1110
+label:    BGU 4.1110
+name:     Release ending a wet-nurse engagement (milk failed)
+genre:    contracts
+date:     21 Nov 5 BCE
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13112 \[1\
+content:  Harpochration and the nurse Apollonia (with her husband-surety Chairemon) mutually release each other: her milk having spoiled after eight months, she acknowledges full payment, he the return of his slave infant Agalmation, with reciprocal no-claim and penalty clauses
+tm:       18551
+source:   https://papyri.info/ddbdp/bgu;4;1110
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   κόλ(λημα)
+r.2   Πρωτάρχωι
+r.3   παρὰ Ἁρποχρατίωνος τοῦ Καίσαρος καὶ παρὰ Ἀπολλωνίας τῆς
+r.4   Νανῶτος μετὰ κυρίου καὶ [ἐ]νγύου τοῦ τοῦ ἀνδρὸς Χαιρήμονος τοῦ
+r.5   Πετήσιος. καὶ αὐ(τοῦ) Χαιρή(μονος) ἐπεὶ τυγχάνει ὁ Ἁρποχρατίων ἐγδεδομένος τῆι
+r.6   [Ἀπολλωνίαι δουλικὸν αὑτοῦ παιδίον ἀναίρετον ὑποτίτθιον]
+r.7   [- ca.10 - ὧι ὄνομα [Ἀγ]αλμάτιον, ὥστε τροφευθῆναι
+r.8   ὑπʼ αὐτῆς Ἀπολλωνίας τῷ ἰδίῳ αὐ(τῆς) γάλακτι ε̣ἰ̣ς̣ τ̣ὸ̣ν̣ δ̣ι̣α̣σ̣τ̣α̣θ̣έ̣ν̣τ̣α̣
+r.9   χ̣ρ̣ό̣ν̣ο̣ν̣, μηδέπω δὲ
+r.10   τῆς περὶ τῆς τροφείας δουλικ(οῦ) παιδίο(υ) ᾧ ὄνομα Ἀγαλμάτιο(ν) ἀσφαλείας
+r.11   γεγονυίας συμβέ-
+r.12   βηκεν τὸ τῆ(ς) Ἀπολ(λωνίας) γάλα διεφθάρθαι , συνχωροῦμεν
+r.13   πρὸς ἑατοὺς ἐπὶ τοῖσδε· ἡ μὲν Ἀπολλωνία π̣ε̣π̣λ̣η̣ρῶσθαι ὑπ̣ὸ̣ τοῦ
+r.14   Ἁρποχρατίωνος διά τε χειρὸς ἐξ οἴκου καὶ διὰ τραπ(έζης) κατὰ μέρος τὰ κατὰ μῆνα
+r.15   τῶν
+r.16   τῶν ὀκτὼ μηνῶν τροφεῖα καὶ μηδὲν ἐνκαλεῖν τῶι
+r.17   Ἁρποχρατίωνι περὶ τούτων κατὰ μηδένα τρόπον, τ̣ὸ̣ν̣ δ̣ὲ̣ κ̣α̣ὶ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.18   , ὁ δὲ
+r.19   Ἁρποχρατίων καὶ αὐτὸς παρειληφέναι παρὰ τῆς Ἀπολλωνίας τὸ
+r.20   δηλούμενο(ν) αὐτοῦ δουλικ(ὸν) παιδίον Ἀγαλμάτιον καὶ μηδὲν ἐνκαλεῖν ̣ ̣ ̣ ̣ μήτε τῇ Ἀ̣π̣ο̣λ̣(λωνία) μ̣ή̣τ̣ε̣ τ̣ῷ̣
+r.21   Χαιρήμονι ὑπὲρ τῶν κατὰ τὴ(ν) τροφεία̣ν̣ [πάντ]ων ἢ, χωρὶς τοῦ κύρια
+r.22   εἶναι [τὰ συνκεχ]ωρημένα, συνέχεσθαι
+r.23   α̣ὐ̣τ̣ὸ̣ν̣ π̣α̣ρ̣α̣β̣α̣ί̣ν̣ο̣(ντα) τ̣ο̣ῖ̣ς̣ τ̣ε̣ β̣λ̣(άβεσι) καὶ τῷ [ὡρισμένῳ προστίμ]ωι τὴν δὲ Ἀπολ(λωνίαν) καὶ τὸ(ν)
+r.24   Χαιρή(μονα) ἐκτίν(ειν)
+r.25   τ
+r.26   ἃ εἴληφεν ἡ Ἀπολ(λωνία) τ̣ρ̣ο̣φ̣(εῖα) σὺν [ἡμ(ιολίᾳ)]
+r.27   ἐπ(ιτίμου) καὶ ἄλλας ἀργυρίου δραχμὰς
+r.28   τριακοσίας καθάπερ ἐγ δίκης
+r.29   μηδὲ περὶ ἄλλου μηδενὸ(ς) ἁπλῶς τῶν ἕως τῆ(ς) ἐνε(στώσης) ἡμέρας κατὰ μη(δένα)
+r.30   τρόπ(ον)
+r.31   (ἔτους) κϛ Καίσαρος [Ἁ]θὺρ κε
+
+[TRANSLATION]
+1   (Sheet.)
+2   To Protarchos.
+3   From Harpochration son of Kaisar, and from Apollonia daughter of
+4   Nanos, with her guardian and surety, her husband Chairemon son of
+5   Petesis, and of Chairemon himself. Since Harpochration happens to have given out to
+6   [Apollonia his slave infant, a foundling at the breast,]
+7   [...] named [Ag]almation, to be reared
+8   by Apollonia herself, with her own milk, for the agreed
+9   period; but, no
+10   security yet having been made about the rearing of the slave infant named Agalmation,
+11   it has come
+12   about that Apollonia's milk has spoiled; we agree
+13   with one another on these terms: Apollonia (acknowledges) that she has been paid in full by
+14   Harpochration, both by hand from the house and through the bank, in installments, the monthly
+15   ...
+16   nursing-fees for the eight months, and that she makes no claim against
+17   Harpochration concerning these matters in any way; and ...
+18   and
+19   Harpochration too (acknowledges) that he has received back from Apollonia the
+20   aforesaid slave infant of his, Agalmation, and that he makes no claim either against Apollonia or against
+21   Chairemon concerning [all] the matters of the rearing; or, apart from the agreed terms
+22   remaining valid, (the transgressor) shall be liable,
+23   if he transgresses, both to the damages and to the [fixed penalty]; and Apollonia and
+24   Chairemon (are) to pay
+25   ...
+26   the nursing-fees Apollonia received, with [half as much again]
+27   as penalty, and another
+28   three hundred silver drachmas, as if by legal judgment;
+29   nor (shall claim be made) concerning anything else at all up to the present day, in any
+30   way.
+31   Year 26 of Caesar, [Ha]thyr 25.

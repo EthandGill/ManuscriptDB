@@ -1,0 +1,115 @@
+# ---------------------------------------------------------
+# BGU 4.1154 - Acknowledgment of repayment of two loans; end of a son’s paramone
+# Source: papyri.info DDbDP bgu;4;1154  (Trismegistos 18604)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1154
+label:    BGU 4.1154
+name:     Acknowledgment of repayment of two loans; end of a son’s paramone
+genre:    contracts
+date:     4 May 10 BCE
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13053
+content:  Heliodoros agrees he has been repaid two loans (660 + 100 dr.) by Didymos, Seuthes and Theodote; both loan-agreements and the bond-service (paramone) of their son Didymos are cancelled, with a no-claim clause
+tm:       18604
+source:   https://papyri.info/ddbdp/bgu;4;1154
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   Πρωτάρχωι
+r.2   παρὰ Ἡλιοδώρου τοῦ Ἡ̣λ̣ι̣[οδ]ώ̣ρ̣ου
+r.3   τοῦ καὶ Ἀφροδει[σ]ίου Ἀ̣[λ]θ̣α̣ι̣έ̣ω̣ς̣
+r.4   καὶ παρὰ Διδύμου καὶ Σεύθο[υ ἀμ-]
+r.5   φοτέρων Δ[ι]δύμου καὶ τῆς [τοῦ]
+r.6   Διδύμου γυναικὸς Θεο[δότ]ης τῆς
+r.7   Θεοδώρου μετὰ κυρίου τ[οῦ] ἀνδρός.
+r.8   συνχωρεῖ ὁ Ἡλιόδωρος ἀπεσχη[κ]έναι
+r.9   παρὰ τοῦ Διδύμου καὶ Σεύθου [κ]αὶ Θεο-
+r.10   δότης διὰ χειρὸς ἐξ οἴκου τὰ δάνηα
+r.11   ἃ ἐδάνεισεν αὐτοῖς κατὰ συνχω-
+r.12   ρήσεις δύο τὰς διὰ τοῦ αὐτοῦ κριτη-
+r.13   ρίου γεγονυίας τῶι ιγ (ἔτει) Καίσαρος
+r.14   Φαμενὼθ μίαν μὲν δραχμὰς
+r.15   ἑξακοσίας ἑξήκοντα καὶ τοὺς τού-
+r.16   των τόκους, τὴν δὲ ἑτέραν δρα-
+r.17   χμὰς ἑκατόν , καὶ εἶναι ἀκύρο̣[υ]ς
+r.18   ἀμφοτέρας τὰς συνχωρήσεις καὶ
+r.19   τὰς [γ]ενηθεί[σ]ας κατʼ αὐτὰς δια-
+r.20   γραφὰς διὰ τῆς Ζωίλου τραπέζης
+r.21   σὺν τῇ διὰ τῆ[ς] τῶν ἑκατὸν δρα-
+r.22   χμῶν συνχωρήσεως σ̣η̣μ̣α̣ν̣θ̣ε̣ί̣-
+r.23   σηι παραμονῇ τοῦ Διδύμου
+r.24   καὶ Θεοδότης υἱοῦ Διδύμου καὶ
+r.25   μὴ ἐπελεύσεσθαι τὸν Ἡλιό[δ]ωρον
+r.26   μηδʼ ἄλλον ὑπὲρ αὐτοῦ [ἐπὶ] τ̣[ὸ]ν Δίδυ-
+r.27   μον καὶ Σεύθην καὶ Θεοδότην
+r.28   μήτε περὶ τῶν αὐτῶν μ̣ή̣τ̣ε̣
+r.29   περὶ ἄλλου μηδενὸς ἁπλῶς [ὀ]φ[ε]ιλή-
+r.30   ματος ἢ ἀπαιτήματος ἐγγράπτου
+r.31   ἢ ἀγράφου ἀπὸ τῶν ἔμπροσθεν
+r.32   χρόνων μέχρι τῆς ἐνεστώσης
+r.33   ἡμέρας, ἀλλὰ μηδὲ ἐ̣π̣ὶ̣ τ̣ὸ̣ν̣ [υ]ἱ̣ὸ̣ν̣
+r.34   Δίδυμον ἐπελεύσεσθαι περὶ τ̣ῶ̣ν̣
+r.35   κατὰ τὴν παραμονὴν τρόπωι
+r.36   μηδενὶ ἢ χωρὶς τοῦ κύρια εἶναι
+r.37   τὰ συνκεχωρημένα ἐνέχεσθαι
+r.38   αὐτὸν παραβαίνοντα τοῖς τε βλάβε-
+r.39   σι καὶ τῶι ὡρισμένωι προστίμωι.
+r.40   (ἔτους) κ Καίσαρος Π̣α̣χ̣ὼ̣ν̣ θ̣r
+r.41   (hand 2) [ἀμ]φ̣οτέρω̣(ν) Σεύθης καὶ Δίδυμο(ς)
+r.42   ／ Δίδυμος
+r.43   καὶ Θεοδότη Θεο[δώρου]
+r.44   τῶι [Ἡλιοδώρωι]
+r.45   ἀρ̣γ̣(υρίου) (δραχμὰς(?)) ψ̣[ξ]
+
+[TRANSLATION]
+1   To Protarchos.
+2   From Heliodoros son of Heli[od]oros
+3   also called Aphrodisios, of the Althaieus deme,
+4   and from Didymos and Seuthes, bo-
+5   th sons of Didymos, and of
+6   Didymos' wife Theodote daughter of
+7   Theodoros, with her husband as guardian.
+8   Heliodoros agrees that he has received back
+9   from Didymos and Seuthes and Theo-
+10   dote, by hand from his house, the loans
+11   which he had lent them by two
+12   agreements made through the same
+13   court in the 13th year of Caesar,
+14   Phamenoth - the one, six hundred
+15   and sixty drachmas with their
+16   interest, and the other, one
+17   hundred drachmas; and that
+18   both agreements are void, and
+19   the payment-orders made under them
+20   through the bank of Zoilos,
+21   together with the (paramone) indicated by the agreement of the hundred dra-
+22   chmas - the bond-service (paramone)
+23   of the son of Didymos
+24   and Theodote, (named) Didymos; and
+25   that Heliodoros shall not proceed,
+26   nor anyone on his behalf, against Didy-
+27   mos and Seuthes and Theodote,
+28   neither concerning these matters nor
+29   concerning any other debt at all
+30   or claim, written
+31   or unwritten, from former
+32   times up to the present
+33   day; nor even against the son
+34   Didymos shall he proceed concerning the things
+35   relating to the bond-service, in any
+36   way; or, apart from the agreed terms remaining valid,
+37   he shall be liable,
+38   if he transgresses, both to the dama-
+39   ges and to the fixed penalty.
+40   Year 20 of Caesar, Pachon 9.
+41   (2nd hand) Of both, Seuthes and Didymos,
+42   and Didymos,
+43   and Theodote daughter of Theo[doros],
+44   to [Heliodoros]:
+45   760 silver [drachmas].

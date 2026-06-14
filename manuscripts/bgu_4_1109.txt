@@ -1,0 +1,87 @@
+# ---------------------------------------------------------
+# BGU 4.1109 - Wet-nurse contract for the foundling Pollarous
+# Source: papyri.info DDbDP bgu;4;1109  (Trismegistos 18550)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1109
+label:    BGU 4.1109
+name:     Wet-nurse contract for the foundling Pollarous
+genre:    contracts
+date:     4 Nov 5 BCE
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13103 Ro \[1\
+content:  Gaius Ignatius Maximus contracts to provide his slave-woman Chrotarion to wet-nurse, for ten months, the female foundling Pollarous (child of the freedwoman Kallityche, whose own milk failed), at 10 dr./month, with the usual nurse’s obligations and penalties
+tm:       18550
+source:   https://papyri.info/ddbdp/bgu;4;1109
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   κόλ(λημα)
+r.2   Πρωτάρχωι
+r.3   παρὰ Θερμουθαρίου τῆς Εἰρηναίου ἀστῆς μετὰ κυρίου Ἑρμίου
+r.4   τοῦ Ἀθηνοδώρου καὶ παρὰ Γαίου Ἰγνατίου Μαξίμου. συνχωρεῖ ὁ
+r.5   Γάι[ος Ἰ]γναιος Μάξιμος παρασχέσθαι τὴν δούλην αὑ[τ]οῦ Χρωτάριο(ν)
+r.6   τροφεύουσαν καὶ θηλάζουσαν τῶι ἰδίῳ αὐτῆς γάλακτι καθαρῷ καὶ
+r.7   ἀφθόρωι ἔξω παρʼ ἑατῶι Γαίωι κατὰ πόλιν ἐπὶ χρόνον μῆνας
+r.8   [δέ]κ[α] ἀπὸ Ἁθὺρ τοῦ ἐνεστῶτος ἕκτου καὶ εἰκοστοῦ ἔτους Καίσαρος
+r.9   ὃ ἐνκεχείρικεν αὐτῇ Θερμουθάριον τῆς ἀπελευθέρας αὐτῆ(ς)
+r.10   Καλλιτύχης παιδίον θῆλυ ᾧ ὄνομα Πωλλαροῦς διὰ τὸ τῆς
+r.11   Καλλιτύχης ἐν ἀσθενείᾳ διατεθείσης διεφθάρθαι τὸ ταύτης
+r.12   γάλα, μισθοῦ τοῦ ἑσταμένου τοῦ τε γάλακτος καὶ τῆς τροφήας
+r.13   σὺν ἐλαίωι κατὰ μῆνα δραχμῶν δέκα , ἔσχηκεν δ̣έ̣ ὁ Γάι[ος] π̣α̣ρ̣ὰ̣ τ̣ῆ̣ς̣
+r.14   Θερμουθαρίου διὰ χειρὸς ἐξ οἴκου τὰς συνα[γομ]ένας τ[ῶ]ν ἀ[πὸ το]ῦ
+r.15   Ἁθὺρ ἕως Τῦβι μηνῶν τριῶν τῶν τροφείων δραχμὰς τρ[ιάκοντα] ·
+r.16   ε̣ὐ̣τ̣α̣κ̣τούμενον τὸν Γάιον τοῖς ἀπὸ Μεχεὶρ μη[νὸς τροφείοις]
+r.17   παρέχεσθαι τὴν δούλην ἀπὸ τοῦ νῦν ποιουμένη[ν τήν τε ἑαυτῆς]
+r.18   καὶ τοῦ π[αι]δίου ἐπιμέλειαν, μὴ φθίρουσαν τὸ γάλα μ[ηδʼ ἀνδροκοιτ(οῦσαν)]
+r.19   μηδʼ ἐπικυοῦσαν μηδʼ ἄλλο παιδίον παρ[α]θη[λ]άζ[ουσαν, ἅ τε]
+r.20   ἐὰν λάβῃ ἢ πιστθῇ σῶα συντηρήσειν κ̣α̣ὶ̣ ἀ̣π̣ο̣δώ[σειν ὅταν ἀπαιτῆται]
+r.21   ἢ ἐκτίνιν τὴν ἑκάστου ἀξίαν πλὴν συνφανοῦ[ς ἀπωλείας]
+r.22   ἧς καὶ φανερᾶς γινηθίσης ἀπολε[λύσ]θω, καὶ μὴ ἐγλείπ̣[ειν τὴν τροφείαν]
+r.23   ἐντὸς <τοῦ> χρόνου. ἐὰν δέ τι παραβαίνῃ ἐκτίνιν ἑ̣α̣υ̣τ̣[ὸν ἅτε εἴληφε τροφεῖα]
+r.24   καὶ ἃ ἐὰν λάβῃ σὺν ἡμιολίᾳ καὶ τὰ βλάβη καὶ δαπανήματα κ̣α̣ὶ̣ ἄ̣λ̣λ̣α̣[ς]
+r.25   ἀρ[γ]υρίου δραχμὰς δια[κοσίας] , τ̣ῆ̣ς̣ π̣ρά̣ξ̣ε̣ω̣ς̣ γ̣ε̣ι̣ν̣ο̣μ̣έ̣ν̣η̣ς̣ καθάπ(ερ)
+r.26   ἐγ δίκης. καὶ τὴν δὲ Θ̣ε̣ρ̣μ̣[ουθάριο]ν ἐπιτελούσης τῆς Χ[ρωταρίου]
+r.27   ἕ̣κ̣α̣σ̣τ̣α̣ χορηγεῖν ἀπὸ τοῦ [νῦν τ]ὰ κ̣α̣τ̣ὰ̣ μ̣ῆ̣(να) τροφεῖα καὶ μὴ
+r.28   ἀ̣π̣ο̣σπάσειν τὸ παιδίον <ἐντὸς τοῦ> χρό[νου ἢ] καὶ α̣ὐ̣τ̣ὴ̣[ν] ἔνοχον ἶναι τῷ ἴσῳ
+r.29   ἐ̣π̣ιτίμωι . παραβαλεῖ δὲ [ἡ Χ]ρωτάριον σὺν τῷ παιδίῳ πρὸς τ[ὴν]
+r.30   Θερμουθάριο̣ν̣ τοῦ μην[ὸς ̣ ̣]ς. ἀξιο(ῦμεν).
+r.31   (ἔτους) κϛ Καίσαρος Ἁθὺρ η
+
+[TRANSLATION]
+1   (Sheet.)
+2   To Protarchos.
+3   From Thermoutharion daughter of Eirenaios, a citizen, with her guardian Hermias
+4   son of Athenodoros, and from Gaius Ignatius Maximus. Gaius
+5   [I]gnatius Maximus agrees to provide his slave-woman Chrotarion
+6   to rear and suckle, with her own milk, pure and
+7   untainted, outside at Gaius' own (house) in the city, for a period of
+8   [te]n months from Hathyr of the present twenty-sixth year of Caesar,
+9   (to nurse the child) which Thermoutharion has entrusted to her - (the child) of her freedwoman
+10   Kallityche, a female infant named Pollarous - because
+11   Kallityche, having fallen ill, her
+12   milk has spoiled; at the fixed wage for the milk and rearing,
+13   with oil, of ten drachmas a month; and Gaius has received from
+14   Thermoutharion, by hand from the house, the sum amounting for the (months) from
+15   Hathyr to Tybi, three months' nursing-fees, thirty drachmas;
+16   Gaius paying regularly the [nursing-fees] from the month Mecheir,
+17   (he is) to provide the slave-woman from now on, taking [both her own]
+18   and the infant's care, not spoiling the milk, [nor lying with a man,]
+19   nor becoming pregnant, nor suckling another infant alongside; [and whatever]
+20   she receives or is entrusted with she shall keep safe and re[turn when demanded,]
+21   or pay the value of each, except for evident [loss],
+22   of which, once made clear, let her be released; and she shall not abandon [the nursing]
+23   within the period. And if she transgresses anything, she shall repay [the nursing-fees she has received]
+24   and whatever she received, with half as much again, and the damages and expenses, and another
+25   [two hundred] silver drachmas, the right of execution being exercised as
+26   by legal judgment. And Therm[outharion], while Ch[rotarion] performs
+27   each duty, (is) to supply from [now] the monthly nursing-fees, and not
+28   to take the infant away <within the> peri[od, or] she too shall be liable to the same
+29   penalty. And [Ch]rotarion shall present herself with the infant before
+30   Thermoutharion (each) month(?). We request (registration).
+31   Year 26 of Caesar, Hathyr 8.

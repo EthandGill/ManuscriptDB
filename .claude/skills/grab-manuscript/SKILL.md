@@ -146,7 +146,24 @@ placeholder). Write one line per verse for every verse range in the manuscript:
 7:7    and not only by his coming but also by the comfort...
 ```
 
-Use ESV-style English translations (standard modern scholarly rendering).
+**Translate faithfully to THIS manuscript's actual Greek — including its variant
+readings — not the generic ESV text for the verse numbers.** Early papyri often
+differ from the printed Bible (word order, omissions, different readings); the
+translation must reflect what this papyrus preserves, with lost stretches marked
+`…` and reconstructed `[lacunae]`/`{nomina sacra}` rendered as the editors restore
+them. Modern scholarly English is the register, but the *content* follows the Greek
+on the page, not a memorized verse.
+
+Use **`extract_verses.py`** to make this efficient — it re-fetches the NTVMR pages,
+reads the TEI `<ab n="B07K7V10">` verse anchors the importer discards, and emits a
+verse-aligned `[TRANSLATION]` scaffold showing the real reconstructed Greek per
+verse (split words re-joined, `[reconstructions]`/`{nomina sacra}` kept, gaps as
+`…`). Then translate each verse from the Greek it shows:
+
+```bash
+python extract_verses.py --docID <docID> --id P<N> --pages <ids> --out manuscripts\P<N>.translation.txt
+python test_extract_verses.py   # offline regression suite, if you touch the parser
+```
 
 **For multi-book manuscripts** (e.g. P34 containing both 1 Cor and 2 Cor):
 - The importer already wrote `[GREEK:1 Corinthians]` and `[GREEK:2 Corinthians]` sections

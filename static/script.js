@@ -1115,7 +1115,7 @@ const EPIGRAPHY_GENRES = [
     { id: 'public',      label: 'Public',      icon: '◆' },
 ];
 
-let epigraphy = [];  // populated when epigraphy data is added
+let epigraphy = (typeof window !== 'undefined' && window.EPIGRAPHY_DATA) ? window.EPIGRAPHY_DATA : [];  // from static/epigraphy_data.js (edh_ingest.py)
 
 // ── MANUSCRIPT SECTION ────────────────────────────────────
 

@@ -138,5 +138,19 @@
     "modern": "Ihnasya el-Medina, Egypt",
     "lat": 29.0667,
     "lon": 30.9333
+  },
+  {
+    "id": "antaiopolis",
+    "name": "Antaiopolis",
+    "modern": "Qaw el-Kebir, Egypt",
+    "lat": 26.9,
+    "lon": 31.52
+  },
+  {
+    "id": "athribis",
+    "name": "Athribis",
+    "modern": "Tell Atrib (Banha), Egypt",
+    "lat": 30.47,
+    "lon": 31.18
   }
 ]

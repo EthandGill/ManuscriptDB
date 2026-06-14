@@ -1,0 +1,37 @@
+# ---------------------------------------------------------
+# P.Oxy 3.514 - Receipt for a clerk’s salary (opsonion)
+# Source: papyri.info DDbDP p.oxy;3;514  (Trismegistos 20645)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.514
+label:    P.Oxy 3.514
+name:     Receipt for a clerk’s salary (opsonion)
+genre:    receipts
+date:     190-191 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Poughkeepsie, Vassar College P. Oxy. 514
+content:  Neilos and his fellow collector of grain-taxes acknowledge receiving 400 drachmas as salary (opsonion) for registering the tax-accounts of lands at Talao near Sinaru for the past 30th year
+tm:       20645
+source:   https://papyri.info/ddbdp/p.oxy;3;514
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Νείλῳ χρη(ματίζοντι) μητ(ρὸς) Σοή(ριος) καὶ τῷ σὺν αὐ(τῷ) ἀπαιτητ(ῇ) σι(τικῶν)
+r.2   ὀφειλόντ(ων) ὑπ(ὲρ) κα̣ὶ̣
+r.3   φόρων τῶν ἐν Ταλαὼ περὶ Σιναρὺ
+r.4   γενήμ(ατος) τοῦ διελ(θόντος) λ (ἔτους)
+r.5   χαί̣(ρειν). ἔσχον παρʼ ὑ μῶν ὑπὲρ ὀψωνίου ἀργυ(ρίου) (δραχμὰς) υ,
+r.6   τοῦ καταχωρισμ(οῦ) τῶν βιβλ(ίων) ὄντος πρὸς ἐμὲ
+
+[TRANSLATION]
+1   To Neilos, styled (son of his) mother Soeris, and the collector of grain-(taxes) with him,
+2   of those owing for ... and
+3   the rents of (the lands) in Talao near Sinaru,
+4   of the produce of the past 30th year.
+5   Greeting. I have received from you, for salary (opsonion), 400 silver drachmas,
+6   the registration of the accounts being my responsibility.

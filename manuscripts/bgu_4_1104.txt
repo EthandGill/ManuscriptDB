@@ -1,0 +1,93 @@
+# ---------------------------------------------------------
+# BGU 4.1104 - Dissolution of a marriage-settlement after the husband’s death
+# Source: papyri.info DDbDP bgu;4;1104  (Trismegistos 18544)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1104
+label:    BGU 4.1104
+name:     Dissolution of a marriage-settlement after the husband’s death
+genre:    contracts
+date:     8 BCE
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13171 Vo
+content:  Dionysarion (widow of Hermias) and her late husband’s mother Hermione cancel the marriage-agreement and the mother’s surety: the dowry (clothing, jewelry, 100 dr.) is returned, no further claims; since Dionysarion is pregnant she may expose the infant and remarry. With a tax docket
+tm:       18544
+source:   https://papyri.info/ddbdp/bgu;4;1104
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   κόλ(λημα)
+r.2   Π̣[ρωτάρχ]ωι
+r.3   [παρ]ὰ Διονυσαρίου τῆς Πρωτάρχου μετὰ κυρίου τοῦ ἀδελφοῦ
+r.4   [αὐ]τῆς Πρωτάρχου καὶ παρὰ Ἑρμιόνης τῆς Ἑρμίο[υ] ἀστῆς
+r.5   [μετὰ κ]υρίου τοῦ τοῦ ἀδελφοῦ υ̣ἱ̣ο̣ῦ̣ Ἑρμίου τοῦ (ὁμοίως) . συνχωρεῖ
+r.6   ἡ̣ Δ̣[ιο]νυσάριον εἶναι ἄκυρον ἣν ἀνήνενκεν ὁ μετηλλαχὼ[ς]
+r.7   αὐ(τῆς) Ἑ̣ρ̣μ̣ι̣όνης υἱὸς Ἑρμίας Ἑρμίου διʼ ἐγγύου αὐτῆς Ἑρμι-
+r.8   [ό]ν̣η̣[ς] διὰ τοῦ αὐτοῦ κριτηρίου τῷ κα (ἔτει) Καίσαρος Φαῶφι
+r.9   {ἔ̣τ̣ο̣υ̣ς̣ [κα]} συνχώρησιν ἕνεκα τοῦ μετηλλαχότος αὐτῆ̣(ς)
+r.10   [υ]ἱ̣ο(ῦ) αὐτ[ὴ(ν)(?) δὲ τὴ]ν [Δ]ιονυσάρ[ιο]ν ἀπεσχηκέναι παρὰ τῆς Ἑρμιόνη(ς)
+r.11   [δ]ιὰ χειρὸς ἐξ οἴκου ἣν προσηνένκατο τῶι Ἑ̣ρ̣μ̣ί̣α̣ι̣ δ̣ι̣ʼ ἐ̣γ̣γ̣ύου
+r.12   τῆς Ἑρμιόνης φερνὴν ἱμάτια ἀργυ(ρίου) (δραχμῶν) δ[ια]κοσίων τεσ-
+r.13   σαράκοντα καὶ ἐν̣[ώ]τ̣ι̣α καὶ δακτυλίδιον σ̣τ̣ρ̣- ca.14 - κ̣α̣ὶ̣
+r.14   ἀργυ(ρίου) (δραχμὰς) ἑκατόν· εἶνα[ι] μὲν ἄκυρον τ̣ὴ̣ν̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ [συνχ]ώρησ(ιν)
+r.15   σ̣ὺ̣ν̣ τοῖς διʼ αὐτῆς σημαινομένοις πᾶσι, μὴ [ἐ]πελεύσεσθαι
+r.16   δὲ τὴν Διονυσάριον μηδʼ ἄλλον ὑπὲρ αὐτῆς ἐπὶ τὴν Ἑρ-
+r.17   μιόνην μηδὲ ἐπὶ τὰ ὑπὸ τοῦ μετηλλαχότος Ἑ̣ρ̣μ̣ί̣ου
+r.18   ἀπολελειμμένα μήτε περὶ φερνῆς ἢ̣ σ[υ]ν̣[β]ι̣ώ̣σ̣ε̣ω̣ς̣
+r.19   μηδὲ περὶ ἄλλου μηδενὸς ἁπλῶς ἐγγράπ(του) ἢ ἀ̣γ̣[ρά]φ̣[ο]υ̣
+r.20   ἀπὸ τῶν ἔμπροσθεν [χ]ρόνων μέχρι τῆς ἐνεστώσης ἡ-
+r.21   μέρας. ἐπεὶ δὲ καὶ ἔνκυος καθέ̣σ̣τ̣ηκεν ἡ̣ Διονυσάριον,
+r.22   μὴ ἐπελεύσεσθαι αὐτὴν μηδὲ περὶ λ̣[οχ]ε̣ί̣ων δ̣ι̣ὰ̣ το̣ῦ̣ π̣ερ[ὶ]
+r.23   τούτων εὐπειθῆ γεγονέναι καὶ ἐξεῖναι αὐτῇ μ̣η̣ς̣ ̣ ̣ ̣ ̣ ̣ ̣ ἑα-
+r.24   τῆς τὸ βρέφος ἐκτίθεσθαι καὶ συναρμόζ̣εσ[θαι ἄλλῳ]
+r.25   ἀνδρί, καὶ χωρὶς τοῦ κύρια ἶναι τὰ συνκεχωρη[μέ]να [ἐνέχεσθαι]
+r.26   αὐτὴν παραβαίνουσαν τοῖς τε βλάβεσι καὶ τῷ ὡ̣ρ̣ι̣σ̣μ̣έ̣-
+r.27   νῳ προστίμωι. ἀξιοῦ(μεν) εὐτύ(χει)
+r.28   (ἔτους) κβ Καίσαρος [Π]α̣χ̣[ὼν ̣ ̣] minf,I
+r.29   (hand 2) - ca.20 - τῶν ἐκ τ(οῦ) ὑπὲρ Μέμφιν Ἡρακλεοπ(ολίτου)
+r.30   μ̣ε̣μ̣ι̣σ̣θ̣ ̣ ̣ ̣ [γ]ῆ[ς] σιτ̣ο̣(φόρου) ἐν σ̣φ̣ρ̣α̣γ̣(ῖσι) ̣ ̣ ̣ ̣ κώ(μη ) Μαχὸρ ἐκ τοῦ [Ζ]ω̣ί̣λ̣(ου) κλήρο(υ)
+r.31   Ἀτίλ(ιος) ̣ ̣ ̣
+r.32   Τίτος Αὐφίδιος καὶ Ἐ̣γ̣[ν]άτιος Φέσ̣τ̣ιος Κυρε̣ί̣[να]
+r.33   στρα(τιῶται) λεγε(ῶνος) κβ σπείρ(ης) γ (δραχμὰς) πεντακοσίας Ἀ[ ̣ ̣]
+r.34   δωρος̣ Θε ̣ ̣ ̣ρ[ ̣ ̣] ̣ ̣α̣ι̣χ( ) ̣ ̣ Πτ(ολεμαικοῦ) τόκ(ων) (διδράχμων(?))
+
+[TRANSLATION]
+1   (Sheet.)
+2   To P[rotarch]os.
+3   [Fro]m Dionysarion daughter of Protarchos, with her guardian, her brother
+4   Protarchos, and from Hermione daughter of Hermias, a citizen,
+5   [with her g]uardian, her brother's son Hermias, likewise (a citizen). There agrees
+6   Dionysarion that void is (the agreement) which the deceased
+7   son of this Hermione, Hermias son of Hermias, had brought in, through the surety of Hermi-
+8   one, through the same court, in the 21st year of Caesar, Phaophi -
+9   the agreement made on account of her deceased
+10   son; and that Dionysarion has received back from Hermione,
+11   by hand from the house, the dowry which she had brought to Hermias through the surety
+12   of Hermione - a dowry of clothing worth two hundred and for-
+13   ty silver drachmas, and earrings and a ring ..., and
+14   one hundred silver drachmas; and that void is the ... [agree]ment
+15   together with all that is indicated by it; and that
+16   Dionysarion shall not proceed, nor anyone on her behalf, against Her-
+17   mione, nor against the (property) left by the deceased Hermias,
+18   neither concerning the dowry nor the cohabitation (marriage),
+19   nor concerning anything else at all, written or unwritten,
+20   from former times up to the present
+21   day. And since Dionysarion is also pregnant,
+22   she shall not proceed even concerning the childbirth, since concerning
+23   these matters she has been satisfied; and that it is permitted to her ... her-
+24   self to expose the infant and to join [another]
+25   man; and, apart from the agreed terms remaining valid, [she shall be liable,]
+26   if she transgresses, both to the damages and to the fix-
+27   ed penalty. We request (registration). Farewell.
+28   Year 22 of Caesar, [P]ach[on ..].
+29   (2nd hand, docket) ... of those from the Herakleopolite (nome) above Memphis,
+30   ...leased ... grain-bearing land, under seals ..., village Machor, from the holding of Zoilos:
+31   Atilius ...;
+32   Titus Aufidius and Egnatius Festius, of the Quirina (tribe),
+33   soldiers of the 22nd legion, 3rd cohort - five hundred drachmas; A...
+34   ...doros son of The...; ... of Ptolemaic (silver), interest at two drachmas (per mina?).

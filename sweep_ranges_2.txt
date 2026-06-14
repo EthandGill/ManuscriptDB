@@ -1,0 +1,98 @@
+# Batch 2 ranges — DISJOINT from sweep_ranges.txt (window 1 has all o.wilck + o.fay 51-150).
+# Run in a SECOND PowerShell window:
+#     cd C:\ManuscriptDB
+#     py parallel_sweep.py 3 sweep_ranges_2.txt
+# Keep window 1 (4 workers) + this (3 workers) = 7 concurrent. If you see lots of
+# [FAIL], lower this to 2. Add more lines below to spend the rest of your credits;
+# probe a new series first ( py _sweep.py <series>;;<a>-<a+2> ) before big ranges.
+# ----------------------------------------------------------------------------
+
+# --- Fayum ostraca, receipts (continue past window 1's 51-150) ---
+o.fay;;151-200
+o.fay;;201-250
+o.fay;;251-300
+o.fay;;301-350
+o.fay;;351-400
+
+# --- BGU 3, letters / receipts (probe first) ---
+bgu;3;901-950
+bgu;3;951-1000
+
+# --- BGU 4, contracts (probe first) ---
+bgu;4;1201-1250
+bgu;4;1251-1300
+
+# --- P.Oxy contracts / letters (probe first) ---
+p.oxy;2;321-370
+p.oxy;3;535-584
+
+# --- P.Tebt letters / documents (probe first) ---
+p.tebt;2;446-495
+p.tebt;2;496-545
+
+# ============================================================================
+#  LARGE BATCH — added to spend the remaining credits (~1,950 more ids).
+#  All disjoint from window 1 and from already-built ranges. ~1 credit per id.
+#  Some sub-ranges may be sparse/nonexistent (you'll see [FAIL] / empty) — that
+#  still costs a credit per id attempted, so trim a series if it's mostly empty.
+#  Probe a new series first:  py _sweep.py <series>;;<a>-<a+2>
+# ============================================================================
+
+# --- Fayum ostraca, receipts (continue) ---
+o.fay;;401-450
+o.fay;;451-500
+o.fay;;501-550
+o.fay;;551-600
+
+# --- BGU 1 (Arsinoite; receipts / declarations) ---
+bgu;1;1-50
+bgu;1;51-100
+bgu;1;101-150
+bgu;1;151-200
+bgu;1;201-250
+bgu;1;251-300
+bgu;1;301-361
+
+# --- BGU 2 ---
+bgu;2;362-411
+bgu;2;412-461
+bgu;2;462-511
+bgu;2;512-561
+bgu;2;562-611
+bgu;2;612-661
+bgu;2;662-696
+
+# --- BGU 3 (fill below 800 and above 1000) ---
+bgu;3;701-750
+bgu;3;751-799
+bgu;3;1001-1050
+bgu;3;1051-1100
+
+# --- BGU 4 contracts (continue) ---
+bgu;4;1301-1350
+bgu;4;1351-1400
+bgu;4;1401-1450
+bgu;4;1451-1500
+
+# --- P.Oxy 1 (fill around 91-140 already done) ---
+p.oxy;1;1-50
+p.oxy;1;51-90
+p.oxy;1;141-190
+p.oxy;1;191-207
+
+# --- P.Oxy 2 (fill gaps) ---
+p.oxy;2;207-233
+p.oxy;2;371-414
+
+# --- P.Oxy 3 (fill around done ranges) ---
+p.oxy;3;401-450
+p.oxy;3;451-484
+p.oxy;3;585-634
+p.oxy;3;635-653
+
+# --- P.Tebt 2 (continue) ---
+p.tebt;2;546-595
+p.tebt;2;596-645
+
+# --- P.Mich 8 (Karanis archives; probe — some are Latin/already done) ---
+p.mich;8;464-514

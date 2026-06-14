@@ -1,0 +1,101 @@
+# ---------------------------------------------------------
+# BGU 4.1148 - Receipt cancelling two secured loans after a death
+# Source: papyri.info DDbDP bgu;4;1148  (Trismegistos 18594)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1148
+label:    BGU 4.1148
+name:     Receipt cancelling two secured loans after a death
+genre:    contracts
+date:     13 BCE
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13073 Vo
+content:  Taphasies, who succeeded to her late husband Dionysios’ estate (holding his Egyptian deed), acknowledges repayment by Apollonia of two loans (150 + 872 dr.) Dionysios had made to Apollonia and her late husband Isidoros; both agreements are voided and title-documents returned
+tm:       18594
+source:   https://papyri.info/ddbdp/bgu;4;1148
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   Πρωτάρχωι
+r.2   παρὰ Ἀπολλωνίας τῆς Διονυσίου μετὰ κυρίου Δημη-
+r.3   τρίου τοῦ Ὡ̣ρίω̣ν̣ο̣ς̣ Ἀλθαιέως καὶ παρὰ Ταφασιήους τῆς
+r.4   Σαραπίωνος Ῥακώτιδος μετὰ κ(υρίου) τοῦ τῆς ἀδελ(φῆς)
+r.5   αὐτῆ(ς) Νιτοίτιος υἱοῦ Ἑρμίου τοῦ Ψαμμητίχου.
+r.6   περὶ τῶν διεσταμένων συνχωρεῖ ἡ Ταφασιὴς ἀπεσ-
+r.7   χηκέναι παρὰ τῆς Ἀπολλωνίας διὰ χειρὸς ἐξ οἴκου ἃς ἐδά-
+r.8   νεισεν αὐτῇ τε Ἀπολλω(νίᾳ) καὶ ἔτι τῶι μετηλλαχότι αὐτῆ(ς)
+r.9   ἀνδρὶ Ἰσιδώρωι Μενελάου ὁ μετηλλαχὼς τῆς
+r.10   Ταφασιῆτος ἀνὴρ Διονύσιος Δ̣ιονυσίου κατὰ συνχωρή(σεις)
+r.11   διὰ τοῦ αὐτο(ῦ) κριτη(ρίου) δύομίαν μὲν τῶι δ (ἔτει) Καίσαρος Φ̣α̣ῶ̣[φι]
+r.12   ἀργυ(ρίου) (δραχμὰς) ἑκατὸν πεντήκοντα, κατὰ δὲ [τὴ]ν ἑτέραν τῶι
+r.13   ἑβδόμωι ἔτει Καίσαρος Ἁθὺρ ἀργυ(ρίου) (δραχμὰς) ὀκτακοσίας ἑ̣[βδομ]ή-
+r.14   κοντα δύο ἀμφοτέρων δὲ τῶν δανείων καὶ τοὺς τοῦ ὑπερ-
+r.15   γ̣ε̣γ̣ε̣ν̣η̣μ̣έ̣ν̣ο̣υ̣ χρόνου τόκ(ους) διὰ τὸ τοῦ Διονυσίου μετηλ-
+r.16   λαχότος τὴν Ταφασιὴν προσεληλυθέναι α̣φ̣ ̣ ̣ τ̣ῇ κ̣α̣[το-]
+r.17   χῇ α̣ὐ̣τοῦ ἀκολούθως τοῖς τῆς χώρα̣(ς) ν̣ό̣[μοις] δ̣ι̣ὰ̣ τ̣ὸ̣ α̣ὐ̣[τὴ]ν̣ κ̣[ατ-]
+r.18   έχειν τὴ̣ν Διονυσίου συγγραφὴ[ν] Αἰ[γυ]π̣τ̣ίαν καὶ ε̣ἶ̣-
+r.19   ναι αὐτόθεν ἀκύρους τὰς δύο συνχωρήσεις, μὴ
+r.20   ἐπελεύσεσθαι δὲ τὴν Ταφασιὴν μηδʼ ἄλλον ὑπὲρ αὐτῆ(ς)
+r.21   ἐπὶ τὴ(ν) Ἀπολλωνίαν μηδʼ ἐπὶ τὰ ὑπὸ τοῦ Ἰσιδώρου
+r.22   ἀπολελειμμέ(να) μήτε περ[ὶ] Ἀπ̣ο̣λλω(νίας) μ̣ή̣τ̣ε̣ π̣ε̣ρ̣ὶ̣ ἄ̣λ̣(λου)
+r.23   μηδ(ενὸς) ἁπ(λῶς) ὀφιλ(ήματος) ἢ ἀπαιτή(ματος) ἐνγράπ(του) ἢ ἀγράφου ἀπὸ τῶν ἔ̣μ̣π̣(ροσθεν)
+r.24   χρό(νων) μέχρι τῆ(ς) ἐνε(στώσης ἡμέρας), τὸν δὲ καὶ ἐπελευσόμ(ενον) ἐ̣π̣ʼ α̣ὐ̣τ̣(ὴν)
+r.25   τ̣ο̣ύ̣(των)
+r.26   χάριν ἐκ τοῦ κατὰ τὸ(ν) Διονύσιο(ν) ὀνόματο(ς) ἀ̣π̣[ὸ τῆς] α̣ὐ̣τ̣ῆ̣(ς)
+r.27   ἀποστή(σειν) παραχ(ρῆμα) τοῖς ἰδί(οις) δαπ(ανήμασιν), ἐὰν δ̣έ̣ τ̣ι̣ τ̣ο̣(ύτων) παρα̣β̣(αίνῃ)
+r.28   χ̣ω̣ρ̣ὶ̣ς̣ τ̣ο̣ῦ̣
+r.29   κύρια εἶναι τὰ <συνκεχωρημένα> ἔτι καὶ ἐσθα̣ι̣ αὐτὴ(ν) [τοῖς τε βλ(άβεσι) καὶ δαπ(ανήμασι)] καὶ
+r.30   τῷ ὡρ(ισμένῳ) προστίμωι, ἀνακεκομίσθ̣α̣ι̣ δ̣ὲ̣ κ̣α̣ὶ̣ ἡ̣
+r.31   Ἀπολλωνία παρὰ τῆς Ταφασιῆτος ἃ ἔδ̣ω̣κ̣ε̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ κ̣α̣τ̣α̣
+r.32   αὐτή τε κ̣α̣ὶ̣ ὁ Ἰσίδωρος κατὰ τὰς σ̣[υ]ν̣[χω]ρ[ή]σ[ει]ς
+r.33   βυβλία ὁ μὲν Ἰσίδωρος ἀν̣τ̣ί̣γραφο̣(ν) ἀ̣π̣ο̣γ̣ρ̣α̣φ̣ῆ̣(ς) κ̣α̣τ̣ὰ̣
+r.34   μέρο(υς) ἡμίσους οἰκιδίου τ̣ο̣ῦ̣ ὄ̣ν̣τ̣ο̣ς̣ ἐ̣ν̣ τ̣ῇ̣ ̣ ̣δ̣ρα ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣ τ̣η̣ [ἔτι]
+r.35   δ̣ὲ̣ ̣ ̣ ̣ ̣ ̣ας ἡ Ἀπολλωνία ὠνὴν ἐ̣π̣ί̣ τ̣ι̣ μέρ[ος] καὶ ἑτέρας σ̣[υγγραφὰς]
+r.36   προκτητικ(ὰς) κατὰ τῆς ὑπαρχούσης ἑ̣α̣υ̣τ̣ῇ̣ ο̣ἰ̣κ̣ί̣α̣ς̣
+r.37   ἐν τῇ αὐτῇ ἕ̣δ̣ρᾳ , πάντα δὲ τὰ βυβ̣λ̣ί̣α ̣ ̣ ̣ ̣ ̣ ̣σ̣α̣.
+r.38   (ἔτους) ιζ Καίσαρος Φα[ρ]μο(ῦθι) η̣
+
+[TRANSLATION]
+1   To Protarchos.
+2   From Apollonia daughter of Dionysios, with her guardian Deme-
+3   trios son of Horion, of the Althaieus deme, and from Taphasies daughter of
+4   Sarapion, of Rhakotis, with her guardian, her sister's
+5   son (the son) of Nitoitis, Hermias son of Psammetichos.
+6   Concerning the matters in dispute, Taphasies agrees that she has re-
+7   ceived back from Apollonia, by hand from the house, (the sums) which
+8   the deceased husband of Taphasies, Dionysios son of Dionysios, had lent both to Apollonia herself and also to her deceased
+9   husband Isidoros son of Menelaos -
+10   by two agreements
+11   through the same court: the one in the 4th year of Caesar, Phao[phi],
+12   150 silver drachmas; and by the other, in the
+13   seventh year of Caesar, Hathyr, 8[7]2 silver drachmas -
+14   of both loans, together with the interest for the
+15   elapsed time; because, Dionysios having
+16   died, Taphasies entered into possession (of the security)
+17   of his (estate), in accordance with the [laws] of the land, since she ho-
+18   lds the Egyptian deed of Dionysios; and that
+19   the two agreements are forthwith void; and that
+20   Taphasies shall not proceed, nor anyone on her behalf,
+21   against Apollonia, nor against the (property) left by Isidoros,
+22   neither concerning Apollonia(?) nor concerning any other
+23   debt or claim at all, written or unwritten, from for-
+24   mer times up to the present day; and whoever does proceed against her
+25   on account
+26   of these (matters), in the name of Dionysios, she (Taphasies) shall, from the same,
+27   remove (the claimant) at once at her own expense; and if she transgresses any of these,
+28   apart from
+29   the agreed terms remaining valid, she shall also be liable [to the damages and expenses] and
+30   to the fixed penalty. And that
+31   Apollonia too has recovered from Taphasies (the documents) which ... gave ... according
+32   (to) both she herself and Isidoros, under the agreements -
+33   (namely) documents: Isidoros, a copy of a declaration concerning
+34   a half-share of a small house situated in the ...; [and]
+35   Apollonia, a deed of purchase for a certain part, and other [deeds]
+36   of prior title, concerning the house belonging to her
+37   in the same quarter; and all the documents ...
+38   Year 17 of Caesar, Pha[r]mouthi 8.

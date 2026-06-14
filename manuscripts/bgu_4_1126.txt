@@ -1,0 +1,97 @@
+# ---------------------------------------------------------
+# BGU 4.1126 - Service contract at a beer-shop, cast as a loan
+# Source: papyri.info DDbDP bgu;4;1126  (Trismegistos 18569)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1126
+label:    BGU 4.1126
+name:     Service contract at a beer-shop, cast as a loan
+genre:    contracts
+date:     13 Nov 9 BCE
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13181 Ro
+content:  Protarche acknowledges a loan of 100 dr. from Taphesies; in lieu of it (and interest, maintenance and clothing) she binds herself to work three years in Taphesies’ beer-shop, not absent without leave, with penalties; at the end she is released and given 40 dr. With subscriptions
+tm:       18569
+source:   https://papyri.info/ddbdp/bgu;4;1126
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   Πρωτάρ[χ]ωι τῶι ἐπὶ τοῦ κριτηρίου
+r.2   παρὰ Ταφεσιήους τῆς Βουκόλου μετὰ κυρίου - ca.9 - Π̣ρ̣ω̣-
+r.3   τ̣άρχ̣ου τοῦ Δωρίωνος Ζηνείου καὶ παρὰ Πρωτάρχης τῆς ̣ρ ̣ ̣ ̣ ̣ ̣ ̣
+r.4   Περσείνης μετὰ κυρίου τοῦ ἀνδρὸς Σε̣ν̣ ̣ ̣ ̣ ̣ ̣
+r.5   Διομήδους. συγχωρεῖ ἡ Πρωτάρχη ἔχειν παρὰ τῆς Ταφε̣σ̣ι̣ή̣ο̣υ̣ς̣
+r.6   δάνειον δ̣ι̣ὰ χειρὸς ἐξ οἴκου ἀργυρίου Πτολεμαικοῦ δραχμὰς ἑκατόν, ἀ̣ν̣τ̣ὶ̣
+r.7   δὲ τούτων καὶ τῶν τόκων αὐτῶν καὶ δ̣ε̣ό̣ν̣των καὶ ἱματισμοῦ ἐ̣π̣ά̣ν̣α̣γ̣κ̣ε̣ς̣
+r.8   τὴν Πρωτάρχην ἐπὶ χρόνον ἔτη τρία ἀπὸ Μεχεὶρ τοῦ ἐνεστῶτος [δευ-]
+r.9   τέρου καὶ εἰκοστοῦ ἔτους Καίσαρος παραμ̣ε̣ν̣εῖν τῇ Ταφεσιῆτι ἐν ᾧ [κ]έ̣[κτηται]
+r.10   αὐτὴ ἡ̣ Ταφεσιὴς ζυτοπωλίωι ἐπιτελοῦσαν [τὰ] ἐ̣π̣ι̣τ̣α̣χ̣θ̣η̣[σόμενα]
+r.11   αὐτῇ ἐν τούτωι ὑπὸ τῆ(ς) Ταφεσιῆ(τος) ἀκαθυστερήτως μ̣ὴ̣ γ̣ε̣ι̣ν̣ο̣μένη μήτε ἀπόκοιτ̣ο̣ς̣
+r.12   μηδʼ ἀφήμερος ἀπὸ τῆς Ταφεσιῆτος ἄνευ τῆς α̣ὐ̣τ̣ῆ̣ς̣ γνώμης,
+r.13   ἅτε ἐ̣ὰ̣ν λάβῃ ἢ πιστευθῇ σῶα συντηρήσειν καὶ ἀποδώσειν ταῦ[τα]
+r.14   τῇ Ταφ(εσιῆτι) ἢ ἐκτίνιν τὴν ἑκάστου ἀξίαν πλὴν συμφανοῦς ἀπ[ωλείας]
+r.15   ἧς καὶ φανερᾶς γενηθίσης ἀπολελύσθω, καὶ μὴ ἐγλείψιν τὴν π̣
+r.16   ἐντὸς <τοῦ> χρόνου, ἐὰν δέ τι παραβαίνῃ, ἐκτίνιν αὐτὴν τὰς το[ῦ]
+r.17   ἀργυρίου δραχμὰς ἑκατὸν σὺν ἡμιολίαι καὶ τόκους διδράχμους κ̣α̣ὶ̣ τ̣ὸ̣
+r.18   β̣λ̣ά̣β̣ο̣ς̣ κ̣α̣ὶ̣ δαπάνημα καὶ ἄλλας ἀργυρίου δραχμὰς ἑκατὸν τῆς [πρ]άξ(εως)
+r.19   οὔσης τῇ Ταφεσιῆτι ἔκ τε αὐτῆς Πρωτάρχης καὶ ἐκ τῶν ὑπαρχόντων [αὐτῇ]
+r.20   καθά(περ) ἐγ δίκης, κ̣α̣ὶ̣ μὴ ἐπιφέρειν πίστεις ἢ ἀκύρους εἶναι, καὶ τὴ̣[ν δ]ὲ̣
+r.21   [Τα]φ̣ε̣σιῆν ἐπιτελούσης αὐτῆς Πρωτάρχης ἕκαστα ἀκολούθως
+r.22   τρέφειν καὶ ἱματίζειν α̣ὐ̣τὴ(ν) ἐπὶ τὸν χρόνον [κα]ὶ̣ μ̣ὴ ἀποτ̣ρ̣ε̣ί̣ψασθαι̣ ἐ̣[ντὸ]ς
+r.23   [τού]τ̣ο̣υ̣, οὗ καὶ διελθόντος μηδὲν ἁπλῶς λαβοῦσαν ἀπολ̣ύ̣σ̣[ειν αὐτὴν]
+r.24   τ̣ῆ̣ς̣ ἐ̣κ̣τ̣ί̣σεως - ca.9 - τῶν τοῦ ἀργυρί̣ο̣υ̣ (δραχμῶν) ἑκατὸν καὶ προσδώσειν αὐ[τῇ]
+r.25   ἐ̣κ̣ τοῦ ἰδίου ἄλλας ἀργυρίου δραχμὰς τεσ[σα]ράκοντα καὶ λύ[σιν]
+r.26   π̣ο̣ι̣ή̣σεσθαι τῆσδε τ̣ῆ̣ς̣ συγχωρήσεως ἢ τῶι ἴσῳ ἐπιτίμωι
+r.27   ἔνοχον εἶναι. ἀ̣ξ̣ι̣ο̣ῦ̣(μεν)
+r.28   μ̣ε̣ς̣
+r.29   (hand 2) Τ[α]φεσιὴς [σ]υνχωρῶ κατ̣ά[π]ερ γεγρα̣μ̣-
+r.30   μένα Πρώταρ[χος ἐπιγ]έ̣[γρα]μα κ̣ύ̣[ριο]ς̣ [αὐ-]
+r.31   τ̣ῆ̣ς̣ κ̣α̣ὶ̣ γ̣έ̣γρα[φα ὑπὲρ] α̣ὐ̣τ̣ῆ̣ς̣ δ̣ι̣ὰ τὸ [αὐ-]
+r.32   τ̣ὴ̣ν̣ μ̣ὴ̣ ε̣ἰ̣δ̣έ̣ν̣α̣ι̣ γ̣ρ̣ά̣μ̣α̣τ̣α̣
+r.33   (hand 3) Πρωτάρχη συνχωρ[ῶ] κατὰ <τὰ> προγεγ̣ρ̣α̣μ̣έ̣ν̣α̣ [ ̣ ̣ ̣]
+r.34   ρ̣ος ἐπιγέγραμμαι κ[ύριο]ς [κ]αὶ γέγραφ[α ὑπὲρ αὐτῆς]
+r.35   μ̣ὴ̣ εἰδυίας γράμα[τ]α
+r.36   (hand 1) [(ἔτους)] κβ Καίσαρ[ος Ἁθὺ]ρ̣ ιζ
+
+[TRANSLATION]
+1   To Protarchos, the one in charge of the court.
+2   From Taphesies daughter of Boukolos, with her guardian ... Pro-
+3   tarchos son of Dorion, of the Zeneios deme, and from Protarche daughter of ...,
+4   a Persian woman, with her guardian, her husband Sen...(?)
+5   son of Diomedes. Protarche agrees that she has from Taphesies
+6   a loan, by hand from the house, of one hundred Ptolemaic silver drachmas; and in re-
+7   turn for these and their interest, and for maintenance and clothing, that of necessity
+8   Protarche, for a period of three years from Mecheir of the present twen-
+9   ty-second year of Caesar, shall remain in service to Taphesies in the
+10   beer-shop which Taphesies herself owns, performing [what is] enjo[ined]
+11   upon her therein by Taphesies, without delay, being neither absent by night
+12   nor absent by day from Taphesies without her consent;
+13   and whatever she receives or is entrusted with she shall keep safe and return
+14   to Taphesies, or pay the value of each, except for evident lo[ss],
+15   of which, once made clear, let her be released; and she shall not abandon the (service)
+16   within the period; and if she transgresses anything, she shall pay the
+17   one hundred silver drachmas with half as much again, and interest at two drachmas (per mina), and the
+18   damage and expense, and another hundred silver drachmas, the right of [exe]cution
+19   belonging to Taphesies, against Protarche herself and against [her] property,
+20   as if by legal judgment; and she shall bring no pleas, or they shall be void. And
+21   [Ta]phesies, while Protarche performs each duty accordingly,
+22   (is) to feed and clothe her for the period, and not to turn her away wi[thi]n
+23   [this (period)]; and when it has elapsed, having received nothing further, she shall release [her]
+24   from the repayment ... of the hundred silver drachmas, and shall give [her] in addition
+25   from her own (funds) another forty silver drachmas, and shall make a re-
+26   lease of this agreement, or be liable to the same penalty.
+27   We request (registration).
+28   ...
+29   (2nd hand) I, Taphesies, agree as writ-
+30   ten. I, Protarchos, am registered as her guard-
+31   ian and have writ[ten on] her behalf, since
+32   she does not know letters.
+33   (3rd hand) I, Protarche, agree according to what is written above. ...
+34   ...ros, am registered as guardian and have writt[en on her behalf,]
+35   since she does not know letters.
+36   Year 22 of Caesar, [Hathy]r 17.

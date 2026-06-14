@@ -1,0 +1,103 @@
+# ---------------------------------------------------------
+# P.Oxy 3.505 - Sale of part of a courtyard (with appended deed of appointment)
+# Source: papyri.info DDbDP p.oxy;3;505  (Trismegistos 23689)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.505
+label:    P.Oxy 3.505
+name:     Sale of part of a courtyard (with appended deed of appointment)
+genre:    contracts
+date:     23 Aug 179 CE
+language: Greek (Koine)
+found:    Oxyrhynchus, Egypt
+held:     (see shelf)
+shelf:    Florence, Biblioteca Medicea Laurenziana 18831
+content:  Ophelas, acting as appointed agent for Artemidoros, sells to Eudaimonis and her mother Sinthonis fifty square cubits in the east part of a courtyard in Oxyrhynchus for 500 dr., with boundaries, building/wall arrangements, and warranty; the deed of appointment is appended
+tm:       23689
+source:   https://papyri.info/ddbdp/p.oxy;3;505
+lat:      28.54
+lon:      30.658
+
+[GREEK]
+r.1   Ὠφελᾶς ὁ καὶ Βησᾶς Σαραπᾶτος μη̣τρὸς Ἀ̣πολλωνοῦ[τ]ος ἀπὸ Ὀξυρ̣ύ̣γχων πόλεως συσταθεὶς
+r.2   ὑπὸ Ἀρτεμιδώρου Ἀμεννέως τοῦ Ἀρτεμᾶτος μητρὸς Θακώριος Ἀμεννέ̣ω̣ς ἀπὸ τῆς αὐτῆς πόλεως
+r.3   κα̣τὰ συστατ̣ικὸν γενόμενον διὰ τοῦ ἐ̣ν τῇ αὐτῇ π̣όλει μνημονείου τῷ ἐνεστῶτι μηνὶ
+r.4   οὗ ἀντίγραφον ὑπόκειται Εὐδαιμονίδι τῇ καὶ Πλουτάρχῃ χρηματιζούσῃ μη̣τρὸς Σινθώνιος
+r.5   Πεκύσιος
+r.6   κ̣α̣ὶ̣ τῇ ταύτης μητρὶ Σινθώνει Πεκ̣ύσιος μητρὸς Τεενκεγ̣ο̣ῦτος ἀμφοτέραις ἀπὸ Τανάεως
+r.7   ἐξ ἴσ̣ο̣υ̣ ἑ̣κατέρᾳ μετὰ κυρίου τῇ μὲν Εὐδαιμονίδι τῇ καὶ Πλουτάρχῃ Ἀμμωνίου τοῦ καὶ
+r.8   Διο-
+r.9   νυ̣[σί]ο̣υ Ἀμμ̣ωνίου μητρὸς Ἁράσιο̣ς ἀ̣πὸ Ὀξυρύγχων πόλεως τῇ δὲ Σινθώνει τοῦ ὁμογνησίου
+r.10   αὐ[τ]ῆ̣ς ἀδελφοῦ Παχν̣ούβιος χαίρειν. ὁμολογῶ πεπρακέναι̣ ὑμεῖν ἀπὸ̣ τ̣ῆς ὑπαρχού-
+r.11   σης τῷ αὐτ̣ῷ συνεστακότι με Ἀ̣ρ̣τεμιδόρῳ ἐν τῇ α̣ὐ̣τῇ πόλει̣ ἐπʼ ἀμφόδου Παμμένους Π̣αραδείσου πατρικῆς οἰκίας καὶ αἰθρ̣ίου
+r.12   καὶ τῆς προσούσης αὐλῆς ἀπὸ τῆς αὐτῆς αὐλῆς ἐκ τοῦ ἀπὸ
+r.13   ἀ̣π̣η̣λ̣ι̣[ώ]τ̣ο̣υ̣ ταύτης μέρους ἐμβαδοῦ πήχεις πεν̣τήκοντα διατείνοντας βορρᾶ ἐπὶ
+r.14   νό̣το̣ν ἐπὶ τὸ πέρας τῆς ὅλης αὐλῆς ἀπηλιώτου{ν} δὲ ἐ̣πὶ λίβα μέχρι ο[ὗ] πληρωθῶσιν
+r.15   οἱ αὐτοὶ ἐμβαδοῦ
+r.16   πήχ̣ε̣ι̣ς̣ πε̣ν̣τ̣ήκοντα . γείτονες τῶν αὐτῶν πωλουμ̣έ̣νων ὑμεῖν ὑπʼ ἐμοῦ ἀπὸ τῆς αὐλῆς ἐπὶ τοποθεσίᾳ πηχῶν πεντήκοντα νότου Διογένους καὶ ἄλ̣[λ]ων
+r.17   βορρᾶ Σαραπί̣ωνος χρημα-
+r.18   τίζο̣ν̣τ̣ο̣ς̣ μ̣ητρὸς Θαισοῦτος ἀπηλιώτου Λουκίου Ἑρειν̣νίου Κρείσπου καὶ ἄλλων λιβὸς
+r.19   οἱ λοιπο̣[ὶ] τῆς αὐτῆς αὐλῆς τό̣ποι. τὰς δὲ συνπεφωνημένας πρὸς ἀλλήλους ὑπ̣ὲρ τιμῆ̣ς
+r.20   τῶν αὐτῶν πωλου-
+r.21   μένω̣[ν ὑμεῖ]ν ὑπʼ ἐμοῦ ἐπὶ τοποθεσίᾳ ἐμβ̣[αδοῦ π]η̣χ̣ῶν πεντήκοντα ἀργυρίου Σε[βασ]τ̣οῦ νο̣μίσματος
+r.22   δραχμὰς πεντα̣[κο]σ̣ί̣ας αὐτόθι ἀπέσχον παρʼ ὑμῶν διὰ χειρὸς ἐκ πλήρους ἅσπερ
+r.23   ἀπ̣οκ̣ατασ̣[τήσω ̣ ̣ ̣ ̣] ̣ ̣ ̣[ ̣ ̣ ̣ ̣ ̣ ̣ ̣]των[- ca.16 -]στατικο̣ ̣ ̣ ̣ ̣[ ̣ ̣ ̣] ̣ ̣ ̣ ̣ν δ̣ὲ̣ π̣ρ̣ᾶσιν πο̣ι̣ο̣ῦ̣μ̣[α]ι̣ τῶν [α]ὐ̣τῶν̣ ἐπὶ τ̣ο̣π̣ο̣θεσίᾳ ἐ̣μβαδ[οῦ] πηχ̣ῶ̣ν
+r.24   πεντήκοντ̣α̣ [ἐπ]ὶ̣
+r.25   τῷ τὸν αὐ̣τ̣[ὸν - ca.20 -] ̣ ̣ ̣ ̣[- ca.12 -] α̣ὐτοῦ ἐν τοῖ[ς μὲ]ν̣ ἀ̣π̣η̣[λι]ωτικοῖς καὶ̣ νοτίνοις μέρεσ[ι τ]ῶ̣ν αὐτῶν πηχῶν
+r.26   πεντήκοντ̣α κλείβαν̣[ο]ν καὶ τοῦτον ἑαυ-
+r.27   τῷ μετενε̣[- ca.19 -] ̣ρωσαι κατα̣ ̣[- ca.9 -] ̣ο̣ντος τοῦ τοῦ τόπου ἐγ λιβὸς νοτ̣ί̣νου μέρου̣ς [το]ῦ οἰκοδομηθησομένου ὑφʼ ὑμῶν ἐν τοῖς αὐτοῖς πήχεσι πεν-
+r.28   [τή]κοντα τ̣[είχους (?)- ca.18 -]αι διʼ ὅλου τείχ[ους - ca.10 -]η̣ χρᾶσθαι αὐτὸν τῷ ἐσομένῳ ὑφʼ ὑμῶν τίχει . τῆς τῶν αὐτῶν πηχῶν πεντήκον̣τα διὰ παντὸς βεβαιώσεως πρὸς
+r.29   [π]ᾶ̣σαν βεβα[ίωσιν ἐξακολουθούσης τῷ] α̣ὐ̣τ̣ῷ̣ συνεστα̣κ̣ό̣τι [με Ἀ]ρ̣[τ]ε̣[μι]δ̣ώ̣ρῳ
+r.30   οὓς καὶ π̣αρέξεται ὑμεῖν σ̣ὺν̣ ἐγγόνοι̣ς καὶ τοῖς παρʼ ὑμῶ̣ν μεταλημψο̣μενους καθαροὺς ἀπό τε
+r.31   ἀπογραφ[ῆς ἀνδρῶν καὶ ἀπὸ γεωρ]γίας βασιλικῆς καὶ οὐσιακ̣ῆς γῆς καὶ παντὸς εἴδους
+r.32   καὶ ἀπὸ παντὸς οὑτινοσοῦν ἄλλου. κυ̣ρία̣ ἡ πρᾶσις οὖσά μου τοῦ Ὠφε̣λᾶ τοῦ καὶ Βησᾷ
+r.33   ἰδιόγραφο̣ς̣
+r.34   τρισσὴ γρ[αφεῖσα χωρὶς ἀλείφατο]ς καὶ ἐπιγραφῆς. ἔτ̣ους ἐ̣ννεακαιδεκάτου Αὐτοκρατόρων
+r.35   Καισάρων Μάρκου Αὐρηλίου Ἀντωνίνου καὶ Λουκίου Αὐρηλίου Κομμόδου Σεβαστῶν
+r.36   Ἀρμενια[κῶν Μηδικῶν Παρ]θικῶν Γερμα̣[νικ]ῶ̣ν̣ Σαρματικῶν μεγίστων Μ[εσ]ορὴ τρια̣κὰς . ἐστὶ δὲ τοῦ συσ̣τ̣α̣τ̣ι̣κοῦ τὸ ἀντίγραφον. ἔτους ἐννεακαιδεκάτου Αὐ̣τοκρατόρω̣ν
+r.37   Καισάρ[ων Μάρκου Αὐρηλίου Ἀντ]ωνίνου καὶ Λουκ̣ίου Αὐ[ρ]ηλί̣ο̣υ̣ Κ̣[ο]μ̣μόδου Σεβαστῶν̣
+r.38   [Ἀρ]μενιακῶν Μηδικῶν Παρθικῶν Γερμανικῶν Σαρμ̣[α]τ̣ικῶν μεγίστων μηνὸς Καισα̣ρ̣είου
+r.39   ̣ ̣ ̣ ̣[- ca.21 -] ̣ ̣ ̣ ̣ ̣[ ̣ ̣ ̣ ̣ ̣] ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣[ ̣ ̣ ̣] ̣ ̣ ̣[ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ̣ ̣[- ca.13 -]- ca.10 -[ ̣ ̣] ̣ ̣κ̣ω- ca.13 -[ ̣ ̣ ̣ ̣] ̣ ̣ ̣[ ̣ ̣] ̣[ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ̣[ ]
+
+[TRANSLATION]
+1   Ophelas also called Besas, son of Sarapas, his mother being Apollonous, from the city of Oxyrhynchos, appointed (as agent)
+2   by Artemidoros son of Amenneus son of Artemas, his mother being Thakoris daughter of Amenneus, from the same city,
+3   by a deed of appointment made through the record-office in the same city in the present month,
+4   a copy of which is appended - to Eudaimonis also called Ploutarche, styled as daughter of Sinthonis
+5   daughter of Pekysis,
+6   and to her mother Sinthonis daughter of Pekysis, her mother being Teenkegous, both from Tanais,
+7   in equal shares to each, with guardians - for Eudaimonis also called Ploutarche, (her guardian) Ammonios also called
+8   Dio-
+9   nysios, son of Ammonios, his mother being Harasis, from the city of Oxyrhynchos; and for Sinthonis, her full
+10   brother Pachnoubis, greeting. I acknowledge that I have sold to you, out of the property be-
+11   longing to the same Artemidoros who appointed me, in the same city in the quarter of Pammenes' Garden - a paternal house and forecourt
+12   and the adjoining courtyard - from that same courtyard, from the
+13   eastern part of it, fifty square cubits of area, extending from north to
+14   south to the end of the whole courtyard, and from east to west until the same
+15   fifty square cubits of
+16   area are made up. Neighbours of the same (plot) sold to you by me from the courtyard, at the site of fifty cubits: south, (property) of Diogenes and others;
+17   north, of Sarapion styl-
+18   ed (son of his) mother Thaisous; east, of Lucius Herennius Crispus and others; west,
+19   the remaining areas of the same courtyard. The (sum) agreed between us as the price
+20   of the same (plot)
+21   sold [to yo]u by me at the site, fifty square cubits, in imperial silver coin,
+22   five hundred drachmas, I have received from you here in full, by hand, which (price)
+23   I will [repay ...]; and I make the sale of the same, at the site, fifty square cubits,
+24   [on]
+25   the condition that the same ... his ... in the eastern and southern parts of the same
+26   fifty cubits, an oven, and this for him-
+27   self ...; ... the part of the site on the south-west, which is to be built up by you within the same fifty
+28   cubits ... of a [wall] ... throughout the whole wall ... that he may use the wall to be built by you. The guarantee of the same fifty cubits forever, against
+29   every [claim, following upon] the same Artemidoros who appointed [me];
+30   and he will provide them (the cubits) to you, with your descendants and assigns, free from
+31   [poll-registration and from] cultivation of royal and estate land, and from every impost,
+32   and from any other thing whatsoever. The sale is valid, being mine, Ophelas also called Besas',
+33   in my own hand,
+34   written in triplicate, [without erasure] or addition. In the nineteenth year of the Imperatores
+35   Caesars Marcus Aurelius Antoninus and Lucius Aurelius Commodus, Augusti,
+36   Armenia[ci, Medici, Par]thici, Germa[nic]i, Sarmatici Maximi, Mesore 30. And this is the copy of the deed of appointment. In the nineteenth year of the Imperatores
+37   Caesar[s Marcus Aurelius Ant]oninus and Lucius Au[r]elius Commodus, Augusti,
+38   [Ar]meniaci, Medici, Parthici, Germanici, Sarm[a]tici Maximi, in the month Kaisareios,
+39   ...

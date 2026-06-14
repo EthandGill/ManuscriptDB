@@ -1,0 +1,111 @@
+# ---------------------------------------------------------
+# P.Oxy 3.488 - Petition of Senphibis to the epistrategos re wrongful land-registration
+# Source: papyri.info DDbDP p.oxy;3;488  (Trismegistos 20624)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       P.Oxy 3.488
+label:    P.Oxy 3.488
+name:     Petition of Senphibis to the epistrategos re wrongful land-registration
+genre:    petitions
+date:     2nd c. CE
+language: Greek (Koine)
+found:    Antaiopolite nome (Qaw el-Kebir), Egypt
+held:     (see shelf)
+shelf:    Oxford, Sackler Library, Papyrology Rooms P. Oxy. 488
+content:  Senphibis petitions the epistrategos Iulius Iulianus: a clerk of the village-scribe of Krekis has over-registered her grain-land by more than an aroura a year, causing her loss; she asks for proper re-registration
+tm:       20624
+source:   https://papyri.info/ddbdp/p.oxy;3;488
+lat:      26.9
+lon:      31.52
+
+[GREEK]
+r.1   Ἰ ουλίῳ Ἰ ουλιανῷ τῷ κρατίστῳ
+r.2   ἐπιστρατήγῳ
+r.3   παρὰ Σενφίβιος Θορταίου μετὰ κυρίου
+r.4   τοῦ υἱοῦ Ψάι τος πρεσβυτέρου Λεμῶτος
+r.5   ἀπὸ κώμης Ἰβίωνος Νεμνᾶ τοῦ
+r.6   Ἀπολλωνοπολείτου κάτω τόπων.
+r.7   ἐώνημαι, κύριε, ἔτι πρὸ πολλοῦ χρόνου
+r.8   παρὰ Ἀπολλωνίου καὶ Διδύμου
+r.9   ἀμφοτέρων Ὠριγένους ἀπὸ Λύκων
+r.10   πόλεως σιτικὰς ἀρούρα[ς] πέντε
+r.11   τέταρτον ἐν κλήρῳ λεγομ(ένῳ) Διαγραφῆς
+r.12   ἐν πεδίοις Κρήκεως κώμης τοῦ
+r.13   Ἀνταιοπολείτου νομοῦ. Ἀρτεμίδω-
+r.14   ρος δέ τις γραμματεὺς κωμογραμ-
+r.15   ματέως τῆς Κρίκεως οὐκ οἶδʼ ὅπως
+r.16   παρέγραψέν ημε πλέον τῆς
+r.17   ὑποστάσεώς μου ἐν ὅλῃ ἀρούρῃ μιᾷ
+r.18   καὶ πρὸς κατʼ ἔτος κα[ὶ] ἐκ τούτου
+r.19   οὐκ ὀλίγην βλάβην ὑπ̣οφέρει με.
+r.20   κατὰ τὸ ἀναγκαῖον οὖν τοῦ ἀνθρώ-
+r.21   που ἐπικειμένου μοι κινδυνεύ-
+r.22   ουσα ἐνκαταλεῖψαι τὴ[ν ἰ]δίαν
+r.23   προσφεύγω σοὶ τῶι κυρίῳ καὶ πάν-
+r.24   των βοηθῷ καὶ ἀξιῶ ἐάν σοι
+r.25   δόξῃ κελεῦσαι τῶι τοῦ νομοῦ
+r.26   στρατηγῶι [τ]ὴν δέουσαν παραγρα-
+r.27   φὴν ὧν ἔχω ἀρουρῶν καθʼ ἃς
+r.28   ἔχω ἀσφαλείας προνοῆσαι γεί-
+r.29   νεσθαι καὶ μὴ κακῶς με παρα-
+r.30   γράφεσθαι ὑπὸ τοῦ κωμογραμμα-
+r.31   τέως, καὶ γὰρ καὶ πέρυσι πρὸς τού-
+r.32   τοις ἕτερά με κακῶς παρέγρα-
+r.33   ψεν , ἵνʼ ὦ βεβοηθημένη.
+r.34   (hand 2) [ Σε]νφῖβις Θορταίου
+r.35   [μετὰ κυρίου Ψάι]τος πρ(εσβυτέρου) Λαμ̣ῶ̣τος
+r.36   [ἐπιδέδωκα.] v
+r.37   (hand 3) εἰς χεῖρας
+r.38   Ἀνταιοπολ(ίτου)
+r.39   μέμφεται γρ(αμματέα) κωμογρ(αμματέως)
+r.40   περὶ κακῆς παραγραφῆς,
+r.41   ἀξιοῖ τὴν δέουσαν
+r.42   παραγραφὴν γενέσθαι.
+r.43   (hand 4) μηδε̣ν̣ὸς ἐπ̣εχομ(ένου).
+
+[TRANSLATION]
+1   To Iulius Iulianus, the most excellent
+2   epistrategos,
+3   from Senphibis daughter of Thortaios, with her guardian,
+4   her son Psais the elder, son of Lemos,
+5   from the village of Ibion Nemna of the
+6   Lower Apollonopolite district.
+7   I bought, my lord, a long time ago,
+8   from Apollonios and Didymos,
+9   both sons of Origenes, from Lyco-
+10   polis, five and a quarter arouras
+11   of grain-land in the holding called Diagraphe,
+12   in the fields of the village of Krekis in the
+13   Antaiopolite nome. But a certain Artemi-
+14   doros, a clerk of the village-scribe
+15   of Krekis, I know not how,
+16   registered me for more than
+17   my holding, by a whole aroura
+18   and more, each year; and from this
+19   I suffer no small loss.
+20   Therefore, since the man's
+21   pressure upon me is compelling, and I am in danger
+22   of abandoning my own (land),
+23   I take refuge with you, my lord and
+24   helper of all, and I request, if it
+25   seem good to you, that you order the
+26   strategos of the nome to see that the proper re-
+27   gistration of the arouras I hold, according to the
+28   title-deeds I possess, be
+29   made, and that I be not wrongly
+30   registered by the village-
+31   scribe; for last year too, besides
+32   these, he wrongly registered me for other (land),
+33   so that I may obtain redress.
+34   Senphibis daughter of Thortaios,
+35   with my guardian Psais the elder, son of Lamos,
+36   have submitted (this).
+37   (Endorsement:) by hand.
+38   (Of the) Antaiopolite (nome).
+39   She complains against the clerk of the village-scribe
+40   concerning a wrongful registration;
+41   she requests that the proper
+42   registration be made.
+43   (Subscription:) nothing standing in the way.

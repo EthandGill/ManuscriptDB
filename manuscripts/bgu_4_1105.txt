@@ -1,0 +1,107 @@
+# ---------------------------------------------------------
+# BGU 4.1105 - Petition for divorce on grounds of a husband’s violence
+# Source: papyri.info DDbDP bgu;4;1105  (Trismegistos 18546)
+# Scraped via Firecrawl; apparatus & editorial markup trimmed.
+# ---------------------------------------------------------
+
+[META]
+id:       BGU 4.1105
+label:    BGU 4.1105
+name:     Petition for divorce on grounds of a husband’s violence
+genre:    petitions
+date:     11-10 BCE
+language: Greek (Koine)
+found:    Alexandria, Egypt
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 13054
+content:  Tryphaine petitions through her father: her husband Asklepiades, after their marriage with a dowry of clothing (40 dr.) and 20 dr. of coin, has misused her property, insulted and beaten her "as not even a bought slave"; she asks the court to effect the divorce and recover her money
+tm:       18546
+source:   https://papyri.info/ddbdp/bgu;4;1105
+lat:      31.2001
+lon:      29.9187
+
+[GREEK]
+r.1   Πρωτάρχωι
+r.2   παρὰ Τρυφαίνης τῆς Διοσκουρίδ[ου].
+r.3   [συνεχώρ]ησε - ca.14 -
+r.4   [ ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣] τ̣ο̣ὺ̣ς̣ γ̣ο̣ν̣ε̣ῖ̣ς̣ α̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣
+r.5   ̣ ̣ ̣ ̣ Τ̣ρ̣υ̣φ̣α̣ί̣ν̣η̣ς̣, [ὅ]π̣ως ἐ̣γ̣δ̣ῶ̣ν̣-
+r.6   τ̣α̣ί̣ με αὐτῶι προισταμένωι καὶ
+r.7   [τῶ]ν καταγομένων α̣ὐ̣τ̣ῷ̣
+r.8   τετεληωμένην συνχώρησιν
+r.9   διὰ τοῦ παρὰ σοὶ κριτηρίου συνῆλ-
+r.10   θε̣ν πρὸς τὸν γάμον ο̣ἰ̣κ̣η̣α̣ καὶ
+r.11   ἐ̣ν̣ λόγωι ἐπʼ ἐμοὶ φερνὴν
+r.12   ἱμάτια ἀργυρίου (δραχμῶν) τ̣ε̣σ̣σ̣ε̣ρ̣ά̣-
+r.13   κοντα καὶ ἀργυρίου ἐπισήμου
+r.14   δραχμὰς εἴκοσι. [ὁ δὲ] διαβαλ-
+r.15   λόμενος Ἀσκληπιάδης ἐ̣π̣ε̣[ὶ ἐ-]
+r.16   νέα̣ι̣ν̣ε̣ δ̣ι̣ὰ̣ τῆς συμβιώσε̣ω̣ς̣ [ἀ-]
+r.17   π̣ὸ̣ μ̣η̣δ̣ε̣ν̣ὸ̣ς̣ καταχρησάμεν̣ο̣ς̣
+r.18   τ̣ο̣ῖ̣ς̣ π̣ρ̣ο̣κειμένοις κακουχία̣ς̣
+r.19   μ̣ε̣ καὶ καθυβρίζει καὶ τὰς χεῖ-
+r.20   ρας ἐπιφέρων χρῆται ὡς ο̣ὐ̣-
+r.21   δ̣ὲ̣ ἀργυρ̣ω̣ν̣ή̣τ̣ωι. [διὸ] ἀ̣π̣ε̣σ̣φ̣α̣λ̣-
+r.22   μ̣έ̣νη τ̣ὸ̣ν̣ πατέρα μ[ου] Διοσκου-
+r.23   ρίδην ἐπιδώσοντα τὸ ὑπό-
+r.24   μνημα καὶ κατὰ τὴ ἔξο-
+r.25   δον τεληωσόμεν̣ο̣ς ἀ̣ποσ̣τ̣ῖ̣-
+r.26   [λ]αι αὐτῶι τινα τῶν παρὰ τοῦ
+r.27   [κ]ριτηρίου [ὃ]ς ἐ̣μ̣ο̣ῦ̣ ἐ̣π̣ι̣τ̣ε̣λ̣έσεται τὴν
+r.28   ἔξοδον ὡς καθήκι καὶ τ̣ῷ̣
+r.29   δ̣ὲ Ἀσκληπιδῃ μεταδωσι̣ν̣
+r.30   ἀντίγραφον τοῦδε τοῦ ὑπομν[ή-]
+r.31   ματος, ἵνα α̣νεχ̣ο̣μονης ἐπε̣-
+r.32   νδικάσει ἢ ἐκτίσει μο̣ι̣ τ̣ὰ̣ς̣
+r.33   τ̣ο̣ῦ̣ ἀργυ(ρίου) (δραχμὰς) ξ, ἔτι δὲ καὶ ̣ ̣ ̣
+r.34   ̣ ̣ρ̣ ̣ ̣ ̣σθαι ε̣ἰ̣[ς] τ̣ὸ̣ν̣ Δ̣ι̣[οσ-]
+r.35   κουρίδην εἰς τὴν τῶν ̣ ̣
+r.36   λων δαπάνην ἃ κατὰ μέρος
+r.37   ἀργυ(ρίου) (δραχμαὶ) ξϛ, μετὰ δὲ σ̣ο̣ῦ̣ ἡμῖν
+r.38   καὶ εἰς βλάβη καὶ δαπανήμα-
+r.39   τα ἐκδιεληλυθέ̣ν̣τ̣ο̣ς̣
+r.40   περὶ αὐτοῦ μισοπονήρως, ἵνʼ ᾦ
+r.41   ἀντιλημμένη
+
+[TRANSLATION]
+1   To Protarchos.
+2   From Tryphaine daughter of Dioskourid[es].
+3   [There agr]eed ...
+4   [...] the parents ...
+5   ... of Tryphaine, that they should give
+6   me out (in marriage) to him, he taking charge (of me); and
+7   of (the things) brought to him,
+8   a completed agreement
+9   through your court. She entered
+10   into the marriage as a household (member?), and
+11   (brought) on my account as dowry
+12   clothing worth forty silver
+13   drachmas and, in coined silver,
+14   twenty drachmas. [But] the accused
+15   Asklepiades, since
+16   through our life together he behaved insolently,
+17   having on no (provocation) misused
+18   the aforesaid (dowry), (treats) me with ill-usage
+19   and insults me and, laying his ha-
+20   nds upon me, treats me as not e-
+21   ven a bought slave (would be). [Therefore,] being dest-
+22   itute, (I send) my father Diosku-
+23   rides to submit this peti-
+24   tion, and, for the departure (divorce),
+25   to complete it, (I ask you) to send
+26   to him one of the officers of the
+27   court, who shall carry out for me the
+28   departure (divorce) as is proper, and
+29   shall deliver to Asklepiades
+30   a copy of this peti-
+31   tion, so that ... he may either
+32   submit to judgment or pay me the
+33   sixty silver drachmas; and also ...
+34   ... to Di[os-]
+35   kourides, for the ... of the
+36   ... expense, which in part
+37   (amount to) 66 silver drachmas; and with you (helping) us,
+38   and for the damages and expen-
+39   ses incurred,
+40   (you) having dealt with him as a hater of wrong, so that I may
+41   obtain redress.
