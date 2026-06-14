@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 713
+label:    O.Wilck. 713
+name:     Grain-measure receipt (Hermonthis)
+genre:    receipts
+date:     10. Aug 108 v.Chr.
+language: Greek (Koiné)
+found:    Hermonthis
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 510
+content:  Poregebthis son of Harnouphis measures in wheat by counter-transfer, year 9.
+tm:       77217
+source:   https://papyri.info/ddbdp/o.wilck;;713
+lat:      25.6167
+lon:      32.55
+
+[GREEK]
+r.1    (ἔτους) θ Ἐπεὶφ β μ(εμέτρηκεν) θ (ἔτους)
+r.2    ἐξ ἀντι(διαγραφῆς) Ἑρμ(ώνθεως) Πορεγέβ(θις)
+r.3    Ἁρνού(φιος) (πυροῦ) μίαν ̣ ̣ ἕκ(τον)
+r.4    Ἑρμίας.
+r.5    ε( ) ο ̣( ) δ´ιβ´.
+
+[TRANSLATION]
+1     Year 9, Epeiph 2: there measured in, of year 9,
+2     by counter-transfer, at Hermonthis, Poregebthis
+3     son of Harnouphis, of wheat one … and a sixth.
+4     Hermias.
+5     e( ) o( ) ¼ 1/12.

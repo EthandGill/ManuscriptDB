@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 737
+label:    O.Wilck. 737
+name:     Castor-oil measure receipt - oil-press (Diospolis Magna)
+genre:    receipts
+date:     140 - 139 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4027
+content:  Herakleides son of Hermokles measures in ½ art. of castor at the Theban oil-press, year 31.
+tm:       56508
+source:   https://papyri.info/ddbdp/o.wilck;;737
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [ἔτους λα- …9 -] με(μέτρηκεν) εἰς τὸ ἐν Διὸς πό(λει)
+r.2    [τῆι με(γάλῃ) ἐλαιο(υργεῖον) εἰς] τὴν ἐπιγρ(αφὴν) τοῦ λα (ἔτους)
+r.3    [Ἡρα]κλείδης Ἑρμοκλέους
+r.4    [κρό(τωνος) ἥμισ]υ (γίνεται) κρό(τωνος) (ἀρτάβης) 𐅵.
+
+[TRANSLATION]
+1     [Year 31, …]: there measured into the (oil-press) in Diospolis
+2     [Magna, the oil-press, for] the assessment of year 31,
+3     [Hera]kleides son of Hermokles,
+4     [of castor, a hal]f, total castor (artabas) ½.

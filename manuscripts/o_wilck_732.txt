@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 732
+label:    O.Wilck. 732
+name:     Grain-measure receipt (Hermonthis)
+genre:    receipts
+date:     24. Jul 153 v.Chr.
+language: Greek (Koiné)
+found:    Hermonthis
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4315
+content:  Philon son of Beteus measures in 14⅓ art. of wheat at Hermonthis, year 28.
+tm:       50778
+source:   https://papyri.info/ddbdp/o.wilck;;732
+lat:      25.6167
+lon:      32.55
+
+[GREEK]
+r.1    [(ἔτους)] κη Παῦνι κη με(μέτρηκεν) κη (ἔτους)
+r.2    Ἑρμ(ώνθεως) Φίλων Βετ̣έους ιδγ´ιβ´
+r.3    (γίνονται) (πυροῦ) ιδγ´ιβ´. Ἀντίοχος καὶ
+r.4    Ἀπολλώνιος.
+r.5    Ἁρσιῆσις (πυροῦ) ιδγ´ιβ´.
+r.6    Μεσορὴ ζγ´. Ἀντίοχος
+r.7    καὶ Ἀπο(λλώνιος).
+
+[TRANSLATION]
+1     [Year] 28, Pauni 28: there measured in, of year 28,
+2     at Hermonthis, Philon son of Beteus, 14⅓ 1/12,
+3     total wheat 14⅓ 1/12. Antiochos and
+4     Apollonios.
+5     Harsiesis, of wheat 14⅓ 1/12.
+6     Mesore, 7⅓. Antiochos
+7     and Apo(llonios).

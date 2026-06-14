@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 723
+label:    O.Wilck. 723
+name:     Grain-measure receipt (Diospolis Magna)
+genre:    receipts
+date:     6. Mar 157 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4003
+content:  Dositheos son of Pachrates measures into the Theban granary for the locality, year 24.
+tm:       77224
+source:   https://papyri.info/ddbdp/o.wilck;;723
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους κδ Μεχ(ὶρ) ζ
+r.2    με(μέτρηκεν) εἰς τὸν ἐν Διὸς πό(λει)
+r.3    τῆι με(γάλῃ) θη(σαυρὸν) ὑπὲρ τόπου
+r.4    Κ ̣ ̣( ) κγ (ἔτους)
+r.5    5[Δ]ωσίθεος Παχράτου
+r.6    [ ̣ ̣ ̣ ̣]ειδοσι αὐτοῦ
+r.7    [ ̣ ̣ ̣ ̣ ̣ ̣ ̣]εκ[ ̣ ̣ ̣]
+
+[TRANSLATION]
+1     Year 24, Mecheir 7:
+2     there measured into the (granary) in Diospolis
+3     Magna, the granary, for the locality
+4     K..( ), of year 23,
+5     [D]ositheos son of Pachrates
+6     […]eidosi his …
+7     […]ek[…]

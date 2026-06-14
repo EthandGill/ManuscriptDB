@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 738
+label:    O.Wilck. 738
+name:     Chaff-levy receipt
+genre:    receipts
+date:     30. Jun 149 v.Chr. (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1211
+content:  Imouthes delivers 35 loads of chaff for the due chaff-levy of year 32.
+tm:       77234
+source:   https://papyri.info/ddbdp/o.wilck;;738
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους λβ Παῦνι ε παραδέδω(κεν)
+r.2    εἰς τὸ καθῆ(κον) ἀχυ(ρικὸν) τοῦ αὐτοῦ (ἔτους)
+r.3    Ἰμούθης Και ̣ ̣ ̣ος
+r.4    ἀχύ(ρου) ἀγω(γὰς) τριάκοντα πέ(ντε)
+r.5    (γίνονται) ἀγω(γαὶ) λε. Ἡρα(κλείδης).
+r.6    (hand 2) Σ ̣ ̣ ̣ι ̣ωι ει̣ς( ).
+
+[TRANSLATION]
+1     Year 32, Pauni 5: there delivered
+2     for the due chaff-levy of the same year,
+3     Imouthes son of Kai…os,
+4     thirty-fi(ve) loads of chaff,
+5     total 35 loads. Hera(kleides).
+6     (2nd hand) S…i.oi eis( ).

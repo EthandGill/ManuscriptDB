@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 756
+label:    O.Wilck. 756
+name:     Grain-measure receipt (Hermonthis)
+genre:    receipts
+date:     5. Jul 116 v.Chr.
+language: Greek (Koiné)
+found:    Hermonthis
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4585
+content:  Herakles son of Aristoboulos measures in ½⅓ art. of wheat at Hermonthis, year 54.
+tm:       77243
+source:   https://papyri.info/ddbdp/o.wilck;;756
+lat:      25.6167
+lon:      32.55
+
+[GREEK]
+r.1    (ἔτους) νδ Παῦνι ιη με(μέτρηκεν) νδ (ἔτους) Ἑρ(μώνθεως)
+r.2    Ἡρακλῆς Ἀριστοβούλου
+r.3    (πυροῦ) ἥμισυ τρίτον (γίνεται) (πυροῦ) 𐅵γ´.
+r.4    Ἀγα( ).
+r.5    (hand 2) ̣ ̣ ̣ (πυροῦ) ἥμισυ γ´ (γίνεται) (πυροῦ) 𐅵γ´.
+
+[TRANSLATION]
+1     Year 54, Pauni 18: there measured in, of year 54, at Hermonthis,
+2     Herakles son of Aristoboulos,
+3     of wheat a half and a third, total wheat ½⅓.
+4     Aga( ).
+5     (2nd hand) …, of wheat a half and a third, total wheat ½⅓.

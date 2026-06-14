@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 755
+label:    O.Wilck. 755
+name:     Grain receipt (private)
+genre:    receipts
+date:     18. Apr 118 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4347
+content:  Ballion acknowledges to Thaesis 1⅔ artabas of wheat, year 52.
+tm:       77242
+source:   https://papyri.info/ddbdp/o.wilck;;755
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Βαλλίων Θαή-
+r.2    σει χαίρειν.
+r.3    ἔχω παρὰ σοῦ
+r.4    πυροῦ μίαν
+r.5    δίμοιρον .
+r.6    (ἔτους) νβ
+r.7    Φαμ(ενὼθ) κθ.
+
+[TRANSLATION]
+1     Ballion to Thae-
+2     sis, greeting.
+3     I have from you
+4     of wheat one
+5     and two-thirds.
+6     Year 52,
+7     Phamenoth 29.

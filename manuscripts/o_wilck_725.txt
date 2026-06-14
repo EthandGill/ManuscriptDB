@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 725
+label:    O.Wilck. 725
+name:     Grain-measure receipt (Diospolis Magna)
+genre:    receipts
+date:     2. Aug 157 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 \[725\
+content:  Iason son of Iason measures in 2 art. of wheat for the locality, year 24; countersigned.
+tm:       77226
+source:   https://papyri.info/ddbdp/o.wilck;;725
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους κδ Ἐπεὶφ ϛ με(μέτρηκεν) εἰς τὸν
+r.2    ἐν Διὸς πό(λει) τῆι με(γάλῃ) θη(σαυρὸν) ὑπὲρ τοῦ
+r.3    τόπου κδ (ἔτους) Ἰάσων Ἰάσονος πυροῦ δύο
+r.4    (γίνονται) (πυροῦ) β. Ἀμβρύων.
+r.5    Πτολεμαῖος· με(μέτρημαι) (πυροῦ) δύο (γίνονται) (πυροῦ) β.
+r.6    Ἀπολλώνιος· με(μέτρημαι) (πυροῦ) δύο (γίνονται) (πυροῦ) β.
+
+[TRANSLATION]
+1     Year 24, Epeiph 6: there measured into the
+2     (granary) in Diospolis Magna, the granary, for the
+3     locality of year 24, Iason son of Iason, of wheat two,
+4     total wheat 2. Ambryon.
+5     Ptolemaios: I have received by measure, of wheat two, total wheat 2.
+6     Apollonios: I have received by measure, of wheat two, total wheat 2.

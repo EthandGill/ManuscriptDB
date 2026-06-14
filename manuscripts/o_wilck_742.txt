@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 742
+label:    O.Wilck. 742
+name:     Grain-measure receipt (Diospolis Magna, by transfer)
+genre:    receipts
+date:     20. Aug 135 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4018
+content:  Herakleides son of Hermokles measures in 4 1/6 art. of wheat by counter-transfer, year 35.
+tm:       56511
+source:   https://papyri.info/ddbdp/o.wilck;;742
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους λε Π[αῦ]νι κθ
+r.2    με(μέτρηκεν) [εἰς] τὸν ἐν Δ(ιὸς) πό(λει) τῆι με(γάλῃ) θη(σαυρὸν) λε (ἔτους)
+r.3    ὑπὲρ τό(που) ἐξ ἀντιδιαγρ(αφῆς)
+r.4    Ἡρακλείδης Ἑρμοκλέους
+r.5    (πυροῦ) τέσσα(ρας) ἕκτον (γίνονται) (πυροῦ) δϛ´.
+r.6    Ἐπεὶφ κθ (πυροῦ) ἥμισυ γ´ (γίνονται) 𐅵γ´ (γίνονται) ε.
+
+[TRANSLATION]
+1     Year 35, P[au]ni 29:
+2     there measured [into] the (granary) in Diospolis Magna, the granary, year 35,
+3     for the locality, by counter-transfer,
+4     Herakleides son of Hermokles,
+5     of wheat four and a sixth, total wheat 4 1/6.
+6     Epeiph 29, of wheat ½⅓, total ½⅓, total 5.

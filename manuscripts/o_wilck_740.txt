@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 740
+label:    O.Wilck. 740
+name:     Barley-measure receipt (Diospolis Magna)
+genre:    receipts
+date:     11. Jun 135 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 321
+content:  Herakleides measures in barley for the locality, year 35 (several payments).
+tm:       56509
+source:   https://papyri.info/ddbdp/o.wilck;;740
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἱε(ρ)ᾶς κ(ριθῆς) δ𐅷.
+r.2    ἔτους λε Φαμενὼθ η με(μέτρηκεν) εἰς τὸν ἐν [Διὸς πό(λει)]
+r.3    τῆι με(γάλῃ) θη(σαυρὸν) εἰς τὸ λε (ἔτος) ὑπὲρ τόπ(ου) Ἡρακλείδη[ς]
+r.4    ἥμισυ (γίνονται) ιβ̣ [𐅵]. Ἡρα(κλείδης).
+r.5    ὁ αὐτὸς Φαρμοῦθι ιε κριθῆς δέκα
+r.6    ἥμισυ τρίτον (γίνονται) κ(ριθῆς) ι𐅵γ´.
+r.7    Παχὼν ιθ ὁ αὐτὸς κριθ(ῆς) πέντε
+r.8    (γίνονται) ε.
+
+[TRANSLATION]
+1     Of sacred barley, 4⅔.
+2     Year 35, Phamenoth 8: there measured into the (granary) in [Diospolis]
+3     Magna, the granary, for year 35, for the locality, Herakleides,
+4     a half, total 12 [½]. Hera(kleides).
+5     The same, Pharmouthi 15, of barley ten
+6     and ½⅓, total barley 10½⅓.
+7     Pachon 19, the same, of barley five,
+8     total 5.

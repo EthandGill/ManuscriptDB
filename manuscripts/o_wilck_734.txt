@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 734
+label:    O.Wilck. 734
+name:     Grain-measure receipt (Diospolis Magna)
+genre:    receipts
+date:     18. Jul 139 v.Chr. (year uncertain)
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4020
+content:  Herakleides son of Hermokles measures in 6⅔ art. of wheat for the locality, year 31.
+tm:       44278
+source:   https://papyri.info/ddbdp/o.wilck;;734
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) λα Παῦνι κε με(μέτρηκεν) εἰς τὸν ἐν Διὸς
+r.2    πόλει τῆι μεγ(άλῃ) θη(σαυρὸν) ὑπὲρ τοῦ τόπ(ου) εἰς τὸ λα (ἔτος)
+r.3    Ἡρακείδης Ἑρμοκλέους (πυροῦ) ἓξ
+r.4    [δίμο]ιρον (γίνονται) (πυροῦ) ϛ𐅷. Πτο(λεμαῖος) σιτο(λόγος).
+
+[TRANSLATION]
+1     Year 31, Pauni 25: there measured into the (granary) in Diospolis
+2     Magna, the granary, for the locality, for year 31,
+3     Herakleides son of Hermokles, of wheat six
+4     and [two-th]irds, total wheat 6⅔. Ptolemaios, grain-officer.

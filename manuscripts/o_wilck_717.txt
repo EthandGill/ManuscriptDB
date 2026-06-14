@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 717
+label:    O.Wilck. 717
+name:     Grain-measure receipt
+genre:    receipts
+date:     IV - I v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4459
+content:  Paniskos son of Hermias measures in 2 artabas of wheat, year 14.
+tm:       77221
+source:   https://papyri.info/ddbdp/o.wilck;;717
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους ιδ Μεσορὴ κγ με(μέτρηκεν)
+r.2    εἰς τὸ αὐτὸ (ἔτος) Πανίσκος
+r.3    Ἑρμίου (πυροῦ) δύο (γίνονται) (πυροῦ) β.
+
+[TRANSLATION]
+1     Year 14, Mesore 23: there measured in,
+2     for the same year, Paniskos
+3     son of Hermias, of wheat two, total wheat 2.

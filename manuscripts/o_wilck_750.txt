@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 750
+label:    O.Wilck. 750
+name:     Grain-measure receipt (Diospolis Magna)
+genre:    receipts
+date:     7. Apr 122 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4467
+content:  A…( ) son of Tryphon measures in wheat for the locality, year 48.
+tm:       77237
+source:   https://papyri.info/ddbdp/o.wilck;;750
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) μη Φαμ(ενὼθ) ιζ με(μέτρηκεν) εἰς τὸν ἐν Διὸς πό(λει)
+r.2    τῆι με(γάλῃ) θη(σαυρὸν) λη (ἔτους) ὑπὲρ τόπ(ου) Α̣ ̣ ̣ ̣ ̣ ̣ ̣
+r.3    Τρύφωνος (πυροῦ) δέκα πέντε
+r.4    (γίνονται) (πυροῦ) ιε. Ἀντ(ιγένης)
+r.5    κα ὁ αὐτὸς (πυροῦ) τέσσαρες ἕκτον (γίνονται) (πυροῦ) δϛ´.
+
+[TRANSLATION]
+1     Year 48, Phamenoth 17: there measured into the (granary) in Diospolis
+2     Magna, the granary, year 38(sic), for the locality, A……
+3     (son of) Tryphon, of wheat fifteen,
+4     total wheat 15. Ant(igenes).
+5     the 21st, the same, of wheat four and a sixth, total wheat 4 1/6.

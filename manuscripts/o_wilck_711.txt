@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 711
+label:    O.Wilck. 711
+name:     Apomoira and wine-tax receipt (Ptolemaic)
+genre:    receipts
+date:     III - II v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 76 \[ostracon\
+content:  Poeris son of Thotomous pays 10 keramia of wine for the apomoira and wine-tax of year 7.
+tm:       49774
+source:   https://papyri.info/ddbdp/o.wilck;;711
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) ζ Παῦνι β
+r.2    Ποῆρις Θοτομοῦτος
+r.3    ἀπομοίρας καὶ οἰνο-
+r.4    λογίας εἰς τὸ ζ (ἔτος)
+r.5    οἴνου κε(ράμια) δέκα (γίνονται) κε(ράμια) ι.
+r.6    Ἑρμίας.
+
+[TRANSLATION]
+1     Year 7, Pauni 2:
+2     Poeris son of Thotomous,
+3     (for) apomoira (vineyard-tax) and wine-
+4     collection for year 7,
+5     ten keramia of wine, total 10 keramia.
+6     Hermias.

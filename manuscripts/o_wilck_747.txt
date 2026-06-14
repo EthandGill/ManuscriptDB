@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 747
+label:    O.Wilck. 747
+name:     Barley-measure receipt (Diospolis Magna)
+genre:    receipts
+date:     13. May 131 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. number unknown
+content:  Herakleides son of Hermokles measures in 20½⅓ art. of barley for the locality, year 39.
+tm:       56515
+source:   https://papyri.info/ddbdp/o.wilck;;747
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἱε(ρ)ᾶς δ´
+r.2    (ἔτους) λθ Φαρμοῦθι κα με(μέτρηκεν) εἰς τὸν
+r.3    ἐν Διὸς πό(λει) τῆι με(γάλῃ) θη(σαυρὸν) λθ (ἔτους) ὑπὲρ τόπ(ου)
+r.4    Ἡρακλείδης Ἑρμοκλέους κριθῆς
+r.5    εἴκοσι ἥμισυ τρίτον (γίνονται) κ(ριθῆς) κ𐅵γ´. Ἡρακ(λείδης).
+r.6    Ἡρακλείδης κ(ριθῆς) κ𐅵γ´ (γίνονται) κ(ριθῆς) κ𐅵γ´.
+r.7    Ἀπολλώνιος κ(ριθῆς) κ𐅵γ´ (γίνονται) κ𐅵γ´.
+
+[TRANSLATION]
+1     Of sacred (grain), ¼.
+2     Year 39, Pharmouthi 21: there measured into the
+3     (granary) in Diospolis Magna, the granary, year 39, for the locality,
+4     Herakleides son of Hermokles, of barley
+5     twenty and ½⅓, total barley 20½⅓. Hera(kleides).
+6     Herakleides, of barley 20½⅓, total barley 20½⅓.
+7     Apollonios, of barley 20½⅓, total 20½⅓.

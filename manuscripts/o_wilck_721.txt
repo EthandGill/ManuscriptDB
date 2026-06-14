@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 721
+label:    O.Wilck. 721
+name:     Grain-measure receipt - sacred grain (Diospolis Magna)
+genre:    receipts
+date:     31. Mar - 29. May 159 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1562
+content:  Iosepos son of Abdios measures in wheat for the sacred (grain), year 22.
+tm:       77223
+source:   https://papyri.info/ddbdp/o.wilck;;721
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἐν Διὸς πό(λει) τῆι με(γάλῃ) θη(σαυρὸν) κβ (ἔτους)
+r.2    Ἰώσηπος Ἀβδίου ὑπ(ὲρ) ἱερ[ατικοῦ]
+r.3    (πυροῦ) μίαν 𐅵δ´ (γίνεται) α𐅵δ´. Ἀμβρύων.
+r.4    ἄλλας (πυροῦ) δύο 𐅵ιβ´ (γίνονται) β𐅵ιβ´.
+r.5    Ἀμβρύων.
+
+[TRANSLATION]
+1     Into the granary in Diospolis Magna, year 22:
+2     Iosepos son of Abdios, for the sacr[ed (grain)],
+3     of wheat one and ½¼, total 1½¼. Ambryon.
+4     Others, of wheat two and ½ 1/12, total 2½ 1/12.
+5     Ambryon.

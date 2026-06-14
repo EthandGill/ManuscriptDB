@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 754
+label:    O.Wilck. 754
+name:     Grain-measure receipt (Diospolis Magna)
+genre:    receipts
+date:     17. Jun 119 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4568
+content:  Pankres son of Chesio… measures in 40 art. of wheat for the locality, year 51.
+tm:       77241
+source:   https://papyri.info/ddbdp/o.wilck;;754
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους να Παχὼν κθ με(μέτρηκεν) εἰς τὸν
+r.2    ἐν Διὸς πόλ(ει) τῆι με(γάλῃ) θη(σαυρὸν) να (ἔτους) ὑπὲρ τόπ(ου)
+r.3    Παν̣κρὴς Χεσιω ̣ ̣ ̣ (πυροῦ)
+r.4    τεσσαράκοντα (γίνονται) (πυροῦ) μ
+
+[TRANSLATION]
+1     Year 51, Pachon 29: there measured into the
+2     (granary) in Diospolis Magna, the granary, year 51, for the locality,
+3     Pankres son of Chesio…, of wheat
+4     forty, total wheat 40.

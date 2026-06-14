@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 718
+label:    O.Wilck. 718
+name:     Grain-measure receipt (Diospolis Magna)
+genre:    receipts
+date:     30. Aug 97 v.Chr. (year uncertain)
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4462
+content:  Soloktos son of Simon and partners measure 2½ art. of wheat into the Theban granary, year 17.
+tm:       50777
+source:   https://papyri.info/ddbdp/o.wilck;;718
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) ιζ Μεσορὴ ιθ με(μετρήκασιν) εἰς τὸν ἐν
+r.2    Διὸς πό(λει) τῆι με(γάλῃ) θη(σαυρὸν) Σολοκτ̣ος Σίμωνος
+r.3    καὶ οἱ μέ(τοχοι) (πυροῦ) δύο ἥμυσυ (γίνονται) (πυροῦ) β𐅵.
+r.4    Ἀντίοχος.
+
+[TRANSLATION]
+1     Year 17, Mesore 19: they measured into the (granary) in
+2     Diospolis Magna, the granary, Soloktos son of Simon
+3     and partners, of wheat two and a half, total wheat 2½.
+4     Antiochos.

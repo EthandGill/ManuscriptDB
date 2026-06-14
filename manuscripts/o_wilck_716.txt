@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 716
+label:    O.Wilck. 716
+name:     Grain-measure receipt - seed-corn
+genre:    receipts
+date:     14. Oct 18 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1555
+content:  Harpcheis measures 4 art. wheat + 4 art. barley into the granary for the year-13 sowing.
+tm:       77220
+source:   https://papyri.info/ddbdp/o.wilck;;716
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μεμέ(τρηκεν(?)) εἰς θ]ησ(αυρὸν) Ἁρπχεὶς ι( ) Ὀσυνχώ(νσιος)
+r.2    (πυροῦ) (ἀρτάβας) δ κριθῆ(ς) (ἀρτάβας) δ καὶ τὰ προσμετρούμ(ενα),
+r.3    διὰ Πικὼς Καλαμεὺς καὶ Πορεγέβθ(ιος)
+r.4    Πετεχώ(νσιος), εἰς τὸν σπόρον τοῦ ιγ (ἔτους).
+r.5    (ἔτους) ιγ Φαῶφι ιϛ.
+
+[TRANSLATION]
+1     [There measured into the gr]anary Harpcheis (son of) i( ) Osynchonsis,
+2     of wheat 4 artabas, of barley 4 artabas, and the additional measures,
+3     through Pikos Kalameus and Poregebthis
+4     (son of) Petechonsis, for the sowing of year 13.
+5     Year 13, Phaophi 16.

@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 744
+label:    O.Wilck. 744
+name:     Chaff-levy receipt
+genre:    receipts
+date:     14. - 23. Jun 145 v.Chr. (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4001
+content:  Dionysios son of Chairemon and partners deliver 30 loads of chaff for the year-36 levy.
+tm:       77236
+source:   https://papyri.info/ddbdp/o.wilck;;744
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους λϛ Παχὼν β ̣ [παραδεδώ(κασιν)]
+r.2    εἰς τὸ κα[θ(ῆκον)] ἀχυ(ρικὸν) τοῦ αὐτοῦ (ἔτους)
+r.3    Διονύσιος Χαιρήμονος
+r.4    καὶ οἱ μέ(τοχοι) ἀχύ(ρου) ἀγω(γὰς) τριάκοντα
+r.5    (γίνονται) ἀγω(γὰς) λ.
+r.6    Εἰρηναῖος.
+r.7    (hand 2) Κ ̣ ̣ ̣ ̣ω( ).
+
+[TRANSLATION]
+1     Year 36, Pachon 2: [there delivered]
+2     for the du[e] chaff-levy of the same year,
+3     Dionysios son of Chairemon
+4     and partners, thirty loads of chaff,
+5     total 30 loads.
+6     Eirenaios.
+7     (2nd hand) K…o( ).

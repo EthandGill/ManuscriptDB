@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 715
+label:    O.Wilck. 715
+name:     Chaff-delivery receipt
+genre:    receipts
+date:     IV - I v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 3979
+content:  Pamonthes and partners deliver 30 loads of chaff, year 10.
+tm:       77219
+source:   https://papyri.info/ddbdp/o.wilck;;715
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους ι Παῦνι ε παρα(δεδώκασι)
+r.2    Παμώνθης καὶ οἱ μέ(τοχοι)
+r.3    ἀχύ(ρου) ἀγ(ωγὰς) τριάκοντα
+r.4    (γίνονται) ἀγ(ωγαὶ) λ.
+
+[TRANSLATION]
+1     Year 10, Pauni 5: there delivered
+2     Pamonthes and partners,
+3     thirty loads of chaff,
+4     total 30 loads.

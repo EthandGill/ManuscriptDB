@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 722
+label:    O.Wilck. 722
+name:     Grain-measure receipt (assessment)
+genre:    receipts
+date:     8. Jun 59 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 \[722\
+content:  Psenmonthes son of Pikos measures in 15 art. of wheat (two payments) for the year-22 assessment.
+tm:       44273
+source:   https://papyri.info/ddbdp/o.wilck;;722
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους κβ Παῦ(νι) ε με(μέτρηκεν) εἰς τὴν
+r.2    ἐπιγρ(αφὴν) τοῦ αὐ(τοῦ) (ἔτους) Ψενμώνθης
+r.3    Πικῶτος πυροῦ (ἀρτάβας) ἓξ ἥμισυ ,
+r.4    κθ ὁ αὐ(τὸς) πυροῦ (ἀρτάβας) ὀκτὼ ἥμισυ .
+r.5    (γίνονται) (πυροῦ) (ἀρτάβαι) ιε. Κρο( ) σιτολ(όγος).
+
+[TRANSLATION]
+1     Year 22, Pauni 5: there measured in, for the
+2     assessment of the same year, Psenmonthes
+3     son of Pikos, of wheat six and a half (artabas);
+4     the 29th, the same, of wheat eight and a half (artabas),
+5     total wheat 15 (artabas). Kro( ), grain-officer (sitologos).

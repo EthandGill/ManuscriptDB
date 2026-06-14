@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 745
+label:    O.Wilck. 745
+name:     Barley-measure receipt (Diospolis Magna)
+genre:    receipts
+date:     20. Jun 132 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 \[745\
+content:  Herakleides son of Hermokles measures in 5⅓ art. of barley for the locality, year 38.
+tm:       56513
+source:   https://papyri.info/ddbdp/o.wilck;;745
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) λη Παχὼν κθ με(μέτρηκεν) εἰς τὸν
+r.2    ἐν Δ(ιὸς) πό(λει) τῆι με(γάλῃ) θη(σαυρὸν) λη (ἔτους) ὑπὲρ τόπ(ου)
+r.3    Ἡρακλείδης Ἑρμοκλέους
+r.4    κριθῆς πέντε τρίτον (γίνονται) κ(ριθῆς) εγ´.
+r.5    Ἡρα(κλείδης).
+r.6    (hand 2) Πτο(λεμαῖος) κ(ριθῆς) εγ´ ̣ ̣ε ̣ ̣κ ̣( )
+
+[TRANSLATION]
+1     Year 38, Pachon 29: there measured into the
+2     (granary) in Diospolis Magna, the granary, year 38, for the locality,
+3     Herakleides son of Hermokles,
+4     of barley five and a third, total barley 5⅓.
+5     Hera(kleides).
+6     (2nd hand) Ptolemaios, of barley 5⅓ …

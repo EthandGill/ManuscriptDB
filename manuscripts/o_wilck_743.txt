@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 743
+label:    O.Wilck. 743
+name:     Oil-press measure receipt (Diospolis Magna)
+genre:    receipts
+date:     28. Apr 134 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4275
+content:  Herakleides son of Hermokles measures into the Theban oil-press for the locality, year 36.
+tm:       56512
+source:   https://papyri.info/ddbdp/o.wilck;;743
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους λϛ Φαρμοῦθι ε
+r.2    μεμέτρη(κεν) εἰς τὸ ἐλαιουρ(γεῖον)
+r.3    ̣ ̣ ̣ ̣( ) ε̣λ( ) ὑπὲρ τοῦ τόπου
+r.4    Ἡρακλείδης Ἑρμοκλέους
+
+[TRANSLATION]
+1     Year 36, Pharmouthi 5:
+2     there measured into the oil-press
+3     …( ) el( ), for the locality,
+4     Herakleides son of Hermokles.

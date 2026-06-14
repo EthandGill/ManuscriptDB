@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 759
+label:    O.Wilck. 759
+name:     Grain-price receipt (private)
+genre:    receipts
+date:     18. Febr. 101 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 7955
+content:  Haryothes son of Pamonthes acknowledges to Bion 7 artabas of wheat as the price from a lease.
+tm:       43443
+source:   https://papyri.info/ddbdp/o.wilck;;759
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἁρυώθης Παμώνθου Βίω[νι] χαίρειν.
+r.2    ἔχω παρὰ σοῦ τειμὴν πυροῦ ἀρτάβας
+r.3    ἑπ[τ]ὰ ἀπὸ τῶν ἐπιβαλλ[ον]τος σοι
+r.4    ἐκ τῆς μισθ[ώσεω]ς (γίνονται) (πυροῦ) (ἀρτάβαι) ζ·
+r.5    (ἔτους) [ιϛ] τοῦ καὶ ιγ Μεχεὶρ δ.
+r.6    ἔγρ[αψ]εν Ἁρυώθης Παμώνθου.
+
+[TRANSLATION]
+1     Haryothes son of Pamonthes to Bion, greeting.
+2     I have from you the price of wheat, seven artabas,
+3     from the (share) that falls to you
+4     from the lease, total wheat 7 artabas.
+5     Year [16] which is also 13, Mecheir 4.
+6     Haryothes son of Pamonthes wrote (this).

@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 752
+label:    O.Wilck. 752
+name:     Grain-measure receipt (Diospolis Magna)
+genre:    receipts
+date:     14. Jun 122 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4553
+content:  Herakleides son of Herakleides measures in 3½ art. of wheat, year 48.
+tm:       77239
+source:   https://papyri.info/ddbdp/o.wilck;;752
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους μη Παῦνι κε με(μέτρηκεν) εἰς τὸν
+r.2    ἐν Διὸς πόλ(ει) τῆι με(γάλῃ) θη(σαυρὸν) μη (ἔτους) εἰς τὸ 𐅵γ´ .
+r.3    [Ἡρ]ακλείδης Ἡρακλείδου (πυροῦ) τρεῖς
+r.4    ἥμισυ (γίνονται) (πυροῦ) γ𐅵. … Ἀ̣ν̣τ(ιγένης) .
+
+[TRANSLATION]
+1     Year 48, Pauni 25: there measured into the
+2     (granary) in Diospolis Magna, the granary, year 48, for the ½⅓.
+3     [Her]akleides son of Herakleides, of wheat three
+4     and a half, total wheat 3½. … Ant(igenes).

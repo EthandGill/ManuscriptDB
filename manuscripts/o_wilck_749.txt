@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 749
+label:    O.Wilck. 749
+name:     Grain-measure receipt
+genre:    receipts
+date:     14. May 130 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4002
+content:  Straton son of Menodoros measures in 20 art. of wheat for the locality, year 40.
+tm:       43530
+source:   https://papyri.info/ddbdp/o.wilck;;749
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἱεροῦ δ´
+r.2    (ἔτους) μ Φαρμοῦθι κβ με(μέτρηκεν) μ (ἔτους) ὑπὲρ τόπ(ου)
+r.3    Στράτων Μηνοδώρου (πυροῦ) εἴκοσι (γίνονται) κ.
+r.4    Ἀπολλώ(νιος).
+
+[TRANSLATION]
+1     Of the temple, ¼.
+2     Year 40, Pharmouthi 22: there measured in, year 40, for the locality,
+3     Straton son of Menodoros, of wheat twenty, total 20.
+4     Apollonios.

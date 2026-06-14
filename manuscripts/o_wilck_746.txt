@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 746
+label:    O.Wilck. 746
+name:     Grain-measure receipt (Diospolis Magna)
+genre:    receipts
+date:     11. Aug 132 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 \[746\
+content:  Herakleides son of Hermokles measures in 15½ art. of wheat for the locality, year 38.
+tm:       56514
+source:   https://papyri.info/ddbdp/o.wilck;;746
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἱε(ρο)ῦ ϛ´
+r.2    (ἔτους) λη Ἐπεὶφ κα με(μέτρηκεν) εἰς τὸν ἐν Διὸς πό(λει)
+r.3    τῆι με(γάλῃ) θη(σαυρὸν) λη (ἔτους) ὑπὲρ τοῦ τόπ(ου) Ἡρακλείδης
+r.4    Ἑρμοκλέους (πυροῦ) δέκα πέντε ἥμισυ
+r.5    (γίνονται) (πυροῦ) ιε𐅵.
+r.6    —— Ἡρακ(λείδης).
+r.7    Ἡρακλ(είδης) [(πυροῦ) ι]ε𐅵 (γίνονται) ιε𐅵.
+
+[TRANSLATION]
+1     Of the temple, 1/6.
+2     Year 38, Epeiph 21: there measured into the (granary) in Diospolis
+3     Magna, the granary, year 38, for the locality, Herakleides
+4     son of Hermokles, of wheat fifteen and a half,
+5     total wheat 15½.
+6     —— Hera(kleides).
+7     Herakleides, [of wheat 1]5½, total 15½.

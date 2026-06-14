@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 751
+label:    O.Wilck. 751
+name:     Chaff-delivery receipt
+genre:    receipts
+date:     31. May 122 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4339
+content:  Pachnoubis son of Heriephibis and partners deliver 30 loads of chaff, year 48.
+tm:       77238
+source:   https://papyri.info/ddbdp/o.wilck;;751
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους μη Παχ(ὼν) ια παραδεδώ(κασι)
+r.2    Παχνοῦ(βις) Ἑριεφίβιος καὶ μέ(τοχοι)
+r.3    ἀχύ(ρου) ἀγω(γὰς) τριάκοντα (γίνονται) ἀγ(ωγαὶ) λ.
+
+[TRANSLATION]
+1     Year 48, Pachon 11: there delivered
+2     Pachnoubis son of Heriephibis and partners,
+3     thirty loads of chaff, total 30 loads.

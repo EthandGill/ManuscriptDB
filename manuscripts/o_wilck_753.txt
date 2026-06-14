@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 753
+label:    O.Wilck. 753
+name:     Grain-measure receipt
+genre:    receipts
+date:     17. Aug 121 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4295
+content:  Aristoboulos son of Saminos measures in 7¼ art. of wheat, year 49.
+tm:       77240
+source:   https://papyri.info/ddbdp/o.wilck;;753
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) μθ Ἐπεὶφ λ με(μέτρηκεν) μθ (ἔτους)
+r.2    α ̣ ̣ χοι( ) Ἀριστόβουλος
+r.3    Σαμίνου (πυροῦ) ἑπτὰ δ´
+r.4    (γίνονται) (πυροῦ) ζδ´. Ἀγα( ).
+r.5    Ἡρα(κλείδης) (πυροῦ) ἑπτὰ δ´ (γίνονται) (πυροῦ) ζδ´.
+
+[TRANSLATION]
+1     Year 49, Epeiph 30: there measured in, of year 49,
+2     … choi( ), Aristoboulos
+3     son of Saminos, of wheat seven and a quarter,
+4     total wheat 7¼. Aga( ).
+5     Hera(kleides), of wheat seven and a quarter, total wheat 7¼.
