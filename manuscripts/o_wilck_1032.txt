@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1032
+label:    O.Wilck. 1032
+name:     Bath-tax balance quittance (Tiberius)
+genre:    receipts
+date:     23. Aug 35
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 336
+content:  Ptolemaios acknowledges from Paous the balance of the bath-tax of year 21 of Tiberius.
+tm:       77499
+source:   https://papyri.info/ddbdp/o.wilck;;1032
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πτολεμαῖος Ἀσκλᾶτος
+r.2    Παοῦς Πετοβάστιος χαίρειν.
+r.3    ἀπέχω παρὰ σοῦ τὸ πρόλυπον
+r.4    τοῦ βαλ(ανικοῦ) τοῦ (ἔτους) κα Τιβερίου [Καίσαρος]
+r.5    Σεβαστοῦ Μεσορὴ λ
+r.6    (hand 2) Πτολεμαῖος.
+
+[TRANSLATION]
+1     Ptolemaios (son of) Asklas,
+2     to Paous (son of) Petobastis, greeting.
+3     I have received from you the balance
+4     of the bath-tax of year 21 of Tiberius [Caesar]
+5     Augustus, Mesore 30.
+6     (2nd hand) Ptolemaios.

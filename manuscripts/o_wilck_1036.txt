@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1036
+label:    O.Wilck. 1036
+name:     Bath-tax balance quittance (Claudius)
+genre:    receipts
+date:     42 - 43
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 299
+content:  Ptolemaios acknowledges from Kametis the balance of the bath-tax of year 3 of Claudius.
+tm:       77503
+source:   https://papyri.info/ddbdp/o.wilck;;1036
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πτολεμαῖος Ἀσκλᾶς Καμῆτις Φθουμ( )
+r.2    χ(αίρειν). ἀπέχω παρὰ σοῦ [τὸ πρόλοι]πον
+r.3    τοῦ βαλ(ανευτικοῦ) τοῦ γ (ἔτους) Τιβερίου Κλαυδίου
+r.4    Καίσαρος Σεβαστοῦ [ ̣ ̣ ̣ ̣ ̣ Πτολεμαῖος].
+
+[TRANSLATION]
+1     Ptolemaios (son of) Asklas, to Kametis (son of) Phthoum( ),
+2     greeting. I have received from you [the bala]nce
+3     of the bath-tax of year 3 of Tiberius Claudius
+4     Caesar Augustus, [.... Ptolemaios].

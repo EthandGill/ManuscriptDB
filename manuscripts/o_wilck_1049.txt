@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1049
+label:    O.Wilck. 1049
+name:     Monthly tax quittance (Domitian)
+genre:    receipts
+date:     29. Aug - 27. Oct 85
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 16471
+content:  Phmois and partner acknowledge from Panameus the tax of Thoth & Phaophi, year 5 of Domitian.
+tm:       77516
+source:   https://papyri.info/ddbdp/o.wilck;;1049
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φμόις Φθουμείνιος καὶ μέτοχ(ος)
+r.2    Γερμανὸς Μενέφρωνος τοῦ ε (ἔτους)
+r.3    χαίρειν Παναμεὺς Ἑρμίου. ἀπέχω(μεν)
+r.4    παρὰ σοῦ τὸ τέλ(ος) Θὼθ Φαῶφι
+r.5    (ἔτους) ε Δομιττιανοῦ τοῦ κυρίου.
+
+[TRANSLATION]
+1     Phmois (son of) Phthouminis and partner,
+2     Germanos (son of) Menephron, of year 5,
+3     greeting (to) Panameus (son of) Hermias. We have received
+4     from you the tax of Thoth (and) Phaophi,
+5     year 5 of Domitian the lord.

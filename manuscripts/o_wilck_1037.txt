@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1037
+label:    O.Wilck. 1037
+name:     Bath-tax balance quittance (Claudius)
+genre:    receipts
+date:     39 - 40 (?)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. (?)
+content:  Ptolemaios, bath-tax collector, acknowledges the balance of the bath-tax of year 4.
+tm:       77504
+source:   https://papyri.info/ddbdp/o.wilck;;1037
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πτολεμαῖος Ἀσ-
+r.2    κλᾶς πράκ(τωρ) <βαλ(ανικοῦ)>
+r.3    Ψαν ̣ ̣ ̣ ̣ Π ̣ ̣ ̣ ̣
+r.4    χ(αίρειν). ἀπέχω τὸ πρόλυ(πον)
+r.5    τοῦ <βαλ(ανικοῦ)> τοῦ δ (ἔτους)
+r.6    Πτολεμαῖος.
+
+[TRANSLATION]
+1     Ptolemaios (son of) As-
+2     klas, collector <of the bath-tax>,
+3     to Psan.... (son of) P....,
+4     greeting. I have received the balance
+5     of the <bath-tax> of year 4.
+6     Ptolemaios.

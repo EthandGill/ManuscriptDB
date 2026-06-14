@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1011
+label:    O.Wilck. 1011
+name:     Chaff receipt (soldier)
+genre:    receipts
+date:     ca. 70 - 100
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8745
+content:  Gaius Cassianus, a soldier, acknowledges receiving chaff.
+tm:       77487
+source:   https://papyri.info/ddbdp/o.wilck;;1011
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Γάιος Κασια[νὸς …]
+r.2    στρατιώτ(ης) ̣ ̣[…]
+r.3    χ(αίρειν). ἀπέχω[…]
+r.4    ἀχύρου ἀ̣[γωγὰς (?)…]
+
+[TRANSLATION]
+1     Gaius Cassia[nus …]
+2     soldier …[…]
+3     greeting. I have received […]
+4     of chaff, lo[ads(?) …]

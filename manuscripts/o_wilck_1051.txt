@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1051
+label:    O.Wilck. 1051
+name:     Enkyklion / boat-tax quittance (Trajan)
+genre:    receipts
+date:     1. Mar 101
+language: Greek (Koiné)
+found:    Theben oder Elephantine
+held:     (see shelf)
+shelf:    Paris, Louvre E 12472
+content:  Ammonios acknowledges a tax (enkyklion / on a small boat), year 4 of Trajan.
+tm:       77518
+source:   https://papyri.info/ddbdp/o.wilck;;1051
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1    Ἀμμώνιος […]
+r.2    εἴδους ἐνκυκ[λίου …]
+r.3    νος χ(αίρειν). ἀπέχ[…]
+r.4    πλοιαιρίου ου[…]
+r.5    (ἔτους) δ Τραιανοῦ Καί[σαρος τοῦ κυρίου]
+r.6    Φαμενὼθ ε.
+
+[TRANSLATION]
+1     Ammonios […]
+2     of the kind subject to the enkyk[lion (transfer-tax) …]
+3     ...nos, greeting. I have receiv[ed …]
+4     of a small boat …[…]
+5     Year 4 of Trajan Cae[sar the lord],
+6     Phamenoth 5.

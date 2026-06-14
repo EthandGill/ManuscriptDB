@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1028
+label:    O.Wilck. 1028
+name:     Yoke-tax assessment
+genre:    receipts
+date:     IV - I v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4337
+content:  Asklepiades assesses Sambas the due tax on teams (zeuge) for year 26, no further claim.
+tm:       43517
+source:   https://papyri.info/ddbdp/o.wilck;;1028
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀσκληπιάδης
+r.2    Σαμβ(ᾷ) χ(αίρειν). τέταξαι
+r.3    τὸ καθῆκον τέλος
+r.4    ζευγῶν πεντακοσια
+r.5    εἰς τὸ κϛ (ἔτος)καὶ κου-
+r.6    θέν σοι ἐγκαλῶ.
+
+[TRANSLATION]
+1     Asklepiades
+2     to Sambas, greeting. You have been assessed
+3     the due tax
+4     on teams (zeuge), five hundred(?),
+5     for the 26th year, and I make no
+6     claim against you.

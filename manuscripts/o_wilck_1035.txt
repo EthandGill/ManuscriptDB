@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1035
+label:    O.Wilck. 1035
+name:     Bath-tax balance quittance (Claudius)
+genre:    receipts
+date:     26. Sep 42
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 337
+content:  Ptolemaios acknowledges from Petemenophis the balance of the bath-tax of year 3 of Claudius.
+tm:       77502
+source:   https://papyri.info/ddbdp/o.wilck;;1035
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πτολεμαῖος Ἀσκλᾶς
+r.2    Πετεμενώ(φει) Παμ(ώνθου) χ(αίρειν).
+r.3    ἀπέχω παρὰ σοῦ τὸ
+r.4    πρόλυπον τοῦ βαλ(ανευτικοῦ)
+r.5    τοῦ γ (ἔτους) Τιβερίου Κλαυ[δίου]
+r.6    Καίσαρος Σεβαστοῦ κθ
+r.7    (hand 2) Πτολεμαῖος.
+
+[TRANSLATION]
+1     Ptolemaios (son of) Asklas,
+2     to Petemenophis (son of) Pamonthes, greeting.
+3     I have received from you the
+4     balance of the bath-tax
+5     of year 3 of Tiberius Clau[dius]
+6     Caesar Augustus, (day) 29.
+7     (2nd hand) Ptolemaios.

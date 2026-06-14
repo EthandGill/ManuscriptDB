@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1056
+label:    O.Wilck. 1056
+name:     Sales-tax (1/50) quittance on an ox (Trajan)
+genre:    receipts
+date:     7. Apr 113
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4508
+content:  Cornelius Rhetor, farmer of the 1/50 sales-tax of the Theban district, acknowledges the tax on an ox bought from Psenmonthes, year 16 of Trajan.
+tm:       77523
+source:   https://papyri.info/ddbdp/o.wilck;;1056
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Κορνήλιος Ῥήτωρ τελ(ώνης) (πεντηκοστῆς) ὠνί(ων)
+r.2    ὑποτελ(ῶν) τοῦ Περὶ Θήβας
+r.3    ὁμολόγω Παμ ̣ ̣η̣ ̣ ̣ κυσιη̣ρ̣ ̣ ̣
+r.4    ἔσ(χον) παρὰ σο(ῦ) τέλ(ος) π̣αγης βοὸς λ̣ ̣ ̣ ̣
+r.5    ὃ ἠγόρακες παρὰ Ψενμώνθου
+r.6    ἔτους ιϛ Τραιανοῦ Καίσαρος
+r.7    τοῦ κυρίου Φαρμοῦ(θι) ιβ.
+
+[TRANSLATION]
+1     Cornelius Rhetor, tax-farmer of the 1/50 sales-tax
+2     on dutiable goods of the district 'Around Thebes',
+3     I acknowledge (to) Pam...... ...:
+4     I have received from you the tax on the … of an ox …,
+5     which you bought from Psenmonthes,
+6     year 16 of Trajan Caesar
+7     the lord, Pharmouthi 12.

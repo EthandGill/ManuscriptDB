@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1041
+label:    O.Wilck. 1041
+name:     Monthly tax quittance (Nero)
+genre:    receipts
+date:     25. Jun - 23. Aug 58
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1605
+content:  Achilleus acknowledges from Senchonsis the tax of Epeiph & Mesore of year 4 of Nero.
+tm:       77508
+source:   https://papyri.info/ddbdp/o.wilck;;1041
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀχιλλεὺς Σενπετεμών(θου)
+r.2    Σενχώ(νσι) Πετεχα( ) χα(ίρειν). ἀπέχ(ω) παρὰ σοῦ
+r.3    τὸ τέλ(ος) Ἐφεὶφ καὶ Μεσορὴ τοῦ
+r.4    δ (ἔτους) Νέρωνος τοῦ κυρίου.
+r.5    (hand 2) Ἀχιλλεύς.
+
+[TRANSLATION]
+1     Achilleus (son of) Senpetemonthes,
+2     to Senchonsis (daughter of) Petecha( ), greeting. I have received from you
+3     the tax of Epeiph and Mesore of
+4     year 4 of Nero the lord.
+5     (2nd hand) Achilleus.

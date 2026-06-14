@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 1022
+label:    O.Wilck. 1022
+name:     Lease-rent quittance
+genre:    receipts
+date:     IV - I v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4537
+content:  Herakleides acknowledges to Petenephotes the rents fixed by the lease of an allotment (year 8 for year 9), no further claim.
+tm:       43317
+source:   https://papyri.info/ddbdp/o.wilck;;1022
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἡρακλείδης Πετενεφώτηι
+r.2    χαίρειν. ἔχω τὰ σταθέντα
+r.3    διὰ τῆς μισθώσεως οὗ
+r.4    ἐμίσθωσά σοι κλήρου
+r.5    ἐν τῶι η (ἔτει) εἰς τὸ θ (ἔτος)
+r.6    καὶ οὐθέν σοι ἐνκαλῶ.
+r.7    (ἔτους) θ Ἐπεὶφ κθ. v
+r.8    Ἡρα(κλείδης) ε ̣
+
+[TRANSLATION]
+1     Herakleides to Petenephotes,
+2     greeting. I have the (rents) fixed
+3     by the lease of the allotment which
+4     I leased to you
+5     in the 8th year for the 9th year,
+6     and I make no claim against you.
+7     Year 9, Epeiph 29.
+8     Hera(kleides) …

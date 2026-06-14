@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1042
+label:    O.Wilck. 1042
+name:     Tax quittance (Vespasian)
+genre:    receipts
+date:     70 - 71
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4669
+content:  Petemenophis acknowledges a tax of year 3 of Vespasian.
+tm:       77509
+source:   https://papyri.info/ddbdp/o.wilck;;1042
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πετεμενῶ(φις) Πετεχώ(νσιος) ̣[…]
+r.2    Ἐπωνύχ(ου) χα(ίρειν). ἀπέχω π[αρὰ σοῦ …]
+r.3    τοῦ γ (ἔτους) Οὐασπασινο[ῦ] […]
+
+[TRANSLATION]
+1     Petemenophis (son of) Petechonsis …[…]
+2     (son of) Eponychos, greeting. I have received f[rom you …]
+3     of year 3 of Vespasi[an] […]

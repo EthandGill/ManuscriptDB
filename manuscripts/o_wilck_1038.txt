@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1038
+label:    O.Wilck. 1038
+name:     Tax receipt (Claudius)
+genre:    receipts
+date:     29. Aug - 27. Sep 53
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4060
+content:  Pamonthes, of year 14 of Claudius; written by Panas.
+tm:       77505
+source:   https://papyri.info/ddbdp/o.wilck;;1038
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παμώνθ(ης) Πετε ̣ ̣ ̣ ̣
+r.2    Σενψα ̣ ̣
+r.3    ιδ (ἔτους) Τιβερίου Κλαυδίου
+r.4    Καίσαρος Σεβαστοῦ
+r.5    Αὐτογράτορος τοῦ κυρίου.
+r.6    [ἔγρ]αψα Πανᾶς.
+
+[TRANSLATION]
+1     Pamonthes (son of) Pete....,
+2     (to) Senpsa..,
+3     year 14 of Tiberius Claudius
+4     Caesar Augustus
+5     Imperator the lord.
+6     [I wr]ote (this), Panas.

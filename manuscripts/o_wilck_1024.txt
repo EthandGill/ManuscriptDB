@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1024
+label:    O.Wilck. 1024
+name:     Lease-rent quittance
+genre:    receipts
+date:     IV - I v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4478
+content:  Lysimachos acknowledges to Phatres the ground-rent and produce-rent of the allotment, no further claim, year 21.
+tm:       43309
+source:   https://papyri.info/ddbdp/o.wilck;;1024
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Λυσίμαχος Ποσειδωνίου
+r.2    Φατρῆς Ἡρακλείδου χαίρειν.
+r.3    ἀπέχω παρὰ σοῦ τὸ ἐμβαδικὸν
+r.4    καὶ τὸ ἐκφόριον τοῦ κλήρου καὶ
+r.5    τοῦ κ̣ ̣ ̣ ̣ωνίου τοῦ Ἀρείου καὶ κουθέν
+r.6    σοι ἐνκαλῶ. (ἔτους) κα Μεσορὴ β.
+
+[TRANSLATION]
+1     Lysimachos (son of) Poseidonios,
+2     to Phatres (son of) Herakleides, greeting.
+3     I have received from you the ground-rent (embadikon)
+4     and the produce-rent (ekphorion) of the allotment and
+5     of the …onion of Areios, and I make no
+6     claim against you. Year 21, Mesore 2.

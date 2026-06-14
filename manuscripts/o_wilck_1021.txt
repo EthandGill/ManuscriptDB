@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1021
+label:    O.Wilck. 1021
+name:     Embankment-tax note
+genre:    receipts
+date:     III v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4400
+content:  Embankment-tax, year 4, Tybi: Thoteipau, paid through Poeris.
+tm:       43319
+source:   https://papyri.info/ddbdp/o.wilck;;1021
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    (ἔτους) δ Τῦβι χωμα-
+r.2    τικοῦ Θ̣ο̣τηιπ̣αυ.
+r.3    Παρατ διὰ Ποέρι.
+
+[TRANSLATION]
+1     Year 4, Tybi: embankment-
+2     tax: Thoteipau(?).
+3     Parat( ), through Poeris.

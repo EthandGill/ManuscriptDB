@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 1026
+label:    O.Wilck. 1026
+name:     Tax-assessment note
+genre:    receipts
+date:     1. - 30. Mar 158 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1554
+content:  Moschion is assessed the accruing tax of year 23; not to use the earlier receipt.
+tm:       43605
+source:   https://papyri.info/ddbdp/o.wilck;;1026
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [ἔ]τους κγ Μεχεὶρ
+r.2    [τ]έτακται Μοσχίων
+r.3    [τ]ῶν αὐτοῦ ̣τηνων
+r.4    φ τὸ γεινόμενον
+r.5    τέλος τοῦ αὐτοῦ ἔτους
+r.6    καὶ μὴ χρήσῃ τῶ[ι]
+r.7    πρότερον [γρα(φέντι)]
+r.8    Λά̣λιος _(?)_[…]
+
+[TRANSLATION]
+1     [Y]ear 23, Mecheir:
+2     Moschion has been assessed,
+3     of his …,
+4     500(?), the tax accruing
+5     of the same year;
+6     and do not use the
+7     previously [written (receipt)].
+8     Lalios(?) …[…]

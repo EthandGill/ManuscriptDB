@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1031
+label:    O.Wilck. 1031
+name:     Pig-tax quittance (Tiberius)
+genre:    receipts
+date:     31. Oct 32
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12674
+content:  Onnophris, pig-tax farmer, acknowledges the tax on one young pig of year 19 of Tiberius from Senarieus.
+tm:       50788
+source:   https://papyri.info/ddbdp/o.wilck;;1031
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ὀννόφρις Ἀμμ[ωνίου]
+r.2    τελώνης ὑικῆς
+r.3    Σεναριεὺς Μεσοῆρι.
+r.4    ἔχω παρὰ σοῦ τέλος δελφα-
+r.5    κίτος μιᾶς τοῦ ιθ (ἔτους) Τιβερί[ου]
+r.6    Καίσαρος Σεβαστοῦ Ἁθὺρ δ.
+
+[TRANSLATION]
+1     Onnophris (son of) Amm[onios],
+2     tax-farmer of the pig-tax,
+3     to Senarieus (daughter of) Mesoeris.
+4     I have from you the tax on one
+5     young pig (delphax) of year 19 of Tiber[ius]
+6     Caesar Augustus, Hathyr 4.

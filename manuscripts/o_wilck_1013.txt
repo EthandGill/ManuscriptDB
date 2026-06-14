@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1013
+label:    O.Wilck. 1013
+name:     Barley receipt (cavalry fodder)
+genre:    receipts
+date:     194 - 195 (?)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4430
+content:  Anoubion & Onnophris acknowledge ⅓ 1/12 art. of barley supplied to the Herakleian squadron's cavalry in lieu of fodder, year 3.
+tm:       77489
+source:   https://papyri.info/ddbdp/o.wilck;;1013
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀνουβίων καὶ Ὀνν(ῶφρις) πράκ(τορες) σιτικ̣(ῶν) νήσ(ων)
+r.2    Δέκμῳ πρ(εσβυτέρῳ) Ἡρακλᾶτο(ς). παρέσχ(ες)
+r.3    τοῖς ἱππεῦσι εἴλ(ης) Ἡρακ(λιανῆς) κρ(ιθῆς) ἀντὶ γ̣ρ̣ά(στεως (?))
+r.4    ὑπ(ὲρ) γενή(µατος) γ (ἔτους) κρ(ιθῆς) ἀρτάβ(ης) τρίτο(ν) δωδέκ(ατον)
+r.5    (γίνεται) κρ(ιθῆς) (ἀρτάβης) γ´ιβ´. Ἀνουβ(ίων).
+r.6    Ὀννῶφρις σεση(μείωμαι)
+
+[TRANSLATION]
+1     Anoubion and Onnophris, collectors of the grain-tax of the islands,
+2     to Decimus the elder (son of) Heraklas. You supplied
+3     to the cavalrymen of the Herakl(ian) squadron, of barley, in lieu of (green) fodder,
+4     for the produce of year 3, of barley, a third and a twelfth of an artaba,
+5     total barley ⅓ 1/12 of an artaba. Anoub(ion).
+6     I, Onnophris, have signed.

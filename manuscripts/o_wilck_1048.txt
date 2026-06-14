@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1048
+label:    O.Wilck. 1048
+name:     Monthly tax quittance (Vespasian)
+genre:    receipts
+date:     26. Apr - 24. Jun 78
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 495
+content:  Pamonthes acknowledges to Panameus the tax of Pachon & Pauni of year 10 of Vespasian.
+tm:       77515
+source:   https://papyri.info/ddbdp/o.wilck;;1048
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παμώνθ(ης) Φαήριος
+r.2    Παναμεὺς Ἡρᾶς χα(ίρειν).
+r.3    ἔχω τὸ τ̣έλ(ος) Παχὼ(ν)
+r.4    [Πα]ῦνι τοῦ ι (ἔτους) Οὐεσπασιανοῦ
+r.5    5[τοῦ] κυρίου.
+
+[TRANSLATION]
+1     Pamonthes (son of) Phaeris,
+2     (to) Panameus (son of) Heras, greeting.
+3     I have the tax of Pachon
+4     (and) [Pa]uni of year 10 of Vespasian
+5     [the] lord.

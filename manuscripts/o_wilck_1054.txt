@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1054
+label:    O.Wilck. 1054
+name:     Cart-tax quittance (Trajan)
+genre:    receipts
+date:     5. May 105
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4626
+content:  Imouthes(?) and partners, donkey/cart-tax farmers, acknowledge from Psenamounis the cart-tax until Mesore 30, year 8 of Trajan.
+tm:       77521
+source:   https://papyri.info/ddbdp/o.wilck;;1054
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [Ἰμούθ]η(ς(?)) κ(αὶ(?)) μέ(τοχοι) τελ(ῶναι) ὀνηλ(ατικοῦ)
+r.2    [καὶ ἁμαξ(ικοῦ(?))] τοῦ η (ἔτους) Τραιανοῦ Καίσαρος
+r.3    [τοῦ κ]υρίου Ψεναμο(ύνει) Πικῶτο(ς) χα(ίρειν).
+r.4    [ἀπ]έσχομ(εν) παρὰ (σοῦ) τὸ τέλ(ος) τῆς ἁμάξης σο(υ)
+r.5    5[ἕ]ως Μεσο(ρὴ) λ. (ἔτους) η Τραιανοῦ
+r.6    Καίσαρος τοῦ κυρίου Παχὼ(ν) ι.
+
+[TRANSLATION]
+1     [Imouth]es(?) and partners, tax-farmers of the donkey-driver(-tax)
+2     [and cart(-tax)] of year 8 of Trajan Caesar
+3     [the l]ord, to Psenamounis (son of) Pikos, greeting.
+4     [We have re]ceived from you the cart-tax of your cart
+5     [un]til Mesore 30. Year 8 of Trajan
+6     Caesar the lord, Pachon 10.

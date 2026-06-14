@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1023
+label:    O.Wilck. 1023
+name:     Naubion dyke-work note
+genre:    receipts
+date:     III v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1553
+content:  Patapes son of Thoteus has performed naubia in the ..( ) section for year 11; Antigonos.
+tm:       77497
+source:   https://papyri.info/ddbdp/o.wilck;;1023
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἀπείργασται ἐν τῶι περὶ Κ ̣( )
+r.2    τόμωι εἰς τὸ ια (ἔτος) Παταπὴς
+r.3    Θοτεύτου ναύβια ̣ Ἀντίγονος.
+
+[TRANSLATION]
+1     There has been worked, in the ..( ) sec-
+2     tion(?), for the 11th year: Patapes
+3     (son of) Thoteus, .. naubia. Antigonos.

@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1053
+label:    O.Wilck. 1053
+name:     Market-tax lease quittance (Trajan)
+genre:    receipts
+date:     1. Nov 103
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4520
+content:  Dioskoros and partners, market-tax farmers, acknowledge from Pekysis the lease-tax of a share of the island, year 7 of Trajan.
+tm:       77520
+source:   https://papyri.info/ddbdp/o.wilck;;1053
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Διόσκο(ρος) κ(αὶ) μέ(τοχοι) τελ(ῶναι) ἀγο(ρανομ ) τοῦ ζ (ἔτους)
+r.2    Πεκύσι Νεφερῶτο(ς) χα(ίρειν).
+r.3    ἀπέχο(μεν) παρὰ σοῦ τέλ(ος) μισθ(ώσεως)
+r.4    μ̣ερο( ) νήσου Πια ̣μ̣ ̣ου (ἔτους) ζ
+r.5    Τραιανοῦ Καίσαρος τοῦ κυρίου
+r.6    Ἁθὺρ δ.
+
+[TRANSLATION]
+1     Dioskoros and partners, tax-farmers of the market-tax (agoranomia) of year 7,
+2     to Pekysis (son of) Nepheros, greeting.
+3     We have received from you the tax of the lease
+4     of a share(?) of the island Pia.m.ou, of year 7
+5     of Trajan Caesar the lord,
+6     Hathyr 4.

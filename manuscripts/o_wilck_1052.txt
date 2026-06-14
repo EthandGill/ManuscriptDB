@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1052
+label:    O.Wilck. 1052
+name:     Personal-tax quittance (Trajan)
+genre:    receipts
+date:     100 - 101
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 7768
+content:  Psenmonthes & Dionysios, poll-registrars, acknowledge from Amenrosis the personal taxes (somatika) of year 4 of Trajan.
+tm:       77519
+source:   https://papyri.info/ddbdp/o.wilck;;1052
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [Ψεν]μώνθης καὶ Διονῦσις
+r.2    [οἱ β] λαογρά(φοι(?)) Ἀμενρῶσις
+r.3    [Ἀμ]οῦνις χα(ίρειν). ἀπέχω(μεν) παρὰ σοῦ
+r.4    [ὑπ(ὲρ)] σωματικῶν τοῦ δ (ἔτους)
+r.5    5[Αὐτο]κράτωρος Καίσαρος
+r.6    [Τρ]αιανοῦ Σεβαστοῦ
+r.7    [ ̣ ̣ ̣] ̣ ̣ ̣κ. Διονύσιο[ς]
+
+[TRANSLATION]
+1     [Psen]monthes and Dionysios,
+2     [the two] poll-registrars(?), (to) Amenrosis
+3     [(son of) Am]ounis, greeting. We have received from you
+4     [for] the personal taxes (somatika) of year 4
+5     [of Impe]rator Caesar
+6     [Tr]ajan Augustus,
+7     […] … . Dionysio[s].

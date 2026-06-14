@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1050
+label:    O.Wilck. 1050
+name:     Monthly tax quittance (Domitian)
+genre:    receipts
+date:     9. Nov 91
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1199
+content:  Ak..as and partners acknowledge the tax of Thoth & Phaophi of year 11 of Domitian from Pikos.
+tm:       77517
+source:   https://papyri.info/ddbdp/o.wilck;;1050
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ακ ̣ ̣ας Πικῶτο(ς) καὶ μέτοχ(οι)
+r.2    Πικῶς Ἐπω[νύχ(ου)] Πικ(ῶτος) χ(αίρειν). ἀπέχο(μεν)
+r.3    τὸ τέλ(ος) Θῶυτ Φαῶφι τοῦ
+r.4    ια (ἔτους) Δομιτιανοῦ τοῦ κυρίου Ἁθὺρ ιβ.
+
+[TRANSLATION]
+1     Ak..as (son of) Pikos and partners,
+2     (to) Pikos (son of) Epo[nychos] (son of) Pikos, greeting. We have received in full
+3     the tax of Thoth (and) Phaophi of
+4     year 11 of Domitian the lord, Hathyr 12.

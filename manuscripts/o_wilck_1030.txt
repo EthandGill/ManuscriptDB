@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1030
+label:    O.Wilck. 1030
+name:     Monthly tax quittance (Tiberius)
+genre:    receipts
+date:     24. Jun 32
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4318
+content:  Cornelius and partners acknowledge the tax of Pauni, year 18 of Tiberius, from Senpsas.
+tm:       77498
+source:   https://papyri.info/ddbdp/o.wilck;;1030
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Κορνήλιος καὶ μέ(τοχοι)
+r.2    Σενψᾶτος χαίριν . ἀπέχο(μεν)
+r.3    τὸ τέλος τοῦ Παῦνι (ἔτους) ιη
+r.4    Τιβερίου Καίσαρος
+r.5    Σεβαστοῦ Παῦνι λ.
+
+[TRANSLATION]
+1     Cornelius and partners,
+2     to Senpsas, greeting. We have received in full
+3     the tax of the month Pauni, of year 18
+4     of Tiberius Caesar
+5     Augustus, Pauni 30.
