@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 627
+label:    O.Wilck. 627
+name:     Tax receipt - assessment (anak.)
+genre:    receipts
+date:     8. Jun 146
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4595
+content:  Petearoueris receives 5 dr. 4 ob. for the anak. assessment of year 9 from Amenothes.
+tm:       77137
+source:   https://papyri.info/ddbdp/o.wilck;;627
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πετεαρο(υῆρις) πράκ(τωρ) ἀργ(υρικῆς) Χά(ρακος) Ἀμενώ(θῃ)
+r.2    Ἁρβήχ(ιος). ἔσχ(ον) ὑπ(ὲρ) μερισ(μοῦ) ἀνακ( ) θ (ἔτους)
+r.3    ῥυπ(αρὰς) (δραχμὰς) ε(τετρώβολον). (ἔτους) θ Ἀντωνίνου Καίσαρος τοῦ
+r.4    κυρίου Παῦ(νι) ιδ.
+
+[TRANSLATION]
+1     Petearoueris, collector of money-taxes of Charax, to Amenothes
+2     (son of) Harbechis. I have received for the assessment anak( ) of year 9,
+3     base drachmas 5, 4 obols. Year 9 of Antoninus Caesar the
+4     lord, Pauni 14.

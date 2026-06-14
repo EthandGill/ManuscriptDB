@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 637
+label:    O.Wilck. 637
+name:     Tax receipts - doubles and assessment
+genre:    receipts
+date:     19. Sep 148
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4457
+content:  Tauron receives 1 dr. (doubles, year 11) then 1 dr. (assessment, year 11) from Pikos the younger.
+tm:       77147
+source:   https://papyri.info/ddbdp/o.wilck;;637
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ταύρων πράκ(τωρ) ἀργ(υρικῆς) Χά(ρακος) Πικώτι ν(εωτέρῳ) Ἀρχίου.
+r.2    ἔσχ(ον) ὑπ(ὲρ) δι(πλῶν) ια (ἔτους) ῥυπ(αρὰν) (δραχμὴν) μιας (γίνεται) ῥυπ(αρὰ) (δραχμὴ) α. (ἔτους) ια
+r.3    Ἀντωνίνου Καίσαρος τοῦ κυρίου Ἐπεὶφ β. ̣ ̣ ̣( ) σ(εσ)η(μείωμαι).
+r.4    ἄλ(λα) Θὼθ κβ τοῦ ιβ (ἔτους) ὀνό(ματος) τοῦ α(ὐτοῦ) ὑπ(ὲρ) μερισμ(οῦ) ια (ἔτους)
+r.5    ῥυπ(αρὰν) (δραχμὴν) μίαν (γίνεται) ῥυπ(αρὰ) (δραχμὴ) α. Π ̣ ̣( ) σ(εσημείωμαι).
+
+[TRANSLATION]
+1     Tauron, collector of money-taxes of Charax, to Pikos the younger, (son of) Archis.
+2     I have received for the doubles (dipla) of year 11, one base drachma, total base drachma 1. Year 11
+3     of Antoninus Caesar the lord, Epeiph 2. I, …, have signed.
+4     Others, Thoth 22 of year 12, in the name of the same, for the assessment of year 11,
+5     one base drachma, total base drachma 1. I, P…, have signed.

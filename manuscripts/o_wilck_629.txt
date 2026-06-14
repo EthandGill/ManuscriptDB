@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 629
+label:    O.Wilck. 629
+name:     Tax receipt - watchtower and other taxes
+genre:    receipts
+date:     6. Mar 147
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8547
+content:  Petearoueris receives 3 dr. 4½ ob. for watchtower and other taxes of year 10 from Paoukales.
+tm:       77139
+source:   https://papyri.info/ddbdp/o.wilck;;629
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πετεαρο(υῆρις) πράκ(τωρ) ἀργ(υρικῆς) Χά(ρακος) Παουκ(αλῇ) Παχνο(ύμιος).
+r.2    ἔσχ(ον) ὑπ(ὲρ) σκοπ(έλου) καὶ ἄλ(λων) ι (ἔτους) ῥυπ(αρὰς) (δραχμὰς) γ (ὀβολοὺς) δ𐅵. (ἔτους) ι
+r.3    Ἀντωνίνου Καίσαρος τοῦ κυρίου Φαμ(ενὼθ) ι.
+
+[TRANSLATION]
+1     Petearoueris, collector of money-taxes of Charax, to Paoukales (son of) Pachnoumis.
+2     I have received for watchtower and other (taxes) of year 10, base drachmas 3, 4½ obols. Year 10
+3     of Antoninus Caesar the lord, Phamenoth 10.

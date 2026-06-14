@@ -1,0 +1,23 @@
+[META]
+id:       O.Wilck. 630
+label:    O.Wilck. 630
+name:     Tax receipt - assessment (anak.)
+genre:    receipts
+date:     28. May 147
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 5896 \[2\
+content:  Receipt for 3 obols for the anak. assessment of year 10.
+tm:       77140
+source:   https://papyri.info/ddbdp/o.wilck;;630
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔσχ(ον) ὑπ(ὲρ) μερι(σμοῦ) ἀνακ( ) ι (ἔτους) ῥυπ(αροὺς) ὀβολ(οὺς) τρεῖς (γίνονται) ῥυπ(αραὶ) (τριώβολον).
+r.2    (ἔτους) ι Ἀντωνίνου Καίσαρος τοῦ κυρίου Παῦ(νι) γ. ̣ ̣ ̣( ).
+
+[TRANSLATION]
+1     I have received for the assessment anak( ) of year 10, base, three obols, total base, 3 obols.
+2     Year 10 of Antoninus Caesar the lord, Pauni 3. …

@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 659
+label:    O.Wilck. 659
+name:     Tax receipt - price of oil
+genre:    receipts
+date:     31. Jan 187
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4203
+content:  In the name of Decimus the elder: 4 dr. for the price/tax of oil of year 27.
+tm:       77169
+source:   https://papyri.info/ddbdp/o.wilck;;659
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Μεχ(ὶρ) ϛ το(ῦ) κζ (ἔτους) ὀν[ό(ματος) Δέ-]
+r.2    κμου πρ(εσβυτέρου) Ἡρακλᾶτο[ς]
+r.3    ὑπ(ὲρ) τιμ(ῆς) ἐλαίο(υ) κζ (ἔτους) (δραχμὰς) τέσ-
+r.4    σερας (γίνονται) (δραχμαὶ) δ. Α ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Mecheir 6 of the 27th year, in the na[me of De-]
+2     cimus the elder, (son of) Heraklas,
+3     for the price/tax of oil of year 27, four
+4     drachmas, total drachmas 4. I, A( ), have signed.

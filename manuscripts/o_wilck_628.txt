@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 628
+label:    O.Wilck. 628
+name:     Canal-tax payment (diorux)
+genre:    receipts
+date:     29. Jul 146
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8548
+content:  Apion son of Philon pays 22 dr. 3 ob. plus surcharges for the canal (diorux) of year 9.
+tm:       77138
+source:   https://papyri.info/ddbdp/o.wilck;;628
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    διέγρ(αψεν) Ἀπίων Φίλωνο(ς) ὑπ(ὲρ) διώρυγ(ος)
+r.2    θ (ἔτους) (δραχμὰς) εἴκοσι δύο (τριώβολον) (γίνονται) (δραχμαὶ) κβ(τριώβολον)
+r.3    κ(αὶ πρ)ο(σδιαγραφόμενα). (ἔτους) θ Ἀντωνίνου τοῦ κυρίου
+r.4    Ἐ(πὶ)φ λ‡ε ̣ ̣ ̣ ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Apion son of Philon has paid for the canal (diorux)
+2     of year 9, twenty-two drachmas, 3 obols, total drachmas 22, 3 obols
+3     and the additional charges. Year 9 of Antoninus the lord,
+4     Epeiph 30. …, I, …, have signed.

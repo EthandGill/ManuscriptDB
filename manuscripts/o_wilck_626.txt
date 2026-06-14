@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 626
+label:    O.Wilck. 626
+name:     Poll- and bath-tax receipt
+genre:    receipts
+date:     26. Febr. 146
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4543
+content:  Petearoueris receives 12 dr. poll- and bath-tax of year 9 from Amenothes.
+tm:       77136
+source:   https://papyri.info/ddbdp/o.wilck;;626
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πετεαρο(υῆρις) πράκ(τωρ) ἀργ(υρικῆς) Χά(ρακος) Ἀμενώ(θῃ)
+r.2    Ἁρβήχ(ιος). ἔσχ(ον) ὑπ(ὲρ) λαο(γραφίας) καὶ βαλ(ανικοῦ) θ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) ιβ.
+r.3    (ἔτους) θ Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.4    Φαμ(ενὼθ) β. ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Petearoueris, collector of money-taxes of Charax, to Amenothes
+2     (son of) Harbechis. I have received for poll-tax and bath-tax of year 9, base drachmas 12.
+3     Year 9 of Antoninus Caesar the lord,
+4     Phamenoth 2. I, …, have signed.

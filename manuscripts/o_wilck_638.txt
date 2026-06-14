@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 638
+label:    O.Wilck. 638
+name:     Tax receipt - assessment for cushions(?) and other taxes
+genre:    receipts
+date:     18. Jan 149
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4862
+content:  Didymos receives 1 dr. 3 ob. for the tyloi(?) and other taxes of year 12 from Amenothes.
+tm:       77148
+source:   https://papyri.info/ddbdp/o.wilck;;638
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Δίδυμος πράκ(τωρ) ἀργ(υρικῆς) Χάρακ(ος) Ἀμενώ(θῃ) Ἁρβήχιος.
+r.2    ἔσχο(ν) ὑπ(ὲρ) µερισ(µοῦ) τ̣υ̣λ̣[ῶν (?)] κ̣α̣ὶ̣ ἄ(λλων) ιβ (ἔτους) ῥυπ(αρὰν) (δραχμὴν) μίαν (τριώβολον) (γίνεται) ῥυπ(αρὰ) (δραχμὴ) α(τριώβολον).
+r.3    (ἔτους) ιβ Ἀντωνίνου Καίσαρος τοῦ κυρίου Τῦβι κγ. Φα ̣( ).
+
+[TRANSLATION]
+1     Didymos, collector of money-taxes of Charax, to Amenothes (son of) Harbechis.
+2     I have received for the assessment for cushions(?) (tyloi) and other (taxes) of year 12, one base drachma, 3 obols, total base drachma 1, 3 obols.
+3     Year 12 of Antoninus Caesar the lord, Tybi 23. Pha( ).

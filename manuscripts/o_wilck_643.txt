@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 643
+label:    O.Wilck. 643
+name:     Tax receipt - customs-arrears on sales (Markets, North)
+genre:    receipts
+date:     12. Dec 150
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4096
+content:  Alexas receives 2 dr. for the customs-arrears sales-assessment of year 13 from Petearpres.
+tm:       77153
+source:   https://papyri.info/ddbdp/o.wilck;;643
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [Ἀλ]εξᾶς ἀπαιτ(ητὴς) μερισ(μοῦ) ἐνλ(είμματος) τελ(ωνικῶν) ὠνίω̣(ν)
+r.2    [Ἀ]γ(ορῶν) β(ορρᾶ) Πετεαρπ(ρῇ) Φαή(ριος). ἔσχ(ον) ὑπ(ὲρ) μερισ(μοῦ)
+r.3    ιγ (ἔτους) δραχ(μας) δύο (γίνονται) (δραχμαὶ) β. (ἔτους) ιδ Ἀντωνίνου
+r.4    Καίσαρος τοῦ κυρίου Ἁδρι(ανοῦ) ιϛ. Π ̣ ̣( ) σεση(μείωμαι).
+
+[TRANSLATION]
+1     [Al]exas, collector of the assessment for the customs-arrears on sales
+2     of the [M]arkets, North, to Petearpres (son of) Phaeris. I have received for the assessment
+3     of year 13, two drachmas, total drachmas 2. Year 14 of Antoninus
+4     Caesar the lord, (month) Hadrianos 16. I, P…, have signed.

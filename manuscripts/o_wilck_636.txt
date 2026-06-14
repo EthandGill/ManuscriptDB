@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 636
+label:    O.Wilck. 636
+name:     Embankment- and bath-tax receipt
+genre:    receipts
+date:     13. Aug 148
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4517
+content:  Didymos receives 7 dr. 5 ob. 2 chal. embankment- and bath-tax of year 11 from Amenothes.
+tm:       77146
+source:   https://papyri.info/ddbdp/o.wilck;;636
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Δίδυμος πράκτωρ ἀργ(υρικῆς) Χάρακ(ος)
+r.2    Ἀμενώθῃ Ἁρβήχιο(ς). ἔσχ(ον) ὑπ(ὲρ) χω(ματικοῦ)
+r.3    καὶ βαλ(ανικοῦ) ια (ἔτους) ῥυπ(αρὰς) (δαρχμὰς) ἑπτὰ (πεντώβολον) χ(αλκοῦς 2) (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) ζ(πεντώβολον) χ(αλκοῖ 2).
+r.4    (ἔτους) ια Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.5    Μεσορὴ κ. Δί(δυμος) διὰ Φατ(ρέους) γρ(αμματέως) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Didymos, collector of money-taxes of Charax,
+2     to Amenothes (son of) Harbechis. I have received for embankment-tax
+3     and bath-tax of year 11, base drachmas seven, 5 obols, 2 chalkoi, total base drachmas 7, 5 obols, 2 chalkoi.
+4     Year 11 of Antoninus Caesar the lord,
+5     Mesore 20. I, Didymos, through Phatres the scribe, have signed.

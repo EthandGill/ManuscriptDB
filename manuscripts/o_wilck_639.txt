@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 639
+label:    O.Wilck. 639
+name:     Poll-tax receipt (Kerameia quarter)
+genre:    receipts
+date:     22. May 149
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8034
+content:  Phthoumonthes and Amenothes receive 5 dr. 2 ob. poll-tax of year 12 from Psenchonsis.
+tm:       77149
+source:   https://papyri.info/ddbdp/o.wilck;;639
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φθουμ(ών)θ(ης) καὶ Ἀμενώθ(ης)
+r.2    πράκ(τορες) ἀργ(υρικῆς) Κερ(αμείων) Ψενχώνσι
+r.3    Πικῶτο(ς) Πετοβάσθιο(ς). ἔσχο(μεν)
+r.4    ὑπ(ὲρ) λαο(γραφίας) ιβ (ἔτους) ῥυπ(αρὰς) δραχ(μὰς) πέντε (διώβολον)
+r.5    (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) ε(διώβολον). (ἔτους) ιβ Ἀντωνίνου
+r.6    Καίσαρος τοῦ κυρίου Παχὼν κζ.
+r.7    Ὧρος σεση(μείωμαι).
+r.8    (hand 2) Φθουμώνθης σεση(μείωμαι).
+
+[TRANSLATION]
+1     Phthoumonthes and Amenothes,
+2     collectors of money-taxes of the Potteries (Kerameia), to Psenchonsis
+3     (son of) Pikos (son of) Petobasthis. We have received
+4     for poll-tax of year 12, base drachmas five, 2 obols,
+5     total base drachmas 5, 2 obols. Year 12 of Antoninus
+6     Caesar the lord, Pachon 27.
+7     I, Horos, have signed.
+8     (2nd hand) I, Phthoumonthes, have signed.

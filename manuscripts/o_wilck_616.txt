@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 616
+label:    O.Wilck. 616
+name:     Tax receipt - watchtower, guard and other taxes
+genre:    receipts
+date:     20. Apr 144
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4535
+content:  Postumus receives 4 dr. 3 ob. for watchtower, guard-duty and other taxes of year 7 from Amenothes.
+tm:       77126
+source:   https://papyri.info/ddbdp/o.wilck;;616
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πόστομο(ς) πράκ(τωρ) ἀργ(υρικῆς) Χάρακ(ος)
+r.2    Ἀμενώθῃ Ἁρβήχιος Ἀμενώθ(ου).
+r.3    ἔσχ(ον) ὑπ(ὲρ) σκοπ(έλου) καὶ φυλ(ακῆς) καὶ ἄ(λλων) ζ (ἔτους) ῥυπ(αρὰς)
+r.4    δραχ(μὰς) τέσσαρας ὀβ(ολοὺς) [γ] (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) δ ὀβ(ολοὶ) γ.
+r.5    (ἔτους) ζ Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.6    Φαρμ(οῦθι) κε. Πόστ(ομος) δ(ιὰ) Καρο( ) βοη(θοῦ) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Postumus, collector of money-taxes of Charax,
+2     to Amenothes (son of) Harbechis (son of) Amenothes.
+3     I have received for watchtower (skopelos) and guard-duty and other (taxes) of year 7, base
+4     drachmas four, [3] obols, total base drachmas 4, 3 obols.
+5     Year 7 of Antoninus Caesar the lord,
+6     Pharmouthi 25. I, Postumus, through Karo( ) the assistant, have signed.

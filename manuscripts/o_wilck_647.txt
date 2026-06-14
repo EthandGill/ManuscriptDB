@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 647
+label:    O.Wilck. 647
+name:     Tax receipt - fish-dealers' payment
+genre:    receipts
+date:     29. Apr 155
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 317
+content:  Pikos son of Ammonas and partners, fish-dealers, pay 72 dr. for the month Pharmouthi of year 18.
+tm:       77157
+source:   https://papyri.info/ddbdp/o.wilck;;647
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    διέγρ(αψαν) Πικὼς Ἀμμωνᾶτος
+r.2    καὶ (μέτοχοι) μετάβ(ολοι) ἁλιε(ῖς) εἰς ἀρίθ(μησιν)
+r.3    μη(νὸς) Φαρμοῦτι ιη (ἔτους) ἀργ(υρίου)
+r.4    ῥυπ(αρὰς) δραχ(μὰς) ἑβδομήκ(οντα)
+r.5    δύο (γίνονται) (δραχμαὶ) οβ. (ἔτους) ιη
+r.6    Ἀντωνίνου τοῦ
+r.7    κυρίου Παχὼ(ν) δ. Κα( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     There have paid Pikos son of Ammonas
+2     and partners, fish-dealers (retailers), for the account
+3     of the month Pharmouthi of year 18, in silver,
+4     base drachmas seventy-
+5     two, total drachmas 72. Year 18
+6     of Antoninus the
+7     lord, Pachon 4. I, Ka( ), have signed.

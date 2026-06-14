@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 653
+label:    O.Wilck. 653
+name:     Tax receipt - price of livestock
+genre:    receipts
+date:     14. Sep 161
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 100 \[ostracon\
+content:  Petemenophis son of Patechonsis pays 40 dr. for the price/tax of livestock of year 1.
+tm:       77163
+source:   https://papyri.info/ddbdp/o.wilck;;653
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    διέγρ(αψαν) Πετεμενῶ(φις) Πατεχῶ(νσις)
+r.2    Φατρήο(υς) ὑπ(ὲρ) τι(μῆς) θρεμμάτων α (ἔτους)
+r.3    ῥυπ(αρὰς) (δραχμὰς) τεσσεράκοντα (γίνονται) (δραχμαὶ) μ.
+r.4    (ἔτους) β Ἀντωνίνου καὶ Οὐήρου τῶν κυρίων
+r.5    Σεβαστῶν Θὼθ ιζ. Κ ̣ ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     There paid Petemenophis (son of) Patechonsis
+2     (son of) Phatres, for the price/tax of livestock (young animals) of year 1,
+3     base drachmas forty, total drachmas 40.
+4     Year 2 of Antoninus and Verus, the lords,
+5     the Augusti, Thoth 17. I, K…, have signed.

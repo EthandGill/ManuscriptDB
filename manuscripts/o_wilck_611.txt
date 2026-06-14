@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 611
+label:    O.Wilck. 611
+name:     Sales-tax receipt
+genre:    receipts
+date:     3. Jan 143
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1597
+content:  Phatres and partners, collectors of the sales-tax assessment, receive 1 dr. 5 ob. for year 5.
+tm:       77121
+source:   https://papyri.info/ddbdp/o.wilck;;611
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φατρὴς καὶ (μέτοχοι) ἀπαιτ(ηταὶ) μερισ(μοῦ) τέ(λους) ὠν(ίων) Π[ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.2    ἔσχ(ομεν) ὑπ(ὲρ) μερισ(μοῦ) ε (ἔτους) δραχ(μὴν) μιας ὀβ(ολοὺς) ε [(γίνονται) (δραχμὴ) α (ὀβολοὶ) ε].
+r.3    (ἔτους) ϛ Ἀντω(νίν)ου Καίσαρος τοῦ κυρίου [ ̣ ̣ ̣ ̣ ̣]
+r.4    (hand 2) [ ̣ ̣] ̣ ̣ Τῦβι η.
+
+[TRANSLATION]
+1     Phatres and partners, collectors of the assessment for the tax on sales, P[…]
+2     we have received for the assessment of year 5, one drachma, 5 obols [total drachma 1, 5 obols].
+3     Year 6 of Antoninus Caesar the lord […]
+4     (2nd hand) [..]… Tybi 8.

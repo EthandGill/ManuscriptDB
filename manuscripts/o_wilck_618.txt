@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 618
+label:    O.Wilck. 618
+name:     Tax receipt - watchtower and other taxes
+genre:    receipts
+date:     6. Dec 144
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4534
+content:  Peteroueris and Pamonthes receive 5 dr. 1 ob. for watchtower and other taxes of year 8 from Amenothes.
+tm:       77128
+source:   https://papyri.info/ddbdp/o.wilck;;618
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πετερο(υῆρις) καὶ Π(αμών)θ(ης) πράκ(τορες) ἀργ(υρικῆς) Χά(ρακος)
+r.2    Ἀμενώ(θῃ) Ἁρβήχ(ιος) μη(τρὸς) Σενχεσθ(ώτου)
+r.3    ἔσχ(ομεν) ὑπ(ὲρ) σκοπ(έλου) καὶ ἄλ(λων) η (ἔτους) ῥυπ(αρὰς) (δραχμὰς) πέντε (ὀβολὸν).
+r.4    (γίνονται) (δραχμαὶ) ε(ὀβολὸς). (ἔτους) η Ἀ(ντωνί)νου Καίσαρος
+r.5    τοῦ κυρίου, Ἁδρ(ιανοῦ) ι. (hand 2) Παω( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Peteroueris and Pamonthes, collectors of money-taxes of Charax,
+2     to Amenothes (son of) Harbechis, (whose) mother is Senchesthotis.
+3     We have received for watchtower and other (taxes) of year 8, base drachmas five, 1 obol,
+4     total drachmas 5, 1 obol. Year 8 of Antoninus Caesar
+5     the lord, (month) Hadrianos 10. (2nd hand) I, Pao( ), have signed.

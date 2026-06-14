@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 644
+label:    O.Wilck. 644
+name:     Tax receipt
+genre:    receipts
+date:     12. Aug 151
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8631
+content:  Petechonsis receives 1 dr. ½ ob. of year 14 from Thaesis daughter of Chethos.
+tm:       77154
+source:   https://papyri.info/ddbdp/o.wilck;;644
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πε(τε)χῶ(νσις) πράκ(τωρ) ἀργ(υρικῆς) Χά(ρακος) Θαήσι Χεθῶτο (ς)
+r.2    Πο ̣ ̣ ̣ ̣( ) ῥυπ(αρὰν) (δραχμὴν) μίαν (ἡμιωβέλιον) (γίνεται) (δραχμὴ) α (ἡμιωβέλιον) . (ἔτους) ιδ
+r.3    Ἀντων(ίνου) Καίσαρος τοῦ κυρίου Μεσορὴ ιθ.
+
+[TRANSLATION]
+1     Petechonsis, collector of money-taxes of Charax, to Thaesis (daughter of) Chethos
+2     (son of) Po…( ): one base drachma, ½ obol, total drachma 1, ½ obol. Year 14
+3     of Antoninus Caesar the lord, Mesore 19.

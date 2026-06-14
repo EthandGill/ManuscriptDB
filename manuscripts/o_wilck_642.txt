@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 642
+label:    O.Wilck. 642
+name:     Tax receipt - assessment (anak.)
+genre:    receipts
+date:     3. Jul 150
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4818
+content:  Petechonsis receives 2 dr. for the anak. assessment of year 13 from Amenothes.
+tm:       77152
+source:   https://papyri.info/ddbdp/o.wilck;;642
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πε(τε)χῶ(νσις) πράκ(τωρ) ἀργ(υρικῆς) Χά(ρακος) Ἀμενώθ(ῃ)
+r.2    Ἁρβήχ(ιος). ἔσχ(ον) ὑπ(ὲρ) μερισ(μοῦ) ἀνακ( ) ιγ (ἔτους)
+r.3    ῥυπ(αρὰς) (δραχμὰς) δύο (γίνονται) (δραχμαὶ) β. (ἔτους) ιγ Ἀντων(ίνου) Καί[σαρος]
+r.4    τοῦ κυρίουἘπεὶφ θ. ̣[ ̣ ̣]
+
+[TRANSLATION]
+1     Petechonsis, collector of money-taxes of Charax, to Amenothes
+2     (son of) Harbechis. I have received for the assessment anak( ) of year 13,
+3     base drachmas two, total drachmas 2. Year 13 of Anton(inus) Cae[sar]
+4     the lord, Epeiph 9. …

@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 614
+label:    O.Wilck. 614
+name:     Tax receipt - assessment (anak.)
+genre:    receipts
+date:     11. Jul 143
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4521
+content:  Pamonthes and Postumus receive 7 dr. 2 ob. for the anak. assessment of year 6 from Amenothes.
+tm:       77124
+source:   https://papyri.info/ddbdp/o.wilck;;614
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παμώνθης καὶ Πόστομο(ς) πράκ(τορες) ἀργ(υρικῆς)
+r.2    Χάρακ(ος) Ἀμενώθῃ Ἁρβήχιο(ς) μη(τρὸς)
+r.3    Σενχεσθώ(του). ἔσχ(ομεν) ὑπ(ὲρ) μερισμο(ῦ) ἀνακ( )
+r.4    ϛ (ἔτους) ῥυπ(αρὰς) δραχ(μὰς) ἑπτὰ (διώβολον) (γίνονται) (δραχμαὶ) ζ(διώβολον).
+r.5    (ἔτους) ϛ Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.6    Ἐπεὶφ ιζ. Πόστ(ομος) δ(ιὰ) Καρο( ) βοη(θοῦ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Pamonthes and Postumus, collectors of money-taxes
+2     of Charax, to Amenothes (son of) Harbechis, (whose) mother
+3     is Senchesthotis. We have received for the assessment anak( )
+4     of year 6, base drachmas seven, 2 obols, total drachmas 7, 2 obols.
+5     Year 6 of Antoninus Caesar the lord,
+6     Epeiph 17. I, Postumus, through Karo( ) the assistant, have signed.

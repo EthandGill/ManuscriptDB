@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 632
+label:    O.Wilck. 632
+name:     Tax receipt - watchtower and other taxes
+genre:    receipts
+date:     30. Oct 147
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4576
+content:  Didymos receives 5 dr. for watchtower and other taxes of year 11 from Amenothes.
+tm:       77142
+source:   https://papyri.info/ddbdp/o.wilck;;632
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Δίδυμο(ς) πράκ(τωρ) ἀργ(υρικῆς) Χά(ρακος) Ἀμενώ(θῃ)
+r.2    Ἁρβήχ(ιος). ἔσχ(ον) ὑπ(ὲρ) σκοπ(έλου) καὶ ἄλ(λων) ια (ἔτους)
+r.3    ῥυπ(αρὰς) (δραχμὰς) ε (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) πέντε .
+r.4    (ἔτους) ια Ἀντωνείνου Καίσαρος
+r.5    τοῦ κυρίου Ἁθὺρ β.
+
+[TRANSLATION]
+1     Didymos, collector of money-taxes of Charax, to Amenothes
+2     (son of) Harbechis. I have received for watchtower and other (taxes) of year 11,
+3     base drachmas 5, total base drachmas five.
+4     Year 11 of Antoninus Caesar
+5     the lord, Hathyr 2.

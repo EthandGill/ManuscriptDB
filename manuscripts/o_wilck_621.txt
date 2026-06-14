@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 621
+label:    O.Wilck. 621
+name:     Tax receipt - garrison-post (praesidium) assessment
+genre:    receipts
+date:     14. Aug 145
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4569
+content:  Psentremp( ) and Pamonthes receive 1 dr. for the praesidium assessment from Amenothes.
+tm:       77131
+source:   https://papyri.info/ddbdp/o.wilck;;621
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ψεντρεμ(π ) καὶ Παμώ(ν)θ(ης) ἀπαι(τηταὶ)
+r.2    μερισ(μοῦ) πρεσιδί(ου) Ἀμενώθ(ῃ) Ἁρβήχιο(ς)
+r.3    ἔσχ(ομεν) (δραχμὴν) α. (ἔτους) η Ἀντωνείνου
+r.4    Καίσαρος τοῦ κυρίου
+r.5    Μεσορὴ κα.
+
+[TRANSLATION]
+1     Psentremp( ) and Pamonthes, collectors
+2     of the assessment for the garrison-post (praesidium), to Amenothes (son of) Harbechis.
+3     We have received 1 drachma. Year 8 of Antoninus
+4     Caesar the lord,
+5     Mesore 21.

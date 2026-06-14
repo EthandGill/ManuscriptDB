@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 646
+label:    O.Wilck. 646
+name:     Tax receipt - customs-arrears assessment
+genre:    receipts
+date:     29. Jan 153
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12712
+content:  Thoteus receives 3 dr. 4 ob. for the customs-arrears assessment of year 12 from Psenamounis.
+tm:       77156
+source:   https://papyri.info/ddbdp/o.wilck;;646
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Θοτεὺς ἀπαιτ(ητὴς) μερι(σμοῦ) ἐνλ(είμματος) τελ(ωνικῶν) Χά(ρακος)
+r.2    Ψενα(μούνει) Παμώνθ(ου) Πετενοβτοῦτ(ος).
+r.3    ἔσχο(ν) ὑπ(ὲρ) μερ(ισμοῦ) ιβ (ἔτους) δραχ(μὰς) τρεῖς τε-
+r.4    τρώβολ(ον) (γίνονται) (δραχμαὶ) γ(τετρώβολον). (ἔτους) ιϛ Ἀντωνίνου
+r.5    Καίσαρος τοῦ κυρίου Μεχεὶρ ιδ.
+
+[TRANSLATION]
+1     Thoteus, collector of the assessment for the customs-arrears of Charax,
+2     to Psenamounis (son of) Pamonthes (son of) Petenobtous.
+3     I have received for the assessment of year 12, three drachmas, four
+4     obols, total drachmas 3, 4 obols. Year 16 of Antoninus
+5     Caesar the lord, Mecheir 14.

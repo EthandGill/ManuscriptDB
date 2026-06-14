@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 660
+label:    O.Wilck. 660
+name:     Weavers'-tax receipt
+genre:    receipts
+date:     15. Apr 189
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 288
+content:  Pasemis and partners, overseers of the weavers' tax, receive 7 dr. 1 ob. from Lolous.
+tm:       77170
+source:   https://papyri.info/ddbdp/o.wilck;;660
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πασῆμις καὶ μέτοχ(οι) ἐπιτ(ηρηταὶ) τέλ(ους) γερδ(ίων)
+r.2    Λολούτι Ψενχώνσι(ος). ἔσχ(ομεν) παρὰ σοῦ ὑπ(ὲρ) ἀριθ(μήσεως)
+r.3    Φαμενὼθ καὶ Φαρμοῦθι τὸ τέλ(ος)
+r.4    (δραχμὰς) ζ(ὀβολὸν). (ἔτους) κθ Φαρμοῦθι κ.
+
+[TRANSLATION]
+1     Pasemis and partners, overseers of the weavers' tax,
+2     to Lolous (son of) Psenchonsis. We have received from you for the account
+3     of Phamenoth and Pharmouthi, the tax,
+4     drachmas 7, 1 obol. Year 29, Pharmouthi 20.

@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 652
+label:    O.Wilck. 652
+name:     Tax receipt - assessment
+genre:    receipts
+date:     1. Jun 161
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8678
+content:  Phatres and partners receive ½ ob. 1 chal. for the assessment of year 23 from Semmouthes.
+tm:       77162
+source:   https://papyri.info/ddbdp/o.wilck;;652
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Φατρὴς κ(αὶ) μέ(τοχοι) ἀπαιτητ(αὶ)
+r.2    Χά(ρακος) Σεμμ[ού]θη ̣ ̣ ̣ ̣
+r.3    ἔσχ(ομεν) ὑπ(ὲρ) μερισμοῦ κγ (ἔτους) (ἡμιωβέλιον) χ(αλκοῦν 1).
+r.4    (ἔτους) α Ἀντωνίνου καὶ Οὐήρο(υ) τ(ῶν)
+r.5    κυρίων Σεβαστῶν Παῦν(ι) ζ.
+
+[TRANSLATION]
+1     Phatres and partners, collectors
+2     of Charax, to Semmouthes …
+3     we have received for the assessment of year 23, ½ obol, 1 chalkous.
+4     Year 1 of Antoninus and Verus, the
+5     lords, the Augusti, Pauni 7.

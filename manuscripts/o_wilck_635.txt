@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 635
+label:    O.Wilck. 635
+name:     Tax receipt - assessment (anak.)
+genre:    receipts
+date:     27. Jul 148
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4539
+content:  Didymos receives 1 dr. for the anak. assessment of year 11 from Amenothes.
+tm:       77145
+source:   https://papyri.info/ddbdp/o.wilck;;635
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Δίδυμος πράκ(τωρ) ἀργ(υρικῆς) Χάρακ(ος) Ἀμενώθῃ
+r.2    Ἁρβήχιο(ς). ἔσχ(ον) ὑπ(ὲρ) μερισ(μοῦ) ἀνακ( ) ια (ἔτους) ῥυπ(αρὰν)
+r.3    (δραχμὴν) μίαν (γίνεται) ῥυπ(αρὰ) (δραχμὴ) α. (ἔτους) ια Ἀντωνίνου Καίσαρος
+r.4    τοῦ κυρίου Μεσορὴ γ. Δί(δυμος) διὰ Φατ(ρέους) γρ(αμματέως) σ(εσ)η(μείωμαι)
+
+[TRANSLATION]
+1     Didymos, collector of money-taxes of Charax, to Amenothes
+2     (son of) Harbechis. I have received for the assessment anak( ) of year 11, base
+3     one drachma, total base drachma 1. Year 11 of Antoninus Caesar
+4     the lord, Mesore 3. I, Didymos, through Phatres the scribe, have signed.

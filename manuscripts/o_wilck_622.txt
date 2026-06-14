@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 622
+label:    O.Wilck. 622
+name:     Tax receipt - the 'doubles' (dipla)
+genre:    receipts
+date:     31. Aug 145
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4485
+content:  Petearoueris receives 3 ob. for the 'doubles' of year 8 from Amenothes.
+tm:       77132
+source:   https://papyri.info/ddbdp/o.wilck;;622
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πετεαρο(υῆρις) πράκ(τωρ) ἀργ(υρικῆς) Χά(ρακος) Ἀμενώ(θῃ)
+r.2    Ἁρβήχ(ιος). ἔσχ(ον) ὑπ(ὲρ) δι(πλῶν) η (ἔτους) ῥυπ(αροὺς) (τριώβολον).
+r.3    (ἔτους) θ Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.4    Θὼθ γ.
+
+[TRANSLATION]
+1     Petearoueris, collector of money-taxes of Charax, to Amenothes
+2     (son of) Harbechis. I have received for the doubles (dipla) of year 8, base, 3 obols.
+3     Year 9 of Antoninus Caesar the lord,
+4     Thoth 3.

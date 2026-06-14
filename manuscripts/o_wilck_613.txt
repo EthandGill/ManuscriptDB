@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 613
+label:    O.Wilck. 613
+name:     Tax receipts - assessment for the destitute, doubles
+genre:    receipts
+date:     21. May 143
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 316
+content:  Pamonthes and Postumus receive 2 dr. 3 ob. (aporoi assessment) then 1 dr. 2 ob. 2 chal. (doubles) from Pikos the younger.
+tm:       77123
+source:   https://papyri.info/ddbdp/o.wilck;;613
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παμώ(νθης) καὶ Πόστ(ομος) πράκ(τορες) ἀργ(υρικῆς) Χά(ρακος)
+r.2    Πικώτι ν(εωτέρῳ) Ἀρχίο(υ) Πετε( ). ἔσχ(ομεν)
+r.3    ὑπ(ὲρ) μερισμ(οῦ) ἀπόρω(ν) ε (ἔτους) δραχ(μὰς) δύο (τριώβολον)
+r.4    (γίνονται) (δραχμαὶ) β(τριώβολον). (ἔτους) ϛ Ἀντωνίνου Καίσαρος
+r.5    τοῦ κυρίου Παχ(ὼν) κϛ. Πανίσκ(ος) σ(εσ)η(μείωμαι).
+r.6    (hand 2) ἄλ(λα) Τῦβι β ὀνό(ματος) τοῦ α(ὐτοῦ)
+r.7    ὑπ(ὲρ) διπλῶν ϛ (ἔτους) ῥυπ(αρὰν) δραχ(μὴν)
+r.8    μίαν (διώβολον) χ(αλκοῦς 2) (γίνονται) (δραχμὴ) α(διώβολον) χ(αλκοῖ 2). Π ̣ ̣ ̣( ) <σ(εσ)η(μείωμαι)>
+
+[TRANSLATION]
+1     Pamonthes and Postumus, collectors of money-taxes of Charax,
+2     to Pikos the younger, (son of) Archis (son of) Pete( ). We have received
+3     for the assessment for the destitute (aporoi) of year 5, two drachmas, 3 obols,
+4     total drachmas 2, 3 obols. Year 6 of Antoninus Caesar
+5     the lord, Pachon 26. I, Paniskos, have signed.
+6     (2nd hand) Others, Tybi 2, in the name of the same,
+7     for the doubles (dipla) of year 6, one base drachma,
+8     2 obols, 2 chalkoi, total drachma 1, 2 obols, 2 chalkoi. P…, <have signed>.

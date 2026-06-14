@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 633
+label:    O.Wilck. 633
+name:     Tax receipt - the 'doubles' (dipla)
+genre:    receipts
+date:     6. Febr. 148
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4781
+content:  Didymos receives 1 dr. for the 'doubles' of year 11 from Amenothes.
+tm:       77143
+source:   https://papyri.info/ddbdp/o.wilck;;633
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Δίδυμος πράκ(τωρ) ἀργ(υρικῆς) Χά(ρακος)
+r.2    Ἀμενώ(θῃ) Ἁρβήχιο(ς). ἔσχ(ον) ὑπ(ὲρ) διπ[λῶν]
+r.3    ια (ἔτους) ῥυπ(αρὰν) (δραχμὴν) μίαν (γίνεται) ῥυπ(αρὰ) (δραχμὴ) α. [(ἔτους) ι]α
+r.4    Ἀντωνίνου Καίσαρος [τοῦ κυρίου]
+r.5    Μεχεὶρ ια.
+
+[TRANSLATION]
+1     Didymos, collector of money-taxes of Charax,
+2     to Amenothes (son of) Harbechis. I have received for the dou[bles]
+3     of year 11, one base drachma, total base drachma 1. [Year 1]1
+4     of Antoninus Caesar [the lord,]
+5     Mecheir 11.

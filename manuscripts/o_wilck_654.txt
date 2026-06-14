@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 654
+label:    O.Wilck. 654
+name:     House-rent receipt
+genre:    receipts
+date:     2. Oct 161
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4574
+content:  Thaesis daughter of Thatres pays 5 obols house-rent of Charax, year 1.
+tm:       77164
+source:   https://papyri.info/ddbdp/o.wilck;;654
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    διέγρ(αψεν) Θαῆσις Θατρή(ους) ὑπ(ὲρ) ἐνοικ(ίου)
+r.2    Χά(ρακος) α (ἔτους) ῥυπ(αροὺς) (ὀβολοὺς) β𐅵, καὶ ὀνόμ(ατος) τῆς (αὐτῆς)
+r.3    Θαήσιος ὑπ(ὲρ) ἐνοικί(ου) (ὀβολοὺς) β𐅵 (γίνονται) (πεντώβολον).
+r.4    (ἔτους) β Ἀντωνίνου καὶ Οὐήρου
+r.5    τῶν κυρίων Αὐτοκρατόρων
+r.6    Φαῶ(φι) ε. Κα( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     There paid Thaesis (daughter of) Thatres, for rent
+2     of Charax of year 1, base, 2½ obols; and in the name of the same
+3     Thaesis, for rent, 2½ obols, total 5 obols.
+4     Year 2 of Antoninus and Verus,
+5     the lords, the Imperatores,
+6     Phaophi 5. I, Ka( ), have signed.

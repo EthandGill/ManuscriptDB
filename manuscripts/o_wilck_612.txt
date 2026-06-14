@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 612
+label:    O.Wilck. 612
+name:     Tax receipt - assessment (anak.)
+genre:    receipts
+date:     10. Febr. 143
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12635
+content:  Pamonthes and Postumus receive 1 dr. 6 ob. for the anak. assessment of year 5 from Pikos the younger.
+tm:       77122
+source:   https://papyri.info/ddbdp/o.wilck;;612
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παμώνθ(ης) καὶ Πόστ(ομος) πράκ(τορες)
+r.2    ἀργ(υρικῆς) Χά(ρακος) Πικώτι ν(εωτέρῳ) Ἀρχίου
+r.3    Πετε( ). ἔσχ(ομεν) ὑπ(ὲρ) μερισ(μοῦ) ἀνακ( )
+r.4    ε (ἔτους) ῥυπ(αρὰν) δραχ(μὴν) μίαν ὀβ(ολοὺς) ϛ
+r.5    (γίνονται) (δραχμὴ) α ὀβ(ολοὶ) ϛ. (ἔτους) ϛ Ἀντωνίνου
+r.6    Καίσαρος τοῦ
+r.7    κυρίου Μεχ(ὶρ) ιϛ.
+
+[TRANSLATION]
+1     Pamonthes and Postumus, collectors
+2     of money-taxes of Charax, to Pikos the younger, (son of) Archis
+3     (son of) Pete( ). We have received for the assessment anak( )
+4     of year 5, one base drachma, 6 obols,
+5     total drachma 1, 6 obols. Year 6 of Antoninus
+6     Caesar the
+7     lord, Mecheir 16.

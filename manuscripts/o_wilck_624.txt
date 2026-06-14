@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 624
+label:    O.Wilck. 624
+name:     Tax receipt - assessment of the tax of Charax
+genre:    receipts
+date:     10. Nov 145
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4525
+content:  Heron and partners receive 3 dr. 3½ ob. for the tax-assessment of year 8 from Amenothes.
+tm:       77134
+source:   https://papyri.info/ddbdp/o.wilck;;624
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἥρων καὶ μ(έτοχοι) ἀπαιτηταὶ μερισμοῦ
+r.2    τέλ(ους) Χά(ρακος) Ἀμενώθης Ἁρβῆχις
+r.3    Ἀμενώθου. ἔσχ(ομεν) ὑπ(ὲρ) μερισμοῦ η (ἔτους)
+r.4    δραχ(μὰς) τρεῖς ὀβ(ολοὺς) γ𐅵 (γίνονται) (δραχμαὶ) γ (ὀβολοὶ) γ𐅵.
+r.5    (ἔτους) θ Ἀντωνείνου Καισαραρος
+r.6    τοῦ κυρίου Ἁθὺρ ιδ.
+r.7    (hand 2) Πετεμενῶ(φις) σεσημί(ωμαι)
+
+[TRANSLATION]
+1     Heron and partners, collectors of the assessment
+2     of the tax of Charax: Amenothes (son of) Harbechis
+3     (son of) Amenothes. We have received for the assessment of year 8,
+4     three drachmas, 3½ obols, total drachmas 3, 3½ obols.
+5     Year 9 of Antoninus Caesar
+6     the lord, Hathyr 14.
+7     (2nd hand) I, Petemenophis, have signed.

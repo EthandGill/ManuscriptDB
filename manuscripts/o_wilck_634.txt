@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 634
+label:    O.Wilck. 634
+name:     Poll- and bath-tax receipt
+genre:    receipts
+date:     19. May 148
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4176
+content:  Tauron receives 12 dr. poll- and bath-tax of year 11 from Theon son of Bassus.
+tm:       77144
+source:   https://papyri.info/ddbdp/o.wilck;;634
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ταύρων πράκ(τωρ) ἀργ(υρικῆς) Χά(ρακος) Θέωνι
+r.2    Βάσσου. ἔσχ(ον) ὑπ(ὲρ) λαο(γραφίας) καὶ βαλ(ανικοῦ) ια (ἔτους)
+r.3    ῥυπ(αρὰς) (δραχμὰς) δώδεκ(α) (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) ιβ. (ἔτους) ια
+r.4    Ἀντωνίνου Καίσαρος τοῦ κυρίου Παχὼ(ν) κδ.
+r.5    Λ̣α ̣ ̣ σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Tauron, collector of money-taxes of Charax, to Theon
+2     (son of) Bassus. I have received for poll-tax and bath-tax of year 11,
+3     base drachmas twelve, total base drachmas 12. Year 11
+4     of Antoninus Caesar the lord, Pachon 24.
+5     I, La…, have signed.

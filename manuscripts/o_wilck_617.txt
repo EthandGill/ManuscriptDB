@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 617
+label:    O.Wilck. 617
+name:     Tax receipt - assessment for two baths
+genre:    receipts
+date:     19. Dec 144
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4519
+content:  Pamonthes and Psentremp( ) receive 1 dr. 3½ ob. for the two-baths assessment from Amenothes.
+tm:       77127
+source:   https://papyri.info/ddbdp/o.wilck;;617
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παμώ(νθης) καὶ Ψεντρε(μπ ) Ἀμενώθῃ
+r.2    Ἁρβήχ(ιος). ἔσχ(ομεν) ὑπ(ὲρ) μερισ(μοῦ) βαλ(ανείων) δύο
+r.3    (δραχμὴν) α (ὀβολοὺς) γ𐅵. (ἔτους) η Ἀντωνίνου Καίσαρος
+r.4    τοῦ κυρίου, Ἁδριανοῦ κγ.
+r.5    (hand 2) Ψεντρεμ( ) σεσημ(είωμαι).
+
+[TRANSLATION]
+1     Pamonthes and Psentremp( ), to Amenothes
+2     (son of) Harbechis. We have received for the assessment of two baths,
+3     1 drachma, 3½ obols. Year 8 of Antoninus Caesar
+4     the lord, (month) Hadrianos 23.
+5     (2nd hand) I, Psentrem( ), have signed.
