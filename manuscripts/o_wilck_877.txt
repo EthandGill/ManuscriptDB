@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 877
+label:    O.Wilck. 877
+name:     Bath-tax receipt
+genre:    receipts
+date:     1. Jul 144
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 157 \[ostracon\
+content:  Hierax and partners (temple granary) receive the bath-tax of year 7 of Antoninus from Phaminis.
+tm:       77353
+source:   https://papyri.info/ddbdp/o.wilck;;877
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἵεραξ καὶ (μέτοχοι) τελ(ῶναι) θησ(αυροῦ) ἱερῶ(ν) Φαμίνει
+r.2    Πετεμενώφιο(ς). ἔσχ(ομεν) τὸ βαλ(ανικὸν) τοῦ ζ (ἔτους)
+r.3    Ἀντωνίνου Καίσαρος τοῦ
+r.4    κυρίου Ἐπεὶφ ζ.
+
+[TRANSLATION]
+1     Hierax and partners, tax-farmers of the granary of the temples, to Phaminis
+2     (son of) Petemenophis. We have received the bath-tax of year 7
+3     of Antoninus Caesar the
+4     lord, Epeiph 7.

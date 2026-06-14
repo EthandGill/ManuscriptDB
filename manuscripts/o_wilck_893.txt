@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 893
+label:    O.Wilck. 893
+name:     Grain-measure receipt (villages granary)
+genre:    receipts
+date:     13. Aug 151
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12275
+content:  Pekysis son of Phthouminis measures in 1/24 art. of wheat for Charax, year 14 of Antoninus.
+tm:       77369
+source:   https://papyri.info/ddbdp/o.wilck;;893
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μ[έτρ]η(μα) θησ(αυροῦ) κω(μῶν) γενή(ματος) ιδ (ἔτους)
+r.2    Ἀν[τωνίνου] Καίσαρος τοῦ κυρίου
+r.3    Μεσορ(ὴ) κ ὑπ(ὲρ) Χά(ρακος) ὀνό(ματος) Πεκύσιος
+r.4    Φθουμείνι(ος) (πυροῦ) τετρακ(αιεικοστὸν)
+r.5    (πυροῦ) κδ´. Καρο( ) σεση(μείωμαι).
+
+[TRANSLATION]
+1     M[eas]ure of the granary of the villages, of the produce of year 14
+2     of An[toninus] Caesar the lord,
+3     Mesore 20, for Charax, in the name of Pekysis
+4     (son of) Phthouminis, of wheat a twenty-fourth,
+5     of wheat 1/24. I, Karo( ), have signed.

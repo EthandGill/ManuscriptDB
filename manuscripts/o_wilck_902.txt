@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 902
+label:    O.Wilck. 902
+name:     Grain-measure receipt (metropolis granary, Markets)
+genre:    receipts
+date:     11. Jun 158
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1200
+content:  Tanameus son of Pikos, via Petosiris, measures in 3 1/6 art. of wheat for the Markets, year 21 of Antoninus.
+tm:       77378
+source:   https://papyri.info/ddbdp/o.wilck;;902
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γενή(ματος) κα (ἔτους) Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου Παῦ(νι) ιζ ὑπ(ὲρ) Ἀγο(ρῶν)
+r.3    ὀνό(ματος) Ταναμέως Πικῶτο(ς) διὰ γ(εωργοῦ)
+r.4    Πετοσίριο(ς) Ψενσενύριο(ς) καὶ (μετόχων) (πυροῦ)
+r.5    τρεῖς ἕκτο(ν) (γίνονται) (πυροῦ) γϛ´. Σαβ(ῖνος) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 21 of Antoninus
+2     Caesar the lord, Pauni 17, for the Markets,
+3     in the name of Tanameus (son of) Pikos, through the cultivator
+4     Petosiris (son of) Psensenyris and partners, of wheat
+5     three and a sixth, total wheat 3 1/6. I, Sabinus, have signed.

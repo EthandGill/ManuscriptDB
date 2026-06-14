@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 883
+label:    O.Wilck. 883
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     26. May 145
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8535
+content:  Paouphtheus son of Paous, via the cultivator Paoukametis, measures in 1½ art. of wheat for Charax, year 8 of Antoninus.
+tm:       77359
+source:   https://papyri.info/ddbdp/o.wilck;;883
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    με(μέτρηται) εἰς θησ(αυρὸν) μη(τροπόλεως) γενή(ματος)
+r.2    η (ἔτους) Ἀντωνίνου Καίσαρος
+r.3    τοῦ κυρίου Παῦνι α ὑπ(ὲρ) Χ(άρακος)
+r.4    ὀνό(ματος) Παουφθείο(υς) Παοῦ[τος]
+r.5    διὰ γεω(ργοῦ) Παο̣υ̣καμή(τιος) Πανεχ[ά(του)]
+r.6    πυροῦ μίαν ἥμισυ (γίνεται) (πυροῦ) α𐅵.
+r.7    Καρο( ) διὰ ̣ ̣( ) ̣ ̣ ̣
+
+[TRANSLATION]
+1     There has been measured into the granary of the metropolis, of the produce
+2     of year 8 of Antoninus Caesar
+3     the lord, Pauni 1, for Charax,
+4     in the name of Paouphtheus (son of) Paou[tos],
+5     through the cultivator Paoukametis (son of) Panech[ates],
+6     of wheat one and a half, total wheat 1½.
+7     Karo( ), through …( ) …

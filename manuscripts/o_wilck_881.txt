@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 881
+label:    O.Wilck. 881
+name:     Grain-measure receipt (metropolis granary, South)
+genre:    receipts
+date:     20. Aug 144
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 5896 \[1\
+content:  Chataboous son of Phthouminis, via Heriophmois, measures in 2 art. of wheat for the South, year 7 of Antoninus.
+tm:       77357
+source:   https://papyri.info/ddbdp/o.wilck;;881
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μέ(τρημα)] θη(σαυροῦ) μη(τροπόλεως) γενή(ματος) ζ (ἔτους) Ἀν(τωνίν)ου
+r.2    [Καίσ]αρος τοῦ κυρίου Με(σορὴ) κζ
+r.3    ὑπ(ὲρ) Ν[ό(του)] ἀ(πὸ) Χαταβο(ῦτος) Φθουμί(νιος) διὰ Ἑριο-
+r.4    φμόις Πετεμενώ(φιος) (πυροῦ) δύο (γίνονται) (πυροῦ) β.
+r.5    Α ̣ ̣( ) (πυροῦ) δύο .
+
+[TRANSLATION]
+1     [Measure] of the granary of the metropolis, of the produce of year 7 of Antoninus
+2     [Cae]sar the lord, Mesore 27,
+3     for the So[uth], from Chataboous (son of) Phthouminis, through Herio-
+4     phmois (son of) Petemenophis, of wheat two, total wheat 2.
+5     A..( ), of wheat two.

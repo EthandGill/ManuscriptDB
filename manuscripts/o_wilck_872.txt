@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 872
+label:    O.Wilck. 872
+name:     Grain-measure receipt (metropolis granary, islands)
+genre:    receipts
+date:     13. Mar 144 (Monat und day uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8141
+content:  Chesphmois son of Phthouminis measures in 1/6 art. of wheat for the islands, year 6 of Antoninus.
+tm:       77348
+source:   https://papyri.info/ddbdp/o.wilck;;872
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γενή(ματος) ϛ (ἔτους) Ἀντωνείνου
+r.2    Καίσαρος τοῦ κυρίου Φα(μενὼ)θ ιζ ̣ ̣ ̣
+r.3    ὑπ(ὲρ) νή(σων) ὀνό(ματος) Χεσφμό(ιτος) Φθουμί(νιος) δι(ὰ) ̣ ̣ω( )
+r.4    Π ̣ ̣( ) α ̣( ) Χαταβ(οῦτος) (πυροῦ) ἕκτον (γίνεται) (πυροῦ) ϛ´. Ἀ ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 6 of Antoninus
+2     Caesar the lord, Phamenoth 17 …,
+3     for the islands, in the name of Chesphmois (son of) Phthouminis, through ..o( )
+4     P..( ) a..( ) (son of) Chataboous, of wheat a sixth, total wheat 1/6. I, A..( ), have signed.

@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 876
+label:    O.Wilck. 876
+name:     Grain-measure receipt (metropolis granary, South)
+genre:    receipts
+date:     18. Jun 144
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 7256
+content:  Petep( ) son of Panames measures in 1½ 1/24 art. of wheat for the South, year 7 of Antoninus.
+tm:       77352
+source:   https://papyri.info/ddbdp/o.wilck;;876
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θη(σαυροῦ) μη(τροπόλεως) γενή(ματος) ζ (ἔτους) Ἀν(τωνίν)ου
+r.2    Καίσαρος τοῦ κυρίου Παῦ(νι)
+r.3    κδ ὑπ(ὲρ) Νό(του) ὀν(όματος) Πετεψ( )
+r.4    Πανα(μέως) Φθου(μών)θ(ου)
+r.5    (πυροῦ) μίαν 𐅵κδ´ (γίνεται) (πυροῦ) α𐅵κδ´.
+r.6    Ὧρ(ος) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 7 of Antoninus
+2     Caesar the lord, Pauni
+3     24, for the South, in the name of Petep( )
+4     (son of) Panames (son of) Phthoumonthes,
+5     of wheat one and ½ 1/24, total wheat 1½ 1/24.
+6     I, Horos, have signed.

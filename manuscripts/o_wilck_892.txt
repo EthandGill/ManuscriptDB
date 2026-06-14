@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 892
+label:    O.Wilck. 892
+name:     Barley-measure receipt (metropolis granary)
+genre:    receipts
+date:     146 - 147
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 107 \[ostracon\
+content:  Phaminis son of Petechonsis measures in 1½ 1/24 art. of barley for Charax, year 10 of Antoninus.
+tm:       77368
+source:   https://papyri.info/ddbdp/o.wilck;;892
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μέ(τρημα) θησ(αυροῦ)] μη(τροπόλεως) γενή(ματος) ι (ἔτους)
+r.2    [Ἀντωνίνου] Καίσαρος τοῦ κυρίου
+r.3    [ ̣ ̣ ̣ ̣ ̣ ̣ ̣] ὑπ(ὲρ) Χ(άρακος) ὀνό(ματος) Φαμίνιος
+r.4    [Π]ετεχώ(νσιος) Πασήμιο(ς) κριθ(ῆς) μίαν
+r.5    5[ἥ]μισυ τετρακ(αιεικοστὸν) (γίνεται) κρ(ιθῆς) α𐅵κδ´. Καρο( ) σεση(μείωμαι).
+
+[TRANSLATION]
+1     [Measure of the granary] of the metropolis, of the produce of year 10
+2     [of Antoninus] Caesar the lord,
+3     […], for Charax, in the name of Phaminis
+4     (son of) [P]etechonsis (son of) Pasemis, of barley one
+5     [and a h]alf and a twenty-fourth, total barley 1½ 1/24. I, Karo( ), have signed.

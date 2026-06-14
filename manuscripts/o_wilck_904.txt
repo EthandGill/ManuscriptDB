@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 904
+label:    O.Wilck. 904
+name:     Grain-measure receipt (metropolis granary, Markets)
+genre:    receipts
+date:     26. Apr - 24. Jun 158
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 758
+content:  Psensouchis son of Sesonchis, via the cultivator Amenrosis, measures in 5 art. of wheat for the Markets, year 21 of Antoninus.
+tm:       77380
+source:   https://papyri.info/ddbdp/o.wilck;;904
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θη(σαυροῦ) μη(τροπόλεως) γενή(ματος) κα (ἔτους) [Ἀντωνίνου]
+r.2    Καίσαρος τοῦ κυρίου Π[αῦνι ̣ ̣]
+r.3    ὑπ(ὲρ) Ἀγο(ρῶν) ὀνό(ματος) Ψε­νασ̣ού̣χ[ιος]
+r.4    Σεσόνχιο(ς) (διὰ) γ(εωργοῦ) Ἀμενρώσ[ιος]
+r.5    (πυροῦ) πέντε (γίνονται) (πυροῦ) ε. Σαβ(ῖνος) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 21 [of Antoninus]
+2     Caesar the lord, P[auni ..],
+3     for the Markets, in the name of Psensouch[is]
+4     (son of) Sesonchis, through the cultivator Amenros[is],
+5     of wheat five, total wheat 5. I, Sabinus, have signed.

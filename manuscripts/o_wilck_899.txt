@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 899
+label:    O.Wilck. 899
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     27. May 156
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4591
+content:  Senkametis (child of) Petemenophis, via the cultivator Psenamounis, measures in 2¾ art. of wheat for Charax, year 19 of Antoninus.
+tm:       77375
+source:   https://papyri.info/ddbdp/o.wilck;;899
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) εἰς θησ(αυρὸν) μη(τροπόλεως) γενή(ματος) ιθ (ἔτους) Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου Παῦνι β ὑπ(ὲρ)
+r.3    Χ(άρακος) ὀνό(ματος) Σενκαμήτιος Πετεμενώ(φιος) διὰ γεω(ργοῦ)
+r.4    Ψεναμο(ύνιος) Παοῦτο(ς) (πυροῦ) δύο ἥμισυ
+r.5    τέταρτον (γίνονται) (πυροῦ) β𐅸. Ὧρο(ς) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Measure into the granary of the metropolis, of the produce of year 19 of Antoninus
+2     Caesar the lord, Pauni 2, for
+3     Charax, in the name of Senkametis (child of) Petemenophis, through the cultivator
+4     Psenamounis (son of) Paous, of wheat two and a half
+5     and a quarter, total wheat 2¾. I, Horos, have signed.

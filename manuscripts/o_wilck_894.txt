@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 894
+label:    O.Wilck. 894
+name:     Grain-measure receipt (villages granary)
+genre:    receipts
+date:     10. Jul 152
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 515
+content:  Paoukales son of Pachnoumis measures in 1 art. of wheat for Charax, year 15 of Antoninus.
+tm:       77370
+source:   https://papyri.info/ddbdp/o.wilck;;894
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) κω(μῶν) γενή(ματος) ιε (ἔτους) Ἀντων(ίνο)υ
+r.2    Καίσαρος τοῦ κυρίου Ἐπεὶφ ιϛ
+r.3    ὑπ(ὲρ) Χ(άρακος) ὀνό(ματος) Παουκαλήους
+r.4    Παχνούμιος (πυροῦ) μίαν (γίνεται) (πυροῦ) α.
+r.5    Πε̣ ̣( ) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the villages, of the produce of year 15 of Antoninus
+2     Caesar the lord, Epeiph 16,
+3     for Charax, in the name of Paoukales
+4     (son of) Pachnoumis, of wheat one, total wheat 1.
+5     I, Pe..( ), have signed.

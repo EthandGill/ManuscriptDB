@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 889
+label:    O.Wilck. 889
+name:     Grain-measure receipt (metropolis granary, winter crop)
+genre:    receipts
+date:     11. Jul 147
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8177
+content:  Amenothes son of Harbechis and his son measure in winter-crop wheat for Charax, year 10 of Antoninus.
+tm:       77365
+source:   https://papyri.info/ddbdp/o.wilck;;889
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γενή(ματος) ι (ἔτους)
+r.2    Ἀντων(ίνου) Καίσαρος τοῦ κυρίου
+r.3    Ἐπὶφ ιζ ὑπ(ὲρ) Χ(άρακος) ὀνόμ(ατος) Ἀμενώθ(ου)
+r.4    Ἁρβήχ(ιος(?)) χει(μερινοῦ) (πυροῦ) ἥμισυ τρίτο(ν)
+r.5    (γίνεται) (πυροῦ) 𐅵γ´, καὶ ὀνόμ(ατος) Ἁρβήχιος
+r.6    υἱοῦ (πυροῦ) ἥμισυ τρίτον
+r.7    (γίνεται) (πυροῦ) 𐅵γ´. Καρο( ) σ(εσ)η(μείωμαι)
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 10
+2     of Antoninus Caesar the lord,
+3     Epeiph 17, for Charax, in the name of Amenothes
+4     (son of) Harbechis(?), of the winter (crop), of wheat a half and a third,
+5     total wheat ½⅓, and in the name of Harbechis
+6     (his) son, of wheat a half and a third,
+7     total wheat ½⅓. I, Karo( ), have signed.

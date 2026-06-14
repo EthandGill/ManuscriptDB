@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 867
+label:    O.Wilck. 867
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     16. Jul 141
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4027 (sic?)
+content:  Sempikos son of Petemenophis measures in 6 1/24 art. of wheat for Charax, year 4 of Antoninus.
+tm:       77343
+source:   https://papyri.info/ddbdp/o.wilck;;867
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέτρ(ημα) θησ(αυροῦ) μη(τροπόλεως) γενή(ματος) δ (ἔτους)
+r.2    Ἀντωνίνου τοῦ κυρίου Ἐπεὶφ κβ
+r.3    ὑπ(ὲρ) Χ(άρακος) ὀνό(ματος) Σεμπικῶτο(ς) Πετε-
+r.4    μενώφιος Ἐπικρ(άτους)
+r.5    (πυροῦ) ϛκδ´ (γίνονται) ϛκδ´.
+r.6    Ἀ ̣ ̣( ) βοηθ(ὸς) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Measure of the granary of the metropolis, of the produce of year 4
+2     of Antoninus the lord, Epeiph 22,
+3     for Charax, in the name of Sempikos (son of) Pete-
+4     menophis (son of) Epikrates,
+5     of wheat 6 1/24, total 6 1/24.
+6     I, A..( ), assistant, have signed.

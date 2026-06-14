@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 900
+label:    O.Wilck. 900
+name:     Grain-measure receipt (metropolis granary)
+genre:    receipts
+date:     17. Jun 156
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 194 \[ostracon\
+content:  ..abechis measures in wheat for years 18-19 (Charax, South & West), year 19 of Antoninus.
+tm:       77376
+source:   https://papyri.info/ddbdp/o.wilck;;900
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μ]έ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γ(εν)ή(ματος) ιθ (ἔτους) Ἀντωνίνου Καίσαρος
+r.2    [ ̣ ̣]αβῆχις ιη (ἔτους) (πυροῦ) (ἀρτάβης) ἥμισυ τρίτο(ν) κδ´,
+r.3    [καὶ] ὀνό(ματος) τοῦ (αὐτοῦ) ιθ (ἔτους) (πυροῦ) (ἀρτάβην) μίαν κδ´, καὶ ὑπ(ὲρ) Νό(του καὶ) Λ(ιβὸς)
+
+[TRANSLATION]
+1     [M]easure of the granary of the metropolis, of the produce of year 19 of Antoninus Caesar:
+2     [..]abechis, of year 18, of wheat a half and a third and a twenty-fourth (artaba),
+3     [and] in the name of the same, of year 19, of wheat one artaba and a twenty-fourth, and for the South and West

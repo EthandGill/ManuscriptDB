@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 862
+label:    O.Wilck. 862
+name:     Bath-tax receipt (Ophieus)
+genre:    receipts
+date:     16. Mar 139
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 112 \[ostracon\
+content:  Herieus and partners (temple granary) receive the bath-tax of Ophieus, year 2 of Antoninus, from Abos the elder.
+tm:       77338
+source:   https://papyri.info/ddbdp/o.wilck;;862
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἑριεὺς καὶ μ(έτοχοι) τελῶ(ναι) τέλο(υς) θησ(αυροῦ) ἱερῶ(ν)
+r.2    τοῦ β (ἔτους) Ἀντωνείνου Καίσαρος
+r.3    τοῦ κυρίου Ἀβῶτι πρ(εσβυτέρῳ) Πετοσίριος.
+r.4    ἔσχ(ομεν) τὸ βαλ(ανικὸν) Ὠφιήο(υ) τοῦ α(ὐτοῦ) β (ἔτους) Φαμ(ενὼ)θ κ
+
+[TRANSLATION]
+1     Herieus and partners, tax-farmers of the tax of the granary of the temples
+2     of year 2 of Antoninus Caesar
+3     the lord, to Abos the elder, (son of) Petosiris.
+4     We have received the bath-tax of Ophieus of the same year 2, Phamenoth 20.

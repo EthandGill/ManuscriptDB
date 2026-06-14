@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 866
+label:    O.Wilck. 866
+name:     Chaff receipt
+genre:    receipts
+date:     14. Jun 141
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4575
+content:  Petechespochrates, chaff-collector, receives 2 1/8 loads of chaff for year 3 from Amenothes, year 4 of Antoninus.
+tm:       77342
+source:   https://papyri.info/ddbdp/o.wilck;;866
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πετεχεσποχ(ράτης) ἀχυριος Κερμεω(ν)
+r.2    Ἀμενώθῃ Ἁρβήχιος χα(ίρειν).
+r.3    ἔσχο(ν) παρὰ σοῦ ἀχύρου γό(μους)
+r.4    δύο ὀγδου (γίνονται) γ(όμους) βη´ ὑπ(ὲρ)
+r.5    γ (ἔτους). (ἔτους) δ Ἀντωνίνου Καίσαρος
+r.6    τοῦ κυρίου Παῦνι κ.
+r.7    (hand 2) Πετεχεσποχράτης.
+
+[TRANSLATION]
+1     Petechespochrates, chaff-collector of Kermeon(?),
+2     to Amenothes (son of) Harbechis, greeting.
+3     I have received from you of chaff, loads
+4     two and an eighth, total loads 2 1/8, for
+5     year 3. Year 4 of Antoninus Caesar
+6     the lord, Pauni 20.
+7     (2nd hand) Petechespochrates.

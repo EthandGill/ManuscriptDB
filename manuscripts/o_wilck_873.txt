@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 873
+label:    O.Wilck. 873
+name:     Grain-measure receipt (metropolis granary, islands)
+genre:    receipts
+date:     23. Jun 143
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8718
+content:  ...likewise (son of) Horion measures in 7 art. of wheat for the islands, year 6 of Antoninus.
+tm:       77349
+source:   https://papyri.info/ddbdp/o.wilck;;873
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γε]νήμ(ατος) ϛ (ἔτους) Ἀντωνίνου
+r.2    [Καίσαρος τοῦ κυρίου Π]αῦνι κθ ὑπ(ὲρ) νήσ(ων)
+r.3    [ὀνό(ματος) ̣ ̣ ̣ ̣ ̣ ̣] (ὁμοίως) Ὡρίωνο(ς) (πυροῦ) ἑπτὰ
+
+[TRANSLATION]
+1     [Measure of the granary of the metropolis, of the pro]duce of year 6 of Antoninus
+2     [Caesar the lord, P]auni 29, for the islands,
+3     [in the name of …,] likewise (son of) Horion, of wheat seven.
