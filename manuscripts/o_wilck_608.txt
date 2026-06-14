@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 608
+label:    O.Wilck. 608
+name:     Sales-tax receipt
+genre:    receipts
+date:     141 - 142
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 132 \[ostracon\
+content:  Horos and partners, collectors of the sales-tax assessment, receive 3+ dr. of year 4 from Abos the elder.
+tm:       77118
+source:   https://papyri.info/ddbdp/o.wilck;;608
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ὧρος καὶ μ(έτοχοι) ἀπαιτ(ηταὶ) [μερισμ(οῦ)]
+r.2    τέλ(ους) ὠνίων Ἀβ[ώτι πρ(εσβυτέρῳ)]
+r.3    Πετοσί(ριος). ἔσχομ(εν) [ὑπ(ὲρ) μερισμ(οῦ)]
+r.4    δ (ἔτους) δραχ(μὰς) τρ[ ̣ ̣ ̣ ̣ ̣ ̣]
+r.5    (ἔτους) ε Ἀν[τωνείνου]
+r.6    Καίσαρος [τοῦ κυρίου ̣ ̣ ̣ ̣ ̣].
+
+[TRANSLATION]
+1     Horos and partners, collectors [of the assessment]
+2     for the tax on sales, to Ab[os the elder]
+3     (son of) Petosiris. We have received [for the assessment]
+4     of year 4, drachmas thr[ee …]
+5     Year 5 of An[toninus]
+6     Caesar [the lord, …].

@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 600
+label:    O.Wilck. 600
+name:     Tax receipt - the 'doubles' (dipla)
+genre:    receipts
+date:     7. Febr. 141
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12706
+content:  Horos receives 2 dr. for the 'doubles' of year 4 from Petepsais, of Charax.
+tm:       77110
+source:   https://papyri.info/ddbdp/o.wilck;;600
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [Ὧρ]ος πράκ(τωρ) ἀργ(υρικῶν) Χά(ρακος) Πετεψάιτι Πανκαμή̣(τιος)
+r.2    [Φατρ(?)]ήους . ἔσχ(ον) ὑπ(ὲρ) διπλ̣(ῶν) δ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) δύο (γίνονται) (δραχμαὶ) β.
+r.3    [(ἔτους) δ Ἀ]ντωνίνου Καίσαρος τοῦ κυρίου
+r.4    [Με]χεὶρ ιγ. Ἡρακλ(ᾶς) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     [Hor]os, collector of money-taxes of Charax, to Petepsais (son of) Pankametis
+2     [(son of) Phatres(?)]. I have received for the doubles (dipla) of year 4, base drachmas two, total 2 dr.
+3     [Year 4 of A]ntoninus Caesar the lord,
+4     [Me]cheir 13. I, Heraklas, have signed.

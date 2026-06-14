@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 570
+label:    O.Wilck. 570
+name:     Bath-tax receipt
+genre:    receipts
+date:     30. Mar 135
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 137 \[ostracon\
+content:  Kametis receives 2 dr. ½ ob. 2 chal. bath-tax of Charax, year 19, from Abos the elder.
+tm:       77080
+source:   https://papyri.info/ddbdp/o.wilck;;570
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Καμῆτι(ς) πρ[άκ(τωρ) ἀργ(υρικῆς)]
+r.2    [Χ]ά(ρακος) Ἀβώτι πρ(εσβυτέρῳ) Π[ετοσίριος].
+r.3    ἔσχο(ν) ὑπ(ὲρ) βα(λανικοῦ) Χά(ρακος) ιθ (ἔτους) ῥυπ(αρὰς) δ[ραχ(μὰς)]
+r.4    δύο (ἡμιωβέλιον) χ(αλκοῦς 2) (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) β (ἡμιωβέλιον) χ(αλκοῖ) [β].
+r.5    (ἔτους) ιθ Ἁδριανοῦ [Καίσαρος]
+r.6    τοῦ κυρίου Φαρ(μοῦθι) δ.
+
+[TRANSLATION]
+1     Kametis, col[lector of money-taxes]
+2     [of Ch]arax, to Abos the elder, (son of) P[etosiris].
+3     I have received for bath-tax of Charax, year 19, base d[rachmas]
+4     two, ½ obol, 2 chalkoi, total base drachmas 2, ½ obol, [2] chalkoi.
+5     Year 19 of Hadrian [Caesar]
+6     the lord, Pharmouthi 4.

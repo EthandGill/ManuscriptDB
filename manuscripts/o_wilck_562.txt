@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 562
+label:    O.Wilck. 562
+name:     Sales-tax receipt
+genre:    receipts
+date:     29. Jan 134
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4155
+content:  Hierax and partners, collectors of Charax, receive 2 dr. sales-tax of year 17 from Psenamounis son of Theodoros.
+tm:       77072
+source:   https://papyri.info/ddbdp/o.wilck;;562
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἵεραξ κ(αὶ) μέ(τοχοι) ἀπαιτηταὶ Χά(ρακος)
+r.2    Ψεναμούνι Θεοδώρου
+r.3    Φμόις· ἔσχ(ομεν) ὑπ(ὲρ) ὠνίων ιζ (ἔτους)
+r.4    δραχμὰς δύο (γίνονται) (δραχμαὶ) β [(ἔτους)] ιη Ἁδριανοῦ Καίσαρος τοῦ
+r.5    κυρίου Μεχεὶρ δ. Ἁρποκ(ρᾶς) σεσ(ημείωμαι).
+
+[TRANSLATION]
+1     Hierax and partners, collectors of Charax,
+2     to Psenamounis (son of) Theodoros
+3     (son of) Phmois: we have received for sales-tax of year 17
+4     two drachmas, total 2 dr. Year 18 of Hadrian Caesar the
+5     lord, Mecheir 4. I, Harpokras, have signed.

@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 571
+label:    O.Wilck. 571
+name:     Tax receipt - watchtower assessment
+genre:    receipts
+date:     24. Jul 135
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8534
+content:  Kametis receives 4 dr. 1 ob. 1 chal. for the watchtower (skopelos) assessment of Charax, year 19, from Pachnoumis.
+tm:       77081
+source:   https://papyri.info/ddbdp/o.wilck;;571
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Καμῆτι(ς) πρ[ά]κ(τωρ) ἀργ(υρικῆς)
+r.2    Παχνούμ(ει) Παουφθει(οῦτος)
+r.3    Παοῦτο(ς). ἔσχ(ον) ὑπ(ὲρ) μερισ(μοῦ)
+r.4    σκοπ(έλου) Χά(ρακος) ιθ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) τέσσαρ(ας) (ὀβολὸν) χ(αλκοῦν 1)
+r.5    (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) δ(ὀβολὸς) χ(αλκοῦς 1). (ἔτους) ιθ Ἁδριανοῦ
+r.6    τοῦ κυρίου Ἐ(πὶ)φ λ. Κ(αμῆτις) σ(εσημείωμαι).
+
+[TRANSLATION]
+1     Kametis, collector of money-taxes,
+2     to Pachnoumis (son of) Paouphtheus
+3     (son of) Paous. I have received for the assessment
+4     of the watchtower (skopelos) of Charax, year 19, base drachmas four, 1 obol, 1 chalkous,
+5     total base drachmas 4, 1 obol, 1 chalkous. Year 19 of Hadrian
+6     the lord, Epeiph 30. I, K(ametis), have signed.

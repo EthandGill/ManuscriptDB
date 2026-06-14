@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 583
+label:    O.Wilck. 583
+name:     Bath-tax receipt
+genre:    receipts
+date:     27. Mar 138
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 126 \[ostracon\
+content:  Soter receives 2 dr. ½ ob. 2 chal. (bath-tax) of Charax, year 22, from Abos the elder.
+tm:       77093
+source:   https://papyri.info/ddbdp/o.wilck;;583
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Σωτὴ(ρ) πράκ(τωρ) ἀργ(υρικῆς) Χά(ρακος)
+r.2    Ἀβῶς πρε(σβυτέρῳ) Πετοσίρ(ιος). ἔσχ(ον) τὸ
+r.3    ῥυπ(αρὰς) δραχ(μὰς) δύο (ἡμιωβέλιον) χ(αλκοῦς 2) (γίνονται) (δραχμαὶ) β (ἡμιωβέλιον) χ(αλκοῖ 2). (ἔτους) κβ
+r.4    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.5    Φαρμοῦθι α. Α ̣ ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Soter, collector of money-taxes of Charax,
+2     to Abos the elder, (son of) Petosiris. I have received the
+3     base drachmas two, ½ obol, 2 chalkoi, total drachmas 2, ½ obol, 2 chalkoi. Year 22
+4     of Hadrian Caesar the lord,
+5     Pharmouthi 1. I, A…, have signed.

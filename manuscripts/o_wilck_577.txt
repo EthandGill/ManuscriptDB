@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 577
+label:    O.Wilck. 577
+name:     Tax receipt - royal-canal assessment
+genre:    receipts
+date:     10. Jul 137
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 313
+content:  Sirthotes and partner receive 2 dr. 5 ob. 2 chal. for the royal-canal assessment of year 21 from Mesoueris.
+tm:       77087
+source:   https://papyri.info/ddbdp/o.wilck;;577
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Σ̣ι̣ρ̣θώτης καὶ Κ ̣ ̣π ̣ ̣ ̣ ἀπετητ(αὶ)
+r.2    μερισ(μοῦ) διόρυγος βασιλ(ικῆς) τοῦ κα (ἔτους)
+r.3    [Μ]εσουήριος Παοῦτος. ἔσχ(ομεν)
+r.4    ὑπ(ὲρ) μερ(ισμοῦ) δραχμὰς δυω ὀβολ(οὺς)
+r.5    πέντε δίχαλκον (γίνονται) (δραχμαὶ) β(πεντώβολον) χ(αλκοῖ 2).
+r.6    (ἔτους) κβ Ἁδριανοῦ Καίσαρος
+r.7    τοῦ κυρίου Ἐπὶφ ιϛ.
+
+[TRANSLATION]
+1     Sirthotes and K…, collectors
+2     of the assessment for the royal canal of year 21,
+3     to [M]esoueris (son of) Paous. We have received
+4     for the assessment, two drachmas, obols
+5     five, two chalkoi, total drachmas 2, 5 obols, 2 chalkoi.
+6     Year 22 of Hadrian Caesar
+7     the lord, Epeiph 16.

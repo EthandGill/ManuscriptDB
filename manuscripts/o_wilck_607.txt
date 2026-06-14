@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 607
+label:    O.Wilck. 607
+name:     Sales-tax receipt
+genre:    receipts
+date:     16. Apr 142
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4552
+content:  Marcus Claudius Alexandros and partners receive 5 obols for the sales-tax assessment of year 4 from Horos.
+tm:       77117
+source:   https://papyri.info/ddbdp/o.wilck;;607
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Μάρκος Κλαύδιος Ἀλέξ(ανδρος) κ(αὶ) μ(έτοχοι)
+r.2    ἀπαι(τηταὶ) μερισμ(οῦ) τέλ(ους) ὠνίω(ν) Ὧρος
+r.3    Φατρήο(υς) Βήχ(ιος). ἔσχ(ομεν) ὑπ(ὲρ) μερισμ(οῦ) δ (ἔτους)
+r.4    ῥυπ(αροὺς) ὀβολ(οὺς) ε (γίνονται) (πεντώβολον). (ἔτους) ε Ἀντωνίνου
+r.5    Καίσαρος τοῦ κυρίου Φαρμ(οῦθι) κα.
+r.6    Ὧρος σεση(μείωμαι).
+
+[TRANSLATION]
+1     Marcus Claudius Alexandros and partners,
+2     collectors of the assessment for the tax on sales, to Horos
+3     (son of) Phatres (son of) Bechis. We have received for the assessment of year 4,
+4     base, 5 obols, total 5 obols. Year 5 of Antoninus
+5     Caesar the lord, Pharmouthi 21.
+6     I, Horos, have signed.

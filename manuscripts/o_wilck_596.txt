@@ -1,0 +1,39 @@
+[META]
+id:       O.Wilck. 596
+label:    O.Wilck. 596
+name:     Tax receipt - customs-arrears assessment (three payments)
+genre:    receipts
+date:     1. Apr 140
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 \[596\
+content:  Asklas and partners, collectors of the customs-arrears assessment, receive 2 dr., then 2 dr., then 2 obols of year 3 from Psendokim( ).
+tm:       77106
+source:   https://papyri.info/ddbdp/o.wilck;;596
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀσκλᾶς κ(αὶ) μ(έτοχοι) ἀπαιτ(ηταὶ) μερισμο(ῦ)
+r.2    ἐνλίματο(ς) τελωνικ(οῦ) ̣ ̣
+r.3    Ψενδοκιμ( ) Ἀ̣ῶ̣τος ὁ κ(αὶ) Πα ̣πε ̣ ̣
+r.4    ἔσχ(ομεν) ὑπ(ὲρ) τέ(λους) δραχ(μὰς) δύο (γίνονται) (δραχμαὶ) β. (ἔτους) γ
+r.5    Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.6    μη(νὸς) Ἁδριανοῦ κζ. Πατεβὴς σεση(μείωμαι). Διόσκ(ορος) σεση(μείωμαι).
+r.7    ἄλ(λα) Τῦβι ι ὀνό(ματος) τοῦ (αὐτοῦ) δραχ(μὰς) δύο (γίνονται) (δραχμαὶ) β. Ἀσκ(λᾶς) σεση(μείωμαι).
+r.8    Διόσκ(ορος) σεση(μείωμαι). Πατεβής.
+r.9    ἄλ(λα) Φαρμο(ῦθι) ϛ ὀνό(ματος) τοῦ (αὐτοῦ) ὀβολ(οὺς) δύο . Ἀσκ(λᾶς) σεση(μείωμαι).
+r.10   Διόσκ(ορος) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Asklas and partners, collectors of the assessment
+2     for the customs-arrears (telonikon deficit), …,
+3     to Psendokim( ) (son of) Aos, also called Pa…pe…:
+4     we have received for the tax two drachmas, total 2 dr. Year 3
+5     of Antoninus Caesar the lord,
+6     month Hadrianos 27. I, Patebes, have signed. I, Dioskoros, have signed.
+7     Others, Tybi 10, in the name of the same, two drachmas, total 2 dr. I, Asklas, have signed.
+8     I, Dioskoros, have signed. Patebes.
+9     Others, Pharmouthi 6, in the name of the same, two obols. I, Asklas, have signed.
+10    I, Dioskoros, have signed.

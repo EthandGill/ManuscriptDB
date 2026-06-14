@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 561
+label:    O.Wilck. 561
+name:     Tax receipt - supplementary assessments (merismoi)
+genre:    receipts
+date:     12. Dec 133
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4531
+content:  Kametis and partners, collectors of the merismoi of Charax, receive 2 dr. for year 17 from Herieus son of Panames.
+tm:       77071
+source:   https://papyri.info/ddbdp/o.wilck;;561
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Καμῆτις κ(αὶ) μ(έτοχοι) ἀπαιτ(ηταὶ)
+r.2    μερισ(μῶν) Χά(ρακος) Ἑριέως Πα ̣ ̣ ̣ ̣
+r.3    Παναμέως. ἔσχ(ομεν) ὑπ(ὲρ) μερισ(μῶν)
+r.4    ιζ (ἔτους) δραχ(μὰς) δύο (γίνονται) (δραχμαὶ) β. (ἔτους) ιη Ἀντ(ωνίν)ου
+r.5    τοῦ κυρίου, Ἁδριανοῦ ιϛ. (hand 2) Πεκύσιο(ς) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Kametis and partners, collectors
+2     of the assessments (merismoi) of Charax, to Herieus (son of) Pa…
+3     (son of) Panames. We have received for the assessments
+4     of year 17 two drachmas, total 2 dr. Year 18 of Antoninus
+5     the lord, (month) Hadrianos 16. (2nd hand) I, Pekysis, have signed.

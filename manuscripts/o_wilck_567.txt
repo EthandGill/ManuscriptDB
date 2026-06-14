@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 567
+label:    O.Wilck. 567
+name:     Poll- and bath-tax receipt
+genre:    receipts
+date:     17. Dec 134
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4670
+content:  Soter receives 12 dr. for poll-tax and bath-tax of the South quarter, year 18.
+tm:       77077
+source:   https://papyri.info/ddbdp/o.wilck;;567
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Σωτὴρ πράκ(τωρ) ἀργ(υρικῶν)
+r.2    [ἔσχ(ον) ὑπ(ὲρ) λαο(γραφίας) καὶ] β̣αλ(ανευτικοῦ) Νό(του) ιη (ἔτους) ῥυπ(αρὰς) δραχ(μὰς) δώδε-
+r.3    κα (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) ιβ. (ἔτους) ιθ Ἁδριανοῦ Καίσαρος
+r.4    τοῦ κυρίου, Ἁδριανοῦ κα.
+
+[TRANSLATION]
+1     Soter, collector of money-taxes:
+2     [I have received for poll-tax and] bath-tax of the South (quarter), year 18, base drachmas twel-
+3     ve, total base drachmas 12. Year 19 of Hadrian Caesar
+4     the lord, (month) Hadrianos 21.

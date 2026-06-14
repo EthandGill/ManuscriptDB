@@ -1,0 +1,43 @@
+[META]
+id:       O.Wilck. 587
+label:    O.Wilck. 587
+name:     Land-survey tax receipts
+genre:    receipts
+date:     18. Oct 138
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1582
+content:  Soter and Ailourion receive land-survey tax (8 dr.) of year 22(=1) from Senphaeris, with further geometria payments in year 2 of Antoninus.
+tm:       77097
+source:   https://papyri.info/ddbdp/o.wilck;;587
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Σωτὴ(ρ) καὶ Αἰλουρ[ίων πράκ(τορες) ἀργ(υρικῆς) Χά(ρακος)]
+r.2    Σενφαήρ(ει) Πανα[μέως. ἔσχ(ομεν) ὑπ(ὲρ) γεω(μετριάς) κβ (ἔτους)]
+r.3    τοῦ καὶ α (ἔτους) ῥυπ(αρὰς) (δραχμὰς) ὀκτ[ὼ (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) η. (ἔτους) β Τίτου]
+r.4    Αἰλίου Ἀντων[ίνου Καίσαρος τοῦ κυρίου]
+r.5    Θὼθ β. (hand 2) Ἀ[μενώ(θης) σεση(μείωμαι)].
+r.6    (hand 3) Αἰλουρίων σεση(μείωμαι) (δραχμὰς) η.
+r.7    (hand 1) ἄλ(λαι) Φαῶ(φι) ι ὀνό(ματος) τῆς α(ὐτῆς) ὁ(μοίως) ὑπ(ὲρ) γεο(μετρίας) α (ἔτους) ῥυπ(αρὰς)
+r.8    δραχ(μὰς) τέσσαρας (γίνονται) (δραχμαὶ) δ. Αἰλου(ρίων) (διὰ) Ὥρο(υ) βοη(θοῦ) σεση(μείωμαι).
+r.9    (hand 2) Ἀμενώ(θης) σεση(μείωμαι).
+r.10   (hand 1) ἄλ(λαι) κα ὀνό(ματος) τῆς [α(ὐτῆς)] ὁ(μοίως) ῥυπ(αρὰν) (δραχμὴν) α(ὀβολὸν), καὶ ὀνό(ματος)
+r.11   Πετενοβ( ) Ψ[ε]ν[αμούνιος] ὑπ(ὲρ) γεο(μετρίας) α (ἔτους) ῥυπ(αροὺς) (τετρώβολον).
+r.12   Αἰλουρίων (διὰ) Ὥρου βοη(θοῦ) σεση(μείωμαι). (hand 2) Ἀμενώ(θης) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Soter and Ailour[ion, collectors of money-taxes of Charax],
+2     to Senphaeris (daughter of) Pana[mes. We have received for land-survey tax of year 22,]
+3     which is also year 1, base drachmas eig[ht, total base drachmas 8. Year 2 of Titus]
+4     Aelius Anton[inus Caesar the lord,]
+5     Thoth 2. (2nd hand) I, A[menothes, have signed].
+6     (3rd hand) I, Ailourion, have signed, drachmas 8.
+7     (1st hand) Others, Phaophi 10, in the name of the same, likewise for land-survey tax of year 1, base
+8     drachmas four, total drachmas 4. I, Ailourion, through Horos the assistant, have signed.
+9     (2nd hand) I, Amenothes, have signed.
+10    (1st hand) Others, the 21st, in the name of [the same], likewise base drachma 1, 1 obol; and in the name
+11    of Petenob( ) (son of) Ps[enamounis], for land-survey tax of year 1, base, 4 obols.
+12    I, Ailourion, through Horos the assistant, have signed. (2nd hand) I, Amenothes, have signed.

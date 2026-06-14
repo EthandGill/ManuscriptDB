@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 592
+label:    O.Wilck. 592
+name:     Tax receipt - brick assessment
+genre:    receipts
+date:     30. Jan 139 (day uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 62 \[ostracon\
+content:  Pamonthes and partners receive 4 obols (small coin) for the brick assessment, year 2 of Antoninus, from Senanteus.
+tm:       77102
+source:   https://papyri.info/ddbdp/o.wilck;;592
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παμώ(νθης) κ(αὶ) μ(έτοχοι) ἀπαιτ(ηταὶ) μερισμ(οῦ) πλινθ( ) π ̣στ( )
+r.2    Σεναντείο(υς) Ἐπικράτο(υς). ἔσχ(ομεν) ὑπ(ὲρ) μερισμ(οῦ) κέρ(ματος) ὀβ(ολοὺς) δ
+r.3    (γίνονται) κέρμ(ατος) ὀβ(ολοὶ) δ. (ἔτους) β Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.4    Με( ) ε. Φα ̣ ̣ ̣( ) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Pamonthes and partners, collectors of the brick(-making) assessment p…st( ),
+2     to Senanteus (son of) Epikrates. We have received for the assessment, in small coin, 4 obols,
+3     total in small coin 4 obols. Year 2 of Antoninus Caesar the lord,
+4     Me( ) 5. I, Pha…, have signed.

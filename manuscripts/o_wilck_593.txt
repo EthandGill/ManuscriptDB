@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 593
+label:    O.Wilck. 593
+name:     Land-survey tax receipt
+genre:    receipts
+date:     30. Aug - 28. Sep 139
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 122 \[ostracon\
+content:  Ailourion and Horos receive 2 dr. 3 ob. land-survey tax of year 2 from Phthoumis, via the daughter.
+tm:       77103
+source:   https://papyri.info/ddbdp/o.wilck;;593
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Αἰλο(υρίων) καὶ Ὧρο(ς) πράκ(τορες) ἀργ(υρικῆς) Χ[ά(ρακος)]
+r.2    Φθουμί(νει) Ψενύριος ̣ ̣ ̣
+r.3    διὰ Σενπιμῶτ(ος) θυγ(ατρός). [ἔσχ(ομεν) ὑπ(ὲρ)]
+r.4    γεωμ(ετρίας) β (ἔτους) ῥυπ(αρὰς) (δραχμὰς) β(τριώβολον) (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) [β(τριώβολον). (ἔτους) β (?)]
+r.5    Ἀντωνείνο[υ Καίσαρος τοῦ κυρίου]
+
+[TRANSLATION]
+1     Ailourion and Horos, collectors of money-taxes of Ch[arax],
+2     to Phthoumis (child of) Psenyris …,
+3     through Senpimous (the) daughter. [We have received for]
+4     land-survey tax of year 2, base drachmas 2, 3 obols, total base drachmas [2, 3 obols. Year 2(?)]
+5     of Antonin[us Caesar the lord].

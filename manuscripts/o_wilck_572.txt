@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 572
+label:    O.Wilck. 572
+name:     Tax receipt - brick assessment
+genre:    receipts
+date:     29. Jul 135
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8616
+content:  Kottarios and Apion receive 3½ obols per name for the brick assessment, year 19, from Pachnoumis and Paoukales.
+tm:       77082
+source:   https://papyri.info/ddbdp/o.wilck;;572
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Κ[ο]ττάριο(ς) καὶ Ἀπίω(ν) ἀπαιτ(ηταὶ)
+r.2    Παχνούμ(ει) Παουφθιοῦτος
+r.3    καὶ Παουκαλή(τι) υἱος . ἔσχ(ομεν) ὑπ(ὲρ)
+r.4    μερισμ(οῦ) πλινθ( ) ἑκάστ(ου) ὀνόμ(ατος) κέρμ(ατος)
+r.5    ὀβολ(οὺς) τρεῖς ἥμισυ . (ἔτους) ιθ Ἁδριανοῦ
+r.6    Καίσαρος τοῦ κυρίου Μεσορὴ ε.
+r.7    (hand 2) Ἀπίων σεσημ(είωμαι).
+
+[TRANSLATION]
+1     Kottarios and Apion, collectors,
+2     to Pachnoumis (son of) Paouphtheus
+3     and to Paoukales his son: we have received for
+4     the assessment for brick(-making), per name, in small coin
+5     three and a half obols. Year 19 of Hadrian
+6     Caesar the lord, Mesore 5.
+7     (2nd hand) I, Apion, have signed.

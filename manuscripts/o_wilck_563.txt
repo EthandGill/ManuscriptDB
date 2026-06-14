@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 563
+label:    O.Wilck. 563
+name:     Poll-tax receipt (laographia)
+genre:    receipts
+date:     22. Apr 134
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 114 \[ostracon\
+content:  The collector receives 10 dr. 4 ob. poll-tax of year 18 from Abos the elder.
+tm:       77073
+source:   https://papyri.info/ddbdp/o.wilck;;563
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [… Ὠ]φιή(ου) (?) πράκ(τωρ) Ἀβὼς
+r.2    [πρ(εσβυτέρῳ) Πετοσίριος. ἔσχ(ον) ὑπ(ὲρ)] λαογρ(αφίας) ιη (ἔτους) ῥυπαρ(ὰς) δραχ(μὰς)
+r.3    [δέκα τετρώβ(ολον) (γίνονται) ῥυπ(αραὶ)] (δραχμαὶ) ι(τετρώβολον). (ἔτους) ιη Ἁδριανοῦ τοῦ
+r.4    [κυρίου Φαρμοῦ]θι κζ. (hand 2) Ἀπολλ(ώνιος) σεση(μείωμαι).
+
+[TRANSLATION]
+1     [… son of O]phieus(?), tax-collector, to Abos
+2     [the elder, son of Petosiris. I have received for] the poll-tax of year 18, base drachmas
+3     [ten, four obols, total base] drachmas 10, 4 obols. Year 18 of Hadrian the
+4     [lord,] Pharmouthi 27. (2nd hand) I, Apollonios, have signed.

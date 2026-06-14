@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 609
+label:    O.Wilck. 609
+name:     Poll-tax receipt (Ophieus)
+genre:    receipts
+date:     31. Mar 142
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre O. without number
+content:  Harpokras receives 10 dr. 4 ob. poll-tax of Ophieus, year 5, from Abos the elder.
+tm:       77119
+source:   https://papyri.info/ddbdp/o.wilck;;609
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἁρποκρᾶ(ς) πράκ(τωρ) ἀργ(υρικῆς) Νό(του) καὶ Ὠφιή̣(ου)
+r.2    Ἀβώτι πρ(εσβυτέρῳ) Πετοσίριος.
+r.3    ἔσχ(ον) ὑπ(ὲρ) λαογρ(αφίας) Ὠφιήο(υ) ε (ἔτους)
+r.4    ῥυπ(αρὰς) (δραχμὰς) δέκα (τετρώβολον) (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) ι(τετρώβολον).
+r.5    (ἔτους) ε Ἀντωνείνου Καίσαρος
+r.6    τοῦ κυρίου Φ̣α̣ρ̣µ̣ο̣(ῦθι) ε. Ἀμενρῶ(σις) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Harpokras, collector of money-taxes of the South and of Ophieus,
+2     to Abos the elder, (son of) Petosiris.
+3     I have received for the poll-tax of Ophieus, year 5,
+4     base drachmas ten, 4 obols, total base drachmas 10, 4 obols.
+5     Year 5 of Antoninus Caesar
+6     the lord, Pharmouthi 5. I, Amenrosis, have signed.

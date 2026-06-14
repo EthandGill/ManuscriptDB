@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 575
+label:    O.Wilck. 575
+name:     Poll-tax receipt (Ophieus)
+genre:    receipts
+date:     7. Mar 136
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 110 \[ostracon\
+content:  Quintus Nemonius Dioscorus and Valerianus receive 10 dr. 4 ob. poll-tax of Ophieus, year 20, from Abos the elder.
+tm:       77085
+source:   https://papyri.info/ddbdp/o.wilck;;575
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Κοίντο(ς) Νεμώνιο(ς) Διόσκο(ρος)
+r.2    καὶ Ο̣ὐ̣α̣λ̣(εριανός) πράκ(τορες) ἀργ(υρικῆς) Νό(του)
+r.3    Ἀβῶς πρ(εσβυτέρῳ) Πετοσ(ίριος). ἔσχο(μεν)
+r.4    ὑπ(ὲρ) λαογρ(αφίας) Ὠφιήο(υ) κ (ἔτους) ῥυπ(αρὰς)
+r.5    (δραχμὰς) δέκα (τετρώβολον) (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) ι(τετρώβολον). (ἔτους) κ
+r.6    Ἁδριανοῦ τοῦ κυρίου Φαμ(ενὼθ) ια.
+r.7    Α ̣ ιο( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Quintus Nemonius Dioscorus
+2     and Valerianus, collectors of money-taxes of the South (quarter),
+3     to Abos the elder, (son of) Petosiris. We have received
+4     for the poll-tax of Ophieus, year 20, base
+5     drachmas ten, 4 obols, total base drachmas 10, 4 obols. Year 20
+6     of Hadrian the lord, Phamenoth 11.
+7     I, A…ios(?), have signed.

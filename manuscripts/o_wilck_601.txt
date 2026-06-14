@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 601
+label:    O.Wilck. 601
+name:     Tax receipt - assessment (anak.)
+genre:    receipts
+date:     31. Mar 141
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 111 \[ostracon\
+content:  Apollonides and Antonios receive 4 dr. for the anak. assessment of year 1 from Abos the elder, of the South.
+tm:       77111
+source:   https://papyri.info/ddbdp/o.wilck;;601
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀπολλω(νί)δ(ης) καὶ Ἀντώ(νιος) πράκ(τορες)
+r.2    ἀργ(υρικῆς) Νό(του) Ἀβώτι πρ(εσβυτέρῳ)
+r.3    Πετοσ(ίριος). ἔσχ(ομεν) ὑπ(ὲρ) μερ(ισμοῦ)
+r.4    ἀνακ( ) α (ἔτους) ῥυπ(αρὰς) δραχ(μὰς) τέσσαρ(ας)
+r.5    (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) δ. (ἔτους) δ Ἀντωνείνου
+r.6    Καίσαρος τοῦ κυρίου
+r.7    Φαρ(μοῦθι) ε. Ἀντώ(νιος) σ(εσ)η(μείωμαι).
+r.8    Πα ̣( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Apollonides and Antonios, collectors
+2     of money-taxes of the South (quarter), to Abos the elder
+3     (son of) Petosiris. We have received for the assessment
+4     anak( ) of year 1, base drachmas four,
+5     total base drachmas 4. Year 4 of Antoninus
+6     Caesar the lord,
+7     Pharmouthi 5. I, Antonios, have signed.
+8     I, Pa…, have signed.

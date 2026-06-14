@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 582
+label:    O.Wilck. 582
+name:     Poll- and bath-tax receipt
+genre:    receipts
+date:     16. Febr. 138
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4482
+content:  Soter receives 12 dr. poll- and bath-tax of year 22 from Amenothes.
+tm:       77092
+source:   https://papyri.info/ddbdp/o.wilck;;582
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Σωτὴ(ρ) πράκ(τωρ) ἀργ(υρικῆς) [Χά(ρακος) Ἀμενώθῃ(?)]
+r.2    Ἁρβήχιο(ς) μη(τρὸς) Σενχ[εσθώτου].
+r.3    ἔσχ(ον) ὑπ(ὲρ) λαογρ(αφίας) καὶ βα(λανικοῦ) [κβ (ἔτους)]
+r.4    ῥυπ(αρὰς) δραχ(μὰς) δώ[δεκα (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) ιβ].
+r.5    (ἔτους) κβ Ἁδριανοῦ τ[οῦ κυρίου]
+r.6    Μεχεὶρ κβ.
+
+[TRANSLATION]
+1     Soter, collector of money-taxes [of Charax, to Amenothes(?)]
+2     (son of) Harbechis, (whose) mother is Sench[esthotis].
+3     I have received for poll-tax and bath-tax [of year 22],
+4     base drachmas twe[lve, total base drachmas 12].
+5     Year 22 of Hadrian t[he lord],
+6     Mecheir 22.

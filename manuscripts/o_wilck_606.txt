@@ -1,0 +1,37 @@
+[META]
+id:       O.Wilck. 606
+label:    O.Wilck. 606
+name:     Tax receipt - assessment (anak.)
+genre:    receipts
+date:     10. Apr 142
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1203
+content:  Harpokras and Lolous receive 8 dr. for the anak. assessment of year 21 from Petosiris the younger.
+tm:       77116
+source:   https://papyri.info/ddbdp/o.wilck;;606
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἁρποκρ[ᾶς] καὶ Λολοῦτι
+r.2    πράκ(τορες) ἀργ(υρικῆς) Πετοσίριο(ς) ν(εωτέρῳ)
+r.3    Ψεντκ( ) μη(τρὸς) Τικῶτος.
+r.4    ἔσχ(ομεν) μερισ(μὸν) ἀνακ( ) κα (ἔτους)
+r.5    ῥυπ(αρὰς) (δραχμὰς) ὀκτὼ (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) η.
+r.6    (ἔτους) ε Ἀντωνείνου τοῦ
+r.7    κυρίου Φαρμο(ῦθι) ιε.
+r.8    Ἀμενρῶ(σις) σ(εσ)η(μείωμαι).
+r.9    (hand 2) Λελοὺς (δραχμὰς) η.
+
+[TRANSLATION]
+1     Harpokr[as] and Lolous,
+2     collectors of money-taxes, to Petosiris the younger,
+3     (son of) Psentk( ), (whose) mother is Tikos.
+4     We have received the assessment anak( ) of year 21,
+5     base drachmas eight, total base drachmas 8.
+6     Year 5 of Antoninus the
+7     lord, Pharmouthi 15.
+8     I, Amenrosis, have signed.
+9     (2nd hand) Lelous, drachmas 8.

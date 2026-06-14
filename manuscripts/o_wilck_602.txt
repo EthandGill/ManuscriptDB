@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 602
+label:    O.Wilck. 602
+name:     Tax receipt - assessment (anak.)
+genre:    receipts
+date:     1. Jul 141
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 117 \[ostracon\
+content:  Apollonides receives 3 dr. for the anak. assessment of year 2 from Abos the elder, of the South and West.
+tm:       77112
+source:   https://papyri.info/ddbdp/o.wilck;;602
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀπολλωνίδ(ης) πράκ(τωρ) ἀργ(υρικῆς) νό(του καὶ) Λ(ιβὸς) Ἀβώτι πρ(εσβυτέρῳ)
+r.2    Πετοσ(ίριος) μη(τρὸς) Σενπικ(ῶτος). ἔσχ(ον) ὑπ(ὲρ) μερισ(μοῦ) ἀνακ( )
+r.3    β (ἔτους) ῥυπ(αρὰς) (δραχμὰς) τρεῖς (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) γ. (ἔτους) δ Ἀντωνείνου
+r.4    Καίσαρος τοῦ κυρίου Ἐπεὶφ ζ. Κ ̣( ) σ(εσημείωμαι).
+
+[TRANSLATION]
+1     Apollonides, collector of money-taxes of the South and West, to Abos the elder
+2     (son of) Petosiris, (whose) mother is Senpikos. I have received for the assessment anak( )
+3     of year 2, base drachmas three, total base drachmas 3. Year 4 of Antoninus
+4     Caesar the lord, Epeiph 7. I, K…, have signed.

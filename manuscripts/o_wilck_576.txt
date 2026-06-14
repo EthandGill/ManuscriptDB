@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 576
+label:    O.Wilck. 576
+name:     Land-survey tax receipt
+genre:    receipts
+date:     29. Sep 136
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1586
+content:  Asklas and Soter receive 1 ob. 2 chal. land-survey tax (a fifth part) of year 20 from Bechis.
+tm:       77086
+source:   https://papyri.info/ddbdp/o.wilck;;576
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀσκλᾶς καὶ Σωτὴ(ρ) πράκ(τορες) ἀργ(υρικῆς) Χά(ρακος)
+r.2    Βήχ(ει) Βήχιο(ς) διὰ Σενμώνθου. ἔσχ(ομεν)
+r.3    ὑπ(ὲρ(?)) γεομ(ετρίας) κ (ἔτους) (πέμπτου) μέρο(υς) ῥυπ(αρὸν) ὀβολὸς χ(αλκοῦς 2)
+r.4    (γίνονται) ῥυπ(αρὸς) (ὀβολὸς) χ(αλκοῖ 2). (ἔτους) κα Ἁδριανοῦ τοῦ κυρίου
+r.5    Φαῶφι β.
+r.6    Καροῦρις ν(εώτερος) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Asklas and Soter, collectors of money-taxes of Charax,
+2     to Bechis (son of) Bechis, through Senmonthes. We have received
+3     for the land-survey tax of year 20, a fifth part, base, one obol, 2 chalkoi,
+4     total base, 1 obol, 2 chalkoi. Year 21 of Hadrian the lord,
+5     Phaophi 2.
+6     I, Karouris the younger, have signed.

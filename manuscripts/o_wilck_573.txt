@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 573
+label:    O.Wilck. 573
+name:     Embankment- and bath-tax receipt
+genre:    receipts
+date:     4. Aug 135
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8662
+content:  Kametis receives 7 dr. 5 ob. 2 chal. embankment- and bath-tax of Charax, year 19, from Pachnoumis.
+tm:       77083
+source:   https://papyri.info/ddbdp/o.wilck;;573
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Καμῆτις πράκ(τωρ) ἀργ(υρικῆς)
+r.2    Παχνούμι(ος) Παουφθει(οῦτος) Παοῦ(τος).
+r.3    ἔσχ(ον) ὑπ(ὲρ) χω(ματικοῦ) καὶ βαλ(ανικοῦ) Χά(ρακος) ιθ (ἔτους) ῥυπ(αρὰς) δραχ(μὰς)
+r.4    ἑπτὰ (πεντώβολον) χ(αλκοῦς 2) (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) ζ(πεντώβολον) χ(αλκοῖ 2). (ἔτους) ιθ
+r.5    Ἁδριανοῦ τοῦ κυρίου Μ(εσο)ρὴ ια.
+
+[TRANSLATION]
+1     Kametis, collector of money-taxes,
+2     to Pachnoumis (son of) Paouphtheus (son of) Paous.
+3     I have received for embankment-tax and bath-tax of Charax, year 19, base drachmas
+4     seven, 5 obols, 2 chalkoi, total base drachmas 7, 5 obols, 2 chalkoi. Year 19
+5     of Hadrian the lord, Mesore 11.

@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 605
+label:    O.Wilck. 605
+name:     Tax receipt - the 'doubles' (dipla)
+genre:    receipts
+date:     9. Jan 142
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 315
+content:  Postumus receives 2 dr. for the 'doubles' of year 5 from Pikos the younger.
+tm:       77115
+source:   https://papyri.info/ddbdp/o.wilck;;605
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πόστομο(ς) πράκ(τωρ) ἀργ(υρικῆς) Χά(ρακος) Πικώτ(ι) νεω(τέρῳ) Ἀρχίο(υ).
+r.2    ἔσχ(ον) ὑπ(ὲρ) διπλῶν ε (ἔτους) ῥυπ(αρὰς) (δραχμὰς) δύο (γίνονται) ῥυπ(αραὶ) (δραχμαὶ) β.
+r.3    (ἔτους) ε Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.4    Τῦβι ιδ. ̣ ̣( ) Πόστ(ομος) διὰ Φα̣τρή(ους) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Postumus, collector of money-taxes of Charax, to Pikos the younger, (son of) Archis.
+2     I have received for the doubles (dipla) of year 5, base drachmas two, total base drachmas 2.
+3     Year 5 of Antoninus Caesar the lord,
+4     Tybi 14. I, …, Postumus, through Phatres, have signed.

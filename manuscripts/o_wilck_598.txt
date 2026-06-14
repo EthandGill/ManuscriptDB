@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 598
+label:    O.Wilck. 598
+name:     Bath-tax receipt
+genre:    receipts
+date:     13. Apr 140
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8037
+content:  Ailourion and Horos receive 2 dr. ½ ob. 2 chal. bath-tax of year 3 from Abos the elder.
+tm:       77108
+source:   https://papyri.info/ddbdp/o.wilck;;598
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Αἰλο(υρίων) καὶ Ὧρο(ς) πράκ(τορες) ἀργ(υρικῆς) Χά(ρακος)
+r.2    Ἀβώτι πρ(εσβυτέρῳ) Πετοσίριο(ς). ἔσχ(ομεν) ὑπ(ὲρ) βαλ(ανικοῦ) γ (ἔτους)
+r.3    ῥυπ(αρὰς) (δραχμὰς) β (ἡμιωβέλιον) χ(αλκοῦς 2) (γίνονται) (δραχμαὶ) β (ἡμιωβέλιον) χ(αλκοῖ 2). (ἔτους) γ Ἀντωνίνου
+r.4    Καίσαρος τοῦ κυρίου Φαρμο(ῦθι) ιη.
+r.5    Αἰλο(υρίων(?)) διὰ Καλ(ήους) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Ailourion and Horos, collectors of money-taxes of Charax,
+2     to Abos the elder, (son of) Petosiris. We have received for bath-tax of year 3,
+3     base drachmas 2, ½ obol, 2 chalkoi, total drachmas 2, ½ obol, 2 chalkoi. Year 3 of Antoninus
+4     Caesar the lord, Pharmouthi 18.
+5     I, Ailourion, through Kales, have signed.

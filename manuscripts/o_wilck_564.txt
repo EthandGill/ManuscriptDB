@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 564
+label:    O.Wilck. 564
+name:     Tax receipt - assessment (anak.)
+genre:    receipts
+date:     25. Jun 134
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4480
+content:  Kametis receives 1 dr. 4 ob. for the assessment anak( ) of Charax, year 18, from Amenothes son of Harbechis.
+tm:       77074
+source:   https://papyri.info/ddbdp/o.wilck;;564
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Καμῆτις πράκ(τωρ) ἀργ(υρικῆς)
+r.2    Ἀμενώθηι Ἁρβήχι(ος)
+r.3    μητ(ρὸς) Σενχεσθώτ(ου). ἔσχ(ον) ὑπ(ὲρ) μερισ(μοῦ)
+r.4    ἀνγ( ) Χά(ρακος) ιη (ἔτους) ῥυπ(αρὰν) δραχ(μὴν) μίαν ὀβ(ολοὺς) δ.
+r.5    (ἔτους) ιη Ἁδριανοῦ τοῦ κυρίου
+r.6    Ἐ(πὶ)φ α. Κ(αμῆτις) σ(εσημείωμαι).
+
+[TRANSLATION]
+1     Kametis, collector of money-taxes,
+2     to Amenothes (son of) Harbechis,
+3     (whose) mother is Senchesthotis. I have received for the assessment
+4     anak( ) of Charax, year 18, one base drachma, 4 obols.
+5     Year 18 of Hadrian the lord,
+6     Epeiph 1. I, K(ametis), have signed.

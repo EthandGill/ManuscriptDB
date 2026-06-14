@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 586
+label:    O.Wilck. 586
+name:     Embankment- and bath-tax receipt
+genre:    receipts
+date:     1. Sep 138
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4558
+content:  Ailourion and Soter receive 4 dr. embankment- and bath-tax of year 22 (=year 1) from Amenothes, in year 2 of Antoninus.
+tm:       77096
+source:   https://papyri.info/ddbdp/o.wilck;;586
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Αἰλουρίων καὶ Σωτὴ(ρ) πράκ(τορες) ἀργ(υρικῆς) Χά(ρακος)
+r.2    Ἀμενώθῃ Ἁρβῆχις μη(τρὸς) Σενχεσθώ(του).
+r.3    ἔσχ(ομεν) ὑπ(ὲρ) χω(ματικοῦ) καὶ βαλ(ανικοῦ) κβ (ἔτους) τοῦ καὶ α (ἔτους) ῥυπ(αρὰς) (δραχμὰς) δ (γίνονται) (δραχμαὶ) δ.
+r.4    (ἔτους) β Τίτου Αἰλίου Ἀντωνείνου Καίσαρος
+r.5    τοῦ κυρίου Θὼθ δ. (hand 2) Αἰλο(υρίων) σεση(μείωμαι) (δραχμὰς) δ.
+r.6    (hand 3) Σωτὴ(ρ) σεση(μείωμαι) (δραχμὰς) δ.
+
+[TRANSLATION]
+1     Ailourion and Soter, collectors of money-taxes of Charax,
+2     to Amenothes (son of) Harbechis, (whose) mother is Senchesthotis.
+3     We have received for embankment-tax and bath-tax of year 22, which is also year 1, base drachmas 4, total drachmas 4.
+4     Year 2 of Titus Aelius Antoninus Caesar
+5     the lord, Thoth 4. (2nd hand) I, Ailourion, have signed, drachmas 4.
+6     (3rd hand) I, Soter, have signed, drachmas 4.

@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 578
+label:    O.Wilck. 578
+name:     Tax receipt - the 'doubles' (dipla)
+genre:    receipts
+date:     5. Aug 137
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1579
+content:  Psansnos and Kasianos receive 4 dr. for the 'doubles' of year 21 from Psenamounis.
+tm:       77088
+source:   https://papyri.info/ddbdp/o.wilck;;578
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ψανσνὼς καὶ Κασιανὸς πράκ(τορες) ἀργ(υρικῆς)
+r.2    Ψεναμο(ύνει) Ἀπολλοδώρο(υ) Πικῶτο(ς). ἔσχ(ομεν)
+r.3    ὑπ(ὲρ) διπλῶν κα (ἔτους) δραχ(μὰς) τέσσαρας
+r.4    (γίνονται) (δραχμαὶ) δ. (ἔτους) κα Ἁ[δρ]ιανοῦ Καίσαρος τοῦ
+r.5    κυρίου Μεσορὴ ιβ.
+r.6    (hand 2) Κασιανὸς σ(εσ)η(μείωμαι) [(δραχμὰς) τέσσαρας (γίνονται)] (δραχμαὶ) δ.
+
+[TRANSLATION]
+1     Psansnos and Kasianos, collectors of money-taxes,
+2     to Psenamounis (son of) Apollodoros (son of) Pikos. We have received
+3     for the doubles (dipla) of year 21, four drachmas,
+4     total 4 dr. Year 21 of Ha[dr]ian Caesar the
+5     lord, Mesore 12.
+6     (2nd hand) I, Kasianos, have signed [for four drachmas, total] 4 dr.
