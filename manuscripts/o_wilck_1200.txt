@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1200
+label:    O.Wilck. 1200
+name:     Grain-delivery account (Messalina)
+genre:    documents
+date:     I - IV
+language: Greek (Koiné)
+found:    Theben (?)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4382
+content:  Daily deliveries of 5 artabas of wheat in the name of Messalina, Pauni 17-25.
+tm:       77601
+source:   https://papyri.info/ddbdp/o.wilck;;1200
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παῦνι ιζ Μεσσαλῖνα (πυροῦ) ε.
+r.2    ιη ὁμ(οίως) (πυροῦ) ε.
+r.3    κ ὁμ(οίως) (πυροῦ) ε.
+r.4    κα ὁμ(οίως) (πυροῦ) ε.
+r.5    κε ὁμ(οίως) (πυροῦ) ε.
+
+[TRANSLATION]
+1     Pauni 17: Messalina, 5 (artabas) of wheat.
+2     (the) 18th, likewise, 5 (artabas) of wheat.
+3     (the) 20th, likewise, 5 (artabas) of wheat.
+4     (the) 21st, likewise, 5 (artabas) of wheat.
+5     (the) 25th, likewise, 5 (artabas) of wheat.

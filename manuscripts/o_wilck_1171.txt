@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1171
+label:    O.Wilck. 1171
+name:     Money account (talents)
+genre:    documents
+date:     nach 180 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1557
+content:  A short money account totalling 3 talents from three persons.
+tm:       77574
+source:   https://papyri.info/ddbdp/o.wilck;;1171
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀπολλώνιος Ἑρμοκλέους (τάλαντον) αΕ.
+r.2    Ἅ̣γ̣ν̣ι̣ς̣ Σ ̣ ̣κε ̣ ̣ς Βφ.
+r.3    Ἀπολλώνιος Ἀμβρύωνος Δφ
+r.4    (γίνεται) (τάλαντα) γ.
+
+[TRANSLATION]
+1     Apollonios (son of) Hermokles: 1 talent 5000 (dr.).
+2     Hagnis (son of) S..ke..s: 2500 (dr.).
+3     Apollonios (son of) Ambryon: 4500 (dr.).
+4     total 3 talents.

@@ -1,0 +1,23 @@
+[META]
+id:       O.Wilck. 1206
+label:    O.Wilck. 1206
+name:     Money receipt
+genre:    documents
+date:     I - IV
+language: Greek (Koiné)
+found:    Hermonthis (?)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 297
+content:  Didymos son of Pathaous: 12 drachmas, Hathyr 1.
+tm:       77607
+source:   https://papyri.info/ddbdp/o.wilck;;1206
+lat:      25.6167
+lon:      32.55
+
+[GREEK]
+r.1    Δίδυμος Παθαοῦτος
+r.2    Ἁθὺρ α (δραχμὰς) ιβ.
+
+[TRANSLATION]
+1     Didymos (son of) Pathaous:
+2     Hathyr 1, 12 drachmas.

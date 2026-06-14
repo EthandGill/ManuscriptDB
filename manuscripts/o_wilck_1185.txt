@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1185
+label:    O.Wilck. 1185
+name:     Load account
+genre:    documents
+date:     III
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 169 \[ostracon\
+content:  Pekysis: a chaff/load account totalling 1¼ loads.
+tm:       77586
+source:   https://papyri.info/ddbdp/o.wilck;;1185
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πεκῦσις Πετε( ) πρ(εσβυτέρου) Ψενα(μούνιος)
+r.2    ἀ(πὸ(?)) λόγου γό(μου) 𐅸
+r.3    ἑξ(ῆς(?)) ὁμ(οίως) γό(μου) 𐅵
+r.4    γ(ίνονται) γό(μος) αδ´.
+
+[TRANSLATION]
+1     Pekysis (son of) Pete( ) the elder (son of) Psenamounis:
+2     from the account, a load, ¾;
+3     next, likewise, a load, ½;
+4     total a load 1¼.

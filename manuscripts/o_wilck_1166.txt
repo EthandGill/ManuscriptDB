@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1166
+label:    O.Wilck. 1166
+name:     Account of resin and wine
+genre:    documents
+date:     I - IV
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 350
+content:  An account of colophonia (resin), wine and vinegar received and sold, with deliveries to Horion the clerk.
+tm:       77569
+source:   https://papyri.info/ddbdp/o.wilck;;1166
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἡρακλιανῷ κολ(οφώνια) λζ ἀπὸ τοῦ Νεφυτίου,
+r.2    ὁμ(οίως) ἀπὸ τοῦ χωρίου Πικεραί ου κολ(οφώνια) ε,
+r.3    οἴνου γ ὄξους β εἰς πλήρωσιν τῶν ε,
+r.4    ὁμ(οίως) πέπρακα διπλοκ(εραμίον) (δραχμῶν) η.
+r.5    ὁμ(οίως) ἔδωκα Ὡρίωνι γραμματ(εῖ) διπλοκεράμ( )
+r.6    [- …13 -] ̣ ̣ κ[ολ]οφωνίου α
+
+[TRANSLATION]
+1     To Heraklianos: colophonia (resin) 37, from the Nephytion (estate);
+2     likewise from the estate of Pikeraios, colophonia 5;
+3     of wine 3, of vinegar 2, to make up the 5;
+4     likewise I have sold a double-jar (diplokeramion) for 8 drachmas;
+5     likewise I gave to Horion the clerk a double-jar;
+6     […] .. 1 of colophonion.

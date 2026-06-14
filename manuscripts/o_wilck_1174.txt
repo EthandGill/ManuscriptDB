@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1174
+label:    O.Wilck. 1174
+name:     Money account (temple officials)
+genre:    documents
+date:     1. Hälfte II (?)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4360
+content:  A money account in drachmas/obols, naming a chief-pastophoros.
+tm:       77577
+source:   https://papyri.info/ddbdp/o.wilck;;1174
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Σενθοτεύτης Μειεύριος
+r.2    (δραχμὰς) η (ὀβολοὺς) β𐅵 χ(αλκοῦ) γ.
+r.3    Ψενχῶνσις ὁ(μοίως) Πετεμενώ(φιος)
+r.4    ἀρχ(ι)παστ(οφόρος) (δραχμὰς) λε (ἡμιωβέλιον) (χαλκοῦν 1).
+
+[TRANSLATION]
+1     Senthoteutes (son of) Meieuris:
+2     8 drachmas, 2½ obols, 3 chalkoi of copper.
+3     Psenchonsis, likewise (son of) Petemenophis,
+4     chief-pastophoros: 35 drachmas, ½ obol, 1 chalkous.

@@ -1,0 +1,41 @@
+[META]
+id:       O.Wilck. 1181
+label:    O.Wilck. 1181
+name:     Grain-distribution roll
+genre:    documents
+date:     I - IV
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 \[1181\
+content:  A per-person daily distribution of wheat in artabas (Psentphous, Permamis, Sekes, Horos, Psenamounis).
+tm:       77583
+source:   https://papyri.info/ddbdp/o.wilck;;1181
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [Ψεντφ]οῦς πρ(εσβύτερος) (πυροῦ) (ἀρτάβην) α𐅵γ´ιβ´.
+r.2    [Ψεν]τφοῦς ν(εώτερος) (πυροῦ) (ἀρτάβης) 𐅵.
+r.3    ／ Περμᾶμις (πυροῦ) (ἀρτάβης) 𐅵.
+r.4    ／ Σεκῆς Πικῶτο(ς) 𐅷 (πυροῦ) (ἀρτάβης) γ´ιβ´.
+r.5    5／ Ὧρος Παταπῆτο(ς) (πυροῦ) (ἀρτάβης) 𐅷.
+r.6    ／ Ψεναμοῦνις υἱὸς (πυροῦ) (ἀρτάβης) γ´ιβ´.
+r.7    ϛ ／ Ψεντφοῦς πρ(εσβύτερος) (πυροῦ) (ἀρτάβην) αιβ´
+r.8    ／ Περμᾶμις (πυροῦ) (ἀρτάβης) 𐅵.
+r.9    ／ Σεκῆς Πικῶτο(ς) 𐅷 (πυροῦ) (ἀρτάβην) αιβ´.
+r.10   10／ Ὧρος Παταπῆτο(ς) (πυροῦ) (ἀρτάβης) 𐅷.
+r.11   ／ Ψεναμοῦνις υἱὸς (πυροῦ) (ἀρτάβης) γ´ιβ´.
+
+[TRANSLATION]
+1     [Psentph]ous the elder: 1½⅓ 1/12 (artabas) of wheat.
+2     [Psen]tphous the younger: ½ artaba of wheat.
+3     / Permamis: ½ artaba of wheat.
+4     / Sekes (son of) Pikos, ⅔: ⅓ 1/12 artaba of wheat.
+5     / Horos (son of) Patapes: ⅔ artaba of wheat.
+6     / Psenamounis (his) son: ⅓ 1/12 artaba of wheat.
+7     (the) 6th: / Psentphous the elder: 1 1/12 artaba of wheat;
+8     / Permamis: ½ artaba of wheat;
+9     / Sekes (son of) Pikos, ⅔: 1 1/12 artaba of wheat;
+10    / Horos (son of) Patapes: ⅔ artaba of wheat;
+11    / Psenamounis (his) son: ⅓ 1/12 artaba of wheat.

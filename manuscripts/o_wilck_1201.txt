@@ -1,0 +1,23 @@
+[META]
+id:       O.Wilck. 1201
+label:    O.Wilck. 1201
+name:     Land-survey and grain reckoning
+genre:    documents
+date:     I v.Chr. - I n.Chr.
+language: Greek (Koiné)
+found:    Theben (?)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4341
+content:  A fractional computation of an aroura's area and the wheat (32⅓ art.) due on it.
+tm:       77602
+source:   https://papyri.info/ddbdp/o.wilck;;1201
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    1[…] (γίνεται) ἄρ(ο)υ(ρα) α𐅵η´ιϛ´λβ´ρκη´ (χιλιοστὸν καὶ εἰκοστὸν καὶ τέταρτον) (τετραχιλιοστὸν καὶ ἐνενηκαστὸν καὶ ἕκτον)
+r.2    […] (γίνονται) (πυροῦ) (ἀρτάβαι) λβγ´ιβ´ χ(οῖνιξ) α𐅵.
+
+[TRANSLATION]
+1     […] total: 1 aroura ½ 1/8 1/16 1/32 1/128 (and 1/1000 and 1/20 and ¼) (and 1/4000 and 1/96).
+2     […] total: 32⅓ 1/12 (artabas) of wheat, 1½ choinix.

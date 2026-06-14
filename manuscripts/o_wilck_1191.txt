@@ -1,0 +1,37 @@
+[META]
+id:       O.Wilck. 1191
+label:    O.Wilck. 1191
+name:     Name-list (by profession)
+genre:    documents
+date:     I - IV
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre E 8651
+content:  A list of men with trades (barber, shepherd, grain-measurer, donkey-driver).
+tm:       77592
+source:   https://papyri.info/ddbdp/o.wilck;;1191
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [ ̣ ̣ ̣]ρος Χαι ̣[…]
+r.2    [Π]αναμεὺς κουρ[εὺς …]
+r.3    Φαῆρις ποιμὴν […]
+r.4    Ὧρος σιτομέτρης […]
+r.5    Ἀμμώνιος νεώ(τερος) ὀνη(λάτης) […]
+r.6    Ἀμμώ(νιος) πρ(εσβύτερος) ἀδελ(φὸς) […]
+r.7    Διόσκορος υἱὸς Τλελοῦ(τος) […]
+r.8    Ἀσκλᾶς νεώ(τερος) Πανηκ( ) […]
+r.9    Ἀπολλώνιος Διοσ[κόρου …]
+
+[TRANSLATION]
+1     […]ros (son of) Chai.[…]
+2     [P]anameus, barber (koureus) […]
+3     Phaeris, shepherd (poimen) […]
+4     Horos, grain-measurer (sitometres) […]
+5     Ammonios the younger, donkey-driver […]
+6     Ammonios the elder, (his) brother […]
+7     Dioskoros, son of Tlelous […]
+8     Asklas the younger (son of) Panek( ) […]
+9     Apollonios (son of) Dios[koros …]

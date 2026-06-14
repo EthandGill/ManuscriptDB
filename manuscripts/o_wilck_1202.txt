@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 1202
+label:    O.Wilck. 1202
+name:     Poll/tax list (obols)
+genre:    documents
+date:     III v.Chr.
+language: Greek (Koiné)
+found:    Theben (?)
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4461
+content:  A short list of small obol payments under Ptolemaios and Dioskourides.
+tm:       77603
+source:   https://papyri.info/ddbdp/o.wilck;;1202
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πτολεμαίωι ιζ.
+r.2    Ταυομβῆς (ὀβολοὺς) δ𐅵 (χαλκοὺς 2)
+r.3    Ταυγὴς (ὀβολὸν).
+r.4    Σεχὼνς (ἡμιωβέλιον) .
+r.5    5／ Τα ̣γεὶς (ὀβολὸν).
+r.6    ／ Παθαὺτ (ὀβολὸν) α𐅵.
+r.7    ／ ̣ ̣ ̣ς (τετρώβολον)(ὀβολὸν) (χαλκοὺς 2).
+r.8    Διοσκουρίδηι (ἡμιωβέλιον) .
+
+[TRANSLATION]
+1     To Ptolemaios: 17.
+2     Tauombes: 4½ obols, 2 chalkoi.
+3     Tauges: 1 obol.
+4     Sechons: ½ obol.
+5     / Ta.geis: 1 obol.
+6     / Pathaut: 1½ obols.
+7     / ...s: 4 obols, 1 obol(?), 2 chalkoi.
+8     To Dioskourides: ½ obol.

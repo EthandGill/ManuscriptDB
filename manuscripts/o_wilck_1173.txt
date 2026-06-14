@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1173
+label:    O.Wilck. 1173
+name:     Grain account
+genre:    documents
+date:     II
+language: Greek (Koiné)
+found:    Elephantine
+held:     (see shelf)
+shelf:    Paris, Bibliothèque Nationale Suppl. grec 718
+content:  An account of wheat in artabas (Sarapion, Philamon, rent, valuation, Gemellion, Apollinarios).
+tm:       77576
+source:   https://papyri.info/ddbdp/o.wilck;;1173
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1    Σαραπ( ) (ἀρτάβας) ξβ.
+r.2    Φιλαμὼν (ἀρτάβας) κθ.
+r.3    φόρου (ἀρτάβας) ν.
+r.4    ἐ̣κτιμής (εως(?)) (ἀρτάβας) λε.
+r.5    Γεμελίω(ν) (ἀρτάβας) β.
+r.6    Ἀπολιναρίου (ἀρτάβας) λ.
+
+[TRANSLATION]
+1     Sarap( ): 62 (artabas).
+2     Philamon: 29 (artabas).
+3     of rent: 50 (artabas).
+4     of the valuation(?): 35 (artabas).
+5     Gemellion: 2 (artabas).
+6     Apollinarios: 30 (artabas).

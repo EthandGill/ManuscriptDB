@@ -1,0 +1,37 @@
+[META]
+id:       O.Wilck. 1188
+label:    O.Wilck. 1188
+name:     Wage list (by profession)
+genre:    documents
+date:     I - IV
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4303
+content:  A list of payees with their trades (surveyor, physician, lead-worker, teacher, assistant, deputy-strategos).
+tm:       77589
+source:   https://papyri.info/ddbdp/o.wilck;;1188
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ὡρίων γεωμέτ(ρης) […]
+r.2    Ὑρος Πικῶτος […]
+r.3    Μαντινόη μητρι […]
+r.4    Ἀμμώνιος ἰ ατρὸς […]
+r.5    Λολοῦς […]
+r.6    Ῥ̣υ̣ρος μολυβουργὸς β […]
+r.7    Ἀρτεμίδωρος διδάσκ(αλος) γ […]
+r.8    Δωρίων βοηθὸς ϛ […]
+r.9    Ἡγούμενο(ς) στρατηγοῦ ϛ […]
+
+[TRANSLATION]
+1     Horion, surveyor (geometres) […]
+2     Hyros (son of) Pikos […]
+3     Mantinoe, (to her) mother […]
+4     Ammonios, physician (iatros) […]
+5     Lolous […]
+6     Ryros, lead-worker (molybourgos), 2 […]
+7     Artemidoros, teacher (didaskalos), 3 […]
+8     Dorion, assistant (boethos), 6 […]
+9     Hegoumenos, (deputy) of the strategos, 6 […]

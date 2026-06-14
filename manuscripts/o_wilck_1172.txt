@@ -1,0 +1,23 @@
+[META]
+id:       O.Wilck. 1172
+label:    O.Wilck. 1172
+name:     Cattle account
+genre:    documents
+date:     II - III
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Bonn, Altertumsfreunden A. V. 1237 \[1172\
+content:  A short account: an ox of Heriophmois and an entry for the decanus Herieus.
+tm:       77575
+source:   https://papyri.info/ddbdp/o.wilck;;1172
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἑριοφμόις Πετεβούχ(ιος) βό(ον) α ̣ ̣ (τετρώβολ ) ̣
+r.2    (δεκανὸς) Ἑριεὺς Παπνουθ(ίου) α ̣ ̣ (τετρώβολ ) ̣
+
+[TRANSLATION]
+1     Heriophmois (son of) Petebouchis: 1 ox, .. (tetrobols) ..;
+2     decanus Herieus (son of) Papnouthis: 1 .., (tetrobols) ..

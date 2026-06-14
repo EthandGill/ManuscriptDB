@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1187
+label:    O.Wilck. 1187
+name:     Wine account (Linouphis estate)
+genre:    documents
+date:     I - IV
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4227
+content:  Reckoning of 31 kolophonia of wine of the estate of Linouphis.
+tm:       77588
+source:   https://papyri.info/ddbdp/o.wilck;;1187
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    […συν(?)]άρσεως οἴνου χωρίο(υ) Λινούφου
+r.2    οἴνου κολ(οφώνια) λα
+r.3    […]ϛ[…] λα.
+
+[TRANSLATION]
+1     [… for the recko]ning of the wine of the estate of Linouphis:
+2     of wine, 31 kolophonia;
+3     […]6[…] 31.

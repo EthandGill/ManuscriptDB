@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1186
+label:    O.Wilck. 1186
+name:     Wine account
+genre:    documents
+date:     I - IV
+language: Greek (Koiné)
+found:    Theben (?)
+held:     (see shelf)
+shelf:    London, British Library O 12693
+content:  Wine delivered (in xestai) through Patsebaios and Phaminis.
+tm:       77587
+source:   https://papyri.info/ddbdp/o.wilck;;1186
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Θὼθ κβ διὰ Πατσεβα̣ίο(υ)
+r.2    οἴνου ξέσται ιβ.
+r.3    (hand 2) Φαῶφι ιγ δι(ὰ) Φαμίνιος
+r.4    ξέστ(αι) θ𐅵.
+
+[TRANSLATION]
+1     Thoth 22, through Patsebaios:
+2     of wine, 12 xestai (pints).
+3     (2nd hand) Phaophi 13, through Phaminis:
+4     xestai 9½.

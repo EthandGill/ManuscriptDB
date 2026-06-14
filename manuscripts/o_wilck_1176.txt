@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1176
+label:    O.Wilck. 1176
+name:     Grain account (South & West)
+genre:    documents
+date:     I - IV
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 1607
+content:  Likinnia and Taurinia owe 4 artabas of wheat for the South and West.
+tm:       77579
+source:   https://papyri.info/ddbdp/o.wilck;;1176
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Νό(του) (καὶ) Λ(ιβὸς) Λικιννίας Ἀπολλωνοῦτο(ς) καὶ
+r.2    Ταυρινίας Ἀμμωναρίου
+r.3    (πυροῦ) (ἀρτάβας) δ.
+
+[TRANSLATION]
+1     (of the) South and West: Likinnia (daughter of) Apollonous and
+2     Taurinia (daughter of) Ammonarion:
+3     4 (artabas) of wheat.

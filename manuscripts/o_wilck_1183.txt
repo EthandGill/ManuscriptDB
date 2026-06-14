@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1183
+label:    O.Wilck. 1183
+name:     Grain account (by quarter)
+genre:    documents
+date:     II
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 352
+content:  Wheat in artabas owed by persons of the Markets and Charax quarters.
+tm:       77584
+source:   https://papyri.info/ddbdp/o.wilck;;1183
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀγο(ρῶν) Σενσωτὴρ Ἑριοφμόιτο(ς)
+r.2    (πυροῦ) (ἀρτάβας) κη.
+r.3    Πόστομος (πυροῦ) (ἀρτάβας) κα𐅵.
+r.4    Χά(ρακος) Ἀβῶς Ἰσιδώρο(υ) (πυροῦ) ιδ.
+r.5    Χά(ρακος) Π̣αμμοννᾶς Σενύριο(ς) (πυροῦ) ζ.
+r.6    Ἁρπασισνεὺς Ἀβῶτο(ς) (πυροῦ) δ.
+
+[TRANSLATION]
+1     (of the) Markets: Sensoter (daughter of) Heriophmois:
+2     28 (artabas) of wheat.
+3     Postumus: 21½ (artabas) of wheat.
+4     (of) Charax: Abos (son of) Isidoros: 14 (artabas) of wheat.
+5     (of) Charax: Pammonnas (son of) Senyris: 7 (artabas) of wheat.
+6     Harpasisneus (son of) Abos: 4 (artabas) of wheat.

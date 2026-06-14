@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1205
+label:    O.Wilck. 1205
+name:     Grain account (Charax)
+genre:    receipts
+date:     ca. 140
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 109 \[ostracon\
+content:  Abos son of Petosiris: 3¼ 1/24 artabas of wheat for Charax.
+tm:       77606
+source:   https://papyri.info/ddbdp/o.wilck;;1205
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    δ ̣ ̣ ̣
+r.2    Χά(ρακος). Ἀβῶς Πετοσίριο(ς) ὁ(μοίως)
+r.3    μη(τρὸς) Σενπικῶτο(ς) (πυροῦ) γδ´κδ´.
+
+[TRANSLATION]
+1     (day) 4 ...
+2     (of) Charax: Abos (son of) Petosiris, likewise,
+3     (whose) mother is Senpikos: 3¼ 1/24 (artabas) of wheat.

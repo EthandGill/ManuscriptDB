@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1179
+label:    O.Wilck. 1179
+name:     Money reckoning
+genre:    documents
+date:     I - IV
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 4494
+content:  From 60 dr., 34 reckoned up to Epeiph 26, 26 remaining.
+tm:       77582
+source:   https://papyri.info/ddbdp/o.wilck;;1179
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἀπὸ (δραχμῶν) ξ ἐλογο-
+r.2    ποιήθησαν εἰς
+r.3    Ἐπεὶφ κϛ (δραχμὰι) λδ.
+r.4    λοιπ(αὶ) (δραχμὰς) κϛ.
+
+[TRANSLATION]
+1     From 60 drachmas there were rec-
+2     koned, up to
+3     Epeiph 26, 34 drachmas.
+4     Remaining: 26 drachmas.

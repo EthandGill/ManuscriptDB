@@ -1,0 +1,39 @@
+[META]
+id:       O.Wilck. 1199
+label:    O.Wilck. 1199
+name:     Name-list (pastophoroi)
+genre:    documents
+date:     I - IV
+language: Greek (Koiné)
+found:    Elephantine (?)
+held:     (see shelf)
+shelf:    Paris, Louvre E 7176
+content:  A list of men (a boat of the pastophoroi).
+tm:       77600
+source:   https://papyri.info/ddbdp/o.wilck;;1199
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1    σκάφη παστ[οφορ …]
+r.2    Παπρεμείθης
+r.3    Σουκεὺς υἱὸς
+r.4    Πασῆτις Παπρεμεί[θου …]
+r.5    Πασῆτις Ψεν[…]
+r.6    Πασῆτις μείζω[ν …]
+r.7    Βιῆγχις Ὥρου […]
+r.8    [Π]αναπῶτις Πα[…]
+r.9    [Πα]τ̣σ̣ίβτι[ς …]
+r.10   Ψ̣ενπερώ.
+
+[TRANSLATION]
+1     Boat(s) of the pastoph[oroi …]:
+2     Papremithes
+3     Soukeus (his) son
+4     Pasetis (son of) Papremi[thes …]
+5     Pasetis (son of) Psen[…]
+6     Pasetis the elder […]
+7     Bienchis (son of) Horos […]
+8     [P]anapotis (son of) Pa[…]
+9     [Pa]tsibtis […]
+10    Psenpero.
