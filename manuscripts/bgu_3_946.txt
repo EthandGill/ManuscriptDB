@@ -1,0 +1,35 @@
+[META]
+id:       BGU 3.946
+label:    BGU 3.946
+name:     Lease (Vaballathus & Aurelian, AD 271)
+genre:    contracts
+date:     11. Mar 272
+language: Greek (Koiné)
+found:    Herakleopolis
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. without number
+content:  Opening of a lease dated by year 2 of Aurelian and year 5 of Vaballathus Athenodoros, king/consul/imperator of the Romans (AD 271).
+tm:       20093
+source:   https://papyri.info/ddbdp/bgu;3;946
+lat:      29.0667
+lon:      30.9333
+
+[GREEK]
+r.1   1[(ἔτους) β τοῦ κυρίου ἡμῶν Λουκίου Δομιτίου Αὐρηλιανοῦ]
+r.2   Σεβαστοῦ καὶ (ἔτους) ε τοῦ κ[υρίου ἡμῶν Σεπτιμίου]
+r.3   Οὐαβαλάθου Ἀθηνοδώρο[υ] τοῦ λαμπρ[οτάτου]
+r.4   βασιλέως ὑπάτου αὐτοκράτορος στ[ρατηγοῦ]
+r.5   Ῥωμαίων Φαμενὼθ ιε. (hand 2) Αὐρ[ηλιο ̣]
+r.6   Χαιρήμων ̣ ̣ ̣[…]
+r.7   ̣ουλα ̣ ̣ ̣νι[- …10 - ἐμίσθω-]
+r.8   σ̣α̣ ὡς πρόκιτ[αι …]
+
+[TRANSLATION]
+1     [(Year) 2 of our lord Lucius Domitius Aurelianus]
+2     Augustus and (year) 5 of o[ur lord Septimius]
+3     Vaballathus Athenodoros, the most splendid
+4     king, consul, imperator, general
+5     of the Romans, Phamenoth 15. (hand 2) Aur[elius]
+6     Chairemon ...[...]
+7     ...la...ni[... I have leas-]
+8     ed, as aforesaid [...]

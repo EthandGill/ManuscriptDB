@@ -1,0 +1,33 @@
+[META]
+id:       BGU 3.929
+label:    BGU 3.929
+name:     Land-property declaration (Herakleopolis)
+genre:    receipts
+date:     II - III
+language: Greek (Koiné)
+found:    Herakleopolis
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. without number
+content:  Property return: Soterichos, royal scribe of the Saite nome, and Nemesion declare arouras and a vineyard-planting from Aristoneikos' holding.
+tm:       28111
+source:   https://papyri.info/ddbdp/bgu;3;929
+lat:      29.0667
+lon:      30.9333
+
+[GREEK]
+r.1   μητροπόλεως ἐντὸς τείχους […]
+r.2   Σωτήριχος Σωτηρίχου βασιλ(ικὸς) γρα(μματεὺς) Σαείτου [νομ(οῦ)]
+r.3   ἰδί[ας] ὑπάρξεως (ἀρούρας) δ𐅵ιϛ´ […]
+r.4   Νεμεσίων Ἡρακλείδου γεγ(υμνασιαρχηκὼς) καὶ προσ̣τ̣ά̣[της (?)…]
+r.5   Ἡρακλέους πόλεως ἀπὸ παραδείσου [ἐξ(?)]
+r.6   Ἀριστονείκου κλήρου εἰς ἀμπέλ(ων) φυτεία[ν …]
+r.7   (ἄρουρα) α𐅵 προστίμου ὡς τῆς (ἀρούρης) Αμβ […]
+
+[TRANSLATION]
+1     (In) the metropolis, within the wall [...]
+2     Soterichos (son of) Soterichos, royal scribe of the Saite [nome],
+3     (declares) of his own property 4½ 1/16 arouras [...]
+4     Nemesion (son of) Herakleides, ex-gymnasiarch and patr[on(?)...]
+5     of Herakleopolis, from a garden (orchard), [from(?)]
+6     the holding of Aristoneikos, for the planting of a vineyard [...]
+7     1½ arouras; of fine, at the (rate) of the aroura, 1042(?) [...]

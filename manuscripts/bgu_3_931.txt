@@ -1,0 +1,27 @@
+[META]
+id:       BGU 3.931
+label:    BGU 3.931
+name:     Oil-delivery note
+genre:    receipts
+date:     III - IV
+language: Greek (Koiné)
+found:    Herakleopolis
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. without number
+content:  Note that 3 metretai (1 chous?) of oil were measured out from the middle-quarter store, addressed to a principalis.
+tm:       31245
+source:   https://papyri.info/ddbdp/bgu;3;931
+lat:      29.0667
+lon:      30.9333
+
+[GREEK]
+r.1   Χαίροις πρινκιπαριω
+r.2   ἐμετρήθη ἀπὸ ἀποθή-
+r.3   κης τῆς μέσης ἐλαίου
+r.4   μετρητὰς γ [χοῦν (?)] α
+
+[TRANSLATION]
+1     Greetings, principalis.
+2     There was measured out, from the store-
+3     house of the middle (quarter), of oil,
+4     3 metretai, [1 chous(?)].

@@ -1,0 +1,25 @@
+[META]
+id:       BGU 3.933
+label:    BGU 3.933
+name:     Grain-rent note (sub-lease)
+genre:    receipts
+date:     IV - VII
+language: Greek (Koiné)
+found:    Herakleopolis
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. without number
+content:  Elias the assistant notes 4½ arouras of grain-land out of 9 toward the rent of a sub-lease, to the farmers Felephas and Baurealis.
+tm:       33250
+source:   https://papyri.info/ddbdp/bgu;3;933
+lat:      29.0667
+lon:      30.9333
+
+[GREEK]
+r.1   † Ἠλείας βοηθ(ὸς(?)) Φελεφάντι καὶ Βαυρεάλι γεωρ(γοῖς)
+r.2   ιβ (ἔτους(?)) Πουώω ἀπὸ (ἀρουρῶν) θ (ἀρουρ ) δ𐅵 σί(το ) πρὸς τὸν
+r.3   φόρ(ον) τοῦ διαμισθωτικ(οῦ) ̣ ̣ ̣
+
+[TRANSLATION]
+1     † Elias, assistant(?), to Felephas and Baurealis, farmers:
+2     year 12(?), (of) Puoo, from 9 arouras, 4½ arouras of grain-land toward the
+3     rent of the sub-lease ...
