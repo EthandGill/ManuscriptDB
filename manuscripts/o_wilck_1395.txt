@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1395
+label:    O.Wilck. 1395
+name:     Tax quittance (Nero)
+genre:    receipts
+date:     29. Aug - 27. Oct 66
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25864
+content:  Psemmonthes and partners acknowledge the Thoth-Phaophi tax of year 13 of Nero.
+tm:       77726
+source:   https://papyri.info/ddbdp/o.wilck;;1395
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ψεμμώ(νθης) Ἀράθη(ς) καὶ μέτοχοι
+r.2   Ἑρμίας Ἐπωνύχο(υ) χα(ίρειν). ἀπέχω(μεν)
+r.3   τὸ τέλ(ος) Θὼθ Φαῶφι τοῦ ιγ (ἔτους)
+r.4   [Νέρ]ωνος τοῦ χυρίου
+r.5   (γίνεται(?)) (δραχμὴ) α (ὑπὲρ) δαπ (ιδύφων).
+
+[TRANSLATION]
+1     Psemmonthes (son of) Arathes and partners,
+2     Hermias (son of) Eponychos, greeting. We have
+3     the tax (for) Thoth (and) Phaophi of year 13
+4     [of Ner]o the lord.
+5     total(?) 1 dr., for the expense of ...(?).

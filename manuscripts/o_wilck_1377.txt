@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1377
+label:    O.Wilck. 1377
+name:     Barbers'-tax docket (Claudius)
+genre:    receipts
+date:     2. Oct 42
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25842
+content:  Ptolis son of Psenonouphis pays 3 dr. 3 ob. barbers'-tax of year 2, year 3 of Claudius.
+tm:       77711
+source:   https://papyri.info/ddbdp/o.wilck;;1377
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διέγρα(ψεν) Πτόλις Ψενονουφις ὑπ(ὲρ) κουρέ(ων)
+r.2   β (ἔτους) (δραχμὰς) τρῖς τριοβ(ο)λ(ον) (γίνονται) (δραχμαὶ) γ(τριώβολον) καὶ π(ρο)σδ(ιαγραφόμενα) ἑξ(ὀβολοῦ)(ἡμιωβελίου)
+r.3   (ἔτους) γ Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ
+r.4   Γερμανικοῦ Αὐτοκράτορος, Σεβαστοῦ λ‡ε.
+r.5   Κέφαλ(ος(?)). Πε(τεμενῶφις) Πικ(ῶτος).
+
+[TRANSLATION]
+1     There has paid, Ptolis (son of) Psenonouphis, for barbers'-tax
+2     of year 2, three dr. 3 obols, total 3 dr. 3 obols, and surcharges of 1½ obols.
+3     Year 3 of Tiberius Claudius Caesar Augustus
+4     Germanicus Imperator, (epagomenal) Sebastos 35.
+5     Kephalos(?). Petemenophis (son of) Pikos.

@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1384
+label:    O.Wilck. 1384
+name:     Poll + bath-tax docket (Claudius)
+genre:    receipts
+date:     17. Mar 45
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25745
+content:  Onnophris son of Horos pays 10 dr. poll-tax + bath-tax of year 5, year 5 of Claudius.
+tm:       50796
+source:   https://papyri.info/ddbdp/o.wilck;;1384
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διέγρα(ψεν) Ὀννῶφρ(ις) Ὥρου ὑπ(ὲρ) λα(ο)γ(ραφίας)
+r.2   ε (ἔτους) (δραχμὰς) δέκα , βαλ(ανικοῦ) (δραχμὴν) μίαν (ὀβολὸν) α𐅵
+r.3   (γίνονται) (δραχμὰι) ια (ὀβολὸς) α𐅵 καὶ προσδ(ιαγραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου). (ἔτους) ε Τιβ(ερίο)υ Κλαυδίου
+r.4   Καίσαρος Σεβαστοῦ Γερ(μανικ)οῦ Αὐτοκράτορος
+r.5   Φαμενὼθ κα. (hand 2) Ἐπικ(ράτης) Πικ(ῶτος).
+
+[TRANSLATION]
+1     There has paid, Onnophris (son of) Horos, for poll-tax
+2     of year 5, ten drachmas, (for) bath-tax one dr. 1½ obols,
+3     total 11 dr. 1½ obols, and surcharges of 1½ obols. Year 5 of Tiberius Claudius
+4     Caesar Augustus Germanicus Imperator,
+5     Phamenoth 21. (2nd hand) Epikrates (son of) Pikos.

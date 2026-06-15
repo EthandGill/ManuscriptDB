@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1368
+label:    O.Wilck. 1368
+name:     Bath-tax quittance (Augustus)
+genre:    receipts
+date:     6 - 7
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25631
+content:  Apol( ), bath-keeper, acknowledges 4 dr. bath-rent of year 36 from Psenminis and son.
+tm:       77703
+source:   https://papyri.info/ddbdp/o.wilck;;1368
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ἀπολ( ) βαλ(ανεὺς) Ψενμίν(ει) Νεφερπρήους
+r.2   καὶ Νεφερπρῆ(ι) υἱῷ χαίρειν.
+r.3   ἀπέχω ὑπ(ὲρ) τοῦ λϛ (ἔτους) Καίσαρο(ς)
+r.4   φόρον βαλ(ανείων) (δραχμὰς) τέσαρα[ς] [(γίνονται) (δραχμαὶ)] δ.
+
+[TRANSLATION]
+1     Apol( ), bath-keeper, to Psenminis (son of) Neferpreous
+2     and Neferpres (his) son, greeting.
+3     I have, for year 36 of Caesar,
+4     the bath-tax rent, four drachmas, [total] 4 dr.

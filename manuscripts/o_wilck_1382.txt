@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1382
+label:    O.Wilck. 1382
+name:     Palm-tax docket (Claudius)
+genre:    receipts
+date:     6. Sep 44
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, University College, Petrie Museum UC 32463
+content:  Hermias son of Zoeilos pays the date-grove tax of year 4, year 5 of Claudius.
+tm:       77715
+source:   https://papyri.info/ddbdp/o.wilck;;1382
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   δια(γεγράφηκεν) Ἑρμίας Ζωείλ(ου) ὑπ(ὲρ) φοι(νικώνων) δ (ἔτους)
+r.2   ιϛλβ (δραχμὴν) α(πεντώβολον) καὶ προσδ(ιαγραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου). (ἔτους) ε
+r.3   Τιβερίου Κλαυδίου Καίσαρος Σε̣β̣α̣σ̣(τοῦ)
+r.4   Γερμανικοῦ Αὐτοκράτορος μη(νὸς)
+r.5   Σ̣εβασ(τοῦ) θ Α̣ο̣η̣ ̣θ̣ι(ς) σεση(μείωμαι) .
+
+[TRANSLATION]
+1     There has paid, Hermias (son of) Zoeilos, for date-groves of year 4,
+2     16 32(´), 1 dr. 5 obols, and surcharges of 1½ obols. Year 5
+3     of Tiberius Claudius Caesar Augustus
+4     Germanicus Imperator, in the month
+5     Sebastos 9. Ao.thi(s), I have signed.

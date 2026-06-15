@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1363
+label:    O.Wilck. 1363
+name:     Quarter-tax receipt (agoranomos)
+genre:    receipts
+date:     27 - 26 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 26049
+content:  Asklepiades, agent of the agoranomos Apollonios, acknowledges Thermouthis' quarter-tax, year 4.
+tm:       77698
+source:   https://papyri.info/ddbdp/o.wilck;;1363
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ἀσκληπιάδης ὡ πα̣ρ̣ὰ̣ Ἀπωλωνί(ου)
+r.2   τοῦ ἀγωρανώμου Θερμούθι.
+r.3   ἔχω παρὰ σοῦ τω τέλος τῆς τετ̣αρ-
+r.4   του (γίνονται) (δραχμαὶ) η (τέταρτον ὀβολοῦ) ἀπω Τῦβ(ι) ἕως Φαρμοῦ-
+r.5   θι (ἔτους) δ Καίσαρος.
+
+[TRANSLATION]
+1     Asklepiades, the agent of Apollonios
+2     the agoranomos, to Thermouthis.
+3     I have from you the tax of the quar-
+4     ter, total 8 dr. ¼-obol, from Tybi to Pharmou-
+5     thi, year 4 of Caesar.

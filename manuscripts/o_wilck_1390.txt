@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1390
+label:    O.Wilck. 1390
+name:     Poll + bath-tax docket (Nero)
+genre:    receipts
+date:     17. Mar 59
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25962
+content:  Amontas son of Mesoueris pays 10 dr. poll-tax + bath-tax of year 5, year 5 of Nero.
+tm:       77721
+source:   https://papyri.info/ddbdp/o.wilck;;1390
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διαγε(γράφηκεν) Ἀμοντᾶς Με̣σούη(ριος)
+r.2   ὑπ(ὲρ) λαο(γραφίας) ε̣ (ἔτους) (δραχμὰς) δέκα , βαλ(ανικοῦ) (δραχμὴν) α (ὀβολὸν) α𐅵
+r.3   (γίνονται) (δραχμαὶ) ια (ὀβολὸς) α𐅵 καὶ τού(τ)ω(ν) προσδ(ιαγραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου).
+r.4   (ἔτους) ε Νέρωνος Κλαυδίου
+r.5   Καίσαρος Σεβ(αστοῦ) Γερμανικοῦ
+r.6   Αὐτοκ(ράτορος) Φαμε(νὼθ) κα. Βάσσο(ς) σεση(μείωμαι).
+
+[TRANSLATION]
+1     There has paid, Amontas (son of) Mesoueris,
+2     for poll-tax of year 5, ten dr., (for) bath-tax 1 dr. 1½ obols,
+3     total 11 dr. 1½ obols, and the surcharges of 1½ obols on these.
+4     Year 5 of Nero Claudius
+5     Caesar Augustus Germanicus
+6     Imperator, Phamenoth 21. Bassos, I have signed.

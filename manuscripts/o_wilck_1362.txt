@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1362
+label:    O.Wilck. 1362
+name:     Dovecote-tax receipt (fragment)
+genre:    receipts
+date:     II v.Chr. (?)
+language: Greek (Koiné)
+found:    Hermonthis (?)
+held:     (see shelf)
+shelf:    London, University College, Petrie Museum UC 32061
+content:  A fragmentary receipt for the dovecote (pigeon-house) tax, checked by Herakleides.
+tm:       43624
+source:   https://papyri.info/ddbdp/o.wilck;;1362
+lat:      25.6167
+lon:      32.55
+
+[GREEK]
+r.1   παρὰ […]
+r.2   τοῦ περιστερ[εῶνος …]
+r.3   τετρακοσίας […]
+r.4   Ἡρ(ακλείδης) ἐπη(κολούθηκα).
+
+[TRANSLATION]
+1     From […]
+2     of the dovecote […]
+3     four hundred […]
+4     Herakleides, I have checked.

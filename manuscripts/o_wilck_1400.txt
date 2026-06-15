@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1400
+label:    O.Wilck. 1400
+name:     Embankment + bath-tax docket (Nero; slave)
+genre:    receipts
+date:     30. Aug - 28. Sep 67
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25944
+content:  Euporos, slave of Irene, pays 6 dr. 4 ob. embankment + bath-tax (Charax) of year 13, year 14 of Nero.
+tm:       77731
+source:   https://papyri.info/ddbdp/o.wilck;;1400
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διέγρα(ψεν) Εὔπορος δοῦλ(ος) Ἰρήνης
+r.2   ὑπ(ὲρ) χω(ματικοῦ) Χά(ρακος) ιγ (ἔτους) (δραχμὰς) ϛ(τετρώβολον), βαλ(ανικοῦ) (ὀβολοὺς) δ𐅵
+r.3   (γίνονται) ζ (ὀβολοὶ) β [𐅵] καὶ π(ροσδιαγραφόμενα). (ἔτους) ιδ Νέρωνος
+r.4   τοῦ κυρίου δ̣ι̣ ̣οι( ) λ‡α. Ἡρακ( )
+
+[TRANSLATION]
+1     There has paid, Euporos, slave of Irene,
+2     for embankment-tax of (the bank of) Charax, year 13, 6 dr. 4 obols, (for) bath-tax 4½ obols,
+3     total 7 dr. 2½ [obols] and surcharges. Year 14 of Nero
+4     the lord, ...( ) 31. Herak( ).

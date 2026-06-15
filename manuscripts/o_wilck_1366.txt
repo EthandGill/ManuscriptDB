@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1366
+label:    O.Wilck. 1366
+name:     Poll-tax docket (Augustus, bank)
+genre:    receipts
+date:     25. Jun 7 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25709
+content:  Pamonthes pays 5 dr. poll-tax of year 23 at Kephalos' bank through Semenephotis.
+tm:       77701
+source:   https://papyri.info/ddbdp/o.wilck;;1366
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) ἐπὶ τὴν Κερά(λου) τρά(πεζαν)
+r.2   Παμώνθ(ης) Σ ̣ ̣ ̣ ̣χις τετελ( )
+r.3   δ(ι)ὰ Σεμενεφ(ώτιος) ὑπ(ὲρ) λαογ(ραφίας) τοῦ
+r.4   κγ (ἔτους) (δραχμὰς) ε. (ἔτους) κγ Καίσαρος
+r.5   Ἐπεὶφ α.
+
+[TRANSLATION]
+1     There has paid, to the bank of Kephalos,
+2     Pamonthes (son of) S...chis, having paid(?),
+3     through Semenephotis, for poll-tax of
+4     year 23, 5 drachmas. Year 23 of Caesar,
+5     Epeiph 1.

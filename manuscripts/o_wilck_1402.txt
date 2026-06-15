@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1402
+label:    O.Wilck. 1402
+name:     Poll + bath-tax docket (Vespasian)
+genre:    receipts
+date:     23. Apr 71
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25959
+content:  Hermias son of Eponychos pays 10 dr. poll-tax + bath-tax of year 3, year 3 of Vespasian.
+tm:       77733
+source:   https://papyri.info/ddbdp/o.wilck;;1402
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διέγρα(ψεν) Ἑρμίας Ἐπωνύχ(ου) ὑπ(ὲρ) λαο(γραφίας)
+r.2   γ (ἔτους) (δραχμὰς) δέκα , βαλ(ανικοῦ) α (ὀβολὸν) α𐅵 (γίνονται) ια(ὀβολὸς)(ἡμιωβέλιον) καὶ (πρ)ο(σδιαγραφόμενα).
+r.3   (ἔτους) γ Αὐτοκράτορος Καίσαρος Οὐεσπασιανοῦ
+r.4   Σεβαστοῦ Φαρμο(ῦθι) κη. Πασῆ(μις) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     There has paid, Hermias (son of) Eponychos, for poll-tax
+2     of year 3, ten dr., (for) bath-tax 1 dr. 1½ obols, total 11 dr. ½-obol and surcharges.
+3     Year 3 of Imperator Caesar Vespasian
+4     Augustus, Pharmouthi 28. Pasemis, I have signed.

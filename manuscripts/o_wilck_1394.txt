@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1394
+label:    O.Wilck. 1394
+name:     Tax quittance (Nero)
+genre:    receipts
+date:     64 - 65
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 26085
+content:  Psemmonthes and Hermias acknowledge the Hathyr-Choiak tax of year 11 of Nero.
+tm:       77725
+source:   https://papyri.info/ddbdp/o.wilck;;1394
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ψεμ̣μώνθη(ς) Ἀράθης
+r.2   καὶ Πετεχοι( ) Ἑρμίας
+r.3   Ἐπωνύχου χα(ίρειν). ἀπέχω(μεν)
+r.4   παρὰ σοῦ τὸ τέλος
+r.5   Ἁθὺρ καὶ Χοίακ τοῦ
+r.6   ια (ἔτους) Νέρωνος τοῦ κυρίου.
+
+[TRANSLATION]
+1     Psemmonthes (son of) Arathes
+2     and Petechoi( ) (and) Hermias
+3     (son of) Eponychos, greeting. We have
+4     from you the tax (for)
+5     Hathyr and Choiak of
+6     year 11 of Nero the lord.

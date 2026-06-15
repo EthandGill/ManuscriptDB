@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1361
+label:    O.Wilck. 1361
+name:     Tax quittance (copper)
+genre:    receipts
+date:     15. Apr 104 v.Chr.
+language: Greek (Koiné)
+found:    Hermonthis (?)
+held:     (see shelf)
+shelf:    London, University College, Petrie Museum UC 32469
+content:  Theodoros acknowledges to Tauros and his brother 300 dr., year 13(=10), Phamenoth 30.
+tm:       77697
+source:   https://papyri.info/ddbdp/o.wilck;;1361
+lat:      25.6167
+lon:      32.55
+
+[GREEK]
+r.1   Θεόδωρος Ταυρῴ καὶ
+r.2   τῷ ἀ̣δελφῷ χαίρειν
+r.3   ἔχω̣ παρὰ σοῦ (ἔτους) ιγ τοῦ
+r.4   καὶ ι̣ Φαμενὼθ λ Ἴσιδος
+r.5   δραχμ̣ὰς τριακοσίας
+r.6   (γίνονται) τ
+
+[TRANSLATION]
+1     Theodoros to Tauros and
+2     his brother, greeting.
+3     I have from you, year 13
+4     which is also 10, Phamenoth 30, (for) Isis,
+5     three hundred drachmas,
+6     total 300.

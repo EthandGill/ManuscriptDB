@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1391
+label:    O.Wilck. 1391
+name:     Wheat-price docket (Nero, fragment)
+genre:    receipts
+date:     25. Jun - 24. Jul 59
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25844
+content:  Heras pays for the price of heaped wheat, 1 dr. impure silver, year 5 of Nero (fragmentary).
+tm:       77722
+source:   https://papyri.info/ddbdp/o.wilck;;1391
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διέγρα(ψεν) Ἡρᾶς […]
+r.2   ὑπ(ὲρ) τιμῆ(ς) (πυροῦ) σωρο(ῦ) […]
+r.3   ἀργ(υρίου) ῥυπ(αροῦ) (δραχμὴν) μία[ν…]
+r.4   (ἔτους) ε Νέρωνος Κλ[αυδίου Καίσαρος Σεβαστοῦ]
+r.5   Γερμανικοῦ Αὐτοκρά[τορος]
+r.6   Ἐπὶ[φ …]
+
+[TRANSLATION]
+1     There has paid, Heras (son of) […]
+2     for the price of wheat, in heap […]
+3     of impure silver, one drachma […]
+4     Year 5 of Nero Cl[audius Caesar Augustus]
+5     Germanicus Impera[tor]
+6     Epeiph […]

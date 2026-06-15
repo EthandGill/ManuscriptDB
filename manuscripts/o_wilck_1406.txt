@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1406
+label:    O.Wilck. 1406
+name:     Land-survey tax docket (Vespasian)
+genre:    receipts
+date:     9. Oct 78
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25599
+content:  Psennesis son of Horos pays 15 dr. land-survey tax (geometria) of Ophieus, year 11 of Vespasian.
+tm:       77737
+source:   https://papyri.info/ddbdp/o.wilck;;1406
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διέγρα(ψεν) Ψεννῆσις Ὥρου
+r.2   Ψεν(α)μενώφιο(ς) ὑπ(ὲρ) γεο(μετρίας) Ὠφιή(ου)
+r.3   ια (ἔτους) (δραχμὰς) δέκα πέντε (γίνονται) (δραχμαὶ) ιε
+r.4   καὶ τ(ούτ)ω(ν) προσδ(ιαγραφόμενα). (ἔτους) ια Οὐεσπασ(ιανοῦ)
+r.5   τοῦ κυρίου Θὼθ λιβ. Βάσσο(ς).
+
+[TRANSLATION]
+1     There has paid, Psennesis (son of) Horos
+2     (son of) Psenamenophis, for the land-survey tax of Ophieus,
+3     year 11, fifteen drachmas, total 15 dr.
+4     and the surcharges on these. Year 11 of Vespasian
+5     the lord, Thoth 30 (12?). Bassos.

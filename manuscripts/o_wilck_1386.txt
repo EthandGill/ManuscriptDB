@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1386
+label:    O.Wilck. 1386
+name:     Tax quittance (Claudius)
+genre:    receipts
+date:     nach 27. Sep 45
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, University College, Petrie Museum UC 32468
+content:  Imouthes son of Pikos and partners acknowledge the Thoth tax from Petechonsis, year 6 of Claudius.
+tm:       77718
+source:   https://papyri.info/ddbdp/o.wilck;;1386
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ἰμούθ(ης) Πικ(ῶτος) καὶ μέτοχ(οι) Πετεχ(ώνσει)
+r.2   Ψεναμούνιος χα(ίρειν). ἀπέ-
+r.3   χομεν τὸ τέλος Θὼθ
+r.4   (ἔτους) ϛ Τιβερίου Κλαυδ(ίου)
+r.5   Καίσαρος Σεβαστοῦ
+r.6   Γερμανικοῦ Αὐτοκράτορ(ος)
+r.7   οἱμοίως δραχμάς.
+
+[TRANSLATION]
+1     Imouthes (son of) Pikos and partners, to Petechon(sis son of)
+2     Psenamounis, greeting. We have re-
+3     ceived the tax (for) Thoth,
+4     year 6 of Tiberius Claudius
+5     Caesar Augustus
+6     Germanicus Imperator,
+7     likewise (so many) drachmas.

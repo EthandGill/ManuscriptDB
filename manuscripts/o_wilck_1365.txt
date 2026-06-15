@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1365
+label:    O.Wilck. 1365
+name:     Poll-tax docket (Augustus, bank)
+genre:    receipts
+date:     4. Febr. 11 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, University College, Petrie Museum UC 32483
+content:  Horos son of Pichos, pastophoros, pays 5 dr. poll-tax of year 19 at Kephalos' bank.
+tm:       77700
+source:   https://papyri.info/ddbdp/o.wilck;;1365
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διαγεγρ(άφεν) ἐπὶ τὴν Κεφά(λου) τράπ(εζαν)
+r.2   Ὧρος Πιχῶς παστο(φόρος) λαογ(ραφίας)
+r.3   τοῦ ιθ (ἔτους) (δραχμὰς) ε. (ἔτους) ιθ Καίσα(ρος) Μεχ(εὶρ) ι.
+
+[TRANSLATION]
+1     There has paid, to the bank of Kephalos,
+2     Horos (son of) Pichos, pastophoros, (for) poll-tax
+3     of year 19, 5 drachmas. Year 19 of Caesar, Mecheir 10.

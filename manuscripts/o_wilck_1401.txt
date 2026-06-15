@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1401
+label:    O.Wilck. 1401
+name:     Poll-tax docket (Otho)
+genre:    receipts
+date:     12. Apr 69 (day uncertain)
+language: Greek (Koiné)
+found:    Theben (?)
+held:     (see shelf)
+shelf:    London, British Library O 26081
+content:  Psennesis son of Horos pays 5 dr. ½ ob. poll-tax, year 1 of Otho.
+tm:       77732
+source:   https://papyri.info/ddbdp/o.wilck;;1401
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διαγε(γράφηκεν) Ψεννῆ(σις) Ὥρου ὑπ(ὲρ) λαο(γραφίας)
+r.2   κ ̣ ̣ ̣ ̣α (ἔτους) (δραχμὰς) πέντε ἡμ(ιωβέλιον) (γίνονται) ε (ἡμιωβέλιον)
+r.3   καὶ (πρ)ο(σδιαφόμενα). (ἔτους) α Αὐτοκράτορος Μάρκου
+r.4   Ὄθωνος Καίσαρος Σεβαστοῦ
+r.5   Φαρμ(ο)ῦ(θι) ιζ. Πτολ(εμαῖος) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     There has paid, Psennesis (son of) Horos, for poll-tax
+2     of year 20(?), five dr. ½-obol, total 5 ½-obol,
+3     and surcharges. Year 1 of Imperator Marcus
+4     Otho Caesar Augustus,
+5     Pharmouthi 17. Ptolemaios, I have signed.

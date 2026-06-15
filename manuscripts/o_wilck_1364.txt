@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1364
+label:    O.Wilck. 1364
+name:     Palm-tax docket (Augustus, bank)
+genre:    receipts
+date:     15. Aug 15 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, University College, Petrie Museum UC 32470
+content:  Oukatios Alexis, barber, assessed for the date-grove tax of year 15; paid at Kephalos' bank.
+tm:       77699
+source:   https://papyri.info/ddbdp/o.wilck;;1364
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ο̣ὐκάτιος Ἄλεξις κουρε(ὺς)
+r.2   {τέτακ(ται)} τέτακ(ται) ὑπ(ὲρ) ιε (ἔτους) φοι(νικῶνων) δλβ´
+r.3   (δραχμὰς) ε(τετρώβολον) . (ἔτους) ιε Καίσα(ρος) Μεσ(ορὴ) κα.
+r.4   Κέφα(λος) τρ(α)π(εζίτης).
+
+[TRANSLATION]
+1     Oukatios Alexis, barber,
+2     has been assessed for year 15, (for) date-groves, 4 32´,
+3     5 dr. 4 obols. Year 15 of Caesar, Mesore 21.
+4     Kephalos, banker.
