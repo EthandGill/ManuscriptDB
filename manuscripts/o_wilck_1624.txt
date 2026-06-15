@@ -1,0 +1,23 @@
+[META]
+id:       O.Wilck. 1624
+label:    O.Wilck. 1624
+name:     Salt-tax receipt (Ptolemaic)
+genre:    receipts
+date:     27. Jul 230 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Paris, Louvre ODL 661
+content:  Panechates pays 4 obols salt-tax through Apollonios, year 18.
+tm:       4189
+source:   https://papyri.info/ddbdp/o.wilck;;1624
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   (ἔτους) ιη Παῦνι ια ἁλικῆς
+r.2   διʼ Ἀπολλωνίου Πανεχᾶτις (τετρώβολον).
+
+[TRANSLATION]
+1     Year 18, Pauni 11: (of the) salt-tax,
+2     through Apollonios: Panechates, 4 obols.

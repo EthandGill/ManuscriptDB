@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1618
+label:    O.Wilck. 1618
+name:     Cubit-tax docket (Pathyris, Ptolemaic)
+genre:    receipts
+date:     30. May 100 v.Chr.
+language: Greek (Koiné)
+found:    Krokodilopolis (Pathyrites)
+held:     (see shelf)
+shelf:    Zürich, Universität 1905
+content:  Thermouthis and Senmonthis pay the cubit-tax of Pathyris (1000 each) at the Crocodilopolis bank under Paniskos, year 14.
+tm:       44879
+source:   https://papyri.info/ddbdp/o.wilck;;1618
+lat:      
+lon:      
+
+[GREEK]
+r.1   Ἔτους ιδ Παχὼν ιϛ, τ(έτακται) ἐπὶ
+r.2   τὴν ἐν Κρο(κοδίλων) πό(λει) τρά(πεζαν) ἐφʼ ἧς Πανίσκος
+r.3   πηχ(ισμοῦ) Παθύ(ρεως) Θερμοῦθις χιλίας (γίνονται) Α
+r.4   Σενμμῶνθις χιλίας (γίνονται) Α
+r.5   (γίνονται) Γ, Γχ
+r.6   Πανίσκος τρα(πεζίτης).
+
+[TRANSLATION]
+1     Year 14, Pachon 16: there has been paid to
+2     the bank in Krokodilon polis, of which Paniskos (is in charge),
+3     (for) the cubit-tax of Pathyris: Thermouthis, one thousand, total 1000;
+4     Senmonthis, one thousand, total 1000;
+5     total 3(000), 3600.
+6     Paniskos, banker.
