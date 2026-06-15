@@ -1,0 +1,29 @@
+[META]
+id:       BGU 3.967
+label:    BGU 3.967
+name:     Oil-disbursement order (Theon to Sambas)
+genre:    documents
+date:     VI
+language: Greek (Koiné)
+found:    Arsinoites
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8907
+content:  Theon orders Sambas to issue a quarter-xestes of oil to Helladios in the service of the magistrate Eustathios; Byzantine, 1st indiction.
+tm:       37090
+source:   https://papyri.info/ddbdp/bgu;3;967
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Θέων Σαμβᾷ ἐλαιουργῷ·
+r.2   τέτα̣ρ̣τ̣ον ξέστου ἐλαίου παράσχου
+r.3   Ἑλλαδίῳ διαφ(έροντι) Εὐσταθίου ἄ̣ρχ̣(οντος),
+r.4   ἐλ(αίου) ξ(έστου) (τέταρτον). Φαρμοῦθι κιδ ἰν(δικτίονος).
+r.5   (hand 2) † ἐσημει(ωσάμην) ἐλέου ξέστου τέταρτον μόνον †.
+
+[TRANSLATION]
+1     Theon to Sambas the oil-maker:
+2     a quarter of a xestes of oil provide
+3     to Helladios, in the service of(?) Eustathios the magistrate (archon),
+4     of oil, a quarter of a xestes. Pharmouthi 24(?), 1st(?) indiction.
+5     (hand 2) † I have signed for a quarter of a xestes of oil only †.

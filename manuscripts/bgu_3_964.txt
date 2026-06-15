@@ -1,0 +1,25 @@
+[META]
+id:       BGU 3.964
+label:    BGU 3.964
+name:     Oil-disbursement order (Theon to Sambas)
+genre:    documents
+date:     VI
+language: Greek (Koiné)
+found:    Arsinoites
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8910
+content:  Theon orders Sambas to issue 6 xestai of oil to Leontios the sawyer building with hard slabs, through Andreas the chief; Byzantine, 2nd indiction.
+tm:       37087
+source:   https://papyri.info/ddbdp/bgu;3;964
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ⳨ Θέων Σαμβᾷ ἐλαιουργ(ῷ)· ἓξ ξέσ[τα]ς̣ [ἐλ]α̣ί̣ου παράσχο̣υ Λ[ε]ο̣ντίῳ̣ φ ̣[ ̣ ̣ ̣]τ̣( ) πρίστῃ
+r.2   σκληρῶν πλακείων οἰκ̣(οδομοῦντι) ὑ̣[πὲρ τροφ(ῆς)] μ̣[η(νῶν)] β̣ δ̣ι̣ʼ Ἀ̣ν̣δ̣ρ̣έα κεφ(αλαιωτοῦ) λα ̣ξ̣ων ἐπικιμ ,
+r.3   ἐλ(αίου) ξ(έστας) ϛ μόν(ους). Θὼθ κηβ ἰν(δικτίονος). (hand 2) ἐσημει(ωσάμην) ἐλ[έου] ξ̣έστας ἓξ μόνους †. (hand 1) διʼ ἐμοῦ Ποῦσι. (hand 1?)
+
+[TRANSLATION]
+1     (Chi-Rho) Theon to Sambas the oil-maker: provide six xestai of oil to Leontios, ...( ), the sawyer (prister)
+2     building with hard slabs, for [maintenance of] 2 months, through Andreas the chief (kephalaiotes), ...set-over,
+3     of oil, 6 xestai only. Thoth 28, 2nd indiction. (hand 2) I have signed for six xestai of oil only †. (hand 1) Through me, Pousi.

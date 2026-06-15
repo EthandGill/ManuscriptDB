@@ -1,0 +1,31 @@
+[META]
+id:       BGU 3.953
+label:    BGU 3.953
+name:     Order for spices (recipe)
+genre:    documents
+date:     III - IV
+language: Greek (Koiné)
+found:    Herakleopolis
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. without number
+content:  Nikon's order (entolikon) for spices: malabathron, costus, cassia, seseli and balsam-wood, by weight and ounces.
+tm:       31247
+source:   https://papyri.info/ddbdp/bgu;3;953
+lat:      29.0667
+lon:      30.9333
+
+[GREEK]
+r.1   ἐντολικὸν Νίκωνος
+r.2   βαλαβάθρου ὁλκῆς στατῆρας ε,
+r.3   κόστου οὐνκίαν
+r.4   κασίας οὐνκίαν,
+r.5   σέλι δύοτετρόβολον
+r.6   ξύλα βαλσάμου οὐνκίαν
+
+[TRANSLATION]
+1     Order (entolikon) of Nikon:
+2     of malabathron, by weight, 5 staters;
+3     of costus, one ounce;
+4     of cassia, one ounce;
+5     of seseli(?), two (drachmas), four obols;
+6     of balsam-wood, one ounce.

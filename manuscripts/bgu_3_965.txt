@@ -1,0 +1,23 @@
+[META]
+id:       BGU 3.965
+label:    BGU 3.965
+name:     Oil-disbursement order (Theon to Sambas)
+genre:    documents
+date:     VI
+language: Greek (Koiné)
+found:    Arsinoites
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8911
+content:  Theon orders Sambas to issue 3 xestai of oil to Ision the painter for one month; Byzantine, 14th indiction.
+tm:       37088
+source:   https://papyri.info/ddbdp/bgu;3;965
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   [⳨ Θέων Σαμβᾷ ἐλαιουργῷ· τρεῖς ξ]έστας ἐλαίου παράσχου Ἰσίωνι ζωγράφῳ
+r.2   [ὑπὲρ τροφ(ῆς) μη(νὸς) α( ) ἀπὸ Μεσορὴ ιη ἕω]ς Θ̣ὼ̣θ̣ ιη̣ιδ ἰν(δικτίονος), ἐλ(αίου) ξ(έστας) γ μόν(ους). Μεσορὴ ιη ἀρχ(ῇ) ιδ ἰν(δικτίονος).
+
+[TRANSLATION]
+1     [(Chi-Rho) Theon to Sambas the oil-maker: provide three x]estai of oil to Ision the painter (zographos)
+2     [for maintenance of 1 month, from Mesore 18 unti]l Thoth 18, 14th indiction, of oil, 3 xestai only. Mesore 18, beginning of the 14th indiction.

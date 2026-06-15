@@ -1,0 +1,27 @@
+[META]
+id:       BGU 3.963
+label:    BGU 3.963
+name:     Oil-disbursement order (Theon to Sambas)
+genre:    documents
+date:     VI
+language: Greek (Koiné)
+found:    Arsinoites
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8897
+content:  Theon orders Sambas to issue 30 xestai of oil to 10 bucellarii departing for Alexandria with the scholasticus Theodoros; Byzantine, 4th indiction.
+tm:       37086
+source:   https://papyri.info/ddbdp/bgu;3;963
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ⳨ Θέων Σαμβᾷ ἐλαιουργῷ· τρειάκοντα ξέστας ἐλαίου παράσχου βουκκελλ(αρίοις) ι
+r.2   ἀπερχομ(ένοις) ἐν Ἀλεξανδρείᾳ μετὰ τοῦ ἐλλογι̣μ̣(ωτάτου) Θεοδώρου σχο(λαστικοῦ) ὑπὲρ
+r.3   τροφ(ῆς) μ̣η̣(νὸς) α,
+r.4   ἐλ(αίου) ξ(έστας) λ μόν(ους). Ἁθὺρ κηδ ἰν(δικτίονος). (hand 2) † ἐσημει(ωσάμην) ἐλέ̣ου ξέστας τριάκοντα μόνους †.
+
+[TRANSLATION]
+1     (Chi-Rho) Theon to Sambas the oil-maker: provide thirty xestai of oil to the 10 bucellarii (soldiers)
+2     departing to Alexandria with the most eloquent Theodoros the scholasticus, for
+3     maintenance of 1 month,
+4     of oil, 30 xestai only. Hathyr 28, 4th indiction. (hand 2) † I have signed for thirty xestai of oil only †.

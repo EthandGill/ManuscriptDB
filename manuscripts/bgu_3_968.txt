@@ -1,0 +1,27 @@
+[META]
+id:       BGU 3.968
+label:    BGU 3.968
+name:     Oil-disbursement order (Theon to Sambas)
+genre:    documents
+date:     VI
+language: Greek (Koiné)
+found:    Arsinoites
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 8908 b
+content:  Theon orders Sambas to issue 1 xestes of oil to soldiers for two days; Byzantine (fragmentary).
+tm:       37091
+source:   https://papyri.info/ddbdp/bgu;3;968
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   Θέων Σαμβᾷ ἐλαι[ουργῷ· ἕνα ξέστην ἐλαίου]
+r.2   παράσχου στρατιώται[ς …]
+r.3   ὑπὲρ ἡμερ(ῶν) β̣ […]
+r.4   (hand 2) † ἐσημει(ωσάμην) ἐλέου ξέστη̣ν̣ ἕ̣[να μόνον †].
+
+[TRANSLATION]
+1     Theon to Sambas the oil-[maker: one xestes of oil]
+2     provide to the soldiers [...]
+3     for 2 days [...]
+4     (hand 2) † I have signed for o[ne] xestes of oil [only †].
