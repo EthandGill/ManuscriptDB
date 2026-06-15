@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1533
+label:    O.Wilck. 1533
+name:     Grain into granary (Ptolemaic)
+genre:    receipts
+date:     13. Aug 117 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 272
+content:  Dionysios son of Chairemon measures in 2 art. of wheat (counter-payment) into the Diospolis Magna granary, year 53.
+tm:       77834
+source:   https://papyri.info/ddbdp/o.wilck;;1533
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   ἔτους νγ Ἐπεὶφ κζ μ(εμέτρηκεν) εἰς
+r.2   τὸν ἐν Διὸς πόλ(ει) τῆι μ(εγάληι) θη(σαυρὸν) νβ (ἔτους)
+r.3   ἐξ ἀντιδιαγρ(αφῆς) Διονύσιος
+r.4   Χαιρήμονος (πυροῦ) δύο (γίνονται) (πυροῦ) β.
+
+[TRANSLATION]
+1     Year 53, Epeiph 27: there has measured in, into
+2     the granary in Diospolis Magna, (of) year 52,
+3     from the counter-payment: Dionysios
+4     (son of) Chairemon, of wheat two, total wheat 2.

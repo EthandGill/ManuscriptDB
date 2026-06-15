@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1540
+label:    O.Wilck. 1540
+name:     Pasture-tax on sheep docket (Augustus)
+genre:    receipts
+date:     4. May 12 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 210
+content:  Apathes assessed for the pasture-tax of year 17 on 42 sheep, year 20 of Caesar.
+tm:       77836
+source:   https://papyri.info/ddbdp/o.wilck;;1540
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ἀπάθης Μεσορή(ους(?)) τέ(τακται)
+r.2   ἐννόμ(ιον) τοῦ ιζ (ἔτους) προ(βάτων) μβ.
+r.3   (ἔτους) κ Καίσα(ρος) Παχ(ὼν) θ. Κέφα(λος) τρ(α)π(εζίτης).
+
+[TRANSLATION]
+1     Apathes (son of) Mesoreus(?): there has been assessed,
+2     (for) the pasture-tax of year 17, 42 sheep.
+3     Year 20 of Caesar, Pachon 9. Kephalos, banker.

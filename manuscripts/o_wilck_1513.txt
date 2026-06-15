@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1513
+label:    O.Wilck. 1513
+name:     Chaff-delivery receipt (Ptolemaic)
+genre:    receipts
+date:     154 - 153 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 256
+content:  Simon son of Abielos delivers 100 loads of chaff, year 28.
+tm:       77828
+source:   https://papyri.info/ddbdp/o.wilck;;1513
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   ἔτους κη παραδέδω(κεν)
+r.2   εἰς τὸ αὐ(τὸ) (ἔτος) Σίμων Ἀβιήλ̣ου
+r.3   ἀχύ(ρου) ἀγω(γὰς) ρ (γίνονται) ρ.
+r.4   Κ ̣ ̣ ̣ ̣ς
+r.5   Ἰαών.
+r.6   Σίμων Ἀβιήλου.
+
+[TRANSLATION]
+1     Year 28: there has delivered,
+2     for the same year: Simon (son of) Abielos,
+3     of chaff, 100 loads, total 100.
+4     K....s
+5     Iaon.
+6     Simon (son of) Abielos.

@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1556
+label:    O.Wilck. 1556
+name:     Crown-tax docket (Claudius)
+genre:    receipts
+date:     9. Jun 42
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 255
+content:  Pamonthes son of Papeus pays 2 dr. 3 ob. crown-tax for Caesar, year 2 of Claudius, at the bank of Psenmonthes.
+tm:       50802
+source:   https://papyri.info/ddbdp/o.wilck;;1556
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   δια(γεγράφηκεν(?)) ἐπὶ τὴ(ν) Ψενμώ(νθου) Κολ(λούθου) τράπ(εζαν)
+r.2   Παμώ(νθης) Παπεῦτο(ς) ὑπ(ὲρ)
+r.3   στεφάνο(υ) Κα(ί)σ(α)ρος ἀργ(υρίου) (δραχμὰς) δύοτριόβολ(ον) .
+r.4   (ἔτους) β Τιβερίου Κλαυδίου Κα(ίσα)ρος
+r.5   Σεβαστοῦ Γερμανικοῦ
+r.6   Αὐτοκράτορος Παῦνι ιε.
+r.7   (hand 2) Αν̣δ̣ρ̣( ) Πικῶ(τος)
+
+[TRANSLATION]
+1     There has paid(?), to the bank of Psenmonthes (son of) Kollouthos:
+2     Pamonthes (son of) Papeus, for
+3     the crown of Caesar, silver, two dr. 3 obols.
+4     Year 2 of Tiberius Claudius Caesar
+5     Augustus Germanicus
+6     Imperator, Pauni 15.
+7     (2nd hand) Andr( ) (son of) Pikos.

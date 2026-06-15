@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1549
+label:    O.Wilck. 1549
+name:     Poll + bath-tax docket (Tiberius)
+genre:    receipts
+date:     27. Apr 34
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 222
+content:  Phaeris son of Petemonthes pays 10 dr. poll-tax + bath-tax of year 20, year 20 of Tiberius.
+tm:       77845
+source:   https://papyri.info/ddbdp/o.wilck;;1549
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) Φαήριος Πετεμώ(νθου) ὑπ(ὲρ) λαογ(ραφίας)
+r.2   κ (ἔτους) (δραχμὰς) δέκα καὶ βαλ(ανικοῦ) μίαν ὀβολ(ὸν) (ἡμιωβέλιον)
+r.3   (γίνονται) (δραχμαὶ) ια(ὀβολὸς)(ἡμιωβέλιον) καὶ τὰ προσδια(γραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου). (ἔτους) κ
+r.4   Τιβερίου Καίσαρος Σεβαστοῦ
+r.5   Φαρμοῦθ(ι) λ‡β. (hand 2) Πετεμ(ενῶφις) Πικ(ῶτος).
+
+[TRANSLATION]
+1     There has paid, Phaeris (son of) Petemonthes, for poll-tax
+2     of year 20, ten dr. and (for) bath-tax one, 1½ obols,
+3     total 11 dr. 1½ obols, and the surcharges of 1½ obols. Year 20
+4     of Tiberius Caesar Augustus,
+5     Pharmouthi 32. (2nd hand) Petemenophis (son of) Pikos.

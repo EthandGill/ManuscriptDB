@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1553
+label:    O.Wilck. 1553
+name:     Embankment + bath-tax docket (Caligula)
+genre:    receipts
+date:     19. Aug 38
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 206
+content:  Pechytes son of Haronnophris pays 6 dr. 4 ob. embankment + bath-tax of year 2, year 2 of Gaius.
+tm:       50801
+source:   https://papyri.info/ddbdp/o.wilck;;1553
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   δια(γεγράφηκεν) Πεχύτης Ἁροννῶφρις
+r.2   ὑπ(ὲρ) χω(ματικοῦ) β (ἔτους) (δραχμὰς) ἓξ τετρόβολ(ον) , βαλ(ανικοῦ)
+r.3   τετρόβολ(ον) (ἡμιωβέλιον) (γίνονται) (δραχμαὶ) ζ (ὀβολοὶ) β𐅵 καὶ
+r.4   τὰ προσδ(ιαγραφόμενα) ἐξ ὀβολ(οῦ) α𐅵. (ἔτους) β Γαίου
+r.5   Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.6   Μεσορὴ κϛ. (hand 2) Πικ(ῶς) Κεφάλ(ου).
+
+[TRANSLATION]
+1     There has paid, Pechytes (son of) Haronnophris,
+2     for embankment-tax of year 2, six dr. 4 obols, (for) bath-tax
+3     4½ obols, total 7 dr. 2½ obols, and
+4     the surcharges of 1½ obols. Year 2 of Gaius
+5     Caesar Augustus Germanicus,
+6     Mesore 26. (2nd hand) Pikos (son of) Kephalos.

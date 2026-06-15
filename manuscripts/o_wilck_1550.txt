@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1550
+label:    O.Wilck. 1550
+name:     Embankment-tax docket (Tiberius)
+genre:    receipts
+date:     29. Nov 34
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 385
+content:  Phaeris son of Amonios pays 3 dr. 3 ob. embankment-tax of year 20, year 21 of Tiberius.
+tm:       77846
+source:   https://papyri.info/ddbdp/o.wilck;;1550
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) Φαῆρι(ς) Ἀμωνίου ὑπ(ὲρ) χω(ματικοῦ) κ (ἔτους)
+r.2   (δραχμὰς) τρῖς τριόβολ(ον) (γίνονται) γ(τριώβολον) καὶ τὰ προσδ(ιαγραφόμενα)
+r.3   ἑξ(ὀβολοῦ)(ἡμιωβελίου). (ἔτους) κα Τιβερίου Καίσαρος
+r.4   Σεβαστοῦ μη(νὸς) Νέου Σεβαστοῦ
+r.5   λ‡γ. (hand 2) Πετεμε(νῶφις) Πικ(ῶτος).
+
+[TRANSLATION]
+1     There has paid, Phaeris (son of) Amonios, for embankment-tax of year 20,
+2     three dr. 3 obols, total 3 dr. 3 obols, and the surcharges
+3     of 1½ obols. Year 21 of Tiberius Caesar
+4     Augustus, in the month Neos Sebastos
+5     33. (2nd hand) Petemenophis (son of) Pikos.

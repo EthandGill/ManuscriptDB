@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1515
+label:    O.Wilck. 1515
+name:     Bank docket — fine (Ptolemaic)
+genre:    receipts
+date:     24. Febr. - 25. Mar 140 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 201
+content:  Theon son of Hermokles pays a 10-talent fine through Chensthotes at the Diospolis Magna bank, year 30.
+tm:       43461
+source:   https://papyri.info/ddbdp/o.wilck;;1515
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   ἔτους λ Μεχεὶρ τέ(τακται) ἐπ[ὶ τὴν ἐν Διὸς πόλ(ει) τῆι]
+r.2   μεγά(ληι) τρά(πεζαν), ἐφʼ ἧς Ἡρακλείδ[ης ̣ ̣ ̣ ̣ ̣ ̣ ̣ ̣]
+r.3   Θέων Ἑρμοκλέους ὃς κα[ὶ ̣ ̣ ̣ ̣ ̣ ̣ διὰ]
+r.4   Χενσθώτου προστί[μου ̣ ̣ ̣]
+r.5   (τάλαντα) δέκα (γίνονται) (τάλαντα) ι τελῶν [καθηκόντων …]
+r.6   Ἡρακλείδης τ̣[ραπεζίτης].
+
+[TRANSLATION]
+1     Year 30, Mecheir: there has been paid t[o the bank in Diospolis]
+2     Magna, of which Herakleid[es (is in charge), ...]
+3     Theon (son of) Hermokles, also ca[lled ..., through]
+4     Chensthotes, for a fine [...]
+5     ten talents, total 10 talents, the due taxes [...]
+6     Herakleides, b[anker].

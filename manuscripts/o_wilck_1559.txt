@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1559
+label:    O.Wilck. 1559
+name:     Tax quittance (Nero)
+genre:    receipts
+date:     nach 26. Apr 67
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 282
+content:  Kephalos acknowledges Panas' tax (Pachon-Pauni) of year 13 of Nero, with no further claim.
+tm:       77853
+source:   https://papyri.info/ddbdp/o.wilck;;1559
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Κέφαλος Ψεμμ[…]
+r.2   τοῦ ιγ (ἔτους) Νέρωνος τοῦ [κυρίου]
+r.3   Πανᾶτι Παναμέος χαί(ρειν). ἀπ[έχω τὸ τέλος(?)]
+r.4   Παχὼν καὶ Παῦνι ἕω[ς …]
+r.5   καὶ οὐδέν σοι ἐγκαλῶ. [(ἔτους) ιγ Νέρωνος]
+
+[TRANSLATION]
+1     Kephalos (son of) Psemm[...],
+2     of year 13 of Nero the [lord],
+3     to Panas (son of) Panameus, greeting. I h[ave the tax(?)]
+4     (of) Pachon and Pauni up t[o ...]
+5     and I make no claim against you. [Year 13 of Nero]

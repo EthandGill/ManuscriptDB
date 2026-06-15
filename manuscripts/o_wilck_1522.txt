@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1522
+label:    O.Wilck. 1522
+name:     Fishery quarter-tax docket (Ptolemaic)
+genre:    receipts
+date:     18. Febr. 129 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 225
+content:  Biertas pays 1040 (copper) for the fishermen's quarter-tax of years 41 and 40 at the Diospolis Magna bank.
+tm:       43599
+source:   https://papyri.info/ddbdp/o.wilck;;1522
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   (ἔτους) μα Τῦβι κζ τέ(τακται) ἐπὶ τὴν ἐν Διὸς πό(λει)
+r.2   τῆι με(γάληι) τρά(πεζαν) (τετάρτης) ἁλιέων ἑνὸς καὶ μ (ἔτους)
+r.3   Βιηρτᾶς χιλίας τεσσαράκοντα
+r.4   (γίνονται) Αμ. Ἡρακ( ) τρα(πεζίτης) Ασ.
+
+[TRANSLATION]
+1     Year 41, Tybi 27: there has been paid to the bank in Diospolis
+2     Magna, (for) the quarter-tax on fishermen of years 41 and 40:
+3     Biertas, one thousand forty,
+4     total 1040. Herak( ), banker, 1200.

@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1514
+label:    O.Wilck. 1514
+name:     Chaff-delivery receipt (Ptolemaic)
+genre:    receipts
+date:     154 - 153 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 184
+content:  Hermon son of Perigenes delivers 60 (+60) loads of chaff, year 28.
+tm:       77829
+source:   https://papyri.info/ddbdp/o.wilck;;1514
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   ἔτους κη παραδέδωκεν
+r.2   εἰς τὸ αὐ(τὸ) (ἔτος) Ἕρμων Περιγένους
+r.3   ἀχύ(ρου) ἀγω(γὰς) ξ (γίνονται) ξ.
+r.4   Κ ̣ ̣ ̣ ̣ς
+r.5   Ἰαών.
+r.6   ἄλ(λας) ξ Φιλοναύτηι (γίνονται) ρκ.
+r.7   Πλάτ(ων) ̣ι ̣ ̣ ̣( )
+
+[TRANSLATION]
+1     Year 28: there has delivered,
+2     for the same year: Hermon (son of) Perigenes,
+3     of chaff, 60 loads, total 60.
+4     K....s
+5     Iaon.
+6     another 60 to Philonautes, total 120.
+7     Platon ...( )

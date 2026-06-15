@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1528
+label:    O.Wilck. 1528
+name:     Crown-tax of the cleruchs (Ptolemaic)
+genre:    receipts
+date:     15. Mar 121 v.Chr. (day uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 245
+content:  Seutheus son of Petosiris pays 1 talent of copper for the cleruchs' crown-tax, year 49.
+tm:       43321
+source:   https://papyri.info/ddbdp/o.wilck;;1528
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   ἔτος μθ Μεχεὶρ κε
+r.2   διαγρεγαφεν εἰς τὸν στέφ-
+r.3   ανον κληρού(χων) Σευθεὺς
+r.4   Πετοσεί[ρ]ι̣ο̣ς̣ χαλκοῦ ἓν
+r.5   (γίνονται) (τάλαντον) α.
+r.6   Θέων.
+r.7   ἔτους μθ.
+
+[TRANSLATION]
+1     Year 49, Mecheir 25:
+2     there has paid, for the crown(-tax)
+3     of the cleruchs: Seutheus
+4     (son of) Petosiris, of copper one,
+5     total 1 talent.
+6     Theon.
+7     Year 49.

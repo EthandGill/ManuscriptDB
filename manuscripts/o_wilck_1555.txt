@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1555
+label:    O.Wilck. 1555
+name:     Barbers'-tax docket (Claudius)
+genre:    receipts
+date:     27. Febr. 42
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 288
+content:  Ptolis son of Psenenouphis pays 3 dr. 4 ob. barbers'-tax of year 2, year 2 of Claudius.
+tm:       77850
+source:   https://papyri.info/ddbdp/o.wilck;;1555
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διαγ(εγ)ρά(φηκεν) Πτόλις Ψενενοῦφις ὑπ(ὲρ) κουρέ(ων)
+r.2   β (ἔτους) (δραχμὰς) τρῖς τετροβλ (ον) (γίνονται) (δραχμαὶ) γ(τετρώβολον) καὶ προσδ(ιαγραφόμενα)
+r.3   ἐξ (ὀβολοῦ)(ἡμιωβελίου). (ἔτους) β Τιβερίου Κλαυδίου Καίσαρος
+r.4   Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+r.5   μη(νὸς) Νερωνή(ου) [Σεβα]σ(τοῦ) γ. Πε( ).
+
+[TRANSLATION]
+1     There has paid, Ptolis (son of) Psenenouphis, for barbers'(-tax)
+2     of year 2, three dr. 4 obols, total 3 dr. 4 obols, and surcharges
+3     of 1½ obols. Year 2 of Tiberius Claudius Caesar
+4     Augustus Germanicus Imperator,
+5     in the month Neroneios [Augus]tus 3. Pe( ).

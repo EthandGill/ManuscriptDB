@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1531
+label:    O.Wilck. 1531
+name:     Pasture-tax docket (Ptolemaic)
+genre:    receipts
+date:     121 - 120 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 246
+content:  Poreibthis assessed 300 copper for the pastures of year 50.
+tm:       43612
+source:   https://papyri.info/ddbdp/o.wilck;;1531
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   τέτακται εἰς τὰς νομὰς
+r.2   τοῦ ν (ἔτους) Πορείβθις χα(λκοῦ) τ.
+r.3   Πτολεμ(αῖος).
+r.4   (hand 2) Πανίσκωι.
+
+[TRANSLATION]
+1     There has been assessed, for the pastures
+2     of year 50: Poreibthis, of copper 300.
+3     Ptolemaios.
+4     (2nd hand) To Paniskos.

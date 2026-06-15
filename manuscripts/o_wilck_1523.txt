@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1523
+label:    O.Wilck. 1523
+name:     Bird-tax (fowling) quittance (Ptolemaic)
+genre:    receipts
+date:     127 - 126 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 263
+content:  Arion, agent of Xenodokios, acknowledges Bion's bird-tax up to year 44.
+tm:       43621
+source:   https://papyri.info/ddbdp/o.wilck;;1523
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ἀρίων ὁ παρὰ Ξενοδοκίου Βίωνι
+r.2   χαίρειν. ἔχω παρὰ σοῦ τὸ τέλος τῶν
+r.3   πετεινῶν ἕως τοῦ μδ (ἔτους)
+r.4   καὶ κουθὲν σοι ἐγκαλῶ.
+r.5   (ἔτους) μδ.
+
+[TRANSLATION]
+1     Arion, the agent of Xenodokios, to Bion,
+2     greeting. I have from you the tax on
+3     the birds (fowling-tax) up to year 44,
+4     and I make no claim against you.
+5     Year 44.

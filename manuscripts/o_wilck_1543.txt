@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1543
+label:    O.Wilck. 1543
+name:     Vineyard-tax docket (Augustus)
+genre:    receipts
+date:     4. Nov 8 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 252
+content:  Nepheros son of Peteminis pays the vineyard-tax (½ 1/32) of year 22 at Kephalos' bank, year 23 of Caesar.
+tm:       77839
+source:   https://papyri.info/ddbdp/o.wilck;;1543
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) ἐπὶ τὴν Κεφά(λου) τράπ(εζαν)
+r.2   Νεφερῶτος τοῦ Πετεμινις
+r.3   ὑπὲρ τοῦ κβ (ἔτους) ἀμπ(ελώνων) 𐅵λβ´. (ἔτους) κγ
+r.4   Καίσαρος Ἁθὺρ η.
+
+[TRANSLATION]
+1     There has paid, to the bank of Kephalos:
+2     Nepheros son of Peteminis,
+3     for year 22, (of) vineyards, ½ 1/32. Year 23
+4     of Caesar, Hathyr 8.

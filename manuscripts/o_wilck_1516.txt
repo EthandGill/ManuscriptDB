@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1516
+label:    O.Wilck. 1516
+name:     Dyers'-tax docket (Ptolemaic)
+genre:    receipts
+date:     20. Jun 151 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 273
+content:  Ptolemaios pays 400 (copper) dyers'-tax of year 30 at the Diospolis Magna bank.
+tm:       43728
+source:   https://papyri.info/ddbdp/o.wilck;;1516
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   ἔτους λ Παχὼν κδ τέ(τακται) ἐ(πὶ) τ(ὴ)ν
+r.2   ἐν Διὸς πό(λει) τῆι μ(εγάληι) τρά(πεζαν), ἐφʼ ἧς
+r.3   Πτολεμαῖος, βαφέων Πτολ-
+r.4   λεμαῖος λ (ἔτους) τετρακοσίας
+r.5   (γίνονται) υ. Π(τολεμαῖος) τ(ρ)α(τεζίτης) υξ.
+r.6   (hand 2) Ἀβδιοῦς Καροῦρις.
+
+[TRANSLATION]
+1     Year 30, Pachon 24: there has been paid to the
+2     bank in Diospolis Magna, of which
+3     Ptolemaios (is in charge), (for) dyers'(-tax): Ptol-
+4     emaios, of year 30, four hundred,
+5     total 400. Ptolemaios, banker, 460.
+6     (2nd hand) Abdious (son of) Karouris.

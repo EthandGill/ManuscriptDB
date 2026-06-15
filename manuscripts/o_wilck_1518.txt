@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1518
+label:    O.Wilck. 1518
+name:     Apomoira docket (Hermonthis, Ptolemaic)
+genre:    receipts
+date:     15. Dec 149 v.Chr.
+language: Greek (Koiné)
+found:    Hermonthis
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 279
+content:  Psemonthes son of Diphilos pays 235 (copper) apomoira of year 32 at the Hermonthis bank.
+tm:       43560
+source:   https://papyri.info/ddbdp/o.wilck;;1518
+lat:      25.6167
+lon:      32.55
+
+[GREEK]
+r.1   ἔτους λγ Ἁθὺρ ιη τέ(τακται) ἐπὶ
+r.2   τὴν ἐν Ἑρμ(ώνθει) τρά(πεζαν), ἐφʼ ἧς Ἀμμώ(νιος),
+r.3   ἀπομοίρας λβ (ἔτους) Ψεμώ(νθης) Διφίλου
+r.4   ἐξ ἀντιδιαγρ(αφῆς) χα(λκοῦ) ἰσονό(μου) διακοσίας
+r.5   τριάκοντα ε (γίνονται) σλε.
+r.6   χ Ἀμ(μώνιος) τρα(πεζίτης).
+
+[TRANSLATION]
+1     Year 33, Hathyr 18: there has been paid to
+2     the bank in Hermonthis, of which Ammonios (is in charge),
+3     (for) the apomoira of year 32: Psemonthes (son of) Diphilos,
+4     from the counter-payment, of equivalent copper, two hundred
+5     thirty-five, total 235.
+6     600(?). Ammonios, banker.

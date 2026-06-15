@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1545
+label:    O.Wilck. 1545
+name:     Chief-huntsmen's account docket (Augustus)
+genre:    receipts
+date:     28. Jul 10
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 290
+content:  Chieuo( ) son of Teos pays 400 copper to the chief-huntsmen's account of year 39 of Caesar.
+tm:       77841
+source:   https://papyri.info/ddbdp/o.wilck;;1545
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   τέτακται εἰς λόγο(ν) ἀρχικυν̣(ηγ)ῶ(ν) λθ (ἔτους)
+r.2   Καίσαρος Χιευω( ) Τεῶτος χα(λκοὺς) υ (γίνονται) χα(λκοὶ) υ.
+r.3   (ἔτους) λθ [Καίσ(αρος)] Μεσο(ρὴ) δ.
+
+[TRANSLATION]
+1     There has been assessed, to the account of the chief-huntsmen of year 39
+2     of Caesar: Chieuo( ) (son of) Teos, copper 400, total copper 400.
+3     Year 39 [of Caesar], Mesore 4.

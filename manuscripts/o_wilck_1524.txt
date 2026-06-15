@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1524
+label:    O.Wilck. 1524
+name:     Grain into granary (Ptolemaic)
+genre:    receipts
+date:     22. Jun 125 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 215
+content:  Pausiris son of Panechates measures in 7½ ⅓ art. of wheat for the locality, year 45.
+tm:       77832
+source:   https://papyri.info/ddbdp/o.wilck;;1524
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   ἔτους με Παῦνι γ με(μέτρηκεν) εἰς τὸν [ἐν Διὸς πό(λει)]
+r.2   τῆι με(γάληι) θη(σαυρὸν) με (ἔτους) ὑπὲρ τόπ(ου) Παυσ[ῖρις]
+r.3   Πανεχάτου (πυροῦ) ἑπτὰ ἥμισυ τρί[τον]
+r.4   (γίνονται) (πυροῦ) ζ𐅵γ´. Ἀμμώ(νιος).
+
+[TRANSLATION]
+1     Year 45, Pauni 3: there has measured in, into the [granary in Diospolis]
+2     Magna, (for) year 45, for the locality: Paus[iris]
+3     (son of) Panechates, of wheat seven and a half, a th[ird],
+4     total wheat 7½ ⅓. Ammonios.

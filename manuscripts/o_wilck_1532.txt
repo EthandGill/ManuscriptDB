@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1532
+label:    O.Wilck. 1532
+name:     Aroura-tax docket (Ptolemaic)
+genre:    receipts
+date:     11. Sep 119 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 220
+content:  Ammonios son of Hermophilos pays 5400 (copper) aroura-tax of years 50-51 at the Diospolis Magna bank.
+tm:       43427
+source:   https://papyri.info/ddbdp/o.wilck;;1532
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   ἔτους να Μεσορὴ κε τ(έτακται) ἐπὶ τὴν
+r.2   ἐν Διὸς πόλ(ει) τῆι μεγ(άληι) τρά(πεζαν) ἐπαρου(ρίου) ν καὶ
+r.3   να (ἔτους) Ἀμμώνιος Ἑρμοφίλου
+r.4   πεντακισχιλίας τετρακο(σίας) (γίνονται) Ευ.
+r.5   Εἰρη(ναῖος) τρα(πεζίτης).
+r.6   (τάλαντον) α.
+
+[TRANSLATION]
+1     Year 51, Mesore 25: there has been paid to the
+2     bank in Diospolis Magna, (for) the aroura-tax of (years) 50 and
+3     51: Ammonios (son of) Hermophilos,
+4     five thousand four hundred, total 5400.
+5     Eirenaios, banker.
+6     1 talent.

@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1542
+label:    O.Wilck. 1542
+name:     Poll-tax docket (Augustus)
+genre:    receipts
+date:     6. May 9 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 243
+content:  Peteminis son of Harsiesis and his son pay 20 dr. poll-tax of year 21 at Kephalos' bank, year 21 of Caesar.
+tm:       77838
+source:   https://papyri.info/ddbdp/o.wilck;;1542
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διαγεγρά(φηκεν) ἐπὶ τὴν Κεφά(λου) τρά(πεζαν)
+r.2   Πετεμῖνις Ἁρσιήσιος καὶ
+r.3   Νεφερωτος υἱὸς λαογ(ραφίας) τοῦ κα (ἔτους) (δραχμὰς) κ.
+r.4   (ἔτους) κα Καίσαρος Παχ(ὼν) ια.
+
+[TRANSLATION]
+1     There has paid, to the bank of Kephalos:
+2     Peteminis (son of) Harsiesis and
+3     Nepheros (his) son, (for) poll-tax of year 21, 20 dr.
+4     Year 21 of Caesar, Pachon 11.

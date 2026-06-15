@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1554
+label:    O.Wilck. 1554
+name:     Palm-tax docket (Caligula)
+genre:    receipts
+date:     1. Oct 38
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 198
+content:  Phaeris son of Petemonthes pays 6 dr. 3½ ob. date-grove tax of year 2, year 3 of Gaius.
+tm:       77849
+source:   https://papyri.info/ddbdp/o.wilck;;1554
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διαγ(εγ)ρά(φηκεν) Φαῆρι(ς) Πετεμώ(νθου) [ὑπ(ὲρ)] φοι(νικώνων)
+r.2   β (ἔτους) 𐅵δ´ιϛ´λβ´ (δραχμὰς) ϛ (ὀβολοὺς) γ𐅵 καὶ προσ(διαγραφόμενα) ἐξ (ὀβολοῦ)(ἡμιωβελίου). (ἔτους) γ
+r.3   Γαίου Καίσαρος Σεβαστοῦ
+r.4   Γερμανικοῦ, Σεβαστοῦ λ‡δ.
+r.5   (hand 2) Π ̣ ̣ ̣( )
+
+[TRANSLATION]
+1     There has paid, Phaeris (son of) Petemonthes, [for] date-groves
+2     of year 2, ½ ¼ 1/16 1/32, 6 dr. 3½ obols, and surcharges of 1½ obols. Year 3
+3     of Gaius Caesar Augustus
+4     Germanicus, (month) Sebastos 34.
+5     (2nd hand) P...( )
