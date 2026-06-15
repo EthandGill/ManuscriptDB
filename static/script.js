@@ -3,7 +3,7 @@
 const map = L.map('map', {
     crs: L.CRS.Simple,
     minZoom: 4,
-    maxZoom: 7,
+    maxZoom: 8,
     zoomSnap: 0.25,
     zoomDelta: 0.5,
     zoomControl: true,
@@ -14,8 +14,8 @@ const map = L.map('map', {
 L.tileLayer('/static/tiles/{z}/{x}/{y}.png', {
     tileSize: 256,
     minZoom: 1,
-    maxZoom: 7,
-    maxNativeZoom: 6,
+    maxZoom: 8,
+    maxNativeZoom: 6,   // tiles only exist to z6; z7–z8 upscale them for finer zoom
     noWrap: true,
     keepBuffer: 2,
     updateWhenIdle: false
@@ -27,11 +27,12 @@ const TILE_BOUNDS = {
     4: L.latLngBounds([[-128,  96], [-64, 176]]),
     5: L.latLngBounds([[-120,  96], [-72, 176]]),
     6: L.latLngBounds([[-120, 100], [-72, 176]]),
-    7: L.latLngBounds([[-120, 100], [-72, 176]])
+    7: L.latLngBounds([[-120, 100], [-72, 176]]),
+    8: L.latLngBounds([[-120, 100], [-72, 176]])
 };
 
 function applyBounds() {
-    const z = Math.min(7, Math.max(4, Math.round(map.getZoom())));
+    const z = Math.min(8, Math.max(4, Math.round(map.getZoom())));
     map.setMaxBounds(TILE_BOUNDS[z]);
 }
 
