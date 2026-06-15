@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1495
+label:    O.Wilck. 1495
+name:     Tax-sale account docket (Ptolemaic)
+genre:    receipts
+date:     II v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 298
+content:  Ptolemaios and Herakles assess Psenpoeris 1500 copper dr. to the tax-sale account (Thoth-Hathyr), year 2.
+tm:       77821
+source:   https://papyri.info/ddbdp/o.wilck;;1495
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Πτολεμαῖος καὶ Ἡρακλῆς Ψενποήρει χαί(ρειν). τέ(ταξαι) εἰς
+r.2   τὸν τῆς ὠνῆς λόγον ἀπὸ Θῶυτ
+r.3   ἕως Ἁθὺρ χα(λκοῦ) Αφ (γίνονται) Αφ. (ἔτους) β Θῶυτ κ.
+
+[TRANSLATION]
+1     Ptolemaios and Herakles to Psenpoeris, greeting. There has been assessed, to
+2     the account of the (tax-)sale, from Thoth
+3     to Hathyr, of copper, 1500, total 1500. Year 2, Thoth 20.

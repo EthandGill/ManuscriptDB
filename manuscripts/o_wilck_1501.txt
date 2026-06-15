@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1501
+label:    O.Wilck. 1501
+name:     Chaff-levy receipt (Ptolemaic)
+genre:    receipts
+date:     15. Aug - 13. Sep 108 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 264
+content:  Zminis son of Psenminis delivers 27 (loads) of chaff for the due chaff-levy of year 9.
+tm:       77824
+source:   https://papyri.info/ddbdp/o.wilck;;1501
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   ἔτους θ Μεσορὴ
+r.2   παραδέδωκεν
+r.3   εἰς τὸ καθῆκον ἀχυ(ρικὸν)
+r.4   τοῦ θ (ἔτους) Ζμῖνις
+r.5   Ψενμίνιος ἀχύ(ρου)
+r.6   ̣ ̣[ ̣ ̣ ̣ ̣] (γίνονται) κζ
+
+[TRANSLATION]
+1     Year 9, Mesore:
+2     there has delivered,
+3     for the due chaff-levy
+4     of year 9: Zminis
+5     (son of) Psenminis, of chaff
+6     ..[....], total 27.

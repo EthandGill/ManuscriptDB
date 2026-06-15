@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1496
+label:    O.Wilck. 1496
+name:     Bank docket — cleruchs' land (Ptolemaic)
+genre:    receipts
+date:     17. May 115 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 196
+content:  Herakleides pays 3 talents (price of silver) into the cleruchs' account at the Diospolis Magna bank, year 2.
+tm:       43315
+source:   https://papyri.info/ddbdp/o.wilck;;1496
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   ἔτους β Φαρμοῦθι κθ τ(έτακται) ἐπὶ τὴν ἐν
+r.2   [Δι]ὸς πό(λει) τῆι μεγ(άληι) τρ(άπεζαν) εἰς τὴν κ̣α( ) τῶν
+r.3   κλη(ρούχων(?)) Ἡρακλείδης Ἀπολλωνίου διὰ
+r.4   Κόνωνος, τῶι δὲ π̣ρότερον γρ(αφέντι) μ̣ὴ̣ χ[ρ]ή(σηι),
+r.5   τιμὴν ἀργυρίου (δραχμὰς) μ (τάλαντα) τρία (γίνονται) (τάλαντα) γ. Εἰρη(ναῖος) τρα(πεζίτης) (τάλαντα) γΒ
+
+[TRANSLATION]
+1     Year 2, Pharmouthi 29: there has been paid to the bank in
+2     [Dio]spolis Magna, into the ka( ) of the
+3     cleruchs(?): Herakleides (son of) Apollonios, through
+4     Konon — but do not use the earlier-written (receipt) —
+5     the price of silver, 40 dr., three talents, total 3 talents. Eirenaios, banker, 3 talents 2000.

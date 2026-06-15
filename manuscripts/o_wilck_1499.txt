@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 1499
+label:    O.Wilck. 1499
+name:     Linen-tax docket (Ptolemaic)
+genre:    receipts
+date:     13. May 110 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 257
+content:  Apollonios pays the linen-tax of year 7 in instalments totalling 17 talents at the Diospolis Magna bank.
+tm:       43675
+source:   https://papyri.info/ddbdp/o.wilck;;1499
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   ἔτους ζ Τῦβι ιϛ τέ(τακται) ἐπὶ τὴν
+r.2   ἐν Διὸς πόλ(ει) τῆι μεγ(άληι) τρά(πεζαν) ὀθονιηρᾶς
+r.3   ἑβδόμ(ου) (ἔτους) Ἀπολλώνιος (τάλαντα) ἓξ
+r.4   (γίνονται) (τάλαντα) ϛ
+r.5   Φαρμοῦθι β ἄλ(λα) ἓξ (γίνονται) (τάλαντα) ϛ.
+r.6   κϛ (τάλαντα) πέντε (γίνονται) (τάλαντα) ε.
+r.7   (γίνονται) (τάλαντα) ιζ.
+r.8   (τάλαντα) ιζΒπ
+
+[TRANSLATION]
+1     Year 7, Tybi 16: there has been paid to the
+2     bank in Diospolis Magna, (for) the linen-tax
+3     of the seventh year: Apollonios, six talents,
+4     total 6 talents.
+5     Pharmouthi 2, another six, total 6 talents.
+6     (the) 26th, five talents, total 5 talents.
+7     total 17 talents.
+8     17 talents 2580(?).

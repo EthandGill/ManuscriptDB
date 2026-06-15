@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1482
+label:    O.Wilck. 1482
+name:     List of slaves
+genre:    documents
+date:     III
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25546
+content:  A list of named slaves and their owners (Temaus daughter of Kephalos and others).
+tm:       77813
+source:   https://papyri.info/ddbdp/o.wilck;;1482
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ἐπαφρόδ(ιτος) ὁ κ(αὶ) Φθειο(ῦς) δοῦλ(ος) Τεμαῦτο(ς) Κεφά(λου).
+r.2   Ἐπάγαθο(ς) ὁ κ(αὶ) Ἀγαθόπ(ους) δοῦλ(ος) τῆς α(ὐτῆς).
+r.3   Ὤφενο(ς) δοῦλ(ος) τῆ[ς α(ὐτῆς)].
+r.4   Ψᾶις δοῦλ(ος) Ψανσ(νῶτος) Ἀνουβίωνο(ς).
+r.5   Ἀβάσκ(αντος(?)) δοῦλ(ος) Ἡρακ( ) καὶ ἄλ(λων)
+r.6   Παμώ(νθης) Κοτ’τάρου
+r.7   [- …9 -] ̣ ̣ υἱὸς
+
+[TRANSLATION]
+1     Epaphroditos also called Phtheious, slave of Temaus (daughter) of Kephalos.
+2     Epagathos also called Agathopous, slave of the same (woman).
+3     Ophenos, slave of [the same].
+4     Psais, slave of Psansnos (son of) Anoubion.
+5     Abaskantos(?), slave of Herak( ) and others.
+6     Pamonthes (son of) Kottaros.
+7     [NN] .. son.

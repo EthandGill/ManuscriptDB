@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1507
+label:    O.Wilck. 1507
+name:     Ferry-tax docket (Ptolemaic)
+genre:    receipts
+date:     7. Jul 154 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 251
+content:  Sambathaios pays the ferry-boat tax (1 talent 4434 exchange) of year 27 at the Diospolis Magna bank.
+tm:       44250
+source:   https://papyri.info/ddbdp/o.wilck;;1507
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   ἔτους κζ Παῦνι ι τέ(τακται) ἐπὶ
+r.2   τὴν ἐν Διὸς πό(λει) τῆι με(γάληι) τρά(πεζαν), ἐφʼ ἧς
+r.3   Πτολεμαῖος, πορθμίδων κζ (ἔτους)
+r.4   Σαμβαθαῖος οὗ ἀλ(λαγὴ) (τάλαντον) ἓν τετρακισ-
+r.5   χιλίας τετρακοσίας τριάκοντα
+r.6   τέσσαρας (γίνονται) οὗ ἀλ(λαγὴ) (τάλαντον) αΔυλδ.
+r.7   Πτολεμαῖος τρα(πεζίτης) (τάλαντα) β.
+
+[TRANSLATION]
+1     Year 27, Pauni 10: there has been paid to
+2     the bank in Diospolis Magna, of which
+3     Ptolemaios (is in charge), (for) ferry-boats of year 27:
+4     Sambathaios, whose exchange (is) one talent four thou-
+5     sand four hundred thirty-
+6     four, total whose exchange 1 talent 4434.
+7     Ptolemaios, banker, 2 talents.

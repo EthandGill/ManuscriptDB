@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1504
+label:    O.Wilck. 1504
+name:     Ferry-tax docket (Ptolemaic)
+genre:    receipts
+date:     22. Febr. 154 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 286
+content:  Sambathaios pays the ferry-boat tax (867 exchange) of year 27 at the Diospolis Magna bank.
+tm:       43521
+source:   https://papyri.info/ddbdp/o.wilck;;1504
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   ἔτους κζ Τῦβι κε τέ(τακται)
+r.2   ἐπὶ τὴν ἐν Διὸς πό(λει) τῆι με(γάληι) τ̣ρ̣ά̣(πεζαν) ,
+r.3   ἐφʼ ἧς Πτολεμαῖος, πορθμίδων
+r.4   κζ (ἔτους) Σαμβα(θαῖος) οὗ ἀλ(λαγὴ) ὀκτα̣κ̣ο̣σ̣ί̣α̣ς̣
+r.5   ἑξήκοντα ἑπτὰ (γίνονται) οὗ ἀλ(λαγὴ) ωξζ.
+r.6   Πτολεμαῖο̣ς̣ τρ̣α(πεζίτης) Α .
+
+[TRANSLATION]
+1     Year 27, Tybi 25: there has been paid
+2     to the bank in Diospolis Magna,
+3     of which Ptolemaios (is in charge), (for) ferry-boats
+4     of year 27: Sambathaios, whose exchange (is) eight hundred
+5     sixty-seven, total whose exchange 867.
+6     Ptolemaios, banker. 1.

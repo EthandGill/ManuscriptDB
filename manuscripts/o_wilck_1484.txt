@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1484
+label:    O.Wilck. 1484
+name:     Grain account by district
+genre:    documents
+date:     II
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25779
+content:  Grain quantities owed by individuals across the districts Charax, South, and Agora.
+tm:       77815
+source:   https://papyri.info/ddbdp/o.wilck;;1484
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Χ(άρακος) Σενπικῶς Πικῶτο(ς) Φαράθο(υ)
+r.2   διὰ Σενχώ(νσιος) (πυροῦ) αδ´.
+r.3   Νό(του) Καλλίμ(αχος) Ἀπελλᾶτο(ς) (πυροῦ) 𐅵ιβ´.
+r.4   Ἀγο(ρᾶς) Πευτᾶς Ἀπολλωνο( ) (πυροῦ) αιβ´.
+
+[TRANSLATION]
+1     (Of) Charax: Senpikos (son of) Pikos (son of) Pharathos,
+2     through Senchonsis, of wheat 1¼.
+3     (Of the) South: Kallimachos (son of) Apellas, of wheat ½ 1/12.
+4     (Of the) Agora: Peutas (son of) Apollono( ), of wheat 1 1/12.

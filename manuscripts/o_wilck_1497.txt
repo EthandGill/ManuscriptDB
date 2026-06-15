@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1497
+label:    O.Wilck. 1497
+name:     Natron-washing tax docket (Ptolemaic)
+genre:    receipts
+date:     29. Jan 114 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 242
+content:  Apollonios pays 500 (copper) for the natron-washing tax of year 3 at the Diospolis Magna bank.
+tm:       43703
+source:   https://papyri.info/ddbdp/o.wilck;;1497
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   ἔτους γ Τῦβι ια τ(έτακται) ἐπὶ τὴν
+r.2   ἐν Διὸς πόλ(ει) τῆι μεγ(άληι) τρά(πεζαν) νιτρικ(ῆς)
+r.3   πλύνου γ (ἔτους) Ἀπολλώνιος
+r.4   πεντακο(σίας) (γίνονται) φ.
+r.5   —— Εἰρη(ναῖος) τρα(πεζίτης)
+r.6   χ
+
+[TRANSLATION]
+1     Year 3, Tybi 11: there has been paid to the
+2     bank in Diospolis Magna, (for) the natron-
+3     washing of year 3: Apollonios,
+4     five hundred, total 500.
+5     —— Eirenaios, banker
+6     600(?).

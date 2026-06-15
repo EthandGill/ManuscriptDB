@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1470
+label:    O.Wilck. 1470
+name:     Land-survey tax receipt (Severan)
+genre:    receipts
+date:     7. Sep 216
+language: Greek (Koiné)
+found:    Theben (Notos?)
+held:     (see shelf)
+shelf:    London, University College, Petrie Museum UC 32488
+content:  Marcus Aurelius Sarapion pays 6 dr. 2 ob. land-survey tax of year 24, year 25.
+tm:       77802
+source:   https://papyri.info/ddbdp/o.wilck;;1470
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Θὼθ ι τοῦ κε (ἔτους) ὀν[ό(ματος)]
+r.2   Μάρκου Αὐρηλίου Σαραπ̣[(ίωνος)]
+r.3   Ποριεύθου ὑπ(ὲρ) γεω(μετρίας) κδ (ἔτους) (δραχμὰς) [ἓξ(διώβολον)]
+r.4   (γίνονται) (δραχμαὶ) ϛ(διώβολον) Ἀπολ( ) σε(σημείωμαι).
+
+[TRANSLATION]
+1     Thoth 10 of year 25, in the n[ame]
+2     of Marcus Aurelius Sarap[ion]
+3     (son of) Porieuthes, for land-survey tax of year 24, [six dr. 2 obols],
+4     total 6 dr. 2 obols. Apol( ), I have signed.

@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 1503
+label:    O.Wilck. 1503
+name:     Bank docket (Ptolemaic)
+genre:    receipts
+date:     156 - 155 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 238
+content:  Sambas pays 900 (copper) at the Diospolis Magna bank under Ptolemaios, year 26.
+tm:       43574
+source:   https://papyri.info/ddbdp/o.wilck;;1503
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   1[ἔτους κϛ ̣ ̣ ̣ ̣ ̣ ̣ ̣ τέ(τακται)]
+r.2   ἐπὶ τὴν ἐν Διὸς πό(λει) τῆι με(γάληι)
+r.3   [τρά(πεζαν)], ἐφʼ ἧς Πτολεμαῖος,
+r.4   [Σα]μ̣βᾶς κϛ (ἔτους)
+r.5   5[ ̣ ̣]του κώ̣μ̣ου ̣ ̣ ̣ ̣
+r.6   […] ̣ ̣ου τ̣ο̣υ̣σ̣ε̣ν̣ν̣ο̣υ̣
+r.7   ἐνακοσίας (γίνονται) ϡ.
+r.8   Π(τολεμαῖος) τ[ρ]α(πεζίτης).
+
+[TRANSLATION]
+1     [Year 26, ....... there has been paid]
+2     to the bank in Diospolis Magna,
+3     [the bank] of which Ptolemaios (is in charge):
+4     [Sa]mbas, (of) year 26,
+5     [..]tou of the village(?) ....,
+6     […]..ou tousennou(?),
+7     nine hundred, total 900.
+8     Ptolemaios, banker.

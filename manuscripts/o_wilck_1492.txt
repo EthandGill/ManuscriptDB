@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1492
+label:    O.Wilck. 1492
+name:     Salt-tax receipt (Ptolemaic)
+genre:    receipts
+date:     3. May 225 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 261
+content:  Psenasychis pays 3 obols salt-tax through Sostratos, year 23.
+tm:       77820
+source:   https://papyri.info/ddbdp/o.wilck;;1492
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   (ἔτους) κγ Φαμενὼθ ιη ἁλικῆς
+r.2   διὰ Σωστράτου
+r.3   Ψενασῦχις (τριώβολον).
+
+[TRANSLATION]
+1     Year 23, Phamenoth 18: (of the) salt-tax,
+2     through Sostratos:
+3     Psenasychis, 3 obols.

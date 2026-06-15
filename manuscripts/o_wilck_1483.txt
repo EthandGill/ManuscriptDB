@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 1483
+label:    O.Wilck. 1483
+name:     Wine-jar account
+genre:    documents
+date:     II
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25837
+content:  An account of empty and Colophonian wine double-jars, with running totals.
+tm:       77814
+source:   https://papyri.info/ddbdp/o.wilck;;1483
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   λοιπ(ὰ) κοῦφα διπ(λοκεράμων) λ̣γ̣ […]
+r.2   κόλ(οφώνια) λ.
+r.3   ρνϛ
+r.4   ἐπὶ τὸ α(ὐτὸ) κοῦφα διπ(λοκεράμους) φδ […]
+r.5   ἄλλο Βησαρίω(νι) διπ(λοκεράμους) ξδ […]
+r.6   (γίνονται) διπ(λοκεράμοι) φξη, (ἀφʼ ὧν) οἴνου διπ(λοκεράμους) ε[ ̣ ̣…]
+r.7   λοιπ(ὰ) κοῦφα […]
+r.8   διπ(λοκεράμους) λγ.
+
+[TRANSLATION]
+1     Remaining: empty double-jars, 33(?) […]
+2     Colophonian (jars), 30.
+3     156.
+4     Likewise(?): empty double-jars, 504 […]
+5     another, for Besarion, double-jars 64 […]
+6     total double-jars 568, (of which) of wine double-jars 5.[..…]
+7     remaining: empty (jars) […]
+8     double-jars 33.

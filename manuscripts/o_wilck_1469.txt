@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1469
+label:    O.Wilck. 1469
+name:     Rent receipts (Severan)
+genre:    receipts
+date:     11. Mar 215
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25726
+content:  Phmouthos pays 8 dr. 3 ob. (year 23) and later 4 dr. rent of year 24 (South), Severan.
+tm:       77800
+source:   https://papyri.info/ddbdp/o.wilck;;1469
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Φαμεν(ὼθ) ιε τοῦ κγ (ἔτους) ὀνό(ματος)
+r.2   Φμούθου Πε(τε)χ(εσποχράτου) ὑπ(ὲρ) πρ̣ο̣δ( )
+r.3   Χ(άρακος) (δραχμὰς) ὀκτὼ (τριώβολον) (γίνονται) (δραχμαὶ) η(τριώβολον). Ἰου( ).
+r.4   (hand 2) Τῦβι κ τοῦ κε (ἔτους) ὀνό(ματος) Αὐρηλίου
+r.5   Φμουθης Πετεχεσπ(οχράτου) ὑπ(ὲρ) ἐνοικ(ίου)
+r.6   κδ (ἔτους) Νό(του) (δραχμὰς) τέσσαρες (γίνονται) (δραχμαὶ) δ. Ἀπολ( ) σε(σημείωμαι).
+
+[TRANSLATION]
+1     Phamenoth 15 of year 23, in the name
+2     of Phmouthos (son of) Petechespochrates, for prod( )(?),
+3     of Charax, eight dr. 3 obols, total 8 dr. 3 obols. Iou( ).
+4     (2nd hand) Tybi 20 of year 25, in the name of Aurelius
+5     Phmouthes (son of) Petechespochrates, for rent
+6     of year 24, of the South, four drachmas, total 4 dr. Apol( ), I have signed.

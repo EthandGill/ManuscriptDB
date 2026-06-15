@@ -1,0 +1,35 @@
+[META]
+id:       O.Wilck. 1505
+label:    O.Wilck. 1505
+name:     Barley-measure receipt (Diospolis Magna, Ptolemaic)
+genre:    receipts
+date:     9. Apr 154 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 212
+content:  Sambataios son of Abielos measures in 15 ⅓ 1/12 art. of barley into the Diospolis Magna granary, year 27; countersigned.
+tm:       77825
+source:   https://papyri.info/ddbdp/o.wilck;;1505
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   ἔτους κζ Φαμενὼθ ια με(μέτρηκεν)
+r.2   εἰς τὸν ἐν Διὸς πό(λει) τῆι μεγ(άληι) θη(σαυρὸν)
+r.3   κζ (ἔτους) Σαμβαταῖος Ἀβιήλου
+r.4   Ποανεμοῦν κριθῆς
+r.5   δέκα πέντε γ´ιβ´ (γίνονται) κ(ριθῆς) ιεγ´ιβ´.
+r.6   Ἀμβρύων.
+r.7   (hand 2) Ἀπολλώνιος με(μέτρημαι) κριθ(ῆς) δέκα
+r.8   πέντε γ´ιβ´ (γίνονται) κ(ριθῆς) ιεγ´ιβ´.
+
+[TRANSLATION]
+1     Year 27, Phamenoth 11: there has measured in
+2     into the granary in Diospolis Magna,
+3     (of) year 27: Sambataios (son of) Abielos
+4     (in) Poanemoun, of barley
+5     fifteen ⅓ 1/12, total barley 15 ⅓ 1/12.
+6     Ambryon.
+7     (2nd hand) Apollonios: I have received by measure, of barley fifteen
+8     ⅓ 1/12, total barley 15 ⅓ 1/12.

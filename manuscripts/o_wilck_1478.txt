@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1478
+label:    O.Wilck. 1478
+name:     Land-survey tax receipt
+genre:    receipts
+date:     1. Dec 165 (year uncertain)
+language: Greek (Koiné)
+found:    Theben (Charax)
+held:     (see shelf)
+shelf:    London, University College, Petrie Museum UC 32474
+content:  Panameus and Psentphous pay 1 dr. 3 ob. land-survey tax of year 5 (Charax), year 6.
+tm:       77810
+source:   https://papyri.info/ddbdp/o.wilck;;1478
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ἁδρι(ανοῦ) ε τοῦ ϛ (ἔτους) ὀνόμ(ατος)
+r.2   Παναμ(έως) Περμάμιο(ς) κ(αὶ)
+r.3   Ψεντφο(ῦτος) Ψεναμο(ύνιος) ὑπ(ὲρ) γεω(μετρίας)
+r.4   ε (ἔτους) Χ(άρακος) ῥυπ(αρὰν) δραχ(μὴν) μίαν(τριώβολον)
+r.5   (γίνεται) (δραχμὴ) α(τριώβολον) Ὧρο(ς) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Hadrianos 5 of year 6, in the name
+2     of Panameus (son of) Permamis and
+3     Psentphous (son of) Psenamounis, for land-survey tax
+4     of year 5, of Charax, impure one drachma 3 obols,
+5     total 1 dr. 3 obols. Horos, I have signed.

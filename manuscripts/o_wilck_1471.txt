@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1471
+label:    O.Wilck. 1471
+name:     Granary grain-measure (Trajan Decius)
+genre:    receipts
+date:     18. Aug 250
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 26093
+content:  ¼ art. of wheat measured into the metropolis granary (Agora) by Ammonilla, produce of year 1 of Decius.
+tm:       77803
+source:   https://papyri.info/ddbdp/o.wilck;;1471
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   μέτρημα θη(σαυροῦ) μητροπόλ(εως) γ(ενήματος) α (ἔτους)
+r.2   τοῦ κυρίου ἡμῶν Τραιανοῦ
+r.3   Δεκίου Σεβαστοῦ Μεσο(ρὴ) κε Ἀγο(ρᾶς) γ
+r.4   Ἀμμωνίλλα ἡ καὶ Λητοὶ[ς(?)π]υρο(ῦ)
+r.5   τέταρτον (γίνεται) (πυροῦ) δ´. Ὡρίων σε[σ(ημείωμαι)]. (hand 2?) Σέξ-
+r.6   τος σε(σημείωμαι).
+
+[TRANSLATION]
+1     Grain-measure of the granary of the metropolis, of the produce of year 1
+2     of our lord Trajan
+3     Decius Augustus, Mesore 25, (of the) Agora, ⅓(?),
+4     Ammonilla also called Letois(?), of wheat
+5     a quarter, total wheat ¼. Horion, I have si[gned]. (2nd hand?) Sex-
+6     tus, I have signed.

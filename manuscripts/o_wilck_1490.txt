@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1490
+label:    O.Wilck. 1490
+name:     Tax quittance (Ptolemaic)
+genre:    receipts
+date:     31. Mar 174 v.Chr. (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 230
+content:  Ammonios acknowledges 1000 copper dr. from the tax of year 7.
+tm:       77819
+source:   https://papyri.info/ddbdp/o.wilck;;1490
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ἀμμώνιος Πορε ̣[ ̣ ̣]-
+r.2   θη χαί(ρειν). ἔχωι ἀπὸ τοῦ
+r.3   τελου τοῦ ζ (ἔτους)
+r.4   χ(αλκοῦ) χιλίας (γίνονται) Α
+r.5   Μεχεὶρ κζ.
+
+[TRANSLATION]
+1     Ammonios to Pore.[..]-
+2     thes, greeting. I have, from the
+3     tax of year 7,
+4     of copper, one thousand, total 1000.
+5     Mecheir 27.

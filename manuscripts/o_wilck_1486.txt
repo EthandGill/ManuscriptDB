@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1486
+label:    O.Wilck. 1486
+name:     List of men by street
+genre:    documents
+date:     II
+language: Greek (Koiné)
+found:    Theben (?)
+held:     (see shelf)
+shelf:    London, University College, Petrie Museum UC 62609
+content:  A list of four men registered by the street of the Cat-burial-place (Ailourotapheion).
+tm:       77817
+source:   https://papyri.info/ddbdp/o.wilck;;1486
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   πρὸς ῥύμῃ Αἰλουροταφίου
+r.2   Πρεμαῶς Πατομουῶτο(ς) Ἁρβήχ(ιος)
+r.3   Καμῆτις Φθουμώνθ(ου) Ἀμύντου
+r.4   Πασῆμις ν(εώτερος) Ἀβῶτο(ς) Πεκύσιος
+r.5   Παμώνθη(ς) Παναμ(έως) Ψενχώ(νσιος)
+r.6   (γίνονται) ἄνδ(ρες) δ
+
+[TRANSLATION]
+1     By the street of the Cat-burial-place (Ailourotapheion):
+2     Premaos (son of) Patomouos (son of) Harbechis,
+3     Kametis (son of) Phthoumonthes (son of) Amyntas,
+4     Pasemis the younger (son of) Abos (son of) Pekysis,
+5     Pamonthes (son of) Panameus (son of) Psenchonsis,
+6     total: 4 men.

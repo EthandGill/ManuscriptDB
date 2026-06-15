@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1500
+label:    O.Wilck. 1500
+name:     Grain-measure receipt (Hermonthis, Ptolemaic)
+genre:    receipts
+date:     20. Jul 108 v.Chr.
+language: Greek (Koiné)
+found:    Hermonthis
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 193
+content:  Psenamounis son of Phibis measures in 1½ ¼ 1/12 art. of wheat at Hermonthis, year 9.
+tm:       77823
+source:   https://papyri.info/ddbdp/o.wilck;;1500
+lat:      25.6167
+lon:      32.55
+
+[GREEK]
+r.1   ἔτους θ Ἐπεὶφ ε με(μέτρηκεν) Ἑρμ(ώνθεως)
+r.2   Ψεναμοῦνις Φίβιος (πυροῦ)
+r.3   μίαν ἥμ(ι)σ(υ) δ´ιβ´ (γίνονται) (πυροῦ) α𐅵δ´ιβ´.
+r.4   ϛ ἄλ(λας) δωδέκατ(ο)ν (γίνονται) ιβ´.
+r.5   Ἑρμιάς.
+
+[TRANSLATION]
+1     Year 9, Epeiph 5: there has measured in, of Hermonthis,
+2     Psenamounis (son of) Phibis, of wheat
+3     one and a half ¼ 1/12, total wheat 1½ ¼ 1/12.
+4     (the) 6th, another twelfth, total 1/12.
+5     Hermias.

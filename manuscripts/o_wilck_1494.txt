@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1494
+label:    O.Wilck. 1494
+name:     Salt-tax receipt (Ptolemaic)
+genre:    receipts
+date:     29. Sep 256 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 260
+content:  Paa.pa son of Totoes pays 1 dr. 3 ob. salt-tax through Kleitandros, year 30.
+tm:       50799
+source:   https://papyri.info/ddbdp/o.wilck;;1494
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   (ἔτους) λ Μεσορεὶ θ
+r.2   πέπτωκεν ἁ-
+r.3   λικῆς διὰ Κλει-
+r.4   τάνδρου Παα πα
+r.5   Τοτοη (δραχμὴν) α(τριώβολον).
+
+[TRANSLATION]
+1     Year 30, Mesore 9:
+2     there has fallen (been paid), of the salt-
+3     tax, through Klei-
+4     tandros: Paa.pa(?)
+5     (son of) Totoes, 1 dr. 3 obols.

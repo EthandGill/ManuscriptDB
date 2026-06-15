@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1506
+label:    O.Wilck. 1506
+name:     Sales-surtax docket (Ptolemaic)
+genre:    receipts
+date:     28. Apr 154 v.Chr.
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 227
+content:  Apollonios pays 200 (copper) sales-surtax of year 27 at the Diospolis Magna bank.
+tm:       43806
+source:   https://papyri.info/ddbdp/o.wilck;;1506
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   (ἔτους) κζ Φαμενὼθ λ τέ(τακται) ἐπὶ τὴν
+r.2   ἐν Δ(ιὸς) πό(λει) τῆι με(γάληι) τρά(πεζαν), ἐφʼ ἧς
+r.3   Πτολεμαῖος, ἐπωνίων
+r.4   κζ (ἔτους(?)) Ἀπολλώνιος τέλ(ος) διακο-
+r.5   σίας (γίνονται(?)) τέλ(ος) σ. Τρα(πεζίτης)
+r.6   σλ.
+
+[TRANSLATION]
+1     Year 27, Phamenoth 30: there has been paid to the
+2     bank in Diospolis Magna, of which
+3     Ptolemaios (is in charge), (for) sales-surtaxes
+4     of year 27(?): Apollonios, tax, two hund-
+5     red, total tax 200. The banker:
+6     230.

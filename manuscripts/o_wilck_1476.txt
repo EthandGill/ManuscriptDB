@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1476
+label:    O.Wilck. 1476
+name:     Chaff for the cohort
+genre:    receipts
+date:     30. Sep 194 (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25883
+content:  A ⅔-load of chaff delivered to the cohort in the name of Paoupsais, produce of year 2.
+tm:       77808
+source:   https://papyri.info/ddbdp/o.wilck;;1476
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   παρεκο(μίσθη) εἰς τὴν χώρτ(ην) γενή(ματος) β (ἔτους)
+r.2   ὀνό(ματος) Παουψᾶις Ψε(ν)χώ(νσιος) γό(μου) δί[μοι]ρο(ν)
+r.3   (γίνεται) γό(μου) 𐅷. (ἔτους) γ Φαῶ(φι) γ. Φατ(ρῆς) σ(εσημείωμαι).
+
+[TRANSLATION]
+1     There was delivered, to the cohort (cohors), of the produce of year 2,
+2     in the name of Paoupsais (son of) Psenchonsis, of a load, two-thirds,
+3     total ⅔ load. Year 3, Phaophi 3. Phatres, I have signed.

@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1479
+label:    O.Wilck. 1479
+name:     Wine for the annona
+genre:    receipts
+date:     III
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25899
+content:  Sarapion furnishes 1 double-jar of wine for the annona account of year 5.
+tm:       77811
+source:   https://papyri.info/ddbdp/o.wilck;;1479
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   παρέσκες τοῦ ε (ἔτους) ὀνό(ματος) Σαραπίω(νος)
+r.2   Ὡριγ(ένους) ὑπὲρ λόγο(υ) ἀννώ(νης) οἴνου διπ(λοκεράμιον) α
+r.3   Μεσορὴ ια. Πανίσκ(ος) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     You furnished(?), of year 5, in the name of Sarapion
+2     (son of) Origenes, for the account of the annona of wine, 1 double-jar.
+3     Mesore 11. Paniskos, I have signed.

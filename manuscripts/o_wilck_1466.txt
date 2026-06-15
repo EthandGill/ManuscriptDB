@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1466
+label:    O.Wilck. 1466
+name:     Date-price tax receipt (Severan)
+genre:    receipts
+date:     2. Apr 213
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25550
+content:  Panameus pays 4 dr. for the price of dates of year 20, through his sister Senmouthis, year 21.
+tm:       77797
+source:   https://papyri.info/ddbdp/o.wilck;;1466
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Φαρμ(οῦθι) ζ τοῦ κα (ἔτους) ὀνό(ματος)
+r.2   Πανα(μέως) Πετε( ) τοῦ καὶ Κοτ’τάρο(υ)
+r.3   ὑπ(ὲρ) τι(μῆς) φοι(νίκων) γενή(ματος) κ (ἔτους) διὰ Σεν-
+r.4   μούθ(ιος) ἀδελ(φῆς) (δραχμὰς) δ. Ερα( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Pharmouthi 7 of year 21, in the name
+2     of Panameus (son of) Pete( ) also called Kottaros,
+3     for the price of dates of the produce of year 20, through Sen-
+4     mouthis (his) sister, 4 drachmas. Era( ), I have signed.

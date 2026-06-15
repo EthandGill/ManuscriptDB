@@ -1,0 +1,37 @@
+[META]
+id:       O.Wilck. 1502
+label:    O.Wilck. 1502
+name:     Oil-price quittance / letter (Ptolemaic)
+genre:    receipts
+date:     10. Jun 192 v.Chr.
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 190
+content:  NN acknowledges to Philokles the price of oil owed (6 choinikes), year 13.
+tm:       43666
+source:   https://papyri.info/ddbdp/o.wilck;;1502
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   [ ̣ ̣ ̣ ̣ ̣ ̣ Φι]λοκλῆι
+r.2   [χαίρειν]. ἔχω παρὰ σοῦ
+r.3   τὴν τιμὴν τοῦ ἐλαίου
+r.4   οὗ ἔχεις ἕως Τῦβι
+r.5   ἐλαίου χ(οίνικες) ϛ (γίνονται) χ(οίνικες) ϛ χ(οίνικος) 𐅵 ̣ κ̣α̣ι̣
+r.6   ̣ ̣ ̣ ̣κ̣α̣ ̣ ̣ ̣ ἐ̣λ̣α̣ί̣ο̣υ̣
+r.7   ὃ ὤφειλόν σοι.
+r.8   ἔρρωσο (ἔτους) ιγ
+r.9   Παῦν(ι) δ.
+
+[TRANSLATION]
+1     [NN to Phi]lokles,
+2     [greeting]. I have from you
+3     the price of the oil
+4     which you hold until Tybi:
+5     of oil, 6 choinikes, total 6 choinikes ½ choinix(?), and
+6     ....ka... of oil
+7     which I owed you.
+8     Farewell. Year 13,
+9     Pauni 4.
