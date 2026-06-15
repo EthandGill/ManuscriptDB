@@ -170,9 +170,9 @@ def do_scaffold(json_path):
             skipped.append(f"# SKIPPED {ident}: no Greek preserved")
             continue
         if genre is None:
-            skipped.append(f"# SKIPPED {ident}: unclassified Subjects "
-                           f"({rec.get('subjects')!r}) — add a rule or build by hand")
-            continue
+            # Never skip a record that has preserved Greek: default an
+            # unrecognised Subjects keyword to the generic "documents" genre.
+            genre = "documents"
         la, lo = coords_for(rec.get("origin"))
         cite = citation(ident)
         lines = [f"{REC_SEP}{ident}"]
