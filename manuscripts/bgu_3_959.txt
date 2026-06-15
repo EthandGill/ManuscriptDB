@@ -1,0 +1,41 @@
+[META]
+id:       BGU 3.959
+label:    BGU 3.959
+name:     Register-extract: sale of land-share (Soknopaiou Nesos)
+genre:    documents
+date:     nach 27. Aug 148
+language: Greek (Koiné)
+found:    Arsinoites
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. 959
+content:  Extract from the property-register (diastroma): a minor's guardian sells, for 160 dr., a katoikic land-share near Apias to Chrysarion; year 11 of Antoninus.
+tm:       9418
+source:   https://papyri.info/ddbdp/bgu;3;959
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1   ἐκ διαστρώ(ματος) Σοκνοπ(αίου) Νήσου
+r.2   στοιχ(είου) ε κολ(λήματος) ιζ
+r.3   Ἑριεὺς θήλ(εια) Στοτοή(τιος) τοῦ Στοτοή(τιος) μητ(ρὸς)
+r.4   Ταφιώμι[ο(ς)] ἀφῆλ(ιξ) διʼ Αρ ̣[ ̣] ̣τ( )
+r.5   Πανεφρέμ(μιος) τ[οῦ Σ]τοτοή(τιος) ια (ἔτει)
+r.6   Ἀντω(νίνου) Καί[σαρος] τ[οῦ] κυρίου ἐπα-
+r.7   γο(μένων) δ ̣[ ̣ ̣ ̣ τ]οῦ [ ̣] μέρο(υς) κλ[ή-]
+r.8   ρου κ(ατ)οι(κικοῦ) κοι[νῶ]ν̣ καὶ ἀδιαιρέτ(ων) (ἀρουρῶν) γ
+r.9   περὶ Ἀπιάδα (δραχμῶν) ρξ παρὰ Χρυσαρίο(υ)
+r.10   Ἥρωνο(ς) τοῦ Ἑρμανουβ(ίωνος) ἀστῆς
+r.11   ἀπογεγρ(αμμένης) τῇ αὐτῇ ἡμέρᾳ τὰς ὅλας
+
+[TRANSLATION]
+1     From the register (diastroma) of Soknopaiou Nesos,
+2     element 5, sheet (kollema) 17:
+3     Herieus, female, (daughter) of Stotoetis (son) of Stotoetis, her mother being
+4     Taphiomis, a minor, through Ar.[.]..t( )
+5     (son) of Panephremmis (son of) [S]totoetis, in the 11th year
+6     of Anto(ninus) Cae[sar] the lord, on the epa-
+7     gomenal (day) 4 [...], of the ... part of a katoi-
+8     kic holding, of jointly-owned and undivided 3 arouras
+9     around Apias, for 160 dr., from Chrysarion
+10    (daughter) of Heron (son) of Hermanoubion, a townswoman,
+11    having registered, on the same day, the whole (property).

@@ -1,0 +1,27 @@
+[META]
+id:       BGU 3.951
+label:    BGU 3.951
+name:     Expense account (denarii)
+genre:    documents
+date:     IV - VII
+language: Greek (Koiné)
+found:    Herakleopolis
+held:     (see shelf)
+shelf:    Berlin, Staatliche Museen P. without number
+content:  A short account of expenditure: 80 myriads of denarii for the house, 300 for purple-dye wages and other items.
+tm:       33253
+source:   https://papyri.info/ddbdp/bgu;3;951
+lat:      29.0667
+lon:      30.9333
+
+[GREEK]
+r.1   ἀναλώματος
+r.2   εἰς τὴν οἰκ(ίαν) (δηναρίων μυριάδες) π
+r.3   μισθ(οῦ) πορφύρας
+r.4   καὶ ἄλλων (δηναρίων μυριάδες) τ
+
+[TRANSLATION]
+1     Of expense:
+2     for the house, 80 myriads of denarii;
+3     wages of purple-(dye),
+4     and of others, 300 myriads of denarii.
