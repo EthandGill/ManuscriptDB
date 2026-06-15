@@ -1175,8 +1175,10 @@ html, body {
     transform: translateX(-50%);
 
     padding: 4px 10px;
-    background: #cc0000;
-    border: 1px solid #990000;
+    /* Colour-matched to the orb's genre palette (set per-orb via JS);
+       falls back to the original red when no variable is present. */
+    background: var(--orb-badge-bg, #cc0000);
+    border: 1px solid var(--orb-badge-border, #990000);
     border-radius: 5px;
     color: #ffffff;
 
@@ -1202,8 +1204,8 @@ html, body {
 /* Invert colours when the mouse moves directly onto the badge */
 .ms-orb-count:hover {
     background: #ffffff;
-    color: #cc0000;
-    border-color: #cc0000;
+    color: var(--orb-badge-bg, #cc0000);
+    border-color: var(--orb-badge-bg, #cc0000);
 }
 
 /* ── LEGACY INDIVIDUAL MARKER STYLES (kept for reference) ── */

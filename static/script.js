@@ -1601,6 +1601,12 @@ function refreshLocationOrb(locKey) {
         palette = GENRE_PALETTES[dominant] || ORB_GREEN;
     }
     const grad = orbGradient(intensity, palette);
+    // Solid colours for the hover count badge so it matches this orb's genre
+    // colour rather than always showing the default red. Vivid mid-stop fills
+    // the badge; the darker inner stop is its border. Exposed as CSS variables
+    // (inherited by the .ms-orb-count child) so the CSS handles hover inversion.
+    const badgeBg     = `rgb(${palette[1].join(',')})`;
+    const badgeBorder = `rgb(${palette[0].join(',')})`;
 
     // Lightweight DOM update when only gradient or text changes (size unchanged);
     // full setIcon when size changes so Leaflet keeps the anchor centred.
@@ -1609,6 +1615,8 @@ function refreshLocationOrb(locKey) {
     const hoverLabel = `${count} MSS`;
     if (circle && circle.style.width === `${size * 2}px`) {
         circle.style.background = grad;
+        circle.style.setProperty('--orb-badge-bg', badgeBg);
+        circle.style.setProperty('--orb-badge-border', badgeBorder);
         const tip = circle.querySelector('.ms-orb-count');
         if (tip) tip.textContent = hoverLabel;
     } else {
@@ -1616,7 +1624,7 @@ function refreshLocationOrb(locKey) {
             className: 'ms-orb-icon',
             iconSize:   [size * 2, size * 2],
             iconAnchor: [size, size],
-            html: `<div class="ms-orb-circle" style="width:${size*2}px;height:${size*2}px;background:${grad}"><div class="ms-orb-count">${hoverLabel}</div></div>`,
+            html: `<div class="ms-orb-circle" style="width:${size*2}px;height:${size*2}px;background:${grad};--orb-badge-bg:${badgeBg};--orb-badge-border:${badgeBorder}"><div class="ms-orb-count">${hoverLabel}</div></div>`,
         }));
     }
 
