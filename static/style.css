@@ -1941,9 +1941,13 @@ html, body {
     width: 320px;
     max-width: 86vw;
     z-index: 1150;
-    background: #0d0c07;
-    border-right: 1px solid #2a2416;
-    box-shadow: 6px 0 24px rgba(0,0,0,0.6);
+    background: #c9a96e;              /* gold — inverted from the old dark panel */
+    border: 1px solid #b0935a;
+    border-left: none;
+    border-radius: 0 16px 16px 0;     /* rounded outer (right) edge */
+    box-shadow: 6px 0 24px rgba(0,0,0,0.55);
+    color: #0d0c07;                   /* black lettering */
+    overflow: hidden;                 /* clip children to the rounded corners */
     transform: translateX(-100%);
     transition: transform 0.22s ease;
     display: flex;
@@ -1957,27 +1961,27 @@ html, body {
     align-items: center;
     justify-content: space-between;
     padding: 13px 14px 10px;
-    border-bottom: 1px solid #2a2416;
+    border-bottom: 1px solid rgba(0,0,0,0.28);
     flex-shrink: 0;
 }
 #agent-title {
     font-size: 12px;
-    font-weight: 700;
-    color: #c9a96e;
+    font-weight: 800;
+    color: #0d0c07;
     letter-spacing: 0.08em;
     text-transform: uppercase;
 }
 #agent-close {
     background: none;
     border: none;
-    color: #6a5d42;
+    color: #5a4a2a;
     font-size: 15px;
     line-height: 1;
     cursor: pointer;
     padding: 0 2px;
     transition: color 0.12s;
 }
-#agent-close:hover { color: #c9a96e; }
+#agent-close:hover { color: #0d0c07; }
 
 #agent-history {
     flex: 1;
@@ -1989,7 +1993,7 @@ html, body {
 }
 #agent-history:empty::before {
     content: "Ask in plain language — \"camel sales\", \"letters from soldiers\", \"tax receipts from the Fayum\"…";
-    color: #4a4030;
+    color: #6a5328;
     font-size: 11px;
     line-height: 1.5;
     padding: 4px 2px;
@@ -1998,12 +2002,12 @@ html, body {
 .agent-q {
     align-self: flex-end;
     max-width: 88%;
-    background: #1e1a12;
-    border: 1px solid #3a3020;
+    background: #0d0c07;
+    border: 1px solid #000;
     border-radius: 8px 8px 2px 8px;
     padding: 6px 9px;
     font-size: 11px;
-    color: #d6c39a;
+    color: #e8dcc0;
     line-height: 1.4;
 }
 .agent-a {
@@ -2014,21 +2018,34 @@ html, body {
 }
 .agent-answer {
     font-size: 11px;
-    color: #a89878;
+    color: #1a1408;
     line-height: 1.45;
     padding: 0 2px;
 }
 .agent-fallback-note {
     font-size: 9px;
-    color: #6a5d42;
+    color: #5a4a2a;
     font-style: italic;
     padding: 0 2px;
 }
 .agent-error {
     font-size: 11px;
-    color: #b07a6e;
+    color: #7a2414;
     padding: 0 2px;
 }
+
+/* Tier headers grouping results by quality of fit (Perfect / Great / Good …) */
+.agent-tier {
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 0.10em;
+    text-transform: uppercase;
+    color: #0d0c07;
+    margin: 9px 2px 1px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid rgba(0,0,0,0.32);
+}
+.agent-tier:first-child { margin-top: 2px; }
 
 /* Typing indicator */
 .agent-typing {
@@ -2039,7 +2056,7 @@ html, body {
 .agent-typing span {
     width: 5px; height: 5px;
     border-radius: 50%;
-    background: #6a5d42;
+    background: #5a4a2a;
     animation: agentPulse 1.1s infinite ease-in-out;
 }
 .agent-typing span:nth-child(2) { animation-delay: 0.18s; }
@@ -2056,14 +2073,14 @@ html, body {
     gap: 2px;
     width: 100%;
     text-align: left;
-    background: #15130d;
-    border: 1px solid #2a2416;
+    background: #e6d6ad;              /* raised cream card on the gold panel */
+    border: 1px solid rgba(0,0,0,0.28);
     border-radius: 5px;
     padding: 7px 9px;
     cursor: pointer;
     transition: background 0.12s, border-color 0.12s;
 }
-.agent-result:hover { background: #221d12; border-color: #c9a96e; }
+.agent-result:hover { background: #f1e4c4; border-color: #0d0c07; }
 .agent-result-top {
     display: flex;
     align-items: center;
@@ -2072,8 +2089,8 @@ html, body {
 }
 .agent-result-id {
     font-size: 11px;
-    font-weight: 700;
-    color: #c9a96e;
+    font-weight: 800;
+    color: #0d0c07;
     letter-spacing: 0.04em;
 }
 .agent-result-genre {
@@ -2083,8 +2100,9 @@ html, body {
     text-transform: uppercase;
     padding: 1px 5px;
     border-radius: 3px;
+    background: #14120c;             /* dark pill keeps the genre colours legible */
     border: 1px solid #3a3020;
-    color: #8a7c5c;
+    color: #cdbb94;
 }
 .agent-result-genre.g-new-testament { color: #c98a7a; border-color: #5a3a30; }
 .agent-result-genre.g-receipts      { color: #7aa97a; border-color: #2f4a2f; }
@@ -2094,17 +2112,17 @@ html, body {
 .agent-result-genre.g-documents     { color: #8a9cc0; border-color: #353f52; }
 .agent-result-date {
     font-size: 9px;
-    color: #6a5d42;
+    color: #6a5328;
     margin-left: auto;
 }
 .agent-result-name {
     font-size: 10px;
-    color: #8a7c5c;
+    color: #3a3020;
     line-height: 1.3;
 }
 .agent-result-reason {
     font-size: 10px;
-    color: #a89878;
+    color: #4a3d1e;
     font-style: italic;
     line-height: 1.35;
 }
@@ -2114,25 +2132,25 @@ html, body {
     display: flex;
     gap: 6px;
     padding: 10px;
-    border-top: 1px solid #2a2416;
+    border-top: 1px solid rgba(0,0,0,0.28);
     flex-shrink: 0;
 }
 #agent-input {
     flex: 1;
-    background: #15130d;
-    border: 1px solid #2a2416;
+    background: #f3e7c9;
+    border: 1px solid #8a6f3a;
     border-radius: 5px;
     padding: 7px 9px;
     font-size: 11px;
-    color: #d6c39a;
+    color: #1a1408;
     font-family: 'Inter', sans-serif;
     outline: none;
 }
-#agent-input:focus { border-color: #c9a96e; }
-#agent-input::placeholder { color: #4a4030; }
+#agent-input:focus { border-color: #0d0c07; }
+#agent-input::placeholder { color: #8a734a; }
 #agent-send {
-    background: #1e1a12;
-    border: 1px solid #3a3020;
+    background: #0d0c07;
+    border: 1px solid #0d0c07;
     border-radius: 5px;
     color: #c9a96e;
     font-size: 13px;
@@ -2140,7 +2158,7 @@ html, body {
     cursor: pointer;
     transition: background 0.12s, border-color 0.12s;
 }
-#agent-send:hover { background: #2a2416; border-color: #c9a96e; }
+#agent-send:hover { background: #1e1a12; border-color: #000; }
 #agent-send:disabled { opacity: 0.45; cursor: default; }
 
 /* ── WELCOME SCREEN ─────────────────────────────────────── */

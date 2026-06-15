@@ -2840,7 +2840,28 @@ async function fetchJson(url, { retries = 3, delay = 250 } = {}) {
                 note.textContent = 'AI unavailable — showing basic keyword results.';
                 a.appendChild(note);
             }
-            (data.matches || []).forEach(m => a.appendChild(buildAgentResult(m)));
+            // Group results into quality-of-fit tiers, best first, each under its
+            // own header ("Perfect fit", "Great fit", …). Order within a tier is
+            // the model's ranking. Headers only show for tiers that have matches.
+            const matches = data.matches || [];
+            const TIER_ORDER = ['perfect', 'great', 'good', 'fair', 'weak'];
+            const TIER_LABEL = {
+                perfect: 'Perfect fit', great: 'Great fit', good: 'Good fit',
+                fair: 'Fair fit', weak: 'Weak fit',
+            };
+            const tierOf = m => {
+                const f = (m.fit || '').toLowerCase();
+                return TIER_ORDER.includes(f) ? f : 'good';
+            };
+            TIER_ORDER.forEach(tier => {
+                const inTier = matches.filter(m => tierOf(m) === tier);
+                if (!inTier.length) return;
+                const head = document.createElement('div');
+                head.className = 'agent-tier';
+                head.textContent = TIER_LABEL[tier];
+                a.appendChild(head);
+                inTier.forEach(m => a.appendChild(buildAgentResult(m)));
+            });
         }
 
         history.appendChild(a);

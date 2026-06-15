@@ -277,12 +277,19 @@ the words "seed-grain" never appear; "letters from soldiers" should match
 letters whose writer is a soldier; "earliest copy of Matthew" should use the
 dates. Use the genre field (new-testament, receipts, contracts, letters, petitions, documents).
 
+For each match, judge HOW WELL it fits the query and label it with a "fit" tier,
+one of: "perfect", "great", "good", "fair", "weak" (best to worst). Reserve
+"perfect" for manuscripts that squarely and unmistakably answer the query; use
+the lower tiers for looser or more tangential matches. Be honest and selective —
+do not inflate everything to "perfect".
+
 Respond with ONLY a JSON object, no markdown fences, no prose around it:
 {"answer": "<1-2 conversational sentences summarizing what you found>",
- "matches": [{"id": "<exact id from the catalog>", "reason": "<one short line: why it matches>"}]}
+ "matches": [{"id": "<exact id from the catalog>", "fit": "<perfect|great|good|fair|weak>", "reason": "<one short line: why it matches>"}]}
 
-At most 15 matches. Only use ids that appear in the catalog, copied exactly.
-If nothing fits, return an empty matches array and a polite answer saying so.
+List matches best-fit first. At most 15 matches. Only use ids that appear in the
+catalog, copied exactly. If nothing fits, return an empty matches array and a
+polite answer saying so.
 
 CATALOG:
 """
@@ -379,7 +386,15 @@ def _keyword_fallback(query, rows):
         if score > 0:
             scored.append((score, r))
     scored.sort(key=lambda s: -s[0])
-    matches = [{"id": r["id"], "reason": "Keyword match"} for _, r in scored[:15]]
+    top = scored[0][0] if scored else 0
+    def _fb_fit(score):
+        ratio = score / top if top else 0
+        if ratio >= 0.85: return "great"
+        if ratio >= 0.55: return "good"
+        if ratio >= 0.30: return "fair"
+        return "weak"
+    matches = [{"id": r["id"], "fit": _fb_fit(score), "reason": "Keyword match"}
+               for score, r in scored[:15]]
     n = len(matches)
     answer = (f"Found {n} manuscript{'s' if n != 1 else ''} by keyword search."
               if n else "No manuscripts matched those keywords.")
@@ -446,6 +461,9 @@ def api_agent_search():
         r = by_id.get((m.get("id") or "").strip())
         if not r:
             continue
+        fit = (m.get("fit") or "").strip().lower()
+        if fit not in ("perfect", "great", "good", "fair", "weak"):
+            fit = "good"
         matches.append({
             "id":     r["id"],
             "label":  r["label"],
@@ -454,6 +472,7 @@ def api_agent_search():
             "date":   r["date"],
             "lat":    r["lat"],
             "lon":    r["lon"],
+            "fit":    fit,
             "reason": (m.get("reason") or "").strip() or "Relevant match",
         })
 
