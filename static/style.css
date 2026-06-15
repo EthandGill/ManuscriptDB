@@ -1951,6 +1951,15 @@ html, body {
 }
 #agent-tab:hover .agent-tab-arrow { transform: translateX(4px); }
 
+/* When the agent panel is open, hide the tab and the map's zoom +/- control so
+   they don't show through the panel's semi-transparent middle. */
+#map.agent-open #agent-tab,
+#map.agent-open .leaflet-control-zoom {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+}
+
 /* Slide-out panel overlaying the map's left edge */
 #agent-panel {
     position: absolute;
@@ -2017,10 +2026,11 @@ html, body {
 #agent-history:empty::before {
     content: "Ask Tertius about any papyrological or epigraphical source that you might find useful.\A\ASearch for sources that might help your research \"Are there any donkey rentals that might make sense of Mark 11:1-7?\".\A\AThis is your own A.I. agent — type your thoughts and queries in a casual way to help your research.";
     white-space: pre-line;
-    color: #5a4012;
-    font-size: 11px;
-    line-height: 1.5;
-    padding: 4px 2px;
+    color: #0d0c07;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.55;
+    padding: 6px 2px;
 }
 
 .agent-q {
@@ -2159,6 +2169,7 @@ html, body {
     background: #c9a96e;              /* solid gold bottom bar */
     border-top: 1px solid rgba(0,0,0,0.28);
     flex-shrink: 0;
+    align-items: flex-end;           /* keep Send pinned to the bottom as the box grows */
 }
 #agent-input {
     flex: 1;
@@ -2170,6 +2181,13 @@ html, body {
     color: #1a1408;
     font-family: 'Inter', sans-serif;
     outline: none;
+    /* Auto-growing textarea: starts one row, expands with the prompt (JS sets the
+       height), scrolls once it hits the cap. */
+    resize: none;
+    overflow-y: auto;
+    line-height: 1.4;
+    max-height: 150px;
+    box-sizing: border-box;
 }
 #agent-input:focus { border-color: #0d0c07; }
 #agent-input::placeholder { color: #8a734a; }

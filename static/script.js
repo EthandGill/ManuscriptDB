@@ -2224,8 +2224,9 @@ function renderEpigraphySection() {
                     ? `<div class="genre-empty">No inscriptions yet</div>`
                     : items.map(e => `
                         <div class="ms-item" data-id="${e.id}">
-                            <span class="ms-item-name">${e.name}</span>
-                            <span class="ms-item-meta">${e.date || ''}${e.language ? ' · ' + e.language : ''}</span>
+                            <span class="ms-item-name">${e.title || e.name}</span>
+                            <span class="ms-item-meta">${[e.name, e.date].filter(Boolean).join(' · ')}</span>
+                            <button class="ms-item-locate" title="Locate on map" aria-label="Locate on map">📍</button>
                         </div>`).join('')}
             </div>`;
 
@@ -2234,9 +2235,16 @@ function renderEpigraphySection() {
             el.classList.toggle('open');
         });
 
-        // Inscription item click — pan to location on map (wired up later)
+        // Inscription item: row click opens the Writing Stand reader; the 📍 button
+        // pans the map to the find-spot (secondary action).
         el.querySelectorAll('.ms-item').forEach(row => {
             row.addEventListener('click', () => {
+                const insc = epigraphy.find(e => e.id === row.dataset.id);
+                if (insc) openInscriptionReader(insc);
+            });
+            const locate = row.querySelector('.ms-item-locate');
+            if (locate) locate.addEventListener('click', ev => {
+                ev.stopPropagation();
                 const insc = epigraphy.find(e => e.id === row.dataset.id);
                 if (insc && insc.lat != null && insc.lon != null) {
                     map.panTo(geoToCRS(insc.lon, insc.lat));
@@ -2245,6 +2253,27 @@ function renderEpigraphySection() {
         });
 
         container.appendChild(el);
+    });
+}
+
+// Open an EDH inscription in the Writing Stand reader. Inscriptions store their
+// text as plain line-arrays, so we shape them into the {label,name,date,language,
+// found,greek,translation} object openWritingStand expects, turning each text line
+// into a numbered verse row (ref = line number) for buildVerseHtml().
+function openInscriptionReader(insc) {
+    const toVerses = lines => (lines || []).map((line, i) => ({ ref: String(i + 1), text: line }));
+    const place = (insc.name && insc.name.includes(' · '))
+        ? insc.name.split(' · ').slice(1).join(' · ')
+        : '';
+    openWritingStand({
+        id:          insc.id,
+        label:       insc.title || insc.name || insc.id,
+        name:        insc.name || '',
+        date:        insc.date,
+        language:    insc.language || 'Latin',
+        found:       place,
+        greek:       toVerses(insc.text),
+        translation: toVerses(insc.translation),
     });
 }
 
@@ -2599,6 +2628,14 @@ function openWritingStand(ms, book) {
     document.getElementById('ws-ms-id').textContent   = ms.label || ms.id || '';
     document.getElementById('ws-ms-name').textContent = ms.name  || '';
 
+    // Source-column label follows the source language (Latin for inscriptions,
+    // Greek for NT manuscripts).
+    const srcHeader = document.querySelector('#ws-greek-col .ws-col-header');
+    if (srcHeader) {
+        srcHeader.textContent = (ms.language && /lat/i.test(ms.language) && !/greek/i.test(ms.language))
+            ? 'Latin Text' : 'Greek Text';
+    }
+
     // Metadata footer
     const metaEl = document.getElementById('ws-meta');
     metaEl.innerHTML = [
@@ -2776,14 +2813,33 @@ async function fetchJson(url, { retries = 3, delay = 250 } = {}) {
         L.DomEvent.disableScrollPropagation(el);
     });
 
-    const openPanel  = () => { panel.classList.add('open');  input.focus(); };
-    const closePanel = () => panel.classList.remove('open');
+    const mapEl = document.getElementById('map');
+    // While the panel is open, hide the tab and the zoom +/- control: the panel's
+    // middle is semi-transparent, so anything behind it would show through and
+    // clutter the text.
+    const openPanel  = () => { panel.classList.add('open');  mapEl?.classList.add('agent-open');  input.focus(); };
+    const closePanel = () => { panel.classList.remove('open'); mapEl?.classList.remove('agent-open'); };
 
     tab.addEventListener('click', () =>
         panel.classList.contains('open') ? closePanel() : openPanel());
     document.getElementById('agent-close').addEventListener('click', closePanel);
     document.addEventListener('keydown', e => {
         if (e.key === 'Escape' && panel.classList.contains('open')) closePanel();
+    });
+
+    // Grow the search box to fit the whole prompt as it's typed; Enter submits,
+    // Shift+Enter inserts a newline.
+    const autosizeInput = () => {
+        input.style.height = 'auto';
+        input.style.height = Math.min(input.scrollHeight, 150) + 'px';
+    };
+    input.addEventListener('input', autosizeInput);
+    input.addEventListener('keydown', e => {
+        if (e.key === 'Enter' && !e.shiftKey) {
+            e.preventDefault();
+            if (form.requestSubmit) form.requestSubmit();
+            else form.dispatchEvent(new Event('submit', { cancelable: true, bubbles: true }));
+        }
     });
 
     let busy = false;
@@ -2795,6 +2851,7 @@ async function fetchJson(url, { retries = 3, delay = 250 } = {}) {
         busy = true;
         sendBtn.disabled = true;
         input.value = '';
+        autosizeInput();          // collapse the box back to one row
 
         // User bubble
         const q = document.createElement('div');
