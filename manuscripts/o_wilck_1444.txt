@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1444
+label:    O.Wilck. 1444
+name:     Canal-account receipt (Antoninus)
+genre:    receipts
+date:     29. Sep 154
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 26066
+content:  Chempneus pays 29 dr. for the month-Thoth account (canal) of year 18 of Antoninus.
+tm:       77775
+source:   https://papyri.info/ddbdp/o.wilck;;1444
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διέγρ(αψεν) Χεμπνεὺς Ἰναρῶ(τος)
+r.2   εἰς ἀρίθ(μησιν) μη(νὸς) Θὼθ τοῦ ιη (ἔτους)
+r.3   ὑπ(ὲρ(?)) χε ̣ ̣χ̣θ̣( ) κ̣α̣ὶ̣ διώ(ρυγος) Πετεχώ(νσιος)
+r.4   ἀργ(υρίου) ῥυπ(αρὰς) (δραχμὰς) εἴκοσι ἐννέα
+r.5   (γίνονται) (δραχμαὶ) κθ. (ἔτους) ιη Ἀντωνίνου
+r.6   Καίσαρος τοῦ κυρίου Φαῶ(φι) β. Καρο( ) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     There has paid, Chempneus (son of) Inaros,
+2     for the account of the month Thoth of year 18,
+3     for ...( ) and the canal, (in the name of) Petechonsis,
+4     of silver, impure, twenty-nine drachmas,
+5     total 29 dr. Year 18 of Antoninus
+6     Caesar the lord, Phaophi 2. Karo( ), I have signed.

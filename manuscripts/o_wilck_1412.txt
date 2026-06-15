@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1412
+label:    O.Wilck. 1412
+name:     Tax quittance (Domitian)
+genre:    receipts
+date:     7. May 88
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25956
+content:  Chesphmois and partners acknowledge the Phamenoth-Pharmouthi tax of year 7 of Domitian.
+tm:       77743
+source:   https://papyri.info/ddbdp/o.wilck;;1412
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Χεσφμόις Ψεναμοῦνις καὶ μ[έτ(οχοι)]
+r.2   Ὡριων Φαήριος χα(ίρειν). ἀπέχομεν̣
+r.3   τὸ τέλος τοῦ Φαμενὼτ καὶ Φαρμοῦ(θι).
+r.4   (ἔτους) ζ Δομιτιανοῦ τοῦ κυρίου Παχ(ὼν) ιβ.
+
+[TRANSLATION]
+1     Chesphmois (and) Psenamounis and pa[rtners],
+2     (to) Horion (son of) Phaeris, greeting. We have
+3     the tax of Phamenoth and Pharmouthi.
+4     Year 7 of Domitian the lord, Pachon 12.

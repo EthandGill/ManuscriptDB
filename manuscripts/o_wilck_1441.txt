@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1441
+label:    O.Wilck. 1441
+name:     Poll-tax receipt (Antoninus)
+genre:    receipts
+date:     5. Mar 150
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 26008
+content:  Dioskoros and Pamonthes, money-tax collectors of the South, receipt 8 dr. poll-tax of year 13 of Antoninus.
+tm:       77772
+source:   https://papyri.info/ddbdp/o.wilck;;1441
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Διόσκορος καὶ Παμώνθ(ης) πράκ(τορες) ἀργ(υρικῆς) Νό(του)
+r.2   Ἀρύνχι Ψεντκυς̣( ) Πετοσίριο(ς) μη(τρὸς) ̣ ̣ ̣( )
+r.3   ἔσχ(ομεν) ὑπ(ὲρ) λαο(γραφίας) ιγ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) ὀκτὼ (γίνονται) ῥυ(παραὶ) (δραχμαὶ) η. (ἔτους) ιγ
+r.4   Ἀντωνίνου τοῦ κυρίου Φαμε(νὼθ) θ. Ψενμῖ(νις).
+r.5   (hand 2) Ἀμώ(νιος) σεση(μείωμαι).
+
+[TRANSLATION]
+1     Dioskoros and Pamonthes, collectors of the money-tax of the South,
+2     (to) Arynchis (son of) Psentkys (son of) Petosiris, his mother being ...( ).
+3     We have, for poll-tax of year 13, impure eight drachmas, total impure 8 dr. Year 13
+4     of Antoninus the lord, Phamenoth 9. Psenminis.
+5     (2nd hand) Amonios, I have signed.

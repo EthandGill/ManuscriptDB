@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1417
+label:    O.Wilck. 1417
+name:     Bath-tax quittance (Trajan)
+genre:    receipts
+date:     24. May 100
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25596
+content:  Psenchonsis and partners, tax-farmers of the sacred granary, acknowledge bath-tax of year 3 of Trajan.
+tm:       77748
+source:   https://papyri.info/ddbdp/o.wilck;;1417
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ψενχῶ(νσις) καὶ (μέτοχοι) τελ(ῶναι) θησ(αυροῦ) ἱε(ρῶν)
+r.2   Ψεναμούνιο(ς) Ἐπωνύχ(ου) χα(ίρειν). ἀπεσχω(μεν)
+r.3   πα[ρ]ὰ σο(ῦ) τὸ βαλ(ανικὸν) τοῦ γ (ἔτους) Τραιανοῦ
+r.4   τοῦ κυρίου Παχὼ(ν) κθ.
+
+[TRANSLATION]
+1     Psenchonsis and partners, tax-farmers of the granary of the sacred (estates),
+2     (to) Psenamounis (son of) Eponychos, greeting. We have
+3     from you the bath-tax of year 3 of Trajan
+4     the lord, Pachon 29.

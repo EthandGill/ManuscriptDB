@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1450
+label:    O.Wilck. 1450
+name:     Granary grain-measure (Antoninus & Verus)
+genre:    receipts
+date:     1. Sep 165
+language: Greek (Koiné)
+found:    Theben (Charax)
+held:     (see shelf)
+shelf:    London, University College, Petrie Museum UC 32487
+content:  1/8 art. of wheat measured into the metropolis granary, produce of year 5, in the name of Pamonthes' heirs (Charax), year 6 of Antoninus and Verus.
+tm:       77781
+source:   https://papyri.info/ddbdp/o.wilck;;1450
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   μέ(τρημα) θησ(αυροῦ) μη(τροπόλεως) γενήμ(ατος) ε (ἔτους) Ἀντωνί̣ν̣ο̣υ̣
+r.2   καὶ Οὐήρου τῶν κυρίων Σεβαστῶν
+r.3   Θὼθ δ τοῦ ϛ (ἔτους) ὑπ(ὲρ) Χ(άρακος) ὀνό(ματος)
+r.4   κληρο(νόμων) Παμών(θου) Διονυσίου
+r.5   (πυροῦ) ὄγδοον (γίνεται) (πυροῦ) η´. Πανα(μεῦς) σεσημ(είωμαι)
+r.6   (πυροῦ) η´.
+
+[TRANSLATION]
+1     Grain-measure of the granary of the metropolis, of the produce of year 5 of Antoninus
+2     and Verus the lords Augusti,
+3     Thoth 4 of year 6, for Charax, in the name
+4     of the heirs of Pamonthes (son of) Dionysios,
+5     of wheat, an eighth, total wheat 1/8. Panameus, I have signed.
+6     wheat 1/8.

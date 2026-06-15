@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1422
+label:    O.Wilck. 1422
+name:     Watchtower-tax receipt (Hadrian)
+genre:    receipts
+date:     23. Jan 129
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 12630
+content:  Apollodoros and partners receipt 4 dr. 5 ob. watchtower-tax of Charax, year 13 of Hadrian.
+tm:       77753
+source:   https://papyri.info/ddbdp/o.wilck;;1422
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ἀπολλόδ(ωρος) καὶ μέτοχ(οι) Καμῆτις ὁ(μοίως)
+r.2   Ταύρων μη(τρὸς) Τβαναχα ̣ιου. ἔσχ(ομεν) ὑπ(ὲρ)
+r.3   σκοπ(έλων) καὶ ἄ(λλων) Χά(ρακος) ιγ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) δ (ὀβολοὺς) ε. (ἔτους) ιγ
+r.4   Ἁδριανοῦ τοῦ κυρίου Τῦβι κη; Ἀπολ( ).
+r.5   (hand 2) Ποριεύθης σεση(μείωμαι).
+
+[TRANSLATION]
+1     Apollodoros and partners (and) Kametis, likewise,
+2     (to) Tauron, his mother being Tbanacha.iou. We have, for
+3     watchtowers and others, of Charax, year 13, impure 4 dr. 5 obols. Year 13
+4     of Hadrian the lord, Tybi 28; Apol( ).
+5     (2nd hand) Porieuthes, I have signed.

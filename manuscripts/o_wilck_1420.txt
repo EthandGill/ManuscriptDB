@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1420
+label:    O.Wilck. 1420
+name:     State-property rent receipt (Hadrian)
+genre:    receipts
+date:     11. Aug 119
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25674
+content:  Apollodoros the collector receipts 8 dr. 3 ob. administration-rent (Charax) of year 3 of Hadrian.
+tm:       77751
+source:   https://papyri.info/ddbdp/o.wilck;;1420
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ἀπολλόδ(ωρος) πράκ(τωρ) (ὀνόµατι κληρονόµων) Χαταβοῦς
+r.2   Παναμέως διὰ Ἡρᾶτ(ος) Χαταβ(οῦτος).
+r.3   ἀπέχ(ω) [τὸ] ἐνοίκ(ιον) διοικ(ήσεως) Χά(ρακος) γ (ἔτους)
+r.4   ῥυπ(αρὰς) (δραχμὰς) ὀκ[τὼ (τριώβολον)] (γίνονται) ῥυ(παραὶ) (δραχμαὶ) η(τριώβολον). (ἔτους) γ
+r.5   Ἁδριανοῦ Καίσαρος
+r.6   τοῦ κυρίου Μεσορὴ ιη.
+r.7   Πα ̣ ̣ ̣( ) σεσ(ημείωμαι).
+
+[TRANSLATION]
+1     Apollodoros, collector, (in the name of the heirs) of Chatabous
+2     (son of) Panameus, through Heras (son of) Chatabous.
+3     I have [the] rent of the administration (state property), of Charax, year 3,
+4     impure 8 dr. [3 obols], total impure 8 dr. 3 obols. Year 3
+5     of Hadrian Caesar
+6     the lord, Mesore 18.
+7     Pa...( ), I have signed.

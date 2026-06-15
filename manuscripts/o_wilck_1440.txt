@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1440
+label:    O.Wilck. 1440
+name:     Canal-tax receipt (Antoninus)
+genre:    receipts
+date:     29. Dec 148
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, University College, Petrie Museum UC 32476
+content:  Ammonios pays 2 dr. 4 ob. for the royal canal and the canal of the Women, year 12 of Antoninus.
+tm:       77771
+source:   https://papyri.info/ddbdp/o.wilck;;1440
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διέγρ(αψεν) Ἀμμώ(νιος) ὁμ(οίως) ὑπ(ὲρ) διώ(ρυγος) βασιλ̣[(ικῆς)]
+r.2   καὶ Γυναικ(ῶν) εἰς ἀρίθ(μησιν) μηνὸς
+r.3   Ἁδριανοῦ δραχ(μὰς) δύο(τετρώβολον)
+r.4   (γίνονται) (δραχμαὶ) β(τετρώβολον). (ἔτους) ιβ Ἀντωνίνου
+r.5   Καίσαρος τοῦ κυρίου
+r.6   Τῦβ(ι) γ. Κέφα(λος)
+
+[TRANSLATION]
+1     There has paid, Ammonios, likewise, for the royal canal
+2     and (the canal) of the Women, for the account of the month
+3     Hadrianos, two drachmas 4 obols,
+4     total 2 dr. 4 obols. Year 12 of Antoninus
+5     Caesar the lord,
+6     Tybi 3. Kephalos.

@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1430
+label:    O.Wilck. 1430
+name:     Statue-tax receipt (Antoninus)
+genre:    receipts
+date:     28. Oct - 26. Dec 138
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25939
+content:  Pikos and partners acknowledge payment for the statue of Caesar Hadrian, year 2 of Antoninus.
+tm:       77761
+source:   https://papyri.info/ddbdp/o.wilck;;1430
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Πικῶς Πτολεμαίου καὶ μ(έτοχοι) ἐπιτ(ηρηταὶ) τέλ(ους)
+r.2   τοῦ β (ἔτους) Παμ(ώ)νθ(ῃ) Ἰναρῶτος. ἀπέσχ(ομεν)
+r.3   Ἐ(πὶ)φ κϛ ὑπ(ὲρ) ἀνδ(ριάντος) Καίσαρος Ἁδριανοῦ
+r.4   τοῦ α(ὐτοῦ) β (ἔτους) Ἀντωνί[νου Καίσαρος]
+r.5   τοῦ κυρίου ̣[…]
+
+[TRANSLATION]
+1     Pikos (son of) Ptolemaios and partners, overseers of the tax
+2     of year 2, (to) Pamonthes (son of) Inaros. We have received,
+3     Epeiph 26, for the statue of Caesar Hadrian,
+4     of the same year 2 of Antoni[nus Caesar]
+5     the lord, .[...]

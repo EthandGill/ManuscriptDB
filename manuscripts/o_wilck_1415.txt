@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1415
+label:    O.Wilck. 1415
+name:     Bath-tax quittance (Domitian)
+genre:    receipts
+date:     28. May 96
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25998
+content:  Apion and partners, tax-farmers of the sacred granary, acknowledge bath-tax of year 15 of Domitian.
+tm:       77746
+source:   https://papyri.info/ddbdp/o.wilck;;1415
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ἀπίων κ(αὶ) μέ(τοχοι) τελ(ῶναι) θησ(αυροῦ) ἱερῶ(ν)
+r.2   Ἐπωνύχῳ Ὥρου χα(ίρειν). ἀπέχω
+r.3   παρὰ (σοῦ) τὸ βαλ(ανικὸν) τοῦ ιε (ἔτους)
+r.4   Δομιτιανοῦ τοῦ κυρίου
+r.5   Παῦνι γ.
+
+[TRANSLATION]
+1     Apion and partners, tax-farmers of the granary of the sacred (estates),
+2     to Eponychos (son of) Horos, greeting. I have
+3     from you the bath-tax of year 15
+4     of Domitian the lord,
+5     Pauni 3.

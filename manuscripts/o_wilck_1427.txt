@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1427
+label:    O.Wilck. 1427
+name:     Land-survey tax receipt (Hadrian)
+genre:    receipts
+date:     22. Aug 136
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25706
+content:  Asklas and Soter, collectors of Charax, receipt 4½ ob. land-survey tax of year 20 of Hadrian.
+tm:       77758
+source:   https://papyri.info/ddbdp/o.wilck;;1427
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ἀσκλᾶς καὶ Σωτὴ(ρ) πράκ(τορες) ἀργυ(ρικῆς) Χά(ρακος)
+r.2   Ἁροννώφρει Πεχοίτου.
+r.3   ἔσχ(ομεν) ὑπ(ὲρ) γεομ(ετρίας) κ (ἔτους) (πέμπτου) μέρους
+r.4   ῥυπ(αροὺς) (ὀβολοὺς) δ𐅵 (γίνονται) (ὀβολοὶ) δ𐅵. (ἔτους) κ Ἁδριανοῦ
+r.5   τοῦ κυρίου Μεσορὴ κθ.
+
+[TRANSLATION]
+1     Asklas and Soter, collectors of the money-tax of Charax,
+2     (to) Haronnophris (son of) Pechois.
+3     We have, for land-survey tax of year 20, of the fifth part,
+4     impure 4½ obols, total 4½ obols. Year 20 of Hadrian
+5     the lord, Mesore 29.

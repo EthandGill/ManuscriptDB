@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1451
+label:    O.Wilck. 1451
+name:     Granary grain-measure (Marcus Aurelius)
+genre:    receipts
+date:     5. Jun 169
+language: Greek (Koiné)
+found:    Theben (Notos und Lips)
+held:     (see shelf)
+shelf:    London, University College, Petrie Museum UC 32472
+content:  2 art. of wheat measured into the village granary, produce of year 9, in the name of Horos (South & West), Marcus Aurelius.
+tm:       77782
+source:   https://papyri.info/ddbdp/o.wilck;;1451
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   μέ(τρημα) θησα(υροῦ) κωμ(ῶν) γενή(ματος) θ (ἔτους) Αὐρηλίου
+r.2   Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.3   Παῦνι ια ὑπ(ὲρ) Νό(του καὶ) Λ(ιβὸς) ὀνό(ματος) Ὥρου
+r.4   Ἐπωνύχου διὰ Νήπιος Ὥρου Ὀν-
+r.5   νώ(φριος) (πυροῦ) δύο (γίνονται) (πυροῦ) β Πάμφιλ(ος) διὰ Πανίσ(κου) σεση(μείωμαι)
+r.6   (πυροῦ) β
+
+[TRANSLATION]
+1     Grain-measure of the granary of the villages, of the produce of year 9 of Aurelius
+2     Antoninus Caesar the lord,
+3     Pauni 11, for the South and West, in the name of Horos
+4     (son of) Eponychos, through Nepis (son of) Horos (son of) On-
+5     nophris, of wheat two, total wheat 2. Pamphilos, through Paniskos, I have signed.
+6     wheat 2.

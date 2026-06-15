@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1418
+label:    O.Wilck. 1418
+name:     Tax account (Trajan)
+genre:    receipts
+date:     1. Dec 109
+language: Greek (Koiné)
+found:    Hermonthis oder Ta Memnoneia (Theben)
+held:     (see shelf)
+shelf:    London, British Library O 25681
+content:  Running account of Psenmonthes' tax payments (4 dr. each) across months of year 12 of Trajan.
+tm:       77749
+source:   https://papyri.info/ddbdp/o.wilck;;1418
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διέ(γραψεν) Ψενμώνθ(ης) ̣ ̣ ̣( ) Ἀπολλὼς Ὀρσενούπ(εως) ὑπ(ὲρ)
+r.2   πορ̣ρ̣ιο( ) ιβ (ἔτους) (δραχμὰς) δ. (ἔτους) ιβ Τραιανοῦ Καίσαρος
+r.3   τοῦ κυρίου Φαμενὼ(θ) θ ὑπ(ὲρ) προ̣υ̣( ) (δραχμὰς) δ
+r.4   Φαρμο(ῦθι) κδ (δραχμὰς) δ, Παχὼ(ν) δ (δραχμὰς) δ, Παῦνι β ̣ (δραχμὰς) δ,
+r.5   Φαῶφ(ι) ϛ (δραχμὰς) δ, ὁμ(οίως) Ἁθὺρ θ Χ(άρακος) (δραχμὴν) α(τριώβολον), ἄ(λλων) α(διώβολον) χ(αλκοὺς 2)
+r.6   Χ[οία]χ ε Χά(ρακος) (δραχμὰς) δ ̣ ̣
+r.7   (hand 2) ιβ (ἔτους) Φαρμ(οῦθι) ζ καὶ ̣ ̣ ̣( ) ιβ (ἔτους) (δραχμὰς) β χ(αλκοὺς) β.
+
+[TRANSLATION]
+1     There has paid, Psenmonthes ...( ) (son of) Apollos (son of) Orsenoupis, for
+2     ...( ) of year 12, 4 dr. Year 12 of Trajan Caesar
+3     the lord, Phamenoth 9; for ...( ), 4 dr.;
+4     Pharmouthi 24, 4 dr.; Pachon 4, 4 dr.; Pauni 2, 4 dr.;
+5     Phaophi 6, 4 dr.; likewise Hathyr 9, of Charax, 1 dr. 3 obols, of others 1 dr. 2 obols, 2 chalkoi;
+6     Choiak 5, of Charax, 4 dr. ..;
+7     (2nd hand) Year 12, Pharmouthi 7, and ...( ), year 12, 2 dr. 2 chalkoi.

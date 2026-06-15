@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1436
+label:    O.Wilck. 1436
+name:     Chaff-delivery receipt (Antoninus)
+genre:    receipts
+date:     18. Jun 142
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    London, British Library O 25696
+content:  Permamis delivers one load of chaff, year 5 of Antoninus.
+tm:       77767
+source:   https://papyri.info/ddbdp/o.wilck;;1436
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   παρεκόμισε Περμᾶμις ἀχύρου
+r.2   γόμ(ον) ἕνα . (ἔτους) ε Ἀντωνίνου
+r.3   Καίσαρος τοῦ κυρίου Παῦνι κθ.
+r.4   (hand 2) Οὐιτρα̣σ̣ις σεσημείωμαι.
+
+[TRANSLATION]
+1     Permamis delivered one load of chaff.
+2     Year 5 of Antoninus
+3     Caesar the lord, Pauni 29.
+4     (2nd hand) Vitrasis, I have signed.
