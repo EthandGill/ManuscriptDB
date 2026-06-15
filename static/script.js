@@ -5,7 +5,8 @@ const map = L.map('map', {
     minZoom: 4,
     maxZoom: 8,
     zoomSnap: 0.25,
-    zoomDelta: 0.5,
+    zoomDelta: 1,                 // +/- buttons & double-click jump a full level
+    wheelPxPerZoomLevel: 30,      // scroll-wheel zooms ~2x faster (default 60)
     zoomControl: true,
     inertia: true,
     maxBoundsViscosity: 1.0
