@@ -63,6 +63,14 @@ COORDS = {
     "apollonopolis": (24.9780, 32.8730),
     "ombos":       (24.4667, 32.9333),
     "diospolis":   (25.7188, 32.6573),
+    "pselkis":     (23.1925, 32.7472),   # Pselchis / Dakka, Nubia
+    "koptos":      (25.9967, 32.8167),   # Coptos / Qift
+    "mendes":      (30.9626, 31.5046),   # Mendes / Tell el-Ruba (Delta)
+    "pathyr":      (25.4833, 32.4833),   # Pathyris / Krokodilopolis (Gebelein)
+    "sakkara":     (29.8711, 31.2165),   # Saqqara (Memphites)
+    "myra":        (36.2589, 29.9853),   # Myra, Lycia (Demre)
+    "latopol":     (25.2933, 32.5547),   # Latopolis / Esna
+    "eileithy":    (25.1197, 32.7958),   # Eileithyiaspolis / El-Kab
 }
 
 SERIES_DISPLAY = {

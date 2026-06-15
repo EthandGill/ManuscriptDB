@@ -152,5 +152,26 @@
     "modern": "Tell Atrib (Banha), Egypt",
     "lat": 30.47,
     "lon": 31.18
+  },
+  {
+    "id": "pselkis",
+    "name": "Pselchis",
+    "modern": "Dakka, Nubia (Egypt)",
+    "lat": 23.1925,
+    "lon": 32.7472
+  },
+  {
+    "id": "mendes",
+    "name": "Mendes",
+    "modern": "Tell el-Ruba, Egypt",
+    "lat": 30.9626,
+    "lon": 31.5046
+  },
+  {
+    "id": "latopolis",
+    "name": "Latopolis",
+    "modern": "Esna, Egypt",
+    "lat": 25.2933,
+    "lon": 32.5547
   }
 ]

@@ -2364,8 +2364,11 @@ function renderManuscriptMarkers() {
     const msLocKey  = {};    // ms.id  → locKey
 
     manuscripts.forEach(ms => {
-        if (ms.lat == null || ms.lon == null) return;
         const lat0 = parseFloat(ms.lat), lon0 = parseFloat(ms.lon);
+        // Skip manuscripts with missing/blank/invalid coordinates ("" → NaN).
+        // Without this guard a single bad record makes L.latLng() throw and
+        // aborts the entire render, so NO orbs appear at all.
+        if (!Number.isFinite(lat0) || !Number.isFinite(lon0)) return;
         const snap = findSnapCity(lat0, lon0);
 
         // Key by the snapped city's coordinates (so all MSS at the same city merge).
@@ -2419,7 +2422,7 @@ function renderManuscriptMarkers() {
 
     // ── 3. Build per-manuscript popup HTML + standalone L.popup ───
     manuscripts.forEach(ms => {
-        if (ms.lat == null || ms.lon == null) return;
+        if (!Number.isFinite(parseFloat(ms.lat)) || !Number.isFinite(parseFloat(ms.lon))) return;
 
         // Use the city-snapped locKey computed in step 1
         const locKey  = msLocKey[ms.id];
