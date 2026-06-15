@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1569
+label:    O.Wilck. 1569
+name:     Customs 2% import-tax quittance (Hadrian)
+genre:    receipts
+date:     16. Nov 119
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 217
+content:  Hierax and partners (2% customs farmers) acknowledge 3 talents 5000 import-tax from Bechis, year 4 of Hadrian.
+tm:       77863
+source:   https://papyri.info/ddbdp/o.wilck;;1569
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ἵεραξ καὶ μ(έτοχοι) τελ(ῶναι) (πεντηκοστῆς)
+r.2   Περὶ Θ(ήβας) Βήχει Φα̣ή(ριος) κ(αὶ) μ(ετόχοις)
+r.3   ἐπιτρόπ(οις(?)) χα(ίρειν). ἀπέχ(ομεν) παρὰ (ὑμῶν) τέλ(ος)
+r.4   ἰσαγω(ῆς) εἰς τε̣ι̣ (μὴν) (τάλαντα) γΕ. (ἔτους) δ
+r.5   Ἁδριανοῦ τοῦ κυρίου Ἁθὺρ ιθ.
+
+[TRANSLATION]
+1     Hierax and partners, tax-farmers of the 2% (customs),
+2     of (the district) Around Thebes, (to) Bechis (son of) Phaeris and partners,
+3     the agents(?), greeting. We have from you the import-
+4     tax, in cash, 3 talents 5000(?). Year 4
+5     of Hadrian the lord, Hathyr 19.

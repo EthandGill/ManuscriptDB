@@ -1,0 +1,25 @@
+[META]
+id:       O.Wilck. 1583
+label:    O.Wilck. 1583
+name:     Merismos receipt (Antoninus)
+genre:    receipts
+date:     9. Jul 144
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 289
+content:  Pamonthes and Kephalos, money-tax collectors of the Agora, receipt 4 dr. 1 ob. apportionment of year 7, year 7 of Antoninus.
+tm:       77877
+source:   https://papyri.info/ddbdp/o.wilck;;1583
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Παμώνθη(ς) καὶ Κέφαλ(ος) πράκ(τορες) ἀργ(υρικῆς) Ἀγο(ρ ) β( )
+r.2   Πετεχεσπ(οχράτηι) Σενμούθου. ἔσχο(μεν) ὑπ(ὲρ) μερισ(μοῦ)
+r.3   ἀνακ( ) ζ (ἔτους) ῥυπ(αρὰς) (δραχμὰς) δ(ὀβολὸν). (ἔτους) ζ Ἀντωνίνου
+
+[TRANSLATION]
+1     Pamonthes and Kephalos, collectors of the money-tax of (the) Agora b( ),
+2     (to) Petechespochrates (son of) Senmouthes. We have, for the apportionment
+3     anak( )(?) of year 7, impure 4 dr. 1 obol. Year 7 of Antoninus.

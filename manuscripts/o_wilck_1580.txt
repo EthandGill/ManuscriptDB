@@ -1,0 +1,33 @@
+[META]
+id:       O.Wilck. 1580
+label:    O.Wilck. 1580
+name:     House-rent receipt (Antoninus)
+genre:    receipts
+date:     5. Aug 140
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 295
+content:  Ailourion, money-tax collector of Charax, receipts 4 (+2 dr. 2 ob.) rent from Pikos for Philammon, year 3 of Antoninus.
+tm:       77874
+source:   https://papyri.info/ddbdp/o.wilck;;1580
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Αἰλουρίων πράκ(τωρ) ἀργ(υρικῆς) Χά(ρακος) Φιλαμμῶνι
+r.2   Πικῶτ(ος) Παοῦτ(ος). ἔσχ(ον) ὑπ(ὲρ) ἐνοικίο(υ) γ (ἔτους) ἀ(πὸ) Πικῶτ(ος)
+r.3   Παχρά(του) ῥυπ(αρὰς) (δραχμὰς) τέσσαρες (γίνονται) (δραχμαὶ) δ. (ἔτους) γ Ἀντωνίνου
+r.4   Καίσαρος τοῦ κυρίου Μεσο(ρὴ) β. Αἰλουρ(ίων) Μεγχείο(υς) σ(εσ)η(μείωμαι).
+r.5   ἄλ(λας) Μεσορὴ ιβ ὀνόμ(ατος) τοῦ α(ὐτοῦ) Φιλ(αμμῶνος) ἔσχ(ον) ὑπ(ὲρ) ἐνοικ(ίου) ἀ(πὸ)
+r.6   Πικῶτ(ος) Παχρά(του) ῥυπ(αρὰς) (δραχμὰς) δύο (διώβολον) (γίνονται) (δραχμαὶ) β(διώβολον).
+r.7   Αἰλουρ(ίων) Μεγχείο(υς) σ(εσημείωμαι).
+
+[TRANSLATION]
+1     Ailourion, collector of the money-tax of Charax, (to) Philammon
+2     (son of) Pikos (son of) Paous. I have, for rent of year 3, from Pikos
+3     (son of) Pachrates, impure four drachmas, total 4 dr. Year 3 of Antoninus
+4     Caesar the lord, Mesore 2. Ailourion (son of) Mencheus, I have signed.
+5     Others, Mesore 12, in the name of the same Philammon, I have (received), for rent, from
+6     Pikos (son of) Pachrates, impure two drachmas 2 obols, total 2 dr. 2 obols.
+7     Ailourion (son of) Mencheus, I have signed.

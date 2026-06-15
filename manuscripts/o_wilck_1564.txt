@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1564
+label:    O.Wilck. 1564
+name:     Hunting-tax docket (Domitian)
+genre:    receipts
+date:     23. Jan 91
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 239
+content:  Psenminis son of Phthoumonthes and partners pay 55 obols hunting-tax of Charax, year 10 of Domitian.
+tm:       77858
+source:   https://papyri.info/ddbdp/o.wilck;;1564
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   κυνηγίδ(ων) Χάρακ(ος) ι (ἔτους)
+r.2   Δομιτιανοῦ τοῦ κυρίου Τῦβι κη
+r.3   Ψενμῖ(νις) Φθουμώ(νθου) καὶ μέ(τοχοι)
+r.4   ῥυπ(αροὺς) ὀβολ(οὺς) πεντήκοντα πέντε
+r.5   (γίνονται) ῥυ(παροὶ) (ὀβολοὶ) νε. Ι̣δ̣[…]
+
+[TRANSLATION]
+1     (For) hunting(-tax) of Charax, year 10
+2     of Domitian the lord, Tybi 28:
+3     Psenminis (son of) Phthoumonthes and partners,
+4     impure obols, fifty-five,
+5     total impure 55 obols. Id[...]

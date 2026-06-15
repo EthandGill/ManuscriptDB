@@ -1,0 +1,31 @@
+[META]
+id:       O.Wilck. 1570
+label:    O.Wilck. 1570
+name:     Embankment + watchtower-tax receipt (Hadrian)
+genre:    receipts
+date:     23. Jun 121
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 191
+content:  Chesphmois, money-tax collector, receipts 7 dr. 5 ob. embankment + later 3 dr. 2 ob. watchtower-tax of year 4-5 of Hadrian.
+tm:       77864
+source:   https://papyri.info/ddbdp/o.wilck;;1570
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Χεσφμόις πράκ(τωρ) ἀργ(υρικῆς) μη(τροπόλεως)
+r.2   Ὀννώφρ(ει) Ἀβῶτο(ς). ἔσχ(ον) ὑπ(ὲρ) χω(ματικοῦ) δ (ἔτους)
+r.3   ῥυπ(αρὰς) (δραχμὰς) ζ(πεντώβολον) χ(αλκοὺς 2). (ἔτους) ε Ἁδριανοῦ Καίσαρος
+r.4   τοῦ κυρίου Φαῶφι κ. Πανίσκο(ς) σ(εσ)η(μείωμαι).
+r.5   ἄλ(λαι) Παῦνι κθ ὑπ(ὲρ) σκ(ο)π(έλων) καὶ ἄλ(λων) ε (ἔτους) ῥυπ(αρὰς)
+r.6   (δραχμὰς) γ(διώβολον). Πανίσκο(ς) σ(εσ)η(μείωμαι).
+
+[TRANSLATION]
+1     Chesphmois, collector of the money-tax of the metropolis,
+2     (to) Onnophris (son of) Abos. I have, for embankment-tax of year 4,
+3     impure 7 dr. 5 obols, 2 chalkoi. Year 5 of Hadrian Caesar
+4     the lord, Phaophi 20. Paniskos, I have signed.
+5     Others, Pauni 29, for watchtowers and others of year 5, impure
+6     3 dr. 2 obols. Paniskos, I have signed.

@@ -1,0 +1,29 @@
+[META]
+id:       O.Wilck. 1571
+label:    O.Wilck. 1571
+name:     Granary grain-measure (Hadrian)
+genre:    receipts
+date:     5. Jul 124
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 194
+content:  Phaeris son of Bechis measures in 1/8 (+1/6) art. of wheat into the metropolis granary (Charax), produce of year 8 of Hadrian.
+tm:       77865
+source:   https://papyri.info/ddbdp/o.wilck;;1571
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   μέτρ(ημα) θησ(αυροῦ) μη(τροπόλεως) γενή(ματος)
+r.2   η (ἔτους) Ἁδριανοῦ τοῦ κυρίου
+r.3   Ἐ(πὶ)φ ια̣ ὑπ(ὲρ) Χά(ρακος) ὀνό(ματος) Φαῆρις
+r.4   Βήχ(ιος) (πυροῦ) ὄγδον (γίνεται) (πυροῦ) η´, καὶ ὑπ(ὲρ)
+r.5   Γει( ) ὁμ(οίως) ἕκτ(ον) (γίνεται) (πυροῦ) ϛ´. ̣ ̣ ̣ ̣( )
+
+[TRANSLATION]
+1     Grain-measure of the granary of the metropolis, of the produce of
+2     year 8 of Hadrian the lord,
+3     Epeiph 11, for Charax, in the name of Phaeris
+4     (son of) Bechis, of wheat an eighth, total wheat 1/8, and for
+5     Gei( ), likewise, a sixth, total wheat 1/6. ...( )

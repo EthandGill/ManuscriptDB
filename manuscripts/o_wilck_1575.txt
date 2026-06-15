@@ -1,0 +1,39 @@
+[META]
+id:       O.Wilck. 1575
+label:    O.Wilck. 1575
+name:     Wine-price receipt (Hadrian; new Island vineyard)
+genre:    receipts
+date:     3. Dec 130 (year uncertain)
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 207
+content:  Nikias, overseer of the new Island vineyard, receipts 4 dr. 4 ob. for wine-price of year 14 from Psenthotes, Hadrian.
+tm:       77869
+source:   https://papyri.info/ddbdp/o.wilck;;1575
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   Ν̣ι̣κίας ἐπιτηρητ(ὴς)
+r.2   νέας ἀμπ(ελίτοδος) ἐπὶ Νήσου
+r.3   Ψενθωτο Ψανσν(ῶτος)
+r.4   διὰ Παναμέως
+r.5   Διοσκουρίδου. ἔσχο(ν)
+r.6   παρὰ σ(οῦ) ὑπ(ὲρ) τιμ(ῆς) οἴν(ου) γενή(ματος)
+r.7   ιδ (ἔτους) ῥυπ(αροὺς) <δραχμὰς> τέσσαρας
+r.8   ὀβολ(οὺς) τέσσαρ[ας (γίνονται) (δραχμαὶ) δ(τετρώβολον). (ἔτους) ιε (?)]
+r.9   Ἁδριανοῦ Καίσαρος [τοῦ κυρίου]
+r.10   Χοίακ ζ.
+
+[TRANSLATION]
+1     Nikias, overseer
+2     of the new vineyard-land on the Island,
+3     (to) Psenthotes (son of) Psansnos,
+4     through Panameus
+5     (son of) Dioskourides. I have
+6     from you, for the price of wine of the produce of
+7     year 14, impure four drachmas,
+8     four obols, [total 4 dr. 4 obols. Year 15(?)]
+9     of Hadrian Caesar [the lord],
+10    Choiak 7.

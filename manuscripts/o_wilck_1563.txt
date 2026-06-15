@@ -1,0 +1,27 @@
+[META]
+id:       O.Wilck. 1563
+label:    O.Wilck. 1563
+name:     Sack-carrying tax docket (Domitian)
+genre:    receipts
+date:     10. Mar 87
+language: Greek (Koiné)
+found:    Theben
+held:     (see shelf)
+shelf:    Oxford, Ashmolean Museum Bodl. Gr. Inscr. 294
+content:  Pikos son of Ptollis and partners pay 4 dr. sack-carrying(?) tax of year 6, year 6 of Domitian.
+tm:       77857
+source:   https://papyri.info/ddbdp/o.wilck;;1563
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1   διέγρ(αψαν) Πικῶς Πτολλίδ(ος) καὶ μ(έτοχοι)
+r.2   σακκο(φορίας(?)) ϛ (ἔτους) τέσσαρας (γίνονται) δ
+r.3   κ(αὶ π)ρο(σδιαγραφόμενα). (ἔτους) ϛ Δομιτιανοῦ
+r.4   τοῦ κυρίου Παῦνιλ‡ιδ.
+
+[TRANSLATION]
+1     There have paid, Pikos (son of) Ptollis and partners,
+2     (for) sack-carrying(?) of year 6, four, total 4,
+3     and the surcharges. Year 6 of Domitian
+4     the lord, Pauni 34(?).
