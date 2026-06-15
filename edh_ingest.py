@@ -22,7 +22,8 @@ known keys. Run --inspect first; if a field comes out empty, add its real key to
 the *_KEYS lists below.
 """
 
-import os, re, sys, json, argparse
+import os, re, sys, json, argparse, glob
+import xml.etree.ElementTree as ET
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "static", "epigraphy_data.js")
@@ -36,12 +37,22 @@ NA_KEYS    = ["not_after", "date_not_after", "dating_to", "not_after_clean"]
 PLACE_KEYS = ["findspot_modern", "findspot_ancient", "findspot", "modern_region_clean", "province_label", "province"]
 ID_KEYS    = ["id", "hd_no", "hdnr", "edh", "EDH-ID", "edcs_id"]
 
-# inscription-type term -> app genre
+# inscription-type term -> app genre. EDH types are in GERMAN, so the German
+# EpiDoc terms are listed alongside the English/Latin LIST variants.
 GENRE_MAP = [
-    ("funerary",   ["sepulcr", "epitaph", "grave", "funerary", "tomb"]),
-    ("honourific", ["honor", "honour", "honorific"]),
+    ("funerary",   ["sepulcr", "epitaph", "grave", "funerary", "tomb",
+                    "grabinschrift", "grab"]),                              # Grabinschrift
+    ("honourific", ["honor", "honour", "honorific",
+                    "ehreninschrift", "ehren"]),                           # Ehreninschrift
     ("public",     ["building", "aedific", "dedicat", "votive", "sacr", "milliar", "miliar",
-                    "boundary", "legal", "lex ", "edict", "list", "acta", "public"]),
+                    "boundary", "legal", "lex ", "edict", "list", "acta", "public",
+                    "weihinschrift", "weih",          # votive / dedication
+                    "bau-", "bauinschrift", "stifter", # building / donor
+                    "meilen", "leugen",                # milestone (Meilen-/Leugenstein)
+                    "grenz",                           # boundary marker
+                    "rechtlich", "öffentlich",         # legal, public
+                    "diplom", "akklam", "verzeichnis", # diploma / acclamation / list
+                    "besitzer", "hersteller", "votiv"]),
 ]
 
 
@@ -111,7 +122,182 @@ def coords_from(feat, props):
         return None, None
 
 
+# ───────────────────────── EDH EpiDoc-XML reader ─────────────────────────
+# The real EDH dump (github.com/epigraphic-database-heidelberg/data) ships the
+# inscriptions as EpiDoc TEI XML under inscriptions/**/HD*.xml, with coordinates
+# in a separate geography/edhGeographicData.json keyed by Trismegistos/GeoNames
+# place URIs. We parse each XML into the same {properties, geometry} feature shape
+# the rest of this script already understands, joining coords via the place URIs.
+
+TEI_NS = "{http://www.tei-c.org/ns/1.0}"
+
+
+def _local(tag):
+    return tag.split("}", 1)[1] if "}" in tag else tag
+
+
+def _render(el):
+    """Render an EpiDoc edition element to readable text:
+    <expan><abbr>D</abbr><ex>is</ex></expan> -> 'D(is)', <supplied>x</supplied> -> '[x]',
+    <lb/> -> space, <gap/> -> '…'. Tails are handled by the caller's loop."""
+    tag = _local(el.tag)
+    if tag == "gap":
+        return " … "
+    if tag in ("lb", "space", "g"):
+        return " "
+    out = []
+    if el.text:
+        out.append(el.text)
+    for child in el:
+        ctag = _local(child.tag)
+        if ctag == "ex":
+            out.append("(" + _render(child).strip() + ")")
+        elif ctag == "supplied":
+            out.append("[" + _render(child) + "]")
+        else:
+            out.append(_render(child))
+        if child.tail:
+            out.append(child.tail)
+    return "".join(out)
+
+
+def _geo_lookups(data_root):
+    """Build {trismegistos_place_no -> [lon,lat]} and {geonames_no -> [lon,lat]}."""
+    geo_path = os.path.join(data_root, "geography", "edhGeographicData.json")
+    tm_map, gn_map = {}, {}
+    if not os.path.exists(geo_path):
+        raise SystemExit(f"Geography file not found: {geo_path}")
+    data = json.load(open(geo_path, encoding="utf-8"))
+    for f in data.get("features", []):
+        geom = f.get("geometry") or {}
+        c = geom.get("coordinates")
+        if not (isinstance(c, list) and len(c) >= 2):
+            continue
+        p = f.get("properties") or {}
+        t = p.get("trismegistos_geo_uri")
+        g = p.get("geonames_uri")
+        if t:
+            m = re.search(r"(\d+)", t)
+            if m:
+                tm_map.setdefault(int(m.group(1)), c)
+        if g:
+            m = re.search(r"(\d+)", g)
+            if m:
+                gn_map.setdefault(int(m.group(1)), c)
+    return tm_map, gn_map
+
+
+def parse_edh_xml(path, tm_map, gn_map):
+    """Parse one EDH EpiDoc XML into a {properties, geometry} feature, or None."""
+    try:
+        root = ET.parse(path).getroot()
+    except ET.ParseError:
+        return None
+
+    # HD-number (filename / localID idno)
+    hd = os.path.splitext(os.path.basename(path))[0]
+    for idno in root.iter(TEI_NS + "idno"):
+        if idno.get("type") == "localID" and (idno.text or "").strip():
+            hd = idno.text.strip()
+            break
+
+    # transcription text from the <div type="edition"> -> its <ab> blocks
+    text = ""
+    lang = ""
+    for div in root.iter(TEI_NS + "div"):
+        if div.get("type") == "edition":
+            lang = div.get(TEI_NS + "lang") or div.get("{http://www.w3.org/XML/1998/namespace}lang") or ""
+            parts = [_render(ab) for ab in div.iter(TEI_NS + "ab")]
+            text = re.sub(r"\s+", " ", " ".join(parts)).strip()
+            break
+
+    # inscription type — the EAGLE <term> in textClass/keywords (German)
+    type_str = ""
+    for term in root.iter(TEI_NS + "term"):
+        if (term.text or "").strip():
+            type_str = term.text.strip()
+            break
+
+    # date — origDate custom attributes
+    nb = na = None
+    od = next((e for e in root.iter(TEI_NS + "origDate")), None)
+    if od is not None:
+        nb = od.get("notBefore-custom") or od.get("notBefore")
+        na = od.get("notAfter-custom") or od.get("notAfter")
+
+    # findspot place name + geo refs (Trismegistos in origPlace, GeoNames in provenance)
+    place = ""
+    tm_ids, gn_ids = [], []
+    for op in root.iter(TEI_NS + "origPlace"):
+        for pn in op.iter(TEI_NS + "placeName"):
+            ref = pn.get("ref") or ""
+            m = re.search(r"trismegistos\.org/place/(\d+)", ref)
+            if m:
+                tm_ids.append(int(m.group(1)))
+            if (pn.text or "").strip() and not pn.get("type"):
+                place = pn.text.strip()           # the un-typed placeName is the findspot
+    for pv in root.iter(TEI_NS + "provenance"):
+        if pv.get("type") == "found":
+            for pn in pv.iter(TEI_NS + "placeName"):
+                ref = pn.get("ref") or ""
+                m = re.search(r"geonames\.org/(\d+)", ref)
+                if m:
+                    gn_ids.append(int(m.group(1)))
+                if not place and (pn.text or "").strip() and not pn.get("type"):
+                    place = pn.text.strip()
+
+    # resolve coordinates: prefer GeoNames (modern findspot), then the most specific
+    # Trismegistos place (findspot listed last), then the province (listed first).
+    coords = None
+    for gid in gn_ids:
+        if gid in gn_map:
+            coords = gn_map[gid]
+            break
+    if coords is None:
+        for tid in reversed(tm_ids):
+            if tid in tm_map:
+                coords = tm_map[tid]
+                break
+
+    lang_label = {"la": "Latin", "grc": "Greek", "la,grc": "Latin/Greek",
+                  "grc,la": "Latin/Greek"}.get(lang, "Latin")
+
+    props = {
+        "id": hd,
+        "transcription": text,
+        "type_of_inscription": type_str,
+        "language": lang_label,
+        "not_before": nb,
+        "not_after": na,
+        "findspot_modern": place,
+    }
+    geometry = {"coordinates": coords} if coords else None
+    return {"properties": props, "geometry": geometry}
+
+
+def load_edh_dump(data_root):
+    """Walk inscriptions/**/HD*.xml under an EDH dump root into feature dicts."""
+    insc_dir = os.path.join(data_root, "inscriptions")
+    if not os.path.isdir(insc_dir):
+        raise SystemExit(f"No inscriptions/ dir under {data_root}")
+    tm_map, gn_map = _geo_lookups(data_root)
+    files = glob.glob(os.path.join(insc_dir, "**", "HD*.xml"), recursive=True)
+    files.sort()
+    print(f"Parsing {len(files)} EpiDoc XML files (geo: {len(tm_map)} TM / {len(gn_map)} GeoNames places)…")
+    feats = []
+    for i, fn in enumerate(files):
+        feat = parse_edh_xml(fn, tm_map, gn_map)
+        if feat is not None:
+            feats.append(feat)
+        if (i + 1) % 10000 == 0:
+            print(f"  …{i + 1}/{len(files)} parsed")
+    return feats
+
+
 def load_features(path):
+    # An EDH dump directory (has inscriptions/ + geography/) → parse the EpiDoc XML.
+    if os.path.isdir(path):
+        return load_edh_dump(path)
     data = json.load(open(path, encoding="utf-8"))
     if isinstance(data, dict) and "features" in data:
         return data["features"]
