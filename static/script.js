@@ -396,6 +396,11 @@ function clearCityMs() {
 
 // ── CITY → MANUSCRIPT DISPLAY ─────────────────────────────
 
+// Max manuscript names shown in ANY location popup (city dot or orb). Beyond
+// this, a "See all N →" button opens the scrollable right-side location panel.
+// Shared by showMsAtCity and showOrbPopup so the two never drift apart.
+const LOC_POPUP_CAP = 10;
+
 function showMsAtCity(city) {
     if (!city || !manuscripts.length) return;
 
@@ -415,15 +420,23 @@ function showMsAtCity(city) {
 
     nearby.forEach(ms => cityActivatedMs.add(ms.id));
 
-    const listHtml = nearby.map(ms =>
+    // Cap the in-popup list at LOC_POPUP_CAP names; the rest are reachable via
+    // the "See all N →" button, which opens the scrollable location sidebar.
+    const shown    = nearby.slice(0, LOC_POPUP_CAP);
+    const subText  = `${nearby.length} manuscript${nearby.length > 1 ? 's' : ''} found here`;
+    const listHtml = shown.map(ms =>
         `<span class="city-ms-pill" data-ms-id="${ms.id}" title="${ms.name}">${ms.id}</span>`
     ).join('');
+    const moreHtml = nearby.length > LOC_POPUP_CAP
+        ? `<button class="city-ms-more" type="button">See all ${nearby.length} →</button>`
+        : '';
     const cityPopup = L.popup({ className: 'city-ms-popup', offset: [0, -8], closeButton: true, autoClose: true })
         .setLatLng(geoToCRS(city.lon, city.lat))
         .setContent(
             `<div class="city-ms-popup-title">${city.name}</div>` +
-            `<div class="city-ms-popup-sub">${nearby.length} manuscript${nearby.length > 1 ? 's' : ''} found here</div>` +
-            `<div class="city-ms-popup-pills">${listHtml}</div>`
+            `<div class="city-ms-popup-sub">${subText}</div>` +
+            `<div class="city-ms-popup-pills">${listHtml}</div>` +
+            moreHtml
         )
         .openOn(map);
     activeCityPopupObj = cityPopup;
@@ -437,6 +450,10 @@ function showMsAtCity(city) {
                 pair.popup.openOn(map);
             }
         });
+    });
+    cityPopup.getElement()?.querySelector('.city-ms-more')?.addEventListener('click', () => {
+        map.closePopup(cityPopup);
+        showLocationSidebar(city.name, subText, nearby);
     });
 }
 
@@ -1644,12 +1661,11 @@ function showOrbPopup(locKey) {
     // Use the stored snap city name (correct even when two cities are close together)
     const cityName = loc.snapCity?.name || 'This site';
     // Cap the in-popup list; the rest are reachable via the "See all" sidebar.
-    const ORB_POPUP_CAP = 10;
-    const shown = displayMs.slice(0, ORB_POPUP_CAP);
+    const shown = displayMs.slice(0, LOC_POPUP_CAP);
     const listHtml = shown.map(ms =>
         `<span class="city-ms-pill" data-ms-id="${ms.id}" title="${ms.name}">${ms.id}</span>`
     ).join('');
-    const moreHtml = displayMs.length > ORB_POPUP_CAP
+    const moreHtml = displayMs.length > LOC_POPUP_CAP
         ? `<button class="city-ms-more" type="button">See all ${displayMs.length} →</button>`
         : '';
     const orbPopup = L.popup({ className: 'city-ms-popup', offset: [0, -8], closeButton: true, autoClose: true })
