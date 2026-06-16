@@ -2023,15 +2023,33 @@ html, body {
     flex-direction: column;
     gap: 10px;
 }
-#agent-history:empty::before {
-    content: "Ask Tertius about any papyrological or epigraphical source that you might find useful.\A\ASearch for sources that might help your research \"Are there any donkey rentals that might make sense of Mark 11:1-7?\".\A\AThis is your own A.I. agent — type your thoughts and queries in a casual way to help your research.";
-    white-space: pre-line;
+/* Empty-state tips block (real markup so it can carry a titled header + icon) */
+#agent-hint {
     color: #0d0c07;
-    font-size: 15px;
-    font-weight: 600;
-    line-height: 1.55;
-    padding: 6px 2px;
+    padding: 2px 2px 4px;
 }
+.agent-hint-title {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 0.10em;
+    text-transform: uppercase;
+    margin-bottom: 7px;
+}
+.agent-hint-icon {
+    width: 13px;
+    height: 13px;
+    flex-shrink: 0;
+}
+.agent-hint-p {
+    margin: 0 0 8px;
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+.agent-hint-p:last-child { margin-bottom: 0; }
 
 .agent-q {
     align-self: flex-end;

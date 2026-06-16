@@ -2805,6 +2805,7 @@ async function fetchJson(url, { retries = 3, delay = 250 } = {}) {
     const input   = document.getElementById('agent-input');
     const sendBtn = document.getElementById('agent-send');
     const history = document.getElementById('agent-history');
+    const hint    = document.getElementById('agent-hint');
     if (!tab || !panel) return;
 
     // The tab/panel live inside #map — keep clicks/scrolls from hitting Leaflet.
@@ -2852,6 +2853,7 @@ async function fetchJson(url, { retries = 3, delay = 250 } = {}) {
         sendBtn.disabled = true;
         input.value = '';
         autosizeInput();          // collapse the box back to one row
+        if (hint) hint.style.display = 'none';   // tips give way to the conversation
 
         // User bubble
         const q = document.createElement('div');
