@@ -2311,6 +2311,21 @@ function renderEpigraphyMarkers() {
     epigraphyLayer.clearLayers();
     if (!epigraphy || !epigraphy.length) return;
 
+    // "Show on map" toggle in the Epigraphy sidebar header (added once). 2,000
+    // inscriptions are dense, so let the user hide/reveal the layer at will.
+    const epiLabel = document.querySelector('.epi-section-label');
+    if (epiLabel && !document.getElementById('epi-map-toggle')) {
+        const wrap = document.createElement('label');
+        wrap.style.cssText = 'float:right;display:inline-flex;align-items:center;gap:5px;'
+            + 'font-weight:400;font-size:10px;text-transform:none;letter-spacing:.03em;cursor:pointer;opacity:.85';
+        wrap.innerHTML = '<input type="checkbox" id="epi-map-toggle" checked style="cursor:pointer;margin:0">Show on map';
+        epiLabel.appendChild(wrap);
+        document.getElementById('epi-map-toggle').addEventListener('change', e => {
+            if (e.target.checked) { if (!map.hasLayer(epigraphyLayer)) epigraphyLayer.addTo(map); }
+            else { map.removeLayer(epigraphyLayer); }
+        });
+    }
+
     // Group by findspot: snap to a city within range (so co-located inscriptions
     // merge into one orb), else fall back to the raw coordinate, else Rome —
     // guaranteeing every inscription has a home location.
@@ -2333,14 +2348,14 @@ function renderEpigraphyMarkers() {
 
     Object.values(groups).forEach(g => {
         const count = g.list.length;
-        const size  = Math.round(20 + 8 * Math.sqrt(Math.min(count, 55)));
+        const size  = Math.round(9 + 4 * Math.sqrt(Math.min(count, 55)));
         // colour by the dominant genre at this site
         const counts = {};
         g.list.forEach(e => { counts[e.genre] = (counts[e.genre] || 0) + 1; });
         const dom = Object.keys(counts).reduce((a, b) => counts[b] > counts[a] ? b : a,
                                                Object.keys(counts)[0]);
         const palette     = EPI_GENRE_PALETTES[dom] || EPI_INDIGO;
-        const grad        = orbGradient(0.85, palette);
+        const grad        = orbGradient(0.42, palette);
         const badgeBg     = `rgb(${palette[1].join(',')})`;
         const badgeBorder = `rgb(${palette[0].join(',')})`;
         const label       = count + ' inscr.';
