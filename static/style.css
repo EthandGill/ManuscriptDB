@@ -2017,11 +2017,8 @@ html, body {
 #agent-history {
     flex: 1;
     overflow-y: auto;
-    margin: 8px;
     padding: 10px;
     background: rgba(201, 169, 110, 0.6);   /* 60% gold — map shows through */
-    border: 1px solid rgba(245, 232, 200, 0.7);   /* faint gold frame */
-    border-radius: 10px;
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -2029,7 +2026,9 @@ html, body {
 /* Empty-state tips block (real markup so it can carry a titled header + icon) */
 #agent-hint {
     color: #0d0c07;
-    padding: 2px 2px 4px;
+    padding: 9px 11px 10px;
+    border: 1px solid rgba(245, 232, 200, 0.7);   /* thin faint-gold frame */
+    border-radius: 9px;
 }
 .agent-hint-title {
     display: flex;
