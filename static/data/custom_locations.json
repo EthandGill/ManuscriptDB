@@ -173,5 +173,4261 @@
     "modern": "Esna, Egypt",
     "lat": 25.2933,
     "lon": 32.5547
+  },
+  {
+    "id": "thessalonica_2",
+    "name": "Thessalonica",
+    "modern": "Thessalonica",
+    "lat": 40.8241,
+    "lon": 23.8466
+  },
+  {
+    "id": "thugga",
+    "name": "Thugga",
+    "modern": "Thugga",
+    "lat": 36.4235,
+    "lon": 9.2187
+  },
+  {
+    "id": "cuicul",
+    "name": "Cuicul",
+    "modern": "Cuicul",
+    "lat": 36.3135,
+    "lon": 5.7363
+  },
+  {
+    "id": "hippo_regius",
+    "name": "Hippo Regius",
+    "modern": "Hippo Regius",
+    "lat": 36.8837,
+    "lon": 7.7551
+  },
+  {
+    "id": "volubilis",
+    "name": "Volubilis",
+    "modern": "Volubilis",
+    "lat": 34.0552,
+    "lon": -5.5236
+  },
+  {
+    "id": "intercisa",
+    "name": "Intercisa",
+    "modern": "Intercisa",
+    "lat": 46.9619,
+    "lon": 18.9355
+  },
+  {
+    "id": "vindolanda",
+    "name": "Vindolanda",
+    "modern": "Vindolanda",
+    "lat": 54.9907,
+    "lon": -2.361
+  },
+  {
+    "id": "thuburbo_maius",
+    "name": "Thuburbo Maius",
+    "modern": "Thuburbo Maius",
+    "lat": 36.3996,
+    "lon": 9.9035
+  },
+  {
+    "id": "colonia_ulpia_traiana_sarmizegetusa",
+    "name": "Colonia Ulpia Traiana Sarmizegetusa",
+    "modern": "Colonia Ulpia Traiana Sarmizegetusa",
+    "lat": 45.5167,
+    "lon": 22.7833
+  },
+  {
+    "id": "valentia_2",
+    "name": "Valentia",
+    "modern": "Valentia",
+    "lat": 42.464,
+    "lon": -3.7979
+  },
+  {
+    "id": "siarum",
+    "name": "Siarum",
+    "modern": "Siarum",
+    "lat": 37.5911,
+    "lon": -4.0868
+  },
+  {
+    "id": "delphi",
+    "name": "Delphi",
+    "modern": "Delphi",
+    "lat": 38.48,
+    "lon": 22.4934
+  },
+  {
+    "id": "banasa",
+    "name": "Banasa",
+    "modern": "Banasa",
+    "lat": 34.602,
+    "lon": -6.1153
+  },
+  {
+    "id": "brigetio",
+    "name": "Brigetio",
+    "modern": "Brigetio",
+    "lat": 47.7302,
+    "lon": 18.2263
+  },
+  {
+    "id": "uchi_maius",
+    "name": "Uchi Maius",
+    "modern": "Uchi Maius",
+    "lat": 36.2353,
+    "lon": 8.9449
+  },
+  {
+    "id": "aquincum_aus",
+    "name": "Aquincum, aus",
+    "modern": "Aquincum, aus",
+    "lat": 46.741,
+    "lon": 18.9674
+  },
+  {
+    "id": "madauros",
+    "name": "Madauros",
+    "modern": "Madauros",
+    "lat": 36.0776,
+    "lon": 7.9031
+  },
+  {
+    "id": "ammaedara",
+    "name": "Ammaedara",
+    "modern": "Ammaedara",
+    "lat": 35.5663,
+    "lon": 8.4441
+  },
+  {
+    "id": "callatis",
+    "name": "Callatis",
+    "modern": "Callatis",
+    "lat": 43.8159,
+    "lon": 28.5834
+  },
+  {
+    "id": "celeia",
+    "name": "Celeia",
+    "modern": "Celeia",
+    "lat": 46.2294,
+    "lon": 15.2617
+  },
+  {
+    "id": "mustis",
+    "name": "Mustis",
+    "modern": "Mustis",
+    "lat": 36.3361,
+    "lon": 9.1431
+  },
+  {
+    "id": "istrus",
+    "name": "Istrus",
+    "modern": "Istrus",
+    "lat": 44.5489,
+    "lon": 28.7749
+  },
+  {
+    "id": "abusina",
+    "name": "Abusina",
+    "modern": "Abusina",
+    "lat": 48.8545,
+    "lon": 11.772
+  },
+  {
+    "id": "mactaris",
+    "name": "Mactaris",
+    "modern": "Mactaris",
+    "lat": 35.8535,
+    "lon": 9.2056
+  },
+  {
+    "id": "castellum_dimmidi",
+    "name": "Castellum Dimmidi",
+    "modern": "Castellum Dimmidi",
+    "lat": 34.1543,
+    "lon": 3.5031
+  },
+  {
+    "id": "carales",
+    "name": "Carales",
+    "modern": "Carales",
+    "lat": 44.05,
+    "lon": 8.2167
+  },
+  {
+    "id": "delos",
+    "name": "Delos",
+    "modern": "Delos",
+    "lat": 37.3933,
+    "lon": 25.2711
+  },
+  {
+    "id": "municipium_claudium_virunum",
+    "name": "Municipium Claudium Virunum",
+    "modern": "Municipium Claudium Virunum",
+    "lat": 46.698,
+    "lon": 14.367
+  },
+  {
+    "id": "messene",
+    "name": "Messene",
+    "modern": "Messene",
+    "lat": 37.1769,
+    "lon": 21.9198
+  },
+  {
+    "id": "bulla_regia",
+    "name": "Bulla Regia",
+    "modern": "Bulla Regia",
+    "lat": 36.5556,
+    "lon": 8.7506
+  },
+  {
+    "id": "samothracia",
+    "name": "Samothracia",
+    "modern": "Samothracia",
+    "lat": 40.5004,
+    "lon": 25.5302
+  },
+  {
+    "id": "castra_regina",
+    "name": "Castra Regina",
+    "modern": "Castra Regina",
+    "lat": 49.0154,
+    "lon": 12.098
+  },
+  {
+    "id": "quintana",
+    "name": "Quintana",
+    "modern": "Quintana",
+    "lat": 48.6685,
+    "lon": 13.079
+  },
+  {
+    "id": "apulum",
+    "name": "Apulum",
+    "modern": "Apulum",
+    "lat": 46.0669,
+    "lon": 23.57
+  },
+  {
+    "id": "beroia",
+    "name": "Beroia",
+    "modern": "Beroia",
+    "lat": 40.5233,
+    "lon": 22.2036
+  },
+  {
+    "id": "tibur",
+    "name": "Tibur",
+    "modern": "Tibur",
+    "lat": 41.9636,
+    "lon": 12.7983
+  },
+  {
+    "id": "sitifis",
+    "name": "Sitifis",
+    "modern": "Sitifis",
+    "lat": 36.1911,
+    "lon": 5.4137
+  },
+  {
+    "id": "sorviodurum",
+    "name": "Sorviodurum",
+    "modern": "Sorviodurum",
+    "lat": 48.8878,
+    "lon": 12.593
+  },
+  {
+    "id": "delos_2",
+    "name": "Delos",
+    "modern": "Delos",
+    "lat": 37.399,
+    "lon": 25.2661
+  },
+  {
+    "id": "limisa",
+    "name": "Limisa",
+    "modern": "Limisa",
+    "lat": 36.0343,
+    "lon": 9.6908
+  },
+  {
+    "id": "aventicum_civitas_helvetiorum",
+    "name": "Aventicum (Civitas Helvetiorum)",
+    "modern": "Aventicum (Civitas Helvetiorum)",
+    "lat": 46.8799,
+    "lon": 7.0406
+  },
+  {
+    "id": "buciumi",
+    "name": "Buciumi",
+    "modern": "Buciumi",
+    "lat": 47.0481,
+    "lon": 23.0453
+  },
+  {
+    "id": "iulia_concordia",
+    "name": "Iulia Concordia",
+    "modern": "Iulia Concordia",
+    "lat": 45.7572,
+    "lon": 12.8423
+  },
+  {
+    "id": "thubursicu_numidarum",
+    "name": "Thubursicu Numidarum",
+    "modern": "Thubursicu Numidarum",
+    "lat": 35.0706,
+    "lon": 9.8572
+  },
+  {
+    "id": "troesmis",
+    "name": "Troesmis",
+    "modern": "Troesmis",
+    "lat": 45.1167,
+    "lon": 28.1833
+  },
+  {
+    "id": "porolissum",
+    "name": "Porolissum",
+    "modern": "Porolissum",
+    "lat": 47.1793,
+    "lon": 23.1579
+  },
+  {
+    "id": "lussonium",
+    "name": "Lussonium",
+    "modern": "Lussonium",
+    "lat": 46.6628,
+    "lon": 18.8759
+  },
+  {
+    "id": "cumae_2",
+    "name": "Cumae",
+    "modern": "Cumae",
+    "lat": 40.9624,
+    "lon": 15.8158
+  },
+  {
+    "id": "micia",
+    "name": "Micia",
+    "modern": "Micia",
+    "lat": 45.9123,
+    "lon": 22.8153
+  },
+  {
+    "id": "napoca",
+    "name": "Napoca",
+    "modern": "Napoca",
+    "lat": 46.7717,
+    "lon": 23.5761
+  },
+  {
+    "id": "aquae_iasae",
+    "name": "Aquae Iasae",
+    "modern": "Aquae Iasae",
+    "lat": 46.2092,
+    "lon": 16.4192
+  },
+  {
+    "id": "vindonissa",
+    "name": "Vindonissa",
+    "modern": "Vindonissa",
+    "lat": 47.4817,
+    "lon": 8.2157
+  },
+  {
+    "id": "capena",
+    "name": "Capena",
+    "modern": "Capena",
+    "lat": 40.8945,
+    "lon": 12.9664
+  },
+  {
+    "id": "cirta",
+    "name": "Cirta",
+    "modern": "Cirta",
+    "lat": 36.365,
+    "lon": 6.6147
+  },
+  {
+    "id": "oescus",
+    "name": "Oescus",
+    "modern": "Oescus",
+    "lat": 43.7108,
+    "lon": 24.4558
+  },
+  {
+    "id": "gholaia",
+    "name": "Gholaia",
+    "modern": "Gholaia",
+    "lat": 30.5816,
+    "lon": 15.3958
+  },
+  {
+    "id": "pupput",
+    "name": "Pupput",
+    "modern": "Pupput",
+    "lat": 36.3952,
+    "lon": 10.6147
+  },
+  {
+    "id": "philippopolis",
+    "name": "Philippopolis",
+    "modern": "Philippopolis",
+    "lat": 42.1354,
+    "lon": 24.7453
+  },
+  {
+    "id": "villalis",
+    "name": "Villalís",
+    "modern": "Villalís",
+    "lat": 42.3167,
+    "lon": -6.0333
+  },
+  {
+    "id": "minturnae",
+    "name": "Minturnae",
+    "modern": "Minturnae",
+    "lat": 41.25,
+    "lon": 13.75
+  },
+  {
+    "id": "urso",
+    "name": "Urso",
+    "modern": "Urso",
+    "lat": 37.2377,
+    "lon": -5.1075
+  },
+  {
+    "id": "tergeste",
+    "name": "Tergeste",
+    "modern": "Tergeste",
+    "lat": 45.4314,
+    "lon": 13.5239
+  },
+  {
+    "id": "trebula_mutuesca",
+    "name": "Trebula Mutuesca",
+    "modern": "Trebula Mutuesca",
+    "lat": 42.2331,
+    "lon": 12.8581
+  },
+  {
+    "id": "siscia",
+    "name": "Siscia",
+    "modern": "Siscia",
+    "lat": 45.4851,
+    "lon": 16.3731
+  },
+  {
+    "id": "bezereos",
+    "name": "Bezereos",
+    "modern": "Bezereos",
+    "lat": 33.5037,
+    "lon": 9.498
+  },
+  {
+    "id": "savaria",
+    "name": "Savaria",
+    "modern": "Savaria",
+    "lat": 47.2307,
+    "lon": 16.6218
+  },
+  {
+    "id": "nicopolis_ad_istrum",
+    "name": "Nicopolis ad Istrum",
+    "modern": "Nicopolis ad Istrum",
+    "lat": 43.243,
+    "lon": 25.5889
+  },
+  {
+    "id": "vetus_salina",
+    "name": "Vetus Salina",
+    "modern": "Vetus Salina",
+    "lat": 47.1198,
+    "lon": 18.8612
+  },
+  {
+    "id": "sexaginta_prista",
+    "name": "Sexaginta Prista",
+    "modern": "Sexaginta Prista",
+    "lat": 43.8445,
+    "lon": 25.9611
+  },
+  {
+    "id": "thamusida",
+    "name": "Thamusida",
+    "modern": "Thamusida",
+    "lat": 34.3351,
+    "lon": -6.4902
+  },
+  {
+    "id": "potaissa",
+    "name": "Potaissa",
+    "modern": "Potaissa",
+    "lat": 46.5647,
+    "lon": 23.7971
+  },
+  {
+    "id": "amiternum",
+    "name": "Amiternum",
+    "modern": "Amiternum",
+    "lat": 42.2667,
+    "lon": 13.7667
+  },
+  {
+    "id": "giufi",
+    "name": "Giufi",
+    "modern": "Giufi",
+    "lat": 36.52,
+    "lon": 9.96
+  },
+  {
+    "id": "pola",
+    "name": "Pola",
+    "modern": "Pola",
+    "lat": 44.8683,
+    "lon": 13.8481
+  },
+  {
+    "id": "praeneste",
+    "name": "Praeneste",
+    "modern": "Praeneste",
+    "lat": 41.8354,
+    "lon": 12.8845
+  },
+  {
+    "id": "obulco",
+    "name": "Obulco",
+    "modern": "Obulco",
+    "lat": 38.1347,
+    "lon": -1.7578
+  },
+  {
+    "id": "aphrodisias_cariae",
+    "name": "Aphrodisias Cariae",
+    "modern": "Aphrodisias Cariae",
+    "lat": 37.71,
+    "lon": 28.7105
+  },
+  {
+    "id": "sutunurca",
+    "name": "Sutunurca",
+    "modern": "Sutunurca",
+    "lat": 36.5778,
+    "lon": 9.9779
+  },
+  {
+    "id": "carsium",
+    "name": "Carsium",
+    "modern": "Carsium",
+    "lat": 44.6829,
+    "lon": 27.9537
+  },
+  {
+    "id": "doclea",
+    "name": "Doclea",
+    "modern": "Doclea",
+    "lat": 42.4426,
+    "lon": 19.2687
+  },
+  {
+    "id": "cnidus_aus",
+    "name": "Cnidus, aus",
+    "modern": "Cnidus, aus",
+    "lat": 38.4636,
+    "lon": 23.5994
+  },
+  {
+    "id": "iliberri_florentia",
+    "name": "Iliberri Florentia",
+    "modern": "Iliberri Florentia",
+    "lat": 37.1882,
+    "lon": -3.6067
+  },
+  {
+    "id": "tfilzi",
+    "name": "Tfilzi?",
+    "modern": "Tfilzi?",
+    "lat": 35.1777,
+    "lon": 6.0042
+  },
+  {
+    "id": "sufetula",
+    "name": "Sufetula",
+    "modern": "Sufetula",
+    "lat": 35.2315,
+    "lon": 9.1232
+  },
+  {
+    "id": "ovilava",
+    "name": "Ovilava",
+    "modern": "Ovilava",
+    "lat": 48.1667,
+    "lon": 14.0333
+  },
+  {
+    "id": "tucci",
+    "name": "Tucci",
+    "modern": "Tucci",
+    "lat": 37.7211,
+    "lon": -3.9726
+  },
+  {
+    "id": "petra_2",
+    "name": "Petra",
+    "modern": "Petra",
+    "lat": 35.0119,
+    "lon": 25.7423
+  },
+  {
+    "id": "germanicum",
+    "name": "Germanicum",
+    "modern": "Germanicum",
+    "lat": 48.8111,
+    "lon": 11.501
+  },
+  {
+    "id": "furnos_minus",
+    "name": "Furnos Minus",
+    "modern": "Furnos Minus",
+    "lat": 36.6931,
+    "lon": 9.83
+  },
+  {
+    "id": "gostavatu",
+    "name": "Gostavăţu",
+    "modern": "Gostavăţu",
+    "lat": 44.0833,
+    "lon": 24.5333
+  },
+  {
+    "id": "condatomagus",
+    "name": "Condatomagus",
+    "modern": "Condatomagus",
+    "lat": 44.1017,
+    "lon": 3.0889
+  },
+  {
+    "id": "gigthis",
+    "name": "Gigthis",
+    "modern": "Gigthis",
+    "lat": 33.5384,
+    "lon": 10.6762
+  },
+  {
+    "id": "canusium",
+    "name": "Canusium",
+    "modern": "Canusium",
+    "lat": 41.2235,
+    "lon": 16.0651
+  },
+  {
+    "id": "sostra",
+    "name": "Sostra",
+    "modern": "Sostra",
+    "lat": 42.9917,
+    "lon": 24.6481
+  },
+  {
+    "id": "cemenelum",
+    "name": "Cemenelum",
+    "modern": "Cemenelum",
+    "lat": 43.7111,
+    "lon": 7.2747
+  },
+  {
+    "id": "cillium",
+    "name": "Cillium",
+    "modern": "Cillium",
+    "lat": 35.1673,
+    "lon": 8.8365
+  },
+  {
+    "id": "metallum_vipascense",
+    "name": "Metallum Vipascense",
+    "modern": "Metallum Vipascense",
+    "lat": 40.6096,
+    "lon": -6.4649
+  },
+  {
+    "id": "gilau",
+    "name": "Gilău",
+    "modern": "Gilău",
+    "lat": 46.75,
+    "lon": 23.3833
+  },
+  {
+    "id": "petrovac_na_mlavi",
+    "name": "Petrovac na Mlavi",
+    "modern": "Petrovac na Mlavi",
+    "lat": 44.4591,
+    "lon": 21.507
+  },
+  {
+    "id": "regoly",
+    "name": "Regöly",
+    "modern": "Regöly",
+    "lat": 46.5792,
+    "lon": 18.3852
+  },
+  {
+    "id": "arrabona_bei",
+    "name": "Arrabona, bei",
+    "modern": "Arrabona, bei",
+    "lat": 47.6882,
+    "lon": 17.6342
+  },
+  {
+    "id": "iskar",
+    "name": "Iskâr",
+    "modern": "Iskâr",
+    "lat": 43.455,
+    "lon": 24.2675
+  },
+  {
+    "id": "iconium",
+    "name": "Iconium",
+    "modern": "Iconium",
+    "lat": 37.8713,
+    "lon": 32.4846
+  },
+  {
+    "id": "furnos_maius",
+    "name": "Furnos Maius",
+    "modern": "Furnos Maius",
+    "lat": 36.1365,
+    "lon": 9.5826
+  },
+  {
+    "id": "samum",
+    "name": "Samum",
+    "modern": "Samum",
+    "lat": 47.1966,
+    "lon": 23.8574
+  },
+  {
+    "id": "segusio",
+    "name": "Segusio",
+    "modern": "Segusio",
+    "lat": 45.1362,
+    "lon": 7.0445
+  },
+  {
+    "id": "gherla",
+    "name": "Gherla",
+    "modern": "Gherla",
+    "lat": 47.0227,
+    "lon": 23.8966
+  },
+  {
+    "id": "municipium_montanensium_bei",
+    "name": "Municipium Montanensium, bei",
+    "modern": "Municipium Montanensium, bei",
+    "lat": 43.4062,
+    "lon": 23.2195
+  },
+  {
+    "id": "algaiola",
+    "name": "Algaiola",
+    "modern": "Algaiola",
+    "lat": 42.1,
+    "lon": 9.5167
+  },
+  {
+    "id": "pfatter",
+    "name": "Pfatter",
+    "modern": "Pfatter",
+    "lat": 48.9742,
+    "lon": 12.4156
+  },
+  {
+    "id": "grinario_civitas_sumelocennensis",
+    "name": "Grinario (Civitas Sumelocennensis)",
+    "modern": "Grinario (Civitas Sumelocennensis)",
+    "lat": 48.6833,
+    "lon": 9.3667
+  },
+  {
+    "id": "aguntum",
+    "name": "Aguntum",
+    "modern": "Aguntum",
+    "lat": 46.8297,
+    "lon": 12.8221
+  },
+  {
+    "id": "maroneia",
+    "name": "Maroneia",
+    "modern": "Maroneia",
+    "lat": 40.8761,
+    "lon": 25.5149
+  },
+  {
+    "id": "seleucia_ad_calycadnum",
+    "name": "Seleucia ad Calycadnum",
+    "modern": "Seleucia ad Calycadnum",
+    "lat": 36.3778,
+    "lon": 33.9344
+  },
+  {
+    "id": "corfinium",
+    "name": "Corfinium",
+    "modern": "Corfinium",
+    "lat": 42.1167,
+    "lon": 13.8333
+  },
+  {
+    "id": "celtianis",
+    "name": "Celtianis",
+    "modern": "Celtianis",
+    "lat": 36.8383,
+    "lon": 6.5887
+  },
+  {
+    "id": "luguvalium",
+    "name": "Luguvalium",
+    "modern": "Luguvalium",
+    "lat": 54.8951,
+    "lon": -2.9382
+  },
+  {
+    "id": "thibilis",
+    "name": "Thibilis",
+    "modern": "Thibilis",
+    "lat": 36.382,
+    "lon": 7.2496
+  },
+  {
+    "id": "odessus",
+    "name": "Odessus",
+    "modern": "Odessus",
+    "lat": 43.2056,
+    "lon": 27.9065
+  },
+  {
+    "id": "habitancum",
+    "name": "Habitancum",
+    "modern": "Habitancum",
+    "lat": 55.176,
+    "lon": -2.1517
+  },
+  {
+    "id": "minoa",
+    "name": "Minoa",
+    "modern": "Minoa",
+    "lat": 37.9696,
+    "lon": 23.3622
+  },
+  {
+    "id": "tymion",
+    "name": "Tymion",
+    "modern": "Tymion",
+    "lat": 38.4833,
+    "lon": 29.65
+  },
+  {
+    "id": "singilia_barba",
+    "name": "Singilia Barba",
+    "modern": "Singilia Barba",
+    "lat": 37.0325,
+    "lon": -4.6304
+  },
+  {
+    "id": "celeusum",
+    "name": "Celeusum",
+    "modern": "Celeusum",
+    "lat": 48.8167,
+    "lon": 11.6833
+  },
+  {
+    "id": "illici",
+    "name": "Illici",
+    "modern": "Illici",
+    "lat": 38.2622,
+    "lon": -0.7011
+  },
+  {
+    "id": "edessa_2",
+    "name": "Edessa",
+    "modern": "Edessa",
+    "lat": 40.7969,
+    "lon": 22.0578
+  },
+  {
+    "id": "fulginiae",
+    "name": "Fulginiae",
+    "modern": "Fulginiae",
+    "lat": 42.945,
+    "lon": 12.702
+  },
+  {
+    "id": "patara",
+    "name": "Patara",
+    "modern": "Patara",
+    "lat": 36.2646,
+    "lon": 29.3159
+  },
+  {
+    "id": "annamatia",
+    "name": "Annamatia",
+    "modern": "Annamatia",
+    "lat": 46.8682,
+    "lon": 18.9215
+  },
+  {
+    "id": "amastris",
+    "name": "Amastris",
+    "modern": "Amastris",
+    "lat": 41.7463,
+    "lon": 32.3863
+  },
+  {
+    "id": "althiburos",
+    "name": "Althiburos",
+    "modern": "Althiburos",
+    "lat": 35.9438,
+    "lon": 8.8318
+  },
+  {
+    "id": "casinum",
+    "name": "Casinum",
+    "modern": "Casinum",
+    "lat": 41.5,
+    "lon": 13.8167
+  },
+  {
+    "id": "pheradi_maius",
+    "name": "Pheradi Maius",
+    "modern": "Pheradi Maius",
+    "lat": 36.246,
+    "lon": 10.4275
+  },
+  {
+    "id": "castulo",
+    "name": "Castulo",
+    "modern": "Castulo",
+    "lat": 37.9692,
+    "lon": -3.8088
+  },
+  {
+    "id": "fabrateria_vetus",
+    "name": "Fabrateria Vetus",
+    "modern": "Fabrateria Vetus",
+    "lat": 41.5667,
+    "lon": 13.3333
+  },
+  {
+    "id": "perge_2",
+    "name": "Perge",
+    "modern": "Perge",
+    "lat": 37.8,
+    "lon": 31.0667
+  },
+  {
+    "id": "thibari",
+    "name": "Thibari",
+    "modern": "Thibari",
+    "lat": 36.5224,
+    "lon": 9.106
+  },
+  {
+    "id": "colonia_ulpia_traiana_sarmizegetusa_aus",
+    "name": "Colonia Ulpia Traiana Sarmizegetusa, aus",
+    "modern": "Colonia Ulpia Traiana Sarmizegetusa, aus",
+    "lat": 45.5279,
+    "lon": 22.8467
+  },
+  {
+    "id": "urbs_salvia",
+    "name": "Urbs Salvia",
+    "modern": "Urbs Salvia",
+    "lat": 43.1923,
+    "lon": 13.3739
+  },
+  {
+    "id": "samothracia_2",
+    "name": "Samothracia",
+    "modern": "Samothracia",
+    "lat": 40.4742,
+    "lon": 25.524
+  },
+  {
+    "id": "cambodunum_bei",
+    "name": "Cambodunum, bei",
+    "modern": "Cambodunum, bei",
+    "lat": 47.7239,
+    "lon": 10.311
+  },
+  {
+    "id": "romula",
+    "name": "Romula",
+    "modern": "Romula",
+    "lat": 44.1723,
+    "lon": 24.391
+  },
+  {
+    "id": "bu_aradah",
+    "name": "Bū ‘Arādah",
+    "modern": "Bū ‘Arādah",
+    "lat": 36.3525,
+    "lon": 9.6218
+  },
+  {
+    "id": "serdica",
+    "name": "Serdica",
+    "modern": "Serdica",
+    "lat": 42.6975,
+    "lon": 23.3241
+  },
+  {
+    "id": "hierapolis_castabala",
+    "name": "Hierapolis Castabala",
+    "modern": "Hierapolis Castabala",
+    "lat": 37.1764,
+    "lon": 36.1874
+  },
+  {
+    "id": "tarquinii",
+    "name": "Tarquinii",
+    "modern": "Tarquinii",
+    "lat": 42.2547,
+    "lon": 11.7585
+  },
+  {
+    "id": "aeso",
+    "name": "Aeso",
+    "modern": "Aeso",
+    "lat": 42.1176,
+    "lon": 1.0462
+  },
+  {
+    "id": "apulum_2",
+    "name": "Apulum",
+    "modern": "Apulum",
+    "lat": 46.0444,
+    "lon": 23.5589
+  },
+  {
+    "id": "aquae_sulis",
+    "name": "Aquae Sulis",
+    "modern": "Aquae Sulis",
+    "lat": 51.3813,
+    "lon": -2.3592
+  },
+  {
+    "id": "lefkopetra",
+    "name": "Lefkópetra",
+    "modern": "Lefkópetra",
+    "lat": 40.4281,
+    "lon": 22.1853
+  },
+  {
+    "id": "aquincum_bei",
+    "name": "Aquincum, bei",
+    "modern": "Aquincum, bei",
+    "lat": 47.19,
+    "lon": 18.4103
+  },
+  {
+    "id": "bellunum",
+    "name": "Bellunum",
+    "modern": "Bellunum",
+    "lat": 46.14,
+    "lon": 12.2174
+  },
+  {
+    "id": "saldae",
+    "name": "Saldae",
+    "modern": "Saldae",
+    "lat": 36.7567,
+    "lon": 5.0781
+  },
+  {
+    "id": "commagena",
+    "name": "Commagena",
+    "modern": "Commagena",
+    "lat": 48.3309,
+    "lon": 16.0558
+  },
+  {
+    "id": "cius",
+    "name": "Cius",
+    "modern": "Cius",
+    "lat": 44.7229,
+    "lon": 28.0618
+  },
+  {
+    "id": "tropaeum_traiani",
+    "name": "Tropaeum Traiani",
+    "modern": "Tropaeum Traiani",
+    "lat": 44.0919,
+    "lon": 27.9442
+  },
+  {
+    "id": "uley",
+    "name": "Uley",
+    "modern": "Uley",
+    "lat": 51.6842,
+    "lon": -2.3058
+  },
+  {
+    "id": "auzia",
+    "name": "Auzia",
+    "modern": "Auzia",
+    "lat": 36.1477,
+    "lon": 3.6912
+  },
+  {
+    "id": "tarracina",
+    "name": "Tarracina",
+    "modern": "Tarracina",
+    "lat": 41.2912,
+    "lon": 13.2489
+  },
+  {
+    "id": "solva",
+    "name": "Solva",
+    "modern": "Solva",
+    "lat": 47.7928,
+    "lon": 18.7415
+  },
+  {
+    "id": "remesiana",
+    "name": "Remesiana",
+    "modern": "Remesiana",
+    "lat": 43.2195,
+    "lon": 22.3107
+  },
+  {
+    "id": "prijedor",
+    "name": "Prijedor",
+    "modern": "Prijedor",
+    "lat": 44.9192,
+    "lon": 16.6054
+  },
+  {
+    "id": "axima_forum_claudii_ceutronum",
+    "name": "Axima (Forum Claudii Ceutronum)",
+    "modern": "Axima (Forum Claudii Ceutronum)",
+    "lat": 45.556,
+    "lon": 6.6521
+  },
+  {
+    "id": "narona",
+    "name": "Narona",
+    "modern": "Narona",
+    "lat": 43.0812,
+    "lon": 17.6241
+  },
+  {
+    "id": "cruciniacum_civitas_vangionum",
+    "name": "Cruciniacum (Civitas Vangionum?)",
+    "modern": "Cruciniacum (Civitas Vangionum?)",
+    "lat": 49.8432,
+    "lon": 7.8658
+  },
+  {
+    "id": "virosidum",
+    "name": "Virosidum",
+    "modern": "Virosidum",
+    "lat": 54.3069,
+    "lon": -2.0981
+  },
+  {
+    "id": "gemella",
+    "name": "Gemella?",
+    "modern": "Gemella?",
+    "lat": 34.5,
+    "lon": 8.5
+  },
+  {
+    "id": "sala",
+    "name": "Sala",
+    "modern": "Sala",
+    "lat": 34.4175,
+    "lon": -4.6779
+  },
+  {
+    "id": "scaptopara",
+    "name": "Scaptopara",
+    "modern": "Scaptopara",
+    "lat": 42.014,
+    "lon": 23.0783
+  },
+  {
+    "id": "praetoria",
+    "name": "Praetoria",
+    "modern": "Praetoria",
+    "lat": 37.7203,
+    "lon": 30.2908
+  },
+  {
+    "id": "neapolis_2",
+    "name": "Neapolis",
+    "modern": "Neapolis",
+    "lat": 36.4561,
+    "lon": 10.7376
+  },
+  {
+    "id": "didyma",
+    "name": "Didyma",
+    "modern": "Didyma",
+    "lat": 35.2587,
+    "lon": 24.6393
+  },
+  {
+    "id": "drobeta",
+    "name": "Drobeta",
+    "modern": "Drobeta",
+    "lat": 44.6356,
+    "lon": 22.6602
+  },
+  {
+    "id": "ravenglass",
+    "name": "Ravenglass",
+    "modern": "Ravenglass",
+    "lat": 54.3559,
+    "lon": -3.4086
+  },
+  {
+    "id": "acs",
+    "name": "Ács",
+    "modern": "Ács",
+    "lat": 47.684,
+    "lon": 17.9179
+  },
+  {
+    "id": "frecatei",
+    "name": "Frecăţei",
+    "modern": "Frecăţei",
+    "lat": 45.0943,
+    "lon": 28.7481
+  },
+  {
+    "id": "alteglofsheim",
+    "name": "Alteglofsheim",
+    "modern": "Alteglofsheim",
+    "lat": 48.9228,
+    "lon": 12.1837
+  },
+  {
+    "id": "tropaeum_traiani_bei",
+    "name": "Tropaeum Traiani, bei",
+    "modern": "Tropaeum Traiani, bei",
+    "lat": 44.1023,
+    "lon": 27.9554
+  },
+  {
+    "id": "dupnica",
+    "name": "Dupnica",
+    "modern": "Dupnica",
+    "lat": 42.2551,
+    "lon": 23.0319
+  },
+  {
+    "id": "per_bei",
+    "name": "Pér, bei",
+    "modern": "Pér, bei",
+    "lat": 47.6112,
+    "lon": 17.805
+  },
+  {
+    "id": "municipium_montanensium_bei_2",
+    "name": "Municipium Montanensium, bei",
+    "modern": "Municipium Montanensium, bei",
+    "lat": 43.4,
+    "lon": 24.1991
+  },
+  {
+    "id": "flavia_solva",
+    "name": "Flavia Solva",
+    "modern": "Flavia Solva",
+    "lat": 46.7665,
+    "lon": 15.5698
+  },
+  {
+    "id": "popovo",
+    "name": "Popovo",
+    "modern": "Popovo",
+    "lat": 43.3923,
+    "lon": 26.157
+  },
+  {
+    "id": "ihtiman",
+    "name": "Ihtiman",
+    "modern": "Ihtiman",
+    "lat": 42.4211,
+    "lon": 23.9959
+  },
+  {
+    "id": "larinum",
+    "name": "Larinum",
+    "modern": "Larinum",
+    "lat": 41.8075,
+    "lon": 14.9193
+  },
+  {
+    "id": "vidin",
+    "name": "Vidin",
+    "modern": "Vidin",
+    "lat": 44.0887,
+    "lon": 22.8639
+  },
+  {
+    "id": "vukovar_bei",
+    "name": "Vukovar, bei",
+    "modern": "Vukovar, bei",
+    "lat": 45.3433,
+    "lon": 18.9997
+  },
+  {
+    "id": "nicopolis_ad_istrum_bei",
+    "name": "Nicopolis ad Istrum, bei",
+    "modern": "Nicopolis ad Istrum, bei",
+    "lat": 43.3024,
+    "lon": 25.2164
+  },
+  {
+    "id": "durostorum_bei",
+    "name": "Durostorum, bei",
+    "modern": "Durostorum, bei",
+    "lat": 44.0983,
+    "lon": 26.8287
+  },
+  {
+    "id": "aquincum_bei_2",
+    "name": "Aquincum, bei",
+    "modern": "Aquincum, bei",
+    "lat": 47.5229,
+    "lon": 18.6085
+  },
+  {
+    "id": "pirot",
+    "name": "Pirot",
+    "modern": "Pirot",
+    "lat": 43.0108,
+    "lon": 22.6871
+  },
+  {
+    "id": "kisber",
+    "name": "Kisbér",
+    "modern": "Kisbér",
+    "lat": 47.4976,
+    "lon": 18.0286
+  },
+  {
+    "id": "brompton",
+    "name": "Brompton",
+    "modern": "Brompton",
+    "lat": 54.2612,
+    "lon": -0.5738
+  },
+  {
+    "id": "kalindoia",
+    "name": "Kalindoia",
+    "modern": "Kalindoia",
+    "lat": 40.5561,
+    "lon": 23.3735
+  },
+  {
+    "id": "taliata",
+    "name": "Taliata",
+    "modern": "Taliata",
+    "lat": 44.4682,
+    "lon": 22.166
+  },
+  {
+    "id": "civitas_alisinensium",
+    "name": "(Civitas Alisinensium)",
+    "modern": "(Civitas Alisinensium)",
+    "lat": 49.3764,
+    "lon": 9.1716
+  },
+  {
+    "id": "pavel_banja",
+    "name": "Pavel Banja",
+    "modern": "Pavel Banja",
+    "lat": 42.6327,
+    "lon": 25.1659
+  },
+  {
+    "id": "nicopolis_ad_istrum_bei_2",
+    "name": "Nicopolis ad Istrum, bei",
+    "modern": "Nicopolis ad Istrum, bei",
+    "lat": 43.1559,
+    "lon": 25.7906
+  },
+  {
+    "id": "ad_mediam",
+    "name": "Ad Mediam",
+    "modern": "Ad Mediam",
+    "lat": 44.9333,
+    "lon": 22.3504
+  },
+  {
+    "id": "rusellae_bei",
+    "name": "Rusellae, bei",
+    "modern": "Rusellae, bei",
+    "lat": 42.829,
+    "lon": 11.1595
+  },
+  {
+    "id": "corotna_bei",
+    "name": "Corotna, bei",
+    "modern": "Corotna, bei",
+    "lat": 46.6332,
+    "lon": 29.8591
+  },
+  {
+    "id": "findspot_40_9833_24_95",
+    "name": "Findspot (40.9833,24.95)",
+    "modern": "Findspot (40.9833,24.95)",
+    "lat": 40.9833,
+    "lon": 24.95
+  },
+  {
+    "id": "tauromenium",
+    "name": "Tauromenium",
+    "modern": "Tauromenium",
+    "lat": 37.8531,
+    "lon": 15.2879
+  },
+  {
+    "id": "fantanele",
+    "name": "Fântânele",
+    "modern": "Fântânele",
+    "lat": 44.6167,
+    "lon": 28.5833
+  },
+  {
+    "id": "cerven_brjag",
+    "name": "Červen Brjag",
+    "modern": "Červen Brjag",
+    "lat": 43.317,
+    "lon": 24.0067
+  },
+  {
+    "id": "breznik_sudwestlich",
+    "name": "Breznik, südwestlich",
+    "modern": "Breznik, südwestlich",
+    "lat": 42.705,
+    "lon": 22.8616
+  },
+  {
+    "id": "apollonia",
+    "name": "Apollonia",
+    "modern": "Apollonia",
+    "lat": 40.7217,
+    "lon": 19.4728
+  },
+  {
+    "id": "augusta_diocletianopolis",
+    "name": "Augusta (Diocletianopolis)",
+    "modern": "Augusta (Diocletianopolis)",
+    "lat": 42.5247,
+    "lon": 24.7982
+  },
+  {
+    "id": "tlos",
+    "name": "Tlos",
+    "modern": "Tlos",
+    "lat": 36.5548,
+    "lon": 29.4187
+  },
+  {
+    "id": "kalojanovo",
+    "name": "Kalojanovo",
+    "modern": "Kalojanovo",
+    "lat": 42.4147,
+    "lon": 24.8657
+  },
+  {
+    "id": "slavonski_samac",
+    "name": "Slavonski Šamac",
+    "modern": "Slavonski Šamac",
+    "lat": 45.0605,
+    "lon": 18.4862
+  },
+  {
+    "id": "chaource",
+    "name": "Chaource",
+    "modern": "Chaource",
+    "lat": 48.0667,
+    "lon": 4.1333
+  },
+  {
+    "id": "aquincum_bei_3",
+    "name": "Aquincum, bei",
+    "modern": "Aquincum, bei",
+    "lat": 46.7911,
+    "lon": 18.7322
+  },
+  {
+    "id": "sulmo_bei",
+    "name": "Sulmo, bei",
+    "modern": "Sulmo, bei",
+    "lat": 42.0468,
+    "lon": 13.9256
+  },
+  {
+    "id": "vidin_2",
+    "name": "Vidin",
+    "modern": "Vidin",
+    "lat": 43.99,
+    "lon": 22.7334
+  },
+  {
+    "id": "vicohabentia",
+    "name": "Vicohabentia",
+    "modern": "Vicohabentia",
+    "lat": 44.7672,
+    "lon": 11.7505
+  },
+  {
+    "id": "nicopolis_ad_istrum_bei_3",
+    "name": "Nicopolis ad Istrum, bei",
+    "modern": "Nicopolis ad Istrum, bei",
+    "lat": 43.2177,
+    "lon": 25.422
+  },
+  {
+    "id": "samokov",
+    "name": "Samokov",
+    "modern": "Samokov",
+    "lat": 42.3469,
+    "lon": 23.5203
+  },
+  {
+    "id": "laertes",
+    "name": "Laertes",
+    "modern": "Laertes",
+    "lat": 36.5192,
+    "lon": 32.1533
+  },
+  {
+    "id": "bakonycsernye",
+    "name": "Bakonycsernye",
+    "modern": "Bakonycsernye",
+    "lat": 47.2989,
+    "lon": 18.0618
+  },
+  {
+    "id": "iatrus",
+    "name": "Iatrus",
+    "modern": "Iatrus",
+    "lat": 43.6227,
+    "lon": 25.5792
+  },
+  {
+    "id": "petelia",
+    "name": "Petelia",
+    "modern": "Petelia",
+    "lat": 39.2661,
+    "lon": 17.0511
+  },
+  {
+    "id": "baelo",
+    "name": "Baelo",
+    "modern": "Baelo",
+    "lat": 36.089,
+    "lon": -5.7743
+  },
+  {
+    "id": "phoebianae",
+    "name": "Phoebianae",
+    "modern": "Phoebianae",
+    "lat": 48.5624,
+    "lon": 10.407
+  },
+  {
+    "id": "philae",
+    "name": "Philae",
+    "modern": "Philae",
+    "lat": 30.2794,
+    "lon": 18.8059
+  },
+  {
+    "id": "tarjan",
+    "name": "Tarján",
+    "modern": "Tarján",
+    "lat": 47.6086,
+    "lon": 18.5096
+  },
+  {
+    "id": "abrittus",
+    "name": "Abrittus",
+    "modern": "Abrittus",
+    "lat": 43.5266,
+    "lon": 26.5229
+  },
+  {
+    "id": "scaptopara_2",
+    "name": "Scaptopara",
+    "modern": "Scaptopara",
+    "lat": 41.9325,
+    "lon": 22.9752
+  },
+  {
+    "id": "colbasa",
+    "name": "Colbasa",
+    "modern": "Colbasa",
+    "lat": 37.4469,
+    "lon": 30.4281
+  },
+  {
+    "id": "corcyra",
+    "name": "Corcyra",
+    "modern": "Corcyra",
+    "lat": 42.9616,
+    "lon": 17.1359
+  },
+  {
+    "id": "falerio_bei",
+    "name": "Falerio, bei",
+    "modern": "Falerio, bei",
+    "lat": 43.1055,
+    "lon": 13.4703
+  },
+  {
+    "id": "bassianae_bei",
+    "name": "Bassianae, bei",
+    "modern": "Bassianae, bei",
+    "lat": 44.9905,
+    "lon": 19.9704
+  },
+  {
+    "id": "asseria",
+    "name": "Asseria",
+    "modern": "Asseria",
+    "lat": 44.0103,
+    "lon": 15.668
+  },
+  {
+    "id": "nova_zagora_bei",
+    "name": "Nova Zagora, bei",
+    "modern": "Nova Zagora, bei",
+    "lat": 42.4833,
+    "lon": 26.0167
+  },
+  {
+    "id": "heraclea_sintica_bei",
+    "name": "Heraclea Sintica, bei",
+    "modern": "Heraclea Sintica, bei",
+    "lat": 41.46,
+    "lon": 23.2618
+  },
+  {
+    "id": "cibalae_bei",
+    "name": "Cibalae, bei",
+    "modern": "Cibalae, bei",
+    "lat": 45.2781,
+    "lon": 18.9972
+  },
+  {
+    "id": "sungurlare",
+    "name": "Sungurlare",
+    "modern": "Sungurlare",
+    "lat": 42.9114,
+    "lon": 26.8037
+  },
+  {
+    "id": "pernik",
+    "name": "Pernik",
+    "modern": "Pernik",
+    "lat": 42.5941,
+    "lon": 23.0177
+  },
+  {
+    "id": "jakimovo",
+    "name": "Jakimovo",
+    "modern": "Jakimovo",
+    "lat": 43.6051,
+    "lon": 23.2796
+  },
+  {
+    "id": "interamna_lirenas",
+    "name": "Interamna Lirenas",
+    "modern": "Interamna Lirenas",
+    "lat": 41.4667,
+    "lon": 13.7833
+  },
+  {
+    "id": "comum_aus",
+    "name": "Comum, aus",
+    "modern": "Comum, aus",
+    "lat": 45.812,
+    "lon": 9.0855
+  },
+  {
+    "id": "sucidava",
+    "name": "Sucidava",
+    "modern": "Sucidava",
+    "lat": 43.7664,
+    "lon": 24.4554
+  },
+  {
+    "id": "el_rubio",
+    "name": "El Rubio",
+    "modern": "El Rubio",
+    "lat": 37.3562,
+    "lon": -4.989
+  },
+  {
+    "id": "claudiopolis",
+    "name": "Claudiopolis",
+    "modern": "Claudiopolis",
+    "lat": 40.7358,
+    "lon": 31.6061
+  },
+  {
+    "id": "vaga",
+    "name": "Vaga",
+    "modern": "Vaga",
+    "lat": 36.7256,
+    "lon": 9.1817
+  },
+  {
+    "id": "verteskethely",
+    "name": "Vérteskethely",
+    "modern": "Vérteskethely",
+    "lat": 47.4859,
+    "lon": 18.0834
+  },
+  {
+    "id": "aflou",
+    "name": "Aflou",
+    "modern": "Aflou",
+    "lat": 34.1128,
+    "lon": 2.1023
+  },
+  {
+    "id": "cabyle",
+    "name": "Cabyle",
+    "modern": "Cabyle",
+    "lat": 42.5508,
+    "lon": 26.4842
+  },
+  {
+    "id": "philippopolis_bei",
+    "name": "Philippopolis, bei",
+    "modern": "Philippopolis, bei",
+    "lat": 42.0794,
+    "lon": 24.5922
+  },
+  {
+    "id": "ratiaria",
+    "name": "Ratiaria",
+    "modern": "Ratiaria",
+    "lat": 43.8097,
+    "lon": 22.9184
+  },
+  {
+    "id": "glavinica",
+    "name": "Glavinica",
+    "modern": "Glavinica",
+    "lat": 43.9988,
+    "lon": 26.8236
+  },
+  {
+    "id": "salla",
+    "name": "Salla",
+    "modern": "Salla",
+    "lat": 46.848,
+    "lon": 16.5875
+  },
+  {
+    "id": "asturis",
+    "name": "Asturis?",
+    "modern": "Asturis?",
+    "lat": 48.3442,
+    "lon": 15.9106
+  },
+  {
+    "id": "tocolosida",
+    "name": "Tocolosida",
+    "modern": "Tocolosida",
+    "lat": 34.0301,
+    "lon": -5.5999
+  },
+  {
+    "id": "civitas_sumelocennensis",
+    "name": "(Civitas Sumelocennensis)",
+    "modern": "(Civitas Sumelocennensis)",
+    "lat": 48.5821,
+    "lon": 9.4355
+  },
+  {
+    "id": "tibiscum",
+    "name": "Tibiscum",
+    "modern": "Tibiscum",
+    "lat": 45.4673,
+    "lon": 22.188
+  },
+  {
+    "id": "oberschneiding",
+    "name": "Oberschneiding",
+    "modern": "Oberschneiding",
+    "lat": 48.7902,
+    "lon": 12.6438
+  },
+  {
+    "id": "dertosa_bei",
+    "name": "Dertosa, bei",
+    "modern": "Dertosa, bei",
+    "lat": 41.1846,
+    "lon": 0.5895
+  },
+  {
+    "id": "tremuli",
+    "name": "Tremuli?",
+    "modern": "Tremuli?",
+    "lat": 34.5,
+    "lon": -6.0
+  },
+  {
+    "id": "cluviae_bei",
+    "name": "Cluviae, bei",
+    "modern": "Cluviae, bei",
+    "lat": 42.118,
+    "lon": 14.292
+  },
+  {
+    "id": "colonia_ulpia_traiana",
+    "name": "Colonia Ulpia Traiana",
+    "modern": "Colonia Ulpia Traiana",
+    "lat": 51.6455,
+    "lon": 6.4923
+  },
+  {
+    "id": "vidin_3",
+    "name": "Vidin?",
+    "modern": "Vidin?",
+    "lat": 43.9962,
+    "lon": 22.8679
+  },
+  {
+    "id": "archelais_bei",
+    "name": "Archelais, bei",
+    "modern": "Archelais, bei",
+    "lat": 38.4081,
+    "lon": 33.8312
+  },
+  {
+    "id": "golpazar_vezirhan_zwischen",
+    "name": "Gölpazarı - Vezirhan, zwischen",
+    "modern": "Gölpazarı - Vezirhan, zwischen",
+    "lat": 40.2776,
+    "lon": 30.398
+  },
+  {
+    "id": "mediolanum_santonum",
+    "name": "Mediolanum Santonum",
+    "modern": "Mediolanum Santonum",
+    "lat": 45.75,
+    "lon": -0.6333
+  },
+  {
+    "id": "trebula_suffenas",
+    "name": "Trebula Suffenas",
+    "modern": "Trebula Suffenas",
+    "lat": 41.9548,
+    "lon": 12.938
+  },
+  {
+    "id": "byllis",
+    "name": "Byllis",
+    "modern": "Byllis",
+    "lat": 40.55,
+    "lon": 19.7334
+  },
+  {
+    "id": "munigua",
+    "name": "Munigua",
+    "modern": "Munigua",
+    "lat": 37.7133,
+    "lon": -5.7407
+  },
+  {
+    "id": "tajo",
+    "name": "Tajó",
+    "modern": "Tajó",
+    "lat": 46.4758,
+    "lon": 19.6645
+  },
+  {
+    "id": "segisamum",
+    "name": "Segisamum",
+    "modern": "Segisamum",
+    "lat": 42.4169,
+    "lon": -4.0429
+  },
+  {
+    "id": "obulcula",
+    "name": "Obulcula",
+    "modern": "Obulcula",
+    "lat": 37.4442,
+    "lon": -4.2747
+  },
+  {
+    "id": "burnum",
+    "name": "Burnum",
+    "modern": "Burnum",
+    "lat": 44.0181,
+    "lon": 16.0256
+  },
+  {
+    "id": "gadzin_han",
+    "name": "Gadžin Han",
+    "modern": "Gadžin Han",
+    "lat": 43.0998,
+    "lon": 22.205
+  },
+  {
+    "id": "bassianae_bei_sirmium_inter",
+    "name": "Bassianae, bei - Sirmium, inter",
+    "modern": "Bassianae, bei - Sirmium, inter",
+    "lat": 44.9664,
+    "lon": 19.9229
+  },
+  {
+    "id": "pontes",
+    "name": "Pontes",
+    "modern": "Pontes",
+    "lat": 44.6131,
+    "lon": 22.6693
+  },
+  {
+    "id": "pisaurum",
+    "name": "Pisaurum",
+    "modern": "Pisaurum",
+    "lat": 43.9121,
+    "lon": 12.9157
+  },
+  {
+    "id": "vallatum",
+    "name": "Vallatum?",
+    "modern": "Vallatum?",
+    "lat": 48.7167,
+    "lon": 11.5079
+  },
+  {
+    "id": "anagnia",
+    "name": "Anagnia",
+    "modern": "Anagnia",
+    "lat": 41.7422,
+    "lon": 13.159
+  },
+  {
+    "id": "vazaivi",
+    "name": "Vazaivi",
+    "modern": "Vazaivi",
+    "lat": 35.2904,
+    "lon": 7.3609
+  },
+  {
+    "id": "flemalle",
+    "name": "Flémalle",
+    "modern": "Flémalle",
+    "lat": 50.6022,
+    "lon": 5.4436
+  },
+  {
+    "id": "avedda",
+    "name": "Avedda",
+    "modern": "Avedda",
+    "lat": 36.7979,
+    "lon": 9.5229
+  },
+  {
+    "id": "amphissa",
+    "name": "Amphissa",
+    "modern": "Amphissa",
+    "lat": 38.5251,
+    "lon": 22.3778
+  },
+  {
+    "id": "iuvavum_bei",
+    "name": "Iuvavum, bei",
+    "modern": "Iuvavum, bei",
+    "lat": 47.6979,
+    "lon": 13.1095
+  },
+  {
+    "id": "mediana",
+    "name": "Mediana",
+    "modern": "Mediana",
+    "lat": 49.0588,
+    "lon": 10.7123
+  },
+  {
+    "id": "samothracia_insula",
+    "name": "Samothracia, insula",
+    "modern": "Samothracia, insula",
+    "lat": 40.4477,
+    "lon": 25.5918
+  },
+  {
+    "id": "bataszek_bei",
+    "name": "Bátaszék, bei",
+    "modern": "Bátaszék, bei",
+    "lat": 46.1918,
+    "lon": 18.7247
+  },
+  {
+    "id": "naryka",
+    "name": "Naryka",
+    "modern": "Naryka",
+    "lat": 38.7171,
+    "lon": 22.7282
+  },
+  {
+    "id": "ehingen",
+    "name": "Ehingen",
+    "modern": "Ehingen",
+    "lat": 49.1027,
+    "lon": 10.5788
+  },
+  {
+    "id": "demetrias",
+    "name": "Demetrias",
+    "modern": "Demetrias",
+    "lat": 39.3669,
+    "lon": 22.9583
+  },
+  {
+    "id": "pannonhalma",
+    "name": "Pannonhalma",
+    "modern": "Pannonhalma",
+    "lat": 47.5526,
+    "lon": 17.7608
+  },
+  {
+    "id": "apta_iulia",
+    "name": "Apta Iulia",
+    "modern": "Apta Iulia",
+    "lat": 43.8833,
+    "lon": 5.4
+  },
+  {
+    "id": "aquae_balissae_bei",
+    "name": "Aquae Balissae, bei",
+    "modern": "Aquae Balissae, bei",
+    "lat": 45.6454,
+    "lon": 17.3231
+  },
+  {
+    "id": "siofok_bei",
+    "name": "Siófok, bei",
+    "modern": "Siófok, bei",
+    "lat": 46.9091,
+    "lon": 18.0746
+  },
+  {
+    "id": "arae_flaviae",
+    "name": "Arae Flaviae",
+    "modern": "Arae Flaviae",
+    "lat": 48.1655,
+    "lon": 8.6251
+  },
+  {
+    "id": "scampa",
+    "name": "Scampa",
+    "modern": "Scampa",
+    "lat": 41.1168,
+    "lon": 20.0926
+  },
+  {
+    "id": "vitudurum_aus",
+    "name": "Vitudurum, aus",
+    "modern": "Vitudurum, aus",
+    "lat": 47.6633,
+    "lon": 9.1757
+  },
+  {
+    "id": "aquincum_bei_4",
+    "name": "Aquincum, bei",
+    "modern": "Aquincum, bei",
+    "lat": 47.0243,
+    "lon": 18.9351
+  },
+  {
+    "id": "civitas_auderiensium",
+    "name": "(Civitas Auderiensium)",
+    "modern": "(Civitas Auderiensium)",
+    "lat": 49.9701,
+    "lon": 9.0716
+  },
+  {
+    "id": "feltria",
+    "name": "Feltria",
+    "modern": "Feltria",
+    "lat": 46.0166,
+    "lon": 11.9057
+  },
+  {
+    "id": "sicca_veneria_bei",
+    "name": "Sicca Veneria, bei",
+    "modern": "Sicca Veneria, bei",
+    "lat": 36.1789,
+    "lon": 8.7101
+  },
+  {
+    "id": "bedaium_bei",
+    "name": "Bedaium, bei",
+    "modern": "Bedaium, bei",
+    "lat": 47.8548,
+    "lon": 12.3872
+  },
+  {
+    "id": "scupi_bei",
+    "name": "Scupi, bei",
+    "modern": "Scupi, bei",
+    "lat": 42.0215,
+    "lon": 21.2472
+  },
+  {
+    "id": "favianae",
+    "name": "Favianae?",
+    "modern": "Favianae?",
+    "lat": 48.3939,
+    "lon": 15.5768
+  },
+  {
+    "id": "andautonia_bei",
+    "name": "Andautonia, bei",
+    "modern": "Andautonia, bei",
+    "lat": 45.6915,
+    "lon": 16.0293
+  },
+  {
+    "id": "cemenelum_bei",
+    "name": "Cemenelum, bei",
+    "modern": "Cemenelum, bei",
+    "lat": 43.7454,
+    "lon": 7.4007
+  },
+  {
+    "id": "sua",
+    "name": "Sua",
+    "modern": "Sua",
+    "lat": 36.7117,
+    "lon": 9.5408
+  },
+  {
+    "id": "herrera_de_pisuerga",
+    "name": "Herrera de Pisuerga",
+    "modern": "Herrera de Pisuerga",
+    "lat": 42.5949,
+    "lon": -4.3303
+  },
+  {
+    "id": "mineralni_bani",
+    "name": "Mineralni Bani",
+    "modern": "Mineralni Bani",
+    "lat": 41.9346,
+    "lon": 25.3496
+  },
+  {
+    "id": "aquae_flaviae",
+    "name": "Aquae Flaviae",
+    "modern": "Aquae Flaviae",
+    "lat": 41.7402,
+    "lon": -7.4688
+  },
+  {
+    "id": "sabora_bei",
+    "name": "Sabora, bei",
+    "modern": "Sabora, bei",
+    "lat": 36.9515,
+    "lon": -5.0244
+  },
+  {
+    "id": "epiacum",
+    "name": "Epiacum",
+    "modern": "Epiacum",
+    "lat": 54.8324,
+    "lon": -2.4765
+  },
+  {
+    "id": "callatis_bei",
+    "name": "Callatis, bei",
+    "modern": "Callatis, bei",
+    "lat": 44.0653,
+    "lon": 28.2333
+  },
+  {
+    "id": "cercedilla",
+    "name": "Cercedilla",
+    "modern": "Cercedilla",
+    "lat": 40.741,
+    "lon": -4.0564
+  },
+  {
+    "id": "podgora",
+    "name": "Podgora",
+    "modern": "Podgora",
+    "lat": 43.1835,
+    "lon": 17.164
+  },
+  {
+    "id": "opitergium",
+    "name": "Opitergium",
+    "modern": "Opitergium",
+    "lat": 45.7812,
+    "lon": 12.4937
+  },
+  {
+    "id": "fuentes_de_ropel",
+    "name": "Fuentes de Ropel",
+    "modern": "Fuentes de Ropel",
+    "lat": 42.0038,
+    "lon": -5.5453
+  },
+  {
+    "id": "khirbat_khan_al_abyad",
+    "name": "Khirbat Khān al Abyaḑ",
+    "modern": "Khirbat Khān al Abyaḑ",
+    "lat": 34.0362,
+    "lon": 37.0094
+  },
+  {
+    "id": "santacara",
+    "name": "Santacara",
+    "modern": "Santacara",
+    "lat": 42.3667,
+    "lon": -1.6333
+  },
+  {
+    "id": "serdica_2",
+    "name": "Serdica",
+    "modern": "Serdica",
+    "lat": 42.7861,
+    "lon": 23.2735
+  },
+  {
+    "id": "thyateira",
+    "name": "Thyateira",
+    "modern": "Thyateira",
+    "lat": 39.0878,
+    "lon": 30.707
+  },
+  {
+    "id": "dinia_bei",
+    "name": "Dinia, bei",
+    "modern": "Dinia, bei",
+    "lat": 44.15,
+    "lon": 6.15
+  },
+  {
+    "id": "sarria_de_ter",
+    "name": "Sarriá de Ter",
+    "modern": "Sarriá de Ter",
+    "lat": 42.0167,
+    "lon": 2.8333
+  },
+  {
+    "id": "sopianae_bei",
+    "name": "Sopianae, bei",
+    "modern": "Sopianae, bei",
+    "lat": 46.0851,
+    "lon": 18.0823
+  },
+  {
+    "id": "burnum_bei",
+    "name": "Burnum, bei",
+    "modern": "Burnum, bei",
+    "lat": 44.0862,
+    "lon": 16.029
+  },
+  {
+    "id": "mihai_bravu",
+    "name": "Mihai Bravu",
+    "modern": "Mihai Bravu",
+    "lat": 44.9472,
+    "lon": 28.6562
+  },
+  {
+    "id": "augustonemetum",
+    "name": "Augustonemetum",
+    "modern": "Augustonemetum",
+    "lat": 45.7833,
+    "lon": 3.0833
+  },
+  {
+    "id": "ucles",
+    "name": "Uclés",
+    "modern": "Uclés",
+    "lat": 39.9794,
+    "lon": -2.8614
+  },
+  {
+    "id": "mascula",
+    "name": "Mascula",
+    "modern": "Mascula",
+    "lat": 35.4358,
+    "lon": 7.1433
+  },
+  {
+    "id": "volsinii",
+    "name": "Volsinii",
+    "modern": "Volsinii",
+    "lat": 42.6448,
+    "lon": 11.9861
+  },
+  {
+    "id": "busr_el_hariri",
+    "name": "Busr el Hariri",
+    "modern": "Busr el Hariri",
+    "lat": 32.8425,
+    "lon": 36.34
+  },
+  {
+    "id": "chidibbia",
+    "name": "Chidibbia",
+    "modern": "Chidibbia",
+    "lat": 36.5804,
+    "lon": 9.5124
+  },
+  {
+    "id": "uzelis",
+    "name": "Uzelis",
+    "modern": "Uzelis",
+    "lat": 36.3807,
+    "lon": 6.3602
+  },
+  {
+    "id": "ehekirchen",
+    "name": "Ehekirchen",
+    "modern": "Ehekirchen",
+    "lat": 48.6724,
+    "lon": 11.1166
+  },
+  {
+    "id": "orihuela",
+    "name": "Orihuela",
+    "modern": "Orihuela",
+    "lat": 38.0848,
+    "lon": -0.944
+  },
+  {
+    "id": "macomades",
+    "name": "Macomades",
+    "modern": "Macomades",
+    "lat": 31.1226,
+    "lon": 16.352
+  },
+  {
+    "id": "spoletium",
+    "name": "Spoletium",
+    "modern": "Spoletium",
+    "lat": 42.7335,
+    "lon": 12.7429
+  },
+  {
+    "id": "csaszar",
+    "name": "Császár",
+    "modern": "Császár",
+    "lat": 47.502,
+    "lon": 18.142
+  },
+  {
+    "id": "agedincum",
+    "name": "Agedincum",
+    "modern": "Agedincum",
+    "lat": 48.2,
+    "lon": 3.2833
+  },
+  {
+    "id": "dunantul",
+    "name": "(Dunántúl)",
+    "modern": "(Dunántúl)",
+    "lat": 46.9559,
+    "lon": 18.0726
+  },
+  {
+    "id": "curia",
+    "name": "Curia",
+    "modern": "Curia",
+    "lat": 46.8555,
+    "lon": 9.5254
+  },
+  {
+    "id": "juromenha",
+    "name": "Juromenha",
+    "modern": "Juromenha",
+    "lat": 38.7404,
+    "lon": -7.2396
+  },
+  {
+    "id": "nacolea",
+    "name": "Nacolea",
+    "modern": "Nacolea",
+    "lat": 39.4447,
+    "lon": 30.6947
+  },
+  {
+    "id": "usinaza",
+    "name": "Usinaza",
+    "modern": "Usinaza",
+    "lat": 35.8485,
+    "lon": 2.8883
+  },
+  {
+    "id": "kef",
+    "name": "Kef",
+    "modern": "Kef",
+    "lat": 36.1742,
+    "lon": 8.7049
+  },
+  {
+    "id": "formiae",
+    "name": "Formiae",
+    "modern": "Formiae",
+    "lat": 41.25,
+    "lon": 13.6167
+  },
+  {
+    "id": "civitas_port",
+    "name": "(Civitas Port---?)",
+    "modern": "(Civitas Port---?)",
+    "lat": 49.0126,
+    "lon": 9.152
+  },
+  {
+    "id": "lagina",
+    "name": "Lagina",
+    "modern": "Lagina",
+    "lat": 37.3776,
+    "lon": 28.0379
+  },
+  {
+    "id": "municipium_claudium_virunum_bei",
+    "name": "Municipium Claudium Virunum, bei",
+    "modern": "Municipium Claudium Virunum, bei",
+    "lat": 46.6272,
+    "lon": 14.2084
+  },
+  {
+    "id": "castellum_arsacalitanum",
+    "name": "Castellum Arsacalitanum",
+    "modern": "Castellum Arsacalitanum",
+    "lat": 36.3062,
+    "lon": 6.4568
+  },
+  {
+    "id": "carcaliu",
+    "name": "Carcaliu",
+    "modern": "Carcaliu",
+    "lat": 45.1837,
+    "lon": 28.1403
+  },
+  {
+    "id": "cilurnum",
+    "name": "Cilurnum",
+    "modern": "Cilurnum",
+    "lat": 55.026,
+    "lon": -2.139
+  },
+  {
+    "id": "ocriculum",
+    "name": "Ocriculum",
+    "modern": "Ocriculum",
+    "lat": 42.4151,
+    "lon": 12.4654
+  },
+  {
+    "id": "ouled_agla",
+    "name": "Ouled Agla",
+    "modern": "Ouled Agla",
+    "lat": 35.9661,
+    "lon": 4.6982
+  },
+  {
+    "id": "samothracia_bei",
+    "name": "Samothracia, bei",
+    "modern": "Samothracia, bei",
+    "lat": 40.4738,
+    "lon": 25.4742
+  },
+  {
+    "id": "neoclaudiopolis_bei",
+    "name": "Neoclaudiopolis, bei",
+    "modern": "Neoclaudiopolis, bei",
+    "lat": 41.123,
+    "lon": 35.3626
+  },
+  {
+    "id": "iuvavum_bei_2",
+    "name": "Iuvavum, bei",
+    "modern": "Iuvavum, bei",
+    "lat": 47.4175,
+    "lon": 13.3069
+  },
+  {
+    "id": "nistoresti",
+    "name": "Nistoreşti",
+    "modern": "Nistoreşti",
+    "lat": 44.6198,
+    "lon": 28.3786
+  },
+  {
+    "id": "skydra",
+    "name": "Skydra",
+    "modern": "Skydra",
+    "lat": 40.7071,
+    "lon": 22.1112
+  },
+  {
+    "id": "el_coronil",
+    "name": "El Coronil",
+    "modern": "El Coronil",
+    "lat": 37.0795,
+    "lon": -5.6341
+  },
+  {
+    "id": "iuvavum_bei_3",
+    "name": "Iuvavum, bei",
+    "modern": "Iuvavum, bei",
+    "lat": 47.8211,
+    "lon": 12.9069
+  },
+  {
+    "id": "vicus_scuttariensium_bei",
+    "name": "Vicus Scuttariensium, bei",
+    "modern": "Vicus Scuttariensium, bei",
+    "lat": 48.7986,
+    "lon": 11.2624
+  },
+  {
+    "id": "valencia_de_don_juan",
+    "name": "Valencia de Don Juan",
+    "modern": "Valencia de Don Juan",
+    "lat": 42.2937,
+    "lon": -5.5172
+  },
+  {
+    "id": "ferentinum",
+    "name": "Ferentinum",
+    "modern": "Ferentinum",
+    "lat": 41.6927,
+    "lon": 13.2534
+  },
+  {
+    "id": "iuvavum_bei_4",
+    "name": "Iuvavum, bei",
+    "modern": "Iuvavum, bei",
+    "lat": 47.4942,
+    "lon": 13.1758
+  },
+  {
+    "id": "capidava",
+    "name": "Capidava",
+    "modern": "Capidava",
+    "lat": 44.4933,
+    "lon": 28.0908
+  },
+  {
+    "id": "calama_bei",
+    "name": "Calama, bei",
+    "modern": "Calama, bei",
+    "lat": 36.4615,
+    "lon": 7.4252
+  },
+  {
+    "id": "colonia_ulpia_traiana_sarmizegetusa_aus_2",
+    "name": "Colonia Ulpia Traiana Sarmizegetusa, aus",
+    "modern": "Colonia Ulpia Traiana Sarmizegetusa, aus",
+    "lat": 45.549,
+    "lon": 22.8645
+  },
+  {
+    "id": "iuvavum_bei_5",
+    "name": "Iuvavum, bei",
+    "modern": "Iuvavum, bei",
+    "lat": 47.8913,
+    "lon": 12.7039
+  },
+  {
+    "id": "aelium_cetium_bei",
+    "name": "Aelium Cetium, bei",
+    "modern": "Aelium Cetium, bei",
+    "lat": 48.0576,
+    "lon": 15.1402
+  },
+  {
+    "id": "thaenae",
+    "name": "Thaenae",
+    "modern": "Thaenae",
+    "lat": 34.6552,
+    "lon": 10.6682
+  },
+  {
+    "id": "rapidum",
+    "name": "Rapidum",
+    "modern": "Rapidum",
+    "lat": 36.1382,
+    "lon": 3.427
+  },
+  {
+    "id": "iuvavum_bei_6",
+    "name": "Iuvavum, bei",
+    "modern": "Iuvavum, bei",
+    "lat": 47.953,
+    "lon": 13.5856
+  },
+  {
+    "id": "igilgili_bei",
+    "name": "Igilgili, bei",
+    "modern": "Igilgili, bei",
+    "lat": 36.8216,
+    "lon": 5.7667
+  },
+  {
+    "id": "capsa",
+    "name": "Capsa",
+    "modern": "Capsa",
+    "lat": 34.425,
+    "lon": 8.7842
+  },
+  {
+    "id": "noviodunum",
+    "name": "Noviodunum",
+    "modern": "Noviodunum",
+    "lat": 45.2654,
+    "lon": 28.4607
+  },
+  {
+    "id": "castra_regina_2",
+    "name": "Castra Regina",
+    "modern": "Castra Regina",
+    "lat": 48.9894,
+    "lon": 12.1352
+  },
+  {
+    "id": "teurnia_bei",
+    "name": "Teurnia, bei",
+    "modern": "Teurnia, bei",
+    "lat": 47.1897,
+    "lon": 13.6031
+  },
+  {
+    "id": "colonia_iulia_augusta_diensis",
+    "name": "Colonia Iulia Augusta Diensis",
+    "modern": "Colonia Iulia Augusta Diensis",
+    "lat": 40.1733,
+    "lon": 22.4867
+  },
+  {
+    "id": "iuvavum_bei_7",
+    "name": "Iuvavum, bei",
+    "modern": "Iuvavum, bei",
+    "lat": 47.8908,
+    "lon": 13.1997
+  },
+  {
+    "id": "aratispi",
+    "name": "Aratispi",
+    "modern": "Aratispi",
+    "lat": 36.9125,
+    "lon": -4.4659
+  },
+  {
+    "id": "anthemous",
+    "name": "Anthemous",
+    "modern": "Anthemous",
+    "lat": 40.0,
+    "lon": 23.0
+  },
+  {
+    "id": "teurnia_bei_2",
+    "name": "Teurnia, bei",
+    "modern": "Teurnia, bei",
+    "lat": 47.1737,
+    "lon": 13.6276
+  },
+  {
+    "id": "colonia_ulpia_traiana_bei",
+    "name": "Colonia Ulpia Traiana, bei",
+    "modern": "Colonia Ulpia Traiana, bei",
+    "lat": 51.6465,
+    "lon": 6.4682
+  },
+  {
+    "id": "brocolitia",
+    "name": "Brocolitia",
+    "modern": "Brocolitia",
+    "lat": 55.035,
+    "lon": -2.222
+  },
+  {
+    "id": "setia",
+    "name": "Setia",
+    "modern": "Setia",
+    "lat": 41.4986,
+    "lon": 13.0589
+  },
+  {
+    "id": "privernum_bei",
+    "name": "Privernum, bei",
+    "modern": "Privernum, bei",
+    "lat": 41.4667,
+    "lon": 13.1833
+  },
+  {
+    "id": "ateste",
+    "name": "Ateste",
+    "modern": "Ateste",
+    "lat": 45.2277,
+    "lon": 11.6566
+  },
+  {
+    "id": "buthrotum",
+    "name": "Buthrotum",
+    "modern": "Buthrotum",
+    "lat": 39.7461,
+    "lon": 20.0201
+  },
+  {
+    "id": "amantia",
+    "name": "Amantia",
+    "modern": "Amantia",
+    "lat": 40.3744,
+    "lon": 19.7064
+  },
+  {
+    "id": "volcei",
+    "name": "Volcei",
+    "modern": "Volcei",
+    "lat": 40.6339,
+    "lon": 15.379
+  },
+  {
+    "id": "gorna_malina",
+    "name": "Gorna Malina",
+    "modern": "Gorna Malina",
+    "lat": 42.7042,
+    "lon": 23.7711
+  },
+  {
+    "id": "iuvavum_bei_8",
+    "name": "Iuvavum, bei",
+    "modern": "Iuvavum, bei",
+    "lat": 47.2464,
+    "lon": 13.5637
+  },
+  {
+    "id": "brixellum_bei",
+    "name": "Brixellum, bei",
+    "modern": "Brixellum, bei",
+    "lat": 44.8994,
+    "lon": 10.5156
+  },
+  {
+    "id": "grabenstatt",
+    "name": "Grabenstätt",
+    "modern": "Grabenstätt",
+    "lat": 47.8736,
+    "lon": 12.5896
+  },
+  {
+    "id": "cossura",
+    "name": "Cossura",
+    "modern": "Cossura",
+    "lat": 36.7878,
+    "lon": 11.9995
+  },
+  {
+    "id": "salinae",
+    "name": "Salinae",
+    "modern": "Salinae",
+    "lat": 53.1947,
+    "lon": -2.446
+  },
+  {
+    "id": "novi_pazar",
+    "name": "Novi Pazar",
+    "modern": "Novi Pazar",
+    "lat": 43.4588,
+    "lon": 27.1251
+  },
+  {
+    "id": "avitta_bibba",
+    "name": "Avitta Bibba",
+    "modern": "Avitta Bibba",
+    "lat": 36.4091,
+    "lon": 9.7059
+  },
+  {
+    "id": "iesso",
+    "name": "Iesso",
+    "modern": "Iesso",
+    "lat": 41.7833,
+    "lon": 1.3
+  },
+  {
+    "id": "aelium_cetium_bei_2",
+    "name": "Aelium Cetium, bei",
+    "modern": "Aelium Cetium, bei",
+    "lat": 48.1455,
+    "lon": 15.285
+  },
+  {
+    "id": "kipfenberg",
+    "name": "Kipfenberg",
+    "modern": "Kipfenberg",
+    "lat": 48.9459,
+    "lon": 11.3601
+  },
+  {
+    "id": "iuvavum_bei_9",
+    "name": "Iuvavum, bei",
+    "modern": "Iuvavum, bei",
+    "lat": 47.9412,
+    "lon": 12.229
+  },
+  {
+    "id": "atuatuca_tungrorum",
+    "name": "Atuatuca Tungrorum",
+    "modern": "Atuatuca Tungrorum",
+    "lat": 50.7805,
+    "lon": 5.4648
+  },
+  {
+    "id": "alba_helviorum",
+    "name": "Alba Helviorum",
+    "modern": "Alba Helviorum",
+    "lat": 44.5544,
+    "lon": 4.5978
+  },
+  {
+    "id": "waadhoeke",
+    "name": "Waadhoeke",
+    "modern": "Waadhoeke",
+    "lat": 53.1589,
+    "lon": 5.5633
+  },
+  {
+    "id": "siscia_bei",
+    "name": "Siscia, bei?",
+    "modern": "Siscia, bei?",
+    "lat": 45.2556,
+    "lon": 16.1824
+  },
+  {
+    "id": "histonium",
+    "name": "Histonium",
+    "modern": "Histonium",
+    "lat": 42.1127,
+    "lon": 14.7096
+  },
+  {
+    "id": "celeia_bei",
+    "name": "Celeia, bei",
+    "modern": "Celeia, bei",
+    "lat": 46.3009,
+    "lon": 15.3085
+  },
+  {
+    "id": "trawsfynydd",
+    "name": "Trawsfynydd",
+    "modern": "Trawsfynydd",
+    "lat": 52.8997,
+    "lon": -3.8858
+  },
+  {
+    "id": "izvoru_barzii",
+    "name": "Izvoru Bârzii",
+    "modern": "Izvoru Bârzii",
+    "lat": 44.7602,
+    "lon": 22.6081
+  },
+  {
+    "id": "megalopolis",
+    "name": "Megalopolis",
+    "modern": "Megalopolis",
+    "lat": 38.4358,
+    "lon": 22.8761
+  },
+  {
+    "id": "cereatae_marianae",
+    "name": "Cereatae Marianae",
+    "modern": "Cereatae Marianae",
+    "lat": 41.6724,
+    "lon": 13.488
+  },
+  {
+    "id": "municipium_claudium_virunum_bei_2",
+    "name": "Municipium Claudium Virunum, bei",
+    "modern": "Municipium Claudium Virunum, bei",
+    "lat": 46.6539,
+    "lon": 14.5038
+  },
+  {
+    "id": "ad_aras",
+    "name": "Ad Aras",
+    "modern": "Ad Aras",
+    "lat": 35.8208,
+    "lon": 4.2875
+  },
+  {
+    "id": "flavia_solva_bei",
+    "name": "Flavia Solva, bei",
+    "modern": "Flavia Solva, bei",
+    "lat": 46.7741,
+    "lon": 15.5232
+  },
+  {
+    "id": "salsovia",
+    "name": "Salsovia",
+    "modern": "Salsovia",
+    "lat": 45.1011,
+    "lon": 29.0674
+  },
+  {
+    "id": "eumeneia",
+    "name": "Eumeneia",
+    "modern": "Eumeneia",
+    "lat": 38.322,
+    "lon": 29.8451
+  },
+  {
+    "id": "niederleis",
+    "name": "Niederleis",
+    "modern": "Niederleis",
+    "lat": 48.55,
+    "lon": 16.4
+  },
+  {
+    "id": "aguntum_bei",
+    "name": "Aguntum, bei",
+    "modern": "Aguntum, bei",
+    "lat": 46.7622,
+    "lon": 12.0554
+  },
+  {
+    "id": "celeia_bei_2",
+    "name": "Celeia, bei",
+    "modern": "Celeia, bei",
+    "lat": 46.2698,
+    "lon": 15.2903
+  },
+  {
+    "id": "cannae",
+    "name": "Cannae",
+    "modern": "Cannae",
+    "lat": 41.2965,
+    "lon": 16.1513
+  },
+  {
+    "id": "thibiuca",
+    "name": "Thibiuca",
+    "modern": "Thibiuca",
+    "lat": 36.5,
+    "lon": 9.5
+  },
+  {
+    "id": "saguntum_bei",
+    "name": "Saguntum, bei",
+    "modern": "Saguntum, bei",
+    "lat": 39.9667,
+    "lon": -0.25
+  },
+  {
+    "id": "sebatum_bei",
+    "name": "Sebatum, bei",
+    "modern": "Sebatum, bei",
+    "lat": 46.8008,
+    "lon": 11.8486
+  },
+  {
+    "id": "iuvavum_bei_10",
+    "name": "Iuvavum, bei",
+    "modern": "Iuvavum, bei",
+    "lat": 47.9881,
+    "lon": 13.4647
+  },
+  {
+    "id": "ampelum",
+    "name": "Ampelum",
+    "modern": "Ampelum",
+    "lat": 46.1112,
+    "lon": 23.2205
+  },
+  {
+    "id": "castra_regina_3",
+    "name": "Castra Regina",
+    "modern": "Castra Regina",
+    "lat": 49.0043,
+    "lon": 12.0856
+  },
+  {
+    "id": "municipium_claudium_virunum_bei_3",
+    "name": "Municipium Claudium Virunum, bei",
+    "modern": "Municipium Claudium Virunum, bei",
+    "lat": 47.1131,
+    "lon": 14.1694
+  },
+  {
+    "id": "tigisis",
+    "name": "Tigisis",
+    "modern": "Tigisis",
+    "lat": 36.1107,
+    "lon": 6.9425
+  },
+  {
+    "id": "sirmium_singidunum_inter",
+    "name": "Sirmium - Singidunum, inter",
+    "modern": "Sirmium - Singidunum, inter",
+    "lat": 44.6596,
+    "lon": 20.044
+  },
+  {
+    "id": "neviodunum_bei",
+    "name": "Neviodunum, bei",
+    "modern": "Neviodunum, bei",
+    "lat": 45.8634,
+    "lon": 15.1357
+  },
+  {
+    "id": "ainos",
+    "name": "Ainos",
+    "modern": "Ainos",
+    "lat": 40.7247,
+    "lon": 26.0825
+  },
+  {
+    "id": "vicus_aurelianus_civitas_aurelia_g",
+    "name": "Vicus Aurelianus (Civitas Aurelia G---?)",
+    "modern": "Vicus Aurelianus (Civitas Aurelia G---?)",
+    "lat": 49.2005,
+    "lon": 9.5024
+  },
+  {
+    "id": "bremenium",
+    "name": "Bremenium",
+    "modern": "Bremenium",
+    "lat": 55.2813,
+    "lon": -2.2647
+  },
+  {
+    "id": "bumbesti_jiu",
+    "name": "Bumbeşti-Jiu",
+    "modern": "Bumbeşti-Jiu",
+    "lat": 45.1554,
+    "lon": 23.3729
+  },
+  {
+    "id": "neviodunum_bei_2",
+    "name": "Neviodunum, bei",
+    "modern": "Neviodunum, bei",
+    "lat": 45.959,
+    "lon": 15.4921
+  },
+  {
+    "id": "sucubi",
+    "name": "Sucubi",
+    "modern": "Sucubi",
+    "lat": 36.3174,
+    "lon": 9.6456
+  },
+  {
+    "id": "findspot_46_8859_22_8845",
+    "name": "Findspot (46.8859,22.8845)",
+    "modern": "Findspot (46.8859,22.8845)",
+    "lat": 46.8859,
+    "lon": 22.8845
+  },
+  {
+    "id": "sarsina_bei",
+    "name": "Sarsina, bei",
+    "modern": "Sarsina, bei",
+    "lat": 43.9194,
+    "lon": 12.1422
+  },
+  {
+    "id": "sterzing_vipiteno",
+    "name": "Sterzing / Vipiteno",
+    "modern": "Sterzing / Vipiteno",
+    "lat": 46.8907,
+    "lon": 11.4312
+  },
+  {
+    "id": "apulum_aus",
+    "name": "Apulum, aus",
+    "modern": "Apulum, aus",
+    "lat": 45.992,
+    "lon": 23.4865
+  },
+  {
+    "id": "lemellef",
+    "name": "Lemellef",
+    "modern": "Lemellef",
+    "lat": 35.9012,
+    "lon": 4.898
+  },
+  {
+    "id": "almus",
+    "name": "Almus",
+    "modern": "Almus",
+    "lat": 43.8139,
+    "lon": 23.2361
+  },
+  {
+    "id": "castra_exploratorum",
+    "name": "Castra Exploratorum",
+    "modern": "Castra Exploratorum",
+    "lat": 55.0355,
+    "lon": -2.9472
+  },
+  {
+    "id": "dunaalmas",
+    "name": "Dunaalmás",
+    "modern": "Dunaalmás",
+    "lat": 47.7283,
+    "lon": 18.3225
+  },
+  {
+    "id": "tatabanya",
+    "name": "Tatabánya",
+    "modern": "Tatabánya",
+    "lat": 47.5692,
+    "lon": 18.4048
+  },
+  {
+    "id": "salsovia_bei_vicus_clementiani_bei",
+    "name": "Salsovia, bei; Vicus Clementiani, bei",
+    "modern": "Salsovia, bei; Vicus Clementiani, bei",
+    "lat": 45.0918,
+    "lon": 29.0257
+  },
+  {
+    "id": "heraclea_lyncestis_aus",
+    "name": "Heraclea Lyncestis, aus?",
+    "modern": "Heraclea Lyncestis, aus?",
+    "lat": 40.8017,
+    "lon": 22.044
+  },
+  {
+    "id": "kairouan",
+    "name": "Kairouan",
+    "modern": "Kairouan",
+    "lat": 35.6781,
+    "lon": 10.0963
+  },
+  {
+    "id": "anninus_vicus",
+    "name": "Anninus vicus",
+    "modern": "Anninus vicus",
+    "lat": 41.93,
+    "lon": 13.6821
+  },
+  {
+    "id": "aquincum_bei_5",
+    "name": "Aquincum, bei",
+    "modern": "Aquincum, bei",
+    "lat": 47.3185,
+    "lon": 18.6197
+  },
+  {
+    "id": "freienfeld_campo_di_trens",
+    "name": "Freienfeld / Campo di Trens",
+    "modern": "Freienfeld / Campo di Trens",
+    "lat": 46.872,
+    "lon": 11.4835
+  },
+  {
+    "id": "sufes_bei",
+    "name": "Sufes, bei",
+    "modern": "Sufes, bei",
+    "lat": 35.544,
+    "lon": 9.072
+  },
+  {
+    "id": "bergheim_oberbayern",
+    "name": "Bergheim/Oberbayern",
+    "modern": "Bergheim/Oberbayern",
+    "lat": 48.7768,
+    "lon": 11.1776
+  },
+  {
+    "id": "abbir_maius",
+    "name": "Abbir Maius",
+    "modern": "Abbir Maius",
+    "lat": 36.374,
+    "lon": 10.0088
+  },
+  {
+    "id": "atrans_atrans_bei",
+    "name": "Atrans; Atrans, bei",
+    "modern": "Atrans; Atrans, bei",
+    "lat": 46.1884,
+    "lon": 14.884
+  },
+  {
+    "id": "tegea",
+    "name": "Tegea",
+    "modern": "Tegea",
+    "lat": 37.4319,
+    "lon": 22.4171
+  },
+  {
+    "id": "salinae_2",
+    "name": "Salinae",
+    "modern": "Salinae",
+    "lat": 43.8462,
+    "lon": 6.5137
+  },
+  {
+    "id": "veldidena_bei",
+    "name": "Veldidena, bei",
+    "modern": "Veldidena, bei",
+    "lat": 47.1861,
+    "lon": 11.4043
+  },
+  {
+    "id": "veldidena",
+    "name": "Veldidena",
+    "modern": "Veldidena",
+    "lat": 47.2591,
+    "lon": 11.3953
+  },
+  {
+    "id": "nikola_kozlevo",
+    "name": "Nikola Kozlevo",
+    "modern": "Nikola Kozlevo",
+    "lat": 43.5643,
+    "lon": 27.3517
+  },
+  {
+    "id": "murgi",
+    "name": "Murgi",
+    "modern": "Murgi",
+    "lat": 36.8402,
+    "lon": -2.4679
+  },
+  {
+    "id": "iader",
+    "name": "Iader",
+    "modern": "Iader",
+    "lat": 44.115,
+    "lon": 15.2289
+  },
+  {
+    "id": "scupi_bei_2",
+    "name": "Scupi, bei",
+    "modern": "Scupi, bei",
+    "lat": 42.1499,
+    "lon": 21.2941
+  },
+  {
+    "id": "civitas_cananefatum",
+    "name": "(Civitas Cananefatum)",
+    "modern": "(Civitas Cananefatum)",
+    "lat": 52.0272,
+    "lon": 4.2228
+  },
+  {
+    "id": "thubursicu_bure",
+    "name": "Thubursicu Bure",
+    "modern": "Thubursicu Bure",
+    "lat": 36.461,
+    "lon": 9.2448
+  },
+  {
+    "id": "manching",
+    "name": "Manching",
+    "modern": "Manching",
+    "lat": 48.7111,
+    "lon": 11.4517
+  },
+  {
+    "id": "camsaray",
+    "name": "Çamsaray",
+    "modern": "Çamsaray",
+    "lat": 40.0543,
+    "lon": 35.8241
+  },
+  {
+    "id": "praetorium",
+    "name": "Praetorium",
+    "modern": "Praetorium",
+    "lat": 45.3939,
+    "lon": 24.3145
+  },
+  {
+    "id": "fortuna",
+    "name": "Fortuna",
+    "modern": "Fortuna",
+    "lat": 38.1814,
+    "lon": -1.1259
+  },
+  {
+    "id": "domavium_bei",
+    "name": "Domavium, bei",
+    "modern": "Domavium, bei",
+    "lat": 44.3537,
+    "lon": 19.3456
+  },
+  {
+    "id": "ovilava_bei",
+    "name": "Ovilava, bei",
+    "modern": "Ovilava, bei",
+    "lat": 48.0715,
+    "lon": 13.6985
+  },
+  {
+    "id": "germisara",
+    "name": "Germisara",
+    "modern": "Germisara",
+    "lat": 45.8673,
+    "lon": 23.0703
+  },
+  {
+    "id": "parma",
+    "name": "Parma",
+    "modern": "Parma",
+    "lat": 44.8079,
+    "lon": 10.3295
+  },
+  {
+    "id": "nicopolis_ad_istrum_bei_4",
+    "name": "Nicopolis ad Istrum, bei",
+    "modern": "Nicopolis ad Istrum, bei",
+    "lat": 43.3034,
+    "lon": 25.2671
+  },
+  {
+    "id": "tavium_bei",
+    "name": "Tavium, bei",
+    "modern": "Tavium, bei",
+    "lat": 39.9316,
+    "lon": 34.5163
+  },
+  {
+    "id": "sitaria",
+    "name": "Sitariá",
+    "modern": "Sitariá",
+    "lat": 40.7909,
+    "lon": 21.5429
+  },
+  {
+    "id": "scupi_bei_3",
+    "name": "Scupi, bei",
+    "modern": "Scupi, bei",
+    "lat": 42.0725,
+    "lon": 21.4413
+  },
+  {
+    "id": "neviodunum_bei_3",
+    "name": "Neviodunum, bei",
+    "modern": "Neviodunum, bei",
+    "lat": 45.8513,
+    "lon": 15.6874
+  },
+  {
+    "id": "turiaso_bei",
+    "name": "Turiaso, bei",
+    "modern": "Turiaso, bei",
+    "lat": 41.9028,
+    "lon": -1.7254
+  },
+  {
+    "id": "bourg_s_maurice",
+    "name": "Bourg-S.-Maurice",
+    "modern": "Bourg-S.-Maurice",
+    "lat": 45.6186,
+    "lon": 6.7695
+  },
+  {
+    "id": "cillae",
+    "name": "Cillae",
+    "modern": "Cillae",
+    "lat": 42.2206,
+    "lon": 25.2271
+  },
+  {
+    "id": "herdonia",
+    "name": "Herdonia",
+    "modern": "Herdonia",
+    "lat": 41.3166,
+    "lon": 15.6283
+  },
+  {
+    "id": "aying",
+    "name": "Aying",
+    "modern": "Aying",
+    "lat": 47.964,
+    "lon": 11.7372
+  },
+  {
+    "id": "blanda_iulia",
+    "name": "Blanda Iulia",
+    "modern": "Blanda Iulia",
+    "lat": 39.9421,
+    "lon": 15.8038
+  },
+  {
+    "id": "thuburnica",
+    "name": "Thuburnica",
+    "modern": "Thuburnica",
+    "lat": 36.5289,
+    "lon": 8.4547
+  },
+  {
+    "id": "civitas_port_2",
+    "name": "(Civitas Port---?)",
+    "modern": "(Civitas Port---?)",
+    "lat": 48.8148,
+    "lon": 9.2066
+  },
+  {
+    "id": "caldes_d_estrac",
+    "name": "Caldes d'Estrac",
+    "modern": "Caldes d'Estrac",
+    "lat": 41.5667,
+    "lon": 2.5333
+  },
+  {
+    "id": "transmarisca",
+    "name": "Transmarisca",
+    "modern": "Transmarisca",
+    "lat": 44.0442,
+    "lon": 26.6149
+  },
+  {
+    "id": "aldwincle_bei",
+    "name": "Aldwincle, bei",
+    "modern": "Aldwincle, bei",
+    "lat": 52.4223,
+    "lon": -0.5235
+  },
+  {
+    "id": "tuder",
+    "name": "Tuder",
+    "modern": "Tuder",
+    "lat": 42.7803,
+    "lon": 12.4085
+  },
+  {
+    "id": "azaum",
+    "name": "Azaum",
+    "modern": "Azaum",
+    "lat": 47.731,
+    "lon": 18.2406
+  },
+  {
+    "id": "grokrotzenburg",
+    "name": "Großkrotzenburg",
+    "modern": "Großkrotzenburg",
+    "lat": 50.0818,
+    "lon": 8.984
+  },
+  {
+    "id": "segermes",
+    "name": "Segermes",
+    "modern": "Segermes",
+    "lat": 36.345,
+    "lon": 10.3017
+  },
+  {
+    "id": "halmyris",
+    "name": "Halmyris",
+    "modern": "Halmyris",
+    "lat": 45.0247,
+    "lon": 29.1979
+  },
+  {
+    "id": "matilo",
+    "name": "Matilo",
+    "modern": "Matilo",
+    "lat": 52.1321,
+    "lon": 4.4794
+  },
+  {
+    "id": "forum_clodii",
+    "name": "Forum Clodii",
+    "modern": "Forum Clodii",
+    "lat": 42.1036,
+    "lon": 12.1756
+  },
+  {
+    "id": "mogetiana_bei",
+    "name": "Mogetiana, bei",
+    "modern": "Mogetiana, bei",
+    "lat": 47.0453,
+    "lon": 17.8881
+  },
+  {
+    "id": "cobanhasan",
+    "name": "Çobanhasan",
+    "modern": "Çobanhasan",
+    "lat": 39.0142,
+    "lon": 27.7542
+  },
+  {
+    "id": "thubunae_bei",
+    "name": "Thubunae, bei",
+    "modern": "Thubunae, bei",
+    "lat": 35.35,
+    "lon": 5.35
+  },
+  {
+    "id": "nida_civitas_taunensium",
+    "name": "Nida (Civitas Taunensium)",
+    "modern": "Nida (Civitas Taunensium)",
+    "lat": 50.1107,
+    "lon": 8.6854
+  },
+  {
+    "id": "ad_speluncam",
+    "name": "Ad Speluncam",
+    "modern": "Ad Speluncam",
+    "lat": 41.25,
+    "lon": 13.4333
+  },
+  {
+    "id": "alexandria_troas_aus",
+    "name": "Alexandria Troas, aus",
+    "modern": "Alexandria Troas, aus",
+    "lat": 39.567,
+    "lon": 26.1674
+  },
+  {
+    "id": "irsee",
+    "name": "Irsee",
+    "modern": "Irsee",
+    "lat": 47.9083,
+    "lon": 10.5721
+  },
+  {
+    "id": "riesburg",
+    "name": "Riesbürg",
+    "modern": "Riesbürg",
+    "lat": 48.8289,
+    "lon": 10.4361
+  },
+  {
+    "id": "sululos",
+    "name": "Sululos",
+    "modern": "Sululos",
+    "lat": 36.4614,
+    "lon": 9.6052
+  },
+  {
+    "id": "albaniana",
+    "name": "Albaniana",
+    "modern": "Albaniana",
+    "lat": 52.129,
+    "lon": 4.6598
+  },
+  {
+    "id": "civitas_alisinensium_2",
+    "name": "(Civitas Alisinensium)",
+    "modern": "(Civitas Alisinensium)",
+    "lat": 49.4306,
+    "lon": 9.4274
+  },
+  {
+    "id": "minnodunum",
+    "name": "Minnodunum",
+    "modern": "Minnodunum",
+    "lat": 46.6684,
+    "lon": 6.7971
+  },
+  {
+    "id": "mothana",
+    "name": "Mothana",
+    "modern": "Mothana",
+    "lat": 32.4186,
+    "lon": 36.8187
+  },
+  {
+    "id": "thasus",
+    "name": "Thasus",
+    "modern": "Thasus",
+    "lat": 40.7799,
+    "lon": 24.7134
+  },
+  {
+    "id": "dableis_bei",
+    "name": "Dableis, bei",
+    "modern": "Dableis, bei",
+    "lat": 40.2557,
+    "lon": 30.7594
+  },
+  {
+    "id": "vercellae",
+    "name": "Vercellae",
+    "modern": "Vercellae",
+    "lat": 45.3211,
+    "lon": 8.4264
+  },
+  {
+    "id": "pompeiopolis_bei",
+    "name": "Pompeiopolis, bei",
+    "modern": "Pompeiopolis, bei",
+    "lat": 41.4333,
+    "lon": 33.9636
+  },
+  {
+    "id": "abbir_cella",
+    "name": "Abbir Cella",
+    "modern": "Abbir Cella",
+    "lat": 36.4666,
+    "lon": 9.8442
+  },
+  {
+    "id": "arunda",
+    "name": "Arunda",
+    "modern": "Arunda",
+    "lat": 36.9346,
+    "lon": -5.0244
+  },
+  {
+    "id": "saint_arnaud",
+    "name": "Saint-Arnaud",
+    "modern": "Saint-Arnaud",
+    "lat": 36.1528,
+    "lon": 5.6902
+  },
+  {
+    "id": "caesaraugusta_pompaelo_inter",
+    "name": "Caesaraugusta - Pompaelo, inter",
+    "modern": "Caesaraugusta - Pompaelo, inter",
+    "lat": 42.3766,
+    "lon": -1.2733
+  },
+  {
+    "id": "ureu",
+    "name": "Ureu",
+    "modern": "Ureu",
+    "lat": 36.8753,
+    "lon": 9.5355
+  },
+  {
+    "id": "bouhira",
+    "name": "Bouhira",
+    "modern": "Bouhira",
+    "lat": 36.217,
+    "lon": 5.2805
+  },
+  {
+    "id": "civitas_lingonum",
+    "name": "(Civitas Lingonum)",
+    "modern": "(Civitas Lingonum)",
+    "lat": 47.398,
+    "lon": 5.3178
+  },
+  {
+    "id": "nicaea_bei",
+    "name": "Nicaea, bei",
+    "modern": "Nicaea, bei",
+    "lat": 40.2351,
+    "lon": 30.8456
+  },
+  {
+    "id": "bingium_bei",
+    "name": "Bingium, bei",
+    "modern": "Bingium, bei",
+    "lat": 49.9667,
+    "lon": 7.9
+  },
+  {
+    "id": "rosieres",
+    "name": "Rosières",
+    "modern": "Rosières",
+    "lat": 49.1185,
+    "lon": 8.2756
+  },
+  {
+    "id": "municipium_claudium_virunum_bei_4",
+    "name": "Municipium Claudium Virunum, bei",
+    "modern": "Municipium Claudium Virunum, bei",
+    "lat": 46.6279,
+    "lon": 14.309
+  },
+  {
+    "id": "filiasi",
+    "name": "Filiași",
+    "modern": "Filiași",
+    "lat": 44.5314,
+    "lon": 23.5465
+  },
+  {
+    "id": "tillibari",
+    "name": "Tillibari",
+    "modern": "Tillibari",
+    "lat": 32.3166,
+    "lon": 10.3955
+  },
+  {
+    "id": "sablonetum",
+    "name": "Sablonetum",
+    "modern": "Sablonetum",
+    "lat": 49.0635,
+    "lon": 10.988
+  },
+  {
+    "id": "neoclaudiopolis_bei_2",
+    "name": "Neoclaudiopolis, bei",
+    "modern": "Neoclaudiopolis, bei",
+    "lat": 41.1634,
+    "lon": 35.3258
+  },
+  {
+    "id": "cululis",
+    "name": "Cululis",
+    "modern": "Cululis",
+    "lat": 35.7984,
+    "lon": 9.804
+  },
+  {
+    "id": "hypata",
+    "name": "Hypata",
+    "modern": "Hypata",
+    "lat": 38.8667,
+    "lon": 22.2333
+  },
+  {
+    "id": "lappa",
+    "name": "Lappa",
+    "modern": "Lappa",
+    "lat": 35.286,
+    "lon": 24.3352
+  },
+  {
+    "id": "hegra",
+    "name": "Hegra",
+    "modern": "Hegra",
+    "lat": 26.7906,
+    "lon": 37.952
+  },
+  {
+    "id": "castellum_vanarzanense",
+    "name": "Castellum Vanarzanense",
+    "modern": "Castellum Vanarzanense",
+    "lat": 36.0029,
+    "lon": 5.1494
+  },
+  {
+    "id": "chamalieres",
+    "name": "Chamalières",
+    "modern": "Chamalières",
+    "lat": 45.7768,
+    "lon": 3.068
+  },
+  {
+    "id": "mor",
+    "name": "Mór",
+    "modern": "Mór",
+    "lat": 47.3779,
+    "lon": 18.2035
+  },
+  {
+    "id": "thagora",
+    "name": "Thagora",
+    "modern": "Thagora",
+    "lat": 36.1742,
+    "lon": 8.0447
+  },
+  {
+    "id": "kucuknefes",
+    "name": "Küçüknefes",
+    "modern": "Küçüknefes",
+    "lat": 39.7823,
+    "lon": 34.5135
+  },
+  {
+    "id": "fanum_fortunae_bei",
+    "name": "Fanum Fortunae, bei",
+    "modern": "Fanum Fortunae, bei",
+    "lat": 43.8449,
+    "lon": 13.0169
+  },
+  {
+    "id": "ad_statuas",
+    "name": "Ad Statuas",
+    "modern": "Ad Statuas",
+    "lat": 47.737,
+    "lon": 17.9028
+  },
+  {
+    "id": "statio_enensis_bei",
+    "name": "Statio Enensis, bei",
+    "modern": "Statio Enensis, bei",
+    "lat": 47.8943,
+    "lon": 12.2002
+  },
+  {
+    "id": "montealegre_del_castillo",
+    "name": "Montealegre del Castillo",
+    "modern": "Montealegre del Castillo",
+    "lat": 38.7886,
+    "lon": -1.3272
+  },
+  {
+    "id": "brixia",
+    "name": "Brixia",
+    "modern": "Brixia",
+    "lat": 45.5397,
+    "lon": 10.2268
+  },
+  {
+    "id": "ratae_corieltauvorum",
+    "name": "Ratae Corieltauvorum",
+    "modern": "Ratae Corieltauvorum",
+    "lat": 52.6358,
+    "lon": -1.1383
+  },
+  {
+    "id": "chirnogeni",
+    "name": "Chirnogeni",
+    "modern": "Chirnogeni",
+    "lat": 43.9509,
+    "lon": 28.1945
+  },
+  {
+    "id": "veldidena_bei_2",
+    "name": "Veldidena, bei",
+    "modern": "Veldidena, bei",
+    "lat": 47.2654,
+    "lon": 11.3928
+  },
+  {
+    "id": "corinium_bei",
+    "name": "Corinium, bei",
+    "modern": "Corinium, bei",
+    "lat": 44.0733,
+    "lon": 15.6686
+  },
+  {
+    "id": "singilia_barba_aus",
+    "name": "Singilia Barba, aus",
+    "modern": "Singilia Barba, aus",
+    "lat": 37.0194,
+    "lon": -4.5612
+  },
+  {
+    "id": "neviodunum_bei_4",
+    "name": "Neviodunum, bei",
+    "modern": "Neviodunum, bei",
+    "lat": 45.9016,
+    "lon": 15.5926
+  },
+  {
+    "id": "municipium_malvesiatium_bei",
+    "name": "Municipium Malvesiatium, bei",
+    "modern": "Municipium Malvesiatium, bei",
+    "lat": 43.988,
+    "lon": 19.5558
+  },
+  {
+    "id": "sarkoy",
+    "name": "Şarköy",
+    "modern": "Şarköy",
+    "lat": 40.564,
+    "lon": 26.9894
+  },
+  {
+    "id": "aegyssus",
+    "name": "Aegyssus",
+    "modern": "Aegyssus",
+    "lat": 45.1667,
+    "lon": 28.8
+  },
+  {
+    "id": "bisica_lucana",
+    "name": "Bisica Lucana",
+    "modern": "Bisica Lucana",
+    "lat": 36.398,
+    "lon": 9.6343
+  },
+  {
+    "id": "axiopolis_bei",
+    "name": "Axiopolis, bei",
+    "modern": "Axiopolis, bei",
+    "lat": 44.3109,
+    "lon": 28.018
+  },
+  {
+    "id": "bogazbasi",
+    "name": "Bogazbaşi",
+    "modern": "Bogazbaşi",
+    "lat": 40.525,
+    "lon": 36.8924
+  },
+  {
+    "id": "capidava_carsium_inter",
+    "name": "Capidava-Carsium, inter",
+    "modern": "Capidava-Carsium, inter",
+    "lat": 44.5447,
+    "lon": 28.0476
+  },
+  {
+    "id": "capidava_bei",
+    "name": "Capidava, bei",
+    "modern": "Capidava, bei",
+    "lat": 44.3861,
+    "lon": 28.0675
+  },
+  {
+    "id": "heraclea_lyncestis_bei",
+    "name": "Heraclea Lyncestis, bei",
+    "modern": "Heraclea Lyncestis, bei",
+    "lat": 41.0865,
+    "lon": 21.2111
+  },
+  {
+    "id": "prijedor_2",
+    "name": "Prijedor",
+    "modern": "Prijedor",
+    "lat": 44.8818,
+    "lon": 16.6241
+  },
+  {
+    "id": "gardellaca",
+    "name": "Gardellaca",
+    "modern": "Gardellaca",
+    "lat": 47.7228,
+    "lon": 18.6589
+  },
+  {
+    "id": "ibida_aus",
+    "name": "Ibida, aus?",
+    "modern": "Ibida, aus?",
+    "lat": 44.764,
+    "lon": 28.611
+  },
+  {
+    "id": "ancona",
+    "name": "Ancona",
+    "modern": "Ancona",
+    "lat": 43.6158,
+    "lon": 13.519
+  },
+  {
+    "id": "brigetio_bei",
+    "name": "Brigetio, bei",
+    "modern": "Brigetio, bei",
+    "lat": 47.5467,
+    "lon": 18.3208
+  },
+  {
+    "id": "sagalassos_bei",
+    "name": "Sagalassos, bei",
+    "modern": "Sagalassos, bei",
+    "lat": 37.6494,
+    "lon": 30.5342
+  },
+  {
+    "id": "lugio",
+    "name": "Lugio",
+    "modern": "Lugio",
+    "lat": 46.0866,
+    "lon": 18.7586
+  },
+  {
+    "id": "thigibba_bure",
+    "name": "Thigibba Bure",
+    "modern": "Thigibba Bure",
+    "lat": 36.4757,
+    "lon": 9.0815
+  },
+  {
+    "id": "kharitomeni",
+    "name": "Kharitoméni",
+    "modern": "Kharitoméni",
+    "lat": 41.1667,
+    "lon": 23.85
+  },
+  {
+    "id": "ratcliffe_on_soar",
+    "name": "Ratcliffe-on-Soar",
+    "modern": "Ratcliffe-on-Soar",
+    "lat": 52.8546,
+    "lon": -1.2643
+  },
+  {
+    "id": "kazanlak",
+    "name": "Kazanlâk",
+    "modern": "Kazanlâk",
+    "lat": 42.7123,
+    "lon": 25.3329
+  },
+  {
+    "id": "skradin",
+    "name": "Skradin",
+    "modern": "Skradin",
+    "lat": 43.8796,
+    "lon": 15.9226
+  },
+  {
+    "id": "turres_bei",
+    "name": "Turres, bei",
+    "modern": "Turres, bei",
+    "lat": 43.1207,
+    "lon": 22.673
+  },
+  {
+    "id": "sumen",
+    "name": "Šumen",
+    "modern": "Šumen",
+    "lat": 43.2706,
+    "lon": 26.9229
+  },
+  {
+    "id": "brigetio_bei_2",
+    "name": "Brigetio, bei",
+    "modern": "Brigetio, bei",
+    "lat": 47.6529,
+    "lon": 18.3184
+  },
+  {
+    "id": "pola_bei",
+    "name": "Pola, bei",
+    "modern": "Pola, bei",
+    "lat": 44.8225,
+    "lon": 13.935
+  },
+  {
+    "id": "peralejo_de_los_escuderos",
+    "name": "Peralejo de los Escuderos",
+    "modern": "Peralejo de los Escuderos",
+    "lat": 41.2991,
+    "lon": -3.1031
+  },
+  {
+    "id": "thizika",
+    "name": "Thizika",
+    "modern": "Thizika",
+    "lat": 37.0037,
+    "lon": 9.702
+  },
+  {
+    "id": "venta_icenorum",
+    "name": "Venta Icenorum",
+    "modern": "Venta Icenorum",
+    "lat": 52.5835,
+    "lon": 1.291
+  },
+  {
+    "id": "jarrow",
+    "name": "Jarrow",
+    "modern": "Jarrow",
+    "lat": 54.9803,
+    "lon": -1.4723
+  },
+  {
+    "id": "teteven",
+    "name": "Teteven",
+    "modern": "Teteven",
+    "lat": 42.9187,
+    "lon": 24.2589
+  },
+  {
+    "id": "vicus_scuttariensium",
+    "name": "Vicus Scuttariensium",
+    "modern": "Vicus Scuttariensium",
+    "lat": 48.7997,
+    "lon": 11.2242
+  },
+  {
+    "id": "timacum_minus_bei",
+    "name": "Timacum Minus, bei",
+    "modern": "Timacum Minus, bei",
+    "lat": 43.6188,
+    "lon": 22.2583
+  },
+  {
+    "id": "thaumakoi",
+    "name": "Thaumakoi",
+    "modern": "Thaumakoi",
+    "lat": 39.1266,
+    "lon": 22.322
+  },
+  {
+    "id": "domavium",
+    "name": "Domavium",
+    "modern": "Domavium",
+    "lat": 44.1421,
+    "lon": 19.3594
+  },
+  {
+    "id": "cupra_maritima",
+    "name": "Cupra Maritima",
+    "modern": "Cupra Maritima",
+    "lat": 43.0341,
+    "lon": 13.8532
+  },
+  {
+    "id": "alba_fucens",
+    "name": "Alba Fucens",
+    "modern": "Alba Fucens",
+    "lat": 42.0333,
+    "lon": 13.4167
+  },
+  {
+    "id": "caturigomagus",
+    "name": "Caturigomagus",
+    "modern": "Caturigomagus",
+    "lat": 44.5457,
+    "lon": 6.2755
+  },
+  {
+    "id": "magalona",
+    "name": "Magalona",
+    "modern": "Magalona",
+    "lat": 43.5333,
+    "lon": 3.8667
+  },
+  {
+    "id": "s_giorio_di_susa",
+    "name": "S. Giorio di Susa",
+    "modern": "S. Giorio di Susa",
+    "lat": 45.127,
+    "lon": 7.1797
+  },
+  {
+    "id": "firmum_picenum",
+    "name": "Firmum Picenum",
+    "modern": "Firmum Picenum",
+    "lat": 43.1656,
+    "lon": 13.7242
+  },
+  {
+    "id": "simitthus_bei",
+    "name": "Simitthus, bei",
+    "modern": "Simitthus, bei",
+    "lat": 36.4901,
+    "lon": 8.5753
+  },
+  {
+    "id": "eggstatt",
+    "name": "Eggstätt",
+    "modern": "Eggstätt",
+    "lat": 47.9273,
+    "lon": 12.3796
+  },
+  {
+    "id": "baciu",
+    "name": "Baciu",
+    "modern": "Baciu",
+    "lat": 46.8155,
+    "lon": 23.4521
+  },
+  {
+    "id": "chateauvieux",
+    "name": "Châteauvieux",
+    "modern": "Châteauvieux",
+    "lat": 44.4875,
+    "lon": 6.0528
+  },
+  {
+    "id": "sulci",
+    "name": "Sulci",
+    "modern": "Sulci",
+    "lat": 39.0617,
+    "lon": 8.4547
+  },
+  {
+    "id": "vouni",
+    "name": "Vouni",
+    "modern": "Vouni",
+    "lat": 35.0208,
+    "lon": 32.4792
+  },
+  {
+    "id": "marxheim",
+    "name": "Marxheim",
+    "modern": "Marxheim",
+    "lat": 48.7902,
+    "lon": 10.9746
+  },
+  {
+    "id": "virunum",
+    "name": "Virunum?",
+    "modern": "Virunum?",
+    "lat": 46.7247,
+    "lon": 14.4297
+  },
+  {
+    "id": "civitas_alisinensium_3",
+    "name": "(Civitas Alisinensium)",
+    "modern": "(Civitas Alisinensium)",
+    "lat": 49.3098,
+    "lon": 9.4694
+  },
+  {
+    "id": "lauriacum_bei",
+    "name": "Lauriacum, bei",
+    "modern": "Lauriacum, bei",
+    "lat": 48.1778,
+    "lon": 15.0855
+  },
+  {
+    "id": "cemenelum_2",
+    "name": "Cemenelum",
+    "modern": "Cemenelum",
+    "lat": 43.7251,
+    "lon": 7.2836
+  },
+  {
+    "id": "ulmetum",
+    "name": "Ulmetum",
+    "modern": "Ulmetum",
+    "lat": 44.55,
+    "lon": 28.3333
+  },
+  {
+    "id": "ulpiana_bei",
+    "name": "Ulpiana, bei",
+    "modern": "Ulpiana, bei",
+    "lat": 42.6671,
+    "lon": 21.167
+  },
+  {
+    "id": "reate",
+    "name": "Reate",
+    "modern": "Reate",
+    "lat": 42.4031,
+    "lon": 12.8612
+  },
+  {
+    "id": "uccula",
+    "name": "Uccula",
+    "modern": "Uccula",
+    "lat": 36.7675,
+    "lon": 9.5241
+  },
+  {
+    "id": "vagharshapat",
+    "name": "Vagharshapat",
+    "modern": "Vagharshapat",
+    "lat": 40.1633,
+    "lon": 44.2936
+  },
+  {
+    "id": "dunavecse",
+    "name": "Dunavecse",
+    "modern": "Dunavecse",
+    "lat": 46.9133,
+    "lon": 18.9732
+  },
+  {
+    "id": "rapidum_bei",
+    "name": "Rapidum, bei",
+    "modern": "Rapidum, bei",
+    "lat": 36.1246,
+    "lon": 3.2645
+  },
+  {
+    "id": "isny_allgau",
+    "name": "Isny/Allgäu",
+    "modern": "Isny/Allgäu",
+    "lat": 47.6917,
+    "lon": 10.0337
   }
 ]
