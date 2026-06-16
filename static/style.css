@@ -2033,6 +2033,26 @@ html, body {
     flex-direction: column;
     gap: 10px;
 }
+/* Gold/dark scrollbars (replace the default white/grey) for the scrolling
+   middle area and the search textarea. */
+#agent-history, #agent-input {
+    scrollbar-width: thin;                       /* Firefox */
+    scrollbar-color: #9c7e44 rgba(13, 12, 7, 0.12);
+}
+#agent-history::-webkit-scrollbar,
+#agent-input::-webkit-scrollbar { width: 9px; }
+#agent-history::-webkit-scrollbar-track,
+#agent-input::-webkit-scrollbar-track {
+    background: rgba(13, 12, 7, 0.12);
+    border-radius: 6px;
+}
+#agent-history::-webkit-scrollbar-thumb,
+#agent-input::-webkit-scrollbar-thumb {
+    background: #9c7e44;
+    border-radius: 6px;
+}
+#agent-history::-webkit-scrollbar-thumb:hover,
+#agent-input::-webkit-scrollbar-thumb:hover { background: #7a6133; }
 /* Empty-state tips block (real markup so it can carry a titled header + icon) */
 #agent-hint {
     color: #0d0c07;
@@ -2084,7 +2104,12 @@ html, body {
     font-size: 11px;
     color: #1a1408;
     line-height: 1.45;
-    padding: 0 2px;
+    /* Solid gold panel behind the AI's reply for legibility — intentionally a
+       deeper gold than the cream (#e6d6ad) manuscript cards, for contrast. */
+    background: #c8a45f;
+    border: 1px solid #b0884a;
+    border-radius: 7px;
+    padding: 8px 10px;
 }
 .agent-fallback-note {
     font-size: 9px;
