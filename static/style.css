@@ -1996,13 +1996,23 @@ html, body {
     flex-shrink: 0;
 }
 #agent-title {
-    font-size: 12px;
-    font-weight: 800;
+    flex: 1;
+    min-width: 0;                             /* let it use the row width & wrap cleanly */
+    font-family: 'Cinzel', Georgia, serif;   /* same as the ManuscriptDB title */
+    font-size: 13px;
+    font-weight: 700;
     color: #0d0c07;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.04em;
+    line-height: 1.25;
     text-transform: uppercase;
 }
+#agent-title em {
+    font-style: italic;
+    font-weight: inherit;
+}
 #agent-close {
+    flex-shrink: 0;
+    align-self: flex-start;
     background: none;
     border: none;
     color: #5a4a2a;
