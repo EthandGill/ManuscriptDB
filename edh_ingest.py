@@ -44,6 +44,7 @@ GENRE_MAP = [
                     "grabinschrift", "grab"]),                              # Grabinschrift
     ("honourific", ["honor", "honour", "honorific",
                     "ehreninschrift", "ehren"]),                           # Ehreninschrift
+    ("defixio",    ["defixio", "fluchtafel", "devotio"]),                  # curse tablet (before public)
     ("public",     ["building", "aedific", "dedicat", "votive", "sacr", "milliar", "miliar",
                     "boundary", "legal", "lex ", "edict", "list", "acta", "public",
                     "weihinschrift", "weih",          # votive / dedication
