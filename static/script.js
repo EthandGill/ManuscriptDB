@@ -964,6 +964,9 @@ function initOrbis(data, network) {
 
     // Place manuscript rectangle markers on the map
     renderManuscriptMarkers();
+
+    // Place epigraphy orbs on the map (own layer + colours)
+    renderEpigraphyMarkers();
 }
 
 // ── MANUSCRIPT DATA ───────────────────────────────────────
@@ -2289,6 +2292,97 @@ function openInscriptionReader(insc) {
         found:       place,
         greek:       toVerses(insc.text),
         translation: toVerses(insc.translation),
+    });
+}
+
+// ── EPIGRAPHY MAP ORBS ───────────────────────────────────
+// Self-contained: its own layer + colours, independent of the manuscript orb
+// system. Every inscription gets a home — snapped to a nearby city, else its
+// own coordinates, else a safe fallback — so none is dropped from the map.
+const epigraphyLayer = L.layerGroup().addTo(map);
+
+// New orb palettes, distinct from the manuscript colours (indigo / gold / rose).
+const EPI_INDIGO = [[60, 55, 150], [88, 82, 196], [103, 98, 210], [118, 112, 224]];
+const EPI_GOLD   = [[150, 110, 18], [196, 150, 33], [214, 168, 46], [230, 186, 64]];
+const EPI_ROSE   = [[150, 32, 92], [190, 52, 124], [206, 64, 140], [220, 80, 156]];
+const EPI_GENRE_PALETTES = { funerary: EPI_INDIGO, honourific: EPI_GOLD, public: EPI_ROSE };
+
+function renderEpigraphyMarkers() {
+    epigraphyLayer.clearLayers();
+    if (!epigraphy || !epigraphy.length) return;
+
+    // Group by findspot: snap to a city within range (so co-located inscriptions
+    // merge into one orb), else fall back to the raw coordinate, else Rome —
+    // guaranteeing every inscription has a home location.
+    const groups = {};
+    epigraphy.forEach(e => {
+        let lat = parseFloat(e.lat), lon = parseFloat(e.lon);
+        if (!Number.isFinite(lat) || !Number.isFinite(lon)) { lat = 41.8931; lon = 12.4828; }
+        const snap = findSnapCity(lat, lon);
+        const key  = snap ? `c:${snap.lat.toFixed(5)},${snap.lon.toFixed(5)}`
+                          : `r:${lat.toFixed(3)},${lon.toFixed(3)}`;
+        if (!groups[key]) {
+            groups[key] = {
+                pos:  snap ? geoToCRS(snap.lon, snap.lat) : geoToCRS(lon, lat),
+                name: snap?.name || 'This site',
+                list: [],
+            };
+        }
+        groups[key].list.push(e);
+    });
+
+    Object.values(groups).forEach(g => {
+        const count = g.list.length;
+        const size  = Math.round(20 + 8 * Math.sqrt(Math.min(count, 55)));
+        // colour by the dominant genre at this site
+        const counts = {};
+        g.list.forEach(e => { counts[e.genre] = (counts[e.genre] || 0) + 1; });
+        const dom = Object.keys(counts).reduce((a, b) => counts[b] > counts[a] ? b : a,
+                                               Object.keys(counts)[0]);
+        const palette     = EPI_GENRE_PALETTES[dom] || EPI_INDIGO;
+        const grad        = orbGradient(0.85, palette);
+        const badgeBg     = `rgb(${palette[1].join(',')})`;
+        const badgeBorder = `rgb(${palette[0].join(',')})`;
+        const label       = count + ' inscr.';
+
+        const orb = L.marker(g.pos, {
+            pane: 'orbPane',
+            interactive: true,
+            icon: L.divIcon({
+                className: 'ms-orb-icon',
+                iconSize:   [size * 2, size * 2],
+                iconAnchor: [size, size],
+                html: `<div class="ms-orb-circle" style="width:${size*2}px;height:${size*2}px;background:${grad};--orb-badge-bg:${badgeBg};--orb-badge-border:${badgeBorder}"><div class="ms-orb-count">${label}</div></div>`,
+            }),
+        });
+        orb.on('click', ev => { L.DomEvent.stopPropagation(ev); showEpigraphyPopup(g); });
+        orb.addTo(epigraphyLayer);
+    });
+}
+
+// City-style popup listing the inscriptions at one findspot; each pill opens the reader.
+function showEpigraphyPopup(g) {
+    const CAP = 40;
+    const esc = s => (s || '').replace(/[&<>"]/g, c =>
+        ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+    const shown = g.list.slice(0, CAP);
+    const pills = shown.map(e =>
+        `<span class="city-ms-pill" data-epi-id="${esc(e.id)}" title="${esc(e.name || e.title)}">${esc(e.title || e.id)}</span>`
+    ).join('');
+    const more = g.list.length > CAP ? `<div class="city-ms-popup-sub">+${g.list.length - CAP} more — open the Epigraphy list in the sidebar</div>` : '';
+    const popup = L.popup({ className: 'city-ms-popup', offset: [0, -8], closeButton: true, autoClose: true })
+        .setLatLng(g.pos)
+        .setContent(
+            `<div class="city-ms-popup-title">${esc(g.name)}</div>` +
+            `<div class="city-ms-popup-sub">${g.list.length} inscription${g.list.length > 1 ? 's' : ''}</div>` +
+            `<div class="city-ms-popup-pills">${pills}</div>` + more
+        )
+        .openOn(map);
+    popup.getElement()?.querySelectorAll('.city-ms-pill').forEach(pill => {
+        pill.addEventListener('click', () => {
+            const e = epigraphy.find(x => x.id === pill.dataset.epiId);
+            if (e) { map.closePopup(popup); openInscriptionReader(e); }
+        });
     });
 }
 
