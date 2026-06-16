@@ -1135,6 +1135,7 @@ const EPIGRAPHY_GENRES = [
     { id: 'funerary',    label: 'Funerary',    icon: '◆' },
     { id: 'honourific',  label: 'Honourific',  icon: '◆' },
     { id: 'public',      label: 'Public',      icon: '◆' },
+    { id: 'defixio',     label: 'Curse Tablets', icon: '◆' },
 ];
 
 let epigraphy = (typeof window !== 'undefined' && window.EPIGRAPHY_DATA) ? window.EPIGRAPHY_DATA : [];  // from static/epigraphy_data.js (edh_ingest.py)
@@ -2254,7 +2255,6 @@ function renderEpigraphySection() {
                         <div class="ms-item" data-id="${e.id}">
                             <span class="ms-item-name">${e.title || e.name}</span>
                             <span class="ms-item-meta">${[e.name, e.date].filter(Boolean).join(' · ')}</span>
-                            <button class="ms-item-locate" title="Locate on map" aria-label="Locate on map">📍</button>
                         </div>`).join('')}
             </div>`;
 
@@ -2268,20 +2268,25 @@ function renderEpigraphySection() {
             renderEpigraphyMarkers();
         });
 
-        // Inscription item: row click opens the Writing Stand reader; the 📍 button
-        // pans the map to the find-spot (secondary action).
+        // Inscription item: row click opens the Writing Stand reader AND flies the
+        // map to its find-spot, opening the location popup there.
         el.querySelectorAll('.ms-item').forEach(row => {
             row.addEventListener('click', () => {
                 const insc = epigraphy.find(e => e.id === row.dataset.id);
-                if (insc) openInscriptionReader(insc);
-            });
-            const locate = row.querySelector('.ms-item-locate');
-            if (locate) locate.addEventListener('click', ev => {
-                ev.stopPropagation();
-                const insc = epigraphy.find(e => e.id === row.dataset.id);
-                if (insc && insc.lat != null && insc.lon != null) {
-                    map.panTo(geoToCRS(insc.lon, insc.lat));
-                }
+                if (!insc) return;
+                openInscriptionReader(insc);
+                const g = epiGroupFor(insc);
+                // The reader opens first (it resizes the map, which would cancel an
+                // in-flight flyTo), then we fly to the find-spot and open its popup.
+                setTimeout(() => {
+                    map.invalidateSize();
+                    const la = parseFloat(insc.lat), lo = parseFloat(insc.lon);
+                    if (Number.isFinite(la) && Number.isFinite(lo)) {
+                        if (document.hidden) map.setView(g.pos, 6, { animate: false });
+                        else map.flyTo(g.pos, 6, { duration: 0.8 });
+                    }
+                    setTimeout(() => showEpigraphyPopup(g), 900);
+                }, 420);
             });
         });
 
@@ -2338,7 +2343,8 @@ const epiActiveGenres = new Set();
 const EPI_INDIGO = [[60, 55, 150], [88, 82, 196], [103, 98, 210], [118, 112, 224]];
 const EPI_GOLD   = [[150, 110, 18], [196, 150, 33], [214, 168, 46], [230, 186, 64]];
 const EPI_ROSE   = [[150, 32, 92], [190, 52, 124], [206, 64, 140], [220, 80, 156]];
-const EPI_GENRE_PALETTES = { funerary: EPI_INDIGO, honourific: EPI_GOLD, public: EPI_ROSE };
+const EPI_CRIMSON = [[120, 20, 28], [165, 30, 40], [188, 42, 52], [205, 58, 68]];
+const EPI_GENRE_PALETTES = { funerary: EPI_INDIGO, honourific: EPI_GOLD, public: EPI_ROSE, defixio: EPI_CRIMSON };
 
 function renderEpigraphyMarkers() {
     epigraphyLayer.clearLayers();
@@ -2394,6 +2400,25 @@ function renderEpigraphyMarkers() {
         orb.on('click', ev => { L.DomEvent.stopPropagation(ev); showEpigraphyPopup(g); });
         orb.addTo(epigraphyLayer);
     });
+}
+
+// Build the find-spot group {pos, name, list} for a single inscription — the
+// same grouping renderEpigraphyMarkers uses — so a sidebar click can open the
+// location popup for its site (listing co-located inscriptions).
+function epiGroupFor(insc) {
+    const keyOf = (la, lo) => {
+        let lat = parseFloat(la), lon = parseFloat(lo);
+        if (!Number.isFinite(lat) || !Number.isFinite(lon)) { lat = 41.8931; lon = 12.4828; }
+        const snap = findSnapCity(lat, lon);
+        return {
+            key:  snap ? `c:${snap.lat.toFixed(5)},${snap.lon.toFixed(5)}` : `r:${lat.toFixed(3)},${lon.toFixed(3)}`,
+            pos:  snap ? geoToCRS(snap.lon, snap.lat) : geoToCRS(lon, lat),
+            name: snap?.name || 'This site',
+        };
+    };
+    const me = keyOf(insc.lat, insc.lon);
+    const list = epigraphy.filter(e => keyOf(e.lat, e.lon).key === me.key);
+    return { pos: me.pos, name: me.name, list: list.length ? list : [insc] };
 }
 
 // City-style popup listing the inscriptions at one findspot; each pill opens the reader.
