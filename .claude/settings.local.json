@@ -18,7 +18,9 @@
       "WebFetch(domain:papyri.info)",
       "Bash(python3 -)",
       "Bash(rm -f _missing_results.txt _probe_missing.py)",
-      "Bash(ls _*.py _*.txt)"
+      "Bash(ls _*.py _*.txt)",
+      "Bash(python -c \"import json; d=json.load\\(open\\('geography/edhGeographicData.json',encoding='utf-8'\\)\\); from collections import Counter; c=Counter\\(\\); [c.update\\(f['properties'].keys\\(\\)\\) for f in d['features']]; print\\(len\\(d['features']\\),'features'\\); print\\(c\\)\")",
+      "Bash(echo \"exit:$?\")"
     ]
   }
 }

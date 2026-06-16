@@ -139,11 +139,13 @@ def _local(tag):
 def _render(el):
     """Render an EpiDoc edition element to readable text:
     <expan><abbr>D</abbr><ex>is</ex></expan> -> 'D(is)', <supplied>x</supplied> -> '[x]',
-    <lb/> -> space, <gap/> -> '…'. Tails are handled by the caller's loop."""
+    <lb/> -> newline (one source line per <lb>), <gap/> -> '…'. Tails handled by caller."""
     tag = _local(el.tag)
     if tag == "gap":
         return " … "
-    if tag in ("lb", "space", "g"):
+    if tag == "lb":
+        return "\n"                 # a real line break — kept so we can split into lines
+    if tag in ("space", "g"):
         return " "
     out = []
     if el.text:
@@ -159,6 +161,57 @@ def _render(el):
         if child.tail:
             out.append(child.tail)
     return "".join(out)
+
+
+# German EpiDoc inscription-type term -> short English descriptor for `name`
+TYPE_LABELS = [
+    ("grabinschrift", "Funerary inscription"),
+    ("weihinschrift",  "Votive inscription"),
+    ("ehreninschrift", "Honorific inscription"),
+    ("bau",            "Building inscription"),
+    ("stifter",        "Building inscription"),
+    ("meilen",         "Milestone"),
+    ("leugen",         "Milestone"),
+    ("militärdiplom",  "Military diploma"),
+    ("militardiplom",  "Military diploma"),
+    ("defixio",        "Curse tablet"),
+    ("akklam",         "Acclamation"),
+    ("verzeichnis",    "List / register"),
+    ("grenz",          "Boundary marker"),
+    ("rechtlich",      "Legal decree"),
+    ("besitzer",       "Owner / maker inscription"),
+    ("hersteller",     "Owner / maker inscription"),
+    ("aufschrift",     "Label inscription"),
+    ("beischrift",     "Caption"),
+    ("brief",          "Letter"),
+    ("elogium",        "Elogium"),
+    ("gebet",          "Prayer"),
+    ("instrumentum",   "Instrumentum"),
+    ("unbestimmt",     "Inscription"),
+]
+
+
+def type_label(type_str):
+    """German inscription type -> short English descriptor (trailing '?' tolerated)."""
+    tl = (type_str or "").lower().rstrip("?").strip()
+    for key, label in TYPE_LABELS:
+        if key in tl:
+            return label
+    return type_str.strip().title() if type_str else "Inscription"
+
+
+def _citation(root):
+    """First <bibl> in the bibliography is the primary publication (CIL/AE/RIB/…).
+    Clean trailing edition-quality markers like ' (B)' and the trailing period."""
+    for b in root.iter(TEI_NS + "bibl"):
+        txt = re.sub(r"\s+", " ", "".join(b.itertext())).strip()
+        if not txt:
+            continue
+        txt = re.sub(r"\s*\([A-Za-z]{1,3}\)\s*$", "", txt)   # drop ' (B)' / ' (BC)'
+        txt = txt.rstrip(" .;-")
+        if txt:
+            return txt
+    return None
 
 
 def _geo_lookups(data_root):
@@ -201,14 +254,19 @@ def parse_edh_xml(path, tm_map, gn_map):
             hd = idno.text.strip()
             break
 
-    # transcription text from the <div type="edition"> -> its <ab> blocks
+    # transcription text from the <div type="edition"> -> its <ab> blocks.
+    # _render emits "\n" per <lb>, so we keep both a flat string (for scoring) and
+    # a per-line list (for the reader's verse-style display).
     text = ""
+    lines = []
     lang = ""
     for div in root.iter(TEI_NS + "div"):
         if div.get("type") == "edition":
             lang = div.get(TEI_NS + "lang") or div.get("{http://www.w3.org/XML/1998/namespace}lang") or ""
-            parts = [_render(ab) for ab in div.iter(TEI_NS + "ab")]
-            text = re.sub(r"\s+", " ", " ".join(parts)).strip()
+            raw = "\n".join(_render(ab) for ab in div.iter(TEI_NS + "ab"))
+            lines = [re.sub(r"[ \t]+", " ", ln).strip() for ln in raw.split("\n")]
+            lines = [ln for ln in lines if ln]
+            text = " ".join(lines)
             break
 
     # inscription type — the EAGLE <term> in textClass/keywords (German)
@@ -262,9 +320,16 @@ def parse_edh_xml(path, tm_map, gn_map):
     lang_label = {"la": "Latin", "grc": "Greek", "la,grc": "Latin/Greek",
                   "grc,la": "Latin/Greek"}.get(lang, "Latin")
 
+    label = type_label(type_str)
+    name = f"{label} · {place}" if place else label
+    citation = _citation(root)
+
     props = {
         "id": hd,
-        "transcription": text,
+        "title": citation or ("EDH " + hd),       # citation (CIL/AE/…) or EDH HD-number
+        "name": name,                             # short type/place descriptor
+        "transcription": text,                    # flat string (scoring / TEXT_KEYS)
+        "text_lines": lines,                      # original text, one entry per source line
         "type_of_inscription": type_str,
         "language": lang_label,
         "not_before": nb,
@@ -320,6 +385,30 @@ def do_inspect(path):
         print(json.dumps(feats[0].get("properties", {}), ensure_ascii=False, indent=1)[:1500])
 
 
+def _load_existing_translations(path):
+    """Return {id: translation} from a previously generated epigraphy_data.js.
+    edh_ingest regenerates the file from scratch and translations live ONLY in
+    that output file, so we carry them over by id rather than wiping them.
+    Tolerant of a missing or partially-written file (returns {})."""
+    if not os.path.exists(path):
+        return {}
+    try:
+        raw = open(path, encoding="utf-8").read()
+        P = "window.EPIGRAPHY_DATA = "
+        payload = raw[raw.index(P) + len(P):].strip()
+        if payload.endswith(";"):
+            payload = payload[:-1]
+        data = json.loads(payload)
+    except (ValueError, OSError):
+        return {}
+    out = {}
+    for r in data:
+        tr = r.get("translation")
+        if tr:
+            out[r.get("id")] = tr
+    return out
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("file", help="EDH/LIST dump (.geojson or .json)")
@@ -343,21 +432,45 @@ def main():
         ident = as_text(first_key(props, ID_KEYS)) or f"edh-{len(rows)}"
         place = as_text(first_key(props, PLACE_KEYS)) or "Roman Empire"
         genre = classify(type_str)
-        name = (type_str.strip().title() + " — " + place) if type_str else place
+
+        # `name` = short type/place descriptor; `title` = citation (CIL/AE/…) or EDH no.
+        name = props.get("name") or ((type_str.strip().title() + " — " + place) if type_str else place)
+        title = props.get("title") or ("EDH " + ident)
+
+        # `text` is a list of original-text lines; the XML reader supplies text_lines,
+        # otherwise fall back to the single flat string. `translation` is an English
+        # placeholder, ready to be filled in later (kept parallel to manuscripts).
+        text_lines = props.get("text_lines") or [re.sub(r"\s+", " ", text)]
+        text_lines = [ln for ln in text_lines if ln]
+
         rows.append({
             "id": ident,
+            "title": title[:120],
             "name": name[:120],
             "genre": genre,
             "lat": round(lat, 5), "lon": round(lon, 5),
             "date": fmt_date(first_key(props, NB_KEYS), first_key(props, NA_KEYS)),
             "language": as_text(first_key(props, LANG_KEYS)) or "Latin",
-            "text": re.sub(r"\s+", " ", text)[:2000],
+            "text": text_lines,
+            "translation": [],
             "source": f"https://edh.ub.uni-heidelberg.de/edh/inschrift/{ident}",
         })
 
-    # best-preserved first: longer text + having a real type/date
-    rows.sort(key=lambda r: (len(r["text"]), r["date"] != "unknown"), reverse=True)
+    # best-preserved first: more text (by total characters) + having a real date
+    rows.sort(key=lambda r: (sum(len(x) for x in r["text"]), r["date"] != "unknown"), reverse=True)
     rows = rows[: args.cap]
+
+    # Carry over translations from any previous run so regeneration never wipes
+    # the work done by epigraphy_translate.py.
+    existing = _load_existing_translations(OUT)
+    if existing:
+        kept = 0
+        for r in rows:
+            tr = existing.get(r["id"])
+            if tr:
+                r["translation"] = tr
+                kept += 1
+        print(f"Preserved {kept} existing translations from the previous file.")
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as fh:

@@ -29,3 +29,7 @@ data-main/
 edh_inscriptions*
 LIST*
 
+
+# epigraphy translation scratch
+_epi_translate_*.txt
+static/epigraphy_data.js.bak

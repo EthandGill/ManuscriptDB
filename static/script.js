@@ -2261,10 +2261,25 @@ function renderEpigraphySection() {
 // found,greek,translation} object openWritingStand expects, turning each text line
 // into a numbered verse row (ref = line number) for buildVerseHtml().
 function openInscriptionReader(insc) {
-    const toVerses = lines => (lines || []).map((line, i) => ({ ref: String(i + 1), text: line }));
-    const place = (insc.name && insc.name.includes(' · '))
-        ? insc.name.split(' · ').slice(1).join(' · ')
-        : '';
+    // text/translation may be a line-array (new edh_ingest schema) or a single
+    // flat string (older schema already deployed); normalise either into numbered
+    // verse rows for buildVerseHtml() so the reader works regardless.
+    const toLines = v => Array.isArray(v)
+        ? v
+        : (typeof v === 'string' ? v.split(/\r?\n/) : []);
+    // Escape HTML, then colour reconstructed lacunae [..] and gaps … in the blue
+    // 'ms-supplied' lacuna colour, matching the manuscripts (the brackets/ellipsis
+    // are already in the text, ms-supplied just tints them).
+    const fmtLacuna = s => String(s)
+        .replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]))
+        .replace(/(\[[^\]]*\]|…+)/g, m => `<span class="ms-supplied">${m}</span>`);
+    const toVerses = v => toLines(v)
+        .map(s => (s == null ? '' : String(s)).trim())
+        .filter(Boolean)
+        .map((line, i) => ({ ref: String(i + 1), text: fmtLacuna(line) }));
+    // place = whatever follows the type label in `name` ("Type · Place" or "Type — Place")
+    const parts = (insc.name || '').split(/\s+[·—–-]\s+/);
+    const place = parts.length > 1 ? parts.slice(1).join(' · ') : '';
     openWritingStand({
         id:          insc.id,
         label:       insc.title || insc.name || insc.id,
