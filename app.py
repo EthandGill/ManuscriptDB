@@ -263,9 +263,11 @@ _agent_catalog = None   # [{id, genre, date, found, content, lat, lon, name, lab
 _agent_client = None    # anthropic.Anthropic, created lazily
 
 AGENT_INSTRUCTIONS = """\
-You are a search assistant for ManuscriptDB, an archive of ancient manuscripts:
-New Testament papyri plus documentary papyri and ostraca (tax receipts, contracts,
-leases, loans, sales, letters) from Roman and Ptolemaic Egypt and beyond.
+You are a search assistant for ManuscriptDB, an archive of ancient sources:
+New Testament papyri, documentary papyri and ostraca (tax receipts, contracts,
+leases, loans, sales, letters) from Roman and Ptolemaic Egypt, AND Latin/Greek
+epigraphic inscriptions (genre "inscription" — public decrees, honorific texts,
+funerary epitaphs, etc.) from across the Roman world.
 
 Below is the full catalog, one manuscript per line in the format:
 id | genre | date | found | summary
@@ -275,7 +277,9 @@ relevant first. Understand concepts and synonyms, not just keywords — e.g.
 "seed-grain loans" should match loan contracts for wheat/barley seed even if
 the words "seed-grain" never appear; "letters from soldiers" should match
 letters whose writer is a soldier; "earliest copy of Matthew" should use the
-dates. Use the genre field (new-testament, receipts, contracts, letters, petitions, documents).
+dates; "honorific inscriptions" or "epitaphs" should match the epigraphy. Use the
+genre field (new-testament, receipts, contracts, letters, petitions, documents,
+inscription).
 
 For each match, judge HOW WELL it fits the query and label it with a "fit" tier,
 one of: "perfect", "great", "good", "fair", "weak" (best to worst). Reserve
@@ -295,8 +299,23 @@ CATALOG:
 """
 
 
+def _load_epigraphy():
+    """Parse the inscriptions out of static/epigraphy_data.js
+    (window.EPIGRAPHY_DATA = [ ... ]). Returns [] on any error."""
+    import json as _json
+    path = os.path.join(os.path.dirname(__file__), "static", "epigraphy_data.js")
+    try:
+        t = open(path, encoding="utf-8").read()
+        s, e = t.index("["), t.rindex("]")
+        data = _json.loads(t[s:e + 1])
+        return data if isinstance(data, list) else []
+    except Exception:
+        return []
+
+
 def _get_agent_catalog():
-    """Compact one-line-per-manuscript catalog, built once and cached."""
+    """Compact one-line-per-source catalog (manuscripts + epigraphy), built once
+    and cached, so the agent can search both papyri and inscriptions."""
     global _agent_catalog
     if _agent_catalog is None:
         rows = []
@@ -313,6 +332,31 @@ def _get_agent_catalog():
                 "content": m.get("content") or m.get("name", ""),
                 "lat":     m.get("lat"),
                 "lon":     m.get("lon"),
+            })
+        # Epigraphic inscriptions (EDH). genre "inscription" lets the frontend
+        # route a click to the inscription reader; the subtype + title live in
+        # the content line so the model can match on them.
+        for ins in _load_epigraphy():
+            iid = ins.get("id", "")
+            if not iid:
+                continue
+            name = ins.get("name", "")
+            place = name.split("·")[-1].strip() if "·" in name else ""
+            sub = ins.get("genre", "")
+            title = ins.get("title", "")
+            content = (f"{sub} inscription — {name}" if sub else name)
+            if title:
+                content += f" ({title})"
+            rows.append({
+                "id":      iid,
+                "label":   iid,
+                "name":    name,
+                "genre":   "inscription",
+                "date":    ins.get("date", ""),
+                "found":   place,
+                "content": content,
+                "lat":     ins.get("lat"),
+                "lon":     ins.get("lon"),
             })
         _agent_catalog = rows
     return _agent_catalog

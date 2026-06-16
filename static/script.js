@@ -1959,13 +1959,19 @@ function renderMsSearchResults(query) {
         const ident = [ms.id, ms.label, ms.shelf].filter(Boolean).join(' ').toLowerCase();
         return ident.includes(q);
     });
+    // Epigraphy is searched the same way — by the inscription's identifier (its
+    // EDH id and publication title, e.g. CIL …), not its descriptive name/text.
+    const epiMatches = (epigraphy || []).filter(e => {
+        const ident = [e.id, e.title].filter(Boolean).join(' ').toLowerCase();
+        return ident.includes(q);
+    });
 
-    if (matches.length === 0) {
-        resultsEl.innerHTML = `<div class="ms-search-no-results">No manuscripts match "${query}"</div>`;
+    if (matches.length === 0 && epiMatches.length === 0) {
+        resultsEl.innerHTML = `<div class="ms-search-no-results">No sources match "${query}"</div>`;
         return;
     }
 
-    resultsEl.innerHTML = matches.map(ms => {
+    const msHtml = matches.map(ms => {
         const books = (Array.isArray(ms.books) && ms.books.length > 0)
             ? ms.books.join(' · ')
             : (ms.book || '');
@@ -1979,13 +1985,30 @@ function renderMsSearchResults(query) {
         </div>`;
     }).join('');
 
-    resultsEl.querySelectorAll('.ms-search-result').forEach(row => {
+    const epiHtml = epiMatches.map(e => `
+        <div class="ms-search-result" data-epi-id="${e.id}">
+            <div>
+                <span class="ms-search-result-id">${e.id}</span>
+                <span class="ms-search-result-name">${e.name || ''}</span>
+            </div>
+            <div class="ms-search-result-meta">${[e.title, e.date].filter(Boolean).join(' · ')}</div>
+        </div>`).join('');
+
+    resultsEl.innerHTML = msHtml + epiHtml;
+
+    resultsEl.querySelectorAll('.ms-search-result[data-id]').forEach(row => {
         row.addEventListener('click', () => {
             const ms = manuscripts.find(m => m.id === row.dataset.id);
             if (!ms || ms.lat == null || ms.lon == null) return;
             map.panTo(geoToCRS(parseFloat(ms.lon), parseFloat(ms.lat)));
             const pair = msMarkers[ms.id];
             if (pair?.popup) pair.popup.openOn(map);
+        });
+    });
+    resultsEl.querySelectorAll('.ms-search-result[data-epi-id]').forEach(row => {
+        row.addEventListener('click', () => {
+            const insc = epigraphy.find(e => e.id === row.dataset.epiId);
+            if (insc) openInscriptionReader(insc);
         });
     });
 }
@@ -2235,9 +2258,14 @@ function renderEpigraphySection() {
                         </div>`).join('')}
             </div>`;
 
-        // Toggle open/closed on header click
+        // Toggle open/closed on header click — and show/hide this genre's orbs
+        // on the map (orbs appear only for opened epigraphy genres).
         el.querySelector('.genre-header').addEventListener('click', () => {
+            const wasOpen = el.classList.contains('open');
             el.classList.toggle('open');
+            if (wasOpen) epiActiveGenres.delete(genre.id);
+            else epiActiveGenres.add(genre.id);
+            renderEpigraphyMarkers();
         });
 
         // Inscription item: row click opens the Writing Stand reader; the 📍 button
@@ -2302,6 +2330,9 @@ function openInscriptionReader(insc) {
 // system. Every inscription gets a home — snapped to a nearby city, else its
 // own coordinates, else a safe fallback — so none is dropped from the map.
 const epigraphyLayer = L.layerGroup().addTo(map);
+// Which epigraphy genres are currently shown on the map. Empty by default —
+// orbs appear only when a genre is opened in the sidebar (like manuscripts).
+const epiActiveGenres = new Set();
 
 // New orb palettes, distinct from the manuscript colours (indigo / gold / rose).
 const EPI_INDIGO = [[60, 55, 150], [88, 82, 196], [103, 98, 210], [118, 112, 224]];
@@ -2311,28 +2342,16 @@ const EPI_GENRE_PALETTES = { funerary: EPI_INDIGO, honourific: EPI_GOLD, public:
 
 function renderEpigraphyMarkers() {
     epigraphyLayer.clearLayers();
-    if (!epigraphy || !epigraphy.length) return;
-
-    // "Show on map" toggle in the Epigraphy sidebar header (added once). 2,000
-    // inscriptions are dense, so let the user hide/reveal the layer at will.
-    const epiLabel = document.querySelector('.epi-section-label');
-    if (epiLabel && !document.getElementById('epi-map-toggle')) {
-        const wrap = document.createElement('label');
-        wrap.style.cssText = 'float:right;display:inline-flex;align-items:center;gap:5px;'
-            + 'font-weight:400;font-size:10px;text-transform:none;letter-spacing:.03em;cursor:pointer;opacity:.85';
-        wrap.innerHTML = '<input type="checkbox" id="epi-map-toggle" checked style="cursor:pointer;margin:0">Show on map';
-        epiLabel.appendChild(wrap);
-        document.getElementById('epi-map-toggle').addEventListener('change', e => {
-            if (e.target.checked) { if (!map.hasLayer(epigraphyLayer)) epigraphyLayer.addTo(map); }
-            else { map.removeLayer(epigraphyLayer); }
-        });
-    }
+    // Orbs show only for genres the user has opened in the sidebar — nothing by
+    // default (the old "Show on map" checkbox is gone).
+    if (!epigraphy || !epigraphy.length || epiActiveGenres.size === 0) return;
 
     // Group by findspot: snap to a city within range (so co-located inscriptions
     // merge into one orb), else fall back to the raw coordinate, else Rome —
     // guaranteeing every inscription has a home location.
     const groups = {};
     epigraphy.forEach(e => {
+        if (!epiActiveGenres.has(e.genre)) return;   // only active genres
         let lat = parseFloat(e.lat), lon = parseFloat(e.lon);
         if (!Number.isFinite(lat) || !Number.isFinite(lon)) { lat = 41.8931; lon = 12.4828; }
         const snap = findSnapCity(lat, lon);
@@ -3092,7 +3111,23 @@ async function fetchJson(url, { retries = 3, delay = 250 } = {}) {
     // which would cancel an in-flight flyTo animation.
     function activateAgentResult(msId) {
         const ms = manuscripts.find(x => x.id === msId);
-        if (!ms) return;
+        if (!ms) {
+            // Inscription result (epigraphy): open the reader and fly to it.
+            const insc = (epigraphy || []).find(x => x.id === msId);
+            if (insc) {
+                openInscriptionReader(insc);
+                setTimeout(() => {
+                    map.invalidateSize();
+                    const la = parseFloat(insc.lat), lo = parseFloat(insc.lon);
+                    if (Number.isFinite(la) && Number.isFinite(lo)) {
+                        const target = geoToCRS(lo, la);
+                        if (document.hidden) map.setView(target, 5, { animate: false });
+                        else map.flyTo(target, 5, { duration: 0.8 });
+                    }
+                }, 420);
+            }
+            return;
+        }
         openWritingStand(ms, null);
         setTimeout(() => {
             map.invalidateSize();
