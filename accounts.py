@@ -42,6 +42,17 @@ MIN_PASSWORD     = 8
 
 EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
 
+# Secret marketing/comp codes that unlock free unlimited access. Env-driven
+# (comma-separated) so codes can be added/rotated without a deploy; default
+# "Tertius". Compared case-insensitively.
+ACCESS_CODES = {c.strip().lower() for c in
+                os.environ.get("ACCESS_CODES", "Tertius").split(",") if c.strip()}
+
+
+def _valid_code(s):
+    return bool(s) and s.strip().lower() in ACCESS_CODES
+
+
 db = SQLAlchemy()
 bp = Blueprint("accounts", __name__)
 
@@ -54,6 +65,9 @@ class User(db.Model):
     password_hash    = db.Column(db.String(255), nullable=False)
     is_subscribed    = db.Column(db.Boolean, default=False, nullable=False)
     stripe_customer_id = db.Column(db.String(255))   # filled in by the Stripe step
+    # complimentary (marketing) unlimited grant — set by a valid access code,
+    # kept separate from is_subscribed (which Stripe owns) to avoid collisions.
+    comp_access      = db.Column(db.Boolean, default=False, nullable=False)
     # free-tier metering
     free_used        = db.Column(db.Integer, default=0, nullable=False)
     window_start     = db.Column(db.DateTime)
@@ -94,13 +108,19 @@ def _reset_at(window_start):
     return (window_start + WINDOW).replace(microsecond=0).isoformat() + "Z"
 
 
+def is_unlimited(user):
+    """Unlimited = a paid Stripe subscription OR a complimentary (comp) grant."""
+    return bool(user.is_subscribed or user.comp_access)
+
+
 def quota_status(user):
     """Read-only-ish peek at remaining quota (rolls an expired window but does
     not consume a search). Safe to call from /api/me."""
-    if user.is_subscribed:
+    if is_unlimited(user):
         _roll_sub_window(user)
         db.session.commit()
-        return {"subscribed": True, "remaining": None, "limit": None,
+        return {"subscribed": True, "comp": bool(user.comp_access),
+                "remaining": None, "limit": None,
                 "reset_at": _reset_at(user.sub_window_start)}
     _roll_free_window(user)
     db.session.commit()
@@ -113,7 +133,7 @@ def consume_quota(user):
     """Count one search against the user's quota. Returns a dict that doubles as
     the JSON body when blocked. Keys: allowed, status, error, message, remaining,
     limit, reset_at, subscribed."""
-    if user.is_subscribed:
+    if is_unlimited(user):
         _roll_sub_window(user)
         if user.sub_used >= ABUSE_CAP:
             db.session.commit()
@@ -164,6 +184,9 @@ def register():
         return jsonify({"error": "email_taken", "message": "That email is already registered."}), 409
     user = User(email=email, password_hash=generate_password_hash(password),
                 window_start=_now())
+    # Optional unlimited access code redeemed at sign-up (marketing comp).
+    if _valid_code(body.get("access_code")):
+        user.comp_access = True
     db.session.add(user)
     db.session.commit()
     session.permanent = True
@@ -195,6 +218,22 @@ def me():
     return jsonify(_me_payload(current_user()))
 
 
+@bp.route("/api/redeem-code", methods=["POST"])
+def redeem_code():
+    """Logged-in redemption of an unlimited access code (marketing comp)."""
+    user = current_user()
+    if user is None:
+        return jsonify({"error": "login_required",
+                        "message": "Please sign in first."}), 401
+    code = (request.get_json(silent=True) or {}).get("access_code")
+    if not _valid_code(code):
+        return jsonify({"error": "bad_code",
+                        "message": "That access code isn't valid."}), 400
+    user.comp_access = True
+    db.session.commit()
+    return jsonify(_me_payload(user))
+
+
 # ── init ────────────────────────────────────────────────────────────────────
 def init_accounts(app):
     secret = os.environ.get("SECRET_KEY") or os.environ.get("FLASK_SECRET")
@@ -223,3 +262,14 @@ def init_accounts(app):
     app.register_blueprint(bp)
     with app.app_context():
         db.create_all()
+        # db.create_all() does NOT add new columns to a table that already
+        # exists (e.g. the production Railway Postgres `users` table). Apply the
+        # comp_access column with a guarded ALTER so prod and dev both upgrade
+        # with no manual step. Both Postgres and SQLite accept this ALTER; if the
+        # column already exists it raises, which we swallow.
+        from sqlalchemy import text
+        try:
+            with db.engine.begin() as c:
+                c.execute(text("ALTER TABLE users ADD COLUMN comp_access BOOLEAN DEFAULT FALSE"))
+        except Exception:
+            pass   # column already present — fine

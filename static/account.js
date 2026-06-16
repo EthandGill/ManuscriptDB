@@ -54,6 +54,11 @@
       + "padding:5px 8px;font-size:9px;font-weight:800;letter-spacing:.05em;text-transform:uppercase;text-align:center;"
       + "transition:background .12s,color .12s}"
       + ".mdb-sub-bar:hover{background:#fff5e0;color:#0d0c07}"
+      // Static (non-clickable) note for complimentary unlimited users — no Stripe
+      // customer, so no Manage bar; dashed border signals it isn't a button.
+      + ".mdb-comp-note{display:block;width:100%;box-sizing:border-box;text-align:center;"
+      + "font-size:9px;font-weight:800;letter-spacing:.05em;text-transform:uppercase;color:#3a2f18;"
+      + "padding:5px 8px;border:1px dashed #8a6f3a;border-radius:5px;cursor:default}"
       + ".mdb-overlay{position:fixed;inset:0;z-index:100000;background:rgba(0,0,0,.62);"
       + "display:none;align-items:center;justify-content:center}"
       + ".mdb-overlay.open{display:flex}"
@@ -95,14 +100,18 @@
       el("mdb-open-login").onclick = function () { openAuth("login"); };
       el("mdb-open-register").onclick = function () { openAuth("register"); };
     } else if (state.subscribed) {
-      // Compact: Log out + email on one line, "Unlimited" across from email,
-      // manage bar below.
+      // Compact: Log out + email on one line, "Unlimited" across from email.
+      // Paid subscribers get the Stripe Manage bar; complimentary (comp) users
+      // have no Stripe customer, so they get a static note instead.
+      var unlimitedBar = state.comp
+        ? '<div class="mdb-comp-note">Complimentary unlimited access</div>'
+        : '<div class="mdb-sub-bar" id="mdb-manage">Manage ManuscriptDB Unlimited</div>';
       b.innerHTML = '<div class="mdb-top"><span class="mdb-left">'
                   + '<a id="mdb-logout">Log out</a>'
                   + '<span class="mdb-email">' + esc(state.email) + '</span></span>'
                   + '<span class="mdb-quota">Unlimited</span></div>'
-                  + '<div class="mdb-sub-bar" id="mdb-manage">Manage ManuscriptDB Unlimited</div>';
-      el("mdb-manage").onclick = openPortal;
+                  + unlimitedBar;
+      if (!state.comp) el("mdb-manage").onclick = openPortal;
       el("mdb-logout").onclick = doLogout;
     } else {
       // Compact: Log out + email on one line, free-search count across from
@@ -132,6 +141,7 @@
       + '<input id="mdb-email" type="email" placeholder="you@example.com" autocomplete="email">'
       + '<input id="mdb-pass" type="password" placeholder="Password (min 8 chars)" autocomplete="'
       + (isReg ? "new-password" : "current-password") + '">'
+      + (isReg ? '<input id="mdb-code" type="text" placeholder="Unlimited Access Code (optional)" autocomplete="off">' : '')
       + '<button class="mdb-btn" id="mdb-auth-go">' + (isReg ? "Create account" : "Sign in") + '</button>'
       + '<div class="mdb-link" id="mdb-auth-swap">'
       + (isReg ? "Already have an account? Sign in" : "New here? Create an account") + '</div>';
@@ -147,7 +157,9 @@
     var email = el("mdb-email").value.trim();
     var pass = el("mdb-pass").value;
     var errEl = el("mdb-auth-err"); errEl.textContent = "";
-    api(isReg ? "/api/register" : "/api/login", "POST", { email: email, password: pass })
+    var body = { email: email, password: pass };
+    if (isReg) body.access_code = (el("mdb-code") || {}).value;
+    api(isReg ? "/api/register" : "/api/login", "POST", body)
       .then(function (res) {
         if (!res.ok) { errEl.textContent = res.data.message || "Something went wrong."; return; }
         Object.assign(state, res.data); closeModals(); renderBadge();
@@ -181,11 +193,29 @@
       + '<p style="color:#e7e7ef"><b>$10 CAD / month</b> — unlimited use of the search assistant, '
       + 'resets never. Cancel anytime.</p>'
       + '<button class="mdb-btn" id="mdb-subscribe">Subscribe — $10 CAD/mo</button>'
-      + '<button class="mdb-btn alt" id="mdb-pay-close">Maybe later</button>';
+      + '<button class="mdb-btn alt" id="mdb-pay-close">Maybe later</button>'
+      + '<div style="margin-top:14px;border-top:1px solid #2a2416;padding-top:12px">'
+      + '<p style="margin:0 0 6px;font-size:12px;color:#a89878">Have an Unlimited Access Code?</p>'
+      + '<input id="mdb-pay-code" type="text" placeholder="Unlimited Access Code" autocomplete="off">'
+      + '<div class="mdb-err" id="mdb-code-err"></div>'
+      + '<button class="mdb-btn alt" id="mdb-redeem">Redeem code</button>'
+      + '</div>';
     o.classList.add("open");
     el("mdb-pay-x").onclick = closeModals;
     el("mdb-pay-close").onclick = closeModals;
     el("mdb-subscribe").onclick = startCheckout;
+    el("mdb-redeem").onclick = redeemCode;
+  }
+
+  function redeemCode() {
+    if (!state.logged_in) { openAuth("register"); return; }
+    var errEl = el("mdb-code-err"); if (errEl) errEl.textContent = "";
+    api("/api/redeem-code", "POST", { access_code: (el("mdb-pay-code") || {}).value })
+      .then(function (res) {
+        if (res.ok) { Object.assign(state, res.data); closeModals(); renderBadge(); }
+        else if (errEl) { errEl.textContent = (res.data && res.data.message) || "That access code isn't valid."; }
+      })
+      .catch(function () { if (errEl) errEl.textContent = "Network error — try again."; });
   }
 
   function startCheckout() {
