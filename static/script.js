@@ -1950,13 +1950,12 @@ function renderMsSearchResults(query) {
     genreList.style.display = 'none';
     resultsEl.classList.add('active');
 
-    const matches = manuscripts.filter(ms => {
-        const searchable = [
-            ms.id, ms.name, ms.content, ms.date, ms.found, ms.held, ms.shelf,
-            ...(Array.isArray(ms.books) ? ms.books : [ms.book || ''])
-        ].filter(Boolean).join(' ').toLowerCase();
-        return searchable.includes(q);
-    });
+    // Search ONLY the shelf number. Other fields (id, name, date, …) still show
+    // in each result row, but the query is matched against the shelf alone — so
+    // e.g. typing "donkey" returns nothing.
+    const matches = manuscripts.filter(ms =>
+        (ms.shelf || '').toLowerCase().includes(q)
+    );
 
     if (matches.length === 0) {
         resultsEl.innerHTML = `<div class="ms-search-no-results">No manuscripts match "${query}"</div>`;
