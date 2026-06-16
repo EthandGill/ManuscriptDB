@@ -1950,12 +1950,15 @@ function renderMsSearchResults(query) {
     genreList.style.display = 'none';
     resultsEl.classList.add('active');
 
-    // Search ONLY the shelf number. Other fields (id, name, date, …) still show
-    // in each result row, but the query is matched against the shelf alone — so
-    // e.g. typing "donkey" returns nothing.
-    const matches = manuscripts.filter(ms =>
-        (ms.shelf || '').toLowerCase().includes(q)
-    );
+    // Search ONLY the catalogue/shelf identifier — the id/designation (e.g.
+    // "P66", "BGU 3.904") and the physical shelfmark (NT papyri have no shelf,
+    // so the designation is their "shelf number"). Descriptive fields (name,
+    // content, date, found, held, books) are NOT searched, so e.g. "donkey" or
+    // "camel" returns nothing even though those words appear in a manuscript.
+    const matches = manuscripts.filter(ms => {
+        const ident = [ms.id, ms.label, ms.shelf].filter(Boolean).join(' ').toLowerCase();
+        return ident.includes(q);
+    });
 
     if (matches.length === 0) {
         resultsEl.innerHTML = `<div class="ms-search-no-results">No manuscripts match "${query}"</div>`;
