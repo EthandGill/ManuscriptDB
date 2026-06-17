@@ -445,6 +445,26 @@ def _keyword_fallback(query, rows):
     return {"answer": answer, "matches": matches, "fallback": True}
 
 
+# Cap the catalog sent to the model so the prompt stays well under the 200K
+# context window (the full catalog of ~all manuscripts + inscriptions exceeds it).
+# Rank rows by keyword relevance to the query and keep the top N; the model then
+# does the conceptual ranking over that shortlist. Row-count cap (not char/token)
+# stays safe as the catalog keeps growing.
+AGENT_CANDIDATE_CAP = 1200
+
+def _agent_candidates(query, rows):
+    if len(rows) <= AGENT_CANDIDATE_CAP:
+        return rows
+    terms = [w for w in re.split(r"\W+", query.lower()) if len(w) > 2]
+    if not terms:
+        return rows[:AGENT_CANDIDATE_CAP]
+    def _score(r):
+        hay = " ".join([r["id"], r["genre"], r["date"], r["found"],
+                        r["content"], r["name"]]).lower()
+        return sum(hay.count(t) for t in terms)
+    return sorted(rows, key=_score, reverse=True)[:AGENT_CANDIDATE_CAP]
+
+
 @app.route("/api/agent-search", methods=["POST"])
 def api_agent_search():
     body = request.get_json(silent=True) or {}
@@ -465,6 +485,7 @@ def api_agent_search():
 
     rows = _get_agent_catalog()
     by_id = {r["id"]: r for r in rows}
+    cand = _agent_candidates(query, rows)
     client = _get_agent_client()
 
     result = None
@@ -475,7 +496,7 @@ def api_agent_search():
         # the per-request query goes in the (uncached) user turn.
         system_blocks = [{
             "type": "text",
-            "text": AGENT_INSTRUCTIONS + _catalog_text(rows),
+            "text": AGENT_INSTRUCTIONS + _catalog_text(cand),
             "cache_control": {"type": "ephemeral"},
         }]
         for attempt in range(2):
