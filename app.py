@@ -399,7 +399,7 @@ def _get_agent_client():
         except ImportError:
             pass
         import anthropic
-        _agent_client = anthropic.Anthropic(api_key=key, timeout=30.0, max_retries=1)
+        _agent_client = anthropic.Anthropic(api_key=key, timeout=120.0, max_retries=1)
     return _agent_client
 
 
@@ -468,6 +468,7 @@ def api_agent_search():
     client = _get_agent_client()
 
     result = None
+    agent_err = None
     if client is not None:
         import anthropic
         # Catalog lives in a cached system block so repeat queries are cheap;
@@ -488,11 +489,14 @@ def api_agent_search():
                 text = next((b.text for b in resp.content if b.type == "text"), "")
                 result = _parse_agent_json(text)
                 break
-            except (ValueError, KeyError):
+            except (ValueError, KeyError) as e:
+                agent_err = f"parse: {type(e).__name__}: {str(e)[:160]}"
                 continue                      # malformed JSON — retry once
-            except anthropic.APIError:
+            except anthropic.APIError as e:
+                agent_err = f"api: {type(e).__name__}: {str(e)[:200]}"
                 break                          # API problem — use fallback
-            except Exception:
+            except Exception as e:
+                agent_err = f"other: {type(e).__name__}: {str(e)[:200]}"
                 break
 
     if result is None:
@@ -520,11 +524,14 @@ def api_agent_search():
             "reason": (m.get("reason") or "").strip() or "Relevant match",
         })
 
-    return jsonify({
+    out = {
         "answer":   result.get("answer", ""),
         "matches":  matches,
         "fallback": bool(result.get("fallback", False)),
-    })
+    }
+    if body.get("debug") and agent_err:
+        out["debug_reason"] = agent_err
+    return jsonify(out)
 
 
 @app.route("/api/health")
