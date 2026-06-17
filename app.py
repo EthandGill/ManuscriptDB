@@ -554,6 +554,24 @@ def api_health():
         "webhook_secret": bool(os.environ.get("STRIPE_WEBHOOK_SECRET", "").strip()),
         "public_base_url": os.environ.get("PUBLIC_BASE_URL", "").strip() or None,
     }
+    # Live agent probe (ONLY on ?test=1 — makes one tiny billable call). Reveals
+    # WHY the search agent falls back when a key is present: invalid key, wrong
+    # org/workspace, out of credit, no model access, etc. Never exposes the key.
+    if request.args.get("test"):
+        try:
+            client = _get_agent_client()
+            if client is None:
+                info["anthropic_test"] = {"ok": False, "reason": "no key found in env"}
+            else:
+                client.messages.create(
+                    model=AGENT_MODEL, max_tokens=1,
+                    messages=[{"role": "user", "content": "ping"}],
+                )
+                info["anthropic_test"] = {"ok": True, "model": AGENT_MODEL}
+        except Exception as e:
+            info["anthropic_test"] = {"ok": False,
+                                      "error": type(e).__name__,
+                                      "message": str(e)[:300]}
     return jsonify(info)
 
 
