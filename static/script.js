@@ -1134,8 +1134,10 @@ const _manuscriptsFallback = [
 const EPIGRAPHY_GENRES = [
     { id: 'funerary',    label: 'Funerary',    icon: '◆' },
     { id: 'honourific',  label: 'Honourific',  icon: '◆' },
+    { id: 'votive',      label: 'Votive',      icon: '◆' },
+    { id: 'building',    label: 'Building',     icon: '◆' },
     { id: 'public',      label: 'Public',      icon: '◆' },
-    { id: 'defixio',     label: 'Curse Tablets', icon: '◆' },
+    { id: 'defixio',     label: 'Defixiones',  icon: '◆' },
 ];
 
 let epigraphy = (typeof window !== 'undefined' && window.EPIGRAPHY_DATA) ? window.EPIGRAPHY_DATA : [];  // from static/epigraphy_data.js (edh_ingest.py)
@@ -1748,6 +1750,10 @@ function renderManuscriptSection() {
     if (!container) return;
     container.innerHTML = '';
 
+    const msCount = document.getElementById('ms-section-count');
+    if (msCount) msCount.textContent =
+        manuscripts.length.toLocaleString() + ' manuscript' + (manuscripts.length === 1 ? '' : 's');
+
     MANUSCRIPT_GENRES.forEach(genre => {
         const genreItems = manuscripts.filter(m => m.genre === genre.id);
 
@@ -2237,6 +2243,10 @@ function renderEpigraphySection() {
     const container = document.getElementById('epigraphy-genre-list');
     if (!container) return;
     container.innerHTML = '';
+
+    const epiCount = document.getElementById('epi-section-count');
+    if (epiCount) epiCount.textContent =
+        epigraphy.length.toLocaleString() + ' inscription' + (epigraphy.length === 1 ? '' : 's');
 
     EPIGRAPHY_GENRES.forEach(genre => {
         const items = epigraphy.filter(e => e.genre === genre.id);

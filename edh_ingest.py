@@ -44,16 +44,16 @@ GENRE_MAP = [
                     "grabinschrift", "grab"]),                              # Grabinschrift
     ("honourific", ["honor", "honour", "honorific",
                     "ehreninschrift", "ehren"]),                           # Ehreninschrift
+    ("votive",     ["weihinschrift", "weih", "votiv", "votive"]),          # Weihinschrift — dedication
+    ("building",   ["bauinschrift", "bau", "stifter", "building", "aedific"]),  # Bauinschrift — construction
     ("defixio",    ["defixio", "fluchtafel", "devotio"]),                  # curse tablet (before public)
-    ("public",     ["building", "aedific", "dedicat", "votive", "sacr", "milliar", "miliar",
+    ("public",     ["milliar", "miliar",
                     "boundary", "legal", "lex ", "edict", "list", "acta", "public",
-                    "weihinschrift", "weih",          # votive / dedication
-                    "bau-", "bauinschrift", "stifter", # building / donor
                     "meilen", "leugen",                # milestone (Meilen-/Leugenstein)
                     "grenz",                           # boundary marker
                     "rechtlich", "öffentlich",         # legal, public
                     "diplom", "akklam", "verzeichnis", # diploma / acclamation / list
-                    "besitzer", "hersteller", "votiv"]),
+                    "besitzer", "hersteller"]),
 ]
 
 
