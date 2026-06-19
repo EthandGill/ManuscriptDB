@@ -34,6 +34,9 @@ LIST*
 _epi_translate_*.txt
 static/epigraphy_data.js.bak
 
+# manuscript translation scratch (scaffold + fan-out part files, never committed)
+_mss_translate_*.txt
+
 # idp.data bulk papyri dump (downloaded locally, never commit)
 idp.data/
 idp.data-master/
