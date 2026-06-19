@@ -401,39 +401,50 @@ function clearCityMs() {
 // Shared by showMsAtCity and showOrbPopup so the two never drift apart.
 const LOC_POPUP_CAP = 10;
 
+// Does a source (manuscript or inscription) belong to this clicked city? Uses
+// the same snap-to-nearest-city logic the orbs use, so co-located sources match.
+function _sourceAtCity(item, city) {
+    const lat = parseFloat(item.lat), lon = parseFloat(item.lon);
+    if (!Number.isFinite(lat) || !Number.isFinite(lon)) return false;
+    const snap = findSnapCity(lat, lon);
+    if (snap) return Math.abs(snap.lat - city.lat) < 0.001 && Math.abs(snap.lon - city.lon) < 0.001;
+    return Math.abs(lat - city.lat) < 0.1 && Math.abs(lon - city.lon) < 0.1;
+}
+
 function showMsAtCity(city) {
-    if (!city || !manuscripts.length) return;
+    if (!city) return;
 
-    // Match manuscripts whose SNAP CITY is this city — same logic as renderManuscriptMarkers
-    // so nearby cities (e.g. Coptos/Dishna 0.15° apart) don't bleed into each other.
-    const nearby = manuscripts.filter(ms => {
-        if (ms.lat == null || ms.lon == null) return false;
-        const snap = findSnapCity(parseFloat(ms.lat), parseFloat(ms.lon));
-        if (snap) {
-            // Has a snap city: check it matches the clicked city dot
-            return Math.abs(snap.lat - city.lat) < 0.001 && Math.abs(snap.lon - city.lon) < 0.001;
-        }
-        // No snap: tight raw proximity (manuscript has no nearby named city)
-        return Math.abs(ms.lat - city.lat) < 0.1 && Math.abs(ms.lon - city.lon) < 0.1;
-    });
-    if (!nearby.length) return;
+    // Gather BOTH manuscripts and inscriptions at this city — so the popup shows
+    // up for any location, including inscription-only sites.
+    const msNearby  = manuscripts.filter(m => _sourceAtCity(m, city));
+    const epiNearby = (epigraphy || []).filter(e => _sourceAtCity(e, city));
+    if (!msNearby.length && !epiNearby.length) return;
 
-    nearby.forEach(ms => cityActivatedMs.add(ms.id));
+    msNearby.forEach(ms => cityActivatedMs.add(ms.id));
 
-    // Cap the in-popup list at LOC_POPUP_CAP names; the rest are reachable via
-    // the "See all N →" button, which opens the scrollable location sidebar.
-    const shown    = nearby.slice(0, LOC_POPUP_CAP);
-    const subText  = `${nearby.length} manuscript${nearby.length > 1 ? 's' : ''} found here`;
-    const listHtml = shown.map(ms =>
-        `<span class="city-ms-pill" data-ms-id="${ms.id}" title="${ms.name}">${ms.id}</span>`
+    // One combined, kind-tagged list of "sources" (manuscripts first).
+    const sources = msNearby.map(m => ({ kind: 'ms', item: m }))
+                            .concat(epiNearby.map(e => ({ kind: 'epi', item: e })));
+    const total = sources.length;
+
+    const parts = [];
+    if (msNearby.length)  parts.push(`${msNearby.length} manuscript${msNearby.length > 1 ? 's' : ''}`);
+    if (epiNearby.length) parts.push(`${epiNearby.length} inscription${epiNearby.length > 1 ? 's' : ''}`);
+    const subText = parts.join(' · ');
+
+    // Cap the in-popup list at LOC_POPUP_CAP; the rest via "See all N →".
+    const esc = s => (s || '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+    const listHtml = sources.slice(0, LOC_POPUP_CAP).map(s => s.kind === 'ms'
+        ? `<span class="city-ms-pill" data-ms-id="${esc(s.item.id)}" title="${esc(s.item.name)}">${esc(s.item.id)}</span>`
+        : `<span class="city-ms-pill" data-epi-id="${esc(s.item.id)}" title="${esc(s.item.name || s.item.title)}">${esc(s.item.id)}</span>`
     ).join('');
-    const moreHtml = nearby.length > LOC_POPUP_CAP
-        ? `<button class="city-ms-more" type="button">See all ${nearby.length} →</button>`
+    const moreHtml = total > LOC_POPUP_CAP
+        ? `<button class="city-ms-more" type="button">See all ${total} →</button>`
         : '';
     const cityPopup = L.popup({ className: 'city-ms-popup', offset: [0, -8], closeButton: true, autoClose: true })
         .setLatLng(geoToCRS(city.lon, city.lat))
         .setContent(
-            `<div class="city-ms-popup-title">${city.name}</div>` +
+            `<div class="city-ms-popup-title">${esc(city.name)}</div>` +
             `<div class="city-ms-popup-sub">${subText}</div>` +
             `<div class="city-ms-popup-pills">${listHtml}</div>` +
             moreHtml
@@ -443,17 +454,27 @@ function showMsAtCity(city) {
 
     cityPopup.getElement()?.querySelectorAll('.city-ms-pill').forEach(pill => {
         pill.addEventListener('click', () => {
-            const ms = manuscripts.find(m => m.id === pill.dataset.msId);
-            const pair = msMarkers[ms?.id];
-            if (pair?.popup) {
-                map.closePopup(cityPopup);
-                pair.popup.openOn(map);
+            map.closePopup(cityPopup);
+            if (pill.dataset.msId) {
+                const pair = msMarkers[pill.dataset.msId];
+                if (pair?.popup) pair.popup.openOn(map);
+            } else if (pill.dataset.epiId) {
+                const e = (epigraphy || []).find(x => x.id === pill.dataset.epiId);
+                if (e) openInscriptionReader(e);
             }
         });
     });
     cityPopup.getElement()?.querySelector('.city-ms-more')?.addEventListener('click', () => {
         map.closePopup(cityPopup);
-        showLocationSidebar(city.name, subText, nearby);
+        showLocationSidebar(city.name, subText, sources, {
+            idOf:    s => s.item.id,
+            nameOf:  s => s.kind === 'ms'
+                ? (s.item.label && s.item.label !== s.item.id ? s.item.label : (s.item.name || ''))
+                : (s.item.title || s.item.name || s.item.id),
+            onClick: s => { if (s.kind === 'ms') { const p = msMarkers[s.item.id]; if (p?.popup) p.popup.openOn(map); }
+                            else openInscriptionReader(s.item); },
+            noun:    'source',
+        });
     });
 }
 
