@@ -28,6 +28,13 @@ import xml.etree.ElementTree as ET
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "static", "epigraphy_data.js")
 
+# Reuse the exact EDH "#" multi-reading stripper that cleaned the stored data, so
+# future `--add` pulls render clean (no <blob>#<interpretive>#<DIPLOMATIC> artifacts
+# leaking into the displayed Greek/Latin). Same code path => identical behaviour.
+if HERE not in sys.path:
+    sys.path.insert(0, HERE)
+from clean_inscriptions import clean_text as strip_multi_readings
+
 # Candidate property keys, tried in order (EDH GeoJSON + LIST aggregate variants)
 TEXT_KEYS  = ["transcription", "text", "transcription_clean", "diplomatic", "clean_text_interpretive_word"]
 TYPE_KEYS  = ["type_of_inscription", "type_of_inscription_clean", "type_of_inscription_certainty", "type", "type_of_monument"]
@@ -267,6 +274,8 @@ def parse_edh_xml(path, tm_map, gn_map):
             raw = "\n".join(_render(ab) for ab in div.iter(TEI_NS + "ab"))
             lines = [re.sub(r"[ \t]+", " ", ln).strip() for ln in raw.split("\n")]
             lines = [ln for ln in lines if ln]
+            # drop EDH "#" multi-reading artifacts (handles groups that span lines)
+            lines = [ln for ln in strip_multi_readings(lines) if ln]
             text = " ".join(lines)
             break
 
