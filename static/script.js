@@ -1698,9 +1698,15 @@ function showOrbPopup(locKey) {
     });
 }
 
-// Slide-out sidebar listing ALL manuscripts at a location (scrollable).
-// Opened from the "See all N →" button when an orb popup caps its list.
-function showLocationSidebar(cityName, subText, msList) {
+// Slide-out sidebar listing ALL sources at a location (scrollable). Opened from
+// the "See all N →" button when an orb popup caps its list. Works for both
+// manuscripts (default) and inscriptions, via opts {idOf, nameOf, onClick, noun}.
+function showLocationSidebar(cityName, subText, items, opts) {
+    opts = opts || {};
+    const idOf    = opts.idOf    || (m => m.id);
+    const nameOf  = opts.nameOf  || (m => (m.label && m.label !== m.id) ? m.label : (m.name || ''));
+    const onClick = opts.onClick || (m => { const pair = msMarkers[m.id]; if (pair?.popup) pair.popup.openOn(map); });
+    const noun    = opts.noun    || 'manuscript';
     let panel = document.getElementById('location-sidebar');
     if (!panel) {
         panel = document.createElement('div');
@@ -1717,26 +1723,22 @@ function showLocationSidebar(cityName, subText, msList) {
     }
     panel.querySelector('.locsb-title').textContent = cityName;
     panel.querySelector('.locsb-sub').textContent = subText ||
-        (msList.length + ' manuscript' + (msList.length > 1 ? 's' : ''));
+        (items.length + ' ' + noun + (items.length > 1 ? 's' : ''));
     const list = panel.querySelector('.locsb-list');
     list.innerHTML = '';
-    msList.forEach(ms => {
-        const item = document.createElement('button');
-        item.type = 'button';
-        item.className = 'locsb-item';
+    items.forEach(item => {
+        const row = document.createElement('button');
+        row.type = 'button';
+        row.className = 'locsb-item';
         const idEl = document.createElement('span');
         idEl.className = 'locsb-item-id';
-        idEl.textContent = ms.id;
+        idEl.textContent = idOf(item);
         const nameEl = document.createElement('span');
         nameEl.className = 'locsb-item-name';
-        nameEl.textContent = ms.label && ms.label !== ms.id
-            ? ms.label : (ms.name || '');
-        item.append(idEl, nameEl);
-        item.addEventListener('click', () => {
-            const pair = msMarkers[ms.id];
-            if (pair?.popup) pair.popup.openOn(map);
-        });
-        list.appendChild(item);
+        nameEl.textContent = nameOf(item);
+        row.append(idEl, nameEl);
+        row.addEventListener('click', () => onClick(item));
+        list.appendChild(row);
     });
     panel.classList.add('open');
 }
@@ -2423,26 +2425,39 @@ function epiGroupFor(insc) {
 
 // City-style popup listing the inscriptions at one findspot; each pill opens the reader.
 function showEpigraphyPopup(g) {
-    const CAP = 40;
     const esc = s => (s || '').replace(/[&<>"]/g, c =>
         ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-    const shown = g.list.slice(0, CAP);
+    // Same cap + "See all N →" sidebar behaviour as the manuscript orb popup.
+    const shown = g.list.slice(0, LOC_POPUP_CAP);
+    const subText = `${g.list.length} inscription${g.list.length > 1 ? 's' : ''}`;
     const pills = shown.map(e =>
         `<span class="city-ms-pill" data-epi-id="${esc(e.id)}" title="${esc(e.name || e.title)}">${esc(e.title || e.id)}</span>`
     ).join('');
-    const more = g.list.length > CAP ? `<div class="city-ms-popup-sub">+${g.list.length - CAP} more — open the Epigraphy list in the sidebar</div>` : '';
-    const popup = L.popup({ className: 'city-ms-popup', offset: [0, -8], closeButton: true, autoClose: true })
+    const moreHtml = g.list.length > LOC_POPUP_CAP
+        ? `<button class="city-ms-more" type="button">See all ${g.list.length} →</button>` : '';
+    // epi-loc-popup re-enables the tip arrow that .city-ms-popup hides, so it
+    // connects to the find-spot node like the manuscript popup.
+    const popup = L.popup({ className: 'city-ms-popup epi-loc-popup', offset: [0, -8], closeButton: true, autoClose: true })
         .setLatLng(g.pos)
         .setContent(
             `<div class="city-ms-popup-title">${esc(g.name)}</div>` +
-            `<div class="city-ms-popup-sub">${g.list.length} inscription${g.list.length > 1 ? 's' : ''}</div>` +
-            `<div class="city-ms-popup-pills">${pills}</div>` + more
+            `<div class="city-ms-popup-sub">${subText}</div>` +
+            `<div class="city-ms-popup-pills">${pills}</div>` + moreHtml
         )
         .openOn(map);
     popup.getElement()?.querySelectorAll('.city-ms-pill').forEach(pill => {
         pill.addEventListener('click', () => {
             const e = epigraphy.find(x => x.id === pill.dataset.epiId);
             if (e) { map.closePopup(popup); openInscriptionReader(e); }
+        });
+    });
+    popup.getElement()?.querySelector('.city-ms-more')?.addEventListener('click', () => {
+        map.closePopup(popup);
+        showLocationSidebar(g.name, subText, g.list, {
+            idOf:    e => e.id,
+            nameOf:  e => e.title || e.name || e.id,
+            onClick: e => openInscriptionReader(e),
+            noun:    'inscription',
         });
     });
 }
