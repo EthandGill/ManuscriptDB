@@ -1,0 +1,114 @@
+[META]
+id:       P.FAM.TEBT 20
+label:    P.FAM.TEBT 20
+name:     Contract — Ptolemais Euergetis (Arsinoites)
+genre:    contracts
+date:     120 CE – 121 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Ptolemais Euergetis (Arsinoites) (120 CE – 121 CE)
+# hgv-keywords: Vertrag — Übereinkunft — Ehe (vertragslos) — Kind — Erbschaft
+tm:       10738
+source:   https://papyri.info/ddbdp/p.fam.tebt;;20
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    ἀντίγραφον.
+r.2    Βουκόλωι τῶν ἠ[γ]ορανομηκότων γενομένωι ἱερεῖ Ἀλ[ε]ξάνδρου κτίστου τῆς [πόλ]εως
+r.3    κα[ὶ] τῶν ἡλικιῶν ἱερεῖ ἀρχιδικαστῆι καὶ πρὸς τῇ ἐπιμελείᾳ τῶν χρηματι[στ]ῶν
+r.4    καὶ τῶν ἄλλων κριτηρίων διὰ τοῦ υἱοῦ Σαραπίωνος καὶ αὐτοῦ γενομέ[νου]
+r.5    ἱερέως Ἀ[λ]εξάνδρου κτίστου [τ]ῆς πόλεως καὶ τῶν ἡλικιῶν διέπον[το]ς τὰ [κα]τὰ
+r.6    τὴν ἀρχιδικαστίαν
+r.7    παρ[ὰ] Ἡρακλείας τῆς καὶ Ἰσιδώρας τῆς Μύσθου ἀπούσης, ὑπὲρ ἧς χρηματίζε[ι] κατὰ
+r.8    τὴν τετελειωμένην διὰ τοῦ ἐν Πτολεμαΐδι Εὐεργέτιδι τοῦ Ἀρσινοΐτου νομοῦ γραφείου
+r.9    τῷ διεληλυθότι ἔτει μηνὶ Ἐπὶφ ὁμολογίαν ὁ ἀδελφὸς αὐτῆς Πτολεμαῖος Μύσθου
+r.10   καὶ αὐτοῦ Πτολεμαίου καὶ Λυσιμάχ[ο]υ τοῦ Διδύμου τοῦ Λυσιμάχου μητρὸς [Ἀ]πίας
+r.11   κ[α]ὶ παρὰ Ἡρακλείδου τοῦ Σαραπίωνος τοῦ Ἡρακλείδου, πάντων ἀπὸ τῆς μητ[ρ]οπόλεως
+r.12   τοῦ Ἀρσινοΐτου νομοῦ. ἐπεὶ ὁ Ἡρακλείδης συνεβίωσεν ἀγράφως τῇ [τ]ῆς Ἡρακλείας
+r.13   τ[ῆς] καὶ Ἰσιδώρας καὶ τοῦ γ[ε]νομένου αὐτῆς ἀνδρός, τοῦ δὲ Λυσιμάχου ἀδελφο[ῦ] Κρονίωνος
+r.14   [θυ]γατρὶ Ἀπίᾳ τῇ καὶ Ἡρακλείᾳ καὶ ἐν τῷ τῆς συνβιώ[σ]εως χρόνωι ἐνκύ[μ]ονος
+r.15   [αὐ]τῆς ἐξ αὐτοῦ [γ]ενομέν[η]ς καὶ ἀποκυησάσης τὸ βρ[έ]φος οὐκ … [, ἔ]τ[ι] δὲ
+r.16   καὶ συνβάντος τελευτῆσαι τὴν Ἀπίαν τὴν κα[ὶ] Ἡράκλειαν, [ἐγέν]ετ[ο] κ[α]τάστασις
+r.17   τῆς Ἡρακλείας τῆς καὶ Ἰσιδώρας καὶ τοῦ προγεγραμμέ[ν]ου αὐτῆς [ἀδελ]φοῦ Π[το]λεμαίου
+r.18   καὶ τοῦ Λυσιμάχου καὶ τοῦ Ἡρακλείδου ἐπὶ τοῦ τῆς Ἡρακλείδου μ[ερ]ίδος τοῦ Ἀ[ρσι]νοΐτου
+r.19   στρατηγοῦ Εὐδήμου, π[ρ]οφερομένων τῶν μὲν περὶ τὴν Ἡράκλειαν [τὴν] καὶ [Ἰσ]ιδώραν
+r.20   τὸ ἀποκυηθὲν ὑπὸ τῆς Ἀπίας τῆς καὶ Ἡρακλείας παιδ[ί]ον τ[ε]τ[ελε]υτηκέν[α]ι καὶ τὸν
+r.21   Ἡρακλείδην ἕτερον ἀνῃρῆσθαι, τοῦ δὲ Ἡρακλείδου [κα]ὶ αὐτοῦ π[ρο]φερομέν[ο]υ τὸ ἀνακομισθὲν ὑπὸ αὐτοῦ πα[ιδ]ίον αὐ[τ]ὸ εἶναι τὸ ὑπὸ τῆς Ἀ[π]ίας τ[ῆ]ς κ[αὶ] Ἡρακλεία[ς ἀ]ποκυηθέ[ν,]
+r.22   [ὡ]ς οἱ γενάμενοι ἐπὶ τοῦ στρατηγοῦ, καθὼς προφέρονται, ἐπὶ το[ῦ τ]ετάρτο[υ ἔ]τους
+r.23   Ἁδριανοῦ τοῦ κυρίου Ἐπὶφ ὑπομνηματισμοὶ περι[έχ]ουσι, διʼ ὧ[νπ]ερ πράγμ[ατ]ος
+r.24   ὑπερτεθέντος εἰς τὴν μείζονα [ἐ]ξουσίαν συνέβη, καθὼς [ἅπ]αντες [π]ροφέροντ[αι,]
+r.25   καὶ αὐτὸ τὸ παιδίον, εἴτε ἦν τῆς Ἀπ[ί]ας τῆς καὶ Ἡρακλείας εἴτε ἀλλότριον, τε[λε]υτῆσαι,
+r.26   τὰ νῦν εἰς διάλυσιν ἀγείοχαν πάντα τὰ κατὰ τὴν ἀμφισβήτησιν καὶ συνχωροῦσι[ν]
+r.27   ἡ μὲν Ἡράκλεια ἡ καὶ Ἰσιδώρα καὶ Πτολεμαῖος καὶ Λυσίμαχος μὴ ἐπελεύσεσθαι
+r.28   ἐπὶ τὸν Ἡρακλείδην μηδὲ περὶ ὧν μετήρχοντο α[ὐτ]ὸν διὰ τῶν τοῦ στρ[ατ]ηγοῦ
+r.29   ὑπομνηματισμῶν μηδὲ περὶ [ἄ]λλου μηδενὸς ἁπ[λ]ῶς ἐνγρά[π]του ἢ ἀγράφου
+r.30   π[ρ]άγματος [ἀπὸ τῶν] ἔνπροσθε[ν χρόνων μέχρι]
+r.31   τ[ῆ]ς ἐνεστώση[ς ἡμέρ]ας, ὁ δὲ ἀ[ντίδικος Ἡρακλείδης]
+r.32   μηδὲ αὐτὸς ἐ[πελεύσ]εσθαι ἐπὶ [τὴν Ἡράκλειαν τὴν]
+r.33   καὶ Ἰσιδώραν ἢ [τ]ὸν [Π]τολεμαῖον [ἢ τὸν Λυσίμαχον]
+r.34   [ἀ]λλὰ μηδὲ ἐπὶ μ[ηδὲ]ν τῶν ὑπὸ [Ἀπίας τῆς καὶ]
+r.35   Ἡρακλείας ἀπολ[ελειμ]μένων, μ[ηδὲ διὰ τῶν]
+r.36   [ὑ]πομνηματισμῶν μηδὲ ἀπο …
+r.37   [ἁπ]λῶς … δι … αις …
+r.38   [κ]ατὰ μηδεμίαν παρεύρεσιν … [ διὰ τὸ]
+r.39   [π]αρειληφέναι ἑαυτὸν … η … λ …
+r.40   Ἡρακλείδης τῆς τετε[λ]ευτηκυ[ίας Ἀπίας τῆς]
+r.41   [κα]ὶ Ἡρακλείας μέχρι τ[ῆ]ς κρίσεως …
+r.42   … τίαν, μὴ ἐλαττουμένων [τῆς Ἡρακλείας]
+r.43   τῆς καὶ Ἰσιδώρας καὶ τοῦ [Πτολεμαίου καὶ τοῦ]
+r.44   [Λ]υσιμάχου [π]ερὶ [ἄ]λλο[υ μηδενὸς ἁπλῶς]
+r.45   [εἴ]τʼ ἐνγρά[πτου εἴτε ἀγράφου ὀφειλήματος. ἀξιοῦμεν.]
+r.46   ἔτους πέμπ[του Αὐτοκράτορος Καίσαρος Τραιανοῦ Ἁ]δριανοῦ Σεβ[αστοῦ ] …
+
+[TRANSLATION]
+# HGV-EN: Copy. To Boukolos, ex-agoranomus, ex-priest of Alexander founder of the city and of the classes, priest, chief-judge, and curator of the chrematistae and the other courts, through his son, Sarapion, also ex-priest of Alexander founder of the city and of the classes, temporarily performing the duties of chief-judge, from Herakleia also called Isidora, daughter of Mysthes, who is absent and on whose behalf her brother, Ptolemaios, son of Mysthes, is acting by virtue of an agreement done through the registrar’s office at Ptolemais Euergetis in the Arsinoite nome, in the month of Epeiph of the last year, and from Ptolemaios himself and Lysimachos, son of Didymos, son of Lysimachos, whose mother is Apia, and from Herakleides, son of Sarapion, son of Herakleides, all of them from the metropolis of the Arsinoite nome. Whereas Herakleides has been married without written contract with Apia also called Herakleia, daughter of Herakleia also called Isidora, and the latter’s deceased husband, Kronion, brother of Lysimachos, and as during the marriage she became pregnant through him and was delivered, the child - - -; (whereas), moreover, Apia also called Herakleia having died, Herakleia also called Isidora and her said brother, Ptolemaios, and Lysimachos and (on the other side) Herakleides have attended before Eudemos, strategos of the Herakleides district in the Arsinoite nome, the party of Herakleia also called Isidora argued that the child borne by Apia also called Herakleia had died and that Herakleides had adopted another one; Herakleides himself, however, argued that the child which he had taken with him was really the child born by Apia also called Herakleia, as appears according to their own information from the record drawn up in the presence of the strategos in the month of Epeiph of the 4th year of Hadrian the lord, which proves also that the case has been left to the higher court. Since it has happened, as both parties concede, that the infant itself, either of Apia also called Herakleia or a strange one, has died, they have now settled the whole controversy and agree with each other, viz. Herakleia also called Isidora and Ptolemaios and Lysimachos, that they will not proceed against Herakleides neither on account of the charge taken down in the minutes of the strategos nor of any other matter with or without written document from past times until today; and the other party, Herakleides, that he will proceed neither against Herakleia also called Isidora and Ptolemaios and Lysimachos nor against any of the possessions left by Apia also called Herakleia, neither on the strength of the minutes nor of any other - - -; Herakleia also called Isidora and Ptolemaios and Lysimachos suffering no loss in any other debt contracted with or without a written document. We request. (Date).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    
+30    
+31    
+32    
+33    
+34    
+35    
+36    
+37    
+38    
+39    
+40    
+41    
+42    
+43    
+44    
+45    
+46    

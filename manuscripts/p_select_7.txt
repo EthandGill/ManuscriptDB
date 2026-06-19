@@ -1,0 +1,80 @@
+[META]
+id:       P.SELECT 7
+label:    P.SELECT 7
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     314 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (314 CE)
+# hgv-keywords: Darlehen — Geld — Zins — Rückgabe — doppelte Ausführung
+tm:       16831
+source:   https://papyri.info/ddbdp/p.select;;7
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [Αὐρηλίᾳ] Τάϊτι τῇ καὶ Τεχωσαρίῳ Χωσίωνος ἀπὸ τῆς λαμπρᾶς καὶ λαμπροτάτης
+r.2    [Ὀξυρυγ]χειτῶν πόλεως χωρὶ[ς] κ[υρί]ου χρηματιζούσῃ τέ[κν]ων δικαίῳ
+r.3    Αὐρήλιος Παγῶνις Παγώνι[ος] μητρὸς Ταθώνιος ἀπὸ κώμης Λευκίου
+r.4    τρίτου πάγου χαίρειν. ὁμολογῶ ἐσχηκέναι παρὰ σοῦ ἐν χρήσει διὰ
+r.5    χ[ε]ιρὸ[ς] ἐξ οἴκου σου ἀργυρίου Σεβαστῶν νομίσματος τάλαντα ἓξ καὶ δραχ[μ]ὰ[ς] τ[ρι]σχιλίας γίνεται τάλαντα ϛ δραχμαὶ Γ, ἅπερ ἐπάναγκες ἀποδώσω σοι μέχρι εἰκάδος
+r.6    [τοῦ ἑξῆς] μηνὸς Ἐπεὶφ τ[ο]ῦ ἐν[εστῶ]τος η ἔτους ϛ ἔτους ἄνευ πάσης ὑπερθέσεως
+r.7    [κ]αὶ [εὑρη]σιλογίας, εἰ δὲ μή, ἐκτείσω σοι τοῦ ὑπερπεσόντος χρόνου τόκον
+r.8    τὸν σταθέντα ἑκάστης μνᾶς τοῦ μηνὸς ἑκάστου, γεινομένης σοι τῆς πράξεως
+r.9    [πα]ρ[ὰ τε ἐ]μοῦ καὶ ἐκ τῶν ὑπαρχόντων μοι πάντων. κύριον τὸ χειρό[γραφον δι]σσὸν γραφὲν πανταχῇ ἐπιφερόμενον καὶ παντὶ τῷ ὑπὲρ σοῦ
+r.10   [ἐπιφ]έρ[ο]ντι καὶ ἐπερωτηθεὶς ὑπό σου ὡμολόγησα. ἔτους η καὶ ϛ
+r.11   [τῶν κύριων] ἡ[μῶν Αὐτοκρατόρων Καισ]άρων Κωνσταντίνου καὶ Λικινίου
+r.12   [Σεβασ]τῶ[ν, ὑ]π[ατ]εία[ς Ῥουφίου Οὐολουσιαν]οῦ καὶ Πετρωνίου
+r.13   [Ἀννιανοῦ] τῶν λα[μ]πρ[οτάτων. Παῦνι εἰκάδ]ι.
+r.14   [Αὐρήλιος] Παγῶνις Παγώ[νιος ἔσχ]ον ἐν χρήσει τὰ τοῦ ἀργυρίου τάλαντα ἓξ
+r.15   [καὶ δραχ]μὰς τρισχιλίας καὶ ἀπ[οδ]ώσω ὡς πρόκιται τῇ δηλουμένῃ
+r.16   [προθεσ]μίᾳ ὡς πρόκιται καὶ ἐπερ[ωτη]θεὶς ὡμολόγησα. Αὐρήλιος Ἀπολλώνιος
+r.17   ἔγρ[αψ]α ὑπὲρ αὐτοῦ μὴ εἰδότος γράμματα.
+r.18   [δ]ιʼ ἐμ[ο]ῦ Φιλονίκου ἐγράφη.
+r.19   Αὐρηλ[ίᾳ Τά]ϊτι τ[ῇ κ]αὶ Τ[εχωσαρίῳ] Χωσίων[ος ἀπὸ τῆς λαμπρᾶς καὶ] λαμπροτάτης
+r.20   Ὀξυρυγχει[τῶν] πόλεως [χωρὶς] κυρί[ου] χρηματιζ[ούσῃ τέκν]ων δικαίῳ
+r.21   Αὐρήλιος [Παγ]ῶνις Παγώ[νιος] μητρὸς Ταθών[ιος ἀπὸ κώμης Λε]υκίου
+r.22   τρίτου π[άγου] χαίρειν. [ὁμολ]ογῶ ἐσχηκέναι παρὰ σοῦ ἐν χρήσει διὰ
+r.23   χειρὸς ἐξ [οἴκο]υ σου ἀργυ[ρίου] Σεβαστῶν νομίσματος τάλαντα ἓξ καὶ δραχμὰς τρισ[χιλίας] γίνονται τάλαντα ϛ δραχμαὶ [Γ], ἅπερ ἐπάναγκες [ἀ]ποδώσω σοι μέχρι
+r.24   εἰκάδος τοῦ ἑξ[ῆς μη]ν[ὸς] Ἐπ[εὶφ] τοῦ ἐνεστῶτος η ἔτους ϛ ἔτους
+r.25   ἄνευ πάσης ὑπερθέσεως καὶ εὑρη[σι]λογίας, εἰ δὲ μή, ἐκτείσω σοι τοῦ ὑπερπεσόντος χρ[όν]ου τόκον τ[ὸ]ν σταθέντα ἑκάστη[ς] μνᾶς τοῦ μηνὸς
+r.26   ἑκάστου, [γει]νομέν[η]ς [σοι] τῆς πράξεως παρά τʼ ἐμοῦ καὶ ἐκ τῶν
+r.27   ὑπαρχόντ[ων] μοι πάντω[ν] . [κύρ]ιον τ[ὸ] χε[ιρόγρ]αφον
+r.28   [δισσὸν γραφὲν παν]τα[χῇ] ἐπιφερ[όμεν]ον [καὶ παντὶ τῷ ὑπὲρ σοῦ]
+r.29   [ἐπιφέροντι κα]ὶ [ἐπ]ερ[ωτ]ηθεὶ[ς ὑπό σου ὡμολόγησα. ἔτους η καὶ ϛ ] …
+
+[TRANSLATION]
+# HGV-EN: (Copy A) To Aurelia Taïs alias Techosarion, daughter of Chosion from the eminent and most eminent town of the Oxyrhynchites, acting without guardian according to the ius liberorum, greetings from Aurelius Pagonis, son of Pagonis, his mother being Tathonis, from the village of Leukios in the third pagus. I declare to have received from you as a loan from hand to hand out of your house, six talents and three thousand drachmas in silver imperial coins, that is 6 talents and 3000 drachmas which I am bound to pay on the twentieth of the next month of Epeiph of the present 8th year/6th year, at the latest, without delay or excuse; if not, I shall pay you the interest that has been stipulated per mina per month for the time I shall be in arrears, while you have right of execution of me and all my goods. The chirograph - written in duplicate - is valid everywhere where it may be produced and for everybody who produces it on your behalf, and i answer to your formal question, I have given my assent. In the 8th year and the 6th year of our lords the Imperatores Caesares Constantinus and Licinius, the Augusti, during the consulate of Rufius Volusianus and Petronius Annianus the clarissimi, on the twentieth (?) of Payni. I Aurelius Pagonis, son of Pagonis have received as a loan the six talents and three thousand drachmas in silver, and I shall repay in the manner described above, at the appointed time, as is mentioned above and in answer to the formal question I have given my assent. I Aurelius Apollonius have written for him, because he cannot. Was written by me, Philonicus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    

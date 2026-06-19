@@ -1,0 +1,66 @@
+[META]
+id:       P.Oxy. 4.727
+label:    P.Oxy. 4.727
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     154 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (154 CE)
+# hgv-keywords: Vertrag — Stellvertretung für Vormundschaft
+tm:       20427
+source:   https://papyri.info/ddbdp/p.oxy;4;727
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ι … ρ … μ … ει Ἰσι[δ]ώρου γενομένου ἐξηγητοῦ υἱῷ
+r.2    γενομένῳ στρατηγῷ τῆς πόλεως ἱερεῖ ἀρχιδικαστῇ
+r.3    καὶ πρὸς τῇ ἐπιμελείᾳ τῶν χρηματιστῶν καὶ τῶν ἄλλων
+r.4    κριτηρ[ί]ων διὰ [Δ]ημητρίου Ἡρακλείδου γενομένου
+r.5    ἐξηγη[τ]οῦ υἱοῦ διέποντος τὰ κατὰ τὴν ἀρχιδικαστείαν
+r.6    παρὰ Γαίων Μαρκίων Ἀπίωνος τοῦ καὶ Διογέν[ο]υς καὶ Ἀπολιναρίου τοῦ καὶ Ἰουλιανοῦ καὶ ὡς
+r.7    χρηματίζομεν καὶ παρὰ Ὠφελᾶτος τοῦ Ὠφελᾶτος τῶν
+r.8    ἀπʼ [Ὀ]ξ[υ]ρύνχων πόλεως. συνχωροῦσι οἱ Γάιοι Μάρκιοι Ἀπίων ὁ καὶ Διογένης καὶ Ἀπολινάριος ὁ καὶ Ἰουλιανὸς
+r.9    οὐ δυν[ά]μενοι κατὰ τὸ παρὸν τὸν εἰς Αἴγυπτον πλοῦν ποιήσασθ[α]ι συνεστακέναι τὸν προγεγραμμένον Ὠφελᾶν
+r.10   ὄντα καὶ τῶν ὑπαρχόντων αὐτοῖς ἐν τῷ Ὀξυρυνχείτῃ νομῷ φροντιστὴν καὶ κατὰ τήνδε τὴν συνχώρησιν
+r.11   φροντιοῦντα καὶ ἐπιμελησόμενον ὧν καὶ αὐτοὶ ἐπιτροπεύουσιν ἀφηλίκων ἑαυτῶν ἀδελφιδῶν Οὐαλερίων Θεοδότου τοῦ καὶ Πωλίωνος καὶ Ἀπολλωναρίου
+r.12   τῆς καὶ Νεικαρέτης ἔτι δὲ καὶ ἀπαιτήσοντα φόρους
+r.13   καὶ ἐγμ[ι]σθώσοντα ἃ ἐὰν [δ]έον ἦν καὶ καταστησόμενον
+r.14   πρὸς οὓς ἐὰν δέῃ καὶ γένη διαπωλήσοντα ἃ ἐὰν δέον
+r.15   ᾖ τῇ αὐτοῦ πίστει, διὸ τοὺς πρὸς τούτοις ὄντας συνχρηματίζειν τῷ Ὠφελᾷ ἕκαστα [τ]ῶν προκειμένων ἐπιτελοῦντι, καὶ λ[όγο]υς ὧν ἐὰν ἐπιτελέσῃ κατὰ μῆνα ἕκαστον
+r.16   διαπεμψομένῳ [αὐτοῖ]ς πάντα δὲ ἐπιτελέσοντι καθὰ καὶ αὐτοῖς παροῦσι ἐξῆν, ἐπεὶ καὶ ὁ συνιστανόμενος
+r.17   Ὠφελᾶς εὐδοκεῖ τῇδε τῇ συνχωρήσει, κυρίων ὄντων
+r.18   ὧν ἔχουσι ὅ τε Ἀπίων ὁ καὶ Διογένης καὶ Ἀπολινάριος
+r.19   ὁ καὶ Ἰουλιανὸς ἀλλήλων γραμμάτων παντοίων πάντων. ἀξ[ι]οῦμεν. ἔτους ἑπτακα[ι]δεκάτου Αὐτοκράτορος Καίσαρος
+r.20   Αἰλίου Ἁδριανοῦ Ἀν[τ]ωνείνου Σεβαστοῦ Εὐσεβοῦς
+r.21   Μεχεὶρ β.
+r.22   Ἀμμώνιος … α
+
+[TRANSLATION]
+# HGV-EN: To ..., son of Isidorus the ex-exegetes, late strategus of the city, priest, archidicastes and superintendent of the chrematistae and the other courts, through the deputy archidicastes Demetrius son of Heraclides the ex-exegetes, from Gaius Marcius Apion also called Diogenes and Gaius Marcius Apolinarius also called Julianus and however we are styled, and from Ophelas son of Ophelas, of Oxyrhynchus. Gaius Marcius Apion also called Diogenes and Gaius Marcius Apolinarius also called Julianus, being at present unable to make the voyage to Egypt, agree that they have appointed the aforesaid Ophelas, who is the agent for their property in the Oxyrhynchite nome, by the terms of the present authorization to act for and take charge of their brother’s children Valerius Theodotus also called Polion and Valeria Apollonarion also called Nicarete, who are minors and their wards, and further to collect rents and to make such leases as may be necessary, and to appear against persons and to sell off produce as may be needful on his own authority. Accordingly let those concerned do business with Ophelas in the discharge of all the aforesaid duties; and he shall forward to the said parties accounts of all his acts every month, and shall have power to act in all things no less than they themselves would have if present. Ophelas the appointed representative assents to this authorization; and all bonds of every kind which Apion also called Diogenes and Apolinarius also called Julianus hold of each other remains in force. We request (your concurrence). The 17th year of the Emperor Caesar Aelius Hadrianus Antoninus Augustus Pius, Mecheir 2.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    

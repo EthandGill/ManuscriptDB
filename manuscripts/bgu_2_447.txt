@@ -1,0 +1,64 @@
+[META]
+id:       BGU 2.447
+label:    BGU 2.447
+name:     Documentary papyrus — Karanis (Arsinoites)
+genre:    documents
+date:     175 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Karanis (Arsinoites) (175 CE)
+# hgv-keywords: Deklaration — Zensus — sehr kompliziert — Soldaten
+tm:       9178
+source:   https://papyri.info/ddbdp/bgu;2;447
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Ποτάμ[ωνι στρατηγῷ Ἀρσινοΐτου Ἡρακλείδου] μερ[ίδο]ς καὶ Ἀσκληπιάδῃ βασιλικῷ γραμματεῖ τῆς
+r.2    αὐτῆ[ς μερίδος καὶ κωμογραμματεῖ κ]ώμης Καρανίδος καὶ λαογράφοις τῆς αὐτῆς κώμης
+r.3    παρὰ Πτ[ολλᾶ Σαβείνου τοῦ Πτολε]μαίου μητρὸς Οὐεττίας τῆς Οὐεττίου ἀπὸ κώμης Κα[ρανίδος.ἀπογράφομαι ἐ]μαυτὸν καὶ τοὺς ἐμοὺς εἰς τὴν τοῦ ιδ ἔτους Αὐρηλίου
+r.4    Ἀντωνε[ίνου Καίσαρος το]ῦ κυρίου κατʼ οἰκίαν ἀπογραφήν, καί εἰμι ὁ Πτολλᾶς ἐτῶν μη
+r.5    καὶ τὸν ἀδ[ελφόν μου] Ἁρπ[ο]κ[ρ]ᾶν, ὄντα ἐν ἀναχωρήσει, ἐτῶν μδ, καὶ Πτολεμαΐδα ἀ[δ]ελφ[ήν μου καὶ γυν]αῖκα ἐτῶν λη καὶ τὴν ἐξ ἀμφοτέρων ἡμῶν θυγατέρα Οὐεττί[αν] ἐτῶν … [ κ]αὶ τὴν μητέρα μου Οὐεττίαν Οὐεττίου ἐτῶν οβ
+r.6    καὶ τὰς ὁ … [ μο]υ Σοῆριν καὶ Ταών ἀμφοτέρας Πτολεμαίου Πνεφερῶ[τος] μ[ητρὸς] … ς τῆς Πτολεμαίου διδυμαγενεῖς ἐτῶν λη, καὶ
+r.7    τῆς Τα[ῶτος θυγατέρ]α Ξάναριν ἀπάτορα ἐτῶν ιβ καὶ τὴν τοῦ ἀδελφοῦ τ[ῶ]ν … ν Ο[ὐ]αλερίου Ἀφρο[δει]σίου στρατιώτου σπείρης
+r.8    α [ἱπ]πι[κῆς ἀπ]ελευθέραν Σαρα[π]ι[άδα]. ὑπάρχει δὲ μοὶ καὶ
+r.9    τοῖς ἀδελφ[οῖς μου ][πα]τρικὸν ἥμισυ μέρος οἰκίας καὶ αὐλῆς καὶ ἐλαιουργίας ψιλὸς
+r.10   τόπος καὶ [μ]όνῃ [τῇ Πτολε]μαίδι οἰκία καὶ αὐλὴ καὶ ἕτεροι τόποι καὶ [ἄ]λλη αὐλὴ σὺν
+r.11   χρηστηρίοις καὶ α … [α]ὐλὴ καὶ οἰκία καταπε[π]τωκυῖα καὶ τρίτον ὄγδοον καὶ δέκατον μέρος
+r.12   ο[ἰ]κίας [καὶ] αὐλῆς κ[αὶ ] … [ κ]αὶ ἑτέρων χρηστηρίων καὶ ψιλὸς τόπος καὶ τ[ῇ] Οὐε[ττ]ίᾳ οἰκία
+r.13   καὶ αὐλὴ κ[αὶ ἑτ]έρα οἰκία καὶ [τῇ] Σο[ήρ]ι καὶ Ταῶτι κ[αὶ τ]ῷ ἀδελφῷ α[ὐτ]ῶν, φροντιζομένῳ ὑπʼ ἐμ[οῦ, Ο]ὐαλε[ρίῳ] Ἀφροδεισίῳ στρατιώτῃ τῷ προγεγραμμένῳ τέταρτον μέρος οἰκίας
+r.14   καὶ αὐλῆς καὶ ἑτέρων χρηστηριων καὶ [Σε]μπρωνίῳ Ἑρμείνῳ, ἱππεῖ ἴλης Μαυρειτανῆς, ὄν[τι ἐν ἑτέρ]ῳ τόπῳ, φροντιζομένῳ ὑπʼ ἐμοῦ, ἐπικεκριμένῳ ὑπὸ Σεμπρωνίου Λιβερ[αλίου ][ἡ]γεμονεύσαντος τῷ ιη ἔτει θεοῦ Αἰλίου Ἀντωνείν[ου]
+r.15   Θὼθ Ῥωμαίων [Σεβαστῷ ] … τέταρτον μέρος οἰκίας καὶ αὐλῆς καὶ ἑτέρων χρηστηρίων καὶ δουλικὰ
+r.16   σώματα Κοπρ[ὴν ἐτῶν μ] καὶ Σαραπιάδα ἔγγονον αὐτῆς ἐτῶν κ καὶ Διόσκορον ἄλλον ἔγ[γονον][ αὐτῆς ἐτῶν ] … καὶ Πολυδεύκην ἐπικεκλημένον Ἐρῶτα ἔγγονον
+r.17   τῆς αὐτῆς ἐτῶν δ [καὶ Δ]ιδ[ύμην] ἔγγονον Σαραπιάδος ἐτῶν δ καὶ Κάστορα
+r.18   ἔγγονον τῆς αὐτῆ[ς ] … ο μηνῶν δύο . διὸ ἐπιδίδωμι.
+r.19   ἔτους ιϛ Αὐρηλίου Ἀντων[είνου Κα]ίσαρος τοῦ κυρίου Ἁθὺρ λ.
+r.20   Πτο[λλᾶ]ς [ἔσχον] ἴσον
+r.21   πεμ … αψ … [ Οὐα]λέριος ὁ καὶ Ἥρων σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: To Potam[on, strategos of the Arsinoite nome, Herakleides] division and to Asklepiades, royal scribe of the same [division and] to the village scribe of the village of Karanis and to the laographoi of the same village from Pt[ollas, son of Sabinus, the son] of Ptolemaios, mother Vettia, daughter of Vettios from the village of Ka[ranis]. I register myself and my family for the house-by-house registration of the year 14 of Aurelius Anton[inus Caesar, the] lord. And I am Ptollas, 48 years old and (I register) [my] brother Harp[o]k[r]as, being in flight, 44 years old, and Ptolemais, [my] sister and wife, 38 years old and the daughter of both of us, Vetti[a, x years old] and my mother Vettia, daughter of Vettios, 72 years old and my kinswomen, Soeris and Taos, both daughters of Ptolemaios, son of Pnephero[s], mother [NN], daughter of Ptolemaios, twins, 38 years old, and Tha[k]iaris (?), [daughter] of Taos, father unknown, 12 years old and Sarapia[s], the freedwoman of the brother of , Valerius Aphrod[i]sios, soldier of the cohors I Ulpia Af[rorum], 30 years old. There belongs to me and [my] siblings 1/2 of the house and courtyard and oil press and vacant space inherited from our father and (there belongs) to [Ptol]emais alone a house [and] courtyard and other spaces and another courtyard with appurtenances and [– – – (a?)] courtyard and a house which has fallen into disrepair and a third and a fifteenth part of a house and courtyard and [of another courtyard] and other appurtenances and a vacant space and (there belongs) to Vettia a house and courtyard and another house and (there belongs) to Soe[r]is and Taos and their brother, my charge, Vale[r]i[us] Aphrodeisios, the above mentioned soldier, a quarter of a house and courtyard and other appurtenances and (there belongs) to [S]empronius Hermeinos, cavalryman of the ala Mauretana, , my charge, scrutinized by the ex-prefect Sempronius Liber[alis] in year 18 of the God Aelius Antonin[us], in Thoth, which according to the Roman calendar is [August, (day)] a quarter of a house and courtyard and other appurtenances. And (I register) the slaves, Kopr[ia], 40 [years old][] and Sarapias, her offspring, 20 years old and Dioskoros, another offspring of her, 6 years old and Polydeukes, nicknamed Eros, an offspring [of her], 4 years old [and D]id[yme], an offspring of Sarapias, 4 years old, and Kastor, an offspring of the same Sa[rapi]as, two months old. Therefore I submit (this registration). Year 16 of Aurelius Anton[inus Ca]esar, the lord, Hathyr 30. (m. 2) I, Ptolemaios, [have received] a duplicate. (m. 3 ?) I, Pe. (m. 4 ?) I, Valerius alias Heron, have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    

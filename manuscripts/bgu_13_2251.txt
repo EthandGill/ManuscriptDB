@@ -1,0 +1,82 @@
+[META]
+id:       BGU 13.2251
+label:    BGU 13.2251
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     126 CE – 175 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (126 CE – 175 CE)
+# hgv-keywords: Liste — Ernennung — Liturgie — Namen — Ortsnamen
+tm:       29221
+source:   https://papyri.info/ddbdp/bgu;13;2251
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    καὶ ὑπὸ τοῦ τῆς Ἀπιάδος Δεῖος νεώτερος Ἰσίωνος … ἀπὸ μητροπόλεως …
+r.2    ἐξετάγη ἐν Ἀπιάδι
+r.3    εἰς ἐπιτήρησιν δρυμῶν Θεαδελφίας
+r.4    Ἄβους Ἰσίωνος μητρὸς Ταψόιτος ἀπὸ μητροπόλεως γεουχῶν ἐν Εὐημ[ερείᾳ ] …
+r.5    Παχών· εἰς κλῆρον πρακτορίας σιτικῶν Πτολεμαίδος Μελισ[σ]ουργῶν
+r.6    Θῶνις Θώνεως μητρὸς Θανοῦτος ἐπικαλούμενος Λαβε … ας ἀπὸ τῆς κώμης
+r.7    Ὀρσεῦς Ὀρσέως τοῦ Ἥρωνος μητρὸς Ἡραίδος
+r.8    Τεβέτνυ Θιαμᾶτις Βελωβοῦστος τοῦ Ἡρώδου ἀπὸ μητροπόλεως γε[ουχῶν] …
+r.9    Ἀνουβᾶς Ποσιδωνίου Ἰσχυρίωνος ὁμοίως
+r.10   Ἰβιῶνος Εἰκοσιπενταρούρων Ἐλεήμενος Σωτηρίχου τοῦ Σωτηρίχου γεουχῶν περ[ὶ τὴν κώμην ] …
+r.11   Διονύσιος ὁ καὶ Πόννις Μάρωνος τοῦ Μάρωνος ὁμοίως
+r.12   Μούχεως Σαραπίων Μέλανος μητρὸς Ἀμμωνοῦτος ἐπικαλούμενος Σέλευκος
+r.13   Ὀφέλις Ἀπίωνος τοῦ Μέλανος μητρὸς Θεανῶτος
+r.14   Χρυσᾶς Ἡρᾶ τοῦ Κοττάρου μητρὸς Θενμεσοήρεωως ἐπικαλούμενος Πτκ
+r.15   Ὀρσενοῦφις Πανούβεωως τοῦ … [ μητρὸς] Ταπιτύνεως
+r.16   Βουκόλου τοῦ καὶ [Τρι]στόμου
+r.17   Δίδυ[μος] Ἀπολλωνίου Διδ[ύμου] ἐπικαλούμενος ὁ τῆς Ἀχιλλίδο[ς ] …
+r.18   Κάστωρ Εὑρήμωνος τοῦ [Εὑρή]μωνος ὁμοίως
+r.19   Β[ο]υσίρεως Ἡρακλείδης Δω …
+r.20   Δ … ος Θεογίτωνος … [ ἀ]πὸ μητροπόλεως γεουχῶν περὶ τὴν κ[ώμην ] …
+r.21   Κυνῶν πόλεως Νεφερῶς Α … [ ἀ]πὸ τῆς κώμης
+r.22   Κλήμης Λογγεῖνος ἀ[πὸ μητροπόλεως γεουχῶν] περὶ τὴν κώμην
+r.23   Ἰβιῶνος Ἀργαίου Πετερμ[οῦθις ] … ς τοῦ Παποντῶτος ἀπὸ τῆς κ[ώμης ] …
+r.24   Σαραπίων Σύρου τοῦ Η …
+r.25   Μαγδῶλα Ἥρων Ἡρώδου … [ ἀπὸ] μητρ[ο]πόλεως
+r.26   [Σαρα]πίων Διον[υ]σί[ου ] …
+r.27   … π … νος ἀπὸ τῆς κώμ[ης ] …
+r.28   … σνεωως Πιτύνεως μητρὸς Ἰσιδώρ[ας ] …
+r.29   … ωνε … γεουχῶν περὶ τὴν κώ[μην ] …
+r.30   … πίωνος το[ῦ] Λυκαρί[ωνος ][μ]ητρὸς Διδύμης ἀπὸ …
+
+[TRANSLATION]
+# HGV-EN: And by the (village secretary) of Apias: Dios the Younger, son of Ision ... from the metropolis. He was assigned in Apias. For the superintending of the marshes in Theadelphia: Abus, son of Ision and Tapsois, from the metropolis, owning land in Euhemeria. Pachon. For the drawing for grain-tax collector of Ptolemais Melissurgon (were proposed) Thonis, also called Labe.as, son of Thonis and Thanus, from the village; Orseus, son of Orseus and Herais, and grandson of Heron. From Tebetny, etc.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    
+30    

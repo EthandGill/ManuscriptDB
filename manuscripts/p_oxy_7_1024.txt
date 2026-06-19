@@ -1,0 +1,92 @@
+[META]
+id:       P.Oxy. 7.1024
+label:    P.Oxy. 7.1024
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     129 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (129 CE)
+# hgv-keywords: Anweisung — Zahlung — Getreide (Saat) — Darlehen
+tm:       20323
+source:   https://papyri.info/ddbdp/p.oxy;7;1024
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἀσκληπιάδης στρατηγὸς
+r.2    Ὀξυρυγχείτου Ἡρακλᾷ τῷ
+r.3    καὶ Ἡρακλείδῃ σιτολόγωι
+r.4    ἀπηλιώτου τοπαρχίας Πακέρκη τόπων χαίρειν. μέτρησον συνεπιστέλλοντος
+r.5    Ἱέρακος βασιλικοῦ γραμματέως
+r.6    ἐκ τοῦ καλλίστου δείγματος ἀπὸ γενήματος τοῦ
+r.7    διελθόντος ιγ ἔτους εἰς κατασπορὰν τοῦ ἐνεστῶτος ιδ ἔτους
+r.8    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.9    εἰς σπέρματα δάνεια Ἀπολλωνίου Ἡλιοδώρου τοῦ Ἀπολλωνίου μητρὸς Θαΐδος
+r.10   Χ[αι]ρήμονος ἀπʼ Ὀξυρύγχων
+r.11   πόλεως ὡς ἐτῶν οθ οὐλὴ ὀφρύι
+r.12   δεξιᾷ, ὃν καὶ γνωριεῖς
+r.13   ἰδίῳ κινδύνῳ, ἣν ᾕρηται
+r.14   διʼ αἰτήσεως εἰς ἣν γεωργεῖ
+r.15   περὶ κώμην Ὦφιν ἐκ τοῦ
+r.16   Ἀπολλωνίου Ἀλθαιέως
+r.17   σὺν τῷ Πυρρίου καὶ Λυσιμάχου
+r.18   κλήρου ἄρουραν α δ πυροῦ
+r.19   καθαροῦ ἀδόλου ἀβώλου ἀκρίθου κεκοσκινευμένου μέτρῳ δημοσίῳ μετρήσει τῇ
+r.20   κελευσθείσῃ ἀρτάβην
+r.21   μίαν τέταρτον, γίνεται πυροῦ ἀρτάβη α δ,
+r.22   μηδενὸς ὑπολογουμένου
+r.23   εἰς ὀφειλὴν ἢ ἕτερόν τι
+r.24   ἁπλῶς, ἣν καταθήσεται
+r.25   εἰς τὴν γῆν ὑγιῶς ἐπακολουθούντων τῶν εἰωθότων, καὶ ἐκ νέων ἀποδώσει
+r.26   τὰς ἴσας ἅμα τοῖς γῆς
+r.27   δημοσίοις· παρʼ οὗ καὶ λήμψῃ
+r.28   τὴν καθήκουσαν ἀποχὴν
+r.29   δισσήν, ὧν τὴν ἑτέραν ἐμοὶ
+r.30   ἀναδώσεις. ἔτους ιδ Αὐτοκράτορος
+r.31   Καίσαρος Τραιανοῦ Ἁδριανοῦ
+r.32   Σεβαστοῦ Ἁθὺρ ιζ.
+r.33   Ἱέραξ βασιλικὸς γραμματεὺς διαδεχόμενος
+r.34   καὶ τὰ κατὰ τὴν στρ[ατ]ηγίαν, μετρήσατε τὴν τοῦ πυ[ρο]ῦ ἀρτάβην
+r.35   μίαν τέτ[α]ρτον, [γίνεται] πυροῦ α δ, ὡς πρόκειται.
+
+[TRANSLATION]
+# HGV-EN: Asclepiades, strategus of the Oxyrhynchite nome, to Heraclas also called Heraclides, sitologus of the district of Pakerke in the eastern toparchy, greeting. Measure out, with the authorization also of Hierax the basilicogrammateus, from the best sample, of the produce of the past 13th year, for the sowing of the present 14th year of Hadrianus Caesar the lord, as a loan of seed for Apollonius son of Heliodorus son of Apollonius, his mother being Thaïs daughter of Chaeremon, of the city of Oxyrhynchus, aged about 78, with a scar on the right eyebrow, whom you are to recognize at your own risk, as requested by him for the 1 1/4 arourae of land which he cultivates near the village of Ophis in the holding of Apollonius of the Althaean deme with those of Pyrrhias and Lysimachus, one and one quarter artabae of wheat, pure, unadulterated, unmixed with earth and sifted, according to public measure and regulation measurement, total 1 1/4 art. wheat, without any deduction for debts or any other purpose; and he shall sow it on the land in good faith under the observance of the usual officers, and shall repay an equivalent amount out of the new crop together with the government dues upon the land; and you shall take from him a proper receipt in duplicate and shall give one copy to me. The 14th year of the Emperor Caesar Trajanus Hadrianus Augustus, Hathur 17. From Hierax, basilicogrammateus and deputy-strategus: measure out the one and a quarter artabae of wheat, total 1 1/4 wheat, as above.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    
+30    
+31    
+32    
+33    
+34    
+35    

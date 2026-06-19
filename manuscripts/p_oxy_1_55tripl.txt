@@ -1,0 +1,56 @@
+[META]
+id:       P.Oxy. 1.55tripl
+label:    P.Oxy. 1.55tripl
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     283 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (283 CE)
+# hgv-keywords: Rechnung für den Bau einer Straße
+tm:       20717
+source:   https://papyri.info/ddbdp/p.oxy;1;55tripl
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Αὐρηλίῳ Ἀπολλωνίῳ τῷ καὶ Διονυσίῳ γενομένῳ ὑπομνηματογράφῳ κ[αὶ] ὡς χρηματίζει γυμνασιαρχήσαν[τ]ι βουλευτῇ
+r.2    ἐνάρχῳ πρυτάνει τῆς λαμπρᾶς καὶ λαμπροτάτ[ης ][Ὀ]ξυρυγχιτῶν πόλεως
+r.3    διέποντι καὶ τὰ πολιτικά,
+r.4    παρὰ Αὐρηλίων Μενεσθέως καὶ Νεμεσιανοῦ ἀμφ[ο]τέρων Διον[υ]σίου ἀπ[ὸ] τῆ[ς] αὐτῆ[ς] λαμπρᾶς Ὀξυρυγχιτῶν πόλεως Κασιωτῶν. αἰτούμεθα
+r.5    ἐπισταλῆναι ἐξοδιασθῆναι ἡμῖν ἀπὸ τοῦ τῆς πόλεως λόγου,
+r.6    ὑπὲρ μισθῶν ὧν πεποιήμεθα Κασιωτικῶν ἔργων τῆς κατασκευασθείσης ὑπὸ σοῦ πλατείας ἀπὸ ἡγουμένου πυλῶνος
+r.7    γυμνασίου ἐπὶ ν[ότ]ον μέχρι ῥύμης Ἱερακίου ἑκατέρωθεν
+r.8    τῶν μερῶν, τὰ συναγόμενα τῶν μισθῶν τοῦ ὅλου ἔργου
+r.9    [ἀ]κολού[θω]ς τοῖς ψηφισθεῖσι ἐν τῇ κρατίστῃ βουλῇ, ἀργυρίου
+r.10   Σεβασ[τ]ῶν νομίσματος τάλαντα τέσσαρα καὶ δραχμὰς τετρακισχιλίας, γίνονται τάλαντα δ δραχμαὶ Δ, καὶ ἀξιοῦμεν ἐπιστεῖλαί σε τῷ ταμίᾳ
+r.11   τῶν πολιτικῶν χρημάτων τὸν ἐξοδιασμὸν ἡμῖν ποιήσασθαι κατὰ τὸ ἔθος. ἔτους α Αὐτοκράτορος Καίσαρος Μάρκου
+r.12   Αὐρηλίου Κάρου καὶ Μάρκου Αὐρηλίου Καρίνου Γερμανικῶν
+r.13   Μεγίστων καὶ Μάρκου Αὐρηλίου Νουμεριανο[ῦ] τῶν ἐπιφανεστάτων
+r.14   Καισά[ρ]ων Εὐσεβῶν Εὐτυχῶν Σεβαστῶν,
+r.15   Φαρμοῦθι ιβ.
+r.16   [Αὐρήλιος] Μενεσθεὺς ἔσχον σὺν τῷ ἀδελ[φῷ μου ][τ]ὰ τοῦ ἀργυρίου τάλαντα τέσσα[ρα καὶ δρ]αχμὰς τετρακισχιλίας .
+r.17   [Αὐρήλιος Νέ]μεσις συναπέσχον.
+
+[TRANSLATION]
+# HGV-EN: To Aurelius Apollonius, also called Dionysius, ex-recorder, etc., ex-gymnasiarch, councillor, prytanis in office of the illustrious and most illustrious city of Oxyrhynchus, public magistrate, from Aurelius Menestheus and Aurelius Nemesianus, both sons of Dionysius, of the same illustrious city of Oxyrhynchus, Kasiotic joiners. We request that orders may be given for payment to be made to us at the city’s expense on account of wages due for work done by us as Kasiotic joiners on both sides of the street built by you from the gateway of the gymnasium leading southwards to the lane of Hieracius, of the total amount due for the whole work, in accordance with the vote of the high council, namely four talents and four thousand drachmae, 4 tal. 4000 dr, And we beg you to instruct the public treasurer to pay us in full, as is usual.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

@@ -1,0 +1,52 @@
+[META]
+id:       BASP 53.95_1
+label:    BASP 53.95_1
+name:     Contract — Schreibort: Theadelphia ? (Arsinoites, Ägypten); Fundort: Theadelphia (Arsinoites, Ägypten)
+genre:    contracts
+date:     20 BCE – 19 BCE
+language: Greek (Koiné)
+found:    Schreibort: Theadelphia ? (Arsinoites, Ägypten); Fundort: Theadelphia (Arsinoites, Ägypten)
+held:     Ann Arbor
+shelf:    
+content:  Contract from Schreibort: Theadelphia ? (Arsinoites, Ägypten); Fundort: Theadelphia (Arsinoites, Ägypten) (20 BCE – 19 BCE)
+# hgv-keywords: Vertrag — Darlehen — Geld — Arbeit — Paramone
+tm:       703270
+source:   https://papyri.info/ddbdp/basp;53;95_1
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ἔτους ια Καί[σαρος] …
+r.2    Ἐσέρσυ[θις] Π[ασ]ίω[νος Περσίνη μετὰ κυρίου τοῦ ἐμαυτῆς]
+r.3    υἱοῦ Ἁρθώτου τοῦ Μ[α]ρρήους [καὶ αὐτὸς Ἁρθώτης Πέρσης τῆς]
+r.4    ἐπιγονῆς ὁμολογοῦμεν ἀμφότεροι [ἔχειν παρὰ Σωτηρίχου]
+r.5    τοῦ Διονυσίου παραχρῆμα ἀρ[γυρίου ἐπισήμου δραχμὰς]
+r.6    τεσσάρακοντα ὀκτὼ καὶ ἀ[ντὶ τῶν τούτων τόκων καὶ δεόν]των καὶ ἱματ[ισ]μοῦ παρέξε[σθαι τὸν Μαρρήους καὶ Ἐσερσύ]θεως ἕτερον υἱὸν Μαρσίσ[ουχον] [τὸν τοῦ Ἁρθώτου ἀδελ]φὸν παραμένοντα τῶι Σω[τηρίχωι καὶ τοῖς παρ’ αὐτοῦ]
+r.7    ἐφ’ ἔτη τέσσαρα ἀπὸ μην[ὸς] … [τοῦ] … [-δεκά]του ἔτους Καίσαρος διατρίβο[ντα] [καὶ ποιοῦντα τὰ] [ἐπι]τασσόμενα πάντα τ … [κατὰ τὴν]
+r.8    κώμην καὶ συνακολουθοῦ[ντα τῶι Σωτηρίχωι καὶ οὐ]
+r.9    γινόμενον ἀπόκοιτον ο[ὐδ’ ἀφήμερον ἀπὸ τῆς]
+r.10   τοῦ Σωτηρίχου οἰκίας ἄν[ευ τῆς τοῦ Σωτηρίχου γνώμης]
+r.11   καὶ μετὰ τὸν χ[ρ]όνον ἀποδώ[σομεν οἱ ὁμολογοῦντες τὰς τοῦ]
+r.12   ἀργυρίου δραχμὰς τεσσάρα[κοντα ὀκτὼ] [καὶ ἑκάστης ἡμέρας]
+r.13   ἧς ἐὰν ἀτακτήσῃ κ … ι … [ἐκτίσο]μεν ἀργυρίου δραχμὴν μί[αν] … [ἀλλή]λων ἔνγυοι εἰς ἔκ[τισ]ιν …
+r.14   ἔγραψεν ὑπὲρ αὐτῶ[ν] Τε …
+r.15   ἀξιωθείς ὑπ’ αὐτῶν διὰ τ[ὸ φάσκειν αὐτοὺς μὴ εἰδέ]ναι γράμματα.
+
+[TRANSLATION]
+# HGV-EN: Year 11 of Caesar […] I, Esersythis, daughter of Pasion, [Persian, with my] son Harthotes, son of Marres, [as legal guardian, and I myself, Harthotes, Persian of the] epigone, we both acknowledge [that we have received] forthwith [from Soterichos] son of Dionysios forty-eight [drachmas] of [minted] silver and that, [in lieu of interest and in consideration of] necessities and clothing, we shall hand over the other son [of Marres and Esersythis,] Marsisouchos, the brother [of Harthotes,] to remain with Soterichos [and his representatives] for four years from the month of [… of the …] year of Caesar, staying [and doing] everything ordered [… throughout the] village and accompanying [Soterichos and not] being absent by night [or day from] Soterichos’ house without [Soterichos’ consent.] After the period (of the contract), we, [the acknowledging parties,] will pay back [the] forty-[eight] drachmas of silver [and for each day] on which he does not perform his duty […] we will pay one drachma of silver […] we being mutual sureties for full repayment […]. Te-, son of NN, has written on their behalf since [they say that they do not] know letters.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

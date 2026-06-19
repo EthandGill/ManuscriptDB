@@ -1,0 +1,70 @@
+[META]
+id:       P.Oxy. 2.286
+label:    P.Oxy. 2.286
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     82 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     London
+shelf:    
+content:  Contract from Oxyrhynchos (82 CE)
+# hgv-keywords: Eingabe — N.N. (Frau) an N.N. — Rückgabe eines Darlehens
+tm:       20557
+source:   https://papyri.info/ddbdp/p.oxy;2;286
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    … α … υ … ησ … α …
+r.2    δαπανησασα … του … ειου ὡμολόγηκεν τὴν Ζηνάριον ἀποδώσειν μετʼ ἔτη πέ[ν]τε τῇ τοῦ Ἥρωνος μητρὶ
+r.3    [Φ]ιλουμένῃ Ἥρωνο[ς ἃς ἐδ]ά[νεισ]εν ἡ Φιλουμένη ἐμοί
+r.4    τε καὶ τῇ μητρί μου Θ[αήσι] κατὰ συνγραφ[ὴν τελ]ειωθ[εῖ]σαν
+r.5    διὰ τοῦ ἐν τῇ Ὀξυρύγχω[ν πό]λει μνημονίου τῷ ἐνάτῳ ἔτει
+r.6    θεοῦ Οὐεσπασιανοῦ Φαρ[μ]οῦθι ἀργυρίο[υ δρα]χμὰς δισχιλίας κεφαλαίου καὶ τοὺς τούτων ἐξ ἀρχῆς μέχρι τῆς
+r.7    ἀποδόσεως τόκους, καὶ παρέξεσθαι ἐμέ τε καὶ τὴν μητέρα μου Θαῆσιν ἀπαρενοχλήτους καὶ ἀνεισπράκτους
+r.8    κατὰ πάντα τρόπον, ἢ ἐκτείσειν ὃ ἐὰν πραχθῶμεν ἢ βλαβῶμεν τούτων χάριν σὺν ἡμιολίᾳ ἐφʼ οἷς ἄλλοις ἡ ἀσφάλεια
+r.9    περιέχει. τῆς δὲ Φιλουμένης παρʼ ἕκαστα διοχλούσης με
+r.10   προελθεῖν ἠνάγκασμαι, καὶ ἀξιῶ συντάξαι γράψαι τῷ τοῦ
+r.11   Ὀξυρυγχείτου ξενικῶν πράκτορι μεταδοῦναι τῇ τε
+r.12   Ζηναρίῳ καὶ τῷ Ἥρωνι τοῦδε τοῦ ὑπομνήματος
+r.13   [ἀ]ντίγραφον ὅπως παρέχωνται ἡμᾶς ἀπερισπάστους
+r.14   [καὶ] ἀπαρενοχλήτους ὑπὲρ τῆς προκειμένης ὀφειλῆς
+r.15   καὶ ἀποδῶσιν ταῦτα, ἢ εἰδῶσι ἐάν τι εἰς ταύτην πραχθῶ
+r.16   ἐσομένην μοι τὴν πρᾶξιν παρά τε αὐτῶν καὶ ἐξ ὧν
+r.17   ἐὰν εὑρίσκω αὐτῶν ἐπὶ τῶν τόπων ὑπαρχόντων καὶ
+r.18   σιτικῶν ἐδαφῶν καὶ ἑτέρων. τῶν μὲν γὰρ ἄλλων τῶν
+r.19   κατʼ ἐμαυτὴν κα[ὶ] ὧν ἑτέρων ἔχω πρὸς αὐτοὺς καὶ τῶν
+r.20   ὑπόντων μοι δ[ι]καίων πάντων ἀντέχομαι καὶ ἀνθέξομαι ἐν οὐδενὶ ἐλαττουμένη. πρὸς δὲ τὴν τοῦ χρηματισμοῦ τελείωσιν διαπέσταλμαι Ἡρακλείδην Ἡρακλείδου.
+r.21   ὡς ἐτῶν λ.
+r.22   ὡς καθήκει. ἔτους πρώτου Αὐτοκράτορος Καίσαρος
+r.23   [Δομιτι]ανοῦ Σεβαστοῦ μ[ηνὸς] Γερμανικείου κβ.
+r.24   … τοῦ Ὀξυρυγχίτου …
+
+[TRANSLATION]
+# HGV-EN: ... (Heron) agreed that Zenarion would repay after 5 years to his mother Philumene, daughter of Heron, the 2000 drachmae of silver which Philumene lent me and my mother Thaësis by a contract completed through the record office at Oxyrhynchus in Pharmuthi of the ninth year of the deified Vespasian, both the capital and the interest on it from the beginning up to the time of repayment, and would guarantee me and my mother against any trouble or liability whatsoever under penalty of paying us in full any loss or damage which we might incur in connection with the transaction, in addition to half the amount, with the other guarantees contained in the agreement. Since Philumene is continually pressing me to repay, I have been forced to come forward, and request you to order the collector of external debts to be instructed to serve Zenarion and Heron with a copy of this memorandum, in order that they may secure us against any liability or trouble in connexion with the aforesaid debt, and may repay it, or take cognizance of the fact that, if I am made to pay anything on this account, I shall have the right of execution upon both their persons and any property which I may find in their abodes, whether granaries or other possessions. This petition is without prejudice to other claims which I have or may have against them, and to all my legal rights. I have dispatched as my agent Heraclides, son of Heraclides, to conclude the transaction.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    

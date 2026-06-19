@@ -1,0 +1,38 @@
+[META]
+id:       P.RYL 2.176
+label:    P.RYL 2.176
+name:     Contract — Hermopolis
+genre:    contracts
+date:     200 CE – 210 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Contract from Hermopolis (200 CE – 210 CE)
+# hgv-keywords: Rückzahlung — Darlehen (Bank) — Geld
+tm:       19520
+source:   https://papyri.info/ddbdp/p.ryl;2;176
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    [ἔτους ] … [ Αὐτοκρατόρων Καισάρων Λου]κίου Σεπτιμίου Σεουήρο[υ Εὐσεβοῦς Περτίνακο]ς Ἀραβικοῦ Ἀδιαβηνι[κ]οῦ Παρθικοῦ Μεγίστου καὶ Μάρκου Αὐρηλίου Ἀντωνίνου
+r.2    [Εὐσεβοῦς Σεβαστῶν καὶ Πουβλίου Σεπτιμίου Γέ]τα Καίσαρος Σεβαστοῦ, Ἁδρια[νοῦ ] … [ διαγραφὴ] διὰ [τ]ῆς ἐν Ἑρμοῦ πόλει ἐπιτηρουμένης τραπέζης. Σουεροῦς Θαίβιος Ἑρμοπολῖτις ἀναγραφομένη ἐπὶ Φρουρίου Λιβὸς μετὰ κυρίου Ἑρμοῦ
+r.3    … [Ἑρμο]πολίτιδι Φρουρίου Ἀπηλιώτου μετὰ κυρίου τοῦ ἑαυτης υἱ[οῦ ] … ωτος τοῦ Τιτιανοῦ ἃς ἐπείσθη λαβεῖν παρʼ αὐτῆς ὑπὲρ λύσεως τῶν ὀφειλομένων αὐτῇ ὑπʼ αὐτῆς κατὰ διαγραφὴν γεγονυῖαν
+r.4    … [ εἰς τὴν δ]ιὰ τῆς διαγραφῆς δηλουμένην ἀπόδ[ο]σιν ἀργυρίου [δραχμῶν χιλίων] πεντακοσίων καὶ τῶν μετὰ τὴν προθεσμίαν ἐπιγεγονότων δραχμιαίων τόκων καὶ ὧν πεποίηται ἀναλωμάτων καὶ τελῶν ἀποδοθέντων ὑπʼ αὐτῆς,
+r.5    [τῶν ἐπὶ τὸ αὐτὸ δραχμῶν ] … [ καὶ ὧν ὑπήλλαξεν ἀρουρῶν η ἐκ τῶν ][ὑ]παρχουσῶν αὐτῇ περὶ Τερτεσμῶνιν ἐ[κ τοῦ ] … κλήρου ἀρουρῶν κδ 𐅵 γ, ἅσπερ ἀρούρας η παραδείξατο εἰς ἐνεχυρασίαν, μεθʼ ἃς ἐχαρίσατο καὶ οὐ μετελεύσεται κατʼ οὐδένα τρόπον, καὶ νῦν
+r.6    … ἀργυρίου δραχμὰς δισχιλίας, γίνονται ἀργυρίου [δραχμαὶ Β, εἰς περίλυσιν] τῆς αὐτῆς διαγραφῆς καὶ ὧν παρεδείξατο ὡς πρόκειται εἰς ἐνεχυρασίαν ἀρουρῶν η λελυμένων ἐντεῦθεν καὶ ὧν ἐτελείωσε νομίμων τῆς
+r.7    … [ ] … ε … ος ἐπή[ν]εγ[κα][ δ]ισσόν.
+r.8    [] … ουμ …
+
+[TRANSLATION]
+# HGV-EN: ‘The … year of the Emperors and Caesars Lucius Septimius Severus Pius Pertinax Arabicus Adiabenicus Parthicus Maximus and Marcus Aurelius Antoninus Pius Augusti and Publius Septimius Geta Caesar Augustus, Hadrianus . ., a payment through the bank under supervisors in Hermopolis. Souerous daughter of Thaibis, of Hermopolis, registered in the quarter of the Western Guard-house, with her guardian Hermes … (notifies) to … daughter of …, of Hermopolis, from the quarter of the Eastern Guard-house, with her guardian her son … son of … os son of Titianus that she (the latter has received) from her the sum which she was induced to accept in discharge of the 1,500 silver drachmae which were owing from her to the other in accordance with a receipt drawn up [through the said bank (?) in the … year …], to be repaid at the date specified in the receipt, and of the interest, at the 1 drachma rate, accrued after the expiration of the time-limit, and of the expenses and taxes paid by her, making a total of … drachmae, and of the 8 arurae which she mortgaged out of the 245/6 arurae belonging to her in the area of Tertesmonis in the holding of …, which 8 arurae she (the other) had assigned to herself for the purposes of execution, namely the present … payment— not including those drachmae the claim to which she has waived and for which she will not take any proceedings whatsoever— of two thousand drachmae of silver, total 2,000 dr. of silver, in order to annul the said receipt and the designation for execution of the 8 arurae which have been hereby restored and the legal acts of (distraint ?)…’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

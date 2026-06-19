@@ -1,0 +1,78 @@
+[META]
+id:       P.Oxy. 6.912
+label:    P.Oxy. 6.912
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     235 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (235 CE)
+# hgv-keywords: Vertrag — Miete — Haus — Keller
+tm:       20376
+source:   https://papyri.info/ddbdp/p.oxy;6;912
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐμίσθωσεν Αὐρηλία Βησοῦς
+r.2    Σαραπίωνος μητρὸς Σαραπιάδος ἀπʼ Ὀξυρύγχων πόλεως
+r.3    μετὰ συνεστῶτος Αὐρηλίου
+r.4    Θέωνος τοῦ καὶ Ἀσκληπιάδου
+r.5    Αὐρηλίῳ Πατύτι Πανούριος
+r.6    ἀπὸ Μερμέρθων ἐπʼ ἐνιαυτὸν
+r.7    ἕνα ἀπὸ α Θὼθ τοῦ εἰσιόντος β ἔτους
+r.8    ἀφʼ ἧς καὶ αὐτὴ ἔχει ἐν μισθώσει
+r.9    παρὰ Αὐρηλίου Ἰσιδώρου Χαιρήμονος
+r.10   ἐπʼ ἀμφόδου Νότου Κρηπῖδος
+r.11   οἰκίας τὸ ἐνὸν κατάγειον καὶ τὸν
+r.12   ἐπάνω τῆς ἐξέδρας τόπον ἐνοικίου τοῦ ἔτους ἀργυρίου δραχμῶν
+r.13   ἑξήκοντα . βεβαιουμένης δὲ τῆς
+r.14   μισθώσεως χράσθω ὁ μεμισθωμένος τοῖς μισθουμένοις
+r.15   αὐτῷ τόποις ἐπὶ τὸν χρόνον
+r.16   ἀκωλύτως, καὶ ἀποδότω τὸ ἐνοίκιον ἐν δόσεσι δυσὶ τοῦ ἔτους
+r.17   διʼ ἑξαμήνου τὸ ἥμισυ ἀνυπερθέτως. μετὰ δὲ τὸν χρόνον παραδότω τοὺς μισθουμένους αὐτῷ ὡς πρόκειται
+r.18   τόπους καθαροὺς ἀπὸ κοπρίων
+r.19   καὶ πάσης ἀκαθαρσίας ὡς ἐὰν
+r.20   παραλάβῃ καὶ τὰς ἐφεστώσας
+r.21   τοῖς τόποις θύρας καὶ κλεῖδας,
+r.22   ἢ ἀποτεισάτω οὗ ἐὰν μὴ παραδῷ τὴν ἀξίαν τιμὴν ὃ δʼ [ἐὰ]ν
+r.23   προσοφειλέσῃ ἀπὸ τοῦ ἐνοικίου μεθʼ ἡμιολίας, γεινομένης τῆς πράξεως παρά τε αὐτοῦ καὶ ἐκ τῶν ὑπαρχόντων
+r.24   αὐτῷ πάντων. κυρία ἡ μίσθωσις, καὶ ἐπερωτηθεὶς ὡμολόγησεν. ἔτους β Αὐτοκράτορος
+r.25   Καίσαρος Γαίου Ἰουλίου Οὐήρου
+r.26   Μαξιμίνου Εὐσεβοῦς Εὐτυχοῦς
+r.27   [Σεβαστοῦ] Θὼθ α. Αὐρηλία
+r.28   [Βησοῦς μ]εμίσθωκα ὡς πρ[ό][κειται ] …
+
+[TRANSLATION]
+# HGV-EN: Aurelia Besous, daughter of Sarapion and Sarapias, of Oxyrhynchus, acting with Aurelius Theon also called Asclepiades, has leased to Aurelius Patus son of Panouris, from Mermertha, for one year from Thoth 1 of the coming 2nd year out of the house which she herself holds on lease from Aurelius Isidorus son of Chaeremon in the South Quay quarter, the cellar within it and the space above the hall at the rent of 60 drachmae of silver for the year. When the lease is guaranteed the lessee shall use the parts leased to him throughout the period without hindrance, and shall pay the rent in two instalments in the year, half the sum at intervals of 6 months, without any delay. And at the end of the period he shall deliver the parts leased to him as aforesaid free from filth and dirt of every kind, in the condition in which he receives them, with the existing doors and keys, or shall forfeit a sum equivalent to what he fails to deliver, and for arrears of rent one and a half times the original amount, the lessor having the right of execution upon both his person and all his property. This lease is valid, and in answer to the formal question he gave his consent. The 1st year of the Emperor Caesar Gaius Julius Verus Maximinus Pius Felix Augustus, Phamenoth 1.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    

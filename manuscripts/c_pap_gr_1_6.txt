@@ -1,0 +1,86 @@
+[META]
+id:       C.PAP.GR 1.6
+label:    C.PAP.GR 1.6
+name:     Contract — Alexandria
+genre:    contracts
+date:     13 BCE
+language: Greek (Koiné)
+found:    Alexandria
+held:     
+shelf:    
+content:  Contract from Alexandria (13 BCE)
+# hgv-keywords: Vertrag — Amme
+tm:       18548
+source:   https://papyri.info/ddbdp/c.pap.gr;1;6
+lat:      31.201435
+lon:      29.909773
+
+[GREEK]
+r.1    κόλλημα
+r.2    Πρωτάρχ[ω]ι
+r.3    παρὰ Ἰσιδώρας τῆς Κομ … μετὰ κυρίου τοῦ ἀ[δελφοῦ Εὐτυχίδου]
+r.4    [το]ῦ Κομ … καὶ παρ[ὰ Δ]ιδ[ύ]μης [τῆς] Ἀπολ[λωνίου Περ]σείνης [μετὰ κυρίου]
+r.5    τοῦ ἀδελφοῦ Ἰσχυρίωνος τοῦ Ἀπολλων[ίου. περὶ τῶν διεσταμένων συνχωρεῖ ἡ]
+r.6    [Διδύ]μη τροφεύσειν καὶ θηλάσειν ἔξω [πα]ρʼ ἑα[υτῆι κατὰ πόλιν τῶι ἰδίωι]
+r.7    αὐτῆς γάλακτι καθαρῶι καὶ ἀφθόρωι ἐπὶ χρ[όνον μῆ]νας [δεκαὲξ ] ἀπὸ Φαρμοῦθι τοῦ ἐνεστῶτος ἑπτακαιδεκάτου ἔτους [Καίσαρος] ὃ ἐγδ[έδοται αὐτῇ ἡ Ἰσιδώρα]
+r.8    δουλικὸν αὐτῆς παιδίον [ἀ]ναίρε[τον] ὑποτ[ίτθιον ] … [ ὧι ὄνομα ] …
+r.9    λαμβάνουσα παρʼ αὐτῆς Ἰσιδώρας μισθ[ὸν τοῦ τε γάλακτος καὶ τῆς τροφείας κατὰ]
+r.10   μῆνα ἕκαστον ἀργυρίου δραχμὰς δέκα καὶ ἐλαίου κοτύλας δ[ύ]ο , οἷς [εὐτα]κτουμένην αὐτὴν ποιεῖσθαι τήν τε ἑαυτῆς καὶ τοῦ παιδίου ἐπιμέλειαν
+r.11   μὴ φθείρουσαν τὸ γάλα μηδʼ ἀνδροκοιτοῦσαν μηδʼ ἐπικυοῦσαν [μηδʼ ἕτερον]
+r.12   παραθηλάζουσαν παιδίον, ἅ τε ἐὰν λάβῃ ἢ πιστευθῇ τῶν τούτου ταῦτα σῶα συντηρήσειν καὶ ἀποδώσειν ὅταν ἀπαιτῆται ἢ ἐκτίσειν τὴν [ἑκάστου ἀξίαν πλὴν]
+r.13   συνφανοῦς ἀπωλείας, ἧς καὶ φανερᾶς γενηθείσης [ἀπο]λελύσ[θω. αὐτόθεν]
+r.14   δὲ ἀπέσχηκεν ἡ Διδύμη παρὰ τῆς Ἰσιδώρας διὰ χειρὸς ἐξ οἴκου [δραχμὰς λ καὶ] ἔλαιον τῶν πρώτων
+r.15   μηνῶν τριῶν τοῦ τε Φαρμοῦθι καὶ Παχὼν καὶ Παῦνι καὶ μὴ ἐκλίπειν τ[ὴν τροφείαν ἐντὸς]
+r.16   τοῦ χρόνου, ἐὰν δέ τι παραβαίνῃ ἐκτίνειν αὐτὴν ἅ τε [εἴληφεν τροφεῖα καὶ]
+r.17   ἃ ἐὰν προσλάβῃ σὺν ἡμιολίαι καὶ τὰ βλάβη καὶ δα[παν]ήματα, [ἐκτί]σειν δʼ ἔτι [δραχμὰς]
+r.18   πεντακοσίας καὶ τὸ ὡρισμένον [πρόστιμον], τῆς πράξεως γεινομένης τῇ Ἰσιδώρᾳ
+r.19   ἔκ τε αὐτῆς Διδύμης καὶ [ἐκ τῶν] ὑπαρχόντων αὐτῆς πάντων καθ[ά]περ ἐκ δίκ[ης],
+r.20   ἀκύρων οὐσῶν καὶ ὧν ἐὰν ἐπενέγκῃ πίστεων πασῶν σκέπης [πάσης,]
+r.21   ἕκαστα δὲ αὐτῆς ἐπιτελούσης καὶ τὴν Ἰσιδώραν [χο]ρηγήσειν αὐτῇ
+r.22   τὰ κατὰ μῆνα τροφεῖα ὡς πρόκειται ἐπὶ τοὺς λοιποὺς [μῆνας]
+r.23   δεκατρεῖς καὶ μὴ ἀποσπάσειν τὸ παιδίον ἐντὸς τοῦ χρόνου [ἢ καὶ αὐτὴν]
+r.24   ἐκτίνειν τὸ ἴσον ἐπίτιμον· παραβαλεῖ δὲ ἡ Διδύμη πρὸς [τὴν Ἰσιδώραν]
+r.25   κατὰ μῆνα ἕκαστον ἀεὶ διὰ ἡμερῶν τεσσάρων ἄγουσα [καὶ τὸ παιδίον πρὸς τὸ]
+r.26   ἐπιθεωρεῖσθαι ὑπʼ αὐτῆς. ἀξιοῦμεν
+r.27   Ἰσιδώρα συνχωρῶ κατὰ τὰ προγε[γραμμένα]
+r.28   Εὐτυχίδης ἐπιγέγραμμαι κύριος τῆς ἀδελφ[ῆς] [καὶ γέγραφα]
+r.29   ὑπὲρ αὐτῆς γράμματα μὴ εἰδυίας
+r.30   Διδύμη συνχωρῶ κατὰ τὰ πρ[ογεγραμμένα]
+r.31   Ἰσχυρίων ἐπιγέγραμμαι [τῆς ἀδελφ]ῆς μου κύριος καὶ γέγρα[φα ὑπὲρ αὐτῆ]ς γράμματα μὴ εἰδυίας
+r.32   Ἰσιδώρας ἔτους ιζ Καίσαρος
+
+[TRANSLATION]
+# HGV-EN: [Translation from Johnson, Roman Egypt 1936] To Protarchus from Isidora, daughter of – , having with her as guardian her brother Eutychides, son of – , and from Didyma, daughter of Apollonius, Persian, having with her as guardian her brother Ischyrion, son of Apollonius, Persian of the Epigone. Didyma agrees to nurse and suckle, outside of her own home in the city, with her own milk pure and untainted, for a period of 16 months from Pharmouthi of the current 17th year of Caesar, the foundling infant slave child – called – which Isidora has given out to her, receiving from her, Isidora, as wages for milk and nursing ten silver drachmae and two cotylae of oil every month. So long as she is duly paid she shall take proper care both of herself and of the child, not injuring her milk nor sleeping with a man nor becoming pregnant nor suckling another child, and whatever things of the child she receives or is entrusted with she shall keep safe and shall give back when demanded or else forfeit the value of each, except in the case of manifest loss, on proof of which she shall be exempted. Didyma has forthwith received from Isidora by hand from the house oil for the first three months, Pharmouthi, Pachon, and Pauni. She shall not cease nursing before the end of time, and if she breaks the agreement in any way she shall forfeit the wages which she has already received and those which she may have received besides, increased by one-half with damages and expenses, and shall moreover pay 500 drachmae and the prescribed fine, Isidora having the right of execution upon the person of Didyma and alle her property as if by legal decision, all assurances which she may produce and all resort to protection being invalid. If she fulfills every condition, Isidora shall deliver to her the monthly wages as stated above for the remaining 13 months and shall not remove the child before the end of time, or she herself shall pay the like penalty. Didyma shall visit Isidora every month regularly on four separate days bringing the child to be inspected by her. We request (ratification). (Signed) I, Isidora, agree on the above terms. I, Eutychides, have professed myself guardian of my sister and have written for her as she is illiterate. I, Didyma, agree on the above terms. I, Ischyrion, have professed myself guardian of my sister and have written for her, as she is illiterate. (Docketed) Isidora’s (agreement). The 17th year of Caesar – .
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    
+30    
+31    
+32    

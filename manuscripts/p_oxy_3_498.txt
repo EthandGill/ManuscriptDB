@@ -1,0 +1,78 @@
+[META]
+id:       P.Oxy. 3.498
+label:    P.Oxy. 3.498
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (101 CE – 200 CE)
+# hgv-keywords: Vertrag — Arbeit — Lieferung — Steine für den Bau eines Hauses — Kopie
+tm:       28356
+source:   https://papyri.info/ddbdp/p.oxy;3;498
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἀντίγραφον. Ἀντωνίᾳ Ἀσκληπιάδι
+r.2    τῇ καὶ Κυρίᾳ διὰ Ἀπολλωνίου ἐπιτρόπου παρὰ Ἀσκλᾶτος Ἀλεξάνδρου
+r.3    καὶ Ἀπολλωνίου Ἀμόιτος μητρὸς
+r.4    Ταύριος ἀμφοτέρων ἀπʼ Ὀξυρύγχων
+r.5    πόλεως. ἐπιδεχόμεθα λαξείαν
+r.6    τῶν οἰκοδομουμένων λίθων κύβων καμηλικῶν ἀπὸ βορινῆς λατομίας εἰς οἰκίαν σου τῆς Ἀντωνίας
+r.7    ἐπʼ ἀμφόδου Παμμένους Παραδείσου μισθοῦ τῆς λαξείας τῶν μὲν
+r.8    ἐξωτέρω λίθων κύβων καμηλικῶν ὡς τῶν δέκα ἓξ δραχμῶν τεσσ[ά]ρων [τ]ῶν δὲ ἐ[σ]ωτεριαίων ὡς τῶν
+r.9    τρ[ιάκ]οντ[α] [δρα]χμῶν τεσσάρων καὶ
+r.10   τῶν [ἀ]ντιβλημάτων ὡς τῶν ἑκατὸν
+r.11   λίθων κύβων καμηλικῶν δραχμῶν τριῶν καὶ κεφαλιτοπαραμηκῶν ἐξωτ[ε]ριαίων λίθων κύβων καμηλικῶν ὡς
+r.12   τῶν δέκα ἓξ δραχμῶν ὀκτὼ καὶ ἐσωτεριαίων λίθων κύβων καμηλικῶν
+r.13   κεφαλιτοπαραμηκῶν ὡς τῶν τριάκοντα δραχμῶν ὀκτώ , πελεκημάτων λίθων [κ]ύβων καμηλικῶν ὡς τῶ[ν]
+r.14   πεντήκον[τα] [δ]ραχμῶν τεσσάρων κα[ὶ]
+r.15   πελεκημάτ[ων] κεφαλιτοπαραμηκῶν
+r.16   λίθω[ν κύ]βων [κα]μηλικῶν ὡς τῶν πεντήκ[ο]ντα δρ[α]χ[μῶ]ν ὀκτώ . τὰ δὲ προκείμενα πάντα α … [ λα]ξ[εύσο]μεν οὐδεμιᾶς πρὸς ἡμ[ᾶς] οὔσης κ[ο]σμοπ[ο]ιήσεως, λήμψεται δὲ ἕκαστος ἡμῶν ἑκ[άσ]της ἡμέρας ἧς ἐὰν ἐργάζηται κα[ὶ ἄρ]τον ἕνα καὶ προσφάγιον. ἐὰν δὲ χρε[ί]αν ἔχωσι οἱ οἰκοδόμοι ὑπουργίας λαξικῆς ἡμεῖς ὑπουργήσομεν ἢ καί τις ἡμῶν ἕκαστος λαμβάνων ἑ[κ]άστης
+r.17   ἡμέρας μισθοῦ ὑπουργίας δραχμὰς
+r.18   τέσσαρας καὶ ἕκαστος ἡμῶν ὁμοίως
+r.19   ἑκάστης ἡμέρας ἄρτον ἕνα καὶ προσφάγι[ον. μ]έχρι δὲ δευτέρας καὶ εἰκάδος
+r.20   τοῦ
+r.21   [ὄντος μ]ην[ὸς] Ἐπεὶφ ἐξόντος σοι ἑτέροις
+r.22   [μεταμισθοῦ]ν τὴν αὐτὴν λαξείαν
+r.23   [τὴν τῶν προκει]μένων λίθων κύβων
+r.24   [καμηλικῶν ἀπὸ βο]ρινῆς λατομίας
+r.25   … αν σου μεθ …
+r.26   … ς εἰς ἡμέ[ρας ] …
+r.27   … [ κυρία ἡ ἐπι]δοχή. ἔτου[ς]
+r.28   … α …
+
+[TRANSLATION]
+# HGV-EN: Copy. To Antonia Asclepias also called Cyria, through her guardian Apollonius, from Asclas son of Alexandrus and Apollonius son of Amois, his mother being Tauris, both of Oxyrhynchus. We undertake to cut the squared building-stones transportable by camel (?) from the northern quarry required for the house of you, Antonia, in the quarter of Pammenes’ Garden, the rate of wages for the stone-cutting being for the outer squared camel stones at 4 drachmae for 16, for the inner ones at 4 drachmae for 30, for ἀντιβλήματα at 3 drachmae for 100 squared camel stones, and for oblong corner-stones at 8 drachmae for 16 outer squared camel stones and at 8 drachmae for 30 inner squared camel stones, and for chipped squared camel stones at 4 drachmae for 50 and for chipped oblong squared camel corner-stones at 8 drachmae for 50. All the aforesaid stones we will cut, but no ornamentation shall be required of us. Each of us shall receive for each day that he works both a loaf and relish. If the builders have need of our services in stone-cutting, we or one of us will provide them, each of us receiving as wages for each day’s services 4 drachmae, and likewise each of us on each day a loaf and relish. Until the 22nd of the present month Epeiph you have the right to transfer to others this contract for cutting the aforesaid squared camel stones from the northern quarry...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    

@@ -1,0 +1,44 @@
+[META]
+id:       P.Oxy. 6.904
+label:    P.Oxy. 6.904
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     451 CE – 500 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (451 CE – 500 CE)
+# hgv-keywords: Eingabe — NN an einen Praeses — er als Stellvertreter eines Philoxenos in der Liturgie des Riparius wird von diesem nicht mit den nötigen und vereinbarten Hilfsmitteln versehen
+tm:       35311
+source:   https://papyri.info/ddbdp/p.oxy;6;904
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    παρὰ Φλαουίου.
+r.2    ἡ τῆς ὑμετέρας δικαιοκρισ[ί]ας καθαρότης πάντως καὶ ἐμὲ ἐλεήσει τὸν γεγηρακότα καὶ ἀσυνθηκεὶ διαπεπονθότα καὶ χλεύην παρὰ Φιλοξένου τοῦ καθωσιωμένου μαγιστριανοῦ.
+r.3    οὗτος γὰρ λόγον ἐνωμότως μοι δεδωκὼς καὶ ἐπαγ [γειλ]άμενος ὡς πάντως ὅσαπερ ἐπιζητεῖται εἰς τὴν τοῦ ῥιπαρίου λειτουργίαν ἐκτὸς πάσης ὑπομνήσεως πληρώσει,
+r.4    παρέχων μοι καὶ πρὸς βοήθειαν οἰκέτας τε καὶ συμμάχους καὶ [ἄ]λλους τοὺς ὀφείλοντας τὴν παραφυλακὴν τῆς πόλεως ποιεῖσθαι, οὐ μόνον δὲ τοῦτο, ἀλλʼ εἰ καὶ συμβῇ ἀτόπημά τι γενέσθαι
+r.5    αὐτὸν τὸ ἀζήμιον πληροῦν τοῖ[ς] τὴν βλάβην ὑπομένουσιν, ἀλλὰ καὶ τὰ ἄλλα πάντα τὰ συντείνοντα εἰς τὴν λειτουργίαν ταύτην ἀποκαθιστᾶν· τούτων δὲ ὅλων ἐκτὸς γεγένηται
+r.6    καὶ παρορῶν με τὸν ἄθλιον καθʼ ἑκάστην ἡμέραν μετεωριζ[ό]μενον σχοινίοις καὶ πληγαῖς κατακοπτόμενον κατὰ τὸ σῶμα, μὴ κεκτημένον μὴ ἀδελφὸν μὴ συνγενῆ μὴ
+r.7    υἱὸν δυνάμενον ἅμα μοι συμπαθεῖν, ὡς λοιπὸν εἰς αὐτὸ τὸ τῆς σωτηρίας πνεῦμα δυστυχεῖν
+r.8    με. ὅθεν τὰς ἱκεσίας προσφέρω τῇ ὑμετέρᾳ ἐξουσίᾳ ὥστε ἐμὲ μὲν ἐλευθερωθῆναι
+r.9    τῆς τοιαύτης λειτουργίας, [τὸν] δὲ [πρω]τότυπον καταναγκάζεσθαι ἢ διʼ ἑαυτοῦ ἢ διὰ οἱουδήποτε προσώπου τὴν τοιαύτην λειτουργίαν ἐξανύσαι, ἐμοῦ ἀποταξαμένου καὶ μὴ
+r.10   δυναμένου [μηδαμῶς ὑπομένειν τ]ὴν τοιαύτην ἀπαραίτητον καὶ φορτικωτάτην λειτουργίαν, ἵνα καὶ ἐγὼ τούτου τυχὼν εὐχαριστήσω ταῖς ἀκλινέσι ἀκοαῖς τῆς ὑμετέρας
+r.11   ἐξουσίας, μεγαλο[πρεπέστατε ἡμῶν ἡγ]εμὼν κύριε.
+
+[TRANSLATION]
+# HGV-EN: From Flavius. The purity of your righteous judgement will surely pity me, an old man who has suffered a breach of covenant and mockery at the hands of Philoxenus, the devoted magistrianus. He gave me his word on oath, and promised that he would surely fulfil without any reminding every requirement for the office of riparius, providing for my support both servants and assistants and others whose duty it would be to undertake the guarding of the city; and not only so, but he promised that if anything extraordinary happened, he would himself make up the loss to those who suffered injury, and also that he would set right everything connected with this office. But all this he has evaded, paying no attention to my unfortunate sclf, who am daily suspended by ropes and have my body belaboured with blows, and possess no brother, no relative, no son to sympathize with me, so that at last the very breath of my life is in danger. Accordingly I make my entreaties to your highness that I should be released from so grievous an office, and that the original holder should be compelled to finish it cither himself or through some other person, as I renounce it, being unable to endure any longer an office so severe and onerous, in order that having gained my request I may bless the impartial ears of your highness, our most noble lord praeses.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

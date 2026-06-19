@@ -1,0 +1,60 @@
+[META]
+id:       P.Oxy. 9.1199
+label:    P.Oxy. 9.1199
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     275 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (275 CE)
+# hgv-keywords: Gesuch an den Agoranomos (oder Gymnasiarchos) zur Wahrung des Kaufes eines Hauses
+tm:       21584
+source:   https://papyri.info/ddbdp/p.oxy;9;1199
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … τορ … ἀγορα[νομήσαντι] [τῆς λαμ]π[ρᾶς] καὶ λα[μ]προτάτης Ὀξυρυγχιτῶν π[όλεως][ κα]ὶ τῷ σὺν αὐτῷ ἀμφοτέροις [β]ιβλιοφύλαξι
+r.2    παρὰ Αὐρηλίας Ἰουλίας Ἁρποκρατιαίνης Θέωνος
+r.3    τοῦ καὶ Ἀσκληπιάδου ἐπικαλουμένου Ζωίλου
+r.4    μητρὸς Τατρείφιος ἀπὸ τῆς λαμπροτάτης Ὀξυρυγχειτῶν πόλεως χρηματιζούση[ς] δικαίῳ τέκνων.
+r.5    ἐώνημαι κατʼ ἰδιόγραφον πρᾶσιν γεγονυῖαν
+r.6    τῷ ἐνεστῶτι ζ ἔτει Ἁθὺρ β παρὰ Αὐρηλίας Θεωνίδος θυγατρὸς Θέωνος τοῦ καὶ Ζωίλου ἐξηγητεύσαντος τῆς λαμπροτάτης Ἀλεξανδρείας
+r.7    καὶ ὡς ἐχρημάτιζεν ὁμοίως χρηματιζούσης
+r.8    δικαίῳ τέκνων μητρὸς Πτολέμας ἀπὸ τῆς αὐτῆς πόλεως τὴν ὑπάρχουσαν αὐτῇ κληρονομικῷ δικαίῳ πρότερον τοῦ δηλουμένου αὐτῆς πατρὸς
+r.9    Θέωνος τοῦ καὶ Ζωίλου ἐν τῇ αὐτῇ πόλει ἐπʼ ἀμφόδου
+r.10   Νότου Δρόμου οἰκίαν σὺν προνησίῳ ὑφʼ ἣν κατάγειον
+r.11   καὶ τὰ ταύτης χρηστήρια πάντα ὡς ἡ [ἰ]διόγραφος
+r.12   πρᾶσις περιέχει, ἧς ἐκμαρτυρηθείσης ὑπʼ ἐμοῦ
+r.13   διὰ τοῦ ἐνταῦθα μνημονίου τοῦ αὐτοῦ ζ ἔτους μηνὶ
+r.14   Ἁθὺρ μοναχὸν ἐφʼ ὑπογραφῇ τοῦ ἀσχολουμένου
+r.15   ἐπιφέρουσα ὑμῖν ἐπιδίδωμι τὸ ὑπόμνημα
+r.16   πρὸς τὸ τὴν δέουσαν παράθε[σι]ν γενέσθα[ι],
+r.17   κ[α]ὶ δηλῶ τὴν αὐτὴν Θεωνίδα [ἀ]πογεγράφθ[αι]
+r.18   τὸ προκείμενον ἔγγαιον ε[ἶν]αι δ[ὲ αὐτῶν]
+r.19   [κλ]ηρονο[μικῷ δικαίῳ ] …
+
+[TRANSLATION]
+# HGV-EN: To ..., ex-gymnasiarch of the most illustrious city of Oxyrhynchus, and his associate, keepers of the archives, from Aurelia Julia Harpocratiaena daughter of Theon also called Asclepiades surnamed Zoilus, her mother being Tatreiphis, of the most illustrious city of Oxyrhynchus, acting in virtue of her children. I have bought in accordance with an autograph deed of sale made in the present seventh year, Hathur 2, from Aurelia Theonis daughter of Theon also called Zoilus, ex-exegetes of the most illustrious city of Alexandria and however he was styled, likewise acting in virtue of her children, her mother being Ptolema, of the same city, the house belonging to her by right of inheritance and formerly the property of her said father Theon son of Zoilus, situated in the same city in the quarter of the South Square with frontage (?) and cellar beneath and all appurtenances as contained in the autograph deed of sale; which having been deposed to by me through the local record-office in the month Hathur of the same seventh year, I bring before you a single copy with the subscription of the tax-farmer and present this memorandum in order that the proper entry may be made; and I declare that the said Theonis registered the aforesaid property ...’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

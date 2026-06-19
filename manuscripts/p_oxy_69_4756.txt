@@ -1,0 +1,62 @@
+[META]
+id:       P.Oxy. 69.4756
+label:    P.Oxy. 69.4756
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     590 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (590 CE)
+# hgv-keywords: Bürgschaft — Aur. Abraam gegenüber Fl. Anastasia (vertreten durch den Verwalter Fl. Biktor) — für Aur. Elias
+tm:       80741
+source:   https://papyri.info/ddbdp/p.oxy;69;4756
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [ βασιλείας τοῦ θειοτάτο]υ καὶ εὐσεβεστάτου ἡμῶν δεσπότου μεγίστου
+r.2    [εὐεργέτου Φλαουΐου Μ]αυρικίου νέου Τιβερίου τοῦ αἰωνίου Αὐγούστου
+r.3    [Αὐτοκράτορος ἔτους η], ὑπατείας τοῦ αὐτοῦ εὐσεβεστάτου ἡμῶν δεσπότου
+r.4    [ ] [ἔτους ζ], Φαμενὼθ ιδ, ἰνδικτίωνος ὀγδόης .
+r.5    [Φλαουΐᾳ Ἀναστασίᾳ τῇ ἐν]δοξοτάτῃ ἰλλουστρίᾳ θυγατρὶ τοῦ τῆς
+r.6    [ἐνδόξου μνήμης Μην]ᾶ Εὐδαίμονος, γεουχούσῃ ἐνταῦθα τῇ λαμπρᾷ
+r.7    [Ὀξυρυγχιτῶν πόλει, διὰ σοῦ] Φλαουίου Βίκτορος το[ῦ] περιβλέπτου κόμετος
+r.8    [καὶ διοικητοῦ αὐτῆς, Α]ὐρήλιος Ἀβ[ρ]αὰμ υἱὸς Παύλου μητρὸς Θέκλας,
+r.9    [ὁρμώμενος ἀπὸ κώμης] … τοῦ Ὀξυρυγχίτου νομοῦ. ὁμολογῶ ἑκουσίᾳ
+r.10   [γνώμῃ καὶ αὐθαιρέτῳ προ]αιρέσει ἐπομνύμενος τὸν θεῖον καὶ
+r.11   [σεβάσμιον ὅρκον ἐγ]γυᾶσθαι κα[ὶ] ἀναδέχεσθαι παρὰ τῇ ὑμετέρᾳ
+r.12   [ἐνδοξότητι διὰ τῶν αὐτῇ πρ]οσηκόντων Αὐρήλιον Ἠλίαν υἱὸν Φιβ μητ[ρ]ὸς
+r.13   … , [ἀπὸ τῆς αὐ]τῆς κώμη[ς], ἐφ’ ᾧτε αὐτὸν ἀδ[ι]αλείπτως
+r.14   [παραμεῖναι καὶ διάγ]ειν ἐν τῇ [αὐ]τῇ κώμῃ καὶ μηδαμ[ῶς] αὐτὸν
+r.15   [ἀπολιμπάνεσθαι μήτ]ε μὴν μεθ[ίστασθαι εἰς ἕτερον τόπον]
+r.16   [ἔνθα αὐτὸν καὶ παρεί]ληφα, ἐν τῇ φυλακῇ ταύτης τ[ῆς πό]λ[εως.]
+r.17   [ἢ εἰ μὴ τοῦτο ποιήσω] ὁμολογῶ ὑπεύθυνος εἶναι πᾶσιν
+r.18   [τοῖς πρὸς αὐτὸν ἐπι]ζητουμένοις ἀποκρίνασθαι. κυρία
+r.19   [ἡ ἐγγύη ἁπλῆ γραφεῖσα] καὶ ἐπερωτηθεὶς ὡμολόγησα. Αὐρ[ήλιος] [Ἀβρα]ὰμ υἱὸς Παύλου
+r.20   … ου[1–2]νε … α … μ … ν
+
+[TRANSLATION]
+# HGV-EN: In the reign of our most godly and most pious master, greatest benefactor, Flavius Mauricius new Tiberius, the eternal Augustus, year 8, in the consulship of our same most pious master, year 7, Phamenoth 14, indiction eighth. To Flavia Anastasia, gloriosissima illustria, daughter of Menas, son of Eudaemon, of glorious memory, landowner here in the splendid city of the Oxyrhynchites, through you, Flavius Victor, spectabilis comes and administrator of hers, Aurelius Abraam, son of Paulus, mother Thecla, originating from the village . . . of the Oxyrhynchite nome. I acknowledge by willing resolve and voluntary choice, swearing the divine and august oath, that I guarantee and receive from your glory through your dependants Aurelius Elias son of Phib, mother . . . , from the same village, on condition that he shall remain continuously and abide in the same village, and he shall on no account abandon it nor transfer to a another place . . . in the place where I have also received him, in the prison of this city. Or if I fail to do this, I acknowledge myself accountable to answer for all that is required of him. This deed of surety, written in a single copy, is binding, and in reply to the formal question I gave my assent. (2nd hand) I, Aurelius Abraam, son of Paulus, . . . (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

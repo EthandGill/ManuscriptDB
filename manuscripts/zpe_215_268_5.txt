@@ -1,0 +1,50 @@
+[META]
+id:       ZPE 215.268_5
+label:    ZPE 215.268_5
+name:     Contract — Hermopolis
+genre:    contracts
+date:     576 CE – 625 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     London
+shelf:    
+content:  Contract from Hermopolis (576 CE – 625 CE)
+# hgv-keywords: Vertrag — Pacht — Land
+tm:       38262
+source:   https://papyri.info/ddbdp/zpe;215;268_5
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    εἰς σπορὰν καὶ κατάθεσιν καρ[πῶ]ν [ἐν] λινοκαλάμοις. ἐντεῦθ[ε]ν ἐδεξάμην
+r.2    καὶ ἐπληρώθην παρὰ σοῦ τὸν ταύτης [φόρον] ἐν προτελείᾳ … η … ὁμολογῶ
+r.3    ἑτοίμως ἔχειν σχῖσαι καὶ ἀναπληρῶσαι τὰς αὐτὰς ἀρούρας δεύτερον
+r.4    καὶ ποτίσαι τρίτον διὰ τῶν ἐμῶν ζῴων καὶ φυλάξαι τοὺς τούτων καρποὺς
+r.5    ἐν τοῖς ἀγροῖς μέχρι τῆς τούτων μεταφορᾶς καὶ ὁμολ[ογ]ῶ ποιῆσαι τὴν
+r.6    μεταφορὰν τῶν λινοκαλαμῶν μέχρι τῆς σῆς κοιλάδος τοῖς μου ζῴοις καὶ
+r.7    ἀναλώμασι χωρὶς μισθῶν, δεχόμενος μέντοι γε παρὰ σοῦ οἴνου ἀγγεῖον ἓν
+r.8    καὶ δαπάνην μίαν. τὸ γράμμα ταύτης τῆς μισθαποχῆς κ[ύ]ρι[ο]ν καὶ βέβαιον, καὶ ἐπερωτηθεὶς ὡμολόγησα.
+r.9    Αὐρήλιος Πκῦλις Πέ[τρ]ου ὁ πρ[ο]κείμενος ἐθέμην ταύτην τὴν μισθαποχὴν ὡς πρόκειται. Αὐρήλιος
+r.10   Θεοδόσιος Τριαδέλφου ἀπὸ Ἑρμουπόλεως ἀξιωθεὶς ἔγραψα ὑπὲρ αὐτοῦ γράμματα μὴ εἰδότος.
+r.11   Αὐρήλιος Πκῦλις. Αὐρήλιος Ἰωάννης Ἰωσηφίου ἀπὸ Ἑρμουπόλεως μαρτυρῶ τῇ μισθοαποχῇ καὶ τῇ δόσει τοῦ χρυσίου τῶν νομισματίων δύο
+r.12   τοῦ φόρου . Αὐρήλιος Γεώργιος ριδου ἀπὸ Ἑρμουπόλεως μαρτυρῶ τῇ μισθῶν ἀποχῇ
+r.13   καὶ τῇ δόσει τοῦ χ[ρ]υσίου τῶ[ν ν]ομισμ[α]τίων δύο τοῦ φόρου .
+r.14   δι’ ἐ[μοῦ] Θεοδ … [ἐγρ]άφη .
+
+[TRANSLATION]
+# HGV-EN: ... for the sowing and planting of crops [in] flax. I have now received from you and been paid the rent of this (land) in advance … I acknowledge that I am ready to plough and fill up the same arouras twice and to water them thrice with my animals and to guard its (read: their) crops in the fields until their transport, and I agree to transport the flax to your basin (koilas) with my animals and at my expense without wages, receiving from you, however, one jar of wine and one (day’s) maintenance. The contract of this wage-receipt (misthapoche) is normative and secure, and upon being asked the formal question I gave my assent. I, Aurelius Pkylis, son of Petrus, the aforementioned, made this wage-receipt, as written above. I, Aurelius Theodosius, son of Triadelphus, from Hermopolis, wrote on his behalf at his request, since he does not know letters (Second hand) Aurelius Pkylis. (Third hand) I, Aurelius Ioannes, son of Iosephius, from Hermopolis, am witness to the wage-receipt and to the payment of the rent of two solidi of gold. (Fourth hand) I, Aurelius Georgius, son of …, from Hermopolis, am witness to the receipt of wages and to the payment of the rent of two solidi of gold. (First or fifth hand) Was written by [me], Theodo-.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

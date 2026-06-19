@@ -1,0 +1,98 @@
+[META]
+id:       P.Oxy. 3.501
+label:    P.Oxy. 3.501
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     186 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (186 CE)
+# hgv-keywords: Vertrag — Pacht — Land — Rückstände der Zinsen (Pacht) vom vorigen Jahr
+tm:       20635
+source:   https://papyri.info/ddbdp/p.oxy;3;501
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐμίσθωσεν Ἡρακλείδης
+r.2    ὁ καὶ Διογένης καὶ Σαραπίων ὁ καὶ
+r.3    Διογένης ἀμφότεροι Διογένους
+r.4    γυμνασιαρχήσαντες τῆς Ὀξυρυγχιτῶν
+r.5    πόλεως καὶ ὡς χρηματίζουσι διὰ
+r.6    Ἑρμοῦ ἐπιτρόπου Ἁρμιύσει Ἡρᾶτος μητρὸς Ταφείβιος ἀπὸ Τυχιναβιτωου εἰς ἔτη τέσσαρα ἀπὸ τοῦ
+r.7    ἐνεστῶτος κζ ἔτους ἀπὸ τῶν ὑπαρχόντων αὐτοῖς
+r.8    περὶ Τααμπέμου ἐκ τοῦ Φιλονείκου καὶ Χαρᾶτος κλήρου ἥμισυ μέρος
+r.9    κοινῶν πρὸς Δημητρίαν Ἀντιμάχου
+r.10   κατὰ τὸ ἕτερον ἥμισυ ἀρουρῶν πέντε
+r.11   καὶ ψιλῶν τόπων ὥστε σπεῖραι καὶ ξυλαμῆσαι κατʼ ἔτος
+r.12   τὸ μὲν ἥμισυ πυρῷ τὸ δʼ ἄλλο ἥμισυ χλωροῖς ἀποτάκτου τοῦ αὐτοῦ
+r.13   ἡμίσους μέρους ἐπὶ τὴν τετραετίαν
+r.14   κατʼ ἔτος πυροῦ ἐν θέματι ἀρταβῶν
+r.15   ὀκτὼ καὶ δραχμῶν τεσσαράκοντα . ὁμολογεῖ δὲ ὁ μεμισθωμένος ὀφείλειν τοῖς γεούχοις λοιπογραφίαν
+r.16   τοῦ αὐτοῦ ἐδάφους τ[ο]ῦ παρελθόντος ἔτους πυροῦ ἀρτάβα[ς] τρεῖς , ὧν
+r.17   θέμα ἀναδώσει ὁ μ[ε]μισθωμένος
+r.18   τῷ ἐνεστῶτι ἔτει ἅμα τῷ τῶν ἐκφορίων θέματι ἀκίνδυνα
+r.19   πάντα παντὸς κινδύνου. ἐὰν δέ
+r.20   τις τοῖς ἑξῆς ἔτεσι ἄβροχος γένηται παραδεχθήσεται τῷ μεμισθωμένῳ, τῶν τῆς γῆς κατʼ ἔτος
+r.21   δημοσίων ὄντων πρὸς τοὺς γεούχους,
+r.22   οὓς καὶ κυριεύειν τῶ[ν] κ[αρπῶν]
+r.23   ἕως τὰ κατʼ ἔτος ὀφ[ειλόμενα]
+r.24   κομίσωνται. βεβ[αιουμένης]
+r.25   δὲ τῆς μισθώ[σεως μετρείτω]
+r.26   ὁ μεμισθωμένος τ …
+r.27   ἰδίαις ἀν …
+r.28   κατʼ ἔτος πα …
+r.29   ἔτει καὶ τὰς τ … [ ὧν]
+r.30   θέμα κ[αθαρὸν ἀπὸ πάντων]
+r.31   [ἀ]ποδότω κατʼ [ἔτος ὑπὸ τὴν]
+r.32   [πρώτην μέτρησιν ] …
+r.33   καὶ ἐκ τῶν ὑπαρχόντων αὐτῷ πάντων. κυρία ἡ μίσθωσις. ἔτους κζ
+r.34   Αὐτοκράτορος Καίσαρος Μάρκου Αὐρηλίου
+r.35   Κομμόδου Ἀντωνίνου Εὐσεβοῦς Εὐτυχοῦς
+r.36   Σεβαστοῦ Ἀρμενιακοῦ Μηδικοῦ Παρθικοῦ Σαρματικοῦ Γερμανικοῦ
+r.37   Μεγίστου Βρεταννικοῦ Φαῶφι ιδ.
+r.38   Ἑρμῆς σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: Heraclides also called Diogenes and Sarapion also called Diogenes, both sons of Diogenes and ex-gymnasiarchs of Oxyrhynchus, and however they are styled, through their guardian Hermes, have leased to Harmiusis son of Heras and Taphibis, from Tischinakitoou, for four years dating from the present 27th year out of their property at Taampemou in the holding of Philonicus and Charas a half share of five arourae and the vacant spaces, owned by them in common with Demetria daughter of Antimachus with respect to the other half; to be sown and cultivated in each year the half with wheat and the other half with green stuffs, at the fixed rent for the said half share in each year of the four years’ period of 8 artabae of wheat on deposit and 40 drachmae. And the lessee acknowledges that he owes to the landlords arrears upon the said land for the past year 3 artabae of wheat, which he will pay as a deposit in the present year together with the deposit of the rent, guaranteed completely against all risks. If in the succeeding years any of the land becomes unirrigated, an allowance shall be made to the lessee, the landlords being responsible for the annual taxes upon the land and retaining the ownership of the produce until they have recovered their yearly dues...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    
+30    
+31    
+32    
+33    
+34    
+35    
+36    
+37    
+38    

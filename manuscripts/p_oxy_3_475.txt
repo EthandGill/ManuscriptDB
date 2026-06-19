@@ -1,0 +1,72 @@
+[META]
+id:       P.Oxy. 3.475
+label:    P.Oxy. 3.475
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     182 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (182 CE)
+# hgv-keywords: Anweisung des Strategen an einen Amtsdiener — zusammen mit einem Arzt die Leiche eines Sklaven zu untersuchen — der einen Unfall hatte — Kopie der Anzeige des Unfalls bei einem Fest
+tm:       20611
+source:   https://papyri.info/ddbdp/p.oxy;3;475
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἱέραξ στρατηγὸς Ὀξυρυγχείτου Κλαυδίῳ Σερήνῳ ὑπηρέτῃ. τῶν δοθέντων μοι βιβλιδί[ω]ν ὑ[π]ὸ Λεωνίδου
+r.2    το[ῦ] καὶ Σερήνου τὸ ἴσον ἐπιστέλλεταί σοι,
+r.3    ὅπως παραλαβὼν δημόσιον ἰατρὸν
+r.4    ἐπ[ι]θεωρήσῃς τὸ δηλούμενον νεκρὸν σῶμα καὶ παραδοὺς εἰς κηδείαν ἐνγράφως ἀποφάσεις προσφωνήσητε. σεσ[η]μείωμαι.
+r.5    ἔτους κγ [Μ]άρκου Αὐρηλίου Κομμόδου
+r.6    Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.7    Ἁθὺρ ζ.
+r.8    Ἱέρακι στρατηγῷ
+r.9    παρὰ Λεωνίδου τοῦ καὶ [Σερήνου χ]ρηματίζοντος μητρὸς Ταύριο[ς] ἀπὸ Σενέπτα. ὀψ[ί]ας τῆς διελθούσ[ης] ἕκ[τ]ης
+r.10   ἑορτῆς οὔσης ἐν τῇ Σενέ[πτα καὶ κρο]ταλιστρίδων λειτουργου[σῶν κατὰ τὸ]
+r.11   ἔθος πρὸς οἰκίᾳ Πλουτίωνος τοῦ [γαμ]βροῦ μου τοῦ υ[ἱ]οῦ Ἀριστοδήμου
+r.12   Ἐπαφρόδειτος δοῦλος αὐτοῦ ὡς
+r.13   ἐτῶν η βουληθεὶς ἀπὸ τοῦ δώματος
+r.14   τῆς αὐτῆς οἰκίας παρακύψαι καὶ
+r.15   θεάσασθαι τὰς [κρο]ταλιστρίδας
+r.16   ἔπεσεν καὶ ἐτελε[ύ]τησεν. οὗ χάριν ἐπιδιδοὺς τὸ βιβλίδιον [ἀξ]ιῶ
+r.17   ἐὰν δόξῃ σοι ἀποτάξαι ἕνα τῶν περὶ
+r.18   σὲ ὑπηρετῶν εἰς τὴν Σενέπτα
+r.19   ὅπως τὸ τοῦ Ἐπαφροδείτου σῶμα
+r.20   τύχῃ τῆς δεούσης περιστολ[ῆς] καὶ
+r.21   καταθέσεως. ἔτους κγ Αὐτοκράτορος
+r.22   Καίσαρος Μάρκου Αὐρηλίου Κομμόδου Ἀντωνίνου
+r.23   Σεβαστοῦ Ἀρμενιακοῦ Μηδικοῦ Παρθικοῦ
+r.24   Σαρματικοῦ Γερμανικοῦ Μεγίστου Ἁθὺρ ζ.
+r.25   Λεωνίδης ὁ καὶ Σερῆνος ἐπι[δ]έδωκα.
+
+[TRANSLATION]
+# HGV-EN: Hierax, strategus of the Oxyrhynchite nome, to Claudius Serenus, assistant. A copy of the application which has been presented to me by Leonides also called Serenus is herewith sent to you. Take a public physician and view the dead body referred to, and having delivered it over for burial make a report in writing. Signed by me. The 23rd year of Marcus Aurelius Commodus Antoninus Caesar the lord, Athur 7. To Hierax, strategus, from Leonides also called Serenus, whose mother is stated as Tauris, of Senepta. At a late hour of yesterday the 6th, while a festival was taking place at Senepta and the castanet-players were giving their customary performance at the house of Plution my son-in-law ..., his slave Epaphroditus, aged about 8 years, wishing to lean out from the bed-chamber(?) of the said house and see the castanet-players, fell and was killed. I therefore present this application and ask you, if it please you, to appoint one of your assistants to come to Senepta in order that the body of Epaphroditus may receive proper laying out and burial.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    

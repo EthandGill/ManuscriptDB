@@ -1,0 +1,74 @@
+[META]
+id:       P.Oxy. 8.1127
+label:    P.Oxy. 8.1127
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     183 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (183 CE)
+# hgv-keywords: Vertrag — Miete — Dachboden mit Taubenschlag
+tm:       21745
+source:   https://papyri.info/ddbdp/p.oxy;8;1127
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐμίσθωσεν Ἀπολλώνιος Σώσου τοῦ Σώσου ἀπʼ Ὀξυρύγχων πόλεως
+r.2    Πουπλίῳ Οὐεττίῳ Διογένει εἰς ἔτη τέσσαρα ἀπὸ νεομηνίας Θὼθ
+r.3    τοῦ εἰσιόντος κδ ἔτους τὸν ὑπερῷον τόπον τῆς ὑπαρχούσης αὐτῷ ἐν
+r.4    Μουχινὺρ οἰκίας καὶ ὃν ἔχει
+r.5    ἐκεῖ περιστερεῶνα σὺν τῇ
+r.6    τούτου κλίμακι ξυλίνῃ, ἐνοικίου καὶ φόρου τούτων κατʼ ἔτος
+r.7    ἀργυρίου δραχμῶν ἑξήκοντα
+r.8    ἀκινδύνων παντὸς κινδύνου.
+r.9    βεβαιουμένης δὲ τῆς μισθώσεως χράσθω ὁ μεμισθωμένος
+r.10   τῷ τε τόπῳ καὶ τῷ περιστερεῶνι ἐπὶ τὰ ἔτη τέσσαρα ἀκωλύτως καὶ ἀποδότω τῷ μεμισθωκότι τὸ ἐνοίκιον κατʼ ἔτος
+r.11   ἐν δόσεσι δυσὶ διὰ ἑξαμήνου
+r.12   τὰς αἱρούσας δραχμὰς τριάκοντα , καὶ μετὰ τὸν χρόνον παραδότω τὸν αὐτὸν τόπον καὶ τὸν περιστερεῶνα ὡς ἐὰν παραλάβῃ
+r.13   καὶ τὰς ἐπικειμένας θύρας δύο
+r.14   κλεῖν μίαν ἧς
+r.15   δʼ ἂν μὴ παραδῷ
+r.16   τὴν ἀξίαν, ὃ δʼ ἂν προσοφειλέσῃ ἀποτεισάτω μεθʼ ἡμιολίας,
+r.17   τῆς πράξεως γεινομένης ἔκ τε
+r.18   αὐτοῦ καὶ ἐκ τῶν ὑπαρχόντων
+r.19   αὐτῷ πάντων. κυρία ἡ μίσθωσις.
+r.20   ἔτους κγ Αὐτοκράτορος Καίσαρος
+r.21   Μάρκου Αὐρηλίου Κομμόδου
+r.22   Ἀντωνείνου Σεβαστοῦ Ἀρμενιακοῦ
+r.23   Μηδικοῦ Παρθικοῦ Σαρματικοῦ
+r.24   Γερμανικοῦ Μεγίστου Μεσορὴ α … .
+r.25   Πούπλιος Οὐέττιος Διογένης μεμίσθωμαι τὸν περιστερεῶνα καὶ τὸ[ν] ὑπ[ερῷ]ον τόπον καὶ ἀποδώσω [τὸ]
+r.26   καθʼ ἔτος ἐνοίκιον ὡς πρόκειται.
+
+[TRANSLATION]
+# HGV-EN: Apollonius son of Sosus son of Sosus, of the city of Oxyrhynchus, has let to Publius Vettius Diogenes for four years from the first day of Thoth of the coming 24th year the upper room of the house belonging to him at Mouchinor and the pigeon-house there with its wooden ladder at an annual rent and revenue of 60 drachmae of silver free of all risk. The lease being guaranteed, the lessee shall use the room and the pigeon-house for the four years without hindrance, and shall pay the rent annually in two half-yearly instalments of 30 drachmae, and at the end of the term shall return the said room and the pigeon-house in the condition in which he receives them and the two doors and one key attached, or shall pay the value of anything that he does not restore, and shall forfeit one and a half times the amount of any sum owing, right of execution lying against him and all his property. This lease is valid.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    

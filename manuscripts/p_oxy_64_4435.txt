@@ -1,0 +1,62 @@
+[META]
+id:       P.Oxy. 64.4435
+label:    P.Oxy. 64.4435
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     201 CE – 225 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (201 CE – 225 CE)
+# hgv-keywords: Sammlung — Fälle (Recht) — Kaiser — Latinismen — für eine Eingabe (?) — aetatis auxilium
+tm:       32161
+source:   https://papyri.info/ddbdp/p.oxy;64;4435
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    κεφάλαιον ἐκ γνώμονος Σεουήρου καὶ Ἀντωνίνου τῶν κυρίων Σεβ[αστῶν. ] … [ ]
+r.2    η ἔτους μηνὶ Φαμενὼθ κδ. ἐπὶ μέρους οὕτως· τοῖς ἀνήβοις καὶ [τοῖς τῆς δημοσίας]
+r.3    χρείας ἕνεκεν ἀποδημοῦσι ἢ ἀποδημήσασι ἡ συνήθης ὑπάρξει β[οήθεια, τοὺς δὲ]
+r.4    ἐλάττονος πέντε καὶ εἴκοσι ἐτῶν, εἰ πρὸς τὸ ἐξαπατηθῆναι φα[νερῶς περιεγράφησαν, ]
+r.5    καὶ αὐτοὺς βοηθείας τυχεῖν εὔ[λ]ογον. τὰ ἐπὶ τῶν οὐ τελείων τὴ[ν ἡλικίαν διηγορευ]μένα καὶ ταῖς πόλεσιν φυλαχθήσεται.
+r.6    ἐξ αἰτημάτων Ἀλεξανδρέων. πρὸ ιγ Καλανδῶν Ἰ[ανου]αρίων· ἀξιούντ[ων νεωτέρων τινῶν τὰ ]
+r.7    ὑπὸ τῶν ἐπιτρόπων πραθέντα χωρία βέβαι[ά τε μ]ένειν καὶ μὴ [παρανόμως στέρεσθαι ]
+r.8    αὐτῶν· μετʼ ἄλλα· Καῖσαρ εἶπεν· ἐὰν δὲ ν[εώτ]ερός τις προσέ[λθῃ τῷ ἡμετέρῳ βήματι]
+r.9    καὶ εἴπῃ, ἀναγκασθεὶς περιγραφεὶς πέπρακά μου [τὰ χ]ωρία πολλῷ [ἐλάττονος τῆς ἀξίας,]
+r.10   οὐ βοηθήσομεν αὐτῷ τί οὖν ἰδιώτῃ μὲν βοη[θήσο]μεν, οὐ βοη[θήσομεν δὲ τῷ ἡμετέρῳ τα]μείῳ.
+r.11   κεφάλαιον ἐκ νόμου Λαι[τ]ωρίου ἑρμην[ε]υθέντος κ[ατὰ τὸ δυ]νατὸν …
+r.12   … · εἰ περιγραφη … τῷ κρατ[ίσ]τῳ ἐπιστρατήγῳ ἔντυ[χε. ]
+r.13   Αὐτοκράτωρ Καῖσαρ Λούκιος Σεπτίμιος Σεουῆρος [Εὐσεβὴς Π]ερτίναξ Σ[εβαστὸς Ἀραβικὸς Ἀδιαβηνικὸς]
+r.14   Παρθικὸς Μέγιστος καὶ Αὐτοκράτωρ Καῖσαρ Μᾶρκο[ς Αὐρήλιος Ἀν]τωνῖνο[ς Εὐσεβὴς Σεβαστὸς]
+r.15   Οὐάρῳ Δαμασαίου. εἰ τὴν ἐκ τῆς ἡλικίας ἔχεις β[οήθειαν,] ὁ ἡγούμ[ενος τοῦ ἔθνους]
+r.16   τὸν ἀγῶνα τῆς ἀφέσεως ἐκδικ[ήσει.] πρ[οετέθη] ἐν Ἀλεξανδ[ρείᾳ ] …
+r.17   Προκόνδῃ Ἑρμαίου διʼ Ἐπαγάθ[ο]υ ἀπελευθέρου. εἰ τὴν ἐκ τῆς ἡ[λικίας ἔχεις βοήθειαν,]
+r.18   τὸν ἀγῶνα τῆς ἀπάτης ὁ ἡγούμ[ε]νος τοῦ ἔθνου[ς]
+r.19   ἐκδικήσει. πρ[οετέθη ἐν Ἀλεξανδρείᾳ ] …
+r.20   Κλαυδίωι Ἰουλιανῶι.
+
+[TRANSLATION]
+# HGV-EN: The Emperor Caesar Lucius Septimius Severus Pius Pertinax Augustus Arabicus Adiabenicus Parthicus Maximus and the Emperor Caesar Marcus Aurelius Antoninus Pius Augustus to Varus son of Damasaeus. If you can claim the assistance due to immature age, the praefect of the province shall decide the suit for release. Published in Alexandria... To Procunda daughter of Hermaeus through Epagathus, freedman. If you can claim the assistance due to immature age, the praefect of the province shall decide the suit for fraud. Published in Alexandria...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

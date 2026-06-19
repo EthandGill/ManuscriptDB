@@ -1,0 +1,78 @@
+[META]
+id:       PSI 4.423
+label:    PSI 4.423
+name:     Letter — Philadelphia (Arsinoites)
+genre:    letters
+date:     275 BCE – 226 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Letter from Philadelphia (Arsinoites) (275 BCE – 226 BCE)
+# hgv-keywords: Brief (privat) — Horos an Zenon — Bericht über Arbeit der Gefangenen — ausbleibende Zahlung (Getreide) — Aufforderung zur Bezahlung
+tm:       2106
+source:   https://papyri.info/ddbdp/psi;4;423
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    [Ζήνωνι χαί]ρειν Ὧρος λατό[μος. ][ἀγγέλλε]ι Ἑριεὺς τοὺς
+r.2    [δε]σμώτας ἀπ[ὸ] μηνὸς Παῶφι
+r.3    δευτέρας ἕως Χοίαχ ι, φάμενος αὐτοὺς ἐργᾶσθαι τὴν ἡμέραν ἕκαστον ἄνδρα
+r.4    ἀώιλιον α ὄντας δέκα , ὥστε
+r.5    εἶναι ἑκάστου μηνὸς ἀώιλια
+r.6    τ, ὥστε εἶναι τῆς διμήνου
+r.7    [ἀώ]ιλια χ κ[αὶ] τῶν ὀκτὼ ἡμερῶν ἀώιλια π· γίνονται χπ.
+r.8    ἐάν σοι δόξηι, ἀπόστειλόν τινα ὃς ἐγμετρήσει· οὐ γάρ πω
+r.9    εἰργασμένοι εἰσὶν ρλ. γνώριζε δὲ ἡμᾶς [ἐξ]ειληφότας
+r.10   τὰ φρέατα, ἐφ ὧ[ι] ἐργώμεθα·
+r.11   Ἑριεὺς δὲ λαβὼν παρά σου σῖτον
+r.12   [ε]ἰς τὰ ἔργα οὐκ εἴργασται, ἀλλὰ
+r.13   … τους ἐργωμέν[ο]υ[ς] … ζονται. καὶ
+r.14   τοὺς ὀχετούς, οὓς ἐξελάβομεν
+r.15   ἐκ πέντε ὀβολῶν β 𐅵 κ[αὶ] τοῖς ἀναφέρουσι ἐκ δέκα ὀβολοῦ α 𐅵, ἐργῶμαι
+r.16   ἐκ διωβόλου καὶ ἐξ ὀβολοῦ. ἔχω γὰρ
+r.17   καὶ τοὺς ἐργ[αζομέ]νους ἐνταῦθα
+r.18   μετʼ ἐμοῦ, ὥσ[τε τὴ]ν ταχίστην
+r.19   συντελεσ[θῆναι]. λελατομεύκαμεν δὲ καὶ λίθους βασιλικοὺς
+r.20   ἐκ τῆς πέτρας τῆς πρὸς νότον,
+r.21   καὶ ἐξ ὀβολοῦ οὐθὲν εἰλήφαμεν εἰς αὐτούς.
+r.22   καλῶς ἂν οὖν ποιήσαις, εἰ καὶ
+r.23   σοὶ δοκεῖ, συντάξας ἡμῖν δοῦναι σιτάριον, ἵνα ἔχωμεν ἐργαζόμενοι μέχρι ἂν ἐπισκέψηι
+r.24   περὶ τούτων.
+r.25   ε[ὐτ]ύ[χ]ει.
+r.26   ὑπόμνημα παρὰ Ὥρου λατόμου
+r.27   περὶ τῶν τὰ ἀώιλα ἐργαζομένων
+r.28   [δε]σμωτῶν καὶ περὶ τῶν φρεατίων.
+
+[TRANSLATION]
+# HGV-EN: To Zenon, greetings, Horos the stonecutter. Herieus reports concerning the desmôtai, from the second of Phaophi until the tenth of Choiak, that each man has worked 2 cubic cubits every day, there being 10 men in all, so that within each month 600 cubic cubits have been worked and within the 2-month period 1200 have been worked and over the course of 8 days 160 have been worked. The total of cubic cubits worked is 1360. If it seems best to you, send someone who will make a measurement, for there are 130 who have not yet worked. And know that we have received the contract for the excavation of the mine-shafts, so that we may work. But Herieus, after receiving grain from you for the work, has not worked, but… the workers (?)…. And the channels for which we received the contract, (at a cost of) 2.5 obols per 5 aôilia of rock and 1.5 obols for those transporting 10 aôilia of rock, these I have completed at a cost of 2 obols and 1 obol, respectively. For I have workers here with me, so that the work was completed very quickly. And we have worked the royal stone from the rock toward the south at a cost of one obol, and we have received nothing for it. Therefore you would do well, if it seems best to you, to please give us some grain, so that we may be able to keep working until you make an examination about these maters. Farewell. Memorandum from Horos the stonecutter concerning the desmôtai working the aôilia and concerning the mine-shafts. (J. Bauschatz, Law and Enforcement, p. 256)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    

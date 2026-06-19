@@ -1,0 +1,46 @@
+[META]
+id:       P.RYL 2.181
+label:    P.RYL 2.181
+name:     Documentary papyrus — Hermopolis
+genre:    documents
+date:     204 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Documentary papyrus from Hermopolis (204 CE)
+# hgv-keywords: Bestätigung einer Vereinbarung (Zahlung)
+tm:       19523
+source:   https://papyri.info/ddbdp/p.ryl;2;181
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    [Σ]αρ[α]πίων καὶ Ἑρμῆς ὁ καὶ Μάρκουλλος ἀμφότεροι Ἑρμοῦ κα[ὶ] ὁ τούτων ὁμομήτριος ἀδ[ελφὸς Ἀχιλλεὺς]
+r.2    Π[ολυ]δεύκους ἀφῆλιξ ο[ἱ τρε]ῖς υ[ἱ]οὶ καὶ κληρονόμοι [Ο]ὐικτω[ρείνας] κ[α]ὶ ὁ αὐτὸς ἀφῆλιξ Ἀχιλλεὺς δι[ὰ] τ[οῦ]
+r.3    [πατ]ρὸς Πολυδεύκ[ους, οἱ τέσσαρε]ς Ἑρμοπολεῖ[τ]αι, Ἑρμ[ῇ][ καὶ ] … ίωνι καὶ … [τοῖ]ς τρισὶ μητρα[δέλ]φοις ἡμῶν ἐ[κ πατρὸς Διογέ]ν[ο]υς κοσμητ[εύ]σαντος τ[ῆς αὐ]τῆς Ἑρμοῦ πόλεως χαί[ρει]ν. ἐπεὶ ὁ πα[τὴρ ὑ]μῶν Διογέ[ν]ης Ἑρμαίου ἡνίκα περιῆν ἠθ[έ]λησεν καθὼς τὸ γράμμα τῇ μητρὶ ἡμῶν αὐτοῦ δὲ
+r.4    [θυγ]ατρὶ Οὐικτωρείνᾳ ἔτι ἀπὸ η ἔτους τῶν κυρίων Αὐτοκρατόρων Σεουήρου καὶ Ἀντωνίνου αὐτῇ τε καὶ τοῖς
+r.5    [ἐξ] αὐτῆς ἐπὶ τὸν ἅπαντα χρ[ό]νον χορηγεῖσθαι ὑφʼ ὑμῶν τῶν υἱῶν χορήγιά τινα κατʼ ἔτος
+r.6    [καὶ] τελευτήσαντος τοῦ Διογ[έ]νους ἐχορηγήσατε τὰ διὰ τοῦ γράμματος χορήγια μέχρι ιβ ἔτους, τελευτη[σά]σης δὲ καὶ τῆς μητρ[ὸ]ς ἡμῶν Οὐικτωρείνας νῦν συνεφωνήσαμεν πρὸς ὑμᾶς ὥστε λαβεῖν ἀπότακτον ἀρτάβας κ ὑπὲρ διαλύσεως πασῶν τῶν χορηγιῶν τοῦ παντὸς χρόνου, ὁμολογοῦμεν αὐτόθι
+r.7    ἀπεσχηκένα[ι π]αρʼ ὑμῶν τὸ συμπεφω[ν]ημένον τῆ[ς δ]ιαλύσε[ω]ς τῶν αὐτῶν χορηγιῶν
+r.8    [πασ]ῶν τοῦ παντὸς χρόν[ο]υ καὶ μὴ ἐνκαλεῖ[ν] ὑμῖν μη[δὲ] τοῖς παρʼ ὑμῶν μη[δ]ὲ ἐνκαλέ[σε]ι[ν] περὶ μηδενὸς ἁπλῶς ὀνόμ[α]τος τῆς αὐτῆς χορη[γία]ς ἐπὶ τὸν πάντ[α] χρόνον τρόπῳ
+r.9    [οὐδεν]ὶ παρευρέσει οὐδεμιᾷ δ[ιὰ τὸ] ἐντεῦθεν πεπεῖσθα[ι ἡμᾶ]ς, ἀλλὰ καὶ τὸν ἐπ[ελε]υσόμενον
+r.10   [πρὸς ὑμᾶς ἡμ]ῶν ὀνόματι π[ερὶ τῶν κατὰ τὴ]ν [χο]ρηγίαν ἀ[ποστήσειν ἀ]φʼ ὑμῶν … τοῦ λόγου
+r.11   … ι Πολυδεύ[κ ] … τὸν Ἑρμ …
+r.12   ἀποχὴ … τρ …
+
+[TRANSLATION]
+# HGV-EN: ‘Sarapion and Hermes also called Marcullus, both sons of Hermes, and their brother on the mother’s side, Achilles son of Polydeuces, minor, all three sons and heirs of Victorina, the said minor Achilles acting through his father Polydeuces, all four being citizens of Hermopolis, to Herm … and … and …, our three uncles on our mother's side, sons of Diogenes, ex-cosmetes of the said city of Hermopolis, greeting. Whereas your father Diogenes son of Hermaeus while yet alive desired, according to his written deed, that a certain annual allowance should be furnished in perpetuity from the 8th year of the lords and Emperors Severus and Antoninus to our mother his daughter Victorina and her descendants by you his sons, and after Diogenes’ death you furnished the allowance specified by the deed until the 12th year; and whereas on the death of our mother Victorina we have now agreed with you to receive a fixed amount of 20 artabae in discharge of all allowances for the future; we acknowledge that we have here received from you the amount agreed upon in discharge of all the said allowances for ever, and that we make and shall make no claim against you or your assigns on any point whatever concerning the said allowances henceforth for ever in any manner or under any pretext, because we have come to the present agreement, and any person making a claim upon you in our name with regard to the allowance we will repel …’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

@@ -92,7 +92,10 @@ def citation(ident):
 
 
 def slug(ident):
-    s = ident.replace(";", "_").replace(".", "_")
+    # Replace ANY non-alphanumeric (; . / \ : etc.) with "_" so the slug is always a
+    # single safe filename. Some ids contain "/" (e.g. p.mich;5;333/334dupl) which
+    # otherwise gets read as a subdirectory and crashes the write.
+    s = re.sub(r"[^A-Za-z0-9]+", "_", ident)
     return re.sub(r"_+", "_", s).strip("_")
 
 

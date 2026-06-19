@@ -1,0 +1,58 @@
+[META]
+id:       P.Oxy. 1.71col2
+label:    P.Oxy. 1.71col2
+name:     Petition — Ptolemais Euergetis (Arsinoites)
+genre:    petitions
+date:     303 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Petition from Ptolemais Euergetis (Arsinoites) (303 CE)
+# hgv-keywords: Eingabe — Aurelia Gle... an den Praefekten Clodius Culcianus — schwache Position als Frau und Witwe — hereingelegt von zwei — die ihr helfen sollten — Besitz
+tm:       12592
+source:   https://papyri.info/ddbdp/p.oxy;1;71col2
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    Κλωδίωι Κ[ουλκι]ανῶι τῶι διασημ[οτάτ]ωι ἐπ[ά]ρχωι [Αἰγύπτου]
+r.2    παρὰ Αὐρηλίας Γλη … λαμπροτάτης κατοικούσ[ης ἐν τ]ῇ Ἀρσινοιτῶν [πόλει].
+r.3    πᾶσι μὲν βοηθεῖς, ἡγεμὼν δέσποτα, καὶ πᾶσι τὰ ἴ[δ]ια ἀπονέμεις [μάλιστα]
+r.4    δὲ γυναιξὶν διὰ τὸ τῆς φύσεως ἀσθενές· ὅθεν καὶ αὐτὴ πρόσειμ[ι τῷ σῷ]
+r.5    μεγαλείῳ εὔελπις οὖσα τῆς ἀπὸ σοῦ βοηθείας τυχεῖν. πλεῖστα προσ … μενης μου περὶ τὸν αὐτὸν Ἀρσινοίτην νομὸν καὶ οὐκ ὀλίγ[ον] τέλος δήμου, κανονικοὺς δὴ λέγω φόρους καὶ στρατιωτικὰς εὐθενίας, γυνὴ ἀσθ[ε]νὴς καὶ χήρα τυγχάνουσα τῶν τε ἡμετέρων τέκνων ἐν στρατείᾳ ὄντων καὶ ἀπασχολ[ο]υμένων ἐπὶ τῆς ἀλλοδαπῆς, προσελαβόμην ἐμαυτῇ εἰς βοήθειαν κ[α]ὶ
+r.6    δ[ι]οίκησιν τῶν πραγμάτων τὸ πρὶν μὲν Σεκοῦνδόν τινα ἔπειτα δὲ καὶ
+r.7    Τύραννον, νομίζουσα τούτους τὴν καλήν μοι πίστιν ἀποσῴζειν· [ο]ἵτινες μὴ ὀρθῶς ἀναστραφέντες διεσπαθήσαντό με, καὶ ἐν χερσὶ ἃ
+r.8    κατεστήσαντο ἀπʼ ἐμοῦ ὑπάρχοντα ἀποστάν[τες] μο[υ] οὔποτʼ οὐ
+r.9    συνήθεις λόγους μ[ο]ι προσήγα[γο]ν ἴσως γνω[σι]μαχ[ο]ῦντες ἐν οἷ[ς]
+r.10   διεπράξαντο ἀφαρπάσαντές μου [κα]ὶ βοῦς δύο ἐξ ὧν ἔχω προς …
+r.11   τῶν αὐτῶν μοι χωρίων περι[φ]ρονοῦντές μου τῆς ἀπραγ μ[οσύνης].
+r.12   ὅθεν … ήσασα τῆς ἐπʼ ἀγαθοῖς [σοῦ] ἐπιδημίας καταφεύγω π[ρὸς τοὺς]
+r.13   σοὺς τ[οῦ] ἐ[μ]οῦ κυρίου πόδας ἀξιοῦσα … εἴ σου δόξειεν τῇ ἀρετῇ [ἐπὶ τῆς]
+r.14   μοι δ[υν]ατωτάτης σου ὑπογραφῆ[ς ] … τας ἤτοι ἀποθέτας ἐπι …
+r.15   προστ … ας διʼ αὐ[τ]ῶν ἐπιγν … μου τὰ ὑ πο[τ]ελοῦς ἐκο …
+r.16   νο … εντα δυνηθῶ καὶ α … να ἀπολ … α … σα …
+r.17   τοι … τῇ λαμ[βανού]σῃ …
+r.18   ανατ … αν … υπ … απρ …
+
+[TRANSLATION]
+# HGV-EN: To his excellency Clodius Culcianus, praefect of Egypt, from the most noble Aurelia ..., an inhabitant of Arsinoe. You extend help to all, my lord praefect, and you render to all their due, but especially to women on account of their natural weakness. Therefore I myself make petition to your highness in the full confidence that I shall obtain assistance from you. Having large estates in the Arsinoite nome, and paying a considerable sum in taxes (I refer to payments for public purposes and supplies for the soldiers), and being a defenceless widow woman, for my sons are in the army and absent upon foreign service, I engaged as my assistant and business-manager first one Secundus and subsequently Tyrannus besides, thinking that they would preserve my good name. But they behaved dishonestly and robbed me...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

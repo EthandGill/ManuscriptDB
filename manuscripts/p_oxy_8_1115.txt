@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 8.1115
+label:    P.Oxy. 8.1115
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     284 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (284 CE)
+# hgv-keywords: Eingabe an den Strategen — Lieferungen — Brot — für die "annona"
+tm:       21737
+source:   https://papyri.info/ddbdp/p.oxy;8;1115
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Αὐρηλίῳ Φιλιάρχῳ τῷ καὶ Ὡρίωνι σ[τ]ρατηγῷ Ὀξυρυγχείτου
+r.2    παρὰ Αὐρηλίων Ἰσιδώρου καὶ Ἀσκληπιάδου καὶ Πλουτίνου ἀναπ[ομ]πῶν ἄρτου. αἰτηθέντες ὑπὸ σοῦ ἐκ τῶν ἐπισταλέντων σοι ὑπὸ
+r.3    τοῦ διασημοτάτου ἡγεμόνος Πομπωνίου Ἰανουαριανοῦ καὶ τοῦ
+r.4    δι[α]σημοτάτου διοικητοῦ Αὐρηλίου [Πρωτέα] ἣν ἔχομεν αὐθεντικὴν
+r.5    [ἀποχ]ὴν οὗ ἀνηνέγ καμεν καὶ δι[αδεδώ]καμεν ἄρτου, ἐπιδίδομέν σοι
+r.6    τὴ[ν] προκειμένην αὐθεντικὴν ἀποχ[ὴν] καὶ ταύτης ἀντίγρα[φον ἀξι]οῦντες ὑποσημειώσασθαί σ[ε] πρὸς τὸ καὶ ἡμᾶς τὸ ἀ[σ]φ[α]λὲς ἔχειν [τῆς αὐ]τῆς αὐθεντικῆς ἀποχῆς. Μίκ καλος ἐπὶ διαδόσεως ἀννώνης
+r.7    Ἰσιδώρῳ καὶ Ἀσκληπιάδῃ ἐπιμεληταῖς Ὀξυρυγχείτ[ο]υ.
+r.8    παραδ[ε]δώκατε ἐν τῇ Πανῶν πόλει κατὰ κέλευσιν Αὐρηλίου Πρ[ω]τέα τοῦ κρατίστου διοικητοῦ ἀκολούθως αἷς ἐπηνέγ κατε φ[ορ]μαρίαις χωρήσασι στρ[ατιώ]ταις καὶ ναύταις ἄρτου …
+r.9    ους μυριάδας τρεῖς καὶ ὀκτακισχιλ[ίους τ]ετρακοσίους ἐνενήκοντα ἕξ, γίνονται μυριάδες γ Ηυϙϛ .
+r.10   ἔτους ϛ τοῦ κυρίου ἡμῶν Αὐτοκράτορος Καίσαρος Μάρκου Αὐρηλίου
+r.11   Πρόβου Εὐσεβοῦς Σεβαστοῦ Τῦβι ἑκ καιδεκάτῃ, Τῦβι ιϛ.
+r.12   Αὐρήλιος Φιλίαρχος ὁ καὶ Ὡρίων στρατηγὸς Ὀξυρ[υ]γχίτου ἔσχον τὴν αὐθεντικὴν ἀποχὴν
+r.13   συμφωνοῦσαν πρὸς τὸ προτεταγμένον ἀντίγραφον ἣν καὶ κατέπεμψα
+r.14   ὡς ἐκελεύσθη. ἔτους β Παχὼν κϛ.
+
+[TRANSLATION]
+# HGV-EN: To Aurelius Philiarchus also called Horion, strategus of the Oxyrhynchite nome, from Aurelius Isidorus, Aurelius Asclepiades, and Aurelius Plutinus, deliverers of bread. Having been asked by you in consequence of letters sent to you by his honour the praefect Pomponius Januarianus and his honour the dioecetes Aurelius Proteas for the authentic receipt in our possession for the bread which we have delivered and distributed, we deliver to you the aforesaid authentic receipt and a copy of it which we beg you to sign in order that we too may have the security of the said authentic receipt. “Miccalus, superintendent of the distribution of the annona, to Isidorus and Asclepiades, overseers of the Oxyrhynchite nome. You have delivered in Panopolis in obedience to the order of his highness the dioecetes Aurelius Proteas in accordance with the certificates presented by you, to the mobilized (?) soldiers and sailors thirty-eight thousand and four hundred and ninety-six modii(?) of bread, total 38,496. The sixth year of our lord the Emperor Caesar Marcus Aurelius Probus Pius Augustus, Tubi sixteenth, Tubi 16.” (Signed) I, Aurelius Philiarchus also called Horion, strategus of the Oxyrhynchite nome, have received the authentic receipt, which agrees with the copy above written, and have forwarded it as ordered. Second year, Pachon 26.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

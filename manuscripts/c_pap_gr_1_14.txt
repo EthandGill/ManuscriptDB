@@ -1,0 +1,88 @@
+[META]
+id:       C.PAP.GR 1.14
+label:    C.PAP.GR 1.14
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     26 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (26 CE)
+# hgv-keywords: Vertrag (Arbeit) — Amme — Lohn — Kyria - Klausel — Unterschriften
+tm:       23022
+source:   https://papyri.info/ddbdp/c.pap.gr;1;14
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἔτους δωδεκάτου Τιβερίου Καίσαρο[ς] Σεβαστοῦ, Παχὼν κϛ, ἐν Ὀξυρύγχων πόλε[ι] τῆς Θηβαίδος. ὁμολογεῖ Τασεῦς Πετ[ε]εῦτος Περσίνη μετὰ κυρίου καὶ ἐγγύου π[ά]ντων
+r.2    τῶν κατὰ τὴν συγγραφὴν ταύ[τ]ην εἰς ἔκτισιν τοῦ ἑαυτῆς ἀνδρὸς Πετσείριος τοῦ
+r.3    Ὥρου Πέρσου τῆς ἐπιγονῆς, ἀμφότεροι τῶν ἀπὸ Τανάιως τῆς μέσης τοπαρχίας,
+r.4    Παάπει Φνᾶτος ἐν ἀγυιᾷ παρει[λ]ηφέναι παρʼ αὐτοῦ ἔτι ἀπὸ ἑπτακαιδεκάτης τοῦ
+r.5    [ἐ]νεστῶτος [μ]ηνὸς Π[α]χὼν ὃ ἀνῄρηται ἀπὸ κοπρίας εἰς δουλείαν θηλυκὸν
+r.6    [σ]ωμάτιον ὧ[ι ἐ]πέθηκεν ὄνομ[α] Θερμουθάριον ὥστε τὴν ὁμολογοῦσαν τοῦτο
+r.7    [θρέψαι] καὶ θηλ[ά]σαι τῶι ἰδίωι αὐτῆς γάλακτι, ἔτι δὲ καὶ τιθηνῆσαι ἐπὶ χρόν[ον] ἔτη
+r.8    [δύο ἀπὸ] τῆς αὐτῆς ἑπτακαιδε[κ]άτης τοῦ Παχὼν, ἀντὶ τῶν ἑσταμένων χορη[γή]σασθαι ὑ[π]ὸ τοῦ Παάπιος εἴ[ς τ]ε τροφεῖα καὶ ἱματισμὸν καὶ τὴν ἄλλην τὴν
+r.9    [ὑπὲ]ρ τοῦ σωμα[τ]ίου δαπάνην πᾶσαν κατʼ ἔτος ἀργυρίου δραχμῶν ἑξήκοντα ,
+r.10   [κ]αὶ δὴ αὐτόθ[ε]ν ἀπέχειν τὴν ὁμολογοῦσαν καὶ τὸν ἄνδρα καὶ ἔγγυον Πετσεῖριν παρὰ
+r.11   [τ]οῦ Παάπιος τὰς ὑπὲρ τοῦ πρώτου ἐνιαυτοῦ ἀργυρίου ἑξήκον[τα] ἐκ πλή[ρ]ους διὰ χειρὸς ἐξ οἴκου· τούτου δὲ πληρωθέντος εἰς ἅπαξ ἀποδώσει αὐ[τῆι] ὁ Παᾶπις
+r.12   τοῦ ἄλλου ἐνιαυτοῦ [ἀ]ργυρ[ίου δ]ραχμὰς ἑξήκοντα , ἐπὶ δὲ τὸν αὐτὸν [δι]ετῆ
+r.13   [χρό]νον χορηγήσει αὐτῆι κα[τὰ] μῆνα ἐλαίου κοτύλας δύο . ἐπάναγκον [ο]ὖν
+r.14   [τὴν] ὁμολογοῦσαν τὴν πᾶσα[ν] προστασί[α]ν καὶ ἐπιμέλειαν ποιήσασθαι
+r.15   [τούτου, ὡς αὐτῆι ἐπ]ιβάλλει, καὶ [μὴ] ἀνδροκοιτεῖν πρὸς τὸ μὴ διαφθαρῆναι
+r.16   [τὸ γάλα μηδὲ ἐπι]κυεῖν μηδὲ ἕτερον σωμάτιον παραθηλάζειν μηδὲ
+r.17   … καὶ παραδότω τῶι Παάπει τὸ σωμάτιον προεστατ[η]μέ[νον, ὡς αὐτῆι ἐπι]βάλλει. ἐὰν μέν τι πάθῃ ἀνθρώπινον, ὃ καὶ συνφανὲ[ς γέν]ηται,
+r.18   [ἡ ὁμ]ολογοῦσα ἀνέγκλητος ἔστω, καὶ ἐὰν μὲν αἱρῆται ὁ Πα[ᾶ]πις ἕτερον
+r.19   [αὐτῆι] ἐγχειρεῖ[ν] σωμάτιον, καὶ τοῦτο θρέψει ἐπὶ τὸν ἐνλείψοντα χρόνον
+r.20   [ἐ]πὶ τοῖς προκειμένοις, ἐὰν δὲ μὴ βούληται τοῦτο ποιῆσαι, ἀποδώσει αὐτῶι,
+r.21   [ὃ] ἐὰν φανῆι ὀφείλουσα πρὸς ὃν οὐδέπω τετρόφευκεν χρόνον. ἐὰν δὲ
+r.22   παρασυγγραφοῦσα μὴ ποιῇ καθὰ γέγραπται, ἀποτισάτω τῶι Παάπει,
+r.23   ὅτι εἴληφεν ἢ καὶ ἕξει παρʼ αὐτοῦ ἀργύριον μεθʼ ἡμιολίας καὶ τὸ βλάβος
+r.24   καὶ ἐπίτιμο[ν] ἄλλας ἀργυρίου δραχμὰς διακοσίας καὶ εἰς τὸ δημόσ[ι]ον
+r.25   τὰς ἴσας καὶ ἡ πρᾶξις ἔστω Παάπει ἔκ τε τῶν προγεγραμμένων
+r.26   καὶ ἐξ οὗ ἐὰν αἱρῆται καὶ ἐκ τῶν ὑπαρχόντων αὐτοῖς πάντων.
+r.27   κυρία ἡ συγγραφή. Τασεῦς Πετεεῦτος τέθειμαι τὴν ὁμολογίαν καὶ
+r.28   ἐκθρέψω τὸ δουλικὸν σωμάτιον Θερμουθάριον ἐπὶ τὰ δύο ἔτη
+r.29   καὶ ἔχω ἀπὸ τῶν τροφείων τὰς τοῦ ἀργυρίου δραχμὰς ἑξήκοντα
+r.30   καὶ τὰ ἄλλα ποιήσω, καθότι πρόκειται. Πετσεῖρις Ὥρου ἐπιγέγραμμαι τῆς
+r.31   γυναικὸς κύριος καὶ ἐνγυῶμαι εἰς ἔκτισιν τὰ προκείμενα. Ἡρακλείδης Θέωνος ἔγραψα ὑπὲρ αὐτῶν μὴ εἰδότων γράμματα.
+r.32   Παᾶπι[ς] Φν[ᾶτος] εὐδοκῶ τοῖς προκειμένοις.
+r.33   … μελίχρως στρογγυλοπρόσωπος οὐλὴ γόνατι ἀ[ρ]ιστερῷ.
+
+[TRANSLATION]
+# HGV-EN: The 12th year of Tiberius Caesar Augustus, Pachon 26th, in the city of Oxyrhynchus, Thebaid. Taseus, daughter of Peteeus, Persian of the Epigone, with her husband Petsiris, son of Horus, Persian of the Epigone, who is also her guardian and surety for the fulfilment of all the terms of this contract, both residents of the village of Tanais in the middle toparchy, enter into an agreement with Paapes, son of Phlias, in the street , that they have received from him on the 17th of the present month of Pachon the female child to whom he has given the name Thermoutharion, whom he picked up from a dung heap to rear as a slave. Taseus is to rear and suckle it with her own milk, and is to care for it for a term of 2 years from the present 17th of Pachon, in return for the agreement made by Paapes to provide food and clothing and all other expenses incurred for the child paying therefor 60 drachmae a year. Taseus further acknowledges that she together with her husband Petsiris, who is also her surety, has received 60 dr. in advance for the first year in cash from his house. At the end of this year Paapes will pay at once 60 drachmae in silver for the second year, and further he agrees to provide 2 cotylae of oil per month for the 2 years. Accordingly Taseus will of necessity provide every assistance and care for the child as is incumbent on heris her duty . She will not have intercourses with her husband so as not to harm the milk, nor will she become pregnant, nor suckle any other child nor … (PRyl 178) and she shall give back the child to Paapes well nourished as is incumbent upon her. If the child suffers any fatality which is plainly accidental, Taseus will be held blameless, and if Paapes picks up another child to put in her care, she shall nurse it for the remaining period on the aforesaid terms; but if she does not wish to do so, she shall repay whatever she appears to owe for the term of nursing which still remains. If she violates the contract made in these terms she shall repay to Paapes what she has received from him in silver, with an addition of 50% and 200 dr. as compensation for damages and penalty and an equal sum to the fiscus. Paapes shall have the right of exaction from the aforesaid parties and from whichever one he chooses and from all their property. This agreement is valid. (2nd hand) I, Taseus, daughter of Peteeus, have concluded the agreement. I shall nourish the infant Thermoutharion for 2 years. I have received 60 dr. in silver for its support, and I shall perform all the provisions of the aforesaid contract. I, Petsiris, son of Horus, have subscribed to this document as guardian of my wife and I am her surety for the fulfilment of the above conditions. Heraclides, son of Theon, wrote on their behalf as they are unlettered. (3rd hand) Paapes, son of Philas, consents to the above contract. (4th hand) … honey-coloured, roundfaced, with a scar on the right knee.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    
+30    
+31    
+32    
+33    

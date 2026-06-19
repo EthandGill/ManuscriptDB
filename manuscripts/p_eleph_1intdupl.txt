@@ -1,0 +1,52 @@
+[META]
+id:       P.ELEPH 1intdupl
+label:    P.ELEPH 1intdupl
+name:     Contract — Elephantine
+genre:    contracts
+date:     310 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Contract from Elephantine (310 BCE)
+# hgv-keywords: Vertrag — Ehe — Bestimmungen
+tm:       5836
+source:   https://papyri.info/ddbdp/p.eleph;;1intdupl
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Ἀλεξάνδρου τοῦ Ἀλεξάνδρου βασιλεύοντος ἔτει ἑβδόμωι, Πτολεμαίου σατραπεύοντος ἔτει τεσσαρεσκαιδεκάτωι μηνὸς Δίου. συγγραφὴ συνοικισίας Ἡρακλείδου καὶ Δημητρίας. λαμβάνει Ἡρακλείδης
+r.2    Δημητρίαν Κώιαν γυναῖκα γνησίαν παρὰ τοῦ πατρὸς Λεπτίνου Κώιου καὶ τῆς μητρὸς Φιλωτίδος ἐλεύθερος
+r.3    ἐλευθέραν προσφερομένην ἱματισμὸν καὶ κόσμον δραχμῶν Α, παρεχέτω δὲ Ἡρακλείδης Δημητρίαι
+r.4    ὅσα προσήκει γυναικὶ ἐλευθέραι πάντα, εἶναι δὲ ἡμᾶς κατὰ τὸ αὐτὸ ὅπου ἂν δοκῆι ἄριστον εἶναι βουλευομένοις κοινῆι
+r.5    βουλῆι Λεπτίνηι καὶ Ἡρακλείδηι. ἐὰν δέ τι κακοτεχνοῦσα ἁλίσκηται ἐπὶ αἰσχύνηι τοῦ ἀνδρὸς Ἡρακλείδου Δημητρία,
+r.6    στερέσθω ὧν προσηνέγκατο πάντων. ἐπιδειξάτω δὲ Ἡρακλείδης ὅτι ἂν ἐγκαλῆι Δημητρίαι ἐναντίον ἀνδρῶν τριῶν,
+r.7    οὓς ἂν δοκιμάζωσιν ἀμφότεροι. μὴ ἐξέστω δὲ Ἡρακλείδηι γυναῖκα ἄλλην ἐπεισάγεσθαι ἐφ᾽ ὕβρει Δημητρίας μηδὲ
+r.8    τεκνοποιεῖσθαι ἐξ ἄλλης γυναικὸς μηδὲ κακοτεχνεῖν μηδὲν παρευρέσει μηδεμιᾶι Ἡρακλείδην εἰς Δημητρίαν·
+r.9    ἐὰν δέ τι ποιῶν τούτων ἁλίσκηται Ἡρακλείδης καὶ ἐπιδείξηι Δημητρία ἐναντίον ἀνδρῶν τριῶν , οὓς ἂν δοκιμάζωσιν
+r.10   ἀμφότεροι, ἀποδότω Ἡρακλείδης Δημητρίαι τὴν φερνὴν ἣν προσηνέγκατο δραχμῶν Α, καὶ προσαποτεισάτω ἀργυρίου Ἀλεξανδρείου δραχμὰς Α. ἡ δὲ πρᾶξις ἔστω καθάπερ ἐκ δίκης κατὰ νόμον τέλος ἐχούσης Δημητρίαι καὶ τοῖς μετὰ
+r.11   Δημητρίας πράσσουσιν ἔκ τε αὐτοῦ Ἡρακλείδου καὶ τῶν Ἡρακλείδου πάντων καὶ ἐγγαίων καὶ ναυτικῶν. ἡ δὲ συγγραφὴ
+r.12   ἥδε κυρία ἔστω πάντηι πάντως ὡς ἐκεῖ τοῦ συναλλάγματος γεγενημένου, ὅπου ἂν ἐπεγφέρηι Ἡρακλείδης κατὰ
+r.13   Δημητρίας ἢ Δημητρία τε καὶ οἱ μετὰ Δημητρίας πράσσοντες ἐπεγφέρωσιν κατὰ Ἡρακλείδου. κύριοι δὲ ἔσθωσαν Ἡρακλείδης καὶ Δημητρία καὶ τὰς συγγραφὰς αὐτοὶ τὰς αὑτῶν φυλάσσοντες καὶ ἐπεγφέροντες κατ᾽ ἀλλήλων. μάρτυρες
+r.14   Κλέων Γελῶιος, Ἀντικράτης Τημνίτης, Λῦσις Τημνίτης, Διονύσιος Τημνίτης, Ἀριστόμαχος Κυρηναῖος, Ἀριστόδικος
+r.15   Κῶιος.
+
+[TRANSLATION]
+# HGV-EN: In the reign of Alexander son of Alexander, in the seventh year, in the satrapship of Ptolemy, in the fourteenth year, in the month Dios. Marriage contract of Herakleides and Demetria. Herakleides (the Temnitan) takes as his lawful wife Demetria the Koan, a free man a free woman, from her father Leptines, Koan, and her mother Philotis, (Demetria) bringing clothing and ornaments to the value of 1000 drachmas, and Herakleides is to supply to Demetria all that is proper for a freeborn wife, and we shall live together wherever it seems best to Leptines and Herakleides consulting in common. If Demetria is discovered doing any evil to the shame of her husband Herakleides, she is to be deprived of all that she brought, but Herakleides shall prove whatever he alleges against Demetria before three men whom they both approve. It shall not be permitted for Herakleides to bring home another wife in insult of Demetria or to have children by another woman or to do evil against Demetria on any pretext. If Herakleides is discovered doing any of these things and Demetria proves it before three men whom they both approve, Herakleides shall give back to Demetria the dowry of 1000 drachmas which she brought and shall moreover forfeit 1000 drachmas of the silver coinage of Alexander. Demetria and those aiding Demetria to exact payment shall have the right to exact payment, as derived from a legally decided action, upon Herakleides himself and upon all Herakleides' property both on land and on water. This contract shall be normative in every respect, wherever Herakleides may produce it against Demetria, or Demetria and those aiding Demetria to exact payment may produce it against Herakleides, as if the agreement had been made in that place. Herakleides and Demetria shall have the right to keep the contracts severally in their own custody and to produce them against each other. Witnesses: Kleon, Gelan; Antikrates, Temnitan; Lysis, Temnitan; Dionysios, Temnitan; Aristomachos, Cyrenaean; Aristodikos, Koan.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

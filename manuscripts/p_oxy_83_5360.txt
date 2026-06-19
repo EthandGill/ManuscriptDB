@@ -1,0 +1,68 @@
+[META]
+id:       P.Oxy. 83.5360
+label:    P.Oxy. 83.5360
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     26 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (26 CE)
+# hgv-keywords: Vertrag — Pacht — Land
+tm:       21744
+source:   https://papyri.info/ddbdp/p.oxy;83;5360
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐμίσθωσεν Διονύσιος Θέωνος Παυσιρίωνι Ἀπολλωνίου Πέρσῃ τῆς ἐπιγονῆς εἰς τὸ ἐνεστὸς τρισ[καιδέκατον] ἔτος Τιβερίου Καίσαρος Σεβαστοῦ ἀπὸ
+r.2    [τῶν] [ὑπαρ]χόντων αὐτῷ ἐδαφῶν περὶ τὸ Ἴστρου
+r.3    [ἐποίκιον] [τ]ῆς μέσης τοπαρχίας τῶν κατ[ὰ] [τ]ὸ Ἄνω
+r.4    [Ἰσι]εῖον ἐκ τοῦ Πάτρωνος κλήρου ἀρούρας τρεῖς
+r.5    [ὥστε] [ξυλαμῆ]σαι ταύ[τα]ς ἀράκωι ἤ χόρτωι, ἀποτά[κτου] [πυροῦ ἀρταβῶν] τριῶν … β …
+r.6    … ονα …
+r.7    νότον. ἀ[κίνδυν]ον δὲ τὸ ἀπότα[κτον] [παντὸς] [κιν]δύνου. ἐ[ὰν] δέ τι πραχθῇ ὁ με[μισ]θωμένος
+r.8    εἰς τὸ δη[μ]όσιον ἤ εἰς ἄλλο τι [ὑπ]ὲρ Διονυσίου
+r.9    ἢ τῆς γῆ[ς] [ὑ]πολογείτω ἀπὸ τοῦ ἀ[π]οτάκτου. τῶν
+r.10   [δὲ] [κα]ρπ[ῶν] κυριευέτω Διονύσιος [κ]αὶ οἱ παρ’ αὐτοῦ
+r.11   [ἕ]ω[ς] [ἄν τὸ] [ἀ]πότακτο[ν] κομίσηται. τῆς δὲ μισθώσεως βεβαιουμέ[ν]ης ἀποδότω ὁ μεμισθωμένος τῷ Διονυσίῳ [τ]ὸ ἀπότακτον ἐν τῷ Παυνι
+r.12   μηνὶ τοῦ αὐτοῦ ἔτου[ς] ἐπὶ τῶν περὶ τὸ Τρύφωνος
+r.13   Ἰσιεῖον ἅλω[ν] πυρὸν νέο[ν] καθαρὸν ἄδολον ἄκριθον
+r.14   μέτρωι τε[τρ]αχοινίκω[ι] Ἀμμων[ίο]υ τοῦ Πτολεμαίου,
+r.15   ἢ ἀποτισάτ[ω] αὐτῷ τιμὴν ἑκάστη[ς] ἀρτάβης ἧς ἐὰν
+r.16   μὴ ἀποδ[ῷ] [ἀ]ργυρί[ου] [δ]ραχμὰς … , ἧς δ’ ἄν μ[ὴ]
+r.17   ξυλαμήσῃ [τὸ] ἐκφόρ[ιο]ν διπλοῦν, τοῦ δ’ ἐγκαταλιπεῖν τὴ[ν] [γε]ωργία[ν] χωρὶς τῶν προκειμένων
+r.18   ἐπίτιμον ἀργυρίου δραχμὰς ἑκατὸν καὶ εἰς τὸ δημόσιον τὰς
+r.19   ἴσας, καὶ ἡ π[ρ]ᾶξις ἔστω Διονυσίῳ ἔκ τε τοῦ μεμισθωμένου [κ]αὶ ἐξ οὗ ἐ[ὰν] αἱρῆται καὶ ἐκ τῶν ὑπαρχόντων αὐτῷ πάντων, καθάπερ ἐκ δίκης. κυρία
+r.20   ἡ μίσθωσ[ις.] ἔτους ιγ [Τι]βερίου Καίσαρος Σεβαστοῦ
+r.21   Φαωφι λ.
+r.22   Διονύσιος Θέωνος μεμίσθωκα καθότι πρόκειται.
+r.23   ἔτους ιγ Τ[ι]βερίου Καίσαρος Σεβαστοῦ Φαωφι λ.
+
+[TRANSLATION]
+# HGV-EN: ... the rent being free of all risk. If any demand be made upon the lessee for the government or for any other purpose on account of Dionysius or the land, the amount shall be deducted from the rent; and Dionysius and his agents shall retain the ownership of the crops until he recover the rent. The lease being guaranteed, the lessee shall pay to Dionysius the rent in the month Pauni of the said year at the threshing-floors of Isieum Tryphonis in wheat that is new, pure, unadulterated, and unmixed with barley, by the 4-choenix measure of Ammonius son of Ptolemaeus, or shall forfeit as the value of every artaba which he does not pay ... drachmae of silver and double the rent of the land sown with green produce, while the penalty for abandoning the cultivation, in addition to the amounts aforesaid, shall be 100 drachmae of silver and to the treasury an equal sum; and Dionysius shall have the right of execution upon the lessee or anyone he chooses and upon all his property as if in accordance with a legal decision. This lease is valid.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    

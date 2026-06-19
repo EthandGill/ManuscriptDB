@@ -1,0 +1,104 @@
+[META]
+id:       P.DIOSK 6
+label:    P.DIOSK 6
+name:     Contract — Herakleopolites
+genre:    contracts
+date:     146 BCE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Contract from Herakleopolites (146 BCE)
+# hgv-keywords: Eingabe an den Phrurarchen — Überfall — Prügelei — beide Parteien vermutlich in einen noch anhängigen Fall wegen Ehebruchs verstrickt
+tm:       44722
+source:   https://papyri.info/ddbdp/p.diosk;;6
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    Διοσκ[ουρίδει] ἡγεμόνι καὶ φρουράρχωι
+r.2    παρὰ Ἀρ[τεμιδώρ]ου καὶ Πρωτάρχου τῶν Ἀρτεμιδώρου Δωριέων
+r.3    οὗ ἐπιδ[εδώκ]αμεν ὑπομνήματος Τήρηι τῶν φίλων καὶ στρατηγῶι ὑπ[όκε]ιται τὸ ἀντίγραφον. ἀξιοῦμεν οὖν καὶ σὲ προνοηθῆναι
+r.4    περὶ τῶν ἐν αὐτῶι δεδηλωμένων· τούτου γὰρ γενομένου
+r.5    τευξόμεθα φιλανθρωπίας. εὐτύχει.
+r.6    Τήρηι τῶν φίλων καὶ στρατηγῶι
+r.7    παρὰ Ἀρτεμιδώρου καὶ Πρωτάρχου τῶν Ἀρτεμιδώρου Δωριέων.
+r.8    τῆι ϛ τοῦ Φαῶφι τοῦ λϛ ἔτους διαπορευομένων ἡμῶν τὴν ἀφʼ Ἡρακλέους πόλεως ἐπὶ τὸν ὅρμον ὁδὸν σὺν ἄλλοις ὁπηνίκα
+r.9    ἐγενόμεθα κατὰ τὴν πύλην τὴν φέρουσαν ἀπὸ τοῦ φρουρίου
+r.10   εἰς τὴν Ἡρακλέους, ἐπικαθήμενός τις πορείωι οὗ τὸ ὄνομα
+r.11   ἀγνο[οῦ]μεν ἐνέσεισεν τῶι ἑνὶ [ἡ]μῶν Ἀρτεμιδώρωι ἐπίτηδες,
+r.12   ὡς ἔστιν ἐκ τῶν εὐλόγων θεωρῆσαι, τοῦ γὰρ Ἀρτεμιδώρου ἐπιτιμήσαντος αὐτῶι καὶ γενηθέντων ἡμῶν ἐντὸς τῆς πύλης
+r.13   τοῦ ὀχυρώματος Κόσων τις καὶ Θυμολέων καὶ ἄλλοι ὧν τὰ ὀνόματα
+r.14   ἀγνοοῦ[με]ν ἐπιθέμενοι ἡμῖν καὶ τῶι συνακολουθοῦντι ἡμῖν
+r.15   Ἀνδρονίκωι μεθύοντες ἐμαστίγουν. ἔν[ι]οι μὲν ἐνσείοντες
+r.16   πλίνθους καὶ χάλικας, ἕτεροι δὲ ταῖς ἑαυτῶν χερσὶ καὶ τοῖς σκέλεσιν, ἄλλοι δὲ ἔδακνον. ἐγ δὲ τοῦ τοιούτου κινδυνευόντων
+r.17   ἡμῶν καὶ ἐπικαλουμένων βοηθοὺς καί τινων διὰ τὸν θόρυβον
+r.18   ἐπιπαραγενηθέντων καὶ βοηθησάντων τῆς τε τοῦ Κόσωνος
+r.19   καὶ Θυμολέ[ον]τος ἀγωγῆς ἐπὶ τὸν φρούραρχον γενομένης
+r.20   ἐπεκπηδήσασα Ἀμμωνία τίς τινα μὲν ὧν περιεβεβλήμεθα
+r.21   ἱματίων κατῃκίσατο, ἐν δὲ τῶι θορύβωι καὶ τὸ τοῦ Ἀνδρονίκου
+r.22   ἱμάτιον ἀπηλλάγη ἔχουσα. οἱ δὲ σὺν τοῖς περὶ τὸν Κόσωνα ὄντες
+r.23   εἰς φυγὴν ὥρμησαν. μετὰ δὲ τὸ παραδοθῆναι τοὺς διασαφουμένους
+r.24   Ἐπιμάχωι τῶι παρὰ τοῦ φρουράρχου ἐπιπαραγενηθέντες
+r.25   Νικόδημός τις καὶ Ἀσκληπιάδης καὶ ἄλλοι πλείονες ὡσαύτως
+r.26   μεθύοντες καὶ ἀκούσαντες ἔνδον εἶναι ἡμᾶς εἰσεβιάζοντο
+r.27   ἀλογῆσαι ἡμᾶς βουλόμενοι, τῶν δὲ δι[ὰ] τὸν θόρυβον ἐπισυναχθέντων ἐπιτιμησάντων αὐτοῖς καὶ καταστησάντων ἡμᾶς εἰς οἶκον
+r.28   οὕτως ἀπηλλάγησαν. αὐτοὶ δὲ τῶι ζῆν κεκινδυνευκότες
+r.29   καὶ καθυπονοοῦντες τὰ τῆς ἐπιθέσεως εἰς ἡμᾶς συντετελέσθαι ὑπὸ Ἀπολλωνίου τοῦ Ἡρακλείδου Ἀμμωνιέως χάριν
+r.30   τῆς ἐνεστώσης τῶι ἑνὶ ἡμῶν Πρωτάρχωι ἐπὶ Νικάνορος
+r.31   καὶ Ἀρχιάνακτος πρὸς τὴν γυναῖκα αὐτοῦ Χρυσοῦν καὶ τὸν
+r.32   μεμοιχευκ[ό]τα αὐτὴν Ἀπολλώνιον τὸν προγεγραμμένον
+r.33   ἐπισκέψεως κοὐ δυνάμενοι ἐπὶ τῶν
+r.34   τόπων τὸν πρὸς αὐτοὺς λόγον συνστήσεσθαι διὰ τὴν προειρημένην
+r.35   αἰτίαν ἀξιοῦμεν ἐὰν φαίνηται προνοηθῆναι ὡς οἱ μὲν διασαφούμενοι καὶ
+r.36   ἡ Ἀμμωνία ἀσφαλισθήσονται, τὸ δὲ
+r.37   ὑπόμνημα ἀναπεμφθῆναι ἐπὶ Νικάνορα
+r.38   καὶ Ἀρχεάνακτα ὅπως καὶ ἀπ[ὸ] τούτου ὁρμηθέντες ποιήσονται τὸν προσήκοντα λόγον.
+r.39   τούτου γὰρ γενομένου τευξόμεθα
+r.40   ἀντιλήψεως.
+r.41   εὐτυχεῖτε.
+
+[TRANSLATION]
+# HGV-EN: To Dioskourides, hêgemôn and phrourarchos, from Artemidoros and Protarchos, sons of Artemidoros, both Dorians. Of the petition which we submitted to Teres, tôn philôn and stratêgos, we have appended a copy. We ask that you take heed of its contents. For if this occurs, we will benefit from your kindness. Farewell. To Teres, tôn philôn and stratêgos, from Artemidoros and Protarchos, sons of Artemidoros, both Dorians. On the 6th of Phaophi, year 36, we were traveling along the path that leads from Herakleopolis to the harbor with others when we came to the gate that leads from the phrourion into the city. Someone sitting on a wagon, whose name we do not know, willfully attacked one of us, namely Artemidoros, in a manner defying all expectation. Artemidoros determinedly rebuked him, and we entered the gate of the ochyrôma. But then, a certain Koson and a certain Thymoleon and others, whose names we do not know, set upon us; and, drunk, they whipped Andronikos, who was travelling along with us. Some of them attacked us with bricks and rocks, while others employed hands and feet, and still others bit us. And we, in danger from such an attack, called out for help, and certain people who had arrived on account of the commotion assisted us. Koson and Thymoleon were consequently carted off to the phrourarchos, but after this a certain Ammonia set upon some of the cloaks we were wearing and mistreated them, and in the confusion she went off in possession of Andronikos’ cloak. Those who had accompanied Koson’s accomplices fled. After we had handed over the aforementioned to Epimachos, agent of the phrourarchos, a certain Nikodemos appeared, as did Asklepiades and many others. They were also drunk and had heard that we were within (the ochyrôma). They mistreated us, wishing to cause us harm; but those who had appeared on the scene because of the disturbance upbraided them and took us into a house, so they went away. We ourselves are in danger of our lives, and suspect that the attacks against us were orchestrated by Apollonios, son of Herakleides, an Ammonian, because of the present examination for one of us—namely Protarchos—before Nikanor and Archianax of his (i.e., Protarchos’) wife, Chrysous, and the aforementioned Apollonios, who has committed adultery with her. We are unable to deliver the appropriate account against them in the area for the aforementioned reasons. We ask, then, if it seems right to you, to see to it that, on the one hand, the aforementioned men and Ammonia are guarded, and that, on the other hand, our petition be sent up to Nikanor and Archianax, so that we, setting out from this (place?), may deliver the appropriate account. If this occurs, we will receive assistance. Farewell. (J. Bauschatz, Law and Enforcement, pp168–169)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    
+30    
+31    
+32    
+33    
+34    
+35    
+36    
+37    
+38    
+39    
+40    
+41    

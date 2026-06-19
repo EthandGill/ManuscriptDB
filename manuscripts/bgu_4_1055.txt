@@ -1,0 +1,74 @@
+[META]
+id:       BGU 4.1055
+label:    BGU 4.1055
+name:     Contract — Alexandria
+genre:    contracts
+date:     13 BCE
+language: Greek (Koiné)
+found:    Alexandria
+held:     Berlin
+shelf:    
+content:  Contract from Alexandria (13 BCE)
+# hgv-keywords: Vertrag — Darlehen — Geld — Klebeanweisung
+tm:       18499
+source:   https://papyri.info/ddbdp/bgu;4;1055
+lat:      31.201435
+lon:      29.909773
+
+[GREEK]
+r.1    κόλλημα
+r.2    Πρωτάρχωι
+r.3    παρὰ Ἀπολλωνίου τοῦ Ἡρακλείδου
+r.4    καὶ παρὰ Ἀμμωνίου τοῦ Ἀνουβίωνος Πέρσου τῆς ἐπιγονῆς
+r.5    περὶ τῶν διεσταμένων συγχωρεῖ ὁ Ἀμμώνιος ἔχειν παρὰ
+r.6    τοῦ Ἀπολλωνίου δάνειον διὰ χειρὸς ἐξ οἴκου ἀργυρίου Πτολεμαικοῦ δραχμὰς ξδ ἄτοκον, ὃ καὶ ἀποδώσειν ἐν μησὶν τρισ[ὶ]ν ἀπὸ ἕκτης τοῦ ἐνεστῶτος μηνὸς Φαρμοῦθι τοῦ ιζ ἔτους Καίσαρος διδοὺς ἐπάναγκες καθʼ ἑκάστην ἡμέραν ἐπὶ τοὺς τρε[ῖς]
+r.7    μῆνας σταμνὸν ὀκτωκαιδεκακότυλον γάλακτος βοείου ἀρεστοῦ μηδεμίαν
+r.8    ἡμέραν κοιλὴν ποιησάμενος,
+r.9    ἐφʼ ᾧ καὶ ὁ Ἀπολλώνιος ὑπολογήσει τὴν τοῦ σταμνοῦ τιμὴν ἐς
+r.10   τὸ προκίμενον κεφάλαιον ὀβολοὺς
+r.11   τέσσαρας μέχρι τοῦ πληρωθῆναι τὸ δάνειον, ἢ ἐφʼ ἧς ἐὰν ἡμέρας
+r.12   κοιλάνῃ ὁ Ἀμμώνιος τὴν τοῦ
+r.13   γάλακτος χορηγίαν εἶναι αὐτὸν παραχρῆμα ἀγώγιμον καὶ
+r.14   συνέχεσθαι μέχρι τοῦ ἐκτεῖσαι
+r.15   μὴ ἀναμείναντα τὸν μεμερισμένον αὐτῷ χρόνον τὸ ὅλον κεφάλαιον ἢ τὸ ἐνοφειληθησόμενον
+r.16   σὺν ἡμιολίᾳ, τοῦ δὲ ὑπερπεσόντος
+r.17   [χ]ρόνου τοὺς κατὰ τὸ διάγραμμα
+r.18   [τόκου]ς διδράχμους τῆς πράξεως
+r.19   γινομένης τῷ Ἀπολλωνίωι ἔκ τε
+r.20   αὐτοῦ Ἀμμωνίου καὶ ἐκ τῶν ὑπαρχόντων αὐτῷ πάντων καθάπερ ἐκ δίκης ἀκύρων οὐσῶν καὶ
+r.21   ὧν ἐὰν ἐπενέγκῃ πίστεων πασῶν
+r.22   σκέπης πάσης. τοῦτο δʼ ἐστὶν τὸ
+r.23   δάνειον ἐκτὸς ἑτέρων ὧν ὀφείλει ὁ αὐτὸς Ἀμμώνιος σὺν τῇ μητρὶ αὐτοῦ τῷ Ἀπολλωνίωι καθʼ ἑτέραν συγχώρησιν ἄλλων
+r.24   ἀργυρίου δραχμῶν ρ, ὧν καὶ ἐκπεπλήρωται
+r.25   τὸν τόκον ἕως τοῦ προκιμένου
+r.26   μηνὸς Φαρμοῦθι. ἔτους ιζ Καίσαρος Φαρ[μοῦθι] ε.
+
+[TRANSLATION]
+# HGV-EN: To Protarchos, from Apollonios, the son of Herakleides, and from Ammonios, the son of Anoubion, a Persian of the epigone. Concerning the points at issue, Ammonios agrees that he has received from Apollonios in cash and not through a bank as a loan: 64 Ptolemaic silver drachmas without interest, which (loan) he also agrees that he will pay back in three months from the present month Pharmouthi of the 17th year of Caesar (Augustus), by necessarily giving each day for the three months a jar of eighteen measures (BL1.93; almost 5 liters) of good quality cow’s milk, while skipping not a single day, on the condition that Apollonios on his part will deduct the value of the jar from the aforementioned balance, viz. four obols, until the loan is paid off, or else Ammonios agrees that on the day that he skips the supply of the milk he is immediately liable to seizure (Mitteis, Chrest.) and can be held under arrest until he pays the whole sum, without waiting for the time allotted to him, or what will remain of the debt (BL 1.93) along with half as much again and for the time that has gone beyond (the due date) the two drachmas (per 100 drachmas per month) interest in accordance with the statute, while the right of execution (of the claim) belongs to Apollonios from both Ammonios himself and from all his belongings just as if by virtue of a legal decision, while all safe-conducts (and) every kind of protection he adduces are ineffective. This loan is separate from the other (debt) the same Ammonios together with his mother owes Apollonios in accordance with another agreement: 100 drachmas, the interest of which he has fully paid until the aforementioned month Pharmouthi Year 17 of Caesar (Augustus), Pharmouthi 5.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    

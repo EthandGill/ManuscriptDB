@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 8.1102
+label:    P.Oxy. 8.1102
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     146 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     London
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (146 CE)
+# hgv-keywords: Bericht über einen Streit (Recht, Eigentum)
+tm:       21727
+source:   https://papyri.info/ddbdp/p.oxy;8;1102
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἀ[ντίγραφον] ἀ[π]οφάσεω[ς. ἔτους ] … Ἁθὺρ κα.
+r.2    … ρο … ω … υ … λιτι … ο …
+r.3    καὶ Σ … σου Ερη … συ … ς καὶ τῶν [σ]ὺ[ν] αὐτοῖς καὶ Εὐ[δ]αίμον[ο]ς καὶ
+r.4    Α … λ … χω … Κερεάλις ὁ [ἱε]ρεὺς καὶ ὑπομνηματογράφος
+r.5    σκ[εψ]άμ[ενο]ς μετὰ τῶν παρόντων ὑπηγόρευσεν ἀπόφασιν ἣ καὶ
+r.6    ἀνε[γνώσ]θη κατ[ὰ] λέξιν οὕτως ἔχουσα· ἀκολούθως οἷς ὁ κράτιστος
+r.7    καὶ φι[λαν]θρωπότατος ἡγεμὼν Οὐαλέριος Πρόκλος ἔκρινεν δοκεῖ μοι
+r.8    πρ[ο]σ[ῆκ]ον εἶναι τὸν Εὐδαίμονα μηδὲν τὰ ἀδελφοῦ παρειληφότα, ἐπεὶ ἅπαξ
+r.9    προσῆ[λθε] τῇ κληρονομίᾳ, τὸ τέταρτον τῆς οὐσίας εἰσενεγκεῖ[ν] ὑπὲρ τῆς γυμνασ[ι]αρχίας τῇ αὐτοῦ πατρίδι, ὑφαιρουμένης τῆς προικὸς τῆς προδεδομένης
+r.10   τῇ θυγ[ατρὶ.] περὶ δὲ τῆς ποσότητος ἐπεὶ πυνθανομένου μου οὐδὲν σαφὲς ἐδήλω[σ]ε[ν, ὁ τοῦ νομ]οῦ στρατηγὸς ἀκριβέστερον ἐξετάσει ᾗ κατοικεῖ, καὶ εἰ
+r.11   νε … τ … νῦν ἄρουραι κατὰ τοὺς νόμους καὶ τὰς ἀναγνωσθείσας μοι κρίσεις δοκοῦσιν τῇ συνγραφοδιαθήκῃ μὴ ὑποστέλλειν, μ … τ …
+r.12   αὗται τῇ πό[λ]ει χ[ω]ρήσουσιν. περὶ δὲ τῆς ἐνδομενείας καὶ τῶν ἀνδραποδίων ὑπὸ Νεοκύδους τοῦ γενομένου δικαιοδότου κέκριται. τῶν πρέσβεων ἀξιωσάντων ἐπὶ τῆς προσόδου τῶν ἀρουρῶν στῆναι ὁ ἱερεὺς καὶ ὑπομνηματογράφ[ο]ς· ἐνιαυ[τοῦ] τὰς προσόδους ἀπολήμψεται ἡ πόλις. Εὐδαίμονος διὰ τῶν παρεστώτων λέγοντος κατεσχῆσθαι αὐτοῦ τὰς προσόδους καὶ ἀξιώσαντος ἀπολυθῆναι αὐτὰς, ὁ ἱερεὺς καὶ ὑπομνηματογράφος· ἐπεὶ ἂν τὰ ὑπʼ ἐμοῦ κελευσθέν[τ]α γένηται, κ[α]ὶ ἡ πόλις τὸ προσῆκον μέρος κομίσηται, ἀπολυθή[σο]ν[τα]ι. τῶν πρέσβεων ἀξιωσάντων σταθῆν[α]ί τι καὶ περὶ τῶν ἐπʼ ὀ[νόματο]ς τῆς γυναικὸς τοῦ Ἀπολλωνίου, ὁ ἱερεὺς καὶ ὑπομνηματογράφος·
+r.13   [Νεο]κύδης … εργ[ο]ν περὶ τούτων ἀπεφήνατο. ἐξῆλθεν Σαραπίων
+r.14   [ἡγεμ]ον[ικὸς] ὑ[π]ηρέ[τ]ης Τρωγοδύτης. ἀνένγω[ν].
+
+[TRANSLATION]
+# HGV-EN: Copy of a judgement. ... year, Hathur 21. ... and ... and their associates and Eudaemon and ... being present, Cerealis, priest and recorder, having considered with those in attendance dictated a judgement which was read out as follows :— “In accordance with the decision of the most high and gracious praefect Valerius Proculus, I think it right that Eudaemon, without taking any of his brother’s property, having once entered on the inheritance, should contribute the fourth part of the estate to his native city for the gymnasiarchy, with a deduction of the dowry previously given to the daughter. With regard to the amount, seeing that in answer to my question he made no clear statement, the strategus of the nome shall hold a more exact inquiry in the place where he lives, and if the ... arourae appear not to come under the testamentary covenant according: to the laws and the decisions read to me, ... these arourae shall go to the city. With regard to the furniture and young slaves, a decision has been given by Neocydes, ex-juridicus.” The delegates having requested to remain in possession of the income of the arourae, the priest and recorder said: “The city shall receive the income of one year.” On Eudaemon’s declaring through his companions that his income had been impounded, and requesting that it should be released, the priest and recorder said: “As soon as my orders have been carried out, and the city has received its proper share, it shall be released.” The delegates having made a request for delay and also concerning the property standing in the name of the wife of Apollonius, the priest and recorder said: “Neocydes has delivered judgement ... about this. Sarapion, assistant of the praefect, Trogodyte, went out. Read by me.”
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

@@ -1,0 +1,92 @@
+[META]
+id:       P.ERASM 1.1
+label:    P.ERASM 1.1
+name:     Contract — Oxyrhyncha (Arsinoites)
+genre:    contracts
+date:     148 BCE – 147 BCE
+language: Greek (Koiné)
+found:    Oxyrhyncha (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Oxyrhyncha (Arsinoites) (148 BCE – 147 BCE)
+# hgv-keywords: Eingabe — Miete ist schon bezahlt — aber Vermieter versucht mit Gewalt — eine zweite Zahlung zu verlangen
+tm:       5048
+source:   https://papyri.info/ddbdp/p.erasm;1;1
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    βασιλεῖ Πτολεμαίωι καὶ βασιλίσσηι Κλεοπάτραι
+r.2    τῆι ἀδελφῆι θεοῖς Φιλομήτορσι χαίρειν Ἁρενδώτης
+r.3    Πετεύριος ὑμέτερος γεωργὸς τῶν κατοικούντων
+r.4    ἐν Ὀξυρύγχοις τῆς Πολέμωνος μερίδος τοῦ
+r.5    Ἀρσινοίτου. τοῦ λδ ἔτους μισθωσαμένου μου
+r.6    παρὰ Ἡρακλείδου τοῦ Ἡρακλείδου φυλακίτου δεκαρούρου
+r.7    τῶν ἀποτεταγμένων ἐπὶ τοὺς ἐν Πτολεμ[α]ί[δ]ι [κατα]μεμετρημένους ἀρούρας … γῆς σιτοφόρου ὑπὲρ ὧν
+r.8    λόγους πρὸς τὸν Ἡρακλείδην ποιουμένου μου
+r.9    ἠξίωσεν προδοῦναι αὐτῶι τὰ γινόμενα αὐτῶι
+r.10   ἐκφόρια τοῦ αὐτοῦ ἔτους εἰς τὴν ἀνάλυσιν τοῦ κατʼ ἐμοῦ … κου
+r.11   … [ χρη]ματισμοῦ καὶ ἔτους …
+r.12   μ … φορω[ν] …
+r.13   μεταβολὴν ἔχειν τοῦ ἀπενέγκασθαι εἰς τὴν οἰκίαν
+r.14   προδεδωκὼς αὐτῶι καὶ ἀνηλωκὼς κατὰ χειμῶνα τὰ ἐκφόρια
+r.15   ἐπελθὼν ὁ Ἡρακλείδης καὶ ἀθετήσας τὴν
+r.16   ἐν ἀνθρώποις ὑπάρχουσαν πίστιν καὶ …
+r.17   προσλαβόμενός τε σύνεργον Ὡρίωνα τὸν ἀπὸ Ὀξυρύγχων
+r.18   ἀρχιφυλακίτην ἐκώλυσάν με καὶ ὃν πρότερον εἴασάν με
+r.19   ἀπενέγκασθαι εἰ μὴ ὁ Ὡρίων ἠνάγκασέ με σύμβολα τῶι
+r.20   Ἡρακλείδηι προέσθαι αὐτῶι ἐπιστολὴν περὶ τοῦ θήσειν τὰ ἐκφόρια
+r.21   ἐν παραθέσει. ὑπὲρ μὲν ὧν βουλομένου μου τὸν προσήκοντα λόγον πρὸς αὐτοὺς ποιήσασθαι ὁ αὐτὸς
+r.22   Ἡρακλείδης καὶ Ὡρίων ἐπιπορευόμενοι ἐπὶ τὴ[ν]
+r.23   οἰκίαν μου ποιοῦνται ἐνεχυρασίας πράσοντες ἐμὲ
+r.24   ἐκ δευτέρας τὰ ἐκφόρια. οὐ καθῆκον ἀρνοῦνται
+r.25   περὶ συμβολαίων διακούειν ἅ τε ἐν χρηματισμῶι
+r.26   διεξάγεσθαι καὶ τοῦτο κατʼ ἐμὲ ποιήσαντες τὰς
+r.27   ἐπὶ τῶν τόπων κα … ονας τέρπειν διʼ ὧν ἐπάναγκον
+r.28   τὴν ἐφʼ ὑμᾶς καταφυγὴν πεποιημένος δέομαι
+r.29   ὑμῶν ἀποστεῖλαί μου τὴν ἔντευξιν ἐπὶ τοὺς τὰ ἰδιωτικὰ
+r.30   κρίνοντας χρηματιστὰς ὧν εἰσαγωγεὺς Ἁρμόδιος
+r.31   ὅπως διαλέξαντες αὐτὴν εἰς κατάστασιν καὶ ἀνακαλεσάμενοι τόν τε Ἡρακλείδην καὶ Ὡρίωνα δι[ὰ Θ]εοδώρου τοῦ τῆς
+r.32   κώμης ἐπιστάτου προστάξωσιν [α]ὐτοῖς μὴ περισπᾶν
+r.33   με ἐπὶ τὸ μὴ κλοπῶν ἄρχειν μηδʼ εἰσβιάζεσθαι εἰς τὴν
+r.34   οἰκίαν μου καὶ τὸ ἐνεχυράζειν τρόπωι μηδενὶ ανται… ν τὰς ἐντεύξεις τυχεῖν τοῦ … α
+r.35   εὐτυχεῖτε.
+
+[TRANSLATION]
+# HGV-EN: To king Ptolemy and queen Kleopatra the sister, mother-loving gods, greetings, Harendotes, son of Peteuris, your farmer, of those dwelling in Oxyrhyncha of the Polemon meris of the Arsinoite (nome). In year 34 I leased from Herakleides, son of Herakleides, 10-aroura phylakitês of those assigned to the allotments measured out in Ptolemais, [ --- ] arourai of land for growing grain. I spoke with Herakleides concerning this plot, and he asked that I give him in advance the rents for the purpose of the release of my… the commandment… made (?) a change by (?) forcing (his way?) into my house. I had already given him the rents in the winter, but Herakleides, arriving and breaking faith with the trust that adheres among men, and… taking as his accomplice Horion, the archiphylakitês from Oxyrhyncha, they hindered me from taking away (the produce) which they had previously agreed that I could (take), but Horion forced me to give him an agreement in which I promised I would give him a letter in which I said that I would put the produce in storage. And though I want to have the appropriate discussion about these matters with them, this same Herakleides and Horion now come to my house seeking pledges that they can get the rents from me a second time. Inappropriately, they refuse to listen (to me) about the pledges and to carry out the things in the commandment, and having done these things to me, (they refuse) to (let me?) enjoy the… in the area. Thus, they have forced me to flee to you. I ask that you send my petition to the chrêmatistai who judge private matters, whose eisagôgeus is Harmodios, so that they may receive it for trial, and summon Herakleides and Horion via Theodoros, epistatês of the village, and command them not to strip me, so as to prevent them from initiating thefts, nor to force their way into my house, nor to take pledges in any manner… the petitions to meet with…. Farewell. (J. Bauschatz, Law and Enforcement, pp172–173)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    
+30    
+31    
+32    
+33    
+34    
+35    

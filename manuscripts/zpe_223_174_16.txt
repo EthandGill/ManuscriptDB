@@ -1,0 +1,58 @@
+[META]
+id:       ZPE 223.174_16
+label:    ZPE 223.174_16
+name:     Contract — Hermopolis
+genre:    contracts
+date:     642 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     London
+shelf:    
+content:  Contract from Hermopolis (642 CE)
+# hgv-keywords: Vertrag — Pacht — Wein — Wasserrad — Brot
+tm:       39594
+source:   https://papyri.info/ddbdp/zpe;223;174_16
+lat:      31.037798
+lon:      31.379406
+
+[GREEK]
+r.1    [ ἐν ὀ]νόματι τῆς ἁγίας καὶ ζωοπο[ι]οῦ καὶ ὁμοουσί[ου τριάδος πατρὸς καὶ υἱοῦ καὶ ἁγίου πνεύματος. ἐγράφη] …
+r.2    [τῆς] παρούσης τρίτης ἰνδικτίονος, ἐν Ἑρμουπόλει τῆς Θηβαΐ[δος.] [ ] …
+r.3    … νγο … ρῳ τῷ περιβλέπτῳ χαρτουλαρίῳ υἱῷ … [παρὰ]
+r.4    [Τ]αυρίνου [τοῦ] ὑμετέρου ἐποικιώτου ἀπὸ το[ῦ] ὑμετέρ[ου κτήματος καλουμένου] … [ὁμολογῶ ἑκουσίως]
+r.5    [καὶ] αὐθαιρέτως μεμισθῶσθαι παρ’ ὑμῶν ἐπὶ … [-έτη χρόνον λογιζόμενον ἀπὸ καρπῶν τῆς σὺν θεῷ εἰσιούσης τετάρτης]
+r.6    [ἰν]δικτίονος καὶ [αὐτῆς] καὶ ἐφεξῆς τὰ διαφέροντα κ …
+r.7    [ἰνδ]ικτίονος … ε … ἀρ[ουρ]ῶν ὅσων εἰσὶν σὺν φυτ[οῖς] …
+r.8    [καὶ] ξυλικῷ ὀργάνῳ ἐξηρτισμένῳ πάσῃ ἐξα[ρτίᾳ καὶ] … [διακείμενα]
+r.9    [ἐν] τῷ ὑμετέρῳ κτήματι καλουμέν[ῳ] …
+r.10   Ἑρμουπολίτου νομοῦ πρὸς χειρικήν κ[α]ὶ [ἀμπελουργικὴν ἐργασίαν καὶ] …
+r.11   καὶ καλαμοστασίαν καὶ καλαμουργίαν καὶ … [καὶ τοὺς]
+r.12   [φ]ραγμοὺς ἐκ τετραγώνων το … ποιήσα[σθαι] …
+r.13   [ὑπ]ὲρ μισθοῦ ἑκάστης ἀρούρης ε … παρ …
+r.14   … καὶ ἐπὶ καρπῶν τῆς σὺν θεῷ εἰ[σ]ιούσης τετ[άρτης] [ἰνδικτίονος] …
+r.15   καὶ ἐφεξῆς, ἐφ ᾧ ὑμᾶς λαβεῖν τὸ τρ[ί]τον μέρος … [καὶ ἐμὲ μετὰ τοῦ] … [δέξασθαι τὸ ἄλλο] [δίμοιρον]
+r.16   [μ]έρος ἀνθ’ ὧν ποιούμεθα καμάτων, παρέξω δὲ …
+r.17   … ων καὶ οἴνου παλαιοῦ ἀγγεῖα μεγάλα δεκ[α] …
+r.18   [κ]αὶ ψωμίων ζεύγη ἑκατὸν καὶ ἐλαίου ξεστία …
+
+[TRANSLATION]
+# HGV-EN: [In] the name of the holy and life-creating and consubstantial [trinity of the Father, the Son, and the Holy Spirit. It was written on (month, day)] of [the] present third indiction in Hermopolis of the Thebaid. To N.N., spectabilis chartularius, son of N.N. … [from] Taurinus, your hamleteer from your [property called N.N. I acknowledge freely and] of my own will that I have leased from you for [a period of n years, reckoned from the crops of the (God willing) coming fourth] indiction inclusive and thereafter, the new plantations(?) belonging [to you] … of however many arouras they are, including [various] plants [… and] a wooden waterwheel fitted with all fixtures [and … situated in] your property called N.N. … of the Hermopolite nome, for manual [vine-dressing labour and …] and the fixing of vine-poles and the arrangement of reeds [and] to make fences(?) on all four sides … for wages for each aroura … at the crops of the (God willing) coming fourth [indiction …] and thereafter, on the condition that I (read: you) take the third share [of the yield of wine, while I along with the irrigator(?) receive the other two-thirds(?)] share in exchange for our toil; and I shall provide [each year …] and ten(?) large angeia of old wine … and one hundred pairs of loaves and n sextarii of oil …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

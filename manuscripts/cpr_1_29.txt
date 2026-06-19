@@ -1,0 +1,54 @@
+[META]
+id:       CPR 1.29
+label:    CPR 1.29
+name:     Contract — Ptolemais Euergetis (Arsinoites)
+genre:    contracts
+date:     184 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Ptolemais Euergetis (Arsinoites) (184 CE)
+# hgv-keywords: Vertrag — Heirat — Darlehen
+tm:       9859
+source:   https://papyri.info/ddbdp/cpr;1;29
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    ἔ[τους] τετάρ[του κα]ὶ εἰκοσ[τοῦ Αὐ]τοκράτο[ρος]
+r.2    [Καί]σαρος [Μάρκου] Αὐρηλί[ου Κ]ομμόδου [Ἀν]τωνείν[ου Σ]εβα[σ]τοῦ Ἀρμενιακοῦ Μ[ηδικοῦ]
+r.3    [Πα]ρθι[κοῦ Σ]αρματικοῦ [Γερ]μ[α]νικοῦ [μ]εγίστου [μη][νὸ]ς Δύ[στρ]ου Τῦβι ιβ [ἐν Πτο]λεμαίδι Εὐερ[γέτιδι τοῦ]
+r.4    Ἀρσιν[ο]είτου νομ[οῦ· ὁμολ]ογεῖ Ἁρποκρατ[ί]ων Δη[μη]τρίου [το]ῦ Ἥρων[ος ἀπὸ] τῆς μητροπόλεως [ἀνα]γραφόμ[εν]ος ἐπʼ [ἀμφόδου] Φρέμει ὡς ἐτῶν εἴκ[οσι οὐ]λὴ ἀντικνημίῳ δεξ[ιῷ ][Ἰ]σιδώρᾳ Ἐπαγάθους ὡς [ἐτῶν]
+r.5    δέκα ὀκτὼ οὐλὴ [κ]ανθῷ ὀφθαλμοῦ δεξιοῦ μετ[ὰ] κυ[ρίου]
+r.6    τοῦ ὁμοπατρίου καὶ ὁμομητρίου αὐτῆς ἀδελφοῦ Θέ[ω]νος ὡς ἐτῶν τεσσεράκοντα ἄσημος· ἔχειν τὸν ὁμολογοῦντα Ἁρποκρατίωνα παρὰ τῆς Ἰ[σι]δώρας παραχρῆμα διὰ χειρὸς ἀργυ[ρ]ίου δραχμὰς ὀκτακοσίας παραθήκην ἀκίνδυνον παν[τὸ]ς κινδύνου καὶ ἀνυπόλογον
+r.7    παντὸς ὑπολόγου ἣν καὶ ἀποδώσει αὐτῇ ὁπηνίκα
+r.8    ἐὰν αἱρῆται ἄνευ πάσης ὑπερθέ[σε]ως καὶ κρίσεως καὶ εὑ[ρη]σιλογίας, [γ]ινομένη[ς αὐτῇ] τῆς πράξεως ἔκ τε τοῦ Ἁρποκρατίωνος κα[ὶ ἐ]κ τῶν [ὑ]παρχόντω[ν α]ὐτῷ πάντων καθάπερ ἐ[κ] δίκης. ὑπογραφεῖς το[ῦ μ]ὲν Ἁρποκρατίωνος φαμένου μὴ εἰδέναι
+r.9    γράμματα Δίδυμος Ἥρωνος ὡς ἐτῶν τριά[κον]τα
+r.10   ἓξ ἄσημος, τῆς δὲ Ἰσιδώρας καὶ τοῦ κυρίου ὁμ[ο]ίως
+r.11   ἀγραμμάτου Πτολλᾶς Διδᾶ ὡς ἐτῶν μβ ἄσημος.
+r.12   Ἁρποκρατίων Δημητρίου ὁμολογῶ ἔχειν παρὰ τῆς Ἰσιδώρας
+r.13   τὰς τῆς παραθήκης δρ[α]χμὰς ὀκτακοσίας ὀκτὼ καὶ ἀποδώσω
+r.14   ὁπηνίκα ἐὰν αἱρῆται ἀνυπερθέτως καθὼς πρόκιται· Δίδυμος Ἥρωνος ἔγραψα ὑπὲρ αὐτοῦ ἀγραμμάτου. Ἰσιδώρα
+r.15   Ἐπαγάθου μετὰ κυρίου τοῦ ἀδελφοῦ Θέωνος· γέγονε εἴς με ἡ παραθήκη καθὼς πρόκιται· Πτολλᾶς Διδᾶ ἔγρα[ψ]α ὑπὲρ αὐτῶν ἀγραμμάτων.
+r.16   [σε]σημείωμαι Τῦβι ιβ
+
+[TRANSLATION]
+# HGV-EN: In the twenty-fourth year of Imperator Caesar Marcus Aurelius Commodus Antoninus Augustus Armeniacus Medicus Parthicus Sarmaticus Germanicus Maximus, in the month Dystros, Tybi 12, in Ptolemais Euergetis, in the Arsinoite nome. Harpokration, son of Demetrios, grandson of Heron, from the metropolis, registered in the quarter of Phremei, about twenty years old with a scar on his right shin, acknowledges to Isidora, daughter of Epagathos, about eighteen years old, with a scar on the corner of her right eye, with her brother as her guardian, born from the same father and mother, about fourty years old without distinguishing marks: that Harpokration, the acknowledging party, has received a deposit of eight hundred drachmas of silver, from Isidora, forthwith from hand to hand, free of all risk and subject to no claim of any reduction, which he will give back to her whenever she chooses, without any delay and dispute and subterfuge, she having the right of execution on Harpokration, and all his property as if in accordance with a legal judgement. Signatories: for Harpokration, who declares he does not know letters, Didymos, son of Heron, about thirty-six years old, without distinguishing marks, and for Isidora and her guardian, likewise illiterate, Ptollas, son of Didas, about 42 years old without distinguishing marks. (Hand 2) I, Harpokration, son of Demetrios, acknowledge to have received the eight hundred and eight drachmas of the deposit from Isidora, and I will give them back whenever she chooses, without delay, as aforesaid. I, Didymos, son of Heron, have written this on his behalf, as he is illiterate. (Hand 3) I, Isidora, daughter of Epagathos, with her brother Theon as her guardian: the deposit was made in regard to me, as aforesaid. I, Ptollas, son of Didas, have written on their behalf, as they are illiterate. I have signed, Tybi 12.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

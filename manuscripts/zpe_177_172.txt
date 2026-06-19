@@ -1,0 +1,74 @@
+[META]
+id:       ZPE 177.172
+label:    ZPE 177.172
+name:     Letter — Schreibort: Alexandria ? (Ägypten); Zielort: Berenikes Hormos (Heliopolites, Ägypten); Fundort: Philadelpheia (Arsinoites, Ägypten)
+genre:    letters
+date:     257 BCE
+language: Greek (Koiné)
+found:    Schreibort: Alexandria ? (Ägypten); Zielort: Berenikes Hormos (Heliopolites, Ägypten); Fundort: Philadelpheia (Arsinoites, Ägypten)
+held:     Cairo
+shelf:    
+content:  Letter from Schreibort: Alexandria ? (Ägypten); Zielort: Berenikes Hormos (Heliopolites, Ägypten); Fundort: Philadelpheia (Arsinoites, Ägypten) (257 BCE)
+# hgv-keywords: Brief (privat) — Zoilos an Apollonios — Bittschrift — Tempel — Gründung — Krankheit
+tm:       694
+source:   https://papyri.info/ddbdp/zpe;177;172
+lat:      31.201435
+lon:      29.909773
+
+[GREEK]
+r.1    Ἀπολλωνίωι χαίρειν Ζωίλος Ἀσπέν[δ]ιος τ … ,
+r.2    ὃς καὶ διασυνεστάθη σοι ὑπὸ τῶν τοῦ βασιλέως φίλων. ἐμοὶ συμβέβηκεν
+r.3    θεραπεύοντι τὸν θεὸν Σάραπιν περὶ τῆς σῆς ὑγιείας καὶ εὐημερίας τῆς
+r.4    πρὸς τὸμ βασιλέα Πτολεμαῖον τὸν Σάραπίμ μοι χρηματ[ί]ζ[ει]ν πλε[ο]νάκι[ς]
+r.5    ἐν τοῖς ὕπνοις, ὅπως ἂν διαπλεύσω πρὸς σὲ καὶ ἐμφ[α]νί[σω] σοι τόνδε τὸ[ν]
+r.6    χρηματισμόν, ὅτι δεῖ συντελεσθῆναι αὐτῶι … [ναόν τε]
+r.7    καὶ τέμενος ἐν τῆι Ἑλληνικῆι πρὸς τῶι λιμέν[ι] κα[ὶ] ἱ[ερέα] ἐπιστατεῖν κ[αὶ]
+r.8    ἐπιβωμίζειν ὑπὲρ ὑμῶν. ἐμοῦ δὲ π[α]ρ[αιτησαμένου τὸν θεὸν Σάραπιν]
+r.9    ὅπως ἄμ με παραλύσηι τοῦ ἐνταῦθα ἔρ[γου], εἰς ἀρρωσ[τ]ία[ν] μ[ε π]εριέβαλεν
+r.10   μεγάλην ὥστε καὶ κινδυνεῦσαί με· προσευξάμενος δ[ὲ] αὐ[τῶι, ἐ]ά[μ με]
+r.11   ὑγιάσηι, διότι ὑπομενῶ τὴν ληιτο[υρ]γίαν καὶ ποιή[σει]ν τὸ ὑφʼ αὑτοῦ
+r.12   προστασσόμενον, ἐπεὶ δὲ τάχιστα ὑγιάσθην, παρεγένετό τις ἐκ Κνίδου
+r.13   ὃς ἐνεχείρησεν οἰκοδομεῖν Σαραπιεῖον ἐν τῶι τόπωι τούτωι καὶ προσαγηγόχει λίθους· ὕστερον δὲ ἀπεῖπεν αὐτῶι ὁ θεὸς μὴ οἰκοδομεῖν, κἀκεῖνος
+r.14   ἀπηλλάγη. ἐμοῦ δὲ παραγενομένου εἰς Ἀλεξάνδρειαν καὶ ὀκνοῦντός σοι
+r.15   περὶ τούτων ἐντυχεῖν, ἀλλὰ περὶ πραγματείας ἧς καὶ ὡμολογήκεις μοι,
+r.16   πάλιν ὑπετροπάσθην μῆνας τέσσερας· διὸ οὐκ ἠδυνάμην εὐθέως παραγενέσθαι πρὸς σέ. καλῶς οὖν ἔχει, Ἀπολλώνιε, ἐπακολουθῆσαί σε τοῖς ὑπὸ τοῦ
+r.17   θεοῦ προστάγμασιν, ὅπως ἂν εὐίλατός σοι ὑπάρχων ὁ Σάραπις πολλῶι σε
+r.18   μείζω παρὰ τῶι βασιλεῖ καὶ ἐνδοξότερον μετὰ τῆς τοῦ σώματος ὑγιείας
+r.19   ποιήσηι. σὺ οὖν μὴ καταπλαγῆις τὸ ἀνήλωμα ὡς ἀπὸ μεγάλης σοι δαπάνης
+r.20   ἐσόμενον, ἀλλʼ ἔσται σοι ἀπὸ πάνυ λυσιτελοῦντος· συνεπιστατήσω γὰρ ἐγὼ πᾶσι
+r.21   τούτοις.
+r.22   εὐτύχει.
+r.23   Ζωίλου περὶ Σαράπιος Ἀπολλωνίωι.
+r.24   ἔτους κη, Αὐδναίου θ,
+r.25   ἐν τῶι Βερενίκης
+r.26   Ὅρμωι.
+
+[TRANSLATION]
+# HGV-EN: Zoilos of Aspendos, [from the entourage, military unit or association of?], who was recommended to you by the Friends of the King, greets Apollonios. It happened to me as I was paying worship to the god Sarapis on behalf of your health and success with King Ptolemy that Sarapis instructed me again and again in my sleep that I should sail over to you and inform you of this oracle that there must be constructed for him [a temple (?)] and sacred precinct in the Greek (marketplace/ neighborhood ?) near the harbor and a priest must preside and sacrifice at the altar on behalf of you (and your household?). Because I implored [the god Sarapis (?)] that he excuse me from this work (?), he visited upon me an illness so great that I was in danger of my life. When I had offered up prayers to him, that if (?) he should heal [me] I would perform this service and do what had been ordered by him, and when I quickly had recovered, a certain individual from Knidos appeared who undertook to build a Sarapieion in that place and brought in stones; thereupon, however, the god forbade him from building, and he left. When I had come to Alexandria and hesitated to talk to you concerning these matters instead of the business matters which you had agreed to with me, once again I suffered a relapse that lasted for four months, on account of which I was unable to come to you right away. Therefore, Apollonios, it would be good for you to heed the god's commands so that Sarapis will be merciful to you and greatly enhance your status with the king and give you good health. So, do not be disheartened about the cost, as will arise from a great expenditure by you - on the contrary, it will be altogether profitable for you, for I will jointly supervise everything. Farewell. From Zoilos, concerning Sarapis. To Apollonios. Year 28, Audnaios (February 12/13, 257 B.C.), at Berenikes Hormos.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    

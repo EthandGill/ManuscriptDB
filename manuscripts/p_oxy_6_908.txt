@@ -1,0 +1,88 @@
+[META]
+id:       P.Oxy. 6.908
+label:    P.Oxy. 6.908
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     199 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (199 CE)
+# hgv-keywords: Vertrag zwischen Eutheniarchen — Betreibung von Mühlen zur Bereitstellung von Brot
+tm:       20371
+source:   https://papyri.info/ddbdp/p.oxy;6;908
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Σαραπίων ὁ καὶ Ὡρείω[ν ] …
+r.2    ωνος διὰ τοῦ κατὰ πατ[έρα πάπ]που Ἀπίωνος γυμνα[σ]ιαρχήσαντος τῆς Ὀξυρυγχειτῶν
+r.3    πόλεως νυνὶ εὐθηνιάρχης
+r.4    τῆς αὐτῆς πόλεως Τιβερίῳ
+r.5    Κλαυδίῳ Διδύμῳ καὶ ὡς χρηματίζει τῶν ἀπὸ τοῦ Διονυσείου
+r.6    καὶ τῆς ἱερᾶς συνόδου ἱερονικῶν ἀτελῶν καὶ Θέωνι τῷ
+r.7    [καὶ Ἀν]τιμάχῳ καὶ Διονυσίῳ τῷ καὶ
+r.8    … [ κ]αὶ Ἀχιλλεῖ τῷ καὶ Ἰσιδώρῳ
+r.9    [ἐξη]γητεύσαντι καὶ Ὡρείωνι
+r.10   [τῷ κ]αὶ Βερενεικιανῷ ἐξηγη[τεύ]σαντι τοῖς ε γυμνασιάρ[χαις] καὶ εὐθηνιάρχαις τῆς αὐτῆς
+r.11   [Ὀξυ]ρυγχειτῶν πόλεως χ[αίρ]ειν.
+r.12   [συ]νεθέμην πρὸς ὑμᾶς νῦν
+r.13   εὐθηνιαρχοῦντας ἀπ[ὸ λ] τοῦ ὄν[τος] μηνὸς Παῦνι ἕως κθ τοῦ
+r.14   [ἑ]ξῆς μηνὸς Ἐπεὶφ τοῦ ἐνεστῶ[τος] ζ ἔτους ὥστε ὑφʼ ἑκάστου ὑμῶν
+r.15   ἀρτοκοπεῖον ἓν ἀπαρτισθῆναι
+r.16   … ησιε … τρεφόντων ὑμῶν τὰ
+r.17   [κ]τήνη χόρτῳ τε καὶ κριθῇ ἐπὶ τῷ
+r.18   [ἀ]λήθειν τ[ὰ κτ]ήνη ἡμερησίως καθʼ ἕκαστον ἐρ[γ]αστήριον μέχρι πυρ[οῦ]
+r.19   ἀρταβῶν ε[ἴ]κοσι … ασαρ … [ χο][ρηγ]οῦντος τὰ ἐν ἑκάστῳ ἐργαστηρί[ῳ]
+r.20   κ[τ]ήνη κατὰ τὸ σ … λωκαμε
+r.21   … ὑμῶν … σανμασυου … π[α][ρ]έχειν ἓν ἐργαστή[ρ]ι[ν] τὸν …
+r.22   … νερπ ἐμοῦ παρ[έ]χον[τ]ος τροφὰς …
+r.23   [ἀ]λήθοντας πρὸς τὸ … [ἐργ]αστήριον τὰ[ς]
+r.24   ἴσας ἡμερησίως υ … [ ἀρτάβας]
+r.25   εἴκοσι , οὐκ ἐξόντος [οὐδενὶ] ἡμῶν [π]α[ρα][βα]ίνειν τὰ προγεγραμμ[ένα. κ]ύρι[α] ταῦ[τ]α
+r.26   τὰ γράμματα ἑξασσὰ γραφέν[τα] πρὸς [τὸ ἑ]κάτερον ἡμῶν ἔχειν μοναχόν. ἔτους ζ
+r.27   Αὐτοκρατόρων Καισάρων Λουκίου
+r.28   Σεπτιμίου Σεουήρου Εὐσεβοῦς Περτίνα[κος]
+r.29   Ἀραβικοῦ Ἀδιαβ[η]νικοῦ Παρθικοῦ Μεγίστου
+r.30   καὶ Μάρκου Αὐρηλίου Ἀντωνίνου Σεβαστῶν.
+r.31   Παῦνι κη. Σαραπίων [ὁ] καὶ Ὡρεί[ων]
+r.32   διʼ ἐμοῦ Ἀπίωνος π[ά]ππου
+r.33   εὐδοκῶ πᾶσιν τοῖς προκειμένοις.
+
+[TRANSLATION]
+# HGV-EN: Sarapion also called Horion, son of ... on, through his paternal grandfather Apion, ex-gymnasiarch of Oxyrhynchus, at present eutheniarch of the said city, to Tiberius Claudius Didymus and however he is styled, a victor in the games and exempt from taxation, member of the Dionyseum and the sacred club, and to Theon also called Antimachus and Dionysius also called ... and Achilles also called Isidorus, ex-exegetes, and Horion also called Berenicianus, ex-exegetes, all five gymnasiarchs and eutheniarchs of the said city of Oxyrhynchus, greeting. I have made a compact with you being now eutheniarchs from the (30th?) of the present month Pauni till the 29th of the following month Epeiph in the current 7th year, that one bakery be fitted out by each of you ... the animals being fed by you with grass and barley, on the understanding that they grind daily in each factory as much as 20 artabae of wheat .. . supplying the animals in each factory ... to provide one factory, the fodder being provided by me, and we shall grind at (this) factory an equal amount daily, namely 20 artabae; and it shall be unlawful for any of us to transgress the aforesaid conditions. This contract, done in six copies in order that each of us may have one, is valid.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    
+30    
+31    
+32    
+33    

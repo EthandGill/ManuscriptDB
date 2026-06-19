@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 6.900
+label:    P.Oxy. 6.900
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     321 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (321 CE)
+# hgv-keywords: Eingabe — Aurelius Diokoros an den Logistes Valerius Dioskurides alias Iulianus — Treiber (Esel) der Schnell - Post soll gemahnt werden — damit er im folgenden Jahr nicht für Versäumnisse in seiner Liturgie haftbar gemacht wird
+tm:       20366
+source:   https://papyri.info/ddbdp/p.oxy;6;900
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ὑπατεί[α]ς τῶν δεσπ[οτῶν ἡμῶν Λικινίου Σεβαστοῦ τὸ ϛ καὶ Λικινίου]
+r.2    τοῦ ἐπιφανεστάτου Καίσαρος τὸ β …
+r.3    Οὐαλερίῳ Διοσκουρίδῃ τῷ καὶ Ἰουλιανῷ λο[γιστῇ Ὀξυρυγχίτου]
+r.4    παρ[ὰ] Αὐρηλίου Διοσκόρου Σιλβανοῦ ἄρξαντος βου[λευτοῦ] τῆς λ[αμπρᾶς][ καὶ λαμπροτάτης]
+r.5    Ὀξυρυγχειτῶν πόλεως. πραιποσίτου μου ὄντος πατριμωναλίων
+r.6    δεκάτου πάγου τοῦδε τοῦ νομοῦ ὑποβληθέντος ἔτι εἰς κονδουκτορίαν
+r.7    τοῦ ὀξέος δρόμου τοῦ εὐτυχῶς εἰσιόντος ἔτους, καὶ ἐχρῆν τοίνυν τοὺς ἐξ ἔθους
+r.8    ταύτην τὴν χώραν ἀποπληροῦντας ὑπὲρ τῶν ἐνιαυσίως εἰς τοῦτο ὑπ[ο]βαλλομένων ὑπακούειν καὶ ἡμῖν τοῖς ἐγχειρισθεῖσι πλεῖστα δημόσια ἐπιτάγματα καὶ τὴν χώραν ἣν ἐξ ἔθους ἀποπληροῦσι ἀποπληροῖν, παρεχομένων αὐτοῖς τῶν ἐπὶ τούτοις ἀναλωμάτων. ἀλλʼ ἐπειδὴ μανθάνω τούτους
+r.9    βουλομένους ἐνεδρεύειν τὴν τηλικαύτην ἀπαραίτητον χρείαν τοὺς μὲν
+r.10   ἀπιόντας, ἐνίους δὲ διαβάλλοντας, τῶν ἡμερῶν τῆς ἀντιλήμψεως συναχθεισῶν τοῦ λειτουργήματος, ἐκ τούτου ἠπίχθην τὰ βιβλία ἐπιδοῦναι ἀξιῶν τοὺς αὐτοὺς ὀνηλάτας ἐπαναγκασθῆναι Φαῦστον καὶ Ὧρον καὶ Χαιρέαν
+r.11   πάντʼ ἔχειν ὑπὲρ ὧν ἐξετέλουν κατʼ ἔτος τῆς κονδουκτορίας χρειῶν πάν[τα τε παρα]σχέσθαι αὐτοὺς τοῖς ἐνι[αυσί]οις ὑπακούοντας, καὶ ἡ[μ]ᾶς διὰ τῶν
+r.12   [αὐτῶν τ]ὴν ἐνχειρισθεῖσαν χρείαν ἀποπληροῦν καὶ μὴ εἰς ἀνάγκην με γενέ[σθαι ἐντυ]χεῖν τοῖς μείζοσιν περὶ τούτου. ἐνεδρείας γεγενημένης.
+r.13   [ὑπατεία]ς τῆς προκιμένης Μεσορὴ ϛ.
+r.14   [Αὐρήλιος] Διόσκορος ἐπιδέδωκα.
+
+[TRANSLATION]
+# HGV-EN: In the consulship of our masters Licinius Augustus for the sixth time and Licinius the most renowned Caesar for the second time, ... To Valerius Dioscurides also called Julianus, logistes of the Oxyrhynchite nome, from Aurelius Dioscorus son of Silvanus, ex-magistrate and senator of the illustrious and most illustrious city of Oxyrhynchus, Being already the administrator of the imperial patrimonial estates in the tenth pagus of this nome, I have besides been nominated as contractor for the express-post for the year auspiciously approaching. It was accordingly incumbent on those who customarily discharge such services on behalf of the annual nominees to this office, to render obedience to me who have been entrusted with so many public burdens, and to discharge their customary services, for which their expenses are provided. But whereas I learn that these persons are desirous of acting fraudulently in respect of these important and unavoidable functions, some by absenting themselves, and others by deception, and since the period before entering upon this duty has become short, I therefore hasten to present this petition, requesting that the said donkey-drivers, Faustus, Horus, and Chaereas, be compelled to retain and to provide everything for the functions pertaining to the contract which they were wont yearly to fulfil, in obedience to the annual contractors, so that I may with their assistance perform the function entrusted to me, and not be reduced to appeal to the officials upon this matter. (Endorsed) Concerning a case of fraud: in the consulship aforesaid, Mesore 6. (Signed) Presented by me, Aurelius Dioscorus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

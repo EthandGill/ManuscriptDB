@@ -1,0 +1,76 @@
+[META]
+id:       P.HARR 1.82
+label:    P.HARR 1.82
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     345 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (345 CE)
+# hgv-keywords: Vertrag — Pacht — Haus — Quittung für im voraus bezahlte Pacht
+tm:       21069
+source:   https://papyri.info/ddbdp/p.harr;1;82
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ὑπατείας Φλαουίων Ἀμαντίου καὶ
+r.2    Ἀλβίνου τῶν λαμπροτάτων.
+r.3    ἐμίσθωσεν κατὰ μισθαποχὴν
+r.4    Αὐρήλιος Ἄμμων Εὐλογίου ἀπὸ τῆς λαμπρᾶς
+r.5    καὶ λαμπροτάτης Ὀξυρυγχειτῶν πόλεως
+r.6    Αὐρηλίοις Ἰσιδώρῳ Διδύμου καὶ
+r.7    Θέωνι Διονυσίου, ἀμφοτέροις ἀπὸ
+r.8    τῆς αὐτῆς πόλεως, ἐπὶ χρόνον ἔτη τέσσαρα ἀπὸ τοῦ ὄντος μηνὸς
+r.9    Θὼθ τοῦ ἐνεστῶτος μ ἔτους κβ ἔτους ιγ ἔτους τὴν
+r.10   ὑπάρχουσαν αὐτῷ ἐν τῇ αὐτῇ πόλει
+r.11   ἐπʼ ἀμφόδου Δρόμου Θοήριδος σὺν
+r.12   τῇ ἀπὸ νότου μικρᾷ ὑψηλῇ ὁλόκληρον οἰκίαν, ἐν ᾗ κατάγειον, καὶ
+r.13   αὐλὰς μικρὰς δύο σὺν χρηστηρίοι[ς]
+r.14   πᾶσι, ἐνοικίου κατʼ ἔτος ἀργυρίου ταλάντων ἐνενήκοντα .
+r.15   ἐντεῦθεν δὲ ὁμολογεῖ [ὁ] αὐτὸς Ἄμμων ἀπεσχηκ[έναι π]αρὰ τοῦ
+r.16   Ἰσιδώρου καὶ τοῦ Θέωνος τὸ αὐτὸ
+r.17   ἐνοίκιον ἐνιαυτῶν τεσσάρω[ν]
+r.18   πλῆρες ἀπὸ τοῦ αὐ[τ]οῦ μηνὸς
+r.19   Θὼθ, ἐπὶ τῷ τοὺς αὐτοὺς Ἰσίδωρον καὶ Θέωνα χρήσασθαι τῇ
+r.20   οἰκίᾳ ἐπὶ τὸν τετραετῆ χρόνον
+r.21   ἀκωλύτως. καὶ μετὰ τὸν χρόνον
+r.22   ἀποδώσω τὴν αὐτὴν οἰκίαν [καθαρὰν]
+r.23   ἀπὸ κοπρίων καὶ δείσης πάσης,
+r.24   καὶ ἃς ἐὰν παραλάβω θύρας καὶ κλεῖ[δα]ς, [ἢ]
+r.25   ἀποτισάτω ἀντὶ οὗ ἐὰν μὴ παραδῶσι ἐκτίσω τὴν ἀξίαν τιμήν. κυρία ἡ μισθαποχή, καὶ ἐπερωτηθεὶς ὡμολόγησα.
+r.26   Αὐρήλιος Ἰσίδωρος μεμίσθωμαι
+r.27   ὡς πρόκε[ι]ται. Αὐρήλιος Θέων μεμίσθωμαι ὡς πρόκειται.
+
+[TRANSLATION]
+# HGV-EN: In the consulship of the Flavii Amantius and Albinus the most illustrious, Aurelius Ammon, son of Eulogius, of the illustrious and most illustrious city of Oxyrhynchus has leased upon prepayment of the rent to the Aurelii Isidorus, son of Didymus, and Theon, son of Dionysius, both of the same city, for a period of four years from the present month Thoth of the current 40th = 22nd = 13th year certain property of his in the same city in the quarter of Thoëris’ Square, to wit, an entire house, together with the small tower (?) to the west, containing cellar, and two small courts, with all appurtenances, for an annual rent of ninety talents of silver. Moreover the same Ammon declares that he has received from Isidorus and Theon the said rent in full for four years, from the said month Thoth ; wherefore the said Isidorus and Theon shall use the house for the period of four years without hindrance. And after the period I will restore the said house free from filth and dirt of all kinds, and whatever doors and keys I receive, or I will pay the fair value of whatever they fail to return. The prepaid lease is valid, and to the formal question I gave my assent. I, Aurelius Isidorus, have accepted the lease as above. I, Aurelius Theon, have accepted the lease as above.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    

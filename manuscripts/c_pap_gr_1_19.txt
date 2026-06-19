@@ -1,0 +1,76 @@
+[META]
+id:       C.PAP.GR 1.19
+label:    C.PAP.GR 1.19
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     49 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (49 CE)
+# hgv-keywords: Auszug aus den Protokollen des Strategen Tiberius Claudius Pasion — Protokoll (Prozeß) — Identität eines Kindes (Findel) — das einer Amme übergeben wurde — Sklave oder freies Kind (?)
+tm:       20699
+source:   https://papyri.info/ddbdp/c.pap.gr;1;19
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐξ ὑπομ[ν]ηματισμῶν Τι[βερίο]υ Κλαυδ[ίο]υ Πασίωνος στρατηγοῦ.
+r.2    ἔτους ἐνάτ[ο]υ Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.3    Αὐτοκ[ρά]τορος, Φαρμοῦθι γ, ἐπὶ τοῦ βήματος,
+r.4    [Π]εσοῦρι[ς] πρὸς Σαραεῦν. Ἀριστοκλῆς ῥήτωρ
+r.5    ὑπὲρ Πεσούριος· Πεσοῦρις, ὑπὲρ οὗ λέγω, ζ ἔτους
+r.6    Τιβερίου Κλαυδίου Καίσαρος τοῦ κυρίου ἀνεῖλεν
+r.7    ἀπὸ κοπρίας ἀρρενικὸν σωμάτιον [ᾧ] ὄνομα Ἡρακ[λᾶν]. τοῦτο ἐνεχείρισεν τῆι ἀντιδίκωι· ἐγένετο ἐνθάδε ἡ τροφῖτις εἰς υἱὸν τοῦ Πεσούριος.
+r.8    τοῦ πρώτου ἐνιαυτοῦ ἀπέλαβεν τὰ τροφεῖα.
+r.9    ἐνέστη ἡ προθεσμία τοῦ δευτέρου ἐνιαυτοῦ,
+r.10   κα[ὶ] πάλιν ἀπέλαβεν. ὅτι δὲ ταῦτα ἀληθῆ λέγω,
+r.11   ἔστιν γράμματα αὐτῆς διʼ ὧν ὁμολογεῖ εἰληφέναι. λιμαγχουμένου τοῦ σωματ[ί]ου ἀπέσπασεν ὁ Πεσοῦρις. μετ[ὰ] ταῦτα καιρὸν εὑροῦσ[α]
+r.12   εἰσεπήδησεν εἰς τὴν τοῦ ἡμετέρου [ο]ἰκίαν
+r.13   καὶ τὸ σωμάτιον ἀφήρπασεν, καὶ βούλεται ὀν[ό]ματι ἐλευθέρου τὸ σωμάτιον ἀπενέγκασθαι. ἔχω πρῶτον γράμμα τῆς τροφίτιδος,
+r.14   ἔχω δεύτερο[ν] τῶν τροφείων τὴν [ἀ]ποχή[ν.]
+r.15   ἀξιῶ ταῦ[τα] φυλαχθῆ[ν]αι. Σα[ρα]εῦς·
+r.16   ἀπεγαλάκ[τισά] μου τὸ [π]αιδίον, κα[ὶ] τούτων
+r.17   σωμάτιόν μοι ἐνεχειρίσθη. ἔλαβ[ον] παρʼ αὐτῶν τοὺ[ς] πάντας ὀκτὼ στατῆρας. μετὰ
+r.18   ταῦτα [ἐτελεύ]τησεν τ[ὸ σ]ωμάτιο[ν ] … [ στα]τήρων [μοι περ]ιόντων. νῦν βούλον[ται τὸ]
+r.19   ἴ[δι]όν μου τέκνον ἀποσπάσαι. Θέων·
+r.20   γράμματα τοῦ σωματίου ἔχομεν.
+r.21   ὁ στρατηγός· ἐπεὶ ἐκ τῆς ὄψεως φαίνεται τῆς
+r.22   Σαραεῦτος εἶναι τὸ παιδίον, ἐὰν χειρογραφήσῃ
+r.23   αὐτή τε καὶ ὁ ἀνὴρ αὐτῆς ἐκεῖνο τὸ ἐνχειρισθὲν αὐτῆι σωμάτιον ὑπὸ τοῦ Πεσούριος
+r.24   τετελευτηκέναι, φαίνεταί μοι κατὰ τὰ ὑπὸ
+r.25   τοῦ κυρίου ἡγεμόνος κριθέντα ἀποδοῦσαν
+r.26   αὐτὴν ὃ εἴληφεν ἀργύριον ἔχειν τὸ [ἴδιο]ν
+r.27   τέκνον.
+
+[TRANSLATION]
+# HGV-EN: From the minutes of Tiberius Claudius Pasion, strategus. The ninth year of Tiberius Claudius Caesar Augustus Germanicus Imperator, Pharmouthi 3. In court, Pesouris versus Saraeus. Aristocles, advocate for Pesouris, said :—"Pesouris, my client, in the seventh year of our sovereign Tiberius Claudius Caesar picked up from the gutter a boy foundling, named Heraclas. He put it in the defendant’s charge. This nurse was there for the son of Pesouris. She received her wages for the first year when they became due, she also received them for the second year. In proof of my assertions there are the documents in which she acknowledges receipt. The foundling was being starved, and Pesouris took it away. Thereupon Saraeus, waiting her opportunity, made an incursion into my client’s house and carried the foundling off. She now justifies its removal on the ground that it was free-born. I have here, firstly, the contract with the nurse; I have also, secondly, the receipt of the wages. I demand their recognition." Saraeus :—"I weaned my own child, and the foundling belonging to these people was placed in my charge. I received from them my full wages of 8 staters. Then the foundling died, and I was left with the money. They now wish to take away my own child." Theon :—"We have the papers relating to the foundling." The strategus:—" Since from its features the child appears to be that of Saraeus, if she and her husband will make a written declaration that the foundling entrusted to her by Pesouris died, I give judgement in accordance with the decision of our lord the praefect, that she have her own child on paying back the money she has received.”
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    

@@ -1,0 +1,74 @@
+[META]
+id:       P.Oxy. 10.1282
+label:    P.Oxy. 10.1282
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     83 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (83 CE)
+# hgv-keywords: Quittung — Vertrag — Rückzahlung — Darlehen — Geld
+tm:       21767
+source:   https://papyri.info/ddbdp/p.oxy;10;1282
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    κ … ολ πλ.
+r.2    ἔτους τρίτου Αὐτοκράτορος Καίσαρος
+r.3    Δομιτιανοῦ Σεβαστοῦ μηνὸς Νέου Σεβαστοῦ
+r.4    ιη ἐν Ὀξυρύγχων πόλει τῆς Θηβαΐδος.
+r.5    ὁμολογεῖ Θνᾶς Πετοσοράπιος μητρὸς Ἡρᾶτος τῆς Ἡρακλείδου μετὰ κυρίου τοῦ ἑαυτῆς ἀδελφιδοῦ Θομπαχράτου τοῦ
+r.6    Παάπιος μητρὸς Τεκώσιος τῆς Πετοσοράπιος Ἀμόιτι Ἀπολλωνίου τοῦ Σύρου
+r.7    μητρὸς Τεκώσιος καὶ τῇ τούτου γυναικὶ
+r.8    Τεκώσει Θώνιος τοῦ Πετοσοράπιος μητρὸς Ἐσενεῦτος μετὰ κυρίου τοῦ ἀνδρὸς
+r.9    Ἀμόιτος, πάντες τῶν ἀπʼ Ὀξυρύγχων πόλεως, ἐν ἀγυιᾷ, ἀπέχειν παρʼ αὐτῶν ἀργυρίου Σεβαστοῦ νομίσματος δραχμὰς τετρακοσίας κεφαλαίου καὶ τοὺς καθήκοντας τούτων τόκους δανεισθείσας αὐτοῖς ὑπὸ τοῦ γενομένου καὶ μετηλλαχότος τῆς Θνᾶτος ἀνδρὸς Παποντῶτος τοῦ Ἀμόιτος τοῦ Θέωνος ὁπότε
+r.10   [περι]ῆν κατὰ συγγραφὴν γεγονυῖαν διὰ
+r.11   [τοῦ ἐ]ν Ὀξυρύγχων πόλει μνημονείου
+r.12   τῷ ἑνδεκάτῳ ἔτει θεοῦ Οὐεσπασιανοῦ
+r.13   μηνὶ Νέῳ Σεβαστῷ, ὧν ἡ πρᾶξις σὺν ἄλλοις τοῦ Παποντῶτος προφέρεται ἡ Θνᾶς
+r.14   κατηντηκέναι εἰς ἑαυτὴν καθʼ ὃ ἔθετο
+r.15   ὁ Παποντῶς ὁπότε περιῆν διάταγμα,
+r.16   καὶ μηδὲν ἐνκαλεῖν μηδʼ ἐνκαλέσειν
+r.17   μηδʼ ἐπελεύσεσθαι Θνᾶν μηδʼ ἄλλον
+r.18   ὑπὲρ αὐτῆς οἷς ὁμολογεῖ μηδὲ τοῖς παρʼ αὐτῶν πε[ρ]ὶ μηδενὸς ἁπλῶς μέχρι
+r.19   τῆς ἐνεστώσης [ἡμέρας, αὐτόθεν δὲ]
+r.20   καὶ ἀναδε[δωκέναι αὐτοῖς τὴν ἐπιφο]ρον τοῦ δανείου συγγραφὴν κεχιασμένην εἰς ἀκύρωσιν, ἢ χωρὶς τοῦ τὴν ἐσομένην ἔφοδον ἄκυρον εἶναι ἔτι καὶ ἐκτίνειν Θνᾶν ἢ τὸν ὑπὲρ αὐτῆς ἐπελευσόμενον τοῖς προγεγραμμένοις ἢ τοῖς
+r.21   παρʼ αὐτῶν καθʼ ἑκάστην ἔφοδον τό τε
+r.22   βλάβος καὶ ἐπίτιμον ἀργυρίου δραχμὰς ἑκατὸν
+r.23   καὶ εἰς τ[ὸ] δημόσιον τὰς ἴσας, καὶ μηθὲν ἧσσον κυρία ἡ συγγραφή ἔτους
+r.24   τρίτου Αὐ[το]κράτορος Καίσαρος
+r.25   [Δο]μι[τιανο]ῦ Σεβαστοῦ μηνὸς
+r.26   Νέου Σ[εβαστ]οῦ ὀκτωκαιδε[κάτηι][, διὰ ] … νος ἀγορανόμου κεχρημάτικα.
+
+[TRANSLATION]
+# HGV-EN: ... The third year of the Emperor Caesar Domitianus Augustus, the 18th of the month Neus Sebastus, at Oxythynchus in the Thebaid. Thnas daughter of Petosarapis, her mother being Heras daughter of Heraclides, with her guardian who is her nephew Thompachrates son of Paapis, his mother being Tekosis daughter of Petosorapis, acknowledges to Amoïs son of Apollonius son of Syrus, his mother being Tekosis, and to his wife Tekosis daughter of Thonis son of Petosorapis, her mother being Eseneus, with her husband Amoïs as guardian, all inhabitants of Oxyrhynchus, the contract being drawn up in the street, that she has received from them the capital sum of four hundred drachmae of Imperial silver money with the requisite interest upon it, which sum was lent to them by the former husband, now deceased, of Thnas, Papontos son of Amojs son of Theon, in his lifetime in accordance with a contract drawn up through the record-office at Oxyrhynchus in the eleventh year of the deified Vespasianus in the month Neus Sebastus, the right of execution for the debt having, as claimed by Thnas, descended with other property of Papontos to her in accordance with the disposition made by Papontos in his lifetime, and that neither Thnas nor any one on her behalf makes or will make any claim or will proceed against the recipients of this acknowledgement or their agents on any point whatever up to the present day, and that she has forthwith restored to them the contract of loan crossed out to invalidate it; otherwise not only shall any future claim be invalid, but Thnas or the person proceeding on her behalf shall in addition pay to the aforesaid persons or their agents for every claim the damages and a fine of a hundred drachmae of silver, and to the State an equal amount, and this contract shall be none the less valid. The third year of the Emperor Caesar Domitianus Augustus, the eighteenth of the month Neus Sebastus, executed by ..., agoranomus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    

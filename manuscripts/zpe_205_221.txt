@@ -1,0 +1,76 @@
+[META]
+id:       ZPE 205.221
+label:    ZPE 205.221
+name:     Documentary papyrus — Fundort: Oxyrhynchos; Schreibort: Diospolis Parva
+genre:    documents
+date:     180 CE
+language: Greek (Koiné)
+found:    Fundort: Oxyrhynchos; Schreibort: Diospolis Parva
+held:     Ann Arbor
+shelf:    
+content:  Documentary papyrus from Fundort: Oxyrhynchos; Schreibort: Diospolis Parva (180 CE)
+# hgv-keywords: Bericht — Antichresis — Dioikesis — Diopolis Parva
+tm:       749359
+source:   https://papyri.info/ddbdp/zpe;205;221
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … ἐξ ἧς ἐδηλώθη ἕως ιϛ ἔτους μηδὲν δύνασθαι περιγίνεσθαι διὰ τὸ μὴ ἐνοικ …
+r.2    … ε
+r.3    [ἔτους] … Αὐρηλίων Ἀντωνίνου καὶ Κο[μμ]όδου Καισάρων τῶν κ[υρίων Σεβαστῶν]
+r.4    … α Οὐεσσιδίῳ Ῥουφείν[ῳ] τῷ [κ]ρατίστῳ διοικητῇ. Ἀμμώνιος Ποτ[άμωνος] …
+r.5    … παράδοσιν τῶν ὑποτε[θ]έντων αὐτῷ γενέσθαι ἀκολο[ύθως] …
+r.6    … ῃ ἐπιστολῇ οὕτως ἐχούσῃ·
+r.7    [ἐκ τῶν τοῦ] [κρ]ατίστου διοικητο[ῦ] [δι]αλογισμῶν κ ἔτους α τόμου κολλήματος λβ ἕω[ς] …
+r.8    [Ἰούλιος Κρ]ισπεῖνος στρατηγῷ Δ[ιο]πολίτου κάτω χώρας χαίρειν. [βιβλιδίων]
+r.9    [δοθέντω]ν μ[ο]ι ὑπὸ Ἀμμωνίου Π[ο]τάμωνος τὸ ἕτερον σημ[ειωσάμενος]
+r.10   [ἔπεμψά σ]οι. εἰ οὖν τὰ δηλούμενα ὑπάρχοντα πράσει ὑποπίπ[τει] …
+r.11   … ὁ βασιλικὸς γραμματεύς, ἃς ἂν λάβῃς αἱρέσεις δήλωσόν μοι ἐξετα …
+r.12   … φησὶν ὀφείλεσθαι δάνει[ον] ἐπὶ ὑποθήκῃ μέρει τῶ[ν] …
+r.13   … [φ]ησὶν τὸν ὑπόχρεον ἐπέχεσθαι τῷ ταμείῳ καὶ τουτ …
+r.14   … ο … ου τοῦ ἐν τῷ βιβλιοφυλακίῳ τῶν ἐνκτήσε[ων] …
+r.15   … σπα … αυτον σ … ν καὶ ὃ ἐὰν ἐπιγνῷς ἀντίγρα[ψόν μοι.]
+r.16   ἐρ[ρ]ῶσθαί σε εὔχομαι.
+r.17   [ἔτους κ Αὐρηλί]ων Ἀντωνίνου καὶ Κομμόδου Καισάρων τῶν κυρίων Σ[εβαστῶν ] …
+r.18   [Ἰουλίῳ Κρι]σπείνῳ τῷ κρατίστωι διοικητῇ παρὰ Ἀμ[μωνίου]
+r.19   [Ποτάμωνο]ς τῶν ἀπὸ Διὸς πόλεως τῆς κάτω χώρας. ἡ κληρονομ[ηθεῖσα Ποτα][μίαινα ἡ] καὶ Ταπιῶμις Πανεσιήους ἔτι ἀπὸ ι ἔτους θεοῦ Ἁδριαν[οῦ] …
+r.20   … [Ἡρα]κλείδῃ πρεσβυτέρῳ Ἰσιδώρου ἀπ …
+r.21   … δραχμ Απ ἐπὶ ὑποθήκη καὶ [ἐ]νοικήσει οἰκίᾳ καὶ ψιλῷ τ[όπῳ] …
+r.22   … ἐνοικήσεως ο[ὐ π]αρασχεθείσης τὰ νόμιμα αρ …
+r.23   … ἐμβιβασμοῦ πρός τε τὸ κεφάλαιον καὶ τοὺς τόκους …
+r.24   … ηναι μετοξὺ [ὁ] χρεώστης ἐτελεύτησεν. ἑνὸς τῶν κληρόνομων …
+r.25   … δημοσίοις πράγμασι περιπλεκέντος εἰς ἄπρατα …
+r.26   … τοῦ οὖν ἔθους τῆς ἐπαρχείας τὸ πρωτοπρ[άξιον] …
+r.27   … ιοφυλ δανισταῖς τηροῦντος, δέομαι γράψ[αι] …
+
+[TRANSLATION]
+# HGV-EN: ...from which it was made clear that until the sixteenth year nothing could accrue because it was not inhabited....In the (20th?) year of the Aurelii Antoninus and Commodus, Caesars Augusti ... [[to Julius Crispinus,]] \to Vessidius Rufinus/, the most powerful dioiketes. Ammonios, son of Potamon ... ...(that the) transfer of property put up as security for him happens in accordance with ... the letter reading thus: From the records of proceedings of the most powerful dioiketes, 20th year, roll 1, column [[15]] \32 up to/… Julius Crispinus, to the strategos of the Diopolite nome of Lower Egypt, greetings. Of the petitions given to me by Ammonios, son of Potamon, I have signed one and sent it to you. Now, if the property indicated is subject to sale (auction) ... the basilikos grammateus...whichever bids you receive, let me know ... examine ... he says that he is owed a loan, with a share of (property) as security...he says that the debtor is liable to the treasury and...in the property record office whatever you find out, write back to me...I wish you well. In the (20th?) year of the Aurelii Antoninus and Commodus, Caesars Augusti. To Julius Crispinus, the most powerful dioiketes, from Ammonios, son of Potamon of those from Diospolis of Lower Egypt. The woman succeeded in the inheritance, Potamiaina, also known as Tapiomis, the daughter of Panesies, already from the 10th year of the deified Hadrian,...to Herakleides the elder, son of Isidoros...1080 drachmas on the security, and in lieu of occupation, of a house and an empty lot...the right of inhabitation not being provided, the legal rights...of possession against both the capital and the interest meanwhile the debtor died. Of one of the heirs, ... being tied up in public matters, (the property was added?) to the unsold property (of the Treasury) ... the custom of the province then preserving the right of first claim (on property)...for...creditors, I ask you to write (to the strategos to take care of this. Farewell.)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    

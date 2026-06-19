@@ -1,0 +1,62 @@
+[META]
+id:       BGU 1.117
+label:    BGU 1.117
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     189 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (189 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       8891
+source:   https://papyri.info/ddbdp/bgu;1;117
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    δ
+r.2    [Ἁρποκρατίωνι τῷ καὶ Ἱ]έρακι βασιλικῷ γρα[μματεῖ][ Ἀρσινοΐτου Ἡρακλείδου μερίδος]
+r.3    [παρὰ Δ]ιοσκόρ[ου ] … υ τοῦ Ἡρακλείδ[ου μητρὸς ] … [ ἀναγραφομένου ἐπʼ]
+r.4    [ἀμφόδ]ου Φρεμεί. ὑ[πάρχ]ει μοι ἐπʼ ἀμφόδ[ου ] …
+r.5    [καὶ αὐλ]ύδριον, ἐν ᾗ κα[τ]οικ[ῶ] καὶ ἀπογράφομ[αι ἐμαυτὸν καὶ τοὺς]
+r.6    ἐμ[οὺς] εἰς τὴν τοῦ διεληλυθότος κη ἔτους [Αὐρηλίου Κομμόδου ]
+r.7    κατʼ [οἰκία]ν ἀπογραφὴν [ἀπεγραψάμην]. καί εἰμι [Διόσκορος ὁ προγεγραμμένος]
+r.8    γεωργὸς ἐτῶν ξη, καὶ τὴν τούτου γυναῖκα Θαι[σάριον] [ἀπελευθέραν]
+r.9    Θαισαρίου Σουχᾶ τοῦ Μύσθου μητρὸς Ἡρακλοῦ[τος ἐτῶν ] … [, καὶ τὰ ἐξ ἀμ]φοτέρων τέκνα υἱὸν Ὡρίωνα γεωργὸν [ἐτῶν ] … [, καὶ ] …
+r.10   … ιον ἄλλον υἱὸν γραμματέα ἐτῶν ιζ, καὶ …
+r.11   υἱὸν μητρὸς Σαραποῦτος τῆς Ὡρίωνος γεω[ργὸν ] … [, καὶ θυγα][τ]έρα Ἁρποκρατίαιναν μητρὸς Θαισαρίου τῆς [προγεγραμμένης]
+r.12   [ἐτῶν ] … οὖσαν γυν[αῖ]κα τοῦ Σατορνείλ[ου ] … [ καὶ]
+r.13   [ἀδε]λφὴν καὶ ἐξ ἀμφοτέρων υἱὸν Σα … [ καὶ]
+r.14   [θυγ]αέρα Σατορνίλην ἐτῶν ιδ, καὶ Ἀρτεμιδώ[ραν τὴν καὶ ] …
+r.15   … οῦν ἄλλην θυγατ[έ]ρα Διοσκόρου τοῦ …
+r.16   … ιου ἐτῶν κ, καὶ Τασουχάριον ἄλλην θυ[γατέρα ] …
+r.17   … θαν … [ ἀπ]άτορα ἐτῶν κθ …
+r.18   … Σαραποῦν ἀπάτορα ἐτῶν η. διὸ ἐ[πιδίδωμι].
+r.19   [ἔτους κθ] Μάρκου Αὐρηλίου Κομμόδου Ἀ[ντωνίνου Καίσαρος]
+r.20   [τοῦ] κυρίου Μεσορὴ κζ.
+
+[TRANSLATION]
+# HGV-EN: (m. 3) 4 (m. 1) To [Harpokration alias Hi]erax, royal scribe [of the Arsinoites nome, Herakleides division, from D]ioskor[os, son of NN], the son of Herakleid[es, mother NN, registered in the quarter Phremei. There belongs to me in the quarter [– – – a house (?) and] a small courtyard, in which I live and register [myself and] my family for the house-by-house registration of the past 28th year of [Aurelius Commodus (?)] <in the same quarter, in which> I registered <myself in the house-by-house registration of year 14 as well>. And I am [Dioskoros, the above mentioned], farmer, 68 years old, and (I register) his (sc. my) wife Thai[sarion, freedwoman of Thaisarion, daughter of Souchas, son of Mysthes, mother Heraklou[s x years old, and the] children of both of us, our son Horion, farmer, [x years old, and NN] another son, scribe, 17 years old, and [Satorneilos, another] son, mother Sarapous, daughter of Horion, farmer [x years old, and] a daughter Harpokratiaina, mother Thaisarion, the above mentioned [x years old], who is the wife and sister by the same father of Satorneil[os] and the son of both of them Sat[orneilos, x years old][ and the daughter Satornile, 14 years old, and Artemido[ra alias Diosko]rous, another daughter of Dioskoros, the [above mentioned][, mother Thais]arion, 20 years old, and Tasoucharion, another daughter, [x years old, and NN], father unknown, 29 years old, Sarapous, father unknown, 8 years old. Therefore I submit (this registration). [Year 29] of Marcus Aurelius Commodus A[ntoninus Caesar], the lord, Mesore 27.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

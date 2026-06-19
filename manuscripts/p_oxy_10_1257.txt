@@ -1,0 +1,42 @@
+[META]
+id:       P.Oxy. 10.1257
+label:    P.Oxy. 10.1257
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     279 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (279 CE)
+# hgv-keywords: Erklärung — Schwierigkeiten mit einer vier Jahre zurückliegenden Steuerzahlung (Getreide)
+tm:       21795
+source:   https://papyri.info/ddbdp/p.oxy;10;1257
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἐπιμάχου ὀνομασθέντος εἰς δεκαπρωτίαν λιβὸς τοπαρχίας τοῦ Ὀξυρυνχίτου νομοῦ παρήλικος ὄντος Θώνιος πατρῳὸς ὢν τοῦ Ἐπιμάχου ἐδιοίκησεν τὰ κατὰ τὴν δεκαπρωτίαν,καὶ τοῦ καιροῦ λήξαντος τῆς παραδόσεως
+r.2    σίτου Θέων ὁ καὶ Πλούταρχος γεν[ό]μενος ὑπομνηματογράφος νυνὶ
+r.3    δὲ στρατηγῶν τοῦ Τανίτου νομοῦ ἐπέστειλεν Δημητρίῳ πραγματευτῇ αὐτοῦ παραμετρῆσαι εἰς λόγον δημοσίων μετρημάτων ἀρ[τάβας ἐ]πὶ τοῦ ἔτους α ἔτους τῆς εὐτυχεστάτης ταύτης βασιλείας πε[ν]τακ[ο]σί[ας]
+r.4    τῷ Θωνίῳ καὶ τῷ τούτου βοηθῷ Διονυσίῳ τῷ καὶ παρόντι. καὶ τοῦ μέτρου παραδοθέντος ὑπὸ τοῦ Δημητρίου ἀκόλουθα ποιῶν ὁ βοηθὸς παρέθετο τοῖς λόγοις τῆς δεκαπρωτίας, τ[ο]ῦτʼ ἔστιν, τῷ χειριστικῷ οὗ
+r.5    [πρ]οσέλαβε καὶ τῷ κατʼ ἄνδρα τῷ ἐν δ[η]μοσ[ίῳ κατα]κειμένῳ διὰ τ[ο]ῦ
+r.6    ἐπιδοθέντος συναιρέματος τοῦ δεκαπρώ[του μηνι]αίου Ἐπεὶφ τ[οῦ]
+r.7    ἔτους α ἔτους. Ἀμμωνίου δὲ τοῦ κρατίστου ἐπείκτου δημοσίου σίτου [τῷ Φα]ῶφι μηνὶ τοῦ ἐνεστῶτος ἔτους ε ἔτους τῇ Ὀξυρυνχιτῶν πόλει α …
+r.8    ο … ὁ προειρημένος Ἐπίμαχος δεκάπρωτος προσαγαγὼν μ … [ ἐ]μὲ τὸν Μάξιμον ὡς [ὀ]φ[ει]λόντος τοῦ Θέωνος τὰς πεντακοσίας ἀρτάβ[ας]
+r.9    ἐδεήσατο καὶ τὰ προσόντα αὐτῷ παραθέσθαι διὰ τῶν γενομένων ὑπομνημάτων ὑπὸ τοῦ στρατηγοῦ τοῦ νομοῦ ἐπὶ παρόντος Ἀμμωνίου τοῦ
+r.10   κρατίστου ὅτι αὐτῷ ἐμετρήθησαν τῷ λόγῳ τῆς δεκαπρωτία[ς].
+
+[TRANSLATION]
+# HGV-EN: On the nomination of Epimachus to the office of decaprotus in the western toparchy of the Oxyrhynchite nome, as he was past his prime, Thonius the stepfather of Epimachus administered the business of the office. After the time for the delivery of corn had passed Theon also called Plutarchus, ex-hypomnematographus and now strategus of the Tanite nome, directed Demetrius his agent to measure out 500 artabae to the account of public dues in the first year of this most happy reign to Thonius and his assistant Dionysius, who was also present. On delivery by Demetrius of this amount the assistant followed the natural course and added it by way of supplement to the accounts of the office, that is, to the ledger of the amounts received and to the individual list lodged in the archives through the monthly summary presented by the decaprotus for Epeiph in the first year. But when his excellency Ammonius, collector of public corn-dues, was [present] in the city of Oxyrhynchus in Phaophi of the present fifth year, the aforesaid decaprotus Epimachus producing myself, Maximus, and representing that Theon owed the 500 artabae asked that the further amounts in his hands should be added through the memoranda drawn up by the strategus of the nome in the presence of his excellency Ammonius, because they had been measured out to him to the account of his office of decaprotus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

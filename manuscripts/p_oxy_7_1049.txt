@@ -1,0 +1,70 @@
+[META]
+id:       P.Oxy. 7.1049
+label:    P.Oxy. 7.1049
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     176 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (176 CE – 200 CE)
+# hgv-keywords: Abrechnung — Transport von Spreu auf Eseln — Lohn für die Treiber
+tm:       28329
+source:   https://papyri.info/ddbdp/p.oxy;7;1049
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [λ]όγος μεταφορᾶς χόρτου μετανελθόντος
+r.2    εἰς τὴν ἅλω τῆς Ὤφεως Παχών.
+r.3    ιη. ὄνοι θ φοραὶ η, γίνονται μανδάκαι οβ ἐξ ἀγκαλῶν μγ, ἀγώγια κδ.
+r.4    μισθὸς ὄνοις θ ἐκ δραχμῶν β δραχμαὶ ιη,
+r.5    ὀνηλάταις ὁμοίως γ ἐκ δραχμῆς α πεντωβόλου δραχμαὶ ε ὀβολὸς,
+r.6    ἄλλῳ α ὀνηλάτῃ ὁμοίως δραχμαὶ β τετρώβολον,
+r.7    ἄλλοις β ἐργάταις δεσμεύουσι μανδάκας δραχμαὶ γ τριώβολον.
+r.8    γίνονται δραχμαὶ κθ ὀβολὸς.
+r.9    ιθ. ὁμοίως ὄνοι ιβ φοραὶ η, γίνονται μανδάκαι ϙϛ, ἀγώγια λβ.
+r.10   μισθὸς ὄνοις ιβ ἐ[κ] δραχμῶν β δραχμαὶ [κδ],
+r.11   ὀνηλάταις ὁμοίως ϛ ἐ[κ] δραχμῆς α πεντωβόλου δραχμαὶ ι διώβολον,
+r.12   ἄλλοις β ἐργάταις δεσμεύουσι μανδάκας δραχμαὶ γ τριώβολον.
+r.13   γίνονται δραχμαὶ λζ πεντώβολον.
+r.14   κ. ὁμοίως ὄνοι δ φοραὶ θ, γίνονται μανδάκαι λ[ϛ][, ἀ]γώγια ιγ.
+r.15   μισθὸς ὄνοις δ ἐκ δραχμῶν β δραχμαὶ [η],
+r.16   ὀνηλάταις ὁμοίως β ἐκ δραχμῆς α πεντωβόλου δραχμαὶ γ τριώβολον,
+r.17   ἄλλῳ ἐργάτῃ α δεσμεύοντι μανδάκας δραχμὴ α πεντώβολον,
+r.18   γίνονται δραχμαὶ ιγ ὀβολὸς.
+r.19   κ[α]. ὁμοίως ὄνοι ϛ φοραὶ η, [γίνονται ][μ]ανδάκαι μη, ἀγώγια [ιϛ].
+r.20   μισθὸς ὄνοις ϛ ἐκ δραχμῶν β δραχμαὶ [ιβ],
+r.21   [ὀ]νηλάταις ὁμοίως γ ἐκ δραχμῆς α πεντωβόλου [δραχμαὶ ε ὀβολὸς],
+r.22   ἄλλῳ ἐργάτῃ α δεσμεύοντι μ[ανδάκας][ δραχμὴ α] πεντώβολον.
+r.23   γίνονται δραχμαὶ [ιθ].
+r.24   γίνονται ἐπὶ τὸ αὐτὸ ἀγώγια η[ε] [δραχμαὶ ϙθ].
+
+[TRANSLATION]
+# HGV-EN: Account of the transport of hay transferred to the threshing-floor of Ophis in Pachon. The 18th. 9 donkeys, 8 loads, making 72 trusses from 43 bundles, 24 cart-loads. Wages for 9 donkeys at 2 drachmae, 18 dr., likewise for 3 drivers at 1 dr. 5 obols, 5 dr. 1 ob., likewise for another driver 2 dr. 4 ob., for 2 more workmen binding trusses 3 dr. 3 ob. Total 29 dr. 1 ob. The 19th. Likewise 12 donkeys, 8 loads, making 96 trusses, 32 cart-loads. Wages for 12 donkeys at 2 dr., 24 dr., likewise for 6 drivers at 1 dr. 5 ob., 10 dr. 2 ob., for 2 more workmen binding trusses 3 dr. 3 ob. Total 34 dr. 5 ob.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    

@@ -1,0 +1,78 @@
+[META]
+id:       ZPE 207.157_2
+label:    ZPE 207.157_2
+name:     Documentary papyrus — Oxyrhynchos (Oxyrhynchites, Ägypten)
+genre:    documents
+date:     119 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (Oxyrhynchites, Ägypten)
+held:     London
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (Oxyrhynchites, Ägypten) (119 CE)
+# hgv-keywords: Deklaration — Immobilien
+tm:       756860
+source:   https://papyri.info/ddbdp/zpe;207;157_2
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [ἄλλων] κωμῶν χαίρειν. το[ῦ δοθέντος ἡμῖν] ὑπὸ
+r.2    [Π]αυσίριος πρεσβυτέρου Ὥρου ὑπομνήματος
+r.3    ἀντίγραφον ὑπόκειτα[ι]. εἰ οὖν τὰ διʼ αὐτοῦ
+r.4    δηλούμενα ὑπάρχοντα καθαρά ἐστιν,
+r.5    προσφω[νή]σατε ἡμῖν. ἔτους γ Ἁδριανοῦ
+r.6    Καίσαρος [τοῦ] κυρί[ου] Φαμενὼθ ι. διʼ Ἁρσύθου σεσημείωμαι.
+r.7    Διδύμῳ καὶ Πτολεμαίῳ βιβλιοφύλαξιν
+r.8    παρὰ Παυσίριος πρ[ε]σβυτέρου Ὥρου
+r.9    τοῦ Παυσίριος μητρὸς Ἡρᾶτος ἀπὸ
+r.10   Θώλθεως Κάτω. ἀπογράφομαι
+r.11   πρώτως ἐπ[ὶ] τ[οῦ] παρόντος ἀπὸ
+r.12   τῶν κατηντηκότων εἴς με ἐξ ὀνόματος τοῦ πατρός μου Ὥρου Παυσίριος τοῦ Ὥρου μητρὸς Τσενπ[α]υσίριος
+r.13   ἀπὸ τῆς αὐτῆς κώμης τετελευτηκότος ἀδια[θ]έτου ἐπʼ ἐμοὶ πρεσβυτέρῳ καὶ ἀδελφοῖς μου Παυσίρει
+r.14   νεωτέρῳ καὶ Ὥρῳ καὶ Μελανκόμᾳ
+r.15   καὶ Σινπαυσίρει καὶ Τσενμελανκόμᾳ
+r.16   τοῖς ἓξ μόνοις τέκν[οις] καὶ κληρ[ο]νόμοις τὰ ἐπιβάλλοντα μοι μέρη
+r.17   ὧν εἶχεν ὁ αὐτὸς πατήρ μου ἐν
+r.18   τῇ αὐτῇ κώμ[ῃ] Θ[ώλθ]ει ἐν τοῖς ἀπὸ ἀπηλιώτου μέρε[σιν, ἐκ] βορρᾶ δὲ δρόμου ἱεροῦ Γένητος τ[οῦ θεοῦ] μεγίστου βίκου ἑνὸς καὶ ἀπ[ὸ λο]ιπῶ[ν] βίκων τριῶν
+r.19   μεθʼ οὓς πέπρ[ακ]εν ὁ προκτ[ήτωρ τ]ούτου Παυσίρις [ὁ] καὶ Σαραπᾶ[ς] … γενει
+r.20   Πτ[ο]λεμαίου βίκους δύ[ο][, μόνο]υ
+r.21   βίκου ἑνός, τοὺς δὲ ἐπὶ τὸ αὐ[τ]ὸ βίκους δύο ὁ πατήρ μου οὐκ [ἀ]πεγράψατο, ἡγόρασεν δʼ αὐτοὺς π[α]ρὰ
+r.22   τοῦ προγεγ[ρ]αμ[μέν]ου Παυσίρι[ο]ς
+r.23   τοῦ καὶ Σαραπᾶ Παυσίριος τοῦ
+r.24   Σενθέως μη[τ]ρὸς Ταυσίριος ἐπικαλουμένου … ε … ἀπὸ τῆ[ς α]ὐτῆς κώμης καθʼ ἰδιόγραφον πρᾶσιν τῷ ἑνδεκάτῳ ἔτει θεοῦ
+r.25   Τραιανοῦ Φαρμοῦθι [ἥ]νπερ δημοσιώσας [ὁ α]ὐτὸς πατήρ μου
+r.26   διὰ τοῦ [καταλογείου] μετέδωκεν
+r.27   [Παυσί]ρε[ι τῷ καὶ Σ]αραπᾷ διὰ
+r.28   [στρατηγικοῦ] [ὑπ]ηρέτου
+
+[TRANSLATION]
+# HGV-EN: … and other villages greetings. A copy of the application which had been given to us by Paosiris the elder, son of Paosiris, is appended. Therefore, if the property declared through it is clear, send us a written report. Year 3 of Hadrianus Caesar, the lord, Phamenoth 10. I have signed through Harsythes. To Didymos and Ptolemaios the bibliophylakes from Pausiris senior, son of Horos, son of Pausiris, his mother being Heras from Tholthis Kato. I declare for the first time now from what has devolved upon me in the name of my father Horos, son of Pausiris, son of Horos, his mother being Tsenpausiris, from the same village, who has died intestate, leaving me as eldest son and my siblings Pausiris junior and Horos and Melankomas and Sinpausiris and Tsenmelankoma, the six, the only children and heirs, the shares that belong to me of what the same father of mine possessed in the same village of Tholthis in the eastern parts, to the north of the dromos of the temple of Geges (?) the greatest god, one bikos, and from the remaining three bikoi, one bikos, after two bikoi were sold by its previous owner Pausiris alias Sarapas to […]genes, son of Ptolemaios; the two bikoi in total my father has not declared, he bought them from the aforementioned Pausiris alias Sarapas, son of Pausiris, son of Senthis, his mother being Tausiris, called …, from the same village according to an autograph deed of sale in the month of Pharmouthi of the eleventh year of the deified Trajan, which deed, the same father of mine having made public through the registrar‘s office, informed Pausiris alias Sarapas through the assistant of the strategos. …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    

@@ -1,0 +1,62 @@
+[META]
+id:       P.Oxy. 75.5052
+label:    P.Oxy. 75.5052
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     86 CE – 87 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (86 CE – 87 CE)
+# hgv-keywords: Vertrag — NN mit Thamunion — NN verpflichtet sich — die Hälfte von Darlehensschulden an die Tochter der Thamunion zurückzuzahlen — welche diese von ihrem verstorbenen Vater geerbt hat
+tm:       128893
+source:   https://papyri.info/ddbdp/p.oxy;75;5052
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … νις Χαιρή[μονος] … χου μητρὸς
+r.2    [Τα]υσίριος τῆς Ἡρακλᾶτος τῶν ἀπ’ Ὀξυρύγχων πόλεως Πέρσης τῆς ἐπιγονῆς
+r.3    Θαμουνίῳ Ἁρβίχιος τοῦ καὶ Ἱέρακος τοῦ
+r.4    [Ἀ]λεξάνδρου μετὰ κυρίου τοῦ ἑαυτῆς ὁμο[γ]νησίου ἀδελφοῦ Διογένους χαίρειν. ὁμο[λο]γῶ ἀποδώσειν τῇ θυγατρί σου Θερμού[θει] Θώνιος ἐν ἔτεσι δυσὶ ἀπὸ μηνὸς
+r.5    [Σεβ]αστοῦ τοῦ εἰσιόντος ἑβδόμου ἔτους
+r.6    [Αὐτ]οκράτορος Καίσαρος Δομιτιανοῦ
+r.7    Σεβαστοῦ Γερμανικοῦ ἀργυρίου σεβαστοῦ
+r.8    νομίσματος δραχμὰς τεσσαράκοντα, αἵ εἰσιν τὸ ἐπιβάλλον τῇ Θερμούθει ἥμισυ μέρος ἀργυρίου δραχμῶν ὀγδοήκοντα ὧν
+r.9    ὀφείλω τῷ μετηλλαχότι αὐτῆς πατρὶ
+r.10   Θώνει Ἡρακλᾶτος κατὰ χειρόγραφον καὶ
+r.11   διαγραφὴν τραπέζης, καὶ τόκου τούτων
+r.12   τοῦ προκειμένου χρόνου ἄλλας ἀργυρίου
+r.13   δραχμὰς δεκαδύο καὶ ἃς ἄλλας ὀφείλω
+r.14   αὐτῇ ἀγράφως ἀργυρίου δραχμὰς δέκα, ὥστ’ εἶναι ἐπὶ τὸ αὐτὸ ἀργυρίου δραχμὰς ἑξήκοντα δύο χωρὶς πάσης ὑπερθέσεως. ἐὰν δὲ μὴ
+r.15   ἀποδῶ καθʼ ἃ γέγραπται ἐκτίσω … [μ]εθ’ ἡμιολίας καὶ τόκον τοῦ ὑπε[ρπεσόντος] [χρό]νον τὸν καθήκοντα, τῆς πρ[άξεώς σοι οὔσης]
+r.16   καὶ τῇ Θερμουθίῳ ἐκ τε ἐμοῦ [καὶ ἐκ τῶν ὑπαρ]χόντων μοι πάντων καθ[άπερ ἐκ δίκης·]
+r.17   περὶ δὲ τῶν προκειμένων … [προσ]πεφώνηκ[α] …
+r.18   τραπεζίταις [τῆς ἐπὶ τοῦ πρὸς Ὀξυρύγχων]
+r.19   πόλει Σαραπε[ίου τραπέζης. κυρία ἡ χεὶρ παν]ταχῇ ἐπιφ[ερομένη καὶ παντὶ τῷ ὑπὲρ σοῦ ἐπι]φέροντι. ἔτους [ϛ] …
+r.20   σεβ …
+
+[TRANSLATION]
+# HGV-EN: [?Tho]nis son of Chaeremon son of . . . , mother Tausiris daughter of Heraclas, from the city of the Oxyrhynchi, Persian of the epigone, to Thamunium daughter of Harbichis also called Hierax son of Alexander, with her guardian, her full brother Diogenes, greetings. I acknowledge that I will give back to your daughter Thermuthis daughter of Thonis, within two years from the month Sebastos of the coming seventh year of Imperator Caesar Domitianus Augustus Germanicus, forty silver drachmas of the imperial coinage, which are the half share which falls to Thermuthis of the eighty silver drachmas that I owe to her late father Thonis son of Heraclas, in accordance with a cheirographon and a bank-diagraphe; and, as interest on that sum for the above period, twelve silver drachmas, and also ten other silver drachmas that I owe her without a contract, so that the sum total is sixty two silver drachmas, without any delay. If I do not repay her in accordance with what is written, I will pay . . . with the addition of one half and the appropriate interest for the excess time, and you and Thermuthium are to have the right of execution upon me and all my property, as if in consequence of a lawsuit. Regarding the afore-mentioned (debts?) I have notified . . . , the bankers of the bank at the Serapeum in the city of the Oxyrhynchi. The note of hand is valid wherever produced and for whoever produces it. Year (6 of Imperator Caesar Domitianus Augustus Germanicus . . .). (F. Maltomini)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

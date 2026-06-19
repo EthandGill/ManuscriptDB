@@ -1,0 +1,60 @@
+[META]
+id:       P.Oxy. 4.708v
+label:    P.Oxy. 4.708v
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     188 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (188 CE)
+# hgv-keywords: Briefe (amtlich) — der Epistratege oder Dioiket Antonius Aelianus an den Strategen des Diopolites — Kopien — manipulierte Fracht (Schiff)
+tm:       20408
+source:   https://papyri.info/ddbdp/p.oxy;4;708v
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … κ
+r.2    [Ἀντ]ώνιος Αἰλιανὸς στρατηγῷ Διοπολίτου Θηβαίδος χαίρειν.
+r.3    [τοῦ] καταχθέντος γόμου ἐκ τοῦ ὑπὸ σοὶ νομοῦ
+r.4    [διὰ ] … αύσιος Σιπῶτος καὶ τῶν σὺν αὐτῷ ἐν πυροῦ ἀρτάβαις Β
+r.5    [ἐν τῇ] τ[ῶ]ν δειγμάτων ἄρσει οὐ καθαροῦ φανέντος
+r.6    [ἐκ]έλευσα ἡμιαρτάβιον κριθολογηθῆναι
+r.7    [καὶ] βωλολογηθῆναι, καὶ ἐξέβη ἔλασσον
+r.8    [κρι]θῆς μὲν ἑκατοσταὶ δύο βώλου δὲ ὁμοί[ως ἑ]κατοστῆς ἥμισυ . τοὺς [ο]ὖν τὸν πυρὸν [ἐ]μβα[λο]μένους σιτολόγους πρᾶξον τῷ σῷ κινδύνῳ
+r.9    [τὰ]ς συναγομένας σὺν διαφόρῳ πυροῦ ἀρτάβας ν 𐅵 δ κα[ὶ] τὰ
+r.10   [προ]σμετρούμενα καὶ τὰς ἄλλας δαπάνας, καὶ προσθέμε[νος] τῷ λόγῳ τοῦ χειρισμοῦ δήλωσόν μοι. ἔτους κθ Φαῶφι λ.
+r.11   … ἐκομισάμην δύο, γίνονται β.
+r.12   [ἄλλ]ης. Ἀντώνιος Αἰλιανὸς στρατηγῷ Διοπολίτου Θηβαίδος χαίρειν.
+r.13   [τοῦ] καταχθέντος γόμου ἐκ τοῦ ὑπὸ σοὶ νομοῦ διὰ
+r.14   … νυχου [Π]ανγορσαούιος ἐν πυροῦ ἀρτάβαις σν
+r.15   [ἐν τ]ῇ τῶν δ[ει]γμ[ά]των ἄρσει οὐ καθαρ[οῦ φανέν][το]ς ἐκέλευσα 𐅵 ἀρτάβης κριθολογηθῆναι καὶ βωλο[λ]ογηθῆναι [καὶ ἐξέβη]
+r.16   [ἔλασ]σον κριθῆς μὲν ἑκατοστὴ α δ [βώλου δὲ ὁμοίως].
+r.17   [τοὺς] οὖν τὸν [π]υρὸν ἐμβαλομένους [σιτολόγους πρᾶξον]
+r.18   [τῷ σῷ] κινδύνῳ [τ]ὰς συναγομένου σίτου δ[ια]φόρῳ πυροῦ ἀρτάβας
+r.19   … [ καὶ τὰ ] …
+
+[TRANSLATION]
+# HGV-EN: Antonius Aelianus to the strategus of the Diospolite nome in the Thebaid, greeting. Since the cargo dispatched from the nome under you in charge of [.]ausis son of Sipos and his companions, amounting to 2000 artabae of wheat, appeared at the weighing of the samples to have been adulterated, I ordered that the amount of barley and earth in half an artaba of it should be ascertained, and it proved to be under measure by 2 per cent. of barley and likewise 1/2 per cent. of earth. Accordingly exact at your own risk from the sitologi who shipped the wheat the difference on the whole amount of the corn, 50 3/4 artabae of wheat, and the extra payments and other expenses, and when you have added this total to the account of the chiliarch let me know. The 29th year, Phaophi 30.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

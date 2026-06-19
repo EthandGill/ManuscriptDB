@@ -1,0 +1,114 @@
+[META]
+id:       BGU 1.57
+label:    BGU 1.57
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     160 CE – 161 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (160 CE – 161 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       9101
+source:   https://papyri.info/ddbdp/bgu;1;57
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    [παρ]ὰ Θαισαρίου κ[α]ὶ Ἡρωίδ[ος] θυγα[τέρ]ων Μελανᾶ τοῦ Τρύφωνος
+r.2    [ἀπὸ τ]ῆς μητροπόλεως ἀναγραφομένων ἐπʼ ἀμφόδου
+r.3    [Μο]ήρεως μετὰ κυρίου τοῦ συν[γ]ενοῦς Παμμένους τοῦ Σωκράτους
+r.4    [ὑπ]άρχει ἡμῖν καὶ τοῖς ἀδελφοῖς ἐν
+r.5    [τῇ κ]ώμῃ Νειλουπόλει οἰκία β
+r.6    [κα]ὶ αὐλὴ β καὶ δίμοιρον [μ]έρος ἑ[τ]έρας
+r.7    [οἰκί]ας ἐκ τοῦ πρὸς βορ[ρᾶ μέρους]
+r.8    [καὶ] ἐξέδρα κ[α]ὶ ἕκτος μέρος …
+r.9    … [ μαμ]μικὸν καὶ παππικὸν
+r.10   [οἰκία]ς ἅπερ ἀπογράφομαι εἰς τὴν
+r.11   [τοῦ] διεληλυθότος κγ ἔτους
+r.12   [θεο]ῦ Αἰλίου [Ἀ]ντωνείνου
+r.13   [κατʼ ][ο]ἰκίαν ἀπογραφήν, ἐν οἷς οὐδεὶς ἀπογράφεται
+r.14   [Παμ]μένης ἐπιδέδωκα.
+r.15   [ἔτους α Αὐ]τοκράτορος Καίσαρος
+r.16   [Μάρκου Αὐρηλίου Ἀντωνείνου]
+r.17   … Ἡρα[κλείδου μερίδος ] …
+r.18   παρὰ Σω[κράτους ] …
+r.19   ἀναγραφομεν ἐπʼ [ἀμφόδου ] …
+r.20   τῇ φροντιζ[ομένῃ] …
+r.21   [τ]ὴν ἀπογραφὴν …
+r.22   … νος τοῦ Δι …
+r.23   κώμῃ Ν[ειλουπόλει ] …
+r.24   καὶ αὐλὴν …
+r.25   θεοῦ Αἰλίο[υ ] …
+r.26   ἀπογραφ[ὴν ] …
+r.27   Σωκράτης Π[αμμένους ] …
+r.28   … νου εἰς τοὺς ἄλλους
+r.29   … ων ὑπέγραψεν εἰ
+r.30   … σιν ὑποπίπτουσιν
+r.31   [τῷ ἰδίῳ λόγῳ κατὰ τοῦ ὑπὸ] Ποστόμου ἐσταλ[μένα ] …
+r.32   … νου ὑπετάγη
+r.33   … ξων κουρίδων
+r.34   … νεριορακτιτων
+r.35   … ν
+r.36   … ν ὑπό τινων
+r.37   … ων ἐξ ὧν μέρος
+r.38   … ν κατʼ ἄνδρα
+r.39   … [ ο]ὐκ ἐδήλωσεν θ …
+r.40   π …
+r.41   τῶν …
+r.42   εξη …
+r.43   μεν …
+r.44   α …
+r.45   θε …
+r.46   Ἀμ …
+
+[TRANSLATION]
+# HGV-EN: Col. I [from] Thaisarion and Herois daughters of Melanas, son of Tryphon [from] the metropolis, registered in the quarter of [Mo]eris with their guardian and kinsman Pammenes, son of Sokrates. There belongs to us and our brothers in the village of Nilopolis 2 houses and 2 courtyards and 2/3 of another house in the northern [part][ and] an exedra and a 1/6 , grandmother’s and grandfather’s part, [of a house (?)], which I register for the past 23rd year of the house-by-house registration of [the God] Aelius [A]ntoninus, in which no-one is registered. (m. 2) I, [Pam]menes have submitted (this registration). (m. 3) [Year 1,] of Imperator Caesar [Marcus Aurelius Antoninus – – –] Col. II (m. 4) [To – – –] of the Hera[kleides division – – –] from So[krates – – –] registered in [the quarter – – –] to my charge the registration village of N[ilopolis – – – a house (?)] and courtyard God Aelius registration Sokrates, son of P[ammenes][ ] – – – Verso Remains of a document in which the Idios Logos is probably mentioned.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    
+30    
+31    
+32    
+33    
+34    
+35    
+36    
+37    
+38    
+39    
+40    
+41    
+42    
+43    
+44    
+45    
+46    

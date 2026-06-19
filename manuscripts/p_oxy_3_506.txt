@@ -1,0 +1,110 @@
+[META]
+id:       P.Oxy. 3.506
+label:    P.Oxy. 3.506
+name:     Contract — Oxyrhynchos (Oxyrhynchites, Ägypten)
+genre:    contracts
+date:     143 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (Oxyrhynchites, Ägypten)
+held:     Cambridge, MA
+shelf:    
+content:  Contract from Oxyrhynchos (Oxyrhynchites, Ägypten) (143 CE)
+# hgv-keywords: Vertrag — Darlehen — Geld — Kopie — Land als Sicherheit
+tm:       20638
+source:   https://papyri.info/ddbdp/p.oxy;3;506
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἀντίγραφ[ο]ν. ἔτου[ς] ἑβδόμου Αὐτοκράτορος Καίσα[ρ]ος Τίτου Αἰλίου Ἁδριανοῦ Ἀντωνί[νου]
+r.2    Σεβαστοῦ Εὐσεβοῦς μηνὸς Ἁδριανοῦ ἐν Ὀξυρύγχων πόλει τῆς Θηβαίδος.
+r.3    ἐδάνεισεν Σαραπίων Ἡρώδου τοῦ Ἐξακῶντο[ς ἀ]πʼ Ὀξυρύγχων πόλεω[ς]
+r.4    μητρὸς Κα[ι]κ[ι]λλίας Πώλλης Θατρῆτι καὶ Τετεωρίῳ ἀμφοτέραις Ἀπολλωνίου τοῦ … ος καὶ τῇ τούτων μητρὶ Δημᾶτι Ἀπολλωνίου τοῦ Πανεχώτου μη[τ]ρὸς Φιλωτέρας, ταῖς τρισὶ ἀπὸ κώμης Πέλα Περσείναις, ἑκάστῃ
+r.5    μετὰ κυρί[ο]υ Θατρῆτι μὲν τοῦ ἀνδρὸς Πετεύριος Ἀμμωνᾶτος τοῦ Σαγάθου
+r.6    μητρὸς Πανεχώτιδος ἀπʼ Ὀξυρύγχων πόλεως, Τετεωρίῳ δὲ τοῦ πρὸς μητρὸς
+r.7    θείου Πανεχώτου Ἀπολλωνίου μητρὸς Φιλωτέρας ἀπὸ τῆς προκειμένης
+r.8    Πέλα, Δημᾶτι δὲ τοῦ πρὸς πατρὸς αὐτῆς θείου Ἁτρῆτος Πανεχώτου τοῦ Ἀπολλωνίου ἀπὸ τῆς αὐτῆς Πέλα, ἐν ἀγυιᾷ ἀργυρίου Σεβαστοῦ νομίσματος δραχμὰς
+r.9    χιλίας κεφαλαίου αἷς [ο]ὐδὲν προσῆκται τόκου τριωβολείου ἑκάστης μνᾶς
+r.10   τοῦ μηνὸς ἑκάστου ἀπὸ τοῦ ἐνεστῶτος μηνὸς Ἁδριανοῦ. ἀποδότωσαν δ[ὲ]
+r.11   αἱ δεδαν[ε]ισμέναι τῷ δεδανε[ι]κότι τὸν μὲν [τ]όκον ἐπὶ [σ]υνκλεισμῷ
+r.12   [ἑ]κάστης δωδεκαμήνου, τῆς πί[σ]τεως περὶ τὸ[ν] δεδα[ν]ει[κό]τα οὔσης
+r.13   περὶ ὧν ἐ[ὰ]ν μὴ ἐπιφέρωσι αὐτοῦ αἱ δεδανε[ι]σμένα[ι] γ[ρ]άμματα,
+r.14   τὸ δὲ κε[φά]λαιον τῇ τριακάδι μηνὸς Καισαρ[ε]ίου τοῦ ἐνάτου ἔτους
+r.15   Ἀντωνίνου Καίσαρος τ[οῦ κυ]ρίου ἅμα τοῖς τῶ[ν λοιπ]ῶν μηνῶν ἐν[νέα]
+r.16   τόκοις χωρὶς ὑπερθέσεως. εἰ δὲ μή, [σ]υνχωροῦσι ἥ τε Θατρῆς καὶ Τετεώρ[ιο]ν μένειν περὶ τὸν δεδανεικότα καὶ τοὺς παρʼ αὐτοῦ μεταλημψομένους ἀντί τε τοῦ κεφαλαίου καὶ ὧν ἐὰν μὴ ἀπολάβῃ τόκων
+r.17   ἀπὸ τοῦ τῆς ἀποδόσεως χρόνου τὴν κράτησιν καὶ κυρίαν
+r.18   εἰς τ[ὸ]ν
+r.19   αἰεὶ χρόνον τῶν ὑπαρχόντων αὐταῖς ἐξ ἴσου περὶ τὴν αὐτὴν Πέλα
+r.20   ἐκ τοῦ Διοκλέους καὶ Πτολεμαίου Πέρσου ἱππικοῦ κλήρου τρίτου μέρους τὸ πρὶν ἀμπελικοῦ κτήματος νυνὶ δὲ χερσαμπέλ[ου] ἐκ τοῦ
+r.21   ἀποβορρ[ο]τάτου μέ[ρ]ου[ς το]ῦ αὐτοῦ τρίτου μέρους ἀρούρας μιᾶς ἡμ[ίσους] τετάρτου τετρακαιεξηκ[οστοῦ σὺν τ]οῖς ἐνοῦσι πᾶσι, [ὧν γείτονες] νότου [Σ]τεφάν[ου]
+r.22   … ο … τητος τοῦ … [ καὶ Θ]ατρῆς προκιμ[ένη Ἀπολλων]ίου βορρᾶ τοῦ …
+r.23   … αρπου κα[ὶ ] … [ ἀπηλι]ώτου διῶρ[υξ ] … [ τῶ]ν αὐτῶν κα[ὶ]
+r.24   [τοῦ Στε]φάνου λιβ[ὸς ] … υ ἀδελφο[ῦ ] … του επι …
+r.25   … ιστου αὐτω … ας τριτο …
+r.26   … ρ …
+r.27   … αυ … αι μ …
+r.28   … μεναις … νι ἐπὶ τ … τα
+r.29   … καὶ ἐπάνα[γκον παρέξασ]θαι τῷ δε[δανεικότι ἢ] τοῖς
+r.30   [παρʼ αὐτοῦ ταῦτα διὰ π]αντὸς βέ[βαια ἀπὸ π]άν[τω]ν πάσῃ βε[βαιώσει κα]ὶ κα[θαρὰν ἀπὸ πάσης γε]ωργ[ί]ας βα[σιλικῆς] καὶ [οὐσι]ακῆς γῆς κ[αὶ παντὸς εἴ]δ[ο]υς
+r.31   [καὶ πάσης παραγραφ]ῆς ἀπὸ δὲ δ[ημοσί]ων καὶ τελεσμά[των πάντω]ν
+r.32   [ἀπὸ τῶν ἐπ]άνω χρόνων μέχρι τοῦ τῆς κυρίας χρόν[ου, ἕως δʼ ἂν ἀπ]οδῶ[σιν αἱ δεδαν]εισμέναι τῷ δεδανεικότι τὸ κεφ[άλ]αιον καὶ τοὺς τόκους
+r.33   [οὐκ ἐξεῖναι τ]ῇ Θατρῆτι καὶ Τετεωρίῳ ταῦτα πωλεῖν οὐδὲ ὑποτίθεσθαι οὐ[δʼ ἄλλως κατα]χρηματίζειν οὐδὲ ἀπογράφεσθαί τινα ἐπὶ τῶν ἀγρῶν,
+r.34   [ἐξουσίας οὔσ]ης τῷ δεδανεικότι μετὰ τὸν χρόνον μὴ ἀπολαμβάνοντα
+r.35   [ἐμποιεῖσθαι] τούτων ἀντί τε τοῦ κεφαλαίου καὶ ὧν ἐὰν μὴ ἀπολάβῃ τόκων
+r.36   [τριωβολείω]ν καὶ τῶν καὶ τοῦ ὑπερπεσόντος χρόνου ἴσων τρ[ι]ωβολείων,
+r.37   [ἢ τὴν πρᾶξι]ν ποιεῖσθαι ἔκ τε τῶν δεδανεισμένων ἀλληλεγγύων οὐ[σῶν εἰς ἔκ]τισιν καὶ ἐξ ἧ[ς] ἐὰν αὐτῶν αἱρῆται καὶ ἐκ τῶν προκειμέ[νων ἁπάν]των καὶ ἐκ τῶν ἄλλων ὑπαρχόντων αὐταῖς πάντων κα[θάπερ ἐκ δί]κης, ἐξόντος τῷ δεδανεικότι ὁπόταν αἱρῆται κατοχὴν
+r.38   [αὐτῶν ] … χισα[σθ]αι πρὸ τοῦ τῶν ἐνκτήσεων βιβλιοφυλακίου πρὸς τὸ αὐ[τ ] … μ[ὴ ἐ]λαττουμένου τοῦ αὐτοῦ δεδανεικότος ἐν τῇ πράξει
+r.39   [ὧν ἄλλων ὀ]φεί[λει] αὐτῷ [ἥ] τε Θατρῆς καὶ Τετεώριον καθʼ ἕτερον δά[νειον γεγον]ός διὰ τοῦ αὐ[το]ῦ μνημονείου τ[ῷ] ἐνεστῶτι μηνὶ Ἁδριανῷ
+r.40   … σεως τῆς μη[τρὸ]ς ἐπὶ ὑποθήκῃ ταῖς προκειμέναις σιτικαῖς
+r.41   [ἀρούραις δέ]κα τέσσαρσι ἡ[μί]σει ἀργυρίου ταλάντου ἑνὸς καὶ δραχμῶν ἑξακοσίων
+r.42   [κεφαλαίο]υ καὶ τόκων, ἀ[λλὰ] εἶναι κύριον ὡς περιέχει. κυρία ἡ συνγραφή.
+r.43   … ατων …
+r.44   … [ ἐὰ]ν βούλ[ηται ] …
+
+[TRANSLATION]
+# HGV-EN: Copy. The 7th year of the Emperor Caesar Titus Aelius Hadrianus Antoninus Augustus Pius,the of the month Hadrianus, at Oxyrhynchus in the Thebaid. Sarapion son of Herodes son of Exacon, of Oxyrhynchus, his mother being Caecilia Polla, has lent to Thatres and Teteorion, both daughters of Apollonius son of ..., and to their mother Demas daughter of Apollonius son of Panechotes, her mother being Philotera, all three Persians from the village of Pela, each with her guardian, of Thatres her husband Peteuris son of Ammonas son of Sagathes, his mother being Panechotis, of Oxyrhynchus, of Teteorion her maternal uncle Panechotes son of Apollonius and Philotera, of the aforesaid Pela, and of Demas her paternal uncle Hatres son of Panechotes son of Apollonius, of the said Pela, in the street, a sum of 1000 drachmae of Imperial silver coin, to which nothing has been added, at the interest of 3 obols for each mina per month dating from the present month Hadrianus. The borrowers shall pay to the lender the interest at the conclusion of each twelvemonth, the lender having security for everything for which they do not produce his written receipt, and the principal on the 30th of the month Caesareus of the 9th year of Antoninus Caesar the lord together with the interest for the remaining 9 months without any delay. If they fail, Thatres and Teteorion concede that the borrower and his assigns in place of the principal and of all interest which he may not receive shall from the time when the payment falls due have the possession and ownership for ever out of the land owned by them in equal shares near the said Pela in the cavalry-soldier’s holding of Diocles and Ptolemaeus, Persian, namely the third part of what was previously a vineyard but is now dry vine-land, in the most northerly portion of the said third part 1 49/64 arourae with all their contents, of which the adjacent areas are, on the south the land of Stephanus ... and Thatres the aforesaid, daughter of Apollonius, on the north..., on the east a canal ... and the land of Stephanus, on the west ...; and (the borrowers) are compelled to deliver this land to the lender or his assigns guaranteed for all time against all risks with every guarantee and free from obligation to cultivate Crown land or Imperial estates and from all kinds of imposts and all State requisitions and taxes dating from previous times up to the period of Sarapion’s ownership. And until the borrowers repay to the lender the principal and the interest, Thatres and Teteorion have no right to sell this land or mortgage it or dispose of it in any other way or register any one as owning it, while the lender has the right at the expiration of the term of the loan,if he fails to recover it, to assume the ownership of this land in place of both the principal and whatever interest at 6 per cent. he may fail to recover and interest for overtime at the equal rate of 6 per cent., and to make an execution upon the borrowers who are security to each other for payment and upon whichever of them he chooses and upon all the aforesaid land and upon the rest of their property as if in accordance with a legal decision, the lender having the right whenever he chooses to register his mortgage at the property record-office ..., and the said lender shall incur no loss in his right of execution for the other sums which Thatres and Teteorion owe him in respect of another loan drawn up through the said registry-office in the present month Hadrianus for which their mother is security upon the mortgage of the aforesaid 14 1/2 arourae of wheat-bearing land, namely a principal sum of 1 talent 600 drachmae and interest, but all the provisions of that deed are valid. This contract is valid.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    
+30    
+31    
+32    
+33    
+34    
+35    
+36    
+37    
+38    
+39    
+40    
+41    
+42    
+43    
+44    

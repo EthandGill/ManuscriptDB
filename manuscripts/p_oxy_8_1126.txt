@@ -1,0 +1,54 @@
+[META]
+id:       P.Oxy. 8.1126
+label:    P.Oxy. 8.1126
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (401 CE – 500 CE)
+# hgv-keywords: Vertrag — Pacht — Land
+tm:       35570
+source:   https://papyri.info/ddbdp/p.oxy;8;1126
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … ολ …
+r.2    … [ἑκου]σίως ἐπιδέχομαι μεμισθῶσθαι παρ[ὰ σοῦ] ἀπὸ τῶν ὑπαρχόντων … ε …
+r.3    τῆς σ[ῆ]ς προστασίας γῃδίων περὶ πεδίον τῆς
+r.4    αὐτῆς κώμης ἐν κλήρῳ καλουμένῳ Τσαβατώου
+r.5    ἀρο[ύ]ρας τέσσαρας, γιίνονται ἄρουραι δ, πρὸς ἀναμέτρησιν
+r.6    σχοινίου δικαίου, γείτονες νότου τῶν ἀπὸ Τάλη,
+r.7    βορρᾶ τῆς α[ὐ]τῆ[ς ][π]ροστασία[ς], λιβὸς λιδης Κήτς ἀπηλιώτου λιδης … μεια, εἰς [σ]πορὰν οἵαν ἂν βουληθῶμεν εἰς τὸν σπόρον τῆς ἀγαθῆς ιδ ἰνδικτίωνος, φόρου
+r.8    ἀποτάκτου τοῦ μεταξὺ συμπεφωνημένου ἑκάστης
+r.9    ἀρουρῶν χρυσοῦ κεράτια δέκα τρία ἰδιωτικῷ ζυγῷ,
+r.10   γίνεται ὁμοῦ κεράτια νβ καθαρὰ ἰδιωτικῷ ζυγῷ, ὧνπερ τὸν φόρον ἀποδώσω σοι ἐν καιρῷ ἀπαιτήσεως τῶν δημοσίων
+r.11   ἐπὶ τῇ ιδ ἰνδικτίωνι ἀνυπερθέτως καὶ ἄνευ πάσης ἀντιλογίας μετὰ καὶ τῶν ὑπαρχόντων ἡμῶν πάντων
+r.12   ὑπ … σοι ἐνεχύρου αὐτῆς δικαίου τῶν αὐτῶν
+r.13   … [ ἡ ][μί]σθωσις κυρία καὶ β[εβ]αία καὶ ἐπερωτηθέντες ὡμολογήσαμεν. Αὐρήλιοι
+r.14   … ς Ἑ[ρμί]ας καὶ Πρανίσχολος υἱὸς Φοιβάμ[μωνος Σερήνου μεμισθώμεθα ὡς πρόκειται. ] …
+r.15   … ιος Ἑρμίου καὶ Πρ[ανίσ]χολος υἱ[ὸς] Φοιβάμμωνος Σερην[ο]υ … [ χρυσοῦ κεράτια νβ]
+r.16   καθαρὰ ἰδιω[τικῷ ζυγῷ.]
+
+[TRANSLATION]
+# HGV-EN: ... I undertake of my free will to lease from you, from the land belonging to your patronage in the fields of the said village in the holding called that of Tsabatoüs, four arourae, total 4 arourae, by the measure of a fair measuring-line, the boundaries being on the south the land of the people of Tale, on the north that in your said patronage, on the west ..., on the east ..., to be sown with any kind of crop we choose, for the sowing of the auspicious 14th indiction, at a fixed rent as agreed between us of 13 carats of gold on the private standard for each aroura, making together 52 carats of pure metal on the private standard; and we will pay the rent of these to you at the time of the collection of public taxes in the 14th indiction without delay or dispute of any kind, at the risk of all our property, which is pledged to you for this purpose. The lease is valid and guaranteed, and in answer to the question we have given our consent.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

@@ -1,0 +1,74 @@
+[META]
+id:       P.Oxy. 6.922
+label:    P.Oxy. 6.922
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     576 CE – 625 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (576 CE – 625 CE)
+# hgv-keywords: Aufstellung von Pferden und Eseln und darüber — was mit ihnen geschah
+tm:       37133
+source:   https://papyri.info/ddbdp/p.oxy;6;922
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    τὰ δύο ἱπ πάρια Ἄσκλου ἐδόθη εἰς τὸ ἱπ πικόν.
+r.2    τὸ ἱπ πάριν Ὤφεως ἐδόθη εἰς τὸ ἄνω στάβλον.
+r.3    τὸ ἱπ πάριν τοῦ ἄρχοντος ἐδόθη εἰς τὸ αὐτὸ στάβλον.
+r.4    τὸ ἱπ πάριον Σπανίας ἐδόθη εἰς τὸ αὐτὸ στάβλον.
+r.5    τὸ ἱπ πάριον τοῦ Ἀρσινοίτου ἐδόθη εἰς τὸ αὐτὸ στάβλον.
+r.6    τὸ μικρὸν λευκὸν ἱπ πάριν ἐδόθη εἰς τὸν ἱπ πικόν.
+r.7    Πατρίκιον καὶ τὸν μικρὸν γεράτην δεδώκαμεν
+r.8    ὑπὲρ τοῦ πυρροῦ ἵπ που τοῦ ἄνω στάβλου.
+r.9    τὸ λευκὸν φοράδιν καὶ πέλατον δεδώκαμεν
+r.10   ὑπὲρ τοῦ ἀποθανόντος μικροῦ ἵπ που.
+r.11   τὸν κέντινον πεπράκαμεν καὶ ἠγοράσαμεν
+r.12   τὸν μικρὸν μελανὸν τὸν ἐν τῷ στάβλῳ.
+r.13   τὸν ἵπ πον τὸν λεγόμενον Πλέβ πεπράκαμεν
+r.14   ὑπὲρ τριῶν νομισμάτων καὶ ταῦτα ἔχει ὁ κύριος Φιλόξενο[ς].
+r.15   τὸ ἱπ πάριν Κωνσταντίνου πόλεως πεπράκαμεν
+r.16   ὑπὲρ [νομισμάτων] γ καὶ ταῦτα ἔχει ὁ κύριος Φιλόξενος.
+r.17   τὰ β ζῷ[α τ]ῆς Ἡρακλέους καὶ τὸ ζῷον Οὐρεειὴβτ
+r.18   πεπρά[κ]αμεν ὑπὲρ νομισμάτων ε 𐅷 καὶ ταῦτα ἐδόθη τῷ αὐτῷ.
+r.19   τὸ ζῷον το[ῦ] ἄρχοντος καὶ τὸ τοῦ ὑδροφόρου καὶ ὁ μοῦργος
+r.20   ἀπέθανον.
+r.21   τὸ φοράδιν τὸ ἀποθανὸν ὑποκάτω Μηνᾶ μειζοτέρου.
+r.22   ἠγοράσθη ἀπὸ Ὤφεως ζῷα τρία νομισμάτων η γ,
+r.23   καὶ ἀπὸ Παλλώσεως ἄλλο ζῷον νομισμάτων γ.
+r.24   ἀπέθανεν ἡ ὀνοθήλεια τῶν Καρανεωτῶν.
+r.25   τὴν ἄλλην ὀνοθήλειαν τῶν αὐτῶν Καρανεωτῶν καὶ τὴν τῶν ἀπὸ Λουκίου
+r.26   καὶ τὴν μικρὰν ἐπώλησα καὶ ἔλαβα τέσσαρα νομίσματα ὑπὲρ αὐτῶν.
+
+[TRANSLATION]
+# HGV-EN: The two horses from Asclou were delivered to the groom. The horse from Ophis was delivered to the upper stable. The horse of the magistrate was delivered to the same stable. The horse from Spania was delivered to the same stable. The horse from the Arsinoite nome was delivered to the same stable. The small white horse was delivered to the groom. I gave. Patricius(?) and the small ... for the bay horse of the upper stable. I gave the white mare and the ... for the small horse which died. I sold the ... and bought the small black one which is in the stable. I sold the horse called Pleb for 3 solidi, which the revered Philoxenus has. I sold the horse from Constantinople for 3 solidi, which the revered Philoxenus has. I sold the two asses (?) from Heracleopolis and the ass from Oureeiebt for 5 2/3 solidi, which were paid to the same. The ass of the magistrate and that of the water-carrier and its mate are dead. The mare which died belonged to Menas the official. Three asses were bought from Ophis for 8 1/3 solidi, and another from Pallosis for 3 solidi. The she-ass of the Karaneots is dead. The other she-ass of the said Karaneots and that belonging to the people from Lucii and the small one I sold, and received 4 solidi for them.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    

@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 12.1445
+label:    P.Oxy. 12.1445
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (101 CE – 200 CE)
+# hgv-keywords: Bericht — Land (brachliegend) — Aruren — öffentliches und privates Land — Zahlungen — Getreide — Artaben
+tm:       28992
+source:   https://papyri.info/ddbdp/p.oxy;12;1445
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    [δι]αψίλων ἄρουραι η 𐅷 πυροῦ ἀρτάβαι λθ δ κδ κριθῆς ἀρτάβαι κα ϛ κδ,
+r.2    γίνονται ἄρουραι οβ 𐅵 ιϛ λβ ξδ πυροῦ ἀρτάβαι τμζ 𐅵 γ κριθῆς ἀρτάβαι νβ 𐅵 γ ιβ,
+r.3    προσμετρουμένων πυροῦ ἀρτάβαι νβ ϛ κδ κριθῆς ἀρτάβαι ζ 𐅵 γ ιβ μη, πενταρταβίας β 𐅵 η,
+r.4    γίνονται ἀρτάβαι ι 𐅵 κδ μη, γίνονται πυροῦ ἀρτάβαι υ κδ κριθῆς ἀρτάβαι ξγ γ η μη
+r.5    ἠπείρου δημοσίας ἀρούρης δ η πυροῦ ἀρταβῆς 𐅵 δ μη προσμετρουμένων η, γίνεται 𐅵 γ κδ μη.
+r.6    γίνονται δημοσίας γῆς ἄρουραι οβ 𐅵 [δ η] ιϛ λβ ξδ πυροῦ ἀρτάβαι τμη 𐅵 ιβ μη,
+r.7    προσμετρουμένων πυροῦ ἀρτάβαι νβ γ, γίνονται πυροῦ ἀρτάβαι υ 𐅵 γ ιβ μη, καὶ ἡ προκειμένη κριθή.
+r.8    ἰδιωτικῆς γῆς ὅλῃ τῇ ἐπιγραφῇ ἄρουραι δ 𐅵 δ ιϛ λβ
+r.9    πυροῦ ἀρτάβαι δ γ μη, φιλανθρώπου η μη, προσμετρουμένων 𐅷, γίνονται πυροῦ ἀρτάβαι ε ϛ.
+r.10   [γίνο]νται ἄρουραι οζ [𐅵 δ] ιϛ ξδ πυροῦ ἀρτάβαι τνγ ιβ μη κριθῆς ἀρτάβαι νβ 𐅵 γ ιβ,
+r.11   προσμετρουμένων πυροῦ ἀρτάβαι νγ κριθῆς ἀρτάβαι ζ 𐅵 γ ιβ μη, πενταρταβίας β 𐅵 η, γίνονται ι 𐅵 κδ μη,
+r.12   γίνονται πυροῦ ἀρτάβαι υϛ ιβ μη κριθῆς ξγ γ η μη,
+r.13   καὶ τῶν τῶι ιη ἔτει νήσων ποταμοφορήτων ἄρουραι δ δ
+r.14   πυροῦ ἀρτάβαι κε 𐅵 κδ, προσμετρουμένων γ 𐅷 η, γίνονται πυροῦ ἀρτάβαι κθ γ.
+r.15   ἠπείρου ἄρουραι … 𐅵 η ξδ πυροῦ ἀρτάβαι ιε ϛ κδ μη, προσμετρουμένων β γ κδ, γίνονται ιζ [𐅵 ιβ] μη.
+
+[TRANSLATION]
+# HGV-EN: ... bare (islands) 8 2/3 arurae, 39 7/24 artabae of wheat, 21 5/24 art. of barley; total 72 39/64 ar., 347 5/6 art. of wh., 52 11/12 art. of barl., for extra payments 52 5/24 art. of wh., 7 45/48 art. of barl., for 5-art. percentage 2 5/8, total 10 27/48 art. Total 400 1/24 art. of wh. 63 23/48 art. of barley. Public land on the mainland 3/8 ar. 37/48 art. of wh., extra payments 1/8, total 43/48. Total for public land 72 63/64 ar., 348 29/48 art. of wh., for extra payments 52 1/3 art. of wh., total 400 45/48 art. of wh. and the aforesaid barley. Private land for the whole assessment 4 27/32 ar., 4 17/48 art. of wh., for salary 7/48, for extra payments 2/3, total 5 1/6 art. of wheat. Total 77 53/64 ar., 353 5/48 art. of wh., 52 11/12 art. of barl., for extra payments 53 art. of wh., 7 45/48 art. of barl., for 5-art. percentage 2 5/8, total 10 27/48. Total 406 5/48 art. of wheat, 63 23/48 art. of barley. And on islands carried away by the river in the 18th year 4 1/4 ar., 25 13/24 art. of wh., for extra payments 3 19/24, total 29 1/3 art. of wheat. On the mainland [.] 41/64 ar., 15 11/48 art. of wh.,for extra payments 2 9/24, total 17 29/48.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

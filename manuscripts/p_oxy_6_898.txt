@@ -1,0 +1,78 @@
+[META]
+id:       P.Oxy. 6.898
+label:    P.Oxy. 6.898
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     123 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (123 CE)
+# hgv-keywords: Eingabe — Didymos an den königlichen Schreiber und amtierenden Strategen Hermodoros — Betrug durch seine Mutter und gleichzeitigen Vormund — ungerechte Entscheidung des Strategen Philonikos
+tm:       20361
+source:   https://papyri.info/ddbdp/p.oxy;6;898
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἑρμοδώρωι βασιλικῷ γραμματεῖ
+r.2    διαδεχομένωι καὶ [τ]ὴν στ[ρατηγίαν]
+r.3    παρὰ Διδύμου Διονυσίου τοῦ κα[ὶ]
+r.4    Φατρέως ἀπʼ Ὀξυρύγχων πόλεω[ς].
+r.5    ἡ μήτηρ μου Ματρεῖνα Ἡρακλήου
+r.6    τοῦ καὶ Ματρέ[ου ο]ὖσά μου ἐπ[ίτρο]πος καὶ πολλά μ[ε ἀ]δικοῦσα ἔτι
+r.7    καὶ πλανήσασά με ἐποίησεν εἰς
+r.8    Ὄασιν καταβῆναι καὶ γράψασθαι
+r.9    Διοσκόρῳ ἀνδρὶ ἀπελευθέρας
+r.10   αὐτῆς ὄντι ἰδίωι αὐτῆς αδοτ …
+r.11   ἀργυρίου ταλάντου ἑνὸς ἡμίσου[ς]
+r.12   καὶ ὑποθέσθαι ὅσα ἔχω ἐν τῇ Ὀάσε[ι]
+r.13   κτήματα [λα]βόντα τοῦ Διοσκόρο[υ]
+r.14   γράμματα ἀπερ[ισπ]άστου. ἀναβά[ν]τα δέ με εἰς τὸν Ὀξυρυγχείτην
+r.15   μετὰ καὶ τοῦ Διοσκόρου ἐνήδρευσεν ἄχρι ἂν αἰτήσῃ με τὴν ἀπερίσπαστον καὶ ταύτης ἐνκρατὴς
+r.16   γενομένη καὶ συνειδυῖα ἑαυτῆι
+r.17   πολλὰ τῶν ἐμῶν ἀνηρπακυίηι
+r.18   οὐ πρότερον ὁμολογεῖν θέλει
+r.19   αἰτοῦσά μ[ε] ἀντὶ ταύτης ἀποχὴν
+r.20   τῆς ἐπιτροπῆς, οἰομένη ἐκ τούτου δύνασθαι ἐκφυγεῖν ἃ διέπραξεν· καίτοι Φιλονίκου τοῦ στρατηγοῦ
+r.21   καθʼ ὑπομνηματισμοὺς κρίναντος ἕτερόν μου ἐπίτροπον
+r.22   κατασταθῆναι, οὐ πιστεύοντος
+r.23   οὔτε αὐτῇ οὐδὲ τῆι ἡλικίᾳ μου.
+r.24   χωρὶς δὲ τούτων οὐδὲ ὀψώνιόν μοι ἐχορήγησεν ἔτι πρὸ μηνῶν τριῶν , ἐκ παντὸς θλίβουσά με εἰς τὸ μὴ δύνασθαι κατʼ αὐτῆς προελθεῖν. ὧν πάντων χάριν ἀναγκαίως ἐπιδιδοὺς τὸ
+r.25   ἀναφόριον ἀξιῶ ἔχειν ἐν καταχωρισμῷ καὶ διαλαβεῖν ὡς ἐάν
+r.26   σοι [δ]όξῃ. ἔτους ζ Αὐτοκράτορος
+r.27   Καίσαρος Τραιανοῦ Ἁδριανοῦ Σεβαστοῦ
+r.28   Παῦνι κθ.
+
+[TRANSLATION]
+# HGV-EN: To Hermodorus, basilicogrammateus and deputy-strategus, from Didymus son of Dionysius also called Phatres, of the city of Oxyrhynchus. My mother Matrina, daughter of Heracleus also called Matreus, who is my guardian and by whom I am much injured, has ended by beguiling me and causing me to go to the Oasis, and to draw up with Dioscorus, the husband of her freedwoman and her confidant, a ... of one and a half talents of silver, and to mortgage all my property in the Oasis in return for a deed of release received from Dioscorus. On my return to the Oxyrhynchite nome with Dioscorus she watched for an opportunity of asking me for the deed, and after obtaining possession of it, being conscious of the theft of much of my property, she refuses to acknowledge having it, and demands in return a receipt for her guardianship, thinking by this means to escape the consequences of her misdeeds. This she has done notwithstanding the fact that Philonicus the strategus has decided, in accordance with a report of proceedings, that another person should be appointed as my guardian, distrusting both her and my own youth. Besides this she has failed to supply my allowance for the last three months, using every means of oppressing me so as to render me incapable of proceeding against her. For all these reasons I am obliged to present this petition, and beg that it may be registered, and that you will take whatever steps you think best. The seventh year of the Emperor Caesar Trajanus Hadrianus Augustus, Pauni 29.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    

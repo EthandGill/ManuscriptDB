@@ -1,0 +1,64 @@
+[META]
+id:       P.Oxy. 10.1253
+label:    P.Oxy. 10.1253
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (301 CE – 400 CE)
+# hgv-keywords: Bericht an den Präfekten — Eintreibung von Abgaben — Militär
+tm:       33634
+source:   https://papyri.info/ddbdp/p.oxy;10;1253
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … υ …
+r.2    … [ τῷ] λαμπροτ[άτῳ] ἐπάρχῳ Αἰγύπτου.
+r.3    [γνωστέον ][ἐν τῇ Ὀξυρυγ]χιτῶν πόλει ἐπιδεδημηκέναι τοὺς ἑξῆς
+r.4    [ἐνγεγραμμένους πρ]ωτήκτορας καὶ κορτιανοὺς ἕνεκεν τῶν
+r.5    … θ … ων καὶ συνηθροικέναι τούς τε καὶ τὰ κοινὰ διοικοῦν[τας] πρώτους [μ]ετὰ σὲ τιμὴν καὶ κτήτορες ἐσχηκέναι τε παρʼ αὐτῶν
+r.6    λ[όγ]ῳ ἐφοδίου τὰ ἐνγεγραμμένα οὕτως·
+r.7    … ον [κ]αὶ Θέριον κεντηναρίους ἐλθόντας ἕνεκεν τοῦ ἐξαργυρισμοῦ
+r.8    καὶ τῆς προσφορᾶς χρυσοῦ νομισμάτια ν,
+r.9    τὰ … [θ]έντα σ … χιαια β,
+r.10   δοθέντα αὐτοῖς διὰ Σαραπίωνος Εὐδαίμονος γενομένου τραπεζίτου,
+r.11   Ζω[ίλο]ν κορνικουλάριον τάπητας ἑξαπήχεις κ
+r.12   δοθέντα[ς] αὐτῷ διὰ Σώζοντος ταπητεμπόρου,
+r.13   Ταυρίσκον πρωτήκτορα ἐλθόντα ἕνεκεν τῆς ἀπαιτήσεως
+r.14   τοῦ σιτοκρίθου τῶν ἀπὸ ζ ἕως ια χρυσοῦ νομισμάτια π
+r.15   ὧν κεφαλαιωτὴς ἐγένετο Ἰσίδωρος βοηθὸς πραιποσίτου ζ πάγου,
+r.16   Ἀκυλῖνον πρωτήκτορα κολ[λ]ήγα[ν] τοῦ προκειμένου Ταυρίσκου
+r.17   χρυσοῦ νομισμάτια ν
+r.18   ὧν κεφαλαιωτὴς ἐγένετο Γαϊανὸς βοηθὸς πραιποσίτου ε πάγου,
+r.19   τῆς γνώσεως τῶν ὑφʼ ἑκάστου παρασχεθέντων τῶν
+r.20   τε πραιποσίτων καὶ τῶν λοιπῶν οὔσης παρὰ Τριαδέλφῳ ἀρχιυπηρέτῃ
+r.21   στρατηγοῦ· καὶ ἵνα μηδέν σου λανθάνῃ τὴν λαμπρότητα μηνύομεν, ἔπαρχε κύριε.
+
+[TRANSLATION]
+# HGV-EN: To ..., the most illustrious praefect of Egypt. It should be made known that the members of the bodyguard and of the cohorts herein following have stayed in the city of Oxyrhynchus on account of the ... and have assembled the public magistrates next to yourself in rank and property-owners and received from them on account of travelling expenses the amounts herein written, namely: ... and Therius, centurions, who came for the adaeratio and the contribution (?), 50 solidi of gold and 2 .. ., paid to them through Sarapion son of Eudaemon, formerly banker; Zoïlus, adjutant, 20 rugs of 6 cubits, supplied to him through Sozon, rug-merchant; Tauriscus, member of the bodyguard, who came for the collection of corn and barley for the days from the 7th to the 11th, 80 solidi of gold, of which the collector (?) was Isidorus, assistant of the praepositus of the 7th pagus; Aquilinus, member of the bodyguard, colleague of the aforesaid Tauriscus, 30 solidi of gold, of which the collector was Gaianus, assistant of the praepositus of the 5th pagus. The account of what was provided by each, the praepositi and the others, is with Triadelphus the chief assistant of the strategus. We give this information in order that nothing may escape your highness, my lord praefect.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    

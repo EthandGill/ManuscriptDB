@@ -1,0 +1,120 @@
+[META]
+id:       P.Oxy. 3.472
+label:    P.Oxy. 3.472
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     131 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (131 CE)
+# hgv-keywords: Protokoll (?) — Prozeß — Rede eines Anwalts — Anklage gegen Hermione wegen Vergiftung
+tm:       20607
+source:   https://papyri.info/ddbdp/p.oxy;3;472
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    αυτη. καὶ γὰρ ἀπὸ τῆς ἐκείνου οἰκίας ἐξεληλύθει πεφαρμακεῦσθαι
+r.2    λέ[γω]ν καὶ ἀπ[ὸ] μὲν τῆς Ἑρμιόνης οἰκίας ἐξιὼν οὔτʼ ἔφη
+r.3    πρός τινα αἰσθέσθαι οὐδενὸς οὐδʼ ὅλως ὑπόνοιαν οὐδεμίαν ἔσχεν,
+r.4    ἀπὸ δὲ τῆς ἑαυτοῦ τε καὶ τοῦ κληρονομεῖν μέλλοντος υἱοῦ
+r.5    προῆλθε πεφαρμακεῦσθαι λέγων. εἶχεν μὲν οὖν αἰτίας τοῦ καὶ
+r.6    αὐτὸς ἑ[αυ]τῷ προσενεγκεῖν φάρμακον ἃς καὶ ἄλλοι πολλοὶ τὸν
+r.7    θάνατον τοῦ ζῆν προκρίναντες, καὶ γὰρ ὑπὸ δανειστῶν ὤλλυτο καὶ ἠπόρει. εἰ δʼ ἄρα τις καὶ ἐπεβούλευσεν αὐτῷ ὁ υἱὸς ἐπιτηδειότατος. διὰ τί δʼ ἐπήνεγκεν τὸ ἔνκλημα ταύτῃ δῆλον. δύναται
+r.8    μὲν γὰρ καὶ ἄλλα τινὰ λελυπῆσθαι παρὰ τὸν τῆς προνοίας χρόνον,
+r.9    διαδείκνυσι δὲ τὸ πρᾶγμα ὅτι καὶ ἐζηλοτύπει αὐτὴν μὴ ἐπισταμένην
+r.10   καὶ ἄνδρα μὲν αὐτῆς ἑαυτὸν ἐκάλει, οὐκ ἀξιούμενος δὲ ταύτης
+r.11   τῆς προσηγορίας ὑπʼ αὐτῆς καὶ ἐρωτικῶς ἤλγει καὶ ἐπιζῆν ἑαυτῷ
+r.12   ταύτην οὐκ ἤθελεν . ἐὰν λέγωσιν δοῦλον Σμάραγδον ἀνεύρετον
+r.13   γε[γ]ονέναι αὐτὸν αἰτίαν ἔχοντα τοῦ τὴν πίστιν κεκλοφέναι ,
+r.14   φη[σ]ὶν δʼ οὖν καὶ πίστιν γεγονέναι ἵνα κλεπῇ, οὐ δύναται γὰρ κεκλέφθαι τὸ μηδʼ ἀρχὴν γενόμενον μὴ δυνατὸν δʼ εἶναι μηδὲ
+r.15   πίστιν γεγρ[ά]φθαι. οὔτε γὰρ ἡ ἀγοράσ[ασ]α γράμματα ᾔδει οὔτε ἡ νῦν
+r.16   ἐνκαλουμένη Ἑρμιόνη, οὔτε ξένος οὐδεὶς ἄλλης καταγραφείσης
+r.17   πίστ[ι]ν πα[ρʼ ἑ]αυτοῦ δίδωσι. ὥστε καὶ παρὰ τίνος ἂν εἴποι τὴν πίστιν
+r.18   ἐσχηκέναι; παρὰ παντὸς γὰρ ἄκυρος ἦν. εἰ δὲ ἀπέδρα δοῦλος
+r.19   οὐδὲν δύναται τοῦτο κατὰ δεσπότου. ἔτι μέντοι περὶ τοῦ
+r.20   μηδὲ πίστιν εἶναι καὶ ἡ νομὴ συνβάλλεται. τῶν γὰρ ἐν πίστει
+r.21   καταγραφέντων τὸ ὄνομα μ[ό]νον εἰς τοὺς χρηματισμοὺς
+r.22   παρε[θ]έντων, οὔπω δʼ ἀντιποιουμένων ὧν κατεγράφησαν
+r.23   ἡ μὲν ἀγοράσ[ασ]α φανερά ἐσ[τι]ν καὶ ἀντιπεποιημένη καὶ ἀφʼ οὗπερ
+r.24   ἠγόρα[σ]ε [κ]αρπουμένη, ὁ δʼ ἀφʼ οὗπερ πέπρακε οὐκέτι ἀλλὰ καὶ
+r.25   τῶν τῆς μητρὸς τὴν [οἰ]κονομίαν ὡς προνοητὴς ποιούμενος
+r.26   τούτοι[ς δʼ οὐκ] ἐνχ[ει]ρῶν . ἐὰν κοινόν ὁμολόγημα λέγωσι γεγονέναι τῆς θυγατρὸς πρὸς τὴν Ἑρμιόνην ἑκατὸν πεντήκοντα
+r.27   κεραμίω[ν] καὶ ἀπὸ τούτων ὧν ἠγόρασεν κτημάτων φαμὲν
+r.28   τοῦτο [πᾶ]ν μηδὲν εἶναι πρὸς τὸν κατήγορον. οὐ γὰρ εἴ τι ἔπραξε
+r.29   θυγάτηρ πρὸς τὴν μητέρα τοῦτο αὐτοῖς εἰς συκοφαντίαν εὕρημα,
+r.30   ὅμως δὲ οὔτε τῶν αὐτῶν χρόνων οὐδὲ τοῦτο ἀλλὰ μετʼ ἐνιαυτὸ[ν] ἐγγὺς δὴ οὔτε ἑκ[ατὸ]ν πεντήκοντα κεραμίων χορηγία
+r.31   πρὸς πίστ[ι]ν τεσσάρων ταλάντων οὐδὲν ἐστι, ταῦτα γὰρ μόνον
+r.32   ἑνὸς ἐστιν τόκος. ἀλλὰ μὴν … υτων πίστεως περὶ τούτων
+r.33   οὔσης παρὰ τῷ δοκοῦντι πεπρακέναι ἑτέρῳ ἂν ἑαυτὴν γράμματι ἡ θ[υγ]άτηρ κατηγγύα τῷ δημοσίῳ μελλήσουσα ἀφαιρεθήσε[σθαι ὁ]πότε ἐκείνῳ ἐδόκει; ἀλλὰ καὶ τὸ τῆς [χορ]ηγίας τοιοῦτον
+r.34   ἦν· [τῇ γὰρ Ἑρμι]όνῃ τρεῖς παῖδες ἦσαν, Ἀφρο[δ] … ν, Διονυσία,
+r.35   τ … ν τῆς Διονυσίας τὸ προ … Ἑρμιόνη
+r.36   … ἔκστασιν τοῦ μην … εν
+r.37   … ης … τερου
+r.38   τῶν παίδων τοῦ πρεσβυτέρου,
+r.39   ἐδεήθη ἡ Διονυσία τῆς μητρὸς
+r.40   μὴ ἐπὶ μόνοις αὐτὴν ἀπολιπεῖν
+r.41   τοῖς διαταγῆναι φθάσασιν
+r.42   ἀλλά τι καὶ παρασχεῖν ὡς ἐπὶ
+r.43   ἑνὶ μόνῳ σαλεύουσαν, καὶ ἡ μὲν
+r.44   Ἑρμιόνη δίδωσιν αὐτῇ ἓν ἥμισυ
+r.45   τάλαντον. ἡ δʼ ἵνα μὴ καὶ ζῶσα
+r.46   ἡ μήτηρ τούτων στερῆται δίδωσι
+r.47   ἀντὶ τόκου κατʼ ἐνιαυτὸν τὴν
+r.48   χορηγίαν ταύτην καὶ τοῦτο αὐτὸ
+r.49   γέγραπται κατὰ τὸ κοινὸν ὁμολόγημα.
+
+[TRANSLATION]
+# HGV-EN: For it was from his house that he came out saying that he had been poisoned, and when he came out of Hermione’s house he neither told any one that he noticed anything nor had the least suspicion, but it was from the house of himself and his son and future heir that he came forth saying that he had been poisoned. He had indeed reasons for administering poison to himself which many others have had in preferring death to life; for he was ruined by creditors and at his wit’s end: but if any one really plotted against him, his son is the most likely person. Why he brought the accusation is now clear. He may indeed have had other troubles during the period of his stewardship, but the case shows that he was jealous of her without her knowledge and called himself her husband, but since she did not vouchsafe him this title, he suffered like a lover and did not wish her to outlive him. If they say that the slave Smaragdus has disappeared being himself accused of having stolen the mortgage—he only asserts that a mortgage was made in order that it might be stolen; for it is impossible for that to have been stolen which neither ever existed at all nor could exist, nor can a mortgage have been drawn up, since neither the buyer knew how to write nor the present defendant Hermione, nor does a stranger when another woman is registered as mortgagee himself issue a deed of mortgage. So from whom could he say that he had received the mortgage? From whichever quarter he did so, it was invalid. And if a slave has run away, this is no argument against his master. Moreover the division also helps to show that there never was any mortgage. For persons who are registered as mortgagees have only their name inserted in deeds and do not claim the property which has been registered in mortgage, but the buyer has clearly claimed the property and been in enjoyment of it ever since she bought it, while he since he sold it has no longer been enjoying it, but administering the property of the mother as a steward and attacking my clients. If they say that a joint agreement was made between the daughter and Hermione for 150 jars, to be produced from these vineyards which she (Dionysia) bought, we assert that all this has nothing to do with the plaintiff. For if the daughter did make an agreement with the mother, this does not afford them an excuse for calumnies. That however did not happen at the same period, but nearly a whole year afterwards, and the provision of 150 jars is nothing as security for 4 talents, for they are the interest upon only 1 talent. Again, if there had been security given to the supposed seller, would the daughter have pledged herself to the State by another deed when she was liable to be deprived of the property whenever he chose? The facts about the provision are as follows: Hermione had three children, Aphro ..., Dionysia ... Dionysia entreated her mother not to leave her with only what had already been used up, but to give her something since she was dependent upon only a single resource, whereupon Hermione pays her 1 1/2 talents. But Dionysia, in order that her mother may not in her lifetime be deprived of that sum, pays instead of interest every year this provision, and this very statement is contained in the mutual agreement.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    
+30    
+31    
+32    
+33    
+34    
+35    
+36    
+37    
+38    
+39    
+40    
+41    
+42    
+43    
+44    
+45    
+46    
+47    
+48    
+49    

@@ -1,0 +1,50 @@
+[META]
+id:       P.RYL 2.171
+label:    P.RYL 2.171
+name:     Contract — Herakleia (Arsinoites)
+genre:    contracts
+date:     55 CE – 56 CE
+language: Greek (Koiné)
+found:    Herakleia (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Herakleia (Arsinoites) (55 CE – 56 CE)
+# hgv-keywords: Vertrag — Angebot — Pacht — Land
+tm:       12953
+source:   https://papyri.info/ddbdp/p.ryl;2;171
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Εὐσχήμονι ο[ἰ]κονόμωι τῆς ἐν τῶι Ἀρσινοείτηι [Τιβερίου]
+r.2    Κλαυδίου Δορυφόρου πρότερον Ναρκισσιανῆς οὐσία[ς]
+r.3    παρὰ Πάπου τοῦ Τρύφωνος τῶν ἀπὸ Ἡρακλείας τ[ῆς Θεμίστου]
+r.4    μερίδος καταγεινομένου ἐν ἐποικίωι Ἀντωνία[ς Δρούσουδιὰ]
+r.5    Ψενεριεῦτος Πέρσου τῆς ἐπιγονῆς. βούλομαι μισ[θώσασθαι ἐπὶ]
+r.6    ἔτη τέσ[σ]ερα ἀπὸ τοῦ εἰσιόντος τρίτου ἔτους Ν[έρωνος Κλαυδίου]
+r.7    Καίσαρος Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος τὰ[ς ὑπαρχούσας]
+r.8    [Τιβερίωι Κλαυδίωι Δορυφόρωι περὶ τ]ὴν αὐτὴν κ[ώμην σιτικῶν]
+r.9    [ἐδαφῶν χέρσων ἐν δυσὶ σφραγῖσι ἀρο]ύρας εἴκοσι ἑ[πτά][, ἀνὰ μέσου]
+r.10   [ὄντος ] … ικοντε …
+r.11   [ὧν ἐν τῆι π]ρ[ώτηι μὲν σφραγῖδι][ ἄ]ρ[ο]υραι ἑπτά , ἐ[ν δὲ τῆι β ][σφρα]γῖδι ἄρουραι εἴκοσι , ὧν γείτονες νότου βασιλικὴ [γῆ ἐν ][ἠπεί]ρωι, βορρᾶ βασιλικὴ γῆ ἐν αἰγιαλῶι, λιβὸς Πα[λλαντιανῆς οὐσίας]
+r.12   ἐδάφη, ἀπηλιώτου τῆς Μαικηνατιανῆς ο[ὐσίας ἐδάφη,]
+r.13   ἐφʼ ὧι λαβὼν εἰς κατεργασίαν καὶ χωματισ[μοὺς τῶν ἐδα]φῶν ἑκάστης ἀρούρης ἀργυρίου δραχμ[ὰς ] … [ ἀναπο]δότους τελέσω ἐκφόριον τοῦ παντὸς [κατʼ ἔτος τῆς φα]νησομένης ἐκ σχοινουργίας σὺν ᾗ λήμ[ψομαι σπερμάτων]
+r.14   κατʼ ἄρουραν πυροῦ ἀρτάβῃ μιᾷ ἑκάστης ἀρ[ούρης ] …
+
+[TRANSLATION]
+# HGV-EN: ‘To Euschemon, agent of the estate of Tiberius Claudius Doryphorus, formerly owned by Narcissus, in the Arsinoïte nome, from Papus son of Tryphon, of Heraclia in the division of Themistes, living in the farmstead of Antonia wife of Drusus, through Psenherieus, a Persian of the Epigone. I wish to lease for four years from the coming 3rd year of Nero Claudius Caesar Augustus Germanicus Imperator the twenty-seven arurae ... in the area of the said village ... in two parcels, in one of which are seven arurae . . ., in the other twenty arurae, the adjacent areas being on the south Crown land …, on the north Crown land on the lake-shore, on the west the lands of …, on the east the lands of the estate of Maecenas ; on condition that after receiving for the purpose of tillage and the embankment of the land a grant per arura of … silver drachmae, which are not to be returned, I will pay a total yearly rental on the area which shall result from the survey of … artabae of … per arura, this to include the one artaba of wheat per arura which I shall receive for seed-corn ...’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

@@ -1,0 +1,60 @@
+[META]
+id:       P.Oxy. 10.1284
+label:    P.Oxy. 10.1284
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     250 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (250 CE)
+# hgv-keywords: Quittung — Steuern (Geld) für einen Kauf (Haus)
+tm:       21787
+source:   https://papyri.info/ddbdp/p.oxy;10;1284
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [ἔτους δευ]τέρου Αὐτοκράτορος Καίσαρος Γαΐου Μεσσίου
+r.2    [Κυίντου Τ]ραϊανοῦ Δεκ[ίο]υ Εὐσεβοῦς Ε[ὐ]τυχοῦς καὶ Κυίντου
+r.3    [Ἑρεννίου Ἐ]τρούσκου Με[σ]σίου Δεκίου καὶ Γαΐου Οὐάλεντος
+r.4    [Ὁστιλιανοῦ] Μεσσίου Κυί[ν]του τῶν σεβασμιωτάτων
+r.5    [Καισάρων] Σεβαστῶν Χοίακ ιθ. διέγραψεν Αὐρη[λίῳ][ Ἀ]πολλωνίῳ
+r.6    [καὶ τῷ] σὺν αὐτῷ ἀμφοτέροις βουλευταῖς τῆς Ὀξυρυγχιτῶν πόλεως δημ[ο]σίοις τραπεζίταις
+r.7    [εἰς λόγον το]ῦ ἐνκυκλίου Τιβέριος Κλαύδιος Διογένης
+r.8    [υἱὸς Τιβερ]ίου Κλαυδίου Διογένους κοσμητεύσαντος
+r.9    [καὶ ἀγωνο]θετήσαντος βουλευτοῦ τῆς Ὀξυρυγχιτῶν πόλεως ὑπὲρ
+r.10   [τοῦ ὑπάρχοντος] ἐν τῇ αὐτῇ πόλει ἐπʼ ἀμφόδου Βορρᾶ Κρηπῖδος ἡμίσου[ς] μέρους
+r.11   [οἰκίας παλ]αιᾶς καὶ τῶν ταύτης χρηστηρίων πάντων
+r.12   [ὃ ] … θη ἀπὸ τῆς ἑαυτοῦ τροφίμου μητρὸς Αὐρηλίας Ἀμμωνίας
+r.13   … μητρὸς Τεχωσοῦτος ἀπὸ τῆς αὐτῆς Ὀξυρύγχων πόλεως κατʼ ἰδιό[γραφον ][συγ]γραφὴν γεγονυῖαν τῷ αὐτῷ μηνὶ Χοίακ κατὰ
+r.14   [χάριν ][ἀν]αφαίρετον ἧς πεποίηκεν συντιμήσεως
+r.15   [τοῦ αὐτοῦ] [ἡμί]σου[ς] μέρους τῆς οἰκίας δραχμῶν τ … ε πεντωβόλου ἡμιωβελίου σπονδῆς καὶ
+r.16   [ἐνκυκλίου] διαγραφὴν δραχμὰς ἑβδομήκοντα τρεῖς ὀβολοὺς πέν[τε] [ἡμ]ιωβέλιον, γίνονται δραχμαὶ ογ πεντώβολον ἡμιωβέλιον.
+r.17   [Αὐ]ρήλιος Ἀπολλώνιος γυμνασιαρχήσας βουλευτὴς δημόσιος τραπεζίτης σεσημείωμαι
+r.18   [τ]ὰς δραχμὰς ἑβδομήκοντα τρεῖς πεντώβολον ἡμιωβέλιον,
+r.19   γίνονται δραχμαὶ ογ πεντώβολον ἡμιωβέλιον.
+
+[TRANSLATION]
+# HGV-EN: The end year of the Emperor and Caesar Gaius Messius Quintus Trajanus Decius Pius Felix and Quintus Herennius Etruscus Messius Decius and Gaius Valens Hostilianus Messius Quintus the most august Caesars, Augusti, Choiak 19. Paid to Aurelius Apollonius and his associate, both senators of the city of Oxyrhynchus, public bankers, to the account of the tax on sales by Tiberius Claudius Diogenes son of Tiberius Claudius Diogenes, ex-cosmetes, ex-president of the games, senator of the city of Oxyrhynchus, on account of the half share ofan old house and al its appurtenances belonging to him in the said city of Oxyrhynchus in the North Quay quarter, which was [purchased?] from his foster-child’s mother Aurelia Ammonia daughter of ... and Techosous, of the said city of Oxyrhynchus, in accordance with a privately drawn contract made in the said month Choiak by an irrevocable transfer, on the valuation which he has made of the said half share of the house, namely 3[.]5 drachmae 5 1/2 obols, in payment for libation-money and the tax on sales seventy-three drachmae five and a half obols, total 73 dr. 5 1/2 ob. (Signed) I, Aurelius Apollonius, ex- gymnasiarch, senator, public banker, have certified the seventy-three drachmae five and half obols, total 73 dr. 5 1/2 ob.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

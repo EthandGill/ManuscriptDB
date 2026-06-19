@@ -1,0 +1,54 @@
+[META]
+id:       P.Oxy. 1.128
+label:    P.Oxy. 1.128
+name:     Letter — Oxyrhynchos (Oxyrhynchites, Ägypten)
+genre:    letters
+date:     501 CE – 700 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (Oxyrhynchites, Ägypten)
+held:     Cairo
+shelf:    
+content:  Letter from Oxyrhynchos (Oxyrhynchites, Ägypten) (501 CE – 700 CE)
+# hgv-keywords: Brief (amtlich) — die Scholastikoi Johannes — Theodoros — Theodoros an den Komitotribunen Kreitton — Bitte um Anweisungen bezüglich des Gesuchs (Rücktritt) des chartularius Pamuthios
+tm:       37140
+source:   https://papyri.info/ddbdp/p.oxy;1;128
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ὁ εὐδοκιμώτατος κύριος Παμούθιος ὁ χαρτουλάριος ἀσθένειαν σώματος προβαλλόμενος
+r.2    ἐβουλήθη ἐπαναχωρῆσαι τῶν πραγμάτων καὶ ἡσυχάσαι, καὶ τοῦτο γνόντες, συνέβη γὰρ καὶ
+r.3    ἐμὲ Ἰωάν νην εἶναι τότε κατὰ τὴν Ὀξυρυγχιτῶν, ἐγενόμεθα ἐν τῷ οἴκῳ αὐτοῦ πρὸς αὐτόν, καὶ
+r.4    πολλὰ αὐτὸν ἐδυσωπήσαμεν μηδὲν τοιοῦτο πρᾶξαι ἢ διανοηθῆναι δίχα γνώμης καὶ
+r.5    ἐπιτροπῆς τῆς ὑμετέρας ἐνδοξότητος. καὶ ἄλλως πως οὐκ ἐδυνήθημεν πεῖσαι αὐτὸν τὰς
+r.6    αἰτήσεις ἡμῶν δέξασθαι, εἰ μὴ ὑπεσχόμεθα ἐνωμότως αὐτῷ τὰ περὶ τούτου διὰ γραμ μάτων
+r.7    προσανενεγκεῖν τῇ ὑμετέρα ἐνδοξότητι . ἐπιμένει γὰρ λέγων μὴ δύνασθαι ἐπὶ
+r.8    τοσοῦτον κοπωθῆναι, ἀλλʼ αἰτεῖ ἐπιτραπῆναι ἀνελθεῖν εἰς τοὺς πόδας τῆς ὑμετέρας
+r.9    ἐνδοξότητος, ἵνα τὸ παριστάμενον ἐπʼ αὐτῷ δοκιμάσῃ. τὸ οὖν δοκοῦν καταξιώσῃ
+r.10   ἡ ὑμετέρα ἐνδοξότης ἀντιγράψαι, καὶ ἢ πεῖσ[αι περὶ τού]των τὴν αὐτοῦ αἰδεσ[ι]μότητα
+r.11   ἐπιμεῖναι ἐν τοῖς πράγμασιν καὶ τὰ συνήθη διαπρ[άξ]ασθαι, ἢ ἐπιτρέψαι αὐτῷ
+r.12   ἀνελθεῖν εἰς τοὺς ἐνδόξους αὐτῆς πόδας. ἡγείσθω τῆς ἐπιστ[ο]λῆς
+r.13   ἡ ἐποφειλομένη κατὰ χρέος προσκύνησις τῇ ὑμετέρᾳ ἐνδοξότητι.
+r.14   δεσπότῃ ἡμῶν τὰ πάντα ἐνδοξοτάτῳ πανευφ[ήμῳ]
+r.15   κρείττονι κομιτοτριβούνῳ Ἰωάννης,
+r.16   Θεόδωρος, Θεόδ[ω]ρος, σχολαστικοί.
+
+[TRANSLATION]
+# HGV-EN: His honour Pamouthius the secretary on the plea of bodily infirmity has expressed the desire to retire from his duties and take rest. Learning this, we (for it happened that I, John, was then at Oxyrhynchus) visited him in his house and were very importunate with him to do no such thing and not to make any resolution without reference to the opinion and decision of your excellency. We could not however persuade him to listen to our request in any other way than by offering and pledging ourselves to refer his case by letter to your excellency. He insists that he is unable to bear such a strain, and begs to be bidden to come to your excellency’s feet in order that you may judge of his present condition. Let your excellency therefore be pleased to write back your wishes, either persuading his worship to stay at his post and do his regular work or ordering him to come to your excellency’s feet. In the forefront of this letter we would place our due and fitting obeisance to your excellency.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

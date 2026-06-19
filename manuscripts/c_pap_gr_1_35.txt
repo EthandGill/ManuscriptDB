@@ -1,0 +1,80 @@
+[META]
+id:       C.PAP.GR 1.35
+label:    C.PAP.GR 1.35
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     187 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (187 CE)
+# hgv-keywords: Quittung — Lohn — Amme
+tm:       20750
+source:   https://papyri.info/ddbdp/c.pap.gr;1;35
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Χωσίων Σαραπίωνος τοῦ Ἁρποκρατίωνος μητρὸς Σαραπιάδος ἀπʼ Ὀξυρύγχων πόλεως Τανεντήρει Θώνιος τοῦ
+r.2    Θώνιος μητρὸς Ζωιλοῦτος ἀπὸ τῆς αὐτῆς πόλεως, μετὰ κυρίου Δημητρίου Ὡρίωνος μητρὸς Ἀρσινόης ἀπὸ τῆς αὐτῆς
+r.3    πόλεως χαίρειν. ὁμολογῶ ἀπεσχηκέναι
+r.4    παρὰ σοῦ διὰ Ἡλιοδώρου καὶ τῶν σὺν αὐτῷ ἐπιτηρητῶν τῆς ἐπὶ τοῦ πρὸς Ὀξυρύγχων πόλει Σαραπείου τραπέζης,
+r.5    ἧς ὑπόσχεσις ἐδόθη ὑπὸ Ἐπιμάχου,
+r.6    ἀργυρίου σεβαστοῦ νομίσματος δραχμὰς τετρακοσίας , οὔσας ὑπὲρ τροφείων καὶ ἐλαίου καὶ ἱματισμοῦ καὶ
+r.7    τῆς ἄλλης δαπάνης πάσης ἐτῶν δύο
+r.8    ὧν ἐτρόφευσεν ἡ δούλη μου Σαραπιὰς
+r.9    τὴν θυγατέρα σου Ἑλήνην χρηματίζουσαν ἐκ σοῦ, ἣν καὶ παρείληφας ἀπογεγαλακτισμένην καὶ τετευχυῖαν
+r.10   πάσης ἐπιμελείας, καὶ μηδέν σοι
+r.11   ἐνκαλεῖν μηδὲ ἐνκαλέσειν μηδὲ
+r.12   ἐπελεύσεσθαι μήτε περὶ τούτων
+r.13   μηδὲ περὶ ἄλλου μηδενὸς ἁπλῶς
+r.14   μέχρι τῆς ἐνεστώσης ἡμ[έ]ρας.
+r.15   κυρία ἡ ἀποχή. ἔτους κη
+r.16   Αὐτοκράτορος Κα[ί]σαρος Μάρκου
+r.17   Αὐρηλίου Κομ[μ]όδου Ἀντωνίνο[υ]
+r.18   Εὐσεβοῦς Εὐτυχοῦς Σεβαστοῦ
+r.19   Ἀρμενιακοῦ Μηδι[κ]οῦ Παρθικοῦ
+r.20   Σαρματικοῦ Γερμανικοῦ Μεγίστου
+r.21   Βρεταννικοῦ, Φαῶφι ιε. Χωσίων
+r.22   Σαραπίωνος ἀπέσχον τὰς
+r.23   τῶν τροφείων δραχμὰς
+r.24   τετρακοσίας καὶ οὐδὲν ἐνκαλῶ ὡς πρόκειται. [Τ]ανεντῆρις
+r.25   Θώνιος μετὰ κ[υ]ρίου Δημητρίου Ὡρίωνος εὐδοκῶ κ[αὶ]
+r.26   παρείληφα τὴν θυγατέρ[α]
+r.27   ὡς πρόκιται. Πλουτίων Ἑρμ[οῦ]
+r.28   ἔγραψα ὑπὲ[ρ αὐ]τῶ[ν] μὴ ε[ἰδότων]
+r.29   γράμματα.
+
+[TRANSLATION]
+# HGV-EN: Chosion, son of Sarapion, son of Harpocration, his mother being Sarapias, of Oxyrhynchus, to Tanenteris, daughter of Thonis, son of Thonis, her mother being Zoilous, of the same city, with her guardian Demetrius, son of Horion and Arsinoe, of the same city, greeting. I acknowledge the receipt from you through Heliodorus and his associate overseers of the bank at the Serapeum near the city of Oxyrhynchus, for which Epimachus made the promise of payment, of four hundred drachmae in imperial coin for wages, oil, clothes and all other expenses during the two years in which my slave Sarapias nursed your daughter Helena, known as her father’s child; who when you took her back had been weaned and had received every attention; and I acknowledge that I neither have nor shall have any complaint or charge to make against you either in connection with this transaction or any other matter whatever up to the present time. This receipt is valid.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    

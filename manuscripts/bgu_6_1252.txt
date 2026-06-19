@@ -1,0 +1,66 @@
+[META]
+id:       BGU 6.1252
+label:    BGU 6.1252
+name:     Petition — Arsinoites
+genre:    petitions
+date:     200 BCE – 101 BCE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Petition from Arsinoites (200 BCE – 101 BCE)
+# hgv-keywords: Eingabe — Jagdpächter an NN — Jagd mit Netzen auf Vögel — Wilderer
+tm:       7324
+source:   https://papyri.info/ddbdp/bgu;6;1252
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … στρ … φ … εμυ …
+r.2    … των … ντων ἐξει[λη]φ[ό]τ[ων] τὴν [θήρ]αν τῶν ἀγρίων
+r.3    ὄρνε[ω]ν εἰς τὸ ζ ἔτος τῆς τε
+r.4    προγεγραμμένης κώμης
+r.5    ὁμοίως δὲ καὶ Εὐημερίας, ὑπολιπομένων ἡμῶν κατὰ κοινὸν τόπους, ἐν οἷς ἔδει ἡμᾶς
+r.6    στήσαντα[ς] τὰ λίνα θηρεύσαντας τὰ ἐν αὐτοῖς κοιτάζοντα
+r.7    ὄρνεα ἀποδοῦναι τὸν καθήκοντ[α] φόρον, τῆι δὲ νυκτὶ τῆι φερούσηι εἰς τὴν η τοῦ Τῦβι τοῦ ζ ἔτους
+r.8    προσαγγελέντος ἡμῖν Γενναίου τοῦ … οτου τῶν ἐκ τῆς αὐτῆς κώμ[η]ς, ὃς καὶ συνθηρεύει ἡμῖν,
+r.9    κατ[αβε]βηκότος ἄνευ τῆς ἡμετέρα[ς γ]νώμης καὶ θηρεύοντος
+r.10   ἐν αἷ[ς ὑ]πολελείμμεθα κοίταις,
+r.11   ὅθεν [πα]ρʼ αὐτ[ὸ]ν τὸν και[ρὸ]ν προσορωρ[ότες καὶ λ]αβ[ό]ντες Ἁρ[μ]άιν
+r.12   φυλα[κίτ]η[ν] κ[αὶ] Πύρρον Πεταῦτος φ[υ]λακίτ[ου] υἱὸν ἐπελθόντες
+r.13   ἐπὶ τοὺς προδε[δ]ηλωμένους
+r.14   τόπο[υς] παρεδώκαμεν τόν τε
+r.15   Γενναῖον ὁμοίως δὲ καὶ τὰ λίνα
+r.16   αὐτοῦ ἑσταμένα· ἐπεὶ οὖν διὰ
+r.17   τὴν δηλουμένην αἰτίαν τυγχάνομεν βεβλαμμένοι εἰς κερκὴρ εἰς
+r.18   λόγον υ, προσαγγέλλομέν σοι
+r.19   ὅπως ἀναχθῆι ἐφʼ Ἡλᾶν τὸν ἐπιστάτην τῶν φυλακιτῶν καὶ
+r.20   τύχηι τῆς προσηκούσης
+r.21   ἐπιπλήξεως καὶ πραχθῆι τὰ δηλούμενα [βλάβη], ἵνα δυνώμεθα ἀπροφασί[σ]τ[ω]ς τὸν φόρον ἀναπληρῶσαι.
+r.22   ἔτους ζ Τῦβι …
+
+[TRANSLATION]
+# HGV-EN: [To X, greetings, from Y and Z], who have received the contract to hunt wild birds for year 7 in the aforementioned village and also Euhemeria. We had jointly left the areas in which it was required that we set out our hunting nets after we had hunted the birds living in them, so as to render the appropriate tax revenue. But on the night of Tybi 7, year 7, Gennaios, son of [.]otes, of those from the same village and our fellow-hunter, reported to us that he had, without our knowledge, entered the bird-lairs in which we had left him (?) remaining/behind (?) and hunted. Wherefore we rushed upon him at that very moment, and taking Harmais, phylakitês, and Pyrrhos, son of Petaus the phylakitês, we entered into the aforementioned areas and handed over Gennaios as well as the nets he had set up. Since, therefore, for this reason we have suffered the loss of 400 kerkereis, we are making this report to you so that he (i.e., Gennaios) may be brought before Helas, epistatês phylakitôn, and he may meet with the appropriate punishment, and the aforementioned loss may be extracted from him as a penalty, so that we may be able to pay what is due unhesitatingly. Year 7, Tybi [..]. (J. Bauschatz, Law and Enforcement, p. 230)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    

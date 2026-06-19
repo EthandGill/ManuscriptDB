@@ -1,0 +1,46 @@
+[META]
+id:       BGU 1.138
+label:    BGU 1.138
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     189 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (189 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       8914
+source:   https://papyri.info/ddbdp/bgu;1;138
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    [Ἁρποκρ]ατίωνι τῷ [καὶ Ἱέρακι βασιλικῷ γραμματεῖ Ἀρσινοΐτου Ἡρακλείδου μερίδος]
+r.2    [παρὰ Ἀ]πίωνος Ἁρπο[κρατίωνο]ς τ[οῦ ] … [ μητρὸς ][Σ]αρα[ποῦτος][ ἀπὸ τῆς μητρο][πόλε]ως ἀναγραφομένου ἐπʼ ἀμφ[όδου Διο]ν[υσίου Τόπων ? . ὑ]πάρχ[ει μοι ἐπʼ ἀμφό][δο]υ Θρακ[ῶν ἕκτ]ον μέρος οἰκίας [καὶ αἰ]θρίου καὶ αὐλῆς, ἐν ᾧ ἀ[πογράφομαι][ τοὺς ὑπογεγραμμένους ἐνοί][κους] εἰς τ[ὴν τοῦ] διεληλυθότος κη ἔτους Αὐρηλίου Κομμόδου Ἀντων[ίνου Καίσαρος τοῦ κυ][ρίου κ]ατʼ οἰκίαν ἀπογραφὴν ἐπʼ ἀμφόδου Διονυσίου Τόπων, ἐφʼ [οὗ καὶ τῇ τοῦ ιδ ἔτους]
+r.3    [ἀπογ]ραφῇ ἀπεγραψάμην. καί εἰσι Δεῖος Ἥρωνος νεωτέρου Καπίτ[ωνος τοῦ καὶ ] …
+r.4    [μητρὸς] Βησοῦτος ἀπελευθέρας Ἑρμιόνης τῆς Διδᾶ κάτοι[κος ἐπικεκριμέ][νο]ς ἐτῶν λα καὶ Σωτήριχον Δείου τοῦ Τριαδέλφου μητρὸς …
+r.5    … ν μητροπολείτην ἐτῶν οβ καὶ τὸν τούτο[υ] υἱὸν …
+r.6    [μητρὸς Με]λανοῦτος λαογραφούμενον γ[εωρ]γὸν ἐτῶν μγ καὶ Πρωτᾶν Ζ …
+r.7    … τοῦ καὶ Ματρονε … [ μητρὸς ] … φρεως λαογραφούμενον γε[ωργὸν ] …
+r.8    … ερα Πτολεμαίου το[ῦ ] … μητρὸς Σεγάθιος ἀ[πογεγραμμέν ][ τῇ τοῦ ιδ ἔτους]
+r.9    [ἀπογ]ραφῆι ἐπʼ ἀμφόδου Θαρά[σνας, νυνὶ δ]ὲ ἐπὶ τοῦ Διονυσίο[υ Τόπων ] …
+r.10   … ς ἐτῶν κ καὶ Ἁρποκρα[τίωνα ] … ερμα τοῦ Σωτοῦ …
+r.11   … [Χ]ηνοβόσκων Ἑτέρων λ …
+r.12   … [ Θ]αισαρίου ημ …
+
+[TRANSLATION]
+# HGV-EN: To [Harpokr]ation alias [Hierax, royal scribe of the Arsinoite nome, Herakleides division], [from A]pion, son of Harpo[kration], the son of [NN, mother S]ara[pous from the metropolis], registered in the quarter of [the areas of Dio]n[ysios]. There belongs [to me] in the Thracian quarter the sixth part of a house and light well and courtyard, in which I register [the below mentioned lodgers] for the house-by-house registration of the past year of Aurelius Commodus Anton[inus Caesar, the lord], in the quarter of the areas of Dionysios, in which I registered (them) in the registration [of the year 14 as well]. And they are Deios, son of Heron the younger, the son of Kapit[on alias NN, whose mother is] Besous, freedwoman of Hermione, daughter of Didas, scrutinized katoikos, 31 years old and (I register) Soterichos, son of Deios, the son of Triadelphos, mother [NN – – –], metropolitan, 72 years old and his son [NN, mother Me]lanous, subject to poll-tax, farmer, 43 years old and Protas, son of Z[– – –, the son of NN] alias Matrone[– – –, mother – – –]phris, subject to poll-tax, farmer, [x years old and – – –]er, son (or daughter) of Ptolemaios, the son of [NN], mother Segathis, registered in the registration [of the 14th year] in the Thara[pia] quarter, [now] in the [(quarter) of the areas] of Dionysios 20 years old and Harpokra[tion, son of – – –]ermas, the son of Sotas of the Other Goosefarms (quarter) [– – – of Th]aisarion
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

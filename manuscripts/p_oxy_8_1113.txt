@@ -1,0 +1,92 @@
+[META]
+id:       P.Oxy. 8.1113
+label:    P.Oxy. 8.1113
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     203 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (203 CE)
+# hgv-keywords: Angabe — Land ohne Bewässerung
+tm:       21735
+source:   https://papyri.info/ddbdp/p.oxy;8;1113
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    κωμογραμματεῖ Σεντὼ καὶ ἄλλων
+r.2    κωμῶν τῆς μέσης τοπαρχίας
+r.3    παρὰ Διδύμου τοῦ καὶ Διδυμίωνος ἀρχιερατεύσαντ[ος] τοῦ
+r.4    ἐν Ὀξυρύγχων πόλε[ι] σεβασμιωτάτου
+r.5    Ἁδριανείου καὶ Διογέν[ο]υς καὶ
+r.6    Σαρα[π]ίωνος τοῦ καὶ Ἀριστοκλέους
+r.7    ἀμ[φ]οτέρων Σαραπίωνος
+r.8    μ[η]τ[ρὸ]ς Ἀρι[σ]τ[ο]κλείας τῆς καὶ
+r.9    [Χαι]ρημονίδος ἀπὸ τῆς αὐ[τῆς] πόλε[ω]ς. κατὰ τὰ κελευσθέντα
+r.10   ὑπὸ Κλα[υ]δίου Διογνήτου τοῦ
+r.11   κρ[ατί]στου ἐπιτρόπου ἀπογραφόμεθα
+r.12   π[ρὸ]ς τὸ ἐνεστὸς ια ἔτος ἣν ἔχομ[εν] ἄβροχον περὶ Σεντὼ
+r.13   [ἐ]κ [το]ῦ Κλεάνδρου σὺν τοῖς
+r.14   παρορ[ίο]ις εἰς Διονύσιον
+r.15   Ἀπίωνος πρότερον ἀβρόχου
+r.16   ἀρούρας … δ.
+r.17   ἔτους ια Αὐτοκρατόρων Καισάρων
+r.18   Λουκίου Σεπτιμίου Σεουήρου Εὐσεβ[οῦς]
+r.19   Περτίνακος Ἀραβικοῦ Ἀδιαβηνικοῦ
+r.20   Παρθικοῦ Μεγίστου καὶ Μάρκ[ο]υ
+r.21   Αὐρ[η]λίου Ἀντωνίνου Εὐσεβοῦς
+r.22   παρὰ Σαραπίωνος τοῦ καὶ Φ[ανίου γυμνασιαρχήσαντος τῆς ][Ὀ][ξυρυ]γχιτῶν πόλεως καὶ ὡς χρηματίζει ἀπʼ Ὀ[ξυρύγχων][ πόλεως. κατὰ τὰ κελευσθέντα]
+r.23   [ὑπὸ] Κλαυδίου Δειογνήτου τ[οῦ κρατίστου]
+r.24   [ἐπιτρ]όπου τῶν κυρίων Σεβαστῶ[ν ἀπογράφομαι πρὸς τὸ]
+r.25   [ια ἔτος] περὶ κώμην Ψῶβθιν μ[έσης τοπαρχίας ἐκ τοῦ Φι]λονείκου μητρικοῦ πρότερον Α …
+r.26   νυπτᾶτος ἀπὸ ἀρουρῶν δ ιβ [ἀβρόχου ἀρούρας ] …
+r.27   [κ]αὶ ὀμνύω τὴν Λουκίου Σεπ[τιμίου Σεουήρου]
+r.28   Εὐσεβοῦς Περτίνακος καὶ Μ[άρκου Αὐρηλίου]
+r.29   [Ἀ]ντωνίνου Εὐσεβοῦς Σεβασ[τῶν τύχην καὶ Που]βλίου Σεπτιμίου Γέτα Καίσ[αρος Σεβαστοῦ μὴ ἐψεῦσθαι.]
+r.30   [ἔτους ια] Αὐτοκρατόρων Καισάρ[ων Λουκίου Σε]πτιμίου Σεουήρου Εὐσεβο[ῦς Περτίνακος]
+r.31   Ἀραβικοῦ Ἀδιαβηνικοῦ Παρ[θικοῦ Μεγίστου]
+r.32   καὶ Μάρκου Αὐρηλίου Ἀντων[ίνου Εὐσεβοῦς]
+r.33   Σεβαστῶν καὶ Πουβλίου Σε[πτιμίου Γέτα]
+r.34   Καίσαρος Σεβαστοῦ Μεχεὶρ … [ Σαραπίων ὁ]
+r.35   [κα]ὶ Φ[α]νίας γυμνασιαρχ[ήσας ἐπιδέδωκα.]
+
+[TRANSLATION]
+# HGV-EN: To the comogrammateus of Sento and other villages in the middle toparchy from Didymus also called Didymion, ex-chief-priest of the most august temple of Hadrian in the city of Oxyrhynchus, and from Diogenes and Sarapion also called Aristocles, both sons of Sarapion and Aristocleia also called Chaeremonis, of the said city. In accordance with the orders of his highness the procurator Claudius Diognetus we register for the current 11th year the unwatered land belonging to us at Sento in the holding of Cleandrus with the adjacent ground standing in the name of (?) Dionysius son of Apion, namely 1/4 arourae of land previously unwatered. From Sarapion also called Phanias, ex-gymnasiarch of the city of Oxyrhynchus, and however he is styled, of the city of Oxyrhynchus. In accordance with the orders of his highness the Imperial procurator Claudius Diognetus I register for the 11th year at the village of Psobthis in the middle toparchy in the holding of Philonicus, once belonging to my mother and formerly in the possession of A... son of ... nuptas, .. arourae of unwatered land out of 4 1/12 arourae, and I swear by the fortune of Lucius Septimius Severus Pius Pertinax and Marcus Aurelius Antoninus Pius Augusti and Publius Septimius Geta Caesar Augustus that I have made no false statement.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    
+30    
+31    
+32    
+33    
+34    
+35    

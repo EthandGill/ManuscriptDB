@@ -1,0 +1,54 @@
+[META]
+id:       P.Oxy. 10.1274
+label:    P.Oxy. 10.1274
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     226 CE – 275 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (226 CE – 275 CE)
+# hgv-keywords: Ernennung eines Stellvertreters — der in Alexandria das Erbe des verstorbenen Mannes der Absenderin registrieren lassen soll
+tm:       31728
+source:   https://papyri.info/ddbdp/p.oxy;10;1274
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Αὐρηλία Ἀριστοῦς θυγάτηρ Αὐρηλίο[υ] Ἡρώδου Ἀπίωνος γυμνασιαρχήσαντος βουλε[υτοῦ τ]ῆς Ὀξυρυγχειτῶν πόλεως μετὰ κυρί[ο]υ
+r.2    τοῦ δεδομένου μοι κα[τὰ] τὰ Ῥωμαίων ἔθη Μάρκου Αὐρη[λί]ου Νει[κ]οκλέους Ζωίλου γυμνασιαρχήσαντος τ[ῆς αὐ]τῆς π[ό]λεω[ς] Αὐρη[λ]ίῳ Ἡ[ρ]ακλ[εί]δῃ τῷ κ[αὶ]
+r.3    Λουκίωι Λουκίου καὶ ὡς χρηματίζεις χαίρειν. ἐπεὶ ἀπευκταίας μ[ο]ι
+r.4    καταγγελείσης φάσ[ε]ως περὶ τελευτῆς τοῦ μακαρίτου μου ἀνδ[ρὸς]
+r.5    Ἀχιλλίωνος τοῦ καὶ Ἀπολλωνίου Ἀπολλωνίου ὄντος ἐν ᾗ ἦν ἐπικεχειρισμένος βασιλικῇ γραμματείᾳ Ἀλεξανδρέων χώρας, ὁμολογῶ
+r.6    ἀποσυνεστακέναι σε κατὰ ταῦτά μου τὰ γράμματα κατελθεῖν εἰς Ἀλεξάνδρειαν καὶ ἀπογράψασθαι παρὰ τῷ κρατίστῳ τῶν οὐσιακῶν ἐπιτρόπῳ ἐξ ὀνόματός μ[ου ὑ]πὲρ τοῦ ἀμφοτέρων ἐμοῦ τε καὶ τοῦ αὐτοῦ
+r.7    ἀνδρός μου υἱοῦ καὶ [κλ]ηρονόμου Αὐρηλίου Διονυσίου τοῦ καὶ Ἀπολλωνίου γυμνασιάρχου τῆς αὐτῆς πόλεως ἔτι ὄντος ἐντὸς τοῦ Λαιτωρίου
+r.8    νόμου τὴν ὕπαρξιν αὐτοῦ πᾶσαν οὖσαν τιμήματος δουκηναρίας.
+r.9    ἀπὸ δὲ ταύτης τῆ[ς] ὑποστάσεως δηλῶ ὀφείλειν τὴν ἄνδρα μου
+r.10   ἐμοὶ μὲν ἀπὸ τῆ[ς προσε]νεχθείσης αὐτῷ ἐπʼ ἐμοὶ γ[α]μουμένῃ
+r.11   αὐτῷ προικὸς [ἔν τε κοσ]μαρίοις χρυσοῖς καὶ ἱματίοις καὶ ἄλλοις
+r.12   [σ]υντιμήσεως [ἀργυρίου ταλάν]των δ[ύο] καὶ δραχμῶν τρισχιλίων με … ια προ … ιονια … ἐν [σ]υντιμήσει
+r.13   δραχμῶ[ν ] … [ χιλί]ων πεντακοσίων … ἔχρη ἀπὸ
+r.14   [τ]ῆς ἰδίας … ταλά[ντ]ω[ν]
+r.15   δύο κα[ὶ δραχμῶν ] … ὑπ[α]ρχόντων μο[ι ] … [ τάλαντα]
+r.16   τρία καὶ δ[ραχμὰς ] …
+
+[TRANSLATION]
+# HGV-EN: Aurelia Aristous daughter of Aurelius Herodes son of Apion, ex-gymnasiarch, senator of the city of Oxyrhynchus, with the guardian given to me in accordance with Roman custom, Marcus Aurelius Nicocles son of Zoïlus, ex-gymnasiarch of the said city, to Aurelius Heraclides also called Lucius, son of Lucius, and however you are styled, greeting. In consequence of the lamentable news announced to me concerning the death of my blessed husband Achillion also called Apollonius, son of Apollonius, while at his post of basilicogrammateus of the territory of the Alexandrians, I agree that I have by this bond appointed you to go down to Alexandria and register with his excellency the procurator usiacus in my name on behalf of the son of myself and my said husband, and his heir, Aurelius Dionysius also called Apollonius, gymnasiarch of the said city, who is stil subject to the Laetorian law, all his (Achillion’s) property, valued at two hundred thousand sesterces. And out of this estate I declare that my husband owes me from the dowry which was brought to him upon my marriage with him consisting of gold ornaments and clothing and other objects valued at two talents and 3000 drachmae of silver ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
