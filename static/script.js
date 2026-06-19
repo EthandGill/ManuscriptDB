@@ -1751,8 +1751,7 @@ function renderManuscriptSection() {
     container.innerHTML = '';
 
     const msCount = document.getElementById('ms-section-count');
-    if (msCount) msCount.textContent =
-        manuscripts.length.toLocaleString() + ' manuscript' + (manuscripts.length === 1 ? '' : 's');
+    if (msCount) msCount.textContent = manuscripts.length.toLocaleString();
 
     MANUSCRIPT_GENRES.forEach(genre => {
         const genreItems = manuscripts.filter(m => m.genre === genre.id);
@@ -2245,8 +2244,7 @@ function renderEpigraphySection() {
     container.innerHTML = '';
 
     const epiCount = document.getElementById('epi-section-count');
-    if (epiCount) epiCount.textContent =
-        epigraphy.length.toLocaleString() + ' inscription' + (epigraphy.length === 1 ? '' : 's');
+    if (epiCount) epiCount.textContent = epigraphy.length.toLocaleString();
 
     EPIGRAPHY_GENRES.forEach(genre => {
         const items = epigraphy.filter(e => e.genre === genre.id);

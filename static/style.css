@@ -851,13 +851,21 @@ html, body {
     margin-bottom: 10px;
 }
 
-/* Total-count line shown just under each section title (manuscripts/inscriptions) */
+/* Total-count badge under each section title — styled exactly like the per-genre
+   .genre-count pill (boxed, light number on dark). */
 .section-count {
-    font-size: 10px;
-    font-weight: 700;
+    display: inline-block;
+    font-size: 9.5px;
+    color: #b0b0b0;
+    background: #181818;
+    border: 1px solid #242424;
+    border-radius: 10px;
+    padding: 1px 7px;
+    min-width: 18px;
+    text-align: center;
+    font-weight: 500;
     letter-spacing: 0.04em;
-    color: #c9a96e;
-    margin: -6px 0 12px;
+    margin: -4px 0 12px;
 }
 
 /* Manuscripts label row: title + gold "More Manuscripts Daily!" badge */
