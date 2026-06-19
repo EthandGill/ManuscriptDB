@@ -228,6 +228,46 @@ def do_assemble(path):
         sys.exit(1)
 
 
+# ── SPLIT (fan-out helper) ────────────────────────────────────────────────────
+def split_records(raw):
+    """[(header, [record_text, ...])] — a scaffold's leading comment header and
+    its '=== ' records, each record kept whole (META/GREEK/TRANSLATION)."""
+    marker = "\n" + REC_SEP
+    head, sep, rest = raw.partition(marker)
+    if not sep:
+        return head, []
+    records = [REC_SEP + r for r in (marker + rest).split(marker)[1:]]
+    return head, records
+
+
+def do_split(path, parts):
+    """Split one big scaffold into `parts` smaller scaffolds that each carry a
+    disjoint set of whole records, so subagents can fill them in parallel with
+    no file conflicts (different records -> different manuscripts/*.txt). Prints
+    the part filenames, one per line."""
+    raw = open(path, encoding="utf-8").read()
+    head, records = split_records(raw)
+    if not records:
+        print("Nothing to split.")
+        return
+    parts = max(1, min(parts, len(records)))
+    base = os.path.splitext(os.path.basename(path))[0]
+    buckets = [[] for _ in range(parts)]
+    for i, rec in enumerate(records):        # contiguous-ish round-robin keeps
+        buckets[i % parts].append(rec)        # parts balanced in record count
+    written = []
+    for k, bucket in enumerate(buckets):
+        if not bucket:
+            continue
+        out_path = os.path.join(HERE, f"{base}_part{k:02d}.txt")
+        body = (f"# Part {k} of {parts} of {os.path.basename(path)} — "
+                f"{len(bucket)} records.\n\n" + "\n".join(bucket) + "\n")
+        open(out_path, "w", encoding="utf-8").write(body)
+        written.append(out_path)
+    for p in written:
+        print(p)
+
+
 # ── selftest ──────────────────────────────────────────────────────────────────
 def selftest():
     # a fake untranslated papyrus
@@ -258,6 +298,13 @@ def selftest():
     assert "1     alpha" in out and "2     gamma" in out, out
     assert "# HGV-EN: ref prose" in out, "reference comment kept"
     assert not is_untranslated(out), "now translated"
+
+    # split: 3 records -> 2 parts, disjoint and whole
+    multi = ("# header\n\n" + REC_SEP + "a\n[GREEK]\nr.1 x\n[TRANSLATION]\n1     \n"
+             + REC_SEP + "b\n[GREEK]\nr.1 y\n[TRANSLATION]\n1     \n"
+             + REC_SEP + "c\n[GREEK]\nr.1 z\n[TRANSLATION]\n1     \n")
+    _, recs = split_records(multi)
+    assert len(recs) == 3 and recs[0].startswith("=== a") and recs[2].startswith("=== c"), recs
     print("selftest OK")
 
 
@@ -268,12 +315,17 @@ def main():
     s.add_argument("--batch", type=int, default=12)
     a = sub.add_parser("assemble")
     a.add_argument("file")
+    sp = sub.add_parser("split")
+    sp.add_argument("file")
+    sp.add_argument("--parts", type=int, default=10)
     sub.add_parser("selftest")
     args = ap.parse_args()
     if args.cmd == "scaffold":
         do_scaffold(args.batch)
     elif args.cmd == "assemble":
         do_assemble(args.file)
+    elif args.cmd == "split":
+        do_split(args.file, args.parts)
     else:
         selftest()
 
