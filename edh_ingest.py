@@ -410,10 +410,29 @@ def _load_existing_translations(path):
     return out
 
 
+def _load_existing_records(path):
+    """Return the full list of records from a previous epigraphy_data.js (or [])."""
+    if not os.path.exists(path):
+        return []
+    try:
+        raw = open(path, encoding="utf-8").read()
+        P = "window.EPIGRAPHY_DATA = "
+        payload = raw[raw.index(P) + len(P):].strip()
+        if payload.endswith(";"):
+            payload = payload[:-1]
+        data = json.loads(payload)
+        return data if isinstance(data, list) else []
+    except (ValueError, OSError):
+        return []
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("file", help="EDH/LIST dump (.geojson or .json)")
     ap.add_argument("--cap", type=int, default=2000)
+    ap.add_argument("--add", action="store_true",
+                    help="ADDITIVE: keep the existing epigraphy_data.js untouched and "
+                         "append the next --cap best inscriptions NOT already in it.")
     ap.add_argument("--inspect", action="store_true")
     args = ap.parse_args()
 
@@ -459,19 +478,28 @@ def main():
 
     # best-preserved first: more text (by total characters) + having a real date
     rows.sort(key=lambda r: (sum(len(x) for x in r["text"]), r["date"] != "unknown"), reverse=True)
-    rows = rows[: args.cap]
-
-    # Carry over translations from any previous run so regeneration never wipes
-    # the work done by epigraphy_translate.py.
-    existing = _load_existing_translations(OUT)
-    if existing:
-        kept = 0
-        for r in rows:
-            tr = existing.get(r["id"])
-            if tr:
-                r["translation"] = tr
-                kept += 1
-        print(f"Preserved {kept} existing translations from the previous file.")
+    if args.add:
+        # Additive: keep every existing record EXACTLY as-is (translations, genres,
+        # coords, manual edits) and append only the next --cap best NEW inscriptions.
+        existing_records = _load_existing_records(OUT)
+        have = {r.get("id") for r in existing_records}
+        new_rows = [r for r in rows if r["id"] not in have][: args.cap]
+        rows = existing_records + new_rows
+        print(f"Add mode: {len(existing_records)} existing + {len(new_rows)} new "
+              f"= {len(rows)} total (existing records untouched).")
+    else:
+        rows = rows[: args.cap]
+        # Carry over translations from any previous run so regeneration never wipes
+        # the work done by epigraphy_translate.py.
+        existing = _load_existing_translations(OUT)
+        if existing:
+            kept = 0
+            for r in rows:
+                tr = existing.get(r["id"])
+                if tr:
+                    r["translation"] = tr
+                    kept += 1
+            print(f"Preserved {kept} existing translations from the previous file.")
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as fh:
