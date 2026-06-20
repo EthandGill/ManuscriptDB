@@ -1102,1087 +1102,1087 @@ r.1083 [π][ Σ]ώτα δραχμαὶ σξ
 r.1084 ἀναλωθεῖσαι Θοτεῦτι …
 
 [TRANSLATION]
-1     
-2     
-3     
-4     
-5     
-6     
-7     
-8     
-9     
-10    
-11    
-12    
-13    
-14    
-15    
-16    
-17    
-18    
-19    
-20    
-21    
-22    
-23    
-24    
-25    
-26    
-27    
-28    
-29    
-30    
-31    
-32    
-33    
-34    
-35    
-36    
-37    
-38    
-39    
-40    
-41    
-42    
-43    
-44    
-45    
-46    
-47    
-48    
-49    
-50    
-51    
-52    
-53    
-54    
-55    
-56    
-57    
-58    
-59    
-60    
-61    
-62    
-63    
-64    
-65    
-66    
-67    
-68    
-69    
-70    
-71    
-72    
-73    
-74    
-75    
-76    
-77    
-78    
-79    
-80    
-81    
-82    
-83    
-84    
-85    
-86    
-87    
-88    
-89    
-90    
-91    
-92    
-93    
-94    
-95    
-96    
-97    
-98    
-99    
-100   
-101   
-102   
-103   
-104   
-105   
-106   
-107   
-108   
-109   
-110   
-111   
-112   
-113   
-114   
-115   
-116   
-117   
-118   
-119   
-120   
-121   
-122   
-123   
-124   
-125   
-126   
-127   
-128   
-129   
-130   
-131   
-132   
-133   
-134   
-135   
-136   
-137   
-138   
-139   
-140   
-141   
-142   
-143   
-144   
-145   
-146   
-147   
-148   
-149   
-150   
-151   
-152   
-153   
-154   
-155   
-156   
-157   
-158   
-159   
-160   
-161   
-162   
-163   
-164   
-165   
-166   
-167   
-168   
-169   
-170   
-171   
-172   
-173   
-174   
-175   
-176   
-177   
-178   
-179   
-180   
-181   
-182   
-183   
-184   
-185   
-186   
-187   
-188   
-189   
-190   
-191   
-192   
-193   
-194   
-195   
-196   
-197   
-198   
-199   
-200   
-201   
-202   
-203   
-204   
-205   
-206   
-207   
-208   
-209   
-210   
-211   
-212   
-213   
-214   
-215   
-216   
-217   
-218   
-219   
-220   
-221   
-222   
-223   
-224   
-225   
-226   
-227   
-228   
-229   
-230   
-231   
-232   
-233   
-234   
-235   
-236   
-237   
-238   
-239   
-240   
-241   
-242   
-243   
-244   
-245   
-246   
-247   
-248   
-249   
-250   
-251   
-252   
-253   
-254   
-255   
-256   
-257   
-258   
-259   
-260   
-261   
-262   
-263   
-264   
-265   
-266   
-267   
-268   
-269   
-270   
-271   
-272   
-273   
-274   
-275   
-276   
-277   
-278   
-279   
-280   
-281   
-282   
-283   
-284   
-285   
-286   
-287   
-288   
-289   
-290   
-291   
-292   
-293   
-294   
-295   
-296   
-297   
-298   
-299   
-300   
-301   
-302   
-303   
-304   
-305   
-306   
-307   
-308   
-309   
-310   
-311   
-312   
-313   
-314   
-315   
-316   
-317   
-318   
-319   
-320   
-321   
-322   
-323   
-324   
-325   
-326   
-327   
-328   
-329   
-330   
-331   
-332   
-333   
-334   
-335   
-336   
-337   
-338   
-339   
-340   
-341   
-342   
-343   
-344   
-345   
-346   
-347   
-348   
-349   
-350   
-351   
-352   
-353   
-354   
-355   
-356   
-357   
-358   
-359   
-360   
-361   
-362   
-363   
-364   
-365   
-366   
-367   
-368   
-369   
-370   
-371   
-372   
-373   
-374   
-375   
-376   
-377   
-378   
-379   
-380   
-381   
-382   
-383   
-384   
-385   
-386   
-387   
-388   
-389   
-390   
-391   
-392   
-393   
-394   
-395   
-396   
-397   
-398   
-399   
-400   
-401   
-402   
-403   
-404   
-405   
-406   
-407   
-408   
-409   
-410   
-411   
-412   
-413   
-414   
-415   
-416   
-417   
-418   
-419   
-420   
-421   
-422   
-423   
-424   
-425   
-426   
-427   
-428   
-429   
-430   
-431   
-432   
-433   
-434   
-435   
-436   
-437   
-438   
-439   
-440   
-441   
-442   
-443   
-444   
-445   
-446   
-447   
-448   
-449   
-450   
-451   
-452   
-453   
-454   
-455   
-456   
-457   
-458   
-459   
-460   
-461   
-462   
-463   
-464   
-465   
-466   
-467   
-468   
-469   
-470   
-471   
-472   
-473   
-474   
-475   
-476   
-477   
-478   
-479   
-480   
-481   
-482   
-483   
-484   
-485   
-486   
-487   
-488   
-489   
-490   
-491   
-492   
-493   
-494   
-495   
-496   
-497   
-498   
-499   
-500   
-501   
-502   
-503   
-504   
-505   
-506   
-507   
-508   
-509   
-510   
-511   
-512   
-513   
-514   
-515   
-516   
-517   
-518   
-519   
-520   
-521   
-522   
-523   
-524   
-525   
-526   
-527   
-528   
-529   
-530   
-531   
-532   
-533   
-534   
-535   
-536   
-537   
-538   
-539   
-540   
-541   
-542   
-543   
-544   
-545   
-546   
-547   
-548   
-549   
-550   
-551   
-552   
-553   
-554   
-555   
-556   
-557   
-558   
-559   
-560   
-561   
-562   
-563   
-564   
-565   
-566   
-567   
-568   
-569   
-570   
-571   
-572   
-573   
-574   
-575   
-576   
-577   
-578   
-579   
-580   
-581   
-582   
-583   
-584   
-585   
-586   
-587   
-588   
-589   
-590   
-591   
-592   
-593   
-594   
-595   
-596   
-597   
-598   
-599   
-600   
-601   
-602   
-603   
-604   
-605   
-606   
-607   
-608   
-609   
-610   
-611   
-612   
-613   
-614   
-615   
-616   
-617   
-618   
-619   
-620   
-621   
-622   
-623   
-624   
-625   
-626   
-627   
-628   
-629   
-630   
-631   
-632   
-633   
-634   
-635   
-636   
-637   
-638   
-639   
-640   
-641   
-642   
-643   
-644   
-645   
-646   
-647   
-648   
-649   
-650   
-651   
-652   
-653   
-654   
-655   
-656   
-657   
-658   
-659   
-660   
-661   
-662   
-663   
-664   
-665   
-666   
-667   
-668   
-669   
-670   
-671   
-672   
-673   
-674   
-675   
-676   
-677   
-678   
-679   
-680   
-681   
-682   
-683   
-684   
-685   
-686   
-687   
-688   
-689   
-690   
-691   
-692   
-693   
-694   
-695   
-696   
-697   
-698   
-699   
-700   
-701   
-702   
-703   
-704   
-705   
-706   
-707   
-708   
-709   
-710   
-711   
-712   
-713   
-714   
-715   
-716   
-717   
-718   
-719   
-720   
-721   
-722   
-723   
-724   
-725   
-726   
-727   
-728   
-729   
-730   
-731   
-732   
-733   
-734   
-735   
-736   
-737   
-738   
-739   
-740   
-741   
-742   
-743   
-744   
-745   
-746   
-747   
-748   
-749   
-750   
-751   
-752   
-753   
-754   
-755   
-756   
-757   
-758   
-759   
-760   
-761   
-762   
-763   
-764   
-765   
-766   
-767   
-768   
-769   
-770   
-771   
-772   
-773   
-774   
-775   
-776   
-777   
-778   
-779   
-780   
-781   
-782   
-783   
-784   
-785   
-786   
-787   
-788   
-789   
-790   
-791   
-792   
-793   
-794   
-795   
-796   
-797   
-798   
-799   
-800   
-801   
-802   
-803   
-804   
-805   
-806   
-807   
-808   
-809   
-810   
-811   
-812   
-813   
-814   
-815   
-816   
-817   
-818   
-819   
-820   
-821   
-822   
-823   
-824   
-825   
-826   
-827   
-828   
-829   
-830   
-831   
-832   
-833   
-834   
-835   
-836   
-837   
-838   
-839   
-840   
-841   
-842   
-843   
-844   
-845   
-846   
-847   
-848   
-849   
-850   
-851   
-852   
-853   
-854   
-855   
-856   
-857   
-858   
-859   
-860   
-861   
-862   
-863   
-864   
-865   
-866   
-867   
-868   
-869   
-870   
-871   
-872   
-873   
-874   
-875   
-876   
-877   
-878   
-879   
-880   
-881   
-882   
-883   
-884   
-885   
-886   
-887   
-888   
-889   
-890   
-891   
-892   
-893   
-894   
-895   
-896   
-897   
-898   
-899   
-900   
-901   
-902   
-903   
-904   
-905   
-906   
-907   
-908   
-909   
-910   
-911   
-912   
-913   
-914   
-915   
-916   
-917   
-918   
-919   
-920   
-921   
-922   
-923   
-924   
-925   
-926   
-927   
-928   
-929   
-930   
-931   
-932   
-933   
-934   
-935   
-936   
-937   
-938   
-939   
-940   
-941   
-942   
-943   
-944   
-945   
-946   
-947   
-948   
-949   
-950   
-951   
-952   
-953   
-954   
-955   
-956   
-957   
-958   
-959   
-960   
-961   
-962   
-963   
-964   
-965   
-966   
-967   
-968   
-969   
-970   
-971   
-972   
-973   
-974   
-975   
-976   
-977   
-978   
-979   
-980   
-981   
-982   
-983   
-984   
-985   
-986   
-987   
-988   
-989   
-990   
-991   
-992   
-993   
-994   
-995   
-996   
-997   
-998   
-999   
-1000  
-1001  
-1002  
-1003  
-1004  
-1005  
-1006  
-1007  
-1008  
-1009  
-1010  
-1011  
-1012  
-1013  
-1014  
-1015  
-1016  
-1017  
-1018  
-1019  
-1020  
-1021  
-1022  
-1023  
-1024  
-1025  
-1026  
-1027  
-1028  
-1029  
-1030  
-1031  
-1032  
-1033  
-1034  
-1035  
-1036  
-1037  
-1038  
-1039  
-1040  
-1041  
-1042  
-1043  
-1044  
-1045  
-1046  
-1047  
-1048  
-1049  
-1050  
-1051  
-1052  
-1053  
-1054  
-1055  
-1056  
-1057  
-1058  
-1059  
-1060  
-1061  
-1062  
-1063  
-1064  
-1065  
-1066  
-1067  
-1068  
-1069  
-1070  
-1071  
-1072  
-1073  
-1074  
-1075  
-1076  
-1077  
-1078  
-1079  
-1080  
-1081  
-1082  
-1083  
-1084  
+1     … 100 on account, drachmas 100 …
+2     … Tybi: talent, 89 (drachmas), five obols
+3     to the rope-makers drachmas …
+4     … of oxen, drachmas 12
+5     … drachmas 7
+6     … anezino … drachmas 76
+7     from (the account) of Nesos, drachmas 200
+8     from (the account of) Nesos, drachmas 200
+9     from … drachmas 20
+10    to Heli for oxen, drachmas 10, two obols
+11    to my own brick-maker, drachmas 20
+12    for veal meat, drachmas 4, four obols
+13    for other meat likewise …
+14    for warp(-thread), drachmas 12
+15    to Hermes for freight, drachmas 70
+16    from Hatres, drachmas 5 …
+17    th… drachmas 500
+18    … is set aside …
+19    from Gaius …
+20    1 …
+21    from Gaius …
+22    from Dioskoros …
+23    from … drachmas 20 …
+24    from Sotas, drachmas 460 …
+25    from Konchos, drachmas 460 …
+26    from Seuthes …
+27    likewise 265 (from) Bakchiotes
+28    from Arches …
+29    to Soterichos, drachmas 800 …
+30    spent for Nestopoikeites, drachmas 60
+31    to Didymos Gemellos, three thousand (?) — drachmas 200
+32    likewise drachmas 8
+33    from the sacred (account), drachmas 200
+34    to my own guard, drachmas 24
+35    from … nemē, drachmas 16
+36    from Arches, for wine, 1, drachmas 16
+37    to Thaisarion, for contribution, drachmas 4
+38    of vetch, kelala (?), drachmas 20
+39    of expense, drachmas 4
+40    of collops (?), drachmas 24
+41    to Heli, drachmas 16
+42    1, from Dioskoros, drachmas 214
+43    spent for Hatres the camel-driver, drachmas 20 …
+44    and Amaklis, through Hatres, drachmas 8
+45    from Hatres, drachmas 100
+46    … drachmas 8, of debt
+47    spent for Gemellos, drachmas 172
+48    of sweat(-cloths?), 6, drachmas 4 …
+49    of fodder, drachmas 2, two obols
+50    of meat, drachmas 5, five obols
+51    of contribution, drachmas 4, three obols
+52    to the son of the deaf woman, drachmas 20
+53    of expense, drachmas 4
+54    3, to Hierax through (his) son-in-law, drachmas 60
+55    total
+56    … is set aside
+57    drachmas 122, two obols
+58    from Hatres, drachmas 132
+59    spent for small fish, drachmas 8
+60    to Horion for the works of digging, drachmas 40
+61    from Sotas, drachmas 96
+62    in a voucher it was assigned to Soterichos, and in
+63    the handling-records it is not found
+64    spent for Soterichos in (the month of) Hathyr for the brick-makers, drachmas 300
+65    to Gemellos for wine, drachmas 4000
+66    to Stesouchos through Herakleia, drachmas 172
+67    15, from Sarapion for vegetables, drachmas 92
+68    from Pasion likewise, drachmas 40
+69    from Petekas, drachmas 36
+70    spent for Sanenis through Herieus, drachmas 20
+71    to Ptolemaios, drachmas 300
+72    to the wife of Areios
+73    from Arches, drachmas 500
+74    from Poukell… 4, drachmas 32
+75    to Stepsis for clothing, drachmas …
+76    of veal, drachmas 5 …
+77    of expense, drachmas 4
+78    on the 2nd, from Sotas, drachmas 120
+79    on the 4th, from Sotas, drachmas … 22 in copper; spent for Soterichos, drachmas 462 in copper
+80    is set aside …
+81    … 546 in copper
+82    from Bakchiotes for rent … through …
+83    drachmas 60
+84    from … klio … k … ai …
+85    … drachmas 80
+86    … k … ou, drachmas … 2
+87    from the same, for a loan, drachmas …
+88    from Dioskoros through Heras, drachmas 518
+89    … kres, drachmas 8 …
+90    16, from Hatres, drachmas 600
+91    from the fatherless lessee, for year 31, the remaining (sums)
+92    drachmas 112
+93    from the same, for year 32, on account
+94    drachmas 176
+95    from the bath-keeper of the strategos
+96    drachmas 180
+97    from Sarapion the oil-maker, drachmas 100
+98    from Sotas, drachmas 320
+99    from Konchos, drachmas 312
+100   from Arches, drachmas 28
+101   to Kolobos, drachmas 4
+102   ptiko… for provisions, drachmas 8
+103   of green fodder, drachmas 8
+104   to Moros for provisions, drachmas … 2
+105   from Orsenouphis the oil-maker, drachmas 24
+106   from Aretion, drachmas 44
+107   spent for the lawyer (notary), drachmas 4
+108   of wine, drachmas 12
+109   of pigeons, drachmas 4
+110   of expense, drachmas 16
+111   to Gemellos, so as (to pay) Sabinus the high-priest
+112   … so as (to pay) the banker in the house
+113   in the presence of Philoxenos, by a diploma, in return for what he gave as a loan, drachmas 1000
+114   from Gaius, drachmas …
+115   from Nesos, drachmas 200
+116   … drachmas 900
+117   … drachmas 4
+118   … drachmas 12
+119   19th, is set aside
+120   drachmas 556
+121   spent for the shepherd for provisions, drachmas 200
+122   to Horion for the works of digging, drachmas 40
+123   to Ammon for the sheep-workers, drachmas 40
+124   to the tax-collectors of Bakchias, drachmas 20
+125   to the tax-collectors of Hephaistias, drachmas 20
+126   to Ptolemaios the bull-driver, for provisions, drachmas 12
+127   to Harpochras likewise, drachmas 12
+128   to the carpenter Bakchiotes, drachmas 4
+129   for the price of woof(-thread), drachmas 36, four obols
+130   of small fish, drachmas 4
+131   to Kopres the carpenter, drachmas 15, three obols
+132   of small fish, to Gemellos, drachmas 4
+133   21, from Hatres, drachmas 1060
+134   from Sotas, drachmas 100
+135   from Konchos, drachmas 160
+136   spent for Neas for the workers, drachmas 4 …
+137   for me, for oil, drachmas 4
+138   from Dioskoros, drachmas 200
+139   from Chratos, drachmas 88
+140   spent for radish oil, drachmas … 4
+141   from Arches, drachmas 80
+142   from Paseinikos, set aside, drachmas 2000
+143   to Sabinus the public banker, drachmas 1001, five obols
+144   to Dioskoros … 1 … and an …
+145   from Konchos, drachmas …
+146   spent for Pennis …
+147   to little Aphrodisios … drachmas …
+148   22, from the farmer Philantinoos, drachmas 8
+149   to Heli for oxen, drachmas …
+150   to Demetrios for a loan, drachmas …
+151   from Arches, drachmas 36
+152   from the sacred (account), drachmas 200
+153   24, spent for Horion for the workers of digging, drachmas 40
+154   from Sotas, drachmas 72
+155   spent for Horion, drachmas 72
+156   from Dioskoros, drachmas 60
+157   spent for Horion, drachmas 60
+158   from Hatres, drachmas 24
+159   from Konchos, drachmas 100; to the shepherd, drachmas 100
+160   spent for Horion, drachmas … 4; other (sums), drachmas 200
+161   to Kolobos for male gazelles
+162   4, females 4, on account, drachmas 100
+163   to Sarapion, plenōl (?), drachmas 60
+164   to Pennis for provisions, drachmas … in copper
+165   of locusts (attakitai?), drachmas 24
+166   of warp(-thread), drachmas 4
+167   26, from Arches, drachmas 12
+168   spent for Pennis for provisions, drachmas 12
+169   27, from Arches, drachmas 56
+170   spent for contribution … for the potter, drachmas 6 in copper
+171   to a new camel-driver, drachmas 12
+172   to little Aphrodisios, drachmas 12
+173   to Pasion the horseman, for provisions, drachmas 16
+174   … drachmas …
+175   to Thaisarion for peculium (private fund), drachmas 4
+176   from Sotas, drachmas 128
+177   spent for Horion for the workers of digging, drachmas 100 …
+178   from Gaius, drachmas 300
+179   spent for Kolobos, drachmas 56
+180   to Soterichos, drachmas 200
+181   to my own brick-maker, drachmas 8
+182   from Dioskoros, drachmas 40
+183   spent for little Aphrodisios the camel-driver, drachmas 16
+184   to Heras the camel-driver, drachmas 24
+185   from Poselotos (?) for a horse, drachmas 1 …
+186   spent for the son of Sempronius for the oil-makers, drachmas 100 …
+187   from Herakleia, drachmas 100
+188   spent for the son of Sempronius likewise, drachmas 100
+189   from me, of wheat, 9 artabas
+190   spent for Gemellos son of Sempronius, of wheat, 9 artabas
+191   from the sacred (account), drachmas 200
+192   to Horion for the workers of digging, drachmas 200
+193   to Tapesis, drachmas 8
+194   of little fish, drachmas 12
+195   to our Hermes, drachmas 12
+196   to Heli, drachmas 4
+197   of locusts (attakitai?), drachmas 16
+198   from Ba… k …
+199   from the lessee … es, drachmas 172
+200   b … an, drachmas 20
+201   1 … drachmas 4
+202   from Dioskoros …
+203   from Hatres, drachmas …
+204   to Harpochras the herdsman, drachmas 12
+205   … for freight, drachmas 16
+206   … iō, of contribution, Ptol…ar, drachmas 4
+207   from Perkeesis, drachmas 200
+208   still from above
+209   spent for Hierax through him, drachmas 200
+210   from Perkeesis, drachmas 100
+211   spent for Horion for the workers of digging, drachmas 40
+212   from Theon, drachmas 750 in copper
+213   spent for Theon for the workers of Ptolemaios from (the month of) Thoth, drachmas 750 in copper
+214   from Gaius, drachmas 100
+215   to Horion for the workers of digging, drachmas 60
+216   to Ptolemaios the bull-driver, drachmas 16
+217   of contribution, on behalf of Gemellos, the man's, drachmas 4
+218   of contribution, mine, drachmas 4
+219   from Konchos, drachmas 60
+220   spent for Horion for the workers of digging, drachmas 60
+221   to Ptolemaios the donkey-driver, through
+222   his mother, drachmas 8
+223   to Kialbasie (?), for a loan, drachmas 40
+224   to Apis, so as (to pay) Aphrodisios, drachmas … 8; other drachmas 8
+225   for the price of the remaining donkey, drachmas 60
+226   to Pamounis the builder, drachmas 16
+227   from Hatres, drachmas 40
+228   spent for Horion for the workers of digging, drachmas 40
+229   from the farmer Saturnilus …
+230   spent for sustenance … 30, drachmas 48
+231   … on account, drachmas 7, three obols
+232   from …
+233   to Thoteus, for the things which in part …
+234   … did Gemellos, drachmas 200
+235   from … drachmas … 2; other drachmas 8
+236   spent for him for poultices for a yoke (of oxen), drachmas 34, two obols
+237   spent for Hatres for provisions, drachmas 8
+238   from Hatres, drachmas … 2
+239   from Arches, drachmas 305
+240   in (the month of) Tybi
+241   to Thoteus, drachmas 300
+242   … other (sums) to the same … 2
+243   others to the same, drachmas 1100 …
+244   from Hermeinos, drachmas 200
+245   to Aphrodisios the carpenter, drachmas 20
+246   … of contribution, drachmas 8
+247   to Amakis the brick-maker, drachmas 20
+248   to Thaisarion, drachmas 4
+249   to Hierax through the son-in-law, drachmas 100
+250   from Sotas, drachmas 200
+251   spent for Sanenis through Herieus, drachmas …
+252   to Aphrodisios the shepherd, drachmas 70
+253   to Nestopoikeites in (the month of) Choiak, drachmas 22
+254   of acacia (-wood?), drachmas 32
+255   to Heli, so as … drachmas …
+256   for the price of Herm…
+257   anou … an … the Memphite, an …
+258   of lentils, 2 artabas …
+259   … drachmas 300
+260   … is set aside … 313
+261   … drachmas 200
+262   to Horion for the workers, for digging, drachmas 200
+263   … 100 …
+264   … s through Pakysis, drachmas 8
+265   … ni, for flax, for a loan, drachmas 100
+266   to a stranger brick-maker, drachmas 8
+267   of sulphur (?), drachmas 8
+268   from Sotas, drachmas 80
+269   from Dioskoros, drachmas 60
+270   to Nestopoikeites, 8
+271   5, from Sotas, drachmas 52 …
+272   spent for Euphrosynos for … em, drachmas 52
+273   to Horion, drachmas 48
+274   from Konchos, drachmas 40 …
+275   spent for Pakysaipos, drachmas 48
+276   was taken up in (the month of) Choiak
+277   from Konchos, drachmas 40
+278   spent for Horion through … tho, drachmas 40
+279   from Konchos, drachmas 40
+280   spent for Soterichos …
+281   from Hatres, drachmas 40
+282   spent for Harpochras, drachmas 12
+283   to Hentieu (?), drachmas 8
+284   to the tax-farmer … dy … i, drachmas 40
+285   from Gaius, drachmas 60, two obols
+286   spent for Soterichos … for digging, drachmas …
+287   from Arches, drachmas 10 …
+288   to Isidoros for a loan, drachmas 10, two obols
+289   to Hierax through the son-in-law, drachmas 100
+290   from Hatres, drachmas 88
+291   of meat, drachmas 9, five obols
+292   of jars, drachmas 4
+293   to Amakis the brick-maker, drachmas 10 …
+294   to Zoilos the stranger, drachmas …
+295   of locusts (attakitai?), drachmas 20
+296   of radish oil, drachmas 5, an obol
+297   13, from Arches
+298   to Horion for the price of vetch … drachmas 100
+299   from Arches …
+300   spent for Hatres the slave camel-driver, drachmas 60
+301   from Arches, drachmas 20
+302   spent for Arches, t… drachmas 20
+303   from Arches, drachmas 200
+304   spent for Thermouthion … drachmas 50
+305   I had on loan drachmas 500; on account drachmas 200
+306   from Konchos …
+307   to Horion, so as … optais, drachmas 100
+308   for the price of … drachmas 56
+309   from Thaisarion …
+310   from Arches, of wheat, 1 1/3 artaba, drachmas 24
+311   spent, others, of wheat 2/3 artaba, drachmas 12
+312   likewise to (my) brother, of wheat 2/3 artaba, drachmas 12
+313   of radish oil, drachmas 5, an obol
+314   19, from the lessee of the dovecotes, Melkalis, in place of whom Men…
+315   to Aphrodisios a … ak, the sum falling due for
+316   the four-month period, drachmas 100
+317   to the tax-farmer, drachmas 32
+318   to the tax-farmer, drachmas 68
+319   from Soterichos, drachmas 40; spent for the son … drachmas 40
+320   from Dioskoros, drachmas 60
+321   from Hatres, drachmas 100
+322   from Arches, drachmas 20
+323   spent for Thoteus through Neiteiros …
+324   to Kopres for the cutting of charcoal …
+325   to my own brick-maker, drachmas 8
+326   of meat, drachmas 5, four obols
+327   of expense, drachmas 4
+328   … drachmas 32
+329   … drachmas 48
+330   … drachmas 84
+331   … 4
+332   from Thermouthion, drachmas 400
+333   spent for Horion for the workers, drachmas 200
+334   from Gaius, drachmas 60
+335   from Gaius, drachmas 80
+336   from Gaius, drachmas 100
+337   spent for Soterichos — they amounted to drachmas 240
+338   20, from Nesos, drachmas 400
+339   spent for the shepherd, drachmas …
+340   to Soterichos, of jars, through … n ō …, drachmas 44
+341   to Agrippianus, for the price of vegetables, drachmas 100
+342   to the carpenter Bakchiotes, drachmas 20
+343   of small fish, drachmas 8
+344   of salt …
+345   to Pakysis, for freight of camels …
+346   the price of empty (jars) for oil, drachmas 60
+347   to Protas, drachmas …
+348   from Sotas …
+349   from Hatres, drachmas …
+350   from Dioskoros, drachmas 60
+351   … drachmas 20 …
+352   … drachmas 60 …
+353   … drachmas 24
+354   … drachmas 8
+355   … of repayment (?), drachmas 20
+356   … to the cleruch, drachmas 28
+357   … drachmas 32
+358   from … drachmas 120; spent for Soterichos, drachmas 120
+359   from Hatres, drachmas 240; spent for Soterichos, drachmas 240
+360   from Hatres, on the 22nd, drachmas 160; spent for Soterichos, drachmas 160
+361   from Hatres, on the 23rd, drachmas 40; spent for Kopres, drachmas 40
+362   from Hatres, on the 25th, drachmas 48; spent for Horion, drachmas 48
+363   from Hatres, out of the sums spent
+364   of jars, 2, drachmas 32
+365   spent for Gemellos son of Sempronius for oil …
+366   from Dioskoros, drachmas …; spent for the son of Sempronius …
+367   to Hermes the slave, drachmas 8
+368   alaes (?), drachmas 4
+369   from Dioskoros, drachmas 428
+370   spent for … ra … an … t, drachmas 428
+371   from Konchos, drachmas 100
+372   spent for Paion through his son me… drachmas 100
+373   from, of wheat, 1 artaba, drachmas 20; to the same through Paion, drachmas 20
+374   to Horion for the workers of digging, drachmas …
+375   spent for Soterichos …
+376   … up to (day) 22, drachmas 600
+377   k … drachmas 100
+378   spent for the tax-farmer, drachmas 84
+379   to the shepherd, drachmas 16
+380   29 … drachmas 200
+381   was taken up (in the month of) Choiak
+382   to Chairemon for barley, drachmas 200
+383   from the sacred (account), drachmas 112
+384   to the bull-drivers, drachmas 112
+385   from the sacred (account), drachmas 100
+386   spent for Hierax, drachmas 100
+387   from the sacred (account), drachmas 80
+388   spent for lentils, drachmas 80
+389   from the sacred (account), drachmas 200
+390   spent for Horion, drachmas 200
+391   from Horion … other (sums) …
+392   drachmas 100 … 8; other drachmas 368 …
+393   spent for Horion for the workers of (the month of) Choiak, Tagnoō
+394   drachmas 108
+395   and for the transport of wine, drachmas 13, five obols
+396   and for the workers of digging, drachmas 112 in copper
+397   … for the price of vetch, 8 artabas, drachmas 144
+398   from Horion, drachmas 13, five obols
+399   30, di… tri, to the slave for provisions, drachmas 13, five obols
+400   … drachmas 48
+401   … to Gaius …
+402   … drachmas 50
+403   … to Sarapion …
+404   … five obols
+405   … to Hatres, monthly …
+406   from Sotas, drachmas 1040, 920
+407   spent for Horion, drachmas 1040, 920
+408   from Konchos, drachmas 40
+409   spent for Horion, drachmas 40 …
+410   from Hatres, drachmas 100
+411   spent for the shepherd, drachmas 100
+412   from Konchos, drachmas 40
+413   spent for Kopres, drachmas 40
+414   from Dioskoros, of a jar, drachmas 16
+415   spent for little Aphrodisios, drachmas 16
+416   from Sotas, drachmas 180
+417   spent for Horion, drachmas 120
+418   to Soterichos, drachmas 60
+419   from Konchos, drachmas 80
+420   spent for Soterichos, drachmas 80
+421   from Dioskoros, drachmas 60
+422   spent for Soterichos, 60
+423   from Gaius, drachmas 276
+424   spent for Soterichos, drachmas 276
+425   from Gaius, drachmas 100
+426   from Arches, drachmas 20
+427   … thi … on behalf of Gemellos, drachmas 70
+428   … on behalf of myself, drachmas 4
+429   … r … akō, drachmas 4
+430   spent for Pasinikos, drachmas …
+431   … ō … eme …
+432   … to the brick-maker, the sums being carried as arrears, drachmas …
+433   of expense, drachmas …
+434   of meat, drachmas 4 …
+435   of birds, drachmas 20 …
+436   to Hatres the bride (?), drachmas 8
+437   from, for the price of a jar, drachmas 16
+438   (in the month of) Mecheir, 10th
+439   from, for the price of jars, 38, drachmas 542 in copper
+440   spent for Soterichos, drachmas 542 in copper
+441   from … ou, drachmas 220; other drachmas 300; other drachmas 140
+442   … drachmas 880; spent for Soterichos, drachmas 880
+443   from Gemella, drachmas 100 through Euphrosynos
+444   to Soterichos, drachmas 100
+445   (in the month of) Mecheir …
+446   … to the (rope-)plaiters
+447   … for the same total … two obols
+448   from Konchos, drachmas 60 …
+449   spent for the bull-drivers, drachmas 52
+450   to Harpaleion, drachmas 48
+451   from Hatres, drachmas 36
+452   spent for Harpaleion, drachmas 36
+453   to the hay-cutters, drachmas 24
+454   to my own brick-maker …
+455   from Arches, drachmas 80
+456   spent for Demetrios on loan, of jars, drachmas 16
+457   to Stesouchos for provisions, drachmas 16
+458   to the son of Sempronius, drachmas 20
+459   of lentils, drachmas 12
+460   to Neas on loan, drachmas 12
+461   from, of Hatres' wine, drachmas 6; other drachmas 2 in copper
+462   to my own brick-maker, drachmas 8
+463   from me, of wheat, 2 artabas, drachmas
+464   which Amakis received on behalf of Gemellos, drachmas 36
+465   from the sacred (account), drachmas 200
+466   from Hatres, drachmas 200
+467   from Konchos, drachmas 240
+468   from Skanby (?), drachmas 500
+469   from Sotas, drachmas 32
+470   spent for the carpenter Bakchiotes, drachmas 60
+471   of contribution, drachmas 4
+472   … to Gemellos, drachmas 12
+473   … drachmas 4
+474   … drachmas 4
+475   … on my behalf, drachmas 8
+476   to Theon … for a loan, drachmas 8
+477   to Soterichos, departing to the city, drachmas 600
+478   of meat, drachmas 5, five obols
+479   of expense, drachmas 5, five obols
+480   to the horseman, for digging, drachmas 60
+481   from the lessee of the dovecotes …
+482   drachmas 60 …
+483   from Theon the manager … drachmas 100
+484   from Bakchiotes the lessee of the dovecotes, drachmas 80
+485   spent for Gemellos son of Sempronius, drachmas 100
+486   to the horseman, for digging, drachmas 40
+487   to Didymos the banker, in return for what I hold
+488   from … bibytos, drachmas 400
+489   to the tax-collectors of the cleruchs of Karanis, drachmas 40
+490   to the sitologoi (grain-officials) likewise, drachmas 12
+491   of unguents, drachmas …
+492   to the tax-farmer on behalf of Kopres and from the price of unguents, drachmas 8
+493   from Isidoros, drachmas 20
+494   of expense, drachmas 20
+495   from the lessees, from Ptolemais
+496   Nea, drachmas 60
+497   spent for Eutyches, drachmas 20
+498   from, from the price of a denarius
+499   drachmas
+500   to Gemellos son of Sempronius, drachmas 100 … 2
+501   from Hatres, drachmas …
+502   … to the shepherd, drachmas 104 …
+503   … drachmas 52
+504   … spent for Amakis …
+505   from Arches, drachmas 8
+506   … spent for alaes …
+507   from Arches, drachmas 12
+508   spent for the price of timber, drachmas 24
+509   from Arches, drachmas 100
+510   spent for Soterichos, drachmas 100
+511   from Arches … 90
+512   … for the price of an anvil, drachmas 4
+513   kō … r … drachmas 20
+514   of small baskets, drachmas 4
+515   from, of wine, 2 jars
+516   of contribution, drachmas 4
+517   25th, is set aside, drachmas 48
+518   from Konchos, drachmas 12
+519   for the price of an anvil, drachmas 60
+520   from Arches, drachmas 24
+521   from the wine-sellers of the strategos, drachmas …
+522   spent for contribution, drachmas 4
+523   to Amakis for a donkey, mine, drachmas 8
+524   of sulphur, drachmas 12
+525   to Germanus, drachmas 16
+526   of fodder for camels … akanthōn (thorn-fodder?) under
+527   grain (load) with Pasinikos, 11, drachmas 12
+528   to Kialbasie (?) on loan, drachmas 20
+529   from Hatres, drachmas 20
+530   spent for the tax-collectors of Bakchias …
+531   from the sacred (account), drachmas 200
+532   spent for wheat, … artabas, 400
+533   sanago … r … anil 2
+534   of the cleruchs likewise, of Karanis … 5, drachmas 188
+535   to Kolobos, drachmas 4
+536   to my own old guard, drachmas 12
+537   from Arches, drachmas 20
+538   of a piglet, drachmas 20
+539   from the lessee of the dovecotes, Bakchiotes, drachmas 20
+540   spent for Kolobos for an anvil, drachmas 64
+541   to Demetrios, drachmas 24
+542   to Germanus, drachmas 16
+543   to Amakis my stranger (-guest) …
+544   to the Memphite herdsman, drachmas 12
+545   from the lessee of the dovecotes, Bakchiotes, drachmas 40
+546   from Ptolemaios the old vegetable-seller, drachmas 40
+547   from Nikon likewise the vegetable-seller, drachmas 60
+548   spent for Gemellos, drachmas 120
+549   to Kopres, drachmas 20
+550   from, of wine, drachmas 8
+551   to Hermeion, drachmas 10
+552   from, of small fish, drachmas 10
+553   from Konchos, drachmas 100
+554   from Hatres, drachmas 100
+555   from Gaius through Seuthas, drachmas …
+556   spent for Thoteus through Niteiros and
+557   (in the month of) Phamenoth, of Hermeion, drachmas 300
+558   to Horion, drachmas 12
+559   from Hatres, drachmas …
+560   … drachmas 40
+561   from Dioskoros, drachmas 36
+562   spent for Antonas for the price of … drachmas 36
+563   from Dioskoros, drachmas 72
+564   spent for Paseinikos, drachmas 12
+565   to me, of contribution, drachmas 8
+566   to Sempronius for wheat, drachmas 52
+567   from Dioskoros, drachmas 100
+568   spent for Agrippinus for vegetables, drachmas 100
+569   from Dioskoros, drachmas 18, two obols
+570   spent for Pamounis, ete…n, drachmas 18, two obols
+571   24, from Dioskoros, drachmas 56
+572   spent for Soterichos, so as (to pay) Antinoos, drachmas 56
+573   29, from Dioskoros, drachmas 124
+574   spent for Soterichos, so as (to pay) Kopres, drachmas 124
+575   from Dioskoros, of wine, 4 jars, drachmas 64
+576   spent for Antonas for olives, 2, drachmas 32
+577   to Agrippinus for vegetables, 2, drachmas 32
+578   from Dioskoros, of wine, mine, 10 jars at 16 drachmas
+579   drachmas 160; for me, to drink, drachmas 160
+580   from Dioskoros, drachmas 1100
+581   spent for the shepherd, drachmas 1100
+582   from Konchos, (in the month of) Mecheir, 2nd, drachmas 48 …
+583   … others, drachmas 60; on the 23rd likewise, drachmas 80 …
+584   … likewise, drachmas 100; on the 24th likewise, drachmas 100 …
+585   I … on account, 7, drachmas 100; on the 29th likewise, drachmas 212 …
+586   … drachmas 100, and others, drachmas 36 …
+587   … drachmas … others likewise …
+588   … i di … n …
+589   was taken up in (the month) of
+590   (in the month of) Mecheir
+591   9, from Arches, drachmas 32
+592   … to Pakysis for the tax of wheat …
+593   to the same, of wine, to Hatres …
+594   from Arches, drachmas 8
+595   from Arches, drachmas 20
+596   spent for little Aphrodisios and Ptolemaios …
+597   going up to the city
+598   from Arches, drachmas 20
+599   to Kopres, paid to Gemellos son of Sempronius …
+600   from Arches, drachmas 12
+601   spent for Heli …
+602   from Arches, drachmas 48
+603   from, for the price of wine, drachmas 8
+604   to Papos for expense, drachmas 8
+605   aiau (?), drachmas 12
+606   to Thaisarion, drachmas 12
+607   to Soterichos, so as (to pay) the tax-farmer for wine, through Sotas, drachmas 24
+608   from Arches, drachmas 24
+609   to Kopres; spent for the son of Sempronius, drachmas 20
+610   to Thaisarion, drachmas 4
+611   in (the month of) Mecheir
+612   from Ptolemaios son of Psathemis, drachmas …
+613   to Soterichos, so as (to pay) the shepherd, drachmas 200
+614   from Konchos
+615   on the 2nd, drachmas 40
+616   on the 5th, other (sums), drachmas 100
+617   on the 13th, other (sums), drachmas 200, paid to Soterichos …
+618   on the 16th, from Arches, drachmas 120
+619   … to the brick-maker, drachmas 60
+620   … in (the month of) Mecheir, 4 …
+621   to Germanus … kou, to the shepherd, drachmas 20
+622   to the city, drachmas 4
+623   to Eutyches, drachmas 4
+624   from Sotas …
+625   to the tax-farmer, drachmas 36
+626   from Dioskoros, drachmas 64
+627   to the tax-farmer, drachmas 64
+628   on the 11th, from Sotas, drachmas …
+629   … drachmas …
+630   from Gaius, drachmas 100
+631   spent for Soterichos through Gaius, drachmas 100
+632   from Hatres, drachmas 60
+633   from Dioskoros, drachmas 24
+634   spent for Neilos for fodder, drachmas 84
+635   from Dioskoros, drachmas 100
+636   spent for Tithoetion, drachmas 100
+637   from Dioskoros, drachmas 8
+638   spent for Neas, drachmas 8
+639   from Sotas, for the price of jars, 2, drachmas 32
+640   spent for me, to drink, drachmas 32
+641   from Sotas, drachmas 60; other drachmas 40
+642   paid to Soterichos …
+643   from Sotas, drachmas 300
+644   spent for Horion for the workers … drachmas …
+645   19, from Sotas, drachmas 540
+646   spent for Horion for the workers … nou, drachmas 540
+647   from the sacred (account) through Stesouchos, drachmas 300
+648   from Gaius through Hatres, drachmas 40
+649   from Nesos through Hatres, drachmas 140
+650   total, is set aside, drachmas …
+651   spent for the shepherd, drachmas 100
+652   to Peteōouk the old guard, drachmas 24
+653   from Demetrios, of wine, drachmas 8
+654   20, to Soterichos for monetary (taxes), drachmas 100
+655   to the bull-drivers, drachmas 36
+656   from Hatres, drachmas 340
+657   spent for Soterichos in part, drachmas 340
+658   from Hatres, drachmas 48
+659   spent for Soterichos, drachmas 48
+660   from Dioskoros, drachmas 100
+661   spent for the shepherd, drachmas 100
+662   from Konchos, drachmas …
+663   to the fuller, drachmas 8
+664   from Konchos, drachmas 60
+665   spent for Soterichos, drachmas 60
+666   from Konchos, drachmas 132
+667   spent for Soterichos, drachmas 132
+668   … drachmas 24
+669   to my own brick-maker, drachmas 8
+670   … ag, drachmas 24
+671   from … drachmas 4
+672   of a sack, drachmas 16
+673   … to the patcher (?), drachmas 4
+674   to the city, to Demetrios, drachmas 8
+675   alaes (?), drachmas 4
+676   22, (in the month of) Phamenoth, is set aside
+677   drachmas 212
+678   spent for contribution, drachmas 4
+679   to the music-girl, drachmas …
+680   to the old Nestepoikeites, drachmas 40
+681   to the tax-farmer through Sotas, for new wine
+682   and a cart-load, drachmas 48
+683   for the price of a sack, drachmas 9, five obols
+684   for the price likewise of pliast (?), 2, drachmas 5, five obols
+685   to the fuller, drachmas 12
+686   to the music-girl, drachmas 12
+687   … drachmas 200
+688   … to Hierax for donkeys, 20 …
+689   carting (?) for the …
+690   for the workers, pset …
+691   from Perkeesis, drachmas 100 …
+692   spent for Hatres, so as (to pay) Soterichos …
+693   and to Hierax for the workers …
+694   from Perkeesis, drachmas 200
+695   spent for the shepherd …
+696   to Petesouchos, ap… drachmas 200
+697   from Perkeesis, drachmas 60
+698   spent for … t … and the son, for the builders, drachmas 60
+699   teloumao … for the stewards, drachmas 52
+700   from Chairemon, for the price of olives
+701   of olives, drachmas 4
+702   spent for Ptolemaios, in return for what I myself hold, drachmas 3000
+703   to Pethaous the brother of Syros, for a loan, drachmas 200
+704   of the city's expense, drachmas 24
+705   to Ptolemaios son of Psathes, in return for what I hold, drachmas 200
+706   to Agrippianus for water, drachmas 20
+707   from Arches, drachmas … 6; other drachmas 4
+708   spent for Hermes for a halter (?), drachmas 4
+709   to Thaisarios the camel-driver, drachmas 4
+710   to Longinus, in return for what I hold, drachmas 240
+711   27, from Gaius …
+712   from Nesos …
+713   i … a, drachmas 400
+714   to Hierax … m, drachmas 100
+715   to Hierax … eri … for fodder, drachmas 100
+716   … for a camel being sought, drachmas 4
+717   to Pamounis the builder, drachmas 100
+718   … drachmas 100
+719   … rō for sheep-fodder, drachmas 200
+720   … for donkeys, drachmas 8
+721   to Soterichos, to the city, drachmas 500
+722   the tax of wheat, through Pasion, drachmas 8
+723   27, to Urbicus through Sarapammon son of Sabinus me…rou, for the price of shoes, drachmas 200
+724   to the legionary for the workers of digging, drachmas 100
+725   to Kastor son of Diodoros, drachmas 500
+726   to the tax-farmer for my olives, drachmas …
+727   for the freight of 5 camels, of Harpaleion, drachmas … 6
+728   from Hatres, drachmas 60
+729   from Dioskoros, drachmas 60
+730   spent for the lame Gaius, k… drachmas 8
+731   from Arches through Kasianos, drachmas 24
+732   spent for Zoilos for the price, through Kasianos, drachmas 100
+733   from Dioskoros, drachmas 40
+734   spent for the shepherd, in full … 68
+735   … on my behalf …
+736   spent for Aphrodisios te…
+737   from Dioskoros, drachmas 100
+738   spent for Sarapion, so as (to pay) Soterichos …
+739   from Dioskoros, of a jar, 1, drachmas 16
+740   spent for Pamounis the builder through the salt-seller …
+741   from Arches, drachmas 40
+742   from Arches, of wine, drachmas 16
+743   spent for a stranger brick-maker, drachmas 16
+744   to my own Hermes, drachmas 8
+745   … of fodder, drachmas 32
+746   of contribution, drachmas 6 in copper
+747   to Peteuris for the price of aiki (?), drachmas 20
+748   to Titus for the price of dry fodder, drachmas 300
+749   to little Aphrodisios … going up to the city, drachmas 16
+750   to a man going up to the city, drachmas 24
+751   to Abous son of Charmos for fodder for cutting, on account, drachmas 100
+752   from Sotas, drachmas 200
+753   spent for Horion in part, drachmas 200
+754   from Sotas, drachmas 432
+755   spent for Soterichos in part, drachmas 432
+756   from the son of Konchos, drachmas 48
+757   to the same Soterichos in part, drachmas 48
+758   from Hatres …
+759   from the sacred (account) …
+760   … drachmas …
+761   to Gemellos … drachmas 940
+762   (in the month of) Pharmouthi
+763   from Arches, drachmas 20 …
+764   alaes (?) … drachmas 3, three obols
+765   to Sabinus, of pigeons, drachmas 56
+766   from Theon, drachmas 300
+767   to the same Theon for the workers, drachmas 300
+768   to Stesouchos, drachmas 12 in copper
+769   to Sabinus, of pigeons, drachmas 52
+770   on the 2nd, from the lessee of the dovecotes, Bakchiotes
+771   drachmas 100
+772   spent for Julianus son of Paoualis, drachmas 1 …
+773   from Hatres, drachmas 100
+774   from Dioskoros, drachmas 100
+775   from Dioskoros, drachmas 100
+776   spent for Paoualis for fodder, drachmas 100 in copper
+777   to Protarchos for the price of barley, 3 artabas, drachmas 30, two obols, in copper
+778   from Hatres, drachmas 16
+779   spent for Harpochras the bull-driver, drachmas … 6
+780   … to the city …
+781   … to the city, drachmas …
+782   … to the Memphite, drachmas 8
+783   … for sheep-fodder, drachmas 200
+784   and for … drachmas 1648; other drachmas 112
+785   other di … drachmas 473
+786   … 8
+787   and for …
+788   from … Hatres, drachmas 200
+789   from, on the 11th, Hatres, drachmas 140
+790   … drachmas 24
+791   … of a piglet, to the city, neō … drachmas 18
+792   is set aside, drachmas 388 in copper
+793   spent for the price, through Pakysis, drachmas 40
+794   to Ptolemaios the donkey-driver, drachmas 12
+795   to Horion through Niteiros, drachmas 200
+796   to the tax-farmer … u, drachmas 26
+797   … of dung (kopriaka), drachmas 34
+798   from Sotas, drachmas 40
+799   spent for 2 pairs of camel-panniers, through p… drachmas 24
+800   from Dioskoros, drachmas 60
+801   spent for … a … e, of fodder, drachmas …
+802   from Konchos, drachmas 80
+803   spent for Pennis … er … to Harpochras the bull-driver, drachmas 32
+804   from Chairemon, drachmas 4090 …
+805   spent for freight, to Didymos …
+806   … the remaining (sums), drachmas 300
+807   a … for the pset, drachmas 4
+808   … for the works, drachmas 8
+809   of contribution, drachmas 4
+810   to the shepherd, drachmas 200
+811   pro …
+812   to Hierax, drachmas 200
+813   to Sabinus son of Hierax, drachmas …
+814   … Paoualis … drachmas 4 …
+815   spent for the old camel-driver, drachmas 96
+816   … to Soterichos, drachmas 176
+817   to the same, for the price of a knidion (jar), drachmas …
+818   from Sempronius, for the price of a knidion (jar), drachmas 24
+819   from Chairemon and the other wine-sellers, for the price of wine …
+820   sold through them, drachmas 2289, five obols; other drachmas 200 … 4
+821   … ō, to Chairemon for freights, drachmas … 863
+822   … of dry fodder, drachmas 504
+823   and of green (fodder), drachmas 362
+824   to Didymos for provisions … m … a … drachmas …
+825   … and of beans …
+826   … iō, the remaining (sums) …
+827   … drachmas 100 …
+828   … so that he may spend a … drachmas 120 …
+829   … li, of Kerkesoucha, drachmas 8
+830   … males 2, females … drachmas 152
+831   … apo, drachmas … on account, drachmas 48
+832   … for the price of jars, 3, drachmas 48
+833   from Konchos, drachmas 68
+834   spent for fodder of 5 donkeys to Memphis, drachmas 10, two obols
+835   to Seuthes for provisions, drachmas 8
+836   to Pennis, drachmas 4
+837   7, for the price of … to the potter ēra, drachmas 80
+838   to Chairemon bel…ē for fodder, drachmas 4 …
+839   to Sarapion … 4 for the works of reapers, drachmas 8 …
+840   to my own Eutyches for the works, drachmas …
+841   to Thoteus through Kanopos, drachmas … 8
+842   to Isas the brick-maker for e … ē, drachmas …
+843   to the tax-farmer … e … 128 … drachmas …
+844   and for olives, em … drachmas …
+845   10, from Konchos, drachmas 60
+846   spent for Kanopos, drachmas 20
+847   to the tax-farmer for wine, 14 jars, drachmas 40
+848   … kō for a loan …
+849   … ēra for green fodder, drachmas 20
+850   … apophilō aut … drachmas 8
+851   to Kastor son of Diodoros, drachmas 500
+852   … drachmas 1000
+853   to Chairemon the sitologos (grain-officer) for Perkeesis, of wheat, … artabas, drachmas 8
+854   to Chairemon the sitologos for a loan, others …
+855   to Longinus for a loan, drachmas …
+856   of the fuller's shop, drachmas 20
+857   to the Roman, drachmas 4
+858   of tow, through Pakysis, drachmas 4
+859   freight of camels, drachmas 480; of olives … of wine, drachmas 100; other drachmas 20
+860   of contribution, drachmas 20
+861   of flax, do … drachmas 36
+862   to my own Heras, drachmas … 60
+863   of labor-costs, drachmas 20
+864   of petty expense … 80
+865   to the tax-farmer … e … drachmas …
+866   of wine, … jars … on account, drachmas 26
+867   of other wine … drachmas 6 …
+868   for the price of … for the pset, drachmas 3 …
+869   to my own old Nestopoikeites, drachmas 40
+870   to Eutyches for the works of oil-making, drachmas 4
+871   … of contribution, drachmas 21, five obols
+872   from Chairemon, 61
+873   spent for the Roman for prophe…
+874   to Tryphon the notary for a house being registered …
+875   of vegetables and of expense …
+876   to my own Hermes …
+877   from Dioskoros, drachmas 100
+878   spent for Demetrios for provisions monthly, for the price of olives, drachmas 110
+879   from Dioskoros, drachmas 100
+880   spent for Abous son of Charmos for the price of fodder for cutting, drachmas 80 …
+881   to Neas for the cutting of fodder …
+882   7, to Valerius for the freight of olives and wine, drachmas …
+883   to Perkeesis, for the price of … llētē … drachmas 8
+884   to Valerius the goldsmith, drachmas
+885   from Samela (?), from the price of dates, drachmas 8 …
+886   for the price of sates … ēli … kys, drachmas 40
+887   to Hermes likewise, of one yoke … other drachmas 16
+888   for the price of jars likewise, 6, apo … tē … through Sarapion, drachmas 60
+889   to the saddle-maker, drachmas 40
+890   to Kanon … p … for the price of wine … drachmas 40
+891   to Pakysis for freights of camels, drachmas 24
+892   to Harpokrates the Bakchiote, from … t … drachmas 200
+893   to Kastor son of Diodoros, other (sums) … 8
+894   to Eutyches for the harvest …
+895   from, of wine …
+896   to Demetrios for a loan, drachmas …
+897   to Ptolemaios son of Julius …
+898   to Hierax for the pset, through the secretary …
+899   freight of camels, to Harpaleion …
+900   to Valerius likewise, of 1 camel …
+901   19, to Thoteus through the potter, drachmas 300
+902   freight of camels, to Tamale, 2, on account, drachmas 8
+903   to Agrippinus likewise, 4, drachmas 8
+904   of contribution, drachmas 4
+905   … ē to the camel-driver, drachmas 60
+906   to Harpokri the bull-driver, drachmas 20
+907   to Pamounis for rope, drachmas 20, five obols
+908   to Hentieu the bull-driver, drachmas 20
+909   to Valerius the goldsmith, drachmas 20
+910   of a hair-sack, drachmas … 8
+911   from … 4, of a knidion (jar), on account, drachmas 16
+912   to the tax-farmer for my olives, drachmas 52
+913   of wine, jars …
+914   to Eutyches …
+915   spent for Paoualis for sheep-fodder, drachmas …
+916   to the tax-collectors of Hephaistias, drachmas 36
+917   from Horion … drachmas 160
+918   for the price of … for an old one … drachmas 30 …
+919   to the fish-sellers harvesting …
+920   to the Bakchiotes harvesting, drachmas …
+921   to Pabouka harvesting, drachmas 4 …
+922   to two brick-makers harvesting, drachmas 8 …
+923   to Koulipanis for the price of an ox, on account, drachmas 10 …
+924   to Peteōouk through Sotas, drachmas 4
+925   to Eutyches, other drachmas 4
+926   to Keltis through Pakysis, other drachmas 2, two obols
+927   from Konchos, on the new-moon (1st), drachmas 40
+928   spent for Soterichos through Chairemon, drachmas 40
+929   from Konchos, drachmas 30
+930   spent for Soterichos for the price of barley, … artabas, drachmas 3 …
+931   from, on the 15th, Konchos, drachmas 100
+932   spent for Soterichos, drachmas 100
+933   from, on the 17th, Konchos, drachmas 100
+934   spent for Soterichos … thot … drachmas 100
+935   23, from Konchos, drachmas 1 … two obols
+936   spent for Soterichos, drachmas 100
+937   from Konchos, drachmas 200
+938   spent for the shepherd through Protarchos, for the price of fodder, drachmas 200
+939   from Konchos, drachmas …
+940   … of Chairemon … e
+941   to Eutyches, drachmas 8
+942   from Dioskoros, drachmas 40
+943   spent for Julianus son of Paoualis, drachmas 40
+944   from Dioskoros, drachmas 32
+945   spent for Ptolemaios the herdsman, drachmas 32
+946   from Dioskoros, drachmas 100
+947   spent for Tamale for sheep-fodder, drachmas 100
+948   to Seuthes, drachmas 40
+949   24, from Arches, drachmas 40
+950   spent for Thermouthion, drachmas 40
+951   from Arches, drachmas 28
+952   to Koulipanis, the remaining (sums) for the price of an ox, drachmas 80
+953   from Koulipanis, drachmas 8
+954   to Pamounis the builder, drachmas 100
+955   for a man's (wage) … prou, drachmas 8
+956   to the fishermen, so as (to pay) the tax-farmer, drachmas 8
+957   25, to the tax-farmer for olives, drachmas 24
+958   to Hermes for travel-money (viaticum), drachmas 66
+959   … pont, of half-freight, drachmas 14 …
+960   … k …
+961   of expense in the city …
+962   of contribution …
+963   to Agrippinus, drachmas …
+964   of flax … drachmas …
+965   from … k … ō, drachmas …
+966   … ō, for a loan of jars …
+967   … tē, for a loan …
+968   of provisions …
+969   of meats, drachmas 8
+970   of the exactors, drachmas 18
+971   of imperial (taxes), drachmas 4
+972   of small cuts (?), drachmas … five obols
+973   of vegetables, four obols
+974   of breakfast, drachmas 1, five obols
+975   of hyssop, four obols
+976   to Ptolemaios son of Julius, drachmas 12
+977   of a gazelle, to Kolobos, of lamp-burning … drachmas 48; other drachmas 8
+978   of dates, to Tamale … drachmas 10 …
+979   e … ē, drachmas 8
+980   from Konchos, drachmas 100
+981   spent for Sabinus son of Hierax … it, drachmas 100
+982   from Nesos, drachmas 100
+983   from … ou, drachmas 100
+984   spent for the plasterer through … drachmas 200
+985   to our Eutyches … drachmas …
+986   to Kanopos on loan, drachmas 100 …
+987   to Seuthes, drachmas …
+988   from Hatres, drachmas 60
+989   of pigeons, through Hatres, ou … ēn, drachmas 8
+990   to the tax-farmer, to Hierax, d … drachmas 200
+991   sa … ktore … atr … drachmas 8
+992   4
+993   of sulphur (?), drachmas 4
+994   from Thermouthion, drachmas 40 …
+995   to Ammon … xyl, of Titus, drachmas 16
+996   from Dioskoros … 20
+997   spent for Soterichos in part, 18, drachmas …
+998   … in part, drachmas 500
+999   spent for Sarapion, drachmas 16
+1000  … drachmas 40
+1001  to the same, drachmas 40 …
+1002  to Soterichos, drachmas 40
+1003  to the same, drachmas 40
+1004  to the rope-plaiters, drachmas 200
+1005  to Sarapion; spent for Sanenis, drachmas 60
+1006  to Sanenis through Herieus, drachmas 60
+1007  from Hatres, drachmas 600; spent, drachma 1
+1008  from Hatres … kēs … i … u, of expense
+1009  klē … drachmas 180 …
+1010  spent for Hatres and … and for Sarapion the hard-laborer … of a two-chōros (jar), drachmas 16
+1011  expenses of building
+1012  to Sarapion di … tē … a, drachmas 16
+1013  to Dioskoros kl … k, drachmas 16
+1014  … l, to the bull-driver, a … drachmas 16
+1015  to Horion for the works, drachmas 32
+1016  … to Kopres son of Eutyches, drachmas 48
+1017  from Konchos, ēm … 7
+1018  to the rope-plaiters …
+1019  from Konchos, drachmas 800
+1020  from Konchos, the (sums) in part …
+1021  sai, drachmas 80
+1022  spent for Sanenis through Herieus, drachmas …
+1023  to Chairemon … drachmas …
+1024  from Konchos, of two-chōros (jars), 7, drachmas 112
+1025  spent for me, to drink, drachmas …
+1026  to Seuthes …
+1027  from Dioskoros, drachmas 700
+1028  from Dioskoros, of two-chōros (jars), 5, drachmas 355, three obols
+1029  spent for Kasianos, of a two-chōros (jar), drachmas 300
+1030  to Hatres, by monthly (payments) … a …
+1031  to little Aphrodisios, by the monthly (payments) …
+1032  to little Aphrodisios … t … drachmas … 6
+1033  to Petesouchos, by the monthly (payments) … a … drachmas …
+1034  and to Soterichos, drachmas 4, four obols
+1035  to Aphrodisios …
+1036  to Ammon …
+1037  of contribution …
+1038  to me, drachmas …
+1039  to Agrippinus …
+1040  to the shepherd for …
+1041  from Arches, drachmas 80; spent, 3, four obols
+1042  to Kolobos on loan … drachmas 200
+1043  is set aside …
+1044  to Horion …
+1045  spent for my own brick-maker, drachmas 32
+1046  of meat, drachmas 14 in copper
+1047  on the 2nd, from Sotas, drachmas 856
+1048  spent for the shepherd, drachmas 348
+1049  to Soterichos through the wife of Litias, drachmas 16
+1050  to the shepherd for fodder, drachmas 400
+1051  from Sotas, drachmas 1116
+1052  which Soterichos spent, femel … drachmas … 6
+1053  … ō from (the month of) Pharmouthi … until Pachon 1, drachmas 7 …
+1054  to Horion likewise, drachmas …
+1055  … eiōnos …
+1056  to Thaisarion …
+1057  ēpēnechon … to Memphis …
+1058  to Thoteus through Neiteiros …
+1059  to the cleruch going up to the city, drachmas …
+1060  from Hatres, drachmas 236
+1061  spent for the shepherd … i, drachmas 100 …
+1062  from Konchos, drachmas 200
+1063  spent for the shepherd …
+1064  from … ē, drachmas 16
+1065  spent for Kasianos for the price of wheat, the remaining (sums), drachmas …
+1066  to Porphyrios …
+1067  to Soterichos …
+1068  to Soterichos, drachmas 100
+1069  to Pakysis for fodder, drachmas … 4
+1070  … ōn, for jars, 3, drachmas 48
+1071  is set aside
+1072  drachmas 2390 in copper
+1073  spent for pigeons, drachmas 60
+1074  to Seuthes on loan, drachmas 20
+1075  7, to the city, drachmas 20
+1076  … for warp(-thread), drachmas …
+1077  to my own brick-maker, drachmas 20
+1078  … drachmas 200
+1079  … nou, of two-chōros (jars), 3, drachmas 48
+1080  spent for Sextus, of a two-chōros (jar), 1, drachmas 16
+1081  for me, 4 …
+1082  for me …
+1083  from Sotas, drachmas 260
+1084  spent for Thoteus …
