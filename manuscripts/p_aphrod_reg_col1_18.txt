@@ -692,677 +692,677 @@ r.673  [γίνεται] νομίσματα ν παρὰ κ ζυγῷ
 r.674  [γίνεται] [ὁμοῦ] νομίσματα ξβ παρὰ οδ
 
 [TRANSLATION]
-1     
-2     
-3     
-4     
-5     
-6     
-7     
-8     
-9     
-10    
-11    
-12    
-13    
-14    
-15    
-16    
-17    
-18    
-19    
-20    
-21    
-22    
-23    
-24    
-25    
-26    
-27    
-28    
-29    
-30    
-31    
-32    
-33    
-34    
-35    
-36    
-37    
-38    
-39    
-40    
-41    
-42    
-43    
-44    
-45    
-46    
-47    
-48    
-49    
-50    
-51    
-52    
-53    
-54    
-55    
-56    
-57    
-58    
-59    
-60    
-61    
-62    
-63    
-64    
-65    
-66    
-67    
-68    
-69    
-70    
-71    
-72    
-73    
-74    
-75    
-76    
-77    
-78    
-79    
-80    
-81    
-82    
-83    
-84    
-85    
-86    
-87    
-88    
-89    
-90    
-91    
-92    
-93    
-94    
-95    
-96    
-97    
-98    
-99    
-100   
-101   
-102   
-103   
-104   
-105   
-106   
-107   
-108   
-109   
-110   
-111   
-112   
-113   
-114   
-115   
-116   
-117   
-118   
-119   
-120   
-121   
-122   
-123   
-124   
-125   
-126   
-127   
-128   
-129   
-130   
-131   
-132   
-133   
-134   
-135   
-136   
-137   
-138   
-139   
-140   
-141   
-142   
-143   
-144   
-145   
-146   
-147   
-148   
-149   
-150   
-151   
-152   
-153   
-154   
-155   
-156   
-157   
-158   
-159   
-160   
-161   
-162   
-163   
-164   
-165   
-166   
-167   
-168   
-169   
-170   
-171   
-172   
-173   
-174   
-175   
-176   
-177   
-178   
-179   
-180   
-181   
-182   
-183   
-184   
-185   
-186   
-187   
-188   
-189   
-190   
-191   
-192   
-193   
-194   
-195   
-196   
-197   
-198   
-199   
-200   
-201   
-202   
-203   
-204   
-205   
-206   
-207   
-208   
-209   
-210   
-211   
-212   
-213   
-214   
-215   
-216   
-217   
-218   
-219   
-220   
-221   
-222   
-223   
-224   
-225   
-226   
-227   
-228   
-229   
-230   
-231   
-232   
-233   
-234   
-235   
-236   
-237   
-238   
-239   
-240   
-241   
-242   
-243   
-244   
-245   
-246   
-247   
-248   
-249   
-250   
-251   
-252   
-253   
-254   
-255   
-256   
-257   
-258   
-259   
-260   
-261   
-262   
-263   
-264   
-265   
-266   
-267   
-268   
-269   
-270   
-271   
-272   
-273   
-274   
-275   
-276   
-277   
-278   
-279   
-280   
-281   
-282   
-283   
-284   
-285   
-286   
-287   
-288   
-289   
-290   
-291   
-292   
-293   
-294   
-295   
-296   
-297   
-298   
-299   
-300   
-301   
-302   
-303   
-304   
-305   
-306   
-307   
-308   
-309   
-310   
-311   
-312   
-313   
-314   
-315   
-316   
-317   
-318   
-319   
-320   
-321   
-322   
-323   
-324   
-325   
-326   
-327   
-328   
-329   
-330   
-331   
-332   
-333   
-334   
-335   
-336   
-337   
-338   
-339   
-340   
-341   
-342   
-343   
-344   
-345   
-346   
-347   
-348   
-349   
-350   
-351   
-352   
-353   
-354   
-355   
-356   
-357   
-358   
-359   
-360   
-361   
-362   
-363   
-364   
-365   
-366   
-367   
-368   
-369   
-370   
-371   
-372   
-373   
-374   
-375   
-376   
-377   
-378   
-379   
-380   
-381   
-382   
-383   
-384   
-385   
-386   
-387   
-388   
-389   
-390   
-391   
-392   
-393   
-394   
-395   
-396   
-397   
-398   
-399   
-400   
-401   
-402   
-403   
-404   
-405   
-406   
-407   
-408   
-409   
-410   
-411   
-412   
-413   
-414   
-415   
-416   
-417   
-418   
-419   
-420   
-421   
-422   
-423   
-424   
-425   
-426   
-427   
-428   
-429   
-430   
-431   
-432   
-433   
-434   
-435   
-436   
-437   
-438   
-439   
-440   
-441   
-442   
-443   
-444   
-445   
-446   
-447   
-448   
-449   
-450   
-451   
-452   
-453   
-454   
-455   
-456   
-457   
-458   
-459   
-460   
-461   
-462   
-463   
-464   
-465   
-466   
-467   
-468   
-469   
-470   
-471   
-472   
-473   
-474   
-475   
-476   
-477   
-478   
-479   
-480   
-481   
-482   
-483   
-484   
-485   
-486   
-487   
-488   
-489   
-490   
-491   
-492   
-493   
-494   
-495   
-496   
-497   
-498   
-499   
-500   
-501   
-502   
-503   
-504   
-505   
-506   
-507   
-508   
-509   
-510   
-511   
-512   
-513   
-514   
-515   
-516   
-517   
-518   
-519   
-520   
-521   
-522   
-523   
-524   
-525   
-526   
-527   
-528   
-529   
-530   
-531   
-532   
-533   
-534   
-535   
-536   
-537   
-538   
-539   
-540   
-541   
-542   
-543   
-544   
-545   
-546   
-547   
-548   
-549   
-550   
-551   
-552   
-553   
-554   
-555   
-556   
-557   
-558   
-559   
-560   
-561   
-562   
-563   
-564   
-565   
-566   
-567   
-568   
-569   
-570   
-571   
-572   
-573   
-574   
-575   
-576   
-577   
-578   
-579   
-580   
-581   
-582   
-583   
-584   
-585   
-586   
-587   
-588   
-589   
-590   
-591   
-592   
-593   
-594   
-595   
-596   
-597   
-598   
-599   
-600   
-601   
-602   
-603   
-604   
-605   
-606   
-607   
-608   
-609   
-610   
-611   
-612   
-613   
-614   
-615   
-616   
-617   
-618   
-619   
-620   
-621   
-622   
-623   
-624   
-625   
-626   
-627   
-628   
-629   
-630   
-631   
-632   
-633   
-634   
-635   
-636   
-637   
-638   
-639   
-640   
-641   
-642   
-643   
-644   
-645   
-646   
-647   
-648   
-649   
-650   
-651   
-652   
-653   
-654   
-655   
-656   
-657   
-658   
-659   
-660   
-661   
-662   
-663   
-664   
-665   
-666   
-667   
-668   
-669   
-670   
-671   
-672   
-673   
-674   
+1     Collection of public taxes [of the villag]e for the fourth indiction, paid toward the customary dues of the [ex-pelleutes (ex-praepositus)].
+2     Pauni 18.
+3     Ioannes son of Hermauos, of Bessemios: 1 solidus less 4 (carats) by the standard.
+4     The heirs of Mousaios son of Oueranouphios, through Papos: 1 solidus less 3¼ by the standard.
+5     … Psenthaesis, son of Ank…e, the elder: 1 solidus less 6½ by the standard.
+6     Hermauos son of Psyros, the elder: 1 solidus less 6½¼ by the standard.
+7     Ammonios the scholastikos, through Ioannes: 1 solidus less 3½ by the standard.
+8     Pauchab son of Panouphios, through Phoibammon: 1 solidus less 4½¼ by the standard.
+9     Isak son of Biktor, of Kostantios: 1 solidus less 4½ by the standard.
+10    Collection of public taxes of the same indiction, paid above the customary dues of the most illustrious [riparius].
+11    Epeiph 25.
+12    Ioannes son of Kostantios and Apollos, through Horos: 1 solidus less 4¼ by the standard.
+13    Sachaios son of Papnouthios: 1 solidus less 3½ by the standard.
+14    The heirs of Makarios, of Kratistos, through Menas and Maria: 1 solidus less 6 by the standard.
+15    Besis Samalix and B…eni, through Apollos: 1 solidus less 4½ by the standard.
+16    Mesore 8.
+17    The heirs of Psaios son of Psenthaesios and of Hierakion, through Iosephios: 1 solidus less 3 by the standard.
+18    The monastery of Apa Zenobios, through Promaos the monk: 1 solidus less 6 by the standard.
+19    The heirs of Abraamios son of Pamounios, through Ioannes the elder: 1 solidus less 6 by the standard.
+20    The heirs of Psilsil, through Phryrios the elder: 1 solidus less 3¼ by the standard.
+21    The heirs of Isakios the fowler, through Mathias: 1 solidus less 4½¼ by the standard.
+22    Isak son of Biktor, of Kostantios: 1 solidus less 4¼ by the standard.
+23    The heirs of Makarios, of Kratistos, through Menas and Maria: 1 solidus less 6 by the standard.
+24    The heirs of Dios son of Ision, through Pamounios the farmer: 1 solidus less 5½ by the standard.
+25    The heirs of Horouonchios the soldier: 1 solidus less 4 by the standard.
+26    Ioannes son of Biktor … pso…: 1 solidus less 4¼ by the standard.
+27    Thekla daughter of Sourous, through Psimanobt her son: 1 solidus less 6½ by the standard.
+28    Besarion son of Ioannes, [the elder, through] Paulos the farmer: 1 solidus less 4¼ by the standard.
+29    The heirs of Biktor son of Pirion, through Pa[yos] and Hermaouos: 1 solidus less 5 by the standard.
+30    The heirs of Poimeneios: 1 solidus less 6¼ by the standard.
+31    The heirs of Paulos, of Ouiktor, [through] Kyriake: 1 solidus less 5¼ by the standard.
+32    Psenthaesis son of Psempnouthos, through the receiver: 1 solidus less 8 by the standard.
+33    Epiphanios son of Dorantinoos, through Mousaios the head-man of the village: 1 solidus less 4 by the standard.
+34    Isak son of Pachois: 1 solidus less 6½¼ by the standard.
+35    The heirs of Biktor the most illustrious, through Biktor: 1 solidus less 5¼ by the standard.
+36    Apa Enoch the most pious elder, through Isakios the notary: 1 solidus less 4 by the standard.
+37    Apollos son of Pchichis, through Kyriak…: 1 solidus less 5 by the standard.
+38    The heirs of Dioskoros, of Psimanobt: 1 solidus less 4½ by the standard.
+39    Psaios son of Mousaios, through Bessourous: 1 solidus less 6½ by the standard.
+40    The heirs of Maria, of Hermaios, through Iosephios the elder: 1 solidus less 5½ by the standard.
+41    Biktor son of Iakybios: 1 solidus less 3½¼ by the standard.
+42    Total: 36 solidi less 180¼ carats by the standard.
+43    The collection of gold-taxes for the annonae of the iron-transport (siderobastage) of the same indiction, as follows:
+44    The heirs of Romanos, of Biktor, through Mistress Rachel: 1 solidus less 5¼ by the standard.
+45    Mouses son of Psenthaesios: 1 solidus less 4½¼ by the standard.
+46    Bessourous son of Promaos: 1 solidus less 4½¼ by the standard.
+47    Psimanobt son of Kyros: 1 solidus less 4¼ by the standard.
+48    Hermauos son of Psyros, the elder: 1 solidus less 5¼ by the standard.
+49    Ioannes son of Kostantios and Apollos, through [Ho]ros: 1 solidus less 3¼ by the standard.
+50    … The heirs of Hermauos, of Biktor, through Abba Biktor and Apollos the monk: 1 solidus less 5¼ by the standard.
+51    … Biktor son of Makarios, of Psaios: 1 solidus less 5¼ by the standard.
+52    … Apollonides the scriniarius, through Kyriakos: 1 solidus less 5 by the standard.
+53    The heirs of Serenos the elder, through Biktor the farmer: 1 solidus less 4½ by the standard.
+54    Likewise through Abraamios the farmer: 1 solidus less 3½ by the standard.
+55    Ioannes son of Psaios, of Pachymios: 1 solidus less 6 by the standard.
+56    The heirs of Eulogios son of Bessourous, through Thaesia: 1 solidus less 2 by the standard.
+57    … Bottos son of Promaos: 1 solidus less 4½¼ by the standard.
+58    The church of Romanos, through Iosephios the elder: 1 solidus less 5¼ by the standard.
+59    The heirs of Theodosios the scholastikos, through Ierakion the steward: 1 solidus less 4½¼ by the standard.
+60    The heirs of Biktor son of Sansneus, the oil-maker: 1 solidus less 4 by the standard.
+61    … The church of Apa Mousaios, through Phoibammon the elder: 1 solidus less 3½¼ by the standard.
+62    Ieremias son of Kyros: 1 solidus less 5½¼ by the standard.
+63    Hermauos the elder and monk, through Ioannes: 1 solidus less 4 by the standard.
+64    Iakob son of Biktor: 1 solidus less 4 by the standard.
+65    Aseneth daughter of Biktor, through Mathias: 1 solidus less 3½¼ by the standard.
+66    Psenthaesis son of Psempnouthos, the elder: 1 solidus less 5 by the standard.
+67    … Makarios son of Hermauos: 1 solidus less 5½¼ by the standard.
+68    … The heirs of Hermauos, of Biktor, through Abba Biktor and Ap[ollos] the [mo]nk: 1 solidus less 5¼ by the standard.
+69    … The heirs of Psaios son of Patylios, through Anouphios: 1 solidus less 4½¼ by the standard.
+70    … Tsenyris daughter of Psyros, through Anouphios her son: 1 solidus less 4½ by the standard.
+71    … Charisios son of Psimanobt: 1 solidus less 4½¼ by the standard.
+72    … The heirs of Herakleios son of Pamounios, through Psatos: 1 solidus less 4¼ by the standard.
+73    … The heirs of Herakleios son of Syrion, through Syrion his son: 1 solidus less 5½ by the standard.
+74    … [The heirs] of Psaios son of Makarios, through the heirs of Ioannes: 1 solidus less 6½¼ by the standard.
+75    … [The heirs] of Timotheos the oil-maker, through Payos: 1 solidus less 6½ by the standard.
+76    … [The heirs of I]oannes son of Antas, through Palos: 1 solidus less 4½ by the standard.
+77    [The] collection of annonae for the warrants of the assistant accounting-office, paid to the soldiers of Antaiou(polis),
+78    and of the exchanges-into-money and to the actuarius. Mesore 16.
+79    … [The chur]ch of Hermeios, through Promaos the steward: 1 solidus less 5 by the standard.
+80    … [The heirs of I]oannes son of Hermaos, through Iakybios the farmer: 1 solidus less 3½¼ by the standard.
+81    … [The heirs] of Papos, through Iob his son: 1 solidus less 5¼ by the standard.
+82    … [The heirs] of Hermauos, of David, through Ioannes: 1 solidus less 2½ by the standard.
+83    Total: 37 solidi less 173 by the standard.
+84    23 (Thoth).
+85    Triadelphos son of Bik[tor, through] Paulos the goldsmith: 1 solidus less 5½ by the standard.
+86    David son of Mousai[os], the donkey-driver: 1 solidus less 3½¼ by the standard.
+87    Ioannes son of Loukanos, the elder, and in the name of the heirs of Abraamios: 1 solidus less 4¼ by the standard.
+88    Bottos son of Promaos: 1 solidus less 4¼ by the standard.
+89    Anouphis son of Bottos and in the name of Herakleios son of Psenthaesios: 1 solidus less 5¼ by the standard.
+90    26 (Thoth). The heirs of Paulos son of Patermouthios, through the receiver: 1 solidus less 3 by the standard.
+91    Maria daughter of Hermeios, through Abraamios the farmer: 1 solidus less 5½¼ by the standard.
+92    The heirs of Poimeneios: 1 solidus less 6¼ by the standard.
+93    Besarion son of Ioannes, the elder, through Paulos the farmer: 1 solidus less 2½¼ by the standard.
+94    The holy church of Mistress Maria, through Paulos the elder: 1 solidus less 5 by the standard.
+95    The heirs of Sarapodoros, through Hermauos the elder: 1 solidus less 6 by the standard.
+96    Maria daughter of Makarios, through Ph[o]ibammon: 1 solidus less 4½¼ by the standard.
+97    Apollos son of Pchichis: 1 solidus less 5 by the standard.
+98    The heirs of Dioskoros, of Psimanobt: 1 solidus less 4½¼ by the standard.
+99    Hermauos son of Promaos, of Ptolemaios: 1 solidus less 5½ by the standard.
+100   Sophia daughter of Chryssos, through Mistress [R]achel: 1 solidus less 3½ by the standard.
+101   The heirs of Mousaios son of Oueranouphios, through Abraamios, of Kratistos: 1 solidus less 4½ by the standard.
+102   The heirs of Mousaios, of Biktor, through Thekla daughter of Tagape: 1 solidus less 3½¼ by the standard.
+103   Ibeis son of Sarapion, the carpenter: 1 solidus less 6½ by the standard.
+104   The heirs of Makarios son of Hermauos, through Ioannes the elder: 1 solidus less 5½ by the standard.
+105   Thoth 5.
+106   The church of Romanos, through Iosephios the elder: 1 solidus less 5½ by the standard.
+107   The heirs of Biktor son of Timotheos, through Biktor son of Besarion: 1 solidus less 4½¼ by the standard.
+108   Tsenyrias daughter of Psyros, through Anouphios her son: 1 solidus less 4¼ by the standard.
+109   Ioannes son of Anophrios: 1 solidus less 4½ by the standard.
+110   Thekla daughter of Sourous, through Psimanobt her son: 1 solidus less 6¼ by the standard.
+111   The heirs of Pouorios son of Syros, through Apollos his son: 1 solidus less 6 by the standard.
+112   Apollos son of Besios: 1 solidus less 4¼ by the standard.
+113   Promaos son of Isakios, [through] Psimanobt son of Kyros: 1 solidus less 4¼ by the standard.
+114   Mouses son of Hermeios, through Ioannes the farmer: 1 solidus less 4½ by the standard.
+115   Triadelphos son of Biktor: 1 solidus less 7½ by the standard.
+116   The heirs of Abraamios son of Pachymios, through Psenthaesios the elder: 1 solidus less 6 by the standard.
+117   7 (Thoth).
+118   Biktor son of Bessemios, through Romanos: 1 solidus less 4½¼ by the standard.
+119   Apa Biktor son of Besarion, through Besarion: 1 solidus less 4 by the standard.
+120   9 (Thoth). Promaos son of Hermauos, through Bessourous: 1 solidus less 4 by the standard.
+121   Apollos son of Chryssos, the elder, through Iosephios the elder: 1 solidus less 6½ by the standard.
+122   Psentabesis son of Psimanobt: 1 solidus less 4½¼ by the standard.
+123   Besarion son of Ioannes, the elder, through Paulos the farmer: 1 solidus less 3½ by the standard.
+124   The heir of Papnouthios the oil-maker, through Ioannes: 1 solidus less 4½ by the standard.
+125   The heirs of Paulos, of Ouiktor, through Kyriake: 1 solidus less 5¼ by the standard.
+126   Biktor son of Iakybios: 1 solidus less 3½¼ by the standard.
+127   Abraam son of Besios: 1 solidus less 5 by the standard.
+128   Payos son of Biktor, of Abraamios: 1 solidus less 4½¼ by the standard.
+129   Charisios son of Psimanobet: 1 solidus less 5 by the standard.
+130   David son of Biktor, through Hadrianos the soldier: 1 solidus less 6¼ by the standard.
+131   Total: 44 solidi less 815¼ by the standard.
+132   The heirs of Abraamios son of Sakkos, through Hera…: 1 solidus less 5 by the standard.
+133   Maria daughter of Hermeios, through Abraamios [the far]mer: 1 solidus less 6¼ by the standard.
+134   The heirs of Psaios son of Biktor, the oil-maker, through Tkoria: 1 solidus less 7¼ by the standard.
+135   Apa Biktor son of Apollos, through Charisios: 1 solidus less 4½ by the standard.
+136   Epiphanios son of Dorantinoos, through Mousaios and Biktor: 1 solidus less 4¼ by the standard.
+137   The heirs of Hermeios son of Biktor, through Ollos the elder: 1 solidus less 4 by the standard.
+138   The heirs of Biktor the most illustrious, through Biktor the oil-maker: 1 solidus less 6½¼ by the standard.
+139   Ieremias son of Kyros: 1 solidus less 4½¼ by the standard.
+140   Ioannes son of Mousaios, of Syrion: 1 solidus less 7¼ by the standard.
+141   Psais son of Psempnouthos and Isak son of Sakkos: 1 solidus less 4 by the standard.
+142   Bessourous son of Hermeios, through Palos: 1 solidus less 5¼ by the standard, in the name of Samalix.
+143   Payos son of Hermeios, through Apollos son of Makarios: 1 solidus less 4½ by the standard.
+144   Apollos son of Makarios: 1 solidus less 4½ by the standard.
+145   The church of Hermeios, through Promaos the steward: 1 solidus less 4 by the standard.
+146   The heirs of Biktor son of Pirion, through Payos: 1 solidus less 4½¼ by the standard.
+147   Ioannes son of Makarios, the monk, through David: 1 solidus less 5½¼ by the standard.
+148   The heirs of Biktor son of Anoubion, through Hermauos the elder: 1 solidus less 5½¼ by the standard.
+149   … [Tho]th 14.
+150   Daniel son of Isakios, the elder: 1 solidus less 6¼ by the standard.
+151   Petros son of Psaios, through the same: 1 solidus less 6¼ by the standard.
+152   Ioannes son of Onophrios: 1 solidus less 6¼ by the standard.
+153   Rachel daughter of David, through the same David: 1 solidus less 6¼ by the standard.
+154   Phanachomis son of Syrion: 1 solidus less 6¼ by the standard.
+155   Rebekka daughter of Hermeios, through Kyriakos son of Mousaios: 1 solidus less 6¼ by the standard.
+156   Biktor son of Kostantios: 1 solidus less 6¼ by the standard.
+157   Apa Biktor son of Besarion: 1 solidus less 6¼ by the standard.
+158   The collection of public taxes of the same indiction, paid toward … of the requisitions and other apportionments, as follows:
+159   The heirs of Eulogios son of Bessourous, through Sophia: 1 solidus less 3¼ by the standard.
+160   … Maria daughter of Hermeios, in the name of Ioannes son of Herakleios: 1 solidus less 6 by the standard.
+161   … Hermauos son of Papes and Horouonchis and Rachel daughter of Komasios: 1 solidus less 5½¼ by the standard.
+162   … The heirs of Hermeios son of Biktor, through Psatos the farmer: 1 solidus less 5½¼ by the standard.
+163   … The monastery of Apa Zenobios, through Promaos the monk: 1 solidus less 6½ by the standard.
+164   … Ioannes son of Onophrios: 1 solidus less 5½ by the standard.
+165   … Isak son of Koleuchias and partners, through Kokkinos: 1 solidus less 5½ by the standard.
+166   … Pauchab son of Panouphios, through Phoibammon: 1 solidus less 4 by the standard.
+167   [The col]lection of annonae, likewise, for the warrants of the assistant accounting-office and the customary dues of the tribune
+168   of the peace-officers, as follows:
+169   … [Tria]delphos son of Biktor, through Paulos the goldsmith: 1 solidus less 6 by the standard.
+170   … [The chur]ch of Apa Mousaios, through Phoibammon the elder: 1 solidus less 5½¼ by the standard.
+171   … [Abr]aam son of Hermauos, of David, and Ioannes: 1 solidus less 6¼ by the standard.
+172   … [Bess]ourous son of Promaos: 1 solidus less 4½¼ by the standard.
+173   Total: 37 solidi less 803½ by the standard.
+174   Ioannes the grain-measurer: 1 solidus less 6¼ by the standard.
+175   The heirs of Serenos the elder, through Abraamios the farmer: 1 solidus less 5 by the standard.
+176   Apollos son of Makarios, through Phryrios the elder: 1 solidus less 6½ by the standard.
+177   Likewise the heirs of Serenos the elder, through Biktor the elder: 1 solidus less 3 by the standard.
+178   Promaos son of Isakios, through Psimanobt son of Besios: 1 solidus less 6½¼ by the standard.
+179   26 (of the month).
+180   Psenthaesis son of Psempnouthos, the elder: 1 solidus less 4¼ by the standard.
+181   The church of Romanos, through Iosephios the elder: 1 solidus less 5¼ by the standard.
+182   The collection of public taxes of the same indiction, paid toward the customary dues of the assistant accounting-office …
+183   Hermauos son of Psyros, the elder: 1 solidus less 3 by the standard.
+184   The collection of gold-taxes for the annonae of the most magnificent and most glorious comes of the …
+185   Phanachomis son of Syrion: 1 solidus less 6½¼ by the standard.
+186   Daniel son of Isakios, the elder: 1 solidus less 5½¼ by the standard.
+187   The heirs of Thomas, through Payos: 1 solidus less 6½¼ by the standard.
+188   Petros son of Psaios: 1 solidus less 5¼ by the standard.
+189   Mariam daughter of Psaios, through Makarios: 1 solidus less 5½¼ by the standard.
+190   Apollos son of Besios: 1 solidus less 4½¼ by the standard.
+191   The collection of public taxes of the same indiction, paid toward the customary dues of the defensor (ekdikos) …
+192   Triadelphos son of [Bik]tor: 1 solidus less 5 by the standard.
+193   Herakleios son of Psenthaesios: 1 solidus less 5½ by the standard.
+194   The collection of public taxes of the [same] indiction, for the deposit (katabole), as follows:
+195   Anouphis son of Iakybios, through Apollos and Psenthaesios: 1 solidus less 4 by the standard.
+196   The heirs of Poimeneios: 1 solidus less 4 by the standard.
+197   Promaos son of Isakios, through Psimanobet son of Kyros: 1 solidus less 4¼ by the standard.
+198   The collection of annonae of the [Ph]aranites of Bau of the same indiction, as follows:
+199   The heirs of Phoibammon son of Harpokras, through Ieremios: 1 solidus less 6¼ by the standard.
+200   Charisios son of Psimanobt: 1 solidus less 7¼ by the standard.
+201   The heirs of Dioskoros, of Psimanobt: 1 solidus less 5½ by the standard.
+202   Phanachomis son of Syrion: 1 solidus less 4½¼ by the standard.
+203   The heirs of Hermeios son of Biktor, through Ollos the elder: 1 solidus less 5 by the standard.
+204   Psimanobet son of Kyros, in the name of Promaos son of Isakios: 1 solidus less 4¼ by the standard.
+205   Ioannes son of Dioskoros: 1 solidus less 3¼ by the standard.
+206   The heirs of Paulos son of Patermouthios, through the receiver: 1 solidus less 3 by the standard.
+207   The church of Apollon, through Helios the farmer: 1 solidus less 5¼ by the standard.
+208   Tsenyris daughter of Psyros, through Anouphios her son: 1 solidus less 5¼ by the standard.
+209   Hermauos the oil-maker, the deacon, in the name of Promaos son of Beskouis: 1 solidus less 5¼ by the standard.
+210   Bessourous son of Hermeios: 1 solidus less 5¼ by the standard.
+211   The heirs of Paulos son of Biktor, through Kyriake: 1 solidus less 4¼ by the standard.
+212   Stephanos son of Psanthoma, through Mathias: 1 solidus less 3 by the standard.
+213   Total: 33 solidi less 165¼ by the standard.
+214   The monastery of Sminos, through Palos the farmer: 1 solidus less 6¼ by the standard.
+215   Ieremias son of Kyros, through Komasios: 1 solidus less 5½ by the standard.
+216   Apa Biktor son of Apollos, through Charisios: 1 solidus less 5 by the standard.
+217   The heirs of Promaos son of Mousaios, through Biktor his son: 1 solidus less 4¼ by the standard.
+218   The heirs of Hermeios son of Biktor, through Psatos: 1 solidus less 5½¼ by the standard.
+219   The heirs of Samalix and …, through Apollos: 1 solidus less 3½¼ by the standard.
+220   The heirs of Psaios son of Patylios, through Anouphios: 1 solidus less 6¼ by the standard.
+221   The heirs of Psenthaesios, of Ouiktor, through Psatos: 1 solidus less 4 by the standard.
+222   The heirs of Sarapodoros, through Psenthaesios: 1 solidus less 6 by the standard.
+223   Kyra daughter of Promaos, through Ollos the elder: 1 solidus less 4¼ by the standard.
+224   The heirs of Serenos the elder, through Biktor the farmer: 1 solidus less 5½ by the standard.
+225   The collection of canonical taxes and annonae of the Pharanites of Bau, likewise, as follows:
+226   … Apollos son of Chryssos, the elder, through Iosephios the elder: 1 solidus less 7 by the standard.
+227   … Triadelphos son of Biktor: 1 solidus less 4½ by the standard.
+228   … Payos son of Ptolemaios, in the name of Thekla daughter of Chryssos: 1 solidus less 6 by the standard.
+229   … Promaos son of Isakios, through Psimanobt son of Besios: 2 solidi less 12¼ by the standard.
+230   … The heirs of Dioskoros, of Psimanobt: 1 solidus less 5½¼ by the standard.
+231   … The monastery of Abba Zenobios, through Promaos the monk: 1 solidus less 4½ by the standard.
+232   … Koleuchia daughter of Biktor, through Apollos: 1 solidus less 7 by the standard.
+233   … The church of Romanos, through Iosephios the elder: 1 solidus less 5¼ by the standard.
+234   Ioannes son of Onophrios: 1 solidus less 5 by the standard.
+235   The heirs of Besios son of Sakkos, through Panouphios the farmer: 1 solidus less 5¼ by the standard.
+236   … [M]aria daughter of Biktor, of Ptores: 1 solidus less 5½¼ by the standard.
+237   … [K]ornelios son of Philantinoos, through Besios ap…: 1 solidus less 5¼ by the standard.
+238   … [Cha]risios son of Psimanobt: 1 solidus less 6½¼ by the standard.
+239   … [Pha]nachomis son of Syrion: 1 solidus less 5¼ by the standard.
+240   … [P]etros son of Psaios: 1 solidus less 4¼ by the standard.
+241   … [Io]annes son of Kostantios and Apollos, through Horos: 1 solidus less 4 by the standard.
+242   … [D]aniel son of Isakios, the elder: 1 solidus less 3 by the standard.
+243   … [The h]eirs of Thomas, through Hermauos the elder: 1 solidus less 5 by the standard.
+244   … [P]romaos son of Hermauos, through Biktor: 1 solidus less 4½¼ by the standard.
+245   … [The heirs] of Hermeios son of Biktor, through Hermeios son of Phanachom: 1 solidus less 4½¼ by the standard.
+246   … [P]ayos son of Biktor, of Abraamios: 1 solidus less 6¼ by the standard.
+247   … [The heirs] of Eulogios son of Bessourous, through Mariam: 1 solidus less 2½ by the standard.
+248   … [The ch]urch, the holy one of Mistress Maria, through Paulos the elder: 1 solidus less 5 by the standard.
+249   … [The heirs] of Eulogios son of Syrion, also for consolation-dues and green-fodder: 1 solidus less 5 by the standard.
+250   … [Anast]asia daughter of Dioskoros, through Mousaios: 1 solidus less 4½¼ by the standard.
+251   Total: 37 solidi less 191½ by the standard.
+252   Tsenyris daughter of Psyros: 1 solidus less 4 by the standard.
+253   The heirs of Hermeios son of Biktor, through Mistress Rachel: 1 solidus less 5 by the standard.
+254   Psaios son of Mousaios: 1 solidus less 5½¼ by the standard.
+255   Apa Biktor son of Besarion: 1 solidus less 6½ by the standard.
+256   Apollos son of Makarios, through Mathias his son: 1 solidus less 4½ by the standard.
+257   Apa Biktor son of Apollos, through Charisios: 1 solidus less 6½¼ by the standard.
+258   Biktor son of Makarios: 1 solidus less 5¼ by the standard.
+259   Palos son of Psimanobet, through Biktor the shepherd: 1 solidus less 6 by the standard.
+260   Psentabesis son of Psimanobet, through Apollos: 1 solidus less 6¼ by the standard.
+261   The heirs of Hermeios son of Biktor, through Hermeios son of Phanachom: 1 solidus less 4¼ by the standard.
+262   Phanachomis son of Syrion: 1 solidus less 4½¼ by the standard.
+263   Patrikios son of Erythrios, through Phoibammon the farmer: 1 solidus less 4 by the standard.
+264   Besarion son of Mousaios, through Apollos the elder: 1 solidus less 5¼ by the standard.
+265   Bottos son of Promaos, through the same: 1 solidus less 5¼ by the standard.
+266   The heirs of Apollos son of Psaios, through Promaos: 1 solidus less 6½¼ by the standard.
+267   The heirs of Poimeneios: 1 solidus less 6¼ by the standard.
+268   Ieremias son of Kyros: 1 solidus less 4½¼ by the standard.
+269   Apa Aleitou, through Hermauos son of Ptolemaios: 1 solidus less 5½¼ by the standard.
+270   Biktor son of Kostantios, through Mistress Rachel: 1 solidus less 4 by the standard.
+271   Triadelphos son of Biktor: 1 solidus less 5¼ by the standard.
+272   Mariam daughter of Psaios, through Ierakion: 1 solidus less 4½ by the standard.
+273   The monastery of Apa Zenobios, through Promaos the monk: 1 solidus less 4 by the standard.
+274   Phanachomis son of Syrion: 1 solidus less 5 by the standard.
+275   The heirs of Serenos the elder, through [A]braamios the farmer: 1 solidus less 4 by the standard.
+276   The heirs of Biktor son of Timotheos, through [B]iktor son of Besarion: 1 solidus less 3¼ by the standard.
+277   The heirs of Biktor the most illustrious, through M[e]nas the steward: 1 solidus less 4½¼ by the standard.
+278   Palos son of Psimanobet: 1 solidus less 3¼ by the standard.
+279   Ioannes son of Psempnouthos, the grain-measurer: 1 solidus less 6¼ by the standard.
+280   Apollonides the scriniarius, through Kyriakos: 1 solidus less 5 by the standard.
+281   The collection of canonical taxes, likewise, of the same indiction, as follows: Hathyr 18.
+282   The church of Apa Mousaios, through Phoibammon the elder: 1 solidus less 5¼ by the standard.
+283   Ioannes son of Beskouis, through Charis and Psaios: 1 solidus less 4½ by the standard.
+284   Promaos son of Isakios, through Psimanobt son of Besios: 1 solidus less 7 by the standard.
+285   The heirs of Thomas, through Payos: 1 solidus less 6¼ by the standard.
+286   Mouses son of Hermeios, through Ioannes the farmer: 1 solidus less 5½¼ by the standard.
+287   Ioannes son of Kostantios and Apollos, through Horos: 1 solidus less 4 by the standard.
+288   Mouses son of Hermeios: 1 solidus less 7¼ by the standard.
+289   Rachel daughter of Biktor, of Ptores, through Bessourous: 1 solidus less 4¼ by the standard.
+290   Charisios son of Psimanobet: 1 solidus less 5¼ by the standard.
+291   The heirs of Bessemios, through Oikoumene: 1 solidus less 4 by the standard.
+292   Total: 39 solidi less 199½¼.
+293   … [Pr]omaos son of Isakios, through Psimanobet son of Kyros: [1 solidus] less 6¼ by the standard.
+294   … [Psen]thaesis son of Psempnouthos, through Isakios the shepherd: 1 solidus less 7½¼ by the standard.
+295   … [Apo]llos son of Makarios: 1 solidus less 6½ by the standard.
+296   … [The] collection of public taxes of the same indiction, paid to the guards of the corps and of the sportulae:
+297   … The heirs of Phoibammon son of Harpokras, through Ieremios: 1 solidus less 4½¼ by the standard.
+298   … Promaos son of Hermauos, the elder: 1 solidus less 5½¼ by the standard.
+299   … The heirs of Rachel daughter of Ptolemaios, through Hermauos the elder: 1 solidus less 5¼ by the standard.
+300   … Petros son of Psaios and the monastery of Sminos: 1 solidus less 6 by the standard.
+301   … The heirs of Sarapion son of Akes, through Biktor: 1 solidus less 7 by the standard.
+302   … Elisabet daughter of Biktor, through Ioannes: 1 solidus less 6¼ by the standard.
+303   … Promaos son of Isakios, through Psimanobet son of Besios: 1 solidus less 4¼ by the standard.
+304   … The monastery of Apa Zenobios, through (an agent): 1 solidus less 5 by the standard.
+305   … [The] collection of public taxes of the same indiction, paid toward the customary dues of the tribune of Antaiou(polis):
+306   … [Mo]usaios son of Psimanobt: 1 solidus less 5¼ by the standard.
+307   … [L]ikewise, through Ioannes: 1 solidus less 5¼ by the standard.
+308   … [The col]lection of annonae, likewise, of the Pharanites of Bau of the same indiction:
+309   … [The m]onastery of Sminos, through Apa Mousaios the monk: 1 solidus less 2½ by the standard.
+310   … [P]romaos son of Isakios, through Psimanobt son of Kyros: 1 solidus less 5½ by the standard.
+311   … The heirs of Romanos, of Biktor, through Mistress Rachel: 2 solidi less 8 by the standard.
+312   … The heirs of Sarapodoros, through Menas: 1 solidus less 3¼ by the standard.
+313   … Phanachomis son of Syrion: 1 solidus less 7½¼ by the standard.
+314   … [A]pollonides the scriniarius, through Kyriakos: 1 solidus less 5 by the standard.
+315   … [H]ermauos son of Psenthaesios, the elder, through Ioannes: 1 solidus less 7¼ by the standard.
+316   … [A]pollos son of Makarios, in the name of his wife: 1 solidus less 5½ by the standard.
+317   … [P]etros son of Psaios and in the name of his mother, through Apa Hermauos: 1 solidus less 5¼ by the standard.
+318   … [I]eremias son of Kyros: 1 solidus less 7¼ by the standard.
+319   … [Pr]omaos son of Hermauos, the elder, through Apollos son of Besios: 1 solidus less 7¼ by the standard.
+320   Through Promaos the head-man of the village: 1 solidus less 4½¼ by the standard.
+321   … [Mo]usaios son of Psimanobet, through Hadrianos the soldier: 2 solidi less 11½¼ by the standard.
+322   … [The col]lection of gold for the gold-tax assessment (chrysikos kanon) of the same indiction:
+323   … [Psen]thaesis son of Psenosireos, in the name of (another): 1 solidus less 6¼ by the standard.
+324   … (A)talite the monk, through Paous: 1 solidus less 6½¼ by the standard.
+325   … [Mousa]ios son of Psimanobet: 1 solidus less 6½ by the standard.
+326   … …ia son of Psaios, through the same: 1 solidus less 6½ by the standard.
+327   … [Phan]achom son of Syrion: 1 solidus less 5¼ by the standard.
+328   … [Ma]riam daughter of Psaios, through Hermauos the elder: 1 solidus less 4¼ by the standard.
+329   … [Mo]usaios son of Psimanobet, through Menas the monk: 1 solidus less 6¼ by the standard.
+330   … [Mar]iam and Tsenmouses, through Anouphios: 1 solidus less 5¼ by the standard.
+331   … [Am]monios the singularius, on behalf of Loukanos, through Hermauos the shepherd: 1 solidus less 6 by the standard.
+332   Total: 37 solidi less 811¼ by the standard.
+333   The heirs of Abraam son of Herakleios, through Apollos the carpenter: 1 solidus less 5 …
+334   Ioannes son of Makarios, the elder, through Daueit the farmer: 2 solidi less 10½ …
+335   The heirs of Thomas, through Anouphios the carpenter: 1 solidus less 7¼ [by the standard].
+336   Promaos son of Isakios, through Psoukeios the shepherd: 1 solidus less 5 …
+337   The (heirs?) of Ioannes son of Makarios, through Psenthaesios the farmer: 2 solidi less 11½ …
+338   Apollos son of Makarios, on behalf of various names: 5 solidi less 23½ …
+339   Likewise Apollos son of Makarios, on behalf of various names: 1 solidus less 6¼ by the standard.
+340   The heirs of Romanos, of Biktor, through Mistress Rachel: 1 solidus less 5 by the standard.
+341   Promaos son of Isakios, through Charisios: 1 solidus less 5¼ by the standard.
+342   The (heirs?) of Thomas, through Paous son of Ptolymeos: 2 solidi less 13¼ by the standard.
+343   The heirs of Abraamios son of Herakleios: 1 solidus less 5 by the standard.
+344   Through the head-men of the village: 1 solidus less 4¼ by the standard.
+345   Likewise Promaos son of Isakios, through Charisios: 1 solidus less 5½¼ by the standard.
+346   Collection of public taxes paid toward the customary dues of the ordinarius and the gree[n-fodder]:
+347   The heirs of Psempnouthos son of Psenthaesios: 1 solidus less 5½ by the standard.
+348   Ioannes the grain-measurer, on behalf of the tab(?), through Abraamios the assistant: 2 solidi less 8 by the standard.
+349   Makarios son of Hermaos, the wine-seller, through the same: 1 solidus less 4 by the standard.
+350   Thekla daughter of Sourous, through Charisios: 1 solidus less 4½ by the standard.
+351   Collection of public taxes of the same indiction, paid toward the friendly (gift?) of the embole (grain-shipment) …
+352   The heirs of Ieremias son of Sakkos and Sousanna, through Isakios: 1 solidus less 6¼ by the standard.
+353   Through the head-men of the village: 1 solidus less 6¼ by the standard.
+354   Koleuchia daughter of Psempnouthos, through David: 1 solidus less 5½¼ by the standard.
+355   The heirs of Bessemios, through Romanos: 1 solidus less 5 …
+356   Collection of public taxes of the same indiction, paid toward the support of the m[ost magnificent comes] …
+357   Promaos son of Isakios, through Charisios: 1 solidus less 3 …
+358   Psaios son of Mousaios, through Promaos son of Herakleios: 1 solidus less 3 …
+359   Collection of public taxes of the same indiction, paid for the gold-taxes apart from the deposit …
+360   Kyriakos son of Mousaios and Ioulitta, in the name of his mother: 1 solidus [less] …
+361   Georgios son of Tchenan, the elder, through Ellos the elder, for charcoal and green-fodder: 1 solidus less …
+362   The heirs of Iosephios son of Herakleios, through Hermauos son of Bottos: 2 solidi less …
+363   Ioannes son of Psempnouthos, the grain-measurer: 1 solidus less …
+364   The heirs of Bessemios, through Biktor, for the deposit: 1 solidus less …
+365   Likewise the same inheritance, through Mousaios, for the deposit: 1 solidus less …
+366   Total: 38 solidi less 199½ by the standard.
+367   Jointly, as follows:
+368   Collection (of the …) of the same 4th indiction, paid for … :
+369   Pauni 1, as follows:
+370   The carpenters, through [M]ousaios son of Biktor, the carpenter: [1] solidus [less] …
+371   Likewise, through Palos the carpenter: 1 solidus [less] …
+372   The …(loktoi), through Abraamios the dekanos: [1 solidus less] …
+373   The grave-diggers, through Payos the dekanos: [1 solidus less] …
+374   The fullers: 1 solidus less …
+375   Likewise the carpenters, through Biktor the dekanos: 1 solidus less …
+376   The bread-pasters (artokolletai), through Iakybios the dekanos: 1 solidus less …
+377   The cloak-makers (kaunakopoioi), through Apollos the dekanos: 1 small-solidus less 6½¼ …
+378   Likewise the carpenters, through Biktor the dekanos: 1 small-solidus less 5 by the standard.
+379   Likewise the carpenters, through Palos son of Hermauos: 1 small-solidus less 4¼ by the standard.
+380   Likewise the carpenters, through Biktor the dekanos: 1 small-solidus less 4½¼ by the standard.
+381   Likewise, through Mousaios son of Pibentios: 1 small-solidus less 5 …
+382   Likewise, through Biktor the dekanos: 1 small-solidus less 4½ …
+383   Likewise, through the same: 1 small-solidus less 4½¼ …
+384   Computation in carats (keratismos), as follows:
+385   The carpenters, through Mousaios the carpenter: 1⅔ carats.
+386   Likewise, through Biktor the dekanos: 1 carat.
+387   Likewise, through Palos the carpenter: 1 carat, 6 (?).
+388   [The] collection …
+389   The monastery of Tregetos, through Makarios the elder: … carats.
+390   Ioannes son of Makarios, the elder, through Psenthaesios: … carats.
+391   The heirs of Touansis, through Kyros: … carats.
+392   Ioannes son of Kostantios and Apollos, through Horos: … ca[rats].
+393   The heirs of Mousaios son of …tos, through Biktor: … carats.
+394   Likewise, through Senouthos: … carats.
+395   Mariam daughter of Hermauos, of Ptores: 7 carats …
+396   The heirs of Biktor son of Kastor, through Ioannes: 9 carats …
+397   Likewise, through Thaesia: 13 carats …
+398   Ieremias son of Hermeios and Hermauos and Rebekka, through Phryrios: 17 carats …
+399   The heirs of Psilsil, through Phryrios the elder: 3 carats.
+400   Maria daughter of Makarios, of Pasnos, through Payos: 9 carats.
+401   Ioannes son of Euprepeios, through the same: 6½ carats.
+402   The heirs of Psaios son of Kastor, through the same Payos: 4½ carats.
+403   The heirs of Hermauos, of Biktor, through Abba Biktor and Apollos the monk: 4 carats.
+404   The heirs of Pbekios son of Theodoros, through Psaios the elder: 15 carats.
+405   The holy church of Mistress Maria, through Hadrianos the soldier: 2 carats.
+406   The heirs of Psachos, through Apollos his son: 4¼ carats.
+407   Likewise, through Hatres the soldier: …¼ carats.
+408   Ioannes son of Besios, the coppersmith: 6¼ carats.
+409   The heirs of Biktor son of Phanone, through Psenthaesios his son: 12 carats.
+410   Biktor son of Iakybios, for green-fodder: 1½ carats.
+411   Tsempnouthia daughter of Psenthaesios, through Phoibammon: 6¼ carats.
+412   The heirs of Besas the city-councillor, through Apollos the elder and Mousaios: 6 carats.
+413   Sophia daughter of Phoibammon, of Ptolemaios, through Lykanos: 17½¼ carats.
+414   Likewise, for the green-fodder, through the same: 1¼ carats.
+415   Maria daughter of Syrion, through Biktor: 14 carats.
+416   Biktor son of Makarios, of Psaios: 4½¼ carats.
+417   Maria daughter of Bottos: 6⅔ carats.
+418   Ioannes son of Tsakoul, through Phryrios the elder: 1½¼ carats.
+419   The heirs of Psilsil, through the same: 7¼ carats.
+420   The heirs of Biktor the potter: 1½ carats.
+421   Likewise, through Panouphios: 4, 6 (?) carats.
+422   The heirs of Triphiodoros, through Sousanna: 9 carats.
+423   Apa Enoch the elder, through the same (woman): 9 carats.
+424   Ioannes son of Hermauos, of Bessemios: 5½ carats.
+425   … Likewise also for the consolation-due: 2 carats.
+426   The heirs of Ab[raam]ios son of [Pam]ounios, through …: . … carats.
+427   Phoibam[mon] … [carats] …
+428   The heirs of Anou… … [carats] …
+429   [Total: 295 1/12 carats.]
+430   … [Pat]ri[kios] son of [Eryth]rios, through Phoibammon: … [c]arats …
+431   … [Lik]ewise the same, for the consolation-due: 3 carats.
+432   … [Hi]erakion son of Psenthaesios, from the account of the monks: 1¼ carats.
+433   … [P]saios son of Abraamios: 13 carats.
+434   … and partners, through Isakios of Laeu: 1⅔ carats.
+435   … [Io]annes son of Pachymios, through Apollos ps…: 8 carats.
+436   … [A]pollos son of Pchichis, through the same: 4¼ carats.
+437   … [B]esarion son of Ioannes, the elder, through Paulos the farmer: 37½ carats.
+438   … [I]oannes son of Beskouis, through Besarion: 13⅓ carats.
+439   Promaos son of Patsousanna, through the same: 6⅔ carats.
+440   The heirs of Psaios son of Psenthaesios, through Apollos, on behalf of Phoibammon: 15 carats.
+441   Likewise, through the same Apollos: 3 carats.
+442   … Phoibammon son of Biktor, of Mousaios, through Phoibammon the soldier: 15 carats.
+443   … Maria his sister, through the same: 7 carats.
+444   … [The] church beside the river of Antaiou(polis), through Andreas the steward: 6 carats.
+445   … [I]sak son of Biktor, of Kostantios: 33 carats.
+446   … [The heirs] of Diosk[o]ros, of Tasneos the elder, through Psenthaesios the farmer: 5 carats.
+447   … [The h]eirs of Timo[th]eos the oil-maker, through Payos: 17, 6 (?) carats.
+448   … [The h]eirs of Th[o]mas, through Elisabet: ½ carat.
+449   [Her]mauos the monk, in the name of Promaos son of Bottos, through Horos: 16 carats.
+450   … [Ps]entabe[si]s son of Psimanobt: 9¼ carats.
+451   … Sarmo…a and partners, through Biktor son of Paniskos: 9 carats.
+452   [Mo]uses son of Psenthaesios: 16½¼ carats.
+453   … [The heirs] of Psaios son of Psenthaesios, through Apollos: 2 carats.
+454   … [The heirs] of Sansneus son of Thot and partners, through Iakyb[i]os: 13⅓ carats.
+455   … [The heirs] of [H]erakleios son of Lab and in the name of his mother, through Biktor: 5 carats.
+456   … [Lik]ewise, through the same Biktor, for the consolation-due: 2 carats.
+457   The heirs of Phoibammon, of Ptolemaios, through Payos: 33 carats.
+458   Thekla daughter of Chryssos, through Payos: 8½ carats.
+459   Likewise the heirs of Psaios son of Patylios, through Anouphios: 2 carats.
+460   The collection of canonical taxes of the same indiction, as follows:
+461   D[a]vid son of Mousaios, also for consolation-due and green-fodder: 7½ carats.
+462   …s son of Psaios, through David: 1½ carats.
+463   … [Biktor son of P]aniskos and … esa…is: 6½ carats.
+464   … carats …
+465   [Total: 347½ carats.]
+466   Ioannes son of Psaios, of Pachymios, also for consolation-due: … [c]arats …
+467   The heirs of Psaios son of Kallinikos, through Ioannes: … carats …
+468   The heirs of Silvanos son of …artos, through Apollos: … carats …
+469   Ioannes son of Kostantios and Apollos, through Horos: … …
+470   The heirs of Paychab son of Panouphios, through Phoibammon: … …
+471   The heirs of Mousaios son of Ouranouphios, for consolation-due: … carats …
+472   Kyriakos son of Mousaios: 5 carats …
+473   Rebekka daughter of Hermeios, through the same: 13 carats …
+474   The heirs of Psaios son of Kastor, through Psatos: 6½ carats …
+475   Likewise, through Takouis: 7 carats.
+476   Likewise, through Mousaios: 4½¼ carats.
+477   The heirs of Taraus, through Apollos, also for consolation-due: 14 carats.
+478   The heirs of Bottos son of Biktor, through Mariam: 5 carats.
+479   The heirs of Makarios son of Dioskoros, through Abraam: 13⅓ carats.
+480   Abraam son of Besios, for consolation-due: 5 carats.
+481   Aseneth daughter of Biktor, through Mathias: 10 carats.
+482   The heirs of Triphiodoros the exceptor, through Ieremios: 16 carats.
+483   Ieremias son of Kyros: 3¼ carats.
+484   Sachaios son of Papnouthios, also on behalf of various names, and Isakios of Lau: 10 … carats.
+485   Psenthaesis son of Psempnouthos, through the same: 3½¼ carats.
+486   Psempnouthis son of Makarios: 6¼ carats.
+487   The church of Apa Paminios, through Timotheos the elder: 16 carats.
+488   The heirs of Pouorios son of Syros, also for consolation-due and green-fodder and in the name of dianet(?): 10 … carats.
+489   … Senouthes son of Horos, of Kelbious, also for charcoal and green-fodder: … carats …
+490   Tserenpsaias daughter of Psachos, through the same: 3 carats.
+491   The heirs of Hermeios son of Bessourous, through Bessourous: 16¼ carats.
+492   Rebekka daughter of Hermeios, through Kyriakos: 1½ carats.
+493   The church of Apa Mousaios, through Phoibammon the elder: 6 carats.
+494   The heirs of Mousaios son of Ollos, the physician, through Besios: 10 carats.
+495   Likewise for the canonical taxes of the same indiction, Hathyr 18, as follows:
+496   Apollos son of Dioskoros, through Charisios: 6¼ carats.
+497   Kyra daughter of Promaos, through Bottos: 6¼ carats.
+498   Rachel daughter of Biktor, through Bessourous: 9½ carats.
+499   Maria daughter of Biktor, of Ptores, through the same: 9½¼ carats.
+500   David son of Biktor: 3½ carats.
+501   The heirs of Biktor the most illustrious: 5 carats.
+502   Abraam son of Hermauos, of David: 8 carats.
+503   The oratory of …ios: 7 carats.
+504   Maria daughter of Makarios, [through Phoib]ammon: 1½ carats.
+505   Rachel daughter of Biktor …: 1 carat.
+506   … Sansneus son of Psaios … [for] charcoal and gr[een-fodder]: … carats …
+507   … The heirs of Symeon, through …: … carats …
+508   [Total: 330 carats.]
+509   … …nos, through David son of Biktor: 3 carats.
+510   [The heirs of Herm]eios son of Biktor, through Hermeios son of Phanacho[m]: 7½ carats.
+511   [The heirs of Eulogios] son of Bessourous, through Mariam: ½ carat.
+512   [The heirs of Dios son of I]sion, through Tamoun: 12 carats.
+513   [Like]wise for the consolation-due: 1½ carats.
+514   [Like]wise in the name of Hermauos son of Didymos: 8 carats.
+515   … (the heirs?) of the Praepositus, through Eirene: 6 carats.
+516   [Bik]tor son of Kostantios: 7 carats.
+517   [The] heirs of Sarapion son of Besios, through Biktor: 3 carats.
+518   [Her]mauos the elder, in the name of Promaos son of Bottos: 4 carats.
+519   [A]pollos son of Kostantios, and Ioannes: 13½¼ carats.
+520   [The] southern church, through Triadelphos: 6⅔ carats.
+521   [I]oannes son of Onophrios, on behalf of the monastery of Sminos: 6½ carats.
+522   [Likewise] the heirs of Psaios son of Kastor, through Ioannes: 5 carats.
+523   [Ioa]nnes son of Antas, through Palos: 13 carats.
+524   [The heirs] of Hermauos son of Psentouorios, through Anouphios: 15 carats.
+525   [Lik]ewise also for the consolation-due: 5 carats.
+526   [Be]sarion son of Mousaios: 13 carats.
+527   [Pse]nthaesis son of Psempnouthos: 10 carats.
+528   [The heirs] of Mousaios son of Biktor, through Thekla daughter of Biktor: 6 carats.
+529   …tos, through Komasios: 13 carats.
+530   [Hermauo]s son of Promaos, of Ptolemaios, in the name of a…os: 6½ carats.
+531   [Ioan]nes son of Besios, the coppersmith, through Anouphios: 7¼ carats.
+532   [The mo]nastery of Sminos, through Anouphios, on behalf of Mousaios the monk: 12 carats.
+533   [The] collection of the gold-tax assessment (chrysikos kanon) of the same indiction, as follows:
+534   [Pro]maos son of Isakios, through Psimanobet son of Kyros: 6 carats.
+535   [M]aria daughter of Bottos: 7 carats.
+536   [The] heirs of Symeon, through Maria: 2½⅓ carats.
+537   [The] heirs of Makarios son of Pobet, through Triadelphos: 10 carats.
+538   [The] monastery of Sminos, through Mistress Rachel: 6¼ carats.
+539   [S]enouthes son of Kelibious, for charcoal and green-fodder: 8 carats.
+540   [The heirs] of [R]omanos son of Biktor, through Ioannes: 15 carats.
+541   …(son of) Hermeios and Paouos and Rebekka, through Phryrios, [for] charcoal and green-fodder: 7½ carats.
+542   [Ioanne]s son of [O]nophrios: 16 carats.
+543   …son of Psempnouthos, through …: 9½ carats.
+544   [Hadri]anos, through Hermauos …: 12 carats.
+545   [Payos] son of Biktor, of Abraam[ios] …: 6 carats.
+546   [The monastery of Sminos, through Mistr]ess Rachel: 9½ carats.
+547   [Total: 300½¼ carats.]
+548   Likewise the monastery of Sminos, through Apollos the elder and Eirene: … (carats)
+549   Charisios son of Psi[ma]nobet: … carats …
+550   Daniel son of Isakios, the elder: 14 … carats …
+551   The monastery of Apa Senobios (Zenobios), through Promaos the monk: … carats …
+552   The heirs of Sarapion son of Besios, through the same: 7 … carats …
+553   Apollonides the scriniarius, through the receiver: 10 carats.
+554   Biktor son of Paniskos and partners: ½ carat.
+555   Psenthaesis the farmer, of Ioannes son of Makarios, for charcoal: 6 carats.
+556   Likewise for the (irrigation-)machine, the heir of Dioskoros the elder: 4 carats.
+557   The heirs of Biktor the most illustrious, through Menas the steward: 5½ … carats …
+558   Isak son of Onophrios, the farmer, for charcoal and green-fodder, through Herakleios: … carats …
+559   Herakleios son of Psenthaesios: 10¼ carats.
+560   The heirs of Eulogios son of Bessourous, through Sophia: 3¼ carats.
+561   Petros son of Psaios: 1½ carats.
+562   Mariam daughter of Psaios, through Hermauos the monk: 4 carats.
+563   The monastery of Sminos, through Phanachom: 13 carats.
+564   Phanachom son of Syrion: 4½¼ carats.
+565   Apollos son of Makarios, on behalf of Paous son of Hermeios: 15½ carats.
+566   The heirs of Biktor son of Besios, the soldier, through Rachel daughter of Hatres: 5 carats.
+567   Ioannes son of Dioskoros: 1¼ carats.
+568   The heirs of Koleuchia daughter of Biktor, through Hermauos the elder: 10¼ carats.
+569   The heirs of Makarios son of Theophilos and in the name of Mousaios son of Tantebeos, through Abraamios: 12 carats.
+570   The heirs of Sophia daughter of Pobet, through Psaios the elder: 2¼ carats.
+571   The heirs of Ioannes the soldier, through Ioannes: 1 carat, 12 (?).
+572   The heirs of Hermaos son of Beles, through Maria: 1¼ carats.
+573   Mariam and Tsenmouses, through Anophios: 4½¼ carats.
+574   The heirs of Psaios son of Patylios, through the same: 5¼ carats.
+575   Apollos son of Makarios: 3¼ carats.
+576   The heirs of Hermaos son of Tanoube, through Charisios: 9 carats.
+577   The heirs of Papnouthios son of Petros, through the same: 8½¼ carats.
+578   Promaos son of Isakios, through Charisios: 6½ carats.
+579   Hermaos son of Ioannes, the elder, and in the name of his wife, through Promaos the head-man of the village: 12 … carats …
+580   The heirs of Promaos son of Psacho, through Hermauos the monk: 1⅔ carats.
+581   The heirs of Dios son of Ision and Timotheos, through Besarion: 2½ … carats …
+582   The heirs of Chairemon son of Pamouthos and Apa Dol, through the same: … carats …
+583   The heirs of Psaios son of Titeros, through Psenthaesios, through the same: … carats …
+584   The heirs of Isakios son of Biktor, through Romanos: 12 … carats …
+585   The heirs of Dioskoros son of Besarion, through Besarion and in the name of his wife: 6 carats.
+586   Total: 279⅔ carats by the standard.
+587   … Apa Biktoros, for the deposit: 5 carats.
+588   … [Apollonid]es the scriniarius, for the same deposit: 5 carats.
+589   …s, through Stephanos: 5 carats.
+590   … [The heirs] of [Koleuchi]a daughter of Biktor, through Hermaos the elder: 1½ carats.
+591   …oun, through Sophia, from the account of Besarion: 7½ carats.
+592   … [Likewise, through Mari]am, from the same account: 5 carats.
+593   … [Pr]omaos son of Panlanios, through Promaos the head-man of the village: 18 carats.
+594   … [Likewise, through the sa]me, also for green-fodder: 6 carats.
+595   … his son: 1½ carats.
+596   … [Ch]restos the elder, through Iosephios the elder, from the account of Romanos: 13 carats.
+597   … [The heirs of Isakios] son of Biktor, through Romanos: 10 carats.
+598   … [The heirs] of Ps[enthaesi]os, of Ouiktor, through Isakios the notary: 16 carats.
+599   … [The heirs] of Lo[uk]anos son of Chairemon, through Apollos the farmer, on behalf of …inos: 13 carats.
+600   Likewise, through [th]e same: 5½¼ carats.
+601   The heirs of Ha[tre]s the oil-maker, through Phoibammon: 17 carats.
+602   … [The h]eirs of Hor[o]s son of Kollouthos, through Pesenthios the elder: 4 carats.
+603   … [The or]atory of Apa Patemouos, through the same: 2 carats.
+604   [The church] of [Pi]noution, through Apollos, on behalf of Phoibammon the elder: 16½¼ carats.
+605   … [The] collection of the [expendit]ure of the same indiction, paid for the friendly (gift?) of the embole:
+606   … [The church] of Pinoution, through Phoibammon the elder: 16½¼ carats.
+607   … The heirs of Tanoubis, through Menas, for charcoal and green-fodder: 11 carats.
+608   … The heirs of Mousaios son of Biktor, the oil-maker, and the heirs of Pekysios, for charcoal and green-fodder: 10 carats.
+609   … (the estate) of Senouthos the procurator, for green-fodder, through Sansneous: 7½ carats.
+610   … Pesei son of Phanachom, through Mousaios … r …, for charcoal and green-fodder: 5 carats.
+611   … [(through?)] (the heirs?) of Ioannes son of Makarios, for charcoal and green-fodder, through David: 6½ carats.
+612   … [The heirs] of [Ma]karios son of Hermauos, through Payos his son, for charcoal and green-fodder: 6 carats.
+613   … Besarion son of Mousaios, through Apollos, for charcoal and green-fodder: 3½¼ carats.
+614   … Bottos son of Promaos, for charcoal and green-fodder, through the same: 3½¼ carats.
+615   … [Ioann]es son of Euprepios: 3 carats.
+616   … [Likewise, for] charcoal and green-fodder: 2 carats.
+617   …(son of) Psempnouthos, for charcoal and green-fodder: 6½ carats, through Senouthos.
+618   … the official (offikialios), through Panechytos, also for the dates: 18¼ carats.
+619   … [Thekla] daughter of [S]ourous, through Charisios: 9½ carats.
+620   …(son of) Biktor, for the consolation-due: 7½ carats.
+621   …bes, for charcoal, through Phanachom: 3 carats.
+622   …iados, for charcoal and green-fodder, of the church: 4 carats.
+623   … [The heirs] of …ios son of Ploution, through Psaios: 1 carat.
+624   Total: 277 carats by the standard.
+625   1st instalment (salis): 36 solidi less 180¼.
+626   2nd: 37 solidi less 173.
+627   3rd: 44 solidi less 215¼.
+628   4th: 37 solidi less 203½.
+629   5th: [solidi] 33 less 165¼.
+630   6th: 37 solidi less 191½.
+631   7th: 39 solidi less 199½¼.
+632   8th: [solidi] 37 less 211¼.
+633   9th: 38 solidi less 199½.
+634   Grand total: [3]38 solidi less 1739¼ carats.
+635   Joint (account): 14 solidi less 68.
+636   Computation in carats (keratismos), as follows:
+637   1st instalment (salis): 295 carats, 12 (?).
+638   2nd instalment (salis): 347½ carats.
+639   3rd instalment (salis): 330 carats.
+640   4th: 300½¼ carats.
+641   5th: 279⅔ carats.
+642   6th: 277 carats.
+643   Grand total: 1829⅔ carats, and joint ca[rats: 3½⅓].
+644   Of which, for the over-weight (parastathm-): 1807¼ carats.
+645   Remainder: 26 carats.
+646   Grand total: 353 solidi, and for the de[posit: 7 solidi less] 6 by the standard.
+647   Grand total in all: 360 solidi less 4 by the standard.
+648   Equivalent (account) of the warrants of the assessment (kanon) of the fourth indiction:
+649   For the annonae: 159 solidi, ¼ by the standard.
+650   Of canonical taxes, 1st: 40 solidi by the standard.
+651   2nd, of deposit: 11⅔ solidi.
+652   3rd: 36 solidi, of which 5 solidi less 6 through Besarion.
+653   Grand total: 246½⅓ solidi, 1[2] by the standard.
+654   Equivalent (account) of the warrants of expenditures:
+655   Warrant of the commentariensis: 2 solidi less 4, by the goldsmith's weight.
+656   Of the tower-guards: 1 solidus less 2, by the goldsmith's weight.
+657   Of the guards of the corps: 2 solidi less 4, by the goldsmith's weight.
+658   Of the tribune of the peace: 1 solidus, ¼, less 2, by the goldsmith's weight.
+659   Of the tr[ibune] of Antaiou(polis): 2 solidi less 4, by the goldsmith's weight.
+660   Of the de[fensor], for the ordinarius: 1 solidus less 2, by the goldsmith's weight.
+661   Of the many-oared (crews) of the corps: 1 solidus, ¼, less 2, by the goldsmith's weight.
+662   Of P[au]los the defensor: 2 solidi less 4, by the goldsmith's weight.
+663   Total: 12½ solidi less 24 by the goldsmith's weight; the 12½ solidi less 54 by the standard.
+664   Of which:
+665   To the assistant of the accounting-office: 2 solidi by the standard. For the support of the comes: 2 solidi less 3 by the standard.
+666   To Thomas the collector: 2 solidi less 6 by the standard. For the deposit: 2 solidi, 12, by the standard.
+667   Of the delegatio: 1½ solidi by the standard.
+668   Of the ex-pelleutes (ex-praepositus): 6 solidi by the standard.
+669   Consolation-due of Abraamios the assistant: 3½ solidi less 14 by the standard.
+670   To the riparius: 24 solidi by the standard. Grand total in all: 305½⅓ solidi by the standard.
+671   [For] the friendly (gift?): 8 solidi by the standard, and for the deposit: 46⅓, 12, solidi.
+672   …mas: 3 solidi by the standard. Grand total in all: 352 solidi, ¼.
+673   [Total:] 50 solidi less 20 by the standard.
+674   [Grand total:] 62 solidi less 74.
