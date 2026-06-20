@@ -1047,1032 +1047,1032 @@ r.1028 Καμῆτις …
 r.1029 Τρίση Ε …
 
 [TRANSLATION]
-1     
-2     
-3     
-4     
-5     
-6     
-7     
-8     
-9     
-10    
-11    
-12    
-13    
-14    
-15    
-16    
-17    
-18    
-19    
-20    
-21    
-22    
-23    
-24    
-25    
-26    
-27    
-28    
-29    
-30    
-31    
-32    
-33    
-34    
-35    
-36    
-37    
-38    
-39    
-40    
-41    
-42    
-43    
-44    
-45    
-46    
-47    
-48    
-49    
-50    
-51    
-52    
-53    
-54    
-55    
-56    
-57    
-58    
-59    
-60    
-61    
-62    
-63    
-64    
-65    
-66    
-67    
-68    
-69    
-70    
-71    
-72    
-73    
-74    
-75    
-76    
-77    
-78    
-79    
-80    
-81    
-82    
-83    
-84    
-85    
-86    
-87    
-88    
-89    
-90    
-91    
-92    
-93    
-94    
-95    
-96    
-97    
-98    
-99    
-100   
-101   
-102   
-103   
-104   
-105   
-106   
-107   
-108   
-109   
-110   
-111   
-112   
-113   
-114   
-115   
-116   
-117   
-118   
-119   
-120   
-121   
-122   
-123   
-124   
-125   
-126   
-127   
-128   
-129   
-130   
-131   
-132   
-133   
-134   
-135   
-136   
-137   
-138   
-139   
-140   
-141   
-142   
-143   
-144   
-145   
-146   
-147   
-148   
-149   
-150   
-151   
-152   
-153   
-154   
-155   
-156   
-157   
-158   
-159   
-160   
-161   
-162   
-163   
-164   
-165   
-166   
-167   
-168   
-169   
-170   
-171   
-172   
-173   
-174   
-175   
-176   
-177   
-178   
-179   
-180   
-181   
-182   
-183   
-184   
-185   
-186   
-187   
-188   
-189   
-190   
-191   
-192   
-193   
-194   
-195   
-196   
-197   
-198   
-199   
-200   
-201   
-202   
-203   
-204   
-205   
-206   
-207   
-208   
-209   
-210   
-211   
-212   
-213   
-214   
-215   
-216   
-217   
-218   
-219   
-220   
-221   
-222   
-223   
-224   
-225   
-226   
-227   
-228   
-229   
-230   
-231   
-232   
-233   
-234   
-235   
-236   
-237   
-238   
-239   
-240   
-241   
-242   
-243   
-244   
-245   
-246   
-247   
-248   
-249   
-250   
-251   
-252   
-253   
-254   
-255   
-256   
-257   
-258   
-259   
-260   
-261   
-262   
-263   
-264   
-265   
-266   
-267   
-268   
-269   
-270   
-271   
-272   
-273   
-274   
-275   
-276   
-277   
-278   
-279   
-280   
-281   
-282   
-283   
-284   
-285   
-286   
-287   
-288   
-289   
-290   
-291   
-292   
-293   
-294   
-295   
-296   
-297   
-298   
-299   
-300   
-301   
-302   
-303   
-304   
-305   
-306   
-307   
-308   
-309   
-310   
-311   
-312   
-313   
-314   
-315   
-316   
-317   
-318   
-319   
-320   
-321   
-322   
-323   
-324   
-325   
-326   
-327   
-328   
-329   
-330   
-331   
-332   
-333   
-334   
-335   
-336   
-337   
-338   
-339   
-340   
-341   
-342   
-343   
-344   
-345   
-346   
-347   
-348   
-349   
-350   
-351   
-352   
-353   
-354   
-355   
-356   
-357   
-358   
-359   
-360   
-361   
-362   
-363   
-364   
-365   
-366   
-367   
-368   
-369   
-370   
-371   
-372   
-373   
-374   
-375   
-376   
-377   
-378   
-379   
-380   
-381   
-382   
-383   
-384   
-385   
-386   
-387   
-388   
-389   
-390   
-391   
-392   
-393   
-394   
-395   
-396   
-397   
-398   
-399   
-400   
-401   
-402   
-403   
-404   
-405   
-406   
-407   
-408   
-409   
-410   
-411   
-412   
-413   
-414   
-415   
-416   
-417   
-418   
-419   
-420   
-421   
-422   
-423   
-424   
-425   
-426   
-427   
-428   
-429   
-430   
-431   
-432   
-433   
-434   
-435   
-436   
-437   
-438   
-439   
-440   
-441   
-442   
-443   
-444   
-445   
-446   
-447   
-448   
-449   
-450   
-451   
-452   
-453   
-454   
-455   
-456   
-457   
-458   
-459   
-460   
-461   
-462   
-463   
-464   
-465   
-466   
-467   
-468   
-469   
-470   
-471   
-472   
-473   
-474   
-475   
-476   
-477   
-478   
-479   
-480   
-481   
-482   
-483   
-484   
-485   
-486   
-487   
-488   
-489   
-490   
-491   
-492   
-493   
-494   
-495   
-496   
-497   
-498   
-499   
-500   
-501   
-502   
-503   
-504   
-505   
-506   
-507   
-508   
-509   
-510   
-511   
-512   
-513   
-514   
-515   
-516   
-517   
-518   
-519   
-520   
-521   
-522   
-523   
-524   
-525   
-526   
-527   
-528   
-529   
-530   
-531   
-532   
-533   
-534   
-535   
-536   
-537   
-538   
-539   
-540   
-541   
-542   
-543   
-544   
-545   
-546   
-547   
-548   
-549   
-550   
-551   
-552   
-553   
-554   
-555   
-556   
-557   
-558   
-559   
-560   
-561   
-562   
-563   
-564   
-565   
-566   
-567   
-568   
-569   
-570   
-571   
-572   
-573   
-574   
-575   
-576   
-577   
-578   
-579   
-580   
-581   
-582   
-583   
-584   
-585   
-586   
-587   
-588   
-589   
-590   
-591   
-592   
-593   
-594   
-595   
-596   
-597   
-598   
-599   
-600   
-601   
-602   
-603   
-604   
-605   
-606   
-607   
-608   
-609   
-610   
-611   
-612   
-613   
-614   
-615   
-616   
-617   
-618   
-619   
-620   
-621   
-622   
-623   
-624   
-625   
-626   
-627   
-628   
-629   
-630   
-631   
-632   
-633   
-634   
-635   
-636   
-637   
-638   
-639   
-640   
-641   
-642   
-643   
-644   
-645   
-646   
-647   
-648   
-649   
-650   
-651   
-652   
-653   
-654   
-655   
-656   
-657   
-658   
-659   
-660   
-661   
-662   
-663   
-664   
-665   
-666   
-667   
-668   
-669   
-670   
-671   
-672   
-673   
-674   
-675   
-676   
-677   
-678   
-679   
-680   
-681   
-682   
-683   
-684   
-685   
-686   
-687   
-688   
-689   
-690   
-691   
-692   
-693   
-694   
-695   
-696   
-697   
-698   
-699   
-700   
-701   
-702   
-703   
-704   
-705   
-706   
-707   
-708   
-709   
-710   
-711   
-712   
-713   
-714   
-715   
-716   
-717   
-718   
-719   
-720   
-721   
-722   
-723   
-724   
-725   
-726   
-727   
-728   
-729   
-730   
-731   
-732   
-733   
-734   
-735   
-736   
-737   
-738   
-739   
-740   
-741   
-742   
-743   
-744   
-745   
-746   
-747   
-748   
-749   
-750   
-751   
-752   
-753   
-754   
-755   
-756   
-757   
-758   
-759   
-760   
-761   
-762   
-763   
-764   
-765   
-766   
-767   
-768   
-769   
-770   
-771   
-772   
-773   
-774   
-775   
-776   
-777   
-778   
-779   
-780   
-781   
-782   
-783   
-784   
-785   
-786   
-787   
-788   
-789   
-790   
-791   
-792   
-793   
-794   
-795   
-796   
-797   
-798   
-799   
-800   
-801   
-802   
-803   
-804   
-805   
-806   
-807   
-808   
-809   
-810   
-811   
-812   
-813   
-814   
-815   
-816   
-817   
-818   
-819   
-820   
-821   
-822   
-823   
-824   
-825   
-826   
-827   
-828   
-829   
-830   
-831   
-832   
-833   
-834   
-835   
-836   
-837   
-838   
-839   
-840   
-841   
-842   
-843   
-844   
-845   
-846   
-847   
-848   
-849   
-850   
-851   
-852   
-853   
-854   
-855   
-856   
-857   
-858   
-859   
-860   
-861   
-862   
-863   
-864   
-865   
-866   
-867   
-868   
-869   
-870   
-871   
-872   
-873   
-874   
-875   
-876   
-877   
-878   
-879   
-880   
-881   
-882   
-883   
-884   
-885   
-886   
-887   
-888   
-889   
-890   
-891   
-892   
-893   
-894   
-895   
-896   
-897   
-898   
-899   
-900   
-901   
-902   
-903   
-904   
-905   
-906   
-907   
-908   
-909   
-910   
-911   
-912   
-913   
-914   
-915   
-916   
-917   
-918   
-919   
-920   
-921   
-922   
-923   
-924   
-925   
-926   
-927   
-928   
-929   
-930   
-931   
-932   
-933   
-934   
-935   
-936   
-937   
-938   
-939   
-940   
-941   
-942   
-943   
-944   
-945   
-946   
-947   
-948   
-949   
-950   
-951   
-952   
-953   
-954   
-955   
-956   
-957   
-958   
-959   
-960   
-961   
-962   
-963   
-964   
-965   
-966   
-967   
-968   
-969   
-970   
-971   
-972   
-973   
-974   
-975   
-976   
-977   
-978   
-979   
-980   
-981   
-982   
-983   
-984   
-985   
-986   
-987   
-988   
-989   
-990   
-991   
-992   
-993   
-994   
-995   
-996   
-997   
-998   
-999   
-1000  
-1001  
-1002  
-1003  
-1004  
-1005  
-1006  
-1007  
-1008  
-1009  
-1010  
-1011  
-1012  
-1013  
-1014  
-1015  
-1016  
-1017  
-1018  
-1019  
-1020  
-1021  
-1022  
-1023  
-1024  
-1025  
-1026  
-1027  
-1028  
-1029  
+1     ΧΜΓ 99.
+2     Collection of the village of Skar, 1st part, of the 2nd indiction, as follows:
+3     1st group (phyle): Victor (son of) Psanklomis.
+4     Tadianos son of Sarapion, denarii myriads 2 (and) Δ.
+5     Petros son of Cornelius, denarii Γτ.
+6     John son of Isidoros, denarii myriads 2 (and) Δ.
+7     Papnouthis the deacon, denarii myriads 2 (and) Δψ.
+8     Sarapion son of Banos, denarii myriads 2 (and) Γσ.
+9     Eulogios son of Saras, denarii myriads 2 (and) Γσ.
+10    Eus son of Phoibion, denarii Ατ.
+11    Mia (daughter) of Phoibion, denarii Ατ.
+12    Phibis son of Melas, denarii myriads 2 (and) Γω.
+13    Phoibammon son of Pamounios, denarii myriads 2 (and) Γ.
+14    Petros son of Cornelius, denarii Ζτ.
+15    Gennadios son of Phoibammon, denarii Ϛχ.
+16    [Jo]hn (son of) K[ol]louchis, denarii Γυ.
+17    … son of …, denarii myriads 2 (and) Γ.
+18    [Isido]ros son of Kollougios, denarii Γω.
+19    Anouphis son of Phibis, denarii Δ.
+20    Isidoros son of Achilleus, denarii Εω.
+21    [Isido]ros son of Phibis, denarii Ε.
+22    John son of Isidoros, denarii myriads 2 (and) Δρ.
+23    [Pet]ros son of John, denarii Γφ.
+24    [P]aulos son of Kollouthos, denarii Βψ.
+25    [Pi]noution son of Isidoros, denarii myriads 2 (and) Γϡ.
+26    [So]is son of Ammonios, denarii myriads 2 (and) Γω.
+27    [Horo]s son of Tadianos, denarii Η.
+28    [Ma]r[i]a (daughter) of Timagenes.
+29    [Ta]dianos son of Philippos, denarii myriads 2 (and) Ε.
+30    [Hatr]es son of Serenos, denarii Γτ.
+31    [Pa]ulos son of [K]ollouthos, denarii Ε.
+32    [Horo]s son of Tadiano[s], denarii υν.
+33    [Sar]apion son of Phoibammon, denarii Ηω.
+34    [Phoib]ammon son of Achil[leus], denarii Ηυ.
+35    … son of …lous, denarii Αψ.
+36    Phibis son of Hatres, denarii myriads 2 (and) Γτ.
+37    Anouphis son of Ph[i]bis, denarii Βχ.
+38    Sarapion son of Teukes, denarii myriads 2 (and) Γψ.
+39    [I]sidoros son of John, [denarii] Εω.
+40    Anouphis son of Isidoros, denarii Γσ.
+41    Tadianos son of Philippos, [denarii myriads … ] …
+42    Phoibammon son of Achilleus, [denarii myriads 2] Γχ.
+43    [I]sidoros son of Phibis, denarii Ετ.
+44    (Of) Paulos son of Ammonios, denarii 2 …
+45    1: denarii myriads 42, η[τ].
+46    ΧΜΓ.
+47    Samouel son of John, denarii Α.
+48    Petros son of Kollouthos, denarii Γσ.
+49    Victor (son of) Psanklom, denarii myriads 2 (and) Ε.
+50    Maria (daughter) of Dimagenes, denarii Βϡ.
+51    1: denarii myriads 3 (and) Βρ.
+52    Total to the same: denarii myriads 46, σ.
+53    1st group (phyle): denarii myriads 100, Ϛφ.
+54    [Sara]pion son of Teukes, denarii Δ.
+55    ΧΜΓ 99.
+56    2nd group (phyle): Pachymios (son of) Taurinos.
+57    Isidoros son of Geni…ei, denarii Ϛυ.
+58    Hatres son of Taurinos, denarii myriads 2 (and) Ϛτ.
+59    Phoibammon son of Hatres, denarii Ϛω.
+60    Apollos son of Phoibammon, denarii Ϛχ.
+61    Apollos son of Phoibammon, denarii Αϡ.
+62    Kollauchis son of Hatres, denarii Ϛχ.
+63    John son of Banos, denarii myriads 2 (and) Βω.
+64    Piper son of Endios, denarii … ϡν.
+65    Isidoros son of Taurinos, denarii myriads 2 (and) Δρ.
+66    Iakybis son of Phoibammon, denarii Ϛχ.
+67    Victor son of John, denarii Η.
+68    Kollauchis son of Hatres, denarii Δρν.
+69    Phoibammon son of Isidoros, denarii Ϛχ.
+70    Phoibammon son of Isidoros, denarii Ε.
+71    … the elder, denarii Ϛχ.
+72    Pimounis son of Taurinos, denarii Ϛ.
+73    Isidoros son of John, denarii Ατν.
+74    Termouthis (daughter) of Thekla, denarii ϡν.
+75    John son of Banos, denarii myriads 2 (and) Γσ.
+76    Iakybis son of Taurinos, denarii myriads 2 (and) Γσ.
+77    V[ic]tor son of John, denarii Γσ.
+78    Pho[ibam]mon son of Hatres, denarii Ϛσ.
+79    Pi[m]ounis son of Taurinos, denarii Ασ.
+80    Ap[ol]los son of Phoibammon, denarii Αϡ.
+81    Isakio[s] son of Trasias, denarii myriads 1 (and) Ε.
+82    Ionis son of Phibis, [denarii] …
+83    Ionis the elder, denarii Δυ.
+84    Pachymis son of Taurinos, [denarii] …
+85    Ionis son of Phibis, [denarii] …
+86    Iakybis son of Phoibammon, [denarii] Β.
+87    Ionis son of Phibis, denarii …
+88    Dioskouris son of A…, [denarii] …
+89    John son of Banos, [denarii] …
+90    Phoibammon son of Isidoros, [denarii] …
+91    John son of Hatres, [denarii] …
+92    Tadianos son of Phoibammon, [denarii] …
+93    Victor son of John, [denarii] …
+94    [P]achymis son of Taurinos, [denarii] …
+95    1: denarii myriads 20 …
+96    ΧΜΓ.
+97    Account of wine of the place of Tyrannos, of the 4th indiction, as follows:
+98    Mesore 12: of wine, knidia σϙ.
+99    Mesore 13: of wine, knidia υϙ.
+100   Mesore 14: of wine, knidia υνβ.
+101   Mesore 15: of wine, knidia τνδ, and vessels 18.
+102   Mesore 16: of wine, knidia σιϛ.
+103   And for relief (paramytheia), of wine, knidia τ, kouri 6, into vessels 8.
+104   From Phoibammon, farmer, of wine, knidia νβ.
+105   Total for the service: of wine, knidia ρλβ; and for freight, of wine, knidia, an obol.
+106   Account of wine of the storehouse, of the place of Tyrannos, of the 4th indiction:
+107   1st batch (lonche): of wine, knidia ρ.
+108   2nd batch: of wine, knidia ρ.
+109   [3rd bat]ch: of wine, knidia ρ.
+110   [4th bat]ch: of wine, knidia ρ.
+111   [5th batc]h: of wine, knidia ρ.
+112   [6th batc]h: of wine, knidia ρ.
+113   [7th ba]tch: of wine, knidia ρ.
+114   8th batch: of wine, knidia ρ.
+115   9th batch: of wine, knidia ρ.
+116   10th batch: of wine, knidia ρ.
+117   11th batch: of wine, knidia ρ.
+118   12th batch: of wine, knidia ρ.
+119   13th batch: of wine, knidia ρ.
+120   14th batch: of wine, knidia ρ.
+121   15th batch: of wine, knidia ρ.
+122   1[6th] batch: of wine, knidia πϛ, vessels.
+123   … [of wine, knidia 2]η.
+124   1[6th] batch: of wine, knidia ιδ.
+125   Total: of wine, knidia Αφοβ.
+126   ΧΜΓ 99.
+127   3rd group (phyle): (of) Tadianos (son of) Pamounios.
+128   Victor son of Saias, denarii myriads 2 (and) Γω.
+129   Paulos son of Herakleitos, denarii Γσν.
+130   John son of Taurinos, denarii myriads 2 (and) Γ.
+131   [On]nophris son of Banos, denarii Ε.
+132   Tadianos son of Paulos, denarii myriads 2 (and) Γσ.
+133   Martyria (daughter) of Aron, denarii Αψν.
+134   John son of Taurinos, denarii myriads 2 (and) Βψ.
+135   Isidoros son of Saias, denarii myriads 2 (and) Βω.
+136   Kopria (daughter) of Maria, denarii Εϡ.
+137   Anouphis son of Taurinos, denarii myriads 2 (and) Βω.
+138   Josephis son of Herakleitos, denarii Ε.
+139   Banos son of Phoibammon, denarii myriads 2 (and) Γτ.
+140   Victor son of Phoibammon, denarii myriads 2 (and) Βω.
+141   Banos son of Horion, denarii Ευ.
+142   Phoibammon son of Eirene, denarii Ϛχ.
+143   … son of [Herak]leitos, denarii Γρ.
+144   [Ta]dianos son of Banos, denarii Ευν.
+145   [On]nophrios son of Banos, denarii Αχ.
+146   Taurinos son of Horos, denarii Εω.
+147   [B]anos son of Phoibammon, denarii myriads 2 (and) Δ.
+148   Isakis son of Banos, denarii Εω.
+149   Isak son of Banos, denarii φ.
+150   …-s son of Herakleitos, denarii σν.
+151   [Jo]hn son of Taurinos, denarii Δψν.
+152   …-s son of Serenos, denarii Ϛχ.
+153   [Jose]phis son of Herakleitos, denarii σ.
+154   [Tadi]anos son of Banos, denarii Ϛχ.
+155   [Victo]r son of Phoibammon, denarii myriads 16 (and) Ζσ.
+156   [B]anos son of Horion, denarii Γυ.
+157   Abraamis son of [T]aurinos, denarii Δψν.
+158   [Pach]ymis son of Taurinos, denarii Δυ.
+159   … (son of) Phoibimon, denarii Γ.
+160   … (son of) Taurinos, denarii Ασ.
+161   …-chos son of Pamounios, denarii Ϛρ.
+162   [Tad]ianos son of Pamounios, denarii myriads 4 (and) Ε.
+163   [1]: denarii myriads 51 (and) Ζψ.
+164   ΧΜΓ.
+165   Phoibammon (son of) Apsane, denarii ω.
+166   Papnouthis son of Aiomios, denarii Ε.
+167   John son of Aiomios, denarii myriads 2 (and) Ε.
+168   Petros son of Aiomios, denarii Βχ.
+169   Silvanos son of Aiomios, denarii Βυ.
+170   Eus wife of Aiomios, denarii Εω.
+171   Papnouthis son of Aiomios, denarii χ.
+172   Martha (daughter) of Psanklom, denarii Αρν.
+173   Victor son of Taurinos, denarii ω.
+174   Sophia (daughter) of Saras, denarii Ασ.
+175   John son of Paesios, denarii Αχ.
+176   John son of Paesios, likewise, denarii myriads 2 (and) Εν.
+177   Tadianos son of Phoibammon, denarii ϡν.
+178   Aunes (son of) Klautianos, denarii Γσ.
+179   Martha (daughter) of Psanklom, denarii Αχν.
+180   myriads: denarii myriads 7 (and) Ζχ.
+181   There comes to the same: denarii myriads 59 (and) ρ.
+182   ΧΜΓ.
+183   ΧΜΓ 99.
+184   4th group (phyle): (of) Ionis (son of) Silvanos.
+185   Isidoros son of Sotos, denarii myriads 4 (and) Ζχ.
+186   Helladios son of John, denarii myriads 2 (and) Γτ.
+187   Sarapion son of Phoibammon, denarii myriads 2 (and) Δρ.
+188   Anouthis son of Leon, denarii Δ.
+189   Pamonos son of Sarapion, denarii Ζχ.
+190   Sarapion son of Pesotmis, denarii myriads 2 (and) Γτ.
+191   Paniran son of Isidoros, denarii myriads 4 (and) Ϛσ.
+192   Silvanos son of Paulos, denarii Ϛυ.
+193   Pklales son of Sois, denarii myriads 2 (and) Βψ.
+194   Silvanos son of Hermeinos, denarii myriads 4 (and) Θυ.
+195   Tadianos son of Isidoros, denarii myriads 1 (and) Γν.
+196   Gennatios son of Sarapion, denarii myriads 4 (and) Ζϡ.
+197   Sarapion son of Pesetmis, denarii myriads 1 (and) Β.
+198   Taniel son of Taurinos, denarii myriads 2 (and) Βτ.
+199   Apollos son of Phoibammon, denarii myriads 2 (and) Ευ.
+200   … son of [P]aulos, denarii myriads 2 (and) Γ.
+201   Anouthis son of Leon, denarii Ϛ.
+202   Papnouthis son of Horos, denarii myriads 4 (and) Ζ.
+203   Silvanos son of Paulos, denarii Ζ.
+204   Phoibammon son of Kollouchis, denarii myriads 2 (and) Βϡ.
+205   Paulos son of John, denarii myriads 2 (and) Βχ.
+206   Isephis son of Tiskas, denarii Δ.
+207   Isephis son of Isakios, denarii myriads 2 (and) Βω.
+208   Dora (daughter) of Kollouthos, denarii myriads 2 (and) Βω.
+209   Phoibammon son of Sois, denarii myriads 2 (and) Γω.
+210   Taurinos son of Kollouchis, denarii myriads 2 (and) Β.
+211   Trasias (son of) Sois.
+212   Lene wife of Samouel, denarii Ηϡ.
+213   Anouthis son of Leon, denarii 1 … 00.
+214   Abraamis son of Phibis, denarii Δ.
+215   Eirene (daughter) of Taurinos, denarii Ϛχ.
+216   Tadianos son of Isidoros, denarii myriads 2 (and) ω.
+217   Paniran son of Isidoros, denarii myriads 2 (and) Γ.
+218   [S]ilvanos son of Hermeinos, denarii Ζ.
+219   Isidoros son of Kollouchis, denarii myriads 2 (and) Γ.
+220   Petros son of Sion, denarii Ετ.
+221   Taurinos son of Kollouchis, denarii myriads … (and) Ε.
+222   Horion the elder, denarii Γ.
+223   Gennatios son of Kollouchis, denarii myriads 2 (and) … χ.
+224   Talau wife of Ammonios, denarii Β …
+225   Sarapion son of Pesetmis, denarii myriads 2 (and) … χ.
+226   Pamon son of Sarapion, denarii Β.
+227   1: denarii myriads …
+228   ΧΜΓ 99.
+229   4.
+230   Sarapion son of Sois, denarii myriads 1 (and) Αχ.
+231   Ionis son of Samouel, denarii myriads …
+232   Pamon son of Sarapion, denarii ϡ.
+233   Samouel son of Tekton, denarii Α.
+234   Sarapion son of Pesetmis.
+235   Paulos son of John, denarii Βϡ.
+236   Ales son of Leon, denarii Ϛχ.
+237   Ionis son of Silvanos, denarii myriads 4 (and) Ηω.
+238   Tadianos son of Isidoros, denarii myriad 1 (and) Δ.
+239   Phoibammon son of Athanasios, denarii myriads 2 (and) Γ.
+240   Sophia (daughter) of Tamoun, denarii Ε.
+241   Trasias son of Sois, denarii Ϛχ.
+242   Sarapion son of Pesetmis, denarii myriad 1 (and) Δ.
+243   Phoibammon son of Athanasios, denarii Ηυ.
+244   Eirene (daughter) of Taurinos, denarii τν.
+245   Phoibammon son of Athanasios, denarii Α.
+246   Ha[tr]es [from] Tepot, denarii Βτν.
+247   [A]poll[os son of Ph]oibammon, denarii Δω.
+248   [Hat]res from Tepot, denarii Ατν.
+249   [Phoi]bammon son of Kollouchis, denarii Ϛχ.
+250   [Io]nis son of Silvanos, denarii myriads 2 (and) Β.
+251   1: denarii myriads 19 (and) Αω.
+252   There comes to the same: denarii myriads 96 (and) Ϛχ.
+253   ΧΜΓ 99.
+254   5th group (phyle): (of) John (son of) Paesios.
+255   Genadios son of Ailorion, denarii myriads 2 (and) Γυ.
+256   Ionis son of Sion, denarii myriads 2 (and) Γφ.
+257   Phoibammon son of Pinoution, denarii myriads 2 (and) Γσ.
+258   Phoibammon son of Aphanios, denarii myriads 1 (and) Αφ.
+259   Phoibammon from Terton Psebe, denarii Αω.
+260   Sois son of Phoibammon, denarii myriads 2 (and) Ερ.
+261   Ion son of Phoibammon, denarii myriads 1 (and) ρν.
+262   Pekysia (daughter) of Aiomis, denarii Βυ.
+263   Ailorion son of Taurinos, denarii myriads 2 (and) Γ.
+264   Ailorion the elder, denarii myriads 2 (and) Δ.
+265   Isidoros son of Hermes, denarii myriads 2 (and) Γ.
+266   Phoibammon son of Pinoution, denarii myriads 2 (and) Γσ.
+267   Apollos son of Victor, denarii Δω.
+268   Tadianos son of Phoibammon, denarii Βρ.
+269   [Apol]los son of Victor, denarii Αω.
+270   … (daughter) of Thaesios, denarii Γτ.
+271   Ailorion the elder, denarii myriads 4 (and) Ηω.
+272   Pinoution son of Gennatios, denarii Δ.
+273   Josephis son of Pasion, denarii Ϛχ.
+274   Phoibammon from Terton Psebe, denarii Αχ.
+275   Phoibammon son of Pinoution, denarii myriads 2 (and) Βω.
+276   K[o]pria (daughter) of Pamounios, denarii Αχ.
+277   [An]ouphis son of Gennatios, denarii Ϛ.
+278   Lene (daughter) of Kollouchis, denarii Ηφ.
+279   Victor son of Phoibammon, denarii myriad 1 (and) Εω.
+280   [Io]n son of Phoibammon, denarii Ζϡ.
+281   [L]eus son of Phoibammon, denarii Δ.
+282   Victor son of Taurinos, denarii Δσ.
+283   Ionis son of Sion, denarii myriads 2 (and) Ϛσ.
+284   Lene (daughter) of Kollouchis, denarii Αφ.
+285   Kapai son of Pasion, denarii Ϛχ.
+286   Phoibammon son of Paulos, denarii myriad 1 (and) Αχ.
+287   Sarapion son of Phoibammon, denarii Ατ.
+288   Anouphis son of Tadianos, denarii myriads 2 (and) Βω.
+289   Pinoution son of Gennadios, denarii Γσ.
+290   Leus son of Phoibammon, [denarii] Γω.
+291   Petros son of Aiomios, [denarii] Ϛυ.
+292   Isidoros son of Pinoution, [denarii] myriads 2 (and) Γφ.
+293   Ailorion the elder, [denarii] …
+294   [I]si[d]oros [son of Herm]es, [denarii] …
+295   … [denarii] …
+296   V[icto]r son of Taurinos, denarii Βψν.
+297   [Anou]phis son of Gennadios, [denarii] 2 …
+298   1: denarii myriads 45 (and) Βφ.
+299   ΧΜΓ 99.
+300   6th group (phyle): (of) Tadianos (son of) Mouses.
+301   John (son of) Elias, denarii Ϛν.
+302   Sarapion son of Anouthios, denarii Αχ.
+303   Isephis son of Kastor, denarii Δσν.
+304   Isidoros son of Paulos, denarii Ϛψν.
+305   Tadianos son of Patnachthes, denarii myriads 2 (and) Δρ.
+306   Pkelis son of Klomios, denarii myriads 5.
+307   Pinoution son of Herakion, denarii myriads 1 (and) Αυν.
+308   Phoibammon son of Kastor, denarii myriads 2 (and) Γ.
+309   Phoibammon son of Hatres, denarii myriads 2 (and) Γσ.
+310   Hatres son of Patanaktes, denarii myriads 2 (and) Γτ.
+311   John son of Tadianos, denarii myriads 2 (and) Βφ.
+312   Iakybis son of Ionios, denarii myriads 2 (and) Δρ.
+313   Pinoution son of Hierakion, denarii myriad 1 (and) Β.
+314   John son of Mouses, denarii myriad 1 (and) ϡ.
+315   Elias son of Pesetmis, denarii myriads 2 (and) Γφ.
+316   [Tadi]anos son of Mouses, denarii Αφ.
+317   [Petro]s son of Horos, denarii myriads 2 (and) Βφ.
+318   Pinoution son of Hierakion, denarii myriad 1 (and) Α.
+319   Tadianos (son of) Kollouchis, denarii ω.
+320   Iakybis son of Ionios, denarii Θσ.
+321   Kastor son of Phoibammon, denarii myriads 2 (and) Αω.
+322   Tadianos son of Patnachthes, denarii myriads 2 (and) Βχ.
+323   Pamounis son of Phoibammon, denarii Η.
+324   Kopria (daughter) of Mouses, denarii Ϛψ.
+325   Hatres son of Pesetmis, denarii myriads 2 (and) Γσ.
+326   Hatres son of Pesetmis, denarii myriads 2 (and) Γρ.
+327   Apollos son of Horion, denarii myriads 4 (and) Εν.
+328   Ion (son of) Theodosios.
+329   Banos son of Sois, denarii Γτ.
+330   Peklom son of Hermophilos, denarii …
+331   Tadianos son of Gennadios, [denarii] …
+332   Ion son of Phoibammon, [denarii] …
+333   Tadianos son of Klomios, denarii …
+334   Sarapion son of Mouses, denarii …
+335   Thatres son of Paulos, denarii …
+336   Phoibammon son of Papnouthios, denarii …
+337   Petros son of Horos, denarii …
+338   Pinoution son of Hierakion, denarii 2 …
+339   Pinoution son of Hierakion, denarii 4 …
+340   Eus wife of Banos, denarii 1 …
+341   Mouses son of Isidoros, denarii myriads 2 …
+342   Tadianos son of Gennadios, denarii 2 …
+343   Ales (son of) Apa Horion, denarii 2 …
+344   1: denarii myriads 56 (and) Γ.
+345   ΧΜΓ.
+346   6.
+347   Tatianos (son of) Peklom, denarii Ζφ.
+348   Thatre son of Mouses, denarii Γχ.
+349   Thatre son of Mouses, likewise.
+350   Tatianos (son of) Peklom, denarii Ασ.
+351   Pinoution son of Hierakion.
+352   Eus wife of Daueit.
+353   Phoibammon son of Hatres, denarii Γφ.
+354   Josephis son of Kastor, denarii Βτν.
+355   Phoibammon son of Papnouthios, denarii Βχ.
+356   Ion son of Phoibammon, denarii Γφ.
+357   Hatres son of Patnachthes, denarii Ατ.
+358   Tadianos son of Herakion, denarii myriad 1 (and) Αχ.
+359   Phoibammon son of Papnouthios, denarii Δ.
+360   Maria (daughter) of Taurinos, denarii Ζ.
+361   Phoibammon son of Papnouthios, denarii Αψ.
+362   (Of) Stephanos son of John, denarii myriad 1.
+363   Phibis son of Peklomis, denarii Ϛφ.
+364   Tadianos son of Herakion, denarii … υ.
+365   Tadianos son of Herakion, likewise, denarii Αω.
+366   Sophia (daughter) of Theodosios, denarii Δσ.
+367   John son of Tadianos, denarii Αφ.
+368   Sophia (daughter) of Theodosios, denarii Ζτ.
+369   John (son of) Elias, denarii Γ.
+370   Sarapion son of Hermophilos, denarii Εω.
+371   Elias son of Phibis, denarii Γ.
+372   [Eu]s wife of Taueit, denarii myriad 1 (and) ϡ.
+373   [T]adianos son of Mouses, denarii myriads 2 (and) Δυ.
+374   [Th]atre son of Mouses, denarii Δσν.
+375   Petros son of Horos, denarii Θφ.
+376   [Tad]ianos son of Mouses, denarii myriads 2 (and) Γω.
+377   …as, denarii myriad 1 (and) Ϛτ.
+378   …-s, denarii Γψ.
+379   … [son of Phoib]ammon, denarii Β.
+380   …, denarii Γσ.
+381   [Isi]doros (son of) P[kylis], denarii τ.
+382   Isidoros (son of) Pkyl[is, likewise], denarii ϡ.
+383   Tkei son of Herakion, denarii Αρ.
+384   Total: denarii, denarii myriads 20 (and) χ.
+385   ΧΜΓ.
+386   Phibis son of Hatres, denarii myriad 1 (and) Ζω.
+387   Patnachthes son of Pinoution, denarii myriad 1 (and) Γφ.
+388   Tadianos son of Mouses, denarii Γτ.
+389   1: denarii myriads 3 (and) Δχ; there comes to the same: denarii myriads 79 (and) Ησ.
+390   ΧΜΓ.
+391   7th group (phyle): (of) Paulos (son of) Perousios.
+392   Sois son of Taurinos, denarii Εσ.
+393   Pkale son of Ampiomis, denarii myriads 2 (and) Γφ.
+394   Sarapion son of Phoibammon, denarii Δχ.
+395   Victor the elder, denarii myriad 1 (and) Βφ.
+396   Pekysios son of Paulos, denarii myriads 2 (and) Δ.
+397   Serenos son of Ampiomis, denarii myriad 1 (and) Εϡ.
+398   Hatres son of Pinoution, denarii myriad 1 (and) Αυν.
+399   Cornelius son of Isidoros, denarii myriads 4 (and) Ζ.
+400   Isidoros son of Heraklios, denarii Η.
+401   Lilous son of Anouthios, denarii myriads 2 (and) Γ.
+402   Josephis son of Aiomios, denarii myriads 2 (and) Γχ.
+403   Josephis son of Bekios, denarii myriads 2 (and) Γφ.
+404   Taurinos son of Phoibammon, denarii myriads 2 (and) Βχ.
+405   Isidoros son of Heraklios, denarii τν.
+406   Longines son of Bekios, denarii myriads 2 (and) Γυ.
+407   Mathies son of Phoibammon, denarii Γσ.
+408   Phoibammon son of Isidoros, denarii Γψ.
+409   Ionis son of Sarapion, denarii Ασ.
+410   Mathies son of Phoibammon, denarii σ.
+411   Aiomis son of Phoibammon, denarii Δσ.
+412   Pekysios son of Paulos, denarii myriads 32 (and) Ϛ.
+413   Pekysios son of Paulos, denarii myriads 2 (and) Γφ.
+414   Isidoros son of Heraklios, denarii Αυν.
+415   [Ph]oibammon son of Isidoros, denarii Ϛυ.
+416   Pinoution son of Sarapion, denarii Αψν.
+417   [He]rakleites son of Ampiomis, denarii Δχ.
+418   [Pho]ibammon son of Gennadios, denarii myriads 2 (and) Γτ.
+419   [Isido]ros son of Taurinos, denarii myriad 1.
+420   [Isi]doros son of Taurinos, denarii υν.
+421   [Sa]rapion son of Le[u]s, denarii Βρ.
+422   … [son of Isi]doros, denarii Ϛχ.
+423   … [son of Sa]rapion, denarii Αψν.
+424   … [son of Isido]ros, denarii Θ.
+425   [L]ongines [son of Beki]os, denarii myriads 2 (and) Γ.
+426   Pinout[ion son of Sara]pion, denarii Β.
+427   Petros son of Tad[ia]nos, denarii Βρ.
+428   Cornelius son of Is[i]doros, denarii myriads 2 (and) Γω.
+429   Sosanna (daughter) of Taur[ino]s, denarii Θ.
+430   Phoibammon son of G[enn]adios, denarii myriads 2 (and) Δψ.
+431   Phoibammon son of Gennadios, denarii Ϛυ.
+432   Athanasios son of Sarapion, denarii ψ.
+433   Josephis son of Bekios, denarii myriads 2 (and) Ϛτ.
+434   1: denarii myriads 82 (and) χ.
+435   ΧΜΓ.
+436   [Ha]tres son of Pinoution, denarii Αψν.
+437   [Ph]oibammon son of Isidoros, denarii Ϛω.
+438   [I]onis son of Sarapion, denarii Αχ.
+439   Sarapion son of Leus, denarii Α.
+440   Petros son of Pamounios, denarii Βτ.
+441   Kopria (daughter) of Thekla, denarii Γτ.
+442   Sarapion son of Leus, denarii ψ.
+443   Aiomis son of Phoibammon, denarii myriads 2 (and) Βω.
+444   Longines son of Bekios, denarii myriads 2 (and) Βφ.
+445   Apollos son of Taurinos, denarii Βτ.
+446   Pkales son of Ampiomis, denarii σ.
+447   Pkales son of Ampiomis, denarii χ.
+448   1: denarii myriads 6 (and) Εσ.
+449   There comes to the same: denarii myriads 88 (and) Ϛων.
+450   ΧΜΓ.
+451   Account of small change, festival of Sinarchibis.
+452   For the price of small fowl, denarii Ζ.
+453   For the price of cellar-wares and flask-wares, denarii ω.
+454   For the price of olive-oil(?), denarii Ζυ.
+455   For the price of bucellae (biscuits), denarii φ.
+456   For the expenditure of grain, Elias, denarii Ησν.
+457   Account of wine of the estate of Hellos for the 3rd indiction, as follows:
+458   From Hellos, vine-dresser, of wine, knidia ψϙβ.
+459   From Hatres, vine-dresser of the new-plant (vineyard), of wine, knidia σκ.
+460   [Acc]ount of expenditure, as follows:
+461   [For the fr]eight of the barge, of wine, double-jars 2.
+462   To Pin, of wine, double-jars 3.
+463   Dioskoros the potter, of wine, double-jars 8.
+464   To the carpenter, of wine, double-jars 3.
+465   To the treaders, of wine, one double-jar 1.
+466   For the cargo, Isakios, of wine, double-jars 3.
+467   [Of] the festival of Theineus, of wine, double-jars 26.
+468   ΧΜΓ.
+469   Account of distribution of Leus.
+470   23: Taurinos together with Lene, solidi … [from] 2.
+471   29: Bekis son of Peuetos, solidi …
+472   Mouses, to the elinarchs(?), denarii myriad 1 (and) Δ.
+473   Account of Victor the surety, for the 1st part of the village of Skar:
+474   Didymos the assistant, for the price of papyrus, denarii Ετλγ.
+475   John, for the price of papyrus, denarii [Ε]τλγ.
+476   For Pinoution the chief-guard, [denarii myriad] 1 (and) Βφ, of pure (gold).
+477   For Mousaios, to the elinarchs(?) …
+478   ΧΜΓ.
+479   8th group (phyle): (of) Ionis (son of) Kolloutho[s].
+480   Isakos son of Serenos, denarii myriads 2 (and) Δ.
+481   Papnouthis the deacon, denarii myriads 2 (and) Γτ.
+482   Papnouthis the deacon, likewise, denarii myriads 2 (and) Γσ.
+483   John son of Pesotmis, denarii myriads 2 (and) Δ.
+484   Melas son of Mouses, denarii myriad 1 (and) Β.
+485   Epis son of Taphibis, denarii myriads 2 (and) Γω.
+486   [Ap]ollos son of Apollon, denarii myriads 2 (and) Δυ.
+487   [I]akybis the elder, denarii myriads 2 (and) Γχ.
+488   Pkylis son of Hellen, denarii myriad 1 (and) Αρ.
+489   John son of Helene, denarii Δυν.
+490   Kopreas son of Pinetos, denarii Δσ.
+491   Apollos son of Peloios, denarii myriads 2 (and) Γ.
+492   [P]etros son of Isakios, [denarii] Ζσ.
+493   [Sara]pion son of Isakios, [denarii] Εψ.
+494   …-s son of Isidoros, [denarii] myriads 2 (and) Γϡ.
+495   [Do]ra (daughter) of Kollouthos, denarii Ηφν.
+496   … [son of Is]idoros, denarii myriads 2 (and) Γ.
+497   …-s son of Taurinos, denarii myriads 2 (and) Γφ.
+498   … (son of) Tapsois, denarii Γφ.
+499   … [son of Koll]outhos, denarii myriads 2 (and) Γφ.
+500   [Phoibam]mon son of [T]adianos, denarii Δν.
+501   … (son of) Megista, denarii myriads … (and) Γω.
+502   … troose, denarii 6 …
+503   …-s (son of) Sista, denarii Βυ.
+504   …akios (son of) Labois, denarii Βφ.
+505   [Keront]e (daughter) of Kale, denarii Α.
+506   [Sophia (daughter) of D]oroth[e]os, denarii Ε.
+507   [Pkylis son of Hel]len, denarii myriad 1.
+508   … (son of) Serenos, denarii myriads 2 (and) Βχ.
+509   … [son of S]erenos, [denarii] …
+510   …, denarii Γτ.
+511   …, [denarii] Ϛχ.
+512   T[a]dianos son of Is[idoros], [denarii] Ε.
+513   Ionis son of Koll[outhos], [denarii] myriad 1 (and) Δ.
+514   Tasesios son of Ser[enos], denarii myriad 1.
+515   Peklom son of Pin[e]tos, denarii Δσ.
+516   Ion[i]s son of Isidor[os], denarii myriads 2.
+517   Iakybis the elder, denarii myria… (and) ρ.
+518   Horos son of John, denarii myriads 2 (and) Βν.
+519   Phoibammon son of Pamoun, denarii myriads 2 (and) Γω.
+520   Josephis son of Isakios, denarii Ϛν.
+521   Peklom son of Pinetos, denarii Δρ.
+522   1: denarii myriads 57 (and) Θψ.
+523   ΧΜΓ.
+524   8.
+525   Ionis son of Kollouthos, denarii Γ.
+526   Kerontes (son of) Pkale, denarii χ.
+527   Sophia (daughter) of Dorotheos, denarii χ.
+528   Phibis son of Pamounios, denarii Εϡ.
+529   Ion son of Kollouthos, denarii … σ.
+530   Tadianos son of Isidoros, denarii Ϛχ.
+531   Pkylis son of Hellen, denarii Αυ.
+532   Petros son of John, denarii Ϛχ.
+533   Ionis son of Kollouthos, denarii myriads 4 (and) Ηω.
+534   Trasias son of Tamounios, denarii Γτ.
+535   Paesios son of Sois, denarii Αω.
+536   Mouses son of Horion, denarii Γσ.
+537   Sarapion (son of) John, denarii Βψ.
+538   Martyria (daughter) of Herakion, denarii Αχ.
+539   Phibis son of Pamounios, denarii ϡ.
+540   Pimoun son of John, [denarii] Βυ.
+541   Tapiomis son of Endios, [denarii] … τ.
+542   [M]elas son of Mouses, [denarii] … φ.
+543   [Genn]adios son of Sois, [denarii] Δτ.
+544   … the nun, denarii Αρ.
+545   Phoibammon son of Tadianos, denarii χ.
+546   Mouses son of Horilon, denarii Εχ.
+547   Epis son of Taphibis, denarii myriads 2 (and) Βχ.
+548   Abraamis son of Phoibammon, denarii Γ.
+549   Iakybis the guard, denarii Ζρ.
+550   Iakybis the guard, likewise, denarii myriads … (and) Γ.
+551   1: denarii myriads 11 (and) ω.
+552   There comes to the same: denarii myriads 72 (and) φ.
+553   1st group (phyle).
+554   Phoibammon son of Achilleus, denarii 3 8 (and) denarii Ε.
+555   … group (phyle).
+556   … group (phyle).
+557   denarii …
+558   denarii … denarii Θσ.
+559   denarii Ϛ.
+560   ΧΜΓ 99.
+561   1st group (phyle): Victor (son of) Psanklomis, denarii myriads 9 (and) Ϛφ, and for Elias, denarii Α.
+562   Sarapion son of Teukes, denarii Δ.
+563   Victor (son of) Psanklom, denarii myriads 2 (and) Βχ.
+564   Papnouthis the deacon, denarii Βτ.
+565   Victor (son of) Pteklom, denarii myriads 2 (and) Βφ.
+566   2nd group (phyle): Pachymis son of Taurinos, denarii myriads 3 (and) Δ, for Elias, denarii Α.
+567   Phoibammon son of Isidoros, denarii Ασ.
+568   John son of Hatres, denarii Β.
+569   Tadianos son of Phoibammon, denarii σ.
+570   Victor son of John, denarii Ατ.
+571   3rd group (phyle): Tadianos (son of) Pamounios, denarii myriads 5 (and) Α, for Elias, denarii Α.
+572   Horos son of Taurinos, denarii Ετ.
+573   [Ta]dianos (son of) Pamounios, [denarii …]
+574   [Tadia]nos (son of) Pamounios, [denarii myriads …] Ε.
+575   [4th] group (phyle): Ionis (son of) Silvanos, denarii myriads 4 (and) φ, and for Elias, denarii Α.
+576   Phoibammon son of Athanasios, denarii Α.
+577   Hatres from Tepot, denarii Βσν.
+578   Apollos son of Phoibammon, denarii Δω.
+579   [H]atres fr[o]m Tepot, denarii Ατν.
+580   Pho[i]bammon son of Kollouchis, denarii Ϛχ.
+581   [5]th group (phyle): [J]ohn (son of) Paesios, denarii myriads 7 (and) Α, for Elias, denarii Α.
+582   Kap[ai] son of Pasion, through Sarapion the guard, denarii myriad 1 (and) Β.
+583   [J]ohn (son of) Paesios, denarii Αχ.
+584   [Joh]n (son of) Paesios, denarii myriads 2 (and) Ε.
+585   [Tadi]anos son of Phoibammon, denarii ϡν.
+586   [Herme]s (son of) Klautianos, denarii Γσ.
+587   … denarii Αχν.
+588   [6th group (phyle): Ta]dianos (son of) Mouses, denarii Γτ, for Elias, denarii Α.
+589   [Tadia]nos (son of) Mouses.
+590   … denarii φ, denarii …
+591   [Group: Pau]los (son of) Pero[usio]s, denarii …
+592   [8th] group (phyle): Ionis (son of) Kollouthos, [denarii] …
+593   [Ep]is son of Taphibis, [denarii] …
+594   [Ab]raamis son of Phoibammon, [denarii] …
+595   Iakybis the guard, denarii Ζρ.
+596   Iakybis the guard, denarii Αρ.
+597   ΧΜΓ.
+598   Account from Pin the guard.
+599   26: Ph(…) son of Pasion, denarii myriad 1 (and) 2.
+600   Account of Victor the surety, 1st part of the village of Skar:
+601   Of gold, solidi σθ 4, and for freight, of gold, 1 solidus.
+602   Total: solidi σι 4, from denarii myriads 2 (and) Η; denarii myriads φπη (and) Ζ.
+603   And for Akeos, denarii myriads φπη (and) Ζ.
+604   And for Ion son of Isidoros, denarii ψ.
+605   And for papyrus, denarii Ασ.
+606   And for Serenos, 7, denarii Β.
+607   For oil of Spanos, denarii Β.
+608   For the children, denarii Ϛ.
+609   Together to the same: denarii myriads φϙα (and) Γ.
+610   Were collected: denarii myriads φκ (and) Ϛ; total: denarii myriads 26 (and) Αυ.
+611   Remaining: denarii myriads 65 (and) Αχ.
+612   And for the village-residents, of gold, solidi 4, carats.
+613   To Victor the surety, [denarii] …
+614   Ion son of Kollouthos, [denarii] …
+615   Sarapion the guard, [denarii] …
+616   Pinoution the chief-guard, [denarii myriads] … Αχ.
+617   Gennadios the brother, denarii …
+618   1: [denarii myriads] 24 (and) Ερ.
+619   Flavius Ptollion.
+620   Ptoul the headman.
+621   Flavius Eus the headman.
+622   Lour the headman.
+623   ΧΜΓ 99.
+624   Collection of gold-pieces, as follows:
+625   Isakos son of Serenos, 1 solidus.
+626   Isidoros son of Sotos, 2 solidi.
+627   Victor son of Saias, 1 solidus.
+628   Tadianos son of Sarapion, 1 solidus.
+629   Papnouthis the deacon, 1 solidus.
+630   Papnouthis the deacon, likewise, 1 solidus.
+631   Gennadios son of Ailorion, 1 solidus.
+632   Helladios son of John, 1 solidus.
+633   Sarapion son of Phoibammon, 1 solidus, less β½ γ 4 (carats).
+634   John son of Isidoros, 1 solidus, less β½ γ 4 (carats).
+635   Pkale son of Ampiomis, 1 solidus.
+636   John son of Pesotmis, 1 solidus.
+637   John son of Taurinos, 1 solidus.
+638   Tadianos son of Patnachthes, 1 solidus.
+639   Papnouthis the deacon, 1 solidus, less β½ γ 4 (carats).
+640   Pekysios son of Paulos, 1 solidus.
+641   Serenos son of Ampiom[ios], 1 solidus.
+642   …-s, 2 solidi.
+643   [Pkyl]is son of Klomios, 1 solidus.
+644   [Hatr]es son of Pinoution, 1 solidus.
+645   [Sar]apion son of Pesetmis, 2 solidi.
+646   [Pan]iran son of Isidoros, 1 solidus.
+647   …-s son of Horos, 1 solidus.
+648   [Phoibam]mon son of Kastor, 2 solidi, less 5 4 (carats).
+649   [Tadia]nos son of Isidoros, 1 solidus.
+650   [Phoi]bammon son of Hatres, 1 solidus.
+651   [Isido]ros son of Paulos, 1 solidus.
+652   …-on [son of Pa]ulos, [1] solidus.
+653   … [1] solidus.
+654   … [1] solidus.
+655   … [1] solidus.
+656   … [1] solidus.
+657   … [1] solidus.
+658   … [1] solidus.
+659   ΧΜΓ.
+660   [Ha]tres son of Pino[u]tion, [solidus …] [less] …
+661   Isephis son of Bekios, 1 solidus.
+662   Tadianos son of Isidoros, 1 solidus.
+663   Gennadios son of Sarapion, 2 solidi, less 5½ γ 4 (carats).
+664   Sarapion son of Pesetm[io]s, 1 solidus.
+665   Taurinos son of Phoibammon, 1 solidus.
+666   Iakybis the elder, 1 solidus.
+667   Ailorion the elder, 1 solidus.
+668   John son of Taurinos, 1 solidus.
+669   Isidoros son of Saias, 1 solidus.
+670   Taniel son of Taurinos, 1 solidus.
+671   Elias son of Pesotmis, 1 solidus.
+672   Apollos son of Phoibammon, 1 solidus.
+673   Petros son of Horos, 1 solidus.
+674   Pkylis son of Hellen, 1 solidus.
+675   Isakis son of Paulos, 1 solidus.
+676   Anouphis son of Taurinos, 1 solidus.
+677   Isidoros son of Hermes, 1 solidus.
+678   Papnouthi[s] son of Horos, 2 solidi, less 6½ γ (carats).
+679   Apollos son of [P]eloios, 1 solidus.
+680   Talau son of Ammonios, 1 solidus.
+681   Longines son of Be[k]ios, 1 solidus.
+682   Phoibammon son of Pimoun, 1 solidus.
+683   [K]astor son of Phoibammon, 1 solidus.
+684   [J]ohn son of Banos, 1 solidus.
+685   Ionis son of I[s]idoros, 1 solidus.
+686   Phoibammon son of Kollouchis, 1 solidus.
+687   Paulos son of John, 1 solidus.
+688   Joseph[i]s son of Isakios, 1 solidus.
+689   [Ta]dianos son of Patnachthes, 1 solidus.
+690   [Papn]o[uth]is son of Horos, 1 solidus.
+691   ΧΜΓ.
+692   Account of gold, as follows:
+693   Phaophi 21, to my father, of gold, solidi ογ.
+694   Phaophi 21, in Skar, denarii Β.
+695   For the price of eggs, denarii Αω.
+696   For the price of little loaves (propaka), denarii ω.
+697   For the price of bucellae, denarii υκ.
+698   For the price of goose eggs, denarii Ασ.
+699   For the price of caraway(?), denarii φ.
+700   For the price of eggs, denarii …
+701   ΧΜΓ 99.
+702   Account to my father, 1st part of the village of Skar, as follows:
+703   Phaophi 21, 2nd indiction, to the same father, in Skar,
+704   solidi ογ, less ρπϛ 4 (carats).
+705   And in small change, in Skar, on the same day, of silver, denarii myriads …
+706   Choiak 1, to my father, solidi οθ, less σ 4 (carats).
+707   To Sarapion the logistes, for completion, solidi νη, carats ιϛ½ γ.
+708   Choiak 19, solidi κϛ, less ο.
+709   3: on the same day, solidi 3, less ε 4 (carats).
+710   Of Dioskourides the procurator, for Pinoution the guard, solidi 3, less θ.
+711   In small change, for … in the household, denarii myriads ξ.
+712   To my father, in Skar and in the city, denarii myriads κϛ (and) Θ.
+713   ΧΜΓ 99.
+714   Dora (daughter) of Kollouthos, 1 solidus.
+715   Phoibammon son of Sois, 1 solidus.
+716   Hatres son of Pesotmis, 1 solidus.
+717   Banos son of Phoibammon, 1 solidus, less 3 (carats).
+718   Hatres son of Pesotmis, 1 solidus.
+719   Apollos son of Horion, 2 solidi.
+720   Taurinos son of K[o]llouchis, 1 solidus.
+721   Pachymis son of Taurinos, 1 solidus.
+722   John son of Isidoros, 1 solidus, less β½ γ 4 (carats).
+723   Ion son of Phoibammon, 1 solidus.
+724   Ailorion the elder, 2 solidi, less 5 (carats).
+725   Isidoros son of Taurinos, 1 solidus.
+726   Pekysios son of Paulos, 14 solidi.
+727   Pekysios son of Paulos, 1 solidus.
+728   Pinoution son of John, 1 solidus.
+729   Tadianos son of Isidoros, 1 solidus.
+730   Ion son of Kollouthos, 1 solidus.
+731   [P]an[i]ran son of Isidoros, 1 solidus.
+732   [Isid]oros son of Kollouchis, 1 solidus.
+733   [Vi]ctor (son of) Phoibammon, 1 solidus.
+734   Phoibammon son of Gennadios, 1 solidus.
+735   Phoibammon son of Pinoution, 1 solidus.
+736   Oueis son of Ammonios, 2 solidi, less 6 (carats).
+737   Ion son of Kollouthos, 1 solidus, less 2 (carats).
+738   Taurin[o]s son of Kollouchis, 1 solidus.
+739   Pekysios son of Paulos, 2 solidi.
+740   Serenos son of Phoibammon, 1 solidus.
+741   Isakis son of Serenos, solidus …
+742   Longines son of Bekios, 1 solidus.
+743   Tatianos son of Philippos, 1 solidus.
+744   Iones son of Sion, 1 solidus.
+745   Cornelius son of Isidoros, 1 solidus, less 3 (carats).
+746   Gennati[o]s son of Kollouchis, 1 solidus.
+747   Paesis son of Sois, 1 solidus.
+748   Phoibammo[n son of Genn]adios, 1 solidus.
+749   Anouphis (son of) Tadianos, 1 solidus.
+750   Sarapion son of Sesotmis, 1 solidus.
+751   Ionis son of Isidoros, 1 solidus.
+752   John son of Banos, 1 solidus.
+753   Isid[oros] son of Pin[o]ution, 1 solidus.
+754   Jos[e]phis son of Bekios, 1 solidus.
+755   Ia[k]ybis son of Taurinos, 1 solidus, [less] 5 (carats).
+756   Iakybis the elder, 1 solidus, less …
+757   Sarapion son of Sois, 1 solidus.
+758   Ailorion the elder, 1 solidus.
+759   Tadianos son of Hierakion, 1 solidus.
+760   Phibis son of Hatres, [solidus …] …
+761   Sarapion son of Teukes, 1 solidus.
+762   Isak (son of) Trasias, 1 solidus, less 2 (carats).
+763   John (son of) Paesios, 1 solidus, less 2 (carats).
+764   Victor the surety, 1 solidus, less 2 (carats).
+765   [I]onis son of Silva[n]os, 2 solidi, less …
+766   Ionis son of Kollouthos, 2 solidi, less …
+767   K[ollou]ch[is], 1 solidus, less …
+768   T[ad]ianos (son of) Mouses, 1 solidus.
+769   P[a]chymis son of Taurinos, 1 solidus.
+770   Phibis (son of) Taurias, solidus …
+771   Lo[g]ines son of Bekios, 1 solidus.
+772   Tadianos (son of) Mouses, solidus …
+773   V[i]ctor (son of) Psanklom, solidus …
+774   Phibis son of Hatres, solidus …
+775   John son of Banos, 1 solidus.
+776   Epis son of Taphibis, 1 solidus.
+777   (Son of) Patnachthes, 1 solidus.
+778   Victor (son of) Psanklom, 1 solidus.
+779   John son of Pa[e]sios, 1 solidus.
+780   [Ta]dianos son of Pamounios, 2 solidi.
+781   Victor (son of) Peklom, 1 solidus.
+782   Ioni[s] son of Silvanos, 1 solidus.
+783   ΧΜΓ.
+784   Outflow (delivery) of the estate of Hellos, as follows:
+785   To the storehouse, of wine, double-jars τιβ.
+786   And of wine, one single 1, and vessels 7.
+787   From Elias, of wine, double-jars π.
+788   Mouie, double-jars 2.
+789   Isakios, double-jars 14.
+790   Emoi, of wine, singles 7, and one double 1, and
+791   vessels 7.
+792   Mousaios, of wine, singles 2.
+793   Maria, double-jars 2.
+794   Hermione, of wine, one double 1.
+795   Elias, one vessel 1.
+796   Account of expenditure of wine, as follows:
+797   [For] the cargo, of wine, [d]ouble-jars 3.
+798   … on the day they loaded, of wine, one double 1.
+799   [For] service, of wine, one double 1.
+800   [At] the festival of Thyneus, of wine, double-jars 22.
+801   [For] service, of wine, knidia 30.
+802   [For] the cleaning of the cistern, of wine, double-jars 3.
+803   For the festival of Apa Petros, of wine, double-jars 3.
+804   … on the day they loaded the camel-load, of wine, one double 1.
+805   To the carpenter, of wine, double-jars 3.
+806   For cutting, of wine, double-jars 2.
+807   [For] service for the house, of wine, double-jars 50.
+808   [For] service likewise, vessels 7.
+809   … for service, of wine, double-jars 30.
+810   ΧΜΓ.
+811   My share, to Hermogenes, of the 3rd indiction, as follows:
+812   1st day, 1st jar (pithos), of wine, knidia ρ; lees (li), knidia 18.
+813   1st day, 2nd jar, of wine, knidia ρ; lees, knidia 20.
+814   1st day, 3rd jar, of wine, knidia ρ; le[es], knidia 18.
+815   And for the lees of the jar, le[es], knidia 12.
+816   Together, 1st day, of the new-plant, of wine, knidia τξη.
+817   2nd day, as follows:
+818   1st jar, of wine, knidia ρ; lees [knidia] 16.
+819   2nd day, through Phoibammon, of wine, knidia ρ; lees, kn[i]dia 26.
+820   2nd jar, to Hermogenes, [o]f wine, knidia ρ; lees, knidia 15.
+821   3rd jar, on the same day, [of wine], knidia ρ; lees, knidia 25.
+822   Together, 2nd day, of wine, k[nidia γ]πβ.
+823   26.
+824   [1st] … day, of the great estate, as follows:
+825   1st jar, of wine, knidia [ρ]; lees, knidia 20.
+826   2nd jar, of wine, knidia [ρ]; lees, knidia 20.
+827   3rd jar, of wine, knidia [ρ]; lees, knidia 14.
+828   4th jar, of wine, knidia [ρ]; [l]ees, knidia 6, vessels κ …
+829   For the lees of the jar, of wine, k[nidia] 22.
+830   Together, 1st day, of the gre[at] estate, of wine, knidia δ[πβ].
+831   2nd day, of the great es[tate, as follows:]
+832   1st jar, to Hermogenes, of wine, [k]nidia ρ; lees [knidia] …
+833   2nd jar, to Herm[o]genes, through Phoib[a]m[mon] … [of wine, knidia] … [lees, knidia] …
+834   2nd jar, [to H]ermo[genes] … [of wine, knidia] … [lees, knidia] …
+835   3rd jar … [of wine, knidia] … [lees, knidia] …
+836   4th jar … [of wine, knidia] … [lees, knidia] …
+837   Together, [2nd day of the great estate, of wine, knidia] …
+838   3rd day, as fol[lows:]
+839   1st j[ar], to Herm[ogenes] [of wine, knidia] … [lees, knidia] …
+840   1st, through Phoi[bammon, of wine, knidia] … [lees, knidia] …
+841   2nd, to Herm[ogenes] [of wine, knidia] … [lees, knidia] …
+842   Together, 3rd [day] …
+843   ΧΜΓ.
+844   Account of expenditure, as follows:
+845   Of Petros the headman, 1 solidus ½ γ.
+846   For the price of a karakerion (cloak?), 2 solidi.
+847   For the price of a rug (tapetion), 1 solidus.
+848   Account to my father for the 14½ γ solidi of good weight.
+849   Solidi 8, less 24 (carats).
+850   Solidi 2, less 5½ γ (carats).
+851   1 solidus, less β½ γ (carats).
+852   t… through Sphyrios, [solidi] 2, less 10 (carats).
+853   [Accou]nt for the 14½ γ solidi of g[o]od weight.
+854   [Solidus] less β …
+855   [Solidus] less … ½ γ.
+856   [Solidus] less γ.
+857   [Solidus] … less 4½ γ.
+858   … solidi 2, less θ½ γ.
+859   …ur, solidi 2, less θ½ γ.
+860   … solidi 13, less 24½ γ … less 24½ γ.
+861   … less θ½ γ; the total comes to: solidi 19.
+862   Account of my father, 2nd part, of gold, solidi ρκζ.
+863   And for the remainder of the 1st part, by exagion-weight, of gold, solidi 11½ γ.
+864   From the village-headmen (komarchs) … sat(…), solidi 11, less 32 (carats).
+865   For Gennadios the guard, solidi 2, less 6 (carats).
+866   To Dioskourides the procurator, solidi 16, less 22 (carats).
+867   To the same Dioskourides, solidi 40, less ρε.
+868   To the same, my father, solidi 46, less …
+869   For Dioskourides, for carats, 1 solidus of good weight.
+870   ΧΜΓ 99.
+871   Account in Skar, as follows:
+872   Sophia (daughter) of Theodosios, dalmatics 6, denarii myriad 1 (and) Αφν.
+873   Trasias son of So[it]os, [a] white tunic (kolobion) 4, denarii Θϡ.
+874   Peklom the guard, a black hood (maphortion), denarii Γψ.
+875   Ionis son of Isidor[os], a white hood, denarii Γψ.
+876   Tatianos son of Is[i]doros, a white tunic, denarii Εϡ.
+877   Maria (daughter) of Timagenes, a white hood 1, denarii Γτ.
+878   Thatre son of Mouses, a black hood 6, denarii Δσν.
+879   Pinoution son of Herakion, a white hood 6, denarii Δφ; Emoi, denarii ε …
+880   Eus wife of Taueit, purple dalmatics 6, denarii myriad 1 (and) Α.
+881   Samouel son of Tekton, pukakinai (garments), denarii Α.
+882   Sarapion son of Pesetmis, a black tunic and a hood, denarii myriad 1 (and) Δ.
+883   [J]ohn son of Tadianos, dalmatics 6, denarii Αφ.
+884   ΧΜΓ.
+885   [Accou]nt of expenditure, as follows:
+886   … (son of) Aiom[io]s, an empty hood, denarii Βυ.
+887   … termatike (garment) mole…n marm…, denarii Ζτ, through Papno[uthios] the deacon.
+888   …, an empty tunic, denarii ψν.
+889   (Of) Isidoros, a termatike and a hood … empty, denarii myriad 1 (and) Δ.
+890   … [a]nd a hood … denarii Εχ.
+891   … purple, denarii myriad 1 (and) ϡ.
+892   … black, [denarii myriad] 1 (and) Γ.
+893   … a new hood, denarii χ.
+894   … denarii Ϛχ.
+895   …rou … denarii χ.
+896   … [an]d a black hood, denarii Δυ.
+897   … a leather (garment), denarii myriad 1 (and) ϡ.
+898   … [a]nd an empty hood, denarii Θφ, through Papnouthis the dea[con] …
+899   … denarii Ηυ.
+900   … [a]nd a hood, denarii Ηυ.
+901   … an empty [ha]od (maphortion), denarii … Ατ.
+902   … [a t]er[matike] … denarii myriad 1 (and) Ϛτ.
+903   ΧΜΓ.
+904   Collection of the pledge (enecheiron).
+905   Josephis the guard, denarii myriad 1 (and) Ϛτ.
+906   ΧΜΓ 99.
+907   Account of ex[penditure of] P[in]oution the chief-guard, as follows:
+908   Victo[r] son of Her[ak]les, denarii myriad 1 (and) Βφ.
+909   Victor son of …os, 1 solidus, less γ½ γ.
+910   Martha … denarii ω.
+911   So[i]s son of Am[m]onios, 1 solidus, less γ.
+912   Phoib[a]mmon son of Kastor, 1 solidus, less γ.
+913   Taurinos son of Horos, denarii Ηυ.
+914   Account of expenditure of my father.
+915   Price of "son and mother," denarii χ.
+916   Price of kontelitia, denarii Αϡ.
+917   Price of kentri[a], denarii Α.
+918   Price of tamso[r]em, denarii Α.
+919   Price of do[u]lis, denarii Α.
+920   Price of cakes (plako[untia]) … denarii Δ.
+921   … ter.
+922   … denarii …
+923   Account of Kephalas.
+924   A boot (kaligion), denarii …
+925   Another boot, denarii … φ.
+926   Belts (zonarin) 2, denarii …
+927   The cortegin, denarii …
+928   Masonaphin, denarii Γ.
+929   White-and-black (albomauron) go…, denarii υ.
+930   Price of "son and mother," denarii χ.
+931   Price of kontelitia, denarii ω.
+932   Price of kentria, denarii ω.
+933   Price of tamsorem, denarii Α.
+934   Price of doulis, denarii Α.
+935   Price of cakes (plakountia), denarii Δ.
+936   Price of white-lead (psemithin), denarii Α.
+937   To the sawyers, denarii Δ.
+938   Price of building (oikodome), denarii …
+939   Price of bricks (plintharin), denarii …
+940   [By] warrant (epistalma), denarii myriad…
+941   Price of … mistheot, denarii Ϛ.
+942   Price of Mauros(?), denarii φ.
+943   To Phoibammon the assistant, for a letter, denarii myriads 2 …
+944   Price of caraway (kariatia), denarii σ.
+945   Price of cakes (plakountia) … denarii Γ.
+946   Price of k… [denarii] …
+947   Price of …r… [denarii] …
+948   Price of k… [denarii] …
+949   Price of to… [denarii] …
+950   For … [denarii] …
+951   … [denarii] …
+952   … [denarii] …
+953   Price of k… [denarii] …
+954   Price of er… [denarii] …
+955   Price of a festival … [denarii] …
+956   ΧΜΓ 99.
+957   [Account] … 1st part of the village of Skar, [as fol]lows:
+958   … (of) Akeos, denarii myriads 2.
+959   …phis for … tox, denarii Β.
+960   … denarii myriad 1.
+961   … denarii …
+962   …r, denarii τν.
+963   … denarii myriad 1 (and) Αφν.
+964   … denarii Θϡ.
+965   … denarii … ψ.
+966   … denarii Γψ.
+967   … denarii Θϡ.
+968   … denarii Γτν.
+969   … denarii Γτν.
+970   … denarii Δφ.
+971   … denarii myriad 1 (and) Α.
+972   … denarii myriad 1 …
+973   ΧΜΓ.
+974   Hathyr 25, of Victor the surety, solidus …
+975   Ionis son of Silvanos, solidus …
+976   Ban[o]s son of Kollouthos, solidi 3 …
+977   E… 13 …, 1 solidus …
+978   Account of Tadianos son of Herakion, ekt(…) az(…) …
+979   …r, denarii myriad 1 (and) Ϛ.
+980   …phos, denarii myriad 1 (and) Αφν.
+981   …r the elder, denarii Γρ.
+982   … [Phi]b[i]s son of Melas, denarii Γρ.
+983   …s.
+984   …ros, denarii myriad 1 (and) Αφν.
+985   … [denarii myriads] 2 (and) Ην.
+986   [Account of ex]penditure, 1st part of the vil[lage of Skar, as follow]s:
+987   [Account] … part of the village of Skar.
+988   Solidi σϛ 4.
+989   Of which, in the 1st payment,
+990   solidi ογ, less ρπϛ 4 (carats).
+991   In the 2nd payment, solidi οθ, less σ 4 (carats).
+992   Total: solidi ρνβ, less carats τϙ 4.
+993   The good-weight solidi, ρλε ¾.
+994   And in small change, denarii myriads ρ,
+995   brought in by the
+996   surety, denarii myriads ο.
+997   Pledges, denarii myriads θ.
+998   Dioskourides, through Pinoution
+999   the chief-guard, solidi 2 (and) 2/3.
+1000  Pinoution, likewise,
+1001  … [denarii] myriads 3 (and) Βφ.
+1002  … solidi 10, 4 (carats).
+1003  All the interest, solidi 3.
+1004  … single, 3.
+1005  … [of] old wine, double-jars 4.
+1006  … 1 …
+1007  … θ … ρ …
+1008  … for the ferry (porthmeion) …
+1009  1: denarii myriad…
+1010  1 …
+1011  2 …
+1012  3 …
+1013  4 …
+1014  5 …
+1015  5 …
+1016  … 5, freight …
+1017  … 6, freight …
+1018  … [7], freight …
+1019  … denarii Βσ.
+1020  … Γρ.
+1021  … [denarii] myriads 4 …
+1022  … denarii 1 …
+1023  … denarii 1 …
+1024  … denarii myriad…
+1025  Accoun[t] …
+1026  Mia …
+1027  Sere[n]o[s] …
+1028  Kametis …
+1029  Trise (son of) E… …
