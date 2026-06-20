@@ -576,561 +576,561 @@ r.557  ἐξοδιασμοῦ ἀμφιβόλου νομίσματα ζ κερά
 r.558  μετηνέχθη νομίσματα.
 
 [TRANSLATION]
-1     
-2     
-3     
-4     
-5     
-6     
-7     
-8     
-9     
-10    
-11    
-12    
-13    
-14    
-15    
-16    
-17    
-18    
-19    
-20    
-21    
-22    
-23    
-24    
-25    
-26    
-27    
-28    
-29    
-30    
-31    
-32    
-33    
-34    
-35    
-36    
-37    
-38    
-39    
-40    
-41    
-42    
-43    
-44    
-45    
-46    
-47    
-48    
-49    
-50    
-51    
-52    
-53    
-54    
-55    
-56    
-57    
-58    
-59    
-60    
-61    
-62    
-63    
-64    
-65    
-66    
-67    
-68    
-69    
-70    
-71    
-72    
-73    
-74    
-75    
-76    
-77    
-78    
-79    
-80    
-81    
-82    
-83    
-84    
-85    
-86    
-87    
-88    
-89    
-90    
-91    
-92    
-93    
-94    
-95    
-96    
-97    
-98    
-99    
-100   
-101   
-102   
-103   
-104   
-105   
-106   
-107   
-108   
-109   
-110   
-111   
-112   
-113   
-114   
-115   
-116   
-117   
-118   
-119   
-120   
-121   
-122   
-123   
-124   
-125   
-126   
-127   
-128   
-129   
-130   
-131   
-132   
-133   
-134   
-135   
-136   
-137   
-138   
-139   
-140   
-141   
-142   
-143   
-144   
-145   
-146   
-147   
-148   
-149   
-150   
-151   
-152   
-153   
-154   
-155   
-156   
-157   
-158   
-159   
-160   
-161   
-162   
-163   
-164   
-165   
-166   
-167   
-168   
-169   
-170   
-171   
-172   
-173   
-174   
-175   
-176   
-177   
-178   
-179   
-180   
-181   
-182   
-183   
-184   
-185   
-186   
-187   
-188   
-189   
-190   
-191   
-192   
-193   
-194   
-195   
-196   
-197   
-198   
-199   
-200   
-201   
-202   
-203   
-204   
-205   
-206   
-207   
-208   
-209   
-210   
-211   
-212   
-213   
-214   
-215   
-216   
-217   
-218   
-219   
-220   
-221   
-222   
-223   
-224   
-225   
-226   
-227   
-228   
-229   
-230   
-231   
-232   
-233   
-234   
-235   
-236   
-237   
-238   
-239   
-240   
-241   
-242   
-243   
-244   
-245   
-246   
-247   
-248   
-249   
-250   
-251   
-252   
-253   
-254   
-255   
-256   
-257   
-258   
-259   
-260   
-261   
-262   
-263   
-264   
-265   
-266   
-267   
-268   
-269   
-270   
-271   
-272   
-273   
-274   
-275   
-276   
-277   
-278   
-279   
-280   
-281   
-282   
-283   
-284   
-285   
-286   
-287   
-288   
-289   
-290   
-291   
-292   
-293   
-294   
-295   
-296   
-297   
-298   
-299   
-300   
-301   
-302   
-303   
-304   
-305   
-306   
-307   
-308   
-309   
-310   
-311   
-312   
-313   
-314   
-315   
-316   
-317   
-318   
-319   
-320   
-321   
-322   
-323   
-324   
-325   
-326   
-327   
-328   
-329   
-330   
-331   
-332   
-333   
-334   
-335   
-336   
-337   
-338   
-339   
-340   
-341   
-342   
-343   
-344   
-345   
-346   
-347   
-348   
-349   
-350   
-351   
-352   
-353   
-354   
-355   
-356   
-357   
-358   
-359   
-360   
-361   
-362   
-363   
-364   
-365   
-366   
-367   
-368   
-369   
-370   
-371   
-372   
-373   
-374   
-375   
-376   
-377   
-378   
-379   
-380   
-381   
-382   
-383   
-384   
-385   
-386   
-387   
-388   
-389   
-390   
-391   
-392   
-393   
-394   
-395   
-396   
-397   
-398   
-399   
-400   
-401   
-402   
-403   
-404   
-405   
-406   
-407   
-408   
-409   
-410   
-411   
-412   
-413   
-414   
-415   
-416   
-417   
-418   
-419   
-420   
-421   
-422   
-423   
-424   
-425   
-426   
-427   
-428   
-429   
-430   
-431   
-432   
-433   
-434   
-435   
-436   
-437   
-438   
-439   
-440   
-441   
-442   
-443   
-444   
-445   
-446   
-447   
-448   
-449   
-450   
-451   
-452   
-453   
-454   
-455   
-456   
-457   
-458   
-459   
-460   
-461   
-462   
-463   
-464   
-465   
-466   
-467   
-468   
-469   
-470   
-471   
-472   
-473   
-474   
-475   
-476   
-477   
-478   
-479   
-480   
-481   
-482   
-483   
-484   
-485   
-486   
-487   
-488   
-489   
-490   
-491   
-492   
-493   
-494   
-495   
-496   
-497   
-498   
-499   
-500   
-501   
-502   
-503   
-504   
-505   
-506   
-507   
-508   
-509   
-510   
-511   
-512   
-513   
-514   
-515   
-516   
-517   
-518   
-519   
-520   
-521   
-522   
-523   
-524   
-525   
-526   
-527   
-528   
-529   
-530   
-531   
-532   
-533   
-534   
-535   
-536   
-537   
-538   
-539   
-540   
-541   
-542   
-543   
-544   
-545   
-546   
-547   
-548   
-549   
-550   
-551   
-552   
-553   
-554   
-555   
-556   
-557   
-558   
+1     … of the estate of Thalmou, [of wheat … artabas] …
+2     … -os and Herion, of wheat … artabas …
+3     [of the holding of Lou]simachos at Kene[m]ba[tes,][ of wheat … artabas] …
+4     of the plot of Enochios, [of wheat … artabas] …
+5     … -enog at Kenembates, [of wheat … artabas] …
+6     … me … for use of reed-bed, of wheat … artabas …
+7     … -ios — of wheat … artabas …
+8     … of the holding, [of wheat … artabas] …
+9     … [at Hermou]p[o]lis, [of wheat … artabas] …
+10    … at Th[a]lmou, of wheat … artabas …
+11    … -kelos, of w[heat][ artabas] …
+12    … t … en, solidi 7 less 30 …
+13    … ph … -ou …
+14    … 1
+15    … and of wheat 1 2/3 artabas …
+16    … e … solidi 4 less 30
+17    [from] the holding of Pet[ros' isle, for the year] … kl, solidi 4 less 24
+18    rent of the isle [added on the east of] the estates of Thalmou, 1 solidus less 6
+19    [rent] of the oil-press [of Thalmou], solidi 4 less 7
+20    [rent] of the bakery [of Thalmou], solidi 2 less 10
+21    rent of the orchard [of Thalmou], solidi 4 less 20
+22    rent of [3] cells [at Thalm]ou, 1 solidus less 5
+23    rent of the farmstead of t[he same hold]ing, 5 carats
+24    rent of cell[s 67½] at 5 carats, solidi 14, carats 1½
+25    … of the holding of Telbonthis, solidi 43 less 172
+26    [from P]apnouthios, farmer, of the fixed [r]ent, solidi 28 less 72
+27    [from I]sakios, farmer, of the fixed rent, solidi 11 less 44
+28    [from] John and Maria, partners, of fixed (rent), solidi 13 less 52
+29    rent of the dovecote [of Thalmou] — 1 solidus less 5
+30    rent of the dovecote [for] Himeros, 12 carats
+31    from the heirs of Sarapion … for Onthonobis, 1 solidus full-weight
+32    from the same heirs of Sara[pion] … -on, 1 solidus less 5
+33    from Josephios the carpenter, of the bronze-work of Kenembates, solidi 3 less 15
+34    rent of date-palms … of Kenembates, 7 carats
+35    rent of the orchard of Ke… solidi 4 less 20
+36    from the field-guards of the … 1 solidus less 5
+37    rent of the seed of Akan[thon] of Kene[mbates], 4½ carats
+38    from Paulos [farmer of Symbiches], solidi 13 less 12
+39    [from] Basilides … solidi 12 less 42
+40    [from] the far[mers] … solidi 13 less 65
+41    [from] Menas … -s, solidi 5 less 8
+42    … -s, sol[idi] …
+43    … [of a far]mer from Hermoupolis, solidi 8 …
+44    … -otroph from Hermoupolis, 1 solidus less [5]
+45    … [of the farm]stead through Kollouthos, son of Paros, 9½ carats
+46    … [of the farms]tead through John, 9½ carats
+47    … [of the farm]stead through Dioskoros, 9½ carats
+48    … [of the farm]stead through Menas, son of Dionysios, 9½ carats
+49    [total: solidi 2]1 less 695, carats 68; net solidi 174, carats 21, and
+50    for wheat 1 2/3 artabas the 9 carats, total solidi 175, carats 6
+51    … of the collector of grain-dues …
+52    … [of] the newly-planted (vines) of Aron … 15
+53    … [for] use of reed-bed of Kenembates …
+54    … of Hatres, orchard-keeper of Thalmou, according to …
+55    … likewise for the planted reed-bed … 1
+56    … from the property of Kenembates for a half part …
+57    [expenditure] of the lady for the maintenance of the servants …
+58    expenditure of the same through John, hospital-… , for benefaction, 100 artabas of wheat
+59    expenditure of the same, … of Menas the weaver, 13 artabas of wheat
+60    expenditure of the same, Kom, for the orders of the Blessed (lady), 100 artabas of wheat
+61    expenditure of the same, for the maintenance of Anastasia, 8 artabas of wheat
+62    expenditure of the most noble abba Ammonios, monk, 1 solidus less 6, 12 artabas of wheat
+63    expenditure of the same, upper, for the house, 1 artaba of wheat, 7 artabas of barley
+64    expenditure of the same, to Apollos, doorkeeper of the new church, 2 artabas of wheat
+65    expenditure of the same, for Phanera the camel-driver, of vessels … for the descent, 18 artabas of wheat
+66    to the church of Thalmou, for an offering, 6 artabas of wheat.
+67    unwritten (sums), for the bread-making of the lady through Papnouthios, assistant, 30 artabas of wheat
+68    unwritten, to Ama Maria, nurse, 12 sextarii of oil, 10 artabas of wheat
+69    expenditure of the same, for the maintenance of the servants, 30 artabas of barley
+70    expenditure of the same, for the maintenance of the servants, 15 artabas of barley
+71    expenditure of the same, upper, for the house, 23 artabas of barley
+72    expenditure of the same, upper, for the house, 6 2/3 artabas of barley
+73    unwritten, for the price of the small loaves, ½ artaba of barley
+74    total together: 743 artabas of wheat; void from the receipt of artabas the remainders, remainders 267 2/3
+75    barley 97½ artabas; void from the receipt of barley 109½ artabas, remainders of barley [12] artabas.
+76    [remain]ders 12.
+77    [exp]ense[s in gold] … of the steward
+78    for the public (tax) of the lady, [solidi 1]3 less 1½ ¼
+79    for the public (tax) of Pesla with the village houses, solidi 6, carats 18
+80    for the freight of the … [artabas] of wheat … 25 ¼ carats
+81    of empty (jars) of the holding of Panit, in [place of] … solidi 7 less 35
+82    of empty (jars) of the 3 cells of Th[almou], 1 solidus less 5
+83    of empty (jars) of the 6 cells of the [same holding, 1 solidus] 6 carats
+84    of empty (jars) of the cells of the priest of [Thal]mou, 5 carats
+85    of empty (jars) of the cell of Aron of Thalmou, 5 carats
+86    of empty (jars) of the cell of Polybleptos of the same holding, 2½ carats
+87    of empty (jars) of the cell of the hamlet of Phylax, 5 carats
+88    of empty (jars) of the cell of Andreas the lame, 5 carats
+89    of empty (jars) of the cell of Stephanos, 5 carats
+90    of empty (jars) of the cell of Dikolthes, 5 carats
+91    of empty (jars) of the farmstead of the baker, 5 carats
+92    of empty (jars) of Sarapion, farmer of Kenembates, for Kol, 1 ¼ carat
+93    of empty (jars) of the dovecote of Thalmou, 1 solidus less 5
+94    of empty (jars) of the seed of Akanthon of Kenembates, 4½ carats
+95    of empty (jars) of the holding of Isidoros, 3 carats
+96    of empty (jars) of the rent of the farmstead through Psas, farmer from Hermoupolis, 1½ carat
+97    expenditure of the lady through Theodosios the linen-merchant, solidi 3, carats 9½
+98    expenditure of the same, into (her) hands, 7 solidi full-weight
+99    expenditure of the same, for cauldrons, 1 solidus full-weight
+100   expenditure of the same, for 2 cisterns(?), 16 carats
+101   expenditure of the same, of the farming of Ar[on], 6 carats
+102   expenditure of the same, for clothing of th[e] servants, solidi 8, carats 17
+103   expenditure of the same, of husks … 1 solidus less 6
+104   from the same tax-receipt of the lady, t… 1 solidus less 6
+105   total solidi 50 less 58½ ¼, carats 145½; net solidi 53, carats 14½ ¼
+106   unwritten, for k… solidi 17 less 101
+107   unwritten, for the price of … 208 artabas, solidi 4 less 10
+108   unwritten, for the price of the cell … 2001(?) artabas, solidi 3 less 18
+109   unwritten, for the price of empty (jars) for Sarapis 207 and Meichaos 11, solidi 14 less 76
+110   unwritten, for the price of empty (jars) … Mikr 200, 7 ¼ carats
+111   of the hamlet ph… of Thalmou, 1 solidus less 6
+112   for the advance of the orchard of Kenembates, solidi 6 less 36
+113   for the advance of the newly-planted (vines) of Thalmou, solidi 4 less 24
+114   into the hands of the lady through Sophrone, 1 solidus less 6
+115   into the hands of the same through Thaesia, nurse, 1 solidus less 6
+116   for the price of barley through Taurinos the scholasticus, 1 solidus less 6
+117   for the wage of brickmakers of the plot of Aron, 1 solidus less 6
+118   for the price of the 2 watering-stones of Thalmou, 12 carats
+119   for the wage of the drummer of the estates of Kenembates, 8 carats
+120   for the wage of brickmakers of Thalmou, 3 artabas, 1 solidus full-weight
+121   for the wage of the pruning(?) of the estate of Kenembates, 8 carats
+122   for the wage of the pruning(?) of the estate of Aron, 8 carats
+123   for the price of the pruning(?) of the newly-planted (vines) of Thalmou, 1 solidus, 3 carats
+124   for the wage of the rope(?)-work of the oil-press of Thalmou, 6 carats
+125   for the price of the drum of Melas of the estate of Thalmou, 1 2/3 solidus less 10
+126   for the 2 drums bought at Hermoupolis for the newly-planted (vines) of Thalmou, 3½ solidi less 21
+127   wage of builder and workmen of the house of Aron, 6 carats
+128   for pruning(?) of the orchard of Kenembates, 5½ artabas of wheat, 2½ ¼ carats
+129   for the difference of … vessel, 27½ pounds, 13½ ¼ carats
+130   for the price of the watering(?) of the device of Kastor and Skytal…, 12 carats
+131   for the price of pruning(?) of the holding of Apollos of Thalmou, 1½ solidus less 9
+132   for the price of pruning(?) of the orchard of Thalmou, 1½ solidus less 9
+133   for the price of an axle of the estate of Thalmou through Isak the vine-dresser, 12 carats
+134   total solidi 63 1/6 less 344 [carats 98] ½ ¼; net solidi 52, carats 22½ ¼
+135   … solidi 53, carats 14½ ¼
+136   … solidi 52, carats 22½ ¼
+137   [total together: solidi] 106, carats 13½,
+138   against which receipts of solidi 175, carats 6,
+139   remainders: solidi 68, carats 16½
+140   remainders of wheat: 267 2/3 artabas; from 12 artabas of these 1 solidus less 6; the solidi 16, carats 17½
+141   remainders of barley: 12 artabas; from 15 artabas the solidi 1 less 6; the carats 14 ¼
+142   total together: solidi 86, carats 4; from which, of surplus oil 12 sextarii, ¼ ¼ carats
+143   remainders: solidi 85, carats 20; from which
+144   for the exchange of wheat against the conversion-to-silver of the account
+145   to Konstantinos the presbyter, 15 carats; remainders solidi 85, carats 5.
+146   … reception …
+147   total: 1002 1/3 artabas of wheat, 109½ artabas of barley …
+148   for the holding of Onianiskos … 10 carats; total solidi 222, carats 16
+149   from which, expenses of the same 9th indiction [th]rough [t]he same steward:
+150   for the public (tax) of Hermoupolis, 104 2/3 artabas of wheat unbruised pure, or unbruised 113 artabas
+151   for the public (tax) of Pesla, 77 1/6 artabas of wheat, pure unbruised 74 1/6 artabas
+152   for the public (tax) of Hermoupolis through the collector of grain-dues, 108 1/3 artabas of wheat
+153   for the maintenance of the servants, 112 artabas of wheat
+154   of empty (jars) of the newly-planted (vines) of the plot of Aron, 7½ artabas of wheat, 7½ artabas of barley
+155   to Ama Maria, nurse, from Sinakyr, 10 artabas of wheat, 12 sextarii of oil
+156   for the planted reed-bed of Thalmou, 1 artaba of wheat
+157   of empty (jars) of Hatres, orchard-keeper of Thalmou, 15 artabas of wheat
+158   to Elias, farmer, for the lease of newly-planted (vines) of Kenembates, 7½ artabas of wheat
+159   unwritten, of the lady through Victor the guard, into (the church of) Saint Mary, 2½ artabas of wheat
+160   unwritten, of Pkylios the baker, for the stamp(?), 4½ artabas of wheat
+161   for the distribution of (those) of Kenembates of the Blessed (lady), 12 artabas of wheat
+162   unwritten, for the price of a threshing-floor into (the church of) Saint Mary, 3 2/3 artabas of wheat
+163   unwritten, of Ama Stephanos, monk, of Antinoou, 2 artabas of wheat
+164   unwritten, into (the church of) Saint Mary, on account of the choin… 100, 5 1/3 artabas of wheat
+165   unwritten, of the fuller of Antinoou, 3 1/3 artabas of wheat
+166   unwritten, for the feeding of the birds through Phrytilla, 1/3 artaba of wheat, 1/3 artaba of barley
+167   unwritten, of the doorkeepers of the house of Kenembates, 2 artabas of wheat
+168   unwritten, for an offering of the church of Thalmou, 6 artabas of wheat
+169   unwritten, for the planting of reeds for the 8th indiction and the 9th indiction, 5 artabas of wheat
+170   unwritten, for bread-making through Konstantinos the presbyter, 42 artabas of wheat
+171   unwritten, to Ama Stephanos, likewise of the same presbyter, 22 artabas of wheat
+172   unwritten, to Tarin from Bousiris, of the same presbyter, 4 artabas of wheat
+173   unwritten, upper, to the lady, 4, into (the church of) Saint Mary through the same presbyter, 20 2/3 artabas of wheat
+174   … ku … 65 1/6 artabas of barley
+175   unwritten, of the … -or through Konstantinos, 35 1/3 artabas of barley
+176   through Zacharias … t, 4½ artabas of wheat
+177   expenditure of the lady, 25 sextarii of oil
+178   total: 580 artabas of wheat, against which the remainders of the receipt of artabas of wheat, remainders 422 2/3 artabas
+179   total: 108 1/3 artabas of barley, against which receipt of 109½ artabas of barley, remainders of barley 1 1/6 artaba
+180   total: 37 sextarii of oil.
+181   expenses in gold of the same 9th indiction of the same steward
+182   for the public (tax) of the holding, solidi 13 less 1½ ¼
+183   for the public (tax) of Pesla with the village houses, solidi 6, carats 18
+184   for the freight of the 104 2/3 artabas of wheat, pure 1 solidus, carats 1 ¼
+185   of empty (jars) of the holding of Panit, in place of 56 artabas of wheat, solidi 7 less 35
+186   of empty (jars) of the 3 cells of Thalmou, 1 solidus less 5
+187   of empty (jars) of the 6 cells of the same holding, 1 solidus, carats 6
+188   of empty (jars) of the cell of the priest of the same holding, 5 carats
+189   of empty (jars) of the cell of the baker of the same holding, 5 carats
+190   of empty (jars) of the cell of Polybleptos of the same holding, 2½ carats
+191   of empty (jars) of the cell of the hamlet of Phylax, 5 carats
+192   of empty (jars) of the cell of Andreas the lame, of the same, 5 carats
+193   of empty (jars) of the cell of Stephanos of the same holding, 5 carats
+194   of empty (jars) of the cell of Dikollouthos of the same holding, 5 carats
+195   of empty (jars) of the rent of the farmstead through the baker, 5 carats
+196   of empty (jars) of Sarapion, farmer of Kenembates, for the reed-bed, 1 ¼ carat
+197   of empty (jars) of the dovecote of Thalmou, 1 solidus less 5
+198   of empty (jars) of the seed of Akanthon of Kenembates, 4½ carats
+199   of empty (jars) of the holding of Isidoros, 3 carats
+200   of empty (jars) of the rent of the farmstead of Psas, farmer from Hermoupolis, 1½ carat
+201   expenditure of the tax-receipt of the lady, for clothing of the servants, solidi 8, carats 13
+202   expenditure of the … on account of the clerics, solidi 2 less 12
+203   total solidi 40 less 58½ ¼, carats 86; net solidi 41, carats 3 ¼.
+204   … for the washing of the Blessed (lady) …
+205   … for the funeral of the Blessed (lady) …
+206   [unwritten,][ of] the over-guard of Thalmou …
+207   [unwritten] for the wage of brickmakers of Thalmou — 1 solidus …
+208   [unwritten] for the heaping-up of the mound of the newly-planted (vines) of Kenem[bates] …
+209   un[written] for the price of bricks of the cistern of the orchard of Kenem[bates] …
+210   unwritten, for the price of flax-(seed) of the lady, 4 carats …
+211   for the price of … through Taurinos the notary, solidi 7, carats 1½
+212   unwritten, for the price of the watering(?) of the holding of Aron, 6 carats
+213   for the price of rope(?) of the oil-press of Thalmou — 6 carats
+214   unwritten, to Jeremias the builder, for various structures, 1 solidus less 6
+215   unwritten, for Zmei, of the device of Paulos, 1 2/3 saa Kel from Telbonthis, 5 carats
+216   unwritten, to the builder of the farmstead, to Alites, farmer, 5 carats
+217   unwritten, for the restoration of the cistern of Aron, 1 ¼ solidus less 7½
+218   unwritten, for the wage of pruning(?) of the holding of Lousimachos, 8 carats
+219   unwritten, for the workmen of the cistern of Aron, 1 solidus less 4
+220   unwritten, for porterage for the transport of wine of Thalmou, 1 solidus less 6
+221   unwritten, for the wage of the builder of the cistern of Aron, 9 carats
+222   unwritten, for the price of 4 baskets, ½ carat
+223   unwritten, for the distribution of Menas of the Blessed (lady), 1 2/3 solidus less 10
+224   unwritten, for the distribution of the empties(?) of the same (lady), 32 carats
+225   unwritten, for the accounting on behalf of the apportionment of Helladios, solidi 2 less 6
+226   unwritten, for the price of reed-bed of Thalmou, 8 (and) 8 artabas, solidi 11 less 66
+227   unwritten, for the price of reed-bed of the plot of Aron called 8, 1 solidus less 6
+228   unwritten, for the price of empty (jars) of Thalmou, 2879 and Mench 1952, solidi 11 less 66
+229   unwritten, for the price of empty (jars) of Aron the Small, for Melistion 80, 1 solidus less 2
+230   unwritten, for wheat of various estates, 29½ artabas of wheat, 14½ ¼ carats
+231   unwritten, by commission of the blessed Theodora, for the building of her (church of) Phoibammon, solidi 2 less 12
+232   expenditure of the lady, Choiak 26, solidi 8, carats 20
+233   expenditure of the same, Mecheir 6, 15 solidi full-weight
+234   total solidi 84½, being less 293½, carats 118½ ¼; net solidi 77, carats 15
+235   … [solidi] 3 less 18
+236   … 1½ solidus less 9
+237   … 12 carats
+238   … k … [solidi] 3, carats 21 net
+239   of P[a]ulos [solidi] 41, carats 3 ¼
+240   of Basilides, solidi 77, carats 15 ¼
+241   total together: solidi 122, carats 15½, against which receipts of solidi 222, carats 16,
+242   remainders: solidi 100, ½ carat.
+243   remainders of wheat: 422 1/3; from 12 artabas of these 1 solidus less 6; the solidi 26, carats 9½
+244   remainders of barley: 1 1/6 artaba; from 15 artabas of these 1 solidus less 6; the 1½ carat
+245   total: solidi 126, carats 11½; from which, for surplus oil 37 sextarii,
+246   of these 1 solidus full-weight [from] 70 sextarii of oil; the carats 12½
+247   remainders: solidi 126 less 1
+248   [receipts] [in gr]ain of the income …
+249   … blessed Phi … [e]th
+250   thus:
+251   [from Hat]res, farmer of Thalmou … 80 artabas of wheat
+252   [from t]he holding of Ploution … 96 artabas of wheat
+253   [from] … the holding of Mellistion … 75 artabas of wheat
+254   from [the] orchard-keeper of Thalmou, 16 artabas [of wheat]
+255   from t[he] presbyter for the oratories — 6 artabas of wheat
+256   from Kollouthos the goldsmith for … 20 artabas of wheat
+257   from Psas, farmer of the plot of Aron, 108 2/3 artabas of wheat, 100½ artabas of barley
+258   from the farmer of the plot of Enoch at Thalmou, 44 artabas of wheat
+259   from the greengrocer Korkolat, 1 2/3 artaba of wheat, 6 artabas of barley
+260   total together: 445 2/3 artabas of wheat, 106½ artabas of barley, and 1 2/3 artaba of wheat
+261   receipts in gold of the same income, 10th indiction
+262   from the plot of Phoibammon, of the holding of the isle of Thalmou, solidi 7 less 35
+263   from the farmer of the isle of Petros, for the year, solidi 4 less 24
+264   rent of the isle added on the east of the estates of Thalmou, 1 solidus less 6
+265   rent of the oil-press of Thalmou — solidi 4 less 20
+266   rent of the bakery of Thalmou, solidi 2 less 10
+267   rent of the orchard of Thalmou — solidi 4 less 20
+268   rent of the 3 cells of Thalmou, 1 solidus less 5
+269   rent of the farmstead of the same holding, 5 carats
+270   rent of cells 67½ at 5 carats
+271   solidi 14, 1½ carat
+272   rent of the dovecote of Thalmou, 1 solidus less 5
+273   rent of (the holding of) Onianiskos, solidi 52 less 110
+274   total solidi 90 less 235, carats 6½; net solidi 80, carats 11½
+275   the [exp]enses [in gr]ain of the same, of the gift of Pr[ot]amos, 10th [indiction]
+276   for the pub[lic (tax) of P]esla, 77 1/6 artabas of wheat, or of unbruised wheat 74 [1/6] artabas
+277   for the newly-planted reed-bed on the east of Thalmou, 1 artaba of wheat
+278   of empty (jars) of Hatres, orchard-keeper of Thalmou, 15 artabas of wheat
+279   for an offering of the church of Thalmou, 6 artabas of wheat
+280   Petros the pit(?)-carrier, for maintenance, 8 artabas of wheat, 4 artabas of barley
+281   the servants of Kallinikos, for maintenance, 10 artabas of wheat, 5 artabas of barley
+282   Kosmas the pit(?)-carrier, for maintenance, 8 artabas of wheat, 4 artabas of barley
+283   Pharesmanes the pit(?)-carrier, for maintenance, 5 artabas of wheat, 1½ artaba of barley
+284   Segountas, the servants, 4 artabas of wheat
+285   to Theodosios her son, 1 artaba of wheat
+286   to Herais, daughter of Theophobe, 2 artabas of wheat
+287   to Patronia, her daughter, 1 artaba of wheat
+288   to Euschyra, for maintenance, 4 artabas of wheat
+289   to Eudokia, her daughter, 2 artabas of wheat
+290   to the builder, for the wage of baked bricks of Aron, 5 artabas of wheat
+291   to Theophobe, 4 artabas of wheat
+292   total together: 150 1/6 artabas of wheat, against which receipts of 445 2/3 artabas, remainders 295½ artabas.
+293   total: 14½ artabas of barley, against which receipts of 106½ artabas, remainders of barley 92.
+294   [expens]es in gold [of the gift of Protamos], 10th indiction through the same steward
+295   [for the pub]lic (tax) of Pesla with the village houses, solidi 6, carats 18
+296   of empty (jars) of the 3 cells of Thalmou, 1 solidus less 5
+297   of empty (jars) of the 6 cells of Thalmou through the swine(?), 1 solidus, carats 6
+298   of empty (jars) of the cell of the priest, 5 carats
+299   of empty (jars) of the cell of the baker of Thalmou, 5 carats
+300   of empty (jars) of Andreas the lame, 5 carats
+301   of empty (jars) of the cell of Polybleptos of Thalmou, 2½ carats
+302   of empty (jars) of the cell of the hamlet of Phylax, 5 carats
+303   of empty (jars) of the cell of Stephanos — 5 carats
+304   of empty (jars) of the cell of Dikolthes — 5 carats
+305   of empty (jars) of the farmstead of the baker of Thalmou, 5 carats
+306   of empty (jars) of the dovecote of Thalmou, 1 solidus less 5
+307   of empty (jars) of the hamlet of Phylax of Thalmou, 1 solidus less 6
+308   for the price of reeds of Thalmou, solidi 12 less 72
+309   for the price of empty (jars) of Thalmou, of Melistion and Mikr, 61 arouras, 11½ solidi less 69
+310   for the price of empty (jars) of Aron — 1 solidus less 6
+311   for the price of reeds of Aron — 1 solidus full-weight
+312   to Theophobe, servant, 4 carats
+313   to Herais and Patronia, her daughters, 4 carats
+314   to Segounta — 4 carats
+315   to Theodosios, her son — 3 carats
+316   to Eustichyra — 4 carats
+317   to Petros and Pharesmanes her son, 11 carats
+318   to Eudokia — 3 carats
+319   unwritten, for the bricks of the plot of Aron, solidi 3 less 18
+320   unwritten, for the scholastici through Phrytila, 2 solidi full-weight
+321   unwritten, for the price of a door of the plot of Aron, 6 carats
+322   unwritten, for porterage of the empty (jars) of Aron, 6 carats
+323   total solidi 40½ less 180, carats 106½; net solidi 37, carats 10.
+324   [unwritten, for the price of the] freight of the oil of Thalmou, 1 solidus less 6
+325   unwritten, for the price of rope(?) of Thalmou, 2 (jars), 1 solidus less 6
+326   unwritten, for the freight of wine of Thalmou — 6 carats
+327   unwritten, for the cost of an army-levy imposed on Thalmou, solidi 3 less 12
+328   unwritten, to the river-men(?), for the restoration of the newly-planted (vines) of Thalmou, 6 carats
+329   unwritten, for the price of pruning(?) and an axle of Korkolat, 13 carats
+330   unwritten, for the price of bricks of Aron, 1 solidus less 6
+331   unwritten, for various grain-(stuffs), 36 pounds — 1 solidus less 6
+332   unwritten, for the price of a small drum released to the holding of Thalmou, 1 2/3 solidus less 10
+333   unwritten, for the price of a small drum of the holding of Ploution, 1 2/3 solidus less 10
+334   unwritten, for the price of an axle of the device of Psas, farmer of Thalmou, 12 carats
+335   total solidi 10 1/3 less 56, carats 37; net solidi 9, carats 13, and
+336   of the 1st page: solidi 37, carats 10½
+337   total solidi 47 less ½; against which receipts of solidi 80, carats 11½; remainders solidi 33, carats 12
+338   and for wheat 1 2/3 artabas the 9 carats; together remainders solidi 33, carats 21.
+339   upon the same, receipts in grain of the gift of Protamos, 11th indiction
+340   as follows: wheat 405 2/3 artabas, barley 106½ artabas, solidi 80, carats 20½
+341   from which expenses as follows:
+342   for the public (tax) of Pesla, dirty 77 1/6 artabas, or of unbruised wheat 74 1/6 artabas
+343   for the planted reed-bed of Thalmou, 1 artaba of wheat
+344   of empty (jars) of Hatres, orchard-keeper of Thalmou, 15 artabas of wheat
+345   for an offering of the church of Thalmou, 6 artabas of wheat
+346   Petros the pit(?)-carrier, for maintenance, 8 artabas of wheat, 4 artabas of barley
+347   Kosmas, brother, 8 artabas of wheat, 4 artabas of barley
+348   Euti, their mother — 4 artabas of wheat, 5 artabas of barley
+349   to Eudokia, 2 artabas of wheat
+350   to Pharesmanes her son — 5 artabas of wheat, 1½ artaba of barley
+351   to Theophobe, 5 ¼ artabas of wheat
+352   of Herais and Patronia, 3 artabas of wheat
+353   to Segounta, 5 ¼ artabas of wheat
+354   to Theodosios her son, 1 artaba of wheat
+355   for the unwatered (land) of the holding of Ploution, 48 artabas of wheat
+356   of empty (jars) of the unwatered (land) of the holding of John (of) Enoch, 20 artabas of wheat
+357   of empty (jars) of the unwatered (land) of the holding of Aron, 36 1/6 artabas of wheat, 33½ artabas of barley
+358   total: 241½ ninth artabas of wheat, against which receipts
+359   of 445 2/3 artabas, remainders 203½ 1/3 artabas
+360   total: 41 artabas of barley, against which receipts of 106½ artabas, remainders of barley 58½
+361   expenses in gold of the [same] gift of [P]rotamos, 11th indiction:
+362   for the public (tax) of Pesla with the village houses, solidi 6, carats 18
+363   of empty (jars) for the various cells of Thalmou, solidi 3, carats 14½
+364   rent of the dovecote of Thalmou, 1 solidus less 5
+365   of empty (jars) of the field-guards of the over-guard of Thalmou, 1 solidus less 6
+366   unwritten, for the price of reeds of Thalmou, solidi 20 less 120
+367   unwritten, for the price of empty (jars) of Thalmou, of Melistion 1854 and Mikr 2491, solidi 10 less 54
+368   unwritten, for the price of reeds of Aron, solidi 2 less 12
+369   unwritten, for porterage of reed-bed of Thalmou, 1 2/3 solidus less 10
+370   unwritten, for porterage of reed-bed of Aron, 6 carats
+371   unwritten, for the price of empty (jars) of Aron, 1 solidus less 4
+372   to Theophobe, 4 carats
+373   to Segounta and her son — 7 carats
+374   of Herais and Patronia, 4 carats
+375   to Euti and her sons — 26 carats
+376   for the price of oil of the maintenance-(ration), 11th indiction, 43 sextarii, 1 solidus less 2
+377   of empty (jars) of the unwatered (land) through Kauer, farmer of Thalmou, solidi 2 less 3½ ¼
+378   of empty (jars) of the unwatered (land) of the Prothesis(?) isle, 6 carats
+379   unwritten, for the distribution of Meni of the Blessed (lady), 27 ¼ carats
+380   unwritten, for various grain-(stuffs), 11½ pounds, 5½ ¼ carats
+381   for the wage of workmen for the rushes(?) of the holding of Thalmou, 1 solidus less 6
+382   for the price of pruning(?) of the holding of Ploution of Thalmou, 1½ solidus less 9
+383   for the price of poles and timbers of Anoor, of the same device, 6 carats
+384   for the price of an axle of the plot of Omar of Thalmou, 12 carats
+385   for the price of poles, 26, and timbers of Anoor of Psas, farmer, 6 carats
+386   for the price of an axle of the holding of John (of) Enochios, 12 carats
+387   for the price of a small drum of Psas, farmer of Thalmou, 1 2/3 solidus less 10
+388   for the price of the watering(?), 3, of the devices of Thalmou, carats 1[3]½
+389   for various grain-(stuff) vessels, 20½ pounds, 10 ¼ carats
+390   total solidi 52½ 1/3 less 241½ ¼, carats 178 ¼; net solidi 50, carats 4½
+391   u[pon] the same, expen[ses] solidi 50, carats 4½,
+392   against which receipts in gold of solidi 80, carats 20½; remainders solidi 30, carats 16
+393   receipts in grain of the income of the blessed
+394   Theodora, after the account of the gift of Protamos, 11th indiction, through the same steward:
+395   from the holding of Lousimachos at Kenembat, 80 artabas of wheat
+396   from the heirs of Sarapion at Kenembat, 90 artabas of wheat
+397   from the farmer of the plot of the orchard-keeper of Kenembates, 6 artabas of wheat
+398   from those from Panit, for Himeros the farmer, 104 artabas of wheat
+399   from Paulos, farmer of Symbiches, 95 artabas of wheat
+400   from Victor from Poeis, 134 artabas of wheat
+401   from those from Panit, likewise, in place of solidi 7 less 35, 56 artabas of wheat
+402   from the vine-dressers of Kenembates — 3 artabas of barley
+403   total: 565 artabas of wheat, 3 artabas of barley
+404   receipts in gold of the same, 10th indiction, as follows:
+405   from the holding of Telbonthis, of Genas the farmer, solidi 43 less 172
+406   from Papnouthios, farmer of the plot of Kastor, solidi 18 less 72
+407   from Isakios of the holding of Onophrios, solidi 11 less 44
+408   from John and Maria of the plot of Schoin, solidi 13 less 52
+409   rent of the dovecote of Kenembates, for Himeros, 12 carats
+410   from the heirs of Sarapion of Kenembates, for Syntheus, 1 solidus full-weight
+411   from the same, for barley, 1 solidus less 5
+412   from Josephios the carpenter at Kenembat, solidi 3 less 15
+413   rent of date-palms of the estate of Kenembates, 7 carats
+414   rent of the orchard-keeper of Kenembates, solidi 4 less 20
+415   from the field-guards of the same holding, 1 artaba of wheat, 1 solidus less 5
+416   rent of seeds of Akanthon of the same, 4½ carats
+417   from Paulos, farmer of Symbiches, solidi 13 less 12
+418   from Basilides, farmer from Hermoupolis, solidi 12 less 42
+419   from the farmers of Panit, solidi 13 less 65
+420   from Menas and Pkylios from Thynis, solidi 5 less 8
+421   from Papnouthios, farmer from Ophis, solidi 13 less 6
+422   from the farmers from Isidoros, solidi 3 less 15
+423   from Ammonios, farmer from Hermoupolis, solidi 8 less 32
+424   from Enoiktys the bird-keeper, 1 solidus less 5
+425   rent of the farmstead of Kollouthos, from Hate, 9½ carats
+426   rent of the farmstead of Dioskoros, 9½ carats
+427   rent of the farmstead of Menas, son of Dionysios, 9½ carats
+428   rent of the farmstead through John, 9½ carats
+429   total solidi 163 less 570, carats 61½; net solidi 141, carats 19½
+430   expe[n]ses in grain of the income of the Blessed (lady),
+431   after the account of the gift of Protamos, 10th indiction:
+432   for the public (tax) of Hermoupolis, pure 104 2/3 artabas, of unbruised wheat 113 artabas
+433   for the public (tax) of the holding through the collector of grain-dues, 108 1/3 artabas of wheat
+434   to the doorkeeper of Kenembates, 2 artabas of wheat
+435   of empty (jars) of the reed-bed of Kenembates, 2½ artabas of wheat
+436   rations of the servants, 82 artabas of wheat, 27½ artabas of barley
+437   to Ama Maria, nurse, 12 sextarii of oil, 10 artabas of wheat
+438   total: 317½ 1/3 artabas of wheat, against which receipts of 565 artabas, [remain]ders 247 1/6 artabas of wheat
+439   barley 27½ artabas, against which receipts of 3 artabas, surplus 24½, 12 sextarii of oil
+440   the barley and oil were lightened from the gold account of the 10th indiction.
+441   expenses in gold of the income
+442   of the Blessed (lady), after the account of the gift of Protamos,
+443   thus:
+444   [for the pub]lic (tax) of the holding of Hermoupolis, solidi 13 less 1½ ¼
+445   freight of the 104 2/3 artabas, pure 1 solidus, 1 ¼ carat
+446   [of empty (jars)] of Sarapion of Kenembates, for the reed-bed, 1 ¼ carat
+447   [of em]pty (jars) of the seed of Akanthon of Kenembates, 4½ carats
+448   [of emp]ty (jars) of the holding at Isidoros — 3 carats
+449   [of empt]y (jars) of the holding at Panit, in place of 56 artabas, solidi 7 less 35
+450   [of em]pty (jars) of the rent of the farmstead of Psas from Hermoupolis, 1½ carat
+451   of empty (jars) of the bird-keeper, 8th indiction and 9th and 10th indiction, 3 carats
+452   unwritten, for the price of reed-bed of Kenembates, solidi 8 less 48
+453   unwritten, for the price of a device fitted out, of Isakios, farmer of Telbonthis, solidi 12 less 72
+454   unwritten, for grain-(stuff) vessels of the device of Kenembates, 4 pounds, 2 carats
+455   unwritten, for the price of chaff on account of the fences of Aron, 3 carats
+456   unwritten, for the price of baked bricks of the cistern of Kenembates, 4½ carats
+457   unwritten, for the wage of the hired (workers) of the newly-planted (vines) of Kenembates, 1 solidus less 6
+458   unwritten, for the price of chaff on account of the same hired (workers), 1 solidus less 6
+459   unwritten, for empty (jars) of the plot of Kastor at Telbonthis, from the 8th to the 11th indiction, solidi 12 less 48
+460   unwritten, for the wage of poles of the device of the place N of Kenembates, 4½ carats
+461   unwritten, for poles of the plot of Kastor at Telbonthis, 6 carats
+462   unwritten, for the price of pruning(?) of the same holding, solidi 2 less 12
+463   unwritten, for the distribution of the year of the Blessed (lady), 1 2/3 solidus less 10
+464   for clothing of the servants, solidi 6, carats 13
+465   total solidi 64 ninth ninth less 238½ ¼, carats 47½; net solidi 56, carats 16½ ¼,
+466   against which receipts of solidi 141, carats 19½; remainders solidi 85, carats 2½ ¼
+467   of which, for surplus barley of 24½ artabas and from 15 the 1 solidus less 6; 1 solidus, carats 5½,
+468   and for oil of 12 sextarii, 6 carats; 1 solidus, carats 11½; remainders solidi 83, carats 15 ¼.
+469   receipts of the same incom[e of the] Blessed (lady), after t[he] account
+470   of th[e] gift of Protamos, 11th indiction, of the same steward
+471   as follows: wheat 565 artabas, barley 3 artabas, solidi 141, carats 19½
+472   expenses in grain of the income of the same, 11th indiction, thus:
+473   for the public (tax) of Hermoupolis, pure 104 2/3 artabas, or of unbruised wheat 113 artabas
+474   for the public (tax) of the holding through the collector of grain-dues, 108 1/3 artabas of wheat
+475   to the doorkeeper of Kenemb[ates], [artabas] of wheat 2
+476   of empty (jars) of the reed-bed of Kenembates, 2½ artabas of wheat
+477   to Ama Maria, nurse, from Sinakyr, 12 sextarii of oil, 10 artabas of wheat
+478   for the … 14, for maintenance, 76½ artabas of wheat, 32½ artabas of barley
+479   of empty (jars), for the unwatered (land) of Elias, farmer of [Ke]nembates, from 87½ artabas, 29 1/6 artabas of wheat
+480   of empty (jars) of the heirs of Sarapion, for the unwatered (land) at Kenembat, from 80 artabas, 26 2/3 artabas of wheat
+481   of empty (jars), for the … at Kenembat, of 6 artabas, 2 artabas of wheat
+482   of empty (jars) of the holding of Poeis … rent, 134 artabas of wheat
+483   of empty (jars), for the holding of Panit, from 104 artabas, 52 artabas of wheat
+484   of empty (jars) of the same holding, for the unwatered (land), in place of 57 artabas of wheat in excess, 28 artabas of wheat
+485   of empty (jars), for the unwatered (land) at Symbiches, from 95 artabas, 31 2/3 artabas of wheat
+486   total: 615½ 1/3 artabas of wheat, against which receipts of 565 artabas, surplus 50½ 1/3 artabas of wheat
+487   total together: 32½ artabas of barley, against which receipts of 3 artabas of barley, surplus
+488   29½ artabas of barley, 12 sextarii of oil
+489   the barley and the oil were lightened from the gold expense of the same 11th indiction.
+490   [exp]enses in g[old of] the same income [of the 11th indiction] r … solidi 1 … ½ ¼
+491   for the freight of the 104 2/3 artabas, pure 1 solidus, 1 ¼ carat
+492   of empty (jars) of Sarap[ion] of Kenembates, for the reed-bed, 1 ¼ carat
+493   [of em]pty (jars) of the seed of Akanth[on] of Kenembates, 4½ carats
+494   of empty (jars) of the holding of Isidoros, 3 carats
+495   of empty (jars) of the holding at Panit, in place of 56 artabas of wheat, solidi 7 less 35
+496   of empty (jars) of the rent of the farmstead of Hermoupolis, 1½ carat
+497   unwritten, for … -otos of Victor …
+498   unwritten, for the wage of 2 pruners(?) at Telbonthis, 1 solidus less 6
+499   for the price of oil of the maintenance-(ration) of the servants, 80 sextarii, solidi 2 less 8
+500   for clothing of the servants, solidi 6, carats 13
+501   of empty (jars), for the unwatered (land) of Genas the farmer, from solidi 43 less 172, solidi 14 1/3 less 57 1/3
+502   of empty (jars) of Isakios, farmer of Telbonthis, from solidi 11 less 44, solidi 3 2/3 less 14 2/3
+503   of empty (jars) of Abram, farmer of Telbonthis, from solidi 15 less 60, solidi 5 less 20
+504   of empty (jars) of Petros, farmer of Telbonthis, from solidi 13 less 52, solidi 4 2/3 less 17 1/3
+505   of empty (jars) of the holding at Symbiches, from solidi 16 less 84, solidi 5 1/3 less 28
+506   of empty (jars) of the holding of Ophis, from solidi 13 less 6, solidi 4 less 2
+507   unwritten, for the price of reed-bed of Kenembates, solidi 8 less 45
+508   of empty (jars) of Elias, farmer of Isidoros, from solidi 3 less 18, 1 solidus less 6
+509   of empty (jars) of Elias, farmer of Kenembates, from 24 carats, 8 carats
+510   of empty (jars) of the same, for barley, from 1 solidus less 5, 6 ¼ carats
+511   of empty (jars), for the unwatered (land) of the holding of Panit, from 6 solidi, solidi 3 less 15
+512   total solidi 80 less 262, carats 38½ ¼; net solidi 70, carats 16½ ¼
+513   against which receipts of solidi 141, carats 19½; remainders solidi 71, carats 2½ ¼
+514   from which, for surplus of barley
+515   29½ artabas, and from 15 of these 1 solidus less 6; the 1 solidus, carats 11½
+516   for surplus of oil, 12 sextarii; 6 carats
+517   1 solidus, carats 17½; remainders solidi 69, carats 9 ¼.
+518   remainders of the 8th indiction, solidi 85, carats [5]
+519   remainders of the 9th indiction, solidi 126 [less 1]
+520   remainders of the inc[om]e of the Blessed (lady), 10th indiction
+521   after the account of the gift of [P]rotamos, solidi 83, [carats 15] ¼
+522   remainders of wheat of the same 10th indiction, 247 [1/6] artabas of wheat
+523   total, from [which], for surplus of wheat of the 11th indiction, [50½] 1/3 artabas, remainders of wheat 196 [1/3] artabas
+524   remainders in gold of the 11th in[diction], solidi 69, carats [9 ¼]
+525   for the price of oil of the holding of Lousimachos, of 4 indiction-years, [13] carats
+526   broken up with Kent, 92 sextarii of oil, the solidi; 1 solidus, carats 14,
+527   total together: remainders of the 4 years, 196 1/3 artabas of wheat, solidi 365, carats 5½.
+528   the third through Christodoros the count, 65½ artabas of wheat, solidi 121, carats 22
+529   the third through Dorotheos the count, 65½ artabas of wheat, solidi 121, carats 22
+530   the third through Germanos the count, 65½ artabas of wheat, solidi 121, carats 22.
+531   remain[ders] …
+532   … [of wheat 4]99 1/3 artabas, of barley [150 ¼] artabas
+533   the half through Ger[m]anos the count, [249 2/3 artabas of wheat, 75 ¼ artabas of barley]
+534   the fourth [through Christodoros the count] of wheat [129½ 1/3 artabas, 75 artabas of barley]
+535   the [fourth through D]orotheos the count, [1]24½ 1/3 artabas of wheat, 75 artabas of barley
+536   total together, of the count Germanos.
+537   thus:
+538   315 1/6 artabas of wheat
+539   the same, 75 ¼ artabas of barley
+540   solidi 154, carats 4½.
+541   total of the count Christodoros
+542   solidi 138, 1 ¼ carat, and 190 1/3 artabas of wheat, 37½ artabas of barley.
+543   total of the count Dorotheos
+544   solidi 138, 1 ¼ carat, and 190 1/3 artabas of wheat, 37½ artabas of barley.
+545   f[rom] 400 …
+546   [from] the same ch …
+547   from the same e …
+548   expenditure of the same l …
+549   fr[om] the 5(?) …
+550   expenditure of the Blessed Theodora, leather(?) …
+551   expenditure of the same, Hathyr 11, 8th indiction, of wheat … artabas …
+552   expenditure of Taurinos …
+553   expenditure of the same, Ha[thy]r 18, 10th indiction …
+554   for the price of fodder, 65, through a count …
+555   for the price of wool through t[he same] count …
+556   for the price of poultry through the count Archi… …
+557   expenditure (item) doubtful, solidi 7, carats 16
+558   carried over: solidi.
