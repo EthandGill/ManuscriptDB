@@ -791,776 +791,776 @@ r.772  παραχρῆμα δραχμαὶ δ
 r.773  γίνονται Β
 
 [TRANSLATION]
-1     
-2     
-3     
-4     
-5     
-6     
-7     
-8     
-9     
-10    
-11    
-12    
-13    
-14    
-15    
-16    
-17    
-18    
-19    
-20    
-21    
-22    
-23    
-24    
-25    
-26    
-27    
-28    
-29    
-30    
-31    
-32    
-33    
-34    
-35    
-36    
-37    
-38    
-39    
-40    
-41    
-42    
-43    
-44    
-45    
-46    
-47    
-48    
-49    
-50    
-51    
-52    
-53    
-54    
-55    
-56    
-57    
-58    
-59    
-60    
-61    
-62    
-63    
-64    
-65    
-66    
-67    
-68    
-69    
-70    
-71    
-72    
-73    
-74    
-75    
-76    
-77    
-78    
-79    
-80    
-81    
-82    
-83    
-84    
-85    
-86    
-87    
-88    
-89    
-90    
-91    
-92    
-93    
-94    
-95    
-96    
-97    
-98    
-99    
-100   
-101   
-102   
-103   
-104   
-105   
-106   
-107   
-108   
-109   
-110   
-111   
-112   
-113   
-114   
-115   
-116   
-117   
-118   
-119   
-120   
-121   
-122   
-123   
-124   
-125   
-126   
-127   
-128   
-129   
-130   
-131   
-132   
-133   
-134   
-135   
-136   
-137   
-138   
-139   
-140   
-141   
-142   
-143   
-144   
-145   
-146   
-147   
-148   
-149   
-150   
-151   
-152   
-153   
-154   
-155   
-156   
-157   
-158   
-159   
-160   
-161   
-162   
-163   
-164   
-165   
-166   
-167   
-168   
-169   
-170   
-171   
-172   
-173   
-174   
-175   
-176   
-177   
-178   
-179   
-180   
-181   
-182   
-183   
-184   
-185   
-186   
-187   
-188   
-189   
-190   
-191   
-192   
-193   
-194   
-195   
-196   
-197   
-198   
-199   
-200   
-201   
-202   
-203   
-204   
-205   
-206   
-207   
-208   
-209   
-210   
-211   
-212   
-213   
-214   
-215   
-216   
-217   
-218   
-219   
-220   
-221   
-222   
-223   
-224   
-225   
-226   
-227   
-228   
-229   
-230   
-231   
-232   
-233   
-234   
-235   
-236   
-237   
-238   
-239   
-240   
-241   
-242   
-243   
-244   
-245   
-246   
-247   
-248   
-249   
-250   
-251   
-252   
-253   
-254   
-255   
-256   
-257   
-258   
-259   
-260   
-261   
-262   
-263   
-264   
-265   
-266   
-267   
-268   
-269   
-270   
-271   
-272   
-273   
-274   
-275   
-276   
-277   
-278   
-279   
-280   
-281   
-282   
-283   
-284   
-285   
-286   
-287   
-288   
-289   
-290   
-291   
-292   
-293   
-294   
-295   
-296   
-297   
-298   
-299   
-300   
-301   
-302   
-303   
-304   
-305   
-306   
-307   
-308   
-309   
-310   
-311   
-312   
-313   
-314   
-315   
-316   
-317   
-318   
-319   
-320   
-321   
-322   
-323   
-324   
-325   
-326   
-327   
-328   
-329   
-330   
-331   
-332   
-333   
-334   
-335   
-336   
-337   
-338   
-339   
-340   
-341   
-342   
-343   
-344   
-345   
-346   
-347   
-348   
-349   
-350   
-351   
-352   
-353   
-354   
-355   
-356   
-357   
-358   
-359   
-360   
-361   
-362   
-363   
-364   
-365   
-366   
-367   
-368   
-369   
-370   
-371   
-372   
-373   
-374   
-375   
-376   
-377   
-378   
-379   
-380   
-381   
-382   
-383   
-384   
-385   
-386   
-387   
-388   
-389   
-390   
-391   
-392   
-393   
-394   
-395   
-396   
-397   
-398   
-399   
-400   
-401   
-402   
-403   
-404   
-405   
-406   
-407   
-408   
-409   
-410   
-411   
-412   
-413   
-414   
-415   
-416   
-417   
-418   
-419   
-420   
-421   
-422   
-423   
-424   
-425   
-426   
-427   
-428   
-429   
-430   
-431   
-432   
-433   
-434   
-435   
-436   
-437   
-438   
-439   
-440   
-441   
-442   
-443   
-444   
-445   
-446   
-447   
-448   
-449   
-450   
-451   
-452   
-453   
-454   
-455   
-456   
-457   
-458   
-459   
-460   
-461   
-462   
-463   
-464   
-465   
-466   
-467   
-468   
-469   
-470   
-471   
-472   
-473   
-474   
-475   
-476   
-477   
-478   
-479   
-480   
-481   
-482   
-483   
-484   
-485   
-486   
-487   
-488   
-489   
-490   
-491   
-492   
-493   
-494   
-495   
-496   
-497   
-498   
-499   
-500   
-501   
-502   
-503   
-504   
-505   
-506   
-507   
-508   
-509   
-510   
-511   
-512   
-513   
-514   
-515   
-516   
-517   
-518   
-519   
-520   
-521   
-522   
-523   
-524   
-525   
-526   
-527   
-528   
-529   
-530   
-531   
-532   
-533   
-534   
-535   
-536   
-537   
-538   
-539   
-540   
-541   
-542   
-543   
-544   
-545   
-546   
-547   
-548   
-549   
-550   
-551   
-552   
-553   
-554   
-555   
-556   
-557   
-558   
-559   
-560   
-561   
-562   
-563   
-564   
-565   
-566   
-567   
-568   
-569   
-570   
-571   
-572   
-573   
-574   
-575   
-576   
-577   
-578   
-579   
-580   
-581   
-582   
-583   
-584   
-585   
-586   
-587   
-588   
-589   
-590   
-591   
-592   
-593   
-594   
-595   
-596   
-597   
-598   
-599   
-600   
-601   
-602   
-603   
-604   
-605   
-606   
-607   
-608   
-609   
-610   
-611   
-612   
-613   
-614   
-615   
-616   
-617   
-618   
-619   
-620   
-621   
-622   
-623   
-624   
-625   
-626   
-627   
-628   
-629   
-630   
-631   
-632   
-633   
-634   
-635   
-636   
-637   
-638   
-639   
-640   
-641   
-642   
-643   
-644   
-645   
-646   
-647   
-648   
-649   
-650   
-651   
-652   
-653   
-654   
-655   
-656   
-657   
-658   
-659   
-660   
-661   
-662   
-663   
-664   
-665   
-666   
-667   
-668   
-669   
-670   
-671   
-672   
-673   
-674   
-675   
-676   
-677   
-678   
-679   
-680   
-681   
-682   
-683   
-684   
-685   
-686   
-687   
-688   
-689   
-690   
-691   
-692   
-693   
-694   
-695   
-696   
-697   
-698   
-699   
-700   
-701   
-702   
-703   
-704   
-705   
-706   
-707   
-708   
-709   
-710   
-711   
-712   
-713   
-714   
-715   
-716   
-717   
-718   
-719   
-720   
-721   
-722   
-723   
-724   
-725   
-726   
-727   
-728   
-729   
-730   
-731   
-732   
-733   
-734   
-735   
-736   
-737   
-738   
-739   
-740   
-741   
-742   
-743   
-744   
-745   
-746   
-747   
-748   
-749   
-750   
-751   
-752   
-753   
-754   
-755   
-756   
-757   
-758   
-759   
-760   
-761   
-762   
-763   
-764   
-765   
-766   
-767   
-768   
-769   
-770   
-771   
-772   
-773   
+1     Syros, son of …
+2     on the spot, [4 drachmas]
+3     total, 2400
+4     Orsenouphis, son of P[apeis]
+5     on the spot, 4 drachmas
+6     and of copper, [600]
+7     total, 2600
+8     Nekthnouphis, son of Satab[ous]
+9     Didas the fishmonger of Boubastos, [2000]
+10    total, 2000
+11    Anoubas, son of [Satabous]
+12    Syros …
+13    on the spot …
+14    total, 2000
+15    Pekysis, son of Her[akles]
+16    Didas the fishmonger of Boubastos, 2200
+17    on the spot, [800]
+18    total, 3000
+19    Nebches, son of Stotoetis
+20    Syros, 200
+21    Kastoras, 2000
+22    [Tese]nouphis, son of Akeus
+23    on the spot, 4 drachmas
+24    and … , 600 (?)
+25    total, 2600
+26    Patynis, son of Patynis
+27    Neilos of Berenikis, 2800
+28    Laches of Boubastos, 800
+29    total, 3600, of which wage 600
+30    whole, 3000
+31    Damas, son of Satabous
+32    Syros, 1000
+33    on the spot, 1000
+34    total, 2000
+35    Pekysis the brickmaker of the god
+36    Neilos of Berenikis, 400
+37    on the spot, 4 drachmas
+38    total, 2400
+39    Pemais, son of Patynis
+40    Syros, 1400
+41    Kastoras, 2600
+42    Laches of Boubastos, 200
+43    total, 4200
+44    Pekysis the brickmaker of the estate
+45    on the spot, 4 drachmas
+46    total, 2000
+47    [Pe]mais, son of Pemais
+48    … of Boubastos, 1600
+49    … 2000
+50    Da[ma]s, son of Akeus
+51    Eth[nos] … horinos …
+52    Did[as] the fishmonger of Boubastos
+53    total, 2000
+54    Hor[os], son of Pemais
+55    Sy[ros], [800]
+56    La[che]s of Boubastos, 600
+57    on the spot, [4] drachmas
+58    total, 3400
+59    Ak[es] the brickmaker of the estate
+60    Laches the fishmonger of Boubastos, [700]
+61    total, 700
+62    Dam[as], son of Horos
+63    on the spot, 4 drachmas
+64    and of copper, 800
+65    total, 2800
+66    Patynis, son of Satabous
+67    Horion, 600
+68    Neilos of Berenikis, …
+69    on the spot, 4 drachmas
+70    total, …
+71    [Pek]ysis, son of Anchoph[is]
+72    Laches of Boubastos, [800]
+73    on the spot, [4 drachmas]
+74    total, 2800
+75    Satabous the brickmaker of the estate
+76    on the spot, 4 drachmas
+77    total, 2000
+78    P[enee]us, son of [Horos]
+79    Pekysis, son of Panechotes
+80    Syros, 200
+81    on the spot, 8 drachmas
+82    total, 4200, of which wage 1000
+83    of the whole, 3200
+84    Damas, son of Panomieus
+85    on the spot, 4 drachmas
+86    and of copper, 400
+87    total, 2400
+88    Patynis the headman
+89    Neilos of Berenikis, 1200
+90    total, 1200, he has (it)
+91    total, 10 talents 2800 and wage 2900
+92    total, 10 talents 5700, of which each one a tenth
+93    Syros, 1 talent 600 drachmas
+94    on the spot, 60 drachmas, 5 talents
+95    and of copper, 4600
+96    and of relish, 1 sil(ignis?), 600
+97    Didas of Boubastos, 5800
+98    Kastoras, 4600
+99    Neilos of Berenikis, 4800
+100   Laches, 4700
+101   Theo on the (8th?), 2000
+102   Ethnos, 800; horinos, 400
+103   Horion, 600
+104   equal
+105   the 6th has been assigned
+106   Patynis, son of Satabous
+107   Neilos of Berenikis, 1600
+108   on the spot, 4 drachmas
+109   total, 3000, of which wage 600
+110   Pekysis, son of Panechotes
+111   Syros, [2600]
+112   Horion, [800]
+113   Neilos of Berenikis, [600]
+114   on the spot, 800
+115   total, 4800, of which wage [2000]
+116   of the whole, 2800
+117   Pekysis, son of Herakles
+118   Ethnos, Melanat … 800
+119   Damas the workman, 800
+120   on the spot, 1400
+121   total, 3000
+122   Da[mas], son of Satabous
+123   [Lach]es of Boubastos, 1800
+124   [Kast]oras, 1200
+125   total, [3000]
+126   Tesenouphis, son of Akeus
+127   Didas of Boubastos, 2000
+128   Kastoras, 1600
+129   total, 3600, of which wage 1000
+130   of the whole, 2600
+131   Pemais, son of Pemais
+132   Syros, 1000
+133   Laches of Boubastos, 1000
+134   Didas of Boubastos, 2000
+135   Neilos of Berenikis, 1000
+136   total, 5000, of which wage 2000
+137   of the whole, 3000
+138   Nebches
+139   Syros, [1000]
+140   on the spot, 2000
+141   total, 3000
+142   Akes the brickmaker of the estate
+143   Laches of Boubastos, 1800
+144   total, 1800
+145   Harmieus, son of Harmieus
+146   Syros, 3000
+147   total, 3000
+148   Damas, son of Akeus
+149   Didas the fishmonger of Boubastos, 1200
+150   on the spot, 1600
+151   total, 2800
+152   Patynis and Pemais
+153   Syros, 200
+154   Kastoras, 5600
+155   total, 5800, of which wage 200
+156   of the whole, 5600, of which Pemais 3000
+157   Patynis, 2600
+158   Pekysis the brickmaker of the estate
+159   Didas of Boubastos, 3200
+160   total, 3200
+161   Peneeus, son of Horos
+162   of Syros, 1800
+163   on the spot, 4 drachmas
+164   total, 3800, of which wage 1000
+165   of the whole, 2800
+166   Anoubas, son of Satabous
+167   on the spot, 8 drachmas
+168   total, 4000, of which wage 1000
+169   of the whole, 3000
+170   Satabous the brickmaker of the estate
+171   on the spot, 4 drachmas
+172   total, 2000
+173   Pekysis, son of Anchophis
+174   Syros, 1000
+175   Laches, 2000
+176   total, 3000
+177   Horos, son of Pemais
+178   Laches of Boubastos, 1200
+179   on the spot, 2000
+180   total, 3200
+181   Nekthnouphis, son of Satabous
+182   Kastoras, 1600
+183   on the spot, 1000
+184   total, 2600
+185   Pekysis the brickmaker of the god
+186   Neilos of Berenikis, 2000
+187   total, 2000
+188   Damas, son of Horos
+189   on the spot, 8 drachmas
+190   total, 4000, of which wage 1000
+191   of the whole, 3000
+192   Nebches, son of Stotoetis
+193   on the spot, 4 drachmas
+194   total, 2000
+195   Damas, son of Panomieus
+196   Ethnos, first … of Berenikis, 800
+197   on the spot, 200
+198   total, 1000
+199   Orsenouphis, son of Papeis
+200   on the spot, 3000
+201   total, 3000
+202   total of copper, 10 talents 4400, and wage 1 talent 2800
+203   total, 12 talents 1200, of which each a tenth
+204   Syros, 1 talent 4600
+205   Ethnos, 1600
+206   Damas the workman, 800
+207   on the spot, 32 drachmas, 2 talents 4000
+208   and of copper, others, 1 talent 4800
+209   Laches, 1 talent 1800
+210   Kastoras, 1 talent 4000
+211   Neilos of Berenikis, 1 talent 400
+212   Didas of Boubastos, 1 talent 2400
+213   Horion the donkey-driver, 800
+214   equal
+215   the 7th has been assigned
+216   Peneeus, son of Horos
+217   Ethnos, under the elders, 1000
+218   Syros, 1000
+219   total, 2000
+220   Nekthnouphis, son of Satabous
+221   Didas the fishmonger of Boubastos, 2000
+222   on the spot, 600
+223   total, 2600
+224   Damas, son of Horos
+225   Didas of Boubastos, 2000
+226   on the spot, 4 drachmas
+227   total, 4000, of which wage 1000
+228   of the whole, 3000
+229   Pekysis the brickmaker of the god
+230   on the spot, 4 drachmas
+231   total, 2000
+232   Pekysis, son of Panechotes
+233   Didas the fishmonger of Boubastos, 2800
+234   Syros, 400
+235   total, 3200
+236   Horos, son of Pemais
+237   Syros, 3000
+238   Laches of Boubastos, 1800
+239   total, 4800, of which wage 1800
+240   of the whole, 3000
+241   Pekysis, son of Anchophis
+242   Didas the fishmonger of Boubastos, 800
+243   Laches the fishmonger of Boubastos, 200
+244   total, 1000
+245   Pekysis the brickmaker of the estate
+246   Kastoras, 2000
+247   total, 2000
+248   Anoubas, son of Satabous
+249   Laches the fishmonger of Boubastos, 800
+250   Ethnos the donkey-driver, 800
+251   relish, 800; to Chairemon the deacon, 1200
+252   total, 2800
+253   Nebches, son of Stotoetis
+254   Syros, 1600
+255   on the spot, 4 drachmas
+256   total, 3600
+257   Pekysis, son of Herakles
+258   Laches the fishmonger of Boubastos, 1400
+259   total, 1400
+260   Damas, son of Satabous
+261   on the spot, 4 drachmas
+262   total, 2000
+263   Pemais, son of Pemais
+264   Syros, 3800
+265   Laches of Boubastos, 600
+266   total, 4400, of which wage 2000
+267   of the whole, 2400
+268   Teseno(uphis) the brickmaker of the god
+269   Syros, 1000
+270   Didas of Boubastos, 1600
+271   total, 2600, of which wage 200
+272   of the whole, 2400
+273   Pemais and Patynis
+274   Syros, 800
+275   Didas of Boubastos, 1000
+276   on the spot, 8 drachmas
+277   and of copper, 200
+278   makes 1 talent, of which Patynis 3200
+279   Harmieus, son of Harmieus
+280   Syros, 600
+281   on the spot, 4 drachmas
+282   total, 2600
+283   Damas, son of Akeus
+284   Didas of Boubastos, 1000
+285   on the spot, 4 drachmas
+286   total, 3000
+287   Satabous the brickmaker of the estate
+288   on the spot, 4 drachmas
+289   total, 2000
+290   Nebches, son of Nebcheus
+291   Laches of Boubastos, 4000
+292   Ethnos, Melanat, Pau, 1000
+293   total, 5000, of which wage 2000
+294   of the whole, 3000
+295   Patynis, son of Satabous
+296   Ethnos, Melanat, 800
+297   Patynis the headman, 2000
+298   on the spot, 200
+299   total, 3000
+300   Damas, son of Panomieus
+301   Didas the fishmonger of Boubastos, 600
+302   on the spot, 4 drachmas
+303   total, 2600
+304   Orsenouphis, son of Papeis
+305   on the spot, 4 drachmas
+306   and of copper, 800
+307   total, 2800
+308   Akes the brickmaker of the estate
+309   total, 9 talents 4400, and wage 1 talent 1000
+310   total, 10 talents 5400, of which each a tenth
+311   Syros, 2 talents 200
+312   Ethnos, 3600
+313   relish, 1200
+314   Didas of Boubastos, 1 talent 5800
+315   on the spot, 44 drachmas, 3 talents 4000
+316   and of copper, 1800
+317   Laches of Boubastos, 1 talent 2800
+318   Kastoras, 2000
+319   Patynis the headman, 2000
+320   I have from Apol(lonios?), 9
+321   equal
+322   the 8th has been assigned
+323   Peneeus, son of Horos
+324   Syros, 1200
+325   on the spot, 4 drachmas
+326   total, 3200
+327   Pekysis the brickmaker of the god
+328   Neilos the fishmonger of Boubastos, 2000
+329   total, 2000
+330   Pekysis, son of Anchophis
+331   Proklos, 1200
+332   on the spot, 4 drachmas
+333   total, 3200
+334   Damas, son of Horos
+335   on the spot, 4 drachmas
+336   and of copper, 600
+337   and to the god on the 7th, 1000
+338   total, 3600
+339   Satabous, son of Ouebios
+340   Kastoras, 2000
+341   total, 2000
+342   Damas, son of Akeus
+343   on the spot, 8 drachmas
+344   of which wage 1000
+345   total, 3000
+346   Horos, son of Pemais
+347   Syros, 2000
+348   Didas the fishmonger of Boubastos, 800
+349   Laches the fishmonger of Boubastos, 1000
+350   total, 3800, of which wage 600
+351   total, 3200
+352   Nekthnouphis, son of Satabous
+353   Horion the donkey-driver, 600
+354   on the spot, 4 drachmas
+355   total, 2600
+356   Patynis, son of Satabous
+357   Didas the fishmonger of Boubastos, 1400
+358   Horion, 600
+359   Neilos of Berenikis, 1000
+360   total, 3000, of which wage 1000
+361   of the whole, 2000
+362   Anoubas, son of Satabous
+363   Kastoras of Berenikis, 600
+364   on the spot, 4 drachmas
+365   and of copper, 200
+366   total, 2800
+367   Pemais, son of Pemais
+368   Didas the fishmonger of Boubastos, 1600
+369   on the spot, 1400
+370   total, 3000
+371   Damas, son of Panomieus
+372   on the spot, 4 drachmas
+373   Kastoras, 400
+374   total, 2400
+375   Akes the brickmaker of the estate
+376   on the spot, 4 drachmas
+377   Orsenouphis, son of Papeis
+378   on the spot, 4 drachmas
+379   and of copper, others, 800
+380   total, 2800
+381   Pekysis, son of Panechotes
+382   on the spot, 4 drachmas
+383   Ethnos, 1000
+384   total, 3000
+385   Pekysis the brickmaker of the estate
+386   Proklos, 1600
+387   total, 1600
+388   Damas, son of Satabous
+389   Kastoras, 800
+390   on the spot, 1800
+391   total, 2600
+392   Nebches, son of Nebcheus
+393   Horion, 600
+394   on the spot, 400
+395   and to the god on the 7th, 2000
+396   total, 3000
+397   Harmieus, son of Harmieus
+398   Damas of Paso(?), 1000
+399   on the spot, 4 drachmas
+400   total, 3000
+401   Nebches, son of Stotoetis
+402   Syros, 400
+403   Neilos of Berenikis, 2000
+404   total, 2400
+405   Teseno(uphis), son of Akeus
+406   on the spot, 4 drachmas
+407   total, 2000
+408   Pekysis, son of Herakles
+409   Syros, 1600
+410   on the spot, 600
+411   total, 2200
+412   Patynis, son of Patynis
+413   on the spot, 4 drachmas
+414   total, 2000
+415   Pemais son of Pemais, nothing
+416   Panomieus son of Opes, nothing
+417   total, 9 talents 5600, and wage 2600
+418   total of copper, 10 talents 2200, of which each a tenth
+419   Syros, 5200
+420   on the spot, 56 drachmas, 4 talents 4000
+421   and of copper, 5800
+422   Neilos of Berenikis, 5000
+423   Proklos the steward, 2800
+424   to the god on the 7th, 3000
+425   Kastoras of Berenikis, 3800
+426   Didas the fishmonger of Boubastos, 3800
+427   Ethnos, 800; abasy(?), 500
+428   and to Valerius, 500
+429   Damas of Paso(?), 1000
+430   Laches of Boubastos, 1000
+431   Horion the donkey-driver, 1800
+432   equal
+433   the 9th has been assigned
+434   Peneeus, son of Horos
+435   on the spot, 4 drachmas
+436   total, 2000
+437   Damas, son of Panomieus
+438   Syros, 3000
+439   total, 3000
+440   Panomieus, son of Panomieus
+441   Syros, 600
+442   total, 600
+443   Nebches, son of Stotoetis
+444   Syros, 3000
+445   Didas the fishmonger of Boubastos, 2400
+446   total, 5400, of which wage 2000
+447   of the whole, 3400
+448   Tesenouphis, son of Akeus
+449   on the spot, 4 drachmas
+450   total, 2000
+451   Damas, son of Satabous
+452   Kastoras, 1000
+453   on the spot, 4 drachmas
+454   total, 3000
+455   Pemais, son of Patynis
+456   Laches the fishmonger of Boubastos, 600
+457   on the spot, 800
+458   and of relish, 4 choinikes, 600
+459   total, 2000
+460   Pekysis, son of Panechotes
+461   Syros, 1000
+462   Kastoras, 1000
+463   on the spot, 1000
+464   total, 3000
+465   Patynis, son of Patynis
+466   on the spot, 4 drachmas
+467   and of copper, 1000
+468   total, 3000
+469   Nebches, son of Nebcheus
+470   Didas the fishmonger of Boubastos, 1800
+471   Kastoras, 800
+472   total, 2600
+473   Harmieus, son of Harmieus
+474   Syros, 2400
+475   on the spot, 200
+476   total, 2600
+477   Pekysis, son of Herakles
+478   on the spot, 4 drachmas
+479   total, 2000
+480   Pekysis, son of Anchophis
+481   Laches the fishmonger of Boubastos, 1800
+482   Kastoras, 1800
+483   Neilos of Berenikis, 200
+484   total, 3800
+485   Horos, son of Pemais
+486   Laches the fishmonger of Boubastos, 600
+487   on the spot, 4 drachmas
+488   total, 2600
+489   Nekthnouphis, son of Satabous
+490   of Herakleides the donkey-driver, 1600
+491   on the spot, 400
+492   total, 2000
+493   Pekysis the brickmaker of the estate
+494   Syros, 800
+495   on the spot, 4 drachmas
+496   total, 2800
+497   Damas son of Horos, on the spot, 4 drachmas
+498   total, 2000
+499   Patynis, son of Satabous
+500   of Herakleides the donkey-driver, 1600
+501   Neilos of Berenikis, 3200
+502   on the spot, 400
+503   total, 5200, of which he has for 7 workmen, 2000
+504   of the whole, 3200
+505   Satabous the brickmaker of the estate
+506   on the spot, 4 drachmas
+507   total, 2000
+508   Pemais, son of Pemais
+509   Laches the fishmonger of Boubastos, 2800
+510   total, 2800
+511   Pekysis the brickmaker of the god
+512   of Herakleides, 2000
+513   total, 2000
+514   Anoubas, son of Satabous
+515   relish, 2 silo(?), 2000
+516   to the god on the 8th, 1000
+517   total, 3000
+518   Damas, son of Akeus
+519   on the spot, 4 drachmas
+520   and of copper, 1000
+521   total, 3000
+522   Orsenouphis, son of Papeis
+523   on the spot, 2800
+524   total, 2800
+525   Akes the brickmaker of the estate
+526   Didas the fishmonger of Boubastos, 1600
+527   total, 1600
+528   total of copper, 10 talents 2800, and wage 4000
+529   total, 11 talents 800, of which each a tenth
+530   Syros, 1 talent 4800
+531   on the spot, 40 drachmas, 3 talents 2000
+532   and of copper, 1 talent 1600
+533   and of relish, 2600
+534   and to the god on the [8th], 1000
+535   Didas the fishmonger of Boubastos, 5800
+536   Kastoras, 4600
+537   Laches of Boubastos, 5800
+538   Neilos of Berenikis, 3400
+539   Herakleides, 5200
+540   equal
+541   the 10th has been assigned
+542   Nebches, son of Stotoetis
+543   Syros, 1400
+544   Didas the fishmonger of Boubastos, 1000
+545   on the spot, 1000
+546   total, 3400, of which the new brickmakers 1000
+547   of the whole, 2400
+548   Damas, son of Panomieus
+549   Ethnos, on the 101st(?), 2400
+550   on the spot, 1000
+551   total, 3400, of which the new brickmakers 1000
+552   total, 2400
+553   Damas, son of Satabous
+554   on the spot, 4 drachmas
+555   total, 2000
+556   Nebches, son of Nebcheus
+557   Harmieus, son of Damas, 1000
+558   Kastoras, 2000
+559   on the spot, 600
+560   total, 3600, of which the new brickmakers 1000
+561   of the whole, 2600
+562   Tesenouphis, son of Akeus
+563   Neilos of Berenikis, 2000
+564   total, 2000
+565   Harmieus, son of Harmieus
+566   on the spot, 4 drachmas
+567   and of copper, others, 400
+568   total, 2400
+569   Pekysis, son of Herakles
+570   on the spot, 4 drachmas
+571   and of copper, 400
+572   total, 2400
+573   Akes the brickmaker of the estate
+574   Didas the fishmonger of Boubastos, 2000
+575   total, 2000
+576   Damas, son of Akeus
+577   on the spot, 4 drachmas
+578   and of copper, 400
+579   total, 2400
+580   Patynis, son of Patynis
+581   on the spot, 4 drachmas
+582   and of copper, 400
+583   total, 2400
+584   Anoubas, son of Satabous
+585   Neilos of Berenikis, 2800
+586   total, 2800
+587   Pekysis the brickmaker of the estate
+588   Didas the fishmonger of Boubastos, 400
+589   Mysthas the attendant, 2000
+590   total, 2400
+591   Pekysis, son of Anchophis
+592   Syros, 3400
+593   Ethnos, for the … 1000
+594   total, 4400, of which wage 1400
+595   of the whole, 3000
+596   Horos, son of Pemais
+597   Neilos of Berenikis, 4400
+598   total, 2400
+599   Pemais, son of Patynis
+600   Ethnos, the (300?)
+601   on the spot, 4 drachmas
+602   and of copper, 300
+603   total, 2600
+604   Pekysis, son of Panechotes
+605   Horion, 1600
+606   on the spot, 400
+607   total, 2000
+608   Patynis, son of Satabous
+609   Ethnos, for the … 2000
+610   Neilos of Berenikis, 2000
+611   total, 4000, of which the new brickmakers 1000
+612   of the whole, 3000
+613   Nekthnouphis, son of Satabous
+614   Didas the fishmonger of Boubastos, 2000
+615   on the spot, 600
+616   total, 2600
+617   Pemais, son of Pemais
+618   Neilos of Berenikis, 2000
+619   total, 2000
+620   Damas son of Horos
+621   on the spot, 8 drachmas
+622   total, 4000, of which he has for Aro(?) the workman, 1000
+623   of the whole, 3000
+624   Pekysis the brickmaker of the god
+625   on the spot, 4 drachmas
+626   total, 2000
+627   Satabous the brickmaker of the estate
+628   Kastoras, 1200
+629   on the spot, 4 drachmas
+630   total, 3200
+631   Peneeus, son of Horos
+632   Syros, 400
+633   Ethnos, for the … 2000
+634   total, 2400
+635   Orsenouphis, son of Papeis
+636   on the spot, 4 drachmas
+637   and of copper, 800
+638   total, 2800
+639   Panomieus son of Panomieus, nothing
+640   total, 9 talents 5200, and wage 2400
+641   and on behalf of the new brickmakers, 4000
+642   total, 10 talents 5600, of which each a tenth
+643   Syros, 1800
+644   Didas of Boubastos, 1 talent 2800
+645   on the spot, 44 drachmas, 3 talents 4000
+646   and of copper, 1 talent 300
+647   Ethnos, 1 talent 1700
+648   Kastoras, 3200
+649   Neilos of Berenikis, 1 talent 5200
+650   Mysthas the attendant, 2000
+651   he has, ship's … (?)
+652   Harmieus, son of Damas, 1000
+653   I have ape… 1, …
+654   Horion the donkey-driver, 1600
+655   equal
+656   the 11th has been assigned
+657   Harmieus, son of Harmieus
+658   Syros, 400 … [200]
+659   Herakleides, 2000
+660   on the spot, 200
+661   Theon, account of brickmakers, month of Sebastos, 1000
+662   total, 3400, of which the new brickmakers 1000
+663   of the whole, 2400
+664   Nebches, son of Nebcheus
+665   Syros, 2000
+666   relish, choinik(es), 600
+667   total, 2600
+668   Tesenouphis the brickmaker of the god
+669   Syros, 1600
+670   on the spot, 400
+671   total, 2000
+672   Akes the brickmaker of the estate
+673   on the spot, 4 drachmas
+674   total, 2000, of which wage 1000
+675   of the whole, 1000
+676   Patynis, son of Patynis
+677   Herakleides, 1000
+678   Didas the fishmonger of Boubastos, 1600
+679   total, 2600
+680   Damas, son of Satabous
+681   Didas the fishmonger of Boubastos, 1200
+682   on the spot, 800
+683   total, 2000
+684   Pemais, son of Pemais
+685   Syros, 800
+686   Laches, 800
+687   on the spot, 4 drachmas
+688   total, 3600
+689   Pemais, son of Patynis
+690   Laches the fishmonger of Boubastos, 800
+691   on the spot, 4 drachmas
+692   total, 2800
+693   Pekysis the brickmaker of the estate
+694   Syros, 1600
+695   on the spot, 400
+696   total, 2000
+697   Nekthnouphis, son of Satabous
+698   on the spot, [4 drachmas]
+699   and of copper, 800
+700   total, 2800
+701   Satabous the brickmaker of the estate
+702   Didas the fishmonger of Boubastos, [2000]
+703   total, 2000
+704   Horos, son of Pemais
+705   [L]aches the fishmonger of Boubastos, 3200
+706   total, 3200
+707   Peneeus, son of Horos
+708   Didas the fishmonger of Boubastos, 1400
+709   on the spot, 4 drachmas
+710   of which wage 200
+711   of the whole, 3200
+712   Pekysis the brickmaker of the god
+713   on the spot, 4 drachmas
+714   total, 2000
+715   Damas, son of Akeus
+716   on the spot, 4 drachmas
+717   total, 2000
+718   Pekysis, son of Herakles
+719   on the spot, 4 drachmas
+720   and of copper, 1000
+721   total, 3000
+722   Pekysis, son of Panecho[tes]
+723   Syros, 200
+724   Herakleides, 400
+725   on the spot, 4 drachmas
+726   and of copper, 1000
+727   total, 3[600]
+728   Patynis, son of Satabous
+729   Neilos, 1800
+730   on the spot, 600
+731   total, 2400
+732   Damas, son of Horos
+733   on the spot, 8 drachmas
+734   total, 4000
+735   Pekysis, son of Anchophis
+736   on the spot, 4 drachmas
+737   and of copper, 1000
+738   total, 3000
+739   Anoubas, son of Satabous
+740   on the spot, 8 drachmas
+741   total, 4000, of which wage 1000
+742   of the whole, 3000
+743   Da[mas], son of Panomieus
+744   on the spot, 4 drachmas
+745   and of copper, others, 1000
+746   total, 3000
+747   Nebches, son of Stotoetis
+748   Laches the fishmonger of Boubastos, 1400
+749   Kastoras, 600
+750   Proklos, 600
+751   on the spot, 200
+752   total, 2800
+753   Orsenouphis son of Pap[ei]s, nothing
+754   Panomieus son of Panomieus, nothing
+755   total, 10 talents 2800, and wage [2200]
+756   and on behalf of the new brickmakers, 1000
+757   total, 11 talents, of which each a tenth
+758   Syros, 1 talent 200
+759   Herakleides the donkey-driver, 3400
+760   on the spot, 60 drachmas, 5 talents 2000
+761   and of copper, 1 talent 1400
+762   and to the god, 1000
+763   and of relish, 600
+764   Didas of Boubastos, 1 talent 200
+765   Laches of Boubastos, 1 talent 200
+766   Neilos of Berenikis, 1800
+767   Kastoras, 600
+768   Proklos, 600
+769   equal
+770   the 12th has been assigned
+771   Peneeus, son of Horos
+772   on the spot, 4 drachmas
+773   total, 2000
