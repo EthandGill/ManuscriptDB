@@ -1629,7 +1629,9 @@ function refreshLocationOrb(locKey) {
     // Size grows with sqrt(count). Intensity controls the gradient's alpha values —
     // we intentionally avoid CSS 'opacity' on the parent div because it cascades
     // to children and would dim the .ms-orb-count button.
-    const size      = Math.round(22 + 9 * Math.sqrt(Math.min(count, 55)));
+    // Same size rule as the inscription orbs (renderEpigraphyMarkers) — kept small
+    // so the rapidly growing manuscript corpus doesn't blanket the map.
+    const size      = Math.round(9 + 4 * Math.sqrt(Math.min(count, 55)));
     const intensity = 0.60 + 0.35 * Math.min(1, count / 20);   // 0.60 → 0.95
     // Red when any active manuscript here is biblical; otherwise coloured by
     // the dominant documentary genre (receipts green, contracts purple,
