@@ -1999,1985 +1999,1985 @@ r.1981 μὴ συνοψιζομένου χωματικοῦ δραχμαὶ λγ
 r.1982 προσδιαγραφομένων δραχμαὶ β ἡμιωβέλιον , γίνονται δραχμαὶ λε ὀβολοὶ β 𐅵, γίνονται ἐπὶ τὸ αὐτὸ δραχμαὶ ριε ὀβολοὶ β 𐅵.
 
 [TRANSLATION]
-1     
-2     
-3     
-4     
-5     
-6     
-7     
-8     
-9     
-10    
-11    
-12    
-13    
-14    
-15    
-16    
-17    
-18    
-19    
-20    
-21    
-22    
-23    
-24    
-25    
-26    
-27    
-28    
-29    
-30    
-31    
-32    
-33    
-34    
-35    
-36    
-37    
-38    
-39    
-40    
-41    
-42    
-43    
-44    
-45    
-46    
-47    
-48    
-49    
-50    
-51    
-52    
-53    
-54    
-55    
-56    
-57    
-58    
-59    
-60    
-61    
-62    
-63    
-64    
-65    
-66    
-67    
-68    
-69    
-70    
-71    
-72    
-73    
-74    
-75    
-76    
-77    
-78    
-79    
-80    
-81    
-82    
-83    
-84    
-85    
-86    
-87    
-88    
-89    
-90    
-91    
-92    
-93    
-94    
-95    
-96    
-97    
-98    
-99    
-100   
-101   
-102   
-103   
-104   
-105   
-106   
-107   
-108   
-109   
-110   
-111   
-112   
-113   
-114   
-115   
-116   
-117   
-118   
-119   
-120   
-121   
-122   
-123   
-124   
-125   
-126   
-127   
-128   
-129   
-130   
-131   
-132   
-133   
-134   
-135   
-136   
-137   
-138   
-139   
-140   
-141   
-142   
-143   
-144   
-145   
-146   
-147   
-148   
-149   
-150   
-151   
-152   
-153   
-154   
-155   
-156   
-157   
-158   
-159   
-160   
-161   
-162   
-163   
-164   
-165   
-166   
-167   
-168   
-169   
-170   
-171   
-172   
-173   
-174   
-175   
-176   
-177   
-178   
-179   
-180   
-181   
-182   
-183   
-184   
-185   
-186   
-187   
-188   
-189   
-190   
-191   
-192   
-193   
-194   
-195   
-196   
-197   
-198   
-199   
-200   
-201   
-202   
-203   
-204   
-205   
-206   
-207   
-208   
-209   
-210   
-211   
-212   
-213   
-214   
-215   
-216   
-217   
-218   
-219   
-220   
-221   
-222   
-223   
-224   
-225   
-226   
-227   
-228   
-229   
-230   
-231   
-232   
-233   
-234   
-235   
-236   
-237   
-238   
-239   
-240   
-241   
-242   
-243   
-244   
-245   
-246   
-247   
-248   
-249   
-250   
-251   
-252   
-253   
-254   
-255   
-256   
-257   
-258   
-259   
-260   
-261   
-262   
-263   
-264   
-265   
-266   
-267   
-268   
-269   
-270   
-271   
-272   
-273   
-274   
-275   
-276   
-277   
-278   
-279   
-280   
-281   
-282   
-283   
-284   
-285   
-286   
-287   
-288   
-289   
-290   
-291   
-292   
-293   
-294   
-295   
-296   
-297   
-298   
-299   
-300   
-301   
-302   
-303   
-304   
-305   
-306   
-307   
-308   
-309   
-310   
-311   
-312   
-313   
-314   
-315   
-316   
-317   
-318   
-319   
-320   
-321   
-322   
-323   
-324   
-325   
-326   
-327   
-328   
-329   
-330   
-331   
-332   
-333   
-334   
-335   
-336   
-337   
-338   
-339   
-340   
-341   
-342   
-343   
-344   
-345   
-346   
-347   
-348   
-349   
-350   
-351   
-352   
-353   
-354   
-355   
-356   
-357   
-358   
-359   
-360   
-361   
-362   
-363   
-364   
-365   
-366   
-367   
-368   
-369   
-370   
-371   
-372   
-373   
-374   
-375   
-376   
-377   
-378   
-379   
-380   
-381   
-382   
-383   
-384   
-385   
-386   
-387   
-388   
-389   
-390   
-391   
-392   
-393   
-394   
-395   
-396   
-397   
-398   
-399   
-400   
-401   
-402   
-403   
-404   
-405   
-406   
-407   
-408   
-409   
-410   
-411   
-412   
-413   
-414   
-415   
-416   
-417   
-418   
-419   
-420   
-421   
-422   
-423   
-424   
-425   
-426   
-427   
-428   
-429   
-430   
-431   
-432   
-433   
-434   
-435   
-436   
-437   
-438   
-439   
-440   
-441   
-442   
-443   
-444   
-445   
-446   
-447   
-448   
-449   
-450   
-451   
-452   
-453   
-454   
-455   
-456   
-457   
-458   
-459   
-460   
-461   
-462   
-463   
-464   
-465   
-466   
-467   
-468   
-469   
-470   
-471   
-472   
-473   
-474   
-475   
-476   
-477   
-478   
-479   
-480   
-481   
-482   
-483   
-484   
-485   
-486   
-487   
-488   
-489   
-490   
-491   
-492   
-493   
-494   
-495   
-496   
-497   
-498   
-499   
-500   
-501   
-502   
-503   
-504   
-505   
-506   
-507   
-508   
-509   
-510   
-511   
-512   
-513   
-514   
-515   
-516   
-517   
-518   
-519   
-520   
-521   
-522   
-523   
-524   
-525   
-526   
-527   
-528   
-529   
-530   
-531   
-532   
-533   
-534   
-535   
-536   
-537   
-538   
-539   
-540   
-541   
-542   
-543   
-544   
-545   
-546   
-547   
-548   
-549   
-550   
-551   
-552   
-553   
-554   
-555   
-556   
-557   
-558   
-559   
-560   
-561   
-562   
-563   
-564   
-565   
-566   
-567   
-568   
-569   
-570   
-571   
-572   
-573   
-574   
-575   
-576   
-577   
-578   
-579   
-580   
-581   
-582   
-583   
-584   
-585   
-586   
-587   
-588   
-589   
-590   
-591   
-592   
-593   
-594   
-595   
-596   
-597   
-598   
-599   
-600   
-601   
-602   
-603   
-604   
-605   
-606   
-607   
-608   
-609   
-610   
-611   
-612   
-613   
-614   
-615   
-616   
-617   
-618   
-619   
-620   
-621   
-622   
-623   
-624   
-625   
-626   
-627   
-628   
-629   
-630   
-631   
-632   
-633   
-634   
-635   
-636   
-637   
-638   
-639   
-640   
-641   
-642   
-643   
-644   
-645   
-646   
-647   
-648   
-649   
-650   
-651   
-652   
-653   
-654   
-655   
-656   
-657   
-658   
-659   
-660   
-661   
-662   
-663   
-664   
-665   
-666   
-667   
-668   
-669   
-670   
-671   
-672   
-673   
-674   
-675   
-676   
-677   
-678   
-679   
-680   
-681   
-682   
-683   
-684   
-685   
-686   
-687   
-688   
-689   
-690   
-691   
-692   
-693   
-694   
-695   
-696   
-697   
-698   
-699   
-700   
-701   
-702   
-703   
-704   
-705   
-706   
-707   
-708   
-709   
-710   
-711   
-712   
-713   
-714   
-715   
-716   
-717   
-718   
-719   
-720   
-721   
-722   
-723   
-724   
-725   
-726   
-727   
-728   
-729   
-730   
-731   
-732   
-733   
-734   
-735   
-736   
-737   
-738   
-739   
-740   
-741   
-742   
-743   
-744   
-745   
-746   
-747   
-748   
-749   
-750   
-751   
-752   
-753   
-754   
-755   
-756   
-757   
-758   
-759   
-760   
-761   
-762   
-763   
-764   
-765   
-766   
-767   
-768   
-769   
-770   
-771   
-772   
-773   
-774   
-775   
-776   
-777   
-778   
-779   
-780   
-781   
-782   
-783   
-784   
-785   
-786   
-787   
-788   
-789   
-790   
-791   
-792   
-793   
-794   
-795   
-796   
-797   
-798   
-799   
-800   
-801   
-802   
-803   
-804   
-805   
-806   
-807   
-808   
-809   
-810   
-811   
-812   
-813   
-814   
-815   
-816   
-817   
-818   
-819   
-820   
-821   
-822   
-823   
-824   
-825   
-826   
-827   
-828   
-829   
-830   
-831   
-832   
-833   
-834   
-835   
-836   
-837   
-838   
-839   
-840   
-841   
-842   
-843   
-844   
-845   
-846   
-847   
-848   
-849   
-850   
-851   
-852   
-853   
-854   
-855   
-856   
-857   
-858   
-859   
-860   
-861   
-862   
-863   
-864   
-865   
-866   
-867   
-868   
-869   
-870   
-871   
-872   
-873   
-874   
-875   
-876   
-877   
-878   
-879   
-880   
-881   
-882   
-883   
-884   
-885   
-886   
-887   
-888   
-889   
-890   
-891   
-892   
-893   
-894   
-895   
-896   
-897   
-898   
-899   
-900   
-901   
-902   
-903   
-904   
-905   
-906   
-907   
-908   
-909   
-910   
-911   
-912   
-913   
-914   
-915   
-916   
-917   
-918   
-919   
-920   
-921   
-922   
-923   
-924   
-925   
-926   
-927   
-928   
-929   
-930   
-931   
-932   
-933   
-934   
-935   
-936   
-937   
-938   
-939   
-940   
-941   
-942   
-943   
-944   
-945   
-946   
-947   
-948   
-949   
-950   
-951   
-952   
-953   
-954   
-955   
-956   
-957   
-958   
-959   
-960   
-961   
-962   
-963   
-964   
-965   
-966   
-967   
-968   
-969   
-970   
-971   
-972   
-973   
-974   
-975   
-976   
-977   
-978   
-979   
-980   
-981   
-982   
-983   
-984   
-985   
-986   
-987   
-988   
-989   
-990   
-991   
-992   
-993   
-994   
-995   
-996   
-997   
-998   
-999   
-1000  
-1001  
-1002  
-1003  
-1004  
-1005  
-1006  
-1007  
-1008  
-1009  
-1010  
-1011  
-1012  
-1013  
-1014  
-1015  
-1016  
-1017  
-1018  
-1019  
-1020  
-1021  
-1022  
-1023  
-1024  
-1025  
-1026  
-1027  
-1028  
-1029  
-1030  
-1031  
-1032  
-1033  
-1034  
-1035  
-1036  
-1037  
-1038  
-1039  
-1040  
-1041  
-1042  
-1043  
-1044  
-1045  
-1046  
-1047  
-1048  
-1049  
-1050  
-1051  
-1052  
-1053  
-1054  
-1055  
-1056  
-1057  
-1058  
-1059  
-1060  
-1061  
-1062  
-1063  
-1064  
-1065  
-1066  
-1067  
-1068  
-1069  
-1070  
-1071  
-1072  
-1073  
-1074  
-1075  
-1076  
-1077  
-1078  
-1079  
-1080  
-1081  
-1082  
-1083  
-1084  
-1085  
-1086  
-1087  
-1088  
-1089  
-1090  
-1091  
-1092  
-1093  
-1094  
-1095  
-1096  
-1097  
-1098  
-1099  
-1100  
-1101  
-1102  
-1103  
-1104  
-1105  
-1106  
-1107  
-1108  
-1109  
-1110  
-1111  
-1112  
-1113  
-1114  
-1115  
-1116  
-1117  
-1118  
-1119  
-1120  
-1121  
-1122  
-1123  
-1124  
-1125  
-1126  
-1127  
-1128  
-1129  
-1130  
-1131  
-1132  
-1133  
-1134  
-1135  
-1136  
-1137  
-1138  
-1139  
-1140  
-1141  
-1142  
-1143  
-1144  
-1145  
-1146  
-1147  
-1148  
-1149  
-1150  
-1151  
-1152  
-1153  
-1154  
-1155  
-1156  
-1157  
-1158  
-1159  
-1160  
-1161  
-1162  
-1163  
-1164  
-1165  
-1166  
-1167  
-1168  
-1169  
-1170  
-1171  
-1172  
-1173  
-1174  
-1175  
-1176  
-1177  
-1178  
-1179  
-1180  
-1181  
-1182  
-1183  
-1184  
-1185  
-1186  
-1187  
-1188  
-1189  
-1190  
-1191  
-1192  
-1193  
-1194  
-1195  
-1196  
-1197  
-1198  
-1199  
-1200  
-1201  
-1202  
-1203  
-1204  
-1205  
-1206  
-1207  
-1208  
-1209  
-1210  
-1211  
-1212  
-1213  
-1214  
-1215  
-1216  
-1217  
-1218  
-1219  
-1220  
-1221  
-1222  
-1223  
-1224  
-1225  
-1226  
-1227  
-1228  
-1229  
-1230  
-1231  
-1232  
-1233  
-1234  
-1235  
-1236  
-1237  
-1238  
-1239  
-1240  
-1241  
-1242  
-1243  
-1244  
-1245  
-1246  
-1247  
-1248  
-1249  
-1250  
-1251  
-1252  
-1253  
-1254  
-1255  
-1256  
-1257  
-1258  
-1259  
-1260  
-1261  
-1262  
-1263  
-1264  
-1265  
-1266  
-1267  
-1268  
-1269  
-1270  
-1271  
-1272  
-1273  
-1274  
-1275  
-1276  
-1277  
-1278  
-1279  
-1280  
-1281  
-1282  
-1283  
-1284  
-1285  
-1286  
-1287  
-1288  
-1289  
-1290  
-1291  
-1292  
-1293  
-1294  
-1295  
-1296  
-1297  
-1298  
-1299  
-1300  
-1301  
-1302  
-1303  
-1304  
-1305  
-1306  
-1307  
-1308  
-1309  
-1310  
-1311  
-1312  
-1313  
-1314  
-1315  
-1316  
-1317  
-1318  
-1319  
-1320  
-1321  
-1322  
-1323  
-1324  
-1325  
-1326  
-1327  
-1328  
-1329  
-1330  
-1331  
-1332  
-1333  
-1334  
-1335  
-1336  
-1337  
-1338  
-1339  
-1340  
-1341  
-1342  
-1343  
-1344  
-1345  
-1346  
-1347  
-1348  
-1349  
-1350  
-1351  
-1352  
-1353  
-1354  
-1355  
-1356  
-1357  
-1358  
-1359  
-1360  
-1361  
-1362  
-1363  
-1364  
-1365  
-1366  
-1367  
-1368  
-1369  
-1370  
-1371  
-1372  
-1373  
-1374  
-1375  
-1376  
-1377  
-1378  
-1379  
-1380  
-1381  
-1382  
-1383  
-1384  
-1385  
-1386  
-1387  
-1388  
-1389  
-1390  
-1391  
-1392  
-1393  
-1394  
-1395  
-1396  
-1397  
-1398  
-1399  
-1400  
-1401  
-1402  
-1403  
-1404  
-1405  
-1406  
-1407  
-1408  
-1409  
-1410  
-1411  
-1412  
-1413  
-1414  
-1415  
-1416  
-1417  
-1418  
-1419  
-1420  
-1421  
-1422  
-1423  
-1424  
-1425  
-1426  
-1427  
-1428  
-1429  
-1430  
-1431  
-1432  
-1433  
-1434  
-1435  
-1436  
-1437  
-1438  
-1439  
-1440  
-1441  
-1442  
-1443  
-1444  
-1445  
-1446  
-1447  
-1448  
-1449  
-1450  
-1451  
-1452  
-1453  
-1454  
-1455  
-1456  
-1457  
-1458  
-1459  
-1460  
-1461  
-1462  
-1463  
-1464  
-1465  
-1466  
-1467  
-1468  
-1469  
-1470  
-1471  
-1472  
-1473  
-1474  
-1475  
-1476  
-1477  
-1478  
-1479  
-1480  
-1481  
-1482  
-1483  
-1484  
-1485  
-1486  
-1487  
-1488  
-1489  
-1490  
-1491  
-1492  
-1493  
-1494  
-1495  
-1496  
-1497  
-1498  
-1499  
-1500  
-1501  
-1502  
-1503  
-1504  
-1505  
-1506  
-1507  
-1508  
-1509  
-1510  
-1511  
-1512  
-1513  
-1514  
-1515  
-1516  
-1517  
-1518  
-1519  
-1520  
-1521  
-1522  
-1523  
-1524  
-1525  
-1526  
-1527  
-1528  
-1529  
-1530  
-1531  
-1532  
-1533  
-1534  
-1535  
-1536  
-1537  
-1538  
-1539  
-1540  
-1541  
-1542  
-1543  
-1544  
-1545  
-1546  
-1547  
-1548  
-1549  
-1550  
-1551  
-1552  
-1553  
-1554  
-1555  
-1556  
-1557  
-1558  
-1559  
-1560  
-1561  
-1562  
-1563  
-1564  
-1565  
-1566  
-1567  
-1568  
-1569  
-1570  
-1571  
-1572  
-1573  
-1574  
-1575  
-1576  
-1577  
-1578  
-1579  
-1580  
-1581  
-1582  
-1583  
-1584  
-1585  
-1586  
-1587  
-1588  
-1589  
-1590  
-1591  
-1592  
-1593  
-1594  
-1595  
-1596  
-1597  
-1598  
-1599  
-1600  
-1601  
-1602  
-1603  
-1604  
-1605  
-1606  
-1607  
-1608  
-1609  
-1610  
-1611  
-1612  
-1613  
-1614  
-1615  
-1616  
-1617  
-1618  
-1619  
-1620  
-1621  
-1622  
-1623  
-1624  
-1625  
-1626  
-1627  
-1628  
-1629  
-1630  
-1631  
-1632  
-1633  
-1634  
-1635  
-1636  
-1637  
-1638  
-1639  
-1640  
-1641  
-1642  
-1643  
-1644  
-1645  
-1646  
-1647  
-1648  
-1649  
-1650  
-1651  
-1652  
-1653  
-1654  
-1655  
-1656  
-1657  
-1658  
-1659  
-1660  
-1661  
-1662  
-1663  
-1664  
-1665  
-1666  
-1667  
-1668  
-1669  
-1670  
-1671  
-1672  
-1673  
-1674  
-1675  
-1676  
-1677  
-1678  
-1679  
-1680  
-1681  
-1682  
-1683  
-1684  
-1685  
-1686  
-1687  
-1688  
-1689  
-1690  
-1691  
-1692  
-1693  
-1694  
-1695  
-1696  
-1697  
-1698  
-1699  
-1700  
-1701  
-1702  
-1703  
-1704  
-1705  
-1706  
-1707  
-1708  
-1709  
-1710  
-1711  
-1712  
-1713  
-1714  
-1715  
-1716  
-1717  
-1718  
-1719  
-1720  
-1721  
-1722  
-1723  
-1724  
-1725  
-1726  
-1727  
-1728  
-1729  
-1730  
-1731  
-1732  
-1733  
-1734  
-1735  
-1736  
-1737  
-1738  
-1739  
-1740  
-1741  
-1742  
-1743  
-1744  
-1745  
-1746  
-1747  
-1748  
-1749  
-1750  
-1751  
-1752  
-1753  
-1754  
-1755  
-1756  
-1757  
-1758  
-1759  
-1760  
-1761  
-1762  
-1763  
-1764  
-1765  
-1766  
-1767  
-1768  
-1769  
-1770  
-1771  
-1772  
-1773  
-1774  
-1775  
-1776  
-1777  
-1778  
-1779  
-1780  
-1781  
-1782  
-1783  
-1784  
-1785  
-1786  
-1787  
-1788  
-1789  
-1790  
-1791  
-1792  
-1793  
-1794  
-1795  
-1796  
-1797  
-1798  
-1799  
-1800  
-1801  
-1802  
-1803  
-1804  
-1805  
-1806  
-1807  
-1808  
-1809  
-1810  
-1811  
-1812  
-1813  
-1814  
-1815  
-1816  
-1817  
-1818  
-1819  
-1820  
-1821  
-1822  
-1823  
-1824  
-1825  
-1826  
-1827  
-1828  
-1829  
-1830  
-1831  
-1832  
-1833  
-1834  
-1835  
-1836  
-1837  
-1838  
-1839  
-1840  
-1841  
-1842  
-1843  
-1844  
-1845  
-1846  
-1847  
-1848  
-1849  
-1850  
-1851  
-1852  
-1853  
-1854  
-1855  
-1856  
-1857  
-1858  
-1859  
-1860  
-1861  
-1862  
-1863  
-1864  
-1865  
-1866  
-1867  
-1868  
-1869  
-1870  
-1871  
-1872  
-1873  
-1874  
-1875  
-1876  
-1877  
-1878  
-1879  
-1880  
-1881  
-1882  
-1883  
-1884  
-1885  
-1886  
-1887  
-1888  
-1889  
-1890  
-1891  
-1892  
-1893  
-1894  
-1895  
-1896  
-1897  
-1898  
-1899  
-1900  
-1901  
-1902  
-1903  
-1904  
-1905  
-1906  
-1907  
-1908  
-1909  
-1910  
-1911  
-1912  
-1913  
-1914  
-1915  
-1916  
-1917  
-1918  
-1919  
-1920  
-1921  
-1922  
-1923  
-1924  
-1925  
-1926  
-1927  
-1928  
-1929  
-1930  
-1931  
-1932  
-1933  
-1934  
-1935  
-1936  
-1937  
-1938  
-1939  
-1940  
-1941  
-1942  
-1943  
-1944  
-1945  
-1946  
-1947  
-1948  
-1949  
-1950  
-1951  
-1952  
-1953  
-1954  
-1955  
-1956  
-1957  
-1958  
-1959  
-1960  
-1961  
-1962  
-1963  
-1964  
-1965  
-1966  
-1967  
-1968  
-1969  
-1970  
-1971  
-1972  
-1973  
-1974  
-1975  
-1976  
-1977  
-1978  
-1979  
-1980  
-1981  
-1982  
+1     A certain Isidoros, son of Artemidoros,
+2     an Alexandrian, submitted a petition to Ulpius Marcellus, the
+3     then dikaiodotes acting as deputy
+4     at that time also for the matters pertaining to the administration,
+5     wishing to lease for 2 years
+6     from the 7th year of Antoninus
+7     Caesar the lord and of the god Verus,
+8     around the field of Magdola in the toparchy
+9     of the Thmoiribite, from the account (of unproductive land)
+10    … the plots, of arouras 36 … —ran
+11    … on condition that he sow the afore… , [to whom] if
+12    he choose, with crops, and pay per aroura
+13    [drachmas] … ; and Marcellus wrote
+14    [on the …] of the month Tybi of the 7th year to Horion,
+15    the former strategos, having sent also of the
+16    petitions submitted to him
+17    the other one, so that if the said
+18    land should fall under lease, by public proclamation … of the better
+19    bid. And of Horion the things written
+20    … —ntos
+21    so that I may know and fill up my own portions, I reckoned the
+22    rent gathering according to
+23    the acceptance-offer, and I passed it on for public proclamation. And the time being fulfilled into
+24    the 8th year, the village-scribe
+25    at the inspection reported
+26    that the arouras accepted for
+27    lease were in dry (uncultivated) land, unclaimed, and that the man who
+28    made the undertaking was unknown; and those who inspected the current-year
+29    crops of the same 8th year
+30    wrote that it appeared to them to be
+31    in dry land, from which nothing could
+32    accrue. And in the 9th year the same
+33    village-scribe, declaring the same things as those reported in the 8th year
+34    and setting beside (them) the things written by those
+35    who inspected in the 8th year, remitted the rent taken up from the undertaking;
+36    for the time of the acceptance-offer,
+37    he says, was fulfilled into the 8th year,
+38    and those who inspected had written
+39    … to be in dry land,
+40    from which nothing could accrue.
+41    Wherefore accordingly the sum-total (assessed) by the village-scribe
+42    … in the 9th year and on behalf
+43    of the 10th year was passed on to be held over until
+44    judgment; wherefore also for the 11th year it is held over.
+45    Of the Thmoiribite, Magdola:
+46    of dry unproductive land previously passed on,
+47    … of the total as rent of pastures
+48    … 1800 drachmas, of additional charges 112 drachmas 3 obols, total 1912 drachmas 3 obols,
+49    [sum-totals] from the underlying (assessments) and others
+50    [taken up among] those from the village of Nemeo,
+51    [the village-scribe of the] 9th year, saying that the village,
+52    [when the sum-totals were] established to be given, was
+53    [of men] 150, and that there had been imposed
+54    [on them of wheat] 100 artabas, and in addition … now had come down to only 45 men, of whom
+55    [the 34 who had grown weak] had withdrawn,
+56    [and only 11] remained, remitted the (amount) falling to the withdrawn
+57    and added that Annius Syriacus,
+58    the former prefect, in like cases
+59    had judged in the 3rd year, when he was reckoning the nome,
+60    that those remaining
+61    should pay the (amount) falling to them. Whatever therefore
+62    of these falls to those declared
+63    to remain, (is) to be exacted,
+64    and the (amounts) remaining after this
+65    were passed on to be held over until judgment in the 9th year and the 10th year;
+66    wherefore also for the 11th year in the same
+67    manner it is held over.
+68    Of the Phernouphite, Nemeo, of the administration:
+69    of the underlying (dues) of the village-scribe's travel-allowance
+70    of the reckoning, 50 drachmas;
+71    of the topogrammateus's travel-allowance of the reckoning, 50 drachmas;
+72    total of underlying (dues) 100 drachmas, which net 94 drachmas ½-obol 2 chalkoi,
+73    of additional charges 5 drachmas 5 obols 2 chalkoi, total the same,
+74    of dues of interest-bearing (loans), 420 drachmas
+75    and on behalf of the field of Pochnoun, 80 drachmas, total 500 drachmas,
+76    and from apportionment, 309 drachmas 3 obols 2 chalkoi, total 809 drachmas 3 obols 2 chalkoi,
+77    of additional charges 50 drachmas 4 obols ½ 1 chalkous, total 860 drachmas 1 obol ½ 3 chalkoi,
+78    of the administration underlying and herald's-fee [9 drachmas] 1 obol,
+79    of additional charges 3 obols ½, total [9 drachmas] 4 obols ½,
+80    total for the same 870 drachmas 3 chalkoi,
+81    of the administration of the superintendence of the guards, 176 drachmas, [of additional charges] 11 drachmas,
+82    total 187 drachmas,
+83    and on behalf of the field of Pochnoun, 60 drachmas,
+84    of additional charges 3 drachmas 4 obols ½, total 63 drachmas 4 obols ½,
+85    total of the superintendence 236 drachmas, of additional charges [14 drachmas 4 obols] ½, total 250 drachmas 4 obols [½],
+86    for the same, of the administration of silver, 339 drachmas 1 obol ½ 2 chalkoi,
+87    of additional charges 21 drachmas 1 obol 2 chalkoi, [total] 360 drachmas 3 obols,
+88    of dues 809 drachmas 3 obols [2 chalkoi, of additional charges 50 drachmas 4 obols] ½ 1 chalkous,
+89    total [860 drachmas 1 obol] ½ [3 chalkoi].
+90    total for the same 1[148 drachmas 5 obols, of additional charges 71 drachmas 5 obols] ½ [3 chalkoi],
+91    total [1220 drachmas 4 obols] ½ 3 chalkoi
+92    …
+93    … drachmas 89 obols 5
+94    falling, in relation to the number of only the 45 men, in all 298 drachmas ½-obol,
+95    so that there ought to be held over, instead of the amounts remitted by the village-scribe, of silver 1130 drachmas 4 obols ½ 3 chalkoi,
+96    only 922 drachmas 1 obol 3 chalkoi, of which:
+97    of the administration of the underlying (dues) [of the village-scribe and] the topogrammateus, 75 drachmas 3 obols 1 chalkous,
+98    which net 71 drachmas ½-obol, of additional charges 4 drachmas 2 obols ½ 1 chalkous, total the same,
+99    of underlying and herald's-fee of interest, 7 drachmas 2 obols,
+100   which net 6 drachmas 5 obols 3 chalkoi, of additional charges 2 obols ½ 1 chalkous, total the same,
+101   of the superintendence of the guards, 189 drachmas 2 obols 3 chalkoi,
+102   which net 178 drachmas 1 obol 1 chalkous, of additional charges 11 drachmas ½-obol 2 chalkoi, total the same,
+103   total of the administration 256 drachmas 1 obol ½, of additional charges 16 drachmas, total 272 drachmas 1 obol ½,
+104   of dues of interest, 649 drachmas 5 obols 3 chalkoi,
+105   which net 611 drachmas 4 obols ½, of additional charges 38 drachmas 1 obol 3 chalkoi, total the same,
+106   total for the same 868 drachmas,
+107   of additional charges 54 drachmas 1 obol 3 chalkoi, total 922 drachmas 1 obol 3 chalkoi.
+108   After those restored to agreement as set out above
+109   as adjudged by Statianus in the reckoning of the nome which he made in the 13th year,
+110   of silver 128 drachmas 2 obols ½, of which:
+111   of the administration 28 drachmas 2 obols ½,
+112   of dues of interest 100 drachmas,
+113   total the aforesaid,
+114   remaining of the administration 243 drachmas 5 obols,
+115   of dues of interest 549 drachmas 5 obols ½ 3 chalkoi,
+116   total 793 drachmas 4 obols ½ 3 chalkoi.
+117   Lands of debtors of the treasury:
+118   it was declared in the 8th year to have been inspected as being in dry land.
+119   Whence the grain-dues falling due, [on account of]
+120   their being fully registered, in the 9th year and [10th year]
+121   were assigned in another section; [and the]
+122   money-payments here
+123   in due sequence [were held over; wherefore]
+124   also for the 11th year [it is held over].
+125   Neomare, Psen— …
+126   Neomare, Psen— …
+127   Of Agathos Daimon …
+128   Of Tapsenobasthis …
+129   tanai… kou… …
+130   who gave in pledge on [behalf of] …
+131   —nos, son of Philon …
+132   of (the empress) Sebaste …
+133   [to] himself, 7 arouras …
+134   Of Paniskos, son of Sarapion, of the Sosikosmios (deme)
+135   who gave in pledge on behalf of the same
+136   around the same field, 1 ½ of dry-vine land,
+137   arouras 4 ¾ 8, total arouras 11 ¾ 8, of proper (dues):
+138   of naubion 5 drachmas 5 obols ½ 1 chalkous, of embankment-tax 23 ¾ chalkoi
+139   which (are) ½-obol, of exchange 1 obol ½ 2 chalkoi, total 6 drachmas 3 obols ½ 3 chalkoi,
+140   of additional charges 2 obols ½, total 7 drachmas 3 chalkoi,
+141   of priestly treasury-dues ½-obol 3 chalkoi, of priestly twentieth 11 drachmas 5 obols 2 chalkoi,
+142   of additional charges 4 obols ½, total 12 drachmas 3 obols ½ 2 chalkoi,
+143   the administration's freightage not being reckoned together,
+144   of wheat, in all of wheat 16 ½ 12 artabas, 6 drachmas 3 obols ½ 1 chalkous,
+145   total 26 drachmas 2 obols ½ 1 chalkous.
+146   Neompsonomoun … ai … of —mpheus,
+147   formerly of Agathos Daimon, son of Chairemon,
+148   of two-artaba (assessment) leased, arouras 3 ½, purchased from
+149   the marsh-revenue, arouras 3 ¾ 8,
+150   [1 ½] of dry-vine (land) of Sarapion, son of Origenes,
+151   1 ½ aroura, total in all arouras 5,
+152   of proper naubion 2 drachmas 3 obols, of embankment-tax 10 chalkoi which (are) 2 chalkoi,
+153   of exchange 1 obol ½, total 2 drachmas 4 obols ½ 2 chalkoi, of additional charges 1 obol,
+154   total 2 drachmas 5 obols ½ 2 chalkoi,
+155   [of priestly] treasury-dues 3 chalkoi, of priestly twentieth 5 drachmas, of additional charges 1 obol ½ 3 chalkoi,
+156   total 5 drachmas 1 obol ½ 3 chalkoi,
+157   of the administration's freightage of wheat, in all of the administration
+158   artabas 2 ½ 8, of priestly (dues) artabas 8 12, of marsh (dues) artabas 4 3 8 48,
+159   total artabas 15 6 48, 6 drachmas 3 chalkoi, total for the same 14 drachmas 2 obols 3 chalkoi.
+160   total of the item of proper naubion 9 drachmas 2 obols ½ 1 chalkous,
+161   of additional charges 3 obols ½, total 10 drachmas 1 chalkous,
+162   of priestly treasury-dues 1 obol 2 chalkoi, of twentieth 16 drachmas 5 obols 2 chalkoi,
+163   of additional charges 1 drachma 3 chalkoi, total 17 drachmas 5 obols ½ 1 chalkous,
+164   the administration's freightage not being reckoned together, 12 drachmas 4 obols,
+165   total for the same 40 drachmas 5 obols.
+166   Certain village-scribes remitted sum-totals from the underlying (dues) and others declared to be taken up among the men registered in the villages,
+167   on the ground that in olden times, when, they say,
+168   the sum-totals were established to be given, the villages were populous, but now
+169   some had failed entirely, and others
+170   from a larger number of men
+171   had come down to few,
+172   of whom the greater part, having grown weak,
+173   had withdrawn; and they added
+174   that Bassaeus Rufus, the most illustrious,
+175   in the 9th year, when he reckoned the nome,
+176   had released the like on other villages
+177   of the nome. The (amounts) therefore
+178   remitted by them, as next
+179   set out village by village, in the 9th year,
+180   and likewise also on behalf of the 10th year, were held over
+181   until the decision of the most excellent prefect;
+182   wherefore also for the 11th year
+183   it is held over.
+184   Ptenchat, Psenathre:
+185   concerning which the village-scribe declared that in the 16th year
+186   of the god Hadrian the men registered upon it were 319, but now
+187   they had come down to only, remaining,
+188   … 10 men, of whom 8 men [had withdrawn] because, he says, being
+189   few they could not [pay] the whole. [Of the administration] of the underlying (dues) of the topogrammateus, 100 drachmas,
+190   [others without] register, 64 drachmas, total 164 drachmas,
+191   [which net] 154 drachmas 2 obols 1 chalkous, of additional charges 9 drachmas 3 obols ½ 3 chalkoi, total the same,
+192   [of the superintendence of the] guards 80 drachmas, of additional charges 5 drachmas, total 85 drachmas,
+193   [of dues of interest] 56 drachmas and from apportionment
+194   [34 drachmas 4 obols], total 90 drachmas 4 obols,
+195   of additional charges 5 drachmas 4 obols, total 96 drachmas 2 obols,
+196   of the administration underlying and herald's-fee, 1 drachma 3 chalkoi,
+197   of additional charges 3 chalkoi, total 1 drachma ½-obol 2 chalkoi,
+198   of freightage of wheat, 15 4 24 artabas, 6 drachmas ½-obol 1 chalkous,
+199   total of the administration 316 drachmas 5 obols, of additional charges 19 drachmas 2 obols 3 chalkoi,
+200   total 336 drachmas 1 obol 3 chalkoi,
+201   of dues 90 drachmas 4 obols, of additional charges 5 drachmas 4 obols, total 96 drachmas 2 obols,
+202   total for the same 407 drachmas 3 obols, of additional charges 25 drachmas 3 chalkoi, total [drachmas] 432 [3 obols] 3 chalkoi,
+203   from which the village-scribe declared it ought
+204   to be exacted from the 2 remaining men, 9 drachmas 4 obols,
+205   for at the time, he says, when it was first established that the aforesaid
+206   sum-totals be given, there had been imposed on each
+207   man 4 drachmas 5 obols, and the remainder he remitted, of silver 422 drachmas 5 obols 3 chalkoi,
+208   and instead of these there are held over only
+209   those falling, in relation to the number of ten men,
+210   on the withdrawn men, 8,
+211   of silver 346 drachmas,
+212   of which:
+213   of the administration of the underlying (dues) of the topogrammateus, 131 drachmas 1 obol 2 chalkoi,
+214   which net 123 drachmas 3 obols, of additional charges 7 drachmas 4 obols 2 chalkoi, total the same,
+215   of the village-scribe, 64 drachmas,
+216   which net 60 drachmas 1 obol 3 chalkoi, [of additional charges] 3 drachmas 4 obols ½ 1 chalkous, total the same,
+217   of the superintendence of the guards, 68 drachmas, which net 64 drachmas,
+218   of additional charges 4 drachmas, total the same,
+219   of dues of interest, 77 drachmas 3 chalkoi, which net drachmas —,
+220   of additional charges 4 drachmas 3 obols 1 chalkous, total the same,
+221   of underlying and herald's-fee, 5 obols 3 chalkoi,
+222   which net 5 obols 1 chalkous, of additional charges 2 chalkoi, total the same,
+223   of freightage, 4 drachmas 5 obols,
+224   total of the administration 253 drachmas 2 obols ½,
+225   of additional charges [15 drachmas 3 obols 1 chalkous], total 268 drachmas 5 obols ½ 1 chalkous,
+226   of dues [72 drachmas 3 obols 2 chalkoi], of additional charges 4 drachmas 3 obols 1 chalkous,
+227   total [77 drachmas 3 chalkoi, total] the aforesaid 346 drachmas.
+228   Psen— … [concerning] which the village-scribe
+229   declared … in the register
+230   … 52 men,
+231   [but now to only] there had come down
+232   [men …, who, having] grown weak, [had withdrawn]
+233   … iapo—
+234   [of the underlying] … [of] the travel-allowance
+235   [of the reckoning, 40 drachmas],
+236   [which net 37 drachmas 3 obols ½ 3 chalkoi, of additional charges 2 drachmas 2 obols 1 chalkous, total] the same,
+237   of dues of interest, 72 drachmas
+238   and from apportionment, 44 drachmas [3 obols] ½ 1 chalkous, total 116 drachmas 3 obols ½ 1 chalkous,
+239   of additional charges 7 drachmas 1 obol ½ 1 chalkous, total 123 drachmas 5 obols 2 chalkoi,
+240   of underlying and herald's-fee, 1 drachma 1 obol 2 chalkoi,
+241   of additional charges ½-obol 3 chalkoi, total 1 drachma 2 obols 1 chalkous,
+242   total for the same 125 drachmas 1 obol 3 chalkoi,
+243   of the superintendence of the guards, 116 drachmas, of additional charges 7 drachmas 1 obol ½,
+244   total 123 drachmas 1 obol ½,
+245   of freightage of wheat, 30 ½ 12 artabas, 12 drachmas 1 obol ½,
+246   total of the administration of silver, 167 drachmas ½-obol 1 chalkous,
+247   of additional charges [9 drachmas] 4 obols ½, total 176 drachmas 5 obols 1 chalkous,
+248   of dues 116 drachmas 3 obols ½ 1 chalkous, of additional charges 7 drachmas 1 obol ½ 1 chalkous,
+249   total 123 drachmas 5 obols 2 chalkoi,
+250   total for the same 300 drachmas 4 obols 3 chalkoi.
+251   After those restored to agreement
+252   as set out above, as adjudged by Statianus, in which
+253   he made the reckoning of the nome in the 13th year,
+254   of silver 73 drachmas 2 obols, of which:
+255   of the administration 40 drachmas 2 chalkoi, of dues of interest 33 drachmas,
+256   total the aforesaid,
+257   remaining of the administration 136 drachmas 3 obols 1 chalkous,
+258   of dues of interest 90 drachmas 5 obols 2 chalkoi,
+259   total 227 drachmas 2 obols 3 chalkoi.
+260   Of the lands of debtors of the fiscus:
+261   the grain-dues falling due, on account
+262   of their being fully registered and in dry land,
+263   inspected in the 9th year, in another
+264   section were held over, and the money-payments
+265   here in the same manner
+266   also on behalf of the 10th year were assigned; wherefore also
+267   for the 11th year it is held over.
+268   Chiasteitos, Psenopsemouthis:
+269   of the marsh-revenue, of Artemidoros, son of Philoxenos, who gave in pledge
+270   on behalf of Ailourion, son of … —os
+271   the former … —ias
+272   1 4 of guards … —u
+273   4 … eik … 4
+274   vine-land …
+275   arouras 9, [of freightage of wheat artabas] … [drachmas] …
+276   Thelbonthis …
+277   Aneiketo— …
+278   … p …
+279   [of proper] naubion 2 drachmas 3 obols, of embankment-tax 10 chalkoi which (are) 1 chalkous,
+280   of exchange 1 obol [½], total 2 drachmas 4 obols ½ 1 chalkous,
+281   of additional charges 1 obol 2 chalkoi, total 2 drachmas 5 obols ½ 3 chalkoi,
+282   of priestly treasury-dues 3 chalkoi, of twentieth 5 drachmas,
+283   of additional charges 1 obol ½ 3 chalkoi, total 5 drachmas 1 obol ½ 3 chalkoi,
+284   of the administration's freightage of wheat, of the administration
+285   … artabas 8 2/3 24, … artabas 14 8, of which
+286   for the same, of wheat, artabas 22 ½ 3, of silver 9 drachmas ½-obol 1 chalkous,
+287   total 17 drachmas 2 obols ½ 2 chalkoi.
+288   The village-scribe of Thoneos declared
+289   that petitions were submitted in the 6th year to the one then administering the affairs of the administration
+290   from certain persons as having undertaken
+291   to lease plots situated round about … —a
+292   of the villages of Kolouth, Papseicheus,
+293   Magdola, Chonthon Panakerke
+294   for the hunting of wild animals and of fish, at a rent
+295   of that set out below; and that Artemidoros, the former royal (scribe),
+296   these having become manifest to him,
+297   had taken up in the 6th year
+298   the rent gathering according to the undertakings;
+299   but of those included, in whose name the undertaking was given,
+300   when they reported that they had not
+301   undertaken the plots for lease,
+302   undertaken the plots for lease,
+303   but that certain persons harassing them had, in their name,
+304   submitted petitions to the dioiketes as though they had undertaken
+305   plots for lease
+306   entirely useless,
+307   and that the then village-scribes had declared the same
+308   as those reported, (and) had written to
+309   Horion the former strategos concerning
+310   the sum-totals which he had taken up
+311   because he had reported (them)
+312   to Severianus …
+313   tonypesk— …
+314   the rent remitted …
+315   to those who had inspected …
+316   the plots …
+317   unclaimed …
+318   from them …
+319   and ei— … a … [to Artemi]-
+320   doros … the rent of the 6th year
+321   he set beside (the account) of which he had sent
+322   to the strategos Horion concerning the holding-over
+323   of the rent, the copy, through which it was declared
+324   that Artemidoros in the month Tybi of the 7th year had written to
+325   Horion that Annius Severianus,
+326   the former dioiketes, and Ulpius
+327   Marcellus, the former dikaiodotes
+328   who had succeeded Severianus,
+329   petitions having been submitted to them
+330   piecemeal in the name of certain persons
+331   from the villages of Thoneos, Papseicheus
+332   and others of the Ptegchat, through which
+333   as though undertaking (themselves)
+334   some to lease for certain years
+335   plots around the same villages,
+336   some as being under water
+337   for the hunting of fish and wild animals,
+338   others in the hollow places, and others
+339   to add by undertaking
+340   fish-catching in the embankment-enclosures — they wrote to the strategos Horion letters …
+341   [the] village-scribes … ta …
+342   that some of them were public
+343   cultivators and were sowing among them
+344   the barley-sown land
+345   and did not understand such work, and (that) it had been reported
+346   from a petition of certain persons to the same
+347   Severianus by the then strategos
+348   Horion, and to himself these same things,
+349   and that Horion ought
+350   to hold over the exaction of the sum-totals first taken up by him.
+351   Whence, these things being thus
+352   declared to have been done, according to what
+353   the village-scribe set beside (the account) in the 9th year,
+354   as through his own reports of the 9th year has been more fully declared, that the sum indicated
+355   had been gathered from the names of those
+356   set out below, whose undertakings
+357   were given, a rent remitted by the village-scribe,
+358   the equal of which Artemidoros in the 6th year, as previously declared,
+359   … both from the village
+360   [of Kolo]uth to have undertaken before the
+361   same dioiketes in the same 6th year concerning
+362   the same plots for 5 years, of the same
+363   and of the lawful surcharge
+364   … the quantity declared,
+365   and that there was gathered for the first
+366   year [drachmas] 200, and for the second 300 drachmas,
+367   and for the remaining triennial period of the lease, each
+368   year 500 drachmas, so as to be, he says, of the
+369   surcharge, 2000 drachmas; after whom
+370   Kephalas, son of Teous, the (son) of Kephalas,
+371   his mother being Tethreous, from the village
+372   of Magdola, to have undertaken before the same
+373   dioiketes in the same 6th year, in Tybi, for 5 years
+374   of yearly (dues) and others, 1500 drachmas.
+375   And the village-scribe, as is set out above,
+376   having declared that the (rent) taken up from the
+377   undertaking of … —aios
+378   had been assigned according to the (accounts)
+379   set beside by him, the sum gathered
+380   … of those in them as taken up
+381   … of the sum-total in the 9th year was held over
+382   and on behalf of the 10th year likewise until judgment;
+383   for it being declared, as is set out above,
+384   that … having leased
+385   the … plots for 5 years, he had undertaken
+386   to pay on behalf of rent, in the triennial period after the
+387   first two-year period,
+388   for the fulfilment of the five-year term, yearly 1000 drachmas
+389   and of the surcharge of silver 500 drachmas,
+390   and accordingly there being gathered on behalf of
+391   rent both of the 9th year and 10th year the equal 1500 drachmas,
+392   it was not necessary that these be undertaken
+393   one by one, they themselves not having declared
+394   that in their name too the undertaking had been given after the manner of Kephalas,
+395   nor indeed that concerning them
+396   anything had been reported. Whence also
+397   for the 11th year the equal of that held over
+398   for both the 9th year and 10th year until judgment as rent,
+399   as indeed it was gathered from those given
+400   in the name of the undertakings written below,
+401   is held over.
+402   Papseicheus and Magdola:
+403   Herathres, son of Pathos, from the village
+404   of Thoneos, was declared to have undertaken before
+405   Ulpius Marcellus, the former
+406   dikaiodotes acting as deputy for the absence
+407   of Annius Severianus, the former
+408   … dioiketes, for lease
+409   from the 6th year of Antoninus Caesar
+410   the lord and of the god Verus, for 5 years,
+411   plots under water in the midst
+412   of the aforesaid villages, first, he says, devised by him
+413   for the hunting of fish and wild animals,
+414   at a rent per year of 2500 drachmas, of additional charges 156 drachmas 1 obol ½,
+415   total 2656 drachmas 1 obol ½.
+416   Chonthon Panakerke:
+417   … boats(?) of Amphiomis, from the village
+418   of Thoneos, was declared to have undertaken for lease
+419   before Annius Severianus, the former
+420   dioiketes, from the 6th year of Antoninus
+421   Caesar the lord and of the god Verus
+422   [for … years] plots being under water
+423   [in the midst] of the boundaries of the Taneite and
+424   … of the aforesaid village
+425   … for the hunting of fish
+426   [and wild animals], at a rent per year of 2000 drachmas,
+427   [of additional charges 125 drachmas], total 2125 drachmas.
+428   total of these, of marsh (dues), 4500 drachmas,
+429   of additional charges 281 drachmas 1 obol ½, total 4781 drachmas 1 obol ½.
+430   Of local slaves, according to the times
+431   declared to have been sold to persons exempt (from tax),
+432   the poll-taxes are taken up,
+433   until the (registration-)document,
+434   having been inspected, is produced. And this having been produced in the 8th year and
+435   … the … inquiry
+436   having been completed, the poll-taxes of the 9th year and
+437   of the following 10th year were held over
+438   until judgment; wherefore also for the
+439   11th year it is assigned.
+440   Of the metropolis Thmouis, 2nd quarter, 3rd division:
+441   … —os also called Ailourion, on his mother's side
+442   (son of) Kallirhoe, slave of Apion, son of Potamon, was declared to have been sold in the 4th year,
+443   Payni 24, to Sarapion, son of Sarapion,
+444   the (son) of Isidoros, of the Sosikosmios (deme) also called Althaieus,
+445   of proper poll-tax 8 drachmas, which net 7 drachmas 3 obols 2 chalkoi, of additional charges 2 obols ½ 2 chalkoi,
+446   total the same,
+447   of embankment-tax 6 drachmas 4 obols, of additional charges 2 obols ½, total 7 drachmas ½-obol,
+448   total for the same 15 drachmas ½-obol.
+449   Of Mendes … [quarter] …
+450   Kronos, surnamed … to …
+451   slave of Ammon… —oros, son of Heron, from Mendes, was declared
+452   to have been sold in the 23rd year of the god Aelius
+453   Antoninus, in Epeiph, through Hierax,
+454   contract-writer of Isis Polis of the upper
+455   Sebennyte (nome), to Sarapias, a townswoman (astê),
+456   with as guardian her husband Titus
+457   Flavius … —nos, of proper poll-tax 8 drachmas,
+458   which net 7 drachmas 3 obols 2 chalkoi, of additional charges 2 obols ½ 2 chalkoi, total the same,
+459   of embankment-tax 6 drachmas 4 obols, of additional charges 2 obols ½, total 7 drachmas ½-obol,
+460   total for the same 15 drachmas ½-obol.
+461   … 7th quarter:
+462   … —ios, on his mother's side (son of) Aphrodite,
+463   [slave of] … —a … —etos, son of Harpokration,
+464   … —os, was declared to have been sold in the
+465   … [year of the god] Aelius Antoninus,
+466   [in the month] Phamenoth, through the
+467   agoranomeion [in] …, to Chrysermos,
+468   … also called Apollonios,
+469   … of the [S]osikosmios (deme) also called Althaieus,
+470   [of proper poll-tax 8 drachmas], which net 7 drachmas 3 obols 2 chalkoi, of additional charges 2 obols ½ 2 chalkoi,
+471   total the same,
+472   of embankment-tax 6 drachmas 4 obols, of additional charges 2 obols ½, total 7 drachmas ½-obol,
+473   total 15 drachmas ½-obol.
+474   9th quarter:
+475   Sarapion, slave of Eirenaios, son of Bienchion,
+476   was declared in the 6th year to have been sold to Kronios also called Harpokration, son of Harpokration, of the Sosikosmios (deme) also called Althaieus,
+477   of proper poll-tax 8 drachmas, which net 7 drachmas 3 obols 2 chalkoi,
+478   of additional charges 2 obols ½ 2 chalkoi, total the same,
+479   of embankment-tax 6 drachmas 4 obols, of additional charges 2 obols ½, total 7 drachmas ½-obol,
+480   total for the same 15 drachmas ½-obol.
+481   Of the Hermopolite, Hermou Polis:
+482   Harpokration, on his mother's side (son of) Sarapias,
+483   slave of … —phas(?) …tas, son of Herbechis, was declared
+484   to have been sold in the 6th year, in the month Tybi,
+485   to Ischyrion, son of Ischyrion, of the Sosikosmios (deme)
+486   also called Althaieus,
+487   of proper poll-tax 16 drachmas, of which:
+488   [remaining drachmas] 15 4 obols [½] 2 chalkoi, [which] net 14 drachmas 5 obols 2 chalkoi, of additional charges
+489   5 obols ½, total the same,
+490   [of priestly] treasury-dues 1 obol 2 chalkoi,
+491   [of embankment-tax] 6 drachmas 4 obols, of additional charges 2 obols ½, total 7 drachmas ½-obol,
+492   total for the same 23 drachmas ½-obol.
+493   total of the item [of proper poll-tax]
+494   of silver 4[7 drachmas 4 obols ½ 2 chalkoi], which [net 45 drachmas 2 chalkoi, of additional charges]
+495   2 drachmas 4 obols ½, [total the same],
+496   of priestly treasury-dues 1 obol 2 chalkoi,
+497   of embankment-tax 33 drachmas 2 obols, of additional charges 2 drachmas ½-obol, total 35 drachmas 2 obols ½,
+498   total for the same 83 drachmas 2 obols ½.
+499   Of lands declared to be (those)
+500   of a debtor of the treasury, the (dues) falling due
+501   both of the 9th year and 10th year, on the ground that in the 9th year
+502   they had been inspected as being in dry land, were assigned,
+503   until from the price of belongings
+504   sold, or from the revenue of the
+505   following … years, it be made up;
+506   wherefore also for the 11th year the money-
+507   payments in the same manner
+508   are held over.
+509   … of Ptolemaios, the (son) of
+510   … of the Sosikosmios (deme) also called Maroneus … from unsold (lands)
+511   … of Sarapion, the (son) of Me—
+512   … —nd— … —estamenou tou
+513   … arouras, Ischyrion, son of Sara—, … son of Ptolemaios
+514   … likewise of dry-vine land …
+515   [arouras] … 4, total of the administration [arouras] 41 ½ 16 32 64,
+516   likewise the same, from the priestly account (of unproductive land),
+517   arouras 18 4 8 64, total for the same arouras 60,
+518   of proper naubion 30 drachmas, of embankment-tax 120 chalkoi
+519   which (are) 2 obols 3 chalkoi, of exchange 3 drachmas 1 obol, total 33 drachmas 3 obols 3 chalkoi,
+520   of additional charges 2 drachmas ½-obol, total 35 drachmas 3 obols ½ 3 chalkoi,
+521   of priestly treasury-dues 4 obols 1 chalkous, of twentieth 60 drachmas, of additional charges 3 drachmas 4 obols ½,
+522   total 63 drachmas 4 obols ½,
+523   of the administration's freightage of wheat, in all of wheat
+524   93 2/3 8 48 artabas, 37 drachmas 2 obols ½ 3 chalkoi,
+525   total for the same 137 drachmas 3 obols 3 chalkoi.
+526   Of private land, being attached for sale in the
+527   procuratorship of the idios logos, the (dues) of the 9th year
+528   and 10th year falling due, on the ground that in the 9th year they had been inspected as being in
+529   dry land, were assigned; wherefore
+530   also for the 11th year the money-payments, the grain-payments having been held over in another section,
+531   are assigned, until from the price
+532   of belongings or from the revenue of the
+533   following … years it be made up.
+534   Ptempathio, Poeos:
+535   the name of Horeis being declared to be (that)
+536   of Horos, son of Elekis, surnamed … —li— —kou
+537   of the (land) purchased (in the name) of Harembasnis, son of Hesies,
+538   … to …
+539   of proper naubion 2 drachmas 3 obols,
+540   of embankment-tax 10 chalkoi which (are) 2 chalkoi, of exchange 3 obols 1 chalkous, total 3 drachmas 3 chalkoi,
+541   of additional charges 1 obol 1 chalkous, total 3 drachmas 1 obol ½,
+542   of priestly treasury-dues 3 chalkoi,
+543   of twentieth 6 drachmas 3 obols ½, of additional charges 2 obols ½, total 7 drachmas,
+544   of the administration's freightage of wheat, in all artabas 11 12,
+545   4 drachmas 2 obols ½, total for the same 14 drachmas 4 obols 3 chalkoi.
+546   Of another grain-bearing registration, of 20 arouras
+547   and of a surplus from inspection, of four arouras
+548   and over — six arouras and
+549   over — they were assigned among the unsold (lands), and
+550   in the 5th year 15 arouras were ceded to the public treasury,
+551   and in the 6th year also the arouras of the
+552   surplus remaining, 3
+553   [and over], were ceded, of which also the … rents of the part
+554   among the unsold (lands) of the public (lands) were fixed …
+555   … on behalf of the 6th year and of it
+556   … —nep— … —te … —ta on behalf
+557   … pro— … —an … —ei …sth
+558   … the grain-dues falling due
+559   … —oue— … —sost— … in an-
+560   other section, on the ground that, as previously declared,
+561   the part among the unsold (lands) in the 8th year
+562   was fixed as of the public (lands), and in the 8th year in
+563   dry land was inspected, and the (dues) falling due
+564   of it by supplementary entry were held over
+565   and assigned, the money-payments
+566   in the same manner in the 9th year
+567   and 10th year are taken up and assigned
+568   and for the 11th year are held over.
+569   Ptempathio, Poeos, of one-artaba (assessment), purchased
+570   (in the name) of Harembasnis, son of Hesies, arouras 20,
+571   of which there were assigned among the unsold (lands) in the name
+572   of Horos, son of Elekis, arouras 5,
+573   and to the public treasury were ceded
+574   in the 5th year arouras 15, and in the 6th year of the
+575   same surplus, from inspection of the whole land, arouras 3 ¾ 32 128, of proper
+576   administration naubion, arouras 15, 7 drachmas 3 obols,
+577   of embankment-tax 30 chalkoi which (are) ½-obol 1 chalkous, of exchange 3 obols ½ 1 chalkous,
+578   total 8 drachmas 1 obol 2 chalkoi, of additional charges 3 obols 1 chalkous, total 8 drachmas 4 obols [3 chalkoi],
+579   of treasury-dues 1 obol, of twentieth, arouras 18 [¾ 32 128]
+580   of silver 18 drachmas 4 obols ½ 2 chalkoi, of additional charges 1 drachma 2 obols, total 20 drachmas
+581   [½-obol 2 chalkoi],
+582   the administration's
+583   freightage of wheat, in all [artabas] 36 24,
+584   of silver 14 drachmas 2 obols ½, total for the same 43 drachmas 2 obols ½ 1 chalkous.
+585   Of a private grain-bearing registration, of a debtor of the treasury, the (dues) falling due
+586   both of the 9th year and 10th year, on the ground that in dry land
+587   in the 9th year it had been inspected, were assigned; wherefore
+588   also for the 11th year the money-payments, the grain-payments
+589   having been assigned in another section, in the same manner are held over.
+590   Ptegchat, Kepte, formerly of Apollonarion,
+591   son of Philoxenos, purchased (in the name of) Philox— —mend—
+592   son of Philoxenos, and of Apollonios,
+593   son of Ischyrion, and of other names,
+594   [arouras] 31 ¾ 8, of proper administration naubion
+595   [drachmas] 15 5 obols ½ 1 chalkous, of embankment-tax 63 ¾ chalkoi which (are) 1 obol 2 chalkoi,
+596   [of exchange 1 drachma 4 obols 1 chalkous], total 17 drachmas 5 obols, of additional charges 1 drachma ½-obol
+597   2 chalkoi, total [drachmas] 18 5 obols ½ 2 chalkoi,
+598   [of] additional charges 2 drachmas, total 32 drachmas 5 obols 2 chalkoi,
+599   [of the administration's] freightage of wheat, in all artabas 35 ½ 3 8
+600   [of silver drachmas] 14 2 obols 3 chalkoi, total for the same 67 [drachmas 3 obols] ½ 1 chalkous.
+601   [The] village-scribe of Petetei and other villages
+602   remitted [the underlying (dues)] and others taken up
+603   against those from Petetei and Psenar[pokrates] and Psenbienchon E—
+604   —rephous, saying [that]
+605   Petetei in the then disturbance … had been made (?), and that the greater part …
+606   of those of Petetei and of Psenarpokrates and of Psenbiengchis, remaining in
+607   Petetei, had been killed in the 8th year by the military force that had been sent
+608   and that the villages were utterly deserted.
+609   The (amounts) therefore remitted by the village-scribe in the 9th year were assigned in the 9th year
+610   and 10th year until judgment; wherefore also for
+611   the 11th year it is held over. Of the administration,
+612   the hide-tax of the nome being proclaimed each year, according to the previous years there are taken up:
+613   for Petetei, through the shepherds, 26 drachmas,
+614   of additional charges 1 drachma 3 obols ½ 2 chalkoi, total 27 drachmas 3 obols ½ 2 [chalkoi],
+615   of priestly treasury-dues 2 drachmas 1 obol 2 chalkoi, of additional charges ½-obol 2 chalkoi, total [2 drachmas 2 obols],
+616   total 28 drachmas 1 obol 2 chalkoi, of additional charges 1 drachma 4 obols ½, total 29 [drachmas 5 obols ½ 2 chalkoi],
+617   of other items customarily [by] supplementary entry
+618   declared to be taken up and proclaimed
+619   each year:
+620   Nephie, of pastures of livestock existing under lease with Nemesion, son of Ammonios, confirmed
+621   for the elders of Petetei, 8 drachmas, of additional charges 3 obols, total [drachmas] 8 3 obols,
+622   [and] from the account of the third part of the rent
+623   of the bath, Petetei, 1 bath, 16 drachmas,
+624   of additional charges 1 drachma, total 17 drachmas,
+625   of Psenarpokrates, of the bath, 4 drachmas, of additional charges 1 obol ½, total 4 drachmas 1 obol ½,
+626   and from the account of those falling
+627   under the tax-farm of interest-bearing (loans):
+628   Petetei and Nephie, 340 drachmas,
+629   [and] from apportionment, 210 drachmas 3 obols ½,
+630   total 550 drachmas 3 obols ½, of additional charges 34 drachmas 2 obols ½, total 585 drachmas,
+631   [of underlying] and herald's-fee 6 drachmas ½-obol 2 chalkoi,
+632   of additional charges 2 obols 2 chalkoi, total 6 drachmas 3 obols,
+633   [total] of silver 591 drachmas 3 obols,
+634   [of Psenarpo]krates 44 drachmas
+635   [and from] apportionment 27 drachmas 1 obol ½,
+636   [total 71 drachmas] 1 obol ½, of additional charges 4 drachmas 2 obols ½ 2 chalkoi,
+637   total 75 drachmas 4 obols 2 chalkoi,
+638   of underlying and herald's-fee 4 obols ½ 2 chalkoi, of additional charges 2 chalkoi, total 5 obols,
+639   total for the same 76 drachmas 3 obols 2 chalkoi,
+640   of Psenbiengchis 28 drachmas
+641   and from apportionment 17 drachmas 1 obol ½ 2 chalkoi,
+642   total 45 drachmas 1 obol ½ 2 chalkoi, of additional charges 2 drachmas 5 obols, total 48 drachmas ½-obol 2 chalkoi,
+643   of underlying and herald's-fee 2 obols ½ 3 chalkoi,
+644   of additional charges 1 chalkous, total 3 obols,
+645   total for the same 48 drachmas 3 obols ½ 2 chalkoi,
+646   and from the account of money-rents of estate (lands)
+647   of the estates of the god Vespasian, formerly of Latinus,
+648   of sheep declared to have been purchased
+649   in the 1st year of Domitian by Harpokra—
+650   also called Didymos, son of Theo—, and Harpokra—
+651   son of Tithoes, superintendents …
+652   and of the villages written below …
+653   Petetei, 1 sheep [6 drachmas],
+654   of additional charges 2 obols 2 chalkoi, total [6 drachmas 2 obols 2 chalkoi],
+655   and formerly of the guards, rent of sheep [14]
+656   from 6 drachmas, 84 drachmas, of [additional charges 5 drachmas 1 obol ½, total 89 drachmas 1 obol ½],
+657   and formerly of Chrestos, Petetei …
+658   195 drachmas, of additional charges 12 drachmas 1 obol [1 chalkous, total 207 drachmas 1 obol 1 chalkous],
+659   likewise … —ios …
+660   formerly of Chrestos … those 4(?)
+661   of silver 136 drachmas 1 obol, of additional charges 8 drachmas 3 obols, total 144 drachmas 4 obols,
+662   of goats of the same estate, formerly of Chrestos,
+663   Petetei, 2 goats, 11 drachmas, of additional charges 4 obols, total 11 drachmas 4 obols,
+664   and from the register of the underlying (dues) of the village-scribe and others:
+665   Petetei, of travel-allowance of the reckoning, 100 drachmas,
+666   Nephie, of travel-allowance of the reckoning, 3 drachmas,
+667   total 103 drachmas,
+668   which net 96 drachmas 5 obols ½ 1 chalkous, of additional charges 6 drachmas 3 chalkoi, total the same,
+669   of others without register, customarily
+670   given, instead of which of the underlying (dues) of the topogrammateus:
+671   Petetei, of travel-allowance of the reckoning, 100 drachmas,
+672   to the oil-seller, of oil 1 chous, 8 drachmas,
+673   Psenbienchis, of travel-allowance of the reckoning, 12 drachmas,
+674   total 120 drachmas, which net 112 drachmas 5 obols ½ 1 chalkous, of additional charges 7 drachmas 3 chalkoi, total the same,
+675   and from the account of the superintendence of the guards
+676   customarily there are taken up:
+677   Petetei and Psenbiengchis, 336 drachmas,
+678   of additional charges 21 drachmas, total 357 drachmas,
+679   of Psenarpokrates, 64 drachmas, of additional charges 4 drachmas, total 68 drachmas,
+680   total of the administration 713 drachmas 1 obol 2 chalkoi,
+681   of priestly (dues) 2 drachmas 2 obols,
+682   of dues of interest, 708 drachmas 5 obols,
+683   of estate (dues), 459 drachmas ½-obol 3 chalkoi,
+684   total for the same 1883 drachmas 3 obols 1 chalkous,
+685   from which there were restored to agreement
+686   by the eklogistes of the nome as
+687   adjudged by Statianus in the reckoning of the nome which he made
+688   in the 13th year, to be reckoned among the collectible (dues),
+689   from those of Petetei
+690   assigned to the Psaneite, 32 drachmas 1 obol ½,
+691   and from those of Psenarpokrates
+692   assigned, 6 drachmas 2 obols
+693   and from those of Psenbiengchis, 139 drachmas 1 obol 2 chalkoi,
+694   total of these 177 drachmas 4 obols ½ 2 [chalkoi], [of which]
+695   of the administration 80 drachmas 4 obols ½ 2 chalkoi, of priestly (dues) [2 drachmas 2 obols],
+696   of dues of interest 90 drachmas 4 obols 2 chalkoi, total [the aforesaid],
+697   and likewise those of Nephie declared above the same …
+698   toward the being remitted apot— …
+699   and of those here k— … he sent kata—
+700   … adjudged [623 drachmas, of which]
+701   of the administration 18 drachmas, [of dues of interest] 585 drachmas, total the aforesaid,
+702   total for the same of the administration 98 drachmas 4 obols ½ 2 chalkoi,
+703   of priestly (dues) 2 drachmas 2 obols, of dues of interest 679 drachmas 4 obols,
+704   total of silver 780 drachmas 4 obols ½ 2 chalkoi,
+705   remaining of the administration 614 drachmas 2 obols ½,
+706   of dues of interest 29 drachmas 1 obol,
+707   of estate (dues) 459 drachmas ½-obol 3 chalkoi,
+708   total 1102 drachmas 4 obols 3 chalkoi.
+709   The same village-scribe also remitted the (amounts) taken up on the village
+710   of Kerkenouphis and others, saying that the greater part of those
+711   from the village had been killed
+712   by the impious Nikokeitai,
+713   who came upon the village and burned it, and that others
+714   had died of the pestilential condition
+715   and that the remaining, being very few, had fled. The (amounts) therefore remitted by him in the 9th year were assigned,
+716   and likewise also on behalf of the 10th year; wherefore
+717   [also for] the 11th year it is held over.
+718   … Kerkenouphis, 1 bath, 8 drachmas,
+719   of additional charges 3 obols, total 8 drachmas 3 obols,
+720   of interest 64 drachmas and from apportionment 39 drachmas 4 obols 1 chalkous,
+721   total 103 drachmas 4 obols 1 chalkous, of additional charges 6 drachmas 2 obols ½ 3 chalkoi, total drachmas
+722   110 ½-obol 3 chalkoi,
+723   of underlying and herald's-fee 1 drachma ½-obol,
+724   of additional charges 2 chalkoi, total 1 drachma ½-obol 2 chalkoi,
+725   of the superintendence of the guards 96 drachmas, of additional charges [drachmas] 6, total 102 drachmas,
+726   of the underlying (dues) of travel-allowance of the reckoning, [drachmas] 108,
+727   which net 101 drachmas 3 obols ½ 3 chalkoi, of additional charges 6 drachmas [2 obols 1 chalkous, total the] same,
+728   of freightage of wheat, 30 artabas, [drachmas] 12,
+729   total of the administration 214 drachmas 1 obol ½ 1 chalkous, [of additional charges 13 drachmas] 2 obols 1 chalkous,
+730   total of silver 227 drachmas 3 obols ½ 2 chalkoi,
+731   of items 103 drachmas 4 obols 1 chalkous, of additional charges 6 drachmas 2 obols ½ 3 chalkoi, total 110 drachmas 1 obol,
+732   of freightage of wheat, in all 30 artabas, 12 drachmas,
+733   total for the same 349 [drachmas 4 obols ½ 2 chalkoi].
+734   After those restored to agreement [by]
+735   the eklogistes of the nome, as …
+736   —ato … —o … of the item it is declared [141 drachmas 1 obol ½ 2 chalkoi],
+737   of which:
+738   of the administration 75 drachmas ½-obol 2 chalkoi, of items [66 drachmas 1 obol, total the aforesaid],
+739   remaining of the administration [152 drachmas 3 obols],
+740   of items [44 drachmas], [of freightage 12 drachmas],
+741   total [208 drachmas 3 obols].
+742   Of vineyard-properties of certain debtors of the fiscus, being attached
+743   among the unsold (lands), on the (occasion) of the
+744   inspection of the nome of the 9th year, inspected as being in dry land,
+745   the money-payments, no revenue of the names
+746   accruing, until from the price
+747   of belongings sold
+748   it be made up, to be assigned
+749   according to entry in the 9th year and 10th year were passed on;
+750   wherefore also for the 11th year it is held over.
+751   Of the Hermopolite, Pekerkea:
+752   formerly of Moschion, son of Philon, of vineyard,
+753   in which there are wells(?) … and a water-machine installation
+754   epe— … —e … of an aroura 64, arouras 6 ½, 1 name,
+755   registered as sacred, leased through the same
+756   Eros, son of Leonides, … —sios
+757   through the aforewritten Moschion,
+758   and formerly of Ammonios, son of Hermarpokrat—,
+759   of private-owned (land), arouras 3 ¾ 8 16 32, 1 name, total arouras 10 4 8 16 32,
+760   2 names, of money (dues), of naubion 5 drachmas 5 obols 3 chalkoi, of additional charges
+761   [2 obols] 2 chalkoi, total 6 drachmas 1 obol ½ 1 chalkous, of treasury-dues ½-obol 2 chalkoi,
+762   of aroura-tax at 6 drachmas 4 obols, 69 drachmas 5 obols ½ 2 chalkoi,
+763   of additional charges 4 drachmas 2 obols 2 chalkoi, total 74 drachmas 2 obols,
+764   of treasury-dues 1 drachma 2 obols ½ 2 chalkoi, which net 1 drachma 2 obols ½, of additional charges 2 chalkoi, total the same,
+765   of vineyard-rent at 60 chalkoi (?), 3 chalkoi, 631 ½ 8 chalkoi,
+766   of exchange 65 ¾ chalkoi, total 697 3 24 chalkoi
+767   which (are) 2 drachmas 2 obols, of additional charges ½-obol 3 chalkoi, total 2 drachmas 2 obols ½ [3 chalkoi],
+768   of treasury-dues 2 chalkoi, of eight-drachma (tax) 16 drachmas, of additional charges 1 drachma, total 17 drachmas,
+769   of treasury-dues 2 obols, of apomoira at 20 drachmas,
+770   of silver 79 drachmas 2 obols [2 chalkoi] and at 40 drachmas, 260 drachmas,
+771   total of apomoira 339 drachmas 2 obols 2 chalkoi, of additional charges 21 drachmas 1 obol 2 chalkoi,
+772   total of silver 360 drachmas 3 obols ½,
+773   total of the administration 94 drachmas 1 obol 1 chalkous, of additional charges 5 drachmas 5 obols 3 chalkoi,
+774   total 100 drachmas ½-obol,
+775   of priestly (dues) 341 drachmas 1 obol ½ 2 chalkoi, of additional charges 21 [drachmas] 1 obol ½,
+776   total 362 [drachmas 3 obols 2 chalkoi],
+777   total for the same [462 drachmas 3 obols ½ 2 chalkoi.]
+778   Of grain-bearing private [lands]
+779   of debtors of the fiscus, [among the unsold (lands)]
+780   attached, on the (occasion) [of the nome's]
+781   inspection [of the] 9th year, [as being in dry land]
+782   inspected, [the (dues) falling due],
+783   no revenue [of the names]
+784   accruing, in suspension …
+785   k— … [whence] also for the
+786   11th year the money-payments, in due sequence
+787   with the grain-payments in another section,
+788   where also the per-man (assessment) is declared,
+789   having been held over, is held over.
+790   Of the Hermopolite, Rao, of the purchased (land), arouras 5,
+791   Pe.erkea, 1 ½ of dry-vine land, arouras 4 4 128,
+792   total of the plot, arouras 9 4 8 128, of naubion 4 drachmas 4 obols 2 chalkoi,
+793   of embankment-tax 18 ¾ 64 chalkoi which (are) 3 chalkoi, total 4 drachmas 4 obols ½ 1 chalkous,
+794   of exchange 3 obols 1 chalkous, total 5 drachmas 1 obol ½ 2 chalkoi,
+795   of additional charges 2 obols, total 5 drachmas 3 obols ½ 2 chalkoi,
+796   of treasury-dues ½ 1 chalkous, of priestly [twentieth] 9 drachmas 2 obols 3 chalkoi
+797   of additional charges 3 obols ½, total 9 drachmas 5 obols ½ 3 chalkoi,
+798   the freightage not being reckoned together, artabas 13 [½ 3] 48
+799   of silver 5 drachmas 3 obols 2 chalkoi, total for the same 21 drachmas 1 obol ½.
+800   Of a vineyard of a debtor of the fiscus, the
+801   payments in the 1st year of Aurelius Antoninus
+802   Caesar the lord and of the god
+803   Verus were held over on the ground that it had gone dry. Whence it was passed on by the
+804   eklogistes of the nome, so that it might be examined
+805   whether it had gone dry through the fault of anyone, and
+806   at the inspection made in the 2nd year,
+807   in relation to what he had inquired,
+808   it was set beside (the account) that the village-scribe had reported, first in the 23rd year
+809   of the god Aelius Antoninus,
+810   that the vineyard through age had gone dry, and that those who inspected the current-year crops had written it to be in
+811   dry land through age. Thereafter
+812   accordingly it was declared that the payments
+813   were held over, until from the price
+814   of them or of other belongings
+815   of the debtor sold it be made up; and in the 7th year the payments
+816   on the ground that in the 6th year too all was inspected in dry land
+817   were reduced, which in the 9th year
+818   with those owed on behalf of the 8th year and 9th year
+819   [were taken up] and
+820   held over … —pseis
+821   of the fixing (of assessment), those who inspected
+822   having written [the vineyard to have appeared]
+823   to them [to be in dry land] through
+824   age … 8th year(?)
+825   in the [same manner it was taken up]
+826   and held over …
+827   this …
+828   … that the vineyard happens still
+829   from the 23rd year of the god Aelius
+830   Antoninus, according to what was reported by the
+831   village-scribe, to be in
+832   dry land through age, with which, he says,
+833   those who inspected in the 2nd year too
+834   were in agreement, as previously declared;
+835   this very thing by report,
+836   in order that it not escape notice, was shown. The
+837   money-payments therefore also on behalf of the 11th year are passed on for holding over.
+838   Ptenchat, Psenkoraias:
+839   Anempis, son of Ischyrion, former
+840   overseer of the concession of superintendence, of private-owned (land) at 20 drachmas:
+841   Zmithis, son of Petechon, through
+842   Ischyrion, son of Philoxenos, of vineyard that has disappeared and through age
+843   gone dry, arouras 2 4 64, of an aroura 4 8 16 32 128, [1 name,]
+844   Orsenouphis, son of Kathylis, of vineyard through age
+845   gone dry, of an aroura ½ 16, of a name ½ 16,
+846   of dry land, aroura 1 ¾ 8 16 32 128,
+847   of Amonneus, son of Kathylis, likewise, of an aroura 8 16,
+848   of a name 8 16, a … of private-owned (land) of Hesies,
+849   son of Teos, formerly of Zmithis, son of Petechon,
+850   through Aneiketos, son of Ischyrion, of dry-vine land, aroura 1 ½,
+851   total of the village, of vineyard through age gone dry, arouras 3 64,
+852   1 name ¾, of submerged (land) gone dry, of an aroura 4 8 16 32 128,
+853   of dry land subject to naubion, arouras 3 4 8 16 32 128,
+854   Pnembre, of private-owned (land) of Amphiomis, son of Paseis,
+855   through Aneiketos, son of Ischyrion, of vineyard
+856   through age gone dry, arouras 2 ½ 8,
+857   1 name, another … of an aroura ¾ 8, of a name ¾ 8,
+858   total arouras 3 ½, name 1 ¾ 8, of dry land subject to naubion
+859   arouras 2 16,
+860   Demasty, of sacred (land) of Amphiomis, son of Paseis,
+861   through the same, of vineyard likewise through age
+862   gone dry, [aroura 1 ¾] 8 16, of dry land [of an aroura] 4 16, 1 name,
+863   total of the plot, [of sacred (land)] aroura 1 ¾ 8 16,
+864   of private-owned (land) arouras 6 ¾ 8 16 32 64 128,
+865   total [arouras 8 ¾ 8 32 64] 128, names 4 ½ 8,
+866   of [dry land arouras 5 ¾ 16 32 128], of the administration naubion
+867   arouras [14 ¾ 32], 7 drachmas 2 obols 3 chalkoi,
+868   [of embankment-tax 29 ½ 16 chalkoi] which (are) ½-obol 1 chalkous,
+869   of [exchange 4 obols ½ 1 chalkous, total drachmas] 8 1 obol ½ 1 chalkous,
+870   [of additional charges 3 obols 1 chalkous, total] 8 drachmas 4 obols ½ 2 chalkoi,
+871   [of priestly treasury-dues 1 obol],
+872   of aroura-tax at 6 drachmas 4 obols, arouras 8 ¾ 8 32 64 128
+873   of silver 59 drachmas 3 obols 2 chalkoi, of additional charges 3 drachmas 4 obols 3 chalkoi, total 63 drachmas
+874   1 obol ½ 1 chalkous,
+875   of priestly treasury-dues 1 drachma 1 obol 3 chalkoi,
+876   of vineyard-rent at 60 chalkoi 3 chalkoi, 538 ¾ 48 chalkoi,
+877   of exchange 56 12 chalkoi, total 594 ½ 3 48 chalkoi, which is 1 drachma 5 obols ½ 3 chalkoi,
+878   of additional charges ½-obol 2 chalkoi, total 2 drachmas ½-obol 1 chalkous,
+879   of priestly treasury-dues 2 chalkoi, of eight-drachma (tax) 37 drachmas,
+880   of additional charges 2 drachmas 1 obol ½ 3 chalkoi, total 39 drachmas 1 obol ½ 3 chalkoi,
+881   of priestly treasury-dues 4 obols ½ 1 chalkous,
+882   of apomoira at 40 drachmas, 77 drachmas 3 obols,
+883   of private-owned (land) at [20 drachmas], 139 drachmas 5 obols 1 chalkous,
+884   total of silver 217 drachmas 2 obols 1 chalkous,
+885   of additional charges 10 drachmas 3 obols ½, total 227 drachmas 5 obols ½ 1 chalkous,
+886   total of the administration 106 drachmas 4 obols ½ 2 chalkoi, of additional charges 6 drachmas 4 obols 1 chalkous, total
+887   113 drachmas 2 obols ½ 3 chalkoi,
+888   of priestly (dues) 219 drachmas 3 obols 3 chalkoi, of additional charges 10 drachmas 3 obols ½, total 230 drachmas
+889   ½-obol 3 chalkoi,
+890   total for the same 343 drachmas 3 obols ½ 2 chalkoi.
+891   And of those of the 8th year:
+892   the scribe of the cities of the 8th year, declaring
+893   that, a slave having been sold tax-free, the (dues) owed for the deduction still from the 6th year
+894   had been struck off, wrote that the
+895   poll-taxes of the 8th year ought to be remitted;
+896   which, the (registration-)document having been inspected
+897   and produced, were assigned in likeness to other slaves sold tax-free, concerning which Flavius
+898   Titianus, the former prefect, it having been reported to him by the royal scribe
+899   that the document had been inspected
+900   and produced to him, wrote
+901   that it should be established at the reckoning; wherefore
+902   also for the 11th year according to the previous
+903   years it is assigned, since nothing as concerning
+904   them judged at the recent
+905   reckoning of the nome
+906   became manifest to me.
+907   Of the metropolis Thmouis, 1st quarter,
+908   … division: Alexandros, slave of Didymos and Aneiketos, both (sons) of Paesis,
+909   [the (son) of] Isidoros, 50 years old, declared to have been sold
+910   [in the … year], in Mesore, by the aforewritten,
+911   [through] Ammonios, son of Heron, contract-writer
+912   [of Thmouis], to Isidoros, son of Sarapion,
+913   [also called] Didymos, of the Sosikosmios (deme)
+914   [also called] …—eus, of proper poll-tax 8 drachmas,
+915   [which net 7 drachmas 3 obols 2 chalkoi], of additional charges 2 obols ½ 2 chalkoi, total the same,
+916   of embankment-tax 6 drachmas 4 obols, of additional charges 2 obols ½, total 7 drachmas ½-obol,
+917   total for the same 15 drachmas ½-obol.
+918   Sum-totals from the underlying (dues) and others
+919   taken up against those from the village
+920   of Psobthon Haryoteos of the
+921   toparchy of the Phernouphite: the village-scribe
+922   for the 8th year, saying that the village
+923   [by] assault had been burned still from
+924   the 7th year, in accordance with the (letters) written to Blassianus the former prefect,
+925   assigned (them), adding that the men in it had come down from a larger number
+926   to only 2,
+927   who had (also) withdrawn.
+928   Whence accordingly, from him, thereafter until the 10th year it was held over;
+929   wherefore also for the 11th year, since, as
+930   is set out, nothing [concerning them]
+931   judged became manifest to me,
+932   it is assigned.
+933   Of the Phernouphite, Psobthon [Haryoteos]:
+934   of the underlying (dues) of the village-scribe, of travel-allowance of the reckoning, 60 drachmas, which net 56 drachmas 2 obols ½ 3 chalkoi, [of additional charges 3 drachmas 3 obols 1 chalkous],
+935   … drachmas 20
+936   [which] net 18 drachmas 5 obols, of additional charges 1 drachma 1 obol, total the aforesaid,
+937   total of the administration 75 drachmas 1 obol ½ 3 chalkoi, of additional charges 4 drachmas 4 obols 1 chalkous,
+938   total of silver 80 drachmas,
+939   of dues of interest 100 drachmas and from apportionment
+940   62 drachmas, total 162 drachmas,
+941   of additional charges [10 drachmas] ½-obol 2 chalkoi, total 172 drachmas ½-obol 2 chalkoi,
+942   of the administration underlying [and] herald's-fee 1 drachma 5 obols 1 chalkous,
+943   of additional charges ½-obol 1 chalkous, total 1 drachma 5 obols ½ 2 chalkoi,
+944   of the superintendence of the guards 32 drachmas, of additional charges 2 drachmas, total 34 drachmas,
+945   total of the administration 115 drachmas 5 obols ½ 2 chalkoi,
+946   of items 172 drachmas ½-obol 2 chalkoi, total 288 drachmas ½-obol.
+947   After those restored to agreement
+948   by the eklogistes of the nome, as
+949   declared above, 26 drachmas 2 obols ½ 2 chalkoi,
+950   of which:
+951   of the administration [drachmas] 12 obols 2 ½ 2 chalkoi, of items 14 drachmas,
+952   [total] the aforesaid,
+953   remaining of the administration 103 drachmas 3 obols,
+954   of items 158 drachmas ½-obol 2 chalkoi, total 261 drachmas 3 obols ½ 2 chalkoi,
+955   … —om— … of Zmoumis … of the Phernouphite
+956   … p … —ep … in relation to the ambibolai (marsh-dwellers?)
+957   as being in number 31, per each
+958   man 20 drachmas. Since therefore the village-scribe,
+959   saying that of the ambibolai some had died,
+960   and others had been killed by the
+961   impious Nikocheitai who came upon
+962   Zmoumi, and that concerning the assault it had been written
+963   by the strategos Horion and Codratus the centurion to the former prefect
+964   Blassianus, and that they had come down to only
+965   5, of the 26 concerned
+966   he remitted the portion, which by me
+967   in the 8th year and the following years was held over
+968   and for the 11th year is assigned until
+969   judgment, since, as is set out,
+970   nothing [judged] concerning them
+971   became manifest to me.
+972   Of the Phernouphite, Zmoumis:
+973   of items 520 drachmas, of [additional charges 32 drachmas 3 obols, total 552 drachmas 3 obols].
+974   Those who administer the affairs of Eky …
+975   in the 8th year, matters e—…
+976   having declared …
+977   … 8 men, sum-totals
+978   from the underlying (dues) and others taken up
+979   they said ought to be held over
+980   on the ground that, he says, formerly the village
+981   was populous, and through them
+982   the exaction was made, but now
+983   it had come down to only 2,
+984   who had also withdrawn, and that the
+985   village was utterly deserted. Whence
+986   the (amounts) held over by them in the 8th year
+987   and the following years were passed on
+988   for being assigned according to entry in due sequence and according to
+989   what was declared on other villages;
+990   wherefore also for
+991   the 11th year it is assigned, since, as
+992   is set out, nothing concerning them
+993   judged became manifest to me.
+994   Of the Psaneite, Eky, of items of interest 108 drachmas
+995   and from apportionment 66 drachmas 5 obols ½, total 174 drachmas 5 obols ½,
+996   of additional charges 10 drachmas 5 obols ½, total 185 drachmas 5 obols,
+997   of underlying and herald's-fee 1 drachma 5 obols ½-obol 1 chalkous,
+998   of additional charges ½-obol 3 chalkoi, total 2 drachmas ½-obol,
+999   total for the same 187 drachmas 5 obols ½,
+1000  of the underlying (dues) of the [topogrammateus, of travel-allowance]
+1001  of the reckoning …
+1002  of the superintendence of the guards 8[4] drachmas, of additional charges 5 drachmas 1 obol ½, total 89 drachmas 1 obol ½,
+1003  of the third-part of the baths 4 drachmas,
+1004  of estate-property formerly of Chrestos,
+1005  the 2 (slaves) at 34 drachmas 2 obols, of silver 68 drachmas 4 obols,
+1006  of additional charges 4 drachmas 1 obol, total 72 drachmas 5 obols,
+1007  total of the administration [12]9 drachmas 5 obols ½ 1 chalkous, of additional charges 5 drachmas 2 obols 3 chalkoi,
+1008  total of silver 135 drachmas 2 obols,
+1009  of estate (dues) 68 drachmas 4 obols, of additional charges 4 drachmas 1 obol, total 72 drachmas 5 obols,
+1010  of items 174 [drachmas 5 obols] ½, of additional charges 10 drachmas 5 obols ½, total 185 drachmas 5 obols,
+1011  total for the same 394 drachmas.
+1012  After those restored to agreement
+1013  by the eklogistes of the nome, as
+1014  declared above …, 22 drachmas 5 obols ½ 2 chalkoi,
+1015  [of which]
+1016  of the administration … 11 drachmas,
+1017  of items … 11 drachmas 5 obols ½ 2 chalkoi,
+1018  [total the aforesaid],
+1019  remaining of the administration 124 drachmas 2 obols,
+1020  of estate (dues) … 72 drachmas 5 obols,
+1021  of items [173 drachmas 5 obols 2 chalkoi, total drachmas] 371 2 chalkoi.
+1022  And of those of the 7th year:
+1023  a slave having been declared to have been sold to a townswoman (astê),
+1024  the poll-taxes were taken up, until
+1025  the (registration-)document, having been inspected,
+1026  be produced. And this having been produced,
+1027  the (amounts) taken up, in likeness to other slaves sold tax-free,
+1028  whose poll-taxes, the document
+1029  having been produced to the royal scribe before me,
+1030  were held over — Flavius Titianus
+1031  the former prefect, concerning others
+1032  having written back to him that it should be established at the reckoning,
+1033  were assigned in the 7th year
+1034  and thereafter year by year until the decision of the most excellent
+1035  prefect; wherefore also
+1036  for the 11th year it is held over, since, as
+1037  is set out, nothing concerning him
+1038  judged became manifest [to me].
+1039  Of the metropolis Thmouis, 11th quarter,
+1040  of those registered under Mendes, but being
+1041  from the 20th quarter of Thmouis, of the 1st division:
+1042  Chresimos, slave of Kalleis also called Herous, daughter of Aphrodeisios, declared to have been sold
+1043  in the 24th year of the god Aelius Antoninus
+1044  through the registry-office by the aforewritten Kalleis to Philoxena,
+1045  daughter of Ammonios, a townswoman, with as guardian
+1046  Philoxenos, son of Zoilos, of the Sosikosmios (deme) also called
+1047  Althaieus, of proper poll-tax 8 drachmas,
+1048  which net [drachmas] 7 3 obols 2 chalkoi, of additional charges 2 obols ½ 2 chalkoi, total the same,
+1049  of embankment-tax 6 drachmas 4 obols, of additional charges 2 obols ½, total 7 drachmas ½-obol,
+1050  total of silver 15 drachmas ½-obol.
+1051  Sum-totals from the underlying (dues) and others
+1052  taken up among those from
+1053  certain villages: the village-scribes
+1054  of the 7th year assigned (them), saying
+1055  that the villages, formerly populous, now had come down entirely to few,
+1056  who were also in withdrawal,
+1057  and they added also Syriacus
+1058  of best memory at the
+1059  reckoning to have released the like. The (amounts) therefore held over from this
+1060  are assigned [also for the 11th year], since,
+1061  as is set out, nothing as
+1062  concerning them judged became manifest to me.
+1063  became manifest.
+1064  Neompsonomoun, Neblammis:
+1065  of the underlying (dues) of the topogrammateus, 40 drachmas,
+1066  of the village-scribe, of travel-allowance of the reckoning, 40 drachmas,
+1067  total of underlying (dues) 80 drachmas, which net 75 drachmas 1 obol ½ 2 chalkoi,
+1068  of additional charges 4 drachmas 4 obols 2 chalkoi, total the same,
+1069  of interest 20 drachmas and from apportionment 12 drachmas 2 obols 2 chalkoi,
+1070  total 32 drachmas 2 obols 2 chalkoi, of additional charges 2 drachmas 1 chalkous, total 34 drachmas 2 obols 3 chalkoi,
+1071  of the administration underlying and herald's-fee 2 obols 1 chalkous,
+1072  of additional charges 1 chalkous, total 2 obols 2 chalkoi,
+1073  total 34 drachmas 4 obols ½ 1 chalkous,
+1074  of the superintendence of the guards 40 drachmas, of additional charges 2 drachmas 3 obols, total 42 drachmas 3 obols,
+1075  the whole comes to, of the administration, 115 drachmas 3 obols ½ 3 chalkoi,
+1076  of additional charges 7 drachmas 1 obol 3 chalkoi, total 122 drachmas 5 obols 2 chalkoi,
+1077  of items 32 drachmas 2 obols 2 chalkoi, of additional charges 2 drachmas 1 chalkous, total 34 drachmas 2 obols 3 [chalkoi],
+1078  total for the same 157 drachmas 1 obol ½ 1 chalkous.
+1079  After those restored to agreement
+1080  by the eklogistes of the nome, as
+1081  is seen above, 26 drachmas 4 obols,
+1082  of which:
+1083  of the administration 20 drachmas 4 obols,
+1084  of items 6 drachmas, total the aforesaid,
+1085  remaining of the administration 102 drachmas 1 obol 2 chalkoi,
+1086  of items 28 drachmas 2 obols 3 chalkoi, total 130 drachmas 3 obols ½ 1 chalkous.
+1087  Of the Thmoiribite, Chnoutou:
+1088  of the underlying (dues) of the village-scribe, of travel-allowance
+1089  of the reckoning, 63 drachmas,
+1090  which net 59 drachmas 1 obol ½ 2 chalkoi, of additional charges 3 drachmas 4 obols 2 chalkoi, total the same,
+1091  of interest of Chnoutou 340 drachmas
+1092  and from apportionment 210 drachmas 3 obols ½, total 550 drachmas 3 obols ½,
+1093  of additional charges 34 drachmas 2 obols ½, total 585 drachmas,
+1094  of underlying and herald's-fee 6 drachmas 1 obol 3 chalkoi,
+1095  of additional charges 2 obols 3 chalkoi, total 6 drachmas 3 obols ½ 2 chalkoi,
+1096  of the superintendence of the guards of Chnoutou and Psenom—
+1097  … —icha, 136 drachmas, of additional charges 8 drachmas 3 obols, total 144 drachmas 3 obols,
+1098  … of the ransom of goats
+1099  … —aiti … —oacho … —on dia—
+1100  … —o … —m … 2 drachmas, of additional charges ½-obol 2 chalkoi, total 2 drachmas ½-obol 2 chalkoi,
+1101  … —on … po— Mendes, 2 drachmas,
+1102  of additional charges ½-obol 2 chalkoi, total 2 drachmas ½-obol 2 [chalkoi],
+1103  [total] of the ransom of goats 4 drachmas, of additional charges 1 obol ½, total 4 drachmas 1 obol ½,
+1104  of the physician of circumcision 34 drachmas, of additional charges 2 drachmas ½-obol 2 chalkoi,
+1105  total 36 drachmas ½-obol 2 chalkoi,
+1106  of papyrus-rolls of the contract-writer of the Thmoiribite,
+1107  of Chnoutou, apotaku(?) 2[4] drachmas,
+1108  of additional charges 1 drachma 3 obols, total 2[5 3 obols],
+1109  the whole comes to, of the administration, 225 drachmas 3 obols 1 chalkous,
+1110  of additional charges 14 drachmas ½-obol 1 chalkous, total 239 drachmas 3 obols ½ 2 chalkoi,
+1111  of priestly (dues) 38 drachmas, of additional charges 2 drachmas 2 obols 2 chalkoi, total 40 drachmas 2 obols 2 [chalkoi],
+1112  of items 550 drachmas 3 obols ½, of additional charges 34 drachmas 2 obols ½, total 58[5],
+1113  total for the same 865 drachmas.
+1114  After those restored to agreement as set out, 114 drachmas, of which of the administration [20 drachmas],
+1115  of priestly (dues) 40 drachmas 2 obols 2 chalkoi, of items 53 drachmas 3 obols ½ 2 chalkoi, total the aforesaid,
+1116  total of these, of the administration, of the underlying (dues) of the village-scribe
+1117  and topogrammateus, 143 drachmas,
+1118  which net 134 drachmas 3 obols ½, of additional charges 8 drachmas 2 obols ½-obol, [total the same],
+1119  of underlying and herald's-fee of interest [6 drachmas 3 obols ½],
+1120  of additional charges 2 obols ½, total [7 drachmas],
+1121  of the superintendence of the guards 176 drachmas, [of additional charges 11 drachmas, total 187 drachmas],
+1122  of the payment of the contract-writer [24 drachmas],
+1123  of additional charges 1 drachma 3 obols, total [25 drachmas 3 obols],
+1124  total for the same 9[62 ½-obol 2 chalkoi],
+1125  of additional charges [drachmas] 60 ½-obol 3 chalkoi, total [1022 drachmas 1 obol ½ 1 chalkous].
+1126  After those restored to agreement
+1127  by the eklogistes [of the nome], as above
+1128  on the other items has been declared, 140 drachmas 4 obols,
+1129  of which of the administration 40 drachmas 4 obols,
+1130  of priestly (dues) 40 drachmas 2 obols 2 chalkoi,
+1131  of items 59 drachmas 3 obols ½ 2 chalkoi, total the aforesaid,
+1132  remaining of the administration 321 drachmas 5 obols,
+1133  of items 559 drachmas 4 obols ½ 1 chalkous,
+1134  total 881 drachmas 3 obols ½ 1 chalkous.
+1135  The village-scribe of Thelbonthis and Bachon
+1136  of the Chiasteitos toparchy,
+1137  sum-totals from the underlying (dues) and interest
+1138  and others taken up, some upon the village
+1139  of Psenbiengchis, now deserted, some
+1140  upon Choron … —oimeos and Psenopsemouthis, and others upon … —nchon,
+1141  all being exacted from
+1142  those of Psenbiengchon Erkeireos —
+1143  formerly populous,
+1144  now having come down to only 14, of whom
+1145  10 men had withdrawn, and only 4 remained,
+1146  of whom what falls (to them) ought to be exacted
+1147  in accordance with the [things judged in the 3rd year by]
+1148  Syriacus of best memory
+1149  —tonou— …—ios
+1150  had determined …
+1151  those remaining … —en
+1152  to pay in … —on
+1153  others, whenever … —si.
+1154  Whence, accordingly, from them
+1155  the (amounts) on behalf of the 7th year and the following
+1156  years were held over … [and]
+1157  for the 11th year it is [assigned until] judgment, since, as is set out, nothing
+1158  as concerning them judged became manifest to me
+1159  became manifest.
+1160  Of the Chiasteitos, Psenbienchon Erkeireos:
+1161  of interest [156 drachmas] and from apportionment
+1162  of silver 9[6 3 obols ½, total] 252 drachmas 3 obols ½,
+1163  of additional charges [15 drachmas 4 obols ½ 2 chalkoi], total 268 drachmas 2 obols 2 chalkoi,
+1164  of underlying [and herald's-fee] 2 drachmas 5 obols,
+1165  of additional charges [1 obol], total 3 drachmas,
+1166  total [271 drachmas 2 obols 2 chalkoi], of the underlying (dues)
+1167  of the topogrammateus [100 drachmas, which net 94] ½-obol 2 chalkoi, of additional charges
+1168  [5 drachmas 5 obols 2 chalkoi, total] the same,
+1169  of the village-scribe Psene—
+1170  … —im— … —os, of travel-allowance of the reckoning [100 drachmas],
+1171  which net 94 drachmas ½-obol [2 chalkoi, of additional charges 5 drachmas 5 obols 2 chalkoi, total] the same,
+1172  total for the same, of the administration, 191 drachmas ½-obol,
+1173  of additional charges 11 drachmas 5 obols ½, total 203 drachmas,
+1174  from which those falling to those remaining,
+1175  of silver 58 drachmas, which net 54 drachmas 3 obols ½ 1 chalkous, of additional charges
+1176  3 drachmas 2 obols 3 chalkoi, total the same,
+1177  remaining, ought to be assigned, 136 drachmas 2 obols ½ 3 chalkoi,
+1178  of additional charges 8 drachmas 3 obols 1 chalkous, total 145 drachmas,
+1179  of which:
+1180  of the administration of the underlying (dues) of the topogrammateus 67 drachmas 1 obol ½,
+1181  of additional charges 4 drachmas 1 obol 2 chalkoi, total 71 drachmas 2 obols ½ 2 chalkoi,
+1182  of the village-scribe 67 drachmas 1 obol 3 chalkoi, of additional charges 4 drachmas 1 obol 3 chalkoi,
+1183  total 71 drachmas 2 obols ½ [2 chalkoi],
+1184  of underlying and herald's-fee of interest 2 drachmas,
+1185  of additional charges ½-obol 2 chalkoi, total 2 drachmas ½-obol 2 chalkoi,
+1186  of interest 252 drachmas 3 obols ½,
+1187  of additional charges 15 drachmas 4 obols ½ 2 chalkoi, total 268 drachmas 2 obols 2 chalkoi,
+1188  from which those falling to those remaining 76 drachmas 4 obols,
+1189  which net 72 drachmas 1 obol, of additional charges 4 drachmas 3 obols, total the same,
+1190  remaining, being those of the withdrawn and
+1191  ought to be assigned, [180 drachmas 2 obols ½, of additional charges 11 drachmas 1 obol ½ 2 chalkoi,
+1192  total 191 drachmas 4 obols 2 chalkoi],
+1193  [total for the same those which ought to be assigned 316 drachmas 5 obols 3 chalkoi],
+1194  [of additional charges 19 drachmas 4 obols ½ 3 chalkoi, total 336 drachmas 4 obols 2 chalkoi]
+1195  t …
+1196  7 …
+1197  1 …
+1198  p …
+1199  t …
+1200  20 …
+1201  ō …
+1202  yp— …
+1203  20 …
+1204  [of the underlying (dues) of the topogrammateus 20 drachmas],
+1205  [which net 18 drachmas 5 obols, of additional charges 1 drachma 1 obol, total the same],
+1206  [of the] village-scribe likewise, of travel-allowance of the reckoning, 20 drachmas, which net 18 drachmas 5 obols, of additional charges 1 drachma 1 obol, total the same,
+1207  total 40 drachmas, which net 37 drachmas 4 obols, of additional charges 2 drachmas 2 obols, total the same,
+1208  of the physician of circumcision 20 drachmas,
+1209  of additional charges 1 drachma 1 obol ½, total 21 drachmas 1 obol ½,
+1210  of items of interest 128 drachmas
+1211  and from apportionment 79 drachmas 2 obols, total 207 drachmas 2 obols,
+1212  of additional charges 12 drachmas 5 obols ½ 2 chalkoi, total 220 drachmas 1 obol ½ 2 chalkoi,
+1213  of the administration underlying and herald's-fee 2 drachmas 1 obol ½ 3 chalkoi,
+1214  of additional charges ½-obol 3 chalkoi, total 2 drachmas 2 obols ½ 2 chalkoi,
+1215  total of the administration 39 drachmas 5 obols ½ 3 chalkoi, of additional charges 2 drachmas 2 obols ½ [3 chalkoi],
+1216  total of silver 42 drachmas 2 obols ½ 2 chalkoi,
+1217  of priestly (dues) 20 drachmas, of additional charges 1 drachma 1 obol ½, total 21 drachmas 1 obol ½,
+1218  of items 207 drachmas 2 obols, of additional charges 12 drachmas 5 obols ½ 2 chalkoi,
+1219  total of silver 220 drachmas 1 obol ½ 2 chalkoi,
+1220  total of silver 267 drachmas 1 obol ½ 3 chalkoi, of additional charges 16 drachmas 4 obols 1 chalkous,
+1221  total of silver 284 drachmas.
+1222  After those restored to agreement
+1223  by the eklogistes of the nome, as above declared, 1[8 3 obols ½],
+1224  of which of the administration [2 drachmas 2 obols ½ 2 chalkoi],
+1225  of priestly (dues) 1 drachma [1 obol ½], of items 14 drachmas 5 obols 2 chalkoi, total the aforesaid,
+1226  remaining of the administration 40 drachmas,
+1227  of priestly (dues) 20 drachmas, of items 205 drachmas 2 obols ½,
+1228  total 265 drachmas 2 obols ½.
+1229  And of those of the 6th year:
+1230  the lands of a debtor of the fiscus, being among the unsold (lands), were inspected in dry land, from which nothing can accrue.
+1231  Whence the payments of them
+1232  were assigned in the 6th year and thereafter year by year;
+1233  wherefore accordingly also for the
+1234  11th year they were set in suspension, from which
+1235  the money-payments are placed here,
+1236  which, as is set out, nothing
+1237  as concerning them judged
+1238  became manifest to me.
+1239  Of the Hermopolite, Chorenou, arouras 4, of twentieth 4 drachmas,
+1240  of additional charges 1 obol ½, total 4 drachmas 1 obol ½,
+1241  of freightage of wheat, artabas 9 3 48, 3 drachmas 4 obols 2 chalkoi,
+1242  total for the same 7 drachmas 5 obols ½ 2 chalkoi.
+1243  A slave of Kometos was declared to have been sold to an Antinoite (woman). Whence the (dues) owed for the deduction were reckoned. And the
+1244  inquiry having been completed and the
+1245  nomarch of Antinoou having written
+1246  that there had been reported to him that the
+1247  woman who purchased … was registered
+1248  and appeared … —ouand— … —ti,
+1249  the poll-taxes were held over [by the] royal scribe before me,
+1250  by the royal scribe before me,
+1251  and for the 11th year are placed, since [as] is set out
+1252  nothing as concerning it judged
+1253  became manifest to me.
+1254  became manifest to me.
+1255  Ptempathio, [Psoara]mouneos:
+1256  Sarapion, on his mother's side (son of Th)ermouthis,
+1257  slave of Kallei…, declared to have been sold
+1258  in the 3rd year to Isaroutarion also called … , daughter of Sarapion
+1259  son of Hermias, … through
+1260  the mother, … with as guardian … [Ch]airemon,
+1261  son of Harp— [from Th]mouis,
+1262  of proper [poll-tax 16 drachmas, of which] of treasury-dues 1 obol 2 chalkoi,
+1263  [remaining 15 drachmas 4 obols ½ 2 chalkoi, which net 14 drachmas 5 obols 2 chalkoi, of additional charges
+1264  5 obols ½, total the] same,
+1265  of priestly treasury-dues 1 obol 2 chalkoi,
+1266  of embankment-tax 6 drachmas 4 obols, of additional charges 2 obols ½, total 7 drachmas ½-obol,
+1267  total 23 drachmas ½-obol.
+1268  Of a grain-bearing registration it was declared
+1269  that a part was (that) of a debtor of the fiscus,
+1270  and the remainder in the 6th year to the public treasury
+1271  had been ceded. And the … (land)
+1272  having been inspected in dry land,
+1273  the (dues) falling due reckoned from it
+1274  para— … a … some revenue
+1275  accruing from other belongings of the same debtor,
+1276  in the 6th year it was assigned and thereafter
+1277  year by year, but in the 9th year and the following 10th year
+1278  also the (dues) falling due on behalf of the ceded (land)
+1279  were held over;
+1280  wherefore also for the 11th year the money-
+1281  payments too, together with the freightage held over first
+1282  in the 10th year,
+1283  both of the (land) among the unsold and of the ceded, is held over, since as
+1284  is set out nothing as concerning [them]
+1285  judged became manifest to me.
+1286  Of the Psaneite, Lebo— … —enpro—
+1287  of Aelius Kalleinikos and Sarapion, son of Alexandros, arouras 148,
+1288  of which they were declared to be among the unsold (lands), in the name
+1289  of Aelius Kallimachos, debtor
+1290  of the fiscus, arouras 74,
+1291  and to have been ceded, in addition to these arouras, 74, [total the] aforesaid
+1292  arouras 148, of naubion at 3 obols, 74 drachmas,
+1293  of embankment-tax 296 chalkoi which (are) 1 drachma, total 75 drachmas,
+1294  of exchange 7 drachmas 4 obols 2 chalkoi, total 82 drachmas 4 obols 2 chalkoi, of additional charges 5 drachmas 1 obol,
+1295  total 87 drachmas 5 obols 2 chalkoi,
+1296  of priestly treasury-dues 1 drachma 3 obols ½ 2 chalkoi, of additional charges ½-obol, total
+1297  1 drachma 4 obols 2 chalkoi,
+1298  of twentieth 148 drachmas, of additional charges 9 drachmas 1 obol ½, total 157 drachmas 1 obol ½,
+1299  of the administration's freightage of wheat, in all artabas 150 ½ 3 24
+1300  of silver 60 drachmas 2 obols ½ 1 chalkous,
+1301  and first in the 10th year there were assigned, of freightage
+1302  of wheat, in all artabas 16 3, 6 drachmas 3 obols 2 chalkoi,
+1303  total of freightage 66 drachmas 5 obols ½ 3 chalkoi,
+1304  total for the same 31[3] drachmas 4 obols ½ 3 chalkoi, of which there are those first
+1305  assigned in the 9th year, 153 drachmas 4 obols 2 chalkoi
+1306  and in the 10th year likewise 100 drachmas 3 obols 2 chalkoi.
+1307  And of those of the 5th year.
+1308  Of slaves, of a fugitive taken-up (slave),
+1309  declared to remain,
+1310  the poll-taxes [in the 5th year] assigned by the
+1311  royal scribe before me,
+1312  until from revenue or price
+1313  of belongings [sold] be made up,
+1314  are placed also for the 11th year according to the previous
+1315  years, since as
+1316  is set out nothing as concerning them
+1317  judged became manifest to me.
+1318  Of the metropolis Mendes, 2nd quarter:
+1319  Phoibos, slave of The— —enchis, 23 years old,
+1320  Philemon, slave of the same, 22 years old,
+1321  [ou … chi]
+1322  of proper poll-tax [drachmas] 16, which net 15 drachmas ½-obol,
+1323  of additional charges [5 obols] ½-obol, total the same,
+1324  the embankment-tax not being reckoned together, 13 drachmas 2 obols,
+1325  of additional charges [5 obols, total 14 drachmas] 1 obol, total for the same 30 drachmas 1 obol.
+1326  Of a grain-bearing land, at the whole
+1327  registration, … of a taken-up (property),
+1328  in the procuratorship [of the idios] logos,
+1329  in the 5th year [it was declared to lie dry], and its
+1330  payments [in the] 5th year assigned
+1331  were restored to agreement on the ground that it had not been inspected.
+1332  Whence he too, having at the outset assigned the (dues) of the 6th year,
+1333  again passed (them) on
+1334  for exaction. And the same (royal scribe) before me having assigned the (dues) reckoned in the agreement
+1335  as (dues) reckoned in agreement,
+1336  the land having been inspected in dry land
+1337  and this too in the 6th year appearing
+1338  to be in dry land, the payments then
+1339  were held over and thereafter until the 9th year,
+1340  and in the 10th year, the grain-payments having been held over,
+1341  the naubion too first, together
+1342  with the other money-payments, was held over; wherefore also for the
+1343  11th year it is held over, since as is set out
+1344  nothing as concerning them judged
+1345  became manifest to me.
+1346  Neompsonomoun, Thingou, arouras 23 16 128,
+1347  of twentieth 23 drachmas ½-obol, of additional charges 1 drachma 2 obols ½ 1 chalkous, total 24 drachmas
+1348  3 obols [1 chalkous],
+1349  of freightage of wheat, in all artabas 26 2/3 24
+1350  of silver 10 drachmas 4 obols 2 chalkoi,
+1351  and first in the 10th year it is assigned:
+1352  of the administration naubion 11 drachmas 3 obols [2 chalkoi],
+1353  of embankment-tax 46 8 64 chalkoi which (are) ½-obol 3 chalkoi,
+1354  of exchange 1 drachma 1 obol 2 chalkoi, total [1]2 drachmas 5 obols 3 chalkoi,
+1355  of additional charges 4 obols ½ 3 chalkoi, total 13 drachmas 4 obols 2 chalkoi,
+1356  of priestly treasury-dues 1 obol ½ 1 chalkous, total for the same 49 drachmas 1 obol 2 chalkoi.
+1357  A private grain-bearing land, at the whole
+1358  registration, was declared to be (that) of someone whose
+1359  belongings had been taken up in the procuratorship of the idios logos.
+1360  And this
+1361  having been inspected in dry land
+1362  and the village-scribe having declared
+1363  that there was no revenue
+1364  of the taken-up (property), the payments
+1365  in the 5th year by the royal scribe before me
+1366  were assigned. Whence thereafter
+1367  until the 10th year it was held over; wherefore also
+1368  for the 11th year the money-payments here
+1369  are placed, since as is set out
+1370  nothing as concerning them judged became manifest to me.
+1371  Of the Noite, Psenenteleos, of one-artaba (assessment), purchased
+1372  (in the name of) enk chres— (?) of Apollonarion, son of Apol—
+1373  the (son) of Chairemon, synd(?) arouras 32 ½ 32 64,
+1374  of priestly twentieth 32 drachmas 3 obols 2 chalkoi, of additional charges 2 drachmas 2 chalkoi,
+1375  total 34 drachmas 3 obols ½,
+1376  the freightage of wheat not being reckoned together,
+1377  in all artabas 3[7] 2/3, of silver 15 drachmas ½-obol,
+1378  of naubion 16 drachmas 1 obol ½ 1 chalkous, of embankment-tax 65 16 32 chalkoi
+1379  which (are) 1 obol 2 chalkoi, total 16 drachmas 2 obols ½ [3 chalkoi], of exchange 1 drachma 4 obols 2 chalkoi,
+1380  total 18 drachmas 1 obol 1 chalkous, of additional charges 1 drachma ½-obol 2 chalkoi, total 19 drachmas
+1381  1 obol ½ 3 chalkoi,
+1382  of priestly treasury-dues 2 obols 2 chalkoi, total for the same 69 drachmas 2 obols 1 chalkous.
+1383  Lands of a debtor of the fiscus, at the whole
+1384  registration, were declared to lie dry. And these, at the inspection, having appeared to be so
+1385  and it having been reported
+1386  that no revenue from other
+1387  belongings of his accrued,
+1388  the payments of them from the 5th year
+1389  were held over; wherefore also for the 11th year
+1390  they were assigned, from which [the] money-payments
+1391  are placed here, since as is set out nothing [as concerning] them judged
+1392  became manifest [to me].
+1393  Of the Chiasteitos …
+1394  Sarapiodoros … —os, son of Eucharistos,
+1395  of sacred two-artaba (land), leased, arouras 6,
+1396  of naubion 3 drachmas, [of embankment-tax] 12 chalkoi which (are) 3 chalkoi,
+1397  total [3 drachmas 3 chalkoi, of exchange 1 obol ½ 2 chalkoi, total 3 drachmas 2 obols] 1 chalkous,
+1398  of additional charges 1 obol 2 chalkoi, total 3 drachmas 3 obols 3 chalkoi, of priestly treasury-dues 3 chalkoi,
+1399  of twentieth 6 drachmas, of additional charges 2 obols 2 chalkoi, total 6 drachmas 2 obols 2 chalkoi,
+1400  the freightage of wheat not being reckoned together, artabas 13 ½ 3 48
+1401  of silver 5 drachmas 3 obols 2 chalkoi, total 15 drachmas 3 obols 2 chalkoi.
+1402  A private grain-bearing registration
+1403  was declared in part to be (that) of a debtor of the fiscus, and for the remainder to have been ceded to the public treasury. The price
+1404  of the remainder, held by a well-off (person), having been paid,
+1405  and the other parts
+1406  inspected in dry land,
+1407  the (dues) falling due of them, that
+1408  is of the ceded (land) and of that of the
+1409  debtor, from the 5th year were held over;
+1410  wherefore also for the 11th year it was assigned, from which
+1411  the money-payments here are placed, since
+1412  as is set out nothing as concerning
+1413  them judged became manifest to me
+1414  became manifest.
+1415  Of the Thmoibasteite, of the collectorate of Plema—
+1416  … in the 11th year, from the same
+1417  … —illeos, enk chres synd(?)
+1418  … of an aroura ¾, ceded [from]
+1419  the 13th year, synd arouras 2 8 32, of another …
+1420  in the 19th year, of an aroura 16 32, total arouras 2 4,
+1421  of an unproductive name, from a part
+1422  of a registration formerly kleruchic
+1423  arouras 2 ½ 8 32, total of dry land arouras 4 ¾ 8 32,
+1424  so that there ought to be assigned payments (for) arouras 4 ¾ 8 32,
+1425  of the administration naubion 2 drachmas 2 obols ½ 2 chalkoi, of embankment-tax
+1426  9 ¾ 16 chalkoi which (are) 2 chalkoi, of exchange 1 obol ½,
+1427  total 2 drachmas 4 obols ½, of additional charges 1 obol, total 2 drachmas 5 obols ½,
+1428  of priestly treasury-dues 2 chalkoi, of twentieth 4 drachmas 5 obols 3 chalkoi,
+1429  of additional charges drachmas 1 obol ½ 3 chalkoi, total 5 drachmas 1 obol 2 chalkoi,
+1430  the freightage of wheat not being reckoned together, artabas 5 2/3 24
+1431  of silver 2 drachmas 2 obols, total for the same 10 drachmas 3 obols.
+1432  Private grain-bearing lands, at the whole
+1433  … registration, some being among the unsold, others … [were declared]
+1434  [in the] 5th year to lie dry. And these
+1435  having been inspected in agreement, [the payments]
+1436  thereafter were assigned; [wherefore also for]
+1437  the 11th year it was set in suspension, [from which the money-payments]
+1438  are placed [here, since as is set out]
+1439  nothing as concerning them judged
+1440  became manifest to me.
+1441  Neompsonomoun, Psene— —esnapha:
+1442  of Hermias, son of Phommous, former
+1443  lessee, 1 ½ of private-owned (land), Poseidonios
+1444  son of Hermias, and the brothers, (children) of Didymos
+1445  son of Phommous, his mother being Artemidora,
+1446  arouras 2 ½ 8 16 64, of naubion 1 drachma 2 obols, of embankment-tax 5 4 8 32 chalkoi
+1447  which (are) 1 chalkous, of exchange 1 chalkous, total 1 drachma 2 obols 2 chalkoi,
+1448  of additional charges ½-obol, total 1 drachma 2 obols ½ 2 chalkoi,
+1449  of priestly treasury-dues 1 chalkous, of twentieth 2 drachmas 4 obols [2 chalkoi],
+1450  of additional charges 1 obol, total 2 drachmas 5 obols [2 chalkoi],
+1451  the freightage of wheat not being reckoned together, artabas 4 2/3 … ,
+1452  of silver 1 drachma 5 obols ½, total for the same [drachmas] 6 1 obol ½ 1 chalkous.
+1453  And of those of the 4th year:
+1454  of a taken-up (property), a private land,
+1455  at the whole registration, was [declared to] lie dry
+1456  and inspected in agreement. Whence
+1457  its (dues) falling due, on the ground that,
+1458  he says, from other belongings
+1459  revenue of the … —pto
+1460  there was none, until [the 10th year] it was assigned;
+1461  wherefore also for [the 11th year] it was held over,
+1462  from which the money-payments are placed here,
+1463  since as is set out nothing as
+1464  concerning it judged became manifest to me
+1465  became manifest.
+1466  Ptempathio, Psesmende:
+1467  Pnepheros, son of Ethpheus, son of Bienchis,
+1468  of one-artaba (land), purchased from the surplus in the field
+1469  belonging to Sarapion also
+1470  called Origenes, son of Apollonios,
+1471  of the Sosikosmios (deme) also called Althaieus,
+1472  arouras 5 4 8 32 64, of naubion 2 drachmas 4 obols 2 chalkoi,
+1473  of embankment-tax 10 ¾ 16 32 chalkoi which (are) 2 chalkoi, total 2 drachmas 4 obols ½,
+1474  of exchange 1 obol ½ 1 chalkous, total 3 drachmas 1 chalkous, of additional charges 1 obol 1 chalkous, total
+1475  3 drachmas 1 obol 2 chalkoi,
+1476  of priestly treasury-dues 3 chalkoi, of twentieth 5 drachmas 2 obols ½ 1 chalkous,
+1477  of additional charges 2 obols 1 chalkous, total 5 drachmas 4 obols ½ 2 chalkoi,
+1478  the freightage of wheat not being reckoned together, artabas 6 3
+1479  of silver 2 drachmas 3 obols 1 chalkous, total for the same [drachmas] 11 3 obols ½.
+1480  Lands, some of debtors of the
+1481  fiscus, others of a taken-up (property), were declared,
+1482  at the whole registration, to lie dry.
+1483  And these having been inspected in agreement,
+1484  the payments held over until the 10th year
+1485  and for the 11th year were assigned,
+1486  from which the money-payments are placed here,
+1487  since as is set out nothing as
+1488  concerning them judged became manifest to me
+1489  became manifest.
+1490  Of the Thmoibasteite, of the villages of Plema—:
+1491  of athku(?) of Philoxenos, son of Heron,
+1492  debtor of the fiscus, of marsh (land)
+1493  arouras 43 ½ 16 32, the freightage not being reckoned together,
+1494  of wheat artabas 43 ½ 24 48
+1495  of silver 17 drachmas 2 obols ½.
+1496  Neompsonomoun, Psenkoltha:
+1497  in the name of Sarapion, son of … —onos
+1498  also called Achilleus, of the Sosikosmios (deme)
+1499  also called Althaieus, by transfer
+1500  confirmed to Philoxenos, son of Heron,
+1501  from Thmouis hyp— …
+1502  of marsh (land) purchased, of dry land arouras 19 ½,
+1503  of sacred two-artaba (land) aroura 1, total arouras 20 ½,
+1504  the [freightage] not being reckoned together, of wheat artabas 24 ½ 3 24, 9 drachmas 5 obols ½.
+1505  total of the item, the freightage not being reckoned together, 27 drachmas 2 obols.
+1506  Lands of a debtor were declared, at the whole
+1507  registration, to lie dry. And these
+1508  having been inspected in agreement and no
+1509  revenue being saved,
+1510  the payments held over until the 10th year
+1511  and for the 11th year are assigned, from which
+1512  the money-payments are placed here, since
+1513  as is set out nothing as concerning them judged became manifest to me.
+1514  Ptempathio, Psoaramouneos:
+1515  a … of Apollonios
+1516  … —keto, son of Leonides, arouras 4 ¾ 8 16
+1517  … of naubion 6 drachmas 2 chalkoi,
+1518  of embankment-tax 2[4] 8 16 chalkoi which (are) ½-obol,
+1519  of exchange 3 obols ½ 2 chalkoi, total 6 drachmas 4 obols ½, of additional charges 2 obols ½, total 7 drachmas 1 obol,
+1520  of priestly treasury-dues ½-obol 2 chalkoi, of twentieth 9 drachmas 5 obols ½ 2 chalkoi,
+1521  of additional charges 3 obols ½ 1 chalkous, total 10 drachmas 3 obols 3 chalkoi,
+1522  the freightage of wheat not being reckoned together,
+1523  artabas 23, of silver 9 drachmas 1 obol 2 chalkoi,
+1524  total 27 drachmas 3 chalkoi.
+1525  And of those of the [3rd] year:
+1526  of a taken-up (property), slaves having been declared
+1527  to be in flight, the poll-taxes,
+1528  until [from] revenue or price
+1529  of the belongings be made up,
+1530  held over [until the 10th year] and for the 11th year
+1531  are assigned, since as is set out
+1532  nothing as concerning them judged became manifest to me.
+1533  Of the metropolis Thmouis, 6th quarter,
+1534  1st division: Agathemeros
+1535  slave of Sarapion, 57 years old,
+1536  Eutyches, slave of the same, 57 years old,
+1537  Ammonios, slave of the same, 54 years old,
+1538  Aphrodeisios, slave of the same, 38 years old,
+1539  Sarapion, slave of the same, 20 years old,
+1540  total for the same, of proper poll-tax 40 drachmas,
+1541  which net 37 drachmas 3 obols ½ 3 chalkoi, of additional charges 2 drachmas 2 obols 1 chalkous, total the same,
+1542  of the surcharge of poll-tax 40 drachmas, which net 37 drachmas 3 obols ½ 3 chalkoi,
+1543  of additional charges 2 drachmas 2 obols 1 chalkous, total the same,
+1544  of embankment-tax 33 drachmas 2 obols, of additional charges 2 drachmas ½-obol,
+1545  total 35 drachmas 2 obols ½, total for the same 115 drachmas 2 obols ½.
+1546  Arouras 3 and over, underlying,
+1547  e… , with others of a debtor, whose
+1548  belongings had been produced (in the register of confiscations),
+1549  were ceded by the under-…
+1550  and were inspected in dry [land].
+1551  Whence their (dues) falling due,
+1552  as at the whole registration e—…
+1553  and no revenue from the other
+1554  resource of the debtor accruing,
+1555  were held over, which, assigned until the 10th year
+1556  and for the 11th year, were set in suspension,
+1557  from which the money-payments are placed here,
+1558  since as is set out nothing as
+1559  concerning them judged became manifest to me.
+1560  Ptempathio, Psoaramouneos, of one-artaba (land),
+1561  purchased, 1 ½ from the 1st year, K—
+1562  the (son) of Imouthes, through Valerius
+1563  Maximus, synd arouras 3 4, of twentieth 3 drachmas 1 obol ½,
+1564  of additional charges 1 obol 1 chalkous, total [drachmas] 3 2 obols ½ 1 chalkous,
+1565  the freightage not being reckoned together,
+1566  of wheat artabas 3 ¾, 1 drachma 4 obols ½, total 5 drachmas 1 obol 1 chalkous.
+1567  And of those of the 2nd year:
+1568  of a fugitive taken-up slave
+1569  the poll-taxes, as no revenue accruing from the other
+1570  belongings of the reported (owner), but
+1571  the household-born (slaves) too, where the slave is registered,
+1572  having been sold by public proclamation, until
+1573  the 2nd year it was assigned, concerning which Annius
+1574  Syriacus of most excellent memory,
+1575  reckoning the nome in the 3rd year,
+1576  subscribed: "Let him be sought out and sent
+1577  to the procurator." The poll-taxes therefore of the slave,
+1578  assigned until the 10th year,
+1579  are placed for the 11th year in due sequence,
+1580  since as is set out nothing [as] concerning
+1581  him judged at the recent
+1582  reckoning of the nome became manifest to me.
+1583  Of the metropolis Thmouis, 2nd quarter,
+1584  3rd division:
+1585  Eudaimon, slave of Ptolemaios,
+1586  son of Herakleides, 61 years old,
+1587  of poll-tax 8 drachmas, which net 7 drachmas 3 obols 2 chalkoi, of additional charges 2 obols ½ 2 chalkoi,
+1588  of embankment-tax 6 drachmas 4 obols, of additional charges 2 obols ½, total 7 drachmas ½-obol,
+1589  total 15 drachmas ½-obol.
+1590  Of certain slaves whose belongings
+1591  are among the unsold (lands), declared
+1592  to be in flight, the poll-taxes until the 2nd year,
+1593  until from revenues or price of the belongings
+1594  sold be made up, assigned, were brought (forward), concerning whom Annius
+1595  Syriacus of best memory in the 3rd year
+1596  reckoning the nome subscribed
+1597  "Let them be sought out and sent to the procurator." The poll-taxes therefore, assigned until the 10th year,
+1598  are placed for the 11th year in due sequence,
+1599  since as is set out
+1600  nothing as concerning them judged
+1601  became manifest to me.
+1602  Of the metropolis Thmouis, … quarter:
+1603  Glaukos, slave of Klaudianos also called
+1604  Hierax, son of Sarapion, … 4 years old,
+1605  [ou … chi]
+1606  Phakas, slave of Sarapion, son of Hierax, 38 years old,
+1607  Sarapion, slave of the same, 52 years old,
+1608  Athenodoros, surnamed … —er— —ik—
+1609  slave of the same, 3 … years old,
+1610  Bassos, slave of the same, 41 years old,
+1611  total for the same as under…
+1612  of proper poll-tax 40 drachmas, … [drachmas] 32,
+1613  total 72 drachmas, which net 6[7 4 obols ½ 3 chalkoi], of additional charges 4 drachmas 1 obol 1 chalkous,
+1614  total the [aforesaid],
+1615  of embankment-tax 33 drachmas 2 obols, [of additional charges 2 drachmas ½-obol, total] 35 drachmas 2 obols ½,
+1616  total for the same 10[7 drachmas 2 obols ½].
+1617  private …
+1618  pros—
+1619  and the … [at the whole]
+1620  registrations …
+1621  whence [their (dues) falling due],
+1622  until from [the price of belongings]
+1623  sold [or from the revenue of the following] …
+1624  years [be made up], … [until]
+1625  the 9th year …
+1626  of some … [on reasonable] causes …
+1627  of the …
+1628  wherefore also [for the 11th year] …
+1629  in the 10th [year] … [from which]
+1630  the money-[payments are placed here],
+1631  since [as is set out nothing as]
+1632  concerning [them judged became manifest to me]
+1633  became manifest …
+1634  Neilo—…
+1635  tou—…
+1636  out—…
+1637  epi—…
+1638  … [of the] purchased (land)
+1639  … syn—
+1640  … [of naubion drachmas] 7 3 obols 2 chalkoi,
+1641  [of embankment-tax 30 8 32 chalkoi which are] ½-obol 1 chalkous,
+1642  [of exchange 5 obols 3 chalkoi], total 8 drachmas 3 obols 2 chalkoi, of additional charges 3 obols 1 chalkous,
+1643  [total 9 drachmas 3 chalkoi], of priestly treasury-dues 1 obol,
+1644  [of twentieth 15 drachmas 1 obol], of additional charges 5 obols ½ 1 chalkous, total [16 drachmas] ½-obol 1 chalkous,
+1645  [of freightage of wheat artabas] … 6 drachmas 4 obols, total for the same [drachmas] 32.
+1646  Of the [Thmoibasteit]e, of the villages of Plema—:
+1647  … of Heron, son of Heron,
+1648  [and] … —nos his brother, whose
+1649  [belongings] are among the unsold (lands)
+1650  … were assigned, of sacred two-artaba (land), leased,
+1651  … —nos, son of Herakl—, and of other names
+1652  [arouras] … 8, of Platon, son of Herakleides,
+1653  … arouras … 16, of one-artaba (land) purchased arouras 16 8 32,
+1654  total arouras 140 4 16 32,
+1655  [of the administration] naubion 70 drachmas 1 obol, of embankment-tax 280 ½ 8 16 chalkoi
+1656  [which are 5 obols] ½-obol 1 chalkous, of exchange 7 drachmas 2 obols 3 chalkoi,
+1657  [total] 78 drachmas 3 obols, of additional charges 4 drachmas 5 obols ½, total 83 drachmas 2 obols ½
+1658  [of priestly] treasury-dues 1 drachma 2 obols ½ 1 chalkous
+1659  of twentieth 140 [2 obols 1 chalkous, of additional charges 8 drachmas 4 obols ½ 1 chalkous, total drachmas
+1660  149 ½-obol 2 chalkoi],
+1661  of freightage [of wheat artabas] …
+1662  of silver [drachmas] … [, total for the same drachmas] …
+1663  Pteg[chat] …
+1664  Phi… and of other
+1665  names [arouras] 29,
+1666  of twentieth 2[3 4 obols ½ 1 chalkous, of additional charges 1 drachma 2 obols ½ 3 chalkoi],
+1667  total 25 drachmas 1 obol ½.
+1668  Of the Thmoibast[eite] …
+1669  Agath— … son of [Ch]airemon,
+1670  formerly of Th— —ou, of purchased (land)
+1671  to the … —e
+1672  diapho— … [arouras] 41 8 32,
+1673  of the administration [naubion] … 20 drachmas 3 obols 3 chalkoi,
+1674  of embankment-tax [82 4 16 chalkoi which are 1 obol ½ 1 chalkous] of exchange 2 drachmas 1 obol 1 chalkous,
+1675  total 23 drachmas [1 chalkous, of additional charges 1 drachma 2 obols] ½ [1 chalkous], total 24 drachmas 2 obols ½ 2 chalkoi,
+1676  of priestly [treasury-dues] … 3 obols,
+1677  of twentieth [41 drachmas ½-obol 3 chalkoi, of additional charges 2 drachmas 3 obols] ½
+1678  3 chalkoi, total 43 drachmas 4 obols ½ 2 chalkoi,
+1679  the [freightage] of wheat [not being reckoned together]
+1680  [artabas] … [of silver] 19 drachmas 2 chalkoi,
+1681  [total for the same 87 drachmas 4 obols] ½ 2 chalkoi.
+1682  And of those [of the 1st] year:
+1683  Private lands, some [of a person who died]
+1684  without an heir, others of [a debtor of the]
+1685  treasury, were declared [at the whole]
+1686  registrations to lie dry, [and at the]
+1687  inspection [to have appeared] to be so. Whence [the (dues) falling due]
+1688  of them, as [no] revenue
+1689  from the other [reported]
+1690  belongings accruing, from [the]
+1691  1st year were assigned and thereafter year by year; wherefore
+1692  also for the 11th year it was set in suspension,
+1693  from which the money-payments are placed here,
+1694  which, as is set out, nothing
+1695  as concerning them judged became manifest to me
+1696  became manifest.
+1697  Of the Noite, Thambol:
+1698  of (a person who died) without an heir, e…, aroura 1 ½,
+1699  of twentieth 1 drachma 3 obols, of additional charges ½-obol, total 1 drachma 3 obols ½,
+1700  of freightage of wheat artabas [5] 2/3 48, 2 drachmas 2 obols,
+1701  total 3 drachmas 5 obols ½, [of naubion] 4 obols ½, of embankment-tax 3 chalkoi
+1702  which (are) 1 chalkous, of exchange [3 chalkoi], total 5 obols,
+1703  of additional charges 3 chalkoi, total 5 obols [3 chalkoi], of treasury-dues 1 chalkous, total 5 obols ½,
+1704  total for the same 4 drachmas 5 obols.
+1705  Of another private grain-bearing
+1706  registration, a part, on the ground that it was
+1707  of debtors of the fiscus …
+1708  a … s of the reported belonging …
+1709  was assigned among the unsold, and the [remainder]
+1710  to the public treasury was ceded.
+1711  And those of the whole registration [as]
+1712  having been inspected in dry land, the (dues) falling due
+1713  until the 10th year were set in suspension;
+1714  wherefore also for the 11th year it was assigned,
+1715  from which the money-payments are placed here,
+1716  since as is set out nothing
+1717  as concerning them judged became manifest
+1718  to me.
+1719  Ptempathio, Thcheneth[eos]:
+1720  Kallimachos, son of Ischyrion …
+1721  —tos, former tax-farmer ch…
+1722  a half part, a half part, of purchased (land) …
+1723  to the brother, from arouras 80, arouras …
+1724  of which from the priestly account (of unproductive land) [arouras] …
+1725  and from royal (land) arouras … ,
+1726  from which there fall to Kallimachos arouras 10,
+1727  the rest have been ceded, of the administration
+1728  naubion 40 drachmas, of embankment-tax 160 chalkoi which (are) 3 obols 2 chalkoi,
+1729  of exchange 4 drachmas 1 obol 3 chalkoi, total 44 drachmas 4 obols ½ 1 chalkous,
+1730  of additional charges 2 drachmas 4 obols ½ 2 chalkoi, total 47 drachmas 3 obols 3 chalkoi,
+1731  of treasury-dues 5 obols ½ 1 chalkous, of freightage
+1732  of wheat artabas 156 ½ 3 24, 62 drachmas 3 obols ½ 2 chalkoi,
+1733  total for the same 111 drachmas ½-obol 2 chalkoi.
+1734  And of those of the 23rd year:
+1735  the underlying (dues) and others taken up upon certain villages,
+1736  the village-scribe in the 23rd year declared
+1737  ought to be assigned until the prefect's decision, because
+1738  the one had been made desolate, and among
+1739  the others, formerly populous, only 2
+1740  were registered, who had also withdrawn.
+1741  And the sum-totals having been assigned,
+1742  Annius Syriacus, in the reckoning of the nome which he made in the 3rd year,
+1743  subscribed thus:
+1744  … —ou … the
+1745  (portion) falling to them let them pay,
+1746  and the rest the others, whenever they return. Whence in the 3rd year too it was assigned
+1747  until inquiry. And in the 4th year the village-scribe
+1748  declared that the remaining
+1749  men too did not remain in the
+1750  village, and passed on the sum-totals for holding over, which then
+1751  and in the following 5th year by the
+1752  [royal scribe] before me were assigned, and accordingly
+1753  from that (scribe) thereafter until the 10th year it was held over;
+1754  [wherefore] also for the 11th year the money-payments,
+1755  [the] grain-payments in another section
+1756  having been held over, are assigned,
+1757  since as is set out nothing as
+1758  concerning them judged became manifest
+1759  to me.
+1760  Neomare, Psenerienepseos:
+1761  of the superintendence of the guards 48 drachmas, of additional charges 3 drachmas, total 51 drachmas,
+1762  of the underlying (dues) of the village-scribe, of travel-allowance of the reckoning, 14 drachmas,
+1763  to the oil-seller, of oil 1 chous, 8 drachmas,
+1764  total 22 drachmas, which net 20 drachmas 4 obols 2 chalkoi, of additional charges 1 drachma 1 obol ½ 2 chalkoi,
+1765  total the same,
+1766  of the topogrammateus, [per each] man 1 drachma, men 25,
+1767  a … 25 drachmas,
+1768  to the oil-seller, of oil ½ chous, 4 drachmas,
+1769  total of these too 29 drachmas, which net 27 drachmas 1 obol ½ 2 chalkoi,
+1770  of additional charges 1 drachma [1] obol 4 2 chalkoi, total the same,
+1771  of interest 90 drachmas 4 obols, of additional charges 5 drachmas 4 obols, total 96 drachmas 2 obols,
+1772  of the administration hundredth and herald's-fee 1 drachma 1 chalkous,
+1773  of additional charges 3 chalkoi, total 1 drachma ½-obol,
+1774  total for the same, of silver, 199 drachmas 2 obols ½,
+1775  a private grain-bearing registration of a debtor of the most glorious city of the Alexandrians,
+1776  who died without an heir,
+1777  was inspected in [dry] land. Of the
+1778  (dues) falling due therefore, assigned until the 10th year,
+1779  here the money-payments also for the 11th year
+1780  are placed, since as is set out nothing
+1781  as concerning them judged became manifest
+1782  to me.
+1783  Neompsonomoun, Tanare, 1 ½ of dry-vine land,
+1784  through Ammonios, son of Lakon, arouras 3,
+1785  of the administration naubion in all 1 drachma 4 obols 1 chalkous, of additional charges ½-obol 1 chalkous,
+1786  total 1 drachma 4 obols ½ 2 chalkoi,
+1787  of priestly treasury-dues 2 chalkoi, of twentieth 3 drachmas, of additional charges 1 obol 1 chalkous,
+1788  total 3 drachmas 1 obol 1 chalkous …
+1789  of freightage of wheat artabas [5 6] 24, 2 drachmas ½-obol
+1790  total for the same [7 drachmas] ½-obol 1 chalkous.
+1791  Other grain-bearing lands of debtors
+1792  of the fiscus, being among [the unsold], in
+1793  dry land were inspected. Whence the
+1794  payments of them until the 10th year
+1795  were assigned; wherefore [also] for the 11th year
+1796  the money-payments are placed, since as
+1797  is set out nothing [as] concerning them
+1798  judged became manifest to me.
+1799  Of the Hermopolite, … —atheos:
+1800  Philoxenos, son of E—, son of Phakos,
+1801  of purchased (land) to himself, … from arouras 57 16 64
+1802  arouras 47 16 64, of priestly twentieth 47 drachmas ½-obol,
+1803  of additional charges 2 drachmas 5 obols ½ 1 chalkous, total 50 drachmas 1 chalkous,
+1804  of naubion 23 drachmas 3 obols [2 chalkoi], of embankment-tax 94 8 32 chalkoi which (are) 2 obols,
+1805  of exchange 2 drachmas [3 obols] 3 chalkoi, total 26 drachmas 2 obols ½ 1 chalkous, of additional charges
+1806  1 drachma 3 obols ½ 3 chalkoi, total 28 drachmas ½-obol,
+1807  of treasury-dues 3 obols 2 chalkoi, of freightage of wheat artabas 54 ½
+1808  21 drachmas [4 obols] ½, total for the same 100 drachmas 2 obols 3 chalkoi.
+1809  Of the Noite, … —narseeseos:
+1810  Didymos, son of Harpokration, arouras 2,
+1811  of priestly twentieth 2 drachmas, of additional charges ½-obol 2 chalkoi, total [2 drachmas] ½-obol 2 chalkoi,
+1812  the freightage not being reckoned together, [of wheat artabas 2] 4 48
+1813  5 obols 3 chalkoi, of the administration naubion 1 drachma ½-obol 2 chalkoi, [of] additional charges
+1814  3 chalkoi, total 1 drachma [1 obol] 1 chalkous,
+1815  of priestly treasury-dues [1 chalkous, total for the same 4 drachmas 1 obol 3 chalkoi]
+1816  total of the item, of the administration naubion 2[7] drachmas 3 obols 3 chalkoi,
+1817  of additional charges 1 drachma 4 obols 2 chalkoi, total 2[9 1 obol] ½ [1 chalkous],
+1818  of priestly treasury-dues 3 obols 3 chalkoi, of twentieth 4[9] drachmas ½-obol,
+1819  of additional charges 3 drachmas 3 chalkoi, total 5[2] drachmas ½-obol 3 chalkoi,
+1820  of freightage 22 drachmas 3 obols ½ 3 chalkoi, total for [the same drachmas 10]4 3 obols ½ 2 chalkoi.
+1821  And of those of the 22nd year:
+1822  Of grain-bearing private fully-registered (lands), the one was assigned among the unsold,
+1823  the other was ceded, and of the
+1824  remainder, held in possession, the price was paid.
+1825  And the (land) among the unsold, in dry land
+1826  having been inspected, the (dues) falling
+1827  to it from the ceded (land),
+1828  being under exaction,
+1829  were assigned in the 22nd year and thereafter year by year
+1830  until the 9th year, and in the 10th year, of some
+1831  of them the payments on reasonable
+1832  causes were restored to agreement;
+1833  wherefore also for the 11th year the money-payments,
+1834  the grain-payments in another section having been assigned,
+1835  are placed, since as is set out
+1836  nothing as concerning them judged
+1837  became manifest to me.
+1838  Of the Psaneite, Sao, of Sarapion, the (son)
+1839  of Achilleus, and of Didymos also called Demetrios, of the administration arouras 60 ¾ 8 16 32 64,
+1840  of sacred (land) arouras 24 64, of the same from royal
+1841  account (of unproductive land) arouras 26 8 16 64, of dry-vine (land) likewise
+1842  [arouras 4] 4 64 and from the priestly account (of unproductive land) arouras 11 ¾ 8 16 32 64 128,
+1843  total arouras 127 4 8 16 64 128, of priestly
+1844  twentieth 127 drachmas 2 obols ½ 2 chalkoi, of additional charges 7 drachmas 5 obols ½ 2 chalkoi,
+1845  total 135 drachmas 2 obols ½,
+1846  of naubion equal (arouras), of which the whole by the (scribe) before me,
+1847  royal scribe, on behalf of the 6th year was assigned, arouras 63 ¾
+1848  of silver 31 drachmas 5 obols 2 chalkoi,
+1849  of embankment-tax … 127 ½ chalkoi which (are) 2 obols 2 chalkoi, of exchange 3 drachmas 2 obols 3 chalkoi,
+1850  total 35 drachmas 3 obols ½ 3 chalkoi, of additional charges 2 obols 3 chalkoi, total 37 drachmas [5 obols] 2 chalkoi,
+1851  of treasury-dues 4 obols 3 chalkoi, of freightage of wheat artabas 196 2/3 12
+1852  of silver 78 drachmas 4 obols ½, total for the same 252 drachmas 4 obols ½ 1 chalkous
+1853  … in the 22nd year from Pos[tum—] … then at the idios logos
+1854  … and of the ensuing
+1855  [inquiry] it appeared that Petemious
+1856  [the former village]-scribe of Psenacho, through a report which he lodged
+1857  [in the] local public
+1858  [archive], informing on 54 men
+1859  … as not at all registered
+1860  … but as falsely
+1861  … having been shown. And then
+1862  indeed, according to the information, the poll-taxes of the necessary years are declared to have been reckoned. But the (scribe) after Petemious
+1863  appointed as village-scribe declared
+1864  that some of them, upon the
+1865  informed-upon villages,
+1866  did not exist nor had ever existed
+1867  but that it was even unknown who they are,
+1868  and that others were registered upon Thmouis and Mendes, and others
+1869  were poll-taxed upon the informed-upon villages, having come in here for the first time as though from abroad
+1870  in the 23rd year. Whence the poll-taxes of the one
+1871  were let go under exaction,
+1872  and those of the others were held over. And Victorinus, in relation to what had been reported
+1873  to him, wishing an inquiry
+1874  of all to be made, it was brought
+1875  to Syriacus in the 3rd year, when the nome
+1876  he was reckoning, concerning those assigned until the 2nd year,
+1877  and he subscribed thus:
+1878  "Concerning those registered in the metropolis,
+1879  within three months let it be inquired
+1880  whether they retain that right,
+1881  and of the rest let it be remitted." Accordingly
+1882  the poll-taxes of the others
+1883  are declared to have been remitted, and those of those declared
+1884  to be registered in the metropolis until the 5th year
+1885  were assigned and thereafter year by year; wherefore
+1886  also for the 11th year it is placed.
+1887  Of those upon the village of Psenacho
+1888  who came in and are registered upon Thmouis:
+1889  Apollonios, fatherless, on his mother's side
+1890  (son of) Soeris, declared to be registered upon Thmouis,
+1891  4th quarter, as Apollonios, son of Stra-
+1892  [t]on, his mother being [So]eris,
+1893  … —pous, son of Nechthe—, his mother being Thauris,
+1894  [declared] to have been registered upon [Thm]ouis, 11th
+1895  [q]uarter, as Ti…n, son of Ailourion,
+1896  [his mo]ther being Isidora,
+1897  [Apo]llonios, son of Protarchos, his mother being
+1898  [T]ryphaina, declared to be registered upon [Thmouis], 11th
+1899  quarter, as Apollonios, son of Isidoros,
+1900  his mother being Tryphaina, total 3,
+1901  and of those upon Mendes:
+1902  Psois, son of Horos, his mother being Tanoupis, declared
+1903  to be registered as Psois … —epis, his mother being
+1904  Tanoupis,
+1905  Horos the brother, declared to be registered
+1906  under the same name, total 2,
+1907  of poll-tax 80 drachmas, of which of treasury-dues 1 drachma 2 chalkoi,
+1908  remaining of silver 78 drachmas 5 obols ½ 2 chalkoi,
+1909  which net 74 drachmas 2 obols 1 chalkous, of additional charges 4 drachmas 3 obols ½ 1 chalkous, total the same,
+1910  of priestly treasury-dues 1 drachma 2 chalkoi, which net 1 drachma 1 chalkous,
+1911  of additional charges 2 hundredths 1 chalkous, total the same,
+1912  the embankment-tax not being reckoned together, 33 drachmas 2 obols,
+1913  of additional charges 2 drachmas ½-obol, total 35 drachmas 2 obols ½, total for the same 115 drachmas 2 obols ½.
+1914  total 135 drachmas 2 obols ½,
+1915  of naubion equal (arouras), of which the whole by the (scribe) before me,
+1916  royal scribe, on behalf of the 6th year was assigned, arouras 63 ¾
+1917  of silver 31 drachmas 5 obols 2 chalkoi,
+1918  of embankment-tax … 127 ½ chalkoi which (are) 2 obols 2 chalkoi, of exchange 3 drachmas 2 obols 3 chalkoi,
+1919  total 35 drachmas 3 obols ½ 3 chalkoi, of additional charges 2 obols 3 chalkoi, total 37 drachmas [5 obols] 2 chalkoi,
+1920  of treasury-dues 4 obols 3 chalkoi, of freightage of wheat artabas 196 2/3 12
+1921  of silver 78 drachmas 4 obols ½, total for the same 252 drachmas 4 obols ½ 1 chalkous
+1922  … in the 22nd year from Pos[tum—] … then at the idios logos
+1923  … and of the ensuing
+1924  [inquiry] it appeared that Petemious
+1925  [the former village]-scribe of Psenacho, through a report which he lodged
+1926  [in the] local public
+1927  [archive], informing on 54 men
+1928  … as not at all registered
+1929  … but as falsely
+1930  … having been shown. And then
+1931  indeed, according to the information, the poll-taxes of the necessary years are declared to have been reckoned. But (the scribe) after Petemious
+1932  appointed as village-scribe declared
+1933  that some of them, upon the
+1934  informed-upon villages,
+1935  did not exist nor had ever existed
+1936  but that it was even unknown who they are,
+1937  and that others were registered upon Thmouis and Mendes, and others
+1938  were poll-taxed upon the informed-upon villages, having come in here for the first time as though from abroad
+1939  in the 23rd year. Whence the poll-taxes of the one
+1940  were let go under exaction,
+1941  and those of the others were held over. And Victorinus, in relation to what had been reported
+1942  to him, wishing an inquiry
+1943  of all to be made, it was brought
+1944  to Syriacus in the 3rd year, when the nome
+1945  he was reckoning, concerning those assigned until the 2nd year,
+1946  and he subscribed thus:
+1947  "Concerning those registered in the metropolis,
+1948  within three months let it be inquired
+1949  whether they retain that right,
+1950  and of the rest let it be remitted." Accordingly
+1951  the poll-taxes of the others
+1952  are declared to have been remitted, and those of those declared
+1953  to be registered in the metropolis until the 5th year
+1954  were assigned and thereafter year by year; wherefore
+1955  also for the 11th year it is placed.
+1956  Of those upon the village of Psenacho
+1957  who came in and are registered upon Thmouis:
+1958  Apollonios, fatherless, on his mother's side
+1959  (son of) Soeris, declared to be registered upon Thmouis,
+1960  4th quarter, as Apollonios, son of Stra-
+1961  [t]on, his mother being [So]eris,
+1962  … —pous, son of Nechthe—, his mother being Thauris,
+1963  [declared] to have been registered upon [Thm]ouis, 11th
+1964  [q]uarter, as Ti…n, son of Ailourion,
+1965  [his mo]ther being Isidora,
+1966  [Apo]llonios, son of Protarchos, his mother being
+1967  [T]ryphaina, declared to be registered upon [Thmouis], 11th
+1968  quarter, as Apollonios, son of Isidoros,
+1969  his mother being Tryphaina, total 3,
+1970  and of those upon Mendes:
+1971  Psois, son of Horos, his mother being Tanoupis, declared
+1972  to be registered as Psois … —epis, his mother being
+1973  Tanoupis,
+1974  Horos the brother, declared to be registered
+1975  under the same name, total 2,
+1976  of poll-tax 80 drachmas, of which of treasury-dues 1 drachma 2 chalkoi,
+1977  remaining of silver 78 drachmas 5 obols ½ 2 chalkoi,
+1978  which net 74 drachmas 2 obols 1 chalkous, of additional charges 4 drachmas 3 obols ½ 1 chalkous, total the same,
+1979  of priestly treasury-dues 1 drachma 2 chalkoi, which net 1 drachma 1 chalkous,
+1980  of additional charges 2 hundredths 1 chalkous, total the same,
+1981  the embankment-tax not being reckoned together, 33 drachmas 2 obols,
+1982  of additional charges 2 drachmas ½-obol, total 35 drachmas 2 obols ½, total for the same 115 drachmas 2 obols ½.
