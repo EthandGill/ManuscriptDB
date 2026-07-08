@@ -549,534 +549,534 @@ r.530  … ς γυνὴ …
 r.531  … ς … μενναῦς
 
 [TRANSLATION]
-1     
-2     
-3     
-4     
-5     
-6     
-7     
-8     
-9     
-10    
-11    
-12    
-13    
-14    
-15    
-16    
-17    
-18    
-19    
-20    
-21    
-22    
-23    
-24    
-25    
-26    
-27    
-28    
-29    
-30    
-31    
-32    
-33    
-34    
-35    
-36    
-37    
-38    
-39    
-40    
-41    
-42    
-43    
-44    
-45    
-46    
-47    
-48    
-49    
-50    
-51    
-52    
-53    
-54    
-55    
-56    
-57    
-58    
-59    
-60    
-61    
-62    
-63    
-64    
-65    
-66    
-67    
-68    
-69    
-70    
-71    
-72    
-73    
-74    
-75    
-76    
-77    
-78    
-79    
-80    
-81    
-82    
-83    
-84    
-85    
-86    
-87    
-88    
-89    
-90    
-91    
-92    
-93    
-94    
-95    
-96    
-97    
-98    
-99    
-100   
-101   
-102   
-103   
-104   
-105   
-106   
-107   
-108   
-109   
-110   
-111   
-112   
-113   
-114   
-115   
-116   
-117   
-118   
-119   
-120   
-121   
-122   
-123   
-124   
-125   
-126   
-127   
-128   
-129   
-130   
-131   
-132   
-133   
-134   
-135   
-136   
-137   
-138   
-139   
-140   
-141   
-142   
-143   
-144   
-145   
-146   
-147   
-148   
-149   
-150   
-151   
-152   
-153   
-154   
-155   
-156   
-157   
-158   
-159   
-160   
-161   
-162   
-163   
-164   
-165   
-166   
-167   
-168   
-169   
-170   
-171   
-172   
-173   
-174   
-175   
-176   
-177   
-178   
-179   
-180   
-181   
-182   
-183   
-184   
-185   
-186   
-187   
-188   
-189   
-190   
-191   
-192   
-193   
-194   
-195   
-196   
-197   
-198   
-199   
-200   
-201   
-202   
-203   
-204   
-205   
-206   
-207   
-208   
-209   
-210   
-211   
-212   
-213   
-214   
-215   
-216   
-217   
-218   
-219   
-220   
-221   
-222   
-223   
-224   
-225   
-226   
-227   
-228   
-229   
-230   
-231   
-232   
-233   
-234   
-235   
-236   
-237   
-238   
-239   
-240   
-241   
-242   
-243   
-244   
-245   
-246   
-247   
-248   
-249   
-250   
-251   
-252   
-253   
-254   
-255   
-256   
-257   
-258   
-259   
-260   
-261   
-262   
-263   
-264   
-265   
-266   
-267   
-268   
-269   
-270   
-271   
-272   
-273   
-274   
-275   
-276   
-277   
-278   
-279   
-280   
-281   
-282   
-283   
-284   
-285   
-286   
-287   
-288   
-289   
-290   
-291   
-292   
-293   
-294   
-295   
-296   
-297   
-298   
-299   
-300   
-301   
-302   
-303   
-304   
-305   
-306   
-307   
-308   
-309   
-310   
-311   
-312   
-313   
-314   
-315   
-316   
-317   
-318   
-319   
-320   
-321   
-322   
-323   
-324   
-325   
-326   
-327   
-328   
-329   
-330   
-331   
-332   
-333   
-334   
-335   
-336   
-337   
-338   
-339   
-340   
-341   
-342   
-343   
-344   
-345   
-346   
-347   
-348   
-349   
-350   
-351   
-352   
-353   
-354   
-355   
-356   
-357   
-358   
-359   
-360   
-361   
-362   
-363   
-364   
-365   
-366   
-367   
-368   
-369   
-370   
-371   
-372   
-373   
-374   
-375   
-376   
-377   
-378   
-379   
-380   
-381   
-382   
-383   
-384   
-385   
-386   
-387   
-388   
-389   
-390   
-391   
-392   
-393   
-394   
-395   
-396   
-397   
-398   
-399   
-400   
-401   
-402   
-403   
-404   
-405   
-406   
-407   
-408   
-409   
-410   
-411   
-412   
-413   
-414   
-415   
-416   
-417   
-418   
-419   
-420   
-421   
-422   
-423   
-424   
-425   
-426   
-427   
-428   
-429   
-430   
-431   
-432   
-433   
-434   
-435   
-436   
-437   
-438   
-439   
-440   
-441   
-442   
-443   
-444   
-445   
-446   
-447   
-448   
-449   
-450   
-451   
-452   
-453   
-454   
-455   
-456   
-457   
-458   
-459   
-460   
-461   
-462   
-463   
-464   
-465   
-466   
-467   
-468   
-469   
-470   
-471   
-472   
-473   
-474   
-475   
-476   
-477   
-478   
-479   
-480   
-481   
-482   
-483   
-484   
-485   
-486   
-487   
-488   
-489   
-490   
-491   
-492   
-493   
-494   
-495   
-496   
-497   
-498   
-499   
-500   
-501   
-502   
-503   
-504   
-505   
-506   
-507   
-508   
-509   
-510   
-511   
-512   
-513   
-514   
-515   
-516   
-517   
-518   
-519   
-520   
-521   
-522   
-523   
-524   
-525   
-526   
-527   
-528   
-529   
-530   
-531   
+1     … Onouphis
+2     … Petosyris of Herieus
+3     … Nempnophris wife; there are two of whom one
+4     … beer-makers; Pasis
+5     … Terus nurse
+6     … Petosyris of Pasites
+7     … Tetosyris wife; there are four of whom two
+8     … bath-attendants; Petosyris
+9     … Thethosyris wife; there are two of whom one
+10    … Psintaes of Kolloutos
+11    … Tanaibis wife; there are two of whom one
+12    … Stotoetis of Teots
+13    … Senouris wife; there are two of whom one
+14    … Harpsalis of Petsirios
+15    … Thasis wife
+16    … Onnophris; there are three of whom two
+17    … [A]meneus of Petosyrios
+18    … Thaubasous wife; there are two of whom one
+19    … [P]etenoûpis of Chaîurios
+20    … Anuris wife
+21    … nithis mother; there are three of whom one
+22    … [there are fourteen of whom seven] beer-sellers
+23    … eus of Pasûs
+24    … isous mother
+25    … [Or]senoûphis son; there are three of whom two
+26    … oi; Sokhotes
+27    … asis wife
+28    … tathēr; there are three of whom two
+29    … [herd-]men
+30    … tóus Belleous
+31    … lóis wife
+32    … Petesouchos son
+33    … rtis of Nobonychos
+34    … thoûphis brother
+35    … sis wife; there are six of whom four
+36    … is of Horous
+37    … [S]ent[o]toēs wife
+38    … tos son
+39    … [S]entotoēs wife
+40    … os small son
+41    … ris wife
+42    … s sister
+43    … [there are] seven of whom three
+44    Psenamounios of Pachno …
+45    Senamounis wife
+46    Onnophris brother; there are three of whom [one] …
+47    There are sixteen of whom males eight, females eight
+48    cobblers; Akophís
+49    Thesouchos wife
+50    Senam[o]ûnis mother
+51    Harmais of Belleous
+52    Tachnobis wife
+53    Aphynchis of Pasites
+54    Thotsýtmis of Kos
+55    Senēsis wife
+56    Petemínis son
+57    Thalous wife
+58    Th…ys of Imouthou
+59    Thasis wife; there are twelve of whom males six
+60    herdsmen; Pasis [hand]…
+61    T[e]souchos wife
+62    Neó of Sokmēnios
+63    … b … khounás wife
+64    … s of Nekthyrios
+65    Thaēsis wife
+66    Thouthēs of Tatorkho…
+67    T…emou…wife
+68    Nechouthes of Herieus
+69    Senamounis wife
+70    Herieus son
+71    Thamínis wife
+72    Horos of Petosyrios
+73    Thalous wife
+74    Sokmēnis of Teots
+75    …ys wife
+76    There are sixteen of whom eight
+77    Psenophóis swine-herd
+78    …bokhis wife
+79    Anempeus; there are three of whom two
+80    goose-herds
+81    Ame[n]neus … útos
+82    tek…; there are two of whom one
+83    … ios
+84    … polai
+85    … ys Thabbós wife
+86    … s Thapoñis wife
+87    … [there are four] of whom two
+88    … okhoes; Tototēs
+89    … s sister
+90    … old woman; there are three of whom two
+91    … Portis of Khetótos
+92    … s wife of Petechón
+93    … ys Thasis mother …
+94    cattle-herds; Pauēs of Paóthios
+95    Tenoûpis wife; there are two of whom one
+96    Páis of Panoupios
+97    There are two of whom one
+98    Lektouris of Samouts
+99    Taktolis wife
+100   Pomregēris son; there are three of whom two
+101   Onnophris of Harmiýsios
+102   Tharmouth wife; there are two of whom one
+103   …ys Ar…
+104   … Petemounis …
+105   … Herieus wife
+106   … Thotomous of Petosyrios
+107   … Ottetlitis wife
+108   … Harmais of Akoētos
+109   … Smithis wife of Akēs
+110   … Senēsis of Amenneous
+111   … Etphanoûp… Pha
+112   … Senēsis wife
+113   … Horos son
+114   … Pnepherós of Pete
+115   … Takeruís wife
+116   … Sesesnēis daughter
+117   … Marrhēs son
+118   … Epimēnis of Thamouts
+119   K …
+120   kho …
+121   T …
+122   There are fourteen of whom …
+123   bath-keepers […]
+124   Te …
+125   Or …
+126   oil-sellers […]
+127   Th …
+128   T …
+129   carpenters […]
+130   … noûphis brother of Pesûtis of Doriónos
+131   … wife
+132   … [oi]; Senóis of Thoto[éous] …
+133   … toēs wife; there are … [of whom] …
+134   … pautus
+135   … tia wife
+136   … paios; there are three of whom two
+137   … psios
+138   … enis mother
+139   … s wife; there are three of whom one
+140   … th of Miúrios
+141   … wife
+142   … óutos
+143   … pis wife; there are four of whom two
+144   … is of Petosyrios
+145   … s wife
+146   … enētúmis
+147   … n Pábitos
+148   … s wife; there are five of whom three
+149   … Pasites
+150   … Tamēphis wife
+151   … noûpis of Pau
+152   … Horos of Horous
+153   … sap of Taēs wife; there are five of whom three
+154   … there are four of whom two; Panoupis of Panoupios
+155   … son; Thasouchos wife
+156   … Plēnis of Paouthios
+157   … T…sephous of Horous
+158   … Herieus wife; there are five of whom three
+159   … phmoís of Poērios
+160   … Senamounis wife; there are two of whom one
+161   … Nechthníbis of Horous
+162   … tios
+163   … Thasis wife
+164   … Thalous wife; there are three of whom one
+165   … nis of Horous
+166   … n … anis wife; there are two of whom one
+167   … uris brother
+168   … wife
+169   Petosyris of Teots
+170   Tomgós wife
+171   Bēsis son
+172   Tatónbēs wife; there are four of whom two
+173   Paouthis of Pasites
+174   Semenouphis of Pábitos
+175   Soēris wife; there are three of whom one
+176   Paiēs of Pasites
+177   Tasútis wife
+178   Thnēs of Pasites; there are three of whom one
+179   Thauēs
+180   Harphónis mother; females there are two
+181   Smithis of Pachótos
+182   Tethoús wife
+183   Atíbis of Paámios
+184   Tanaibis wife; there are four of whom two
+185   Tanoûpis of Paosyrios
+186   Taónsís of Onnóphrios
+187   Khesér…tó…
+188   Nempnophris wife …
+189   Thototaíos of Pse …
+190   Thasis wife …
+191   Onnophris of Ar …
+192   Altgópis wife …
+193   Peteuris of Horous …
+194   Thatónbēs wi[fe] …
+195   Tanoûris …
+196   Paós of Khamoítos …
+197   Thasis of Miús …
+198   Thethosyris wife; there are i[d]…
+199   Tabēsis wi[fe] …
+200   Petosyris of Pási[tos] …
+201   Thamoneu[s] …
+202   Petosyris …
+203   K …
+204   …eóus of Herieus …
+205   … Herieus wife; there are two of whom one …
+206   … t…mínis of Petosyrios …
+207   … enēsis wife …
+208   … Arkonnēsis; there are three of whom one …
+209   … a…r…rsis wife …
+210   … Psenēsis of Petosyrios …
+211   … s of Teots …
+212   … there are five of whom three …
+213   … a…aitos …
+214   … mother; there are six of whom three …
+215   … ubis of Pasites …
+216   … esóis of Teots …
+217   … osyris wife; there are three of whom one …
+218   … armónthis of Pto son …
+219   … Thalous wife; there are two of whom one …
+220   … ros of Psenchnóbios …
+221   … thasós wife …
+222   … s daughter; there are three of whom one …
+223   … Thoteus of Pasites …
+224   … Senúris wife …
+225   … Senúris sibl[ing] …
+226   … Thaēsis wife …
+227   … Teós of Paótos …
+228   … Thaso…atys wife …
+229   … Petosyris of Páit[os] …
+230   … Tanoûpis wife …
+231   … Aroó…óteóus of Hóro[u] …
+232   … iēnkhios …
+233   … s wife …
+234   … ys wife; there are three of whom one …
+235   … k…; there is one …
+236   … [P]etosyris …
+237   … s; there are two of whom one …
+238   … is …
+239   … Petosyrios …
+240   … is wife; there are six of whom two …
+241   … Horou …
+242   … ynautus mother; there are four of whom two …
+243   … is of Petenourios …
+244   … ouris wife …
+245   … oûnis of Smēitios …
+246   … e…tos …
+247   … ous …
+248   … phris wife; there are three of whom two
+249   … is of Pa…
+250   … tototēs younger; there are two of whom one
+251   … rmaios
+252   … this wife
+253   … ithis; there are three of whom one
+254   … throtios
+255   … khóis mother; there are two of whom one
+256   … siris of Pathēitos
+257   … thóutis wife
+258   … etsóis
+259   … [T]alous wife
+260   … [P]etemínis
+261   … [T]asús wife
+262   … ekhthmiñis wife
+263   … stis brother; there are eight of whom four
+264   … ykhos …
+265   … íbis mother; there are two of whom one
+266   … sareús …
+267   … s son
+268   … [Ob]osthotaís wife; there are three of whom two
+269   … s of Peten…
+270   … [Se]nepoēris wife; [there are two of whom one]
+271   … tis of Aspheós
+272   … khóis wife; there are two of whom one
+273   … etós of Petenúrios
+274   … [Senn]epherós wife
+275   … there are three of whom one
+276   … iris of Harmaios
+277   … sus wife; there are two of whom one
+278   … s of Inaróutos
+279   … is wife; there are two of whom one
+280   … sti …
+281   … wife
+282   … Tanyuátios
+283   … s wife
+284   … khos of Ho[ro]u
+285   … is wife
+286   … G …
+287   Senapsao…s wife …
+288   Petechhón son; there are three of whom two
+289   Petechhón of Pasites
+290   Taâmis wife; there are two of whom one
+291   Entreurasethós …
+292   Thiēthis wife
+293   wife
+294   Horos son
+295   Thathoútis wife
+296   Petosyris son
+297   Thauēs wife; there are six of whom three
+298   …apys of Parmíou
+299   Tgóeus; there are two of whom one
+300   Portis of Horous
+301   Thasis wife; there are two of whom one
+302   Psenmiñis …rm…nthios
+303   Taónsís wife
+304   Petou…as …
+305   Tham[í]nis sister …
+306   Tesonoûphis of Ta…
+307   Psenmen…
+308   Th[a]íbis wife; there are seven of whom three
+309   Póítē…of Horous
+310   Katútis of Sisoítos; there are two
+311   ónsios
+312   …eoi of Khasisméphis of Pasites
+313   Tarompis wife; there are two of whom one
+314   Petosyris of Psenchnó…
+315   Poēris of Kós …
+316   Thagēs wife; there are three of whom two
+317   Peloís of Petétitos
+318   Tapiómis wife; there are two of whom one
+319   There are [one hundred four] of whom [ninety-four]
+320   …n
+321   Portis of Khétóous
+322   Taphós wife
+323   Talous
+324   [Ta]senkhnoûbis; there are four of whom one
+325   Tēg …
+326   … Tâthis wife; there are two of whom one
+327   … Tathóus wife …
+328   … kh…o…or …
+329   Pa …
+330   Teós of K …
+331   Imouthē[s] …
+332   Taós …
+333   Horos …
+334   Sen …
+335   Senokh …
+336   Lep …
+337   Or …
+338   Thah …
+339   Paēs …
+340   G…a …
+341   Se …
+342   Mestasúthm[is] …
+343   Tasúthis mother …
+344   … there are three of whom one; there are four of whom two
+345   There are …
+346   … sós of Hiera…obis of Koipha…
+347   … s wife …
+348   … nkhóbis …; there are three of whom one
+349   … ontis of Pet…
+350   … thasis of Ar…
+351   … nis of T…p…
+352   … Tethó[u]s…
+353   … is wife; there are two of whom one …
+354   … [Pe]tosyris brother …
+355   … u; there are two of whom one
+356   … Senarbēkhis wife of Th…
+357   … Onnophris of Thamou of G…
+358   … Teteathúris wife of P…
+359   … Teós of I…Or…
+360   … asy…Om…
+361   … Ta…sr…tas…r…or of Portis] …
+362   … Argáis of Nekthníbis of Se…
+363   … enēis wife of O…
+364   … [there are] thirty of whom four; there are six of whom four; of Se…
+365   … neis of Pa…s of Horous of O…
+366   … wife; there are two of whom one …
+367   … there are fourteen of whom seven …
+368   … Psenopa…
+369   … K…gýnē of Kh…
+370   … Pathútis steph…
+371   … eis wife; there are …[of whom] …
+372   … [H]erieus wife …
+373   … nios of Orsenoûphios …
+374   … s wife; there are five of whom three …
+375   … Teós …
+376   … ónsís of Genótos; there are six of whom four
+377   … Pa…eneó…
+378   … Tototēs of Inaróutos of Teós …
+379   … Obásthis wife of Na…
+380   … Phako…ó…Harkóiph…
+381   … Namesóus wife; there are five of whom three; of Tat…
+382   … Tham …
+383   … Horos of Pe…
+384   … Themóis wife; there are three of whom two; of Sen…
+385   … Harsúnkhis; there are twenty-one; of Pet…
+386   … Inaróus of Pasites; of Phortis…
+387   … Teós wife; there are two of whom one; of Psa…
+388   … Petostáros of Psan…
+389   … Senamounis wife; of Horos…
+390   … this; there are three of whom one …
+391   … Horos of Or…tou …
+392   … Thamóis wife …
+393   … kh…i…Thâs[is] …
+394   … Psenobástios of Phaliñás …
+395   … Thauēs wife; there are five of whom … of Thasis …
+396   … Inaró[us] …
+397   … utmí…Tham …
+398   … there are eight of whom four …otois of Psenēsios of Páis…
+399   … Obostortáis wife; there are two …
+400   … Semtheous of Thototaíou …
+401   … T …
+402   … of five …
+403   … Se …
+404   … Pebóis of Psen …
+405   … Irobasthis wife …
+406   … Pásís of Hari[o]ó[tou] …
+407   … Tromonoба…
+408   … thós …
+409   … bis wife …
+410   … pene …
+411   … Senamounis …
+412   … phis …
+413   … there are …of whom two …isó…
+414   … Sokhótes …
+415   … there are four of whom two …
+416   … rou…o…oi
+417   … Thamēni[s] …
+418   … Ireta …
+419   … Se …
+420   … there are five of whom one; of Inaróus …
+421   … s…Termou…
+422   … s of Psen…sis of Stototēs…
+423   … there are three of whom one; of Taybas[tis] …
+424   … there are five of whom two; there are eight of whom four …
+425   … there are two of whom one …
+426   … there are ten of whom five; of Sim…s of T…
+427   … wine-sellers …
+428   … Peteuris of Se[nonn]ophris …
+429   … Nekthníbis …aithis …
+430   … Mankhēs of Senouíis wife …
+431   … Panēsis of Harmaios wife …
+432   … Sme…ēis wife; of Harmaios …
+433   … Thâbis wife; there are six of whom two …
+434   … o…akhrios …
+435   … Tetenoûpis wife …
+436   … Páis of Panoupios …
+437   … Akhkhēs wife; there are…[of whom] …
+438   … Teknón of Páitos …
+439   … Thanekhoothis wife …
+440   … Tetosyris mother; there are three [of whom one] …
+441   … Petekekyu…is …
+442   … Páis of Phanoup[ios] …
+443   … e…wife; there are [three of whom two] …
+444   … ar…there are…of whom two; of Tha…
+445   … thateús of Psan…ios of Pa…
+446   … aeis wife; there are two of whom one; of ibiobosk[oi] …
+447   … there are twenty of whom four; there are…; of Eu…
+448   … sis…os of Pete…oup of Tha…
+449   … Petós …
+450   … onomoi of th…sus of Te…
+451   … ēs wife; of Thaónsís of Pe…
+452   … sister; of Thasous daughter …
+453   … Tó…
+454   … s of Amenneous; of Tet…
+455   Tanoûpis wife …
+456   Petermouthēs; there are three [of whom] …
+457   bread-makers; Inaróus …
+458   Thasós wife …
+459   Anempeus son …
+460   [bread-mak]ers; Taēs wife; there are four of whom two …
+461   … is …
+462   Teós wife; there are…of whom …
+463   Pakhtr …
+464   Tha…ós wife …
+465   Horos of A…is …
+466   Tete…óros …[there are four of whom two] …
+467   Phauēs brother …
+468   Taēsis wife; there are two of whom one …
+469   Paēs of Horous …
+470   Páis …
+471   … ntototēs …
+472   … [P]etobástis …
+473   … Thasis wife; there are three of whom one …
+474   … ós of Arphaphmono …
+475   … Thaēs wife …
+476   … Taēsis ph…
+477   … [herd-]men of th…nē …
+478   … Tene …
+479   … Harmaios …
+480   … anáubis; there are…of whom two …
+481   … Horos …
+482   … T …
+483   Herieus of Thetó of O…
+484   Toggous of Toggo son …
+485   Thasis wife; there are five of whom two; of Sarap…
+486   T…os of Akóphios of T…
+487   …sus of Tásuto[s] …
+488   …oi …
+489   … [Sto]totēis of Psintaētos …
+490   … b…s mother; there are…of whom …
+491   … iris …
+492   … tóus wife …
+493   … s wife …
+494   … [P]et[o]syris son …
+495   … Tamēphis wife …
+496   … there are eight of whom four …
+497   … rotód…skorr …
+498   … esouchos of O…
+499   … ón…is wife …
+500   … pik…tos …
+501   … tos wife …
+502   … Peloís son …
+503   … wife; there are five of whom …
+504   … llophóroi of Kýnón …
+505   … Paoupēs of Imouthou …
+506   … rmoúthis …
+507   … sis of A…
+508   … wife …
+509   … os of Horos of Sob…
+510   … sis; there are two of whom one …
+511   … s of Pakrátēs …
+512   … asis wife; there are two of whom one …
+513   … [nekr]otáphos of Horos …
+514   … wife …
+515   … tios; there are …[of whom] …
+516   … Pásís of A…
+517   … ris wife …
+518   … ēris of Teots …
+519   … tea…pónsís wife …
+520   … senopsóis …; there are three of whom one …
+521   … T…anáibis of Ta…
+522   … r…s of Katútos …
+523   … sis wife; there are nine of whom two …
+524   … Horou
+525   … e…wife
+526   … there are one hundred seventeen of whom eighty-four
+527   … phoi…aíou
+528   … there are…of whom two …
+529   … s of Pausi…
+530   … s wife …
+531   … s…mennaús

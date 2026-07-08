@@ -580,565 +580,565 @@ r.561  … εως η
 r.562  … ορπε η
 
 [TRANSLATION]
-1     
-2     
-3     
-4     
-5     
-6     
-7     
-8     
-9     
-10    
-11    
-12    
-13    
-14    
-15    
-16    
-17    
-18    
-19    
-20    
-21    
-22    
-23    
-24    
-25    
-26    
-27    
-28    
-29    
-30    
-31    
-32    
-33    
-34    
-35    
-36    
-37    
-38    
-39    
-40    
-41    
-42    
-43    
-44    
-45    
-46    
-47    
-48    
-49    
-50    
-51    
-52    
-53    
-54    
-55    
-56    
-57    
-58    
-59    
-60    
-61    
-62    
-63    
-64    
-65    
-66    
-67    
-68    
-69    
-70    
-71    
-72    
-73    
-74    
-75    
-76    
-77    
-78    
-79    
-80    
-81    
-82    
-83    
-84    
-85    
-86    
-87    
-88    
-89    
-90    
-91    
-92    
-93    
-94    
-95    
-96    
-97    
-98    
-99    
-100   
-101   
-102   
-103   
-104   
-105   
-106   
-107   
-108   
-109   
-110   
-111   
-112   
-113   
-114   
-115   
-116   
-117   
-118   
-119   
-120   
-121   
-122   
-123   
-124   
-125   
-126   
-127   
-128   
-129   
-130   
-131   
-132   
-133   
-134   
-135   
-136   
-137   
-138   
-139   
-140   
-141   
-142   
-143   
-144   
-145   
-146   
-147   
-148   
-149   
-150   
-151   
-152   
-153   
-154   
-155   
-156   
-157   
-158   
-159   
-160   
-161   
-162   
-163   
-164   
-165   
-166   
-167   
-168   
-169   
-170   
-171   
-172   
-173   
-174   
-175   
-176   
-177   
-178   
-179   
-180   
-181   
-182   
-183   
-184   
-185   
-186   
-187   
-188   
-189   
-190   
-191   
-192   
-193   
-194   
-195   
-196   
-197   
-198   
-199   
-200   
-201   
-202   
-203   
-204   
-205   
-206   
-207   
-208   
-209   
-210   
-211   
-212   
-213   
-214   
-215   
-216   
-217   
-218   
-219   
-220   
-221   
-222   
-223   
-224   
-225   
-226   
-227   
-228   
-229   
-230   
-231   
-232   
-233   
-234   
-235   
-236   
-237   
-238   
-239   
-240   
-241   
-242   
-243   
-244   
-245   
-246   
-247   
-248   
-249   
-250   
-251   
-252   
-253   
-254   
-255   
-256   
-257   
-258   
-259   
-260   
-261   
-262   
-263   
-264   
-265   
-266   
-267   
-268   
-269   
-270   
-271   
-272   
-273   
-274   
-275   
-276   
-277   
-278   
-279   
-280   
-281   
-282   
-283   
-284   
-285   
-286   
-287   
-288   
-289   
-290   
-291   
-292   
-293   
-294   
-295   
-296   
-297   
-298   
-299   
-300   
-301   
-302   
-303   
-304   
-305   
-306   
-307   
-308   
-309   
-310   
-311   
-312   
-313   
-314   
-315   
-316   
-317   
-318   
-319   
-320   
-321   
-322   
-323   
-324   
-325   
-326   
-327   
-328   
-329   
-330   
-331   
-332   
-333   
-334   
-335   
-336   
-337   
-338   
-339   
-340   
-341   
-342   
-343   
-344   
-345   
-346   
-347   
-348   
-349   
-350   
-351   
-352   
-353   
-354   
-355   
-356   
-357   
-358   
-359   
-360   
-361   
-362   
-363   
-364   
-365   
-366   
-367   
-368   
-369   
-370   
-371   
-372   
-373   
-374   
-375   
-376   
-377   
-378   
-379   
-380   
-381   
-382   
-383   
-384   
-385   
-386   
-387   
-388   
-389   
-390   
-391   
-392   
-393   
-394   
-395   
-396   
-397   
-398   
-399   
-400   
-401   
-402   
-403   
-404   
-405   
-406   
-407   
-408   
-409   
-410   
-411   
-412   
-413   
-414   
-415   
-416   
-417   
-418   
-419   
-420   
-421   
-422   
-423   
-424   
-425   
-426   
-427   
-428   
-429   
-430   
-431   
-432   
-433   
-434   
-435   
-436   
-437   
-438   
-439   
-440   
-441   
-442   
-443   
-444   
-445   
-446   
-447   
-448   
-449   
-450   
-451   
-452   
-453   
-454   
-455   
-456   
-457   
-458   
-459   
-460   
-461   
-462   
-463   
-464   
-465   
-466   
-467   
-468   
-469   
-470   
-471   
-472   
-473   
-474   
-475   
-476   
-477   
-478   
-479   
-480   
-481   
-482   
-483   
-484   
-485   
-486   
-487   
-488   
-489   
-490   
-491   
-492   
-493   
-494   
-495   
-496   
-497   
-498   
-499   
-500   
-501   
-502   
-503   
-504   
-505   
-506   
-507   
-508   
-509   
-510   
-511   
-512   
-513   
-514   
-515   
-516   
-517   
-518   
-519   
-520   
-521   
-522   
-523   
-524   
-525   
-526   
-527   
-528   
-529   
-530   
-531   
-532   
-533   
-534   
-535   
-536   
-537   
-538   
-539   
-540   
-541   
-542   
-543   
-544   
-545   
-546   
-547   
-548   
-549   
-550   
-551   
-552   
-553   
-554   
-555   
-556   
-557   
-558   
-559   
-560   
-561   
-562   
+1     … three-obol piece
+2     … four-obol piece
+3     … five-obol piece
+4     … seven …
+5     … eight hundred [drachmas] …
+6     … forty … ten [drachmas] …
+7     … [name] of Cusae
+8     … [name] forty [drachmas]
+9     … forty [drachmas]
+10    … [heirs of Ibion] son of Pathôtos, three-obols
+11    … twenty [drachmas]
+12    … eighty [drachmas] [of Theodore]
+13    [of the one] and of Besarion, twelve [drachmas]
+14    … heirs of Ka[...]
+15    … and … Theodoros …
+16    … [name] twenty [drachmas]
+17    … twelve [drachmas]
+18    seventeen [drachmas]
+19    ten [drachmas], likewise, Cusae, through the same Hermaeus, dekaprôtos
+20    Aquilina, also called Hermione, Cusae, twelve [drachmas]
+21    heirs of Trochambos, also called Kyiêtianos, Cusae, eight [drachmas]
+22    Harpocratiôn, also called Didymos, Cusae, sixty [drachmas]
+23    Pallytae, likewise, twelve [drachmas]
+24    Pekysis, [son of] Pamouni, Cusae, twelve [drachmas]
+25    Psois, [son of] Saras, through the same [official], Cusae, twelve [drachmas]
+26    Harpocratiôn, [son of] Chairemonianos, Cusae, forty-eight [drachmas]
+27    Moirae, likewise, twelve [drachmas]
+28    Tênae, likewise, eight [drachmas]
+29    Pôkae, likewise; total: eighty drachmas [and] twelve [obols]
+30    Aphrodisia, also called Maxima, Cusae, one hundred twenty-two [drachmas]
+31    heirs of Aurelia Serenilla, through Ammoniос, administrator, Cusae, twenty [drachmas]
+32    Psiche, likewise, twenty [drachmas]
+33    Pôkae, likewise, twelve [drachmas]
+34    Tênae, likewise, eight [drachmas]
+35    Moirae, [likewise], twelve [drachmas]
+36    Ibion, son of Pathôtos; total: sixty-eight drachmas [and] four [obols]
+37    Eudaimon, also called …, [of] Cusae, twelve [drachmas]
+38    Psiche, eight [drachmas]
+39    Tênae; total: twenty drachmas [and] eight [obols]
+40    heirs of Besarion [and] Diodor[os]
+41    Tênae, twelve [drachmas]
+42    Pôkae, twelve [drachmas]
+43    eighteen [drachmas]
+44    heirs of Demetria, also called Tereutos, Psiche, twenty [drachmas]
+45    Pôkae, likewise; total: thirty-six drachmas [and] sixteen [obols]
+46    Serenos, [son of] Eudaimon, exegetes of Antinoou
+47    Ibion, [son of] Pathôt, ninety-two [drachmas]
+48    Pôkae, likewise, twenty [drachmas]
+49    Cusae, likewise; total: one hundred twenty drachmas [and] eight [obols]
+50    heirs of Achilles, also called Harpocrâ, of the portico
+51    [for] vineyard produce of Psiche, thirty-six [drachmas]
+52    Philantinoos, also called Harpocratiôn, Cusae, thirty-two [drachmas]
+53    heirs of Zoilos, also called Philantinoos, Cusae, fifty drachmas [and] three-obols
+54    [Psiche], likewise, seven [drachmas]
+55    [Moirae], likewise; total: sixty-eight drachmas [and] ten [obols] and four-obols
+56    Origenes, also called Magnos, Cusae, twenty [drachmas]
+57    Tênae, likewise; total: twenty-four drachmas [and] four [obols]
+58    Aphrodisia, also called Maxima, Psiche, twenty-four [drachmas]
+59    the same [woman], through Achilles, [son of] Theodore, Cusae, forty [drachmas]
+60    the same [woman], through Heraklammôn, Psiche, twenty [drachmas]
+61    Anubia, also called Aspasia, through Achilles, son of
+62    Theodore; [for] vineyard produce of Psiche, forty-eight [drachmas]
+63    Achilles, also called Theodore; [for] vineyard produce of Pôkae, thirty-six [drachmas]
+64    heirs of Plutarchos, also called Antôninοs, Cusae, sixty [drachmas]
+65    the same [people], for the [replacement allowance], through hired laborers, Cusae, forty [drachmas]
+66    Ammônilla, also called Th[...]nia, Tênae, four [drachmas]
+67    [Ibion, son of] Pathôt, twelve [drachmas]
+68    nineteen [drachmas]
+69    Harpocrâs, [son of] Hôriôn, through Dioskoros, Cusae, sixteen [drachmas]
+70    Pôkae, similarly; total: forty drachmas [and] twenty-four [obols]
+71    village-headmen of Ibion Kainon, for
+72    collection-tax of Pallytae, one hundred forty [drachmas]
+73    heirs of Demetrius, [son of] Chares, Cusae, eight [drachmas]
+74    Ibion, son of Pathôt, likewise, eight [drachmas]
+75    Pôkae, likewise; total: forty drachmas [and] twenty-four [obols]
+76    Isidoros, also called Thargêlios, on behalf of Cornelia, [wife]; [for] vineyard produce
+77    of Ibion, son of Pathôt, twenty [drachmas]
+78    Aphrodisia, also called Theodora, through Hierakiôn, [her] husband, Cusae, sixty [drachmas]
+79    of Ibion, son of Pathôt, twenty [drachmas]
+80    Moirae, likewise; total: eighty-eight drachmas [and] eight [obols]
+81    heirs of Silvanus, [son of] Tisoites, Cusae, sixteen [drachmas]
+82    heirs of Aphrodisios, also called [Aristos], Cusae, twelve [drachmas]
+83    [Psiche], likewise, eight [drachmas]
+84    heirs of Harpocratiôn, [son of] Eudaimon
+85    [also called] Philoxenos, Cusae, eight [drachmas]
+86    Tênae, likewise, four [drachmas]
+87    Apiôn, also called Herôdês, Psiche, four [drachmas]
+88    Moirae, likewise, four [drachmas]
+89    Kollouthos, also called Ammônios, Cusae, twenty [drachmas]
+90    heirs of Cornelios, also called Eutychides
+91    through Charidêmos, a Syrian, Cusae, twenty [drachmas]
+92    … likewise, twelve [drachmas]
+93    Moirae, [likewise], …
+94    twenty [drachmas]
+95    Pamouni, [son of] Inaroos, Cusae, ninety-eight [drachmas]
+96    Ibion, son of Pathôt, likewise; total: sixteen drachmas [and] eight [obols]
+97    village-headmen of Psiche, through Philôtos, guard, Psiche, thirty-two [drachmas]
+98    heirs of Achilles, also called Harpocratiôn, formerly a councilor, Cusae, thirty-six [drachmas]
+99    heirs of Sarapiâs, also called Demetria, Cusae, four [drachmas]
+100   Psiche, likewise, twenty [drachmas]
+101   Plêthme, likewise, twelve [drachmas]
+102   Pôkae, likewise; total: forty drachmas [and] four [obols]
+103   Pinutiôn, [son of] Pamouni, Cusae, eight [drachmas]
+104   Philantinoos, also called Hermaeus, Cusae, forty-eight [drachmas]
+105   Pôkae, likewise; total: sixty drachmas [and] twelve [obols]
+106   total for the 10th of Pharmouthi [beginning of the month], Cusae
+107   through Hermaeus, dekaprôtos, sixteen [drachmas] … nine […]
+108   11th [?], likewise, Cusae, through the same Hermaeus, dekaprôtos, Cusae
+109   Sarapiôn, also called Ammônantinoos, Cusae, one hundred twenty [drachmas]
+110   Psiche, likewise, sixty [drachmas]
+111   Ibion, son of Pathôt, likewise, twelve [drachmas]
+112   Moirae, likewise, eight [drachmas]
+113   heirs of Lyg[...], [son of] Hôriôn, Cusae, twenty-four [drachmas]
+114   Pôkae, eight [drachmas]
+115   Tênae, …
+116   … … …
+117   [?]
+118   heirs […]
+119   Isid[...]
+120   Maxim[...]
+121   Apo[...]
+122   [?]
+123   Herm[...]
+124   Dem[...]
+125   heirs […]
+126   … sixteen [drachmas]
+127   … twelve [drachmas]
+128   … twelve [drachmas]
+129   … four [drachmas]
+130   … [Cusae], twenty-four [drachmas]
+131   … twelve [drachmas]
+132   … twelve [drachmas]
+133   … sixteen [drachmas] and four-obols
+134   … nine [drachmas] and obol
+135   … […]
+136   … twelve [drachmas]
+137   … thirteen [drachmas] and five-obols
+138   … [?] two hundred [drachmas]
+139   … six [drachmas]
+140   … [drachmas], eighteen [drachmas] and one chalkos
+141   … […] five-obols
+142   … two [drachmas] and diobol
+143   … […]
+144   … four [drachmas]
+145   … fourteen [drachmas] and diobol
+146   … twelve [drachmas]
+147   … […] four [drachmas]
+148   … fifty-four […]
+149   … four [drachmas] and three-obols
+150   … Apiôn, Cusae, eight [drachmas]
+151   heirs of [Demetria], also called Tereutos
+152   Cusae, twenty [drachmas]
+153   Ibion, son of Pathôt, sixteen [drachmas]
+154   Pôkae, twenty-eight [drachmas]
+155   heirs of Cornelios, also called Eutychides
+156   through Charidêm[os], son, Cusae, seventeen [drachmas] and five-obols
+157   Psiche, likewise, six [drachmas] and diobol
+158   of the aforementioned Epimachos, through Antoniος and Kopreos
+159   in the third year, drachmas ninety-two; and of Argôtos, Cusae, ninety-six [drachmas]
+160   the account was given on the 15th of Mesore; … thirty drachmas; one hundred eighty-eight [drachmas]
+161   remainder for the next month, drachmas ninety-two
+162   Aphrodisios, also called Mestos, Pallytae, ten [drachmas]
+163   Pôkae, likewise, ten [drachmas]
+164   Eudaimon[is], also called Anubia, Pôkae, forty [drachmas]
+165   Isidoros, [son of] Herôdes, through a hired [servant] …
+166   in … of Tênae, twelve [drachmas]
+167   Moirae, likewise, thirty-two [drachmas]
+168   Plêthme, likewise, fifty-six [drachmas]
+169   heirs of Cornelios, also called Eutychides
+170   through Anubiôn, son, Cusae, forty [drachmas]
+171   Psiche, likewise, sixty [drachmas]
+172   Moirae, likewise, sixteen [drachmas] and four-obols
+173   Ibion, son of Pathôt, likewise, three [drachmas] and three-obols
+174   Isidoros, [son of] Herôdes, Cusae, one hundred sixty-eight [drachmas]
+175   Eudaimon, [son of] Mestos, Cusae, two [drachmas] and diobol
+176   Psiche, likewise, eight [drachmas]
+177   Dioskoros, [son of] Dioskoros, also called Philantinoos
+178   Plêthme, three [drachmas] and three-obols
+179   Cusae, fifteen [drachmas] and three-obols
+180   Eudaimonisν also called Mantinoe, Plêthme, nine [drachmas] and obol
+181   Aquylas, [son of] Pamouni, Cusae, eight [drachmas]
+182   village-headmen of Cusae, through Harpocrâ, [of] Thakoris, Cusae, sixteen [drachmas]
+183   Theodora, also called Helene, Cusae, twenty-four [drachmas]
+184   Theognôstos, [son of] Silvanus, Tênae, forty [drachmas]
+185   Ammônilla, also called [of] Dioskoros, Cusae, eight [drachmas]
+186   village-headmen of Nephi, through Paesios, Eisiδ, Plêthme, eighty [drachmas]
+187   Tausi, [son of] Ailoura, Cusae, sixteen [drachmas]
+188   total for 26 Mesore […] Cusae, through
+189   Hermaeus, dekaprôtos, drachmas […] and three-obols
+190   27, likewise, Cusae, through the same Hermaeus, dekaprôtos
+191   Amenôthês, [son of] Totheus, through Psoites
+192   […], Cusae, three [drachmas] …
+193   Isidora, also called Anubia, through a veteran, Moirae, thirty [drachmas] and obol
+194   heirs of Aphrodisios, [son of] Argôtos, Plêthme, …
+195   Tbesis, also called Sarapia, Cusae, twenty-four [drachmas]
+196   Pôkae; total: forty drachmas [and] sixteen [obols]
+197   Sarapiôn, also called Isas, Psiche, eighty-four [drachmas]
+198   Melas, [son of] Cornelios, Psiche, three [drachmas] and three-obols
+199   heirs of Nepôtianos, veteran, Cusae, twenty-four [drachmas]
+200   Pôkae, likewise, thirty-two [drachmas]
+201   Moirae, likewise, four [drachmas]
+202   drachmas […]
+203   […] ninety-two [drachmas?] and four-obols
+204   heirs of Ôr[...] [...] through
+205   [of] Sarapiô[n], Tênae, twenty-four; total: twenty-eight […]
+206   heirs of Kaleo, [son of] Ôros, through Thermouthios
+207   Tênae, eight [drachmas]
+208   Chaos, [son of] Hierax, Psiche, eight [drachmas]
+209   Cusae, likewise, twelve [drachmas]
+210   Augusta, [daughter of] Serenos, Cusae, twelve [drachmas]
+211   Paarrherêsis, [son of] Pamouni, on behalf of himself, Cusae, one [drachma] and five-obols
+212   and on behalf of heirs of Silvanus, Thaisaios
+213   Psoites, Cusae, fourteen [drachmas] and diobol
+214   chief ass-drivers of Cusae, on behalf of pasturage allowance, Cusae, one hundred forty [drachmas]
+215   village-headmen of Cusae, through Siouôniος
+216   Pekysios, Cusae, sixteen [drachmas]
+217   Origenes, [son of] Chares, and Hippolythe, also called Aeiene, Cusae, eighty [drachmas]
+218   Psiche, likewise, eighty [drachmas]
+219   Pôkae, likewise, eight [drachmas]
+220   Ibion, son of Pathôt, …
+221   Tamais, [son of] Pamouni, Pôkae, three hundred [drachmas]
+222   heirs of P[...], [son of] Germanos, Pôkae, ten [drachmas] and diobol
+223   village-headmen of Cusae, through Besâtos
+224   Pechouout, Cusae, one hundred twelve [drachmas]
+225   heirs of Thaisaios, Psoites, through Tapouts
+226   Tênae, twelve [drachmas]
+227   Apiôn, also called Harpocratiôn, Cusae, two hundred [drachmas]
+228   Pôkae, likewise; total: two hundred drachmas [and] twenty [obols]
+229   […] diobol
+230   […] also called A[...], through Achilles, [for vineyard] produce
+231   of vineyard, Psiche, …
+232   Cusae, likewise; total: two hundred [drachmas] […]
+233   Anubiôn, [son of] Pamouni, Psiche, eight [drachmas]
+234   Theodore, also called Besariôn, Pôkae, three hundred [drachmas]
+235   heirs of Moros, [son of] Triadelph, through
+236   Argôtos, [son of] Cornelios, Cusae, twenty [drachmas]
+237   Isidoros, [who has] served as agoranomos, through Silvanus
+238   baker, Psiche, twenty [drachmas]
+239   Tisoïs, [son of] Inaroubêsios, and his sons, Psiche, two [drachmas] and diobol
+240   Plêthme, three [drachmas] and three-obols
+241   Hôriôn, [son of] Hôriôn, Cusae, two [drachmas] and one chalkos
+242   Isidoros, also called Harpocratiôn, [son of] Aphrodisios, Cusae, sixty [drachmas]
+243   Aphrodisia, also called [Isidora], Moirae, twenty [drachmas]
+244   Pôkae, likewise, eighteen [drachmas]
+245   Cusae, likewise, six [drachmas]
+246   heirs of Aphrodisia, [daughter of] Argôtos, Cusae, eight [drachmas]
+247   Ibion, [son of] Pathôt, four [drachmas]
+248   total for 2[7 Mesore] […] Cusae, through [Hermaeus]
+249   dekaprôtos […]
+250   28, Cusae, similarly, through the same Hermaeus, dekaprôtos
+251   Sarapiôn, [son of] Eudaimon, [also called] Neilos, Pôkae, eight [drachmas]
+252   Tênae, likewise; total: sixteen drachmas [and] eight [obols]
+253   heirs of Hôriôn, also called Theodore, Psiche, eighty [drachmas]
+254   Aphrodisios, [son of] Demetrius, [son of] Chares, Cusae, three [drachmas] …
+255   Pôkae, thirty-two [drachmas]
+256   [Tênae], similarly, …
+257   Ibion, son of Pathôt; total: nine [drachmas] and three-obols [and] ten […]
+258   L[ucia], also called Aphrodisia, Tênae, twelve [drachmas]
+259   of the aforementioned Epimachos, through Euto[...] [...], Cusae, forty [drachmas]
+260   account was given on the 14th of Mesore
+261   Theodore, also called Theseus, through Silvanus, gardener, Psiche, one [drachma] and obol
+262   Cusae, likewise, thirty-eight [drachmas] and one chalkos
+263   Besantinoos, also called Anubiôn, Cusae, twenty [drachmas]
+264   Psiche, likewise, twenty [drachmas]
+265   Apollodoros, [son of] Sarapiôn, on behalf of himself, Psiche, forty [drachmas]
+266   and on behalf of Anubiâs, also called Protarchês
+267   Psiche, eighty [drachmas]
+268   Cusae, likewise, twenty [drachmas]
+269   … [similarly], eight [drachmas]
+270   [Ibion, son of Pathôt], likewise, twelve [drachmas]
+271   Moirae, [similarly]; total: one hundred eighty drachmas [and] twenty [obols]
+272   […], also called Plou[...], [on behalf of] himself, Ibion, son of Pathôt, sixteen [drachmas]
+273   Moirae, [similarly], ten [drachmas] and one chalkos
+274   and on behalf of Demetrius [...], Tênae, twenty [drachmas]
+275   Demetrius, also called Philôtas, and Isidora, also called
+276   Anubia, Cusae, eighty [drachmas]
+277   Pôkae, similarly, two hundred [drachmas]
+278   Ibion, son of Pathôt, similarly, two hundred forty [drachmas]
+279   Moirae, likewise, sixty [drachmas]
+280   Isidoros, [son of] Herôdes, Cusae, thirty-two [drachmas]
+281   … […] …
+282   and on behalf of heirs […]
+283   […]
+284   Ploutas, [son of] Ploutas […]
+285   Ibion
+286   village-headmen of Cusae […]
+287   [of] Hôriôn, Isid[...]
+288   Isidoros, [son of] Herôdes, …
+289   heirs of Bassos […]
+290   and [co-owner] …
+291   Kollouthos, also called A[mmônios] …
+292   from Tênae […]
+293   Myron, [son of] Ephelios […]
+294   Hermione, [daughter of] Harpocratiôn […]
+295   Sôtêrich[...]
+296   [Cusae] …
+297   Psiche […]
+298   Ibion […]
+299   chief ass-drivers […] [pasturage] …
+300   Heraklios, also called …
+301   mônos
+302   Phileinos, also called A […]
+303   Hermaeus, [son of] Harpocratiô[n] …
+304   Pôkae […]
+305   Ibion, [son of] Pathôt […]
+306   Moirae …
+307   … five-obols
+308   … thirteen [drachmas] and five-obols
+309   … twenty-one [drachmas] and obol
+310   … twenty-eight [drachmas]
+311   … Pharmouthi, 6
+312   … [dekaprôtos], drachmas two hundred thirty [drachmas] and diobol
+313   … Pharmouthi, 6
+314   … [dekaprôtos]
+315   … and [?]
+316   … Moirae, sixteen [drachmas]
+317   … five [drachmas] ½ and one obol
+318   … Moirae, eight [drachmas]
+319   … […] through Inaros
+320   … Moirae, twelve [drachmas]
+321   … through the same, Moirae, fifty [drachmas]
+322   … [name], Patermouth, Moirae, nine […]
+323   … Kaulos, Moirae, …
+324   … […] and Eutychides, through
+325   … […], Moirae, twelve [drachmas]
+326   … overseers, through …
+327   … […] through Petorios […]
+328   … […], Moirae […]
+329   … […], Moirae […]
+330   … through …
+331   … Moirae […]
+332   … […]
+333   Dioskoros, [son of] Cornelios, Moirae […]
+334   Belles, [son of] Herôdes, Moirae
+335   Thasis, [son of] Heron, Moirae
+336   Apiôn, [son of] Amerythes, through Pamoutes
+337   Chichoit[os] …, Psiche […]
+338   on behalf of T[...], [son of] Philantinoos, …, Moirae
+339   heirs of [...] and E[isidora], through … Dioskoros …, Moirae
+340   […] Isidoros […]
+341   Pathôt […]
+342   Pathô […]
+343   […]
+344   … twenty-four [drachmas]
+345   … five [drachmas] and obol
+346   … five-obols
+347   … […]
+348   … eight [drachmas]
+349   … eight [drachmas]
+350   … Moirae
+351   … […]
+352   … twenty [drachmas]
+353   … twelve [drachmas]
+354   Thasis …
+355   Besarion […]
+356   Dioskoros […]
+357   Tele […]
+358   total for the village […]
+359   through Herm[...]
+360   Nephi, likewise […]
+361   through P […]
+362   heirs […]
+363   … […]
+364   [?] years old
+365   Isidoros […]
+366   […]
+367   heirs […]
+368   … […]
+369   of Hôriôn […]
+370   heirs of Serenô[s]
+371   Tauos, [son of] Ti[...]
+372   Ammôn[...]
+373   […]
+374   […]
+375   … […]
+376   […]
+377   … […]
+378   … [Cusae], twelve [drachmas] and four-obols
+379   … [Psiche], twenty-two [drachmas] and two chalkoi
+380   … […], Cusae
+381   … five-obols; other drachmas four
+382   … [dekaprôtos]
+383   … forty [drachmas]
+384   … [name], Eudaimon […]
+385   … Ibion, son of Pathôt, one hundred twenty [drachmas]
+386   Pinutiôn, [son of] Dioskoros, Cusae, eight [drachmas]
+387   Psiche, likewise, five [drachmas] and obol
+388   Ibion, son of Pathôt, eight [drachmas]
+389   Pôkae, likewise; total: twenty-eight drachmas [and] six [obols] and one copper chalkos
+390   Theodore, also called […], through Dik[...]
+391   […] […]
+392   heirs […]
+393   … three […]
+394   … four […]
+395   through the same D[...]
+396   … [Onnophrios], [of] Thaibios, Cusae, two hundred thirty [drachmas] [… …]
+397   … […] [name] of Neilamm[ôn]
+398   … [brother] of Hermogenides, twenty [drachmas]
+399   … […] six [drachmas] and diobol
+400   … […], [son of] Herôdes, Cusae, …
+401   … [Psiche], likewise, …
+402   … [Plêthme], likewise, sixteen […]
+403   … […] and Anubiôn, Cusae, twenty-four [drachmas]
+404   likewise, Ibion, four [drachmas]
+405   … [Harpocratiaina], Cusae, twenty-eight [drachmas]
+406   likewise, thirty-two […]
+407   … total: one hundred twenty drachmas [and] twenty [drachmas] and three-obols
+408   … [name], Cusae, twelve [drachmas]
+409   … [similarly], …
+410   … […] …
+411   … […] …
+412   … […] […] …
+413   … […] …
+414   … [name], [distribution] …
+415   … […] […] …
+416   … [similarly] … [distribution] …
+417   … [the same] Hermaeus […]
+418   … [heirs] of Isidora …
+419   … […] through Bekhios […]
+420   … […] Tereutos
+421   … likewise
+422   … Tereutos […]
+423   … […] obol
+424   … […], son of Pathôt, through the same Hermaeus […]
+425   … […], [son of] Ailouriôn, Ibion, [son of] Pathôt, sixteen [drachmas]
+426   … […], [daughter of] Thotsytos, through Onnophrios, priest
+427   … Ibion, son of Pathôt, twelve [drachmas]
+428   … Ibion, son of Pathôt, forty [drachmas]
+429   … […], [son of] Hermeinôs, through Thotôtos
+430   … […], Ibion, son of Pathôt, fifth year, thirteen [drachmas] and five-obols
+431   … […], [son of] Lychnos, Ibion, son of Pathôt, four [drachmas]
+432   … on behalf of the aforementioned Faustinianos
+433   … Ibion, son of Pathôt, twenty [drachmas]
+434   … [Euandros], perpetual gymnasiarch
+435   … […], Phibios, Ibion, son of Pathôt, fifth year, forty [drachmas]
+436   … [through the] same Hermios, Ibion, son of Pathôt, fifth year, forty [drachmas]
+437   … on behalf of [the] aforementioned Faustinianos
+438   … […], twenty [drachmas]
+439   … […], Phamenôth, 9
+440   … […] five-obols
+441   heirs […]
+442   Antôn[...]
+443   Potam[ôn] […]
+444   Psois …
+445   Pe[...]
+446   Psois …
+447   heirs […]
+448   heirs […]
+449   heirs […]
+450   Paner[...]
+451   Kaneis […]
+452   Her[...] tho[...]
+453   … and ti […]
+454   … […] great […]
+455   … […] through Kollouthos […]
+456   … settlement of Eirene […]
+457   … […], Ibion, [son of] Pathôt […]
+458   … [Aimiliano] […]
+459   … […], Moirae […]
+460   … Eirenes, prytanis […]
+461   … [dekaprôtos] …
+462   … Hermein[...]
+463   … […] of the same […]
+464   … […], Taurios, through Anubiô[n] …
+465   … Psoites, Ibion, son of Pathôt […]
+466   … […] of Artemidoras, of […]
+467   … […], through Heron, Nekhô
+468   … […], also called Demetrius, […]
+469   … [of] Diodoros, […]
+470   … […]
+471   … […]
+472   … diobol
+473   … […]
+474   … eight [drachmas]
+475   … four [drachmas]
+476   heirs […]
+477   heirs […]
+478   treasurers […]
+479   village-headmen […]
+480   heirs […]
+481   village-headmen […]
+482   heirs […]
+483   […]
+484   […]
+485   Isid[...]
+486   heirs …
+487   … […]
+488   Ibion […]
+489   Psaron, [son of] Hôriô[n] …
+490   [heirs] of Silvanu[s] …
+491   [heirs] of Silvanu[s] …
+492   Pinutiô[n] …
+493   … [likewise], twelve [drachmas]
+494   … […] eighteen [drachmas] and diobol
+495   … […], Moirae, seventeen [drachmas] and five-obols
+496   … [...], thirteen [drachmas] and obol
+497   … through heirs
+498   … Moirae, twenty [drachmas] and obol
+499   … [Moirae], six [drachmas]
+500   … [distribution] …
+501   … Moirae […]
+502   … […], Moirae …
+503   … […], on behalf of …
+504   … [Pathôt] …
+505   … Onemitios, twenty […]
+506   on behalf of the aforementioned S[...]
+507   … […], Hermios
+508   [on behalf of] [the] aforementioned Faustinianos
+509   … 28, Cornelios
+510   [village-headmen] of Pôkae
+511   … [village], Ibion
+512   … […] through Hermaeus
+513   […] of the village …
+514   […] …
+515   … […]
+516   … […]
+517   … [younger?] Chempi […]
+518   … Pallytae […]
+519   … […] and Thaes […] four […]
+520   … Pallytae […]
+521   … [Longeinous], Bar[...]
+522   … [name], through Kastor[os] […]
+523   … [Pallytae]
+524   … [of] Ammoniος, Pallytae […]
+525   … […], Pallytae […]
+526   … […], Pallytae […]
+527   … Pallytae […]
+528   … [slaves of] Kastoros
+529   … [Ibion], son of Pathôt, likewise, four [drachmas]
+530   … […], Pallytae, eight [drachmas]
+531   … [Ibion], son of Pathôt, likewise, four [drachmas]
+532   … [?] Pallytae …
+533   … likewise, four [drachmas]
+534   … […]
+535   […] through Hermaeus […]
+536   prôtos, Ibion, son of Pathôt […]
+537   9, likewise, Cusae, through the same Hermaeus […]
+538   Isidoros, [son of] Demetrius, also called […]
+539   […], Cusae
+540   Pôkae
+541   Ibion, son of Pathôt
+542   Eudaimon, [son of] Chairemon […]
+543   [Theodore] and Helene, also called […]
+544   [of] Nemesiôn […]
+545   … [Pôkae] …
+546   … […]
+547   … Cusae […]
+548   … also called Ammônantinoo[s] …
+549   … [Psiche], likewise
+550   … [Tênae], likewise; total: one hundred twelve […]
+551   Herôdês, [son of] Sarapiôn, Cusae […]
+552   Tbesis and Sarapia, Cusae […]
+553   Pôkae
+554   … […]
+555   Moirae
+556   Sarapo[doros], [son of] Arg[...]
+557   Psiche
+558   … four [drachmas], Pallyt[ae], eight […]
+559   … [?]
+560   … eight [drachmas]
+561   … eight [drachmas]
+562   … […], eight [drachmas]
