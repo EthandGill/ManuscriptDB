@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 1.28
+label:    O.EDFOU 1.28
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     69 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (69 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       46968
+source:   https://papyri.info/ddbdp/o.edfou;1;28
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    διέγραψεν Τρυφᾶς Νίκωνος γεωμετρίας Θμούου
+r.2    α ἔτους Οὐεσπασιανοῦ
+r.3    [δραχμὰς] μη διώβολον ἔτους β Οὐεσπα[σιαν]οῦ Ἁθὺρ β
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,30 @@
+[META]
+id:       ROM.MIL.REC 1.78_36
+label:    ROM.MIL.REC 1.78_36
+name:     Receipt — Pselkis (Nubien)
+genre:    receipts
+date:     178 CE
+language: Greek (Koiné)
+found:    Pselkis (Nubien)
+held:     
+shelf:    
+content:  Receipt from Pselkis (Nubien) (178 CE)
+# hgv-keywords: Quittung — Militär
+tm:       18841
+source:   https://papyri.info/ddbdp/rom.mil.rec;1;78_36
+lat:      23.195708
+lon:      32.749351
+
+[GREEK]
+r.1    Νεφερῶς Νεφερῶτος
+r.2    ὀπτίων Ἀλεξάνδρῳ κιβαριάτορι χαίρειν· ἔλαβον
+r.3    παρὰ σοῦ οἴνου τρικέραμον
+r.4    ἓν δηναρίων τριῶν ὀβολῶν εἴκοσι .
+r.5    ἔτους ιη, Φαμενὼθ κ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

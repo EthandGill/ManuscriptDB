@@ -1,0 +1,28 @@
+[META]
+id:       O.DID 340
+label:    O.DID 340
+name:     Letter — Didymoi
+genre:    letters
+date:     77 CE – 92 CE
+language: Greek (Koiné)
+found:    Didymoi
+held:     Qift
+shelf:    
+content:  Letter from Didymoi (77 CE – 92 CE)
+# hgv-keywords: Brief (privat) — Gaius Antonius an Longinus Crispus — Fragment
+tm:       144903
+source:   https://papyri.info/ddbdp/o.did;;340
+lat:      25.7543330528
+lon:      33.3947791619
+
+[GREEK]
+r.1    Γαῖος Ἀντ[ώνιος Λονγίνῳ]
+r.2    Κρίσπῳ τῷ [ἀδελφῷ χαίρειν·]
+r.3    καλῶς π[οιήσεις] …
+r.4    … τον χ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

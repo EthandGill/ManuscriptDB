@@ -1,0 +1,28 @@
+[META]
+id:       P.YALE 1.47
+label:    P.YALE 1.47
+name:     Letter — Ankyron (Herakleopolites)
+genre:    letters
+date:     230 BCE
+language: Greek (Koiné)
+found:    Ankyron (Herakleopolites)
+held:     
+shelf:    
+content:  Letter from Ankyron (Herakleopolites) (230 BCE)
+# hgv-keywords: Brief (amtlich) — Herakleodoros an Kleitarchos — Information vom Erhalt einer Geldzahlung
+tm:       8273
+source:   https://papyri.info/ddbdp/p.yale;1;47
+lat:      28.766518
+lon:      30.916624
+
+[GREEK]
+r.1    Ἡρακλεόδωρος
+r.2    Κλειτάρχωι χαίρειν.
+r.3    ἔχω παρὰ Πτολεμαίου τοῦ Νικολάου
+r.4    χαλκοῦ δραχμὰς τριακοσίας τεσσαρά[κ]ο[ντ]α
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

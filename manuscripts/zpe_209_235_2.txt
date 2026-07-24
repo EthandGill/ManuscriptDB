@@ -1,0 +1,34 @@
+[META]
+id:       ZPE 209.235_2
+label:    ZPE 209.235_2
+name:     Documentary papyrus — Oxyrynchites ?, Ägypten
+genre:    documents
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Oxyrynchites ?, Ägypten
+held:     Ann Arbor
+shelf:    
+content:  Documentary papyrus from Oxyrynchites ?, Ägypten (501 CE – 600 CE)
+# hgv-keywords: Anweisung — Bezahlung
+tm:       818063
+source:   https://papyri.info/ddbdp/zpe;209;235_2
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    χμγ
+r.2    κυρίῳ μου ἀδελφῷ
+r.3    Θεοδοσίῳ Ἀβραᾶμις
+r.4    δὸς Nαουφ Ἀκιαλι
+r.5    μυριάδας ρξη μόνας Ἁ[θὺρ]
+r.6    … ἰνδικτίoνος γ χμγ
+
+[TRANSLATION]
+# HGV-EN: To my lord brother Theodosios, (from) Abraham. Give to Naouph, son of Akialis, 168 myriads only. Hathyr …, indiction 3 …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

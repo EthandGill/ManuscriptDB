@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 1.87
+label:    O.BODL 1.87
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     115 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (115 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       44235
+source:   https://papyri.info/ddbdp/o.bodl;1;87
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτ[ου]ς γ Φαῶφι ιε τέτακται εἰς τιμὴν πυροῦ
+r.2    τοῦ εἰς τὸ ἥμισυ ὄγδοον τοῦ γ ἔτους
+r.3    Ἑριεῦς Ἑριέως βα
+r.4    τετρακισχιλίας γίνονται Δ.
+r.5    Εἰρηναῖος τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

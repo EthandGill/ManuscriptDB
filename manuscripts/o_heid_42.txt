@@ -1,0 +1,26 @@
+[META]
+id:       O.HEID 42
+label:    O.HEID 42
+name:     Receipt — Pakerkeësis (Theben)
+genre:    receipts
+date:     78 CE
+language: Greek (Koiné)
+found:    Pakerkeësis (Theben)
+held:     
+shelf:    
+content:  Receipt from Pakerkeësis (Theben) (78 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer
+tm:       80294
+source:   https://papyri.info/ddbdp/o.heid;;42
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    διέγραψεν Ψενπτούθης Πετεμαρσνούφιος ὑπὲρ λαογραφίας Πακερκεήσεως
+r.2    α ἔτους δραχμὰς δ. ἔτους ι
+r.3    Οὐεσπασιανοῦ τοῦ κυρίου Παχὼν λ.
+
+[TRANSLATION]
+1     
+2     
+3     

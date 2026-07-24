@@ -1,0 +1,32 @@
+[META]
+id:       O.ONT.MUS 2.178
+label:    O.ONT.MUS 2.178
+name:     Receipt — Theben
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (144 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75197
+source:   https://papyri.info/ddbdp/o.ont.mus;2;178
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κωμῶν γενήματος ζ ἔτους
+r.2    Ἀντωνίνου Καίσαρος
+r.3    τοῦ κυρίου Φαῶφι ε
+r.4    τοῦ η ἔτους ὑπὲρ Ὠφιήου ὀνόματος
+r.5    Ἀµενρώσιος Κα … Ψανσνῶτος
+r.6    [πυροῦ ἀρτάβας] κριθῆς δωδέκατον, γίνονται κριθῆς ιβ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

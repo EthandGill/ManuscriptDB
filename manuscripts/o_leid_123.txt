@@ -1,0 +1,32 @@
+[META]
+id:       O.LEID 123
+label:    O.LEID 123
+name:     Receipt — Theben
+genre:    receipts
+date:     140 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (140 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24693
+source:   https://papyri.info/ddbdp/o.leid;;123
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀσκλᾶς καὶ μέτοχοι ἀπαιτηταὶ μερισμοῦ τιµῆς
+r.2    … γ ἔτους Σενφαήριος Πανᾶτος
+r.3    ἔσχομεν ὀβολοὺς ε ὀβολοὺς πέντε.
+r.4    ἔτους δ Ἀντωνείνου Καίσαρος
+r.5    τοῦ κυρίου Φαῶφι ιθ. Ἀσκλᾶς σεσημείωμαι.
+r.6    Πατεβῆς.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

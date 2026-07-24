@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.140
+label:    O.STRAS 1.140
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     139 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (139 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75740
+source:   https://papyri.info/ddbdp/o.stras;1;140
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Πετεθ Παχούμιος Πετεθ αρ … τ χωμάτων β ἔτους
+r.2    Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.3    δραχμὰς δ γίνονται δραχμαὶ δ. ἔτους β Μεσορὴ θ.
+
+[TRANSLATION]
+1     
+2     
+3     

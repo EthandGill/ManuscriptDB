@@ -1,0 +1,38 @@
+[META]
+id:       ZPE 211.173_2
+label:    ZPE 211.173_2
+name:     Receipt — Elephantine
+genre:    receipts
+date:     102 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (102 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       832144
+source:   https://papyri.info/ddbdp/zpe;211;173_2
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Ἀλεξάνδρος γραμματεύς. διέγραψεν
+r.2    Βιῆνχις βοηθὸς συνόδου
+r.3    Ἁρπαήσιος ὑπὲρ γεωμετρίας
+r.4    φοινικῶνος γενήματος πέμπτου
+r.5    ἔτους Τραιανοῦ τοῦ
+r.6    κυρίου ἀργυρίου δραχμὰς ἓξ γίνονται δραχμαὶ ϛ
+r.7    ἔτους ϛ Τραιανοῦ Καίσαρος τοῦ κυρίου
+r.8    Χοιὰκ ζ
+r.9    Ἀλεξάνδρος σεσημείωμαι δραχμὰς ἓξ γίνονται ϛ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

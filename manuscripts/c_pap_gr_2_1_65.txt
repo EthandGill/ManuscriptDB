@@ -1,0 +1,42 @@
+[META]
+id:       C.PAP.GR 2.1.65
+label:    C.PAP.GR 2.1.65
+name:     Documentary papyrus — Sesphtha (Oxyrhynchites)
+genre:    documents
+date:     180 CE – 192 CE
+language: Greek (Koiné)
+found:    Sesphtha (Oxyrhynchites)
+held:     
+shelf:    
+content:  Documentary papyrus from Sesphtha (Oxyrhynchites) (180 CE – 192 CE)
+# hgv-keywords: Anzeige — Tod — Eid
+tm:       20739
+source:   https://papyri.info/ddbdp/c.pap.gr;2.1;65
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    π
+r.2    Ἰουλίῳ κωμογραμματεῖ Σέσφθα
+r.3    παρὰ Κεφαλᾶτος Λεοντᾶτος
+r.4    μητρὸς Πλουτάρχης ἀπὸ τῆς αὐτῆς Σέσφθα. ὁ σημαινόμενός μου υἱὸς Πανεχώτης
+r.5    Κ[ε]φαλᾶ[τος] τοῦ Λεοντᾶτος
+r.6    μητρὸς Ἡρ[α]ίδος ἀπὸ τῆς αὐτῆς
+r.7    Σέσφθα ἄτεχνος ὢν ἐτελεύτησεν [τ]ῷ ἐνεστῶτι ἔτει μηνὶ Ἁθύρ. διὸ ἐπιδίδωμι [τὸ] βιβλίδιον ἀξιῶν ταγῆναι αὐτὸν ἐν τῇ τῶν τετελευτηκότων τάξει ὡς καθήκει, καὶ ὀμνύω
+r.8    Αὐτοκράτορα Καίσαρα Μάρ[κο]ν
+r.9    Αὐρήλιον Κό[μ]μοδον Ἀντωνῖνον
+r.10   Σεβαστὸν ἀληθῆ εἶν[αι] τὰ προ[γεγραμμένα. ] …
+
+[TRANSLATION]
+# HGV-EN: To Julius, village-scribe of Sesphtha, from Cephalas, son of Leontas and Ploutarche, of the same village of Sesphtha. My son who is here indicated, Panechotes, son of Cephalas, son of Leontas, his mother being Herais, of the same village of Sesphtha, died childless in Athyr of the present year. I therefore send this announcement and ask that his name be entered in the list of the dead, as is fitting, and I swear by the Emperor Caesar Marcus Aurelius Commodus Antoninus Augustus that the above statements are correct.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

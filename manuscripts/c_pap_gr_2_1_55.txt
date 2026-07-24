@@ -1,0 +1,58 @@
+[META]
+id:       C.PAP.GR 2.1.55
+label:    C.PAP.GR 2.1.55
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     175 CE – 176 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (175 CE – 176 CE)
+# hgv-keywords: Anzeige — Tod
+tm:       9121
+source:   https://papyri.info/ddbdp/c.pap.gr;2.1;55
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    Ἀσκλη[πιάδῃ βασιλικῷ γραμματεῖ Ἀρσινοίτου Ἡρα]κλε[ίδου μερίδος]
+r.2    παρὰ Πτ[ολλᾶ ] … [ τοῦ]
+r.3    Πτολλᾶ ἀπὸ τῆς μητρ[οπόλεως]
+r.4    ἀναγραφομένου ἐπʼ ἀμφ[όδου]
+r.5    Ἀπολλωνίου Παρεμβ[ολῆς]
+r.6    οἱ συνγενεῖς μου Διόσ[κορος]
+r.7    Ἑρμᾶ τοῦ Πεθέως μητ[ρὸς ] …
+r.8    ύρεως καὶ Σπαρτᾶς Πο … [ μητρὸς]
+r.9    Ἀμμω[ν]οῦτος καὶ Πτ …
+r.10   Ἑρμᾶ το[ῦ Πε]θέως μητρ[ὸς ] … [ υρ]εως οἱ γ λαογραφούμε[νοι ἐπὶ τοῦ]
+r.11   αὐτοῦ ἀμ[φ]όδου Ἀπολλω[νίου Πα]ρ[εμ]βολῆς ἐτελεύτ[ησ]αν [τῷ ] …
+r.12   μ[η]νὶ τοῦ ἐνεστῶτος ιϛ ἔτους [Αὐρηλίου]
+r.13   Ἀντωνείν[ου] Καίσαρος τοῦ [κυρίου.]
+r.14   διὸ ἀξιῶ τ[αγ]ῆναι αὐτοὺς [ἐν τῇ τῶν]
+r.15   τετελευτηκότων τάξει [ὡ]ς ἐπὶ τῶν ὁμ[οίων]
+r.16   γραμματεῦσι πόλεως. [εἰ ταῖς ἀλη]θείας οἱ προγεγραμμένοι ἐτελ[εύτησαν]
+r.17   τὸ ἀκόλουθον ὡς ἐπὶ τῶ[ν ὁ]μοίων ἐπιτελεῖτε ὡς [πρὸς ὑμᾶς]
+r.18   τοῦ λόγου ἐσομένου ἐά[ν τι μὴ δε]όντως πραχθῇ. σ[εσημείωμαι]
+
+[TRANSLATION]
+# HGV-EN: To Askle[piades, royal scribe of the Arsinoite nome, Hera]kle[ides division], from Pt[ollas, son of NN, the son] of Ptollas from the metr[opolis], registered in the quarter of the camp of Apollonios. My relatives Dios[koros], son of Hermas, the son of Petheus, mother uris, and Spartas, son of Po[, mother] Ammo[n]ous and Pt, son of Hermas, the son of [Pe]theus, mother [ ur]is, all 3 subject to poll-tax [in the] same quarter of the camp of Apollon[ios], died in the month of [NN] of the present year 16 of [Aurelius] Antonin[us] Caesar, the [lord]. Therefore I request that they be included in the list of those, who have died, as in similar cases. (m. 2) To the scribes of the city. [If the] above mentioned really died carry out what is appropriate as in similar cases with the risk [at your charge], if [anything contrary] to what is proper occurs. (m. 3) I have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

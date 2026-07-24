@@ -1,0 +1,32 @@
+[META]
+id:       O.ONT.MUS 2.222
+label:    O.ONT.MUS 2.222
+name:     Receipt — Theben
+genre:    receipts
+date:     263 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (263 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75243
+source:   https://papyri.info/ddbdp/o.ont.mus;2;222
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ια ἔτους
+r.2    Γαλλιηνοῦ Καίσαρος Ἁθὺρ
+r.3    ιη ὑπὲρ Ε … ὀνόματος Ἡρα …
+r.4    ὑπὲρ Φθου …
+r.5    Τασήμιος [πυροῦ ἀρτάβης] δωδέκατον
+r.6    γίνεται ιβ. Ἀμ σεσημείωμαι. καὶ ἄλλο ὀνόματος …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

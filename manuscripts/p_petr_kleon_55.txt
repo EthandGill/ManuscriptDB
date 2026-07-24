@@ -1,0 +1,42 @@
+[META]
+id:       P.PETR.KLEON 55
+label:    P.PETR.KLEON 55
+name:     Letter — Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+genre:    letters
+date:     255 BCE
+language: Greek (Koiné)
+found:    Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+held:     London
+shelf:    
+content:  Letter from Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob (255 BCE)
+# hgv-keywords: Brief (geschäftlich) — Arbeiter (Steinbruch) an Kleon — Sendung — Geräte — Nahrung — sonst tritt vielleicht Arbeitsverweigerung ein
+tm:       7647
+source:   https://papyri.info/ddbdp/p.petr.kleon;;55
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Κλέωνι χαίρειν οἱ δεκάταρχοι τῶν ἐλευθερολατόμων. ἀδικούμεθα. τὰ γὰρ ὁμολογηθέντα ὑπὸ Ἀπολλωνίου τοῦ διοικητοῦ οὐθὲν
+r.2    γίνεται ἡμῖν. ἔχει δὲ τὴν γραφὴν Διότιμος.
+r.3    σπούδασον οὖν ἵνα καθὰ ἐξειλήφαμεν
+r.4    ὑπὸ Διονυσίου καὶ Διοτίμου χρηματισθῇ
+r.5    ἡμῖν καὶ μὴ τὰ ἔργα ἐνλειφθῆι καθὰ
+r.6    καὶ ἔνπροσθεν ἐγένετο. ἐὰν γὰρ αἴσθωνται
+r.7    οἱ ἐργαζόμενοι οὐθὲν ἡμᾶς εἰληφότας
+r.8    τὸν σίδηρον ἐνέχυρα θήσουσιν.
+r.9    ἔτους λ Παχὼνς ιθ
+r.10   Κλέωνι.
+
+[TRANSLATION]
+# HGV-EN: To Kleon, greetings, (from) the foremen of the free stonecutters. We are being wronged. For what was agreed by Apollonios the dioiketes, nothing (of it) comes to us. Diotimos has the written agreement. Do your best as to make sure that (supplies) are given to us by Dionysios and Diotimos in accordance with what we have contracted for, so that the work will not be left undone as has happened before. If the men who are working find out that we have not received anything, they will pawn their iron (tools)! Year 30, Pachons 19. To Kleon
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

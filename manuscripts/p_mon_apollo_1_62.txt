@@ -1,0 +1,30 @@
+[META]
+id:       P.MON.APOLLO 1.62
+label:    P.MON.APOLLO 1.62
+name:     Documentary papyrus — Bawit
+genre:    documents
+date:     601 CE – 800 CE
+language: Greek (Koiné)
+found:    Bawit
+held:     London
+shelf:    
+content:  Documentary papyrus from Bawit (601 CE – 800 CE)
+# hgv-keywords: Dokument
+tm:       86611
+source:   https://papyri.info/ddbdp/p.mon.apollo;1;62
+lat:      27.532343
+lon:      30.72925
+
+[GREEK]
+r.1    [ⲁⲛⲟⲕ ⲡ]ⲁⲥⲟⲛ … [ⲡμοναχός]
+r.2    … [ⲙⲡ]τόπος [ⲛⲁⲡⲁ ⲁⲡⲟⲗⲗⲱ ϩⲙ]
+r.3    [ⲡⲧⲟⲟⲩ ⲛⲧⲓ]ⲧⲕⲟⲟϩⲉ [ϩⲙ ⲡⲧⲟϣ ⲛϣⲙⲟⲩⲛ]
+r.4    [ⲧπόλις ⲉⲓ]ⲥϩⲁⲓ ⲛ … [ⲙⲛ]
+r.5    … ⲛⲉμοναχός …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

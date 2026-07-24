@@ -1,0 +1,28 @@
+[META]
+id:       O.EREM 25
+label:    O.EREM 25
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     122 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (122 CE)
+# hgv-keywords: Quittung — Abgaben
+tm:       18295
+source:   https://papyri.info/ddbdp/o.erem;;25
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Πακτεύτης Ἐρέσωνος Γορσενούφιος
+r.2    μερισμοῦ ζ ἔτους Ἁδριανοῦ τοῦ κυρίου
+r.3    δραχμὰς δ γίνονται [δραχμαὶ] δ. ἔτους ζ Φαῶφι α,
+r.4    Ἁθὺρ η μ[ερισμοῦ] δραχμὰς δ, γίνονται δραχμαὶ δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

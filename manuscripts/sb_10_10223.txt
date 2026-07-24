@@ -1,0 +1,32 @@
+[META]
+id:       SB 10.10223
+label:    SB 10.10223
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     23 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (23 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       16672
+source:   https://papyri.info/ddbdp/sb;10;10223
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [ἔτου]ς ἐνάτου Τιβερίου Καίσαρος Σεβαστοῦ
+r.2    [Παῦνι β.] διεγράφη διὰ Διογένους τραπεζίτου ἐπικεφαλαίου Ἱπποδρόμου
+r.3    [Τρύ]φων Διονυσίου ὁ αὐτὸς δραχμάς δεκαδύο, γίνονται δραχμαὶ ιβ
+r.4    [καὶ τῇ] κθ τοῦ Παῦνι ὑικῆς ὁ αὐτὸς
+r.5    [δραχμὰς] [δ]ύο ὀβολὸν ἡμιώβολον, γίνονται δραχμαὶ β [ὀβολὸν α 𐅵 καὶ τῇ δ τοῦ]
+r.6    [Μεσορὴ] χωματικοῦ δραχμὰς ἓξ τετρώβολον, γίνονται δραχμαὶ ϛ τετρώβολον
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

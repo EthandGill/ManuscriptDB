@@ -1,0 +1,28 @@
+[META]
+id:       SB 6.9545_29
+label:    SB 6.9545_29
+name:     Receipt — Elephantine
+genre:    receipts
+date:     16 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (16 CE)
+# hgv-keywords: Quittung — Gewerbesteuer — Namen
+tm:       19091
+source:   https://papyri.info/ddbdp/sb;6;9545_29
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διαγεγράφηκε
+r.2    Πετορζμῆθις Βιῆνχις χειρωναξίου
+r.3    τοῦ ἔτους β Τιβερίου Καίσαρος Σεβαστοῦ
+r.4    Ἐφὶφ ι δραχμὰς κ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

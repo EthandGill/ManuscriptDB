@@ -1,0 +1,62 @@
+[META]
+id:       P.CAIR.MICH 2.12f_r
+label:    P.CAIR.MICH 2.12f_r
+name:     Documentary papyrus — Karanis (Arsinoites)
+genre:    documents
+date:     170 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Karanis (Arsinoites) (170 CE)
+# hgv-keywords: Verzeichnis — Deicharbeiten — Namen — Daten
+tm:       397533
+source:   https://papyri.info/ddbdp/p.cair.mich;2;12f_r
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    … σφισ …
+r.2    … ι κβ
+r.3    … αν
+r.4    … [κ]αὶ Καστρῆσις δοῦλος
+r.5    … κολλήματος λα
+r.6    Παμᾶς Τ …
+r.7    κολλήματος ε Παῦν[ι] …
+r.8    κολλήματος ιθ Θὼ[θ] …
+r.9    Πε[τ]εῆσις …
+r.10   κολλήματος ιθ Ἐπ[εὶφ] …
+r.11   Ἡρακλῆς [.]
+r.12   Ἐσοῦρις Α …
+r.13   κολλήματος η Ἐπεὶφ …
+r.14   κ … κο κολλήματος κ Ἁθὺρ ιβ …
+r.15   Πτολεμα[ῖος] …
+r.16   κολλήματος ιβ Μεσορὴ …
+r.17   Σαβεῖνο[ς] …
+r.18   Σαταβοῦς …
+r.19   κολλήματος ϛ Παῦνι β …
+r.20   κολλήματος κ Ἁθὺρ …
+
+[TRANSLATION]
+# HGV-EN: … and Castrensis the slave of (?), column 31, … Pamas, son of T[ ], column 5, Pauni …; column 18, Thoth …, Peteesis …; column 19, Epeiph …, Herakles …, Esouris son of A[ ] …; column 8 Epeiph …, ? column 20, Athyr 12 …, Ptolemaios …, column, 12 Mesore …, Sabinus …, Satabous …; column 6 Pauni 2 …, column 20, Hathyr …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

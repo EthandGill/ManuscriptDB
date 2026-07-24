@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.225
+label:    O.STRAS 1.225
+name:     Receipt — Theben
+genre:    receipts
+date:     136 CE – 137 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (136 CE – 137 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75822
+source:   https://papyri.info/ddbdp/o.stras;1;225
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀσκλᾶς καὶ Σωτὴρ πράκτορες
+r.2    Ἐπωνύχῳ τῷ καὶ Ἀπάθῃ
+r.3    Ἡρακλήους. [ἔσ]χον ὑπέρ β ε χωµατικοῦ Χάρακος
+r.4    κ ἔτους … .
+r.5    ἔτους κ [Ἁδριανοῦ τοῦ] κυρίου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

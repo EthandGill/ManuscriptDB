@@ -1,0 +1,30 @@
+[META]
+id:       O.HEID 254
+label:    O.HEID 254
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     188 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (188 CE)
+# hgv-keywords: Quittung — Steuer (Badesteuer, Begräbnissteuer, telos taphes)
+tm:       80472
+source:   https://papyri.info/ddbdp/o.heid;;254
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [ καὶ] … τ τελ θησαυροῦ
+r.2    [ἱερῶν ] … ὁμοίως. ἔσχομεν τὸ βαλανευτικὸν τοῦ κθ ἔτους
+r.3    … ἔσχομεν ὑπὲρ ταφῆς α δραχμὴν α
+r.4    … χ λ.
+r.5    [ἀρ]χιπαστοφόρ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

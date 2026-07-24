@@ -1,0 +1,34 @@
+[META]
+id:       O.AMST 62
+label:    O.AMST 62
+name:     Receipt — Theben
+genre:    receipts
+date:     125 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (125 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       70409
+source:   https://papyri.info/ddbdp/o.amst;;62
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κωμῶν γενήματος θ ἔτους
+r.2    Ἁδριανοῦ τοῦ κυρίου
+r.3    Ἐπεὶφ ι ὀνόματος Καμήτιος
+r.4    Ψενχώνσιος διὰ Ἐσουήριος
+r.5    πυροῦ ἀρτάβην μίαν ἄλλο κβ
+r.6    διὰ Σενχώνσιος πυροῦ ἀρτάβης τρίτον,
+r.7    γίνεται πυροῦ ἀρτάβη α γ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

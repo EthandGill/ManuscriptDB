@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 3.421
+label:    O.EDFOU 3.421
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     90 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (90 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74397
+source:   https://papyri.info/ddbdp/o.edfou;3;421
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Παχῶμις Πεψενοσίριος
+r.2    λαογραφίας θ ἔτους Δομιτιανοῦ
+r.3    δραχμὰς δ χωματικοῦ γ τριώβολον ἔτους θ Ἐπεὶφ ζ
+r.4    λ β πεντώβολον ἡμιωβέλιον βαλανείου διώβολον σκοπέλων α ὀβολὸν
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

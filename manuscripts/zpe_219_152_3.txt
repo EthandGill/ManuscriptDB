@@ -1,0 +1,32 @@
+[META]
+id:       ZPE 219.152_3
+label:    ZPE 219.152_3
+name:     Receipt — Elephantine
+genre:    receipts
+date:     121 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (121 CE)
+# hgv-keywords: Quittung — Gewerbesteuer
+tm:       958940
+source:   https://papyri.info/ddbdp/zpe;219;152_3
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σωκρατίων καὶ οἱ λοιποὶ πράκτορες Χειρωναξίου μηνιαίου Σοήνης. διέγραψεν
+r.2    Πετορζμῆθις Ἀραβρωότιος ὑπὲρ Χειρωναξίου τὰς
+r.3    λοιπὰς τὰ ἕως Μεσορὴ λ τοῦ ε ἔτους Ἁδριανοῦ
+r.4    Καίσαρος τοῦ κυρίου δραχμὰς τέσσαρας, γίνονται δραχμαὶ δ.
+r.5    Ἀμμώνιος ἔγραψα. Μεσορὴ ιϛ.
+
+[TRANSLATION]
+# HGV-EN: Socration and the other collectors of monthly trade tax at Syene. Petorzmethis son of Arabrootis has paid the remaining four drachmas, the total 4 dr. for the trade tax up to 30th Mesore, for the 5th year of Hadrian Caesar, the lord. I, Ammonius, have written. 16th Mesore.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

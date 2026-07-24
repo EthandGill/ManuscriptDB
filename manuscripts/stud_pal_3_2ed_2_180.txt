@@ -1,0 +1,32 @@
+[META]
+id:       STUD.PAL 3.2ed.2.180
+label:    STUD.PAL 3.2ed.2.180
+name:     Documentary papyrus — Arsinoiton Polis
+genre:    documents
+date:     651 CE – 700 CE
+language: Greek (Koiné)
+found:    Arsinoiton Polis
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoiton Polis (651 CE – 700 CE)
+# hgv-keywords: Schuldschein — Bestätigung — Empfang — Sangathon (Kohle?) — Steuer (dianome)
+tm:       37630
+source:   https://papyri.info/ddbdp/stud.pal;3.2ed.2;180
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    [ ἔχομεν] ἡμεῖς Γεώργιος ἐπιστάτης υἱὸς Ποῦσι …
+r.2    [γενομέ]νου διακόνου καὶ Συμεὼν υἱὸς Φῖβ ἀμφό[τεροι] …
+r.3    … οι ἀπὸ τῆς Ἀρσινοιτῶν πόλεως τοῖς ἀ[πὸ χωρίου] …
+r.4    [διὰ Ἰ]ωσὴφ πιστικοῦ λόγῳ διανομῆς τεσσαρασ[καιδεκάτης ἰνδικτίωνος]
+r.5    [σαγκάθου] κεντηνάριον ἕν, σαγκάθου κεντηνάριον α, καὶ τοῦτο ἑτοί[μως ἔχομεν κατα][βαλεῖν] ὑπὲρ ὑμῶν εἰ[ς τ]ὴ[ν αὐτ]ὴ[ν] δι[ανομ]ὴ[ν] …
+r.6    [ δι’ ἐμοῦ Κ]οσμᾶ συ[μβολαιογράφου].
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

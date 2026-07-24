@@ -1,0 +1,28 @@
+[META]
+id:       O.BERL 26
+label:    O.BERL 26
+name:     Receipt — Theben
+genre:    receipts
+date:     98 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (98 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       24418
+source:   https://papyri.info/ddbdp/o.berl;;26
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Ἐπώνυχος Ὥρου Ἐπωνύχου
+r.2    ὑπὲρ λαογραφίας Χάρακος β δραχμὰς δέκα , βαλανείων α ὀβολὸν ἡμιωβέλιον,
+r.3    γίνονται δραχμαὶ ια ὀβολὸς ἡμιωβέλιον, καὶ προσδιαγραφόμενα. ἔτους β Νέρωνος
+r.4    Μεχὶρ λ ζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

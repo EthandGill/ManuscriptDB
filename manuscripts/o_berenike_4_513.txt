@@ -1,0 +1,46 @@
+[META]
+id:       O.BERENIKE 4.513
+label:    O.BERENIKE 4.513
+name:     Letter — Berenike
+genre:    letters
+date:     51 CE – 100 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Letter from Berenike (51 CE – 100 CE)
+# hgv-keywords: Brief — Myrrhe — Pfeffer
+tm:       971735
+source:   https://papyri.info/ddbdp/o.berenike;4;513
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    … σμύρνην καὶ πέπερ[ι]
+r.2    … εα ἐστίν. ἀσπάζονται
+r.3    … α καὶ Σεραποῦς καὶ
+r.4    … [ἀσ]πάζου Σατορνεῖλον
+r.5    … α ἐὰν … του ἀν… σατο … αὐτὸν
+r.6    … ν αλ … ικον
+r.7    … ουκ … σθη
+r.8    … χε ἀσφάλειαν
+r.9    … χεται μετὰ τῶν
+r.10   … καὶ ἐγὼ αὐτὴν ου
+r.11   … σ … νωμενη αὐ-
+r.12   … Παῦνι κ …
+
+[TRANSLATION]
+# HGV-EN: … myrrh and pepper … Greetings from … and Serapous and … . Greet Satorneilos … . … security … . Pauni 20-29 … .
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

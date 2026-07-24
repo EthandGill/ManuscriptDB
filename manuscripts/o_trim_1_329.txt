@@ -1,0 +1,36 @@
+[META]
+id:       O.TRIM 1.329
+label:    O.TRIM 1.329
+name:     Documentary papyrus — Trimithis (Oasis Magna)
+genre:    documents
+date:     350 CE – 370 CE
+language: Greek (Koiné)
+found:    Trimithis (Oasis Magna)
+held:     
+shelf:    
+content:  Documentary papyrus from Trimithis (Oasis Magna) (350 CE – 370 CE)
+# hgv-keywords: Anweisung — Lieferung — Gerste
+tm:       131378
+source:   https://papyri.info/ddbdp/o.trim;1;329
+lat:      25.6677395488
+lon:      28.8708832519
+
+[GREEK]
+r.1    κυρίῳ μου ἀδελφῷ Βίκτορι
+r.2    προνοητῇ τοῦ γεούχου
+r.3    Κατούλου Ὀπτάτου Φαυστιανὸς ἀκτουάριος χαίρειν.
+r.4    παράσχου τῷ ἀδελφῷ Βίκτορι Ἑρμίου κριθῆς μοδίους
+r.5    τριάκοντα τέσσερα γίνονται
+r.6    κριθῆς μόδιοι λδ ὑπὲρ τῆς ἀννώνας
+r.7    αὐτοῦ ἐν Μώθει. σεσημείωμαι Εὔμηλος.
+
+[TRANSLATION]
+# HGV-EN: Faustianus the actuarius to my lord brother Victor, pronoetes for the landlord Catulus Optatus, greetings. Give to our colleague Victor son of Hermias 34 modii of barley, total 34 modii of barley, for his annona in Mothis. I, Eumelos, have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

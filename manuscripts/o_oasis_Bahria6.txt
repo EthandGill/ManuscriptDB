@@ -1,0 +1,26 @@
+[META]
+id:       O.OASIS Bahria6
+label:    O.OASIS Bahria6
+name:     Documentary papyrus — Oasis Parva
+genre:    documents
+date:     374 CE – 375 CE
+language: Greek (Koiné)
+found:    Oasis Parva
+held:     
+shelf:    
+content:  Documentary papyrus from Oasis Parva (374 CE – 375 CE)
+# hgv-keywords: Anweisung — Zahlung — Getreide für einen Soldaten
+tm:       23804
+source:   https://papyri.info/ddbdp/o.oasis;;Bahria6
+lat:      28.373334
+lon:      28.8971005
+
+[GREEK]
+r.1    Ἡρακλείδης Πλόλῳ μοναχῷ χαίρειν.
+r.2    παράσχου Εὐφραντίῳ στρατιώτῃ
+r.3    ἀφʼ ὧν χρεωστεῖς ἀρτάβην α σίτου, ἀρτάβην μίαν σίτου ἀπὸ τοῦ να.
+
+[TRANSLATION]
+1     
+2     
+3     

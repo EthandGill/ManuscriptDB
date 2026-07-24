@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 45
+label:    O.THEB 45
+name:     Receipt — Theben
+genre:    receipts
+date:     80 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (80 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76415
+source:   https://papyri.info/ddbdp/o.theb;;45
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψε Μαιεῦρις
+r.2    Ἁρφμόιτος ὑπὲρ λαογραφίας Ἀγορῶν βορρᾶ
+r.3    β ἔτους [δραχμὰς] δέκα βαλανικοῦ α ὀβολὸν ἡμιωβέλιον γίνονται ια ὀβολὸς ἡμιωβέλιον καὶ προσδιαγραφόμενα.
+r.4    ἔτους β Τ[ίτο]υ τοῦ κυρίου
+r.5    Μεχεὶρ λ λδ. Ἡρακλείδης σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,70 @@
+[META]
+id:       P.Fay. 39
+label:    P.Fay. 39
+name:     Documentary papyrus — Theadelphia (Arsinoites)
+genre:    documents
+date:     183 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Theadelphia (Arsinoites) (183 CE)
+# hgv-keywords: Bericht — amtlich — Schulden (Steuern) — Namen
+tm:       10886
+source:   https://papyri.info/ddbdp/p.fay;;39
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    Νίκωνι Ἀρείου μισθωτῇ
+r.2    τέλους ἱεροβουκόλων
+r.3    παρὰ Κάστ[ορ]ος Κάστορος καὶ
+r.4    Ὡρί[ω]νος Χαιρήμονος καὶ
+r.5    [Ἥ]ρωνος ἀπάτορος μητρὸς Διδύμης καὶ Νικάνδρου Ὠριγένους δ[ι]ὰ τοῦ πατρὸς
+r.6    Ὠρ[ι]γένους καὶ Ἰσᾶ Μελανᾶ
+r.7    καὶ Διοσκόρου Ἥρωνος καὶ Πετεσούχου Διοσκόρου καὶ
+r.8    Μαλλαῖ Πνεφερῶτος τῶν
+r.9    ὀκτὼ καὶ τῶν λοιπῶν πρεσβυτέρων
+r.10   κώμης Θεαδελφίας.
+r.11   ἐπιζητοῦντί σοι ἐκ τίνος
+r.12   ἀπαιτεῖται τὸ προκείμενον
+r.13   ἀπότακτον δηλοῦμεν
+r.14   ὀφείλειν ἀπαιτεῖσθαι τὸ ἀπότακτον τοῦτο ἐκ Χαιρήμονος Ἰεμούθου.
+r.15   Κάστωρ ἐνδέδωκα.
+r.16   Ἥρων συνεπιδέδωκα.
+r.17   Νίκανδρος διὰ τ[οῦ] πατρὸς
+r.18   Ὠριγένους συνεπιδέ[δ]ωκα.
+r.19   Ἰσᾶς Μελανᾶ ὡς ἐτῶν μ [οὐ]λὴ ἀντικνημίῳ ἀριστερῷ.
+r.20   Διόσκορος Ἥρωνος ὡ[ς] ἐτῶν … [ οὐλὴ] κανθῷ δεξιῷ.
+r.21   Πετεσοῦχος Διοσκόρου ὡς ἐτῶν γ … οὐλὴ δακτύλῳ μικρῷ χειρός
+r.22   Μαλλαῖς Πνεφερῶτος ὡς ἐτῶν κδ [οὐλὴ] ἀντικνημίῳ δε[ξιῷ].
+r.23   ἔτους κγ Αὐρηλίου Κομμόδου
+r.24   Ἀντωνίνου Σεβαστοῦ, Φαρμοῦθι κη.
+
+[TRANSLATION]
+# HGV-EN: To Nicon, son of Arius, farmer of the temple tax of Boucolon, from Castor, son of Castor, and Horion, son of Chaeremon, and Heron, whose father is unknown, his mother being Didyme, and Nicander, son of Origenes, through his father Origenes, and Isas, son of Melanas, and Dioscorus, son of Heron, and Petesuchus, son of Dioscorus, and Mallais, son of Pnepheros, eight elders, and from the rest of the elders of the village of Theadelphia. In answer to your inquiry, from whom the aforesaid sum is demanded, we declare that this sum should be demanded from Chaeremon, son of Iemouthes. (There follow the signatures of Castor, Heron, and Origenes, and the ages and descriptions of Isas, Dioscorus, Petesuchus, and Mallais, and the date.)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    

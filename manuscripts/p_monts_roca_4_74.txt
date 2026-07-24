@@ -1,0 +1,32 @@
+[META]
+id:       P.MONTS.ROCA 4.74
+label:    P.MONTS.ROCA 4.74
+name:     Receipt — Hermopolis
+genre:    receipts
+date:     601 CE – 800 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Receipt from Hermopolis (601 CE – 800 CE)
+# hgv-keywords: Quittung — Steuern (diagraphe, demosia, dapane) — Geld
+tm:       128346
+source:   https://papyri.info/ddbdp/p.monts.roca;4;74
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    [ σὺν] θεῷ. Μεσορὴ ε ἰνδικτίωνος ια. [ἔσ]χον διὰ Μηνᾶ Σαραπάμμωνος
+r.2    στρατιώτου ἀπὸ διαγραφῆς καὶ δ[η]μοσίων κανώνος δεκάτης [ἰ]νδικτίωνος καὶ δαπάνης ια ἰνδικτίωνος
+r.3    ἀριθμίου νομίσματος γ τρίτο[ν]. σημεῖον Κλαυδίου Κλαύδιος στοιχεῖ Φοιβάμμων
+r.4    ἐλάχιστος διάκονος καὶ νομικὸς ὑπέγραψα
+r.5    γίνεται νομίσματος γ.
+
+[TRANSLATION]
+# HGV-EN: † With God; Mesore 5, indiction 11; I have received through Menas the son of Sarapammon, soldier, of the diagraphe and the demosia of the tax assessment of the 10th indiction and for dapane of the 11th indiction 1/3, one third reckoned solidus. ††† sign of Claudius. Claudius agrees; I, Phoibammon most humble deacon and notary, have subscribed. Total 1/3 solidus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

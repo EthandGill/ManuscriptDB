@@ -1,0 +1,30 @@
+[META]
+id:       O.Wilck. 705
+label:    O.Wilck. 705
+name:     Receipt — Theben
+genre:    receipts
+date:     400 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (400 BCE – 1 BCE)
+# hgv-keywords: Quittung — Heu
+tm:       77211
+source:   https://papyri.info/ddbdp/o.wilck;;705
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ε Παχὼν ια μεμέτρηκεν
+r.2    εἰς τὸ βασιλικὸν Πτολεμαῖος
+r.3    Θε … τωνος ἀχύρου ἀγωγὴν μίαν
+r.4    γίνεται α.
+r.5    ἔτους ε Παχὼν ια.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

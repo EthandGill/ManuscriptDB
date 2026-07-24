@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 8.1118
+label:    P.Oxy. 8.1118
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (1 CE – 200 CE)
+# hgv-keywords: Eingabe — Zahlung — Schulden
+tm:       25923
+source:   https://papyri.info/ddbdp/p.oxy;8;1118
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … ως ἀξιῶ συντάξαι γράψα[ι] τῷ τῆς Μικρᾶς
+r.2    [Ὀάσ]εως στρατηγῶι μεταδοῦναι τ … νε … ι
+r.3    … αντι καὶ Χενενούβι διὰ τοῦ ἀπʼ αὐτῶν φανη[σο]μένου ἀντίγραφον τοῦδε τοῦ ὑπομνήματος
+r.4    [ὅπ]ως ἔτι καὶ νῦν ἀποδῷ μοι τὰ ὀφειλόμε[να] καὶ τοὺς προσοφειλομένους τόκους καὶ τὰ
+r.5    [διά]φορα ἢ γιγνώσκωσι ἐμβαδεύσον[τά][ μ]ε εἰς τὰ ὑπ[ο]τεθειμένα καὶ καθέξοντ[α α]ὐτῶν καὶ κυριεύ[σ]οντα καὶ ἑτέροις
+r.6    ἐξαλλοτριώσοντα καὶ ἐπιτελέσοντα ὃ ἐὰν
+r.7    αἱρῶμαι, οὐδεν[ὸ]ς αὐτοῖς οὐδὲ ἄλλῳ οὐδενὶ ἐξ ὑστέρου [κατ]αλειπομένου λόγου
+r.8    [περ]ὶ οὐδε[νὸς ἁπλῶς ] …
+
+[TRANSLATION]
+# HGV-EN: ... I beg you to write to the strategus of the Small Oasis to present to ... and Chenenoubis, through the one of them who may be found, a copy of this memorandum, in order that he may yet pay to me the debt and the interest due in addition and extras, or else that they may know that I shall enter on the mortgaged property and shall occupy and exercise ownership over it and alienate it and do with it whatever I choose, without any claim being left to them or to any one else for the future in any respect ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

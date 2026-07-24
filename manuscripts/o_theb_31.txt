@@ -1,0 +1,26 @@
+[META]
+id:       O.THEB 31
+label:    O.THEB 31
+name:     Receipt — Theben
+genre:    receipts
+date:     212 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (212 BCE)
+# hgv-keywords: Quittung
+tm:       50411
+source:   https://papyri.info/ddbdp/o.theb;;31
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους Παῦνι ι ζ εἰς τὰ
+r.2    ὀφειλήματα τοῦ θ ἔτους
+r.3    Ἀθηνίων πυροῦ γ 𐅷.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,28 @@
+[META]
+id:       O.NYU 21
+label:    O.NYU 21
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     3 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (3 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869425
+source:   https://papyri.info/ddbdp/o.nyu;;21
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λβ Φαμενωθ κη τέτακται ταριχευτ- τοῦ αὐτοῦ ἔτους
+r.2    Ἅρπβηκις Σισόιτος δεκατέσσαρας
+r.3    τετρώβολον, γίνονται ιδ τετρώβολον. …
+
+[TRANSLATION]
+# HGV-EN: Year 32, Phamenoth 28, has paid for tarich(eut- ) of the same year, Harpbekis son of Sisois, fourteen ⟨dr.⟩ four obols, that is, 14 ⟨dr.⟩ 4 ob. (signature).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

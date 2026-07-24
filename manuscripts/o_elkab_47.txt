@@ -1,0 +1,28 @@
+[META]
+id:       O.ELKAB 47
+label:    O.ELKAB 47
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     148 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (148 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24487
+source:   https://papyri.info/ddbdp/o.elkab;;47
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    Παικῦσις Σενύριος μερισμοῦ
+r.2    ιβ ἔτους Ἀντωνίνου Καίσαρος
+r.3    τοῦ κυρίου δραχμὰς β τετρώβολον, λα[ο]γραφίας δραχμὴν α [διώβολον. ἔτους ιβ ]
+r.4    μηνὸς Ἁδριανοῦ κζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

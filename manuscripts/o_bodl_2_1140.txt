@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1140
+label:    O.BODL 2.1140
+name:     Receipt — Theben
+genre:    receipts
+date:     20 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (20 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71827
+source:   https://papyri.info/ddbdp/o.bodl;2;1140
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἡρακλείδης ὁ παρὰ Ἀσκληπιάδου ἐπεκ
+r.2    Ἁρσιήσει Ψεναμούνιος χαίρειν. διαγέγραφας τὸ
+r.3    ἐπίθεμα τοῦ αλ … λ ου … ν … δραχμὰς ὀκτ[ώ] .
+r.4    ἔτους ι. Καίσαρος Μεχεὶρ κδ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

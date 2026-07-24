@@ -1,0 +1,32 @@
+[META]
+id:       O.BANKES 26
+label:    O.BANKES 26
+name:     Receipt — Elephantine
+genre:    receipts
+date:     140 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (140 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, merismos andron anakechorekoton)
+tm:       699499
+source:   https://papyri.info/ddbdp/o.bankes;;26
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    … [ὑπὲρ] [χε]ιρωναξίου
+r.2    [δραχμὰς] [εἴκ]οσι ὀβολοὺς
+r.3    [δύο καὶ ὑπὲρ] [μερ]ισμοῦ ἐπικεφαλίου ἀνδρῶν
+r.4    [ἀνακεχωρηκότων α ἔτους δραχμὴν] α πεντώβολον ἡμιωβέλιον. ἔτους γ
+r.5    [Ἀντωνί]νου Καίσαρος
+r.6    [τοῦ κυ]ρίου, Τῦβι ιθ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

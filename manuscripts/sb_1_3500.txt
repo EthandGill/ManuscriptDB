@@ -1,0 +1,24 @@
+[META]
+id:       SB 1.3500
+label:    SB 1.3500
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     unbekannt
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (unbekannt)
+# hgv-keywords: Mumienetikett
+tm:       40297
+source:   https://papyri.info/ddbdp/sb;1;3500
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Νιαραύθυτος
+r.2    Ψενθαῆσις.
+
+[TRANSLATION]
+1     
+2     

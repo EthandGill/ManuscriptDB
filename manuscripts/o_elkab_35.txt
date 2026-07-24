@@ -1,0 +1,26 @@
+[META]
+id:       O.ELKAB 35
+label:    O.ELKAB 35
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     69 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (69 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24477
+source:   https://papyri.info/ddbdp/o.elkab;;35
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    Παβοῦς πρεσβύτερος Ψενμονχήους
+r.2    λαογραφίας α ἔτους δραχμὰς η. ἔτους α Μάρκο[υ]
+r.3    Ὄθων[ο]ς Καίσα[ρος Σεβασ][το]ῦ Φαρ[μο]ῦθι …
+
+[TRANSLATION]
+1     
+2     
+3     

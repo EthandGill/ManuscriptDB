@@ -1,0 +1,30 @@
+[META]
+id:       BGU 2.662
+label:    BGU 2.662
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     189 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (189 CE)
+# hgv-keywords: Quittung — Naubion
+tm:       9297
+source:   https://papyri.info/ddbdp/bgu;2;662
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους κθ Μάρκου Αὐρηλίου Κομμόδου Ἀντωνίνου Κ[αίσ]α[ρο]ς τοῦ κυρίου
+r.2    Ἐπὶπ θ. Ἰσίδωρος καὶ μέτοχοι πράκτορες ἀργυρικῶν κ[ώ]μ[ης ] …
+r.3    Ἐπὶπ θ. διέγραψε Νω … ουώβιος ὑπὲρ ναυβίου κατοίκων … [ δρα]χμὰς
+r.4    εἴκοσι ἕξ
+
+[TRANSLATION]
+# HGV-EN: Year 29 of Marcus Aurelius Commodus Antoninus C[aes]a[r], the lord, Epeiph 9. Isidoros and his associates, collectors of money taxes of the village of Epeiph 9 No[..]ouobios paid for naubion katoikon twenty six drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     Year 29 of Marcus Aurelius Commodus Antoninus C[aes]a[r] of the lord
+2     Epeiph 9. Isidoros and his associates, collectors of money taxes of the v[illa]g[e of...] …
+3     Epeiph 9. No[...]ouobios paid for the naubion katoikon … [dra]chmas
+4     twenty six

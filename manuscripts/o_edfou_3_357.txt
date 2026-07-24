@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 3.357
+label:    O.EDFOU 3.357
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     112 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (112 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       74356
+source:   https://papyri.info/ddbdp/o.edfou;3;357
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [ἔτους ε Π]αῦνι ιε. εἰσμεμέτρηκεν
+r.2    εἰς θησαυρὸν εἰς τὸ αὐτὸ ἔτος Ἀπολλωνοπολίτου
+r.3    [Ψεν]επαχοῦπθ Ταμάσιος [πυροῦ ἀρτάβας ϛ δ] γίνονται πυροῦ ἀρτάβαι ϛ δ Κάστωρ
+r.4    … Ἀρς εἰσμεμέτρημαι καθότι πρόκειται
+r.5    … πυροῦ ἀρτάβας ϛ δ γίνονται ϛ δ ἔτους ε Παῦνι [ιε]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,32 @@
+[META]
+id:       O.OSLO 15
+label:    O.OSLO 15
+name:     Receipt — Theben
+genre:    receipts
+date:     243 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (243 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       24387
+source:   https://papyri.info/ddbdp/o.oslo;;15
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ϛ ἔτους τοῦ κυρίου ἡμῶν
+r.2    Αὐτοκράτορος Καίσαρος Μάρκου Ἀντωνίου
+r.3    Γορδιανοῦ Εὐσεβοῦς Εὐτυχοῦς Σεβαστοῦ
+r.4    Μεσορὴ ιϛ ὑπὲρ Χάρακος ὀνόματος Βήχιος Πετε Πατβεῶτος
+r.5    πυροῦ τρεῖς καὶ ὑπὲρ Νότου ὀνόματος τοῦ αὐτοῦ πυροῦ μίαν ,
+r.6    γίνονται πυροῦ ἀρτάβαι δ. Αὐρήλιος Διόσκορος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

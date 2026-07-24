@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.110
+label:    O.ONT.MUS 2.110
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     125 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (Ägypten) (125 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75129
+source:   https://papyri.info/ddbdp/o.ont.mus;2;110
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πεκῦσις πράκτωρ ἀργυρικῶν
+r.2    Ἐπώνυχος Ταπτ …
+r.3    ἔσχον ὑπὲρ χωµατικοῦ καὶ βαλανευτικοῦ Νότου θ ἔτους
+r.4    ῥυπαρὰς δραχμὰς ἑπτὰ πεντώβολον χαλκοῦς 2 γίνονται δραχμαὶ ζ πεντώβολον χαλκοῖ 2
+r.5    [ἔτους] θ Ἁδριανοῦ Ἐπεὶφ κα
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

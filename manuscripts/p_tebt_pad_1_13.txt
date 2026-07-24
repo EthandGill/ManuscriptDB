@@ -1,0 +1,38 @@
+[META]
+id:       P.TEBT.PAD 1.13
+label:    P.TEBT.PAD 1.13
+name:     Letter — Tebtynis (Arsinoites, Ägypten)
+genre:    letters
+date:     100 BCE – 76 BCE
+language: Greek (Koiné)
+found:    Tebtynis (Arsinoites, Ägypten)
+held:     
+shelf:    
+content:  Letter from Tebtynis (Arsinoites, Ägypten) (100 BCE – 76 BCE)
+# hgv-keywords: Briefanfang (privat?) — Apollonios an den Laarchen Isidotos — Bericht vom Erhalt einer Information
+tm:       412067
+source:   https://papyri.info/ddbdp/p.tebt.pad;1;13
+lat:      29.10713705
+lon:      30.7620317
+
+[GREEK]
+r.1    Φιλώτας … ἐξορμάτω
+r.2    Ἀπολλώνιος Ἰσιδότωι τῶι
+r.3    ἀδελφῶι χαίρειν καὶ ἐρρῶσθαι·
+r.4    ἔρρωμαι δὲ καὶ αὐτός· ὥρας
+r.5    ἐνάτης προσπέπτωκεν ἡμῖν
+r.6    … ἑλκύεσθαί τινα εἰς
+r.7    … χθαι
+r.8    Ἰσιδότωι
+
+[TRANSLATION]
+# HGV-EN: Philotas [...] he should hurry himself. Apollonios to his brother Isidotos, greetings and may you be in good health. I am also healthy. At the ninth hour it reached our ears [...] somebody was dragged towards [...] To Isidotos
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

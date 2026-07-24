@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 1.92
+label:    O.EDFOU 1.92
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     109 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (109 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       47033
+source:   https://papyri.info/ddbdp/o.edfou;1;92
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Δῶσας Πεσούριος λαογραφίας
+r.2    ιβ ἔτους Τραιανοῦ τοῦ κυρίου δραχμὰς ζ
+r.3    ἔτους ιβ Ἐπεὶφ θ
+
+[TRANSLATION]
+1     
+2     
+3     

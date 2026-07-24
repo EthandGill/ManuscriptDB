@@ -1,0 +1,28 @@
+[META]
+id:       P.Oxy. 10.1337
+label:    P.Oxy. 10.1337
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (401 CE – 500 CE)
+# hgv-keywords: Anweisung — Zahlung — Geld
+tm:       35585
+source:   https://papyri.info/ddbdp/p.oxy;10;1337
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Νόννος τῷ τιμιωτάτῳ Νείλῳ ελ …
+r.2    παράσχου εἰς ἐμὴν χρείαν
+r.3    ἀργυρίου μυριάδας δέκα, γίνονται δηναρίων μυριάδες ι .
+r.4    Ἁθὺρ … Νόννος σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

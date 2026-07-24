@@ -1,0 +1,26 @@
+[META]
+id:       O.AMST 5
+label:    O.AMST 5
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     107 BCE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (107 BCE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       4348
+source:   https://papyri.info/ddbdp/o.amst;;5
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    ἔτους ι Παχὼν ε μεμέτρηκεν ι ἔτους Μεμνονείων
+r.2    Ψενμῖνις Πανούφιος
+r.3    πυροῦ ἥμισυ γίνεται πυροῦ ἀρτάβης 𐅵. Ἑρμίας
+
+[TRANSLATION]
+1     
+2     
+3     

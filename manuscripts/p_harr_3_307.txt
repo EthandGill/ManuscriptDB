@@ -1,0 +1,50 @@
+[META]
+id:       P.HARR 3.307
+label:    P.HARR 3.307
+name:     Documentary papyrus — unbekannt
+genre:    documents
+date:     601 CE – 800 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     Birmingham
+shelf:    
+content:  Documentary papyrus from unbekannt (601 CE – 800 CE)
+# hgv-keywords: Register — Land
+tm:       998636
+source:   https://papyri.info/ddbdp/p.harr;3;307
+lat:      
+lon:      
+
+[GREEK]
+r.1    … [ἑλὶς ἄρουραι] … ξ
+r.2    … [ἑλὶς] [ἄ]ρ[ουραι] ρνδ δ η ξ
+r.3    … ἑλὶς ἄρουραι ρνγ 𐅵 δ η ιϛ ξ
+r.4    … τῶν µοναζόντων
+r.5    οὕτως·
+r.6    α ἑλὶς ἄρουραι ρπα
+r.7    β ἑλὶς ἄρουραι ρνγ 𐅵 δ η λβ
+r.8    γ ἑλὶς ἄρουραι ρνβ δ η ιϛ
+r.9    δ ἑλὶς ἄρουραι λη 𐅵 δ λβ
+r.10   διὰ τ[οῦ] πάκτου Αβδελλ[α] …
+r.11   ὁµοῦ τὸ πᾶν ἄρουραι …
+r.12   διὰ τῆς ἐκκλησίας …
+r.13   διὰ τῶν τόπων τῆς αὐτῆς κα …
+r.14   γίνονται ἄρουραι λβ 𐅵
+
+[TRANSLATION]
+# HGV-EN: ... page ... ¹⁄₆₄ aruras. ... page 154 ¼⅛¹⁄₆₄ aruras. ... page 153 ½ ¼⅛¹⁄₁₆¹⁄₆₄ aruras. ... of the monks, as follows: 1st page 181 aruras. 2nd page 153 ½¼⅛¹⁄₃₂ aruras. 3rd page 152 ¼⅛¹⁄₁₆ aruras. 4th page 58 ½¼¹⁄₃₂ aruras. Through the pakton of Abdallah ... Altogether, ... aruras. Through the church ... Through the topoi of the same ... Total 32½ aruras.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

@@ -1,0 +1,38 @@
+[META]
+id:       P.RYL 2.76
+label:    P.RYL 2.76
+name:     Documentary papyrus — Hermopolis (?)
+genre:    documents
+date:     176 CE – 200 CE
+language: Greek (Koiné)
+found:    Hermopolis (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Hermopolis (?) (176 CE – 200 CE)
+# hgv-keywords: Erbschaft — Bezugnahme auf Erlasse von Präfekten und Prokuratoren
+tm:       27881
+source:   https://papyri.info/ddbdp/p.ryl;2;76
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    τους κατεχώρισεν. Ἑρμιόνης
+r.2    [τ]ῆς ἀνεψιᾶς τελευτησάσης ἀφήλικος ἐπί τε ἐμοὶ καὶ τοῖς ὁμομητρίοις ἀδελφοῖς κληρονόμοις ἀπεγραψάμην τὸ κατʼ ἐμὲ ἥμισυ μέρος τῶν ὑπαρχόντων αὐτῆς,
+r.3    ὁμοίως καὶ τῶν τῆς μητρός μ[ο]υ Ἑλένης,
+r.4    κατὰ τοὺς νόμους καὶ τὰ κεκριμένα
+r.5    ὑπό τε τῶν κατὰ καιρὸν ἐπιτρόπων τε
+r.6    καὶ ἡγεμόνων περὶ τοῦ δεῖν κατʼ οἶκον εἶναι τὴν διαίρεσιν τῶν κτημάτων καὶ μὴ κατὰ πρόσωπον,
+r.7    ἃ καὶ ἀναγνώσομαι λεγομένου τοῦ
+r.8    [π]ράγματος.
+
+[TRANSLATION]
+# HGV-EN: ... When Hermione, my cousin, died without having attained the legal age, leaving as heirs me and my brothers on my mother's side, I registered the half of her property accruing to me and likewise the half of my mother Helene's property according to the laws and the judgements of successive procurators and praefects requiring that the division of property should be made according to households and not individuals, and I will read them when the case is argued.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

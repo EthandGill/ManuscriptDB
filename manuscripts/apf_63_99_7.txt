@@ -1,0 +1,32 @@
+[META]
+id:       APF 63.99_7
+label:    APF 63.99_7
+name:     Receipt — Elephantine
+genre:    receipts
+date:     124 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (124 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       704788
+source:   https://papyri.info/ddbdp/apf;63;99_7
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [διέγρ]αψεν Ἁρπαῆσις Παναµέως
+r.2    [Φανώ]φεως ὑπὲρ γεωµετρίας φοινικῶνος γενήµατος ὀγδόου ἔτους
+r.3    [Ἁ]δριανοῦ Καίσαρος τοῦ κυρίου
+r.4    δραχµὰς ἐννέα τριώβολον δίχαλκον γίνονται δραχµαὶ θ τριώβολον δίχαλκον
+r.5    ἔτους θ Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.6    Χοιὰκ κα. Παλαχῆµις σεσηµείωµαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

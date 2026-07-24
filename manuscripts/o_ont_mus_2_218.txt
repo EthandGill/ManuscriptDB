@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.218
+label:    O.ONT.MUS 2.218
+name:     Receipt — Theben
+genre:    receipts
+date:     218 CE – 222 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (218 CE – 222 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75239
+source:   https://papyri.info/ddbdp/o.ont.mus;2;218
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μ[έτρημα][ θησαυροῦ ] … [ γενήματος ] … ἔτους Μάρκου Αὐρηλίου
+r.2    Ἀντωνίνου Καίσαρος
+r.3    τοῦ κυρίου
+r.4    ὑπὲρ Νότου ὀνόματος Μαρῆς Λολοῦτος
+r.5    πυροῦ δύο γίνονται πυροῦ ἀρτάβαι β. Αὐρήλιος Ἀμώνιος σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,44 @@
+[META]
+id:       P.Oxy. 9.1196
+label:    P.Oxy. 9.1196
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     212 CE – 213 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (212 CE – 213 CE)
+# hgv-keywords: Eid — Diensteid eines Steuereinnehmers
+tm:       21582
+source:   https://papyri.info/ddbdp/p.oxy;9;1196
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἀνουβίωνι στρατηγῷ Ὀξυρυγχείτου.
+r.2    Πτολλᾶς Ἰσίωνος μητρὸς Στεφανοῦτος ἀπʼ Ὀξυρύγχων πόλεως εἰσδοθεὶς
+r.3    ἅμα ἄλλοις ὑπὸ τοῦ νυνὶ τῆς αὐτῆς πόλεως ἀμφοδογραμματέως εἰς πρακτορείαν σιτικῶν μητροπολιτικῶν λημμάτων γενήματος τοῦ ἐνεστῶτος
+r.4    κα ἔτους ἀπηλιώτου τοπαρχίας Πακέρκη τόπων ὀμνύω τὴν τοῦ κυρίου
+r.5    Αὐτοκράτορος Μάρκου Αὐρηλίου
+r.6    Σεουήρου Ἀντωνίνου Εὐσεβοῦς
+r.7    Σεβαστοῦ τύχην ἀντιλήμψεσθαι
+r.8    τῷ προσήκοντι χρόνῳ τῆς δηλουμένης χρείας καὶ ταύτην ἐκτελέσειν ἐμφανὴς ὢν ὁπόταν ἐπιζητηθῶ ὑπαντῶν τοῖς γεινομένοις
+r.9    μηνιαίοις εἰς τὸ ἐν μηδενὶ μεμ[φθῆναι ] …
+r.10   χειρογραφία Πτολλᾶτος Ἰσίωνος πράκτορος σιτικῶν Πακέρκη,
+r.11   γνωστὴρ Ἀμμώνιος Σαραπᾶτος τοῦ … [ο]υ ἐξηγητεύσας. …
+
+[TRANSLATION]
+# HGV-EN: To Anubion, strategus of the Oxyrhynchite nome. I, Ptollas son of Ision and Stephanous, of the city of Oxyrhynchus, having been presented along with others by the amphodogrammateus of the same cily now in office for the collection of corn-receipts at the metropolis from the produce of the current 20th year in the district of Pakerke in the eastern toparchy, do swear by the fortune of the lord Emperor Marcus Aurelius Severus Antoninus Pius Augustus that I will take up at the proper time the said office and will discharge it, appearing whenever I may be required and presenting myself at the regular monthly statements, so as to incur blame in no respect...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

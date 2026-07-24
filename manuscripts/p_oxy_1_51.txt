@@ -1,0 +1,62 @@
+[META]
+id:       P.Oxy. 1.51
+label:    P.Oxy. 1.51
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     173 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (173 CE)
+# hgv-keywords: Gutachten — Arzt — Leiche
+tm:       20713
+source:   https://papyri.info/ddbdp/p.oxy;1;51
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἰ[σι]δ[ώρ]ωι στρατηγῶι
+r.2    παρὰ Διονύσου Ἀπολλοδώρου
+r.3    Διονυσ[ί]ου ἀπʼ Ὀξυρύγχων
+r.4    πόλεως δημοσίου ἰατροῦ.
+r.5    τῇ ἐνεστώσῃ ἡμέρᾳ ἐπετράπην ὑπὸ σοῦ διὰ Ἡρακλείδου
+r.6    ὑπηρέτου ἐπιδεῖν σῶμα
+r.7    νεκρὸν ἀπηρτημένον
+r.8    Ἱέρακος καὶ προσφωνῆσαί σοι
+r.9    ἣν ἐὰν καταλάβωμαι περὶ
+r.10   αὐτὸ διάθεσιν. ἐπιδὼν οὖν
+r.11   τοῦτο ἐπὶ παρόντι τῷ αὐτῷ
+r.12   ὑπηρέτῃ ἐν οἰκίᾳ Ἐπαγάθου
+r.13   … υμερου Σαραπίωνος
+r.14   [ἐ]πʼ ἀμφόδου Πλατείας εὗρον
+r.15   αὐτὸ ἀπηρτημένον βρόχῳ· διὸ προσφωνῶ. ἔτους ιδ
+r.16   Αὐτοκράτορος Καίσαρος Μάρκου
+r.17   [Α]ὐρηλ[ίο]υ Ἀντωνίνου Σεβαστοῦ Ἀρ[μενιακο]ῦ
+r.18   [Μηδικοῦ] Παρθικοῦ Γερμανικοῦ
+r.19   [Μεγίσ]του, Θὼθ γ. διὸ
+r.20   [προσφ]ωνῶ.
+
+[TRANSLATION]
+# HGV-EN: To Isidoros, strategus, from Dionysus, son of Apollodorus, son of Dionysius, of Oxyrhynchus, public physician. I was today instructed by you, through Heraclides your assistant, to inspect the body of a man who had been found hanged, named Hierax, and to report to you my opinion upon it. I therefore inspected the body in the presence of the aforesaid Heraclides at the house of Epagathus, son of ...merus, son of Sarapion, in the Broad Street quarter, and found it hanged by a noose, which fact I accordingly report.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

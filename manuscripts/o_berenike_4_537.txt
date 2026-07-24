@@ -1,0 +1,26 @@
+[META]
+id:       O.BERENIKE 4.537
+label:    O.BERENIKE 4.537
+name:     Documentary papyrus — Berenike
+genre:    documents
+date:     401 CE – 600 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Berenike (401 CE – 600 CE)
+# hgv-keywords: Isopsephism
+tm:       971759
+source:   https://papyri.info/ddbdp/o.berenike;4;537
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    υπδ
+r.2    χμγ
+
+[TRANSLATION]
+# HGV-EN: 484, chi mu gamma
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

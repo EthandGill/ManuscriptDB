@@ -1,0 +1,26 @@
+[META]
+id:       SB 1.4337
+label:    SB 1.4337
+name:     Receipt — Theben
+genre:    receipts
+date:     107 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (107 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       23097
+source:   https://papyri.info/ddbdp/sb;1;4337
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ι ἔτους
+r.2    Τραιανοῦ τοῦ κυρίου, Μεσορὴ ιζ. ὀνόματος
+r.3    Ὥρου Ψεναμούνιος πυροῦ δύο, γίνονται πυροῦ β. Πικῶς.
+
+[TRANSLATION]
+1     
+2     
+3     

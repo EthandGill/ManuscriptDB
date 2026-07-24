@@ -1,0 +1,28 @@
+[META]
+id:       SB 1.1091
+label:    SB 1.1091
+name:     Receipt — Theben
+genre:    receipts
+date:     48 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (48 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       5607
+source:   https://papyri.info/ddbdp/sb;1;1091
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους δ, Φαρμοῦθι κθ.
+r.2    τέτακται εἰς τὸν πηχισμὸν περιστερώνων Ὧρος Ψενήσιος
+r.3    χαλκοῦ φκ, γίνονται χαλκοῦ φκ.
+r.4    Πετεμῖνις τελώνης
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

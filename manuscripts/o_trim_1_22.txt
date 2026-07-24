@@ -1,0 +1,28 @@
+[META]
+id:       O.TRIM 1.22
+label:    O.TRIM 1.22
+name:     Documentary papyrus — Trimithis (Oasis Magna)
+genre:    documents
+date:     300 CE – 350 CE
+language: Greek (Koiné)
+found:    Trimithis (Oasis Magna)
+held:     
+shelf:    
+content:  Documentary papyrus from Trimithis (Oasis Magna) (300 CE – 350 CE)
+# hgv-keywords: Abrechnung — Namen — Brunnen
+tm:       131070
+source:   https://papyri.info/ddbdp/o.trim;1;22
+lat:      25.6677395488
+lon:      28.8708832519
+
+[GREEK]
+r.1    ὕδρευμα Πμουν Ἐμβωου γόμοι ιε
+r.2    Πμουν Ὀσιρε γόμοι κβ
+r.3    [Π]μουν ὀνηλ γόμοι δ
+r.4    … παραδοθ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

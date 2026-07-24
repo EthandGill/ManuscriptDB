@@ -1,0 +1,40 @@
+[META]
+id:       P.RYL 2.74
+label:    P.RYL 2.74
+name:     Documentary papyrus — unbekannt
+genre:    documents
+date:     136 CE – 137 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Documentary papyrus from unbekannt (136 CE – 137 CE)
+# hgv-keywords: praefectus Aegypti — Edikt
+tm:       19485
+source:   https://papyri.info/ddbdp/p.ryl;2;74
+lat:      
+lon:      
+
+[GREEK]
+r.1    [Μάρ]κος Πετρώνιος Μεμερτῖνος [ἔπαρχος]
+r.2    Αἰγύπτου λέγει·
+r.3    [ἐβουλ]όμην μὲν καὶ εἰς τοὺς ὑπὲρ Κόπτον ἀνε[λ]θεῖν [καὶ τὸν]
+r.4    [διαλο]γισμὸν ἀπαρτίσαι τε τῶν νομῶν ω …
+r.5    … ἐπεὶ δὲ τεκμαίρομαι τὸν χρόνον οὐ[χ ἱκανὸν εἶ][ναι εἰ]ς ἀμφότερα, πλειόνων τῶν τοῦ διαλο[γισμοῦ δε][ομένω]ν ἤδη τοῖς ἐπιχωρίοις τὴν προσήκ[ουσαν]
+r.6    [διάγν]ωσιν εἰληφότων, νυνὶ δὲ διαλογίζ[ομαι τὴν]
+r.7    [Θηβαΐδ]α καὶ τοὺς Ἑπτὰ νομοὺς κατὰ τὴν [συνήθειαν.]
+r.8    [ἔτους ] … [ Αὐτοκράτορος Καίσ]αρος Τρ[αιανο]ῦ Ἁδρια[νοῦ Σεβαστοῦ]
+r.9    … [ Π]ερὶ Θή[βας καὶ Ἑ]ρμωνθ[ίτ ] …
+
+[TRANSLATION]
+# HGV-EN: Proclamation of M. Petronius Mamertinus, praefect of Egypt: I wished both to visit the regions beyond Coptos and to complete the conventus of the nomes . . . but since I conjecture that the time will not be sufficient to do both and I know besides that the greater part of the cases depending on my court have already received proper settlement through the local courts on the spot, the conventus for the Thebaid and the Heptanomia will be held by me as usual. Date.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

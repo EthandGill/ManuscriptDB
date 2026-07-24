@@ -1,0 +1,46 @@
+[META]
+id:       BGU 1.223
+label:    BGU 1.223
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     212 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (212 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       8987
+source:   https://papyri.info/ddbdp/bgu;1;223
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … διακη …
+r.2    Λογγείνου Σαραπίωνι
+r.3    χαίρειν·
+r.4    ἔσχον παρὰ σοῦ τιμῆς
+r.5    πυροῦ ἀρταβῶν ἓξ ἡ[μί]σους γίνονται [πυροῦ ἀρτάβαι] ϛ 𐅵 ἐπὶ τῷ
+r.6    μετρήσειν εἰς τὸ δημόσιον
+r.7    καὶ ἐπήνεγκα σοι τὸ
+r.8    σύμβολον.
+r.9    ἔτους κ Μάρκου Αὐρηλίου
+r.10   [Σεο]υήρου Ἀντωνίνου
+r.11   Π[αρ]θικοῦ Μεγίστου Βρενταν[ι]κοῦ
+r.12   Μ[εγίστο]υ Εὐ[σεβοῦς Σεβαστοῦ]
+
+[TRANSLATION]
+# HGV-EN: *** of Longinus, to Sarapion greetings. I have received from you the price of six and a half artabas of wheat, = 6 ½ artabas of wheat, in order to measure it to the state (granary), and to provide you with a receipt. Year 20 of Marcus Aurelius [Sev]erus Antoninus P[ar]thicus Maximus Britann[i]cus [Maximus] Pius [Augustus].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

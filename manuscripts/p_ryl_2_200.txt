@@ -1,0 +1,54 @@
+[META]
+id:       P.RYL 2.200
+label:    P.RYL 2.200
+name:     Receipt — Hermopolites
+genre:    receipts
+date:     111 CE – 112 CE
+language: Greek (Koiné)
+found:    Hermopolites
+held:     
+shelf:    
+content:  Receipt from Hermopolites (111 CE – 112 CE)
+# hgv-keywords: Quittung (Sitologen)
+tm:       19526
+source:   https://papyri.info/ddbdp/p.ryl;2;200
+lat:      
+lon:      
+
+[GREEK]
+r.1    προσκεκόμικεν ἐπὶ θησαυροῦ Τλήθμεως γενημάτων πεντεκαιδεκάτου ἔτους
+r.2    Τραιανοῦ Καίσαρος τοῦ κυρίου ὑπὲρ Πατρὴ Ἄνω
+r.3    Σινκερὴ κολλήματος λβ Πετβῆς Φατρήους ὑπὲρ Τοθῆτος Φωχ
+r.4    ὑπὲρ Ἀμμωνίου Ἀμμωνίου ὑπὲρ Σοήριος Ἀχιλλέως ὑπὲρ παλαιᾶς
+r.5    ἐκθέσεως
+r.6    η ἔτους Δομιτιανοῦ πυροῦ δοχικῷ δύο γ ιβ,
+r.7    γίνονται πυροῦ δοχικῷ β γ ιβ, γ ἔτους Τραιανοῦ πυροῦ δοχικῳ δύο γ ιβ,
+r.8    γίνονται πυροῦ δοχικῷ β γ ιβ, δ ἔτους δοχικῷ δύο γ ιβ, γίνονται πυροῦ β γ ιβ, ε ἔτους
+r.9    πυροῦ μία[ν] 𐅵, γίνεται πυροῦ α 𐅵.
+r.10   θησαυροῦ σιτολόγων· μεμέτρηκε γενημάτων πεντεκαιδεκάτου ἔτους
+r.11   Τραιανοῦ Καίσαρος τοῦ κυρίου ὑπὲρ Πατρὴ Ἄνω Σινκερὴ
+r.12   κολλήματος σογ Ἑρμαῖος Ἑρμ … ὑπὲρ Σοήρις Ἀχιλλέως
+r.13   [ὑπὲρ] παλαιᾶς ἐκθέσεως [δ ἔτους Τ]ραιανοῦ πυροῦ δοχικῷ τετρακαιεικοστόν,
+r.14   γίνεται πυροῦ δοχικῷ κδ, ε ἔτους ὁμοίως πυροῦ δοχικῷ μίαν ἥμισυ, γίνεται πυροῦ δοχικῷ α [𐅵,]
+r.15   ϛ ἔτους ὁμοίως πυροῦ δοχικῷ δ[ύ]ο γ ιβ, γίνονται πυροῦ β γ ιβ.
+r.16   ιϛ ἔτους
+
+[TRANSLATION]
+# HGV-EN: ‘Petbes son of Phatres has paid into the granary of TIethmis from the produce of the 15th year of Trajanus Caesar the lord to the account of Sinkere in the Upper Patre toparchy, page 32, on behalf of Tothes son of Phoch ... on behalf of Ammonius son of Ammonius, on behalf of Soëris daughter of Achilles on account of the old list for the 8th year of Domitian 2 5/12 artabae of wheat by receiving-measure, total 2 5/12 art. of wheat by receiving-measure, and for the 3rd year of Trajan 25/12 artabae of wheat by receiving-measure, total 2 5/12 art. of wheat by receiving-measure, and for the 4th year 2 5/12 artabae by receiving-measure, total 2 5/12 art. of wheat, and for the 5th year one and a half artaba of wheat, total 1½ art. of wheat.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

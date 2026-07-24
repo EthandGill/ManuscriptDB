@@ -1,0 +1,26 @@
+[META]
+id:       O.CLAUD 2.400
+label:    O.CLAUD 2.400
+name:     Documentary papyrus — Mons Claudianus
+genre:    documents
+date:     101 CE – 150 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Mons Claudianus (101 CE – 150 CE)
+# hgv-keywords: Liste — Namen — Soldaten
+tm:       29799
+source:   https://papyri.info/ddbdp/o.claud;2;400
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Λο[νγε]ῖνος Βουσσῆνος μίνωρ
+r.2    Ἰούλιος Ἀπολλινάρις μίνωρ
+r.3    Λούκις Μαρτίαλις
+
+[TRANSLATION]
+1     
+2     
+3     

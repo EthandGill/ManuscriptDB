@@ -1,0 +1,26 @@
+[META]
+id:       ZPE 229.161_1v
+label:    ZPE 229.161_1v
+name:     Documentary papyrus — Oxyrhynchos (Oxyrhynchites)
+genre:    documents
+date:     4 CE – 5 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (Oxyrhynchites)
+held:     London
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (Oxyrhynchites) (4 CE – 5 CE)
+# hgv-keywords: Abrechnung — Getreide
+tm:       998558
+source:   https://papyri.info/ddbdp/zpe;229;161_1v
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    λδ ἔτους πυροῦ ρ …
+r.2    λγ ἔτους πυροῦ ρθ𐅵 …
+
+[TRANSLATION]
+# HGV-EN: Year 34, 100+ (artabas) of wheat ... Year 33, 109 1/2 (artabas) of wheat ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

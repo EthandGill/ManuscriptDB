@@ -1,0 +1,28 @@
+[META]
+id:       P.Oxy. 74.5004
+label:    P.Oxy. 74.5004
+name:     Documentary papyrus — Takona (Oxyrhynchites) bzw. Oxyrhynchos
+genre:    documents
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Takona (Oxyrhynchites) bzw. Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Takona (Oxyrhynchites) bzw. Oxyrhynchos (201 CE – 300 CE)
+# hgv-keywords: Befehl — NN an Archephodos — Überstellung
+tm:       128310
+source:   https://papyri.info/ddbdp/p.oxy;74;5004
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἀρχεφόδῳ Τακονα. ἐξαυτῆς ἀνάπεμψον
+r.2    Ἀκύλαν Ἀποληγίου ἢ τὸν πατέρα ἐγ[γ]υητ[ὴν]
+r.3    αὐτοῦ ὄντα ἢ σὺ αὐτὸς ἄνελθε.
+
+[TRANSLATION]
+# HGV-EN: To the archephodos of Takona. Send Aquila son of Apoleius, or his father who is his guarantor, or else come up yourself. (P.M. Pinto)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

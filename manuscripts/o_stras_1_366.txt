@@ -1,0 +1,34 @@
+[META]
+id:       O.STRAS 1.366
+label:    O.STRAS 1.366
+name:     Receipt — Theben
+genre:    receipts
+date:     138 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (138 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75954
+source:   https://papyri.info/ddbdp/o.stras;1;366
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κωμῶν
+r.2    γενήματος κβ ἔτους Ἁδριανοῦ Καίσαρος τοῦ
+r.3    κυρίου Παῦνι ια ὑπὲρ Κεραμείων
+r.4    ὀνόματος Κοίντου Ἀποληίου Ἁτερίου
+r.5    διὰ Ἀπολλ πυροῦ πέντε. ὁμοίως κε
+r.6    ὀνόματος τοῦ αὐτοῦ διὰ τοῦ αὐτοῦ αἳ διὰ Πετεχώνσιος
+r.7    Φαήριος πυροῦ πέντε γίνονται πυροῦ ι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

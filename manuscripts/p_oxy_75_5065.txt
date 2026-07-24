@@ -1,0 +1,26 @@
+[META]
+id:       P.Oxy. 75.5065
+label:    P.Oxy. 75.5065
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (301 CE – 400 CE)
+# hgv-keywords: Antwort auf eine Orakelfrage (?); jambischer Trimeter
+tm:       128906
+source:   https://papyri.info/ddbdp/p.oxy;75;5065
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    μᾶλλον χαρήσῃ βραχὺν ἐπιμείνας
+r.2    χρόνον
+
+[TRANSLATION]
+# HGV-EN: You will enjoy more if you wait for a short while. (C. Pernigotti)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

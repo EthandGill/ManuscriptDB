@@ -1,0 +1,56 @@
+[META]
+id:       P.Oxy. 7.1068
+label:    P.Oxy. 7.1068
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (201 CE – 300 CE)
+# hgv-keywords: Brief (privat) — Satornilos an Apollonios — Transport einer Mumie vom Arsinoites nach Alexandria — Bitte um Hilfe
+tm:       31315
+source:   https://papyri.info/ddbdp/p.oxy;7;1068
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Σατορνῖλος κυρίῳ μου Ἀπολλωνίῳ
+r.2    χαίρειν.
+r.3    μὴ εὐπορήσας πλοῖον ἐν τῷ Ἀρσινοίτῃ
+r.4    ἔγραψα τῷ κυρίῳ μου Κληματίῳ τῷ ἀρχ[ι]ερεῖ ἵνα μοι πλοῖον διαπέμψεται ἵνα δυνηθῶ τὸ σωμάτιν κατενεγκεῖν ἐν Ἀλεξανδριᾳ, καὶ διεπέμψατό μοι σκαφίδιον ἀρταβῶν ἑξήκοντα . οἱ ἀδελφοὶ οὖν
+r.5    οἱ ἐνέγ καντες αὐτὸ ἔλαβαν καὶ γρ[ά]μματα ἀπʼ αὐτοῦ Κληματίου ἐφʼ ᾧ μηδεὶς ἐνοχλήσει αὐτοῖς κατὰ τόπον.
+r.6    ἀνελθόντες οὖν ἐν τῷ Ἀρσινοίτῃ ηὗρον τὸ σωμάτιν μήπου δυνάμενον κηδευθῆναι, ἀλλὰ ἡμερῶν
+r.7    ἀνοχὴν ἔχω. ἔδοξεν οὖν αὐτοῖς
+r.8    χάριν ἀναγκαίας χρείας γενέσθαι
+r.9    εἰς Τοού. παρακαλῶ οὖν, κύριέ μου, ὑπάρξαι αὐτοῖς καὶ τὰ τῆς σῆς σπουδῆς,
+r.10   ἵνα μοι μαρτυρήσουσιν ἀνελθόντες, καὶ εἴ τι ἂν ἄλλο σου χρείαν σχῶσιν σημείου χάριν ὅτι ἔπεμψας ἐπὶ
+r.11   τὸν ὄνον καὶ κατέσχον αὐτὸν ἕως
+r.12   γένωμαι πρὸς σέ. ἀξιώσω οὖν, κύριε μου,
+r.13   ἵνα δῷς αὐτοῖς γράμματα ἵνα μηδεὶς ἐνοχλήσει αὐτοῖς καθʼ ὁδόν,
+r.14   ἵνα δυνηθῶ κηδεύσας τὸ σωμάτιν ἐλθεῖν πρὸς σέ.
+r.15   ἐρρῶσθαί σοι εὔχομαι
+r.16   πολλοῖς χρόνοις.
+r.17   ἀπόδος Ἀπολλωνίῳ παρὰ Σατορνίλου.
+
+[TRANSLATION]
+# HGV-EN: Satornilus to my lord Apollonius, greeting. Finding no boat available in the Arsinoïte nome I wrote to my lord Clematius the chief priest that he might send me a boat and so I might be able to carry the body down to Alexandria; and he sent me a skiff of sixty artabae burden, The brethren who brought it received letters also from Clematius to the intent that no one in the neighbourhood should trouble them(?). So on going up to the Arsinoïte nome they found the body not yet ready to be buried, and I have a delay of some days. They therefore determined on account of a pressing need to go to Toou. So I urge you, my lord, to supply them with the marks of your good will, that on their return they may testify of it to me, and with anything else they may need from you for Simias’ sake (for you sent for the ass and they kept it), until I come to you. I beg you then, my lord, to give them a letter in order that no one may trouble them on the road, and so I may be able to bury the body and come to you. I pray for your lasting health. (Addressed) Deliver to Apollonius from Satornilus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 1.16
+label:    O.ONT.MUS 1.16
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     108 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     Toronto
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (108 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       50399
+source:   https://papyri.info/ddbdp/o.ont.mus;1;16
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    διέγραψε Ψεναμοῦνις Πεκύσιος Ψ …
+r.2    ὑπὲρ λαογραφίας Μεμνονείων δ ἔτους δραχμὰς [δ ἔτους ] …
+r.3    τοῦ κυρίου Φαμενὼθ …
+r.4    ὁμοίως Φαρμοῦθι κ δραχμὰς δ [ὁμοίως ] …
+r.5    δραχμὰς δ ὁμοίως Ἐπεὶφ κδ δραχμὰς δ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

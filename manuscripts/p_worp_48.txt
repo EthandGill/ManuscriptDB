@@ -1,0 +1,34 @@
+[META]
+id:       P.WORP 48
+label:    P.WORP 48
+name:     Documentary papyrus — Elephantine
+genre:    documents
+date:     152 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Documentary papyrus from Elephantine (152 CE)
+# hgv-keywords: Notiz — Namen zweier adiutores für den Besuch des Epistrategen
+tm:       115577
+source:   https://papyri.info/ddbdp/p.worp;;48
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    αἰούτωρες
+r.2    ἐπιδημίᾳ ἐπιστρατήγου Μεχεὶρ ιη
+r.3    τοῦ ιε ἔτους εἰσὶ δέ·
+r.4    Παπρεμίθης Ἁρπαήσεως
+r.5    υἱοῦ Πισούριος τέκτων
+r.6    Καλῆς Πατρανσνούφεως τέκτων
+
+[TRANSLATION]
+# HGV-EN: Helpers for the visit of the epistrategos on the 18th of Mecheir of the 15th year. They are: Papremithes, son of Harpaesis, the son of Pisouris, carpenter; Kales, son of Patransnouphis, carpenter. (F. A. J. Hoogendijk)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

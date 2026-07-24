@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 2.232
+label:    O.EDFOU 2.232
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     156 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (156 BCE)
+# hgv-keywords: Quittung
+tm:       50395
+source:   https://papyri.info/ddbdp/o.edfou;2;232
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους κε Φαρμοῦθι ιϛ εἰσμεμέτρηκεν
+r.2    εἰς θησαυρὸν Ἀπόλλωνος πόλεως εἰς τὸ αὐτὸ ἔτος Ἀπολλωνοπολίτου
+r.3    Ἁρεμσῦνις Φαράτου
+r.4    πυροῦ ἀρτάβας δ 𐅵 γ δέκατον γίνονται πυροῦ ἀρτάβαι δ 𐅵 γ δέκατον Ἀπολλώνιος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

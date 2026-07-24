@@ -1,0 +1,24 @@
+[META]
+id:       P.Oxy. 4.791
+label:    P.Oxy. 4.791
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     1 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (1 CE)
+# hgv-keywords: Brief (privat) — Didymos an Apollonios — Geld — Steuern (?)
+tm:       20450
+source:   https://papyri.info/ddbdp/p.oxy;4;791
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐπιμέμνησμαι Ἀμμωνίῳ τῶι ἀδελφῷ περὶ ἀργυρίου δραχμῶν τεσσαράκοντα ὀκτὼ εἰς συναγορασμὸν ἐρίων
+r.2    Ἀπολλωνίωι
+
+[TRANSLATION]
+1     
+2     

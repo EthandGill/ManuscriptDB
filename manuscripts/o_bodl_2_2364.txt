@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.2364
+label:    O.BODL 2.2364
+name:     Documentary papyrus — Elephantine
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Documentary papyrus from Elephantine (101 CE – 200 CE)
+# hgv-keywords: Abrechnung
+tm:       72997
+source:   https://papyri.info/ddbdp/o.bodl;2;2364
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    γίνεται ἐπὶ τὸ αὐτὸ
+r.2    τάλαντα ιθ δραχμαὶ Βψμγ ὀβολοὶ δ 𐅵
+r.3    χωρὶς ἄλλων γενῶν.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,32 @@
+[META]
+id:       O.CAIR 6
+label:    O.CAIR 6
+name:     Receipt — Latopolis
+genre:    receipts
+date:     105 BCE
+language: Greek (Koiné)
+found:    Latopolis
+held:     
+shelf:    
+content:  Receipt from Latopolis (105 BCE)
+# hgv-keywords: Quittung — Steuern — Bank — Geld
+tm:       73358
+source:   https://papyri.info/ddbdp/o.cair;;6
+lat:      25.2936689
+lon:      32.5531993
+
+[GREEK]
+r.1    ἔτους ιβ τοῦ καὶ θ Τῦβι ιε.
+r.2    τέτακται ἐπὶ τὴν ἐν Λάτων πόλει τράπεζαν
+r.3    ἐφʼ ἧς Παφνούτιος ἀπομοίρας Παθυρίτου
+r.4    Ὧρος τάλαντα δύο σμ, γίνονται τάλαντα β σμ.
+r.5    χαλκοῦ τάλαντα β Βψ.
+r.6    Παφνούτιος τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

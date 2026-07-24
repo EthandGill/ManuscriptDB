@@ -1,0 +1,28 @@
+[META]
+id:       SB 16.12434
+label:    SB 16.12434
+name:     Receipt — Panopolis
+genre:    receipts
+date:     601 CE – 800 CE
+language: Greek (Koiné)
+found:    Panopolis
+held:     
+shelf:    
+content:  Receipt from Panopolis (601 CE – 800 CE)
+# hgv-keywords: Quittung — Zahlung — Steuer — Geld
+tm:       38663
+source:   https://papyri.info/ddbdp/sb;16;12434
+lat:      26.5648875
+lon:      31.7451755
+
+[GREEK]
+r.1    ὀνόματος Θωμᾶς ἐλάχιστος
+r.2    δέδωκας ὑπὲρ δημοσίων ιγ
+r.3    ἰνδικτίονος χρυσοῦ κεράτια ἑπτά
+r.4    Φαῶφι ϛ ιγ ἰνδικτίονος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

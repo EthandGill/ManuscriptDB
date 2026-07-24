@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 12.1420
+label:    P.Oxy. 12.1420
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     129 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (129 CE)
+# hgv-keywords: Bericht — Prozeß vor Stratege — Streit um Verwaltung (Vermögen) — Entscheidung erst nach Vorlage aller Rechnungen
+tm:       21828
+source:   https://papyri.info/ddbdp/p.oxy;12;1420
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [οὐδ]έπω κατακεχώρισται. Ἀσκληπιάδης ὁ στρατηγὸς
+r.2    σκεψάμενος εἶπεν· ἀναγκαῖον εἶναι δοκεῖ πρότερον τοὺς
+r.3    λόγους καταχωρισθῆναι, ἵνα γνωσθη?ͅ τίνα μέν ἐστιν τὰ
+r.4    καταλειφθέντα, τίνα δὲ τὰ περιγεγονότα, καὶ τίνα τὰ
+r.5    χρε[ο]λυτηθέντα. τότε γὰ[ρ] καὶ περὶ τῶν χορηγιῶν διαλήμψομαι καί, εἴ τί ἐστιν ἀκόλουθον, κριθήσεται. Ἡραδίων
+r.6    εἶπεν. εὐθέως καταχωριῶ τοὺς λόγους. οὐ παρʼ ἐμὴν δὲ αἰτίαν
+r.7    οὐ κατεχωρίσθησαν. ἀλλ[ὰ] μέντοι καὶ τὸ[ν] Ἀγαθεῖνον συν[κατα]χω[ρίσ]αι δεῖ, μέχρι [κριτ]ηρίου μήτε λαβέσθαι τῆς ἐπιτρόπου
+r.8    [χρείας][ μή]τε Ἀγαθείνου συνεχομένου. ὁ στρατηγὸς
+r.9    [ἐκέλευσεν σ]ύνολα λη[μ]ματισθῆναι. ἀνέ[γ]νων.
+
+[TRANSLATION]
+# HGV-EN: ... has not yet been presented. Asclepiades, strategus,after consideration said, “It appears to be necessary that the accounts should first be presented, in order that it may be ascertained what has been left, what there is over, and what debts have been paid. I will then decide about the allowances, and, if there is anything required, judgement shall be given. Heradion said, I will present the accounts immediately; but it is not my fault that they have not been presented. Agathinus too, however, must join in presenting them, and until judgement is given I will not undertake the post (?) of guardian myself or in combination with Agathinus. The strategus ordered the whole amount to be accounted for. Read by me.”
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

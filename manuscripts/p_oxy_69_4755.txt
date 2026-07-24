@@ -1,0 +1,56 @@
+[META]
+id:       P.Oxy. 69.4755
+label:    P.Oxy. 69.4755
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     586 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (586 CE)
+# hgv-keywords: Quittung — Aur. Apollos und Biktor an Fl. Johannes (vertreten durch den Verwalter Biktor) — Empfang eines Ersatzteils einer Maschine (Bewässerung)
+tm:       80740
+source:   https://papyri.info/ddbdp/p.oxy;69;4755
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    βασιλείας το[ῦ] θειοτάτου καὶ εὐσεβεστάτου ἡ[μῶν δεσπότου μεγίστου εὐεργέτου Φλαουΐου]
+r.2    Τιβερίου Μαυρικίου τοῦ αἰωνίου Αὐγού[στου Αὐτοκράτορος ἔτους ε, ὑπατείας τοῦ αὐτοῦ]
+r.3    εὐσεβεστάτου ἡμῶν δεσπότου ἔτους δ, Χοι[ακ , ἰνδικτίωνος ε.]
+r.4    Φλαουΐῳ Ἰωάννῃ τῷ ἐνδοξοτ[άτῳ, τέκνῳ καὶ κληρονόμῳ]
+r.5    τῆς ἐν ἐνδόξῳ τῇ μνήμ[ῃ Εὐφημίας, γεουχοῦντι]
+r.6    κα[ὶ] ἐνταῦθα τῇ λαμπρᾷ Ὀξυρ[υγχιτῶν πόλει, διὰ σοῦ]
+r.7    τοῦ λαμπροτάτου Βίκτορος [διοικητοῦ αὐτοῦ,]
+r.8    Αὐρήλιοι Ἀπολλῶς υἱὸς … [μητρὸς] …
+r.9    καὶ Βίκτωρ υἱὸς Ἀνδρ[έου μητρὸς] …
+r.10   ἀπὸ ἐποικίου Ἀσπιδᾶ [τοῦ Ὀξυρυγχίτου]
+r.11   ν[ομοῦ, δι]αφέρ[ο]ντος τῇ ὑ[μῶν ἐνδοξότητι, ἐναπόγρα][φοι αὐτῆς γε]ωργοί, χαίρειν. χ[ρείας καὶ νῦν γεναμένης]
+r.12   [εἰς τὴν ὑπ’] ἡμᾶς γεουχικὴ[ν μηχανὴν καλουμένην]
+r.13   … ἀντλοῦσαν [εἰς ἄμπελον καὶ εἰς ἀρόσι][μον γῆν] [μεγά]λου ἐργάτου ἑν[ὸς ἀνελθόντες ἐπὶ]
+r.14   [τῆς πόλεως] ἠξιώσαμε[ν τὴν ὑμῶν ἐνδοξότητα]
+r.15   [ὥστε κελε]ῦσαι ἡ[μῖν τὸν αὐτὸν μέγαν ἐρ][γάτην παρ]ασχεθῆ[ναι] …
+r.16   χειρογραφία Ἀπ[ολλῶτος καὶ Βίκτορος]
+r.17   … α …
+
+[TRANSLATION]
+# HGV-EN: In the reign of our most godly and most pious master, greatest benefactor, Flavius Tiberius Mauricius, the eternal Augustus (and) Imperator, year 5, in the consulship of our same most pious master, year 4, Choeac n, indiction 5. To Flavius Ioannes, vir gloriosissimus, child and heir of Euphemia of glorious memory, landowner here also in the splendid city of the Oxyrhynchites, through you, the most splendid Victor, his administrator, Aurelii Apollos son of . . . , mother . . . , and Victor son of Andreas, mother . . . , from the hamlet of Aspidas of the Oxyrhynchite nome, a possession of your glory, registered farmers of yours, greetings. Since now too a need for one large cogwheel has arisen in the estate irrigator under my (sic) charge, called . . . , which irrigates vine-land and arable land (?), we came up to the city and asked your glory to order that the same large cog-wheel be provided to us . . . (N. Gonis) Chirograph of Apollos and Victor . . .
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

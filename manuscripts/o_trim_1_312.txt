@@ -1,0 +1,36 @@
+[META]
+id:       O.TRIM 1.312
+label:    O.TRIM 1.312
+name:     Documentary papyrus — Trimithis (Oasis Magna)
+genre:    documents
+date:     350 CE – 370 CE
+language: Greek (Koiné)
+found:    Trimithis (Oasis Magna)
+held:     
+shelf:    
+content:  Documentary papyrus from Trimithis (Oasis Magna) (350 CE – 370 CE)
+# hgv-keywords: Anweisung — Lieferung — Weizen
+tm:       131361
+source:   https://papyri.info/ddbdp/o.trim;1;312
+lat:      25.6677395488
+lon:      28.8708832519
+
+[GREEK]
+r.1    κυρίῳ μου [Ἡρα]κλείδῃ
+r.2    Νικοκλῆς χαίρειν.
+r.3    σίτου δημοσίῳ [μέτρῳ ]
+r.4    ἀρτάβας … παράσχου
+r.5    τῷ περὶ τ …
+r.6    [τ]ῶν ἀποχῶ[ν] …
+r.7    ἐρρῶσ[θαί σε εὔχο]μαι πο[λλοῖς χρόνοις]
+
+[TRANSLATION]
+# HGV-EN: To my lord Herakleides, Nikokles, greetings. Supply – artabas of wheat by public measure to . . . the receipts . . . I pray for your health for many years.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

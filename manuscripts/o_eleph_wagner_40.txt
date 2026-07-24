@@ -1,0 +1,32 @@
+[META]
+id:       O.ELEPH.WAGNER 40
+label:    O.ELEPH.WAGNER 40
+name:     Receipt — Elephantine
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (144 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24220
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;40
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σωτὴρ καὶ Παπρεμίθης πράκτορες
+r.2    ἀργυρικῶν Ἐλεφαντίνης. διέγραψεν
+r.3    Σαραπίων Σαραπίωνος
+r.4    μητρὸς Τιψανσνο͂τες
+r.5    μερισμοῦ ζ ἔτους Ἀντωνίνου
+r.6    τοῦ κυρίου δραχμὰς δ ἐπαγομένων α.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

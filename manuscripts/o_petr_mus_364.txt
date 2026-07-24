@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 364
+label:    O.PETR.MUS 364
+name:     Receipt — Theben
+genre:    receipts
+date:     138 CE – 192 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (138 CE – 192 CE)
+# hgv-keywords: Quittung (Speicherquittung)
+tm:       75413
+source:   https://papyri.info/ddbdp/o.petr.mus;;364
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [μεμέτρηται εἰς θ]ησαυρὸν μητροπόλεως γενήματος
+r.2    … [ἔτους] … Ἀντωνίνου
+r.3    [Καίσαρος τοῦ] κυρίου Παῦνι
+r.4    … [ὑπὲρ Ἀγο]ρᾶς α Ὥρου
+r.5    … τρι …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

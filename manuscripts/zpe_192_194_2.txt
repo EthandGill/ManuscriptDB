@@ -1,0 +1,30 @@
+[META]
+id:       ZPE 192.194_2
+label:    ZPE 192.194_2
+name:     Receipt — Elephantine
+genre:    receipts
+date:     136 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (136 CE)
+# hgv-keywords: Quittung — Steuer — Geld — Flußwächter
+tm:       382552
+source:   https://papyri.info/ddbdp/zpe;192;194_2
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Ψανμοῦς [πράκτωρ. διέγραψεν] …
+r.2    Παχομχήμ[εως] …
+r.3    ὑπὲρ μερισμοῦ ποτ[αμοφυλακίδος] [κ ἔτους ῥυπαρὰν δραχμὴν α τετρώβολον]
+r.4    ἔτους κ Ἁδριανο[ῦ] [Καίσαρος τοῦ κυρίου]
+r.5    Μεχ[είρ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,26 @@
+[META]
+id:       O.MICH 1.67
+label:    O.MICH 1.67
+name:     Receipt — Tebtynis (Arsinoites)
+genre:    receipts
+date:     255 CE
+language: Greek (Koiné)
+found:    Tebtynis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Tebtynis (Arsinoites) (255 CE)
+# hgv-keywords: Quittung — Dekaproten
+tm:       42455
+source:   https://papyri.info/ddbdp/o.mich;1;67
+lat:      29.10713705
+lon:      30.7620317
+
+[GREEK]
+r.1    γενήματος β ἔτους δε[κ]απρώτων Τεπτύνεως Πολέμωνος μερίδος
+r.2    Νίννος Ἀγο ὄνοι δεκαπέντε, γίνονται ιε.
+r.3    ἔτους γ Τῦβι β.
+
+[TRANSLATION]
+1     
+2     
+3     

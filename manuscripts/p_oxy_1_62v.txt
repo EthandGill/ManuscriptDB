@@ -1,0 +1,46 @@
+[META]
+id:       P.Oxy. 1.62v
+label:    P.Oxy. 1.62v
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     242 CE – 246 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (242 CE – 246 CE)
+# hgv-keywords: Brief (amtlich) — der Zenturio NN an den Strategen Syros — Ladung von Korn — Schiffe
+tm:       20724
+source:   https://papyri.info/ddbdp/p.oxy;1;62v
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … ας ἑκατόνταρχος ἐπείκτης
+r.2    [δημοσίου σ]ίτου Σύρῳ διαδε[χο]μένῳ στρατηγίαν χαίρειν.
+r.3    [ἐξα]υτῆς λαβών μου τὰ
+r.4    [γρ]άμματα πέμψον
+r.5    [το]ὺς κληρονόμους Ἀπο[λ]λωνίου τοῦ δεκαπρώτ[ο]υ
+r.6    τῆς Θμοισεφῶ τοπαρχίας,
+r.7    ἵνα μὴ ἐκ τῆς σῆς ἀμελείας ἐνέδρα περὶ τὴν
+r.8    ἐμβολὴν γένηται. ἔπεμψα δὲ εἰς τοῦτο τὸν στατιωνάριον ἀλλὰ
+r.9    καὶ τοὺς λοιποὺς δεκαπρώτους ἵνα δυνηθῶμεν ὅθεν ἐὰν δέω
+r.10   τὴν ἐμβολὴν ποιῆσαι
+r.11   διὰ τάχους.
+r.12   ἐρρῶσθαί σε εὔχομαι.
+
+[TRANSLATION]
+# HGV-EN: ... as, centurion ... to Syrus, acting strategus, greeting. As soon as you receive my letter send the heirs of Apollonius, magistrate of the toparchy of Thmoisaphôs, in order that there may be no fraud in the lading through any neglect of yours. I have sent for this purpose not only the officer of the guard but also the other councillors, so that we may be able to do the lading quickly at any point I may require.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

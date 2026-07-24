@@ -1,0 +1,62 @@
+[META]
+id:       P.RYL 2.107
+label:    P.RYL 2.107
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     84 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (84 CE)
+# hgv-keywords: Deklaration — Haus
+tm:       12903
+source:   https://papyri.info/ddbdp/p.ryl;2;107
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Τήλεφος σεσημείωμαι, ἔ[τους] … Δομιτιανοῦ
+r.2    τοῦ κυρίου Φαρμοῦθι ε.
+r.3    Σωκράτηι γεγυμνασιαρχηκότι
+r.4    καὶ Ἀντιπάτρῳ βιβλ[ι]οφύλαξι
+r.5    ἐνκτήσεων Ἀρσινοΐτου
+r.6    παρὰ Σαταβοῦτος τοῦ Πακύσιος τοῦ Ἑριέως τῶν ἀπὸ τῆς Σοκνο[π]αί[ο]υ Νήσου
+r.7    τῆς Ἡρακλείδου μερίδος.
+r.8    ἀπογράφομ[αι] εἰς τὴν ἐνεστῶσαν ἡμέραν ὃ ἐωνησάμην ἐν τῇ αὐτῇ κώμῃ ἥμισυ τέταρτον μέρος ἡμίσους μέρους οἰκίας
+r.9    καὶ αὐλῆς τιμῆς ἀργυρίου
+r.10   δραχμῶν δ[ι]ακοσίων
+r.11   παρὰ τῆς μητρός μου Ταβοῦτος τῆς Ὀρσενούφιος
+r.12   τοῦ [Σ]αταβοῦτο[ς] ἀπὸ τῆς
+r.13   αὐτῆς κώμης [μ]ετὰ κυρίου
+r.14   τοῦ [σ]υνγεν[οῦς Παπ]εῖτος
+r.15   τοῦ Παπεῖτ[ος. διὸ ἐ]πιδίδωμι τὴν ἀ[πογραφ]ήν.
+r.16   Σωκρά[της διὰ ][Τηλ]έφου γραμματέως
+r.17   κατακεχώρικα. [ἔτους … ]
+r.18   Αὐτοκράτορο[ς Καίσαρος]
+r.19   Δομιτιανοῦ Σ[εβαστοῦ Φαρμοῦθι ε.]
+r.20   Σαταβοῦτος γερδίου.
+
+[TRANSLATION]
+# HGV-EN: ‘Signed by me, Telephus, the … year of Domitian the lord, Pharmouthi 5. ‘To Socrates, ex-gymnasiarch, and Antipater, keepers of the property record-office of the Arsinoite nome, from Satabous son of Pakusis son of Herieus, of Soknopaei Nesus in the division of Heraclides. I register up to the present time three-quarters of a half share of a house and yard situated in the same village, which I have bought from my mother Tabous daughter of Orsenouphis son of Satabous, of the said village, with her guardian her kinsman Papeis son of Papeis, at the price of 200 dr. of silver; I accordingly present this return. ‘I, Socrates, through Telephus, scribe, have entered it on the register. The … year of the Emperor Caesar Domitianus Augustus, Pharmouthi 5.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

@@ -1,0 +1,30 @@
+[META]
+id:       BGU 7.1603
+label:    BGU 7.1603
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (101 CE – 200 CE)
+# hgv-keywords: Quittung (Steuer) — Geld
+tm:       27586
+source:   https://papyri.info/ddbdp/bgu;7;1603
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ἔτους τεσσαρεσκαιδεκάτου Αὐτοκράτορος
+r.2    Καίσαρος …
+r.3    Ἐπεὶφ α …
+r.4    … Φιλαδελφείας ιδ ἔτους
+r.5    δρ[αχμὰς][ τε]τρακοσίας ὀγδοήκοντα, δραχμὰς υπ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

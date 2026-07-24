@@ -1,0 +1,28 @@
+[META]
+id:       STUD.PAL 13.pg8_12
+label:    STUD.PAL 13.pg8_12
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     105 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (105 CE)
+# hgv-keywords: Quittung — Steuern — Geld — Juden
+tm:       23273
+source:   https://papyri.info/ddbdp/stud.pal;13;pg8_12
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    δ ἀμφόδου
+r.2    Ἰάσων Ἰωσήπου λαογραφίας η ἔτους Τραιανοῦ
+r.3    τοῦ κυρίου δραχμὰς η.
+r.4    ἔτους η Φαμενὼθ κθ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

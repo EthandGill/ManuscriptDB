@@ -1,0 +1,26 @@
+[META]
+id:       STUD.PAL 8.739
+label:    STUD.PAL 8.739
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (601 CE – 700 CE)
+# hgv-keywords: Quittung
+tm:       38889
+source:   https://papyri.info/ddbdp/stud.pal;8;739
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἁθὺρ κη α καταβολὴ ἐνάτης ἰνδικτίονος λαύρας τοῦ Ἁγίου
+r.2    Βίκτορος Βίκτορος Κοσμᾶ κρινο
+r.3    κεράτια δέκα κεράτια ι Ἀλεξανδρείας διʼ ἐμοῦ Φοιβάμμωνος
+
+[TRANSLATION]
+1     
+2     
+3     

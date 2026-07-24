@@ -1,0 +1,26 @@
+[META]
+id:       O.CLAUD 1.22
+label:    O.CLAUD 1.22
+name:     Documentary papyrus — Mons Claudianus
+genre:    documents
+date:     107 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Mons Claudianus (107 CE)
+# hgv-keywords: Name — Architekt
+tm:       24035
+source:   https://papyri.info/ddbdp/o.claud;1;22
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    [Ἱερ]ώνυμος ἀρχιτέκτων διʼ Ε …
+r.2    [γρα]μματέως …
+r.3    … δια …
+
+[TRANSLATION]
+1     
+2     
+3     

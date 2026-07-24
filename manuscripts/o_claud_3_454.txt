@@ -1,0 +1,26 @@
+[META]
+id:       O.CLAUD 3.454
+label:    O.CLAUD 3.454
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     137 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (137 CE)
+# hgv-keywords: Fragment — Quittung — Empfang — Ration
+tm:       73637
+source:   https://papyri.info/ddbdp/o.claud;3;454
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Σαβεῖνος Μενελάῳ χαίρειν.
+r.2    ἔχω ἀπὸ σοῦ μάτια
+r.3    … ἀπὸ Χυαχ ου
+
+[TRANSLATION]
+1     
+2     
+3     

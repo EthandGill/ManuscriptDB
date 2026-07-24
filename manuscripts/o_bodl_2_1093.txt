@@ -1,0 +1,24 @@
+[META]
+id:       O.BODL 2.1093
+label:    O.BODL 2.1093
+name:     Receipt — Theben
+genre:    receipts
+date:     172 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (172 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71780
+source:   https://papyri.info/ddbdp/o.bodl;2;1093
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παῦνι α τοῦ ιβ ἔτους ὀνόματος Ἀλεξάνδρου
+r.2    Ἀλεξάνδρου ὑπὲρ τέλους πεντηκοστῆς ιβ ἔτους δραχμὰς ὀγδοήκοντα γίνονται δραχμαὶ π. Πανίσκος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     

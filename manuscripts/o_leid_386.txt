@@ -1,0 +1,26 @@
+[META]
+id:       O.LEID 386
+label:    O.LEID 386
+name:     Receipt — Theben
+genre:    receipts
+date:     105 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (105 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24838
+source:   https://papyri.info/ddbdp/o.leid;;386
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Εἰρηνίων καὶ μέτοχοι τελῶναι θησαυροῦ [ἱερῶν]
+r.2    Παναμεῦς Φθουμίνιος χαίρειν· ἔσχομεν βαλανευτικὸν
+r.3    τοῦ η ἔτους Τραιανοῦ Παχὼν λ.
+
+[TRANSLATION]
+1     
+2     
+3     

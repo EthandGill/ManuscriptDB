@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.2219
+label:    O.BODL 2.2219
+name:     Receipt — Elephantine
+genre:    receipts
+date:     118 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (118 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       72852
+source:   https://papyri.info/ddbdp/o.bodl;2;2219
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σανμοῦς πράκτωρ. διέγραψε Πετορζμῆθις Πετεύρεως ὑπὲρ μερισμοῦ
+r.2    ποταμοφυλακίδος γ ἔτους Ἁδριανοῦ
+r.3    τοῦ κυρίου ἀργυρίου δραχμὰς δύο γίνονται δραχμαὶ β
+r.4    καὶ ὑπὲρ β ἔτους τριώβολον . Χοίακ κζ.
+r.5    Σαραπίων γραμματεὺς ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

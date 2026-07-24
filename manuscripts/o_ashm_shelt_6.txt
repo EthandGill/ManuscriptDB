@@ -1,0 +1,24 @@
+[META]
+id:       O.ASHM.SHELT 6
+label:    O.ASHM.SHELT 6
+name:     Receipt — Theben
+genre:    receipts
+date:     21 BCE – 20 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (21 BCE – 20 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70558
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;6
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Σιάιτος Μαιῦρις. τέταξαι λαογραφίας δραχμὰς ι. ἔτους ι
+r.2    Καίσαρος.
+
+[TRANSLATION]
+1     
+2     

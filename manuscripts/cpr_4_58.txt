@@ -1,0 +1,30 @@
+[META]
+id:       CPR 4.58
+label:    CPR 4.58
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     701 CE – 800 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (701 CE – 800 CE)
+# hgv-keywords: Contrat de prêt en argent
+tm:       82187
+source:   https://papyri.info/ddbdp/cpr;4;58
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [ … ⲡ]ϣⲏ ⲛⲕⲱⲥⲙⲁ ⲡⲁ ⲧⲓϣⲙⲟⲩⲛⲓ
+r.2    [ … ⲁⲓ]ϫⲓ ἀρίθμιος ⲃ ὁλοκόττινος ⲧⲁⲕ ⲛⲟⲩⲃ
+r.3    … ὁλοκόττινος ⲛⲁⲧⲧⲱϩ ⲛⲁⲧⲑⲓⲙⲓⲥ
+r.4    … ἀμφιβολία
+r.5    … ⲛ ⲁⲡⲣⲁϩⲏⲙ ⲡϣⲏ ⲛⲉⲓⲁⲉⲓⲉ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

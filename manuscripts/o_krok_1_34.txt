@@ -1,0 +1,28 @@
+[META]
+id:       O.KROK 1.34
+label:    O.KROK 1.34
+name:     Letter — Krokodilo
+genre:    letters
+date:     109 CE
+language: Greek (Koiné)
+found:    Krokodilo
+held:     Qift
+shelf:    
+content:  Letter from Krokodilo (109 CE)
+# hgv-keywords: Tagebuch einer Poststation (Fragment) — Verzeichnis über Eingang und Weiterleitung von Briefen
+tm:       88623
+source:   https://papyri.info/ddbdp/o.krok;1;34
+lat:      25.9426109674
+lon:      33.4011614055
+
+[GREEK]
+r.1    … ος εἰς Φοιν …
+r.2    … [Δ]ιδᾶς ἐπισ[τολ] …
+r.3    … υ ὥρας …
+r.4    … [Διτούζα]νις …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

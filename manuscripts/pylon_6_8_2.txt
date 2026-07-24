@@ -1,0 +1,42 @@
+[META]
+id:       PYLON 6.8_2
+label:    PYLON 6.8_2
+name:     Letter — unbekannt
+genre:    letters
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Letter from unbekannt (301 CE – 400 CE)
+# hgv-keywords: Brief (privat) — Gelasios an Papnuthes — Zahlungsanweisung
+tm:       33515
+source:   https://papyri.info/ddbdp/pylon;6;8_2
+lat:      
+lon:      
+
+[GREEK]
+r.1    κυρίῳ μ[ου] πατρὶ
+r.2    Παπνούθῃ
+r.3    Γελάσιος χαίρειν.
+r.4    ἀργυρίου τάλαντα
+r.5    χίλια τριακόσια
+r.6    ὑπὲρ τιμῆς οἴνου
+r.7    ὑπὲρ τῆς ταινίας
+r.8    τοῦ κυρ[ί]ου μου
+r.9    υἱοῦ δὸ[ς] τῷ ἀδελφῷ Τιβερίῳ τῷ
+r.10   ἐπιστολὴ Γελασίου
+
+[TRANSLATION]
+# HGV-EN: To my lord father Papnouthes, Gelasios, greetings. Give one thousand three hundred talents of money for the price of wine for the strip of land of my lord son to my brother Tiberius the . . . (Verso) Letter of Gelasios.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

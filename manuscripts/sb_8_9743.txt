@@ -1,0 +1,26 @@
+[META]
+id:       SB 8.9743
+label:    SB 8.9743
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     75 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (75 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       22888
+source:   https://papyri.info/ddbdp/sb;8;9743
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [Ἰάσ]ων Φίλωνος
+r.2    … ζ ἔτους Οὐεσπασιανοῦ
+r.3    … ἔτους ζ Φαμενὼθ κη.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.440
+label:    O.STRAS 1.440
+name:     Receipt — Theben
+genre:    receipts
+date:     152 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (152 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76028
+source:   https://papyri.info/ddbdp/o.stras;1;440
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεψάις τελώνης θησαυροῦ ἱερῶν Πετοσίρι
+r.2    Ψεντκερήκιος. ἔσχον παρὰ σοῦ πυροῦ ιβ ὑπὲρ βαλανείου
+r.3    τοῦ ιε ἔτους Ἀντωνίνου Καίσαρος
+r.4    τοῦ κυρίου Φαμενὼθ λ. Πικῶς σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

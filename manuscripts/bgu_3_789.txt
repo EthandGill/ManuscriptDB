@@ -1,0 +1,30 @@
+[META]
+id:       BGU 3.789
+label:    BGU 3.789
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     198 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (198 CE)
+# hgv-keywords: Quittung — Geld
+tm:       9351
+source:   https://papyri.info/ddbdp/bgu;3;789
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [ἔτους] ϛ Λουκίου Σεπτιμίου Σεουήρου Εὐσεβοῦς
+r.2    [Περτί]νακος Σεβαστοῦ καὶ Μάρκου Αὐρηλίου Ἀντωνείνου
+r.3    [Σεβασ]τοῦ Παῦνι β. διέγραψε [Σ]ωκράτης Πτολεμαίου
+r.4    [ὑπὲρ το]ῦ ϛ ἔτους Καρανίδος δραχ[μὰς] διακοσίας γίνονται δραχμαὶ σ.
+
+[TRANSLATION]
+# HGV-EN: [Year] 6 of Lucius Septimius Severus Pius [Perti]nax Augustus and Marcus Aurelius Antoninus Augustus, Payni 2. [S]okrates, son of Ptolemaios, paid [– – – for] year 6 for Karanis two hundred drachmas, = 200 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     [Year] 6 of Lucius Septimius Severus Pious
+2     [Perti]nax Augustus and Marcus Aurelius Antoninus
+3     [Augu]stus, Payni 2, [S]okrates, son of Ptolemaios, paid
+4     [for year] 6 of Karanis drac[hmas] two hundred, are drachmas 200

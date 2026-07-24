@@ -1,0 +1,36 @@
+[META]
+id:       P.Oxy. 72.4899
+label:    P.Oxy. 72.4899
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     393 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (393 CE)
+# hgv-keywords: Vertrag — Quittung — Rückgabe von Geld (oder Objekten?) an den Eigentümer durch die Erben eines Verstorbenen (?) — Fragment
+tm:       114280
+source:   https://papyri.info/ddbdp/p.oxy;72;4899
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [μετὰ τὴν ὑπατείαν τοῦ δεσπότου ἡ]μῶν Ἀρκαδίου αἰωνίου
+r.2    [Αὐγούστου τὸ β καὶ Φλαουΐου Ῥου]φίνου τοῦ λαμπροτάτου, Παχὼν β.
+r.3    … ίου ἀπὸ τῆς λαμπρᾶς καὶ
+r.4    [λαμπροτάτης Ὀξυρυγχιτῶν πό]λεως κληρονόμοις
+r.5    … ς Αἰατίου Ἀείωνος ἀπὸ τῆς
+r.6    [αὐτῆς πόλεως χαίρειν. ὁμο]λογῶ ἀπεσχηκέναι καὶ πεπληρῶσθαι
+r.7    … ω … ει
+
+[TRANSLATION]
+# HGV-EN: After the consulship of our master Arcadius, eternal Augustus, for the 2nd time and of Flavius Rufinus, vir clarissimus, Pachon 2 . . . from the splendid and most splendid city of the Oxyrhynchites, to the heirs of . . . Aeatius son of Aeion, from the same city, greetings. I acknowledge that I have received and been paid . . . (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

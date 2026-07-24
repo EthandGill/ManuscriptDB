@@ -1,0 +1,34 @@
+[META]
+id:       O.ONT.MUS 2.107
+label:    O.ONT.MUS 2.107
+name:     Receipt — Theben
+genre:    receipts
+date:     118 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (118 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75126
+source:   https://papyri.info/ddbdp/o.ont.mus;2;107
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Χεσφμόις πράκτωρ ἀργυρικῶν μητροπόλεως
+r.2    Πασήμιος … ἔσχον
+r.3    ὑπὲρ σκοπέλων καὶ ἄλλων Ἀγορῶν βορρᾶ γ ἔτους ῥυπαρὰς
+r.4    δραχμὰς τρεῖς τετρώβολον ἡµιωβέλιον
+r.5    γίνονται δραχμαὶ γ τετρώβολον ἡμιωβέλιον. ἔτους γ Ἁδριανοῦ
+r.6    τοῦ κυρίου Θὼθ λ
+r.7    Φθουμῖνις σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

@@ -1,0 +1,24 @@
+[META]
+id:       P.Oxy. 44.3174v
+label:    P.Oxy. 44.3174v
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     243 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (243 CE)
+# hgv-keywords: Schreibübung mit Zeichnungen
+tm:       64189
+source:   https://papyri.info/ddbdp/p.oxy;44;3174v
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἔθος ἐστὶν μν … ιους εὐτυχεῖν τοὺς πλουσίους.
+r.2    ἔτους ϛ Φαμενὼθ ιβ ἡμέρᾳ Ἑρμοῦ.
+
+[TRANSLATION]
+1     
+2     

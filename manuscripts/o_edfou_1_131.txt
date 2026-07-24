@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 1.131
+label:    O.EDFOU 1.131
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     78 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (78 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       47072
+source:   https://papyri.info/ddbdp/o.edfou;1;131
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ἀπίων Ἀπόλλωνος
+r.2    χωματικοῦ ι ἔτους Οὐεσπασιανοῦ
+r.3    δραχμὰς γ τριώβολον ἔτους ι Μεσορὴ η
+
+[TRANSLATION]
+1     
+2     
+3     

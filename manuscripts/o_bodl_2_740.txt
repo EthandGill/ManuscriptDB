@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.740
+label:    O.BODL 2.740
+name:     Receipt — Theben
+genre:    receipts
+date:     151 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (151 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71430
+source:   https://papyri.info/ddbdp/o.bodl;2;740
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ποριεύθης καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν Φατρῇ
+r.2    Κρούριος. ἔσχομεν τιμὴν πυροῦ ἀρτάβης ιβ εἰς λόγον βαλανευτικοῦ
+r.3    τοῦ ιδ ἔτους Ἀντωνίνου Καίσαρος τοῦ κυρίου Ἐπεὶφ β.
+
+[TRANSLATION]
+1     
+2     
+3     

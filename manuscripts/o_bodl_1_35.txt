@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 1.35
+label:    O.BODL 1.35
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     221 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (221 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       43433
+source:   https://papyri.info/ddbdp/o.bodl;1;35
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους β Ἐπεὶφ ϛ πέπτωκεν
+r.2    εἰς τὸ … κον τοῦ β ἔτους Ἀπολλώνιος
+r.3    Καλλικράτους δραχμ δέκα γίνονται ι. Μένων.
+r.4    Τρύφων.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,28 @@
+[META]
+id:       O.DEISS 33
+label:    O.DEISS 33
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     116 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     Sydney
+shelf:    
+content:  Receipt from Apollonopolis (116 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       73847
+source:   https://papyri.info/ddbdp/o.deiss;;33
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Μαρία Ἀβιήτου
+r.2    Ἰουδαίων τελέσματος ιθ ἔτους Τραιανοῦ Ἀρίστου
+r.3    Καίσαρος τοῦ κυρίου δραχμαὶ δ
+r.4    γίνονται δραχμαὶ δ. ἔτους ιθ Φαρμοῦθι ε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

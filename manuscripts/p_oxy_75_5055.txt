@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 75.5055
+label:    P.Oxy. 75.5055
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (101 CE – 200 CE)
+# hgv-keywords: Brief (geschäftlich, privat) — Sarapammon an Achilleus (Advokat) und Severus; Bitte — aus dem Protokoll einer Verhandlung vor dem Epistrategen ein Exzerpt anzufertigen
+tm:       128896
+source:   https://papyri.info/ddbdp/p.oxy;75;5055
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Σαραπάμμων Ἀχιλλεῖ καὶ Σεουήρωι
+r.2    τοῖς τιμιωτάτοις χαίρειν.
+r.3    πρὸ τῶν ὅλων εὔχομαί σε ὑγιαίνειν
+r.4    καὶ τὸ προσκύνημα ὑμῶν ποιῶ παρὰ
+r.5    τοῖς πατρῴ[ο]ις θεοῖς. παρακαλῶ, κύριοί
+r.6    μου, ἐπειδὴ εἴπαμεν τὸ πρᾶγμα ἑαυτῶν
+r.7    ἐπὶ τοῦ ἐπιστρατήγου χάριν τῆς οἰκίας
+r.8    τοῦ ζωγράφου ἐπὶ τῆς ιδ τοῦ Φαῶφι
+r.9    τοῦ ὄντος β ἔτους καὶ οὐ κατέφθημεν
+r.10   λαβεῖν τὸ ὑπόμνημα, δέομαι ὑμῶν
+r.11   ἀναγκαίως ἐκλαβεῖν μοι αὐτό. ἐστὶν δὲ τὰ ὀνόματα Ζωὶς Ζωίλου
+r.12   καὶ Θαῆσις Ζηναρίου καὶ Τιβέριος Κλαύ[διος] …
+r.13   Ἀχιλλεῖ ῥήτορι καὶ Σεουήρω[ι] …
+
+[TRANSLATION]
+# HGV-EN: Sarapammon to Achilleus and Severus, the most honoured, greetings. Before all I pray for your health, and I make your obeisance before the ancestral gods. Please, my lords, since we stated our case before the epistrategus regarding the house of the painter on the 14th of Phaophi of the current 2nd(?) year, and we did not have enough time(?) to get the minutes (of the hearing), I beg you without fail to excerpt them for me. The names are: Zois daughter of Zoilus and Thaesis daughter of Zenarium and Tiberius Claudius . . . To Achilleus, advocate, and Severus . . . (R. Hatzilambrou)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

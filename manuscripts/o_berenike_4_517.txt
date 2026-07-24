@@ -1,0 +1,30 @@
+[META]
+id:       O.BERENIKE 4.517
+label:    O.BERENIKE 4.517
+name:     Documentary papyrus — Berenike
+genre:    documents
+date:     50 CE – 75 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Berenike (50 CE – 75 CE)
+# hgv-keywords: Anweisung — Wein
+tm:       971739
+source:   https://papyri.info/ddbdp/o.berenike;4;517
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    Σαραπίων Κασίου Ἀνδουρῳ χ[αίρειν·]
+r.2    διαπόστειλον Κρονίῳ Ἁρπ[ο]χρατίωνος
+r.3    οἴνου πολ κεράμια ιε
+r.4    μηνὸς …
+
+[TRANSLATION]
+# HGV-EN: Sarapion son of Kasios to Andouros, greetings. Dispatch for Kronios son of Harpochration 15 pol( ) jars of wine … in the month of … .
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

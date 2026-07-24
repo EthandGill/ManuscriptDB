@@ -1,0 +1,34 @@
+[META]
+id:       O.HEID 306
+label:    O.HEID 306
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     194 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (194 CE)
+# hgv-keywords: Quittung — Steuer (Weizen, prosthesis)
+tm:       80522
+source:   https://papyri.info/ddbdp/o.heid;;306
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    Πλῆνις Ποπλίου Γελλίου
+r.2    πράκτωρ σιτικῶν Μεμνονείων.
+r.3    ἔσχον εἰς πρόσθεσιν ὑπὲρ γενήματος β ἔτους
+r.4    ὀνόματος Ἀπολλῶτος Φθομώνθου
+r.5    πυροῦ ἀρτάβην μίαν, γίνεται πυροῦ ἀρτάβη α.
+r.6    ἔτους γ Θὼθ ε.
+
+[TRANSLATION]
+# HGV-EN: Plenis, son of Poplios Gellios, collector of grain dues for Memnoneia. I have received for credit for the crop of year 2 in the name of Apollos, son of Phthomonthes, one artaba of wheat = 1 artaba of wheat. Year 3, Thoth 5.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

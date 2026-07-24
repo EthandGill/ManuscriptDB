@@ -1,0 +1,28 @@
+[META]
+id:       P.LOND 3.1216
+label:    P.LOND 3.1216
+name:     Receipt — Memphis
+genre:    receipts
+date:     192 CE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Receipt from Memphis (192 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Geld
+tm:       22842
+source:   https://papyri.info/ddbdp/p.lond;3;1216
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    λβ ἔτους Λουκίου Αἰλίου Αὐρηλίου Κομμόδου Καίσαρος
+r.2    τ[οῦ] κυρίου Παῦνι. διέγραψεν Αἰμιλλίῳ πράκτορι ἀργυρικῶν Μέμφεως
+r.3    Ὀρ[σε]νοῦφις Πααπις λαογραφίας δραχμὰς ὀκτὼ , μερισμοῦ
+r.4    φυλάκτρου γ πεντώβολον γίνονται ια πεντώβολον
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

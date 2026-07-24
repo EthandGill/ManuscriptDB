@@ -1,0 +1,32 @@
+[META]
+id:       BGU 2.469
+label:    BGU 2.469
+name:     Contract — unbekannt
+genre:    contracts
+date:     159 CE – 160 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Contract from unbekannt (159 CE – 160 CE)
+# hgv-keywords: Vertrag — Kauf — Kamel — Zeichen (Brand)
+tm:       20169
+source:   https://papyri.info/ddbdp/bgu;2;469
+lat:      
+lon:      
+
+[GREEK]
+r.1    Ἡ[λιόδ]ωρος Διδύμου τοῦ Ἡφαιστίωνος Σωσικόσμι[ος] ὁ καὶ Ἀλθαιέους Στοτοήτει Στοτοήτεως χαίρειν. ὁμολογῶ πεπρακέναι σοι κ[ά]μη[λο]ν ἄρρενα ἄβολον λευκὸν κ[ε]χαραγμέ[ν]ον ἐπὶ τῷ δεξιῷ μηρῷ σίγμα καὶ παράσημον ἐπὶ τῷ αὐτῷ μηρῷ καὶ δε[ξι]ῷ τραχήλῳ σίγμα καὶ ἐν τῷ στήθει καυτή[ρ]ιον,
+r.2    καὶ ἀπέχω παρὰ σοῦ τὴν συνπεφωνημένην τιμὴν
+r.3    ἀργυρίου δραχμὰς ἑξακοσίας ὀγδοήκοντα δραχμὰς χπ καὶ βεβαιώσω σοι πάσῃ βεβαιώσει
+r.4    ἔτους κγ Αὐτ[οκ]ράτορος [Καί]σαρος Τίτ[ου] Αἰλ[ίου Ἁδρι]ανοῦ
+r.5    Ἀν[τωνίνου Σε]βα[στοῦ Εὐσ]εβοῦς …
+
+[TRANSLATION]
+# HGV-EN: He[liod]oros, son of Didymos, the son of Hephaistion, of the Sosicosmian tribe and of the Althaean deme, to Stotoetis, son of Stotoetis, greetings. I acknowledge that I have sold to you a white male camel, which has not shed its first teeth, branded on its right haunch with a Sigma and a distinguishing mark on the same haunch and on the right of its neck a Sigma and on its chest a burn mark and I have received from you the price agreed upon of six hundred and eighty silver drachmas, (=) 680 drachmas, and I shall guarantee (the sale) to you with every guarantee. Year 23 of Imperator Caesar Tit[us]Ael[ius Hadri]anus An[toninus] Augustus Pius .
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

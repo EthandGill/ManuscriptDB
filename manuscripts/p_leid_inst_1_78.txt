@@ -1,0 +1,32 @@
+[META]
+id:       P.LEID.INST 1.78
+label:    P.LEID.INST 1.78
+name:     Receipt — unbekannt
+genre:    receipts
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Receipt from unbekannt (601 CE – 700 CE)
+# hgv-keywords: Quittung — Geld — Getreide
+tm:       38783
+source:   https://papyri.info/ddbdp/p.leid.inst;1;78
+lat:      
+lon:      
+
+[GREEK]
+r.1    χρυσο[ῦ νο]μι[σ]μ[άτια τριάκοντα τέ]σσ[α]ρ[α] γίνεται χρ[υ]σοῦ ν[ομισμάτια] λδ
+r.2    ὁμοίως σίτου ἀρτάβας [ὀ]γδοήκοντα μέτρῳ τοῦ Θε ὁμοῦ γίνονται σίτου ἄρταβαι π
+r.3    καὶ χρυσοῦ νομισμάτια λδ μόνα. γρ μηνὸς Μεχεὶρ γ ἰ[ν]δικτίονος ιγ.
+r.4    Δανιῆλ στοιχεῖ. Μακάριος νοτάριος ἔγραψα καὶ στοιχεῖ.
+r.5    Μακάρε στοιχεῖ.
+
+[TRANSLATION]
+# HGV-EN: - - - thirty-four gold solidi, total gld. sol. 34, as well as eighty artabas of wheat (m sured) with the measure of The-, together this totals 80 art. wheat and 34 gld. sol. in Written on the 3rd of the month Mecheir, in the 13th indiction. Daniel agrees. Makarios, stenographer and scribe, agrees. Makare agrees.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       O.CAIR 111
+label:    O.CAIR 111
+name:     Receipt — Theben
+genre:    receipts
+date:     138 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (138 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       73459
+source:   https://papyri.info/ddbdp/o.cair;;111
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν κωμῶν γενήματος κβ ἔτους Ἁδριανοῦ
+r.2    Καίσαρος τοῦ κυρίου Παῦνι ε ὑπὲρ Χάρακος ὀνόματος
+r.3    Πακοίβιος Πετενεφώτου Ἡρᾶτος διὰ Ἀπολ
+r.4    πυροῦ ἀρτάβην μίαν, γίνεται πυροῦ ἀρτάβη α. Γάιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

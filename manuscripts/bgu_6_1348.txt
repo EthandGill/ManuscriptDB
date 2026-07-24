@@ -1,0 +1,30 @@
+[META]
+id:       BGU 6.1348
+label:    BGU 6.1348
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     93 BCE – 92 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (93 BCE – 92 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       4655
+source:   https://papyri.info/ddbdp/bgu;6;1348
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους κβ τέτακται ἐπὶ τὴν ἐν Ἀπόλλωνος πόλει τῆι μεγάλῃ
+r.2    τράπεζαν ἀπομοίρας τοῦ αὐτοῦ ἔτους
+r.3    Παχοῦμις Ποήριος λίνυφος
+r.4    τάλαντα δύο χιλίας
+r.5    ὀκτακοσίας γίνονται τάλαντα β Αω.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

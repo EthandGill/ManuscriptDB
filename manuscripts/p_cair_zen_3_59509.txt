@@ -1,0 +1,48 @@
+[META]
+id:       P.Cair.Zen. 3.59509
+label:    P.Cair.Zen. 3.59509
+name:     Letter — Philadelphia (Arsinoites)
+genre:    letters
+date:     275 BCE – 226 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Letter from Philadelphia (Arsinoites) (275 BCE – 226 BCE)
+# hgv-keywords: Brief — Somoelis an Zenon — Wächter — Speicher — Getreide — Land — Kultivierung
+tm:       1147
+source:   https://papyri.info/ddbdp/p.cair.zen;3;59509
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    [Ζήνω]νι χαίρειν Σομοῆλ[ις φύλ]αξ ἐκ Φιλαδελφείας. κατεσπάρκα[μεν τὴ]ν τηνεῖ Ἀμανδε … ὑπάρχουσιν οὖν σοι παρʼ ἐμοῦ πυροῦ ἀρτάβαι κ
+r.2    [εἰς τὸ]ν σπόρον. ἀναφέρω [δέ σοι ταῦ]τα· καὶ μὴ ἀδικηθῶ ὑπὸ Ἐτεάρχου
+r.3    [μήτε] κατὰ τοῦτο μήτε [κατʼ ἄ]λλο μηθέν. ἐπέκλα[σεν γάρ] μου
+r.4    … ον ἀνγαρεύων δι[ὰ παντός. καλῶς ἂν οὖ]ν [ποιήσαις γρά]ψας
+r.5    [μοι ἐ]πιστολὴν πρὸς αὐ[τόν, ἵνα] πρόνοιαν ἡ[μ]ῶν ποιῆτα[ι καὶ]
+r.6    [μὴ] ἀδικώμεθα. δύνα[μα]ι δέ σοι καὶ συναγοράσαι κριθῆς ἀρτάβας Α
+r.7    [παρ]ὰ τῶν ἱππέων, π[α]ρὰ δὲ γεωργοῦ οὐθενός, ἵνα μηθεὶς
+r.8    [ἀντι]λέγηι. καὶ εἰ δυνατ[όν ἐστι]ν, προσκατασκεύασον θησαυρόν·
+r.9    [ὁ γὰρ ὑ]πάρχων οὐχ ἱκαν[ός ἐστι] χωρεῖν τὸν σῖτον τὸν ἐνιαυτὸν
+r.10   [τοῦ]τον. φυλάσσω δὲ καὶ τ[ὸν] τηνεῖ θησαυρὸν λαμβάνων οὐθέν,
+r.11   [οἱ δ]ὲ ἐκ Φιλαδελφείας δίδουσίν μοι πυροῦ ἀρτάβας α 𐅵. οὐχ ἱκανὸν οὖν
+r.12   [ἐστ]ιν οὐδὲ τὰ παιδάρια [διαβό]σκειν, εἰ μὴ αὐτός τι προσεργάζο[μαι].
+r.13   εὐτύχει.
+
+[TRANSLATION]
+# HGV-EN: To Zenon, greetings, Somoelis, phylax from Philadelphia. We have sown the [land?] of Amand[ --- ]. There belongs to you from me 20 artabas of grain for seed. I am sending these up to you; and let nothing be wronged by Etearchos, with regard to this or anything else. For he has worn me down… pressing me into service for everything. Therefore, you would do well to write a letter to him for me, so that he may know about us in advance, and we may not be wronged. And I am able, also, to buy up for you 1000 artabas of barley from the hippeis, but not from any farmer, so that no one may disagree (?). And if it is possible, get ready in advance another granary. For the one you have is not sufficient to contain the grain from this year. I am guarding the granary here, though I get nothing, but those from Philadelphia are giving me 1.5 artabas of grain. This, however, is not enough to feed my children, if I don’t get something in addition. Farewell. (J. Bauschatz, Law and Enforcement, pp143–144)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

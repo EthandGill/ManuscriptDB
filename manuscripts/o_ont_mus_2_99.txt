@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.99
+label:    O.ONT.MUS 2.99
+name:     Receipt — Theben
+genre:    receipts
+date:     107 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (107 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75116
+source:   https://papyri.info/ddbdp/o.ont.mus;2;99
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Ὧρος Ου …
+r.2    Χάρακος γ ἔτους δραχμὰς ἑπτὰ τριώβολον …
+r.3    τοῦ κυρίου Παῦ[νι ] …
+r.4    λζ δραχμὰς δύο τριώβ[ολον] …
+r.5    Ἀπίων σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

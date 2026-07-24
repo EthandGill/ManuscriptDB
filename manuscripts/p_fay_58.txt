@@ -1,0 +1,42 @@
+[META]
+id:       P.Fay. 58
+label:    P.Fay. 58
+name:     Receipt — Theadelphia (Arsinoites)
+genre:    receipts
+date:     155 CE – 156 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Theadelphia (Arsinoites) (155 CE – 156 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       10908
+source:   https://papyri.info/ddbdp/p.fay;;58
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ἔτους ἐννεακ[αιδεκάτο]υ
+r.2    Ἀντωνείν[ο]υ Καίσαρος
+r.3    τοῦ κυ[ρίου ] …
+r.4    διέγραψεν Ἀμμωνίῳ καὶ Πτολεμαίῳ
+r.5    καὶ τοῖς λοιποῖς ἐγλήμπτορσι
+r.6    κοπῆς καὶ τριχὸς καὶ χειροναξίου δ …
+r.7    Ἡρακλείδης Ἡρακλείδου ὑπὲρ χειροναξίου τοῦ ιθ ἔτους
+r.8    ἀργυρίου δραχμὰς
+r.9    ἕξ πεντώ[βολον] ἡμ[ιώβολον],
+r.10   γίνονται δραχμαὶ ϛ ὀβολοὶ ε 𐅵
+
+[TRANSLATION]
+# HGV-EN: The 19th year of Antoninus Caesar the lord ... Paid to Ammonius and Ptolemaeus and the rest of the farmers of the tax on cutting and hair and trade ... by Heraclides, son of Heraclides, on account of the tax on trade for the 19th year six drachmae five and a half obols of silver, total 6 dr. 5 1/2 ob.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

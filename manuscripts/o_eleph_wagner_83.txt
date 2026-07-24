@@ -1,0 +1,28 @@
+[META]
+id:       O.ELEPH.WAGNER 83
+label:    O.ELEPH.WAGNER 83
+name:     Receipt — Elephantine
+genre:    receipts
+date:     138 CE – 177 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (138 CE – 177 CE)
+# hgv-keywords: Quittung
+tm:       24258
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;83
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [ἔτους ] … [ Ἀντωνίνου Καί]σαρος τοῦ κυρίου
+r.2    … [. διέγραψεν ][Ἁρ]παῆσις Ψάιτος μητρὸς
+r.3    … [ ὑπὲρ ] … ἐπὶ λόγου δραχμὰς δέκα
+r.4    [γίνεται δραχμαὶ ι ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

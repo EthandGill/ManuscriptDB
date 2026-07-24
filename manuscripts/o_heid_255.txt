@@ -1,0 +1,36 @@
+[META]
+id:       O.HEID 255
+label:    O.HEID 255
+name:     Receipt — Theben
+genre:    receipts
+date:     191 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (191 CE)
+# hgv-keywords: Quittung — Steuer (Ersatzzahlung für Wein?)
+tm:       80473
+source:   https://papyri.info/ddbdp/o.heid;;255
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁδριανοῦ ιη τοῦ λβ ἔτους ὀνόματος
+r.2    Σενα … Πικῶτος διὰ Φατρήους
+r.3    Ἰναρῶτος καὶ Σεν … χ ὁμοίως
+r.4    ὑπὲρ … τιμ οἴνου γενήματος ιε ἔτους
+r.5    ἕως ιθ ἔτους διοικήσεως μητροπόλεως
+r.6    δραχμὰς τέσσαρας πεντώβολον χαλκοὺς 6,
+r.7    γίνονται δραχμαὶ δ πεντώβολον χαλκοῖ 6.
+r.8    Α … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

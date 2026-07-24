@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.288
+label:    O.ONT.MUS 2.288
+name:     Receipt — Theben
+genre:    receipts
+date:     142 CE – 143 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (142 CE – 143 CE)
+# hgv-keywords: Quittung — Steuern — Anachoresis
+tm:       75303
+source:   https://papyri.info/ddbdp/o.ont.mus;2;288
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Κεφάλων καὶ Παμώνθης πράκτορες ἀργυρικῶν [Ἀγορῶν βορρᾶ]
+r.2    Πετεψάιτι Πα … Φθουμ …
+r.3    μερισμοῦ ἀνακεχωρηκότων ϛ ἔτους ῥυπαρὰς δραχμὰς τέσσαρας
+r.4    γίνονται ῥυπαραὶ δραχμαὶ δ. ἔτους ϛ Ἀντωνείνου Καίσαρος
+r.5    τοῦ κυρίου … ιε …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

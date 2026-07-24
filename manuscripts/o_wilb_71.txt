@@ -1,0 +1,28 @@
+[META]
+id:       O.WILB 71
+label:    O.WILB 71
+name:     Receipt — Theben
+genre:    receipts
+date:     129 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (129 BCE)
+# hgv-keywords: Quittung — Spreu
+tm:       44210
+source:   https://papyri.info/ddbdp/o.wilb;;71
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους μα, Φαμενώθ, παραδεδώκασιν εἰς τὸ καθῆκον ἄχυρον
+r.2    Διονύσιος καὶ ὁ ἀδελφὸς μώια
+r.3    δέκα πέντε γίνονται μώια ιε.
+r.4    Προῖτος οἰκονόμος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

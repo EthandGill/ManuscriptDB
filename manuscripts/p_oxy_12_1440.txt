@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 12.1440
+label:    P.Oxy. 12.1440
+name:     Receipt — Sinkatape (Hermopolites)
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Sinkatape (Hermopolites)
+held:     
+shelf:    
+content:  Receipt from Sinkatape (Hermopolites) (120 CE)
+# hgv-keywords: Quittung — Zoll — Export
+tm:       21843
+source:   https://papyri.info/ddbdp/p.oxy;12;1440
+lat:      
+lon:      
+
+[GREEK]
+r.1    προσκεκόμικε πεντηκοστὴν τοῦ ἐνεσ[τῶτος]
+r.2    πέμπτου ἔτους Ἁδριανοῦ [Καίσαρος]
+r.3    τοῦ κυρίου ἐξαγωγῆς κώμης Σιν[κα]ταπὴ …
+r.4    Στεφάνου τῶν ἀπὸ Ἰβιῶνος Τα[ν]εκ[τύ]ρεως τήλεως ἀρταβῶν εἴκοσι πέντε
+r.5    γίνονται τήλεως ἀρτάβαι κε. ἔσχον τὸ καθῆκον τέλος
+r.6    διὰ Τοθῆτος νομοφύλακος Φαῶφι κα.
+
+[TRANSLATION]
+# HGV-EN: Paid the tax of 1/50 for the present 5th year of Hadrianus Caesar the lord on export at the village of Sin..tape by ... son of Stephanus, inhabitant of Ibion Tan.e.... reôs, upon twenty-five artabae of fenugreek, total fen. 25 art. I received the due amount of the tax through Tothes, nomophylax, on Phaophi 21.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

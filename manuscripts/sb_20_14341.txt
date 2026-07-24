@@ -1,0 +1,24 @@
+[META]
+id:       SB 20.14341
+label:    SB 20.14341
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     1 CE – 400 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (1 CE – 400 CE)
+# hgv-keywords: Namen
+tm:       26245
+source:   https://papyri.info/ddbdp/sb;20;14341
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀπολλωνία
+r.2    γυνὴ Ἀσκλᾶτος εἰς Ἑρμῶνθιν.
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 340
+label:    O.PETR.MUS 340
+name:     Documentary papyrus — Theben (?)
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (?) (101 CE – 200 CE)
+# hgv-keywords: Abrechnung — Namen — Geld
+tm:       75522
+source:   https://papyri.info/ddbdp/o.petr.mus;;340
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … ς Καρούριος δραχμαὶ ρμ
+r.2    Σεναμοῦνις Ψενενούπιος δραχμαὶ νβ
+r.3    Φατρῆς Πετεμενώφιος δραχμαὶ ξ
+r.4    [Ὡ]ρίων Ἀριστοβούλου δραχμαὶ σ
+r.5    … Φατρής δραχμαὶ σγ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

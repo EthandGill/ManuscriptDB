@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1610
+label:    O.BODL 2.1610
+name:     Receipt — Theben
+genre:    receipts
+date:     220 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (220 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       72293
+source:   https://papyri.info/ddbdp/o.bodl;2;1610
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος γ ἔτους Μάρκου Αὐρηλίου Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου Ἐπεὶφ κη ὑπὲρ Χάρακος ὀνόματος κληρονόμων
+r.3    Σποτοῦτος Ἰμούθου πυροῦ μία ἕκτον γίνεται πυροῦ ἀρτάβη α ϛ.
+r.4    Αὐρήλιος Ἀχιλλεὺς σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

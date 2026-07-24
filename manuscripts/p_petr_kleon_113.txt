@@ -1,0 +1,32 @@
+[META]
+id:       P.PETR.KLEON 113
+label:    P.PETR.KLEON 113
+name:     Documentary papyrus — Fundort: Gurob; Schreibort: Arsinoites
+genre:    documents
+date:     260 BCE – 236 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Documentary papyrus from Fundort: Gurob; Schreibort: Arsinoites (260 BCE – 236 BCE)
+# hgv-keywords: Deich — Arbeit — Geld
+tm:       388500
+source:   https://papyri.info/ddbdp/p.petr.kleon;;113
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    … [εἰ]ς Ἐλευσῖνα κ … εδε … τ αλλ …
+r.2    … [ἐ]ν τῆι διώρυγι παραφρυγα[νι] …
+r.3    [ἀ]πέναντι Ἀφροδίτης πόλεω[ς] …
+r.4    χάλικα ἐπιβαλεῖν δραχμ- νε χρηματι …
+r.5    ἔτι ἐκποιεῖ δ … ν μων …
+
+[TRANSLATION]
+# HGV-EN: [...] to Eleusis [...] in the canal [...] lying opposite Aphrodites Polis [...] to add gravel; furnish 55 dr. [...].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

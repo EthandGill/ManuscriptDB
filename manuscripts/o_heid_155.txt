@@ -1,0 +1,30 @@
+[META]
+id:       O.HEID 155
+label:    O.HEID 155
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     63 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (63 CE)
+# hgv-keywords: Quittung — Steuer (Wachtturmsteuer?)
+tm:       80378
+source:   https://papyri.info/ddbdp/o.heid;;155
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    διέγραψαν υἱῶν Παμήους Παήριος
+r.2    ὑπὲρ μαγδώλων Μεμνονείων θ ἔτους
+r.3    δραχμὰς β τετρώβολον
+r.4    αἱ καθαραὶ δραχμὰς β τριώβολον. ἔτους ι Νέρωνος
+r.5    τοῦ κυρίου Χοιὰκ γ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

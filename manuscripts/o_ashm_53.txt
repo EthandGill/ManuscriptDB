@@ -1,0 +1,30 @@
+[META]
+id:       O.ASHM 53
+label:    O.ASHM 53
+name:     Receipt — Theben
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (144 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       70502
+source:   https://papyri.info/ddbdp/o.ashm;;53
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ζ ἔτους Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου Θὼθ ιδ τοῦ
+r.3    η ἔτους ὑπὲρ Χάρακος ὀνόματος Ὧρος Ποριεύθου
+r.4    Ὥρου πυροῦ τρίτον δωδέκατον
+r.5    γίνεται πυροῦ γ ιβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

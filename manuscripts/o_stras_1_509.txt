@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.509
+label:    O.STRAS 1.509
+name:     Documentary papyrus — Theben (?)
+genre:    documents
+date:     119 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (?) (119 BCE)
+# hgv-keywords: Anweisung — Lieferung — Getreide
+tm:       76096
+source:   https://papyri.info/ddbdp/o.stras;1;509
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Κόνων καὶ οἱ μέτοχ[οι ] …
+r.2    μέτρησον Πτολε[μαίῳ ] …
+r.3    πυροῦ ἀρτάβας εἴκοσι …
+r.4    ἔτους να Φαμενὼθ β.
+r.5    Ἑρμογένης …
+r.6    εὐδοκῶ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

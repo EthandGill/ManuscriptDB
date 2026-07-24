@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1113
+label:    O.BODL 2.1113
+name:     Receipt — Theben
+genre:    receipts
+date:     176 CE – 225 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (176 CE – 225 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71800
+source:   https://papyri.info/ddbdp/o.bodl;2;1113
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παῦνι κϛ ὀνόματος Μάρκου
+r.2    Κλωδίου Βαλερίωνος ὑπὲρ
+r.3    στεφανικοῦ Χάρακος δραχμὰς ὀκτὼ γίνονται δραχμαὶ η.
+r.4    Ἀλέξανδρος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

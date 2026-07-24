@@ -1,0 +1,46 @@
+[META]
+id:       P.RYL 4.557
+label:    P.RYL 4.557
+name:     Letter — Philadelphia (Arsinoites)
+genre:    letters
+date:     257 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Letter from Philadelphia (Arsinoites) (257 BCE)
+# hgv-keywords: Brief (privat) — Numenios an Zenon — Verabredung — Geburtstag des Königs
+tm:       2413
+source:   https://papyri.info/ddbdp/p.ryl;4;557
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    Νουμήνιος Ζ[ήν]ωνι χαίρειν. [πα]ρὰ τὸ γεγραφέ[ναι ἡ]μῖν Ἀπολλώνιον συνα[ντῆσαι αὐτῶι]
+r.2    εἰς Μέμφιν τῆ[ι] β ἠναγκά[σμε]θα περι[ο]δεύ[ειν] τὸν νομὸν οὐθενὶ
+r.3    κόσμωι, ὅπ[ως ὅ τι τάχος]
+r.4    ἕτοιμοι ὦμεν τὸν ἀνάπλ[ουν] ποιεῖσθαι. καλ[ῶς] ἂν οὖν ποιήσαις γράψα[ς ἡμῖν πόσας]
+r.5    ἔτι ἡμέρας μενεῖ ἐν τῶι Μ[ενδ]ησίωι καὶ πότε [τὸν] ἀνάπλουν εἰς Μέμφιν [ποιήσεται],
+r.6    εὐθέως δὲ καὶ τὰ γενέθλια τοῦ [βα]σιλέως ποῦ δι[έγν]ωκεν ἄγειν καὶ τίνι ἡ[μέραι ὡς τῶν]
+r.7    Αἰγυπτίων ἡ θυσία ἔσται, ὅ[πως] εἰδῶμεν.
+r.8    ἔρρωσο. ἔτους κθ Μεχὶρ ιζ
+r.9    Ζήνω[νι]
+r.10   Νουμήνιος περὶ συναντήσεως τῆς
+r.11   εἰς Μέμφιν. ἔτους κη Δύστρου κ,
+r.12   ἐν Μέμφει.
+
+[TRANSLATION]
+# HGV-EN: ‘Numenius to Zenon, greeting. Owing to Apollonius having written to me to meet him at Memphis on the 2nd I have been obliged to travel round the nome without any method, in order that I might be ready to sail up immediately. Please, then, write to me how many more days he is going to remain in the Mendesian nome and when he will sail up to Memphis, and tell me also directly where he has decided to celebrate the king’s birthday and on what day in the Egyptian calendar the sacrifice will take place, in order that I may know. Farewell. Year 29, Mecheir 17. (Addressed) to Zenon. (Docketed) Numenius about meeting at Memphis. Year 28, Dystrus 20, in Memphis.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

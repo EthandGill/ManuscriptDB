@@ -1,0 +1,36 @@
+[META]
+id:       BGU 1.82
+label:    BGU 1.82
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     185 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (185 CE)
+# hgv-keywords: Vermerk (Akte) — dem Antrag eines Priesters auf Beschneidung seines Sohnes wurde nach Prüfung dessen Merkmale stattgegeben
+tm:       9124
+source:   https://papyri.info/ddbdp/bgu;1;82
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔ[τους] κϛ Αὐρηλίου Κομμόδου Ἀντωνίνου Καίσ[αρος τ]οῦ κυρίου
+r.2    [Θὼ]θ κα.
+r.3    Πα[κῦσ]ις Στοτοῆτος νεωτέρου τοῦ Στοτο[ή]τεω[ς] ἱερεὺς προσαγαγὼν τὸν υἱὸν ἑαυτοῦ Ὧρον ἐκ μητρὸς Φα[υ]ῆτος ἀπὸ
+r.4    τῆς [Ἡρ]ακλείδου μερίδος τοῦ Ἀρσινοίτου, ἀ[ξι]ῶν ἐπιτραπῆν[αι] αὐτῷ περιτμηθῆναι τὸν υἱὸν αὐτοῦ δ[ι]ὰ τὸ παρατεθ[εῖ]σθαι τὰς τοῦ γένους ἀποδείξει[ς] τῷ τοῦ νομοῦ βασιλικῷ
+r.5    διαδ[ε]χομένῳ τὴν στρατηγίαν καὶ [ἀναδοὺς] [τ]ὴν περὶ αὐτοῦ γραφεῖσαν
+r.6    ἐπιστ[ολ]ήν, Ἰουλιανὸς ἐπύθετο τῶν ἱ[ερ]ογραμμ[ατ]έων, εἴ τι σημεῖον ἔχ[ει] ὁ παῖς. εἰπόντων ἄσημον αὐτὸν εἶναι Σάλουιος Ἰουλιαν[ὸ]ς ἀρχιερεὺς καὶ ἐπὶ τῶν ἱερῶν παρασημειωσάμενος τὴν
+r.7    ἐπιστο[λὴ]ν ἐκέλευσεν τὸν παῖδα περιτμηθῆναι κατὰ τὸ ἔθος.
+
+[TRANSLATION]
+# HGV-EN: Year 26 of Aurelius Commodus Antoninus Caesar, the lord, [Tho]th 21. Pa[kys]is, son of Stotoetis the younger, the son of Stotoetis, priest, having presented my own son Horos from his mother Pha[u]es from the Herakleides division of the Arsinoite nome, requesting that permission be given to him that his son should be circumcised because he has produced certificates of birth to the royal (scribe) of the nome, who is administering the office of the strategos, and <having submitted> a letter written concerning him, Ioulianos enquired of the keepers of the sacred records, whether the boy has any blemish. Upon their saying that he is without a blemish Salvius Ioulianos, high-priest and minister for the temple administration, by appending his signature to the letter gave permission for the boy to be circumcised in accordance with custom.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

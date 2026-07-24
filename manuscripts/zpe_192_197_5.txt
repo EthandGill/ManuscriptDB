@@ -1,0 +1,32 @@
+[META]
+id:       ZPE 192.197_5
+label:    ZPE 192.197_5
+name:     Receipt — Elephantine
+genre:    receipts
+date:     150 CE – 158 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (150 CE – 158 CE)
+# hgv-keywords: Quittung — Steuer (Landvermessungssteuer, geometria) — Geld
+tm:       382555
+source:   https://papyri.info/ddbdp/zpe;192;197_5
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Στλάκκιος μισθωτὴς ἱερ[ᾶς πύλης Σοήνης]
+r.2    διὰ Παχνούβιος Πε[τορζμήθιος] [βοηθοῦ. διὲγραψεν]
+r.3    Παχομπαψενος Χε[μσνεῦτος]
+r.4    ὑπὲρ γεωμετρίας φοινικῶνος γενήματος … [ἔτους]
+r.5    [δραχμὰς] [ὀ]κτὼ γίνονται δραχμαὶ η ἔτους … [Ἀντωνίνου]
+r.6    [Καίσαρος τοῦ] κυρ[ίου] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

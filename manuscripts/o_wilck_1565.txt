@@ -1,0 +1,24 @@
+[META]
+id:       O.Wilck. 1565
+label:    O.Wilck. 1565
+name:     Receipt — Theben
+genre:    receipts
+date:     66 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (66 CE)
+# hgv-keywords: Quittung — Geld
+tm:       77859
+source:   https://papyri.info/ddbdp/o.wilck;;1565
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    κυνηγίδων ιγ ἔτους Χάρακος μηνὸς Νέου Σεβαστοῦ λϛ
+r.2    Ἑρμίας Ἐπωνύχου ῥυπαροὺς ὀβολοὺς η. Ἡρακ.
+
+[TRANSLATION]
+1     
+2     

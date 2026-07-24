@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 9.1186
+label:    P.Oxy. 9.1186
+name:     Documentary papyrus — Thebais
+genre:    documents
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Thebais
+held:     
+shelf:    
+content:  Documentary papyrus from Thebais (301 CE – 400 CE)
+# hgv-keywords: Erlaß des Aurelius Herodes praeses von Thebais — Auspeitschen als Strafe bei freien Männern nicht zulässig
+tm:       33595
+source:   https://papyri.info/ddbdp/p.oxy;9;1186
+lat:      26.25
+lon:      32.75
+
+[GREEK]
+r.1    Αὐρήλιος Ἡρώδης ὁ διασημότατος ἡγούμενος
+r.2    Θηβαΐδος λέγει· τὸ τὴν διὰ τῶν ἱμάντων ληταρι … ων ἐπιχωρίως οὕτω καλουμένων αἰκίαν ὑπομένειν ἐστὶν μὲν καὶ ἐπὶ τῶν δουλικὴν τύχην εἰληχότων ἀνιαρόν, οὐ μὴν κατὰ
+r.3    τὸ παντελὲς ἀπ ηγορευμένον, ἐλευθέρους δὲ
+r.4    ἄνδρας τοιαύτην ὕβριν ὑπομένειν οὔτε τοῖς
+r.5    [νόμοις] ἀκόλ[ου]θον ἀδικίαν τε [ἔ]χον ἐστὶν ἐν
+r.6    … ατε
+
+[TRANSLATION]
+# HGV-EN: Edict of Aurelius Herodes, most honourable praeses of the Thebaid. Subjection to the punishment of scourging, called in the native speech ..., is even for those of servile estate lamentable though not entirely forbidden; but for free men to be submitted to such an outrage is contrary to the laws and an injustice...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,36 @@
+[META]
+id:       BGU 3.718
+label:    BGU 3.718
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     102 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (102 CE)
+# hgv-keywords: Quittung — Steuern für ein Kalb (Opfer)
+tm:       9316
+source:   https://papyri.info/ddbdp/bgu;3;718
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἔτους πέμπτου Αὐτοκράτορος Καίσαρος
+r.2    Νέρουα Τραϊανοῦ Σεβαστοῦ Γερμανικοῦ
+r.3    Φαμενὼθ κθ. διέγραψε Σαταβοῦς Νεστνήφιος … τῆς
+r.4    Σοκνοπαίου Νήσου
+r.5    τέλος μόσχου ἑνὸς θυομένου ἐν τῇ
+r.6    Νήσωι τῇ ἐνάτῃ καὶ εἰκάδι
+r.7    ἔτους ε Τραι[ανοῦ Καίσ]αρος τοῦ κυρίου
+
+[TRANSLATION]
+# HGV-EN: Year five of Imperator Caesar Nerva Traianus Augustus Germanicus, Phamenoth 29. Satabous, son of Nestnephis from the village of Soknopaiou Nesos, paid for the tax on a calf, which is to be sacrificed in (Soknopaiou) Nesos on the twenty ninth. Year 5 of Trai[anus Caes]ar, the lord.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

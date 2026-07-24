@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.179
+label:    O.ONT.MUS 2.179
+name:     Receipt — Theben
+genre:    receipts
+date:     157 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (157 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75198
+source:   https://papyri.info/ddbdp/o.ont.mus;2;179
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [μέτρημα] θησαυροῦ μητροπόλεως γενήματος κ ἔτους Ἀντωνίνου
+r.2    [τοῦ] κυρίου Σεβαστοῦ Ἐπεὶφ α ὑπὲρ Ἀγορῶν ὀν[όματος]
+r.3    [Τε]ῶτος Ὥρου Σποτοῦτος …
+r.4    [πυροῦ ἀρτάβης] τρίτον ιβ γίνεται πυροῦ ἀρτάβης γ ιβ Ψ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,32 @@
+[META]
+id:       O.EREM 18
+label:    O.EREM 18
+name:     Receipt — Theben
+genre:    receipts
+date:     127 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (127 CE)
+# hgv-keywords: Quittung — Steuern (Getreide)
+tm:       18299
+source:   https://papyri.info/ddbdp/o.erem;;18
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα εἰς θησαυρὸν κωμῶν γενήματος ια ἔτους Ἁδριανοῦ
+r.2    Καίσαρος τοῦ κυρίου Ἐπεὶφ λ ὀνόματος
+r.3    Σωτηρίωνος νεωτέρου
+r.4    Παχνούβιος ὑπὲρ Χάρακος
+r.5    πυροῦ τέσσαρες τρίτον γίνονται πυροῦ δ γ.
+r.6    Ι σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

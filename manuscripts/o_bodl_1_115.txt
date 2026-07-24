@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 1.115
+label:    O.BODL 1.115
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     131 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (131 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       43595
+source:   https://papyri.info/ddbdp/o.bodl;1;115
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους λθ Τῦβι ε τέτακται εἰς τὸ ἐννόμιον
+r.2    τοῦ αὐτοῦ ἔτους ἀρνεῖα ϛ
+r.3    Ψεναμενῶφις Ἑριέως χαλκοῦ ὀκτακοσίας γίνονται ω.
+r.4    Τρ … τελώνης.
+r.5    … ωσιος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

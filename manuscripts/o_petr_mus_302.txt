@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 302
+label:    O.PETR.MUS 302
+name:     Receipt — Theben (Charax)
+genre:    receipts
+date:     80 CE
+language: Greek (Koiné)
+found:    Theben (Charax)
+held:     
+shelf:    
+content:  Receipt from Theben (Charax) (80 CE)
+# hgv-keywords: Quittung — Steuer (Deichsteuer)
+tm:       75337
+source:   https://papyri.info/ddbdp/o.petr.mus;;302
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψε Φαρ[ῆς Πετεχνούβιος] …
+r.2    ὑπὲρ χωματικοῦ Χάρακος β [ἔτους] …
+r.3    ἔτους γ Τίτου τοῦ κ[υρίου μηνὸς]
+r.4    Σεβαστοῦ λ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.846
+label:    O.BODL 2.846
+name:     Receipt — Theben
+genre:    receipts
+date:     130 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (130 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71535
+source:   https://papyri.info/ddbdp/o.bodl;2;846
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φθουμῖνις ἀπαιτητὴς μερισμοῦ
+r.2    ποταμοφυλακίδων Σποτοῦτι Παχνούμιος
+r.3    Σποτοῦτος. ἔσχον ὑπὲρ μερισμοῦ δραχμὴν
+r.4    μίαν . ἔτους ιε Ἁδριανοῦ Καίσαρος
+r.5    τοῦ κυρίου Θὼθ ιγ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

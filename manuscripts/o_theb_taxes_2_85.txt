@@ -1,0 +1,24 @@
+[META]
+id:       O.THEB.TAXES 2.85
+label:    O.THEB.TAXES 2.85
+name:     Receipt — Theben
+genre:    receipts
+date:     251 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (251 BCE)
+# hgv-keywords: Quittung — Steuer (Öl)
+tm:       49112
+source:   https://papyri.info/ddbdp/o.theb.taxes;2;85
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παχωνς ἐλαίου
+r.2    τιμὴ τετρώβολον
+
+[TRANSLATION]
+1     
+2     

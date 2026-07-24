@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 1.35
+label:    O.EDFOU 1.35
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     79 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (79 CE)
+# hgv-keywords: Quittung — Abgabe — Geld
+tm:       46975
+source:   https://papyri.info/ddbdp/o.edfou;1;35
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    διέγραψεν Τρυφᾶς Νίκωνος
+r.2    τιμῆς δηναρίων δύο
+r.3    Ἰουδαίων ια ἔτους Οὐεσπασιανοῦ
+r.4    δραχμὰς η διώβολον ἀπαρχῆς α ἔτους ια Φαρμοῦθι
+r.5    ι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

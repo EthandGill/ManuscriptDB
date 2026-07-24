@@ -1,0 +1,30 @@
+[META]
+id:       CDE 88.106
+label:    CDE 88.106
+name:     Receipt — Pathyris ? (Pathyrites ?)
+genre:    receipts
+date:     107 BCE
+language: Greek (Koiné)
+found:    Pathyris ? (Pathyrites ?)
+held:     London
+shelf:    
+content:  Receipt from Pathyris ? (Pathyrites ?) (107 BCE)
+# hgv-keywords: Quittung — Weinberg — Geld — prostimon
+tm:       44926
+source:   https://papyri.info/ddbdp/cde;88;106
+lat:      25.369659
+lon:      32.473946
+
+[GREEK]
+r.1    ἔτους ι Μεχεὶρ κε τέτακται ἐπὶ τὴν ἐν Ἑρμώνθει τράπεζαν
+r.2    ἐφ’ ἧς Διονύσιος προστίμου θ ἔτους Ὧρος Νεχούθου
+r.3    [τάλαντα] [τρί]α γίνονται τάλαντα γ [καὶ τὰ καθήκοντα τ]έλη·
+r.4    Διονύσιος τρ[απεζίτης] τάλαντα δ Ασ.
+
+[TRANSLATION]
+# HGV-EN: Year 10, 25 Mecheir. Has paid to the bank at Hermonthis, headed by Dionysios, for the prostimon of year 9, Horos, son of Nechouthes, three talents, that are 3 talents, and the taxes due, Dionysios banker, (total:) 4 talents 1200 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     Year 10, Mecheir 25. Has been paid to the bank in Hermonthis
+2     on which Dionysios, for the prostimon of year 9, Horos, son of Nechouthes
+3     [talents] [three], are talents 3, [and the taxes due]
+4     Dionysios bank[er], talents 4 1200 drachmas

@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.26
+label:    O.EDFOU 1.26
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     68 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (68 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       46966
+source:   https://papyri.info/ddbdp/o.edfou;1;26
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Διοφάνης Νίκωνος τιμῆς πυροῦ ἀρτάβης α 𐅵
+r.2    δραχμὰς θ διώβολον ἔτους β Γάλβα
+r.3    τοῦ κυρίου Θὼθ
+r.4    ιη
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

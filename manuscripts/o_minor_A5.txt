@@ -1,0 +1,26 @@
+[META]
+id:       O.MINOR A5
+label:    O.MINOR A5
+name:     Receipt — Theben
+genre:    receipts
+date:     179 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (179 CE)
+# hgv-keywords: Quittung
+tm:       74988
+source:   https://papyri.info/ddbdp/o.minor;;A5
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ λ τοῦ ιθ ἔτους ὀνόματος
+r.2    Τατήους Κύσιος καὶ Ν … μ … Ὀσορουήριος
+r.3    δραχμὰς ὀκτὼ γίνονται δραχμαὶ η. Ψανσνῶς Κρονίου σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

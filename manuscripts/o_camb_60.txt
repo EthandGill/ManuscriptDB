@@ -1,0 +1,30 @@
+[META]
+id:       O.CAMB 60
+label:    O.CAMB 60
+name:     Receipt — Theben
+genre:    receipts
+date:     129 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (129 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       73539
+source:   https://papyri.info/ddbdp/o.camb;;60
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πανομιεῦς Ἀπολλωδώρου … χ … μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    ἄνδρες λθ πυροῦ νε Πανομιεῖ Ἀπολλωδώρου μητρὸς Σενμούθου.
+r.3    ἔσχομεν ὑπὲρ βαλανευτικοῦ τοῦ ιγ ἔτους Ἁδριανοῦ
+r.4    τοῦ κυρίου Φαμενὼθ
+r.5    … β.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

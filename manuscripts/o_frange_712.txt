@@ -1,0 +1,30 @@
+[META]
+id:       O.FRANGE 712
+label:    O.FRANGE 712
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     601 CE – 800 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (601 CE – 800 CE)
+# hgv-keywords: Reçu de taxe — Dêmosion des îles — Archives de Frangé (?)
+tm:       220250
+source:   https://papyri.info/ddbdp/o.frange;;712
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ⲃⲁⲥⲓⲗⲉ … ⲧⲏⲥ ⲉϥⲥϩ[ⲁⲓ]
+r.2    ⲛ̅ϫⲱⲕⲣⲉ ϫⲉ ⲉⲥ ⲟⲩⲡⲏϣⲉ ⲛὁλοκόττινος ⲁⲕⲧⲓⲥ ⲛⲁⲓ ϩⲁ ⲡδημόσιον ⲛ̅ⲧⲉⲕⲙⲟⲩⲉ ϩⲛ̅
+r.3    ⲧⲉⲣⲟⲙⲡⲉ ⲧⲁⲓ δεύτερας ἰνδικτιόνος ⲛⲧⲁⲕⲧⲓϥ
+r.4    ⲛ̅ⲧⲉϩⲉ ⲙⲉⲭⲓⲣ ⲓ̅ⲅ̅ νόμισμα 𐅵
+r.5    ⲃⲁⲥⲓⲗⲉ στοιχεῖ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 170
+label:    O.LEID 170
+name:     Receipt — Koptos
+genre:    receipts
+date:     14 BCE
+language: Greek (Koiné)
+found:    Koptos
+held:     
+shelf:    
+content:  Receipt from Koptos (14 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24726
+source:   https://papyri.info/ddbdp/o.leid;;170
+lat:      25.9967
+lon:      32.8167
+
+[GREEK]
+r.1    διαγέγραφε διὰ τῆς … τραπέζης ὑπὲρ
+r.2    λαογραφίας ιζ ἔτους Φρουρίου Φοινικῶνος Ψενοσῖρις
+r.3    Ἀπολλῶτος δραχμὰς η …
+r.4    ἔτους ιζ Καίσαρος Χοίακ λ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       P.LIPS 1.77
+label:    P.LIPS 1.77
+name:     Receipt — Theben
+genre:    receipts
+date:     200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (200 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       22387
+source:   https://papyri.info/ddbdp/p.lips;1;77
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κωμῶν γενήματος η ἔτους Λου[κί]ου
+r.2    Σεπτιμίου Σεουήρου καὶ Μάρκου
+r.3    Αὐρηλίου Ἀντωνίνου Σεβ[α]στῶν
+r.4    Παῦνι κζ ὑπὲρ Χάρακος ὀνόματος Παμώνθης
+r.5    Ταναμέως πυροῦ δύο γίνονται πυροῦ ἀρτάβαι β. Π σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

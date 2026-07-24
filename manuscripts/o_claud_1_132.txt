@@ -1,0 +1,24 @@
+[META]
+id:       O.CLAUD 1.132
+label:    O.CLAUD 1.132
+name:     Letter — Mons Claudianus
+genre:    letters
+date:     107 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Letter from Mons Claudianus (107 CE)
+# hgv-keywords: Brief — Hierax an Successus — Bitte um Beile
+tm:       24144
+source:   https://papyri.info/ddbdp/o.claud;1;132
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ἱέραξ Σουκκέσσῳ χαίρειν.
+r.2    εὖ ποιήσεις δοὺς ἀκίσκλους πέντε ἐστελεωμένους ἐπεὶ οἱ ἀκισκλάριοι οὐκ ἔχουσι πῶς ἐργάζωνται.
+
+[TRANSLATION]
+1     
+2     

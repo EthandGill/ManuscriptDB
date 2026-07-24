@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 12.1447
+label:    P.Oxy. 12.1447
+name:     Receipt — Pela (Oxyrhynchites)
+genre:    receipts
+date:     44 CE
+language: Greek (Koiné)
+found:    Pela (Oxyrhynchites)
+held:     
+shelf:    
+content:  Receipt from Pela (Oxyrhynchites) (44 CE)
+# hgv-keywords: Quittung — Zahlung von Abgaben — Getreide — Artaben
+tm:       21848
+source:   https://papyri.info/ddbdp/p.oxy;12;1447
+lat:      28.470193
+lon:      30.663126
+
+[GREEK]
+r.1    ἔτους δ Τιβερίου Κλαυδίου Καίσαρος [Σεβασ]τοῦ
+r.2    Γερμανικοῦ Αὐτοκράτορος Ἐπεὶφ κα [Σε]βαστῇ. Θέων
+r.3    ὁ σιτολογῶν τοὺς περὶ Πέλα τόπους μεμέτρημαι παρὰ Αρ … ς τῆς
+r.4    Φατρέως Ἀπολλωνίου διὰ Ἡρᾶτος Ὀννώφρεως πυροῦ σύμπαντι δ[ημοσίῳ] [μέτρῳ] [ξυσ]τῷ κανκέλλῳ ἀρτάβας ἕνδεκα τέταρτον καὶ τ[ὰς ][δεο]ύσας
+r.5    ἀντὶ τῆς κακομετρίας ἑκατοστὰς [τ]έσσαρας.
+r.6    δ ἔτους Τ[ι]βερίου [Κλαυδίο]υ [Καί]σαρος.
+
+[TRANSLATION]
+# HGV-EN: The 4th year of Tiberius Claudius Caesar Augustus Germ. Imp., Epeiph 21, des Augustus. I, Theon, sitologus of the district of Pela, have had measured to me by Ar... daughter of Phatris son of Apollonius through Heras son of Onnophris 11 1/4 artabae of wheat in all, by the cuscecancellus measure, and the 4 hundredths required as compensation for the faulty measure. (Endorsed) The 4th year of Tiberius Claudius Caesar.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,42 @@
+[META]
+id:       P.RYL 4.561
+label:    P.RYL 4.561
+name:     Letter — Philadelphia (Arsinoites)
+genre:    letters
+date:     251 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Letter from Philadelphia (Arsinoites) (251 BCE)
+# hgv-keywords: Brief (privat) — Etearchos an Zenon — Deicharbeiten
+tm:       2417
+source:   https://papyri.info/ddbdp/p.ryl;4;561
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    Ἐτέαρχος Ζήνωνι
+r.2    χαίρειν. ἐπειδὴ
+r.3    τὸ ὕδωρ ἀφεῖτ[αι],
+r.4    ἡμεῖς δὲ ἐπὶ τοῦ
+r.5    παρόντος οὐ χρείαν
+r.6    ἔχομεν, καλῶς ποιήσεις διαχώσας
+r.7    ἵνα τά τε ἔργα συντελεσθῆι καὶ τὰ
+r.8    ἅμμινα ἀνακαθαρθῆι.
+r.9    ἔρρωσο. ἔτους λε Παῦνι …
+r.10   Ζήνωνι.
+
+[TRANSLATION]
+# HGV-EN: ‘Etearchus to Zenon, greeting. As the water has been released, and as we have no need of it at present, please dam up the outlet in order that the works may be completed and the outcrops of sand cleared away. Farewell. Year 35, Pauni. (Addressed) To Zenon.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.775
+label:    O.BODL 2.775
+name:     Receipt — Theben
+genre:    receipts
+date:     141 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (141 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71464
+source:   https://papyri.info/ddbdp/o.bodl;2;775
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Αἰλουρίων πράκτωρ ἀργυρικῶν Χάρακος Πικῶτι
+r.2    Πεκύσιος Φαήριος. ἔσχον ὑπὲρ μερισμοῦ τελωνικῶν
+r.3    δ ἔτους ῥυπαρὰς δραχμὰς τέσσαρας γίνονται δραχμαὶ δ. ἔτους δ
+r.4    Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.5    Μεσορὴ ιε. Αἰλουρίων διὰ Μενχήους σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

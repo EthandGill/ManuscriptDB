@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.513
+label:    O.BODL 2.513
+name:     Receipt — Theben
+genre:    receipts
+date:     98 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (98 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71211
+source:   https://papyri.info/ddbdp/o.bodl;2;513
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Παθώτης Ψεναμούνιος
+r.2    Κιτοίτου ὑπὲρ λαογραφίας Χάρακος β ἔτους
+r.3    δραχμὰς δέκα βαλανευτικοῦ α ὀβολὸν α 𐅵 γίνονται δραχμαὶ ια ὀβολὸς α 𐅵
+r.4    καὶ προσδιαγραφόμενα. ἔτους β Νέρουα τοῦ κυρίου
+r.5    Φαμενὼθ λ‡ιζ. Φίλων σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

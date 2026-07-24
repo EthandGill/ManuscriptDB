@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 286
+label:    O.PETR.MUS 286
+name:     Receipt — Koptos
+genre:    receipts
+date:     4 BCE
+language: Greek (Koiné)
+found:    Koptos
+held:     
+shelf:    
+content:  Receipt from Koptos (4 BCE)
+# hgv-keywords: Quittung — Steuer (Geldwert für Weizen, Gerste?, Rizinus) — Bank
+tm:       75459
+source:   https://papyri.info/ddbdp/o.petr.mus;;286
+lat:      25.9967
+lon:      32.8167
+
+[GREEK]
+r.1    [διαγέγραφε διὰ] τῆς Ἑρμίου τραπέζης ὑπὲρ
+r.2    [τιμῆς πυροῦ ἀρταβῶν διοικήσεως κε] ἔτους κάτω τοπαρχίας Ἁρυώθης
+r.3    … α ἡμιωβέλιον καὶ κρότωνος αη
+r.4    … ἀρταβων βη δραχμὰς ζ διώβολον ἡμιωβέλιον.
+r.5    [ἔτους κϛ Καίσαρος Τ]ῦβι λ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,34 @@
+[META]
+id:       BGU 1.334
+label:    BGU 1.334
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (101 CE – 300 CE)
+# hgv-keywords: Quittungen — Steuern — Spreu — Geld
+tm:       28254
+source:   https://papyri.info/ddbdp/bgu;1;334
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    β ἔτους Ἀφροδισί[ῳ] πρεσβυτέρῳ κώμης
+r.2    Καρανίδος Ἀγχῶφις ὑπὲρ μονοδεσμοῦ
+r.3    χόρτων καὶ ἄλλων εἰδῶν δραχμὰς
+r.4    ὀκτὼ γίνονται δραχμαὶ η. Μεσορὴ η ἄλλας
+r.5    δραχμὰς ὀκτὼ γίνονται δραχμαὶ η. Θὼθ
+r.6    ἄλλας δραχμὰς ὀκτὼ γίνονται δραχμαὶ η. Φαῶφι ἄλλας δραχμὰς ὀκτὼ γίνονται δραχμαὶ η.
+
+[TRANSLATION]
+# HGV-EN: Year 2. (Paid) to Aphrodisios, elder of the village of Karanis (by) Anchophis for monodesmia of hay and other dues eight drachmas, = eight drachmas; Mesore 8 a further eight drachmas, = 8 drachmas; (m. 2) Thoth a further eight drachmas, = 8 drachmas; Phaophi a further eight drachmas, = 8 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

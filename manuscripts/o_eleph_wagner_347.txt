@@ -1,0 +1,24 @@
+[META]
+id:       O.ELEPH.WAGNER 347
+label:    O.ELEPH.WAGNER 347
+name:     Receipt — Elephantine
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (101 CE – 200 CE)
+# hgv-keywords: Quittung — Geld
+tm:       29884
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;347
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    … Μᾶρκος πράκτωρ ἀργυρικῶν
+r.2    … μητρὸς Θιν …
+
+[TRANSLATION]
+1     
+2     

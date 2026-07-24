@@ -1,0 +1,28 @@
+[META]
+id:       O.HEID 2
+label:    O.HEID 2
+name:     Receipt — Theben
+genre:    receipts
+date:     236 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (236 BCE)
+# hgv-keywords: Quittung — Steuer — Salzsteuer
+tm:       80268
+source:   https://papyri.info/ddbdp/o.heid;;2
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιβ Μεχὶρ κζ. ἁλικῆς
+r.2    ἐρεῶν διὰ Σωστράτου
+r.3    Ταναῖβις πεντώβολον τέταρτον.
+r.4    ἔγραψεν Ἀλέξανδρος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

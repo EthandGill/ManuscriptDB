@@ -1,0 +1,34 @@
+[META]
+id:       O.STRAS 1.322
+label:    O.STRAS 1.322
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     111 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (111 BCE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75912
+source:   https://papyri.info/ddbdp/o.stras;1;322
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους ϛ Παχὼν κα εἰσμεμέτρηκεν εἰς θησαυρὸν Ἀπόλλωνος πόλεως
+r.2    εἰς τὸ αὐτὸ ἔτος Κάτω Ψεννῆς Παλέτιος [καὶ]
+r.3    Δαίμαχος Ψεννέους πυροῦ γ 𐅵 ιβ γίνονται πυροῦ γ 𐅵 ιβ.
+r.4    Πανίσκος εἰσμεμέτρημαι, καθότι πρόκειται, πυροῦ γ 𐅵 ιβ γίνονται γ 𐅵 ιβ.
+r.5    ἔτους ϛ Παχὼν κα.
+r.6    Ἰσατοῦς εἰσμεμέτρημαι, καθότι πρόκειται, πυροῦ γ 𐅵 ιβ γίνονται γ 𐅵 ιβ.
+r.7    ἔτους ϛ Παχὼν κα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

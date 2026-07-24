@@ -1,0 +1,50 @@
+[META]
+id:       P.Mich. 21.842
+label:    P.Mich. 21.842
+name:     Documentary papyrus — Fundort: Karanis (Arsinoites) - 1930
+genre:    documents
+date:     157 CE – 158 CE
+language: Greek (Koiné)
+found:    Fundort: Karanis (Arsinoites) - 1930
+held:     Ann Arbor
+shelf:    
+content:  Documentary papyrus from Fundort: Karanis (Arsinoites) - 1930 (157 CE – 158 CE)
+# hgv-keywords: Anzeige — unbewässertes Land
+tm:       756876
+source:   https://papyri.info/ddbdp/p.mich;21;842
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Πτολλᾶτι τ[ῷ καὶ] … ερι … [κ]αὶ Ἡρω
+r.2    καὶ τοῖς λοιποῖς [πρεσβυ]τέρο[ι]ς [δ]ιαδεχομένοις
+r.3    τὰ κατὰ τὴν κ[ωμογ]ραμματείαν κώμης Καρανίδος
+r.4    παρὰ Ἰουλίας … ιας τῆς καὶ Ἀπολλωναρί[ου]
+r.5    μετὰ κυρίου Μ[άρ]κου Σεμπρωνίου
+r.6    Σατορνείλου. [κ]ατὰ τὰ κελευσθέντα
+r.7    ὑπὸ τοῦ λαμ[πρ]οτάτου ἡγεμόνος
+r.8    Σεμπρωνίου Λιβεραλίου ἀπογράφομαι τὰς ὑ[π]αρχούσα[ς] μοι περὶ τὴν
+r.9    προκειμένην κώμην Καρανίδα
+r.10   κλήρου Καράβου ἄρουραν α ἥμισυ τέταρτον ἐν τρισὶ
+r.11   σφραγῖσι … σαν ἐν [ἀ]βρόχῳ.
+r.12   ἔτους κ … Αὐτ[ο]κ[ράτ]ορος Καίσα[ρος Τί]του
+r.13   Αἰ[λίο]υ Ἁδρια[νοῦ Ἀντωνίνου Σεβαστοῦ]
+r.14   Εὐσεβοῦ[ς] …
+
+[TRANSLATION]
+# HGV-EN: To Ptollas alias NN … and Hero(-) and the rest of the elders who are performing the duties of the komogrammateus’ office of the village of Karanis, from Ioulia NN alias Apollonarion, acting with Marcus Sempronius Saturnilus as her guardian. In accordance with the orders of the prefect Sempronius Liberalis, clarissimus, I declare the 1 (?) and ¾ arouras that I own near the village of Karanis, of the allotment of Karabos, in three plots, to be uninundated. Year 2- [21 or 22] of Imperator Caesar Titus Aelius Hadrianus [Antoninus Augustus] Pius ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

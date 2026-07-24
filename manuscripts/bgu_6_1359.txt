@@ -1,0 +1,30 @@
+[META]
+id:       BGU 6.1359
+label:    BGU 6.1359
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     121 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (121 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       4660
+source:   https://papyri.info/ddbdp/bgu;6;1359
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους ν Φαῶφι κε τέτακται ἐπὶ τὴν ἐν Ἀπόλλωνος πόλει
+r.2    τῇ μεγάλῃ τράπεζαν ιστεων λινύφων ν ἔτους Ψενχῶνσις
+r.3    Ψενχώνσιος δισχιλίας γίνονται Β.
+r.4    Εὐρήμων τραπεζίτης
+r.5    Βπ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

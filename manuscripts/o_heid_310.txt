@@ -1,0 +1,30 @@
+[META]
+id:       O.HEID 310
+label:    O.HEID 310
+name:     Receipt — Theben
+genre:    receipts
+date:     94 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (94 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       80126
+source:   https://papyri.info/ddbdp/o.heid;;310
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πικῶς καὶ μέτοχοι
+r.2    Ὀννόφριος Ἰναρῶτος
+r.3    χαίρειν. ἀπέσχον παρὰ σοῦ ἀχύρου γόμους δύο, γίνονται γόμοι β τοῦ ιγ ἔτους
+r.4    Δομιτιανοῦ τοῦ κυρίου,
+r.5    Μεσορὴ ιθ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

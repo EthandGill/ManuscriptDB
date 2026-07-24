@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 12.1406
+label:    P.Oxy. 12.1406
+name:     Documentary papyrus — Babylon? (Heliopolites)
+genre:    documents
+date:     213 CE – 217 CE
+language: Greek (Koiné)
+found:    Babylon? (Heliopolites)
+held:     
+shelf:    
+content:  Documentary papyrus from Babylon? (Heliopolites) (213 CE – 217 CE)
+# hgv-keywords: Edikt von Caracalla — Degradierung als Strafe für unziemliches Betragen bei Senatoren im Rat (Gemeinde)
+tm:       21816
+source:   https://papyri.info/ddbdp/p.oxy;12;1406
+lat:      30.005783
+lon:      31.2301075
+
+[GREEK]
+r.1    Αὐτοκράτωρ Καῖσαρ Μ[άρκος Αὐρήλιος]
+r.2    Σεουῆρος Ἀντωνῖνο[ς Παρθικὸς Μέγιστος]
+r.3    Βρεταν[ν]ικὸ[ς][ Μέγιστος Γερμανικὸς]
+r.4    Μέγιστος Ε[ὐσ]εβ[ὴς Σεβαστὸς]
+r.5    λέγει·
+r.6    ἐὰν βουλευτὴς τὸν [πρύτανιν ἢ βουλευ]τὴν τύψῃ ἢ μέμψ[ητα]ι [ἐν ταῖς βουλαῖς]
+r.7    ὁ μὲν βουλ[ε]υτὴς τῆς βουλείας ἀ[παλλά]ξεται καὶ εἰς ἄτιμον χώραν [καταστή]σεται ?. προετέθη ἐν Β[αβυλῶνι]
+r.8    ὑπὸ στ[ο]ᾷ δημοσίᾳ ἐν[άρχου ἄρ]χοντος Αὐρηλίου Ἀλεξάνδρ[ου ] …
+r.9    ἀπὸ Ἡλίου [π]όλεως.
+
+[TRANSLATION]
+# HGV-EN: Proclamation of the Emperor Caesar Marcus Aurelius Severus Antoninus Parthicus Maximus Britannicus Maximus Germanicus Maximus Pius Augustus. If a senator strike or censure [in an unseemly manner] the [prytanis] or another senator, he shall be deprived of his rank and set in a position of dishonour. Published at B[abylon?] in the public colonnade, the magistrate in office being Aurelius Alexander son of ... of Heliopolis.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

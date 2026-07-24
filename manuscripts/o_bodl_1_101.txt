@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 1.101
+label:    O.BODL 1.101
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     99 BCE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     
+shelf:    
+content:  Receipt from Hermonthis (99 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       43551
+source:   https://papyri.info/ddbdp/o.bodl;1;101
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    ἔτους ιϛ Θῶυθ ιη τέτακται ἐπὶ
+r.2    τὴν ἐν Ἑρμώνθει τράπεζαν ἐφʼ ἧς Πανίσκος ἀπομοίρας
+r.3    Φατρῆς Φαρ … ου τρισχιλίας ξ γίνονται Γξ. Πανίσκος τραπεζίτης.
+r.4    Γτ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

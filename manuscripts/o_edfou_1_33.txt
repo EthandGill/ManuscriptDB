@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.33
+label:    O.EDFOU 1.33
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     78 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (78 CE)
+# hgv-keywords: Quittung — Abgabe
+tm:       46973
+source:   https://papyri.info/ddbdp/o.edfou;1;33
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    μεμέτρηκεν Τρυφᾶς Νίκωνος
+r.2    ὑπὲρ ἄνω τόπου ἠπείρου γενήματος
+r.3    ι ἔτους ἐπὶ μηνὸς Μεσορὴ φορικοῦ πυροῦ δίμοιραν ὀγδόον
+r.4    γίνεται πυροῦ ἀρτάβης 𐅷 η ἔτους ι Μεσορὴ κη
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

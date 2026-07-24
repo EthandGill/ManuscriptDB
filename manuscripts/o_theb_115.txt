@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 115
+label:    O.THEB 115
+name:     Receipt — Theben
+genre:    receipts
+date:     16 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (16 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       76485
+source:   https://papyri.info/ddbdp/o.theb;;115
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιδ Καίσαρος Μεσορὴ λ μεμέτρηκε Καλλίας
+r.2    Ἀμενώθου εἰς τὸν Πισιρ … θησαυρὸν Λιβύης τοῦ Κοπτίτου
+r.3    μισθώσεως πυροῦ ἀρτάβας μ
+r.4    ἀπὸ χέρσου πυροῦ ἀρτάβας κε
+r.5    γίνονται ξε. Τι γραμματεύς.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

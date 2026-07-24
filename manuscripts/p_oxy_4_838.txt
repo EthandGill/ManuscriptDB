@@ -1,0 +1,24 @@
+[META]
+id:       P.Oxy. 4.838
+label:    P.Oxy. 4.838
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     136 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (136 CE)
+# hgv-keywords: Vertrag — Pacht — Land
+tm:       20486
+source:   https://papyri.info/ddbdp/p.oxy;4;838
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἡρακλείδου ἐποίκιον
+r.2    τῆς ἐπινομῆς οὔσης τοῦ Διογένους. κυρία ἡ μίσθωσις.
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 1.40
+label:    O.BODL 1.40
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     208 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (208 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       44230
+source:   https://papyri.info/ddbdp/o.bodl;1;40
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιε Ἐπεὶφ ια εἰς τὸ ιε ἔτος
+r.2    Κ … καὶ Ἀσκλωνίας
+r.3    καὶ Σαμπαθαῖος εἰς κϛ
+r.4    δραχμ εἴκοσι γίνονται δραχμαὶ κ. Διοκλῆς γραμματεύς.
+r.5    διὰ Διοδώρου δραχμ κ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

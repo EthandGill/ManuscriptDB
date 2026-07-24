@@ -1,0 +1,30 @@
+[META]
+id:       BGU 1.125
+label:    BGU 1.125
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     231 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (231 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       8902
+source:   https://papyri.info/ddbdp/bgu;1;125
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    … ι στρατηγῷ Ἀ[ρσινοΐτου][ Ἡρακλείδου μερίδος]
+r.2    [π]αρὰ Αὐρη[λίου ] …
+r.3    … ἀπογεγραμμένου διʼ ἑτέρου [ὑπομνή][τ]ος. ὑπάρχει μοι ἐπʼ [ἀμφόδου Θεσμο]φορείου ἥμισυ μέρ[ος ] …
+r.4    μερους οἰκίας, ἐν ᾧ [ἀπογράφομαι]
+
+[TRANSLATION]
+# HGV-EN: [To Aurelius Plato]n, strategos of the A[rsinoite nome, Herakleides division], from Aure[lius NN – – –] registered through another [(registration) document]. There belongs to me in the Thesmophoreion quarter half of a part of a house, in which [I register] – – –
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     … [To the] strategos of the A[rsinoite nome, Herakleides division]
+2     [From] Aure[lius] …
+3     … registered through another [(registration) document]. There belongs to me in the [quarter of Thesmo]phoreion half of [a] part […]
+4     of a part of a house, in which [I register]

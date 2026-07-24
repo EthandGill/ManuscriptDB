@@ -1,0 +1,34 @@
+[META]
+id:       O.STRAS 1.100
+label:    O.STRAS 1.100
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     98 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (98 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75700
+source:   https://papyri.info/ddbdp/o.stras;1;100
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Ὧρ[ο]ς Ὥρου Ἀμ …
+r.2    β ἔτους δραχμὰς η. ἔτους β Νέρου[α ] …
+r.3    Φαμενὼθ ϛ. Φαμενὼθ κ …
+r.4    Ἁθὺρ θ χωμάτων α ἔτους δραχμὰς …
+r.5    δραχμὰς β τριώβολον. Πικῶς …
+r.6    διέγραψεν …
+r.7    ε δραχμὰς η. ἔτους …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

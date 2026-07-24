@@ -1,0 +1,30 @@
+[META]
+id:       O.MICH 2.750
+label:    O.MICH 2.750
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     1 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (1 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       42615
+source:   https://papyri.info/ddbdp/o.mich;2;750
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ἔτους λ Καίσαρος Παχὼν
+r.2    ιζ διέγραψε Παπεῆς
+r.3    Θερ ὑπὲρ βαλανείου δραχμὴν μίαν,
+r.4    γίνεται δραχμὴ α, Ἆπις Σοκλήους
+r.5    δραχμὴν μίαν, γίνεται δραχμὴ α.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

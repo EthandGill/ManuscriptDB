@@ -1,0 +1,30 @@
+[META]
+id:       O.CLAUD 3.509
+label:    O.CLAUD 3.509
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     143 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (143 CE)
+# hgv-keywords: Fragment — Quittung
+tm:       73692
+source:   https://papyri.info/ddbdp/o.claud;3;509
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Διοσκ …
+r.2    Ποσει …
+r.3    ὁμολογ[ῶ ] …
+r.4    διαζο …
+r.5    ἀποδι …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

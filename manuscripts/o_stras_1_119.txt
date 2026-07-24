@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.119
+label:    O.STRAS 1.119
+name:     Receipt — Elephantine
+genre:    receipts
+date:     43 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (43 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75719
+source:   https://papyri.info/ddbdp/o.stras;1;119
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διαγεγράφηκεν
+r.2    Παχνοῦβις Αὐνῆς ὑπὲρ λαογραφίας
+r.3    τοῦ γ ἔτους Τιβερίου Κλαυδίου Σεβαστοῦ
+r.4    Καίσαρος Σεβαστοῦ Παχὼν ιβ
+r.5    ἀργυρίου δραχμὰς δεκαέξ γίνονται δραχμαὶ ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,40 @@
+[META]
+id:       P.PETR.KLEON 7
+label:    P.PETR.KLEON 7
+name:     Letter — Zielort: Arsinoites; Schreibort: Arsinoites ?; Fundort: Gurob
+genre:    letters
+date:     260 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Zielort: Arsinoites; Schreibort: Arsinoites ?; Fundort: Gurob
+held:     London
+shelf:    
+content:  Letter from Zielort: Arsinoites; Schreibort: Arsinoites ?; Fundort: Gurob (260 BCE – 249 BCE)
+# hgv-keywords: Brief (privat) — Philonides an seinen Vater Kleon — Mauscheleien (Ämter) in Alexandria (?)
+tm:       6220
+source:   https://papyri.info/ddbdp/p.petr.kleon;;7
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Φιλωνίδης τῶι πατρὶ χαίρ[ειν. καλῶς ἂν] [π]οιήσεις σπουδάσας ὅπως ἂν
+r.2    παρὰ Τε[λ]έστου γραφῆι ἐ[πιστολὴ βασιλ]εῖ. οὐ γὰρ ταὐτ’ ἔσται [ἐὰν Σά]τυρός τ[ε κ]αὶ Ἄβας καὶ … [σ]ε ἐνκωμιάζωσ[ι]ν. ἀπον[ενό]ηται γ[ὰ]ρ [Σάτ]υρος … σα … σ … τῶι σχήματι … ναι τῶι
+r.3    τοῦ ὑπηρέτου. ἐνέτυχε δέ μοι καὶ Ἀριστόβουλος καὶ πλεονάκ[ις]
+r.4    καὶ ἔφησεν ο[ἴεσ]θαί σοι τὰ τοῦ Ἀνδροίτ[ου π]ράγματα ἀποδοθήσεσθαι.
+r.5    τοῦ γὰρ βασιλ[έω]ς μνησθέντος ὅτι ουθε … τὸν Ἀνδροίτ[αν] τῶν δικαίων αὐτοὶ δυ[νάμ]ενον ποιῆσαι εἶπεν· τίς …
+r.6    ἐπιτηδ … δ’ εἶπεν εἰ μὴ ἱκανῶ[ς] …
+r.7    ἀλλ’ ἔχω … ν πρὸς ταῦτα ονο …
+r.8    … εχονται … λ …
+r.9    Κλέωνι
+
+[TRANSLATION]
+# HGV-EN: Philonides to his father, greetings. Please, make sure that [a letter] is written [to the King] from Telestes’ (office). For it will not be the same if Satyros and Abas and [...] praise you. Satyros is in despair [at being relegated to] the position of a servant. Aristoboulos has also come to see me, several times even, and he has told me that he thinks Androitas’ affairs will be given to you. For when the king remembered that [...] not [...] Androitas of the rightful (things/people?) themselves (that Androitas was) able to do, he said: who [...], but [NN] objected that if [...] not sufficiently [...]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

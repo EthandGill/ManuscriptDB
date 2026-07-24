@@ -1,0 +1,54 @@
+[META]
+id:       P.Oxy. 10.1295
+label:    P.Oxy. 10.1295
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     101 CE – 225 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (101 CE – 225 CE)
+# hgv-keywords: Brief (privat) — Tasoïs an Dionysios — Beschwerde — daß Dionysios ihr ihren Sohn entfremdet und Drohung — ihn wegzuholen
+tm:       28987
+source:   https://papyri.info/ddbdp/p.oxy;10;1295
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Τασόις Διο[ν]υσίωι τῶι τιμ[ι]ωτάτωι χαίρειν.
+r.2    ἰδοὺ μὲν ἐγὼ οὐκ ἐμιμησάμην σε
+r.3    τοῦ ἀπ[οσπ]ᾶν τὸν υἱόν μου, ἐὰν δὲ μέλλῃς οὕτω αὐτῷ ἐπιτιμᾶν, Πτολεμαῖ[ο]ν πέμψασα ἀποσπάσ[ω] αὐτόν.
+r.4    ὅτε ὁ πατ[ὴ]ρ αὐτοῦ ἐτελεύτησεν
+r.5    ἔδωκα [ὑ]πὲρ αὐτοῦ δραχμὰς Ατ καὶ ἀνάλωσα αὐτῷ ε[ἰ]ς ἱμάτια δραχμὰς ξ.
+r.6    διὸ οὖν μὴ ἀνάπειθε αὐτὸν τοῦ
+r.7    ἐκτός μου ε[ἶ]ναι, ἐπεὶ ἄρασα αὐτὸν
+r.8    ἐνέχυρον θήσω εἰς Ἀλεξάνδριαν. καλῶς οὖν ποιήσεις πέμψα[ς]
+r.9    μοι διμήνου ὀψώνιον διὰ το[ῦ]
+r.10   ἀναδιδόντος σοι τὸ ἐπιστόλιον
+r.11   καὶ τὸ ἱμάτιον, καὶ δήλωσόν μοι
+r.12   πόσον χαλκὸν δέδωκες αὐτῶι
+r.13   καὶ εἰ ἐκομίσω τὸ ἱμάτιον.
+r.14   πέμψον τὸ μαφόρτιον τῷ ἀδελ[φ]ῷ σου.
+r.15   ἔρρωσο.
+r.16   Δ[ιο]νυ[σί]ωι ἀπὸ Τασόιτος.
+
+[TRANSLATION]
+# HGV-EN: Tasoïs to her most esteemed Dionysius, greeting. See, I have not imitated you by taking away my son, but if you intend to blame him in this way, I shall send Ptolemaeus and take him away. When his father died, I paid on his behalf 1,300 drachmae and expended on clothes for him 60 drachmae. I therefore beg tha: you will not persuade him to desert me, or I shall take him away and put him in pledge at Alexandria. So please send me a payment for two months through the bearer of this letter and the cloak, and let me know how much money you have given to him and whether you have received the cloak. Send the veil to your brother. Good-bye. (Addressed) To Dionysius from Tasois.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

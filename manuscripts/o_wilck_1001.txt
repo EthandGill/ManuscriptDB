@@ -1,0 +1,30 @@
+[META]
+id:       O.Wilck. 1001
+label:    O.Wilck. 1001
+name:     Receipt — Theben
+genre:    receipts
+date:     241 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (241 CE)
+# hgv-keywords: Quittung — Naturalien
+tm:       77477
+source:   https://papyri.info/ddbdp/o.wilck;;1001
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κωμῶν γενήματος δ ἔτους τοῦ κυρίου ἡμῶν
+r.2    Αὐτοκράτορος Καίσαρος Μάρκου Ἀντωνίου Γορδιανοῦ
+r.3    Εὐσεβοῦς Εὐτυχοῦς Σεβαστοῦ Μεσορὴ ϛ πυροῦ
+r.4    ἀρτάβας ἓξ γίνονται πυροῦ ἀρτάβαι ϛ, ὧν Χάρακος πυροῦ α, Νότου καὶ Λιβὸς πυροῦ γ, νήσων πυροῦ β …
+r.5    Β … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       SB 1.1922
+label:    SB 1.1922
+name:     Receipt — Elephantine
+genre:    receipts
+date:     81 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (81 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23064
+source:   https://papyri.info/ddbdp/sb;1;1922
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [διέγρα]ψεν Παπρεμίθης Ἀτπῆς
+r.2    [ὑπὲρ λαογραφ]ίας τρίτου ἔτους Τίτου Καίσαρος
+r.3    [τοῦ κυρίου Μ]εσορὴ λ ἀργυρίου δραχμὰς δέκα
+r.4    [ἕξ, γίνονται δραχμαὶ ιϛ].
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

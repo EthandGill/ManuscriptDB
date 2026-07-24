@@ -1,0 +1,40 @@
+[META]
+id:       BGU 1.306
+label:    BGU 1.306
+name:     Contract — Arsinoiton Polis
+genre:    contracts
+date:     566 CE
+language: Greek (Koiné)
+found:    Arsinoiton Polis
+held:     
+shelf:    
+content:  Contract from Arsinoiton Polis (566 CE)
+# hgv-keywords: Vertrag — Miete — Haus
+tm:       41057
+source:   https://papyri.info/ddbdp/bgu;1;306
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    ὑπατείᾳ τοῦ δεσπότου ἡμῶν Φλαουίου Ἰουστίνου τοῦ αἰωνίου
+r.2    Αὐγούστου, ἔτους πρώτου Φαῶφι ιδ, ιε ἰνδικτίωνος ἐν Ἀρσινοιτῶν πόλει.
+r.3    Φλαυίῳ Θεοτίμῳ τῷ λαμπροτάτῳ πρωξίμῳ τῆς ἡγεμονικῆς τάξεως τῆς Ἀρκάδων ἐπαρχίας υἱῷ τοῦ τῆς
+r.4    εὐλαβοῦς μνήμης Μηνᾶ ἀπὸ τῆς Ἀρσινοιτῶν πόλεως
+r.5    Αὐρήλιος Παμούτιος ὁ καὶ Πατερμούθιος υἱὸς Γεροντί[ο]υ
+r.6    ἀπὸ κ[ώ]μης Δικαίου τοῦ Ἀρσινοΐτου νομοῦ χαίρειν. ὁμολογῶ
+r.7    [μεμισθῶ]σθαι παρὰ τῆς σῆς λ[α]μπρότητος ἀπὸ τῶν
+r.8    [ὑπαρχόντων αὐτῇ ] … ἑτέρας κώ[μης ] …
+r.9    μίσθωσις οἰκί[ας ] …
+
+[TRANSLATION]
+# HGV-EN: † In the consulship of our master Flavius Ioustinus, everlasting Augustus, year one, Phaophi 14, 15th indiction, in the city of the Arsinoites. To Flavius Theotimos, vir clarissimus, and proximus of the governor’s office of the province of the Arcadians, son of Menas of discreet memory, from the city of the Arsinoites, Aurelius Pamoutios alias Patermouthis, son of Geronti[os], from the village of Dikaou (Nesos) in the Arsinoite nome, greetings. I acknowledge that I have leased from your Gloriousness from [your property – – –] of another village – – – verso † Lease of a house
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

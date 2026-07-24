@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.27
+label:    O.EDFOU 1.27
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     69 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (69 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       46967
+source:   https://papyri.info/ddbdp/o.edfou;1;27
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    μεμέτρηκεν Τρυφᾶ[ς]
+r.2    Νίκωνος ὑπὲρ ἄνω τόπου γενήματος α ἔτους καλοῦ φορικοῦ πυροῦ ἀρτάβην
+r.3    μίαν τρίτον γίνεται πυροῦ ἀρτάβη α γ α ἔτους
+r.4    Αὔλου Οὐειτελλίου Μεσορὴ ε
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

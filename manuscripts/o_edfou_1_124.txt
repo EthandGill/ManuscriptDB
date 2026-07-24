@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.124
+label:    O.EDFOU 1.124
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     72 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (72 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       47065
+source:   https://papyri.info/ddbdp/o.edfou;1;124
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Μέριν Ἰασίκου τιμῆς
+r.2    δηναρίων δύο Ἰουδαίων
+r.3    δ ἔτους Οὐεσπασιανοῦ δραχμὰς η διώβολον ἔτους δ
+r.4    Μεχεὶρ γ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.605
+label:    O.BODL 2.605
+name:     Receipt — Theben
+genre:    receipts
+date:     68 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (68 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71296
+source:   https://papyri.info/ddbdp/o.bodl;2;605
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Ἑρμίας Ἐπωνύχου
+r.2    Ταύρωνος ὑπὲρ χωματικοῦ Χάρακος α ἔτους δραχμὰς ἓξ τετρώβολον ἄλλων ὀβολοὺς δ 𐅵 γίνονται ζ ὀβολοὶ β 𐅵
+r.3    καὶ προσδιαγραφόμενα. ἔτους α Λουκίου Λειβίου Σουλπικίου
+r.4    Γάλβα Σεβαστοῦ Αὐτοκράτορος μηνὸς Καισαρείου λ‡η.
+r.5    Πτολεμαῖος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

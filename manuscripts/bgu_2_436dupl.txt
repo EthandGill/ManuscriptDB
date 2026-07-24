@@ -1,0 +1,34 @@
+[META]
+id:       BGU 2.436dupl
+label:    BGU 2.436dupl
+name:     Contract — Soknopaiu Nesos (Arsinoites)
+genre:    contracts
+date:     98 CE – 117 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Soknopaiu Nesos (Arsinoites) (98 CE – 117 CE)
+# hgv-keywords: Eingabe — Stotoetis an den Zenturio Messius Audax — Rückgabe eines Darlehens — Prügel
+tm:       9168
+source:   https://papyri.info/ddbdp/bgu;2;436dupl
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    Μεσσίῳ Αὔδακι ἑκατοντάρχῃ
+r.2    παρὰ Στοτοήτιος τοῦ Ἀπύγχεως
+r.3    ἱερέως ἀπὸ κώμης Σοκνοπαίου
+r.4    Νήσου. Στ[ο]τοῆτις ὁ καὶ Φανῆσις Στοτοήτιος καὶ [ο]ἱ ἀδελφοὶ Ἁρπαγάθης καὶ
+r.5    Ὧρος ὀφείλοντές μοι κατʼ οὐδὲν ἐ[πι]στρέφονται ἀπ[οδοῦναί μ]οι διαπ[λανῶν]τες καὶ ὑπερ[τιθέμενοι, ἀ]λλʼ ἔ[τ]ι καὶ ἐ[πήλ]θ[ο]σάν μο[ι καὶ ὕβριν οὐ τ]ὴν [τ]υχοῦσαν
+r.6    [συνετελέσαντο καὶ πληγ]ὰς ἐ[πήνεγκαν]
+
+[TRANSLATION]
+# HGV-EN: To Messius Audax, centurio, from Stotoetis, son of Apynchis, priest from the village of Soknopaiou Nesos. Although Stotoetis alias Phanesis, son of Stotoetis, and his brothers Harpagathes and Horos, are in debt to me, they are making no effort to repay me, making excuses and delaying, and on top of that they attacked me, [acted violently] in a quite unfitting manner, [belaboured me with blows – – –]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

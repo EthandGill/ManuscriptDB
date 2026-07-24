@@ -1,0 +1,24 @@
+[META]
+id:       O.CAIR 100
+label:    O.CAIR 100
+name:     Receipt — Elephantine (?)
+genre:    receipts
+date:     18 BCE
+language: Greek (Koiné)
+found:    Elephantine (?)
+held:     
+shelf:    
+content:  Receipt from Elephantine (?) (18 BCE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       73448
+source:   https://papyri.info/ddbdp/o.cair;;100
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    … ς συνπαρείληφα πυροῦ ἀρτάβας
+r.2    … ἔτους ιβ Καίσαρος Ἐπεὶφ κδ.
+
+[TRANSLATION]
+1     
+2     

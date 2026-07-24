@@ -1,0 +1,26 @@
+[META]
+id:       PSI.COM 9.8
+label:    PSI.COM 9.8
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Florence
+shelf:    
+content:  Contract from Oxyrhynchos (101 CE – 200 CE)
+# hgv-keywords: Vertrag — Alexandriner
+tm:       140526
+source:   https://papyri.info/ddbdp/psi.com;9;8
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Φανίας Φανίου τοῦ Ἀμμ … [ἀπʼ Ὀξυ]ρύγχων πόλεως Κασιω … [τοῦ]
+r.2    Χαιρήμονος Σωσικοσ[μίῳ τῷ καὶ] …
+r.3    ὁμολογῶ ε …
+
+[TRANSLATION]
+1     
+2     
+3     

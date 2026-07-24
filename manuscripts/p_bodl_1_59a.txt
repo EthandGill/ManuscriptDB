@@ -1,0 +1,24 @@
+[META]
+id:       P.BODL 1.59a
+label:    P.BODL 1.59a
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     300 BCE – 201 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     Oxford
+shelf:    
+content:  Documentary papyrus from Theben (300 BCE – 201 BCE)
+# hgv-keywords: Prostagma
+tm:       78122
+source:   https://papyri.info/ddbdp/p.bodl;1;59a
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … [π]ρόσταγμα ε …
+r.2    … οκτ … ο …
+
+[TRANSLATION]
+1     
+2     

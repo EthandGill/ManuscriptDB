@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 256
+label:    O.PETR.MUS 256
+name:     Receipt — Theben (Notos)
+genre:    receipts
+date:     134 CE
+language: Greek (Koiné)
+found:    Theben (Notos)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos) (134 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, merismos telonikon)
+tm:       75369
+source:   https://papyri.info/ddbdp/o.petr.mus;;256
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Κροῦρις καὶ Φατρῆς ἀπαιτηταὶ μερισμοῦ τελωνικῶν
+r.2    τοῦ ιζ ἔτους ὑπὲρ Νότου ὀνόματος Ὥρου νεωτέρου
+r.3    Ψενψάιτος μητρὸς Τιβέλφιος κέρματος
+r.4    δραχμὰς δύο. ἔτους ιη Ἁδριανοῦ τοῦ κυρίου
+r.5    Φατρῆς σεσημείωμαι. Ἐπεὶφ ιβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

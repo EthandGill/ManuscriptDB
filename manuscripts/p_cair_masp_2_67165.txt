@@ -1,0 +1,44 @@
+[META]
+id:       P.CAIR.MASP 2.67165
+label:    P.CAIR.MASP 2.67165
+name:     Contract — Antinoopolis
+genre:    contracts
+date:     566 CE – 573 CE
+language: Greek (Koiné)
+found:    Antinoopolis
+held:     
+shelf:    
+content:  Contract from Antinoopolis (566 CE – 573 CE)
+# hgv-keywords: Vertrag — Darlehen
+tm:       18921
+source:   https://papyri.info/ddbdp/p.cair.masp;2;67165
+lat:      27.8105625
+lon:      30.8810025
+
+[GREEK]
+r.1    ἐν [Ἀντινόου πόλει τῇ] λ[αμπ]ρο[τά]τῃ.
+r.2    [ ][Φλαυ]ίοις Θεοδώρῳ καὶ Ἀμμωνίῳ ὁμογνησίοις
+r.3    [ἀδελφ]οῖς, ἐκ πατρὸς Φοιβάμμωνος τοῦ τῆς εὐδοκιμωτάτης
+r.4    [μνή]μης, τοῖς θαυμασιωτάτοις νοταρίοις, ὁρμωμένοις
+r.5    [ἀπὸ ταύ]της τῆς Ἀντινοέων πόλεως, παρʼ ἐμοῦ παρόντος
+r.6    [Αὐρη]λίου Ἀνατολίου υἱοῦ Ἑρμείου, ἐκ μητρὸς Θηβαΐδος,
+r.7    [ὁρμω]μένο[υ μ]ὲν ἀπὸ τῆ[ς] μεγάλης Ἑ[ρ]μουπολιτῶν πόλεως,
+r.8    [οἰκοῦ]ντος δὲ τὰ νῦν ἐνταῦθα ἐπὶ τῆς αὐτῆς Ἀντινόου πόλεως,
+r.9    [χαίρειν.] ὁμολογῶ ἐγὼ ὁ προγεγραμμένος Ἀνατόλιος διὰ
+r.10   [ταύτης ][μ]ου τ[ῆς] ἐγ[γρ]άφ[ο]υ ἀ[σ]φαλείας, ὀφείλειν ὑμῖν
+r.11   [καὶ χρε]ωσ[τεῖν, κ]αθ[αρῶς] καὶ ἀ[ποκρ]ότω[ς, ][χρυσ]οῦ κε[ράτια]
+
+[TRANSLATION]
+# HGV-EN: In the clarissima Antinoopolis. To Flavii Theodoros and Ammonios, brothers born of the same parents, of the father Phoibammon of the pious memory, admirandissimi notaries, hailing from this Antinoopolis, from me, here present, Aurelius Anatolios, son of Hermios (pap.: Hermeios), of the mother Thebais, hailing from Hermopolis Magna, but now living in this Antinoopolis, greetings. I, the aforewritten Anatolios, acknowledge through this written document, that I owe you and I am in debt, clearly and without fail, xx carats of gold …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

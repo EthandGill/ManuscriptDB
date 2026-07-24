@@ -1,0 +1,26 @@
+[META]
+id:       O.ASHM.SHELT 33
+label:    O.ASHM.SHELT 33
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       70585
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;33
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἑριεὺς πράκτωρ σιτικῶν Νότου καὶ Λιβὸς
+r.2    Τεμοῦτι νεωτέρᾳ Φιβ … φωτ.
+r.3    ἔσχον εἰς πρόσθεσιν ὑπὲρ γενήματος ιϛ ἔτους
+
+[TRANSLATION]
+1     
+2     
+3     

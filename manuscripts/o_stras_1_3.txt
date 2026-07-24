@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.3
+label:    O.STRAS 1.3
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     235 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (235 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75628
+source:   https://papyri.info/ddbdp/o.stras;1;3
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιγ Παχὼν ιε ἁλικῆς
+r.2    διὰ Σωστράτου
+r.3    Ὀσορῆρις Ἰμούθου δραχμὰς
+r.4    πέντε …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

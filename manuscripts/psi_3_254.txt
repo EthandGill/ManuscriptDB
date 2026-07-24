@@ -1,0 +1,32 @@
+[META]
+id:       PSI 3.254
+label:    PSI 3.254
+name:     Receipt — Pathyris
+genre:    receipts
+date:     103 BCE
+language: Greek (Koiné)
+found:    Pathyris
+held:     
+shelf:    
+content:  Receipt from Pathyris (103 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       78831
+source:   https://papyri.info/ddbdp/psi;3;254
+lat:      25.369659
+lon:      32.473946
+
+[GREEK]
+r.1    ἔτους ιδ τοῦ καὶ ια
+r.2    Παῦνι κα μεμέτρηκεν εἰς τὴν ἐπιγραφὴν
+r.3    τοῦ ιδ τοῦ καὶ ια ἔτους Παθύρεως
+r.4    Παους Πετειμούθου πυροῦ
+r.5    ἕκτον γίνεται πυροῦ ϛ
+r.6    Ἀπολλώνιος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

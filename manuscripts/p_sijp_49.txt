@@ -1,0 +1,48 @@
+[META]
+id:       P.SIJP 49
+label:    P.SIJP 49
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (101 CE – 200 CE)
+# hgv-keywords: Vertrag — Rückzahlung eines Darlehens (Geld) — Bank
+tm:       110214
+source:   https://papyri.info/ddbdp/p.sijp;;49
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … ς Ἡρακλᾶ τ[ο]ῦ
+r.2    Ὡρίωνος μητρὸς Θακώ[ριος]
+r.3    ἀπ’ Ὀξυρύγχων πόλεως [τῷ]
+r.4    ἐμαυτοῦ υἱῷ Ἡρακλέων[ι] [μη]τρὸς Ἀμμωναρίου χαίρει[ν·]
+r.5    ὁμολογῶ ἀπέχειν παρὰ [σοῦ]
+r.6    διὰ τῆς ἐπὶ τοῦ πρὸς Ὀξυρύ[γ]χων πόλει Σαραπείου Ἡλι[ο]δώρου καὶ Νουμηνίου τρ[α]πέζης ἀργυρίου δραχμὰ[ς]
+r.7    διακοσίας κεφαλαίου κα[ὶ]
+r.8    τοὺς ἄχρι τῆς ἐνεστώ[σης]
+r.9    ἡμέρας τούτων [τό]κους δραχμιαίους ἑκάσ[της μνᾶς]
+r.10   ἃς εὐχρήστησά σο[ι] ἐν κ[ατα]βολῇ κατὰ χειρόγραφον …
+r.11   τραπέζης τῷ Μεχεὶρ μηνὶ τοῦ δ[ι]ελθόντος ἔτους,
+r.12   ὃ καὶ ἀνέδωκά σοι κεχιασμέν[ο]ν εἰς ἀκύρωσιν
+r.13   καὶ μηδὲν ἐγκ[αλεῖν] …
+
+[TRANSLATION]
+# HGV-EN: NN, son of Heraklas, grandson of Horion, his mother being Thakoris, from the city of Oxyrhynchus, to my son Herakleon, his mother being Ammonarion, greetings. I acknowledge receiving from you, through the bank of Heliodorus and Numenius at the Serapeum in the city of Oxyrhynchus, 200 silver drachmas, principal, and their interest up to the present day consisting of one drachma per mina (monthly), which principal I provided to you in payment according to a bank cheirographon in the month of Mecheir of the past year, which cheirographon I have surrendered to you, cancelled, for the purpose of invalidation, and that I make no claim ... .
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

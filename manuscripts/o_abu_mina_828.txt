@@ -1,0 +1,26 @@
+[META]
+id:       O.ABU.MINA 828
+label:    O.ABU.MINA 828
+name:     Receipt — Abu Mena
+genre:    receipts
+date:     601 CE – 650 CE
+language: Greek (Koiné)
+found:    Abu Mena
+held:     
+shelf:    
+content:  Receipt from Abu Mena (601 CE – 650 CE)
+# hgv-keywords: Quittung — Transport auf Eseln — Wein
+tm:       117014
+source:   https://papyri.info/ddbdp/o.abu.mina;;828
+lat:      30.8416054715
+lon:      29.6670462965
+
+[GREEK]
+r.1    ἀπὸ απα Κυρίου
+r.2    Ἀργο
+r.3    ὀνικαὶ φοραὶ γ
+
+[TRANSLATION]
+1     
+2     
+3     

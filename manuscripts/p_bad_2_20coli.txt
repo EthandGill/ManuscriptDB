@@ -1,0 +1,32 @@
+[META]
+id:       P.BAD 2.20coli
+label:    P.BAD 2.20coli
+name:     Receipt — Antinoopolis
+genre:    receipts
+date:     135 CE
+language: Greek (Koiné)
+found:    Antinoopolis
+held:     
+shelf:    
+content:  Receipt from Antinoopolis (135 CE)
+# hgv-keywords: Quittung — (Abgaben, Korn)
+tm:       19317
+source:   https://papyri.info/ddbdp/p.bad;2;20coli
+lat:      27.8105625
+lon:      30.8810025
+
+[GREEK]
+r.1    μεμέτρηται ἐπὶ θησαυρὸν Ψινθέου τῆς Ἀντινό[ο]υ
+r.2    πόλεως γενήματος τοῦ ἐνεστῶτος ιθ ἔτους
+r.3    Ἁδριανοῦ Καίσαρος τοῦ κυρίου, Παῦνι κζ
+r.4    Ἑρμῖν[ος] Διοσκόρου πυροῦ μέτρῳ δημοσίῳ δοχικῷ
+r.5    ἀρτάβας ὀγδοήκοντα γίνονται πυροῦ δοχικῷ ἀρτάβαι π διὰ Σαραπίωνος Κ[ο]ινοῦ,
+r.6    εἰσδοχὴ ἀρτάβαι ρθ κδ δι ει ιϛ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

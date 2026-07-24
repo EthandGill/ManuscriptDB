@@ -1,0 +1,30 @@
+[META]
+id:       O.BERENIKE 2.139
+label:    O.BERENIKE 2.139
+name:     Receipt — Berenike
+genre:    receipts
+date:     66 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     
+shelf:    
+content:  Receipt from Berenike (66 CE)
+# hgv-keywords: Quittung — Steuer (Quintana) — Geld
+tm:       89165
+source:   https://papyri.info/ddbdp/o.berenike;2;139
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    Γερμανὸς κουιντανήσιος
+r.2    Λουκίωι Διον[υ]σίωι χαίρειν·
+r.3    ἔχω κουιντάνας Παῦνι καὶ Ἐπεὶφ μηνῶν,
+r.4    γίνονται λβ. ἔτους ιβ Νέρ[ω]νος
+r.5    τοῦ κυρίου, Ἐπεὶφ ιη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

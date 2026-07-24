@@ -1,0 +1,46 @@
+[META]
+id:       BGU 1.4
+label:    BGU 1.4
+name:     Petition — Arsinoites
+genre:    petitions
+date:     177 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Petition from Arsinoites (177 CE)
+# hgv-keywords: Eingabe — Aurelius Abus an den Zenturio Severus Iustus — bei einem Mitsoldaten deponierte Güter werden nicht zurückgegeben
+tm:       9088
+source:   https://papyri.info/ddbdp/bgu;1;4
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Σεουήρῳ Ἰούστῳ ἑκατοντάρχῃ
+r.2    παρὰ Αὐρηλίου Ἀβοῦτος
+r.3    οὐετρανοῦ. ἡνίκα ἐστρατευόμην, κύριε, ἐν Πηλουσίῳ, παρεθέμην Πετεσούχῳ τινὶ συνστρατ[ιώτ]ῃ
+r.4    μου καὶ φίλῳ σκεύη ἐν
+r.5    συντιμήσει δραχμῶν
+r.6    ὀκτακοσίων. μετατεθέντος μου εἰς ἄλην Βουκοντίων καὶ ὡς ἐλο[γ]οποιούμην πρὸς αὐτὸν περὶ τούτων μετὰ [τὴν] ἀμφοτέρων
+r.7    ἀπόλυσιν, λόγον μου
+r.8    οὐ πεποίηται. διὸ ἀξιῶ
+r.9    ἔχοντός μ[ου] μεσίτην
+r.10   Συρίωνα Ἰσ[ι]δώρου ἀπὸ
+r.11   κ … ο … ωμολο
+r.12   γ …
+
+[TRANSLATION]
+# HGV-EN: To Severus Iustus, centurio, from Aurelius Abous, veteran. When I was serving in the army, lord, in Pelusium, I deposited with Petesouchos, a certain fellow soldier and friend of mine objects at a value of eight hundred drachmas. After I had been transferred to the ala Vocontiorum and as I was settling accounts with him concerning these things after our discharge, he took no account of me. Therefore I request, since I have a witness, Syrion, son of Is[i]doros from K[arani]s, who agrees (with me), [that they be brought before you]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

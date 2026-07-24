@@ -1,0 +1,22 @@
+[META]
+id:       SB 1.2079
+label:    SB 1.2079
+name:     Letter — Peri Thebas
+genre:    letters
+date:     400 BCE – 100 CE
+language: Greek (Koiné)
+found:    Peri Thebas
+held:     
+shelf:    
+content:  Letter from Peri Thebas (400 BCE – 100 CE)
+# hgv-keywords: Brief (amtlich) — NN an den Strategen Didymos
+tm:       44135
+source:   https://papyri.info/ddbdp/sb;1;2079
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Διδύμῳ στρατηγῷ Περιθήβας.
+
+[TRANSLATION]
+1     

@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 10.1258
+label:    P.Oxy. 10.1258
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     45 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (45 CE)
+# hgv-keywords: Erklärung — Eid — Erscheinen vor dem Strategen zur Abrechnung von Steuern
+tm:       21764
+source:   https://papyri.info/ddbdp/p.oxy;10;1258
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … ήσιος τῶ[ν ἀπὸ] Ὀξυρύγχων
+r.2    [πόλεως ] … [ Ἱ]πποδρόμου Σεκούνδωι
+r.3    [πράκτορι δημ]οσίων τοῦ αὐτοῦ ἀμφόδου.
+r.4    [ὀμνύω Τιβέρι]ον Κλαύδιον Καίσαρα
+r.5    [Σεβαστὸν] Γερμαν[ι]κὸν Αὐτο[κ]ράτορα
+r.6    [ἔσεσθα]ί με ἐμφανῆ τῶι στρατηγῶι
+r.7    [Ἀπολλω]νίωι ἐπὶ τῆς ἔγγιστα ἀριθμήσεως
+r.8    [τῶν δ]ημοσίων ὄντα ἐκτ[ὸ]ς ἱεροῦ βω[μοῦ τε]μένους παντὸς ἀσύλου τόπου
+r.9    [σκέπης] πάσης. εὐορκοῦντι μέν μοι
+r.10   [εὖ εἴη], ἐπιορκοῦντι δὲ τὰ ἐναντία.
+r.11   [ἔτους] [ἕ]κτου Τιβερίου Κλαυδίου Καίσαρος
+r.12   [Σεβαστ]οῦ Γερμανικοῦ Αὐτοκράτορος μηνὸς
+r.13   [Νέου Σ]εβαστ[ο]ῦ ἐνάτηι.
+
+[TRANSLATION]
+# HGV-EN: ... son of ..esis, ... of Oxyrhynchus in the Hippodrome quarter, to Secundus, collector of taxes of the same quarter. I swear by Tiberius Claudius Caesar Augustus Germanicus Imperator that I will appear before the strategus Apollonius at the next reckoning of taxes unprotected by any temple, altar, sacred enclosure, or any place of sanctuary or shelter in any form. If I observe the oath may it be well with me, but if I swear falsely, the reverse. The sixth year of Tiberius Claudius Caesar Augustus Germanicus Imperator, the ninth of the month Neus Sebastus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

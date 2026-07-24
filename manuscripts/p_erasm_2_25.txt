@@ -1,0 +1,54 @@
+[META]
+id:       P.ERASM 2.25
+label:    P.ERASM 2.25
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     152 BCE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (152 BCE)
+# hgv-keywords: Anweisung — Ladung — Getreide — Schiff
+tm:       5063
+source:   https://papyri.info/ddbdp/p.erasm;2;25
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Θεόδωρος Διονυσίωι χαίρειν.
+r.2    ἐμβαλοῦ μετὰ τοῦ συνεπακολουθοῦντος
+r.3    ἐπὶ τοῦ κατὰ τὴν Καινὴν ὅρμου
+r.4    ἀπὸ τῶν γενη[μάτων τοῦ κθ ἔτους]
+r.5    κατὰ τὸν παρʼ Ἀσκληπίου τοῦ
+r.6    πρὸς τῆι σιτηρᾶι ἀπόστολον
+r.7    ἐκ τοῦ περὶ Ὀξύρυγχα ἐργαστηρίου
+r.8    εἰς κέρκουρον ἁληγὸν Πτολεμαί[ου κα]ὶ Ν[εάρχου]
+r.9    καὶ Μηνο[στράτου] ἀγωγῆς ψ ἐφʼ οὗ Θέων πυροῦ ἀρτάβας
+r.10   ἑπτακοσίας, γίνονται πυροῦ ψ καὶ μὴ πρότερον
+r.11   τὴν ἐμβολὴν ποίησαι ἐὰν μὴ
+r.12   ἐπιβιβασθῆι ὁ ἡγούμενος φυλακῆς.
+r.13   ἔρρωσο. ἔτους κθ Ἐπεὶφ ιη.
+r.14   Θεόδωρος· ἐμβαλοῦ καθὼς προγέγραπται πυροῦ ἀρτάβας ἑπτακοσίας, γίνονται ψ.
+r.15   ἔτους κθ Ἐπεὶφ ιη.
+r.16   Διονυσίωι.
+
+[TRANSLATION]
+# HGV-EN: Theodoros to Dionysios, greetings. Load, in cooperation with the supervisor, in the harbour at Kaine, from the harvest of the 29th year, in accordance with the letter from Asklepios, the official for grain affairs, from the granary at Oxyrhyncha, in the salt water κέρκουρος-ship of Ptolemaios, Nearchos and Menostratos, with a capacity of 700 (artabas), on which Theon ⟨is shipping agent⟩: seven hundred artabas of wheat, total 700 (artabas) of wheat and do not execute the loading before the leader of the guards has gone on board. Farewell. Year 29, Epeiph 18. [2nd hand] Theodoros: load as is written above: seven hundred artabas of wheat, total 700 (artabas). Year 29, Epeiph 18. [3rd hand] To Dionysios.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

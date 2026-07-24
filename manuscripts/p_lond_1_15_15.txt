@@ -1,0 +1,28 @@
+[META]
+id:       P.LOND 1.15_15
+label:    P.LOND 1.15_15
+name:     Letter — Memphis
+genre:    letters
+date:     131 BCE – 130 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Letter from Memphis (131 BCE – 130 BCE)
+# hgv-keywords: Brief (amtlich?)
+tm:       5886
+source:   https://papyri.info/ddbdp/p.lond;1;15_15
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    Οσοροηρις …
+r.2    τοπα πρὸς …
+r.3    καὶ πρὸς τὰ …
+r.4    … τ αλλα η κα …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

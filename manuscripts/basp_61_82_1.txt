@@ -1,0 +1,28 @@
+[META]
+id:       BASP 61.82_1
+label:    BASP 61.82_1
+name:     Receipt — Dios Polis
+genre:    receipts
+date:     45 CE
+language: Greek (Koiné)
+found:    Dios Polis
+held:     Uppsala
+shelf:    
+content:  Receipt from Dios Polis (45 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       1000258
+source:   https://papyri.info/ddbdp/basp;61;82_1
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    διαγέγραφε Πετεμενῶφις Παμώνθου ὑπὲρ φοινικώνων ε ἔτους
+r.2    δραχμὰς δέκα μίαν ὀβολόν, γίνονται δραχμαὶ ια ὀβολὸς καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου. ἔτους ϛ Τιβερίου
+r.3    Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+r.4    Φαῶφι ιγ Ἐπικράτης
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,48 @@
+[META]
+id:       P.LEID.INST 1.50
+label:    P.LEID.INST 1.50
+name:     Contract — Oxyrhynchites
+genre:    contracts
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Contract from Oxyrhynchites (201 CE – 300 CE)
+# hgv-keywords: Vertrag — Kauf — Land
+tm:       18475
+source:   https://papyri.info/ddbdp/p.leid.inst;1;50
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    … ρυ …
+r.2    [καὶ ὑδροφυλα]κίας [δημοσίων χωμάτων]
+r.3    [καὶ ἀπὸ παντὸ]ς οὑτι[νοσοῦν ἄλλου καὶ]
+r.4    [ἀπὸ δημοσίω]ν πάντ[ων καὶ ἐπιμερισμῶν τῶν]
+r.5    [μέχρι τοῦ δι]ελθόντο[ς ιθ ἔτους καὶ αὐτοῦ τοῦ διελθόντος]
+r.6    [ιθ ἔτους διὰ τὸ τὰ] ἀπ[ὸ] τοῦ ἐνεσ[τῶτος κ ἔτους τούτων πρόσφορα]
+r.7    [εἶναι σοῦ τῆς ὠ]νουμένη[ς πρὸς ἣν καὶ εἶναι τὰ]
+r.8    [ἀπὸ τοῦ αὐτο]ῦ κ ἔτους παν[το]ῖα τ[ελέσματα. κυρία]
+r.9    [ἡ πρᾶσις ] … γραφεῖσα ἥνπερ κα[ὶ ποιήσομαί]
+r.10   [σοι διὰ δη]μοσίου μηδὲν ἕ[τερον λαμβάνων]
+r.11   [παρὰ σοῦ τῶ]ν τελῶν καὶ γρ[α]μ[ματικῶν ὄντων]
+r.12   [πρὸς σέ. περὶ δὲ] το[ῦ] ταῦτα ὀρθ[ῶς καλῶς γενέσθαι]
+r.13   [ἐπερωτηθεὶς] ὑπὸ σοῦ ὡ[μολόγησα. ] …
+
+[TRANSLATION]
+# HGV-EN: (Translation: P. L. Bat. 25.50) ...and (free) from guarding public dikes and from everything else whatsoever and from all state taxes and compulsory cultivation up to and including the past nineteenth year, because from the current twentieth year the products of the property belong to you the buyer at whose charge lie also the payments of every kind from the same twentieth year. The sale, written in x copies, is valid, and I shall also make it for you through a public office without receiving anything else from you, though the taxes and the scribal fees are at your charge. To the question posed by you whether this is done rightly and fairly I have given my consent.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

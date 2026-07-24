@@ -1,0 +1,24 @@
+[META]
+id:       O.BODL 1.365
+label:    O.BODL 1.365
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     259 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (259 BCE)
+# hgv-keywords: Quittung
+tm:       50295
+source:   https://papyri.info/ddbdp/o.bodl;1;365
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κζ Φαῶφι β …
+r.2    πέπτωκεν
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,34 @@
+[META]
+id:       O.ASHM 2
+label:    O.ASHM 2
+name:     Receipt — Theben
+genre:    receipts
+date:     156 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (156 BCE)
+# hgv-keywords: Quittung
+tm:       43518
+source:   https://papyri.info/ddbdp/o.ashm;;2
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους πέμπτου
+r.2    καὶ εἰκοστοῦ Παῦνι
+r.3    λ τέτακται
+r.4    Σαμβαθαῖος Σολλούμιος
+r.5    προβάτων καὶ αἴγων
+r.6    ἑξήκοντα δύο γίνονται ξβ.
+r.7    Ἀδαῖος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

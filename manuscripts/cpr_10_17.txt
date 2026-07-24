@@ -1,0 +1,26 @@
+[META]
+id:       CPR 10.17
+label:    CPR 10.17
+name:     Receipt — Herakleopolites
+genre:    receipts
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Receipt from Herakleopolites (401 CE – 500 CE)
+# hgv-keywords: Quittung — Liturgie — Geld
+tm:       35339
+source:   https://papyri.info/ddbdp/cpr;10;17
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    κατέβαλεν Ἀϊῶν ἄπα Νὰκ ὑπὲρ λειτουργίας πρώτης
+r.2    ἰνδικτίωνος μυριάδας χιλίας· γίνονται δηναρίων μυριάδες Α χαλκοῦ. Μεσορὴ α α ἰνδικτίωνος.
+r.3    Ἀφοῦς ἐπιμελητὴς διʼ ἐμοῦ Ἀνουβίωνος ἐσημειωσάμην
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,24 @@
+[META]
+id:       BGU 6.1416
+label:    BGU 6.1416
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     273 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (273 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       4715
+source:   https://papyri.info/ddbdp/bgu;6;1416
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιγ Φαῶφι κγ ἔχει Ἀριστοτέλης παρὰ Παᾶτος
+r.2    καὶ Χαρβοφ εἰς τὸ τέλος τοῦ Θαὺτ δραχμὰς β.
+
+[TRANSLATION]
+1     
+2     

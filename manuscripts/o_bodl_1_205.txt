@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 1.205
+label:    O.BODL 1.205
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     150 BCE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (150 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       50369
+source:   https://papyri.info/ddbdp/o.bodl;1;205
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    ἔτους λα Παῦνι γ μεμέτρηκεν λα ἔτους [Μεμνονείων]
+r.2    ἐξ ἀντιδιαγραφῆς Νεχώθης Ἑριέως
+r.3    [πυ]ροῦ ϛ γ γίνονται ϛ γ. Ἀντίοχος.
+
+[TRANSLATION]
+1     
+2     
+3     

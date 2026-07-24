@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 220
+label:    O.LEID 220
+name:     Receipt — Theben
+genre:    receipts
+date:     149 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (149 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       24776
+source:   https://papyri.info/ddbdp/o.leid;;220
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [μέτρημα ][θη]σαυροῦ μητροπόλεως γενήματος ιβ ἔτους Ἀντωνίνου
+r.2    [Καίσαρος] τοῦ κυρίου Ἐπεὶφ κβ ὑπὲρ
+r.3    … [ ὀνόματος] Ψεναμοῦνις Παμώνθου
+r.4    [πυροῦ ][δ]ωδέκατον, γίνεται πυροῦ ιβ. Πικῶς σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

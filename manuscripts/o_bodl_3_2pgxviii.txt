@@ -1,0 +1,22 @@
+[META]
+id:       O.BODL 3.2pgxviii
+label:    O.BODL 3.2pgxviii
+name:     Receipt — Elephantine
+genre:    receipts
+date:     132 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (132 CE)
+# hgv-keywords: Quittung — Steuer (Preis für Datteln) — Geld
+tm:       73150
+source:   https://papyri.info/ddbdp/o.bodl;3;2pgxviii
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    … ων, πράκτωρ ἀργυρικῶν Ἐλεφαντίνης … ὑπὲρ τιμῆς [δημο]σίου φοίνικος … ιδ ἔτους … [ἔτους] [ι]ϛ Αὐτοκράτορος Καίσαρος Ἁδριανοῦ Σεβαστοῦ Παῦνι κϛ …
+
+[TRANSLATION]
+1     

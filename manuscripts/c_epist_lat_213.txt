@@ -1,0 +1,32 @@
+[META]
+id:       C.EPIST.LAT 213
+label:    C.EPIST.LAT 213
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     246 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (246 CE)
+# hgv-keywords: Eingabe — Aurelia Maikiane an den Präfekten Valerius Firmus — Antrag auf Erlaubnis zur Ausreise — Bewilligung
+tm:       21785
+source:   https://papyri.info/ddbdp/c.epist.lat;;213
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Οὐαλερίῳ Φίρμῳ ἐπάρχῳ Αἰγύπτου
+r.2    παρὰ Αὐρηλίας Μαρκιανῆς Σιδήτιδος
+r.3    βούλομαι κύριε ἐκπλεῦσαι διὰ Φάρου.
+r.4    ἀξιῶ γράψαι σε τῷ ἐπιτρόπῳ τῆς Φάρου ἀπολῦσαί με κατὰ τὸ ἔθος
+r.5    γ ἔτους ἐπαγομένων α διευτύχει
+
+[TRANSLATION]
+# HGV-EN: To Valerius Firmus, praefect of Egypt, from Aurelia Maeciana of Side. I wish, my lord, to sail out by way of Pharos; I therefore beg you to write to the procurator of Pharos to allow me to leave, as is usual. Pachon 1. Farewell.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,26 @@
+[META]
+id:       O.ELKAB 140
+label:    O.ELKAB 140
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     129 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (129 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24567
+source:   https://papyri.info/ddbdp/o.elkab;;140
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    Αρρῆθις Ὀννώφριος Φθαῦτος
+r.2    μερισμοῦ ιδ ἔτους Ἁδριανοῦ τοῦ
+r.3    κυρίου δραχμὰς δ [γίνονται] δραχμαὶ δ. ἔτους ιδ Θὼθ ε.
+
+[TRANSLATION]
+1     
+2     
+3     

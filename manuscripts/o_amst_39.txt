@@ -1,0 +1,26 @@
+[META]
+id:       O.AMST 39
+label:    O.AMST 39
+name:     Receipt — Theben
+genre:    receipts
+date:     66 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (66 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70386
+source:   https://papyri.info/ddbdp/o.amst;;39
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Θοτεὺς Νεχθμώνθου ὑπὲρ χωματικοῦ
+r.2    ιβ ἔτους δραχμὰς τρεῖς διώβολον βαλανευτικοῦ [τετρώβολον 𐅵, γίνονται δ 𐅵] καὶ τούτων προσδιαγραφόμενα.
+r.3    ἔτους ιβ Νέρωνος [τοῦ κυρίου] Ἐ[πεὶφ] ι. Ἀ[πίων] σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

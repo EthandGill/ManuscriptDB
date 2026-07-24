@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.97
+label:    O.ONT.MUS 2.97
+name:     Receipt — Theben
+genre:    receipts
+date:     102 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (102 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75114
+source:   https://papyri.info/ddbdp/o.ont.mus;2;97
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … Ἁρφμόιτος ὑπὲρ [χωματικοῦ]
+r.2    Ἀγορῶν βορρᾶ ε ἔτους δραχμὰς ἓξ τετρώβολον …
+r.3    … ἔτους ε Τραιανοῦ …
+r.4    μηνὸς Καισαρείου …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

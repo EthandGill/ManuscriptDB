@@ -1,0 +1,32 @@
+[META]
+id:       O.EREM 15
+label:    O.EREM 15
+name:     Receipt — Theben
+genre:    receipts
+date:     185 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (185 CE)
+# hgv-keywords: Quittung — Steuern (Getreide)
+tm:       18330
+source:   https://papyri.info/ddbdp/o.erem;;15
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος κε ἔτους Κομμόδου
+r.2    Ἀντωνίνου Καίσαρος τοῦ κυρίου Ἐπὶφ ι
+r.3    ὑπὲρ Νότου ὀνόματος Ὥρου Διογένους
+r.4    πυροῦ ἕκτον γίνεται πυροῦ ϛ.
+r.5    Ἀμώνιος σεσημείωμαι
+r.6    πυροῦ ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

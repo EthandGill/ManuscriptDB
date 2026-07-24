@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 8.1129
+label:    P.Oxy. 8.1129
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     449 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (449 CE)
+# hgv-keywords: Vertrag — Miete — Zimmer — Speiseräume
+tm:       21747
+source:   https://papyri.info/ddbdp/p.oxy;8;1129
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    μετὰ τὴν ὑπατείαν Φλαουίων Ζήνωνος καὶ Ποστουμιανοῦ
+r.2    τῶν λαμπροτάτων Τῦβι κδ.
+r.3    Αὐρηλίᾳ Μίκι θυγατρὶ Θεοδώρου ἀπὸ τῆς λαμπρᾶς
+r.4    καὶ λαμπροτάτης Ὀξυρυγχιτῶν πόλεως παρὰ Αὐρηλίου
+r.5    Φοιβάμμωνος υἱοῦ Ἀρτεμιδώρου ἀπὸ τῆς αὐτῆς πόλεως.
+r.6    ἑκουσίως ἐπιδέχομαι μισθώσασθαι ἀπὸ νεομηνίας
+r.7    τοῦ ἑξῆς μηνὸς Μεχεὶρ τοῦ ἐνεστῶτος ἔτους ρκε ϙδ
+r.8    τῆς παρούσης δευτέρας ἰνδικτίονος τοὺς διαφέροντάς σοι ἀπὸ οἰκίας οὔσης ἐν τῇ αὐτῇ πόλει ἐπʼ ἀμφόδου
+r.9    Μικρῆς Τευμε[ν]ούθεως δύο τόπους ἤτοι συμπόσια
+r.10   σὺν χρηστηρίοις πᾶσι, καὶ τελέσω ὑπὲρ ἐνοικίου ἐνιαυσίως ἀργυρίου μυριάδας χιλίας διακοσίας , ἅσπερ ἀποδώσω κατʼ ἔτος διʼ ἑξαμήνου τὸ ἥμισυ, καὶ ὁπόταν
+r.11   βουληθῇς παραδώσω τοὺς αὐτοὺς ἀνυπερθέτως.
+r.12   κυρία ἡ μίσθωσις καὶ ἐπερωτηθεὶς ὡμολόγησα.
+r.13   Αὐρήλιος Φοιβάμμων Ἀρτεμιδώρου ὁ προκείμενος μεμίσθωμαι [τοὺ]ς τόπου[ς] κα[ὶ ἀ]π[ο]δώσω τὸ ἐνοίκιον [ὡς] πρόκειται.
+r.14   … [ ἔγρα]ψα ὑπὲρ α[ὐτοῦ γράμματα]
+r.15   μὴ εἰδ[ότος] …
+
+[TRANSLATION]
+# HGV-EN: The year after the consulship of Flavius Zeno and Flavius Postumianus the most illustrious, Tubi 24. To Aurelia Mikis daughter of Theodorus, of the illustrious and most illustrious cityof Oxyrhynchus, from Aurelius Phoebammon son of Artemidorus, of the said city. I undertake of my free will to lease from the first day. of the next month Mecheir of the current 125th which = the 94th year and of the present second indiction two rooms or dining-rooms belonging to you in a house situated in the said city in the quarter of Small Teumenouthis with all appurtenances, and I will pay in rent annually 1,200 myriads of silver, which I will deliver annually in half yearly instalments of one-half, and whenever you wish I will surrender the said rooms without delay. The lease is valid, and in answer to the question I have given my consent.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

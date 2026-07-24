@@ -1,0 +1,30 @@
+[META]
+id:       O.DEISS 41
+label:    O.DEISS 41
+name:     Receipt — Elephantine
+genre:    receipts
+date:     137 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Sydney
+shelf:    
+content:  Receipt from Elephantine (137 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       73856
+source:   https://papyri.info/ddbdp/o.deiss;;41
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Ψανμοῦς πράκτωρ. διέγραψεν Πεκῦσις
+r.2    Πατχναῦτος μητρὸς Θρακῆτος ὑπὲρ μερισμοῦ
+r.3    ποταμοφυλακίδος κα ἔτους ῥυπαρὰν δραχμὴν α τετρώβολον. ἔτους κα
+r.4    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.5    Φαμενὼθ κη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

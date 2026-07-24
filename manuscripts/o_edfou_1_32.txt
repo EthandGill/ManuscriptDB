@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 1.32
+label:    O.EDFOU 1.32
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     75 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (75 CE)
+# hgv-keywords: Quittung — Abgabe — Geld
+tm:       46972
+source:   https://papyri.info/ddbdp/o.edfou;1;32
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Τρυφᾶς Νίκωνος
+r.2    γεωμετρίας ζ ἔτους δραχμὰς
+r.3    τεσσαράκοντα πέντε
+r.4    γίνονται δραχμαὶ με ἔτους η Θῶτ
+r.5    κ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

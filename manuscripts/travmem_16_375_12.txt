@@ -1,0 +1,30 @@
+[META]
+id:       TRAVMEM 16.375_12
+label:    TRAVMEM 16.375_12
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     651 CE – 675 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     Cairo
+shelf:    
+content:  Receipt from Apollonopolis (651 CE – 675 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       702263
+source:   https://papyri.info/ddbdp/travmem;16;375_12
+lat:      25.8851095
+lon:      32.7365555
+
+[GREEK]
+r.1    Δανιὴλ Κατζαμιστᾶ καὶ υἱοῦ
+r.2    ὑπὲρ δημοσίου δευτέρας ἰνδικτίονος
+r.3    χρυσοῦ νομίσματος 𐅵 μηνὶ
+r.4    Φαμενωθ θ ἰνδικτίονος γ
+r.5    Μ … σ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

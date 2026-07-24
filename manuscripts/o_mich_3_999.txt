@@ -1,0 +1,24 @@
+[META]
+id:       O.MICH 3.999
+label:    O.MICH 3.999
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     100 BCE – 100 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (100 BCE – 100 CE)
+# hgv-keywords: Quittung — Namen
+tm:       74978
+source:   https://papyri.info/ddbdp/o.mich;3;999
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ἔτους ιθ Πνεφερῶς Ψενεβέστιος λόγῳ …
+r.2    … γίνονται ρμ.
+
+[TRANSLATION]
+1     
+2     

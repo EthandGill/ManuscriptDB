@@ -1,0 +1,26 @@
+[META]
+id:       P.Oxy. 74.5012
+label:    P.Oxy. 74.5012
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (301 CE – 400 CE)
+# hgv-keywords: Befehl — NN an NN — Überstellung
+tm:       128318
+source:   https://papyri.info/ddbdp/p.oxy;74;5012
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … οὐετρανῶν καὶ Ἀνουβᾶν ποιμένα αἰτιαθέντας
+r.2    [ὑπὸ] … ωρίωνος βουλευτοῦ. σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: . . . of (the) veterans and Anoubas, shepherd, accused by . . . —orion, bouleutes. (2nd hand) I have signed. (R. Hatzilambrou)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.987
+label:    O.BODL 2.987
+name:     Receipt — Theben
+genre:    receipts
+date:     234 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (234 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71675
+source:   https://papyri.info/ddbdp/o.bodl;2;987
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ ἐπαγομένων β τοῦ ιγ ἔτους
+r.2    ὀνόματος Ποριεύθου Ψενσενκαμήτιος
+r.3    ὑπὲρ τιμῆς λαχάνου δραχμὰς
+r.4    τέσσαρας γίνονται δραχμαὶ δ. Αὐρήλιος Ἀπολλώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

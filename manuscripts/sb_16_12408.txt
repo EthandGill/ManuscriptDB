@@ -1,0 +1,26 @@
+[META]
+id:       SB 16.12408
+label:    SB 16.12408
+name:     Receipt — Medinet Habu (Theben)
+genre:    receipts
+date:     258 BCE
+language: Greek (Koiné)
+found:    Medinet Habu (Theben)
+held:     
+shelf:    
+content:  Receipt from Medinet Habu (Theben) (258 BCE)
+# hgv-keywords: Datum — Name — Salz — Geld — Quittung — Steuer
+tm:       4123
+source:   https://papyri.info/ddbdp/sb;16;12408
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους κη Θαὺτ ε
+r.2    Τσομμαντ ἅλας ἑξαμήνου
+r.3    τριώβολον.
+
+[TRANSLATION]
+1     
+2     
+3     

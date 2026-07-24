@@ -1,0 +1,54 @@
+[META]
+id:       PYLON 8.8
+label:    PYLON 8.8
+name:     Documentary papyrus — Herakleia (Arsinoites)
+genre:    documents
+date:     40 CE
+language: Greek (Koiné)
+found:    Herakleia (Arsinoites)
+held:     London
+shelf:    
+content:  Documentary papyrus from Herakleia (Arsinoites) (40 CE)
+# hgv-keywords: Eid — Land — Arbeiten — Abgaben
+tm:       19977
+source:   https://papyri.info/ddbdp/pylon;8;8
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … εος ὡς ἐτῶν ν οὐλὴ ἀντικνημίῳ ἀριστερῷ
+r.2    Πανεὺς Π … εος τῶν ἀπὸ Ἡρακλείας τοῖς παρὰ
+r.3    Πρόβου Τυράννου Γαίου Καίσαρος Σεβαστοῦ Γερμ[ανικοῦ·]
+r.4    ὀμνύ[ω] Γ[ά]ιον Καίσαρα Σεβαστὸν Γερμανικὸν εἶ μὴν
+r.5    [γεωρ]γήσειν ἀπὸ τοῦ ἐνεστῶ[τος] τετάρτου ἔ[τ]ους Γαίου
+r.6    Καίσαρο[ς] Σ[εβ]αστοῦ Γερμανικοῦ ἀπὸ τῶν περὶ τὴν
+r.7    προγεγρα[μ]μένην κώμην τῆς Γαίου Καίσαρος Σεβαστοῦ
+r.8    Γερμανικοῦ οὐσίας πρότερον Διονυσοδώρου ἐδαφῶν
+r.9    ἀρούρας τρεῖς ὑπὲρ ὧν ποιήσομαι τὰ καθήκοντα
+r.10   γεωργικὰ ἔργα πάντα ἐκ τοῦ ἰδίου καὶ λήμψομαι τὰ ὑπὲρ αὐτῶν σπέρματα καὶ μετρήσω τὰ εἰθισμένα
+r.11   ὑπὲρ αὐτῶ[ν] ἐκφόρια καὶ προσμετρούμενα κα …
+r.12   … τὴν γεωργίαν. εὐορκοῦντ[ι μέν μοι]
+r.13   εὖ εἴη, ἐφιορκοῦντι δὲ τὰ ἐναντία. ἔγραψε [ὑπὲρ αὐτοῦ]
+r.14   ὁ [τῆ]ς Ἡρακλείας νομογράφος [διὰ] τὸ [μὴ εἰδέναι]
+r.15   αὐτὸν γράμματα. ἔτους δ Γαίου Καίσαρο[ς Σεβαστοῦ]
+r.16   [Γερμανικοῦ] μηνὸς Γαίου Σεβαστοῦ [ … .]
+
+[TRANSLATION]
+# HGV-EN: “ … about 50 years old, mark on his left shin. Paneus son of … from Herakleia to the agents of Probus, (slave) of Tyrannos, (slave) of Gaius Caesar Augustus Germanicus. I swear by Gaius Caesar Augustus Germanicus that I will farm from the present fourth year of Gaius Caesar Augustus Germanicus three arouras of the fields around the said village, which belong to the estate of Gaius Caesar Augustus Germanicus, previously belonging to Dionysodoros, on behalf of which I will perform all requisite agricultural tasks at my own expense and I will receive seed for the fields and I will measure out the customary rents on the fields with surcharges … the leasehold. If [I] keep the oath, may it be to my benefit, but if I break the oath, the opposite. The notary of Herakleia wrote [for him because] he [does not know] letters. Year 4 of Gaius Caesar Augustus Germanicus, nth of the month Gaius Augustus.”
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

@@ -1,0 +1,38 @@
+[META]
+id:       O.MON.EPIPH 107
+label:    O.MON.EPIPH 107
+name:     Letter — Theben (Ägypten)
+genre:    letters
+date:     601 CE – 650 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     New York
+shelf:    
+content:  Letter from Theben (Ägypten) (601 CE – 650 CE)
+# hgv-keywords: Brief
+tm:       86640
+source:   https://papyri.info/ddbdp/o.mon.epiph;;107
+lat:      25.72493
+lon:      32.60255
+
+[GREEK]
+r.1    ⲁⲛⲟⲕ ⲡⲓἐλάχιστος
+r.2    ⲃⲓⲕⲧⲱⲣ ⲉϥⲥϩⲁⲓ
+r.3    ⲓⲱϩⲁⲛⲏⲥ ⲙⲛ ⲉⲛⲱⲭ ⲙⲛ ⲁⲛⲇⲣⲉⲁⲥ
+r.4    ⲛⲉ ⲛⲁⲉⲓⲁⲧⲉ ϩⲙ ⲡϫⲟⲉⲓⲥ κατά
+r.5    ⲑⲉ ⲁⲡⲉⲛⲉⲓⲱⲧ ⲓⲥⲁⲕ ⲱϣ ⲉϩⲣⲁⲓ ϫⲉ ⲛⲁϣⲏⲣⲉ ⲙⲛ ⲛⲉⲩⲉⲣⲉⲩ
+r.6    ⲙⲁ ⲛⲕⲁⲡⲉⲧⲟⲥ ⲟⲩϣⲓⲛⲉ
+r.7    ⲧⲉⲣⲱⲙⲉ ⲕⲱϣⲧ ⲡⲉⲧⲛϩⲱⲃ ⲉⲓⲥ ⲛⲉⲧⲛⲥⲛⲏⲩ ⲁⲓϫⲟⲟⲩⲥⲟⲩ ⲛⲏⲧⲛ ⲟⲩϫⲁⲓ
+r.8    ϩⲙ ⲡϫⲟⲉⲓⲥ
+
+[TRANSLATION]
+# HGV-EN: I, the humble Victor, write to John, Enoch and Andreas, my fathers in the Lord. As our father? Isaac cried out, saying, ‘My children, with one another. As regards Kapetos?,’ it is shameful men should behold your work(s). Lo, I have sent your brethren to you. Farewell in the Lord.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

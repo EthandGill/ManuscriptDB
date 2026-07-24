@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1181
+label:    O.BODL 2.1181
+name:     Receipt — Theben
+genre:    receipts
+date:     87 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (87 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       71865
+source:   https://papyri.info/ddbdp/o.bodl;2;1181
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ διοικήσεως Ἄνω τοπαρχίας γενήματος ζ ἔτους
+r.2    Δομιτιανοῦ Καίσαρος τοῦ κυρίου Θὼτ ιγ
+r.3    ὀνόματος Παμώνθου μητρὸς Σενπαμώνθου
+r.4    σωροῦ πυροῦ ἀρτάβη μία τρίτον τετρακαιεικοστόν
+r.5    γίνεται πυροῦ ἀρτάβη α γ κδ. Βάσσος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

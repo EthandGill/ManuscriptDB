@@ -1,0 +1,26 @@
+[META]
+id:       O.DEISS 16
+label:    O.DEISS 16
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     99 BCE – 98 BCE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Sydney
+shelf:    
+content:  Receipt from Theben (Ägypten) (99 BCE – 98 BCE)
+# hgv-keywords: Quittung — Spreu
+tm:       73829
+source:   https://papyri.info/ddbdp/o.deiss;;16
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Ἡ]ρακλείδης Περμάμι
+r.2    χαίρειν. παραδέδωκας ἀχύρου μώια δεκαπέντε γίνεται μώια ιε.
+r.3    ἔτους …
+
+[TRANSLATION]
+1     
+2     
+3     

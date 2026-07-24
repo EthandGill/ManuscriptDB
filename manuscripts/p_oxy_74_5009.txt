@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 74.5009
+label:    P.Oxy. 74.5009
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     201 CE – 400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (201 CE – 400 CE)
+# hgv-keywords: Befehl — decurio an die Komarchen und Epistatai Eirenes — Überstellung
+tm:       128315
+source:   https://papyri.info/ddbdp/p.oxy;74;5009
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    παρὰ τοῦ δεκαδάρχου
+r.2    κωμάρχαις καὶ ἐπιστάτῃ εἰρήνης κ …
+r.3    ἐξαυτῆς παράδοτε τῷ διαπεμφθέν[τι] …τᾶν καὶ Σαραπίωνα καὶ Πετέμουν[ιν] … [ἐντυ]χόντος Ἀμμωνιανοῦ …
+r.4    … ατίων[ο]ς ἐξηγητ[εύσαντος].
+
+[TRANSLATION]
+# HGV-EN: From the decurio to the comarchs and epistates eirenes of . . . Immediately hand over to the dispatched . . . —tas and Sarapion and Petemunis . . . at the petition of Ammonianus . . . —ation, ex-exegetes. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

@@ -1,0 +1,26 @@
+[META]
+id:       O.DID 26
+label:    O.DID 26
+name:     Letter — Didymoi
+genre:    letters
+date:     220 CE – 250 CE
+language: Greek (Koiné)
+found:    Didymoi
+held:     Qift
+shelf:    
+content:  Letter from Didymoi (220 CE – 250 CE)
+# hgv-keywords: Brief (privat?) — Kylindros an NN — Bestätigung des Empfangs einer Sendung (?) — Fragment
+tm:       144593
+source:   https://papyri.info/ddbdp/o.did;;26
+lat:      25.7543330528
+lon:      33.3947791619
+
+[GREEK]
+r.1    Κύλινδρος …δι χαίρειν. …
+r.2    παρὰ Ψεν …πτωμα …
+r.3    τενει … ο …
+
+[TRANSLATION]
+1     
+2     
+3     

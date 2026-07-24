@@ -1,0 +1,58 @@
+[META]
+id:       P.Oxy. 1.45
+label:    P.Oxy. 1.45
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     95 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (95 CE)
+# hgv-keywords: Brief (amtlich) — Phanias mit Kollegen an die Agoranomen — Nachricht über den Kauf von Land (Katöken)
+tm:       20707
+source:   https://papyri.info/ddbdp/p.oxy;1;45
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Φανίας καὶ Ἡρακλᾶ[ς] καὶ Διογένης ὁ καὶ Ἑρμαῖος
+r.2    οἱ ἀσχολούμενοι τοὺς καταλοχισμοὺς τοῖς ἀγορανόμοις
+r.3    χαίρειν. Διογένους τοῦ Πτολεμαίου
+r.4    παρακεχωρημένου παρὰ Ταποτάμωνος τῆς Πτολεμαίου τοῦ Κολύλιδος,
+r.5    μετὰ κυρίου τοῦ θυγατριδοῦ Πλουτάρχου
+r.6    τοῦ Πλουτάρχου τοῦ Πλουτάρχου, καθʼ ὁμολογίαν
+r.7    γεγονυῖαν τῇ ἐνεστώσῃ ἡμέρᾳ τὴν
+r.8    ὑπάρχουσαν αὐτῇ περὶ κώμην Κορῶβιν
+r.9    ἐκ τοῦ Μενοιτίου κλήρου κατοικικῆς
+r.10   γῆς σιτοφόρου σπορίμου ἐξ ὀρθογωνίου
+r.11   ἄρουραν μίαν ἥμισυ τρίτον δωδέκατον , γράφομεν ὑμῖν ἵνʼ εἰδῆτε.
+r.12   ἔρρωσθε.
+r.13   ἔτους ιδ Αὐτοκράτορος Καίσαρος
+r.14   Δομιτιανοῦ Σεβαστοῦ Γερμανικοῦ, μηνὸς
+r.15   Καισαρείου ἐπαγομένων ϛ.
+r.16   Ἡρακλᾶς σεσημείωμαι ἄρουραν μίαν
+r.17   ἥμισυ τρίτον δωδέκατον,
+r.18   γίνεται ἄρουρα α 𐅵 γ ιβ. χρόνος ὁ αὐτός.
+
+[TRANSLATION]
+# HGV-EN: Phanias, Heraclas, and Diogenes also called Hermaeus, officials employed in land distribution, to the agoranomi, greeting. Diogenes, son of Ptolemaeus, has had ceded to him by Tapotamon, the daughter of Ptolemaeus, son of Kolylis, acting with her guardian who is her grandson Plutarchus, son of Plutarchus, son of Plutarchus, in accordance with the terms of a contract executed this day, a square piece of allotment corn land ready for sowing, the property of Tapotamon, situated near the village of Korobis and forming part of the lot of Menoetius, in size 1 + 1/2 + 1/3 + 1/12 arourae. We therefore write to you to inform you. Farewell.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

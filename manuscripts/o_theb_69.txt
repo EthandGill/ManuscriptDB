@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 69
+label:    O.THEB 69
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     198 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (Ägypten) (198 CE)
+# hgv-keywords: Quittung — Steuern (Webersteuer) — Geld
+tm:       76439
+source:   https://papyri.info/ddbdp/o.theb;;69
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Ν]εφερῶς καὶ μέτοχοι ἐπιτηρηταὶ τέλους γερδίων.
+r.2    [ἔ]σχον παρὰ σοῦ ὑπὲρ τέλους γερδίων τοῦ
+r.3    ἔτους ζ ὀνόματος Πετεμενώφιος ὑπὲρ
+r.4    Φαῶφι δραχμὰς δ καὶ ἀπὸ Ἁθὺρ
+r.5    δραχμὰς δ γίνονται δραχμαὶ δ τοῦ ἔτους ζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

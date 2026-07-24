@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.41
+label:    O.STRAS 1.41
+name:     Receipt — Theben
+genre:    receipts
+date:     16 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (16 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75641
+source:   https://papyri.info/ddbdp/o.stras;1;41
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ὧρος Σεειανοῦ τέτακται
+r.2    [λαογραφίας] ιδ ἔτους δραχμὰς ι. ἔτους ιδ Καίσαρος Μεχεὶρ γ.
+r.3    Κέφαλος τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     

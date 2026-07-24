@@ -1,0 +1,34 @@
+[META]
+id:       O.ASHM.SHELT 13
+label:    O.ASHM.SHELT 13
+name:     Receipt — Theben
+genre:    receipts
+date:     124 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (124 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70565
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;13
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παμώνθης καὶ μέτοχοι τελῶναι
+r.2    θησαυροῦ ἱερῶν
+r.3    Ἐσμῖνι νεωτέρῳ Ὥρου.
+r.4    ἔσχομεν παρὰ σοῦ
+r.5    ὑπὲρ βαλανευτικοῦ τοῦ η ἔτους
+r.6    Ἁδριανοῦ τοῦ κυρίου,
+r.7    Φαμενὼθ β.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

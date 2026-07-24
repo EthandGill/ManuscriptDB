@@ -1,0 +1,28 @@
+[META]
+id:       O.ELKAB 186
+label:    O.ELKAB 186
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     130 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (130 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24597
+source:   https://papyri.info/ddbdp/o.elkab;;186
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    Ταβοῦς Πετορτωύτου διὰ
+r.2    ρ … φ ρ … φ … τέλους ιγ ἔτους Ἁδριανοῦ
+r.3    τοῦ κυρίου τετρώβολον, γίνονται τετρώβολον.
+r.4    ἔτους ιδ Μεχεὶρ δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

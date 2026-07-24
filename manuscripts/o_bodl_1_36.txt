@@ -1,0 +1,24 @@
+[META]
+id:       O.BODL 1.36
+label:    O.BODL 1.36
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     230 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (230 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       70895
+source:   https://papyri.info/ddbdp/o.bodl;1;36
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιη Φαῶφι ιη πέπτωκεν νιτρικῆς παρὰ Ὥρου τοῦ Π … χ …
+r.2    εἰς τὸν … δραχμ 20.
+
+[TRANSLATION]
+1     
+2     

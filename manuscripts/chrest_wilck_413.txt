@@ -1,0 +1,30 @@
+[META]
+id:       CHREST.WILCK 413
+label:    CHREST.WILCK 413
+name:     Receipt — Theben
+genre:    receipts
+date:     19 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (19 CE)
+# hgv-keywords: Quittung — Steuern — Besuch des Germanicus in Theben
+tm:       23486
+source:   https://papyri.info/ddbdp/chrest.wilck;;413
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν ἐπὶ τὴν ἐν Διὸς πόλει τῆι μεγάληι [τράπεζαν] Φατρῆς
+r.2    Ψενθώτου ὑπὲρ τιμῆς πυροῦ τοῦ ἐκ θησαυροῦ σ … ε
+r.3    … μ … ου εἰς παρουσίαν Γερμανικοῦ
+r.4    Καίσαρος ῥυπαρὰς δραχμὰς … γίνονται δραχμαὶ … ἔτους ε Τιβερίου
+r.5    Καίσαρος Σεβαστοῦ Τῦβι λ … Μηνόδωρος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

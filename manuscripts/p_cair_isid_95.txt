@@ -1,0 +1,54 @@
+[META]
+id:       P.CAIR.ISID 95
+label:    P.CAIR.ISID 95
+name:     Contract — Karanis (Arsinoites)
+genre:    contracts
+date:     310 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Karanis (Arsinoites) (310 CE)
+# hgv-keywords: Vertrag — Darlehen — Getreide — Saatgut
+tm:       10427
+source:   https://papyri.info/ddbdp/p.cair.isid;;95
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ὁμ[ο]λογεῖ Αὐρήλ[ιος] Ἡρᾶς Μέλανος μητρὸς Ἀδωρᾶ
+r.2    ἀπ[ὸ] κώμης Καρα[ν]ίδος ἔχειν παρὰ τῶν Αὐρηλίων
+r.3    Ἰσι[δ]ώρου Πτολεμαίου καὶ Ἀντωνίου Ἀντωνίου
+r.4    καὶ Κασιανοῦ Σαπροῦ καὶ τῶν κοινωνῶν πάντων
+r.5    σιτολόγων ἀπὸ τῆς αὐτῆς κώμης Καρανίδος εἰς
+r.6    δάν[ει]ον τὰς τοῦ πυροῦ ἀρτάβας ἕξ, ἀρτάβας ϛ, καὶ ἡμιολίας τῶν αὐτῶν ἀρτάβας γ, γίνονται σὺν ἡμιολίᾳ
+r.7    ἀρτάβαι ἐννέα , καὶ ἀποδώσειν τῇ προθεσμίᾳ
+r.8    μηνὶ Παῦνι τὰς τοῦ πυροῦ ἀρτάβας ἐννέα ὡς
+r.9    πρόκειται. καὶ ἐπερωτηθεὶς ὡμολόγησεν.
+r.10   ὑπατείας τῶν δεσποτῶν ἡμῶν Οὐαλερίου Λικιννιανοῦ
+r.11   [Λι]κι[νν]ίου Σεβαστοῦ καὶ Φλαυίου Οὐαλερίου Κωνσταντίνου
+r.12   υἱοῦ Σ[ε]βαστῶν, Τῦβι ιζ. Αὐρήλιος Ἡρᾶς ἔ[σ]χον τὰς
+r.13   [τοῦ πυ]ροῦ ἀρτάβας ἓξ καὶ ἡμιολίας ἀρτάβας τρεῖς
+r.14   κ[αὶ ][ἀπο]δώσω ὡ[ς] πρόκιται. Αὐρήλιος Σεύθης ἔγραψα
+r.15   ὑ[π]ὲρ αὐτοῦ ἀγραμμάτου.
+r.16   ιη ἔτους καὶ ϛ ἔτους Τῦβι ιζ.
+
+[TRANSLATION]
+# HGV-EN: [Translation from P. Cair. Isid.] Aurelius Heras, son of Melas and Adoras, of the village of Karanis, acknowledges that he has received from Aurelius Isidorus, son of Ptolemaeus; Aurelius Antonius, son of Antonius; Aurelius Casianus, son of Saprus, and all the associate sitologoi of the same village of Karanis, as a loan, the six artabas of wheat, 6 art., and 3 art. as interest of fifty per cent thereon, equal nine artabas including interest. I (sic) will return the nine artabas of wheat, as aforesaid, at the appointed time in the month of Pauni. In response to the formal question, he has so declared. The consulship of our lords Valerius Licinianus Licinius Augustus and Flavius Valerius Constantine, son of the Augusti, Tybi 17. (2nd hd.) I, Aurelius Heras, have received the six artabas of wheat, and three artabas as interest of fifty per cent, and I will return them, as aforesaid. I, Aurelius Seuthes, have written for him since he is illiterate. The 18th year and the 6th year, Tybi 17.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

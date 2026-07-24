@@ -1,0 +1,44 @@
+[META]
+id:       P.Oxy. 12.1457
+label:    P.Oxy. 12.1457
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     4 BCE – 3 BCE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (4 BCE – 3 BCE)
+# hgv-keywords: Registrierung von Eseln
+tm:       21858
+source:   https://papyri.info/ddbdp/p.oxy;12;1457
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἀρίστωνι καὶ Πτολ[εμαίῳ]
+r.2    τοῖς ἐξειληφόσι τὴν ἑξαδραχμίαν τῶν ὄνων
+r.3    παρὰ Θοώνι[ο]ς τοῦ Θώνιος.
+r.4    ἀπογράφομαι εἰς τὸ ἐνεστηκὸς κζ ἔτος Καίσαρος
+r.5    τὰς ὑπαρχούσας μοι ὄ[νους]
+r.6    θηλείας δύο λε[υκόχροας]
+r.7    ἐν τῇ ὑπαρχούσῃ μ[οι ο]ἰκίᾳ ἐπὶ τοῦ πρὸς Ὀξυρύγχων πόλει Σαραπιήου ἀπὸ
+r.8    νότου τοῦ δρόμου ἐργαζομένας μου τὰ ἴδια ἔργα.
+r.9    εὐτυχεῖτε.
+r.10   σεσημείωται. …
+r.11   ἔτους κζ Καίσαρ[ος] Τῦ[βι ] …
+
+[TRANSLATION]
+# HGV-EN: To Ariston and Ptolemaeus, farmers of the six-drachmae tax upon asses, from Thoënis son of Thonis. I register for the present 27th year of Caesar the two light-coloured female asses which belong to me at the house belonging to me at the Serapeum at Oxyrhynchus on the south of the Square, and are employed upon my own work. Farewell. Signed. The 27th year of Caesar, Tubi ..
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

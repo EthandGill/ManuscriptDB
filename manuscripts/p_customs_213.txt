@@ -1,0 +1,24 @@
+[META]
+id:       P.CUSTOMS 213
+label:    P.CUSTOMS 213
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (1 CE – 200 CE)
+# hgv-keywords: Quittung — Torzoll — Steuer
+tm:       25713
+source:   https://papyri.info/ddbdp/p.customs;;213
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    πάρες διὰ πύλης Σοκνο[παίου]
+r.2    Νήσου ἐρημοφυλακί[ας] …
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,26 @@
+[META]
+id:       O.KROK 2.210
+label:    O.KROK 2.210
+name:     Letter — Krokodilo
+genre:    letters
+date:     98 CE – 117 CE
+language: Greek (Koiné)
+found:    Krokodilo
+held:     Qift
+shelf:    
+content:  Letter from Krokodilo (98 CE – 117 CE)
+# hgv-keywords: Brief (privat) — Clemens an Paramonos
+tm:       704495
+source:   https://papyri.info/ddbdp/o.krok;2;210
+lat:      25.9426109674
+lon:      33.4011614055
+
+[GREEK]
+r.1    Κλήμης
+r.2    Παραμόνῳ τῷ
+r.3    ἀδελφῷ
+
+[TRANSLATION]
+1     
+2     
+3     

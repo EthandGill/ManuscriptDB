@@ -1,0 +1,38 @@
+[META]
+id:       BGU 2.391
+label:    BGU 2.391
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     153 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (153 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       9145
+source:   https://papyri.info/ddbdp/bgu;2;391
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ἔτους ἑπτακαιδεκάτου Αὐτοκράτορος
+r.2    Καίσαρος Τίτου Αἰλίου Ἁδριανοῦ
+r.3    Ἀντωνείνου Σεβαστοῦ Εὐσεβοῦς
+r.4    Ἁθὺρ ε. διέγραψε Σωκράτῃ καὶ μετόχοις πράκτορσι ἀργυρικῶν
+r.5    Καρανίδος Ὧρος Ἀχιλλᾶ τοῦ Ὥρου
+r.6    μητρὸς Σωτηρίδος ὑπὲρ Φάσιτος Σισόιτος
+r.7    μητρὸς Δημαροῦτος χωμάτων πεντεκαιδεκάτου ἔτους
+r.8    δραχμὰς ἕξ τετρώβολον γίνονται δραχμαὶ ϛ τετρώβολον προσδιαγραφόμενα μία χαλκοῦς 2 γίνεται δραχμὴ α χαλκοῖ 2
+
+[TRANSLATION]
+# HGV-EN: Year seventeen of Imperator Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, Hathyr 5. Paid to Sokrates and his associates, collectors of money taxes of Karanis, (by) Horos, son of Achillas, the son of Horos, mother Soteris, on behalf of Phasis, son of Sisois, mother Demarous, for dike taxes of the fifteenth year, six drachmas 4 obols, = 6 drachmas 4 obols, for extra charges one (drachma) 2 chalkoi, = 1 drachma 2 chalkoi.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

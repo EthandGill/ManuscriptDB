@@ -1,0 +1,46 @@
+[META]
+id:       P.Oxy. 17.2119
+label:    P.Oxy. 17.2119
+name:     Documentary papyrus — Areos (Hermopolites)
+genre:    documents
+date:     219 CE
+language: Greek (Koiné)
+found:    Areos (Hermopolites)
+held:     
+shelf:    
+content:  Documentary papyrus from Areos (Hermopolites) (219 CE)
+# hgv-keywords: Bericht von Sitologen — Erhalt von Weizen — Artaben
+tm:       17502
+source:   https://papyri.info/ddbdp/p.oxy;17;2119
+lat:      
+lon:      
+
+[GREEK]
+r.1    Αὐρηλίῳ Σαραπίωνι τῷ [κ]αὶ Ἀπολλωνιανῷ
+r.2    στρατηγῷ Ἑρμοπολίτου
+r.3    παρὰ σιτολόγων δημοσίου θησαύρου Ἄρεως μερίδος
+r.4    Ποαμπιμήνεως τόπου Πατρὴ ἄνω. ἐμετρήθησαν
+r.5    ἡμῖν εἰς τὸν προκείμενον θησαυρὸν ἀπὸ γενημάτων
+r.6    τοῦ ἐνεστῶτος β ἔτους Μάρκου Αὐρηλίου Ἀντωνίνου
+r.7    Καίσαρ[ος] τοῦ κυρίου πυροῦ δοχικῷ ἀρτάβας τέσσαρας,
+r.8    γίνονται πυροῦ ἀρτάβαι δ, αἱ ἀναφερόμεναι διὰ μηνιαίου [τ]οῦ
+r.9    Ἐπεὶφ καὶ διαστελλόμεναι ὑπὲρ πρακτορίας
+r.10   … α … ἔτους β Αὐτοκράτορος Καίσαρος
+r.11   Μάρκου Αὐρηλίου Ἀντωνίνου Εὐσεβοῦς Εὐτυχοῦς
+r.12   [Σεβαστοῦ, Ἐπεὶφ] ιβ. …
+
+[TRANSLATION]
+# HGV-EN: To Aurelius Sarapion also called Apollonianus, strategus of the Hermopolite nome, from the sitologi of the public granary of the village Areos in the district of Poampimenis in the toparchy of upper Patre. There have been measured to us at the above granary from the produce of the present 2nd year of Marcus Aurelius Antoninus Caesar the lord four artabae of wheat by the receiving measure, total 4 art. of wheat, which are being recorded in the monthly report for Epeiph and paid on account of the collecting area of ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

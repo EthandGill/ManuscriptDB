@@ -1,0 +1,44 @@
+[META]
+id:       P.Oxy. 10.1261
+label:    P.Oxy. 10.1261
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     325 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (325 CE)
+# hgv-keywords: Erklärung — Eid — Empfang und Verteilung von Getreide gegen Quittungen Besuch des Kaisers
+tm:       21804
+source:   https://papyri.info/ddbdp/p.oxy;10;1261
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    μετ[ὰ] τὴν ὑπατείαν τῶν δεσποτῶν ἡμῶν Κρίσπου καὶ Κωνσταντίνο[υ] τῶν ἐπιφανεστά[τω]ν
+r.2    Καισάρων τὸ γ.
+r.3    Φλαουίωι Σαραπίωνι ἑκατοντάρχῳ τάξ[ε]ως τοῦ διασημοτάτου καθολικοῦ
+r.4    παρʼ Αὐρηλίου Ἡρακλέους Κοιλακίου βουλευτοῦ τῆς λαμπρᾶς καὶ λαμπροτάτης Ὀξυρυγχιτῶν πόλεως ἐπιμελητοῦ
+r.5    ζ[ῴ]ων ὀμνύω τὸν σεβάσμιον θεῖον ὅρκον ἡμῶν Αὐτοκράτορός
+r.6    [τ]ε καὶ Καισάρων παρειληφέναι ἀπὸ γενήματος ιβ [ἰ]νδικτίονος λιτρῶν μυριάδας β Δσλε ,
+r.7    εἰς τὴν [ἐσο]μένην ἐπιδημίαν λιτρῶν μυριάδα α , καὶ εἰς εὐθενίαν τῶν ἐν Βαβυλῶνι
+r.8    διακειμένων γενναιοτάτων στρατιωτῶν ὑπὸ Σουηριανὸν πρ[α]ιπόσιτον
+r.9    λιτρῶν μυριάδα α Δσλε , καὶ τὸ ἀνάλωμα, κατενε[γ]κεῖν καὶ τὴν διάδοσιν τούτων ποιήσασθαι ὁπόταν κελευσθῶ ἀριθμῷ πλήρη καὶ τῆς παραδόσεως
+r.10   γράμματα ἐπενε[γ]κεῖν, εἰς τὸ ἐν μηδενὶ μεμφθῆναι, ἢ ἔνοχος
+r.11   εἴην τῷ θείῳ ὅρκῳ. ὑπατείας τῆς προκειμένης Τῦβι ιη.
+
+[TRANSLATION]
+# HGV-EN: The year after the third consulship of our masters Crispus and Constantinus, the most illustrious Caesars. To Flavius Sarapion, centurion on the staff of the most eminent catholicus, from Aurelius’ Heracles son of Coelacius, senator of the illustrious and most illustrious city of Oxyrhynchus, superintendent of ... I swear the holy divine oath by our masters the Emperor and Caesars that I have received from the produce of the 12th indiction 24,235 pounds, for the coming visit 10,000 pounds, and for provisioning the most noble soldiers quartered at Babylon under Severianus, praepositus, 14.235 pounds, and the expenses, to carry down and make the distribution of them in ful whenever I am ordered, and I will produce the receipts for the delivery, without giving any cause for complaint; otherwise may I be liable to the penalties of the divine oath. The aforesaid consulship, Tubi 18.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

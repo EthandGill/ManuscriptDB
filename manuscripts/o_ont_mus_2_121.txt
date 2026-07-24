@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.121
+label:    O.ONT.MUS 2.121
+name:     Receipt — Theben
+genre:    receipts
+date:     132 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (132 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75140
+source:   https://papyri.info/ddbdp/o.ont.mus;2;121
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἐπικράτης ἐπιτηρητὴς
+r.2    Πετεμενώφιος Λολοῦτος
+r.3    ἔσχομεν τὸ βαλανευτικὸν.
+r.4    ἔτους ιϛ Ἁδριανοῦ
+r.5    Φαμενὼθ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.459
+label:    O.BODL 2.459
+name:     Receipt — Elephantine
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (144 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71160
+source:   https://papyri.info/ddbdp/o.bodl;2;459
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [το]ῦ ιζ ἔτους Ἀντωνείνου
+r.2    Καίσαρος τοῦ κυρίου ῥυπαρὰς δραχμὰς
+r.3    δέκα ἑπτὰ ὀβολὸν γίνονται δραχμαὶ ιζ ὀβολὸς.
+r.4    Φαρμοῦθι κδ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

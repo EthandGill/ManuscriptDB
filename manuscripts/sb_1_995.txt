@@ -1,0 +1,28 @@
+[META]
+id:       SB 1.995
+label:    SB 1.995
+name:     Documentary papyrus — Elephantine
+genre:    documents
+date:     245 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Documentary papyrus from Elephantine (245 BCE)
+# hgv-keywords: Rücktritt von einer Klage
+tm:       43706
+source:   https://papyri.info/ddbdp/sb;1;995
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔτους γ, Θωύτ. συνγραφή,
+r.2    ἣν ἐποιήσατο Κᾶπις
+r.3    Ταστῖτι ἀποστασίου
+r.4    περὶ ὧν ἐν[εκά]λει αὐτῆι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

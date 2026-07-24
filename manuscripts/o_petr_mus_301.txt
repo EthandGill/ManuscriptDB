@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 301
+label:    O.PETR.MUS 301
+name:     Receipt — Koptos
+genre:    receipts
+date:     59 CE
+language: Greek (Koiné)
+found:    Koptos
+held:     
+shelf:    
+content:  Receipt from Koptos (59 CE)
+# hgv-keywords: Quittung — Steuer (Deichsteuer) — Bank
+tm:       169765
+source:   https://papyri.info/ddbdp/o.petr.mus;;301
+lat:      25.9967
+lon:      32.8167
+
+[GREEK]
+r.1    διαγέγραφε διὰ τῆ[ς] … [βασιλικῆς] [τραπέζης] [ὑπὲρ]
+r.2    χωματικοῦ δ ἔτους Ἀράβων …
+r.3    Ἁρπαῆσις Ἐπωνύχου …
+r.4    δραχμὰς ε διώβολον ἔτους ε Νέρωνο[ς Κλαυδίου]
+r.5    Καίσαρος Φαῶφι ιδ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

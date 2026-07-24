@@ -1,0 +1,26 @@
+[META]
+id:       O.CAIR 94
+label:    O.CAIR 94
+name:     Receipt — Syene oder Elephantine
+genre:    receipts
+date:     152 CE
+language: Greek (Koiné)
+found:    Syene oder Elephantine
+held:     
+shelf:    
+content:  Receipt from Syene oder Elephantine (152 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       73442
+source:   https://papyri.info/ddbdp/o.cair;;94
+lat:      24.0885745
+lon:      32.901491
+
+[GREEK]
+r.1    ιε ἔτους Ἀντωνείνου Καίσαρος
+r.2    τοῦ κυρίου Φαρμοῦθι ιϛ. διέγραψεν Πετορζμῆτις Φανώφεως μητρὸς Σενπατανοῦκις ὑπὲρ χειρωναξίου ιε ἔτους
+r.3    δραχμὰς δώδεκα, γίνονται δραχμαὶ ιβ. διὰ Ἀμμωνίου.
+
+[TRANSLATION]
+1     
+2     
+3     

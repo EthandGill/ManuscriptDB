@@ -1,0 +1,36 @@
+[META]
+id:       P.Oxy. 72.4878
+label:    P.Oxy. 72.4878
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     135 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (135 CE)
+# hgv-keywords: Auftrag an die Sitologen von Monimu (diastolikon) — Giro - Überweisung von Weizen
+tm:       114258
+source:   https://papyri.info/ddbdp/p.oxy;72;4878
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Ὧρος Παυσίριος διὰ Ἀμμωνίου φίλου
+r.2    Ἀπολλω καὶ Ἁρπαήσει καὶ μετόχοις σιτολόγοις ἄνω
+r.3    τοπαρχίας Μονίμου τόπων χαίρειν. διαστείλατε
+r.4    ἃς ἔχετέ μου ἐν θέματι πυρο[ῦ] γενήματος ιθ ἔτους
+r.5    Ἁδριανοῦ Καίσαρος τοῦ κυρίου Ψάμμιδι Ψάμμιδος Μερμέρθων ἀρτάβας εἴκοσι τέταρτον, Ἴστρου ἐποικίου ἀρτάβας ἓξ ἥμισυ
+r.6    τέταρτον [χ]οίνικας ἑπτά, γίνονται ἐπὶ τὸ αὐτὸ πυροῦ ἀρτάβαι εἴκοσι
+r.7    ἑπτὰ χοίνικες ἑπτά.
+
+[TRANSLATION]
+# HGV-EN: Horus son of Pausiris through Ammonius, (his) friend, to Apollo— and Harpaesis and their associate sitologi of the upper toparchy, district of Monimou, greetings. Transfer the (artabas) that you hold on deposit for me, from the wheat-crop of the 19th year of Hadrianus Caesar the lord, to Psammis son of Psammis, (for his account) at Mermertha, twenty (and) one-quarter artabas, at the hamlet of Istrou, six (and) one-half (and) one-quarter artabas (and) seven choenices, grand total twenty-seven artabas (and) seven choenices of wheat. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

@@ -1,0 +1,40 @@
+[META]
+id:       BGU 1.201
+label:    BGU 1.201
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     153 CE – 154 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (153 CE – 154 CE)
+# hgv-keywords: Quittung — Getreide (Saat)
+tm:       8964
+source:   https://papyri.info/ddbdp/bgu;1;201
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    σπερμάτων ιζ ἔτους Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου Καρανίδος
+r.3    δημοσίων διὰ τῶν ἀπὸ
+r.4    Φιλοπάτορος Ἀπῦγχις Πασοκνοπαίου καὶ
+r.5    Ὀννῶφρις ἀδελφὸς καὶ οἱ μέτοχοι
+r.6    διὰ Ἥρωνος ἀπάτορος μητρὸς
+r.7    Παπετείρεως Καρανίδος
+r.8    βασιλικῆς ἀρουρῶν ϛ ιϛ ξδ. Σύρος
+r.9    Ὀννώφρεως ἔγραψα.
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 17 of Antoninus Caesar, the lord. State lands of Karanis, exploited through the tenant farmers of Philopator. Apynchis, son of Pasoknopaios and Onnophris, his brother and his associates through Heron, father unknown, mother Papeteiris. At Karanis 6 1/16 1/64 arouras of royal (land). I, Syros, son of Onnophris, wrote this.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

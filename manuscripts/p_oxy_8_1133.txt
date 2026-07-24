@@ -1,0 +1,60 @@
+[META]
+id:       P.Oxy. 8.1133
+label:    P.Oxy. 8.1133
+name:     Receipt — Nesos Limenios (Oxyrhynchites)
+genre:    receipts
+date:     396 CE
+language: Greek (Koiné)
+found:    Nesos Limenios (Oxyrhynchites)
+held:     
+shelf:    
+content:  Receipt from Nesos Limenios (Oxyrhynchites) (396 CE)
+# hgv-keywords: Quittung — Zahlung — Schulden
+tm:       21750
+source:   https://papyri.info/ddbdp/p.oxy;8;1133
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    μετὰ τὴν ὑπατείαν Φλαουίων Ὀλυμβρίου καὶ Προβίνου
+r.2    τῶν λαμπροτάτων Φαμενὼθ κη.
+r.3    Αὐρήλιος Ἰωάννης Σαρμάτου πωμαρίτης ἀφʼ Ἡρακλέους
+r.4    πόλεως κατ[α]γινόμενος νῦν ἐ[πʼ] ἐποικίου Νήσου Λιμενίου
+r.5    ἀπὸ πριμιπιλαρίων Αὐ[ρηλίῳ Ἀ]ρτεμιδώρῳ Καλόπου
+r.6    ἀπὸ τῆς Ἀρσινοειτῶν πόλ[εως ][κατ]αγινομένῳ ἐν τῇ λαμπρᾷ
+r.7    καὶ λαμπροτάτῃ Ὀξυρυγ[χειτῶν π]όλει ὀπωροπώλῃ χαίρειν.
+r.8    ὁμολογῶ ἀπειληφέναι κ[αὶ ][πεπλη]ρῶσθαι παρὰ σοῦ τοὺς τέσσαρας
+r.9    χρυσίνους παρὲξ μυριάδων ἑξακοσίων τοὺς ἀπὸ λόγου
+r.10   τιμῆς καρποῦ τοῦ αὐτοῦ ἐποικίου καὶ οὐδένα λόγον ἔχω
+r.11   πρὸς σὲ περὶ τούτου καὶ οὐκ ἐγ[κα]λῶ σοι οὔτε ἐνκαλέσω, καὶ διὰ τὸ
+r.12   παραπεπτωκέναι τὸ γρ[αμματε]ῖόν σου καὶ μὴ εὑρίσκεσθαι
+r.13   δηλῶ τοῦτο ἄκυρον κ[αὶ ἀνε]πίφ[ορο]ν εἶναι ἐμοί τε
+r.14   καὶ πᾶσι τοῖς ἐπιφέρουσ[ιν αὐτό, καὶ ἐξεδό]μην σοι τήνδε τὴν
+r.15   ἀποχὴν πρὸς ἀσφάλειά[ν][ σου καὶ ἐπερω]τηθεὶς ὡμολόγησα.
+r.16   Αὐρήλιος Ἰωάννης Σαρμ[ά]του ἐξεδ[ό]μην τὴν ἀποχὴν
+r.17   ὡς πρόκιται. Αὐρήλιος Θεόδωρος Θ … ρου ἔγραψα ὑπὲρ αὐτοῦ γράμματα μὴ εἰδότος.
+r.18   διʼ ἐμ[ο]ῦ Ἀμμω .
+r.19   ἀποχὴ χρέους.
+
+[TRANSLATION]
+# HGV-EN: The year after the consulship of Flavius Olybrius and Flavius Probinus the most illustrious, Phamenoth 28. Aurelius John son of Sarmates, fruit-gardener of Heracleopolis, now living at the village of Nesus Limenius, ex-primipilarius, to Aurelius Artemidorus son of Calopus, of Arsinoftonpolis, living at the illustrious and most illustrious city of Oxyrhynchus, fruit-dealer, greeting. I acknowledge that I have received from you and have been paid in full the four gold solidi less 600 myriads due for the price of the produce of the said village, and I have no claim upon you in respect of this, and I make and will make no charge against you; and since your bond has been lost and cannot be found I declare that it is null and [void] both for me and every one producing it, and I have issued this receipt for your security and in answer to the question have given my consent.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

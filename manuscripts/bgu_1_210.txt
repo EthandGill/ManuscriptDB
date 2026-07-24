@@ -1,0 +1,30 @@
+[META]
+id:       BGU 1.210
+label:    BGU 1.210
+name:     Receipt — Psenarpsenesis (Arsinoites)
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Psenarpsenesis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Psenarpsenesis (Arsinoites) (158 CE – 159 CE)
+# hgv-keywords: Quittung — Getreide (Saat)
+tm:       8973
+source:   https://papyri.info/ddbdp/bgu;1;210
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σπερμάτων κβ ἔτους Ἀντωνίνου Καίσαρος
+r.2    τοῦ κυρίου ιθ κληρουχίας Πτολλᾶς Ζωίλου
+r.3    καὶ μέτοχοι Ψεναρψενήσεως Φιλοδ
+r.4    βασιλικῆς ἀρούρης η ιϛ
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 22 of Antoninus Caesar, the lord. 19th cleruchy. Ptollas, son of Zoilos and his associates. At Psenarpsenesis 1/8 1/16 of an aroura of royal (land) on the Philodamian (estate).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

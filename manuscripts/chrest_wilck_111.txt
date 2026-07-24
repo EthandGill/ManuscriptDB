@@ -1,0 +1,46 @@
+[META]
+id:       CHREST.WILCK 111
+label:    CHREST.WILCK 111
+name:     Contract — Soknopaiu Nesos (Arsinoites)
+genre:    contracts
+date:     6 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Soknopaiu Nesos (Arsinoites) (6 CE)
+# hgv-keywords: Vertrag — Kauf — Land (Teilverkauf) — Eid auf Augustus
+tm:       9849
+source:   https://papyri.info/ddbdp/chrest.wilck;;111
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    [ἀντίγραφον ][χει]ρογραφίας. ἔτους λε Καίσαρος Παχὼν β. ὄμνυ[μι]
+r.2    [Καίσαρα] Αὐτοκράτορα θεοῦ υ[ἱὸν] Δία Ἐλευθέριον
+r.3    [Σεβαστὸν] Ἡρακλείδης Πα[νί]σκου Μακεδὼν
+r.4    [τῶν κα]τοίκων Ἀρείωι Ἡρ[ώδ]ου Μακεδόνι τῶν
+r.5    [κατοίκ]ων εἶ μὴν ἐνμενεῖν ἐν πᾶσι [το]ῖς κατὰ
+r.6    [τὴν συν]γραφὴν τῆς ὁμολογίας, ἣν συνγέγραμμαί σοι
+r.7    [τῇ ἐνεστώσ]ῃ ἡμέρᾳ ὑπὲρ τοῦ παρακεχωρηκέ[ναι σοι καὶ τοῖς] ἐκγόνοις σου ἐπὶ τὸν ἅπαντα χρόνον
+r.8    [τὸ ὑπάρχον ἐμ]αυτῶι ἥμισυ μέρος κοινὸν καὶ ἀδι[αίρετον τοῦ] τρίτου μέρου[ς] κοινοῦ καὶ ἀδιαιρέτου
+r.9    [κλήρου κα]τοικικοῦ ἀρουρῶν μ ἢ ὅσων ἐὰν ᾖ
+r.10   [ἐπὶ τὸ πλέ]ον καὶ τῶν [συν]κυρόντων πάν[των ἐν τρι]σὶ σφραγῖσι [περὶ] Ἡρακλείαν τῆς
+r.11   [Θεμίστου μερί]δος, ὧ[ν γείτονες] τοῦ ὅλου
+r.12   … [ π]άσῃ.
+
+[TRANSLATION]
+# HGV-EN: Copy of a written testimony. Year 35 of Caesar, Pachon 2. I, Heracleides, son of Paniskos, a Macedonian of the katoikoi, swear by Caesar Imperator, son of god, Zeus Eleutherios, Augustus, to Areios, son of Herodes, a Macedonian of the katoikoi, that I will indeed abide in all respects by the terms under the contract of agreement, which I have made with you on the present day, concerning the ceding to you and to your descendants, for all time, of a half share in my common and undivided ownership out of a third share of a common and undivided katoikic plot of 40 arouras or as much as there may be, more or less, and of all the appurtenances, in three sphragides near Herakleia in the district of Themistos, of which the boundaries of the whole … all …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

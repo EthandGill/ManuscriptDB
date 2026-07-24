@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 52
+label:    O.THEB 52
+name:     Receipt — Theben
+genre:    receipts
+date:     140 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (140 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76422
+source:   https://papyri.info/ddbdp/o.theb;;52
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παμώνθης καὶ Ποριεύθης ἀπαιτηταὶ μερισμοῦ
+r.2    βαλανείων Κωμῶν Ὥρῳ Ψεντφοῦτος Ψενμίνιος.
+r.3    ἔσχομεν δραχμὴν α ὀβολοὺς β. ἔτους δ Ἀντωνίνου
+r.4    Καίσαρος τοῦ κυρίου μηνὸς Ἁδριανοῦ
+r.5    η.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

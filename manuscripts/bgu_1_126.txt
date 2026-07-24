@@ -1,0 +1,36 @@
+[META]
+id:       BGU 1.126
+label:    BGU 1.126
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     189 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (189 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       8903
+source:   https://papyri.info/ddbdp/bgu;1;126
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    κϛ
+r.2    [Ἁρ]ποχρατίωνι τῷ κ[αὶ Ἱέρακι βασιλικῷ γραμματεῖ Ἀρσινοΐτου]
+r.3    Ἡρακλείδ[ου μερίδος]
+r.4    [π]αρὰ Ἡρακλείδου Ἀμ … [ τοῦ ] … [ μητρὸς ] …
+r.5    … λούτου θυγατρὸς κατοίκο[υ ἀναγραφομένου ἐπʼ ἀμ][φ]όδου Ἱερᾶς Πύλης. ὑπ[άρχει μοι ἐπὶ τοῦ αὐτοῦ ἀμ][φ]όδου ὄγδοον μέρος οἰκίας, [ἐν ᾧ κατοικῶ καὶ ἀπο][γρ]άφομαι ἐμαυτόν τε καὶ τ[οὺς ἐμοὺς εἰς τὴν τοῦ διελη][λυ]θότος κη ἔτους κατʼ οἰκ[ίαν ἀπογραφὴν ἐπὶ τοῦ αὐ][τ]οῦ ἀμφόδου Ἱερᾶς Π[ύλης, ἐφʼ οὗ καὶ τῇ τοῦ ιδ ἔτους]
+r.6    [κ]ατʼ οἰκίαν ἀπογραφῇ ἀπ[εγραψάμην][. καί εἰμι ] …
+r.7    … υ κυρίου …
+
+[TRANSLATION]
+# HGV-EN: (m. 2) 26 (m. 1) To [Ha]rpochration alias [Hierax, royal scribe of the Arsinoite nome], Herakleides [division], from Herakleides, son of Am[– – –, the son of NN, mother – – –]lous, daughter of a katoikos, [registered in the quarter of the Sacred Gate. There belongs [to me in the same] quarter an eighth part of a house, [in which I live and register] myself and my [family] for the house-by-house registration of the past 28th year in the same quarter of the Sacred Gate, in which [I registered] in the house-by-house registration of the year 14 of Au[relius Antoninus Caesar], the lord, as well. [And I am] the above mentioned Herakl[eides ?] – – –
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

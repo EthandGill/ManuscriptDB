@@ -1,0 +1,50 @@
+[META]
+id:       BGU 2.617
+label:    BGU 2.617
+name:     Receipt — Soknopaiu Nesos ? (Arsinoites)
+genre:    receipts
+date:     216 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos ? (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos ? (Arsinoites) (216 CE)
+# hgv-keywords: Quittung — Steuer — Gewerbe — Weberei
+tm:       9265
+source:   https://papyri.info/ddbdp/bgu;2;617
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    κδ ἔτους Ἁθὺρ γ διέγραψεν Αὐρηλίῳ Διδύμῳ
+r.2    καὶ τοῖς λοιποῖς μισθωταῖς κοπῆς τριχὸς καὶ
+r.3    χειροναξίου Ταλεὶς δούλη Ἐριεῦτος
+r.4    γερδίαινα ὑπὲρ τοῦ αὐτοῦ ἔτους δραχμὰς ὀκτώ γίνονται δραχμαὶ η
+r.5    καὶ Τῦβι η ἄλλας δραχμὰς
+r.6    ὀκτώ γίνονται δραχμαὶ η
+r.7    καὶ Φαμ[ε]νὼθ η ἄλλας
+r.8    δραχμὰς ὀ[κ]τώ γίνονται δραχμαὶ η
+r.9    καὶ Παχὼν θ ἄλλας δραχμὰς
+r.10   ὀκτώ γίνονται δραχμαὶ η
+r.11   καὶ ὁμοίως ἄλλας
+r.12   δραχμὰς δ
+r.13   καὶ κε ἔτους Φαῶφι ε ὑπὲρ
+r.14   κδ ἔτους ἄλλας δραχμὰς δύο γίνονται δραχμαὶ β.
+
+[TRANSLATION]
+# HGV-EN: Year 24, Hathyr 3. Paid to Aurelius Didymos and the remaining tax farmers of the (tax) on kope trichos and the trade tax (by) Taleis, slave of Herieus, weaver, for the same year eight drachmas, = 8 drachmas; (m. 2) and Tybi 8 a further eight drachmas, = 8 drachmas; (m. 3) and Phamenoth 8 a further eight drachmas, = 8 drachmas; (m. 4) and Pachon 9 a further eight drachmas, = 8 drachmas; (m. 5) and likewise a further 4 drachmas; (m. 6) and year 25, Phaophi 5 for drachmas year 24 a further two drachmas, = 2 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

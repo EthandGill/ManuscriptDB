@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.94
+label:    O.STRAS 1.94
+name:     Receipt — Theben
+genre:    receipts
+date:     79 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (79 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75694
+source:   https://papyri.info/ddbdp/o.stras;1;94
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψε Ψενχῶνσις Ὀσορουήριος Φατρήους ὑπὲρ λαογραφίας
+r.2    [Ἀγορᾶς] βορρᾶ ια ἔτους δραχμὰς ια καὶ προσδιαγραφόμενα.
+r.3    ἔτους ια Οὐεσπασιανοῦ τοῦ κυρίου
+r.4    Φαρμοῦθι λ ιε. Β … σεσημείωμαι ?.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

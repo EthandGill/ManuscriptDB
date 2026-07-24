@@ -1,0 +1,26 @@
+[META]
+id:       O.ONT.MUS 2.286
+label:    O.ONT.MUS 2.286
+name:     Receipt — Tentyra
+genre:    receipts
+date:     37 CE – 38 CE
+language: Greek (Koiné)
+found:    Tentyra
+held:     Toronto
+shelf:    
+content:  Receipt from Tentyra (37 CE – 38 CE)
+# hgv-keywords: Quittung — Naubion
+tm:       56532
+source:   https://papyri.info/ddbdp/o.ont.mus;2;286
+lat:      26.1425462159
+lon:      32.6704162211
+
+[GREEK]
+r.1    ἀναβολῆς χωμάτων β ἔτους Σανσνῶς
+r.2    Πααρτβῶτος ναύβια πέντε
+r.3    γίνονται ναύβια ε.
+
+[TRANSLATION]
+1     
+2     
+3     

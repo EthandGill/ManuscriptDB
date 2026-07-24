@@ -1,0 +1,32 @@
+[META]
+id:       SB 6.9545_14
+label:    SB 6.9545_14
+name:     Receipt — Elephantine
+genre:    receipts
+date:     98 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (98 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Namen
+tm:       19076
+source:   https://papyri.info/ddbdp/sb;6;9545_14
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Πατερζμῆθις
+r.2    Πατρανσνούφιος ὑπὲρ λαογραφίας τοῦ α ἔτους
+r.3    Τραιανοῦ τοῦ κυρίου Μεσορὴ α
+r.4    τὰς λοιπὰς δραχμὰς τέσσαρας
+r.5    γίνονται δραχμαὶ δ. Ψανσνῶς Ἀμμωνίου
+r.6    ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

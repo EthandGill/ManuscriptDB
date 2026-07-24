@@ -1,0 +1,30 @@
+[META]
+id:       O.HEID 296
+label:    O.HEID 296
+name:     Receipt — Theben (Notos, Charax)
+genre:    receipts
+date:     210 CE
+language: Greek (Koiné)
+found:    Theben (Notos, Charax)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos, Charax) (210 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       80512
+source:   https://papyri.info/ddbdp/o.heid;;296
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μέτρημα θησαυροῦ … γενήματος] [ιη] [ἔτους] Σεουήρου καὶ Ἀντωνίνου καὶ Γέτα
+r.2    [Εὐσεβῶν Σεβαστῶν] Ἐπεὶφ λ ὑπὲρ Νότου ὀνόματος Πετεαρπρήους
+r.3    … καὶ ὑπὲρ Χάρακος ὁμοίως πυροῦ ἀρτάβαι ι 𐅷, γίνονται πυροῦ ἀρτάβαι κδ …
+r.4    … γίνονται πυροῦ ἀρτάβαι …
+
+[TRANSLATION]
+# HGV-EN: .
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     [Measurement of the treasury … of crops] [18th] [year] of Severus and Antoninus and Geta.
+2     [Pious Augusti], Epiphi 30, for Notus by name Petearpraeos.
+3     … and for Charakos similarly 10 2/3 artabas of wheat, total 24 artabas of wheat …
+4     … total artabas of wheat …

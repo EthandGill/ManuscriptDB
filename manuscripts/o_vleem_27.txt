@@ -1,0 +1,24 @@
+[META]
+id:       O.VLEEM 27
+label:    O.VLEEM 27
+name:     Receipt — Elephantine
+genre:    receipts
+date:     231 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (231 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       3023
+source:   https://papyri.info/ddbdp/o.vleem;;27
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔτους ιϛ Τῦβι κγ [τέτακται] Παλαίας Παμούνιος ἁλικῆς τετρώβολον
+r.2    Συ[η]νιτοῦ λογείας β, Τισᾶτις γυνὴ ὀβολὸν α 𐅵.
+
+[TRANSLATION]
+1     
+2     

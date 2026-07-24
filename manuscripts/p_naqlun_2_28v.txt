@@ -1,0 +1,34 @@
+[META]
+id:       P.NAQLUN 2.28v
+label:    P.NAQLUN 2.28v
+name:     Letter — Herakleopolis bzw. Naqlun (Arsinoites)
+genre:    letters
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Herakleopolis bzw. Naqlun (Arsinoites)
+held:     
+shelf:    
+content:  Letter from Herakleopolis bzw. Naqlun (Arsinoites) (501 CE – 600 CE)
+# hgv-keywords: Brief (privat) — NN an NN — Bitte — nach Herakleopolis zu kommen
+tm:       115538
+source:   https://papyri.info/ddbdp/p.naqlun;2;28v
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    [ ] [πᾶν ποίησον μὴ ἀμελ]ήσῃς αὐτὰ τὰς [δύο] ἡμέρας ἕως ἀνέλθῃ ὁ ἀδελφὸς
+r.2    καὶ λάβῃ αὖθις εἰς τὴν πόλιν. [ἐὰν δ]ὲ ἐστὶ δυνατόν, παρακαλῶ σε
+r.3    κοπωθῆναι ἕως τῆς Ἡρακλέ[ους] ἵνα λαλήσω σοι ἀπόκρισιν.
+r.4    ἐπειδὴ δὲ ξένος ἐστὶν ὁ ἄν[θ]ρωπος τὸν ἔπεμψα μετὰ τῶν
+r.5    δύο ζῴων, Ἀλεξανδρε[ὺς γάρ ἐστιν, μὴ] θαρρήσῃς αὐτῷ τὰ ζῷα ἀλλὰ
+r.6    πέμψον αὐτὸν αὔριον
+
+[TRANSLATION]
+# HGV-EN: Keep (?) these (animals?) for two(?) days, until the brother comes and takes [them] back to the city (i.e., Herakleopolis). If possible, I ask you to bother to come to Herakleopolis, so that I can tell you [my] answer. And since the man I sent with two animals is a stranger – as he is Alexandrian – do not entrust him with them (sc. the animals), but send him off tomorrow.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

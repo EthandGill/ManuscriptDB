@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 7.1035
+label:    P.Oxy. 7.1035
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     143 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (143 CE)
+# hgv-keywords: Vertrag — Pacht — Kamm (Weber)
+tm:       20330
+source:   https://papyri.info/ddbdp/p.oxy;7;1035
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐμίσθωσεν Γάιος Οὐετούριος
+r.2    Γέμελλος υἱὸς Γαΐου Οὐετουρίου Γεμέλλου οὐετρανοῦ
+r.3    Ἐπαγάθῳ ἀπελευθέρῳ Πτολεμαίου Πτολ[ε]μαίου ἀπʼ Ὀξυρύγχων πόλεως Πέρσῃ τῆς ἐπιγονῆς ἐπὶ χρόνον ἔτη πέντε
+r.4    ἀπὸ νουμηνίας τοῦ ἑξῆς μηνὸς
+r.5    Φαμενὼθ τοῦ ἐνεστῶτος
+r.6    ἕκτου [ἔτο]υς Ἀντωνείνου
+r.7    Καίσαρος τοῦ κυρίου τὸ ὑπάρχον αὐτῷ ζεῦγος κτενιστικὸν σιδηροῦν τέλειον καινὸν ἴσακμον φόρου κατὰ
+r.8    μῆνα ἀπὸ τοῦ αὐ[τοῦ] Φ[αμενὼθ]
+
+[TRANSLATION]
+# HGV-EN: Gaius Veturius Gemellus son of Gaius Veturius Gemellus, veteran, has let to Epagathus, freedman of Ptolemaeus son of Ptolemaeus, of the city of Oxyrhynchus, a Persian of the Epigone, for a period of five years from the first day of the next month Phamenoth of the present sixth year of Antoninus Caesar the lord, the combing-instrument belonging to him, made of iron, in perfect condition, new and with an even edge, at a monthly rent from the said month Phamenoth ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

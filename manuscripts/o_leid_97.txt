@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 97
+label:    O.LEID 97
+name:     Receipt — Theben
+genre:    receipts
+date:     118 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (118 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24666
+source:   https://papyri.info/ddbdp/o.leid;;97
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Χεσφμόις πράκτωρ ἀργυρικῶν μητροπόλεως
+r.2    Ψενχώνσει Σενχώνσιος ἀπέσχον ὑπὲρ χωματικοῦ
+r.3    Ἀγορῶν βορρᾶ β ἔτους ῥυπαρὰς δραχμὰς ἑπτὰ τετρώβολον,
+r.4    γίνονται δραχμαὶ ζ τετρώβολον. ἔτους β Ἁδριανοῦ τοῦ κυρίου
+r.5    Μεσορὴ κε. Φθουμῖνις σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

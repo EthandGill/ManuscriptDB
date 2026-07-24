@@ -1,0 +1,26 @@
+[META]
+id:       STUD.PAL 13.pg8_7
+label:    STUD.PAL 13.pg8_7
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     96 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (96 CE)
+# hgv-keywords: Quittung — Steuern — Juden
+tm:       23269
+source:   https://papyri.info/ddbdp/stud.pal;13;pg8_7
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    διέγραψε Σαμβαθίων ὁ καὶ Ἰησοῦς
+r.2    Παπίου λαογραφίας ιε ἔτους Δομιτιανοῦ
+r.3    τοῦ κυρίου δραχμὰς η. ἔτους ιε, Μεχεὶρ κε.
+
+[TRANSLATION]
+1     
+2     
+3     

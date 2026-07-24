@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1148
+label:    O.BODL 2.1148
+name:     Receipt — Theben
+genre:    receipts
+date:     81 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (81 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71832
+source:   https://papyri.info/ddbdp/o.bodl;2;1148
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [διαγεγράφασιν] Ἑριεῦς Ταύρωνος καὶ Ἀπίων
+r.2    [ἀδελφὸς] ὑπὲρ [φ]οινικω λογ γ ἔτους δραχμὰς δέκα
+r.3    [ὀκτὼ] τετρώβολον ἡμιωβέλιον γίνονται δραχμαὶ ιη ὀβολοὶ δ 𐅵 καὶ τούτων προσδιαγραφόμενα.
+r.4    [ἔτους] γ Τίτου Καίσαρος τοῦ κυρίου
+r.5    [μηνὸς ][Κ]αισαρήου λ ιβ. Βάσσος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

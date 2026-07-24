@@ -1,0 +1,30 @@
+[META]
+id:       P.GRENF 1.41
+label:    P.GRENF 1.41
+name:     Receipt — Thebais
+genre:    receipts
+date:     2 BCE
+language: Greek (Koiné)
+found:    Thebais
+held:     
+shelf:    
+content:  Receipt from Thebais (2 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       265
+source:   https://papyri.info/ddbdp/p.grenf;1;41
+lat:      26.25
+lon:      32.75
+
+[GREEK]
+r.1    παρὰ Πετεύριος διεθέντος
+r.2    μου ὑπάρξει σοι εἰς
+r.3    στέφανον χαλκοῦ τάλαντα δεκάπεντε,
+r.4    τάλαντα ιε.
+r.5    εὐτύχει.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

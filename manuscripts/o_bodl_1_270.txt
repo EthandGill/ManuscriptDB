@@ -1,0 +1,24 @@
+[META]
+id:       O.BODL 1.270
+label:    O.BODL 1.270
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     118 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (118 BCE)
+# hgv-keywords: Quittung (?)
+tm:       70999
+source:   https://papyri.info/ddbdp/o.bodl;1;270
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [ἔτους νβ Χ]οίαχ ιδ κλωστῆρες διακόσιοι
+r.2    … κοντα ὀκτὼ ἥμισυ.
+
+[TRANSLATION]
+1     
+2     

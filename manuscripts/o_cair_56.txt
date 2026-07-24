@@ -1,0 +1,30 @@
+[META]
+id:       O.CAIR 56
+label:    O.CAIR 56
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     107 CE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     
+shelf:    
+content:  Receipt from Hermonthis (107 CE)
+# hgv-keywords: Quittung — Steuern — Pachtzins — Geld
+tm:       73402
+source:   https://papyri.info/ddbdp/o.cair;;56
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    Κο[ρν]ήλιος Γέμελλος καὶ μέτοχοι [πράκτορες] ἀργυρικῶν
+r.2    Ἑρμώνθεως Ψενμώνθῃ Πιήνχεις. ἐνκυκλίου Ἑρμώνθεως ὀβολὸν ἡμιωβέλιον, φόρου ἡμιωβέλιον,
+r.3    καὶ [ὀ]νόματος Πιήνχεις πρεσβυτέρου Πετεμώνθου
+r.4    [ἐ]νκυκλίου [ὀβ]ολοὺς πέντε ἥμισυ, φόρου ἡμιωβέλιον, γίνονται ἐνκυκλίου πεντώβολον ἡμιωβέλιον, φόρου ἡμιωβέλιον.
+r.5    ἔτους ια Τραιανοῦ Καίσαρος τοῦ κυρίου Φαῶφι ιζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

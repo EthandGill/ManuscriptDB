@@ -1,0 +1,30 @@
+[META]
+id:       O.Wilck. 928
+label:    O.Wilck. 928
+name:     Receipt — Theben
+genre:    receipts
+date:     168 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (168 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       77404
+source:   https://papyri.info/ddbdp/o.wilck;;928
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀσκλᾶς καὶ μέτοχοι ἐπιτηρηταὶ τέλους
+r.2    θησαυροῦ ἱερῶν Ὥρῳ Ἑριοφμόιτος.
+r.3    ἔσχομεν τὸ βαλανικὸν τοῦ η ἔτους Ἀντωνίνου
+r.4    καὶ Οὐήρου τῶν κυρίων Σεβαστῶν
+r.5    Φαρμοῦθι ιζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

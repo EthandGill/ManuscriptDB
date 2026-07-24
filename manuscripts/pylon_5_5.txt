@@ -1,0 +1,32 @@
+[META]
+id:       PYLON 5.5
+label:    PYLON 5.5
+name:     Receipt — Elephantine
+genre:    receipts
+date:     207 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Ismailia
+shelf:    
+content:  Receipt from Elephantine (207 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Geld
+tm:       998499
+source:   https://papyri.info/ddbdp/pylon;5;5
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Παχνοῦβις
+r.2    Φανώφεως μητρὸς Τισάτιος
+r.3    λαογραφίας τοῦ ιζ ἔτους Τραιανοῦ
+r.4    τοῦ κυρίου δραχμὰς ιζ, Παῦνι
+r.5    ιϛ διὰ Πολυβίου.
+
+[TRANSLATION]
+# HGV-EN: Pachnoubis, son of Phanophis, whose mother is Tisatis, paid 17 drachmas for the poll tax for year 17 of Trajan the lord. Pauni 16, though Polybios.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

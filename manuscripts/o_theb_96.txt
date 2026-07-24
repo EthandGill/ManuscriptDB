@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB 96
+label:    O.THEB 96
+name:     Receipt — Theben
+genre:    receipts
+date:     222 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (222 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76466
+source:   https://papyri.info/ddbdp/o.theb;;96
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Αὐρήλιος Πλήνιος υἱὸς Σενκαλασίριος
+r.2    καὶ μέτοχοι πράκτορες στεφανικοῦ χρήματος ἔσχομεν
+r.3    ὑπὲρ ὀνόματος Αὐρηλίου Πεχύτης Πρεμτώτου ἀργυρίου δραχμὰς δ.
+r.4    ἔτους ε Τῦβι ιβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

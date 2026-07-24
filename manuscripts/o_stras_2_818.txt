@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 2.818
+label:    O.STRAS 2.818
+name:     Receipt — Theben (Ophieion)
+genre:    receipts
+date:     70 CE
+language: Greek (Koiné)
+found:    Theben (Ophieion)
+held:     
+shelf:    
+content:  Receipt from Theben (Ophieion) (70 CE)
+# hgv-keywords: Quittung — Steuer (Deichsteuer)
+tm:       128365
+source:   https://papyri.info/ddbdp/o.stras;2;818
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [διαγέγραφε Πα]πόνης Παμώνθου
+r.2    [Πετεχων ὑπὲρ] χωματικοῦ Ὠφιήου β
+r.3    [δραχμὰς] … . ἔτους γ …
+r.4    [το]ῦ κυρίου μηνὸς Φ[α]ῶφι …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

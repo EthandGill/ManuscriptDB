@@ -1,0 +1,32 @@
+[META]
+id:       P.LEID.INST 1.24
+label:    P.LEID.INST 1.24
+name:     Receipt — Theben
+genre:    receipts
+date:     94 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (94 CE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       18465
+source:   https://papyri.info/ddbdp/p.leid.inst;1;24
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πεσούριος Ψανσνῶτος ὑπὲρ χωματικοῦ Χάρακος
+r.2    ιγ ἔτους δραχμὰς ε ὀβολοὺς δ 𐅵 χαλκοῦς 2 βαλανευτικοῦ ὀβολοὺς δ 𐅵
+r.3    γίνονται δραχμαὶ ϛ τριώβολον χαλκοῖ 2 καὶ προσδιαγραφόμενα. ἔτους ιγ Δομιτιανοῦ
+r.4    Μεσορὴι κϛ.
+r.5    Ἀπίων σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: (Translation: P. L. Bat. 25.24) Pesourios son of Psansnos has paid for dike tax of Charax for the 13th year: dr. 5, ob. 4½, ch. 2; for bath tax ob. 4½, totals dr. 6, ob. 3, ch. 2 and the additional sums. Year 13 of Domitianus, Mesore 26. I, Apion, have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

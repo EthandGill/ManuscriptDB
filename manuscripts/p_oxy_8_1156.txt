@@ -1,0 +1,42 @@
+[META]
+id:       P.Oxy. 8.1156
+label:    P.Oxy. 8.1156
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (201 CE – 300 CE)
+# hgv-keywords: Brief (privat) — Anubion an seinen Herrn Antas
+tm:       31722
+source:   https://papyri.info/ddbdp/p.oxy;8;1156
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    χα[ῖ]ρε, κύριέ μου
+r.2    Ἀντᾶ, παρὰ Ἀνουβίωνος.
+r.3    προσῆλθέν μοι Σαραπίων ὁ ἀπὸ Φιλονίκου
+r.4    ὡς ἕνεκεν ὀλίγων σιταρίων εἰς πρᾶσιν·
+r.5    [ἐὰ]ν οὖν θέλῃς αὐτῷ
+r.6    [δοῦ]ναί [τι] καὶ ἀντὶ τῆς τιμῆς
+r.7    [καὶ] τὸ πάτημα παρʼ αὐ[τοῦ] λαβεῖν, ἐπεὶ μέλλο[με]ν χόρτου χρείαν ἔχειν.
+r.8    [ἔπε]μψα οὖν αὐτὸν πρὸς
+r.9    [σὲ ἵ]να τὸ [δο]κοῦν σοι μετʼ αὐ[τοῦ π]οιή[σῃ]ς … υ …
+r.10   τῷ ἀρίσ[τῳ] πάτ[ρωνι Ἀντᾷ ] …
+
+[TRANSLATION]
+# HGV-EN: Greeting, my lord Antas, from Anubion. Sarapion of the village of Philonicus came to me about a small quantity of provisions for sale. Perhaps you may be willing to give him something and take from him the trodden grapes (?) as the price of it, since we are likely to be wanting green-stuff? I therefore send him to you in order that you may do as you please with him...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

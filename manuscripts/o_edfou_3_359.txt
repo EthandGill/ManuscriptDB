@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 3.359
+label:    O.EDFOU 3.359
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     108 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (108 BCE)
+# hgv-keywords: Quittung
+tm:       43510
+source:   https://papyri.info/ddbdp/o.edfou;3;359
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [ἔτους θ Φαμενὼθ ια τέτα]κται εἰς τὴν
+r.2    [ἕκτην τῶν] ἀκροδρύων εἰς τὸ θ ἔτος
+r.3    [Πετε]στοῦπις Πε… χαλκοῦ πρὸς ἀργύριον
+r.4    [δραχμὴν α] ἔτους θ Φαμενὼθ ια
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

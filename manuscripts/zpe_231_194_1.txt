@@ -1,0 +1,28 @@
+[META]
+id:       ZPE 231.194_1
+label:    ZPE 231.194_1
+name:     Receipt — Elephantine
+genre:    receipts
+date:     98 CE – 99 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (98 CE – 99 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       999711
+source:   https://papyri.info/ddbdp/zpe;231;194_1
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Πελέας Πελ[έου]
+r.2    ὑπὲρ λαογραφίας α ἔτους Τραι[ανοῦ]
+r.3    τοῦ κυρίου ἀργυρίου δραχμὰς ιζ [Ἑρμογένης]
+r.4    Ἀμμωνᾶτος πράκτωρ ἔγραψ[α]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

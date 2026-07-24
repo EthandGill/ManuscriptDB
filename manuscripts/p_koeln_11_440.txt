@@ -1,0 +1,36 @@
+[META]
+id:       P.KOELN 11.440
+label:    P.KOELN 11.440
+name:     Letter — Herakleopolites
+genre:    letters
+date:     213 BCE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Letter from Herakleopolites (213 BCE)
+# hgv-keywords: Brief (amtlich) — Theodoros an Theomnestos (Archiphylakites ?) — Bericht über ein Problem bei der Auszahlung von Getreide (Saat-) an die Bauern des Dorfes Petachor
+tm:       112475
+source:   https://papyri.info/ddbdp/p.koeln;11;440
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    ἔτους ι Φαῶφι θ πυροῦ Ἁρμαχόρωι.
+r.2    Θεόδωρος Θεομνήστωι χαίρειν. ἡμῶν ἐπιβαλόντ[ων] [εἰ]ς Πεταχὸρ τῆι α τοῦ Φαῶφι
+r.3    μεθ’ Ἁροννώφριος τοῦ τοπάρχου [ὥ]στε διαλογίσα[σθαι] [τοῖς ἐκεῖ] [γεω]ργοῖς, ὅπως κο[μίσ]ωνται τὰ καθήκ[ο]ντα σπέρματα, κ[α]ὶ [ο]ὐχ εὑρόντες δε … τῆς κωμογραμματε[ίας]
+r.4    ἵνα … τ … δοσις γ[ένη]ται καὶ … λο … σ … τ … ὑπογραφ … λα καθότι καὶ ἐν τῆι διαγραφῆι ἐπέσχομεν ἕως τοῦ
+r.5    αὐτὸν παραγενέσθαι. κ[αλ]ῶς οὖν ποήσεις γράψα[ς, οἷς] καθήκει, ἵνα μὴ διὰ ταύτην
+r.6    τὴν α[ἰ]τίαν ἡ γῆ ἀσπορήσηι ἡμε[ῖ]ς τε ἐν ἐγκλήμασιν ὦμεν.
+r.7    [ἔρρω]σο. ἔτους ι Φαῶφι η
+r.8    ΘΕΟΜΝΗΣΤΩΙ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

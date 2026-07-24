@@ -1,0 +1,50 @@
+[META]
+id:       P.RYL 2.230
+label:    P.RYL 2.230
+name:     Letter — Arsinoites
+genre:    letters
+date:     40 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Letter from Arsinoites (40 CE)
+# hgv-keywords: Brief (privat) — Ammonios an Aphrodisios
+tm:       12978
+source:   https://papyri.info/ddbdp/p.ryl;2;230
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἀμμώνιος Ἀφροδισίωι τῶι
+r.2    φιλτάτωι χαίρειν.
+r.3    ἐκομισάμην ἐπιστολὴν περὶ τοῦ
+r.4    πέμψαι με ἐπὶ τοὺς ἄρτους τῇ ε.
+r.5    πέμψω οὖν τοὺς ὄνους τῆι η
+r.6    πρὸς σὲ π[ά]ντως. παρακληθ[εὶ]ς
+r.7    οὖν ἐκ παντὸς τρόπου ποίησον
+r.8    γενέσθαι μοι τὸ σμῆμα ἀπὸ τοῦ
+r.9    ὀρόβ[ο]υ, μὴ [ο]ὖν ἄλλως ποιή[σ]ῃς ἵνα μὴ
+r.10   δόξωμέν σε εὐθέως ἠλλάχθαι
+r.11   τὰ πρὸς ἡμᾶς. ἀσπάζου Θέρμιον τὴν
+r.12   ἀδελφὴν καὶ τὰ παιδία σου. ἔρρωσο. ἔτους ε μηνὸς
+r.13   Νέου Σεβαστοῦ ϛ Σεβαστῆι.
+r.14   Ἀφροδισίωι τῷ φι[λ]τάτῳ.
+
+[TRANSLATION]
+# HGV-EN: ‘Ammonius to his dearest Aphrodisius, greeting. I received a letter bidding me send for the loaves on the 5th. I will accordingly send the donkeys to you on the 8th without fail. Please do your utmost to secure me the unguent of lentils; do not neglect this, lest we think you to have become all at once estranged towards us. Salute Thermion, your sister, and your children. Good-bye.’ Date. Address.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

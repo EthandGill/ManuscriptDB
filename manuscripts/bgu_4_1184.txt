@@ -1,0 +1,24 @@
+[META]
+id:       BGU 4.1184
+label:    BGU 4.1184
+name:     Contract — Alexandria
+genre:    contracts
+date:     15 BCE – 14 CE
+language: Greek (Koiné)
+found:    Alexandria
+held:     
+shelf:    
+content:  Contract from Alexandria (15 BCE – 14 CE)
+# hgv-keywords: Vertrag — Land
+tm:       18640
+source:   https://papyri.info/ddbdp/bgu;4;1184
+lat:      31.201435
+lon:      29.909773
+
+[GREEK]
+r.1    ἐπὶ τῆς κατὰ Κανωβὸν ταινίας
+r.2    παρὰ Ἔρωτος τοῦ Λευκίου Λοκκηίου
+
+[TRANSLATION]
+1     
+2     

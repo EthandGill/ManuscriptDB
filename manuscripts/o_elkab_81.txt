@@ -1,0 +1,28 @@
+[META]
+id:       O.ELKAB 81
+label:    O.ELKAB 81
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     131 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (131 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24516
+source:   https://papyri.info/ddbdp/o.elkab;;81
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    Σιφοῦρις Ψεμον[χήους]
+r.2    λαογραφίας ιϛ ἔτους Ἁδριανοῦ Κ[αίσαρος]
+r.3    τοῦ κυρίου δραχμὰς ιϛ πορθμείου [δραχμὰς δ],
+r.4    γίνονται δραχμαὶ κ. ἔτους ιϛ Φαῶφι ι[ε].
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

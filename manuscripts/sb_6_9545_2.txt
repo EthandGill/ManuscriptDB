@@ -1,0 +1,32 @@
+[META]
+id:       SB 6.9545_2
+label:    SB 6.9545_2
+name:     Receipt — Elephantine
+genre:    receipts
+date:     62 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (62 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Namen
+tm:       19064
+source:   https://papyri.info/ddbdp/sb;6;9545_2
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [δι]αγεγράφηκεν Πετορ[ζ]μήθιος Παχνούβιος
+r.2    ὑπὲρ λαογραφίας τοῦ
+r.3    ὀγδόου ἔτους Νέρωνος τοῦ
+r.4    κυρίου Μεσορὴι λ ἀργυρίου
+r.5    δραχμὰς ὀκτώ, γίνονται δραχμαὶ ιϛ.
+r.6    Ἀρίστων Πελαίου ἐπηκολούθηκα
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

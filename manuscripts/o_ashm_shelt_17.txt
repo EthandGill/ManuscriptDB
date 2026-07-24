@@ -1,0 +1,30 @@
+[META]
+id:       O.ASHM.SHELT 17
+label:    O.ASHM.SHELT 17
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70569
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;17
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παῆσις καὶ μέτοχοι
+r.2    τελῶναι γερδίων γ ἔτους
+r.3    Παχοῦμι χαίρειν. ἔσχομεν
+r.4    ὑπὲρ τέλους μηνὸς Φαμενὼθ
+r.5    δραχμὴν α πεντώβολον. ἔτους γ, Φαρμοῦθι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

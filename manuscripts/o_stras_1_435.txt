@@ -1,0 +1,36 @@
+[META]
+id:       O.STRAS 1.435
+label:    O.STRAS 1.435
+name:     Receipt — Theben
+genre:    receipts
+date:     213 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (213 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       76023
+source:   https://papyri.info/ddbdp/o.stras;1;435
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θωὼθ ιγ τοῦ κβ ἔτους
+r.2    Μάρκου Αὐρηλίου Σεουήρου
+r.3    Ἀντωνίνου Καίσαρος τοῦ
+r.4    κυρίου ὑπὲρ πρακτορείας καὶ κοσκινευτικοῦ Χάρακος ὀνόματος
+r.5    Ψεντφοῦτος Ψάιτος Ὀννώφριος
+r.6    πυροῦ ἥμισυ γίνεται πυροῦ 𐅵. Πολ σεσημείωμαι.
+r.7    ἄλλαι κ ὁμοίως ἕκτον
+r.8    γίνεται πυροῦ ϛ. Λη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

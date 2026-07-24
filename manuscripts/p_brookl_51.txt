@@ -1,0 +1,30 @@
+[META]
+id:       P.BROOKL 51
+label:    P.BROOKL 51
+name:     Receipt — Elephantine
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       27392
+source:   https://papyri.info/ddbdp/p.brookl;;51
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    … [πρά]κτωρ ἀργυρικῶν Ἐλεφαντίνης καὶ
+r.2    … διέγραψεν Σανσνῶς
+r.3    … [ ὑπὲρ ][γε]ωμετρίας φοινικῶνος γενήματος
+r.4    … [ ἔτους ὑπὲρ ὀνόματος ] … Σανσνῶτος μητρὸς Θιν… [ ἀπὸ] δραχμῶν τεσσάρων
+r.5    … [ ἔτους ] … Ἁδριανοῦ θ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

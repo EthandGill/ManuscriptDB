@@ -1,0 +1,72 @@
+[META]
+id:       BGU 2.537dupl
+label:    BGU 2.537dupl
+name:     Documentary papyrus — Soknopaiu Nesos (Arsinoites)
+genre:    documents
+date:     161 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Soknopaiu Nesos (Arsinoites) (161 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       9223
+source:   https://papyri.info/ddbdp/bgu;2;537dupl
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    [Κρό]κῳ κωμογραμματεῖ
+r.2    [κώμ]ης Σο[κνοπαίου] Νήσου
+r.3    [παρὰ Ἁ]τρῆτος Σαταβοῦτος
+r.4    τ[οῦ Παν]ε[φρέ]μμεως μητρὸς
+r.5    [Σεγάθεω]ς [ἀπὸ κώμη]ς Σοκνοπ[αίου]
+r.6    [Νήσου. ][ἀπ]ογράφομαι [ἐμαυ]τόν τε καὶ
+r.7    [τοὺς ἐμοὺς εἰς τὴ]ν τοῦ διεληλυθότος
+r.8    [κγ ἔτους θεοῦ Αἰλίου] Ἀντωνείνου
+r.9    [κατʼ οἰκί]αν ἀ[πογ]ραφὴν ἐν ᾗ καταγεί[νομαι ἐν οἰκίᾳ] μητρικῇ ἐν τῇ
+r.10   [κώμῃ.] εἰμὶ δὲ ὁ προγεγραμμένος Ἁ[τρῆς ἐτῶν] κε ἄσημος καὶ τὴν γυ[ναῖκ]ά μου Ἰσάριον ἀπάτορα
+r.11   [μητρὸς Τ]ανεφρέμμεως
+r.12   [τῆς Πανομιέως ἐτῶν α] … [ ἄσημον.]
+r.13   [ὑπάρχει δὲ αὐτῇ ἐν τῇ κώμῃ]
+r.14   [οἰκία]ι δύο καὶ τέταρτον μ[έ]ρος
+r.15   [μαμμικὸν, κ]αὶ Ταπετ[σ]ῖρ[ις]
+r.16   [Στοτοήτεως τοῦ Πανεφ]ρέμμε[ως μητρὸς Τ]απετσίρεως ἐτῶν ιβ
+r.17   [ἄση]μος. ὑπάρχει δὲ τῇ Ταπετ[σίρει] οἰκίαι δύο καὶ αὐλὴ καὶ
+r.18   [τέτ]αρτον μέρος παππικὸν
+r.19   καὶ τέταρτον μέρος μαμμικὸν.
+r.20   [διὸ ][ἐπι]δίδωμι τὴν ἀπογραφήν.
+r.21   [ἔτους α Αὐτοκρ]άτο[ρος] Καίσαρος
+r.22   [Μάρκου Αὐ]ρηλ[ίου] Ἀντωνίνου
+r.23   [Σεβαστοῦ καὶ Αὐτοκρ]άτο[ρος] Καίσαρος
+r.24   [Λουκίου] Αὐρηλίου Οὐήρου Σεβαστοῦ
+r.25   [Μεσορὴ δ.]
+
+[TRANSLATION]
+# HGV-EN: To [Kro]kos, village scribe of the village of So[knopaiou] Nesos [from Ha]tres, son of Satabous, the son of [Pan]e[phre]mmis, mother [Segathi]s, [from] the village of Soknop[aiou Nesos]. I register myself and [my family] for the house-by-house registration of the past [year 23 of the God Aelius] Antoninus, [in the house], in which I live, which is in the [village] and is inherited from my mother. And I am the above mentioned Ha[tres], 2[5] years old, without a distinguishing mark and (I register) my wife Isarion, father unknown, whose [mother] is [T]anephremmis, [daughter of Panomieus, 13 years old, without a distinguishing mark. There belongs to her in the village] two houses and her [grandmother’s] quarter (inheritance). And (I register) Tapet[s]ir[is, daughter of Stotoetis, the son of Paneph]remmis, [mother T]apetsiris, 12 years old, without a distinguishing mark. There belongs to Tapet[siris] two houses and a courtyard and her grandfather’s quarter and her grandmother’s quarter. [Therefore] I submit this registration. [Year 1] of Imperator Caesar [Marcus Au]rel[ius] Antoninus [Augustus and] Imperator Caesar [Lucius] Aurelius Verus Augustus, [Mesore 4].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    

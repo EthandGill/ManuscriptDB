@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 12.1419
+label:    P.Oxy. 12.1419
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     265 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (265 CE)
+# hgv-keywords: Befehl — Prytanis an Eintreiber (Steuer) — Anweisung (Zahlung) — Geld — opinator
+tm:       21827
+source:   https://papyri.info/ddbdp/p.oxy;12;1419
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    παρὰ τοῦ πρυτάνεως
+r.2    Θωνίῳ πράκτορι πολιτικῶν χαίρειν.
+r.3    ἐξο[δία]σόν μοι ἀφʼ ὧν ἀπῄτησας
+r.4    τε[λω]νικῶν ἐν τῷ νομῷ ἃς
+r.5    μετεβάλου διὰ δημοσίας τραπέζης
+r.6    ὀπινάτορι ἀπαιτητῇ τιμῆς πυροῦ
+r.7    δραχμὰς Αφ, ἀλλὰ καὶ ἄλλας εἰς λόγον
+r.8    ἀννώνης λεγιωναρίων
+r.9    πεμφθέντων ἀπὸ Ἡρακ[λ]άμ[μ]ωνος μετὰ
+r.10   Ἰσχυρίωνος διώκτου σίτου δραχμὰς τ, γίνονται ἐπὶ τὸ αὐτὸ δραχμαὶ Αω.
+r.11   ἐξοδίασον τ[ὰ]ς δραχμὰς
+r.12   χιλ[ί]ας ὀκτακοσίας .
+r.13   ἔτους ιβ Παῦνι δ.
+
+[TRANSLATION]
+# HGV-EN: From the prytanis to Thonius, collector of city-dues, greeting. Pay me from the tax-farming contributions which you have exacted in the nome the 1,500 drachmae which you credited through the public bank to Opinator, exactor of wheat equivalents, and further on account of the annona of the legionaries sent from Heraclammonos with Ischyrion, corn-collector, another 300 drachmae, making 1,800 dr. in all. (Signed) Pay the 1,800 drachmae. The 12th year, Pauni 4.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

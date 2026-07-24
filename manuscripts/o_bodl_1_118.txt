@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 1.118
+label:    O.BODL 1.118
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     155 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (155 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       70899
+source:   https://papyri.info/ddbdp/o.bodl;1;118
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κϛ Παῦνι ιγ
+r.2    τέτακται Ταχνοῦμις
+r.3    τὸ τέλος τοῦ Φαρμοῦθι
+r.4    καὶ Παχὼν τοῦ αὐτοῦ ἔτους.
+r.5    Ἀβιήτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

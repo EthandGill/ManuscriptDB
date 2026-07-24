@@ -1,0 +1,44 @@
+[META]
+id:       P.RYL 2.170
+label:    P.RYL 2.170
+name:     Contract — Hermopolites
+genre:    contracts
+date:     202 CE – 203 CE
+language: Greek (Koiné)
+found:    Hermopolites
+held:     
+shelf:    
+content:  Contract from Hermopolites (202 CE – 203 CE)
+# hgv-keywords: Vertrag — Angebot — Pacht — Land
+tm:       19518
+source:   https://papyri.info/ddbdp/p.ryl;2;170
+lat:      
+lon:      
+
+[GREEK]
+r.1    … ρ[ο]ῦτος ἀπὸ τ[ῆς Ἑ]ρμοῦ πόλ[εως]
+r.2    [οἰκοῦντος ἐν] κώμῃ Σενινήβ[ε]ι τῆς Ἀντινόου
+r.3    [νομαρχίας. βού]λομαι ἑκουσίως μισθώσασθαι παρʼ ὑ[μῶν πρὸς μό]νον τὸ ἐνεστὸς ἑνδέκατον ἔτος
+r.4    [Σεουήρου και Ἀ]ντωνίνου καὶ Γέτα Καισάρων
+r.5    [τῶν κυρίων] ἀπὸ τῶν ὑπαρχουσῶν ὑμῖν περὶ
+r.6    [κώμην Σιν]αλαβὴ ἐκ τῶν [Ἀ]νδρίσκου καὶ Μο[λόσσου κλήρ]ων ἐν γ κοίταις ἀποτάκτους
+r.7    [ἀρούρας ] … πέντε ἥμισυ ὧν μιᾶς μὲν κοίτης
+r.8    [ἀρούρας ] … [ εἰ]ς μὲν σπορὰν λαχανοσπέρμου
+r.9    [ἀποτάκτου] ἐκφορίου ὡς τῆς ἀρούρης λαχανοσπέρμου
+r.10   [ἀνὰ ἑπτὰ μέ]τρα τῆς ἀρτάβης ἀρταβῶν τριῶν ,
+r.11   [τῆς δὲ δευτέρας] ἀρούρας … εἰς [τ]ὸ ξ[υλαμ]ᾶν χορτάσ[μασι ] …
+
+[TRANSLATION]
+# HGV-EN: ‘To… from …, of Hermopolis, living at the village of Seninebis of Antinoopolis. I voluntarily desire to lease from you for the present 11th year only of Severus, Antoninus, and Geta, Caesars and lords, of the land belonging to you in the area of the village of Sinalabe from the holdings of Andriscus and Molossus [.]5½ selected arurae in 3 parcels, of which one parcel consisting of … arurae is to be sown with vegetable seed at a fixed rent of three artabae of 7 metra each of vegetable seed to the arura, the second consisting of . . . arurae to be cultivated with green stuffs …’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

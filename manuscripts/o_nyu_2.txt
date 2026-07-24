@@ -1,0 +1,32 @@
+[META]
+id:       O.NYU 2
+label:    O.NYU 2
+name:     Receipt — Elephantine
+genre:    receipts
+date:     100 BCE – 99 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     New York
+shelf:    
+content:  Receipt from Elephantine (100 BCE – 99 BCE)
+# hgv-keywords: Quittung — Steuer — Bier — Natron
+tm:       869406
+source:   https://papyri.info/ddbdp/o.nyu;;2
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔτους ιε Χοιαχ …
+r.2    τέτακται τέλος ζυτηρᾶς νιτρικῆς
+r.3    Ἐλεφαντίνης πρώτης ἑξαμήνου
+r.4    Ψενάμουνις ὁμοίως τν.
+r.5    διὰ Πετενεφώτου.
+
+[TRANSLATION]
+# HGV-EN: Year 15, Choiach x, has paid for tax on beer (and) natron of Elephantine of the first semester, Psenamounis likewise (?) 350 ⟨dr.⟩. Through Petenephotes.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

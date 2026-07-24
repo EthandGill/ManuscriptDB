@@ -1,0 +1,36 @@
+[META]
+id:       O.STRAS 1.9
+label:    O.STRAS 1.9
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     200 BCE – 101 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (200 BCE – 101 BCE)
+# hgv-keywords: Quittung — Steuern — Bank — Geld
+tm:       44243
+source:   https://papyri.info/ddbdp/o.stras;1;9
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους γ Παχὼν τέτακται ἐπὶ τὴν
+r.2    ἐν Ἀπόλλωνος πόλει τῆι
+r.3    μεγάληι Οὐρανίου κολλυβιστικὴν τράπεζαν
+r.4    Ψενμεγχῆς
+r.5    Παλεῦτος
+r.6    δισχιλίας ἐνακοσίας ἑξήκοντα
+r.7    γίνονται Βϡξ.
+r.8    Χαρίδημος τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

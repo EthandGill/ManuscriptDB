@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1501
+label:    O.BODL 2.1501
+name:     Receipt — Theben
+genre:    receipts
+date:     180 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (180 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       72184
+source:   https://papyri.info/ddbdp/o.bodl;2;1501
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος κ ἔτους Κομμόδου
+r.2    Καίσαρος τοῦ κυρίου Παχὼν κγ ὑπὲρ Νότου
+r.3    ὀνόματος Παναμέως Ψενμώνθου Ἀμενρώσιος πυροῦ ἀρτάβης τέταρτον κδ γίνεται πυροῦ ἀρτάβης δ κδ.
+r.4    Ἀμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

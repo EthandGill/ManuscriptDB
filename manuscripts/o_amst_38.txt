@@ -1,0 +1,26 @@
+[META]
+id:       O.AMST 38
+label:    O.AMST 38
+name:     Receipt — Theben
+genre:    receipts
+date:     42 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (42 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70385
+source:   https://papyri.info/ddbdp/o.amst;;38
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Σενβοῦχις Ὥρου διὰ Φιλάμμωνος
+r.2    τέλος λινύφων β ἔτους δραχμὰς γ τριώβολον. ἔτους γ Κλαυδίου
+r.3    Καίσαρος Σεβαστοῦ Ἁθὺρ ιδ.
+
+[TRANSLATION]
+1     
+2     
+3     

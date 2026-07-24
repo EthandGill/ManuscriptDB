@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.170
+label:    O.ONT.MUS 2.170
+name:     Receipt — Theben
+genre:    receipts
+date:     74 CE – 75 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (74 CE – 75 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75189
+source:   https://papyri.info/ddbdp/o.ont.mus;2;170
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μαιεύριος Ἁρφμόιτος
+r.2    καὶ ἀδελφὸς σιτικῶν ὑπὲρ Ἄνω τοπαρχίας
+r.3    ζ ἔτους …
+r.4    Α … σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

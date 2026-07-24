@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.450
+label:    O.STRAS 1.450
+name:     Receipt — Theben
+genre:    receipts
+date:     204 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (204 CE)
+# hgv-keywords: Quittung — Gemüse
+tm:       76038
+source:   https://papyri.info/ddbdp/o.stras;1;450
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἡρακλιανὸς
+r.2    ἀπαιτητὴς κριθῆς καὶ λαχάνου Θερμούθι
+r.3    Ψεντκαλίβιος. ἔσχηκα παρὰ σοῦ
+r.4    εἰς προ ὑπὲρ ς … λαχάνου … λ.
+r.5    ἔτους ιβ Ἐπεὶφ κη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

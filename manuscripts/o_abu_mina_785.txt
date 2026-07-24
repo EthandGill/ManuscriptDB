@@ -1,0 +1,26 @@
+[META]
+id:       O.ABU.MINA 785
+label:    O.ABU.MINA 785
+name:     Receipt — Abu Mena
+genre:    receipts
+date:     601 CE – 650 CE
+language: Greek (Koiné)
+found:    Abu Mena
+held:     
+shelf:    
+content:  Receipt from Abu Mena (601 CE – 650 CE)
+# hgv-keywords: Quittung — Arbeit — Ernte — Wein — Trauben
+tm:       116971
+source:   https://papyri.info/ddbdp/o.abu.mina;;785
+lat:      30.8416054715
+lon:      29.6670462965
+
+[GREEK]
+r.1    ἐτρύγησεν αππα Κῦρις Νόνα καὶ Χαὴλ τοῦ αὐτοῦ ἐν τ Νεστ
+r.2    καμήλιον α κόλλαθον α ἐπαγομένων α
+r.3    ἰνδικτίονος ιδ
+
+[TRANSLATION]
+1     
+2     
+3     

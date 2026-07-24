@@ -1,0 +1,28 @@
+[META]
+id:       P.PHIL 23
+label:    P.PHIL 23
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     123 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (123 CE)
+# hgv-keywords: Quittung — Steuern — Gewerbe — Weber
+tm:       12724
+source:   https://papyri.info/ddbdp/p.phil;;23
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ἔτους ζ Αὐτοκράτορος Καίσαρος Τραιανοῦ Ἁδριανοῦ
+r.2    Σεβαστοῦ Μεχεὶρ δ εἰς ἀρίθμησιν Τῦβι, διέγραψε Τριάδελφος
+r.3    Σανσνέως γερδιακοῦ Φιλαδελφείας ἑβδόμου ἔτους
+r.4    νομαρχίας δραχμὰς τετρακοσίας εἴκοσι τέσσαρας, γίνονται δραχμαὶ υκδ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

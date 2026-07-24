@@ -1,0 +1,38 @@
+[META]
+id:       SB 1.4326
+label:    SB 1.4326
+name:     Receipt — Theben
+genre:    receipts
+date:     121 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (121 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       5612
+source:   https://papyri.info/ddbdp/sb;1;4326
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους μθ, Ἐπεὶφ θ.
+r.2    τέτακται ἐπὶ τὴν ἐν Κροκοδίλων πόλει τράπεζαν, ἐφʼ ἧς
+r.3    Ἀντίοχος ἐννομίου τοῦ αὐτοῦ ἔτους
+r.4    Πατῆς Πετεσούχου
+r.5    χιλίας ἐνακοσίας ν,
+r.6    Αϡν.
+r.7    Ἀλίτιχος τραπεζίτης
+r.8    Βτ
+r.9    ὁ αὐτὸς ἄλλας τρ τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

@@ -1,0 +1,26 @@
+[META]
+id:       O.LEID 142
+label:    O.LEID 142
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     169 CE – 174 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (169 CE – 174 CE)
+# hgv-keywords: Datierung
+tm:       24710
+source:   https://papyri.info/ddbdp/o.leid;;142
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Αὐρ]ηλίου Ἀν[τωνίνου Καίσαρος τοῦ κυρίου]
+r.2    Ἀρμενιακοῦ Μηδ[ικοῦ Παρθικοῦ μεγίστου]
+r.3    Φαμενὼθ κα.
+
+[TRANSLATION]
+1     
+2     
+3     

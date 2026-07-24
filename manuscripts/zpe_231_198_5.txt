@@ -1,0 +1,32 @@
+[META]
+id:       ZPE 231.198_5
+label:    ZPE 231.198_5
+name:     Receipt — Elephantine
+genre:    receipts
+date:     104 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo, Egyptian Museum SR 18955 (3)
+shelf:    
+content:  Receipt from Elephantine (104 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       999715
+source:   https://papyri.info/ddbdp/zpe;231;198_5
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Πετροσζμῆ[θης] …
+r.2    ὑπὲρ λαογραφίας ἑβ[δόμου ἔτους]
+r.3    Τραιανοῦ Καί[σαρος τοῦ κυρίου]
+r.4    ἀργυρίου δραχμὰς δέκα ἕξ γίνονται δραχμαὶ ιϛ [καὶ ὑπὲρ ἀνδριάντος]
+r.5    τριώβολον Ἑρμογένη[ς Ἀμμωνᾶτος]
+r.6    πράκτωρ ἔγραψα Με[σορὴ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

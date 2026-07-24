@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.143
+label:    O.STRAS 1.143
+name:     Receipt — Theben
+genre:    receipts
+date:     183 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (183 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75744
+source:   https://papyri.info/ddbdp/o.stras;1;143
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαρμοῦθι κη τοῦ κγ ἔτους ὀνόματος
+r.2    Πμούιος ὁμοίως Ἰμούθου ὑπὲρ βαλανείου
+r.3    κγ ἔτους Ἀγορᾶς δραχμὰς δύο ἡμιωβέλιον χαλκοῦς β γίνονται δραχμαὶ β ἡμιωβέλιον χαλκοῖ β καὶ
+r.4    ὑπὲρ Ἀείνεως. Πχο σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.34
+label:    O.STRAS 1.34
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     100 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     
+shelf:    
+content:  Receipt from Oberägypten (100 BCE – 1 BCE)
+# hgv-keywords: Quittung — Steuern — Bank — Geld
+tm:       75635
+source:   https://papyri.info/ddbdp/o.stras;1;34
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους ιε Παχὼν κγ [τέτακται ] …
+r.2    Ἑρέως Τεσενούφ[ιος]
+r.3    εἰς τὸ ιε ἔτος … πυροῦ ἀρτάβας ε …
+r.4    Θαύτης δραχμὰς ν γίνονται ν.
+r.5    Ἡλιόδωρος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

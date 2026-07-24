@@ -1,0 +1,46 @@
+[META]
+id:       P.LOUVRE 1.12
+label:    P.LOUVRE 1.12
+name:     Contract — Soknopaiu Nesos (Arsinoites)
+genre:    contracts
+date:     142 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Soknopaiu Nesos (Arsinoites) (142 CE)
+# hgv-keywords: Vertrag — Kauf — Kamel
+tm:       11826
+source:   https://papyri.info/ddbdp/p.louvre;1;12
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    Πανεφρεμμις Ὥρου το[ῦ] Στοτοήτεως τῶν ἀπὸ
+r.2    κώμης Σοκνοπαίου Νήσου τῆς Ἡρακλείδου
+r.3    μερίδος … τοῦ Ἀρσινοείτου
+r.4    νομοῦ. ὁ[μ]ολ[ο]γῶ πεπρακέναι
+r.5    Σατα[β]οῦτι [Π]ανεφ[ρ]έμμεως ἀπὸ [τ]ῆς
+r.6    αὐ[τῆ]ς [Σο]κνοπαίου Νήσου κώμης κάμ[η]λον
+r.7    θήλ[εια]ν τελείαν κεχ[αραγμ]έν[ην]
+r.8    ἐπ[ὶ] τῷ δεξιῷ μη[ρῷ ] … Η, καὶ ἀπέχ[ω] τὴν
+r.9    συμπ[εφ]ωνημ[έν]ην τιμὴ[ν ἀ]ργυρίου
+r.10   δραχμὰς ἑξακοσίας, γίνονται δραχμαὶ χ.
+r.11   ἔτους ε Ἀ[ντ]ωνίνο[υ] Καίσαρος τοῦ κυρίου,
+r.12   Με[χεὶρ] γ.
+
+[TRANSLATION]
+# HGV-EN: Panephremmis, son of Horos, the son of Stotoetis, of those from the village of Soknopaiou Nesos, Herakleides division of the Arsinoite nome. I acknowledge that I have sold to Sata[b]ous, son of [P]aneph[r]emmis, from the same village of Soknopaiou Nesos, a fully grown female camel branded on the right haunch with [.]Η and I have received the price agreed upon of six hundred silver drachmas, = 600 drachmas. Year 5 of A[nt]oninus Caesar, the lord, Me[cheir] 3.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

@@ -1,0 +1,58 @@
+[META]
+id:       P.Oxy. 1.86
+label:    P.Oxy. 1.86
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     338 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (338 CE)
+# hgv-keywords: Eingabe — Helena an den Logistes Flavius Eusebios — Klage auf Stellung eines Seemanns für ein öffentliches Schiff
+tm:       20744
+source:   https://papyri.info/ddbdp/p.oxy;1;86
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ὑπατείας Φλαουίων Οὔρσου καὶ Π[ολεμίου]
+r.2    τῶν λαμπροτάτων.
+r.3    [Φλα]ουίῳ Εὐσεβίῳ λογιστῇ Ὀξυ[ρυγχείτου]
+r.4    [π]αρὰ Αὐρηλίου Παπνούθιος Παύμι[ος ] …
+r.5    … Ὀξυρυγχείτου κυβερνήτου πλοίο[υ δημοσί][ου] πολυκώπου ἄγοντος ἀρτάβας ψ, διʼ ἐμοῦ Ἑλένης συμβίου.
+r.6    ἔθος ἐστὶν τοῦ παρασχεθῆναι πρὸς
+r.7    [ὑπ]ηρεσίαν τοῦ αὐτοῦ δημοσίου πλοίου
+r.8    [ἐκ] τῆς πόλεως ναύτην ἕνα . πολλάκι[ς]
+r.9    [τοί]νυν διεστειλάμην Εὐστοχίῳ συστά[τῃ] τῆς νυνὶ λειτουργούσης φυλῆς [ὥ]σ[τε ν]αύτην παρασχεῖν ὑπὲρ το[ῦ ἐνεστῶ][τος] ἐνιαυτοῦ ὑπὲρ τοῦ δύνασθ[αι α]ὐτὸν
+r.10   [ὑπη]ρετήσασθαι τῇ δημοσίᾳ σιτοπομπίᾳ.
+r.11   [οὗτο]ς δὲ μίαν ἐκ μιᾶς ὑπερτιθέμεν[ο]ς
+r.12   [οὐ π]αρέσχεν, καὶ τούτου χάριν τὸ βιβλί[ον]
+r.13   [ἐπι]δίδωμι ἀξιῶν τοῦτον μετ[α]πεμ[φθ]ῆναι πρὸς τὴν σὴν ἐμμέλειαν κα[ὶ] ἐπα[ναγ]κασθῆναι καὶ ἂν ὣς τὸν ναύτη[ν]
+r.14   [μοι] παραδοῦναι, πρὸς τὸ μὴ εἰς ἀν[ά]ν[κην] με καταστῆναι τῷ μείζονι προ[σέ][τι ἐ]ντυχεῖν.
+r.15   [ὑπατεί]ας τῆς προκειμένης, Φαρμοῦθι β.
+r.16   [Αὐρη]λία Ἑλένη ἐπιδέδωκα.
+r.17   [Αὐρήλιος] Θέων ἔγραψα ὑπὲρ αὐτῆς
+r.18   [γράμ]ματα μὴ εἰδυίης.
+
+[TRANSLATION]
+# HGV-EN: In the consulship of Flavius Ursus and Flavius Polemius, the most illustrious. To Flavius Eusebius, logistes of the Oxyrhynchite nome, from Aurelius Papnouthis, son of Paümis, ... of Oxyrhynchus, pilot of a public rowing vessel carrying 700 artabae, through me Helena, his wife. It is the custom that a single boatman should be provided from the city to serve on the said state vessel. I have several times requested Eustochius ... of the tribe which is at present responsible for this duty, to provide a boatman for the current year who shall help in the service of the public corn-supply. But he puts it off day after day and has not provided a man; and for this reason I send this petition, requesting your grace to send for him and compel him nevertheless to assign me a boatman... In the consulship above-written, Pharmouthi 2. I, Aurelia Helena, have presented this petition. I, Aurelius Theon, signed for her, as she is illiterate.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

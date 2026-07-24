@@ -1,0 +1,24 @@
+[META]
+id:       O.TRIM 1.257
+label:    O.TRIM 1.257
+name:     Documentary papyrus — Trimithis (Oasis Magna)
+genre:    documents
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Trimithis (Oasis Magna)
+held:     
+shelf:    
+content:  Documentary papyrus from Trimithis (Oasis Magna) (301 CE – 400 CE)
+# hgv-keywords: Notiz — Name — Weingarten — Öl
+tm:       131306
+source:   https://papyri.info/ddbdp/o.trim;1;257
+lat:      25.6677395488
+lon:      28.8708832519
+
+[GREEK]
+r.1    εἰσέρχεται εἰς τὴν κέλλαν σου ἀπὸ ἐλαίου χωρίου Ἀμμωνιανοῦ κεράμια δ κβ
+
+[TRANSLATION]
+# HGV-EN: “Entered into your storeroom from oil of the vineyard of Ammonianos, 4 1/22 keramia.”
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     

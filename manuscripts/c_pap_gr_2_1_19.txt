@@ -1,0 +1,44 @@
+[META]
+id:       C.PAP.GR 2.1.19
+label:    C.PAP.GR 2.1.19
+name:     Documentary papyrus — Soknopaiu Nesos (Arsinoites)
+genre:    documents
+date:     100 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Soknopaiu Nesos (Arsinoites) (100 CE)
+# hgv-keywords: Anzeige — Tod eines Sklaven
+tm:       9341
+source:   https://papyri.info/ddbdp/c.pap.gr;2.1;19
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    Ἀμμων[ί]ωι βασιλικῶι γραμματεῖ
+r.2    Ἀρσινοίτου Ἡρακλείδου με[ρ]ίδος
+r.3    παρὰ Πανεφρέμμεως τοῦ Στοτοήτιος
+r.4    τῶν ἀπ[ὸ] κώμης Σοκ[νοπαίου Νήσ]ου τῆς
+r.5    Ἡρακλείδου μερίδος. [ὁ] πατρι[κό]ς μου
+r.6    δοῦλος Πανομιεὺς ἐτελεύτησεν
+r.7    τῶι Φαῶφι μηνὶ το[ῦ] ἐνεστῶτος
+r.8    τετ[ά]ρτ[ο]υ ἔτους [Α]ὐτοκράτορος Καίσαρος
+r.9    Νέ[ρ]ουα [Τραιανοῦ] Σεβαστοῦ Γε[ρ]μανικοῦ.
+r.10   δ[ιὸ ἀξιῶ] τ[αγῆναι αὐτὸν ἐ]ν τ[ῇ τῶν]
+r.11   τετελευ[τ]ηκό[των τάξει]
+
+[TRANSLATION]
+# HGV-EN: To Ammon[i]os, royal scribe of the Arsinoite nome, Herakleides division, from Panephremmis, son of Stotoetis, of those of the village of Sok[nopaiou Nes]os, Herakleides division. My slave Panomieus, inherited from my father, died in the month of Phaophi of the present fourth year of Imperator Caesar Ne[r]va [Traianus] Augustus Ge[r]manicus. Therefore I request that he is included in the list] of those, who have died
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

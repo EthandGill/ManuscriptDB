@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1678
+label:    O.BODL 2.1678
+name:     Receipt — Theben
+genre:    receipts
+date:     154 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (154 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       72362
+source:   https://papyri.info/ddbdp/o.bodl;2;1678
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἰούλιος μεταθ
+r.2    Ὀννώφρει Πικῶτος καὶ μετόχοις.
+r.3    παρεκόμισας εἰς τὴν ἀχυροθήκην
+r.4    ὑπὲρ γενήματος ιζ [ἔτους] δίμοιρον
+r.5    γόμου γίνεται γόμου 𐅷. ἔτους ιζ Μεσορὴ κ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

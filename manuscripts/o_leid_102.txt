@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 102
+label:    O.LEID 102
+name:     Receipt — Theben
+genre:    receipts
+date:     127 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (127 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24672
+source:   https://papyri.info/ddbdp/o.leid;;102
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … τελῶναι θησαυροῦ ἱερῶν
+r.2    … ὑπὲρ βαλανευτικοῦ τοῦ ια ἔτους Ἁδρια[νοῦ]
+r.3    … Φαρμοῦθι ιη. ἄλλας ὀνόματος Φαράθου πρ[εσβυτέρου]
+r.4    … ὑπὲρ βαλανευτικοῦ τοῦ ια ἔτους Ἁδριανοῦ τοῦ κυρίου Φαρμοῦθι …
+r.5    … Παμώνθης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

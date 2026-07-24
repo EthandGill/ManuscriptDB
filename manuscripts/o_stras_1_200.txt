@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.200
+label:    O.STRAS 1.200
+name:     Receipt — Theben
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (120 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75797
+source:   https://papyri.info/ddbdp/o.stras;1;200
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Χεσφμόις πράκτωρ ἀργυρικῶν μητροπόλεως
+r.2    Ἑρμίᾳ Πικῶτος Ἀπολλ . ἔσχον ὑπὲρ σκοπέλων
+r.3    καὶ ἄλλων ε ἔτους ῥυπαρὰς δραχμὰς γ διώβολον. ἔτους ε Ἁδριανοῦ
+r.4    Καίσαρος τοῦ κυρίου Χοιὰχ λ. Πανίσκος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,46 @@
+[META]
+id:       P.RYL 2.196
+label:    P.RYL 2.196
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     196 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (196 CE)
+# hgv-keywords: Quittung (Steuern)
+tm:       12971
+source:   https://papyri.info/ddbdp/p.ryl;2;196
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἔτους δ Λουκίου
+r.2    Σεπτιμίου Σευήρου
+r.3    Εὐσεβοῦς Περτίνακος
+r.4    Σεβαστοῦ Μεχεὶρ α.
+r.5    διεγράφησαν Ἀπίωνι νομάρχῃ Ἀρσινοΐτου
+r.6    διὰ Ἥρωνος χειριστοῦ δεκανικοῦ ἰχθυομεταβόλων διὰ Σοκμήνεως
+r.7    καὶ τῶν λοιπῶν ἡγουμένων
+r.8    γ ἔτους δραχμαὶ ἑξήκοντα, γίνονται δραχμαὶ ξ,
+r.9    ζυτηρᾶς κατʼ ἄνδρα
+r.10   ὁμοίως δραχμαὶ ὀγδοήκοντα, γίνονται δραχμαὶ π, πλοίων
+r.11   θεαγῶν ὁμοίως δραχμαὶ ἑκατὸν εἴκοσι τέσσαρες,
+r.12   γίνονται δραχμαὶ ρκδ.
+
+[TRANSLATION]
+# HGV-EN: ‘The 4th year of Lucius Septimius Severus Pius Pertinax Augustus, Mecheir 1. Paid to Apion, nomarch of the Arsinoïte nome, through Heron, agent, for the decanus of fish-vendors through Sokmenis and the other principals for the 3rd year sixty drachmae, total 60 dr., for the beer-tax individually assessed similarly eighty drachmae, total 80 dr., for the boats of the image-bearers similarly one hundred and twenty-four drachmae, total 124 dr.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

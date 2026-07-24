@@ -1,0 +1,32 @@
+[META]
+id:       P.RYL 2.80
+label:    P.RYL 2.80
+name:     Documentary papyrus — Hermopolites
+genre:    documents
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Hermopolites
+held:     
+shelf:    
+content:  Documentary papyrus from Hermopolites (1 CE – 100 CE)
+# hgv-keywords: Wachen (Deich)
+tm:       25464
+source:   https://papyri.info/ddbdp/p.ryl;2;80
+lat:      
+lon:      
+
+[GREEK]
+r.1    π[ρε]σβυτέροις τῶν ὑπογεγραμμένων κωμῶν. ἐκβάλετε εἰς τὰ χώματα [τοῦ Πατεμίτου ]
+r.2    Ἄνω ὑδροφύλακας, ἐκ μὲν Σκὰρ ρ …
+r.3    Θάθεως ἑκατόν , Τεμενκώρκεως Ποιμένων ἑκ[ατόν , ] …
+r.4    [Σι]ναγήρεως ἑκατόν , Τελβώνθεως ρ …
+r.5    μηνὸς Σεβαστοῦ …
+
+[TRANSLATION]
+# HGV-EN: To the elders of the villages below-written. Send out irrigation-guards on to the banks of the Upper Patemite district, from Skar 100 …, from Thathis 100, from Temenkorkis of the Shepherds 100 ..., from Sinageris 100, from Telbonthis 100 ... The .. of the month Sebastus …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

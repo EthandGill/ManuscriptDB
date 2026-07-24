@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.465
+label:    O.BODL 2.465
+name:     Receipt — Theben
+genre:    receipts
+date:     34 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (34 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71165
+source:   https://papyri.info/ddbdp/o.bodl;2;465
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Ἰναρῶς Πετεμενώφιος [ὑπὲρ λαογραφίας]
+r.2    κ ἔτους δραχμὰς δέκα καὶ βαλανευτικοῦ μί[αν] [ὀβολὸν α 𐅵]
+r.3    γίνονται δραχμαὶ ια ὀβολὸς α 𐅵 καὶ τὰ τούτων προ[σδιαγραφόμενα][ ἐξ ὀβολοῦ ἡμιωβελίου].
+r.4    ἔτους κ Τιβερίου Καίσαρος [Σεβαστοῦ]
+r.5    Φαρμοῦθι ιε. Πετεμενῶφις Πι[κῶτος].
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

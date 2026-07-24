@@ -1,0 +1,30 @@
+[META]
+id:       O.BERENIKE 4.512
+label:    O.BERENIKE 4.512
+name:     Contract — Berenike
+genre:    contracts
+date:     51 CE – 100 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Contract from Berenike (51 CE – 100 CE)
+# hgv-keywords: Bitte — Kauf — Bdellium
+tm:       971734
+source:   https://papyri.info/ddbdp/o.berenike;4;512
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    … σματω …
+r.2    … ἀγόρασον καὶ
+r.3    δύο μνᾶς βδέλλης.
+r.4    ἔρρωσο.
+
+[TRANSLATION]
+# HGV-EN: ... also buy two mnas of bdellium. Farewell.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

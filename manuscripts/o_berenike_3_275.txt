@@ -1,0 +1,30 @@
+[META]
+id:       O.BERENIKE 3.275
+label:    O.BERENIKE 3.275
+name:     Receipt — Berenike
+genre:    receipts
+date:     51 CE – 100 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     
+shelf:    
+content:  Receipt from Berenike (51 CE – 100 CE)
+# hgv-keywords: Quittung — Wasser — Dekania — Centurie von Magnus
+tm:       641764
+source:   https://papyri.info/ddbdp/o.berenike;3;275
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    δεκανίας Πετεῆσις Παμίνεως
+r.2    Ψενετῦμις Πτιοῦτος
+r.3    κθ
+r.4    ἑκατονταρχίας Μάγνου
+
+[TRANSLATION]
+# HGV-EN: Dekania of Peteesis son of Paminis. Psenetymis son of Ptious, 29, the century of Magnus. L. Valerius.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

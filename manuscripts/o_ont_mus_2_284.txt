@@ -1,0 +1,26 @@
+[META]
+id:       O.ONT.MUS 2.284
+label:    O.ONT.MUS 2.284
+name:     Receipt — Tentyra
+genre:    receipts
+date:     29 CE
+language: Greek (Koiné)
+found:    Tentyra
+held:     Toronto
+shelf:    
+content:  Receipt from Tentyra (29 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       56534
+source:   https://papyri.info/ddbdp/o.ont.mus;2;284
+lat:      26.1425462159
+lon:      32.6704162211
+
+[GREEK]
+r.1    προβάτων ιϛ ἔτους Θὼθ
+r.2    ϛ
+r.3    Σαμόθρᾳξ Παρτβῶτος πυροῦ ἀρτάβης 𐅵 ιβ
+
+[TRANSLATION]
+1     
+2     
+3     

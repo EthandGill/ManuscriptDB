@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.275
+label:    O.STRAS 1.275
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     109 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (109 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75871
+source:   https://papyri.info/ddbdp/o.stras;1;275
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    Ἁρσιήσι Πικῶτος Χ … . ὑπὲρ λαογραφίας ιβ ἔτους
+r.2    Μεμνονείων δραχμὰς ιβ, … α τετρώβολον. ἔτους ιβ Τραιανοῦ Καίσαρος
+r.3    τοῦ κυρίου Φαμενὼθ κβ. ὁμοίως Παχὼν ε δραχμὰς δ.
+r.4    ὁμοίως Παῦνι δ δραχμὰς δ. ὁμοίως Ἐπεὶφ
+r.5    δ βαλανείου δραχμὰς δ. ὁμοίως Μεσορὴ δ δραχμὰς β τετρώβολον.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

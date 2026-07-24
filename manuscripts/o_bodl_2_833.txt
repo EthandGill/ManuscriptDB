@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.833
+label:    O.BODL 2.833
+name:     Receipt — Theben
+genre:    receipts
+date:     114 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (114 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71522
+source:   https://papyri.info/ddbdp/o.bodl;2;833
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἰμούθης καὶ μέτοχοι Ψεναμούνει
+r.2    Πετεχώνσιος. ἔσχομεν ὑπὲρ π … Ἀγορῶν Βορρᾶ
+r.3    ιζ ἔτους ὀβολοὺς δέκα ἓξ γίνονται ὀβολοὶ ιϛ.
+r.4    ἔτους ιζ Τραιανοῦ τοῦ κυρίου
+r.5    Παῦνι θ. Α σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

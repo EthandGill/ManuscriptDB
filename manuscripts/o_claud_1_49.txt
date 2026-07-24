@@ -1,0 +1,28 @@
+[META]
+id:       O.CLAUD 1.49
+label:    O.CLAUD 1.49
+name:     Documentary papyrus — Mons Claudianus
+genre:    documents
+date:     113 CE – 117 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Mons Claudianus (113 CE – 117 CE)
+# hgv-keywords: Passierschein
+tm:       24061
+source:   https://papyri.info/ddbdp/o.claud;1;49
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Οὐαλου[έννις Πρίσκος]
+r.2    ἑκατοντάρχης Ἰουλίῳ [κουράτορι]
+r.3    Ῥαιμα … [ χαίρειν].
+r.4    πάρες …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

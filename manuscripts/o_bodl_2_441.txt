@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.441
+label:    O.BODL 2.441
+name:     Receipt — Theben
+genre:    receipts
+date:     173 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (173 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71142
+source:   https://papyri.info/ddbdp/o.bodl;2;441
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἐπεὶφ κε τοῦ ιγ ἔτους ὀνόματος Παναμέως
+r.2    Πετεχώνσιος ὑπὲρ ἐπικεφαλαίου ιγ ἔτους Ἀγορῶν
+r.3    δραχμὰς τέσσαρας γίνονται δραχμαὶ δ. … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

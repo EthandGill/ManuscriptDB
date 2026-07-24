@@ -1,0 +1,56 @@
+[META]
+id:       P.Oxy. 7.1021
+label:    P.Oxy. 7.1021
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     54 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (54 CE)
+# hgv-keywords: Anzeige — Tod des Kaisers Claudius — Regierungsantritt des Kaisers Nero
+tm:       20321
+source:   https://papyri.info/ddbdp/p.oxy;7;1021
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ὁ μὲν ὀφειλόμενος
+r.2    τοῖς προγόνοις καὶ ἐνφανὴς θεὸς Καῖσαρ εἰς
+r.3    αὐτοὺς κεχώρηκε,
+r.4    ὁ δὲ τῆς οἰκουμένης
+r.5    καὶ προσδοκηθεὶς καὶ ἐλπισθεὶς Αὐτοκράτωρ ἀποδέδεικται, ἀγαθὸς
+r.6    δαίμων δὲ τῆς
+r.7    οἰκουμένης [ἀρ]χὴ ὤν
+r.8    τε πάντων
+r.9    ἀγαθῶν Νέρων
+r.10   Καῖσαρ ἀποδέδεικται.
+r.11   διὸ πάντες ὀφείλομεν
+r.12   στεφανηφοροῦντες
+r.13   καὶ βουθυτοῦντες
+r.14   θεοῖς πᾶσι εἰδέναι
+r.15   χάριτας. ἔτους α Νέρωνος
+r.16   Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.17   μηνὸς Νέου Σεβαστοῦ κα.
+
+[TRANSLATION]
+# HGV-EN: The Caesar who had to pay his debt to his ancestors, god manifest, has joined them, and the expectation and hope of the world has been declared Emperor, the good genius of the world and source of all good things, Nero, has been declared Caesar. Therefore ought we all wearing garlands and with sacrifices of oxen to give thanks to all the gods. The 1st year of the Emperor Nero Claudius Caesar Augustus Germanicus, the 21st of the month Neos Sebastos.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

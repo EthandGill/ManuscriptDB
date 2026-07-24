@@ -1,0 +1,74 @@
+[META]
+id:       P.Oxy. 7.1029
+label:    P.Oxy. 7.1029
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     107 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (107 CE)
+# hgv-keywords: Deklaration — Steinmetze — Hieroglyphen
+tm:       20325
+source:   https://papyri.info/ddbdp/p.oxy;7;1029
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Κλαυδίῳ Μενάνδρῳ βασιλικῷ γραμματεῖ
+r.2    παρὰ Τεῶτος νεωτέρου Ὀννώφριος τοῦ Τεῶτος
+r.3    μητρὸς Τασεῦτος καὶ Ἀσκλᾶτος Ὀννώφρι[ο]ς
+r.4    τοῦ Ὀσμόλχιος μητρὸς Τεσαύριος ἀμφοτέρων
+r.5    ἀπʼ Ὀξυρύγχων πόλεως ἱερογλύφων τῶν κεχειρισμένων ὑπὸ τῶν συνιερογλύφων· γρ[α]φὴ ἡμῶν τε καὶ τῶν αὐτῶν συνιερογλύφων τοῦ ἐνεστῶτο[ς ἑ]νδεκάτου ἔτ[ο]υς
+r.6    Τραιανοῦ Καίσαρος τοῦ κυρίου.
+r.7    ὧν εἶναι·
+r.8    Δεκάτης·
+r.9    Τεῶς Ὀννώφριος ὁ προγεγραμμένος,
+r.10   Ὀννῶφρις ἀδελφός,
+r.11   Ἀσκλᾶς Ὀννώφρις ὁ προγεγραμμένος,
+r.12   Ὀσμόλχις ἀδελφὸς ὢν καὶ ἱερογλύφο[ς]
+r.13   Ὀσείριος θεοῦ μεγίστου.
+r.14   Ἄπιδος
+r.15   δρόμου Θοήριδος·
+r.16   Πτολεμαῖς Πετοσοράπιος τοῦ Πετοσοράπιος.
+r.17   γίνονται ἄνδρες ε.
+r.18   καὶ ὀμνύομεν Αὐτοκράτορα Καίσαρα
+r.19   Νέρουαν Τραιανὸν [Σ]εβαστὸν Γερμανικὸν
+r.20   Δακικὸν ἐξ ὑγιοῦς καὶ ἐπʼ ἀληθείας ἐπιδεδωκέναι τὴν προκειμένην γραφὴν
+r.21   καὶ πλείω τούτων μὴ εἶναι μηδὲ ἔχει[ν]
+r.22   μαθητὰς ἢ ἐπιξένους χρωμένους
+r.23   τῇ τέχνῃ εἰς τὴν ἐνεστῶσαν ἡμέραν,
+r.24   ἢ ἔνοχοι εἴημεν τῷ ὅρκῳ. ἔτους [ι]α Αὐτοκράτορος
+r.25   Καίσαρος Νερούα Τραιανοῦ Σεβαστοῦ
+r.26   Γερμανικοῦ Δακικοῦ Φαῶφι κθ.
+
+[TRANSLATION]
+# HGV-EN: To Claudius Menandrus, basilicogrammateus, from Teos, younger son of Onnophris son of Teos, his mother being Taseus, and Asklas son of Onnophris son of Osmolchis, his mother being Tesauris, both of the city of Oxyrhynchus, hieroglyphic carvers, who have been delegated by their fellow-carvers: the list of ourselves and the said fellow-carvers of hieroglyphics for the present 11th year of Trajanus Caesar the lord, as follows :— In the quarter of the Tenth, Teos son of Onnophris, the aforesaid, Onnophris his brother, Asklas son of Onnophris, the aforesaid, Osmolchis his brother, who is also a hieroglyphic carver of Osiris the most great god. In the quarter of the square of Thoeris, Ptolemaeus son of Petosorapis son of Petosorapis. Total 5 men. And we swear by the Emperor Caesar Nerva Trajanus Augustus Germanicus Dacicus that we have honestly and truthfully presented the foregoing list, and that there are no more than these, and that we have no apprentices or strangers carrying on the art down to the present day, otherwise may we be liable to the consequences of the oath. The 11th year of the Emperor Caesar Nerva Trajanus Augustus Germanicus Dacicus, Phaophi 29.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    

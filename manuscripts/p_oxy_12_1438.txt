@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 12.1438
+label:    P.Oxy. 12.1438
+name:     Documentary papyrus — Oxyrhynchites (?)
+genre:    documents
+date:     176 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (?) (176 CE – 200 CE)
+# hgv-keywords: Liste — Steuern im Rückstand — Personen — Namen — Geld
+tm:       28991
+source:   https://papyri.info/ddbdp/p.oxy;12;1438
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Σαραπάμμων Ψόιτος Ἰνύ[ριος] …
+r.2    Ἄρειος ἀνθʼ οὗ Ἀμόις Ἀμόιτος Ἀπο[λλωνίου][ ] …
+r.3    λινοϋφικόν …
+r.4    γίνεται ὀνόματα γ ἄσημα.
+r.5    καὶ ἀπὸ ἐπικεφαλίων τινῶν [ἀναχωρησάντων]
+r.6    εἰς ἀγνοουμένους τόπους· …
+r.7    Νεβώ, …
+r.8    Σαραπάμμων Ψόιτος Ἰνύριος …
+r.9    λαογραφίας δραχμαὶ ιϛ, λεμλ τριώβολον, δε[σμοφυλακίας] … [,]
+r.10   ἑξαδραχμίας ὄνων δραχμαὶ ε ὀβολὸς, ἐπιστολαφόρων δραχμαὶ δ …
+r.11   χωματικοῦ δραχμαὶ ζ ἡμιωβέλιον , μερισμοῦ διπλῶν …
+r.12   Ἡρακλεωτικῶν ζευγῶν δραχμαὶ ι …
+r.13   Ἡλιοπολιτικῶν δραχμαὶ … τετρώβολον.
+
+[TRANSLATION]
+# HGV-EN: ... Sarapammon son of Psois son of Inuris ..., Arius whose other name is Amois, son of Amois son of Apollonius,for cloth-weavers’ tax. Total 3 persons not traced(?). And from personal dues upon certain individuals who have gone away to unknown places: at Nebo, Sarapammon son of Psois son of Inuris, for poll-tax 16 drachmae, for ... 3 ob.. for prison-guards’ tax (?) ..., for the six-drachmae tax on asses 5 dr. 1 ob., for ... 4 dr., ... for embankments-tax 7 dr. 1/2 ob., for the rate for dipla..., for Heracleopolite pairs (of loaves ?) 10 dr. ...,for Heliopolite . dr. 4(?) ob.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

@@ -1,0 +1,32 @@
+[META]
+id:       ZPE 231.195_2
+label:    ZPE 231.195_2
+name:     Receipt — Elephantine
+genre:    receipts
+date:     98 CE – 99 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (98 CE – 99 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       999712
+source:   https://papyri.info/ddbdp/zpe;231;195_2
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [διέγραψεν Ἁρπαῆσις Θι]ακουλεα
+r.2    [ὑπὲρ λαογραφίας δευτ]έρου ἔτους
+r.3    [Τραειανοῦ Καίσ]αρος τοῦ
+r.4    [κυρίου] [ἀ]ργυρίου δραχμὰς ιζ
+r.5    [Ἑρμογένης] Ἀμμωνᾶτος
+r.6    [πράκτωρ] ἔγραψα
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

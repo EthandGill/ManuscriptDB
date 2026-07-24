@@ -1,0 +1,30 @@
+[META]
+id:       BGU 2.437
+label:    BGU 2.437
+name:     Documentary papyrus — Memphites
+genre:    documents
+date:     174 CE
+language: Greek (Koiné)
+found:    Memphites
+held:     
+shelf:    
+content:  Documentary papyrus from Memphites (174 CE)
+# hgv-keywords: Adresse — Apion an den Strategen Apollonios
+tm:       20166
+source:   https://papyri.info/ddbdp/bgu;2;437
+lat:      29.6279197277
+lon:      31.2486292477
+
+[GREEK]
+r.1    Ἀπολλωνίωι στρατηγῶι
+r.2    Μεμφίτου
+r.3    παρὰ Ἀρείου πρεσβυτέρου
+r.4    Ἀπίωνος τοῦ Ἀπίωνος μητρὸς
+r.5    Σαραποῦτος τῶν ἀπὸ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,56 @@
+[META]
+id:       P.RYL 4.599
+label:    P.RYL 4.599
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     226 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (226 CE)
+# hgv-keywords: Antrag — Aufnahme in die Gerusie — Anlagen
+tm:       17306
+source:   https://papyri.info/ddbdp/p.ryl;4;599
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Αὐρηλίῳ Διδύμῳ τῷ καὶ Διοσκουρίδῃ ἐξηγητεύσαντι
+r.2    βουλευτῇ διέποντι καὶ τὰ στέμματα
+r.3    τῆς Ὀξυρυγχειτῶν πόλεως
+r.4    παρὰ Αὐρηλίου Κλαυδιανοῦ Σαρᾶτος
+r.5    τοῦ Σαραπίωνος μητρὸς Ἀμμωνοῦτος ἀπʼ Ὀξυρύγχων πόλεως. γεγονὼς ἤδη πρὸς τὸ ἐνεστὸς ϛ ἔτος ἔτη ξη
+r.6    καὶ ὀφείλων ἐνταγῆναι τοῖς ἀπὸ
+r.7    τοῦ γερουσίου τὴν αὐτὴν ἡλικίαν βεβιωκόσιν ὡς τὸ μετέχειν
+r.8    τῶν τῆς γερουσίας τιμίων ἐπιδίδωμι τὸ ὑπόμνημα παρατιθέμενος τῆς πρὸς τὸ κδ ἔτος [θε]οῦ
+r.9    Σεουήρου Ἀντωνίνου [κατʼ οἰκίαν]
+r.10   ἀπογραφῆς τὸ ἀνῆκον μέρος ἐπ[ὶ]
+r.11   τὸ τὰ ἀκόλουθα γενέσθαι ὡς
+r.12   καθήκει. ἔτους ϛ Αὐτοκράτορος
+r.13   Καίσαρος Μάρκου Αὐρηλίου Σεουήρου
+r.14   Ἀλεξάνδ[ρ]ου Εὐσεβοῦς Εὐτυχοῦς
+r.15   Σεβαστοῦ Φαῶφι. ἐπιδέδωκα.
+r.16   [ὁμοί]ως ἐκ δημοσίας βιβλιοθήκης ἐκ πεδιακοῦ ἐπικρίσεως
+r.17   [τοῦ προκειμ]ένου ἔτους ἐπ[ι]δ[ίδωμι]
+
+[TRANSLATION]
+# HGV-EN: ‘To Aurelius Didymus also called Dioscurides, ex-exegetes, senator, and administrator of the corps of the city of Oxyrhynchus, from Aurelius Claudianus, son of Saras, son of Sarapion, his mother being Ammonous, of the city of Oxyrhynchus. As I have attained the age of 68 in the present sixth year and ought to be enrolled among the members of the gerousia who have lived to the same age in order to share in the priveliges of the gerousia, I present my application, enclosing the relevant portion of the house-to-house census return of the twenty-fourth year of the deified Severus Antoninus, in order that the proper steps may be taken in consequence. (Date.) I have presented. Likewise I present (an extract) from the public archive from the roll of scrutiny of the aforesaid year….’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

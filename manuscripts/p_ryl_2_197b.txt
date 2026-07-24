@@ -1,0 +1,32 @@
+[META]
+id:       P.RYL 2.197b
+label:    P.RYL 2.197b
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     202 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (202 CE)
+# hgv-keywords: Quittung (Zoll)
+tm:       40940
+source:   https://papyri.info/ddbdp/p.ryl;2;197b
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Σοκνοπαίου Νήσου
+r.2    ἴχνους ἐρημοφυλακίας Μέλας
+r.3    ἐξάγων ὀρόβου ἐπὶ ὄνῳ ἑνί .
+r.4    ἔτους ι Ἐπεὶφ πέμπτῃ καὶ εἰκάδι,
+r.5    κε.
+
+[TRANSLATION]
+# HGV-EN: ‘Paid at the custom-house of Socnopaei Nesus the dues for the tax for the protection of the desert route by Melas, exporting pulse on one donkey. The 0th year, Epeiph 25.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

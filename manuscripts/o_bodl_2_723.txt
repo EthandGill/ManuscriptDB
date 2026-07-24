@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.723
+label:    O.BODL 2.723
+name:     Receipt — Theben
+genre:    receipts
+date:     149 CE – 150 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (149 CE – 150 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71413
+source:   https://papyri.info/ddbdp/o.bodl;2;723
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Ἱ]έραξ καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    Πεκῦσι Χεμπνέως. ἔσχομεν
+r.3    τὸ βαλανευτικὸν τοῦ ιγ ἔτους Ἀντωνίνου
+r.4    Καίσαρος τοῦ κυρίου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

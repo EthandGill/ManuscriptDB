@@ -1,0 +1,26 @@
+[META]
+id:       O.PETR.MUS 93
+label:    O.PETR.MUS 93
+name:     Receipt — Theben
+genre:    receipts
+date:     138 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (138 BCE)
+# hgv-keywords: Quittung — Speicher — Getreide
+tm:       77696
+source:   https://papyri.info/ddbdp/o.petr.mus;;93
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους λγ Φαῶφι ε μεμέτρηκεν εἰς τὴν ἐπιγραφὴν
+r.2    τοῦ λβ ἔτους Φατρῆς Ἡρᾶτος πυροῦ ἀρτάβας η δωδέκατον
+r.3    γίνονται πυροῦ ἀρτάβαι η δωδέκατον
+
+[TRANSLATION]
+1     
+2     
+3     

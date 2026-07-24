@@ -1,0 +1,30 @@
+[META]
+id:       O.NYU 7
+label:    O.NYU 7
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     18 BCE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (18 BCE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869410
+source:   https://papyri.info/ddbdp/o.nyu;;7
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους ιβ Μεχειρ κε
+r.2    ὑπὲρ … ω θ … τοῦ αὐτοῦ ἔτους
+r.3    Ψενπόρις Ἁρπβήκιος διώβολον
+r.4    συνπαντ … ἑπτὰ … ὀκτώ, γίνονται η.
+
+[TRANSLATION]
+# HGV-EN: Year 12, Mecheir 25, for . . . of the same year, Psenpoeris son of Harpbekis, 2 ob. . . . seven . . . eight, that is, 8 ⟨dr.⟩. (signature).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

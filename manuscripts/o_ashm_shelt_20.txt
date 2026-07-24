@@ -1,0 +1,30 @@
+[META]
+id:       O.ASHM.SHELT 20
+label:    O.ASHM.SHELT 20
+name:     Receipt — Theben
+genre:    receipts
+date:     200 BCE – 101 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (200 BCE – 101 BCE)
+# hgv-keywords: Quittung — Spreu
+tm:       70572
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;20
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κγ, Παχὼν ιε,
+r.2    παραδέδωκεν εἰς τὸ αὐτὸ ἔτος
+r.3    [ὑπ]ὲρ τοῦ τόπου Πχοῖρις
+r.4    … ς ἀχύρου μώια λ,
+r.5    [γίνονται] μώια λ. …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

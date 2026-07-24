@@ -1,0 +1,38 @@
+[META]
+id:       P.KRU 101
+label:    P.KRU 101
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 800 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 800 CE)
+# hgv-keywords: Contrat de donation d’un enfant à un monastère. Higoumène. Économe
+tm:       86002
+source:   https://papyri.info/ddbdp/p.kru;;101
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … [ⲡτόπος ⲉⲧⲟⲩⲁ]ⲁⲃ ⲙⲡἅγιος ⲁⲡ[ⲁ]
+r.2    [ⲫⲟⲓⲃⲁⲙⲱⲛ ϩⲓⲧ]ⲟⲟⲧⲕ ⲡεὐλαβέστατος ⲕⲩⲣⲓⲁⲕⲟ[ⲥ]
+r.3    πρεσβύτερος ⲁⲩⲱ ⲡἡγούμενος ⲁⲩⲱ ⲡοἰκονόμος
+r.4    ⲙⲡτόπος ⲉⲧⲟⲩⲁⲁⲃ ⲉⲧⲙⲙⲁⲩ ⲧⲁⲣϥϣⲱⲡⲉ ϩⲁ ⲧἐξουσία
+r.5    [ⲙⲡ]τόπος ⲉⲧⲟⲩⲁⲁⲃ ⲛⲁⲡⲁ ⲫⲟⲓⲃⲁⲙⲱⲛ ⲉϥⲟ ⲛϭⲁⲩⲟⲛ ⲉⲣⲟϥ
+r.6    ⲁⲩⲱ ⲉϥὑπουργεῖν ⲉⲡτόπος ⲛⲧⲁⲛϣⲣⲡ ὀνομάζειν [ⲙⲙⲟϥ]
+r.7    ⲛⲧⲡⲉ ϩⲛὑπουργία ⲛⲓⲙ ⲉⲧⲉⲧⲉⲛⲛⲁκελεύειν [ⲙⲙⲟⲥ]
+r.8    ⲛⲕⲟⲙⲟⲥ ⲡϣⲏⲣⲉ ⲛⲍⲏⲑ ⲡⲁⲙⲉⲣⲓⲧ ⲛϣⲏⲣ[ⲉ] …
+r.9    ⲛϥϫⲟⲕⲟⲩ ⲉⲃⲟⲗ ⲁϫⲛ ⲗⲁⲁⲩ ⲛκαταφρόνησις …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

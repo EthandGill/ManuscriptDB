@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 7.1057
+label:    P.Oxy. 7.1057
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     362 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (362 CE)
+# hgv-keywords: Anweisung — Zahlung — Geld — Begleichung eines Darlehens — oxyrhynchitische Ära
+tm:       20349
+source:   https://papyri.info/ddbdp/p.oxy;7;1057
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Παπνοῦτις Τρακον ἀδελφῷ χαίρειν.
+r.2    παράσχου Παπνουτίῳ ὑπηρέτῃ στρατηγοῦ ἀφʼ ὧν μοι χρεωστεῖς ἀπὸ τιμῆς
+r.3    βύρσας ἀργυρίου δηναρίων μυριάδας ἑπτακοσίας πεντήκοντα, γίνονται δηναρίων μυρίαδες ψν μόναι.
+r.4    ἔτους λη ἔτους ζ ἔτους Μεχεὶρ ιε. ὁ αὐτὸς Παπνοῦτις σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: Papnoutis to his brother Dracon, greeting. Pay to Papnoutius, the assistant of the strategus, from the money which you owe me for the price of a hide seven hundred and fifty myriads of denarii of silver, total 750 myriads of denarii, and no more.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

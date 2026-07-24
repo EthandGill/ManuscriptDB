@@ -1,0 +1,26 @@
+[META]
+id:       SB 12.11259
+label:    SB 12.11259
+name:     Receipt — Theben
+genre:    receipts
+date:     180 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (180 CE)
+# hgv-keywords: Quittung — Steuern — Weizen
+tm:       16415
+source:   https://papyri.info/ddbdp/sb;12;11259
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ ε τοῦ κ ἔτους ὑπὲρ πρακτορείας Νότου
+r.2    ὀνόματος Παναμέως Πετεμενώφιος νεωτέρου πυροῦ ἀρτάβης 𐅵.
+r.3    Αὐτόφιλος σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     

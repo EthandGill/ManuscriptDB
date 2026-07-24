@@ -1,0 +1,34 @@
+[META]
+id:       BGU 1.228
+label:    BGU 1.228
+name:     Contract — Arsinoites
+genre:    contracts
+date:     176 CE – 200 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Contract from Arsinoites (176 CE – 200 CE)
+# hgv-keywords: Vertrag — Kauf — Esel
+tm:       28235
+source:   https://papyri.info/ddbdp/bgu;1;228
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Τεσενῦφις καὶ Ὀννῶφρις ἀμφότεραι με[τὰ] κ[υρ]ί[ο]υ
+r.2    τοῦ Σητοης. ὁμολογοῦμεν πεπρακέναι Σαταβοῦτι Χαιρᾶτος τὴν ὑπάρχουσαν ἡμῖν ὄνον
+r.3    θήλειαν λευκομυόχρουν ταύτην τοιαύτην
+r.4    ἀναπόριφον καὶ ἀπέχομεν τὴν συνπεφωνημένην τιμὴν πᾶσαν [ἐ]κ πλήρους π[α]ραχ[ρ]ῆμα διὰ χειρὸς ἐξ [ο]ἴκου ἀργυρίου κεφαλαίου δραχμὰς
+r.5    διακοσίας ἑξήκοντα καὶ βεβαιώσομεν πάσῃ βεβαιώσει, καθὼς πρόκειται. [Ὀνν]όφρις πέπρακα,
+r.6    καθὼς πρόκειται.
+
+[TRANSLATION]
+# HGV-EN: We, Tesenouphis and Onnophris, both sons of [NN], the son of Setoes (?), acknowledge that we have sold to Satabous, son of Chairas, the female, white-mouse coloured donkey, which belongs to us, on the spot, just as it is, unreturnable. And we have received the whole price agreed upon in full, forthwith, from hand to hand out of the house the sum of two hundred and sixty silver drachmas and we shall guarantee with every guarantee, as aforesaid. (m. 2) I, [Onn]ophris, have sold, as aforesaid.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

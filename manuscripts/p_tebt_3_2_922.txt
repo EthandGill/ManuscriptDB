@@ -1,0 +1,32 @@
+[META]
+id:       P.Tebt. 3.2.922
+label:    P.Tebt. 3.2.922
+name:     Receipt — Oxyrhyncha (Arsinoites)
+genre:    receipts
+date:     200 BCE – 101 BCE
+language: Greek (Koiné)
+found:    Oxyrhyncha (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Oxyrhyncha (Arsinoites) (200 BCE – 101 BCE)
+# hgv-keywords: Brief (amtlich) — Quittung — Land — Vermessung (Liste)
+tm:       7972
+source:   https://papyri.info/ddbdp/p.tebt;3.2;922
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἑστιεῖος κωμ[άρ]χης καὶ οἱ γενηματοφύλακες Πετοσίρει Ὥρου κωμογραμματεῖ χαίρειν.
+r.2    ἔχομεν παρὰ σοῦ τὴν κατὰ φύλλον γεωμετρίαν καὶ τὸ κατʼ ἄνδρα τοῦ α ἔτους.
+r.3    Πετοσίρει
+r.4    [κω]μογραμματεῖ
+r.5    [Ὀ]ξυρύγκων.
+
+[TRANSLATION]
+# HGV-EN: Hestieios, village chief, and the crop guards to Petosiris, son of Horors, village scribe, greetings. We have received from you the land survey itemized by type of plant and the itemized list of men for year 1. ... To Petosiris, village scribe of Oxyrhyncha.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

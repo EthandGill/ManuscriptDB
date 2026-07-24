@@ -1,0 +1,36 @@
+[META]
+id:       P.SIJP 38s
+label:    P.SIJP 38s
+name:     Receipt — Theben
+genre:    receipts
+date:     153 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (153 CE)
+# hgv-keywords: Quittung — Steuer (Webersteuer) — Geld
+tm:       110192
+source:   https://papyri.info/ddbdp/p.sijp;;38s
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἰναρῶς καὶ μέτοχοι τελῶναι γερδίων
+r.2    Ποῦσι Πουώριος πρεσβυτέρου
+r.3    Ἑριέως ἔχομεν ὑπὲρ τέλους
+r.4    Φαμενὼθ καὶ Φαρμοῦθι
+r.5    ιϛ ἔτους Ἀντωνίνου
+r.6    Καίσαρος τοῦ κυρίου
+r.7    Παχὼν ιϛ.
+
+[TRANSLATION]
+# HGV-EN: Inaros and partners, tax-farmers of weavers, to Pousis son of Pouoris the elder, grandson of Herieus. We have received for the tax of Phamenoth and Pharmouthi for the 16th year of Antoninus Caesar the lord, Pachon 16.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

@@ -1,0 +1,40 @@
+[META]
+id:       ZPE 205.199_2
+label:    ZPE 205.199_2
+name:     Documentary papyrus — Fundort: Aigai
+genre:    documents
+date:     309 BCE
+language: Greek (Koiné)
+found:    Fundort: Aigai
+held:     Vergina
+shelf:    
+content:  Documentary papyrus from Fundort: Aigai (309 BCE)
+# hgv-keywords: Liste — Kleidung — Holzteile
+tm:       749355
+source:   https://papyri.info/ddbdp/zpe;205;199_2
+lat:      40.480092
+lon:      22.321872
+
+[GREEK]
+r.1    … δοκίδ[ες] …
+r.2    [πάσσ]αλο[ι] …
+r.3    δο[κὶς] ἄλλη …
+r.4    λόγχ …
+r.5    τύπανα …
+r.6    χιτὼν …
+r.7    παίδων δ …
+r.8    χιτὼν α …
+r.9    ἁ[π]αλὸς χιτ[ών] …
+
+[TRANSLATION]
+# HGV-EN: (number lost) planks pegs another plank lance (word damaged) drums a tunic (word damaged) boys’ (word damaged) a tunic (word damaged) (word damaged) a soft tunic
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

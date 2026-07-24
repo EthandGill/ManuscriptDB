@@ -1,0 +1,30 @@
+[META]
+id:       O.BERENIKE 3.318
+label:    O.BERENIKE 3.318
+name:     Receipt — Berenike
+genre:    receipts
+date:     51 CE – 100 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     
+shelf:    
+content:  Receipt from Berenike (51 CE – 100 CE)
+# hgv-keywords: Quittung — Wasser — Dekania — Erwähnung der Göttin Berenike
+tm:       641806
+source:   https://papyri.info/ddbdp/o.berenike;3;318
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    δεκανίας Πετεῆσις …
+r.2    εις Ψενθεφως …
+r.3    Βερενίκας θεᾶς …
+r.4    ὕδατος γλυκέο[ς] …
+r.5    κεράμια ιγ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

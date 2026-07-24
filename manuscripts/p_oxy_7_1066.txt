@@ -1,0 +1,56 @@
+[META]
+id:       P.Oxy. 7.1066
+label:    P.Oxy. 7.1066
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (201 CE – 300 CE)
+# hgv-keywords: Brief (privat) — Nemesianos an Sarapammon — Austausch verschiedener Waren — vor allem Bitte um die Sendung einer Feile — die Holz und Eisen feilt
+tm:       31313
+source:   https://papyri.info/ddbdp/p.oxy;7;1066
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ν[ε]μ[εσ]ιανὸς [Σα]ρ[α]πάμμωνι
+r.2    ἀδελφῷ πλεῖστα χαίρειν.
+r.3    καλῶς μὲν ἐπ[ο]ίησας ἀποστείλας
+r.4    μοι τὴν ῥίνην, ἀλλὰ ἀπέστειλάς
+r.5    μοι αὐτὴν μᾶλλον λεπτοτέραν. ἰδ[ο]ὺ οὖν ἀπέστειλά σοι αὐτὴν δι Ἀπόλλωνος καὶ τὸ ἐξεμπλάριον ἵνα πρὸς αὐτὸ ποιήσῃς. ἔγραψάς
+r.6    μοι διὰ τῆς [ἐ]πιστολῆς ὅτι ἀπέστειλά
+r.7    σοι λινούδ[ι]ν παιδικόν, καὶ οὐδὲν
+r.8    εἴληφα. ἔλεγέν μοι Ἀπόλλων ὅτι
+r.9    οὐδέν μοι ἔδωσεν. ἔπεμψά σοι τὸ
+r.10   τρισκελίδιν [δ]ιʼ Ἀπόλλωνος, εἴ τινος
+r.11   δὲ χρῄζεις ἀντίγραψόν μοι διὰ
+r.12   τοῦ αὐτοῦ Ἀπόλλωνος ἵνα σοι ἀποστείλω, σπούδασον δὲ γενέσθαι
+r.13   μ[οι ῥί]νην καὶ ἀπόστειλόν μοι αὐτὴν
+r.14   [διʼ Ἀπό]λλωνος, καὶ ἀναζήτησον
+r.15   [ῥίνην οὐ μόνο]ν ῥινίζουσαν τὰ ξύ[λα, ἀλλὰ ἣ τὰ σι]δήρια ῥινίζει ἐξε… α, καὶ ὑποδείκνυ εἴ σοι
+r.16   [ἐρρ]ῶσθαί σε εὔχομαι
+r.17   [πο]λλοῖς χρόνοις.
+
+[TRANSLATION]
+# HGV-EN: Nemesianus to his brother Sarapammon, many greetings. You did well to send me the file, but you sent me one which is too fine. So I send it to you by Apollon with the pattern in order that you may go by that. You write to me in the letter “I send you a boy’s linen cloth”, and I have received nothing. Apollon told me, “He gave me nothing.” I send you the tripod by Apollon; and if you want anything reply to me by the said Apollon, so that I may send it you, and do your best to get me the file, and send it by Apollon; and look for a file which files not only wood but iron tools ... and indicate ... I pray for your lasting health.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

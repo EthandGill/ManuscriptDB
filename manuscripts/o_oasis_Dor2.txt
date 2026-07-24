@@ -1,0 +1,30 @@
+[META]
+id:       O.OASIS Dor2
+label:    O.OASIS Dor2
+name:     Receipt — Oasis Parva
+genre:    receipts
+date:     410 CE
+language: Greek (Koiné)
+found:    Oasis Parva
+held:     
+shelf:    
+content:  Receipt from Oasis Parva (410 CE)
+# hgv-keywords: Quittung — Öl
+tm:       23826
+source:   https://papyri.info/ddbdp/o.oasis;;Dor2
+lat:      28.373334
+lon:      28.8971005
+
+[GREEK]
+r.1    ἔτους πζ Χοίακ κ Ἀβραμίωι
+r.2    ἀνάλωμα ἐλαίου δ τέσσερες δημόσιον ἐλαίον
+r.3    Κυρ Ἡράκλιος ἐπιμελητῇ χαίρειν.
+r.4    θ ἰνδικτίονος Χοίαχ
+r.5    παρὰ Δωροθέου Μα[ρί]νου γεωργοῦ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

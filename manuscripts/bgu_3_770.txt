@@ -1,0 +1,30 @@
+[META]
+id:       BGU 3.770
+label:    BGU 3.770
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     167 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (167 CE)
+# hgv-keywords: Quittung — Steuern — Kamele
+tm:       9340
+source:   https://papyri.info/ddbdp/bgu;3;770
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἔτους ζ [Ἀντωνίνου καὶ] Οὐήρου τῶν κυρίω[ν Σεβαστῶν]
+r.2    Ἀρμενι[ακῶν Μ]ηδικῶν Παρθικῶν Μ[ε]γίστ[ων]
+r.3    Μεσορὴ ἐπαγ[ομένων][ ε] ἀριθμήσεως Πα[χὼ]ν Παῦνι [διέγραψε Μύσ]θης Στοτοήτεως τελε[σμάτων] καμήλων Σοκνοπαίου Ν[ήσου][ ζ ἔτους]
+r.4    δραχμὰς εἴκοσι γίνονται δραχμαὶ κ προσδιαγραφόμενα α ὀβολὸς ἡμιωβέλιον συμβολικοῦ ὀβολὸς ἡμιωβέλιον
+
+[TRANSLATION]
+# HGV-EN: Year 7 of [Antoninus and] Verus, the lords [Augusti] Armenia[ci][ M]edici Pa[r]thici Maximi, Mesore, intercalary day [5]. For the reckoning of Pa[cho]n (and) Payni. [Mys]thes, son of Stotoetis, [paid] for the tax on camels of Soknopaiou N[esos of year 7] twenty drachmas, = 20 drachmas, for extra charges 1 (drachma) 1 1/2 obols, for the receipt charge 1 1/2 obols.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     Year 7 of [Antoninus and] Verus of the lord[s Augusti]
+2     Armenia[ci] M[e]dici Parthici Maximi
+3     Mesore, intercalary [day] [5]. For the reckoning of Pa[cho]n (and) Payni, [Mys]thes, son of Stotoetis, [paid] for the tax [on] camels of Soknopaiou N[esos of year 7]
+4     drachmas twenty, are drachmas 20, for extra charges 1 obol half-obol, for the receipt obol half-obol

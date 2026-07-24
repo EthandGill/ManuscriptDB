@@ -1,0 +1,28 @@
+[META]
+id:       O.CLAUD 3.474
+label:    O.CLAUD 3.474
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     140 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (140 CE)
+# hgv-keywords: Fragment — Quittung — Empfang — Ration (Getreide)
+tm:       73657
+source:   https://papyri.info/ddbdp/o.claud;3;474
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    [Γορας Βαρ]αθη Ἀδράστῳ [ἀρτο][δότῃ βοηθ]ῷ Μενελάου κ[ιβαριάτου]
+r.2    [χαίρειν. ὁμ]ολογῶ πρ[πκεχρῆσθαι ]
+r.3    [παρὰ σοῦ τὴ]ν ἀρτάβ[ην ] …
+r.4    … Τίτο[υ Αἰλίου ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

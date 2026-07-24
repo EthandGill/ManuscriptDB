@@ -1,0 +1,38 @@
+[META]
+id:       P.PETR.KLEON 52
+label:    P.PETR.KLEON 52
+name:     Letter — Arsinoites
+genre:    letters
+date:     255 BCE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Letter from Arsinoites (255 BCE)
+# hgv-keywords: Brief (geschäftlich) — Nikeratos an Kleon — Gefängnis (baufällig) — Gefangene — Gefahr
+tm:       7644
+source:   https://papyri.info/ddbdp/p.petr.kleon;;52
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [Νικ]ήρατος Κλέωνι χαίρειν. τὸ πρὸς νότον
+r.2    [τ]οῦ ὀχυρώματος τεῖχος, μέρος μέν τι αὐτοῦ
+r.3    πεπτωκός ἐστιν, τὸ δʼ ἐπίλοιπον φέρεται ὥστε κινδυνεύει πεσόντος αὐτοῦ διαφωνῆσαί
+r.4    τι τῶν σωμάτων. καλῶς οὖν ποιήσεις τὴν
+r.5    ἀπέγδοσιν αὐτοῦ ποιησάμενος καὶ δοὺς Διονυσίωι τῶι [ο]ἰκοδ[ό]μωι ὅπως ἐνέργηι εὐθέως γὰρ
+r.6    ἕξομεν ἐξαγαγόντες καὶ πλέονι τόπ[ω]ι ἀποχρήσασθαι πρὸς τοὺς παραδεδομένους νῦν δεσμωτας ὑπʼ Ἀπολλωνίου τοῦ διοικητοῦ. ἔρρωσο. ἔτους λ Ἁθὺρ ιϛ
+r.7    ἔτους λ, Ἁθὺρ ιη.
+r.8    … [τ]ὸ παρὰ Νικηράτου. Κλέωνι
+
+[TRANSLATION]
+# HGV-EN: Nikeratos to Kleon, greetings. Regarding the northern wall of the ochyrôma, a certain part of it has collapsed, and the remaining part is in such a condition so as to pose a risk, if it collapses, that one of the slaves (sômata) will escape. Therefore you will do well to draw up a contract for (the repair of) it, and to give it to Dionysios the house-builder, so that he may carry it out. For straightaway, bringing out (the prisoners/slaves?), we will need to make use of a larger space, because of the desmôtai who have now been handed over by Apollonios the dioikêtês. Farewell. Year 30, Hathyr 16. Year 30, Hathyr 18. [ --- ] from Nikeratos. To Kleon. (J. Bauschatz, Law and Enforcement, pp245–246)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

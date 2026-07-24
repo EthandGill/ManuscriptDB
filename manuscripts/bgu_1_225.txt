@@ -1,0 +1,72 @@
+[META]
+id:       BGU 1.225
+label:    BGU 1.225
+name:     Documentary papyrus — Soknopaiu Nesos (Arsinoites)
+genre:    documents
+date:     161 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Soknopaiu Nesos (Arsinoites) (161 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       8989
+source:   https://papyri.info/ddbdp/bgu;1;225
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    λαογράφοις κώμης Σοκνοπαίου Νήσου
+r.2    παρὰ Ἁτρῆτος Σαταβοῦτος
+r.3    τοῦ Πανεφρέμμεως μητρὸς
+r.4    Σεγάθιος τῶν ἀπὸ κώμης
+r.5    Σ[οκ]νοπαίου Νήσου. ἀπογράφομαι ἐμαυτόν τε καὶ τοὺς ἐμοὺς εἰς τὴν τοῦ διεληλυθότος κγ ἔτους θεοῦ Αἰλίου Ἀντωνίνου
+r.6    κατʼ οἰκίαν ἀπογραφήν. ἐν [ᾗ κα]ταγείνομαι
+r.7    ἐν οἰκίᾳ μητρικῇ ἐν τῇ κώμ[ῃ]·
+r.8    εἰμὶ δὲ ὁ προγεγραμμένος Ἁτρὴς ἐτῶν κε
+r.9    ἄσημος κ[αὶ] τὴν γυναῖκά μου
+r.10   Ἰσάριον ἀπάτορα μητρὸς Τανεφρέμμεως τῆς Πανομιέως
+r.11   ἐτῶν ιγ ἄσημον. ὑπάρχει δὲ αὐτῇ
+r.12   ἐν τῇ κώμῃ οἰκίαι δύο καὶ
+r.13   τέταρτον μέρος μαμμικόν·
+r.14   καὶ Ταπετσῖρις Στοτοήτιος
+r.15   τοῦ Πανεφρέμμεως μητρὸς
+r.16   Ταπετσίρεως ἐτῶν ιβ ἄσημος.
+r.17   ὑπάρχει δὲ τῇ Ταπετσίρι οἰκίαι δύο καὶ αὐλὴ καὶ τέταρτον
+r.18   μέρος οἰκίων δύο παππικὸν
+r.19   καὶ τέταρτον μέρος μαμμικόν.
+r.20   διὸ ἐπιδίδωμι τὴν ἀπογραφήν.
+r.21   ἔτους α Αὐτοκράτορος Καίσαρος
+r.22   Μάρκου Αὐρηλίου Ἀντωνίνου
+r.23   Σεβαστοῦ καὶ Αὐτοκράτορος Καί[σαρος]
+r.24   Λουκίου Αὐρηλίου Οὐήρου
+r.25   Μεσορὴ δ.
+
+[TRANSLATION]
+# HGV-EN: To the laographoi of the village of Soknopaiou Nesos from Hatres, son of Satabous, the son of Panephremmis, mother Segathis, from the village of S[ok]nopaiou Nesos. I register myself and my family for the house-by-house registration of the past 23rd year of the God Aelius Antoninus, in the house, in which I live, which is in the village and is inherited from my mother. And I am the above mentioned Hatres, 25 years old, without a distinguishing mark and (I register) my wife Isarion, father unknown, mother Tanephremmis, daughter of Panomieus, there belong to her in the village two houses and her grandmother’s quarter (inheritance). And (I register) Tapetsiris, daughter of Stotoetis, the son of Panephremmis, mother Tapetsiris, 12 years old, without a distinguishing mark. There belong to Tapetsiris two houses and a courtyard and her grandfather’s quarter of the two houses and here grandmother’s quarter (of the two houses). Therefore I submit this registration. Year 1 of Imperator Caesar Marcus Aurelius Antoninus Augustus and Imperator Cae[sar] Lucius Aurelius Verus Augustus, Mesore 4.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    

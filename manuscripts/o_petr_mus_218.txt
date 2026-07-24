@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 218
+label:    O.PETR.MUS 218
+name:     Receipt — Theben (Notos?)
+genre:    receipts
+date:     216 CE
+language: Greek (Koiné)
+found:    Theben (Notos?)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos?) (216 CE)
+# hgv-keywords: Quittung — Steuer (Landvermessungssteuer, geometria)
+tm:       77802
+source:   https://papyri.info/ddbdp/o.petr.mus;;218
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Θὼθ ι τοῦ κε ἔτους ὀν[όματος]
+r.2    Μάρκου Αὐρηλίου Σαραπ[ίωνος]
+r.3    Ποριεύθου ὑπὲρ γεωμετρίας κδ ἔτους δραχμὰς [ἓξ διώβολον]
+r.4    γίνονται δραχμαὶ ϛ διώβολον Ἀπολ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,60 @@
+[META]
+id:       P.Oxy. 9.1190
+label:    P.Oxy. 9.1190
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     347 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (347 CE)
+# hgv-keywords: Brief (amtlich) — Stratege d. Oxyrhynchites an praepositi Flavius ... und Aurelius Theon — Abkommandierung von Rekruten nach Babylon
+tm:       21577
+source:   https://papyri.info/ddbdp/p.oxy;9;1190
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Φλαούιο[ς ] … [ στρ]ατηγὸς Ὀξυρυγχίτου
+r.2    Φλαουίῳ Π … [ καὶ] Αὐρηλίῳ Θέωνι
+r.3    πραιποσίτοις ε πά[γου ἀδελ]φοῖς χαίρειν.
+r.4    ἡ ἐξουσία τοῦ [κυρίου μου] τοῦ διασημοτάτου
+r.5    δουκὸς Φλαουίο[υ ][Φηλικισ]σίμου προσέταξεν
+r.6    τοὺς τίρωνα[ς ἀποσταλ]ῆναι εἰς τὴν Βαβυλῶνα.
+r.7    σπουδάσατ[ε οὖν, ἀ]δελφοί, τοὺς δημοσίους τῶν εξ … ἐπαγομένους
+r.8    τοὺς αἱροῦν[τας ἑκάστου τί]ρωνας ὡς
+r.9    ἑξῆς δ[ηλοῦται καταστ]ῆσαι ἐπὶ τῆς
+r.10   πόλ[εως καὶ ἑτοιμάσ]ασθαι [τ]ὴν τ[ο]ύτων
+r.11   ἀπο[στολήν, ὅπως μηδὲν ἐμποδὼν] ἔσται.
+r.12   [ἐρ]ρ[ῶσθ]αί σε [εὔ]χομαι,
+r.13   ἄδελφε.
+r.14   ὑπατείας Οὐολκακίο[υ Ῥουφίν]ου τοῦ λαμπροτάτου ἐπάρχ[ο]υ
+r.15   τοῦ ἱεροῦ πραιτωρίου καὶ Φλαουίου Εὐσεβίου τοῦ λαμπροτάτου
+r.16   κόμιτος Παῦνι κη.
+r.17   εἰσὶ δέ·
+r.18   Σαραπίωνος Χαιρήμονος
+r.19   τοὺς δημοσίους μετὰ τῶν τιρώνων …
+
+[TRANSLATION]
+# HGV-EN: Flavius ..., Strategus of the Oxyrhynchite nome, to his brothers Flavius P ... and Aurelius Theon, praepositi of the fifth pagus, greeting. His highness my lord the most honourable dux Flavius ...timus has ordered the recruits to be dispatched to Babylon. Take care therefore, my brothers, that the officials of the ... produce the recruits for which they are severally responsible as hereinafter declared and assemble them at the city and prepare for their dispatch, in order that there may be no hindrance, I pray for your health, brother.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

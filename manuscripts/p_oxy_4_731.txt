@@ -1,0 +1,36 @@
+[META]
+id:       P.Oxy. 4.731
+label:    P.Oxy. 4.731
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     9 CE – 10 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (9 CE – 10 CE)
+# hgv-keywords: Vertrag — Dienst — Feste
+tm:       20431
+source:   https://papyri.info/ddbdp/p.oxy;4;731
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    συμ … η καὶ ο …
+r.2    σιοις [τ]οῦ ἐνάτου καὶ τριακοσ[το]ῦ ἔτο[υ]ς Καίσαρος μέχρι Θωὺθ τοῦ τεσσαρακοστοῦ ἔτους
+r.3    Καίσαρος ἐφʼ ᾧ λειτουργήσω ὑμῖν κατὰ μῆνα ἐνάτῃ καὶ δεκάτῃ καὶ Εἰσίοις ἡμέρας
+r.4    δύο καὶ τοῖς ἄστροις Ἥρας τρεῖς , καὶ ἐφʼ ᾧ ἐάν
+r.5    μου χρείαν ἔχητε παρʼ ἡμέραν δώσετέ μοι ἀργυρίου δραχμὴν μίαν ὀβολοὺς δύο , μισθοῦ τοῦ
+r.6    ἑσταμέ[ν]ου τὸ ἔτος ἀργυρίου δραχμὰς τεσσαράκοντα , ἐφʼ ᾧ [δ]ώσετέ μοι κατʼ ὀψώνιον ἀργυρίου
+r.7    δραχμ[ὰς ][δεκ]ατρεῖς δύο ὀβολούς. ἧς ἡμέρας η … ε ἀργ[ή]σω ἐκτείσω ἀργυρίου δραχμὴν μίαν δύο ὀβ[ολού]ς. ἡ ὁμολογία τῆς παραμονῆς ἥδε κυρία ἔ[στω πανταχῇ ἐπιφερο]μένη. ἔτους λη [Καίσαρος ] …
+
+[TRANSLATION]
+# HGV-EN: ... of the 39th year of Caesar to Thoth of the 40th year of Caesar, on condition that I give you my services on the 9th and 10th of each month and for two days at the festival of Isis and three days at the time of the stars of Hera; and if you require me you shall pay me 1 drachma 2 obols of silver daily, or a fixed yearly salary of 40 drachmae of silver, and a present of 13 drachmae 2 obols of silver; and for every day that I am unemployed I will forfeit 1 drachma 2 obols of silver. This contract of engagement shall be valid as if publicly registered. The 38th year of Caesar...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

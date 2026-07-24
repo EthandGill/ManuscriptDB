@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.306
+label:    O.STRAS 1.306
+name:     Receipt — Apollonopolis (?)
+genre:    receipts
+date:     114 BCE
+language: Greek (Koiné)
+found:    Apollonopolis (?)
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (?) (114 BCE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75898
+source:   https://papyri.info/ddbdp/o.stras;1;306
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [ἔτους γ ][Με]σορὴ κγ μεμέτρηκεν εἰς τὴν
+r.2    [ἐπιγραφὴν τοῦ ][αὐ]τοῦ γ ἔτους … το
+r.3    [Πετεαρσεμθε]ὺς Πεκοίβι … πυροῦ ἀρτάβας
+r.4    [δύο ἥμισυ ιβ] γίνονται πυροῦ ἀρτάβαι β 𐅵 ιβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

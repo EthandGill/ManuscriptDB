@@ -1,0 +1,32 @@
+[META]
+id:       O.THEB 104
+label:    O.THEB 104
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     88 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (Ägypten) (88 CE)
+# hgv-keywords: Quittung — Heu
+tm:       76474
+source:   https://papyri.info/ddbdp/o.theb;;104
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἄρριος Ἄτερ στρατιώτης
+r.2    Ὥρῳ Οὐσερουήρεως χαίρειν.
+r.3    ἔχω παρὰ σοῦ γόμον ἀχύρου
+r.4    ἕνα τοῦ ζ ἔτους Δομιτιανοῦ
+r.5    τοῦ κυρίου. ἐγράφη η ἔτους μηνὸς
+r.6    Δομιτιανοῦ κζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

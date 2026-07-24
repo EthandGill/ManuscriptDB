@@ -1,0 +1,70 @@
+[META]
+id:       P.Oxy. 10.1256
+label:    P.Oxy. 10.1256
+name:     Documentary papyrus — Laura (Kynopolites)
+genre:    documents
+date:     282 CE
+language: Greek (Koiné)
+found:    Laura (Kynopolites)
+held:     
+shelf:    
+content:  Documentary papyrus from Laura (Kynopolites) (282 CE)
+# hgv-keywords: Liste minderjähriger Priester
+tm:       21796
+source:   https://papyri.info/ddbdp/p.oxy;10;1256
+lat:      28.6142546567
+lon:      30.8862097107
+
+[GREEK]
+r.1    … ν … ειασθ … νω …
+r.2    … λος Σαραπίωνος ἀμφοτέροις βιβλιοφύλαξι δημοσίων λόγων [τοῦ]
+r.3    [Κ]υνοπολείτου ἄνω
+r.4    παρὰ Αὐρηλίων Πατερμούθιος Σαπρίω[ν]ος καὶ Καλαΰμιος Πετενούφιος
+r.5    [ἀμ]φοτέρων κωμαρχῶν Λαύρας μετʼ ἄλ[λων].
+r.6    [γρ]αφὴ ἀφηλίκων υἱῶν ἱερέω[ν]
+r.7    τοῦ ἐνεστῶτος ζ ἔτους, ἔστι δέ·
+r.8    — ο — Αὐρήλιος Ἁρυώτη[ς]
+r.9    [ἐ]κ πατρὸς Ἑρμανούβιος Ἁρβέως
+r.10   [ἱ]ερεὺς Ἀνούβιδος καὶ Λητοῦς
+r.11   [καὶ] τῶν συννάων θεῶν μεγίστων
+r.12   [οἷ]ς συνκαθίδρυται ναὸς θεοῦ Σεβαστοῦ
+r.13   [Κα]ίσαρος ἱερῶν πρωτολογίμων
+r.14   τῶν ὄντων ἐν Λαύρᾳ Κυνωνπολείτου,
+r.15   … τρις Θατρῆτος ἱέρεια τῶν
+r.16   [αὐ]τῶν ἱερῶν.
+r.17   ἔτους ζ Αὐτοκράτορος Καίσαρος
+r.18   [Μά]ρκου Αὐρηλίου Πρόβου Γοθικοῦ Μεγίστου
+r.19   [Πε]ρσικοῦ Μεγίστου Γερμανικοῦ Μεγίστου
+r.20   [Εὐ]σεβοῦς Εὐτυχοῦς Σεβαστοῦ Φαμενὼθ κα.
+r.21   [Αὐ]ρήλιοι Πατερμοῦθις καὶ Καλαλαῧμις
+r.22   [κω]μάρχαι Λαύρας ἐπιδεδώκαμεν. Αὐρήλιος
+r.23   [Ἀ]ντώνιος ἔγραψα ὑπὲρ αὐτῶν γράμματα μὴ εἰδότων.
+r.24   … [ Λαύρας] μετʼ ἄλλων.
+
+[TRANSLATION]
+# HGV-EN: To ... and ... son of Sarapion, both keepers of the public records of the upper division of the Cynopolite nome, from Aurelius Patermouthis son of Saprion and Aurelius Kalatimis son of Petenouphis, both comarchs of Laura with other villages. List of priests’ children under age in the present 7th year, as follows :— Aurelius Haruotes son of Hermanubis son of Harbeus, priest of the temples of the first rank of Anubis, Leto, and the associated most great gods, to whom has also been consecrated a shrine of the divine Augustus Caesar, at Laura in the Cynopolite nome; ..tris daughter of Thatres, priestess of the same temples. The 7th year of the Emperor Caesar Marcus Aurelius Probus Gothicus Maximus, Parthicus Maximus, Germanicus Maximus, Pius Felix Augustus, Phamenoth 21. We, Aurelius Patermouthis and Aurelius Kalaiimis, comarchs of Laura, have presented this list. I, Aurelius Antonius, wrote on their behalf, as they were illiterate.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    

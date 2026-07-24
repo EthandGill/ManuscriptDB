@@ -1,0 +1,30 @@
+[META]
+id:       SB 12.10899
+label:    SB 12.10899
+name:     Receipt — Theben
+genre:    receipts
+date:     133 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (133 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       16080
+source:   https://papyri.info/ddbdp/sb;12;10899
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Καμῆτις πράκτωρ ἀργυρικῶν
+r.2    Ἐπωνύχῳ τῷ καὶ Ἀπάθῃ Ἡρακλήους.
+r.3    ἔχω ὑπὲρ χωματικοῦ καὶ βαλανευτικοῦ Χάρακος ιη ἔτους ῥυπαρὰς
+r.4    δραχμὰς ἑπτὰ τετρώβολον ἡμιωβέλιον γίνονται ῥυπαραὶ δραχμαὶ ζ τετρώβολον ἡμιωβέλιον,
+r.5    ἔτους ιη Ἁδριανοῦ τοῦ κυρίου Ἁδριανοῦ η
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,36 @@
+[META]
+id:       P.Oxy. 6.942
+label:    P.Oxy. 6.942
+name:     Letter — Nilopolis
+genre:    letters
+date:     501 CE – 700 CE
+language: Greek (Koiné)
+found:    Nilopolis
+held:     
+shelf:    
+content:  Letter from Nilopolis (501 CE – 700 CE)
+# hgv-keywords: Brief (privat, amtlich?) — der Ordinarius Theodotos an den Exceptor Petronios — Ankunft in Nilopolis und wieder sofortige Abreise auf einen Brief des Petronios hin — Ärger
+tm:       37135
+source:   https://papyri.info/ddbdp/p.oxy;6;942
+lat:      
+lon:      
+
+[GREEK]
+r.1    κατὰ τὴν τρεισκαιδεκάτην κατελάβαμεν τὴν Νειλουπολιτῶν περὶ ὥραν ἕκτην, καὶ μετὰ τὸ
+r.2    ἀπολῦσαι ἡμᾶς τὰ ζῷα γράμματα ἡμῖν ἀπεδόθη τῆς σῆς ἀδελφικῆς λαμπρότητος περὶ ὀγδόην ὥραν
+r.3    καὶ ὁ θεὸς οἶδεν εἴπερ μὴ ἤμεθα ἀπολύσαντες τὰ ζῷα, εἰ δʼ αὐτὰ εἴχαμεν ἐπαναλῦσαι. πρὸ τριῶν οὖν
+r.4    ὡρῶν , ὅτε καὶ δυνάμεθα ἐξελθεῖν τῆς πόλεως, ἐξερχόμεθα ὀφείλοντες σὺν θεῷ παραγενέσθαι.
+r.5    πάνυ δὲ ἡμᾶς ἀήδισεν ἡ ἀδελφική σου λαμπρότης μηδὲν ἡμῖν σημάνασα τῶν παρακολουθησάντων.
+r.6    ἐπίδος τῷ δεσπότῃ τῷ πάντων λαμπροτάτῳ εὐδοκιμωτάτῳ πάντων φιλτάτῳ ἀδελφῷ Πετρωνίῳ ἐξκέπτορι
+r.7    παρὰ Τιμοθέου ὀρδιναρίου Θεοδότου.
+
+[TRANSLATION]
+# HGV-EN: We reached Nilopolis on the 13th about the 6th hour, and after we had released the animals a letter was delivered to us from your brotherly excellency about the 8th hour; and God knows whether we had not released the animals, and whether we had any more to unloose. Accordingly before three hours were passed, as soon as we could leave the city we leave it, being obliged by the help of God to arrive. We were much displeased with your brotherly excellency for not explaining to us any of the consequences. (Addressed) Deliver to the lord my most excellent, most illustrious, and most beloved brother Petronius, exceptor, from Timotheus, ordinarius of Theodotus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

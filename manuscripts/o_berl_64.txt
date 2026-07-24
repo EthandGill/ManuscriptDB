@@ -1,0 +1,26 @@
+[META]
+id:       O.BERL 64
+label:    O.BERL 64
+name:     Receipt — Theben
+genre:    receipts
+date:     173 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (173 CE)
+# hgv-keywords: Quittung — Pachtzins
+tm:       24461
+source:   https://papyri.info/ddbdp/o.berl;;64
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ιγ ἔτους Αὐρηλίου
+r.2    Ἀντωνίνου Καίσαρος τοῦ κυρίου Ἐπὶφ η
+r.3    ὑπὲρ Χάρακος ὀνόματος Μαξίμου Ψενχώνσιος διὰ Πεκῶτος Ψενυγθούμιος πυροῦ ἀρτάβην μίαν, γίνεται πυροῦ ἀρτάβη α. Ἀμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

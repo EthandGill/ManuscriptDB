@@ -1,0 +1,34 @@
+[META]
+id:       BGU 2.479
+label:    BGU 2.479
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     153 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (153 CE)
+# hgv-keywords: Bericht (amtlich) — an die βιβλιοφύλακες — keine neuen Deklarationen (Vieh)
+tm:       9201
+source:   https://papyri.info/ddbdp/bgu;2;479
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … [ ἐ]πι[τηρήσε]ως τῶν ἀπὸ
+r.2    … [ ἕως] α τοῦ Ἁθὺρ
+r.3    [μηνὸς] τοῦ ἐνεστῶτος ιζ ἔτους Ἀντωνίνου Καίσαρος
+r.4    τοῦ κυρίου διὰ τὸ μὴ
+r.5    [ε]ἶναι θρέμματα ἐν
+r.6    κώμῃ.
+
+[TRANSLATION]
+# HGV-EN: [We depose that nothing has accrued from the above mentioned] office from [the xth to the]1st of [the month] of Hathyr of the present year 17 of Antoninus Caesar, the lord, because there were no beasts in the village.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

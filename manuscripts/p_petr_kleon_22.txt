@@ -1,0 +1,32 @@
+[META]
+id:       P.PETR.KLEON 22
+label:    P.PETR.KLEON 22
+name:     Letter — Schreibort: Arsinoites ?; Fundort: Gurob
+genre:    letters
+date:     255 BCE
+language: Greek (Koiné)
+found:    Schreibort: Arsinoites ?; Fundort: Gurob
+held:     Dublin
+shelf:    
+content:  Letter from Schreibort: Arsinoites ?; Fundort: Gurob (255 BCE)
+# hgv-keywords: Brief (geschäftlich) — N.N. an N.N. — Deich
+tm:       7649
+source:   https://papyri.info/ddbdp/p.petr.kleon;;22
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … εν θύραν τῶν ἀπὸ τοῦ Μοντίλα μ …
+r.2    … [πάρεσ]τιν δὲ Δωρίων [ὁ ἠρ]γολαβηκὼς …
+r.3    … σηι ἤδη καὶ ἀνυ … ποιει …
+r.4    … [αρχιτ]έκτονα οὔτε ε … ων … ἠδυνάσθημεν εὑρεῖν
+r.5    … αὐτὸς καθεῖκα τ … . ἔρρωσο. ἔτους λ Μεσορὴ κε.
+
+[TRANSLATION]
+# HGV-EN: [...] sluice gate of those from the Montila (canal) [...] Dorion, who contracted work, is present [... neither] the (vice-)engineer nor [...] We could find [...] I myself have let down [...]. Farewell. Year 30 Mesore 25.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

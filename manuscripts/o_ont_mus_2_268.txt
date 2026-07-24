@@ -1,0 +1,26 @@
+[META]
+id:       O.ONT.MUS 2.268
+label:    O.ONT.MUS 2.268
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     1 CE – 400 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Documentary papyrus from Theben (1 CE – 400 CE)
+# hgv-keywords: Liste — Namen
+tm:       75288
+source:   https://papyri.info/ddbdp/o.ont.mus;2;268
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Χάρακος πθ
+r.2    δεκανὸς Ψενθαήσιος Πικῶτος …
+r.3    Πετοσίριος Φ …
+
+[TRANSLATION]
+1     
+2     
+3     

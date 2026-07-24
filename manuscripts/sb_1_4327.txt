@@ -1,0 +1,28 @@
+[META]
+id:       SB 1.4327
+label:    SB 1.4327
+name:     Receipt — Theben
+genre:    receipts
+date:     100 BCE – 100 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (100 BCE – 100 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       78870
+source:   https://papyri.info/ddbdp/sb;1;4327
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀ[σκ]λᾶς τελώνης γερδιακοῦ
+r.2    Πασήμι Σάχαντος.
+r.3    ἔχω ἀπὸ τέλους μηνὸς Σεβαστοῦ
+r.4    δραχμὰς β α κε ἔτους Σεβαστοῦ Καίσαρος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       BGU 7.1709
+label:    BGU 7.1709
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (101 CE – 200 CE)
+# hgv-keywords: Quittung — Geld
+tm:       27617
+source:   https://papyri.info/ddbdp/bgu;7;1709
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ὁμοίως ἄλλας δραχμὰς
+r.2    δώδεκα γίνονται δραχμαὶ ιβ, Φαρμοῦθι ὁμοίως ἄλλας
+r.3    δραχμὰς ὀκτώ δραχμαὶ η,
+r.4    Παχὼν ὁμοίως
+r.5    ἄλλας δραχμὰς δώδεδα δραχμαὶ ιβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

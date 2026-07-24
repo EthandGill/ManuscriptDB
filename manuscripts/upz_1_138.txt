@@ -1,0 +1,22 @@
+[META]
+id:       UPZ 1.138
+label:    UPZ 1.138
+name:     Documentary papyrus — Memphis
+genre:    documents
+date:     68 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Documentary papyrus from Memphis (68 BCE)
+# hgv-keywords: Vermerk (Registrierung)
+tm:       3530
+source:   https://papyri.info/ddbdp/upz;1;138
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    Θέων. ἀναγέγραπται ἐν τῶι ἐν Μέμφει Ἀνουβιείωι ἔτους ιγ Μεσωρὴ κε.
+
+[TRANSLATION]
+1     

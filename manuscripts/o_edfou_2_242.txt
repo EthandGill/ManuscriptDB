@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 2.242
+label:    O.EDFOU 2.242
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     131 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (131 BCE)
+# hgv-keywords: Quittung
+tm:       74266
+source:   https://papyri.info/ddbdp/o.edfou;2;242
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους λθ Φαρμοῦθι κθ [τέτακται]
+r.2    Φατρῆς Ἀτασαῦτος παρὰ
+r.3    τοῦ τέλους ἀπὸ ἀχύρου τῆς ἐσ[παρ]μένης διὰ ἐμοῦ
+r.4    γ[ῆς εἰς τ]ὸ αὐτὸ ἔτος
+r.5    χαλκοῦ δ γίνονται δ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

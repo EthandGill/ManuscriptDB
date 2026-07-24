@@ -1,0 +1,38 @@
+[META]
+id:       P.RYL 4.602
+label:    P.RYL 4.602
+name:     Contract — Karanis (Arsinoites)
+genre:    contracts
+date:     25 BCE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Karanis (Arsinoites) (25 BCE)
+# hgv-keywords: Vertrag — Darlehen — Geld
+tm:       13021
+source:   https://papyri.info/ddbdp/p.ryl;4;602
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ἔτους ε Κ[αίσαρος Φα]μενὼθ κ. ἐν Καρανίδι Σισηρι …
+r.2    Παρα … ιος δάνειον ἀργυρίου δραχμῶν ὀκτώ , γίνονται ἀργυρίου δραχμαὶ η
+r.3    [δ]ιʼ Ἀφροδίσιου τοῦ καὶ Πνεφερῶτος Χαληασις
+r.4    … υ … ελης Ἀκουσιλέου Πέρσης τῆς [ἐπ]ιγονῆς ἔχω τὸ δάνειον ἀργυρ[ί]ου ἐπ[ισ]ήμου δραχμὰς ὀκτὼ τόκου τοῦ
+r.5    π … [μ]ῆνα πυροῦ ἑκατὸν καὶ ἀποδώσω ἐν [μ]ηνὶ Παχὼν τοῦ ἐνεσ[τῶτος]
+r.6    ε [ἔτου]ς καθότι προγέγραπται. Δωρόθεο[ς]
+r.7    Μ[ενά]νδρου γέγραφα ὑπὲρ αὐτοῦ ἀξιωθ[εὶ]ς [δ]ιὰ [τὸ] φά[σ]κειν αὐτὸν μὴ ἐπίστασθαι γ[ράμματα]
+r.8    [ἔτους] ε Καίσαρος Ἰσοκράτους χειρόγραφον [δανείου]
+
+[TRANSLATION]
+# HGV-EN: ‘5th year of Caesar, Pharmouthi 2. At Karanis, Siseris (?) son of Para …, loan of 8 drachmas of silver, total 8 dr. ‘Through Aphrodisios, also called Pnepheros, son of Chaleas: I … son of Acousileos, Persian of the epigone, have received the loan of 8 drachmas of coined silver at interest of … and I will repay in the month of Pachon of the present 5th year as is previously set down. I, Dorotheus son of Menander have written for him at his request, since he states that he is illiterate. ‘5th year of Caesar, Isocrates’ note of loan.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

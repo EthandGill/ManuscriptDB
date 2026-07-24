@@ -1,0 +1,42 @@
+[META]
+id:       P.RYL 2.192
+label:    P.RYL 2.192
+name:     Receipt — Herakleia (Arsinoites)
+genre:    receipts
+date:     142 CE
+language: Greek (Koiné)
+found:    Herakleia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Herakleia (Arsinoites) (142 CE)
+# hgv-keywords: Quittung (Steuern)
+tm:       12966
+source:   https://papyri.info/ddbdp/p.ryl;2;192
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους πέμπτου Αὐτοκράτορος
+r.2    Καίσαρος Τ[ί]του Αἰλίου Ἁδριανοῦ
+r.3    Ἀντωνίνου Σεβαστοῦ Εὐσεβοῦς
+r.4    Παοῖνι θ. διέγραψε Σωτᾷ καὶ
+r.5    μετόχοις πράκτορσιν ἀρ[γ]υρικῶν κώμης Ἡρακλείας
+r.6    Σοκνοπαίου θεοῦ μεγάλου
+r.7    μεγάλου διὰ Στοτοήτιος Πακύσιος
+r.8    ναυβίου κατοίκων Ἡρακλείας τοῦ αὐτοῦ
+r.9    ε ἔτους χαλκοῦ τάλαντον α χαλκοῦ ω, προσδιαγραφομένων
+r.10   χαλκοῦ χπ, κολλύβου χαλκοῦ ρκε, συμβόλου τριώβολον ἡμιωβέλιον
+
+[TRANSLATION]
+# HGV-EN: ‘The 5th year of the Emperor Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, Pauni 9. Paid to Sotas and associates, collectors of money-taxes for the village of Heraclia (by … priest) of Socnopaeus the great great god through Stotoetis son of Pakusis for the naubion-tax upon catoeci of Heraclia for the said 5th year 1 talent 800 drachmae of copper, for extra payments 680 copper dr., for change 125 copper dr., for the receipt 3½ obols.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

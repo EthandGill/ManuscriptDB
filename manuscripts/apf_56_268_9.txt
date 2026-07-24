@@ -1,0 +1,30 @@
+[META]
+id:       APF 56.268_9
+label:    APF 56.268_9
+name:     Receipt — Theben
+genre:    receipts
+date:     117 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Uppsala
+shelf:    
+content:  Receipt from Theben (117 CE)
+# hgv-keywords: Quittung — Steuer — Geld — Kopfsteuer (laographia)
+tm:       133436
+source:   https://papyri.info/ddbdp/apf;56;268_9
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    Ἀπολλόδωρος πράκτωρ ἀργυρικῶν
+r.2    Φαρ … η Πραξίου. ἔσχον ὑπὲρ
+r.3    χωµατικοῦ καὶ βαλανευτικοῦ Χάρακος ῥυπαρὰς α ἔτους
+r.4    δραχµὰς ἑπτὰ τετρώβολον. ἔτους β Ἁδριανοῦ
+r.5    Καίσαρος τοῦ κυρίου Θὼθ κβ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

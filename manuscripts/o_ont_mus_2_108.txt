@@ -1,0 +1,26 @@
+[META]
+id:       O.ONT.MUS 2.108
+label:    O.ONT.MUS 2.108
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     119 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     Toronto
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (119 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75127
+source:   https://papyri.info/ddbdp/o.ont.mus;2;108
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    Παμώνθης πράκτωρ ἀργυρικῶν Μεμνονείων διὰ Ψενεντήριος γρ[αμματέως]
+r.2    Ἁτρήους Φθομώνθου Ἁτρήους ἔσχον ὑπὲρ λαογραφίας … [ δραχμὰς δ]
+r.3    γίνονται δραχμαὶ δ. ἔτους γ Ἁδριανοῦ τοῦ κυρίου Φαρμοῦθι η
+
+[TRANSLATION]
+1     
+2     
+3     

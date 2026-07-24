@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 1.211
+label:    O.EDFOU 1.211
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (601 CE – 700 CE)
+# hgv-keywords: Quittung
+tm:       74249
+source:   https://papyri.info/ddbdp/o.edfou;1;211
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔλαβον παρʼ Ἰ[σ]ακίου ὑπὲρ τοῦ
+r.2    τετρακεραμίου ιδ ἰνδικτίονος χρυσοῦ κεράτια δύο .
+r.3    Φοιβάμμων στοιχῶ.
+
+[TRANSLATION]
+1     
+2     
+3     

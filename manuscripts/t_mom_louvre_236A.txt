@@ -1,0 +1,24 @@
+[META]
+id:       T.MOM.LOUVRE 236A
+label:    T.MOM.LOUVRE 236A
+name:     Documentary papyrus — Philadelphia (Arsinoites)
+genre:    documents
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Philadelphia (Arsinoites) (101 CE – 300 CE)
+# hgv-keywords: Mumienetikett
+tm:       79523
+source:   https://papyri.info/ddbdp/t.mom.louvre;;236A
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    [ε]ἰς Φιλαδελφίαν
+r.2    Δημητροῦτι τῇ τοῦ Τλάκιαπ Ἀρσινοίτῇ Νεμεσᾶς
+
+[TRANSLATION]
+1     
+2     

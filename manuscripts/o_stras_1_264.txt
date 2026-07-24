@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.264
+label:    O.STRAS 1.264
+name:     Receipt — Theben
+genre:    receipts
+date:     45 CE – 46 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (45 CE – 46 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75860
+source:   https://papyri.info/ddbdp/o.stras;1;264
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πεφοῦσις Ψεν …
+r.2    καὶ μέτοχοι Μαιεύρ[ι]
+r.3    Πετεαρποχράτου χαίρειν. ἔσχον
+r.4    τὸ βαλανικὸν τοῦ ϛ ἔτους [Πα]χὼν …
+r.5    Ζ [σεσημείωμαι.]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

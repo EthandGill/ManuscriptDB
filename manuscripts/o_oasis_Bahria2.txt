@@ -1,0 +1,30 @@
+[META]
+id:       O.OASIS Bahria2
+label:    O.OASIS Bahria2
+name:     Documentary papyrus — Oasis Parva
+genre:    documents
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Oasis Parva
+held:     
+shelf:    
+content:  Documentary papyrus from Oasis Parva (301 CE – 400 CE)
+# hgv-keywords: Anweisung — Zahlung — Geflügel
+tm:       34152
+source:   https://papyri.info/ddbdp/o.oasis;;Bahria2
+lat:      28.373334
+lon:      28.8971005
+
+[GREEK]
+r.1    Ἰσὰκ Παύλῳ γεωργῷ χαίρειν.
+r.2    παράσχουτῷ
+r.3    πραιποσίτῳ ὑπὲρ τρύγης
+r.4    ια ἰνδικτίονος ὄρνεον α
+r.5    Μεσορὴ κγ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

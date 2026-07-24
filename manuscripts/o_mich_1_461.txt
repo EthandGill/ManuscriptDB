@@ -1,0 +1,30 @@
+[META]
+id:       O.MICH 1.461
+label:    O.MICH 1.461
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     298 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (298 CE)
+# hgv-keywords: Quittung
+tm:       42235
+source:   https://papyri.info/ddbdp/o.mich;1;461
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    θησαυροῦ ὁριοδεικτίας Καρανίδος γενήματος ιγ ἔτους
+r.2    καὶ ιβ ἔτους καὶ ε ἔτους ὀνόματος Πτολεμαίου μητρὸς Δημητροῦτος
+r.3    διὰ Σαταβοῦ διὰ Παλήμονος ὄνον ἕνα,
+r.4    γίνεται α.
+r.5    Παῦνι ιβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

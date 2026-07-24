@@ -1,0 +1,34 @@
+[META]
+id:       O.STRAS 1.87
+label:    O.STRAS 1.87
+name:     Receipt — Theben
+genre:    receipts
+date:     68 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (68 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75687
+source:   https://papyri.info/ddbdp/o.stras;1;87
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Σεννεφώτης Ἁροννώφριος
+r.2    ὑπὲρ φοινικῶνος ιδ ἔτους ἀρούρης δ ιϛ δραχμὰς ἓξ ὀβολὸν α 𐅵 γίνονται δραχμαὶ ϛ ὀβολὸς α 𐅵
+r.3    καὶ ὑπὲρ οἴνου τέλους δραχμὴν μίαν ὀβολὸν δραχμὴ α ὀβολὸς ὀνόματος Διοσκουρίδου … τω Ελο. ἔτους ιδ
+r.4    Νέρωνος Κλαυδίου Καίσαρος
+r.5    Σεβαστοῦ Γερμανικοῦ
+r.6    Αὐτοκράτορος μηνὸς Μεχεὶρ λ β.
+r.7    Βάσσος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

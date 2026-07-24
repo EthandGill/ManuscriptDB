@@ -1,0 +1,38 @@
+[META]
+id:       PYLON 4.2_3
+label:    PYLON 4.2_3
+name:     Letter — unbekannt
+genre:    letters
+date:     401 CE – 600 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     Oxford
+shelf:    
+content:  Letter from unbekannt (401 CE – 600 CE)
+# hgv-keywords: Brief — Bischof — Bitte um Vermittlung — Land — Linsen
+tm:       987698
+source:   https://papyri.info/ddbdp/pylon;4;2_3
+lat:      
+lon:      
+
+[GREEK]
+r.1    καθὼς τὸ πρῶτον ἔγραψα τῇ σου δεσποτείᾳ ἕνεκεν τῶν μικρῶν κλήρων καταξιώσῃ
+r.2    ἡ ὑμετέρα ἐνδοξότης, κέλευσον γράψον τῷ πατρί μου τῷ ἐπισκώπῳ ὅπως
+r.3    μεσάσῃ εἰ δύναμαι σωθῆν[αι] … ο … ει ὅπω[ς] δι[αφ]υλάξῃ ἡμᾶς … ε … ολ … ο …
+r.4    καὶ περὶ τῶν φακῶν, ἰδού, Ἰερημίαν ἔπεμψα πρὸς τὴν σὴν δεσποτείαν
+r.5    περὶ τούτου. παρακαλῶ τὴν σὴν δεσποτείαν μὴ ἐάσῃς ἀδικισθῆναι ἡμᾶς δέσποτα
+r.6    δεσπότῃ τῷ ἐμῷ τῷ τὰ πάντα μεγαλοπρε[πεστάτ]ῳ καὶ ἐνδ[ο]ξοτάτῳ
+r.7    κυρίῳ κόμητι Κυριακῷ
+r.8    [ ] … ς ὑμέτερος δοῦλος καὶ ἀδελφός …
+
+[TRANSLATION]
+# HGV-EN: As I first wrote to your masterhood on account of the small allotment(s), may your gloriousness deign to give the order to write to my father the bishop so that he may intervene, if I can be saved … so that he protects us … and about the lentils, look, I have sent Ieremias to your masterhood about this. I ask your masterhood not to allow us to be wronged, master. To my master the most magnificent in all respects and admirable lord count Kyriakos, [N. N.] your servant and brother.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

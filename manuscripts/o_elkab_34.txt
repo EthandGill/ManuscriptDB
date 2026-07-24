@@ -1,0 +1,26 @@
+[META]
+id:       O.ELKAB 34
+label:    O.ELKAB 34
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     68 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (68 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       24476
+source:   https://papyri.info/ddbdp/o.elkab;;34
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    Παβοῦς πρεσβύτερος Ψεμονχήους λαογραφίας ιδ ἔτους δραχμὰς ιϛ. ἔτους ιδ
+r.2    Νέρωνος τοῦ κυρίου
+r.3    Φαμενὼθ κγ.
+
+[TRANSLATION]
+1     
+2     
+3     

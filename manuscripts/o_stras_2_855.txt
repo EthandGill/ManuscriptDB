@@ -1,0 +1,38 @@
+[META]
+id:       O.STRAS 2.855
+label:    O.STRAS 2.855
+name:     Receipt — Theben
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (144 CE)
+# hgv-keywords: Quittung — Steuer (Umlage)
+tm:       128396
+source:   https://papyri.info/ddbdp/o.stras;2;855
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φθουμώνθης καὶ Πετεχεσποχράτης
+r.2    ἀπαιτηταὶ μερισμοῦ …
+r.3    Ψάιτι Σε[ν]φθο[υμών]θου. ἔσχομεν
+r.4    ὑπὲρ μερισμοῦ … κέρματος ὀβολ … ,
+r.5    γίν κέρματος … . ἔτους η Ἀντωνίνου
+r.6    Καίσαρος τοῦ κυρίου
+r.7    μηνὸς Ἁδρια[νοῦ] κη.
+r.8    Πετεχεσποχράτης.
+r.9    Φθουμῖνις.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

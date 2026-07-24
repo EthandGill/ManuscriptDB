@@ -1,0 +1,58 @@
+[META]
+id:       P.FAM.TEBT 16
+label:    P.FAM.TEBT 16
+name:     Contract — Arsinoites
+genre:    contracts
+date:     116 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Contract from Arsinoites (116 CE)
+# hgv-keywords: Vertrag — Darlehen
+tm:       10733
+source:   https://papyri.info/ddbdp/p.fam.tebt;;16
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἀντίγραφον χειρογράφου.
+r.2    Λυσίμαχος Οὐαλερίῳ τῷ καὶ
+r.3    Ἡρακλείδῃ ὁμοπατρίῳ καὶ ὁμομητρίῳ μ[ο]υ ἀδελφῷ χαίρειν. ὁμ[ο]λογῶ κατὰ τοῦτο τὸ χειρόγραφ[ον]
+r.4    ἔχειν π[α]ρά σου ἀφʼ ὧν εὐχρήστησαι
+r.5    παρὰ Ἡρακλείδου τοῦ Πτολεμαίο[υ]
+r.6    ὁμοίως κατὰ χειρόγραφον ἀργυρίου
+r.7    δραχμῶν ἑκατὸν ὀκτώ , ὡς ἐπιβά[λ]λει μοι μόνῳ τῷ Λυσιμάχῳ, ἀργυρ[ίου]
+r.8    δραχμὰς πεντήκοντα τέσσαρα[ς]
+r.9    ἐντόκους, ἃς καὶ ἀποδώσω σοι ἐν
+r.10   μηνὶ Μεσωρὴ το[ῦ ἐ]νε[σ]τῶτ[ος]
+r.11   ἐννεακαιδεκάτ[ο]υ ἔτους
+r.12   Τραιανοῦ Ἀρίστου Καίσαρος τ[ο]ῦ
+r.13   κυρίου ἀνυπερ[θ]έτως, τῆς πράξ[ε]ώς σοι οὔσης τῷ Οὐαλερίῳ ἔκ τʼ
+r.14   ἐμοῦ καὶ ἐκ τῶν ὑπαρχόντων μοι
+r.15   πάντων καθάπερ ἐκ δίκης. ἡ χεὶρ
+r.16   κ[υ]ρία. ἔτους ἐν[ν]εακαιδεκάτου
+r.17   Τραιανοῦ Ἀρίστου Καίσαρος τοῦ
+r.18   κυρίου Μεσωρὴ νουμηνίᾳ.
+
+[TRANSLATION]
+# HGV-EN: Copy of bond. I, Lysimachos, to my brother from the same father and the same mother, Valerius also called Herakleides, greeting. I acknowledge through this note of hand that I have received from you, from the 108 silver drachmae which you borrowed from Herakleides, son of Ptolemaios, likewise by note of hand, the share which falls to me, Lysimachos, alone, viz. 54 silver drachmae bearing interest, which I shall pay back to you in the month Mesore of the present 19th year of Trajanus Optimus Caesar the lord without delay, you, Valerius, having the right of execution on myself and all my property as if in accordance with a legal decision. The bond is valid. (Date).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

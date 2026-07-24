@@ -1,0 +1,28 @@
+[META]
+id:       O.OASIS Sarm1
+label:    O.OASIS Sarm1
+name:     Receipt — Oasis Parva
+genre:    receipts
+date:     404 CE
+language: Greek (Koiné)
+found:    Oasis Parva
+held:     
+shelf:    
+content:  Receipt from Oasis Parva (404 CE)
+# hgv-keywords: Quittung — Naturalien
+tm:       23810
+source:   https://papyri.info/ddbdp/o.oasis;;Sarm1
+lat:      28.373334
+lon:      28.8971005
+
+[GREEK]
+r.1    Σαρμάτῃ ἰδίῳ γεούχῳ Ἰσὰκ
+r.2    Φιλήας γεωργὸς χαίρειν. ἀπέσχον παρὰ σοῦ γάλ α διὰ
+r.3    Ὥρου [ἐπι]μελητοῦ καὶ ᾠὰ ϛ ἕξ.
+r.4    ἔτους π Τῦβι ιϛ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

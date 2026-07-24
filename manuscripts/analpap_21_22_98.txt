@@ -1,0 +1,26 @@
+[META]
+id:       ANALPAP 21_22.98
+label:    ANALPAP 21_22.98
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     486 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Florence
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (486 CE)
+# hgv-keywords: Anweisung — Lieferung — Fleisch
+tm:       642466
+source:   https://papyri.info/ddbdp/analpap;21_22;98
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [Κυ]ρία λαμποτάτη
+r.2    [παρ]άσχου εἰς τὴν γεουχικὴν ὑπηρεσίαν κρέως λίτρας ἕνδεκα γίνονται κρέως λίτραι ια μόναι
+r.3    ἔτους ρ[ξγ] ρλβ Φαῶφι ζ ι ἰνδικτίωνος γίνονται κρέως λίτραι ἕνδεκ[α] πρὸς Ἰάννον
+
+[TRANSLATION]
+1     
+2     
+3     

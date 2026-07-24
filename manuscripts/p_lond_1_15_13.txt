@@ -1,0 +1,32 @@
+[META]
+id:       P.LOND 1.15_13
+label:    P.LOND 1.15_13
+name:     Documentary papyrus — Memphis
+genre:    documents
+date:     131 BCE – 130 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Documentary papyrus from Memphis (131 BCE – 130 BCE)
+# hgv-keywords: Adresse — Abrechnung
+tm:       5885
+source:   https://papyri.info/ddbdp/p.lond;1;15_13
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    Ἀντίπατρος ὁ παρὰ Διοσκουρίδου
+r.2    Διογένει τραπέζῃ τῶν Περὶ Θήβας χαίρειν·
+r.3    τάλαντον α η
+r.4    Αψοε
+r.5    τάλαντα ι τε
+r.6    τάλαντ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

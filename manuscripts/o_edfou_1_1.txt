@@ -1,0 +1,32 @@
+[META]
+id:       O.EDFOU 1.1
+label:    O.EDFOU 1.1
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     135 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (135 BCE)
+# hgv-keywords: Quittung — Spreu
+tm:       46439
+source:   https://papyri.info/ddbdp/o.edfou;1;1
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους λε Φαρμοῦθι ιδ παραδέδωκε
+r.2    Παντβοῦς Ἀραιλοῦτος
+r.3    καὶ οἱ ξένοι τὸ κατʼ αὐτοῖς
+r.4    ἄχυρον τῆς ἐπαντλήτου
+r.5    διʼ αὐτῶν γῆς εἰς τὸ αὐτὸ ἔτος
+r.6    ἀνὰ τὰ δ γίνονται δ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

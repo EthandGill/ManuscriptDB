@@ -1,0 +1,26 @@
+[META]
+id:       O.ONT.MUS 2.232
+label:    O.ONT.MUS 2.232
+name:     Receipt — Theben oder Hermonthis
+genre:    receipts
+date:     104 CE
+language: Greek (Koiné)
+found:    Theben oder Hermonthis
+held:     Toronto
+shelf:    
+content:  Receipt from Theben oder Hermonthis (104 CE)
+# hgv-keywords: Quittung — Naubion
+tm:       43063
+source:   https://papyri.info/ddbdp/o.ont.mus;2;232
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἡρακλείδης χωματεπιμελητὴς Νότου [καὶ Λιβὸς περὶ Θήβας]
+r.2    Ἁρφμόιτι καὶ Χεσφμόιτι Α … [ἀναβεβλήκατε ἐπὶ χώματος]
+r.3    Πατσώντεως ναύβιον α γίνεται α. ἔτους … [Τραιανοῦ τοῦ κυρίου] …
+
+[TRANSLATION]
+1     
+2     
+3     

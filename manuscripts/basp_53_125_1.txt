@@ -1,0 +1,54 @@
+[META]
+id:       BASP 53.125_1
+label:    BASP 53.125_1
+name:     Receipt — Theadelpheia (Arsinoites)
+genre:    receipts
+date:     16 BCE – 15 BCE
+language: Greek (Koiné)
+found:    Theadelpheia (Arsinoites)
+held:     Heidelberg
+shelf:    
+content:  Receipt from Theadelpheia (Arsinoites) (16 BCE – 15 BCE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       703274
+source:   https://papyri.info/ddbdp/basp;53;125_1
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ἔτους ιε Καίσαρος Ἁθὺρ …
+r.2    διαγεγράφηκεν εἰς τὴν σύνταξιν
+r.3    Θεαδελφείας Ἁρτώδης ἀργυρίου δραχμὰς δ
+r.4    διὰ … ε … χ …
+r.5    Χοιὰκ ιε δραχμὰς τέσσαρας
+r.6    Τῦβι ιθ δραχμὰς τέσσαρας, γίνονται δραχμαὶ δ
+r.7    Μεχεὶρ κδ δραχμὰς τέσσαρ[ας], [γίνονται δραχμαὶ δ]
+r.8    Φαμενὼθ κϛ δραχμὰς τέσσαρας, γίνονται δραχμαὶ δ
+r.9    Παχὼν ι Φαρμοῦθι δραχμὰς δ, Παχὼν …
+r.10   διαγεγράφηκεν Ἁρθώτη[ς]
+r.11   εἰς … σύνταξιν δραχμὰς τέσ[σαρας]
+r.12   [γίνονται δραχμαὶ δ,] … Παῦνι ιδ
+r.13   [ δραχμὰς] [τέ]σσαρας, γίνονται δραχμαὶ δ …
+r.14   [Ἐπεὶφ] … δραχμὰς τέσσαρας, γίνονται δραχμαὶ [δ]
+r.15   [Μεσορὴ] … [τ]έ[σ]αρας, γίνονται [δραχμαὶ δ]
+r.16   ηια π δια … α
+
+[TRANSLATION]
+# HGV-EN: In the 15th year of Caesar, on Hathyr ..., he has paid for the syntaxis of Theadelphia: Harthotes 4 silver dr. through N.N., on Choiak 15, four dr., on Tybi 19, four dr. = 4 dr., on Mecheir 24, four drachmas = 4 dr., on Phamenoth 26, four dr. = 4 dr., on Pachon 10, (for) Pharmouthi, dr. 4, on Pachon … Harthotes has paid for the syntaxis four dr. = 4 dr., on Pauni 14, four dr. = 4 dr., on Epeiph …, four dr. = 4 dr., on Mesore …, four dr. = 4 dr, … obsure notation
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

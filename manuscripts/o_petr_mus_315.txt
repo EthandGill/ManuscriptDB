@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 315
+label:    O.PETR.MUS 315
+name:     Receipt — Theben
+genre:    receipts
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (1 CE – 200 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       75384
+source:   https://papyri.info/ddbdp/o.petr.mus;;315
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀμμώνιος καὶ μέτ[οχοι ] …
+r.2    τοῦ ε ἔτους … φι Διοσ[κόρου χαίρειν ἀπέχω]
+r.3    παρὰ σοῦ …
+r.4    γίνονται τ ἔτους ς …
+r.5    Καί[σαρος] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

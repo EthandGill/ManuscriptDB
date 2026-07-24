@@ -1,0 +1,32 @@
+[META]
+id:       SB 6.9604_17
+label:    SB 6.9604_17
+name:     Receipt — Elephantine
+genre:    receipts
+date:     127 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (127 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       19124
+source:   https://papyri.info/ddbdp/sb;6;9604_17
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διὰ Σαραπίωνος βοηθοῦ.
+r.2    διέγραψεν Πελαίας Ἑρι …
+r.3    ὑπὲρ λαογραφίας τοῦ ἑνδεκάτου ἔτους
+r.4    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.5    ἐπὶ λόγου δραχμὰς ὀκτώ γίνονται δραχμαὶ η.
+r.6    ἐπαγομένων β.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,22 @@
+[META]
+id:       O.MINOR D16
+label:    O.MINOR D16
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (101 CE – 200 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       75012
+source:   https://papyri.info/ddbdp/o.minor;;D16
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως. …
+
+[TRANSLATION]
+1     

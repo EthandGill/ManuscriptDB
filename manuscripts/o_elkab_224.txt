@@ -1,0 +1,26 @@
+[META]
+id:       O.ELKAB 224
+label:    O.ELKAB 224
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (1 CE – 200 CE)
+# hgv-keywords: Brief oder Quittung
+tm:       26425
+source:   https://papyri.info/ddbdp/o.elkab;;224
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    [Ν]εξαπ[άθης]
+r.2    ἔτους …
+r.3    δ … αρου …
+
+[TRANSLATION]
+1     
+2     
+3     

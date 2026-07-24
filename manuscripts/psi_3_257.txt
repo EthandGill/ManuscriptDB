@@ -1,0 +1,30 @@
+[META]
+id:       PSI 3.257
+label:    PSI 3.257
+name:     Receipt — Pathyris
+genre:    receipts
+date:     102 BCE
+language: Greek (Koiné)
+found:    Pathyris
+held:     
+shelf:    
+content:  Receipt from Pathyris (102 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       78834
+source:   https://papyri.info/ddbdp/psi;3;257
+lat:      25.369659
+lon:      32.473946
+
+[GREEK]
+r.1    ἔτους ιε τοῦ καὶ ιβ Ἐπεὶφ κζ
+r.2    μεμέτρηκεν εἰς τὴν ἐπιγραφὴν τοῦ αὐτοῦ ἔτους
+r.3    Παθύρεως Πατσεοῦς Ἑριέως
+r.4    πυροῦ ἥμισυ δ γίνεται πυροῦ 𐅵 δ
+r.5    Ἀπολλώνιος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

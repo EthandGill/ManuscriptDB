@@ -1,0 +1,30 @@
+[META]
+id:       O.BANKES 11
+label:    O.BANKES 11
+name:     Receipt — Elephantine
+genre:    receipts
+date:     161 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (161 CE)
+# hgv-keywords: Quittung — Steuer (Kopfsteuer, laographia)
+tm:       699484
+source:   https://papyri.info/ddbdp/o.bankes;;11
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    … ὑπὲρ λαογραφίας
+r.2    [κ … ] ἔτους δραχμὰς πέντε ὀβολόν,
+r.3    γίνονται δραχμαὶ ε ὀβολός. ἔτους κδ Ἀντωνίνου
+r.4    Καίσαρος τοῦ κυρίου, Παχὼν
+r.5    η.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

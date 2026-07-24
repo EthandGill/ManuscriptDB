@@ -1,0 +1,30 @@
+[META]
+id:       P.HAMB 2.173
+label:    P.HAMB 2.173
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     241 BCE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (241 BCE)
+# hgv-keywords: Anweisung — Zahlung — Kleinvieh
+tm:       4327
+source:   https://papyri.info/ddbdp/p.hamb;2;173
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Ἀμμώνιος Νικάν[ορι χα]ίρειν. διάγραψον ἐκ τοῦ ἐμοῦ λόγου Ἀπο[λλω]νίωι τῶι παρὰ
+r.2    Ἀντιόχου μόσχων λ[ε]υκῶν δύο τιμὴν χαλκοῦ δραχμὰς πεντακοσίας τεσσαράκοντα .
+r.3    [ἔρρω]σο. ἔτους ϛ Χοιὰχ κ.
+r.4    χρημάτισον χαλκ[οῦ δραχμαὶ φμ].
+
+[TRANSLATION]
+# HGV-EN: Ammonios to Nikanor, greetings. Pay from my account to Apollonios the agent of Antiochos, for the price of two white calves, five hundred forty copper (drachmas). Greetings, Year 6, Khoiak 20. [2nd Hand] Pay 540 copper (drachmas).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     Ammonios to Nikan[or, gree]tings. Pay from my account to Apol[lon]ios the one from.
+2     Antiochos, for the price of two white calves, five hundred forty copper drachmae.
+3     [Fare]well. Year 6, Khoiak 20.
+4     Pay [copper drachmae 540].

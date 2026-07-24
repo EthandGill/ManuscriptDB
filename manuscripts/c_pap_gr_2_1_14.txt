@@ -1,0 +1,36 @@
+[META]
+id:       C.PAP.GR 2.1.14
+label:    C.PAP.GR 2.1.14
+name:     Documentary papyrus — Bakchias (Arsinoites)
+genre:    documents
+date:     75 CE – 85 CE
+language: Greek (Koiné)
+found:    Bakchias (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Bakchias (Arsinoites) (75 CE – 85 CE)
+# hgv-keywords: Anzeige — Tod
+tm:       9243
+source:   https://papyri.info/ddbdp/c.pap.gr;2.1;14
+lat:      29.536946
+lon:      31.0041595
+
+[GREEK]
+r.1    Εὐαγγέλωι βασιλικῶι γρα[μματεῖ]
+r.2    Ἀρσινοίτου Ἡρακλείδου μ[ερίδος]
+r.3    παρὰ Θερμούθιος τῆς Ἁρυώ[του]
+r.4    [με]τὰ κυρίου τοῦ ἀδελφοῦ …
+r.5    … ρου τοῦ Ἁρυώτου τῶν ἀ[πὸ κώμης]
+r.6    Βακχιάδος τῆς αὐτῆς μ[ερίδος].
+r.7    ὁ υἱός μου Θέων Δωρα …
+
+[TRANSLATION]
+# HGV-EN: (The address of the letter BGU II 594 is to be found on the verso: BL VIII 29) To Euangelos, royal scribe of the Arsinoite nome, Herakleides division, from Thermouthis, daughter of Haryo[tes], with her guardian, her brother ros, the son of Haryotes, of those of [the village] of Bakchias in the same [division]. My son Theon, son of Dora
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

@@ -1,0 +1,32 @@
+[META]
+id:       O.FRANGE 123
+label:    O.FRANGE 123
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Lettre — Demande de rencontre — Archives de Frangé
+tm:       141045
+source:   https://papyri.info/ddbdp/o.frange;;123
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [ ⲁⲛⲟ]ⲕ ϥⲣⲁⲛⲅⲉ
+r.2    [ⲉϥⲥϩⲁ]ⲓ ⲙⲡⲉϥⲥⲟⲛ ⲁⲡⲁ
+r.3    [ⲅⲉ]ⲱⲣⲅⲓⲟⲥ ϫⲉ ⲁⲙⲟⲩ
+r.4    [ⲉⲃ]ⲟⲗ ⲉⲧϣⲱⲧⲉ ⲛⲧⲉϩⲣⲉⲃⲏ [ⲛ]ⲁⲓ ϣⲗⲏⲗ
+r.5    ⲉϫⲱⲉⲓ ⲟⲩϫⲁⲓ ϩⲙ
+r.6    ⲡϫⲟⲉⲓⲥ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

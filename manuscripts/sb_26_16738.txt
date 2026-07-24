@@ -1,0 +1,46 @@
+[META]
+id:       SB 26.16738
+label:    SB 26.16738
+name:     Documentary papyrus — Karanis (Arsinoites)
+genre:    documents
+date:     163 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Karanis (Arsinoites) (163 CE)
+# hgv-keywords: Deklaration — Land (unbewässert)
+tm:       8959
+source:   https://papyri.info/ddbdp/sb;26;16738
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    παρὰ Θεανῶτος Πετεσούχου
+r.2    ἀπὸ κώμη[ς] Καρανίδος
+r.3    μετὰ κυρίου Κ[α]μβύκεως
+r.4    Αὐνείους. κα[τὰ] τὰ κελευσθ[έντα]
+r.5    ὑπὸ τοῦ λαμ[προτάτ]ου ἡγεμόνος Ἀννίου Συρ[ι]ακοῦ ἀπογράφομαι
+r.6    τὰς ὑπαρχούσας περὶ κώμην
+r.7    Καρανίδα, διὰ δὲ σωματισμοῦ εἰς Ζωιδοῦν Πετεσούχου
+r.8    κλήρου κ[α]τοικ[ικοῦ] ἀρούρης γιϛ οὖσ[α]ν
+r.9    ἐν ἀβρόχῳ πρ[ὸς τὸ] ἐνεστὸς
+r.10   γ ἔτος Ἀντωνίνου καὶ Οὐήρου τῶν κυρίων
+r.11   Σεβαστῶν. διὸ ἐπιδίδωμι
+r.12   Κ[άμ]βυκις ὁ προγεγραμμένος ὡς ἐτῶν κϛ
+
+[TRANSLATION]
+# HGV-EN: From Theano, daughter of Petesouchos, from the village of Karanis, with her guardian K[a]mbukis, son of Aunes. According to the orders of the Prefect Annius Syr[i]acus, vir clarissimus, I register the 1/3, 1/6 aroura of a katoikic allotment belonging (to me) near the village of Karanis, but registered in the name of Zoidous, daughter of Petesuchos, as being uninundated for the present year 3 of Antoninus and Verus, the lords Augusti. Therefore I submit (this registration). I, K[am]bukis, the aforesaid, about 26 years old.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

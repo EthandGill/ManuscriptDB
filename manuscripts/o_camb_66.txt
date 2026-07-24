@@ -1,0 +1,30 @@
+[META]
+id:       O.CAMB 66
+label:    O.CAMB 66
+name:     Receipt — Theben
+genre:    receipts
+date:     140 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (140 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       73545
+source:   https://papyri.info/ddbdp/o.camb;;66
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [μεμέτρηται εἰς θη]σαυρὸν μητροπόλεως γενήματος γ ἔτους Ἀντωνίνου Καίσαρος
+r.2    [τοῦ κυρίου] Μεσορὴ ιζ ὑπὲρ Ἀγορῶν ὀνόματος Οὐεσ[τνούθιος Ψ]εναµούνιος πυροῦ ἥμισυ γίνεται πυροῦ 𐅵.
+r.3    Γάιος σεσημείωμαι.
+r.4    [ἄλλο ] … γ πυροῦ 𐅵. ἄλλο Παῦνι α πυροῦ 𐅵.
+r.5    … 𐅵 ο …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

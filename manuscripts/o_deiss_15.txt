@@ -1,0 +1,28 @@
+[META]
+id:       O.DEISS 15
+label:    O.DEISS 15
+name:     Receipt — Theben
+genre:    receipts
+date:     98 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (98 BCE)
+# hgv-keywords: Quittung — Spreu
+tm:       73828
+source:   https://papyri.info/ddbdp/o.deiss;;15
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἡρακλείδης Πετεψάιτι χαίρειν.
+r.2    παραδέδωκας τὸ καθῆκον ἀχύρου μώια
+r.3    δεκαπέντε γίνονται μώια ιε.
+r.4    ἔτους ιϛ Ἐπείφ κγ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

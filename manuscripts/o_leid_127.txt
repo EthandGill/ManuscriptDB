@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 127
+label:    O.LEID 127
+name:     Receipt — Theben
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (144 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24696
+source:   https://papyri.info/ddbdp/o.leid;;127
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παμώνθης καὶ μέτοχοι τελῶναι θησαυροῦ
+r.2    ἱερῶν Ἀμενώθῃ Ἁρβήχιος
+r.3    μητρὸς Σενχεσθώτου ἐσχήκαμεν τὸ βαλανευτικὸν
+r.4    τοῦ ζ ἔτους Ἀντωνείνου Καίσαρος
+r.5    τοῦ κυρίου Μεχὶρ δ .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

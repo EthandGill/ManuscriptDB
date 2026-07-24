@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1123
+label:    O.BODL 2.1123
+name:     Receipt — Theben
+genre:    receipts
+date:     16 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (16 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71810
+source:   https://papyri.info/ddbdp/o.bodl;2;1123
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν ἐπὶ τὴν ἐν Διὸς πόλει τῆι
+r.2    μεγάληι δημοσίαν τράπεζαν Φατρῆ[ς] Ὀσορουήριος ὑπὲρ ἰδίου λ[ό]γου
+r.3    β ἔτους ὑπὲρ εἰσκρίσεως παστοφόρων δραχμὰς τέσσαρας γίνονται δραχμαὶ δ [κα]ὶ
+r.4    προσδιαγραφόμενα ὀβολὸν ἡμιωβέλιον γίνεται ὀβολὸς α 𐅵. ἔτους β Τιβερίου Καίσαρος
+r.5    Σεβαστοῦ Ἐπεὶφ λ‡γ. Κέφαλος Ταύρωνος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

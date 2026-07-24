@@ -1,0 +1,32 @@
+[META]
+id:       O.BERL 25
+label:    O.BERL 25
+name:     Receipt — Theben
+genre:    receipts
+date:     55 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (55 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       24417
+source:   https://papyri.info/ddbdp/o.berl;;25
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἑριεὺς Ἰσίωνος Πετεμενῶφις
+r.2    Πετεχῶντος χαίρειν.
+r.3    ἀπέχω τὸ τέλος
+r.4    τοῦ μηνὸς Σεβαστοῦ καὶ Φαῶφι
+r.5    τοῦ β ἔτους Νέρωνος
+r.6    τοῦ κυρίου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

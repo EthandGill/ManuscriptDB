@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 1.26
+label:    O.ONT.MUS 1.26
+name:     Receipt — Theben
+genre:    receipts
+date:     151 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (151 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75046
+source:   https://papyri.info/ddbdp/o.ont.mus;1;26
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ποριεύθης καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    Ἁρυώθης Πε Φθουμένιος
+r.3    ἔσχομεν τιμὴν πυροῦ ἀρτάβης ιβ εἰς λόγον βαλανευτικοῦ
+r.4    τοῦ ιδ ἔτους Ἀντωνίνου Καίσαρος
+r.5    τοῦ κυρίου Παῦνι κθ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

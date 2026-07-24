@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1122
+label:    O.BODL 2.1122
+name:     Receipt — Theben
+genre:    receipts
+date:     249 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (249 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71809
+source:   https://papyri.info/ddbdp/o.bodl;2;1122
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψε Θὼθ ιγ τοῦ ζ ἔτους ὑπὲρ λημμάτων ϛ ἔτους
+r.2    Σύρος ὁ καὶ Φίλων Ἐπικράτους
+r.3    Νότου ὑπὲρ φόρου ἱεροῦ ἀποτάκτου καὶ ἄλλων ϛ ἔτους δραχμὰς
+r.4    δώδεκα γίνονται δραχμαὶ ιβ. Αὐρήλιος Δωρίων σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,28 @@
+[META]
+id:       ZPE 212.214_1
+label:    ZPE 212.214_1
+name:     Receipt — Elephantine
+genre:    receipts
+date:     114 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (114 CE)
+# hgv-keywords: Quittung, Geld
+tm:       832347
+source:   https://papyri.info/ddbdp/zpe;212;214_1
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Βασσίων καὶ Ἀμμώνιος πράκτορες [ἀρχαίας ἐκθέσεως. διέγραψε]
+r.2    Ζμετπῶς Πετεχνούβιος ὑπὲρ [τιμῆς καὶ δαπάνης]
+r.3    ἀνδριάντος τοῦ ἀνατεθέντος ἐν Κ[αισαρίῳ δραχμὰς δύο τετρώβολον]
+r.4    γίνονται δραχμαὶ β τετρώβολον ἔτους ιη Τραιανοῦ Καίσ[αρος τοῦ κυρίου] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

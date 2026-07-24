@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 2.285
+label:    O.EDFOU 2.285
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     88 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (88 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74299
+source:   https://papyri.info/ddbdp/o.edfou;2;285
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [διέγραψεν ὁ δεῖνα τοῦ δεῖνος]
+r.2    [τιμῆς δηναρίων]
+r.3    δύο Ἰουδαίων καὶ ἀπαρχῆς
+r.4    ζ ἔτους Δομιτιανοῦ δραχμὰς θ διώβολον
+r.5    ἔτους ζ Παχὼν κζ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

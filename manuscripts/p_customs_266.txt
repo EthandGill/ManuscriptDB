@@ -1,0 +1,30 @@
+[META]
+id:       P.CUSTOMS 266
+label:    P.CUSTOMS 266
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     177 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (177 CE)
+# hgv-keywords: Quittung — Torzoll — Esel — Weizen — Steuer
+tm:       10623
+source:   https://papyri.info/ddbdp/p.customs;;266
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Φιλαδελφίας λιμένος Μέμφεως
+r.2    Νεῖλος ἐξάγων ἐπὶ ὄνοις τρισὶ
+r.3    σκευοφόροις πυροῦ ἀρτάβας ιβ.
+r.4    ἔτους ιζ Αὐρηλίου Ἀντωνείνου
+r.5    Καίσαρος τοῦ κυρίου Τῦβι ἑνδεκάτῃ, ια.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.849
+label:    O.BODL 2.849
+name:     Receipt — Theben
+genre:    receipts
+date:     132 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (132 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71538
+source:   https://papyri.info/ddbdp/o.bodl;2;849
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἑριοφμόις πράκτωρ ἀργυρικῶν
+r.2    Περμάμει ὁμοίως πρεσβυτέρου μητρὸς Θαυβάσθιος.
+r.3    ἔσχον ὑπὲρ μερισμῶν Χάρακος ιε ἔτους πεντώβολον
+r.4    καὶ ὑπὲρ σκοπέλων διώβολον. ἔτους ιϛ Ἁδριανοῦ
+r.5    τοῦ κυρίου Παχὼν λ‡ζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

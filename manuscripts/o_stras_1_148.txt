@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.148
+label:    O.STRAS 1.148
+name:     Receipt — Theben
+genre:    receipts
+date:     206 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (206 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75749
+source:   https://papyri.info/ddbdp/o.stras;1;148
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ ε τοῦ ιδ ἔτους ὀνόματος Θερμ[ο]ύθιος Ψεν[τ]κα[λ]ίβιος ὑπὲρ λαογραφίας ιδ ἔτους
+r.2    Ἀγ[ο]ρᾶς δραχμὰς ὀκτώ γίνονται δραχμαὶ η. … . ἄλλας Θὼθ β τοῦ
+r.3    ιε ἔτους … ὑπὲρ … δραχμὰς τέσσαρας
+r.4    γίνονται δραχμαὶ δ … .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

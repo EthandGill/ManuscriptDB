@@ -1,0 +1,60 @@
+[META]
+id:       CHREST.WILCK 360
+label:    CHREST.WILCK 360
+name:     Contract — Therenuthis (Prosopites, Ägypten)
+genre:    contracts
+date:     164 CE
+language: Greek (Koiné)
+found:    Therenuthis (Prosopites, Ägypten)
+held:     
+shelf:    
+content:  Contract from Therenuthis (Prosopites, Ägypten) (164 CE)
+# hgv-keywords: Eingabe — Tamystha an N.N. — Streit (Erbe) — Land — Vorwand der Verwandten — βασιλικὴ γῆ — ihr eigenes Plädoyer — kinderlos und alleinstehend
+tm:       20177
+source:   https://papyri.info/ddbdp/chrest.wilck;;360
+lat:      30.4375216745
+lon:      30.7465590913
+
+[GREEK]
+r.1    τῶι κρ[α]τίσ[τ]ωι
+r.2    παρὰ Ταμύσθας Κενθν[ο]ύφ[εως ] …
+r.3    κους ἀπ[ὸ κ]ώμης Θερενο[ύθεως τοῦ Πρ]οσωπείτου νομοῦ. τ[οῦ] πα[τρ]ό[ς μου], κ[ύρ]ιε,
+r.4    τελευτήσαντος καὶ κατ[α]λιπόντ[ο]ς μοι τὸ
+r.5    ἐπιβάλλον αὐτῷ μέρ[ος] οἰκοπέδων καὶ
+r.6    φοινικῶνος ἐν Σκίθι πατρικῶν αὐτοῦ
+r.7    ὄντων, ὁ τούτου ἀδελφὸς Πανετβῆς καὶ
+r.8    Θαῆσις Πατερμούθεως ἀνεψιά μου βιαίως ἀντι[λ]αμβάνονται τ[ο]ῦ πατρικοῦ
+r.9    μου μέρους προφάσει γεωργίας βασιλικῆς
+r.10   γῆς, εἰς ἣν γυνὴ οὖσα οὐκ ὀφείλω καθέλκεσθαι κατὰ τὰ ὑπὸ τῶν ἡγεμόνων καὶ
+r.11   ἐπιτρόπων περὶ τούτου διατεταγμένα,
+r.12   ἐπεὶ καὶ ἄτεκν[ός] εἰμι καὶ οὐδὲ ἐμαυτῆι
+r.13   ἀπαρκεῖν δύναμαι. ἀξιῶ οὖν, κύριε,
+r.14   ἐάν σου τῇ τύχῃ δόξῃ, κελεῦσαι γραφῆναι
+r.15   τῷ τοῦ νομοῦ στρατηγῷ ἐπαναγκάσαι αὐτοὺς τὸ πατρικόν μοι μέρος ἀποκαταστῆσαι, τὴν δὲ γεωργίαν ὑπό τε τοῦ Πανετβήους καὶ τῶν τῆς Θαήσιος τέκνων γίνεσθαι, ἵνʼ ὦ εὐεργετημένη. διευτύχει.
+r.16   Ταμύσθα ἐπιδέδωκα. Διονύσιος ἔγραψ[α] ὑπὲρ αὐτῆς γράμματα μὴ εἰδυίης.
+r.17   ἔτους ε Θὼθ ιγ.
+r.18   [ἔ]ντ[υχε] τῷ στρ[α]τηγῷ, ὃς τὰ ἑαυτῷ προσήκοντα [πο]ιήσ[ει ] …
+r.19   ἀ[πό]δος.
+
+[TRANSLATION]
+# HGV-EN: [To NN], vir egregius [and – – –] from Tamystha, daughter of Kenthn[o]uph[is, the son of – – –]kes, from the village of Thereno[uthis in the Pr]osopite nome. When [my] father died, lord, and left to me the portion falling to him of the buildings and the palm grove in Skithi, which were inherited from his father, his brother Panetbes and Thaesis, daughter of Patermouthis, my cousin, took possession by force of my father’s part on the pretext of the cultivation of royal land, which I as a woman ought not to be forced to undertake according to the ordainments by the prefects and the procuratores concerning this, since I am both childless and am not able to provide even for myself. Therefore I request, lord, if it seems right to your fortune, to order that the strategos of the nome is written to to compel them to give back to me my father’s portion, and that the cultivation is done by Panetbes and the children of Thaesis, so that I may enjoy your beneficence. (m. 2) Farewell. (m. 3).I, Tamystha, have submitted (the petition). I, Dionysios, wrote on her behalf, because she does not know letters. (m. 4) Year 5 //, Thoth 13. (m. 5) Turn to the strategos, who will do what is right. (m. 6) Deliver.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

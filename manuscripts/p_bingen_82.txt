@@ -1,0 +1,30 @@
+[META]
+id:       P.BINGEN 82
+label:    P.BINGEN 82
+name:     Receipt — Elephantine
+genre:    receipts
+date:     128 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (128 CE)
+# hgv-keywords: Quittung — Zahlung — Statue (Kaiser)
+tm:       78050
+source:   https://papyri.info/ddbdp/p.bingen;;82
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Τριάδελφος … θ πράκτωρ. διέγραψεν
+r.2    Βιῆγχις Πετορζμῆθος ὑπὲρ
+r.3    [ἀ]νδριάντος δραχμὰς δύο δραχμαὶ β.
+r.4    [ἔτους] ιγ Ἁδριανοῦ τοῦ κυρίου
+r.5    Φαῶφι κβ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

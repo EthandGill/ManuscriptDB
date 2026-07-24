@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.779
+label:    O.STRAS 1.779
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     11 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (11 BCE)
+# hgv-keywords: Getreide
+tm:       76358
+source:   https://papyri.info/ddbdp/o.stras;1;779
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιθ Καίσαρος Παχὼν θ
+r.2    Νήσου ἱππέων διὰ Ἁρθώτου
+r.3    τοῦ Πετεμενώφιος ἐπίσκεψις Εἰρηναίου βασιλικοῦ [γρ]αμματέως πυρῶι ἄρουρας
+r.4    [εἴκο]σι ὀκτὼ ἥμισυ γίνονται ἄρουραι κη 𐅵.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

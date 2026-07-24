@@ -1,0 +1,26 @@
+[META]
+id:       O.AMST 64
+label:    O.AMST 64
+name:     Receipt — Theben
+genre:    receipts
+date:     210 CE – 211 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (210 CE – 211 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       70411
+source:   https://papyri.info/ddbdp/o.amst;;64
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    παρεκομίσθη εἰς τὴν χώρτην
+r.2    γενήματος ιθ ἔτους ὀνόματος Παναμέως Πετεμενώφιος νεωτέρου Ψενχώνσιος ιζ ἔτους
+r.3    [γ]όμον ἓν, α. Ὧρος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

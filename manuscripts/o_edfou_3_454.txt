@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 3.454
+label:    O.EDFOU 3.454
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     156 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (156 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74430
+source:   https://papyri.info/ddbdp/o.edfou;3;454
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Παχοῦμις νεώτερος Παχούμιος
+r.2    Λέωντος χωματικοῦ καὶ ἄλλων ιη ἔτους Ἀντωνίνου
+r.3    τοῦ κυρίου δραχμὰς ζ διώβολον χαλκοῦς 2 μερισμοῦ δραχμὰς δ πεντώβολον
+r.4    βαλανείου β τετρώβολον ἐφα … ρτ μ … ιθ
+r.5    ἔτους ιθ Φαμενὼθ ιγ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

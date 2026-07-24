@@ -1,0 +1,40 @@
+[META]
+id:       P.PETR.KLEON 3
+label:    P.PETR.KLEON 3
+name:     Letter — Zielort: Arsinoites; Fundort: Gurob; Schreibort: Alexandria
+genre:    letters
+date:     253 BCE – 252 BCE
+language: Greek (Koiné)
+found:    Zielort: Arsinoites; Fundort: Gurob; Schreibort: Alexandria
+held:     Dublin
+shelf:    
+content:  Letter from Zielort: Arsinoites; Fundort: Gurob; Schreibort: Alexandria (253 BCE – 252 BCE)
+# hgv-keywords: Brief (privat) — Metrodora (?) an Kleon (?) — Sorge um die Zukunft nach einem negativen Vorfall
+tm:       7680
+source:   https://papyri.info/ddbdp/p.petr.kleon;;3
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … τατα φέρειν
+r.2    … ρον τοῖς πράγμασιν τοῖς ἐν
+r.3    … η ἐφιλοτίμου με παραγε[νέσθαι] [πρὸς σὲ καὶ] ἦλθον ἂν π[ά]ντα παραλιποῦσα. νυνὶ
+r.4    [δὲ ἐν φόβωι ε]ἰμὶ οὐ μετρίωι, πῶ[ς] … τε σοὶ ἀποβήσε[ται] … [οἱ γ]ὰρ κυνηγοὶ οἱ πρωὶ παραγενόμενοι
+r.5    [τὰ γεγενημέ]να σοι ἐμοὶ ἀνήνγελλον, ὅτι ὁ βασι[λεὺς ἐλθὼν εἰς τὴν Λί]μνην πικρ[ῶ]ς σοι ἐχρήσατο καὶ
+r.6    … και βεβληκέναι οὕτως α… λυποῦμα[ι] … καλέσασα ἐπυνθα[νόμην] … τε ἀκηκ[ο]ιέν[αι] … [νῦ]ν δὲ παραγενόμενος
+r.7    … εσθαι ειο … ς ἀπέβη, ἐφʼ οἷς
+r.8    … ανεσαν ὁ βασιλεὺς αν … ν … νου τευ
+r.9    … ι γῆν λήμψεσθαι τ … υν σαυ[τ] … δεκας εἰς μείζω φόβ[ον] … ν ἀλλὰ, βελ[τι] … ἐκείνων γένοιτ[ο] [ὡς] θέλω καὶ υ… ος μοι ὡς [τ]άχιστα ἐκεῖ
+
+[TRANSLATION]
+# HGV-EN: [...] about the things in [...] you have been urging me [to come to you], and I would have come, leaving all behind, but now I am immensely [frightened] about how things will end up for you [...]. For the hunters who have arrived this morning have told me what [has happened] to you, that the king [came to the] Lake and treated you harshly [...]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

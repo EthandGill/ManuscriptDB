@@ -1,0 +1,32 @@
+[META]
+id:       O.CAIR 59
+label:    O.CAIR 59
+name:     Receipt — Theben
+genre:    receipts
+date:     123 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (123 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       73405
+source:   https://papyri.info/ddbdp/o.cair;;59
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φ[α]ῆρις πράκτωρ ἀργυρικῶν Πετεμενώφει Ψενθ
+r.2    καὶ μετόχοις ἐπιτρόποις ὀρφανῶν Ἀπολλω Ψενθ.
+r.3    ἔσχον ὑπὲρ ἐνοικίου διοικήσεως Χάρακος ζ ἔτους ῥυπαρὰς δραχμὰς εἴκοσι
+r.4    τέσσαρες, γίνονται ῥυπαραὶ δραχμαὶ κδ ἔτους ζ Ἁδριανοῦ
+r.5    Καίσαρος Σεβαστοῦ Ἐπεὶφ ε.
+r.6    Α.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

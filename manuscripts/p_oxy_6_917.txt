@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 6.917
+label:    P.Oxy. 6.917
+name:     Documentary papyrus — Talao (Oxyrhynchites)
+genre:    documents
+date:     176 CE – 225 CE
+language: Greek (Koiné)
+found:    Talao (Oxyrhynchites)
+held:     
+shelf:    
+content:  Documentary papyrus from Talao (Oxyrhynchites) (176 CE – 225 CE)
+# hgv-keywords: Bericht über Einnahmen (Steuern) — Geld in Talao
+tm:       28334
+source:   https://papyri.info/ddbdp/p.oxy;6;917
+lat:      28.86996
+lon:      30.850006
+
+[GREEK]
+r.1    ἐξ ἐφημερίδος Ἀπίωνος πράκτορος ἀργυρικῶν Ταλαώ.
+r.2    ναυβίου καὶ ϛ καὶ ναύλου φορέτρου τοῦ ἐνεστῶτος δ ἔτους δραχμαὶ κβ ἡμιωβέλιον ,
+r.3    ἐπαρουρίου δραχμαὶ ρθ χαλκοῖ γ, σπονδῆς Διονύσου δραχμαὶ η τετρώβολον χαλκοῦς α,
+r.4    γίνονται δραχμαὶ ρλθ πεντώβολον. δόσις δραχμαὶ ρλθ ὀβολοὶ ϛ,
+r.5    γίνονται δραχμαὶ ἑκατὸν τριάκοντα ἐννέα ὀβολοὶ ϛ.
+r.6    ἔτους δ Παῦνι ε.
+
+[TRANSLATION]
+# HGV-EN: From the day-book of Apion, collector of money-taxes at Talao. For naubion and the tax of 1/6 and freight by water for the present 4th year 22 dr. 1/2 ob., for land-tax 109 dr. 3 chalci, for a libation to Dionysus(?) 8 dr. 4 ob. 1 chal. Total 139 dr. 5 ob. Paid 139 dr. 6 ob. Total one hundred and thirty-nine dr. 6 obols. The 4th year, Pauni 5.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

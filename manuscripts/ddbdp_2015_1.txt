@@ -1,0 +1,38 @@
+[META]
+id:       DDBDP 2015.1
+label:    DDBDP 2015.1
+name:     Letter — unbekannt
+genre:    letters
+date:     551 CE – 641 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Letter from unbekannt (551 CE – 641 CE)
+# hgv-keywords: Brief — Athanasios, der Scholastikos, an N.N.
+tm:       36154
+source:   https://papyri.info/ddbdp/ddbdp;2015;1
+lat:      
+lon:      
+
+[GREEK]
+r.1    τὰ ἀμφισβητηθέντα ἕνεκεν τ …
+r.2    τῇ εἰκάδι τοῦ Χοίακ μη[ν]ὸς εἰς τὴ[ν] …
+r.3    ὑπεροχὴ τὰς δ[ι]αλήψεις καὶ το …
+r.4    κινηθέντας ἐν τῷ κεφαλαίῳ τ …
+r.5    σημᾶναι, πλὴν θεοῦ δεδωκότο[ς] …
+r.6    τῆς μεθοδείας κατὰ Ὑπατίου τοῦ ἐν …
+r.7    ἐκπέμψαι κατὰ τὴν βασιλίδα τῶν π[όλεων] …
+r.8    … Ἀθανάσιος σὺν θεῷ σχολαστικὸς ὑμέτερος
+
+[TRANSLATION]
+# HGV-EN: ⳨ The dispute about . . . on the 20th of the month of Choiak to the . . . . . . . [your] eminence the judgments(?) and . . . set in motion in sum . . . to state; but since God has granted . . . the proper procedure against(?) Hypatios the gloriosissimus(?). . . to send out to the queen of cities (i.e. Constantinople) . . . . [To . . .] † Athanasios, your scholastikos by the grace of God.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

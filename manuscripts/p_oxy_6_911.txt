@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 6.911
+label:    P.Oxy. 6.911
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     233 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (233 CE)
+# hgv-keywords: Vertrag — Miete — Haus — für die eine Partei (Vertrag) — die blind ist — wird vom Strategen ein ὑπογραφεύς bestimmt
+tm:       20374
+source:   https://papyri.info/ddbdp/p.oxy;6;911
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐμίσθωσεν Αὐρήλιος Δημήτριος
+r.2    ὁ καὶ [Ζ]ωίλος ἀρχιερατεύσας ἐξηγητὴς β[ο]υλευτὴς τῆς Ὀξυρυγχειτῶν πόλεως Αὐρηλίῳ Θεογένει Θεογένους
+r.3    τοῦ Θεογένους ἀπὸ τῆς αὐτῆς πόλεω[ς]
+r.4    ἀσθενεῖ τὰς ὄψεις μεθʼ ὑπογραφέως
+r.5    τοῦ συνχωρηθέντος αὐτῷ ἐκ τ[ῶν]
+r.6    ὑπομνημάτων τῆς στρατηγίας
+r.7    Αὐρη[λίο]υ Διονυ[σ]ίου τοῦ καὶ Ἀμμωνίο[υ]
+r.8    ἐπὶ χρ[ό]νον ἔτη δύο ἔτι ἀπὸ α Θὼθ
+r.9    τοῦ ἐνεστῶτος ιγ ἔτους ἀπὸ τῶν ὑπαρχόντων αὐτῷ ἐν τῇ αὐτῇ Ὀξυρύγχω[ν]
+r.10   πόλει [ἐ]πʼ ἀμφόδου Δρόμου Θοήριδος
+r.11   ἥμισυ μέρος οἰκίας καὶ αἰθρίου ὑφʼ ἣν
+r.12   κατάγειον καὶ αὐλῆς καὶ τῶν ταύτης
+r.13   χρηστηρίων [π]άντων κοινῆς π[ρὸς]
+r.14   … ον κατὰ το …
+
+[TRANSLATION]
+# HGV-EN: Aurelius Demetrius also called Zoilus, ex-chief priest, exegetes and councillor of Oxyrhynchus, has leased to Aurelius Theogenes son of Theogenes, of the said city, who has weak sight, and is acting with the subscriber who has been appointed for him in accordance with the memoranda of the office of the strategus, namely Aurelius Dionysius also called Ammonius, for a period of two years from Thoth 1 of the present 13th year, of his property at the said city of Oxyrhynchus in the quarter of the Square of Thoëris, a half share of a house and yard, beneath which is a cellar, and court, and all the appurtenances, being held by me in common with ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

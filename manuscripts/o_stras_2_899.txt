@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 2.899
+label:    O.STRAS 2.899
+name:     Receipt — Theben (Nesoi)
+genre:    receipts
+date:     203 CE
+language: Greek (Koiné)
+found:    Theben (Nesoi)
+held:     
+shelf:    
+content:  Receipt from Theben (Nesoi) (203 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       75233
+source:   https://papyri.info/ddbdp/o.stras;2;899
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μ[έτρημα] [θησαυροῦ ] … [γ]ενήματος ια ἔτους τῶν κυρίων
+r.2    Αὐτοκρατ[όρω]ν Σεουήρου καὶ Ἀντωνίνου
+r.3    Εὐσεβῶν Σεβ[α]στῶν Ἐπεὶφ ι … ὑπὲρ Νήσων ὀνόματος
+r.4    Χαβονχώνσι[ος] Ὥρου Πετεχεσπoχράτου πυροῦ
+r.5    πέντε γίνονται πυροῦ ε. Σερῆνος σεσημείωμαι πυροῦ πέντε πυροῦ ε
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

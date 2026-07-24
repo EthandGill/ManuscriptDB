@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 1.109
+label:    O.BODL 1.109
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     76 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (76 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       43536
+source:   https://papyri.info/ddbdp/o.bodl;1;109
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ϛ Ἁθὺρ κε τέτακται ἀπομοίρας καὶ
+r.2    ἐπαρουρίου ϛ ἔτους Τεικῶς Νεπερπ[ρήους]
+r.3    χαλκοῦ Αιε γίνονται Αιε. Ἡρακλείδης τραπεζίτης Αρλ.
+
+[TRANSLATION]
+1     
+2     
+3     

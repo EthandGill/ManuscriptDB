@@ -1,0 +1,30 @@
+[META]
+id:       O.BANKES 16
+label:    O.BANKES 16
+name:     Receipt — Elephantine
+genre:    receipts
+date:     141 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (141 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, merismos)
+tm:       699489
+source:   https://papyri.info/ddbdp/o.bankes;;16
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    δ ἔτους Ἀντωνίν[ου]
+r.2    Καίσαρος τοῦ κυ[ρίου,]
+r.3    Φαρμοῦθι θ· δ[ιέγραψεν]
+r.4    Πατσεῖβδις Πε[τορζ]μήθου ὑπὲρ με[ρισμ ]
+r.5    β ἔτους δραχμὴν α πεντώβολον χαλκοῦν
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

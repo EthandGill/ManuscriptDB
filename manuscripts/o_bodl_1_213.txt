@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 1.213
+label:    O.BODL 1.213
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     110 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (110 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       70960
+source:   https://papyri.info/ddbdp/o.bodl;1;213
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους η Ἁθὺρ κη μεμέτρηκεν εἰς τὸ ζ ἔτος
+r.2    Ἡράκλειος Ἀπίωνος πυροῦ τριάκοντα
+r.3    τρίτον γίνονται πυροῦ λ γ.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,36 @@
+[META]
+id:       O.ASHM 62
+label:    O.ASHM 62
+name:     Receipt — Theben
+genre:    receipts
+date:     197 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (197 CE)
+# hgv-keywords: Quittung
+tm:       70511
+source:   https://papyri.info/ddbdp/o.ashm;;62
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ε ἔτους
+r.2    Λουκίου Σεπτιμίου
+r.3    Σεουήρου Εὐσεβοῦς Περτίνακος
+r.4    Καίσαρος τοῦ κυρίου
+r.5    Παῦνι κη ὑπὲρ Νήσων
+r.6    ὀνόματος Μάρκου Κλωδίου
+r.7    Ἀλεξάνδρου ὑπὲρ ἀβρόχου
+r.8    πυροῦ πέντε γίνονται πυροῦ ε. Φιλ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

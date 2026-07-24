@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 74.5010
+label:    P.Oxy. 74.5010
+name:     Documentary papyrus — Berky (Oxyrhynchites?) bzw. Oxyrhynchos
+genre:    documents
+date:     201 CE – 400 CE
+language: Greek (Koiné)
+found:    Berky (Oxyrhynchites?) bzw. Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Berky (Oxyrhynchites?) bzw. Oxyrhynchos (201 CE – 400 CE)
+# hgv-keywords: Befehl — Achilleus (vir egregius) an die Komarchen und Demosioi — Überstellung
+tm:       128316
+source:   https://papyri.info/ddbdp/p.oxy;74;5010
+lat:      28.333897
+lon:      30.607999
+
+[GREEK]
+r.1    παρὰ τοῦ κρατίστου Ἀχιλλέως.
+r.2    ἐξαυτῆς ἀναπέμψατε διὰ τοῦ ἀπεσταλμένου στρατιώτου
+r.3    Παφιβ Πρειτέλους σὺν τῷ υἱῷ Ἀμάει καταμένοντας ἐν τῷ
+r.4    Μικρῷ Ταρουθίνου προσελθόντος Αὐρηλίου Πλουτάρχου.
+r.5    σεσημείωμαι.
+r.6    κωμάρχαις καὶ δημοσίοις Βερκυ.
+
+[TRANSLATION]
+# HGV-EN: From Achilles, vir egregius. At once send up, through the soldier despatched, Paphib son of Preiteles with his son Amaeis, both dwelling in the Small Tarouthinou; Aurelius Plutarchus is the plaintiff. (2nd hand) I have signed (it). (1st hand) To the comarchs and the demosioi of Bercy. (M. Cottier)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,28 @@
+[META]
+id:       P.IAND.ZEN 77
+label:    P.IAND.ZEN 77
+name:     Documentary papyrus — Philadelphia (Arsinoites)
+genre:    documents
+date:     275 BCE – 226 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Philadelphia (Arsinoites) (275 BCE – 226 BCE)
+# hgv-keywords: Abrechnung — Geld (?) — unbestimmbar
+tm:       110125
+source:   https://papyri.info/ddbdp/p.iand.zen;;77
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    πρὸς Πάσιν πα …
+r.2    ὠφείλησεν του …
+r.3    ριου …
+
+[TRANSLATION]
+# HGV-EN: To Pasis [...] owed ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

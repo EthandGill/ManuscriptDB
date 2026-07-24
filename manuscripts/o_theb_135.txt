@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB 135
+label:    O.THEB 135
+name:     Documentary papyrus — Theben (Ägypten)
+genre:    documents
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Toronto
+shelf:    
+content:  Documentary papyrus from Theben (Ägypten) (1 CE – 100 CE)
+# hgv-keywords: Anweisung — Lieferung
+tm:       76505
+source:   https://papyri.info/ddbdp/o.theb;;135
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ποίησον τὸν ἀναδιδόντα σοι τὸ ὄστρακον φυτὰ κάρου
+r.2    τοῦ ἐνιαυτοῦ τούτου
+r.3    δι … υ … πραγματικὰς
+r.4    τῆς … μετ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

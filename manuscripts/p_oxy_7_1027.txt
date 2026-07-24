@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 7.1027
+label:    P.Oxy. 7.1027
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (1 CE – 100 CE)
+# hgv-keywords: Eingabe — ein Gläubiger klagt — daß er durch Betrug an der Vollstreckung eines Pfandes (Häuser) gehindert werden soll
+tm:       25665
+source:   https://papyri.info/ddbdp/p.oxy;7;1027
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    διʼ ὑμ[ῶν ] … φ … [ τῶν ὑ]ποχρέ[ω]ν μου Θέωνο[ς καὶ Πεκύσιος Ἀμμωνίου, τοῦ μὲν]
+r.2    Θέων[ο]ς ἡμίσους οἰκ[ίας] μονοστέγου κα[ὶ αὐ]λ[ῆς τοῦ δὲ]
+r.3    Πεκύ[σι]ος ὀγδόου μέρο[υ]ς ἑτέρας οἰκίας καὶ αὐλῶν καὶ αἰθρίου, [ἐ]φʼ αἷς ἄλλαις τὸ π[ε]ρὶ τῆς ἐνεχυρασίας ὑπόμνημα
+r.4    περ[ιεῖχε]ν διαστολαῖς. ἐξ οὗ καὶ ἐξεχομένου μου τῆς
+r.5    τῶ[ν] ἠνεχυρασμένων προσβολῆς προσέπεσέν μοι
+r.6    τὸν τῶν ὑποχρέων πατέρα Ἀμμώνιον Ἀμμωνίου
+r.7    ἐπιδεδω[κέ]ναι ὑμῖν ὑπόμνημα ἀφʼ οὗ ἔδοξεν δυνήσασθαι ἐμποδισθῆναί μου τὴν πρᾶξιν, διʼ οὗ ματαίως
+r.8    ἱστορεῖ περί τε τοῦ ἀγνοεῖν α[ὐ]τὸν τὴν τῶν ἐμοὶ γε[γε]νη[μένων] ἀσφαλειῶν θέσιν καὶ ὅτι ὑπόκειται αὐτῶι
+r.9    … εφ …
+
+[TRANSLATION]
+# HGV-EN: ...of my debtors Theon and Pekusis sons of Ammonius, Theon of the half of a one-storeyed house and court, and Pekusis of an eighth part of another house and courts and yard, with the other conditions contained in the memorandum of transfer. When I therefore pursued my right of entry upon the transferred property, I found that the father of the debtors, Ammonius son of Ammonius, had presented to you a memorandum by means of which he hoped that my execution might be prevented, wherein he vainly relates that he was ignorant of the securities which had been given to me, and that he has had hypothecated to himself...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

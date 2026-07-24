@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.89
+label:    O.STRAS 1.89
+name:     Receipt — Theben
+genre:    receipts
+date:     71 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (71 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75689
+source:   https://papyri.info/ddbdp/o.stras;1;89
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Φατρῆς Ὀσορουήριος ὑπὲρ χωμάτων
+r.2    Ἀγορᾶς βορρᾶ γ ἔτους δραχμὰς ϛ τετρώβολον γίνονται ϛ τετρώβολον … .
+r.3    ἔτους δ Οὐεσπασιανοῦ κυρίου μηνὸς
+r.4    Σεβαστοῦ λ ζ. Ἀπ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,28 @@
+[META]
+id:       P.WISC 2.64
+label:    P.WISC 2.64
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     480 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (480 CE)
+# hgv-keywords: Auftrag — Zahlung — Mantel
+tm:       15900
+source:   https://papyri.info/ddbdp/p.wisc;2;64
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἡ ἁγία ἐκκλησία Πέτρῳ οἰκονόμῳ.
+r.2    παράσχου Σοφίᾳ χήρᾳ ἀφʼ ὧν ἔχεις ἱματίων εἰς καλὴν
+r.3    χρείαν ἱμάτιον ἕν, γίνεται ἱμάτιον α μόνον. ἔρρωσο.
+r.4    ἔτους ρνϛ ρκε Μεχεὶρ α γ ἰνδικτίονος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

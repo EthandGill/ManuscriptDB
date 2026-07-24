@@ -1,0 +1,30 @@
+[META]
+id:       BGU 6.1345
+label:    BGU 6.1345
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     99 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (99 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       4652
+source:   https://papyri.info/ddbdp/bgu;6;1345
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους ιε τέτακται ἐπὶ τὴν ἐν Ἀπόλλωνος πόλει
+r.2    τῇ μεγάλῃ τράπεζαν ἀπομοίρας τοῦ αὐτου ἔτους
+r.3    Ποῆρις Ἁρπαήσιος
+r.4    λίνυφος τρισχιλίας
+r.5    πεντακοσίας γίνονται Γφ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

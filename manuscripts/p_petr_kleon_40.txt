@@ -1,0 +1,42 @@
+[META]
+id:       P.PETR.KLEON 40
+label:    P.PETR.KLEON 40
+name:     Letter — Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+genre:    letters
+date:     240 BCE
+language: Greek (Koiné)
+found:    Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+held:     London
+shelf:    
+content:  Letter from Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob (240 BCE)
+# hgv-keywords: Brief (geschäftlich) — Hermaphilos an Theodoros — Arbeit — Erledigung — Vermeidung unerledigter Arbeit
+tm:       7444
+source:   https://papyri.info/ddbdp/p.petr.kleon;;40
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἑρμάφιλος Θεοδώ[ρ]ωι χαίρειν. ἀ[π]έσταλκά [σοι τὸ ἀν]τίγραφον τοῦ
+r.2    παρὰ Τέωτος ὑπομνήματος. εἴπερ οὖν ἐ[σ]τ[ιν ἐν τ]ῆι διαγραφῆι,
+r.3    συντελεσθήτω τὸ ἔργον ἵνα μὴ ὕστερον ἐπὶ τοῦ ποτισμοῦ πράγμαθ’ ἡμῖν παρέχηι.
+r.4    ἔρρωσο ἔτους ζ Ἐπεὶφ γ
+r.5    [Τέως] … Ταγχοίρεως Ἑρμαφίλωι χαίρειν. ὑπ …
+r.6    … Θεοδώρωι τῶι ἀρχιτέκτον[ι] …
+r.7    ἔτους ζ Ἐπεὶφ γ Ἑρμάφιλος ἀντίγραφον τοῦ παρὰ
+r.8    Τέωτος ὑπομνήματος ὅπως
+r.9    γένηται αὐτοῖς τὸ ἔργον.
+r.10   Θεόδωρωι
+
+[TRANSLATION]
+# HGV-EN: Hermaphilos to Theodoros, greetings. I hereby send you a copy of the memorandum from Teos. If it is in the contract description, the work should be finished, so he will not cause us any trouble later, at the irrigation. Farewell. Year 7, Epeiph 3. [Teos the ...] of Tanchoiris to Hermaphilos, greetings. [...] to Theodoros, the engineer. [...]. Year 7, Epeiph 3. Hermaphilos; copy of the memorandum from Teos, asking that the work be assigned to them. To Theodoros.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

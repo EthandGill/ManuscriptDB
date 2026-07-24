@@ -1,0 +1,28 @@
+[META]
+id:       P.Oxy. 74.4988
+label:    P.Oxy. 74.4988
+name:     Documentary papyrus — Antinoopolis bzw. Oxyrhynchos
+genre:    documents
+date:     146 CE
+language: Greek (Koiné)
+found:    Antinoopolis bzw. Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Antinoopolis bzw. Oxyrhynchos (146 CE)
+# hgv-keywords: Deklaration — Zensus — Fragment — Präfekt (Valerius Proculus) — tomos synkollesimos
+tm:       128293
+source:   https://papyri.info/ddbdp/p.oxy;74;4988
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἀπογράφομαι κατὰ τὰ κελευσθέντα ὑπὸ τοῦ κρατίστου
+r.2    ἡγεμόνος Οὐαλερίου Πρόκλου
+r.3    εἰς τὴν πρὸς τὸ ἐνεστὸς θ ἔτος
+
+[TRANSLATION]
+# HGV-EN: In accordance with the orders of the prefect Valerius Proculus, vir egregius, I register for the (house-by-house registration) for the current 9th year . . . (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

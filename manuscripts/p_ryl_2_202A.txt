@@ -1,0 +1,58 @@
+[META]
+id:       P.RYL 2.202A
+label:    P.RYL 2.202A
+name:     Receipt — Theadelphia (Arsinoites)
+genre:    receipts
+date:     108 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Theadelphia (Arsinoites) (108 CE)
+# hgv-keywords: Quittung (Steuern)
+tm:       12973
+source:   https://papyri.info/ddbdp/p.ryl;2;202A
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ἔτους ιβ Αὐτοκρ[άτορο]ς
+r.2    Καίσαρος Νέ[ρ]ουα Τραιανοῦ
+r.3    Σεβαστοῦ Γερμανικοῦ Δακικοῦ
+r.4    Θὼθ κα Σε[βαστῇ][.] Ἀ[π]ολλώνιος
+r.5    γεγυμνασιαρχηκὼς καὶ οἱ μέτοχοι σιτολόγοι [Θεαδελφίας]
+r.6    καὶ ἄλλων κωμῶν μ[εμετ]ρήμεθα ἀπ[ὸ ][τ]ῶν
+r.7    γενημάτων τοῦ διεληλυθότος ἑ[νδεκά]του ἔτους
+r.8    Φίλιππος Ἀφρ[οδισίου] [κατ]οίκων
+r.9    Θεαδελφίας πυροῦ ὀκτὼ τρίτον ιβ,
+r.10   γίνονται πυροῦ η γ ιβ, καὶ Διόδοτος
+r.11   ὁ καὶ Νίνναρος Ἀνουβίωνος
+r.12   κατοίκων Θεαδελφίας τρεῖς τρίτον ,
+r.13   ἐπιβολῆς ἥμισυ δωδέκατον ,
+r.14   γίνονται πυροῦ γ 𐅵 γ ιβ, καὶ Πτολεμαῖος
+r.15   Φιλίππου διὰ Ἀφροδισίου ἀδελφοῦ
+r.16   κατοίκων Θεαδελφίας δύο ἥμισυ
+r.17   ὄγδοον, γίνονται πυροῦ β 𐅵 η,
+r.18   … β φ …
+
+[TRANSLATION]
+# HGV-EN: ‘The 12th year of the Emperor Caesar NervaTrajanus Augustus Germanicus Dacicus. Thoth 21, dies Augusta. We, Apollonius, ex-gymnasiarch, and the associated sitologi of Theadelphia and other villages have had measured to us from the produce of the past nth year by Philippus son of Aphrodisius for land-tax on catoeci at Theadelphia 8 5/12 (artabae) of wheat, total 85/12 of wheat, and by Diodotus also called Ninnarus, son of Anoubion, for land-tax on catoeci at Theadelphia 3 1/3, for assigned land 7 1/12, total 3 11/12 of wheat, and by Ptolemaeus son of Philippus through Aphrodisius, his brother, for land-tax on catoeci at Theadelphia 2 5/8, total 2 5/8 of wheat.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

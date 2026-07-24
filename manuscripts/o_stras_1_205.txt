@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.205
+label:    O.STRAS 1.205
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     135 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (135 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75802
+source:   https://papyri.info/ddbdp/o.stras;1;205
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Σωτὴρ π[ράκτωρ] …
+r.2    Πετεχεσποχρατ …
+r.3    ἔσχον ὑπὲρ λαογ[ραφίας] …
+r.4    ῥυπαρὰς δραχμὰς δ …
+r.5    ἔτους ιθ Ἁδριανοῦ Κα[ίσαρος τοῦ κυρίου]
+r.6    Φαµενὼθ ιε …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

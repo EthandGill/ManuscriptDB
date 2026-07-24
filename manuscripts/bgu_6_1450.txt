@@ -1,0 +1,30 @@
+[META]
+id:       BGU 6.1450
+label:    BGU 6.1450
+name:     Receipt — Elephantine
+genre:    receipts
+date:     77 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (77 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       4738
+source:   https://papyri.info/ddbdp/bgu;6;1450
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔτους δ Παχὼν
+r.2    μεμέτρηκεν ὑπὲρ τοῦ αὐτοῦ ἔτους
+r.3    Πατῆς καὶ ὁ ἀδελφὸς μυροβαλάνου
+r.4    χοίνικα α γίνεται μυροβαλάνου χοῖνιξ α.
+r.5    Σαραπίων ὁ παρὰ Πραξ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

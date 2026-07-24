@@ -1,0 +1,24 @@
+[META]
+id:       BGU 7.1540
+label:    BGU 7.1540
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     210 BCE – 204 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (210 BCE – 204 BCE)
+# hgv-keywords: Lieferung — Wein — Quittung — Steuern
+tm:       4790
+source:   https://papyri.info/ddbdp/bgu;7;1540
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    δέδωκεν Εὔφρων
+r.2    εἰς τὴν ἕκτην Πτολεμαίωι τῶι δωρεακῶι κεράμια ια.
+
+[TRANSLATION]
+1     
+2     

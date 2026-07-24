@@ -1,0 +1,44 @@
+[META]
+id:       P.RYL 4.654
+label:    P.RYL 4.654
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     302 CE – 309 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (302 CE – 309 CE)
+# hgv-keywords: Protokoll — Prozeß vor dem Iuridicus Aegypti — Weberlehrling wird von Baumeistern von seinem Handwerk abgezogen
+tm:       17320
+source:   https://papyri.info/ddbdp/p.ryl;4;654
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    [λινόυφο]ς τὴν τέχνην ἐστίν, σύνδ[ικον] δὲ εἶναι δεῖ τοῦ τὴν ἐργασίαν πληροῦν[τος· ἔσ]τιν γὰρ αὐτῷ συνεργὸς Παῦλο[ς] οὗτος μαθητὴς μὲν τυγχάνων, εἰς
+r.2    [ἄσκησι]ν δὲ τῆς τέχνης ἀφικόμενος. οὗτοι δὴ καθʼ ἑαυτοὺς ὡς οὐκ ὀλίγα
+r.3    [ταῖς δημ]οσίαις τυγχάνουσι χρείαις χρήσιμοι καὶ σὺ ὁ ἐμὸς δεσπότης συν[οῖδας. τ]ῷ γὰρ ἀναβολικῷ πλεῖστα συντελοῦσι, καὶ ὅσαπερ ἀπὸ τούτων ἀπερ[γάζεσθα]ι δεῖ. ἀλ[λʼ] οἱ οἰκόδομοι δικαιοῦσι τῆς τοσαύτης ἐπειγούσης χρείας
+r.4    [ὡς ἀργοὺς] τούτους μόνον συνορᾶν. τὸν γὰρ δὴ βοηθούμενον οἰκ[ό]δομον
+r.5    [ποιῆσ]αι σπουδάζουσι λινόυφον τυγχάνοντʼ ἀπράγμονα τολμοῦντες
+r.6    παρανομώτατον. τῆς μὲν γὰρ τέχνης ἣν μεμάθηκεν ἀποσπῶσι,
+r.7    ἑτέρα[ν] δὲ τὴν τῶν οἰκοδόμων ἐκδιδάξαι βούλονται. ἐπὶ γυναίου τῇ οἰκίᾳ
+r.8    φυλαχθῆναι δεῖ αὐτὸν ἵνα μηδεμίαν ὑπὸ τῶν οἰκοδόμων πάσχοι βίαν. προνοεῖσθαι τούτου τὸν στρατηγὸν καὶ τὸν λογιστὴν ἀξιοῖ.
+r.9    ὁ λογιστὴς καὶ σ[τ]ρατηγὸς προνοήσονται εἰς τὰ ὑπ[ὸ τού]τ[ων κατηγορημένα εἰ τὴν]
+r.10   τέχνην ἐκμεμάθηκεν καὶ ἤδη ἐν ταύτῃ τῇ ἐργασίᾳ ἐστὶν εἰς ἑτέραν μὴ
+r.11   μεταφέρεσθαι τέχνην.
+
+[TRANSLATION]
+# HGV-EN: ‘… of the city of Oxyrhynchus, Apolinarius said: “He is a linen weaver by craft, but is bound to be an advocate for a man fulfilling his trade. For he has with him as fellow worker Paul (present here in court), who is his pupil and has come to him to gain practice in his craft. You too, my master, are well aware that these men, by their own activity, are of no small usefulness to the public services. They contribute much to the anabolicum, and you know all that has to be manufactured by them. But in this pressing need the builders take on themselves to regard these men only as idlers (?). They pass over the builder who benefits from their help, and are bent on doing a great wrong to a man who is a peaceful linen weaver. For they are tearing him away from the craft he has learned, and wish to teach him another, the builder’s craft. He has to be guarded in his wife’s house so that no violence may be done to him by the builders. He requests the strategus and logistes to attend to his case.” ‘Maximianus, vir perfectissimus, iuridicus Aegypti, said: “The strategus and the logistes will take care that in regard to these persons’ charges, if he has learned this craft and is actively engaged in this trade, he is not to be transferred to another.”’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

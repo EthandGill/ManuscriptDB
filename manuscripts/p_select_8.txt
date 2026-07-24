@@ -1,0 +1,42 @@
+[META]
+id:       P.SELECT 8
+label:    P.SELECT 8
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     421 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (421 CE)
+# hgv-keywords: Schreiben — Flavius Theodoros an Flavius Josephos und Flavius Theodoros — Mitteilung über Diebstahl
+tm:       16832
+source:   https://papyri.info/ddbdp/p.select;;8
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    μετὰ τὴν ὑπατείαν τοῦ δεσπό[του ἡμῶν Θεο]δοσίου τοῦ αἰωνίου Αὐγούστου τὸ θ
+r.2    καὶ Φλαουίου Κωσταντίου τοῦ [λαμπροτάτου πατρικίου τὸ γ] Φαρμοῦθι κζ.
+r.3    Φλαουίοις Ἰωσῆφ καὶ Θεοδούλῳ ῥ[ι]π[α]ρ[ίοις] Ὀξ[υ]ρυγχίτου
+r.4    παρὰ Φλαουίου Θεοδώρου Θέωνος ναυάρχου τῆς αὐ[τ]ῆς πόλεως.
+r.5    ἐν τοιούτῳ καιρῷ τῆς εἰρήνης πανταχοῦ πρυτανευομένης
+r.6    διὰ τὸν φόβον τῆς ἐξουσίας τοῦ μεγαλοπρεπεστάτου ἄρχοντος
+r.7    οὐκ οἶδʼ ὅπως κακοῦργ[οί τ]ινες ἐπιστάντες τῷ ἡμετέρ[ῳ]
+r.8    ἄγρῳ ἀφαίρεσιν τοῦ ἐμοῦ χόρτου εἰργάσαντο καὶ …
+r.9    … ε … ἀγροφύλακ[ες] κ[ώμ]ης Ταμ[πετ]ί
+r.10   παρὰ Φλαουίου Θεοδώρου Θέωνος ἀρουρῶν κατὰ
+
+[TRANSLATION]
+# HGV-EN: In the year after the consulate of our lord Theodosius, eternal Augustus, for the ninth time and of Flavius Constantius the most illustrious patricius for the third time on the 24th of Pharmouthi. To the Flavii Joseph and Theodoulos, riparii of the Oxyrhynchite nome from Flavius Theodoros, son of Theon, nauarchus of the same town. I do not understand how it has been possible, while in the present situation peace reigns everywhere – for fear of the power of our most eminent chief magistrate – that some evil-doers have invaded my land and stolen the hay - - - From Flavius Theodoros, son of Theon, arouras ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

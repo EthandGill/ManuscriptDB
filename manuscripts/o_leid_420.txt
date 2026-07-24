@@ -1,0 +1,26 @@
+[META]
+id:       O.LEID 420
+label:    O.LEID 420
+name:     Receipt — Theben
+genre:    receipts
+date:     124 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (124 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       24852
+source:   https://papyri.info/ddbdp/o.leid;;420
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … [με]μέτρηται εἰς θησαυρὸν μητροπόλεως γενήματος η ἔτους
+r.2    … [ Ἁδ]ριανοῦ Καίσαρος τοῦ κυρίου Παῦνι
+r.3    ὑπὲρ Ἀγορῶν πυροῦ τέσσαρες
+
+[TRANSLATION]
+1     
+2     
+3     

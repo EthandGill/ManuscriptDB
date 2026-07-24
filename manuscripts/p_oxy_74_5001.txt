@@ -1,0 +1,32 @@
+[META]
+id:       P.Oxy. 74.5001
+label:    P.Oxy. 74.5001
+name:     Documentary papyrus — Nemera (Oxyrhynchites) bzw. Oxyrhynchos
+genre:    documents
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Nemera (Oxyrhynchites) bzw. Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Nemera (Oxyrhynchites) bzw. Oxyrhynchos (1 CE – 200 CE)
+# hgv-keywords: Befehl — NN an Archephodos — Überstellung
+tm:       128307
+source:   https://papyri.info/ddbdp/p.oxy;74;5001
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    ἀρχεφόδωι Νεμέρων.
+r.2    πέμψον Πλουτίωνα
+r.3    Πλουτίωνος γεωργὸν
+r.4    ἐντυχόντος Ζωίλου.
+r.5    μηνὸς Καισαρείου ι.
+
+[TRANSLATION]
+# HGV-EN: To the archephodos of Nemera. Send Ploution son of Ploution, farmer, at the petition of Zoilus. In the month of Caesarius, (day) 10. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

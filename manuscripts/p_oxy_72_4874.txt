@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 72.4874
+label:    P.Oxy. 72.4874
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     135 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (135 CE)
+# hgv-keywords: Auftrag an die Sitologen von Pakerke (diastolikon) — Giro - Überweisung von Weizen
+tm:       114254
+source:   https://papyri.info/ddbdp/p.oxy;72;4874
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Ἀλέξανδρος Δημητρίου Εὐθηνοδότειος ὁ καὶ Ἀλθαιεὺς διὰ Θέωνος Θέωνος ἀνεψι[οῦ] Ἀπολλοφάνει καὶ Εὐαγγέλῳ σιτολόγοις [ἀπη]λιώτου τοπαρχίας
+r.2    Πακερκη τόπων χαίρ[ε]ιν. διαστείλατε ἀφʼ οὗ ἔχετέ μου ἐν θέματι
+r.3    πυροῦ γενήματος ιθ ἔτους Ἁδριανοῦ τοῦ κυρίου
+r.4    Τρωσίλλει Ἁρμιύσιος Σενεψαυ ἀρτάβας κ,
+r.5    Διονυσίῳ Διονυσίου Σωσικοσμίῳ τῷ καὶ Ἀλθαιεῖ διὰ Ζωίλου Γεμίνο[υ]
+r.6    ἡ αὐτὴ κώμη ἀρτάβας ϛ, γίνονται ἀρτάβαι κϛ. ἔτους ιθ
+r.7    Αὐτοκράτορος Καίσαρος Τραϊ[ανοῦ]
+r.8    Ἁδριανοῦ Σεβαστοῦ, [Μεσορ]ὴ … .
+
+[TRANSLATION]
+# HGV-EN: Alexander son of Demetrius, of the Euthenodotean tribe and the Althaean deme, through Theon son of Theon, (my) cousin, to Apollophanes and Euangelus, sitologi of the eastern toparchy, district of Pacerce, greetings. Transfer, from the amount you hold on deposit for me, from the wheat-crop of the 19th year of Hadrianus the lord, to Trosilla daughter of Harmiusis, (for her account) at Senepsau, 20 artabas, (and) to Dionysius son of Dionysius, of the Sosicosmian tribe and the Althaean deme, through Zoilus son of Geminus, (for his account) at the same village, 6 artabas, total 26 art. Year 19 of Imperator Caesar Traianus Hadrianus Augustus, Mesore n. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

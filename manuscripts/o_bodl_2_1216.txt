@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1216
+label:    O.BODL 2.1216
+name:     Receipt — Theben
+genre:    receipts
+date:     118 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (118 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       71900
+source:   https://papyri.info/ddbdp/o.bodl;2;1216
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀμμώνιος πράκτωρ σιτικῶν μητροπόλεως
+r.2    Καμῆτι Σενύριος. ἔσχον πυροῦ τέταρτον
+r.3    κδ γίνεται πυροῦ ἀρτάβης δ κδ ὃ καὶ προσθήσω εἰς τὸ δημόσιον.
+r.4    ἔτους β Ἁδριανοῦ Καίσαρος
+r.5    τοῦ κυρίου Μεσορὴ ιη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.116
+label:    O.ONT.MUS 2.116
+name:     Receipt — Theben
+genre:    receipts
+date:     127 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (127 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75135
+source:   https://papyri.info/ddbdp/o.ont.mus;2;116
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεχεσποχράτης καὶ μέτοχοι
+r.2    τελῶναι θησαυροῦ ἱερῶν
+r.3    Ψεναμούνει χαίρειν. [ἔσχομεν] βαλανευτικὸν
+r.4    τοῦ ια ἔτους Ἁδριανοῦ
+r.5    [τ]οῦ κυρίου Μεχεὶρ κη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 1.39dupl
+label:    P.Oxy. 1.39dupl
+name:     Documentary papyrus — Alexandria
+genre:    documents
+date:     52 CE
+language: Greek (Koiné)
+found:    Alexandria
+held:     
+shelf:    
+content:  Documentary papyrus from Alexandria (52 CE)
+# hgv-keywords: Entlassung aus dem Militär wegen schlechter Augen
+tm:       20701
+source:   https://papyri.info/ddbdp/p.oxy;1;39dupl
+lat:      31.201435
+lon:      29.909773
+
+[GREEK]
+r.1    ἀντίγραφον ἀπολύσεως
+r.2    ἔτους ιβ Τιβερίου Κλαυδίου
+r.3    Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.4    Αὐτοκράτορος, Φαρμοῦθι κθ, Σεβαστῇ.
+r.5    ἀπελύθη [ὑ]πὸ Γναίου Οὐεργιλίου
+r.6    Καπίτων[ο]ς τοῦ ἡγεμόνος
+r.7    ἀμφοτέρων
+r.8    Τρύφων Διονυσίου γέρδιος,
+r.9    ὑπο[κε]χυμένος ὀλίγον βλέπων,
+r.10   τῶν ἀπʼ Ὀξυρύγχων τῆς μητροπόλεως.
+r.11   ἐπεκρίθη ἐν Ἀλεξανδρείᾳ.
+r.12   ἐπεκρίθη ἐν Ἀλεξανδρείᾳ.
+r.13   ἐπικέκριται
+r.14   ἐν Ἀλεξανδρείᾳ.
+
+[TRANSLATION]
+# HGV-EN: Copy of a release dated and signed in the twelfth year of Tiberius Claudius Caesar Augustus Germanicus Imperator, Pharmouthi 29. Release from service was granted by Gn. Vergilius Capito, praefect of Upper and Lower Egypt, to Tryphon, son of Dionysius, weaver, suffering from cataract and shortness of sight, of the metropolis of Oxyrhynchus. Examination was made in Alexandria.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

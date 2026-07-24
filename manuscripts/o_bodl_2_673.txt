@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.673
+label:    O.BODL 2.673
+name:     Receipt — Theben
+genre:    receipts
+date:     76 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (76 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71363
+source:   https://papyri.info/ddbdp/o.bodl;2;673
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παίων καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    Πασήμει Ἱέρωνος χαίρειν.
+r.3    ἀπέχομεν τὸ βαλανευτικὸν τοῦ η ἔτους
+r.4    Οὐεσπασιανοῦ τοῦ κυρίου
+r.5    Ἐπεὶφ ιζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

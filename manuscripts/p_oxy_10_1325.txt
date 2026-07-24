@@ -1,0 +1,32 @@
+[META]
+id:       P.Oxy. 10.1325
+label:    P.Oxy. 10.1325
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (401 CE – 500 CE)
+# hgv-keywords: Quittung — Wein
+tm:       35580
+source:   https://papyri.info/ddbdp/p.oxy;10;1325
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Μαρτύριος
+r.2    ἔσχον παρὰ
+r.3    Ἀνοὺπ ἀμπελουργοῦ διπλᾶ μγ,
+r.4    καὶ παρὰ Ἰωάννη ἀμπελουργοῦ
+r.5    διπλᾶ ζ,
+r.6    γίνονται ὁμοῦ διπλᾶ ν
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

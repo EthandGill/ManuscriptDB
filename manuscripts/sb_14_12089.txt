@@ -1,0 +1,40 @@
+[META]
+id:       SB 14.12089
+label:    SB 14.12089
+name:     Letter — Herakleopolites
+genre:    letters
+date:     130 BCE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Letter from Herakleopolites (130 BCE)
+# hgv-keywords: Brief (amtlich) — Horenis an Sosibios — gestohlener Weizen ist nach polizeilicher Aktion gefunden und wieder in den königlichen Thesauros geschafft worden; die Diebe sind geflohen
+tm:       4308
+source:   https://papyri.info/ddbdp/sb;14;12089
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    Ὁρ[ῆ]νις Σωσιβίωι χαίρειν. Πετεσούχου τοῦ προεστηκότος τῶν
+r.2    ἐν Θμοιοβάστει φυλακιτῶν παραγενομένου πρὸς ἡμᾶς προεφέρετο γεγενῆσθαί τινας λείας ἐπὶ τῆς βασιλικῆς ἅλω τῆι νυκτὶ τῆι φερούσηι εἰς τὴν ε
+r.3    τοῦ Παχὼν καὶ ᾠχῆσθαι ἔχοντας εἰς πυροῦ ἀρτάβας ιδ καὶ τούτου τὴν ἀναζήτησιν ποιουμένου μετὰ τῶν φυλακιτῶν εὑρεῖν ἀπὸ τοῦ διενεχθέντος πυροῦ ἐν τῆι
+r.4    Πετεσούχου τοῦ Ὥρου οἰκ[ί]αι εἰς πυροῦ μέτρα ὀκτώ , ἃ καὶ προέδωκεν Ἀγαθίδι φυλακίτηι
+r.5    παρόντων καὶ ἡμῶν, ὁμοίως δὲ καὶ ἐν τῆι Καλῆτος ἅλῳ εὑρεῖν εἰς πυροῦ μέτρα ϛ
+r.6    τεθαμνισμένα καὶ κατασφραγισάμενοι μετηνέγκαμεν εἰς τὸν βασιλικὸν θησαυρόν.
+r.7    ἐπεὶ οὖν ὅ τε Πετεσοῦχος καὶ Καλῆς μεταλαβόντες ἀνακεχώρηκαν, ἀναφέρω, ἵνʼ εἰδῆις.
+r.8    ἔρρωσο. ἔτους μ Παχὼν ιε
+r.9    … Σωσιβίωι.
+
+[TRANSLATION]
+# HGV-EN: Horenis to Sosibios, greetings. When Petesouchos, the man in charge of the phylakitai in Thmoiobastis, came to see us it was reported that there had been some thefts at the royal threshing-floor on the night of Pachon 4, and that the thieves had made off with 14 artabas of grain; and (it was reported that) after he had carried out a search with the phylakitai he discovered eight measures of the stolen grain in the house of Petesouchos, son of Horos, which he handed over to Agathis, phylakitês, while we ourselves were present. And similarly (it was reported that) he discovered at the threshing-floor of Kales that 6 measures of grain had been removed from their sacks; and applying a seal, we transferred (the grain) to the royal granary. Since, therefore, both Petesouchos (i.e., Petesouchos, son of Horos) and Kales, having had a hand in this business, have fled, I make this report so that you may know. Farewell. Year 40, Pachon 15. ... To Sosibios. (J. Bauschatz, Law and Enforcement, pp265–266)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

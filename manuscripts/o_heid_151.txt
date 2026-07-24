@@ -1,0 +1,40 @@
+[META]
+id:       O.HEID 151
+label:    O.HEID 151
+name:     Receipt — Ta Memnoneia (Theben) (?)
+genre:    receipts
+date:     44 CE – 45 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben) (?)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (?) (44 CE – 45 CE)
+# hgv-keywords: Quittung — Steuer (Kopfsteuer, Deichsteuer)
+tm:       80374
+source:   https://papyri.info/ddbdp/o.heid;;151
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    διέγραψεν Ψεν …
+r.2    ὑπὲρ λαογραφίας ε ἔτους
+r.3    … δραχμὰς δ. [ἔτους ] …
+r.4    Κλαυδίου Καίσαρος [Σεβαστοῦ]
+r.5    Γερμανικοῦ Αὐτοκρ[άτορος ] …
+r.6    ὑπὲρ χωματικοῦ ε ἔτους
+r.7    δραχμὰς …
+r.8    ὑπὲρ χωματικοῦ ε ἔτους
+r.9    δραχμὰς δ πεντώβολον. …
+
+[TRANSLATION]
+# HGV-EN: Psen[...] recorded ... [...] for the poll-tax Year 5 ... 4 drachmas [year ...] of Claudius Caesar [Augustus] Germanicus Imperator [...] on behalf of the dyke-tax Year 5 drachmas ... on behalf of the dyke-tax Year 5 4 drachmas 5 obols ... [...]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

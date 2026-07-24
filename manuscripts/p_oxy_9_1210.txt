@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 9.1210
+label:    P.Oxy. 9.1210
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     100 BCE – 100 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (100 BCE – 100 CE)
+# hgv-keywords: Registrieren v. Laographiapflichtigen in verschiedenen Nomoi
+tm:       78570
+source:   https://papyri.info/ddbdp/p.oxy;9;1210
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    … τε-
+r.2    λοῦντες λαογραφίαν Ὀξυρυγχίτου ἄνδρες
+r.3    Κυνοπολίτου
+r.4    ἐπιλελεγμένων ὑπὸ τῶν γονέων
+r.5    εἰς γηροβοσκίαν ἀφʼ ὧν ἔχουσι υἱῶν, ἐξ
+r.6    Ὀξυρυγχίτου
+r.7    Κυνοπολίτου
+r.8    γίνονται τούτων ἄνδρες
+r.9    καὶ τῶν διὰ τὸ χρείας τοῖς δημοσίοις παρέχ[ε]σθαι συνήθως ἀπολυομένων
+r.10   βασιλικὸς γραμματεὺς Τεντυρίτου,
+r.11   Κυνοπολίτου α,
+r.12   τοπογραμματεῖς καὶ κωμογραμματεῖς
+r.13   Ὀξυρυγχίτου
+r.14   Κυνοπολίτου
+r.15   [κω]μογρα[μματεῖ]ς Ὀάσεως τῆς πρὸς τῶι
+
+[TRANSLATION]
+# HGV-EN: Men paying poll-tax in the Oxyrhynchite nome ... In the Cynopolite nome ... Men chosen by the parents from their sons to support them in old age, in the Oxyrhynchite nome ... In the Cynopolite nome ... Total of these ... Those usually absolved because of service rendered by them to the state: The basilicogrammateus of the Tentyrite nome, In the Cynopolite nome, ditto I, Topogrammateis and comogrammateis: In the Oxyrhynchite nome ... In the Cynopolite nome ... Comogrammateus of the Oasis by [the Oxyrhynchite nome] ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 112
+label:    O.THEB 112
+name:     Receipt — Theben
+genre:    receipts
+date:     211 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (211 CE)
+# hgv-keywords: Quittung — Heu
+tm:       76482
+source:   https://papyri.info/ddbdp/o.theb;;112
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    παρεκομίσθη εἰς τὴν χώρτην γενήματος
+r.2    ιθ ἔτους ὀνόματος Πεκύσιος Τρεμπαπουήσιος
+r.3    ἀχύρου γόμου ἕκτον κδ γίνεται γόμου ϛ κδ.
+r.4    ἔτους κ Παῦνι ιθ. Πικῶς γραμματεύς.
+r.5    Ὧρος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

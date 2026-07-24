@@ -1,0 +1,30 @@
+[META]
+id:       O.Wilck. 369
+label:    O.Wilck. 369
+name:     Receipt — Theben
+genre:    receipts
+date:     33 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (33 CE)
+# hgv-keywords: Quittung — Geld
+tm:       76889
+source:   https://papyri.info/ddbdp/o.wilck;;369
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Πετεμώνθης Παμώνθου ὑπὲρ
+r.2    φοινικώνων ἱερατικῶν ιθ ἔτους τετρώβολον ἡμιωβέλιον [γίνονται ὀβολοὶ δ 𐅵].
+r.3    ἔτους κ Τιβερίου Καίσαρος
+r.4    Σεβαστοῦ Χοίαχ σεβαστῇ.
+r.5    Πετεμενῶφις Πικῶτος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

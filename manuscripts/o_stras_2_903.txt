@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 2.903
+label:    O.STRAS 2.903
+name:     Receipt — Theben
+genre:    receipts
+date:     151 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (151 CE – 200 CE)
+# hgv-keywords: Quittung für eine private Zahlung (?)
+tm:       128424
+source:   https://papyri.info/ddbdp/o.stras;2;903
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Χαβονχῶ[ν]σις πρεσβύτερος Πετεχεσποχράτου Χαβονχ[ώνσιος]
+r.2    καὶ Ὧρος ἀδελφὸς κ … Νεχθμώνθου
+r.3    … ο ἀδελφ ϛ ὀνόματος … εδ … . ἔσχομεν
+r.4    … Πετεχεσποχράτου πατρὸς
+r.5    … τη … ὁμολογία
+r.6    … χρημ καὶ σφραγι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

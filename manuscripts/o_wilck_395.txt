@@ -1,0 +1,30 @@
+[META]
+id:       O.Wilck. 395
+label:    O.Wilck. 395
+name:     Receipt — Theben
+genre:    receipts
+date:     47 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (47 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76910
+source:   https://papyri.info/ddbdp/o.wilck;;395
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [διέγραψεν Κα]μῆτις Παχράτου ὑπὲρ ὀνηλασίας καὶ ἁμαξῶν
+r.2    [ζ ἔτους] δραχμὰς ἑκατὸν πεντήκοντα γίνονται δραχμαὶ ρν καὶ προσδιαγραφόμενα
+r.3    [ἐξ] ὀβολοῦ α 𐅵. ἔτους ζ Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ
+r.4    Γερμανικοῦ Αὐτοκράτορος Μεσορὴ κβ.
+r.5    Ἐπικράτης Πικῶτος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

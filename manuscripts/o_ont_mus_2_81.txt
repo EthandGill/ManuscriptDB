@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.81
+label:    O.ONT.MUS 2.81
+name:     Receipt — Theben
+genre:    receipts
+date:     43 CE – 44 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (43 CE – 44 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       75098
+source:   https://papyri.info/ddbdp/o.ont.mus;2;81
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … ως Ἀμμωνίο[υ]
+r.2    … Πετεχεσποχράτου χαίρειν. ἔσχ[ον]
+r.3    [παρὰ σο]ῦ τὸ τέλος ἀπὸ μηνὸ[ς]
+r.4    … ἕως Φαρμοῦθι λ
+r.5    … [ ἔτους] δ Τιβερίου Κλαυδίου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

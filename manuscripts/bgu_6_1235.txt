@@ -1,0 +1,30 @@
+[META]
+id:       BGU 6.1235
+label:    BGU 6.1235
+name:     Documentary papyrus — Herakleopolis
+genre:    documents
+date:     75 BCE
+language: Greek (Koiné)
+found:    Herakleopolis
+held:     
+shelf:    
+content:  Documentary papyrus from Herakleopolis (75 BCE)
+# hgv-keywords: Bestätigung — Zahlung — Geld
+tm:       4535
+source:   https://papyri.info/ddbdp/bgu;6;1235
+lat:      29.0855048
+lon:      30.9345750333
+
+[GREEK]
+r.1    Λυσίμαχος λογιστὴς τῆς Ἡρακλέους πόλεως
+r.2    Νίκωννι λογιστῆι Φιλαδελφείας χαίρειν. ἐπέδωκα
+r.3    εἰς ὠνὰς καὶ αρ χ κα μου
+r.4    μετοχ χαλκοῦ ῥυπαροῦ τάλαντα δέκα δύο και … δραχμὰς ρξ
+r.5    γίνονται τάλαντα ιβ δραχμαὶ ρξ ἔτους ϛ Μεσορὴ ια
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

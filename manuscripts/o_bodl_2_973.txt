@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.973
+label:    O.BODL 2.973
+name:     Receipt — Theben
+genre:    receipts
+date:     69 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (69 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71661
+source:   https://papyri.info/ddbdp/o.bodl;2;973
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Ἀπολλώνιος Πετεμενώφιος ὑπὲρ τιμῆς πυροῦ ὁμολόγου ιβ ἔτους
+r.2    τριώβολον γίνονται τριώβολον. ἔτους α Αὐτοκράτορος
+r.3    Μάρκου Ὄθωνος Καίσαρος Σεβαστοῦ
+r.4    Φαμενὼθ λ‡γ. Ἡρακλείδης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

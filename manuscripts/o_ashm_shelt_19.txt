@@ -1,0 +1,28 @@
+[META]
+id:       O.ASHM.SHELT 19
+label:    O.ASHM.SHELT 19
+name:     Receipt — Theben
+genre:    receipts
+date:     161 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (161 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       70571
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;19
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ κβ· τοῦ κδ ἔτους
+r.2    ὀνόματος Πετεχεσποχράτης Ψενανούπιος
+r.3    ὑπὲρ γεωμετρίας κδ ἔτους Ἀγορῶν δραχμὴν μίαν,
+r.4    γίνεται δραχμὴ α. Ὡρ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

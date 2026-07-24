@@ -1,0 +1,60 @@
+[META]
+id:       P.Oxy. 6.916
+label:    P.Oxy. 6.916
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     198 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (198 CE)
+# hgv-keywords: Quittungen — Steuern — Geld — Bank
+tm:       20380
+source:   https://papyri.info/ddbdp/p.oxy;6;916
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἔτους ϛ Λουκίου Σεπτιμί[ου]
+r.2    Σεουήρου Εὐσεβοῦς Περτίνακ[ος]
+r.3    Σεβαστοῦ Ἀρ[α]βικοῦ Ἀδιαβηνικ[οῦ]
+r.4    Παρθικοῦ Μεγίστου καὶ Αὐτοκρ[άτο]ρος
+r.5    Καίσαρος Μάρκου Αὐρηλίου Ἀντω[νί]νου
+r.6    Σεβαστοῦ Παῦνι. διέγραψε Πασίωνι
+r.7    [κ]αὶ μετόχοις δημοσίοις τραπεζίταις Ὀξυρυγχίτου [λ]όγου η τῆς κελ[ε]υσθείσης κατʼ ἄρουρα[ν ἀν]ενεχθῆναι
+r.8    ἀκολούθως τοῖς γρα[φεῖ]σι ὑπὸ Αἰμιλί[ο]υ
+r.9    Σατουρνίνου τοῦ λα[μ]προτάτου ἡγεμ[όνος]
+r.10   Τιβέριος Κλαύδιος Γέμεινος ὁ κ[αὶ]
+r.11   Γαιίων δραχμὰς διακοσί[α]ς, γίνονται δραχμαὶ σ. Πασίω[ν]
+r.12   βασιλικὸς τραπεζίτης σεσημείωμαι.
+r.13   καὶ τῇ ιϛ τοῦ αὐτοῦ μηνὸς ὁμοίως ὁ αὐτὸς δρα[χμὰ]ς
+r.14   τριακοσίας τεσσεράκον[τ]α, γίνονται δραχμαὶ τμ. Πασίων
+r.15   βασιλικὸς τραπεζίτης σεσημείωμαι.
+r.16   καὶ τῇ ια τοῦ Ἐπεὶφ ὁμοίως λόγου η
+r.17   δραχμὰς ἑκατὸν, γίνονται δραχμαὶ ρ. Ζωίλος ὑ[π]η[ρ]έτης
+r.18   σεσημείωμαι.
+r.19   καὶ τῇ κδ τοῦ Φαῶφι ὁμοίως [λόγου η δρα]χμὰς [δ]ι[ακοσ]ί[α]ς, [γίνονται δραχμαὶ σ].
+
+[TRANSLATION]
+# HGV-EN: The sixth year of Lucius Septimius Severus Pius Pertinax Augustus Arabicus Adiabenicus Parthicus Maximus and of the emperor Caesar Marcus Aurelius Antoninus Augustus, Pauni. Paid to Pasion and his associates, public bankers of the Oxyrhynchite nome, on account of the tax of 1/8(?) ordered to be paid upon the aroura in accordance with the edict of his excellency the praefect Aemilius Saturninus, by Tiberius Claudius Geminus also called Gaiion (?) two hundred drachmae, total 200 dr. Signed by me, Pasion, public banker.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

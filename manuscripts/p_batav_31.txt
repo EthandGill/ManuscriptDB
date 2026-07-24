@@ -1,0 +1,28 @@
+[META]
+id:       P.BATAV 31
+label:    P.BATAV 31
+name:     Documentary papyrus — Panopolites (?)
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Panopolites (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Panopolites (?) (101 CE – 200 CE)
+# hgv-keywords: Aufschrift auf Mumienleinwand
+tm:       28964
+source:   https://papyri.info/ddbdp/p.batav;;31
+lat:      26.5894771637
+lon:      31.7425708648
+
+[GREEK]
+r.1    [Τ]ατρῖφις Κολάνθου
+r.2    [τ]οῦ Λύκου
+r.3    ἔτους ἕκτου Ἐπεὶφ ιε
+
+[TRANSLATION]
+# HGV-EN: Tatriphis, daughter of Kolanthos, the son of Lykos. The sixth year, the 15th Epeiph. [Demotic] Tatriphis, the daughter of Kolanthos, the son of L[ykos], the daughter (?) of Trtrj ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

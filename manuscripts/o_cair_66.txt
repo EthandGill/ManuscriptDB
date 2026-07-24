@@ -1,0 +1,30 @@
+[META]
+id:       O.CAIR 66
+label:    O.CAIR 66
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     95 CE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     
+shelf:    
+content:  Receipt from Hermonthis (95 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       73412
+source:   https://papyri.info/ddbdp/o.cair;;66
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    [Πασῆμι]ς Καλασίριος πράκτωρ λαογραφίας
+r.2    [Βορρᾶ] καὶ Ἀπηλιώτου Ἑρμώνθιος Φθομώνθῃ
+r.3    … χαίρειν. ἔσχον παρὰ σοῦ
+r.4    [ὑπὲρ ][λαογρ]αφίας ιδ ἔτους δραχμὰς δώδεκα,
+r.5    [γίνονται δραχμαὶ ιβ. ἔτους ιδ Δομιτιανοῦ τοῦ κυρίου Μεσορ]ὴ ι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

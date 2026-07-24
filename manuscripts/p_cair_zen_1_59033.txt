@@ -1,0 +1,56 @@
+[META]
+id:       P.Cair.Zen. 1.59033
+label:    P.Cair.Zen. 1.59033
+name:     Letter — Memphis
+genre:    letters
+date:     257 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Letter from Memphis (257 BCE)
+# hgv-keywords: Brief (geschäftlich) — Nikias an Apollonios — Plantage — Obst — Baum — Pflanzen
+tm:       693
+source:   https://papyri.info/ddbdp/p.cair.zen;1;59033
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    Νικίας Ἀπολλωνίωι χαίρειν. ἔγραψας Λυσιμάχωι περὶ φυτῶν ὅπως
+r.2    δι … ου. Λυσίμαχος μὲν οὖν ἔτυχεν ἐν Ἀλεξανδρείαι ὤν,
+r.3    ἐγὼ δὲ τοῖς ἐλθοῦσιν περιαγαγὼν πάντας τοὺς παραδείσους ἔδειξα
+r.4    ὅτι παρʼ ἡμῖν μοσχεύματα οὐκ ἔστιν οὐδʼ εἴωθεν γίνεσθαι, οὐκ ἠγνοοῦσαν δὲ
+r.5    οὐδʼ αὐτοί, ἀλλὰ ἐξ Ἀρσινόης τῆς νήσου μεταπεμπόμεθα, ἐκεῖ γὰρ ἔργωι
+r.6    … ὕδωρ ὑπάρχειν ἀεί, καὶ ἠξίουν κατασταλῆναί τινα τῶν παρὰ σοῦ πρὸς Λυσίμαχον, ἐπόρισεν γὰρ ἂν αὐτοῖς ἐκ τῶν
+r.7    κάτω τόπων, οἱ δὲ ἔφασαν ἀρκεῖν αὐτοῖς ἐὰν λάβωσιν εἰς φυτείαν ἀπὸ τῶν
+r.8    παρʼ ἡμῖν ὑπαρχόντων. ἐδώκαμεν οὖν αὐτοῖς ὅσα ἠβούλοντο, ὧν τὸ καθʼ ἓν
+r.9    ὑπογεγράφαμεν.
+r.10   ἔρρωσο. ἔτους κη, Ἁθὺρ κε.
+r.11   σύκινα Χῖα, ἐρινεά, Λύδια, πραέα, φοινίκεα, ὀλονθοφόρα· ῥόας ἀπυρήνου·
+r.12   μῆλα ἐαρινά, καὶ τῶν διφόρων· καὶ ἀμπέλου καπνείου, Κιλικίας, Μενδαίου,
+r.13   Εὐδαμιδείου, Μαρωνείου, κολοκυν[θίνης], φοινίσσης, καπνείου, Ἀλεξανδρείου,
+r.14   βουμάστου, … ερμύλου, δριμίος.
+r.15   Νικίου
+r.16   περὶ φυτῶν
+r.17   Ἀπολλωνίωι.
+
+[TRANSLATION]
+# HGV-EN: Nikias to Apollonios, greetings. You wrote to Lysimachos about the trees so that [mostly illegible word]. Yet Lysimachos happened to be in Alexandria, and after leading the men who came around the garden I explained that on our land it is not possible nor is it usual for there to be offsets – nor were they unaware of this – but that we send for them from the Arsinoite island, for there through labor [...] water was always at hand, and I thought it right to send one of your men to Lysimachos, for it was possible for them to get the offsets from the low-regions, but they said that it was sufficient for them if they could bring trees to their plantation from the ones which were available on our land. So I gave them whatever ones they wanted, an itemized list of which I have appended. Farewell. Year 28, Athyr 25. Chian fig-trees, wooly fig-trees, Lydian fig-trees, mild fig-trees, red fig-trees, fruit-bearing fig-trees; pipless pomegranate trees; spring-time apple-trees, and those which bear fruit twice a year; and vines with smoke-colored grapes, Cilician vines, Mendaian vines, Eudamideian vines, Maroneian vines, pumpkin-seed (?) vines, Phoenician vines, vines with smoke-colored grapes, Alexandrian vines, Boumastian vines, […]ermulian vines, Drimian vines. From Nikias to Apollonios concerning trees.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

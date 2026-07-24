@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 17.2126
+label:    P.Oxy. 17.2126
+name:     Receipt — Oxyrhynchites
+genre:    receipts
+date:     261 CE – 262 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchites (261 CE – 262 CE)
+# hgv-keywords: Quittung eines Dekaproten — Erhalt von Getreide — Artaben
+tm:       17507
+source:   https://papyri.info/ddbdp/p.oxy;17;2126
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    μεμέτρηται εἰς τὸ δημόσιον πυροῦ γενήματος τοῦ διελ[θόντος] η ἔτους
+r.2    τῶν κυρίων ἡμῶν Οὐαλεριανῶν
+r.3    καὶ Γαλ[λιη]νοῦ Σεβαστῶν διὰ θησαυροῦ λιβὸς τοπαρχίας
+r.4    Σερύφεως τόπων Σπαρτιάτης ὁ καὶ Χαιρήμων γυ[μνασιαρχήσας]
+r.5    διὰ Ἀγάθου θέμα ἀρταβῶν ἑκατόν .
+r.6    Αὐρήλιος Σαραπίων δεκάπρωτος σεσημείωμαι τὰς ἀρτάβας ρ.
+
+[TRANSLATION]
+# HGV-EN: Measured to the public account from the produce of the past 8th year of our lords the Valeriani and Gallienus, Augusti, through the granary of the district of Seruphis in the western toparchy by Spartiates also called Chaeremon, ex-gymnasiarch, through Agathus, a deposit of a hundred artabae. Signed by me, Aurelius Sarapion, decemprimus, 100 art.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

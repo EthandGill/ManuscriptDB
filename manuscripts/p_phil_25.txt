@@ -1,0 +1,28 @@
+[META]
+id:       P.PHIL 25
+label:    P.PHIL 25
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     127 CE – 128 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (127 CE – 128 CE)
+# hgv-keywords: Quittung — Steuern — Gewerbe — Weber
+tm:       12726
+source:   https://papyri.info/ddbdp/p.phil;;25
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ιβ ἔτους Ἁδριανοῦ Καίσαρος
+r.2    τοῦ κυρίου ε … ας ωριγατ ὑπὲρ γερδιακοῦ κώμης Φιλαδελφείας ἀργυρίου
+r.3    δραχμὰς ἑξήκον[τα] ὀκτώ … ομυο …
+r.4    δραχμὰς ὀκτὼ διὰ Ἡρακλείδου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

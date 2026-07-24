@@ -1,0 +1,56 @@
+[META]
+id:       P.Oxy. 10.1255
+label:    P.Oxy. 10.1255
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     292 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (292 CE)
+# hgv-keywords: Erklärung — Eid — Zurückhalten der Getreideernte — bis die Dekaproten ihren Teil abgeholt haben
+tm:       21798
+source:   https://papyri.info/ddbdp/p.oxy;10;1255
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Κλαυδίῳ Διοσκ[ο]υρίδῃ τῷ καὶ Χαιρέᾳ
+r.2    γενομένῳ στρατηγῷ Διοπολίτου στρατηγῷ Ὀξυρυγχίτου
+r.3    παρὰ Αὐρηλίων Παποντῶτος Θέωνος
+r.4    καὶ Ὥρου Ἀρχελάου ἀμφοτέρων κωμαρχῶν κώμης Ἰσίου Παγ γᾶ τοῦ ἐνεστῶτος η ἔτους καὶ ζ ἔτους. ἐπιθεμένου σου ἡμῖν
+r.5    ὥστε ἐν ἀσφαλεῖ ἔχειν τοὺς καρποὺς
+r.6    ἐν ταῖς ἁλωνίαις [ἔν] τοῖς ἡμετέροις πεδίοις
+r.7    ἄχρις ἂν πληρωθῶσι οἱ δεκάπρωτοι
+r.8    τῶν ἑκάστου δημοσίων τελεσμάτων
+r.9    ἐκ πλήρους, κατὰ τοῦτο ὁμολογοῦ[με]ν ὀμνύντες τὴν τῶν κυρίων ἡμῶν Διοκλητιανοῦ
+r.10   καὶ Μαξιμιανοῦ Σεβαστῶν τύχην
+r.11   ἐπιτηρεῖν καὶ μηδενὶ ἐπιτρέψαι ἐφάψασθαι ἕως ἂν ἕκαστος τὸ ἐποφειλόμενον μέτρον ἀποπληρώσῃ
+r.12   πρὸς τοὺς τῶν τόπων δεκαπρώτους, τῶν μετρημάτων γ[ι]νομένω[ν]
+r.13   εἰς τὸ μηδεμίαν μέμψιν ἐπακολουθῆσαι, ἢ ἔνοχοι ε[ἴημ]εν
+r.14   τῷ ὅρκῳ.
+r.15   ἔτους η καὶ ζ ἔτους τῶν κυρί[ων ἡμῶν]
+r.16   Διοκλητιανοῦ καὶ Μαξ[ιμιανοῦ Σεβαστῶν]
+r.17   Παῦνι ιθ.
+
+[TRANSLATION]
+# HGV-EN: To Claudius Dioscurides also called Chaereas, ex-strategus of the Diopolite nome, strategus of the Oxyrhynchite nome, from Aurelius Papontos son of Theon and Aurelius Horus son of Archelaus, both comarchs of the village of Ision Panga for the present 8th which = the 7th year. Having been enjoined by you to keep in safety the crops at the threshing-floors in our lands until the decaproti have received payment in full of the public taxes from each person, we accordingly agree, swearing by the fortune of our lords Diocletian and Maximian Augusti, to be on the watch and to permit no one to touch the produce until each person has paid to the local decaproti the amount due from him, the measurement being made so that no complaint may ensue; otherwise may we be liable to the penalties attaching to the oath. The 8th which is also the 7th year of our lords Diocletian and Maximian Augusti, Pauni 19.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

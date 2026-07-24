@@ -1,0 +1,42 @@
+[META]
+id:       PYLON 1.18
+label:    PYLON 1.18
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     62 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     Oxford
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (62 CE)
+# hgv-keywords: Quittung — Steuer
+tm:       971879
+source:   https://papyri.info/ddbdp/pylon;1;18
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Θρασύμαχος Μέλανος Μαρωνεὺς
+r.2    Πτολεμαίωι τῶι καὶ Πεθεῖ
+r.3    π[ρ]εσβυτέρῳ Πεθέως χαίρειν. διαγέγραφας τὴν
+r.4    διδραχμίαν τοῦ Σούχου θεοῦ μεγάλου
+r.5    μεγάλου ἧς ἐώνησαι καμάρας
+r.6    ἣ ἦν πρότερον ἐλαιούργιον
+r.7    ν[υ]νί δὲ συμπέπτωκεν ἐν Καρανίδι
+r.8    π[αρ]ὰ Γαίου [Λο]γγίνου Γαίου υἱ[ο]ῦ
+r.9    ἱπ[πέως ἄλης Αὐ]γούστης [τύρμης]
+r.10   … [ἔτους] η Γερμ[ανικείου]
+
+[TRANSLATION]
+# HGV-EN: Thrasymachos, son of Melas, of the Maronian deme, to Ptolemaios alias Petheus the elder, son of Petheus, greetings. You have paid the didrachmia of Souchos, twice greatest god, for the vaulted room you purchased, which was previously an oil mill but has now collapsed, located in Karanis, from Gaius Longinus, son of Gaius, cavalryman of [the ala] Augusta, [turma of … Year] 8, Germanikeios …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

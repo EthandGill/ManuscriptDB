@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 1.2
+label:    O.BODL 1.2
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     272 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (272 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       44057
+source:   https://papyri.info/ddbdp/o.bodl;1;2
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιγ Ἁθὺρ θ ἔχει Ἀριστοτέλης παρὰ Σισύιτος
+r.2    εἰς τὸ τέλος τοῦ Φαῶφι
+r.3    δραχμὰς β.
+
+[TRANSLATION]
+1     
+2     
+3     

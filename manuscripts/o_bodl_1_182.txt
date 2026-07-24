@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 1.182
+label:    O.BODL 1.182
+name:     Receipt — Theben
+genre:    receipts
+date:     130 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (130 BCE)
+# hgv-keywords: Quittung
+tm:       70937
+source:   https://papyri.info/ddbdp/o.bodl;1;182
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἱεροῦ ιβ.
+r.2    ἔτους μ Φαρμοῦθι μεμέτρηκεν μ ἔτους
+r.3    ὑπὲρ τοῦ τόπου Σωσίας Σώσου
+r.4    πυροῦ ἓξ ἥμισυ γίνονται πυροῦ ϛ 𐅵. Ἀπολλώνιος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

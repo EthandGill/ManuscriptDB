@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.427
+label:    O.BODL 2.427
+name:     Receipt — Theben
+genre:    receipts
+date:     74 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (74 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71128
+source:   https://papyri.info/ddbdp/o.bodl;2;427
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πανᾶς Πετεψάιτος
+r.2    Πτολεμαίου ὑπὲρ λαογραφίας Χάρακος ϛ ἔτους
+r.3    δραχμὰς δέκα γίνονται δραχμαὶ ι καὶ προσδιαγραφόμενα.
+r.4    ἔτους ϛ Οὐεσπασιανοῦ τοῦ κυρίου
+r.5    Μεχεὶρ κζ. Πτολεμαῖος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

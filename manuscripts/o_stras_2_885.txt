@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 2.885
+label:    O.STRAS 2.885
+name:     Receipt — Theben
+genre:    receipts
+date:     183 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (183 CE)
+# hgv-keywords: Quittung — Steuer (Kopfsteuer [ἐπικεφάλαιον] und Deichsteuer ?)
+tm:       76444
+source:   https://papyri.info/ddbdp/o.stras;2;885
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παῦνι ιβ τοῦ κγ ὀνόματος Βήσιος
+r.2    Χαβονχώνσιος ὑπὲρ ἐπικεφαλαίου καὶ χωματικοῦ
+r.3    δραχμὰς ὀκτώ, γίνονται δραχμαὶ η. Πανίσκος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB 65
+label:    O.THEB 65
+name:     Receipt — Theben
+genre:    receipts
+date:     197 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (197 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76435
+source:   https://papyri.info/ddbdp/o.theb;;65
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Νεφερῶς πρεσβύτερος Φθουμίνιος καὶ μέτοχοι ἐπιτηρηταὶ
+r.2    τέλους γερδίων τοῦ ε ἔτους ὀνόματος Πεμσαοῦς.
+r.3    ἔσχομεν παρὰ σοῦ τὸ τέλος μηνὸς Τῦβι δραχμὰς β.
+r.4    ἔτους ε Μεχεὶρ ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

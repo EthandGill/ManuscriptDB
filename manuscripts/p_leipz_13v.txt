@@ -1,0 +1,30 @@
+[META]
+id:       P.LEIPZ 13v
+label:    P.LEIPZ 13v
+name:     Documentary papyrus — Memphis
+genre:    documents
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Documentary papyrus from Memphis (201 CE – 300 CE)
+# hgv-keywords: Abrechnung — Geld — Komarch Nemesion
+tm:       31683
+source:   https://papyri.info/ddbdp/p.leipz;;13v
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    … [ Διοσ]κόρου Νειγρο κωμαρχ δραχμὰς μη
+r.2    … [Ἑρ]μανουβ ϙβ
+r.3    … ρου Νεμεσιο Ἁρειμούτος κα δραχμὰς κδ
+r.4    … [ Λ]υβαιτος Νεμεσιο κωμαρχ δραχμὰς λβ
+r.5    … δραχμὰς υμδ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

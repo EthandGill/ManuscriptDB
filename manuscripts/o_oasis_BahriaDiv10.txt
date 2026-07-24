@@ -1,0 +1,26 @@
+[META]
+id:       O.OASIS BahriaDiv10
+label:    O.OASIS BahriaDiv10
+name:     Receipt — Oasis Parva
+genre:    receipts
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Oasis Parva
+held:     
+shelf:    
+content:  Receipt from Oasis Parva (301 CE – 400 CE)
+# hgv-keywords: Quittung — Öl — Getreide
+tm:       34170
+source:   https://papyri.info/ddbdp/o.oasis;;BahriaDiv10
+lat:      28.373334
+lon:      28.8971005
+
+[GREEK]
+r.1    Ἀββραάμιος
+r.2    σίτου …
+r.3    ἐλαίου χ …
+
+[TRANSLATION]
+1     
+2     
+3     

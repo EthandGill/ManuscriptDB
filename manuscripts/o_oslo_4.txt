@@ -1,0 +1,30 @@
+[META]
+id:       O.OSLO 4
+label:    O.OSLO 4
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     93 BCE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     
+shelf:    
+content:  Receipt from Hermonthis (93 BCE)
+# hgv-keywords: Quittung — Steuern — Bank
+tm:       43470
+source:   https://papyri.info/ddbdp/o.oslo;;4
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    [ἔτ]ους κα Μεσορὴ κβ τέ[τα]κτ[αι]
+r.2    [ἐπὶ τὴν] ἐ[ν ][Ἑρ]μώνθει τράπεζαν ἐφʼ ἧς Ἀμμώνιος
+r.3    [ἀπ]ομοίρας κ ἔτους Ἀπίων Μου … χιλίας
+r.4    ἑκατὸν εἴκοσι, γίνονται Αρκ.
+r.5    Ἀμμώνιος τραπεζίτης ιβ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

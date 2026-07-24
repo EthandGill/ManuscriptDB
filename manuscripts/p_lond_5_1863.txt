@@ -1,0 +1,24 @@
+[META]
+id:       P.LOND 5.1863
+label:    P.LOND 5.1863
+name:     Receipt — Hermopolis
+genre:    receipts
+date:     601 CE – 800 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Receipt from Hermopolis (601 CE – 800 CE)
+# hgv-keywords: Quittung — Steuern — Land — Kopf
+tm:       38866
+source:   https://papyri.info/ddbdp/p.lond;5;1863
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    δημόσια
+r.2    ἀνδρισμός
+
+[TRANSLATION]
+1     
+2     

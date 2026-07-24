@@ -1,0 +1,28 @@
+[META]
+id:       SB 6.9545_15
+label:    SB 6.9545_15
+name:     Receipt — Elephantine
+genre:    receipts
+date:     102 CE – 103 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (102 CE – 103 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Namen
+tm:       19077
+source:   https://papyri.info/ddbdp/sb;6;9545_15
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [διέγρα]ψεν Ἁτπεχνοῦβις Παχομπαπεῶτο[ς]
+r.2    [ὑπὲρ] λαογραφίας ἕκτου ἔτους Τραιανοῦ
+r.3    Καίσαρος τοῦ κυρίου ἀργυρίου δραχμὰς ιζ.
+r.4    Ἑρμογένης πράκτωρ ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

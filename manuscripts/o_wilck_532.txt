@@ -1,0 +1,30 @@
+[META]
+id:       O.Wilck. 532
+label:    O.Wilck. 532
+name:     Receipt — Theben
+genre:    receipts
+date:     123 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (123 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       77042
+source:   https://papyri.info/ddbdp/o.wilck;;532
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φατρὴς πράκτωρ ἀργυρικῆς Ἀμενώθηι
+r.2    Ἁρβήχιος μητρὸς Σενχεσθώτου. ἔσχον
+r.3    ὑπὲρ χωματικοῦ καὶ βαλανικοῦ Χάρακος ζ ἔτους ῥυπαρὰς δραχμὰς ἑπτὰ τετρώβολον [χαλκοῦς 2]
+r.4    γίνονται ῥυπαραὶ δραχμαὶ ζ τετρώβολον χαλκοῖ 2. ἔτους ζ Ἁδριανοῦ
+r.5    τοῦ κυρίου Ἐπὶφ κη. …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

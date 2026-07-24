@@ -1,0 +1,34 @@
+[META]
+id:       O.BODL 1.234
+label:    O.BODL 1.234
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     155 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (155 BCE)
+# hgv-keywords: Quittung — Spreu
+tm:       43613
+source:   https://papyri.info/ddbdp/o.bodl;1;234
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κϛ
+r.2    Φαρμοῦθι κ παραδέδωκεν εἰς τὸ καθῆκον
+r.3    ἄχυρον τοῦ αὐτοῦ ἔτους
+r.4    Ὧρος Σούλιος ἀχύρου μώια λϛ
+r.5    ἐπαντλήτου καὶ ἐνβρόχου.
+r.6    Ἀλεξάνδρωι λ.
+r.7    Σίμωνι Δεξιφάνους ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

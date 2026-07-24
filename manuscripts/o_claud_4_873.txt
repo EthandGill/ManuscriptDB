@@ -1,0 +1,32 @@
+[META]
+id:       O.CLAUD 4.873
+label:    O.CLAUD 4.873
+name:     Letter — Mons Claudianus
+genre:    letters
+date:     150 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Letter from Mons Claudianus (150 CE)
+# hgv-keywords: Brief (amtlich) — Isidoros (caesarianus ?) an Hermaiskas (tabularius ?); die Vorarbeiter im Steinbruch benötigen Gamaschen (?); Bitte — solche zu leihen und mitzubringen
+tm:       118525
+source:   https://papyri.info/ddbdp/o.claud;4;873
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ἰσίδωρος Ἑρμαισκᾷ τῷ τιμιωτάτῳ χαίρειν.
+r.2    οἱ ἐργοδόται προσῆλθαν ἐπιζητοῦντες οὐάρας
+r.3    εἰς τὴν χρείαν τοῦ κίονος. κατὰ τὸ ἀναγκαῖον
+r.4    γράφω σοι, ἄδελφε, ὅπως χρήσῃ παρὰ Ἱερωνύμου
+r.5    καὶ σὺν σοὶ ἐνέγκῃς ἄχρι οὗ ἡ χρεία ἀπαρτισθῇ.
+r.6    ἐρρῶσθαί σε εὔχομαι, ἄδελφε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

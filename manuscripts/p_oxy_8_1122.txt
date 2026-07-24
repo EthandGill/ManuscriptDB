@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 8.1122
+label:    P.Oxy. 8.1122
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     407 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (407 CE)
+# hgv-keywords: Vertrag — Dienste bei einem Mitglied (Rat) gegen Essen und Kleidung
+tm:       21742
+source:   https://papyri.info/ddbdp/p.oxy;8;1122
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    μετὰ τὴν ὑπατείαν τοῦ δεσπότου ἡμῶν Ἀρκαδίου
+r.2    τοῦ αἰωνίου Αὐγούστου τὸ ϛ καὶ Φλαουίου Πρόβου τοῦ λαμπροτάτου
+r.3    Παῦνι ιε.
+r.4    Αὐρηλίῳ Διδύμῳ Θέωνος βουλευτῇ τῆς λαμπρᾶς καὶ λαμπροτάτης
+r.5    Ὀξυρυγχιτῶν πόλεως
+r.6    παρὰ Αὐρηλίου Φοιβάμμωνος ἤτοι Λουκᾶ
+r.7    ἐκ πατρὸς Μέλανος ἀπὸ τῆς αὐτῆς πόλεως
+r.8    χαίρειν. ὁμολογῶ ἑκουσίᾳ καὶ αὐθαιρέτῳ γνώμῃ συντεθεῖσθαί με πρὸς σὲ ἐπὶ τῷ ἐμὲ
+r.9    παραμένειν παρὰ σοὶ καὶ συναποδημεῖν
+r.10   σοι ἐπὶ τῆς ἀλλ[ο]δαπῆς καὶ ὑπακούειν σοι
+r.11   εἰς ἅπαν[τα τὰ ἐπιτραπησόμενά μοι]
+r.12   ὑπὸ σοῦ, σ[ὲ δὲ τρέφειν με ] …
+r.13   καὶ ἱματίζ[ε]ι[ν ] …
+r.14   … ε … ε … ως …
+
+[TRANSLATION]
+# HGV-EN: The year after the sixth consulship of our lord Arcadius, eternal Augustus, and Flavius Probus the most illustrious, Pauni 15. To Aurelius Didymus son of Theon, senator of the illustrious and most illustrious city of Oxyrhynchus, from Aurelius Phoebammon otherwise Lucas, son of Melas, of the said city, greeting. I acknowledge of my own free will that I have made an agreement with you to attend you and travel with you in other lands and obey you in all your commands, while you are to feed and clothe me...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

@@ -1,0 +1,24 @@
+[META]
+id:       PAP.CONGR 27.990_1001
+label:    PAP.CONGR 27.990_1001
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     Leipzig
+shelf:    
+content:  Documentary papyrus from Arsinoites (301 CE – 400 CE)
+# hgv-keywords: Anweisung — Zahlung
+tm:       702343
+source:   https://papyri.info/ddbdp/pap.congr;27;990_1001
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Κύριλλος Γεροντίωι χαρειν.
+r.2    παράσχου Ἐπιμάχῳ Ἀπίωνος κριθῆς ἀρτάβας ε.
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,30 @@
+[META]
+id:       O.CAMB 69
+label:    O.CAMB 69
+name:     Receipt — Theben
+genre:    receipts
+date:     184 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (184 CE)
+# hgv-keywords: Quittung
+tm:       73548
+source:   https://papyri.info/ddbdp/o.camb;;69
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [μέτρημα θησαυροῦ] … γενήματος κδ ἔτους Αὐρηλίου
+r.2    [Κομμόδου Ἀντων]είνου Καίσαρος τοῦ κυρίου
+r.3    … ὑπὲρ Ἀγορῶν ὀνόματος Αρ … πρεσβυτέρου
+r.4    … [ πυροῦ] ἥμισυ τέταρτον γίνεται πυροῦ 𐅵 δ.
+r.5    … σεσημείωμαι πυροῦ 𐅵 δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

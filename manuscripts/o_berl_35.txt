@@ -1,0 +1,34 @@
+[META]
+id:       O.BERL 35
+label:    O.BERL 35
+name:     Receipt — Elephantine
+genre:    receipts
+date:     126 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (126 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       24427
+source:   https://papyri.info/ddbdp/o.berl;;35
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Τριάδελφος πράκτωρ Ἐλεφαντίνης.
+r.2    διέγραψεν Πετορζμῆθις
+r.3    Παχομπρήτεος παστοφόρος
+r.4    Ἄμμωνος θεοῦ μεγίστου
+r.5    ὑπὲρ εἰσκριτικοῦ δραχμὰς ὀκτὼ τριώβολον γίνονται δραχμαὶ η τριώβολον.
+r.6    ἔτους ι Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.7    Μεσορὴ ιδ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

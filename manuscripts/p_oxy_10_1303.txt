@@ -1,0 +1,26 @@
+[META]
+id:       P.Oxy. 10.1303
+label:    P.Oxy. 10.1303
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     336 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (336 CE)
+# hgv-keywords: Erklärung — Eid — Weber
+tm:       21806
+source:   https://papyri.info/ddbdp/p.oxy;10;1303
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    [Φλαουίῳ Παιανίῳ] τῷ καὶ Μακροβίῳ λογιστῇ
+r.2    λινόυφος
+r.3    … Ἀφθονίου Ἡσιχίου
+
+[TRANSLATION]
+1     
+2     
+3     

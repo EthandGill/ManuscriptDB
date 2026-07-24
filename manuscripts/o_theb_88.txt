@@ -1,0 +1,26 @@
+[META]
+id:       O.THEB 88
+label:    O.THEB 88
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     90 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (Ägypten) (90 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76458
+source:   https://papyri.info/ddbdp/o.theb;;88
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκε Τιθοῆς Πετοσορβούχιος
+r.2    διὰ Ὥρου ὑπὲρ τιμῆς οἴνου ι ἔτους Ἄνω τοπαρχίας
+r.3    τετρώβολον. ἔτους ι Δομιτιανοῦ τοῦ κυρίου Ἁθὺρ ια.
+
+[TRANSLATION]
+1     
+2     
+3     

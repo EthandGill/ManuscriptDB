@@ -1,0 +1,26 @@
+[META]
+id:       P.GENOVA 2.87
+label:    P.GENOVA 2.87
+name:     Receipt — Theben
+genre:    receipts
+date:     215 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (215 CE)
+# hgv-keywords: Quittung — Zahlung — Preis — Getreide — Namen — Unterschrift
+tm:       15539
+source:   https://papyri.info/ddbdp/p.genova;2;87
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἐπεὶφ ιε τοῦ κγ ἔτους ὀνόματος Παναμέως —
+r.2    Πετεμενώφιος νεωτέρου Ψενχώνσιος τιμὴν πυροῦ Χάραχος δραχμὰς
+r.3    δέκα ἕξ· γίνονται δραχμαὶ ιϛ· Πάνισκος σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     

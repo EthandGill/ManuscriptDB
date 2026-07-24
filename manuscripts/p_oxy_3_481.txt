@@ -1,0 +1,70 @@
+[META]
+id:       P.Oxy. 3.481
+label:    P.Oxy. 3.481
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     99 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (99 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       20617
+source:   https://papyri.info/ddbdp/p.oxy;3;481
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [τ]ῶ[ν ἀπʼ Ὀξυρύγχων] πόλ[εως].
+r.2    ἀπο[γράφομαι ][πρώ]τως κ[ατὰ]
+r.3    τὰ π[ροστεταγμέ]να τὸ ὑ[πάρ]χον μοι ε[ἰς τὴν] ἐ[ν]εστῶσ[αν]
+r.4    ἡμέ[ρ]αν ἐν τῇ μητροπ[όλει]
+r.5    ἐπʼ ἀμφόδου … Δρόμου Σ[α]ράπιδος … οτου ἥμισυ μέρος οἰκίας καὶ αἰθρίου
+r.6    καὶ ἑτέρων χρηστηρίων καὶ
+r.7    εἰσόδων καὶ ἐξόδων κατηντηκὸς εἴς με ἐξ ὀνόματος
+r.8    τοῦ πατρός μου Ἡρᾶτος τοῦ
+r.9    Ἡρᾶτος μητρὸς Τνεφερῶ[τ]ος ἀπὸ τ[ῆς α]ὐτῆς πόλε[ως]
+r.10   τετελε[υτηκότ]ος πρὸ τῆς
+r.11   τοῦ ἐνάτου ἔτους Δομιτιανοῦ
+r.12   ἀπογραφῆς ἐπʼ ἐμοὶ μόνῳ
+r.13   υἱῷ καὶ κληρονόμῳ. ἔτους β
+r.14   Αὐτοκράτορ[ο]ς Καίσαρος
+r.15   Νέρουα Τραιανοῦ Σεβαστοῦ
+r.16   Γερμανικοῦ μηνὸς Καισαρείου
+r.17   ἐπαγομένων δ. Ἡρᾶς Ἡρᾶτος τοῦ
+r.18   Ἡρᾶτος ἐπιδέδωκα τὴν
+r.19   ἀπογραφήν. Ἀμοιτᾶς Τρωίλου
+r.20   ἔγραψα ὑπὲρ αὐτοῦ μὴ εἰδότ[ος]
+r.21   γράμματα. ἔτους β Αὐτοκράτορος
+r.22   Καίσαρος Νέρου[α Τρα]ιανοῦ
+r.23   Σεβαστοῦ Γερμανικοῦ μηνὸς Καισαρείου
+r.24   ἐπαγομένων δ.
+
+[TRANSLATION]
+# HGV-EN: I hereby register in accordance with the decree the half-share belonging to me at the present date at the metropolis in the quarter of the Square of Sarapis ... of a house and yard and other fixtures and entrances and exits, which share has devolved upon me from my father Heras son of Heras and Tnepheros, of the same city, who died before the registration of the 9th year of Domitian, leaving me his only son and heir.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    

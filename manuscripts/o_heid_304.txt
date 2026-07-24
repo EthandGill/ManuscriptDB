@@ -1,0 +1,30 @@
+[META]
+id:       O.HEID 304
+label:    O.HEID 304
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     178 CE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     
+shelf:    
+content:  Receipt from Hermonthis (178 CE)
+# hgv-keywords: Quittung — Steuer (Weizen, prosthesis)
+tm:       80520
+source:   https://papyri.info/ddbdp/o.heid;;304
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    Σαραπάμμων πράκτωρ σιτικῶν Ἑρμώνθεως. ἔσχον
+r.2    εἰς πρόσθεσιν ὑπὲρ γενήματος ιη ἔτους Ἑρμώνθεως ὀνόματος Πεμσάιτος
+r.3    Πετοσορβούχεως πυροῦ ἀρτάβης δίμοιρον, γίνεται πυροῦ ἀρτάβης 𐅷. σεσημείωμαι.
+r.4    ἔτους ιθ Ἁθὺρ ιδ.
+
+[TRANSLATION]
+# HGV-EN: Sarapammon, collector of grain dues for Hermonthis. I have received for credit for the crop of year 18 for Hermonthis in the name of Pemsais, son of Petosorbouchis, two thirds of an artaba of wheat = 2/3 of an artaba of wheat. I (?) have signed. Year 19, Hathyr 14.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     Sarapammon, collector of grain dues for Hermonthis. I have received.
+2     For credit for the crop of the 18th year for Hermonthis in the name of Pemsais.
+3     [Son of] Petosorbouchis, two-thirds of an artaba of wheat, total 2/3 of an artaba of wheat. I have signed.
+4     Year 19, Hathyr 14.

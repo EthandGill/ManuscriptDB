@@ -1,0 +1,28 @@
+[META]
+id:       ZPE 202.239
+label:    ZPE 202.239
+name:     Receipt — Elephantine
+genre:    receipts
+date:     112 CE – 114 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (112 CE – 114 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, merismos diplon ?)
+tm:       699500
+source:   https://papyri.info/ddbdp/zpe;202;239
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Πετορζμῆθις πράκ[τωρ] [Ἐλεφαντίνης.] [διέ]γραψεν Πετορζμῆθις … ως
+r.2    ὑπὲρ μερισμοῦ ἀνδριάντων β ιζ ἔτους Ἁδριανοῦ
+r.3    τοῦ κυρίου ῥυπαρὰς δραχμὰς δ, Μεσορὴ
+r.4    κβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

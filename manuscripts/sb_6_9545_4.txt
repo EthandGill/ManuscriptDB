@@ -1,0 +1,32 @@
+[META]
+id:       SB 6.9545_4
+label:    SB 6.9545_4
+name:     Receipt — Elephantine
+genre:    receipts
+date:     65 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (65 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Namen
+tm:       19066
+source:   https://papyri.info/ddbdp/sb;6;9545_4
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διαγεγράφηκεν Πετορζμῆθις Παχομπαπιηλοῦς
+r.2    ὑπὲρ λαογραφίας τοῦ
+r.3    ἑνδεκάτου ἔτους Νέρωνος
+r.4    τοῦ κυρίου Μεσορὴ ιη
+r.5    ἀργυρίου δραχμὰς δέκα ἕξ
+r.6    γίνονται δραχμαὶ ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

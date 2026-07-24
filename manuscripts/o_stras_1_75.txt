@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.75
+label:    O.STRAS 1.75
+name:     Receipt — Theben
+genre:    receipts
+date:     54 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (54 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75675
+source:   https://papyri.info/ddbdp/o.stras;1;75
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Μαιεῦρις Πετεαρποχράτου
+r.2    ὑπὲρ χωμάτων ιδ ἔτους δραχμὰς ἓξ τετρώβολον γίνονται δραχμαὶ ϛ τετρώβολον
+r.3    καὶ βαλανείου ὀβολοὺς δ 𐅵 γίνονται δραχμαὶ ζ ὀβολοὶ β 𐅵 καὶ τούτων
+r.4    προσδιαγραφόμενα. ἔτους ιδ τοῦ κυρίου
+r.5    Ἐπεὶφ κθ καλ. Βάσσος
+r.6    σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

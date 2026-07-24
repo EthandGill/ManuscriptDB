@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 258
+label:    O.PETR.MUS 258
+name:     Receipt — Theben (Charax)
+genre:    receipts
+date:     150 CE
+language: Greek (Koiné)
+found:    Theben (Charax)
+held:     
+shelf:    
+content:  Receipt from Theben (Charax) (150 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, Außenstände, merismos enleimmatos telonikon)
+tm:       77773
+source:   https://papyri.info/ddbdp/o.petr.mus;;258
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θοτεῦς ἀπαιτητὴς μερισμοῦ ἐνλείμματος τελωνικῶν Χάρακος Κλεοπᾷ Βάσσου
+r.2    Δέκμου διὰ Θέωνος Βάσσου καὶ Ἡρακλᾶτος ἀδελφοῦ
+r.3    ἔσχον ὑπὲρ μερισμοῦ ιβ ἔτους δραχμὰς ἑπτὰ γίνονται δραχμαὶ ζ ἔτους ιγ Ἀντωνίνου
+r.4    Καίσαρος τοῦ κυρίου Μεσορὴ λ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,36 @@
+[META]
+id:       BGU 1.171
+label:    BGU 1.171
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     156 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (156 CE)
+# hgv-keywords: Darlehen — Getreide (Saat) — Sitologen — Quittung
+tm:       8936
+source:   https://papyri.info/ddbdp/bgu;1;171
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σιτολόγοις κώμης Καρανίδος χαίρειν. ἔσχον παρʼ ὑμῶν
+r.2    εἰς δάνειον σπερμάτων τοῦ ἐνεστῶτος κ ἔτους
+r.3    ἀπὸ γενήματος τοῦ διεληλυθότος ιθ ἔτους πγ κληρουχίας Ἀφροδείσιος Ἡρακλείδου Κερκεσούχων βασιλικῆς ἀρούρας η πυροῦ ἀρτάβας η
+r.4    Ἀφροδείσιος ἔσχον τὰ σπέρματα ὡς πρόκειται.
+r.5    Ὡρίων ὁ καὶ Χαιρήμων ἔγραψα ὑπὲρ αὐτοῦ ἀγραμμάτου.
+r.6    ἔτους κ Ἁθὺρ κϛ.
+r.7    Ὠριγένης σεσημείωμαι πυροῦ ἀρτάβας ὀκτώ .
+
+[TRANSLATION]
+# HGV-EN: To the sitologoi of the village of Karanis, greetings. I have received from you as a loan of seed grain of the present year 20 from the harvest of the past year 19 from the 83 cleruchy, Aphrodeisios, son of Herakleides, at Kerkesoucha for 8 arouras of royal (land) 8 artabas of wheat. (Deletion) I, Aphrodeisios, have received the seed reserves, as mentioned above. I, Horion alias Chairemon, wrote this on his behalf, because he is illiterate. Year 20 Hathyr 26. (m. 2) I, Horigenes, have signed for eight artabas of wheat.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

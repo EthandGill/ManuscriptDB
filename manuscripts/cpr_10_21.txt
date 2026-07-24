@@ -1,0 +1,30 @@
+[META]
+id:       CPR 10.21
+label:    CPR 10.21
+name:     Contract — Arsinoiton Polis
+genre:    contracts
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Arsinoiton Polis
+held:     
+shelf:    
+content:  Contract from Arsinoiton Polis (501 CE – 600 CE)
+# hgv-keywords: Vertrag — Notarunterschrift
+tm:       41063
+source:   https://papyri.info/ddbdp/cpr;10;21
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    φανω π …
+r.2    ὡς πρόκειται. Αὐρήλιος Ἀμ[άειος Ἰωάννου ἔγραψα ὑπὲρ αὐτοῦ]
+r.3    παρόντος ἀγραμμάτου ὄ[ντος] …
+r.4    δι εμυ επιφανιυ διʼ ἐμοῦ
+r.5    Ἐπιφανίου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

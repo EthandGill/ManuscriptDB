@@ -1,0 +1,26 @@
+[META]
+id:       SB 20.15025
+label:    SB 20.15025
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     130 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Sydney
+shelf:    
+content:  Receipt from Theben (Ägypten) (130 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23848
+source:   https://papyri.info/ddbdp/sb;20;15025
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Ἁρμήνιος Ψεμμόνθης διὰ Ἐπωνύχου Ἀπολλωνίου
+r.2    ὑπὲρ ἐλαιουργῶν ιε ἔτους δραχμὰς δ αἱ καθαραὶ δραχμαὶ γ τετρώβολον ἡμιωβέλιον. ἔτους ιε Ἁδριανοῦ
+r.3    τοῦ κυρίου Φαῶφι ιε.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 15
+label:    O.LEID 15
+name:     Receipt — Diospolis Magna (Theben)
+genre:    receipts
+date:     107 BCE
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     
+shelf:    
+content:  Receipt from Diospolis Magna (Theben) (107 BCE)
+# hgv-keywords: Quittung — Steuern — Bank
+tm:       43479
+source:   https://papyri.info/ddbdp/o.leid;;15
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    ἔτους ια Θὼθ κη τέτακται ἐπὶ τὴν ἐν
+r.2    Διὸς πόλει τῆι μεγάλῃ τράπεζαν ἀπομοίρας ια ἔτους
+r.3    Θερμοῦθις Μεκφρέους δισχιλίας
+r.4    ὀκτακοσίας, γίνονται Βω. Ἰμούθης τραπεζίτης.
+r.5    Γπ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

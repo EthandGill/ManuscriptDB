@@ -1,0 +1,40 @@
+[META]
+id:       BGU 2.584
+label:    BGU 2.584
+name:     Contract — unbekannt
+genre:    contracts
+date:     44 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Contract from unbekannt (44 CE)
+# hgv-keywords: Vertrag — Kauf — Esel
+tm:       20176
+source:   https://papyri.info/ddbdp/bgu;2;584
+lat:      
+lon:      
+
+[GREEK]
+r.1    Ἀπολλώνιος Κεφάλωνος Πανεφ[ρέμμι]
+r.2    Τεσενούφιος. ὁμολογῶ σοι π[ε]πρα[κέ]ναι τὴν ὑπάρχουσάν μοι ὄνον [πρ]ωτόβολον
+r.3    μυόχρουν ταύτην τοιαύτην ἀ[να]πόρριφον
+r.4    καὶ ἀπέχω τὴν συνκεχωρημένην
+r.5    τιμὴν πᾶσαν ἐκ πλήρους καὶ
+r.6    βεβαιώσω πάσῃ βεβαιώσει.
+r.7    ἔτους ε Τιβερίου Κλαυδίου Καίσαρος
+r.8    Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+r.9    Τ[ῦ]βι γ.
+
+[TRANSLATION]
+# HGV-EN: Apollonios, son of Kephalon, to Paneph[remmis], son of Tesenouphis. I acknowledge that I have sold to you the white-mouse coloured donkey belonging to me, which has cast its first teeth, on the spot, just as it is, unreturnable. And I have received the whole price agreed upon in full and I shall guarantee with every guarantee. Year 5 of Tiberius Claudius Caesar Augustus Germanicus Imperator, T[y]bi 3.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

@@ -1,0 +1,26 @@
+[META]
+id:       O.ELEPH.WAGNER 265
+label:    O.ELEPH.WAGNER 265
+name:     Receipt — Elephantine
+genre:    receipts
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (501 CE – 600 CE)
+# hgv-keywords: Quittung oder Anweisung (Zahlung)
+tm:       38586
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;265
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    … [ Πα]ῦνι ι ἰνδικτίονος θ
+r.2    Παχνοῦμ Ὀννοφρ
+r.3    πλάθανα κ πϛ
+
+[TRANSLATION]
+1     
+2     
+3     

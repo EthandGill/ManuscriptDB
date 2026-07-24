@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 1.14
+label:    O.EDFOU 1.14
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     72 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (72 CE)
+# hgv-keywords: Quittung
+tm:       46954
+source:   https://papyri.info/ddbdp/o.edfou;1;14
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    … [Σ]ίμωνος
+r.2    [τιμῆς] δηναρίων δύο Ἰουδαίων
+r.3    [δραχμὰς ] … ἔτους δ Μεχεὶρ γ
+
+[TRANSLATION]
+1     
+2     
+3     

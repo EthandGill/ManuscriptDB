@@ -1,0 +1,30 @@
+[META]
+id:       SB 6.9545_10
+label:    SB 6.9545_10
+name:     Receipt — Elephantine
+genre:    receipts
+date:     76 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (76 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Namen
+tm:       19072
+source:   https://papyri.info/ddbdp/sb;6;9545_10
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Ἁρπαῆσις Πλάτωνος ὑπὲρ λαογραφίας η ἔτους
+r.2    Οὐεσπασιανοῦ Καίσαρος
+r.3    τοῦ κυρίου δραχμὰς δέκα ἕξ γίνονται δραχμαὶ ιϛ
+r.4    Φαμενὼθ κδ.
+r.5    Σωκράτης πράκτωρ ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

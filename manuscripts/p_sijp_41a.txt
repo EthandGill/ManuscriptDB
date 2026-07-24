@@ -1,0 +1,34 @@
+[META]
+id:       P.SIJP 41a
+label:    P.SIJP 41a
+name:     Documentary papyrus — Bakchias (Arsinoites)
+genre:    documents
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Bakchias (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Bakchias (Arsinoites) (1 CE – 200 CE)
+# hgv-keywords: Bescheinigung — Arbeit — Deich
+tm:       110201
+source:   https://papyri.info/ddbdp/p.sijp;;41a
+lat:      29.536946
+lon:      31.0041595
+
+[GREEK]
+r.1    [ἔτους] [α] [Αὐτοκράτορος] … του
+r.2    … Σεβαστοῦ
+r.3    [εἴργασται ὑπὲρ χωματικῶν] [ἔ]ργων τοῦ αὐτοῦ πρώτου ἔτους
+r.4    … κβ κϛ ἐ[ν] τῇ Ἐπα[γαθιαν]ῇ διώρυγι Βακχιάδος
+r.5    … Πατκόννεως τοῦ Θεαβέν[νεως] μητρὸς Ταύρεως
+r.6    … σεσημείωμαι
+
+[TRANSLATION]
+# HGV-EN: [Year 1 (?) of Emperor ...]tus [...] Augustus. [Work done on the dike] works for the same first year, [(month)] 20-26, in the canal of Epagathos on behalf of Bacchias by NN, son of Patkonnis and Tauris, grandson of Theagenes. (m. 2) Signed by me, NN.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

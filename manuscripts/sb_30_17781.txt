@@ -1,0 +1,46 @@
+[META]
+id:       SB 30.17781
+label:    SB 30.17781
+name:     Documentary papyrus — Oxyrhynchos (Oxyrhynchites, Ägypten)
+genre:    documents
+date:     100 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (Oxyrhynchites, Ägypten)
+held:     Manchester
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (Oxyrhynchites, Ägypten) (100 CE)
+# hgv-keywords: Registrierung — Zession (Land)
+tm:       20582
+source:   https://papyri.info/ddbdp/sb;30;17781
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Φανίας καὶ Διογένης
+r.2    ὁ καὶ Ἑρμαῖος οἱ ἀσχολούμενοι
+r.3    τοὺς [κ]αταλοχισμοὺς
+r.4    τοῖς ἀγορανόμοις
+r.5    χαίρειν. Σαραποῦτος
+r.6    τῆς Ζωΐλου μετὰ κυρίου
+r.7    τοῦ ὁμογνησίου ἀδελφοῦ
+r.8    Σαραπίωνος παρακεχωρημένης
+r.9    παρὰ Ταῶτος τῆς
+r.10   Ἀπολλωνίου τοῦ
+r.11   Ἑρμῶνος μετὰ κυρίου
+r.12   τοῦ ἀνδρὸς Διονυσίου
+
+[TRANSLATION]
+# HGV-EN: Phanias and Diogenes alias Hermaeus, officials in charge of the katalochismoi registers, to the agoranomi, greetings. Sarapous, daughter of Zoilus, with her blood brother Sarapion as guardian, has had ceded to her by Taos, daughter of Apollonius, son of Hermon, with her husband Dionysius as guardian...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

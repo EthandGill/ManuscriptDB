@@ -1,0 +1,32 @@
+[META]
+id:       P.Oxy. 72.4871
+label:    P.Oxy. 72.4871
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     122 CE – 123 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (122 CE – 123 CE)
+# hgv-keywords: Auftrag an die Sitologen von Ophis (diastolikon) — Giro - Überweisung von Weizen
+tm:       114251
+source:   https://papyri.info/ddbdp/p.oxy;72;4871
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Οὐαλερία Ἀρτεμιδώρα διʼ Ἐπαφροδίτου φροντιστοῦ σιτολόγοις
+r.2    ἀπηλιώτου τοπαρχίας Ὤφεως τόπων
+r.3    χαίρειν. διαστείλατε ἀφʼ οὗ
+r.4    [ἔ]χ[ε]τέ μου ἐν θέματι πυροῦ
+r.5    [γε]νήματ[ος το]ῦ διελθόντος
+
+[TRANSLATION]
+# HGV-EN: Valeria Artemidora through Epaphroditus, steward, to the sitologi of the eastern toparchy, district of Ophis, greetings. Transfer, from the amount you hold on deposit for me, from the wheat-crop of the past (nth year) . . . (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

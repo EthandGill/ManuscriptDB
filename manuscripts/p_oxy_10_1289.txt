@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 10.1289
+label:    P.Oxy. 10.1289
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (401 CE – 500 CE)
+# hgv-keywords: Abrechnung — Waren — Geld
+tm:       35575
+source:   https://papyri.info/ddbdp/p.oxy;10;1289
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    χμγ
+r.2    λόγος Ἁρποκρατίωνος·
+r.3    ζωμάριστρα δ μυριάδες υο ,
+r.4    μάχαιρα στρογ[γ]ύλα γ μυριάδες ρκ
+r.5    ψαλιδίων ε μυριάδες σν ,
+r.6    ψαλίδι[α] μεγάλα β μυριάδες ρν ,
+r.7    μαχαίρου α μυριάδες λ ,
+r.8    μανιακῶν κ … μυριάδες υν ,
+r.9    σιμαριδίου κεντίν[ο]υ α μυριάδες υν ,
+r.10   κυάθια κδ μυριάδες Ασ ,
+r.11   γίνονται ὁμοῦ μυριάδες Γρκ .
+r.12   καὶ ἀπὸ παλαιοῦ λόγου μυριάδες Ασε ,
+r.13   καὶ κυαθίων μεγάλων ιγ μυριάδες Ανδ ,
+r.14   ἔχει δὲ ἀπὸ τοῦ λόγου τούτων μυριάδας Γφκ .
+r.15   λοιπὸν ἔχω μυριάδες Αωξ .
+
+[TRANSLATION]
+# HGV-EN: Account of Harpocration: 4 ladles 470 myriads, 3 curved knives 120 myr., 5 pairs of scissors 250 myr., two large pairs of scissors 150 myr., 1 knife 30 myr., 2[.] necklets (?) 450 myr., a ... 450 myr., 24 cups 1,200 myr., total 3,120 myr. From the old account 1,205 myr., 13 large cups 1,054 myr.; on account of these he has 3,520 myr. I have left 1,860 myr.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.441
+label:    O.STRAS 1.441
+name:     Receipt — Theben
+genre:    receipts
+date:     93 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (93 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       76029
+source:   https://papyri.info/ddbdp/o.stras;1;441
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Γᾶις Λ …
+r.2    φι. ἔχω [παρὰ σοῦ]
+r.3    ἀχύρου γ[όμους] …
+r.4    ἔτους ιβ Δομιτ[ιανοῦ]
+r.5    Μεσ[ορὴ ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.154
+label:    O.STRAS 1.154
+name:     Receipt — Theben
+genre:    receipts
+date:     216 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (216 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75755
+source:   https://papyri.info/ddbdp/o.stras;1;154
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁθὺρ κε τοῦ κε ἔτους ὀνόματος
+r.2    Θερμούθιος Ψεντκαλίβιος
+r.3    ὑπὲρ … κδ ἔτους δραχμὰς γ πεντώβολον. Αὐρήλιος Πα σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

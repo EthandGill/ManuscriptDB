@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 1.114
+label:    O.BODL 1.114
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     158 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (158 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       43593
+source:   https://papyri.info/ddbdp/o.bodl;1;114
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κγ Μεσορὴ λ τέτακται
+r.2    Πακοῖβις προβάτων θ τὸ γεινόμενον τέλος.
+r.3    Ἀδαῖος.
+
+[TRANSLATION]
+1     
+2     
+3     

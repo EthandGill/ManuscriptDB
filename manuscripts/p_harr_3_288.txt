@@ -1,0 +1,32 @@
+[META]
+id:       P.HARR 3.288
+label:    P.HARR 3.288
+name:     Documentary papyrus — unbekannt
+genre:    documents
+date:     401 CE – 600 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     Birmingham
+shelf:    
+content:  Documentary papyrus from unbekannt (401 CE – 600 CE)
+# hgv-keywords: Liste — Würst
+tm:       998617
+source:   https://papyri.info/ddbdp/p.harr;3;288
+lat:      
+lon:      
+
+[GREEK]
+r.1    λουκανικά λη
+r.2    λουκανικά κβ
+r.3    λουκανικά καὶ ἀμαζονι κθ
+r.4    ἰσίκια ιγ
+r.5    σαλσίκια λδ
+
+[TRANSLATION]
+# HGV-EN: Sausages 38, Sausages 22, Sausages and amazoni(a?) 29, Filled(?) sausages 13, Salted(?) sausages 34
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

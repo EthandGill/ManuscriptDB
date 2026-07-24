@@ -1,0 +1,30 @@
+[META]
+id:       O.BERENIKE 3.310
+label:    O.BERENIKE 3.310
+name:     Receipt — Berenike
+genre:    receipts
+date:     51 CE – 100 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     
+shelf:    
+content:  Receipt from Berenike (51 CE – 100 CE)
+# hgv-keywords: Quittung — Wasser — Dekania
+tm:       641798
+source:   https://papyri.info/ddbdp/o.berenike;3;310
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    Ἰούλιος Γέμελλος
+r.2    ὑπὲρ κουρείου ἀνδρείου
+r.3    ἔλαβον παρὰ δεκανίας Πετεῆσις Παμίνεως
+r.4    Πεσοῦρις Ψενοσίρεως
+r.5    κεράμια λ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

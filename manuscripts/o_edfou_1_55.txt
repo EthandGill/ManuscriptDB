@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.55
+label:    O.EDFOU 1.55
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     76 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (76 CE)
+# hgv-keywords: Quittung — Abgabe
+tm:       46995
+source:   https://papyri.info/ddbdp/o.edfou;1;55
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Θεόδωτος ὃς καὶ Νίγερ
+r.2    Πτόλλιδος φυλακιτικοῦ η ἔτους
+r.3    Οὐεσπασιανοῦ
+r.4    δραχμὴν α ἔτους η Τῦβι ιζ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

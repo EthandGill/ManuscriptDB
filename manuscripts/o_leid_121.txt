@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 121
+label:    O.LEID 121
+name:     Receipt — Theben
+genre:    receipts
+date:     139 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (139 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24691
+source:   https://papyri.info/ddbdp/o.leid;;121
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἑριεῦς καὶ μέτοχοι τελῶναι τέλους θ[ησαυροῦ][ ἱερῶν τοῦ β ἔτους]
+r.2    Ἀντωνείνου Κ[αίσαρος τοῦ κυρίου]
+r.3    Ἀμενώθῃ Ἁρβήχιος [ἔσχομεν τὸ βαλανευτικὸν ] …
+r.4    τοῦ αὐτοῦ β ἔτους Φαρμοῦθι ι …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

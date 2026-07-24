@@ -1,0 +1,24 @@
+[META]
+id:       O.STRAS 1.323
+label:    O.STRAS 1.323
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     115 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (115 BCE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75913
+source:   https://papyri.info/ddbdp/o.stras;1;323
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ἱέραξ μεμέτρημαι, καθότι πρόκειται,
+r.2    πυροῦ η γ ιβ, γίνονται πυροῦ η γ ιβ. ἔτους β Μεσορὴ κ.
+
+[TRANSLATION]
+1     
+2     

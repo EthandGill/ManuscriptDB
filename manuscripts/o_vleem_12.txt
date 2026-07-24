@@ -1,0 +1,22 @@
+[META]
+id:       O.VLEEM 12
+label:    O.VLEEM 12
+name:     Receipt — Elephantine
+genre:    receipts
+date:     244 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (244 BCE)
+# hgv-keywords: Quittung — Geld
+tm:       3008
+source:   https://papyri.info/ddbdp/o.vleem;;12
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Παλαια Κρουρ τριώβολον τέταρτον .
+
+[TRANSLATION]
+1     

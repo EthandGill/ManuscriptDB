@@ -1,0 +1,34 @@
+[META]
+id:       O.THEB 81
+label:    O.THEB 81
+name:     Receipt — Theben
+genre:    receipts
+date:     107 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (107 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76452
+source:   https://papyri.info/ddbdp/o.theb;;81
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀπολλώνιος καὶ μέτοχοι πράκτορες ἀργυρικῶν μητροπόλεως
+r.2    Σαχοµνεῖ Ψενχνούµιος Πετεχενσεβάιος.
+r.3    ἔσχομεν ὑπὲρ λαογραφίας Χάρακος δεκάτου ἔτους ῥυπαρὰς δραχµὰς
+r.4    ὀκτὼ γίνονται δραχµαὶ η. ἔτους δεκάτου Τραιανοῦ
+r.5    Φαμενὼθ λ κα. Ἁρυώτης σεσημείωμαι.
+r.6    ἄλλας Παχὼν λ κγ ὑπὲρ λαογραφίας σὺν βαλανευτικῷ ῥυπαρὰς δραχµὰς τέσσαρας
+r.7    γίνονται δραχμαὶ δ. Ἁρυώτης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

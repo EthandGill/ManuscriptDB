@@ -1,0 +1,26 @@
+[META]
+id:       O.NYU 11
+label:    O.NYU 11
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     1 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (1 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869416
+source:   https://papyri.info/ddbdp/o.nyu;;11
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λα Ἁθυρ ιζ τέτακται τέλους ταριχευτ-
+r.2    λ ἔτους Ἅρπηκις Σισόιτος ἀργυρίου δεκατέσσαρας τετρώβολον, γίνονται ιδ τετρώβολον. Πίσηχθις.
+
+[TRANSLATION]
+# HGV-EN: Year 31, Hathyr 17, has paid for tax in tarich(eut- ) of the 30th year, ⟦Sisois?⟧ Harpekis son of Sisois, fourteen drachmas four obols of silver, that is 14 dr. 4 ob. Pise(chthis ?).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

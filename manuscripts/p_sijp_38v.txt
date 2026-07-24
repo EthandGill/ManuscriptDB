@@ -1,0 +1,32 @@
+[META]
+id:       P.SIJP 38v
+label:    P.SIJP 38v
+name:     Receipt — Theben (Notos)
+genre:    receipts
+date:     189 CE
+language: Greek (Koiné)
+found:    Theben (Notos)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos) (189 CE)
+# hgv-keywords: Quittung — Steuer (Kranzsteuer) — Geld
+tm:       110195
+source:   https://papyri.info/ddbdp/p.sijp;;38v
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Παχὼν ε τοῦ κθ ἔτους ὀνόματος
+r.2    Σισόιτος νεωτέρου Ὀννώφριος ὑπὲρ
+r.3    στεφανικοῦ χρήματος τοῦ κη ἔτους Νότου
+r.4    δραχμὰς ἓξ πεντώβολον, γίνονται δραχμαὶ ϛ πεντώβολον.
+r.5    Ἀμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: Pachon 5 of the 29th year, in the name of Sisois the younger, son of Onnophris, for crown tax of the 28th year for Notos, six dr. 5 ob., total, 6 dr. 5 ob. I, Amonios, have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

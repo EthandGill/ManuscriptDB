@@ -1,0 +1,32 @@
+[META]
+id:       O.BERENIKE 4.519
+label:    O.BERENIKE 4.519
+name:     Documentary papyrus — Berenike
+genre:    documents
+date:     50 CE – 75 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Berenike (50 CE – 75 CE)
+# hgv-keywords: Anweisung — Wein
+tm:       971741
+source:   https://papyri.info/ddbdp/o.berenike;4;519
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    Σαραπίων Κασί[ο]υ Ἀνδουρωι χαίρειν·
+r.2    διαπόστειλον Ψενοσίρι Παήρεως
+r.3    οἴνου ἰταλικὰ κεράμια δύο καὶ …
+r.4    Πακοίβι λαδικηνὰ κεράμια …
+r.5    γίνεται λαδικηνὰ …
+
+[TRANSLATION]
+# HGV-EN: Sarapion son of Kasios to Andouros, greetings. Dispatch for Psenosiris son of Paeris two jars of Italian wine and for Pakoibis … jars of Laodicean wine, totals … Laodicean wine.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

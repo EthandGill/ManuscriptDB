@@ -1,0 +1,56 @@
+[META]
+id:       P.RYL 2.175
+label:    P.RYL 2.175
+name:     Contract — Theadelphia (Arsinoites)
+genre:    contracts
+date:     168 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Theadelphia (Arsinoites) (168 CE)
+# hgv-keywords: Vertrag — Darlehen — Geld
+tm:       12958
+source:   https://papyri.info/ddbdp/p.ryl;2;175
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ἔτους ὀγδό[ο]υ Ἀντωνίνου καὶ [Οὐήρο]υ
+r.2    τῶν κυρίων Σεβαστῶ[ν]
+r.3    Ἀρμενικῶν Μ[η]δι[κ]ῶν Παρθικῶν
+r.4    Μεγίστων μηνὸς Τῦβι κ,
+r.5    ἐν Θεαδελφίᾳ τῆς Θεμίστου
+r.6    μερίδος τοῦ Ἀρσινοείτου
+r.7    νομοῦ. ὁμολογοῦσι Μελανᾶς
+r.8    Ἀκουσιλάου τοῦ Σώτου ἀπὸ ἀμφ[ό]δ[ο]υ Λυσανίου Τόπων ὡς ἐτῶν ν
+r.9    οὐλὴ ἀντι[κνημίῳ][ δ]εξιῷ καὶ ὁ τούτου υἱὸς Πασίων ὡς ἐτῶν κε
+r.10   ἄσημος οἱ δύο Σαραπίωνι
+r.11   Ἠπιοδώρου ἀγορανομήσαντι κ[α]ὶ ἐπιδεδειγμένῳ
+r.12   ἐξηγητ[ῇ] ἔχειν παρʼ αὐτοῦ
+r.13   τοὺς ὁμ[ο]λογοῦντας χρῆσιν ἔντοκον ἀργυρίου
+r.14   δραχμὰ[ς] τεσσαράκοντα ὀκτ[ώ] , ἃς καὶ ἀποδώσουσι ἐν μηνὶ Παῦνι τοῦ
+r.15   ἐνεστῶτος ἔτους ἀνυπερθέτως χωρὶς ἄλλων
+r.16   ὧν ὀφείλουσι.
+r.17   ὁμολογία Πασίωνος καὶ Μ[ελανᾶτος.]
+
+[TRANSLATION]
+# HGV-EN: ‘The 8th year of Antoninus and Verus the lords Augusti Armenici Medici Parthici Maximi, the 20th of the month Tubi, at Theadelphia in the division of Themistes of the Arsinoïte nome. Melanas son of Acusilaus son of Sotas, of the quarter of Lysanias' District, aged about 50, having a scar on his right shin, and his son Pasion, aged about 25, with no distinguishing mark, both acknowledge to Sarapion son of Epiodorus, ex-agoranomus and exegetes-elect, that they, the acknowledging parties, have received from him a loan of 48 drachmae of silver, bearing interest, which they will repay in the month Pauni of the present year without delay, apart from other sums which they owe.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

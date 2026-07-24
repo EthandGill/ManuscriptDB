@@ -1,0 +1,30 @@
+[META]
+id:       BGU 6.1343
+label:    BGU 6.1343
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     100 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (100 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       4650
+source:   https://papyri.info/ddbdp/bgu;6;1343
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους ιδ Μεσορὴ τέτακται ἐπὶ τὴν ἐν Ἀπόλλωνος πόλει
+r.2    τῇ μεγάλῃ τράπεζαν ἀπομοίρας ιϛ τοῦ καὶ ιγ ἔτους Παχόις
+r.3    Παραῦτος διὰ Ποήριος τοῦ
+r.4    Ἁρπαήσιος δισχιλίας υν
+r.5    γίνονται Βυν.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

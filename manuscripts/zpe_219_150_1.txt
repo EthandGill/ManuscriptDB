@@ -1,0 +1,36 @@
+[META]
+id:       ZPE 219.150_1
+label:    ZPE 219.150_1
+name:     Receipt — Elephantine
+genre:    receipts
+date:     95 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (95 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Geld
+tm:       958938
+source:   https://papyri.info/ddbdp/zpe;219;150_1
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [διεγ́ραψεν] Πετορζμῆθις Βιήν[χιος]
+r.2    [ὑπὲρ] [λαογρ]αφίας ιδ ἔτους Δομιτιανοῦ
+r.3    [Καίσαρος τ]οῦ κυρίου ἐπὶ λόγου δραχμὰς η
+r.4    [ὁ αὐτὸς τὰς] λοιπὰς δραχμὰς θ, γίνονται δραχμαὶ ιζ.
+r.5    [Σωκράτης] πράκτωρ ἔγραψα
+r.6    [ἔτους ιε Δ]ομιτιανοῦ Καίσαρος
+r.7    [τοῦ κυρί]ου Φαῶφι ι
+
+[TRANSLATION]
+# HGV-EN: Petor(zmethis) son of Bienchis [has paid] 8 dr. on account [for] the poll tax of the 14th year of Domitian, [Caesar], the lord, [the same (man)] (has paid) the remaining 9 dr., the total 17 dr. I, [Sokrates], tax collector, have written. [Year 15] of Domitian, Caesar, the lord, 10th Phaophi.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

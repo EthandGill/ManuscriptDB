@@ -1,0 +1,26 @@
+[META]
+id:       O.DID 50
+label:    O.DID 50
+name:     Documentary papyrus — Didymoi
+genre:    documents
+date:     110 CE – 115 CE
+language: Greek (Koiné)
+found:    Didymoi
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Didymoi (110 CE – 115 CE)
+# hgv-keywords: Passierschein
+tm:       144616
+source:   https://papyri.info/ddbdp/o.did;;50
+lat:      25.7543330528
+lon:      33.3947791619
+
+[GREEK]
+r.1    Καπιτωλεῖνος ἑκατοντάρχης.
+r.2    ἀνθρώπους πέντε
+r.3    εἰς Διδύμους πορευομένους.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,24 @@
+[META]
+id:       BGU 3.930B
+label:    BGU 3.930B
+name:     Documentary papyrus — Herakleopolis
+genre:    documents
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Herakleopolis
+held:     
+shelf:    
+content:  Documentary papyrus from Herakleopolis (301 CE – 400 CE)
+# hgv-keywords: Abrechnung — Getreide
+tm:       233
+source:   https://papyri.info/ddbdp/bgu;3;930B
+lat:      29.0855048
+lon:      30.9345750333
+
+[GREEK]
+r.1    Θεόδωρος Ἱππίου βαφέως ϛ ἰνδικτίονος σίτου ἀρτάβη α ιβ, ζ ἰνδικτίονος ἀρτάβη α ιβ
+r.2    κριθῆς ζ ἰνδικτίονος ἀρτάβ … , ϛ ἰνδικτίονος γ ιβ
+
+[TRANSLATION]
+1     
+2     

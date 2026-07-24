@@ -1,0 +1,26 @@
+[META]
+id:       O.EREM 24
+label:    O.EREM 24
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     114 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (114 CE)
+# hgv-keywords: Quittung — Abgaben
+tm:       18284
+source:   https://papyri.info/ddbdp/o.erem;;24
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Πακτεύτης Πεχοίτου Γορσενούφιος
+r.2    μερισμοῦ ιζ ἔτους Τραιανοῦ τοῦ κυρίου
+r.3    ὀβολοὺς γ 𐅵 ἔτους ιζ Φαμενὼθ κβ.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,56 @@
+[META]
+id:       P.Oxy. 72.4875
+label:    P.Oxy. 72.4875
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     135 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (135 CE)
+# hgv-keywords: Auftrag an die Sitologen von Kerkethyris (diastolikon) — Giro - Überweisung von Weizen
+tm:       114255
+source:   https://papyri.info/ddbdp/p.oxy;72;4875
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Δῖος Ἀκουσιλάου διὰ Ἀκουσιλάου υἱοῦ σιτολόγοις Κερκεθύρεως
+r.2    χαίρειν. διαστείλατε
+r.3    ἀφʼ οὗ ἔχετέ μου ἐν θέματι πυροῦ γενήματος
+r.4    τοῦ ἐννεακαιδεκάτου
+r.5    ἔτους Ἁδριανοῦ Καίσαρος
+r.6    τοῦ κυρίου Συντύχῃ
+r.7    ἀπελευθέρᾳ Σαραπιάδος
+r.8    Διονυσίου Σέρυφις ὀκτὼ
+r.9    τέταρτον χοίνικας
+r.10   ἑπτά, Ἡρακλήῳ τῷ καὶ
+r.11   Ἀπίωνι Ἀ[πίω]νος Σεφω
+r.12   δύο ἥμισυ τέταρτον
+r.13   χοίνικας τρεῖς, γίνονται ἐπὶ τὸ
+r.14   αὐτὸ ἀρτάβαι ια δ. ἔτους ιθ Αὐτοκράτορος
+r.15   Καίσαρος Τραϊανοῦ
+r.16   Ἁδριανοῦ Σε[βα]στοῦ,
+r.17   Μεσορὴ λ.
+
+[TRANSLATION]
+# HGV-EN: Dius son of Acusilaus, through Acusilaus, (my) son, to the sitologi of Cercethyris, greetings. Transfer, from the amount you hold on deposit for me, from the wheat-crop of the nineteenth year of Hadrianus Caesar the lord, to Syntyche, freedwoman of Sarapias daughter of Dionysius, (for her account) at Seryphis, eight (and) one-quarter (artabas) (and) seven choenices, (and) to Heracles alias Apion son of Apion, (for his account) at Sepho, two (and) one half (and) one-quarter (artabas) (and) three choenices, grand total 11 ¼ art. Year 19 of Imperator Caesar Traianus Hadrianus Augustus, Mesore 30. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

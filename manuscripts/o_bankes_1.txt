@@ -1,0 +1,32 @@
+[META]
+id:       O.BANKES 1
+label:    O.BANKES 1
+name:     Contract — Elephantine
+genre:    contracts
+date:     123 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Contract from Elephantine (123 CE)
+# hgv-keywords: Vertrag (Darlehen) — Geld — Hypothek
+tm:       699544
+source:   https://papyri.info/ddbdp/o.bankes;;1
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ζ ἔτους θεοῦ Ἁδριανοῦ, Παῦνι α· διὰ τοῦ ἐν Σοήνῃ [ ]·
+r.2    ἐδάνεισεν Σωκρατίων Μούιτος ἀπὸ Σοήνης νεκροτάφος
+r.3    Μάρκῳ Ἀννίῳ Βαλβίνῳ καὶ τῇ τούτου
+r.4    ἀδελφῇ Ἀννίᾳ Ὀλυμπιάδι ἐπὶ ὑποθήκῃ μέρους οἰκίας
+r.5    ἐν τῇ κάτω μερίδι Σοήνης καὶ μέρους τάφου
+r.6    ἐκτὸς φο Σοήνης πόρον δραχμὰς ρθ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

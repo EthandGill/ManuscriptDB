@@ -1,0 +1,32 @@
+[META]
+id:       TYCHE 33.53_2
+label:    TYCHE 33.53_2
+name:     Receipt — Theadelphia (Arsinoites, Ägypten)
+genre:    receipts
+date:     169 CE – 177 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites, Ägypten)
+held:     Ann Arbor
+shelf:    
+content:  Receipt from Theadelphia (Arsinoites, Ägypten) (169 CE – 177 CE)
+# hgv-keywords: Quittung — Pachtzins — Tempelland
+tm:       828780
+source:   https://papyri.info/ddbdp/tyche;33;53_2
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    Ἀλέξανδρος ὁ κα[ὶ] …
+r.2    ἐπιμελητὴς τῶν [τοῖς θεοῖς προσ]ηκόντων διὰ Χαιρ[ήμονος βοηθοῦ]
+r.3    [Ἰ]σιδώρῳ Ἀφροδισίου [χαίρειν.]
+r.4    παρέλαβον [παρὰ σοῦ ὑπὲρ ἐκφορίου]
+r.5    [ο]ὗ γεωργεῖς [τῶν θεῶν κλήρου περὶ]
+
+[TRANSLATION]
+# HGV-EN: Alexandros alias [ … ], superintendent of the revenues due to [the gods], through Chairemon, [his assistant], to Isidoros, son of Aphrodisios, [greetings]. I received [from you for the rent of the plot of the gods] that you farm …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

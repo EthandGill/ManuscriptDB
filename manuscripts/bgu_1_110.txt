@@ -1,0 +1,60 @@
+[META]
+id:       BGU 1.110
+label:    BGU 1.110
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     138 CE – 139 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (138 CE – 139 CE)
+# hgv-keywords: Anzeige (Geburt)
+tm:       8884
+source:   https://papyri.info/ddbdp/bgu;1;110
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    … ἐπι …
+r.2    … χυριο πράκτ[ορε]ς
+r.3    … [ Λεωνί]δῃ καὶ Ἑρμογείτ[ονι γραμματεῦσι]
+r.4    μητροπόλεως
+r.5    παρὰ Θεογείτονος τοῦ …
+r.6    τοῦ Θεογείτονος μητ[ρὸς Τασου]χαρίου καὶ τῆς γυναικὸς [Διο]δώρας τῆς Θεογείτονος [Θεο]γείτονος μετὰ κυρίου τ[οῦ προ]γεγραμμένου ἀνδρὸς Θεο[γεί]τονος ἀπὸ τῆς μ[η]τροπόλεως ἀνα[γρα]φομένων ἐπʼ ἀμφόδου Λι[νυ]φίων· ἀπογραφόμεθα τ[ὸν]
+r.7    γε[ν]ηθέντα ἡμῖν ἐξ ἀλ[λήλων]
+r.8    τῷ διεληλυθότ[ι] α ἔτει [υἱὸν]
+r.9    Μ … ην ὄντα εἰς τὸ ἐ[νεστὸς]
+r.10   β ἔτος Αὐτοκράτορος [Κα]ί[σαρος]
+r.11   Τίτου Αἰλίου Ἁδριανοῦ
+r.12   Ἀντωνείνου Σεβ[αστοῦ Εὐσεβοῦς]
+r.13   ἐτῶν β. διὸ ἐπιδίδωμι.
+r.14   Θεογίτων ἐτῶν μη ἄσημος Διοδώρα ἐτῶν …
+r.15   ἐπιδίδομεν καὶ ομυο … ι …
+r.16   καὶ …
+r.17   καὶ … Ταπο … ε …
+r.18   ἔτους β Αὐτο[κράτορος Καίσαρος Τίτου]
+r.19   Αἰλ[ίου Ἁδριανοῦ Ἀντωνίνου Σε]β[αστοῦ Εὐσεβοῦς ] …
+
+[TRANSLATION]
+# HGV-EN: collectors (m. 2) [To Leoni]des and Hermogeit[on] city [scribes] from Theogeiton, son of [NN], the son of Theogeiton, mother [Tasou]charion and his wife [Dio]dora, daughter of Theogeiton, son of [Theo]geiton, with her guardian, her above mentioned husband, Theo[gei]ton, from the metropolis, registered in the Linenweavers’ quarter. We register the [son], Mes, who was born to us jointly in the past 1st year and who is in the present 2nd year of Imperator [Caesar] Titus Aelius Hadrianus Antoninus Augustus [Pius] 2 years old. Therefore we submit (this registration). We, Theogiton, 48 years old, without a distinguishing mark, Diodora, [x] years old, , submit (this registration) and and and . Year 2 of Imperator [Caesar Titus] Ael[ius Hadrianus Antoninus Augustus Pius ]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

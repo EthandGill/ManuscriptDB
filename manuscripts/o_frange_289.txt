@@ -1,0 +1,26 @@
+[META]
+id:       O.FRANGE 289
+label:    O.FRANGE 289
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Lettre — Femme — Archives de Frangé
+tm:       219829
+source:   https://papyri.info/ddbdp/o.frange;;289
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [ⲁⲛⲟⲕ] ⲧⲉⲓⲁⲧϣⲁⲩ
+r.2    [ⲧⲥⲓⲉ ⲉⲓⲥϩ]ⲁⲓ ⲉⲓϣⲓⲛⲉ
+r.3    [ϥⲣⲁⲅⲅⲉ ϩⲙ] ⲡϫⲟⲉⲓⲥ
+
+[TRANSLATION]
+1     
+2     
+3     

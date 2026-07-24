@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 12.1426
+label:    P.Oxy. 12.1426
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     332 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (332 CE)
+# hgv-keywords: Bestimmung einer Person zum Arbeiter an Trajans Fluß (Kanal)
+tm:       21832
+source:   https://papyri.info/ddbdp/p.oxy;12;1426
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    ὑπατ[ε]ί[α]ς Παπίου Πακατιανοῦ τοῦ
+r.2    λαμπροτάτου ἐπάρχου καὶ Μαικιλίου Ἱλαριανοῦ.
+r.3    Φλαουίῳ Ἑρμείᾳ λογιστῇ καὶ Αὐρηλίῳ
+r.4    Ἀχιλλίωνι ἐκδίκῳ καὶ Πτολεμίῳ στρατηγῷ Ὀξυρυγχίτου
+r.5    παρὰ Αὐρηλίων Ἡρᾶ Σ … τρος κωμάρχου
+r.6    Σαδάλου καὶ Φιλιστίου Δι[ον]υσίου κωμάρχου
+r.7    Νίγρου β πάγου. δίδομεν τῷ ἰδίῳ ἡμῶν
+r.8    [κι]νδύνῳ τὸν ἐπιμερισθέντα ταῖς
+r.9    [κ]ώμαις ἡμῶν ἐργάτην τῶν ἀποσ[τ]ελλομένων ἐπὶ τὸν Τραιανὸν ποτα[μ]ὸν ἐπὶ τῷ αὐτὸν κατελθεῖν καὶ
+r.10   [τ]ὴν χώραν ἀποπληρῶσαι μὴ ἀπο[λι]μπανόμε[ν]ον ἄχρις ἂν ἀπολυθῇ,
+r.11   ὃν καὶ ἐγ γυώμεθα ἑκουσίᾳ γνώμῃ
+r.12   ἐκτελοῦντα τὴν χρείαν εἰς τὸ ἐν μηδενὶ μεμφθῆναι. ἔστι δὲ Α[ὐρήλιος]
+r.13   Ἁτρῆς Φαβούλου
+r.14   ἀπὸ κώμης Νί[γ]ρου
+r.15   ὡ[ς] ἐτῶν …
+
+[TRANSLATION]
+# HGV-EN: In the consulship of Ulpius Pacatianus, the most illustrious praefect, and Maecilius Hilarianus. To Flavius Hermias, logistes, and Aurelius Achillion, defensor, and Ptolemius, scribe, of the Oxyrhynchite nome, from Aurelius Heras son of S..., comarch of Sadalou, and Aurelius Philistius son of Dionysius, comarch of Nigrou, in the 2nd pagus. We present at our own risk the workman apportioned to our villages out of those to be sent to Trajan’s river, on the understanding that he is to make the journey and fill the post without deserting it before he is discharged, and we are sureties of our own free will for his performance of the duties to complete satisfaction. His name is Aurelius Hatres son of Fabulus, of the village of Nigrou, aged about ... years ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

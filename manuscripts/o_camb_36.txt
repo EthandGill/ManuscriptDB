@@ -1,0 +1,30 @@
+[META]
+id:       O.CAMB 36
+label:    O.CAMB 36
+name:     Receipt — Theben
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (120 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       73515
+source:   https://papyri.info/ddbdp/o.camb;;36
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Ἀπολλ]όδωρος πράκτωρ ἀργυρικῶν …
+r.2    … υ Α … ω. ἔσχον ὑπὲρ χωματικοῦ
+r.3    [καὶ ἄλλων] Χάρακος δ ἔτους ῥυπαρὰς δραχμὰς ἑπτὰ πεντώβολον χαλκοῦς 2 γίνονται ῥυπαραὶ
+r.4    [δραχμαὶ ζ] πεντώβολον χαλκοῖ 2. ἔτους δ Ἁδριανοῦ Καίσαρος
+r.5    τοῦ κυρίου Ἐπεὶφ κθ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

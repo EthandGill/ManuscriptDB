@@ -1,0 +1,44 @@
+[META]
+id:       BGU 1.347
+label:    BGU 1.347
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     171 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (171 CE)
+# hgv-keywords: Kopie eines Antrags auf Beschneidung
+tm:       9070
+source:   https://papyri.info/ddbdp/bgu;1;347
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἄλλου ὑπομνηματισμῶν. Ἁρπαγάθο[υ] Πα[κύ]σιος
+r.2    ἔτους ια Τῦβι κη. ἐν Μέμφει ἠσπάσα[το τὸ]ν λαμπρότατ[ον]
+r.3    ἡγεμόνα καὶ μετὰ ταῦτα πρὸς τῷ Ἀπ[είῳ] Ἁρπαγάθου
+r.4    Πακύσιος προσαγαγόντος υἱὸν ἑα[υτο]ῦ Πακῦσιν κα[ὶ]
+r.5    ἀξιώσαντος ἐπιτραπῆναι περιτεμ[ε]ῖν αὐτὸν ἀναδόντος τε [τ]ὴν γραφεῖσαν [ἐ]πιστολ[ὴν] ὑπὸ Σα[ρ]απίωνος στρατη[γ]οῦ Ἀρσινοίτου Ἡρακλείδου μερίδος δ[ι]ὰ Ἀλεξάνδρου
+r.6    γυμνασιάρχου διαδεχομένου τ[ὴ]ν στρατ[η]γί[α]ν,
+r.7    κεχρονισμένην εἰς τὸ διεληλυθὸ[ς ι] ἔτους Φαρμοῦθι ιϛ
+r.8    Σερηνιανὸς ἐπύθετο τῶν παρόν[τω]ν κορυφαίων
+r.9    καὶ ὑπο[κορ]υφαίων καὶ ἱερογραμ[μα]τέων, [εἰ] σημ[εῖ]όν τι ἔχοι ὁ παῖς. εἰπόντων ἄση[μο]ν αὐτὸν εἶν[αι]
+r.10   Σερηνιαν[ὸ]ς ἀρχιερεὺς καὶ ἐπὶ τῶ[ν ἱ]ερῶν σημειωσάμενος τὴν ἐπιστολὴν ἐκέλευ[σ]εν τὸν [παῖ]δα
+r.11   περιτμηθῆναι κατὰ τὸ ἔθος. [ἀν]έγνων.
+
+[TRANSLATION]
+# HGV-EN: (Copy) of another (protocol) of the minutes, (with respect to) Harpagathes, son of Pa[ky]sis. Year 11, Tyb[i] 28. In Memphis. He saluted the prefect, vir clarissimus, and after that, as he held audience at the temple of Apis Harpagathes, son of Pakysis having presented his own son Pakysis and having requested that permission be given to circumcise him and having submitted a letter written concerning him by Sa[r]apion, strategos of the Arsinoite nome, Herakleides division, through Alexandros, ex-gymnasiarch, who was administering the office of the strategos, dated to the past year 10 Pharmouthi 16, Serenianus enquired of the coryphaei and sub-coryphaei and keepers of the sacred records who were present, whether the boy had any blemish. Upon their saying that he was without a blemish Serenian[u]s, high-priest and minister for the temple administration, by appending his signature to the letter gave permission for the boy to be circumcised in accordance with custom. I have read this.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

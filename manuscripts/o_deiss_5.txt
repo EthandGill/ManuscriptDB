@@ -1,0 +1,34 @@
+[META]
+id:       O.DEISS 5
+label:    O.DEISS 5
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     119 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     Sydney
+shelf:    
+content:  Receipt from Apollonopolis (119 BCE)
+# hgv-keywords: Quittung — Bank — Steuern
+tm:       73818
+source:   https://papyri.info/ddbdp/o.deiss;;5
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους νβ Θώυθ. τέτακται ἐπὶ τὴν ἐν Ἀπολλωνος πόλει
+r.2    τῇ μεγάλῃ τράπεζαν ἀπομοίρας τοῦ αὐτοῦ ἔτους
+r.3    Ἀπολλοφάνης Ἀπολλωνίου … αν … τουφ … ο
+r.4    τρισχιλίας ἐνακοσίας ξε
+r.5    γίνονται Γϡξε, ἐπαρουρίου τοῦ αὐτοῦ ἔτους
+r.6    χιλίας ἑκατὸν τεσσαράκοντα γίνονται Αρμ.
+r.7    Χαρμογένης τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 2.284
+label:    O.EDFOU 2.284
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     115 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (115 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74298
+source:   https://papyri.info/ddbdp/o.edfou;2;284
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ἀρσοῦς Σωστράτου
+r.2    ἰουδαίου ιη ἔτους Τραιανοῦ
+r.3    τοῦ κυρίου δραχμὰς δ πεντώβολον
+r.4    ἔτους ιη Μεχεὶρ κϛ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

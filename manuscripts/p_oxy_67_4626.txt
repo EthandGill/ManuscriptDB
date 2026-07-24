@@ -1,0 +1,54 @@
+[META]
+id:       P.Oxy. 67.4626
+label:    P.Oxy. 67.4626
+name:     Letter — Oxyrhynchites
+genre:    letters
+date:     259 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Letter from Oxyrhynchites (259 CE)
+# hgv-keywords: Brief (privat) — Neilos an Thalia — Käse — Oliven
+tm:       78665
+source:   https://papyri.info/ddbdp/p.oxy;67;4626
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Νῖλος Θαλείᾳ χαίρειν.
+r.2    ἐκομισάμην τὰ τυρία διʼ Ἀντωνίνου,
+r.3    καὶ ἀναγνοῦσα τὴν ἐσφραγισμένην
+r.4    ἐπιστολὴν γνώσει ὡς ἐλυπούμην.
+r.5    ν[ῦν δ]έ, [γ]ράψας ὅ τι ἦν πρὸ μηνῶν δύο,
+r.6    γράφεις, ἐκομισάμην σου ἕτερα γράμματα
+r.7    ὅπου [οὐδ]ὲν γράφεις. ταῦτʼ οὖν παρῴχηται.
+r.8    ἐὰν γὰρ ε[ὕ]ρω τινὰ γνήσιον, πεμφθήσεταί
+r.9    σοι. πᾶν δὲ ποίησον πέμψαι μοι καὶ τὰς
+r.10   ἐλαίας. [π]ε[ρ]ὶ ὧν χρῄζεις γράφε μοι εἰδυῖα
+r.11   [ὅ]τι οὐκ ἀμελῶ. τὸν καλὸν Ἀγαθόποδα ἀσπάσαι καὶ εἰ κ[αὶ ] αὐτὸς ἡμῖν οὐ γράφει.
+r.12   [ἐ]ρρῶσθαί σε εὔχομαι, κυρία μου
+r.13   ἀδελφή.
+r.14   τὸν καλὸν Ἀγαθὸν [Δ]αίμονα ἀσπάζου. μάθε τὴν
+r.15   σπουδὴν ἣν πεποίη[ται] τῇ φί[λ]ῃ σου μηδὲν ἀναλωσάσῃ.
+r.16   Θαλείᾳ Νῖλος
+
+[TRANSLATION]
+# HGV-EN: Nilus to Thalia greetings. I received the small cheeses via Antoninus; when you read my sealed letter you will know how distressed I was. But now, although I wrote what the matter was two months ago, you write “I have received other letters from you in which you write nothing.” Well, this is all in the past. For if I find someone reliable, it will be sent to you. Do your best to send me the olives also. Regarding what you need, write to me, knowing that I am not neglectful. Greetings to the excellent Agathopous, even if he too(?) does not write to us. I pray for your health, my lady sister. Greet the excellent Agathus Daemon. Know the care which he has taken of your lady friend although she has spent nothing. To Thalia Nilus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

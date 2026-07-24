@@ -1,0 +1,34 @@
+[META]
+id:       PYLON 4.5_1
+label:    PYLON 4.5_1
+name:     Receipt — Ankyron (Herakleopolites)
+genre:    receipts
+date:     151 CE – 250 CE
+language: Greek (Koiné)
+found:    Ankyron (Herakleopolites)
+held:     Heidelberg
+shelf:    
+content:  Receipt from Ankyron (Herakleopolites) (151 CE – 250 CE)
+# hgv-keywords: Quittung — Beneficiarius — Lohn — Geld
+tm:       987701
+source:   https://papyri.info/ddbdp/pylon;4;5_1
+lat:      28.766518
+lon:      30.916624
+
+[GREEK]
+r.1    … ς Γε … β[ε]νεφικιαρίῳ πλεῖστα
+r.2    χαίρειν.
+r.3    [κόμισαι] παρὰ Ἑρμίνου κουράτορος ἐκ τοῦ
+r.4    … ὀψωνίου καὶ τοῦ δωνατίβου μου
+r.5    … είληφα παρὰ σοῦ εἰς χρῆσιν ε …
+r.6    … ἀργυρίου δραχμὰς τ …
+
+[TRANSLATION]
+# HGV-EN: NN to Ge…, beneficiarius, many greetings. [Receive] from Herminos, curator from my … stipendium and donativum [the x] silver drachmas [which] I received from you [as the principal (?)] for [an interest-bearing (?)] loan …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.28
+label:    O.STRAS 1.28
+name:     Receipt — Diospolis Magna (Theben)
+genre:    receipts
+date:     100 BCE
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     
+shelf:    
+content:  Receipt from Diospolis Magna (Theben) (100 BCE)
+# hgv-keywords: Quittung — Steuern — Bank — Geld
+tm:       43482
+source:   https://papyri.info/ddbdp/o.stras;1;28
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    ἔτους ιδ Παῦνι κβ τέτακται ἐπὶ τὴν ἐν
+r.2    Διὸς πόλει τῆι μεγάληι τράπεζαν ἀπομοίρας ιδ ἔτους
+r.3    Κρητυλλίων Σποκείους
+r.4    καὶ οἱ ἀδελφοὶ τάλαντον ἓν γίνονται τάλαντον α
+r.5    τάλαντον α χ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

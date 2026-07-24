@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 49.3517
+label:    P.Oxy. 49.3517
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     260 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (260 CE)
+# hgv-keywords: Zahlungsanweisung (Wein) — Beschwerde eines οἰνογεύστης — neue Lieferung
+tm:       45257
+source:   https://papyri.info/ddbdp/p.oxy;49;3517
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Νεμεσιανὸς Σεουήρῳ χαίρειν.
+r.2    ὁ οἰνογεύστης μετέδωκεν τὰ τῆς Εὐβοίας
+r.3    οἰνάρια ἀνεπιτήδεια εἶναι· ἀπὸ τούτων οὖν
+r.4    ἀνάπεμψον διὰ Ἁράχθου ναυτικοῦ κεράμια
+r.5    διακόσια πεντήκοντα, γίνονται κεράμια σν.
+r.6    ἔρρωσο καὶ ἀνάπεμψον τὰ τοῦ οἴνου
+r.7    κεράμια διακόσια πεντήκοντα, γίνονται κεράμια σν.
+r.8    ἔτους ζ Παχὼν λ.
+
+[TRANSLATION]
+# HGV-EN: Nemesianus to Severus, greetings. The winetaster has declared the Euboean wine to be unsuitable; so from this send up two hundred and fifty keramia with the boatman Harachthes. (2nd hand) Farewell and send up the two hundred and fifty keramia of wine, that is 250 keramia 30 Pachon of the 7th year. (S.A. Stephens)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

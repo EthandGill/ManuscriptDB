@@ -1,0 +1,32 @@
+[META]
+id:       O.LEID 185
+label:    O.LEID 185
+name:     Receipt — Theben
+genre:    receipts
+date:     16 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (16 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       24740
+source:   https://papyri.info/ddbdp/o.leid;;185
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιδ Καίσαρος Ἐπεὶφ η,
+r.2    κατέβαλεν εἰς θησαυρὸν Μῶρος Διοδότου
+r.3    κληρονόμος πυροῦ ἀρτάβας ἑπτά, γίνονται πυροῦ ἀρτάβαι ζ.
+r.4    Ἴακρος ἐπηκολούθηκα πυροῦ ἀρτάβας
+r.5    ἑπτά, γίνονται πυροῦ ἀρτάβαι ζ. ἔτους ιδ Ἐπεὶφ η.
+
+[TRANSLATION]
+# HGV-EN: (Translation: O. Leid. 185 ) Year 14 of Caesar, Epeiph 8. Moros the heir of Diodotos has paid to the granary seven artabas of wheat, that is, 7 artabas wheat. I, Iakros, have verified seven artabas of wheat, that is, 7 artabas wheat. Year 14, Epeiph 8.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

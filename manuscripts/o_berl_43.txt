@@ -1,0 +1,30 @@
+[META]
+id:       O.BERL 43
+label:    O.BERL 43
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     149 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     
+shelf:    
+content:  Receipt from Theben (Ägypten) (149 CE)
+# hgv-keywords: Quittung — Steuer (Geometria)
+tm:       24435
+source:   https://papyri.info/ddbdp/o.berl;;43
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ταύρων πράκτωρ ἀργυρικῶν Χάρακος.
+r.2    Φθουμώνθης Πετεμενώφιος ἔσχον
+r.3    ὑπὲρ γεωμετρίας ιβ ἔτους δραχμὰς δύο, γίνονται δραχμαὶ β.
+r.4    ἔτους ιβ Ἀντωνίνου Καίσαρος
+r.5    τοῦ κυρίου Μεσορὴ κε. ἐσημειωσάμην.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

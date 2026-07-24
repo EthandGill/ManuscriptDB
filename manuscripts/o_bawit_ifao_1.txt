@@ -1,0 +1,36 @@
+[META]
+id:       O.BAWIT.IFAO 1
+label:    O.BAWIT.IFAO 1
+name:     Documentary papyrus — Bawit (Hermopolites)
+genre:    documents
+date:     601 CE – 800 CE
+language: Greek (Koiné)
+found:    Bawit (Hermopolites)
+held:     
+shelf:    
+content:  Documentary papyrus from Bawit (Hermopolites) (601 CE – 800 CE)
+# hgv-keywords: Auftrag — den Lagerort einer Lieferung festzustellen und zu bestätigen — Weizen — Arakos
+tm:       80131
+source:   https://papyri.info/ddbdp/o.bawit.ifao;;1
+lat:      27.532343
+lon:      30.72925
+
+[GREEK]
+r.1    ϣⲓⲛⲉ ⲛⲥⲁ ϫⲟⲩⲧⲁϥⲧⲉ ⲛϭⲟⲟⲩⲛⲉ
+r.2    ⲛⲥⲟⲩⲟ ⲙⲛ ⲥⲟ ⲛ̇ϭⲟⲟⲩⲛⲉ ⲛἄρακος
+r.3    ⲉⲣⲉ σίτου ἀρτάβαι κδ 𐅷 ϩⲓⲱⲟⲩ ⲙⲛ ἄρακος
+r.4    ἀρτάβαι ζ ἀθετήσιμοι ⲛⲧⲉ ⲕⲁⲛ̇ⲃⲟⲟⲩⲥⲉ ⲛⲙⲁⲕⲁⲣⲉ ⲙⲛ σίτου ἀρτάβαι η ⲛⲧⲉ ⲕⲁⲛⲃⲟⲟⲩⲥⲉ
+r.5    ⲛⲁⲃⲣⲁϩⲁⲙ γίνεται σίτου θαλλία κδ καὶ ἄρακος
+r.6    θαλλία ϛ σίτου ἀρτάβαι κδ 𐅷 καὶ ἄρακος
+r.7    ἀρτάβαι ζ Ἐπὶφ κα ἰνδικτίωνος ιβ α φορά
+r.8    ϩⲓⲧⲛ ⲡⲉⲧⲣⲟⲥ πιστικός
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

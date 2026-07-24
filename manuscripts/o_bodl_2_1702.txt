@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1702
+label:    O.BODL 2.1702
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     11 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (11 BCE)
+# hgv-keywords: Anweisung — Lieferung — Getreide
+tm:       72386
+source:   https://papyri.info/ddbdp/o.bodl;2;1702
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀπολλόδωρ[ο]ς Ἀπίωνος
+r.2    σπερμάτων κ ἔτους Καίσαρος Νήσου Πουανεμούνεως
+r.3    πυροῦ ἀρούρας λα δ.
+r.4    Πανίσκος ὁ παρὰ Σωσιβίου βασιλικοῦ ἐπηκολούθηκα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

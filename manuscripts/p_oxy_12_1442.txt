@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 12.1442
+label:    P.Oxy. 12.1442
+name:     Receipt — Ibion Chysis (Oxyrhynchites)
+genre:    receipts
+date:     252 CE
+language: Greek (Koiné)
+found:    Ibion Chysis (Oxyrhynchites)
+held:     
+shelf:    
+content:  Receipt from Ibion Chysis (Oxyrhynchites) (252 CE)
+# hgv-keywords: Quittung — Ein - Drachmen - und Zwei - Drachmen - Steuer für Land (?) — Geld — Zahlung einer Frau
+tm:       21845
+source:   https://papyri.info/ddbdp/p.oxy;12;1442
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    β ἔτους τῶν κυρίων ἡμῶν Γάλλου καὶ Οὐολουσιανοῦ
+r.2    Καισ[ά]ρων Σεβαστῶν Φαρμοῦθι η. Ἰβιῶνος Χύσεως
+r.3    ὑπὲρ β δραχμῶν καὶ α δραχμῆς τοῦ αὐτοῦ β ἔτους Αὐρηλία Μαξίμα Ἀμμωνίου [ἀσ]τὴ δραχμὰς τριάκοντα ἕξ, γίνονται δραχμαὶ λϛ. Αὐρήλιος Τριάδελφος
+r.4    ὁ καὶ Σαραπίων γυμνασιαρχήσας καὶ ὡς χρηματίζω δεκάπρωτος δραχμὰς τριάκοντα ἓξ σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: The 2nd year of our lords Gallus and Volusianus, Caesars Augusti, Pharmouthi 8, at Ibion Chuseos for the 2 drachmae and 1 drachma taxes of the said 2nd year Aurelia Maxima daughter of Ammonius, citizen, (paid) 36 drachmae, total 36 dr. I, Aurelius Triadelphus also called Sarapion, ex-gymnasiarch, and however I am styled, decaprotus, have signed for 36 drachmae.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     The 2nd year of our lords Gallus and Volusianus.
+2     Caesars Augusti, Pharmouthi 8. At Ibion Chuseos.
+3     For 2 drachmae and 1 drachma of the same 2nd year, Aurelia Maxima daughter of Ammonius, [citi]zen, (paid) thirty-six drachmae, total 36 drachmae. Aurelius Triadelphus.
+4     Also called Sarapion, ex-gymnasiarch, and as I am styled decaprotus, have signed for thirty-six drachmae.

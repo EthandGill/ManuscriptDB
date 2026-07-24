@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 2.850
+label:    O.STRAS 2.850
+name:     Receipt — Theben (Notos)
+genre:    receipts
+date:     141 CE
+language: Greek (Koiné)
+found:    Theben (Notos)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos) (141 CE)
+# hgv-keywords: Quittung — Steuer (Wachtturmsteuer, Wächtersteuer, Umlage der Steuer von Flüchtigen [μερισμὸς ἀνακεχωρηκότων])
+tm:       24400
+source:   https://papyri.info/ddbdp/o.stras;2;850
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἀπολλωνίδης πράκτωρ ἀργυρικῶν Νότου Ψαίτι Σενφθουμώνθου
+r.2    ἔσχον ὑπὲρ σκοπέλων καὶ φυλάκων δ ῥυπαρὰν δραχμὴν μίαν, γίνεται δραχμὴ α καὶ ὑπὲρ
+r.3    μερισμοῦ ἀνακεχωρηκότων β ῥυπαρὰν δραχμὴν μίαν, γίνεται δραχμὴ α. ἔτους δ
+r.4    Ἀντωνείνου Καίσαρος τοῦ κυρίου Ἐπεὶφ ζ.
+r.5    Καροῦρις σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

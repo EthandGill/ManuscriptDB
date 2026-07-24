@@ -1,0 +1,30 @@
+[META]
+id:       O.AMST 7
+label:    O.AMST 7
+name:     Receipt — Diospolis Magna (Theben)
+genre:    receipts
+date:     182 BCE
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     
+shelf:    
+content:  Receipt from Diospolis Magna (Theben) (182 BCE)
+# hgv-keywords: Quittung
+tm:       70355
+source:   https://papyri.info/ddbdp/o.amst;;7
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    ἔτους κγ Μεχὶρ ιϛ παραδέδωκεν εἰς τὸ ἐν Διὸς πόλει
+r.2    Σαραπῖον Φ …
+r.3    ὑπὲρ τῶν ἐν …
+r.4    … ὑπὲρ τοῦ κβ ἔτους
+r.5    εις …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

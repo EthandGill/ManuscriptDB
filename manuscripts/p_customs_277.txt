@@ -1,0 +1,28 @@
+[META]
+id:       P.CUSTOMS 277
+label:    P.CUSTOMS 277
+name:     Receipt — Bakchias (Arsinoites)
+genre:    receipts
+date:     180 CE
+language: Greek (Koiné)
+found:    Bakchias (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Bakchias (Arsinoites) (180 CE)
+# hgv-keywords: Quittung — Torzoll — Esel — Steuer — Erven
+tm:       10625
+source:   https://papyri.info/ddbdp/p.customs;;277
+lat:      29.536946
+lon:      31.0041595
+
+[GREEK]
+r.1    [τ]ετελώνηται διὰ πύλης Βακχιάδος ἑκατοστὸν
+r.2    [κ]αὶ πεντηκοστὸν Σαραπίων
+r.3    [ἐξάγων] ἐπὶ ὄνοις ια ὀρόβου ἀρτάβας
+r.4    … ἔτους κ Φαρμοῦθι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

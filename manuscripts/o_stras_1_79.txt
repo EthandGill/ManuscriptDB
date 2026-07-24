@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.79
+label:    O.STRAS 1.79
+name:     Receipt — Theben
+genre:    receipts
+date:     55 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (55 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75679
+source:   https://papyri.info/ddbdp/o.stras;1;79
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Μα … ὑπὲρ χωμάτων α ἔτους α … ξ … ἑπτὰ ὀβολοὺς δ 𐅵 γίνονται δραχμαὶ ζ
+r.2    ὀβολοὶ δ 𐅵 καὶ τούτων προσδιαγραφόμενα. ἔτους β Νέρωνος
+r.3    Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.4    Αὐτοκράτορος Φαῶφι κε. Βάσσος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

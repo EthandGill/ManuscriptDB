@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 307
+label:    O.PETR.MUS 307
+name:     Receipt — Theben
+genre:    receipts
+date:     38 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (38 CE)
+# hgv-keywords: Quittung — Steuer (Deichsteuer, Badesteuer)
+tm:       77708
+source:   https://papyri.info/ddbdp/o.petr.mus;;307
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Ψεναμοῦνις Χεσθώτου ὑπὲρ
+r.2    χωματικοῦ β ἔτους δραχμὰς πέντε δυώβολον καὶ βαλανευτικοῦ τετρώβολον ἡμιωβέλιον
+r.3    γίνονται δραχμαὶ ϛ ἡμιωβέλιον καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου ἔτους γ Γαίου
+r.4    Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.5    Σεβαστοῦ λδ Πετεμενῶφις τραπεζίτης
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

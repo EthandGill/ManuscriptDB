@@ -1,0 +1,54 @@
+[META]
+id:       P.PETR.KLEON 34
+label:    P.PETR.KLEON 34
+name:     Documentary papyrus — Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+genre:    documents
+date:     260 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+held:     Dublin
+shelf:    
+content:  Documentary papyrus from Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob (260 BCE – 249 BCE)
+# hgv-keywords: Bericht (?) — Bewässerung
+tm:       7451
+source:   https://papyri.info/ddbdp/p.petr.kleon;;34
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [ὁ δεῖνα Κλέωνι χαίρειν.]
+r.2    [ἧς γέγραφεν ἡμῖν]
+r.3    [Θρά]συλλος [ἐπιστολῆς]
+r.4    πέπομφά σοι τ[ὸ ἀντίγραφον.]
+r.5    ἀνοιχθήτω οὖν ἡ θύρα ὅπ[ως]
+r.6    ἡ ἐν Θεογενίδι γῆ ποτισθῆι τὸ
+r.7    τάχος. ἔρρω[σο] …
+r.8    Θράσυλλος [τῶι δεῖνι χαίρειν.]
+r.9    διὰ τὸ ἐκ τ[ῶν ἐν Πτολεμαίδι]
+r.10   κατακλείδων βρά[δεως τὸ ὕδωρ]
+r.11   ἐπιρρεῖν τὸ ἐκ τῆς με[γάλης διώ]ρυγος, ἀπέστρεψα εἰς τὴν ὑπώρειον και … , ἐν τῆι μεγάληι δὲ διώρυγι τὰ π … . ρι … ὑπὸ δύο
+r.12   … ἐμ Πτολεμαίδι ἀνεῶιχθαι
+r.13   καὶ οὐχ ἱκανόν μοι γίνεται
+r.14   τὸ νῦν ἐπίρρεον. καλῶς ἂν οὖν
+r.15   [ποιήσαις γρά]ψ[ας] Κλέωνι ἤδη
+r.16   … ασαι.
+
+[TRANSLATION]
+# HGV-EN: [NN to Kleon, greetings.] I have sent you [a copy of the letter which Thra]syllos [has written to us]. The sluice gate has to be opened so that the land in Theogenis may be irrigated as quickly as possible. Farewell. Thrasyllos to [NN], greetings. [...]. Because the water from the great canal coming from the locks in Ptolemais flows through slowly, I have diverted it to the desert canal [...]. In the great canal the [...] beneath two/by two [...] in Ptolemais has been opened and what is now flowing through, is not sufficient for me. Please, write immediately to Kleon to [...].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

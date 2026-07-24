@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.191
+label:    O.EDFOU 1.191
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     164 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (164 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74229
+source:   https://papyri.info/ddbdp/o.edfou;1;191
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [διέγραψεν] Πανιβῆκις
+r.2    [Σενπεασμῦς ][Ἀχ]ιλλᾶτος Ῥούφου μερισμοῦ δ ἔτους
+r.3    [Αὐρηλίω]ν Ἀντωνίνου καὶ Οὐήρου τῶν κυρίων
+r.4    Σεβαστῶν δραχμὰς δ γίνονται δραχμαὶ δ ἔτους δ Μεσορὴ ε
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

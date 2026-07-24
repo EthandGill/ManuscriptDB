@@ -1,0 +1,28 @@
+[META]
+id:       O.CLAUD 1.6
+label:    O.CLAUD 1.6
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     110 CE – 111 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (110 CE – 111 CE)
+# hgv-keywords: Quittung
+tm:       24019
+source:   https://papyri.info/ddbdp/o.claud;1;6
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ἀφροδίσιος …
+r.2    Ἀλκίμῳ βοηθῷ [Μαγίου]
+r.3    κιβαριάτου χαίρ[ειν. ἔχω]
+r.4    ὑπὲρ ἀνδρῶν …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,26 @@
+[META]
+id:       P.REIN 2.127
+label:    P.REIN 2.127
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     114 BCE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     
+shelf:    
+content:  Receipt from Hermonthis (114 BCE)
+# hgv-keywords: Quittung — Bank — Abgabe (Krämer)
+tm:       5278
+source:   https://papyri.info/ddbdp/p.rein;2;127
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    ἔτους γ Παχὼν ιθ. τέτακται ἐπὶ τὴν
+r.2    ἐν Ἑρμώνθει τράπεζαν παντοπωλῶν Μεμνονείων τοῦ αὐτοῦ ἔτους Θερμοῦθις
+r.3    τρισχιλίας δραχμὰς Γ δραχμαὶ Γχ
+
+[TRANSLATION]
+1     
+2     
+3     

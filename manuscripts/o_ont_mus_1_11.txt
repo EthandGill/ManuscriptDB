@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 1.11
+label:    O.ONT.MUS 1.11
+name:     Receipt — Theben
+genre:    receipts
+date:     86 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (86 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75033
+source:   https://papyri.info/ddbdp/o.ont.mus;1;11
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Ὧρος Θοτεῦτος Ψεναμούνιος
+r.2    ὑπὲρ λαογραφίας Χάρακος ε ἔτους δραχμὰς ι ἄλλων α ὀβολὸν α 𐅵 καὶ προσδιαγραφόμενα ἔτους ε
+r.3    Δομιτιανοῦ τοῦ κυρίου
+r.4    Φαρμοῦθι κθ Πτολεμαῖος σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

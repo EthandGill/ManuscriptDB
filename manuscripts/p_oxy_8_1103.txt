@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 8.1103
+label:    P.Oxy. 8.1103
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     360 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (360 CE)
+# hgv-keywords: Protokoll einer Sitzung der βουλή (Streit um Zahlung von Sold)
+tm:       21728
+source:   https://papyri.info/ddbdp/p.oxy;8;1103
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    μετὰ τὴν ὑπατείαν Φλαουίων Εὐσεβίου καὶ Ὑπατείου τῶν λαμπροτάτων
+r.2    Μεχεὶρ ιζ, βουλῆς οὔσης, πρυτανίας Ἀσκληπιάδου Ἀχιλλέως γυμνασιάρχου βουλευτοῦ,
+r.3    Εὐτρύγιος ἀπὸ λογιστῶν εἶπεν· τῆς ἐξουσίας τοῦ κυρίου μου τοῦ λαμπροτάτου δουκὸς Φλαουίου Ἀρτεμίου
+r.4    εὐτυχῶς ἐπιδημησάσης τοῖς αὐτόθι ἀνεδιδάξαμεν αὐτοῦ τὴν ἀρετὴν ὡς τῶν
+r.5    νεολέκτων τῶν στρατευθέντων ὑφʼ ἡμῶν ἐκ παραλογισμοῦ ἀνενεγ κόντων
+r.6    ὡς μὴ πληρωθέντων τοῦ συνφώνου τοῦ πρὸς αὐτούς, καὶ ὅτι φθάσαντες
+r.7    ἡμεῖς ἐπληρώσαμεν αὐτοὺς οὐ μόνον τοῦ ὁρισθέντος ἀπὸ τοῦ ταμείου δοθῆναι
+r.8    αὐτοῖς ἀλλὰ κ[αὶ] διάπεισμα ἄλλο, καὶ προσέλαβεν αὐτοῦ τὸ μεγαλεῖον
+
+[TRANSLATION]
+# HGV-EN: The year after the consulship of Flavius Eusebius and Flavius Hypatius the most illustrious, Mecheir 17. At a meeting of the senate, the prytanis being Asclepiades son of Achilleus, ex-gymnasiarch and senator, Eutrygius, ex-logistes, said: His highness my lord the most illustrious dux, Flavius Artemius, having auspiciously made a visit here, we advised his excellency that the new levies raised by us for military service had falsely represented themselves as not having received the sum agreed upon with them, and that we had previously paid them not only the amount fixed upon by the treasury but a further consideration; and his highness accepted [this statement].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

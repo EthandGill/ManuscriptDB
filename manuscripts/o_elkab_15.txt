@@ -1,0 +1,28 @@
+[META]
+id:       O.ELKAB 15
+label:    O.ELKAB 15
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     38 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (38 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24467
+source:   https://papyri.info/ddbdp/o.elkab;;15
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    [ἔτους] γ Γαίου Καίσαρος Σεβαστοῦ
+r.2    Γερμανικοῦ Θὼτ δ. διέγραψε
+r.3    [Π]ετεῆσις Ἁρμι[ύσιο]ς ὑπὲρ γεωμετρίας
+r.4    … λθ δραχμὰς δ, καὶ τοὺς ἀδελφοὺς
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

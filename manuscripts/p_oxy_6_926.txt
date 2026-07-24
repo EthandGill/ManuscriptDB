@@ -1,0 +1,32 @@
+[META]
+id:       P.Oxy. 6.926
+label:    P.Oxy. 6.926
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (201 CE – 300 CE)
+# hgv-keywords: Brief (privat) — Heratheon an NN — Einladung zu einem Essen (Fest) anläßlich einer Epikrisis
+tm:       31320
+source:   https://papyri.info/ddbdp/p.oxy;6;926
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    καλεῖ σε Ἡραθέων
+r.2    δειπνῆσαι εἰς τὴν ἐπίκρισιν αὑτοῦ ἐν τῇ οἰκίᾳ αὑτ[ο]ῦ αὔριον ἥτις
+r.3    ἐστὶν ε ἀπὸ ὥρας [θ .]
+r.4    Χαιράμμωνι
+r.5    Ἠλασίου.
+
+[TRANSLATION]
+# HGV-EN: Heratheon invites you to dine with him, on the occasion of his examination, at his house to-morrow, the 5th, at the 9th hour.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,36 @@
+[META]
+id:       O.HEID 153
+label:    O.HEID 153
+name:     Receipt — Theben
+genre:    receipts
+date:     55 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (55 CE)
+# hgv-keywords: Quittung — Steuer (Deichsteuer, Badesteuer)
+tm:       80376
+source:   https://papyri.info/ddbdp/o.heid;;153
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Πετεμενῶφ[ις ] …
+r.2    ὑπὲρ χωματικοῦ α [ἔτους] δραχμὰς
+r.3    ϛ τετρώβολον, βαλανευτικοῦ 4 12 ὀβολοὺς,
+r.4    γίνονται ζ 2 12 ὀβολοὶ, καὶ τ[ούτων]
+r.5    προσδιαγραφόμενα. ἔτους β Νέρωνος Κλαυδίου
+r.6    Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.7    Αὐτοκράτορος Φαῶφι κϛ. Βάσσος
+r.8    σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

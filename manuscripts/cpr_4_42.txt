@@ -1,0 +1,32 @@
+[META]
+id:       CPR 4.42
+label:    CPR 4.42
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     701 CE – 800 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (701 CE – 800 CE)
+# hgv-keywords: Contrat de livraison de blé (vente à terme?)
+tm:       44498
+source:   https://papyri.info/ddbdp/cpr;4;42
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … ⲁⲛⲁⲕ … [ⲡϣ]ⲏ ⲛⲅⲉⲱⲣⲅⲓ ⲡⲁ ⲛⲉⲕⲁⲗ … ⲃ …
+r.2    … [ⲗ]ⲉⲓⲥⲩⲙⲁⲭ … ⲥϩ ⲡⲁ ⲡⲓϣⲁⲉⲓ ϫⲉ ϩⲉⲓⲧ …
+r.3    … ⲉ … ⲉⲧϣ … [ϩ]ⲓϫⲱ ⲥⲟⲩⲁ κατὰ σίτου ἀρτάβας θ 𐅵 α ϩⲉ ⲧⲁ
+r.4    … ⲧⲓⲛⲟⲥ ⲧ … [ⲡ]ⲟⲩⲱϣ ⲉⲡⲛⲟⲩⲧⲓ … Παυνι …
+r.5    … ⲡ … ⲧⲟⲣⲓ ⲛⲉⲓⲥⲟⲩⲁ ϣ …
+r.6    … [ⲛ]ⲁⲧ[ⲗⲁⲁⲩ ⲛ] ἀμφιβολία ἐγράφη μηνὶ Μεχειρ κ … ἰ[νδικτίονος] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

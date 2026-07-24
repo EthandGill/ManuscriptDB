@@ -1,0 +1,26 @@
+[META]
+id:       STUD.PAL 8.870
+label:    STUD.PAL 8.870
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (601 CE – 700 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       39483
+source:   https://papyri.info/ddbdp/stud.pal;8;870
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [παρέσχε] Ἰωάννης Νααραῦ ἀπὸ χωρίου Φαμει
+r.2    ὑπὲρ καταβολῆς … ἰνδικτίονος φόρου δημοσίου ἰνδικτίονος ιγ
+r.3    διὰ Ἄπα Ἰουλίου Φυλ κεράτια …
+
+[TRANSLATION]
+1     
+2     
+3     

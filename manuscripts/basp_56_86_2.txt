@@ -1,0 +1,32 @@
+[META]
+id:       BASP 56.86_2
+label:    BASP 56.86_2
+name:     Receipt — Abydos
+genre:    receipts
+date:     94 CE
+language: Greek (Koiné)
+found:    Abydos
+held:     London
+shelf:    
+content:  Receipt from Abydos (94 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       392589
+source:   https://papyri.info/ddbdp/basp;56;86_2
+lat:      26.185099
+lon:      31.917622
+
+[GREEK]
+r.1    χωµατικοῦ ιγ ἔτους Ἀβύδου
+r.2    Πετερµοῦθις Ἁρσιήσιος
+r.3    τοῦ Ἁροννώφριος δραχμὰς ἕξ τετρώβολον, γίνονται δραχμαὶ ϛ τετρώβολον.
+r.4    ἔτους ιδ Δοµιτιανοῦ
+r.5    τοῦ κυρίου
+r.6    Φαῶφι ιδ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

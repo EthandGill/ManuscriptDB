@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 72
+label:    O.LEID 72
+name:     Receipt — Theben
+genre:    receipts
+date:     56 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (56 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24644
+source:   https://papyri.info/ddbdp/o.leid;;72
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἡρᾶς Πετοβάστιος καὶ
+r.2    μέτοχοι Οὐσορήρει Φατρήου[ς]
+r.3    χαίρειν· ἀπέχομεν τὸ βαλανευτικὸν τοῦ β ἔτους Νέρωνος
+r.4    τοῦ κυρίου Ἐπεὶφ η.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

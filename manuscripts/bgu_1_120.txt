@@ -1,0 +1,52 @@
+[META]
+id:       BGU 1.120
+label:    BGU 1.120
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     189 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (189 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       8897
+source:   https://papyri.info/ddbdp/bgu;1;120
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    Ἀντωνίνου Καίσαρος τοῦ κ[υρίου]
+r.2    κατʼ οἰκίαν ἀπογραφὴν ἐπʼ ἀμφόδου Γυμ[νασίου],
+r.3    ἐφʼ [ο]ὗ καὶ τῇ τοῦ ιδ ἔτους ἀπογραφῇ ἀ[πεγραψάμην]
+r.4    καί εἰσιν Δίδυμος Σαραπίω[νος]
+r.5    [το]ῦ Σουχᾶ μητρὸς Ἑλένης λαογραφούμενος …
+r.6    ἐτῶν κα, καὶ τὴν τούτου γυνα[ῖκα]
+r.7    οὖσαν αὐτοῦ ὁμοπάτριον καὶ ὁμομ[ήτριον]
+r.8    ἀδελφὴν Θερμουθάριον ἐτῶν …
+r.9    καὶ [ἐξ ][ἀ]μφοτέρων τέκνα Κλαύδι[ον]
+r.10   γεν[όμενον τ]ῷ ἐνεστῶ[τι ἔτει], καὶ [ … ]
+r.11   φι … ν … αὐτω …
+r.12   διὸ [ἐπιδίδωμι].
+r.13   ἔτους κθ Αὐρηλίου Κομμόδου
+r.14   Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.15   Μεσορὴ κη.
+
+[TRANSLATION]
+# HGV-EN: – – – [I register – – – for] the house-by-house registration of [year 28 of – – –] Antoninus Caesar, the lord, in the Gym[nasium] quarter, in which [I registered (them) in the registration of year 14 as well], and there are Didymos, son of Sarapio[n], the son of Souchas, mother Helene, subject to poll-tax , 21 years old, and (I register) his wife, who is his sister of the same father and the same mother, Thermoutharion, [x] years old, and the children of both of them, Claudi[us], born in the present year, and . Therefore [I submit (this registration)]. Year 29 of Aurelius Commodus Antoninus Caesar, the lord, Mesore 28.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

@@ -1,0 +1,50 @@
+[META]
+id:       P.LOND 5.1699
+label:    P.LOND 5.1699
+name:     Documentary papyrus — Aphrodites Kome (Antaiopolites)
+genre:    documents
+date:     520 CE
+language: Greek (Koiné)
+found:    Aphrodites Kome (Antaiopolites)
+held:     
+shelf:    
+content:  Documentary papyrus from Aphrodites Kome (Antaiopolites) (520 CE)
+# hgv-keywords: Anerkenntnis — Schuld
+tm:       19716
+source:   https://papyri.info/ddbdp/p.lond;5;1699
+lat:      26.9528190683
+lon:      31.5960498491
+
+[GREEK]
+r.1    ὑπατείας Φλαυίου Οὐιταλιανοῦ τοῦ λα[μ]προτάτου
+r.2    Μεσορὴ ιη τεσσαρεσ[κα]ιδεκάτης ἰνδικτίονος.
+r.3    Αὐρήλιος Βη[σαρίων] ἐκ πατρὸς [Διο]σκόρου
+r.4    ἀπὸ κώμης Ἀφροδίτης τοῦ Ἀνταιοπολίτου νομοῦ
+r.5    Αὐρηλίῳ … [υ]ἱῷ Μουσαίου ἐλαιουργῷ
+r.6    ἀπὸ τῆς αὐτῆς κώμης χ[α]ίρειν. ὁμολογῶ ὀφ[εί]λειν σοι
+r.7    καὶ χρεωστεῖν ὑπὲρ ἀνακομιδῆς το[ῦ προ]τέρου
+r.8    χειρογράφου μεταξὺ [σοῦ] καὶ [το]ῦ ἐμοῦ ἀδελφοῦ
+r.9    γεγραμμένου σοι παρʼ ἐμοῦ καὶ αὐτοῦ ὑπὲρ τοῦ
+r.10   χρέους τοῦ μακαριωτάτου μου π[ατρὸ]ς Διοσκόρου
+r.11   καὶ Ἑρμαουῶτος θείου μου πρ[ὸ]ς μητρ[ὸς χ]ρεω[σ]τηθέντος σοι παρʼ αὐτῶν περιόντ[ων] σίτου
+r.12   ἀρτάβας τεσσεράκοντα καὶ ὑπὲρ λόγ[ου] [ἀπο]δόσ[εως]
+r.13   [τῶν] δοθέντων μοι π[α]ρ … εντο … γραφέν[το]ς σίτου ἀρ[τά]βας ἓξ γ[ίνονται][ ὁ]μοῦ σί[του][ ἀρτάβαι] μϛ καὶ ταύτας
+r.14   χειρόγραφον Βησαρίωνος καὶ Ἀπολλῶτος.
+
+[TRANSLATION]
+# HGV-EN: ☧ in the consulate of illustrissimus Flavius Vitalianus, 18th of Mesore of the fourteenth indiction. Aurelis Besarion, of the father Dioskoros, from the village of Aphrodite of the Antaiopolite nome, to Aurelius … son of Mousaios, oil dresser, from the same village, greetings. I acknowledge that I owe and I am indebted to you for the return of the earlier cheirographon between you and my brother written for you by me and him for the debt of my deceased father Dioskoros and Hermauos, my maternal uncle, by which it is owed by them while they were alive forty artabae of wheat and on the account of return of given to me by … written seven artabae, there are together 46 artabae of wheat and … cheirographon of Besarion and Apollos
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

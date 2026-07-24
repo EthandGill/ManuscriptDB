@@ -1,0 +1,28 @@
+[META]
+id:       O.EREM 13
+label:    O.EREM 13
+name:     Receipt — Theben
+genre:    receipts
+date:     400 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (400 BCE – 1 BCE)
+# hgv-keywords: Quittung — Steuern (Getreide)
+tm:       2533
+source:   https://papyri.info/ddbdp/o.erem;;13
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ι Μεσορὴ ι μεμέτρηκεν εἰς [τὸ]
+r.2    ι ἔτους Ἀσκληπιάδης
+r.3    Λυσανίου πυροῦ εἴκοσι τέταρτον
+r.4    γίνονται πυροῦ κ δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

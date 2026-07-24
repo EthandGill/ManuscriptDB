@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.246
+label:    O.STRAS 1.246
+name:     Receipt — Theben
+genre:    receipts
+date:     139 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (139 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75843
+source:   https://papyri.info/ddbdp/o.stras;1;246
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φεμῖνις καὶ μέτοχοι ἀπαιτηταὶ μερισμοῦ τέλους
+r.2    ὠνίων Ἀγορᾶς βορρᾶ τοῦ β ἔτους Ἀντωνείνου
+r.3    Καίσαρος τοῦ κυρίου ὀνόματος Φατρῆτος
+r.4    ὁμοίως Φμόιτος. ἔσχομεν ῥυπαρὰς δραχμὰς δύο γίνονται ῥυπαραὶ δραχμαὶ β.
+r.5    ἔτους γ Ἀντωνείνου Καίσαρος τοῦ
+r.6    κυρίου Τῦβι δ. Ὧρος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

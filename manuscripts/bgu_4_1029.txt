@@ -1,0 +1,34 @@
+[META]
+id:       BGU 4.1029
+label:    BGU 4.1029
+name:     Receipt — Theadelphia? (Arsinoites)
+genre:    receipts
+date:     188 CE – 189 CE
+language: Greek (Koiné)
+found:    Theadelphia? (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Theadelphia? (Arsinoites) (188 CE – 189 CE)
+# hgv-keywords: Quittung — Pachtzins — Geld
+tm:       9437
+source:   https://papyri.info/ddbdp/bgu;4;1029
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    Ἥρων Χαίριτος Τούρβωνι Τεπισῶτος
+r.2    χαίρειν.
+r.3    ἔσχον παρὰ σοῦ ὑπὲρ κθ ἔτους ἐκφορίου ἀρτάβας
+r.4    πεντήκοντα γίνονται ν καὶ ὑπὲρ χλωροφόρου δραχμὰς ξδ ὀβολοὺς κ
+r.5    καὶ ὑπὲρ λ ἔτους ὁμοίως ἐκφορίου ἀρτάβας
+r.6    πεντήκοντα γίνονται ν καὶ χλωροφόρου δραχμὰς ξδ [ὀβολοὺς] κ.
+
+[TRANSLATION]
+# HGV-EN: Heron, son of Chairis, to Tourbon, son of Tepisos, greetings. I have received from you for year 29 for rent in kind fifty artabas, = 50 and for (land) bearing green fodder crops 64 drachmas 20 obols and for year 30 likewise for rent in kind fifty artabas, = 50 and for (land) bearing green fodder crops 6[4] drachmas [20 obols].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

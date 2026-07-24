@@ -1,0 +1,30 @@
+[META]
+id:       P.PETR 3.58b
+label:    P.PETR 3.58b
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     243 BCE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (243 BCE)
+# hgv-keywords: Bürgschaft
+tm:       7492
+source:   https://papyri.info/ddbdp/p.petr;3;58b
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους δ δραχμαὶ ι ἀργυρίου
+r.2    ἔτους δ Ἐπεὶφ ιε· ὁμολογεῖ Νίκων Ἀμεννεῖ
+r.3    οἰκονόμωι καὶ Πετοσείρει τοπογραμ[μα]τεῖ ἐγγυᾶσθαι
+r.4    … α … ενιου
+r.5    … φθεντων
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       BGU 16.2567
+label:    BGU 16.2567
+name:     Documentary papyrus — Herakleopolites
+genre:    documents
+date:     5 CE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Documentary papyrus from Herakleopolites (5 CE)
+# hgv-keywords: Auftrag an Polydeukes — Überstellung — Saatgut
+tm:       23289
+source:   https://papyri.info/ddbdp/bgu;16;2567
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    ἔτους λε Καίσαρος Χοιὰκ ϛ
+r.2    Πολυδεύκῃ
+r.3    γραμματ[ε]ῖ. ἐπισταλήτω τὴν προκειμένην πυροῦ
+r.4    ἀρτάβην μίαν γίνεται πυροῦ ἀρτάβη α. ἔτους λε Καίσαρος
+r.5    Χοιὰκ ϛ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

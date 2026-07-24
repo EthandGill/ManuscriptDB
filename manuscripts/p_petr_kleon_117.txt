@@ -1,0 +1,34 @@
+[META]
+id:       P.PETR.KLEON 117
+label:    P.PETR.KLEON 117
+name:     Letter — Fundort: Gurob; Schreibort: Arsinoites
+genre:    letters
+date:     260 BCE – 236 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Letter from Fundort: Gurob; Schreibort: Arsinoites (260 BCE – 236 BCE)
+# hgv-keywords: Brief (?) — Geld — Seil
+tm:       388504
+source:   https://papyri.info/ddbdp/p.petr.kleon;;117
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    ξύλα … [συν]έταξας καὶ σχοινία οὐκ … δ …
+r.2    ἀποστεῖ[λαι ἡμῖν τὸ ἀρ]γύριον καὶ οὐκ ἀπο[στέλλει.]
+r.3    [καλῶ]ς ουν οὖν ποιή[σαις]
+r.4    συν[τάξα]ς χρηματίσαι
+r.5    ἡμῖν ἵνα διαδῶμεν τοῖς
+r.6    … γοις πεπ … ται …
+
+[TRANSLATION]
+# HGV-EN: [...] wood [...] you have given order [...] to send us the money and ropes and he does not send it. Please give order to deliver to us, so that we may distribute to the [...].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

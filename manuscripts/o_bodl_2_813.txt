@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.813
+label:    O.BODL 2.813
+name:     Receipt — Theben
+genre:    receipts
+date:     145 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (145 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71502
+source:   https://papyri.info/ddbdp/o.bodl;2;813
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πικῶς καὶ μέτοχοι ἀπαιτηταὶ λαύρας Χάρακος
+r.2    Πετεχώνσει Πικῶτος Πετοσίριος. ἔσχομεν
+r.3    ὑπὲρ μερισμοῦ ἀνδριάντος ἀντισκ ηρ … ὀβολοὺς τέσσαρας γίνονται ὀβολοὶ δ. ἔτους η Ἁδριανοῦ
+r.4    τοῦ κυρίου Μεσορὴ κε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

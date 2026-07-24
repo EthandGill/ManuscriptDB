@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 3.347
+label:    O.EDFOU 3.347
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     143 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (143 BCE)
+# hgv-keywords: Quittung
+tm:       43320
+source:   https://papyri.info/ddbdp/o.edfou;3;347
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους κζ Ἐπεὶφ ιε τέτακται
+r.2    ἐπὶ τὴν ἐν Ἀπόλλωνος πόλει τῆι μεγάλῃ τράπεζαν
+r.3    Παχοῦμις Πετοσίριος ὑπὲρ χωμάτου
+
+[TRANSLATION]
+1     
+2     
+3     

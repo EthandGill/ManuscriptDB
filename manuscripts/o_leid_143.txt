@@ -1,0 +1,26 @@
+[META]
+id:       O.LEID 143
+label:    O.LEID 143
+name:     Receipt — Theben
+genre:    receipts
+date:     179 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (179 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24711
+source:   https://papyri.info/ddbdp/o.leid;;143
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁθὺρ ιε τοῦ κ ἔτους ὀνόματος Ἡρ …
+r.2    κλήους Κ … το ὑπὲρ ἐπικεφαλαίου ιθ ἔτους Ἀγορῶν …
+r.3    Ψανσνῶς Κρο σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

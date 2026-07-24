@@ -1,0 +1,66 @@
+[META]
+id:       P.Oxy. 8.1112
+label:    P.Oxy. 8.1112
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     188 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (188 CE)
+# hgv-keywords: Lauf (Bäume)
+tm:       21734
+source:   https://papyri.info/ddbdp/p.oxy;8;1112
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    τὸ κατ’ ἄνδρα ἰδίου λόγου, α τόμου·
+r.2    μητροπόλεως. Ἀπολλώνιος ἀποσυσταθεὶς Ὡρίωνος Ἀπολλωνίου ἐξηγητεύσαντος
+r.3    δηλῶ κεκυρῶσθαι τὰς σημανθείσας τῷ Πα[ῦν]ι μηνὶ τοῦ
+r.4    κη ἔτους ἀκάνθας ὑπὸ μὲν τοῦ
+r.5    τῆς Νεμέρων ἐπὶ χώματος πρότερον
+r.6    Σαρᾶ Ἀμόιτος περὶ Πεεννὼ
+r.7    α, ὑπὸ δὲ τοῦ τῆς Σερύφεως
+r.8    ἐπὶ χώματος ἔργου Κονίωνος
+r.9    περὶ Σενεκελεὺ β, καὶ
+r.10   ὑπὸ τοῦ τῆς Σεντὼ ἐπὶ χώματος
+r.11   ἀπεργασίας τοῦ ε ἔτους θεοῦ Οὐεσπασιανοῦ
+r.12   ὄντος ἐκ βορρᾶ τῆς Σενοπώθεως
+r.13   α, δραχμῶν νβ καὶ τῶν ἑπομένων
+r.14   τῷ κθ ἔτει Ἁθὺρ ι, τιμῆς δραχμῶν νβ
+r.15   [προσ]διαγραφομένων δραχμῶν γ ὀβολοῦ ἡμιωβελίου, γίνονται δραχμαὶ νε ὀβολὸς ἡμιωβέλιον.
+r.16   ὁμοίως τοῦ αὐτοῦ τόμου.
+r.17   Ἀπολλώνιο[ς] ὁ προτεταγμένος
+r.18   ἀποσυσταθεὶς δηλῶ κεκυρῶσθαι τὰς σημανθείσας ὑπὸ πρεσβυτέρων διαδεχομένων κωμογραμματείαν Νεσμίμεως ἀκάνθας γ
+r.19   ἐν τοῖς βορρ[ι]νοῖς μέρεσι χώματος
+r.20   Ἐντείεως καὶ Θώσβ καταπεπτωκέναι
+r.21   κυπει δραχμῶν μ καὶ τῶν ἑπομένων
+r.22   τῷ κθ ἔτει Ἁθὺρ ιβ, τιμῆς [δραχμῶν] μ προσδιαγραφομένων β τριωβόλου, γίνονται δραχμαὶ μβ τριώβολον.
+
+[TRANSLATION]
+# HGV-EN: Individual list of the idiologus, volume 1; department of the metropolis. I, Apollonius surnamed Horion, son of Apollonius, ex-exegetes, declare that I have been duly assigned the acacia-trees designated in the month Pauni of the 28th year, one by the comogrammateus of Nemera on the embankment formerly belonging to Saras son of Amois in the neighbourhood of Peënno, two by the comogrammateus of Seruphis on the embankment in the tillage of Conion in the neighbourhood of Senemeleu, and one by the comogrammateus of Sento on the embankment in the reclamation of the 5th year of the deified Vespasian situated to the north of Senoikoth..., for 52 drachmae and extra payments, in the 29th year, Hathur 10, the price being 52 drachmae and the additional charges 3 drachmae 1 1/2 Obols, total 55 drachmae 1 1/2 obols. Likewise in the same volume. I, Apollonius the aforesaid surnamed, etc., declare that I have been duly assigned the three acacia-trees designated by the elders, being deputies for the comogrammateus of Nemera, in the northern parts of the embankment of ... and Thosbis, which have fallen down ..., for 40 drachmae and extra payments, in the 29th year, Hathur 12, the price being 40 drachmae and the additional charges 2 drachmae 3 obols, total 42 drachmae, 3 obols.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    

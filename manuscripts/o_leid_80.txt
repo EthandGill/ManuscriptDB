@@ -1,0 +1,26 @@
+[META]
+id:       O.LEID 80
+label:    O.LEID 80
+name:     Receipt — Theben
+genre:    receipts
+date:     78 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (78 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24652
+source:   https://papyri.info/ddbdp/o.leid;;80
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Καμῆτις Παχράτου ὑπὲρ φοινικώνων ἄνω τοπαρχίας ι ἔτους
+r.2    δραχμὰς ε καὶ προσδιαγραφόμενα. ἔτους ια Οὐεσπασιανοῦ τοῦ κυρίου
+r.3    Φαῶφι λ‡γ. Ἀπίων σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

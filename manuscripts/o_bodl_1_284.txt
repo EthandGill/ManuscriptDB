@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 1.284
+label:    O.BODL 1.284
+name:     Documentary papyrus — Theben (?)
+genre:    documents
+date:     200 BCE – 101 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (?) (200 BCE – 101 BCE)
+# hgv-keywords: Namen
+tm:       58447
+source:   https://papyri.info/ddbdp/o.bodl;1;284
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀμμώνιος
+r.2    Εὔμηλος Σιμαρίστου.
+r.3    Λυσίμαχος Ἀμμωνίου.
+r.4    Ἀμμώνιος Σωστράτου.
+r.5    Θέων ἱερεύς.
+r.6    Ἑρμίας Ἀνουβίωνος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

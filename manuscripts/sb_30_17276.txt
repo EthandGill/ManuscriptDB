@@ -1,0 +1,34 @@
+[META]
+id:       SB 30.17276
+label:    SB 30.17276
+name:     Receipt — Elephantine
+genre:    receipts
+date:     156 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Oslo
+shelf:    
+content:  Receipt from Elephantine (156 CE)
+# hgv-keywords: Quittung — Steuer (merismoi) — Geld
+tm:       133344
+source:   https://papyri.info/ddbdp/sb;30;17276
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Φανῶφις πράκτωρ ἀργυρικῶν Ἐλεφαντίνης.
+r.2    διέγραψεν Πετορζμῆθις ὁμοίως μητρὸς Σενζμήθιος
+r.3    ὑπὲρ μερισμῶν ιθ ἔτους διπλῶν
+r.4    δραχμὴν α διώβολον, ποταμοφυλακίδων τετρώβολον, παρόλκων διώβολον, στατίωνος ἡμιωβέλιον.
+r.5    ἔτους κ Ἀντωνίνου
+r.6    [Κ]αί[σ]αρος τοῦ κυρίου
+r.7    [Ἁ]θὺρ κζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

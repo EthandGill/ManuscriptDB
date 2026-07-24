@@ -1,0 +1,30 @@
+[META]
+id:       O.BANKES 17
+label:    O.BANKES 17
+name:     Receipt — Elephantine
+genre:    receipts
+date:     141 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (141 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, merismos)
+tm:       699490
+source:   https://papyri.info/ddbdp/o.bankes;;17
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Ἡρακλείδης καὶ Ἰσίδωρος μισθωταὶ πύλης Σοήνης διὰ Παχομψάχιος βοηθοῦ· διέγραψεν
+r.2    Πασῆνις Πετορζμήθου μητρὸς Σοῆρις ὑπὲρ
+r.3    μερισμ γ ἔτους δραχμὴν α πεντώβολον. ἔτους ϛ
+r.4    Ἀντωνίνου τοῦ κυρίου,
+r.5    Φαρμοῦθι ιγ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

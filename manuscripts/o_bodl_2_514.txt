@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.514
+label:    O.BODL 2.514
+name:     Receipt — Theben
+genre:    receipts
+date:     100 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (100 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71212
+source:   https://papyri.info/ddbdp/o.bodl;2;514
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Βῆχις Ἁροννώφριος ὑπὲρ
+r.2    λαογραφίας Νότου γ ἔτους δραχμὰς δέκα
+r.3    βαλανευτικοῦ α ὀβολὸν α 𐅵 γίνονται ια ὀβολὸς α 𐅵 καὶ προσδιαγραφόμενα.
+r.4    ἔτους γ Τραιανοῦ τοῦ κυρίου
+r.5    Μεχεὶρ λ‡ιβ. Ἡρακλείδης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

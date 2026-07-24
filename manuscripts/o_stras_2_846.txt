@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 2.846
+label:    O.STRAS 2.846
+name:     Receipt — Theben (Nesoi)
+genre:    receipts
+date:     138 CE
+language: Greek (Koiné)
+found:    Theben (Nesoi)
+held:     
+shelf:    
+content:  Receipt from Theben (Nesoi) (138 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       128389
+source:   https://papyri.info/ddbdp/o.stras;2;846
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μεμέτρηται θησαυρῷ [κωμῶν γενήματος] α [Τίτο]υ
+r.2    Αἰλίου Ἀντωνεί[νου] Καίσαρ[ο]ς τοῦ κυρίου
+r.3    Μεσορὴ ιθ ὑπὲρ Νήσων [ὀ]ν[όματος] Ψάιτος Σενφ[θο]υμώνθου
+r.4    Πετεχεσποχράτου πυροῦ [ἥμ]ισυ τρίτον τετρακαιεικοστὸν,
+r.5    γίνεται πυροῦ 𐅵 γ κδ. Πικῶς σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

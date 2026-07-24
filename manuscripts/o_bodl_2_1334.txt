@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1334
+label:    O.BODL 2.1334
+name:     Receipt — Theben
+genre:    receipts
+date:     127 CE – 138 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (127 CE – 138 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       72016
+source:   https://papyri.info/ddbdp/o.bodl;2;1334
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν μητροπόλεως γενήματος … ἔτους
+r.2    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.3    Παῦνι κζ ὀνόματος Σενύριος [Ὥρου]
+r.4    διὰ Ἡρακλᾶτος …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

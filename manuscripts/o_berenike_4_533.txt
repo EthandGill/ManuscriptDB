@@ -1,0 +1,24 @@
+[META]
+id:       O.BERENIKE 4.533
+label:    O.BERENIKE 4.533
+name:     Documentary papyrus — Berenike
+genre:    documents
+date:     301 CE – 500 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Berenike (301 CE – 500 CE)
+# hgv-keywords: Name
+tm:       971755
+source:   https://papyri.info/ddbdp/o.berenike;4;533
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    Καλλιοπίου ξ …
+
+[TRANSLATION]
+# HGV-EN: Of Kalliopios … .
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     

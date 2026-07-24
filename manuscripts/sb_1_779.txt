@@ -1,0 +1,24 @@
+[META]
+id:       SB 1.779
+label:    SB 1.779
+name:     Documentary papyrus — Bompae (Panopolites)
+genre:    documents
+date:     200 CE
+language: Greek (Koiné)
+found:    Bompae (Panopolites)
+held:     
+shelf:    
+content:  Documentary papyrus from Bompae (Panopolites) (200 CE)
+# hgv-keywords: Mumienetikett
+tm:       32068
+source:   https://papyri.info/ddbdp/sb;1;779
+lat:      26.525085
+lon:      31.714189
+
+[GREEK]
+r.1    Κολλούθης Κολανθ … [ μη]τρὸς Σεναρυωτίδος ἱερεὺς
+r.2    Ἴσιδος θεᾶς μεγίστης, ἐτῶν ιε.
+
+[TRANSLATION]
+1     
+2     

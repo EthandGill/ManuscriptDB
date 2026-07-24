@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 8.1164
+label:    P.Oxy. 8.1164
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     501 CE – 700 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (501 CE – 700 CE)
+# hgv-keywords: Brief (privat) — Theodosius an den "comes" Peter über einen Streit um ein Kamel
+tm:       37839
+source:   https://papyri.info/ddbdp/p.oxy;8;1164
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    οἱ γραμματηφόροι ἦλθαν πρὸς ἐμὲ φέροντές μοι γράμματα τῆς ὑμετέρας
+r.2    πατρικῆς μεγαλοπρεπείας ἕνεκεν καμήλου, καὶ πάνυ μὲν ηὐχαρίστησα τῇ
+r.3    ἀφορμῇ τῇ δεδωκυίᾳ μοι ἀξιωθῆναι διὰ χρόνου τιμίων αὐτῆς συλλαβῶν.
+r.4    εὐθέως δὲ παρήνεγκα τ[ο]ὺς ἀντιδίκους αὐτῶν καὶ προήνεγκαν οὐκ ὀλίγους
+r.5    ἄνδρας μαρτυροῦντας ὡς αὐτῶν ἐστιν ἡ κάμηλος· οὐ μὴν δὲ ἀλλὰ καὶ οἱ
+r.6    γραμματηφόροι ἤνεγκαν ἄλλους μαρτυροῦντας πάλιν ὡς αὐτῶν ἐστιν ἡ αὐτὴ
+r.7    κάμηλος, καὶ τῶν ἀμφοτέρων ἐνεγκόντων μάρτυρας οὐκ ἐδυνήθην αὐτοὺς
+r.8    ἀπαλλάξαι. ἀλλὰ ἐὰν κελεύετε, ἐπιτρέψατε αὐτοῖς ἐλθεῖν εἰς δίαιταν μετὰ τῶν
+r.9    ἐμῶν πρὸς ὃν ἂν αἱρήσωνται οἱ ἀμφότεροι καὶ τὰ ἀπὸ διαίτης ποιῆσαι,
+r.10   παντὶ γὰρ τρόπῳ παρασκευάζω τοὺ[ς] ἐμοὺς ἐμμεῖναι τῇ διδομένῃ αὐτοῖς
+r.11   κρίσει. μαρτυρεῖ μοι γὰρ ὁ θεὸς ὅτι σπουδάζω ἐν ἅπασιν τὰ κελευόμενά μοι
+r.12   παρʼ ὑμῶν ἀποπληρῶσαι. ταῦτα γράφω πλεῖστα προσκυνῶν καὶ
+r.13   ἀσπαζόμενος τὴν ὑμετέραν πατρικὴν μεγαλοπρέπειαν.
+r.14   δεσπότῃ ἐμῷ τὰ πάντα μεγαλοπρεπεστάτῳ πάσης τιμῆς καὶ προσκυνήσεως ἀξίῳ π … Πέτρῳ κόμετι Θεοδόσιος.
+
+[TRANSLATION]
+# HGV-EN: The letter-carriers came to me bringing me a letter from your paternal magnificence about a camel, and I was very grateful for the opportunity granting me to be deemed worthy after so long of your honoured words. I immediately brought in their opponents and they produced not a few persons testifying that the camel is theirs, while on the other hand the letter-carriers brought other persons testifying that the said camel belongs to them; and since both sides brought witnesses, I could not settle the point between them. But if it be your bidding, order them to come to an arbitration with my people before any one whom they shall both select, and to accept the results of the arbitration; for I will use every means to secure that my people abide by the judgement given them. God is my witness that Iam anxious in everything to perform your orders. I write this with many reverences and greetings to your paternal magnificence. (Addressed) To my master the most magnificent ... reverend ... comes Peter, from Theodosius.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

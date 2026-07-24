@@ -1,0 +1,30 @@
+[META]
+id:       ZPE 209.242
+label:    ZPE 209.242
+name:     Documentary papyrus — Arsinoites ?, Ägypten
+genre:    documents
+date:     825 CE
+language: Greek (Koiné)
+found:    Arsinoites ?, Ägypten
+held:     Vienna
+shelf:    
+content:  Documentary papyrus from Arsinoites ?, Ägypten (825 CE)
+# hgv-keywords: Brot
+tm:       39405
+source:   https://papyri.info/ddbdp/zpe;209;242
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    μηνὶ Χοιὰκ κθ ἔτους σι
+r.2    ψωμίου λίτρας δ.
+r.3    Θεοδόσιος πρεσβύτερος στοιχεῖ.
+r.4    λίτραι δ.
+
+[TRANSLATION]
+# HGV-EN: † On the 29th of month Choiak of the year 210. 4 litrai of bread. Theodosios, the priest agrees. 4 litrai.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

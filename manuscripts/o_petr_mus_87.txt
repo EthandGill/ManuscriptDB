@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 87
+label:    O.PETR.MUS 87
+name:     Receipt — Theben
+genre:    receipts
+date:     125 BCE – 101 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (125 BCE – 101 BCE)
+# hgv-keywords: Quittung (Geld) in Form eines Briefes
+tm:       44285
+source:   https://papyri.info/ddbdp/o.petr.mus;;87
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁμμώνιος καὶ οἱ μέτοχοι
+r.2    Πετεαρπρῆτι χαίρειν ἔχομεν
+r.3    παρὰ σοῦ ἀπὸ τοῦ τέλους Τῦβι
+r.4    χαλκοῦ δισχιλίας γίνονται Β
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,32 @@
+[META]
+id:       BGU 3.785
+label:    BGU 3.785
+name:     Documentary papyrus — Karanis (Arsinoites)
+genre:    documents
+date:     183 CE – 184 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Karanis (Arsinoites) (183 CE – 184 CE)
+# hgv-keywords: Deklaration — Tiere
+tm:       9347
+source:   https://papyri.info/ddbdp/bgu;3;785
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Ἀ[π]πιανῷ στρατηγῷ κ[α]ὶ
+r.2    Ἑρμοφίλῳ βασιλικῷ Ἀρσινοΐτου
+r.3    Ἡρακλείδου μερίδος
+r.4    παρὰ Νιννάρου τοῦ καὶ Πτολεμαίου Ἰσιδώρου ἀπὸ κώμης
+r.5    Καρανίδος. [ἀ]φʼ ὧ[ν ἀπεγράψαμην] ἐπὶ κώμης
+
+[TRANSLATION]
+# HGV-EN: To A[p]pianos, strategos, and to Hermophilos, royal scribe of the Arsinoite nome, Herakleides division, from Ninnaros alias Ptolemaios, son of Isidoros from the village of Karanis. 6 From the , which [I registered] in the village
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       O.WILB 38
+label:    O.WILB 38
+name:     Receipt — Theben
+genre:    receipts
+date:     182 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (182 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76550
+source:   https://papyri.info/ddbdp/o.wilb;;38
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θὼθ κθ τοῦ κγ ἔτους ὀνόματος
+r.2    Ψεννήσιος Πετοσίριος διὰ
+r.3    Παναμέως Φαμίνιος καὶ ἀδελφοῦ
+r.4    δραχμὰς η διὰ Παναμέως μόνου ὑπὲρ γεωμετρίας
+r.5    κβ ἔτους Χάρακος δραχμὴν α τετρώβολον χαλκοῦς β γίνεται δραχμὴ α τετρώβολον χαλκοῖ β. Πετ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

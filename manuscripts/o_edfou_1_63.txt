@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 1.63
+label:    O.EDFOU 1.63
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     94 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (94 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       47003
+source:   https://papyri.info/ddbdp/o.edfou;1;63
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    διέγραψεν Θήδετος Ἀλεξίωνος
+r.2    χωματικοῦ ιβ ἔτους Δομιτιανοῦ
+r.3    δραχμὰς β πεντώβολον ἡμιωβέλιον βαλανικοῦ διώβολον Φίλιππος
+r.4    υἱὸς β πεντώβολον ἡμιωβέλιον βαλανικοῦ διώβολον
+r.5    ἔτους ιγ Μεσορὴ η
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,26 @@
+[META]
+id:       BGU 6.1363
+label:    BGU 6.1363
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     200 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (200 BCE – 1 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       7345
+source:   https://papyri.info/ddbdp/bgu;6;1363
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [ἔτους ] … Μεσορὴ τέτακται εἰς τὰ ἀνενεχθέν[τα ἐ]ν λήμματι ὑπὸ Πτολεμαίου τοῦ στρατηγοῦ
+r.2    [ισ]τεων λινύφων τοῦ αὐτοῦ ἔτους Παποῦς Παχούμιος
+r.3    τάλαντον ἓν δισχιλίας γίνονται τάλαντον α Β.
+
+[TRANSLATION]
+1     
+2     
+3     

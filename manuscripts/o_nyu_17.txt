@@ -1,0 +1,28 @@
+[META]
+id:       O.NYU 17
+label:    O.NYU 17
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     2 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (2 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869421
+source:   https://papyri.info/ddbdp/o.nyu;;17
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λα Μεσορη λ τέτακται ταριχευτ- τοῦ αὐτοῦ
+r.2    ἔτους Ἅρπβηκις Σι[σ]όιτος ἑπτὰ ὀβολοὺς δύ[ο],
+r.3    γίνονται ζ διώβολον. Καμ.
+
+[TRANSLATION]
+# HGV-EN: Year 31, Mesore 30, has paid for taricheu(t- ) of the same year, Harpbekis son of Sisois, seven [dr.] two obols, that is, 7 [dr.] 2 ob. Kam( ).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

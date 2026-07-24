@@ -1,0 +1,32 @@
+[META]
+id:       O.CLAUD 1.24
+label:    O.CLAUD 1.24
+name:     Letter — Mons Claudianus
+genre:    letters
+date:     107 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Letter from Mons Claudianus (107 CE)
+# hgv-keywords: Brief — Hieronymos an NN
+tm:       24037
+source:   https://papyri.info/ddbdp/o.claud;1;24
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ἱερώνυμος Κ …
+r.2    τῶι φ[ιλτάτῳ χαίρειν].
+r.3    ἐχθὲς Ἀφρ …
+r.4    ἐν Ῥαιμα …
+r.5    περὶ τοῦ …
+r.6    ἔλαιον …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

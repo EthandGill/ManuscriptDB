@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.362
+label:    O.STRAS 1.362
+name:     Receipt — Theben
+genre:    receipts
+date:     132 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (132 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75950
+source:   https://papyri.info/ddbdp/o.stras;1;362
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα εἰς θησαυρὸν μητροπόλεως γενήματος ιϛ ἔτους Ἁδριανοῦ τοῦ κυρίου
+r.2    Ἁθὺρ ιϛ τοῦ ιζ ἔτους ὀνόματος Παναμοῦτος Διοσκουρίδου
+r.3    ὑπὲρ Κεραμείων πυροῦ δωδέκατον γίνεται ιβ. … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

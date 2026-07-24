@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 2.250
+label:    O.EDFOU 2.250
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     110 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (110 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       43813
+source:   https://papyri.info/ddbdp/o.edfou;2;250
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους ζ Παχὼν τέτακται ἐπὶ
+r.2    τὴν ἐν Ἀπόλλωνος πόλει τῇ μεγάλῃ τράπεζαν ἐπωνίων τοῦ αὐτοῦ ἔτους Πετεαρσεμθεὺς Εὐτυχυιύσιος
+r.3    χιλίας τν γίνονται Ατν
+r.4    ἄλλας ν γίνονται ν
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

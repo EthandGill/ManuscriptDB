@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.280
+label:    O.ONT.MUS 2.280
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Documentary papyrus from Theben (101 CE – 200 CE)
+# hgv-keywords: Steuern (?)
+tm:       75300
+source:   https://papyri.info/ddbdp/o.ont.mus;2;280
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φμόις Ψενσενούφιος
+r.2    ἐπιτηρητῶν τελες …
+r.3    τοῦ ϛ ἔτους Φαμενὼθ Πετε …
+r.4    Σενπετεμενώφιος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

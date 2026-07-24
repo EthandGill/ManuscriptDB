@@ -1,0 +1,50 @@
+[META]
+id:       P.RYL 2.96
+label:    P.RYL 2.96
+name:     Contract — Apollonopolites Heptakomias
+genre:    contracts
+date:     113 CE – 120 CE
+language: Greek (Koiné)
+found:    Apollonopolites Heptakomias
+held:     
+shelf:    
+content:  Contract from Apollonopolites Heptakomias (113 CE – 120 CE)
+# hgv-keywords: Angebot (Pacht) — Staatsland — strategos
+tm:       19494
+source:   https://papyri.info/ddbdp/p.ryl;2;96
+lat:      
+lon:      
+
+[GREEK]
+r.1    Ἀπολλωνίωι στρατηγῷ Ἀπολλωνοπολίτου Ἑπτακωμίας
+r.2    [π]αρὰ Ἁρβαίθου Παήσιος … ς …
+r.3    … ς Πατν … τος … [ τ]ῶν ἀ[πὸ τῆς]
+r.4    μητροπόλεως. ἀν[α]γράφονται π[ε]ρὶ τὴν αὐτὴν μητρόπολιν
+r.5    βασιλικῆς γῆς τοῦ μὲν Ἁρβαίθου ἀνὰ γ ιβ α 𐅵 ιϛ
+r.6    καὶ [τοῦ] Π[ατ]ναιῶτος ὁμοίως ἀνὰ γ ιβ
+r.7    ἀρούρας δ η. ἐπὶ οὖν τοσοῦτο τέλεσμα
+r.8    οὐ βαστάζει αὐτοῖς τε βαρουμένοις
+r.9    τῷ ἐκφορίῳ ἐντεῦθεν ὑπεχόμεθα κατὰ τὴν εὐεργεσίαν τοῦ κυρίου
+r.10   ἡμῶν Ἁδριανοῦ Καίσαρος γεωργήσειν τὰς προκείμενας ἀρούρας τοῦ μὲν
+r.11   Ἁρβαίθου ἀνὰ γ ιβ ἄρουραν α 𐅵 ιϛ καὶ τοῦ
+r.12   Πατναιῶτος ὁμοίως ἀρούρας δ η ἀνὰ λόγον τῆς
+r.13   ἀρούρας ἀνὰ πυροῦ ἀρταβὴν α κδ παραδεχομένης ἀβρόχου καὶ ἐπηντλημένης
+r.14   [κατὰ τὸ ἔθος. ] …
+
+[TRANSLATION]
+# HGV-EN: ‘To Apollonius, strategus of the Apollonopolite-Heptacomia nome, from Harbaithes son of Paesis and Patnaios ... of the metropolis. Crown-land is registered in our name in the area of the said metropolis, for Harbaithes 1 9/16 arurae at the rate of 3 1/12 artabae, and for Patnaios 3/8 arura similarly at the rate of 3 1/12. Since, therefore, it does not bear so great a charge and we are burdened with the rent, we henceforth undertake in accordance with the indulgence of our lord Hadrianus Caesar to cultivate the aforesaid arurae, the 1 9/16 arurae of Harbaithes held at 3 1/12 artabae and the similarly rated 3/8 arura of Patnaios, at a rate per arura of 1 1/24 artabae of wheat, with allowances for unirrigated land or land artificially irrigated, as is usual.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

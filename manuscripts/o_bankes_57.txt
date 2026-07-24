@@ -1,0 +1,26 @@
+[META]
+id:       O.BANKES 57
+label:    O.BANKES 57
+name:     Receipt — Elephantine
+genre:    receipts
+date:     157 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (157 CE)
+# hgv-keywords: Ende einer Quittung (Steuer ?)
+tm:       699530
+source:   https://papyri.info/ddbdp/o.bankes;;57
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔτους κα Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου,
+r.3    Ἁδριανοῦ δ.
+
+[TRANSLATION]
+1     
+2     
+3     

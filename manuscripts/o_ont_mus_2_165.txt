@@ -1,0 +1,26 @@
+[META]
+id:       O.ONT.MUS 2.165
+label:    O.ONT.MUS 2.165
+name:     Receipt — Theben
+genre:    receipts
+date:     229 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (229 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75184
+source:   https://papyri.info/ddbdp/o.ont.mus;2;165
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεχεὶρ κθ τοῦ η ἔτους ὀνόματος
+r.2    … Ἀμωνίου πρεσβυτέρου Ἀσκλ[ᾶ]τος ὑπὲρ λαογραφίας Ἀγορῶν δραχμὰς τέσσαρας
+r.3    … σεσημείωμαι. Αὐρήλιος Ἀσκλᾶς σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     

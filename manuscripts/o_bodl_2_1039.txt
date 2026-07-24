@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1039
+label:    O.BODL 2.1039
+name:     Receipt — Theben
+genre:    receipts
+date:     94 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (94 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71726
+source:   https://papyri.info/ddbdp/o.bodl;2;1039
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεχῶνσις Πικῶτος τελώνης
+r.2    ἠπητῶν Τιθοφμόιτι Πετεμενώφιος.
+r.3    ἔχω παρὰ σοῦ τέλος Παχὼν καὶ
+r.4    Παῦνι τοῦ ιγ ἔτους Δομιτιανοῦ.
+r.5    Φιλάμων σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

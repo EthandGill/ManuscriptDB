@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1107
+label:    O.BODL 2.1107
+name:     Receipt — Theben
+genre:    receipts
+date:     196 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (196 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71794
+source:   https://papyri.info/ddbdp/o.bodl;2;1107
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεχεὶρ ε τοῦ δ ἔτους
+r.2    ὀνόματος Ψενχώνσιος Λολοῦτος ὑπὲρ στεφανικοῦ
+r.3    χρήματος β ἔτους Νότου δραχμὰς τέσσαρας
+r.4    γίνονται δραχμαὶ δ. Ψε … σεσημείωμαι. Πα … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

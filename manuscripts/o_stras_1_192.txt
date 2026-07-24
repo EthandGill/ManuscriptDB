@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.192
+label:    O.STRAS 1.192
+name:     Receipt — Theben
+genre:    receipts
+date:     114 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (114 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75789
+source:   https://papyri.info/ddbdp/o.stras;1;192
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἰμούθης καὶ [μέτοχοι πράκτορες] … Πετεχων .
+r.2    ἔσχομεν ὑπὲρ χωμάτων καὶ ἄλλων Ἀγορᾶς νότου ιη ἔτους ῥυπαρὰς
+r.3    δραχμὰς τέσσαρ[ας] γίνονται δραχμαὶ δ. ἔτους ιη Τραιανοῦ
+r.4    τοῦ κυρίου Θὼθ γ … · σεσημείωμαι.
+r.5    ἄλλας Ἁθὺρ λ … .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

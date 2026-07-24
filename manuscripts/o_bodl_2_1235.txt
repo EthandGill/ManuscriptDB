@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.1235
+label:    O.BODL 2.1235
+name:     Receipt — Theben
+genre:    receipts
+date:     123 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (123 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       71918
+source:   https://papyri.info/ddbdp/o.bodl;2;1235
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κωμῶν γενήματος
+r.2    ζ ἔτους Ἁδριανοῦ τοῦ κυρίου
+r.3    Ἐπεὶφ ι ὀνόματος Καμήτιος
+r.4    Ψενχώνσιος διὰ Μελανίωνος
+r.5    Ψενχώνσιος πυροῦ ἀρτάβαι δύο ἥμισυ
+r.6    τέταρτον γίνονται πυροῦ ἀρτάβαι β 𐅵 δ. Ἀπολλώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

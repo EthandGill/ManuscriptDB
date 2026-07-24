@@ -1,0 +1,26 @@
+[META]
+id:       O.FRANGE 373
+label:    O.FRANGE 373
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Exercice épistolaire — Archives de Frangé
+tm:       219912
+source:   https://papyri.info/ddbdp/o.frange;;373
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ⲁⲛⲟⲕ ϥⲣⲁⲛⲅⲉ ⲉϥⲥϩⲁⲓ
+r.2    ⲉϥϣⲓⲛⲉ ⲉⲛⲉϥⲙⲉⲣⲁⲧⲉ ⲛⲥⲛⲏⲩ ⲙⲙⲁⲓⲛⲟⲩⲧⲉ
+r.3    ⲣⲱⲙⲉ ⲛⲁⲙⲉ ⲉⲧφορεῖν ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ ϩⲛ ⲟⲩⲙⲉ ⲙⲛ ⲟⲩδικαιοσύνη …
+
+[TRANSLATION]
+1     
+2     
+3     

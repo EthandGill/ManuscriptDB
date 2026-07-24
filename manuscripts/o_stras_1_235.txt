@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.235
+label:    O.STRAS 1.235
+name:     Receipt — Theben
+genre:    receipts
+date:     147 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (147 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75832
+source:   https://papyri.info/ddbdp/o.stras;1;235
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ψαρίων πράκτωρ ἀργυρικῶν Χάρακος Ψ … .
+r.2    ἔσχον ὑπὲρ χωµατικοῦ καὶ βαλανευτικοῦ ια ἔτους ῥυπαρὰς
+r.3    δραχμὰς τρεῖς πεντώβολον χαλκοῦς β
+r.4    γίνονται ῥυπαραὶ δραχμαὶ γ πεντώβολον χαλκοῦς β. ἔτους ια Ἀντωνίνου Καίσαρος
+r.5    τοῦ κυρίου µηνὸς Ἁδριανοῦ β. Π … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

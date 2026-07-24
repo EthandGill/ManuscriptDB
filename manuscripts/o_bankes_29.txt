@@ -1,0 +1,32 @@
+[META]
+id:       O.BANKES 29
+label:    O.BANKES 29
+name:     Receipt — Elephantine
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (120 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, merismos potamophylakidon)
+tm:       699502
+source:   https://papyri.info/ddbdp/o.bankes;;29
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Σανμοῦς πράκτωρ.] διέγραψεν Πετορ[ζμῆθις Πουήρ]εως μητρὸς Τισάτιος
+r.2    [ὑπὲρ μερισμοῦ] [ποτα]μοφυλακίδων ε ἔτους
+r.3    [Ἁδριανοῦ Καίσ]αρος τοῦ κυρί[ο]υ
+r.4    [ῥυπαρὰς δραχμὰς δύο] [τετρ]ώβολον,
+r.5    γίνονται δραχμαὶ β τετρώβολον Χοιὰκ
+r.6    … [. Σαραπίων γραμματεὺς] [ἔ]γραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 68
+label:    O.THEB 68
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     198 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Sydney
+shelf:    
+content:  Receipt from Theben (Ägypten) (198 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76438
+source:   https://papyri.info/ddbdp/o.theb;;68
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Νεφερῶς πρεσβύτερος Φθουμίνιος καὶ μέτοχοι ἐπιτηρηταὶ τέλους
+r.2    γερδίων τοῦ ϛ ἔτους ὀνόματος Πετεμενώφιος Ἁρβήχιος.
+r.3    ἔσχομεν παρὰ σοῦ ὑπὲρ τέλους μηνὸς Παῦνι
+r.4    δραχμὰς ἓξ γίνονται δραχμαὶ ϛ.
+r.5    ἔτους ϛ Ἐπεὶφ ι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

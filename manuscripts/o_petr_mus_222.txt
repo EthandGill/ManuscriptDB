@@ -1,0 +1,26 @@
+[META]
+id:       O.PETR.MUS 222
+label:    O.PETR.MUS 222
+name:     Receipt — Theben
+genre:    receipts
+date:     11 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (11 BCE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Bank
+tm:       77700
+source:   https://papyri.info/ddbdp/o.petr.mus;;222
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφεν ἐπὶ τὴν Κεφάλου τράπεζαν
+r.2    Ὧρος Πιχῶς παστοφόρος λαογραφίας
+r.3    τοῦ ιθ ἔτους δραχμὰς ε. ἔτους ιθ Καίσαρος Μεχεὶρ ι.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,26 @@
+[META]
+id:       P.EIRENE 1.11
+label:    P.EIRENE 1.11
+name:     Receipt — Herakleopolites
+genre:    receipts
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Receipt from Herakleopolites (401 CE – 500 CE)
+# hgv-keywords: Quittung — Geld
+tm:       79310
+source:   https://papyri.info/ddbdp/p.eirene;1;11
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    … ἐπὶ τιμῆς π … ἀπὸ νομισμάτων ιδ ϛ χρυσίου
+r.2    … χρυσοῦ νομισμα- σν χρυσίου λδ 𐅵 κεράτια
+r.3    … [ διʼ ἐμοῦ] Καμίσσεως
+
+[TRANSLATION]
+1     
+2     
+3     

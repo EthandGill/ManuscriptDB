@@ -1,0 +1,28 @@
+[META]
+id:       O.NYU 16
+label:    O.NYU 16
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     2 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (2 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869420
+source:   https://papyri.info/ddbdp/o.nyu;;16
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λα Παυνι ιβ τέλους
+r.2    ταριχ τοῦ αὐτοῦ ἔτους Ἅρπηκις Σισόιτος
+r.3    δραχμὰς εἴκοσι δύο, γίνονται κβ. Πίσηχθις
+
+[TRANSLATION]
+# HGV-EN: Year 31, Pauni 12, for tax on tarich(eut- ) of the same year, Harpekis son of Sisois, twenty-two drachmas, that is, 22 dr. Pise(chthis ?).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

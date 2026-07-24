@@ -1,0 +1,28 @@
+[META]
+id:       O.BANKES 45
+label:    O.BANKES 45
+name:     Receipt — Elephantine
+genre:    receipts
+date:     117 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (117 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       699518
+source:   https://papyri.info/ddbdp/o.bankes;;45
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Διδυμίων πράκτωρ.] [δ]ιέγραψεν Πεκῦσις Πατχναύθεως
+r.2    [μητρὸς] … [ὑπὲρ] λαογραφίας ιη ἔτους Τραιανοῦ ἀρίστου Καίσαρος
+r.3    [τοῦ κυρίου δραχμὰς] [δέ]κα ἓξ ἡμιωβέλιον, γίνονται δραχμαὶ ιϛ ἡμιωβέλιον. ιη ἔτους Τραιανοῦ
+r.4    [Ἀρίστου τοῦ κ]υρίου, Παχὼν κα. Διδυμίων ἔσχον.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

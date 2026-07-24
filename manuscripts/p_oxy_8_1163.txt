@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 8.1163
+label:    P.Oxy. 8.1163
+name:     Letter — Darne in der Cyrenaica
+genre:    letters
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    Darne in der Cyrenaica
+held:     
+shelf:    
+content:  Letter from Darne in der Cyrenaica (401 CE – 500 CE)
+# hgv-keywords: Brief (privat) — NN an den "comes" Heraclammon
+tm:       35574
+source:   https://papyri.info/ddbdp/p.oxy;8;1163
+lat:      32.7660775
+lon:      22.6404775
+
+[GREEK]
+r.1    π
+r.2    τῇ τετράδι καταλαβὼν εἰς ἑσπέραν τὴν Δαρνιτῶν καὶ συντυχὼν
+r.3    τῇ ἑξῆς τῷ δεσπότῃ μου τῷ τὰ πάντα μεγαλοπρεπεστάτῳ καὶ ἀνδρειοτάτῳ κόμιτι κ[αὶ] ἐρωτηθεὶς παρὰ τῆς αὐτοῦ μεγαλοπρεπείας ὅσα
+r.4    ἐχρῆν ἀνεδίδαξα αὐ[τ]ὸν περὶ τῆς ὑμετέρας μεγαλοπρεπείας καὶ
+r.5    πάραυτα καὶ τὴν … [ παρεσκ]εύασα ὑποβληθῆν[αι]
+r.6    καὶ γραφῆναι καὶ τ …
+r.7    πρὸς τὴν σὴν [μεγαλοπρέπειαν ] …
+r.8    ἐπίδος τῷ δεσπότῃ μου τῷ τὰ πάντα μεγαλοπρεπεστάτῳ λαμπροτάτῳ
+r.9    κόμιτι Ἡρακλάμμωνι Κ … αρ … ωριν …
+
+[TRANSLATION]
+# HGV-EN: I arrived on the 4th at the western border of Darne, and on the next day met my master the most magnificent and most courageous comes. On the inquiry of his magnificence I told him what was fitting about your magnificence, and immediately had the ... submitted and written and ... (Addressed) Deliver to my master the most magnificent and most illustrious comes Heraclammon from ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

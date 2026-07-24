@@ -1,0 +1,26 @@
+[META]
+id:       O.HEID 299
+label:    O.HEID 299
+name:     Receipt — Theben (Notos)
+genre:    receipts
+date:     216 CE
+language: Greek (Koiné)
+found:    Theben (Notos)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos) (216 CE)
+# hgv-keywords: Quittung (Speicherquittung, Weizen?)
+tm:       80515
+source:   https://papyri.info/ddbdp/o.heid;;299
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κωμῶν [γενήματος] [κ]δ ἔτους Μάρκου
+r.2    Αὐρηλίου Σεουήρου Ἀντωνίνου τοῦ κυρίου
+r.3    Ἐπεὶφ β ὑπὲρ Νότου …
+
+[TRANSLATION]
+1     
+2     
+3     

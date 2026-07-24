@@ -1,0 +1,36 @@
+[META]
+id:       O.ONT.MUS 2.235
+label:    O.ONT.MUS 2.235
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     1 CE – 400 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Documentary papyrus from Theben (1 CE – 400 CE)
+# hgv-keywords: Abrechnung (?) — Namen
+tm:       75255
+source:   https://papyri.info/ddbdp/o.ont.mus;2;235
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁρποκρατίων …
+r.2    Ἄρειος γεωμετρηο δ …
+r.3    Ὧρος σιτομέτρου δ … α
+r.4    τὸ ἐπικριτικὸν δ … α πδ
+r.5    Ὧρος … τελκεως δ … β
+r.6    Χεννᾶρις δ … α
+r.7    η … ασινοζο … δ … α
+r.8    … αρα … δ … α
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

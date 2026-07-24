@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.1014
+label:    O.BODL 2.1014
+name:     Receipt — Theben
+genre:    receipts
+date:     36 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (36 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71702
+source:   https://papyri.info/ddbdp/o.bodl;2;1014
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Καλλίμαχος τελώνης γερδίων κβ ἔτους Τιβερίου Καίσαρος
+r.2    Σεβαστοῦ Ἀπολλωνίῳ. ἔχω τέλος Τῦβι Μεχεὶρ
+r.3    Φαμενωύθ.
+
+[TRANSLATION]
+1     
+2     
+3     

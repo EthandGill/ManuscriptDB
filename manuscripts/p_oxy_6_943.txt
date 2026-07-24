@@ -1,0 +1,42 @@
+[META]
+id:       P.Oxy. 6.943
+label:    P.Oxy. 6.943
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     612 CE – 618 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (612 CE – 618 CE)
+# hgv-keywords: Brief (amtlich?) — Victor an den chartularius Georgios — Entscheidung wegen der Abgaben für ein Bad
+tm:       37136
+source:   https://papyri.info/ddbdp/p.oxy;6;943
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    καταξιώσῃ ἡ σὴ γνησία ἀδελφότης Μηνᾶν τὸν λαμπρότατον καὶ Σερῆνον
+r.2    τὸν λαμπρότατον τραπεζίτην καὶ Μηνᾶν τὸν προκουράτορα παρασκευάσαι
+r.3    ἀπελθεῖν εἰς δίαιταν ἕνεκεν τοῦ λουτροῦ, καὶ μὴ ἀποστῇ ἀπʼ αὐτῶν ὁ μειζότερος
+r.4    ἄχρι συνομολογεῖ τῷ ἐνδόξῳ οἴκῳ ὁ ὀφείλων ἐξ αὐτῶν τὸν φόρον τοῦ λο[υ]τροῦ
+r.5    δοῦναι. Σερῆνος γὰρ ὁ λαμπρότατος τραπεζίτης διὰ πείσματος γυναικὸς ἐδίωξεν
+r.6    Κόλλουθον τὸν εὐλαβέστατον ἐκ τοῦ λο[υ]τροῦ, καὶ ὅτε ἐποίησεν τὸ πεῖσμα αὐτοῦ οὐ θέλει ἀποστῆναι.
+r.7    καὶ ζῇ κύριος οὐκ ἀφίσταμαι τῶν τριῶν , ἀλλʼ αὐτοὶ πληροῦσιν τὸν φόρον
+r.8    τοῦ λουτρο[ῦ] ἕω[ς ] … ειν ἀντιγεοῦχο[ν].
+r.9    δεσπότῃ τῷ τὰ πάντα λαμπροτάτῳ τιμῆς ἀξίῳ γνησίῳ ἀδελφῷ Γεωργίῳ χαρτουλαρίῳ
+r.10   Βίκτωρ σὺν θεῷ ἀντιγεοῦχος.
+
+[TRANSLATION]
+# HGV-EN: May your true brotherliness vouchsafe to cause the most illustrious Menas and Serenus the most illustrious banker, and Menas the agent to come to arbitration with respect to the bath, and let not the official leave them until the one of them who owes the rent of the bath agrees with the noble house to pay it. For Serenus the most illustrious banker through the persuasion of his wife chased the most discreet Colluthus out of the bath, and having done what he was persuaded to do will not depart. As the Lord lives I do not leave the three, but they pay the rent of the bath until the deputy ... (Addressed) To the most illustrious and honourable lord, by the grace of God my brother George, secretary, from Victor, by the grace of God...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

@@ -1,0 +1,40 @@
+[META]
+id:       P.RYL 2.226
+label:    P.RYL 2.226
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (201 CE – 300 CE)
+# hgv-keywords: Liste — Weinlieferungen (?)
+tm:       31166
+source:   https://papyri.info/ddbdp/p.ryl;2;226
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἱερᾶς. Αὐνῆς κεράμια …
+r.2    τῆς η κεράμια ιε καὶ Σελλ[ήιον][ κεράμια δ],
+r.3    κϛ, κεράμια ρνδ κοτύλαι λδ, [γίνονται κεράμια]
+r.4    ρογ κοτύλαι λδ.
+r.5    παρεδόθη πράταις … [ πό]λεως κζ εἰς κη κεράμια [λδ,]
+r.6    λοιπὰ κεράμια ρλθ κοτύλαι λδ.
+r.7    κη, Ναρμούθεως. Ὡρίων [κεράμια ] …
+r.8    καὶ ἀπὸ συνωνῆς διὰ τοῦ αὐ[τοῦ]
+r.9    … κεράμια … κοτύλαι λε, καὶ …
+
+[TRANSLATION]
+# HGV-EN: ‘At Hiera, Aunes (has received) … jars, on the 8th, 15 jars, at Sel ... 4 jars, the 26th, 154 jars 34 cotylae, total 173 jars 34 cotylae; from which there have been handed over to the dealers of .. polis, from the 27th to the 28th 34 jars, remainder 139 jars 34 cotylae. The 28th, at Narmouthis, Horion (has received) … jars and by purchase through the same person … jars 35 cotylae, and ...’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

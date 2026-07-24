@@ -1,0 +1,30 @@
+[META]
+id:       BGU 2.438
+label:    BGU 2.438
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (158 CE – 159 CE)
+# hgv-keywords: Quittung — Sitologen
+tm:       9169
+source:   https://papyri.info/ddbdp/bgu;2;438
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    σιτολόγοις Καρανίδος. ἔσχον προσφωνήσας σπερμάτων κβ ἔτους Ἀντωνείνου
+r.2    Καίσαρος τοῦ κυρίου νγ Παπεὶς
+r.3    Πτολεμαίου Παγδ ἀρούρας ζ, Ψεναρψενήσεως
+r.4    Καμηλειανῆς ἀρούρας ϛ η λβ, Πτολεμαίδος προσόδου ἀρούρας β ιϛ λβ ξδ.
+
+[TRANSLATION]
+# HGV-EN: To the sitologoi of Karanis. I received under declaration (with a written sworn statement) from the seed grain of year 22 of Antoninus Caesar, the lord. (m. 2) 53rd (cleruchy). Papeis, son of Ptolemaios. For 7 arouras on the Pallantian (estate), at Psenarpsenesis for 6 1/8 1/32 arouras on the Camelian (estate), at Ptolemais for 2 1/16 1/32 1/64 arouras of revenue (land).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     To the sitologoi of Karanis. I received under declaration from seed grain of year 22 of Antoninus
+2     Caesar of the lord, 53rd, Papeis
+3     of Ptolemaios, [Pallantian estate] arouras 7, [at] Psenarpsenesis
+4     Camelian [estate] arouras 6 1/8 1/32, [at] Ptolemais of revenue arouras 2 1/16 1/32 1/64

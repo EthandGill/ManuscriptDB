@@ -1,0 +1,38 @@
+[META]
+id:       P.NAQLUN 2.27
+label:    P.NAQLUN 2.27
+name:     Letter — Naqlun (Arsinoites)
+genre:    letters
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Naqlun (Arsinoites)
+held:     
+shelf:    
+content:  Letter from Naqlun (Arsinoites) (501 CE – 600 CE)
+# hgv-keywords: Brief (privat) — NN an NN (seinen "Herrn") — Geschäftliches — Geld — Sendung von Fischen
+tm:       115537
+source:   https://papyri.info/ddbdp/p.naqlun;2;27
+lat:      29.193771
+lon:      30.876986
+
+[GREEK]
+r.1    τῶν [γρα]μμάτων τοῦ ἐμοῦ δεσπότου σήμερον … μεν …
+r.2    ἡ … ε … [ἀ]πέστειλα τοὺς ἀνθρ[ώπους] [μετὰ] [γ] νομισμάτων· [ἰ]δοὺ οὖν τὰ αρα …
+r.3    τὸ δὲ ἄλλο τεσσάρων … τεσσάρων … μένοις. καὶ εἰ
+r.4    μὴ, τρία οὐ θέλω. ἐγὼ παρέχω τ[ὸ λοιπὸν ἓν νόμ]ισμα. καὶ ἐὰ[ν] θέλῃ, τὸ ἄλλο [τεσσά]ρων
+r.5    νομισμάτων λάβω. καὶ αὐτῶι δὲ οὐκ ὀχλῆσαι ἐλπίζω εὑρεῖν τὴν χρείαν αὐτῆς εἰς ἄλλας
+r.6    δύο ἡμέρας. ἀπεταξάμην γάρ. νομίζω ὅτι ἐγένετο ἡ χρεία αὕτη, καὶ πρὸ ἐχθὲς
+r.7    ἐπωλήθησαν δύο ἕκαστον δύο ἥμισυ νομίσματα εἰς Ψενῦριν. ἀπέστειλα δὲ μετὰ τοῦ γραμματηφόρου κοριάξους παστοὺς ἐννέα καὶ νεα[ρο]ὺς πέντε. πολλὰ δ[ὲ] ἀσπάζομαι τὰ τίμια ἴχνη τοῦ
+r.8    ἐμοῦ δεσπότου.
+
+[TRANSLATION]
+# HGV-EN: … letter from my lord today ….. I sent people with three(?) nomismata – so here are nomismata of earnest-money (?)/as down payment. The rest of four [nomismata for four …….]. If not %for four%, I do not want three – I will supply [the remaining one] nomisma. And if (you? he?) wish/wishes (maybe: to sell four for three sol.), I will take the rest of the four nomismata. And I hope he will not have trouble finding your necessity (or: what you need) in the other (i.e., next) two days. For I gave up. I believe that such a need appeared. And the day before yesterday two were sold, each for two and a half nomismata, to Psennouris (or rather: in Psennouris?). With the messenger I sent koriaxoi, nine salted and five fresh. I greet very much the worthy footsteps of my lord.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

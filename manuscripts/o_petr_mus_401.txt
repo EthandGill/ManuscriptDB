@@ -1,0 +1,26 @@
+[META]
+id:       O.PETR.MUS 401
+label:    O.PETR.MUS 401
+name:     Receipt — Theben
+genre:    receipts
+date:     181 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (181 CE)
+# hgv-keywords: Quittung (Speicherquittung, Gerste)
+tm:       75441
+source:   https://papyri.info/ddbdp/o.petr.mus;;401
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἐπεὶφ ιγ τοῦ κα ἔτους ὀνόματος Πανα[μέως]
+r.2    Πετεχώνσιος κριθῆς ἀρτάβαι τέταρτον γίνονται κριθῆς ἀρτάβαι δι[β].
+r.3    ἄλλο Ἁθὺρ ιβ κριθῆς ιβ γίνονται χ δ[ϛ] …
+
+[TRANSLATION]
+1     
+2     
+3     

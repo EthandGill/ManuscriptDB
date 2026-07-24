@@ -1,0 +1,30 @@
+[META]
+id:       BGU 1.280
+label:    BGU 1.280
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (158 CE – 159 CE)
+# hgv-keywords: Quittung — Getreide — Saat — Sitologen
+tm:       9026
+source:   https://papyri.info/ddbdp/bgu;1;280
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σιτολόγοις Καρανίδος. ἔσχον προσφωνήσας
+r.2    σπερμάτων κβ ἔτους Ἀντωνείνου
+r.3    Καίσαρος τοῦ κυρίου ια κληρουχίας
+r.4    Πτολ[λ]ᾶς Πάπου Καρανίδος Ἀντωνίας ἀρουρῶν δ δ Πατσώντιος βασιλικῆς ἀρουρῶν ε.
+
+[TRANSLATION]
+# HGV-EN: To the sitologoi of Karanis. I received under declaration (with a written sworn statement) from the seed grain of year 22 of Antoninus Caesar, the lord. (m. 2) 11th cleruchy . Ptollas, son of Papos. At Karanis for 4 1/4 arouras on the (estate) of Antonia. At Patsontis for 5 arouras of royal (land).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

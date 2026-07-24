@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.426
+label:    O.STRAS 1.426
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     86 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (86 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       76014
+source:   https://papyri.info/ddbdp/o.stras;1;426
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Παχοῦμις Καλήους Παχούμιος
+r.2    … 𐅵 γίνεται 𐅵. ἔτους ε Δομιτιανοῦ
+r.3    Μεχεὶρ κδ.
+
+[TRANSLATION]
+1     
+2     
+3     

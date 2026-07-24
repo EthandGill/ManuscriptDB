@@ -1,0 +1,32 @@
+[META]
+id:       TRAVMEM 16.379_15
+label:    TRAVMEM 16.379_15
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     601 CE – 625 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     Cairo
+shelf:    
+content:  Receipt from Apollonopolis (601 CE – 625 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       702266
+source:   https://papyri.info/ddbdp/travmem;16;379_15
+lat:      25.8851095
+lon:      32.7365555
+
+[GREEK]
+r.1    ἔσχον
+r.2    παρὰ Ἁτερᾶ ὑπὲρ ἐκφορίου Πανσλις ιβ ἰνδικτίονος
+r.3    χρυσοῦ νομίσματα δύο παρὰ κεράτια
+r.4    δύο γίνεται νομίσματα β παρὰ κεράτια β
+r.5    Μουσαῖος ἀπαιτητὴς
+r.6    στοιχεῖ μοι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

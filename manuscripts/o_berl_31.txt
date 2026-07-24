@@ -1,0 +1,28 @@
+[META]
+id:       O.BERL 31
+label:    O.BERL 31
+name:     Receipt — Theben
+genre:    receipts
+date:     97 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (97 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       24423
+source:   https://papyri.info/ddbdp/o.berl;;31
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Πεκύσιος Νεφερῶτος
+r.2    ὑπὲρ λαογραφίας Χάρακος α ἔτους δραχμὰς δέκα , βαλανείων α ὀβολὸν α 𐅵
+r.3    καὶ προσδιαγραφόμενα. ἔτους α Νέρουα τοῦ κυρίου
+r.4    Μεχεὶρ λ ιβ. Ἡρακλ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

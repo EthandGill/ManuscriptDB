@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 409
+label:    O.PETR.MUS 409
+name:     Receipt — Theben
+genre:    receipts
+date:     180 CE – 192 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (180 CE – 192 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       75444
+source:   https://papyri.info/ddbdp/o.petr.mus;;409
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    παρεκ[ομίσθη] …
+r.2    ὀνόματος Φ[ … ] [ἀχύρου]
+r.3    γόμος εἷς γίνεται [γόμος α ἔτους] … [Αὐρηλίου]
+r.4    Κομμόδου Ἀ[ντωνίνου] [Καίσαρος τοῦ κυρίου]
+r.5    Παῦνι ιδ Ἀμώνιος σ[εσημείωμαι]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,50 @@
+[META]
+id:       BGU 1.118coliii
+label:    BGU 1.118coliii
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     189 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (189 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       8894
+source:   https://papyri.info/ddbdp/bgu;1;118coliii
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    [ἀπογράφομαι ἐμαυτὸν] καὶ τ[οὺς ἐμοὺς εἰς τὴν]
+r.2    [τοῦ] διεληλυθότος κη ἔτους Αὐρη[λίου Κομμόδου]
+r.3    Ἀντωνίνου Κ[αίσαρος τοῦ κυρίου κα]τʼ οἰκίαν ἀπογραφὴν [ἐπὶ τοῦ αὐτοῦ ἀμ]φόδου, ἐφʼ οὗ καὶ τ[ῇ] τ[οῦ ιδ ἔτους κατʼ οἰκίαν]
+r.4    ἀπογραφῇ ἀπεγρ[αψάμην. καί εἰμι]
+r.5    Χαιρέας ὁ προγεγ[ραμμένος ][ἐριο]πλύτης λαογραφ[ούμενος ἐπικεκρι]μένος ἐτῶν νδ ἄσημος, κα[ὶ τὴν γυναῖκά]
+r.6    μου Διοσκορίαν Αν … [ τοῦ Σα]ραπίωνος μητρὸς Θωταρ[ίου τῆς καὶ Σαρα]πιάδος ἀπὸ τῆς μη[τροπόλεως ] …
+r.7    τω … εμοι ἐπὶ το …
+r.8    ἐτῶν λδ καὶ τὰ ἐξ ἀμφοτέρων [τέκνα ] …
+r.9    δωμιαν ἐτῶν ιε ἄσημον καὶ …
+r.10   ριον ἐτῶν θ καὶ Χαιρέαν …
+r.11   καὶ Διοσ[κορ] … τ …
+r.12   δια π …
+r.13   ἔτους κθ Αὐρηλίου Κ[ομμόδου Ἀντωνίνου]
+r.14   τοῦ κυρίου Παῦν[ι ] …
+
+[TRANSLATION]
+# HGV-EN: [I register myself] and [my family for the] house-by-house registration of the past 28th year of Aure[lius Commodus] Antoninus C[aesar, the lord in the same] quarter, in which I registered in the [house by-house] registration of [year 14] as well. [And I am] Chaireas the above mentioned, woolwasher, subject to poll-tax, scrutinized, 54 years old, without a distinguishing mark, and (I register) [my wife] Dioskoria, daughter of An[– – –, son of Sa]rapion, mother Thotar[ion alias Sara]pias from the me[tropolis] 34 years old and [the children] from both of them mias, 15 years old, without a distinguishing mark and rios, 9 years old, and Chaireas and Dios[kor – – –]. Therefore I submit (this registration) Year 29 of Aurelius C[ommodus Antoninus], the lord, Payni [x].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

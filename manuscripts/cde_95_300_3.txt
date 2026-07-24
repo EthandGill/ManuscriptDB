@@ -1,0 +1,36 @@
+[META]
+id:       CDE 95.300_3
+label:    CDE 95.300_3
+name:     Receipt — Ptolemais Euergetis (Arsinoites)
+genre:    receipts
+date:     162 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     Manchester
+shelf:    
+content:  Receipt from Ptolemais Euergetis (Arsinoites) (162 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Geld
+tm:       12997
+source:   https://papyri.info/ddbdp/cde;95;300_3
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    ἔτους β Αὐτοκράτορος Καίσαρος
+r.2    Μάρκου Αὐρηλίου Ἀντωνίνου Σεβαστοῦ καὶ
+r.3    Αὐτοκράτορος Καίσαρος Λουκίου
+r.4    Αὐρηλίου Οὐήρου Σεβαστοῦ Μεσορη λ ἀριθμήσεως Μεσορη. διέγραψε
+r.5    Σάτυρος Ἀσκληπιάδου τοῦ Ἑρμίου μητρὸς Ταμυσθας
+r.6    ὑπὲρ λαογραφίας δευτέρου ἔτους Βουταφίου
+r.7    δραχμὰς εἴκοσι, γίνονται κ, προσδιαγραφομένων χαλκοῦ ὀβολοὺς δέκα.
+
+[TRANSLATION]
+# HGV-EN: Year 2 of Imperator Caesar Marcus Aurelius Antoninus Augustus and Imperator Caesar Lucius Aurelius Verus Augustus, Mesore 30, for the accounting of Mesore. Satyros, son of Asklepiades, grandson of Hermias, mother Tamystha, paid for the poll-tax of the second year for (the quarter of) Boutaphion twenty drachmas, total 20, for surcharges ten bronze obols.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

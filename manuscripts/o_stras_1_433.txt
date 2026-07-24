@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.433
+label:    O.STRAS 1.433
+name:     Receipt — Theben
+genre:    receipts
+date:     205 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (205 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       76021
+source:   https://papyri.info/ddbdp/o.stras;1;433
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ κγ τοῦ ιγ ἔτους Χάρακος ὀνόματος Θερμ[ο]ύθιος
+r.2    Ψεντκαλίβιος … ερμουτου
+r.3    … πυροῦ δίμοιρον
+r.4    κδ γίνεται 𐅷 κδ. σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

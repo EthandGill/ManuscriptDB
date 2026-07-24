@@ -1,0 +1,26 @@
+[META]
+id:       CPR 8.12
+label:    CPR 8.12
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     222 CE – 234 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (222 CE – 234 CE)
+# hgv-keywords: Quittung (Zuteilung von Getreide, Sitologen)
+tm:       9880
+source:   https://papyri.info/ddbdp/cpr;8;12
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [ἔτους ] … [ Αὐτοκρά]τορος Καίσαρος Μάρκου Αὐρηλίου Σεουήρου
+r.2    [Ἀλεξάνδρου Εὐσεβοῦ]ς Εὐτυχοῦς Σεβαστοῦ Παχὼν ιε.
+r.3    … καὶ οἱ [λο]ιποὶ σιτολόγοι κώμης Βουκόλων. ἐμετρήθη[σαν ἡμῖν ἐν τῷ θησ]αυρῷ τῆς προκειμένης κώμης ὑπὲρ δημοσίων γεωργῶν
+
+[TRANSLATION]
+1     
+2     
+3     

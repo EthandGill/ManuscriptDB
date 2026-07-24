@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 312
+label:    O.PETR.MUS 312
+name:     Receipt — Koptos
+genre:    receipts
+date:     40 CE
+language: Greek (Koiné)
+found:    Koptos
+held:     
+shelf:    
+content:  Receipt from Koptos (40 CE)
+# hgv-keywords: Quittung — Steuer (Ersatzzahlung ?) — Bank
+tm:       75465
+source:   https://papyri.info/ddbdp/o.petr.mus;;312
+lat:      25.9967
+lon:      32.8167
+
+[GREEK]
+r.1    διέγραψε διὰ τῆς Ἀπολ βασιλικῆς τραπέζης ὑπὲρ τι …
+r.2    γ ἔτους Θη Πικῶς Ἰμούθου …
+r.3    ἀρτάβαι ε ιβ … ἔτους δ Γαίου
+r.4    Καίσαρος Σεβαστοῦ Γερμανικοῦ Μεχεὶρ …
+r.5    καὶ ὁμοίως Ἐπεὶφ η δραχμὰς β κ … α … τ κρ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

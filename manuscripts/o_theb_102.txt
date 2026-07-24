@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 102
+label:    O.THEB 102
+name:     Receipt — Theben
+genre:    receipts
+date:     230 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (230 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76472
+source:   https://papyri.info/ddbdp/o.theb;;102
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ η τοῦ θ ἔτους ὀνόματος
+r.2    Σενπικῶτος Χάροπος
+r.3    ὑπὲρ λόγου ἀννώνης ἔτους ι κριθῆς
+r.4    ἀρτάβην μίαν γίνεται ἀρτάβη α.
+r.5    ἔτους θ. Φιδάμμων σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

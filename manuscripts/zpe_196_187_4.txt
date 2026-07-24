@@ -1,0 +1,34 @@
+[META]
+id:       ZPE 196.187_4
+label:    ZPE 196.187_4
+name:     Receipt — Hibis (Oasis Magna)
+genre:    receipts
+date:     326 CE – 400 CE
+language: Greek (Koiné)
+found:    Hibis (Oasis Magna)
+held:     New York
+shelf:    
+content:  Receipt from Hibis (Oasis Magna) (326 CE – 400 CE)
+# hgv-keywords: Quittung — Weizen
+tm:       653472
+source:   https://papyri.info/ddbdp/zpe;196;187_4
+lat:      25.4764
+lon:      30.5552
+
+[GREEK]
+r.1    κυρίῳ Αδοκλῆτι Κλαυδίου
+r.2    Ἡρακλάμμων Ἡρακλάμμωνος
+r.3    χαίρειν. παρέσχες … σίτου
+r.4    δημοσίῳ μέτρῳ ἀρτάβας τέσσαρες, γίνονται
+r.5    δημοσίῳ μέτρῳ ἀρταβαι δ. σεσημείωμαι ἐγὼ ὁ αὐτὸς
+r.6    τῆς ζ ἰνδικτίωνος.
+
+[TRANSLATION]
+# HGV-EN: To my lord Hadokles, son of Claudius, Heraklammon, son of Heraklammon (?), greetings. You have furnished … four artabas of wheat by the public (measure), total, 4 art. by public (measure). I, the above-named, have signed for the 7th indiction.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

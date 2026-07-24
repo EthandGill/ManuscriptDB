@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 72.4869
+label:    P.Oxy. 72.4869
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     123 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (123 CE)
+# hgv-keywords: Auftrag an den Sitologen von Ophis (diastolikon) — Giro - Überweisung von Weizen
+tm:       114249
+source:   https://papyri.info/ddbdp/p.oxy;72;4869
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Σαραπίων γραμματεὺς Ἰουλίου [Σα]ραπίωνος ὑπομνηματογράφου
+r.2    Διογένει σιτολόγῳ ἀπηλιώτου τοπαρχίας Ὤφεως τόπων
+r.3    χαίρειν. διάστειλον ἀφʼ οὗ ἔχεις ἐν θέματι πυροῦ γενήματος τοῦ ἐνεστῶτος ζ ἔτους Ἁδριανοῦ
+r.4    Καίσαρος τοῦ κυρίου τοῦ Ἰουλίου Σαραπίωνος
+r.5    Σαραπίωνι Σαραπίωνος μητρὸς Ταυσίριος
+r.6    Σεφω ἀρτάβας ἕξ, Θέωνι Ὀννωφρίου θέμα
+r.7    ἀρτάβας δώδεκα, γίνονται ἐπὶ τὸ αὐτὸ ἀρτάβαι ιη.
+r.8    ἔτους ἑβδόμου Ἁδριανοῦ Καίσαρος τοῦ
+r.9    κυρίου, Ἐπεὶφ δ, Σεβαστῇ.
+
+[TRANSLATION]
+# HGV-EN: Sarapion, secretary of Iulius Sarapion, hypomnematographus, to Diogenes, sitologus of the eastern toparchy, district of Ophis, greetings. Transfer, from the amount you hold on deposit for Iulius Sarapion, from the wheat-crop of the present 7th year of Hadrianus Caesar the lord, to Sarapion son of Sarapion, mother Tausiris, (for his account) at Sepho, six artabas; and to Theon son of Onnophris, (as a) deposit, twelve artabas, grand total 18 artabas. Year seventh of Hadrianus Caesar the lord, Epeiph 4, dies Augusta. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

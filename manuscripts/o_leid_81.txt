@@ -1,0 +1,32 @@
+[META]
+id:       O.LEID 81
+label:    O.LEID 81
+name:     Receipt — Theben
+genre:    receipts
+date:     82 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (82 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24653
+source:   https://papyri.info/ddbdp/o.leid;;81
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Φθουμώνθης Καλασίριος Φθουμώνθου
+r.2    ὑπὲρ χωματικοῦ Ἀγορῶν α ἔτους ϛ τετρώβολον, βαλανευτικοῦ τετρώβολον 𐅵, γίνονται ζ ὀβολοὶ β 𐅵
+r.3    καὶ τὰ προσδιαγραφόμενα. ἔτους β Αὐτοκράτορος
+r.4    Καίσαρος Δομιτιανοῦ Σεβαστοῦ
+r.5    μηνός Νέου Σεβαστοῦ λιϛ.
+r.6    Βάσσος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

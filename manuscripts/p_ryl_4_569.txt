@@ -1,0 +1,38 @@
+[META]
+id:       P.RYL 4.569
+label:    P.RYL 4.569
+name:     Petition — Philadelphia (Arsinoites)
+genre:    petitions
+date:     275 BCE – 226 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Petition from Philadelphia (Arsinoites) (275 BCE – 226 BCE)
+# hgv-keywords: Eingabe — Patymis an Zenon — Bitte um Rückgabe von Vieh in Parakatatheke
+tm:       2425
+source:   https://papyri.info/ddbdp/p.ryl;4;569
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    [Ζήνωνι χαίρε]ιν Πατῦμις Ἁραπάκτιος ἰσιονό[μος. ἐπίστη]ι διότι παρακαταθήκην δέδω[κα τὰς βο]ῦς τῆς Ἴσεως καὶ Ὀσίρεως. καλῶς οὖν
+r.2    [ποιήσει]ς, εἰ καὶ σοὶ δοκεῖ, ἣν ἄν σοι δοκῇ βοῦν
+r.3    [ἐκ τούτ]ων λαβεῖν, τὰς δὲ λοιπὰς ἀποδοῦναι
+r.4    [ὅπως ἂ]ν ἔχω τὸν βίον ἐξ αὐτῶν. ἐσκέπασες
+r.5    [ἡμᾶς κ]αὶ ἀρχῆς, ἔτι δὲ καὶ νῦν οὐδεὶς ἡμᾶς
+r.6    [μὴ σκε]πάσῃ ἀλλʼ ἢ σὺ οὕνεκεν τῆς Ἴσεως.
+r.7    [οὐδενὶ γ]ὰρ ἂν ἐπίστευσα ἀλλʼ ἢ σοὶ ἵνα σκεπά[σῃς ἡμᾶ]ς.
+r.8    εὐτύχει.
+
+[TRANSLATION]
+# HGV-EN: ‘To Zenon greeting from Patumis, son of Harapaktis, steward of Isis. You know that I have given to you as a deposit the cows of Isis and Osiris. Be good enough therefore, if you too agree, to take whichever one of them you please and give me back the rest in order that I may gain my living from them. You protected us in the beginning, and now again no one but you will protect us, for the sake of Isis. For I would not have put trust in anyone but you to protect us. May you prosper.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

@@ -1,0 +1,28 @@
+[META]
+id:       PSI 3.273
+label:    PSI 3.273
+name:     Receipt — Theben
+genre:    receipts
+date:     147 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (147 CE)
+# hgv-keywords: Quittung
+tm:       24402
+source:   https://papyri.info/ddbdp/psi;3;273
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ι ἔτους Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου Ἐπεὶφ δ ὑπὲρ Νότου
+r.3    ὀνόματος Ψεναμούνιος Ψάιτος Χεσφμόιτος
+r.4    πυροῦ μίαν τρίτον γίνεται πυροῦ α γ Καροῦρις σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,36 @@
+[META]
+id:       P.Cair.Zen. 2.59200
+label:    P.Cair.Zen. 2.59200
+name:     Letter — Alexandria
+genre:    letters
+date:     254 BCE
+language: Greek (Koiné)
+found:    Alexandria
+held:     
+shelf:    
+content:  Letter from Alexandria (254 BCE)
+# hgv-keywords: Brief — Apollonios an Zenon — Anweisung — Bau — Gebäude
+tm:       845
+source:   https://papyri.info/ddbdp/p.cair.zen;2;59200
+lat:      31.201435
+lon:      29.909773
+
+[GREEK]
+r.1    [Ἀπολλώ]νιος Ζήνωνι χαίρειν, οἰκοδόμησον
+r.2    [στοὰν] ἐν Φιλαδελφείαι ἐν ὧι ἂν τόπω[ι]
+r.3    … λ … ὁ ἀρχιτέκτων ὅπως
+r.4    … κυρ … κατασκευάζηται.
+r.5    ἔρρωσο. ἔτους λα, Δύστρου κ,
+r.6    Φαμενὼθ κζ.
+r.7    Ζήνωνι.
+r.8    στοᾶς.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

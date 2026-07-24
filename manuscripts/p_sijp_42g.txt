@@ -1,0 +1,38 @@
+[META]
+id:       P.SIJP 42g
+label:    P.SIJP 42g
+name:     Documentary papyrus — Narmuthis (Arsinoites)
+genre:    documents
+date:     203 CE
+language: Greek (Koiné)
+found:    Narmuthis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Narmuthis (Arsinoites) (203 CE)
+# hgv-keywords: Bescheinigung — Arbeit — Deich
+tm:       110209
+source:   https://papyri.info/ddbdp/p.sijp;;42g
+lat:      29.19227245
+lon:      30.64189235
+
+[GREEK]
+r.1    ἔτους ια Λουκίου Σεπτιμίου Σεοήρου
+r.2    Εὐσεβοῦς Περτίνακος καὶ Μάρκου Αὐρηλίου
+r.3    Ἀντωνίνου Εὐσεβοῦς Σεβαστῶν καὶ Πουβλίου
+r.4    Σεπτιμίου Γέτα Καίσαρος Σεβαστοῦ. εἴργασται ὑπὲρ χωμάτων ια ἔτους
+r.5    Παῦνι κϛ ἕως λ ἐν τῇ Ἑρμοίθου διώρυγι
+r.6    Ναρμούθεως
+r.7    Ἀγχορίμφις Πελω …
+r.8    γναφεύς.
+
+[TRANSLATION]
+# HGV-EN: Im 11. Regierungsjahr des Lucius Septimius Severus Pius Pertinax und Marcus Aurelius Antoninus Pius, der Augusti, und des Publius Septimius Geta Caesar Augustus. Es hat gearbeitet an den Deichen für das 11. Jahr (hand 2) vom 26.-30 Payni, am Hermoithes-Kanal von Narmuthis, (hand 3) Anchorimphis, Sohn des Pelo(-), Walker.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

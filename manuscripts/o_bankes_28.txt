@@ -1,0 +1,30 @@
+[META]
+id:       O.BANKES 28
+label:    O.BANKES 28
+name:     Receipt — Elephantine
+genre:    receipts
+date:     117 CE – 120 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (117 CE – 120 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, merismos potamophylakidon)
+tm:       699501
+source:   https://papyri.info/ddbdp/o.bankes;;28
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σανμοῦς πράκ[τωρ· διέγραψεν]
+r.2    Πετορζμῆθ[ις Που]ήρεως ὑπὲρ μ[ερισμοῦ]
+r.3    ποταμοφ[υλακίδος] … [ἔτους]
+r.4    [Ἁ]δριανο[ῦ] [τοῦ κυρίου]
+r.5    [ῥυπαρὰν δραχμὴν] α πεντώβολον
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       O.CLAUD 4.810
+label:    O.CLAUD 4.810
+name:     Documentary papyrus — Mons Claudianus
+genre:    documents
+date:     110 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Mons Claudianus (110 CE)
+# hgv-keywords: Auftrag — Ausgabe von Werkzeug (Hämmer) — Steinbruch
+tm:       118462
+source:   https://papyri.info/ddbdp/o.claud;4;810
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    δὸς εἰς τὸν Φιλοσάραπιν
+r.2    εἰς κατάσπασιν σφυρίδας
+r.3    εἴκοσι κ.
+r.4    Χοιὰκ α
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

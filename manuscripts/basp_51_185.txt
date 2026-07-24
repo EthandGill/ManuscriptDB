@@ -1,0 +1,54 @@
+[META]
+id:       BASP 51.185
+label:    BASP 51.185
+name:     Letter — Nahal Hever (Iudaea)
+genre:    letters
+date:     135 CE
+language: Greek (Koiné)
+found:    Nahal Hever (Iudaea)
+held:     Jerusalem
+shelf:    
+content:  Letter from Nahal Hever (Iudaea) (135 CE)
+# hgv-keywords: Brief (privat) — Sumaios an Jonathes und Masabala — Holz — Obst — Fest (jüdisch)
+tm:       29268
+source:   https://papyri.info/ddbdp/basp;51;185
+lat:      31.73416715
+lon:      35.0017203
+
+[GREEK]
+r.1    Σου[μαῖ]ος Ἰωναθῆι
+r.2    Βειανοῦ καὶ Μα[σ]αβάλα[ι] χαίρειν.
+r.3    ἐπειδὴ ἔπεμψα πρὸς
+r.4    ὑμᾶς Ἀ[γ]ρίππαν σπουδ[άσα]τε πέμψαι μοι
+r.5    θ[ύ]ρσου[ς] καὶ κίτρεια,
+r.6    ὅ[σον] δυνασθήσετε,
+r.7    εἰς [π]αρεμβολὴν Ἰουδ[αί]ων καὶ μὴ ἄλλως
+r.8    π[οι]ήσετε. ἐγράφη
+r.9    δ[ὲ] Ἑλληνιστὶ διὰ
+r.10   τ[ὸ ἡ]μᾶς μὴ εὑρηκ[έ]ναι Ἑβραϊστί
+r.11   ἐ[γγρ]άψασθαι. αὐτὸν
+r.12   ἀπ[ό]λυσαι τάχιον
+r.13   δι[ὰ τ]ὴν ἑορτὴν
+r.14   κα[ὶ μ]ὴ ἄλλως ποιήσε[τε].
+r.15   Σουμαῖος
+r.16   ἔρρωσο
+
+[TRANSLATION]
+# HGV-EN: Soumaios to Yonathes son of Beianos and to Masabala, greetings. Since I have sent to you Agrippa, hurry to send me wands and citrons, as much as you will be able, for the camp of the Jews, and do not do otherwise. It (scil. the letter) was written in greek because of our inability to write Jewish script. Release him (i.e., Agrippa) more quickly on account of the festival, and do not do otherwise. (2nd hand) Soumaios, farewell.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

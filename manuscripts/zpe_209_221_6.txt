@@ -1,0 +1,34 @@
+[META]
+id:       ZPE 209.221_6
+label:    ZPE 209.221_6
+name:     Receipt — Elephantine
+genre:    receipts
+date:     129 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (129 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       818059
+source:   https://papyri.info/ddbdp/zpe;209;221_6
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Καλασῖρις πράκτωρ ἀργυρικῶν διὰ
+r.2    Ἰουνίου Οὐάλεντος βοηθοῦ. διέγραψεν Βιῆγχις Πεηεῖτος
+r.3    μητρὸς Θινασέπτιος ὑπὲρ
+r.4    μερισμοῦ ποταμοφυλακίδος καὶ στατιῶνος
+r.5    ιδ ἔτους Ἁδριανοῦ τοῦ κυρίου
+r.6    δραχμὴν α τετρώβολον χαλκοῦς β ἔτους ιδ Ἁδριανοῦ
+r.7    τοῦ κυρίου Χοιὰκ κα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.1125
+label:    O.BODL 2.1125
+name:     Receipt — Theben
+genre:    receipts
+date:     69 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (69 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71812
+source:   https://papyri.info/ddbdp/o.bodl;2;1125
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Φαῆρις Παμώνθου διὰ Ἀσκληπιᾶς
+r.2    ὑπὲρ σκελ α ἔτους δραχμὰς ἑπτὰ ὀβολοὺς πέντε ἡμιωβέλιον
+r.3    γίνονται ζ ὀβολοὶ ε 𐅵 καὶ προσδιαγραφόμενα. ἔτους α Αὔλου Οὐιτελλίου Καίσαρος
+r.4    Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+r.5    Ἐπὶφ κδ. Ἡρακλείδης σεσημείωμαι. ἄλλας κθ δραχμὰς τρεῖς τετρώβολον ἡμιωβέλιον
+r.6    γίνονται δραχμαὶ γ ὀβολοὶ δ 𐅵. Βάσσος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,32 @@
+[META]
+id:       O.THEB 101
+label:    O.THEB 101
+name:     Receipt — Theben
+genre:    receipts
+date:     143 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (143 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76471
+source:   https://papyri.info/ddbdp/o.theb;;101
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ὧρος καὶ μέτοχοι ἀπαιτηταὶ μερισμοῦ τέλους ὠνίων Ἀγορῶν Νότου
+r.2    Σεντιθοήτι νεωτέρᾳ Ἰναρῶτος διὰ Ἰναρῶτος
+r.3    Ὥρου. ἔσχομεν ὑπὲρ μερισμοῦ ε ἔτους ὀβολοὺς δ
+r.4    γίνονται ὀβολοὶ δ. ἔτους ϛ Ἀντωνίνου Καίσαρος
+r.5    τοῦ κυρίου Φαῶφι κ.
+r.6    Πικῶς σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

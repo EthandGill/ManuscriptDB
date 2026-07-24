@@ -1,0 +1,40 @@
+[META]
+id:       P.PETR.KLEON 28
+label:    P.PETR.KLEON 28
+name:     Letter — Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+genre:    letters
+date:     260 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+held:     London
+shelf:    
+content:  Letter from Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob (260 BCE – 249 BCE)
+# hgv-keywords: Brief (geschäftlich) — Alexandros an Kleon — Holz
+tm:       7664
+source:   https://papyri.info/ddbdp/p.petr.kleon;;28
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἀλέξανδρος Κλέων[ι χαίρειν] …
+r.2    τοὺς κατὰ παν …
+r.3    νομάρχαι … ν διδόασιν α …
+r.4    περὶ δὲ τ … δοθῆναι κατα …
+r.5    ἡμεῖς ἐγρ[ά]ψ[αμέν] σοι τὴ[ν] … ν δοϑῆναι αὐ[τῶι] …
+r.6    δοθήτωσαν Ε. βούλονται δέ τινες εἰς σ …
+r.7    μυρικίνων. γράψον αὐτῶι ἐκ Πτολεμαίδος δ[οῦναι] …
+r.8    ὡσαύτως δὲ καὶ τῆς Διογένους νομαρχίας.
+r.9    [Ἀ]λεξάνδρου.
+
+[TRANSLATION]
+# HGV-EN: Alexandros to Kleon, greetings. [...] those [...] nomarchs [...] they give [...] about the [...] to be given [...] we have written you that the [...] should be given to him [...] 5,000 are to be given. Some want about 200 [...] of tamarisk (twigs). Write to him from Ptolemais [to give ...] as well as the nomarchy of Diogenes. From Alexandros.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

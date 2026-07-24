@@ -1,0 +1,56 @@
+[META]
+id:       P.Oxy. 6.930
+label:    P.Oxy. 6.930
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (101 CE – 300 CE)
+# hgv-keywords: Brief (privat) — NN (Mutter) an ihren Sohn Ptolemaios — der Sohn soll sich möglichst schnell nach einem neuen Lehrer umsehen — Lektüre (Homer) — Erziehung
+tm:       28341
+source:   https://papyri.info/ddbdp/p.oxy;6;930
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … υ μὴ ὄκνει μοι
+r.2    [γ]ράφειν καὶ περὶ ὧν ἐ[ὰ]ν χρείαν ἔχῃς ἐντεῦθεν ἐλυπήθην ἐπιγνοῦσα παρὰ τῆς θυγατρὸς
+r.3    τοῦ καθηγητοῦ ἡμῶν
+r.4    Διογένους καταπεπλευκέναι αὐτόν· ἠμερίμνουν
+r.5    γὰρ περὶ αὐτοῦ εἰδυῖα ὅτι κατὰ δύν[α]μιν μέλλει
+r.6    σοι προσέχειν. ἐμέλησε
+r.7    δέ μοι πέμψαι καὶ πυθέσθαι περὶ τῆς ὑγιείας σου καὶ
+r.8    ἐπιγνώναι τί ἀναγιγνώσκεις. καὶ ἔλεγεν τὸ ζῆτα,
+r.9    ἐμαρτύρει δὲ πολλὰ περὶ τοῦ παιδαγωγοῦ σου.
+r.10   ὥστε οὖν, τέκνον, μελησάτω σοί τε καὶ τῷ παιδαγωγῷ σου καθήκοντι καθηγητῇ σε παραβάλλειν.
+r.11   ἀσπάζονταί σε πολλὰ αἱ
+r.12   ἀδελφαί σου καὶ τὰ ἀβάσκαντα παιδία Θεωνίδος
+r.13   καὶ οἱ ἡμέτεροι πάντες
+r.14   κατʼ ὄνομα. ἄσπασαι τὸν
+r.15   τιμιώτατον παιδαγωγόν σου Ἔρωτα.
+r.16   … ταιδ … ἐρρ … Ἁθὺρ β …
+r.17   … Πτολεμαίῳ υἱῶι.
+
+[TRANSLATION]
+# HGV-EN: ... do not hesitate to write to me about anything which you require. It grieved me to learn from the daughter of our teacher Diogenes that he had sailed, for I had no anxiety about him, knowing that he intended to look after you to the best of his ability. I took care to send and ask about your health and learn what you are reading; he said that it was the sixth book and testified at length concerning your attendant. So my son, I urge both you and your attendant to take care that you go to a suitable teacher. Many salutations are sent to you by your sisters and Theonis’ children, whom the evil eye shall not harm, and by all our friends by name. Salute your esteemed attendant Eros ... (Addressed) ... to her son Ptolemaeus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

@@ -1,0 +1,58 @@
+[META]
+id:       JJP 44.108_2
+label:    JJP 44.108_2
+name:     Contract — Theadelpheia (Arsinoites)
+genre:    contracts
+date:     71 BCE
+language: Greek (Koiné)
+found:    Theadelpheia (Arsinoites)
+held:     Ann Arbor
+shelf:    
+content:  Contract from Theadelpheia (Arsinoites) (71 BCE)
+# hgv-keywords: Vertrag — Darlehen — Geld
+tm:       700717
+source:   https://papyri.info/ddbdp/jjp;44;108_2
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ἔτους ια Χοιὰχ ιδ ἐδάνεισεν
+r.2    … ος
+r.3    Ζωσίμωι τῶι καὶ Ἀρεβρ[ῦ]τι Πασί[ω]νος Πέρσηι τῆς ἐπιγονῆς καὶ … λ
+r.4    τούτου μητρὶ Ἀπολλωνίαι τῆι καὶ Σεν … Ζωσίμου τοῦ καὶ
+r.5    Ἀρεβρωῦτο[ς] … υἱοῦ ἀργυρίου ἐπισήμου δοκίμου
+r.6    Πτολεμαικοῦ … δ[ρ]αχμὰς ε … οε ἀποδότω Παῦνι
+r.7    τοῦ αὐτοῦ ια ἔτους … ισ … κ … Διονύσιος συγγραφοφύλαξ Πτολ
+r.8    Ζώσιμος ὃς καὶ Ἀρεβρῶς Πασίωνος Πέρσης τῆς
+r.9    ἐπιγονῆς ἔχω τὸ δάνειον σὺν τῆι μητρὶ
+r.10   μοῦ Ἀπολλωνίᾳ τῆι κ[α]ὶ Σενύρει Περσίνηι
+r.11   μετὰ κυρίου ἐμοῦ τὰς τοῦ ἐπισήμου ἀργυρίου
+r.12   δοκίμου Πτολεμαικοῦ νομίσματος δραχμὰς
+r.13   ἑβδομήκοντα πέντε ἐν τόκοις διδράχμοις
+r.14   καὶ ἀποδώσομεν ἐν μηνὶ Παῦνι τοῦ ἑνδεκάτου ἔτους καὶ ἐγγυώμεθ’ ἀλλήλους
+r.15   εἰς ἔκτισιν καθώς γέγραπται καὶ τεθείμεθα τὴν συγγραφὴν κυρίαν παρὰ Πτολ[ … -8]. ἔγραψεν Διονύσιος Διονυσίου
+r.16   [ἀξιωθεὶ]ς ὑπ’ αὐτῶν διὰ τὸ φάσκειν αὐτοὺς μὴ ἐπίστασθαι γράμματα.
+r.17   ἔτους ια Χοιὰχ ιδ ἀναγέγραπται διὰ Πετάλου
+r.18   νομογράφου τοῦ πρὸς τῶι γραφείωι Θεαδελφείας
+
+[TRANSLATION]
+# HGV-EN: 11th year, Choiach 14. (blank) lent to Zosimos, alias Arebrus, son of Pasion, Persian of the epigone, and … his mother Apollonia, alias Senyris, with her son Zosimos, alias Arebrous as guardian (?) … 75 (?) drachmas of coined silver of genuine Ptolemaic issue. He is to repay it in Pauni of the same 11th year … Dionysios. Guardian of the contract: Ptol( ). I, Zosimos, alias Arebros, son of Pasion, Persian of the epigone, have the loan, along with my mother Apollonia, alias Senyris, Persian, with me as her guardian, the seventy five drachmas of coined silver of genuine Ptolemaic issue, at the two-drachma interest rate, and we will pay it back in the month of Pauni of the eleventh year and we are mutual sureties for full repayment according to what has been written and we have placed the valid contract with Ptol…. I, Dionysios, son of Dionysios, having been asked, wrote on their behalf since they said that they do not know letters. 11th year, Choiach 14. Registered through Petalos, notary in charge of the writing office of Theadelphia.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

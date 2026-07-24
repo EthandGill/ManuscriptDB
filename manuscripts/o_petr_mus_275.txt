@@ -1,0 +1,34 @@
+[META]
+id:       O.PETR.MUS 275
+label:    O.PETR.MUS 275
+name:     Receipt — Theben
+genre:    receipts
+date:     159 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (159 CE)
+# hgv-keywords: Quittung — Steuer (Begräbnissteuer, telos taphes)
+tm:       75377
+source:   https://papyri.info/ddbdp/o.petr.mus;;275
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετοσῖρις καὶ μέτοχοι τελῶναι
+r.2    ἱματιοπωλῶν
+r.3    Σεναμφιώμει. ἔχομεν παρὰ σοῦ ὑπὲρ
+r.4    τέλους ταφῆς α δραχμὰς β.
+r.5    ἔτους κγ Ἀντωνίνου Καίσαρος
+r.6    τοῦ κυρίου Ἀθύρ …
+r.7    σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

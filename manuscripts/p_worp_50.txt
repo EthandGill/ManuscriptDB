@@ -1,0 +1,52 @@
+[META]
+id:       P.WORP 50
+label:    P.WORP 50
+name:     Letter — Umm Balad
+genre:    letters
+date:     76 CE – 125 CE
+language: Greek (Koiné)
+found:    Umm Balad
+held:     Qift
+shelf:    
+content:  Letter from Umm Balad (76 CE – 125 CE)
+# hgv-keywords: Brief (privat) — Sokrates an Hieronymos (seinen "Bruder") — Sendungen von Geräten für die Arbeiten im Steinbruch
+tm:       115579
+source:   https://papyri.info/ddbdp/p.worp;;50
+lat:      27.1474256127
+lon:      33.2913886735
+
+[GREEK]
+r.1    [Σωκράτης Ἱερωνύμῳ] τῶι ἀδελφῶι
+r.2    χαίρειν.
+r.3    [μὰ τὴν σὴν σωτηρίαν καὶ] τὸν κύριον Ἄμμωνα
+r.4    … μὴ τὰ ἐν τῇ λατομίᾳ
+r.5    … [ ο]ὐδὲ τῶι Ἀραβάρχηι πολλὰ
+r.6    … υ γράψεις ἔπεμψα ἐπὶ δύο
+r.7    … ἆραι ὁ Σωκ[ράτ]ης. κα[λ]ῶς δὲ
+r.8    [ποιήσεις πέμ]ψας μοι τοὺ[ς] δέκα δακτυλίους
+r.9    … ξ ἐμοῖ γὰρ ἠνέχθη δι’ ἐπιστολῆς Ῥούφου
+r.10   Φαουστίνου σὺν σανδάλοις διὰ τῆς ἁμάξης ἵνα
+r.11   σανδαλιώθῃ ὁ χαμουλκὸς πρὸς τὴν κατάσπασιν τῶν τριποδέων καὶ τῶν πλακῶν.
+r.12   πρὸ πάντων ἐρρῶσθαί σε ἐπιθυμῶ.
+r.13   ἄσπ[ασαι] Μάξιμον καὶ πάντας
+r.14   [τοὺ]ς σκληρουργούς. ἔρρωσο. Πάχων
+r.15   η
+
+[TRANSLATION]
+# HGV-EN: Sokrates to his brother Hieronymos, greetings. By your health and by the Lord Ammon … neither in the quarry … nor in Arabarches many … you will write. I sent for two … Sokrates to take. Please then, send me the ten rings, for … has been brought to me in a letter from Rufus Faustinus along with the runners by the wagon, in order that the sledge can be fitted with runners with a view to bringing down the three-foot blocks and the plates. Before all else I desire that you are well. Greet Maximus and all the stonemasons. Farewell. Pachon 8.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

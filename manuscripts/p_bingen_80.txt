@@ -1,0 +1,32 @@
+[META]
+id:       P.BINGEN 80
+label:    P.BINGEN 80
+name:     Receipt — Elephantine
+genre:    receipts
+date:     113 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (113 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Geld
+tm:       78048
+source:   https://papyri.info/ddbdp/p.bingen;;80
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [διέγραψεν] Ἁρπαῆσ[ις]
+r.2    … [ὑ]πὲρ λαογραφίας
+r.3    [τοῦ ιϛ ἔτους Τραιανο]ῦ τοῦ κυρίου
+r.4    [δραχμὰς δεκαεπτὰ] γίνονται δραχμαὶ ιζ. ἔτους ιζ
+r.5    [Τραιανοῦ τοῦ κυ]ρίου Χοιὰκ ε,
+r.6    [διὰ Λουκίου Αὐρ]ηλίου ἐπιτηρητοῦ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.744
+label:    O.BODL 2.744
+name:     Receipt — Theben
+genre:    receipts
+date:     152 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (152 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71434
+source:   https://papyri.info/ddbdp/o.bodl;2;744
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεψάις τελώνης θησαυροῦ ἱερῶν
+r.2    Πετεμενώφει Πετεχώνσιος Πικῶτος.
+r.3    ἔσχον τιμὴν πυροῦ ἀρτάβης δωδέκατον ὑπὲρ βαλανευτικοῦ
+r.4    τοῦ ιε ἔτους Ἀντωνίνου Καίσαρος
+r.5    τοῦ κυρίου Παῦνι ιε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

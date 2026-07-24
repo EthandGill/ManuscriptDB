@@ -1,0 +1,30 @@
+[META]
+id:       P.PHIL 30
+label:    P.PHIL 30
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     138 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (138 CE)
+# hgv-keywords: Quittung — Gewerbe — Steuern — Weber
+tm:       12732
+source:   https://papyri.info/ddbdp/p.phil;;30
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ἔτους κα Αὐτοκράτορος Καίσαρος
+r.2    Τραιανοῦ Ἁδριανοῦ Σεβαστοῦ
+r.3    Φαμενὼθ κθ εἰς ἀρίθμησιν Μεχεὶρ.
+r.4    διέγραψε Ἡρακλείδης Ὡριγᾶτος γερδιακοῦ Φιλαδελφείας
+r.5    κα ἔτους νομαρχίας … δραχμαὶ ἐνενήκοντα ἕξ, γίνονται δραχμαὶ ϙϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

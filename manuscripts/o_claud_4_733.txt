@@ -1,0 +1,44 @@
+[META]
+id:       O.CLAUD 4.733
+label:    O.CLAUD 4.733
+name:     Documentary papyrus — Mons Claudianus
+genre:    documents
+date:     98 CE – 117 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Mons Claudianus (98 CE – 117 CE)
+# hgv-keywords: Liste — Einsatzort — Personen — Arbeiter — Steinbruch
+tm:       118385
+source:   https://papyri.info/ddbdp/o.claud;4;733
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Λουτῆρι
+r.2    Φοῖνιξ
+r.3    Κούπιτος
+r.4    Ἀμμώνις
+r.5    Φαυστίλλος
+r.6    πραισιδίῳ
+r.7    Σεραπίων Καπελᾶ
+r.8    Χρύσης
+r.9    Τρύφων
+r.10   Λούκις
+r.11   Ἐπεὶφ ζ
+
+[TRANSLATION]
+# HGV-EN: To the bath(-quarry): Phoinix, Koupitos, Ammonios, Faustillus. To the praesidium, Sarapion Kapela, Chryses, Tryphon, Lucius. Epeiph 7.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

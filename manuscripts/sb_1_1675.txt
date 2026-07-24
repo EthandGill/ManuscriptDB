@@ -1,0 +1,28 @@
+[META]
+id:       SB 1.1675
+label:    SB 1.1675
+name:     Receipt — Theben
+genre:    receipts
+date:     199 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (199 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       32089
+source:   https://papyri.info/ddbdp/sb;1;1675
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πλῆνις καὶ μέτοχοι τελῶναι πεντηκοστῆς
+r.2    Μεμνονείων Πετοσίρει χαίρειν.
+r.3    ἀπέχομεν παρὰ σοῦ τέλος ἐξαγωγῆς πυροῦ
+r.4    ὄνοι κ. ἔτους ζ Φαμενὼθ η.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

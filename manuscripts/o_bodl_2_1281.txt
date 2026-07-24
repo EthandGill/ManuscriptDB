@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1281
+label:    O.BODL 2.1281
+name:     Receipt — Theben
+genre:    receipts
+date:     129 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (129 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       71964
+source:   https://papyri.info/ddbdp/o.bodl;2;1281
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν κωμῶν γενήματος ιγ ἔτους Ἁδριανοῦ
+r.2    τοῦ κυρίου Θὼθ ιβ ὀνόματος Ε …
+r.3    Πετεμενώφιος ὑπὲρ Ἀγορῶν πυροῦ ἀρτάβη μία [γίνεται πυροῦ ἀρτάβη α καὶ ὀνόματος]
+r.4    Ψενχώνσιος Πετεχώνσιος ὑπὲρ …
+r.5    γίνεται πυροῦ ἀρτάβη α γ … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

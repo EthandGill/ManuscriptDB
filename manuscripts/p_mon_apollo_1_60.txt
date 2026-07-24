@@ -1,0 +1,30 @@
+[META]
+id:       P.MON.APOLLO 1.60
+label:    P.MON.APOLLO 1.60
+name:     Documentary papyrus — Bawit
+genre:    documents
+date:     701 CE – 800 CE
+language: Greek (Koiné)
+found:    Bawit
+held:     Cambridge
+shelf:    
+content:  Documentary papyrus from Bawit (701 CE – 800 CE)
+# hgv-keywords: Garantie — dikaion
+tm:       86609
+source:   https://papyri.info/ddbdp/p.mon.apollo;1;60
+lat:      27.532343
+lon:      30.72925
+
+[GREEK]
+r.1    … [ⲡⲣⲁϣⲉ] … [ⲙⲛ ⲁⲡ]ⲟⲗⲗⲱ ⲡⲉⲕⲱⲧ ⲡϣⲛ ⲡμακάριος ⲓⲱϩⲁⲛⲏⲥ
+r.2    … [ⲉⲛⲥϩⲁⲓ ⲛ] … [ⲛ]ⲡδίκαιον ⲛⲡμοναστήριον ⲛⲡἅγιος ⲁⲡⲁ ⲁⲡⲟⲗⲗⲱ ϩⲓⲧⲟⲟⲧϥ
+r.3    [ⲛ] … [ⲡ]ⲉⲓⲱⲧ ⲛⲡτόπος ϫⲉ ἐπειδή ⲛⲧⲁϩⲁⲧⲣⲉ
+r.4    … [ⲥ]ⲉⲣⲛⲏ ϩⲛ ⲡμοναστήριον …
+r.5    ⲧἐγγύη ⲛⲡⲁⲥⲟⲛ ⲡⲣⲁϣⲉ ⲡ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       P.LOUVRE 3.176
+label:    P.LOUVRE 3.176
+name:     Documentary papyrus — Tebtynis (?)
+genre:    documents
+date:     19 CE
+language: Greek (Koiné)
+found:    Tebtynis (?)
+held:     Paris
+shelf:    
+content:  Documentary papyrus from Tebtynis (?) (19 CE)
+# hgv-keywords: Datumsformel
+tm:       978732
+source:   https://papyri.info/ddbdp/p.louvre;3;176
+lat:      29.10713705
+lon:      30.7620317
+
+[GREEK]
+r.1    … ατεαρ- Ετα … ς νεωτέρου Πετοσίριος
+r.2    … [Π]ετοσίριος καὶ Πετοσῖρις υἱὸς Θαβφετοσίριος
+r.3    … [ἔτους] [ι]ε Τιβερίου Καίσαρος Σεβαστοῦ
+r.4    Παχὼν ια.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

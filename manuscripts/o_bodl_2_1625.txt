@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.1625
+label:    O.BODL 2.1625
+name:     Receipt — Theben
+genre:    receipts
+date:     243 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (243 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       72308
+source:   https://papyri.info/ddbdp/o.bodl;2;1625
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως τοῦ ζ ἔτους γενήματος ε ἔτους
+r.2    τοῦ κυρίου ἡμῶν Αὐτοκράτορος
+r.3    Καίσαρος Μάρκου Ἀντωνίου
+r.4    Γορδιανοῦ Εὐσεβοῦς Εὐτυχοῦς Σεβαστοῦ
+r.5    Φαῶφι ζ ὑπὲρ Νότου καὶ Λιβὸς ὀνόματος Ψανσνῶτος Ἑριέως
+r.6    πυροῦ δύο γίνονται πυροῦ ἀρτάβαι β. Αὐρήλιος Διόσκορος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

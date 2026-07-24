@@ -1,0 +1,28 @@
+[META]
+id:       BGU 6.1352
+label:    BGU 6.1352
+name:     Receipt — Elephantine
+genre:    receipts
+date:     135 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (135 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       4658
+source:   https://papyri.info/ddbdp/bgu;6;1352
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [ἔ]τους λε Παῦνι … [ τέ]τακται εἰς ἐννόμ[ιον]
+r.2    Ἀσκληπι[ά]δης Οσιμ …
+r.3    δραχμὰς ἑπτακοσίας ἐνενή[κον]τα πέντε γίνονται ψϙε.
+r.4    Ἀσκλᾶς [τραπεζίτης ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

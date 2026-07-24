@@ -1,0 +1,30 @@
+[META]
+id:       O.CAIR 90
+label:    O.CAIR 90
+name:     Receipt — Theben
+genre:    receipts
+date:     34 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (34 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       73438
+source:   https://papyri.info/ddbdp/o.cair;;90
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφασι κληρονόμοι Παμώνθου Σανοῦς ὑπὲρ οἴνου
+r.2    τέλους ιθ ἔτους πέντε ὀβολοὺς ἡμιωβέλιον γίνονται ὀβολοὶ ε 𐅵, καὶ
+r.3    τὰ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου. ἔτους κ Τιβερίου
+r.4    Καίσαρος Σεβαστοῦ Χοιὰχ λ ϛ.
+r.5    Πετεμενῶφις Πικῶτος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

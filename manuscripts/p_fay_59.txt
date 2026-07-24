@@ -1,0 +1,38 @@
+[META]
+id:       P.Fay. 59
+label:    P.Fay. 59
+name:     Receipt — Theadelphia (Arsinoites)
+genre:    receipts
+date:     178 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Theadelphia (Arsinoites) (178 CE)
+# hgv-keywords: Quittungen — Steuern — Geld
+tm:       10909
+source:   https://papyri.info/ddbdp/p.fay;;59
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ἔτους ιη [Αὐ]ρηλίων Ἀν[τω]νίνου καὶ
+r.2    Κομμόδου τῶν κυρίων Σεβαστῶν, Ἐπεὶφ
+r.3    ϛ, διέγραψε Σαραπίωνι ἐγλήμπτορι κοπῆς καὶ χειρωναξίου
+r.4    Διονύσιος Διδύμου ἀπὸ ἀμφόδου Λινυφε[ί]ων
+r.5    … β ἐν κώμῃ Θεαδελφείᾳ ὑπὲρ χειρωναξίου τ[ο]ῦ αὐ[τοῦ]
+r.6    [ἔτους] ἐπὶ λόγου ἀργυρίου δραχμὰς ὀκτώ, γίνονται δραχμαὶ η. καὶ ιθ ἔτους, Ἀθὺρ ιγ,
+r.7    [διέγ]ραψεν [ὑπ]ὲρ τοῦ διελ[η]λυθότος ιη ἔτους διὰ Ἰσιδώρου βοηθοῦ ἄλλας δραχμὰς πέν[τε ]
+r.8    … βολον ἡμιωβέλιον .
+
+[TRANSLATION]
+# HGV-EN: The 18th year of the Aurelii Antoninus and Commodus the lords Augusti, Epeiph 6. Paid to Sarapion, farmer of the tax on cutting and trade, by Dionysius, son of Didymus, of the Linen-factories' quarter, living at the village of Theadelphia, for the trade-tax of the same year, eight drachmae of silver on account, total 8 dr. Also in the 19th year, Athur 13, paid on account of the preceding 18th year, through Isidorus, assistant, five drachmae ... obols and a half more.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

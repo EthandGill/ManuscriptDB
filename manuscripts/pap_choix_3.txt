@@ -1,0 +1,34 @@
+[META]
+id:       PAP.CHOIX 3
+label:    PAP.CHOIX 3
+name:     Receipt — Theben
+genre:    receipts
+date:     106 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (106 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       71880
+source:   https://papyri.info/ddbdp/pap.choix;;3
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς τὸν τῆς διοικήσεως θησαυρὸν Ἄνω τοπαρχίας γενήματος θ ἔτους
+r.2    Τραιανοῦ τοῦ κυρίου Ἁθὺρ κϛ τοῦ ι ἔτους
+r.3    ὑπὲρ ἀνὰ χεῖρα χρόνων οἱ β υἱοὶ Ὥρου Ἐσμίνιος
+r.4    διὰ Ὥρου Ποριεύθου καὶ ἀδελφῶν β ἔτους
+r.5    Τραιανοῦ τοῦ κυρίου σιτικῶν ὁμολόγων διοικήσεως
+r.6    ἐξ ἀβρόχου πυροῦ ἀρτάβην μίαν ἥμισυ τρίτον γίνεται πυροῦ ἀρτάβη α 𐅵 γ.
+r.7    Κρι σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

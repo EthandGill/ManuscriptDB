@@ -1,0 +1,38 @@
+[META]
+id:       P.REIN 2.140
+label:    P.REIN 2.140
+name:     Receipt — Theben
+genre:    receipts
+date:     159 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (159 CE)
+# hgv-keywords: Quittung — Zahlung (Getreide)
+tm:       23039
+source:   https://papyri.info/ddbdp/p.rein;2;140
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    συναίρεμα θησαυροῦ Κά[τω] τοπαρχίας
+r.2    γενήματος κβ ἔτους Ἀντωνίνου Καίσαρος
+r.3    τοῦ κυρίου Ἐπεὶφ ε θυγατρὸς
+r.4    Παμίνιος Ψανσνῶτος ὑπὲρ
+r.5    Ἄνω τοπαρχίας πυροῦ ἀρτάβας β κδ καὶ Σενμώθιος
+r.6    Κήτιος ὁμοίως γ κδ καὶ ὀνόματος θυγατρὸς
+r.7    Παμίνιος Ψανσνῶτος ὑπὲρ Κά[τω] τοπαρχίας
+r.8    πυροῦ ἀρτάβας τρεῖς ἕκτον
+r.9    τετρακαιεικοστὸν πυροῦ ἀρτάβαι γ κδ μη
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

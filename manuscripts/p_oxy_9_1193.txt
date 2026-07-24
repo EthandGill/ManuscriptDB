@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 9.1193
+label:    P.Oxy. 9.1193
+name:     Letter — Oxyrhynchites, Ägypten
+genre:    letters
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites, Ägypten
+held:     
+shelf:    
+content:  Letter from Oxyrhynchites, Ägypten (301 CE – 400 CE)
+# hgv-keywords: Brief (amtlich) — speculator an d. Polizeichef
+tm:       33596
+source:   https://papyri.info/ddbdp/p.oxy;9;1193
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    παρὰ τοῦ σπεκουλ[άτορος]
+r.2    [ἀρ]χεφ[όδῳ] κώμης Τααμπέμου. [αὐτῆς] ὥρας δεξάμενός
+r.3    μου τὰ γράμματα ὄνον ἕνα πα[ράσχου] μετὰ καὶ ἑνὸς φύλακος
+r.4    τῷ ἀποσταλέντι φρ[ο]υρῷ. σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: From the speculator to the chief of police of the village of Taampemou. Immediately on receiving my letter supply one donkey together with one guard to the sentinel whom I have sent. Signed by me.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

@@ -1,0 +1,42 @@
+[META]
+id:       PYLON 6.7
+label:    PYLON 6.7
+name:     Documentary papyrus — Theadelphia (Arsinoites)
+genre:    documents
+date:     53 CE – 54 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     Princeton
+shelf:    
+content:  Documentary papyrus from Theadelphia (Arsinoites) (53 CE – 54 CE)
+# hgv-keywords: Deklaration — Besitz — Haus
+tm:       566211
+source:   https://papyri.info/ddbdp/pylon;6;7
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    βυβλιοθήκ[ης] [ ]
+r.2    παρὰ Τέωτο[ς] …
+r.3    τοῦ Τέωτο[ς τῶν ἀπὸ]
+r.4    Θεαδελφείας [τῆς Θεμί-]
+r.5    στου μερίδ[ος] [οὐσιακοῦ]
+r.6    γεωργοῦ Ἀντ[ωνίας]
+r.7    θυγατρὸς τι[νῶν ἐδαφῶν.]
+r.8    ὑπάρχει μοι ἐ[ν τῇ προκει-]
+r.9    μένῃ κώμ[ῃ οἰκία καὶ]
+r.10   αὐλὴ ἐν ᾗ [κατοικῶ]
+
+[TRANSLATION]
+# HGV-EN: ... archive ... from Teos, [son of NN,] grandson of Teos, [one of those from] Theadelphia [of the] Themistos division, [estate] tenant of certain [fields] of Antonia the daughter. There belongs to me in [the] aforementioned village [a house and] a courtyard, in which I dwell …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

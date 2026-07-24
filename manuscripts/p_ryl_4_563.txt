@@ -1,0 +1,40 @@
+[META]
+id:       P.RYL 4.563
+label:    P.RYL 4.563
+name:     Contract — Philadelphia (Arsinoites)
+genre:    contracts
+date:     250 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Philadelphia (Arsinoites) (250 BCE)
+# hgv-keywords: Brief (privat) — Pataikion an Zenon — Bitte um Hilfe gegen eine Klage — Kauf — Haus
+tm:       2419
+source:   https://papyri.info/ddbdp/p.ryl;4;563
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    Ζήνωνι χαίρειν. προσεβαλόμεθα εἰς τὸ Ἀριστοδήμου ὄνομα
+r.2    οἰκίαν Σοκέως τοῦ Νεχαύιος μαχίμου ἐν Αὐήρει· ἀκηκόαμεν δὲ καταπεπλευκέναι ὅπως ἔντευξιν ἐμβάλη[ι Ἀπ]ολλωνίωι περὶ ἡμῶν, παραλιπὼν τόν
+r.3    τε ἀποδόμενον καὶ τὸν ἀγοράσαντα, οἰόμενος ἡμᾶς διασείσειν ἐὰν
+r.4    Ἀπολλωνίωι ἐντύχηι. καλῶς οὖν ποιήσεις, εἴ σοι εὔκαιρόν ἐστιν καὶ ἂν ἐν δυνατῶι ἦι, μετελθεῖν τὸν ἄνθρωπον ὅπως μὴ καταγινωσκώμεθα ὑπὸ
+r.5    τῶν λοιπῶν. γεγράφαμεν δὲ καὶ Ἀπολλωνίωι τῶι ἑρμηνεῖ περὶ τούτων,
+r.6    ὅπως ἂν καὶ ἐκεῖν[ος] κακώσηι αὐτὸν καθὸ δύναται.
+r.7    ἔρρωσο. ἔτους λϛ Φαρμοῦθι α.
+r.8    Ζήνωνι.
+r.9    τῶι ἐκ Φιλαδελφείας.
+
+[TRANSLATION]
+# HGV-EN: (Pataecion) to Zenon, greeting. I assigned to the possession of Aristodemus a house of Sokeus son of Nechauis, a native soldier, in Aueris, and I have heard that he has sailed down to present a petition to Apollonius about me, ignoring both the seller and the buyer, with the idea that he will discomfit me if he appeals to Apollonius. If, therefore, you have an opportunity and if it be practicable, will you please take action against the fellow, in order that I might not be discredited by the rest of them. I have written also to Apollonius the interpreter requesting him also to do the man as much damage as he can. Farewell. Year 36, Pharmouthi I. (Addressed) To Zenon. (Docketed by the sender) The Philadelphian.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

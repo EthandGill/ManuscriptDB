@@ -1,0 +1,36 @@
+[META]
+id:       O.VLEEM 1A
+label:    O.VLEEM 1A
+name:     Receipt — Elephantine
+genre:    receipts
+date:     218 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (218 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       2996
+source:   https://papyri.info/ddbdp/o.vleem;;1A
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔτους ε ἐπαγομέν[ω]ν
+r.2    β τέτακται τὸ καθῆ[κ]ον
+r.3    ἐννόμιον τοῦ αὐτοῦ [ε]
+r.4    ἔτους Πρωτόμαχ[ος]
+r.5    καὶ Λυκομήδης.
+r.6    Σωκράτης,
+r.7    Ἑρμόδοτος,
+r.8    Πτολεμαῖος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

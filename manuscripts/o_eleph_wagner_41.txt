@@ -1,0 +1,30 @@
+[META]
+id:       O.ELEPH.WAGNER 41
+label:    O.ELEPH.WAGNER 41
+name:     Receipt — Elephantine
+genre:    receipts
+date:     146 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (146 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24221
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;41
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Π]απρεμίθης καὶ [Β]ι[ῆγχις]
+r.2    [πράκτορες ][ἀρ]γυρικῶν Ἐλεφαντίνης διʼ Ἀμ[μωνίου]
+r.3    [βοη]θοῦ. διέγραψεν Πατχναῦς Ἁρπα[ήσι]ος μητρὸς Τανοῦρις μερισμοῦ
+r.4    [ι ἔτους Ἀ]ντωνίνου Καίσαρος
+r.5    [τοῦ κυρίου δραχμὰς τέσσαρες] γίνεται δραχμαὶ δ Φαῶφι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

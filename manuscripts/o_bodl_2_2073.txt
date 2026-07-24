@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.2073
+label:    O.BODL 2.2073
+name:     Receipt — Theben
+genre:    receipts
+date:     601 CE – 800 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (601 CE – 800 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       72746
+source:   https://papyri.info/ddbdp/o.bodl;2;2073
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    δέδωκε Πατερμοῦθις Πο …
+r.2    ὑπὲρ διαγράφου ἕκτης ἰνδικτίονος ἀρίθμιον νομισμάτιον α ἕν. Τῦβι κθ.
+r.3    … Ἠλίας στοιχεῖ.
+
+[TRANSLATION]
+1     
+2     
+3     

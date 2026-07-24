@@ -1,0 +1,26 @@
+[META]
+id:       O.BERENIKE 2.215
+label:    O.BERENIKE 2.215
+name:     Documentary papyrus — Berenike
+genre:    documents
+date:     50 CE – 75 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     
+shelf:    
+content:  Documentary papyrus from Berenike (50 CE – 75 CE)
+# hgv-keywords: Notiz — Name eines Reiters — Wein
+tm:       89241
+source:   https://papyri.info/ddbdp/o.berenike;2;215
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    Νοννίωι Ἀβασκάντωι ἱππεῖ
+r.2    πτολεμαι κεράμια η
+r.3    τύρμης Σεξστιλλίου
+
+[TRANSLATION]
+1     
+2     
+3     

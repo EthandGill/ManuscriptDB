@@ -1,0 +1,26 @@
+[META]
+id:       O.WILB 1
+label:    O.WILB 1
+name:     Receipt — Theben
+genre:    receipts
+date:     241 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (241 BCE)
+# hgv-keywords: Quittung — Steuer (Salz)
+tm:       50412
+source:   https://papyri.info/ddbdp/o.wilb;;1
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ζ, Φαμενὼθ κδ
+r.2    ἁλικῆς διὰ Σωστράτου Πανεχᾶτις μικρὸς
+r.3    Πιβέλφιος τετρώβολον
+
+[TRANSLATION]
+1     
+2     
+3     

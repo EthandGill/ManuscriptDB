@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 1.123
+label:    O.BODL 1.123
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     197 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (197 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       43942
+source:   https://papyri.info/ddbdp/o.bodl;1;123
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἡρᾶς ὁ παρὰ Πόθου Χεσθώτῇ. ὁμολογῶ ἔχειν παρὰ
+r.2    σοῦ δευτέρας ἀναφορᾶς Σατμέως ἱππέων
+r.3    χαλκοῦ τάλαντα
+r.4    δύο δισχιλίας ἑξακοσίας [ἑξήκοντα] γίνονται τάλαντα β Βχξ.
+r.5    ἔτους η Φαρμοῦθι θ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

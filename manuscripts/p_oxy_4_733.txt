@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 4.733
+label:    P.Oxy. 4.733
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     147 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (147 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       20433
+source:   https://papyri.info/ddbdp/p.oxy;4;733
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ι ἔτους Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.2    Παχὼν δ. [δ]ιέγραψε Διογένει πράκτορι ἀργυρικῶν
+r.3    μη[τροπόλεως] Πλατείας Ἀμόις ὁ καὶ Παποντῶς Διοδώρου
+r.4    ὑικῆς [τοῦ] αὐτοῦ ι ἔτους δραχμὴν μίαν πεντώβολον ἡμιωβέλιον, γίνονται δραχμὴ α ὀβολοὶ ε 𐅵.
+r.5    Τ … ρ … ο … ς υἱὸς μητρὸς Ταποντῶτος λαογραφίας
+r.6    τοῦ αὐτοῦ ι ἔτους δραχμὰς τ[έσ]σαρας , ὑικῆς α ὀβολοὺς ε 𐅵.
+
+[TRANSLATION]
+# HGV-EN: The 10th year of Antoninus Caesar the lord, Pachon 4. Amois also called Papontos, son of Diodorus, has paid to Diogenes, collector of money taxes of M... street, for the pig-tax of the said 10th year 1 drachma 5 1/2 obols, total 1 dr. 5 1/2 ob. T..., his son, his mother being Tapontos, has paid for the poll-tax of the said roth year 4 drachmae, for the pig-tax 1 drachma 5 1/2 obols.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

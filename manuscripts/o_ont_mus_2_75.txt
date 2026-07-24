@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.75
+label:    O.ONT.MUS 2.75
+name:     Receipt — Theben
+genre:    receipts
+date:     123 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (123 BCE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75092
+source:   https://papyri.info/ddbdp/o.ont.mus;2;75
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους μζ Παχὼν θ μεμέτρηκεν εἰς τὸν ἐν Διὸς πόλει τῆι
+r.2    μεγάληι θησαυρὸν εἰς τὸ 𐅵 ἀρτάβης Ἱερᾶς Νήσου Ψενήσιος
+r.3    νεωτέρου καὶ Ψανσνῶτος Πεσούριος πυροῦ ἀρτάβας δέκα
+r.4    γίνονται πυροῦ ἀρτάβαι ι …
+r.5    Απ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

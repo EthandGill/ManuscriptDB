@@ -1,0 +1,58 @@
+[META]
+id:       P.FAM.TEBT 6
+label:    P.FAM.TEBT 6
+name:     Contract — Tebtynis (Arsinoites)
+genre:    contracts
+date:     98 CE – 99 CE
+language: Greek (Koiné)
+found:    Tebtynis (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Tebtynis (Arsinoites) (98 CE – 99 CE)
+# hgv-keywords: Vertrag — Darlehen
+tm:       10763
+source:   https://papyri.info/ddbdp/p.fam.tebt;;6
+lat:      29.10713705
+lon:      30.7620317
+
+[GREEK]
+r.1    [ἔτους δευτέρου Αὐτοκράτορος Καίσαρος]
+r.2    [Νέρουα Τραιανοῦ Σεβαστοῦ Γερμανικοῦ]
+r.3    … [ ἐν Τεβτύνει τῆς Πολέμωνος]
+r.4    [μερίδος τοῦ Ἀρσινοΐτου νομοῦ. ὁμολογε]ῖ
+r.5    [Ἰσιδώρα Λυσιμάχ]ου Περσείνη ὡς
+r.6    [ἐτῶν ] … ο[ὐλὴ] ὀφρύ[ι ἀρι]στερᾷ [μ]ετὰ
+r.7    [κυρίου τοῦ] τα[ύτη]ς υἱοῦ Κρονίου τοῦ Λυσανίου ὡς ἐτῶ[ν] κη οὐλὴ τραχήλωι ἐξ
+r.8    ἀριστερῶν κ[αὶ] αὐτὸς Κρόνις οἱ δύο
+r.9    ἀλλ[ήλ]ων ἔγγυοι εἰς ἔκτεισιν Λυσιμάχῳ
+r.10   Διδύμου τοῦ Διδύμου ὡς ἐτῶν λη οὐλὴ
+r.11   ἀν[τι]κνημίῳ [δ]εξιῶι ἔχειν π[α]ρὰ τοῦ
+r.12   Λ[υσιμ]άχου παρ[α]χρῆμα διὰ χειρὸς ἐξ οἴκου
+r.13   χρῆ[σιν] ἀργυρίου κεφαλαίου δραχμὰς ριβ
+r.14   καὶ ἐ[π]άναγκ[ον τ]οὺς ὁμολογοῦν[τ]ας
+r.15   Ἰσιδώραν καὶ [Κρό]νιον ἀποδώσειν τῷ Λυσι[μά]χ[ῳ] τὰς το[ῦ] ἀργυρίου δραχμὰς ριβ
+r.16   [καὶ τοὺ]ς τόκους ἐν μηνὶ Ἐπὶφ τοῦ ἐνεσ[τῶτος] δευτέρο[υ] ἔτο[υς] Αὐτ[ο]κράτορος
+r.17   [Καίσαρ]ος Νέρο[υ]α Τραιανοῦ Σεβασ[τ]οῦ
+r.18   [Γερμ]ανικοῦ.
+
+[TRANSLATION]
+# HGV-EN: The second year of Imperator Caesar Nerva Trajanus Augustus Germanicus (month, day) at Tebtunis in the Polemon district of the Arsinoite nome. Isidora, daughter of Lysimachos, Persian woman, aged about - - -, having a scar on the left brow, with the assistance of her son, Kronios, son of Lysanias, aged about 28 years, having a scar on the left of the neck, and Kronios himself, both of them being mutual security for payment, acknowledge to Lysimachos, son of Didymos, son of Didymos, aged about 38 years, having a scar on the right shin, that they have received from Lysimachos forthwith from hand to hand out of his house a loan of a capital sum of 112 silver drachmae; and the acknowledging persons, Isidora and Kronion, are bound to repay to Lysimachos the 112 silver drachmae and the interests in the month Epeiph of the present second year of Imperator Caesar Nerva Trajanus Augustus Germanicus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

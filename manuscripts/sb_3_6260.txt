@@ -1,0 +1,28 @@
+[META]
+id:       SB 3.6260
+label:    SB 3.6260
+name:     Letter — Kyzikos (?)
+genre:    letters
+date:     230 CE
+language: Greek (Koiné)
+found:    Kyzikos (?)
+held:     
+shelf:    
+content:  Letter from Kyzikos (?) (230 CE)
+# hgv-keywords: Brief (amtlich?) — NN an NN
+tm:       18821
+source:   https://papyri.info/ddbdp/sb;3;6260
+lat:      40.3855645
+lon:      27.883191
+
+[GREEK]
+r.1    [Οὐιρίῳ Ἀγρ]ικόλᾳ καὶ Καττίῳ Κλημεντείνῳ
+r.2    … ν εἰδῶν Ἰουνίων ἱππάρχου
+r.3    … καὶ Κλαυ… ταυρεων ἐξάγει ἀπὸ τῆς
+r.4    λαμ[προτάτης] [μη]τροπόλεως τῆς Ἀσίας Ἁδρια… [ τ]οῦ φιλοσεβάστου Κυζικηνῶν
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 237
+label:    O.LEID 237
+name:     Receipt — Theben
+genre:    receipts
+date:     171 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (171 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       24795
+source:   https://papyri.info/ddbdp/o.leid;;237
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ια ἔτους Αὐρηλίου Ἀν[τωνίνου Καίσαρος τοῦ κυρίου]
+r.2    Ἐπεὶφ ιγ ὑπὲρ Χάρακος ὀνόματος Τιθοήους Φθουμώνθου …
+r.3    πυροῦ τρίτον κδ, γίνεται πυροῦ γ κδ. Ἀμώνιος σεσημείωμαι.
+r.4    συν … Τιθοήους δραχμαὶ θ Τικῶς.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

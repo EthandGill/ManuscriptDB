@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.815
+label:    O.BODL 2.815
+name:     Receipt — Theben
+genre:    receipts
+date:     141 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (141 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71504
+source:   https://papyri.info/ddbdp/o.bodl;2;815
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ὧρος καὶ μέτοχοι ἀπαιτηταὶ μερισμοῦ
+r.2    ἀνδριάντος Πεκῦσι Ψενμώνθου. ἔσχομεν
+r.3    παρὰ σοῦ κέρματος ὀβολοὺς …
+r.4    ἔτους ε Ἀντωνίνου Καίσαρος
+r.5    τοῦ κυρίου Ἁδριανοῦ η.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

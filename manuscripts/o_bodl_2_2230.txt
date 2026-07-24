@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.2230
+label:    O.BODL 2.2230
+name:     Receipt — Theben
+genre:    receipts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (1 CE – 100 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       72864
+source:   https://papyri.info/ddbdp/o.bodl;2;2230
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Λυσίμαχος κα[ὶ ] …
+r.2    θησαυρῶν …
+r.3    ὧν ἀπέχομεν τα …
+r.4    νιος πυροῦ …
+r.5    ιε …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

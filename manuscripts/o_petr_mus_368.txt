@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 368
+label:    O.PETR.MUS 368
+name:     Receipt — Theben (Charax)
+genre:    receipts
+date:     158 CE
+language: Greek (Koiné)
+found:    Theben (Charax)
+held:     
+shelf:    
+content:  Receipt from Theben (Charax) (158 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       75412
+source:   https://papyri.info/ddbdp/o.petr.mus;;368
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος κα ἔτους Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου Φαῶφι δ
+r.3    ὑπὲρ Χάρακος ὀνόματος Φατρῆτος
+r.4    … ε … πυροῦ ἀρτάβαι δ … κδ Σεο σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,26 @@
+[META]
+id:       O.ONT.MUS 2.78
+label:    O.ONT.MUS 2.78
+name:     Receipt — Theben
+genre:    receipts
+date:     14 CE – 37 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (14 CE – 37 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       75095
+source:   https://papyri.info/ddbdp/o.ont.mus;2;78
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ψεμενῶφις Πικῶτος κα[ὶ μέτοχοι ] …
+r.2    χαίρειν. ὁμολογοῦμεν ἀπέχειν παρὰ σ[οῦ ὑπὲρ ] … [ . ἔτους ] …
+r.3    Τιβερίου Καίσαρος Σεβαστ[οῦ ] …
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,28 @@
+[META]
+id:       BGU 12.2191
+label:    BGU 12.2191
+name:     Receipt — Hermopolis
+genre:    receipts
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Receipt from Hermopolis (501 CE – 600 CE)
+# hgv-keywords: Quittung — Gold — Pacht (?)
+tm:       35958
+source:   https://papyri.info/ddbdp/bgu;12;2191
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    παρὰ τῆς ἁγίας ἐκκλησίας Παὰμ γεωργῷ. δέδωκας
+r.2    β καταβολῆς κεράτια ϛ 𐅵 συναλλαγῇ. Χοιὰκ κη, ἰνδικτίονος ιγ.
+r.3    Ἰσαὰκ διοικητὴς συμφωνῶ.
+r.4    Παὰμ … πλαγ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

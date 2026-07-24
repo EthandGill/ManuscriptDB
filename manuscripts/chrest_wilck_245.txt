@@ -1,0 +1,62 @@
+[META]
+id:       CHREST.WILCK 245
+label:    CHREST.WILCK 245
+name:     Documentary papyrus — Soknopaiu Nesos (Arsinoites, Ägypten)
+genre:    documents
+date:     217 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites, Ägypten)
+held:     Berlin
+shelf:    
+content:  Documentary papyrus from Soknopaiu Nesos (Arsinoites, Ägypten) (217 CE)
+# hgv-keywords: Deklaration — Kamele — Rückkehr zweier für den Besuch Caracallas requirierter Kamele — Requirierung eines weiteren Kamels für den Syrien - Feldzug — Deklaration des einen übriggebliebenen — weil untauglichen Kamels
+tm:       9018
+source:   https://papyri.info/ddbdp/chrest.wilck;;245
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    Αὐρηλί[οις] Διονυσί[ῳ στρατηγῷ Ἀρσινοΐτου Ἡρακλείδου μερίδος]
+r.2    καὶ Ἰσιδότῳ τῷ καὶ [Ὠριγένει] [βασιλικῷ γραμματεῖ]
+r.3    παρὰ Αὐρηλίας Ταήσε[ως ] … [ μητρὸς]
+r.4    Τεκιάσεως διὰ φροντισ[τοῦ ] …
+r.5    το[ῦ] Π[α]σοκνοπαίου ἀπὸ κ[ώμης Σοκνοπαίου]
+r.6    Νήσου. ἀφʼ ὧν ἀπελογισά[μην] [τῇ τοῦ]
+r.7    διεληλυθότος κδ ἔτους ἀπογραφῇ παρεσ[χημένους κα]μήλους τελείους δύο ε[ἰς χρείαν ]
+r.8    γεγενημένην εἰ[ς] ἐπιδη[μίαν τοῦ κυρίου]
+r.9    ἡμῶν Αὐτοκράτορος Σεο[υήρου Ἀντωνίνου]
+r.10   δ[η]λῶ μετὰ ἀπογραφὴν καὶ ἐξα[ρίθμησιν τοῦ]
+r.11   αὐτοῦ [κ]δ ἔτους ἐπανεληλυθέναι [τοὺ]ς προκειμ[έν]ους καμήλους δύο, ἐξ ὧν εἱ[κύσ]θαι
+r.12   ὑπὸ [Αὐρ]ηλίου Καλουισίου [Μα]ξ[ίμ]ου
+r.13   ἑκατοντάρχου [τοῦ π]εμφθέντος εἰς τοῦτ[ο] ἀκολούθως
+r.14   τοῖς γραφεῖσι ὑπὸ Οὐαλερίου Δάτου τοῦ λαμπροτ[ά]του ἡγεμόνος εἰς τὰς ἐν Συρίᾳ
+r.15   κυρι[α]κὰς ὑπηρεσίας τῶν γενναι[ο]τάτω[ν]
+r.16   στρα[τ]ευμάτων τοῦ κυρίου ἡμῶν Αὐτοκράτορος
+r.17   Σε[ου]ήρου Ἀντωνίνου ἕνα, τὸν δὲ λοιπὸν κάμηλον ἕνα ἀποβληθέντα
+r.18   φανέντα ἀνεπιτήδειον ὅνπερ ἀπογράφομαι
+r.19   εἰς τὴν τοῦ ἐνεστῶτος κε ἔτους ἀπογραφὴν
+r.20   ἐπὶ τῆς αὐτῆς κώμης.
+
+[TRANSLATION]
+# HGV-EN: To the Aureli[i], Dionysi[os, strategos of the Arsinoite nome, Herakleides division,] and Isidotos, alias [Horigenes, royal scribe,] from Aurelia Taesi[s, daughter of NN, mother] Tekiasis, through her agent [NN,] son of P[a]soknopaios, from the village of [Soknopaiou] Nesos. Of the (camels), which I listed [in the] registration of the past 24th year, (stating) that I furnished two fully grown camels for (requisition made) for the visit of our lord, Imperator Sev[erus Antoninus], I declare that after the registration and count of the same 24th year, the two aforesaid camels came back, 13 one of which was chosen by [Aur]elius Calvisius [Ma]x[im]us, centurio, who was sent for this purpose according to (the letters) written by the prefect Valerius Datus, vir clarissimus, for imperial service in Syria in the most valiant armies of our lord, Imperator Se[v]erus Antoninus, the other one camel was rejected as it appeared to be unsuitable, and (it is this one) which I register for the registration in the same village of the present 25th year. (m. 2) 1 camel was declared at the office of the strategos. (m. 3) I have crossed off (the entry).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

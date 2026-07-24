@@ -1,0 +1,32 @@
+[META]
+id:       P.PETR.KLEON 36
+label:    P.PETR.KLEON 36
+name:     Letter — Fundort: Gurob; Schreibort: Arsinoites
+genre:    letters
+date:     260 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Letter from Fundort: Gurob; Schreibort: Arsinoites (260 BCE – 249 BCE)
+# hgv-keywords: Brief — Bewässerung
+tm:       388479
+source:   https://papyri.info/ddbdp/p.petr.kleon;;36
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    μον επ …
+r.2    γέγραφα μὲν οὖν καὶ ἐγὼ Κλέω[νι ἐπιστολὴν ἧς] [τὰ ἀντί]γραφα ὑπογέγραφα. τὸ ὕδωρ …
+r.3    τὸ τάχος ὅπως εἰ δυναίμεθ[α] …
+r.4    αὐτῶι. [νῦν] δὲ καλῶς ἂν ποιή[σαις] … [ἀποστεί]λας αὐτῶ[ι εὐ]τονώτερον …
+r.5    ἐπιτα … τῆς σωτ[ηρίας] …
+
+[TRANSLATION]
+# HGV-EN: [...] So I have also written [a letter] to Kleon myself, of which I attached a copy below. The water [...] immediately so that, if we are able [...]. Please [...] send him urgently [...] afterwards [...] of the security/safety [...].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,32 @@
+[META]
+id:       P.WORP 47
+label:    P.WORP 47
+name:     Receipt — Elephantine
+genre:    receipts
+date:     147 CE – 148 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (147 CE – 148 CE)
+# hgv-keywords: Quittung — Steuer — Umlage (merismos)
+tm:       115576
+source:   https://papyri.info/ddbdp/p.worp;;47
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Γερμανὸς καὶ Παπρεμ[ίθης πράκτορες]
+r.2    ἀργυρικῶν Ἐλεφαντίνης. διέγραψεν Κάσις []
+r.3    μητρὸς Θινμεαῦτος ὑπὲρ μερισμοῦ ια [ἔτους Ἀντωνίνου]
+r.4    Καίσαρος τοῦ κυρίου ῥυπαρὰς δραχμὰς δ []
+r.5    Γερμανὸς σεσημείωμαι δραχμὰς δ.
+
+[TRANSLATION]
+# HGV-EN: Germanos and Papremithes, tax-collectors in money of Elephantine. Kasis, son of N.N., whose mother is Thinmeaus, paid for the contribution of the 11th year of Antoninus Caesar, the lord: gross 4 drachmas, [month, day]. I, Germanos have signed: 4 drachmas. (F. A. J. Hoogendijk)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

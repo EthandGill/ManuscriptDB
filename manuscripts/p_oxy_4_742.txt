@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 4.742
+label:    P.Oxy. 4.742
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     2 BCE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (2 BCE)
+# hgv-keywords: Brief (privat) — Antas an Faustos — Lieferungen (Rohr)
+tm:       20440
+source:   https://papyri.info/ddbdp/p.oxy;4;742
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἀντᾶς Φ[αύσ]τωι πλεῖστα χαίρειν.
+r.2    παράλαβε παρὰ Πόθου τὸν κάλαμ[ο]ν πανα[ρ]ιθμῶι καὶ ἀπόστειλόν
+r.3    μ[ο]ι πόσας δέσμας παρείληφες
+r.4    καὶ θ[ὲ]ς αὐτὰς εἰς τόπον ἀσφαλῶς ἵνα τῇ ἀναβάσει αὐτὰς
+r.5    ἄξωμεν. παράδος δέ τινι
+r.6    τῶν φίλων ἀριθμῷ αὐτὰς ἵνα
+r.7    πάλιν φ[ί]λος ἡμῖν παραδοῖ
+r.8    ἀσφ[αλῶς], καὶ ἐάν τι δύνῃ
+r.9    σὺ ἐ … ναί μοι δὸς ἐργασία[ν ] … σα ἐμὲ ἠγορακέναι
+r.10   παρ[ὰ Πόθο]υ τὴν χιλίαν δέσμην
+r.11   δραχμῶν δ[εκαπ]έντε . μὴ ἀμελήσῃς.
+r.12   ἔρρωσο.
+r.13   ἔτους κη [Κα]ίσαρος Παῦνι α.
+r.14   Φαύστωι … ετενν … εἰς Νέκλη.
+
+[TRANSLATION]
+# HGV-EN: Antas to Faustus, many greetings. Take over from Pothus the reeds all together, and send me word how many bundles you have received, and put them in a safe place in order that we may take them on the journey up. Deliver a certain number of them to one of our friends in order that a friend may deliver them to me safely, and if you can ... give your attention to it... I have bought from (Pothus?) the 1000 bundles for 15 drachmae, Don't forget. Good-bye. The 28th year of Caesar, Pauni 1. (Addressed) To Faustus... at Nekle.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

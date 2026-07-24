@@ -1,0 +1,34 @@
+[META]
+id:       P.RYL 2.197a
+label:    P.RYL 2.197a
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     162 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (162 CE)
+# hgv-keywords: Quittung (Zoll)
+tm:       12972
+source:   https://papyri.info/ddbdp/p.ryl;2;197a
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Σοκνοπαίου Νήσου ἑκατοστὴν πεντηκοστὴν
+r.2    Σαραπίων ἐξάγων ἐπὶ καμήλῳ α μιᾷ
+r.3    λαχανοσπέρμου ἀρτάβας ἓξ τελοῦσας δραχμὰς πέντε
+r.4    καὶ καμήλῳ ἑνὶ ὄνοις δυσὶ πυροῦ ἀρτάβας δεκαδύο τελοῦσας τρεῖς δραχμάς. ἔτους τρίτου
+r.5    Ἀντωνείνου καὶ Οὐήρου τῶν κυρίων
+r.6    Ἁθὺρ τετράδι.
+
+[TRANSLATION]
+# HGV-EN: ‘Paid at the custom-house of Socnopaei Nesus for the tax of 1/100 and 1/50 by Sarapion, exporting on one camel six artabae of vegetable-seed paying five drachmae, and on one camel and two donkeys twelve artabae of wheat paying three drachmae. The 3rd year of Antoninus and Verus the lords, Hathur 4.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

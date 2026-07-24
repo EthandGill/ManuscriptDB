@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.359
+label:    O.STRAS 1.359
+name:     Receipt — Theben
+genre:    receipts
+date:     131 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (131 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75947
+source:   https://papyri.info/ddbdp/o.stras;1;359
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα εἰς θησαυρὸν μητροπόλεως γενήματος ιε ἔτους Ἁδριανοῦ
+r.2    τοῦ κυρίου Ἐπεὶφ κα ὀνόματος
+r.3    Φατρήους Ψενχώνσιος Πικῶτος
+r.4    ὑπὲρ Ἀγορᾶς πυροῦ τρεῖς ἕκτον
+r.5    γίνονται πυροῦ γ ϛ. Πεκ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

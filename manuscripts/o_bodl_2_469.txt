@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.469
+label:    O.BODL 2.469
+name:     Receipt — Theben
+genre:    receipts
+date:     39 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (39 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       50380
+source:   https://papyri.info/ddbdp/o.bodl;2;469
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Ἀμμῶνις Πετεμενώφιος ὑπὲρ
+r.2    λαογραφίας γ ἔτους δραχμὰς δέκα καὶ βαλανευτικοῦ μίαν ὀβολὸν α 𐅵 γίνονται δραχμαὶ ια ὀβολὸς α 𐅵
+r.3    καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου. ἔτους γ Γαίου Καίσαρος Σεβαστοῦ
+r.4    Γερμανικοῦ μηνὸς Γαίου Σεβαστοῦ κγ.
+r.5    Πετεμενῶφις τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

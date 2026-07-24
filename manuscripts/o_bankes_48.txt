@@ -1,0 +1,30 @@
+[META]
+id:       O.BANKES 48
+label:    O.BANKES 48
+name:     Receipt — Elephantine
+genre:    receipts
+date:     142 CE – 146 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (142 CE – 146 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       699521
+source:   https://papyri.info/ddbdp/o.bankes;;48
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Σωτὴρ καὶ] Παπρεμίθης πράκτορες ἀργυρικῶν
+r.2    [Ἐλεφαντίνης· διέγ]ραψεν Πατσίβτις
+r.3    [Πετορζμήθ]ου μητρὸς Θινπελέας
+r.4    [ὑπὲρ] … [δραχμαὶ] … [ἔτους] … Ἀντωνίνου τοῦ
+r.5    [κυρίου] … ιγ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

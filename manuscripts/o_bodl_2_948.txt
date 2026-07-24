@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.948
+label:    O.BODL 2.948
+name:     Receipt — Theben
+genre:    receipts
+date:     43 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (43 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71638
+source:   https://papyri.info/ddbdp/o.bodl;2;948
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Ἐπώνυχος Φατρήους ὑπὲρ ἀμπελῶνος γ ἔτους
+r.2    𐅵 η ιϛ ξδ δραχμὰς κη ἡμιωβέλιον οἴνου τέλους δραχμὰς ὀκτὼ γίνονται δραχμαὶ η.
+r.3    ὁμοίως ὑπὲρ φοινικώνων γ ἔτους ιϛ δραχμὴν α ὀβολὸν α 𐅵 καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου.
+r.4    ἔτους δ Τιβερίου Κλαυδίου Καίσαρος
+r.5    Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+r.6    Νέου Σεβαστοῦ ιβ. Ἐπικράτης Πικῶτος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

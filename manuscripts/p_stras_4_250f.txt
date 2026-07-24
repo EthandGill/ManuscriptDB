@@ -1,0 +1,30 @@
+[META]
+id:       P.STRAS 4.250f
+label:    P.STRAS 4.250f
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     210 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (210 CE)
+# hgv-keywords: Quittung — Torzoll — Esel
+tm:       13221
+source:   https://papyri.info/ddbdp/p.stras;4;250f
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Φιλαδελφίας λιμένος Μέμφεως Ἡρᾶς ἐξάγων ἐπὶ ὄνοις
+r.2    δυσὶ ὀρόβου ἀρτάβας ἓξ .
+r.3    ἔτους ιη Μεχεὶρ
+r.4    τρεισκαιδεκάτῃ
+r.5    ιγ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       P.REIN 2.128
+label:    P.REIN 2.128
+name:     Receipt — Theben
+genre:    receipts
+date:     18 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (18 BCE)
+# hgv-keywords: Quittung — Bank — Steuer — Kopfsteuer
+tm:       23028
+source:   https://papyri.info/ddbdp/p.rein;2;128
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Σεειάτος Μαιεύριος
+r.2    καὶ Ὧρος Σεει[ά]του υἱὸς
+r.3    τετάχαται λαογραφίας ιβ ἔτους δραχμὰς κ
+r.4    ἔτους ιβ Καίσαρος Μεχεὶρ ιθ
+r.5    Κέφαλος τραπεζίτης
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

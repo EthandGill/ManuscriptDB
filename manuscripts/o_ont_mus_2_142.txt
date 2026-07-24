@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.142
+label:    O.ONT.MUS 2.142
+name:     Receipt — Theben
+genre:    receipts
+date:     190 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (190 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75161
+source:   https://papyri.info/ddbdp/o.ont.mus;2;142
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαῶφι α τοῦ λα ἔτους ὀνόματος
+r.2    Φθουμώνθου Ἀσκλᾶτος Ἑρμαίου
+r.3    χρυσοχοικήν τοῦ λα ἔτους δραχμὰς δέκα
+r.4    ἓξ γίνονται δραχμαὶ ιϛ. Ἀμ σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

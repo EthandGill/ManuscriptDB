@@ -1,0 +1,26 @@
+[META]
+id:       O.ASHM 38
+label:    O.ASHM 38
+name:     Receipt — Theben
+genre:    receipts
+date:     150 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (150 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70487
+source:   https://papyri.info/ddbdp/o.ashm;;38
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ταύρων πράκτωρ ἀργυρικῶν Χάρακος Ψεναμοῦνι Παναμέως.
+r.2    ἔσχον ὑπὲρ χωματικοῦ καὶ βαλανευτικοῦ ιγ ἔτους δραχμὰς τέσσαρας γίνονται δραχμαὶ δ. ἔτους ιδ Ἀντωνίνου
+r.3    Καίσαρος τοῦ κυρίου Ἁθὺρ δ. … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

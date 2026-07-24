@@ -1,0 +1,28 @@
+[META]
+id:       SB 20.15118
+label:    SB 20.15118
+name:     Receipt — Theben
+genre:    receipts
+date:     112 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (112 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       8128
+source:   https://papyri.info/ddbdp/sb;20;15118
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ε Παῦνι ιζ μεμέτρηκεν εἰς
+r.2    τὸν ἐν Διὸς πόλει τῆι μεγάληι
+r.3    [θησαυρὸν] Ἄντανδρος Θεογένους πυροῦ
+r.4    πέντε .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

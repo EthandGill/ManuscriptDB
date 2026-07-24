@@ -1,0 +1,32 @@
+[META]
+id:       ZPE 195.175_6
+label:    ZPE 195.175_6
+name:     Receipt — Elephantine
+genre:    receipts
+date:     148 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (148 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       400196
+source:   https://papyri.info/ddbdp/zpe;195;175_6
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    … μισθωτὴς ἱ[ερᾶς πύλης]
+r.2    [Σοήνης δι’ Ἀμ]μωνὶου βοηθο[ῦ διέγραψεν] …
+r.3    … αῦτος μητρὸς Θι …
+r.4    [ὑπὲρ χει]ρωναξὶου ια ἔτους δρ[αχμὰς] … [ὀβολοὺς β]
+r.5    [γίνονται δραχμαὶ … ] διώβολον ἕτους ια Ἀντωνίν[ου Καίσαρος]
+r.6    τοῦ κυρίου Παοῖνι θ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

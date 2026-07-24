@@ -1,0 +1,26 @@
+[META]
+id:       O.CLAUD 1.23
+label:    O.CLAUD 1.23
+name:     Letter — Mons Claudianus
+genre:    letters
+date:     107 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Letter from Mons Claudianus (107 CE)
+# hgv-keywords: Brief — Sarapion und Marcus an Artemidoros
+tm:       24036
+source:   https://papyri.info/ddbdp/o.claud;1;23
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ἀρτεμιδώρωι Σαραπίων
+r.2    καὶ Μᾶρκος ἀκισκλάριοι οἱ
+r.3    … ἀκισκλαρι… αδους ἐξ ἐγκελεύ[σεως] [Ἱερ]ωνύμου ἀρχιτέκτονος.
+
+[TRANSLATION]
+1     
+2     
+3     

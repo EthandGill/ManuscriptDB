@@ -1,0 +1,40 @@
+[META]
+id:       P.PETR.KLEON 70
+label:    P.PETR.KLEON 70
+name:     Documentary papyrus — Fundort: Gurob; Schreibort: Arsinoites
+genre:    documents
+date:     251 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Documentary papyrus from Fundort: Gurob; Schreibort: Arsinoites (251 BCE)
+# hgv-keywords: Anordnung — Zahlung — Geld — Arbeiter — Eisen — Arbeiten
+tm:       388485
+source:   https://papyri.info/ddbdp/p.petr.kleon;;70
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    φ … παρασ …
+r.2    … λικα ἔργα [εἰ]ς ἔκτισιν δραχμ- μ. καλῶς οὖν
+r.3    ποιήσεις χρηματίσας
+r.4    αὐτῶι χ τὰς μ δραχμὰς ὅπως
+r.5    σώματα ὅτι πλεῖστα
+r.6    συνάγηι καὶ σίδηρον
+r.7    προσαγοράσηι σοι συν[τελεσθ]ῆι τὰ ἔργα
+r.8    ἐν τάχει.
+r.9    ἔρρωσο. ἔτους λδ Χ[οιὰ]χ ιθ
+
+[TRANSLATION]
+# HGV-EN: [...] works for payment of 40 dr. Please pay him [...] the 40 dr., in order that he may gather as many workmen as possible and buy extra iron for you [so that] the works may be finished quickly. Farewell. Year 34, Choiak 19.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

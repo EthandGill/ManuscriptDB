@@ -1,0 +1,26 @@
+[META]
+id:       O.TEBT.PAD 4
+label:    O.TEBT.PAD 4
+name:     Receipt — Tebtynis (Arsinoites)
+genre:    receipts
+date:     167 CE
+language: Greek (Koiné)
+found:    Tebtynis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Tebtynis (Arsinoites) (167 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       45149
+source:   https://papyri.info/ddbdp/o.tebt.pad;;4
+lat:      29.10713705
+lon:      30.7620317
+
+[GREEK]
+r.1    ζ ἔτους ἀριθμήσεως Μεσορή.
+r.2    Πετεσοῦχος Ἥρωνος τοῦ Πετεσούχου λαογραφίας
+r.3    ζ ἔτους δραχμὰς δεκατρεῖς, γίνονται ιγ διώβολον.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,26 @@
+[META]
+id:       O.ELKAB 9
+label:    O.ELKAB 9
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     200 BCE – 101 BCE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (200 BCE – 101 BCE)
+# hgv-keywords: Quittung — Geld — Steuern
+tm:       74490
+source:   https://papyri.info/ddbdp/o.elkab;;9
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    [ἔτους ] … [ Μ]εσορὴ λ. τέτακται
+r.2    … τοῦ αὐτοῦ ἔτους
+r.3    … [ Ἡρακ]λείδου
+
+[TRANSLATION]
+1     
+2     
+3     

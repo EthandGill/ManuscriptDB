@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 1.41
+label:    O.BODL 1.41
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     207 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (207 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       70896
+source:   https://papyri.info/ddbdp/o.bodl;1;41
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [ἔτους] ιϛ Μεσορεὶ δ
+r.2    ρ κηρυκικῶν ιϛ ἔτους
+r.3    Ἑρμοκλῆς δραχμ ἑκατὸν
+r.4    γίνονται δραχμαὶ ρ. Διοκλῆς.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

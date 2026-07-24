@@ -1,0 +1,24 @@
+[META]
+id:       O.BERENIKE 4.532
+label:    O.BERENIKE 4.532
+name:     Documentary papyrus — Berenike
+genre:    documents
+date:     1 CE – 150 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Berenike (1 CE – 150 CE)
+# hgv-keywords: Etikett
+tm:       971754
+source:   https://papyri.info/ddbdp/o.berenike;4;532
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    ρπε διὰ π …
+
+[TRANSLATION]
+# HGV-EN: 185 through (the gate?)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     

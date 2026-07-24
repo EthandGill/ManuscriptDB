@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 2.889
+label:    O.STRAS 2.889
+name:     Receipt — Theben (Notos)
+genre:    receipts
+date:     195 CE
+language: Greek (Koiné)
+found:    Theben (Notos)
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (Notos) (195 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       75073
+source:   https://papyri.info/ddbdp/o.stras;2;889
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος γ Λουκίου Σεπ[τιμίου]
+r.2    Σεουήρου Εὐσεβοῦς Περτίνακος
+r.3    Καίσαρος τοῦ κυρίου Ἐπεὶφ ι ὑπὲρ Νότου ὀνόματος
+r.4    Ὥρου Πετεχεσποχράτου Χαβονχώνσιος
+r.5    πυροῦ ἥμισυ δωδέκατον, γίνεται πυροῦ 𐅵 ιβ.
+r.6    Ἀμώνιος Παμώνθου σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

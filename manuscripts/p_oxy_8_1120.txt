@@ -1,0 +1,44 @@
+[META]
+id:       P.Oxy. 8.1120
+label:    P.Oxy. 8.1120
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     201 CE – 225 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (201 CE – 225 CE)
+# hgv-keywords: Eingabe — Anzeige von Verbrechen
+tm:       31719
+source:   https://papyri.info/ddbdp/p.oxy;8;1120
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    περὶ ἧς πέπονθεν ἐπὶ
+r.2    τόπων ὁ ἀνὴρ τῆς θυγατρός μου Πολυδεύκης
+r.3    βιβλίδια ἐπιδέδωκα
+r.4    ταῖς τάξεσι κατὰ τοῦ
+r.5    ὑβρίσαντος αὐτὸν Εὐδαίμονος, ἀλλὰ οὗτος ἐξίσχυσεν τὰ βιβλίδια ἀθετηθῆναι, ἵνα μὴ φανῇ
+r.6    ἐπελευστικός. κατὰ τοῦτο
+r.7    μαρτύρομαι τὴν βίαν
+r.8    γυνὴ χήρα καὶ ἀσθενής.
+r.9    Θῶνις γὰρ ὢν κουράτωρ Σεύθου εἰσεπήδησεν εἰς
+r.10   τὴν οἰκίαν μου καὶ ἐτόλμησεν ἀποσπάσαι δούλην μου Θεοδώραν μὴ
+r.11   ἔχων κατʼ αὐτῆς ἐξουσίαν, ὡς ἐν παντὶ σθένει βίαν με σχεῖν.
+
+[TRANSLATION]
+# HGV-EN: Concerning the outrage suffered at his abode by my son-in-law Polydeuces I presented to the officials a petition against the perpetrator, Eudaemon; but his influence procured the failure of the petition, so that he should not seem indictable. I accordingly testify to his violence, being a feeble widow woman. For Thonis the curator of Seuthes rushed into my house and dared to carry off my slave Theodora, though he had no power over her, so that I am subjected to unmitigated violence.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

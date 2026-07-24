@@ -1,0 +1,26 @@
+[META]
+id:       O.ONT.MUS 2.140
+label:    O.ONT.MUS 2.140
+name:     Receipt — Theben
+genre:    receipts
+date:     189 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (189 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75159
+source:   https://papyri.info/ddbdp/o.ont.mus;2;140
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θὼθ ιδ τοῦ λ ἔτους
+r.2    ὑπὲρ Νότου ὀνόματος Πατσέβθιος Πεχ
+r.3    διὰ Λολο[ῦτος] Τηιονχώνσιος ὑπὲρ τιμῆς πυροῦ
+
+[TRANSLATION]
+1     
+2     
+3     

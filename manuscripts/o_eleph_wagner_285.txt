@@ -1,0 +1,26 @@
+[META]
+id:       O.ELEPH.WAGNER 285
+label:    O.ELEPH.WAGNER 285
+name:     Receipt — Elephantine
+genre:    receipts
+date:     300 BCE – 201 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (300 BCE – 201 BCE)
+# hgv-keywords: Quittung — Geld
+tm:       74476
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;285
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἐχρημάτισεν
+r.2    Πρώταρχος τριώβολον
+r.3    Μεσορὴ ζ.
+
+[TRANSLATION]
+1     
+2     
+3     

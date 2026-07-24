@@ -1,0 +1,38 @@
+[META]
+id:       P.KOELN 3.159
+label:    P.KOELN 3.159
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     401 CE – 600 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (401 CE – 600 CE)
+# hgv-keywords: Dokument — Schulden — Auflistung (Namen, Beträge)
+tm:       35440
+source:   https://papyri.info/ddbdp/p.koeln;3;159
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    μετεχθέσεις ἐποικίου Λουκίου
+r.2    Ἁτρῇ ἀπὸ νομισμ ε 𐅵 κδ κερατίων ϛ ἀφʼ ὧν νομισμ β γ η, λοιπὰ νομισμ γ ιβ κεράτια ϛ
+r.3    Ἰωάννῃ Γεροντίου ἀπὸ νομισμ ε 𐅵 κδ κερατίων ϛ ἀφʼ ὧν νομισμ β γ ιβ μη κεράτια ϛ, λοιπὰ νομισμ γ ιβ μη
+r.4    Ἰακῶβ Ἀπολλῶ ἀπὸ νομισμ γ 𐅵 γ ιβ
+r.5    ἀφʼ ὧν ἐδόθη νομισμ α 𐅵 ιβ μη, λο[ιπὰ] νομισμ β δ κδ μη
+r.6    Ἀπφουᾷ Ἰωάννου ἀπὸ νομισμ 𐅵 [γ] η μη κερατίων ϛ
+r.7    ἀφʼ ὧν ἐδόθη νομισμ 𐅵 γ κεράτια ϛ, λοιπὰ νομισμ η μη
+r.8    Ἀπολλῷ Γερμανοῦ ἀπὸ νομισμ β μη κερατίων ϛ
+r.9    ἀφʼ ὧν ἐδόθη νομισμ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

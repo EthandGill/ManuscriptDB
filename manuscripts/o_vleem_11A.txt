@@ -1,0 +1,28 @@
+[META]
+id:       O.VLEEM 11A
+label:    O.VLEEM 11A
+name:     Receipt — Elephantine
+genre:    receipts
+date:     275 BCE – 226 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (275 BCE – 226 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       3007
+source:   https://papyri.info/ddbdp/o.vleem;;11A
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    πέπτωκεν παρὰ Ὀσοροήριος
+r.2    ζύτου τιμὴ οὗ ἔλαβεν
+r.3    τοῦ Μεχὶρ καὶ Φαμενὼθ
+r.4    δραχμαὶ β. ἔγραψεν Δῶρος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

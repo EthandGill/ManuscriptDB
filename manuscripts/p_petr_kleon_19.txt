@@ -1,0 +1,34 @@
+[META]
+id:       P.PETR.KLEON 19
+label:    P.PETR.KLEON 19
+name:     Letter — Schreibort: Arsinoites; Fundort: Gurob
+genre:    letters
+date:     256 BCE
+language: Greek (Koiné)
+found:    Schreibort: Arsinoites; Fundort: Gurob
+held:     London
+shelf:    
+content:  Letter from Schreibort: Arsinoites; Fundort: Gurob (256 BCE)
+# hgv-keywords: Brief (geschäftlich) — Zenon an Kleon — Bewässerung
+tm:       2491
+source:   https://papyri.info/ddbdp/p.petr.kleon;;19
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ζήνων Κλέωνι χαίρειν. τὸ ὕδωρ τὸ ἐ[ν τῆι διώρυγι οὐκ ἀνα]βέβη[κ]εν πλείω ἢ [πῆ]χυν
+r.2    ὥστε μὴ δύνασθαι ἀπʼ αὐτῆς ποτίζε[σθαι τὴν γῆν. καλῶς ἂν ο]ὖν ποιήσαις ἀνοίξας
+r.3    τὰς θύρας, ἵνα ποτίζηται ἡ γῆ.
+r.4    ἔρ[ρωσο. ἔτους λ Λωίου] κγ, Μεσορὴ κγ
+r.5    [ἔτους λ, Μεσ]ορὴ κδ. Κλέωνι
+r.6    … ων … ὕδ[ατ]ος
+
+[TRANSLATION]
+# HGV-EN: Zenon to Kleon, greetings. The water in the canal has not risen more than a cubit, so that the land cannot be irrigated from it. Please, open the sluice gates so that the land can be irrigated. Farewell. [Year 30, Loios] 23, Mesore 23. [Year 30, Mes]ore 24. To Kleon [...] water.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

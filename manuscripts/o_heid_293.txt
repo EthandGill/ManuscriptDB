@@ -1,0 +1,30 @@
+[META]
+id:       O.HEID 293
+label:    O.HEID 293
+name:     Receipt — Theben (Agorai)
+genre:    receipts
+date:     192 CE
+language: Greek (Koiné)
+found:    Theben (Agorai)
+held:     
+shelf:    
+content:  Receipt from Theben (Agorai) (192 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       80508
+source:   https://papyri.info/ddbdp/o.heid;;293
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κωμῶν γενήματος λβ ἔτους Αὐρηλίου
+r.2    Κομμόδου Καίσαρος τοῦ κυρίου
+r.3    Παχὼν ιε ὑπὲρ Ἀγορῶν ὀνόματος Τικῶτος Πικῶτος
+r.4    πυροῦ ἀρτάβης τρίτον δωδέκατον, γίνεται πυροῦ ἀρτάβης γ ιβ.
+
+[TRANSLATION]
+# HGV-EN: Payment at the granary of the villages from the produce of the 32nd year of Aurelius Commodus Caesar the lord, Pachon 15, for Agorai, in the name of Tikos, daughter of Pikos, one-third (and) one-twelfth artaba of wheat, total 1/3 1/12 artaba of wheat (...?).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

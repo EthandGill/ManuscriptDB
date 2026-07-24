@@ -1,0 +1,32 @@
+[META]
+id:       P.Oxy. 1.88
+label:    P.Oxy. 1.88
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     179 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (179 CE)
+# hgv-keywords: Anweisung — Sitologen — Zahlung — Weizen
+tm:       20747
+source:   https://papyri.info/ddbdp/p.oxy;1;88
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Λάμπων Ἀμμωνίου προνοητὴς οἴκου γυμνασιάρχων Ὀξυρύνχων πόλεως σιτολόγοις μέσης τοπαρχίας Πέτνη τόπων
+r.2    χαίρειν. διαστείλατε ἀφʼ ὧν ἔχετε τῶν γυμνασίαρχων ἐν θέμα[τι] πυροῦ γενήματος τ[ο]ῦ δ[ι]ε[λ]θόν[τ]ος ιθ ἔτους ἀρτάβας ἑξήκοντα, γίνονται ἀρτάβαι ξ, Σαραπίωνι Ἡλιοδώρ[ου]
+r.3    ἐξηγητεύσαντι τῆς Ὀξυρυνχειτῶν πόλεως τὰς [προ]κειμέ[ν]ας ἀρτάβας ξ. ἔτους εἰκοστοῦ Αὐρηλίων
+r.4    Ἀντωνίνου καὶ Κομμόδου Καισάρων
+r.5    τῶν κυρίων, Ἀθὺρ γ.
+
+[TRANSLATION]
+# HGV-EN: Lampon, son of Ammonius, manager of the house of the gymnasiarchs of Oxyrhynchus, to the collectors of the corn revenue of the middle toparchy at Petne, greeting. Pay from the past 19th year’s store of wheat belonging to the gymnasiarchs and deposited with you, sixty artabae, 60 art., to Sarapion, son of Heliodorus, late exegetes at Oxyrhynchus. The 20th year of Aurelius Antoninus Caesar and Aurelius Commodus Caesar our sovereigns, Athyr 3.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.953
+label:    O.BODL 2.953
+name:     Receipt — Theben
+genre:    receipts
+date:     36 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (36 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71643
+source:   https://papyri.info/ddbdp/o.bodl;2;953
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πικῶς Φαήριος ὑπὲρ φοινικώνων
+r.2    [κβ] ἔτους ξδ ὀβολὸν α 𐅵. ἔτους κγ Τιβερίου
+r.3    [Καίσαρ]ος Σεβαστοῦ Φαῶφι ιγ. Πετεμενῶφις τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     

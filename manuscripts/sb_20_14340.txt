@@ -1,0 +1,26 @@
+[META]
+id:       SB 20.14340
+label:    SB 20.14340
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (1 CE – 200 CE)
+# hgv-keywords: Namen
+tm:       26244
+source:   https://papyri.info/ddbdp/sb;20;14340
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Τσονεσόνθις
+r.2    Ὀκταουίου γυνὴ
+r.3    Καρούριος γναφέως.
+
+[TRANSLATION]
+1     
+2     
+3     

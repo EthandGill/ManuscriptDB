@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1003
+label:    O.BODL 2.1003
+name:     Receipt — Elephantine
+genre:    receipts
+date:     146 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (146 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71691
+source:   https://papyri.info/ddbdp/o.bodl;2;1003
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    … [ χνο]ῦβις … [ ὑπὲρ]
+r.2    [τιμῆς] δημοσίου φ[οίνικος γενή][ματος] θ ἔτους δραχμὰς τέσσαρ[ας ὀβολοὺς]
+r.3    [πέ]ντε γίνονται δραχμαὶ δ πεντώβολον. ἔτους ι Ἀντ[ωνίνου]
+r.4    Καίσαρος τοῦ κυρίου μ[ηνὸς]
+r.5    Ἁδριανοῦ θ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

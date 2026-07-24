@@ -1,0 +1,42 @@
+[META]
+id:       BASP 53.133_3
+label:    BASP 53.133_3
+name:     Receipt — Theadelpheia (Arsinoites)
+genre:    receipts
+date:     11 CE
+language: Greek (Koiné)
+found:    Theadelpheia (Arsinoites)
+held:     Ann Arbor
+shelf:    
+content:  Receipt from Theadelpheia (Arsinoites) (11 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       703276
+source:   https://papyri.info/ddbdp/basp;53;133_3
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ἔτους μ Καίσαρος, Χοιὰκ λ διέγραψεν
+r.2    Μαρσίσουχος Μαρρείους Ἡρακλᾷ
+r.3    τῶι παρὰ Συρίωνος δημοσίου τραπεζίτου Ἀρσινοίτου
+r.4    εἰ[ς] συντάξιμον τοῦ αὐτοῦ ἔτους Θεαδελφείας ἀργυρίου ῥυπαροῦ
+r.5    [ὀ]κτώ, γίνονται δραχμαὶ η καὶ τῆι ι τοῦ Τῦβι τέσσαρας,
+r.6    γίνονται δραχμαὶ δ καὶ τῆι λ τοῦ Τῦβι τέσσαρας, γίνονται δραχμαὶ δ
+r.7    καὶ τῆι κθ τοῦ Φαρμοῦθι τέσσαρας, γίνονται δραχμαὶ δ
+r.8    καὶ τῆι λ τοῦ Φαρμοῦθι τέσσαρας, γίνονται δραχμαὶ δ
+r.9    καὶ τῆι κ … τοῦ Παῦνι δεκαδύο, γίνονται δραχμαὶ ιβ
+r.10   [καὶ] τῆι κη τοῦ Ἐπεὶφ δραχμὰς ὀκτώ 𐅵 δίχαλκον, γίνονται δραχμαὶ η 𐅵 δίχαλκον
+
+[TRANSLATION]
+# HGV-EN: In the 40th year of Caesar on the 30th of Choiak, Marsisouchos son of Marres has paid to Heraklas, the agent of Syrion, public banker of the Arsinoite (nome), for the syntaximon of the same year, for Theadelphia, eight silver (drachmas) = 8 dr., and on the 10th of Tybi four dr. = 4 dr., and on the 30th of Tybi four dr. = 4 dr., and on the 29th of Pharmouthi four dr . = 4 dr., and on the 30th of Pharmouthi four dr. = 4 dr., and on the [21-29th] of Pauni twelve dr. = 12 dr., and on the 28th of Epeiph eight dr., ½ obol, 2 chalkoi = 8 dr., ½ obol, 2 chalkoi.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

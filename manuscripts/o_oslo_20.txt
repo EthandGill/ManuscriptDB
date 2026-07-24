@@ -1,0 +1,30 @@
+[META]
+id:       O.OSLO 20
+label:    O.OSLO 20
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     286 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (286 CE)
+# hgv-keywords: Quittung — Dekaproten
+tm:       40840
+source:   https://papyri.info/ddbdp/o.oslo;;20
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    δεκαπρώτων Ἀτίωνος καὶ Φαρακλίωνος γενήματος α ἔτους ὀνόματος
+r.2    Γναίας διὰ Ἡρώδου
+r.3    διὰ κτηνῶν Κερκήσεως
+r.4    ὄνοι τέσσαρες .
+r.5    ἔτους γ καὶ β Θὼθ ιζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

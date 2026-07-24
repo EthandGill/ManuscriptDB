@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.93
+label:    O.ONT.MUS 2.93
+name:     Receipt — Theben
+genre:    receipts
+date:     90 CE – 95 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (90 CE – 95 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75110
+source:   https://papyri.info/ddbdp/o.ont.mus;2;93
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [διαγέγραφε Μαι]εῦρις Ἁρφμόιτος
+r.2    [Μαιεύρ]ιος ὑπὲρ λαογραφίας Ἀγορῶν βορρᾶ. ἔτους
+r.3    [δραχμὰς δέκα] βαλανευτικοῦ α ὀβολὸν α 𐅵 γίνονται ια ὀβολὸς α 𐅵 καὶ προσδιαγραφόμενα.
+r.4    [ἔτους ] … Δομιτιανοῦ τοῦ κυρίου Φαμενὼθ λ‡ιγ. Σωκράτης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

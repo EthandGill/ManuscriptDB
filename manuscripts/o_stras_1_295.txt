@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.295
+label:    O.STRAS 1.295
+name:     Receipt — Theben
+genre:    receipts
+date:     66 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (66 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75889
+source:   https://papyri.info/ddbdp/o.stras;1;295
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … ειξοβο ιγ ἔτους Νέρωνος τοῦ
+r.2    κυρίου μηνὸς Νέου Σεβαστοῦ
+r.3    λ ε Πετεχῶν Σει[ά]θου
+r.4    ρ … .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

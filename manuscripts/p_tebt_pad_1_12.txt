@@ -1,0 +1,30 @@
+[META]
+id:       P.TEBT.PAD 1.12
+label:    P.TEBT.PAD 1.12
+name:     Letter — Tebtynis (Arsinoites, Ägypten)
+genre:    letters
+date:     100 BCE – 76 BCE
+language: Greek (Koiné)
+found:    Tebtynis (Arsinoites, Ägypten)
+held:     
+shelf:    
+content:  Letter from Tebtynis (Arsinoites, Ägypten) (100 BCE – 76 BCE)
+# hgv-keywords: Brief (privat?) — Apollonios an den Laarchen Isidotos — Fragment
+tm:       412066
+source:   https://papyri.info/ddbdp/p.tebt.pad;1;12
+lat:      29.10713705
+lon:      30.7620317
+
+[GREEK]
+r.1    Ἀπολλώνιος Ἰσιδότωι
+r.2    τῶι ἀδελφῶι χαίρειν
+r.3    καὶ ἐρρῶσθαι. Τρύφωνι
+r.4    … ε
+
+[TRANSLATION]
+# HGV-EN: Apollonios to his brother Isidotos, greetings and may you be in good health. To Tryphon [...]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

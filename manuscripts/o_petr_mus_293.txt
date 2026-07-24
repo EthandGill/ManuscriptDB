@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 293
+label:    O.PETR.MUS 293
+name:     Receipt — Theben
+genre:    receipts
+date:     247 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (247 CE)
+# hgv-keywords: Quittung — Steuer (phoros hieros apotaktos)
+tm:       75397
+source:   https://papyri.info/ddbdp/o.petr.mus;;293
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψαν Φαμενὼθ ιδ τοῦ δ ἔτους
+r.2    κληρονόμοι Πανίσκου υἱοῦ Ἀμμωνίου
+r.3    ὑπὲρ φόρου ἱεροῦ ἀποτάκτου καὶ ἄλλων λημμάτων δ ἔτους
+r.4    δραχμὰς τέσσαρας γίνονται δραχμαὶ δ Αὐρήλιος Δωρίων σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

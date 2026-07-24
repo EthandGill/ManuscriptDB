@@ -1,0 +1,26 @@
+[META]
+id:       SB 16.12770
+label:    SB 16.12770
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     162 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (162 BCE)
+# hgv-keywords: Quittung — Steuer — Zahlung — Gerste — Namen — demotisch
+tm:       4159
+source:   https://papyri.info/ddbdp/sb;16;12770
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους ιθ Παχὼν ιϛ εἰσμεμέτρηκεν εἰς τὴν ἐπιγραφὴν τοῦ ιθ ἔτους
+r.2    κάτω τόπου Σαπᾶρις Ἁρεμσύνιος κριθῶν
+r.3    πέντε γίνονται ε. Ἰσίδωρος.
+
+[TRANSLATION]
+1     
+2     
+3     

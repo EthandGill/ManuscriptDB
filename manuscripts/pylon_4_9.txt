@@ -1,0 +1,50 @@
+[META]
+id:       PYLON 4.9
+label:    PYLON 4.9
+name:     Letter — Herakleopolites
+genre:    letters
+date:     401 CE – 450 CE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     Oxford
+shelf:    
+content:  Letter from Herakleopolites (401 CE – 450 CE)
+# hgv-keywords: Brief — Aurelia Apia an NN — Eingabe — Urteil — Priester
+tm:       987705
+source:   https://papyri.info/ddbdp/pylon;4;9
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    τῇ τάξει τῆς ἐξουσίας τοῦ κ[υρίου] [μου τοῦ λαμπροτάτου ἡγεμόνος]
+r.2    ἐπαρχίας Ἀρκαδίας [ ]
+r.3    παρὰ Αὐρηλίας Ἀπίας θυγ[ατρὸς] … [ἀπὸ] …
+r.4    τοῦ Ἡρακλεοπολίτου, οἰκού[σης δὲ ἐν] …
+r.5    ἐπειδὴ ἐνέτυχον τῇ ἐξουσίᾳ [τοῦ κυρίου μου τοῦ λαμπροτάτου] [ἡγεμό]νος ἐπαρχίας Ἀρκαδίας Φλα[ουΐου] …
+r.6    Ἄρωνος Παύλου πρεσβυτέ[ρου] …
+r.7    τῆς αὐτῆς Ἀγκυρώνων πρε …
+r.8    μένου μου ἀνδρὸς Οὐίκτορο[ς] …
+r.9    ἀποφάσεως ἐξενεχθε[ίσης] …
+r.10   αὐτὸν χορηγῆσαι π …
+r.11   … ου Φ[ο]ιβάμμ[ων] …
+r.12   … [τ]εταγμέ[ν] …
+r.13   … αλεστ …
+r.14   … [ἀ]πὸ ὁμολ[ογίας] …
+
+[TRANSLATION]
+# HGV-EN: To the office of his Highness [my lord the governor] of the province of Arcadia, from Aurelia Apia daughter [of N.N. from …] of the Heracleopolite (nome) but living [in the village of Ankyron (?) of the same nome]. Since I petitioned his Highness [my lord the governor] of the province of Arcadia, Flavius [N.N., vir clarissimus,] … Aron son of Paulus, priest … from/of the said Ankyron … my late (?) husband Victor … the judgement having been declared … that he provide … Phoebammon …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

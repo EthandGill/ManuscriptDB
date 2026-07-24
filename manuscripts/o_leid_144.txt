@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 144
+label:    O.LEID 144
+name:     Receipt — Theben
+genre:    receipts
+date:     189 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (189 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24712
+source:   https://papyri.info/ddbdp/o.leid;;144
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀπολλωνίδης ὁ καὶ …
+r.2    καὶ μέτοχοι ἐπιτηρηταὶ τέλους …
+r.3    Νίλων Ψενχῶνσις πρεσβυτέρου Βάσσου
+r.4    ἔσχον τὸ καθῆκον τέλος τῆς
+r.5    ταφῆς γ δραχμὰς ϛ. ἔτους κθ Φαμενὼθ δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

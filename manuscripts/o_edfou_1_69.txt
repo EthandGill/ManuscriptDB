@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.69
+label:    O.EDFOU 1.69
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     116 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (116 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       47009
+source:   https://papyri.info/ddbdp/o.edfou;1;69
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Μειοῦς Θηδέτου
+r.2    ἰουδαίου ιθ ἔτους Τραιανοῦ Ἀρίστου
+r.3    Καίσαρος τοῦ κυρίου
+r.4    δραχμὰς η ἔτους ιθ Φαρμοῦθι κε
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

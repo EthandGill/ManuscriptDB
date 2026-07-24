@@ -1,0 +1,24 @@
+[META]
+id:       O.ASHM.SHELT 8
+label:    O.ASHM.SHELT 8
+name:     Receipt — Elephantine
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (120 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70560
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;8
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Διδυμίων πράκτωρ διὰ Παλαχήμιος.
+r.2    διέγραψεν Πετορζμῆθις Πετορζμήθου τοῦ Πετορζμήθου μητρὸς Σενπαχνοῦβις ὑπὲρ λαογραφίας τοῦ πέμπτου ἔτους Ἁδριανοῦ Καίσαρος τοῦ κυρίου δραχμὰς δεκαεπτὰ ἡμιωβέλιον , δεσμοφυλάκων ἡμιωβέλιον , γίνονται δραχμαὶ ιζ ὀβολὸς. Ἁθὺρ γ.
+
+[TRANSLATION]
+1     
+2     

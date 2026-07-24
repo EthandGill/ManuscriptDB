@@ -1,0 +1,24 @@
+[META]
+id:       P.TURNER 53
+label:    P.TURNER 53
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     572 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (572 CE)
+# hgv-keywords: Quittung — Zinn — Blei
+tm:       15707
+source:   https://papyri.info/ddbdp/p.turner;;53
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐδόθησαν διὰ Ἀπ[ο]λλ[ῶ] μολυβουργοῦ εἰς διόρθωσιν τῶν χαλκίων τοῦ κτήματος Μεσκανούνεως
+r.2    [μολύβδου] λίτραι ὀκτὼ καὶ κασσιτηρίου λίτραι τέσσαρες, γίνονται μολύβδου λίτραι η καὶ κασσιτηρίου λίτραι δ μόναι.
+
+[TRANSLATION]
+1     
+2     

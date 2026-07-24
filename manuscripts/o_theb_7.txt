@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 7
+label:    O.THEB 7
+name:     Receipt — Theben
+genre:    receipts
+date:     224 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (224 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       43721
+source:   https://papyri.info/ddbdp/o.theb;;7
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κδ Παῦνι κδ
+r.2    νιτρικῆς κα[λ]λαινοποιῶν
+r.3    Θοτεὺς Τασοῦτος εἰς τιμὴν
+r.4    σησάμου δραχμὰς ἓξ γίνονται ϛ.
+r.5    Ἡλιόδωρος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

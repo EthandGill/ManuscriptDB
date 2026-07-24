@@ -1,0 +1,30 @@
+[META]
+id:       P.PETR.KLEON 48
+label:    P.PETR.KLEON 48
+name:     Letter — Fundort: Gurob; Schreibort: Arsinoites
+genre:    letters
+date:     260 BCE – 236 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Letter from Fundort: Gurob; Schreibort: Arsinoites (260 BCE – 236 BCE)
+# hgv-keywords: Brief — Bewässerung — Wehrsperre öffnen — Arbeiten
+tm:       388482
+source:   https://papyri.info/ddbdp/p.petr.kleon;;48
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    … [ὄ]ντων ἡμῶν ἐμ Ψε …
+r.2    … [Φ]ιλαδελφείας ἀπ …
+r.3    π … δα ἑωθινῆς. καλῶς [οὖν ποιήσεις συντά]ξας ἀνοῖξαι τὰς μὲν τῶν [κ]ατ[ὰ Πτολεμ]αῖδα θύρας ὡς σοὶ φ[αίνεται. ἐὰν δὲ πα]ραγενόμενος ἴδηις τὰ ἔργα … ε … [ἐάν]
+r.4    σοι φαίνηται. …
+
+[TRANSLATION]
+# HGV-EN: [...] while we were in Pse[...] [...] Philadelpheia [...] [...] early in the morning; could you please order to open the sluice gates near [Ptolem]ais as you think [fit. If] you see the works upon your arrival [... if] you please.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

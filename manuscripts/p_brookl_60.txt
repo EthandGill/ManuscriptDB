@@ -1,0 +1,30 @@
+[META]
+id:       P.BROOKL 60
+label:    P.BROOKL 60
+name:     Receipt — Theben
+genre:    receipts
+date:     106 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (106 CE)
+# hgv-keywords: Quittung — Steuern — Weizen
+tm:       18082
+source:   https://papyri.info/ddbdp/p.brookl;;60
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται θησαυρῷ Ἄνω ἱερ γ[ενήματος]
+r.2    θ ἔτους Τραιανοῦ τοῦ [κυρίου]
+r.3    Ἐπεὶφ ιε ὀνόματος …
+r.4    δεκανοῦ διὰ Φανίου [τοῦ καὶ] …
+r.5    Ὀννώφρεως ἀδελφοῦ πυροῦ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

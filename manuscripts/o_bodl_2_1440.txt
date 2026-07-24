@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1440
+label:    O.BODL 2.1440
+name:     Receipt — Theben
+genre:    receipts
+date:     159 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (159 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       72123
+source:   https://papyri.info/ddbdp/o.bodl;2;1440
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος κβ ἔτους Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.2    Παῦνι κε ὑπὲρ Ἀγορῶν ὀνόµατος Ἑρµοῦ θεοῦ µεγίστου διὰ Φατρήους
+r.3    ὁµοίως Ψενασούχου αἳ διὰ Πετεχνούμιος
+r.4    Παμώνθου πυροῦ ἀρτάβαι δέκα τρεῖς ἕκτον γίνονται πυροῦ ἀρτάβαι ιγ ϛ.
+r.5    Σαβῖνος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

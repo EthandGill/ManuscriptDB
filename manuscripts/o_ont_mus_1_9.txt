@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 1.9
+label:    O.ONT.MUS 1.9
+name:     Receipt — Theben
+genre:    receipts
+date:     64 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (64 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       75031
+source:   https://papyri.info/ddbdp/o.ont.mus;1;9
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Σαχομνεῦς Ψενμώνθου καὶ μέτοχοι
+r.2    Ἑρμείᾳ Ἐπωνύχου χαίρειν ἀπέχομεν
+r.3    τὸ τέλος Φαμενὼτ καὶ Φαρμοῦθι
+r.4    τοῦ ι ἔτους Νέρωνος τοῦ κυρίου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

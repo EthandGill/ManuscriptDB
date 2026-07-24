@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.407
+label:    O.STRAS 1.407
+name:     Receipt — Theben
+genre:    receipts
+date:     242 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (242 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75995
+source:   https://papyri.info/ddbdp/o.stras;1;407
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ε ἔτους τοῦ κυρίου ἡμῶν
+r.2    Αὐτοκράτορος Καίσαρος Μάρκου Ἀντωνίου Γορδιανοῦ Εὐσεβοῦς Εὐτυχοῦς Σεβαστοῦ
+r.3    Μεσορὴ ια ὑπὲρ πρακτορείας Χάρακος ὀνόματος Βήκιος Πε … Πατομεκῦτος πυροῦ ἀρτάβην μίαν γίνεται πυροῦ α. Αὐρήλιος
+r.4    Ἡράκλειος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

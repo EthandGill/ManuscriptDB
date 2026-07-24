@@ -1,0 +1,52 @@
+[META]
+id:       P.PETR.KLEON 101
+label:    P.PETR.KLEON 101
+name:     Documentary papyrus — Fundort: Gurob; Schreibort: Arsinoites
+genre:    documents
+date:     260 BCE – 236 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Documentary papyrus from Fundort: Gurob; Schreibort: Arsinoites (260 BCE – 236 BCE)
+# hgv-keywords: Aufstellung — Zahlungen — Namen — Geld — Bewässerung — Arbeit
+tm:       388493
+source:   https://papyri.info/ddbdp/p.petr.kleon;;101
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    … ν … οι …
+r.2    εἰς τὸ αὐτὸ …
+r.3    Αφ [εἰ]ς ο τῶν δ δραχμῶν [δραχμ- πε τετρώβολον] …
+r.4    μυριάδες … Εϡξθ ϛ εἰς ξ [τῶν δ̅ δραχμῶν] …
+r.5    καὶ ἐν τῆι ἀμμίνηι διώρυγει …
+r.6    Πρωτάρχου καὶ Τεχεσ[τέως] …
+r.7    γέγραπται ὑπὸ τῶν π …
+r.8    το ἀποδιασταλεν …
+r.9    γίνονται μυριάδες … Γφοϛ …
+r.10   Σούχου …
+r.11   Σοκνεβτύνεος
+r.12   Σοκονώπιος
+r.13   λοιπὸν Βφπθ
+r.14   αἶγες σ
+r.15   καὶ φ …
+
+[TRANSLATION]
+# HGV-EN: [...] Total: [...] 1,500 at a rate of 70 for 4 dr. [85 dr. 4 ob. ...] x5,969 1/6 at a rate of 60 for [4 dr.(?) ...] and in the sandy canal [...] of Protarchos and [Techesteus ...] (as) is written by the [...] [...] Total: x3,576 [...] Souchos [...] Soknebtynis [...] Sokonopis [...] Remainder: 2,589 Goats: 200 [...]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

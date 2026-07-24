@@ -1,0 +1,38 @@
+[META]
+id:       O.ASHM.SHELT 28
+label:    O.ASHM.SHELT 28
+name:     Receipt — Theben
+genre:    receipts
+date:     168 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (168 CE)
+# hgv-keywords: Quittungen — Steuern — Getreide
+tm:       70580
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;28
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος η ἔτους Ἀντωνίνου καὶ
+r.2    Οὐήρου τῶν κυρίων Σεβαστῶν,
+r.3    Παῦνι γ, ὑπὲρ Χάρακος ὀνόματος Σόκμωνος
+r.4    Οὐενα διὰ Σενπετεμενώφιος πρεσβυτέρας Ὥρου
+r.5    πυροῦ μίαν, γίνεται πυροῦ α. Ἀμώνιος σεσημείωμαι πυροῦ α.
+r.6    ἄλλο Παῦνι ια ὑπὲρ Νήσων ὀνόματος Σενύριος
+r.7    Φανη πυροῦ τέταρτον κδ, γίνεται πυροῦ δ κδ
+r.8    ἄλλο ιδ ὁμοίως πυροῦ τέταρτον κδ,
+r.9    γίνεται πυροῦ δ κδ. Ἀμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

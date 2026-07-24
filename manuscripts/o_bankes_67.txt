@@ -1,0 +1,28 @@
+[META]
+id:       O.BANKES 67
+label:    O.BANKES 67
+name:     Documentary papyrus — Elephantine
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Documentary papyrus from Elephantine (101 CE – 200 CE)
+# hgv-keywords: Abrechnung für den Monat Thoth — Namen — Geld
+tm:       699540
+source:   https://papyri.info/ddbdp/o.bankes;;67
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σαβείνιος, μηνὸς Θώθ· δραχμαὶ ιη χαλκοῦς,
+r.2    ὧν ἀνηλώθησαν γ … τ δραχμαὶ ιδ χαλκοῦς
+r.3    λοιπὸν ἐν αὐτῷ δραχμαὶ δ, καὶ ὑπὲρ
+r.4    Σύρου γεωργοῦ δραχμαὶ β διώβολον, γίνονται δραχμαὶ ϛ διώβολον
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

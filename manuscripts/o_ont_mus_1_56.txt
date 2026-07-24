@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 1.56
+label:    O.ONT.MUS 1.56
+name:     Receipt — Theben
+genre:    receipts
+date:     194 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (194 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75074
+source:   https://papyri.info/ddbdp/o.ont.mus;1;56
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος β ἔτους Λουκίου Σεπτιμίου
+r.2    Σεουήρου Περτίνακος Καίσαρος τοῦ κυρίου
+r.3    Ἐπεὶφ κβ ὑπὲρ Χάρακος ὀνόματος Ψεν Πλήνιος Πεκύσιος
+r.4    διὰ Παψιοῦτος Χεμπνέως πυροῦ ἀρτάβας τρεῖς
+r.5    γίνονται πυροῦ ἀρτάβαι γ. Πα σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

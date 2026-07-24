@@ -1,0 +1,32 @@
+[META]
+id:       P.Oxy. 74.5008
+label:    P.Oxy. 74.5008
+name:     Documentary papyrus — Pakerke (Oxyrhynchites) bzw. Oxyrhynchos
+genre:    documents
+date:     201 CE – 400 CE
+language: Greek (Koiné)
+found:    Pakerke (Oxyrhynchites) bzw. Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Pakerke (Oxyrhynchites) bzw. Oxyrhynchos (201 CE – 400 CE)
+# hgv-keywords: Befehl — decurio an die Komarchen und Epistatai Eirenes — Überstellung
+tm:       128314
+source:   https://papyri.info/ddbdp/p.oxy;74;5008
+lat:      28.534866
+lon:      30.790823
+
+[GREEK]
+r.1    παρὰ τοῦ δεκαδάρχου
+r.2    κωμάρχαις καὶ ἐπιστάτηι εἰρήνης Πακερκη ἀπηλιώτου.
+r.3    ἐξαυτῆς παράδοτε Κολλοῦθον υἱὸν Τνεφερσόιτος καὶ γυναῖκα
+r.4    Λέοντος Θρακίδου ἐντυχούσης
+r.5    Αὐρηλίας Ἰσιδώρας.
+
+[TRANSLATION]
+# HGV-EN: From the decurio to the comarchs and epistates eirenes of Pakerke East. Immediately hand over Colluthus son of Tnephersois and the wife of Leon son of Thracidas at the petition of Aurelia Isidora. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

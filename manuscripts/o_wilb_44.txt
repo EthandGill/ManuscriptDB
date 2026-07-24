@@ -1,0 +1,28 @@
+[META]
+id:       O.WILB 44
+label:    O.WILB 44
+name:     Receipt — Theben
+genre:    receipts
+date:     102 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (102 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76555
+source:   https://papyri.info/ddbdp/o.wilb;;44
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαμῖνις καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    Ἐραῦς Χαταβοῦτος χαίρειν. ἀπέχομεν τὸ βαλανευτικὸν
+r.3    τοῦ ε ἔτους Τραιανοῦ Καίσαρος
+r.4    τοῦ κυρίου, Παῦνι ζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.481
+label:    O.STRAS 1.481
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     130 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (130 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76069
+source:   https://papyri.info/ddbdp/o.stras;1;481
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεχεσποχράτης καὶ μέτοχοι τελῶναι θησαυροῦ
+r.2    Ἐ … Ἡρακλ . ἀπέχω
+r.3    ὑπὲρ βαλανείου τοῦ ιδ ἔτους Ἁδριανοῦ
+r.4    τοῦ κυρίου. Φαμενὼθ ι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

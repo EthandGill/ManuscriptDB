@@ -1,0 +1,24 @@
+[META]
+id:       O.EDFOU 3.430
+label:    O.EDFOU 3.430
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     98 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (98 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74406
+source:   https://papyri.info/ddbdp/o.edfou;3;430
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ψενοσῖρις Πελεύϊος
+r.2    λαογραφίας α ἔτους Τραιανοῦ τοῦ κυρίου δραχμὰς η ἔτους α Φαμενὼθ α
+
+[TRANSLATION]
+1     
+2     

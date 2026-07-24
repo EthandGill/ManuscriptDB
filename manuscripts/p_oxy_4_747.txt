@@ -1,0 +1,24 @@
+[META]
+id:       P.Oxy. 4.747
+label:    P.Oxy. 4.747
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     176 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (176 CE – 300 CE)
+# hgv-keywords: Einladung zu einem Fest eines Dekurio
+tm:       28353
+source:   https://papyri.info/ddbdp/p.oxy;4;747
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    καλεῖ σε ὁ δεκάδαρχος εἰς τὴν ξενίαν ἑαυτοῦ τῇ ϛ Καλάνδαις ἀπὸ ὥρας η.
+
+[TRANSLATION]
+# HGV-EN: The decurion invites you to his party on the sixth day before the Calends at eight o'clock.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     

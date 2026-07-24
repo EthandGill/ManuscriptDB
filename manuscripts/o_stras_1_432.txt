@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.432
+label:    O.STRAS 1.432
+name:     Receipt — Theben
+genre:    receipts
+date:     183 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (183 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       76020
+source:   https://papyri.info/ddbdp/o.stras;1;432
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁθὺρ κη τοῦ κδ ἔτους ὀνόματος κληρονόμων Θερμούθιος
+r.2    Ψενκαλείβιος ὑπὲρ μερισμοῦ ἀννώνης πόλεως
+r.3    πυροῦ ζ. Ἀσκληπιάδης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,36 @@
+[META]
+id:       O.THEB 63
+label:    O.THEB 63
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     192 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (Ägypten) (192 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76433
+source:   https://papyri.info/ddbdp/o.theb;;63
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πρεμαὼς καὶ
+r.2    μέτοχοι ἐπιτηρηταὶ
+r.3    τέλους γερδίων.
+r.4    ἔσχομεν παρὰ σοῦ
+r.5    ὑπὲρ Μεχεὶρ
+r.6    δραχμὰς δ. ἔτους λβ
+r.7    Μεχεὶρ
+r.8    λ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

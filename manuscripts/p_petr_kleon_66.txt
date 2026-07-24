@@ -1,0 +1,40 @@
+[META]
+id:       P.PETR.KLEON 66
+label:    P.PETR.KLEON 66
+name:     Documentary papyrus — Fundort: Gurob; Schreibort: Arsinoites
+genre:    documents
+date:     254 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Documentary papyrus from Fundort: Gurob; Schreibort: Arsinoites (254 BCE)
+# hgv-keywords: Notiz — Krankheit — Bitte
+tm:       381302
+source:   https://papyri.info/ddbdp/p.petr.kleon;;66
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    ἔτους λα Χοιὰχ ιγ. τὸ δοθὲν ὑπόμνημα Φιλέαι
+r.2    παρὰ Κλέωνος ἐν Κροκοδίλων πόλει.
+r.3    Φιλέαι. ἐμοὶ μὲν συμβαίνει
+r.4    εὐσ … π … ἐνοχλεῖσθαι τ … τῶι σώματι
+r.5    [οὐδ]ὲ δύναμαι πρὸς οὐθενὶ
+r.6    [τῶν ἔργ]ων εἶναι. σὺ δὲ κα[λῶς πο]ιήσεις συντάξας
+r.7    … ινι πορεύεσθαι
+r.8    … ημα.
+r.9    ἔτους λ[α] …
+
+[TRANSLATION]
+# HGV-EN: Year 31, Choiak 13. The memorandum given to Phileas by Kleon in Krokodilon Polis. To Phileas. I happen to [be ...] physically unwell, and I can not conduct any of the [works]. Could you please order [...] to go to [...]. Year 3[1 ...].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

@@ -1,0 +1,50 @@
+[META]
+id:       P.BATAV 20
+label:    P.BATAV 20
+name:     Documentary papyrus — unbekannt
+genre:    documents
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Documentary papyrus from unbekannt (501 CE – 600 CE)
+# hgv-keywords: Amulett (christlich) — Credo — Schutz gegen Fieber — magische Formel
+tm:       65047
+source:   https://papyri.info/ddbdp/p.batav;;20
+lat:      
+lon:      
+
+[GREEK]
+r.1    Χριστὸς προεκ[ηρύχθη]
+r.2    Χριστὸς ἐφάνη
+r.3    Χριστὸς ἔπαθεν
+r.4    Χριστὸς ἀπέθανεν
+r.5    Χριστὸς ἀνηγέρθη
+r.6    Χριστὸς ἀνελήμφθη
+r.7    Χριστὸς βασιλεύει
+r.8    Χριστὸς σῴζει Οὐίβιον,
+r.9    ὅν ἔτεκεν Γενναία,
+r.10   ἀπὸ παντὸς πυρετοῦ
+r.11   καὶ παντὸς ῥίγους
+r.12   ἀμφημερινοῦ,
+r.13   καθημερινοῦ,
+r.14   ἤδη ἤδη, ταχὺ ταχύ
+
+[TRANSLATION]
+# HGV-EN: † † † † [† † †] ⳨ Christ was proclaimed in advance; ⳨ Christ appeared; ⳨ Christ suffered; ⳨ Christ died; ⳨ Christ was raised; ⳨ Christ was taken up; ⳨ Christ reigns; Christ saves Vibius, whom Gennaia bore, from all fever and from all shivering, daily, quotidian, now now, quickly, quickly. † † † † † † †
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

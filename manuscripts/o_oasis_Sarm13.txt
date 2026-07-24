@@ -1,0 +1,30 @@
+[META]
+id:       O.OASIS Sarm13
+label:    O.OASIS Sarm13
+name:     Receipt — Oasis Parva
+genre:    receipts
+date:     406 CE
+language: Greek (Koiné)
+found:    Oasis Parva
+held:     
+shelf:    
+content:  Receipt from Oasis Parva (406 CE)
+# hgv-keywords: Quittung
+tm:       23822
+source:   https://papyri.info/ddbdp/o.oasis;;Sarm13
+lat:      28.373334
+lon:      28.8971005
+
+[GREEK]
+r.1    Σαρμάτῃ ἰ[δίῳ]
+r.2    [γεού]χῳ Ἰ[σὰκ]
+r.3    ἔσχον πα[ρὰ σοῦ]
+r.4    ἕνα καὶ ἥ[μισυ ] …
+r.5    ἔτους πβ Ἐπ[εὶφ ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       O.NYU 58
+label:    O.NYU 58
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     11 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (11 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869461
+source:   https://papyri.info/ddbdp/o.nyu;;58
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους μ Μεσορη
+r.2    ἐπαγομένων β ταριχευτ- τοῦ αὐτοῦ ἔτους
+r.3    Τκαλῆς Ψενποήριος δραχμὰς ἑπτὰ
+r.4    ὀβολοὺς δύο, γίνονται ζ διώβολον. Πίσηχθις.
+r.5    ἄλλας ζ διώβολον.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

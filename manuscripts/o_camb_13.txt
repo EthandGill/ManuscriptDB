@@ -1,0 +1,24 @@
+[META]
+id:       O.CAMB 13
+label:    O.CAMB 13
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     112 BCE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (112 BCE)
+# hgv-keywords: Quittung
+tm:       73494
+source:   https://papyri.info/ddbdp/o.camb;;13
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    [ἔτους ε Ἐπε]ὶφ ια μεμέτρηκεν ε ἔτους Μεμνονείων
+r.2    … ε … ν … ιος Ἑριεῦς
+
+[TRANSLATION]
+1     
+2     

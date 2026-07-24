@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.1094
+label:    O.BODL 2.1094
+name:     Receipt — Theben
+genre:    receipts
+date:     21 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (21 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71781
+source:   https://papyri.info/ddbdp/o.bodl;2;1094
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Ἀπολ]λώνιος Ἀπολλοδώρου Πορε[ίβθ]ῃ Διονυσίου χαίρειν. ἔχω τὸ τέλος ὑὸς
+r.2    ὃν πέπρακας τῶι ζ ἔτει Τιβερίου
+r.3    Καίσαρος Σεβαστοῦ Μεχεὶρ κδ.
+
+[TRANSLATION]
+1     
+2     
+3     

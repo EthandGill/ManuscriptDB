@@ -1,0 +1,32 @@
+[META]
+id:       O.THEB 90
+label:    O.THEB 90
+name:     Receipt — Theben
+genre:    receipts
+date:     220 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (220 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76460
+source:   https://papyri.info/ddbdp/o.theb;;90
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Αὐρήλιος … άθης Ἰναρώους καὶ Πλῆνις
+r.2    Ψενενφῶτος οἱ β ἀπαιτηταὶ τιμῆς
+r.3    οἴνου καὶ φοινίκων γ ἔτους ὀνόματος Αὐρηλίου Πεχύτου
+r.4    Πρεμτώτου ἀρούρης ϛ δραχμὰς κδ.
+r.5    ἔτους γ Μεσορὴ η.
+r.6    Καὶ ὑπὲρ δ ἔτους δραχμὰς η.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

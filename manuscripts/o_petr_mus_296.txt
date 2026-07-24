@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 296
+label:    O.PETR.MUS 296
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     96 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (96 CE)
+# hgv-keywords: Quittung — Steuer (Wächtersteuer, Wachtturmsteuer, Badesteuer)
+tm:       75450
+source:   https://papyri.info/ddbdp/o.petr.mus;;296
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Παχεῦμις Σενφάφιος φυλάκων α ἔτους
+r.2    Νέρουα τοῦ κυρίου δραχμήν α ὀβολὸν ἡμιωβέλιον
+r.3    σκοπέλων τετρώβολον ἡμιωβέλιον βαλανευτικοῦ α. ἔτους α
+r.4    Ἁθὺρ κ ε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

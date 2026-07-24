@@ -1,0 +1,28 @@
+[META]
+id:       ZPE 231.196_3
+label:    ZPE 231.196_3
+name:     Receipt — Elephantine
+genre:    receipts
+date:     98 CE – 99 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (98 CE – 99 CE)
+# hgv-keywords: Quittung — Steuer (Gewerbe, cheironaxion) — Geld
+tm:       999713
+source:   https://papyri.info/ddbdp/zpe;231;196_3
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Πετροσζμῆθις Θιμωθέου
+r.2    ὑπὲρ χειρωναξίου β ἔτους Τραιανοῦ
+r.3    τοῦ κυρίου ἐπὶ λόγου δραχμὰς ὀκτὼ
+r.4    γίνονται δραχμαὶ η
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

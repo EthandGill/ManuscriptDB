@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 147
+label:    O.LEID 147
+name:     Receipt — Theben
+genre:    receipts
+date:     196 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (196 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24715
+source:   https://papyri.info/ddbdp/o.leid;;147
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Νεφερῶς πρεσβύτερος Φθουμίνιος καὶ μέτοχοι
+r.2    ἐπιτηρηταὶ τέλους γερδίων ὀνόματος Βησσαρίων πρεσβυτέρου ἔσχομεν
+r.3    παρὰ σοῦ τὸ τέλος ὑπὲρ μηνῶν
+r.4    Θὼθ Φαῶφι Ἁθὺρ
+r.5    δραχμὰς ἕξ, γίνονται δραχμαὶ ϛ. ἔτους ε
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

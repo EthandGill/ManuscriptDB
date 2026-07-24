@@ -1,0 +1,30 @@
+[META]
+id:       O.MINOR E1
+label:    O.MINOR E1
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     1 CE – 400 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (1 CE – 400 CE)
+# hgv-keywords: Quittung
+tm:       75014
+source:   https://papyri.info/ddbdp/o.minor;;E1
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    Παῦνι γ
+r.2    Στρατοῦς Φαννίου Αὐρηλίου
+r.3    πυροῦ ε 𐅵 δ. Ἐφεὶπ ζ διὰ Ψενμώνθου
+r.4    Μονκορήους θησαυροῦ Μεμνονείων
+r.5    … νθ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

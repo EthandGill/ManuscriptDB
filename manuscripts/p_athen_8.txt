@@ -1,0 +1,58 @@
+[META]
+id:       P.ATHEN 8
+label:    P.ATHEN 8
+name:     Letter — Arsinoites
+genre:    letters
+date:     193 BCE – 192 BCE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Letter from Arsinoites (193 BCE – 192 BCE)
+# hgv-keywords: Brief (amtlich) — Herakleitos an Dorion — Überstellung eines gewaltsam aus dem Asyl Geholten — Bericht über einen anderen Fall an den Strategen
+tm:       5021
+source:   https://papyri.info/ddbdp/p.athen;;8
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἡράκλειτος Δωρίωνι
+r.2    χαίρ[ειν]. Πτολεμαῖον τὸν
+r.3    καὶ Πᾶσιν τὸν
+r.4    ἐκσπασθέντα ἐκ τοῦ ἱεροῦ ὑπὸ τῶν
+r.5    περὶ Ἀντίπατρον καὶ Ὀννῶφ[ρ]ιν Ἀχογρέους υἱὸν
+r.6    τὸν κατῃτιαμένον περὶ
+r.7    τῆς βίας ἀναζητήσας μὴ
+r.8    παρέργως κατάστησον
+r.9    ἐφʼ ἡμᾶς ὅπως ἀποσταλῶσιν ἐπὶ Φίλωνα τὸν
+r.10   ἀρχιφυλακίτην καὶ περὶ
+r.11   τῶν διασεσαφημένων
+r.12   γένηται ἡ προσήκουσα
+r.13   ἐπίσκεψις· περὶ δὲ τοῦ Ἀντιπ[ά]τρου τοῦ Περίτου ἑκατονταρούρου
+r.14   καὶ Σεύθου τοῦ Νικηράτου ἐπεστάλκαμεν
+r.15   τῶι Φίλωνι ὅπως διασαφήσῃ Πτολεμαίωι
+r.16   τῶι στρατηγῶι καὶ διʼ
+r.17   αὐτοῦ ἀναχθῶσιν.
+r.18   ἔρρωσο ἔτους ιγ Ἁθὺ[ρ ] …
+
+[TRANSLATION]
+# HGV-EN: Herakleitos to Dorion, greetings. Make it your priority to seek out Ptolemaios, also known as Pasis, the man dragged out of the temple by the agents of Antipatros and Onnophris, son of Achogres, who has made an accusation of bia (against them). Stand him before us so that he may be sent to Philon, archiphylakitês, and the appropriate examination of the aforementioned events may take place. And concerning Antipatros, son of Peritas, 100-aroura man, and Seuthes, son of Nikeratos, we have sent (them) to Philon so that he may make explanation to Ptolemaios the stratêgos and via him they may be brought up. Farewell. Year 13, Hathyr.... (J. Bauschatz, Law and Enforcement, pp271–272)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 2.297
+label:    O.EDFOU 2.297
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     121 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (121 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74311
+source:   https://papyri.info/ddbdp/o.edfou;2;297
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Παχούμις Ψενεμπβήκιος λαογραφίας
+r.2    καὶ ἄλλων ε ἔτους Ἁδριανοῦ
+r.3    τοῦ κυρίου Σεβαστοῦ
+r.4    δραχμὰς μβ γίνονται δραχμαὶ μβ ἔτους ε
+r.5    [Μ]εσορὴ κα
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 3.523
+label:    P.Oxy. 3.523
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (101 CE – 200 CE)
+# hgv-keywords: Brief (privat) — Antonios Ptolemaios an NN — Einladung — Essen (Fest)
+tm:       28363
+source:   https://papyri.info/ddbdp/p.oxy;3;523
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐρωτᾷ σε Ἀντώνιος Πτολεμαῖος δειπνῆσαι
+r.2    παρʼ αὐτῶι εἰς κλίνην τοῦ κυρίου
+r.3    Σαράπιδος ἐν τοῖς Κλαυδίου Σαραπίωνος
+r.4    τῆι ιϛ ἀπὸ ὥρας θ.
+
+[TRANSLATION]
+# HGV-EN: Antonius son of Ptolemaeus invites you to dine with him at the table of the lord Sarapis in the house of Claudius Sarapion on the 16th at 9 o'clock.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

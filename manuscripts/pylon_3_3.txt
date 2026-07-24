@@ -1,0 +1,46 @@
+[META]
+id:       PYLON 3.3
+label:    PYLON 3.3
+name:     Contract — Aphrodites Kome
+genre:    contracts
+date:     573 CE – 580 CE
+language: Greek (Koiné)
+found:    Aphrodites Kome
+held:     Ghent
+shelf:    
+content:  Contract from Aphrodites Kome (573 CE – 580 CE)
+# hgv-keywords: Bitte — Kauf — Bdellium
+tm:       140425
+source:   https://papyri.info/ddbdp/pylon;3;3
+lat:      26.833145
+lon:      31.416623
+
+[GREEK]
+r.1    ⲡⲡⲁⲡⲁ ⲇⲓⲁ [ⲛⲉ ⲙⲛ ⲛ]ⲉϥⲥⲛⲏⲩ ⲛⲉⲧⲥϩⲁⲓ ⲙⲡⲉⲩⲥⲟⲛ
+r.2    ⲉⲧⲧⲁⲓⲏⲩ ⲇⲓ[ⲟⲥⲕⲟ]ⲣⲟⲥ ϩⲁ ⲑⲏ μέν ⲛϩⲱⲃ ⲛⲓⲙ ⲧⲛϣⲓⲛⲉ ⲉⲣⲟⲕ ϩⲙ ⲡ[ⲉⲛϩ]ⲏⲧ ⲧⲏⲣ ϥ ⲙⲛ ⲧⲉⲛψυχή ⲧⲏⲣⲥ
+r.3    χαίρετε ⲁⲩⲱ ⲧ[ⲛⲉⲓ]ⲣⲉ ⲙⲡⲉⲕⲙⲉⲉⲩⲉ ⲙⲛ ⲡλαός ⲧⲏⲣϥ
+r.4    ϫⲓⲛ ⲙ ⲡⲛⲟϭ ϣ[ⲁ ⲡⲕ]ⲟⲩⲓ [ⲉ]ⲧⲣⲉⲡⲛⲟⲩⲧⲉ ⲥⲟⲟⲩⲧⲛ ⲛⲧⲉⲕϩⲓⲏ· καὶ γάρ ⲡⲉⲛ … ⲉ ϩⲱⲱⲛ ⲡⲉ ⲡⲁⲓ ϫⲉ ⲥⲉⲩⲁ ϣⲕ ⲧⲏ
+r.5    ⲣⲟⲩ ϫⲉ ⲛ ⲧⲕ ⲟⲩ ϣ[ⲏⲣ]ⲉ ⲛϣⲟⲩⲁϣϥ· ⲉⲧⲃⲉ ⲑⲉ ⲛⲧⲁⲕⲥϩ[ⲁⲓ]
+r.6    ⲛⲁⲛ ⲉⲧⲃⲉ ⲡⲁ … ⲛⲉⲓⲱϩⲉ ⲁⲛⲣ ⲡϩⲱⲃ ⲉ ϣϣⲉ ⲉ …
+r.7    ⲁⲩⲱ … ⲉ ϭ … ⲛⲕⲁϣ ϩⲙ ⲡⲙⲁ ⲛⲓⲁⲕⲱⲃ …
+r.8    … ⲉⲧⲉ ⲛϭⲁⲙⲟⲩⲗ ⲟ …
+r.9    … ⲉ ⲙⲙⲟⲛ ϩⲱⲱⲧ …
+r.10   [ⲟⲩϫⲁⲓ ϩⲙ ⲡ ϫⲟⲉⲓⲥ ⲡ]ⲉ[ⲛ]ⲙⲉⲣⲓⲧ ⲛⲥⲟⲛ ⲉ[ⲧⲧⲁⲓⲏⲩ] …
+r.11   ⲧⲁⲁⲥ ⲛⲇⲓⲟⲥⲕⲟⲣⲟⲥ ϩⲓⲧ[ⲛ] [ ] [ⲡ]ⲡⲁⲡⲁ ⲇⲓⲁⲛⲉ ⲙⲛ
+r.12   ⲛⲉϥⲥⲛⲏⲩ ⲧ ⲏⲣⲟⲩ
+
+[TRANSLATION]
+# HGV-EN: This is Papa Diane [and] his brothers who write to their [venerable] brother Dioscorus. Before anything else, we greet you with all [our] heart and all our soul. Greetings! Moreover, we remember you and the whole community from the oldest to the youngest, so that God straightens your path. Indeed, it is our very …, since everyone loves you because you are one worthy-of-being-loved son. Concerning what you wrote to us about the [...] field(s?), we did the work. If (?) it is appropriate, […]. Moreover … […] reeds in the place of Iakôb [...] [...] camels [ ... ] otherwise (?) myself [ ... ] [Greetings in the Lord], our beloved and venerable brother… Send to Dioscorus, from Papa Diane and all his brothers.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

@@ -1,0 +1,62 @@
+[META]
+id:       SB 6.9215
+label:    SB 6.9215
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     250 BCE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (250 BCE)
+# hgv-keywords: Brief (amtlich) — NN an NN — Anordnung — Bäume — Fällen — Bau — Schiffe (Krieg) — König
+tm:       6200
+source:   https://papyri.info/ddbdp/sb;6;9215
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … ἀπέστ[αλκά σοι]
+r.2    … επιστολ …
+r.3    … ὅπως μα …
+r.4    … ως τῆς β …
+r.5    … πλῆθος …
+r.6    … ταυταχ …
+r.7    … ησε τὰ ημ …
+r.8    … ημα … κ … ν … αλις εκα …
+r.9    ἔρρωσθε ἔτους λε Ἀπελ[λαίου] [β] Ἁθὺρ κβ.
+r.10   [Ἀπολλ]ώνιος Δημητρίωι χ[αίρει]ν· προ[σέ]τ[αξεν] ὁ βασιλε[ὺ]ς
+r.11   [πρὸς τὴ]ν ἐντορνείαν τῶν μακρῶν νηῶν κόψαι [ξ]ύλα τῶ[ν] ἐπ[ι][χωρίων ἀκ]άνθινα καὶ μυρίκινα καὶ ἰτέϊνα· ὡς ἂν οὖν ἀναγνο[ῖς]
+r.12   [ταύτην [τὴν] ἐ]πιστολὴν παραλαβὼν τοὺς βασιλικοὺς γραμ[ματεῖς]
+r.13   [καὶ τοὺς] ἐπὶ τῶν φυλακιτῶν [κ]αὶ τοὺς φῶρας καὶ τοὺς αιθ …
+r.14   … ν πρὸς τὴν κοπὴν [σ]ώματα πλῆθ[ος] φ …
+r.15   … ἐπ[ὶ] τόπων τὸ διαγεγραμμένον πλῆθος· μὴ [οὖν]
+r.16   [ἀμελήσῃς ἀλλὰ σ]υντομώτερον ἀναπλήρωσον τὸ ἐπιγεγραμ[μένον]
+r.17   [ἕως ] … [ εἰ] δὲ μὴ τὸ ἔσχατον ἕως τῆς ιε τοῦ Χοίακ. …
+r.18   … τατα ἦι καὶ πρὸς τὴν χρείαν ἐπιτήδ[εια]
+r.19   … [ προ]σέταξεν ὁ βασιλεὺς περὶ τούτου [πλ]ήθου[ς]
+r.20   … ντας ποιεῖσθαι τὴ[ν ἐπίσ]κεψιν ἐπ …
+
+[TRANSLATION]
+# HGV-EN: ... I sent to you ... letter ... so that ... amount ... Farewell. Year 35, Apellaios/Hathyr 22. Apollonios to Demetrios, greetings. The king has enjoined, for the defensive breastwork of war ships, that we cut down the wood of native trees: acanthus, tamarisk and willow. Therefore, as soon as you read this letter, taking with you the royal scribes, the official in charge of the police, the thief-catchers and the … slaves for the cutting, an amount … in the districts the specified amount. Therefore, do not be negligent, but immediately compile the assessed amount until … but if not the last (day), until the 15th of Choiak … and suitable for the need … the king has decreed concerning this amount … to make the examination …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

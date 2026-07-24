@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.390
+label:    O.STRAS 1.390
+name:     Receipt — Theben
+genre:    receipts
+date:     186 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (186 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75978
+source:   https://papyri.info/ddbdp/o.stras;1;390
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος κϛ ἔτους Κομμόδου Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου Ἐπεὶφ θ ὑπὲρ Νότου ὀνόματος
+r.3    … χω ὁμοίως διὰ Νεφερτῶτος
+r.4    πυροῦ ἕκτον γίνεται πυροῦ ϛ. … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

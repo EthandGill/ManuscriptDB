@@ -1,0 +1,42 @@
+[META]
+id:       P.HIB 1.36
+label:    P.HIB 1.36
+name:     Documentary papyrus — Talae (Herakleopolites, Ägypten)
+genre:    documents
+date:     229 BCE
+language: Greek (Koiné)
+found:    Talae (Herakleopolites, Ägypten)
+held:     Cambridge, MA
+shelf:    
+content:  Documentary papyrus from Talae (Herakleopolites, Ägypten) (229 BCE)
+# hgv-keywords: Nachricht — Verlust — Schaf — an den Phylakiten (mit Duplikat)
+tm:       8188
+source:   https://papyri.info/ddbdp/p.hib;1;36
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    ἔτους ιθ Θωὺτ β. προσαγγέλλει Ἁρμιύσι φυλακίτηι
+r.2    Ταλέους Σάτοκος ἀπολωλεκέναι ἐκ τῆς αὐλῆς
+r.3    νυκτὸς πρόβατον θῆλυ
+r.4    δασὺ Ἀράβιον ἄξιον δραχμῶν η.
+r.5    ἔτους ιθ Θωὺτ β. προσαγγέλλει
+r.6    Ἁρμιύσι φυλακίτηι Τάλη
+r.7    Σάτοκος ἀπολωλεκέναι
+r.8    ἐκ τῆς αὐλῆς νυκτὸς
+r.9    πρόβατον θῆλυ Ἀράβιον
+r.10   δασὺ ἄξιον δραχμῶν η.
+
+[TRANSLATION]
+# HGV-EN: Year 19, Thoth 2. Satokos announces to Harmiusis, policeman of Talae, that he has lost from his sheepfold by night an unshorn Arabian ewe worth 8 drachmas. (Text repeats in lines 7–12.)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

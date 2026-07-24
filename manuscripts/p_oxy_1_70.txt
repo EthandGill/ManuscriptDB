@@ -1,0 +1,54 @@
+[META]
+id:       P.Oxy. 1.70
+label:    P.Oxy. 1.70
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     212 CE – 213 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (212 CE – 213 CE)
+# hgv-keywords: Eingabe — Ptolemaios alias Herakleides an den Epistrategen Aurelius Herapion — Darlehen
+tm:       20730
+source:   https://papyri.info/ddbdp/p.oxy;1;70
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Αὐρη[λίῳ] Ἡραπίωνι τῷ κρατίστῳ ἐπιστρατήγῳ
+r.2    παρὰ Π[το]λεμαίου τοῦ καὶ Ἡρακλείδου ἀγορανομήσαν[το]ς βουλευτοῦ τῆς Ὀξυρυγχειτῶν πόλεως.
+r.3    πᾶσα κυ[ρί]α ἔνγραφος συναλλαγὴ πίστιν καὶ
+r.4    ἀλήθ[ειαν ἔ]χει. ὀφειλομένων μοι τοίνυν ὑπὸ
+r.5    Ἀγαθ[οῦ Δαίμονος] τοῦ καὶ Ἐνθέσμου κατʼ ἰδιόγραφον χ[ειρόγραφον αὐ]τοῦ γεγονὸς τῷ ιε ἔτει Φαρμοῦθι … καὶ δ[ημοσ]ι[ω]θὲν ἀργυρίου δραχμῶν
+r.6    τρισχιλίων τόκ[ο]υ τετρωβόλου ἐφʼ οἷς ἄλλοις τὸ
+r.7    χειρόγραφον περιέχει ὅπερ ἔστιν κύριον, συνέβη δὲ κατάστασίν με ποιήσασθαι πρὸς αὐτὸν τῷ διελ θόντι κ ἔτει, Μεσορὴ ε, ἐπὶ Κολωνιανοῦ τοῦ ἐπιστρατηγήσαντος περί
+r.8    τε ἑτέρου πράγματος καὶ περὶ τοῦ προκιμένου
+r.9    χειρογράφου, … ἐμαυτῷ τετηρηκέναι
+r.10   περὶ τῆς ἀ[ποδόσ]εως [τῶν προκει]μέ[ν]ων
+r.11   δραχμῶν … ων τόκων καταδ … αρονο
+r.12   μεν … ὑπο …
+r.13   δραχμῶν χ[ιλίων ] …
+r.14   ματος περιβ …
+r.15   κεφαλαίου ε …
+r.16   δεν καταβ …
+
+[TRANSLATION]
+# HGV-EN: To Aurelius Herapion, most high epistrategus, from Ptolemaeus also called Heraclides, ex-agoranomus, councillor of Oxyrhynchus. Every valid written contract is credited and accepted. Agathodaemon also called Enthesmus owes me by a bond executed in his own hand in the 15th year, Pharmouthi, and placed in the archives, three thousand drachmae of silver, lent at the interest of four obols and upon the other conditions contained in the bond, which is valid. It happened that a balancing of accounts took place between us in the past 20th year on Mesore 5 when Colonianus was epistrategus, with reference to another transaction and to the bond aforesaid...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

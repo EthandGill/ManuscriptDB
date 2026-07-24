@@ -1,0 +1,32 @@
+[META]
+id:       CHREST.WILCK 414
+label:    CHREST.WILCK 414
+name:     Receipt — Theben
+genre:    receipts
+date:     34 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (34 CE)
+# hgv-keywords: Quittung — Geld
+tm:       77707
+source:   https://papyri.info/ddbdp/chrest.wilck;;414
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πα … ς Κ … ρ … ου Παήρει Πανᾶτος. ἔχω
+r.2    παρὰ σοῦ ὑπὲρ τιμῆς πυροῦ ἀρτάβης
+r.3    μιᾶς ῥυφαρ … , οὗ ἔλαβες ἐν θησαυρῷ εἰς τὴν παρουσίαν Φλάκκου
+r.4    ἡγημόνος.
+r.5    ἔτους κ Τιβερίου Καίσαρος Σεβαστοῦ
+r.6    Μεσορὴ ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

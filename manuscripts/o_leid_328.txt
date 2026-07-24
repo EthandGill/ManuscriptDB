@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 328
+label:    O.LEID 328
+name:     Letter — Elephantine
+genre:    letters
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Letter from Elephantine (101 CE – 200 CE)
+# hgv-keywords: Brief — Anweisung — Sendung von Personen
+tm:       30022
+source:   https://papyri.info/ddbdp/o.leid;;328
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    πρεσβυτέροις
+r.2    Πιαυω· πέμψατε τοὺς εὐ[σ]χήμονας
+r.3    τοὺς ἐπὶ τῶν παρόλκων.
+r.4    μὴ ἄλλως ποιήσητε,
+r.5    εἰδότες τὴν ἀνάγκην
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

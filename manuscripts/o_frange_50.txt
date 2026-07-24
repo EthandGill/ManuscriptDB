@@ -1,0 +1,40 @@
+[META]
+id:       O.FRANGE 50
+label:    O.FRANGE 50
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Lettre — Demande d’envoi — Couteau — Objet en métal — Travail du cuir — Archives de Frangé
+tm:       140938
+source:   https://papyri.info/ddbdp/o.frange;;50
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [ ⲡⲓ]ἐλάχιστος
+r.2    [ϥ]ⲣⲁⲅⲅⲉ ⲉ[ϥⲥϩⲁⲓ]
+r.3    ⲉϥϣⲓⲛⲉ ⲉⲡⲉ[ϥ]ⲙⲉⲣⲓⲧ ⲛⲥⲟⲛ
+r.4    ⲁⲣⲓ ⲧἀγάπη
+r.5    ⲉⲓⲥⲟⲡⲥ ⲙⲙⲟⲕ ⲉⲧⲃⲉ ⲟⲩσμιλίον
+r.6    ⲛⲅⲧⲓϥ ⲛⲁⲓ ⲙⲙⲟⲛ ϯⲣ χρεία ⲛⲁϥ ⲉⲙⲁⲧⲉ
+r.7    ϩⲙ ⲡϫⲟⲉⲓⲥ ϩⲓ ⲟⲩⲥⲟⲡ ⲟⲩϫⲁⲓ ϩⲙ ⲡϫⲟⲉⲓⲥ ⲡⲁⲙⲉⲣⲓⲧ
+r.8    ⲛⲥⲟⲛ ⲧⲁⲁⲥ ⲛⲥⲱⲧⲏⲣⲟⲥ ϩⲓⲧⲛ
+r.9    ϥⲣⲁⲅⲅⲉ
+r.10   Ἰησοῦς Χριστός
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

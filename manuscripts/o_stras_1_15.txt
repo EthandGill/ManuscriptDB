@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.15
+label:    O.STRAS 1.15
+name:     Receipt — Diospolis Magna (Theben)
+genre:    receipts
+date:     139 BCE
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     
+shelf:    
+content:  Receipt from Diospolis Magna (Theben) (139 BCE)
+# hgv-keywords: Quittung — Steuern — Bank — Geld
+tm:       43698
+source:   https://papyri.info/ddbdp/o.stras;1;15
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    ἔτους λα Μεχεὶρ ιε τέτακται ἐπὶ τὴν
+r.2    ἐν Διὸς πόλει τῆι μεγάλῃ τράπεζαν, ἐφʼ ἧς Ἡρακλείδης,
+r.3    ἀπὸ τιμῆς ὀθονίων βασιλικῶν τοῦ λα ἔτους
+r.4    Ψενχῶνσις Πατήμιος δισχιλίας γίνονται Β.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

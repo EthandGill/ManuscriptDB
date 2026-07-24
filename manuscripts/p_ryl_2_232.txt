@@ -1,0 +1,42 @@
+[META]
+id:       P.RYL 2.232
+label:    P.RYL 2.232
+name:     Letter — Arsinoites
+genre:    letters
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Letter from Arsinoites (101 CE – 200 CE)
+# hgv-keywords: Brief (privat) — Tap[.....] an Ammonaphris — Sekretär — Bauern
+tm:       27904
+source:   https://papyri.info/ddbdp/p.ryl;2;232
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ταπ … [ Ἀ]μμονάφρι [τῷ φιλτάτῳ ][χ]αίρειν.
+r.2    ἅμα τῷ [παρα]γενέσθαι
+r.3    τὸν στρ[ατη]γὸν εἰς τὴν
+r.4    Ἡράκλειαν ἠρώτα περὶ
+r.5    σοῦ ἕνεκα τῆς
+r.6    γραμματείας τῶν γεωργῶν καὶ οἱ δημόσιοι προσεφώνησαν αὐτῷ
+r.7    ὅτι μένεις ἐν τῇ κώ[μῃ],
+r.8    διὸ οὖν γράφω σοι ἵνα
+r.9    εἰδῇς.
+r.10   [Ἀμμο]νᾶφρις.
+
+[TRANSLATION]
+# HGV-EN: 'Ta ... to her dearest Ammonaphris, greeting. As soon as the strategus arrived at Heracleia, he inquired about you because of the secretaryship of the cultivators, and the officials told him that you were staying in the village. I write to you therefore to inform you.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

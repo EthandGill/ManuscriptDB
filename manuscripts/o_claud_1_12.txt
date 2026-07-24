@@ -1,0 +1,30 @@
+[META]
+id:       O.CLAUD 1.12
+label:    O.CLAUD 1.12
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     145 CE – 146 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (145 CE – 146 CE)
+# hgv-keywords: Quittung
+tm:       24025
+source:   https://papyri.info/ddbdp/o.claud;1;12
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    … ης ημυ …
+r.2    … α ὑπὲρ Ατρ …
+r.3    [ἔ]τους θ αὐτοκ[ράτορος Καίσαρος Τίτου]
+r.4    [Αἰ]λίου Ἁδριανο[ῦ Ἀντωνίνου Σεβαστοῦ]
+r.5    [Εὐτυχοῦς ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

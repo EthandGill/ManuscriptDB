@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 3.375
+label:    O.EDFOU 3.375
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     101 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (101 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74362
+source:   https://papyri.info/ddbdp/o.edfou;3;375
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ἰώσηπος Αἰσχύλου
+r.2    λαογραφίας δ ἔτους Τραιανοῦ τοῦ κυρίου
+r.3    δραχμὰς η Βόκχωρις υἱὸς ὁμοίως δραχμὰς η ἔτους δ Φαμενὼθ κδ
+
+[TRANSLATION]
+1     
+2     
+3     

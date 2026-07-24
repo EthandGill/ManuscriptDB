@@ -1,0 +1,60 @@
+[META]
+id:       BGU 1.215
+label:    BGU 1.215
+name:     Receipt — Ptolemais Euergetis (Arsinoites)
+genre:    receipts
+date:     200 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Ptolemais Euergetis (Arsinoites) (200 CE)
+# hgv-keywords: Quittungen — Steuern — Geld
+tm:       8978
+source:   https://papyri.info/ddbdp/bgu;1;215
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    ἔτους η Λουκίου Σεπτιμίου
+r.2    [Σ]ε[ο]υήρου Εὐσεβοῦς
+r.3    Πετρίνακος Σεβαστοῦ
+r.4    καὶ [Μ]άρκου Αὐρηλίου
+r.5    Ἀ[ν]τωνείνου Σεβαστοῦ
+r.6    Παχὼν γ. διέγραψαν Ἡρακλείδης
+r.7    καὶ μέτοχοι πράκτορες ἀργυρικῶν κώμης
+r.8    Πτολ … μηκωντος γενη
+r.9    ου ἄλλης εἰδῶν ζ ἔτους
+r.10   δραχμὰς ὀκτὼ γίνονται δραχμαὶ η,
+r.11   λ ὁμοίως [ἄ]λλας δραχμὰς ὀκτὼ
+r.12   γίνονται δραχμαὶ η, Παῦ[ν]ι κε ἄλλας
+r.13   δραχμὰς ὀκτ[ὼ γίνονται] δραχμαὶ η, Ἐπεὶφ
+r.14   κζ ἄλλας δραχμὰς ὀκτὼ
+r.15   γίνονται δραχμαὶ η, Μεσ[ορ]ὴ λ ἄλλας
+r.16   δραχμὰς τέσσαρας [γίνονται δραχμαὶ] δ.
+r.17   Θῶθ … ερ …
+r.18   … γε … δραχμὰς ὀ[κτ]ὼ
+r.19   γίνονται δραχμαὶ η
+
+[TRANSLATION]
+# HGV-EN: Year 8 of Lucius Septimius [S]everus Pius Pertinax Augustus and Marcus Aurelius A[n]toninus Augustus, Pachon 3. Herakleides and his associates, collectors of money taxes of the village of Ptol *** of year 7 paid eight drachmas, = 8 drachmas. 30th likewise a further eight drachmas, = 8 drachmas. Payni 25 a further eight drachmas, = 8 drachmas. Epeiph 27 a further eight drachmas, = 8 drachmas. Mesore 30 a further four drachmas, = 4 drachmas. verso (m. 2 ?) Thoth [x – – –] eight drachmas, = 8 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

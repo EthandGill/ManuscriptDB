@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 129
+label:    O.THEB 129
+name:     Receipt — Theben
+genre:    receipts
+date:     141 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (141 CE)
+# hgv-keywords: Quittung — Arbeit — Deich
+tm:       76499
+source:   https://papyri.info/ddbdp/o.theb;;129
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φθομώνθης Ὥρου χωματεπιμελητὴς …
+r.2    Ἁρπαήσει Πασήμιος Πκο[ίλιος][ χαίρειν.]
+r.3    ἀνέβαλες εἰς περίχωμα Ψαμ καὶ ἄλλο χώμα Ψ …
+r.4    ναύβια β δ η. ἔτους δ Ἀντωνίνου
+r.5    Καίσαρος τοῦ κυρίου Φαμενὼθ ια.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

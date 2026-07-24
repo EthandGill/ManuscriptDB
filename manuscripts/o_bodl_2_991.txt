@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.991
+label:    O.BODL 2.991
+name:     Receipt — Theben
+genre:    receipts
+date:     209 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (209 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71679
+source:   https://papyri.info/ddbdp/o.bodl;2;991
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἐπεὶφ ιζ τοῦ ιζ ἔτους ὀνόματος Ἰσιδώρου
+r.2    Πανίσκου Σεουήρου ὑπὲρ τιμῆς
+r.3    οἴνου γενήματος ιϛ ἔτους δραχμὰς δώδεκα
+r.4    γίνονται δραχμαὶ ιβ. Ἀπολλώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

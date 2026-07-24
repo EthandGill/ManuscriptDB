@@ -1,0 +1,30 @@
+[META]
+id:       O.DEISS 46
+label:    O.DEISS 46
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     115 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     Sydney
+shelf:    
+content:  Receipt from Apollonopolis (115 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       73860
+source:   https://papyri.info/ddbdp/o.deiss;;46
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους β Μεσορὴ κζ. εἰσμεμέτρηκεν εἰς θησαυρὸν Ἀπόλλωνος πόλεως
+r.2    εἰς τὸ αὐτὸ ἔτος Κάτω Ἁρνᾶσις
+r.3    Τεῶτος πυροῦ 𐅵 γ γίνεται πυροῦ 𐅵 γ. Κάστωρ.
+r.4    Ἱέραξ μεμέτρημαι καθότι πρόκειται πυροῦ 𐅵 γ γίνεται πυροῦ 𐅵 γ.
+r.5    ἔτους β Μεσορὴ κζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

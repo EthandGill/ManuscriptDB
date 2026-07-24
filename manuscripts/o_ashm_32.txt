@@ -1,0 +1,30 @@
+[META]
+id:       O.ASHM 32
+label:    O.ASHM 32
+name:     Receipt — Theben
+genre:    receipts
+date:     109 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (109 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       70481
+source:   https://papyri.info/ddbdp/o.ashm;;32
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεμενῶφις πράκτωρ ἀργυρικῶν
+r.2    Παμώνθῃ Πετεχώνσιος Πα … νωτουθι. ἔσχον ὑπὲρ χωματικοῦ Χάρακος δωδεκάτου [ἔτους]
+r.3    ῥυπαρὰς δραχμὰς ἑπτὰ πεντώβολον χαλκοῖ 2. ἔτους ιγ
+r.4    Τραιανοῦ Καίσαρος
+r.5    τοῦ κυρίου Φαῶφι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.93
+label:    O.STRAS 1.93
+name:     Receipt — Theben
+genre:    receipts
+date:     77 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (77 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75693
+source:   https://papyri.info/ddbdp/o.stras;1;93
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [διέγ]ραψεν Ψενχῶνσις Ὀσορουήριος Φατρήους
+r.2    [ὑπὲρ] λαογραφίας θ ἔτους δ[έκα] … γίνονται ια … .
+r.3    ἔτους θ Οὐεσπασιανοῦ τοῦ κυρίου
+r.4    Φαμενὼθ λ β. …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,26 @@
+[META]
+id:       C.PAP.LAT 215
+label:    C.PAP.LAT 215
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     170 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     Cairo
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (170 CE)
+# hgv-keywords: Bezeugung — Antritts einer Erbschaft — unmündige Römerin
+tm:       106174
+source:   https://papyri.info/ddbdp/c.pap.lat;;215
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    Οὐαλερία Σεραπειὰς προσῆλθον τῇ κληρονομίᾳ
+r.2    τῆς μάμμης μου κατὰ πατέρα ἀκολούθως
+r.3    τῇ διαθήκῃ αὐτῆς. Λούκιος Οὐαλέριος Λουκρητιανὸς ἐπίτροπος ὢν αὐτῆς ἔγραψα ὑπὲρ αὐτῆς ἀφήλικος οὔσης.
+
+[TRANSLATION]
+1     
+2     
+3     

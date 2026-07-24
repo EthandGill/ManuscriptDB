@@ -1,0 +1,28 @@
+[META]
+id:       O.DEISS 90
+label:    O.DEISS 90
+name:     Documentary papyrus — Apollonopolis
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     Sydney
+shelf:    
+content:  Documentary papyrus from Apollonopolis (101 CE – 200 CE)
+# hgv-keywords: Abrechnung (?)
+tm:       73905
+source:   https://papyri.info/ddbdp/o.deiss;;90
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    θηγγα δ … α
+r.2    αγγι η
+r.3    ἔτους η Παχὼν κδ
+r.4    Παῦνι β ὁμοίως η
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

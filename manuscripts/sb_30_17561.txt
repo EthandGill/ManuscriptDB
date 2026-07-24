@@ -1,0 +1,28 @@
+[META]
+id:       SB 30.17561
+label:    SB 30.17561
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     107 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Leiden
+shelf:    
+content:  Receipt from Theben (Ägypten) (107 CE)
+# hgv-keywords: Quittung — Abgaben
+tm:       23765
+source:   https://papyri.info/ddbdp/sb;30;17561
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀπολ καὶ μέτοχοι πράκτορες ἀργυρικῶν μητροπόλεως Ἀμονρησονθὴρ
+r.2    θεοῦ μεγίστου διὰ Πετεμενώφιος Ψεναμούνιος·
+r.3    ἔσχομεν ὑπὲρ γεωμετρίας δεκάτου ἔτους ῥυπαρὰς δραχμὰς δεκαέξ,
+r.4    γίνονται δραχμαὶ ιϛ. ἔτους δεκάτου Τραιανοῦ τοῦ κυρίου Μεσορὴ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

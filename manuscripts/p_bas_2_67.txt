@@ -1,0 +1,38 @@
+[META]
+id:       P.BAS 2.67
+label:    P.BAS 2.67
+name:     Letter — Mittelägypten
+genre:    letters
+date:     unbekannt
+language: Greek (Koiné)
+found:    Mittelägypten
+held:     Basel
+shelf:    
+content:  Letter from Mittelägypten (unbekannt)
+# hgv-keywords: Brief
+tm:       827801
+source:   https://papyri.info/ddbdp/p.bas;2;67
+lat:      
+lon:      
+
+[GREEK]
+r.1    ⲛⲉⲙⲫⲉ ⲁⲩⲱ [ⲡ]ⲉⲥϩⲁⲓ ⲁⲩⲱ ⲛⲉ …
+r.2    ⲙⲉ ⲁⲩⲱ ⲛⲉⲩ[ϣ]ⲏⲣⲉ ⲁⲩⲱ … ⲕ … ⲙⲓⲟ …
+r.3    ⲛⲧⲁ ⲉⲛⲓ ⲁ[ⲁ]ⲩ ⲛⲧⲁⲓⲕⲁⲥ ⲉϩⲟⲩⲛ ϩⲛ ⲫⲁⲓⲣⲉ ⲧ[ⲉⲛⲟⲩϭⲉ] …
+r.4    ⲡⲁϫⲟϥ ⲉⲧⲟⲟⲧⲥ ⲁⲩⲱ ⲧⲓⲥϩⲁⲓ ⲛⲑⲉⲟ[ⲇⲟⲣⲉ] …
+r.5    … ⲙ ⲡⲁⲣⲁⲧⲟⲩⲣⲁ ⲛⲁⲓ [ⲁ]ⲩⲱ ⲉⲡⲙⲁ ⲛ … ϫ …
+r.6    … ⲉⲓ [ⲁⲓ]ⲉⲓⲙⲉ ϫⲉ ⲛⲉⲙⲁϥ ϫⲓⲧⲥ …
+r.7    … [ⲛ]ⲁⲩ ⲛⲉϥⲛⲏⲩ ⲧⲁⲩⲁⲧⲁ …
+r.8    [ⲧⲁⲁⲥ] ⲛⲁⲡⲁ ⲧⲁⲩⲣⲓⲛⲉ ϩⲓⲧⲛ ⲧⲕⲟⲗⲟⲑⲁⲓ
+
+[TRANSLATION]
+# HGV-EN: [… and] Nemphe and [h]er husband, and the[…, and … …] … and [their] children and [… of the …] which Eni has made/done and which I had put on the rubbish heap. N[ow then … …] my weakling to her. I am writing to Theo[dore…] … beyond their … to me and instead of/to the place [… … I] knew that he was unable to receive it [… … t]o them. He has come. Send my [… to us … …] not eat. I am … […] … [Give it] to Apa Taurine from Tkolothai
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

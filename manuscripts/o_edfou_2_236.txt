@@ -1,0 +1,24 @@
+[META]
+id:       O.EDFOU 2.236
+label:    O.EDFOU 2.236
+name:     Receipt — Arsinoe (Apollonopolites)
+genre:    receipts
+date:     151 BCE
+language: Greek (Koiné)
+found:    Arsinoe (Apollonopolites)
+held:     
+shelf:    
+content:  Receipt from Arsinoe (Apollonopolites) (151 BCE)
+# hgv-keywords: Quittung
+tm:       43798
+source:   https://papyri.info/ddbdp/o.edfou;2;236
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    ἔτους λ Μεχεὶρ ια τέτακται ἐπὶ τὴν ἐν Ἀρσινόῃ τράπεζαν ἀπὸ τιμῆς βαλανείων τοῦ κθ ἔτους Ἁρεμσῦνις
+r.2    Φαράτου χαλκοῦ διακοσίας πεντήκοντα γίνονται σν Ἑρμίας τραπεζίτης
+
+[TRANSLATION]
+1     
+2     

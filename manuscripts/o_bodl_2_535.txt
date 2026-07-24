@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.535
+label:    O.BODL 2.535
+name:     Receipt — Theben
+genre:    receipts
+date:     128 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (128 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71233
+source:   https://papyri.info/ddbdp/o.bodl;2;535
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … Πετεμενώφει Παμώνθου
+r.2    … ὑπὲρ λαογραφίας καὶ βαλανευτικοῦ Χάρακος
+r.3    ιβ ἔτους ῥυπαρὰς δραχμὰς δώδεκα . ἔτους ιβ Ἁδριανοῦ …
+r.4    Φαρμοῦθι …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

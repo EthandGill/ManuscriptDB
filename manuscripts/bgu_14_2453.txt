@@ -1,0 +1,30 @@
+[META]
+id:       BGU 14.2453
+label:    BGU 14.2453
+name:     Receipt — Diospolis Magna (Theben)
+genre:    receipts
+date:     154 BCE
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     
+shelf:    
+content:  Receipt from Diospolis Magna (Theben) (154 BCE)
+# hgv-keywords: Quittung — Steuer
+tm:       4049
+source:   https://papyri.info/ddbdp/bgu;14;2453
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    ἔτους κζ Παῦνι λ μεμέτρηκεν εἰς τὸν
+r.2    ἐν Διὸς πόλει τῆι μεγάληι θησαυρὸν λδ ἔτος
+r.3    Αγαυμις Ἀγγαίου πυροῦ
+r.4    δεκατέσσαρας 𐅵 γίνονται ιδ 𐅵
+r.5    Ἀμβρύων
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

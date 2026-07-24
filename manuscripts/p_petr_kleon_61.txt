@@ -1,0 +1,34 @@
+[META]
+id:       P.PETR.KLEON 61
+label:    P.PETR.KLEON 61
+name:     Letter — Fundort: Gurob; Schreibort: Arsinoites
+genre:    letters
+date:     260 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Letter from Fundort: Gurob; Schreibort: Arsinoites (260 BCE – 249 BCE)
+# hgv-keywords: Brief — Steinarbeiter — Faulheit — Habgier
+tm:       388483
+source:   https://papyri.info/ddbdp/p.petr.kleon;;61
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    ἐπιστολὴ[ν], εὐθέως συν[ή]γαγον ε …
+r.2    λαξούς εἰς ρι καὶ ἔγραψά σο[ι. σ]ὺ δὲ οὐκ ἔφη[ς] …
+r.3    ὑπὸ τῶν παρὰ σοῦ καὶ εἰς Ἀ[γ]κ[υ]ρῶν πόλιν …
+r.4    καὶ νῦν δὲ ἀπέσταλκα ἵνα ἔλθωσιν ὅσους ἂ[ν] …
+r.5    πλεονεξίας τοῖς παρ’ ἡμῶν ῥαθυμίας ἐπικαλε …
+r.6    Κλέωνι
+
+[TRANSLATION]
+# HGV-EN: [... as soon as I received your] letter, I have quickly collected [...] to a total of 110 stonecutters and I have written to you. You have denied, though, [...] by those in your command and to Ankyron Polis, [...] and now I have sent for them to come as many as [... out of] greediness, [...] reproach our men with laziness [...] Verso: To Kleon.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

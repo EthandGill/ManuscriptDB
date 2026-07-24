@@ -1,0 +1,32 @@
+[META]
+id:       P.ANT 2.90
+label:    P.ANT 2.90
+name:     Receipt — Antinoopolis
+genre:    receipts
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Antinoopolis
+held:     
+shelf:    
+content:  Receipt from Antinoopolis (501 CE – 600 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       36077
+source:   https://papyri.info/ddbdp/p.ant;2;90
+lat:      27.8105625
+lon:      30.8810025
+
+[GREEK]
+r.1    δέδωκεν Φοιβάμμων Κάστου διὰ τοῦ κυρίου
+r.2    Καλλινίκου Ὡρινίκου εἰς λόγον δημοσίων πόλεως
+r.3    Ἀντινόου χρυσοῦ κεράτια τέσσερα γίνεται κεράτια δ μόνα.
+r.4    Ἰσὰκ Εὐσταθίου ὑποδέκτης· στοιχεῖ [μοι] τὸ ἐντάγιον
+r.5    β ἰνδικτίονος ὡς πρόκειται.
+r.6    ἐντάγιον Πέτρου ὑποδέκτου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

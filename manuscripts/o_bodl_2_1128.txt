@@ -1,0 +1,24 @@
+[META]
+id:       O.BODL 2.1128
+label:    O.BODL 2.1128
+name:     Receipt — Theben
+genre:    receipts
+date:     94 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (94 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71815
+source:   https://papyri.info/ddbdp/o.bodl;2;1128
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Ὧρος Μεσοήριος ὑπὲρ προχρείας ιγ ἔτους [δραχμὰς ] … .
+r.2    ἔτους ιγ Δομιτιανοῦ τοῦ κυρίου Μεσορὴ κγ.
+
+[TRANSLATION]
+1     
+2     

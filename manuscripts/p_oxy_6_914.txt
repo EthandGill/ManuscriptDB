@@ -1,0 +1,60 @@
+[META]
+id:       P.Oxy. 6.914
+label:    P.Oxy. 6.914
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     486 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (486 CE)
+# hgv-keywords: Vertrag — Darlehen — Geld
+tm:       20378
+source:   https://papyri.info/ddbdp/p.oxy;6;914
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [ το]ῖς μετὰ τὴν ὑπατείαν Φλαουίου Θεοδωρίχου τοῦ
+r.2    λαμπροτάτου Μεχεὶρ ε θ ἰνδικτίονος.
+r.3    [Αὐρήλ]ιος Ἀπφοῦς υἱὸς Ἁρεοῦτος μητρὸς Κυρίας
+r.4    [ὁρμ]ώμενος ἀπὸ τῆς Ὀξυρυγχιτῶν πόλεως
+r.5    [Αὐρη]λίῳ Σερήνῳ υἱῷ Δανιηλίου ἀπὸ τῆς
+r.6    [αὐτῆς π]όλεως χαίρειν. ὁμολογῶ ὀφείλειν σοι καὶ
+r.7    [χρε]ωστεῖν ἀπὸ τιμῆς διαφόρων βαμμάτων
+r.8    [ὧν ἐ]ώνημαι παρὰ σοῦ καὶ ἐβάσταξα κατὰ τὰ μεταξὺ
+r.9    [σύμφ]ωνα χρυσοῦ νομισμάτια δύο, γίνεται χρυσοῦ νομισμάτια β.
+r.10   [τὰ δὲ το]ῦ χρυσοῦ νομισμάτια δύο ἀκίνδυνα
+r.11   [ὄντ]α ἀπὸ παντὸς κινδύνου ἐπάναγκες
+r.12   [ἀποδ]ώσω σοι ἐν τῷ Φαρμοῦθι μηνὶ τοῦ
+r.13   [ἐνεστ]ῶτος ἔτους ρξβ ρλα τῆς παρούσης ἐνάτης
+r.14   [ἰνδι]κτίονος ἀνυπερθέτως, τῆς εἰσπράξεως
+r.15   [σοι γι]γνομένης π[α]ρά τε ἐμοῦ καὶ ἐκ τῶν ὑπαρ[χόντ]ων μοι πάντων ὑποκειμένων τῇ
+r.16   [ἐκτί]σει τοῦδε τοῦ χρέους ἐνεχύρου λόγῳ
+r.17   [καὶ ὑπο]θήκης δικαίῳ. κύριον τὸ γραμματεῖον
+r.18   [δισσὸ]ν γραφὲ[ν] κ[αὶ] ἐ[περωτηθεὶς ὡμολόγησα].
+r.19   γραμματεῖον Ἀπφοῦτος υἱοῦ Ἁρεώτου ἀπὸ τῆς λαμπρᾶς Ὀξυ[ρυγχιτῶν πόλεως].
+
+[TRANSLATION]
+# HGV-EN: The year after the consulship of Flavius Theodoric the most illustrious, Mecheir 5, the 9th indiction. Aurelius Apphous son of Hareous and Cyria, coming from the city of Oxyrhynchus, to Aurelius Serenus son of Daniel, of the said city, greeting. I acknowledge that I owe as a debt to you, of the price of various dyes which I have bought from you and removed in accordance with the agreement between us, two solidi of gold, total 2 solidi of gold; and the two solidi of gold I will of necessity repay to you free of all risk in the month Pharmouthi of the current 162nd = the 131st year and the present 9th indiction with no delay, and you shall have the right of execution upon me and all my property, which is mortgaged for the repayment of this debt, as security and lawful pledge. This bond, which is written in duplicate, is valid, and in answer to the formal question I have given my consent. (Endorsed) Deed of Apphous son of Hareotes, of the illustrious city of Oxyrhynchus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

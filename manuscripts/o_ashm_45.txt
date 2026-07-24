@@ -1,0 +1,30 @@
+[META]
+id:       O.ASHM 45
+label:    O.ASHM 45
+name:     Receipt — Theben
+genre:    receipts
+date:     149 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (149 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       70494
+source:   https://papyri.info/ddbdp/o.ashm;;45
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἱέραξ καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    Σενψανσνῶτι Τατεπνούθιος. ἔσχομεν
+r.3    ὑπὲρ τέλους ταφῆς μιᾶς δραχμῆς α. ἔτους ιβ
+r.4    Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.5    Ἐπεὶφ κϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

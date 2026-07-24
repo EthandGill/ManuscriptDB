@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 150
+label:    O.LEID 150
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (101 CE – 300 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       29957
+source:   https://papyri.info/ddbdp/o.leid;;150
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θὼθ κδ τοῦ β ἔτους ὀνόματος Λολοῦτος
+r.2    Καμήτιος Πικῶτος ὑπὲρ ἐπικεφαλαίου α ἔτους
+r.3    Χάρακος δραχμὰς ἓξ διώβολον, γίνονται δραχμαὶ ϛ διώβολον. Α … σεσημείωμαι.
+r.4    ἄλλας … [ δραχμὰς] ἓξ χαλκοῦς 4, γίνονται ϛ χαλκοῖ 4.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

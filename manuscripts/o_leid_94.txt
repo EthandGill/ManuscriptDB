@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 94
+label:    O.LEID 94
+name:     Receipt — Theben
+genre:    receipts
+date:     113 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (113 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24663
+source:   https://papyri.info/ddbdp/o.leid;;94
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἰμούθης καὶ μέτοχοι Πετεμενώφιος …
+r.2    ἔσχομεν ὑπὲρ γεωμετρίας Χάρακος ιϛ ἔτους δραχμὰς δύο τετρώβολον,
+r.3    γίνονται ῥυπαραὶ δραχμαὶ β τετρώβολον. ἔτους ιζ Τραιανοῦ Ἀρίστου
+r.4    Θὼτ λ. Α … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

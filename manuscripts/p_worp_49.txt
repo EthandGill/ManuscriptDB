@@ -1,0 +1,34 @@
+[META]
+id:       P.WORP 49
+label:    P.WORP 49
+name:     Receipt — Elephantine
+genre:    receipts
+date:     182 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (182 CE)
+# hgv-keywords: Quittung — Steuer (Landvermessungssteuer, geometria)
+tm:       115578
+source:   https://papyri.info/ddbdp/p.worp;;49
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Οὔλπιος Κερέαλις μισθωτὴς Ἱερᾶς Πύλης
+r.2    Σοήνης δι’ ἐμοῦ Παχνούβιος Πετορζμήθιος.
+r.3    διέγραψεν Νειλάμωνχις ὑπὲρ γεωμετρίας
+r.4    φοινικῶνος γενήματος κα ἔτους ὀνόματος Νειλαμώνχιος Ὀννώφριος δραχμὰς
+r.5    ἓξ γίνονται δραχμαὶ ϛ ἔτους κβ Φαρμοῦθι
+r.6    ιζ
+
+[TRANSLATION]
+# HGV-EN: Ulpius Cerealis, tax-farmer of the Sacred Gate of Syene, through me Pachnoubis, son of Petorzmethis. Neilamonchis paid for the survey-tax on date-land for the harvest of the 21st year, on the account of Neilamonchis, son of Onnophris: six drachmas, total: 6 drachmas. Year 22, on the 17th of Pharmouthi. (F. A. J. Hoogendijk)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

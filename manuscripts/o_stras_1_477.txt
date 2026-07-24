@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.477
+label:    O.STRAS 1.477
+name:     Receipt — Theben
+genre:    receipts
+date:     64 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (64 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76065
+source:   https://papyri.info/ddbdp/o.stras;1;477
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἑριοφμόις καὶ μέτοχοι
+r.2    τελῶναι … τοῦ ι ἔτους Νέρωνος τοῦ
+r.3    κυρίου Ἐπωνύχῳ Σειάθου καὶ Μαιεύρι
+r.4    ἀδελφῷ χαίρειν. ἀπέσχομεν τὸ βαλανικόν.
+r.5    Παῦνι ια.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

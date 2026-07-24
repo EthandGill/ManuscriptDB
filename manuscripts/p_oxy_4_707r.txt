@@ -1,0 +1,24 @@
+[META]
+id:       P.Oxy. 4.707r
+label:    P.Oxy. 4.707r
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     101 CE – 125 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Oxford
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (101 CE – 125 CE)
+# hgv-keywords: Register — Land — Erwähnung von Juden und verbranntem Land
+tm:       28351
+source:   https://papyri.info/ddbdp/p.oxy;4;707r
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    ψιλοὶ τόποι ἐν οἷ[ς] κέλλαι ἐμπρησθεῖσαι ὑπὸ τῶν Ἰουδαίων
+r.2    τόποι ἱερατικοί
+
+[TRANSLATION]
+1     
+2     

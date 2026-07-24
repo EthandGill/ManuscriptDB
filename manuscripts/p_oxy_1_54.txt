@@ -1,0 +1,66 @@
+[META]
+id:       P.Oxy. 1.54
+label:    P.Oxy. 1.54
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     201 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (201 CE)
+# hgv-keywords: Rechnung für die Renovierung von Thermen (Hadrian) — damnatio memoriae Getas
+tm:       20716
+source:   https://papyri.info/ddbdp/p.oxy;1;54
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Σαραπίωνι τῷ καὶ Ὡρίωνι ἐν[άρ]χῳ
+r.2    γυμνασιάρχῳ καταδεοῦς [ὄντος] τὴν ἡλικίαν διὰ τοῦ κατὰ πατέρα πάππου
+r.3    Ἀπίωνος γυμνασιαρχήσαντος,
+r.4    καὶ Ἀχιλλίωνι ἐνάρχῳ ἐξηγητῇ
+r.5    διὰ Ἀχιλλίωνος τοῦ καὶ Σαραπάμμωνος υἱοῦ καὶ διαδόχου,
+r.6    παρὰ Διογένους Σαραπίωνος καὶ Λουκίου Ἑρμίου, ἀμφοτέρων ἀπʼ Ὀξυρύγχων πόλεως, εἰσδοθέντων ὑπὸ τοῦ τῆς πόλεως γραμματέως
+r.7    γνώμῃ τοῦ κοινοῦ τῶν ἀρχόντων
+r.8    εἰς ἐπιμέλειαν ἐπισκευῆς καὶ κατασκευῆς Ἁδριανῶν θερμῶν.
+r.9    αἰτούμεθα ἐπισταλῆναι ἐκ τοῦ
+r.10   τῆς πόλεως λόγου εἰς τιμὴν γενῶν ἐπὶ λόγου ἀργυρίου τάλαντα
+r.11   τρία, γίνεται τάλαντα γ, ὧν λόγον τάξομεν
+r.12   [ὡς] δέον ἐστίν. ἔτους θ
+r.13   Α[ὐ]τοκρατόρων Καισάρων
+r.14   Λουκίου Σεπτιμίου Σεουήρου
+r.15   Εὐσεβοῦς Περτίνακος Ἀραβικοῦ
+r.16   Ἀδιαβηνικοῦ Παρθικοῦ Μεγίστου
+r.17   καὶ Μάρκου Αὐρηλίου Ἀντωνίνου
+r.18   Εὐσεβοῦς Σεβαστῶν
+r.19   Καίσαρος Σεβαστοῦ, Φαρμοῦθι.
+r.20   Διογένης Σαραπ[ί]ωνος αἰτοῦμαι τὰ τ[ο]ῦ ἀργυρίου τάλαντα τρία ὡς πρόκιται. Λ[ού]κιος Ἑρμίου συναιτοῦμαι
+r.21   τὰ τοῦ ἀργυρίου τάλαντα τρία
+r.22   ὡ[ς πρό]κιται.
+
+[TRANSLATION]
+# HGV-EN: To Sarapion, also called Horion, gymnasiarch in office (the applicant on account of his youth being introduced by his paternal grandfather Apion, ex-gymnasiarch), and Achillion, exegetes in office (through Achillion, also called Sarapammon, his son and deputy), from Diogenes, son of Sarapion, and Lucius, son of Hermias, both of Oxyrhynchus, appointed by the city clerk, in accordance with the decision of the council of magistrates, to superintend the repairs and fixtures of the Baths of Hadrian. We request that we may receive at the city’s expense, to pay for material, three talents of silver on account, total 3 tal., of which we will render due account.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    

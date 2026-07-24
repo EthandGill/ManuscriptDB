@@ -1,0 +1,36 @@
+[META]
+id:       P.LEID.INST 1.41
+label:    P.LEID.INST 1.41
+name:     Letter — Arsinoites
+genre:    letters
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Letter from Arsinoites (101 CE – 200 CE)
+# hgv-keywords: Brief (amtlich) — Kopie — NN (Präfekt?) an die Strategen des Arsinoites — Veröffentlichung von Beschlüssen des conventus (?)
+tm:       27728
+source:   https://papyri.info/ddbdp/p.leid.inst;1;41
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … [ἀ]ντίγραφον ἐπιστολῆς.
+r.2    … ωνατ … ς στρατηγοῖς Ἀρσινοίτου χαίρειν. ἐπεί μο[ι] πάν[τῶν τῶν ] … [ ἡ] φροντίς ἐστιν, οὐ μόν[ο]ν περὶ τοῦ δικαίου [τρό]που ἐν
+r.3    … η … φιλανθρωπίας, ἀναγκαῖον ἡγησάμην, ἅπερ διαλο[γιζόμενος ἐν ] … [ δι] ὑπομν[η]μάτων εἶπον, ταῦ[τ]α καὶ διʼ ἐπιστολῆς δη… ασαγνοησα … ν εἰ τι … νουχ … ους ἀπ … -
+r.4    … πόλει ἢ διʼ ἡντιν[αοῦ]ν αἰτίαν οὐ παρε … -
+r.5    … [ ἔ]γραψα ὅ τι ἐάν μ[οι δ]ιαλογιζομένῳ
+r.6    … τα τὰ μέρη αὐ[τῶ]ν ὦσιν κρατη… προ … οδοι βο[υλόμ]ενος, ὅπως δ …
+r.7    … ἐπεὶ οὐ μ[όνον ] … [ἐ]ν τ[ά]χε[ι]
+
+[TRANSLATION]
+# HGV-EN: Donatus (?) to the strategoi of the Arsinoite nome: greetings. As my care extends to all ... not only with regard to the just character in ... (because of my) humanity, I have judged it necessary to publish what I have said during the conventus in the records, by way of letter as well. (ll. 6-11 are too damaged for attempting a translation)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

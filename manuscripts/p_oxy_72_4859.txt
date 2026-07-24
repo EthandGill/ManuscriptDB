@@ -1,0 +1,36 @@
+[META]
+id:       P.Oxy. 72.4859
+label:    P.Oxy. 72.4859
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     120 CE – 121 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (120 CE – 121 CE)
+# hgv-keywords: Auftrag an den Sitologen von Pakerke (diastolikon) — Giro - Überweisung von Weizen
+tm:       114239
+source:   https://papyri.info/ddbdp/p.oxy;72;4859
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Ἑρμα … υς οἰκονόμος Κλαυδίου Μουνατια[νοῦ]
+r.2    σιτολόγῳ
+r.3    Πακερκη ἀπηλιώτου χαίρειν. διάστειλον ἀφ’ οὗ
+r.4    ἔχεις ἐν θέματι τοῦ Κλαυδίου Μουνατιανοῦ πυροῦ γενήματος δ ἔτους Ἁδριανοῦ
+r.5    Καίσαρος τοῦ κυρίου Ἡραΐδι τ …
+r.6    Σαραπίωνος ἀρτάβας ὀκτὼ ὄγδ[οον], [γίνονται ἀρτάβαι η η].
+r.7    ἔτους ε Ἁδριανοῦ Καίσαρος τοῦ κυρί[ου ]
+
+[TRANSLATION]
+# HGV-EN: Herma–us, steward of Claudius Munatianus, to the sitologus of Pacerce Eastern, greetings. Transfer, from the amount you hold on deposit for Claudius Munatianus, from the wheat-crop of the 4th year of Hadrianus Caesar the lord, to Herais . . . of Sarapion, eight (and) one-eighth artabas, total 8 ⅛ art. Year 5 of Hadrianus Caesar the lord, month, day. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

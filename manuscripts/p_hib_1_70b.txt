@@ -1,0 +1,28 @@
+[META]
+id:       P.HIB 1.70b
+label:    P.HIB 1.70b
+name:     Letter — Herakleopolites
+genre:    letters
+date:     228 BCE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Letter from Herakleopolites (228 BCE)
+# hgv-keywords: Brief — NN an Kleitarchos
+tm:       7821
+source:   https://papyri.info/ddbdp/p.hib;1;70b
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    μάχιμος Ἡρακ[λε]οπολίτης ἀμπέλου ἀρούρας α δ ἣν
+r.2    ἐπρίατο κατʼ [αἰ]γυπτίας συγγραφὰς παρὰ Ἀσφεᾶ
+r.3    Ὥρου Περσαιγυπτίου περὶ κώμην Τμοινεθῦμιν δραχμῶν μ εἰκοστὴν β.
+r.4    [ἔρρωσο. ἔτους ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

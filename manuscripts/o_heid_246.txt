@@ -1,0 +1,26 @@
+[META]
+id:       O.HEID 246
+label:    O.HEID 246
+name:     Receipt — Theben (Notos)
+genre:    receipts
+date:     183 CE
+language: Greek (Koiné)
+found:    Theben (Notos)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos) (183 CE)
+# hgv-keywords: Quittung — Steuer (Landvermessungssteuer, geometria)
+tm:       80464
+source:   https://papyri.info/ddbdp/o.heid;;246
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Μεσορὴ κδ τοῦ κγ ἔτους
+r.2    ὀνόματος Θατρῆτος Πικῶτος
+r.3    ὑπὲρ γεωμετρίας κγ ἔτους Νότου τριώβολον χαλκοῦς 2. Π … αφ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 1.1
+label:    O.BODL 1.1
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     274 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (274 BCE)
+# hgv-keywords: Quittung — Geld
+tm:       44056
+source:   https://papyri.info/ddbdp/o.bodl;1;1
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιβ μηνὸς Θαῦτ κβ ἔχει Ἀριστοτέλης παρὰ Σαμπᾶ Ψοσνᾶ εἰς τὸ τέλος
+r.2    τοῦ Μεσορὴ δραχμὰς ε.
+
+[TRANSLATION]
+# HGV-EN: Year 12, the 22nd of the month of Thoth. Aristoteles has 5 drachmas from Sampas, son of Psosnas (l. Psosnaus?), toward the tax for the month of Mesore.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

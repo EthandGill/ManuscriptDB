@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 1.21
+label:    O.ONT.MUS 1.21
+name:     Receipt — Theben
+genre:    receipts
+date:     121 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (121 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75042
+source:   https://papyri.info/ddbdp/o.ont.mus;1;21
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Χεσφμόις πράκτωρ ἀργυρικῶν
+r.2    Πικῶτι νεωτέρῳ Ἀπολλοδώρου
+r.3    ἔσχον ὑπὲρ λαογραφίας ῥυπαρὰς δραχμὰς [δώδεκα]
+r.4    γίνονται δραχμαὶ ιβ ἔτους ε Ἁδριανοῦ τ[οῦ κυρίου]
+r.5    Φαρμοῦτι γ Ψεν …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

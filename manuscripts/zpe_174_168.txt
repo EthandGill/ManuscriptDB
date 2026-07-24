@@ -1,0 +1,28 @@
+[META]
+id:       ZPE 174.168
+label:    ZPE 174.168
+name:     Receipt — Elephantine
+genre:    receipts
+date:     179 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Strasbourg
+shelf:    
+content:  Receipt from Elephantine (179 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24233
+source:   https://papyri.info/ddbdp/zpe;174;168
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Αἴλιος Δίδυμος καὶ Ἑρμ[ό]δωρος Σωτῆρος πράκτορες ἀργυρικῶν
+r.2    Ἐλεφαντίνης. διέγραψεν Παπρεσζμίθης Παπελίας μητρὸς Ταναπότις ὑπὲρ μερισζμοῦ ιθ ἔτους α διώβολον ἡμιωβέλιον,
+r.3    [καὶ ὑ]πὲρ ναύλων καὶ τροφίων ιθ ἔτους ὀβολὸν.
+r.4    [ἔτους ιθ] Ἐπεὶφ β. Ἑρμόδωρος συνέσχον.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

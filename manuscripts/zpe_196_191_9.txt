@@ -1,0 +1,34 @@
+[META]
+id:       ZPE 196.191_9
+label:    ZPE 196.191_9
+name:     Receipt — Hibis (Oasis Magna)
+genre:    receipts
+date:     326 CE – 400 CE
+language: Greek (Koiné)
+found:    Hibis (Oasis Magna)
+held:     New York
+shelf:    
+content:  Receipt from Hibis (Oasis Magna) (326 CE – 400 CE)
+# hgv-keywords: Quittung (?) — Getreide — Empfang
+tm:       653477
+source:   https://papyri.info/ddbdp/zpe;196;191_9
+lat:      25.4764
+lon:      30.5552
+
+[GREEK]
+r.1    τῷ κυρίῳ μου …
+r.2    Ἡρακλείδης ἐπιμελητὴς
+r.3    σιτοκρίθου χαίρειν. ἔσχ[ον] παρὰ
+r.4    Ἀνουβίωνος …
+r.5    … σίτου μόδιον
+r.6    ἕν, γίνεται σίτου μόδιον α. σεσημίωμαι ἐγὼ ὁ αὐτὸς Ἰσχυρίων δεκαδάρχης
+
+[TRANSLATION]
+# HGV-EN: To my lord …, Herakleides, superintendent of wheat and barley, greetings. I have received from Anoubion … one modius of wheat, that is, 1 mod. of wheat. I, the aforementioned Ischyrion, decurion, have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

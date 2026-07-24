@@ -1,0 +1,24 @@
+[META]
+id:       UPZ 2.186
+label:    UPZ 2.186
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     133 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (133 BCE)
+# hgv-keywords: Aufschrift
+tm:       3588
+source:   https://papyri.info/ddbdp/upz;2;186
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [ἔτους λζ] Μεσορὴ χειρογραφία ὅρκου βασιλικοῦ σησαμίνων
+r.2    [σπερμάτων Φίβι]ος τοῦ Φίβιος σησαμίτιδος ἄρουραι κ.
+
+[TRANSLATION]
+1     
+2     

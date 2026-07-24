@@ -1,0 +1,30 @@
+[META]
+id:       ROM.MIL.REC 1.78_5
+label:    ROM.MIL.REC 1.78_5
+name:     Receipt — Pselkis (Nubien)
+genre:    receipts
+date:     181 CE
+language: Greek (Koiné)
+found:    Pselkis (Nubien)
+held:     
+shelf:    
+content:  Receipt from Pselkis (Nubien) (181 CE)
+# hgv-keywords: Quittung — Getreide — Soldat
+tm:       45124
+source:   https://papyri.info/ddbdp/rom.mil.rec;1;78_5
+lat:      23.195708
+lon:      32.749351
+
+[GREEK]
+r.1    … ἑκατονταρχίας Ἀπιανοῦ Ἀσκληπιάδῃ
+r.2    [ὀπτίωνι ][παραλ]ήμπτῃ σίτου χαίρειν·
+r.3    [ἔλαβον π]αρὰ σοῦ τὸν σῖτόν μου
+r.4    … η. ἔτους κβ Χύακ
+r.5    … ἀπογράφομαι τὸ ἴδιον ὄνομα
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

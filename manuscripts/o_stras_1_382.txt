@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.382
+label:    O.STRAS 1.382
+name:     Receipt — Theben
+genre:    receipts
+date:     167 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (167 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75970
+source:   https://papyri.info/ddbdp/o.stras;1;382
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ζ ἔτους Ἀντωνίνου καὶ Οὐήρου
+r.2    τῶν κυρίων Σεβαστῶν Ἐπεὶφ β ὑπὲρ Ἀγορᾶς
+r.3    ὀνόματος Ὀννώφριος Ψενσενύριος
+r.4    πυροῦ ἥμισυ τρίτον τετρακαιεικοστὸν γίνεται πυροῦ 𐅵 γ κδ.
+r.5    Ἀµώνιος σεσηµείωµαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

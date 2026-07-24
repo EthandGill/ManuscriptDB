@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.331
+label:    O.STRAS 1.331
+name:     Receipt — Theben
+genre:    receipts
+date:     12 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (12 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75921
+source:   https://papyri.info/ddbdp/o.stras;1;331
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πανεχάτης Πλήνιος ἐπηκολούθηκα πυροῦ
+r.2    ϛ [γ. ἔτους] μα Καίσαρος
+r.3    Ἐπεὶφ ιγ.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,28 @@
+[META]
+id:       BGU 7.1711
+label:    BGU 7.1711
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     262 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (262 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       9552
+source:   https://papyri.info/ddbdp/bgu;7;1711
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ἔτους ι Ἁθὺρ διὰ πρακτόρων
+r.2    κωμάρχαις κώμης Φιλαδελφίας
+r.3    εἰς τὸν τῆς νομαρχίας
+r.4    λόγον γίνονται δραχμαὶ τ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

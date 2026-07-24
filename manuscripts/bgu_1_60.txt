@@ -1,0 +1,44 @@
+[META]
+id:       BGU 1.60
+label:    BGU 1.60
+name:     Documentary papyrus — Karanis (Arsinoites)
+genre:    documents
+date:     189 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Karanis (Arsinoites) (189 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       9104
+source:   https://papyri.info/ddbdp/bgu;1;60
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    [Ἀμμωνίω]ι στρατηγῷ Ἀρσινοίτου Ἡρα[κλείδου][ μερίδος καὶ]
+r.2    [Ἁρποκρατ]ίωνι τῶι καὶ Ἱέρακι [βασιλικῷ ][γραμματεῖ καὶ Πτολεμαίωι]
+r.3    [κωμογραμματεῖ κ]ώμης Καρανίδος καὶ τ[οῖς λαογράφοις τῆς]
+r.4    [αὐτῆς κώμη]ς
+r.5    [παρὰ ] … ρχου Ἀπολλωνίου …
+r.6    … ς Ἡρακλείου ἀπὸ …
+r.7    [κατὰ τὰ κελευσ]θέντα ἀπογράφομαι ἐ[μαυτὸν καὶ τοὺς]
+r.8    [ἐμοὺς εἰς τὴν] τοῦ διεληλυθότος κη ἔτους [Αὐρηλίου Κομ][μόδου Καί]σαρος τοῦ κυρίου κ[ατʼ οἰκίαν ἀπογραφὴν εἰς τὴν]
+r.9    [ὑπάρχουσάν μοι] ἐν τῇ κώμῃ ς …
+r.10   … [ οἰκίαν κ]αὶ αὐλὴν [καὶ] ε[ἰμὶ ] …
+r.11   … [ ρχος ὁ ][πρ]ογεγραμμένος ἐτῶν ξα ο …
+
+[TRANSLATION]
+# HGV-EN: To [Ammoni]os, strategos of the Arsinoite nome, Hera[kleides division and Harpokrat]ion alias Hierax [royal scribe and Ptolemaios, village scribe] of the village of Karanis and [NN and the remaining laographoi of the] same village from [– – – a]rchos, son of Apollonios, [son of NN, mother NN, daughter] of Herakleos from [the village of Karanis. In accordance with the orders] I register [myself and my family for the house-by-house registration] of the past 28th year of [Aurelius Commodus Antoninus Cae]sar, the lord, [for the house] and courtyard, [which I live in. And] I am [– – – archos, son of Apollonios], the aforementioned, 61 years old, with a scar – – –
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

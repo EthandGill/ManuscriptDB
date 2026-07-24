@@ -1,0 +1,32 @@
+[META]
+id:       O.ONT.MUS 2.241
+label:    O.ONT.MUS 2.241
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     1 CE – 400 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Documentary papyrus from Theben (1 CE – 400 CE)
+# hgv-keywords: Abrechnung — Tage
+tm:       75261
+source:   https://papyri.info/ddbdp/o.ont.mus;2;241
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … μέχρι ϛ ἡμερῶν δ
+r.2    … ς ο
+r.3    … ϛ ἡμερῶν ι
+r.4    … δύο
+r.5    … ωνος ια δραχμὰς κη
+r.6    … μέχρι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

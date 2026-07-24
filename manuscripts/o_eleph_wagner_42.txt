@@ -1,0 +1,26 @@
+[META]
+id:       O.ELEPH.WAGNER 42
+label:    O.ELEPH.WAGNER 42
+name:     Receipt — Elephantine
+genre:    receipts
+date:     131 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (131 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24222
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;42
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Καλασεῖρις πράκτωρ. διέγραψεν Πετεπουῆρις Καρούρεως μητρὸς Τισᾶτις μερισμὸν ἁλιάδος ιε ἔτους
+r.2    ῥυπαρὰν δραχμὴν α διώβολον Φαμενὼθ ιδ. Κακρήλιος
+r.3    ἔγραψα ὑπὲρ αὐτοῦ μὴ εἰδότος γράμματα.
+
+[TRANSLATION]
+1     
+2     
+3     

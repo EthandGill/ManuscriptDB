@@ -1,0 +1,30 @@
+[META]
+id:       O.CAIR 1
+label:    O.CAIR 1
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     150 BCE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     
+shelf:    
+content:  Receipt from Hermonthis (150 BCE)
+# hgv-keywords: Quittung — Steuern — Bank — Geld
+tm:       73353
+source:   https://papyri.info/ddbdp/o.cair;;1
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    ἔτους λα Χοιὰχ ιδ. τέτακται ἐπὶ
+r.2    τὴν [ἐν ][Ἑ]ρμώνθει τράπεζαν ἐφʼ ἧς Ἄνιος
+r.3    ἀπομοίρας λα ἔτους Φαγῶνις Φαγήριος
+r.4    ἐνακοσίας, γίνονται ϡ.
+r.5    ϡμ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

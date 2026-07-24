@@ -1,0 +1,44 @@
+[META]
+id:       P.Tebt. 3.2.862
+label:    P.Tebt. 3.2.862
+name:     Documentary papyrus — Letopolis (Arsinoites)
+genre:    documents
+date:     200 BCE – 176 BCE
+language: Greek (Koiné)
+found:    Letopolis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Letopolis (Arsinoites) (200 BCE – 176 BCE)
+# hgv-keywords: Liste — Abrechnung — Einzahlungen — Weizen — Speicher — Namen
+tm:       7949
+source:   https://papyri.info/ddbdp/p.tebt;3.2;862
+lat:      30.1223455
+lon:      31.1339825
+
+[GREEK]
+r.1    πρὸς Τεχῶσιν θησαυροφύλακα Λητοῦς πόλεως.
+r.2    ἔχει διὰ Θέωνος ἐν μεταβολῇ
+r.3    τῶι τετραχοινίκωι πυροῦ ζ καὶ ἐν τῶι μικρῶι σιρῶι τετραχοινικῶι πυροῦ ιβ δ, γίνονται ιθ δ,
+r.4    καὶ διὰ Λυσιμάχου
+r.5    Πυθίωνος θ ιβ,
+r.6    Πετεσούχου γ ιβ,
+r.7    Ἡρακλείδης Ἀρχιδήμου θ,
+r.8    γίνονται ιη 𐅵, καὶ σύμβολα
+r.9    Σύμμαχος Μαιμάχου ιε δ,
+r.10   Ἀπολλώνιος Λυσιμάχου ιθ,
+r.11   γίνονται λδ δ, γίνονται οβ.
+
+[TRANSLATION]
+# HGV-EN: For Techosis, granary guard of Letopolis. He has received, though Theon, by exchange, 7 artabas of grain by the 4-choinix measure, and 12 ¼ artabas of grain by the 4-choinix measure in the small grain pit. Total: 19 ¼ artabas of grain. And (he has received) through Lysimachos, son of Pythion, 9 1/12 artabas; through Petesouchos, 5/12 artaba; through (?) Herakleides, son of Archidemos, 9 artabas. Total: 18 ½ artabas, and receipts. (And he has received, through?) Symmachos, son of Maimachos, 15 ¼ artabas; (through?) Apollonios, son of Lysimachos, 19 artabas. Total: 34 ¼ artabas. Grand total: 72 artabas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

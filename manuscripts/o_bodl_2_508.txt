@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.508
+label:    O.BODL 2.508
+name:     Receipt — Theben
+genre:    receipts
+date:     93 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (93 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71206
+source:   https://papyri.info/ddbdp/o.bodl;2;508
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πετεχεσποχράτης Πετοσίριος ὑπὲρ λαογραφίας Νότου ιβ ἔτους
+r.2    δραχμὰς ι βαλανευτικοῦ α ὀβολὸν α 𐅵 καὶ προσδιαγραφόμενα. ἔτους ιβ Δομιτιανοῦ τοῦ κυρίου
+r.3    Φαρμοῦθι λ‡ιε. Ἀπίων σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

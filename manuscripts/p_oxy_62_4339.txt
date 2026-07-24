@@ -1,0 +1,28 @@
+[META]
+id:       P.Oxy. 62.4339
+label:    P.Oxy. 62.4339
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (101 CE – 300 CE)
+# hgv-keywords: Einladung — Fest — Serapis — Ammonios an NN
+tm:       28950
+source:   https://papyri.info/ddbdp/p.oxy;62;4339
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐρωτᾷ σε Ἀμμώνιος δειπνῆσαι εἰς κλίνην τοῦ κυρίου
+r.2    Σαράπιδος ἐν τῷ οἴκῳ τοῦ
+r.3    Σαραπείου τῇ θ ἀπὸ ὥρας θ.
+
+[TRANSLATION]
+# HGV-EN: Ammonios asks you to dine at the banquet of the lord Sarapis in the dining hall of the Sarapeion on the 9th, beginning from the 9th hour.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

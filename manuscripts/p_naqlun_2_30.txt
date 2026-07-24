@@ -1,0 +1,30 @@
+[META]
+id:       P.NAQLUN 2.30
+label:    P.NAQLUN 2.30
+name:     Letter — Naqlun (Arsinoites)
+genre:    letters
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Naqlun (Arsinoites)
+held:     
+shelf:    
+content:  Letter from Naqlun (Arsinoites) (501 CE – 600 CE)
+# hgv-keywords: Brief (privat) — NN an NN (seinen "Herrn") — Fragment — unbestimmbar
+tm:       115540
+source:   https://papyri.info/ddbdp/p.naqlun;2;30
+lat:      29.193771
+lon:      30.876986
+
+[GREEK]
+r.1    πολὺς ὁ λόγος ὅτι παρελήμφθην …
+r.2    παρακαλῶ τὸν ἐμὸν δεσπότην … η …
+r.3    ὀφείλω χρήσασθαι τῷ δεσπότῃ …
+r.4    καὶ περὶ τούτου γραφῆναί μοι.
+
+[TRANSLATION]
+# HGV-EN: (cross) Much can be said about that I was hired … I beg my lord … I am obliged to use (my?) lord (perhaps: to consult) … and to be written to me about this. (cross)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

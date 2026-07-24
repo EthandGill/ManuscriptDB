@@ -1,0 +1,26 @@
+[META]
+id:       SB 1.1923
+label:    SB 1.1923
+name:     Receipt — Elephantine
+genre:    receipts
+date:     85 CE – 86 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (85 CE – 86 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23065
+source:   https://papyri.info/ddbdp/sb;1;1923
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Πεπρεμίθης Ἀτπήους ὑπὲρ λαογραφίας
+r.2    ε ἔτους Δομιτιανοῦ τοῦ κυρίου
+r.3    ἐπὶ λόγου δραχμὰς η. ὁμοίως δραχμὰς η, γίνονται δραχμαὶ ιϛ. Σωκράτης ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     

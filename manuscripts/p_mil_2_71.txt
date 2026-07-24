@@ -1,0 +1,26 @@
+[META]
+id:       P.MIL 2.71
+label:    P.MIL 2.71
+name:     Documentary papyrus — Kynopolis
+genre:    documents
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Kynopolis
+held:     
+shelf:    
+content:  Documentary papyrus from Kynopolis (501 CE – 600 CE)
+# hgv-keywords: Zahlungsanweisung
+tm:       37313
+source:   https://papyri.info/ddbdp/p.mil;2;71
+lat:      28.479495
+lon:      30.782897
+
+[GREEK]
+r.1    κυρίῳ μου ἀδελφῷ Ἀλεξάνδρῳ κονδιταρίῳ Ἁδριαν … ις
+r.2    παρασχοῦ τῷ κυρίῳ μου Θεοδοσίῳ στατιωναρίῳ Κυνωπολιτῶν
+r.3    μυριάδας τριακοσίας , μυριάδας τριακοσίας μόνας. ἐρρῶσθαι
+
+[TRANSLATION]
+1     
+2     
+3     

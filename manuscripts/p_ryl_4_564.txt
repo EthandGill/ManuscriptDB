@@ -1,0 +1,72 @@
+[META]
+id:       P.RYL 4.564
+label:    P.RYL 4.564
+name:     Documentary papyrus — Philadelphia (Arsinoites)
+genre:    documents
+date:     250 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Philadelphia (Arsinoites) (250 BCE)
+# hgv-keywords: Abrechnung — Wein
+tm:       2420
+source:   https://papyri.info/ddbdp/p.ryl;4;564
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ἔτους λϛ Παχὼνς κε
+r.2    ὄξους τοῦ ἐν τοῖς Σωστράτου ἐκμετρηθέντος Ὥρωι
+r.3    ἀπὸ κεραμίων ξβ
+r.4    Θηβαίων ι
+r.5    ἡμικαδίων ϛ
+r.6    καὶ ἐν ἄλλωι ταμιείωι κεράμια ιζ
+r.7    ἡμικάδια ιθ
+r.8    γίνεται κεράμια πθ
+r.9    ἡμικάδια κε
+r.10   τούτων ῥυάδες κεράμια β
+r.11   λοιπὰ κεράμια πζ
+r.12   ἡμικάδια κε
+r.13   ἃ ἐκμετρηθέντα ἐξέβη
+r.14   ἐν κεραμίοις πβ
+r.15   ἐν οἷ[ς] μετρηταὶ Ἀρσινόης ἑξάχοοι οη
+r.16   γίνονται Ἀττικοὶ μετρηταὶ δωδεκάχοοι νη 𐅵
+r.17   τρυγίου κεράμια η
+r.18   καὶ ὑπῆρχεν ἀπὸ τοῦ εἰς
+r.19   [Μέμ]φιν μετρηθέντος
+r.20   λθ
+r.21   ὄξους τρυγὸς κεράμια δ
+r.22   ιθ 𐅵
+r.23   ὥστʼ εἶναι τὰ ὑπάρχοντα
+r.24   ἐν ταμιείοι[ς] τρυγὸς κεράμια ιβ
+r.25   καὶ τὰ εὑρεθέντα ὑποζ[έ]οντα κεράμια γ
+
+[TRANSLATION]
+# HGV-EN: ‘Year 36, Pachons 25. Account of the sour wine which was measured out to Horus on the estate of Sostratus: contents of 62 jars, 10 Theban jars, 6 half-jars; and in another storehouse 17 jars, 19 half-jars; total 89 jars, 25 half-jars; deduct as produce of diseased grapes 2 jars, remainder 87 jars, 25 half-jars. These when measured out came to 82 jars containing 78 six-chous metretae of Arsinoe, equal to 58½ twelve-chous Attic metretae; 8 jars of lees; and from the sour wine measured out for Memphis there were left 4 jars of lees, so that the amount of lees now in the storehouses is 12 jars; and 3 jars which were found to be fermenting.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    

@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 89
+label:    O.LEID 89
+name:     Receipt — Theben
+genre:    receipts
+date:     107 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (107 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24658
+source:   https://papyri.info/ddbdp/o.leid;;89
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πικῶ[ς καὶ μέτοχοι] τελῶναι γερδίων
+r.2    τοῦ ια ἔτους Τραιανοῦ τοῦ κυρίου
+r.3    Ἀβῶτι Ἁρυώθου χαίρειν· ἔσχομεν
+r.4    παρὰ σοῦ τέλος Θὼτ Φαῶφι
+r.5    τοῦ αὐτοῦ ια ἔτους Ἁθὺρ ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

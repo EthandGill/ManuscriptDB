@@ -1,0 +1,28 @@
+[META]
+id:       O.WILB 48
+label:    O.WILB 48
+name:     Receipt — Theben
+genre:    receipts
+date:     150 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (150 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76559
+source:   https://papyri.info/ddbdp/o.wilb;;48
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεψᾶις καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    Παμισης Ψεναμούνιος Παμώνθου. ἔσχομεν
+r.3    τὸ βαλανευτικὸν τοῦ ιγ ἔτους Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.4    Ἐπεὶφ ιε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

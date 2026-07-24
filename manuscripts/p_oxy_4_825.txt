@@ -1,0 +1,26 @@
+[META]
+id:       P.Oxy. 4.825
+label:    P.Oxy. 4.825
+name:     Documentary papyrus — Memphis
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Documentary papyrus from Memphis (101 CE – 200 CE)
+# hgv-keywords: Abrechnung — Abgaben für drei Monate
+tm:       28354
+source:   https://papyri.info/ddbdp/p.oxy;4;825
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    Δημητρίῳ καὶ Ἀμμωνίῳ καὶ τοῖς σὺν αὐτοῖς μισθωταῖς ξενικῆς πρακτορείας παρὰ Σαραπίωνο[ς] πραγματευτοῦ
+r.2    Μέμφεως Μ[ε]μφ[ε]ίτου. λόγος λήμματος καὶ ἀναλώμ[α]τος μηνῶν τριῶν ἀπ[ὸ] Φαρμοῦθι ἕως Παῦνι τοῦ ε [ἔτους ] …
+r.3    ἐγκτήσεων βιβλιοφυλάκιον
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,26 @@
+[META]
+id:       P.Oxy. 85.5500col2
+label:    P.Oxy. 85.5500col2
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     171 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Oxford
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (171 CE)
+# hgv-keywords: Schreiben (amtlich) — an den Strategen
+tm:       957584
+source:   https://papyri.info/ddbdp/p.oxy;85;5500col2
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἔτους ια Αὐτο[κράτορος] …
+r.2    Ἀρμενια[κοῦ] …
+r.3    Ἰσιδώρωι στρατηγῶι …
+
+[TRANSLATION]
+1     
+2     
+3     

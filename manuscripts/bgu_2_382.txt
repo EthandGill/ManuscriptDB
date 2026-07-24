@@ -1,0 +1,44 @@
+[META]
+id:       BGU 2.382
+label:    BGU 2.382
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     206 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (206 CE)
+# hgv-keywords: Quittung — Pachtzins — Domäne
+tm:       9143
+source:   https://papyri.info/ddbdp/bgu;2;382
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ἔτους ιδ Λουκίου Σεπτιμίου
+r.2    Σεουήρου Εὐσεβοῦς Περτίνακος καὶ
+r.3    Μάρκου Αὐρηλίου Ἀντωνίνου
+r.4    Εὐσεβοῦς Σεβαστῶν καὶ Πουπλίου
+r.5    Σεπτιμίου Γέτα Καίσαρος Σεβαστοῦ
+r.6    Παχὼν κη. διέγραψαν πρεσβύτεροι κώμης
+r.7    Καρανίδος διὰ Πετάλου πράκτορος
+r.8    οὐσίας πρότερον Θεωνείνου φόρου π[ρ]οβάτων ιδ ἔτους
+r.9    δραχμὰς ἑπτακοσίας γίνονται δραχμαὶ ψ συμβολικοῦ α τριώβολον ἡμιωβέλιον
+r.10   οὐσίας συμβολικοῦ
+r.11   ιδ ἔτους
+
+[TRANSLATION]
+# HGV-EN: Year 14 of Lucius Septimius Severus Pius Pertinax and Marcus Aurelius Antoninus Pius, Augusti, and Publius Septimius Geta Caesar Augustus, Pachon 28. The elders of the village of Karanis have paid through Petalos, tax collector, for the estate, (the revenues of which) were previously (leased) by Theoneinos, for dues for sheep of year 14 seven hundred drachmas, = 700 drachmas, for the receipt charge 1 (drachma), 3 1/2 obols. Verso Receipts (?) of the estate for year 14.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

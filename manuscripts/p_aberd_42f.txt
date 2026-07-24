@@ -1,0 +1,30 @@
+[META]
+id:       P.ABERD 42f
+label:    P.ABERD 42f
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     176 CE – 300 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (176 CE – 300 CE)
+# hgv-keywords: Quittung — Torzoll — Ospreon
+tm:       28293
+source:   https://papyri.info/ddbdp/p.aberd;;42f
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Φιλαδελφίας ἴχνους ἐρημοφυλακίας
+r.2    Διογένης ἐξάγων ὀσπρέων
+r.3    ὄνον ἕνα . ἔτους α
+r.4    Μεσορὴ ἑβδόμῃ
+r.5    ζ. χωρὶς χαρακτῆρος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

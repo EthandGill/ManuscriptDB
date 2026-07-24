@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 8.1162
+label:    P.Oxy. 8.1162
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (301 CE – 400 CE)
+# hgv-keywords: Brief (privat) — christlich — Presbyter Leon an die ansässigen Presbyter und Diakone
+tm:       33633
+source:   https://papyri.info/ddbdp/p.oxy;8;1162
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Λέων πρεσβύτερος τοῖς κατὰ
+r.2    τόπον συλλειτουργοῖς πρεσβυτ[έ]ροις καὶ διακόνοις ἀ[γ]απητοῖ[ς]
+r.3    ἀδελφοῖς ἐν κυρίῳ θεῷ
+r.4    χαρᾷ χα[ί]ρειν.
+r.5    τὸν ἀδελφὸν ἡμῶν Ἀμμώνιον παραγινόμενον πρὸς
+r.6    ὑμᾶς συνδέξασθε αὐτὸν
+r.7    ἐν εἰρήνῃ, διʼ οὗ ὑμᾶς
+r.8    καὶ τοὺς σὺν ὑμῖν ἐγώ τε
+r.9    καὶ οἱ σὺν ἐμοὶ ἡδέως ὑμᾶς
+r.10   προσαγορεύεσθαι κυρίῳ.
+r.11   ἐρρῶσθαι ὑμᾶς εὔχομαι
+r.12   ἐν κυρίῳ [θ]εῷ. Ἐμμανουὴλ μάρτυς.
+r.13   ἀμήν.
+
+[TRANSLATION]
+# HGV-EN: Leon, presbyter, to the presbyters and deacons who share the local service, beloved brothers in the Lord God, fullness of joy. Our brother Ammonius, who is coming to you, receive in peace; through whom we and those with us greet you and those who are with you kindly in the Lord. I pray for your health in the Lord God. Emmanuel is my witness. Amen.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

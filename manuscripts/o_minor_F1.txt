@@ -1,0 +1,32 @@
+[META]
+id:       O.MINOR F1
+label:    O.MINOR F1
+name:     Receipt — Elephantine
+genre:    receipts
+date:     125 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (125 CE)
+# hgv-keywords: Quittung
+tm:       75021
+source:   https://papyri.info/ddbdp/o.minor;;F1
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Οὐαλλερίων καὶ Διδυμίων μισθωταὶ [ἱερᾶς πύλης Σοήνης]
+r.2    διὰ Παλαχήμιος. διέγραψεν … εχυρο …
+r.3    Ἑρμοδ … μ … ς διὰ … α …
+r.4    ε … φοι … δεκάτου ἔτους Ἁδριαν[οῦ]
+r.5    Καίσαρος τοῦ κυρίου δραχμὰς δύο ὀβολοὺς γ χαλκοῖ β.
+r.6    Ἁθὺρ κη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

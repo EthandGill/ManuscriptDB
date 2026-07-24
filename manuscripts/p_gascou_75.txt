@@ -1,0 +1,24 @@
+[META]
+id:       P.GASCOU 75
+label:    P.GASCOU 75
+name:     Receipt — Kellis
+genre:    receipts
+date:     201 CE – 225 CE
+language: Greek (Koiné)
+found:    Kellis
+held:     Kellis
+shelf:    
+content:  Receipt from Kellis (201 CE – 225 CE)
+# hgv-keywords: Quittung
+tm:       702575
+source:   https://papyri.info/ddbdp/p.gascou;;75
+lat:      25.5162351661
+lon:      29.0953873513
+
+[GREEK]
+r.1    …πτις Πετχάλμου ἀπὸ Κέλλεως
+r.2    χαίρειν. ὁμολογῶ ἐσχη[κέναι παρὰ σο]ῦ ὑπὲρ λόγου
+
+[TRANSLATION]
+1     
+2     

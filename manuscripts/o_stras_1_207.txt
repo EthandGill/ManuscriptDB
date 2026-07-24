@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.207
+label:    O.STRAS 1.207
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     129 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (129 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75804
+source:   https://papyri.info/ddbdp/o.stras;1;207
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … [πρά]κτωρ ἀργυρικῶν Ἑρι … Πικῶτος
+r.2    … ἔσχον ὑπὲρ σκοπέλου καὶ φυλάκων ιγ ἔτους ῥυπαρὰς
+r.3    [δραχμὰς ][τέ]σσαρας ὀβολοὺς ε γίνονται ῥυπαραὶ δραχμαὶ δ πεντώβολον. ἔτους ιγ Ἁδριανοῦ
+r.4    [τοῦ κυρ]ίου Παχὼν κθ. Α … ιος ἐσημειωσάμην.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

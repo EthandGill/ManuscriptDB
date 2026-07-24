@@ -1,0 +1,32 @@
+[META]
+id:       O.EDFOU 3.362
+label:    O.EDFOU 3.362
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     100 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (100 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       58440
+source:   https://papyri.info/ddbdp/o.edfou;3;362
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους ιε Ἁθὺρ ϛ
+r.2    τετάχαται ἐπὶ τράπεζαν
+r.3    ἐπιστατικοῦ ἱερῶν λογείας τοῦ
+r.4    ιδ ἔτους οἱ ἐν Βαχείῳ
+r.5    ἱερεῖς Ἐσῦρις Παγᾶνις
+r.6    ἑξακοσίας ϙ γίνονται χϙ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

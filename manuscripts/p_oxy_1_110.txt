@@ -1,0 +1,26 @@
+[META]
+id:       P.Oxy. 1.110
+label:    P.Oxy. 1.110
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (101 CE – 200 CE)
+# hgv-keywords: Einladung zum Essen ins Serapeum
+tm:       28404
+source:   https://papyri.info/ddbdp/p.oxy;1;110
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐρωτᾷ σε Χαιρήμων δειπνῆσαι εἰς κλίνην τοῦ κυρίου Σαράπιδος ἐν τῷ Σαραπείῳ αὔριον,
+r.2    ἥτις ἐστὶν ιε, ἀπὸ ὥρας θ.
+
+[TRANSLATION]
+# HGV-EN: Chaeremon requests your company at dinner at the table of the lord Sarapis in the Serapaeum tomorrow, the 15th, at 9 o’clock.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

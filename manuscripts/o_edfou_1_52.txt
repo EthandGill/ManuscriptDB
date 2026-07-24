@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 1.52
+label:    O.EDFOU 1.52
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     73 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (73 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       46992
+source:   https://papyri.info/ddbdp/o.edfou;1;52
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Θεόδωρος ὃς καὶ
+r.2    Νίγερ λαογραφίας ε ἔτους Οὐεσπασιανοῦ
+r.3    δραχμὰς ιϛ ἔτους ε Φαμενὼθ κζ
+
+[TRANSLATION]
+1     
+2     
+3     

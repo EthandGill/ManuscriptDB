@@ -1,0 +1,30 @@
+[META]
+id:       P.HARR 3.283
+label:    P.HARR 3.283
+name:     Documentary papyrus — Oxyrhynchos (?)
+genre:    documents
+date:     426 CE – 475 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (?)
+held:     Birmingham
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (?) (426 CE – 475 CE)
+# hgv-keywords: Anweisung — Zahlung — Geld
+tm:       998612
+source:   https://papyri.info/ddbdp/p.harr;3;283
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    κυρίῳ μου ἀδελφῷ Ἀπφοῦ οἰνοπράτῃ …
+r.2    παράσχου τῷ κυρίῳ μου …
+r.3    … ιτ τα ἐξκέπτορι ἀργυρίου μυρι[ά][δας] ἑξακοσίας, γίνονται δηναρίων μυριάδεϲ χ. ἔρρωσο …
+r.4    [ ] Παυνι ϛ, η ἰνδικτίωνος.
+
+[TRANSLATION]
+# HGV-EN: To my lord brother Apphous, wine seller … Supply to my lord … -ittas, exceptor, six hundred myriads of silver, total 600 myriads of denarii. Farewell. Payni 6, indiction 8. …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

@@ -1,0 +1,26 @@
+[META]
+id:       O.CLAUD 2.221
+label:    O.CLAUD 2.221
+name:     Letter — Mons Claudianus
+genre:    letters
+date:     145 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Letter from Mons Claudianus (145 CE)
+# hgv-keywords: Brief (privat) — Bekis an Petearoeris — Sendung einer Bandage
+tm:       23991
+source:   https://papyri.info/ddbdp/o.claud;2;221
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Βῆκις Πετεαροήρι τῷ υἱῷ χαίρειν.
+r.2    πέμψον μοι σπληνάριν
+r.3    [ἰς] τὴν κεφαλήν μου ἐπὶ …
+
+[TRANSLATION]
+1     
+2     
+3     

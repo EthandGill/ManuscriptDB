@@ -1,0 +1,70 @@
+[META]
+id:       P.Oxy. 4.730
+label:    P.Oxy. 4.730
+name:     Contract — Oxyrhynchos oder Senepta (Oxyrhynchites)
+genre:    contracts
+date:     130 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos oder Senepta (Oxyrhynchites)
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos oder Senepta (Oxyrhynchites) (130 CE)
+# hgv-keywords: Vertrag — Pacht — Land — Afterpacht
+tm:       20430
+source:   https://papyri.info/ddbdp/p.oxy;4;730
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    ἐμίσθωσεν Σαραπίων Ἡρώδου
+r.2    ἀπʼ Ὀξυ[ρ]ύγχων πόλεως Οὐαλερίῳ
+r.3    Ἀπολλωνίου ἀπὸ κώμης Σενέπτα
+r.4    Πέρσῃ [τ]ῆς ἐπιγονῆς εἰς τὸ ἐνεστὸς πεντεκαιδέκατον ἔτος
+r.5    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.6    ἀπὸ τῆς ἀναγραφομένης εἰς αὐτὸν βασιλικῆς γῆς ἀρούρας π[έν]τε ἐκ τοῦ Δάμωνος κλήρου,
+r.7    ὥστ[ε] ταύτας ξυλαμῆσαι χόρτῳ εἰ[ς κοπὴν κα]ὶ ἐπ[ινο]μήν,
+r.8    φόρο[υ] ἀποτάκτου ἀργυρίου δραχμῶν ἑκατὸν εἴκοσι καὶ σπονδῆς τῶν ὅλων παιδαρίοις δραχμὰς τέσσαρας ἀνκινδύνου
+r.9    παντὸς κινδύνου, τῶν ὑπὲρ
+r.10   τῆς γῆς δημοσίων ὄντων
+r.11   πρὸς τὸν μεμισθωκότα, ὃν καὶ
+r.12   κυριεύειν τῶν καρπῶν
+r.13   ἕως ἂν τὸν φόρον κομίσηται. τῆς δὲ μισθώσεως βεβαιουμένης ἀποδότω ὁ μεμισθωμέν[ος] τὸν φόρον τῷ
+r.14   Παῦνι μηνὶ τοῦ αὐτοῦ ἔτους,
+r.15   ὃ δʼ ἂν προσοφειλέσῃ ὁ μεμισθωμένος ἀποτεισάτω
+r.16   μεθʼ ἡμιολίας, καὶ ἡ πρᾶξις ἔστω τῷ μεμισθωκότι
+r.17   ἔκ τε τοῦ μεμισθωμένου
+r.18   καὶ ἐκ τῶν ὑπαρχόντων
+r.19   αὐτῷ πάντων. κυρία ἡ μίσθωσις. ἔτους ιε Αὐτοκράτορος
+r.20   Καίσαρος Τραιανοῦ Ἁδριανοῦ
+r.21   Σεβαστοῦ Ἁθὺρ ιθ. Οὐαλέριος
+r.22   Ἀπολλωνίου μεμίσθ[ω][μαι τὴ]ν γῆν …
+r.23   … [ ἀρ]γυ[ρίου δραχμαῶν ἑκα][τὸν εἴκοσι ] …
+r.24   ιε ἔτους μίσθωσις ἀρουρ[ῶ]ν ε … Σενέπτα.
+
+[TRANSLATION]
+# HGV-EN: Sarapion son of Herodes, of Oxyrhynchus, has leased to Valerius son of Apollonius, of the village of Senepta, a Persian of the Epigone, for the current 15th year of Hadrianus Caesar the lord, out of the domain land standing in his name 5 arourae in the holding of Damon, to be cultivated with grass for cutting and grazing ata fixed rent of 120 silver drachmae and 4 drachmae for the slaves for a libation on account of all the land, the rent being secured against every risk, and the taxes on the land being paid by the lessor, who shall also be the owner of the crop until he receives the rent. If this lease is guaranteed, the lessee shall pay the rent in the month Pauni of the said year, and the lessee shall forfeit any arrears increased by one half; and the lessor shall have the right of execution upon the lessee and upon all his property. This lease is valid. The 15th year of the Emperor Caesar Trajanus Hadrianus Augustus, Athur 19. (Signed) I, Valerius son of Apollonius, have leased the land at a rent of 120 silver drachmae...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    

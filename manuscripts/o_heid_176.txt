@@ -1,0 +1,28 @@
+[META]
+id:       O.HEID 176
+label:    O.HEID 176
+name:     Receipt — Theben
+genre:    receipts
+date:     97 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (97 CE)
+# hgv-keywords: Quittung — Steuer (Weidesteuer, ennomion)
+tm:       80399
+source:   https://papyri.info/ddbdp/o.heid;;176
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Ὀσοροῆρις Πετε … ὑπὲρ ἐννομίου
+r.2    α ἔτους δραχμὰς τέσσαρας, γίνονται δραχμαὶ δ καὶ προσδιαγραφόμενα.
+r.3    ἔτους α Νέρουα τοῦ κυρίου Μεσορὴ λϛ.
+r.4    Ἡρακλείδης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

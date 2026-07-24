@@ -1,0 +1,24 @@
+[META]
+id:       BGU 13.2317
+label:    BGU 13.2317
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     210 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (210 CE)
+# hgv-keywords: Quittung — Torzoll — Wicken
+tm:       9713
+source:   https://papyri.info/ddbdp/bgu;13;2317
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Φιλαδελφίας ἑκατοστῆς καὶ πεντηκοστῆς Γεμελλᾶς ἐξάγων ἐπὶ ὄνῳ ἑνὶ ὀρόβου ἀρτάβας
+r.2    τρεῖς · ἔτους ιη Φαρμοῦθι δωδεκάτῃ ιβ
+
+[TRANSLATION]
+1     
+2     

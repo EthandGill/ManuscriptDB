@@ -1,0 +1,44 @@
+[META]
+id:       BGU 3.765
+label:    BGU 3.765
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     166 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (166 CE)
+# hgv-keywords: Quittung — Torzoll
+tm:       9336
+source:   https://papyri.info/ddbdp/bgu;3;765
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Καρανίδος λιμένος
+r.2    Μέμφεως Σερῆνος [ἐ]ξάγων
+r.3    ἐπὶ ὄνῳ ἑνὶ σκ …
+r.4    ἐλαίου χόες δύο καὶ
+r.5    φοίνικος ἀρτάβης
+r.6    ἥμισυ
+r.7    καὶ ἐρίων πόκους … α
+r.8    ἔτους ζ Ἀντωνίνου καὶ Οὐή[ρο]υ
+r.9    τῶν κυρίων Σεβασ[τ]ῶν
+r.10   Τῦβι [τ]ετ[άρτῃ]
+r.11   δ
+
+[TRANSLATION]
+# HGV-EN: Paid for the harbour of Memphis (for the passage) through the gate of Karanis by Serenus, exporting on one baggage-donkey two choes of olive-oil and half an artaba of dates and fleece of wool 1. Year 7 Antoninus and Ve[r]us, the lords, Augusti, Tybi, the [fourth], 4.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

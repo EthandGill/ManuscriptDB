@@ -1,0 +1,32 @@
+[META]
+id:       P.SIJP 38t
+label:    P.SIJP 38t
+name:     Receipt — Theben
+genre:    receipts
+date:     174 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (174 CE)
+# hgv-keywords: Quittung — Steuer (Badesteuer) — Geld
+tm:       110193
+source:   https://papyri.info/ddbdp/p.sijp;;38t
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀσκλᾶς καὶ μέτοχοι ἐπιτηρηταὶ θησαυροῦ ἱερῶν
+r.2    Ἁρσόνι νεωτέρῳ ὁμοίως ἔσχομεν [παρὰ σοῦ]
+r.3    τὸ βαλανευτικὸν τοῦ ιδ ἔτους Αὐρηλίου
+r.4    Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.5    Φαμενὼθ λ.
+
+[TRANSLATION]
+# HGV-EN: Asklas and partners, overseers of the granary of the temples, to Harsonis the younger, son of the same. We have received [from you] the bath tax of the 14th year of Aurelius Antoninus Caesar the lord, Phamenoth 30.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

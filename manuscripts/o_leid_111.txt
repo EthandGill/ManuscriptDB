@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 111
+label:    O.LEID 111
+name:     Receipt — Theben
+genre:    receipts
+date:     133 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (133 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24681
+source:   https://papyri.info/ddbdp/o.leid;;111
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πασῆμις καὶ μέτοχοι ἀπαιτηταὶ μερισμοῦ ἀνδριάντος
+r.2    Ἀγορῶν ὀνόματος Ἰμούθη ὁμοίως τοῦ ὁμοίως
+r.3    ἔσχομεν κέρματος ὀβολοὺς τέσσαρας, γίνονται κέρματος ὀβολοὶ δ.
+r.4    ἔτους ιζ Ἁδριανοῦ τοῦ κυρίου Μεσορὴ ϛ.
+r.5    Ἀπίων σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

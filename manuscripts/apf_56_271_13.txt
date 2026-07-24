@@ -1,0 +1,30 @@
+[META]
+id:       APF 56.271_13
+label:    APF 56.271_13
+name:     Receipt — Theben
+genre:    receipts
+date:     151 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Uppsala
+shelf:    
+content:  Receipt from Theben (151 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       133440
+source:   https://papyri.info/ddbdp/apf;56;271_13
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    µέτρηµα θησαυροῦ κωµῶν γενήµατος ιδ ἔτους
+r.2    Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.3    Μεσορὴ κ ὑπὲρ Χάρακος ὀνόµατος Ὥρου Φθοµίνιος
+r.4    Ψενχώνσιος πυροῦ τετρακαιεικοστὸν
+r.5    γίνεται πυροῦ κδ. Ὧρος σεσηµείωµαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

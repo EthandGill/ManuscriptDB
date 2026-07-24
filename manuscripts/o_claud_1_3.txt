@@ -1,0 +1,34 @@
+[META]
+id:       O.CLAUD 1.3
+label:    O.CLAUD 1.3
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     110 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (110 CE)
+# hgv-keywords: Quittung — Brot
+tm:       24016
+source:   https://papyri.info/ddbdp/o.claud;1;3
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Σύρος Διογένους
+r.2    Ἀλκίμῳ βοηθῷ Μαγίου
+r.3    κιβαριάτου χαίρειν. ἔχω
+r.4    παρὰ σοῦ ἄρτων μάτια δ.
+r.5    ἔτους ιδ Τραιανοῦ τοῦ κυρίου
+r.6    Ἁθὺρ δ.
+r.7    μάτια δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

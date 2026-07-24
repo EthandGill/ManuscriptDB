@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 1.36
+label:    O.EDFOU 1.36
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (1 CE – 100 CE)
+# hgv-keywords: Quittung — Abgabe
+tm:       46976
+source:   https://papyri.info/ddbdp/o.edfou;1;36
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Τρυφᾶς Νίκωνος
+r.2    τιμῆς πυροῦ ιβ ἔτους ἀρτάβης α γ
+r.3    ἔτους ιγ Φαῶφι ε.
+r.4    Ἱέραξ σπείρων
+r.5    Πκῆβις σπείρων
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

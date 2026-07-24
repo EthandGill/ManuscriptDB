@@ -1,0 +1,34 @@
+[META]
+id:       P.HARR 3.306
+label:    P.HARR 3.306
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Birmingham
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (601 CE – 700 CE)
+# hgv-keywords: Bürgschaft
+tm:       998635
+source:   https://papyri.info/ddbdp/p.harr;3;306
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … [ἐπ]ιζητουμένοις
+r.2    ἀποκρίνασθαι. κυρία ἡ ἐγγύη ἁπλῆ γραφεῖσα καὶ ἐπερωτηθεὶς
+r.3    ὡμολόγησα. ἐγὼ Βίκτωρ ζυγοστάτης υἱὸς τοῦ
+r.4    [μα]κ[αρίου] … στοιχῶ τὴν ἐ[γγύ]η[ν]
+r.5    … εως τοῦ Ὀξυρ[υγχίτου] …
+r.6    … [Ὀξυρυγχιτῶν] πόλεως
+
+[TRANSLATION]
+# HGV-EN: … to be answerable for all that is required. This deed of surety, written in a single copy, is binding, and in reply to the formal question I assented. (hand 2) ‘I, Victor, zygostates, son of blessed …, agree to the surety … … of the Oxyrhynchite nome … of the city of the Oxyrhynchites
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

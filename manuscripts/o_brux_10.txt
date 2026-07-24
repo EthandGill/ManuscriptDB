@@ -1,0 +1,30 @@
+[META]
+id:       O.BRUX 10
+label:    O.BRUX 10
+name:     Receipt — Theben
+genre:    receipts
+date:     113 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (113 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       24375
+source:   https://papyri.info/ddbdp/o.brux;;10
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετοσῖρις καὶ μέτοχοι Ὧρῳ
+r.2    Μεχφτρῆτος χαίρειν. ἔσχομεν παρὰ σοῦ
+r.3    ἀχύρου γόμου ἥμισυ τρίτον, γίνονται γόμου 𐅵 γ
+r.4    εἰς πλοῖον τοῦ ιϛ ἔτους Τραιανοῦ τοῦ
+r.5    κυρίου Μεσορὴ κη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

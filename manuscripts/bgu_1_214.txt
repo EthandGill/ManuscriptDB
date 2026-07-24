@@ -1,0 +1,42 @@
+[META]
+id:       BGU 1.214
+label:    BGU 1.214
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     152 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (152 CE)
+# hgv-keywords: Quittung — Steuern — Geld — Verlust des Symbolon
+tm:       8977
+source:   https://papyri.info/ddbdp/bgu;1;214
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἔτους ἑκκαιδεκάτου Αὐτοκράτορος Καίσαρος Τίτου
+r.2    Αἰλίου Ἁδριανοῦ Ἀντωνείνου
+r.3    Σεβαστοῦ Εὐσεβοῦς Φαῶφι
+r.4    λ. διέγραψαν διʼ Ἀπύγχεως
+r.5    καὶ μετόχων πρακτόρων
+r.6    ἀ[ργυ]ρικῶν Σοκνοπαίο[υ]
+r.7    Νήσου Στοτουῆτις Ἀπύγχεως
+r.8    καὶ Παπεῖς Σωτοῦ πρεσβύτεροι κώμης Σοκνοπαίου Νήσου ὑπὲρ χωμάτων
+r.9    ιδ ἔτους ἀργυρίου ῥυπαρὰς δρα[χμὰς]
+r.10   τεσσεράκοντα γίνονται δραχμαὶ μ μὴ προσχρησάμενοι ἑτέρῳ συμβόλῳ διὰ τὸ φάσκειν παραπεπτωκέναι
+
+[TRANSLATION]
+# HGV-EN: Year sixteen of the Imperator Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, Phaophi 30. Paid through Apynchis and and his associates, collectors of money taxes of Soknopaiou Nesos, (by) Stotoetis, son of Apynchis, and Papeis, son of Sotas, both elders of the village of Soknopaiou Nesos, for the dike tax of year 14 forty dirty silver drachmas, = 40 drachmas, and they (Stotoetis and Papeis) did not avail themselves of another receipt because they say that it has been lost.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

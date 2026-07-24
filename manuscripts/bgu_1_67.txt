@@ -1,0 +1,44 @@
+[META]
+id:       BGU 1.67
+label:    BGU 1.67
+name:     Documentary papyrus — Nilopolis (Arsinoites)
+genre:    documents
+date:     199 CE
+language: Greek (Koiné)
+found:    Nilopolis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Nilopolis (Arsinoites) (199 CE)
+# hgv-keywords: Bericht — Sitologen
+tm:       9111
+source:   https://papyri.info/ddbdp/bgu;1;67
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους ζ Λο[υ]κίου Σεπτιμίου Σεουήρου Εὐσεβοῦς
+r.2    Περτίνακος Ἀραβικοῦ Ἀδιαβηνικοῦ
+r.3    Παρθικοῦ Μεγίσ[τ]ου καὶ Μάρκου Αὐρηλίου
+r.4    Ἀντωνίνου Σεβαστῶν Παῧνι κ.
+r.5    Λάμπων καὶ Πτολεμαῖος καὶ Παπείριος γραμματεῖς
+r.6    σιτολόγων κώμης Νειλουπόλεως μεμετρήμεθα ἐν θησαυρῷ τῆς προκειμένης κώμης μέτρῳ δημοσίῳ ξεστῷ
+r.7    ἀπὸ γενημάτων τοῦ αὐτοῦ ἔτους Σοκνοπαίου Νήσου δημοσίων. Πᾶις Σαταβοῦτος
+r.8    πυρ[ο]ῦ ἀρτάβας δέκα γίνονται πυροῦ ἀρτάβαι ι, Ἀβοῦς Σαταβοῦτο[ς] ὁμοίως πυροῦ ἀρτάβας πεντήκοντα γίνονται πυροῦ ἀρτάβαι ν,
+r.9    κ[αὶ] Σ[τοτ]οῆτ[ι]ς Σαταβοῦ[το]ς ὁμοίως
+r.10   πυροῦ ἀρτάβαι εἴκοσι δύο ἥμισυ δωδέκατον
+r.11   γίνονται πυροῦ ἀρτάβαι κβ 𐅵 ιβ.
+
+[TRANSLATION]
+# HGV-EN: Year 7 of Lucius Septimius Severus Pius Pertinax Arabicus Adiabenicus Parthicus Maximus and of Marcus Aurelius Antoninus, (both) Augusti, Payni 20. We, Lampon and Ptolemaios and Papeirios, scribes of the sitologoi of the village of Neilopolis, have had measured to us at the granary of the above mentioned village by levelled public measure from the produce of the same year for the dues on state land for Soknopaiou Nesos. Pais, son of Satabous, ten artabas of wheat = 10 artabas of wheat, Abous, son of Satabous, the son of a man named likewise, fifty artabas of wheat = 50 artabas of wheat and S[tot]oet[i]s, son of Satabou[s], the son of a man named likewise, twenty two and a half and a twelfth artabas of wheat = 22 1/2 1/12 artabas of wheat.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

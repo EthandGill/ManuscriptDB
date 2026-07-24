@@ -1,0 +1,30 @@
+[META]
+id:       P.GENOVA 2.88
+label:    P.GENOVA 2.88
+name:     Receipt — Theben
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (120 CE)
+# hgv-keywords: Quittung — Erhalt — Badesteuer — Namen
+tm:       5126
+source:   https://papyri.info/ddbdp/p.genova;2;88
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Διονύσιος καὶ μέτοχοι …
+r.2    Σεναρσιῆσι χαίρειν· ἀπέχομεν
+r.3    παρὰ σοῦ ὑπὲρ βαλανευτικοῦ ὀβολοὺς
+r.4    ἓξ τοῦ δ ἔτους Ἁδριανοῦ Σεβαστοῦ
+r.5    ἄλλας ὁμοίως Φαμενὼθ ια
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

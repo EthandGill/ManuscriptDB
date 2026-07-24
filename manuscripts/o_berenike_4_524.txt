@@ -1,0 +1,30 @@
+[META]
+id:       O.BERENIKE 4.524
+label:    O.BERENIKE 4.524
+name:     Documentary papyrus — Berenike
+genre:    documents
+date:     60 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Berenike (60 CE)
+# hgv-keywords: Abrechnung
+tm:       971746
+source:   https://papyri.info/ddbdp/o.berenike;4;524
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    ἀπὸ Ἰσίωνος εἰς θεραπ τπδ καὶ εἰς πλοῖ- ριϛ γίνεται φ καὶ ἀπὸ Κρονίου ρ καὶ ἀπὸ Ζήθου ρ
+r.2    ἀπὸ Κλαυδίου νζ καὶ διὰ Ἰσίωνος λ πζ
+r.3    Ἰσίων- … καὶ … ιζ γίνεται οδ καὶ ὁμοίως κζ καὶ ἀπὸ Ἰταλ
+r.4    καὶ ε … ο … γίνεται ριδ καὶ ὁμοίως κγ γίνεται ρλζ
+
+[TRANSLATION]
+# HGV-EN: From that of Ision for assistance, 384, and for the boat 116, totals 500. And from Kronios 100 and from Zethos 100, from Claudius 57 and through Ision 30 (totals) 87 … Ision … [57?] and … 17, totals 74 and similarly 27 and from … totals 114 and similarly 23 totals 137.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     From Ision for assistance 384 and for the boat 116, totals 500. And from Kronios 100 and from Zethos 100.
+2     From Claudius 57 and through Ision 30, totals 87.
+3     Ision … and … 17, totals 74, and similarly 27, and from Ital[ian].
+4     And [5] … totals 114, and similarly 23, totals 137.

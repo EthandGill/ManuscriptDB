@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 285
+label:    O.PETR.MUS 285
+name:     Receipt — Koptos
+genre:    receipts
+date:     4 BCE
+language: Greek (Koiné)
+found:    Koptos
+held:     
+shelf:    
+content:  Receipt from Koptos (4 BCE)
+# hgv-keywords: Quittung — Steuer (Geldwert für Weizen, Gerste) — Bank
+tm:       75457
+source:   https://papyri.info/ddbdp/o.petr.mus;;285
+lat:      25.9967
+lon:      32.8167
+
+[GREEK]
+r.1    [διαγέγρ]αφε διὰ τῆς Ἑρμίου τραπέζης ὑπὲρ
+r.2    [τιμῆς πυροῦ ἀρταβῶν] διοικήσεως κε ἔτους κάτω τοπαρχίας Ἁρυώθης
+r.3    [Π]εταρπαήσιος πυροῦ ἀρτάβης α δραχμὰς γ τριώβολον
+r.4    [ὑ]ποκειμένων κριθῆς ἀρτάβης ἡμίσους δραχμάς β. ἔτους κϛ
+r.5    Καίσαρος Τῦβι λ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

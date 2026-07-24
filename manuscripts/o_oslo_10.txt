@@ -1,0 +1,30 @@
+[META]
+id:       O.OSLO 10
+label:    O.OSLO 10
+name:     Receipt — Tebtynis (Arsinoites)
+genre:    receipts
+date:     211 CE
+language: Greek (Koiné)
+found:    Tebtynis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Tebtynis (Arsinoites) (211 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       40834
+source:   https://papyri.info/ddbdp/o.oslo;;10
+lat:      29.10713705
+lon:      30.7620317
+
+[GREEK]
+r.1    ἀριθμήσεως Μεχεὶρ διέγραψεν Ἀπολλο͂ς
+r.2    Ἀρτεμιδώρῳ καὶ μετόχοις πράκτορσι
+r.3    ἀργυρικῶν κώμης Τεπτύνεως λαογραφίας
+r.4    δραχμὰς τέσσαρας
+r.5    γίνονται δραχμαὶ δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

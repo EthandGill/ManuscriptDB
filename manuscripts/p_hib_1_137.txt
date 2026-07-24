@@ -1,0 +1,24 @@
+[META]
+id:       P.HIB 1.137
+label:    P.HIB 1.137
+name:     Receipt — Herakleopolites (?)
+genre:    receipts
+date:     244 BCE
+language: Greek (Koiné)
+found:    Herakleopolites (?)
+held:     
+shelf:    
+content:  Receipt from Herakleopolites (?) (244 BCE)
+# hgv-keywords: Quittung — Zahlung — Geld
+tm:       4582
+source:   https://papyri.info/ddbdp/p.hib;1;137
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    χαλκοῦ εἰς κδ δ
+r.2    ζυτηρά
+
+[TRANSLATION]
+1     
+2     

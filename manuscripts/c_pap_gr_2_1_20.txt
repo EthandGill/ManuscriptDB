@@ -1,0 +1,56 @@
+[META]
+id:       C.PAP.GR 2.1.20
+label:    C.PAP.GR 2.1.20
+name:     Documentary papyrus — Apollonias (Arsinoites)
+genre:    documents
+date:     101 CE
+language: Greek (Koiné)
+found:    Apollonias (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Apollonias (Arsinoites) (101 CE)
+# hgv-keywords: Anzeige — Tod — Eid
+tm:       9450
+source:   https://papyri.info/ddbdp/c.pap.gr;2.1;20
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἰσιδώ[ρῳ ][βασι]λικῷ γραμμα[τεῖ]
+r.2    Ἀρσινοίτου Θεμίστου μερί[δος]
+r.3    παρὰ Σωτέλους τοῦ Ἰωσήπου
+r.4    τοῦ Θεομνᾶτος μητρὸς Ἐρωτίου
+r.5    ἀπὸ κώμη[ς Ἀ]πολλωνιάδος
+r.6    ὁ υἱός μου Ἰ[ώσ]ηπος μητρὸς
+r.7    Σάρρας ἀφῆλιξ μήπω καταλήξας εἰς λαογραφίαν ἐτελεύτησε τῷ Τῦβι μηνὶ τοῦ ἐνεστῶτος τετάρτου ἔτους Τραιανοῦ
+r.8    Καίσαρος τ[ο]ῦ κυρίου. διὸ ἀξιῶ
+r.9    ταγῆναι αὐτὸν ἐν τοῖς τετελευτηκόσι.
+r.10   τῶι κωμογραμματεῖ. εἰ ἐτελεύτησε, ἀναγραψάμενος
+r.11   μετὰ χειρογραφίας προσφώνησον ὡς καθήκει.
+r.12   ἔτους δ Αὐτοκράτορος Καίσαρος Νέρουα
+r.13   Τραιαν[οῦ] Σεβαστοῦ Γερμανικοῦ
+r.14   Μεχεὶρ ιζ
+r.15   Σωτέλης Ἰωσήπου ὁ προγεγραμμένος ὀμνύω Αὐτοκράτορα Καίσα[ρα Νέρουα ] …
+r.16   Τραιαν[ὸν ] …
+r.17   Σεβα[στόν ] …
+
+[TRANSLATION]
+# HGV-EN: To Isido[ros], royal scribe of the Arsinoite nome, Themistos division, from Soteles, son of Josepos, the son of Theomnas, mother Erotion, from the village of Apollonias. My son J[os]epos, mother Sarra, a minor, who had not yet ceased (to be a minor) with respect to the poll-tax, died in the month of Tybi of the present fourth year of Traianus Caesar, the lord. Therefore I request that he is included amongst those, who have died. (m. 2) To the village scribe. If he died, register him and make a report with a written sworn statement, as usual. Year 4 of Imperator Caesar Nerva Traianus Augustus Germanicus, Mecheir 16. (m. 3) I, Soteles, son of Josepos, the above mentioned, swear by Imperator Caesa[r Nerva] Traian[us Optimus] Augustus [Germanicus]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1060
+label:    O.BODL 2.1060
+name:     Receipt — Theben
+genre:    receipts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (1 CE – 100 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71747
+source:   https://papyri.info/ddbdp/o.bodl;2;1060
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεμενῶφις Πετεχώνσιος
+r.2    καὶ μέτοχοι Φμόιτι
+r.3    Φαήριος χαίρειν. ἀπέχομεν
+r.4    τὸ τέλος Φαμενὼθ
+r.5    Φαρμοῦθι τοῦ α ἔτους
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

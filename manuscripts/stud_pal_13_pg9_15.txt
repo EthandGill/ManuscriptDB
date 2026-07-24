@@ -1,0 +1,26 @@
+[META]
+id:       STUD.PAL 13.pg9_15
+label:    STUD.PAL 13.pg9_15
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     106 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (106 CE)
+# hgv-keywords: Quittung — Steuer (Juden)
+tm:       23130
+source:   https://papyri.info/ddbdp/stud.pal;13;pg9_15
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Κοπρεὺς δοῦλος Ἀντιπάτρου Ἰουδαίων τελέσματος θ ἔτους
+r.2    Τραιανοῦ τοῦ κυρίου
+r.3    τετρώβολον. ἔτους ι Χοιὰκ ιγ.
+
+[TRANSLATION]
+1     
+2     
+3     

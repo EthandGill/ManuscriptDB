@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 1.44
+label:    O.EDFOU 1.44
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     77 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (77 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       46984
+source:   https://papyri.info/ddbdp/o.edfou;1;44
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Θεόδωτος Ἀντωνίου
+r.2    Ῥούφου λαογραφίας θ ἔτους Οὐεσπασιανοῦ
+r.3    δραχμὰς ιϛ ἔτους θ Φαμενὼθ ϛ
+
+[TRANSLATION]
+1     
+2     
+3     

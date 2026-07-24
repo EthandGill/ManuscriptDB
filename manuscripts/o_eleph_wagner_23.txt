@@ -1,0 +1,26 @@
+[META]
+id:       O.ELEPH.WAGNER 23
+label:    O.ELEPH.WAGNER 23
+name:     Receipt — Elephantine
+genre:    receipts
+date:     54 CE – 68 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (54 CE – 68 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24203
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;23
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    δι[αγεγράφηκεν] …
+r.2    τος ὑπ[ὲρ][ λαογραφίας τοῦ ] … [ ἔτους]
+r.3    Νέρωνος [τοῦ κυρίου Παῦ]νι κδ ἀ[ργυρίου][ δραχμὰς δε]καὲξ [γίνεται δραχμαὶ ιϛ]
+
+[TRANSLATION]
+1     
+2     
+3     

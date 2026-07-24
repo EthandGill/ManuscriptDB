@@ -1,0 +1,40 @@
+[META]
+id:       ZPE 206.182_2
+label:    ZPE 206.182_2
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     150 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     Ann Arbor
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (150 CE)
+# hgv-keywords: Quittung — Penthemeros
+tm:       754948
+source:   https://papyri.info/ddbdp/zpe;206;182_2
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    [ἔτους] [τ]ρεισκαιδεκάτου Αὐτοκράτορος
+r.2    [Καίσαρος Τ]ίτου Αἰλίου Ἁδριανοῦ Ἀντωνείνου
+r.3    [Σεβαστοῦ Ε]ὐσεβοῦς εἴργασται ὑπὲρ χωματικῶν
+r.4    [ἔργων τοῦ] αὐτοῦ ιγ ἔτους Μεσορὴ κα κε ἐν
+r.5    … πλωτῇ Σοκνοπαίου Νήσου
+r.6    … Πανεφρέμμεως τοῦ
+r.7    [Παυσίρεως ] μητρὸς
+r.8    Τανεφρέμμεως.
+r.9    [Δ]ιόσκορος σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: In the thirteenth [year] of Imperator [Caesar] Titus Aelius Hadrianus Antoninus [Augustus] Pius, he has performed the dike [work for the] same 13th year from Mesore 21 to 25 on [the … ] shipping canal, for Soknopaiou Nesos: [NN,] son of Panephremmis, grandson of [Pausiris (?),] whose mother is Tanephremmis. I, Dioskoros, have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

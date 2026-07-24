@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.935
+label:    O.BODL 2.935
+name:     Receipt — Theben
+genre:    receipts
+date:     172 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (172 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71625
+source:   https://papyri.info/ddbdp/o.bodl;2;935
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Τῦβι ε τοῦ ιβ ἔτους ὀνόματος Τβήσιος
+r.2    Πικῶτος ὑπὲρ γεωμετρίας λημμάτων ια ἔτους
+r.3    Ἀγορῶν δραχμὰς τέσσαρας γίνονται δραχμαὶ δ. Ἰσχυρίων σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

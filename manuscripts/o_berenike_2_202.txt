@@ -1,0 +1,26 @@
+[META]
+id:       O.BERENIKE 2.202
+label:    O.BERENIKE 2.202
+name:     Letter — Berenike
+genre:    letters
+date:     50 CE – 75 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     
+shelf:    
+content:  Letter from Berenike (50 CE – 75 CE)
+# hgv-keywords: Brief (privat?) — Iulius Marinus (centurio) an NN — Fragment
+tm:       89228
+source:   https://papyri.info/ddbdp/o.berenike;2;202
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    Ἰούλιος Μαρῖνος ἑκατοντάρχης
+r.2    χαίρειν …
+r.3    … Κλαυδ …
+
+[TRANSLATION]
+1     
+2     
+3     

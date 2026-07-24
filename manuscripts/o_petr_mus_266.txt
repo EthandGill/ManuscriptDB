@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 266
+label:    O.PETR.MUS 266
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     186 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (186 CE)
+# hgv-keywords: Quittung — Steuer (Fährdienststeuer, porthmeion)
+tm:       75372
+source:   https://papyri.info/ddbdp/o.petr.mus;;266
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Διόσκορος καὶ μέτοχοι ἐπιτηρηταὶ πορθμείου Καροῦρι
+r.2    Ἰναροίτος καὶ μετόχοις χαίρειν.
+r.3    ἔσχομεν ὑπὲρ μηνὸς
+r.4    Τῦβι ι δραχμὰς κ. ἔτους κϛ .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

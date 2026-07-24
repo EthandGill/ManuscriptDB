@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1220
+label:    O.BODL 2.1220
+name:     Receipt — Theben
+genre:    receipts
+date:     119 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (119 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       71904
+source:   https://papyri.info/ddbdp/o.bodl;2;1220
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κωμῶν γενήματος γ ἔτους
+r.2    Ἁδριανοῦ Καίσαρος τοῦ κυρίου Ἐπεὶφ κ ὀνόματος
+r.3    Ταύρωνος ὁμοίως μητρὸς Θαήσιος
+r.4    πυροῦ ἀρτάβης δ γίνεται πυροῦ ἀρτάβης δ. Ἱέραξ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

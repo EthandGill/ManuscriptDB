@@ -1,0 +1,30 @@
+[META]
+id:       APF 56.271_14
+label:    APF 56.271_14
+name:     Receipt — Theben
+genre:    receipts
+date:     192 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Uppsala
+shelf:    
+content:  Receipt from Theben (192 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       133441
+source:   https://papyri.info/ddbdp/apf;56;271_14
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    µέτρηµα θησαυροῦ κωµῶν γενήµατος λβ ἔτους Αὐρηλίου
+r.2    Κοµµόδου Καίσαρος τοῦ κυρίου
+r.3    Παῦνι γ ὑπὲρ Νότου ὀνόµατος
+r.4    Παναµέως Πεκύσιος
+r.5    Φαµίνιος πυροῦ ἥµισυ ὄγδον, γίνονται πυροῦ 𐅵 η. Φιλ σεσηµείωµαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

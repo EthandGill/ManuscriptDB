@@ -1,0 +1,32 @@
+[META]
+id:       O.BERENIKE 4.520
+label:    O.BERENIKE 4.520
+name:     Documentary papyrus — Berenike
+genre:    documents
+date:     50 CE – 75 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Berenike (50 CE – 75 CE)
+# hgv-keywords: Anweisung — Wein
+tm:       971742
+source:   https://papyri.info/ddbdp/o.berenike;4;520
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    Σαραπίων Κασίου Ἀνδουρωι
+r.2    χαίρειν· διαπόστειλον Πετ … μινι … Χαμβήκιος
+r.3    οἴνου πολ κε[ράμια] εἴκοσι τέσσερα
+r.4    γίνεται κεράμια κδ σεσημείωμαι
+r.5    μηνὸς Σεβαστοῦ κγ
+
+[TRANSLATION]
+# HGV-EN: Sarapion son of Kasios to Andouros, greetings. Dispatch for Pet- son of Chambekis twenty-four pol( ) jars of wine, totals 24 jars. I have signed in the month of Sebastos, 23.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

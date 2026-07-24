@@ -1,0 +1,32 @@
+[META]
+id:       BGU 1.331
+label:    BGU 1.331
+name:     Receipt — Patsontis (Arsinoites)
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Patsontis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Patsontis (Arsinoites) (158 CE – 159 CE)
+# hgv-keywords: Quittung — Getreide — Saat
+tm:       9061
+source:   https://papyri.info/ddbdp/bgu;1;331
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σπερμάτων κβ ἔτους Ἀντωνείνου
+r.2    Καίσαρος τοῦ κυρίου
+r.3    μδ κληρουχίας Πατσώντιος δημοσί
+r.4    Σαράπων Πετέους
+r.5    ἀρουρῶν β 𐅵 δ η
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 22 of Antoninus Caesar, the lord. 44th cleruchy. At Patsontis 2 1/2 1/4 1/8 arouras of public (land) Sarapon, son of Petes.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

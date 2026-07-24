@@ -1,0 +1,40 @@
+[META]
+id:       APF 63.108
+label:    APF 63.108
+name:     Receipt — Panopolites
+genre:    receipts
+date:     338 CE
+language: Greek (Koiné)
+found:    Panopolites
+held:     Salem
+shelf:    
+content:  Receipt from Panopolites (338 CE)
+# hgv-keywords: Quittung
+tm:       704761
+source:   https://papyri.info/ddbdp/apf;63;108
+lat:      26.5894771637
+lon:      31.7425708648
+
+[GREEK]
+r.1    κληρονοµ Βησᾶ Ἀλώπηκος
+r.2    ὑπὲρ τιµῆς χαρτῶν
+r.3    ὑπὲρ α φυλῆς ια
+r.4    ἰνδικτίωνος. καὶ
+r.5    ἐξέδωκά σοι τὴν
+r.6    ἀποχὴν ὡς πρόκειται.
+r.7    ὑπατείας Οὔρσου καὶ
+r.8    Πολεµείου τῶν λαµπροτάτων Παῦνι ιζ.
+r.9    Ἱέραξ γίνεται τάλαντα ιθ.
+
+[TRANSLATION]
+# HGV-EN: The heirs of Besas, son of Alopex, for the cost of papyrus rolls for the 1st tribe in the 11th indiction, and I have issued the preceding receipt to you. In the consulship of Ursus and Polemius, viri clarissimi, Payni 17. Hierax. Total 19 talents.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

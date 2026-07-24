@@ -1,0 +1,30 @@
+[META]
+id:       ZPE 212.217_3
+label:    ZPE 212.217_3
+name:     Receipt — Elephantine
+genre:    receipts
+date:     139 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (139 CE)
+# hgv-keywords: Geld — Boote — Quittung
+tm:       832349
+source:   https://papyri.info/ddbdp/zpe;212;217_3
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Πετεσοῦχος π[ράκτωρ]. [διέγραψεν]
+r.2    Σανσνῶς Παχο … [μητρὸς]
+r.3    Θιναρπαήσιος ὑπὲρ μ[ερισμοῦ] [ποταμοφυλακίδος]
+r.4    β ἔτους Ἀντωνείνου [Καίσαρος τοῦ κυρίου]
+r.5    ῥυπαρὰς δραχμὰς β ἡμιωβέλιον. Τῦβι ιγ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

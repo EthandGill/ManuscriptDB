@@ -1,0 +1,36 @@
+[META]
+id:       ZPE 192.201_8
+label:    ZPE 192.201_8
+name:     Receipt — Elephantine
+genre:    receipts
+date:     216 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (216 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — (Gewerbe, cheironaxion) — Geld
+tm:       382558
+source:   https://papyri.info/ddbdp/zpe;192;201_8
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Ἱερακαπόλλων καὶ Ἀμμῶνις μισθωταὶ
+r.2    ἱερὰς πύλης Σοήνης. διέγραψεν Πάρις Ἕρμωνος
+r.3    μητρὸς Θινπατρασνούφιος, ὑπὲρ χειρωναξίου
+r.4    λήμματος κγ ἔτους, δραχμὰς τέσσαρες ὀβολοὺς δύο
+r.5    δραχμὰς δ διώβολον, καὶ ὑπὲρ λαογραφίας Πετορζμῆθις ὁ υἱὸς
+r.6    δραχμὰς ἐννέα ὀβολὸν, γίνονται δραχμαὶ θ ὀβολός, γίνονται ἐπὶ τῶν αὐτῶν δραχμαὶ ιγ τριώβολον
+r.7    Αὐρ[ή]λιος γραμ[μ]ατεύς
+r.8    ἔτους κδ Φαμενὼθ δ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

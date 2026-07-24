@@ -1,0 +1,28 @@
+[META]
+id:       O.ASHM.SHELT 7
+label:    O.ASHM.SHELT 7
+name:     Receipt — Elephantine
+genre:    receipts
+date:     98 CE – 99 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (98 CE – 99 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70559
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;7
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Ἁρπαῆσις Φενώφεος
+r.2    ὑπὲρ λαογραφίας β ἔτους Τραιανοῦ
+r.3    τοῦ κυρίου τὰς λοιπὰς δραχμὰς θ.
+r.4    Ἑρμογένης πράκτωρ ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

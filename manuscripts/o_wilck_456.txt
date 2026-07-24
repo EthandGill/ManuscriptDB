@@ -1,0 +1,30 @@
+[META]
+id:       O.Wilck. 456
+label:    O.Wilck. 456
+name:     Receipt — Theben
+genre:    receipts
+date:     82 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (82 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76967
+source:   https://papyri.info/ddbdp/o.wilck;;456
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Παναμεὺς Φθουμίνιος
+r.2    Ψενχνοῦβις ὑπὲρ χωματικοῦ Χάρακος δραχμὰς ἓξ τετρώβολον,
+r.3    βαλανικοῦ ὀβολοὺς δ 𐅵 γίνονται ζ ὀβολοὶ β 𐅵 καὶ προσδιαγραφόμενα. ἔτους α Δομιτιανοῦ
+r.4    τοῦ κυρίου μηνὶ Καισαρήωι λ‡β.
+r.5    Ἀπολλόδωρος Ἡρακλείδου σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

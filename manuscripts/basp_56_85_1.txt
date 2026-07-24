@@ -1,0 +1,28 @@
+[META]
+id:       BASP 56.85_1
+label:    BASP 56.85_1
+name:     Receipt — Abydos
+genre:    receipts
+date:     89 CE
+language: Greek (Koiné)
+found:    Abydos
+held:     London
+shelf:    
+content:  Receipt from Abydos (89 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       392588
+source:   https://papyri.info/ddbdp/basp;56;85_1
+lat:      26.185099
+lon:      31.917622
+
+[GREEK]
+r.1    χωµατικοῦ η ἔτους Ἀβύδου Πετερµοῦθις
+r.2    Ἁρσιήσιος τοῦ Ἁροννώφριος
+r.3    δραχμὰς ἕξ τε[τ]ρώβολον, γίνονται δραχμαὶ ϛ τετρώβολον. ἔτους θ Δοµιτιανοῦ
+r.4    τοῦ κυρίου Φαῶφι γ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.226
+label:    O.ONT.MUS 2.226
+name:     Receipt — Theben
+genre:    receipts
+date:     193 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (193 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       75247
+source:   https://papyri.info/ddbdp/o.ont.mus;2;226
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    παρεκομίσθη τοῖς παραλήμ[πταις ] …
+r.2    γενήματος α ἔτους ἀχύρου γόμου ἥμισυ
+r.3    γίνεται γόμου 𐅵. ἔτους β Αὐτοκράτορος Καίσαρος Γαίου
+r.4    Πεσκεννίου Νίγερος Ἰούστου
+r.5    Φαῶφι ιβ Σ … σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

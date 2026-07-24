@@ -1,0 +1,26 @@
+[META]
+id:       O.WILB 37
+label:    O.WILB 37
+name:     Receipt — Theben
+genre:    receipts
+date:     192 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (192 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76549
+source:   https://papyri.info/ddbdp/o.wilb;;37
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παχὼν γ τοῦ λβ ἔτους ὀνόματος Κ …
+r.2    Πετε ὑπὲρ φοινικώνων ἱερατικῶν τοῦ λβ ἔτους
+r.3    Νότου δραχμὰς ὀκτὼ γίνονται δραχμαὶ η …
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.41
+label:    O.EDFOU 1.41
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     72 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (72 CE)
+# hgv-keywords: Quittung — Abgabe
+tm:       46981
+source:   https://papyri.info/ddbdp/o.edfou;1;41
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Νίγερ Ἀντωνίου Ῥούφου
+r.2    τιμῆς δηναρίων δύο
+r.3    Ἰουδαίων δ ἔτους Οὐεσπασιανοῦ δραχμὰς η διώβολον ἔτους δ
+r.4    Μεχεὶρ γ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

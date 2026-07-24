@@ -1,0 +1,30 @@
+[META]
+id:       O.Wilck. 615
+label:    O.Wilck. 615
+name:     Receipt — Theben
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (144 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       77125
+source:   https://papyri.info/ddbdp/o.wilck;;615
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φατρὴς καὶ μέτοχοι ἀπαιτηταὶ μερισμοῦ Χάρακος
+r.2    Ἀμενώθῃ Ἁρβήχιος Ἀμενώθου
+r.3    ὑπὲρ μερισμοῦ ϛ ἔτους δραχμὰς τρεῖς ὀβολοὺς γ 𐅵 χαλκοῦς 2
+r.4    γίνονται δραχμαὶ γ ὀβολοὶ γ 𐅵 χαλκοῖ 2. ἔτους ζ Ἀντωνίνου Καίσαρος
+r.5    τοῦ κυρίου Μεχὶρ ιδ. Ἰμ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

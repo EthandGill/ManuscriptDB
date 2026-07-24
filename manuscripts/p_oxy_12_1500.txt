@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 12.1500
+label:    P.Oxy. 12.1500
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     229 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (229 CE)
+# hgv-keywords: Auftrag — Befehl an einen Bankier — Zahlung von Lohn an einen Wärter des Bades — Geld
+tm:       21883
+source:   https://papyri.info/ddbdp/p.oxy;12;1500
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἀχιλλᾷ τραπεζίτῃ.
+r.2    δὸς Ἑρμαΐσκῳ βαλανευτῇ
+r.3    ὑπὲρ ὀψωνίου Θὼθ
+r.4    δραχμὰς ὀκτώ, γίνονται δραχμαὶ η.
+r.5    ἔτους θ Θὼθ ιδ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

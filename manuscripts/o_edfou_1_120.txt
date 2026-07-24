@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 1.120
+label:    O.EDFOU 1.120
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     72 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (72 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       47061
+source:   https://papyri.info/ddbdp/o.edfou;1;120
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ἰώσηπος Ἰάσωνος
+r.2    τιμῆς δηναρίων
+r.3    δύο Ἰουδαίων δ ἔτους η διώβολον
+r.4    ἔτους δ Οὐεσπασιανοῦ Παῦνι
+r.5    η
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

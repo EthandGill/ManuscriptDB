@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.477
+label:    O.BODL 2.477
+name:     Receipt — Theben
+genre:    receipts
+date:     47 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (47 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71175
+source:   https://papyri.info/ddbdp/o.bodl;2;477
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Χενσθώτης Θορταίου ὑπὲρ λαογραφίας
+r.2    ζ ἔτους δραχμὰς δέκα βαλανευτικοῦ δραχμὴν μίαν ὀβολὸν α 𐅵 γίνονται δραχμαὶ ια ὀβολὸς α 𐅵 καὶ
+r.3    προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου. ἔτους ζ Τιβερίου Κλαυδίου Καίσαρος
+r.4    Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος Ἐπε[ὶ]φ
+r.5    κθ. Ἐπικράτης Πικῶτος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

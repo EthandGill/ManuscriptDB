@@ -1,0 +1,38 @@
+[META]
+id:       CDE 95.298_1
+label:    CDE 95.298_1
+name:     Receipt — Ptolemais Euergetis (Arsinoites)
+genre:    receipts
+date:     136 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     London
+shelf:    
+content:  Receipt from Ptolemais Euergetis (Arsinoites) (136 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Geld
+tm:       957084
+source:   https://papyri.info/ddbdp/cde;95;298_1
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    Σουχίων πράκτωρ Βιθυνῶν Διοσκόρῳ
+r.2    Διοσκόρου χαίρειν.
+r.3    ἔχω παρὰ σοῦ ὑπὲρ λαογραφίας τοῦ
+r.4    εἰκοστοῦ ἔτους Ἁδριανοῦ Καίσαρος
+r.5    τοῦ κυρίου ἀργυρίου δραχμὰς ὀκτώ, γίνονται δραχμαὶ η,
+r.6    χαλκίνου ὀβολοὶ τέσσαρες. ἔτους κα
+r.7    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.8    Φαωφι κζ.
+
+[TRANSLATION]
+# HGV-EN: Souchion, praktor of (the quarter of the) Bithynians, to Dioskoros, son of Dioskoros, greetings. I receive from you eight silver drachmas for the poll-tax of the twentieth year of Hadrian Caesar the lord, total 8 dr., four bronze obols. Year 21 of Hadrian Caesar the lord. Phaophi 27.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

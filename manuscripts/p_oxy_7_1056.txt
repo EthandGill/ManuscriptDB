@@ -1,0 +1,42 @@
+[META]
+id:       P.Oxy. 7.1056
+label:    P.Oxy. 7.1056
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     360 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (360 CE)
+# hgv-keywords: Anweisung — Zahlung — Arakos — oxyrhynchitische Ära
+tm:       20348
+source:   https://papyri.info/ddbdp/p.oxy;7;1056
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    παρὰ Πτολεμίνου Θωνίῳ προνοητῇ Νίγρου χαίρειν.
+r.2    παραμέτρησον Δωροθέῳ ἀδελφῷ ὑπὲρ τιμῆς κρέως
+r.3    λιτρῶν πεντακοσίων μέλλοντι λημματίσαι τῷ ἡμετέρῳ ὀνόματι
+r.4    τέως δ ἰνδικτίωνος ἄρακος ἀρτάβας τεσσεράκοντα, γίνονται ἄρακος ἀρτάβαι μ,
+r.5    ὡς τῆς ἀρτάβης μίας λογιζομένης ἐκ δηναρίων μυριάδων
+r.6    ἑκατὸν ὀγδοήκοντα , ὡς εἶναι τοῦ ἐπιστάλματος
+r.7    δηναρίων μυριάδας ἑπτακισχιλίας διακοσίας, γίνονται δηναρίων μυριάδες Ζσ .
+r.8    σεσημείωμαι ἄρακος ἀρτάβας τεσ[σ]εράκοντα .
+r.9    ἔτους λζ ἔτους ϛ ἔτους Φαῶφι ιγ.
+r.10   εἷς θεός. ἄρακος Φαῶφι.
+
+[TRANSLATION]
+# HGV-EN: From Ptoleminus to Thonius, steward of Nigrus, greeting. Measure out to my brother Dorotheus, who is about to collect payments on my account, hitherto paid (?) through Hieronicus, for the price of 500 pounds of meat, forty artabae of aracus, total 40 art. aracus, a single artaba being reckoned at one hundred and eighty myriads of denarii, making the order seven thousand two hundred myriads of denarii, total 7,200 myriads of denarii.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

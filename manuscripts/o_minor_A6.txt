@@ -1,0 +1,28 @@
+[META]
+id:       O.MINOR A6
+label:    O.MINOR A6
+name:     Receipt — Theben
+genre:    receipts
+date:     127 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (127 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       50398
+source:   https://papyri.info/ddbdp/o.minor;;A6
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ια ἔτους Ἁδριανοῦ
+r.2    Καίσαρος τοῦ κυρίου Ἐπεὶφ ζ ὀνόματος
+r.3    Ψάεις Ὥρου Ἰμούθου …
+r.4    πυροῦ τρεῖς ἕκτον γίνεται πυροῦ γ ϛ. Πικῶς σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       BGU 6.1462
+label:    BGU 6.1462
+name:     Documentary papyrus — Elephantine
+genre:    documents
+date:     257 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Documentary papyrus from Elephantine (257 BCE)
+# hgv-keywords: Bestätigung — Deklaration — Land
+tm:       4744
+source:   https://papyri.info/ddbdp/bgu;6;1462
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [ἔτους] κη Παχὼν ἀναφέρειν
+r.2    [ἐκ ][γ]εωμετρίας τοῦ αὐτοῦ ἔτους
+r.3    … τις Σμήθιος
+r.4    ἰδίας διʼ Ἀσκληπιάδου Ἀριστοπόλιος ἀρούρας δ η γίνεται δ η.
+r.5    Πολ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

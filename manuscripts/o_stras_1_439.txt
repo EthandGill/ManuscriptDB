@@ -1,0 +1,36 @@
+[META]
+id:       O.STRAS 1.439
+label:    O.STRAS 1.439
+name:     Receipt — Theben
+genre:    receipts
+date:     76 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (76 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       76027
+source:   https://papyri.info/ddbdp/o.stras;1;439
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Νίκων καὶ μέτοχοι
+r.2    Πετεαρποχράτῃ Καμήτιος
+r.3    χαίρειν. ἀπέχω παρὰ
+r.4    σοῦ γόμους ἀχύρου
+r.5    δύο τοῦ η ἔτους
+r.6    Οὐεσπασιανοῦ
+r.7    τοῦ κυρίου
+r.8    Μεσορὴ κ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

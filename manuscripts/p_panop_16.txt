@@ -1,0 +1,34 @@
+[META]
+id:       P.PANOP 16
+label:    P.PANOP 16
+name:     Receipt — Panopolis
+genre:    receipts
+date:     324 CE
+language: Greek (Koiné)
+found:    Panopolis
+held:     
+shelf:    
+content:  Receipt from Panopolis (324 CE)
+# hgv-keywords: Quittung — Steuern — Gerste
+tm:       16161
+source:   https://papyri.info/ddbdp/p.panop;;16
+lat:      26.5648875
+lon:      31.7451755
+
+[GREEK]
+r.1    ὀν[ό]ματος Πασν[ῶ]τος πρεσβυτέρου Ἀλ[ώ]πεκος
+r.2    διεγράφησαν ἐπ[ὶ δ]ημοσίαν τράπεζαν
+r.3    τιμῆς κριθῆς ὑπὲρ δ ἰνδικτίωνος
+r.4    δραχμὰς τετρακισχιλίας ἐννακοσίας,
+r.5    γίνονται δραχμαὶ Δϡ.
+r.6    τέταρτ[ο]ν μέλλουσιν ὑπάτοις.
+r.7    Ἀπολλωνίδης διʼ ἐμοῦ Πολυκράτους υἱοῦ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

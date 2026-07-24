@@ -1,0 +1,30 @@
+[META]
+id:       P.SARAP 7
+label:    P.SARAP 7
+name:     Receipt — Hermopolis
+genre:    receipts
+date:     130 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Receipt from Hermopolis (130 CE)
+# hgv-keywords: Quittung — Steuern — Polizei
+tm:       17021
+source:   https://papyri.info/ddbdp/p.sarap;;7
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    Φυλάκ ιδ [ἔτους] Ἁδριανοῦ Καίσαρ[ο]ς τοῦ
+r.2    κυρίου Μεσορὴ κα Πόλεως λιβὸς
+r.3    Εὐτυχίδης Σαραπίωνος ὀβολοὶ δέκα
+r.4    δύο διὰ Φ … βίωνος
+r.5    σύνβολον
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,26 @@
+[META]
+id:       BGU 2.516
+label:    BGU 2.516
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (158 CE – 159 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       9211
+source:   https://papyri.info/ddbdp/bgu;2;516
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σπερμάτων κβ ἔτους Ἀντωνίνου Καίσαρος τοῦ κυρίου νζ κληρουχίας
+r.2    Δίδυμος Σαραπίωνος Πατσώντεως βασιλικῆς ἀρταβῶν δ … .
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 22 of Antoninus Caesar, the lord. 57th cleruchy. Didymos, son of Sarapion. At Patsontis 4 arouras of royal (land).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

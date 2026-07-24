@@ -1,0 +1,28 @@
+[META]
+id:       O.HEID 90
+label:    O.HEID 90
+name:     Receipt — Theben (Charax)
+genre:    receipts
+date:     183 CE
+language: Greek (Koiné)
+found:    Theben (Charax)
+held:     
+shelf:    
+content:  Receipt from Theben (Charax) (183 CE)
+# hgv-keywords: Quittung — Steuer (Landvermessungssteuer, geometria)
+tm:       80327
+source:   https://papyri.info/ddbdp/o.heid;;90
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ κα τοῦ κγ ἔτους ὀνόμματος
+r.2    Σενκαμήτιος Ἀβῶτος ὑπὲρ
+r.3    γεωμετρίας κγ ἔτους Χάρακος
+r.4    δραχμὴν α διώβολον. Π … η.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

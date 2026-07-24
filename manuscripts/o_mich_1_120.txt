@@ -1,0 +1,26 @@
+[META]
+id:       O.MICH 1.120
+label:    O.MICH 1.120
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     3 BCE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (3 BCE)
+# hgv-keywords: Quittung — Geld
+tm:       41886
+source:   https://papyri.info/ddbdp/o.mich;1;120
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ἔτους κζ Καίσαρος Παχὼν
+r.2    ιβ διέγραψε Παλαῶμις
+r.3    Μαρρῆς ὑπὲρ βαλανευτικοῦ δραχμὴν α.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 74.5002
+label:    P.Oxy. 74.5002
+name:     Documentary papyrus — Nauis (Oxyrhynchites) bzw. Oxyrhynchos
+genre:    documents
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Nauis (Oxyrhynchites) bzw. Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Nauis (Oxyrhynchites) bzw. Oxyrhynchos (1 CE – 200 CE)
+# hgv-keywords: Befehl — Stratege an Nomophylax und Archephodos — Überstellung
+tm:       128308
+source:   https://papyri.info/ddbdp/p.oxy;74;5002
+lat:      
+lon:      
+
+[GREEK]
+r.1    ὁ στρατηγὸς νομοφύλακι κ[αὶ ἀρχεφόδῳ]
+r.2    κώμης Νάουεως. ἐκπέμψ[ατε] …
+r.3    Νααρω[ο]ῦτος ἐ …
+r.4    Φαρμουθι ιδ. οφ … η …
+
+[TRANSLATION]
+# HGV-EN: The strategus to the nomophylax and archephodos of the village of Naouis. Send out . . . (son/ daughter) of Naaroous . . . Pharmouthi 14. . . . (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

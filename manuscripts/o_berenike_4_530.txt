@@ -1,0 +1,24 @@
+[META]
+id:       O.BERENIKE 4.530
+label:    O.BERENIKE 4.530
+name:     Documentary papyrus — Berenike
+genre:    documents
+date:     51 CE – 200 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Berenike (51 CE – 200 CE)
+# hgv-keywords: Name
+tm:       971752
+source:   https://papyri.info/ddbdp/o.berenike;4;530
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    Ἁρσονοῆρις π …
+
+[TRANSLATION]
+# HGV-EN: Harsonoeris … .
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     

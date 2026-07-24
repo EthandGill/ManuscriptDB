@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.502
+label:    O.BODL 2.502
+name:     Receipt — Theben
+genre:    receipts
+date:     86 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (86 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71200
+source:   https://papyri.info/ddbdp/o.bodl;2;502
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Φαήριος Παχνούμιος
+r.2    ὑπὲρ λαογραφίας Νότου ε ἔτους δραχμὰς δέκα βαλανευτικοῦ α ὀβολὸν α 𐅵
+r.3    γίνονται ια ὀβολὸς α 𐅵 καὶ προσδιαγραφόμενα. ἔτους ε Δομιτιανοῦ
+r.4    τοῦ κυρίου Παῦνι λ‡α.
+r.5    Ἀπολλόδωρος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

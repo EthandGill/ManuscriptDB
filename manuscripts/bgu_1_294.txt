@@ -1,0 +1,30 @@
+[META]
+id:       BGU 1.294
+label:    BGU 1.294
+name:     Receipt — Patsontis (Arsinoites)
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Patsontis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Patsontis (Arsinoites) (158 CE – 159 CE)
+# hgv-keywords: Quittung — Getreide — Saat — Sitologen
+tm:       9039
+source:   https://papyri.info/ddbdp/bgu;1;294
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σιτολόγοις Καρανίδος. ἔσχον προσφωνήσας σπερμάτων κ[β][ ἔτους]
+r.2    Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.3    … [κ]ληρουχίας Σαραπίων
+r.4    … [ ο]υ Πατσώντιος βασιλικῆς ἀρουρῶν ϛ.
+
+[TRANSLATION]
+# HGV-EN: To the sitologoi of Karanis. I received under declaration (with a written sworn statement) from the seed grain of [year] 2[2] of Antoninus Caesar, the lord. (m. 2) [xth] cleruchy . Sarapion, [son of NN]. At Patsontis for 6 arouras of royal (land).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

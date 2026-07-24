@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.943
+label:    O.BODL 2.943
+name:     Receipt — Theben
+genre:    receipts
+date:     216 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (216 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71633
+source:   https://papyri.info/ddbdp/o.bodl;2;943
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁθὺρ γ τοῦ κε ἔτους ὀνόματος Αὐρηλίου
+r.2    Σαραπίωνος Ποριεύθου ὑπὲρ γεωμετρίας κδ ἔτους Νότου
+r.3    δραχμὰς δέκα ἓξ γίνονται δραχμαὶ ιϛ. Αὐρήλιος Ἡρακλείδης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,26 @@
+[META]
+id:       P.PRAG 3.225
+label:    P.PRAG 3.225
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (501 CE – 600 CE)
+# hgv-keywords: Anweisung (Theon an den Ölmüller Sambas) — Lieferung (Öl) an Johannes (Lektor bzw. Arzt) und andere — Unterhalt (Verpflegung)
+tm:       130549
+source:   https://papyri.info/ddbdp/p.prag;3;225
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Θέων Σαμβᾷ ἐλαιουργῷ. πέντε ξέστας ἐλαίου παράσχου Ἰω[άνν]ῃ ἀναγνώστῃ ἰατρῷ
+r.2    καὶ Ἡρακλείδῃ [υἰ]ῷ καὶ παιδαρίῳ αὐτῶν ὑπὲρ τροφῆς μηνὸς α ἀπὸ Φ[αρ]μοῦθι ιη ιγ ἰνδικτίονος ,
+r.3    ἐλαίου ξέστας ε μ[όν]ους. Φ[α]ρμοῦθι κε ιγ ἰνδικτίονος. ἐσμειωσάμην ἐλαίου ξέστας πέντε μ[όνους] .
+
+[TRANSLATION]
+1     
+2     
+3     

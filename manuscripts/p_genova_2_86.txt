@@ -1,0 +1,28 @@
+[META]
+id:       P.GENOVA 2.86
+label:    P.GENOVA 2.86
+name:     Receipt — Theben
+genre:    receipts
+date:     39 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (39 CE)
+# hgv-keywords: Quittung — Zahlung — Preis — Getreide — Gebühren — Namen
+tm:       15538
+source:   https://papyri.info/ddbdp/p.genova;2;86
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Φχορχῶνσις διὰ Πετεμ Ε … ο … [ ὑπὲρ]
+r.2    τιμῆς πυροῦ διο[ι]κέσεως β ἔτους δραχμὰς δέκα ἓξ τετρ[ώβολον]·
+r.3    γίνονται δραχμαὶ ιϛ τετρώβολον καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου· ἔτους γ Γαίου Καίσαρ[ος]
+r.4    Σεβαστοῦ Γερμανικοῦ Τῦβι ια …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

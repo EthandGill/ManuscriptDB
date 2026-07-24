@@ -1,0 +1,24 @@
+[META]
+id:       O.TRIM 2.742
+label:    O.TRIM 2.742
+name:     Receipt — Trimithis (Oasis Magna)
+genre:    receipts
+date:     312 CE
+language: Greek (Koiné)
+found:    Trimithis (Oasis Magna)
+held:     
+shelf:    
+content:  Receipt from Trimithis (Oasis Magna) (312 CE)
+# hgv-keywords: Quittung — Miete
+tm:       372360
+source:   https://papyri.info/ddbdp/o.trim;2;742
+lat:      25.6677395488
+lon:      28.8708832519
+
+[GREEK]
+r.1    ὑπὲρ γενή[ματος] …
+r.2    ἰνδικτίον[ος] …
+
+[TRANSLATION]
+1     
+2     

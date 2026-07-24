@@ -1,0 +1,30 @@
+[META]
+id:       O.FRANGE 574
+label:    O.FRANGE 574
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Lettre — Archives de Frangé
+tm:       220111
+source:   https://papyri.info/ddbdp/o.frange;;574
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ϫⲏⲙⲉ …
+r.2    ⲡⲉϣⲁ …
+r.3    ⲧϥⲛⲧⲉἀπόκρισις …
+r.4    ⲟⲩϫⲁⲓ ϩⲙ ⲡ[ϫⲟⲉⲓⲥ]
+r.5    ἡ ἁγία τριάς
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

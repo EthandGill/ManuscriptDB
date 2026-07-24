@@ -1,0 +1,26 @@
+[META]
+id:       O.FRANGE 618
+label:    O.FRANGE 618
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Lettre — Archives de Frangé
+tm:       220156
+source:   https://papyri.info/ddbdp/o.frange;;618
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [ϥⲣⲁ]ⲛⲅⲉ ⲉϥⲥϩⲁⲓ
+r.2    … ⲙⲛⲧⲁⲥϩⲁⲓ
+r.3    … [ⲙ]ⲡⲣⲉⲓ ⲛⲧⲉ… ⲉ ϣⲁⲛϯ… ⲙⲟⲩ
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,32 @@
+[META]
+id:       O.BERENIKE 4.514
+label:    O.BERENIKE 4.514
+name:     Letter — Berenike
+genre:    letters
+date:     51 CE – 100 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Letter from Berenike (51 CE – 100 CE)
+# hgv-keywords: Brief — Myrrhe — Pfeffer
+tm:       971736
+source:   https://papyri.info/ddbdp/o.berenike;4;514
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    πέμψον μοι ἀποχὴ[ν]
+r.2    … δ ἔρρωσο
+r.3    Πετοσῖρις
+r.4    … κομίσαι
+r.5    κεράμια δ
+
+[TRANSLATION]
+# HGV-EN: … Send me the receipt … the 4th. Greetings. Petosiris … to take four keramia.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

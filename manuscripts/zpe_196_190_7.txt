@@ -1,0 +1,32 @@
+[META]
+id:       ZPE 196.190_7
+label:    ZPE 196.190_7
+name:     Documentary papyrus — Hibis (Oasis Magna, Ägypten)
+genre:    documents
+date:     325 CE – 400 CE
+language: Greek (Koiné)
+found:    Hibis (Oasis Magna, Ägypten)
+held:     New York
+shelf:    
+content:  Documentary papyrus from Hibis (Oasis Magna, Ägypten) (325 CE – 400 CE)
+# hgv-keywords: Anweisung — Öl
+tm:       653475
+source:   https://papyri.info/ddbdp/zpe;196;190_7
+lat:      25.4764
+lon:      30.5552
+
+[GREEK]
+r.1    Φαυστιανὸς πρεσβυτέρῳ
+r.2    Πτετου χαίρειν.
+r.3    παράσχου τῷ ἀδελφῷ
+r.4    Ἁτρῆτι ἐλαίου ξέστην α.
+r.5    σεσημείωμαι η ἰνδικτίωνος.
+
+[TRANSLATION]
+# HGV-EN: Faustianus to the priest of Ptetou greeting. Supply to our brother (i. e., colleague) Hatres one sextarius of olive oil. I have signed; for the 8th indiction.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,24 @@
+[META]
+id:       O.PETR.MUS 404
+label:    O.PETR.MUS 404
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (101 CE – 300 CE)
+# hgv-keywords: Quittung (?) — Weizen
+tm:       75442
+source:   https://papyri.info/ddbdp/o.petr.mus;;404
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παῦνι κη ε ὀνόματος
+r.2    Πετεμίνιος Πικῶτος πυροῦ ἀρτάβαι η
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,26 @@
+[META]
+id:       O.ELEPH.WAGNER 73
+label:    O.ELEPH.WAGNER 73
+name:     Receipt — Elephantine
+genre:    receipts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (1 CE – 100 CE)
+# hgv-keywords: Quittung — Geld
+tm:       26295
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;73
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔχω ἐπὶ λόγωι
+r.2    παρὰ [Β]ιήγχεως
+r.3    δραχμὰς ωκη.
+
+[TRANSLATION]
+1     
+2     
+3     

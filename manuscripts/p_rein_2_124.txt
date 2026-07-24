@@ -1,0 +1,32 @@
+[META]
+id:       P.REIN 2.124
+label:    P.REIN 2.124
+name:     Receipt — Theben
+genre:    receipts
+date:     109 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (109 BCE)
+# hgv-keywords: Quittung — Bank — Abgabe (τρίτη περιστερεώνων)
+tm:       5275
+source:   https://papyri.info/ddbdp/p.rein;2;124
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους η Φαρμοῦθι ε. τέτακται ἐπὶ τὴν ἐν Διὸς πόλει
+r.2    τῆι μεγάληι τράπεζαν τρίτης περιστερεώνων ὀγδόου ἔτους
+r.3    Πτολεμαῖος Πρωτάρχου
+r.4    τρισχιλίας ἑξακοσίας γίνονται Γχ
+r.5    Ἑρμόφιλος τραπεζίτης
+r.6    Δτκ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

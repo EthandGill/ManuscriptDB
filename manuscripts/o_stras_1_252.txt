@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.252
+label:    O.STRAS 1.252
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     134 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (134 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75849
+source:   https://papyri.info/ddbdp/o.stras;1;252
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἰναρῶς καὶ Κάστωρ τελῶναι γερδιακοῦ ιη ἔτους
+r.2    Πανεχάτῃ Πικῶτος. ἔσχομεν
+r.3    παρὰ σοῦ τὸ τέλος ὑπὲρ Ἁθὺρ καὶ μηνὸς
+r.4    Ἁδριανοῦ. ἔτους ιη Ἁδριανοῦ
+r.5    τοῦ κυρίου Τῦβι η.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,36 @@
+[META]
+id:       P.LEID.INST 1.77
+label:    P.LEID.INST 1.77
+name:     Receipt — unbekannt
+genre:    receipts
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Receipt from unbekannt (601 CE – 700 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       38782
+source:   https://papyri.info/ddbdp/p.leid.inst;1;77
+lat:      
+lon:      
+
+[GREEK]
+r.1    μερισμὸς ὀ[γ]δόης ἰνδικτίονος τη … ια … ε … ρ … διὰ κοινοῦ τῆς κώμης
+r.2    ὑπὲρ συνημ τοῦ κατασο … ρι χρυσοῦ νομισμάτιον ἓν
+r.3    παρὰ κεράτια τ[ρ]ί[α] γίνεται χρυσοῦ ν[ομισμάτιον] α παρὰ κεράτια γ μόνα διὰ κοινοῦ τῆς κώμης.
+r.4    συμφωνοῦσιν. ἐγράφη ὑπὲρ αὐτῶν Ἰσάκις η ἰνδικτίονος
+r.5    Πεε[ῦς] [ἀ]παιτητὴς συμφωνεῖ. Ἰωάννης συμφωνεῖ.
+r.6    Φίβις συμφωνεῖ.
+r.7    Ἰωσῆφ
+
+[TRANSLATION]
+# HGV-EN: (Paid for the?) assessment of the eighth indiction of te - - - through the representa board of the village, for the gratuity of the - - -: one gold solidus less three car:total 1 gld. sol. less 3 c. in all, through the representatives of the village. They agree. Isakis has written on their behalf in the 8th indiction. † Peeus, tax-collector, agrees. Josepis agrees. Phibios agrees. Joseph.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

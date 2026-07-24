@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 1.14
+label:    O.ONT.MUS 1.14
+name:     Receipt — Theben
+genre:    receipts
+date:     71 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (71 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75036
+source:   https://papyri.info/ddbdp/o.ont.mus;1;14
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Ἑριοφμόις Ἑρμᾶτος ὑπὲρ λαογραφίας
+r.2    Χάρακος γ ἔτους δραχμὰς δέκα γίνονται ι καὶ προσδιαγραφόμενα ἔτους γ Αὐτοκράτορος
+r.3    Καίσαρος Οὐεσπασιανοῦ Σεβαστοῦ Παχὼν ιγ
+r.4    Ἀπίων σεσηµείωµαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

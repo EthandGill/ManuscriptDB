@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.50
+label:    O.STRAS 1.50
+name:     Receipt — Theben
+genre:    receipts
+date:     9 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (9 BCE)
+# hgv-keywords: Quittung — Steuern — Bank — Geld
+tm:       75650
+source:   https://papyri.info/ddbdp/o.stras;1;50
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν ἐπὶ τὴν
+r.2    Κεφάλου τράπεζαν Μαιεῦρις Σεειανοῦ
+r.3    Πετεαρπ λαογραφίας τοῦ κα ἔτους δραχμὰς ε.
+r.4    ἔτους κα Καίσαρος Ἐπεὶφ κε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

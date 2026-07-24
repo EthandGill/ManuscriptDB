@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.177
+label:    O.STRAS 1.177
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     148 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (148 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       43615
+source:   https://papyri.info/ddbdp/o.stras;1;177
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πτολεμαῖος Σμανρεῖ
+r.2    χαίρειν. τέταξαι εἰς τὸ ἐννόμιον
+r.3    τοῦ λγ ἔτους χαλκοῦ ἰσονόμου δραχμὰς Γ
+r.4    γίνονται τρισχίλιαι.
+r.5    ἔτους λγ Ἐπεὶφ θ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

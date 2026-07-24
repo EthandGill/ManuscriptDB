@@ -1,0 +1,30 @@
+[META]
+id:       SB 1.4350
+label:    SB 1.4350
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       29412
+source:   https://papyri.info/ddbdp/sb;1;4350
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα εἰς θησαυρὸν μ[ητροπόλεως][ γενήματος ] … [ ἔτους ] …
+r.2    Καίσαρος τοῦ [κυρίου ] …
+r.3    Σενχώνσιος …
+r.4    θερμου ὑπὲρ ἀρουρῶν … ,
+r.5    γίνονται πυροῦ α δ. σεσημείωμαι …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

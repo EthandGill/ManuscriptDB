@@ -1,0 +1,32 @@
+[META]
+id:       BGU 3.791col1
+label:    BGU 3.791col1
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     206 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (206 CE)
+# hgv-keywords: Quittungen — Steuern — Geld
+tm:       9354
+source:   https://papyri.info/ddbdp/bgu;3;791col1
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    [ἔτους ιδ] Ἁδριανοῦ ιθ. διέγραψε Πωλίωνι [κα]ὶ μετόχοις πράκτορσιν ἀργυρικῶν Καρανίδος
+r.2    [Πτ]ολεμαὶς Λεων[ίδ]ου συνταξίμου τοῦ αὐτοῦ ἔτους
+r.3    … ω … φ … ως ἄλλας δραχμὰς ὀκτώ, γίνονται δραχμαὶ η. Μεχεὶρ κε
+r.4    [ἄλλας δραχμὰς] δέκα δύο, γίνονται δραχμαὶ ιβ. Φαμ[ε]νὼθ κϛ δραχμὰς τέσσαρες, γίνονται δραχμαὶ δ.
+r.5    … ομ … ἄλλας δραχμὰς τέσσ[αρ]ες, γίνονται δραχμαὶ δ. Φαρμοῦθι κη ἄλλας δραχμὰς τέσσα[ρες,] γίνονται δραχμαὶ δ. Παχὼν … [ ἄλλας] δραχμὰς ὀκτώ, γίνονται δραχμαὶ η. ιε ἔτους Φαῶ[φι] λ … ιγ δραχμὰς ὀκτώ, [γίνονται δραχμαὶ γ]
+
+[TRANSLATION]
+# HGV-EN: [Year 14], Hadrianos 19. Paid to Polion and his associates, collectors of money taxes of Karanis, (by) [Pt]olemais, daughter of Leon[id]es, for syntaximon of the same year a further eight drachmas, = 8 drachmas; Mecheir 25 [a further] twelve [drachmas], = 12. drachmas; (m. 2) Pham[e]noth 26 four drachmas, = 4 drachmas; a further four drachmas, = 4 drachmas; Pharmouthi 28 a further four drachmas, = 4 drachmas; Pachon [x a further] eight drachmas, = 8 drachmas. Year 15 Phao[phi – – –] 30 a further eight drachmas, [= 8 drachmas].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

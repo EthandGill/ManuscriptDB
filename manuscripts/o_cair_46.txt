@@ -1,0 +1,32 @@
+[META]
+id:       O.CAIR 46
+label:    O.CAIR 46
+name:     Receipt — Theben
+genre:    receipts
+date:     100 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (100 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       73392
+source:   https://papyri.info/ddbdp/o.cair;;46
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ψενχῶνσις καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    Παναμεῖ Νεφερῶτος
+r.3    καὶ Πεκύσει ἀδελφῷ χαίρειν.
+r.4    ἀπέχομεν παρὰ σοῦ τὸ βαλανευτικὸν
+r.5    τοῦ γ ἔτους Τραιανοῦ τοῦ κυρίου.
+r.6    Παῦνι α.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

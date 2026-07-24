@@ -1,0 +1,28 @@
+[META]
+id:       ZPE 192.206
+label:    ZPE 192.206
+name:     Documentary papyrus — Arsinoites, Ägypten
+genre:    documents
+date:     125 BCE – 26 BCE
+language: Greek (Koiné)
+found:    Arsinoites, Ägypten
+held:     Giessen
+shelf:    
+content:  Documentary papyrus from Arsinoites, Ägypten (125 BCE – 26 BCE)
+# hgv-keywords: Liste — Küchengeräte
+tm:       382559
+source:   https://papyri.info/ddbdp/zpe;192;206
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἄβακες β
+r.2    κρεάγραι
+r.3    πήρα βυβλίων
+
+[TRANSLATION]
+# HGV-EN: two dining trays meat-hooks a bag of papyrus rolls
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

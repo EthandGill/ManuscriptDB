@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 134
+label:    O.LEID 134
+name:     Receipt — Theben
+genre:    receipts
+date:     150 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (150 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24702
+source:   https://papyri.info/ddbdp/o.leid;;134
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Ἀμμώνιο]ς Ποστόμου ἀπαιτητὴς μερισμ …
+r.2    … κε … δ διὰ Σενπετεχώνσιος ε …
+r.3    … ἔτους ιγ Ἀντωνίνου Καίσαρος
+r.4    [τοῦ κυρί]ου Τῦβι κδ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

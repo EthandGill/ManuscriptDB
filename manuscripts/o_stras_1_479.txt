@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.479
+label:    O.STRAS 1.479
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     122 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (122 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76067
+source:   https://papyri.info/ddbdp/o.stras;1;479
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεχεσποχράτης καὶ μέτοχοι τελῶναι
+r.2    θησαυροῦ Ἰμούθῃ Ὀννώφριος
+r.3    χαίρειν. ἀπέχομεν τὸ βαλανικὸν τοῦ
+r.4    ϛ ἔτους Ἁδριανοῦ τοῦ κυρίου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,28 @@
+[META]
+id:       SB 1.1966
+label:    SB 1.1966
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (501 CE – 600 CE)
+# hgv-keywords: Quittung — Ladung (Schiff)
+tm:       38329
+source:   https://papyri.info/ddbdp/sb;1;1966
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    κώμης Κερκεήρεως
+r.2    εἰς πλοῖον Πέτρου Γούνθου
+r.3    Ἐπὶφ ιε πρώτης φορᾶς θαλλία ζ
+r.4    ἀρτάβας ια 𐅵, δέκα μία ἥμισυ, μόνας πρὸς Ἀλεξάνδρειαν.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,74 @@
+[META]
+id:       BGU 1.61
+label:    BGU 1.61
+name:     Documentary papyrus — Herakleia (Arsinoites)
+genre:    documents
+date:     200 CE
+language: Greek (Koiné)
+found:    Herakleia (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Herakleia (Arsinoites) (200 CE)
+# hgv-keywords: Bericht — Sitologen
+tm:       9105
+source:   https://papyri.info/ddbdp/bgu;1;61
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [ἔ]τους η Λουκίου Σεπτιμίου
+r.2    Σεουήρου Εὐσεβοῦς Περτίνακος
+r.3    καὶ Μάρκου Αὐρηλίου Ἀντωνίνου
+r.4    Εὐσεβοῦς Σεβαστῶν παρὰ Κάστορος
+r.5    Ἥρωνος καὶ μετόχων σιτολόγων κώμης
+r.6    Ἡρακλείας· μεμετρήμεθα ἐπὶ τῆς
+r.7    γ τοῦ Παῧνι μηνὸς τοῦ ἐνεστῶτος
+r.8    η ἔτους ἀπὸ γενημάτος τοῦ αὐτοῦ ἔτους
+r.9    Σουτουῆτις Φόσις κληρούχων
+r.10   αὐτῆς πυρ[ο]ῦ ἀρτάβας ἑπτὰ γίνονται πυροῦ ἀρτάβαι ζ
+r.11   Σαταβοῦς Κιῶβις τοῦ αὐτοῦ μηνὸς
+r.12   πυροῦ [ἀ]ρτάβας τέ[σ]σαρας ἥμισυ
+r.13   γίνονται πυροῦ ἀρτάβαι δ 𐅵 γίνονται τοῦ συμβόλου πυροῦ ἀρτάβαι ια 𐅵
+r.14   Κάστωρ Ἥρωνος μεμέτρημαι, καθὼς πρόκ[ει]ται.
+r.15   ἔτους η τῶν κυρίων
+r.16   Σεβαστῶν· διέγραψε
+r.17   Σωτᾶς καὶ μέτοχοι πράκτορες
+r.18   ἀργυρικῶν κώμης Ἡρ[ακ]λείας· ἔσχον
+r.19   παρ[ὰ] σοῦ ἐς λόγον παραγραφ[ί]ας ἐλαιουργίας δραχμὰς
+r.20   δώδεκα [γίνονται] δραχμαὶ [ιβ]
+r.21   Σαραπάμμων καὶ μέτοχοι ἔσχον
+r.22   εἰς λόγον προσόδον ὑπαρχόντων
+r.23   διὰ Τὶξ καὶ Μέλας πυροῦ β 𐅵
+r.24   ἔτους η Λουκίου Σεπτιμίου Σεουήρου Εὐσεβοῦς
+r.25   Περτίνακος Εὐσεβοῦς Παρθικοῦ [καὶ Μάρκου Αὐρηλίου Ἀντωνίνου]
+r.26   Σεβαστῶν Μεσ[ορ]ὴ λ.
+
+[TRANSLATION]
+# HGV-EN: col. I Year 8 of Lucius Septimius Severus Pius Pertinax and of Marcus Aurelius Antoninus Pius, (both) Augusti. From Kastor, son of Heron and associates, sitologoi of the village of Herakleia. We have had measured to us on the 3rd of the month Payni from the produce of the same year: Soutouetis, daughter of Phosis, for the dues on clerouchs of the same (village) seven artabas of wheat = 7 artabas of wheat; Satabous, son of Kiobis, in the same month four and a half artabas of wheat = 4 1/2 artabas of wheat = for the receipt 11 1/2 artabas of wheat. I, Kastor, son of Heron, have had measured to me, as aforesaid. col. II Year 8 of the lords Augusti. Sotas and his associates, collector of the money taxes of the village of Herakleia have paid. I have received from you for the account of the tax liability registered for an oil press twelve drachmas [= 12] drachmas. (m. 2) Sarapammon and his associates have received for the account of the revenues from (sequestrated) properties through Tix and Melas 2 1/2 (artabas) of wheat. Year 8 of Lucius Septimius Severus Pius Pertinax Pius Parthicus <and of Marcus Aurelius Antoninus>, (both) Augusti, Me[sor]e 30.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    

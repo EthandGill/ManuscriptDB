@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 272
+label:    O.PETR.MUS 272
+name:     Receipt — Theben
+genre:    receipts
+date:     14 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (14 CE)
+# hgv-keywords: Quittung — Steuer (Webersteuer)
+tm:       75378
+source:   https://papyri.info/ddbdp/o.petr.mus;;272
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀσκλᾶς τελώνης γερδίων …
+r.2    χαίρειν ἀπέχω τὸ τέλος τοῦ Ἁθὺ[ρ ] …
+r.3    ἔτους α Τιβερίου Καίσαρος Σεβ[αστοῦ ] …
+r.4    ἔγραψα Πετεμενῶφις Πελαί[ου ] …
+r.5    Χοίαχ Χ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

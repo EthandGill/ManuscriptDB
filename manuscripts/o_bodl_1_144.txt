@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 1.144
+label:    O.BODL 1.144
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     215 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (215 BCE)
+# hgv-keywords: Quittung — Naturalien
+tm:       43535
+source:   https://papyri.info/ddbdp/o.bodl;1;144
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους η Φαρμοῦθι ϛ
+r.2    ἔχει Τιμέας παρὰ Τβέλφιος
+r.3    εἰς τὴν ἀπόμοιραν τοῦ ζ ἔτους
+r.4    οἴνου χόας πέντε κοτύλας γ οἰνολογίας τοῦ αὐτοῦ ἔτους οἴνου
+r.5    χόας δέκα γίνονται χόες ιε κοτύλαι γ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

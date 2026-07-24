@@ -1,0 +1,32 @@
+[META]
+id:       P.LEID.INST 1.72
+label:    P.LEID.INST 1.72
+name:     Receipt — Antinoopolis
+genre:    receipts
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Antinoopolis
+held:     
+shelf:    
+content:  Receipt from Antinoopolis (501 CE – 600 CE)
+# hgv-keywords: Quittung — Steuern — Geld — christlich
+tm:       36570
+source:   https://papyri.info/ddbdp/p.leid.inst;1;72
+lat:      27.8105625
+lon:      30.8810025
+
+[GREEK]
+r.1    δέδωκεν ὀνόματος Ἰωάννου Πιλλαγίου διὰ τοῦ Ἀβᾶ Γεωργίου τοῦ ἁγίου μοναστηρίου Ἀβᾶ Σαβίνου διὰ Φοιβάμμωνος
+r.2    γεωργοῦ ὑπὲρ τέλους σίτου κώμης Αεως κανόνος
+r.3    ἑβδόμης ἰνδικτίονος χρυσοῦ κεράτια ἐννέα ζυγῷ γίνεται χρυσοῦ κεράτια θ ζυγῷ.
+r.4    Φλάουιος Κολλοῦθος ἐξκέπτωρ καὶ πάγαρχος Ἀντινόου διὰ μου Γενναδίου σὺν θεῷ βοηθοῦ στοιχεῖ τὸ ἐντάγιον ὡς πρόκειται. ἐγράφη Παῦνι
+r.5    γ ζ ἰνδικτίονος.
+
+[TRANSLATION]
+# HGV-EN: ⳨ Paid in the name of Johannes, son of Pillagios (?), through Abba Georgius of the holy monastery of Abba Sabinus, through Phoebammon the tenant, for the grain-tax of the village Aeos, of the assessment of the seventh indiction: nine gold carats, public standard, total gld. car. 9, public standard. ⳨ Flavius Collouthos, exceptor and pagarch of Antinoopolis, through me Gennadius assistent with God’s help, agrees with the receipt as stated above. Written on the 3rd of Payni of the 7th indiction.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

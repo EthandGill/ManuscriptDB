@@ -1,0 +1,30 @@
+[META]
+id:       O.CAMB 62
+label:    O.CAMB 62
+name:     Receipt — Theben
+genre:    receipts
+date:     162 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (162 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       73541
+source:   https://papyri.info/ddbdp/o.camb;;62
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀπελλᾶς καὶ μέτοχοι ἐπιτηρηταὶ τέλους θησαυροῦ ἱερῶν
+r.2    Πετεχώνσει Ψενσεννήσιος Ἀσκλᾶτος. ἔσχον
+r.3    τὸ βαλανευτικὸν τοῦ β ἔτους Ἀντωνίνου καὶ
+r.4    Οὐήρου τῶν κυρίων Σεβαστῶν
+r.5    Παχὼν κϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

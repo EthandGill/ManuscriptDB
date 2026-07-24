@@ -1,0 +1,36 @@
+[META]
+id:       O.STRAS 1.406
+label:    O.STRAS 1.406
+name:     Receipt — Theben
+genre:    receipts
+date:     236 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (236 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75994
+source:   https://papyri.info/ddbdp/o.stras;1;406
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος β ἔτους τῶν κυρίων
+r.2    ἡμῶν Αὐτοκρατόρων Γαίου Ἰουλίου Οὐήρου
+r.3    Μαξιμείνου Εὐσεβοῦς Εὐτυχοῦς Σεβαστοῦ
+r.4    καὶ Γαίου Ἰουλίου Οὐήρου Μαξίμου τοῦ
+r.5    ἱερωτάτου Καίσαρος Σεβαστοῦ υἱοῦ τοῦ
+r.6    Σεβαστοῦ Ἐπεὶφ ιϛ ὑπὲρ Χάρακος ὀνόματος Ἀβῶτος Χεμπνέως καὶ Ψενμαῆτος Παχοίτου καὶ μετόχων
+r.7    πυροῦ ἀρτάβας τεσσαράκοντα πέντε γίνονται πυροῦ με.
+r.8    Ωρι σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

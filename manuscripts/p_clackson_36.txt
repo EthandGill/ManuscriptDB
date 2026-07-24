@@ -1,0 +1,34 @@
+[META]
+id:       P.CLACKSON 36
+label:    P.CLACKSON 36
+name:     Receipt — Bawit (Hermopolites)
+genre:    receipts
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Bawit (Hermopolites)
+held:     
+shelf:    
+content:  Receipt from Bawit (Hermopolites) (701 CE – 750 CE)
+# hgv-keywords: Quittung — Steuer (andrismos) — Geld
+tm:       128352
+source:   https://papyri.info/ddbdp/p.clackson;;36
+lat:      27.532343
+lon:      30.72925
+
+[GREEK]
+r.1    ἔσχον παρὰ σοῦ Σαιας μονάζοντος
+r.2    ἀπὸ ἀνδρισμοῦ α ἰνδικτίωνος χρυσοῦ νομίσματος τρίτον,
+r.3    γίνεται ἀριθμίου γ. Χοιακ ϛ, ἰνδικτίωνος α.
+r.4    Πινουτίων ἔγραψα.
+r.5    Βίκτωρ στοιχεῖ.
+r.6    Ἰωάννης ⲡκαθηγητής στοιχεῖ.
+
+[TRANSLATION]
+# HGV-EN: I have received from you, Saias, monk, from (the) andrismos of the 1st indiction, one-third of a nomisma of gold, total 1/3 arithmion. Choiak 6, indiction 1. I, Pinoution, wrote. (2nd hand) Victor agrees. (3rd hand) Ioannes, the teacher, agrees.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

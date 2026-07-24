@@ -1,0 +1,30 @@
+[META]
+id:       SB 1.3988
+label:    SB 1.3988
+name:     Receipt — Theben
+genre:    receipts
+date:     11 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (11 BCE)
+# hgv-keywords: Bescheinigung einer demotischen Quittung — Getreide — Sitologe
+tm:       23085
+source:   https://papyri.info/ddbdp/sb;1;3988
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀπολλώνιος Εὐχαρέστου [σιτολόγος]
+r.2    ἐπηκολούθηκα ταῖς πυροῦ ἀρτάβαις ὀγδ[οήκοντα]
+r.3    δύο ἕκτον, γίνονται ἀρτάβαι πβ [ϛ].
+r.4    ἔτους ιθ Καίσαρος Ἐ[πεὶφ ιδ]
+r.5    καὶ κδ καὶ β … .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

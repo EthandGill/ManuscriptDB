@@ -1,0 +1,30 @@
+[META]
+id:       O.MICH 1.483
+label:    O.MICH 1.483
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     300 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (300 CE)
+# hgv-keywords: Quittung
+tm:       42260
+source:   https://papyri.info/ddbdp/o.mich;1;483
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ὁριοδεικτίας Καρανίδος γενήματος ιε ἔτους ιδ ἔτους ζ ἔτους
+r.2    δεκαπρώτων Ὡρίωνος καὶ Φιλώτα ὀνόματος
+r.3    Πανεσάτου σάκκους τρεῖς,
+r.4    γ. ἔτους ιϛ καὶ ιε η
+r.5    Φαρμοῦθι ιζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

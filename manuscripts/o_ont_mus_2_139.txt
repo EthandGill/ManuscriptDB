@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.139
+label:    O.ONT.MUS 2.139
+name:     Receipt — Theben
+genre:    receipts
+date:     186 CE – 187 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (186 CE – 187 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75158
+source:   https://papyri.info/ddbdp/o.ont.mus;2;139
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πα … [ ὀνόματος]
+r.2    Πετοσῖρις πρεσβυτέρου Ψ … [ καὶ ὀνόματος]
+r.3    Τηιονχώνσιος Σαχομνέως Πετο[σί]ρ[ιος] …
+r.4    ἔτους κζ ε γίνονται ε. Πανίσκ[ος ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

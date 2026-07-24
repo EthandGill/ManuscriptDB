@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 1.221
+label:    O.BODL 1.221
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     52 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (52 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       44275
+source:   https://papyri.info/ddbdp/o.bodl;1;221
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [ἔτους ] … θ Παῦνι ιδ μεμέτρηκεν εἰς τὴν
+r.2    [ἐπιγραφὴν] τοῦ αὐτοῦ ἔτους Ἑριεῦς Παμώνθου
+r.3    [πυροῦ ][ἀρ]τάβας τρεῖς γίνονται πυροῦ ἀρτάβαι γ.
+r.4    [Πε]τε σιτολόγος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

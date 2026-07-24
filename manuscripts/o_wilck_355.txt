@@ -1,0 +1,28 @@
+[META]
+id:       O.Wilck. 355
+label:    O.Wilck. 355
+name:     Receipt — Theben
+genre:    receipts
+date:     107 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (107 BCE)
+# hgv-keywords: Quittung — Geld
+tm:       43487
+source:   https://papyri.info/ddbdp/o.wilck;;355
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ι Τῦβι κβ τέτακται ἀπομοίρας
+r.2    δεκάτου ἔτους Λυσίμαχος Ἀμμωνίου
+r.3    τάλαντα τρία ϡοε γίνονται τάλαντα γ ϡοε.
+r.4    χαλκοῦ τάλαντα γ Β.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,26 @@
+[META]
+id:       O.LEID 168
+label:    O.LEID 168
+name:     Receipt — Theben
+genre:    receipts
+date:     226 CE – 275 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (226 CE – 275 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       32278
+source:   https://papyri.info/ddbdp/o.leid;;168
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεχεὶρ κε Νήσων ὀνόματος Πεκύσιος ὁμοίως
+r.2    Ψανσνῶτος πρεσβυτέρου Ἀσκλείας ὑπὲρ τιμῆς
+r.3    πυροῦ κδ μη, δραχμαὶ ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     

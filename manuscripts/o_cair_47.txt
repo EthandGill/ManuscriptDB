@@ -1,0 +1,32 @@
+[META]
+id:       O.CAIR 47
+label:    O.CAIR 47
+name:     Receipt — Theben
+genre:    receipts
+date:     111 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (111 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       73393
+source:   https://papyri.info/ddbdp/o.cair;;47
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἐπικράτης καὶ μέτοχοι
+r.2    τελῶναι θησαυροῦ ἱερῶν
+r.3    Καμῆτι Φθουμίνιος
+r.4    χαίρειν. ἀπέχομεν τὸ βαλανευτικόν.
+r.5    ἔτους ιε Τραιανοῦ
+r.6    Καίσαρος τοῦ κυ[ρί]ου Θὼθ θ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

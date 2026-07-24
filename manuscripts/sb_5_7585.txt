@@ -1,0 +1,30 @@
+[META]
+id:       SB 5.7585
+label:    SB 5.7585
+name:     Receipt — Elephantine
+genre:    receipts
+date:     71 CE – 72 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (71 CE – 72 CE)
+# hgv-keywords: Quittung — Steuern (χειρωνάξιον) — Namen
+tm:       17978
+source:   https://papyri.info/ddbdp/sb;5;7585
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Πατερζμῆτις Πατερζμήτιος
+r.2    ὑπὲρ χειρωναξίου τετάρτου ἔτους
+r.3    Οὐεσπασιανοῦ τοῦ κυρίου
+r.4    ἀργυρίου δραχμὰς εἴκοσι δυώβολον γίνονται κ διώβολον.
+r.5    Μελάνθις Ἑρμοδότου ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

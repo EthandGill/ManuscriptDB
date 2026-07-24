@@ -1,0 +1,28 @@
+[META]
+id:       APF 64.89
+label:    APF 64.89
+name:     Letter — Arsinoites, Ägypten
+genre:    letters
+date:     626 CE – 675 CE
+language: Greek (Koiné)
+found:    Arsinoites, Ägypten
+held:     Cologne
+shelf:    
+content:  Letter from Arsinoites, Ägypten (626 CE – 675 CE)
+# hgv-keywords: Brief — Stephanos an Kalomenas
+tm:       756245
+source:   https://papyri.info/ddbdp/apf;64;89
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … μοι …
+r.2    καὶ …
+r.3    … κυρῷ Καλο μηνᾷ κόμετι καὶ ἀντιγεούχῳ Στέφανος
+
+[TRANSLATION]
+# HGV-EN: … to lord Kalo†menas, comes and vicedominus † Stephanos †
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

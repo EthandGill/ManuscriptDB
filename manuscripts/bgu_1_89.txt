@@ -1,0 +1,52 @@
+[META]
+id:       BGU 1.89
+label:    BGU 1.89
+name:     Documentary papyrus — Soknopaiu Nesos (Arsinoites)
+genre:    documents
+date:     163 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Soknopaiu Nesos (Arsinoites) (163 CE)
+# hgv-keywords: Deklaration — Kamel
+tm:       9130
+source:   https://papyri.info/ddbdp/bgu;1;89
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἀπολογισμός
+r.2    Ζω[ΐ]λωι βασιλικῷ γραμματεῖ Ἀρ[σινοίτου]
+r.3    Ἡρακλείδου μερίδος
+r.4    [παρ]ὰ Ἑκύσιος Ὥρου ἀπὸ
+r.5    κώμης Σοκνοπαίου Νήσου
+r.6    ὅν ἀπεγραψάμην τῷ διεληλυθότι
+r.7    β [ἔτους] κάμηλον α
+r.8    π[έπρ]ακα τῷ ἐν[εσ]τῶτι
+r.9    [γ] ἔτει Μελανᾷ Ἁρποκ[ρ]ατίωνος
+r.10   ἀπὸ ἀμφόδου Ἀμ[μ]ωνίου
+r.11   Τόπων. διὸ ἐπιδ[ί]δωμι
+r.12   ἀξιῶν περιαιρεθῆναι
+r.13   τοῦτον ἐκ τοῦ ὀνόματός
+r.14   μου ὡς ἐπὶ τῶν [ὁ]μοίων
+r.15   σεσημ[ε]ίωμαι
+
+[TRANSLATION]
+# HGV-EN: (m. 2) Statement of reduction (m. 1) To Zoilos, royal scribe of the Arsinoite nome, Herakleides division, from Hekysis, son of Horos, from the village of Soknopaiou Nesos. The 1 camel, which I registered in the past 2nd year, I have sold in the present [3rd] year to Menas, son of Harpok[r]ation, from the quarter of Ammonios . Therefore I submit (this registration). [And] I request that it be removed from the list of the present year, as in similar cases. (m. 2) I have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

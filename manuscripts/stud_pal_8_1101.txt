@@ -1,0 +1,26 @@
+[META]
+id:       STUD.PAL 8.1101
+label:    STUD.PAL 8.1101
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (601 CE – 700 CE)
+# hgv-keywords: Anweisung — Ausgabe — Wein
+tm:       39512
+source:   https://papyri.info/ddbdp/stud.pal;8;1101
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ὑμῖν Φοιβάμμωνι πρεσβυτέρῳ παράσχου Μαρκρίνᾳ τυφλῇ
+r.2    ἐκ τῶν οἴνου ῥύσεων χωρίου Θιαλαύλι καρπῶν ιβ ἰνδικτίονος
+r.3    ὑπὲρ μισθοῦ τῆς αὐτῆς οἴνου κνίδια
+
+[TRANSLATION]
+1     
+2     
+3     

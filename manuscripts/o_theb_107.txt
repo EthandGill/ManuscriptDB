@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB 107
+label:    O.THEB 107
+name:     Receipt — Theben
+genre:    receipts
+date:     160 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (160 CE)
+# hgv-keywords: Quittung — Heu
+tm:       76477
+source:   https://papyri.info/ddbdp/o.theb;;107
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παμώνθης Φθομώνθου καὶ Παύνχης πρεσβύτερος Ἀθᾶς
+r.2    ἀχυράριοι Μεμνονείων ὀνόματος Ψεμμώνθου ἀπελευθέρου Ἀμενώθου.
+r.3    ἔσχομεν ὑπὲρ γενήματος κγ ἔτους γόμους ἀχύρου ιε.
+r.4    ἔτους κγ Ἀντωνίνου Καίσαρος τοῦ κυρίου Ἐπεὶφ ιη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 1.117
+label:    P.Oxy. 1.117
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (101 CE – 300 CE)
+# hgv-keywords: Brief (privat) — Chaireas an Dionysios — Sendung von Saat (Melonen) und Tuch
+tm:       28409
+source:   https://papyri.info/ddbdp/p.oxy;1;117
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Χαιρέας Διονυσίωι τῶι
+r.2    κυρίωι ἀδελφῷ χαίρειν.
+r.3    καὶ κατʼ ὄψιν σὲ παρακέκληκα ὅπως ἀπαρτισθῇ τὸ ἐν τῇ βιβλιοθήκῃ μετεωρίδιν, καὶ τὴν πρᾶσιν τῶν παιδαρίων τῶν παιδίων ἀπαρτισθῆναι, καὶ τὴν πρᾶσιν
+r.4    τῶν οἰναρίων τοῦ ἄντα καὶ τῶν
+r.5    τοῦ πέρα διὰ σοῦ γενέσθαι, καὶ τὴν
+r.6    τιμὴν ἐν ἀσφαλεῖ γενέσθαι, ἄχρις ἂν
+r.7    παραγένωμαι. σπέρματα σικυδίων
+r.8    σπουδαῖα ἔπεμψα ὑμῖν διὰ
+r.9    Διογένους τοῦ φίλου Χαιρέου τοῦ πολιτικοῦ, ῥάκη δύο κατασεσημασμένα [τ]ῇ σφραγῖδι μου, ἐξ ὧν δώσεις
+r.10   τοῖς παιδίοις σου ἓν ἐξ αὐτῶν. τὴν ἀδελφὴν
+r.11   ἀσπάζου καὶ τὴν Κύριλλαν. Ῥοδόπη ὑμᾶς καὶ Ἀρσίνοος ἀσπάζονται.
+r.12   ἐρρῶσθαί σε εὔχομαι.
+r.13   Διονυσίωι γυμνασιάρχῳ παρὰ Χαιρέου λιμενάρχου.
+
+[TRANSLATION]
+# HGV-EN: Chaereas to his brother Dionysius, greeting. I have already urged you in person to have the horoscope (?) in the archives prepared and also the sale of the slaves’ children, and to sell the wine that comes from both the near and the far vineyard, keeping the money in a safe place until I come. I send you some good melon seeds through Diogenes the friend of Chaereas the citizen, and two strips of cloth sealed with my seal, one of which please give to your children. Salute your sister and Cyrilla. Rhodope and Arsinous salute you. I pray for your health.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

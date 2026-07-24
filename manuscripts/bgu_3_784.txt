@@ -1,0 +1,28 @@
+[META]
+id:       BGU 3.784
+label:    BGU 3.784
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     193 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (193 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       9346
+source:   https://papyri.info/ddbdp/bgu;3;784
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους α Πουβλίου Ἑλουίου
+r.2    Περτίνακος Καίσαρος τοῦ κυρίου Φαρμοῦθι ϛ. διέγραψε Ἀπίωνι πράκτορι ἀργυρικῶν
+r.3    διὰ Ζωσίμου βοηθοῦ Καλλαιν …
+
+[TRANSLATION]
+# HGV-EN: Year 1 of Publius Helvius Caesar, the lord, Pharmouthi 6. Paid to Apion, collector of money taxes, through Zosimos, assistant, (by) Kallain[– – –
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

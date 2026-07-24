@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 1.62
+label:    O.EDFOU 1.62
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     90 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (90 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       47002
+source:   https://papyri.info/ddbdp/o.edfou;1;62
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    διέγραψεν Θήδετος Ἀλεξίωνος
+r.2    ὑπὲρ μερισμοῦ ι ἔτους Δομιτιανοῦ
+r.3    ὀβολοὺς ζ η ἔτους ὀβολοὺς γ
+r.4    Φίλιππος υἱὸς θ ἔτους ὀβολοὺς ζ η ἔτους ὀβολοὺς γ
+r.5    ἔτους ι Χοίακ η
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

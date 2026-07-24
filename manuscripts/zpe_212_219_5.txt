@@ -1,0 +1,34 @@
+[META]
+id:       ZPE 212.219_5
+label:    ZPE 212.219_5
+name:     Receipt — Elephantine
+genre:    receipts
+date:     153 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (153 CE)
+# hgv-keywords: Quittung — Steuer — Boot — Wachposten — Geld
+tm:       832351
+source:   https://papyri.info/ddbdp/zpe;212;219_5
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1    Παπρεμείθης Ἀμμωνίου
+r.2    καὶ Ἀμμωνιανὸς καὶ οἱ σὺν αὐτοῖς
+r.3    χειρίζοντες πρακτορείας ἀργυρικῶν
+r.4    Ἐλεφαντίνης. διέγραψεν Παναπῶτις
+r.5    Ἀσυμβόλου ὑπὲρ μερισμοῦ ποταμοφυλακίδος στατίωνος λημμάτων ιϛ ἔτους
+r.6    δραχμὴν α πεντώβολον ἔτους ιϛ Μεσορὴ κα
+
+[TRANSLATION]
+# HGV-EN: Papremeithes son of Ammoniοs and Ammonianos (son of Ammonianos) and their associates, managers of the money tax district of Elephantine. Panapotis son of Asymbolos has paid for the contribution for the river guard boat and for a guard post, on account of the 16th year, 1 drachma 5 obols. Year 16, Mesore 21
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

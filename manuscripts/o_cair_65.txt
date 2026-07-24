@@ -1,0 +1,28 @@
+[META]
+id:       O.CAIR 65
+label:    O.CAIR 65
+name:     Receipt — Theben
+genre:    receipts
+date:     80 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (80 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       73411
+source:   https://papyri.info/ddbdp/o.cair;;65
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Νεφερῶς Πεχοίτου ὑπὲρ
+r.2    λαογραφίας Χάρακος β ἔτους δραχμὰς δέκα, βαλανευτικοῦ α ὀβολὸν α 𐅵,
+r.3    γίνονται ια ὀβολὸς α 𐅵 καὶ προσδιαγραφόμενα. ἔτους β Τίτου τοῦ κυρίου
+r.4    Μεχεὶρ λ κη. Ἡρακλείδης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

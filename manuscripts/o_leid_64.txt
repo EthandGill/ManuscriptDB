@@ -1,0 +1,38 @@
+[META]
+id:       O.LEID 64
+label:    O.LEID 64
+name:     Receipt — Theben
+genre:    receipts
+date:     50 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (50 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24636
+source:   https://papyri.info/ddbdp/o.leid;;64
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πετεμενῶφις Παμώνθου
+r.2    ὑπὲρ φοινικώνων ἱερατικῶν ι ἔτους ἀργυρίου δραχμὰς
+r.3    ὀκτὼ τετρώβολον, γίνονται δραχμαὶ η ὀβολοὶ δ 𐅵 κα[ὶ]
+r.4    πρ[ο]σδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου.
+r.5    ἔτους ια Τιβερίου Κλαυδίου Καίσαρο[ς]
+r.6    Σεβαστοῦ Γερμανικοῦ
+r.7    Αὐτοκράτορος Χοίακ
+r.8    η
+r.9    Ἀπολλώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.152
+label:    O.ONT.MUS 2.152
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75171
+source:   https://papyri.info/ddbdp/o.ont.mus;2;152
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … Ἁτρήους καὶ μέτοχοι ἐπιτηρηταὶ
+r.2    … τε Σενπετε χαίρειν.
+r.3    … ὑπὲρ Θὼθ δραχμὰς η γίνονται δραχμαὶ η.
+r.4    … Θὼθ κη
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

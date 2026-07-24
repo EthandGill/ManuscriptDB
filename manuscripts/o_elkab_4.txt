@@ -1,0 +1,30 @@
+[META]
+id:       O.ELKAB 4
+label:    O.ELKAB 4
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     150 BCE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (150 BCE)
+# hgv-keywords: Quittung — Naturalien — Steuern
+tm:       74486
+source:   https://papyri.info/ddbdp/o.elkab;;4
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    ἔτους λα Φαρμοῦθι ιϛ. ε[ἰσμεμέτρηκεν]
+r.2    εἰς τὴν ἐπιγραφὴν τοῦ αὐ[τοῦ ἔτους]
+r.3    Πχαμτερεῦς Α …
+r.4    ειου ἀρτάβας … ων ἐννέ[α 𐅵]
+r.5    γίνονται θ 𐅵.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

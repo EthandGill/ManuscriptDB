@@ -1,0 +1,30 @@
+[META]
+id:       BGU 1.346
+label:    BGU 1.346
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     198 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (198 CE)
+# hgv-keywords: Quittung — Datierung
+tm:       9068
+source:   https://papyri.info/ddbdp/bgu;1;346
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ἔτους ϛ Λουκίου Σεπτιμίου [Σεουήρου Εὐσεβοῦς]
+r.2    Περτίνακος Σεβαστοῦ καὶ Μάρκου [Αὐρηλίου Ἀντωνίνου]
+r.3    Σεβαστοῦ Παῦνι β. διέγραψε Σαβεῖν[ος ] … [ ὑπὲρ τοῦ ϛ ἔτους]
+r.4    Καραν[ί]δος δραχμὰς διακοσίας γίνονται δραχμαὶ σ.
+
+[TRANSLATION]
+# HGV-EN: Year 6 of Lucius Septimius [Severus Pius] Pertinax Augustus and Marcus [Aurelius Antoninus] Augustus, Payni 2. Sabein[os] paid [for – – – on behalf of year 6] of Karanis two hundred, = 200 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     Year 6 of Lucius Septimius [Severus Pious]
+2     Pertinax Augustus and Marcus [Aurelius Antoninus]
+3     Augustus, Payni 2, Sabein[os] paid … [on behalf of year 6]
+4     of Karan[i]dos drachmas two hundred, are drachmas 200

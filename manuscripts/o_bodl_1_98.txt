@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 1.98
+label:    O.BODL 1.98
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     123 BCE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     
+shelf:    
+content:  Receipt from Hermonthis (123 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       43559
+source:   https://papyri.info/ddbdp/o.bodl;1;98
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    ἔτους μη Φαῶφι κε [τέτακται ἐπὶ τὴν]
+r.2    ἐν Ἑρμώνθει τράπεζαν ἐφʼ ἧς Ἀμμώνιος ἀπομοίρας μ[η][ ἔτους]
+r.3    Ψεμμώνθης Παχράτου τριακοσίας
+r.4    τριάκοντα γίνονται τλ.
+r.5    Ἀμμώνιος τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

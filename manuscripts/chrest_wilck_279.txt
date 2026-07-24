@@ -1,0 +1,38 @@
+[META]
+id:       CHREST.WILCK 279
+label:    CHREST.WILCK 279
+name:     Receipt — Psenyris (Arsinoites)
+genre:    receipts
+date:     263 CE
+language: Greek (Koiné)
+found:    Psenyris (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Psenyris (Arsinoites) (263 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       9239
+source:   https://papyri.info/ddbdp/chrest.wilck;;279
+lat:      29.422542
+lon:      30.870335
+
+[GREEK]
+r.1    ἔτους ι[α] τοῦ κυρίου ἡμῶ[ν] Γαλλιηνοῦ Σεβαστοῦ
+r.2    Ἁθὺρ δ Αὐρήλιοι Ἀγαθὸς Δαίμων γυμνασιαρχήσας καὶ Ἀθανάσιος γυμνασιαρχήσας καὶ
+r.3    Σαραπ[άμ]μων καὶ Κο[π]ρῆς οἱ δύο γυμνασιαρχήσαντες εἰς χώραν ἑνὸς καὶ Σουχά[μμ]ων κοσμητεύσας δε[κ]άπρωτοι β καὶ γ τοπαρχιῶν Ἡρακλί[δου μερ]ίδος μεμετρήμεθα ἐν [θ]ησαυρῷ κώμης Ψενύρεως
+r.4    [ἀπὸ γενήματος] τοῦ διεληλυθότος ι ἔτους μέτρῳ δημοσίῳ ξεστῷ
+r.5    [σκυτάλη]ς ἐπικειμένοις ὑπὲ[ρ] κατοίκων κώμης Ψενύρεως
+r.6    [ὀνόματος Αὐρηλίου] Ταμείου [εὐ]θηνιαρχ[ή]σαντος διὰ Δίου τοῦ πρου
+r.7    δ[ημο]σίου γεωργοῦ πυροῦ [ἀρ]τάβας ε[ἴ]κοσι, γίνονται [πυροῦ] κ.
+r.8    Αὐ[ρή]λιος Ἀγαθὸς Δαίμων γυμνασιαρχήσας βουλευτὴς σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: Year 1[1] of our lord, Gallienus Augustus, Hathyr 4. We, the Aurelii Agathos Daimon, ex-gymnasiarch, and Athanasios, ex-gymnasiarch, and Sarap[am]mon and Ko[p]res, both ex-gymnasiarchs, (both) in the capacity of one (dekaprotos), and Soucha[mm]on, ex-kosmetes, the dekaprotoi of toparchies 2 and 3 of the Herakleides division, have had measured to us at the granary of the village of Psenyris from the produce of the past 10th year by the public measure levelled by laying on the strickle for the tax on the katoikoi of the village of Psenyris in the name of Aurelius Tameios, ex-eutheniarches, through Dios, son of Prou , tenant farmer of public land, twenty artabas of wheat = 20 artabas of wheat. (m. 2) I, Aurelius Agathos Daimon, ex-gymnasiarch, councillor, have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

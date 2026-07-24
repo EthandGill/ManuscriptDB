@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.64
+label:    O.STRAS 1.64
+name:     Receipt — Theben
+genre:    receipts
+date:     37 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (37 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75664
+source:   https://papyri.info/ddbdp/o.stras;1;64
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Θερμοῦθις Ὥρου ὑπὲρ λαογραφίας κγ ἔτους δραχμὰς δέκα
+r.2    [γίνονται δραχμαὶ ι] καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου. ἔτους κγ Τιβερίου
+r.3    [Καίσαρος Σεβ]αστοῦ Φαμενὼθ ιη.
+r.4    … ι σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

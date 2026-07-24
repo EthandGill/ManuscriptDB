@@ -1,0 +1,36 @@
+[META]
+id:       ZPE 212.220_6
+label:    ZPE 212.220_6
+name:     Receipt — Elephantine
+genre:    receipts
+date:     178 CE – 179 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (178 CE – 179 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       832352
+source:   https://papyri.info/ddbdp/zpe;212;220_6
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1    [Ἰούλιος Σερῆνος πράκτωρ ἀργυρικῶν Ἐλεφαντίνης καὶ Ἀπ]ολλώνιος
+r.2    [Ἀμωνίου καὶ Οὐαλερίων] [Μημ]ερκ ἀναδοθέντες
+r.3    [εἰς κλῆρον ἀντὶ Ἁρπχήμιος. διέγραψεν] [Πα]πρεμῆθις Παχνούβιος
+r.4    [μητρὸς] … [ὑπὲρ] [μερισ]μῶν ιη ἔτους ὑπὲρ
+r.5    [φρουρίου περὶ φοινικῶνα] [καλούμ]ενον Σανδάντ
+r.6    [δραχμὰς δέκατέσσαρες ὀβολὸν ἡμιωβέλιον δίχαλκον. ἔτους] ιθ
+r.7    … [Ἰούλιος Σερῆνος] [συν]απέσχον
+
+[TRANSLATION]
+# HGV-EN: [Julius Serenus, collector of money taxes at Elephantine, and] Apollonios [son of Amonios and Valerion son of] Memerk( ) who are nominated [to the collectorship in place of Harpchemis. Pa]premethis son of Pachnoubis, [his mother being NN has paid] for the contributions of the 18th year, for the [military station around the palm yard which was call]ed Sandantes, [fourteen drachmas, 1/2 obol, 2 chalkoi] Year 19, [month, day. 2nd hand I, Julius Serenus,] have received together (with my colleagues).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

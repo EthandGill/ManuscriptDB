@@ -1,0 +1,40 @@
+[META]
+id:       P.RYL 4.554
+label:    P.RYL 4.554
+name:     Documentary papyrus — Philadelphia (Arsinoites)
+genre:    documents
+date:     258 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Philadelphia (Arsinoites) (258 BCE)
+# hgv-keywords: Liste — Güter — Einleitung — Lieferung
+tm:       2410
+source:   https://papyri.info/ddbdp/p.ryl;4;554
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ἥκει σοι μετὰ τῶν
+r.2    Ἀπολλωνίου ξενίων
+r.3    παρὰ Ἀβδημοὺν Σιδωνίου
+r.4    ἃ ἀπέστειλεν Ζήνων
+r.5    ὁ ἀδελφὸς αὐτοῦ ἐκ Ῥόδου,
+r.6    ὧν τὰ τέλη καταβέβληκε
+r.7    Ἀριστεύς.
+r.8    … ιβ
+r.9    … ων Νικάνορι ἐληλυθότων
+
+[TRANSLATION]
+# HGV-EN: ‘There have arrived for you along with the gifts for Apollonius from Abdemoun the Sidonian the following articles which his brother Zenon sent from Rhodes, the taxes on which have been paid by Aristeus: …’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

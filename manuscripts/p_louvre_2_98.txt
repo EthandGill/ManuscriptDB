@@ -1,0 +1,44 @@
+[META]
+id:       P.LOUVRE 2.98
+label:    P.LOUVRE 2.98
+name:     Petition — unbekannt
+genre:    petitions
+date:     157 BCE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Petition from unbekannt (157 BCE)
+# hgv-keywords: Ende einer Eingabe
+tm:       88764
+source:   https://papyri.info/ddbdp/p.louvre;2;98
+lat:      
+lon:      
+
+[GREEK]
+r.1    … ε …
+r.2    … ετια …
+r.3    … ὑπομ[νημ] …
+r.4    σ … μ … εωσ … [ διὸ]
+r.5    ἀξιῶ, ἐὰν φαίνηται, [πέμψαι] … [τῶν περὶ σὲ]
+r.6    μαχαιροφόρων, ὃς κατα[στήσει αὐτὸν ἐπὶ σὲ]
+r.7    ὅπως, ἐὰν ᾖ οἷα γράφω, ἐπ[αναγκασθῆι τὰ δίκαιά μοι]
+r.8    ποιῆσαι. τούτου δὲ γεν[ομένου ] …
+r.9    Θεοδότωι. εξ εἰ ἔστι …
+r.10   … πόλ- . ἐὰν δὲ … αι …
+r.11   … ἔτους κδ Μεχεὶρ ιϛ …
+
+[TRANSLATION]
+# HGV-EN: ... notification ... ... wherefore I ask, if it seems best, that you send ... NN, one of your sword bearers, to bring him before you, so that, if these matters are such as I write, he may be forced to do me justice. For once this has happened … (in a second hand) To Theodotos. ... if it is ... ... but if ... ... year 20, Mecheir 16 ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

@@ -1,0 +1,30 @@
+[META]
+id:       O.BANKES 31
+label:    O.BANKES 31
+name:     Receipt — Elephantine
+genre:    receipts
+date:     130 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (130 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, merismos potamophylakidon)
+tm:       699504
+source:   https://papyri.info/ddbdp/o.bankes;;31
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Οὐά[λεντος] βοη[θοῦ]· δι[έγραψεν] [Πετορζμῆθις]
+r.2    Πουήρεως μητρὸς Τ[ισάτιος] [ὑπὲρ]
+r.3    μερισμοῦ ποταμο[φυλακίδων] [ιδ ἔτους δραχμ] …
+r.4    ἔτους ιδ Ἁδριαν[οῦ τοῦ κυρίου,]
+r.5    Τῦβι θ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

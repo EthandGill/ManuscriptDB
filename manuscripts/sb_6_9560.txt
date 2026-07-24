@@ -1,0 +1,34 @@
+[META]
+id:       SB 6.9560
+label:    SB 6.9560
+name:     Receipt — Theadelphia (Arsinoites)
+genre:    receipts
+date:     52 CE – 53 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Theadelphia (Arsinoites) (52 CE – 53 CE)
+# hgv-keywords: Penthemeros - Quittung — Deicharbeiten — Namen
+tm:       14265
+source:   https://papyri.info/ddbdp/sb;6;9560
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ἔτους τρεισκαιδεκάτου Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.2    Αὐτοκράτορος. ἠργάσατο ἐν τῇ πλωτῇ τὴν πενθήμερον ὑπὲρ
+r.3    χωμάτων τοῦ αὐτοῦ ἔτους Θεαδελφίας Αὐνῆ[ς]
+r.4    Ἁρθώτου. Διονύσιος σεσημείωμαι.
+r.5    Ἁρποχράτεις σεσημείωμαι.
+r.6    Δίδυμος γραμματεὺς βασιλικοῦ γραμματέως σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: In the 13th year of Tiberius Claudius Caesar Augustus Germanicus Imperator. Aulaios, son of Harthotos, of Theadelphia, has completed his five-days corvee labor on the canal, concerning the dikes, in the same year. (2nd Hd) I, Dionysius, have signed. (3rd Hd) I, Harpochratis, have signed. (4th Hd) I, Didymus, secretary of the royal scribe, have signed
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

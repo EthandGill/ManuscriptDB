@@ -1,0 +1,30 @@
+[META]
+id:       O.BANKES 41
+label:    O.BANKES 41
+name:     Receipt — Elephantine
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuer (?) (Preis für ein Badetuch, time balanariu)
+tm:       699514
+source:   https://papyri.info/ddbdp/o.bankes;;41
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Κλαύδιος Ῥουφῖνος Ἁρπαῆσι
+r.2    χαίρειν· ἀπέσχον παρὰ σοῦ τιμὴν
+r.3    βαλαναρίου δραχμὰς τέσσαρας
+r.4    τετρώβ[ο]λον, γίνονται δραχμαὶ δ τετρώβολον.
+r.5    Κλαύδιoς Ἀχιλ[λεύς] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

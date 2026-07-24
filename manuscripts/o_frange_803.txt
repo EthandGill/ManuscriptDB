@@ -1,0 +1,30 @@
+[META]
+id:       O.FRANGE 803
+label:    O.FRANGE 803
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (601 CE – 700 CE)
+# hgv-keywords: Lettre
+tm:       220333
+source:   https://papyri.info/ddbdp/o.frange;;803
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ϫⲉ ⲉϥⲙⲟⲕϩ ⲛⲁⲩ …
+r.2    ⲃⲓⲕⲧⲱⲣ ϫⲉ ⲃⲱⲕ …
+r.3    ⲛⲁⲕ ⲉϣⲱⲡⲉ ⲕⲥⲟⲟⲩ[ⲛ] …
+r.4    ⲛⲁⲓ ⲉϣⲱⲡⲉ ⲙⲙⲟⲛ ⲟⲛ ⲧⲛⲛ[ⲁ … ]
+r.5    ⲃⲱⲕ ⲛⲧⲁⲣⲁⲭⲥ ϫⲉ …ϣⲉ ⲛⲡⲁⲥⲟⲛ ⲓⲱⲥⲏ[ⲫ … ]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

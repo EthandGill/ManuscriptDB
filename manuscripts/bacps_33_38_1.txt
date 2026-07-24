@@ -1,0 +1,25 @@
+[META]
+id:       BACPS 33.38_1
+label:    BACPS 33.38_1
+name:     Documentary papyrus — unbekannt
+genre:    documents
+date:     180 BCE – 150 BCE
+language: Greek (Koiné)
+found:    unbekannt
+held:     Cairo
+shelf:    
+content:  Documentary papyrus from unbekannt (180 BCE – 150 BCE)
+tm:       704398
+source:   https://papyri.info/ddbdp/bacps;33;38_1
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἐπὶ Παυσανία
+r.2    Δαλίου
+
+[TRANSLATION]
+# HGV-EN: In the term of Pausanias (the priest), in the month of Dalios.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

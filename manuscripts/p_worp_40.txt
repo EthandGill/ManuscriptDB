@@ -1,0 +1,36 @@
+[META]
+id:       P.WORP 40
+label:    P.WORP 40
+name:     Receipt — Elephantine
+genre:    receipts
+date:     104 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (104 CE)
+# hgv-keywords: Quittung — Steuer (Umsatzsteuer, enkyklion) — Schiff
+tm:       115569
+source:   https://papyri.info/ddbdp/p.worp;;40
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Ἀβ]ουναῖος Ἰαμβλίχου καὶ μέτοχοι
+r.2    [ἀσ]χολούμενοι ἐνκύκλιον
+r.3    [Β]ιήνχι Παχονπαέρμωνος χαίρειν.
+r.4    [ἀ]πέσχον παρὰ σοῦ τέλος πλοίου
+r.5    οὗ πέπρακας κυβερνήτῃ Κυθερίης δραχμῶν ἑξήκοντα δραχμὰς
+r.6    ἑπτὰ τριώβολον. ἔτους ζ Τραιανοῦ Καίσαρος
+r.7    [τ]οῦ κυρίου Παχὼν ια.
+
+[TRANSLATION]
+# HGV-EN: Abounaios, son of Iamblichos, and his partners occupied with the sales-tax, to Bienchis, son of Pachonpaermon, greetings. I received from you the tax in full for the sixty drachmas of the Kytheria you sold to the skipper: seven drachmas, 3 obols. Year 7 of Traianus Caesar, the lord, on the 11th of Pachon.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

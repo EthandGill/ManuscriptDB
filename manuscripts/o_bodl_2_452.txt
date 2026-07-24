@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.452
+label:    O.BODL 2.452
+name:     Receipt — Elephantine
+genre:    receipts
+date:     88 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (88 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71153
+source:   https://papyri.info/ddbdp/o.bodl;2;452
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Ψάις
+r.2    Πατρεμίθεως ὑπὲρ λαογραφίας
+r.3    ἕκτου ἔτους Δομιτιανοῦ
+r.4    τοῦ κυρίου ἐπὶ λόγου δραχμὰς η
+r.5    [ὁ]μοίως ἔτους ζ … Σω[κράτης]
+r.6    ζ ἔτους Παχὼν …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

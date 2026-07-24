@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.179
+label:    O.STRAS 1.179
+name:     Receipt — Theben
+genre:    receipts
+date:     35 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (35 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75776
+source:   https://papyri.info/ddbdp/o.stras;1;179
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πτολεμαῖος Ἀσκλᾶ
+r.2    Μαιεύρι Ὥρου.
+r.3    ἀπέχω παρὰ σοῦ ὑπὲρ βαλανείου
+r.4    δραχμὰς δ. ἔτους κα Τιβερίου Καίσαρος Σεβαστοῦ
+r.5    Μεσορὴ λ.
+r.6    Πτολεμαῖος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

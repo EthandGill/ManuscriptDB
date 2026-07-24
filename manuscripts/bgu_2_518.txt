@@ -1,0 +1,56 @@
+[META]
+id:       BGU 2.518
+label:    BGU 2.518
+name:     Receipt — Herakleia (Arsinoites)
+genre:    receipts
+date:     220 CE
+language: Greek (Koiné)
+found:    Herakleia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Herakleia (Arsinoites) (220 CE)
+# hgv-keywords: Quittungen — Steuern — Geld
+tm:       9213
+source:   https://papyri.info/ddbdp/bgu;2;518
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους δευτέρου
+r.2    Αὐτοκράτορος Καίσαρος
+r.3    Μάρκου Αὐρηλίου Ἀντωνίνου
+r.4    Εὐσεβοῦς Εὐτυχοῦς
+r.5    Σεβαστοῦ Ἐπεὶφ η.
+r.6    Ὡρίων κ[αὶ] μέτοχοι κώμης
+r.7    Ἡρακλείας στεφανικῶν
+r.8    διέγραψαν στεφανικῶν δραχμὰς
+r.9    εἴκοσι τέσσαρες γίνονται δραχμαὶ κδ.
+r.10   ἄλλας δραχμὰς η. Μεσορὴ ἄλλας δραχμὰς η.
+r.11   Θὼθ γ ἄλλας δραχμὰς η. Φαῶφι δραχμὰς η. Ἁθὺρ
+r.12   δραχμὰς [τέσσ]αρες γίνονται δραχμαὶ δ. Χοιὰκ
+r.13   δραχμὰς τέσ[σα]ρες, δραχμαὶ δ. Τῦβι δραχμὰς τέσσαρες, δραχμαὶ δ. Μεχεὶρ δραχμὰς τέσσαρες, δραχμαὶ δ. Φαμ[εν]ὼθ …
+r.14   θι δραχμὰς δ. Παχὼν [δ]ραχμὰς τέσσαρες
+r.15   γίνονται δραχμαὶ δ. ἄλλας δραχμὰς δ. Παῦνι δραχμὰς τέσσαρες γίνονται δραχμαὶ δ. Ἐπεὶφ δραχμὰς τέσσαρες
+r.16   γίνονται δραχμαὶ δ. Μεσορὴ δρ[α]χμὰς τέσσαρες γίνονται δραχμαὶ δ.
+r.17   Φαῶφι δραχμὰς τέσσαρες γίνονται δραχμαὶ δ.
+
+[TRANSLATION]
+# HGV-EN: Second year of Imperator Caesar Marcus Aurelius Antoninus Pius Felix Augustus, Epeiph 8. Horion and his associates, (collectors) of crown taxes of the village of Herakleia. Paid for the crown taxes twenty four drachmas, = 24 drachmas. (m. 2) a further 8 drachmas. Mesore a further 8 drachmas. Thoth of year 3 a further 4 8 drachmas: Phaophi 8 drachmas: Hathyr four drachmas, = 4 drachmas: Choiak four drachmas, 4 drachmas: Tybi four drachmas, 4 drachmas: Mecheir four drachmas, 4 drachmas: Phamenoth 4 drachmas: Pachon four drachmas, = 4 drachmas: a further 4 drachmas: Payni four drachmas, = 4 drachmas: Epeiph four drachmas, = 4 drachmas: Mesore four drachmas,= 4 drachmas; Phaophi four drachmas, = 4 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

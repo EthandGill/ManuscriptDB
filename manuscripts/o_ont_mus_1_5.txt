@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 1.5
+label:    O.ONT.MUS 1.5
+name:     Receipt — Theben
+genre:    receipts
+date:     189 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (189 BCE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75028
+source:   https://papyri.info/ddbdp/o.ont.mus;1;5
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιϛ Φαμενὼθ ε μεμέτρηκεν εἰς τὸ
+r.2    αὐτὸ ἔτος Θοτσύτης Πετσαράπιος
+r.3    πυροῦ ἀρτάβην μίαν γίνεται α
+r.4    Κέρδων
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

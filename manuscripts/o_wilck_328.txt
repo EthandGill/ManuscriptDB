@@ -1,0 +1,30 @@
+[META]
+id:       O.Wilck. 328
+label:    O.Wilck. 328
+name:     Receipt — Theben
+genre:    receipts
+date:     99 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (99 BCE)
+# hgv-keywords: Quittung — Geld
+tm:       76875
+source:   https://papyri.info/ddbdp/o.wilck;;328
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Σαραπίων καὶ Σωκράτης
+r.2    καὶ Ἀπολλώνιος Ὥρωι χαίρειν.
+r.3    ἔχομεν ἀπὸ τοῦ ἑσταμένου
+r.4    τέλους τοῦ ιε ἔτους χαλκοῦ διακοσίας γίνονται σ.
+r.5    ἔτους ιε Μεσορὴ κθ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

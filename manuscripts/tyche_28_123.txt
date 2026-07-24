@@ -1,0 +1,56 @@
+[META]
+id:       TYCHE 28.123
+label:    TYCHE 28.123
+name:     Documentary papyrus — Arsinoites ?
+genre:    documents
+date:     35 CE
+language: Greek (Koiné)
+found:    Arsinoites ?
+held:     Ann Arbor
+shelf:    
+content:  Documentary papyrus from Arsinoites ? (35 CE)
+# hgv-keywords: Abrechnung — Weber
+tm:       316319
+source:   https://papyri.info/ddbdp/tyche;28;123
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [ἔτους] … [Τιβερίου Καίσαρο]ς Σεβαστοῦ Φαῶφι ιϛ λόγος ὑφάντρου
+r.2    … [Ἀ]γαθοῦτος καὶ Ἡρῶτος ιϛ εἰσπορευωντ …
+r.3    … γέρδιοι β ἀντυπ δ
+r.4    … [Δ]ημητροῦς καὶ Ἐγγλογὴ γέρδιοι δ ἀντυπ …
+r.5    … Χαιρᾶς καὶ Δημητροῦς γέρδιοι δ ἀντυπ κα
+r.6    … [Δημη]τροῦς καὶ Ἐγγλογὴ ἀντυπ ε
+r.7    … [Δημη]τροῦς καὶ ἄλλη γυνὴ γέρδιοι δ ἀντυπ ι
+r.8    … ετε γυναῖκες γέρδιοι ζ καὶ ἄρσενες …
+r.9    … [το]ῦ στατῆρος γυναῖκες γέρδιοι ε γίνεται τῶν γυναικῶν λόγος ἀργυρίου δραχμαὶ δ
+r.10   … [ἀρ]σένων γερδίων ἀργυρίου δραχμαὶ η γίνεται τὸ πᾶν ἀργυρίου δραχμαὶ ιβ …
+r.11   [ἔτους] … [Τιβερίου Καίσαρο]ς Σεβαστοῦ Χοίακ ιϛ λόγος ὑφάντρου
+r.12   … [Σ]εραπίωνος Μ … νο καὶ Μίτου Τα. …
+r.13   … ἀντυπ ι
+r.14   … ἀντυπ ιβ
+r.15   … ἀντυπ ϛ
+r.16   … ἀντυπ ιε
+r.17   … τοῦ στατῆρος γέρδιοι …
+
+[TRANSLATION]
+# HGV-EN: [Year x of Tiberius Caesar] Augustus Phaophi 16 account of charge for weaving. […] of Agathous and Heros 16th going into […] weavers 2, patterns 4. […] Demetrous and Ekloge, weavers 4, patterns […]. […] Chairas and Demetrous, weavers 4, patterns 21. […] Demetrous and Ekloge, patterns 5. […] Demetrous and another woman, weavers 4, patterns 10. […] women weavers 7 and men […] of the stater women weavers 5, total of the account of women 4 silver drachmas. […] of the men weavers 8 silver drachmas, total 12 silver drachmas ... [Year x of Tiberius Caesar] Augustus Choiak 16 account of charge for weaving. […] Serapion ... and Mitos son of Ta[…] patterns 10 […] patterns 12 […] patterns 6 […] patterns 15 […] of the stater weavers […].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

@@ -1,0 +1,26 @@
+[META]
+id:       P.BAGNALL 21
+label:    P.BAGNALL 21
+name:     Receipt — Elephantine
+genre:    receipts
+date:     221 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (221 BCE)
+# hgv-keywords: Quittung — Steuer ("Abgabe der Syeniten")
+tm:       219299
+source:   https://papyri.info/ddbdp/p.bagnall;;21
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔτους β Παμενὼθ κδ. τέτακται Πᾶτις Ἰμούθου
+r.2    Συηνιτῶν λογείαν διὰ
+r.3    Δώρου δραχμὰς β.
+
+[TRANSLATION]
+1     
+2     
+3     

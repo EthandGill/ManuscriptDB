@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 1
+label:    O.THEB 1
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     156 BCE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     Toronto
+shelf:    
+content:  Receipt from Hermonthis (156 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       43563
+source:   https://papyri.info/ddbdp/o.theb;;1
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    ἔτους κε Μεσορὴ κ
+r.2    τέτακται ἐπὶ τὴν ἐν Ἑρμώνθει τράπεζαν
+r.3    ἐφʼ ἧς Ἀπολλώνιος ἀπομοίρας κε ἔτους
+r.4    Ψεναπάθης …
+r.5    χαλκοῦ ἰσονόμου …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.325
+label:    O.STRAS 1.325
+name:     Receipt — Theben
+genre:    receipts
+date:     200 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (200 BCE – 1 BCE)
+# hgv-keywords: Quittung — Steuern — Spreu
+tm:       75915
+source:   https://papyri.info/ddbdp/o.stras;1;325
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους β Φαρμοῦθι
+r.2    παραδέδωκεν Ἀμενώθης
+r.3    Ἀμενώθου ἀχύρου μώια
+r.4    τριάκοντα γίνονται μώια λ. Δίδυμος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

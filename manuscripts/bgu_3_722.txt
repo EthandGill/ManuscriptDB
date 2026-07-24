@@ -1,0 +1,40 @@
+[META]
+id:       BGU 3.722
+label:    BGU 3.722
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     161 CE – 162 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (161 CE – 162 CE)
+# hgv-keywords: Quittung — Penthemeros
+tm:       9320
+source:   https://papyri.info/ddbdp/bgu;3;722
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    [ἔτο]υς β Αὐτοκράτορος [Καίσα]ρος
+r.2    Μάρκου Αὐρηλίου Ἀντωνείνου
+r.3    Σεβαστοῦ καὶ Αὐτοκράτορος
+r.4    Καίσαρος Λουκίου Αὐρηλίου Οὐήρου
+r.5    Σεβαστοῦ. εἴργασται ὑπὲρ χωματικῶν τοῦ διεληλυθότος α ἔτους
+r.6    Ἁθὺρ κ[δ] ἕως κη ἐν ὀρινῇ Πατσώντεως
+r.7    Καρα[νίδο]ς Πτολεμαῖος
+r.8    Μαρρ[εί]ους ὑπὲρ Παπεῖτος
+r.9    Φανομγέως Θασῆτος
+
+[TRANSLATION]
+# HGV-EN: Year 2 of Imperator [Caesa]r Marcus Aurelius Antoninus Augustus and Imperator Caesar Lucius Aurelius Verus Augustus. Work has been done on the dikes for the past year 1, Hathyr 2[4] to 28 in the Patsontis desert canal for Kara[nis] (m. 2) by Ptolemaios, son of Mar[res], on behalf of Papeis, son of Phanomgeus, the son of Thases.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

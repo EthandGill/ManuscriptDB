@@ -1,0 +1,30 @@
+[META]
+id:       P.ABERD 78
+label:    P.ABERD 78
+name:     Receipt — Elephantine
+genre:    receipts
+date:     158 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (158 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       24361
+source:   https://papyri.info/ddbdp/p.aberd;;78
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Ἀμμώνιος καὶ Σωκράτης οἱ β πράκτορες ἀργυρικῶν Ἐλεφαντίνης.
+r.2    διέγραψε Μηνόφιλος μείζων Ὀρβάϊτος μητρὸς Τισᾶτις
+r.3    ὑπὲρ μερισμῶν ποταμοφυλακίδος κα ἔτους ὀβολοὺς δ 𐅵 χαλκοῦς 2,
+r.4    κοστωδίας ἡμιωβέλιον , στατίωνος ἡμιωβέλιον πλοίου πραιτωρίου ὀβολὸν. ἔτους κα Ἀντωνίνου
+r.5    Καίσαρος τοῦ κυρίου Ἐπὶφ θ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

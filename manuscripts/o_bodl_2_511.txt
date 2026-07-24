@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.511
+label:    O.BODL 2.511
+name:     Receipt — Theben
+genre:    receipts
+date:     97 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (97 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71209
+source:   https://papyri.info/ddbdp/o.bodl;2;511
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Ψεναμοῦνις Ἁρφμόιτος
+r.2    ὑπὲρ λαογραφίας Ἀγορῶν Βορρᾶ α ἔτους
+r.3    δραχμὰς δέκα , βαλανευτικοῦ α ὀβολὸν α 𐅵 γίνονται δραχμαὶ ια ὀβολὸς α 𐅵 καὶ προσδιαγραφόμενα.
+r.4    ἔτους α Νέρουα τοῦ κυρίου
+r.5    Μεχεὶρ λ‡ια. Ἰσχυρίων σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

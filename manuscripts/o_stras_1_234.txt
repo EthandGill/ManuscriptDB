@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.234
+label:    O.STRAS 1.234
+name:     Receipt — Theben
+genre:    receipts
+date:     148 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (148 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75831
+source:   https://papyri.info/ddbdp/o.stras;1;234
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀπολλόδωρος καὶ Ψεναµοῦνις πράκτορες ἀργυρικῶν Ἀγορᾶς β[ορρᾶ]
+r.2    Πεκύσι Πικῶτος νεωτέρου Φαήσιος. ἔσχομεν ὑπὲρ σκοπέλων
+r.3    καὶ φυλάκων ια ἔτους ῥυπαρὰς δραχμὰς γ πεντώβολον γίνονται ῥυπαραὶ δραχμαὶ γ πεντώβολον. ἔτους ια Ἀντωνίνου
+r.4    [Καί]σαρος τοῦ [κυρίου] Μεχεὶρ η. Ὀννῶφρις σεσημείωμαι.
+r.5    Ψεναµοῦνις σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

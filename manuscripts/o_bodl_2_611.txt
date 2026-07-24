@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.611
+label:    O.BODL 2.611
+name:     Receipt — Theben
+genre:    receipts
+date:     87 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (87 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71302
+source:   https://papyri.info/ddbdp/o.bodl;2;611
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πεκύσιος Ἡρᾶτος ὑπὲρ χωματικοῦ Χάρακος
+r.2    ϛ ἔτους δραχμὰς ϛ τετρώβολον βαλανευτικοῦ
+r.3    ὀβολοὺς δ 𐅵 γίνονται ζ ὀβολοὶ β 𐅵 καὶ προσδιαγραφόμενα.
+r.4    ἔτους ζ Δομιτιανοῦ τοῦ κυρίου
+r.5    μηνὸς Σεβαστοῦ λ‡β. Ἀπολλόδωρος Ἡρακλείδου σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

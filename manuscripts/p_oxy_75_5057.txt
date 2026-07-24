@@ -1,0 +1,42 @@
+[META]
+id:       P.Oxy. 75.5057
+label:    P.Oxy. 75.5057
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (101 CE – 300 CE)
+# hgv-keywords: Einladung (doppelte Ausfertigung) — Essen — Hochzeit des Sohnes
+tm:       128898
+source:   https://papyri.info/ddbdp/p.oxy;75;5057
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [ἐρωτ]ᾷ σε Ἡραῒς
+r.2    [δειπνῆσα]ι εἰς γάμους
+r.3    [τοῦ υἱοῦ] αὐτῆς ἐν τῷ
+r.4    [μεγάλῳ] Θοηρείῳ αὔ[ριον ἥ]τ[ι]ς ἐστὶν
+r.5    [κϛ ἀπὸ ὥ]ρας θ.
+r.6    ἐρωτᾷ σε Ἡραῒς
+r.7    δειπνῆσαι εἰς γάμους
+r.8    τοῦ υἱοῦ αὐτῆς ἐν τῷ
+r.9    μεγάλῳ Θοηρείῳ αὔριον ἥτις ἐστὶν κϛ ἀπὸ
+r.10   ὥρας θ.
+
+[TRANSLATION]
+# HGV-EN: Herais asks you to dine on the occasion of the wedding of her son, in the Great Thoëreum, tomorrow, which is the 26th, from the 9th hour on. (R. Kritzer)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

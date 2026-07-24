@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 12.1484
+label:    P.Oxy. 12.1484
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     101 CE – 225 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (101 CE – 225 CE)
+# hgv-keywords: Einladung zu einem Fest im Tempel von Thoeris — Volljährigkeit eines Mitglieds der Familie
+tm:       28996
+source:   https://papyri.info/ddbdp/p.oxy;12;1484
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐρωτᾷ σε Ἀπολλώνιος δειπνῆσαι εἰς
+r.2    [κ]λίνην τοῦ κυρίου
+r.3    Σαράπιδος ὑπὲρ μαλλοκουρίων τῶν
+r.4    [υἱῶν μου] ἐν τῷ Θ[ο][ηρίῳ. ] …
+
+[TRANSLATION]
+# HGV-EN: Apollonius requests you to dine at the table of the lord Sarapis on the occasion of the approaching coming of age of his brothers at the temple of Thoëris...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

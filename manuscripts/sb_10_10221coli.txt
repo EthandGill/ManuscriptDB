@@ -1,0 +1,30 @@
+[META]
+id:       SB 10.10221coli
+label:    SB 10.10221coli
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     18 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (18 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       16667
+source:   https://papyri.info/ddbdp/sb;10;10221coli
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [ἔτους ] … [ Τιβερίου Καίσαρος Σεβ]αστοῦ,
+r.2    … διαγεγράφηκεν γερδιακοῦ χη Θ[ο]ώ[ν]ιος ἀπελεύθερος
+r.3    [Πτολεμαίου ][Δ]εφ … σίωνος δραχμὰς ἑπτὰ τριώβολον, γίνονται ζ τριώβολον [καὶ τῇ ] … τοῦ …
+r.4    [δραχμὰς ἑπτὰ τριώβολον, γίνονται ζ] τριώβολον [καὶ] τῇ … τοῦ … [δραχμὰς ἑ]π[τὰ ][τρι]ώβολον,
+r.5    [γίνονται] ζ τριώβολον καὶ τῇ κα τοῦ Παχὼν [δραχμὰς] ἕξ, γίνονται δραχμαὶ ϛ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.923
+label:    O.BODL 2.923
+name:     Receipt — Theben
+genre:    receipts
+date:     183 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (183 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71613
+source:   https://papyri.info/ddbdp/o.bodl;2;923
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ κδ τοῦ κγ ἔτους
+r.2    ὀνόματος Παοῦτος Σενέφιος
+r.3    ὑπὲρ γεωμετρίας κγ ἔτους Χάρακος δραχμὰς δύο τριώβολον
+r.4    γίνονται δραχμαὶ β τριώβολον. … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

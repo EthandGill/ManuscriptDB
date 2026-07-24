@@ -1,0 +1,52 @@
+[META]
+id:       P.HIB 1.73
+label:    P.HIB 1.73
+name:     Letter — Oxyrhynchites
+genre:    letters
+date:     244 BCE – 243 BCE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Letter from Oxyrhynchites (244 BCE – 243 BCE)
+# hgv-keywords: Brief — Antigonos an Dorion — Skizze — Rückgabe eines Esels
+tm:       8222
+source:   https://papyri.info/ddbdp/p.hib;1;73
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Ἀντίγ[ονος Δωρί]ωνι χαίρειν. ἔ[γραψας περὶ Καλλιδρό]μου τ[οῦ Καλλικρά]του ὥ[στε ἔ]τι καὶ νῦν ἐπαν[αγκάσαι αὐτὸν τὸν ὄνον]
+r.2    ἀποδοῦν[αι] [τῶι κυρί]ωι [ἢ τι]μὴν αὐτῶι
+r.3    ὁ Καλλίδρο[μος] δὲ τὸν Δωρίων[α ] …
+r.4    ὅπως … ἐνέγκηι δ … να ἀπολυ …
+r.5    πρᾶξαι δ[ὲ αὐ]τὸν τιμὴν τοῦ ὄ[νου δραχμὰς κ. ἐγὼ οὖν ἡσυ]χῆι μὲν κα[τὰ τὴ]ν γραφεῖσάν μο[ι ὑπὸ σοῦ ἐπιστολὴν]
+r.6    ἀπήγαγον [τὸν] Κα[λλίδ]ρομον ε[ἰς τὸ ἐν Σινάρυ δεσμω]τήριον ἵνα τ[ὸ ὑποζ]ύγιον ἀπ[οδῶι Δωρίωνι, Πάτρων δὲ]
+r.7    ὁ ἀρχιφυλακίτης τῆ[ς κάτω] τοπαρχίας παρ[αγε]νόμενο[ς] ε[ἰς τὸ δεσμωτήριον]
+r.8    τὸ ἐν Σινάρυ ἐξήγαγεν τὸν Καλλίδρομον [ἐκ τοῦ δεσμωτηρίου]
+r.9    ὥστε μὴ δύνασθαι ἡμᾶς τὴν πρᾶξιν π[οιήσασθαι ] κατὰ τὸ
+r.10   διάγραμμα τόν τε ὄνον ἀναγαγ[ὼν εἰς τὴν οἰκίαν]
+r.11   καὶ ἔχων ἐν Τακόναι παρʼ αὑτῶι ἐκ μέσου ἀ[φῄρηκεν αὐτὸν.]
+r.12   εἰ οὖν μὴ ἠρρωστήσαμεν επ …
+r.13   εἰλήφειν ἂν παρʼ αὐτοῦ διά [τινος μαχαιροφό]ρου. ἔγραψα οὖν σοι περὶ τούτων [ὅπως εἰδῇς εἶναι]
+r.14   αἴτιον τοῦ μὴ γενέσθαι τῶι Δω[ρίωνι ἀπόδοσιν τὴν]
+r.15   Πάτρωνος βίαν, ὃς ἀπειθῶν δια[τετέλεκε τοῖς πα]ρὰ σοῦ προστάγμασιν. ἔ[ρρωσο. ἔτους δ ] …
+
+[TRANSLATION]
+# HGV-EN: Antigonos to Dorion, greetings. You wrote concerning Kallidromos: for me now, at last, to force him to give back the donkey or pay him (i.e., the donkey’s owner) its value. But Kallidromos… Dorion… to exact from him the value of the donkey, 20 drachmas. Therefore quietly, in accordance with the letter you wrote me, I led Kallidromos off to the desmôtêrion in Sinaru so that he might give the donkey back to Dorion; but Patron, the phylakitês, arriving at the desmôtêrion, released Kallidromos from the desmôtêrion, with the result that I could not exact the money. He led the donkey off to his house and is keeping it there, out of sight. If I had not been unwell, I would have taken it from him by means of a machairophoros. I have written to you concerning these matters so that you may know that the violence of Patron is responsible for the fact that the restoration to Dorion did not take place. Patron has continued to disobey your commands. Farewell. Year 4, …. (J. Bauschatz, Law and Enforcement, pp108–109)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

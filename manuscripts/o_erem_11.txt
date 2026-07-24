@@ -1,0 +1,26 @@
+[META]
+id:       O.EREM 11
+label:    O.EREM 11
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     146 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (146 CE)
+# hgv-keywords: Quittung — Abgaben
+tm:       18310
+source:   https://papyri.info/ddbdp/o.erem;;11
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    διέγραψε Παγκ Παχνούβιος αρκ
+r.2    λαογραφίας θ ἔτους Ἀντωνίνου Καίσαρος
+r.3    τοῦ κυρίου δραχμὰς δ γίνονται δραχμαὶ δ. ἔτους θ Φαρμοῦθι κγ.
+
+[TRANSLATION]
+1     
+2     
+3     

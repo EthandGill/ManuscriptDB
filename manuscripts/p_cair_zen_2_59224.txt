@@ -1,0 +1,40 @@
+[META]
+id:       P.Cair.Zen. 2.59224
+label:    P.Cair.Zen. 2.59224
+name:     Letter — Arsinoites
+genre:    letters
+date:     253 BCE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Letter from Arsinoites (253 BCE)
+# hgv-keywords: Brief — Teos an Zenon — Überfall — Anzeige — Eingabe — Festnahme
+tm:       869
+source:   https://papyri.info/ddbdp/p.cair.zen;2;59224
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ζήνων[ι ][ χα]ίρειν Τ[εῶ]ς. π[ορείαν]
+r.2    μὲν οὖν μ[ου] ποιουμέ[νου] εἰς Φιλα[δέλφει]αν, περιεκ[όπ]ην ὑπὸ λῃστοῦ ἀποδ[ημη]σας οὖν εἰς [Ἀρσ]ινοίδα εὑρίσκω τὸν [ἄνθρωπον]
+r.3    τὸν περικ[όψ]αντά με [κ]αὶ παρέδ[ειξα αὐ]τὸν Ἑρμάε[ι] τῶι ἐκεῖ ἀρχ[ιφυ]λακίτ[ηι. καλῶς]
+r.4    οὖν ποιήσεις γράψας πρὸς [Ἑρμ]άιν ἐπ[ιστολήν],
+r.5    ὅπως ἂν τὸ σῶμα ἀπ[οκα]ταστή[σηι πρὸς σέ, ]
+r.6    ἵνα ἐπὶ σὲ [κα]ταφυγὼν τοῦ δικαίο[υ τύχω. ]
+r.7    εὐτύ[χει].
+r.8    ἔτους λβ, Ἁθὺρ ιε. Τεῶς
+r.9    λείας.
+
+[TRANSLATION]
+# HGV-EN: To Zenon, greetings, Teos. While I was making the journey to Philadelphia, I was attacked by a robber. Later, on a visit to Arsinoë, I found the man who had attacked me and pointed him out to Hermais, the archiphylakitês there. Please write a letter to Hermais so that he may send this person to you, so that I, who have fled to you, may receive justice. Farewell. Year (?) 32, Hathyr 15. Teos (concerning) robbery. (J. Bauschatz, Law and Enforcement, p. 225)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

@@ -1,0 +1,26 @@
+[META]
+id:       P.MIL 2.26
+label:    P.MIL 2.26
+name:     Letter — Lykopolis
+genre:    letters
+date:     200 BCE – 101 BCE
+language: Greek (Koiné)
+found:    Lykopolis
+held:     
+shelf:    
+content:  Letter from Lykopolis (200 BCE – 101 BCE)
+# hgv-keywords: Brief — Fragment
+tm:       5966
+source:   https://papyri.info/ddbdp/p.mil;2;26
+lat:      27.181346
+lon:      31.1825335
+
+[GREEK]
+r.1    Συάγρωι
+r.2    … Πτολεμᾶς …
+r.3    … [ Σ]υάγρωι …
+
+[TRANSLATION]
+1     
+2     
+3     

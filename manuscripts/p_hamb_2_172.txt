@@ -1,0 +1,50 @@
+[META]
+id:       P.HAMB 2.172
+label:    P.HAMB 2.172
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     246 BCE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (246 BCE)
+# hgv-keywords: Anweisung — Zahlung — Bank — Gehalt — Phylakiten — Doppelurkunde
+tm:       4326
+source:   https://papyri.info/ddbdp/p.hamb;2;172
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    … ειλ …
+r.2    [ὀ]ψώνιον τοῦ Χ[οι]ὰχ καὶ Τυβὶ τ[ο]ῦ α ἔτους καὶ Μεχὶρ [τοῦ β ἔτους ] …
+r.3    ποίησαι πρὸς αὐ[τὸν]. ἔρρωσο. ἔτους β Μ[εχὶρ ] …
+r.4    Ἀπολλόδοτος Νικάνορι χαίρειν. διά[γραψον]
+r.5    ἀπὸ τῆς προ[σόδ]ου τοῦ φυλακιτι[κοῦ]
+r.6    τοῦ λθ ἔτους εἰς τὸ προσοφειλόμενο[ν τῶν]
+r.7    ὀψω[ν]ίων τῶν ἀρχιφυλακιτικῶν τ …
+r.8    Θεοφ[ί]ληι τ[ῶι] παρʼ ἡμῶν ὑποτ …
+r.9    πρὸς τῆι τραπέζηι τὸ γινόμ[ενον]
+r.10   ὀψώνιον τοῦ Χοιὰχ καὶ Τυβὶ τ[οῦ α ἔτους]
+r.11   καὶ Μεχὶρ τοῦ β ἔτους, μηνῶ[ν τριῶν]
+r.12   χαλκοῦ δραχμὰς ἑξακο[σίας ] … [ καὶ]
+r.13   σύμβολον ποίησαι π[ρὸς αὐτόν].
+r.14   [ἔρρωσο. ἔτους β Μεχὶρ ] … .
+
+[TRANSLATION]
+# HGV-EN: ... wage for Choiach and Tybi, year 1, and Mecheir, year 2, ... make for him. Farewell. Year 2 Mecheir ... Apollodotos to Nikanor, greetings. Pay, from the income from the police tax for year 39, for the amount still owing for the police chief wages, to Theophiles, our agent … at the bank, the wage for Choiak and Tybi, year 1, and for Mecheir, year 2, three months total, 600 ... bronze drachmas; and make for him a receipt. Farewell. Year 2, Mecheir ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

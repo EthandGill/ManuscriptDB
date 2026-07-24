@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.374
+label:    O.STRAS 1.374
+name:     Receipt — Theben
+genre:    receipts
+date:     158 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (158 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75962
+source:   https://papyri.info/ddbdp/o.stras;1;374
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … [γε]νήματος κα ἔτους Ἀντωνίνου
+r.2    [Καίσαρος τοῦ κυρ]ίου Ἐπεὶφ ζ ὑπὲρ Χάρακος
+r.3    [ὀνόματος ] … Ψενσενύριος πυροῦ μίαν
+r.4    [γίνεται α. ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

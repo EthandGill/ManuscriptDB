@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 331
+label:    O.PETR.MUS 331
+name:     Receipt — Theben
+genre:    receipts
+date:     253 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (253 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       75398
+source:   https://papyri.info/ddbdp/o.petr.mus;;331
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [διέγραψε Σαρ]απάμμων Ὡρι[γένους ὑπὲρ] … τοῦ β ἔτους τοῦ κυρίου
+r.2    [ἡμῶν Μάρκου] Αἰμιλίου Αἰμιλιανοῦ
+r.3    [Σεβαστοῦ δραχμὰς] [τέσσ]αρας γίνονται δραχμαὶ δ Συρίων
+r.4    [σεσημείωμαι ἔτους β Θ]ὼθ κβ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

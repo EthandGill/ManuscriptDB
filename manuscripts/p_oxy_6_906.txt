@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 6.906
+label:    P.Oxy. 6.906
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     101 CE – 225 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (101 CE – 225 CE)
+# hgv-keywords: Vertrag — Scheidung
+tm:       28333
+source:   https://papyri.info/ddbdp/p.oxy;6;906
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … α …
+r.2    … αλ … σο … κ[αὶ] τὰ διὰ τῆς αὐτῆς συνγραφῆς ἑ[σ]ταμ[ένα]
+r.3    παράφ[ε]ρ[να ὄντα ἐκ] δραχμῶν τεσσαράκοντα , οἱ δὲ τρεῖς καὶ μὴ ἐνκαλεῖν ἀλλήλοις μηδὲ ἐνκαλέσειν
+r.4    μηδὲ ἐπελεύσεσθαι μήτε περὶ μηδενὸς τῶν εἰς τὴν συνβίωσιν τοῦ Διογένους καὶ τῆς Πλουτάρχης
+r.5    τεινόντων μηδὲ περὶ ἄλλου μηδενὸς ἁπλῶς μέχρι τῆς ἐνεστώσης ἡμέρας. ὁ δὲ Δ[ι]ογένης
+r.6    καὶ ἐπιχορηγή[σ]ει ἀπὸ τοῦ νῦν τὰ [δ]έοντα τοῖς αὐτοῖς υἱοῖς αὐτῶν παρʼ αὑτῷ διαιτωμέν[ο]ις ἄχρι
+r.7    ἡλικίας. ἀπὸ δὲ τοῦ νῦν ἐξεῖναι τῷ Διογένει καὶ τῇ Πλουτάρχῃ ἑκατέρῳ αὐτῶν ἁρμόζεσ[θαι] ὧι ἐὰν αἱρῆται γάμῳ ἀνευθύνῳ ὄντι, ἢ τὴν ἐσομένην ἔφοδον ἄκυρον εἶναι, τὴν δὲ δηλουμένην σ[υ]νγραφὴν
+r.8    κ[αὶ] τὴν [γ]ενομένην αὐτῆς διὰ τοῦ καταλογείου δημοσίωσιν [καὶ] μετάδοσιν συνχωροῦσι ἄκυρον εἶναι.
+r.9    κυρία ἡ ἀποχή. Ὡρίων ὡς ἐτῶν νζ ἄσημος. Πλουτάρχη ὡς ἐτῶν κδ ἄσημος. Ο … Ἰσίδωρος ὡς ἐτῶν μη οὐλὴ ὀφρύι δεξιῷ.
+
+[TRANSLATION]
+# HGV-EN: ... and the parapherna fixed in the said contract, worth 40 drachmae. The three further agree that they neither make nor will make any claim or proceed against each other on any point connected with the union of Diogenes and Plutarche, or on any other subject whatever up to the present day. Diogenes shall henceforth provide the necessary means for the said sons, who shall live with him until they come of age; and henceforth it shall be lawful for Diogenes and Plutarche, either of them, to marry as they choose without incurring liability, any act of aggression against them being invalid. The above-mentioned contract, and the registration of it through the record-office, and communication of it are acknowledged to be invalid. This receipt is valid. Horion, aged about 57, with no distinguishing mark. Plutarche, aged about 24, with no distinguishing mark, O.. Isidorus, aged about 48, with a scar on his right eyebrow.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

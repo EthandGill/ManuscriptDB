@@ -1,0 +1,30 @@
+[META]
+id:       P.CUSTOMS 318
+label:    P.CUSTOMS 318
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     192 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (192 CE)
+# hgv-keywords: Quittung — Torzoll — Kamele — Steuer
+tm:       10638
+source:   https://papyri.info/ddbdp/p.customs;;318
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    τετ[ελώνηται] διὰ πύλης Σοκνοπαίου
+r.2    Νήσου ἐρημοφυλακίας Σώτας ἐξάγων
+r.3    ἐπὶ καμήλοις γ.
+r.4    ἔτους λβ Μεσορὴ
+r.5    κϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

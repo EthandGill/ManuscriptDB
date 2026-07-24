@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 2.270
+label:    O.EDFOU 2.270
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     89 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (89 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74284
+source:   https://papyri.info/ddbdp/o.edfou;2;270
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [Φίλιππο]ς Θη[δέτου ὑπὲρ]
+r.2    τέλους ὀνηλασίας η ἔτους [Δομιτιανοῦ]
+r.3    δραχμὰς δ ἔτους η Ἐπε[ὶφ ] …
+
+[TRANSLATION]
+1     
+2     
+3     

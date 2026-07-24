@@ -1,0 +1,32 @@
+[META]
+id:       O.ONT.MUS 1.66
+label:    O.ONT.MUS 1.66
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Documentary papyrus from Theben (101 CE – 200 CE)
+# hgv-keywords: Abrechnung — Getreide
+tm:       75084
+source:   https://papyri.info/ddbdp/o.ont.mus;1;66
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … πυροῦ ἀρτάβαι μθ κδ μη
+r.2    ὀνόματος Παναμέως Ψανσνῶτος πυροῦ ἀρτάβαι ιγ
+r.3    ὀνόματος Σαραπάμμωνος Ὥρου πυροῦ ἀρτάβαι ι δ ιβ
+r.4    ὀνόματος Θέωνος Σαραπάμμωνος πυροῦ ἀρτάβαι η μη
+r.5    ὀνόματος Ὥρου Παχνου Ψενα πυροῦ ἀρτάβαι β
+r.6    γίνονται πυροῦ ἀρτάβαι οδ 𐅵 κδ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

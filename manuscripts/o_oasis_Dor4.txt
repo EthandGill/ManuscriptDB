@@ -1,0 +1,28 @@
+[META]
+id:       O.OASIS Dor4
+label:    O.OASIS Dor4
+name:     Receipt — Oasis Parva
+genre:    receipts
+date:     411 CE
+language: Greek (Koiné)
+found:    Oasis Parva
+held:     
+shelf:    
+content:  Receipt from Oasis Parva (411 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       23828
+source:   https://papyri.info/ddbdp/o.oasis;;Dor4
+lat:      28.373334
+lon:      28.8971005
+
+[GREEK]
+r.1    ἔτους πη …
+r.2    Δωρόθεος Μαρίν[ου]
+r.3    [π]αρέσχεν κριθῆς ἀρτάβην μίαν
+r.4    ἔτους πη Κίακ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

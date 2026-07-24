@@ -1,0 +1,26 @@
+[META]
+id:       O.ELKAB 1
+label:    O.ELKAB 1
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     242 BCE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (242 BCE)
+# hgv-keywords: Quittung — Steuern — (Salz?)
+tm:       74484
+source:   https://papyri.info/ddbdp/o.elkab;;1
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    ἔτους ε Φαρμοῦθι γ. πέπτωκεν
+r.2    Ἀπολλωνίωι ἁλικῆς … κρος
+r.3    Πάσιτος δραχμὰς … νων
+
+[TRANSLATION]
+1     
+2     
+3     

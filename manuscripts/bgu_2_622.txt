@@ -1,0 +1,42 @@
+[META]
+id:       BGU 2.622
+label:    BGU 2.622
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     182 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (182 CE)
+# hgv-keywords: Quittung — Steuern (?) — Kauf — Land
+tm:       9270
+source:   https://papyri.info/ddbdp/bgu;2;622
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    [Ἡρακλείδης Ἀμμωνίου δημοσιώνης καταλο][χισμ]ῶν Ἀ[ρσινοίτου][ καὶ ἄλλων νομῶν διὰ Εὐδαίμο]νος πραγμ[ατευτ]ο[ῦ] Ταπ[εθεῖ τ]ῇ Πτολεμαίο[υ] τοῦ
+r.2    Ζηνᾶ ἀπ[ὸ] κώμης Καρανί[δο]ς χαίρειν. διέγραψάς
+r.3    μοι ἀπὸ γῆ[ς] μετεπιγραφ[είσης], οὗ παρακεχώρησαι
+r.4    διὰ τοῦ ἐν[θ]άδε γραφείου τῷ κ ἔτει [Τ]ῦβι παρὰ Ἰσιδώρου
+r.5    τοῦ καὶ Δη[μ]ητρίου Ἑρμ[ίου τ]οῦ καὶ Ζηναρίωνος
+r.6    Σωσικοσμείου [τοῦ] καὶ Ἀλθαιέως περὶ κώμην Καρανίδα
+r.7    ἥμισυ μέρος ἐλ[αι]ῶνος κατοικικοῦ ἀρούρης 𐅵 ιϛ, ὅ ἐστιν ἀρούρης δ λβ,
+r.8    τέλος κατὰ [σύ]μφωνον , ἐφʼ ᾧ ἐποικίῳ πρόκειται. ἔτους κβ
+r.9    Μάρκου Αὐ[ρηλ]ίου Κομμόδου Ἀντωνίνου
+r.10   Καίσαρος [το]ῦ κυρίου Μεσορὴ ἐπαγομένων β.
+
+[TRANSLATION]
+# HGV-EN: [Herakleides, son of Ammonios,][ farmer of the tax on catoicic registry] of the A[rsinoite and other nomes through Eudaimo]n, pragm[ateutês], to Tap[etheus], daughter of Ptolemaios, son of Zenas, from the village of Karanis, greetings. You have paid to me the tax from the land which has undergone a change of registration on what you have received in cession through the grapheion here in year 22 in Tybi from Isidoros alias De[m]etrios, son of Her[mias] alias Zenarion, of the Sosicosmian tribe and of the Althaean deme – a ½ portion of a katoikic olive grove near the village of Karanis of 1/2 1/16 aroura, that is 1/4 1/32 aroura, according to the agreement, ἐφ' ᾧ ἐποικίῳ πρόκειται. Year 22 of Marcus Au[rel]ius Commodus Antoninus Caesar, the lord, Mesore intercalary day 2.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

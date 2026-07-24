@@ -1,0 +1,32 @@
+[META]
+id:       P.REIN 2.125
+label:    P.REIN 2.125
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     148 BCE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     
+shelf:    
+content:  Receipt from Hermonthis (148 BCE)
+# hgv-keywords: Quittung — Bank — Abgabe (Fischer)
+tm:       5276
+source:   https://papyri.info/ddbdp/p.rein;2;125
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    ἔτους λγ Φαμενὼθ κη
+r.2    τέτακται ἐπὶ τὴν ἐν Ἑρμώνθει τράπεζαν
+r.3    τετάρτης ἁλιέων Μεμνονείων τοῦ αὐτοῦ ἔτους
+r.4    Παμώνθης Τεῶτος
+r.5    καὶ ὁ μέτοχος χαλκοῦ χιλίας ὀκτακοσίας Αω
+r.6    Ἑρμόδωρος τραπεζίτης Αρλ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

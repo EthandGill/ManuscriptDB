@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1099
+label:    O.BODL 2.1099
+name:     Receipt — Theben
+genre:    receipts
+date:     197 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (197 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71786
+source:   https://papyri.info/ddbdp/o.bodl;2;1099
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁθὺρ ϛ τοῦ ϛ ἔτους ὀνόματος Βήσιος Ὥρου
+r.2    Διογένους ὑπὲρ τέλους ἀγορανομίας ϛ ἔτους δραχμὰς εἴκοσι γίνονται δραχμαὶ κ.
+r.3    … σεσημείωμαι.
+r.4    καὶ ὀνόματος Νεφερῶτος Φθουμίνιος ὑπὲρ ε ἔτους
+r.5    δραχμὰς εἴκοσι γίνονται δραχμαὶ κ. σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

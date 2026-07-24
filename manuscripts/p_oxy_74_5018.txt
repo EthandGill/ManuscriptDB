@@ -1,0 +1,32 @@
+[META]
+id:       P.Oxy. 74.5018
+label:    P.Oxy. 74.5018
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (101 CE – 200 CE)
+# hgv-keywords: Orakel — Frage wegen Epikrisis (?)
+tm:       128324
+source:   https://papyri.info/ddbdp/p.oxy;74;5018
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Διὶ Ἡλίῳ μεγάλῳ Σαράπιδι καὶ τοῖς
+r.2    συννάοις θεοῖς. ἀξιοῖ Θέων ὁ καὶ
+r.3    Πτολεμαῖος· εἰ σύμφορόν μοί ἐστι
+r.4    διαλύσασθαι α … λ … τικ … ν ἐπίκρισιν,
+r.5    τοῦτό μοι δός.
+
+[TRANSLATION]
+# HGV-EN: To Zeus Helius, great Serapis and the associated gods. Theon, also called Ptolemaeus, asks: if it is beneficial for me to dissolve the . . . decision, give me this. (P. Ripat)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

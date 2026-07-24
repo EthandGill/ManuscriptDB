@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.203
+label:    O.STRAS 1.203
+name:     Receipt — Theben
+genre:    receipts
+date:     123 CE – 124 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (123 CE – 124 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75800
+source:   https://papyri.info/ddbdp/o.stras;1;203
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πόστομος ὁ καὶ Ὧρος Ποστόμου πράκτωρ
+r.2    ἀργυρικῶν [Ἁ]ρσιήσι Ὥρου Ψεναμούνιος.
+r.3    ἔσχον ὑπὲρ χωμάτων καὶ βαλανείου ὀγδόου ἔτους ῥυπαρὰς δραχμὰς …
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,26 @@
+[META]
+id:       O.Wilck. 689
+label:    O.Wilck. 689
+name:     Receipt — Theben
+genre:    receipts
+date:     180 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (180 CE)
+# hgv-keywords: Quittung — Geld
+tm:       77198
+source:   https://papyri.info/ddbdp/o.wilck;;689
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ ιγ τοῦ κ ἔτους ὀνόματος
+r.2    Φαήριος πρεσβυτέρου ὑπὲρ εἰ … οφ … ιου
+r.3    δραχμὰς εἴκοσι δραχμὰς κ. … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

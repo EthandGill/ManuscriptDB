@@ -1,0 +1,28 @@
+[META]
+id:       O.KROK 2.181
+label:    O.KROK 2.181
+name:     Letter — Krokodilo
+genre:    letters
+date:     98 CE – 138 CE
+language: Greek (Koiné)
+found:    Krokodilo
+held:     Qift
+shelf:    
+content:  Letter from Krokodilo (98 CE – 138 CE)
+# hgv-keywords: Brief (privat) — Demetrus und Menandros and NN und Philokles — kein Gemüse — Grüße
+tm:       704466
+source:   https://papyri.info/ddbdp/o.krok;2;181
+lat:      25.9426109674
+lon:      33.4011614055
+
+[GREEK]
+r.1    Δημητροῦς καὶ Μένανδρος … [καὶ Φιλοκλῆ]τι ἀμφοτέροις χαίρειν. πρὸ μ[ὲν πάντων τὸ προσ]κύνημα ὑμῶν ποιῶ παρὰ τῇ κυρ[ίᾳ Ἀθηνᾷ. θέλῳ ὑ]μᾶς γνώσεσθαι ὅτι οὔπω λάχαν[α ἐγένετο]
+r.2    … μη συρμάδια ἐξ αὐτῶν καὶ α …
+r.3    … λιου μὴ ὑμᾶς ὑστερήσῃ. ἀσ[πάζεται ὑμ]ας Γαλλωνία πολλὰ καὶ Διδύ[μη καὶ Τιβ]ερία πολλὰ πολλά. ἀσπά… λωνία.
+
+[TRANSLATION]
+# HGV-EN: Demetrous and Menandros to … and Philokles, both of them, greetings. First of all we make obeisance for you to the Lady Athena. We wish you to know that there are no vegetables as yet. … purge-plants from them … . Gallonia sends you many greetings and Didyme and Tiberia very many …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     Demetrous and Menandros … [and Philokles], both of them, greetings. First of [all we make] obeisance for you to the lady [Athena. We wish] you to know that not yet vegetables [have come]
+2     … [gap] purge-plants from them and […]
+3     … may it not be lacking to you. Gallonia [sends you] many greetings and Didyme [and Tib]eria very many [greetings]. […name] lonia.

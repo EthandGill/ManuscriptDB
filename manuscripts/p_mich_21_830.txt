@@ -1,0 +1,52 @@
+[META]
+id:       P.Mich. 21.830
+label:    P.Mich. 21.830
+name:     Documentary papyrus — Fundort: Karanis (Arsinoites) - 1930
+genre:    documents
+date:     308 CE
+language: Greek (Koiné)
+found:    Fundort: Karanis (Arsinoites) - 1930
+held:     Ann Arbor
+shelf:    
+content:  Documentary papyrus from Fundort: Karanis (Arsinoites) - 1930 (308 CE)
+# hgv-keywords: Bericht — Steuer — Zahlungen
+tm:       756864
+source:   https://papyri.info/ddbdp/p.mich;21;830
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Κύριλλος καὶ Σεμπρωνιανὸς
+r.2    καὶ Μέλας Σωκράτου ἰδιωτικῆς
+r.3    μεμέτρηκασιν ιζ ἔτους καὶ ε ἔτους Θὼθ κε διὰ Κ[υρίλλου ]
+r.4    κριθῆς ἀρτάβας δ … θ …
+r.5    Μέλας Σωκράτου καὶ
+r.6    Κύριλλος Μέλανος.
+r.7    μεμέτρηκασιν ιζ ἔτους καὶ ε ἔτους διὰ Μέλανος ῥυπαρὰς [ἀρτάβας]
+r.8    κριθῆς ἀρτάβας ε μ …
+r.9    Μέλας Ὥρου …
+r.10   μεμέτρηκεν ιϛ ἔτους καὶ δ ἔτους Μεσορὴ λ ῥυπαρὰς ἀρτάβας …
+r.11   Οὐενάφρις Ἀτισίου … [ μεμέτρηκεν]
+r.12   ιϛ ἔτους καὶ δ ἔτους Μεσορὴ ἐπαγόμεναι γ διὰ …
+r.13   καὶ διὰ Θερμ[ο]υθίου ῥυπαρὰς ἀρτάβας ε ἥμισυ καὶ διὰ …
+r.14   … καὶ … ἀρουρὰς ἥμισυ τέταρτον η ἰδιωτικῆς α … πυροῦ …
+r.15   … δι … φ …
+
+[TRANSLATION]
+# HGV-EN: Kyrillos and Sempronianus and Melas, son (sons?) of Sokrates, for private (land). They have paid for year 17 and year 5, on Thoth 25 through Kyrillos (?) 4 ... artabas of barley. Melas, son of Sokrates, and Kyrillos, son of Melas. They have paid for year 17 and year 5 through Melas x unwinnowed artabas, 5... artabas of barley. Melas, son of Horos. He has paid for year 16 and year 4, on Mesore 30, x unwinnowed artabas. Ouenaphris, son of Atisios ... [He has paid] for year 16 and year 4 on the 3rd intercalary day after Mesore through ... and through Thermouthion 5½ unwinnowed artabas and through ... and ... ½ ¼ ⅛ of an aroura of private (land) ... of wheat ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

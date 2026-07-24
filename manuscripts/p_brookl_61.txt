@@ -1,0 +1,28 @@
+[META]
+id:       P.BROOKL 61
+label:    P.BROOKL 61
+name:     Receipt — Theben
+genre:    receipts
+date:     147 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (147 CE)
+# hgv-keywords: Quittung — Steuern — Weizen
+tm:       18083
+source:   https://papyri.info/ddbdp/p.brookl;;61
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [μέτρημα θησαυροῦ μητροπόλεως ][γε]νήματος ι ἔτους Ἀντωνείνου
+r.2    [Καίσαρος τοῦ κυρ]ίου Φαῶφι κδ
+r.3    [ὑπὲρ ] … [ ὀνόματος ] … ο Πικῶτος
+r.4    [πυροῦ ][ὄγ]δοον, γίνονται πυροῦ η. Ἐπικράτης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

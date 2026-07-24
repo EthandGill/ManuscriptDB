@@ -1,0 +1,34 @@
+[META]
+id:       O.BERENIKE 4.522
+label:    O.BERENIKE 4.522
+name:     Receipt — Berenike
+genre:    receipts
+date:     51 CE – 100 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Receipt from Berenike (51 CE – 100 CE)
+# hgv-keywords: Quittung — Wasser
+tm:       971744
+source:   https://papyri.info/ddbdp/o.berenike;4;522
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    δεκανί[ας] …
+r.2    Πίσαις Ψ …
+r.3    Νεμων[ι-] …
+r.4    ἑκατονταρχίας Βάσσ[ου] …
+r.5    λεγιῶ[νος] …
+r.6    πτο[λεμαικὰ] …
+
+[TRANSLATION]
+# HGV-EN: Of the dekania of … Pisais son of Ps- … Nemoni- … in the century of Bassus … of the legion of … ptolemaica … .
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

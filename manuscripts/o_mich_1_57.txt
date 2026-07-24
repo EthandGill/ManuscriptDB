@@ -1,0 +1,28 @@
+[META]
+id:       O.MICH 1.57
+label:    O.MICH 1.57
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (201 CE – 300 CE)
+# hgv-keywords: Quittung — Naturalien
+tm:       42349
+source:   https://papyri.info/ddbdp/o.mich;1;57
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    β ἔτους Χοίακ ϛ
+r.2    παρέδωκε
+r.3    Διδᾶς Ἡρᾶτος
+r.4    κενώματα γ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

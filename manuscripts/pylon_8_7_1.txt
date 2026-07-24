@@ -1,0 +1,34 @@
+[META]
+id:       PYLON 8.7_1
+label:    PYLON 8.7_1
+name:     Letter — unbekannt
+genre:    letters
+date:     1 CE – 125 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     Hamburg
+shelf:    
+content:  Letter from unbekannt (1 CE – 125 CE)
+# hgv-keywords: Brief — Spiele
+tm:       1001065
+source:   https://papyri.info/ddbdp/pylon;8;7_1
+lat:      
+lon:      
+
+[GREEK]
+r.1    … τοὺς παρ …
+r.2    [c … ἀ]σπάζετα[ί σε] … ρ …δοῦς καὶ Μητρόβ[ις] καὶ
+r.3    Ἡρᾶς. οὐκ ἔπεμψα τὸ ἔσοπτρον διὰ τὸν πενταετηρικόν. ἐὰν ἐκβῇ, ἀγορῶ
+r.4    καὶ πέμψω.
+r.5    ἔρρωσο
+r.6    [Ἐ]πεὶφ γ
+
+[TRANSLATION]
+# HGV-EN: ‘... greets you …dous and Metrobis and Heras. I did not send the mirror for the Quinquennial Games. If everything pans out well, I will buy it and send it. Farewell. Epeiph 3.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

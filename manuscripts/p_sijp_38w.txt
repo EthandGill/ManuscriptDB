@@ -1,0 +1,26 @@
+[META]
+id:       P.SIJP 38w
+label:    P.SIJP 38w
+name:     Documentary papyrus — Theben (?)
+genre:    documents
+date:     200 BCE – 101 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (?) (200 BCE – 101 BCE)
+# hgv-keywords: Name (Person) — Katöke
+tm:       110196
+source:   https://papyri.info/ddbdp/p.sijp;;38w
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πτολεμαῖος Ταύρωνος τῶν
+r.2    κατοίκων ἱππέων.
+
+[TRANSLATION]
+# HGV-EN: Ptolemaios son of Tauron, one of the katoikic cavalry.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

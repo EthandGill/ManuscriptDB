@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.445
+label:    O.BODL 2.445
+name:     Receipt — Theben
+genre:    receipts
+date:     176 CE – 225 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (176 CE – 225 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71146
+source:   https://papyri.info/ddbdp/o.bodl;2;445
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ ζ τοῦ γ ἔτους ὀνόματος Ὥρου.
+r.2    Αρ … ητο ὑπὲρ ἐπικεφαλαίου γ ἔτους Ἀγορῶν δραχμὰς ὀκτὼ
+r.3    γίνονται δραχμαὶ η. Α … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

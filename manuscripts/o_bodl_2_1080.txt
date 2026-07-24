@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1080
+label:    O.BODL 2.1080
+name:     Receipt — Theben
+genre:    receipts
+date:     233 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (233 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71767
+source:   https://papyri.info/ddbdp/o.bodl;2;1080
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἐπεὶφ κβ τοῦ ιβ ἔτους ὀνόματος Μάρκ[ου]
+r.2    Αὐρηλίου Σαραπίωνος ὑπὲρ τέλους ὀνηλασίας
+r.3    ιβ ἔτους δύο ὀβολὸν γίνονται δραχμαὶ β ὀβολὸς … μ …
+r.4    Αὐρήλιος Διόσκορος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

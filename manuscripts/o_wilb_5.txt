@@ -1,0 +1,32 @@
+[META]
+id:       O.WILB 5
+label:    O.WILB 5
+name:     Receipt — Elephantine
+genre:    receipts
+date:     20 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (20 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76517
+source:   https://papyri.info/ddbdp/o.wilb;;5
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διαγεγράφηκεν
+r.2    Ψενχνοῦβις Παχναῦτος
+r.3    ὑπὲρ λαογραφίας τοῦ
+r.4    ἕκτου ἔτους Τιβερίου
+r.5    Καίσαρος Σεβαστοῦ
+r.6    Μεσορὴ ια, ἀργυρίου δραχμὰς ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

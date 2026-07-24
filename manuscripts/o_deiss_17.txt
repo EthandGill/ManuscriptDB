@@ -1,0 +1,24 @@
+[META]
+id:       O.DEISS 17
+label:    O.DEISS 17
+name:     Receipt — Theben
+genre:    receipts
+date:     74 CE – 75 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (74 CE – 75 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       73830
+source:   https://papyri.info/ddbdp/o.deiss;;17
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ὧρος Πετεχῶντος πλῆρες
+r.2    τὸν γόμον τοῦ ἀχύρου τοῦ ἑβδόμου ἔτους Οὐεσπασιανοῦ τοῦ κυρίου. ἐσημειωσάμην.
+
+[TRANSLATION]
+1     
+2     

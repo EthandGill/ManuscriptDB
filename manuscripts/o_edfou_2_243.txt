@@ -1,0 +1,32 @@
+[META]
+id:       O.EDFOU 2.243
+label:    O.EDFOU 2.243
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     111 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (111 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       44259
+source:   https://papyri.info/ddbdp/o.edfou;2;243
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους ϛ Μεχεὶρ τέτακται ἐπὶ τὴν
+r.2    ἐν Ἀπόλλωνος πόλει τῆι μεγάλῃ τράπεζαν
+r.3    κεαρίας τοῦ αὐτοῦ ἔτους
+r.4    Ψενενοῦφις Ἁρεμσύνιος
+r.5    πεντακοσίας τεσσαράκοντα γίνονται φμ
+r.6    Χαιρήμων τραπεζίτης
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

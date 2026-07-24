@@ -1,0 +1,28 @@
+[META]
+id:       P.SIJP 38p
+label:    P.SIJP 38p
+name:     Receipt — Theben
+genre:    receipts
+date:     125 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (125 CE)
+# hgv-keywords: Quittung — Steuer (Badesteuer) — Geld
+tm:       110189
+source:   https://papyri.info/ddbdp/p.sijp;;38p
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεχεσποχράτης καὶ μέτοχοι τε[λῶναι] [θησαυροῦ ἱερῶν]
+r.2    Παναμεῖ Παμώνθου Ἑριεῦ[τος] [χαίρειν· ἔσχομεν παρὰ σοῦ]
+r.3    ὑπὲρ βαλανευτικοῦ τοῦ θ ἔτους Ἁδριαν[οῦ τοῦ κυρίου]
+r.4    Παῦ[νι] ζ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

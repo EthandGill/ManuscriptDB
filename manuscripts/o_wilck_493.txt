@@ -1,0 +1,26 @@
+[META]
+id:       O.Wilck. 493
+label:    O.Wilck. 493
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     100 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (100 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       77003
+source:   https://papyri.info/ddbdp/o.wilck;;493
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ἀπολλὼς Ἁρνούριος
+r.2    λαογραφίας γ ἔτους Τραιανοῦ τοῦ κυρίου
+r.3    δραχμὰς η. ἔτους γ Φαμενὼθ κζ.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.415
+label:    O.STRAS 1.415
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       76003
+source:   https://papyri.info/ddbdp/o.stras;1;415
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα εἰς θησαυρὸν μητροπόλεως γ[ενήματος] … [ ἔτους ] …
+r.2    Καίσαρος τοῦ κυ[ρίου ] … [ ὑπὲρ ] … [ ὀνόματος]
+r.3    Τλελοῦτος Ἀβῶτος … τετρακαιεικοστὸν …
+
+[TRANSLATION]
+1     
+2     
+3     

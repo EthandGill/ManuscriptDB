@@ -1,0 +1,58 @@
+[META]
+id:       P.Oxy. 72.4860
+label:    P.Oxy. 72.4860
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     122 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (122 CE)
+# hgv-keywords: Auftrag an den Sitologen von Pakerke (diastolikon) — Giro - Überweisung von Weizen
+tm:       114240
+source:   https://papyri.info/ddbdp/p.oxy;72;4860
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Ἡρ … Πτολεμαίου ἀπʼ Ὀξυρύγχων πόλεως
+r.2    Φαύστωι τῷ καὶ Ἀμφίονι σιτολόγῳ ἀπηλιώτου
+r.3    τοπαρχίας Πακερκη τόπων χαίρειν. διάστειλον
+r.4    ἀφʼ οὗ ἔχεις μου ἐν θέματι πυροῦ γενήματος ϛ ἔτους
+r.5    Ἁδριανοῦ Καίσαρος τοῦ κυρίου ὑπὲρ
+r.6    μὲν ἰδίου ὀνόματος Πακερκη ἀπηλιώτου
+r.7    ἀρτάβας ἑπτὰ χοίνικα μίαν, ὁ αὐτὸς Ψώβθεως ἀπηλιώτου
+r.8    ἀρτάβας ἐννέα τέταρτον ὄγδοον, ὁ αὐτὸς Σατύρου
+r.9    ἐποικίου ἀρτάβην μίαν ἥμισυ τέταρτον χοίνικα μίαν,
+r.10   Ἀπολλωνίωι καὶ Διονυσίωι τῷ καὶ
+r.11   Ἀμοϊτᾷ ἀμφοτέροις Ἥρωνος πρότερον τῆς μητρὸς αὐτῶν Σινθώνιος
+r.12   Ἀλεξάνδρου Θώσβεως ἀρτάβας πέντε ἥμισυ
+r.13   ὄγδοον, τοῖς αὐτοῖς ὁμοίως πρότερον τῆς αὐτῆς
+r.14   μητρὸς αὐτῶν Σινθώνιος Σενοκώμεως
+r.15   ἀρτάβας ἓξ ἥμισυ τέταρτον, γίνονται ἐπὶ τὸ αὐτὸ
+r.16   ἀρτάβαι τριάκοντα ἥμισυ χοίνικες δύο.
+r.17   ἔτους ϛ Αὐτοκράτορος Καίσαρος
+r.18   Τραϊανοῦ Ἁδριανοῦ Σεβαστοῦ, Μεσορὴ κε.
+
+[TRANSLATION]
+# HGV-EN: Her— son of Ptolemaeus, from the city of the Oxyrhynchi, to Faustus alias Amphion, sitologus of the eastern toparchy, district of Pacerce, greetings. Transfer, from the amount you hold on deposit for me, from the wheat-crop of the 6th year of Hadrianus Caesar the lord, for my own account at Pacerce Eastern, 7 art. (and) one choen.; the same, at Psobthis Eastern, nine (and) one-quarter (and) one-eighth art.; the same, at the hamlet of Satyrus, one (and) one-half (and) one-quarter art. (and) one choen.; and to Apollonius and Dionysius alias Amoitas, both sons of Heron, (for the account) formerly of their mother Sinthonis daughter of Alexander, at Thosbis, five (and) one-half (and) one-eighth art.; to the same (persons), likewise (for the account) formerly of their mother Sinthonis, at Senocomis, six (and) one-half (and) one-quarter art., grand total thirty and one-half art. and two choen. Year 6 of Imperator Caesar Traianus Hadrianus Augustus, Mesore 25. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

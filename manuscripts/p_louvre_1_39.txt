@@ -1,0 +1,26 @@
+[META]
+id:       P.LOUVRE 1.39
+label:    P.LOUVRE 1.39
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     203 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (203 CE)
+# hgv-keywords: Quittung — Steuern — Opfer (Kalb)
+tm:       11852
+source:   https://papyri.info/ddbdp/p.louvre;1;39
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    τέλος μόσχου θυομένου
+r.2    ἐν ἱερῷ Σοκνοπαίου Νήσου
+r.3    ὑπὸ Ἀκᾶτος δι[ὰ] Πτολεμα[ί]ου πραγματευτοῦ. ια ἔτους, Παχὼν πέμπτῃ, ε.
+
+[TRANSLATION]
+1     
+2     
+3     

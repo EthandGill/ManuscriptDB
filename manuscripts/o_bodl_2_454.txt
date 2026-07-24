@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.454
+label:    O.BODL 2.454
+name:     Receipt — Elephantine (?)
+genre:    receipts
+date:     112 CE
+language: Greek (Koiné)
+found:    Elephantine (?)
+held:     
+shelf:    
+content:  Receipt from Elephantine (?) (112 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71155
+source:   https://papyri.info/ddbdp/o.bodl;2;454
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [διέγραψεν ] … χνοῦμις Παχομπχήμιος
+r.2    [μητρὸς ] … λαογραφίας Ἐλεφαντίνης ιδ ἔτους δραχμὰς
+r.3    [τέσσαρα]ς γίνονται δραχμαὶ δ. διὰ Λέοντος γραμματέως.
+r.4    ἔτους ιε Τραιανοῦ Καίσαρος τοῦ κυρίου Μεσορὴ κϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

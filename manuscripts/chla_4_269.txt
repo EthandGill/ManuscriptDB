@@ -1,0 +1,30 @@
+[META]
+id:       CHLA 4.269
+label:    CHLA 4.269
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     247 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (247 CE)
+# hgv-keywords: Antrag an den Präfekten Cl. Valerius Firmus auf einen Vormund — lex Iulia et Titia — Reskript des Präfekten
+tm:       20419
+source:   https://papyri.info/ddbdp/chla;4;269
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [Α]ὐρηλία Ἀμμωνάριον [ἐπιδέδωκα.]
+r.2    [Α]ὐρήλιος Πλουτάμμ[ων][ εὐδοκῶ τῇ]
+r.3    αἰτήσει.
+r.4    ἔτους δ Τῦβι ι.
+
+[TRANSLATION]
+# HGV-EN: (From: J. Rowlandson, Women and Society in Greek and Roman Egypt, 1998, no. 140a.) To Gaius Valerius Firmus, prefect of Egypt, from Aurelia Ammonarion. I ask you, my lord, to give me as guardian Aurelius Ploutammon in accordance with the lex Iulia et Titia and the decree of the senate. Dated in the consulship of our lords Philippus Augustus for the 2nd time and Philippus Caesar. I, Aurelia Ammonarion, have presented the petition. I, Aurelia Ploutammon, assent to the request. Year 4, Tybi 10 In order that … may not be absent, I appoint Ploutammon as guardian in accordance with the lex Iulia et Titia. I have read this.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

@@ -1,0 +1,24 @@
+[META]
+id:       O.EDFOU 1.51
+label:    O.EDFOU 1.51
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     69 CE – 79 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (69 CE – 79 CE)
+# hgv-keywords: Quittung (?)
+tm:       46991
+source:   https://papyri.info/ddbdp/o.edfou;1;51
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Θεόδωτος ὃ καὶ Νίγερ
+r.2    [Ἀντω]νίου Ῥού[φου]
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,30 @@
+[META]
+id:       O.BERENIKE 4.531
+label:    O.BERENIKE 4.531
+name:     Receipt — Berenike
+genre:    receipts
+date:     1 CE – 150 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Receipt from Berenike (1 CE – 150 CE)
+# hgv-keywords: Quittung — Lieferung
+tm:       971753
+source:   https://papyri.info/ddbdp/o.berenike;4;531
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    … Γάιος ἐπηκολούθηκα ρα …
+r.2    … Πουπλίου Αἰλίου Νικαίου
+r.3    … ζ γ όμους γ φορτί-
+r.4    … ἀγγει-
+
+[TRANSLATION]
+# HGV-EN: I, Gaius, checked … of Publius Aelius Nikaios … 7, loads 3 … freight … .
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       O.CAIR 108
+label:    O.CAIR 108
+name:     Receipt — Theben
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (120 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       73456
+source:   https://papyri.info/ddbdp/o.cair;;108
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται θησαυρῷ μητροπόλεως
+r.2    γενήματος δ ἔτους Ἁδριανοῦ
+r.3    τοῦ κυρίου Παῦνι η ὀνόματος
+r.4    Πεκύσιος Φαήριος πυροῦ μίαν
+r.5    ἥμισυ τέταρτον, γίνεται πυροῦ α 𐅸. Ω σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

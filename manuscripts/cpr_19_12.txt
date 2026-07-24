@@ -1,0 +1,24 @@
+[META]
+id:       CPR 19.12
+label:    CPR 19.12
+name:     Documentary papyrus — Thebais
+genre:    documents
+date:     544 CE
+language: Greek (Koiné)
+found:    Thebais
+held:     
+shelf:    
+content:  Documentary papyrus from Thebais (544 CE)
+# hgv-keywords: Fragment — Datierung
+tm:       70191
+source:   https://papyri.info/ddbdp/cpr;19;12
+lat:      26.25
+lon:      32.75
+
+[GREEK]
+r.1    βασιλείας τοῦ θειοτάτου ἡμων δεσπότου Φλαουίου Ἰουστινιανοῦ τοῦ αἰωνίου Αὐγούστου κ[α]ὶ [αὐτοκράτορος ἔτους ιζ, μετὰ τὴν ὑπατείαν Φλαουίου Βασιλίου]
+r.2    [τοῦ] ἐ[ν]δ[ο]ξ[οτ]άτου Φαμενὼθ ζ ἰνδικτίωνος ἑβδόμης.
+
+[TRANSLATION]
+1     
+2     

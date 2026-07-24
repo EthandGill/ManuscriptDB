@@ -1,0 +1,26 @@
+[META]
+id:       O.MEDIN.MADI 20
+label:    O.MEDIN.MADI 20
+name:     Receipt — Narmuthis (Arsinoites)
+genre:    receipts
+date:     242 CE
+language: Greek (Koiné)
+found:    Narmuthis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Narmuthis (Arsinoites) (242 CE)
+# hgv-keywords: Quittung — Miete
+tm:       74955
+source:   https://papyri.info/ddbdp/o.medin.madi;;20
+lat:      29.19227245
+lon:      30.64189235
+
+[GREEK]
+r.1    ἔτους ϛ Γωρδιενοῦ Σεβαστοῦ,
+r.2    ιθ οἴκου· δραχμαὶ δεκαδύο γίνονται
+r.3    δραχμαὶ ιβ.
+
+[TRANSLATION]
+1     
+2     
+3     

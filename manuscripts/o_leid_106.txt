@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 106
+label:    O.LEID 106
+name:     Receipt — Theben
+genre:    receipts
+date:     131 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (131 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24676
+source:   https://papyri.info/ddbdp/o.leid;;106
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁρποκρᾶς πράκτωρ ἀργυ[ρικῶν]
+r.2    Φαήρει Πετεαρποχράτου [ἔσχον ὑπὲρ χωματικοῦ]
+r.3    Ἀγορῶν βορρᾶ ιε ἔτους ῥυπαρὰς δραχμὰς
+r.4    ζ τετρώβολον χαλκοὺς 2. ἔτους … [ Ἁδριανοῦ]
+r.5    τοῦ κυρίου Ἐπεὶφ κζ. …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

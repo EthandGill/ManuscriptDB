@@ -1,0 +1,30 @@
+[META]
+id:       BGU 2.434
+label:    BGU 2.434
+name:     Receipt — Memphis (?)
+genre:    receipts
+date:     169 CE
+language: Greek (Koiné)
+found:    Memphis (?)
+held:     
+shelf:    
+content:  Receipt from Memphis (?) (169 CE)
+# hgv-keywords: Quittung — Geld — Steuern
+tm:       20165
+source:   https://papyri.info/ddbdp/bgu;2;434
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    ἔτους ἐνάτου Ἀντωνίνου καὶ Οὐήρου τῶ[ν κυρίων]
+r.2    Σεβαστῶν Φαρμοῦθι κ διαγεγράφηκεν Ἀφ[ροδισίῳ]
+r.3    πράκτορι ἀργυρικῶν τρίτου ἀμφόδου Εὐδαίμ[ων ] …
+r.4    λαογραφίας χρυσοχόων δρα[χμὰς] ὀκ[τ]ώ, γίνονται δραχμαὶ η
+
+[TRANSLATION]
+# HGV-EN: Year nine of Antoninus and Verus, the [lords] Augusti, Pharmouthi 20. Paid to Aph[rodisios (?)], collector of money taxes of the third quarter (district) (by) Eudaim[on, son of NN] for the poll tax on goldsmiths eight drachmas, = 8 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     Year ninth of Antoninus and Verus of the [lords]
+2     Augusti, Pharmouthi 20, has paid to Aph[rodisios]
+3     collector of money taxes of the third quarter-district Eudaim[on] …
+4     of the poll tax on goldsmiths dra[chmas] eight, are drachmas 8

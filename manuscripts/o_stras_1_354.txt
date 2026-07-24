@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.354
+label:    O.STRAS 1.354
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     127 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (127 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75942
+source:   https://papyri.info/ddbdp/o.stras;1;354
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα εἰς θησαυρὸν μητροπόλεως γενήματος
+r.2    ια ἔτους Ἁδριανοῦ Καίσαρος
+r.3    τοῦ κυρίου Μεσορὴ ιθ ὀνόματος
+r.4    Φμόιτος Πετεχων ὑπὲρ ﻿﻿ἐνλείµµατος ζ ἔτους ϛ
+r.5    ὑπὲρ κώμης … πυροῦ ἥμισυ γίνεται πυροῦ 𐅵.
+r.6    Ἀφεῖος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

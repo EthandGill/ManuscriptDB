@@ -1,0 +1,28 @@
+[META]
+id:       P.LIPS 1.78
+label:    P.LIPS 1.78
+name:     Receipt — Theben
+genre:    receipts
+date:     205 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (205 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       22388
+source:   https://papyri.info/ddbdp/p.lips;1;78
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ιγ ἔτους Σευήρου καὶ Ἀντωνείνου
+r.2    Εὐσεβῶν Σεβαστῶν Ἐπεὶφ ιη ὑπὲρ Χάρακος ὀνόματος
+r.3    Πρεμρατηοῦτος Ὥρου πυροῦ δίμοιρον
+r.4    γίνεται πυροῦ 𐅷. Σ … σιτολόγος σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

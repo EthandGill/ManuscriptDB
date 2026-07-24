@@ -1,0 +1,24 @@
+[META]
+id:       P.HIB 1.142
+label:    P.HIB 1.142
+name:     Receipt — Herakleopolites (?)
+genre:    receipts
+date:     247 BCE
+language: Greek (Koiné)
+found:    Herakleopolites (?)
+held:     
+shelf:    
+content:  Receipt from Herakleopolites (?) (247 BCE)
+# hgv-keywords: Quittung
+tm:       4593
+source:   https://papyri.info/ddbdp/p.hib;1;142
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    ζυτηρά
+r.2    [Ἡρ]ακλείωι τραπεζίτηι καὶ [Ν]ικολάωι δοκιμαστῆι
+
+[TRANSLATION]
+1     
+2     

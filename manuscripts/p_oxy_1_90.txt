@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 1.90
+label:    P.Oxy. 1.90
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     179 CE – 180 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (179 CE – 180 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       20749
+source:   https://papyri.info/ddbdp/p.oxy;1;90
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    μεμέτρηκεν εἰς τὸ δημόσιον πυροῦ γενήματος τοῦ διελθόντος ιθ ἔτους
+r.2    Αὐρηλίων Ἀντωνίνου καὶ Κομμόδου
+r.3    Κ[α]ισάρων τῶν κυρίων διὰ σιτολόγων λιβὸς τοπαρχίας
+r.4    [Σ]ερύφεως τόπων Κλάρος Διδύμου ἀγορανομήσας
+r.5    [θ]έμα ἀρτάβας ὀκτὼ χοίνικας δ, γίνονται πυροῦ ἀρτάβαι η χοίνικες δ. Διογένης σιτολόγος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,26 @@
+[META]
+id:       P.CUSTOMS 333
+label:    P.CUSTOMS 333
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     208 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (208 CE)
+# hgv-keywords: Quittung — Torzoll — Esel — Gemüsesamen — Erven — Steuer
+tm:       10641
+source:   https://papyri.info/ddbdp/p.customs;;333
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    τετελώνηται διὰ π[ύλης] [Σοκ]νοπαίου Νήσου λιμένος Μέμφεω[ς Σα]ραπίων ἐξάγων
+r.2    ἐπὶ ὄνῳ ἑνὶ [λαχαν]οσπέρ[μ]ου
+r.3    ἀρτάβας τρεῖς καὶ ἐπὶ ἑτέρῳ ὄνῳ ὀρόβου ἀρτάβας τρεῖς . ἔτους ιζ Ἁθὺρ κβ.
+
+[TRANSLATION]
+1     
+2     
+3     

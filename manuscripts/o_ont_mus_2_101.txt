@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.101
+label:    O.ONT.MUS 2.101
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     107 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     Toronto
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (107 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75118
+source:   https://papyri.info/ddbdp/o.ont.mus;2;101
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    Ἀπάθης νεώτερος Ψενμώνθου πράκτωρ ἀργυρικῶν Μεμνονείων
+r.2    διὰ Πασήμιος γραμματέως Πορτιοῦτι Καμήτιος ὑπὲρ λαογραφίας Φμαῦ
+r.3    ι ἔτους δραχμὰς ἓξ τριώβολον γίνονται δραχμαὶ ϛ τριώβολον μαγδώλων δραχμὴν α τριώβολον. ἔτους ι Τραιανοῦ
+r.4    Καίσαρος τοῦ κυρίου Φαρμοῦθι γ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       P.ABERD 74
+label:    P.ABERD 74
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     133 BCE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (133 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       77911
+source:   https://papyri.info/ddbdp/p.aberd;;74
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    ἔτους λζ Παῦνι κθ μεμέτρηκεν
+r.2    λζ ἔτους Μεμνονείων Ψενόβαστις
+r.3    Πετεμίνιος ἀρτάβας τρεῖς γίνονται γ.
+r.4    Ἀπολλώνιος.
+r.5    Κρατῖνος ἀρτάβας γ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

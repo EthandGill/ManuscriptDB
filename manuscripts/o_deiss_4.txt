@@ -1,0 +1,30 @@
+[META]
+id:       O.DEISS 4
+label:    O.DEISS 4
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     112 BCE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     Sydney
+shelf:    
+content:  Receipt from Hermonthis (112 BCE)
+# hgv-keywords: Quittung — Bank — Steuern
+tm:       73817
+source:   https://papyri.info/ddbdp/o.deiss;;4
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    ἔτους ε Ἐπεὶφ ιβ. τέτακται
+r.2    ἐπὶ τὴν ἐν Ἑρμώνθει τράπεζαν ἀπομοίρας ε ἔτους
+r.3    Πασῆμις Πάσιτος χιλίας ρπ γίνονται Αρπ.
+r.4    Διονύσιος τραπεζίτης.
+r.5    Ατ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

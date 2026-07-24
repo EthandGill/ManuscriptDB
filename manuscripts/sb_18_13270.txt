@@ -1,0 +1,28 @@
+[META]
+id:       SB 18.13270
+label:    SB 18.13270
+name:     Receipt — Herakleopolites
+genre:    receipts
+date:     719 CE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Receipt from Herakleopolites (719 CE)
+# hgv-keywords: Quittung
+tm:       18410
+source:   https://papyri.info/ddbdp/sb;18;13270
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    [ ][παρέσ]χε Γεώργιος Σενουθίου Βαουχ
+r.2    [ὑπὲρ δαπάνης] τοῦ χωρίου ἰνδικτίονος β … ἀρίθμιον
+r.3    [νόμισμα α ἕν μόνον.] μηνὸς Μεσορὴ ι ἰνδικτίονος γ .
+r.4    γίνεται νόμισμα α.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

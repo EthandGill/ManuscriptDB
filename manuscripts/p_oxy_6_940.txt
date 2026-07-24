@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 6.940
+label:    P.Oxy. 6.940
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (401 CE – 500 CE)
+# hgv-keywords: Brief (privat) — NN an den Notarios Joseph — Joseph soll mit den Abrechnungen warten — bis der ganze Wein gekeltert ist
+tm:       35313
+source:   https://papyri.info/ddbdp/p.oxy;6;940
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    χμγ
+r.2    συνορῶ τέως ἐν ταυτότητι μεῖναι τὰς ῥύσεις ἄχρι τῆς τελευταίας μερίδος ἵνα μὴ
+r.3    δόξωμεν διώκειν τοὺς ἄλλους τοὺς μήπω τρυγήσαντας. τοίνυν, ὡς ἀνωτέρω εἴρηται,
+r.4    καταξίωσον ἐπέχειν τοῦ λογισμοῦ ἕως οὗ μάθῃς τὴν τῶν ἄλλων μερίδων δύναμιν,
+r.5    καὶ ἐν τοσούτῳ γράφεις μοι καὶ οὕτως σκοπῶ τὸ πρακτέον. τὸν δὲ Φοιβάμμωνα
+r.6    τὸν φροντιστὴν μεταστειλάμενος ἔχε ἐγγὺς σοῦ μίαν μίαν .
+r.7    ἐπίδος τῷ θαυμασ[ιωτάτῳ] Ἰωσὴφ νοταρίῳ
+r.8    … λαρμόσωνος.
+
+[TRANSLATION]
+# HGV-EN: It is my desire that the flow of the wine should remain as it is for some time until the last holding is ready, that we may not seem to press hardly upon the others who have not yet gathered the grapes. Therefore, as stated above, please to delay the account-taking until you learn the capacity of the other holdings, and in the meantime write to me, and thus I shall see what is to be done. Send for Phoebammon the steward, and keep him at hand together with you. (Addressed) Deliver to the most admirable Joseph, clerk, from (?) Charmoson (?).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

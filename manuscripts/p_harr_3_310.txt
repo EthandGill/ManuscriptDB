@@ -1,0 +1,34 @@
+[META]
+id:       P.HARR 3.310
+label:    P.HARR 3.310
+name:     Letter — Oxyrhynchites (?)
+genre:    letters
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites (?)
+held:     Birmingham
+shelf:    
+content:  Letter from Oxyrhynchites (?) (1 CE – 200 CE)
+# hgv-keywords: Brief — Dionysios an Archelaos — Schreiber
+tm:       998639
+source:   https://papyri.info/ddbdp/p.harr;3;310
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    [ἀ]ντίγραφον ἐπιστολῆς·
+r.2    Διονύσιοϲ Ἀρχελάωι τῶι …
+r.3    χαίρειν.
+r.4    … ὁ γραμματεὺς εὐ …
+r.5    … το Ἀπολλωνιo …
+r.6    … ς Σεναωι μένειν …
+
+[TRANSLATION]
+# HGV-EN: Copy of a letter. Dionysios to Archelaos, the … greeting. … the secretary … Apollonios … Senao …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

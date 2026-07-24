@@ -1,0 +1,36 @@
+[META]
+id:       P.LEID.INST 1.64
+label:    P.LEID.INST 1.64
+name:     Letter — unbekannt
+genre:    letters
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Letter from unbekannt (301 CE – 400 CE)
+# hgv-keywords: Brief (privat) — NN an NN — christlich — Käufe
+tm:       33045
+source:   https://papyri.info/ddbdp/p.leid.inst;1;64
+lat:      
+lon:      
+
+[GREEK]
+r.1    … ἀδελφῇ
+r.2    … [ ἐν Κυρίῳ πλεῖ]στα χαίρειν.
+r.3    [πρὸ μὲν πάντω]ν εὔχομαι σε ὁλοκληρεῖν
+r.4    [καὶ ὑγιαίνειν παρ]ὰ τῷ Κυρίῳ Θεῷ. οὐκ ἔγρα[ψάς μοι ] …
+r.5    … ου ἡμῶν Ἡρακλίδου
+r.6    … ἔλαβες ἢ οὐ. καὶ ἠγορα… [ ε]ἰ δὲ ἄλλα, καὶ πε[ρὶ τούτων γράψον μοι. ἐγὼ μ]ὲν θαυμάζω
+r.7    … μέχρι τούτου
+
+[TRANSLATION]
+# HGV-EN: X to Y my sister: many greetings in the Lord. In the first place I pray for your well-being and your health to the Lord God. You did not write me about - - - our - - - Heraclides - - - you have received or not. And I have bought [what you needed?]. If you need other things write me about these as well. I wonder - - - until now.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

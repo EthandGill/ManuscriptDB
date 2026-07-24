@@ -1,0 +1,34 @@
+[META]
+id:       O.STRAS 1.70
+label:    O.STRAS 1.70
+name:     Receipt — Theben
+genre:    receipts
+date:     46 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (46 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75670
+source:   https://papyri.info/ddbdp/o.stras;1;70
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Μαιεῦρι[ς]
+r.2    Πετεαρποχράτου ὑπὲρ …
+r.3    ϛ ἔτους δραχμὰς εἴκοσι δύο ὀ[βολοὺς][ δύο]
+r.4    γίνονται δραχμαὶ κβ διώβολον καὶ τὰ προσδιαγραφόμενα ἐξ [ὀβολοῦ α 𐅵.]
+r.5    ἔτους ϛ Τιβερίου Κλαυδίο[υ Καίσαρος]
+r.6    Σεβαστοῦ Γερμανικοῦ [Αὐτοκράτορος]
+r.7    Παχὼν ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

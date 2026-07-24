@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.674
+label:    O.BODL 2.674
+name:     Receipt — Theben
+genre:    receipts
+date:     80 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (80 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71364
+source:   https://papyri.info/ddbdp/o.bodl;2;674
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παίων καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    Νεφερῶτι Πεχύτου χαίρειν.
+r.3    ἀπέχομεν τὸ βαλανευτικὸν τοῦ β ἔτους
+r.4    Τίτου Καίσαρος τοῦ κυρίου Μεσορὴ ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

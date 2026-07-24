@@ -1,0 +1,30 @@
+[META]
+id:       O.CAIR 75
+label:    O.CAIR 75
+name:     Receipt — Elephantine oder Syene
+genre:    receipts
+date:     160 CE
+language: Greek (Koiné)
+found:    Elephantine oder Syene
+held:     
+shelf:    
+content:  Receipt from Elephantine oder Syene (160 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       73421
+source:   https://papyri.info/ddbdp/o.cair;;75
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Ο]ὔλπιος Κερεᾶλις μισθωτὴς ἱερᾶς πύλης Σοήνης. διέγραψεν
+r.2    Πετορζμῆθις Πετορζμήθεως τοῦ Ψεννήσεως ὑπὲρ λαογραφίας [κγ ἔτους]
+r.3    [ῥ]υπαρὰς δραχμὰς δεκαεπτὰ ὀβολόν, γίνονται δραχμαὶ ιζ ὀβολὸς.
+r.4    [ἔτο]υς κγ Ἀντωνείνου Καίσαρος τοῦ κυρίου Φαμενὼθ κθ.
+r.5    ἐσημειώθη διὰ Πλήνιος βοηθοῦ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

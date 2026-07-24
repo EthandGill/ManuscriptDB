@@ -1,0 +1,64 @@
+[META]
+id:       P.Oxy. 8.1128
+label:    P.Oxy. 8.1128
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     173 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (173 CE)
+# hgv-keywords: Vertrag — Miete — Speiseraum
+tm:       21746
+source:   https://papyri.info/ddbdp/p.oxy;8;1128
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐμίσθωσεν Χαιρήμων ὁ καὶ Ἀμμώνιος Θέων μητρὸς Θεανοῦτος τῆς καὶ
+r.2    Σινθώνιος ἀπʼ Ὀξυρύγχων πόλεως Ἀμμωνίῳ ἀπελευθέρῳ Σαραπίωνος τοῦ καὶ Θεογένους ἀπὸ τῆς αὐτῆς πόλεως ἐπὶ χρόνον ἔτη δύο ἀπὸ
+r.3    ὀγδόης καὶ εἰκάδος τοῦ ὄντος
+r.4    μηνὸς Φαρμοῦθι τοῦ ἐνεστῶτος τρεισκαιδεκάτου ἔτους
+r.5    Αὐρηλίου Ἀντωνίνου Καίσαρος
+r.6    τοῦ κυρίου ἀπὸ τῆς ὑπαρχούσης
+r.7    αὐτῷ ἐν κώμῃ Σεφὼ οἰκίας
+r.8    τὸ συμπόσιον καὶ τὴν ἐντὸς
+r.9    αὐτοῦ κέλλαν ἐνοικίου κατʼ ἔτος δραχμῶν εἴκοσι , ἃς ἀποδότω ὁ μεμισθώμενος
+r.10   Ἀμμώνιος τῷ μεμισθωκότι Ἀμμωνίῳ τῷ καὶ Θέωνι ἐπὶ τέλει ἑκάστου ἐνιαυτοῦ χωρὶς ὑπερθέσεως,
+r.11   καὶ μετὰ τὸν χρόνον
+r.12   παραδότω τοὺς τόπους
+r.13   καθαροὺς ἀπὸ κοπρίων
+r.14   καὶ πάσης ἀκαθαρσίας
+r.15   καὶ τὰς ἐπικειμένας θύρας καὶ κλεῖς. κυρία ἡ μίσθωσις. ἔτους ιγ Αὐτοκράτορος
+r.16   Καίσαρος Μάρκ[ο]υ
+r.17   Αὐρηλίου Ἀντωνίνου
+r.18   Σεβαστοῦ Ἀρμενιακοῦ
+r.19   Μηδικοῦ Παρθικοῦ
+r.20   Γερμανικοῦ Μεγίστου
+r.21   [Φαρμοῦ]θι κη.
+
+[TRANSLATION]
+# HGV-EN: Chaeremon also called Ammonius Theon, his mother being Theanous also called Sinthonis, of the city of Oxyrhynchus, has let to Ammonius, freedman of Sarapion also called Theogenes, of the said city, for a term of two years from the 28th day of the present month Pharmouthi of the current 13th year of Aurelius Antoninus Caesar the lord, from the house belonging to him in the village of Sepho, a dining-room and the store-chamber within it at an annual rent of 20 drachmae, which the lessee Ammonius shall pay to the lessor Ammonius also called Theon at the end of each year without delay, and at the end of the term he shall restore the rooms free of filth and dirt of all kind, and the doors and keys attached. This lease is valid.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    

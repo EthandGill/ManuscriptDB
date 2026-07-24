@@ -1,0 +1,64 @@
+[META]
+id:       P.Oxy. 55.3781
+label:    P.Oxy. 55.3781
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     117 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (117 CE)
+# hgv-keywords: Anzeige — Thronbesteigung — Hadrian
+tm:       22505
+source:   https://papyri.info/ddbdp/p.oxy;55;3781
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ῥάμμιος Μαρτιᾶλις στρατηγοῖς … νομῶν χαίρειν.
+r.2    ἐπὶ σωτηρίᾳ τοῦ σύνπαντος
+r.3    ἀνθρώπων γένους ἴστε
+r.4    τὴν ἡγεμονίαν παρὰ τοῦ
+r.5    θεοῦ πατρὸς διαδεδέχθαι
+r.6    Αὐτοκράτορα Καίσαρα
+r.7    Τραϊανὸν Ἁδριανὸν Ἄριστον
+r.8    Σεβαστὸν Γερμανικὸν Δακικὸν Παρθικόν. εὐχόμ[ενοι]
+r.9    οὖν πᾶσι θεοῖς αἰώνιον
+r.10   αὐτοῦ τὴν διαμονὴν
+r.11   ἡμῖν φυλαχθῆναι
+r.12   στεφανηφορήσομεν
+r.13   ἐφʼ ἡμέρας ι, ὅπερ καὶ τοῖς
+r.14   ὑφʼ ἑαυτοὺς νομ[οῖ]ς
+r.15   φανερὸν ποιήσητε.
+r.16   ἔτους α Μεσορὴ
+r.17   ἐπαγομένων β.
+r.18   Λητοπολίτου, Μεμφεί[του][, Ἀρσινοΐτου,]
+r.19   Ἀφροδιτοπολίτου, Ἡρακλεοπολίτου, Ὀξυρυγχίτου,
+r.20   Ὀάσεως ζ νομῶν, Κυνοπολίτου,
+r.21   [Ἑρμ]οπολίτου …
+
+[TRANSLATION]
+# HGV-EN: [Translation from P. Oxy. 55] Rammius Martialis (to the strategi of the underwritten districts?), greetings. Be it known to you that for the salvation of the whole race of mankind the imperial rule has been taken over from the god his father by Imperator Caesar Traianus Hadrianus Optimus Augustus Germanicus Dacicus Parthicus. Therefore we shall pray to all the gods that his continuance may be preserved to us for ever and shall wear garlands for ten days. This you are to publish to the districts under your charge. Year 1, Mesore, 2nd intercalary day. Letopolite, Memphite, Arsinoite, Aphroditopolite, Heracleopolite, Oxyrhynchite, Oasis of the Heptanomia, Cynopolite, Hermopolite.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    

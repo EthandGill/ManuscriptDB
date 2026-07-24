@@ -1,0 +1,22 @@
+[META]
+id:       O.ONT.MUS 1.71
+label:    O.ONT.MUS 1.71
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Documentary papyrus from Theben (101 CE – 300 CE)
+# hgv-keywords: Notiz — Getreide
+tm:       75089
+source:   https://papyri.info/ddbdp/o.ont.mus;1;71
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ὥρου πυροῦ ἀρτάβης 𐅵 κδ
+
+[TRANSLATION]
+1     

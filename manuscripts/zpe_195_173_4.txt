@@ -1,0 +1,32 @@
+[META]
+id:       ZPE 195.173_4
+label:    ZPE 195.173_4
+name:     Receipt — Elephantine
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (120 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       400194
+source:   https://papyri.info/ddbdp/zpe;195;173_4
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σωκρατίων κα[ὶ οἱ λοιποὶ πράκτορες] [χειρω]ναξίου μηνιαίου Σ[οήνης][. διὲγραψεν]
+r.2    Παχνοῦβις Οὐα … [ὑπὲρ]
+r.3    χειρωναξίου τοῦ ε ἔτους [Ἁδριανοῦ]
+r.4    Καίσαρος τοῦ κυ[ρίου ἐπὶ λόγου]
+r.5    δραχμὰς τέσσαρας [γίνονται δραχμαὶ δ. Ἀμμώνιος]
+r.6    ἔγραψα Χοιὰχ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,50 @@
+[META]
+id:       P.RYL 2.238
+label:    P.RYL 2.238
+name:     Letter — Arsinoites
+genre:    letters
+date:     262 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Letter from Arsinoites (262 CE)
+# hgv-keywords: Brief (privat) — Alypios an Heroninos
+tm:       12981
+source:   https://papyri.info/ddbdp/p.ryl;2;238
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    παρὰ Ἀλυπίου.
+r.2    φροντίς σοι γενέσθω τοῖς κυνηγοῖς
+r.3    οὓς ἀπέστειλα ἀγρεῦσαι συάγρους
+r.4    διὰ πολλὰς χρείας παρασχεῖν τὰ
+r.5    ἐπιτήδεια πάντα, τοῦτʼ ἔστιν ὅσα
+r.6    ἔθος ἔχουσι λαμβάνειν καὶ τὰ κτήνη
+r.7    αὐτῶν καὶ αὐτοί, ἵνα ἀγρεύσωσι
+r.8    μετὰ πάσης σπουδῆς, καὶ κτηνύδριον δὲ αὐτοῖς ἓν γοργὸν τῶν
+r.9    ὑπὸ σὲ παράσχες, ἐπειδήπερ
+r.10   τὸ αὐτῶν ὃ εἶχαν βουρδωνάριον εἰς ἐμὴν ὑπηρεσίαν κατέσχον.
+r.11   ἐρρῶσθαί σε εὔχομαι,
+r.12   τιμιώτατε.
+r.13   Ἡρωνείνῳ φροντιστῇ Θρασώ.
+r.14   ἔτους θ Παχὼν κε.
+
+[TRANSLATION]
+# HGV-EN: ‘From Alypius. Take care to supply all that is necessary to the huntsmen whom I have sent to hunt wild boars for various needs— all, that is, that they are accustomed to receive, both themselves and their animals, so that they may hunt with all zeal. Give them one spirited donkey from those in your charge, since I have kept for my own use the mule which they had. I pray for your health, honoured friend. To Heroninus, steward of Thraso. The 9th year, Pachon 25.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

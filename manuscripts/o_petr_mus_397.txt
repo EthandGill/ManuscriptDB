@@ -1,0 +1,32 @@
+[META]
+id:       O.PETR.MUS 397
+label:    O.PETR.MUS 397
+name:     Receipt — Theben
+genre:    receipts
+date:     1 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (1 CE)
+# hgv-keywords: Quittung — Pachtzins — Land des Tempels des Gottes Herakles
+tm:       75448
+source:   https://papyri.info/ddbdp/o.petr.mus;;397
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ψενα … προστάτης
+r.2    Ἡρακλήου Ἁρσιήσι Πετεμίνιος
+r.3    χαίρειν ἀπέχω παρὰ σοῦ
+r.4    τὸ ἐκφόριον τῆς γῆς ἧς
+r.5    ἐγεώργησας τοῦ Ἡρακλήους
+r.6    θεοῦ μεγίστου τῷ ἔτει λ Καίσαρος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

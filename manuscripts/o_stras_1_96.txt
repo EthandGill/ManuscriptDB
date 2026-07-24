@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.96
+label:    O.STRAS 1.96
+name:     Receipt — Theben
+genre:    receipts
+date:     83 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (83 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75696
+source:   https://papyri.info/ddbdp/o.stras;1;96
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Πικῶς πρεσβύτερος Μαιεύριος
+r.2    ὑπὲρ λαογραφίας Ἀγορᾶς βορρᾶ β ἔτους δραχμὰς δέκα ἓν ὀβολὸν α 𐅵
+r.3    γίνονται δραχμαὶ ια ὀβολὸς α 𐅵 καὶ προσδιαγραφόμενα. ἔτους β Δομιτιανοῦ
+r.4    τοῦ κυρίου Φαρμοῦθι ιγ.
+r.5    Ἀπολλ Ἡρα ἐσημειωσάμην.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

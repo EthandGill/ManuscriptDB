@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 12.1490
+label:    P.Oxy. 12.1490
+name:     Letter — Oxyrhynchites, Ägypten
+genre:    letters
+date:     320 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites, Ägypten
+held:     
+shelf:    
+content:  Letter from Oxyrhynchites, Ägypten (320 CE)
+# hgv-keywords: Brief (privat) — Herakleides an Sarapion (Beamter?) — Bitte um Hilfe für einen γνωστήρ (Ausweiser)
+tm:       31747
+source:   https://papyri.info/ddbdp/p.oxy;12;1490
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    αἱρέσι τ …
+r.2    φορέτρο …
+r.3    διανομῆς ἀρουρῶν …
+r.4    Ἡρακλε[ίδης Σαρ]απίωνι τῶι ἀξιολογωτάτῳ χαίρειν.
+r.5    Δημήτριος ὁ γνωστὴρ ἠξίωσέν με λέγειν σοι
+r.6    ὥστε αὐτὸν ἄλυπον γενέσθαι ὑπὲρ τῶν προτέρων
+r.7    ἐτῶν. λέγει γὰρ ὅτι ὠφέλησα αὐτὸν μεγάλως καὶ
+r.8    ἐν τῇ ἀννώνῃ. λέγει δὲ ὅτι ἀννώνα νῦν ζητεῖται.
+r.9    εἰ οὖν πάλιν δύνῃ ἐκπλέξαι παρὰ σεαυτῷ, τύχῃ
+r.10   τῇ ἀγαθῇ. εἰ δὲ μή γε, ἐπίστειλον τί θέλεις ἑτοιμασθῆναι. ἀλλὰ μὴ ἀμελήσῃς, οὔπω γὰρ ἐξῆλθον.
+r.11   ἐὰν ἰσχύσῃς ἐκπλέξαι, μέγα ἔργον ποιεῖς,
+r.12   διότι κτήνη οὐκ ἔχομεν οὐδὲ χοίρους.
+r.13   ἐρρῶσθαί σε ὁλοκλη[ρ]οῦντα
+r.14   [ε]ὔχομαι.
+
+[TRANSLATION]
+# HGV-EN: Heraclides to the most notable Sarapion, greeting. Demetrius, the certifier, asked me to speak to you, so that he may be freed from anxiety about the previous years. He says “I helped him greatly in the matter of the annona.” He says that the annona is now being claimed. If then you can again get him off by yourself(?), good luck to you; but if not, give instructions as to what preparations you wish to be made. Do not neglect this, for they have not yet gone away. If you are strong enough to get him off, it will be a great achievement, since I have no cattle or pigs. I pray for your complete health.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

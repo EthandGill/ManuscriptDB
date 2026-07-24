@@ -1,0 +1,26 @@
+[META]
+id:       BGU 2.374
+label:    BGU 2.374
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (201 CE – 300 CE)
+# hgv-keywords: Befehl (Gestellung)
+tm:       31262
+source:   https://papyri.info/ddbdp/bgu;2;374
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    [ἀρ]χεφόδοις κώμης Καρανίδος. ἐξ αὐτῆς ἀναπέμψατε
+r.2    … Διδύμου καὶ τὴν τούτου γυναῖκα Ταμάρωνα ἐνκ[α][λουμένους ὑπ]ὸ Αὐρηλίου Σερήνου Σαραπίωνος
+
+[TRANSLATION]
+# HGV-EN: To the archephodoi of the village of Karanis. Send up immediately [NN], son of Didymos and his wife Tamaron, accused by Aurelius Serenos, son of Sarapion.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

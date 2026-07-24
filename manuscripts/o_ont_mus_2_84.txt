@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.84
+label:    O.ONT.MUS 2.84
+name:     Receipt — Theben
+genre:    receipts
+date:     74 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (74 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75101
+source:   https://papyri.info/ddbdp/o.ont.mus;2;84
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Ψεναμοῦνις ὁμοίως
+r.2    Ὀσορουήριος ὑπὲρ χωματικοῦ Ἀγορῶν ϛ ἔτους
+r.3    δραχμὰς ϛ τετρώβολον. ἔτους ϛ Οὐεσπασιανοῦ
+r.4    τοῦ κυρίου Ἐπεὶφ λ‡ε
+r.5    Α σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

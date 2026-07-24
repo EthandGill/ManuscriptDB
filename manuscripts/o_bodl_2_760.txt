@@ -1,0 +1,36 @@
+[META]
+id:       O.BODL 2.760
+label:    O.BODL 2.760
+name:     Receipt — Theben
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (144 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71450
+source:   https://papyri.info/ddbdp/o.bodl;2;760
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Κεφάλων καὶ Παμώνθης πράκτορες ἀργυρικῶν
+r.2    Ἀγορῶν β Πεκῦσι Ψενμώνθου.
+r.3    ἐσχήκαμεν ὑπὲρ μερισμοῦ ἀνακεχωρηκότων
+r.4    ϛ ἔτους ῥυπαρὰς δραχμὰς γ διώβολον γίνονται
+r.5    ῥυπαραὶ δραχμαὶ γ διώβολον.
+r.6    ἔτους ζ Ἀντωνίνου
+r.7    Καίσαρος τοῦ κυρίου
+r.8    Τῦβι θ. Διονύσιος σεσημείωμαι δραχμὰς γ διώβολον.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

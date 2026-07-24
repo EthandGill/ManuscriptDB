@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.180
+label:    O.STRAS 1.180
+name:     Receipt — Theben
+genre:    receipts
+date:     37 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (37 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75777
+source:   https://papyri.info/ddbdp/o.stras;1;180
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ὀνῆς Πετεμενῶφις καὶ μέτοχοι
+r.2    πράκτωρ βαλανείου β ἔτους
+r.3    Σειαν[ῷ] Ὥρου χαίρειν. ἀπέχω τὸ βαλανευτικὸν
+r.4    δραχμὰς β. ἔτους β Γαίου Καίσαρος Σεβαστ[ο]ῦ Γερμανικοῦ
+r.5    Χοιὰκ ε.
+r.6    Μονθαρώθης Πετεμενώφιος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

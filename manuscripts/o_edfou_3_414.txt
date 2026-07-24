@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 3.414
+label:    O.EDFOU 3.414
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     70 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (70 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74390
+source:   https://papyri.info/ddbdp/o.edfou;3;414
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Π[βῆ]κις Πετ[εσ]θεὺς Παμπχημίου χωματικοῦ β ἔτους
+r.2    Οὐεσπασιανοῦ δραχμὰς ϛ τετρώβολον βαλανείου διώβολον
+r.3    ἔτους β Παχὼν α
+
+[TRANSLATION]
+1     
+2     
+3     

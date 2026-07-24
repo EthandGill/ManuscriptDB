@@ -1,0 +1,26 @@
+[META]
+id:       BASP 52.41
+label:    BASP 52.41
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     226 CE – 275 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     New Haven
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (226 CE – 275 CE)
+# hgv-keywords: Papontos — Registrierung — Viertel
+tm:       653713
+source:   https://papyri.info/ddbdp/basp;52;41
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    ἐπ’ ἀμφόδου Ἑρμαίου
+r.2    Παποντῶς Πετοσείριος
+r.3    μητρὸς Τσεναφύγχεως
+
+[TRANSLATION]
+1     
+2     
+3     

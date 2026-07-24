@@ -1,0 +1,36 @@
+[META]
+id:       SB 5.7574
+label:    SB 5.7574
+name:     Letter — Elephantine
+genre:    letters
+date:     200 BCE – 101 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Letter from Elephantine (200 BCE – 101 BCE)
+# hgv-keywords: Brief (privat) — Stratonikos an Senchnubis
+tm:       6236
+source:   https://papyri.info/ddbdp/sb;5;7574
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Στρατόνικος Σενχνούβει τῆι
+r.2    γυναικὶ χαίρειν. σημεῖον
+r.3    ὅτε εἶπον σοι λυτρῶσαι τὸν καινὸν
+r.4    χιτῶνα ἀπὸ τῶν χαλκῶν.
+r.5    γίνωσκε ὅτι ἔχω σ. δὸς αὐτοῖς
+r.6    τὴν συνχώρησιν ἐκ τῆς
+r.7    θυρίδος τῆς προστάδος.
+
+[TRANSLATION]
+# HGV-EN: Stratonikos to Senchnoubis, my wife, greetings. The sign (scil. that this comes from me) is this: when I said to you to redeem the new chiton with the money. Know that I have 200 (drachmas). Give them the agreement from the window-sill in the vestibule.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

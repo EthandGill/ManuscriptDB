@@ -1,0 +1,36 @@
+[META]
+id:       P.NAQLUN 3.36
+label:    P.NAQLUN 3.36
+name:     Documentary papyrus — Fundort: Naqlun (Arsinoites, Ägypten)
+genre:    documents
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Fundort: Naqlun (Arsinoites, Ägypten)
+held:     Naqlun
+shelf:    
+content:  Documentary papyrus from Fundort: Naqlun (Arsinoites, Ägypten) (501 CE – 600 CE)
+# hgv-keywords: Liste — Namen
+tm:       700733
+source:   https://papyri.info/ddbdp/p.naqlun;3;36
+lat:      29.193771
+lon:      30.876986
+
+[GREEK]
+r.1    [Α]νθηα καὶ Ἰωάννης καὶ Ἀβραὰμ τὰ ταύτὴς παιδία διὰ Τριβούνου βοηθοῦ
+r.2    Σάρα Ὁρίωνος καὶ Εὐφράντιος
+r.3    ἀδελφὸς μητρὸς Γηροσας
+r.4    Παπνούθις Σκοῦπα μητρὸς
+r.5    Ἡραίδος
+r.6    Νόννα Ἀγάθου ἐκ μητρὸς Εὐ[δο]κίας καὶ Μαρία ἀδελφή
+r.7    Φοιβάμμων Ἀντήους μητρὸς … [ο]υ …
+
+[TRANSLATION]
+# HGV-EN: ( ) Antheia and Ioannes and Abraam, children of the same (woman) through Tribounos assistant (boethos); Sara, daughter of Horion, and Euphrantios, her brother, of the mother Gerosa (?); Papnouthis son of Skoupas (= Skopas?), of the mother Heraïs; Nonna, daughter of Agathes(?), of the mother Eukia, and Maria, sister Phoibammon son of Antes, of the mother ...ou.e; …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

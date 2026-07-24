@@ -1,0 +1,26 @@
+[META]
+id:       P.HARRAUER 27
+label:    P.HARRAUER 27
+name:     Receipt — Elephantine
+genre:    receipts
+date:     262 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (262 BCE)
+# hgv-keywords: Quittung — Steuer (Salz) — Geld
+tm:       56497
+source:   https://papyri.info/ddbdp/p.harrauer;;27
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    πέπτωκεν παρὰ Ἰρήνης ἁλὸς ὀβολοὶ 1 12
+r.2    ἔτους κδ μηνὸς
+r.3    Επὲπ ιγ
+
+[TRANSLATION]
+1     
+2     
+3     

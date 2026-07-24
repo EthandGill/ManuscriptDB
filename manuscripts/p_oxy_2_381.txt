@@ -1,0 +1,24 @@
+[META]
+id:       P.Oxy. 2.381
+label:    P.Oxy. 2.381
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     76 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (76 CE)
+# hgv-keywords: Sillybos (?) — Band um die Rolle
+tm:       20598
+source:   https://papyri.info/ddbdp/p.oxy;2;381
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    θ ἔτους Οὐεσπασιανοῦ μνημονικῶν
+r.2    μηνὸς Νέου Σεβαστοῦ ἀντίτομον
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,32 @@
+[META]
+id:       O.ELEPH.WAGNER 67a
+label:    O.ELEPH.WAGNER 67a
+name:     Receipt — Elephantine
+genre:    receipts
+date:     18 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (18 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23856
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;67a
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διαγεγράφηκεν
+r.2    Παμώνθης Ἐμπυῶπις ὑπὲρ λαογραφίας
+r.3    τοῦ δ ἔτους Τιβερίου Καίσαρος
+r.4    Σεβαστοῦ Φαμενὼθ δ
+r.5    ἀργυρίου ἀρχαίου δραχμὰς ιϛ.
+r.6    Αὐμ Ἀπολ ἐπηκολούθηκα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

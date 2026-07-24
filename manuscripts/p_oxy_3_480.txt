@@ -1,0 +1,54 @@
+[META]
+id:       P.Oxy. 3.480
+label:    P.Oxy. 3.480
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     132 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (132 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       20616
+source:   https://papyri.info/ddbdp/p.oxy;3;480
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … [ ἐπʼ ἀμφόδου]
+r.2    Μυροβ[αλάν]ου [οἰ]κίαν καὶ χρηστήρια
+r.3    πρότερον α[ὐτοῦ] πατρός μ[ο]υ κοινωνικὸν πρὸς Κλέωνα Διονυσίου
+r.4    καὶ ἄλλους εἰς ὃ [ο]ὐδεὶς ἀπογράφεται οὐδὲ καταγίνεται.
+r.5    καὶ ὀμνύω Αὐτοκράτορα
+r.6    Καίσαρα Τραιανὸν Ἁδ[ρ]ιανὸν
+r.7    Σεβαστὸν ἐξ ὑγιοῦς καὶ ἐπʼ ἀληθείας ἐπιδεδωκέναι τὴν προκειμένην ἀπογραφὴν καὶ μήτε ἐπίξενον μήτε
+r.8    Ῥωμαῖον μήτε Ἀλεξανδρέα μήτε Αἰγύπτιον
+r.9    μήτε ἀπελεύθερον μήτε ἄλλον
+r.10   μηδένα οἰκεῖν ἢ ἀπογράφεσθαι ἔξω τῶν προγεγραμμένων ἢ ἔνοχος
+r.11   εἴην τῷ ὅρκῳ. ἔτους ιζ
+r.12   Αὐτοκράτορος Καίσαρος
+r.13   Τραιανοῦ Ἁδριανοῦ
+r.14   Σεβαστοῦ Ἁθὺρ κθ.
+r.15   Χαιρήμων Χαιρήμονος
+r.16   ἐπιδέδωκα καὶ ὀμώμοκα τὸν ὅρκον.
+
+[TRANSLATION]
+# HGV-EN: (I register) in the Myrobalanus quarter a house and fixtures which previously belonged to my said father in common with Cleon son of Dionysius and others, in which no one is registered or lives; and I swear by the Emperor Caesar Trajanus Hadrianus Augustus that I have honestly and truly presented the above return, and that neither stranger nor Roman nor Alexandrian nor Egyptian nor freedman nor any one else dwells or is registered in it except the aforesaid, or may I be liable to the penalties of the oath. The 17th year of the Emperor Caesar Trajanus Hadrianus Augustus, Athur 29. I, Chaeremon son of Chaeremon, have presented the return and sworn the oath.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

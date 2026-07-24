@@ -1,0 +1,30 @@
+[META]
+id:       P.ABERD 42h
+label:    P.ABERD 42h
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     189 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (189 CE)
+# hgv-keywords: Quittung — Torzoll
+tm:       10002
+source:   https://papyri.info/ddbdp/p.aberd;;42h
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης
+r.2    [Και]νῆς ἐρημοφυλακίας
+r.3    Χήρης ἐξάγων ὄνον
+r.4    ἕνα . ἔτους κθ
+r.5    Ἐπ[ε]ὶφ κα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

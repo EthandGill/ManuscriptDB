@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1089
+label:    O.BODL 2.1089
+name:     Receipt — Theben
+genre:    receipts
+date:     190 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (190 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71776
+source:   https://papyri.info/ddbdp/o.bodl;2;1089
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαῶφι κϛ τοῦ λα ἔτους ὀνόματος Τιτιενοῦ
+r.2    Φθουμώνθου καὶ μετόχων ἐπιτηρητῶν πεντηκοστῆς
+r.3    [λα] ἔτους δραχμὰς τριάκοντα ἓξ
+r.4    [γίνονται δραχμαὶ ][λ]ϛ. Ἀμώνιος … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

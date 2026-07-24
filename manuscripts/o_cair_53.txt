@@ -1,0 +1,26 @@
+[META]
+id:       O.CAIR 53
+label:    O.CAIR 53
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     96 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (96 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       73399
+source:   https://papyri.info/ddbdp/o.cair;;53
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    διαγεγράφασι Φθομώνθης Φιγήριος καὶ Σενφθομώνθης Φθ[ομώνθου][ ὑπὲρ]
+r.2    ἐνκυκλίου Μεμνονείων ιε ἔτους δραχμὴ α 𐅵. ἔτους ιϛ Δ[ομιτιανοῦ]
+r.3    Καίσαρος τοῦ κυρίου Θὼτ γ.
+
+[TRANSLATION]
+1     
+2     
+3     

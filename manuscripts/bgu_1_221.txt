@@ -1,0 +1,32 @@
+[META]
+id:       BGU 1.221
+label:    BGU 1.221
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     200 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (200 CE)
+# hgv-keywords: Quittung — Abgaben — Fischer
+tm:       8985
+source:   https://papyri.info/ddbdp/bgu;1;221
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἔτους θ Λουκίου Σεπτιμίου Σεουήρου
+r.2    Εὐσεβοῦς Περτίνακος καὶ Μάρκου Αὐρηλίου
+r.3    Ἀντωνίνου Εὐσεβοῦς Σεβαστῶν
+r.4    Θῶθ ιϛ. διεγράφησαν Ἀπ[ίω]νι νομάρχῃ Ἀρσινοίτου διʼ Ἡρακλᾶ
+r.5    βοηθοῦ ἁλιέων ἀπὸ ποδὸς Σοκνοπαίου Νήσου διὰ Παβούκα η ἔτους δραχμὰς ἑκατὸν ἑξήκοντα [τρε]ῖς γίνονται δραχμαὶ ρξγ.
+
+[TRANSLATION]
+# HGV-EN: Year 9 of Lucius Septimius Severus Pius Pertinax and of Marcus Aurelius Antoninus Pius, Augusti, Thoth 16. Paid to Ap[io]n, nomarch of the Arsinoite nome, through Heraklas, assistant, for the fishermen-on-foot of Soknopaiou Nesos through Paboukas for year 8 one hundred and sixty three drachmas = 163 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

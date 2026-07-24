@@ -1,0 +1,44 @@
+[META]
+id:       BGU 2.651
+label:    BGU 2.651
+name:     Petition — Karanis (Arsinoites)
+genre:    petitions
+date:     192 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Petition from Karanis (Arsinoites) (192 CE)
+# hgv-keywords: Eingabe — Sabinus an den Zenturio Valerius Germanus (Irrtümlich (?) eigentlich für den Strategen gedacht?) — Brandstiftung an seiner Scheune
+tm:       9289
+source:   https://papyri.info/ddbdp/bgu;2;651
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Οὐαλερίῳ Γερμανῷ ἑκατοντάρχῃ
+r.2    παρὰ [Σα]βείνου Ζωσίμου ἀπὸ τῆς μητροπόλεως
+r.3    καταγενομένου ἐν κώμῃ Καρανίδι.
+r.4    νυκτὶ τῇ φερούσῃ εἰς τὴν ιβ ἐνεπρήσθη μου ἅλων περὶ κώμην Πτολεμαίδα Νέαν ὑπό τινων, οὓς καὶ ἀγνοῶ. ὅθεν
+r.5    ἐπιδίδωμι τάδε τὰ βιβλίδια εἰς τὸ
+r.6    ἐν καταχωρισμῷ γενέσθαι πρὸς τὸ
+r.7    μένειν μοι τὸν λόγον πρὸς τοὺς φανησομένους αἰτίους. Σαβεῖνος
+r.8    ἐπιδέδωκα.
+r.9    ἔτους λβ Λουκίου Αἰλίου Αὐρηλίου
+r.10   Κομμόδου Καίσαρος τοῦ κυρίου
+r.11   Παχὼν ιδ.
+
+[TRANSLATION]
+# HGV-EN: (m. 2) To Valerius Germanus, centurio, (m. 1) from [Sa]beinos, son of Sosimos from the metropolis, resident in the village of Karanis. On the night before the 12th my threshing floor near the village of Ptolemais Nea was set on fire by certain people, whom I do not know. Therefore I submit these petitions, so that it be entered on the register, in order that the persons found guilty may be held accountable to me. (m. 2) I, Sabeinos, have submitted (this petition). (m. 1) Year 32 of Lucius Aelius Aurelius Commodus Caesar, the lord, Pachon 14.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

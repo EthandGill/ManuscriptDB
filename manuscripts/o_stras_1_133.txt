@@ -1,0 +1,24 @@
+[META]
+id:       O.STRAS 1.133
+label:    O.STRAS 1.133
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     51 CE – 125 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (51 CE – 125 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75733
+source:   https://papyri.info/ddbdp/o.stras;1;133
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ἁρσῦνις Πβήκιος,
+r.2    [Ἁρ]σῦνις υἱὸς
+
+[TRANSLATION]
+1     
+2     

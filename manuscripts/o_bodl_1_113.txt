@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 1.113
+label:    O.BODL 1.113
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     97 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (97 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       44028
+source:   https://papyri.info/ddbdp/o.bodl;1;113
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιζ Μεχεὶρ θ τέτακται Φοτνοῦφις
+r.2    Ψενχώνσιος εἰς τὸν στέφανον
+r.3    τῶν κατοίκων ἀργυρίου δραχμὰς τεσσαράκοντα γίνονται δραχμαὶ μ.
+
+[TRANSLATION]
+1     
+2     
+3     

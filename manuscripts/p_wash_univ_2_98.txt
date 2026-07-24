@@ -1,0 +1,30 @@
+[META]
+id:       P.WASH.UNIV 2.98
+label:    P.WASH.UNIV 2.98
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (401 CE – 500 CE)
+# hgv-keywords: Rechnung — Verbrauch — Wein
+tm:       35108
+source:   https://papyri.info/ddbdp/p.wash.univ;2;98
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    λόγος ἀναλώματος οἴνου
+r.2    κθ λ α οἴνου διπλᾶ ζ
+r.3    β εἰς ἄριστον δεῖπνον διπλᾶ β
+r.4    γ εἰς ἄριστον δεῖπνον διπλᾶ β
+r.5    εἰς δεῖπνον διπλοῦν α
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       O.VLEEM 25
+label:    O.VLEEM 25
+name:     Receipt — Elephantine
+genre:    receipts
+date:     219 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (219 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       3021
+source:   https://papyri.info/ddbdp/o.vleem;;25
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔτους δ Φαρμοῦθι ϛ
+r.2    τέτακται Παμοῦν
+r.3    ἁλικῆς διὰ Δώρο[υ] τετρώβολον, Συηνιτῶν
+r.4    λογείας δραχμὰς β, Ταιμοῦτ
+r.5    γυνὴ ὀβολὸν α 𐅵.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

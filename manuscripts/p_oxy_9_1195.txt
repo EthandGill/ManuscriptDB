@@ -1,0 +1,42 @@
+[META]
+id:       P.Oxy. 9.1195
+label:    P.Oxy. 9.1195
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     135 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (135 CE)
+# hgv-keywords: Eid — vor Gericht erscheinen
+tm:       21581
+source:   https://papyri.info/ddbdp/p.oxy;9;1195
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Ἀπολλωνίωι κριτῆι δοθέντι ὑπὸ Πετρωνίου
+r.2    Μαμερτείνου τοῦ κρατίστου ἡγεμόνος.
+r.3    Ἑρμα[ῖο]ς ὁ καὶ Ἀνουβίων Ἑρμαίου τῶν ἀπὸ
+r.4    Ἑρμ[ο]ῦ πόλεως τῆς μεγάλης ὀμνύω
+r.5    Αὐτ[ο]κράτορα Καίσαρα Τραιανὸν Ἁδριανὸν
+r.6    Σεβαστὸν ἐρεῖν ἐπὶ σοῦ αὔριον ἥτις ἐστὶν εἰκὰς τοῦ ἐνεστῶτος μην[ὸ]ς [Μ]εχε[ὶρ] ἐκβιβάζων τὰ ἐνεστῶτ[ά μοι π]ρὸς
+r.7    Ἑρμ[α]ῖον Ἀπολλωνίδου τοῦ … νος,
+r.8    ἢ ἔνοχος εἴην τῶι ὅρκωι. ἔτους ἐννεακαιδεκάτου
+r.9    Αὐτοκράτορος Καίσαρος Τραιανοῦ Ἁδριανοῦ
+r.10   Σεβαστοῦ Μεχεὶρ ἐννεακαιδεκάτῃ.
+
+[TRANSLATION]
+# HGV-EN: To Apollonius, the judge appointed by his highness the praefect Petronius Mamertinus. I, Hermaeus also called Anubion, son of Hermaeus, inhabitant of Hermopolis Magna, swear by the Emperor Caesar Trajanus Hadrianus Augustus that I will speak before you to-morrow, being the twentieth day of the present month Mecheir, in explanation of my case against Hermaeus son of Apollonides son of ...; otherwise let me be liable to the consequences of the oath.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.836
+label:    O.BODL 2.836
+name:     Receipt — Theben
+genre:    receipts
+date:     117 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (117 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71525
+source:   https://papyri.info/ddbdp/o.bodl;2;836
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἰμούθης πράκτωρ ἀργυρικῶν
+r.2    Π … υς Πετεμενώφιος. ἔσχον
+r.3    ὑπὲρ σκοπέλων καὶ ἄλλων Ἀγορῶν Βορρᾶ κ ἔτους δραχμὰς γ τετρώβολον.
+r.4    ἔτους κ Τραιανοῦ τοῦ κυρίου Μεχεὶρ η … .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

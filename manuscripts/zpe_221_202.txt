@@ -1,0 +1,40 @@
+[META]
+id:       ZPE 221.202
+label:    ZPE 221.202
+name:     Receipt — unbekannt
+genre:    receipts
+date:     29 BCE
+language: Greek (Koiné)
+found:    unbekannt
+held:     Uppsala
+shelf:    
+content:  Receipt from unbekannt (29 BCE)
+# hgv-keywords: Vertrag — Quittung — Kauf — Sklaven
+tm:       971913
+source:   https://papyri.info/ddbdp/zpe;221;202
+lat:      
+lon:      
+
+[GREEK]
+r.1    Κόιντος Πομπώνιος Κοίντου Γαίου ἀπελεύθερος Κλαύδιος ἠγόρασεν παιδάριον Νικίαν τῶ[ι]
+r.2    γένε[ι] Θηβαῖον ἐτῶν ὡσεὶ δεκατεσσάρων δραχμῶν Πτολεμαικῶν ἑπτακοσίων καὶ παιδάριον Ἀγαθ …
+r.3    [τ]ῶι γένει Θηβαῖον ἐτῶν ὡσεὶ δεκαδύο δραχμῶν Πτολεμαικῶν ἑπτακοσίων καὶ παιδάριον Ἡρακλέωνα
+r.4    [τῶι γ]ένει Θηβ[α]ῖ[ο]ν ἐτῶν ὡσεὶ ἕνδεκα δραχμῶν Πτολεμαικῶν ἑπτακοσίων καὶ παιδάριον Χείλωνα
+r.5    [τῶι γένει] Θηβ[αῖον] ἐτῶν ὡσεὶ ἐννέα δραχμῶν Πτολεμαικῶν ἑξακοσίων πεντήκοντα καὶ παιδάρι[ο]ν
+r.6    … [τῶι γένει Θ]η[β]αῖον ἐτῶν ὡσεὶ ἐννέα δραχμῶν Πτολεμαικῶν ἑπτακοσίων καὶ παιδάριον Πιν …
+r.7    [τῶι γένει Θηβαῖον ἐτῶ]ν ὡσεὶ πέντε δραχμῶν Πτολεμαικῶν τριακοσίων καὶ γυναῖκα Μύρτειν τῶι [γένει]
+r.8    [Θηβαίαν ἐτῶν ὡσεὶ] [δε]καοκτὼ [δρ]αχμῶν [Πτο]λεμαικῶν τρι[ακοσ]ίων καὶ γυναῖκα Ἀνδρομάχην τ[ῶι γένει]
+r.9    [Θηβαίαν ἐτῶν ὡσεὶ] … [δραχμῶν Πτολεμαικῶν] … [κ]αὶ γυναῖκα … ην τῶ[ι] γέν[ει] Θ[ηβαίαν] …
+
+[TRANSLATION]
+# HGV-EN: Quintus Pomponius Claudius, freedman of Quintus (and) Gaius, has bought a boy, Nikias, by race Theban, about fourteen years old, for seven hundred Ptol(emaic) drach(mas), and a boy, Agath[---], by race Theban, about twelve years old, for seven hundred Ptol(emaic) drach(mas), and a boy, Herakleo(n), by race Theban, about eleven years old, for seven hundred Ptol(emaic) drach(mas), and a boy, Chilon, [by race] Theban, about nine years old, for six hundred fifty Ptol(emaic) drach(mas), and a boy, NN, [by race] Theban, about nine years old, for seven hundred Ptol(emaic) drach(mas), and a boy, Pin[---, by race] Theban, about five years old, for three hundred Ptol(emaic) drach(mas), and a woman, Myrtis, [by race Theban, about] eighteen [years old], for three hundred Ptol(emaic) drach(mas), and a woman, Andromache, [by race Theban, about … years old, for … Ptol(emaic) drach(mas)], and a woman, NN, by race Th[eban …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

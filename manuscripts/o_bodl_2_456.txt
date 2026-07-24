@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.456
+label:    O.BODL 2.456
+name:     Receipt — Elephantine
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (120 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71157
+source:   https://papyri.info/ddbdp/o.bodl;2;456
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Διδυμίω]ν πράκτωρ διὰ Παλαχήμιος. διέγραψεν Πετορζμῆ[θις]
+r.2    … φεως μητρὸς Σενβιῆγχιος ὑπὲρ λαογραφίας
+r.3    [τοῦ ] … [ ἔτους Ἁδριαν]οῦ Καίσαρος τοῦ κυρίου
+r.4    … [ Μ]εχεὶρ … .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

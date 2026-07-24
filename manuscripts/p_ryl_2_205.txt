@@ -1,0 +1,38 @@
+[META]
+id:       P.RYL 2.205
+label:    P.RYL 2.205
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (101 CE – 200 CE)
+# hgv-keywords: Abrechnung (Korn)
+tm:       27890
+source:   https://papyri.info/ddbdp/p.ryl;2;205
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ὁμοίως ὑπελογήσαμεν ὡς πρόκιται
+r.2    ἀρτάβας η γ κδ, λοιπαὶ φακοῦ ἀρτάβαι κθ γ η,
+r.3    γίνονται ἀντὶ κριθῆς ἀρταβῶν σιε ιβ
+r.4    φακ[ο]ῦ ἀρτάβαι ρ γ η.
+r.5    ἐξ ὧν ὑ[π]ελογήσαμεν ὡς πρόκιται
+r.6    ἀρτάβας κβ … κδ, λ[ο]ιπαὶ ἐξοδιασμῶν
+r.7    φακοῦ ἀρτάβαι οη … .
+r.8    Θεαδελφείας καὶ Σεντρεπαεῖτος … α δείγματος Ϛϡπ, ιβ β δείγματος τξδ δ κδ, γίνονται πυροῦ Ζτμδ [δ κδ,] φακοῦ … ιβ, γίνονται αἱ προκείμεναι.
+
+[TRANSLATION]
+# HGV-EN: ‘We have likewise deducted as aforesaid 8 3/8 artabae, remainder 29 11/24 art. of lentils, total instead of 215 1/12 of barley 100 11/24 art. of lentils; from which we have deducted as aforesaid 22... art., remainder of payments 78 … art. of lentils.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

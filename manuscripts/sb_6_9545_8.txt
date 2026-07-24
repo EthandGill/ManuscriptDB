@@ -1,0 +1,28 @@
+[META]
+id:       SB 6.9545_8
+label:    SB 6.9545_8
+name:     Receipt — Elephantine
+genre:    receipts
+date:     71 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (71 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Namen
+tm:       19070
+source:   https://papyri.info/ddbdp/sb;6;9545_8
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Κτεχνοῦβις Παχνούβιος
+r.2    ὑπὲρ λαογραφίας γ ἔτους Οὐεσπασιανοῦ τοῦ
+r.3    κυρίου ἐπὶ λόγου ἀργυρίου δραχμὰς
+r.4    ὀκτώ γίνονται η Φαρμοῦθι ζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

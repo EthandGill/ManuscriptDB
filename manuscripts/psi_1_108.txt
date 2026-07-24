@@ -1,0 +1,34 @@
+[META]
+id:       PSI 1.108
+label:    PSI 1.108
+name:     Documentary papyrus — Mendes
+genre:    documents
+date:     180 CE – 192 CE
+language: Greek (Koiné)
+found:    Mendes
+held:     
+shelf:    
+content:  Documentary papyrus from Mendes (180 CE – 192 CE)
+# hgv-keywords: amtlicher Bericht — Erhebung (Steuern) — Rückstände
+tm:       45145
+source:   https://papyri.info/ddbdp/psi;1;108
+lat:      30.9626
+lon:      31.5046
+
+[GREEK]
+r.1    ἰδιωτικῶν ἐδαφῶν ὄντων χρεωστῶν τοῦ ταμείου δηλωσάντων
+r.2    εἶναι ἐν χέρσῳ τὰ καθήκοντα τω …
+r.3    ἐπεσχέθη τὰ οὐσιακὰ ὑπὲρ τοῦ … ἔτους
+r.4    ἀργυρικὰ τελέσματα τῶν σιτικῶν
+r.5    ἐν ἑτέρῳ μέρει ἐπισχεθέντα διαστέλλεται ἄχρι κρίσεως.
+r.6    Θμοιβαστείτου κ … μ …
+r.7    ὀνόματος Ἀπολλωνίου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

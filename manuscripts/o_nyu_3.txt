@@ -1,0 +1,34 @@
+[META]
+id:       O.NYU 3
+label:    O.NYU 3
+name:     Receipt — Diospolis Parva
+genre:    receipts
+date:     110 BCE
+language: Greek (Koiné)
+found:    Diospolis Parva
+held:     Los Angeles
+shelf:    
+content:  Receipt from Diospolis Parva (110 BCE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       131730
+source:   https://papyri.info/ddbdp/o.nyu;;3
+lat:      26.016881
+lon:      32.312497
+
+[GREEK]
+r.1    ἔτους ζ Μεσορη κε τέτακται ἐπὶ τὴν
+r.2    ἐν Διὸς πόλει τράπεζαν ἐφ’ ἧς Ἀσκληπιάδης ταριχ- τοῦ
+r.3    αὐτοῦ ἔτους Ὄννωφρις καὶ Ἁρμάχορος
+r.4    χαλκοῦ [oὗ] ἀλλαγὴ δισχιλίας ὀκτακοσίας μ,
+r.5    γίνονται Βωμ. δραχμαὶ Γχϙ.
+r.6    δι’ Ἀσκληπιάδου. Γϡϙ.
+
+[TRANSLATION]
+# HGV-EN: Year 7, Mesore 25, have paid to the bank in Diospolis that Asklepiades is in charge of, for tari(ch- ) of the same year, Onnophris and Harmachoros, in bronze with agio, two thousand eight hundred 40 ⟨dr.⟩, that is, 2,840 ⟨dr.⟩. 3,690 drachmas. Through Asklepiades. 3,990 ⟨dr.⟩.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

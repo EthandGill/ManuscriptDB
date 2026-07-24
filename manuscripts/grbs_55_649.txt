@@ -1,0 +1,42 @@
+[META]
+id:       GRBS 55.649
+label:    GRBS 55.649
+name:     Documentary papyrus — Theadelphia (Arsinoites)
+genre:    documents
+date:     3 BCE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     Ann Arbor
+shelf:    
+content:  Documentary papyrus from Theadelphia (Arsinoites) (3 BCE)
+# hgv-keywords: Deklaration — Zensus
+tm:       749316
+source:   https://papyri.info/ddbdp/grbs;55;649
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    Ἀκουσιλάωι κ[αὶ] … ισίωι κ[α]ὶ Τιμοκρ[ά]τηι καὶ
+r.2    Διονυσίωι καὶ … ρ … νωι λαογράφοις Θεαδελφ[εία]ς
+r.3    παρὰ Ἁρθώτου τοῦ Μαρρείους τῶν ἀπὸ τῆς
+r.4    κώμης δημοσίων γεωργῶν ὡς ἐτῶν μα.
+r.5    ὑπάρχει μοι ἐν τῆι κώμηι οἰκία ἐν ᾗ αὐτὸς
+r.6    ἐγὼ κατ[α]γίν[ο]μαι λαογραφούμενος περὶ τὴν
+r.7    κώμην … ς Πετεσούχου ὡς ἐτῶν λγ καὶ ἡ τ … υτ …
+r.8    Τα … [.] …
+r.9    εὐτύχει.
+r.10   κατακεχώρ[ι]στ[α]ι ἔτους κζ Καίσαρος Μεχεὶρ … .
+
+[TRANSLATION]
+# HGV-EN: To Akousilaos and –isios and Timokrates and Dionysios and NN, laographoi of Theadelphia, from Harthotes son of Marres one of the public farmers of the village, about 41 years old. I own a house in the village, in which I myself live, registered for the polltax in the village, and ... son/daughter of Petesouchos, about 33 years old, and NN ... Farewell. Registered in year 27 of Caesar, Mecheir
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

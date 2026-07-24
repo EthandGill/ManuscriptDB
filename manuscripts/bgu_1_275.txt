@@ -1,0 +1,56 @@
+[META]
+id:       BGU 1.275
+label:    BGU 1.275
+name:     Petition — Karanis (Arsinoites)
+genre:    petitions
+date:     215 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Petition from Karanis (Arsinoites) (215 CE)
+# hgv-keywords: Eingabe — Valerius Apolinarius an Aurelius Septimios — Zerstörung einer Anlage (Bewässerung?) im Hof
+tm:       9022
+source:   https://papyri.info/ddbdp/bgu;1;275
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Αὐρηλίωι Σεπτιμίῳ Ἰουλιανῷ ἑκατοντάρχῳ
+r.2    παρὰ [Ο]ὐαλερίου Ἀπολιναρίου
+r.3    Ἀντινοέως. νυκτὶ τῇ φερούσῃ
+r.4    εἰς τὴν κβ τοῦ ὄντος μηνὸς
+r.5    Ἁδριανοῦ ἐπῆλθον τινες, οὓς
+r.6    ἀγνοῶ, ᾗ ἔχω αὐλῇ προσκυρούσῃ οἰκίᾳ μου, οὔσῃ ἐν ᾗ γεουχῶ κώμῃ Καρανίδι, ἐν ᾗ
+r.7    αὐλῇ ἐστιν ἀποκειμένη μηχανή, καὶ ἐπείρασαν αὐτὴν
+r.8    ἐπανοῖξαι καὶ οὐκ ἐξίσχυσαν, ὅπερ φανερὸν ἐποίησα
+r.9    τοῖς τῆς κώμης δημοσίοις.
+r.10   ὅθεν [α]ὐτὸ τοῦτο φανερόν σοι
+r.11   ποιῶ [π]ρὸς τὸ μηδεμίαν
+r.12   ζήτησιν πρὸς ἐμὲ εἶναι. διευτύχει.
+r.13   ἔτους κδ Μάρκου Αὐρηλίου
+r.14   Σεουήρο[υ Ἀ]ντωνείνου Παρθικοῦ
+r.15   Μεγίστο[υ Β]ρετανικοῦ Μεγίστου
+r.16   Γερμανικοῦ Μεγίστου Εὐσεβοῦς
+r.17   Σεβαστοῦ Ἁδριανοῦ κδ.
+
+[TRANSLATION]
+# HGV-EN: To Aurelius Septimius Julianus, centurio, from Valerius Apolinaris, Antinoite. On the night before the 22nd of the present month of Hadrianos certain persons came to the courtyard, which I have and which belongs to my house, which is in the village of Karanis, where I hold land, and in this courtyard a machine is kept, and they tried to open it, but were not strong enough, which I made clear to the village officials. Therefore I make this self same thing clear to you in order that no investigation against me is made. Farewell. Year 24 of Marcus Aurelius Severus [A]ntoninus Parthicus Maximus [B]ritannicus Maximus Germanicus Maximus Pius Augustus, Hadrianos 24.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

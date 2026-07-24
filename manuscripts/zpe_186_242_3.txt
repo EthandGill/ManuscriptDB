@@ -1,0 +1,38 @@
+[META]
+id:       ZPE 186.242_3
+label:    ZPE 186.242_3
+name:     Receipt — Herakleopolites ?, Ägypten
+genre:    receipts
+date:     244 BCE
+language: Greek (Koiné)
+found:    Herakleopolites ?, Ägypten
+held:     New York
+shelf:    
+content:  Receipt from Herakleopolites ?, Ägypten (244 BCE)
+# hgv-keywords: Quittung — Zahlung — Geld — Steuern — Bier
+tm:       4583
+source:   https://papyri.info/ddbdp/zpe;186;242_3
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    ἔτους γ Παχὼνς κβ, ζυτῆρας δραχμαὶ δέκα
+r.2    πέντε τριώβολον.
+r.3    ἔτους γ Παχὼνς κβ. πέπτωκεν
+r.4    ἐπὶ τὸ ἐν Φεβίχει λογευτήριον Νικολάωι τραπεζίτῃ
+r.5    καὶ Στοτοήτει δοκιμαστῆι παρὰ Πετοσίριος τὸ παρὰ Ταεμβέους ἐκ Ταλή
+r.6    ζυτηρᾶς εἰς Παχὼνς χαλκοῦ δραχμὰς δέκα
+r.7    πέντε τριώβολον γίνονται ιε τριώβολον. παρόντος Δωρίωνος
+r.8    τὸ αὐτὸ δραχμαὶ δέκα π[έν]τε [τρι]ώβολον.
+
+[TRANSLATION]
+# HGV-EN: Year 3, Pachons 22, for the beer tax, fifteen drachmae and 3 obols. Year 3, Pachons 22. There has been paid into the tax office at Phebichis to Nikolaos the banker and Stotoetis the controller from Petosiris the amount due from Taembes from Talae for the beer tax on account of Pachons fifteen drachmae and three obols of bronze, total 15 drachmae and 3 obols. In the presence of Dorion, fifteen drachmae and 3 obols in total. In front of Petosiris son of Nechtyris ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

@@ -1,0 +1,26 @@
+[META]
+id:       P.AMH 2.52
+label:    P.AMH 2.52
+name:     Receipt — Theben
+genre:    receipts
+date:     150 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (150 BCE)
+# hgv-keywords: Quittung — Bank — Steuern
+tm:       44224
+source:   https://papyri.info/ddbdp/p.amh;2;52
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους λα Φαμενὼθ ια. τέτακται ἐπὶ τὴν ἐν Ἑρμώνθει τράπεζαν ἐφʼ ἧς Ἀπολλώνιος εἰκοστῆς ἐγκυκλίου κατὰ τὴν παρὰ Ζμῖνος καὶ τῶν μετόχων τῶν πρὸς τῆι ὠνῆι
+r.2    διαγραφὴν ὑφʼ ἣν ὑπογράφει Ἀμμώνιος ὀ ἀντιγραφεὺς ὠνῆς Πεχύτης Ἁρσίησιος τοῦ τετάρτου μέρους πάντων ὧν κατεχώρισεν Ἁρσιῆσις ὁ πατὴρ αὐτοῦ
+r.3    Σενθώτηι Πανᾶτος καὶ συντετίμηται ταλάντων β τέλος οὗ ἀλλαγὴ ἑξακοσίας, γίνονται χ. Ἀπολλώνιος τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     

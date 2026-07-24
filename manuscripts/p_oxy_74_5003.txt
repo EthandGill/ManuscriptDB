@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 74.5003
+label:    P.Oxy. 74.5003
+name:     Documentary papyrus — Pakerke (Oxyrhynchites) bzw. Oxyrhynchos
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Pakerke (Oxyrhynchites) bzw. Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Pakerke (Oxyrhynchites) bzw. Oxyrhynchos (101 CE – 200 CE)
+# hgv-keywords: Befehl — NN an Archephodos — Überstellung
+tm:       128309
+source:   https://papyri.info/ddbdp/p.oxy;74;5003
+lat:      28.534866
+lon:      30.790823
+
+[GREEK]
+r.1    ἀρχεφόδωι Πακερκη. ἀνάπεμψον
+r.2    τοὺς πρεσβυτέρους·
+r.3    Πατέρμουθιν Διογᾶτος, μητρὸς Ἀμμωναρίου,
+r.4    Κοπρέαν [Ὀ]φελλίου, μητρὸς Ταύριος.
+
+[TRANSLATION]
+# HGV-EN: To the archephodos of Pakerke. Send up the presbyteroi: Patermouthis son of Diogas, mother Ammonarion. Copreas son of Ofellius, mother Tayris. (H. Maeno)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

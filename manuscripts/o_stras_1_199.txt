@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.199
+label:    O.STRAS 1.199
+name:     Receipt — Theben
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (120 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75796
+source:   https://papyri.info/ddbdp/o.stras;1;199
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀπολλόδωρος πράκτωρ ἀργυρικῶν Ἐπωνύχῳ
+r.2    ὃς καὶ Ἀπάθους Ἡρακλήους. ἔσχον [ὑπὲρ λαογραφίας καὶ]
+r.3    βαλανευτικοῦ Χάρακος δ ἔτους δραχμὰς δ[ώδ]εκ[α, γίνονται ῥυπαραὶ δραχμαὶ ιβ].
+r.4    ἔτους δ Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.5    Φαρμοῦθι κϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

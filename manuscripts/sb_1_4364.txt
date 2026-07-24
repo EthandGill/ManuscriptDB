@@ -1,0 +1,30 @@
+[META]
+id:       SB 1.4364
+label:    SB 1.4364
+name:     Receipt — Elephantine oder Syene
+genre:    receipts
+date:     148 CE
+language: Greek (Koiné)
+found:    Elephantine oder Syene
+held:     
+shelf:    
+content:  Receipt from Elephantine oder Syene (148 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23122
+source:   https://papyri.info/ddbdp/sb;1;4364
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Παβοῦς Πρεμμήχεως τελώνης νη κιθ
+r.2    Παπρεμῖτις χαίρειν. ἔσχον
+r.3    παρὰ σοῦ τέλος λίνου γ ἔτους ιβ Ἀντωνίνου
+r.4    Καίσαρος τοῦ κυρίου, Φαῶφι ιε,
+r.5    διὰ Ψενθατρῆς Ἁραμέως.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

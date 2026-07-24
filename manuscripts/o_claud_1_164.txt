@@ -1,0 +1,28 @@
+[META]
+id:       O.CLAUD 1.164
+label:    O.CLAUD 1.164
+name:     Letter — Mons Claudianus
+genre:    letters
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Letter from Mons Claudianus (101 CE – 200 CE)
+# hgv-keywords: Brief (privat) — Longinos an Eutychos — Geld
+tm:       29817
+source:   https://papyri.info/ddbdp/o.claud;1;164
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Εὐτύχῳ Λωγγεῖνος
+r.2    χαίρειν.
+r.3    οὐκ ἔλαβον παρʼ Ἐπαγαθίωνος τὰς δραχμὰς κ. λοιπόν, εἰ ἐν σοί εἰσιν, ἐπιστολίδιόν μοι γράψεις.
+r.4    ἔρρωσο.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

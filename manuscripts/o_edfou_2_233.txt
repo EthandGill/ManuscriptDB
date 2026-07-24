@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 2.233
+label:    O.EDFOU 2.233
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     155 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (155 BCE)
+# hgv-keywords: Quittung
+tm:       50396
+source:   https://papyri.info/ddbdp/o.edfou;2;233
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους κϛ Μεσορὴ λ εἰσμεμέτρηκεν [εἰς θησαυρὸν]
+r.2    Ἀπόλλωνος πόλεως εἰς [τὸ αὐτὸ ἔτος] Ἀπολλωνοπολίτου Ἁρ[εμσῦ]νις
+r.3    Φαράτου [πυροῦ ἀρτάβας β δ]
+r.4    γίνονται πυροῦ ἀρτάβαι β δ. Ἀπολλώνιος Εὐάγορας [μεμέτρημαι κϛ ἔτους Ἀπολλωνοπολίτου Ἁρεμσῦνις]
+r.5    Φαράτου [πυροῦ ἀρτάβας β δ γίνονται πυροῦ ἀρτάβαι β δ ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

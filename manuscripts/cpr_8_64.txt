@@ -1,0 +1,24 @@
+[META]
+id:       CPR 8.64
+label:    CPR 8.64
+name:     Documentary papyrus — Arsinoiton Polis
+genre:    documents
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Arsinoiton Polis
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoiton Polis (601 CE – 700 CE)
+# hgv-keywords: Schuldschein — Geld — Namen
+tm:       35895
+source:   https://papyri.info/ddbdp/cpr;8;64
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    ἔχω ἐγὼ Ἀμαῖος κολλεκτάριος τῷ κυρίῳ Σεργίῳ
+r.2    διὰ Πτοῦξ νομίσματα διακόσια δεκαὲξ Ἀλεξανδρείας, νομίσματα σιϛ Ἀλεξανδρείας. Φαῶφι ε ιε ἰνδικτίονος.
+
+[TRANSLATION]
+1     
+2     

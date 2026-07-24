@@ -1,0 +1,36 @@
+[META]
+id:       SB 20.15050
+label:    SB 20.15050
+name:     Receipt — Elephantine
+genre:    receipts
+date:     137 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (137 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23862
+source:   https://papyri.info/ddbdp/sb;20;15050
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Ἀντᾶς Φατρήους καὶ οἱ σὺν αὐτῷ
+r.2    ἐπιτηρηταὶ ἱερᾶς πύλης Σοήνης
+r.3    διὰ Σαραπίωνος βοηθοῦ. διέγραψεν
+r.4    Πετορζμῆθις Καλασείρεως
+r.5    μητρὸς Τισᾶτις ὑπὲρ λαογραφίας τοῦ
+r.6    κ ἔτους Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.7    ἐπὶ λόγου ῥυπαρὰς δραχμὰς τρεῖς τριώβολον, γίνονται δραχμαὶ γ τριώβολον.
+r.8    ἔτους κα Ἁδριανοῦ τοῦ κυρίου, Τῦβι κζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

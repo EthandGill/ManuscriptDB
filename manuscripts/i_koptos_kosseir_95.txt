@@ -1,0 +1,24 @@
+[META]
+id:       I.KOPTOS.KOSSEIR 95
+label:    I.KOPTOS.KOSSEIR 95
+name:     Documentary papyrus — Wadi Hammamat
+genre:    documents
+date:     16 CE
+language: Greek (Koiné)
+found:    Wadi Hammamat
+held:     Wadi Hammamat
+shelf:    
+content:  Documentary papyrus from Wadi Hammamat (16 CE)
+# hgv-keywords: Graffito — Name — Proskynema
+tm:       81296
+source:   https://papyri.info/ddbdp/i.koptos.kosseir;;95
+lat:      25.9686627012
+lon:      33.5468626946
+
+[GREEK]
+r.1    τὸ προσκύνημα Ψενπούηρις Πετεαρσνούφεως,
+r.2    Λυβικός, ἔτους γ Χοιὰχ α.
+
+[TRANSLATION]
+1     
+2     

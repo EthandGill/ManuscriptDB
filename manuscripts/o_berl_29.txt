@@ -1,0 +1,28 @@
+[META]
+id:       O.BERL 29
+label:    O.BERL 29
+name:     Receipt — Elephantine
+genre:    receipts
+date:     83 CE – 84 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (83 CE – 84 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       24421
+source:   https://papyri.info/ddbdp/o.berl;;29
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Πετορζμῆθις Πετορζμήθιος ὑπὲρ χειρωναξίου τρίτου ἔτους
+r.2    Δομιτιανοῦ τοῦ κυρίου
+r.3    δραχμὰς ὀκτώ, γίνονται δραχμαὶ η, ὁμοίως δραχμὰς δ,
+r.4    γίνονται δραχμαὶ ιβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

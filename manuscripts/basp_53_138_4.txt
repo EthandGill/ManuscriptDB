@@ -1,0 +1,40 @@
+[META]
+id:       BASP 53.138_4
+label:    BASP 53.138_4
+name:     Receipt — Theadelpheia (Arsinoites)
+genre:    receipts
+date:     25 CE
+language: Greek (Koiné)
+found:    Theadelpheia (Arsinoites)
+held:     New Haven
+shelf:    
+content:  Receipt from Theadelpheia (Arsinoites) (25 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       703277
+source:   https://papyri.info/ddbdp/basp;53;138_4
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ἔτους ια Τιβερίου Kαίσαρος
+r.2    Σεβαστοῦ μηνὸς Ν[έ]oυ Σεβαστοῦ λ
+r.3    διέγραψεν Ἡρακλᾷ χειριστῇ Ἁρθώτης
+r.4    Μαρρε[ίο]υς συνταξίμου τοῦ δεκάτου
+r.5    ἔτους Θεαδελφείας ἀργυρίου ῥυπαροῦ δραχμὰς εἴκοσι,
+r.6    γίνονται δραχμαὶ κ, Μεχε[ὶρ] … δραχμὰς δεκαδύο,
+r.7    γίνονται δραχμαὶ ιβ, Φαρμο[ῦ]θι κδ δραχμὰς τέσσαρας,
+r.8    γίνονται δραχμαὶ δ, λ μετὰ λόγον η δραχμὰς τέσσαρας, γίνονται δραχμαὶ δ,
+r.9    Παῦνι θ δραχμὰς τέ[σσ]αρα[ς], γίνονται δραχμαὶ δ.
+
+[TRANSLATION]
+# HGV-EN: In the 11th year of Tiberius Caesar Augustus on the 30th of the month of Neos Sebastos, Harthotes son of Marres paid to Heraklas, the collector’s agent, the syntaximon of the tenth year at Theadelphia, twenty silver dr. = 20 dr; on the … of Mecheir, twelve dr. = 12 dr; on the 24th of Pharmouthi, four dr. = 4 dr; after the accounting on the 30th, on the 8th (i.e. of Pachon) = equals 4 dr. on the 9th of Pauni, four dr. = 4 dr.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

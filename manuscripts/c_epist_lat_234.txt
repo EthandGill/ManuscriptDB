@@ -1,0 +1,24 @@
+[META]
+id:       C.EPIST.LAT 234
+label:    C.EPIST.LAT 234
+name:     Documentary papyrus — Thebais (?)
+genre:    documents
+date:     399 CE
+language: Greek (Koiné)
+found:    Thebais (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Thebais (?) (399 CE)
+# hgv-keywords: Schreiben (Beglaubigung) — Soldaten
+tm:       70106
+source:   https://papyri.info/ddbdp/c.epist.lat;;234
+lat:      26.25
+lon:      32.75
+
+[GREEK]
+r.1    … ων πρ[ο]τηκτόρων κυτανῶν κατερχομένων ἀπ[ὸ] Θηβαίδος
+r.2    ἀννῶναι ιβ κάπιτα ιϛ
+
+[TRANSLATION]
+1     
+2     

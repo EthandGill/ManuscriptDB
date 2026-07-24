@@ -1,0 +1,26 @@
+[META]
+id:       O.ONT.MUS 2.201
+label:    O.ONT.MUS 2.201
+name:     Receipt — Theben
+genre:    receipts
+date:     162 CE – 179 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (162 CE – 179 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75222
+source:   https://papyri.info/ddbdp/o.ont.mus;2;201
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ὀνόματος Τεῶτος Ὥρου Σ[ποτοῦτος] …
+r.2    διὰ γεωργοῦ Πικῶς Ψεναμ[ούνιος] …
+r.3    πυροῦ ἀρτάβας δύο ἥμισυ τρίτον γίνονται πυροῦ ἀρτάβαι β 𐅵 γ Ἀµώνιος σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     

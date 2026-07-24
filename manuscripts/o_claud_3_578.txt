@@ -1,0 +1,24 @@
+[META]
+id:       O.CLAUD 3.578
+label:    O.CLAUD 3.578
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     143 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (143 CE)
+# hgv-keywords: Fragment — Quittung — Empfang — Ration (Linsen)
+tm:       73761
+source:   https://papyri.info/ddbdp/o.claud;3;578
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    … [ τὸ]ν φακὸνμ ὑπὲρ μη[νὸς Πα]υνι τοῦ ἕκτου ἔτους Ἀντω[νίνου] Καίσαρος τοῦ κυρίου
+r.2    [Παυνι ] β
+
+[TRANSLATION]
+1     
+2     

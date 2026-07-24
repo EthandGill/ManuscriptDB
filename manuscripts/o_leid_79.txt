@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 79
+label:    O.LEID 79
+name:     Receipt — Theben
+genre:    receipts
+date:     75 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (75 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24651
+source:   https://papyri.info/ddbdp/o.leid;;79
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Ὀσοροῆρις Φατρήους Ὀσοροήριος
+r.2    ὑπὲρ λαογραφίας Ἀγορῶν βορρᾶ ζ ἔτους δραχμὰς δέκα γίνονται δραχμαὶ ι
+r.3    βαλανευτικοῦ α ὀβολὸν α 𐅵 καὶ προσδιαγραφόμενα. ἔτους ζ Οὐεσπασιανοῦ
+r.4    τοῦ κυρίου Φαρμοῦθι λ‡ζ. Βάσσος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

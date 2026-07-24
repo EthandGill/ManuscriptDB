@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.139
+label:    O.EDFOU 1.139
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     95 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (95 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       47080
+source:   https://papyri.info/ddbdp/o.edfou;1;139
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Παμψενόβιος Ἄρωνος φυλακιτικοῦ
+r.2    ιδ ἔτους Δομιτιανοῦ τοῦ κυρίου
+r.3    δραχμὴν α σκοπέλου α βαλανικοῦ β
+r.4    ἔτους ιδ Παχὼν ϛ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

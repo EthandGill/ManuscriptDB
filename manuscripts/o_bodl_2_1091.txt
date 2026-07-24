@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.1091
+label:    O.BODL 2.1091
+name:     Receipt — Theben
+genre:    receipts
+date:     193 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (193 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71778
+source:   https://papyri.info/ddbdp/o.bodl;2;1091
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἐπεὶφ ιε τοῦ α ἔτους ὀνόματος
+r.2    Ἀπολλωνίου Ταύρωνος
+r.3    ἐπιτηρητοῦ πεντηκοστῆς δραχμὰς τεσσαράκοντα γίνονται δραχμαὶ μ.
+
+[TRANSLATION]
+1     
+2     
+3     

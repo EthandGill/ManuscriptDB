@@ -1,0 +1,30 @@
+[META]
+id:       O.ELKAB 49
+label:    O.ELKAB 49
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     150 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (150 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       24489
+source:   https://papyri.info/ddbdp/o.elkab;;49
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    μέτρημα εἰς θησαυρὸν διοικήσεως
+r.2    ἀπὸ γενήματος ιγ ἔτους Ἀντωνείνου
+r.3    Καίσαρος τοῦ κυρίου
+r.4    πυροῦ ἀρτάβας ν Πεκῦσις Σενύριος
+r.5    λαχα … ἔτους ιγ Ἐπὶφ ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,26 @@
+[META]
+id:       SB 5.7586
+label:    SB 5.7586
+name:     Receipt — Elephantine
+genre:    receipts
+date:     90 CE – 91 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (90 CE – 91 CE)
+# hgv-keywords: Quittung — Steuern (χειρωνάξιον) — Namen
+tm:       17979
+source:   https://papyri.info/ddbdp/sb;5;7586
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν ὑπὲρ χειρωναξίου Θιανῆς Παχομχήμεος τοῦ δεκάτου
+r.2    ἔτους Δομιτιανοῦ τοῦ
+r.3    κυρίου ἐπὶ λόγου γίνονται δραχμαὶ δ.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 2.231
+label:    O.EDFOU 2.231
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     300 BCE – 101 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (300 BCE – 101 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       74265
+source:   https://papyri.info/ddbdp/o.edfou;2;231
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους ε Ἐπεὶφ
+r.2    τέτακται
+r.3    Ψηνῆσις Ποῆριος
+r.4    ἐννόμιον πρὸς ιε
+r.5    ἀργυρίου ζ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 1.54
+label:    O.EDFOU 1.54
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     74 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (74 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       46994
+source:   https://papyri.info/ddbdp/o.edfou;1;54
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Νίγερ Πτόλλιδος
+r.2    λαογραφίας ϛ ἔτους Οὐεσπασιανοῦ δραχμὰς ιϛ
+r.3    χωματικοῦ ϛ τετρώβολον βαλανικοῦ διώβολον
+r.4    ἔτους ϛ Φαμενὼθ κϛ
+r.5    Φαρμοῦθι λ ὁμοίως φυλακιτικοῦ α
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

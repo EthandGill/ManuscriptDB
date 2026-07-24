@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 405
+label:    O.PETR.MUS 405
+name:     Receipt — Theben
+genre:    receipts
+date:     134 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (134 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       75443
+source:   https://papyri.info/ddbdp/o.petr.mus;;405
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … ὑπὲρ γ[ενήματος] ιζ ἔτους Ἁδριανοῦ … κ …
+r.2    … γόμου ἀχύρου δίμοιρον …
+r.3    … εἰς πλοῖον ἔτους ιη Ἁδρια[νοῦ] …
+r.4    Μεχεὶρ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

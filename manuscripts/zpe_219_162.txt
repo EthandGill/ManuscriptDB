@@ -1,0 +1,42 @@
+[META]
+id:       ZPE 219.162
+label:    ZPE 219.162
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     98 CE – 100 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     New Haven
+shelf:    
+content:  Letter from Oxyrhynchos (98 CE – 100 CE)
+# hgv-keywords: Brief (amtlich) — Präfekt Pompeius Planta an Antamon, strategos — Schreiber — Artaben
+tm:       958944
+source:   https://papyri.info/ddbdp/zpe;219;162
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    μετρη … δοκα Φαρμοῦθι δ
+r.2    Πομπήειος Πλάντας
+r.3    Ἀντάμοννι στρατηγῷ
+r.4    Ὀξυρυγχείτ[o]υ [χαίρειν.]
+r.5    Ἡρακλείδη[ν] …
+r.6    δου γραμματ[έα ὑπὸ]
+r.7    Κλαυδίου Πτο[λεμαί]ου στρατηγοῦ Σ[εβεν]νύτου ἄνω τόπ[ων] [ἐξ]ελεγχθέντα π …
+r.8    μου, πολλὰς ἀρ[τάβας] …
+r.9    [λ]ογείας ἐκ τῶ[ν] …
+r.10   … ανι … ος α …
+
+[TRANSLATION]
+# HGV-EN: I have made the payment (?), Pharmouthi 4. Pompeius Planta to Antamon, strategus of the Oxyrhynchite, greetings. Heraclides son of … the scribe, who was convicted by Claudius Ptolemaeus, strategus of Upper Sebennytos … many artabas from the collection from the …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

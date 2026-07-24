@@ -1,0 +1,34 @@
+[META]
+id:       SB 5.7576
+label:    SB 5.7576
+name:     Letter — Elephantine
+genre:    letters
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Letter from Elephantine (1 CE – 100 CE)
+# hgv-keywords: Brief (privat) — Sennemonis an Hatres — Anweisungen (geschäftlich) — Grüße
+tm:       25302
+source:   https://papyri.info/ddbdp/sb;5;7576
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σεννεμῶνις Ἁτρῆτι χαίρειν.
+r.2    ἄρτων ζεύγη ρκ διὰ Λώξου
+r.3    παραδρόμακες δύο · ἐὰν δῶσί
+r.4    σοι τιμήν, πώλησον. ἀσπάζονταί σε
+r.5    πάντες. ἔλαβον παρὰ Λώξου δραχμὰς ξδ.
+r.6    ἀσπάζεταί σε Ἀμμῶνις ὁ μικρός.
+
+[TRANSLATION]
+# HGV-EN: Sennemonis to Hatres, greetings. Receive through Loxos 120 loaves of double bread and two mantles; should they give you a good price, sell them. Everyone greets you. I took from Loxos 64 drachmas. The little Ammonis greets you.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,32 @@
+[META]
+id:       O.THEB 64
+label:    O.THEB 64
+name:     Receipt — Theben
+genre:    receipts
+date:     193 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (193 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76434
+source:   https://papyri.info/ddbdp/o.theb;;64
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀσκλᾶς καὶ μέτοχοι
+r.2    τελῶναι γερδιακοῦ Πετεμενώφι Φθουμίνιος. ἔσχομεν παρὰ σοῦ ὑπὲρ μηνὸς
+r.3    Παχὼν τὸ καθῆκον τέλος.
+r.4    ἔτους α Πουβλίου Ἑλουίου
+r.5    Περτίνακος Σεβαστοῦ
+r.6    Παχὼν λ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

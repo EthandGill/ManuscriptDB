@@ -1,0 +1,32 @@
+[META]
+id:       BGU 1.104
+label:    BGU 1.104
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (158 CE – 159 CE)
+# hgv-keywords: Quittung — Sitologen
+tm:       8878
+source:   https://papyri.info/ddbdp/bgu;1;104
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    σιτολόγοις Καρανίδος. ἔσχον προσφωνήσας χειρογραφίᾳ σπερμάτων
+r.2    κβ ἔτους Ἀντωνείνου Καίσαρος τοῦ κυρίου ε
+r.3    κληρουχίας Ψενοβάστις Ὥρου Καρανίδος
+r.4    βασιλικῆς ἄρουραι ι ιϛ η λβ Καρανίδος Σενεκιανῆς ἄρουραι β ιϛ λβ ξδ
+r.5    Καμηλιανῆς ἄρουραι γ 𐅸 η ξδ
+
+[TRANSLATION]
+# HGV-EN: To the sitologoi of Karanis. I received under declaration (with a written sworn statement) from the seed grain of year 22 of Antoninus Caesar, the lord. (m. 2) 5th cleruchy . Petobastis, son of Horos. At Karanis for 10 1/8 1/16 1/32 arouras of royal (land), at Karanis for 2 1/16 1/32 1/64 arouras on the Senecan (estate) , on the Camelian (estate) for 3 3/4 1/8 1/64 arouras.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

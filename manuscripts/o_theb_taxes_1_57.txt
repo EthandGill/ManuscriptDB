@@ -1,0 +1,22 @@
+[META]
+id:       O.THEB.TAXES 1.57
+label:    O.THEB.TAXES 1.57
+name:     Receipt — Theben
+genre:    receipts
+date:     300 BCE – 201 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (300 BCE – 201 BCE)
+# hgv-keywords: Quittung — Steuer (Öl?) — Fragment
+tm:       69725
+source:   https://papyri.info/ddbdp/o.theb.taxes;1;57
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    πέπτ[ωκεν] …
+
+[TRANSLATION]
+1     

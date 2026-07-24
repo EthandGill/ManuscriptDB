@@ -1,0 +1,30 @@
+[META]
+id:       DDBDP 2000.2
+label:    DDBDP 2000.2
+name:     Receipt — Theben
+genre:    receipts
+date:     146 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Vienna
+shelf:    
+content:  Receipt from Theben (146 CE)
+# hgv-keywords: Quittung — Steuer (Badesteuer) — Geld
+tm:       756250
+source:   https://papyri.info/ddbdp/ddbdp;2000;2
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Πετεῆσις καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    Ψενμόνθει Πετοσίριος. ἔσχομεν τὸ βαλανευτικὸν
+r.3    τοῦ θ ἔτους Ἀντων[ί]νου Καίσαρος
+r.4    τοῦ κυρ[ίου] Φ[αμ]ε[νὼ]θ α. Πετ[ε]ῆσις διὰ
+r.5    Πετεμ … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

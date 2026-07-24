@@ -1,0 +1,26 @@
+[META]
+id:       O.FRANGE 789
+label:    O.FRANGE 789
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (601 CE – 700 CE)
+# hgv-keywords: Lettre — Voyage au nord
+tm:       220319
+source:   https://papyri.info/ddbdp/o.frange;;789
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … ⲡϫⲱⲕ ⲛⲧⲁψυχή
+r.2    … ⲉⲃⲟⲗ ϫⲉ ⲙⲡⲉⲓ …
+r.3    … ⲛϩⲏⲧ ⲙⲡ …
+
+[TRANSLATION]
+1     
+2     
+3     

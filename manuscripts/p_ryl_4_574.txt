@@ -1,0 +1,34 @@
+[META]
+id:       P.RYL 4.574
+label:    P.RYL 4.574
+name:     Receipt — unbekannt
+genre:    receipts
+date:     25 BCE – 1 BCE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Receipt from unbekannt (25 BCE – 1 BCE)
+# hgv-keywords: Brief oder Quittung — Ischyrion an Petosiris und die Zunft der Leichenbestatter — Zahlung — Geld — medizinische Substanzen — Steuern (?)
+tm:       58459
+source:   https://papyri.info/ddbdp/p.ryl;4;574
+lat:      
+lon:      
+
+[GREEK]
+r.1    Ἰσχυρίων Πετοσίρει καὶ τοῖς
+r.2    συννεκροτάφοις χαίρειν.
+r.3    διαγεγράφατε τὸν φόρον
+r.4    τοῦ φαρμάκου τοῦ Σαραπείου
+r.5    [ἀρ]γυρίου δραχμ[ὰς] τεσ[σα]ράκοντ[α]
+r.6    … ν …
+
+[TRANSLATION]
+# HGV-EN: ‘Ischyrion to Petosiris and his partners in the buriers’ guild, greeting. You have paid as tax for drugs of the Serapeum 40 silver drachmae….’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

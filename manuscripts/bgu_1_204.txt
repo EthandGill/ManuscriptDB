@@ -1,0 +1,26 @@
+[META]
+id:       BGU 1.204
+label:    BGU 1.204
+name:     Receipt — Psenarpsenesis (Arsinoites)
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Psenarpsenesis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Psenarpsenesis (Arsinoites) (158 CE – 159 CE)
+# hgv-keywords: Quittung — Getreide — Saat
+tm:       8967
+source:   https://papyri.info/ddbdp/bgu;1;204
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σπερμάτων κβ ἔτους Ἀν[τ]ωνείνου Καίσαρος τοῦ κυρίου
+r.2    μβ Ψεναρψενήσεως Καμηλιανῆς Αὐνὴς Αὐνείους ἀρουρῶν ζ 𐅵 δ
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 22 of An[t]oninus Caesar, the lord. 42nd (cleruchy). At Psenarpsenesis 7 1/2 1/4 arouras on the Camelian (estate) Aunes, son of Aunes.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

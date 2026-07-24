@@ -1,0 +1,26 @@
+[META]
+id:       O.HEID 300
+label:    O.HEID 300
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (101 CE – 200 CE)
+# hgv-keywords: Quittung (Speicherquittung, Weizen?)
+tm:       80516
+source:   https://papyri.info/ddbdp/o.heid;;300
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κωμῶν [γενήματος] … [ἔτους ]
+r.2    τοῦ κυρίου Με[σορὴ ὑπὲρ ὀνόματος τοῦ δεῖνος]
+r.3    Παμφίλου διὰ … []
+
+[TRANSLATION]
+1     
+2     
+3     

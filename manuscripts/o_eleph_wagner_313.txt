@@ -1,0 +1,30 @@
+[META]
+id:       O.ELEPH.WAGNER 313
+label:    O.ELEPH.WAGNER 313
+name:     Receipt — Elephantine
+genre:    receipts
+date:     301 CE – 500 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (301 CE – 500 CE)
+# hgv-keywords: Quittung — Darlehen — Geld
+tm:       34321
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;313
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Αὐρήλιος Καροῦρ Ἰωάννου …
+r.2    Ἐλεφαντίνης Αὐρήλιος Μηνᾶς μο …
+r.3    … λόγῳ …
+r.4    σοι ἀργυρίου …
+r.5    γίνεται ἀργυρίου τάλαντα κ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

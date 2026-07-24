@@ -1,0 +1,24 @@
+[META]
+id:       SB 10.10508
+label:    SB 10.10508
+name:     Receipt — Theben
+genre:    receipts
+date:     245 BCE – 225 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (245 BCE – 225 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       5810
+source:   https://papyri.info/ddbdp/sb;10;10508
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους … η
+r.2    ἁλικῆς διὰ Σωστράτου Ἀπολλώνιος τετρώβολον
+
+[TRANSLATION]
+1     
+2     

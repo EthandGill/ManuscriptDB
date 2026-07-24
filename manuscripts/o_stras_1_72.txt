@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.72
+label:    O.STRAS 1.72
+name:     Receipt — Theben
+genre:    receipts
+date:     48 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (48 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75672
+source:   https://papyri.info/ddbdp/o.stras;1;72
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Ἑριεὺς Πασενχνούβιος ὑπὲρ
+r.2    λαογραφίας η ἔτους δραχμὰς δέκα γίνονται δραχμαὶ ι προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου
+r.3    καὶ . ἔτους η Τιβερίου Κλαυδίου
+r.4    Καίσαρος Γερμανικοῦ Αὐτοκράτορος
+r.5    Φαμενὼθ λ ιβ. Πεκ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

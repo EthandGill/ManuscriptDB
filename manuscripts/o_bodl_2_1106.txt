@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1106
+label:    O.BODL 2.1106
+name:     Receipt — Theben
+genre:    receipts
+date:     180 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (180 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71793
+source:   https://papyri.info/ddbdp/o.bodl;2;1106
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαῶφι ιθ τοῦ κα ἔτους ὀνόματος
+r.2    Πασήμιος νεωτέρου Πασήμιος … ο
+r.3    ὑπὲρ στεφανικοῦ κ ἔτους Κεραμείων δραχμὰς
+r.4    δέκα τέσσαρας γίνονται δραχμαὶ ιδ.
+r.5    … λ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       P.VARS 50
+label:    P.VARS 50
+name:     Receipt — Theben
+genre:    receipts
+date:     100 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (100 BCE)
+# hgv-keywords: Quittung — Steuern — Katöken — Bank
+tm:       5529
+source:   https://papyri.info/ddbdp/p.vars;;50
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιε Θωὺθ ε τέτακται ἐπὶ τὴν
+r.2    ἐν Διὸς πόλει τῆι μεγάλῃ τράπεζαν εἰς
+r.3    στεφάνους τῶν κατοίκων Διοπίδης
+r.4    Ἀγησιλάου ἀργυρίου δραχμὰς νδ, γίνονται νδ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

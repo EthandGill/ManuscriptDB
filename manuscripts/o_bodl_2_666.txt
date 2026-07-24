@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.666
+label:    O.BODL 2.666
+name:     Receipt — Theben
+genre:    receipts
+date:     125 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (125 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71356
+source:   https://papyri.info/ddbdp/o.bodl;2;666
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πικῶς πράκτωρ ἀργυρικῶν μητροπόλεως
+r.2    Σασχμο Πετεχεσποχράτου
+r.3    ἔσχον ὑπὲρ βαλανευτικοῦ Χάρακος ι ἔτους ῥυπαρὰς δραχμὰς τέσσαρας πεντώβολον
+r.4    γίνονται δραχμαὶ δ πεντώβολον. ἔτους ι Ἁδριανοῦ τοῦ κυρίου
+r.5    Θὼθ η.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

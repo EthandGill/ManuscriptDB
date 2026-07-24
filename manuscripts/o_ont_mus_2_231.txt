@@ -1,0 +1,32 @@
+[META]
+id:       O.ONT.MUS 2.231
+label:    O.ONT.MUS 2.231
+name:     Receipt — Theben
+genre:    receipts
+date:     74 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (74 CE)
+# hgv-keywords: Quittung — Naubion
+tm:       75252
+source:   https://papyri.info/ddbdp/o.ont.mus;2;231
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀμμώνιος καὶ μέτοχοι χωματεπιμεληταὶ …
+r.2    Μαιεῦρις Ἁρφμόιτος
+r.3    χαίρειν· ἀναβέβληκας ἐπὶ χώματος Κεραμείων
+r.4    ναύβιον α γίνεται α. ἔτους ϛ Οὐεσπασιανοῦ τοῦ κυρίου
+r.5    Φαρμοῦθι κδ
+r.6    Φιλάμμων σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

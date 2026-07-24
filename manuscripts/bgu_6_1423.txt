@@ -1,0 +1,32 @@
+[META]
+id:       BGU 6.1423
+label:    BGU 6.1423
+name:     Receipt — Theben
+genre:    receipts
+date:     151 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (151 BCE)
+# hgv-keywords: Quittung — Preis — Öl
+tm:       4720
+source:   https://papyri.info/ddbdp/bgu;6;1423
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους λ Παῦνι παραδέχεται
+r.2    τιμὴν ἐλαίων φορτικῶν
+r.3    κάτω τόπου …
+r.4    Ψεμώνθου τοῦ α ἔτους
+r.5    πέντε γίνονται ε.
+r.6    Ἁρθώτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

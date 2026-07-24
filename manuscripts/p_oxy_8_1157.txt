@@ -1,0 +1,64 @@
+[META]
+id:       P.Oxy. 8.1157
+label:    P.Oxy. 8.1157
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     276 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (276 CE – 300 CE)
+# hgv-keywords: Brief (privat) — Pathermouthis an seine Schwester Dionysia über die Registrierung für den Zensus und über die Steuern (Kopf)
+tm:       31723
+source:   https://papyri.info/ddbdp/p.oxy;8;1157
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    κυρίᾳ μου ἀδελφῇ Διονυσίᾳ
+r.2    Παθερμοῦθις χαίρειν.
+r.3    καθὼς ἔπεμψάς μοι φάσιν
+r.4    ὡς ἕνεκεν τῆς ἀπογραφῆς περὶ τοῦ ὑμᾶς ἀπογράψαι, ἐπειδὴ οὖν οὐ δύναμαι ἀναβῆναι ἴδε εἰ δύνῃ
+r.5    ἡμᾶς ἀπογράψαι· ἀλλʼ οὖν
+r.6    [μ]ὴ ἀμελήσῃς ἀπόγραψον
+r.7    ἡμᾶς, ἐμέ τε καὶ Πατᾶν·
+r.8    ἐὰν δὲ μάθῃς ὅτι οὐ δύνῃ
+r.9    ἡμᾶς ἀπογράψαι, ἀντίγραψόν μοι καὶ ἐγὼ ἀναβαίνω.
+r.10   καὶ μάθε ὅτι τὸ ἐπικεφάλαιον ἀπαιτοῦσιν, ἐὰν δὲ ἦσαν …
+r.11   τες ἀπαιτῆσαι τὸ ἐπικεφάλαιον, διάγραψον αὐτὸ
+r.12   καὶ ἀναπέμπω σοι τὸ κέρμα· ἐὰν δὲ διαγράψῃς
+r.13   τὸ ἐπικεφάλαιον, δέξαι
+r.14   τὴν ἀποχήν. μὴ οὖν
+r.15   ἀμελήσῃς, ἀδελφή, καὶ
+r.16   γράψον μοι περὶ τῆς
+r.17   [ἀ]πογραφῆς ὅτι εἰ ἀπεγράψω ἢ οὔ, καὶ ἀντίγραψον καὶ ἐγὼ ἀναβαίνω
+r.18   καὶ ἀπογράφομαι.
+r.19   ἐρρῶσθαι [σ]ε εὔχομαι π[ο]λ[λο]ῖς
+r.20   χρόνοις.
+r.21   ἀπόδος Διονυσίᾳ [παρὰ Παθ]ερμούθιος.
+
+[TRANSLATION]
+# HGV-EN: To my sister, mistress Dionysia, from Pathermouthis, greeting. As you sent me word on account of the registration about registering yourselves, since I cannot come, see whether you can register us. Do not then neglect to register us, me and Patas; but if you learn that you cannot register us, reply to me and I will come. Find out also about the collection of the poll-tax, and if they are [hurrying on with] the collection of the poll-tax, pay it and I will send you the money; and if you pay the poll-tax, get the receipt. Do not neglect this, my sister, and write to me about the registration, whether you have done it or not, and reply to me and I will come and register myself. I pray for your lasting health, (Addressed) Deliver to Dionysia from Pathermouthis.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    

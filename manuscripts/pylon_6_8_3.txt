@@ -1,0 +1,40 @@
+[META]
+id:       PYLON 6.8_3
+label:    PYLON 6.8_3
+name:     Letter — unbekannt
+genre:    letters
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Letter from unbekannt (301 CE – 400 CE)
+# hgv-keywords: Brief (privat) — Gelasios an Papnuthes — wiederholte Bitte um Zusendung (Vögel)
+tm:       33516
+source:   https://papyri.info/ddbdp/pylon;6;8_3
+lat:      
+lon:      
+
+[GREEK]
+r.1    [κυ]ρ[ίῳ] μου ἀ[δελφῷ]
+r.2    Παπνούθῃ
+r.3    Γελάσιος χαίρειν.
+r.4    ἐδήλωσά σοι ἅπαξ
+r.5    καὶ δεύτερον
+r.6    ὅτι πέμψον μοι
+r.7    ὀρνίθια [δ]έκα
+r.8    καὶ οὐδ[αμ]ῶς ἐφρόντισας δη[λ]ῶσαι
+r.9    κυρίῳ μου ἀδελφῷ Παπ[νούθῃ]
+
+[TRANSLATION]
+# HGV-EN: To my lord brother Papnouthes, Gelasios, greetings. I informed you once and a second time, “Send me ten chickens,” and you took no care to inform me …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

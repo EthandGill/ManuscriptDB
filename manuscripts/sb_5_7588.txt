@@ -1,0 +1,30 @@
+[META]
+id:       SB 5.7588
+label:    SB 5.7588
+name:     Receipt — Elephantine
+genre:    receipts
+date:     118 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (118 CE)
+# hgv-keywords: Quittung — Steuern (χειρωνάξιον) — Namen
+tm:       17981
+source:   https://papyri.info/ddbdp/sb;5;7588
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Ἀμοῦις Πατερθώους ὑπὲρ χειρωναξίου
+r.2    πλινθευτικῆς ὑπὲρ
+r.3    μηνὸς Χύαχ τοῦ γ ἔτους
+r.4    Ἁδριανοῦ Καίσαρος
+r.5    τοῦ κυρίου δραχμὰς β. Δομίττιος Μούιτος ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

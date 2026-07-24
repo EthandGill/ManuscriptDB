@@ -1,0 +1,46 @@
+[META]
+id:       P.Oxy. 9.1215
+label:    P.Oxy. 9.1215
+name:     Letter — Oxyrhynchites
+genre:    letters
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Letter from Oxyrhynchites (101 CE – 300 CE)
+# hgv-keywords: Brief (privat) — Sinthonis an Teres
+tm:       28934
+source:   https://papyri.info/ddbdp/p.oxy;9;1215
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Σινθόνις Τηρεῖ τῷ ἀδελφῷ χαίρειν.
+r.2    καλῶς ποιήσεις ἐλθὼν πρὸς ἐμὲ
+r.3    ἄχρι τὰ πράγματα κατασταλῇ,
+r.4    ἐὰν δʼ ἄρα μή, μὴ ἀπέλθῃς εἰς τὸ
+r.5    Σατύρου, ἐπεὶ γὰρ ἀκούομεν ὅτι
+r.6    κακὰ μέλλει πράσ[σ]ει[ν]. ἀσπάζεταί σε
+r.7    Σαραπίων.
+r.8    ἐρρῶσθαί σε. Τῦβι ιε.
+r.9    ἀπόδος
+r.10   Τηρεῖ
+r.11   ἀπὸ
+r.12   Σινθώνιος.
+
+[TRANSLATION]
+# HGV-EN: Sinthonis to her brother Tereus, greeting. Please come to me until matters are arranged, but if not, do not go to the house of Satyrus, for we hear that he is going to get into trouble. Sarapion greets you. Good-bye. Tubi 15. (Addressed) Deliver to Tereus from Sinthonis.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

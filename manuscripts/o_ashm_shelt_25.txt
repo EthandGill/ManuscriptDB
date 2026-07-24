@@ -1,0 +1,32 @@
+[META]
+id:       O.ASHM.SHELT 25
+label:    O.ASHM.SHELT 25
+name:     Receipt — Theben
+genre:    receipts
+date:     162 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (162 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       70577
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;25
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος β ἔτους Ἀντωνίνου
+r.2    καὶ Οὐήρου τῶν κυρίων Σεβαστῶν, Ἐπεὶφ β,
+r.3    ὑπὲρ Νότου ὀνόματος Νεφώτου θεοῦ μεγίστου
+r.4    διὰ τῶν παστοφόρων αἱ διὰ γεωργοῦ Φατρήους ὁµοίως
+r.5    Φαμίνιος πυροῦ δεκατέσσαρες
+r.6    ἕκτον, γίνονται πυροῦ ιδ ϛ. Παναµεὺς σεσηµείωµαι πυροῦ ιδ ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

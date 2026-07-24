@@ -1,0 +1,32 @@
+[META]
+id:       BGU 1.130
+label:    BGU 1.130
+name:     Documentary papyrus — Apias (Arsinoites)
+genre:    documents
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Apias (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Apias (Arsinoites) (101 CE – 300 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       28223
+source:   https://papyri.info/ddbdp/bgu;1;130
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … ρ Ἀρσινοϊτῶν Θεμίστου καὶ Πολέμωνος μερίδων
+r.2    … [ πα]ρὰ Σερήνου Δείου τοῦ Ἥρωνος
+r.3    … ἀπὸ κώμης Ἀπιάδος. ὑπάρχει μοι ἐν
+r.4    … οἰκία δίστεγος καὶ αὐλὴ με… ικη καὶ ἑτέρα … ενσ … α
+r.5    … ἀπογράφομαι ἐμαυτὸν …
+
+[TRANSLATION]
+# HGV-EN: [To NN, ] of the Arsinoite nome, Themistos and Polemon divisions, [from – – –] (m. 2) Serenus, son of Deios, the son of Heron, [mother NN] from the village of Apias. There belongs to me in [the above mentioned village] a two storey house and a courtyard and other appurtenances [in which I live and] register myself
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

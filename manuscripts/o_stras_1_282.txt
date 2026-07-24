@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.282
+label:    O.STRAS 1.282
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     107 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (107 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75878
+source:   https://papyri.info/ddbdp/o.stras;1;282
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    Ἀπάθης πράκτωρ Μεμνονείων
+r.2    κα [ἔ]σχηκα παρὰ Δημέου ὑπὲρ λαογραφίας
+r.3    Μεμνονείων ι ἔτους δραχμὰς ὀκτώ γίνονται δραχμαὶ η. ὁμοίως
+r.4    λαογραφίας Α ι ἔτους δραχμὴν α. ἔτους ι Τραιανοῦ Καίσαρος
+r.5    τοῦ κυρίου Φαρμοῦθι ιβ. ὁμοίως
+r.6    δραχμὰς ὀκτώ γίνονται δραχμαὶ η. Φαρμοῦθι κβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

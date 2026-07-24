@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 6.931
+label:    P.Oxy. 6.931
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (101 CE – 200 CE)
+# hgv-keywords: Brief (privat) — Theopompos an den Strategen Sarapion — Begleitbrief zu einer Sendung Purpur
+tm:       28342
+source:   https://papyri.info/ddbdp/p.oxy;6;931
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Θεόπομπος Σαραπίωνι τῶι
+r.2    τιμι[ω]τάτωι χαίρειν.
+r.3    ὡς ἠθέλησας, κύριε, τὴν
+r.4    οὐγκίαν τῆς πορφύρα[ς] ἔπεμψα διὰ τοῦ κομίσαντος [τ]ὸ ἀπὸ
+r.5    σοῦ ἐπιστόλιον φύλακος δοθησομένην εἰς τὴν ξενίαν
+r.6    τῆι μικρᾷ· σὲ γὰρ τῶι κρατίστωι ἡγεμόνι
+r.7    ἀκολουθεῖν ἐστοχασάμην.
+r.8    ἐρρῶσθαί σε, κύριέ μου, σὺν τῆι
+r.9    κρατίστηι ἀδελφῆι καὶ τῆι Κυρίλλῃ
+r.10   εὔχομαι.
+r.11   ἔρρωσο.
+r.12   Φαῶφι ιε.
+r.13   Σαραπίωνι στρατηγῶι Σεβεννύτου ἄνω τόπων
+r.14   παρὰ Θεοπόμπου
+r.15   φίλου.
+
+[TRANSLATION]
+# HGV-EN: Theopompus to his most esteemed Sarapion, greeting. As you wished, sir, I have sent by the guard who brought the letter from you the ounce of purple to be presented at the entertainment to the little one; for I guessed that you were in attendance upon his excellency the praefect. I pray for the health of you, sir, with your excellent sister and Cyrilla. Good-bye. Phaophi 15. (Addressed) To Sarapion, strategus of the upper toparchy of the Sebennyte nome, from his friend Theopompus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

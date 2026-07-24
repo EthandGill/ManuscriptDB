@@ -1,0 +1,26 @@
+[META]
+id:       P.HARR 3.300
+label:    P.HARR 3.300
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Birmingham
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (601 CE – 700 CE)
+# hgv-keywords: Dokument — Domus — chartularius
+tm:       998629
+source:   https://papyri.info/ddbdp/p.harr;3;300
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    τῷ θειοτάτῳ οἴκῳ τῶν Πλακιδίας τῷ διακειμένῳ
+r.2    Φλάουϊος Τιμόθεος σὺν Θεῷ χαρτουλάριος τ[οῦ] ἐ[ν]δ[ο]ξ …
+
+[TRANSLATION]
+# HGV-EN: … To the most divine house of Placidia, located I, Flavius Timotheos, by God chartularius of the glorious …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

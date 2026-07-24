@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB.TAXES 2.92
+label:    O.THEB.TAXES 2.92
+name:     Receipt — Theben
+genre:    receipts
+date:     237 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (237 BCE)
+# hgv-keywords: Quittung — Steuer (Natron)
+tm:       43731
+source:   https://papyri.info/ddbdp/o.theb.taxes;2;92
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ια Ἁθυρ λ πέπτωκεν
+r.2    εἰς τὸ ια ἔτος νιτρικῆς πλύνου
+r.3    Ψεμμοῦθις δραχμὰς πέντε
+r.4    τετρώβολον γίνεται δραχμαὶ ε τετρώβολον Ῥόδων
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

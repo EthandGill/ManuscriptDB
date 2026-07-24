@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 10
+label:    O.LEID 10
+name:     Receipt — Theben
+genre:    receipts
+date:     122 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (122 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       43478
+source:   https://papyri.info/ddbdp/o.leid;;10
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … Θεογένει χαίρειν·
+r.2    [ἀπέχω πα]ρὰ σοῦ τὸ γεινόμενον
+r.3    [τέ]λος τόπου ἀκροδρύων σου
+r.4    χαλκοῦ δραχμὰς σμ, γίνονται δραχμαὶ σμ.
+r.5    ἔτους μη Μεσορὴ κδ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

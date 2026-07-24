@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 1.94
+label:    O.BODL 1.94
+name:     Receipt — Diospolis Magna (Theben)
+genre:    receipts
+date:     96 BCE
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     
+shelf:    
+content:  Receipt from Diospolis Magna (Theben) (96 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       43882
+source:   https://papyri.info/ddbdp/o.bodl;1;94
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    ἔτους ιθ Φαῶφι β … τέτακται
+r.2    ἐπὶ τὴν ἐν Διὸς πόλει τῆι μεγάληι τράπεζαν
+r.3    πορθμίδων αν …
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,30 @@
+[META]
+id:       O.BANKES 46
+label:    O.BANKES 46
+name:     Receipt — Elephantine
+genre:    receipts
+date:     150 CE – 158 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (150 CE – 158 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       699519
+source:   https://papyri.info/ddbdp/o.bankes;;46
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Στλάκ[κιος μισθωτὴς ἱερᾶς]
+r.2    πύλης Σοήνης διὰ [Ἀμμωνίου βοηθοῦ· διέγραψεν]
+r.3    … Πατσίβτις Π[ετορζμήθιος] [μητρὸς]
+r.4    [Σε]νπελαίας ὑπὲρ …
+r.5    [δρα]χμὰς δώδεκα …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

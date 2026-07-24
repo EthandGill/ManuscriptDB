@@ -1,0 +1,30 @@
+[META]
+id:       O.HEID 262
+label:    O.HEID 262
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuer (Ersatzzahlung für Wein oder Datteln, time phoinikos oder time oinou ?)
+tm:       80480
+source:   https://papyri.info/ddbdp/o.heid;;262
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεχεσποχράτης καὶ μ[έτοχοι]
+r.2    ἐπιτηρηταὶ γενηματογραφουμένων γ ἔτους …
+r.3    ἔσχον παρὰ [σοῦ ὑπὲρ] …
+r.4    δραχμὰς ιθ τριώβολον, γίνονται δραχμὰι ιθ [τριώβολον. ἔτους] …
+r.5    Καίσαρος τ[οῦ κυρίου .]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

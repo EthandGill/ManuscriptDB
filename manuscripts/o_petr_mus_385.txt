@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 385
+label:    O.PETR.MUS 385
+name:     Receipt — Theben (Charax)
+genre:    receipts
+date:     193 CE
+language: Greek (Koiné)
+found:    Theben (Charax)
+held:     
+shelf:    
+content:  Receipt from Theben (Charax) (193 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       75434
+source:   https://papyri.info/ddbdp/o.petr.mus;;385
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται θησαυρῷ μητροπόλεως γενήματος α ἔτους
+r.2    Γαίου Πεσκεννίου Νίγερος Ἰο[ύστου] …
+r.3    Μεσορὴ β ὑπὲρ Χάρακος ὀνόματος …τσέβθιος Ἁρπαμοῦτ[ος] …
+r.4    γίνονται πυροῦ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

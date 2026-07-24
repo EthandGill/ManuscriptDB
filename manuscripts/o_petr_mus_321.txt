@@ -1,0 +1,26 @@
+[META]
+id:       O.PETR.MUS 321
+label:    O.PETR.MUS 321
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       75399
+source:   https://papyri.info/ddbdp/o.petr.mus;;321
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … του κ …
+r.2    ὑπὲρ τοῦ καθήκοντος τέλους Α …
+r.3    Φαῶφι ῥυπαρὰς δραχμὰς δ διώβολον Φαρ[μοῦθι] …
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,32 @@
+[META]
+id:       O.CLAUD 3.539
+label:    O.CLAUD 3.539
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     147 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (147 CE)
+# hgv-keywords: Quittung — Empfang — Ration
+tm:       73722
+source:   https://papyri.info/ddbdp/o.claud;3;539
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Θέων ἐκ φαμιλίας νουμέρου Πορφυρείτου ἀριθμοῦ Κλαυδιανοῦ
+r.2    Λαρκουᾶτι καὶ Ἀριστονίκῳ κιβαριάταις χαίρειν. ὁμολογῶ ἀπέχειν με τὸ
+r.3    κιβάριν μου τοῦ Ἁδριανοῦ μηνὸς
+r.4    ἔτους ια Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.5    Χυαχ η.
+r.6    Θέων ἀπέχω τὸ κιβάριον τοῦ Χοιαχ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

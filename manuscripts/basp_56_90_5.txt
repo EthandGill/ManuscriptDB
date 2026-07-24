@@ -1,0 +1,26 @@
+[META]
+id:       BASP 56.90_5
+label:    BASP 56.90_5
+name:     Receipt — Abydos
+genre:    receipts
+date:     103 CE
+language: Greek (Koiné)
+found:    Abydos
+held:     London
+shelf:    
+content:  Receipt from Abydos (103 CE)
+# hgv-keywords: Quittung — Geld
+tm:       392591
+source:   https://papyri.info/ddbdp/basp;56;90_5
+lat:      26.185099
+lon:      31.917622
+
+[GREEK]
+r.1    [λαογραφίας ϛ ἔτους Ἀβύδου] [Πετερµ]οῦθις Ἁρσιήσιος
+r.2    [τοῦ Ἁροννώφριος] δραχμὰς ὀκτώ, γίνονται δραχμαὶ η. ἔτους ϛ
+r.3    [Τραιανοῦ τ]οῦ κυρίου Φαρµοῦθι ι.
+
+[TRANSLATION]
+1     
+2     
+3     

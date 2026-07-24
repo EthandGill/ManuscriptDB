@@ -1,0 +1,64 @@
+[META]
+id:       P.Oxy. 8.1105
+label:    P.Oxy. 8.1105
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     81 CE – 96 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (81 CE – 96 CE)
+# hgv-keywords: Eingabe an den Agoranom — Hypothek an einer Immobilie
+tm:       21730
+source:   https://papyri.info/ddbdp/p.oxy;8;1105
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Φανίας ὁ συνεστάμενος ὑπὸ Φανίου Σαραπίωνος τῷ ἀγορανόμῳ χαίρειν. ἀνάγραψον συνγραφὴν ὑποθήκης Θοώνιος τοῦ
+r.2    Θοώνιος τοῦ Θοώνιος τῶν ἀπʼ Ὀξυρύγχων
+r.3    πόλεως τῶν ὑπαρχόντων
+r.4    τῇ ὑποθεμένῃ ἐπὶ τοῦ πρὸς Ὀξυρύγχων
+r.5    πόλει Σαραπίου ἐπʼ ἀμφόδου Νότου Δρόμου
+r.6    μερῶν τριῶν ἀπὸ μερῶν πέντε οἰκίας
+r.7    τριστέγου ὑφʼ ἥν ἐστιν κατάγαιον καὶ τῶν
+r.8    προσουσῶν αὐλῶν καὶ φρέατος λιθίνου
+r.9    καὶ ἑτέρων χρηστηρίων καὶ τῶν εἰς
+r.10   ταῦτα εἰσόδων καὶ ἐξόδων καὶ τῶν
+r.11   σ[υ]νκυρόντων κοινῶν καὶ [ἀ]διαιρέτων,
+r.12   ὧν ὑπέθετο αὐτῷ Τβῆκις Ἱέρακος
+r.13   τοῦ Θοώνι[ο]ς τῶν ἀπὸ τῆς αὐτῆς πόλεως
+r.14   πρὸς ἀργυρίου κεφαλαίου δραχμὰς
+r.15   τετρακ[ο]σίας ἐπὶ χρόνον ἔτη τρία
+r.16   ἐπʼ ἐνοικήσει ἀντὶ τῶν τόκων τῶν
+r.17   αὐτῶν τριῶν μερῶν τῆς οἰκίας
+r.18   καὶ τῶν ἄλλων, [ἐ]φʼ ᾧ κατʼ ἔτος
+r.19   τὴν ἀνανε[ώσ]εως τάξεται χαλκοῦ ταλάντων λ.
+r.20   ἔρρωσο. ἔτ[ους ] … Αὐτοκ[ράτορος Καίσαρος]
+r.21   Δομιτιαν[οῦ Σεβαστοῦ Γερμανικοῦ ] …
+
+[TRANSLATION]
+# HGV-EN: Phanias, nominee of Phanias son of Sarapion, to the agoranomus, greeting. Register (?) a contract of mortgage for Thoönis son of Thoönis son of Thoönis, of the city of Oxyrhynchus, of the property of the mortgager situated at the Serapeum at Oxyrhynchus in the quarter of the South Square, namely, three-fifths of a three-storeyed house, below which is a cellar, and the courts belonging thereto, and a stone well and other fixtures and the entrances and exits to them and appurtenances, being joint and indivisible, which Tbekis daughter of Hierax son of Thoönis, of the city of Oxyrhynchus, has mortgaged to him for a capital sum of 400 drachmae of silver for a period of three years, with the right of inhabiting the said three parts of the house and the rest of the property in lieu of interest, on condition that he shall pay annually the charge for the renewal of the mortgage, being of the value of 30 talents of copper. Good-bye. The ... year of the Emperor Caesar Domitianus Augustus Germanicus ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    

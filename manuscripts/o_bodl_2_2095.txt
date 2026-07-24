@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.2095
+label:    O.BODL 2.2095
+name:     Receipt — Theben
+genre:    receipts
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (301 CE – 400 CE)
+# hgv-keywords: Quittung — Steuern — Fleisch
+tm:       72768
+source:   https://papyri.info/ddbdp/o.bodl;2;2095
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Οὐάβεως.
+r.2    Κύριλλα διὰ Ἱέρακος
+r.3    στρα λίτρας δέκα ἕξ .
+r.4    Φαῶφι κβ.
+r.5    Φιλάδελφος ἐσημειωσάμην.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

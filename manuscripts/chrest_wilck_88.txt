@@ -1,0 +1,40 @@
+[META]
+id:       CHREST.WILCK 88
+label:    CHREST.WILCK 88
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     213 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (213 CE)
+# hgv-keywords: Quittung — Steuern — Kalb (Opfer)
+tm:       9079
+source:   https://papyri.info/ddbdp/chrest.wilck;;88
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ἔτους κβ Μάρκου Αὐρηλίου Σεουήρου
+r.2    Ἀντωνίνου Παρθικοῦ Μεγίστου
+r.3    Βρεντανικοῦ Μεγίστου [Γερμανικοῦ Μεγίστου] Εὐσεβοῦς
+r.4    Σεβαστοῦ Τῦβι νεομηνίᾳ διεγράφη
+r.5    Αὐρηλίῳ Ἀπίωνι καὶ ὡς χρηματίζει νομάρχῃ Ἀρσινοίτου
+r.6    διὰ Νειλάμμωνος πραγματευτοῦ πύλης Φιλαδελφίας
+r.7    σφραγισμοῦ μόσχου ἑνὸς θυομένου ἐν τῇ
+r.8    κώμῃ ὑπὸ Αὐρηλίου Διδύμου
+r.9    Ἀλεξανδρέως.
+
+[TRANSLATION]
+# HGV-EN: Year 22 of Marcus Aurelius Severus Antoninus Parthicus Maximus Britannicus Maximus <Germanicus Maximus> Pius Augustus, on the first of the month of Tybi. Paid by Aurelius Didymos, Alexandrian to Aurelius Apion and however he is styled, nomarch of the Arsinoite nome, through Neilammon, pragmateutes of the toll-gate of Philadelphia, for the sealing of one calf, which is to be sacrificed in the village.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

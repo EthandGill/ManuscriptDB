@@ -1,0 +1,26 @@
+[META]
+id:       O.DID 250
+label:    O.DID 250
+name:     Documentary papyrus — Didymoi
+genre:    documents
+date:     220 CE – 250 CE
+language: Greek (Koiné)
+found:    Didymoi
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Didymoi (220 CE – 250 CE)
+# hgv-keywords: Aufschrift auf Gefäßrest — Wein für Proculus von Claudius Plutogenes
+tm:       144816
+source:   https://papyri.info/ddbdp/o.did;;250
+lat:      25.7543330528
+lon:      33.3947791619
+
+[GREEK]
+r.1    Πρόκλῳ Σαραπίωνος
+r.2    παρὰ Κλαυδίου Πλουτογένους
+r.3    ο[ἶ]νος
+
+[TRANSLATION]
+1     
+2     
+3     

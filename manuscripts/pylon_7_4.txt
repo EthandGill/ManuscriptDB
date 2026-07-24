@@ -1,0 +1,46 @@
+[META]
+id:       PYLON 7.4
+label:    PYLON 7.4
+name:     Documentary papyrus — Leukogion (Herakleopolites)
+genre:    documents
+date:     713 CE
+language: Greek (Koiné)
+found:    Leukogion (Herakleopolites)
+held:     Heidelberg
+shelf:    
+content:  Documentary papyrus from Leukogion (Herakleopolites) (713 CE)
+# hgv-keywords: Kompromiß — Urteil — Bußgeld
+tm:       1000275
+source:   https://papyri.info/ddbdp/pylon;7;4
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    τὸ παρὸν κομπρόμισσον ποιοῦνται πρὸς ἀλλήλους ἑκουσίᾳ
+r.2    γνώμῃ ἐκ μ[ὲ]ν τοῦ ἑνὸς μέρους Πεκύσιος πρεσβύτερος υἱὸς Νααραoυ
+r.3    ἐκ δὲ τοῦ δευτέρου μέρους Αμπα υἱὸς Νααραoυ Πκανεε ἀμφότεροι ἀπὸ κώμης Λευκογίο[υ] τοῦ Ἡρακλεοπολίτου νομοῦ. ἀμφιβολία[ν]
+r.4    ἔ[χ]οντε[ς] μετ’ ἀλλήλω[ν π]ε[ρί τ]ινων [αὐτῶν κ]ε[φ]αλαίων καὶ μὴ δυ[νηθέντ]ες [δι’ ἑαυτῶν]
+r.5    [ἀ]παλλαγῆναι ᾑ[ρέσαν]το ἑ[κουσίας]
+r.6    αὐτῶν γνώμης Κοσμᾶν υἱὸν Παπᾶ καὶ Μηνᾶν
+r.7    υἱὸν Ἀντωνίου ὥστε αὐτοὺς δικαιολογήσασθαι
+r.8    αὐτοῖς. τὸ δὲ παραβαῖνον μέρος τὴν διδομένην
+r.9    παρ’ αὐτῶν δίκην παράσχῃ τῷ ἐμμέν[ο]ντι ὑπὲρ
+r.10   προστίμου χρυσοῦ νομισμάτια δ. ἐγράφη μηνὶ Φαμενωθ κα ἰνδικτίωνος ια.
+r.11   ⲡⲓϭⲱϣ πρεσβύτερος στοιχεῖν ⲉⲡⲉⲓκομπρόμισσον
+r.12   δι’ ἐμοῦ Ἰωάννου υἱοῦ Φιβ ἐγράφη
+
+[TRANSLATION]
+# HGV-EN: † On the one side Pekysios, priest, son of Naaraous, and on the other side Sambas (?), son of Naaraous Pkanee, both from the village Leukogion of the Heracleopolite nome, make the present compromissum with each other of their own free will. Because they have a disagreement with each other about some matters between them and they could not agree among themselves, they chose of their own free will Kosmas, son of Papas, and Menas, son of Antonios, that they should make a judgement for them; the party that does not abide by the judgement they deliver, should hand over as fine to the complying party 4 gold solidi. Written on the 21st of the month of Phamenoth, 11th indiction †. (Coptic) I, Pikosh, priest, I agree with the compromissum. † Written by me, Ioannes, son of Phib † †.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

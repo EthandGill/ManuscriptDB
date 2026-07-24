@@ -1,0 +1,32 @@
+[META]
+id:       O.PETR.MUS 363
+label:    O.PETR.MUS 363
+name:     Receipt — Theben
+genre:    receipts
+date:     125 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (125 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       75408
+source:   https://papyri.info/ddbdp/o.petr.mus;;363
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν κωμῶν
+r.2    γενήματος θ ἔτους Ἁδριανοῦ
+r.3    Καίσαρος τοῦ κυρίου
+r.4    Ἐπεὶφ κθ ὀνόματος
+r.5    Φαήριος Ψεναμούνιος
+r.6    πυροῦ μίαν γίνεται πυροῦ α Φιλ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

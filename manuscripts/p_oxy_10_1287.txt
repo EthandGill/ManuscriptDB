@@ -1,0 +1,64 @@
+[META]
+id:       P.Oxy. 10.1287
+label:    P.Oxy. 10.1287
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     205 CE – 206 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (205 CE – 206 CE)
+# hgv-keywords: Auszug aus einem Register (Land)
+tm:       21777
+source:   https://papyri.info/ddbdp/p.oxy;10;1287
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἔγλημψις ἐκ δημοσίας βιβλιοθήκης ἐκ
+r.2    πεδιακοῦ ἐπικρίσεως ιδ ἔτους
+r.3    κόλλημα ν, Σενέπτα·
+r.4    καμψάντων ἐπὶ
+r.5    βορρᾶν Διογένους Ἡρᾶτος
+r.6    ἡνιόχου … ε …
+r.7    Ποπλίου [π]ροαπεσχηκότος
+r.8    πρότερον Πτολεμαίου Παποντῶτος
+r.9    οἰκία καὶ αὐλὴ
+r.10   ἐξ ὑπομνήματος τοῦ προγεγραμμένου
+r.11   Διογένους ἀπʼ Ὀξυρύγχων πόλεως δηλώσαντος ὑπάρχειν αὐτῷ
+r.12   τὴν προκειμένην οἰκίαν
+r.13   καὶ αὐλήν·
+r.14   καμψάντων ἐπʼ ἀπηλιώτην Ταζωιλᾶτος
+r.15   Ἀφύγχιος κειμένη οἰκία
+r.16   ἐξ ὑπομνήματος Διογένους ἡνιόχου
+r.17   ἀπʼ Ὀξυρύγχων πόλεως δηλώσαντος ὑπάρχειν αὐτῷ
+r.18   πρότερον τοῦ υἱοῦ αὐτοῦ Σαραπίωνος
+r.19   καὶ αὐτοῦ πρότερον Τευθεῖτος
+r.20   δ μέρος καὶ πρότερον Νεχθενίβιος Ὥρο[υ ][ἕτ]ερον δ
+r.21   μ[έ]ρος α … .
+
+[TRANSLATION]
+# HGV-EN: Extract from the public archives from a field-survey of the 14th year, column 50, Senepta: Turning to the north, the house and court of Diogenes son of Heras, charioteer, by prepayment to ... Publus(?), formerly the property of Ptolemaeus son of Papontos, in accordance with a memorandum of the aforesaid Diogenes of the city of Oxyrhynchus, who declared that the aforesaid house and court belonged to him. Turning to the east,the ruined house of Tazoilas daughter of Aphunchis in accordance with a memorandum of Diogenes, charioteer, of the city of Oxyrhynchus, who declared that there belonged to him a quarter share which was formerly the property of his son Sarapion and before him of Teutheis, and another quarter share which was formerly the property of Nechthenibis son of Horus ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    

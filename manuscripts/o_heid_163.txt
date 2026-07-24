@@ -1,0 +1,26 @@
+[META]
+id:       O.HEID 163
+label:    O.HEID 163
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (1 CE – 200 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer
+tm:       80386
+source:   https://papyri.info/ddbdp/o.heid;;163
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ἀβδίων Δημᾶτος μητρὸς
+r.2    Ἀμφαριο λαογραφίας γ ἔτους δραχμὰς ιβ.
+r.3    ἔτους γ Παχὼν κθ.
+
+[TRANSLATION]
+1     
+2     
+3     

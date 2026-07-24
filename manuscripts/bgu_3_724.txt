@@ -1,0 +1,30 @@
+[META]
+id:       BGU 3.724
+label:    BGU 3.724
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (101 CE – 200 CE)
+# hgv-keywords: Quittung — Torzoll
+tm:       28081
+source:   https://papyri.info/ddbdp/bgu;3;724
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Καρανίδος ἑκατοστὴ καὶ πεντηκοστὴ
+r.2    Ὡρίων ἐξάγων ἐπὶ ὄνοις δυσὶ
+r.3    ὀρόβου ἀρτάβας ϛ γίνονται ἀρτάβαι ϛ.
+r.4    ἔτους β Φαμενὼθ ἑπτακαιδεκάτῃ.
+
+[TRANSLATION]
+# HGV-EN: Paid for the 1 and 2 per cent (for the passage) through the gate of Karanis by Horion, exporting on two donkeys 6 artabas of bitter vetch, = 6 artabas. Year 2, Phamenoth, the seventeenth.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

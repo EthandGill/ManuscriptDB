@@ -1,0 +1,26 @@
+[META]
+id:       P.BAGNALL 17
+label:    P.BAGNALL 17
+name:     Receipt — Elephantine
+genre:    receipts
+date:     245 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (245 BCE)
+# hgv-keywords: Quittung — Steuer (Salbenherstellung, μυρεψική)
+tm:       219295
+source:   https://papyri.info/ddbdp/p.bagnall;;17
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔτους γ Φαῶφι γ. ἔχει
+r.2    Δῶρος παρὰ Ὀσοροήριος μυρεψικῆς
+r.3    δραχμὴν μίαν.
+
+[TRANSLATION]
+1     
+2     
+3     

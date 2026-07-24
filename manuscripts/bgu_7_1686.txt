@@ -1,0 +1,26 @@
+[META]
+id:       BGU 7.1686
+label:    BGU 7.1686
+name:     Documentary papyrus — Philadelphia (Arsinoites)
+genre:    documents
+date:     189 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Philadelphia (Arsinoites) (189 CE)
+# hgv-keywords: Datierung
+tm:       9546
+source:   https://papyri.info/ddbdp/bgu;7;1686
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ἔτους κθ Μάρκου Αὐρηλίου
+r.2    Κομμόδου Ἀντωνείνου
+r.3    Καίσαρος τοῦ κυρίου Μεσορή.
+
+[TRANSLATION]
+1     
+2     
+3     

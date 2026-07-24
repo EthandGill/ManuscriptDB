@@ -1,0 +1,38 @@
+[META]
+id:       P.RYL 2.210
+label:    P.RYL 2.210
+name:     Documentary papyrus — Bakchias (Arsinoites)
+genre:    documents
+date:     131 CE
+language: Greek (Koiné)
+found:    Bakchias (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Bakchias (Arsinoites) (131 CE)
+# hgv-keywords: Bescheinigung (Deichbau)
+tm:       12974
+source:   https://papyri.info/ddbdp/p.ryl;2;210
+lat:      29.536946
+lon:      31.0041595
+
+[GREEK]
+r.1    ἔτους ἑκκαιδε[κά]του Αὐτοκράτορος Καίσαρος
+r.2    Τραιανοῦ Ἁδριανοῦ Σεβαστοῦ.
+r.3    εἴργασται ὑπὲρ χωματικῶν ἔργων
+r.4    τοῦ αὐτοῦ ιϛ ἔτους Φαῶφι δ η
+r.5    ἐν [τῇ] ὀρινῇ Πατσώντεως Βακχιάδος
+r.6    Ζώιλος Πετεσούχου τοῦ Ἠλεῖτος
+r.7    μητρὸς Ταορσενούφιος.
+r.8    Διόσκορος σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: ‘The 16th year of the Emperor Caesar Trajanus Hadrianus Augustus. Work has been done for the embankment works of the said 16th year from Phaophi 4 to 8 on the desert canal of Patsontis at Bacchias by Zoïlus son of Petesouchos son of Eleites, his mother being Taorsenouphis. Signed by me, Dioscorus.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

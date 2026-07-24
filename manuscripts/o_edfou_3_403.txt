@@ -1,0 +1,24 @@
+[META]
+id:       O.EDFOU 3.403
+label:    O.EDFOU 3.403
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     20 CE – 21 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (20 CE – 21 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       55452
+source:   https://papyri.info/ddbdp/o.edfou;3;403
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ζ ἔτους βαλανείου
+r.2    Παχοῦμις δραχμὴν α
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,36 @@
+[META]
+id:       ANALPAP 16_17.100
+label:    ANALPAP 16_17.100
+name:     Documentary papyrus — Soknopaiu Nesos (Arsinoites)
+genre:    documents
+date:     6 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Soknopaiu Nesos (Arsinoites) (6 CE)
+# hgv-keywords: Frage (Orakel) — Heirat einer geschiedenen Frau
+tm:       15150
+source:   https://papyri.info/ddbdp/analpap;16_17;100
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    τῶι μεγίστῳ κραταιῷ θεῶι Σοκνοπαί[ωι]
+r.2    παρὰ Ἀσκληπιάδου τοῦ Ἀρείου. εἰ οὐ δεδοταί μοι συμβιῶσαι Ταπεθεῦ[τι]
+r.3    Μαρρέους οὐδ’ οὐ μὴ γένηται μου
+r.4    γυνή ὑπόδεξαι μοι κα[ὶ] κύρωσ[όν]
+r.5    μοι τοῦτο τὸ γραπτόν. πρόην δ’ [ἦν ἡ]
+r.6    Ταπεθεὺς Ὡρίωνος γυνήι.
+r.7    ἔτους λε Καίσαρος Παχὼν α
+
+[TRANSLATION]
+# HGV-EN: To the very great and mighty god Soknopaios, from Asklepiades son of Areios. If it is not granted to me to marry Tapetheus the daughter of Marres – and she may not become my wife – show it and confirm to me this writing. In the past Tapetheus was the wife of Horion. Year 35 of Caesar, 1 Pachon.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

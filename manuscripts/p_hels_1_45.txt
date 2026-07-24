@@ -1,0 +1,30 @@
+[META]
+id:       P.HELS 1.45
+label:    P.HELS 1.45
+name:     Documentary papyrus — Herakleopolites
+genre:    documents
+date:     160 BCE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Documentary papyrus from Herakleopolites (160 BCE)
+# hgv-keywords: Gerste
+tm:       5179
+source:   https://papyri.info/ddbdp/p.hels;1;45
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    … παρʼ Ἡρακλείδου ε …
+r.2    … μερις τῆς λ
+r.3    … ων κριθῆς ἀρταβ …
+r.4    … ἀπὸ τῶν ἀνὰ
+r.5    … ρσυ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

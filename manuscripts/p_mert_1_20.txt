@@ -1,0 +1,28 @@
+[META]
+id:       P.MERT 1.20
+label:    P.MERT 1.20
+name:     Receipt — Bakchias (Arsinoites)
+genre:    receipts
+date:     184 CE
+language: Greek (Koiné)
+found:    Bakchias (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Bakchias (Arsinoites) (184 CE)
+# hgv-keywords: Quittung (Zoll) — Geld — Abgabe für Esel
+tm:       11904
+source:   https://papyri.info/ddbdp/p.mert;1;20
+lat:      29.536946
+lon:      31.0041595
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Βακχιάδος ἑκατοστῆς καὶ πεντηκοστῆς
+r.2    Ὀρσενοῦφις πρὸς ἀπεργασίαν ὄνον
+r.3    θήλειαν μυόχρωμον μίαν α.
+r.4    ἔτους κε Θῶθ πέμπτῃ ε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

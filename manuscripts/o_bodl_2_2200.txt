@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.2200
+label:    O.BODL 2.2200
+name:     Receipt — Theben
+genre:    receipts
+date:     13 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (13 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       72834
+source:   https://papyri.info/ddbdp/o.bodl;2;2200
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Α … ε …
+r.2    Α … η … ὑπὲρ β … μβ ἔτους …
+r.3    δραχμὰς δύο γίνονται δραχμαὶ β … ἔτους …
+
+[TRANSLATION]
+1     
+2     
+3     

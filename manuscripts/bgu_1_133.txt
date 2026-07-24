@@ -1,0 +1,44 @@
+[META]
+id:       BGU 1.133
+label:    BGU 1.133
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     145 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (145 CE)
+# hgv-keywords: Deklaration — Zensus — Kleinvieh
+tm:       8910
+source:   https://papyri.info/ddbdp/bgu;1;133
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    δ
+r.2    Αἰλίωι Σαραπίωνι στρατηγῷ
+r.3    Ἀρσινοΐτου Ἡρακλείδου μερίδος
+r.4    παρὰ Σουχᾶ τοῦ Σουχᾶ
+r.5    τοῦ Διοδώρου ἀπὸ ἀμφόδου
+r.6    Ἑλληνίου. ἃ ἀπεγραψάμην
+r.7    τῷ διεληλυθότι ζ ἔτει πρόβατα
+r.8    ρδ αἶγας ϛ ἄρνας ι, ἐξ ὧν διεφθάρη πρόβατα δέκα τέσσε[ρα] ,
+r.9    τὰ δὲ λοιπὰ πρόβατα ἑκατ[ὸν]
+r.10   [ἀ]πογράφομαι καὶ εἰς τὸ ἐν[εστὸς]
+r.11   [η ἔτος Ἀν]των[ίνου Καίσαρ]ος τοῦ κ[υρίου]
+
+[TRANSLATION]
+# HGV-EN: (m. 2) 4 (m. 1) To Ailios Sarapion, strategos of the Arsinoite nome, Herakleides division, from Souchas, son of Souchas, the son of Diodoros, from the Hellenion quarter. Of the 104 sheep, 6 goats, 10 lambs, which I registered in the past year 7, fourteen sheep have died. The remaining hundred sheep I register for the present [year 8 of An]ton[inus Caesar, the lord, as well
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

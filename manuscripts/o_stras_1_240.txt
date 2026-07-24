@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.240
+label:    O.STRAS 1.240
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75837
+source:   https://papyri.info/ddbdp/o.stras;1;240
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    … πράκτωρ ἀργυρικῶν Μεμνονείων
+r.2    … Πεμσάιτος Μονκ
+r.3    … κ ιη ἔτους δραχμὴν α τριώβολον. ἔτους ιθ
+r.4    … Καίσαρος τοῦ κυρίου Τῦβι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,28 @@
+[META]
+id:       SB 6.9116
+label:    SB 6.9116
+name:     Receipt — Elephantine
+genre:    receipts
+date:     261 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Ann Arbor
+shelf:    
+content:  Receipt from Elephantine (261 BCE)
+# hgv-keywords: Quittung — Steuern — Salz — Geld
+tm:       5729
+source:   https://papyri.info/ddbdp/sb;6;9116
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔτους κε Θῶυτ κζ
+r.2    ἔχει Ἑκαταῖος
+r.3    παρὰ Ποὲρ Παπταῦ ἁλικῶν
+r.4    ὀβολοὺς δ 𐅵
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

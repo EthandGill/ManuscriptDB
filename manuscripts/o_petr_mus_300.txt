@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 300
+label:    O.PETR.MUS 300
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     43 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (43 CE)
+# hgv-keywords: Quittung — Steuer (Deichsteuer)
+tm:       77714
+source:   https://papyri.info/ddbdp/o.petr.mus;;300
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    διαγέγραφεν Παμώνθης Σ …
+r.2    ὑπὲρ χωματικοῦ γ ἔτους Μεμνονείων [ἔτους δ Τιβερίου Κλαυδίου]
+r.3    Καίσαρος Σεβαστοῦ Γ[ερμανικοῦ Αὐτοκράτορος]
+r.4    μηνὸς Σωτῆρος ιη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

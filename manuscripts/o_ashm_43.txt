@@ -1,0 +1,30 @@
+[META]
+id:       O.ASHM 43
+label:    O.ASHM 43
+name:     Receipt — Theben
+genre:    receipts
+date:     191 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (191 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70492
+source:   https://papyri.info/ddbdp/o.ashm;;43
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πρεμαῶς καὶ μέτοχοι ἐπιτηρηταὶ τέλους γέρδίων
+r.2    Παχνοῦμι Πακοίβιος χαίρειν.
+r.3    ἔσχομεν ὑπὲρ τέλους μηνὸς Φαμενὼθ τοῦ λα ἔτους
+r.4    δραχμὰς δ γίνονται δραχμαὶ δ.
+r.5    ἔτους λα Φαρμοῦθι ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

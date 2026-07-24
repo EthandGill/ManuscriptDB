@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.165
+label:    O.STRAS 1.165
+name:     Receipt — Tebtynis (Arsinoites)
+genre:    receipts
+date:     211 CE
+language: Greek (Koiné)
+found:    Tebtynis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Tebtynis (Arsinoites) (211 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       47120
+source:   https://papyri.info/ddbdp/o.stras;1;165
+lat:      29.10713705
+lon:      30.7620317
+
+[GREEK]
+r.1    ἔτους ιθ μηνὸς Φαρμοῦθι διέγραψε Φαρίων ὑπὲρ ζυτηρᾶς κατʼ ἄνδρα
+r.2    κώμης Τεπτύνεως
+r.3    δραχμὰς τέσσαρας γίνονται δραχμαὶ δ.
+
+[TRANSLATION]
+1     
+2     
+3     

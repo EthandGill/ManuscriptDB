@@ -1,0 +1,26 @@
+[META]
+id:       O.LEID 133
+label:    O.LEID 133
+name:     Receipt — Theben
+genre:    receipts
+date:     128 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (128 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24701
+source:   https://papyri.info/ddbdp/o.leid;;133
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … [ἀ]παιτητ μερισμοῦ ἀνδριάντων Ἀβῶτι
+r.2    … [διὰ] Ὥρου Φθουμίνιος ὑπὲρ ἀνδριάντων ιβ ἔτους κέρματος
+r.3    … του κυρίου Χοίακ ιδ.
+
+[TRANSLATION]
+1     
+2     
+3     

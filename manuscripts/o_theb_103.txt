@@ -1,0 +1,24 @@
+[META]
+id:       O.THEB 103
+label:    O.THEB 103
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     77 CE – 78 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (Ägypten) (77 CE – 78 CE)
+# hgv-keywords: Quittung — Heu
+tm:       76473
+source:   https://papyri.info/ddbdp/o.theb;;103
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Κ]άσσιος στρατιώτης Ψεννήσι Ψενοσείρεος χαίρειν. ἀπέχω παρὰ σοῦ γόμον ἀχύρου.
+r.2    ἔτους ι Οὐεσπασιανοῦ τοῦ κυρίου.
+
+[TRANSLATION]
+1     
+2     

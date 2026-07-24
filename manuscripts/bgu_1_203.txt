@@ -1,0 +1,32 @@
+[META]
+id:       BGU 1.203
+label:    BGU 1.203
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (158 CE – 159 CE)
+# hgv-keywords: Quittung — Getreide (Saat)
+tm:       8966
+source:   https://papyri.info/ddbdp/bgu;1;203
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    σπερμάτων κβ ἔτους Ἀντων[ίνου]
+r.2    Καίσαρος του κυρί[ου]
+r.3    κθ κληρουχίας
+r.4    Κόμων Ὀννώφρεως
+r.5    Καρανίδος βασιλικῆς ἀρουρῶν β ιϛ ξδ ϙϛ
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 22 of Anton[inus] Caesar, the lord. 29th cleruchy. Komon, son of Onnophris. At Karanis 2 1/16 1/32 1/96 arouras of royal (land).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

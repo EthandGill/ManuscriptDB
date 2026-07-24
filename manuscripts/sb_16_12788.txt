@@ -1,0 +1,26 @@
+[META]
+id:       SB 16.12788
+label:    SB 16.12788
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (201 CE – 300 CE)
+# hgv-keywords: Quittung — Transport — Getreide — Beamte — Namen — Tiere
+tm:       30297
+source:   https://papyri.info/ddbdp/sb;16;12788
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    σιτολόγων Φιλαδελφίας α ἔτους Ἐπεὶφ κδ
+r.2    διὰ δημοσίων κτηνῶν κώμης Δίννεως ὀνόματος Σαραπιάδος
+r.3    Στρατίππου σάκκοι γ.
+
+[TRANSLATION]
+1     
+2     
+3     

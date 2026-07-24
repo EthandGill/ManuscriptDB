@@ -1,0 +1,26 @@
+[META]
+id:       P.Oxy. 10.1302
+label:    P.Oxy. 10.1302
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     208 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (208 CE)
+# hgv-keywords: Titel (?)
+tm:       21778
+source:   https://papyri.info/ddbdp/p.oxy;10;1302
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ὑπόμνημα
+r.2    ἐπιστρατήγου Ἑπτὰ Νομῶν
+r.3    ιϛ ἔτους Μεσορὴ ια
+
+[TRANSLATION]
+1     
+2     
+3     

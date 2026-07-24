@@ -1,0 +1,36 @@
+[META]
+id:       BGU 1.222
+label:    BGU 1.222
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     215 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (215 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       8986
+source:   https://papyri.info/ddbdp/bgu;1;222
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ἔτ[ους ][κ]γ Μάρκου Αὐρηλίου Σεουήρου
+r.2    Ἀ[ν]τωνείνου Παρθικοῦ Μεγίστου
+r.3    Βρεττ[α]νικοῦ Μεγίστου Γερμανικοῦ
+r.4    [Με]γίστου Εὐσεβοῦς Σεβαστοῦ Φαρμοῦθι κβ
+r.5    δι[έγ]ραψεν Αὐρηλίῳ Ζωσίμῳ γραμματεῖ πρακτόρων
+r.6    ἀρ[γυρικῶν] Καρανίδος παραδείσου κβ ἔτους
+r.7    δραχμὰς ὀκτώ γίνονται δραχμαὶ η
+
+[TRANSLATION]
+# HGV-EN: Year [2]3 of Marcus Aurelius Severus A[n]toninus Parthicus Maximus Brit[a]nnicus Maximus Germanicus Maximus Pius Augustus, Pharmouthi 22. Paid to Aurelios Zosimos, scribe of the collectors of money taxes of Karanis, (empty space on the papyrus for entering the name of the tax-payer and the title of the tax) (and) extra charges for year 22. (m. 2) eight drachmas, = 8 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

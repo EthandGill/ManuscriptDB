@@ -1,0 +1,42 @@
+[META]
+id:       P.RYL 2.184
+label:    P.RYL 2.184
+name:     Receipt — Theadelphia (Arsinoites)
+genre:    receipts
+date:     214 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Theadelphia (Arsinoites) (214 CE)
+# hgv-keywords: Quittung (Pacht)
+tm:       12962
+source:   https://papyri.info/ddbdp/p.ryl;2;184
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    Σερηνίλλα διὰ Ἡρακλείδου
+r.2    Μαρίωνι γεωργῷ χαίρειν.
+r.3    ἀπέχω παρὰ σοῦ τὸ ἐκφόριον πυροῦ ἀρτάβας δεκάπεντε ὧν γεωργεῖς μου
+r.4    ἀρουρῶν περὶ κώμην Θεαδέλφιαν ὑπὲρ τοῦ ἐνεστῶτος κβ ἔτους, κυρίας οὔσης
+r.5    τῆσδε μισθώσεως.
+r.6    ἔτους κβ Μάρκου Αὐρηλίου
+r.7    Σε[ο]υήρου Ἀντωνείνου Παρθικοῦ
+r.8    Με[γ]ίστου Βρετανικοῦ Μεγίστου
+r.9    Γερμανικοῦ Μεγίστου Εὐσεβοῦς
+r.10   Σεβαστοῦ Παῦνι λ.
+
+[TRANSLATION]
+# HGV-EN: ‘Serenilla acting through Heraclides to Marion, cultivator, greeting. I have received from you fifteen artabae of wheat the rent of the arurae of mine which you cultivate in the area of the village of Theadelphia for the present 22nd year, the lease of which remains valid.’ Date.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

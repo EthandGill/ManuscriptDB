@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 75
+label:    O.LEID 75
+name:     Receipt — Theben
+genre:    receipts
+date:     67 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (67 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24647
+source:   https://papyri.info/ddbdp/o.leid;;75
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    δε …
+r.2    ὑπὲρ τιμῆς πυροῦ κθ ια ἔτους διοικήσεως
+r.3    ῥυπαρὰς τρεῖς διώβολον, γίνονται γ διώβολον.
+r.4    ἔτους ιδ Νέρωνος τοῦ κυρίου μηνὶ Σεβαστῷ ε. Π … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

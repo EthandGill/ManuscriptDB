@@ -1,0 +1,46 @@
+[META]
+id:       P.Oxy. 10.1292
+label:    P.Oxy. 10.1292
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     30 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (30 CE)
+# hgv-keywords: Brief (privat) — Hermogenes an Ischyras — Dank für eine Lieferung leerer Fässer — Zahlung von Geld — Lieferung — Holz
+tm:       21762
+source:   https://papyri.info/ddbdp/p.oxy;10;1292
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἑρμογένης Ἰσχυρᾶτι τῶι
+r.2    ἀδελφῶι χαίρειν.
+r.3    εὖ ποιήσεις ἐμβαλόμενός μοι κενώματα διακ[ό]σια ,
+r.4    ὡς σὲ καὶ πρὶν ἠρώτησα. ἔχεις δὲ
+r.5    τὰς διὰ Σαρᾶτος ἀργυρίου δραχμὰς ιϛ,
+r.6    καὶ ἔδωκα Ἑρμᾶτι δοῦναί
+r.7    σοι δραχμὰς ιβ.
+r.8    ἐὰν δὲ χρείαν ἔχῃ[ς] μάλιστ[α]
+r.9    ξυλαρίων δύο ἵνα μοι τὸν
+r.10   τροχὸν τῆς μηχανῆς κατενέγκῃς, δι[ὰ] … ἀνενεχθήσεταί σ[οι]. τὰ δʼ ἄλλα
+r.11   ἔρρωσο.
+r.12   τῶι φιλτάτωι Ἰσχυρᾶτι.
+
+[TRANSLATION]
+# HGV-EN: Hermogenes to Ischyras his brother, greeting. Please put on board for me two hundred empty jars, as I asked you before. You have the 16 drachmae of silver by Saras, and I have given Hermas 12 drachmae to give you. If you specially require two pieces of wood to bring down to me the wheel of the machine, they shall be brought up to you by ... For the rest, good-bye. (Addressed) To my dearest Ischyras.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

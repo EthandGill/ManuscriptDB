@@ -1,0 +1,36 @@
+[META]
+id:       PYLON 4.3_1
+label:    PYLON 4.3_1
+name:     Receipt — Diospolis Magna (Theben)
+genre:    receipts
+date:     136 BCE – 135 BCE
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     Dublin
+shelf:    
+content:  Receipt from Diospolis Magna (Theben) (136 BCE – 135 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Weinbau — Bank
+tm:       987699
+source:   https://papyri.info/ddbdp/pylon;4;3_1
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    [ἔτους] … ε τέτακται ἐπὶ τὴν
+r.2    [ἐν Διὸς πόλει τῆ]ι μεγάληι τράπεζαν ἐφ’ ἧς Ἡρακλείδης
+r.3    [ἀπο]μοίρας πέμπτου καὶ λ ἔτους
+r.4    … ς τετρακισχιλίας
+r.5    [πεντακοσ]ίας πεντήκοντα
+r.6    [γίνονται] [Δ]φν Ἡρακλείδης τραπεζίτης
+r.7    Δω
+
+[TRANSLATION]
+# HGV-EN: [Year x month ]5. Paid into the bank [in Diospolis] Magna that is overseen by Herakleides, for the apomoira of year fifth plus 30 (i.e., the 35th year), (by) … four thousand [five] hundred fifty (drachmas), [total 4]550. (subscription:) Herakleides, banker. 4800 (drachmas).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

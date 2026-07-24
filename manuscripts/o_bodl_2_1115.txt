@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1115
+label:    O.BODL 2.1115
+name:     Receipt — Theben
+genre:    receipts
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (201 CE – 300 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71802
+source:   https://papyri.info/ddbdp/o.bodl;2;1115
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Ἁδριανοῦ θ τοῦ ἐνεστῶτος γ ἔτους Δράκων
+r.2    Ψενχώνσιος Πεκύσιος ὑπὲρ στεφανικοῦ
+r.3    χρήματος β ἔτους δραχμὰς τέσσαρας
+r.4    γίνονται δραχμαὶ δ. Αὐρήλιος Πανίσκος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

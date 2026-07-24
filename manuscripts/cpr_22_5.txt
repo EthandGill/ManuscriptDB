@@ -1,0 +1,26 @@
+[META]
+id:       CPR 22.5
+label:    CPR 22.5
+name:     Letter — Herakleopolis
+genre:    letters
+date:     626 CE – 675 CE
+language: Greek (Koiné)
+found:    Herakleopolis
+held:     
+shelf:    
+content:  Letter from Herakleopolis (626 CE – 675 CE)
+# hgv-keywords: Briefanfang (amtlich?) — NN an den Pagarchen Theodorakios
+tm:       70245
+source:   https://papyri.info/ddbdp/cpr;22;5
+lat:      29.0855048
+lon:      30.9345750333
+
+[GREEK]
+r.1    … Θεοδωρακίῳ παγάρχῃ Ἡρακλέους …
+r.2    … ενοις ἔγραψες περὶ τῶν ναυτῶν ὅτι ες …
+r.3    … ους … ς … ακο …
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 6.932
+label:    P.Oxy. 6.932
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     176 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (176 CE – 200 CE)
+# hgv-keywords: Brief (privat) — Thais an Tigrios — Aufträge — Wirtschaft (Land)
+tm:       28343
+source:   https://papyri.info/ddbdp/p.oxy;6;932
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Θαῒς Τιγρίῳ τῶι ἰδίῳ χαίρειν.
+r.2    ἔγραψα Ἀπολιναρίῳ ἵνα γένηται ἐν τῇ
+r.3    Πέτνη ἵνα μ[ε]τρήσηι. ἐρεῖ σοι δὲ Ἀπολινάριος
+r.4    πῶς τὰ θέματα καὶ τὰ δημόσια· τὸ ὄνομα ὃ ἂν αὐτός σοι εἴπῃ. ἂν ἔρχῃ ἄφες ἀρτάβας ἓξ εἰς τοὺς σάκκους σφραγίσας λαχανοσπέρμου ἵνα πρόχειροι ὦσι, καὶ ἐὰν
+r.5    δύνῃ ἀναβῆναι ἵνα ἐπιγνοῖς τὸν ὄνον.
+r.6    ἀσπάζεταί σε Σαραποδώρα καὶ Σαβῖνος. τὰ
+r.7    χοιρίδια χωρὶς μοῦ μὴ πώλει.
+r.8    ἔρρωσο.
+
+[TRANSLATION]
+# HGV-EN: Thaïs to her own Tigrius, greeting. I wrote to Apolinarius to come to Petne for the measuring. Apolinarius will tell you how the deposits and public dues stand: the name will be that which he will tell you himself. If you come, take out six artabae of vegetable-seed, sealing it in the sacks in order that they may be ready, and if you can go up to find out the ass, do so. Sarapodora and Sabinus salute you. Do not sell the young pigs without me. Good-bye.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

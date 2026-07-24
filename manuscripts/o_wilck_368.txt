@@ -1,0 +1,28 @@
+[META]
+id:       O.Wilck. 368
+label:    O.Wilck. 368
+name:     Receipt — Theben
+genre:    receipts
+date:     33 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (33 CE)
+# hgv-keywords: Quittung — Geld
+tm:       76888
+source:   https://papyri.info/ddbdp/o.wilck;;368
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    καὶ βαλανικοῦ τετρώβολον ἡμιωβέλιον
+r.2    γίνονται δραχμαὶ ζ ὀβολοὶ β 𐅵 καὶ τὰ τούτων προσδιαγραφόμενα ἐξ ἡμιωβελίου .
+r.3    ἔτους κ Τιβερίου Καίσαρος Αὐτοκράτορος
+r.4    Φαῶφι κα. Πετεμενῶφις Πικῶτος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

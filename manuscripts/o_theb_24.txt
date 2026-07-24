@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 24
+label:    O.THEB 24
+name:     Receipt — Ta Memnoneia (Theben) (Ägypten)
+genre:    receipts
+date:     155 BCE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben) (Ägypten)
+held:     Toronto
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (Ägypten) (155 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       50407
+source:   https://papyri.info/ddbdp/o.theb;;24
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    ἔτους κϛ Ἐπεὶφ κ μεμέτρηκε
+r.2    κϛ ἔτους Μεμνονείων Ἀπολλώνιος
+r.3    Θέωνος πυροῦ δέκα
+r.4    ἑπτὰ 𐅵 ιβ γίνονται ιζ 𐅵 ιβ. Ἡλιόδωρος.
+r.5    Ἁρσιῆσις ἀρτάβαι ιζ 𐅵 ιβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

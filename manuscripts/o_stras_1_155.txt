@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.155
+label:    O.STRAS 1.155
+name:     Receipt — Theben
+genre:    receipts
+date:     217 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (217 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75756
+source:   https://papyri.info/ddbdp/o.stras;1;155
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαρμοῦθι ιδ τοῦ κε ἔτους ὀνόματος Αὐρηλίας Θερμάιος
+r.2    Ψεντκαλίβιος ὑπὲρ γεωμετρίας Ἀγορᾶς κε ἔτους δραχμὰς τέσσαρας
+r.3    γίνονται δραχμαὶ δ. Αὐρήλιος Ἀμώνιος σεσημείωμαι. Αὐρήλιος Παχ σεσημείωμαι.
+r.4    ἄλλας Ἐπεὶφ ζ τοῦ α ἔτους ὁμοίως δραχμὰς τέσσαρας γίνονται δραχμαὶ δ. Ἀπολλ σεσημείωμαι.
+r.5    ἄλλας Φαῶφι δ τοῦ β ἔτους ὁμοίως ὑπὲρ α ἔτους δραχμὰς τέσσαρας γίνονται δραχμαὶ δ.
+r.6    Αὐρήλιος Ἀμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

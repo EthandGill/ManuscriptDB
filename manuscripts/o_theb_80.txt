@@ -1,0 +1,26 @@
+[META]
+id:       O.THEB 80
+label:    O.THEB 80
+name:     Receipt — Theben
+genre:    receipts
+date:     19 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (19 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       76451
+source:   https://papyri.info/ddbdp/o.theb;;80
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ψενθαῆσις Πασήμ[ιος]
+r.2    τέτακται λαογραφίας ια ἔτους δραχμὰς η. ἔτους ια Καίσαρος
+r.3    Μεχεὶρ δ. Κέφαλος τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,26 @@
+[META]
+id:       P.Oxy. 2.384
+label:    P.Oxy. 2.384
+name:     Receipt — Oxyrhynchos (Oxyrhynchites, Ägypten)
+genre:    receipts
+date:     25 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (Oxyrhynchites, Ägypten)
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (Oxyrhynchites, Ägypten) (25 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       20601
+source:   https://papyri.info/ddbdp/p.oxy;2;384
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ὀφειλήματα
+r.2    μερίς
+r.3    πυροῦ τριμήνου σύνπαντα [ἕν]δεκα τέταρτον
+
+[TRANSLATION]
+1     
+2     
+3     

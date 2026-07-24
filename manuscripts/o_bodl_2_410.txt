@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.410
+label:    O.BODL 2.410
+name:     Receipt — Theben
+genre:    receipts
+date:     7 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (7 BCE)
+# hgv-keywords: Quittung — Steuern — Bank
+tm:       71114
+source:   https://papyri.info/ddbdp/o.bodl;2;410
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν ἐπὶ τὴν Κεφάλου τράπεζαν
+r.2    Πετεμενῶφις Πετεχώνσιος ἠπητὴς λαογραφίας τοῦ κγ ἔτους
+r.3    δραχμὰς ι. ἔτους κγ Καίσαρος Φαρμοῦθι ιγ.
+
+[TRANSLATION]
+1     
+2     
+3     

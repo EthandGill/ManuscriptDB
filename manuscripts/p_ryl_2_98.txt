@@ -1,0 +1,50 @@
+[META]
+id:       P.RYL 2.98
+label:    P.RYL 2.98
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     172 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (172 CE)
+# hgv-keywords: Angebot — eine Konzession (Weber) zu erwerben
+tm:       13010
+source:   https://papyri.info/ddbdp/p.ryl;2;98
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    Ἰσίωνει καὶ τοῖς λοιποῖς ἐπιτηρηταῖς
+r.2    θ μισθοῦ βαφικῆς
+r.3    παρὰ Ἥρωνος Ἡρώδου τοῦ Θεογίτονος
+r.4    ἀπὸ ἀμφόδου Σεκνεπτυνείου. βούλομαι ἐπιχωρηθῆναι παρὰ ὑμῶν ἱστωναρχίαν κώμης Ἀρχελαείδος
+r.5    πρὸς μόνον τὸ ἐνεστὸς ιγ ἔτος
+r.6    Αὐρηλίου Ἀντωνείνου Καίσαρος τοῦ
+r.7    κυρίου φόρου ἐνιαυσίου σύνπαντι
+r.8    λόγῳ ἀργυρίου δραχμῶν τριακοσίων
+r.9    ὧν κα[ὶ] τὴν ἀπόδοσιν [πο]ιήσομα[ι]
+r.10   κατὰ μ[ῆν]α τὸ αἱροῦν ἐξ [ἴ]σου, τῶν εἰς
+r.11   ἑτέρους λόγους εἰς διοίκησιν τελουμ[έ]νων ὄντ[ω]ν πρὸς ἐμὲ τὸν μισθούμεν[ο]ν, ἐὰν φ[α]ί[ν]ηται ἐπιχωρῆσαι. Ἰσίδωρος
+r.12   ἔσχο[ν τούτου] τὸ ἴσον. Ἰσίων ἔσχον τούτου τὸ ἴσ[ον.]
+r.13   ἔτους ιγ [Μάρκου Αὐρηλίο]υ Ἀντωνίνου Καί[σ]αρος
+r.14   [τ]οῦ κυρί[ου] Θὼθ β …
+
+[TRANSLATION]
+# HGV-EN: ‘To Ision and the other nine superintendents of the lease of the dyeing monopoly, from Heron son of Herodes son of Theogiton, of the quarter of the temple of Sekneptunis. I wish to be granted by you the control of the weaving in the village of Archelais for the present 13th year only of Aurelius Antoninus Caesar the lord at a total yearly rent of 300 silver drachmae which I will pay in equal monthly instalments, the fiscal charges payable for other accounts falling upon me the lessee, if you consent to the concession. (Signed) I, Isidorus, have received a copy of this application. I, Ision, have received a copy of this application. The 13th year of Marcus Aurelius Antoninus Caesar the lord, Thoth 2[.].’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

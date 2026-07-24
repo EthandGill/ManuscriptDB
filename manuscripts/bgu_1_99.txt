@@ -1,0 +1,40 @@
+[META]
+id:       BGU 1.99
+label:    BGU 1.99
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     166 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (166 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       9138
+source:   https://papyri.info/ddbdp/bgu;1;99
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἔτους ἕκτου Ἀντωνείνου καὶ
+r.2    Οὐήρου τῶν κυρίων Σεβαστῶν
+r.3    Μεσορὴ θ. διέγραψε διὰ Διοσκόρου
+r.4    καὶ μετόχων πρακτόρων ἀργυρικῶν κώμης
+r.5    Σοκνοπαίου Νήσου Τεσενοῦφις
+r.6    Σαταβοῦτος τοῦ Σαταβοῦτος
+r.7    μητρὸς Στοτοήτιος δ ἔτους χωμά[τω]ν
+r.8    δραχμὰς ἓξ τετρώβολον γίνονται δραχμαὶ ϛ τετρώβολον καὶ τὰ πρ[οσ]διαγραφόμενα
+r.9    συμβολικά.
+
+[TRANSLATION]
+# HGV-EN: Year six of Antoninus and Verus, the lords Augusti, Mesore 9. Paid through Disokoros and his associates, collectors of money taxes of the village of Soknopaiou Nesos, (by) Tesenouphis, son of Satabous, the son of Satabous, mother Stotoetis, for the dike tax of year 4 six drachmas 4 obols, = 6 drachmas 4 obols, and extra charges (and) the receipt charge.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

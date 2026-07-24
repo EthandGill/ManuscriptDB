@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 110
+label:    O.THEB 110
+name:     Receipt — Theben
+genre:    receipts
+date:     182 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (182 CE)
+# hgv-keywords: Quittung — Heu
+tm:       76480
+source:   https://papyri.info/ddbdp/o.theb;;110
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    παρεκομίσθη εἰς Ὠφιῆον ὑπὲρ γενήματος
+r.2    κβ ἔτους ὀνόματος Πεχύτου Τιθοήους ἀχύρου γόμου 𐅵 δ
+r.3    ἕκτον τετρακαιεικοστὸν γίνεται γόμου 𐅵 δ ϛ κδ. ἔτους κγ Αὐρηλίου
+r.4    Κομμόδου Ἀντωνίνου Καίσαρος τοῦ κυρίου Ἁθὺρ ιγ.
+r.5    Πανίσκος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

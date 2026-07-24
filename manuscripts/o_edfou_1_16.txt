@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.16
+label:    O.EDFOU 1.16
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     70 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (70 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       46956
+source:   https://papyri.info/ddbdp/o.edfou;1;16
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [Νί]κων Ἀντωνίου Ῥούφου
+r.2    λαογραφίας γ ἔτους Οὐεσπασιανοῦ δραχμὰς ιϛ
+r.3    χωματικοῦ ϛ τετρώβολον βαλανικοῦ διώβολον
+r.4    ἔτους γ Φαῶφι ιδ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

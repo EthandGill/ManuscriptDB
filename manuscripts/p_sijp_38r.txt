@@ -1,0 +1,32 @@
+[META]
+id:       P.SIJP 38r
+label:    P.SIJP 38r
+name:     Receipt — Theben
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (144 CE)
+# hgv-keywords: Quittung — Steuer (Webersteuer) — Geld
+tm:       110191
+source:   https://papyri.info/ddbdp/p.sijp;;38r
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἰναρῶς Πατώτου καὶ μέτοχοι τελῶναι γερδίων
+r.2    Πανσισώϊ Πασήμιος χαίρειν· ἔσχομεν
+r.3    παρὰ σοῦ τέλος ἀριθμήσεως Ἐπεὶφ Μεσορή.
+r.4    ἔτους ζ Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.5    Ἐπεὶφ λ. Ἡρ σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: Inaros son of Patotes and partners, tax-farmers of weavers, to Pansisois son of Pasemis, greetings. We have received from you the tax for the account of Epeiph and Mesore. Year 7 of Antoninus Caesar the lord, Epeiph 30. I, Her( ), have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

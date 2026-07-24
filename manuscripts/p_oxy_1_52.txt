@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 1.52
+label:    P.Oxy. 1.52
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     325 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (325 CE)
+# hgv-keywords: Gutachten — Ärzte — Verletzungen durch ein eingestürztes Haus
+tm:       20714
+source:   https://papyri.info/ddbdp/p.oxy;1;52
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ὑπ[ατ]είας Παυλίνου καὶ Ἰουλ[ιανοῦ]
+r.2    τῶν λαμπροτάτ[ων ] …
+r.3    Φλαου[ί]ῳ Λευκαδί[ῳ λ]ογιστ[ῇ Ὀξυρυγχίτου]
+r.4    παρὰ Αὐρηλίων [Θεωνίνου καὶ Ἥρωνος ]
+r.5    καὶ Διδύμου καὶ Σιλβανοῦ ἀπ[ὸ τῆς λαμπρᾶς]
+r.6    καὶ λαμπροτάτης Ὀξυρυγχιτῶν πόλεω[ς δημοσίων]
+r.7    ἰ[ατρ]ῶν. ἐπισταλ[έ]ντες ὑπὸ τῆς σῆ[ς ][ἐμμε]λεί[ας] ἐκ βιβλιδίων ἐπιδοθέντων σοι
+r.8    [ὑπὸ] Αὐρηλίου Διοσκόρου Δωροθέου ἀπὸ
+r.9    τῆς αὐτῆς πόλεως, ὥστε τὴν περὶ θυγα[τ]έρα αὐτοῦ καθὰ ᾐτιάσατο ἐκ τοῦ συμβάντος πτώματος τῆς οἰκίας αὐτοῦ
+r.10   διάθεσιν ἔγγραφον προσφωνῆσαι, ὅθεν παραγενόμενοι ἐπὶ τὴν τούτου οἰκίαν, ἐ[πεί]δαμεν τὴν παῖδα ἔχουσαν κατὰ τῶν ἰσχίων ἀμυχὰς μετὰ πελιωμάτων κα[ὶ]
+r.11   [τ]οῦ δεξιοῦ γονατίου τραύματος· [διὸ]
+r.12   προσφωνοῦμεν.
+r.13   [ὑπατείας τῆ]ς προκειμένης Με[σορὴ ] …
+
+[TRANSLATION]
+# HGV-EN: In the consulship of Paulinus and Julianus, the most illustrious. To Flavius Leucadius, logistes of the Oxyrhynchite nome, from the Aurelii ...., Didymus and Silvanus, of the most illustrious city of Oxyrhynchus, public physicians. Your grace sent us in consequence of a petition received by you from Aurelius Dioscorus, son of Dorotheus, of Oxyrhynchus, to make a report in writing upon his daughter, who, as he complained, had been injured by the fall of his house which had occurred. We accordingly went to Dioscorus’ house, and saw that the girl had several cuts in her hip and wounds near the shoulder and on the right knee. We therefore present this report.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

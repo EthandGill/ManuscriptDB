@@ -1,0 +1,42 @@
+[META]
+id:       ZPE 204.197_2
+label:    ZPE 204.197_2
+name:     Documentary papyrus — Philopator alias Theogenus (Arsinoites, Ägypten)
+genre:    documents
+date:     212 CE – 217 CE
+language: Greek (Koiné)
+found:    Philopator alias Theogenus (Arsinoites, Ägypten)
+held:     Wien
+shelf:    
+content:  Documentary papyrus from Philopator alias Theogenus (Arsinoites, Ägypten) (212 CE – 217 CE)
+# hgv-keywords: Liste — Steuer — Steuerzahler
+tm:       738007
+source:   https://papyri.info/ddbdp/zpe;204;197_2
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Φιλοπάτορο[ς] τῆς καὶ Θ[εογ]ένους ἄρουραι κζδ
+r.2    πυροῦ ἀρτάβαι ξδ𐅵 [κώμη]ς Σοκνοπαίου αἰγιαλοῦ
+r.3    Αἰὼν Σύρου ἀρτάβαι β πυροῦ ἀρτάβαι δ
+r.4    Σαταβ[o]ῦς Ὡρίωνος καὶ Πετεσοῦχος
+r.5    Γαμεᾶ ἀρτάβαι η πυροῦ ἀρτάβαι ιη
+r.6    Ἀσκλᾶς Ἐσούριος ἀρτάβαι … πυροῦ ἀρτάβαι δ …
+r.7    Ἀπ[ῦ]γχις Σύρου ἀρτάβαι β πυροῦ ἀρτάβαι …
+r.8    Ἥρων Παιάμεως ἀρτάβαι α [πυροῦ ἀρτάβαι] …
+r.9    Πνεφε[ρ]ῶς Μούεις Ἰσχ[υρᾶ ἀρτάβαι] … [πυροῦ ἀρτάβαι] …
+r.10   [Πετεσ]οῦχος Σ …
+
+[TRANSLATION]
+# HGV-EN: Philopator alias Theogenous arouras 27¼ artabas of wheat 64½ shoreland of Sok(nopaiou) [Ne]s(os) Aion son of Syros (ar.) 2 (art. of wheat) 4 Satabous son of Horion and Petesouchos son of Gameas (ar.) 8 (art. of wheat) 18 Asklas son of Esouris (ar.) [x] (art. of wheat) 4[(?)] Apynchis son of Syros (ar.) 2 (art. of wheat) [y]. Heron son of Paiamis (ar.) 1 [(art. of wheat) y] Pnepheros Moueis son of Isch[yras (ar.) x (art. of wheat) y] [Petes]ouchos son of S[... (ar.) x (art. of wheat) y].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

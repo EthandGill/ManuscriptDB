@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 1.215
+label:    O.BODL 1.215
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     107 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (107 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       70962
+source:   https://papyri.info/ddbdp/o.bodl;1;215
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ι Μεσορὴ ιθ μεμέτρηκεν εἰς τὸ ι ἔτος
+r.2    Χεσθώτης Πετεχῶντος πυροῦ
+r.3    ὀκτὼ 𐅵 δ γίνονται η 𐅵 δ.
+
+[TRANSLATION]
+1     
+2     
+3     

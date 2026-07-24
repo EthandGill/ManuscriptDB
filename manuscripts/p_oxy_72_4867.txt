@@ -1,0 +1,42 @@
+[META]
+id:       P.Oxy. 72.4867
+label:    P.Oxy. 72.4867
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     122 CE – 123 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (122 CE – 123 CE)
+# hgv-keywords: Auftrag an die Sitologen von Ophis (diastolikon) — Giro - Überweisung von Weizen
+tm:       114247
+source:   https://papyri.info/ddbdp/p.oxy;72;4867
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Δίδυμος … οττίωνος
+r.2    σιτολόγοις Ὤφεως τόπων χαίρειν.
+r.3    διαστείλατε ἃς ἔχετέ
+r.4    μου ἐν θέματι πυροῦ γενήματος
+r.5    τοῦ διελθόντος ἕκ[του]
+r.6    ἔτους Ἁδριανοῦ
+r.7    τοῦ κυρίου Ἀπίωνι …νος Σιγκεφα τόπων ἀρτάβας
+r.8    τρεῖς χοίνικας τέσσαρας, γίνονται ἀρτάβαι γ χοίνικες δ.
+r.9    ἔτους ζ Αὐτοκράτορος Καίσαρος
+r.10   [Τρ]αϊανοῦ Ἁδριανοῦ Σε[βα]σ[τοῦ],
+
+[TRANSLATION]
+# HGV-EN: Didymos son of –ottion, to the sitologi of the district of Ophis, greetings. Transfer, from the (artabas) you hold on deposit for me, from the wheat-crop of the past sixth year of Hadrianus the lord, to Apion son of —n, (for his account) at the district of Sincepha, three artabas (and) four choenices, total 3 art. 4 choen. Year 7 of Imperator Caesar Traianus Hadrianus Augustus, (month, day). (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

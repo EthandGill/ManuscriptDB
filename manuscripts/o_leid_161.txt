@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 161
+label:    O.LEID 161
+name:     Receipt — Theben
+genre:    receipts
+date:     215 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (215 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24719
+source:   https://papyri.info/ddbdp/o.leid;;161
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁθὺρ κε τοῦ κδ ἔτους ὀνόματος Ἐσμίνιος
+r.2    Ἑρεῦτος μητρὸς Τφοῦτος ὑπὲρ μερισμοῦ
+r.3    ἀννώνης τιμῆς πυροῦ δραχμὰς δύο,
+r.4    γίνονται δραχμαὶ β. Δεκ σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

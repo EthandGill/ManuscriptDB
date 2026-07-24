@@ -1,0 +1,32 @@
+[META]
+id:       PYLON 3.8
+label:    PYLON 3.8
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     Ann Arbor
+shelf:    
+content:  Receipt from Arsinoites (601 CE – 700 CE)
+# hgv-keywords: Quittung — Geld — Weber
+tm:       987023
+source:   https://papyri.info/ddbdp/pylon;3;8
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    παρέσχε Θεόδωρος ταρσικάριος ἀπὸ λόγου ἐνοικίου αὐτοῦ
+r.2    τῆς παρούσης α ἰνδικτίωνος χρυσοῦ κεράτ[ια]
+r.3    τέσσαρα τέταρτον ἑκκαιδέκατον
+r.4    γίνεται χρυσοῦ κεράτια δ δ ιϛ μόνα. μηνὸς Ἐπειφ κ α ἰνδικτίωνος.
+r.5    δι’ ἐμοῦ Μάρκου
+
+[TRANSLATION]
+# HGV-EN: † Theodoros, the weaver has paid from the account of his house-rent of the current 1st indiction four one-fourth one-sixteenth gold carats, total 4 1/4 1/16 gold carats only. On the 20th of the month Epeiph of the 1st indiction. † Through me, Marcus (paraphe)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

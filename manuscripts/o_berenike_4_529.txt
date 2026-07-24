@@ -1,0 +1,24 @@
+[META]
+id:       O.BERENIKE 4.529
+label:    O.BERENIKE 4.529
+name:     Documentary papyrus — Berenike
+genre:    documents
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Berenike (1 CE – 200 CE)
+# hgv-keywords: Lieferung
+tm:       971751
+source:   https://papyri.info/ddbdp/o.berenike;4;529
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    ἀπόδος εἰς …
+
+[TRANSLATION]
+# HGV-EN: Deliver to … .
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     

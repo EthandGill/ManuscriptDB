@@ -1,0 +1,46 @@
+[META]
+id:       P.RYL 4.555
+label:    P.RYL 4.555
+name:     Contract — Philadelphia (Arsinoites)
+genre:    contracts
+date:     257 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Philadelphia (Arsinoites) (257 BCE)
+# hgv-keywords: Brief (privat) — Amyntas (?) an Apollonios — Abgaben an den König — Kauf eines großen Hauses
+tm:       2411
+source:   https://papyri.info/ddbdp/p.ryl;4;555
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    πυρῶν καὶ τὴν λιν[ο]καλάμην τὴν
+r.2    νέαν, ἃ ἐκόμισεν ὁ βυβλιαφόρος,
+r.3    εἰσηνέγκαμεν τῶι βασιλεῖ. γίνωσκε δὲ καὶ τὴν Νικάνορος τοῦ ποδαγρικοῦ οἰκίαν τὴν ἐν Κανώπωι οὖσαν ἐν ἡμῖν ταλάντων β καὶ δραχμῶν φ.
+r.4    ἐὰν οὖν οἱ περὶ Ἀντίοχον τὸν ῥαχᾶν
+r.5    ἐνοχλῶσίν σε, π[υθο]ῦ διότι καὶ
+r.6    τὴ[ν ἀ]ρχὴν ἡμεῖς π[ρό]τερον προσεληλύθαμεν καὶ ἀρραβῶνα δεδώκαμεν καὶ … τον … οδρ …
+r.7    μενον ἀπεστήσαμεν· τὰ δʼ αὐτὰ
+r.8    καὶ ἐνταῦθα ὄντος αὐτοῦ καὶ προσελθόντος ἡμῖν παρʼ αὐτοῦ Σωσιβίου
+r.9    τοῦ ἐπιστολογραφοῦντος αὐτῶι
+r.10   ἀπηγγείλαμεν.
+r.11   ἔρρωσο. ἔτους κη Χοίαχ ιγ
+r.12   Ἀπολλωνίωι
+
+[TRANSLATION]
+# HGV-EN: ‘… The gifts which the letter-carrier brought, consisting of … wheat and the new flax, we presented to the king. And you must know that the house of the gouty Nicanor at Canopus is ours for 2 talents 500 drachmae. So if the people of Antiochus the rachas importune you, take note that originally we came forward first and have paid earnest-money and repulsed …; and of these same facts we notified him when he was here himself and his secretary Sosibius approached us on his behalf. Year 28, Choiach 13. (Addressed) To Apollonius.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

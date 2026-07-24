@@ -1,0 +1,38 @@
+[META]
+id:       P.Mich. 21.858r
+label:    P.Mich. 21.858r
+name:     Documentary papyrus — Fundort: Karanis (Arsinoites) oder - 1929
+genre:    documents
+date:     151 CE – 200 CE
+language: Greek (Koiné)
+found:    Fundort: Karanis (Arsinoites) oder - 1929
+held:     Ann Arbor
+shelf:    
+content:  Documentary papyrus from Fundort: Karanis (Arsinoites) oder - 1929 (151 CE – 200 CE)
+# hgv-keywords: Liste — Namen — Ortsnamen
+tm:       756889
+source:   https://papyri.info/ddbdp/p.mich;21;858r
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    … φ … Πυρρείας· Σαραπίων …
+r.2    … μητροπολ- Ἰταλεία ἀπελευθέρα κδ …
+r.3    … ων Ἱερᾶς πόλεως· Ἀφροδείσιος Χαρ …
+r.4    … οπ Αὐτοδίκης· Πατσ …
+r.5    … υ Καστωροῦς θυγ[άτηρ] …
+r.6    … νου παρὰ Πτολ Σαραπ …
+r.7    … νων λαχανοπώλης μητροπολ- Α …
+r.8    … ς Ὀξυρύγχων· Πετ …
+
+[TRANSLATION]
+# HGV-EN: ... Of Pyrreia: Sarapion [son of NN] ... metrop( ), Italeia, freedwoman 24 (years old?) ... Of Hiera polis: Aphrodisios son of Char[, ... Of Autodike: Pats[ ... Kastorous daughter ... from Ptol( ) son of (?) Sarap( ) [ ... greengrocer (?), metrop( ) A[ ... Of Oxyrhyncha: Pet[ ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

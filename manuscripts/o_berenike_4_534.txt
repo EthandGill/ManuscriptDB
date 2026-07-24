@@ -1,0 +1,26 @@
+[META]
+id:       O.BERENIKE 4.534
+label:    O.BERENIKE 4.534
+name:     Documentary papyrus — Berenike
+genre:    documents
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Berenike (201 CE – 300 CE)
+# hgv-keywords: Lieferung
+tm:       971756
+source:   https://papyri.info/ddbdp/o.berenike;4;534
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    εἰς Αἴγυπτον …
+r.2    τοξοτῶν …
+
+[TRANSLATION]
+# HGV-EN: To Egypt (...) of the archers.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

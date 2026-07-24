@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 15
+label:    O.THEB 15
+name:     Receipt — Theben
+genre:    receipts
+date:     47 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (47 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       76395
+source:   https://papyri.info/ddbdp/o.theb;;15
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ε Ἐπεὶφ ιβ μεμέτρηκεν εἰς τὴν
+r.2    ἐπιγραφὴν καὶ ἡμιαρταβιείαν τοῦ αὐτοῦ ἔτους Πικῶς
+r.3    Περμάμιος πυροῦ ἀρτάβην μίαν τρίτον
+r.4    γίνεται πυροῦ ἀρτάβη α γ.
+r.5    Πετε σιτολόγος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

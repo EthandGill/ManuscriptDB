@@ -1,0 +1,24 @@
+[META]
+id:       STUD.PAL 13.pg8_5
+label:    STUD.PAL 13.pg8_5
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     77 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (77 CE)
+# hgv-keywords: Quittung — Steuern — Geld — Juden
+tm:       23267
+source:   https://papyri.info/ddbdp/stud.pal;13;pg8_5
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Δημᾶς Σίμωνος ὑπὲρ λαογραφίας ι ἔτους Οὐεσπασιανοῦ δραχμὰς η.
+r.2    ἔτους ι, Χοιὰκ ιδ.
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,28 @@
+[META]
+id:       O.ELEPH.WAGNER 91
+label:    O.ELEPH.WAGNER 91
+name:     Letter — Elephantine
+genre:    letters
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Letter from Elephantine (101 CE – 200 CE)
+# hgv-keywords: Brief (privat) — Petorzmethis an Thinpetiutis — Anklage
+tm:       29835
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;91
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Πετορζμῆθις Θινπετιοῦτει χαίρειν.
+r.2    σε ἐγκαλῶ ὑπὲρ τοῦ
+r.3    ἔργου ὁ ἠργασάμην,
+r.4    ὑπὲρ οὐδενὸς ἄλλων.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

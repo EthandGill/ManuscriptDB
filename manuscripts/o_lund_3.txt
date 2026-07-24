@@ -1,0 +1,30 @@
+[META]
+id:       O.LUND 3
+label:    O.LUND 3
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     113 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (113 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       74867
+source:   https://papyri.info/ddbdp/o.lund;;3
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    [Ἑριεὺς Π]αμώνθου πράκτωρ ἀργυρικῶν Μεμνονείων διὰ Παμώνθου
+r.2    [υἱοῦ] … φθομώνθῃ Πεκύσεως Παμώνθου
+r.3    … [ δραχμὰς] δ, ἔτους ιϛ Τραιανοῦ Καίσαρος
+r.4    [τοῦ κυρίου ὁ]μοίως Φαμενὼθ ιγ
+r.5    … [ δραχμὰς] δ Φαρμοῦθι κε
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

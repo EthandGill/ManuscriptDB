@@ -1,0 +1,26 @@
+[META]
+id:       O.CAIR 110
+label:    O.CAIR 110
+name:     Receipt — Theben
+genre:    receipts
+date:     127 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (127 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       73458
+source:   https://papyri.info/ddbdp/o.cair;;110
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν μητροπόλεως γενήματος ια ἔτους Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.2    Μεσορὴ κϛ ὀνόματος Σενφαήριος Πανᾶτος
+r.3    ὑπὲρ Χάρακος ἐνλείμματος ζ ἔτους καὶ ϛ ἔτους πυροῦ μίαν, γίνεται πυροῦ α. Πα σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

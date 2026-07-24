@@ -1,0 +1,36 @@
+[META]
+id:       P.POETHKE 36
+label:    P.POETHKE 36
+name:     Letter — Hermopolis
+genre:    letters
+date:     376 CE – 400 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Letter from Hermopolis (376 CE – 400 CE)
+# hgv-keywords: Brief (privat?) — Neilos (γνωστήρ) an seinen "Herrn" Asynkritios (γεοῦχος; Bitte den Nepheros nicht weiter zu belästigen, da er den Sklaven gefunden habe)
+tm:       128345
+source:   https://papyri.info/ddbdp/p.poethke;;36
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    κυρίῳ μου γεούχῳ
+r.2    Ἀσυγκριτί[ῳ] Νεῖλος γνωστὴρ χαίρειν.
+r.3    ἀπόσχου τῆς κατὰ
+r.4    Νεφερῶτος ὀχλήσεως.
+r.5    εὗρεν γὰρ αὖ τὸν δοῦλον.
+r.6    ἐρρῶσθαί σε εὔχομαι πολλοῖς
+r.7    χρόνοις, κύριε
+r.8    γεοῦχε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

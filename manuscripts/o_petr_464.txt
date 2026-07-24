@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR 464
+label:    O.PETR 464
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     720 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (720 CE)
+# hgv-keywords: Quittung — Steuer (prostimon)
+tm:       75617
+source:   https://papyri.info/ddbdp/o.petr;;464
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    Ψερον … Ἠλίας
+r.2    ὑπὲρ προστίμου νομισματίου 𐅵
+r.3    Φαμενώθ ιγ ἰνδικτίονος τρίτης.
+r.4    Κόμες στοιχεῖ
+r.5    Πχὲρ Ἀθανασίου στοιχεῖ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

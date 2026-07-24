@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 12.1428
+label:    P.Oxy. 12.1428
+name:     Letter — Oxyrhynchites (?)
+genre:    letters
+date:     326 CE – 375 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites (?)
+held:     
+shelf:    
+content:  Letter from Oxyrhynchites (?) (326 CE – 375 CE)
+# hgv-keywords: Brief (amtlich) — Nikon (Praeses?) an Exactor — Anweisung für Ausschalten von Betrug beim Herstellen von Kleidung
+tm:       33646
+source:   https://papyri.info/ddbdp/p.oxy;12;1428
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    ἀντίγραφον.
+r.2    … ς Νίκων ἐξάκτορι Ὀξρυγχίτου χαίρειν.
+r.3    [ἦλθ]εν εἰς ἐμὴν γνῶσιν ὡς Πτολεμ[αίο]υ τοῦ ἐπείκτου
+r.4    [τῆς] ὀθόνης εἰς τὴν Ἀλεξάνδριαν ἀπαντήσαντο[ς.]
+r.5    [ὑπ]ὲρ τοῦ τοίνυν μὴ ἐνέδραν ἐπακολουθῆσαι περὶ τὴν
+r.6    [ἐξυ]φὴν τὴς αὐτῆς ὀθόνης, φρόντισον τὴν ἀποτε[ταγ]μένην τῷ μέρει βοήθειαν παρασχεῖν Σαραπίωνι τῷ
+r.7    [ἑκα]τοντάρχῳ καὶ Ἀντώνιον ὀφφικιάλιον πρὸς τὸ καταναγ[κασ]θῆναι τοὺς ὑπευθύνους τὴν ἐσθῆτα ἀνεπι[κλή]τοις τοῖς ὑφάσμασιν κατασκευάσαι, ἄχρις ἂν
+r.8    [ὁ π]ροειρημένος Πτολεμαῖος ἀπαντήσῃ. διὰ
+r.9    [δὲ] τοῦτο ἀπέστειλα τὸν προειρημένον ὀφφικιά[λιο]ν. ἐρρῶσθ[αί σ]ε εὔχομαι.
+
+[TRANSLATION]
+# HGV-EN: Copy. ...s Nicon to the exactor of the Oxyrhynchite nome, greeting. It has come to my knowledge that Ptolemaeus, the collector of linen, has gone to Alexandria. So to prevent any deception from occurring in connexion with the completion (?) of the weaving of the said linen, take care to provide Sarapion the centurion with the assistance assigned to your division, and with the services of Antonius the officialis, in order that the persons responsible may be compelled to manufacture the clothing in irreproachable (?) materials, until the aforesaid Ptolemaeus comes. For this reason I have sent the aforesaid officialis. I pray for your health.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

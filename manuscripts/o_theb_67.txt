@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 67
+label:    O.THEB 67
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     197 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (Ägypten) (197 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76437
+source:   https://papyri.info/ddbdp/o.theb;;67
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μιῦσις Ξένωνος ἐπιτηρητὴς
+r.2    τέλους γερδίων Πετσεν Πετεμενώφιος χαίρειν.
+r.3    ἔσχον παρὰ σοῦ ὑπὲρ ἀριθμήσεως μηνὸς
+r.4    Ἐπεὶφ τοῦ ε ἔτους δραχμὰς ὀκτὼ
+r.5    γίνονται δραχμαὶ η. ἔτους ε Ἐπεὶφ ιζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

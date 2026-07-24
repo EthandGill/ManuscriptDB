@@ -1,0 +1,38 @@
+[META]
+id:       BGU 3.723
+label:    BGU 3.723
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     159 CE – 160 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (159 CE – 160 CE)
+# hgv-keywords: Quittung — Penthemeros
+tm:       9321
+source:   https://papyri.info/ddbdp/bgu;3;723
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἔτους κγ Αὐτοκράτορος
+r.2    Καίσαρος Τίτου Αἰλίου Ἁδριανοῦ
+r.3    Ἀντωνίνου Σεβαστοῦ Εὐσεβοῦς.
+r.4    εἴργασται ὑπὲρ χωματικῶν τοῦ διεληλυθότος κβ ἔτους Ἁθὺρ ι ιδ
+r.5    τὴν κελευσθεῖσαν πενθήμερον Ἐπαγαθιανῇ Σοκνοπαίου
+r.6    Ἀπῦγχις Στοτοήτιος ὑπὲρ Πῶλις
+r.7    ἀπελευθέρου Θασῆτος
+r.8    Φανίας σεσημείωμαι
+
+[TRANSLATION]
+# HGV-EN: Year 23 of Imperator Caesar Titus Aelius Hadrianus Antoninus Augustus Pius. Work has been done on the dike works for the past year 22, Hathyr 10 (to) 14 for the required penthemeros at the Epagathiane (canal) for Soknopaiou (Nesos) by Apynchis, son of Stotoetis, on behalf of Polis, freedman of Thases. (m. 2) I, Phanias, have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

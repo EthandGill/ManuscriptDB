@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.132
+label:    O.STRAS 1.132
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     97 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (97 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75732
+source:   https://papyri.info/ddbdp/o.stras;1;132
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ἁρσῦνις Πβήκιος βαλανικοῦ
+r.2    β ἔτους Νέρουα τοῦ κυρίου
+r.3    δραχμὴν α. ἔτους β Χοιὰκ λ.
+
+[TRANSLATION]
+1     
+2     
+3     

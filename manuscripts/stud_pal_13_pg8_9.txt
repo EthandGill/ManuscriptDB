@@ -1,0 +1,28 @@
+[META]
+id:       STUD.PAL 13.pg8_9
+label:    STUD.PAL 13.pg8_9
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     99 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (99 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer
+tm:       20005
+source:   https://papyri.info/ddbdp/stud.pal;13;pg8_9
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Σαμβαθίων ὁ καὶ Ἰησοῦς
+r.2    Παπείου λαογραφίας β ἔτους
+r.3    Τραιανοῦ τοῦ κυρίου δραχμὰς η.
+r.4    ἔτους β Φαρμοῦθι δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

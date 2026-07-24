@@ -1,0 +1,34 @@
+[META]
+id:       O.LEID 380
+label:    O.LEID 380
+name:     Receipt — Theben
+genre:    receipts
+date:     58 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (58 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24832
+source:   https://papyri.info/ddbdp/o.leid;;380
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Παμενχῆς Σανσν[ῶτος]
+r.2    ὑπὲρ λαογραφίας γ ἔτους δραχμὰς δέκα, βαλανευτικοῦ α [ὀβολὸς α 𐅵],
+r.3    γίνονται δραχμαὶ ια ὀβολὸς α 𐅵 καὶ τούτων προσδιαγραφόμενα [ἐξ ὀβολοῦ] α 𐅵. ἔτους δ
+r.4    Νέρωνος Κλαυδίου
+r.5    Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.6    Αὐτοκράτορος Μεχεὶρ η. Πε σεσημείωμαι. Βάσσος βαλ σεσημείωμαι
+r.7    Ἐπικράτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

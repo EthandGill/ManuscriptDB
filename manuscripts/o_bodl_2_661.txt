@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.661
+label:    O.BODL 2.661
+name:     Receipt — Theben
+genre:    receipts
+date:     40 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (40 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71351
+source:   https://papyri.info/ddbdp/o.bodl;2;661
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ὁνῆς καὶ μέτοχοι τελῶναι βαλανευτικοῦ δ ἔτους
+r.2    Κεμόιτι Ψενχνούμιος χαίρειν. ἔχομεν τέλος
+r.3    ὑπὲρ βαλανευτικοῦ τοῦ δ ἔτους Γαίου
+r.4    Καίσαρος Αὐτοκράτορος Σεβαστοῦ
+r.5    Παχὼν κζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

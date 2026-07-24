@@ -1,0 +1,26 @@
+[META]
+id:       O.ELEPH.WAGNER 61
+label:    O.ELEPH.WAGNER 61
+name:     Receipt — Elephantine
+genre:    receipts
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (1 CE – 200 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       26294
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;61
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Πετεῆσις ἐπιτηρητὴς τέλων πεντηκοστῆς
+r.2    … ούθεως Ὥρου χαίρειν. ἀπέ[σχον] παρὰ σοῦ τὸ τέλος τοῦ ὄνου λευκοῦ
+r.3    [κ]αὶ οὐδέν σοι ἐγκαλῶ. ἔτους β.
+
+[TRANSLATION]
+1     
+2     
+3     

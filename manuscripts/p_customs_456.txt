@@ -1,0 +1,30 @@
+[META]
+id:       P.CUSTOMS 456
+label:    P.CUSTOMS 456
+name:     Receipt — Bakchias (Arsinoites)
+genre:    receipts
+date:     204 CE
+language: Greek (Koiné)
+found:    Bakchias (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Bakchias (Arsinoites) (204 CE)
+# hgv-keywords: Quittung — Torzoll
+tm:       10672
+source:   https://papyri.info/ddbdp/p.customs;;456
+lat:      29.536946
+lon:      31.0041595
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Βακχιάδος
+r.2    λιμένος Μέμφεως Σαραπ[ί]ων ἐξάγων ἐπʼ ὄνο[ις]
+r.3    τρισὶ ὀρόβου [ἀρτάβας]
+r.4    ὀκτώ . ἔτους ιβ Μεχε[ὶρ] ἑβδόμῃ κα[ὶ]
+r.5    εἰκάδι, κζ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

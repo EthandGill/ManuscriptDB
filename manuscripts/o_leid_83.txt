@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 83
+label:    O.LEID 83
+name:     Receipt — Theben
+genre:    receipts
+date:     100 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (100 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24656
+source:   https://papyri.info/ddbdp/o.leid;;83
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Ὧρος Παουκαλήους
+r.2    ὑπὲρ λαογραφίας Χάρακος γ ἔτους δραχμὰς ι βαλανευτικοῦ α ὀβολὸν α 𐅵.
+r.3    ἔτους γ Τραιανοῦ
+r.4    Φαρμοῦθι λ ιδ. Α σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

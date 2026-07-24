@@ -1,0 +1,42 @@
+[META]
+id:       P.Oxy. 12.1454
+label:    P.Oxy. 12.1454
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     116 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (116 CE)
+# hgv-keywords: Erklärung — Eid von Bäckern der Stadt — Herstellung und Verkauf von Brot — Größe — Gewicht — Preis — Mehl
+tm:       21855
+source:   https://papyri.info/ddbdp/p.oxy;12;1454
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [προθήσομεν εἰς πρᾶσι]ν μετὰ τῶν ἐξ ἔθους πρατῶν ἤτοι ἐνθάδε
+r.2    [ἢ ὅπου ἐὰν κελευσθῶμεν ], καὶ τὴν τ[ι]μὴν ἀποκαταστήσομεν ὑμῖν,
+r.3    [καὶ ἄρτους παραστ]ήσ[ο]μεν ὑμ[ῖ]ν ὀπτοὺς ἠρτυμένους ἀρεστοὺς
+r.4    … [ καθʼ] ἕ[καστ]ον ἄρτον σταθμοῦ λίτρας δύο , λογιζομένων
+r.5    [ὑπὲρ ἑκάστ]ης ἀρτάβης ἄ[ρτ]ων λ, λημψόμεθα δὲ ὑπὲρ πρατικοῦ καὶ κοπτου[ργ]ίας
+r.6    [καὶ δαπάν]ης πάσης ἑκάστης ἀρτάβης ὀβολοὺς ι, ὁμοίως δὲ καὶ ἃς παρειλήφαμεν
+r.7    [παρὰ ] … ος ἐνάρχου ἀγορανόμου ἐν Ὀξυρύγχων πόλει ἐν τρισὶ δόσεσι μέτρῳ δημοσίῳ
+r.8    … ἀρτάβας ωνϛ ἀλευροποιήσομεν καὶ ἀρτοποιήσομεν ὁπότε ἐὰν
+r.9    [κελευσθῶ]μεν κα[ὶ] προθήσομεν εἰς πρᾶσιν μετὰ τῶν ἐξ ἔθους πρατῶν ὡς πρό[κειται, καὶ εὐδοκοῦμ]εν πᾶσι τοῖς προδεδηλωμένοις. ἔτους κ Αὐτοκράτορος
+r.10   [Καίσαρος ][Νέρουα Τραιανοῦ Ἀρ]ίστ[ο]υ Σεβαστοῦ Γερμανικοῦ Δακικοῦ Παρθικοῦ Φαῶφι λ.
+
+[TRANSLATION]
+# HGV-EN: ... we will expose it for sale with the customary sellers either here or wherever we are ordered to expose it (?), and will restore you the price and provide for you loaves which are baked, prepared, acceptable, ..., each weighing 2 pounds, 30 loaves being reckoned to each artaba, and we are to receive for selling and making the flour and all expenses 10 obols for each artaba; likewise also with regard to the 856 artabae by the public ... measure which we have received from ..., agoranomus in office, at Oxyrhynchus in three installments, we will make them into flour and manufacture loaves whenever we are ordered to do so, and expose them for sale with the customary sellers, as aforesaid; and we consent to all the above-mentioned stipulations. The 20th year of the Emperor Caesar Nerva Trajanus Augustus Germanicus Dacicus Parthicus, Phaophi 30.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

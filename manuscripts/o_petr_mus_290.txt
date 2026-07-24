@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 290
+label:    O.PETR.MUS 290
+name:     Receipt — Theben
+genre:    receipts
+date:     15 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (15 BCE)
+# hgv-keywords: Quittung — Steuer (Dattelpalmenhaine)
+tm:       77699
+source:   https://papyri.info/ddbdp/o.petr.mus;;290
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Οὐκάτιος Ἀλέξιος κουρεὺς
+r.2    τέτακται ὑπὲρ ιε ἔτους φοινικῶνων δ λβ
+r.3    δραχμὰς ε τετρώβολον. ἔτους ιε Καίσαρος Μεσορὴ κα.
+r.4    Κέφαλος τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

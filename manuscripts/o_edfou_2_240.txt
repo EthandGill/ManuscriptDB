@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 2.240
+label:    O.EDFOU 2.240
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     125 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (125 BCE)
+# hgv-keywords: Quittung
+tm:       44256
+source:   https://papyri.info/ddbdp/o.edfou;2;240
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους μϛ Ἁθὺρ κη τέτακται ἐπὶ τὴν ἐν Ἀπόλλωνος πόλει
+r.2    τῆι μεγάλῃ τράπεζαν ἀπομοίρας μϛ ἔτους Σεμφόνις
+r.3    Φαμούνιος πεντακοσίας ν γίνονται φν
+r.4    Πτολεμαῖος τραπεζίτης
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

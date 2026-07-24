@@ -1,0 +1,26 @@
+[META]
+id:       O.ABU.MINA 383=962
+label:    O.ABU.MINA 383=962
+name:     Receipt — Abu Mena
+genre:    receipts
+date:     601 CE – 650 CE
+language: Greek (Koiné)
+found:    Abu Mena
+held:     
+shelf:    
+content:  Receipt from Abu Mena (601 CE – 650 CE)
+# hgv-keywords: Quittung — Transport auf Eseln — Wein
+tm:       116577
+source:   https://papyri.info/ddbdp/o.abu.mina;;383=962
+lat:      30.8416054715
+lon:      29.6670462965
+
+[GREEK]
+r.1    ἀπὸ αππα Κυρίου Ἀργυ
+r.2    ὀνικαὶ φοραὶ β δύο μόναι μηνὶ Μεσορὴ
+r.3    κβ ἰνδικτίονος δ
+
+[TRANSLATION]
+1     
+2     
+3     

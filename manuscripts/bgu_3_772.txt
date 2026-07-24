@@ -1,0 +1,28 @@
+[META]
+id:       BGU 3.772
+label:    BGU 3.772
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       28085
+source:   https://papyri.info/ddbdp/bgu;3;772
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Διόσκορος γραμματεὺς πρεσβυτέρων καὶ οἱ μέτοχοι ἀριθμήσεως Παχὼν δραχμὰς κ
+r.2    Λαχα … λ καὶ Μακρῖνος καὶ οἱ λοιποὶ μέτοχοι δραχμὰς μ
+r.3    πζ ϛ
+
+[TRANSLATION]
+# HGV-EN: Dioskoros, scribe of the elders, and his associates, for the reckoning of Pachon, 20 drachmas, Lacha[..]l and Makrinos and the remaining associates, 40 drachmas. (m. 2) 87 1/6.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

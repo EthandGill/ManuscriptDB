@@ -1,0 +1,54 @@
+[META]
+id:       BGU 1.118colii
+label:    BGU 1.118colii
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     189 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (189 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       8893
+source:   https://papyri.info/ddbdp/bgu;1;118colii
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    [μητροπό]λεως ἀ[ναγραφομένων][ ἐπʼ ἀμφόδου Ἀπολλωνίου Ἱερακίου]
+r.2    Β[ου]βαστείου τῆς δε …
+r.3    τοῦ Μύσθου. ὑπάρχει ἡμῖ[ν ἐπ ἀμφόδου ] …
+r.4    οἰκία καινὴ, ἐν ᾗ κατοικοῦ[με]ν κ[αὶ ἀπογραφόμεθα εἰς τὴν τοῦ]
+r.5    διεληλυθότος κη ἔτους Αὐρη[λί]ου [Κομμόδου Ἀντωνίνου]
+r.6    Καίσαρος τοῦ κυρίου κατʼ οἰκίαν ἀπ[ογραφὴν][ ἐπὶ τοῦ αὐτοῦ]
+r.7    ἀμφόδου Ἀπολλωνίου Ἱερα[κίου][ Βο]υβαστείου, ἐφʼ [οὗ]
+r.8    καὶ τῇ τοῦ ιδ ἔτους ἀπογραφῇ ἀπεγραψάμεθα. καί ἐσμεν Μύσθη[ς]
+r.9    ὁ προγεγραμμένος σχοινιοπλόκος δεκάδραχμος ἐτῶν λϛ καὶ Ταμύσθα
+r.10   ἐτῶν μθ καὶ τὴν γενομένην ἐμοί τε τῇ Ταμύσθᾳ
+r.11   ἐκ τοῦ γενομένου καὶ ἀποπεπλεγμένου
+r.12   μου ἀνδρὸς Χαιρέου Ἡρακλείδου τοῦ Διονυσίου
+r.13   θυγατέρα Κυρίλλα ἐτῶν ι. ὑπάρχει δὲ ἡμῖν κοινῶς ἐξ ἴσου ἐπʼ ἀμφόδου Ἀπολλωνίου Ἱερακίου Βουβαστείου οἰκία καὶ αὐλὴ, ἐν ᾧ οὐδεὶς ἀπογράφεται. διὸ ἐπιδίδομεν. Μύσθης καὶ ἡ ἀδελφή μου Ταμύσθα
+r.14   μετὰ κυρίου ἐμοῦ ἐπιδεδώκαμεν. Μύθης ἔγραψα καὶ ὑπὲρ αὐτης ἀγραμμάτου.
+r.15   ἔτους κθ Αὐρηλίου Κομμόδου Ἀντωνείνου Καίσαρος
+r.16   τοῦ κυρίου Παῦνι α
+
+[TRANSLATION]
+# HGV-EN: of the metropolis registered [in the quarter of the Hawk shrine of Apollonios] and of the B[ou]basteion (?) of of Mysthes. There belongs to us [in the quarter – – –] a new house, in which we live and [register for the] house-by-house registration of the past 28th year of Aure[li]us [Commodus Antoninus] Caesar, the lord [in the same] quarter of the Hawk shrine of Apollonios] and of the B[ou]basteion (?), in which we registered in the registration of year 14 as well. And we are Mysthe[s] the above mentioned, ropemaker, dekadrachmos, 36 years old and Tamystha 49 years old and (we register) Kyrilla, daughter to me, Tamystha, from my one time and (now) divorced husband Chaireas, son of Herakleides, the son of Dionysios, 10 years old. There belongs to us jointly in equal shares in the quarter of the Hawk shrine of Apollonios and of the Boubasteion (?) a house and courtyard, in which nobody is registered. Therefore we submit (this registration). We, Mysthes and my sister, Tamystha, with me as her guardian, have submitted (this registration). (m. 2) I, Mysthes, wrote on her behalf as well, as she is illiterate. (m. 1) Year 29 of Aurelius Commodus Antoninus Caesar, the lord, (m. 3?) Payni 1.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

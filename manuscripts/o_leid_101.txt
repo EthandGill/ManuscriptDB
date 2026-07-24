@@ -1,0 +1,26 @@
+[META]
+id:       O.LEID 101
+label:    O.LEID 101
+name:     Receipt — Theben
+genre:    receipts
+date:     124 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (124 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24671
+source:   https://papyri.info/ddbdp/o.leid;;101
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πόστομος ὃς καὶ Ὧρος Ποστόμου πράκτωρ ἀργυρικῶν Ψεναμούνει Πετεμενώφιος Ψεναμούνιος ἔσχον ὑπὲρ λαογραφίας καὶ βαλανευτικοῦ ὀγδόου ἔτους ῥυπαρὰς δραχμὰς δώδεκα, γίνονται δραχμαὶ ιβ.
+r.2    ἔτους η Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.3    Φαμενὼθ α …
+
+[TRANSLATION]
+1     
+2     
+3     

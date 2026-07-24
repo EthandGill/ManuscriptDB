@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 124
+label:    O.THEB 124
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     233 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (Ägypten) (233 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       76494
+source:   https://papyri.info/ddbdp/o.theb;;124
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ιβ ἔτους Μάρκου Αὐρηλίου
+r.2    Σεουήρου Ἀλεξάνδρου Καίσαρος
+r.3    τοῦ κυρίου Ἁδριανοῦ ια τοῦ ιγ ἔτους ὑπὲρ γενήματος
+r.4    ιβ ἔτους ὑπὲρ … ὀνόματος Ἀπολλοδώρου Ποριεύθου
+r.5    κριθῆς ἀρτάβης δίμοιρον γίνεται κριθῆς ἀρτάβης 𐅷 … Αὐρήλιος Δι σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

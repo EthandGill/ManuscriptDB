@@ -1,0 +1,34 @@
+[META]
+id:       BGU 1.127
+label:    BGU 1.127
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     175 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (175 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       8904
+source:   https://papyri.info/ddbdp/bgu;1;127
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ε … α …
+r.2    καὶ προ …
+r.3    τρίτον μ[έρος οἰκίας καὶ αἰθρίου]
+r.4    καὶ αὐλῆς. διὸ ἐπιδ[ίδωμι].
+r.5    ἔτους ιε Αὐρηλίου Ἀντωνίνου
+r.6    Καίσαρος τοῦ κυρίου Μεσορὴ λ.
+
+[TRANSLATION]
+# HGV-EN: third of a [house and light-well] and courtyard. Therefore I submit (this registration). Year 15 of Aurelius Antoninus Caesar, the lord, Mesore 30.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

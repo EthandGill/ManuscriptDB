@@ -1,0 +1,64 @@
+[META]
+id:       P.Oxy. 31.2601
+label:    P.Oxy. 31.2601
+name:     Letter — Alexandria (?)
+genre:    letters
+date:     301 CE – 325 CE
+language: Greek (Koiné)
+found:    Alexandria (?)
+held:     
+shelf:    
+content:  Letter from Alexandria (?) (301 CE – 325 CE)
+# hgv-keywords: Brief (privat) — Kopres an Sarapias — Gericht — Test — Anwalt — Fall — Land — Krankheit (λευκωμάτιον)
+tm:       32692
+source:   https://papyri.info/ddbdp/p.oxy;31;2601
+lat:      31.201435
+lon:      29.909773
+
+[GREEK]
+r.1    Κοπρῆς Σαραπιάδι ἀδελφῇ πλεῖστα χαίρειν.
+r.2    πρὸ μὲν πάντων
+r.3    εὔχομαι ὑμᾶς ὁλοκληρεῖν παρὰ τῷ κυρίῳ θ[ε][ῷ.]
+r.4    γινώσκειν σε θέλω
+r.5    ὅτι τῇ ια εἰσήλθαμεν
+r.6    καὶ ἐγνώσθη ἡμῖν
+r.7    ὅτι οἱ προσερχόμενοι
+r.8    ἀναγ κάζονται θύειν καὶ ἀποσυστατικὸν ἐποίησα τῷ ἀδελφῷ μου καὶ μέχρι τούτου οὐδὲν
+r.9    ἐπράξαμεν ἐκατηχήσαμεν δὲ ῥήτορα
+r.10   τῇ ι … ἵνα τῇ ιδ εἰσαχθῇ τὸ πρᾶγμα
+r.11   περὶ τῶν ἀρουρῶν.
+r.12   εἴ τι δὲ ἐὰν πράξωμεν γράφω σοι. οὐδὲν δέ σοι ἔπεμψα
+r.13   ἐπειδὴ εὗρον αὐτὸν
+r.14   Θεόδωρον ἐξερχόμενον. ἀποστέλλω σοι
+r.15   δὲ αὐτὰ διὰ ἄλλου ταχέως. γράφε δὲ ἡμῖν
+r.16   περὶ τῆς ὁλοκληρίας
+r.17   ὑμῶν πάντων καὶ
+r.18   πῶς ἔσχεν Μαξιμῖνα
+r.19   καὶ Ἀσενά. καὶ εἰ δυνατόν ἐστιν ἐρχέσθω μετὰ τῆς μητρός σου
+r.20   ἵνα θεραπευθῇ τὸ λευκωμάτιον. ἐγὼ γὰρ εἶδον ἄλλους θεραπευθέντας. ἐρρῶσθαί σε εὔχομαι. ἀσπάζομαι πάντας τοὺς ἡμῶν κατʼ ὄνομα.
+r.21   ἀπόδος τῇ ἀδελφῇ παρὰ Κοπρῆτος ϙθ
+
+[TRANSLATION]
+# HGV-EN: Kopres to his sister Sarapias, very many greetings. Before all else, I pray for your good health before the Lor(d) G(o)d. I want you to know that we arrived on the 11th and it became known to us that people presenting themselves in court are being made to sacrifice and I made a power-of-attorney in favour of my brother and so far we have accomplished nothing, but we instructed an advocate on the 12th (?), so that the case about the land could be brought in on the 14th. If in the event that we accomplish anything, I’ll write to you. I’ve sent you nothing since I found Theodoros himself setting out. I’ll send them to you by another hand soon. Write to us about the health of all of you and how Maximina has been and Asena. And if it’s possible let him (her?) come with your mother so that his (her?) leukoma can be cured, because I’ve seen others cured myself. I pray that you are well; my best wishes to all our friends by name. Del(iver) to my sister, f(rom) Kopr(es) 99.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    

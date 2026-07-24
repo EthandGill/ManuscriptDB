@@ -1,0 +1,28 @@
+[META]
+id:       O.LUND 9
+label:    O.LUND 9
+name:     Receipt — Theben
+genre:    receipts
+date:     170 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (170 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       74872
+source:   https://papyri.info/ddbdp/o.lund;;9
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ια ἔτους Θὼθ ιθ ὑπὲρ
+r.2    Πεντακωμίας ι ἔτους ὀνόματος Σενφθο
+r.3    Πεαλήσεως, πυροῦ ὄ[γδοον],
+r.4    γίνεται πυροῦ ἀρτάβης η
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

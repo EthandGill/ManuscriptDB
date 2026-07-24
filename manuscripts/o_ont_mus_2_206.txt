@@ -1,0 +1,32 @@
+[META]
+id:       O.ONT.MUS 2.206
+label:    O.ONT.MUS 2.206
+name:     Receipt — Theben
+genre:    receipts
+date:     195 CE – 196 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (195 CE – 196 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75227
+source:   https://papyri.info/ddbdp/o.ont.mus;2;206
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [μέτρημα ][θη]σαυροῦ μητροπόλεως γενήματος δ ἔτους
+r.2    [Λου]κίου Σεπτιμίου Σεουήρου
+r.3    [Περτί]νακος Καίσαρος τοῦ κυρίου
+r.4    … ὑπὲρ Ἀγορῶν ὀνόματος Ἐσουήριος
+r.5    … ησιος … σιος ὑπὲρ Ψεντε …
+r.6    … διμη … ρο ἀδελ[φ ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

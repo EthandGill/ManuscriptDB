@@ -1,0 +1,32 @@
+[META]
+id:       O.ONT.MUS 2.221
+label:    O.ONT.MUS 2.221
+name:     Receipt — Theben
+genre:    receipts
+date:     244 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (244 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75242
+source:   https://papyri.info/ddbdp/o.ont.mus;2;221
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρ[ημα]
+r.2    θησαυροῦ κωμῶν γενήματος β [ἔτους]
+r.3    Φιλίππω[ν]
+r.4    Καισάρων Φαῶφι …
+r.5    ὀνόματος Φιλ …
+r.6    Περμάμι[ος] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,32 @@
+[META]
+id:       SB 1.4332
+label:    SB 1.4332
+name:     Receipt — Theben
+genre:    receipts
+date:     55 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (55 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23092
+source:   https://papyri.info/ddbdp/sb;1;4332
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Χεμτσνεὺς Πελιλεως
+r.2    ὑπὲρ λαογραφίας α ἔτους δραχμὰς δέκα πέντε, γίνονται δραχμαὶ ιε,
+r.3    καὶ τούτων προσδιαγραφόμενα. ἔτους α Νέρωνος
+r.4    Κλαυδίου Καίσαρος Σεβαστοῦ
+r.5    Γερμανικοῦ Αὐτοκράτορος,
+r.6    Φαρμοῦθι κδ. Βάσσος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

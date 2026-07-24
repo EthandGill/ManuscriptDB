@@ -1,0 +1,48 @@
+[META]
+id:       SB 3.7258
+label:    SB 3.7258
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     88 CE – 96 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (88 CE – 96 CE)
+# hgv-keywords: Brief (privat) — Teos an seinen Vater Onnophris
+tm:       18869
+source:   https://papyri.info/ddbdp/sb;3;7258
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Τεῶς Ὀννώφρι τῷ πατρὶ
+r.2    πλεῖστα χαίρειν.
+r.3    μετέλαβον φάσιν, ὅτι ὁ ἐν τῆι
+r.4    Ἀκώρι [κ]εντυρίων ἀπέσταλκεν
+r.5    ἐπὶ τοὺ[ς] ἱερογλύφους. ἐὰν οὖν εἰδῇς,
+r.6    [ὅτι] ἀληθές ἐστιν, πέμψον μοι φάσιν,
+r.7    [εἰ ἡ]μεῖς ἀναβῶμεν ἢ μείνωμεν.
+r.8    [ἐρω]τηθεὶς οὖν τάχιον πέμψον μοι
+r.9    [ἀντ]ιφώνησιν· καὶ περὶ τῶν ἱερέων
+r.10   … ταθην· ἀσπάζου τοὺς ἀδελφοὺς
+r.11   … . ἔρρωσο.
+r.12   … , μηνὸς Δομιτιανοῦ ιϛ.
+r.13   Ὀννώφρι.
+
+[TRANSLATION]
+# HGV-EN: Teos to Onnophris, his father, very many greetings. I received word that the centurion in Akoris has sent (5) for the hieroglyphics carvers. Therefore if you know that it is true, send me word, whether we should go up or remain. I therefore ask (you) to send me a reply soon. And about the priests (10) …. Greet my brothers …. Farewell. …. 16th of the month Domitianus. To Onnophris.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

@@ -1,0 +1,28 @@
+[META]
+id:       O.BANKES 21
+label:    O.BANKES 21
+name:     Receipt — Elephantine
+genre:    receipts
+date:     155 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (155 CE)
+# hgv-keywords: Quittung — Steuer (Umlagen, merismoi)
+tm:       699494
+source:   https://papyri.info/ddbdp/o.bankes;;21
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Φανῶφις πράκτωρ ἀργυρικῶν Ἐλεφαντίνης· διέγραψεν
+r.2    Παπρεμίθης Ἁρπαήσιος μητρὸς Σενζμετπῶτος ὑπὲρ μερισμῶν ιη ἔτους
+r.3    δραχμὰς τέσσαρας, γίνονται δραχμαὶ δ. ἔτους ιη Ἀντωνίνου Καίσαρος
+r.4    τοῦ κυρίου, Ἐπεὶφ ιη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

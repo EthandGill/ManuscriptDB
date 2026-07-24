@@ -1,0 +1,30 @@
+[META]
+id:       O.BERENIKE 4.526
+label:    O.BERENIKE 4.526
+name:     Documentary papyrus — Berenike
+genre:    documents
+date:     251 CE – 400 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Berenike (251 CE – 400 CE)
+# hgv-keywords: Übung?
+tm:       971748
+source:   https://papyri.info/ddbdp/o.berenike;4;526
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    ἔτους γ Θὼθ Φαῶφι α
+r.2    δὸς ἀνάδος κατάδος πληγὰς δὲ
+r.3    κατα …
+r.4    … ς
+
+[TRANSLATION]
+# HGV-EN: Year 3. Thoth /Phaophi\ 1. Give, deliver, bestow; and blows … .
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

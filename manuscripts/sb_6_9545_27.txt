@@ -1,0 +1,30 @@
+[META]
+id:       SB 6.9545_27
+label:    SB 6.9545_27
+name:     Receipt — Elephantine
+genre:    receipts
+date:     135 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (135 CE)
+# hgv-keywords: Quittung — Steuer (μερισμὸς διπλῶν)
+tm:       19089
+source:   https://papyri.info/ddbdp/sb;6;9545_27
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Ψανμοῦς πράκτωρ. διέγραψεν Πετεῆσ[ις]
+r.2    δοῦλος Ὀννῶφρις προφήτου
+r.3    ὑπὲρ μερισμοῦ διπλῶν ιθ ἔτους ῥυπαρὰς δραχμὰς β διώβολον χαλκοὺς 2.
+r.4    ἔτους κ Ἁδριανοῦ Καίσαρος
+r.5    τοῦ κυρίου Φαῶφι ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       O.NYU 1
+label:    O.NYU 1
+name:     Receipt — unbekannt
+genre:    receipts
+date:     131 BCE
+language: Greek (Koiné)
+found:    unbekannt
+held:     New York
+shelf:    
+content:  Receipt from unbekannt (131 BCE)
+# hgv-keywords: Quittung — Steuer — Bier
+tm:       869405
+source:   https://papyri.info/ddbdp/o.nyu;;1
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λθ Παχων κζ τέτακται Πόωρις
+r.2    μέγας Ψεναμούνιος καὶ γυνὴ τέλος ζυτηρᾶς
+r.3    τῆς β ἑξαμήνου δι’ Ἡρακλείδου τοῦ
+r.4    παρὰ Ψενεμονμοῦτος.
+r.5    διὰ Συμμάχου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

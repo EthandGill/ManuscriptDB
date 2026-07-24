@@ -1,0 +1,30 @@
+[META]
+id:       O.CAIR 109
+label:    O.CAIR 109
+name:     Receipt — Theben
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (120 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       73457
+source:   https://papyri.info/ddbdp/o.cair;;109
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀμμώνιος πράκτωρ σιτικῶν μητροπόλεως
+r.2    Ῥεμπνάφιος Ἁρενδώτου. ἔσχον εἰς πρόσθεσιν
+r.3    ὑπὲρ προσγρ πυροῦ ἀρτάβης ἥμισυ ὄγδοον, γίνεται πυροῦ ἀρτάβης 𐅵 η
+r.4    καὶ προσθήσω. ἔτους ε Αὐτοκράτορος Καίσαρος
+r.5    Τραιανοῦ Ἁδριανοῦ Σεβαστοῦ Χοιὰκ ι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

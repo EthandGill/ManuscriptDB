@@ -1,0 +1,32 @@
+[META]
+id:       O.HEID 235
+label:    O.HEID 235
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     167 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (167 CE)
+# hgv-keywords: Quittung (Steuer, Begräbnissteuer, telos taphes)
+tm:       80454
+source:   https://papyri.info/ddbdp/o.heid;;235
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁρποκρατίων καὶ μέτοχοι τελῶναι
+r.2    ἱματιοπωλῶν Ὀννόπρει Ὡρου … .
+r.3    ἔσχομεν παρὰ σοῦ ὑπὲρ τέλους ταφῆς … ασο … Ὀννόπριος
+r.4    δραχμὰς β. ἔτους ζ τῶν κυρίων
+r.5    Αὐτοκρατόρων
+r.6    Φαρμοῦθι κς.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

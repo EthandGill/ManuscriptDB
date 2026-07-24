@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.483
+label:    O.STRAS 1.483
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     139 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (139 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76071
+source:   https://papyri.info/ddbdp/o.stras;1;483
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φα … καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν Ὀννώφρι
+r.2    Ψενσενύριος. ἔχομεν τὸ βαλανικὸν τοῦ β ἔτους
+r.3    Ἀντωνείνου Καίσαρος τοῦ κυρίου.
+r.4    Φαρμοῦθι κη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

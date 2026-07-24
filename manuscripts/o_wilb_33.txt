@@ -1,0 +1,28 @@
+[META]
+id:       O.WILB 33
+label:    O.WILB 33
+name:     Receipt — Elephantine
+genre:    receipts
+date:     188 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (188 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76545
+source:   https://papyri.info/ddbdp/o.wilb;;33
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Ἀντώνιος Ἰουλᾶς μισθωτὴς χειρωναξίου μηνιαίου καὶ ἑταιρικοῦ. διέγραψεν Παπρεμίθης Παχνούβεως
+r.2    … φος ὑπὲρ Θὼθ καὶ Φαῶφι τοῦ
+r.3    ἐνεστῶτος κθ ἔτους δραχμὰς τέσσαρες γίνονται δραχμαὶ δ.
+r.4    ἔτους κθ Ἁθὺρ ι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

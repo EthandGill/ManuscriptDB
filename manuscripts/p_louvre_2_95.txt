@@ -1,0 +1,32 @@
+[META]
+id:       P.LOUVRE 2.95
+label:    P.LOUVRE 2.95
+name:     Letter — unbekannt
+genre:    letters
+date:     300 BCE – 101 BCE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Letter from unbekannt (300 BCE – 101 BCE)
+# hgv-keywords: Brief (privat) — Alexandros an Alketas — Präskript
+tm:       88761
+source:   https://papyri.info/ddbdp/p.louvre;2;95
+lat:      
+lon:      
+
+[GREEK]
+r.1    Ἀλέξανδρος
+r.2    Ἀλκέται χαίρειν.
+r.3    εἰ ἔρρωσαι, εἴη ἂν
+r.4    ὡς βουλόμεθα·
+r.5    καὶ αὐτοὶ δ’ ὑγιαίνομεν. ἐπεὶ
+r.6    πεπόμφαμεν
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

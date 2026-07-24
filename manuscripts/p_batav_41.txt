@@ -1,0 +1,26 @@
+[META]
+id:       P.BATAV 41
+label:    P.BATAV 41
+name:     Documentary papyrus — Bompae (Panopolites)
+genre:    documents
+date:     201 CE – 225 CE
+language: Greek (Koiné)
+found:    Bompae (Panopolites)
+held:     
+shelf:    
+content:  Documentary papyrus from Bompae (Panopolites) (201 CE – 225 CE)
+# hgv-keywords: Mumienetikett
+tm:       31716
+source:   https://papyri.info/ddbdp/p.batav;;41
+lat:      26.525085
+lon:      31.714189
+
+[GREEK]
+r.1    Σισόιτος τοῦ καὶ Ἀπολλωνίου Ἀρείου τοῦ Ἁρυώτου
+r.2    μητρὸς Σενσοντωοῦτος
+
+[TRANSLATION]
+# HGV-EN: (Translation from P.L.Bat.19.41) (Mummy) of Sisôis, also (called) Apollônios, son of Areios, son of Haryôtês, his mother is Sensontôous. [Demotic] His soul will serve Osiris-Sokaris, the Great God, Lord of Abydos: Siôis, whom they call Apollônios, son of Areios, his mother is Sensontôous.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

@@ -1,0 +1,42 @@
+[META]
+id:       ZPE 229.168_7
+label:    ZPE 229.168_7
+name:     Contract — Arsinoites
+genre:    contracts
+date:     146 CE – 147 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     London
+shelf:    
+content:  Contract from Arsinoites (146 CE – 147 CE)
+# hgv-keywords: Eingabe — an den Strategen — Pacht unbezahlt (?) — Weizen
+tm:       998565
+source:   https://papyri.info/ddbdp/zpe;229;168_7
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Μαξίμῳ τῷ κ[αὶ]
+r.2    Νεάρχῳ στρατηγῷ Ἀρσινοΐτου [Ἡρακλείδου]
+r.3    μερίδος
+r.4    παρὰ Ἡρακλείδου τ[οῦ]
+r.5    Χαιρήμονος δημοσίου γεωργοῦ. ὀφείλοντός
+r.6    μου πυρὸν τῶι δημοσίωι ὑπὲρ ὧν γεωργῶ
+r.7    δημοσίων ἐδαφῶν
+r.8    Σύρου δέ [τ]ινος ὀφείλοντος … ρικα κε… [β]ουλόμενος
+r.9    … ἐπὶ σὲ κα[ταφυγὼν ἀξι]ῶ σε τὸν
+r.10   [πάντων σ]ωτῆρα
+
+[TRANSLATION]
+# HGV-EN: To Maximus alias Nearchos, strategus of the Arsinoite (nome), division of Herakleides, from Herakleides, son of Chairemon, a public farmer. Since I owed wheat to the state for the public fields that I farm, and a certain Syrus owes (me?) …, wishing …, having taken refuge with you, I beg you, the saviour of all, …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 8.1155
+label:    P.Oxy. 8.1155
+name:     Letter — Alexandria
+genre:    letters
+date:     104 CE
+language: Greek (Koiné)
+found:    Alexandria
+held:     
+shelf:    
+content:  Letter from Alexandria (104 CE)
+# hgv-keywords: Brief (privat) — Theonas an Apion
+tm:       21760
+source:   https://papyri.info/ddbdp/p.oxy;8;1155
+lat:      31.201435
+lon:      29.909773
+
+[GREEK]
+r.1    Θωνᾶς Ἀπίονι τῷ φιλτά[τῳ]
+r.2    πλεῖστα χαίρειν. γιγνώσκειν σε [θέ]λω ὅτι εὐθὺς ἐπιβέβηκα εἰς Ἀλεξάνδρηαν, εὐθέως μεμέληκε ἐμοὶ περὶ
+r.3    τοῦ πράγματος οὗ με ἠρώτηκες. εὗρον τὸν ἄνθρωπον καλῶς πράσ[σ]οντα
+r.4    τὰ μεγάλα. ἀσπάζου
+r.5    πάντας τοὺς φίλους.
+r.6    αὐτὸ τὸ πρόγραμ[μ]α τοῦ
+r.7    ἡγεμόνος ἔπεμψά σοι
+r.8    ἵνα ἐπιγ[ν]οῖς πρὸς τί σοί [ἐ]στι.
+r.9    ἔρρωσο.
+r.10   ἔτους ζ Αὐτοκράτορος Καίσαρος Νερο[ύ]α
+r.11   Τραιανοῦ Σεβαστοῦ Γερμανι[κο]ῦ
+r.12   Δακικοῦ Παχὼν α.
+r.13   ἀπόδος εἰς τὸ Ἰσῖν Ἀπίωνι
+r.14   παστοφόρῳ
+r.15   παρὰ Θεονᾶτος.
+
+[TRANSLATION]
+# HGV-EN: Theonas to his dearest Apion, many greetings. I wish you to know that as soon as I arrived at Alexandria I immediately attended to the matter about which you asked me. I found the man prospering in the main. Greet all my friends. I send you the actual proclamation of the praefect in order that you may hasten to do what concerns you. Good-bye. The 7th year of the emperor Nerva Trajanus Augustus Germanicus Dacicus, Pachon 1. (Addressed) Deliver to Apion, pastophorus, at the Iseum, from Theonas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

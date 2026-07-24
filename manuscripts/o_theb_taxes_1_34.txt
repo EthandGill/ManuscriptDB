@@ -1,0 +1,26 @@
+[META]
+id:       O.THEB.TAXES 1.34
+label:    O.THEB.TAXES 1.34
+name:     Receipt — Theben
+genre:    receipts
+date:     261 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (261 BCE)
+# hgv-keywords: Quittung — Steuer (Öl, Rizinusöl)
+tm:       69702
+source:   https://papyri.info/ddbdp/o.theb.taxes;1;34
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κε Παχὼνς ις
+r.2    Ἐμονατοπ πα Πιριτ τιμὴν κίκιος
+r.3    οὗ ἔλαβεν ὀβολός
+
+[TRANSLATION]
+1     
+2     
+3     

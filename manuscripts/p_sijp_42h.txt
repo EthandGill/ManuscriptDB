@@ -1,0 +1,32 @@
+[META]
+id:       P.SIJP 42h
+label:    P.SIJP 42h
+name:     Documentary papyrus — Narmuthis (Arsinoites)
+genre:    documents
+date:     223 CE
+language: Greek (Koiné)
+found:    Narmuthis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Narmuthis (Arsinoites) (223 CE)
+# hgv-keywords: Bescheinigung — Arbeit — Deich
+tm:       110210
+source:   https://papyri.info/ddbdp/p.sijp;;42h
+lat:      29.19227245
+lon:      30.64189235
+
+[GREEK]
+r.1    ἔτους β Αὐτοκράτορος Καίσαρος
+r.2    Μάρκου Αὐρηλίου Σεουήρου Ἀλεξάνδρου
+r.3    Εὐσεβοῦς Εὐτυχοῦς Σεβαστοῦ. εἴργασται ὑπὲρ χωμάτων β ἔτους
+r.4    Μεχεὶρ χώματι Μαγδώλων Ναρμούθεως
+r.5    Ἀπόλλων Ἀμμωνᾶ.
+
+[TRANSLATION]
+# HGV-EN: Im 2. Regierungsjahr des Imperator Caesar Marcus Aurelius Severus Alexander Pius Felix Augustus. Es hat gearbeitet an den Deichen für das 2. Jahr (hand 2) (im Monat) Mecheir (am) Kanal von Magdola, für Narmuthis, Apollon, Sohn des Ammonas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

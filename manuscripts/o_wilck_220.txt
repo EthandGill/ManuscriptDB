@@ -1,0 +1,30 @@
+[META]
+id:       O.Wilck. 220
+label:    O.Wilck. 220
+name:     Receipt — Elephantine
+genre:    receipts
+date:     150 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (150 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76787
+source:   https://papyri.info/ddbdp/o.wilck;;220
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Δομίτιος Φαν[νιανὸς] καὶ Γερμαν[ὸς] πρ[άκτορες]
+r.2    ἀργυρικῆς Ἐλεφαντίνης. διέγραψεν Πατσίπ[τις]
+r.3    Πετορζμήθου μητρὸς Σενπελαίας [ῥυπαρὰς]
+r.4    δραχμὰς δ ὑπὲρ μερισμῶν ιγ ἔτους Ἀντωνίνου Καίσαρος
+r.5    τοῦ κυρίου Μεχὶρ κ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

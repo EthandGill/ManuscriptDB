@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.949
+label:    O.BODL 2.949
+name:     Receipt — Theben
+genre:    receipts
+date:     45 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (45 CE)
+# hgv-keywords: Quittung — Steuern — Geld — Kopie
+tm:       71639
+source:   https://papyri.info/ddbdp/o.bodl;2;949
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [ἀντί]γραφον ἀποχῆς. διαγέγραφε Προῖτος Πορείβθιος ὑπὲρ ἀμπελῶνος
+r.2    ε ἔτους 𐅵 λβ δραχμὰς κα ὀβολὸν α 𐅵 οἴνου δραχμὰς ἓξ τετρώβολον
+r.3    γίνονται ϛ τετρώβολον καὶ
+r.4    προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου. ἔτους ε Τιβερίου Κλαυδίου Καίσαρος Σεβαστ[οῦ]
+r.5    Γερμανικοῦ Αὐτοκράτορος Μεσορὴ κϛ.
+r.6    Ε …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

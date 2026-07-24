@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.274
+label:    O.STRAS 1.274
+name:     Receipt — Elephantine
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75870
+source:   https://papyri.info/ddbdp/o.stras;1;274
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σωκράτης Ἀμμων[ίου ] … [ μισθωτὴς εἴδους]
+r.2    ὁρμοφυλακίας Κε …
+r.3    ἔσχον παρὰ σοῦ τὸ [ἐνόρμιον ] … [ μη]νὸς Παῦνι ἔτους …
+r.4    Καίσαρος το[ῦ κυρίου ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

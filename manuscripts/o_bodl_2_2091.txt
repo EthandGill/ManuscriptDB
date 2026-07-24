@@ -1,0 +1,24 @@
+[META]
+id:       O.BODL 2.2091
+label:    O.BODL 2.2091
+name:     Receipt — Theben
+genre:    receipts
+date:     276 CE – 325 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (276 CE – 325 CE)
+# hgv-keywords: Quittung — Steuern — Fleisch
+tm:       72764
+source:   https://papyri.info/ddbdp/o.bodl;2;2091
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἐσχήκαμεν παρὰ Σανσνῶτος κρέως λίτρας ε 𐅵 δ.
+r.2    Αὐ[ρ]ήλιος Διόσκορος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     

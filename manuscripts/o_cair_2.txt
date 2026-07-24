@@ -1,0 +1,32 @@
+[META]
+id:       O.CAIR 2
+label:    O.CAIR 2
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     134 BCE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     
+shelf:    
+content:  Receipt from Hermonthis (134 BCE)
+# hgv-keywords: Quittung — Steuern — Bank — Geld
+tm:       73354
+source:   https://papyri.info/ddbdp/o.cair;;2
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    ἔτους λϛ Φαμενὼθ ιε. τέτακται
+r.2    ἐπὶ τὴν ἐν Ἑρμώνθει τράπεζαν ἐφʼ ἧς Ἡρακλείδης
+r.3    ἀπομοίρας λε ἔτους Ὧρος Θοτορταίου
+r.4    ἑπτακοσίας ξ φλε, γίνονται ψξ φλε.
+r.5    κδ ὁ αὐτὸς χιλίας οε φλε, γίνονται Αοε φλε.
+r.6    Ἡρακλείδης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

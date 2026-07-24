@@ -1,0 +1,30 @@
+[META]
+id:       O.MICH 1.75
+label:    O.MICH 1.75
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     294 CE – 295 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (294 CE – 295 CE)
+# hgv-keywords: Quittung — Dekaproten
+tm:       42489
+source:   https://papyri.info/ddbdp/o.mich;1;75
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους ια καὶ ι καὶ γ
+r.2    Χαιρήμωνος δε[κα]πρώτου
+r.3    ὀνόματος Ἴλωνος
+r.4    καὶ Ἀπίωνος
+r.5    ὄνος εἷς, γίνεται ὄνος α.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

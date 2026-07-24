@@ -1,0 +1,30 @@
+[META]
+id:       O.ASHM.SHELT 3
+label:    O.ASHM.SHELT 3
+name:     Receipt — Diospolis Magna (Theben)
+genre:    receipts
+date:     139 BCE
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     
+shelf:    
+content:  Receipt from Diospolis Magna (Theben) (139 BCE)
+# hgv-keywords: Quittung — Geld — Bank
+tm:       70555
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;3
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    [ἔτο]υς λα Μεχεὶρ κε τέτακται ἐπὶ τὴν ἐν Διὸς πόλει
+r.2    [τῆι ][μ]εγάληι τράπεζαν ἐφʼ ἧς Ἡρακλείδης ἀπὸ τιμῆς
+r.3    [ὀθονί]ων βασιλικῶν τοῦ λα ἔτους Πετῆσις
+r.4    μέγας Φίβιος δισχιλ[ίας], γίνονται Β.
+r.5    Ἡρακλείδης τ[ραπεζίτης][ Β.]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

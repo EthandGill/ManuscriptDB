@@ -1,0 +1,22 @@
+[META]
+id:       UPZ 1.139
+label:    UPZ 1.139
+name:     Documentary papyrus — Memphis
+genre:    documents
+date:     65 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Documentary papyrus from Memphis (65 BCE)
+# hgv-keywords: Vermerk (Registrierung)
+tm:       3531
+source:   https://papyri.info/ddbdp/upz;1;139
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    Ἄρειος. ἀναγέγραπται ἐν τῶι ἐν Μέμφει Ἀνουβιείωι ἔτους ιζ Μεσωρὴ κθ.
+
+[TRANSLATION]
+1     

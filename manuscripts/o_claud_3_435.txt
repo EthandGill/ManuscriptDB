@@ -1,0 +1,26 @@
+[META]
+id:       O.CLAUD 3.435
+label:    O.CLAUD 3.435
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     138 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (138 CE)
+# hgv-keywords: Fragment — Quittung?
+tm:       73618
+source:   https://papyri.info/ddbdp/o.claud;3;435
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    … Κανωπᾶτι
+r.2    … ὁμολογῶ
+r.3    … ς
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,28 @@
+[META]
+id:       O.Wilck. 387
+label:    O.Wilck. 387
+name:     Receipt — Theben
+genre:    receipts
+date:     42 CE
+language: Greek (Koiné)
+found:    Theben
+held:     London
+shelf:    
+content:  Receipt from Theben (42 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       50767
+source:   https://papyri.info/ddbdp/o.wilck;;387
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Παμώνθης Ἁρυώθου ὑπὲρ λαογραφίας β ἔτους δραχμὰς δέ[κα]
+r.2    καὶ βαλανικοῦ μίαν ὀβολὸν ἡμιωβέλιον γίνονται δραχμαὶ ια ἡμιωβέλιος καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου.
+r.3    ἔτους β Τιβερίου Κλαυδ[ίου Καί]σαρος [Σεβαστοῦ]
+r.4    Γερμανικοῦ Αὐτοκράτορος Παχὼν κη …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

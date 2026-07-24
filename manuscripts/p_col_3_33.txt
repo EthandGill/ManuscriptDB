@@ -1,0 +1,28 @@
+[META]
+id:       P.COL 3.33
+label:    P.COL 3.33
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     255 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (255 BCE)
+# hgv-keywords: Quittung — Sesam
+tm:       1752
+source:   https://papyri.info/ddbdp/p.col;3;33
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    παρὰ Πατροκλέους
+r.2    ὧν μετρεῖ Ζήνων
+r.3    ἔτους λα Μεσορὴ ιγ
+r.4    ἐν Φιλαδελφείαι σησάμου ἀρτάβας ρη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       O.CLAUD 3.461
+label:    O.CLAUD 3.461
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     137 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (137 CE)
+# hgv-keywords: Fragment — Quittung — Empfang — Ration (Getreide)
+tm:       73644
+source:   https://papyri.info/ddbdp/o.claud;3;461
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    … ησκιταλω …
+r.2    … [ Σεραπίων]ι λακ[κ]αρίῳ χ[αίρειν. ] …
+r.3    … [ ὁμολογ]ῶ προκεχ[ρῆσθαι] …
+r.4    … σίτου μά[τια ] …
+r.5    … [ μηνὸ]ς Φαωφ[ι ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

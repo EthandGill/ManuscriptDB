@@ -1,0 +1,28 @@
+[META]
+id:       BGU 11.2083
+label:    BGU 11.2083
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (101 CE – 300 CE)
+# hgv-keywords: Befehl (Haft) — Überstellung
+tm:       26956
+source:   https://papyri.info/ddbdp/bgu;11;2083
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    ἀρχεφόδοις καὶ τοπάρχῃ κώμης Σοκνοπαίου Νήσου. ἀναπέμψατε Ἀβοῦν γέρδιν καὶ Καιεῦν γέρδιν καὶ γυναῖκα
+r.2    Ἀβοῦτός ποτε τοπάρχου γερδίαιναν καὶ ταύτης θυγατέρα οὖσαν γερδίαιναν, ἐνκαλουμένους ὑπὸ Ἀμμωνίου, ἐξαυτῆς.
+r.3    Σοκνοπα[ίου Νῆσον.]
+
+[TRANSLATION]
+# HGV-EN: Recto To the archephodoi and the toparches of the village of Soknopaiou Nesos. Send up Abous, weaver, and Kaieus, weaver, and the wife of Abous, the one time toparches, weaver, and her daughter, who is a weaver, accused by Ammonios, immediately. Verso To Soknopa[iou Nesos]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     To the archephodoi and the toparches of the village of Soknopaiou Nesos. Send Abous, weaver, and Kaieus, weaver, and (a) woman
+2     of Abous, once toparches, (a) weaver, and her daughter being (a) weaver, accused by Ammonios, immediately.
+3     [To Soknopa]iou Nesos.

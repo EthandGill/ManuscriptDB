@@ -1,0 +1,34 @@
+[META]
+id:       O.BANKES 18
+label:    O.BANKES 18
+name:     Receipt — Elephantine
+genre:    receipts
+date:     145 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (145 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, merismos)
+tm:       699491
+source:   https://papyri.info/ddbdp/o.bankes;;18
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σωτὴρ καὶ Παπρεμίθης
+r.2    πράκτορες ἀργυρικῶν Ἐλεφαντίνης· διέγραψεν Πετορζμῆτις
+r.3    Πουήρεως μητρὸς
+r.4    Τισᾶτις μερισμ
+r.5    η ἔτους Ἀντωνίνου
+r.6    τοῦ κυρίου δραχμὰς γ ἡμιωβέλιον.
+r.7    ἔτους θ, Θὼθ κε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

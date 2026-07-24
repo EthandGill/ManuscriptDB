@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.781
+label:    O.BODL 2.781
+name:     Receipt — Theben
+genre:    receipts
+date:     155 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (155 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71470
+source:   https://papyri.info/ddbdp/o.bodl;2;781
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀμμώνιος καὶ μέτοχοι ἀπαιτηταὶ μερισμοῦ ἐνλείμματος
+r.2    τελωνικῶν Ἀγορῶν β Πετεμενώφει Ψενσενμούθου. ἔσχομεν
+r.3    ὑπὲρ μερισμοῦ ιϛ ἔτους δραχμὰς τρεῖς ἡμιωβέλιον γίνονται δραχμαὶ γ ἡμιωβέλιον .
+r.4    ἔτους ιθ Ἀντωνίνου Καίσαρος τοῦ
+r.5    κυρίου Ἁδριανοῦ γ. Πετεμενῶφις γραμματεὺς σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

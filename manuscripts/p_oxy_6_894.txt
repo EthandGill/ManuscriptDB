@@ -1,0 +1,24 @@
+[META]
+id:       P.Oxy. 6.894
+label:    P.Oxy. 6.894
+name:     Documentary papyrus — Alexandria
+genre:    documents
+date:     195 CE – 196 CE
+language: Greek (Koiné)
+found:    Alexandria
+held:     
+shelf:    
+content:  Documentary papyrus from Alexandria (195 CE – 196 CE)
+# hgv-keywords: Anzeige — Geburt eines römischen Bürgers
+tm:       20356
+source:   https://papyri.info/ddbdp/p.oxy;6;894
+lat:      31.201435
+lon:      29.909773
+
+[GREEK]
+r.1    … [ δηλῶ υἱό]ν μοι γεγεννῆσθαι
+
+[TRANSLATION]
+# HGV-EN: In the ... year of the Emperor Caesar Lucius Septimius Severus Pius Pertinax Augustus Arabicus Adiabenicus, in the month ..., at Alexandria on the coast of Egypt, before Marcus Ulpius Primianus, praefect of Egypt. ... has declared a son, named ... nus, born to him and Ulpia Sabina on the 16th ..., being an inhabitant (?) of Oxyrhynchus. (Signed) I, ..., declare that a son has been born to me...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     

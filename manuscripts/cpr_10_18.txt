@@ -1,0 +1,28 @@
+[META]
+id:       CPR 10.18
+label:    CPR 10.18
+name:     Receipt — Herakleopolites
+genre:    receipts
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Receipt from Herakleopolites (401 CE – 500 CE)
+# hgv-keywords: Quittung — Liturgie — Geld
+tm:       35340
+source:   https://papyri.info/ddbdp/cpr;10;18
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    κατέβαλεν Ἰακώβιος Σαραπίωνος
+r.2    ὑπὲρ λειτουργίας τετάρτης ἰνδικτίωνος μυριάδας χιλίας· γίνονται δηναρίων μυριάδες Α χαλκοῦ.
+r.3    Μεχὶρ α δ ἰνδικτίωνος Ἀφοῦς ἐπιμελητὴς
+r.4    διʼ ἐμοῦ Ἀνουβίωνος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

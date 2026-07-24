@@ -1,0 +1,28 @@
+[META]
+id:       BGU 6.1333
+label:    BGU 6.1333
+name:     Receipt — Theben
+genre:    receipts
+date:     230 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (230 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       4641
+source:   https://papyri.info/ddbdp/bgu;6;1333
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιη Θωὺθ ζ
+r.2    ἁλικῆς διὰ Σωστράτου
+r.3    Ψεγχῶνσις τετρώβολον,
+r.4    Εὐρήτη γυνὴ ὀβολὸν α 𐅵
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

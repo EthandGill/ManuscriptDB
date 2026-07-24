@@ -1,0 +1,30 @@
+[META]
+id:       CPR 4.182
+label:    CPR 4.182
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     701 CE – 800 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (701 CE – 800 CE)
+# hgv-keywords: Contrat de partage?
+tm:       82311
+source:   https://papyri.info/ddbdp/cpr;4;182
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … ϩⲁ ⲛⲉⲓ ⲁⲕⲧⲓ ἀρίθμιος … ⲛ[ⲁⲓ] … ⲧⲁⲁⲧ ἀρίθμιος ⲁ 𐅵 ⲧⲁ ⲡⲏⲓ ⲧⲉ
+r.2    ϩⲉⲓ ⲕⲉⲡⲉϣⲓ ⲗⲁⲃ ⲁϩⲁ ⲛⲉϣⲧⲉⲛⲓ ⲃⲁⲗ ⲉⲡⲉⲛⲁⲗⲏⲟⲩ ⲛϣⲉ ⲓⲛⲉϩ
+r.3    ⲉⲛⲉⲛⲉϩ ⲁϩⲁ ⲡⲉⲧⲉⲓ ⲉⲃ[ⲁ]ⲗ ⲉⲡⲉⲛⲁⲗⲏⲟⲩ ⲉⲃⲉⲧⲓ ἀρίθμιος ⲓⲃ ⲁϩⲁ ⲛϥⲡⲱⲧ
+r.4    ⲛⲁⲧⲧⲁⲉⲓ ⲛⲁⲧⲗⲁⲟⲩ ⲛⲁⲧἀμφιβολία Γεώργιος Χαὴλ Κοσμᾶς Ιακὼβ μαρτυροῦσι
+r.5    Κοσμᾶς Θεόδωρος Λεόντιος μαρτυροῦσι Γεώργιος ὁ πρεσβύτερος Γεωργίου μαρτυρεῖ δι' ἐμοῦ Ἀμμωνίου Ἀβρααμίου Φιλ Αἰουλίου μαρτυρεῖ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

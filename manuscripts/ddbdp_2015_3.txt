@@ -1,0 +1,30 @@
+[META]
+id:       DDBDP 2015.3
+label:    DDBDP 2015.3
+name:     Letter — Arsinoites ?
+genre:    letters
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Arsinoites ?
+held:     Göteborg
+shelf:    
+content:  Letter from Arsinoites ? (601 CE – 700 CE)
+# hgv-keywords: Markos an Neilammon — Steuer — Brief
+tm:       341716
+source:   https://papyri.info/ddbdp/ddbdp;2015;3
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ὁ παρέχων τὰ δημόσια αὐτοῦ μὴ κρατηθῇ, ἕως ποτὲ γράφω ὑμῖν. καὶ διαβάλλετε
+r.2    τ … ν … λ. … ε … Ο[ὐ]εναφρίου πληρώσας κρατεῖς τὴν γυναῖκα αὐτοῦ. ταύτην
+r.3    ἀπολύσατε ἁπλῶς, μὴ κρατηθῇ τ … ε … ε … ρη … γαρ … α … χρεωστεῖ
+r.4    ἐπίδος Νειλάμμωνι γρ … απαπ … ω Μάρκου
+
+[TRANSLATION]
+# HGV-EN: † Let the one, who pays his taxes, not be arrested, until I write to you. And ... Ouenaphrios ... you, having paid ..., detain his wife. Simply release her, she should not be detained... owes † † Give it to Neilammon ... (from) ⳨ Markos †
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     Let the one providing his public dues not be detained, until whenever I write to you. And [you] disparage
+2     … Ou[e]naphrios, having paid, [you] detain his wife. This [woman]
+3     Release [her] simply, let her not be detained, … owes
+4     Give to Neilammon … of Markos

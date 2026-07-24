@@ -1,0 +1,54 @@
+[META]
+id:       P.RYL 2.94
+label:    P.RYL 2.94
+name:     Documentary papyrus — Euhemeria (Arsinoites)
+genre:    documents
+date:     15 CE – 36 CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Euhemeria (Arsinoites) (15 CE – 36 CE)
+# hgv-keywords: Schreiben der Vereinigung der Weber
+tm:       13009
+source:   https://papyri.info/ddbdp/p.ryl;2;94
+lat:      29.383296
+lon:      30.533289
+
+[GREEK]
+r.1    Ἡρακλῆς Πετεσούχου ἡγούμενος γερδίων
+r.2    Εὐημερήας καὶ Ἀφροδίσιος Ἀσκληπιάδου
+r.3    γραμματεὺς τῶν αὐτῶν γερδίων
+r.4    Ἥρωνι χειριστῇ Σώτου ἐξηγητοῦ χαίρειν.
+r.5    ὁμολογοῦμεν ἐγγεγυῆσθαι
+r.6    παρὰ σοῦ Ἀφ[ε]ῦν Ἀφεῦτος καὶ Ἁρπαγάθην Ὀρσε[ν]ούφιος καὶ Ἡρᾶν Ὀρσενούφιος
+r.7    καὶ Μέλαν[α Ἑ]ργέως καὶ Ἡρακλῆν
+r.8    Ἀπολλωνί[ου] τοὺς πέντε γερδίους
+r.9    τῶν ἀπὸ τῆς αὐτῆς Εὐημερήας
+r.10   καὶ ἐπάναγκον παραστήσει[ν] σοι αὐτοὺ[ς]
+r.11   ὁπηνίκα ἐὰν αἱρῇ ἐκδικοῦντες τὰ διὰ
+r.12   τοῦ ὑπομνήματος Πανινούτιος τοῦ
+r.13   Ἀφροδισίου ἐριουργοῦ ?. Ἀφροδίσιος ὁ προγεγραμμένος ἔγραψα ὑπὲρ αὐτο[ῦ] Ἡρακλήου διὰ
+r.14   τ[ὸ] μὴ εἰδέναι αὐτὸν γράμματα. ἔτους
+r.15   … [ Τιβε]ρί[ο]υ Καίσαρος Σεβαστοῦ
+r.16   Ἐπεὶφ ιη.
+
+[TRANSLATION]
+# HGV-EN: ‘Heracles son of Petesouchos, head of the weavers of Euhemeria, and Aphrodisius son of Asclepiades, secretary of the same weavers, to Heron agent of Sotas, exegetes, greeting. We acknowledge that we are sureties to you for Apheus son of Apheus, Harpagathes son of Orsenouphis, Heras son of Orsenouphis, Melas son of Hergeus, and Heracles son of Apollonius, all five weavers of the said village of Euhemeria, and that it is incumbent on us to produce them for you whenever you choose, to answer the claims stated in the petition of Paninoutis son of Aphrodisius, wool-worker. I the aforesaid Aphrodisius have written for Heracleus because he is illiterate. The ..th year of Tiberius Caesar Augustus, Epeiph 18.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

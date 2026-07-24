@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 2.251
+label:    O.EDFOU 2.251
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     200 BCE – 101 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (200 BCE – 101 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       43812
+source:   https://papyri.info/ddbdp/o.edfou;2;251
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [ἔτους ] … Μεχεὶρ τέτακται ἐπὶ τὴν ἐν
+r.2    [Ἀπόλλω]νος πόλει τῆι μεγάλῃ τράπεζαν
+r.3    [ἐπωνίων το]ῦ αὐτοῦ ἔτους Παπίας
+r.4    … ος ἑπτακοσίας
+r.5    … Κεδλίας
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

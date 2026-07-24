@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 288
+label:    O.PETR.MUS 288
+name:     Receipt — Theben
+genre:    receipts
+date:     136 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (136 CE)
+# hgv-keywords: Quittung — Steuer (Ersatzzahlung für Datteln, time phoinikon)
+tm:       75370
+source:   https://papyri.info/ddbdp/o.petr.mus;;288
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … καὶ μέτοχοι ἐπιτηρηταὶ
+r.2    … χ … Πακοίβιος
+r.3    … ὑπὲρ τιμῆς φοινίκων γενήματος κ ἔτους δραχμὰς η
+r.4    … ἔτους κα Ἁδριανοῦ Καίσαρος
+r.5    [τ]οῦ κυρίου Φαῶφι η.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

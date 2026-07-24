@@ -1,0 +1,48 @@
+[META]
+id:       PYLON 4.7
+label:    PYLON 4.7
+name:     Documentary papyrus — Oxyrhynchos (?)
+genre:    documents
+date:     151 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (?)
+held:     Ann Arbor
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (?) (151 CE – 200 CE)
+# hgv-keywords: Testament
+tm:       987703
+source:   https://papyri.info/ddbdp/pylon;4;7
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    … ης σκευῶν ἢ ἄλλων …
+r.2    … τελευτήσῃ ἄτεκνος ἢ ἀδιάθετος, ἔστω ἃ [ἐὰν] …
+r.3    … τελευτήσῃ ἄτεκν[ο]ς ἢ ἀδιάθετος, ἔστω ἃ ἐὰν …
+r.4    … [ τελευτή]σῃ, ἔστω τῆς προγεγραμμένης Ἀπολλωναρίο[υ] …
+r.5    … [ἐκτίνειν τὸν ἐπιχε]ιρήσοντα πρὸς ἀθέτησίν τι τούτων ἄγει[ν ἐπίτιμον δραχμὰς] …
+r.6    [καὶ εἰς τὸ δημόσιον τὰς ἴσας καὶ μηδὲν ἧσσον κύρια μένειν τὰ] προκείμενα. ἄλλῳ γὰρ οὐδενὶ οὐδὲν τῶν ἐ[μῶν καταλείπω]
+r.7    … τορι οὐδὲ τῇ Ἀπολλωναρίῳ οὐδεμ … ν …
+r.8    [ὅσα δ’ ἂν ὑπὸ τὸ ἐκδόσιμο]ν τῆς διαθήκης γράψω ἤτοι ἀφαιρούμενος τ[ι τῶν προκειμένων ἢ]
+r.9    [προσδιατάσσων ἢ ἑτέροις χαριζόμενος ἢ καὶ ἄλλο τι βουλόμενος κ]αὶ ταῦτα ἔστω κύρια ὡς ἂν [ἐ]ν ταύτῃ τῇ δ[ιαθήκῃ ἐγγεγραμμένα ᾖ]
+r.10   … [χορη]γήσει τῷ προτεταγμένῳ υἱῷ μου Σωσιβίῳ …
+r.11   … [δ]ιαδεξάμενοι δὲ αὐτὴν ὁμοίως χορηγήσ[ουσι] …
+r.12   … σθαι τῷ αὐτῷ υἱῷ μου … ωκ …
+r.13   … [ἡ δι]αθήκη κυρία.
+
+[TRANSLATION]
+# HGV-EN: … of implements or other … [If NN] dies childless or without a will, let whatever [I leave … belong to … And if NN] dies childless or without a will, let whatever [I leave … belong to … And if NN] dies, let … belong to the aforementioned Apollonarion … Whoever should attempt to invalidate any of these things [must pay a penalty of X drachmas and an equal amount to the public treasury, and the] aforementioned terms [are nonetheless to be valid. I bequeath] to no one else any of [my] things … [neither] to …tor, nor to Apollonarion … [Whatever] I write [under the copy] of the will, whether removing [or adding] something [of the aforementioned terms or providing gifts for other people or whatever else I wish,] let these things be valid as if [they were written] in this will … S/he will provide to my aforementioned son Sosibios … Upon inheriting it, they will likewise provide … to the same son of mine, NN … The will is valid.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

@@ -1,0 +1,32 @@
+[META]
+id:       SB 6.9545_25
+label:    SB 6.9545_25
+name:     Receipt — Elephantine
+genre:    receipts
+date:     118 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (118 CE)
+# hgv-keywords: Quittung — Steuer (μερισμὸς ποταμοφυλακίδος) — Namen
+tm:       19087
+source:   https://papyri.info/ddbdp/sb;6;9545_25
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σανμοῦς πράκτωρ. διέγραψεν
+r.2    Παχνοῦβις Φανώπιος ὑπὲρ
+r.3    μερισμοῦ ποταμοφυλακίδος β ἔτους
+r.4    Ἁδριανοῦ τοῦ κυρίου ἀργυρίου
+r.5    δραχμὴν α τετρώβολον Φαμενὼθ κ. Σαραπίων γραμματεὺς
+r.6    ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

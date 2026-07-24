@@ -1,0 +1,52 @@
+[META]
+id:       P.WORP 52
+label:    P.WORP 52
+name:     Contract — Karanis (Arsinoites)
+genre:    contracts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Karanis (Arsinoites) (101 CE – 200 CE)
+# hgv-keywords: Brief (privat) — Krispos an Niger (seinen "Bruder") — Auftrag zum Kauf eines Schweins für ein Fest und Anweisungen wegen seines Transports
+tm:       115581
+source:   https://papyri.info/ddbdp/p.worp;;52
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Κρίσπος Νίγερι τῶι ἀδελφῶι
+r.2    χαίρειν.
+r.3    ἐνετειλάμην καὶ Δομιτίωι περὶ
+r.4    χοιροδέλφακος ἕως δραχμῶν εἴκοσι
+r.5    ἵνα σχῶμεν εἰς τὴν ἑορτήν. μὴ
+r.6    οὖν ἀμελήσῃς ἀλλὰ ἀγοράσας
+r.7    Δομιτίῳ παραθοῦ ἵνα ἐὰν ἀναβῇ τὰ κιβάρια, ἐμβάληται αὐτὸ
+r.8    ὁ πρινκιπάλις καὶ ἐνέγκῃ. ἐὰν δὲ
+r.9    μὴ ἔχῃς χαλκὸν, συμφώνησον καὶ
+r.10   … Δομιτίωι καὶ δώσομεν τῷ
+r.11   κιβαριάτῃ πρινκιπαλίωι καὶ οἴσει
+r.12   αὐτό. μὴ οὖν ἄλλως ποιήσῃς· εὐωρία
+r.13   γάρ ἐστιν ἐκεῖ.
+r.14   ἐρρῶσθαί σ’ εὔχομαι,
+r.15   ἄδελφε.
+
+[TRANSLATION]
+# HGV-EN: Crispus to Niger his brother, greetings. I ordered also Domitius about the young pig up to twenty drachmas, in order that we have it for the festival. Therefore do not be negligent but buy and deliver it to Domitius in order that, if the provisions come up, the principalis may put it on board and carry (it). And if you do not have money, come to an agreement and ... to Domitius and we will give it to the cibariates principalis and he will carry it. Therefore do not do otherwise; for the right time is here. I wish you well, brother.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

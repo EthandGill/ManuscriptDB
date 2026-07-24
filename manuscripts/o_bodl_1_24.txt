@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 1.24
+label:    O.BODL 1.24
+name:     Receipt — Koptos
+genre:    receipts
+date:     246 BCE
+language: Greek (Koiné)
+found:    Koptos
+held:     
+shelf:    
+content:  Receipt from Koptos (246 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       44077
+source:   https://papyri.info/ddbdp/o.bodl;1;24
+lat:      25.9967
+lon:      32.8167
+
+[GREEK]
+r.1    ἔτους β Παχῶνος κϛ
+r.2    πέπτωκε διὰ Πτολεμαίου ἁλικῶν Κόπτου παρὰ Θοτορταίου τοῦ Ψεγχώνσιος δραχμ α
+r.3    Σεγχῶνσις γυνὴ δραχμ 1.
+
+[TRANSLATION]
+1     
+2     
+3     

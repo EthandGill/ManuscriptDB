@@ -1,0 +1,44 @@
+[META]
+id:       BGU 1.128colii
+label:    BGU 1.128colii
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     188 CE – 189 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (188 CE – 189 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       8906
+source:   https://papyri.info/ddbdp/bgu;1;128colii
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    ἐν … μ …
+r.2    τοὺς ἐμοὺς καὶ τ[οὺς ἐνοίκους εἰς]
+r.3    τὴ[ν] τοῦ διεληλυ[θότος][ κη ἔτους Αὐρηλίου]
+r.4    Κομμόδου Ἀντω[νίνου Καίσαρος]
+r.5    τοῦ κυρίου κατʼ [οἰκίαν ἀπογραφὴν ἐπὶ τοῦ]
+r.6    προκειμέν[ου ἀμφόδου ] …
+r.7    Εἰσίωνος, ἐ[φʼ οὗ καὶ τῇ τοῦ ιδ ἔτους]
+r.8    καί εἰμι Ἡρα[κλείδης ὁ προγεγραμμένος]
+r.9    λινόϋφος …
+r.10   οὖσαν μοι …
+r.11   … το …
+
+[TRANSLATION]
+# HGV-EN: – – – and my family and [lodgers] for the house-by-house registration of the past [28th year of Aurelius] Commodus Anto[ninus Caesar], the lord in the aforementioned [quarter of the Bithynians] of Eision, in which [(I registered) in the (registration) of the year 14]. And I am Her[akleides the aforementioned], linenweaver [subject to poll-tax] being my – – –
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

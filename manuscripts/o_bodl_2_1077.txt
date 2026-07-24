@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1077
+label:    O.BODL 2.1077
+name:     Receipt — Theben
+genre:    receipts
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (1 CE – 200 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71764
+source:   https://papyri.info/ddbdp/o.bodl;2;1077
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παμώνθης Ὥρῳ καὶ μέτοχοις
+r.2    τελώναις κοινώνοις χαίρειν.
+r.3    Ὧρος Πέφιος ὀνηλάτης
+r.4    ἀπόλυσιν αὐτὸν πυροῦ
+r.5    ὄνος α οψαι ζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

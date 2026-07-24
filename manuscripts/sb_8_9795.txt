@@ -1,0 +1,30 @@
+[META]
+id:       SB 8.9795
+label:    SB 8.9795
+name:     Receipt — Theben
+genre:    receipts
+date:     112 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (112 BCE)
+# hgv-keywords: Quittung — Zoll
+tm:       5956
+source:   https://papyri.info/ddbdp/sb;8;9795
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ε Τῦβι τέτακται ἐπὶ τὴν ἐ[ν Διὸς]
+r.2    πόλει τῇ μεγάλῃ τράπεζαν εἰς λόγον τελωνικῶν
+r.3    Ψεναῖβις Τέτραυτος
+r.4    χιλίας υξ γίνονται Αυξ
+r.5    Χαιρήμων τραπεζίτης
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

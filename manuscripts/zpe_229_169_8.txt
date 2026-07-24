@@ -1,0 +1,28 @@
+[META]
+id:       ZPE 229.169_8
+label:    ZPE 229.169_8
+name:     Petition — Oxyrhynchos (Oxyrhynchites)
+genre:    petitions
+date:     148 CE – 154 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (Oxyrhynchites)
+held:     London
+shelf:    
+content:  Petition from Oxyrhynchos (Oxyrhynchites) (148 CE – 154 CE)
+# hgv-keywords: Eingabe (?) — an den Strategen — Weinkoster
+tm:       998566
+source:   https://papyri.info/ddbdp/zpe;229;169_8
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [Αἰλίῳ] Ἀφροδισίωι στρατηγῷ
+r.2    [παρὰ] [ … ]μου οἰνογεύστου
+r.3    [Ἀντωνίο]υ Διονυσίου νεω[κόρου τοῦ] μεγάλου Σαράπι[δος τῶν ἐ]ν τῷ Μουσείῳ
+
+[TRANSLATION]
+# HGV-EN: To Aelius Aphrodisios, strategus, from -mos, wine-taster of Antonius Dionysios, warden of the temple of the great Sarapis, one of those in the Museum …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

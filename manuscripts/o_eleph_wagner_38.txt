@@ -1,0 +1,30 @@
+[META]
+id:       O.ELEPH.WAGNER 38
+label:    O.ELEPH.WAGNER 38
+name:     Receipt — Elephantine
+genre:    receipts
+date:     150 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (150 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24218
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;38
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Δομίτιος Φ]αννιανὸς
+r.2    [καὶ Γερμανὸς ][πρ]άκτορες ἀργυρικῶν Ἐλεφαντίνης
+r.3    [διέγραψεν ] … νοῦμις Σανσνῶτος
+r.4    … δραχμὰς δ ὑπὲρ μερισ[μῶν] … [ἔτους Ἀντων]ίνου Καίσαρος
+r.5    [τοῦ κυρίου Φα]μενὼθ ζ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,76 @@
+[META]
+id:       P.Oxy. 12.1455
+label:    P.Oxy. 12.1455
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     275 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (275 CE)
+# hgv-keywords: Erklärung — Eid eines Händlers (Öl) — Garantie des Verkaufs von seinem Öl auf dem Markt
+tm:       21856
+source:   https://papyri.info/ddbdp/p.oxy;12;1455
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Αὐ[ρηλίῳ Ἡράμμωνι στρα]τη[γῷ Ὀξυρυγχίτου Αὐρήλιος Θε][όδωρ]ος Ὡρ[ίωνος τοῦ Θ]ώνεως
+r.2    [μητρὸς ] … [ ἀπὸ τῆ]ς λαμπρᾶς καὶ
+r.3    λαμπροτάτης Ὀξυρυγχιτῶν πόλεως πράτης ἐλαίου
+r.4    χρηστοῦ. ὀμνύω τὴν τοῦ κυρίου
+r.5    ἡμῶν Αὐρηλιανοῦ Σεβαστοῦ
+r.6    τύχην παρέξειν ἡμερησίως
+r.7    ἐν ᾧ ἔχω ἐργαστηρίῳ ἐπὶ τῆς
+r.8    [ἀ]γορᾶς ἔλαιον χρη[σ]τὸν πρὸς
+r.9    διάπρασιν καὶ ὑπηρεσίαν τῆς
+r.10   [πό]λεως εἰς τὸ μηδεμί[α]ν ἐνέδρ[αν] ἐπακολ[ουθε]ῖ[ν, ἢ ἔνο][χος] εἴην τῷ ὅρκῳ. παρέσχον
+r.11   [δὲ ἐ]μαυτοῦ ἐγγυητὴν Αὐρήλιον Σαραπάμμωνα Σαπρίωνος μητρὸς Θαήσιος ἀπὸ τῆς
+r.12   αὐτῆς πόλεως παρόντα καὶ εὐδοκοῦντα.
+r.13   ἔτους ζ Αὐτοκράτορος Καίσαρος
+r.14   Λουκίου Δομιτ τίου Αὐρηλιανοῦ
+r.15   Γερμανικοῦ Μεγίστου Περσικο[ῦ]
+r.16   Μεγίστου Γοθικοῦ Μ[ε]γίστου
+r.17   Καρπικοῦ Μεγίστου Εὐσεβοῦς
+r.18   Εὐτυχοῦς Σεβαστοῦ
+r.19   Φαῶφι κα.
+r.20   Αὐρήλιος Θεόδωρος Ὡρίωνος ὤμοσα
+r.21   τὸν ὅρκον καὶ ἕκαστα ποιήσω ὡς
+r.22   πρόκειται. Αὐρήλιος Σαραπάμμων Σαπρίωνος ἐγγυῶμαι τὸν
+r.23   Θεόδωρον ὡς πρόκειται. Αὐ[ρήλιος]
+r.24   Σιλβανὸς Ἀμμωνίου ἔγρα[ψα ὑπὲρ]
+r.25   αὐτῶν μὴ εἰδότων γρ[άμματα.]
+r.26   Αὐρή[λιο]ς Τ …
+r.27   [σε]σημ[είωμαι ] …
+
+[TRANSLATION]
+# HGV-EN: To Aurelius ..., strategus of the Oxyrhynchite nome, from Aurelius Theodorus son of Horion son of Thonis, his mother being ..., of the illustrious and most illustrious city of Oxyrhynchus, seller of fine oil. I swear by the fortune of our lord Aurelianus Augustus that I will provide daily in the factory which I possess in the market-place fine oil for sale and service of the city, so that no fraud may ensue, under penalty of being liable to the consequences of the oath; and I have provided as my surety Aurelius Sarapammon son of Saprion and Thaësis, of the said city, who is present and gives his consent. The 7th year of the Emperor Caesar Lucius Domitius Aurelianus Germanicus Maximus Persicus Maximus Gothicus Maximus Carpicus Maximus Pius Felix Augustus, Phaophi 21.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    

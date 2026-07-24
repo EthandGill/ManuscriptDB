@@ -1,0 +1,36 @@
+[META]
+id:       ZPE 196.184_2
+label:    ZPE 196.184_2
+name:     Documentary papyrus — Hibis (Oasis Magna)
+genre:    documents
+date:     326 CE – 400 CE
+language: Greek (Koiné)
+found:    Hibis (Oasis Magna)
+held:     New York
+shelf:    
+content:  Documentary papyrus from Hibis (Oasis Magna) (326 CE – 400 CE)
+# hgv-keywords: Anweisung — Zahlung
+tm:       653470
+source:   https://papyri.info/ddbdp/zpe;196;184_2
+lat:      25.4764
+lon:      30.5552
+
+[GREEK]
+r.1    κυρίῳ μου ἀδελφῷ Ἡρακλᾶτ[ι]
+r.2    Ἀμβροσίῳ ἐπιμελητῇ σιτοκρίθ[ωv]
+r.3    δ ἰνδικτίωνος Φιβίων δεκαδάρχης χ[αίρειν].
+r.4    δὸς τῷ δεσπότῃ μου Δομιτί[ῳ]
+r.5    τριβούνῳ ἀπὸ τοῦ ἐμοῦ κάσ[τρου]
+r.6    σιτοκρίθων μόδια ἰταλικὰ
+r.7    δέκα, γίνεται μόδια ι. σεσημίωμαι ὁ αὐτός.
+
+[TRANSLATION]
+# HGV-EN: To my lord brother Heraklas Ambrosios, epimeletes of sitokrithon for the 4th indiction, Phibion, decurion, greetings. Give to my master Domitios the tribune from my camp (?), ten Italic modii of sitokrithon, that is, 10 mod. I, the aforementioned, have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

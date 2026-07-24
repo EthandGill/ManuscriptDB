@@ -1,0 +1,28 @@
+[META]
+id:       P.LOUVRE 3.222
+label:    P.LOUVRE 3.222
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     601 CE – 625 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     Paris
+shelf:    
+content:  Receipt from Arsinoites (601 CE – 625 CE)
+# hgv-keywords: Quittung — Geld — Steuerzahlung
+tm:       978765
+source:   https://papyri.info/ddbdp/p.louvre;3;222
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἀπὸ Ἰωάννου λαμπροτάτου
+r.2    διοικητοῦ ὑπὲρ μέρους δημοσίων … ε ἰνδικτίωνος
+r.3    καταβληθέντα Θεοδώρῳ λαμπροτάτῳ χρυσώνῃ
+r.4    Ἡλιάδους ἐνδοξοτάτου στρατηλάτου ἀρίθμια νομίσματα ρμδ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

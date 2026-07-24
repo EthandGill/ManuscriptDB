@@ -1,0 +1,36 @@
+[META]
+id:       P.SIJP 38x
+label:    P.SIJP 38x
+name:     Receipt — Theben
+genre:    receipts
+date:     157 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (157 CE)
+# hgv-keywords: Quittung (Spreu)
+tm:       110197
+source:   https://papyri.info/ddbdp/p.sijp;;38x
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πατσέβθιος ἀχυράριος μητροπόλεως
+r.2    Παναμεῖ Μενεφρῶνος. ἐνεβλήθῃς
+r.3    εἰς τὴν ἐν Κόπτῳ εἴλην ὑπὲρ γε-
+r.4    νήματος κ ἔτους γόμον δίμοιρον, γίνεται γόμου 𐅷.
+r.5    ἔτους κα Ἀντωνίνου Καίσαρος
+r.6    τοῦ κυρίου Φαῶφι β.
+r.7    Ἰσίδωρος σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: Patsebthios, chaff-collector for the metropolis, to Panameus son of Menephron. You have delivered to the ala in Koptos for the crop of the 20th year two-thirds of a gomos, total, 2/3 gom. Year 21 of Antoninus Caesar the lord, Phaophi 2. I, Isidoros, have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

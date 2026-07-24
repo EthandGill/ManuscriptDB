@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.424
+label:    O.STRAS 1.424
+name:     Receipt — Theben
+genre:    receipts
+date:     104 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (104 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       76012
+source:   https://papyri.info/ddbdp/o.stras;1;424
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    θησαυροῦ ἱερῶν κωμῶν γενήματος ζ ἔτους
+r.2    Τραιανοῦ τοῦ κυρίου ὀνόματος
+r.3    Σεμμούθιος Ψεναμούνιος Παῦνι
+r.4    κγ πυροῦ ϛ κδ. … .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

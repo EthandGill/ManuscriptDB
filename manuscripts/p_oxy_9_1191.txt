@@ -1,0 +1,56 @@
+[META]
+id:       P.Oxy. 9.1191
+label:    P.Oxy. 9.1191
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     280 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (280 CE)
+# hgv-keywords: Brief (amtlich) — Aurelios Ammonios an d. Strategen d. Oxyrhynchites — Wahl von Epimeleten — Kopie eines Briefes Aurelios Olympios Ex - Hypomnematographus und Stratege (?) d. Oxyrhynchites an d. Sekretär
+tm:       21578
+source:   https://papyri.info/ddbdp/p.oxy;9;1191
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [Αὐρ]ήλιος Ἀμμώ[ν]ιος στρατηγῷ Ὀξυρυγ χίτο[υ]
+r.2    [χ]αίρειν. ἀκο[λο]ύθως τοῖς κελευσθεῖσι ὑπὸ τοῦ
+r.3    [μ]εγέθους τοῦ κυρί[ο]υ μου τοῦ διασημοτάτου ἡγεμόνος Ἁδριανίου Σαλλουστίου περὶ τῆς τῶν
+r.4    ἐπιμελητῶν χειροτονίας ἐφʼ ἑκάστου τῶν
+r.5    περὶ αὐτῶν ἐπιστελλομένων ὑπογραφὴν εὐ[δ]οκήσεως τοῦ σκρείβου λαμβάνειν μὴ πα[ρ]αλίμπανε, ἀκολούθως τοῖς περὶ τούτου κελευσθεῖσι. ἐρρῶσθαί σε πολλοῖς χρόνοις εὔχομαι.
+r.6    ἔτους ϛ Ἀθὺρ ια.
+r.7    Αὐρήλιος Ὀλύμπιος γενόμενος ὑπομνηματ[ογρά]φος σ[τρατηγὸ]ς [Ὀ]ξυρυγχίτου
+r.8    … [ σκρείβᾳ χαίρειν.]
+r.9    [ἧς ἐλάβομεν ἐπ]ι[στο]λῆς [παρὰ Αὐρηλίου Ἀμμω]νί[ο]υ τοῦ κρατίστου περὶ τῆς τῶν ἐπιμελητῶν χειροτονίας κατὰ κέλευσιν τοῦ μεγέθους τοῦ κυρίου τοῦ διασημοτάτου ἡγεμόνος
+r.10   Ἁδριανίου Σαλλουστίο[υ] ἐφʼ ἑκάστου τῶν περὶ αὐτῶν ἐπιστελλομένων ὑπὸ τῆς κρατίστης βουλῆς
+r.11   [ὑ]πογραφὴν εὐδοκήσεώς σου λαμβάνειν μὴ πα[ρ]αλιμπάνειν τὴ[ν] στρατηγίαν, ὡς ἐκελεύσθη,
+r.12   [ἀ]ντίγραφον ἐπιστέλλεταί σοι, ἵνʼ εἰδῇς καὶ τὸ
+r.13   [κ]ελευσθὲν ἐν φροντίδι ἔχῃς. ἐρρῶσθαί
+r.14   σε εὔχομαι.
+r.15   ἔτους ϛ τοῦ [κυρίου ἡμῶν Μά]ρκου Αὐρηλίου
+r.16   [Π]ρόβου Σ[εβαστοῦ ] …
+r.17   … λ συμφο …
+
+[TRANSLATION]
+# HGV-EN: Aurelius Ammonius to the strategus of the Oxyrhynchite nome, greeting. In accordance with the orders of his highness my lord the most honourable praefect Hadrianius Sallustius concerning the election of administrators, on every occasion when instructions are issued concerning them do not neglect to take the subscription signifying concurrence of the secretary, in accordance with the orders concerning this. I pray for your lasting health. The sixth year, Hathur II. Aurelius Olympius, ex-hypomnematographus, strategus of the Oxyrhynchite nome, to..., secretary, greeting. A copy is sent to you of the letter which we have received from his excellency Aurelius Ammonius concerning the election of administrators in accordance with the order of his highness my lord the most honourable praefect Hadrianius Sallustius, directing the office of the strategus, on every occasion when instructions are issued by the most high senate concerning the administrators, not to neglect to take your subscription signifying concurrence, as ordered, so that you may be informed and keep the order in view. I pray for your health. The sixth year of our lord Marcus Aurelius Probus Augustus ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

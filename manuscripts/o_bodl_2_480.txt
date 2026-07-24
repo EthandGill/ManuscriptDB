@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.480
+label:    O.BODL 2.480
+name:     Receipt — Theben
+genre:    receipts
+date:     50 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (50 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71178
+source:   https://papyri.info/ddbdp/o.bodl;2;480
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Παναμεῦς Ἑρμίου ὑπὲρ λαογραφίας ι ἔτους
+r.2    δραχμὰς δέκα καὶ βαλανευτικοῦ δραχμὴν μίαν ὀβολὸν α 𐅵 γίνονται δραχμαὶ ια ὀβολὸς α 𐅵 καὶ
+r.3    προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου.
+r.4    ἔτους ι Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ
+r.5    Γερμανικοῦ Αὐτοκράτορος Μεχεὶρ θ. Ἀλέξανδρος Κεφάλου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

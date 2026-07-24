@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.861
+label:    O.BODL 2.861
+name:     Receipt — Theben
+genre:    receipts
+date:     150 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (150 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71550
+source:   https://papyri.info/ddbdp/o.bodl;2;861
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεχῶνσις πράκτωρ ἀργυρικῶν Χάρακος Ἀμενώθ[ῃ]
+r.2    αρβήχιος. ἔσχον ὑπὲρ ποταμοφυλακίδων
+r.3    ῥυπαρὰν δραχμὴν μίαν γίνεται δραχμὴ α. ἔτους ιγ
+r.4    Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.5    Φαρμοῦθι ε. Πετεχῶνσις σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

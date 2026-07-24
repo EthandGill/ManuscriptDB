@@ -1,0 +1,40 @@
+[META]
+id:       P.MONTS.ROCA 4.72
+label:    P.MONTS.ROCA 4.72
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     415 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Montserrat
+shelf:    
+content:  Receipt from Oxyrhynchos (415 CE)
+# hgv-keywords: Quittung — Steuern — χρυσὸς μηνιαίου σταθμοῦ und ἐξαργυρισθεῖσα ἐσθής
+tm:       219247
+source:   https://papyri.info/ddbdp/p.monts.roca;4;72
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    παρέσχον κληρονόμοι Μαρίνου δι’ Θέωνος υἱοῦ
+r.2    χρυσοῦ μηνιαίου σταθμοῦ τρίτης
+r.3    ἰνδικτίονος χρυσοῦ ἐν ὀβρύζῃ νομισμάτιον
+r.4    ἕν, γίνεται χρυσοῦ ὀβρύζῃ νομισμάτιον α. σεσημείωμαι Τατιανός.
+r.5    ἔτους ϙα ξ Ἐπιφ α. Εὐήθιος Θεοδοσίου προ
+r.6    δι’ ἐμοῦ Ἀπφοῦ[τος] σεσημείωται.
+r.7    παρέσχον κληρονόμοι Μαρίνου δι’ Θέωνος υἱοῦ
+r.8    ὑπὲρ ἐξ[α]ργυρι[σ]θείσης ἐσθῆτος τῆς
+r.9    τρίτ[ης] [ἰν]δικ[τίο]νος χρ[υ]σοῦ γράμματα
+
+[TRANSLATION]
+# HGV-EN: The heirs of Marinos have provided through Theon, his son, for the monthly payment in gold for stathmos of the third indiction one pure gold solidus. Total 1 pure gold solidus. I, Tatianos, have signed. Year 96 = 65, Choiak 11th. Euethios, son of Theodosios --, represented by me, Apphous, has signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

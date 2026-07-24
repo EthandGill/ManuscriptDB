@@ -1,0 +1,34 @@
+[META]
+id:       O.STRAS 2.840
+label:    O.STRAS 2.840
+name:     Receipt — Theben (Notos)
+genre:    receipts
+date:     133 CE
+language: Greek (Koiné)
+found:    Theben (Notos)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos) (133 CE)
+# hgv-keywords: Quittung — Steuer (Wachtturmsteuer)
+tm:       128384
+source:   https://papyri.info/ddbdp/o.stras;2;840
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἑρμόδωρος πράκτωρ ἀργυρικῶν
+r.2    Ψάιτι Σενφθουμ[ώ]νθου
+r.3    ἔσχον ὑπὲρ σκοπέλων καὶ ἄλλων Νότου ιη
+r.4    ῥυπαρὰς δραχμὰς πέντε τριώβολον
+r.5    ἡμιωβέλιον, γίνονται δραχμαὶ ε τριώβολον ἡμιωβέλιον. ἔτους ιη Ἁδριανοῦ
+r.6    τοῦ κ[υ]ρίου μηνὸς Ἁδριανοῦ α.
+r.7    Διόσκορος σ[εσημείωμαι].
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

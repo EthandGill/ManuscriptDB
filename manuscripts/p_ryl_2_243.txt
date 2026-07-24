@@ -1,0 +1,44 @@
+[META]
+id:       P.RYL 2.243
+label:    P.RYL 2.243
+name:     Letter — unbekannt
+genre:    letters
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Letter from unbekannt (101 CE – 200 CE)
+# hgv-keywords: Brief (privat) — Demarion und Irene an Syros
+tm:       27907
+source:   https://papyri.info/ddbdp/p.ryl;2;243
+lat:      
+lon:      
+
+[GREEK]
+r.1    Δημάριν καὶ Εἰρήνη Σύρῳ τῶι φιλτάτῳ πλεῖστα χαίρειν.
+r.2    οἴδαμεν ὅτι ἀηδῶς ἔχεις διὰ τὴν λειψυδρίαν, τοῦτο οὐ μόνον ἡμῖν γενάμενον
+r.3    ἀλλὰ καὶ πολλοῖς, ἐπ[ισ]τάμεναι ὅ[τ]ι οὐδὲν
+r.4    παρὰ σὲ γέγονε. καὶ νῦν ἐπιστάμεθά σου
+r.5    τὸ σπουδαῖον καὶ ὡς ἐπίκεισαι τοῖς ἔργοις
+r.6    τοῦ κλήρου, ἐλπίζουσαι σὺν θεῷ τὸ πεδίον σπαρῆναι. ὅσα ποτὲ οὖν ἐὰν ἀναλώσῃς εἰς τὴν τοῦ κλήρου κατεργασίαν,
+r.7    ἡμῖν ἐνλόγησον ἐπὶ λόγου. δέξαι παρὰ
+r.8    Νιννάρου εἰς λόγον Εἰρήνης τὸ ἐπιβάλλον
+r.9    αὐτῇ μέρος καὶ εἰς τὸ[ν] λόγον Δημαρίου ὁμοίως δέξαι πα[ρ]ὰ [Ἁτ]ρῆτος τὸ ἐπιβάλλον
+r.10   αὐτῇ μέρος. ἐρρῶσθ[α]ί σε εὐχόμεθα.
+r.11   [Σύρῳ παρὰ ][Εἰρή]νης καὶ Δημαρίου.
+
+[TRANSLATION]
+# HGV-EN: Demarion and Irene to their dearest Syrus, very many greetings. We know that you are distressed about the deficiency of water; this has happened not to us only but to many, and we know that nothing has occurred through any fault of yours. We now know your zeal and attentiveness to the work of the holding, and we hope that with God’s help the field will be sown. Put down to our account everything you expend on the cultivation of the holding. Receive from Ninnarus for Irene’s account the share belonging to her, and similarly from Hatres for Demarion’s account the share belonging to her. We pray for your health. To Syrus from Irene and Demarion
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

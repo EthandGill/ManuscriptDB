@@ -1,0 +1,30 @@
+[META]
+id:       CPR 8.81
+label:    CPR 8.81
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     676 CE – 725 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (676 CE – 725 CE)
+# hgv-keywords: Anweisung — Getreide abzugeben (?)
+tm:       38629
+source:   https://papyri.info/ddbdp/cpr;8;81
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σὺν θεῷ Φλάουιος Ἀτίας [δο]ὺξ τ[οῖς ἀπὸ χω]ρ[ίου ] …
+r.2    παγαρχίας Ἀρσινοίτου. Θέμα σίτου ἐν Βαβυλ[ῶνι ] …
+r.3    καὶ ἔλ[α]χεν [ὑμ]ῖ[ν] δ[οῦναι ] … σίτου [ἀρ]τάβης δίμ[οιρον ] …
+r.4    μόνην. ἐγράφη μηνὶ Μεσορὴ ιγ ἰνδικτίονος α
+r.5    γίνεται σίτου ἀρτάβης δίμοιρον
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

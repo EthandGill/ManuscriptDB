@@ -1,0 +1,38 @@
+[META]
+id:       BGU 1.128coli
+label:    BGU 1.128coli
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     188 CE – 189 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (188 CE – 189 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       8905
+source:   https://papyri.info/ddbdp/bgu;1;128coli
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    … μο …
+r.2    … Θερμουθάριον
+r.3    … [ Τούρ]βωνα Ἕλληνα
+r.4    … ιμον καὶ Θερμου… ωτου Τούρβωνος
+r.5    … ἐπὶ τοῦ αὐτοῦ ἀμ[φόδου ] … να Ἀπίαν ἐτῶν ι
+r.6    … Τούρβωνα μη… σώματα τῆς θυ… λλαν ἐτῶν λϛ καὶ ταυ… [ ἀναγεγραμμέ]νον ἐν ἐπιγε[γ]ενημένοις
+r.7    … ον δούλον
+r.8    … ντηαμ
+
+[TRANSLATION]
+# HGV-EN: – – – Thermoutharion [– – – Tour]bon, Hellene imos and Thermou[– – –, son of NN], (the son ?) of Tourbon in the same quarter Apia, 10 years old, Tourbon, slaves of lla, 36 years old, and Tau[– – – registered] in the list of those born since os, slave
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

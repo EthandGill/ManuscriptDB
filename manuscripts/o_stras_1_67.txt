@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.67
+label:    O.STRAS 1.67
+name:     Receipt — Theben
+genre:    receipts
+date:     40 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (40 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75667
+source:   https://papyri.info/ddbdp/o.stras;1;67
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [δι]έγραψε Σεειανὸς Ὥρου ὑπὲρ χωμάτων
+r.2    [δ ἔτους δραχμὰς πέντε ][ἑ]ξόβολον γίνονται δραχμαὶ ε ἑξόβολον προσδιαγραφόμενα. ἔτους ε
+r.3    [Γαίου Καίσα]ρος Αὐτοκράτορος
+r.4    [Σεβαστοῦ ] … Σεβαστοῦ α … .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

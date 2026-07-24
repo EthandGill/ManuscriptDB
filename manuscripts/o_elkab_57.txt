@@ -1,0 +1,30 @@
+[META]
+id:       O.ELKAB 57
+label:    O.ELKAB 57
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     160 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (160 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24497
+source:   https://papyri.info/ddbdp/o.elkab;;57
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    διέγραψε Σενύριος Ψεμονχήους διὰ
+r.2    Πρεμμήχιος νεωτέρου Αρήτιος τέλους κγ ἔτους
+r.3    Ἀντωνίνου Καίσαρος τοῦ κυρίου δραχμὰς
+r.4    δρ … τρεῖς ὀβολὸν ἡμιωβέλιον χαλκοῦ.
+r.5    ἔτους κγ Μεσορὴ ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

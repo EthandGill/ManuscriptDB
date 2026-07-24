@@ -1,0 +1,22 @@
+[META]
+id:       O.CLAUD 2.296
+label:    O.CLAUD 2.296
+name:     Letter — Mons Claudianus
+genre:    letters
+date:     151 CE – 200 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Letter from Mons Claudianus (151 CE – 200 CE)
+# hgv-keywords: Brief (privat) — NN an Achillas — Sendung eines Mantels mit Namen
+tm:       29709
+source:   https://papyri.info/ddbdp/o.claud;2;296
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ἀχιλλᾶτι. ἔπεμψά σοι τὸ πάλλιόν σου ἐπιγεγραμμένον ὀνόματί σου πλατέοις γράμμασιν.
+
+[TRANSLATION]
+1     

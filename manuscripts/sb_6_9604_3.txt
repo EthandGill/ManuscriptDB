@@ -1,0 +1,30 @@
+[META]
+id:       SB 6.9604_3
+label:    SB 6.9604_3
+name:     Receipt — Elephantine
+genre:    receipts
+date:     80 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (80 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       19110
+source:   https://papyri.info/ddbdp/sb;6;9604_3
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Πατσῖβτις
+r.2    Πετορζμήθιος ὑπὲρ χειρωναξίου δευτέρου
+r.3    ἔτους Τίτου Καίσαρος τοῦ κυρίου
+r.4    Μεσορὴ γ ἀργυρίου δ[ρα]χμὰς δεκαδύο,
+r.5    γίνονται δραχμαὶ ιβ. Πελέας ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 6.915
+label:    P.Oxy. 6.915
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     572 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (572 CE)
+# hgv-keywords: Quittung — Blei und Zinn zur Reparatur der Leitungen eines Bades
+tm:       20379
+source:   https://papyri.info/ddbdp/p.oxy;6;915
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐδόθησαν διὰ Ἀπολλὼ μολυβδουργοῦ Γεωργίῳ παιδὶ εἰς κόλλησιν τῶν σωλήνων
+r.2    τοῦ λουτροῦ τοῦ προαστίου Φαῶφι κ ἰνδικτίονος ϛ μολύβδου λίτραι δώδεκα καὶ κασσιτερίου λίτραι τρεῖς
+r.3    γίνονται μολύβδου λίτραι ιβ καὶ κασσιτερίου λίτραι γ μόναι. γίνονται μολύβδου λίτραι δώδεκα καὶ κασσιτερίου λίτραι τρεῖς μόναι.
+r.4    ἔτους σμθ καὶ σιη Φαῶφι κ ἰνδικτίονος ἕκτ[ης].
+
+[TRANSLATION]
+# HGV-EN: Provided by Apollos, lead-worker, for Georgius, servant, for soldering the pipes of the bath in the suburb on Phaophi 20 of the 6th indiction, twelve pounds of lead and three pounds of tin, total 12 Ibs. lead and 3 lbs. tin only. Total 12 Ibs, lead and 3 lbs. tin only. The 249th which = the 218th year, Phaophi 20, 6th indiction.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     Provided by Apollos the lead-worker to Georgius the servant for soldering the pipes.
+2     Of the bath in the suburb, Phaophi 20, 6th indiction, twelve pounds of lead and three pounds of tin.
+3     Total 12 pounds of lead and 3 pounds of tin only. Total twelve pounds of lead and three pounds of tin only.
+4     Year 249 which equals 218, Phaophi 20, 6th indiction.

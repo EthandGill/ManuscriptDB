@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 279
+label:    O.PETR.MUS 279
+name:     Receipt — Theben
+genre:    receipts
+date:     206 CE – 207 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (206 CE – 207 CE)
+# hgv-keywords: Quittung — Steuer (Ersatzzahlung für Gemüse)
+tm:       75394
+source:   https://papyri.info/ddbdp/o.petr.mus;;279
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ιε Φαρμ[οῦθι ] … [ ὀνόματος Χ ὑπὲρ τιμῆς]
+r.2    λαχά[νου] [δραχμὰς δύο] [γίνονται]
+r.3    δραχμαὶ β …
+r.4    σεσ[ημείωμαι] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

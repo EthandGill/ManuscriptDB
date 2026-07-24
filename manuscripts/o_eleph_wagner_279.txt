@@ -1,0 +1,24 @@
+[META]
+id:       O.ELEPH.WAGNER 279
+label:    O.ELEPH.WAGNER 279
+name:     Receipt — Elephantine
+genre:    receipts
+date:     262 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (262 BCE)
+# hgv-keywords: Quittung — Steuer (Salz)
+tm:       74470
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;279
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔχομεν παρὰ Πετενεφώτου ἁλικῆς διώβολον χαλκοῦς 2.
+r.2    ἔτους κγ Τῦβι ι.
+
+[TRANSLATION]
+1     
+2     

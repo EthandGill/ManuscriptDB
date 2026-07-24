@@ -1,0 +1,30 @@
+[META]
+id:       O.Wilck. 352
+label:    O.Wilck. 352
+name:     Receipt — Theben
+genre:    receipts
+date:     119 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (119 BCE)
+# hgv-keywords: Quittung — Geld
+tm:       43446
+source:   https://papyri.info/ddbdp/o.wilck;;352
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους νβ Φαῶφι ια τέτακται ἀπομοίρας καὶ ἐπαρουρίου
+r.2    νβ ἔτους Βελτόμμις Περμάμ[ιος]
+r.3    τρισχιλίας τριακοσίας ξ
+r.4    γίνονται Γτξ.
+r.5    Γψ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

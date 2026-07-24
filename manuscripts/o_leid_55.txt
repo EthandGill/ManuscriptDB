@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 55
+label:    O.LEID 55
+name:     Receipt — Theben
+genre:    receipts
+date:     42 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (42 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24627
+source:   https://papyri.info/ddbdp/o.leid;;55
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Θοτεῦς Πετεχώνσιος ὑπὲρ λαογραφίας
+r.2    β ἔτους δραχμὰς ἑπτὰ τριώβολον, γίνονται δραχμαὶ ζ τριώβολον καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου.
+r.3    ἔτους β Τιβερίου Κλαυδίου Σεβαστοῦ
+r.4    Γερμανικοῦ Αὐτοκράτορος Παῦνι γ … Πικῶτος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 165
+label:    O.LEID 165
+name:     Receipt — Theben
+genre:    receipts
+date:     214 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (214 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24722
+source:   https://papyri.info/ddbdp/o.leid;;165
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παχὼν κδ τοῦ κβ ἔτους ὀνόματος Πετεμενώφιος
+r.2    νεωτέρου Πετεμενώφιος ὑπὲρ τιμῆς κριθῆς
+r.3    … ἀρτάβης ἥμισυ τέταρτον,
+r.4    γίνεται ἀρτάβης 𐅵 δ. Αὐρήλιος Ἀμώνιος
+r.5    σεσημείωμαι …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

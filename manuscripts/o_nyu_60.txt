@@ -1,0 +1,28 @@
+[META]
+id:       O.NYU 60
+label:    O.NYU 60
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     12 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (12 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869463
+source:   https://papyri.info/ddbdp/o.nyu;;60
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους μα Φαμενωθ κε
+r.2    τέλους ταριχευτ τοῦ αὐτοῦ ἔτους Τκαλῆς
+r.3    Ψενπουήριος δραχμὰς ἑπτὰ ὀβολοὺς δύο, γίνονται ζ διώβολον.
+
+[TRANSLATION]
+# HGV-EN: Year 41, Phamenoth 25 (?), for tax on tarich(eut ) of the same year, Tkales daughter of Psenpoueris, seven (dr.) two obols, that is, 7 ⟨dr.⟩ 2 ob. (signature?).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

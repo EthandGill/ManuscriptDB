@@ -1,0 +1,30 @@
+[META]
+id:       P.PARIS 18ter
+label:    P.PARIS 18ter
+name:     Letter — Theben
+genre:    letters
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Letter from Theben (101 CE – 300 CE)
+# hgv-keywords: Brief (privat) — Begleitbrief zu einer Mumie
+tm:       29456
+source:   https://papyri.info/ddbdp/p.paris;;18ter
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ψενπαχνούμιος Πορεγέβ[θιος ] …
+r.2    Ψενμώνθου τοῦ Πορεγέβθιος …
+r.3    … ἀπὸ κώμης Ψαμήρεως Κ …
+r.4    … μου
+r.5    … [ Ψενπαχνο]ύμιος Πορεγέβθι[ος ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

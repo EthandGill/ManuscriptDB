@@ -1,0 +1,30 @@
+[META]
+id:       O.MINOR D13
+label:    O.MINOR D13
+name:     Receipt — Theben
+genre:    receipts
+date:     187 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (187 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       75009
+source:   https://papyri.info/ddbdp/o.minor;;D13
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος κζ ἔτους Κομμόδου
+r.2    Ἀντωνίνου Καίσαρος τοῦ κυρίου Μεσορὴ α
+r.3    ὑπὲρ Νότου ὀνόματος Τηιονχώνσιος
+r.4    Σαχομνέως πυροῦ ἥμισυ
+r.5    τρίτον γίνεται πυροῦ 𐅵 γ. … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,24 @@
+[META]
+id:       C.EPIST.LAT 144
+label:    C.EPIST.LAT 144
+name:     Letter — Alexandria (?)
+genre:    letters
+date:     101 CE – 125 CE
+language: Greek (Koiné)
+found:    Alexandria (?)
+held:     
+shelf:    
+content:  Letter from Alexandria (?) (101 CE – 125 CE)
+# hgv-keywords: Brief (privat) — Terentianus an Tiberianus (Vater, speculator) — Bitte um Einkäufe für seine Mutter
+tm:       27082
+source:   https://papyri.info/ddbdp/c.epist.lat;;144
+lat:      31.201435
+lon:      29.909773
+
+[GREEK]
+r.1    Κλαυδίῳ [Τιβεριανῷ]
+r.2    σπεκουλάτορι
+
+[TRANSLATION]
+1     
+2     

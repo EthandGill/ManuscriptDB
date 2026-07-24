@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.320
+label:    O.STRAS 1.320
+name:     Receipt — Diospolis Magna (Theben)
+genre:    receipts
+date:     108 BCE
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     
+shelf:    
+content:  Receipt from Diospolis Magna (Theben) (108 BCE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       43533
+source:   https://papyri.info/ddbdp/o.stras;1;320
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    ἱεροῦ …
+r.2    ἔτους θ Φαμενὼθ κβ μεμέτρηκεν εἰς τὸν ἐν
+r.3    Διὸς πόλει τῆι μεγάληι θησαυρὸν θ ἔτους ὑπὲρ τόπου Στράτων
+r.4    Μηνοδώρου πυροῦ δεκαεπτά γίνονται ιζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

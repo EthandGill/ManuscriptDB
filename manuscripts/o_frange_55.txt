@@ -1,0 +1,30 @@
+[META]
+id:       O.FRANGE 55
+label:    O.FRANGE 55
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Lettre — Demande d’envoi — Poterie — Poils — Archives de Frangé
+tm:       140975
+source:   https://papyri.info/ddbdp/o.frange;;55
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ⲉϣⲱⲡⲉ ⲟⲩⲛⲧⲁⲕ λίτρα
+r.2    ⲉϥⲡⲁⲛⲉ ⲉⲃⲟⲗ ϩⲁⲧⲏⲕ ⲧⲁⲁⲥ
+r.3    ⲛⲕⲩⲣⲓⲁⲕⲟⲥ ⲛϥⲛⲧⲥ ⲛⲁⲓ
+r.4    ⲛⲧⲁϣⲓⲧⲉ λίτρα ⲛϫⲟⲕ
+r.5    ⲟⲩϫⲁⲓ ϩⲙ ⲡϫⲟⲉⲓⲥ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

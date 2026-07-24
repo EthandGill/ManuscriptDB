@@ -1,0 +1,42 @@
+[META]
+id:       P.Oxy. 4.745
+label:    P.Oxy. 4.745
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     1 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (1 CE)
+# hgv-keywords: Brief (privat) — NN an Gaius Rustius — Schwierigkeiten (Geld)
+tm:       20443
+source:   https://papyri.info/ddbdp/p.oxy;4;745
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἀδελφῆς μ[ου ο]ἴνου κεράμια ἑξή[κοντ]α [πέ]ντε καὶ δραχ[μὰς δέ]κα τ[ὸ]ν
+r.2    δὲ οἶνον ἠγόρασας ἐκ δραχμῶν ἕξ , ὑπὲρ ὧν καὶ ἔθου χειρόγραφον [διὰ Ἀρ]τεμᾶτός
+r.3    μοι περὶ τοῦ αὐτὸν τὸν Ἀντᾶν ἀποστήσειν διὰ τὸ κ … κέναι
+r.4    ὡς καὶ ὑπέσχου διὰ τοῦ πολιτάρχου Θεοφίλου, μ[ὴ ] … νε … η … να ἄνωθεν γείνηται πάντα καὶ πάλιν ἑαυτοὺς ἀνασκευάζωμε[ν] μὴ οὔσης
+r.5    χρείας. οὐκ οἶδας γὰρ πῶς μοι ἐχρήσατο ἐν Ὀξυρύγχοις οὐχ ὡς λύσα[ν]τι
+r.6    ἀλλʼ ὥς τινί ποτε ἀποστερητῇ μὴ ἀποδεδωκότι. ἐρωτῶ οὖν σε
+r.7    μὴ ἄλλως ποιῆσαι, οἶδα δὲ ὅτι πάντα καλῶς ποιήσεις· οὐ θέλω
+r.8    γὰρ ἀμφισβήτησιν πρὸς σὲ ἔχειν φίλον μου ὄ[ν]τα. ἀ[σ]πάζου πάντας
+r.9    τοὺς σοὺς καὶ σεαυτοῦ ἐπιμέλου ἵνʼ ὑγιαίνῃς. ἔρρωσο.
+r.10   Γαίωι Ῥουστίωι …
+
+[TRANSLATION]
+# HGV-EN: ,.. from my sister 65 jars of wine and 10 drachmae, and you bought the wine at 6 drachmae, for which you drew me up a bond through Artemas that the said Antas would make the repayment because you had... as you promised through the politarch Theophilus, in order that everything may not be completely ... and we go bankrupt again without any necessity. You don’t know how he treated me at Oxyrhynchus(?), not like a man who had paid but like a defrauder and a debtor. I ask you therefore not to do otherwise; but I know that you will do everything well. I do not want to have any dispute with you, as you are my friend. Salute all your household, and take care of your health. Good-bye. (Addressed) To Gaius Rustius ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

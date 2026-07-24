@@ -1,0 +1,26 @@
+[META]
+id:       JRA 34.17_6
+label:    JRA 34.17_6
+name:     Documentary papyrus — Fundort: Berkou
+genre:    documents
+date:     81 CE – 96 CE
+language: Greek (Koiné)
+found:    Fundort: Berkou
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Fundort: Berkou (81 CE – 96 CE)
+# hgv-keywords: Ortsname — Ostwüste
+tm:       978722
+source:   https://papyri.info/ddbdp/jra;34;17_6
+lat:      26.8682257656
+lon:      33.1091850764
+
+[GREEK]
+r.1    Βερκου
+r.2    … λε … ι … ρ …
+
+[TRANSLATION]
+# HGV-EN: Berkou
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

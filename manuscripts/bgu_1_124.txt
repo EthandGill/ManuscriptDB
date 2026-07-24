@@ -1,0 +1,48 @@
+[META]
+id:       BGU 1.124
+label:    BGU 1.124
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     187 CE – 188 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (187 CE – 188 CE)
+# hgv-keywords: Auszug — Akte — Deklaration — Zensus
+tm:       8901
+source:   https://papyri.info/ddbdp/bgu;1;124
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    [ἐξ εἰκονισμοῦ ][διασ]τρώματος ἀπογραφῶν κη ἔτους
+r.2    [Αὐρηλίου Κομμό]δου ἀμφόδου
+r.3    … [ τό]μου κολλήματος κβ
+r.4    … ρμ … νου
+r.5    … Χαιρέου
+r.6    … [ μητρὸς Θαϊ]σαρίου τῆς καὶ
+r.7    Θεανω ἱερεὺς Πετεσούχου θεοῦ
+r.8    μεγάλου μεγάλο[υ] ἀειζώου καὶ
+r.9    ὡς χρηματίζει ἐτῶν λϛ, κζ ἔτει ἐτῶν λε
+r.10   μεθʼ ἕτερα · θήλειαι· Θαὶς Πτολεμαίου τοῦ
+r.11   Ἁρποκρατίωνος μητρὸς Θαισαρί[ου]
+r.12   τ[ῆς] καὶ Χ … υ ἐτῶν κγ, [κζ ἔτει ἐτῶν κβ]
+r.13   … Θεανὼ …
+
+[TRANSLATION]
+# HGV-EN: *** of the registrations of year 28 [of Aurelius Commo]dus of the quarter roll [x], sheet 22 [NN – – –, son] of Chaireas, [the son of NN, mother Thai]sarion alias Theano, priest of Petesouchos, the great, great, everlasting God and however he is styled, 36 years old, in year 27, 35 years old, etc; females: Thais, daughter of Ptolemaios, son of Harpokration, mother Thaisari[on] alias Ch, 23 years old, [in year 27, 22 years old], Theano – – –
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

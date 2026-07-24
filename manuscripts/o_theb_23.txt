@@ -1,0 +1,32 @@
+[META]
+id:       O.THEB 23
+label:    O.THEB 23
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     155 BCE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (155 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       50406
+source:   https://papyri.info/ddbdp/o.theb;;23
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    ἔτους κϛ Ἐπεὶφ ιε μεμέτρηκε κϛ ἔτους Μεμνονείων
+r.2    Χεσθώτης παρασχιστὴς
+r.3    διʼ Ἀπόλλωνίου τοὺ Θέωνος
+r.4    πυροῦ ἀρτάβας ἐννέα γ ιβ γίνονται θ γ ιβ. Ἀπολλώνιος.
+r.5    Ἀπολλώνιος μεμέτρημαι θ γ ιβ γίνονται θ γ ιβ.
+r.6    Ἁρσιῆσις ἀρτάβαι θ ιγ ιβ γίνονται θ γ ιβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

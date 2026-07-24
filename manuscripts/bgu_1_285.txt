@@ -1,0 +1,30 @@
+[META]
+id:       BGU 1.285
+label:    BGU 1.285
+name:     Receipt — Patsontis (Arsinoites)
+genre:    receipts
+date:     150 CE – 159 CE
+language: Greek (Koiné)
+found:    Patsontis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Patsontis (Arsinoites) (150 CE – 159 CE)
+# hgv-keywords: Quittung — Getreide — Saat
+tm:       9031
+source:   https://papyri.info/ddbdp/bgu;1;285
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σπερμάτων κβ ἔτους Ἀντωνίνου Καίσαρος
+r.2    τοῦ κυρίου νζ κληρουχίας Πύρρος
+r.3    Διδύμου Πατσώντιος δημοσίου ἀρουρῶν β 𐅵
+r.4    Πατσώντιος βασιλικῆς ἀρουρῶν δ 𐅵 η ιϛ.
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 22 of Antoninus Caesar, the lord. 57th cleruchy. Pyrrhos, son of Didymos. At Patsontis 2 1/2 arouras of public (land). At Patsontis 4 1/2 1/8 1/16 arouras of royal (land).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

@@ -1,0 +1,42 @@
+[META]
+id:       GR.MED.PAP 2.10
+label:    GR.MED.PAP 2.10
+name:     Letter — unbekannt
+genre:    letters
+date:     551 CE – 625 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     Strasbourg
+shelf:    
+content:  Letter from unbekannt (551 CE – 625 CE)
+# hgv-keywords: Brief — Arzt — medizinische Utensilien
+tm:       130027
+source:   https://papyri.info/ddbdp/gr.med.pap;2;10
+lat:      
+lon:      
+
+[GREEK]
+r.1    πέμψον μοι
+r.2    τὸ ὀθόνιόν μου
+r.3    καὶ τὸ κυάθιόν μ[ου]
+r.4    καὶ τὸ τροχ[όεν]
+r.5    σφραγίδιόν μο[υ]
+r.6    καὶ τὴν πήραν
+r.7    τοῦ ἰατροῦ καὶ τὴν
+r.8    σμίλην μου
+r.9    καὶ τὸ κοχλιάριον
+r.10   ξυλικόν
+
+[TRANSLATION]
+# HGV-EN: † Send me my bandage, my cyathus, my round (?) seal, the doctor's bag, my scalpel and the wooden spoon. (based on transl. of C. Fischer Bovet, ed. pr.)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

@@ -1,0 +1,40 @@
+[META]
+id:       BGU 1.273
+label:    BGU 1.273
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     149 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (149 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       9021
+source:   https://papyri.info/ddbdp/bgu;1;273
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ἔτους ιβ Αὐτοκράτορος [Καίσ]αρο[ς]
+r.2    Τίτου Αἰλίου Ἁδριανοῦ
+r.3    Ἀντωνίνου Σεβαστοῦ
+r.4    Εὐσεβοῦς Μεσορὴ γ εἰς
+r.5    ἀρίθμησιν Ἐπίφ. διέγραψαν Χαιρήμων
+r.6    καὶ οἱ λοιποὶ πράκτορες Καρανίδος
+r.7    διὰ Δίου κατακολουθοῦντος πράκτορος
+r.8    τάλαντον ἓν [δραχμὰς] τετρακοσίας τεσσαράκοντα
+r.9    τέσσαρας γίνεται τάλαντον α [δραχμαὶ] υμδ
+
+[TRANSLATION]
+# HGV-EN: Year 12 of Imperator [Caes]ar Titus Aelius Hadrianus Antoninus Augustus Pius, Mesore 3. For the account of Epeiph. Chairemon and the remaining tax collectors of Karanis paid through Dios, tax collector, who complies, one talent four hundred and forty four <drachmas>, = 1 talent 444 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

@@ -1,0 +1,30 @@
+[META]
+id:       CPR 4.129a
+label:    CPR 4.129a
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     701 CE – 800 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (701 CE – 800 CE)
+# hgv-keywords: Contrat de location — Embolè
+tm:       82258
+source:   https://papyri.info/ddbdp/cpr;4;129a
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ϫⲓⲛ ⲙⲏⲃ ϩⲉⲧⲑⲁⲛ … ϫⲱⲟⲩ ⲉ …
+r.2    ⲡⲉⲃϣⲱⲙ ⲧⲁⲓⲃⲁⲗⲉⲃ ⲙⲉⲛ …
+r.3    ⲁϩⲁ ⲧⲉⲩἐμβολή ⲁⲩⲱ ⲁⲕⲧⲓ ⲙ …
+r.4    ⲉⲧⲉ καρπός ⲏ ἰνδικτίων ⲛⲁⲧἀμφιβολία ἐγράφη …
+r.5    Γεώργιος υἱὸς τοῦ μακαρίου Θολλου μαρτυρεῖ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1698
+label:    O.BODL 2.1698
+name:     Receipt — Theben
+genre:    receipts
+date:     104 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (104 CE)
+# hgv-keywords: Quittung — Naubion
+tm:       72382
+source:   https://papyri.info/ddbdp/o.bodl;2;1698
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἡρακλείδης χωματεπιμελητὴς Νότου καὶ Λιβὸς περὶ Θήβας
+r.2    Παναμεῖ Πικῶτος Παμω … χαίρειν.
+r.3    ἀναβέβληκας ἐπὶ χώματος Κεραμείων ναυβίου 𐅵.
+r.4    ἔτους ζ Τραιανοῦ τοῦ κυρίου
+r.5    Φαρμοῦθι κ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

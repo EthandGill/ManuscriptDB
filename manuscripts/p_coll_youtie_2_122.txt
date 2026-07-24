@@ -1,0 +1,28 @@
+[META]
+id:       P.COLL.YOUTIE 2.122
+label:    P.COLL.YOUTIE 2.122
+name:     Receipt — Theben
+genre:    receipts
+date:     44 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (44 CE)
+# hgv-keywords: Quittung — Steuern (Deich)
+tm:       20905
+source:   https://papyri.info/ddbdp/p.coll.youtie;2;122
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Ψεναμοῦνις Πετεασμήφιος
+r.2    ὑπὲρ χωματικοῦ δ ἔτους δραχμὰς ϛ τριώβολον γίνονται δραχμαὶ ϛ τριώβολον.
+r.3    ἔτους ε Τιβερί[ο]υ Κλαυδίου Καίσαρος
+r.4    Σ[ε]βαστοῦ Γ[ερ]μ[ανικοῦ] Αὐτοκράτορος Φαῶφι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

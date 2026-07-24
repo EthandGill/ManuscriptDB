@@ -1,0 +1,30 @@
+[META]
+id:       O.WILB 29
+label:    O.WILB 29
+name:     Receipt — Elephantine
+genre:    receipts
+date:     75 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (75 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76541
+source:   https://papyri.info/ddbdp/o.wilb;;29
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔχω ἐπὶ λόγου παρὰ Πατρασνούφεως
+r.2    ἐξ οὗ συμφωνεῖ μίαν γίνεται δραχμὴ α. Οὐέρρις
+r.3    Φιλούμενος ἔγραψα. ἔτους η
+r.4    Αὐτοκράτορος Καίσαρος Σεβαστοῦ,
+r.5    Χοίακ κ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

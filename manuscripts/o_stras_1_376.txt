@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.376
+label:    O.STRAS 1.376
+name:     Receipt — Theben
+genre:    receipts
+date:     138 CE – 161 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (138 CE – 161 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75964
+source:   https://papyri.info/ddbdp/o.stras;1;376
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [μέτρημα θησαυροῦ μητροπόλεως γενήματος ] … [ ἔτους ][Ἀ]ντωνίνου Καίσαρος τοῦ
+r.2    [κυρίου ] … ὀνόματος Φαήριος
+r.3    … [ πυροῦ ἥ]μισυ ὄγδοον γίνεται πυροῦ 𐅵 η.
+r.4    Σεῶς σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

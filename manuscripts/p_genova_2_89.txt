@@ -1,0 +1,26 @@
+[META]
+id:       P.GENOVA 2.89
+label:    P.GENOVA 2.89
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (1 CE – 200 CE)
+# hgv-keywords: Namen — Zukost — Betrag
+tm:       24949
+source:   https://papyri.info/ddbdp/p.genova;2;89
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παῦνι κδ …
+r.2    Πεσοῦρις β …
+r.3    Ἑρμίας ὀψαρίου δραχμὴ α
+
+[TRANSLATION]
+1     
+2     
+3     

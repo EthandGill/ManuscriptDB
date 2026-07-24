@@ -1,0 +1,64 @@
+[META]
+id:       P.Oxy. 12.1480
+label:    P.Oxy. 12.1480
+name:     Letter — Oxyrhynchites (?)
+genre:    letters
+date:     32 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites (?)
+held:     
+shelf:    
+content:  Letter from Oxyrhynchites (?) (32 CE)
+# hgv-keywords: Brief (privat) — Hermogenes an Harnotes (Prophet) — Aufschub von Zahlungen (?) — Bitte um Nachsicht für Sohn — Ergebenheit
+tm:       21878
+source:   https://papyri.info/ddbdp/p.oxy;12;1480
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Ἑρμογένης Ἁρυώτῃ
+r.2    τῷ προφήτῃ καὶ φίλτάτῳ πλεῖστα χαίρειν
+r.3    καὶ διὰ παντὸς ὑγιαίνειν.
+r.4    οὐκ ἠμέλησα περὶ
+r.5    οὗ μοι ἐπιτέταχας.
+r.6    ἐπορεύθην πρὸς
+r.7    Ἑρμογένην τὸν κωμογρ[α]μματέα, καὶ
+r.8    ὡμολόγησέ μοι ποιῆσαι
+r.9    τὴν ἀναβολήν. πεποίηται εἰς τὸν ἐκλογιστήν.
+r.10   λοιπὸν ἐὰν δύνῃ ἐ[π]ιστολὴν λαβεῖν παρʼ αὐτοῦ τοῦ ἐκλογισ[τοῦ]
+r.11   ὡς Ἑρμογένει, ἵν[α]
+r.12   μὴ σχῇ τ … [,]
+r.13   παρακαλῶ [σε με]γάλως π[έμψαι]
+r.14   τῷ υἱῷ μ[ου φά]σιν μοι λ …
+r.15   περὶ αὐ[τοῦ ] … [,]
+r.16   καὶ γράψ[ον μοι περὶ]
+r.17   ὧν ἐ[ὰ]ν δύν[ω]μαι κα[ὶ] ἡδέ[ως]
+r.18   ποιήσω. ἔρρω[σο.]
+r.19   ἔτους ιη Τιβερίου Καίσαρος
+r.20   Σεβαστοῦ Μεχεὶρ ιθ.
+r.21   [ἀπόδος Ἁ]ρυώτῃ προφήτῃ παρὰ Ἑρμογένους Ἡρακλ .
+
+[TRANSLATION]
+# HGV-EN: Hermogenes to Haruotes the prophet, my dear friend, greeting and best wishes for your continual health. I did not neglect your instructions: I went to Hermogenes the comogrammateus, and he consented to make the delay. He has made it as far as the eclogistes is concerned(?). For the rest, if you can get a letter from the eclogistes himself for Hermogenes, in order that he may not keep the ..., I urge you strongly to send my son a message for me ...; and write to me concerning what I can do, and I will gladly do it. Good-bye. The 18th year of Tiberius Caesar Augustus, Mecheir 19. (Addressed) Deliver to Haruotes the prophet from Hermogenes son of Heracl( ).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    

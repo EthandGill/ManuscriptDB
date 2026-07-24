@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB.TAXES 2.13
+label:    O.THEB.TAXES 2.13
+name:     Receipt — Theben
+genre:    receipts
+date:     259 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (259 BCE)
+# hgv-keywords: Quittung — Steuer — Salzsteuer
+tm:       50761
+source:   https://papyri.info/ddbdp/o.theb.taxes;2;13
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κζ Μεσορὴ ιζ
+r.2    πέπτωκεν τῆς
+r.3    πρώτης ἑξαμήνου Πιριτ τετρώβολον ἡμιωβέλιον
+r.4    Νοφερευ τριώβολον.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

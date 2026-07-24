@@ -1,0 +1,24 @@
+[META]
+id:       O.ONT.MUS 1.72
+label:    O.ONT.MUS 1.72
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     unbekannt
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Documentary papyrus from Theben (unbekannt)
+# hgv-keywords: Name
+tm:       75090
+source:   https://papyri.info/ddbdp/o.ont.mus;1;72
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ταῆσι
+r.2    ἀπελευθήρα
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,28 @@
+[META]
+id:       P.HARR 3.281
+label:    P.HARR 3.281
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     426 CE – 475 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Birmingham
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (426 CE – 475 CE)
+# hgv-keywords: Anweisung — Lieferung — Gefäße
+tm:       998610
+source:   https://papyri.info/ddbdp/p.harr;3;281
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἁρποκρατίων Ἰωσὴφ καὶ κοιν[ωνοῖς ] …
+r.2    παράσχεσθε τῷ δεσπότῃ µου τῷ θαυµα[σιωτάτῳ] …
+r.3    καινόκουφα ἑξακόσια µον ερρ µόνα. ἐρρῶσ[θαί σε εὔχοµαι]
+
+[TRANSLATION]
+# HGV-EN: Harpokration to Ioseph and associates (?) … Supply to my master the most admirable … six hundred new empty jars only. I pray for your health.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

@@ -1,0 +1,28 @@
+[META]
+id:       SB 6.9604_9
+label:    SB 6.9604_9
+name:     Receipt — Elephantine
+genre:    receipts
+date:     105 CE – 106 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (105 CE – 106 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       19116
+source:   https://papyri.info/ddbdp/sb;6;9604_9
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Ἁρπαῆσις
+r.2    Φενώφιος Θρακίδας ὑπὲρ χειρωναξίου ἐνάτου ἔτους Τραιανοῦ
+r.3    Καίσαρος τοῦ κυρίου ἐπὶ λόγου
+r.4    δραχμὰς ὀκτώ γίνονται δραχμαὶ η.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

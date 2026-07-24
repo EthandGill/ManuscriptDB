@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 276
+label:    O.PETR.MUS 276
+name:     Receipt — Theben
+genre:    receipts
+date:     192 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (192 CE)
+# hgv-keywords: Quittung — Steuer (Begräbnissteuer, telos taphes)
+tm:       77794
+source:   https://papyri.info/ddbdp/o.petr.mus;;276
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ψενεσουῆρις καὶ μέτοχοι ἐπιτηρηταὶ τέλους
+r.2    ἱματιοπωλῶν Τερμάμι
+r.3    Ὥρου. ἔσχομεν παρὰ σοῦ ὑπὲρ ταφῆς Πετεμ ἀνδρὸς
+r.4    δραχμὰς β ἔτους λβ Φαμενώθ κγ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

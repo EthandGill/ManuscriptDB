@@ -1,0 +1,28 @@
+[META]
+id:       BASP 56.92_6
+label:    BASP 56.92_6
+name:     Receipt — Abydos
+genre:    receipts
+date:     105 CE
+language: Greek (Koiné)
+found:    Abydos
+held:     London
+shelf:    
+content:  Receipt from Abydos (105 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       392590
+source:   https://papyri.info/ddbdp/basp;56;92_6
+lat:      26.185099
+lon:      31.917622
+
+[GREEK]
+r.1    λαογραφίας η ἔτους Ἀβύδου Πετερµοῦθις Ἁρσιήσιος
+r.2    τοῦ Ἁροννώφριος δραχμὰς ὀκτώι, γίνονται δραχμαὶ η.
+r.3    ἔτους η Τραιανοῦ τοῦ κυρίου
+r.4    Παχὼνι. διὰ Διδύµου γραµµατέως.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

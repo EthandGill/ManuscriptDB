@@ -1,0 +1,28 @@
+[META]
+id:       O.EREM 35
+label:    O.EREM 35
+name:     Letter — Theben
+genre:    letters
+date:     400 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Letter from Theben (400 BCE – 1 BCE)
+# hgv-keywords: Brief — Sarapion an Mennon — Übergabe
+tm:       2534
+source:   https://papyri.info/ddbdp/o.erem;;35
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Σαραπίων Μέμνονι
+r.2    τῷ [καὶ] Ψενστηλε χαίρειν.
+r.3    δὸς τὰ ἐνέχυρα.
+r.4    ἔτους ιθ Μεσορὴ ιγ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

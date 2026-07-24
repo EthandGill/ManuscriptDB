@@ -1,0 +1,32 @@
+[META]
+id:       O.BERL 62
+label:    O.BERL 62
+name:     Receipt — Theben
+genre:    receipts
+date:     166 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (166 CE)
+# hgv-keywords: Quittung — Pachtzins
+tm:       24459
+source:   https://papyri.info/ddbdp/o.berl;;62
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ϛ ἔτους
+r.2    Ἀντωνίνου
+r.3    καὶ Οὐήρου τῶν κυρίων Σεβαστῶν
+r.4    Ἐπὶφ κγ ὑπὲρ Χάρακος ὀνόματος Τσονεσόντιος
+r.5    Καρούριος πυροῦ ἀρτάβην μίαν ἕκτον τετρακαιεικοστόν,
+r.6    γίνεται πυροῦ ἀρτάβη α ϛ κδ. Π σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

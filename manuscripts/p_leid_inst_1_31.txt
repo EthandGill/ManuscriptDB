@@ -1,0 +1,42 @@
+[META]
+id:       P.LEID.INST 1.31
+label:    P.LEID.INST 1.31
+name:     Contract — Ptolemais (Oberägypten) (?)
+genre:    contracts
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Ptolemais (Oberägypten) (?)
+held:     
+shelf:    
+content:  Contract from Ptolemais (Oberägypten) (?) (1 CE – 200 CE)
+# hgv-keywords: Brief (privat) — Asklepiades an Demosthenes — Empfehlung — Schulden — Kauf von Kissen
+tm:       44616
+source:   https://papyri.info/ddbdp/p.leid.inst;1;31
+lat:      32.92128675
+lon:      35.079835
+
+[GREEK]
+r.1    Ἀσκλ[ηπιάδης] Δημο[σ]θέν[ει τῶι φιλ]τάτωι
+r.2    χα[ίρειν.]
+r.3    Δῖος ὁ [καὶ ] … ος ὁ ἀναδιδο[ύς σοι] τὴν ἐπιστολήν [ἐστί]ν μου φίλος συ … υ σὺ οὖν
+r.4    αὐτῷ … ρ …
+r.5    γιον αὐτο … [ ἀ]γοράσῃ.
+r.6    περὶ δὲ ὧ[ν ἂν] σὺ χρήσῃς ἐν Πτ[ο]λμαείδι,
+r.7    γράψεις μ[οι] διὰ τοῦ αὐτοῦ. καὶ ἀγορᾷς μοι ζεῦγος κερβικαρίων
+r.8    ἰδιωτικῶν καὶ λήμψει
+r.9    παρʼ αὐτοῦ τὴν τιμήν.
+r.10   διο …
+
+[TRANSLATION]
+# HGV-EN: Asclepiades greets his dearest Demosthenes. Dius also called ....us, who brings you this letter, is a friend of mine. So help (?) him in order that (?) he may buy ---. Write me back through him on any other matter you need in Ptolemais. And buy me a pair of plain cushions and receive the price from him ---.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

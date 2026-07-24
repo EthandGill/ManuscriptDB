@@ -1,0 +1,38 @@
+[META]
+id:       TYCHE 33.46
+label:    TYCHE 33.46
+name:     Documentary papyrus — Taie (Memphites, Ägypten)
+genre:    documents
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Taie (Memphites, Ägypten)
+held:     Tbilisi
+shelf:    
+content:  Documentary papyrus from Taie (Memphites, Ägypten) (201 CE – 300 CE)
+# hgv-keywords: Grundbuch — Register — Parzellen
+tm:       828778
+source:   https://papyri.info/ddbdp/tyche;33;46
+lat:      29.6279197277
+lon:      31.2486292477
+
+[GREEK]
+r.1    … σι … ἄρουραι οε
+r.2    … ἀμπελουργῶν …
+r.3    Παρορίου ἄρουραι ι καὶ διὰ Σιλβανοῦ ἄρουραι ε
+r.4    Σκηνῶν καὶ Ταιῆ ἀπὸ βορρᾶ ἄρουραι δ, ἄλλαι ἄρουραι κη,
+r.5    ἄλλαι ἄρουραι ια, ἄλλαι ἄρουραι γ, ἄλλαι ἄρουραι ϛ, ἄλλαι ἄρουραι ε, ἄλλαι ἄρουραι ζ,
+r.6    ἄλλαι ἄρουραι μϛ 𐅷, ἄλλαι ἄρουραι κα, ἄλλαι ἄρουραι δ, ἄλλαι ἄρουραι ιβ,
+r.7    ἄλλαι ἀβρόχου ἄρουραι δ, ἄλλαι ἄρουραι ζ διὰ τοῦ κονιατοῦ,
+r.8    ἄλλαι ἄρουραι α 𐅵, γίνονται ἄρουραι ρξ, καὶ παραδείσου κα … ἄρουραι ζ
+
+[TRANSLATION]
+# HGV-EN: [In …] 75 arourai; [x arourai?] of vinedressers … . In Parorion, 10 arourai and 5 arourai cultivated by Silvanos. In Skenai and Taie, to the north 4 arourai, another 28 arourai, another 11 arourai, another 3 arourai, another 6 arourai, another 5 arourai, another 7 arourai, another 46 2/3 arourai, another 21 arourai, another 4 arourai, another 12 arourai, another 4 arourai of uninundated land, another 7 arourai cultivated by the plasterer, another 1 1/2 arourai, total ⟦150⟧ 160 arourai, and of the orchard land (?) … 7 arourai.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

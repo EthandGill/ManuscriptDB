@@ -1,0 +1,30 @@
+[META]
+id:       O.DID 23
+label:    O.DID 23
+name:     Letter — Didymoi
+genre:    letters
+date:     220 CE
+language: Greek (Koiné)
+found:    Didymoi
+held:     Qift
+shelf:    
+content:  Letter from Didymoi (220 CE)
+# hgv-keywords: Notiz über den Empfang von Briefen — Siegelung
+tm:       144590
+source:   https://papyri.info/ddbdp/o.did;;23
+lat:      25.7543330528
+lon:      33.3947791619
+
+[GREEK]
+r.1    … ιζ Παχων
+r.2    [π]αρέλαβα παρὰ
+r.3    … λατα … ς μονομάχου ἐπιστολὰς ἐσφραγισμένας … εξ αὐτῶν
+r.4    μολύβου κ[αὶ] [ἐ]ξαῦτι[ς] …
+r.5    ου …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

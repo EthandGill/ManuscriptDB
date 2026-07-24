@@ -1,0 +1,28 @@
+[META]
+id:       O.CLAUD 1.17
+label:    O.CLAUD 1.17
+name:     Documentary papyrus — Mons Claudianus
+genre:    documents
+date:     98 CE – 117 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Mons Claudianus (98 CE – 117 CE)
+# hgv-keywords: Anweisung — Lieferung — Hammer
+tm:       24030
+source:   https://papyri.info/ddbdp/o.claud;1;17
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    δὸς σφυρίδα μίαν
+r.2    εἰς Πορφυρείτην
+r.3    Ἀπολλωνίῳ ἀρχιτέκτονι.
+r.4    Ἁθὺρ ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

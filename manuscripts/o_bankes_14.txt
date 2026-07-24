@@ -1,0 +1,28 @@
+[META]
+id:       O.BANKES 14
+label:    O.BANKES 14
+name:     Receipt — Elephantine
+genre:    receipts
+date:     177 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (177 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, merismos)
+tm:       699487
+source:   https://papyri.info/ddbdp/o.bankes;;14
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Μάκερ Διδύμου καὶ Ἀμμώνιος Ἁρπαήσεως
+r.2    πράκτορες ἀργυρικῶν Ἐλεφαντίνης διὰ Ἀλυπίου γραμματέως.
+r.3    διέγραψεν Πατσίβτις Πετορζμήθου ὑπὲρ μερισμοῦ η ἔτους
+r.4    τετρώβολον, γίνεται τετρώβολον, Παῦνι ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

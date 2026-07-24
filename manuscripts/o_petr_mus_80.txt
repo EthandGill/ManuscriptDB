@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 80
+label:    O.PETR.MUS 80
+name:     Receipt — Koptos
+genre:    receipts
+date:     122 BCE
+language: Greek (Koiné)
+found:    Koptos
+held:     
+shelf:    
+content:  Receipt from Koptos (122 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       44258
+source:   https://papyri.info/ddbdp/o.petr.mus;;80
+lat:      25.9967
+lon:      32.8167
+
+[GREEK]
+r.1    ἔτους μθ Θωὺθ ιδ τέτακται ἐπὶ τὴν
+r.2    ἐν Κόπτῳ τράπεζαν καμηλίτης Ἀράβων
+r.3    διὰ Πάτρωνος τοῦ Κεινέου
+r.4    τάλαντα τέσσαρα γίνονται τάλαντα δ.
+r.5    Σῶσος τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

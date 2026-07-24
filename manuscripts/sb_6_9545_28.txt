@@ -1,0 +1,28 @@
+[META]
+id:       SB 6.9545_28
+label:    SB 6.9545_28
+name:     Receipt — Elephantine
+genre:    receipts
+date:     145 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (145 CE)
+# hgv-keywords: Quittung — Steuer (μερισμός)
+tm:       19090
+source:   https://papyri.info/ddbdp/sb;6;9545_28
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σωτὴρ καὶ Παπρεμίθης πράκτορες
+r.2    ἀργυρικῶν Ἐλεφαντίνης. διέγραψεν Παχνοῦβις Πετορζμήθου μητρὸς Θιψανσνῶτες μερισμὸν
+r.3    ἔτους η Ἀντωνίνου τοῦ κυρίου
+r.4    δραχμὰς γ ἡμιωβέλιον . ἔτους θ Θὼθ ια.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

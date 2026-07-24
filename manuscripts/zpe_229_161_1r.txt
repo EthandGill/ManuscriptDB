@@ -1,0 +1,38 @@
+[META]
+id:       ZPE 229.161_1r
+label:    ZPE 229.161_1r
+name:     Contract — Oxyrhynchos (Oxyrhynchites, Egypt)
+genre:    contracts
+date:     6 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (Oxyrhynchites, Egypt)
+held:     London
+shelf:    
+content:  Contract from Oxyrhynchos (Oxyrhynchites, Egypt) (6 CE)
+# hgv-keywords: Vertrag — Pacht — Land
+tm:       20594
+source:   https://papyri.info/ddbdp/zpe;229;161_1r
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [ … ] [τοῦ δ’ ἐγκα]ταλ[ιπεῖν τὴν γεωργ]ίαν
+r.2    χωρὶς τῶν προκειμένων ἐπίτιμον ἀ[ργυρίου δρα]χμὰς
+r.3    διακοσίας καὶ εἰς τὸ δημόσιον τὰς ἴσας. ἡ [δὲ πρᾶξις ἔστω τ]ῶι
+r.4    Διδύμωι ἔκ τε τοῦ μεμισθωμένου καὶ ἐκ [τῶν] [ὑπαρχ]όντων
+r.5    αὐτῶι πάντων. ἐπάναγκον δὲ τὸν με[μ]ι[σθωμ]ένον
+r.6    κυπηρολογήσειν καὶ παραδοῦναι τῶι Διδύμωι τὴν
+r.7    γῆν κα [θ]αρὰν ἀπὸ κυπήρεως.
+r.8    ἔτους λϛ Καίσαρος, Φαωφι ιγ .
+
+[TRANSLATION]
+# HGV-EN: … for abandoning his farming (he must pay) a penalty of two hundred silver drachmas, in addition to the foregoing ones, as well as an equal amount to the state. Didymos shall have the right of execution against the lessee and all of his property. The lessor shall be obliged to collect the galingale and deliver the land free of galingale to Didymos. Year 36 of Caesar, Phaophi 13.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

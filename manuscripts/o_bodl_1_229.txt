@@ -1,0 +1,24 @@
+[META]
+id:       O.BODL 1.229
+label:    O.BODL 1.229
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     116 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (116 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       43367
+source:   https://papyri.info/ddbdp/o.bodl;1;229
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ὥρου τοῦ Ἁρσιήσιος
+r.2    σύμβολον γῆς Ἄμμωνος πυροῦ ἀρτάβ δέκα .
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,30 @@
+[META]
+id:       O.CLAUD 3.553
+label:    O.CLAUD 3.553
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     151 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (151 CE)
+# hgv-keywords: Quittung — Empfang
+tm:       73736
+source:   https://papyri.info/ddbdp/o.claud;3;553
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ἰσίδωρος Ἰσι[δώρου ] … [ νουμέρου]
+r.2    Πορφυρίτο[υ][ ἀριθμοῦ Κλαυδια]νοῦ Ἰσιδώρ[ῳ ] …
+r.3    χαίρει[ν]. ὁμ[ολογῶ] …
+r.4    παρὰ σοῦ τὸ …
+r.5    μηνὸς Φ … [ ὃ καὶ ][ἀποδ]ώσω σοι χ[ωρὶς] [πάσης] [ἀντιλο]γίας …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

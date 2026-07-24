@@ -1,0 +1,26 @@
+[META]
+id:       O.PETR.MUS 100
+label:    O.PETR.MUS 100
+name:     Receipt — Pathyrites
+genre:    receipts
+date:     116 BCE
+language: Greek (Koiné)
+found:    Pathyrites
+held:     
+shelf:    
+content:  Receipt from Pathyrites (116 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       75318
+source:   https://papyri.info/ddbdp/o.petr.mus;;100
+lat:      25.4833
+lon:      32.4833
+
+[GREEK]
+r.1    ἔτους νδ Ἐπεὶφ α μεμέτρηκεν νδ ἔτους
+r.2    ἡμιαρταβιείας Σχοι Πλουτίων Παγκράτου
+r.3    πυροῦ τέσσαρας γ γίνονται πυροῦ δ γ …
+
+[TRANSLATION]
+1     
+2     
+3     

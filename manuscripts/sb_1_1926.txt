@@ -1,0 +1,30 @@
+[META]
+id:       SB 1.1926
+label:    SB 1.1926
+name:     Receipt — Elephantine
+genre:    receipts
+date:     79 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (79 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23068
+source:   https://papyri.info/ddbdp/sb;1;1926
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Ἑρμογένης
+r.2    Βάσσου ὑπὲρ λαογραφίας
+r.3    ια ἔτους Οὐεσπασιανοῦ τοῦ
+r.4    κυρίου Μεσορὴ η ἀργυρίου δραχμὰς δέκα
+r.5    ἕξ, γίνονται δραχμαὶ ιϛ. Σωκράτης ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

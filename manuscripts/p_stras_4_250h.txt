@@ -1,0 +1,28 @@
+[META]
+id:       P.STRAS 4.250h
+label:    P.STRAS 4.250h
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     126 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (126 CE)
+# hgv-keywords: Quittung — Torzoll — Esel
+tm:       13223
+source:   https://papyri.info/ddbdp/p.stras;4;250h
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Φιλαδελφίας ἐρημοφυλακίας
+r.2    Ἡρώνικος Πλουτίωνι ἐξάγων ξυλ ἄρακος ἀρτάβην α μαζ
+r.3    δύο ὄνον ἕνα . ἔτους ἑνδεκάτου Ἁδριανοῦ
+r.4    τοῦ κυρίου Θὼτ κβ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

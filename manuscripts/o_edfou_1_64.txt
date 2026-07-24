@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 1.64
+label:    O.EDFOU 1.64
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     101 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (101 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       47004
+source:   https://papyri.info/ddbdp/o.edfou;1;64
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Θήδετος Ἀλεξίωνος
+r.2    λαογραφίας δ ἔτους Τραιανοῦ δραχμὰς η
+r.3    ἔτους δ Φαμενὼθ κδ
+
+[TRANSLATION]
+1     
+2     
+3     

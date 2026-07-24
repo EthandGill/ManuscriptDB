@@ -1,0 +1,32 @@
+[META]
+id:       P.Mich. 21.861
+label:    P.Mich. 21.861
+name:     Documentary papyrus — Fundort: Karanis (Arsinoites) - 1930
+genre:    documents
+date:     258 CE – 260 CE
+language: Greek (Koiné)
+found:    Fundort: Karanis (Arsinoites) - 1930
+held:     Ann Arbor
+shelf:    
+content:  Documentary papyrus from Fundort: Karanis (Arsinoites) - 1930 (258 CE – 260 CE)
+# hgv-keywords: Datierung
+tm:       756892
+source:   https://papyri.info/ddbdp/p.mich;21;861
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    [ἔτους] … [Αὐτοκρατόρων Κα]ισάρων Πουπλίου [Λικιννίου]
+r.2    [Οὐαλεριανοῦ καὶ Πουπλί]ου Λικιννίου Οὐαλεριαν[ο]ῦ
+r.3    [Γαλλιηνοῦ Γερμανικῶ]ν Μεγίστων Εὐσεβῶν Εὐτυχ[ῶν]
+r.4    [καὶ Πουπλίου Λικιννί]ου Κορνηλίου Σαλωνείνου
+r.5    [Οὐαλεριανοῦ τοῦ ἐπ]ιφανεστάτου Καίσαρο[ς Σε]β[αστῶν]
+
+[TRANSLATION]
+# HGV-EN: [Year x of Imperatores] Caesares Publius [Licinnius Valerianus and Publius] Licinnius Valerianus [Gallienus Germanici] Maximi Pii Felices [and Publius Licinnius] Cornelius Saloninus [Valerianus] nobilissimus Caesar [Augusti ... ]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

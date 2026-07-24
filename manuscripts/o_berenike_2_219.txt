@@ -1,0 +1,30 @@
+[META]
+id:       O.BERENIKE 2.219
+label:    O.BERENIKE 2.219
+name:     Receipt — Berenike
+genre:    receipts
+date:     5 CE – 6 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     
+shelf:    
+content:  Receipt from Berenike (5 CE – 6 CE)
+# hgv-keywords: Quittung — Steuer (Quintana) — Geld
+tm:       89245
+source:   https://papyri.info/ddbdp/o.berenike;2;219
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    [] [κοιντ]ανήσιος τοῦ …
+r.2    … ωτης ιβ τοῦ
+r.3    … ἔτους λε κοιντάναν
+r.4    … ς τοῦ Τῦβι δρα[χ]μὰς
+r.5    [ὀκτώ,] δραχμὰς η
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

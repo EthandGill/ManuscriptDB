@@ -1,0 +1,70 @@
+[META]
+id:       C.PAP.GR 2.1.9
+label:    C.PAP.GR 2.1.9
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     61 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (61 CE)
+# hgv-keywords: Anzeige — Tod — Sklave
+tm:       20533
+source:   https://papyri.info/ddbdp/c.pap.gr;2.1;9
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Φιλίσκωι ἐγλήμπτορι γερδίων
+r.2    παρὰ Σαραπίωνος τοῦ Σαραπίωνος.
+r.3    ὁ δοῦλός μου Ἀπολλοφάνης
+r.4    γέρδιος ἀναγραφόμενος
+r.5    ἐπʼ ἀμφόδου Τεγμούθεως
+r.6    ἐτελεύτησεν ἐν τῆι ξένῃ
+r.7    τῶι ἐνεστῶτι ζ ἔτει Νέρωνος
+r.8    Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανι[κοῦ]
+r.9    Αὐτοκράτορος. διὸ ἀξιῶ
+r.10   ἀναγραφῆναι τοῦτον
+r.11   ἐν τῇ τῶν τετελευτηκότων
+r.12   τάξει, καὶ ὀμνύω
+r.13   Νέρωνα Κλαύδιον Καίσαρ[α]
+r.14   Σεβαστὸν Γερμανικὸν Αὐτοκράτορα
+r.15   ἀληθῆ εἶναι.
+r.16   ἔτους ζ Νέρωνος Κλαυδίου
+r.17   Καίσαρος Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος,
+r.18   Μεχεὶρ κζ Σεβαστῇ.
+r.19   Φιλίσκος σεσημείωμαι.
+r.20   ἔτους ζ Νέρωνος Κλαυδίου
+r.21   [Κα]ίσαρος Σεβαστοῦ
+r.22   [Γερ]μανικοῦ
+r.23   [Αὐτο]κράτορ[ος]
+r.24   [Με]χεὶρ κζ [Σεβαστῇ.]
+
+[TRANSLATION]
+# HGV-EN: To Philiscus, farmer of the tax on weaving, from Sarapion, son of Sarapion. My slave Apollophanes a weaver, registered in Temgenouthis Square, died during absence in the present 7th year of Nero Claudius Caesar Augustus Germanicus Imperator. Wherefore I request that his name be inscribed in the list of dead persons, and I swear by Nero Claudius Caesar Augustus Germanicus Imperator that this information is true.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    

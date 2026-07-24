@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 6.927
+label:    P.Oxy. 6.927
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (201 CE – 300 CE)
+# hgv-keywords: Brief (privat) — Eros an NN — Einladung zu einer Hochzeit
+tm:       31321
+source:   https://papyri.info/ddbdp/p.oxy;6;927
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    καλεῖ σε Ἔρως
+r.2    εἰς γάμους ἥτις
+r.3    ἐστὶν αὔριον κθ
+r.4    ἀπὸ ὥρας θ.
+
+[TRANSLATION]
+# HGV-EN: Eros invites you to a wedding to-morrow the 29gth at the 9th hour.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

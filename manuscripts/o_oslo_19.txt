@@ -1,0 +1,26 @@
+[META]
+id:       O.OSLO 19
+label:    O.OSLO 19
+name:     Receipt — Tebtynis (Arsinoites)
+genre:    receipts
+date:     285 CE
+language: Greek (Koiné)
+found:    Tebtynis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Tebtynis (Arsinoites) (285 CE)
+# hgv-keywords: Quittung — Transport — Getreide
+tm:       40839
+source:   https://papyri.info/ddbdp/o.oslo;;19
+lat:      29.10713705
+lon:      30.7620317
+
+[GREEK]
+r.1    θησαυροῦ Τεπτύνεως γενήματος β ἔτους Ἡρακλείδης στρατιώτης ἀπὸ Καινῆς
+r.2    εἰς τὸ Ἰσῖον.
+r.3    ἔτους α Φαρμοῦθι ιε.
+
+[TRANSLATION]
+1     
+2     
+3     

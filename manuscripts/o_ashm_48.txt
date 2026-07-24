@@ -1,0 +1,26 @@
+[META]
+id:       O.ASHM 48
+label:    O.ASHM 48
+name:     Receipt — Theben
+genre:    receipts
+date:     183 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (183 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       70497
+source:   https://papyri.info/ddbdp/o.ashm;;48
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ κζ τοῦ κγ ἔτους ὀνόματος
+r.2    Σενμούθου μητρὸς Θαυβάσθιος
+r.3    ὑπὲρ γεωμετρίας κγ ἔτους Χάρακος δραχμὰς τέσσερας γίνονται δραχμαὶ δ. … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

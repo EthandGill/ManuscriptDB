@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.208
+label:    O.STRAS 1.208
+name:     Receipt — Theben
+genre:    receipts
+date:     130 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (130 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75805
+source:   https://papyri.info/ddbdp/o.stras;1;208
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἑριοφμόις πράκτωρ ἀργυρικῶν
+r.2    Ἐπωνύχῳ Ἡρακλήους [ὃ]ς καὶ Ἀπάθης. ἔσχον
+r.3    ὑπὲρ χωμάτων καὶ βαλανείων Χάρακος ιδ ἔτους ῥυπαρὰς δραχμὰς
+r.4    τέσσαρας . ἔτους ιδ Ἁδριανοῦ
+r.5    τοῦ κυρίου Μεσορὴ κζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

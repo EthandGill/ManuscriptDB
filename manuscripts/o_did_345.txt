@@ -1,0 +1,38 @@
+[META]
+id:       O.DID 345
+label:    O.DID 345
+name:     Letter — Didymoi
+genre:    letters
+date:     78 CE – 85 CE
+language: Greek (Koiné)
+found:    Didymoi
+held:     Qift
+shelf:    
+content:  Letter from Didymoi (78 CE – 85 CE)
+# hgv-keywords: Brief (privat) — Numerius an Longinus — Empfehlung für den Überbringer des Ostrakons; Versprechen — morgen oder übermorgen die Taschen zu abzuliefern
+tm:       144906
+source:   https://papyri.info/ddbdp/o.did;;345
+lat:      25.7543330528
+lon:      33.3947791619
+
+[GREEK]
+r.1    Νομέριος Λογγείνῳ
+r.2    τῷ τιμιωτάτῳ ἀδελφῷ
+r.3    πλεῖστα χαίρειν·
+r.4    Δωρᾶτι τῷ φέροντί σοι
+r.5    τὸ ὄστρακον, ὅ τι ἂν παρ[ά]σχῃ, νόμιζε ἐμοὶ πα[ρ]έχεσθαι. περὶ δὲ τῶν μ[α]ρσιππίων ἀμέριμνος γίνου, τὸ πολὺ γὰρ ἢ αὔριον ἢ εἰς
+r.6    τρίτην αὐτὰ ἀποφέρω · ἐὰν
+r.7    δὲ παρέλθῃ ἡ πορε[ί]α, προσδέχου με ἐκεῖ.
+r.8    ἔρρωσο, τ[ι]μιώτατε
+
+[TRANSLATION]
+# HGV-EN: Numerius to his most honoured brother Longinus, many greetings. Whatever you give to Doras who brings the ostracon, consider that you are giving it to me. As for the bags, do not worry, since I bring them tomorrow or the day after tomorrow at the latest. But if the caravan comes by, expect me there. Farewell, most honoured.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

@@ -1,0 +1,32 @@
+[META]
+id:       P.HARR 3.284
+label:    P.HARR 3.284
+name:     Documentary papyrus — Oxyrhynchos (?)
+genre:    documents
+date:     426 CE – 475 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (?)
+held:     Birmingham
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (?) (426 CE – 475 CE)
+# hgv-keywords: Notiz — Bewässerung — Machine
+tm:       998613
+source:   https://papyri.info/ddbdp/p.harr;3;284
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … [ἀδε]λφῷ χαίρειν.
+r.2    … [-ο]υ γεω[ρ]γίων ἀμπελικῆς μηχαν[ῆς] …
+r.3    … [-μ]ενοι παρ’ αὐτῶν τὸν παλαιὸν ε … [ἐρρῶϲθαί]
+r.4    σε εὔχομ[αι] …
+r.5    καὶ δὸς ἄξο[να- ] …
+
+[TRANSLATION]
+# HGV-EN: … (to) … brother, greeting. … of the fields of the vine irrigator … (having received) from them the old … (hand 2) I pray for your health … And give an axle …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       O.TRIM 1.292
+label:    O.TRIM 1.292
+name:     Receipt — Trimithis (Oasis Magna)
+genre:    receipts
+date:     350 CE – 370 CE
+language: Greek (Koiné)
+found:    Trimithis (Oasis Magna)
+held:     
+shelf:    
+content:  Receipt from Trimithis (Oasis Magna) (350 CE – 370 CE)
+# hgv-keywords: Quittung — Gerste
+tm:       131341
+source:   https://papyri.info/ddbdp/o.trim;1;292
+lat:      25.6677395488
+lon:      28.8708832519
+
+[GREEK]
+r.1    τοῖς σκρίβαις ὁμοίως
+r.2    κριθῆς μάτια η Χοίακ ϛ
+r.3    διὰ Δομνίωνος
+r.4    ἐσημειωσάμην Παήσιος.
+
+[TRANSLATION]
+# HGV-EN: “To the scribes likewise 8 matia of barley on 6 Choiak through Domnion. I, Paesios, signed.”
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

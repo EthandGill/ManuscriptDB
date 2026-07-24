@@ -1,0 +1,32 @@
+[META]
+id:       O.HEID 173
+label:    O.HEID 173
+name:     Receipt — Theben
+genre:    receipts
+date:     95 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (95 CE)
+# hgv-keywords: Quittung — Steuer (Dattelpalmenhaine, phoinikon hieratikon)
+tm:       80396
+source:   https://papyri.info/ddbdp/o.heid;;173
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Λούκουλλος … ὑπὲρ
+r.2    φοινικώνων ἱερατικῶν ιδ ἔτους τετρώβολον
+r.3    ἡμιωβέλιον,
+r.4    γίνονται 4 12 ὀβολοὶ καὶ προσδιαγραφόμενα.
+r.5    ἔτους ιε Δομιτιανοῦ
+r.6    Ἁθὺρ λιϛ. …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

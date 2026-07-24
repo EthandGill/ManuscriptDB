@@ -1,0 +1,30 @@
+[META]
+id:       O.MICH 1.10
+label:    O.MICH 1.10
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     216 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (216 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       41865
+source:   https://papyri.info/ddbdp/o.mich;1;10
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους κδ Σεουήρου Ἀντωνίνου
+r.2    ἀριθμήσεως Φαῶφι διέγραψε Αὐρηλίῳ Πτολλᾷ
+r.3    πράκτορι μονοδεσμίας χόρτου Τούρβων ἐπὶ λόγου
+r.4    δραχμὰς τέσσαρας, γίνονται δραχμαὶ δ.
+r.5    Μεσωρὴ δραχμὰς δεκαέξ, γίνονται δραχμαὶ ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

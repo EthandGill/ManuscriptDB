@@ -1,0 +1,26 @@
+[META]
+id:       O.PETR.MUS 380
+label:    O.PETR.MUS 380
+name:     Receipt — Theben
+genre:    receipts
+date:     180 CE – 192 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (180 CE – 192 CE)
+# hgv-keywords: Quittung (Speicherquittung)
+tm:       75424
+source:   https://papyri.info/ddbdp/o.petr.mus;;380
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γε[νήματος] … [ἔτους] …
+r.2    Αὐρηλίου Κο[μμόδου] …
+r.3    Καίσαρος [τοῦ κυρίου] …
+
+[TRANSLATION]
+1     
+2     
+3     

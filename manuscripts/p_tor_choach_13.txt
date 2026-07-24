@@ -1,0 +1,24 @@
+[META]
+id:       P.TOR.CHOACH 13
+label:    P.TOR.CHOACH 13
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     126 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (126 BCE)
+# hgv-keywords: Registrierungsvermerk auf demotischer Urkunde
+tm:       5766
+source:   https://papyri.info/ddbdp/p.tor.choach;;13
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Ἀ]πολλώνιος ὁ πρὸς τῶι γραφείωι κεχρημάτικα.
+r.2    ἔτους μδ Παχὼν κε.
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,54 @@
+[META]
+id:       P.Oxy. 7.1033
+label:    P.Oxy. 7.1033
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     392 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (392 CE)
+# hgv-keywords: Eingabe — Aurelii Gaius und Theon an die Riparii Septimius Paulus und Claudius Tatianus — Verstärkung bei der Wache — sonst Streik
+tm:       20329
+source:   https://papyri.info/ddbdp/p.oxy;7;1033
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ὑπατείας τοῦ δεσπότου ἡμῶν Ἀρκαδίου αἰωνίου Αὐγούστου τὸ β καὶ Φλαουίου Ῥουφίνου
+r.2    τοῦ λαμπροτάτου Φαῶφι κα.
+r.3    Σεπτιμίῳ Παύλῳ καὶ Κλαυδίῳ Τατιανῷ ῥιπαρίοις Ὀξυρυγχίτου
+r.4    παρὰ Αὐρηλίων Γαΐου καὶ Θέωνος ἀμφοτέρων νυκτοστρατήγων τῆς αὐτῆς
+r.5    πόλεως. τῶν εἰρηνικῶν τὴν φροντίδα ἀναδεδόμενοι καὶ ἀμέμπτως ὑπουργοῦμεν τοῖς δημοσίοις ἐπιτάγμασι ἐπανέχοντες δὲ
+r.6    καὶ τῇ παραφυλακῇ τῆς πόλεως, ἀναγκαζόμεθα δὲ συνεχῶς
+r.7    ἕνεκεν τῆς παραστάσεως διαφόρων προσώπων κατὰ πρόσταγμα
+r.8    τῶν κυρίων μου τῶν μειζόνων ἡμῶν ἀρχόντων, καὶ μὴ ἐχόντων
+r.9    ἡμῶν τὴν βοήθειαν εἴτʼ οὖν τοὺς δημοσίους καὶ τοὺς ἐφοδευτὰς
+r.10   πολλάκις σχεδὸν εἰπε[ῖ]ν εἰς ψυχὴν ἐκινδυνεύσαμεν διὰ τὸ
+r.11   τούτους παρʼ ἡμῶν ἀπεσπᾶσθαι μόνοι περιερχόμενοι
+r.12   τὴν πόλιν καὶ κατοπτεύοντες. διὰ τοῦτο ἑαυτοὺς ἀσφαλιζόμενοι
+r.13   τούσδε τοὺς λιβέλλους ἐπιδίδομεν ἀξιοῦντες ἢ τὴν προσήκουσαν
+r.14   ἡμῖν βοήθειαν τούς τε δημοσίους καὶ τοὺς ἐφοδευτὰς ὡς προείπαμεν
+r.15   παραδοῦναι ἢ τὸ ἀνενόχλητον ἡμᾶς ἔχειν περί τε τῆς παραφυλακῆς
+r.16   τῆς πόλεως καὶ περὶ τῆς παραστάσεως τῶν ζητουμένων προσώπων, ἵνα μὴ ὑπαίτιοι γενώμεθα κινδύνῳ.
+
+[TRANSLATION]
+# HGV-EN: In the 2nd consulship of our sovereign Arcadius, eternal Augustus, and of Flavius Rufinus the most illustrious, Phaophi 21. To Septimius Paulus and Claudius Tatianus, riparii of the Oxyrhynchite nome, from Aurelius Gaius and Aurelius Theon, both night-strategi of the said city. Being entrusted with the care of the peace we are irreproachable in our obedience to public orders, and also intent upon the guardianship of the city. We are often called upon for the production of various persons in accordance with the command of our lords the superior officials, but having no assistance either of public guards or inspectors we often run the risk almost of our lives because these assistants have been taken from us and we go about the city on the watch all alone. Therefore to safeguard ourselves we present this petition requesting either that we should be given the proper assistance of the public guards and the inspectors as aforesaid or that we should have no concern for the guardianship of the city or the production of persons who are wanted, in order that we may not incur risk.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 72.4892
+label:    P.Oxy. 72.4892
+name:     Documentary papyrus — Chysis (Oxyrhynchites)
+genre:    documents
+date:     236 CE
+language: Greek (Koiné)
+found:    Chysis (Oxyrhynchites)
+held:     
+shelf:    
+content:  Documentary papyrus from Chysis (Oxyrhynchites) (236 CE)
+# hgv-keywords: Schreiben (amtlich) — Bericht (?) — Dorfschreiber — Fragment
+tm:       114273
+source:   https://papyri.info/ddbdp/p.oxy;72;4892
+lat:      28.300524
+lon:      30.667061
+
+[GREEK]
+r.1    ἔτους [β Αὐτοκρά]τορος Καίσα[ρος Γαΐου]
+r.2    Ἰουλίου [Οὐήρου Μαξιμ]ίνου Εὐσε[βοῦς]
+r.3    Εὐτυχοῦς Σεβαστοῦ καὶ Γαΐου Ἰουλ[ίου Οὐήρου]
+r.4    Μαξίμου τοῦ ἱερωτάτου Καίσαρος Σ[εβαστοῦ]
+r.5    υἱοῦ τοῦ Σεβαστοῦ, Ἐπεὶφ κγ.
+r.6    Αὐρήλιος Παυσανίας κωμογραμματεὺς Χύσεως διʼ ἐμ[οῦ] …
+
+[TRANSLATION]
+# HGV-EN: Year 2 of Imperator Caesar Gaius Iulius Verus Maximinus Pius Felix Augustus and Gaius Iulius Verus Maximus the most sacred Caesar Augustus, son of the Augustus, Epeiph 23. (2nd hand) Aurelius Pausanias, village scribe of Chysis, through me . . . (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

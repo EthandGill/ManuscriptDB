@@ -1,0 +1,34 @@
+[META]
+id:       P.PETR.KLEON 38
+label:    P.PETR.KLEON 38
+name:     Letter — Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+genre:    letters
+date:     260 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+held:     London
+shelf:    
+content:  Letter from Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob (260 BCE – 249 BCE)
+# hgv-keywords: Brief (geschäftlich) — N.N. an Kleon — Schleuse — Öffnung
+tm:       7637
+source:   https://papyri.info/ddbdp/p.petr.kleon;;38
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [ὁ δεῖνα Κλέων]ι [χαί]ρειν. ὑπογέγραφά σοι τ …
+r.2    Θάμαυτο[ς] ιγ, Ψένχωνσις Ἁρυώτου θ …
+r.3    Φάνησιος [Σο]χώτου ιβ, Ἀμενέως Νεχθύριος κ … [γέγραφά οὖν]
+r.4    [σ]οι ἵνα εἰ[δῆις] καὶ θύραν βουλόμενος ἀνοῖξαι ουδ … [καλῶς ἂν οὖν]
+r.5    [π]οιήσαι[ς ἀπ]οστείλας καὶ τὸν σκεοφύλακα καὶ μ …
+r.6    Κλέωνι
+
+[TRANSLATION]
+# HGV-EN: [NN] to Kleon, greetings. I have written for you below [...] son of Thamays: 13, Psenchonsis son of Haryotes: 9, [...] of Phanesis son of Sochotes: 12, of Ameneus son of Nechthyris 2[0-29]. [... I have written] to you for your information and as I wanted to open a sluice gate [...]. Could you please send also the storekeeper and [...]. To Kleon
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,34 @@
+[META]
+id:       O.NYU 6
+label:    O.NYU 6
+name:     Receipt — Diospolis Parva
+genre:    receipts
+date:     103 BCE
+language: Greek (Koiné)
+found:    Diospolis Parva
+held:     New York
+shelf:    
+content:  Receipt from Diospolis Parva (103 BCE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869409
+source:   https://papyri.info/ddbdp/o.nyu;;6
+lat:      26.016881
+lon:      32.312497
+
+[GREEK]
+r.1    ἔτους ιδ τοῦ καὶ ια Παυνι κη τέτακται ἐπὶ τὴν
+r.2    ἐν Διὸς πόλει τράπεζαν ἐφ’ ἧς Ἀσκληπιάδης
+r.3    ταριχ- Ψενάμουνις χαλκοῦ χιλίας
+r.4    ἑκατὸν με, γίνονται Αρμε.
+r.5    δι’ Ἀσκληπιάδου.
+r.6    Ατξ.
+
+[TRANSLATION]
+# HGV-EN: Year 14 which is also 11, Pauni 28, has paid to the bank in Diospolis that Asklepiades is in charge of, for tari(ch ), Psenamounis, in bronze, one thousand one hundred 45 [dr.], that is, 1,145 ⟨dr.⟩. Through Asklepiades. 1,360 ⟨dr.⟩.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

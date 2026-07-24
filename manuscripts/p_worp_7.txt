@@ -1,0 +1,38 @@
+[META]
+id:       P.WORP 7
+label:    P.WORP 7
+name:     Documentary papyrus — Latopolis
+genre:    documents
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Latopolis
+held:     
+shelf:    
+content:  Documentary papyrus from Latopolis (1 CE – 200 CE)
+# hgv-keywords: Ammonis und seine Kollegen (κριοτάφοι) an die Götterbilder der Athena — Bitte um Hilfe gegen drei Brüder — von denen sie beschuldigt werden; Orakel (?)
+tm:       115545
+source:   https://papyri.info/ddbdp/p.worp;;7
+lat:      25.2936689
+lon:      32.5531993
+
+[GREEK]
+r.1    εἰδώλοις Ἀθηνᾶς θεοῖς
+r.2    μεγίστοις παρὰ Ἀμμωνίου Πετεήσιος καὶ τῶν σὺν
+r.3    αὐτῶι κριοτάφων κατὰ Πετορζμήθιος
+r.4    καὶ Φαουήριος Φμόιτος καὶ Πετήσιος
+r.5    παντοπώλου· ἀξιοῦμεν ἡμᾶς
+r.6    κρίνεσθαι μετ᾽ αὐτῶν καὶ βοηθεῖσθαι ὑφ᾽ ὑμῶν τῶν
+r.7    κυρίων εἰδώλων καὶ τῶν σὺν ὑμῖν ἁπάντων θεῶν· ἐγκαλούμεθα ὑπὸ τούτων
+r.8    τῶν καταράτων καθ᾽ ἡμέραν
+r.9    ὑμῶν
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

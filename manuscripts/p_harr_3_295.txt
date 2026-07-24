@@ -1,0 +1,28 @@
+[META]
+id:       P.HARR 3.295
+label:    P.HARR 3.295
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Birmingham
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (501 CE – 600 CE)
+# hgv-keywords: Abrechnung — Namen — Geld
+tm:       998624
+source:   https://papyri.info/ddbdp/p.harr;3;295
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … ν[oμισμάτιον] α παρὰ ε ν[oμισμάτιον] α … παρὰ ε …
+r.2    παρὰ Ἰωάννου ἀπὸ Πεστα νoμισμάτιον α παρὰ ε …
+r.3    παρὰ Θέωνος ἀπὸ Ψεπουωε τὸ καὶ δοθὲν
+
+[TRANSLATION]
+# HGV-EN: … 1 solidus minus 5, 1 solidus minus 5. From Ioannes from Pesta, 1 solidus minus 5. From Theon from Psepouoe, which was also given to …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

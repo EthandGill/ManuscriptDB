@@ -1,0 +1,30 @@
+[META]
+id:       O.OSLO 3
+label:    O.OSLO 3
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     109 BCE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     
+shelf:    
+content:  Receipt from Hermonthis (109 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       43562
+source:   https://papyri.info/ddbdp/o.oslo;;3
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    ἔτους θ Θῶυθ κ τέτακται
+r.2    ἐπὶ τὴν ἐν Ἑρμώνθει τράπεζαν ἐφʼ ἧς
+r.3    Διονύσιος ἀπομοίρας θ ἔτους Ψεναμοῦνις ὃς
+r.4    καὶ Ψενμούθης Ἑριέως
+r.5    χιλίας φλ, γίνονται Αφλ. Διονύσιος τραπεζίτης Αχπ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

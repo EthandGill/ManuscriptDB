@@ -1,0 +1,24 @@
+[META]
+id:       P.ERASM 2.48
+label:    P.ERASM 2.48
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     150 BCE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (150 BCE)
+# hgv-keywords: Quittung — Naukleros — Weizen
+tm:       5082
+source:   https://papyri.info/ddbdp/p.erasm;2;48
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους λβ Θωὺθ … γ, πυροῦ φορικοῦ
+r.2    ἀρτάβας Αρκγ 𐅵 δ
+
+[TRANSLATION]
+1     
+2     

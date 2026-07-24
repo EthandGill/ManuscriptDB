@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 1.60
+label:    O.ONT.MUS 1.60
+name:     Receipt — Theben
+genre:    receipts
+date:     214 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (214 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75078
+source:   https://papyri.info/ddbdp/o.ont.mus;1;60
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μονκορῆς Μονκορήους καὶ μέτοχοι πράκτορες σιτικῶν μητροπόλεως
+r.2    ἔσχον εἰς πρόσθεσιν γενήματος ὀνόματος Παχράτης
+r.3    Πανκ … Αμωνίου γενήματος κα ἔτους πυροῦ ἀρτάβης
+r.4    δωδέκατον γίνεται πυροῦ ἀρτάβης ιβ ἔτους κβ Παῦνι
+r.5    ιϛ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

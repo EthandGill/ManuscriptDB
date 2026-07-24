@@ -1,0 +1,44 @@
+[META]
+id:       P.RYL 2.183A
+label:    P.RYL 2.183A
+name:     Receipt — Euhemeria (Arsinoites)
+genre:    receipts
+date:     16 CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Euhemeria (Arsinoites) (16 CE)
+# hgv-keywords: Quittung (Heu)
+tm:       12961
+source:   https://papyri.info/ddbdp/p.ryl;2;183A
+lat:      29.383296
+lon:      30.533289
+
+[GREEK]
+r.1    Πτολεμαῖος Λεωνίδου προστάτης
+r.2    ὀνηλασίου ὄνων Ἀπολλωνίου τοῦ Ἀλεξάνδρου
+r.3    Ἀφροδισίωι καὶ Πετερμουθίωνι ἀμφοτέροις
+r.4    Ἀσκληπιάδου χαίρειν. ἀπέχω παρʼ ὑμῶν ἀπὸ λόγου
+r.5    ἀγορασμοῦ χόρτου γενήματος β ἔτους Τιβερίου
+r.6    Καίσαρος Σεβαστοῦ χόρτ[ο]υ διμνώου
+r.7    δέσμας χιλίας, γίνονται χόρτου δέσμαι Α. ἔγραψεν
+r.8    ὑπὲρ αὐτοῦ Μάρων γραμματεὺς αὐτοῦ διὰ
+r.9    τὸ βραδύτερ[ο]ν [αὐ]τὸν γράφειν.
+r.10   ἔτους γ Τιβερίου Καίσαρος Σεβαστοῦ, μηνὸς Σεβαστοῦ ε.
+r.11   Πτολεμαῖος ἀπέχω.
+
+[TRANSLATION]
+# HGV-EN: ‘Ptolemaeus son of Leonides, superintendent of the donkeys of Apollonius son of Alexander, to Aphrodisius and Petermouthion, both sons of Asclepiades. greeting. I have received from you on account of the purchase of hay from the harvest of the 2nd year of Tiberius Caesar Augustus one thousand bundles of ... hay, total 1000 bundles of hay. Maron his secretary wrote for him because he writes slowly.’ Date and signature of Ptolemaeus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

@@ -1,0 +1,36 @@
+[META]
+id:       P.RYL 2.189
+label:    P.RYL 2.189
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     128 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (128 CE)
+# hgv-keywords: Quittung (Kleidung) — Weber — Versorgung (Truppen, Iudäa)
+tm:       12963
+source:   https://papyri.info/ddbdp/p.ryl;2;189
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    Διονύσιος Σωκράτους καὶ οἱ μέτοχοι παραλῆμπται
+r.2    δημοσίου ἱματισμοῦ κουστωδιῶν παρειλήφαμεν παρὰ γερδίων κώμης Σοκνοπαίου Νήσου ιστωλο … ους χιτῶνας δέκα ἐννέα, γίνονται ιθ, καὶ εἰς [σ]τρατιωτικὰς χρείας
+r.3    τῶν ἐν τῇ Ἰουδαίᾳ στρατευομένων παλλίολα λευκὰ
+r.4    πέντε, γίνεται ε. ιγ ἔτους Αὐτοκράτορος Καίσαρος Τραιανοῦ Ἁδριανοῦ
+r.5    Σεβαστοῦ, Χοίακ κβ. Διογέν[η]ς παρέλαβα.
+r.6    Ὀνησᾶς συνπαρέλαβα. Φιλόξενος
+r.7    συνπαρέλαβα.
+
+[TRANSLATION]
+# HGV-EN: ‘We, Dionysius son of Socrates and the associate collectors of public clothing for the guards, have received from the weavers of the village of Socnopaei Nesus nineteen … tunics, total 19, and for the needs of the soldiers serving in Judaea five white cloaks, total 5. The 13th year of the Emperor Caesar Trajanus Hadrianus Augustus, Choiak 22. (Signed) Received by me, Diogenes. Received also by me, Onesas. Received also by me, Philoxenus.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

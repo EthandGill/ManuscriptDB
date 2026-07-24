@@ -1,0 +1,30 @@
+[META]
+id:       O.CLAUD 1.10
+label:    O.CLAUD 1.10
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     111 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (111 CE)
+# hgv-keywords: Quittung — Wein
+tm:       24023
+source:   https://papyri.info/ddbdp/o.claud;1;10
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ἀπολλώνι[ος ] … [ χαίρειν].
+r.2    ἐκόμισες ἃ παρέδωκά
+r.3    σοι λο … α δ κεράμια
+r.4    Πτολεμαιτικὰ οἴνου κα.
+r.5    ἔτους ιδ Τραιανοῦ Μεσορὴ κγ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

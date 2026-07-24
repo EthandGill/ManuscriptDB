@@ -1,0 +1,34 @@
+[META]
+id:       P.COLL.YOUTIE 2.126
+label:    P.COLL.YOUTIE 2.126
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (101 CE – 300 CE)
+# hgv-keywords: Quittung — Steuern — Verkauf (Sklave)
+tm:       28521
+source:   https://papyri.info/ddbdp/p.coll.youtie;2;126
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ζ Τῦβι κ
+r.2    διέγραψεν Π … ησις
+r.3    Σερήνου ὑπὲρ τέλους δούλου
+r.4    δραχμὰς ἑξήκοντα τέσσαρας
+r.5    σεσημείωμαι τὰς δραχμὰς
+r.6    ἑξήκοντα τέσσαρας
+r.7    δραχμὰς ξδ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

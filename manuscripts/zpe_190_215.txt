@@ -1,0 +1,60 @@
+[META]
+id:       ZPE 190.215
+label:    ZPE 190.215
+name:     Documentary papyrus — Soknopaiu Nesos (Arsinoites, Ägypten)
+genre:    documents
+date:     158 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites, Ägypten)
+held:     Gießen
+shelf:    
+content:  Documentary papyrus from Soknopaiu Nesos (Arsinoites, Ägypten) (158 CE)
+# hgv-keywords: Deklaration — Kamel
+tm:       341752
+source:   https://papyri.info/ddbdp/zpe;190;215
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    Σοκνοπαίου Νήσου κάμηλος α
+r.2    Θεοδώρ[ῳ] στρατηγῷ καὶ Τειμ[α]γένει βασιλικῷ γραμματεῖ Ἀρσινοΐτου Ἡρακλείδου μερίδο[ς]
+r.3    παρὰ Ἁρπαγάθου Πακύσεως τοῦ Πνεφερῶτος
+r.4    ἀπὸ κώμης Σοκνοπαίου Nήσου.
+r.5    ἣν τῷ κ ἔτει ἀπεγραψάμην περὶ
+r.6    τὴν κώμην κάμηλον
+r.7    μίαν κ[αὶ ν]ῦν ἀπογράφομαι
+r.8    εἰς τὸ ἐνεστὸς κα ἔτος
+r.9    Ἀντωνίνου Καίσαρος τοῦ
+r.10   κυρίου ἐπὶ τῆς κώμης.
+r.11   ἀπεγράφη παρὰ στρατηγῷ
+r.12   διὰ Ἀνουβίωνος
+r.13   βοηθοῦ κάμηλος α
+r.14   Μεχείρ δ
+r.15   ἀπεγράφη παρὰ βασιλικῷ γραμματεῖ
+r.16   κάμ[η]λος α Μεχείρ δ
+r.17   ἐξηριθμήθη παρὰ στρατηγῷ συμφώνως
+r.18   παρὰ βασιλικῷ γραμματεῖ συμφώνως
+r.19   παρὰ ἐξαριθμητῇ συμφώνως.
+
+[TRANSLATION]
+# HGV-EN: Soknopaiou Nesos, one camel. To Theodoros the strategos and to Timagenes the royal scribe of the Herakleides division of the Arsinoite Nome, from Harpagathes son of Pakysis, grandson of Pneferos, from the town of Soknopaiou Nesos. That one camel which I declared at my town during the 20th year I am also declaring now in the 21st year of our lord Antoninus Caesar at my town. One camel was registered at the office of the strategos, by his assistant Anoubion, 4 Mecheir. One camel was registered at the office of the royal scribe, 4 Mecheir. It was counted at the office of the strategos accordingly. By the office of the royal scribe accordingly. I accept the tally(?).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

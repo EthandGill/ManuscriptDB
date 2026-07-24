@@ -1,0 +1,34 @@
+[META]
+id:       JRA 34.14_2
+label:    JRA 34.14_2
+name:     Receipt — Fundort: Berkou
+genre:    receipts
+date:     91 CE
+language: Greek (Koiné)
+found:    Fundort: Berkou
+held:     Qift
+shelf:    
+content:  Receipt from Fundort: Berkou (91 CE)
+# hgv-keywords: Quittung — Speicher — Kameltreiber
+tm:       978718
+source:   https://papyri.info/ddbdp/jra;34;14_2
+lat:      26.8682257656
+lon:      33.1091850764
+
+[GREEK]
+r.1    … ς θησαυροφύλαξ
+r.2    … Ποσιδωνίου καμηλίτῃ χαίρειν.
+r.3    [ἔλαβον] εἰς Βερκου ἀπὸ καμη
+r.4    … [ἀ]ρτάβας ἑβδομήκον[τα] [πέντ]ε καὶ οὐηξιλλαρίου
+r.5    [ἀρτάβας] [π]έντε, γίνονται ἀρτάβαι π. ἔτους ια
+r.6    [Δομιτιαν]οῦ τοῦ κυρίου, Θωθ κβ̅
+
+[TRANSLATION]
+# HGV-EN: [NN], guard of the granary, [to NN] son of Posidonios, camel driver, greetings. [I have received] in Berkou, from Kames?, seventy five artabas, and, (from?) the vexillarius, five [artabas?], total 80 (artabas). 11th year of Domitian our lord, Thoth 22.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

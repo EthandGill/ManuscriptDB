@@ -1,0 +1,30 @@
+[META]
+id:       BGU 1.202
+label:    BGU 1.202
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     154 CE – 155 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (154 CE – 155 CE)
+# hgv-keywords: Quittung — Getreide (Saat) — Besitz des Seneca
+tm:       8965
+source:   https://papyri.info/ddbdp/bgu;1;202
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    σπερμάτων ιη ἔτους Ἀντωνείνου
+r.2    Καίσαρος τοῦ κυρίου ιζ κληρουχίας
+r.3    Ἀπολλώνιος Λιμναίου
+r.4    Καρανίδος Σενεκιανῆς ἀρουρῶν ε 𐅸 η.
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 18 of Antoninus Caesar, the lord. 17th cleruchy. Apollonios, son of Limnaios. At Karanis 5 3/4 1/8 arouras on the Senecan (estate).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

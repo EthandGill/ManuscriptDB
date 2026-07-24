@@ -1,0 +1,38 @@
+[META]
+id:       P.RYL 2.191
+label:    P.RYL 2.191
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     117 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (117 CE)
+# hgv-keywords: Quittung (Steuern)
+tm:       12965
+source:   https://papyri.info/ddbdp/p.ryl;2;191
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἔτους [ἐννεακαιδεκάτου] Αὐτοκράτορος Κ[αίσαρος Νερούα Τραιανο]ῦ Ἀρίστου Σεβαστοῦ
+r.2    Γερμανικοῦ Δ[ακικοῦ Ἁθὺρ] δ εἰς ἀρίθμησιν Φαῶφ[ι. διέγραψε ] … ταμουηλ καὶ μετόχοις
+r.3    πράκτορσιν ἀργυρικῶν Σ[οκνοπαίου] [Στο]τοῆτις Σαταβ[ο]ῦτος [μητρὸς ][Ταμ]ύσθας συνταξίμου
+r.4    ἐννεακαιδεκάτου ἔτους δραχμὰς ὀκτώ, γίνονται δραχμαὶ η, Χοίακ κϛ δραχμὰς [ὀκτώ,] γίνονται δραχμαὶ η, φυλάκων δραχμὰς δύο ἡμιωβέλιον, γίνονται δραχμαὶ β ἡμιωβέλιον ,
+r.5    Μεχεὶρ κη δραχμὰς τέσσαρας, γίνονται δραχμαὶ δ, μαγδωλοφυλάκων διώβολον χαλκοῦς δ, Παῦνι δ δραχμὰς δεκαέξ, γίνονται δραχμαὶ ιϛ,
+r.6    Καισαρείου κϛ δραχμὰς ὀκτὼ ἡμιωβέλιον χαλκοῦς β, γίνονται δραχμαὶ η ἡμιωβέλιον χαλκοὶ β, ποταμοφυλακίας ὀβολὸν, δεσμοφυλακίας ἡμιωβέλιον ,
+r.7    κ ἔτους Τρα[ια]νοῦ Φαρμοῦθι κη ἐπικεφαλαίου ιθ ἔτους δραχμὰς δεκαὲξ ὀβολοὺς β [𐅵,] γίνονται δραχμαὶ ιϛ [ὀβολοὶ] β 𐅵, φυλάκων ὀβολὸν,
+r.8    μαγδωλοφυλάκων ὀβολὸν, δεσμοφυλακίας ἡμιωβέλιον ?.
+
+[TRANSLATION]
+# HGV-EN: ‘The 19th year of the Emperor Caesar Nerva Trajanus Optimus Augustus Germanicus Dacicus, Hathur 4, for the account of Phaophi. Paid by Stotoëtis son of Satabous and Tamustha to … tamouel … and his associates, collectors of money-taxes at Socnopaei Nesus for the contribution of the 19th year eight drachmae, total 8 dr., Choiak 26 eight drachmae, total 8 dr., for the guards-tax two drachmae ½ obol, total 2 dr. ½ ob., Mecheir 28 four dr., total 4 dr., for the tower-guards 2 ob. 4 chalci, Pauni 4 sixteen dr., total 16 dr., Caesareus 26 eight dr. ½ ob. 2 ch., total 8 dr. ½ ob. 2 ch., for the river-guard 1 ob., for the prison-guard ½ ob., 20th year of Trajan, Pharmouthi 28, for the poll-tax of the 19th year sixteen dr. 2½ ob., total 16 dr. 2½ ob., for the guards-tax 1 ob., for the tower-guards 1ob., for the prison-guard ½ ob.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

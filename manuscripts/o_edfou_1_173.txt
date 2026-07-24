@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.173
+label:    O.EDFOU 1.173
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     151 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (151 CE)
+# hgv-keywords: Quittung
+tm:       74211
+source:   https://papyri.info/ddbdp/o.edfou;1;173
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Σενπετεσθεῦς Ἀχιλλᾶτος [Ῥούφου]
+r.2    λαογραφίας καὶ ἄλλου ιδ ἔτους Ἀντων[ίνου]
+r.3    Καίσαρος τοῦ κυρίο[υ Σεβαστοῦ]
+r.4    δραχμὰς ιβ γίνονται δραχμαὶ ιβ ἔτους ιε Θὼθ κ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

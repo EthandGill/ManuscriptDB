@@ -1,0 +1,32 @@
+[META]
+id:       BGU 1.359
+label:    BGU 1.359
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     180 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (180 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       9082
+source:   https://papyri.info/ddbdp/bgu;1;359
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἔτους εἰκοστοῦ Αὐρηλίων Ἀντωνείνου
+r.2    καὶ Κομμόδου τῶν κυρίων Σεβαστῶν
+r.3    Παχὼν ια. διέγραψε Σωτᾷ καὶ μετόχοις πράκτορσι
+r.4    ἀργυρικῶν κώμης Σοκνοπαίου Νήσου Ὀννῶφρις Στοτοήτεως ὑπὲρ χωμάτων τοῦ διεληλυθότος ιθ ἔτους ῥυπαρὰς δραχμὰς
+r.5    ἑπτὰ τετρώβολον χαλκοῦς 2 γίνονται ῥυπαραὶ δραχμαὶ ζ τετρώβολον χαλκοὶ 2.
+
+[TRANSLATION]
+# HGV-EN: Year twenty of the Aurelii, Antoninus and Commodus, the lords Augusti, Pachon 11. Paid to Sotas and his associates, collectors of money taxes of the village of Soknopaiou Nesos (by) Onnophris, son of Stotoetis, for dike taxes of the past 19th year, seven dirty drachmas 4 obols 2 chalkoi, = 7 dirty drachmas 4 obols 2 chalkoi.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

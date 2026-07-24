@@ -1,0 +1,30 @@
+[META]
+id:       O.DEISS 78
+label:    O.DEISS 78
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     216 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Sydney
+shelf:    
+content:  Receipt from Theben (Ägypten) (216 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       73893
+source:   https://papyri.info/ddbdp/o.deiss;;78
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος κδ ἔτους Μάρκου Αὐρηλίου
+r.2    Σεουήρου Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.3    Μεσορὴ ιδ. ὑπὲρ Χάρακος ὀνόματος Σ … ερκ … καὶ Σεύθου
+r.4    … λονος Ο … πυροῦ τέταρτον κδ γίνεται πυροῦ δ κδ.
+r.5    Α Δι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

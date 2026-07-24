@@ -1,0 +1,28 @@
+[META]
+id:       O.BERL 57
+label:    O.BERL 57
+name:     Receipt — Theben
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (144 CE)
+# hgv-keywords: Quittung — Pachtzins
+tm:       24454
+source:   https://papyri.info/ddbdp/o.berl;;57
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ζ ἔτους Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου Ἐπεὶφ δ ὑπὲρ Χάρακος ὀνόματος
+r.3    Σενηρακλ Ἀπολλοδώρου πυροῦ τρίτον, γίνεται πυροῦ γ.
+r.4    Ἑρμ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

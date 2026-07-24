@@ -1,0 +1,62 @@
+[META]
+id:       P.Oxy. 8.1160
+label:    P.Oxy. 8.1160
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     201 CE – 400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (201 CE – 400 CE)
+# hgv-keywords: Brief (privat) — Trophimus an seinen Vater Origenes
+tm:       31726
+source:   https://papyri.info/ddbdp/p.oxy;8;1160
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    κυρίῳ μου πατρὶ Ὠριγένῃ
+r.2    Τρόφιμος πολλὰ χαίρειν.
+r.3    πρὸ μὲν πάντων πολλά σε ἀσπάζομαι καὶ τὴν σύμβιόν σου Κοπρίαν
+r.4    καὶ Ἰσίδωρον καὶ Φούλλωνα καὶ Ἑλένην
+r.5    καὶ τοὺς ἡμῶν πάντας κατʼ ὄνομα.
+r.6    ἔγραψάς μοι διὰ τῶν σῶν γραμμάτων ὅτι καυχώμενος ἐχόμενα
+r.7    Διοδώρου ὅτι ἔπεμψά σοι ἀργύρια·
+r.8    ἐγὼ γὰρ οὐ καυχῶμαι ἐμαυτὸν [ἃ] ἔπεμψά σοι διὰ Φιλοξένου. εἰ πεπράκατε
+r.9    δὲ τὰ εἴδη ἃ ὑμᾶς ἔπεμψα, γράψον
+r.10   μοι ἵνα ἄλλα ὑμῖν πέμπω.
+r.11   διμήνου δὲ ἤργηκα ὧδε, εἰ μή,
+r.12   ἤμελλα ὑμῖν πᾶ[σ]ι ἄλλα πέμπειν.
+r.13   ἃ σεσύληκα δὲ κέρμα[τα] τηρῶ αὐτὰ εἰς τὴν δίκην· τὰ ὑπομνήματα γὰρ μένω. ἔγραψάς μοι
+r.14   ὅτι ἐνέτ[υ]χε κατὰ Πολυδεύκους·
+r.15   ἐὰν δὲ ἔλθῃ μοι τὰ ὑπομνήματα, ἐντυγ χάνω κατʼ αὐτοῦ
+r.16   καὶ κατὰ Σαραποδώρου. εἰ δοκεῖ σοι δέ, πέμψον μοι κούκκουμαν ἐλαίου. ἔγραψάς μοι δὲ ὅτι κάθῃ ἐν Ἀλεξανδρίᾳ μετὰ τοῦ
+r.17   μοιχοῦ σου· γράψον μοι δὲ τίς ἐστιν
+r.18   ὁ μοιχός μου.
+r.19   ἐρρῶσθαί σε εὔχομαι.
+r.20   ἀπόδος Ὠριγέν[ει] παρὰ Τροφίμου.
+
+[TRANSLATION]
+# HGV-EN: To my revered father Origenes, many greetings from Trophimus. Before all else I send many salutations to you and your consort Copria and Isidorus and Phullon and Helene and all our friends severally. You wrote to me in your letter that my boastfulness earns me the name of “Gift of Zeus” because I sent you money; but I do not boast about what I sent you by Philoxenus. If you have sold the various things which I sent you, write to me in order that I may send you more. I have been idle here for two months, otherwise I would have sent you all some more. I am keeping for the trial the money that I have collected; for I am waiting for the memoranda. You wrote to me, “Petition against Polydeuces.” If the memoranda come to me, I will petition against him and against Sarapodorus. If it seems good to you, send me a pot of oil. You wrote to me “You are staying at Alexandria with your paramour”. Write and tell me, who is my paramour. I pray for your health. (Addressed) Deliver to Origenes from Trophimus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

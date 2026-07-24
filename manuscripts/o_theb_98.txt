@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 98
+label:    O.THEB 98
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     111 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (Ägypten) (111 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76468
+source:   https://papyri.info/ddbdp/o.theb;;98
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πεβῶς πράκτωρ Πετεχῶντι
+r.2    Πετεμενώφιος μητρὸς Κρονιαίνης.
+r.3    ἔσχον ὑπὲρ χωματικοῦ Ἀγορῶν ιδ ἔτους ῥυπαρὰς δραχμὰς ἑπτὰ πεντώβολον δίχαλκον.
+r.4    ἔτους ιε Τραιανοῦ Καίσαρος Φαῶφι
+r.5    λιγ. Γ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

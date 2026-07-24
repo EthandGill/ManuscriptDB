@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 3.463
+label:    O.EDFOU 3.463
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (1 CE – 100 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       54000
+source:   https://papyri.info/ddbdp/o.edfou;3;463
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    μεμέτρηκεν
+r.2    Πετεσάϊς Ἱεράκος [εἰς] θησαυρὸν
+r.3    Ἀπολλωνος πόλεως πυροῦ ἀρτάβας ζ
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,28 @@
+[META]
+id:       O.BANKES 70
+label:    O.BANKES 70
+name:     Documentary papyrus — Elephantine
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Documentary papyrus from Elephantine (101 CE – 200 CE)
+# hgv-keywords: Aufstellung — Geld
+tm:       699543
+source:   https://papyri.info/ddbdp/o.bankes;;70
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    … , ιγ δραχμαὶ γ,
+r.2    [ιδ δραχμαὶ] … , [ι]ε δραχμαὶ β τριώβολον, ιϛ δραχμαὶ α διώβολον
+r.3    [ιζ δραχμαὶ] … , ιη δραχμαὶ β, ιθ διώβολον,
+r.4    [κ δραχμαὶ] … , γίνονται δραχμαὶ ιϛ τετρώβολον
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

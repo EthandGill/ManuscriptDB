@@ -1,0 +1,34 @@
+[META]
+id:       SB 3.6223
+label:    SB 3.6223
+name:     Documentary papyrus — Alexandria
+genre:    documents
+date:     198 CE
+language: Greek (Koiné)
+found:    Alexandria
+held:     
+shelf:    
+content:  Documentary papyrus from Alexandria (198 CE)
+# hgv-keywords: Bestellung — Frauenvormund
+tm:       18820
+source:   https://papyri.info/ddbdp/sb;3;6223
+lat:      31.201435
+lon:      29.909773
+
+[GREEK]
+r.1    Μηουία Διονυσάριον ᾐτησάμη[ν] [κύριον] ἐπιγραφόμενον Ἰούλιον Ἀλέξανδρον, ὡς πρόκιται. Γάιος Ἰούλιος Ἡρακλᾶς ἔγραψα ὑπὲρ αὐτῆς
+r.2    γράμματα μὴ εἰδυίης.
+r.3    Μηουία Διονυσάριον ᾐτησάμην κύριον ἐπιγραφόμενον Ἰούλιον Ἀλέξανδρον, ὡς πρόκειται. Γάιος Ἰούλιος
+r.4    Ἡρακλᾶς ἔγραψα ὑπὲρ αὐτῆς γράμματα μὴ εἰδυίης.
+r.5    Μεβίας Διονυσαρίου αἰτουμένης
+r.6    κύριον Γάϊον Ἰούλιον Ἀλέξανδρον.
+
+[TRANSLATION]
+# HGV-EN: (From J.E. Grubbs, Women and the Law in the Roman Empire, 2002, p. 37.) Q. Aemilius Saturninus, prefect of Egypt, with C. Terentius Sarapammon bringing the request, gave as tutor to Mevia Dionysarion, according to the Julian and Titian law and the decree of the Senate, M. Julius Alexander, provided that tutela does not pass from a legitimate tutor. D. E. R. E. E. B. T. S. S. Transacted at Alexandria in Egypt on the ninth day before the Kalends of October in the consulship of Saturninus and Gellus, in the seventh year of the Emperors Caesars L. Septimius Severus Pius Pertinax Arabicus Adiabenicus Parthicus Maximus and M. Aurelius Antoninus the Augusti, in the month Thot on day 26. I, Mevia Dionysarion, have requested as registered (guardian) Julius Alexander, as above. I, Gaius Julius Heraklas, have written on her behalf as she does not know letters.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

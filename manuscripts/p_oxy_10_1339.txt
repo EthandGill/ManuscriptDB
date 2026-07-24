@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 10.1339
+label:    P.Oxy. 10.1339
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     270 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (270 CE)
+# hgv-keywords: Abrechnung — Reisekosten
+tm:       21793
+source:   https://papyri.info/ddbdp/p.oxy;10;1339
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    εἰς ἀποδημίαν Σιναρὺ
+r.2    ὑπὲρ τιμῆς λαχάνων καὶ ᾠῶν δραχμαὶ τ,
+r.3    ψοῶν δραχμαὶ σ,
+r.4    ὀρνέου δραχμαὶ τ,
+r.5    Γελασίωι δραχμαὶ ω,
+r.6    τῷ αὐτῷ δραχμαὶ ψ,
+r.7    Χοίακ κγ εἰς χεῖρας
+r.8    τοῦ γεούχου δραχμαὶ Αφ,
+r.9    Ἀμμωνίῳ ὑπηρέτῃ δραχμαὶ Ασ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

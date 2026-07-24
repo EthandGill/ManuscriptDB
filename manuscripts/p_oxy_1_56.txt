@@ -1,0 +1,64 @@
+[META]
+id:       P.Oxy. 1.56
+label:    P.Oxy. 1.56
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     203 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (203 CE)
+# hgv-keywords: Antrag auf Bestellung eines Kyrios — damnatio memoriae des Geta
+tm:       20718
+source:   https://papyri.info/ddbdp/p.oxy;1;56
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Μαξίμῳ ἱερεῖ ἐνάρχῳ ἐξηγητῇ
+r.2    βουλευτῇ
+r.3    παρὰ Ταβησάμμωνος Ἀμμωνίου τοῦ καὶ Κασσίου ἀπʼ Ὀξυρύγχων
+r.4    πόλεως, μητρὸς Διοφαντίδος
+r.5    ἀστῆς. δανειζομένη εἰς ἀναγκαίας μου χρείας ἀργύριον ἔντοκον ἐν δραχμαῖς ἑξακισχιλίαις
+r.6    ἐπʼ ἀσφαλείᾳ τοῦ ὑπάρχοντός μοι
+r.7    περὶ κώμην Σιναρὺ ἀμπελικοῦ
+r.8    κτήματος καὶ ἀνηκόντων αὐτῷ
+r.9    πάντων, αἰτοῦμαι διὰ σοῦ, ἐπισταμένη γράμματα τῷ τὸν διαδεχόμενον τὴν στρατηγίαν βασιλικὸν γραμματέα μὴ ἐνδημεῖν,
+r.10   ἐπιγραφῆναί μου κύριον πρὸς
+r.11   μόνην ταύτην τὴν οἰκονομίαν
+r.12   Ἀμοιτᾶν Πλουτίωνος μητρὸς
+r.13   Δημητροῦτος ἀπὸ τῆς προκειμένης Ὀξυρύγχων πόλεως, παρόντα καὶ εὐδοκοῦντα. διέγραψα δὲ
+r.14   τὸ ὡρισμένον τῆς αἰτήσ[εω]ς τέλος. ἔτους ιβ Αὐτοκρατόρων
+r.15   Καισάρων Λουκίου Σεπτιμίου
+r.16   Σεουήρου Εὐσεβοῦς Περτίνακος
+r.17   Ἀραβικοῦ Ἀδιαβηνικοῦ Παρθικοῦ
+r.18   Μεγίστου καὶ Μάρκου Αὐρηλίου
+r.19   Ἀντωνίνου Εὐσεβοῦς Σεβαστῶν
+r.20   Καίσαρος Σ[εβ]αστοῦ, Φαῶφι λ.
+r.21   Ταβ[ησάμμων Ἀμ]μωνίου ἐπιδέ[δωκα. Ἀμοιτ]ᾶς Πλουτίωνος ε[ὐδοκῶ].
+
+[TRANSLATION]
+# HGV-EN: (From: edition.) To Maximus, priest, exegetes in office, and councilor, from Tabesammon, the daughter of Ammonius otherwise called Cassius, of Oxrhynchus, her mother being Diophantis, a citizen. As I am borrowing for my pressing needs a sum of money at interest, amounting to six thousand drachmae, upon the security of property consisting of a piece of vine land and all its appurtenances near the village of Oinaru, I make the request through you, being aware … that the royal scribe, the acting strategus, is absent, that I may have assigned to me as my guardian for this transaction only Amoitas, son of Ploution and Demetrous, of the aforesaid city of Oxyrhynchus, who is present and gives his consent. I have paid the appointed tax for making such a request. (Date, signatures)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    

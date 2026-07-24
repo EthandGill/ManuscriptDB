@@ -1,0 +1,26 @@
+[META]
+id:       SB 1.4511b
+label:    SB 1.4511b
+name:     Documentary papyrus — Ta Memnoneia (Theben)
+genre:    documents
+date:     234 BCE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Documentary papyrus from Ta Memnoneia (Theben) (234 BCE)
+# hgv-keywords: Vermerk — Buchung
+tm:       5632
+source:   https://papyri.info/ddbdp/sb;1;4511b
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    ἔτους ιγ, Ἁθὺρ κβ. πέπτωκεν
+r.2    εἰς κιβωτὸν ἐν τοῖς
+r.3    Μεμνονέοις.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,32 @@
+[META]
+id:       ZPE 192.196_4
+label:    ZPE 192.196_4
+name:     Receipt — Elephantine
+genre:    receipts
+date:     146 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (146 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       382554
+source:   https://papyri.info/ddbdp/zpe;192;196_4
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Παπρεμίθης [καὶ Βιῆνιχς πράκτορες ἀργυρικῶν] [Ἐλε]φαντίνης δι’ Ἀμ[μωνίου βοηθοῦ. διέγραψεν]
+r.2    Παχνοῦβις Π[ετορζμήθου] [μητρὸς]
+r.3    Θιψανσνῶτες ὑπὲρ μερ[ισμοῦ] [ι ἔτους]
+r.4    Ἀντωνίνου Καίσαρος [τοῦ]
+r.5    κυρίου, δραχμὰς τέσσαρας,
+r.6    γίνονται δραχμαὶ δ Φαῶφι ια
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

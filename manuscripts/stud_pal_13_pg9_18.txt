@@ -1,0 +1,28 @@
+[META]
+id:       STUD.PAL 13.pg9_18
+label:    STUD.PAL 13.pg9_18
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     108 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (108 CE)
+# hgv-keywords: Quittung — Steuer (Juden)
+tm:       23133
+source:   https://papyri.info/ddbdp/stud.pal;13;pg9_18
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    δ ἀμφόδου
+r.2    Σενσιμωνοῦς Σίμωνος
+r.3    Ἰουδαίων ι ἔτους Τραιανοῦ τοῦ κυρίου
+r.4    δραχμὰς δ τετρώβολον. ἔτους ια Τῦβη η.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

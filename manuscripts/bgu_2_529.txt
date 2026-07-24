@@ -1,0 +1,60 @@
+[META]
+id:       BGU 2.529
+label:    BGU 2.529
+name:     Documentary papyrus — Karanis (Arsinoites)
+genre:    documents
+date:     216 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Karanis (Arsinoites) (216 CE)
+# hgv-keywords: Bericht — Sitologen
+tm:       9220
+source:   https://papyri.info/ddbdp/bgu;2;529
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Αὐρηλίῳ Ἰσιδότῳ τῷ καὶ Ὠριγένῃ βασιλικῷ γραμματεῖ Ἀρσινοίτου Ἡρακλείδου
+r.2    μερίδος διαδεχομένῳ τὰ κατὰ [τὴν] στρατηγίαν
+r.3    παρὰ Αὐρηλίων Λογγίνου τοῦ καὶ Ζωσίμου καὶ … τησι … αι
+r.4    … καὶ μετόχων σιτολόγων κώμης Καρανίδος
+r.5    μη[ν]ιαῖος ἐν κεφαλαίῳ τ[ο]ῦ Παῦνι μηνὸς τοῦ ἐνεστῶτος
+r.6    [κδ ἔτους ἀ]πὸ γενημάτων τοῦ αὐτοῦ ἔτους. εἰσὶ αἱ [μετ]ρηθεῖ[σαι ][ἡμ]ῖν ἐν θησαυρῷ τῆς προκειμένης κώμης τῷ[δε τῷ μηνὶ]
+r.7    [ὑπὲρ] ἀννώνας πυροῦ ἀρτάβας νγ
+r.8    [κριθῆς] ἀρτάβας λγ, ὧν αὐτῆς
+r.9    [Καρανί]δος πυροῦ ἀρτάβας λ κριθῆς ἀρτάβας λ
+r.10   [καὶ ][κ]ώμης Κερκεσούχων πυροῦ ἀρτάβας κ κριθῆς ἀρτάβας γ
+r.11   Π … πυροῦ ἀρτάβας γ γῆ ὑπὲρ ἄλλων κωμῶν πυροῦ ἀρτάβας κγ κριθῆς γ
+r.12   γίνονται αἱ προκείμεναι.
+r.13   καὶ ἐγλόγου τοῦ προτέρου μηνὸς πυροῦ ἀρτάβας ριη
+r.14   κριθῆς ἀρτάβας ρογ
+r.15   σὺν δὲ τῇ ἐγλόγῳ πυροῦ ἀρτάβας ροα
+r.16   κριθῆς ἀρτάβας σϛ
+r.17   ἔτους κδ Μάρκ[ου Α]ὐρηλ[ίου Σευήρου Ἀντωνίνου Παρθικοῦ]
+r.18   Μεγίστου Βρετα[ννικο]ῦ Μεγί[στου Γερμανικοῦ Μεγίστου ][Εὐσεβοῦς]
+r.19   Σεβαστοῦ Ἐπὶφ … .
+
+[TRANSLATION]
+# HGV-EN: To Aurelius Isidotos alias Horigenes, royal scribe of the Arsinoite nome, Herakleides division, administering the concerns of the office of the strategos, from the Aurelii Longinus alias Zosimos and [K]tesi[as] alias [Polydeukes] and associates, sitologoi of the village of Karanis. Monthly summary of the month of Payni of the present [year 24] from the produce of the same year. Measured to us at the granary for the above mentioned village in this month there are for the annona 53 artabas of wheat, 33 artabas of barley, of which for Karanis itself (there are) 30 artabas of wheat, 30 artabas of barley, and for the village of Kerkesoucha 20 artabas of wheat, 3 artabas of barley, for P[tolemais (?)] 3 artabas of wheat, = on behalf of other villages 23 artabas of wheat, 3 artabas of barley, = the above mentioned. And from the balance of the account of the previous month 118 artabas of wheat, 173 artabas of barley, with the balance of this account 171 artabas of wheat, 206 artabas of barley. Year 25 of Marc[us Au]rel[ius] Severus Antoninus Parthicus Maximus Brita[nnicus] Maximus [Germanicus Maximus Pius] Augustus, Epeiph [x].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

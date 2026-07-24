@@ -1,0 +1,28 @@
+[META]
+id:       P.YALE 1.48
+label:    P.YALE 1.48
+name:     Letter — Ankyron (Herakleopolites)
+genre:    letters
+date:     230 BCE
+language: Greek (Koiné)
+found:    Ankyron (Herakleopolites)
+held:     
+shelf:    
+content:  Letter from Ankyron (Herakleopolites) (230 BCE)
+# hgv-keywords: Brief (amtlich) — Asklepiades an Kleitarchos — Anweisung — Kommen
+tm:       8274
+source:   https://papyri.info/ddbdp/p.yale;1;48
+lat:      28.766518
+lon:      30.916624
+
+[GREEK]
+r.1    [Ἀσκληπιάδης]
+r.2    Κλειτάρχωι
+r.3    χαίρειν. παραγίνου τῆι
+r.4    κθ τοῦ Φαμενὼθ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

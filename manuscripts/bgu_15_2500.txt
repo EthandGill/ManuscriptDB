@@ -1,0 +1,32 @@
+[META]
+id:       BGU 15.2500
+label:    BGU 15.2500
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     155 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (155 CE)
+# hgv-keywords: Quittung — Steuer — Bier — Münzen
+tm:       9760
+source:   https://papyri.info/ddbdp/bgu;15;2500
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους [ὀ]κτοκαιδεκάτου Αὐτοκράτορο[ς]
+r.2    Καίσαρ[ο]ς Τίτου Αἰλίου Ἁδ[ρι]ανοῦ
+r.3    Ἀντωνίνου Σεβαστοῦ Εὐσεβοῦς,
+r.4    Πα[χὼ]ν κδ. διέγραψε Πτολεμαῖος
+r.5    Φαν[ομγ]έως ὑπὲρ κατʼ ἄνδρα ζυτηρᾶς τοῦ αὐτοῦ [ἔτους ] … -
+r.6    ιάδ[ος δραχμὰς ][τέσ]σαρας τετρώβολον, γίνονται δραχμαὶ δ τετρώβολον
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

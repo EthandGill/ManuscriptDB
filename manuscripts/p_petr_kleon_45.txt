@@ -1,0 +1,38 @@
+[META]
+id:       P.PETR.KLEON 45
+label:    P.PETR.KLEON 45
+name:     Letter — Fundort: Gurob; Schreibort: Arsinoites
+genre:    letters
+date:     260 BCE – 236 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Letter from Fundort: Gurob; Schreibort: Arsinoites (260 BCE – 236 BCE)
+# hgv-keywords: Brief — Arbeit — Kanal — Ladung (?)
+tm:       78716
+source:   https://papyri.info/ddbdp/p.petr.kleon;;45
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    … εισα …
+r.2    καὶ πα[ρ]ακαθέστηκεν …
+r.3    τῆς πονηρίας ψιθυρίζω[ν] κα[ὶ] …
+r.4    ἔγραψα Πετεχώνσει παραγεν[έσθαι] [ἵνα] …
+r.5    ποιήσηται τῆς διώρυγος τῆς ἀ[πὸ] …
+r.6    νι τούτων ἔ[γ]γυος ἐφ’ ὧι ὀρύξει τὴν …
+r.7    μων ἔργοις ἐπὶ τῆς ἐγβατ[ηρίας] …
+r.8    τέσσαρες. ὑπὲρ δὲ τοῦ λιπουργίου …
+
+[TRANSLATION]
+# HGV-EN: [...] and he has appointed [...] of the wickedness, whispering and [...] I have written to Petechonsis that he should come [so that] he can make [...] of the canal [...] surety for them, on condition that he shall dig the [...] works at the landing stage [...] four. Concerning the lipourgion [...]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

@@ -1,0 +1,28 @@
+[META]
+id:       APF 56.263_3
+label:    APF 56.263_3
+name:     Receipt — Theben
+genre:    receipts
+date:     88 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Uppsala
+shelf:    
+content:  Receipt from Theben (88 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       133430
+source:   https://papyri.info/ddbdp/apf;56;263_3
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    διαγέγραφε Νεφερῶς Παχοίτου
+r.2    ὑπὲρ λαογραφίας Χάρακος ζ ἔτους δραχµὰς ι βαλανευτικοῦ α ὀβολὸν ἡµιωβέλιον, γίνονται ια ὀβολὸς ἡµιωβέλιον
+r.3    καὶ προσδιαγραφόµενα. ἔτους ζ Δοµιτειανοῦ
+r.4    τοῦ κυρίου Φαρµοῦθι λιζ. Ἡρακρακλείδης σεσηµείωµαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

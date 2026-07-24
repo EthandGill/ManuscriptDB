@@ -1,0 +1,36 @@
+[META]
+id:       P.HARR 3.319
+label:    P.HARR 3.319
+name:     Documentary papyrus — unbekannt
+genre:    documents
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     Birmingham
+shelf:    
+content:  Documentary papyrus from unbekannt (301 CE – 400 CE)
+# hgv-keywords: Abrechnung — Namen — Geld — Rückstände
+tm:       998648
+source:   https://papyri.info/ddbdp/p.harr;3;319
+lat:      
+lon:      
+
+[GREEK]
+r.1    λόγος ἐκθέσεως …
+r.2    Παῦλος νομικὸς δηναρίων [μυριάδες] …
+r.3    Μέλας ἰσικιάριος [δηναρίων μυριάδες] …
+r.4    Νεμεσίνῳ δηναρίων …
+r.5    Ἰωάννῃ βαφεῖ δηναρίων μυριάδες …
+r.6    Εὐλογίου σωδω …
+r.7    Φοιβάμμωνι δηναρίων μυριάδες …
+
+[TRANSLATION]
+# HGV-EN: Account of arrears. Paulos, lawyer, … myriads of denarii. Melas, sausage-maker, … myriads of denarii. To Nemesinos … myriads of denarii. To Ioannes, dyer, … myriads of denarii. To Eulogios, …, … myriads of denarii. To Phoibammon, … myriads of denarii. …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

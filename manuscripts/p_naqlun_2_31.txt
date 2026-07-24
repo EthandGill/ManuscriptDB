@@ -1,0 +1,28 @@
+[META]
+id:       P.NAQLUN 2.31
+label:    P.NAQLUN 2.31
+name:     Letter — Naqlun (Arsinoites)
+genre:    letters
+date:     501 CE – 625 CE
+language: Greek (Koiné)
+found:    Naqlun (Arsinoites)
+held:     
+shelf:    
+content:  Letter from Naqlun (Arsinoites) (501 CE – 625 CE)
+# hgv-keywords: Brief oder Eingabe — NN an NN — Fragment — Gerichtsverfahren (?)
+tm:       115541
+source:   https://papyri.info/ddbdp/p.naqlun;2;31
+lat:      29.193771
+lon:      30.876986
+
+[GREEK]
+r.1    … διʼ ὧν ἀνοίγεται . καὶ οἱ ἄλλοι δὲ οἱ παραστάντες ἐλεύθεροι ὄντες ἐμαρτυρήθησαν
+r.2    … [μεγαλο]πρεπείας τῆς σῆς ὥστε προστάξαι ἀνεθῆναι αὐτοὺς διὰ τὴν τοῦ
+r.3    … ερπητον οὖσαν ἐπʼ οὐδὲν καταγ[ν]ωσθέ[ντ]ες
+
+[TRANSLATION]
+# HGV-EN: (…) owing to who (? the will?) is opened. And for the others who appeared (in court), testimony was given that they are free (…) your magnificence as to command them to adjourn (sc. the trial, or maybe the opening of the will?) owing to …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

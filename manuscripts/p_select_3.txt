@@ -1,0 +1,56 @@
+[META]
+id:       P.SELECT 3
+label:    P.SELECT 3
+name:     Contract — Arsinoites
+genre:    contracts
+date:     155 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Contract from Arsinoites (155 CE)
+# hgv-keywords: Darlehen — Geld — Personenbeschreibung
+tm:       13120
+source:   https://papyri.info/ddbdp/p.select;;3
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους ὀκτωκαιδεκάτ[ου Αὐτοκράτορος]
+r.2    Καίσαρος Τίτου Αἰλ[ίου Ἁδριανοῦ]
+r.3    Ἀντωνείνου Σεβαστοῦ [Εὐσεβοῦς μηνὸς Τῦβι]
+r.4    ζ ἐν Τεβτύνι τῆς Πολέμον[ος μερίδος τοῦ]
+r.5    Ἀρσινοίτου νομοῦ. ὁμο[λογεῖ Ταπετε]εῦς Πετεεῦτος τοῦ Δόμνο[υ ἀπὸ κώμης]
+r.6    Κερκεσούχων Ὄρους ὡς ἐτῶν μη [ἄσημος μετὰ κυρίου]
+r.7    τοῦ ἀδελφοῦ Μύσθου ἐτῶν λϛ [οὐλὴ ] …
+r.8    Θεναπύγχι ἀπάτορι μητρὸς Ῥ … [ ὡς ἐτῶν ] …
+r.9    ἀσήμῳ μετὰ κυρίου τοῦ συγγενοῦς …
+r.10   Ποσιδωνίου ἐτῶν λγ ο[ὐλὴ] ὀφρύ[ι δεξιᾷ ἔχειν]
+r.11   παρʼ αὐτ[ῆς] Θεναπύγχεω[ς διὰ χειρὸς ἐξ οἴκου]
+r.12   χρῆσιν ἀρ[γ]υρίου κ[ε]φ[αλαίου δραχμὰς]
+r.13   τριακοσίας ὀγδοή[κοντα] [καὶ τόκου δραχμιαίου]
+r.14   τῇ μνᾷ κατὰ μῆνα [ἕκαστον ὧν καὶ τὴν ἀπόδοσιν]
+r.15   ποιήσεται ἡ Ταπετ[εεῦς τῇ Θεναπύγχι ἐν μηνὶ]
+r.16   Τῦβι τ[οῦ] εἰσιόντ[ος] [ἔτους ][τὰς] [τῆς χρήσεως ἀργυρίου κε]φαλ[αίου] [δραχμὰς] [τριακοσίας] [ὀγδοήκοντα] [ἄνευ]
+r.17   [πάσης ὑπερθέσεως ] …
+
+[TRANSLATION]
+# HGV-EN: In the eighteenth year of Imperator Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, on the seventh month of Tybi, in Tebtunis in the Polemon division in the Arsinoite nome. Tapeteeus, daughter of Peteeus, son of Domnos from the village of Kerkesouchon Oros about 48 years old, unscarred (?), in the presence of her brother Mysthes, her guardian, about 36 years of age with a scar on ... agrees with Theapynchis, fatherless and daughter of [N.N.] about ... years of age, unscarred, in the presence of her guardian, her relation [N.N.], son of Poseidonius with a scar on his right (?) eyebrow, that she has received from her, Thenapynchis, promptly and immediately a loan of three hundred and eighty drachmas at a total interest of one drachma per mina per month, which Tapeteeus will repay Thenapynchis in the month of Tybi of the coming year, the three hundred and eighty silver drachmas of the loan, without delay ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

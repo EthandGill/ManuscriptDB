@@ -1,0 +1,28 @@
+[META]
+id:       O.BANKES 25
+label:    O.BANKES 25
+name:     Receipt — Elephantine
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, merismos)
+tm:       699498
+source:   https://papyri.info/ddbdp/o.bankes;;25
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Πετο Μη [πράκτωρ] ἀργυρικῶν Ἐλεφαντίνης· διέγραψεν Πα …
+r.2    … Ἁρπαήσεως μητρὸς Σενσαω μερισμ ιβ ἔτους παρ …
+r.3    … εικοστ, γίνονται … χ ερσιτ …
+r.4    … νουκυρι …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

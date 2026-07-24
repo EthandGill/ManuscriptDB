@@ -1,0 +1,24 @@
+[META]
+id:       P.BATAV 39
+label:    P.BATAV 39
+name:     Documentary papyrus — Panopolites
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Panopolites
+held:     
+shelf:    
+content:  Documentary papyrus from Panopolites (101 CE – 200 CE)
+# hgv-keywords: Namen
+tm:       48815
+source:   https://papyri.info/ddbdp/p.batav;;39
+lat:      26.5894771637
+lon:      31.7425708648
+
+[GREEK]
+r.1    εὐψύχει ἐβίωσεν ἔτη …
+
+[TRANSLATION]
+# HGV-EN: Fare well! He (or she) lived x years.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     

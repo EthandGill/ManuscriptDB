@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 46.3306
+label:    P.Oxy. 46.3306
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     314 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (314 CE)
+# hgv-keywords: Brief (amtlich) — Ammonianos an Theon — Finanzen
+tm:       15768
+source:   https://papyri.info/ddbdp/p.oxy;46;3306
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … Αὐρήλιος Αμμωνιανὸς ὁ
+r.2    καὶ Γερόντιος λογιστὴς Οξυρυγχίτου
+r.3    Αὐρηλίῳ Θέωνι ἐνάρχῳ πρυτάνει. ὁ κύριός μου διασημότατος
+r.4    καθολικὸς Ἄρριος Διότιμος
+r.5    ἐξ ὧν ε … αι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

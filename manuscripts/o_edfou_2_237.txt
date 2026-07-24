@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 2.237
+label:    O.EDFOU 2.237
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     150 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (150 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       55517
+source:   https://papyri.info/ddbdp/o.edfou;2;237
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους λα Φαρμοῦθι κγ εἰσμεμέτρηκεν εἰς θησαυρὸν
+r.2    Ἀπόλλωνος πόλεως εἰς τὸ αὐτὸ ἔτος Ἀπολλωνοπολίτου Ἁρεμσῦνις
+r.3    Φαράτου πυροῦ ἀρτάβην α 𐅷 γίνεται πυροῦ ἀρτάβη α 𐅷. Ἀπολλώνιος
+r.4    Εὐάγορας μεμέτρημαι λα ἔτους Ἀπολλωνοπολίτου Ἁρεμσῦνις
+r.5    Φαράτου πυροῦ ἀρτάβην μίαν 𐅷 γίνεται πυροῦ ἀρτάβη α 𐅷 ἔτους λα Φαρμοῦθι κγ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

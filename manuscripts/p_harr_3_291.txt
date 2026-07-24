@@ -1,0 +1,52 @@
+[META]
+id:       P.HARR 3.291
+label:    P.HARR 3.291
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     506 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Birmingham
+shelf:    
+content:  Contract from Oxyrhynchos (506 CE)
+# hgv-keywords: Vertrag — Darlehen — Geld
+tm:       998620
+source:   https://papyri.info/ddbdp/p.harr;3;291
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [μετὰ τὴν] ὑπατείαν Φλαουΐων Σαβι[νιανοῦ καὶ Θεοδώρου τῶν]
+r.2    … ἐνδοξοτάτων, Ἁθυρ …
+r.3    [Αὐρήλιο]ς Ἰὼβ υἱὸς Ἰωσὴφ [μητρὸς ἀπὸ]
+r.4    [ἐποικίο]υ Παραιτονίου τοῦ Ὀ[ξυρυγχίτου νομοῦ]
+r.5    [Αὐρηλίῳ] Σερήνῳ υἱῷ Ἀνουθ[ίου μητρὸς] …
+r.6    [ἀπὸ τῆ]ς Ὀξυρυγχιτῶν χαί[ρειν. ὁμολογῶ ἐσχηκέναι]
+r.7    [παρὰ σοῦ] ἐν χρήσει διὰ χειρὸς [ἐξ οἴκου σου εἰς ἰδίας μου]
+r.8    [καὶ ἀνα]γκαίας χρείας χρ[υσοῦ νομισμάτιον ἕν,]
+r.9    [γίνεται χρυσοῦ νομισμάτιον] α κεφαλ[α]ίου, [ἐπὶ τῷ με παρασχεῖν σοι]
+r.10   [ὑπὲρ δι]αφόρου τούτου ἄχ[ρι τῆς ἑξῆς δηλου][μένη]ς προθεσμίας σ …
+r.11   [ὅπερ δι]άφ[ο]ρον καὶ αὐτ[ὸ τὸ κεφάλαιον ἐπάναγ][κες ἀποδ]ώσω σοι ἐν τῷ … [μηνὶ τοῦ ἐνεστῶτος]
+r.12   [ἔτους ][ρπ]γ ρνβ ἐκ νέ[ων καρπῶν τῆς σὺν Θεῷ]
+r.13   [πρώτης ἐπι]νεμήσεως …
+r.14   … σω τὸ εν …
+r.15   … ὁμολογ …
+
+[TRANSLATION]
+# HGV-EN: After the consulship of Flavii Sabinianus and Theodorus, viri gloriosissimi, Hathyr … Aurelius Iob son of Ioseph, mother …, from the hamlet of Paraitoniou of the Oxyrhynchite nome, to Aurelius Serenos son of Anouthios mother …, from the (city) of the Oxyrhynchites, greetings. I acknowledge to have received from you on loan, by hand from your house, for my personal and pressing needs, one gold solidus, total 1 gold solidus, as capital, on condition that I shall provide to you as interest on this ... until the deadline stated below … which interest and the capital itself I shall be bound to repay in the month of … of the present year 183/152, from the crops of the God willing first epinemesis …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

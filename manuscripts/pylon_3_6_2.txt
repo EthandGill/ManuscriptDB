@@ -1,0 +1,36 @@
+[META]
+id:       PYLON 3.6_2
+label:    PYLON 3.6_2
+name:     Receipt — Hermopolites
+genre:    receipts
+date:     601 CE – 800 CE
+language: Greek (Koiné)
+found:    Hermopolites
+held:     Berlin
+shelf:    
+content:  Receipt from Hermopolites (601 CE – 800 CE)
+# hgv-keywords: Quittung — Steuer — Land — Mönche
+tm:       986871
+source:   https://papyri.info/ddbdp/pylon;3;6_2
+lat:      
+lon:      
+
+[GREEK]
+r.1    ⲁⲛⲟⲕ ⲡⲁⲥⲟⲛ ⲥⲟⲗⲟⲙⲟⲛ ⲡμοναχός ⲛⲡτόπος ⲡἅγιος ⲉⲧⲟⲩⲁⲁⲃ ⲁⲡⲁ ⲁⲛⲟⲩⲡ ⲉⲓⲥϩⲁⲓ ⲛⲡⲁⲥⲟⲛ ⲡⲉⲧⲉⲣ
+r.2    ⲙⲉⲛ ⲡⲁⲥⲟⲛ ⲙⲁⲕⲁⲣⲉ ⲛⲉμοναχός
+r.3    ϫⲉ ⲉⲓⲥ ⲟⲩτριμήσιον ⲁϥⲉⲓ ⲉⲧⲟⲟⲧ ϩⲉⲛ
+r.4    ⲡδημόσιον ⲛⲛⲉϩⲓⲟⲓ ⲡⲓⲧⲁⲗ ⲛⲡⲟⲟⲩ
+r.5    ⲡⲁⲓ̈ ⲉⲧⲉ ⲥⲟⲩ ⲙⲛⲧϣⲙⲏⲛⲉ ⲛⲡⲉⲃⲟⲧ ⲭⲓⲁⲭ
+r.6    ⲛⲧⲓⲣⲟⲙⲡⲉ ⲧⲁⲓ ἔνατος ⲛ ἰνδικτίων ⲁⲛⲟⲕ
+r.7    ⲡⲁⲥⲟⲛ ⲥⲟⲗⲟⲙⲟⲛ ⲡⲉⲧϣⲣⲡⲥϩⲁⲓ ⲧⲓστοιχεῖν
+
+[TRANSLATION]
+# HGV-EN: I, the friar Solomon the monk of the place of the holy Saint Apa Anoup, I am writing to the friar Peter and the friar Makare, the monks of Apa Ieremias. Lo, one trimessis came to me for the (land) tax for the (irrigated) fields (called) Pital today, which is day eighteen of the month Choiak, of this very year of the ninth indiction. I, the friar Solomon, who wrote first, I assent.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

@@ -1,0 +1,28 @@
+[META]
+id:       P.Oxy. 74.5019
+label:    P.Oxy. 74.5019
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     101 CE – 125 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (101 CE – 125 CE)
+# hgv-keywords: Orakel — Frage wegen des Kaufs einer Sklavin
+tm:       128325
+source:   https://papyri.info/ddbdp/p.oxy;74;5019
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    εἰ οἶδας ὅτι συμφέρει μᾶλλον ἀγοράσαι
+r.2    παιδίσκην καὶ οὐ συμφέρει οὕτως
+r.3    χρήσασθαι, τοῦτό μοι δός.
+
+[TRANSLATION]
+# HGV-EN: If you know that it is more advantageous to buy a slave girl and (that) it is not advantageous to borrow(?) her like this, give me this. (P. Ripat)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

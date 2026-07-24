@@ -1,0 +1,26 @@
+[META]
+id:       O.MINOR A1
+label:    O.MINOR A1
+name:     Receipt — Theben
+genre:    receipts
+date:     49 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (49 CE)
+# hgv-keywords: Quittung
+tm:       74984
+source:   https://papyri.info/ddbdp/o.minor;;A1
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Παμοντῶς Παμοντεχ … ὑ[πὲρ] … [θ ἒτους]
+r.2    δραχμὰς δ. ἔτους ἐνάτου Τιβερίου Κλαυδίου Καί[σαρος Σεβαστοῦ]
+r.3    Γερμανικοῦ Αὐτοκράτορος Παχὼν …
+
+[TRANSLATION]
+1     
+2     
+3     

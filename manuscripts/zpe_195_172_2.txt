@@ -1,0 +1,28 @@
+[META]
+id:       ZPE 195.172_2
+label:    ZPE 195.172_2
+name:     Receipt — Elephantine
+genre:    receipts
+date:     115 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (115 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Geld
+tm:       400192
+source:   https://papyri.info/ddbdp/zpe;195;172_2
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διὲγραψεν Πετορ[ζμῆθις] …θεως μητρὸς Θιμεαῦτος ὑ[πὲρ] [λαογραφίας]
+r.2    κατὰ μέρος δρα[χμὰς δέκα ἑπτὰ ἡμιωβέλιον]
+r.3    δεσμοφυλακίας ἡμιωβέλιον γίνονται δραχμαὶ ιζ ὀβολὸς ιθ [ἔτους Τραιανοῦ Ἀρίστου]
+r.4    τοῦ κυρίου Ἁθὺρ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

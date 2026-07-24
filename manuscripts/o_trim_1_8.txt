@@ -1,0 +1,40 @@
+[META]
+id:       O.TRIM 1.8
+label:    O.TRIM 1.8
+name:     Documentary papyrus — Trimithis (Oasis Magna)
+genre:    documents
+date:     350 CE – 370 CE
+language: Greek (Koiné)
+found:    Trimithis (Oasis Magna)
+held:     
+shelf:    
+content:  Documentary papyrus from Trimithis (Oasis Magna) (350 CE – 370 CE)
+# hgv-keywords: Abrechnung — Namen — Wein
+tm:       131056
+source:   https://papyri.info/ddbdp/o.trim;1;8
+lat:      25.6677395488
+lon:      28.8708832519
+
+[GREEK]
+r.1    κ …
+r.2    τοῖς … α … κεράμιον α
+r.3    Μαξιμι … κεράμιον α
+r.4    Ἱωνᾶ κεράμια β
+r.5    κε εἰς ἄριστον ἀπ’ ὄξους κ[εράμια] β
+r.6    κη εἰς δεῖπνον ἀπ’ ὄξους α 𐅵
+r.7    … ἀπ’ ὄξους α
+r.8    τῷ … κεράμιον α
+r.9    τῷ σκυτεῖ χόες β
+
+[TRANSLATION]
+# HGV-EN: To the . . ., 1 keramion; to Maximi( ), 1 keramion; to Jonah, 2 keramia; on the 25th, for lunch, from vinegar, 2 keramia; on the 28th, for dinner, from vinegar, 1 ½; . . . from vinegar, 1; to the . . ., 1 keramion; to the cobbler, 2 choes.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

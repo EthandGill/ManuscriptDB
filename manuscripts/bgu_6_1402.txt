@@ -1,0 +1,26 @@
+[META]
+id:       BGU 6.1402
+label:    BGU 6.1402
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     101 BCE – 100 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (101 BCE – 100 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       4701
+source:   https://papyri.info/ddbdp/bgu;6;1402
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους ιδ τέτακται εἰς
+r.2    τὴν σύνταξιν τῶν πορθμικῶν Ποῆρις Ἁρπαήσιος χαλκοῦ δραχμὰς Αχ γίνονται Αχ.
+r.3    Σαραπίων.
+
+[TRANSLATION]
+1     
+2     
+3     

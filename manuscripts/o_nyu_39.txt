@@ -1,0 +1,26 @@
+[META]
+id:       O.NYU 39
+label:    O.NYU 39
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     7 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (7 CE)
+# hgv-keywords: Quittung — Steuer — Geld — Salbe
+tm:       869443
+source:   https://papyri.info/ddbdp/o.nyu;;39
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λζ Φαωφι ε μύρου
+r.2    τετάρτης λϛ ἔτους Ἅρπηκις Σισόιτος
+r.3    δραχμὰς ἑπτὰ ὀβολοὺς δύο, γίνονται ζ διώβολον. Πίσηχθις.
+
+[TRANSLATION]
+1     
+2     
+3     

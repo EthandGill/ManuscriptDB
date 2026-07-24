@@ -1,0 +1,24 @@
+[META]
+id:       P.ALEX inv500
+label:    P.ALEX inv500
+name:     Letter — Arsinoites
+genre:    letters
+date:     1 CE – 400 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Letter from Arsinoites (1 CE – 400 CE)
+# hgv-keywords: Brief (?, amtlich?) — Namen
+tm:       25500
+source:   https://papyri.info/ddbdp/p.alex;;inv500
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … ω … εκτ … παρὰ Νίκωνος
+r.2    … Ἀνδριάντων π[ρε]σβυτέροις κώμης
+
+[TRANSLATION]
+1     
+2     

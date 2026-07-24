@@ -1,0 +1,30 @@
+[META]
+id:       BGU 6.1373
+label:    BGU 6.1373
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     113 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (113 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       4673
+source:   https://papyri.info/ddbdp/bgu;6;1373
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους δ Μεσορὴ τέτακται ἐπὶ τὴν ἐν Ἀπόλλωνος πόλει τῇ μεγάλῃ τράπεζαν
+r.2    νιτρικῆς τοῦ αὐτοῦ ἔτους
+r.3    Ποῆρις Ἁρθώτου
+r.4    δισχιλίας πεντακοσίας
+r.5    γίνονται Βφ. Χαρμογένης τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

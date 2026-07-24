@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1117
+label:    O.BODL 2.1117
+name:     Receipt — Theben
+genre:    receipts
+date:     247 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (247 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71804
+source:   https://papyri.info/ddbdp/o.bodl;2;1117
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Ἐπεὶφ ιζ τοῦ δ ἔτους
+r.2    Πατσεοῦς
+r.3    Κολβηούνιος ὑπὲρ φόρου ἱεροῦ ἀποτάκτου
+r.4    καὶ ἄλλων λημμάτων β ἔτους δραχμὰς ὀκτὼ
+r.5    γίνονται δραχμαὶ η. Αὐρήλιος Δωρίων σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

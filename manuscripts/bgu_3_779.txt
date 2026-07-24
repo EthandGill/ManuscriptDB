@@ -1,0 +1,36 @@
+[META]
+id:       BGU 3.779
+label:    BGU 3.779
+name:     Receipt — Ptolemais Nea (Arsinoites)
+genre:    receipts
+date:     201 CE
+language: Greek (Koiné)
+found:    Ptolemais Nea (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Ptolemais Nea (Arsinoites) (201 CE)
+# hgv-keywords: Quittungen — Steuern — Geld
+tm:       28087
+source:   https://papyri.info/ddbdp/bgu;3;779
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους θ Παῦνι κβ. διέγραψε
+r.2    Διονυσίῳ κ[α]ὶ Λειλᾶτι καὶ
+r.3    μετόχοις πράκτορσιν ἀργυρικῶν κώμης Πτολεμαίδος
+r.4    Νέας εἰδῶν καὶ γεωμετρίας Σεν …
+r.5    Ἀπολιναρίου διὰ Σαβείν[ου]
+r.6    Ζωσίμου δ[ρ]αχμὰς δ[έ]κα ἓξ γίνονται δραχμαὶ ιϛ Ἐπε[ὶ]φ …
+r.7    ὁμοίως [ἄλ]λας δραχμὰς ὀκτώ γίνονται δραχμαὶ [η]
+
+[TRANSLATION]
+# HGV-EN: Year 9, Payni 22. Paid to Dionysios and Leilas and their associates, collectors of money taxes of the village of Ptolemais Nea for eide and geometria, (by) Sen, son of Apolinarios, through Sabein[os], son of Zosimos, sixteen drachmas, = 16 drachmas. Epe[i]ph [x] likewise a further eight drachmas, = [8] drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

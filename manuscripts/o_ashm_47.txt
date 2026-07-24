@@ -1,0 +1,28 @@
+[META]
+id:       O.ASHM 47
+label:    O.ASHM 47
+name:     Receipt — Theben
+genre:    receipts
+date:     169 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (169 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       70496
+source:   https://papyri.info/ddbdp/o.ashm;;47
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁθὺρ β τοῦ ι ἔτους ὀνόματος Ταπύσθιος
+r.2    Φθοσνέως ὑπὲρ γεωμετρίας θ ἔτους Χάρακος
+r.3    δραχμὴν μίαν γίνεται δραχμὴ α καὶ ὀνόματος Ὥρου
+r.4    Νεχθανούπιος ὁμοίως τετρώβολον Α σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

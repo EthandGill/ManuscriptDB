@@ -1,0 +1,32 @@
+[META]
+id:       O.SARGA 126
+label:    O.SARGA 126
+name:     Documentary papyrus — Wadi Sarga
+genre:    documents
+date:     501 CE – 800 CE
+language: Greek (Koiné)
+found:    Wadi Sarga
+held:     
+shelf:    
+content:  Documentary papyrus from Wadi Sarga (501 CE – 800 CE)
+# hgv-keywords: Abrechnung (Wein)
+tm:       36329
+source:   https://papyri.info/ddbdp/o.sarga;;126
+lat:      26.856142
+lon:      31.22027
+
+[GREEK]
+r.1    γνῶσις οἴνου
+r.2    μεγάλα κνίδια ἀπὸ κάδου δ γ
+r.3    μεγάλα κνίδια ἀπὸ κάδου γ β
+r.4    ἀπὸ κάδου β ζ
+r.5    μικρὰ κνίδια ἀπὸ κάδου α
+r.6    μικρὰ καὶ μεγάλα κεφαλαίου οδ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

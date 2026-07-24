@@ -1,0 +1,28 @@
+[META]
+id:       PSI.COM 11.16
+label:    PSI.COM 11.16
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     484 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Florence
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (484 CE)
+# hgv-keywords: Anweisung — Kirche an Serenos (Metzger) — Lieferung — Fleisch
+tm:       220382
+source:   https://papyri.info/ddbdp/psi.com;11;16
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [ ἡ ἁγία ἐκκλησία] … [Σ]ερήνῳ [μαγείρῳ]
+r.2    [παράσχου εἰς] ὑπηρεσίαν Θὼθ κς [η ἰνδικτίονος κρέως]
+r.3    [λίτρας δύο] γινονται κρέως λίτραι β μόνα.
+r.4    … Θὼθ κς η ἰνδικτίονος …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

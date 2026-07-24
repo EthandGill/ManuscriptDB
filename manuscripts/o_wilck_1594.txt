@@ -1,0 +1,28 @@
+[META]
+id:       O.Wilck. 1594
+label:    O.Wilck. 1594
+name:     Receipt — Theben
+genre:    receipts
+date:     256 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (256 CE)
+# hgv-keywords: Quittung — Geld
+tm:       77888
+source:   https://papyri.info/ddbdp/o.wilck;;1594
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [διέ]γραψεν Μεσορὴ λ τοῦ γ ἔτους Οὐαλεριανοῦ
+r.2    [καὶ] Γαλλιηνοῦ Σεβαστῶν Θεόδωρος
+r.3    … δων Ἀγορ β δραχμὰς τεσσαράκοντα
+r.4    γίνονται δραχμαὶ μ. Ἀπολ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

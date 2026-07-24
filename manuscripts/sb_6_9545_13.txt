@@ -1,0 +1,30 @@
+[META]
+id:       SB 6.9545_13
+label:    SB 6.9545_13
+name:     Receipt — Elephantine
+genre:    receipts
+date:     89 CE – 90 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (89 CE – 90 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Namen
+tm:       19075
+source:   https://papyri.info/ddbdp/sb;6;9545_13
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Κτεχνοῦβις Παχνούβιος
+r.2    ὑπὲρ λαογραφίας ἐνάτου ἔτους
+r.3    Δομιτιανοῦ τοῦ κυρίου
+r.4    ἀργυρίου δραχμὰς ιϛ. Σωκράτης πράκτωρ
+r.5    ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

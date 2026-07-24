@@ -1,0 +1,36 @@
+[META]
+id:       O.FRANGE 42
+label:    O.FRANGE 42
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Lettre de salutation — Exercice scolaire? Archives de Frangé
+tm:       140930
+source:   https://papyri.info/ddbdp/o.frange;;42
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ϩⲓⲧ … ⲁϩ
+r.2    ϩⲁ ⲑⲏ μέν ⲙⲡⲁϣⲁϫⲉ
+r.3    ⲛἐλάχιστος ⲉⲓⲥϩⲁⲓ ⲉⲓϣⲓⲛⲉ ⲉⲧⲉⲕⲙⲛⲧⲉⲓⲱⲧ ⲉⲧⲟⲩⲁⲁⲃ ⲙⲛⲛⲉⲕⲥⲛⲏⲩ ⲧⲏⲣⲟⲩ ⲙⲙⲁⲓⲛⲟⲩ[ⲧⲉ]
+r.4    ⲉⲧϩⲁ ϩⲧⲏⲕ ⲁⲩⲱ ϯϣⲓⲛⲉ
+r.5    ⲉⲡϩⲁⲅⲓⲟⲥ ⲁⲡⲁ ⲥⲟⲩⲣⲟⲩⲥ
+r.6    ⲡⲁⲙⲉⲉⲩⲉ ϩⲙ ⲡϥⲓ ⲉϩⲣⲁⲓ
+r.7    ⲛⲛⲉⲕϭⲓϫ ⲉⲧⲟⲩⲁⲁⲃ ⲧⲁⲁⲥ
+r.8    ⲙⲡⲁϫⲟⲉⲓⲥ ⲛⲉⲓⲱⲧ ⲙⲙⲁⲓ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

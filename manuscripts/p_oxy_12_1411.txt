@@ -1,0 +1,42 @@
+[META]
+id:       P.Oxy. 12.1411
+label:    P.Oxy. 12.1411
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     260 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (260 CE)
+# hgv-keywords: Bekanntmachung eines Strategen — Befehl an alle Banken und Händler (Geld) — Annahme der neuen kaiserlichen Währung — Strafe bei Weigerung
+tm:       21821
+source:   https://papyri.info/ddbdp/p.oxy;12;1411
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Αὐρήλιος Πτολεμαῖος ὁ καὶ Νεμεσιανὸς
+r.2    στρατηγὸς Ὀξυρυγχείτου. τῶν δημοσίων εἰς
+r.3    ἓν συναχθέντων καὶ αἰτιασαμένων
+r.4    τοὺς τῶν κολλυβιστικῶν τραπεζῶν
+r.5    τραπεζίτας ὡς ταύτας ἀποκλεισάντας τῷ μὴ βούλεσθαι προσίεσθαι
+r.6    τὸ θεῖον τῶν Σεβαστῶν νόμισμα, ἀ[νάγ]κη γεγένηται παραγγέλματι π[αραγ]γελῆναι πᾶσι τοῖς τὰς τραπέζας κεκτ[ημέ]ν[οι]ς ταύτας ἀνοῖξαι καὶ πᾶν νόμισ[μ]α προσίεσθαι πλὴν μάλισ[τα]
+r.7    παρατύπου καὶ κιβδήλου καὶ κατακ[ερμα]τίζειν, οὐ μόνοις δὲ αὐτοῖς ἀλλὰ [τοῖς]
+r.8    καθʼ ὅντινα δὴ τρόπον τὰς συνα[λλα]γὰς ποιουμένοις, γινώσκουσι[ν]
+r.9    ὡς, εἰ μὴ πειθαρχήσειαν τῇδε τ[ῇ παρ]αγγελίᾳ, πειραθήσονται ὧν τὸ [μέ]γεθος τῆς ἡγεμονίας καὶ ἔτι ἄνω[θεν]
+r.10   ἐπʼ αὐτοῖς γενέσθαι πρ[οσ]έταξεν. ἐσημειωσάμην. ἔτου[ς πρώ]το[υ] Ἁθὺρ ὀγδόη καὶ εἰκάδι.
+
+[TRANSLATION]
+# HGV-EN: From Aurelius Ptolemaeus also called Nemesianus, strategus of the Oxyrhynchite nome. Since the officials have assembled and accused the bankers of the banks of exchange of having closed them on account of their unwillingness to accept the divine coin of the Emperors, it has become necessary that an injunction should be issued to all the owners of the banks to open them, and to accept and exchange all coin except the absolutely spurious and counterfeit, and not to them only, but to all who engage in business transactions of any kind whatever, knowing that if they disobey this injunction they will experience the penalties already ordained for them in the past by his highness the praefect. Signed by me. The 1st year, Hathur 28.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

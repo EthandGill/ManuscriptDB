@@ -1,0 +1,46 @@
+[META]
+id:       BGU 2.409
+label:    BGU 2.409
+name:     Receipt — Philadelphia (Arsinoites, Ägypten) oder Aphroditopolis (Arsinoites, Ägypten)
+genre:    receipts
+date:     313 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites, Ägypten) oder Aphroditopolis (Arsinoites, Ägypten)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites, Ägypten) oder Aphroditopolis (Arsinoites, Ägypten) (313 CE)
+# hgv-keywords: Quittung — Pachtzins
+tm:       9153
+source:   https://papyri.info/ddbdp/bgu;2;409
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    Αὐρήλιος Ἀσῆμις Φαήσιου [ἀπὸ] κώμης [Φι]λαδελφίας τοῦ Ἀρσινοίτου νομοῦ Αὐρηλίοις
+r.2    Ἰσᾶτι καὶ Διοσκόρῳ ἀπὸ τῆς Ἀφροδίτ[ης] πόλεως χαίρειν.
+r.3    ὁμολογῶ μεμισθωκέναι ὑμῖν τὸ [ὑ]πάρχον μοι ἡμιαρούριον ἐν κλήρῳ κ[α]λουμένῳ Παμεινενκλονειω … νωα … οθεν κλήρου ἀρούρης 𐅵 καὶ πεπληρ[ῶσ]θαί με
+r.4    τὸν φόρον ἐκ πλήρους, ὡς πρόκειται. τῆς
+r.5    μισθαποχῆς ταύτης κ[υ]ρ[ίας οὔ]σης πανταχοῦ ἐπιφερο[μένης]
+r.6    καὶ ἐπερωτηθεὶς ὡμολόγησα.
+r.7    ὑπατείας τῶν δεσποτῶν [ἡμῶν]
+r.8    Κονσταντίνου καὶ Λικιννια[νοῦ Σεβασ]τῶν τὸ γ Ἁθὺρ κθ.
+r.9    Αὐρήλιος Ἀσῆμις μεμίσθ[ωκ]α
+r.10   καὶ ἀπέσχον μου τὸν φόρον, ὡς
+r.11   πρόκιται. Αὐρήλιος Ἀμμώνι[ος]
+r.12   ἔγραψα ὑπὲρ αὐτοῦ γράμματα μὴ εἰδότος.
+
+[TRANSLATION]
+# HGV-EN: Aurelius Asemis, son of Phaesios, [from] the village of [Phi]ladelphia, in the Arsinoite nome, to the Aurelii Eisas and Dioskoros, from the city of Aphrodite, greetings. I acknowledge that I have leased to you the half aroura belonging to me in the lot called Pameinenkloneio of the lot, ½ an aroura, and that I have been paid the rent in full, as aforesaid, this rent-receipt being normative wherever it is presented and in answer to the formal question I gave my assent. In the consulship of [our] masters Constantinus and Licinnia[nus], Augusti, for the 3rd time, Hathyr 29. I, Aurelius Asemis, have leased and I have received my rent, as aforesaid. I, Aurelius Ammoni[os], wrote on his behalf, because he does no know letters.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

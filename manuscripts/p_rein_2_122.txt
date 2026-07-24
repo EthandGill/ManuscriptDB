@@ -1,0 +1,30 @@
+[META]
+id:       P.REIN 2.122
+label:    P.REIN 2.122
+name:     Receipt — Theben
+genre:    receipts
+date:     138 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (138 BCE)
+# hgv-keywords: Quittung — Bank — Abgabe der Leinenweber
+tm:       5273
+source:   https://papyri.info/ddbdp/p.rein;2;122
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους λβ Φαμενὼθ β. τέτακται ἐπὶ τὴν
+r.2    ἐν Διὸς πόλει τῆι μεγάληι τράπεζαν, ἐφʼ ἧς Ἑρμόφιλος ἰστέων λινυφαντικῶν
+r.3    Ψενχῶσις Πατήμιος δισχιλίας
+r.4    γίνονται Β Ἑρμόφιλος τραπεζίτης
+r.5    Βμϛ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

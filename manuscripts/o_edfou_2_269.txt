@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 2.269
+label:    O.EDFOU 2.269
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     96 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (96 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74283
+source:   https://papyri.info/ddbdp/o.edfou;2;269
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    δι[έγ]ραψεν Θήδετος Ἀλεξίωνος
+r.2    ὑπὲρ ἰουδαίου τελέσματος ιϛ ἔτους
+r.3    Δομιτια[νοῦ τοῦ κυρίου] δραχμὰς η
+r.4    ἔτους ιϛ Παχὼν ϛ
+r.5    Ἐπὶφ ε δραχμὴν α διώβολον
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

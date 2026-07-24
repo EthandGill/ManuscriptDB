@@ -1,0 +1,42 @@
+[META]
+id:       P.Mich. 21.849
+label:    P.Mich. 21.849
+name:     Contract — Fundort: Karanis (Arsinoites) - 1930
+genre:    contracts
+date:     76 CE – 125 CE
+language: Greek (Koiné)
+found:    Fundort: Karanis (Arsinoites) - 1930
+held:     Ann Arbor
+shelf:    
+content:  Contract from Fundort: Karanis (Arsinoites) - 1930 (76 CE – 125 CE)
+# hgv-keywords: Vertrag — Pacht — Obstgarten
+tm:       756880
+source:   https://papyri.info/ddbdp/p.mich;21;849
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ιδ …
+r.2    σο … δα …
+r.3    ἀρουρῶν δύο ἐν μίᾳ σφρ[αγίδι ἐν] τ[όπωι]
+r.4    Ἀλκιάδι λεγομένῳ εἰς ἔτη πέντε, σοι
+r.5    τῇ Ἰουλιάτι δύο μέρη, ἐμοὶ τῷ μισθωτῆ
+r.6    ἓν μέρος ἐφ’ ᾧ ποιήσω τὰ ἔργ[α] πάντα
+r.7    … κορμολογίᾳ ὅσα καθήκει ἐκ τοῦ
+r.8    ἰδίου, ἐὰν φαίνηται μισθωσάσθαι ἐπὶ τοῖς
+r.9    προκειμένοις
+r.10   Ἀνθέστις Γέμελλος …
+
+[TRANSLATION]
+# HGV-EN: ... two arouras in one plot in [the place] called Alkias for five years, two shares to you, Ioulias, one share to me, the lessee, on the condition that I do all the work ... pruning at my own expense as much as is fitting, if you decide to lease on the above mentioned terms. I, Anthestius Gemellus...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

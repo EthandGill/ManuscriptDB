@@ -1,0 +1,48 @@
+[META]
+id:       P.LEID.INST 1.62
+label:    P.LEID.INST 1.62
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     370 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (370 CE)
+# hgv-keywords: Deklaration eines Systates — Streichung eines toten Mitgliedes der Gilde (Teppichweber) aus der Liste (Steuer)
+tm:       18485
+source:   https://papyri.info/ddbdp/p.leid.inst;1;62
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    χμγ
+r.2    κυρίῳ μου ἀδελφῷ Ἀλεξάνδρῳ μηνιάρχῃ καὶ κοινωνοῖς
+r.3    ἐργασίας ταπηταρίων
+r.4    Ἡράκλειος συστάτης χαίρειν.
+r.5    ἐκούφισα Ἀντίνου
+r.6    Ἡρακλείδου περὶ τοῦ
+r.7    ἀναβολικοῦ τῆς τρεισκαιδεκάτης ἰνδικτίονος·
+r.8    οὐδένα γὰρ λόγον ἔχων
+r.9    πρὸς αὐτὸν περὶ τῆς
+r.10   αὐτῆς συντελείας αὐτοῦ.
+r.11   Ἡράκλειος συστάτης
+r.12   σεσημείωμαι
+r.13   Χοιὰκ ιδ
+
+[TRANSLATION]
+# HGV-EN: To my lord and brother Alexander the monthly president and his associates of the guild of canvas and carpet workers from Heraclius the systates greetings. I have cancelled the name of Antinous, son of Heraclides, on account of the anabolikon tax of the thirteenth indiction, because I have no claim whatsoever on him on account of the said tax of his. I Heraclius the systates have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

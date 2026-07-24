@@ -1,0 +1,30 @@
+[META]
+id:       SB 5.7582
+label:    SB 5.7582
+name:     Receipt — Elephantine
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (144 CE)
+# hgv-keywords: Quittung — Abgabe — Namen
+tm:       17976
+source:   https://papyri.info/ddbdp/sb;5;7582
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σωτὴρ καὶ Παπρεμίθης πράκτορες
+r.2    ἀργυρικῶν Ἐλεφαντίνης. διέγραψεν Τιναβτώους Πετορζμήθης τιμῆς δημοσίου
+r.3    φοίνικος γενημάτων ζ ἔτους Ἀντωνίνου
+r.4    Καίσαρος τοῦ κυρίου δραχμὴν α ὀβολὸν.
+r.5    Παοῖνι κθ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

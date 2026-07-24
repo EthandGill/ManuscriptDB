@@ -1,0 +1,34 @@
+[META]
+id:       O.PETR.MUS 92
+label:    O.PETR.MUS 92
+name:     Receipt — Theben
+genre:    receipts
+date:     153 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (153 BCE)
+# hgv-keywords: Quittung — Speicher — Getreide
+tm:       75312
+source:   https://papyri.info/ddbdp/o.petr.mus;;92
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [ἔτους] [κ]η Παῦνι ια μεμέτρηκεν εἰς
+r.2    [τὸν ἐν Διὸ]ς πόλει τῆι μεγάληι θησαυρὸν
+r.3    κη [ἔτους Σίμω]ν Ὡραίου
+r.4    … πυροῦ πέντε τέταρτον
+r.5    [γίνονται πυροῦ ε τέταρτον.] Ἀμβρύων.
+r.6    … [ μεμέτρημαι] πυροῦ πέντε τέταρτον
+r.7    [γίνονται πυροῦ ε τέταρτον]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

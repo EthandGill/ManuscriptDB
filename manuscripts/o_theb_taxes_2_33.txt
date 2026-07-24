@@ -1,0 +1,26 @@
+[META]
+id:       O.THEB.TAXES 2.33
+label:    O.THEB.TAXES 2.33
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     255 BCE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     
+shelf:    
+content:  Receipt from Theben (Ägypten) (255 BCE)
+# hgv-keywords: Quittung — Steuer — Salzsteuer
+tm:       130053
+source:   https://papyri.info/ddbdp/o.theb.taxes;2;33
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    ἔτους λα Παχωνς ιζ πέπτωκεν
+r.2    ἁλικῆς διὰ Πολιάνθου Κάρνιο[ς]
+r.3    Χίβῶς γυνὴ Πεκυς δραχμὴν α
+
+[TRANSLATION]
+1     
+2     
+3     

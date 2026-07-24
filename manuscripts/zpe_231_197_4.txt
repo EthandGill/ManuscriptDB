@@ -1,0 +1,30 @@
+[META]
+id:       ZPE 231.197_4
+label:    ZPE 231.197_4
+name:     Receipt — Elephantine
+genre:    receipts
+date:     99 CE – 100 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo, Egyptian Museum SR 18955 (6)
+shelf:    
+content:  Receipt from Elephantine (99 CE – 100 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       999714
+source:   https://papyri.info/ddbdp/zpe;231;197_4
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Παεὺς Π …
+r.2    ὑπὲρ λαογραφίας τρ[ίτου ἔτους]
+r.3    Τραιανοῦ Κ[αίσαρος τοῦ]
+r.4    κυρίου ἀργυρίου δραχμὰς [ιζ Ἑρμογένης]
+r.5    ἔ[γραψα]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       BGU 1.205
+label:    BGU 1.205
+name:     Receipt — Patsontis (Arsinoites)
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Patsontis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Patsontis (Arsinoites) (158 CE – 159 CE)
+# hgv-keywords: Quittung — Getreide (Saat)
+tm:       8968
+source:   https://papyri.info/ddbdp/bgu;1;205
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σπερμάτων κβ ἔτους Ἀντωνίνου Καίσαρ[ος]
+r.2    τοῦ κυρίου ξβ κληρ[ουχίας]
+r.3    Δίδυμος Σαραπίωνος Πτολεμαίδος
+r.4    προσόδου ἀρουρῶν δ δ Πατσώντιος δημοσίας ἀρούρης α …
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 22 of Antoninus Caesar, the lord. 62nd cleruchy. Didymos, son of Sarapion. At Ptolemais 4 1/4 arouras of revenue (land), at Patsontis 1 aroura of public (land).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

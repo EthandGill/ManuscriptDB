@@ -1,0 +1,46 @@
+[META]
+id:       P.Oxy. 9.1219
+label:    P.Oxy. 9.1219
+name:     Letter — Oxyrhynchites
+genre:    letters
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Letter from Oxyrhynchites (201 CE – 300 CE)
+# hgv-keywords: Brief (privat) — Aristandros an seinen Sohn Apion (königl. Schreiber d. Letopolites)
+tm:       31650
+source:   https://papyri.info/ddbdp/p.oxy;9;1219
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Ἀρίστανδρος Ἀπίωνι τῶι
+r.2    υἱῶι χαίρειν.
+r.3    Θέων ὁ υἱὸς ἡμῶν παραγείνεται
+r.4    πρὸς σὲ πορευόμενος εἰς τὴν Νεικίου ἕνεκα ἀναγκαίου αὐτοῦ μετεώρου ἴσως ὃ καὶ σὺ ἐπίστασαι ἔτι πάλαι ἀπὸ τοῦ πατρὸς αὐτοῦ· περιόντα
+r.5    δὲ νομίζω γεγραφέναι σοι περὶ αὐτοῦ. καὶ γὰρ σὺ αὐτὸν φιλεῖς καὶ διʼ αὐτὸν καὶ διὰ τὴν μνήμην τ[ο]ῦ πατρὸς αὐτοῦ. ἀλλὰ οἶδα ὅτι καὶ ταῦτά
+r.6    μου τὰ γράμματα πόλλʼ αὐτὸν ὠφελήσει, εἴ τινος [ο]ὖν ἐὰν χρείαν ἔχῃ
+r.7    εἴτε πρὸς Ἀπ[ί]ωνα τὸν τοῦ Προσωπείτου βασιλικὸν εἴτε πρὸς ἕτερόν τινα,
+r.8    ἐὰν δεή[σῃ] καὶ αὐτοῖς γράψαι μὴ ὑπερθῇ. ἐρρῶσθαί [σε] εὔχομαι,
+r.9    τέκνον, εὐ[τ]υχοῦντα
+r.10   διʼ ὅλου.
+r.11   Ἀπίωνι υἱῶι βασιλικῷ γραμματεῖ Λητοπολίτου
+r.12   παρὰ Ἀριστάνδρου Ὀξυρυγχίτου.
+
+[TRANSLATION]
+# HGV-EN: Aristandrus to his son Apion, greeting. Theon our son is coming to you on his way to the city of Nikias on account of a pressing incompleted negotiation of which you have perhaps been aware long since from his father; I think that he wrote to you about it while he was stil alive. Indeed you love him both for his own sake and for his father’s memory. But I know that this letter of mine also will be of much help to him, if he wants anything either with Apion the basilicogrammateus of the Prosopite nome or with any one else, if you will ask them and not delay to write to them. I pray for your perpetual health and prosperity, my son. (Addressed) To my son Apion, basilicogrammateus of the Letopolite nome, from Aristandrus of Oxyrhynchus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 1.338
+label:    O.BODL 1.338
+name:     Documentary papyrus — Theben (?)
+genre:    documents
+date:     188 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (?) (188 BCE)
+# hgv-keywords: Abrechnung
+tm:       71057
+source:   https://papyri.info/ddbdp/o.bodl;1;338
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιζ Φαρμοῦθι … γίνονται 𐅵 ιζ … ζ οθ γ
+r.2    … 𐅵 δ χοίνικες γ γ καὶ δραχμαὶ β η ιϛ
+r.3    … γ χοίνικες β β ι 𐅵 δ 𐅵 ιϛ η ιϛ λβ
+r.4    … χοίνικες γ ιϛ ϙε … λη
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

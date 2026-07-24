@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 271
+label:    O.PETR.MUS 271
+name:     Receipt — Theben
+genre:    receipts
+date:     176 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (176 CE – 200 CE)
+# hgv-keywords: Quittung — Steuer (Marktverkehrssteuer)
+tm:       75390
+source:   https://papyri.info/ddbdp/o.petr.mus;;271
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ κε …
+r.2    ὀνόματος Ἰμούθου
+r.3    Ἀπ[ο]λλῶτος ὑπὲρ τέλους ἀγορανομίας
+r.4    ὠνίων δραχμὰς τέσσαρες
+r.5    τριώβολον. γίνονται δραχμαὶ δ τριώβολον. Ἡρακ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

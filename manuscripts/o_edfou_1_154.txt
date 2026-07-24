@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 1.154
+label:    O.EDFOU 1.154
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     111 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (111 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       47095
+source:   https://papyri.info/ddbdp/o.edfou;1;154
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [Ἄ]βραμος Ἰακούβου
+r.2    λαογραφίας ιγ ἔτους δραχμὰς δ
+r.3    ἔτους ιδ Παῦνι κϛ
+
+[TRANSLATION]
+1     
+2     
+3     

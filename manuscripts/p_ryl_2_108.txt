@@ -1,0 +1,56 @@
+[META]
+id:       P.RYL 2.108
+label:    P.RYL 2.108
+name:     Documentary papyrus — Hermopolis
+genre:    documents
+date:     110 CE – 111 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Documentary papyrus from Hermopolis (110 CE – 111 CE)
+# hgv-keywords: Deklaration — Haus
+tm:       19499
+source:   https://papyri.info/ddbdp/p.ryl;2;108
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    βιβλι[ο]φ[ύ]λαξι ἐνκτή[σεω]ν Ἑρμοπολίτου
+r.2    παρὰ Ἀμμωνίου καὶ Ὡρίωνος καὶ Ἀχιλλέως
+r.3    τῶν τριῶν Ἀμμωνίου τοῦ Ἀθηνίωνος
+r.4    μητρὸς Εὐδαιμονίδος τῆς καὶ Σοήριος Ἀχιλλέως Ἑρμοπολειτῶν ἀναγραφομένων ἐπʼ ἀμφόδου Φρουρίου Λιβός. ἀπογραφόμεθα
+r.5    ἐπὶ τοῦ παρόντος εἰς τὸ ἐνεστὸς
+r.6    ιδ ἔτος Τραιανοῦ Καίσαρος τοῦ κυρίου
+r.7    ἀπὸ κληρον[ο]μίας τῆς μετηλλαχυίης ἡμῶν μητρὸς Εὐδαιμονίδος
+r.8    τῆς καὶ Σοήριος Ἀχιλλέως ἐν
+r.9    τῶι Πατρὴ Ἄνω περὶ Τερετονψὼ
+r.10   ἐκ τοῦ Δημητρίου κλήρου κατοικικὰς ἀρούρας δύο κοινῶς ἐξ ἴσου,
+r.11   καὶ ὀμνύομεν τὴν Αὐτοκράτορος
+r.12   Καίσαρος Νέρ[ο]υα Τραιανοῦ Σεβαστοῦ
+r.13   Γερμανικοῦ Δακικ[οῦ] τύχην ἀληθῶς
+r.14   ἐπιδεδωκέναι καὶ μὴ διεψεῦσθαι.
+r.15   εὐορκοῦ[σι] μὲν ἡμῖν εὖ ε[ἴ]η,
+r.16   [ἐπ]ι[ορκοῦσι δὲ τ]ὰ ἐν[αν]τία.
+r.17   ἀπογραφὴ Ἀμμωνίου καὶ τῶν ἀδελφῶν αὐτ[οῦ.]
+
+[TRANSLATION]
+# HGV-EN: ‘To the keepers of the archives of the Hermopolite nome from Ammonius, Horion, and Achilles, all three sons of Ammonius son of Athenion, their mother being Eudaemonis also called Soeris, daughter of Achilles, of Hermopolis, registered in the quarter of the Western Guard-house. We register now for the current 14th year of Trajanus Caesar the lord jointly in equal shares two arurae of catoecic land in the upper Patre toparchy in the area of Teretonpso in the holding of Demetrius, forming part of the inheritance of our deceased mother Eudaemonis also called Soeris, daughter of Achilles ; and we swear by the Fortune of the Emperor Caesar Nerva Trajanus Augustus Germanicus Dacicus that we have made the return truthfully and have told no falsehood. If we swear truly, may it be well with us, if falsely, the reverse.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

@@ -1,0 +1,30 @@
+[META]
+id:       O.ELEPH.WAGNER 39
+label:    O.ELEPH.WAGNER 39
+name:     Receipt — Elephantine
+genre:    receipts
+date:     143 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (143 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24219
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;39
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σωτὴρ πράκτωρ ἀργυρικῶν Ἐλεφαντίνης.
+r.2    διέγραψεν Πετορζμῆθις Χνούμιος
+r.3    Ὀρς μητρὸς Σενπατχναύτιος ὑπὲρ τοῦ
+r.4    αὑτοῦ μερισμοῦ ϛ ἔτους δραχμὰς η τετρώβολον Παῦν[ι].
+r.5    Σωτὴρ σεσημίωμαι η τετρώβολον.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

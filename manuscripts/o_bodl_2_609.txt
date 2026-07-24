@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.609
+label:    O.BODL 2.609
+name:     Receipt — Theben
+genre:    receipts
+date:     81 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (81 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71300
+source:   https://papyri.info/ddbdp/o.bodl;2;609
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πενχῶνσις Ὀσοροήριος ὑπὲρ χὼματικοῦ Ἀγορῶν Βορρᾶ γ ἔτους
+r.2    δραχμὰς ϛ τετρώβολον βαλανευτικοῦ ὀβολοὺς δ 𐅵 καὶ τούτων προσδιαγραφόμενα. ἔτους γ
+r.3    Τίτου Καίσαρος τοῦ κυρίου Καισαρήου λ‡γ. Βάσσος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

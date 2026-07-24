@@ -1,0 +1,26 @@
+[META]
+id:       O.ELKAB 95
+label:    O.ELKAB 95
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     133 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (133 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24533
+source:   https://papyri.info/ddbdp/o.elkab;;95
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    Φατρῆς τέλους γε[ρ]δίων ιζ ἔτους Ἁδριανοῦ
+r.2    τοῦ κυρίου δραχμὰς δεκαέξ,
+r.3    [γίνονται δραχμαὶ] ιϛ. ἔτους ιζ Ἐπεὶφ α … .
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,30 @@
+[META]
+id:       O.BERENIKE 3.299
+label:    O.BERENIKE 3.299
+name:     Receipt — Berenike
+genre:    receipts
+date:     51 CE – 100 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     
+shelf:    
+content:  Receipt from Berenike (51 CE – 100 CE)
+# hgv-keywords: Quittung — Wasser — Dekania — Centurie
+tm:       641787
+source:   https://papyri.info/ddbdp/o.berenike;3;299
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    δεκανίας Ουρος Κρονίου
+r.2    Μ[ᾶ]ρκος Ἀπολλῶς ἑκατονταρχίας
+r.3    Βάσσου παρὰ Πακοίβεως
+r.4    Πακοίβεως πτολεμαικὰ
+r.5    να
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

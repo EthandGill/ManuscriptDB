@@ -1,0 +1,30 @@
+[META]
+id:       APF 56.265_5
+label:    APF 56.265_5
+name:     Receipt — Theben
+genre:    receipts
+date:     44 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Uppsala
+shelf:    
+content:  Receipt from Theben (44 CE)
+# hgv-keywords: Quittung — Steuer — Geld — Kopfsteuer (laographia)
+tm:       133432
+source:   https://papyri.info/ddbdp/apf;56;265_5
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    διαγέγραφε Ψανσνῶς Πετεήσιος ὑπὲρ λαογραφίας
+r.2    δ ἔτους δραχµὰς δέκα, γίνονται δραχμαὶ ι, βαλανευτικοῦ δραχµὴν µίαν ὀβολὸν ἥµισυ
+r.3    προσδιαγραφόµενα ἐξ ὀβολοῦ ἡµιωβελίου. ἔτους δ Τιβερίου Κλαυδίου
+r.4    Καίσαρος Σεβαστοῦ Γερµανικοῦ
+r.5    Αὐτοκράτορος Μεσορὴ κβ. Πικῶς Κεφάλου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

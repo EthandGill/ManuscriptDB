@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.950
+label:    O.BODL 2.950
+name:     Receipt — Theben
+genre:    receipts
+date:     49 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (49 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71640
+source:   https://papyri.info/ddbdp/o.bodl;2;950
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πικῶς Πετεψάιτος ὑπὲρ ἀμπελῶνος
+r.2    θ ἔτους δ λβ δραχμὰς ια ὀβολὸν α 𐅵 καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου.
+r.3    ἔτους θ Τιβερίου Κλαυδίου Καίσαρος
+r.4    Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος μηνὸς
+r.5    Καισαρείου ἐπαγομένων λ‡ε. … κ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

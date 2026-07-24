@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.589
+label:    O.BODL 2.589
+name:     Receipt — Theben
+genre:    receipts
+date:     67 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (67 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71285
+source:   https://papyri.info/ddbdp/o.bodl;2;589
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφασι κληρονόμοι Ὀννώφριος Φθουμίνιος
+r.2    ὑπὲρ ναυβίου Χάρακος ιγ ἔτους τετρώβολον γίνονται τετρώβολον
+r.3    καὶ τούτων προσδιαγραφόμενα. ἔτους ιδ Νέρωνος τοῦ
+r.4    κυρίου Φαῶφι λ. Ἀπίων σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

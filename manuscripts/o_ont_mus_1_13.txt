@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 1.13
+label:    O.ONT.MUS 1.13
+name:     Receipt — Theben
+genre:    receipts
+date:     98 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (98 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75035
+source:   https://papyri.info/ddbdp/o.ont.mus;1;13
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Ἀπίων] καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    Ψεναμούνιος Ἑριοφμόις χαίρειν
+r.3    ἔχω τὸ βαλανευτικὸν τοῦ α ἔτους Τραιανοῦ
+r.4    τοῦ κυρίου Παχὼν κϛ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

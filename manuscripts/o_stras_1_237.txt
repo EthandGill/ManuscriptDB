@@ -1,0 +1,36 @@
+[META]
+id:       O.STRAS 1.237
+label:    O.STRAS 1.237
+name:     Receipt — Theben
+genre:    receipts
+date:     150 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (150 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75834
+source:   https://papyri.info/ddbdp/o.stras;1;237
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Διόσκορος καὶ Παμών[θης]
+r.2    πράκτορες ἀργυρικῶν Νότου Πετοσίρι
+r.3    Ψεντκαλίβιος Πετοσίριος μητρὸς Τικῶτος.
+r.4    ἔσχομεν ὑπὲρ σκοπέλων ιγ ἔτους δραχμὰς τρεῖς
+r.5    γίνονται δραχμαὶ γ. ἔτους ιγ Ἀντωνίνου
+r.6    τοῦ κυρίου Τῦβι ι.
+r.7    Ψενα σεσημείωμαι.
+r.8    … χ … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

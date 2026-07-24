@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 8.1109
+label:    P.Oxy. 8.1109
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     160 CE – 161 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (160 CE – 161 CE)
+# hgv-keywords: Eingabe — Status einer Person — Klasse (Steuern)
+tm:       21731
+source:   https://papyri.info/ddbdp/p.oxy;8;1109
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [π]αρὰ Ἑρμίππου τοῦ καὶ Ἁρποκρατίωνος
+r.2    Ὡρ[ί]ωνος πρεσβυτέρου τοῦ Ἑρμίππου μη[τ]ρ[ὸς] Θαΐδος Πεκύσιος ἀπʼ Ὀζυρύγχων πόλε[ω]ς δ[ι]ὰ Διονυσίου Διδύμου φίλου. κατὰ
+r.3    [τ]ὰ κελευσθέντα περὶ ἐπικρίσεως τῶν
+r.4    προσβεβηκότων εἰς τρεισκαιδεκαετεῖς εἰ ἐξ ἀμφοτέρων γονέων μητροπολιτῶν δωδεκαδράχμων εἰσίν, ἐτάγη ἐπʼ ἀμφόδου Τεμ[γε]νού[θεως] ὁ υἱός μου Πτολεμαῖος μητρὸς
+r.5    … δο … ωνος προσβεβηκὼς εἰς τρεισκαιδεκαετεῖς τῷ διελθ[ό]ν[τι] κγ ἔτει, ὅθεν παραγενόμενος πρὸς τὴν τούτου ἐπίκρισιν δηλῶ αὐτὸν εἶναι δωδεκάδραχμον
+r.6    [καὶ] ἐμὲ ὁμοίως [εἶνα]ι δωδεκάδραχμον ἀναγραφόμενον διὰ λα[ογρ]αφίας
+r.7    τοῦ διελθόντος κγ ἔτους ἐπʼ ἀμφόδου Ἄνω Παρ[ε]μβολῆς
+r.8    [κα]ὶ τὸ[ν] τῆς μητρὸς τοῦ υἱοῦ μου πατέρα Α … Ἁρποκρατίωνος τοῦ Ἁρποκρατίωνος
+r.9    μητρὸς Ἡρακλείας ὁ[μοίω]ς εἶναι δωδεκάδραχμον ε …
+
+[TRANSLATION]
+# HGV-EN: From Hermippus also called Harpocration, son of Horion elder son of Hermippus, his mother being Thaïs daughter of Pekusis, of Oxyrhynchus, through his friend Dionysius son of Didymus. In accordance with the orders concerning the selection of boys who have reached the age of 13 years if their parents on both sides are inhabitants of the metropolis rated at 12 drachmae, my son Ptolemaeus by ... daughter of A..on was listed in the quarter of Teumenouthis as having reached the age of 13 in the past 23rd year; wherefore coming forward for his selection I declare that he is a person rated at 12 drachmae and that I am similarly rated at 12 drachmae as registered in a poll-tax list of the past 23rd year at the Upper Camp quarter, and that the father of the mother of my son, A..on son of Harpocration son of Harpocration, his mother being Heracleia, was similarly rated at 12 drachmae ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

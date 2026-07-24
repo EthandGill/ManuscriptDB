@@ -1,0 +1,32 @@
+[META]
+id:       O.CLAUD 1.136
+label:    O.CLAUD 1.136
+name:     Letter — Mons Claudianus
+genre:    letters
+date:     107 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Letter from Mons Claudianus (107 CE)
+# hgv-keywords: Brief (?) von Successus
+tm:       24148
+source:   https://papyri.info/ddbdp/o.claud;1;136
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Σου[κ]κέσσος …
+r.2    ἀνάγκασον …
+r.3    στόματος …
+r.4    ιματην …
+r.5    ητημη …
+r.6    γαρ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

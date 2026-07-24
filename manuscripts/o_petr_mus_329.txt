@@ -1,0 +1,26 @@
+[META]
+id:       O.PETR.MUS 329
+label:    O.PETR.MUS 329
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (101 CE – 300 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       75392
+source:   https://papyri.info/ddbdp/o.petr.mus;;329
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παχὼν η τοῦ η ἔτους ὀνόματος …
+r.2    Κέρδων Πετεασμ …
+r.3    δύο πεντώβολον γίνονται δραχμαὶ β πεντώβολον …
+
+[TRANSLATION]
+1     
+2     
+3     

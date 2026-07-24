@@ -1,0 +1,32 @@
+[META]
+id:       PSI 3.200
+label:    PSI 3.200
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     592 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (592 CE)
+# hgv-keywords: Quittung — Lieferung — Brote
+tm:       20028
+source:   https://papyri.info/ddbdp/psi;3;200
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐδόθησαν διὰ Φιλοξένου ἀρτοκόπου
+r.2    τοῖς ε ἀγ γαρευταῖς ἐργαζομένοις
+r.3    εἰς τὸν κῆπον Εὐτρυγίου
+r.4    λόγῳ τροφῶν, Φαρμοῦθι δ ι ἰνδικτίονος, ἄρτου
+r.5    λίτραι δέκα· γίνονται ἄρτου λίτραι ι μόναι.
+r.6    ἔτους σξη καὶ σλζ, Φαρμοῦθι δ ἰνδικτίονος δεκάτης …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

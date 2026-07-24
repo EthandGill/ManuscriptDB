@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.1785
+label:    O.BODL 2.1785
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (1 CE – 100 CE)
+# hgv-keywords: Abrechnung — Steuern
+tm:       72469
+source:   https://papyri.info/ddbdp/o.bodl;2;1785
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    βασιλικὴ ἀπηλιώτου 𐅵 η λβ πυροῦ ἀρταβ α 𐅵
+r.2    α ἀρταβ ἱερατικῶν β 𐅵 η πυροῦ ἀρταβ διοικήσεως β 𐅵 η
+r.3    ἱερατικῶν δ 𐅷
+r.4    α ἀρταβ 𐅵 ἀπηλιώτου δ δ η ιϛ πυροῦ ἀρταβ 𐅵 δ
+r.5    ἄλλο ἀρταβ βασιλικὴ δ 𐅵 πυροῦ ἀρταβ δ 𐅵
+r.6    γίνονται διοικήσεως ιε 𐅵 κδ ἱερατικῶν δ 𐅷.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

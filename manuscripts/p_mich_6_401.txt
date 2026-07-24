@@ -1,0 +1,30 @@
+[META]
+id:       P.Mich. 6.401
+label:    P.Mich. 6.401
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     318 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (318 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       12212
+source:   https://papyri.info/ddbdp/p.mich;6;401
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Μεσορὴ α σίτου ἕκτης ἰνδικτίονος
+r.2    Καρανίδος Νιλάμμων
+r.3    Τουλλᾶ σὺν [ε]ἰκοστῇ ἀρτάβας εἴκοσι,
+r.4    ἀρτάβας κ μόνας, χωρὶς
+r.5    ναυλεπλοίου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

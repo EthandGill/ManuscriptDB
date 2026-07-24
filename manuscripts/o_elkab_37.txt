@@ -1,0 +1,24 @@
+[META]
+id:       O.ELKAB 37
+label:    O.ELKAB 37
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     71 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (71 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24479
+source:   https://papyri.info/ddbdp/o.elkab;;37
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    [Π]αβοῦς πρεσβύτερος Ψεμονχήου[ς] χωματικοῦ γ ἔτους Οὐεσπασιανοῦ
+r.2    δραχμὰς ϛ τετρώβολον. ἔτους γ Φαρμοῦθι κη.
+
+[TRANSLATION]
+1     
+2     

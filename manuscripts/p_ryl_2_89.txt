@@ -1,0 +1,58 @@
+[META]
+id:       P.RYL 2.89
+label:    P.RYL 2.89
+name:     Documentary papyrus — Soknopaiu Nesos (Arsinoites)
+genre:    documents
+date:     191 CE – 192 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Soknopaiu Nesos (Arsinoites) (191 CE – 192 CE)
+# hgv-keywords: Liste — Ratsmitglieder — Auszug
+tm:       13008
+source:   https://papyri.info/ddbdp/p.ryl;2;89
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    Σοκνοπαίου Νήσου
+r.2    γραφὴ δημοσίων λβ ἔτους.
+r.3    πρεσβύτεροι
+r.4    Σωτᾶ[ς] Πτολεμαίου μητρὸς Σωτηρίδος
+r.5    ἐπικαλούμενος Ποσεί,
+r.6    Πλᾶς Σεμπρωνίου,
+r.7    Ἴουστος ἀδελφὸς Πακύσεως,
+r.8    Ἀπῦγχις Πακύσεως τοῦ Ἀπύγχεως.
+r.9    ἀρχέφοδος κώμης
+r.10   Παβοῦς Παβοῦ[τ]ος μητρὸς Σωτηρίας.
+r.11   φύλακες ὁμοίως
+r.12   Ὀρσενοῦφις Σωτᾶ Κούιτος,
+r.13   Ὀρσενοῦφις Ὡρίωνος,
+r.14   Σωτήριχος Πανεσνέως,
+r.15   Παουῆτις Καννεῖτος.
+r.16   εἰρηνοφύλακες
+r.17   Δημᾶς Δημᾶ,
+r.18   Πανεφρέμμις Σεμπρωνίου.
+
+[TRANSLATION]
+# HGV-EN: ‘Socnopaei Nesus, list of officials for the 33nd year. Elders :—Sotas son of Ptolemaeus and Soteris, surnamed Posei, Plas son of Sempronius, Justus brother of Pakusis, Apunchis son of Pakusis son of Apunchis. Archephodus:— Pabous son of Pabous and Soteria. Watchmen:— Orsenouphis son of Sotas Kouis, Orsenoup his son of Horion, Soterichus son of Panesneus, Paouetis son of Kanneis. Police:— Demas son of Demas, Panephremmis son of Sempronius.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.453
+label:    O.BODL 2.453
+name:     Receipt — Elephantine
+genre:    receipts
+date:     92 CE – 93 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (92 CE – 93 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71154
+source:   https://papyri.info/ddbdp/o.bodl;2;453
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψε
+r.2    Πατχνοῦς Πετεψάιτος
+r.3    ὑπὲρ λαογραφίας ιβ ἔτους
+r.4    Δομιτιανοῦ τοῦ κυρίου
+r.5    δραχμὰς δέκα . Σωκράτης
+r.6    πράκτωρ ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

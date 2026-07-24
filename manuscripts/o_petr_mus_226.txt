@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 226
+label:    O.PETR.MUS 226
+name:     Receipt — Koptos
+genre:    receipts
+date:     34 CE
+language: Greek (Koiné)
+found:    Koptos
+held:     
+shelf:    
+content:  Receipt from Koptos (34 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Bank
+tm:       169758
+source:   https://papyri.info/ddbdp/o.petr.mus;;226
+lat:      25.9967
+lon:      32.8167
+
+[GREEK]
+r.1    διαγέγραφε διὰ τῆς Ἀπ[ολ] [βασιλικῆς τραπέζης ὑπὲρ]
+r.2    λαογραφίας κ ἔτους Ἀράβων Ἁρβ …
+r.3    δραχμὰς η ἔτους κ Τιβερίου Κ[αίσαρος Σεβαστοῦ]
+r.4    Φαρ[μοῦθι] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

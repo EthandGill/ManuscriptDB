@@ -1,0 +1,30 @@
+[META]
+id:       O.HEID 242
+label:    O.HEID 242
+name:     Receipt — Theben
+genre:    receipts
+date:     179 CE – 180 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (179 CE – 180 CE)
+# hgv-keywords: Quittung — Steuer (Badesteuer)
+tm:       80460
+source:   https://papyri.info/ddbdp/o.heid;;242
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … ιο … διος Ἀρτεμιδώρου τελώνης
+r.2    θησαυροῦ ἱερῶν Πετε …
+r.3    Πετεμ … .
+r.4    ἔσχον τὸ βαλανευτικόν. ἔτους κ … δ …
+r.5    Ἀντωνίνου …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

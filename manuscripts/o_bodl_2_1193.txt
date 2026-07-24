@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1193
+label:    O.BODL 2.1193
+name:     Receipt — Theben
+genre:    receipts
+date:     105 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (105 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       71877
+source:   https://papyri.info/ddbdp/o.bodl;2;1193
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν μητροπόλεως γενήματος η ἔτους
+r.2    Τραιανοῦ Καίσαρος τοῦ κυρίου Παῦνι
+r.3    κα ὀνόματος Ψενχώνσιος Ψενχώνσιος
+r.4    πυροῦ ἀρτάβαι δέκα πέντε γίνονται ιε … ρ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

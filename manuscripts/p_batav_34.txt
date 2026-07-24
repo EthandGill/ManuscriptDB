@@ -1,0 +1,24 @@
+[META]
+id:       P.BATAV 34
+label:    P.BATAV 34
+name:     Documentary papyrus — Panopolites
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Panopolites
+held:     
+shelf:    
+content:  Documentary papyrus from Panopolites (101 CE – 200 CE)
+# hgv-keywords: Namen
+tm:       28967
+source:   https://papyri.info/ddbdp/p.batav;;34
+lat:      26.5894771637
+lon:      31.7425708648
+
+[GREEK]
+r.1    Ἡραῒς ἐβίωσεν ἔτη ζ.
+
+[TRANSLATION]
+# HGV-EN: (Translation: P. L. Bat. 19.34) Herais, she lived 7 years.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     

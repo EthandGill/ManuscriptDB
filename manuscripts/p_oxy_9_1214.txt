@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 9.1214
+label:    P.Oxy. 9.1214
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (401 CE – 500 CE)
+# hgv-keywords: Einladung — Feier (Geburtstag)
+tm:       35473
+source:   https://papyri.info/ddbdp/p.oxy;9;1214
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    τῷ κυρίῳ [μ]ου Μακαρί[ῳ]
+r.2    Γεννάδιος σπεκουλάτωρ.
+r.3    φαιδρύνων τὴν π[α]νήγυριν
+r.4    τῆς γενεθλίου τοῦ υἱοῦ μου Γενναδίου καταξίωσον ἅμα ἡμῖν
+r.5    συνδειπνῆσαι τῇ ιϛ ἀπὸ
+r.6    ὥρας ζ.
+
+[TRANSLATION]
+# HGV-EN: To my lord Macarius from Gennadius, speculator. Deign to gladden the birthday festival of my son Gennadius by dining with us on the 16th at 7 o'clock.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

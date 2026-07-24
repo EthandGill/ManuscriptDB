@@ -1,0 +1,56 @@
+[META]
+id:       P.Oxy. 1.63
+label:    P.Oxy. 1.63
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (101 CE – 300 CE)
+# hgv-keywords: Brief (amtlich) — Paesios an Archelaos — Ladung von Getreide und Inspektion von Speichern
+tm:       28402
+source:   https://papyri.info/ddbdp/p.oxy;1;63
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Πα[ή]σιος Ἀ[ρχ]ελά[ω]ι τ[ῶ]ι
+r.2    φιλτάτωι χαίρειν.
+r.3    τοῦ ἀναδιδόντος σοι τὸ ἐπιστόλιόν
+r.4    μου ναυκλήρου Πανεμουῶτος
+r.5    προνόησον σὺν πάσῃ σπουδῇ ἐνβαλέσθαι αὐτοῦ τὸν γόμον ὡς ἔθος ὃν
+r.6    [ἔ]χεις ἐν χερσὶ καὶ λεκτῷ ἐνβαλέσθαι,
+r.7    καὶ τοὺς δειγματοάρτας καθʼ αὑτὸν
+r.8    ἀναπέμψαι πρὸς ζυγοστα[σ]ίαν
+r.9    λαβόντα παρὰ τῶν ἀρχεφόδων
+r.10   ὀνάριον. ἀπεντεῦθεν μὲν ο[ὖν]
+r.11   συνσκυλῆθι αὐτῷ καὶ ἰδέτω
+r.12   τοὺς θησαυρούς, κα[ὶ] τοὺς [σι]τολόγους καὶ τοὺς ἄλλους τοὺς πρὸς
+r.13   τὴν χρείαν ὧν τὰ ὀνόματά σοι
+r.14   ἔπεμψεν Ἁρποκρατίων ἐν
+r.15   ἑτοίμῳ ποίησον ἵνα μη[δ]ὲν
+r.16   ἐνπόδιον ᾖ. ἐρρῶσθαί σε εὔχομαι, φ[ί]λτατε.
+r.17   Ἀρχελάωι ὑπηρέτῃ.
+
+[TRANSLATION]
+# HGV-EN: Paësius to his dearest Archelaus, greeting. The bearer of this letter is the captain Panemouôs; please to see that his freight is embarked with all despatch, and let it consist as usual of what you have in hand and selected for lading. Send up the inspectors yourself to the examination, getting a donkey from the chiefs of the police. After this give him your best attention and let him see the granaries, and prepare the overseers and the other officials concerned, whose names have been given you by Harpocration, in order that there may be no delay. My best wishes for your health, dearest friend.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

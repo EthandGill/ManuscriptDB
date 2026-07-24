@@ -1,0 +1,30 @@
+[META]
+id:       APF 68.153_3
+label:    APF 68.153_3
+name:     Receipt — Hermopolis (Hermopolites, Ägypten)
+genre:    receipts
+date:     501 CE – 700 CE
+language: Greek (Koiné)
+found:    Hermopolis (Hermopolites, Ägypten)
+held:     London
+shelf:    
+content:  Receipt from Hermopolis (Hermopolites, Ägypten) (501 CE – 700 CE)
+# hgv-keywords: Quittung — Steuer — Gold
+tm:       38308
+source:   https://papyri.info/ddbdp/apf;68;153_3
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    τῷ ἀδελφῷ κληρονόμῳ Δανιηλίου Διογένης διαστολεύς.
+r.2    ἔσχον ἀπὸ δημοσίων π[ρ]ώτης ἰνδικτίωνος χρυσοῦ κεράτια
+r.3    ἕνδεκ[α][, γίνεται χρυσοῦ κεράτια ια]. Διογένης διαστολεὺς δι’ ἐμοῦ
+r.4    Βίκτωρος ἀπαιτητοῦ συμφωνεῖ.
+
+[TRANSLATION]
+# HGV-EN: To the brother heir of Danielios: Diogenes, diastoleus. I received of the public taxes of the first indiction, eleven carats of gold, total 11 carats of gold. Diogenes, diastoleus, through me, Biktor, apaitetes, agrees.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     To the brother heir of Danielios: Diogenes, diastoleus.
+2     I received from public [taxes] of the first indiction, of gold carats
+3     eleven [, total of gold carats 11]. Diogenes, diastoleus, through me
+4     Biktor, apaitetes, agrees.

@@ -1,0 +1,34 @@
+[META]
+id:       ZPE 212.218_4
+label:    ZPE 212.218_4
+name:     Receipt — Elephantine
+genre:    receipts
+date:     149 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (149 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       832350
+source:   https://papyri.info/ddbdp/zpe;212;218_4
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1    Δομί[τιος Φαννιανὸς καὶ Γερμα]νὸς πράκτορες ἀργυρικῶν Ἐ[λεφαντίνης. διέγραψεν]
+r.2    Ζμίθις ὁ καὶ …
+r.3    μητρὸς Θινψεντῶτος καὶ … [μητρὸς]
+r.4    Θινπαχοῦμις ῥυπαρὰς ἕκαστος δραχμὰς δ γίνονται [ῥυπαραὶ δραχμαὶ η]
+r.5    ὑπὲρ μερισμῶν ιβ ἔτους Ἀντ[ωνίνου]
+r.6    καίσαρος τοῦ κυρίου Φαμ[ενὼθ] …
+
+[TRANSLATION]
+# HGV-EN: Domitius [Phannianus, and] Germanus, collectors of money taxes at Elephantine. Zmithis, who is also called [NN], his mother being Thinpsentos, and [NN, his mother being] Thinpachoumis, each of them [has paid] 4 debased drachmas, = [8 debased drachmas], for the contributions of the 12th year of Antoninus Caesar the lord, Phamenoth [day]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

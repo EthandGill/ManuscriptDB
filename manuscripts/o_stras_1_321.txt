@@ -1,0 +1,38 @@
+[META]
+id:       O.STRAS 1.321
+label:    O.STRAS 1.321
+name:     Receipt — Latopolis
+genre:    receipts
+date:     200 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Latopolis
+held:     
+shelf:    
+content:  Receipt from Latopolis (200 BCE – 1 BCE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75911
+source:   https://papyri.info/ddbdp/o.stras;1;321
+lat:      25.2936689
+lon:      32.5531993
+
+[GREEK]
+r.1    ἔτους ιδ Ἐπεὶφ κζ μεμέτρηκεν
+r.2    εἰς τοὺς ἐν τῇ Λάτων πόλει θησαυροὺς
+r.3    ὑπὲρ τῆς ἄνω τοπαρχίας Πρεαου
+r.4    εἰς τὴν ἐπιγραφὴν τοῦ ιϛ ἔτους
+r.5    Πετεαρσεμθοῦς
+r.6    Πεκουσάκιος πυροῦ χκουρ
+r.7    δεκατρεῖς ἥμισυ
+r.8    τέταρτον γίνονται ιγ 𐅸.
+r.9    Ἡρακλ .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

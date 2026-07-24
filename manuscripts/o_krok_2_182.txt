@@ -1,0 +1,48 @@
+[META]
+id:       O.KROK 2.182
+label:    O.KROK 2.182
+name:     Contract — Krokodilo
+genre:    contracts
+date:     98 CE – 117 CE
+language: Greek (Koiné)
+found:    Krokodilo
+held:     Qift
+shelf:    
+content:  Contract from Krokodilo (98 CE – 117 CE)
+# hgv-keywords: Brief (privat) — NN an Sotas — Prokla vermietet an Simias — Geld — Kleidung
+tm:       704467
+source:   https://papyri.info/ddbdp/o.krok;2;182
+lat:      25.9426109674
+lon:      33.4011614055
+
+[GREEK]
+r.1    … Σωτᾶτι τῶι πατρὶ χαίρειν.
+r.2    γινώσκειν σε θέλω ὅτι μεμίσθ[ωκα]
+r.3    Πρόκλαν εἰς Σιμίου ἑξήκον[τ]α
+r.4    δραχμῶν σὺν τῇ κουιντάνᾳ.
+r.5    γράψεις μοι οὖν ἐπιτροπικὴν …
+r.6    ἵνα ἰσχύσω περὶ αὐτῆς λαλῆσαι·
+r.7    καὶ ἐὰν ἔχῃς κιθῶνα, πέμψει[ς]
+r.8    αὐτῇ ἐπὶ τὸ[ν] αὐτῆς παρέπαισεν …
+r.9    να ὡς σὸν ὧδε ἐχόνομα ἡ δὲ
+r.10   εἶχεν τὰ ἐμὰ ἐ[ν]δύσασθαι.
+r.11   καὶ γράψεις μοι διὰ τίνος σοι
+r.12   πέμψω τὸν χαλκόν. ἄσπασαι Ἀρριανόν.
+r.13   ἔρρωσο.
+
+[TRANSLATION]
+# HGV-EN: … (?) to his father Sotas, greetings. You should know that I have rented Prokla to Simiou for sixty drachmas, including the quintana. Write me a letter to give me guardianship so that I have power to negotiate about her. And if you have a chiton send it to her since hers was mislaid (as she arrived here,) so she had to put on something of mine. And write to me through whom I can send you the money. Greet Arrianos. Farewell.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

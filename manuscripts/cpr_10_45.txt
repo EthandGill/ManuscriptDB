@@ -1,0 +1,26 @@
+[META]
+id:       CPR 10.45
+label:    CPR 10.45
+name:     Receipt — Arsinoites oder Herakleopolites
+genre:    receipts
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    Arsinoites oder Herakleopolites
+held:     
+shelf:    
+content:  Receipt from Arsinoites oder Herakleopolites (401 CE – 500 CE)
+# hgv-keywords: Quittung — Notiz — Kauf — Blasebälge — Geld
+tm:       35345
+source:   https://papyri.info/ddbdp/cpr;10;45
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἀπὸ τιμῆς ῥιπιδίων
+r.2    ὧν ἐώνημαι παρὰ σοῦ
+r.3    χρυσοῦ
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,40 @@
+[META]
+id:       P.KOELN 12.481
+label:    P.KOELN 12.481
+name:     Documentary papyrus — Herakleopolites
+genre:    documents
+date:     131 BCE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Documentary papyrus from Herakleopolites (131 BCE)
+# hgv-keywords: Auftrag — NN an Dionysios (trapezites) — Zahlung für Transport von Heu und von Sold für Mannschaft eines Schiffes
+tm:       128735
+source:   https://papyri.info/ddbdp/p.koeln;12;481
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    ερ … ι …
+r.2    Διονυσίωι
+r.3    διατέτακται
+r.4    εἰς ναῦλον χόρτου
+r.5    χαλκοῦ τάλαντα ις Δ
+r.6    καὶ εἰς σιταρχίας
+r.7    τοῦ μετὰ Διονυσίου
+r.8    πλοίου τάλαντα β Βυξς τετρώβολον,
+r.9    γίνεται τάλαντα ιθ υξς τετρώβολον.
+r.10   ἔτους β Φαῶφι ιε
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

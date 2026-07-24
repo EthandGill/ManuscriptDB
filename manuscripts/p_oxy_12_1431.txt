@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 12.1431
+label:    P.Oxy. 12.1431
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     351 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (351 CE)
+# hgv-keywords: Anweisung — Zahlung für Teppich — Geld — Vorbereitung für Besuch des dux
+tm:       21835
+source:   https://papyri.info/ddbdp/p.oxy;12;1431
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Ἀθανάσιος Σαραπίωνι χειριστῇ χαίρειν.
+r.2    δὸς Γενναδίῳ ταπηταρίῳ ὑπὲρ τιμῆς ταπητίου ἐν τῇ ἐπιδημίᾳ τοῦ δουκὸς ἀργυρίου δηναρίων μυριάδας διακοσίας
+r.3    εἴκοσι πέντ[ε] , ἅ ἐστι τάλαντα Αφ. ἐρρῶσθαί σε εὔχομαι.
+r.4    [με ἔτους κζ ἔτους ια ἔτους Τ]ῦ[β]ι η.
+
+[TRANSLATION]
+# HGV-EN: Athanasius to Sarapion, agent, greeting. Give Gennadius the carpet-maker for the price of a carpet on the occasion of the visit of the dux 2,250,000 denarii, equivalent to 1,500 talents. I pray for your health. The 45th, 27th, and 11th year, Tubi 8.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     Athanasius to Sarapion, agent, greetings.
+2     Give to Gennadius the carpet-maker for the price of a carpet on the occasion of the visit of the dux 2,250,000 silver denarii.
+3     Which equals 1,500 talents. I pray for your health.
+4     The 45th, 27th, and 11th year, Tybi 8.

@@ -1,0 +1,32 @@
+[META]
+id:       P.LIPS 1.74
+label:    P.LIPS 1.74
+name:     Receipt — Theben
+genre:    receipts
+date:     145 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (145 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       22384
+source:   https://papyri.info/ddbdp/p.lips;1;74
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ταύρων καὶ Ὧρος πράκτορες
+r.2    ἀργυρικῶν Νότου Πετοσίριος Ψεντκερηκ. ἔσχαμεν ὑπὲρ μερισμοῦ
+r.3    ἀνακ η ἔτους ῥυπαρὰς δραχμὰς τέσσαρας
+r.4    γίνονται ῥυπαραὶ δραχμαὶ δ. ἔτους η Ἀντωνίνου
+r.5    Καίσαρος τοῦ Κυρίου
+r.6    Ἐπεὶφ ιθ. α … σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

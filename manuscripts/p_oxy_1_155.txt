@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 1.155
+label:    P.Oxy. 1.155
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (501 CE – 600 CE)
+# hgv-keywords: Brief (privat?) — Theophilos an den Komes Iohannes — Bestätigung des Empfangs verschiedener Waren
+tm:       37144
+source:   https://papyri.info/ddbdp/p.oxy;1;155
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    π
+r.2    τὰ ἀποσταλέντα μοι παρὰ τῆς ὑμῶν μεγαλοπρεπείας διὰ Ἰούστου τοῦ παιδὸς
+r.3    τῆς σῆς μεγαλοπρεπείας ἐδεξάμην, λέγω δὴ οἴνου κνίδια εἴκοσι
+r.4    καὶ σπαθία εἴκοσι καὶ κνίδια μέλιτος τρία καὶ στάγματος τρία
+r.5    καὶ ὑδρίας ἄρτων πέντε καὶ κύθραν βουκίου μίαν, καὶ πολλοῖς
+r.6    χρόνοις καὶ καλοῖς τὴν ὑμῶν μεγαλοπρέπειαν μετὰ τοῦ ἀφθόνου ὑμῶν
+r.7    οἴκου. ἐπειδὴ αἱ προσκυνοῦσαι τὴν ὑμετέραν μεγαλοπρέπειαν καὶ τὰ παιδία
+r.8    ἀρρωστοῦσιν, ὡς ἔθος ἔχει τὸ ὑμῶν μέγεθος χαρίζεσθαί μου τοῦ λογαρίου.
+r.9    ἀποστείλῃ μοι τὸ ὑμῶν μέγεθος στρογγύλιον ῥαφανελαίου.
+r.10   οὐκέτι δὲ ἐφρόντισεν τὸ σὸν μέγεθος περὶ τοῦ ταπητίου τοῦ πώλου
+r.11   τῆς σῆς δὲ μεγαλοπρεπείας δούλου Μακαρίου.
+r.12   ἐπίδος τῷ δεσπότῃ μου τὰ πάντα μεγαλοπρεπεστάτῳ κόμετι καὶ ἐμῷ προστάτῃ Ἰωάννῃ
+r.13   παρὰ Θεοφίλου πολιτευομένου.
+
+[TRANSLATION]
+# HGV-EN: I have received what your magnificence sent me through your slave Justus, namely twenty jars of wine, twenty sprigs of dates, three jars of honey, and three of rose-water (?), five pans of bread, one pot of biscuit; and I pray for long life and happiness for your magnificence and your generous house. Since your magnificence’s obedient servants and their children are ill, I hope your highness will excuse my account. May your highness be pleased to send me a round pot of raphanus oil. Your highness has no longer shown care for the caparisoned colt (?), and the slave of your magnificence, Macarius. Present this to my master; John, the all-magnificent comes and my patron, from Theophilus, citizen.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

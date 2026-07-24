@@ -1,0 +1,42 @@
+[META]
+id:       P.PETR.KLEON 16
+label:    P.PETR.KLEON 16
+name:     Letter — Fundort: Gurob; Schreibort: Arsinoites
+genre:    letters
+date:     260 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Letter from Fundort: Gurob; Schreibort: Arsinoites (260 BCE – 249 BCE)
+# hgv-keywords: Brief — Undankbarkeit
+tm:       388474
+source:   https://papyri.info/ddbdp/p.petr.kleon;;16
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    … [εἰ ἔρρω]σαι, ἐρρώμεθα δὲ καὶ ἡ[μεῖς] καὶ …
+r.2    … πρὸς Καλλικράτην κα[λέ]σας με …
+r.3    … [Σάτ]υρον καλοῦντά σε ἀχάριστον καὶ …
+r.4    … αβησε οὐκ ἀφέξεσθαί σου καὶ …
+r.5    … [πρὸ]ς δὲ ταῦτα ἀνήνγελλον Ἱστιείω[ι] …
+r.6    … γει. σὲ δὲ ἠξιο[ῦν] τὰ πρὸς τὸν βα[σιλέα] …
+r.7    … αιου θε …
+r.8    … βασιλέα … αι
+r.9    … μεθα γὰρ καὶ
+r.10   … τρόπον οἰκο[ν]ο[μ- ] … [ἔρ]ρωσο.
+
+[TRANSLATION]
+# HGV-EN: [...]. If you are in good health, then so are we and [...] to Kallikrates, having called me [... Sat]yros calling you ungrateful and [...] that he will not stay away from you and [...]. [...] Furthermore, I/ they have reported to Histieios [...] You I asked to [...] the things for the king [...].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

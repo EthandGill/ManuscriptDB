@@ -1,0 +1,44 @@
+[META]
+id:       P.Oxy. 3.476
+label:    P.Oxy. 3.476
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     159 CE – 161 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (159 CE – 161 CE)
+# hgv-keywords: Bericht — Bestatter an den Strategen Phobion — Begutachtung eines Toten
+tm:       20612
+source:   https://papyri.info/ddbdp/p.oxy;3;476
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Φωκίωνι στρατηγῷ
+r.2    παρὰ Θώνιος Φλώρου
+r.3    μητρὸς Πτολέμας
+r.4    ὡς ἐτῶν λε οὐλὴ καρπῷ ἀριστερῷ καὶ Θώνιος Πεταῦτος μητρὸς
+r.5    Ταουῆτος ὡς ἐτῶν ξβ ἀσήμου
+r.6    ἀμφοτέρων ἀπʼ Ὀξυρύγχων πόλεως ἐνταφιαστῶν. τῇ ἐνεστώσῃ
+r.7    ἡμέρᾳ ἐπετράπημεν
+r.8    ὑπὸ σοῦ διὰ Ἡρακλείου
+r.9    ὑπηρέτου ἐπιδεῖν σῶμα νεκρὸν Ἄπιος Παύσιος ἀπὸ τῆς αὐτῆς πόλ[ε]ως καὶ προσφωνῆσαι
+r.10   [τὴν περὶ τὸ αὐ]τὸ διάθεσιν.
+r.11   [ἐπιδόντες οὖν] τὸ αὐτὸ σῶ[μα ἐν τῇ οἰκίᾳ] αὐτοῦ ἐπ[ι]
+
+[TRANSLATION]
+# HGV-EN: To Phocion, strategus, from Thonis son of Florus and Ptolema, aged about 35 years, having a scar upon his left wrist, and from Thonis son of Petaus and Taoues, aged about 62, with no distinguishing mark, both of Oxyrhynchus, mummifiers. To-day we were commissioned by you through your assistant Heracleus to inspect the dead body of Apis son of Pausis, of the said city, and to report the circumstances of the case. We therefore inspected the said body at his house...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

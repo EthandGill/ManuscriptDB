@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.947
+label:    O.BODL 2.947
+name:     Receipt — Theben
+genre:    receipts
+date:     35 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (35 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71637
+source:   https://papyri.info/ddbdp/o.bodl;2;947
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Ὧρος Περμάμιος ὑπὲρ ἀμπελῶνος κα ἔτους …
+r.2    δραχμὴν α ὀβολὸν α 𐅵 καὶ τὰ προσδιαγραφόμενα ἐξ ὀβολοῦ α 𐅵. ἔτους κβ Τιβερίου Καίσαρο[ς]
+r.3    Σεβαστοῦ μηνὸς Νέου Σεβαστοῦ ιϛ. Πικῶς Κεφάλου.
+
+[TRANSLATION]
+1     
+2     
+3     

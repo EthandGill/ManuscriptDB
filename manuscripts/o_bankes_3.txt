@@ -1,0 +1,36 @@
+[META]
+id:       O.BANKES 3
+label:    O.BANKES 3
+name:     Receipt — Elephantine
+genre:    receipts
+date:     159 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (159 CE)
+# hgv-keywords: Quittung — Steuer (Landvermessungssteuer, geometria phoinikonos)
+tm:       699476
+source:   https://papyri.info/ddbdp/o.bankes;;3
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Οὔλπιο[ς] Κερεᾶλις μισθωτὴς
+r.2    ἱερᾶς πύλης Σοήνης διὰ Ἀντωνίου Ἰουλᾶτος βοηθοῦ· διέγραψεν Τισᾶτις καὶ μέτοχοι ὑπὲρ γεωμετρίας φοινικῶνος
+r.3    γενήματος ἔτους κβ δραχμὰς δώδεκα ἡμ[ιω]βέλιον δίχαλκον, γίνονται δραχμαὶ ιβ
+r.4    ἡμιωβέλιον χαλκοῖ β. ἔτους κγ Ἀντωνίνου
+r.5    σεβαστοῦ Εὐσεβοῦς,
+r.6    μηνὸς [Ἁ]δριανοῦ …
+r.7    δι’ … ασιπαγος
+r.8    ἀδελφοῦ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

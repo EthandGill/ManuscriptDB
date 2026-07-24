@@ -1,0 +1,28 @@
+[META]
+id:       SB 1.1931
+label:    SB 1.1931
+name:     Receipt — Elephantine
+genre:    receipts
+date:     69 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (69 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23073
+source:   https://papyri.info/ddbdp/sb;1;1931
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διαγεγράφηκεν Πασινοῦς Πετορζμήθεος ὑπὲρ λαογραφίας α ἔτους Αὔλου Οὐιτέλλιος Γερμανικὸς Ἐπεὶφ ιϛ
+r.2    ἀργυρίου δραχμὰς δέκα ἕξ, γίνονται δραχμαὶ ιϛ.
+r.3    ὁμοίως χειρωναξίου
+r.4    δραχμὰς εἴκοσι, γίνονται δραχμαὶ κ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

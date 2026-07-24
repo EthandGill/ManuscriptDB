@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.659
+label:    O.BODL 2.659
+name:     Receipt — Theben
+genre:    receipts
+date:     35 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (35 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71350
+source:   https://papyri.info/ddbdp/o.bodl;2;659
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πτολεμαῖος Ἀσκλᾶτος Ευμήλῳ
+r.2    Χεσθώτου χαίρειν. ἀπέχω παρὰ σοῦ
+r.3    τὸ πρόλοιπον τοῦ βαλανευτικοῦ τοῦ κα ἔτους.
+r.4    ἔτους κβ Τιβερίου Καίσαρος Σεβαστοῦ Ἁθὺρ θ.
+r.5    Πτολεμαῖος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

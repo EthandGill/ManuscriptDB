@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.152
+label:    O.STRAS 1.152
+name:     Receipt — Theben
+genre:    receipts
+date:     213 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (213 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75753
+source:   https://papyri.info/ddbdp/o.stras;1;152
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαῶφι γ τοῦ κβ ἔτους ὀνόματος
+r.2    Θερμούθιος Ψεντκαλίβιος ὑπὲρ στεφανικοῦ χρήματος Ἀγορᾶς δραχμὰς δύ[ο] διώβολον
+r.3    γίνονται δραχμαὶ β διώβολον. ἄλλας ιζ ὁμοίως δραχμὴν μίαν ἡμιωβέλιον
+r.4    γίνεται δραχμὴ α ἡμιωβέλιον. Ἀ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

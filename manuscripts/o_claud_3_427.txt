@@ -1,0 +1,24 @@
+[META]
+id:       O.CLAUD 3.427
+label:    O.CLAUD 3.427
+name:     Documentary papyrus — Mons Claudianus
+genre:    documents
+date:     137 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Mons Claudianus (137 CE)
+# hgv-keywords: Anweisung — Auszahlung — Ration
+tm:       73610
+source:   https://papyri.info/ddbdp/o.claud;3;427
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Κάρπος Ἀλ[εξάν]δρῳ κιβαρ[ιάτῃ χαί]ρειν. κα[λῶς ποιήσεις]
+r.2    δοὺς Ε … [ τὸ κι]βάριν …
+
+[TRANSLATION]
+1     
+2     

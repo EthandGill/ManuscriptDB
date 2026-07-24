@@ -1,0 +1,30 @@
+[META]
+id:       BGU 1.211
+label:    BGU 1.211
+name:     Receipt — Psenarpsenesis (Arsinoites)
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Psenarpsenesis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Psenarpsenesis (Arsinoites) (158 CE – 159 CE)
+# hgv-keywords: Quittung — Getreide (Saat)
+tm:       8974
+source:   https://papyri.info/ddbdp/bgu;1;211
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σπερμάτων ἔτους κβ Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.2    νγ κληρουχίας Σαβῖνος Σισόιτος Ψεναρψενήσεως
+r.3    Καμηλειανῆς ἀρουρῶν ϛ δ, Πτολεμαίδος προσόδου ἀρουρῶν β ιϛ ξδ
+r.4    Πτολεμαῖος Καράνου ἔγραψα.
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 22 of Antoninus Caesar, the lord. 53rd cleruchy. Sabinos, son of Siois. At Psenarpsenesis 6 1/4 arouras on the Camelian (estate), 3 at Ptolemais 2 1/16 1/64 arouras of revenue land. I, Ptolemaios, son of Karanos, wrote this.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

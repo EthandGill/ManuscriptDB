@@ -1,0 +1,28 @@
+[META]
+id:       O.HEID 256
+label:    O.HEID 256
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     193 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (193 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, Kopfsteuer, merismos epikephalaiu)
+tm:       80474
+source:   https://papyri.info/ddbdp/o.heid;;256
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαῶφι κα τοῦ β ἔτους ὀν[όματος]
+r.2    Φμόιτος Ψανσνῶτ[ος]
+r.3    ὑπὲρ μερισμοῦ ἐπικεφαλαίου β ἔτους … [δραχμὰς τέσ]σαρες, γίνονται δραχμαὶ δ. Φ σεσημείωμαι.
+r.4    ἄλλαι Φα … δραχμ … ὀβολ 4 …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,26 @@
+[META]
+id:       O.THEB 134
+label:    O.THEB 134
+name:     Documentary papyrus — Theben (Ägypten)
+genre:    documents
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Toronto
+shelf:    
+content:  Documentary papyrus from Theben (Ägypten) (1 CE – 200 CE)
+# hgv-keywords: Anweisung — Zahlung — Schuld
+tm:       76504
+source:   https://papyri.info/ddbdp/o.theb;;134
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Σαραπί[ω]ν Φθομώνθει χαίρειν.
+r.2    τὰ πρὸς Κράτητα εὐθέως
+r.3    ἀπάλλαξον κατὰ τὰς συνθ[ή]κας, οὐδὲν γὰρ ζητεῖται πρὸς αὐτόν.
+
+[TRANSLATION]
+1     
+2     
+3     

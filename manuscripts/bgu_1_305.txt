@@ -1,0 +1,42 @@
+[META]
+id:       BGU 1.305
+label:    BGU 1.305
+name:     Contract — Arsinoiton Polis
+genre:    contracts
+date:     556 CE
+language: Greek (Koiné)
+found:    Arsinoiton Polis
+held:     
+shelf:    
+content:  Contract from Arsinoiton Polis (556 CE)
+# hgv-keywords: Vertrag — Pacht — κέλλιον
+tm:       41056
+source:   https://papyri.info/ddbdp/bgu;1;305
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    μετὰ τὴν ὑπατείαν Φλαουίου Βασιλίου
+r.2    τοῦ λαμπροτάτου, Παῦνι ιθ τέλει δ ἰνδικτίωνος ἐν [Ἀρσινόης].
+r.3    Φλαουίῳ Ἀπίωνι τῷ ἐνδοξοτάτῳ στρατηλάτῃ
+r.4    [π]αγάρχῳ τῆς Ἀρσινοιτῶν καὶ Θεοδοσιουπολιτῶν Αὐρήλιος Νεφερᾶς υἱὸς Ἰσὰκ
+r.5    σύμμαχος ἀπὸ τῆς αὐτῆς π[όλεως ἀπὸ]
+r.6    ἀμφό[δο]υ Ψαππαλλίου χαίρειν. ὁ[μολογῶ με]μισθῶσθαι παρὰ τῆς ὑμετέρας ἐνδοξότητος ἀπὸ τῶν ὑπαρχόντων αὐτῇ διὰ Φοιβάμμωνος τοῦ εὐλαβεστάτου διακόνου
+r.7    ἐπὶ τῆσδε τῆς πόλεως καὶ τοῦ αὐτοῦ ἀμφόδου Ψαππαλλίου ἐν οἰκίᾳ ἀνεῳγμένῃ εἰς
+r.8    λίβα ἐν τῷ αἰθρίῳ κέλλιον ἓν ἀνεῳγμένον εἰς βορρᾶ καὶ ἐν τῷ δώματι καλύβην ἀνεῳγμένην εἰς λίβα μετὰ παντὸς αὐτῶν τοῦ δικαίου σὺν χρηστηρίοις πᾶσι … ε … ς …
+r.9    μίσθωσις κελλίου καὶ καλύβης ἐπʼ ἀμφ[όδου Ψαππαλλίου γενομένη ὑπὸ Αὐρηλίου Νεφερᾶ υἱοῦ]
+r.10   Ἰσὰκ [συμμάχου] …
+
+[TRANSLATION]
+# HGV-EN: † After the consulship of Flavius Basilius, vir clarissimus, Payni 19, at the end of the 4th indiction, in [the city of the Arsinoites]. (m. 2) To Flavius Apion, the most glorious magister militum and pagarch (of the city) of the Arsinoites (and) the Theodosiopolites, Aurelius Nepheras, son of Isak, symmachos from the same city [from] the Psappalliou quarter, greetings. I acknowledge that I have leased from your Illustriousness from your property through Phoibammon, the most devout deacon, in this very city and the same Psappalliou quarter, in a house facing west, in the light well one small room facing north and on the flat roof a chamber, facing west with every right attaching to them and together with all appurtenances – – – verso † Lease of a small room and a chamber in the [Psappalliou] quarter, [drawn up by Aurelius Nepheras, son] of Isak, [symmachos – – –].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

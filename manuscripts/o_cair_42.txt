@@ -1,0 +1,28 @@
+[META]
+id:       O.CAIR 42
+label:    O.CAIR 42
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     2 BCE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (2 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       73388
+source:   https://papyri.info/ddbdp/o.cair;;42
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    Ἑρμαῖος Χαρήσει Μεσουήριος.
+r.2    καταβέβληκας τὴν λογείαν τοῦ βαλανείου
+r.3    Μεμνονείων τοῦ κη ἔτους
+r.4    Καίσαρος. Παχὼν κβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

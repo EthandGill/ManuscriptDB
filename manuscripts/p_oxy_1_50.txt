@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 1.50
+label:    P.Oxy. 1.50
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     99 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (99 CE)
+# hgv-keywords: Quittung (Bank) an den Agoranomen — Freilassung eines Sklaven
+tm:       20712
+source:   https://papyri.info/ddbdp/p.oxy;1;50
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Θέων καὶ οἱ μέτοχοι τραπεζῖται τῷ ἀγορανόμῳ
+r.2    χαίρειν. τέτακται τῇ β τῶν ἐπαγομένων
+r.3    προπρατικοῦ Ἀφροδι δουλο ἀργυρίου ἐπισήμου
+r.4    δραχμὰς δέκα καὶ χαλκοῦ πρὸς
+r.5    ἀργύριον τάλαντα β χ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

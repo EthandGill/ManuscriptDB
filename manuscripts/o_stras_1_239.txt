@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.239
+label:    O.STRAS 1.239
+name:     Receipt — Theben
+genre:    receipts
+date:     160 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (160 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75836
+source:   https://papyri.info/ddbdp/o.stras;1;239
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ὧρος καὶ Πορ πράκτορες ἀργυρικῶν Χάρακος Πα …
+r.2    Παῶτος. ἔσχομεν ὑπὲρ σ[κο]πέλων [κα]ὶ ἄλλων κγ ἔτους δραχμὰς δύο
+r.3    γίνονται δραχμαὶ β. ἔτους κγ Ἀντωνίνου
+r.4    [Καίσαρ]ος τοῦ κυρίου Ἐπεὶφ κ. Π … εις
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,52 @@
+[META]
+id:       P.ABINN 58
+label:    P.ABINN 58
+name:     Contract — Ptolemais Euergetis (Arsinoites)
+genre:    contracts
+date:     345 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Ptolemais Euergetis (Arsinoites) (345 CE)
+# hgv-keywords: Vertrag — Aufwandsentschädigung für Abinnaeus von einem Prytanen — der ihn um die Besorgung einer epistula exactoriae vom Kaiser bittet
+tm:       10049
+source:   https://papyri.info/ddbdp/p.abinn;;58
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    μετὰ τὴν ὑπατεί[α]ν Φλαουίου Λεοντίου καὶ Ἰουλίου Σαλουστίου
+r.2    τῶν λαμπροτάτων
+r.3    Μεχὶρ ζ.
+r.4    Αὐρήλιος Εὐλόγειος Ἀνδρέα ἔναρχος πρύτανις
+r.5    προπολιτευόμενο[ς] τῆς Ἀρσινοιτῶν πόλεως
+r.6    Φλαουίῳ Ἀβενναίῳ ἀπὸ ἐπάρχων εἴλης χαίρειν.
+r.7    ἀπαντοῦντί σοι ἐν τῷ ἱερῷ κομιτάτῳ ἐντέλλομαί σοι καὶ
+r.8    ἐπιτρέπω κατὰ τήνδε τὴν ἐντολὴν ὅπως ἐπιστολὴν
+r.9    ἐξακτορίας ἐπʼ ὀνόματός μου ἐνέγ κῃς παρὰ τῆς θειότητος
+r.10   τῶν δε[σ]ποτῶν ἡμῶν αἰωνίων Αὐγούστων, ἐμοῦ ἐπιγιγνώσκοντος εἴ τι ἐὰν ἁπαξαπλῶς ἀναλώσῃς εἰς τὴν
+r.11   αὐτὴν ἐπιστολὴν τῇ σῇ πίστει. ἐξεδόμην σοι τοίνυν
+r.12   τόδε τὸ ἐντολικὸν ἐπὶ ὑπογραφῆς μου, ὅπερ κύριον
+r.13   ἔστω πανταχοῦ ἐπι[φερ]όμενον, καὶ ἐπερωτηθεὶς ὡμολόγησα.
+r.14   Αὐρήλιος Εὐλόγιο[ς] πρύτανις ἐξεδόμην σοι
+r.15   τὴν ἐντολὴ[ν] καὶ ἐμμενῶ πᾶσι ὡς πρόκειται.
+
+[TRANSLATION]
+# HGV-EN: [Translation from P.Abinn.] After the consulship of Flavius Leontius and Iulius Sallustius the most illustrious, Mecheir 7. Aurelius Eulogius son of Andrew, prytanis in office, president of the senate of the city of the Arsinoites, to Flavius Abinnaeus, formerly praefectus alae, greeting. On the occasion of your visit to the Imperial suite I instruct and commission you by this power of attorney to procure in my name from the sanctity of our masters the eternal Augusti a certificate of appointment as exactor, and I undertake to discharge all expenses whatever incurred by you on your responsibility for the said certificate. I have therefore delivered to you this power of attorney with my subscription, which shall be valid wherever produced, and in reply to the formal question I have given my consent. I Aurelius Eulogius, prytanis, have delivered to you the power of attorney and abide by all the aforesaid terms.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

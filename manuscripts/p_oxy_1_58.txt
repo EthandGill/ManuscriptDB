@@ -1,0 +1,56 @@
+[META]
+id:       P.Oxy. 1.58
+label:    P.Oxy. 1.58
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     288 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (288 CE)
+# hgv-keywords: Schreiben (amtlich) — Servaeus (oder Nervaeus) Africanus an die Strategen der Heptanomia — Einsparungen im öffentlichen Dienst — Personal
+tm:       20720
+source:   https://papyri.info/ddbdp/p.oxy;1;58
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [Ν]ερβαῖος Ἀφρικανὸς στρατηγοῖς ἐπιστρατηγίας ἑπτὰ νομῶν καὶ Ἀρσινοίτου
+r.2    χαίρειν.
+r.3    ἀπʼ αὐτῶν τῶν [λ]όγων ἐφάνη ὡς
+r.4    πολλοὶ βουλόμενοι τὰς ταμιακὰς οὐσίας κατεσθίειν ὀνόματα ἑαυτοῖς ἐξευρόντες, οἱ μὲν χειριστῶν οἱ δὲ γραμματέων οἱ δὲ φροντιστῶν, ὄφελος
+r.5    μὲν οὐδὲν περιποιοῦσιν τῷ ταμείῳ
+r.6    τὰ δὲ περιγεινόμενα κατεσθίουσιν·
+r.7    διʼ ὅπερ ἐδέησεν ἐπισταλῆναι ὑμῖν
+r.8    ἵνα ἑκάστης οὐσίας ἕνα τινὰ φροντιστὴν ἀξι[ό]χρεων κινδύνῳ ἑκάστης
+r.9    βουλῆς αἱρεθῆναι ποιήσητε, τὰ δὲ
+r.10   λοιπὰ ὀνόματα παύσηται, δυναμένου
+r.11   τοῦ αἱρουμένου φροντιστοῦ δύο
+r.12   ἢ τό γε πλεῖστον τρεῖς προσαιρε[ῖ]ν
+r.13   τοὺς ἐξυπηρετησομένους αὐτῷ
+r.14   πρὸς τὴν φροντίδα. οὕτω[ς αὐ]τά τε
+r.15   τὰ μάταια ἀναλώματα π[α]ύσεται
+r.16   καὶ αἱ ταμιακαὶ οὐσίαι τῆς προσηκούσης ἐπιμελείας τεύξονται. δηλαδὴ δὲ τοιούτους αἱρεθῆναι ποιήσετε τοὺ[ς] τοῖς φρον[τι]σταῖς ὑπηρετησομένους οἳ καὶ βασάνοις ὑποκείσονται. ἔρρωσθε.
+r.17   ἔτους ε καὶ δ , Θὼθ ιϛ.
+
+[TRANSLATION]
+# HGV-EN: Servaeus Africanus to the strategi of the epistrategia of the Heptanomis and Arsinoite nome, greeting. The accounts have themselves proved that a number of persons wishing to swallow up the estates of the treasury have devised for themselves various titles, such as administrators, secretaries, or superintendents, by which means they secure no advantage to the treasury but swallow up its surplus. It has therefore become necessary to send you instructions to cause the election, on the responsibility of the several councils, of a single trustworthy superintendent over each estate, and to put an end to the other offices. The superintendent elected shall have the power to choose two or at most three other persons to assist him in his work. In this way useless expense will be stopped, and the estates of the treasury will receive proper attention. You will of course take care that only such persons are appointed to assist these superintendents as are in a position to stand the test.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

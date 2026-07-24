@@ -1,0 +1,32 @@
+[META]
+id:       ANALPAP 31.48
+label:    ANALPAP 31.48
+name:     Contract — Fundort: Karanis (Arsinoites, Ägypten); Schreibort: Krokodilopolis ? (Arsinoites, Ägypten)
+genre:    contracts
+date:     212 CE – 250 CE
+language: Greek (Koiné)
+found:    Fundort: Karanis (Arsinoites, Ägypten); Schreibort: Krokodilopolis ? (Arsinoites, Ägypten)
+held:     Ann Arbor
+shelf:    
+content:  Contract from Fundort: Karanis (Arsinoites, Ägypten); Schreibort: Krokodilopolis ? (Arsinoites, Ägypten) (212 CE – 250 CE)
+# hgv-keywords: Vertrag — Freilassung einer Sklavin — manumissio inter amicos
+tm:       942941
+source:   https://papyri.info/ddbdp/analpap;31;48
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    [] … τὴν δούλην μου Σαραποῦν χαρισ …
+r.2    … κατʼ οὐδένα τρόπον κα[θ]ὼς πρόκειτ[α]ι κα …
+r.3    [] … [μαρτυρ]ῶ Αὐρήλιος Ἑρμ[ᾶ]ς Ισ … μαρ[τυρῶ Αὐ]ρῆλις Τ … υρ …
+r.4    [] … μαρτυρῶ τῇ ἐλευ[θ]ερώσ[ει] …
+r.5    … 1. … ουηοι …
+
+[TRANSLATION]
+# HGV-EN: […] … Phil(?)[… of about] 39 [years old], (he) freed among friends [and (he) ordered she stayed free] … in the next … of June … [… Drawn up in the Arsin]oite nome, in the metropolis, on the 13th day before the Calends [of April … under the consulship … in the … year of …] Felix Augustus, [on the 24th] of the month Pham[enoth …] [(2nd hand) …] my slave Sarapous, … […] in no way, as set out above [… (3rd hand) … I am witne]ss (4th hand) I, Aurelius Hermas, son of Is[…], am wi[tness (5th hand) I, Au]relis [… (6th hand) …] I am witness of man[u]miss[io …]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

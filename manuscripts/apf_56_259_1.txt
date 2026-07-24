@@ -1,0 +1,30 @@
+[META]
+id:       APF 56.259_1
+label:    APF 56.259_1
+name:     Receipt — Elephantine
+genre:    receipts
+date:     79 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Uppsala
+shelf:    
+content:  Receipt from Elephantine (79 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       133428
+source:   https://papyri.info/ddbdp/apf;56;259_1
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Ἀσκληπιάδης
+r.2    Βάσσου ὑπὲρ λαογραφίας πρώτου
+r.3    ἔτους Τίτου Καίσαρος τοῦ κυρίου
+r.4    Μεσορὴ λ ἀργυρίου δραχμὰς δεκαέξ,
+r.5    γίνονται δραχμαὶ ιϛ. Πελέας ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

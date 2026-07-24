@@ -1,0 +1,32 @@
+[META]
+id:       O.WILB 6
+label:    O.WILB 6
+name:     Receipt — Elephantine
+genre:    receipts
+date:     74 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (74 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76518
+source:   https://papyri.info/ddbdp/o.wilb;;6
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Πετεσοῦχος … ερ … ιος
+r.2    ὑπὲρ λαογραφίας ἕκτου ἔτους
+r.3    Αὐτοκράτορος Καίσαρος [τοῦ] κυρίου
+r.4    Μεσορὴ γ, ἀργυρίου δραχμὰς ἕνδεκα
+r.5    ὁμοίως ἄλλας δραχμὰς πέντε γίνονται δραχμαὶ ιϛ
+r.6    Πελέας ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

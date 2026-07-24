@@ -1,0 +1,32 @@
+[META]
+id:       O.ASHM 41
+label:    O.ASHM 41
+name:     Receipt — Theben
+genre:    receipts
+date:     130 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (130 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70490
+source:   https://papyri.info/ddbdp/o.ashm;;41
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀσκλᾶς ἀπαιτη[τὴ]ς μερισμοῦ ποταμοφυλακίδος καὶ ἱεροῦ Ἰουλίου ποταμ[οῦ]
+r.2    ἐν Ἀλεξανδρείᾳ Ψεναμούνιος
+r.3    Θεοδώρου. ἔσχον ὑπὲρ μερισμοῦ …
+r.4    Θὼθ κ.
+r.5    Πανεχάτης
+r.6    Σενχῶνσις
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

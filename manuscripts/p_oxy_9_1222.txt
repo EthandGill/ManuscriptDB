@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 9.1222
+label:    P.Oxy. 9.1222
+name:     Letter — Oxyrhynchites, Ägypten
+genre:    letters
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites, Ägypten
+held:     
+shelf:    
+content:  Letter from Oxyrhynchites, Ägypten (301 CE – 400 CE)
+# hgv-keywords: Brief (privat) — Isidoros an seinen Sohn Demetrios
+tm:       33597
+source:   https://papyri.info/ddbdp/p.oxy;9;1222
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Ἰσίδωρος Δημητρίῳ υἱῷ χαίρειν. δὸς τῷ ἀδελφῷ Ἀμ[μ]ωνιανῷ τὸν πῶλον
+r.2    ἵνα ἐνεχθῇ μοι καὶ τὸ ἅλας τὸ ἀμ[μ]ωνιακὸν τὸ τετριμ[μ]ένον καὶ τὸ ἄτριπτον καὶ τὸ σπέρμα τοῦ ὠκίμου ἵνα θεραπεύσω αὐτὸν ὧδε ἕξω, ἐπεὶ γὰρ ἠξιώθην ὑπὸ τοῦ
+r.3    πατρός μου Ποσιδωνίου παραμεῖναι τῇ ἀπαιτήσει τὰς πέντε ἡμέρας ταύτας·
+r.4    καὶ πέμψον ἐμοὶ περὶ εἴ τινος χρείαν ἔχετε. ἐρρῶσθαι ὑμᾶς εὔχομαι πολλοῖς χρόνοις.
+
+[TRANSLATION]
+# HGV-EN: Isidorus to his son Demetrius, greeting. Give your brother Ammonianus the colt to be brought to me and the salt of ammonia, both the pounded and the unpounded, and the basil-seed, in order that I may doctor him away here, for I have been asked by my father Posidonius to stay for the collection during these five days; and send to me about anything you need, I pray for your lasting health.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

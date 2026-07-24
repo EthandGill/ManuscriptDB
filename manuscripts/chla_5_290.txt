@@ -1,0 +1,28 @@
+[META]
+id:       CHLA 5.290
+label:    CHLA 5.290
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     236 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (236 CE)
+# hgv-keywords: Fragment — Eingabe (Aurelia Diodora an den Praefekten) — Bitte um Zuweisung eines Vormundes
+tm:       21331
+source:   https://papyri.info/ddbdp/chla;5;290
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Διοδώρα ἐπιδέδωκα τὰ βιβλ[ίδια ταῦτα αἰτουμένη ὅπως ἐπιγραφῆ κύριος]
+r.2    μου Αὐρήλιος Θέων ὁ καὶ Ἀσκληπιὸ[ς] …
+r.3    Ἰ[σιδώρ]ου ἔγραψα ὑπὲρ αὐτῆ[ς μὴ εἰδυίης γράμματα. Αὐρήλιος Θέων ὁ καὶ Ἀσκλη][πιὸς εὐδοκ]ῶ τῇ αἰτηση ἔτους γ Αὐ[τοκράτορος Καίσαρος Μαξιμίνου Σεβαστοῦ Ἁθὺρ κδ.]
+
+[TRANSLATION]
+# HGV-EN: To Mevius Honoratianus, prefect [of Egypt, from Aurelia Diodora. I ask you, my lord, to appoint to me] as guardian, in accordance with the [Julian and Titian] law [and by decree of the senate, Aurelius Theon. Dated] on the XII of the Kalends of December, in the consulship of our lord Verus [Maximinus Augustus and Pupienus Africanus].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     Diodora I have submitted these documents [asking that my lord be appointed]
+2     my Aurelius Theon who is also Asklepios […]
+3     [Isido]ros I wrote on behalf of her [not knowing letters]. Aurelius Theon who is also Asklepios I approve the petition [in the third year of Imperator Caesar Maximinos Augustus on] Hathyr [the 24th].

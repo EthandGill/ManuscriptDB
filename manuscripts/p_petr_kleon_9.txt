@@ -1,0 +1,42 @@
+[META]
+id:       P.PETR.KLEON 9
+label:    P.PETR.KLEON 9
+name:     Letter — Zielort: Arsinoites; Fundort: Gurob; Schreibort: Alexandria
+genre:    letters
+date:     260 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Zielort: Arsinoites; Fundort: Gurob; Schreibort: Alexandria
+held:     Dublin
+shelf:    
+content:  Letter from Zielort: Arsinoites; Fundort: Gurob; Schreibort: Alexandria (260 BCE – 249 BCE)
+# hgv-keywords: Brief (privat) — Philonides an seinen Vater Kleon — Geschenke (?) — Urteil
+tm:       7673
+source:   https://papyri.info/ddbdp/p.petr.kleon;;9
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [Φιλωνίδης τ]ῶι πατρὶ χαίρειν. εἰ ὑγιαίνεις καὶ τὰ λοιπ[ά σοι κατὰ γνώμην ἐστίν, καλῶς ἂν ἔχοι, ὑγιαίνω δὲ]
+r.2    [καὶ αὐτός. ἤ]νεγκα τὸ ἀφροδίσιον τῶι βασιλεῖ ἐν τοῖς …
+r.3    … ὑαλίνην γενέσθαι καὶ ῥυτὸν τρίτ[ωνος ἔχον προτομήν] …
+r.4    … [κ]αὶ ὅσ[ο]ν πεντάπηχους ζώιου. ὁ γὰρ …
+r.5    … ι χορηγεῖν. [ἔφ]ησεν [α]ὐτὸς π[ο]ήσειν μοι π …
+r.6    ἐ … τρίτωνι τῆι ει … αι πο … ωι ἀποδοῦναι [Ποσε]ιδωνί[ωι] …
+r.7    πόθεν δεῖ δοῦνα[ι]. ἐὰν [ο]ὖν σ[υ]ντελέσωμαί τι, ἀποστελῶ π[ρὸς] …
+r.8    γνῶσιν τὴν παρὰ τῶν χρηματιστῶν. ἔστι δὲ πάντα ὡς θέλ[εις] …
+r.9    ἐπιστολὴν, ὅπως αν … ια σε καὶ γεσ … εις ἀποσταλ …οις ἀναγκα[ῖον] ἦν ευ …
+r.10   Κλέωνι
+
+[TRANSLATION]
+# HGV-EN: Philonides to his father, greetings. If you are in good health and every[thing else is as you wish, that would be fine. I am in good health too myself]. I have brought the aphrodision for the king in the [...] to be made of glass and a Triton-shaped drinking-cup [...] of a figure, about five cubits high [...]. He has said that he himself will make for me [...] a triton [...] to give to [Pos]eidonios ...] from where it should be given. If, then, I will complete something, I will send it to [...] the verdict from the chrematistai. Everything is as you wish it [...] letter, so that [...] you and [...] it was necessary [...].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

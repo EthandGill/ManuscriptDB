@@ -1,0 +1,30 @@
+[META]
+id:       P.LOUVRE 3.186
+label:    P.LOUVRE 3.186
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     216 CE – 217 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Paris
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (216 CE – 217 CE)
+# hgv-keywords: Deklaration — Zensus — tomos synkollesimos — Fragment
+tm:       97213
+source:   https://papyri.info/ddbdp/p.louvre;3;186
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    λ
+r.2    παρὰ Αὐρηλίας Σερηνίλλης τῆς καὶ Διονυσίας Σαραπίωνος τοῦ καὶ Σερήνου
+r.3    μητρὸς Φαυστίνης ἀπ' Ὀξυρύγχων πόλεως διὰ Αὐρηλίου
+r.4    [τοῦ δεῖνος. κατὰ τὰ] [κελευσ]θέντα [ὑπὸ O]ὐ[α]λερίου
+r.5    Σερηνίλλ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

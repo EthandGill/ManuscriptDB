@@ -1,0 +1,28 @@
+[META]
+id:       O.ASHM.SHELT 32
+label:    O.ASHM.SHELT 32
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuern — Getreide — Kopie
+tm:       70584
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;32
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [ἀντίγρα]φον ἀποχῆς
+r.2    [μέτρημα θησαυροῦ ][μ]ητροπόλεως γενήματος ϛ ἔτους
+r.3    … ὀνόματος Μεγχφρ …
+r.4    … ψεω …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

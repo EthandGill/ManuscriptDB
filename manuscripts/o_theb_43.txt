@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB 43
+label:    O.THEB 43
+name:     Receipt — Theben
+genre:    receipts
+date:     76 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (76 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76413
+source:   https://papyri.info/ddbdp/o.theb;;43
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκε Ψεναμοῦ[ν]ις
+r.2    Ἁρφμόιτος ὑπὲρ χωματικοῦ Ἀγορῶν βορρᾶ η ἔτους
+r.3    δραχμὰς ϛ τετρώβολον βαλανικοῦ τετρώβολον ἡμιωβέλιον γίνονται καὶ προσδιαγραφόμενα. ἔτους η Οὐεσπασιανοῦ τοῦ κυρίου
+r.4    Ἐπεὶφ λ γ. Ἀπίων σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

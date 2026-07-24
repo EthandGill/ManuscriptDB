@@ -1,0 +1,44 @@
+[META]
+id:       P.LOUVRE 3.220
+label:    P.LOUVRE 3.220
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     501 CE – 700 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     Paris
+shelf:    
+content:  Documentary papyrus from Arsinoites (501 CE – 700 CE)
+# hgv-keywords: Abrechnung — Geld
+tm:       978763
+source:   https://papyri.info/ddbdp/p.louvre;3;220
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    λόγος … α [ν]ομίσματα ιβ ἀρίθμια
+r.2    ἀφ’ ὧν διὰ Φοιβ … [νομίσματα] [γ]
+r.3    καὶ διὰ Ἀπολλῶ Γεροντίου [νομίσματα] β
+r.4    καὶ διὰ Ἀνοῦπ Μακαρίου νόμισμα α
+r.5    καὶ διὰ Ἰωάννου Πέτρου νόμισμα α
+r.6    καὶ διὰ Βίκτωρος Νααραῦ [νόμισμα] α
+r.7    καὶ διὰ Γεωργίου Νείλου νομίσματος γ
+r.8    καὶ διὰ Γεροντίου ἀπὸ Κουεισάν νομίσματος γ
+r.9    καὶ διὰ Ποῦσι Ἀπολλῶκεράτια γ 𐅵 δ
+r.10   καὶ διὰ γαμετῆς Γεροντίου κεράτιον α 𐅵 δ
+r.11   ὁμοῦ νομίσματα η 𐅵 γ κεράτιον α 𐅵 δ
+r.12   λοιπὸν νομίσματα γ κεράτιον α 𐅵
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

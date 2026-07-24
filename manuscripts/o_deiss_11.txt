@@ -1,0 +1,28 @@
+[META]
+id:       O.DEISS 11
+label:    O.DEISS 11
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     155 BCE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     Sydney
+shelf:    
+content:  Receipt from Hermonthis (155 BCE)
+# hgv-keywords: Quittung — Bank — Steuern
+tm:       73824
+source:   https://papyri.info/ddbdp/o.deiss;;11
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    ἔτους κζ Θώυθ κζ. τέτακται ἐπὶ τὴν ἐν Ἑρμώνθει
+r.2    τράπεζαν, ἐφʼ ἧς Ἑρμίας, βαλανευτικον͂ Μεμνονείων κζ ἔτους
+r.3    Ἀμμώνιος Ὀννόφρεως τριχιλίας τετρακοσίας ἑβδομήκοντα γίνονται Γυο.
+r.4    Δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

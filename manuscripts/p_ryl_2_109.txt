@@ -1,0 +1,52 @@
+[META]
+id:       P.RYL 2.109
+label:    P.RYL 2.109
+name:     Documentary papyrus — Hermopolis
+genre:    documents
+date:     235 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Documentary papyrus from Hermopolis (235 CE)
+# hgv-keywords: Deklaration — Erbschaft (Wert)
+tm:       19500
+source:   https://papyri.info/ddbdp/p.ryl;2;109
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    … ου τοῦ … [ π]άντων [ἀφʼ] Ἑ[ρ][μοῦ πόλεω]ς τῆς μεγά[λης] ἀρ[χα]ίας καὶ λαμπρᾶ[ς]
+r.2    κ[αὶ σεμνοτάτης.] ὡς Αὐρήλιος Ἑρμίας Πτολεμαίου Ῥωμαῖος καὶ
+r.3    Ἑρμοπολίτης ἀναγραφόμενος ἐπὶ Πόλεως Ἀπηλιώτου πατὴρ τῶ[ν] δυοῖν
+r.4    προδεδ[η]λωμένων ἀφηλίκων ἐτελεύτησε
+r.5    κληρονόμους ἀποφήνας ἀμφοτέρους ἡμᾶς
+r.6    τοὺς ἑ[αυτο]ῦ υἱέας ἐκ διαθήκης τῆς καὶ ἀνοιχθε[ίσ]ης κατὰ τὸ ἔθος ἐν τῷ ἐφʼ Ἑρμοῦ πόλεως Κα[ι]σαρείῳ ἐπὶ παρόντι σοι διὰ βοηθοῦ
+r.7    τῇ κη τοῦ ὄντος Μεσορὴ μηνὸς ὥρας ἀρχομένης τετάρτης, ὀμνύομεν τὴν τοῦ κυρίου
+r.8    ἡμῶν Αὐτοκράτορος Καίσαρος Γαίου Ἰουλίου
+r.9    Οὐήρου Μ[α]ξιμίνου Εὐσεβοῦς Εὐτυχο[ῦ]ς Σεβαστοῦ
+r.10   τύχην τὰ καταλειφθέντα σύμπαντα [ὑ]πὸ
+r.11   τοῦ προκειμένου πατρὸς ἡμῶν ἄξια εἶναι
+r.12   ὡς ταλάντων Σεβαστῶν δέκα . ἔτους α Μεσορὴ λ.
+r.13   Αὐρήλιος Ἑρμόδ[ωρ]ος ὁ καὶ Ἀπολλώνιος ἐπίτροπος τῶν ἀφηλίκων
+r.14   ἀναγραφόμενος ἐπὶ Φρ[ουρίου] Λιβὸς ὤμοσα ὑπὲρ αὐτῶν ὡς
+r.15   πρόκειτ[αι.]
+
+[TRANSLATION]
+# HGV-EN: ‘Whereas the death has occurred of Aurelius Hermias son of Ptolemaeus, a Roman citizen of Hermopolis registered in the East-end quarter, father of the two minors aforesaid, and whereas he declared us his two sons his heirs in accordance with the will opened according to custom in the Caesareum, you being represented by an assistant, on the 38th of the present month Mesore at the commencement of the fourth hour, we swear by the fortune of our lord the Emperor Caesar Gaius Julius Verus Maximinus Pius Felix Augustus that the property left by our aforesaid father is worth in all about 10 Imperial talents. The 1st year, Mesore 30. (Signed) I, Aurelius Hermodorus also called Apollonius, guardian of the minors, registered in the quarter of the Western Guard-house, have taken the oath on their behalf as aforesaid.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

@@ -1,0 +1,36 @@
+[META]
+id:       P.WORP 43
+label:    P.WORP 43
+name:     Receipt — Elephantine
+genre:    receipts
+date:     137 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (137 CE)
+# hgv-keywords: Quittung — Steuer (Kopfsteuer, laographia)
+tm:       115572
+source:   https://papyri.info/ddbdp/p.worp;;43
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Ἰούλιος] [Σ]αβῖνος καὶ οἱ σὺν
+r.2    [αὐτῷ] [γενόμενοι] [ἐπ]ιτηρηταὶ Ἱερᾶς Πύλης Σοήνης διὰ Παλα[χήμιος] [β]οηθοῦ. διέγραψεν Πετορζμῆθις Πατσέβτιος
+r.3    τοῦ καὶ Κασίου μητρὸς Θινμεαῦτος ὑπὲρ λαογραφίας ιθ ἔτους
+r.4    Ἁδριανοῦ Καίσαρος τοῦ κυρίου ῥυπαρὰς δραχμὰς τέσσαρας τριώβολον ἡμιωβέλιον γίνονται δραχμαὶ δ τριώβολον
+r.5    ἡμιωβέλιον. ἔτους κα Ἁδριανοῦ
+r.6    Καίσαρος τοῦ κυρίου Φαμεν[ὼ]θ δ,
+r.7    διὰ Κασίου ἀδελφοῦ.
+
+[TRANSLATION]
+# HGV-EN: Iulius Sabinus and his colleagues, former supervisors of the Sacred Gate of Syene through Palachemis, the assistant. Petorzmethis, son of Patsebtis alias Kasios, whose mother is Thinmeaus, paid for poll-tax of the 19th year of Hadrianus Caesar, the lord: gross four drachmas, 3½ obols, makes 4 drachmas, 3½ obols. The 21st year of Hadrianus Caesar, the lord, on the 4th of Phamenoth, through his brother Kasios.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB 113
+label:    O.THEB 113
+name:     Receipt — Theben
+genre:    receipts
+date:     217 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (217 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       76483
+source:   https://papyri.info/ddbdp/o.theb;;113
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἐπεὶφ κθ τοῦ α ἔτους ὀνόματος Πετεχεσποχράτου
+r.2    Ψεναπάθου ὑπὲρ κριθηλογίας Νήσων
+r.3    κριθῆς ἀρτάβης τρίτον δωδέκατον γίνεται ἀρτάβης γ ιβ.
+r.4    Ἀμμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

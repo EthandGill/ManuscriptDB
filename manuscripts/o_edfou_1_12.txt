@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 1.12
+label:    O.EDFOU 1.12
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     56 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (56 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       46952
+source:   https://papyri.info/ddbdp/o.edfou;1;12
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Σίμων Διονῦτος
+r.2    λαογραφίας β ἔτους δραχμὰς η
+r.3    ἔτους β Νέρωνος Μεσορὴ κγ
+
+[TRANSLATION]
+1     
+2     
+3     

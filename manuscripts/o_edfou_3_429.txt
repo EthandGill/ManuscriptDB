@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 3.429
+label:    O.EDFOU 3.429
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     94 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (94 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74405
+source:   https://papyri.info/ddbdp/o.edfou;3;429
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Πβήκιος Παχοίμιος
+r.2    καρπῶν χώματος
+r.3    Παβύρεως ιδ ἔτους δραχμὰς η ἔτους ιδ
+r.4    Χοίαχ η
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 411
+label:    O.PETR.MUS 411
+name:     Receipt — Theben
+genre:    receipts
+date:     207 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (207 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       75445
+source:   https://papyri.info/ddbdp/o.petr.mus;;411
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    παρεκομίσθησαν εἰς χώρτην ὑπὲρ γενήματος ιε ἔτους τῶν κυρ[ίων]
+r.2    Αὐτοκρατόρων Σεουήρου καὶ Ἀ[ντωνίνου]
+r.3    Εὐσεβῶν Σεβαστῶν Ἐπεὶφ κβ [ἀχύ]ρου ξεροῦ ἀπὸ γόμων ὀκτὼ ἥμισ[υ] …
+r.4    γόμων πέντε γίνονται γόμοι ε Ἀμ … [σεσημείωμαι]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

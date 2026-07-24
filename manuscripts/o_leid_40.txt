@@ -1,0 +1,26 @@
+[META]
+id:       O.LEID 40
+label:    O.LEID 40
+name:     Receipt — Theben
+genre:    receipts
+date:     8 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (8 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24612
+source:   https://papyri.info/ddbdp/o.leid;;40
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [διαγέ]γραφε ἐπὶ τὴν Κεφάλου τράπεζαν
+r.2    … πτοη … τοῦ κβ ἔτους
+r.3    [δραχμὰς ] … [ ἔτους κβ Κ]αίσαρος Φαρμοῦθι ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     

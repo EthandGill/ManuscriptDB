@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 1.7
+label:    O.EDFOU 1.7
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     115 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (115 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       43819
+source:   https://papyri.info/ddbdp/o.edfou;1;7
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους β Μεχεὶρ δ
+r.2    τέτακται ἐπ[ὶ τ]ὴν ἐν Ἀπόλλωνος πόλει
+r.3    τῆι μεγάλῃ τράπεζαν ἐπωνίων τοῦ
+r.4    αὐτοῦ ἔτους Ψενενοῦφις Ἁρεμσύνιος δισχιλίας
+r.5    γίνονται Β
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

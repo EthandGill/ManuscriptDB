@@ -1,0 +1,26 @@
+[META]
+id:       SB 16.12502
+label:    SB 16.12502
+name:     Receipt — Theben
+genre:    receipts
+date:     262 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (262 BCE)
+# hgv-keywords: Quittung — Steuer (Salz) — Name
+tm:       4128
+source:   https://papyri.info/ddbdp/sb;16;12502
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κδ Παῦνι ι
+r.2    Λέωγ ἁλικῆς συγ δραχμῆς ἥμισυ
+r.3    ὀβολὸς.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,32 @@
+[META]
+id:       O.LEID 76
+label:    O.LEID 76
+name:     Receipt — Theben
+genre:    receipts
+date:     68 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (68 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24648
+source:   https://papyri.info/ddbdp/o.leid;;76
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Σενφ[θου]μώνθης Πετεχώνσιος
+r.2    ὑπὲρ φοινικώνων ιγ ἔτους ἀρούρης δ η δραχμὰς ἑπτὰ τριώβολον,
+r.3    γίνονται ζ τριώβολον καὶ τούτων προσδιαγραφόμενα. ἔτους ιδ Νέρωνος
+r.4    Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.5    Αὐτοκράτορος μηνὸς Καισαρείου κϛ.
+r.6    Κέφαλος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

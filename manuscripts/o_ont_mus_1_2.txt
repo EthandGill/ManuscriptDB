@@ -1,0 +1,26 @@
+[META]
+id:       O.ONT.MUS 1.2
+label:    O.ONT.MUS 1.2
+name:     Receipt — Theben
+genre:    receipts
+date:     141 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (141 BCE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75025
+source:   https://papyri.info/ddbdp/o.ont.mus;1;2
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κθ Παῦνι λ μεμέτρηκεν κθ [ἔτους] Μεμνονείων Ἁρυώτης
+r.2    Ψεμμώνθου πυροῦ ἀρτάβας δύο δ γίνονται β δ Δυ …
+r.3    Κρατῖνος πυροῦ ἀρτάβαι β δ
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,32 @@
+[META]
+id:       P.MERT 1.33
+label:    P.MERT 1.33
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     344 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (344 CE)
+# hgv-keywords: Quittung (Pacht) — Weber (Teppich) — Geld
+tm:       21302
+source:   https://papyri.info/ddbdp/p.mert;1;33
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    παρέσχεν Κάστωρ Παθερμουθίου
+r.2    ταπητάριος ὑπὲρ ἐνοικίου ἑξαμήν[ου]
+r.3    τῶν ἀπὸ Φαμενὼθ ἕως Μεσορὴ
+r.4    ἀργυρίου τάλαντα δέκα τάλαντα ι μόνα.
+r.5    ἔτους λθ κα ιβ Ἁθὺρ γ.
+r.6    … νε
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,70 @@
+[META]
+id:       C.PAP.GR 2.1.38
+label:    C.PAP.GR 2.1.38
+name:     Documentary papyrus — Philopator alias Theogenus (Arsinoites)
+genre:    documents
+date:     142 CE
+language: Greek (Koiné)
+found:    Philopator alias Theogenus (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Philopator alias Theogenus (Arsinoites) (142 CE)
+# hgv-keywords: Anzeige — Tod
+tm:       8934
+source:   https://papyri.info/ddbdp/c.pap.gr;2.1;38
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    λδ
+r.2    [Σαραπ]ίωνι βασιλικῷ [γραμματεῖ Ἀρσινοίτου]
+r.3    [Ἡρ]ακλείδου μερίδος
+r.4    [παρὰ Ἀ]πύγχεως …
+r.5    τοῦ Ἀπ[ύ]γχεως μητρ[ὸς]
+r.6    Θαήσεως τῶν ἀπὸ κ[ώμης]
+r.7    Φιλοπάτορος τῆς [καὶ] Θε[ο]γένους. ὁ συνγεν[ή]ς μου
+r.8    Παποντῶς Ὀρσενούφεως
+r.9    τοῦ Παποντῶτος μητρὸς
+r.10   Ταρμούθεως λαογραφούμενο[ς] ἐπὶ τῆς προκειμένης κώμης ἐτελεύτησε
+r.11   τῷ Ἐπὶφ μηνὶ τοῦ ἐνεσ[τῶ]τος ε ἔτους Ἀντωνίνου
+r.12   Καίσαρος τοῦ κυρίου. διὸ
+r.13   ἀξιῶ ταγῆνα[ι αὐτὸν]
+r.14   ἐν τῇ τῶν τετε[λευτη]κότων τάξει καὶ ὀμ[νύω]
+r.15   τὴν Αὐτοκράτορος Καίσαρ[ος]
+r.16   Τίτου Αἰλίου Ἁδριανοῦ Ἀντω[νίνου]
+r.17   Σεβαστοῦ Εὐσεβοῦς τύχ[ην]
+r.18   ἀληθῆ εἶναι τὰ προγεγρα[μμένα].
+r.19   Ἀπύγχις ἐτῶν λβ οὐλὴ γόνατι δε[ξιῷ καὶ ὡς]
+r.20   εἰκονίζεται φαμένου μὴ εἰδέναι γράμματα διὰ
+r.21   νομογράφου.
+r.22   ἔτους ε Αὐτοκράτορος [Καίσαρος]
+r.23   Τίτου Αἰλίου Ἁδριανοῦ [Ἀντωνίνου]
+r.24   Σεβαστοῦ Εὐσεβοῦς Ἐπὶφ …
+
+[TRANSLATION]
+# HGV-EN: (m. 3) 34 (m. 1) To [Sarap]ion, royal [scribe] [of the Arsinoite nome, Her]akleides division, [from A]pynchis, [son of NN], the son of Ap[y]nchis, mother Thaesis, of those of the village of Philopator alias Theognenes. My relative Papontos, son of Orsenouphis, the son of Papontos, mother Tarmouthis, subject to poll-tax in the above mentioned village, died in the month of Epeiph of the present year 5 of Antoninus Caesar, the lord. Therefore I request that he be included in the list of those, who have died and I swear by the fortune of Imperator Caesar Titus Aelius Hadrianus Anto[ninus] Augustus Pius that what is written above is true. (m. 2) Apynchis, 32 years old, with a scar on his right knee and however else he may be described, saying that he does not know letters, through the nomographos. (m. 1) Year 5 of Imperator [Caesar] Titus Aelius Hadrianus [Antoninus] Augustus Pius, Epeiph [x].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    

@@ -1,0 +1,28 @@
+[META]
+id:       BIFAO 118.30_11
+label:    BIFAO 118.30_11
+name:     Documentary papyrus — Apollonopolis
+genre:    documents
+date:     651 CE – 700 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     Cairo
+shelf:    
+content:  Documentary papyrus from Apollonopolis (651 CE – 700 CE)
+# hgv-keywords: Steuern — Geld
+tm:       900982
+source:   https://papyri.info/ddbdp/bifao;118;30_11
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    … ὑπὲρ δημοσίων νομίσματα Μοβ ρ
+r.2    … λόγος δημοσίων τῆς κυρᾶς Πατρικίας
+r.3    … ἀπὸ νομισμάτων ΝΗρκ ρ τὸ γ νομίσματα ΙΘρναγ ρ
+r.4    … ὑπὲρ διαγράφου νομίσματα Ϛρμε ρ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

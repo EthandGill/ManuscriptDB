@@ -1,0 +1,30 @@
+[META]
+id:       SB 5.7587
+label:    SB 5.7587
+name:     Receipt — Elephantine
+genre:    receipts
+date:     94 CE – 95 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (94 CE – 95 CE)
+# hgv-keywords: Quittung — Steuern (χειρωνάξιον) — Namen
+tm:       17980
+source:   https://papyri.info/ddbdp/sb;5;7587
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [δι]έγραψεν Παχνοῦβις Ψενχνο
+r.2    ὑπὲρ χειρωναξίου ιδ ἔτους Δομιτιανοῦ
+r.3    τοῦ κυρίου ἐπὶ λόγου δραχμὰς ιθ. ὁμοίως δραχμὴν α διώβολον.
+r.4    γίνονται δραχμαὶ κ διώβολον.
+r.5    Σωκράτα πράκτωρ ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

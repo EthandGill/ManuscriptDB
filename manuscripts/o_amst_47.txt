@@ -1,0 +1,32 @@
+[META]
+id:       O.AMST 47
+label:    O.AMST 47
+name:     Receipt — Theben
+genre:    receipts
+date:     121 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (121 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70394
+source:   https://papyri.info/ddbdp/o.amst;;47
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πόστομος ὃς καὶ [Ὧ]ρος πράκτωρ
+r.2    ἀργυρικῶν Ἀγορῶν βορρᾶ Ἰμούθῃ …
+r.3    ἔσχον ὑπὲρ λαογραφίας καὶ βαλανευτικοῦ
+r.4    πέμπτου ἔτους ῥυπαρὰς δραχμὰς δώδεκα, γίνονται ῥυπαραὶ δραχμαὶ ιβ.
+r.5    ἔτους ε Ἁδριανοῦ
+r.6    Καίσαρος τοῦ κυρίου Μεσορὴ ιη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,26 @@
+[META]
+id:       BGU 2.642
+label:    BGU 2.642
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (101 CE – 200 CE)
+# hgv-keywords: Abrechnung
+tm:       28197
+source:   https://papyri.info/ddbdp/bgu;2;642
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἁτῆς Σαταβοῦτος ἄρουραι β 𐅵 ἀρτάβαι ια η κδ
+r.2    Ἀπύγχεις Σαραπίωνος ἄρουραι γ 𐅵 ἀρτάβαι ιϛ 𐅵 γ
+r.3    γίνεται ἐπὶ τὸ αὐτὸ ἀρτάβαι κη
+
+[TRANSLATION]
+1     
+2     
+3     

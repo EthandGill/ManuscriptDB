@@ -1,0 +1,36 @@
+[META]
+id:       BGU 6.1440
+label:    BGU 6.1440
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     153 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (153 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       4729
+source:   https://papyri.info/ddbdp/bgu;6;1440
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους κη Μεσορὴ ἐπαγομένων β
+r.2    εἰσμεμέτρηκεν εἰς θησαυρὸν Ἀπόλλωνος πόλεως εἰς τὸ
+r.3    αὐτὸ ἔτος Ἀραβίας Ἀραῦς Βίκιος
+r.4    πυροῦ ἑπτὰ γ ιβ γίνονται πυροῦ ζ γ ιβ.
+r.5    Ἀπολλώνιος.
+r.6    Λέων εἰσμεμέτρημαι ὑπὲρ τοῦ αὐτοῦ ἔτους Ἀραβίας
+r.7    Ἀραῦς Βίκιος πυροῦ ζ γ ιβ γίνονται ζ γ ιβ.
+r.8    ἔτους κη ἐπαγομένων β.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

@@ -1,0 +1,26 @@
+[META]
+id:       BGU 19.2774
+label:    BGU 19.2774
+name:     Documentary papyrus — Hermopolis
+genre:    documents
+date:     476 CE – 525 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Documentary papyrus from Hermopolis (476 CE – 525 CE)
+# hgv-keywords: Mitteilung (amtlich) — Johannes comes an die Eirenarchen — Befehl (Überstellung eines Bauern)
+tm:       91684
+source:   https://papyri.info/ddbdp/bgu;19;2774
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    παρὰ Ἰωάννου κόμιτος
+r.2    εἰρηνάρχαις κώμης Πώεως . Ἀβραάμιν τὸν γεωργὸν τοῦ κυρίου Ἑρμογένους
+r.3    παραῦτα θελή[σατ]ε ἐκπέμψαι εἰς τὴν πόλιν ἔρρωσθε
+
+[TRANSLATION]
+1     
+2     
+3     

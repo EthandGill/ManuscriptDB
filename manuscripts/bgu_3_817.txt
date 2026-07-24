@@ -1,0 +1,32 @@
+[META]
+id:       BGU 3.817
+label:    BGU 3.817
+name:     Receipt — Apias (Arsinoites)
+genre:    receipts
+date:     180 CE
+language: Greek (Koiné)
+found:    Apias (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Apias (Arsinoites) (180 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       9367
+source:   https://papyri.info/ddbdp/bgu;3;817
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους κ Λ[ο]υκίου Αὐρηλίου Κομμόδου
+r.2    Σε[β]αστοῦ Ἐ[πὶ]φ κγ διέγραψε Σύρῳ καὶ μετόχοις
+r.3    π[ρ]άκτορσι ἀργυρικῶν κώμης Ἀπιάδος Πανεφρέμμις
+r.4    Ἀπύγχεως διὰ Πανεφρέμμεως ι … μ ἀριθμητικοῦ
+r.5    κατοίκων κ ἔτους δραχμὰς ιϛ ὀβολὸν ἡμιωβέλιον προσδ[ια]γραφομένων [δραχμὴν α] χαλκοῦς 2 συμβολικόν
+
+[TRANSLATION]
+# HGV-EN: Year 20 of Lucius Aurelius Commodus Augustus, E[pei]ph 23. Paid to Syros and his associates, collectors of money taxes of the village of Apias, (by) Panephremmis, son of Apynchis, through Panephremmis, arithmetikon katoikon of year 20 16 drachmas 1 1/2 obols, extras charges [1 drachma] 2 chalkoi, receipt charge.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

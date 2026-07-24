@@ -1,0 +1,28 @@
+[META]
+id:       O.PARIS 2
+label:    O.PARIS 2
+name:     Receipt — Elephantine (?)
+genre:    receipts
+date:     77 CE
+language: Greek (Koiné)
+found:    Elephantine (?)
+held:     
+shelf:    
+content:  Receipt from Elephantine (?) (77 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24388
+source:   https://papyri.info/ddbdp/o.paris;;2
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγρ[αψε] Πολαΐδο[ς ] …
+r.2    ὑ[πὲρ] λαογρ[αφίας] ἐνά[του ἔτους]
+r.3    Οὐεσπασιανοῦ τ[οῦ κυρίου,]
+r.4    Μοσορὴ α, ἀργ[υρίου] δ[ραχμὰς δεκα]έξ, γίνονται δραχμαὶ ιϛ. Μέλανθις [ἔγραψα.]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

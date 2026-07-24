@@ -1,0 +1,32 @@
+[META]
+id:       P.SIJP 38m
+label:    P.SIJP 38m
+name:     Receipt — Theben
+genre:    receipts
+date:     64 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (64 CE)
+# hgv-keywords: Quittung — Steuer (Gewerbesteuer?) — Geld
+tm:       110186
+source:   https://papyri.info/ddbdp/p.sijp;;38m
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ψεμμώνθης Ἀράθης καὶ μέτοχοι
+r.2    Ψεναμούνιος Παναμέως
+r.3    χαίρειν· ἀπέχομεν παρὰ σοῦ τὸ τέλος
+r.4    Ἁθὺρ καὶ Χοίακ τοῦ
+r.5    ια ἔτους Νέρωνος τοῦ
+r.6    κυρίου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

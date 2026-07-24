@@ -1,0 +1,32 @@
+[META]
+id:       O.PETR.MUS 277
+label:    O.PETR.MUS 277
+name:     Receipt — Theben
+genre:    receipts
+date:     45 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (45 CE)
+# hgv-keywords: Quittung — Steuer (telos)
+tm:       77718
+source:   https://papyri.info/ddbdp/o.petr.mus;;277
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἰμούθης Πικῶτος καὶ μέτοχοι Πετεχώνσει
+r.2    Ψεναμούνιος χαίρειν. ἀπέχομεν τὸ τέλος Θὼθ
+r.3    ἔτους ϛ Τιβερίου Κλαυδίου
+r.4    Καίσαρος Σεβαστοῦ
+r.5    Γερμανικοῦ Αὐτοκράτορος
+r.6    ὁμοίως δραχμάς.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

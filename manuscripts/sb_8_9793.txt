@@ -1,0 +1,26 @@
+[META]
+id:       SB 8.9793
+label:    SB 8.9793
+name:     Receipt — Theben
+genre:    receipts
+date:     129 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (129 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       5795
+source:   https://papyri.info/ddbdp/sb;8;9793
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους μα Παῦνι ιϛ τέτακται ἀνὰ τὴν
+r.2    τετάρτην μ ἔτους μελισσουργίας Πετεψᾶις Περούσιος δραχμὰς πέντε
+r.3    γίνονται δραχμαὶ ε δ …
+
+[TRANSLATION]
+1     
+2     
+3     

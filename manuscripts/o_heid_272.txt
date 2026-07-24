@@ -1,0 +1,28 @@
+[META]
+id:       O.HEID 272
+label:    O.HEID 272
+name:     Receipt — Theben
+genre:    receipts
+date:     117 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (117 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       80490
+source:   https://papyri.info/ddbdp/o.heid;;272
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν μητροπόλεως γενήματος κ ἔτους Τραιανοῦ
+r.2    Ἀρίστου τοῦ κυρίου Παῦνι κα
+r.3    ὀνόματος Σενύριος Ὥρου πυροῦ μία
+r.4    ἥμισυ τρίτον, γίνεται πυροῦ ἀρτάβης α ἥμισυ γ.Αν σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

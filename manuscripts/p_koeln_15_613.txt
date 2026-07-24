@@ -1,0 +1,28 @@
+[META]
+id:       P.KOELN 15.613
+label:    P.KOELN 15.613
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     56 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (56 CE)
+# hgv-keywords: Schreibübung — Präskript — Agoranomos
+tm:       703398
+source:   https://papyri.info/ddbdp/p.koeln;15;613
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἔτους βτε Νέρωνος Κλαυδίου Καίσαρος
+r.2    Σεβαστοῦ Γερμανικ[ο]ῦ Αὐτοκράτορος,
+r.3    Μεχείρ, ἐν Ὀξυρύγχων πόλει τῆς
+r.4    Θηβαίδος, ἐπ’ ἀγορανόμων
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

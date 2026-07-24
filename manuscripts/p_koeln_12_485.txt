@@ -1,0 +1,30 @@
+[META]
+id:       P.KOELN 12.485
+label:    P.KOELN 12.485
+name:     Documentary papyrus — Herakleopolites
+genre:    documents
+date:     131 BCE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Documentary papyrus from Herakleopolites (131 BCE)
+# hgv-keywords: Auftrag — NN an Dionysios (trapezites ?) — Zahlung an Steuerpächter — Fragment
+tm:       128741
+source:   https://papyri.info/ddbdp/p.koeln;12;485
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    Διονυσίωι … δὸς
+r.2    τοῖς ἐξειληφόσι εἰς τὸ λζ ἔτος
+r.3    [τὴν τρίτην] τῶν βαλανείων
+r.4    … ει δραχμὰς Β …
+r.5    … ναχ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

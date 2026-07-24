@@ -1,0 +1,24 @@
+[META]
+id:       O.MICH 2.731
+label:    O.MICH 2.731
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     42 BCE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (42 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       42578
+source:   https://papyri.info/ddbdp/o.mich;2;731
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ἔτους ια Σοῦλις Πετεαρψενήσεως
+r.2    ς Θὼθ κ δραχμὰς δ.
+
+[TRANSLATION]
+1     
+2     

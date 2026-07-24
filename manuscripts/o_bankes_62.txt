@@ -1,0 +1,30 @@
+[META]
+id:       O.BANKES 62
+label:    O.BANKES 62
+name:     Documentary papyrus — Elephantine
+genre:    documents
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Documentary papyrus from Elephantine (1 CE – 100 CE)
+# hgv-keywords: Liste — Namen
+tm:       699535
+source:   https://papyri.info/ddbdp/o.bankes;;62
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Παχνοῦβις Πασήνιος
+r.2    Ἀσκληπιάδης Λοκροῦ
+r.3    Πυρρίας Πυρρίου
+r.4    Πτολεμαῖος Λοκροῦ
+r.5    Ἀμμώνιος Πανίνου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

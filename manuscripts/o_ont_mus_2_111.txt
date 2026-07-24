@@ -1,0 +1,38 @@
+[META]
+id:       O.ONT.MUS 2.111
+label:    O.ONT.MUS 2.111
+name:     Receipt — Theben
+genre:    receipts
+date:     123 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (123 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75130
+source:   https://papyri.info/ddbdp/o.ont.mus;2;111
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πόστομος ὁ καὶ Ὧρ[ος Ποστόμου]
+r.2    πράκτωρ ἀργυρικῶν Ἁρφμ[όιτι ] …
+r.3    ἔσχον ὑπὲρ γεωμετρίας ἑβ[δόμου]
+r.4    ἔτους ῥυπαρὸν τετρώβολον [γίνεται ῥυπαρὸν]
+r.5    τετρώβολον καὶ ὀνόματος Ψεν …
+r.6    ὑπὲρ γεωμετρίας τοῦ αὐτοῦ ἔ[τους ῥυπαρὰς]
+r.7    δραχμὰς τρεῖς τριώβολον γίνονται ῥ[υπαραὶ]
+r.8    δραχμαὶ γ τριώβολον. ἔτους η Ἁδριανοῦ Κ[α]ί[σαρος]
+r.9    τοῦ κυρίου Φαῶφι ε
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

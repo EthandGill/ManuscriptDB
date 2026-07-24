@@ -1,0 +1,28 @@
+[META]
+id:       BGU 1.208
+label:    BGU 1.208
+name:     Receipt — Psenarpsenesis (Arsinoites)
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Psenarpsenesis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Psenarpsenesis (Arsinoites) (158 CE – 159 CE)
+# hgv-keywords: Quittung — Getreide (Saat)
+tm:       8971
+source:   https://papyri.info/ddbdp/bgu;1;208
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σπερμάτων κβ ἔτους Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου μθ κληρουχίας
+r.3    Χαιρήμων Ἀπολλωνίου Ψεναρψενήσεως βασιλικῆς ἀρουρῶν δύο .
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 22 of Antoninus Caesar, the lord. 49th cleruchy. Chairemon, son of Apollonios. At Psenarpsenesis 2 arouras of royal (land).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

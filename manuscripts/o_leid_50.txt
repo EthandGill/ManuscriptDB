@@ -1,0 +1,36 @@
+[META]
+id:       O.LEID 50
+label:    O.LEID 50
+name:     Receipt — Theben
+genre:    receipts
+date:     37 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (37 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24622
+source:   https://papyri.info/ddbdp/o.leid;;50
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁρβῆχις
+r.2    Ψενχνιώτῃ Ἐπονύχου χαίρειν· ἔχω παρὰ
+r.3    σοῦ ὑπὲρ νομῆς προβάτων
+r.4    καὶ ἐριερᾶς ἀργυρίου δραχμὰς
+r.5    δεκατρεῖς . ἔτους α Γαίου
+r.6    Καίσαρος Σεβαστοῦ
+r.7    Γερμανικοῦ
+r.8    Μεσορὴ ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

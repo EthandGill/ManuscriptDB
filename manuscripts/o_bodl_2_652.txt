@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.652
+label:    O.BODL 2.652
+name:     Receipt — Theben
+genre:    receipts
+date:     14 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (14 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71343
+source:   https://papyri.info/ddbdp/o.bodl;2;652
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεμενῶφις Ψενετύμιος
+r.2    Χεσθώτῃ Φθουσνέως καὶ Παᾶπι
+r.3    χαίρειν. ἀπέχω ὑπὲρ βαλανείου φόρον δραχμὰς δ,
+r.4    δραχμὰς τέσσαρας, μγ ἔτους
+r.5    Καίσαρος Φαμενὼθ ιβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

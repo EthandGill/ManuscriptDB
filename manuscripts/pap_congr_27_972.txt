@@ -1,0 +1,32 @@
+[META]
+id:       PAP.CONGR 27.972
+label:    PAP.CONGR 27.972
+name:     Receipt — Elephantine
+genre:    receipts
+date:     97 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (97 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Geld
+tm:       702331
+source:   https://papyri.info/ddbdp/pap.congr;27;972
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Ζμεντπῶς
+r.2    Ψενχνούβιος … ὑπὲρ
+r.3    λαογραφίας ιε ἔτους ἀργυρίου δραχμὰς
+r.4    δέκα ἑπτὰ γίνονται δραχμαὶ ιζ. Ἀμώνιος
+r.5    Σωκράτους πράκτωρ ἔγραψα α ἔτους Νεροῦα τοῦ κυρίου
+r.6    Μενέλα[ο]ς ἔχωι Μεχὶρ ια
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,36 @@
+[META]
+id:       P.LOND 7.2045
+label:    P.LOND 7.2045
+name:     Letter — Philadelphia (Arsinoites)
+genre:    letters
+date:     275 BCE – 226 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Letter from Philadelphia (Arsinoites) (275 BCE – 226 BCE)
+# hgv-keywords: Brief — Pais an Zenon — Bittschrift — Haft — Bürgschaft — Eid
+tm:       1607
+source:   https://papyri.info/ddbdp/p.lond;7;2045
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    Ζήνωνι χαίρειν Πᾶις ὁ τοῦ Πάτιτος ἀδελφός. ἀφʼ οὗ ἥκω εἰς τοὺ[ς] τόπους οὔτε
+r.2    λελήισμαι οὔτε κέκλοφα οὔθʼ ἥκει καταβοῶν οὐθεὶς πρός σε κατὰ μοῦ· ἔστι δὲ ἀφʼ οὗ ἀπῆγμα[ι]
+r.3    ἤδη πεντάμηνος. ἐγλέλοιπε ἡμᾶς πάντα ὥστε καὶ τῶν ἀναγκαίων ἐνδεὴς εἶναι.
+r.4    νῦν οὖν ἱκέται καταπεφεύγαμεν πρός σε. οὐκ ἔχομεν βοηθὸν ἄλλον οὐθένα ἀλλὰ σέ. ὀμνύω
+r.5    τὴν σὴν τύχην καὶ τὸν βασιλέως δαίμονα ψευδῶς ἀπῆγμαι. καὶ αὐτὸς ἐπίστηι ὅτι τῶν εὐτά[κ]τω[ν]
+r.6    εἰμί. ἐγγύησαί με σὺ παραμονῆς· ἐγὼ δέ σοι ἐξελθὼν ἐγγύους σοι καταστήσω.
+r.7    εὐτύχει.
+
+[TRANSLATION]
+# HGV-EN: To Zenon, greetings, Pais, the brother of Patis. From the time when I arrived in the area I have never plundered, nor stolen, nor has anyone come to lay a charge against me before you. It has now been five months since I was arrested. Everything has abandoned me, so as for me to now be in need even of the necessities. Now, therefore, I have fled to you as a suppliant. I have no other helper save you. I swear by your fortune and the fortune of the king that I have been falsely arrested. Also you yourself know that I am among the well-behaved. Bail me out on my guarantee to appear, and after I get out I will provide you with guarantors. Farewell. (J. Bauschatz, Law and Enforcement, p. 252)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

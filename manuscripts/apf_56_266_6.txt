@@ -1,0 +1,30 @@
+[META]
+id:       APF 56.266_6
+label:    APF 56.266_6
+name:     Receipt — Theben
+genre:    receipts
+date:     50 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Uppsala
+shelf:    
+content:  Receipt from Theben (50 CE)
+# hgv-keywords: Quittung — Steuer — Geld — Kopfsteuer (laographia)
+tm:       133433
+source:   https://papyri.info/ddbdp/apf;56;266_6
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    διαγέγραφε Παμώνθης Ἁρυώ[θου ὑπὲρ λαογραφίας ι ἔτους]
+r.2    δραχμὰς δέκα καὶ βαλανευτικοῦ δραχμὰς μίαν ὀβολὸν ἡμιωβέλιον γίνονται [δραχμαὶ ια ὀβολὸς ἡμιωβέλιον καὶ προσδιαγραφόμενα]
+r.3    ἔτους ι Τιβερίου Κλαυδίου Καίσαρος Σε[βαστοῦ]
+r.4    Γερμανικοῦ Αὐτοκράτορος Φαμενὼθ λγ Ἀλέξανδρος
+r.5    Κεφάλου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

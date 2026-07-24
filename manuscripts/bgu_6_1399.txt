@@ -1,0 +1,30 @@
+[META]
+id:       BGU 6.1399
+label:    BGU 6.1399
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     108 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (108 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       4698
+source:   https://papyri.info/ddbdp/bgu;6;1399
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    τέτακται εἰς τὴν
+r.2    σύνταξιν τῶν πορθμίδων τοῦ ι ἔτους Ἁρπαῆσις
+r.3    Ποήριος λίνυφος χαλκοῦ Βυ.
+r.4    Βυ. ἔτους ι Χοίαχ ιβ.
+r.5    Κάστωρ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

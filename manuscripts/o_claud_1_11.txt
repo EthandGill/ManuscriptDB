@@ -1,0 +1,32 @@
+[META]
+id:       O.CLAUD 1.11
+label:    O.CLAUD 1.11
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     111 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (111 CE)
+# hgv-keywords: Quittung — Ladung (Esel)
+tm:       24024
+source:   https://papyri.info/ddbdp/o.claud;1;11
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ὡριγένης Σαραπίωνος
+r.2    Καλ … ι Ὀννώφρεος
+r.3    χαίρειν. ἀπέσχον παρὰ σοῦ ὄνον α
+r.4    ἐν Κλαυδιανῷ γόμου ἡμίσους .
+r.5    ἔτους ιδ Τραιανοῦ τοῦ κυρ[ίου]
+r.6    ἐπαγομένων β.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,22 @@
+[META]
+id:       SB 1.2051
+label:    SB 1.2051
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     117 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (117 BCE)
+# hgv-keywords: Vermerk (Notariat)
+tm:       5609
+source:   https://papyri.info/ddbdp/sb;1;2051
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἡρακλείδης μ[ε]τεί[λ]ηφα εἰς ἀναγραφήν. ἔτους νγ, Φαρμοῦθι κ.
+
+[TRANSLATION]
+1     

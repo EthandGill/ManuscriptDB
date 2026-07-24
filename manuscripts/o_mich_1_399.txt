@@ -1,0 +1,26 @@
+[META]
+id:       O.MICH 1.399
+label:    O.MICH 1.399
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     281 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (281 CE)
+# hgv-keywords: Quittung
+tm:       42166
+source:   https://papyri.info/ddbdp/o.mich;1;399
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    γενήματος ε ἔτους Καρανίδος
+r.2    Μάνης Μάρωνος σάκκους ϛ.
+r.3    ϛ ἔτους Μεχεὶρ α.
+
+[TRANSLATION]
+1     
+2     
+3     

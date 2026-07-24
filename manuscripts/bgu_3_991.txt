@@ -1,0 +1,40 @@
+[META]
+id:       BGU 3.991
+label:    BGU 3.991
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     151 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (151 CE)
+# hgv-keywords: Quittungen — Steuern — Geld
+tm:       9432
+source:   https://papyri.info/ddbdp/bgu;3;991
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Ἰσ[ί]δωρος πράκτωρ ἀργυρ[ι]κῶν
+r.2    Καρανίδος Δίωνι χειριστῇ
+r.3    χαίρειν.
+r.4    ἔσχον παρὰ σοῦ εἰς καταβολὴν ἀριθμήσεως Φαῶφι ἀργυρίου
+r.5    τάλαντον [ἓ]ν κ[αὶ] δραχμὰς πεντακοσίας γίνεται τάλαντον α δραχμαὶ φ, ἃς κα[ὶ] καταβαλῶ ἐπὶ τὴν δημοσίαν τράπεζαν.
+r.6    ἔτους ιε [Ἀν]τω[νί]νου Καίσαρος τοῦ κυρ[ίου]
+r.7    Ἁ[θὺ]ρ …
+r.8    καὶ Ἁδριανοῦ ιδ εἰς ἀρίθμησιν μηνὸς Ἁδριανοῦ ὁμοίως ἄλλας δραχμὰς πεντακοσίας
+r.9    [γίνονται] δραχμαὶ φ.
+
+[TRANSLATION]
+# HGV-EN: Is[i]doros, collector of money taxes of Karanis, to Dion, assistant, greetings. I have received from you for the payment of the reckoning for Phaophi one talent of silver and five hundred drachmas, = 1 talent, 500 drachmas, which I shall transfer to the state bank. Year 15 of [An]to[ni]nus Caesar, the lord, Hathyr [x]. And Hadrianos 14 for the payment of the month Hadrianos likewise five hundred drachmas, [=] 500 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

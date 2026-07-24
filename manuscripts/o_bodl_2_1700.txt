@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.1700
+label:    O.BODL 2.1700
+name:     Receipt — Theben
+genre:    receipts
+date:     150 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (150 CE)
+# hgv-keywords: Quittung — Arbeit
+tm:       72384
+source:   https://papyri.info/ddbdp/o.bodl;2;1700
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαμῖνις καὶ μέτοχοι οἱ ἐπὶ τῶν
+r.2    παροκλημάτων Νήπει
+r.3    Ὥρου χαίρειν. ὑπηρέτησας
+r.4    τῷ παρόλκῳ τῇ ιβ τοῦ Φαμενὼθ
+r.5    τῷ ἐπιστρατήγῳ. ἔτους ιγ Ἀντωνίνου
+r.6    Καίσαρος τοῦ κυρίου Φαρμοῦθι …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

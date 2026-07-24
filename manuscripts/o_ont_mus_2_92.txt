@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.92
+label:    O.ONT.MUS 2.92
+name:     Receipt — Theben
+genre:    receipts
+date:     91 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (91 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75109
+source:   https://papyri.info/ddbdp/o.ont.mus;2;92
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Ἀμενώθης Λυσιμάχου ὑπὲρ …
+r.2    θ ἔτους δραχμὰς τέσσαρας τριώβολον γίνονται δ τριώβολον …
+r.3    ἔτους ι Δομιτιανοῦ τοῦ κυρίου …
+r.4    διὰ Ερ … Παῦνι κϛ κ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

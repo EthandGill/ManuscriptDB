@@ -1,0 +1,46 @@
+[META]
+id:       P.Oxy. 12.1425
+label:    P.Oxy. 12.1425
+name:     Documentary papyrus — Dositheu Kome (Oxyrhynchites, Ägypten)
+genre:    documents
+date:     318 CE
+language: Greek (Koiné)
+found:    Dositheu Kome (Oxyrhynchites, Ägypten)
+held:     
+shelf:    
+content:  Documentary papyrus from Dositheu Kome (Oxyrhynchites, Ägypten) (318 CE)
+# hgv-keywords: Bestimmung einer Person zum Treiber (Esel) von Pelusium
+tm:       21831
+source:   https://papyri.info/ddbdp/p.oxy;12;1425
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    ὑπατείας τῶν δεσποτῶν ἡμῶν Λικ[ι]ννίο[υ]
+r.2    Σεβαστοῦ τὸ ε καὶ Κρίσπου τοῦ ἐπιφανεστάτ[ου]
+r.3    Καίσαρος τὸ α.
+r.4    Αὐρηλίῳ Ἡρᾷ τῷ καὶ Διονυσίῳ πραιποσίτῳ η πάγου νομοῦ Ὀξ[υρυγχίτου]
+r.5    παρὰ Αὐρηλίου Ἁτρῆτος Ἱερακίωνος τεσσαραρίου
+r.6    κώμης Δωσιθέου τοῦ ὑπὸ σοὶ πάγου. δίδωμι τῷ ἰδίῳ μου κινδύνῳ πρὸς ἄμειψιν τοῦ ἐν τῷ Πηλουσίῳ ὀνηλάτου ἀντὶ τοῦ ἐκεῖ ὄντος τὸν ἑξῆς
+r.7    ἐνγεγραμμένον [ὄ]ντα εὔπορον καὶ ἐπιτήδειον πρὸς τὴν χρείαν. ἔστι δὲ
+r.8    Αὐρήλιος Ὧρ[ο]ς Παθώθου ἀπὸ τῆς
+r.9    αὐτῆς κώμ[η]ς.
+r.10   ὑπατείας τῆς [προκειμ]ένης Φαρμοῦθι ιη.
+r.11   Αὐρήλιος Ἁτρ[ῆς ἐπι]δέδωκα. Αὐρήλιος
+r.12   Ἀμμωνᾶς [ἔγραψα] ὑπὲρ μὴ εἰδότος γράμματα.
+
+[TRANSLATION]
+# HGV-EN: In the consulship of our lords Licinius Augustus for the fifth time and Crispus the most illustrious Caesar for the first time. To Aurelius Heras also called Dionysius, praepositus of the eighth pagus of the Oxyrhynchite nome, from Aurelius Hatres son of Hieracion, tesserarius of the village of Dositheou in the pagus under your charge. I present at my own risk in relief of the donkey-driver at Pelusium in place of the one now there the person below written, who is a man of means and suitable for the duty, namely Aurelius Horus son of Pathotes, of the said village. In the consulship aforesaid, Pharmouthi 15. I, Aurelius Hatres, presented this. I, Aurelius Ammonas, wrote for him as he is illiterate.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

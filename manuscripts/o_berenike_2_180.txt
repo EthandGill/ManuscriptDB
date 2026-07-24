@@ -1,0 +1,24 @@
+[META]
+id:       O.BERENIKE 2.180
+label:    O.BERENIKE 2.180
+name:     Documentary papyrus — Berenike
+genre:    documents
+date:     50 CE – 75 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     
+shelf:    
+content:  Documentary papyrus from Berenike (50 CE – 75 CE)
+# hgv-keywords: Anweisung — Ausgabe unbekannter Ware
+tm:       89206
+source:   https://papyri.info/ddbdp/o.berenike;2;180
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    [Σαραπίω]ν Κασίου Πακοίβει
+r.2    [χαίρειν· διαπόστειλον] [Ψε]νοσίρει Σενούφιος
+
+[TRANSLATION]
+1     
+2     

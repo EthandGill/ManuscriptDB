@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.65
+label:    O.STRAS 1.65
+name:     Receipt — Theben
+genre:    receipts
+date:     37 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (37 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       75665
+source:   https://papyri.info/ddbdp/o.stras;1;65
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Φαῆρις … χω [ὑ]πὲρ λαογραφίας
+r.2    κγ ἔτους δραχμὰς δέκα καὶ βαλανείου μίαν ὀβολόν γίνονται ια ὀβολὸς
+r.3    καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου. ἔτους κγ Τιβερίου Καίσαρος
+r.4    Σεβαστοῦ Φαμενὼθ κϛ. … τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

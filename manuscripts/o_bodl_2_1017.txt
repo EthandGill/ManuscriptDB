@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.1017
+label:    O.BODL 2.1017
+name:     Receipt — Theben
+genre:    receipts
+date:     141 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (141 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71704
+source:   https://papyri.info/ddbdp/o.bodl;2;1017
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … [γ]ερδίων τοῦ δ ἔτους Ψενθώτῃ
+r.2    … παρὰ σοῦ τέλος Ἁθὺρ καὶ μηνὸς Ἁδριανοῦ
+r.3    [ἔτους δ Ἀντωνίνου Κα]ίσαρος τοῦ κυρίου Τῦβι κδ.
+
+[TRANSLATION]
+1     
+2     
+3     

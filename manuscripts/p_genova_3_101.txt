@@ -1,0 +1,34 @@
+[META]
+id:       P.GENOVA 3.101
+label:    P.GENOVA 3.101
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     221 BCE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (221 BCE)
+# hgv-keywords: Bewerbung für die Stelle eines φυλακίτης
+tm:       5594
+source:   https://papyri.info/ddbdp/p.genova;3;101
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Διοσκουρίδει ἀρχιφ[υλα]κί[τηι Κροκο]δίλων πόλεως καὶ τῶν … [ σῶν]
+r.2    κωμῶν παρὰ Τιμάρχο[υ τοῦ Κρ]άτητ[ος ] …
+r.3    Σικυωνίου· ἀπογράφ[ο]μαι [ε]ἰς τοὺς
+r.4    περὶ Κροκοδίλων πόλιν κατὰ τὸ ἐκτεθὲν ἔκθεμα φυλακίτας·
+r.5    ἀξιῶ οὖν πρ[ο]σγραφῆναι μέ·
+r.6    ἔτους α Παχὼν κη
+
+[TRANSLATION]
+# HGV-EN: To Dioskourides, archiphylakitês of Krokodilopolis and the (associated?) villages, from Timarchos, son of Krates… Sikyonian. I am being registered into the phylakitai around Krokodilopolis in accordance with the publically posted edict. I ask, therefore, that I be added to the list. Year 1, Pachon 28. (J. Bauschatz, Law and Enforcement, p. 297)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

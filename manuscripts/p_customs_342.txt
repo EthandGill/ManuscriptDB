@@ -1,0 +1,26 @@
+[META]
+id:       P.CUSTOMS 342
+label:    P.CUSTOMS 342
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     209 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (209 CE)
+# hgv-keywords: Quittung — Torzoll — Kamele — Datteln — Steuer
+tm:       10646
+source:   https://papyri.info/ddbdp/p.customs;;342
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Φιλαδελφίας λιμένος Μέμφεως Παβοῦ[ς]
+r.2    ἐξάγων ἐπὶ καμήλοις δυσὶ φ[οί]νικα. ἔτους ιη
+r.3    Φαῶφι ὀγ[δό]ῃ, [η].
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,26 @@
+[META]
+id:       O.BANKES 24
+label:    O.BANKES 24
+name:     Receipt — Elephantine
+genre:    receipts
+date:     165 CE – 166 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (165 CE – 166 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, merismos)
+tm:       699497
+source:   https://papyri.info/ddbdp/o.bankes;;24
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Πετρώνιος Βασ[σιανὸς πράκτωρ ἀργυρικῶν Ἐλεφαντίνης· διέγραψεν]
+r.2    Πατσίβτις Πετορ[ζμήθου ὑπὲρ μερισμ] … [ἔτους]
+r.3    δραχμὰς τέσσερας, γίνονται δραχμαὶ δ. …
+
+[TRANSLATION]
+1     
+2     
+3     

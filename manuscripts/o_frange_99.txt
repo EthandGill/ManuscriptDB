@@ -1,0 +1,32 @@
+[META]
+id:       O.FRANGE 99
+label:    O.FRANGE 99
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Lettre — Demande d’envoi — Vin — Maladie — Archives de Frangé
+tm:       141020
+source:   https://papyri.info/ddbdp/o.frange;;99
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ⲛⲧⲉⲕⲙⲛⲧⲉⲓⲱⲧ ⲙⲛ ⲧἀγάπη
+r.2    ⲛἸησους ⲉⲧⲛϩⲏⲧⲕ
+r.3    ⲛⲅⲣ ⲡⲛⲁ ⲙⲛ ⲡⲓⲥⲟⲛ ⲛϩⲏⲕⲉ
+r.4    ⲉⲧϣⲱⲛⲉ
+r.5    ⲡⲛⲟⲩⲧⲉ ⲛⲁⲣ ⲡⲉϥⲛⲁ
+r.6    ϩⲁⲣⲟϥ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

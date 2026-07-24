@@ -1,0 +1,58 @@
+[META]
+id:       SB 20.14329
+label:    SB 20.14329
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     175 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (175 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       14870
+source:   https://papyri.info/ddbdp/sb;20;14329
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … ρα … νιῳ … βασ[ιλικῷ γραμματεῖ]
+r.2    Ἀρσινοίτου Πολέμωνος μερίδ[ος]
+r.3    παρὰ Μ[ε]θῆς Παναμ[έως τοῦ ] …
+r.4    μητ[ρ]ὸς Θαυμαστῆτος ἀ[πὸ κώμης ] …
+r.5    μετὰ κυρίου [το]ῦ [σ]υγ[γε]νο[ῦς ] … [ -φεως τοῦ]
+r.6    Αὐρηλίου· ὑπάρχει τ[ῷ] υἱῷ [μου Νουμᾶτι ἐν τῇ κώ]μ[ῃ] γ μέρος οἰκοπέ[δου][ ἐν ᾧ ἀπογράφομαι σὺν τοῖς]
+r.7    ἐμοῖς εἰς τὴν τοῦ διεληλυθότος ιδ ἔτους Αὐρηλ[ίου Ἀντωνίνου]
+r.8    Καίσαρος τοῦ κυ[ρ]ίου κ[ατʼ] οἰκίαν ἀπογρ[αφήν][, καί εἰμι]
+r.9    Μεθὴ ἡ π[ρ]ογεγραμμένη ἐτῶν λβ, καὶ τὴν θυγατέρα Θε[- ] …
+r.10   ἐτῶν γ, καὶ τὸν γεν[όμε]νόν μοι ἐκ το[ῦ ] …
+r.11   μου ἀνδρὸς ὄντος δὲ ὁμοπατρίου [καὶ ὁμομητρίου ]
+r.12   ἀδελφοῦ Τιθοῆς υἱὸν Νουμᾶν ἐτῶν α [καὶ τὸν τῆς]
+r.13   Μεθῆς ὁμο[μή]τρ[ι]ον ἀδελφ[ὸν Ἡρ- ] …
+r.14   ἐτῶν ιδ, κα[ὶ τ]ὴν Μ[ε]θῆς καὶ τοῦ Ἡρ[- ] … [ μητέρα]
+r.15   Θαυμαστὴν Ὄρσεως μ[η]τρὸς …
+r.16   ἐτῶν μη, καὶ τὸν τῆς Θαυμαστῆτος ἀδελ[φιδοῦν ] …
+r.17   φιν Αὐρηλίου τοῦ Ὄρσεως μητρὸς Τεφορσά[ιτος ἐτῶν ] … [ ὑπάρ]χει δὲ [τῇ] Μεθῇ καὶ τῷ υἱῷ Νουμᾶτι μέρ[η ] …
+r.18   καὶ τῷ [Νουμᾶτι π]ατρικὰ καὶ μητρι[κὰ οἰκόπεδα . διὸ ἐπιδίδωμι.]
+
+[TRANSLATION]
+# HGV-EN: To [NN], royal [scribe] of the Arsinoite nome, Polemon division, from M[e]the, daughter of Panam[eus, the son of NN], mother Thaumastes from [the village – – –] with her guardian, her kinsman [– – –phis, son of] Aurelius. There belongs to my son Noumas in the village a 1/3 of an oikopedon, in which I register with my family for the house-by-house registration of the past 14th year of Aurelius Antoninus Caesar, the lord. And I am Methe the above mentioned, 32 years old, and (I register) my daughter The, 3 years old, and the son born to me from my husband Tithoes, being my brother by the same father and the same mother, Noumas, 1 year old, and the brother of Methe by the same mother Her– – –] 14 years old, and the mother of Methe and Her Thaumastes, daughter of Orseus, mother , 48 years old, and the nephew of Thaumastes, phis, son of Aurelius, the son of Orseus, mother Tephorsa[is, x year old], There belongs to Methe and her son Noumas parts – – –.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

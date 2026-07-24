@@ -1,0 +1,28 @@
+[META]
+id:       O.BERENIKE 3.276
+label:    O.BERENIKE 3.276
+name:     Receipt — Berenike
+genre:    receipts
+date:     51 CE – 100 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     
+shelf:    
+content:  Receipt from Berenike (51 CE – 100 CE)
+# hgv-keywords: Quittung — Wasser — Dekania — turma
+tm:       641765
+source:   https://papyri.info/ddbdp/o.berenike;3;276
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    τύρμης Βάσσου Πούπλις Πούπλιος Πετρώνιος
+r.2    δεκανίας Πεταρποχράτης Ψεντφοῦτος
+r.3    Παμῖνις Ἀβδουβου
+r.4    ἔχω κεράμια λ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

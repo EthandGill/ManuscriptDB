@@ -1,0 +1,32 @@
+[META]
+id:       O.ASHM.SHELT 24
+label:    O.ASHM.SHELT 24
+name:     Receipt — Theben
+genre:    receipts
+date:     161 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (161 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       70576
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;24
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος α ἔτους Αὐρηλίου
+r.2    Ἀντωνίνου καὶ Οὐήρου τῶν κυρίων
+r.3    Σεβαστῶν, Ἐπεὶφ ιϛ, ὑπὲρ Νότου ὀνόματος Νεφώτου
+r.4    θεοῦ μεγίστου διὰ τῶν παστοφόρων αἱ διὰ γεωργοῦ Φατρήους
+r.5    Φατρήους Φαμίνιοςπυροῦ δεκατέσσαρα[ς] τέταρτον, γίνονται πυροῦ ιδ δ.
+r.6    Πετεχεσποχράτης σεσημείωμαι πυροῦ ιδ δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

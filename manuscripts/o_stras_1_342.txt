@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.342
+label:    O.STRAS 1.342
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     108 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (108 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75930
+source:   https://papyri.info/ddbdp/o.stras;1;342
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα εἰς θησαυρὸν μ[ητροπόλεως]
+r.2    γενήματος ια ἔτους Τραιανοῦ …
+r.3    Ἐπεὶφ ι ὀνόματος …
+r.4    Πετεχων …
+r.5    δ 𐅵. Τραι …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

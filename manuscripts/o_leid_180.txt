@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 180
+label:    O.LEID 180
+name:     Receipt — Elephantine
+genre:    receipts
+date:     101 CE – 125 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (101 CE – 125 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       29968
+source:   https://papyri.info/ddbdp/o.leid;;180
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Πετορζμῆθις πράκτωρ Ἐλεφαντίνης
+r.2    [δι]έγραψεν Σωκράτης Ὥρου
+r.3    [μητρὸς ][Σ]εν … δραχμὰς δέ[κ]α ὑπὲρ λαογραφίας
+r.4    … καὶ ὑπὲρ …
+r.5    [ἔτους ] … τοῦ κυρίου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

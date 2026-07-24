@@ -1,0 +1,28 @@
+[META]
+id:       SB 16.12777
+label:    SB 16.12777
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     120 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (120 BCE)
+# hgv-keywords: Quittung — Steuer — Zahlung — Weizen — Name — demotisch
+tm:       4166
+source:   https://papyri.info/ddbdp/sb;16;12777
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους ν Μεσορὴ [εἰσμεμέτρηκεν]
+r.2    εἰς θησαυρὸν Ἀπόλλωνος πόλεως εἰς τὸ [αὐτὸ ἔτος]
+r.3    Ψεναιῆς Τε[ῶτος]
+r.4    πυροῦ ἀρτάβην μίαν ιβ [γίνεται πυροῦ ἀρτάβη α ιβ.]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,36 @@
+[META]
+id:       SB 1.4346
+label:    SB 1.4346
+name:     Receipt — Theben
+genre:    receipts
+date:     50 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (50 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23105
+source:   https://papyri.info/ddbdp/sb;1;4346
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ζωίλος Ἀμμωνίου Χεμσνεῦς Πενάμιος
+r.2    χαίρειν. ἔχω παρὰ σοῦ ὑπὲρ ἀγορανομίας
+r.3    [ὠ]νίων ἔτους ι δραχμὰς δ. ἔτους ι Τιβερίου Κλαυδίου
+r.4    [Κα]ίσαρος Σεβ[ασ]τοῦ Γερμανικοῦ
+r.5    [Αὐ]τοκράτ[ο]ρος, Μεχεὶρ η. ὁμοίως δραχμὰς δ.
+r.6    [ὁ]μοίως Φαμενὼθ λ δραχμὰς δ. ὁμοίως Φαρ[μοῦθι] κε δραχμὰς δ.
+r.7    [ὁμ]οίως Παχὼν λ δραχμὰς δ. ὁμοίως Παῦνι λ δραχμὰς δ.
+r.8    [ὁ]μοίως Ἐπεὶφ κϛ δραχμὰς δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

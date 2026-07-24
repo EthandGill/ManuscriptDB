@@ -1,0 +1,32 @@
+[META]
+id:       O.THEB 84
+label:    O.THEB 84
+name:     Receipt — Theben
+genre:    receipts
+date:     135 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (135 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76455
+source:   https://papyri.info/ddbdp/o.theb;;84
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παμώ[νθ]ης πράκτωρ ἀργυρικῶν
+r.2    Σενπετεχώνσει Πετεχώνσιος διὰ Ὥρου.
+r.3    ἔσχον ὑπὲρ γεωμετρίας ιθ ἔτους ῥυπαρὰς δραχμὰς πέντε
+r.4    ἡμιωβέλιον, γίνονται ῥυπαραὶ δραχμαὶ ε ἡμιωβέλιον. ἔτους ιθ Ἁδριανοῦ
+r.5    Καίσαρος τοῦ κυρίου Μεσορὴ
+r.6    λ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

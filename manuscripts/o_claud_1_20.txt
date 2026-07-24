@@ -1,0 +1,32 @@
+[META]
+id:       O.CLAUD 1.20
+label:    O.CLAUD 1.20
+name:     Documentary papyrus — Mons Claudianus
+genre:    documents
+date:     107 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Mons Claudianus (107 CE)
+# hgv-keywords: Anweisung — Lieferung
+tm:       24033
+source:   https://papyri.info/ddbdp/o.claud;1;20
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ἱερώνυμ[ος ] …
+r.2    δὸς εἰς λατομ[ίαν ] …
+r.3    φάλαγγας πρειστ[ὰς ] …
+r.4    τρεῖς, γίνονται γ.
+r.5    ἔτους ια Τραιανοῦ Καίσαρο[ς]
+r.6    τοῦ κυρίου Φαῶφι κε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

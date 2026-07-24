@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 72.4861
+label:    P.Oxy. 72.4861
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     122 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (122 CE)
+# hgv-keywords: Auftrag an die Sitologen von Sinkepha (diastolikon) — Giro - Überweisung von Weizen
+tm:       114241
+source:   https://papyri.info/ddbdp/p.oxy;72;4861
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    [Ἑ]ρμᾶς γραμματεὺς
+r.2    Ἀντωνίου Δίου
+r.3    σιτολόγοις Σινκεφα τόπων χαίρειν.
+r.4    διαστείλατε ἀφ’ οὗ ἔχετε
+r.5    [π]αρ’ ὑμῖν ἐν θέματι
+r.6    [τ]οῦ Ἀντωνίου Δίου πυροῦ γενήματος
+r.7    τοῦ ἐνεστῶτος ϛ ἔτους
+r.8    Ἁδριανοῦ Καίσαρος
+r.9    [το]ῦ κυρίου Διογένει
+r.10   [τῷ καὶ] Θέωνι Θέωνος
+r.11   [ἢ οἷς ἐ]ὰν αἱρῆται
+r.12   [ἀρτάβας] [ἑκα]τόν, γίνονται ἀρτάβαι ρ.
+r.13   [ἔτους ϛ Ἁδρ]ιανοῦ τοῦ κυρίου,
+r.14   [Μεσορὴ] ἐπ[αγ]ομένων ε.
+
+[TRANSLATION]
+# HGV-EN: Hermas, secretary of Antonius Dius, to the sitologi of the district of Sincepha, greetings. Transfer, from the amount you hold on deposit in your granary, for Antonius Dius, from the wheat-crop of the current 6th year of Hadrianus Caesar the lord, to Diogenes alias Theon, son of Theon, or to whomever he chooses, one hundred artabas, total 100 art. Year 6 of Hadrianus the lord, Mesore epagomenal 5. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

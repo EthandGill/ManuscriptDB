@@ -1,0 +1,26 @@
+[META]
+id:       O.PETR.MUS 207
+label:    O.PETR.MUS 207
+name:     Receipt — Theben
+genre:    receipts
+date:     10 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (10 CE)
+# hgv-keywords: Quittung — Steuer (Badesteuer)
+tm:       77705
+source:   https://papyri.info/ddbdp/o.petr.mus;;207
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀπολλώνιος … πολ βαλανεὺς καὶ μέτοχοι Πετεμ
+r.2    Πετεμ χαίρειν. ἀπέχομεν τὸ τέλος τοῦ βαλανείου τοῦ
+r.3    μ ἔτους δραχμὰς β ἔτους μ Καίσαρος Χοιάχ
+
+[TRANSLATION]
+1     
+2     
+3     

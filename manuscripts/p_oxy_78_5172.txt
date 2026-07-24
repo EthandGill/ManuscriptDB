@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 78.5172
+label:    P.Oxy. 78.5172
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     7 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (7 CE)
+# hgv-keywords: Quittung — Steuer (Deichsteuer)
+tm:       170056
+source:   https://papyri.info/ddbdp/p.oxy;78;5172
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἔτους λϛ Καίσαρος,
+r.2    Μ[ε]σορη ϛ. διαγέγραφε
+r.3    διὰ Ὡρ τραπεζίτου χωματικοῦ λβ ἔτους Ἑρμαίου
+r.4    Ὡρίων Πλουτάρχου
+r.5    δραχμὰς πέντε πεντώβολον, γίνονται ε πεντώβολον.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,52 @@
+[META]
+id:       BGU 3.792
+label:    BGU 3.792
+name:     Receipt — Apias (Arsinoites)
+genre:    receipts
+date:     196 CE – 197 CE
+language: Greek (Koiné)
+found:    Apias (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Apias (Arsinoites) (196 CE – 197 CE)
+# hgv-keywords: Quittung — Sitologen
+tm:       9356
+source:   https://papyri.info/ddbdp/bgu;3;792
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [ἔτους] ε Λουκίου Σεπτιμίου
+r.2    [Σεουήρο]υ Εὐσεβοῦς
+r.3    [Περτίν]ακος Σεβαστοῦ
+r.4    … Λυγγεὺς Λυκα[ρίωνο]ς καὶ μέτοχοι σιτολόγοι
+r.5    [κώ]μης Ἀπιάδος με[μ]ετρήμεθα ἀπὸ γενημάτων
+r.6    [τ]οῦ αὐτοῦ ἔτους εἰς
+r.7    Στοτοῆτιν Στοτοήρεως
+r.8    διὰ Κεφάλονος Ἀπιάδος
+r.9    κατοίκων πυροῦ μέτρῳ
+r.10   δημοσίῳ ξυστῷ ἔπαιτον
+r.11   ἀρτάβας δέκα πέντε
+r.12   γίνονται ἀρτάβαι ιε
+r.13   [Π]ωλίων ἐν κλήρῳ σιτ[ο]λόγος
+r.14   [μεμ]έτρημαι τὰ[ς το]ῦ πυροῦ
+r.15   ἀρτάβας δέκα [π]έντε .
+
+[TRANSLATION]
+# HGV-EN: [Year] 5 of Lucius Septimius [Severu]s Pius [Pertin]ax Augustus [date?]. We, Lyncheus, son of Lyka[rion] and associates, sitologoi of the village of Apias, have had measured to us from the produce of the same year with respect to Stotoetis, son of Stotoetis, through Kephalon, son of Apias, for the dues on katoikoi by levelled public measure epaiton fifteen artabas of wheat = 15 artabas of wheat. (m. 2) I, [P]olion, sitologos elect, have had measured to me the said fifteen artabas of wheat.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

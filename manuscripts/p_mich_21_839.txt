@@ -1,0 +1,42 @@
+[META]
+id:       P.Mich. 21.839
+label:    P.Mich. 21.839
+name:     Receipt — Fundort: Karanis (Arsinoites) - 1930
+genre:    receipts
+date:     300 CE – 301 CE
+language: Greek (Koiné)
+found:    Fundort: Karanis (Arsinoites) - 1930
+held:     Ann Arbor
+shelf:    
+content:  Receipt from Fundort: Karanis (Arsinoites) - 1930 (300 CE – 301 CE)
+# hgv-keywords: Quittung — Pacht — Weizen
+tm:       756873
+source:   https://papyri.info/ddbdp/p.mich;21;839
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [Αὐρήλιος] … είτων Πάσιτος ἀπὸ κώ[μης]
+r.2    Φυλ[α]κιτικῆς σιτολόγος δ ἰνδικτίωνος
+r.3    Αὐρηλίοις Σ[ο]υχιδᾷ καὶ Μέλανι ἀπὸ τῆς Ἀρσι[νοε]ιτῶν πόλεως χαίρειν.
+r.4    ὁμολογῶ διὰ τῆσδε τῆς ἀσφαλείου παρειληφέναι παρ’ ὑμῶν τὸ ἐκφόριον ὧν
+r.5    ἐγεωργήσατε ἀρουρῶν μ γ ὀνόματος
+r.6    … άσιτος ὁριοδείκτου ἀνακεχωρηκότος
+r.7    [ἐπὶ] τῆς τετάρτης ἰνδικτίωνος πυροῦ
+r.8    ἐπὶ τὸ αὐτὸ ἀρτάβας ἑκατὸν ἓξ ἥμισυ,
+r.9    γίνονται ἀρτάβαι ρϛ ἥμισυ πλήρης καὶ οὐδένα λόγον
+r.10   ἔχ[ω] πρ[ὸ]ς ὑμᾶς πε[ρὶ ἄλ]λου οὐδε[νός] …
+
+[TRANSLATION]
+# HGV-EN: Aurelius ...eiton, son of Pasis, from the village of Phylakitike, sitologos of the 4th indiction, to the Aurelii Souchidas and Melas, from the city of the Arsinoites, greetings. I acknowledge through this bond that I have received from you the rent for the 40 1/3 arouras that you farmed in the name of P(h)asis the boundary inspector, who has absconded, in the fourth indiction, one hundred six and a half artabas of wheat in total, which comes to 106 1/2 ar., (paid) in full, and I have no claim against you concerning any other matter ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

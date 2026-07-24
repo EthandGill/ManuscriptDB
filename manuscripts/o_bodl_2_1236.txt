@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.1236
+label:    O.BODL 2.1236
+name:     Receipt — Theben
+genre:    receipts
+date:     123 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (123 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       71919
+source:   https://papyri.info/ddbdp/o.bodl;2;1236
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ζ ἔτους Ἁδριανοῦ τοῦ κυρίου
+r.2    Ἐπεὶφ κ ὀνόματος Οὐσερίνιος Ταύρωνος
+r.3    πυροῦ ἀρτάβη μία 𐅵 ιβ γίνεται πυροῦ ἀρτάβη α 𐅵 ιβ. ἄλλο ὀνόματος Παν …
+r.4    ὁμοίως πυροῦ ἀρτάβης
+r.5    ἥμισυ γ ιβ γίνεται πυροῦ ἀρτάβης 𐅵 γ ιβ
+r.6    γίνονται ἐπὶ τὸ αὐτὸ πυροῦ ἀρτάβαι β 𐅵. Ὧρος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

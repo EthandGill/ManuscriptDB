@@ -1,0 +1,30 @@
+[META]
+id:       BGU 1.207
+label:    BGU 1.207
+name:     Receipt — Patsontis (Arsinoites)
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Patsontis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Patsontis (Arsinoites) (158 CE – 159 CE)
+# hgv-keywords: Quittung — Getreide — Saat
+tm:       8970
+source:   https://papyri.info/ddbdp/bgu;1;207
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σπερμάτων κβ ἔτους Ἀντωνίνου Καίσαρ[ος]
+r.2    τοῦ κυρίου λβ κληρουχίας Πρόκλος
+r.3    μητρὸς Οὐαλερίας Πατσώντιος βασι[λικῆς]
+r.4    ἀρουρῶν β
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 22 of Antoninus Caesar, the lord. 32nd cleruchy. Proklos, mother Valeria. At Patsontis 2 arouras of royal (land).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

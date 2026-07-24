@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.409
+label:    O.BODL 2.409
+name:     Receipt — Theben
+genre:    receipts
+date:     9 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (9 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71113
+source:   https://papyri.info/ddbdp/o.bodl;2;409
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν ἐπὶ τὴν Κεφάλου τράπεζαν
+r.2    Φθοσνεῦς Ἀμμωνίου ἠπητὴς
+r.3    λαογραφίας τοῦ κα ἔτους δραχμὰς ι. ἔτους κα Καίσαρος
+r.4    Παῦνι ι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

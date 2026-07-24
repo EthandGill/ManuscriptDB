@@ -1,0 +1,26 @@
+[META]
+id:       PSI 3.266
+label:    PSI 3.266
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     127 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (127 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24395
+source:   https://papyri.info/ddbdp/psi;3;266
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    Ψανσνῶς πράκτωρ ἀργυρικῶν μητροπόλεως διὰ Φθον …
+r.2    πρεσβυτέρῳ Ψαμο ἔσχον ὑπὲρ λαογραφίας ια ἔτους δραχμὰς δ· ἔτους ια
+r.3    Ἁδριανοῦ Καίσαρος τοῦ κυρίου Φαμενὼθ ιζ
+
+[TRANSLATION]
+1     
+2     
+3     

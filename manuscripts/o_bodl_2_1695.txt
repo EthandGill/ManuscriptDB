@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1695
+label:    O.BODL 2.1695
+name:     Receipt — Theben
+genre:    receipts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (1 CE – 100 CE)
+# hgv-keywords: Quittung — Naubion
+tm:       72379
+source:   https://papyri.info/ddbdp/o.bodl;2;1695
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀσκληπιάδης καὶ … γω καὶ Ἀπολλώνιος
+r.2    Ἁρσιήσει χαίρειν. ἀναβέβληκας τὸ καθῆκον
+r.3    ναύβιον τοῦ η ἔτους.
+r.4    Ἀπολλώνιος ἐπηκολούθηκα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

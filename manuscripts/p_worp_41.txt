@@ -1,0 +1,30 @@
+[META]
+id:       P.WORP 41
+label:    P.WORP 41
+name:     Receipt — Elephantine
+genre:    receipts
+date:     117 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (117 CE)
+# hgv-keywords: Quittung — Steuer (Landvermessungssteuer, geometria)
+tm:       115570
+source:   https://papyri.info/ddbdp/p.worp;;41
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Παλάχημις πράκτωρ. διέγραψεν Κλεοπάτρα
+r.2    Σαραπίωνος ὑπὲρ γεωμετρίας φοινικῶνος γενήματος ιθ ἔτους
+r.3    Τραιανοῦ Ἀρίστου τοῦ κυρίου δραχμὰς ὀκτὼ τριώβολον.
+r.4    ἔτους κ Τραιανοῦ Ἀρίστου τοῦ κυρίου Τῦβι η.
+
+[TRANSLATION]
+# HGV-EN: Palachemis, tax-collector. Kleopatra, daughter of Sarapion, paid for the survey-tax on date-land for the harvest of the 19th year of Traianus Optimus, the lord: 8 drachmas, 3 obols. Year 20 of Traianus Optimus, the lord, on the 8th of Tybi.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

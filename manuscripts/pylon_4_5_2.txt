@@ -1,0 +1,36 @@
+[META]
+id:       PYLON 4.5_2
+label:    PYLON 4.5_2
+name:     Documentary papyrus — unbekannt
+genre:    documents
+date:     238 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     Heidelberg
+shelf:    
+content:  Documentary papyrus from unbekannt (238 CE)
+# hgv-keywords: Datierung — curator
+tm:       987702
+source:   https://papyri.info/ddbdp/pylon;4;5_2
+lat:      
+lon:      
+
+[GREEK]
+r.1    [ἔτους α Αὐτοκράτορος Καίσαρος Μάρκου Κλωδίου Πουπιηνοῦ]
+r.2    [Μαξίμου Εὐσεβοῦς Εὐτυχοῦς Σεβαστοῦ καὶ Αὐτοκράτορος Καίσαρος Δεκίμου]
+r.3    Καιλίου Καλ[ουίνου Βαλβείνου Εὐσεβοῦς Εὐτυχοῦς Σεβαστοῦ καὶ Μάρκου]
+r.4    Ἀντω[ν]ί[νου Γο]ρ[διανοῦ τοῦ ἱερωτάτου Καίσαρος] …
+r.5    ἐπιδ … κ … ε … το …
+r.6    Αὐρήλιος Μῶρος ὁ καὶ Λεωνίδης …
+r.7    ὁ καὶ Ἀσκληπιάδης κουράτωρ ἐπηκολού[θηκα] …
+
+[TRANSLATION]
+# HGV-EN: (…) in the first/second year of the Emperor Caesar Marcus Clodius Pupienus Maximus Pius Felix Augustus and Emperor Caesar Decimus Caelius Calvinus Balbinus Pius Felix Augustus and Marcus Antoninus Gordianus the most sacred Caesar (month, day) … Aurelius Moros alias Leonides … I, NN alias Asklepiades, curator, have concurred.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

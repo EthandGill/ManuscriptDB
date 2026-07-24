@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.2070
+label:    O.BODL 2.2070
+name:     Receipt — Theben
+genre:    receipts
+date:     601 CE – 800 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (601 CE – 800 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       72743
+source:   https://papyri.info/ddbdp/o.bodl;2;2070
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    δέδωκε Ζαχαρίας
+r.2    Ἀζαρίας ὑπὲρ διαγράφου
+r.3    ἰνδικτίονος ἐνάτης ἀριθμίου νομισματίου ἕκτον .
+r.4    Ἐπὶφ α ἰνδικτίονος ι. Σαβῖνος στοιχεῖ
+r.5    ρ … .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

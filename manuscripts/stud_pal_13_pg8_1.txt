@@ -1,0 +1,26 @@
+[META]
+id:       STUD.PAL 13.pg8_1
+label:    STUD.PAL 13.pg8_1
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     77 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (77 CE)
+# hgv-keywords: Quittung — Steuern — Geld — Juden
+tm:       23264
+source:   https://papyri.info/ddbdp/stud.pal;13;pg8_1
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Δαμέας Ἀβραίμου
+r.2    φόρου προβάτων θ ἔτους δραχμὰς … ὀβολοὺς γ 𐅵.
+r.3    ἔτους θ [Φ]αρμοῦθι δ.
+
+[TRANSLATION]
+1     
+2     
+3     

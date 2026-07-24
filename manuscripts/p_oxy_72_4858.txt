@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 72.4858
+label:    P.Oxy. 72.4858
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     119 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (119 CE)
+# hgv-keywords: Auftrag an Sitologen (diastolikon) — Giro - Überweisung von Weizen
+tm:       114238
+source:   https://papyri.info/ddbdp/p.oxy;72;4858
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    μου ἐν θέματι πυροῦ
+r.2    γενήματος τρίτου ἔτους
+r.3    Ἁδριανοῦ Καίσαρος
+r.4    τοῦ κυρίου Σαραπίωνι
+r.5    Ἐπιμάχου Τυχιναβιτωου ἀρτάβας δύο. ἔτους
+r.6    τρίτου Ἁδριανοῦ Καίσαρος
+r.7    τοῦ κυρίου, Μεσορὴ ιθ.
+r.8    … γραμματεὺς ἐπήνεγκε καὶ ἔστιν
+r.9    … γραμμ .
+
+[TRANSLATION]
+# HGV-EN: . . . on deposit for me, from the wheat-crop of the third year of Hadrianus Caesar the lord, to Sarapion son of Epimachus, (for his account) at Tychinabitoou, two artabas. Year 3 of Hadrianus Caesar the lord, Mesore 19. (2nd hand) . . . secretary, brought (this) and what is written above is his. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

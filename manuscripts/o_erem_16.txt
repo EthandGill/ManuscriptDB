@@ -1,0 +1,38 @@
+[META]
+id:       O.EREM 16
+label:    O.EREM 16
+name:     Receipt — Theben
+genre:    receipts
+date:     189 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (189 CE)
+# hgv-keywords: Quittung — Steuern (Getreide)
+tm:       18332
+source:   https://papyri.info/ddbdp/o.erem;;16
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος κθ ἔτους
+r.2    Μάρκου Ἀντωνίνου Καίσαρος
+r.3    Σεβαστοῦ Ἐπὶφ ιθ ὑπὲρ Χάρακος ὀνόματος
+r.4    Ψενχώνσιος Πεκύσιος πυροῦ τρίτον ιβ γίνεται πυροῦ γ ιβ,
+r.5    [κα]ὶ ὀνόματος Ἀσκλᾶτος πρεσβυτέρου
+r.6    Ἀμωνίου πυροῦ τρίτον ἑνδέκατον
+r.7    [γίνονται] πυροῦ γ ἑνδέκατον, καὶ ὀνόματος Ψενεμπήσιος
+r.8    [Πελ]αίας πυροῦ τρίτον γίνεται πυροῦ γ.
+r.9    Ἀμμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

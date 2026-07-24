@@ -1,0 +1,36 @@
+[META]
+id:       P.PETR.KLEON 8
+label:    P.PETR.KLEON 8
+name:     Letter — Zielort: Arsinoites; Fundort: Gurob; Schreibort: Alexandria
+genre:    letters
+date:     260 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Zielort: Arsinoites; Fundort: Gurob; Schreibort: Alexandria
+held:     London
+shelf:    
+content:  Letter from Zielort: Arsinoites; Fundort: Gurob; Schreibort: Alexandria (260 BCE – 249 BCE)
+# hgv-keywords: Brief (privat) — Philonides an seinen Vater (Kleon) — Kleidungsstück (?) — Genesung
+tm:       7670
+source:   https://papyri.info/ddbdp/p.petr.kleon;;8
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Φιλωνίδης τῶι πατρὶ χαίρειν. καλῶς ποιεῖς εἰ ὑγιαίνεις, ὑγι[αίνω δὲ]
+r.2    καὶ αὐτός. ἐγράψαμέν σοι καὶ ἐν ταῖς ἔνπροσθεν ἐπιστολαῖς, ὅ[τι οὐδὲ τὰ]
+r.3    … ρα ἔχομεν οὔδε τὰ ὀθόνια. ὡς ἂν οὖν λάβωμεν, π[έμψομεν. γίνωσκε δὲ]
+r.4    [Σάτ]υρον ὄν[τ]α ἐν Μέμφει ἀρρωστοῦντα καὶ τ[ὰς δ]ια[τ]ρι[βὰς ποιούμενον]
+r.5    [ἐν τ]ῶι Ἀσκληπιείωι.
+r.6    ἔρρω[σο. ἔτους] …
+r.7    Φαρμοῦ[θι] …
+
+[TRANSLATION]
+# HGV-EN: Philonides to his father, greetings. I hope you are in good health; I am well too. Also in our previous letters we have written you that we have neither the [...] nor the linen cloths. As soon as we get them, [we will [send them. You should know that Sat]yros is in Memphis, ill, and that [he is staying in] the Asklepieion. Greetings. [Year ...], Pharmouthi [...].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

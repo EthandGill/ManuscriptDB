@@ -1,0 +1,30 @@
+[META]
+id:       O.CAIR 115
+label:    O.CAIR 115
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (101 CE – 200 CE)
+# hgv-keywords: Quittungen — Steuern — Getreide
+tm:       73463
+source:   https://papyri.info/ddbdp/o.cair;;115
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κωμῶν γενήματος ιε [ἔτους ] …
+r.2    τοῦ κυρίου Μεσορὴ θ ὑ[πὲρ] …
+r.3    Πολλίου Ἑρεννίου α …
+r.4    καὶ ὑπὲρ γνησίων πυροῦ ὄγδοον, γίνεται πυροῦ η …
+r.5    ὀνόματος τοῦ αὐτοῦ ὑπὲρ ἀριθ πυροῦ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

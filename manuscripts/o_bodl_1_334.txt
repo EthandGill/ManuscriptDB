@@ -1,0 +1,24 @@
+[META]
+id:       O.BODL 1.334
+label:    O.BODL 1.334
+name:     Documentary papyrus — Theben (?)
+genre:    documents
+date:     100 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (?) (100 BCE – 1 BCE)
+# hgv-keywords: Abrechnung
+tm:       71053
+source:   https://papyri.info/ddbdp/o.bodl;1;334
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    πρᾶσις ἐν Μωσίωι
+r.2    δραχμαὶ Γϡ ἐν Θυμκω δραχμαὶ τπ γίνονται Δσπ.
+
+[TRANSLATION]
+1     
+2     

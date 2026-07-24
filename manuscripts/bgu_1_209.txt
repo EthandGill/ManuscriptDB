@@ -1,0 +1,34 @@
+[META]
+id:       BGU 1.209
+label:    BGU 1.209
+name:     Receipt — Patsontis (Arsinoites)
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Patsontis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Patsontis (Arsinoites) (158 CE – 159 CE)
+# hgv-keywords: Quittung — Getreide — Saat
+tm:       8972
+source:   https://papyri.info/ddbdp/bgu;1;209
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σπερμάτων κβ ἔτους Ἀντωνείνου
+r.2    Καίσαρος τοῦ κυρίου
+r.3    πγ κληρουχίας Πατσώντιος Σωπτ
+r.4    βασιλικῆς Ὡρίων Λιμναίου
+r.5    ἀρουρῶν ζ. Λογγεῖος ἔγραψα
+r.6    ὑπὲρ αὐτοῦ ἀγραμμάτου.
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 22 of Antoninus Caesar, the lord. 83rd cleruchy. At Patsontis 7 arouras of royal (land) Horion, son of Limnaios. I, Longinos, wrote this on his behalf, because he is illiterate.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

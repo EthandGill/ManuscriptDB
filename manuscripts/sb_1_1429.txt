@@ -1,0 +1,26 @@
+[META]
+id:       SB 1.1429
+label:    SB 1.1429
+name:     Documentary papyrus — Meir
+genre:    documents
+date:     unbekannt
+language: Greek (Koiné)
+found:    Meir
+held:     
+shelf:    
+content:  Documentary papyrus from Meir (unbekannt)
+# hgv-keywords: Aufschrift auf einer Mumienhülle
+tm:       40235
+source:   https://papyri.info/ddbdp/sb;1;1429
+lat:      27.441651
+lon:      30.747262
+
+[GREEK]
+r.1    Ἀνουβᾶς Σαραπίωνος
+r.2    μητρὸς Εὐδαιμονίδος,
+r.3    ἐβίωσεν ἔτη νε, ἄωρος.
+
+[TRANSLATION]
+1     
+2     
+3     

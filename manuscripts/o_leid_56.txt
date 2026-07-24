@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 56
+label:    O.LEID 56
+name:     Receipt — Theben
+genre:    receipts
+date:     42 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (42 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24628
+source:   https://papyri.info/ddbdp/o.leid;;56
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Παμῆς ὁμοίως ὑπὲρ χωματικοῦ β ἔτους δραχμὰς ἓξ τετρώβολον,
+r.2    γίνονται δραχμαὶ ϛ τετρώβολον. ἔτους γ Τιβερίου Κλαυδίου Καίσαρος
+r.3    Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος Φα[ῶ]φ[ι]
+r.4    κε. Κεφαλος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

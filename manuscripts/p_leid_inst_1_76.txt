@@ -1,0 +1,28 @@
+[META]
+id:       P.LEID.INST 1.76
+label:    P.LEID.INST 1.76
+name:     Receipt — unbekannt
+genre:    receipts
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Receipt from unbekannt (601 CE – 700 CE)
+# hgv-keywords: Quittung — Zahlung — Getreide
+tm:       38781
+source:   https://papyri.info/ddbdp/p.leid.inst;1;76
+lat:      
+lon:      
+
+[GREEK]
+r.1    Φῖβ καμηλίτης καὶ Πατρίκιος
+r.2    ἀπὸ Μικροῦ σίτου ἀρτάβας γ ὑπὲρ ἰνδικτίονος …
+r.3    Ἰσὰκ πρεσβύτερος ἰνδικτίονος ϛ
+
+[TRANSLATION]
+# HGV-EN: (Translation: P. L. Bat. 25.76) '(cross) Phib the camel-driver and Patricius (?) from Mikron (have paid) 3 artabas of wheat for the xth indiction.' 'Isac the elder. Indiction 6.'
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

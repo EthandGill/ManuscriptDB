@@ -1,0 +1,56 @@
+[META]
+id:       P.CAIR.MICH 2.21
+label:    P.CAIR.MICH 2.21
+name:     Contract — Karanis (Arsinoites)
+genre:    contracts
+date:     164 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Karanis (Arsinoites) (164 CE)
+# hgv-keywords: Vertrag — Pacht — Land (Katökenland) — Antrag
+tm:       397544
+source:   https://papyri.info/ddbdp/p.cair.mich;2;21
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    … τος
+r.2    [παρὰ] … ιου Σύρου ἀπὸ
+r.3    [τῆς μητρο]πόλεως. βο[ύλο]μαι
+r.4    [μισθώσασθαι πα]ρὰ σ[οῦ] τὰς
+r.5    [ὑπαρχούσας σο]ι περὶ κώμην
+r.6    Καρα[νίδα κ]λήρου κατοικικοῦ
+r.7    ἀρούρας γ 𐅵 [ἐν] δυσὶ σφραγῖσι ἐν
+r.8    τόπῳ Ὑπόλθου λεγομένῳ εἰς ἔτη τρία σπο[ρὰς]
+r.9    τρῖς ἀπὸ τοῦ ἐνεστῶτος
+r.10   ε ἔτους Ἀντωνίνου καὶ Οὐή[ρο]υ
+r.11   τῶν κυρίων Σεβαστῶ[ν] [ἐκ]φορίου καθ’ ἔτος πυροῦ ἀρταβῶν [δώ]δ[εκα] ἥμισυ, ἐμο[ῦ λαμ]β[άνοντος] σπέρ[ματα] …
+r.12   … π …
+r.13   … ρ … γ … ασ …
+r.14   ε …
+r.15   ε … κ … μέτρῳ ἑ[ξαχοινί]κῳ ἑ[ρ]μ[η]νέως Κ[αρανίδος]
+r.16   βεβαιώσεις δέ μοι [ἀπὸ δη]μο[σ]ίω[ν] πάντων καὶ .
+r.17   … φ …
+
+[TRANSLATION]
+# HGV-EN: To NN, son of NN, from NN, son of Syrus, of the Metropolis. I wish to lease from you the three and a half arourae in two parcels, of catoecic land which belong to you at the village of Karanis, in the place called Hypolthes, for three years, three sowings, from the present fifth year of Antoninus and Verus our Lords Augusti, for a yearly rent of twelve and a half artabai of wheat ... (And I will deliver the rent yearly in the month Pauni, at the village?) measured with the six-choinix measure of the Hermeneus of Karanis. And you will guarantee (sc. the lease) to me also free from public dues ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

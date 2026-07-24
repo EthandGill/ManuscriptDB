@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1684
+label:    O.BODL 2.1684
+name:     Receipt — Theben
+genre:    receipts
+date:     203 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (203 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       72368
+source:   https://papyri.info/ddbdp/o.bodl;2;1684
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    παρεκομίσθη εἰς χώρτην ὑπὲρ γενήματος
+r.2    ια ἔτους ὀνόματος Ἀμμωνίου Διδύμου ἀχύρου
+r.3    γόμος εἷς γίνεται γόμος α. ἔτους ια
+r.4    Ἐπεὶφ κε. Α σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

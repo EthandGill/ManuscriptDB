@@ -1,0 +1,26 @@
+[META]
+id:       P.Oxy. 4.799
+label:    P.Oxy. 4.799
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     1 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (1 CE)
+# hgv-keywords: Abrechnungen — Geld — Darlehen
+tm:       20455
+source:   https://papyri.info/ddbdp/p.oxy;4;799
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    τῶν ἐν Ἀλεξανδρείᾳ ασσχηκε χειρο Θέωνος ἐν πλοίῳ
+r.2    Ταυρείνου καὶ Σενείθου δραχμαὶ τ τόκου ἕως Μεσορὴ δραχμαὶ οζ
+r.3    εἰς δανεισμόν
+
+[TRANSLATION]
+1     
+2     
+3     

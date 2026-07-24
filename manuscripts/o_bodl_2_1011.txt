@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1011
+label:    O.BODL 2.1011
+name:     Receipt — Theben
+genre:    receipts
+date:     17 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (17 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71699
+source:   https://papyri.info/ddbdp/o.bodl;2;1011
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεχῶνσις Θοτέως τέτακται
+r.2    τοῦ ιγ ἔτους δραχμὰς κ τέλος λινύφων.
+r.3    ἔτους ιγ Καίσαρος Μεχεὶρ ια.
+r.4    Κέφαλος τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

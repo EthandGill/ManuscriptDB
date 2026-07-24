@@ -1,0 +1,22 @@
+[META]
+id:       PSI 6.641
+label:    PSI 6.641
+name:     Letter — Philadelphia (Arsinoites)
+genre:    letters
+date:     275 BCE – 226 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Letter from Philadelphia (Arsinoites) (275 BCE – 226 BCE)
+# hgv-keywords: Brief (privat) — Pataikion an Zenon — Erhalt eines Briefes von Zenon — fragmentarisch
+tm:       2243
+source:   https://papyri.info/ddbdp/psi;6;641
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    Παταικίων Ζήνωνι χαίρειν. ἔγραψάς μοι περὶ Ἀντιπάτρου ἐντυχεῖν
+
+[TRANSLATION]
+1     

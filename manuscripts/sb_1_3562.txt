@@ -1,0 +1,30 @@
+[META]
+id:       SB 1.3562
+label:    SB 1.3562
+name:     Receipt — Theben
+genre:    receipts
+date:     63 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (63 CE)
+# hgv-keywords: Quittung — Geld
+tm:       23081
+source:   https://papyri.info/ddbdp/sb;1;3562
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαῆρις Μεσουήριος Πετεχώνσι
+r.2    Ψενενούφιος χαίρειν. ἀπέχω τὸ βαλανευτικὸν
+r.3    τοῦ θ ἔτους Νέρωνος τοῦ
+r.4    κυρίου.
+r.5    Ἐπεὶφ ιζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

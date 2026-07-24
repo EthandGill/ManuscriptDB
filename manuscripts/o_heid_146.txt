@@ -1,0 +1,38 @@
+[META]
+id:       O.HEID 146
+label:    O.HEID 146
+name:     Receipt — Papa (Koptites)
+genre:    receipts
+date:     29 CE – 30 CE
+language: Greek (Koiné)
+found:    Papa (Koptites)
+held:     
+shelf:    
+content:  Receipt from Papa (Koptites) (29 CE – 30 CE)
+# hgv-keywords: Quittung — Steuer (Kopfsteuer, Deichsteuer)
+tm:       80369
+source:   https://papyri.info/ddbdp/o.heid;;146
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἀντίγραφον διαγραφῆς διὰ τῆς ἐν Πάπα κ[ώμῃ τῆς]
+r.2    Λιβύης τοῦ Κοπτίτου Ἀπολλωνίου κολλυβιστικῆς τραπέζης.
+r.3    ἔτους ιϛ Τιβερίου Καίσαρος Σεβαστοῦ …
+r.4    ιγ. Α … χ Ὥρου τοῦ Ψενοσείρεως Πα …
+r.5    Πετεαρπρήους πράκτορι Ψᾶ τοῦ Κοπτίτου [ὑπὲρ]
+r.6    λαογραφίας καὶ χωματικοῦ τοῦ ιε ἔτους Τιβερίου
+r.7    δεκαέξ,
+r.8    γίνονται δραχμαὶ ιϛ.
+
+[TRANSLATION]
+# HGV-EN: A copy of a payment for the exchange bank of [Apollonius] in the village of Papa,which is in the part of the Coptite nome west of the Nile. In the year 16 of Tiberius Caesar Augustus, on the 13th of ---, [A..ch( )], the son of [Horos] and grandson on [Psenosiris] to [Pa---], the son of [Peteharpres], through the collector [Psa] of the Coptite nome, for the poll tax and dike tax for the year 15 of Tiberius 16 drachmas, which makes 16 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

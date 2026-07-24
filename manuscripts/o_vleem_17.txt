@@ -1,0 +1,30 @@
+[META]
+id:       O.VLEEM 17
+label:    O.VLEEM 17
+name:     Receipt — Elephantine
+genre:    receipts
+date:     251 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (251 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       3013
+source:   https://papyri.info/ddbdp/o.vleem;;17
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔτους λε Παρμοῦθι κζ ἔχει Δῶρος παρὰ
+r.2    Σμητβελλῆτος καὶ μητρὸς
+r.3    Τιῦτος ἁλικῆς τοῦ [λε] ἔτους [δραχμὴν α τριώβολον].
+r.4    διὰ Πετεπίφιος ἁλικ[ῆς]
+r.5    τοῦ ἔτους λε δραχμὴν α τριώβολον.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.346
+label:    O.STRAS 1.346
+name:     Receipt — Theben
+genre:    receipts
+date:     99 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (99 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75934
+source:   https://papyri.info/ddbdp/o.stras;1;346
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηκεν θησαυρῷ διοικήσεως Ἄνω τοπαρχίας
+r.2    γενήματος β ἔτους Τραιανοῦ τοῦ κυρίου Παῦνι ιη
+r.3    ὀνόµατος [Πικῶτ]ος Ψενθαήσιος δεκανοῦ διὰ Ἁροννώφριος
+r.4    Πσενφα πυροῦ δ, γίνεται πυροῦ δ ἄλλο ι ὀνόματος τοῦ αὐτοῦ διὰ
+r.5    Ἀμερώιος πυροῦ δ κδ γίνεται δ κδ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

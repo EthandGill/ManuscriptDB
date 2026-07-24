@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.227
+label:    O.STRAS 1.227
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     137 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (137 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75824
+source:   https://papyri.info/ddbdp/o.stras;1;227
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἑριεὺς Παμώνθου πράκτωρ τοκ Τιμι …
+r.2    Σενοννώφρι[ος] Φθομ. ἔσχον ὑπὲρ τοκ
+r.3    κα ἔτους πεντώβολον δ … φ … . ἔτους κβ Αὐτοκράτορος
+r.4    Καίσαρος Τραιανοῦ Ἁδριανοῦ
+r.5    Σεβαστοῦ Ἁθὺρ ιζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

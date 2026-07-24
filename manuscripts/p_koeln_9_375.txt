@@ -1,0 +1,26 @@
+[META]
+id:       P.KOELN 9.375
+label:    P.KOELN 9.375
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     74 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (74 CE)
+# hgv-keywords: Quittung — Steuer — Geld — Wächter-
+tm:       78432
+source:   https://papyri.info/ddbdp/p.koeln;9;375
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Παχοῦμις Μενελάου
+r.2    ὑπὲρ φυλάκων ϛ ἔτους δραχμὴν α. ἔτους ϛ
+r.3    Ἐπεὶφ γ.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,32 @@
+[META]
+id:       BGU 2.631
+label:    BGU 2.631
+name:     Receipt — Bakchias (?) (Arsinoites)
+genre:    receipts
+date:     168 CE
+language: Greek (Koiné)
+found:    Bakchias (?) (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Bakchias (?) (Arsinoites) (168 CE)
+# hgv-keywords: Quittung — Vorschuß — Saat (Getreide)
+tm:       9275
+source:   https://papyri.info/ddbdp/bgu;2;631
+lat:      29.536946
+lon:      31.0041595
+
+[GREEK]
+r.1    ἔσχον προσφωνήσας χειρογραφίᾳ σπερμάτων θ ἔτους
+r.2    Ἀντωνίνου καὶ Οὐήρου
+r.3    τῶν κυρίων Σεβαστῶν
+r.4    Ἁδριανοῦ ιβ Σαβεῖνος
+r.5    Ἔρωτος ἀρτάβας ζ 𐅵.
+
+[TRANSLATION]
+# HGV-EN: I received under declaration with a written sworn statement from the seed grain of year 9 of Antoninus and Verus, the lords Augusti, Hadrianos 12. 4 Sabeinos, son of Eros. For 7 1/2 arouras.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

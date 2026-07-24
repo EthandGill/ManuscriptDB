@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.1356
+label:    O.BODL 2.1356
+name:     Receipt — Theben
+genre:    receipts
+date:     141 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (141 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       72038
+source:   https://papyri.info/ddbdp/o.bodl;2;1356
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [μεμέτρηται εἰς ][θη]σαυρὸν μητροπόλεως γενήματος δ ἔτους Ἀντωνίνου Καίσαρος
+r.2    [τοῦ κυρίου Μ]εσορὴ ιβ ὑπὲρ Ἀγορῶν ὀνόματος Φατρήους
+r.3    … πυροῦ ἀρτάβης 𐅵 γ καὶ ὑπὲρ Ἀγορῶν ὀνόματος Σενφατρήους
+r.4    … [ πυροῦ ἀρτάβης 𐅵 δ] καὶ ὑπὲρ Ἀγορῶν ὀνόματος Ἰσιδώρου Φουήριος
+r.5    [πυροῦ ἀρτάβης] κδ καὶ ὑπὲρ Ἀγορῶν ὀνόματος Σενμίνιος Ἑρμη… σιος πυροῦ ἀρτάβης δ γίνεται πυροῦ ἀρτάβη μία ἥμισυ τρίτον
+r.6    τετρακαιεικοστόν . Ἀμώνιος βοηθὸς σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

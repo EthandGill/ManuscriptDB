@@ -1,0 +1,24 @@
+[META]
+id:       BGU 3.958f
+label:    BGU 3.958f
+name:     Documentary papyrus — Herakleopolis
+genre:    documents
+date:     301 CE – 700 CE
+language: Greek (Koiné)
+found:    Herakleopolis
+held:     
+shelf:    
+content:  Documentary papyrus from Herakleopolis (301 CE – 700 CE)
+# hgv-keywords: Name und Titel: Soranos Tribun und Notar
+tm:       33255
+source:   https://papyri.info/ddbdp/bgu;3;958f
+lat:      29.0855048
+lon:      30.9345750333
+
+[GREEK]
+r.1    Σωρᾶνος τριβοῦνος καὶ νοτάριος τῶν
+r.2    δεσποτῶν ἡμῶν Αὐγού[στων ] …
+
+[TRANSLATION]
+1     
+2     

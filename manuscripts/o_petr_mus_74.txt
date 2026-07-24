@@ -1,0 +1,26 @@
+[META]
+id:       O.PETR.MUS 74
+label:    O.PETR.MUS 74
+name:     Receipt — Theben
+genre:    receipts
+date:     242 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (242 BCE)
+# hgv-keywords: Quittung — Steuer — Salzsteuer
+tm:       75321
+source:   https://papyri.info/ddbdp/o.petr.mus;;74
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ϛ Παῦνι ιγ
+r.2    ἁλικῆς διὰ Σωστ[ρ]άτου
+r.3    Τάβα ὀβολὸς ἡμιωβέλιον
+
+[TRANSLATION]
+1     
+2     
+3     

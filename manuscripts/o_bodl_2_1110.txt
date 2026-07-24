@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1110
+label:    O.BODL 2.1110
+name:     Receipt — Theben
+genre:    receipts
+date:     194 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (194 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71797
+source:   https://papyri.info/ddbdp/o.bodl;2;1110
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁδριανοῦ … τοῦ γ ἔτους ὑπὲρ λημμάτων β ἔτους
+r.2    ὀνόματος Ψεντ … ρ … Μέρσιος ὑπὲρ
+r.3    στεφανικοῦ χρήματος δραχμὰς τέσσαρας
+r.4    γίνονται δραχμαὶ δ. Πανίσκος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

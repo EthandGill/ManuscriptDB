@@ -1,0 +1,30 @@
+[META]
+id:       O.TRIM 1.320
+label:    O.TRIM 1.320
+name:     Documentary papyrus — Trimithis (Oasis Magna)
+genre:    documents
+date:     350 CE – 370 CE
+language: Greek (Koiné)
+found:    Trimithis (Oasis Magna)
+held:     
+shelf:    
+content:  Documentary papyrus from Trimithis (Oasis Magna) (350 CE – 370 CE)
+# hgv-keywords: Anweisung — Lieferung
+tm:       131369
+source:   https://papyri.info/ddbdp/o.trim;1;320
+lat:      25.6677395488
+lon:      28.8708832519
+
+[GREEK]
+r.1    Λουι Σεναμοῦνις
+r.2    κεράμια λ
+r.3    δὸς αὐτῷ κεράμια κα
+r.4    ἀπὸ …
+
+[TRANSLATION]
+# HGV-EN: “Loui son of (?) Senamounis, 30 keramia. Give 21 (?) keramia to him out of...”
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

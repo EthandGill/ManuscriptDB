@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB.TAXES 2.104
+label:    O.THEB.TAXES 2.104
+name:     Receipt — Theben
+genre:    receipts
+date:     219 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (219 BCE)
+# hgv-keywords: Quittung — Steuer — Weizen — ἐπιγραφή
+tm:       43554
+source:   https://papyri.info/ddbdp/o.theb.taxes;2;104
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους γ Παυνι β̅ εἰσμ[ε]μ[έτ]ρηκεν
+r.2    εἰς τὴν ἐπιγραφὴν τοῦ Π[ε]ρὶ Θήβας
+r.3    τόπου Φιλοκλῆς Νίκωνος
+r.4    πυροῦ δέκα πέντε γίνεται πυροῦ ιε Κριτόλαος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

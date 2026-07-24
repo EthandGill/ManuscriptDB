@@ -1,0 +1,36 @@
+[META]
+id:       ZPE 178.237
+label:    ZPE 178.237
+name:     Letter — Nikonion
+genre:    letters
+date:     325 BCE – 276 BCE
+language: Greek (Koiné)
+found:    Nikonion
+held:     
+shelf:    
+content:  Letter from Nikonion (325 BCE – 276 BCE)
+# hgv-keywords: Brief — Dionysios an Haushalt
+tm:       382563
+source:   https://papyri.info/ddbdp/zpe;178;237
+lat:      46.174801
+lon:      30.4585
+
+[GREEK]
+r.1    Διονύσιος τοῖς ἐν οἴκω[ι] χαίρειν. ἕως τούτου ἔρ[ρω]μαι καὶ
+r.2    ὁ ὑός. ὑμεῖς δὲ μαλακία[ι] μηθὲν ἐνδῶτε, ἀλλὰ ἀπόστειλόν τινα καὶ ἔντειλαι Μαρακάτῃ· τὸ μονόξυλον ἄμμου ἐνέπλησα. ἐξεράσας μετέωρον
+r.3    αὐτὸ ἀνασπασάτω, ὡς πλὴν ἐκείνου ἐλπὶς
+r.4    οὐδεμία ἐστίν. καὶ κριθῶν εἰσιν παρὰ Ποσσικρ[ά]τηι μέδιμνοι ἐννέα. ἔρρωται δὲ καὶ
+r.5    Ποσσικράτης. κ[ό]μισαι δὲ καὶ παρὰ τῶν
+r.6    Θοαψων ἡμ[ιστ]άτηρον ἀποδοῦσα
+r.7    τὸ εἱμάτ[ιον.]
+
+[TRANSLATION]
+# HGV-EN: Dionysios sends his greetings to the household. Until now I am in good health and so is the son. You should in no way give in to weakness, but dispatch someone and instruct Marakates, (that) I loaded the boat with sand. After emptying (the boat) he should haul it up high, since except for this there is no hope. And there are nine medimnoi of barley with Possikrates. Possikrates is in good health. Receive from the Thoapsoi (?) a half-stater after returning the cloth.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

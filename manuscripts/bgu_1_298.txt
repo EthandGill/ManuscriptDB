@@ -1,0 +1,48 @@
+[META]
+id:       BGU 1.298
+label:    BGU 1.298
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     175 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (175 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       9041
+source:   https://papyri.info/ddbdp/bgu;1;298
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἀσκληπιάδῃ βασιλικῷ γραμματεῖ Ἡρακλείδου
+r.2    μερίδος
+r.3    παρὰ Διονυσίου Χαιρήμονος
+r.4    μητρὸς Ταφερῶτος ἀπὸ κώμης
+r.5    Ἀρσινόης. ὑπάρχει [μοι] ἐν τῇ αὐτῇ κώμῃ
+r.6    πύργος ἀπηλιώτου εἴσοδος
+r.7    καὶ ἔξοδος καὶ ἀπὸ νότου τούτων
+r.8    ἥμισυ μέρος οἰκίας παλαιᾶς, ἅπερ ἀπογράφομαι
+r.9    εἰς τὴν τοῦ διεληλυθότος
+r.10   ιδ ἔτους κατʼ οἰκίαν ἀπογραφὴν, καί εἰμι Διονύσιος ὁ προγεγραμμένος ἐτῶν μη … καὶ τὴν
+r.11   γεγον[υῖάν] μοι θυγατέρα
+r.12   Ἀμμ[ων ] … μητρὸς μὴ
+r.13   γραπ[τῆς] …
+
+[TRANSLATION]
+# HGV-EN: To Asklepiades, royal scribe of the Herakleides division from Dionysios, son of Chairemon, mother Tapheros from the village of Arsinoe. There belongs (to me) in the same village a house a tower, to the east an entrance and an exit and to the south of these 1/2 an old house, which I register for the house-by-house registration of the 14th year. And I am the above mentioned Dionysios, 48 years old, [without a distinguishing mark ?] and (I register) the daughter born to me, Amm[onarion (?)], mother – – –.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

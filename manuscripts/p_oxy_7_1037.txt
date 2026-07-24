@@ -1,0 +1,60 @@
+[META]
+id:       P.Oxy. 7.1037
+label:    P.Oxy. 7.1037
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     444 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (444 CE)
+# hgv-keywords: Vertrag — Antrag — Pacht — Exedra — Haus
+tm:       20332
+source:   https://papyri.info/ddbdp/p.oxy;7;1037
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    χ[μ]γ.
+r.2    [μ]ετὰ τὴν ὑπατείαν Φλαουίων Μαξίμο[υ] τὸ [β]
+r.3    καὶ Πατερίου τῶν λαμπροτάτων Μεσορὴ ιη.
+r.4    Αὐρηλίῳ Φιλοξένῳ Δωρᾶτος ὀρβιοπώλῃ
+r.5    [ἀ]πὸ τῆς λαμπρᾶς καὶ λαμπροτ[ά]της Ὀξυρυγχιτῶν
+r.6    [πόλ]εως παρὰ Αὐρηλίου Ἱέρακ[ο]ς [Ἀ]ν[α]στ[α]τιανοῦ
+r.7    [ἀπὸ] τῆς αὐτῆς πόλεως. ἑκουσίως ἐπιδέχομαι μισθώ[σασθαι] ἀπὸ νεομηνίας τοῦ ἑξῆς μηνὸς Θὼθ
+r.8    [τοῦ εἰσιόντος] ἔ[του]ς ρκα ϙ τῆς τρεισκαιδεκάτης
+r.9    [ἰνδικτίωνος τὴν δ]ιαφέρουσάν σοι ἀπὸ ο[ἰ]κί[ας]
+r.10   [τῆς κ]αλουμένη[ς ] … αρους οὔσης ἐν τῇ αὐτῇ Ὀξυρυγχιτῶν
+r.11   [πό]λ[ει] ἐπʼ ἀμφόδου Ἀγορᾶς [Σ]κυτέων ὁλόκληρο[ν]
+r.12   ἐξ[έ]δραν σὺν χρηστηρίοις πᾶσι, καὶ τελέσ[ω]
+r.13   σοι ὑπὲρ ἐνοικίου ἐνιαυσίως ἀργυρίου μυριάδας
+r.14   δισχιλίας τετρακοσίας , καὶ ἐπάναγκες ἀποδώσω
+r.15   τὸ ἐνοίκιον ἀνυπερθέτως, καὶ ὁπότ[αν βουληθῇς]
+r.16   [π]αραδώσω σοι τὴν αὐτὴν ἐξέδραν [καθαρὰν].
+r.17   [κυρία ἡ μίσ]θωσις ἁπλῆ γραφεῖσα καὶ [ἐπερωτηθεὶς]
+r.18   [ὡμολόγησα. ] …
+r.19   μίσθωσι[ς ἐξέδρα]ς.
+
+[TRANSLATION]
+# HGV-EN: The year after the consulship of Flavius Maximus for the 2nd time and Flavius Paterius. the most illustrious, Mesore 18. To Aurelius Philoxenus son of Doras, seller of phorbium, of the illustrious and most illustrious city of Oxyrhynchus, from Aurelius Hierax son of Anastatianus, of the said city. I undertake of my own free will to lease from the first day of the next month Thoth of the present reign and the 13th indiction, the hall belonging to you in the house called ... which is in the said city of Oxyrhynchus in the quarter of the Cobblers’ Market, complete with all its appurtenances, and I will pay you for rent 2,400 myriads of silver yearly, and I will perforce pay the rent with no delay, and whenever you wish I will hand over to you the hall in a clean state. This lease, of which a single copy is made, is valid, and in answer to the question I have given my consent.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

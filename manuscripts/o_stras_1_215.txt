@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.215
+label:    O.STRAS 1.215
+name:     Receipt — Theben
+genre:    receipts
+date:     132 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (132 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75812
+source:   https://papyri.info/ddbdp/o.stras;1;215
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁρποκρᾶς πράκτωρ ἀργυρικῶν
+r.2    πόλεως Ἀπολλωνίῳ. ἔσχον ὑπὲρ
+r.3    βαλανείου Ἀγορᾶς βορρᾶ ιϛ ἔτους ῥυπαρὰς δραχμὰς δύο ἡμιωβέλιον χαλκοῦς β
+r.4    γίνονται ῥυπαραὶ δραχμαὶ β ἡμιωβέλιον χαλκοῦς β. ἔτους ιϛ Ἁδριανοῦ τοῦ κυρίου
+r.5    Παῦνι ε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

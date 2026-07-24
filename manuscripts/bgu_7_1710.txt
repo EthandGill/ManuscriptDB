@@ -1,0 +1,28 @@
+[META]
+id:       BGU 7.1710
+label:    BGU 7.1710
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (101 CE – 200 CE)
+# hgv-keywords: Quittung (?)
+tm:       27618
+source:   https://papyri.info/ddbdp/bgu;7;1710
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ιγ ἔτους Παῦνι κδ
+r.2    Ἀρσινοείτου
+r.3    Δι[ο]γένης … ιπου
+r.4    λισ … ω …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

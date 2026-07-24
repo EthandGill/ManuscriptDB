@@ -1,0 +1,32 @@
+[META]
+id:       O.DID 42
+label:    O.DID 42
+name:     Letter — Didymoi (Ägypten)
+genre:    letters
+date:     264 CE
+language: Greek (Koiné)
+found:    Didymoi (Ägypten)
+held:     Qift
+shelf:    
+content:  Letter from Didymoi (Ägypten) (264 CE)
+# hgv-keywords: Brief (privat?) — Baratit (Fürst [ὑποτύραννος] der Barbaren) (?) an N.N. (curator von Didymoi?) — Fragment — Lieferung — Tierfutter (?)
+tm:       144608
+source:   https://papyri.info/ddbdp/o.did;;42
+lat:      25.7543330528
+lon:      33.3947791619
+
+[GREEK]
+r.1    Βαρατιτ Β …
+r.2    κουράτορι π[ραισιδίου] …
+r.3    … μο … χε …
+r.4    τροφο …
+r.5    καθὼς …
+r.6    ε …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

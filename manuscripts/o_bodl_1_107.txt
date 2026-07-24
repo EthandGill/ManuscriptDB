@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 1.107
+label:    O.BODL 1.107
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     114 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (114 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       43568
+source:   https://papyri.info/ddbdp/o.bodl;1;107
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους γ Παχὼν
+r.2    κϛ τέτακται ἐπὶ τὴν ἐν …
+r.3    τράπεζαν ἐφʼ ἧς Ἀπολλώνιος ἀπομοίρας γ ἔτους
+r.4    Ψενμώνθης … χ …
+r.5    χιλίας τν γίνονται Ατν.
+r.6    Ἀπολλώνιος τραπεζίτης Αφ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

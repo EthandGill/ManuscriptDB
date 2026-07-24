@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 63
+label:    O.LEID 63
+name:     Receipt — Theben
+genre:    receipts
+date:     49 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (49 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24635
+source:   https://papyri.info/ddbdp/o.leid;;63
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πετεμενῶφις Παμώνθου ὑπὲρ
+r.2    φοινικώνων θ ἔτους ἀργυρίου δραχμὰς ζ τριώβολον καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου.
+r.3    ἔτους ι Τιβερίου Κλαυδίου Καίσαρος
+r.4    Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος μηνὸς Σεβαστοῦ κθ. Κέφαλος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

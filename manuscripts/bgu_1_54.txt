@@ -1,0 +1,50 @@
+[META]
+id:       BGU 1.54
+label:    BGU 1.54
+name:     Documentary papyrus — Karanis (Arsinoites)
+genre:    documents
+date:     161 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Karanis (Arsinoites) (161 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       9099
+source:   https://papyri.info/ddbdp/bgu;1;54
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Ἁρφαήσι κωμογραμματεῖ Καρανίδος
+r.2    παρὰ Ἀμμωνίου Ἁρπαγάθου
+r.3    τοῦ Ἡρᾶ μητρὸς Σεγάθ[ιο]ς ἀπὸ κώμης Καρανίδος· ἀπογράφομαι ἐμαυτὸν καὶ τοὺς
+r.4    ἐμοὺς εἰς [τ]ὴν τοῦ διεληλυθότος κγ ἔτους
+r.5    θεοῦ Ἀντωνείνου κατʼ οἰκίαν ἀπογραφήν,
+r.6    εἰς ἣ[ν κ]αταγείνομαι ἐν τῇ κώμῃ,
+r.7    Θαισα[ρί]ου οἰκίαν καὶ αὐλήν· εἰμὶ δὲ
+r.8    Ἀ[μμών]ιος ὁ προγεγραμμένος ἐτῶν λϛ ἄσημος
+r.9    καὶ [τὴν γυν]αῖκά μου Θαισάριον Ἀντων[ί]ο[υ] [ἐτῶν] κθ ἄσημον καὶ τὸ ἐξ ἀμφοτέρων
+r.10   ἡμῶν θυγατέρα Σευθάριον ἐτῶν θ
+r.11   ἄσημον· ὑπάρχει δὲ τῇ γυναικί μου Θαισαρίῳ τῇ προγεγραμμένῃ ἐν τῇ κώμῃ οἰκία καὶ
+r.12   αὐλή· διὸ ἐπιδίδωμι.
+r.13   ἔτους α Ἀντωνείνου Καίσαρος τοῦ κυρίου καὶ
+r.14   [Οὐή]ρου Καίσαρος τοῦ κυρίου Ἐπεὶφ ιγ.
+
+[TRANSLATION]
+# HGV-EN: To Harphaesis, village scribe of Karanis from Ammonios, son of Harpagathes, the son of Heras, mother Segath[is], from the village of Karanis. I register myself and my (family) for the house-by-house registration of the past 23rd year of the God Antoninus, for Thaisarion’s house and courtyard in the village, which I live in. I am A[mmon]ios the above mentioned, 36 years old without a distinguishing mark and (I register) my wife Thaisarion, daughter of Anton[i]u[s], 29 years old without a distinguishing mark and Seutharion daughter of both of us, 9 years old without a distinguishing mark. There belongs to my wife Thaisarion, the aforementioned, a house and courtyard in the village. Therefore I submit (this registration). Year 1 of Antoninus Caesar, the lord, and Verus Caesar, the lord, Epeiph 13.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

@@ -1,0 +1,44 @@
+[META]
+id:       P.PETR.KLEON 32
+label:    P.PETR.KLEON 32
+name:     Letter — Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+genre:    letters
+date:     260 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+held:     London
+shelf:    
+content:  Letter from Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob (260 BCE – 249 BCE)
+# hgv-keywords: Brief (geschäftlich) — Klearchos an Kleon — Streitigkeiten drohen — die Arbeit zu behindern
+tm:       7642
+source:   https://papyri.info/ddbdp/p.petr.kleon;;32
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [Ἐτέα]ρχος Κλέωνι χαίρειν. ὑπογέγραφά σοι τῆς παρὰ Πετ[εχώνσιος]
+r.2    [τοῦ ὑπαρ]χιτέκτονος ἐπιστολῆς τὰ ἀντίγραφα. πρὸς Διὸς οὖν καὶ [θεῶν,]
+r.3    [ὅπω]ς μὴ διὰ τὴν ὑμετέραν ἀψιμαχίαν ἐγὼ ἐν ἐγκλήμαισι γ[ίνωμαι].
+r.4    ἔρρωσο. ἔτους …
+r.5    [Πετέχωνσις Ἐτεάρχωι χαίρειν.] …
+r.6    … πρ … ο παρὰ σοὶ ἔργα ἀποδ … ε … ς φιλ …
+r.7    … ἀπὸ δὲ Φιλαδελφείας ἕως Πατσώνθιος πᾶσιν εν …
+r.8    … ἡμέραν. καλῶς ἂν οὖν ποιήσαις ποιῶν τὰ προστ …
+r.9    [ … τ]ῶν ἔργων [ἐ]φ’ ὧν ἡμᾶς καταλείπει Ἀπολλώνιος [ὁ διο]ικητὴς ο …
+r.10   … λου ὑπαρχ[ι]τέκτονος ἀκούηις καὶ πάθηι τι τῶν ἔργων τ …
+r.11   … [εἰς] τὸν ἐγκέφαλόν σου ἥξει.
+
+[TRANSLATION]
+# HGV-EN: Etearchos to Kleon, greetings. I have attached below for you a copy of the letter from Petechonsis, the vice-engineer. Please, by Zeus and [the gods], may I not end up being accused due to your quarrel! Farewell. Year [...]. [Petechonsis to Etearchos, greetings. ...] works with you [...] from Philadelpheia to Patsonthis, for all [...] day. Please make the [...] of the works over which the dioiketes Apollonios leaves us [...] of [...]los vice-engineer you hear and that something of the works suffers [...], it will come over your head.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

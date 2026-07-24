@@ -1,0 +1,36 @@
+[META]
+id:       BGU 3.787
+label:    BGU 3.787
+name:     Receipt — Karanis? (Arsinoites)
+genre:    receipts
+date:     40 CE
+language: Greek (Koiné)
+found:    Karanis? (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis? (Arsinoites) (40 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       9349
+source:   https://papyri.info/ddbdp/bgu;3;787
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ἔτους ε Γαίου Καίσαρος Αὐτοκράτορος
+r.2    Σεβαστοῦ μηνὸς Σωτῆρος κϛ. Ἡρακλα
+r.3    … φρου μεμέτρημαι ἀπὸ τῶν γενημάτων
+r.4    τοῦ δ ἔτους [μον]αρτάβου κ … Καρανίδος Χαιρήμων
+r.5    Σωκράτους πυροῦ ἀρτάβας μέτρῳ δημοσίῳ ἔπαιτον
+r.6    ἀρτάβας εἴκοσι [ἐ]ννέα , εἰκοστῆς μίαν ἥμισυ
+r.7    ὁ αὐτὸς ἰδιοκτήτου ἓξ δ, εἰκοστῆς δ γίνονται τοῦ συμβόλου πυροῦ ἀρτάβαι λζ
+
+[TRANSLATION]
+# HGV-EN: Year 5 of Gaius Caesar Imperator Augustus, 26th of the month of Soter. I, Heraklas, son of phros, have had measured to me from the produce of year 4 for the dues on (land) at one artaba of Karanis: Chairemon, son of Sokrates by levelled public measure epaiton twenty nine artabas of wheat, for the tax of a twentieth one and a half; the same person for the dues on idioktetos (land) six 1/4, for the tax of a twentieth 1/4 = for the receipt 37 artabas of wheat.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

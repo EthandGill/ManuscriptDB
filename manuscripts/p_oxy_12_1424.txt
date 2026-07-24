@@ -1,0 +1,60 @@
+[META]
+id:       P.Oxy. 12.1424
+label:    P.Oxy. 12.1424
+name:     Letter — Oxyrhynchites
+genre:    letters
+date:     316 CE – 318 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Letter from Oxyrhynchites (316 CE – 318 CE)
+# hgv-keywords: Brief (privat) — ein centurio princeps an Heras Ammonius (seinen Bruder, praepositus) — Bitte um Befreiung seines Pächters vom Amt des Einnehmers (Steuer) — und generelle Befreiung von den Liturgien
+tm:       21830
+source:   https://papyri.info/ddbdp/p.oxy;12;1424
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    κυρίῳ μου ἀδελφῷ Ἡρᾷ
+r.2    [Ἀμμώ]νιος ἑκατόνταρχος χαίρει[ν.]
+r.3    Φ … [ ὁ ἀ]π[ο]διδού[ς σοι τὰ] παρʼ ἐμ[οῦ]
+r.4    [γ]ράμμα[τ]α γεωργός μο[υ] τυγχάνει.
+r.5    φησὶν προβεβλῆσθαι εἰς λειτουργίαν
+r.6    τῆς κώμης Δωσιθέ[ο]υ, τουτ έστιν
+r.7    εἰς ἀπαίτησιν στιχαρίων καὶ παλλίων,
+r.8    μηδέπω δὲ ἐγκεχειρίσθαι τὴν ἀπαίτησιν. σπούδασον τοίνυν, ἄδελφε,
+r.9    τοῦτον ῥύσασθαι τοῦ λειτουργήματος,
+r.10   ἔτι δὲ καὶ δεξιῶς αὐτῷ προσ[σ]χεῖν
+r.11   τὰ μεγάλα μοι χαριζόμενος ἐν τούτῳ,
+r.12   ἀλλὰ μὴν καὶ τοῦ λοιποῦ μὴ ἐπιτρέπειν τοῖς ἀπὸ τῆς κώμης
+r.13   ἀδικῆσαι αὐτὸν ἐν τοῖς ἄλλοις
+r.14   μηδʼ εἰς ἑτέρας λειτουργίας προβάλλεσθαι, ἀλλʼ ἵνα μοι μαρτυρήσῃ
+r.15   τὰ ὑπὸ τῆς ἀγαθῆς σου προαιρέσεως
+r.16   αὐτῷ ὑπαρχθέντα. ἐρρῶσθαί σε εὔχομαι
+r.17   πολλοῖς χρόνοις,
+r.18   κύριε ἄδελφε.
+r.19   κ[υ]ρί[ῳ] μου ἀδελφῷ Ἡρᾷ Ἀμμώνιος πρίγκιψ.
+
+[TRANSLATION]
+# HGV-EN: To my lord and brother Heras Ammonius, centurion, greeting. Ph..., the bearer of my letter, is my tenant. He states that he has been appointed to a public office at the village of Dositheou, namely the collectorship of tunics and cloaks, but has not yet been entrusted with the collection. Accordingly use all your efforts, brother, to rescue him from the office, and also to give him your favourable consideration, thereby conferring a great favour upon me, and further not to allow in future the people of the village to injure him in other respects or appoint him to other offices, but let him testify to the benefits gained by your good will. I pray for your continued health, my lord and brother. (Addressed) To my lord and brother Heras from Ammonius, princeps.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

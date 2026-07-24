@@ -1,0 +1,36 @@
+[META]
+id:       BGU 3.756
+label:    BGU 3.756
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     199 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (199 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       9330
+source:   https://papyri.info/ddbdp/bgu;3;756
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἔτους ζ Λουκίου
+r.2    [Σ]επτιμίου Σεουήρου Εὐσεβοῦς
+r.3    Περτίνακος καὶ Μάρκου Αὐρηλίου
+r.4    Ἀντωνίνου Σεβαστῶν
+r.5    Φαμενὼθ ιε διεγράφησαν … ωνι
+r.6    νομάρχῃ Ἀρσινοΐτου διὰ Ἡρακλᾶ βοηθοῦ ἁλιέων ἀπὸ ποδὸς Σοκνοπαίου
+r.7    Νήσου διὰ Σωτᾶ ζ ἔτους δραχμαὶ [ὀ]γδοήκοντα [γίνονται] δραχμαὶ π.
+
+[TRANSLATION]
+# HGV-EN: Year seven of Lucius [S]eptimius Severus Pius Pertinax and of Marcus Aurelius Antoninus, Augusti, Phamenoth 15. Paid to Apion, nomarch of the Arsinoite nome, through Heraklas, assistant, for the fishermen-on-foot of Soknopaiou Nesos through Sotas for year 7 eighty drachmas = 80 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

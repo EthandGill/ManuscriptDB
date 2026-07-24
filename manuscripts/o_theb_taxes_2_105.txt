@@ -1,0 +1,32 @@
+[META]
+id:       O.THEB.TAXES 2.105
+label:    O.THEB.TAXES 2.105
+name:     Receipt — Theben
+genre:    receipts
+date:     217 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (217 BCE)
+# hgv-keywords: Quittung — Steuer — Gerste — ἐπιγραφή
+tm:       43556
+source:   https://papyri.info/ddbdp/o.theb.taxes;2;105
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ε Παχων κϛ
+r.2    εἰσμεμέτρηκεν Φιλοκλῆς
+r.3    Νίκωνος εἰς τὴν ἐπιγραφὴν τοῦ ε ἔτους κριθῶν ρνγ γ
+r.4    γίνεται ρνγ γ
+r.5    Καλλίας.
+r.6    Δίφιλος κριθῶν ρνγ γ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

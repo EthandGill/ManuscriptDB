@@ -1,0 +1,24 @@
+[META]
+id:       O.EDFOU 3.374
+label:    O.EDFOU 3.374
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     85 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (85 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74361
+source:   https://papyri.info/ddbdp/o.edfou;3;374
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ἰώσηπος Αἰσχύλου χωματικοῦ δ ἔτους
+r.2    Δομιτιανοῦ τοῦ κυρίου δραχμὰς ϛ τετρώβολον βαλανείου διώβολον ἰουδαίου τελέσματος δραχμὰς θ διώβολον ἔτους δ Παῦνι κδ
+
+[TRANSLATION]
+1     
+2     

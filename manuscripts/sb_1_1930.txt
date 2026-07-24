@@ -1,0 +1,28 @@
+[META]
+id:       SB 1.1930
+label:    SB 1.1930
+name:     Receipt — Elephantine
+genre:    receipts
+date:     68 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (68 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23072
+source:   https://papyri.info/ddbdp/sb;1;1930
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διαγεγράφηκεν Πασινοῦς Πετορζμήθιος ὑπὲρ λαογραφίας α ἔτους
+r.2    Γάλβα τοῦ κυρίου
+r.3    Μεσορὴι λ ἀργυρίου δραχμὰς
+r.4    δέκα ἕξ, γίνονται δραχμαὶ ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

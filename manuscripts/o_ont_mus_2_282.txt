@@ -1,0 +1,24 @@
+[META]
+id:       O.ONT.MUS 2.282
+label:    O.ONT.MUS 2.282
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     1 CE – 400 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Documentary papyrus from Theben (1 CE – 400 CE)
+# hgv-keywords: unbestimmbar
+tm:       69056
+source:   https://papyri.info/ddbdp/o.ont.mus;2;282
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ψολοκο[μπία]
+r.2    Γέτας
+
+[TRANSLATION]
+1     
+2     

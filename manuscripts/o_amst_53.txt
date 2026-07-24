@@ -1,0 +1,26 @@
+[META]
+id:       O.AMST 53
+label:    O.AMST 53
+name:     Receipt — Theben
+genre:    receipts
+date:     194 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (194 CE)
+# hgv-keywords: Quittung — Miete — Geld
+tm:       70400
+source:   https://papyri.info/ddbdp/o.amst;;53
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Τῦβι ε τοῦ γ ἔτους ὑπὲρ λημμάτων β ἔτους
+r.2    ὀνόματος Πετεμενώφιος νεωτέρου Ψενχώνσιος ἐνοικίου
+r.3    Χάρακος β ἔτους δραχμὴν μίαν τετρώβολον, γίνεται δραχμὴ α τετρώβολον. Αὐρήλιος Ἀμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

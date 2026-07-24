@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.444
+label:    O.STRAS 1.444
+name:     Receipt — Theben
+genre:    receipts
+date:     135 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (135 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       76032
+source:   https://papyri.info/ddbdp/o.stras;1;444
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Νίκων καὶ μέτοχοι ἀχυροπαραλῆμπται
+r.2    Ὥρῳ Φανήους. ἔσχομεν παρὰ σοῦ
+r.3    γόμου ἀχύρου τέταρτον
+r.4    γίνεται γόμου ἀχύρου δ ὑπὲρ ιζ ἔτους.
+r.5    ἔτους ιθ Ἁδριανοῦ
+r.6    τοῦ κυρίου Φαμενὼθ κβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

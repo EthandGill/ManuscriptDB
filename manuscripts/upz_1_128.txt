@@ -1,0 +1,24 @@
+[META]
+id:       UPZ 1.128
+label:    UPZ 1.128
+name:     Documentary papyrus — Memphis
+genre:    documents
+date:     131 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Documentary papyrus from Memphis (131 BCE)
+# hgv-keywords: Vermerk (Registrierung)
+tm:       3520
+source:   https://papyri.info/ddbdp/upz;1;128
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    ἔτους μ Φαῶφι ϛ ἀνα[γέγ]ραπται ἐν τῶι Ἀνουβιείωι
+r.2    διʼ Ἡρακλείδου τοῦ παρὰ Θέωνος.
+
+[TRANSLATION]
+1     
+2     

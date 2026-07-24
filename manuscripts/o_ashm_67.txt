@@ -1,0 +1,26 @@
+[META]
+id:       O.ASHM 67
+label:    O.ASHM 67
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (1 CE – 100 CE)
+# hgv-keywords: Notiz
+tm:       70516
+source:   https://papyri.info/ddbdp/o.ashm;;67
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    θησαυροῦ διοικήσεως Θὼθ κδ
+r.2    Ψεμενῶφις Πετεχώνσιος
+r.3    πυροῦ α δ.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,30 @@
+[META]
+id:       O.NYU 10
+label:    O.NYU 10
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     1 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (1 CE)
+# hgv-keywords: Quittung — Kopfsteuer — Geld
+tm:       869415
+source:   https://papyri.info/ddbdp/o.nyu;;10
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λ Παυνι κδ
+r.2    τέτακται λαογραφίας τοῦ αὐτοῦ ἔτους Τα …
+r.3    Παχῆτος ἀργυρίου δεκατέσσαρας
+r.4    τετρώβολον, γίνονται ιδ τετρώβολον. Πίσηχθις.
+
+[TRANSLATION]
+# HGV-EN: Year 30, Pauni 24, has paid for poll-tax of the same year, Ta... son/daugther (?) of Paches, fourteen drachmas four obols of silver, that is, 14 dr. 4 ob. Pise(chthis ?).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

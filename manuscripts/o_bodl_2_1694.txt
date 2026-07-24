@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.1694
+label:    O.BODL 2.1694
+name:     Receipt — Theben
+genre:    receipts
+date:     42 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (42 CE)
+# hgv-keywords: Quittung — Naubion
+tm:       72378
+source:   https://papyri.info/ddbdp/o.bodl;2;1694
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀμενώθης Κεμόιτος καὶ Ὀννῶφρις ἀδελφὸς ἐποίησαν ναύβια πέντε
+r.2    ἕκαστος γίνονται ναύβια ι. ἔτους β Τιβερίου Κλαυδίου Καίσαρος
+r.3    Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος Ἐπὶφ β.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,26 @@
+[META]
+id:       P.PETR.CAHIER 6
+label:    P.PETR.CAHIER 6
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     222 BCE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     Dublin
+shelf:    
+content:  Receipt from Arsinoites (222 BCE)
+# hgv-keywords: Quittung
+tm:       113016
+source:   https://papyri.info/ddbdp/p.petr.cahier;;6
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους κε Ἁθὺρ κη
+r.2    πέπτωκεν Πτολεμαίωι
+r.3    παρὰ Ποραγέβ[θιος τοῦ] Ψεν…
+
+[TRANSLATION]
+1     
+2     
+3     

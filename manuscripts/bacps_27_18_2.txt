@@ -1,0 +1,58 @@
+[META]
+id:       BACPS 27.18_2
+label:    BACPS 27.18_2
+name:     Documentary papyrus — Theadelphia (Arsinoites, Ägypten)
+genre:    documents
+date:     161 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites, Ägypten)
+held:     Cairo
+shelf:    
+content:  Documentary papyrus from Theadelphia (Arsinoites, Ägypten) (161 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       140666
+source:   https://papyri.info/ddbdp/bacps;27;18_2
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    [Ἁρπ]οκρατίωνι στ[ρατηγῷ] [Ἀρσινοίτου]
+r.2    [Θεμίστου καὶ Πολέμωνος μερίδων]
+r.3    [παρὰ Πανε]φρέμμεως
+r.4    [τοῦ Ἥρω]νος τοῦ Ἥρωνος μητρὸς
+r.5    Ταφ[εῦ]τος τῶν ἀπὸ τῆς κώμης
+r.6    Θεαδελφείας. ἀ[πο]γράφομαι ἐμαυτὸν
+r.7    εἰς [τ]ὴν τοῦ διεληλυθότος κγ ἔτους
+r.8    Θεοῦ Αἰλ[ίο]υ [Ἀντ]ωνίνου κατʼ οἰκίαν
+r.9    ἀπογ[ραφήν][. καὶ εἰμ]ι Πανε[φ]ρ[έ]μμις
+r.10   ὁ προγεγρ[αμμένος] ἐτῶν [ν]θ, καταγείν[ομαι]
+r.11   δὲ ἐν [συνοι]κίᾳ οὐσ[ια]κῇ
+r.12   ἐν κώ[μ]ῃ Ἀπιάδι τ[ῆ]ς αὐ[τῆς]
+r.13   μ[ερί]δ[ος. διὸ] ἐπιδίδωμι τὴν ἀπογρ[αφήν].
+r.14   ἔτους α [Αὐτ]οκράτορος Καίσαρος
+r.15   Μά[ρ]κου Αὐρ[ηλίου] Ἀντωνίν[ου]
+r.16   Σεβαστοῦ καὶ Α[ὐ]τοκρ[άτ]ορος
+r.17   [Κα]ί[σ]αρ[ο]ς Λουκίου Αὐρηλίου
+r.18   [Οὐή]ρου [Σεβασ]τοῦ. Μεσ[ο]ρ[ὴ α].
+
+[TRANSLATION]
+# HGV-EN: To Harpocration, strategos of Themistes and Polemon divisions of Arsinoite nome, from Panephremmis, son of Heron, grandson of Heron, his mother Tapheus, both from the village Theadelphia. I register myself for the house-by-house registration of the past 23rd year of the god Aelius Antoninus. And I am the aforementioned Panephremmis, 59 years old, have my residence in a tenement-house of an estate in the village Apias of the same division, therefore I present the declaration. The first year of the Imperator Caesar Marcus Aurelius Antoninus Augustus and the Imperator Caesar Lucius Aurelius Verus Augustus, the first (?) of Mesore.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

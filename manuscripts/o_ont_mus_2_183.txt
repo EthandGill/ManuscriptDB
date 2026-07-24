@@ -1,0 +1,32 @@
+[META]
+id:       O.ONT.MUS 2.183
+label:    O.ONT.MUS 2.183
+name:     Receipt — Theben
+genre:    receipts
+date:     139 CE – 160 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (139 CE – 160 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75202
+source:   https://papyri.info/ddbdp/o.ont.mus;2;183
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ … [ γενήματος ] … [ ἔτους]
+r.2    Ἀντωνίνου [τοῦ κυρίου]
+r.3    Παῦνι κε ὑπὲρ … [ ὀνόματος ] …
+r.4    μούθιος Ἀπελλ …
+r.5    Αἰλουρίωνος πυροῦ [δέκα]
+r.6    ἑπτὰ γίνονται πυροῦ ἀρτάβαι ιζ. Ὧρος σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

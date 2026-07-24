@@ -1,0 +1,30 @@
+[META]
+id:       O.NYU 14
+label:    O.NYU 14
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     2 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (2 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869412
+source:   https://papyri.info/ddbdp/o.nyu;;14
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λα Παχων ιδ
+r.2    τέλους ταριχευτ- τοῦ αὐτοῦ ἔτους Ἅρπηκις
+r.3    Σισόιτος δραχμὰς ἑπτὰ ὀβ[ο]λοὺς
+r.4    δύο, γίνονται ζ διώβολον. Πίσηχθις.
+
+[TRANSLATION]
+# HGV-EN: Year 31, Pachon 14, for tax on tarich(eut- ) of the same year, Harpekis son of Sisois, seven drachmas two obols, that is, 7 dr. 2 ob. Pise(chthis ?).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

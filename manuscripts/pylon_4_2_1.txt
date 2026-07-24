@@ -1,0 +1,40 @@
+[META]
+id:       PYLON 4.2_1
+label:    PYLON 4.2_1
+name:     Letter — Hermopolites ?
+genre:    letters
+date:     501 CE – 700 CE
+language: Greek (Koiné)
+found:    Hermopolites ?
+held:     Oxford
+shelf:    
+content:  Letter from Hermopolites ? (501 CE – 700 CE)
+# hgv-keywords: Brief — Geld — Rettichöl
+tm:       987697
+source:   https://papyri.info/ddbdp/pylon;4;2_1
+lat:      
+lon:      
+
+[GREEK]
+r.1    [ καθὼς καὶ κα]τὰ πρόσωπον παρεκάλεσα τὴνπάνσοφον καὶ περίβλεπτον
+r.2    … ἕνεκεν ὀλίγου ῥαφανελαίου δυσωπῶ τὴν ὑμετέραν
+r.3    … [φι]λίαν εἰ ἀβαρὲς αὐτῇ φαίνεται δύο νομισμάτια
+r.4    … καὶ ἐνεγκεῖν ἡμῖν μεθ᾿ ἑαυτῆς ἐπειδὴ κατὰ τὸ
+r.5    … αὐτῶν ἔχομεν· παρεκάλεσα δὲ τὴν κοσμιωτάτην
+r.6    [ἀδελφὴν τὴ]ν κυρὰν Ἀναστασίαν ἵνα γράψῃ ὑμῖν τούτου ἕνεκα
+r.7    … ηθεντα ἐγγὺς ὑμῶν ἕνεκεν Θεοδώρου τοῦ νοταρίου
+r.8    … [ἀ]δ[ελ]φῆς τῆς κυρᾶς Ἀναστασίας δ[έσπο]τα
+r.9    δεσπότῃ ἐμῷ τὰ πάντα σοφωτάτῳ γνησίῳ φίλῳ καὶ ἀδ[ε]λφῷ κυρίῳ Ἰω …
+
+[TRANSLATION]
+# HGV-EN: [As I also] asked [your?] all-wise and admirable [friendship?] in person on account of a little radish-oil, I beseech your [all-wise?] friendship (sc. now), if it seems not too much trouble for you, two solidi … to bring to us with you, since … we have [need?] of them. I have asked the most decent [sister] the lady Anastasia to write to you on account of this … near you on account of Theodoros the secretary … sister the lady Anastasia, master. To my master, in all things most learned genuine friend and brother, the lord Io[
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

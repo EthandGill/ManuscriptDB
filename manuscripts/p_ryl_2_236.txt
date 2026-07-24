@@ -1,0 +1,56 @@
+[META]
+id:       P.RYL 2.236
+label:    P.RYL 2.236
+name:     Letter — Arsinoites
+genre:    letters
+date:     256 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Letter from Arsinoites (256 CE)
+# hgv-keywords: Brief (privat) — Syrus an Heroninos
+tm:       12980
+source:   https://papyri.info/ddbdp/p.ryl;2;236
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Σύρος Ἡρωνείνῳ
+r.2    τῷ φιλτάτῳ χαίρειν.
+r.3    ἄλλην μίαν τετραονίαν ἀπόστειλον
+r.4    εἰς τὴν πόλιν ἀντὶ
+r.5    τοῦ Ἄκη εἰς ὑπηρεσίαν τῶν ὑπαγόντων βαδιστῶν
+r.6    καὶ ἵππων εἰς γράστιν· ἐχέτω δὲ
+r.7    τὰ παλαιότερα μανδάκια. ἀνερχόμενα δὲ ξύλα ἀνακομισάτω εἰς τὴν
+r.8    οἰκίαν τοῦ εὐσχήμονος παραδοθησόμενα Ζωσίμῳ
+r.9    ἐπικτηνίτῃ.
+r.10   ἐρρῶσθαί
+r.11   σε εὔχομαι, φίλτατε.
+r.12   γ ἔτους Τῦβι ιε.
+r.13   ποίησον δὲ ἐξαυτῆς
+r.14   ὤμους δύο ἐλαιουργικοὺς κοπῆναι ἵνα
+r.15   χωρήσωσιν εἰς τὸ
+r.16   ἐλαιουργῖον Ἀμμωνίου
+r.17   ἐλαιουργοῦ ἐν τῇ Ναρμούθι.
+
+[TRANSLATION]
+# HGV-EN: ‘Syrus to his dearest Heroninus, greeting. Send another team of four donkeys to the city in place of Akes to carry fodder for the riding donkeys and horses coming up; let them have the older bundles. And when they come, let them bring up timber to the magistrate’s house to be handed over to Zosimus the driver. I pray for your health, dearest friend. The 3rd year, Tubi 15. Have two beams (?) cut at once for oil-presses so that they may go to the press of Ammonius, oil-maker at Narmouthis.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

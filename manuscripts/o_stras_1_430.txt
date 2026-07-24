@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.430
+label:    O.STRAS 1.430
+name:     Receipt — Theben
+genre:    receipts
+date:     211 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (211 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       76018
+source:   https://papyri.info/ddbdp/o.stras;1;430
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    παρεκομίσθη εἰς τὴν
+r.2    χώρτην ὑπὲρ γενήματος ιθ ἔτους ὀνόματος
+r.3    Ψεντφοῦτος Ψάιτος Ὀννώφριος
+r.4    ἀχύρου γόμου τέταρτον γίνεται γόμου δ.
+r.5    ἔτους κ Φαῶφι λ. Πικῶς σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

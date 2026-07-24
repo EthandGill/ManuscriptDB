@@ -1,0 +1,30 @@
+[META]
+id:       O.DID 10
+label:    O.DID 10
+name:     Documentary papyrus — Didymoi
+genre:    documents
+date:     88 CE – 96 CE
+language: Greek (Koiné)
+found:    Didymoi
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Didymoi (88 CE – 96 CE)
+# hgv-keywords: Auftrag — Lieferung — Spreu — Futter für Kälber — dekania
+tm:       144577
+source:   https://papyri.info/ddbdp/o.did;;10
+lat:      25.7543330528
+lon:      33.3947791619
+
+[GREEK]
+r.1    Ἰσίδωρος Δρο …
+r.2    δὸς δεκανίας Πετεήσιος Π …
+r.3    εἰς τροφὴν μοσχαρίων ἀχύρου
+r.4    γόμον ἥμισυ γίνεται γόμον 𐅵.
+r.5    Χοιακ ϛ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

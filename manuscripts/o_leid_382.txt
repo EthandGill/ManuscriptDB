@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 382
+label:    O.LEID 382
+name:     Receipt — unbekannt
+genre:    receipts
+date:     85 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Receipt from unbekannt (85 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24834
+source:   https://papyri.info/ddbdp/o.leid;;382
+lat:      
+lon:      
+
+[GREEK]
+r.1    διαγέγραφε Ταουῆς Ἡρακλείδου
+r.2    ὑπὲρ τιμῆς πυροῦ ὁμολόγου νομ δραχμὴν α ὀβολοὺς γ 𐅵
+r.3    ἔτους ε Δομιτιανοῦ τοῦ κυρίου
+r.4    Ἁθὺρ κγ. Α σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: (Translation from: O. Leiden 382) Taoues daughter of Herakleides has paid for the price of wheat ... 1 dr. 3 ½ ob. 5th year of Domitian the lord, Hathyr 23. I, A( ), have signed
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

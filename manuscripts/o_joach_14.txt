@@ -1,0 +1,26 @@
+[META]
+id:       O.JOACH 14
+label:    O.JOACH 14
+name:     Documentary papyrus — Omboi
+genre:    documents
+date:     65 BCE
+language: Greek (Koiné)
+found:    Omboi
+held:     
+shelf:    
+content:  Documentary papyrus from Omboi (65 BCE)
+# hgv-keywords: Bestattung — Mumien (Ibis und Falken)
+tm:       5670
+source:   https://papyri.info/ddbdp/o.joach;;14
+lat:      24.452146834
+lon:      32.9284129896
+
+[GREEK]
+r.1    ἔτους ιϛ, Μεσορὴ ιη. Καλλίας Ἑρμίου,
+r.2    Κόμανος Καλλίου. τῆς ταφῆς.
+r.3    Πελαίας.
+
+[TRANSLATION]
+1     
+2     
+3     

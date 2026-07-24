@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.351
+label:    O.STRAS 1.351
+name:     Receipt — Theben
+genre:    receipts
+date:     126 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (126 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75939
+source:   https://papyri.info/ddbdp/o.stras;1;351
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηνται εἰς θησαυρὸν κωμῶν γενήματος ι ἔτους
+r.2    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.3    Μεσορὴ ζ ὀνόματος Προύβιος
+r.4    Μεσουήριος ὑπὲρ Κεραμείων
+r.5    πυροῦ μίαν ἥμισυ δ
+r.6    γίνεται πυροῦ α 𐅵 δ. Φ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

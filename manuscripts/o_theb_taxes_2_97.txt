@@ -1,0 +1,24 @@
+[META]
+id:       O.THEB.TAXES 2.97
+label:    O.THEB.TAXES 2.97
+name:     Receipt — Theben
+genre:    receipts
+date:     226 BCE – 225 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (226 BCE – 225 BCE)
+# hgv-keywords: Quittung — Arbeit — Deich — Naubien
+tm:       50787
+source:   https://papyri.info/ddbdp/o.theb.taxes;2;97
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κβ ἀπείργασται
+r.2    εἰς τὸ διάκομμα ναύβια λ Ἑρμόφιλος.
+
+[TRANSLATION]
+1     
+2     

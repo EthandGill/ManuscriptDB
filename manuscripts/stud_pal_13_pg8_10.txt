@@ -1,0 +1,26 @@
+[META]
+id:       STUD.PAL 13.pg8_10
+label:    STUD.PAL 13.pg8_10
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     100 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (100 CE)
+# hgv-keywords: Quittung — Steuern — Geld — Juden
+tm:       23271
+source:   https://papyri.info/ddbdp/stud.pal;13;pg8_10
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Μαριαμὸς Σίμωνος
+r.2    Ἰουδαίων τελέσματος γ ἔτους Τραιανοῦ τοῦ κυρίου δραχμὰς δ τετρώβολον.
+r.3    ἔτους δ Θὼθ λ.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,32 @@
+[META]
+id:       P.Oxy. 1.65
+label:    P.Oxy. 1.65
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     201 CE – 325 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (201 CE – 325 CE)
+# hgv-keywords: Befehl (Haft)
+tm:       31340
+source:   https://papyri.info/ddbdp/p.oxy;1;65
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    παρὰ τοῦ στατίζοντος βενεφικιαρίου
+r.2    κωμάρχαις κώμης Τερύθεως. παράδοτε τῷ ἀποσταλέντι ὑπηρέτ[ῃ]
+r.3    Παχοῦμιν Παχούμιος ὃν κατεσχήκατε σήμερον καὶ κατηνέγ κατε ἐν τῇ κώμῃ
+r.4    ὑμῶν πολίτην ὄντα. εἰ δὲ ἔχετε εὐλογίαν τινὰ πρὸς αὐτὸν
+r.5    ἀνέρχεσθε ἅμα αὐτῷ καὶ λέγετε. ἀλλʼ ὅρα μὴ κατάσχητε τὸν ὑπηρέτη[ν]. σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: From the beneficiarius on duty to the comarchs of the village of Teruthis. Deliver up to my officer whom I have sent Pachoumis, son of Pachoumis, whom you have arrested today and brought to your village, being a citizen. If you have anything to say in his favour, come with him and tell me. See that you do not detain the officer. Signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

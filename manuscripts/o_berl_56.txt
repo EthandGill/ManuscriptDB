@@ -1,0 +1,28 @@
+[META]
+id:       O.BERL 56
+label:    O.BERL 56
+name:     Receipt — Theben
+genre:    receipts
+date:     142 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (142 CE)
+# hgv-keywords: Quittung — Pachtzins
+tm:       24453
+source:   https://papyri.info/ddbdp/o.berl;;56
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν μητροπόλεως γενήματος ε ἔτους
+r.2    Ἀντωνίνου Καίσαρος τοῦ κυρίου Παῦνι
+r.3    ιγ ὀνόματος Πετεμενώφιος Φθουμώνθου
+r.4    ὑπὲρ Κεραμείων πυροῦ ἀρτάβη μία, γίνεται πυροῦ ἀρτάβη α Νικίας … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

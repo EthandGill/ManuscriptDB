@@ -1,0 +1,34 @@
+[META]
+id:       P.PETR.KLEON 47
+label:    P.PETR.KLEON 47
+name:     Letter — Fundort: Gurob; Schreibort: Arsinoites
+genre:    letters
+date:     260 BCE – 236 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Letter from Fundort: Gurob; Schreibort: Arsinoites (260 BCE – 236 BCE)
+# hgv-keywords: Brief — Bewässerung — Seile
+tm:       388481
+source:   https://papyri.info/ddbdp/p.petr.kleon;;47
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    … [ὑ]παχθήτωσ[α]ν οὖν αὐτοί τε καὶ οἱ ἔγγυοι [αὐτῶν ] …
+r.2    … ες Γφ … οιθήτωσαν Βφ χωρὶς ω …
+r.3    … ωι καταπῆγας Βφ. γράφει δὲ καὶ τῶν δε …
+r.4    … ν … α … μεθα δὲ εἰς τ περὶ δὲ τῶν …
+r.5    … ι καὶ περὶ τῶν Γ σχοινίων ἀποσταλήτωσαν Αφ …
+r.6    ἔρρωσο. ἔτους … Ἐπεὶφ ιϛ.
+
+[TRANSLATION]
+# HGV-EN: [---] so they themselves and their sureties are to be put on trial [---] 3,500 [---] 2,500 except for [---] piles: 2,500. He also writes [---] and about the 3,000 ropes, let 1,500 be sent [—]. Farewell. Year [..] Epeiph 16.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

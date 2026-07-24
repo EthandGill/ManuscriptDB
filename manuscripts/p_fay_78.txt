@@ -1,0 +1,38 @@
+[META]
+id:       P.Fay. 78
+label:    P.Fay. 78
+name:     Receipt — Theadelphia (Arsinoites)
+genre:    receipts
+date:     147 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Theadelphia (Arsinoites) (147 CE)
+# hgv-keywords: Quittung — Penthemeros
+tm:       10921
+source:   https://papyri.info/ddbdp/p.fay;;78
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ἔτους δεκάτου Αὐτοκράτορος
+r.2    Καίσαρος Τίτου Αἰλίου Ἁδριανοῦ
+r.3    Ἀντωνίνου Σεβαστοῦ Εὐσεβοῦς.
+r.4    εἴργασται εἰς χωματικὰ ἔργα τοῦ αὐτοῦ ι ἔτους
+r.5    ἐφʼ ἡμέρας δύο ἀκολούθως τοῖς κελευσθεῖσι
+r.6    Μεσορὴ ζ καὶ η ἐν τῇ Ψιναλείτιδος διώρυγι Θεα[δε]λφείας
+r.7    Δεῖος Ἡρακλείδου [τοῦ] Λύκου μητρὸς Τασωούκεως.
+r.8    Πρέτις σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: The tenth year of the Emperor Caesar Titus Aelius Hadrianus Antoninus Augustus Pius. Work has been done for the embankment works of the same tenth year for two days in accordance with the command on Mesore 7 and 8 at the Psinali...dyke at Theadelphia by Dius, son of Heraclides, son of Lycus, his mother being Tasooukis. Signed by me, Pretis.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

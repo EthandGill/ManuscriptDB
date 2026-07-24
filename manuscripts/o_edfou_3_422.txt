@@ -1,0 +1,24 @@
+[META]
+id:       O.EDFOU 3.422
+label:    O.EDFOU 3.422
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     91 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (91 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74398
+source:   https://papyri.info/ddbdp/o.edfou;3;422
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [λαογραφίας ι ἔτους ][Δο]μιτιανοῦ
+r.2    δραχμὰς η ἔτους ι Φαμενὼθ ϛ
+
+[TRANSLATION]
+1     
+2     

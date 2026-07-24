@@ -1,0 +1,28 @@
+[META]
+id:       O.Wilck. 205
+label:    O.Wilck. 205
+name:     Receipt — Elephantine
+genre:    receipts
+date:     146 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (146 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76773
+source:   https://papyri.info/ddbdp/o.wilck;;205
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Παπρεμίθης πράκτωρ ἀργυρικῆς Ἐλεφαντίνης
+r.2    σὺν Βιήνχι. διέγραψεν Πατσίβις Πετορζμήθου μητρὸς Θινπελέας μερισμὸν
+r.3    θ ἔτους Ἀντωνίνου τοῦ κυρίου δραχμὰς
+r.4    πέντε ἡμιωβέλιον χαλκοῦς γ. ἔτους θ Παχὼν θ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

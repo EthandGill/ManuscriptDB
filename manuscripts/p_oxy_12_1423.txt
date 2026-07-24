@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 12.1423
+label:    P.Oxy. 12.1423
+name:     Documentary papyrus — Oxyrhynchites (?)
+genre:    documents
+date:     326 CE – 375 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (?) (326 CE – 375 CE)
+# hgv-keywords: Ermächtigung — Vollmacht — Befehl — Verhaftung eines Sklaven wegen Flucht und Diebstahl
+tm:       33645
+source:   https://papyri.info/ddbdp/p.oxy;12;1423
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Φλαού[ιος] Ἀμμωνᾶς ὀφφικιάλιος
+r.2    τά[ξ]εως ἐπάρχου Αἰγύπτου
+r.3    Φλαουίῳ Δωροθέῳ ὀφφικιαλίῳ
+r.4    χαίρειν. ἐντέλλομαί σοι
+r.5    καὶ ἐπιτρέπω δοῦλόν μου
+r.6    Μάγνον κ[α]λούμενον δράσαντα καὶ ἐν Ἑρμοῦ πόλει διατρίβοντα
+r.7    καί τινά μου εἴδη ἀφελόμενον
+r.8    δι[α]δήσαντι δέσμιον ἀγαγεῖν
+r.9    με[τ]ὰ τοῦ ἐπὶ τῆς Σέσφθα.
+r.10   κυρία ἡ ἐντολὴ καὶ ἐπερωτηθεὶς
+r.11   ὡμολόγησα. Φλαούιος Ἀμμωνᾶς ὀφφικιάλιος τάξεως
+r.12   ἐπάρχου Αἰγύπτου πεποίημαι
+r.13   τήνδε τὴ[ν ἐν]τολήν.
+
+[TRANSLATION]
+# HGV-EN: Flavius Ammonas, officialis on the staff of the praefect of Egypt, to Flavius Dorotheus, officialis, greeting. I order and depute you to arrest my slave called Magnus, who has run away and is staying at Hermopolis and has carried off certain articles belonging to me, and to bring him as a prisoner together with the head-man of Sesphtha. This order is valid, and in answer to the formal question I gave my consent, I, Flavius Ammonas, officialis on the staff of the praefect of Egypt, have made this order.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

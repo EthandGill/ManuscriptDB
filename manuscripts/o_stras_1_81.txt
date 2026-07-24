@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.81
+label:    O.STRAS 1.81
+name:     Receipt — Theben
+genre:    receipts
+date:     57 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (57 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75681
+source:   https://papyri.info/ddbdp/o.stras;1;81
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Ἀμμώνιος Πετεμενώφιος
+r.2    ὑπὲρ λαογραφίας γ ἔτους δραχμὰς δέκα , βαλανείου α ὀβολὸν α 𐅵 γίνονται δραχμαὶ ια ὀβολὸς α 𐅵
+r.3    … . ἔτους γ Νέρωνος Κλαυδίου Καίσαρος
+r.4    Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+r.5    Φαμενὼθ λ γ. Βλας …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

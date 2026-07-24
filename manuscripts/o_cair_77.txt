@@ -1,0 +1,36 @@
+[META]
+id:       O.CAIR 77
+label:    O.CAIR 77
+name:     Receipt — Elephantine
+genre:    receipts
+date:     147 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (147 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       73423
+source:   https://papyri.info/ddbdp/o.cair;;77
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Ἑρμογένης καὶ Γερμανὸς καὶ Ἱέραξ
+r.2    καὶ Παπρεμείθης οἱ δ πράκτορες ἀργυρικῶν
+r.3    Ἐλεφαντίνης. διέγραψεν Ζμενπῶς Πετορζμήθεως
+r.4    μητρὸς Τισᾶτις ὑπὲρ μερισμοῦ ι ἔτους Ἀντωνίνου
+r.5    Καίσαρος τοῦ κυρίου ῥυπαρὰς δραχμὰς δ.
+r.6    Τῦβι ιε.
+r.7    Ἑρμογένης
+r.8    σεσημείωμαι δραχμὰς δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

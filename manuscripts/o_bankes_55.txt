@@ -1,0 +1,28 @@
+[META]
+id:       O.BANKES 55
+label:    O.BANKES 55
+name:     Receipt — Elephantine
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (101 CE – 200 CE)
+# hgv-keywords: Quittung (Gerste)
+tm:       699528
+source:   https://papyri.info/ddbdp/o.bankes;;55
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    … [κλ]ηρονομ …
+r.2    … πραγματ …
+r.3    … τον καὶ κριθῆς ἕκτον ἀρτάβ … [τεσσα]ρακαιεικοστόν.
+r.4    ἔτους ζ, Θὼθ δ Ἰσίδωρος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

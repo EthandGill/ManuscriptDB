@@ -1,0 +1,26 @@
+[META]
+id:       O.HEID 250
+label:    O.HEID 250
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     186 CE – 187 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (186 CE – 187 CE)
+# hgv-keywords: Quittung — Steuer (Landvermessungssteuer, geometria)
+tm:       80468
+source:   https://papyri.info/ddbdp/o.heid;;250
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [] τοῦ κζ ἔτους ὀν[όματος] …
+r.2    … ρταμ … δ ὑπὲρ γ[εωμ]ετρίας []
+r.3    δραχμὴν μίαν διώβολον, γίνεται δραχμὴ α διώβολον. [].
+
+[TRANSLATION]
+1     
+2     
+3     

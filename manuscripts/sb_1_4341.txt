@@ -1,0 +1,30 @@
+[META]
+id:       SB 1.4341
+label:    SB 1.4341
+name:     Receipt — Theben
+genre:    receipts
+date:     120 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (120 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       5613
+source:   https://papyri.info/ddbdp/sb;1;4341
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ν, Ἐπεὶφ … . τέτακται
+r.2    ἐπὶ τὴν ἐν Κροκοδίλων πόλει τράπεζαν, ἐ[φʼ ἧς ] …
+r.3    … Σενεψεν …
+r.4    τετρακοσίας π …
+r.5    α …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

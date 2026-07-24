@@ -1,0 +1,22 @@
+[META]
+id:       P.BROOKL 90
+label:    P.BROOKL 90
+name:     Documentary papyrus — Memphis
+genre:    documents
+date:     108 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Documentary papyrus from Memphis (108 BCE)
+# hgv-keywords: Vermerk (Registrierung)
+tm:       45998
+source:   https://papyri.info/ddbdp/p.brookl;;90
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    ἔτους θ Τ[ῦβι λ, ἀναγέγραπται ἐν τ]ῶι [Ἀ]νουβιείωι [διʼ Ἡρα]κλεί[δου]
+
+[TRANSLATION]
+1     

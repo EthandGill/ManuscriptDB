@@ -1,0 +1,26 @@
+[META]
+id:       P.EIRENE 3.22
+label:    P.EIRENE 3.22
+name:     Receipt — Arsinoites (?)
+genre:    receipts
+date:     135 CE
+language: Greek (Koiné)
+found:    Arsinoites (?)
+held:     
+shelf:    
+content:  Receipt from Arsinoites (?) (135 CE)
+# hgv-keywords: Quittung (?) — Steuer (?) — Geld — Fragment
+tm:       128663
+source:   https://papyri.info/ddbdp/p.eirene;3;22
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [δραχμὰς] [ὀκ]τὼ [δραχμαὶ] η ἔτους ιθ
+r.2    Αὐτοκράτορος Καίσαρος Τραιανοῦ
+r.3    Ἁδριανοῦ Σεβαστοῦ Μεχεὶρ κθ.
+
+[TRANSLATION]
+1     
+2     
+3     

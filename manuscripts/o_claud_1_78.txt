@@ -1,0 +1,28 @@
+[META]
+id:       O.CLAUD 1.78
+label:    O.CLAUD 1.78
+name:     Documentary papyrus — Mons Claudianus
+genre:    documents
+date:     98 CE – 117 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Mons Claudianus (98 CE – 117 CE)
+# hgv-keywords: Passierschein
+tm:       24090
+source:   https://papyri.info/ddbdp/o.claud;1;78
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Λικίνιος Πρό[κλος ἑκατοντάρχης]
+r.2    Ἀπολλιναρίῳ [κουράτορι Ῥαιμα χαίρειν]
+r.3    πάρες Σαραπι …
+r.4    … απιωνα …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

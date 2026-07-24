@@ -1,0 +1,52 @@
+[META]
+id:       PYLON 8.4
+label:    PYLON 8.4
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     Heidelberg
+shelf:    
+content:  Documentary papyrus from Arsinoites (301 CE – 400 CE)
+# hgv-keywords: Liste — Namen — tesserarius
+tm:       1000280
+source:   https://papyri.info/ddbdp/pylon;8;4
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … ιβ …
+r.2    … θ
+r.3    … Φιλοξ
+r.4    … Ἡρακλ …
+r.5    Γερμανὸς Παῶτος …
+r.6    Πᾶσις Ἀμαει διὰ Ἰανου[αρίου] …
+r.7    Διόσκορος καὶ Ὡρίων …
+r.8    Φιλόξενος Διοσκόρου …
+r.9    γίνονται λίτραι … [οὐγκίαι] … γράμματα ια …
+r.10   Φαρβαίθων
+r.11   Ἀπία καὶ Σαραπίων …
+r.12   Κοπρῆς τεσσεράριος …
+r.13   Αὐνίων Σαραπίωνος …
+r.14   … γράμματα … καί …
+r.15   Kαστορ …
+
+[TRANSLATION]
+# HGV-EN: […] son of Herakl[…] | Germanos, son of Paos […] | Pasis, son of Amaeis, through Ianuar[ius?… ], | Dioskoros and Horion […] | Philoxenos, son of Disokoros […]. | […] total: [x] pounds, [x ounces], 11 grams […] | (The village of) Pharbaithos […] | Apia and Sarapion […] | Copres, tesserarius […] | Aunion, son of Sarapion […] | […] | (son of) Kastor/Kastorion […].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

@@ -1,0 +1,36 @@
+[META]
+id:       BGU 2.386
+label:    BGU 2.386
+name:     Receipt — Arsinoites (?)
+genre:    receipts
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Arsinoites (?)
+held:     
+shelf:    
+content:  Receipt from Arsinoites (?) (101 CE – 300 CE)
+# hgv-keywords: Quittungen — Geld
+tm:       28134
+source:   https://papyri.info/ddbdp/bgu;2;386
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔ[τους ] … [. ] … [δι]έγραψε Λογγῖνα
+r.2    … [ δραχμὰς ὀκ]τὼ, δραχμαὶ η. ὁμοίως ἄλλ[ας]
+r.3    δρ[αχμὰς ] … [ γίνονται δραχμαὶ ] … Τῦβι ϛ
+r.4    δρ[αχμὰς ] … [ γίνονται δραχμαὶ ] … [ Με]χεὶρ β ἀλλ[ας δρα]χμ[ὰς ] … [ γίνονται δραχμαὶ ] … καὶ διʼ ἐμοῦ …
+r.5    Διοσκορ … [ Φ]αμενὼθ γ ἄλλας
+r.6    δραχμὰς [τ]έ[σσ]αρες γίνονται δραχμαὶ δ. ὁμοίως
+r.7    ἄλλας δραχμὰς τέσσαρες γίνονται δραχμαὶ δ.
+
+[TRANSLATION]
+# HGV-EN: Year [x – – –]. Longina paid eight [drachmas], = 8 drachmas; likewise a further [x] drachmas [, = x drachmas]; Tybi 6 [x drachmas, = x drachmas; Me]cheir 2 a further [x] drachmas [, = x drachmas]; and through me Disokor, Ph]amenoth 3 a further four drachmas, = 4 drachmas; likewise a further four drachmas, = 4 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

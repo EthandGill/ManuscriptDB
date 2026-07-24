@@ -1,0 +1,28 @@
+[META]
+id:       P.Oxy. 75.5059
+label:    P.Oxy. 75.5059
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     247 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (247 CE)
+# hgv-keywords: Auftrag — Sarapion alias Dionysios an Heraklas (Pächter) — Ablieferung von Weizen an den Dekaproten Ammonaros
+tm:       128900
+source:   https://papyri.info/ddbdp/p.oxy;75;5059
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἡρακλᾷ γεωργῷ παρὰ Σαραπίωνος τοῦ καὶ Διονυσίου. παράδος Ἀμμωνάρῳ δεκαπρώτῳ πυροῦ γενήματος
+r.2    τοῦ δ ἃς ὀφείλεις μοι ἀρτάβας κδ μέτρῳ Ἀσκλᾶ
+r.3    σὺν τοῖς ἑπομένοις. ἔτους ε, Θὼθ δ.
+
+[TRANSLATION]
+# HGV-EN: To Heraclas, farmer, from Sarapion alias Dionysius. Deliver to Ammonarus, dekaprotos, from the wheat crop of the fourth year, the 24 artabas that you owe me, (measured) by the measure of Asclas, with the accompaniments. Year 5, Thoth 4. (N. Litinas)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

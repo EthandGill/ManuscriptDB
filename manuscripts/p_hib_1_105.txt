@@ -1,0 +1,26 @@
+[META]
+id:       P.HIB 1.105
+label:    P.HIB 1.105
+name:     Receipt — Herakleopolites (?)
+genre:    receipts
+date:     228 BCE
+language: Greek (Koiné)
+found:    Herakleopolites (?)
+held:     
+shelf:    
+content:  Receipt from Herakleopolites (?) (228 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       8238
+source:   https://papyri.info/ddbdp/p.hib;1;105
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    ἔτους ιθ Παῦνι κη. ὁμολογεῖ Θεόδωρος μεμετρῆσθαι παρὰ
+r.2    Ἑρκάμιος τοῦ Χ … ριου ἰλάρχου τῶν
+r.3    Ζωίλου τὸ γινόμενον φυλακιτικὸν τοῦ ἰδίου κλήρου πυρῶν δύο .
+
+[TRANSLATION]
+1     
+2     
+3     

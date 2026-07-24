@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1005
+label:    O.BODL 2.1005
+name:     Receipt — Elephantine
+genre:    receipts
+date:     165 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (165 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71693
+source:   https://papyri.info/ddbdp/o.bodl;2;1005
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Πετρῶνις Βα[ραχίου][ καὶ ] … [ πράκτορες]
+r.2    ἀργυρικῶν Ἐλεφαντίνης. διέ[γραψεν ] …
+r.3    ὑπὲρ τιμῆς δημοσίου [φοίνικος γενήματος ] … [ ἔτους]
+r.4    ἐπὶ λόγου δραχμὰς …
+r.5    Ἁθὺρ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

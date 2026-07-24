@@ -1,0 +1,28 @@
+[META]
+id:       O.HEID 150
+label:    O.HEID 150
+name:     Receipt — Theben (Notos?)
+genre:    receipts
+date:     41 CE
+language: Greek (Koiné)
+found:    Theben (Notos?)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos?) (41 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer
+tm:       80373
+source:   https://papyri.info/ddbdp/o.heid;;150
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [διαγ]έγραφεν Παμώνθης Καρούριος
+r.2    ὑπὲρ λαογραφίας α ἔτους Ν …
+r.3    ἔτους α Τιβερίου Κλαυδίου [Καίσαρος] Σεβα[στοῦ]
+r.4    [Γερμαν]ι κοῦ Αὐτοκρά[τορος ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

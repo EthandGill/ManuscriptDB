@@ -1,0 +1,24 @@
+[META]
+id:       P.BAGNALL 3
+label:    P.BAGNALL 3
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     239 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Durham (NC)
+shelf:    
+content:  Petition from Oxyrhynchos (239 CE)
+# hgv-keywords: Eingabe (Aurelius Dionysius an den Präfekten) — Antrag auf Anerkennung einer Erbschaft (agnitio bonorum possessionis) — Erbe der ohne Testament verstorbenen Mutter
+tm:       70139
+source:   https://papyri.info/ddbdp/p.bagnall;;3
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … eta … cο …
+
+[TRANSLATION]
+# HGV-EN: To NN, prefect of Egypt, from Aurelius Dionysius, also known as Pausanias, ward of [NN -]usanus, also known as Artemidorus son of Didymus, from the city of the Oxyrhynchites. [I ask, lord, that you grant me] possession of the property of Aurelia As[k]latarion, also known as Athen- [daughter of NN and NN] also known as Sinthonis of Antinoe, my mother who has died intestate, [according to the part of the edict whereby] you promise to grant (it) to legitimate heirs. Given on [(date)].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     

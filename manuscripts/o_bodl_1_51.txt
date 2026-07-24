@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 1.51
+label:    O.BODL 1.51
+name:     Receipt — Diospolis Magna (Theben)
+genre:    receipts
+date:     157 BCE
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     
+shelf:    
+content:  Receipt from Diospolis Magna (Theben) (157 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       44248
+source:   https://papyri.info/ddbdp/o.bodl;1;51
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    ἔτους κδ Παῦνι
+r.2    κθ τέτακται ἐπὶ τὴν
+r.3    ἐν Διὸς πόλει τῆι μεγάληι τράπεζαν
+r.4    ἐφʼ ἧς Πτολεμαῖος
+r.5    ζυτηρᾶς κδ ἔτους
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

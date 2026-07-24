@@ -1,0 +1,26 @@
+[META]
+id:       SB 1.4336
+label:    SB 1.4336
+name:     Receipt — Theben
+genre:    receipts
+date:     89 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (89 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23096
+source:   https://papyri.info/ddbdp/sb;1;4336
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … μούνιος ὑπὲρ χωματικοῦ η …
+r.2    [κα]ὶ προσδιαγραφόμενα. ἔτους η Δομιτιανοῦ,
+r.3    [Ἐ]πεὶφ λ ε … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

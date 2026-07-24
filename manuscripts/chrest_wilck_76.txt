@@ -1,0 +1,46 @@
+[META]
+id:       CHREST.WILCK 76
+label:    CHREST.WILCK 76
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     171 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (171 CE)
+# hgv-keywords: Kopie eines Antrags auf Beschneidung des Sohnes eines Priesters
+tm:       9069
+source:   https://papyri.info/ddbdp/chrest.wilck;;76
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἐξ ὑπομνηματισμ[ῶν] Οὐλπίου [Σε]ρη[ν]ιανοῦ τοῦ κρατίστου ἀρχιερέως. ἔτους ια Αὐρηλίου Ἀντωνείνου
+r.2    Καίσαρος τοῦ κυρίου Τῦβ[ι] κη. ἐν Μέμφει. ἠσπάσατο
+r.3    τὸν λαμπρότατον ἡγ[ε]μόνα καὶ μετὰ τα[ῦτ]α πρὸς τῷ
+r.4    Ἀπείῳ Πανεφρέμμει [Σ]τοτοήτιος ἀνθʼ οὗ Σαταβοῦτος π[ρεσ]βυτέρο[υ] ἱε[ρέ]ως πρ[ο]σαγαγόντ[ος] υἱὸν
+r.5    [ἑαυτ]οῦ Πανεφρέμμ[ι]ν κα[ὶ ἀξι]ώσαντος ἐπιτραπῆναι περιτεμεῖν αὐτὸν ἀ[ν]αδόντ[ο]ς [τ]ε τὴν περὶ αὐτ[ο]ῦ γραφεῖσαν ἐπι[στο]λὴν ὑ[πὸ Σα]ραπί[ωνο]ς στρατηγοῦ
+r.6    Ἀρσ[ι]νοείτου Ἡρακ[λεί]δο[υ μερί]δος δ[ι]ὰ Ἀλεξάνδρου
+r.7    γυμνασιαρχή[σαντο]ς, [κ]εχ[ρ]ονι[σ]μένην [ε]ἰς τὸ διεληλυθὸς ι ἔτος Φαῶφι ϛ Σερηνια[νὸς] ἐπύθετο
+r.8    τῶν παρόν[τ]ων κορυφα[ί]ων καὶ ὑ[ποκορυ]φαίων καὶ
+r.9    ἱερογραμματέων, εἰ [σ]ημ[εῖο]ν ἔχοι ὁ [παῖ]ς. εἰπόντων
+r.10   ἄσημον αὐτὸν εἶναι [Οὔλπιος] Σερην[ι]α[νὸ]ς ἀρχιερεὺς
+r.11   καὶ ἐπὶ τῶν ἱερῶν [σημειωσά]μενος τὴν ἐπιστ[ο]λὴν
+r.12   ἐκέλευσεν τὸν παῖ[δα περιτ]μηθῆναι [κατὰ] τὸ ἔθος. ἀνέγνων.
+
+[TRANSLATION]
+# HGV-EN: From the minutes of Ulpius Serenianus, vir egregius, high-priest. Year 11 of Aurelius Antoninus Caesar, the lord, Tyb[i] 28. In Memphis. He saluted the prefect, vir clarissimus, and after that, as he held audience at the temple of Apis Panephremmis, son of Stotoetis also called Satabous, elder priest, having presented his own son Panephremmis and having requested that permission be given to circumcise him and having submitted a letter written concerning him by [Sa]rapion, strategos of the Arsinoite nome, Herakleides division, through Alexandros, ex-gymnasiarch, dated to the past year 10 Phaophi 6, Serenia[nus] enquired of the coryphaei and sub-coryphaei and keepers of the sacred records who were present, whether the boy had any blemish. Upon their saying that he was without a blemish [Ulpius] Seren[i]a[nu]s, high-priest and minister for the temple administration, by appending his signature to the letter gave permission for the boy to be circumcised in accordance with custom. I have read this.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

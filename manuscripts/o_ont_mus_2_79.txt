@@ -1,0 +1,32 @@
+[META]
+id:       O.ONT.MUS 2.79
+label:    O.ONT.MUS 2.79
+name:     Receipt — Theben
+genre:    receipts
+date:     42 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (42 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75096
+source:   https://papyri.info/ddbdp/o.ont.mus;2;79
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Ἀμενώθης …
+r.2    [ὑ]πὲρ χωματικοῦ β ἔτους δραχμὰς ἓξ τετρώβολον , βαλανευτικοῦ …
+r.3    ἔτους β Τιβερίου Κλαυδίου
+r.4    Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.5    Αὐτοκράτορος μηνὸς Καισαρείου
+r.6    κγ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

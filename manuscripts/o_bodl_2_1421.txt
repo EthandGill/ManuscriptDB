@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1421
+label:    O.BODL 2.1421
+name:     Receipt — Theben
+genre:    receipts
+date:     151 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (151 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       72103
+source:   https://papyri.info/ddbdp/o.bodl;2;1421
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ιδ ἔτους Ἀντωνίνου Καίσαρος
+r.2    τοῦ [κ]υρίου Θὼθ κζ τοῦ ιε ἔτους ὑπὲρ Νότου ὀνόματος
+r.3    Φθουμώνθου Πεχοίτου ὑπὲρ Ἁρυώθου πυροῦ ἀρτάβης ὄγδοον
+r.4    γίνεται πυροῦ ἀρτάβης η. Ζήνων γραμματεὺς διὰ Φίλωνος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

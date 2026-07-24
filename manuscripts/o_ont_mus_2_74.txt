@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.74
+label:    O.ONT.MUS 2.74
+name:     Receipt — Theben
+genre:    receipts
+date:     400 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (400 BCE – 1 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       75091
+source:   https://papyri.info/ddbdp/o.ont.mus;2;74
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πτολεμαῖος Ἀγγαίωι
+r.2    χαίρειν· τέταξαι νομὴν
+r.3    καὶ ἐννόμιον τοῦ κϛ ἔτους
+r.4    κτηνῶν γ γίνονται γ. τέτακται τέλος
+r.5    ἔτους κϛ Φαρμοῦθι δ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.777
+label:    O.BODL 2.777
+name:     Receipt — Theben
+genre:    receipts
+date:     150 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (150 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71466
+source:   https://papyri.info/ddbdp/o.bodl;2;777
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θοτεῦς ἀπαιτητὴς μερισμοῦ ἐνλείμματος τελωνικῶν Χάρακος
+r.2    Πατώτῃ Ἰναρῶτος. ἔσχον
+r.3    [ὑπὲρ ][μ]ερισμοῦ ιβ ἔτους ὀβολοὺς 3. ἔτους ιγ Ἀντωνίνου
+r.4    [Καίσαρο]ς τοῦ κυρίου Μεσορὴ κδ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 74.5005
+label:    P.Oxy. 74.5005
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     201 CE – 400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (201 CE – 400 CE)
+# hgv-keywords: Befehl — decurio an die Phylakes und Demosioi — zu erscheinen
+tm:       128311
+source:   https://papyri.info/ddbdp/p.oxy;74;5005
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    παρὰ τοῦ δεκαδάρχου.
+r.2    ἐξαυτῆς ἥκετε ἅμα τῷ πεμφθέντι ὑπ’ ἐμοῦ στρατιώτῃ.
+r.3    φ[ύ]λαξι καὶ δημοσίοις
+r.4    Τ …
+
+[TRANSLATION]
+# HGV-EN: From the decurio. Immediately come with the soldier sent by me. To the guards and demosioi of T—. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

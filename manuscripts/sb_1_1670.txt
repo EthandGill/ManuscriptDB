@@ -1,0 +1,26 @@
+[META]
+id:       SB 1.1670
+label:    SB 1.1670
+name:     Receipt — Theben
+genre:    receipts
+date:     189 CE – 190 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (189 CE – 190 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       23063
+source:   https://papyri.info/ddbdp/sb;1;1670
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    χειμερινοῦ πυροῦ Φατρῆς Πετεχώνσιος
+r.2    … λ ἔτους Σεναπολλῶς
+r.3    … πυροῦ γ λβ.
+
+[TRANSLATION]
+1     
+2     
+3     

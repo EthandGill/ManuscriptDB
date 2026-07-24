@@ -1,0 +1,30 @@
+[META]
+id:       STUD.PAL 13.pg8_6
+label:    STUD.PAL 13.pg8_6
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     88 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (88 CE)
+# hgv-keywords: Quittung — Steuern (Juden) — Geld
+tm:       23268
+source:   https://papyri.info/ddbdp/stud.pal;13;pg8_6
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    διέγραψε Ἀβάσκων Αἰσχύλου
+r.2    τιμῆς δηναρίων δύο
+r.3    Ἰουδαίων καὶ ἀπαρχῆς ϛ ἔτους
+r.4    Δομιτιανοῦ δαρχμὰς θ διώβολον.
+r.5    ἔτους ζ, Παῦνι κϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

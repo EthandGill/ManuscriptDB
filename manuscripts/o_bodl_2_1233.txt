@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1233
+label:    O.BODL 2.1233
+name:     Receipt — Theben
+genre:    receipts
+date:     123 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (123 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       71916
+source:   https://papyri.info/ddbdp/o.bodl;2;1233
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν κωμῶν γενήματος
+r.2    ζ ἔτους Ἁδριανοῦ Καίσαρος
+r.3    [τ]οῦ κυρίου Παῦνι ιγ
+r.4    [ὑπὲρ ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

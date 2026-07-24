@@ -1,0 +1,42 @@
+[META]
+id:       P.HARR 3.280
+label:    P.HARR 3.280
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Birmingham
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (401 CE – 500 CE)
+# hgv-keywords: Abrechnung — Steuer — Getreide — Ortsnamen
+tm:       998609
+source:   https://papyri.info/ddbdp/p.harr;3;280
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Δα … ε ἰνδικτίωνος οὕ[τως·] …
+r.2    σίτου ἀρτάβαι γίνονται ἀρτάβαι χνδ χοίνικες ε [γ]ίνονται ἀρτάβαι Α …
+r.3    Ὀλυμπιάδος ε ἰνδικτίωνος οὕτως·
+r.4    … γ[ί]νονται ἀρτάβαι χξθ 𐅷
+r.5    Ὀλυμπιάδος ϛ ἰνδικτίωνος οὕτως·
+r.6    γίνονται ἀρτάβαι ωιβ γίνονται ἀρτάβαι Δϡ …
+r.7    Ὀλυμπιάδος ζ ἰνδικτίωνος οὕτως·
+r.8    γίνονται ἀρτάβαι ψξϛ
+r.9    Ξεναχάρους ϛ ἰνδικτίωνος
+r.10   σίτου ἀρτάβαι ϡιϛ 𐅷
+
+[TRANSLATION]
+# HGV-EN: Da..., 5th indiction, as follows: artabas of wheat ⟦513⟧, ⟦choinikes 6⟧ total artabas 654 choinikes 5, total artabas ⟦7⟧1,000 [...] Olympiados, 5th indiction, as follows: … total artabas 669 ⅔. Olympiados, 6th indiction, as follows: total artabas 812. Total artabas 4,900 [...] Olympiados, 7th indiction, as follows: total artabas ⟦664⟧ 766. Xenacharous, 6th indiction, as follows: artabas of wheat 916 ⅔ [...]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

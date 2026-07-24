@@ -1,0 +1,26 @@
+[META]
+id:       PSI 1.89
+label:    PSI 1.89
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     605 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (605 CE)
+# hgv-keywords: Quittung — Spende (Getreide) an Abt
+tm:       20151
+source:   https://papyri.info/ddbdp/psi;1;89
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐδόθη διὰ Κοσμᾶ προνοητοῦ Τερύθεως εἰς τὸν ἅγιον ἀββᾶ Ἑρμῆ λόγῳ
+r.2    προσφορᾶς ἐξ ἔθους καὶ ἐπὶ τῆς θ ἰνδικτίονος σίτου καγκέλλῳ ἀρτάβας εἰκοσιπέντε· γίνονται σίτου καγκέλλῳ ἀρτάβαι κε μόνον
+r.3    σπα καὶ σν μηνὶ Μεσορὴ ἰνδικτίονος ὀγδόης ὑπὲρ ἐμβολῆς ἐνάτης
+
+[TRANSLATION]
+1     
+2     
+3     

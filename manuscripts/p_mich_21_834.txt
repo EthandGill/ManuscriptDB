@@ -1,0 +1,38 @@
+[META]
+id:       P.Mich. 21.834
+label:    P.Mich. 21.834
+name:     Documentary papyrus — Fundort: Karanis (Arsinoites) - 1930
+genre:    documents
+date:     326 CE – 400 CE
+language: Greek (Koiné)
+found:    Fundort: Karanis (Arsinoites) - 1930
+held:     Ann Arbor
+shelf:    
+content:  Documentary papyrus from Fundort: Karanis (Arsinoites) - 1930 (326 CE – 400 CE)
+# hgv-keywords: Liste — Ortsnamen
+tm:       756868
+source:   https://papyri.info/ddbdp/p.mich;21;834
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    δ
+r.2    Τόπου Σερήνου
+r.3    Πτολεμαίδος Δρυμοῦ
+r.4    Ἀλκωνι …
+r.5    Λιβύλλης [ ]
+r.6    Δίννεως
+r.7    … ρμούθεως …
+r.8    … ρβ …
+
+[TRANSLATION]
+# HGV-EN: 4th Serenus' Place Ptolemais Drymou Alknoni[ Livilla Dinnis ( -)rmouthis
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

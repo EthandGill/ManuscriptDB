@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 1.238
+label:    O.BODL 1.238
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     140 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (140 BCE)
+# hgv-keywords: Quittung — Spreu
+tm:       70973
+source:   https://papyri.info/ddbdp/o.bodl;1;238
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους λ Παῦνι ιγ παραδέδωκεν
+r.2    εἰς τὸ καθῆκον ἄχυρον τοῦ αὐτοῦ ἔτους
+r.3    Ἰναρῶς Μα … ιου Ἀπολλωνίωι
+r.4    Πύρρου μώια πδ.
+r.5    Προῖτος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

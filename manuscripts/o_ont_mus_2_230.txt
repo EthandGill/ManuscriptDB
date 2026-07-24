@@ -1,0 +1,32 @@
+[META]
+id:       O.ONT.MUS 2.230
+label:    O.ONT.MUS 2.230
+name:     Receipt — Theben
+genre:    receipts
+date:     72 CE – 73 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (72 CE – 73 CE)
+# hgv-keywords: Quittung — Naubion
+tm:       75251
+source:   https://papyri.info/ddbdp/o.ont.mus;2;230
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Κ]αμμῆτις καὶ
+r.2    [μέτ]οχοι χωματεπιμεληταὶ Ἑρμώνθεως Πικῶτι
+r.3    … [ Νότου] καὶ Λιβὸς ἤργασαι ἐπὶ χώματος
+r.4    … ναύβια δύο τοῦ ε ἔτους
+r.5    [Οὐεσπα]σιανοῦ τοῦ κυρίου
+r.6    … ιζ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

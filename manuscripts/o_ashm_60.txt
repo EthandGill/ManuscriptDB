@@ -1,0 +1,26 @@
+[META]
+id:       O.ASHM 60
+label:    O.ASHM 60
+name:     Receipt — Theben
+genre:    receipts
+date:     188 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (188 CE)
+# hgv-keywords: Quittung
+tm:       70509
+source:   https://papyri.info/ddbdp/o.ashm;;60
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος κη ἔτους Κομμόδου Ἀντωνίνου Κ[αίσαρος]
+r.2    τοῦ κυρίου Μεσορὴ ι ὑπὲρ Νότου ὀνόματος Φθουμ[ίνιος]
+r.3    Ὥρου Θαήσιος πυροῦ δύο γίνονται πυροῦ β. Ἀμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

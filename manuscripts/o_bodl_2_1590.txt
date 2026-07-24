@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.1590
+label:    O.BODL 2.1590
+name:     Receipt — Theben
+genre:    receipts
+date:     180 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (180 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       72273
+source:   https://papyri.info/ddbdp/o.bodl;2;1590
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παῦνι κδ τοῦ κ ἔτους ὀνόματος
+r.2    Ἰσιάδος Ἑριέως πυροῦ ἀρτάβης τετρακαιεικοστὸν
+r.3    γίνεται πυροῦ ἀρτάβης κδ. Λολοῦς γραμματεὺς σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

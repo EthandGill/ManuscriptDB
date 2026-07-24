@@ -1,0 +1,30 @@
+[META]
+id:       O.WILB 2
+label:    O.WILB 2
+name:     Receipt — Theben
+genre:    receipts
+date:     206 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (206 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       43332
+source:   https://papyri.info/ddbdp/o.wilb;;2
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιϛ, Μεχεὶρ κθ,
+r.2    τέτακται Ἡρακλείδης
+r.3    εἰς τὴν Ἀγαθοκλέους δωρεὰν τὸ καθῆκον ὑποζυγίου ἑνὸς ἀπὸ μηνὸς
+r.4    Ἁθὺρ ἕως Μεχείρ.
+r.5    ἔγραψε Κάλλιππος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

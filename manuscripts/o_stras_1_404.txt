@@ -1,0 +1,34 @@
+[META]
+id:       O.STRAS 1.404
+label:    O.STRAS 1.404
+name:     Receipt — Theben
+genre:    receipts
+date:     218 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (218 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75992
+source:   https://papyri.info/ddbdp/o.stras;1;404
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος β ἔτους Μάρκων Ὀπελλίων Σεουήρου
+r.2    Μακρείνου καὶ Ἀντωνίνου Διαδουμενιανοῦ
+r.3    Καισάρων τῶν κυρίων Ἐπεὶφ β ὑπὲρ Νήσου ὀνόματος Ἱερακλέους
+r.4    Ἀμμωνίου τοῦ Διδύμου πυροῦ τέσσαρας γίνονται δ δ.
+r.5    ἄλλαι Νότου Ἐπεὶφ ια ὀνόματος τοῦ αὐτοῦ πυροῦ μίαν ἥμισυ γίνεται πυροῦ α 𐅵
+r.6    καὶ ὑπὲρ Χάρακος ὀνόματος τοῦ αὐτοῦ πυροῦ ἥμισυ τέταρτον γίνεται πυροῦ 𐅸
+r.7    … πυροῦ ϛ 𐅵. Αὐρήλιος Πατ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

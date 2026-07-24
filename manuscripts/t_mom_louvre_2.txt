@@ -1,0 +1,24 @@
+[META]
+id:       T.MOM.LOUVRE 2
+label:    T.MOM.LOUVRE 2
+name:     Documentary papyrus — Bompae (Panopolites)
+genre:    documents
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Bompae (Panopolites)
+held:     
+shelf:    
+content:  Documentary papyrus from Bompae (Panopolites) (301 CE – 400 CE)
+# hgv-keywords: Mumienetikett
+tm:       54492
+source:   https://papyri.info/ddbdp/t.mom.louvre;;2
+lat:      26.525085
+lon:      31.714189
+
+[GREEK]
+r.1    Τολλοῦς Ψενθαμούνιος μητρὸς Τβαέσιος
+r.2    ἀπὸ Βομπαή
+
+[TRANSLATION]
+1     
+2     

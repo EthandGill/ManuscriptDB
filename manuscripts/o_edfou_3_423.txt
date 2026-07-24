@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 3.423
+label:    O.EDFOU 3.423
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     92 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (92 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74399
+source:   https://papyri.info/ddbdp/o.edfou;3;423
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [Ψ]ενικᾶς Πετεσθέως χωματικοῦ ια ἔτους
+r.2    [Δο]μιτιανοῦ δραχμὰς β πεντώβολον βαλανείου διώβολον
+r.3    [ἔτους ια] Παῦνι ε
+
+[TRANSLATION]
+1     
+2     
+3     

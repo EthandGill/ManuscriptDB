@@ -1,0 +1,28 @@
+[META]
+id:       O.BANKES 38
+label:    O.BANKES 38
+name:     Receipt — Elephantine
+genre:    receipts
+date:     184 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (184 CE)
+# hgv-keywords: Quittung — Steuer (Ersatzzahlung für Datteln, time demosiu phoinikos)
+tm:       699511
+source:   https://papyri.info/ddbdp/o.bankes;;38
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σανσνῶς βοηθὸς πράκτορος ἀργυρικῶν Ἐλεφαντίνης
+r.2    Θινπαπρεμείθῃ χαίρειν. ἀπέσχηκα παρὰ σοῦ
+r.3    τὴν λοιπάδα ἀφ’ ὧν ὀφείλεις τιμῆς δημοσίου φοίνικος γενημάτων ἕως κδ ἔτους.
+r.4    ἔτους κε , Ἁδριανοῦ γ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

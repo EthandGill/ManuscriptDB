@@ -1,0 +1,40 @@
+[META]
+id:       P.RYL 2.91
+label:    P.RYL 2.91
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     201 CE – 225 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (201 CE – 225 CE)
+# hgv-keywords: Abschrift — Liste — Amtsinhaber
+tm:       31158
+source:   https://papyri.info/ddbdp/p.ryl;2;91
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    ἐκ βιβλιοθήκης δημοσίων [λόγων,]
+r.2    ἐκ γραφῆς λειτουργῶν. οἱ [ἐπ]άνω
+r.3    [ὑ]πὸ τοῦ προστρατηγήσαντος ἀναδοθέντες καὶ π[ρ]ο[γεγ]ραμμένοι
+r.4    α ἔτει Παῦνι. ἐπὶ δὲ Εὐημερίας στεφαν[ι]κῶν
+r.5    [Ἀ]γχορίμφις Κειαλῆτος ὡς ἐτῶν … ἔχων πόρον ἐν οἰκοπέδοις δραχμὰς Α,
+r.6    Ἁρσῦθμις ἀπάτωρ μητρὸς Πανῶ[τος ὡς ἐτῶν ] … ω … ὁμο[ί]ως δραχμὰς Α,
+r.7    Δεῖος Κουράνεως ὡς ἐτῶν λ ὁμοίως δραχμὰς Α,
+r.8    Σαραπίων Σαρ[α]πάμμωνος ὡς [ἐτῶν] λε ὁμοίως δραχμὰς Α,
+r.9    Ἀφῶνις Ψαλαμᾶ ὡς ἐτῶν λε [ὁ]μοίως δραχμὰς Α.
+
+[TRANSLATION]
+# HGV-EN: ‘From the public archives ; extract from the list of liturgy-holders:— Presented previously by the former strategus and published in Pauni of the 1st year, collectors of the crown-tax for Euhemeria, Anchorimphis son of Keiales, aged about … years, having property in building-sites to the value of 1,000 dr., Harsuthmis, having no father, his mother being Panos, aged about … years, having similarly 1,000 dr., Dius son of Kouranis, aged about 30 years, having similarly 1,000 dr., Sarapion son of Sarapammon, aged about 35 years, having similarly, dr., Aphonis son of Psalamas, aged about 35 years, having similarly 1,000 dr.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

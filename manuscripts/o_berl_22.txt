@@ -1,0 +1,28 @@
+[META]
+id:       O.BERL 22
+label:    O.BERL 22
+name:     Receipt — Elephantine
+genre:    receipts
+date:     21 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (21 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       24414
+source:   https://papyri.info/ddbdp/o.berl;;22
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διαγεγράφηκε Ἑροννόφρις
+r.2    ὑπὲρ λαογραφίας τοῦ ζ ἔτους Τιβερίου Καίσαρος
+r.3    Σεβαστοῦ Μεσορὴ λ
+r.4    ἀργυρίου δραχμὰς ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

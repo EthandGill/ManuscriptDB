@@ -1,0 +1,30 @@
+[META]
+id:       O.HEID 125
+label:    O.HEID 125
+name:     Documentary papyrus — Theben (Charax)
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben (Charax)
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (Charax) (101 CE – 200 CE)
+# hgv-keywords: Aufstellung — Rechnung — Steuer — Weizen
+tm:       80350
+source:   https://papyri.info/ddbdp/o.heid;;125
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Χάρακος Σεν]καμῆτις Ἀ[βῶτος]
+r.2    [Ἰνα]ρῶτος σι ἀμπ Φαν …
+r.3    … σω γίνονται ἀρούραι λβ …
+r.4    … ἀρούρας ξδ διοικήσεως σωροῦ
+r.5    πυροῦ ἀρτάβας ιβ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       O.CLAUD 3.603
+label:    O.CLAUD 3.603
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     145 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (145 CE)
+# hgv-keywords: Quittung — Empfang — Ration
+tm:       73785
+source:   https://papyri.info/ddbdp/o.claud;3;603
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    [Ἰ]σίδωρ[ος ] … [ νο]υμέρου Π[ορφυρίτου ] …
+r.2    νᾶτι σκλ[ηρουργῷ ] … [ ὁ]μολογῶ …
+r.3    τὸ [ὀ]ψών[ιον ] … [ καὶ τὸ]
+r.4    κιβάρι[ον ] … [ μη]νὸς Φαμ[ενωθ ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

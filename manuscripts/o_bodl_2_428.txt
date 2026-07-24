@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.428
+label:    O.BODL 2.428
+name:     Receipt — Theben
+genre:    receipts
+date:     77 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (77 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71129
+source:   https://papyri.info/ddbdp/o.bodl;2;428
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Ὀσορουῆρις Φατρήους
+r.2    ὑπὲρ λαογραφίας Ἀγορῶν Βορρᾶ θ ἔτους δραχμὰς πέντε
+r.3    γίνονται ε καὶ τὰ τούτων προσδιαγραφόμενα. ἔτους θ Οὐεσπασιανοῦ
+r.4    τοῦ κυρίου μηνὸς Γερμανικείου λ‡ζ.
+r.5    Βάσσος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 1.255
+label:    O.BODL 1.255
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     200 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (200 BCE – 1 BCE)
+# hgv-keywords: Anweisung — Ausstellung — Quittung
+tm:       70986
+source:   https://papyri.info/ddbdp/o.bodl;1;255
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    δὸς Ἑριεῖ Φανῆτος
+r.2    εἰς λύσιν σύμβολον ἐπιγραφῆς δοχικῷ δ 𐅵 δ
+r.3    καὶ ἀρταβιείας β 𐅵 γίνονται ζ δ
+r.4    αἳ χοίνικες κθ η ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.409
+label:    O.STRAS 1.409
+name:     Receipt — Theben
+genre:    receipts
+date:     117 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (117 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75997
+source:   https://papyri.info/ddbdp/o.stras;1;409
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φ … ιζ ἔτους ὑπὲρ
+r.2    Ἀγορᾶς ὀνόματος Πεμψάιτος
+r.3    Σε … πυροῦ ἕκτον
+r.4    γίνεται πυροῦ ϛ. σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

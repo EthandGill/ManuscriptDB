@@ -1,0 +1,36 @@
+[META]
+id:       PSI.COM 9.4
+label:    PSI.COM 9.4
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     256 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Florence
+shelf:    
+content:  Receipt from Oxyrhynchos (256 CE)
+# hgv-keywords: Quittung — Steuer — Geld — Weingarten
+tm:       140523
+source:   https://papyri.info/ddbdp/psi.com;9;4
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    γ ἔτους τῶν [κυρίω]ν Πουπλίων
+r.2    Λικιννίων [O]ὐαλεριανοῦ
+r.3    [κα]ὶ Γαλλιηνοῦ Καισάρων Σεβαστῶν
+r.4    [Φ]αμενὼθ ι Ἰβιῶνος Χύσεως
+r.5    [τ]ελέσματος ἀμπέλου τοῦ αὐτοῦ γ ἔτους
+r.6    Σπαρτίδης ὁ καὶ Χαιρήμων
+r.7    [δ]ραχμὰς διακοσίας …
+r.8    [ἑπ]τὰ γίνονται δραχμαὶ σζ Αὐρήλιος Σ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

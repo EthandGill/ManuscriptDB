@@ -1,0 +1,28 @@
+[META]
+id:       O.CLAUD 4.789
+label:    O.CLAUD 4.789
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     98 CE – 117 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (98 CE – 117 CE)
+# hgv-keywords: Quittung (?) — Empfang von Geräten für Steinbruch (?)
+tm:       118441
+source:   https://papyri.info/ddbdp/o.claud;4;789
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ἄννιος ε … ω σφηνάρια
+r.2    δ κύβους ε ἡμικύβια
+r.3    ε σφῆνας ἄλλους δύο
+r.4    παρασφήνια …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

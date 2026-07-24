@@ -1,0 +1,36 @@
+[META]
+id:       PYLON 2.11
+label:    PYLON 2.11
+name:     Receipt — Karanis (Arsinoites, Ägypten)
+genre:    receipts
+date:     140 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites, Ägypten)
+held:     Ann Arbor
+shelf:    
+content:  Receipt from Karanis (Arsinoites, Ägypten) (140 CE)
+# hgv-keywords: Quittung — Penthemeros
+tm:       704976
+source:   https://papyri.info/ddbdp/pylon;2;11
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    [ἔτους τρίτ]ου Αὐτοκράτορος Κ[α]ί[σαρο]ς Τίτου
+r.2    [Αἰλίου Ἁ]δριανοῦ Ἀντωνίνου Σε[βα]στοῦ
+r.3    [Εὐσεβ]οῦς εἴργασται ὑπὲρ χωματικῶν ἔργων
+r.4    [τοῦ αὐτο]ῦ γ ἔτους Παῦνι κα ἕως κε
+r.5    [ἐν τῇ] Ἀργαίτιδος διώρυγι Καρανίδος Πτολεμαῖος
+r.6    [Θεα]βέννεως τοῦ Ἁρπαήσιος μητρὸς Θεναμούνιος.
+r.7    [Μ]αρίων σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: In the third year of Imperator Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, he has performed the dike work for the same 3rd year (2nd hand) from Pauni 21 to 25 on the canal of Argaitis on behalf of Karanis: Ptolemaios son of Theabennis grandson of Harpaesis, whose mother is Thenamounis. (3rd hand) I, Marion, have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

@@ -1,0 +1,30 @@
+[META]
+id:       O.FRANGE 3
+label:    O.FRANGE 3
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Lettre, écrite sur un exercice d’écriture — Voyage — Archives de Frangé
+tm:       140892
+source:   https://papyri.info/ddbdp/o.frange;;3
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ϫⲉ ⲉⲕϣⲓⲛⲉ
+r.2    ⲛⲥⲱⲉⲓ ⲁⲙⲟⲩ ⲉⲡⲙⲁ ⲛⲛⲱϩ ϫⲁⲕ
+r.3    ⲛⲁⲓ ϫⲟⲟⲥ ⲙⲡⲁⲥⲟⲛ ⲡⲉⲧⲣⲟⲥ ϥⲛⲁⲧⲥⲁⲃⲁⲕ
+r.4    ⲉⲡⲙⲁ ϣⲗⲏⲗ
+r.5    ⲉϫⲱⲉⲓ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

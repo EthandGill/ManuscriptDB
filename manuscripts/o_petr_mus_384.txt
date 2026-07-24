@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 384
+label:    O.PETR.MUS 384
+name:     Receipt — Theben (Charax)
+genre:    receipts
+date:     189 CE
+language: Greek (Koiné)
+found:    Theben (Charax)
+held:     
+shelf:    
+content:  Receipt from Theben (Charax) (189 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       75423
+source:   https://papyri.info/ddbdp/o.petr.mus;;384
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κωμῶν γενήματος κθ ἔτους Κομμόδου Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου Ἁδριανοῦ ιβ τοῦ λ ἔτους
+r.3    ὑπὲρ Χάρακος ὀνόματος Ψανσνῶτος Πέφιος
+r.4    … πυροῦ ιβ. Ὧρος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

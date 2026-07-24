@@ -1,0 +1,26 @@
+[META]
+id:       O.MINOR D1
+label:    O.MINOR D1
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     106 BCE – 105 BCE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     
+shelf:    
+content:  Receipt from Hermonthis (106 BCE – 105 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       74996
+source:   https://papyri.info/ddbdp/o.minor;;D1
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    ἔτους ιβ τοῦ καὶ θ ἔτους … κθ τέτακται
+r.2    ἐπὶ τὴν ἐν Ἑρμώνθει τράπεζαν … θ ἔτους
+r.3    Πλάτων … θωευ … ἑπτακόσίας ο γίνονται ψ …
+
+[TRANSLATION]
+1     
+2     
+3     

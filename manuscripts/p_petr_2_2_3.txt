@@ -1,0 +1,30 @@
+[META]
+id:       P.PETR 2.2_3
+label:    P.PETR 2.2_3
+name:     Letter — Arsinoites
+genre:    letters
+date:     222 BCE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Letter from Arsinoites (222 BCE)
+# hgv-keywords: Brief (privat) — Dioskurides an Diophanes (Strategen) — Empfehlung des Überbringers des Briefs
+tm:       7408
+source:   https://papyri.info/ddbdp/p.petr;2;2_3
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Διοφάνει
+r.2    στρατηγῶι
+r.3    ἔτους κε Ἀπελλαίου ια Φαρμοῦθι ϛ
+r.4    Διοσκουρίδης περὶ Ἀσκληπ[ιά]δου τοῦ ἀποσταλέντος ἀδελφοῦ
+r.5    [π]ερὶ Ἀσκληπιάδου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

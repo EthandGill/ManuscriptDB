@@ -1,0 +1,44 @@
+[META]
+id:       CDE 88.308
+label:    CDE 88.308
+name:     Letter — Fundort: Arsinoites, Ägypten
+genre:    letters
+date:     31 CE – 64 CE
+language: Greek (Koiné)
+found:    Fundort: Arsinoites, Ägypten
+held:     Oslo
+shelf:    
+content:  Letter from Fundort: Arsinoites, Ägypten (31 CE – 64 CE)
+# hgv-keywords: Brief (privat) — Heraklus an Pompeius — der Adressat wird gebeten — schnellstens nach Hause zu kommen — um der Schreiberin aus ihrer Bedrängnis zu helfen
+tm:       25288
+source:   https://papyri.info/ddbdp/cde;88;308
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἡρακλοῦς Πομπηίωι χαίρειν
+r.2    καὶ διὰ παντὸς ὑγιαίνειν. εὐθέως ἄν σοι
+r.3    ἔλθῃ ἡ [ἐ]πιστολή, εὐθέως παραγείνου. ἐξ ὅτου
+r.4    Ἄπεις ἐτελεύτησεν, οὐκ ἀφίει [με] Σεραηοῦς
+r.5    ἐν τῇ οἰκίᾳ. χειμάζειν με. ἐξ ὅτου …
+r.6    ὅτι· φέρετε τὰ ὑπομνήματα, ἔσταλται, λέγω[ν]
+r.7    ὅτι· δύο ὑπομνήματα. οὐ δίδω ἀργύριον,
+r.8    ἐκκέκρουκε ἡμᾶς λέγων ὅτι· οὐ δεδ[ώ]κατε ἐγκύκλ[ιο]ν. ἐάν σοι ἔλθῃ ἡ ἐπ[ισ]τολή,
+r.9    εὐθέω[ς πα]ραγείνου· εἰ δὲ μή, ἐγὼ ὑπάγω ἐκ τῆς οἰκίας. ἐὰν μὴ ἔλθῃς, ἐγὼ
+r.10   καθίσασα ὄνον ἐλεύσομαι εἰς Ἀρσινοΐτην …
+r.11   … εἰς τὸ …
+
+[TRANSLATION]
+# HGV-EN: Heraklous to Pompeius greeting and all good wishes for his health. As soon as the letter reaches you, come immediately. Since Apeis died, Serapous does not give up annoying me at home. Since … that: Bring the memoranda, with her (or me?) saying that: Two memoranda have been sent. I do not give money, she has repulsed us, saying that: You have not paid the tax on sales. If the letter reaches you, come immediately. If not, I shall leave the house. If you don't come, I shall sit on a donkey and come to the Arsinoite … (Traces of the address).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

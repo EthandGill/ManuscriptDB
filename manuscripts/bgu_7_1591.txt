@@ -1,0 +1,36 @@
+[META]
+id:       BGU 7.1591
+label:    BGU 7.1591
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     123 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (123 CE)
+# hgv-keywords: Quittung — Steuer — Geld — Zunft der Weber
+tm:       9498
+source:   https://papyri.info/ddbdp/bgu;7;1591
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ἔτους ὀγδόου Αὐτοκράτορος Καίσαρος Τρα[ια]νοῦ
+r.2    Ἁδριανοῦ Σεβαστοῦ Θῶθ νεομηνίᾳ.
+r.3    διέγραψαν εἰς τὸν Λουκίου τοῦ καὶ Σερήνου
+r.4    καὶ μετόχων ἐγλημπτόρων γερδίων καὶ ἄλλων
+r.5    λόγον γέρδιοι Φιλαδελφείας διὰ Τριαδέλφου
+r.6    ὑπὲρ τοῦ διεληλυθότος ἑβδόμου ἔτους
+r.7    ἀ[ργυρ]ίου δρ[α]χμὰς τετρακοσίας ὀγδοήκοντα
+r.8    τέσ[σα]ρ[α]ς, δραχμὰς υπδ διὰ Νείλου χει[ρι]στοῦ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

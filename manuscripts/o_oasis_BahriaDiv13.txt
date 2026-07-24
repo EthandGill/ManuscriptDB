@@ -1,0 +1,26 @@
+[META]
+id:       O.OASIS BahriaDiv13
+label:    O.OASIS BahriaDiv13
+name:     Receipt — Oasis Parva
+genre:    receipts
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Oasis Parva
+held:     
+shelf:    
+content:  Receipt from Oasis Parva (301 CE – 400 CE)
+# hgv-keywords: Quittung
+tm:       34172
+source:   https://papyri.info/ddbdp/o.oasis;;BahriaDiv13
+lat:      28.373334
+lon:      28.8971005
+
+[GREEK]
+r.1    παρέσχεν …
+r.2    χιλίας ἑξακοσίας
+r.3    … ἕξ
+
+[TRANSLATION]
+1     
+2     
+3     

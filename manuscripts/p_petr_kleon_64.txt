@@ -1,0 +1,32 @@
+[META]
+id:       P.PETR.KLEON 64
+label:    P.PETR.KLEON 64
+name:     Letter — Fundort: Gurob; Schreibort: Arsinoites
+genre:    letters
+date:     260 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Letter from Fundort: Gurob; Schreibort: Arsinoites (260 BCE – 249 BCE)
+# hgv-keywords: Brief — Drimakos an Theodoros — Steinarbeiter — Arbeiten
+tm:       381300
+source:   https://papyri.info/ddbdp/p.petr.kleon;;64
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    Θεοδώρωι Δρίμακος χ[α]ίρειν …
+r.2    ἐλευθερολατόμων …
+r.3    ἔργα καὶ παρεμετρη …
+r.4    … α … νουσι …
+r.5    [ἔγρα]ψα [το]ῖς ἐπὶ τού[των τεταγμένοις] …
+
+[TRANSLATION]
+# HGV-EN: Drimakos to Theodoros, greetings. [... of the] free stone-cutters [...] works and [...] have measured out [...] I have written to those in charge of these matters [...]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

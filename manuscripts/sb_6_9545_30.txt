@@ -1,0 +1,34 @@
+[META]
+id:       SB 6.9545_30
+label:    SB 6.9545_30
+name:     Receipt — Elephantine
+genre:    receipts
+date:     65 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (65 CE)
+# hgv-keywords: Quittung — Gewerbesteuer — Namen
+tm:       19092
+source:   https://papyri.info/ddbdp/sb;6;9545_30
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διαγεγράφηκεν
+r.2    Πετορζμῆθις Παχνούβιος
+r.3    ὑπὲρ χειρωναξίου τοῦ
+r.4    ἑνδεκάτου ἔτους
+r.5    Νέρωνος τοῦ κυρίου
+r.6    Μεσορὴ κη ἀργυρίου
+r.7    δραχμὰς δέκα γίνονται δραχμαὶ ι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

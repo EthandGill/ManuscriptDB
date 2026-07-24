@@ -1,0 +1,30 @@
+[META]
+id:       O.MINOR A3
+label:    O.MINOR A3
+name:     Receipt — Theben
+genre:    receipts
+date:     131 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (131 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74986
+source:   https://papyri.info/ddbdp/o.minor;;A3
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Κρόνιος καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    διὰ Ἀσκλᾶτος υἱοῦ Ἑριεῦς
+r.3    Φαήριος. ἔσχομεν τὸ βαλανευτικὸν τοῦ
+r.4    ιε ἔτους Ἁδριανοῦ τοῦ
+r.5    κυρίου Παῦνι γ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

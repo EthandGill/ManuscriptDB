@@ -1,0 +1,26 @@
+[META]
+id:       O.THEB 20
+label:    O.THEB 20
+name:     Receipt — Ta Memnoneia (Theben) (Ägypten)
+genre:    receipts
+date:     115 BCE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben) (Ägypten)
+held:     Toronto
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (Ägypten) (115 BCE)
+# hgv-keywords: Quittung
+tm:       76399
+source:   https://papyri.info/ddbdp/o.theb;;20
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    ἔτους β Μεσορὴ ιϛ
+r.2    μεμέτρηκε β ἔτους Μεμνονείων Φῖβις Ψεμμώνθου
+r.3    πυροῦ ἀρτάβην μίαν 𐅷 γίνεται πυροῦ ἀρτάβη α 𐅷. Ἀμμώνιος.
+
+[TRANSLATION]
+1     
+2     
+3     

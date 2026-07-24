@@ -1,0 +1,34 @@
+[META]
+id:       O.CAIR 112
+label:    O.CAIR 112
+name:     Receipt — Theben
+genre:    receipts
+date:     154 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (154 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       73460
+source:   https://papyri.info/ddbdp/o.cair;;112
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ιζ ἔτους Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου Ἐπεὶφ κβ ὑπὲρ Χάρακος
+r.3    ὀνόματος Ταμενρώσιος Ψεμενώφιος διὰ
+r.4    Ἀμενρώσιος υἱοῦ πυροῦ ἕκτον τετρακαιεικοστὸν,
+r.5    κ[α]ὶ ὑπὲρ Ὠφιήου ὀνόματος τῆς αὐτῆς διὰ τοῦ αὐτοῦ
+r.6    [πυροῦ ] … ν δωδέκατον, καὶ ὑπὲρ Χάρακος ὀνόματος Παου… υτο διὰ τοῦ αὐτοῦ πυροῦ τετρακαιεικοστὸν
+r.7    … νω Φαήριος Ψεν… τ πυροῦ α
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

@@ -1,0 +1,30 @@
+[META]
+id:       PYLON 3.7
+label:    PYLON 3.7
+name:     Receipt — Arsinoites ?
+genre:    receipts
+date:     138 CE – 161 CE
+language: Greek (Koiné)
+found:    Arsinoites ?
+held:     Frankfurt
+shelf:    
+content:  Receipt from Arsinoites ? (138 CE – 161 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       987024
+source:   https://papyri.info/ddbdp/pylon;3;7
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [ἔτους] … Αὐτοκράτορος Καίσαρ[ος]
+r.2    [Τίτου Αἰλίου] Ἁδριανοῦ Ἀντωνείνου
+r.3    [Σε]β[αστοῦ] Εὐσ[ε]βοῦς Θωθ γ διέγραψεν Ἀμ[μω]νίῳ καὶ Ἡρακ[λεί]δῃ καὶ μετόχοις πράκτορσι
+r.4    … τέκτων χειρωναξίου
+r.5    [τοῦ αὐτοῦ ἔτους] [ἀρ]γυρίου δραχμὰς δεκαδύο, γίνονται δραχμαὶ ιβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

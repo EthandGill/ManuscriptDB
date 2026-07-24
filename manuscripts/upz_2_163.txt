@@ -1,0 +1,24 @@
+[META]
+id:       UPZ 2.163
+label:    UPZ 2.163
+name:     Receipt — Theben
+genre:    receipts
+date:     182 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (182 BCE)
+# hgv-keywords: Quittung — Steuern — Bank
+tm:       3564
+source:   https://papyri.info/ddbdp/upz;2;163
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κγ Χοίαχ κθ πέπτωκεν εἰκοστῆς ἐγκυκλίου ἐν Διὸς πόλει τῆι Μεγάληι
+r.2    οἰκίας ἐπὶ τοῦ Ἡρακλείου, ἣν ἠγόρασεν Ἑριεὺς παρὰ Ψεναμούνιος Σενθωύτιος μεγάλης καὶ Σενθωύτιος μικρᾶς καθότι πρόκειται αν …
+
+[TRANSLATION]
+1     
+2     

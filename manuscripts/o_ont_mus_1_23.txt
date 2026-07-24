@@ -1,0 +1,32 @@
+[META]
+id:       O.ONT.MUS 1.23
+label:    O.ONT.MUS 1.23
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     132 CE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     Toronto
+shelf:    
+content:  Receipt from Hermonthis (132 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75044
+source:   https://papyri.info/ddbdp/o.ont.mus;1;23
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    Φθομώ[νθης] [π]ρ[άκτωρ][ ἀργυρικῶν Ἑρμώνθεως]
+r.2    Ψεντασήμ[ει Ψενμώνθου καὶ Πετεχώνσει]
+r.3    υἱῷ ἔσχον ὑ[πὲρ][ λαογραφίας ιϛ ἔτους Boρ­ρᾶ καὶ Ἀπηλιώτου δραχμὰς εἴκοσι]
+r.4    γίνονται δραχμαὶ κ ἔτους ιϛ Ἁδρι[ανοῦ Καίσαρος τοῦ κυρίου]
+r.5    Φαμενὼθ ε …
+r.6    ὁμοίως Φαρμοῦθι ζ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

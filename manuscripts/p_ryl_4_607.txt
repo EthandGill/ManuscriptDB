@@ -1,0 +1,48 @@
+[META]
+id:       P.RYL 4.607
+label:    P.RYL 4.607
+name:     Letter — Antinoopolis
+genre:    letters
+date:     314 CE – 324 CE
+language: Greek (Koiné)
+found:    Antinoopolis
+held:     
+shelf:    
+content:  Letter from Antinoopolis (314 CE – 324 CE)
+# hgv-keywords: Brief (amtlich) — Dionysios an Apion — Geld — Abwertung
+tm:       17308
+source:   https://papyri.info/ddbdp/p.ryl;4;607
+lat:      27.8105625
+lon:      30.8810025
+
+[GREEK]
+r.1    Διονύσιος Ἀπίωνι
+r.2    χαίρειν·
+r.3    προσέταξεν ἡ θεία τύχη τῶν
+r.4    δεσποτῶν ἡμῶν τὸ Ἰταλικὸν νόμισμα
+r.5    εἰς ἥμισυ νούμμου καταβιβασθῆναι· σπούδασον οὖν πᾶν τὸ Ἰταλικὸν ἀργύριον
+r.6    ὃ ἔχεις ἀναλῶσαι ἀγοράσας μοι εἴδη
+r.7    παντοδαπὰ καὶ π[ο]ίας εὑρίσκεις τιμῆς.
+r.8    τούτου τε ἕνεκα ἀπέστειλα πρός σε
+r.9    ὀφφικιάλιον· προγίνωσκε δὲ ὡς εἰ βουληθείης
+r.10   κακουργίᾳ τινὶ χρήσασθαι οὐκ ἀνέξομαί σου. ἐρρῶσθαί σε πολλοῖς χρόνοις
+r.11   εὔχομαι, ἄδελφε.
+r.12   Φαρμοῦθι η παρέλαβα τὴν ἐπιστολὴν παρὰ τοῦ ὀφφικιαλίου
+r.13   Διονύσιος Ἀπίωνος Ἀντινοέως βοηθοῦ Διονύσιος
+
+[TRANSLATION]
+# HGV-EN: ‘Dionysius to Apion, greeting. The divine Fortune of our masters has ordained that the Italian coinage be reduced to the half of a nummus. Make haste, therefore, to spend all the Italian silver that you have on purchases, on my behalf, of goods of every description at whatever price you find them. For this purpose I have dispatched an officialis to you. But take notice that should you intend to indulge in any malpractices I shall not allow you to do so. I pray, my brother, that you may be in long health. I have received the letter from the officialis on the 8th of Pharmouthi.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

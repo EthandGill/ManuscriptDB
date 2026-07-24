@@ -1,0 +1,24 @@
+[META]
+id:       O.EDFOU 1.130
+label:    O.EDFOU 1.130
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     77 CE – 78 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (77 CE – 78 CE)
+# hgv-keywords: Quittung
+tm:       47071
+source:   https://papyri.info/ddbdp/o.edfou;1;130
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ὀμᾶζας Πατῆτος
+r.2    ὀψωνίου φυλακῆς ι ἔτους δραχμὴν α
+
+[TRANSLATION]
+1     
+2     

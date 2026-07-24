@@ -1,0 +1,32 @@
+[META]
+id:       O.PETR.MUS 289
+label:    O.PETR.MUS 289
+name:     Receipt — Theben
+genre:    receipts
+date:     148 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (148 CE)
+# hgv-keywords: Quittung — Steuer (Unterhalt der Kanäle)
+tm:       77771
+source:   https://papyri.info/ddbdp/o.petr.mus;;289
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Ἀμμώνιος ὁμοίως ὑπὲρ διώρυγος βασιλ[ικῆς]
+r.2    καὶ Γυναικῶν εἰς ἀρίθμησιν μηνὸς
+r.3    Ἁδριανοῦ δραχμὰς δύο τετρώβολον
+r.4    γίνονται δραχμαὶ β τετρώβολον. ἔτους ιβ Ἀντωνίνου
+r.5    Καίσαρος τοῦ κυρίου
+r.6    Τῦβι γ. Κέφαλος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

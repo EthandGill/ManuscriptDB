@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.47
+label:    O.STRAS 1.47
+name:     Receipt — Theben
+genre:    receipts
+date:     11 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (11 BCE)
+# hgv-keywords: Quittung — Steuern — Bank — Geld
+tm:       75647
+source:   https://papyri.info/ddbdp/o.stras;1;47
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφασιν ἐπὶ τὴν Κεφάλου
+r.2    τράπεζαν Παχνοῦμις Παοῦς καὶ
+r.3    Ἁρθώτης Πετεμενώφιος τοῦ ιθ ἔτους κριθῆς
+r.4    ἀρτάβας ι δραχμὰς ιε. ἔτους κ Καίσαρος Θὼθ ιγ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

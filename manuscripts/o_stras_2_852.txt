@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 2.852
+label:    O.STRAS 2.852
+name:     Receipt — Theben
+genre:    receipts
+date:     140 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (140 CE)
+# hgv-keywords: Quittung — Steuer (Umlage für die Anlage eines Bades)
+tm:       128393
+source:   https://papyri.info/ddbdp/o.stras;2;852
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θέων καὶ μέτοχοι ἀπαιτηταὶ μερισμοῦ β[α]λανείων μητροπόλεως
+r.2    Ψ[άι]τι [Σεν]φθουμώνθου … . ἔσχομεν …
+r.3    ἔτους δ Ἀ[ν]τωνίνου [Καίσαρος] …
+
+[TRANSLATION]
+1     
+2     
+3     

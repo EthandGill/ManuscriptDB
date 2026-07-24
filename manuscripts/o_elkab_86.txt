@@ -1,0 +1,28 @@
+[META]
+id:       O.ELKAB 86
+label:    O.ELKAB 86
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     119 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (119 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24521
+source:   https://papyri.info/ddbdp/o.elkab;;86
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    διέγραψε Νιαραῦς Σεναρπτῶτος γεωμετρίας γ ἔτους Ἁδριανοῦ
+r.2    Κ[αίσαρος] τοῦ κυρίου δραχμὴν α τετρώβολον
+r.3    … [πορ]θμείου τετρώβολον, …
+r.4    ἔτους δ Ἁθὺρ λ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

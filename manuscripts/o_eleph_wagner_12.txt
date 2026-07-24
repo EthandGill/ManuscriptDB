@@ -1,0 +1,30 @@
+[META]
+id:       O.ELEPH.WAGNER 12
+label:    O.ELEPH.WAGNER 12
+name:     Receipt — Elephantine
+genre:    receipts
+date:     127 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (127 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24193
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;12
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    … Ζμεντπῶτος πράκτωρ
+r.2    … [διέ]γραψεν Παχομ… ορζμήθιος ὑπὲρ γενήματος
+r.3    … [ Ἁδριανοῦ Καίσ]αρος ἀργυρίου δραχμὰς δέκα
+r.4    … . ἔτους ιβ Ἁθὺρ ζ
+r.5    … [ ἔγραψα ὑπὲρ αὐτοῦ μὴ ][εἰδό]τος γράμματα
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,26 @@
+[META]
+id:       SB 1.3503
+label:    SB 1.3503
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     unbekannt
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (unbekannt)
+# hgv-keywords: Mumienetikett
+tm:       40300
+source:   https://papyri.info/ddbdp/sb;1;3503
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πλῆνις Πεβῶτος Λουλοῦτος
+r.2    πρεσβύτερος,
+r.3    ἐτῶν βίον λγ.
+
+[TRANSLATION]
+1     
+2     
+3     

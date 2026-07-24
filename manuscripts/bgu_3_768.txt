@@ -1,0 +1,32 @@
+[META]
+id:       BGU 3.768
+label:    BGU 3.768
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (101 CE – 200 CE)
+# hgv-keywords: Quittung — Torzoll
+tm:       28084
+source:   https://papyri.info/ddbdp/bgu;3;768
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Σοκνοπαίου Νήσου
+r.2    λιμένος Μέμφεως Σαραπίων ἐξάγων ἐπὶ καμήλῳ
+r.3    πώλῳ ἑνὶ φοίνικος ἀρτάβας τέσσαρες
+r.4    καὶ ἐπὶ ὄνῳ ἑνὶ φοίνικος ἀρτάβας
+r.5    τρεῖς . ἔτους δ Φαρμοῦθι δευτέ[ρ]ᾳ, β.
+
+[TRANSLATION]
+# HGV-EN: Paid for the harbour of Memphis (for the passage) through the gate of Soknopaiou Nesos by Sarapion, exporting on one camel foal four artabas of dates and on a donkey three artabas of dates. Year 4, Pharmouthi, the second, 2.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

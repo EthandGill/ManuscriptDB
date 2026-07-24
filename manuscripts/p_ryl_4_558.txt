@@ -1,0 +1,40 @@
+[META]
+id:       P.RYL 4.558
+label:    P.RYL 4.558
+name:     Letter — Philadelphia (Arsinoites)
+genre:    letters
+date:     257 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Letter from Philadelphia (Arsinoites) (257 BCE)
+# hgv-keywords: Brief (privat) — Kriton an Zenon — Bitte um einen Vorhang und zusätzliche Matrosen für ein Nilschiff
+tm:       2414
+source:   https://papyri.info/ddbdp/p.ryl;4;558
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    Κρίτων Ζήνωνι χαίρειν. συντέταχεν Ἀπολλώνιος τὴν [θαλαμηγὸν τὴν Πετε]χῶντος δοῦναι Πλειστάρχωι ὅπως ἀποκατασταθῆι εἰς … [ καλῶς]
+r.2    οὖν ποιήσεις δούς τινα αὐλαίαν ὅπως παράβλημα ἔχηι. ὑ[πάρχουσιν δὲ νῦν]
+r.3    ναῦται δ. προσμισθώσασθαι οὖν σύνταξον Πετεχῶντι ἄλλους δ [ὥστε γενέσθαι πάν]τας η, καὶ δὸς τοῖς η ἑκάστωι σὺν τῶι σίτωι εἰς τὸν [πλοῦν ὀψώνιον]
+r.4    χαλκ[ο]ῦ δραχμὰς θ, καὶ συναπόστειλον αὐτὴν ἐν τάχει. ἔρρωσο ἔτους [κθ]
+r.5    λαβὲ δὲ καὶ τὰς εἰκόνας τ[ῶν ναυτῶν].
+r.6    Ζήνωνι
+r.7    Κρίτων περὶ θαλαμηγοῦ ἵνα
+r.8    δοθῆι Πλειστάρχωι καὶ ναυτῶν.
+r.9    ἔτους κθ Δαισίου ι, ἐν Ἀλεξανδρείαι.
+
+[TRANSLATION]
+# HGV-EN: ‘Criton to Zenon, greeting. Apollonius has ordered the barge of Petechon to be given to Plistarchus in order that he may betake himself to …. Please, therefore, give him some awning to provide him with a screen round the side. There are at present 4 sailors on board; so order Petechon to engage4 more, making 8 in all; and give each of the 8 along with his corn 9 drachmae in copper as wages for the voyage. And dispatch the barge in haste. Farewell. Year 29, …. (Postscript) And also take the descriptions of the sailors. (Addressed) To Zenon. (Docketed) Criton about the barge, to have it given to Plistarchus, and about the sailors. Year 29, Daesius 10, in Alexandria.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

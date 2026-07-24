@@ -1,0 +1,28 @@
+[META]
+id:       O.Wilck. 306
+label:    O.Wilck. 306
+name:     Receipt — Theben
+genre:    receipts
+date:     237 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (237 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76868
+source:   https://papyri.info/ddbdp/o.wilck;;306
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ια Φαμενὼθ ιβ
+r.2    ἁλικῆς διὰ Σωστ[ρά]του
+r.3    Ἰμούθης τετρώβολον.
+r.4    Τ[ετεχ]νοῦμις ὀβολὸν χαλκοῦς 2.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       P.CORN 42
+label:    P.CORN 42
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     172 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (172 CE)
+# hgv-keywords: Quittung — Deichsteuer
+tm:       10604
+source:   https://papyri.info/ddbdp/p.corn;;42
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἔτους δωδεκάτου Αὐρηλίου Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου Ἐπὶφ β. διέγραψεν Ὀρσενοῦφι καὶ μετόχοις πράκτορσι ἀργυρικῶν Σοκνοπαίου
+r.3    Νήσου Ἑριεῦς Τεσενούφεως πρεσβυτέρου Τεσενούφεως
+r.4    μητρὸς Τανέφρεως χωματικὸν ια ἔτους δραχμὰς ἓξ τετρώβολον, προσδιαγραφομένων
+r.5    δραχμῆς μιᾶς χαλκῶν 2, γίνονται δραχμαὶ ζ τετρώβολον χαλκοῖ 2.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

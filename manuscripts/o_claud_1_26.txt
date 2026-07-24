@@ -1,0 +1,30 @@
+[META]
+id:       O.CLAUD 1.26
+label:    O.CLAUD 1.26
+name:     Documentary papyrus — Mons Claudianus
+genre:    documents
+date:     107 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Mons Claudianus (107 CE)
+# hgv-keywords: Abrechnung
+tm:       24039
+source:   https://papyri.info/ddbdp/o.claud;1;26
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    [Ἱερ]ώνυμος Ἱερωνύμου
+r.2    [Κλή]μης Ἱερωνύμου
+r.3    [Φμο]ινεβρᾶσις Ψενχῶσις
+r.4    γίνονται ἄνδρες γ,
+r.5    δραχμαὶ γ χαλκίνη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

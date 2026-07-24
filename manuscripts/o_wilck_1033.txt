@@ -1,0 +1,30 @@
+[META]
+id:       O.Wilck. 1033
+label:    O.Wilck. 1033
+name:     Receipt — Theben
+genre:    receipts
+date:     35 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (35 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       77500
+source:   https://papyri.info/ddbdp/o.wilck;;1033
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πτολεμαῖος Ἀσκλᾶτος
+r.2    Πετεμενώ Ἁρυώθου χαίρειν. ἀπέχω
+r.3    παρὰ σοῦ τὸ πρόλοιπον τοῦ βαλανικοῦ τοῦ κα ἔτους.
+r.4    ἔτους κβ Τιβερίου Καίσαρος Σεβαστοῦ
+r.5    Χοίακ δ. Πτολεμαῖος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

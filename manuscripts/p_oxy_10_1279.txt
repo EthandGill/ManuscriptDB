@@ -1,0 +1,62 @@
+[META]
+id:       P.Oxy. 10.1279
+label:    P.Oxy. 10.1279
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     139 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (139 CE)
+# hgv-keywords: Vertrag — Angebot — Pacht — Land (Staatsland)
+tm:       21771
+source:   https://papyri.info/ddbdp/p.oxy;10;1279
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Πετρ[ωνίῳ Δ]ιονυσίῳ στρατηγῷ
+r.2    παρὰ Ὠ[φελ]ᾶτος τοῦ καὶ Κόρακος
+r.3    ἀπελευθέρου Ἀπίας τῆς καὶ Διονυσίας Διονυσίου ἀπʼ Ὀξυρύγχων
+r.4    πόλεως. ἐπιδέχομαι μισθώσασθαι ἐκ τοῦ δημοσίου ἐπʼ ἔτη πέντε ἀπὸ τοῦ ἐνεστῶτος τρίτου
+r.5    ἔτους Ἀντωνείνου Καίσαρος
+r.6    τοῦ κυρίου ὑπολόγου περὶ Σεναὼ
+r.7    ἐκ τοῦ Ἡρακλείδου καὶ Ἡρακλείδου
+r.8    κλήρων ἀρούρας τρεῖς, ὧν γείτονες νότου γύης βορρᾶ καὶ ἀπηλιώτου δημόσιον χῶμα λιβὸς
+r.9    Διδυμίωνος Δημητρίου, ὥστε κατʼ ἔτος σπεῖραι καὶ ξυλαμῆσαι οἷς ἐὰν αἱρῶμαι χωρὶς
+r.10   πυροῦ καὶ ἰσάτεως καὶ ὀχομενίου καὶ ἔχειν με τὰς νομὰς
+r.11   καὶ ἐπινομὰς φόρου τῶν ὅλων
+r.12   κατʼ ἔτος σύνπαντι δραχμῶν
+r.13   τεσσάρων ἃς διαγράψω κατʼ ἔτος μηνὶ Καισαρείῳ. ἐὰν δέ τις
+r.14   ἄβροχος γένηται, παραδεχθήσεταί μοι, μετὰ δὲ τὴν πενταετίαν οὐκ ἀχθήσομαι εἰς
+r.15   τὴν μίσθωσιν. ἔτους γ Αὐτοκράτορος
+r.16   Καίσαρος Τίτου Αἰλίου Ἁδριανοῦ
+r.17   Ἀντωνείνου Σεβαστοῦ Εὐσεβοῦς
+r.18   Ἁθὺρ ια. Ὠφελᾶς ὁ καὶ Κόραξ
+r.19   ἐπιδέδ[ωκ]α.
+r.20   διὰ Ἑρμοῦ νομογράφου …
+
+[TRANSLATION]
+# HGV-EN: To Petronius Dionysius, strategus, from Ophelas also called Corax, freedman of Apia also called Dionysia, daughter of Dionysius, of Oxyrhynchus. I consent to lease from the State for five years from the present third year of Antoninus Caesar the lord three arurae of unproductive land in the area of Senao in the holdings of Heraclides and Heraclides, of which the adjacent areas are on the south a field, on the north and east a public dyke, on the west the land of Didymion son of Demetrius, on condition that Imay sow and plant the land with any crop which I choose except wheat, woad, and coriander (?), and shall have the pastures and secondary pastures at the annual rent for the pastures of four drachmae in all, which sum I will pay annually in the month of Caesareus. If any part becomes un-watered, an allowance shall be made to me, and at the end of the five years’ period I shall not be forced to take the lease. The 3rd year of the Emperor Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, Hathur 11. I, Ophelas also called Corax, presented this application. Written by Hermes, nomographus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

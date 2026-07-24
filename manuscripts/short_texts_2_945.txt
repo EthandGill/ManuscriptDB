@@ -1,0 +1,22 @@
+[META]
+id:       SHORT.TEXTS 2.945
+label:    SHORT.TEXTS 2.945
+name:     Documentary papyrus — Theben (?)
+genre:    documents
+date:     32 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (?) (32 BCE)
+# hgv-keywords: Aufschrift auf Mumienleinwand
+tm:       50942
+source:   https://papyri.info/ddbdp/short.texts;2;945
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Σωσίβιος νεώτερος Ψενανούβιος πρεσβυτέρου.
+
+[TRANSLATION]
+1     

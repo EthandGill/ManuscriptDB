@@ -1,0 +1,38 @@
+[META]
+id:       P.PETR.KLEON 41
+label:    P.PETR.KLEON 41
+name:     Documentary papyrus — Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+genre:    documents
+date:     250 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+held:     London
+shelf:    
+content:  Documentary papyrus from Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob (250 BCE – 249 BCE)
+# hgv-keywords: Schreiben (amtlich) — Theodoros an Diotimos — Anweisung erbeten — Zusendung — Lasttiere — Deich — Instandhaltung — Fluß steigend
+tm:       7447
+source:   https://papyri.info/ddbdp/p.petr.kleon;;41
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἤδη καὶ κατὰ μίσθον ἄλλο. ε[ἰ] …
+r.2    ὀλιγωρήσεις συμβήσεταί σοι κινδυνεύειν.
+r.3    ἔρρωσο ἔτους …
+r.4    Θεόδωρος Διοτίμωι χαίρειν. καλῶς ποήσεις εὐτονώτερον γράψας Ἀνδροσθένει καὶ τοῖς νομάρχαις
+r.5    ἀποστέλλειν τὸ ἀνοῦχι διὰ πάντων τῶν ὑποζυγίων
+r.6    καθάπερ καὶ πάρος ἐποίησαν. τοῦ γὰρ ποταμοῦ
+r.7    πρὸς πάντα τὰ χώματα προσβαίνοντ[ος, τὰ π]άντα
+r.8    ὀχ[υρῶσ]αι δεῖ. ἀποστέλλειν δὲ καὶ τὰ …
+
+[TRANSLATION]
+# HGV-EN: [...] already and [...] (something) else. If you are neglectful, you will be sure to be in trouble. Greetings, Year [...]. Theodoros to Diotimos, greetings. Please write urgently to Androsthenes and the nomarchs to send the anouchi using all the draught-animals, just as they did before. With the river rising higher up to all the dykes, everything has to be strengthened. (Tell him also) to send the [...].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

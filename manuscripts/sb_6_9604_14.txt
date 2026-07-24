@@ -1,0 +1,28 @@
+[META]
+id:       SB 6.9604_14
+label:    SB 6.9604_14
+name:     Receipt — Elephantine
+genre:    receipts
+date:     65 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (65 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       19121
+source:   https://papyri.info/ddbdp/sb;6;9604_14
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διαγεγράφηκ[εν ] …
+r.2    πως Ζμῆ[θ]ις ὑπὲρ [λαογρα]φίας τοῦ ἑνδεκ[άτου]
+r.3    ἔτους Νέρωνος τοῦ κυρίο[υ]
+r.4    Παῦνι κϛ ἀργυρίου δραχμὰς δέκα ἕξ γίνονται δραχμαὶ ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

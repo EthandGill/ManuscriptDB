@@ -1,0 +1,36 @@
+[META]
+id:       P.Mich. 21.847
+label:    P.Mich. 21.847
+name:     Receipt — Fundort: Karanis (Arsinoites) - 1930
+genre:    receipts
+date:     96 CE – 97 CE
+language: Greek (Koiné)
+found:    Fundort: Karanis (Arsinoites) - 1930
+held:     Ann Arbor
+shelf:    
+content:  Receipt from Fundort: Karanis (Arsinoites) - 1930 (96 CE – 97 CE)
+# hgv-keywords: Quittung — Geld — Darlehen
+tm:       383469
+source:   https://papyri.info/ddbdp/p.mich;21;847
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    … [ση]μεαφόρος λεγεῶνος
+r.2    [γ Κυρηναικῆς κεντυρίας] Φλαυίου Βουριανοῦ
+r.3    … [χ]αίρειν. ἔχω π[α]ρὰ
+r.4    [σου ἀφ’ ὧν] … [δεδανεῖσ]θαι Δίδυμον
+r.5    [παρ’ ἐμοῦ ἀργυ]ρ[ί]ου δ[ρα]χμῶν τρισχιλί[ων] [τετρακοσ]ίων ἀργυρίου δραχμὰς
+r.6    [χιλίας] … [κ]οσίας ἀκύρων οὐσῶν ὧν προ[εξέδομην] [ἀπ]οχῶ[ν]. ἔτους πρώτου
+r.7    [Αὐτοκράτορ]ος Κα[ίσαρ]ος [Νέρου]α Σεβαστοῦ
+
+[TRANSLATION]
+# HGV-EN: [NN,] signifer of the [3rd Cyrenaic] legion [in the century of] Flavius Burianus [to NN,] greetings. I have received from [you, out of the] three-thousand four-hundred drachmas that Didymos ... [to have borrowed from me], one thousand x-hundred drachmas of silver, with the receipts that I handed out before being invalid. The first year of Imperator Caesar Nerva Augustus, [month, day.]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

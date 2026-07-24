@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 1.126
+label:    O.EDFOU 1.126
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     74 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (74 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       47067
+source:   https://papyri.info/ddbdp/o.edfou;1;126
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ἀντᾶς υἱὸς ταύτης
+r.2    ὁμοίως δραχμὰς η διώβολον ἀπαρχῆς δραχμὴν α
+r.3    ἔτους ϛ Παῦνι β
+
+[TRANSLATION]
+1     
+2     
+3     

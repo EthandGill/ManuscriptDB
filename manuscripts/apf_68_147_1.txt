@@ -1,0 +1,30 @@
+[META]
+id:       APF 68.147_1
+label:    APF 68.147_1
+name:     Receipt — Hermopolis (Hermopolites, Ägypten)
+genre:    receipts
+date:     501 CE – 700 CE
+language: Greek (Koiné)
+found:    Hermopolis (Hermopolites, Ägypten)
+held:     London
+shelf:    
+content:  Receipt from Hermopolis (Hermopolites, Ägypten) (501 CE – 700 CE)
+# hgv-keywords: Quittung — Geld
+tm:       38285
+source:   https://papyri.info/ddbdp/apf;68;147_1
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    δέδω[κ]εν ὀνόματος Φοιβάμμων Φιβίωνος διὰ τῶν κληρονόμων Δανιηλίου
+r.2    ε[ἰ]ς λόγον δημοσίων ἀννωνῶν καὶ κανονικῶν τετάρτης ἰνδικτίωνος χρυσοῦ κερ[ά]τια
+r.3    ἕνδεκα ἥμισυ, γίνονται κεράτια ια 𐅵 μόνα. Φοιβάμμων διαστολεύς. ἄκυρον δὲ καὶ ἀνίσχυρον τὸ ἐντάγιον
+r.4    … αγι κερατίων ϛ … ἰνδικτίωνος. Χριστόδ … συμφωνῶ
+
+[TRANSLATION]
+# HGV-EN: There have been given for the name of Phoibammon son of Phibion, through the heirs of Danielios, for the account of the public taxes of the annonae and canonica of the fourth indiction, eleven (and) one-half carats of gold, total 11 1/2 carats only. Phoibammon, diastoleus. Τhe chit … of the 6 carats (?) ... indiction (is) void and without effect. I, Christod-, …, agree.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     There has been given for the name of Phoibammon son of Phibion through the heirs of Danielios
+2     for the account of public [annonae] and canonica of the fourth indiction, of gold carats
+3     eleven [and] one-half, total carats 11 1/2 only. Phoibammon, diastoleus. And void and without effect is the chit
+4     … [gap] carats 6 … indiction. Christod[oros] … I agree.

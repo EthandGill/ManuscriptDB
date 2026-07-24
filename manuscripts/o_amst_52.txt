@@ -1,0 +1,28 @@
+[META]
+id:       O.AMST 52
+label:    O.AMST 52
+name:     Receipt — Theben
+genre:    receipts
+date:     177 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (177 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70399
+source:   https://papyri.info/ddbdp/o.amst;;52
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παῦνι ι τοῦ ιζ ἔτους ὀνόματος
+r.2    Πετεμενώφιος νεωτέρου Πετεμενώφιος Ψενχώνσιος
+r.3    ὑπὲρ γεωμετρίας ιζ ἔτους Χάρακος δραχμὰς δύο, γίνονται δραχμαὶ β. Ἀμώνιος σεσημείωμαι.
+r.4    Παῦνι ι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

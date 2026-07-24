@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB 10
+label:    O.THEB 10
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     53 BCE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (Ägypten) (53 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       44270
+source:   https://papyri.info/ddbdp/o.theb;;10
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κη Παῦνι ιζ μεμέτρηκε
+r.2    ἀρταβιείας τοῦ αὐτοῦ ἔτους Σελοῦλις
+r.3    Αὐελέους πυροῦ δέκα γίνονται πυροῦ ἀρτάβαι ι.
+r.4    Θέων σιτολόγος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

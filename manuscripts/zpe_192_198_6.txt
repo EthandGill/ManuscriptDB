@@ -1,0 +1,32 @@
+[META]
+id:       ZPE 192.198_6
+label:    ZPE 192.198_6
+name:     Receipt — Elephantine
+genre:    receipts
+date:     164 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (164 CE)
+# hgv-keywords: Quittung — Steuer (Landvermessungssteuer, geometria) — Geld
+tm:       382556
+source:   https://papyri.info/ddbdp/zpe;192;198_6
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Λονγεῖ]νος Σερῆνος καὶ Πετρῶν[ις Βασσιανὸς]
+r.2    [πρά]κτορες ἀργυρικῶν Ἐλεφαντίνης διὰ Πετορζμήθου [βοηθοῦ].
+r.3    [διὲγραψαν] [Πετορζ]μιθις καὶ Ταχνοῦβις ἀδε[λφὴ ὑπὲρ]
+r.4    [γεωμετρίας φοινικῶνος] γενήματος δ ἔτους ὀνόματ[ος] …
+r.5    [ἐπὶ λόγου] δραχμὰς ε τριώβολον ἔτους ε Ἀντω[νίνου καὶ Οὐήρου Καισάρων]
+r.6    [τ]ῶν κυρίων Τῦβι δ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

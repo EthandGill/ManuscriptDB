@@ -1,0 +1,32 @@
+[META]
+id:       O.NYU 24
+label:    O.NYU 24
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     3 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (3 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869432
+source:   https://papyri.info/ddbdp/o.nyu;;24
+lat:      
+lon:      
+
+[GREEK]
+r.1    ε διαγέγραφε Ἅρπβηκις Σισόιτος
+r.2    … ψ … ειου γραμ ὑπὲρ
+r.3    λβ ἔτους Καίσαρος δραχμὰς
+r.4    ὀκτώ. ἔτους λγ Καίσαρος
+r.5    Φαωφι ιβ.
+
+[TRANSLATION]
+# HGV-EN: ...Harpbekis son of Sisois has paid for...for the 32nd year of Caesar, eight drachmas. Year 33 of Caesar, Phaophi 12.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.162
+label:    O.ONT.MUS 2.162
+name:     Receipt — Theben
+genre:    receipts
+date:     201 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (201 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75181
+source:   https://papyri.info/ddbdp/o.ont.mus;2;162
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θὼθ δ τοῦ ι ἔτους ὀν[όματος] …
+r.2    Πετεχώνσιος … τος καὶ
+r.3    Σεν … ς ἀδελφῆς ὑπὲρ ἐπικεφαλαίου
+r.4    θ ἔτους Ἀγορῶν δραχμὰς δ σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

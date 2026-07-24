@@ -1,0 +1,62 @@
+[META]
+id:       BASP 57.21_1
+label:    BASP 57.21_1
+name:     Documentary papyrus — Karanis (Arsinoites)
+genre:    documents
+date:     74 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     London
+shelf:    
+content:  Documentary papyrus from Karanis (Arsinoites) (74 CE)
+# hgv-keywords: Deklaration — Besitz — βιβλιοθήκη ἐγκτήσεων
+tm:       11629
+source:   https://papyri.info/ddbdp/basp;57;21_1
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Ἀπολλων[ίωι καὶ Θέωνι γεγυμ]να[σιαρ]χαρχηκόσι βιβλιοφύλαξιν ἐγκτήσεων [Ἀρσινοίτου]
+r.2    παρὰ Μικκάλου τοῦ Πτολεμαίου τοῦ καὶ Πεθέως πρεσβυτέρου
+r.3    τοῦ Πεθέως τῶ[ν] ἀπὸ Κ[αραν]ί[δ]ος
+r.4    χωρὶς ὧν ἀπεγραψάμην
+r.5    Λογίσμῳ [καὶ] Ἀντιόχῳ τῷ β ἔτει Γάλβα
+r.6    προσαπογράφομαι καὶ ἃς
+r.7    νυνὶ παρακεχώρημαι
+r.8    παρὰ Θεοδότης τῆς Διονυσί[ου]
+r.9    τοῦ Διονυσίου ἀπὸ ἀμφ[όδ]ου
+r.10   Θαραπίας ἀπoγεγραμμένης Ἀμμωνίῳ
+r.11   μετὰ κυρίου τοῦ κατὰ πατέρα
+r.12   … Διονυσίου τοῦ καὶ
+r.13   Πτολεμαίου τ[ο]ῦ Πτολεμ[α]ί[ου]
+r.14   περὶ Βακχιάδα ἥμισυ μέρος
+r.15   κλήρου κατοικικοῦ ἀρούρας ἓξ τιμῆς
+r.16   ἀργυρίου δραχμῶν τρισχι[λ]ίων διακοσί[ων]
+r.17   πεντήκοντα. διὸ ἐπιδίδωμι τὴν
+r.18   προσαπογραφήν.
+r.19   κατακεχώρισται ἔτει ϛ Αὐτοκράτορος
+r.20   Καίσαρος Οὐεσπασιανοῦ Σεβαστοῦ Φαρμοῦθι ια
+
+[TRANSLATION]
+# HGV-EN: To Apollonios [and Theon, former gymnasiarchs,] keepers of the records of real properties [in the Arsinoite,] from Mikkalos, son of Ptolemaios also known as Petheus the elder, grandson of Petheus, from Karanis. Beside the properties that I declared to Logismos ⟨and⟩ Antiochos in the 2nd year of Galba, I additionally declare the half share of a plot of settlers’ land around Bakchias, six arourai, which I have now been ceded for a price of three thousand, two hundred fifty silver drachmas by Theodote, daughter of Dionysios, granddaughter of Dionysios, from the Tharapeia quarter, who declared to Ammonios, with as guardian her … on her father’s side, NN, son of Dionysios also known as Ptolemaios, son of Ptolemaios. Therefore, I submit the supplementary declaration. (2nd hand) It has been deposited in the 6th year of Imperator Caesar Vespasianus Augustus, Pharmouthi 11.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

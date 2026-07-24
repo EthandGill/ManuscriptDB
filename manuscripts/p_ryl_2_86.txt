@@ -1,0 +1,42 @@
+[META]
+id:       P.RYL 2.86
+label:    P.RYL 2.86
+name:     Documentary papyrus — Hermopolis
+genre:    documents
+date:     195 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Documentary papyrus from Hermopolis (195 CE)
+# hgv-keywords: Zahlung an Kosmeten — Pferdenamen
+tm:       19492
+source:   https://papyri.info/ddbdp/p.ryl;2;86
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    Διονύσιος Ἀρχίο[υ] γυμνασιαρχήσας Ἑρμ[οῦ πόλε]ως τῆς
+r.2    μεγάλης ταμίας [πο]λιτικῶν καὶ ἱερατικῶν χρημά[τ]ων
+r.3    τῷ κοινῷ τῶν κοσμητῶν διὰ Διογένους καὶ Ἀγα[θοῦ Δαί]μονος κοσμη[τε]υσάντων χαίρειν. [δι]αγε[γρά]φ[η]κα τῇ
+r.4    σήμ[ε]ρον ἥτις ἐσ[τὶ]ν ἐννεακαιδεκάτη ἡμ[έ]ρ[α μηνὸ]ς Ἁθὺρ
+r.5    τοῦ ἐνεστῶτος ἔτ[ου]ς [εἰς] λόγον ἱπποδρομιῶν τοῦ αὐτοῦ δ ἔτους
+r.6    ἀρ[γ]υρίου δραχμὰς πεντακισχιλίας ἑξακο[σίας,] γίνονται ἀργυρίου δραχμαὶ Εχ, λόγου φυλασσομένου τῇ πόλει πε[ρ]ὶ [ο]ὗ [ἐ]χει παντὸς δ[ικαίο]υ. ἔτους τ[ε]τάρτου Αὐτοκράτορος Καί[σαρος] Λουκίου
+r.7    Σεπ[τιμίου Σ]εουήρου Εὐσεβοῦς Περτίνακος Σεβα[σ]τ[ο]ῦ [Ἀρα]βικ[οῦ]
+r.8    [Ἀδιαβηνι]κοῦ Ἁθὺρ ἐννεακαιδεκ[άτῃ]. Δ[ι]ον[ύσιος Ἀ]ρχ[ίου]
+r.9    [γυμνασια]ρχήσας σεση[μείωμ]αι [τὰς ἀργυ][ρίου δρ]αχμὰ[ς] πε[ντακισχιλίας ἑξακοσίας ]
+r.10   [ὡς πρόκειται.]
+
+[TRANSLATION]
+# HGV-EN: ‘Dionysius son of Archias, ex-gymnasiarch of Hermopolis Magna, treasurer of the municipal and priestly funds, to the body of the cosmetae acting through Diogenes and Agathodaemon, ex-cosmetae, greeting. I have paid to-day, being the 19th day of the month Hathur of the present year, to the account of the horse-races of the said 4th year, five thousand six hundred silver drachmae, total 5,600 silver dr., without prejudice to any right claimed by the city.’ Date and signatures.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

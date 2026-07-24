@@ -1,0 +1,30 @@
+[META]
+id:       PSI 8.984
+label:    PSI 8.984
+name:     Receipt — Pathyris
+genre:    receipts
+date:     102 BCE
+language: Greek (Koiné)
+found:    Pathyris
+held:     
+shelf:    
+content:  Receipt from Pathyris (102 BCE)
+# hgv-keywords: Quittung
+tm:       78839
+source:   https://papyri.info/ddbdp/psi;8;984
+lat:      25.369659
+lon:      32.473946
+
+[GREEK]
+r.1    ἔτους ιε τοῦ καὶ ιβ
+r.2    Ἐπεὶφ ιβ μεμέτρηκεν εἰς τὴν ἐπιγραφὴν
+r.3    τοῦ αὐτοῦ ἔτους Παθύρεως …
+r.4    Νεχούθου Ὧρος Πετεναῦτος πυροῦ
+r.5    ἥμισυ δ γίνεται πυροῦ 𐅵 δ. Ἀπολλώνιος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

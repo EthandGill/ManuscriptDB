@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 51
+label:    O.LEID 51
+name:     Receipt — Theben
+genre:    receipts
+date:     37 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (37 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24623
+source:   https://papyri.info/ddbdp/o.leid;;51
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Ἀπάθης Παβούχιος ὑπὲρ
+r.2    περιστερεώνων α ἔτους δραχμὰς δεκαοκτὼ τετρώβολον
+r.3    γίνονται δραχμαὶ ιη τετρώβολον καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου. ἔτους β Γαίου
+r.4    Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.5    Σεβαστοῦ κη. Πετεμενῶφις τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

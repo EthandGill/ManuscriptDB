@@ -1,0 +1,70 @@
+[META]
+id:       P.Oxy. 1.77
+label:    P.Oxy. 1.77
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     223 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (223 CE)
+# hgv-keywords: Erklärung — Eid — Eigentum — Haus
+tm:       20736
+source:   https://papyri.info/ddbdp/p.oxy;1;77
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Αὐρηλίῳ Ἀμμωνίῳ γυμν[α]σιάρχῳ ἐνάρχῳ πρυτάνει
+r.2    τῆ[ς Ὀξ]υρυγχειτῶν πόλεως
+r.3    Ἰουλία Διονυσία θ[υγ]άτηρ
+r.4    Σαρ[απιακ]οῦ Σαραπάμμωνος.
+r.5    ἐπιζ[η]τοῦντί σοι περὶ ἧς
+r.6    εμ … λ … προσπ … π … αχθαι
+r.7    σε οἰκίας μου οὔσης ἐπʼ ἀμφόδου Τεμιενούθεως
+r.8    πότερον ἡμετέρα τυγχάνει ἢ τοῦ ἀνδρὸς μου Αὐρηλίου Σαραπιακοῦ, ὀμνύω
+r.9    τὴν Μάρκου Αὐρηλίου
+r.10   Σεουήρου Ἀλεξάνδρου
+r.11   Καίσαρος τοῦ κυρίου τύχην
+r.12   τὴν δηλου[μ]ένην οἰκίαν
+r.13   καὶ τὰ ἐν αὐ[τῇ π]άντα εἶναι
+r.14   ἐμοῦ τῆς Ἰουλίας Δ[ιονυ]σίας ἀκολ[ού]θως καὶ οἷ[ς]
+r.15   ἐπέδωκά σοι βιβλιδίοις
+r.16   καὶ μηδὲν διεψεῦσθαι.
+r.17   ἔτους β Αὐτοκράτορος Καίσαρος
+r.18   Μάρκου Αὐρηλίου Σεουήρου
+r.19   Ἀλεξάνδρου Εὐσεβοῦς
+r.20   Εὐτυχοῦς Σεβαστοῦ, Παχὼν κδ.
+r.21   Ἰουλία Διονυσία ὀμώμοκα τὸν ὅρκον ὡς
+r.22   πρόκειται. Αὐρήλιος Διογένης Διογένους ἔγραψα
+r.23   ὑ[πὲρ] αὐ[τ]ῆς [μὴ] εἰδυί[ας]
+r.24   [γράμματα].
+
+[TRANSLATION]
+# HGV-EN: To Aurelius Ammonius, gymnasiarch, prytanis in office of Oxyrhynchus, from Julia Dionysia, daughter of Sarapiacus, son of Sarapammon. In answer to your inquiry about my house situated in the quarter of Temienouthis, about which ... whether it belonged to me or to my husband Aurelius Sarapiacus, I swear by the fortune of Marcus Aurelius Severus Alexander the lord Caesar that the house in question and all its contents belong to me, Julia Dionysia, in accordance with the written statements which I gave you, and that I have herein spoken only the truth.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    

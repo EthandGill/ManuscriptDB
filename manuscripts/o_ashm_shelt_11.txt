@@ -1,0 +1,36 @@
+[META]
+id:       O.ASHM.SHELT 11
+label:    O.ASHM.SHELT 11
+name:     Receipt — Theben
+genre:    receipts
+date:     112 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (112 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70563
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;11
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἐπικράτης καὶ μέτοχοι
+r.2    τελῶναι θησαυροῦ ἱερῶν
+r.3    Ἐσμῖνι Ὥρου
+r.4    Ποριεύθου χαίρειν.
+r.5    ἀπέχομεν τὸ βαλανευτικὸν
+r.6    ἔτους ιε Τραιανοῦ
+r.7    τοῦ κυρίου, Ἐφεὶπ
+r.8    θ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

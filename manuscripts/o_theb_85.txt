@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB 85
+label:    O.THEB 85
+name:     Receipt — Theben
+genre:    receipts
+date:     157 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (157 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76456
+source:   https://papyri.info/ddbdp/o.theb;;85
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀμμώνιος καὶ Πετεχῶνσις γενόμενοι πράκτορες ἀργυρικῶν Ἀγορῶν
+r.2    Ἀσκλᾶτι γ Ἐρ[ι]έως Φαμίνιος. ἔσχομεν ὑπὲρ σκοπέλων
+r.3    καὶ ἄλλων κ ἔτους δραχμὰς τέσσαρας γίνονται δραχμαὶ δ. ἔτους κα
+r.4    Ἀντωνίνου Καίσαρος τοῦ κυρίου Ἁθὺρ κδ. Ἀμμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

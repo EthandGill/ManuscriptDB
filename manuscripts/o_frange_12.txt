@@ -1,0 +1,28 @@
+[META]
+id:       O.FRANGE 12
+label:    O.FRANGE 12
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Lettre — Exercice — Archives de Frangé
+tm:       140901
+source:   https://papyri.info/ddbdp/o.frange;;12
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ϩⲁ ⲑⲏ μέν ⲛϩⲱⲃ ⲛⲓⲙ ⲧⲁⲙⲛⲧἐλάχιστος ⲉⲧⲥϩⲁⲓ ⲉⲓπροσκυνεῖν
+r.2    ⲓ[ⲥ]ⲁⲁⲕ ⲙⲛ ϩⲏⲗⲓⲁⲥ ⲛⲣⲱⲙⲉ
+r.3    ⲛⲁⲙⲉ ⲛϣⲟⲩⲁϣⲟⲩ ⲛⲑⲉ ⲛⲧⲁⲛⲓⲏⲗ ⲡⲉ προφήτης ⲙⲡϫⲟⲉⲓⲥ
+r.4    ϯϣⲓⲛⲉ ⲟⲛ ⲉⲛⲉⲧⲛϣⲏ[ⲣⲉ ⲙ]ⲙⲁⲓⲛⲟⲩ[ⲧ]ⲉ ⲙ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

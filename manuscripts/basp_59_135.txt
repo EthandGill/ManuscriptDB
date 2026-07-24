@@ -1,0 +1,26 @@
+[META]
+id:       BASP 59.135
+label:    BASP 59.135
+name:     Receipt — Memphis (Memphites)
+genre:    receipts
+date:     184 CE
+language: Greek (Koiné)
+found:    Memphis (Memphites)
+held:     London
+shelf:    
+content:  Receipt from Memphis (Memphites) (184 CE)
+# hgv-keywords: Quittung — Kopfsteuer — Geld — Steuer
+tm:       380799
+source:   https://papyri.info/ddbdp/basp;59;135
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    [κ] … [ἔ]τους Αὐρηλίου Κομμόδου Ἀντωνίνου Καίσαρος [τοῦ κυρίου] …
+r.2    [διέγραψεν] Δωρίων πράκτορι ἀργυρικῶν Μέμφεως Πωλλίω[ν Σαραπίωνος λαογραφίας δραχμὰς]
+r.3    [ὀκτώ,] [μερι]σμοῦ φυλάκτρου γ διώβολον, γίνονται δραχμαὶ ια διώβολον.
+
+[TRANSLATION]
+1     
+2     
+3     

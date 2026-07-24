@@ -1,0 +1,36 @@
+[META]
+id:       O.ONT.MUS 2.237
+label:    O.ONT.MUS 2.237
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Documentary papyrus from Theben (101 CE – 200 CE)
+# hgv-keywords: Abrechnung — Geld
+tm:       75257
+source:   https://papyri.info/ddbdp/o.ont.mus;2;237
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ηιε
+r.2    … ἔτους … γ ἕως ε
+r.3    [ ][Παβ]ούχιος Ψενσενφθομώνθου δραχμὴν α
+r.4    … Πικῶς δραχμὴν α
+r.5    [Πετ]εχώνσιος Ἁρφμόιτος δραχμὰς κϛ
+r.6    … νιος Ψεν δραχμὰς γ
+r.7    … νιος Πεχύσιος δραχμὰς γ
+r.8    … δραχμὰς η ιε
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

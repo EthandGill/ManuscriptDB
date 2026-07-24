@@ -1,0 +1,30 @@
+[META]
+id:       O.EDFOU 3.432
+label:    O.EDFOU 3.432
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     99 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (99 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       74408
+source:   https://papyri.info/ddbdp/o.edfou;3;432
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ἀρταβᾶς Παχομσαΐτος
+r.2    φυλακιτικοῦ β ἔτους Τραιανοῦ
+r.3    τοῦ κυρίου α ὀβολὸς
+r.4    σκοπέλων ὀβολοὺς δ βαλανείου α
+r.5    [ἔτους β] Φαμενὼθ ϛ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

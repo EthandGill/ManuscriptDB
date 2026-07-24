@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 1.53
+label:    P.Oxy. 1.53
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     316 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (316 CE)
+# hgv-keywords: Gutachten — Aurelius Eirenaios als Vertreter der Gilde (Zimmermann) an den Logistes Valerius Ammonianos — Baum (Persea)
+tm:       20715
+source:   https://papyri.info/ddbdp/p.oxy;1;53
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ρε
+r.2    Οὐαλερίῳ Ἀμμωνιανῷ τῷ καὶ Γεροντίῳ λογιστῇ Ὀξυρυγ χ[ίτου]
+r.3    παρὰ τοῦ κοινοῦ τῶν τεκτόνων τῆς λαμπρᾶς καὶ λαμπροτάτης Ὀξυρυγχιτῶν πόλεως,
+r.4    διʼ ἐμοῦ Αὐρηλίου Εἰρηναίου Ἀπελλῆτος μηνιάρχου. ἐπεστάλην ὑπὸ τῆς σῆς ἐμμελείας ἐκ βιβλιδίων ἐπιδοθέντ[ων]
+r.5    ὑπὸ Αὐρηλίου Παλίσους λο[γ]ογράφου τοῦ εὐτυχῶς ἐπ[ι]σκευαζ[ο]μένου θερμῶν δημοσίου βαλανείου, ὥστ[ε]
+r.6    περσίαν μίαν οὖσαν ἐν τῇ αὐτῇ πόλει ἐπιδεῖν κ[αὶ]
+r.7    ἐγγράφως προσφωνῆσαι τὴν ταύτη[ς] διάθεσιν. ὅθ[εν]
+r.8    ἐπεῖδον τὴν περσίαν ἄκαρπον οὖσαν πολλ[ῶ]ν ἐτῶν
+r.9    διόλου ξηρανθεῖσαν καὶ μὴ δύνασθαι ἐντε[ῦ]θε[ν καρ]ποὺ[ς]
+r.10   ἀποδιδόναι· ὅπερ προσφωνῶ.
+r.11   ὑπατείας Καικινίου Σαβίνου καὶ Οὐεττίο[υ Ῥουφίνου]
+r.12   τῶν λαμπροτάτων, Μεχεὶρ λ.
+r.13   Αὐρήλιος Εἰρηναῖος ἐπιδέδωκα προ[σφωνῶν ὡς πρό]κιται. Αὐρήλιος Διονύσιος Σερήνου ἀπὸ τῆς [αὐτῆς]
+r.14   πόλεως τέκτων ἔγραψα ὑπὲρ αὐτοῦ γράμ[μ]ατα μ[ὴ εἰδότος].
+
+[TRANSLATION]
+# HGV-EN: To Valerius Ammonianus, also called Gerontius, logistes of the Oxyrhynchite nome, from the guild of carpenters of the illustrious and most illustrious city of Oxyrhynchus, through me, Aurelius Irenaeus, son of Apelles, the monthly president. I was sent by your grace owing to a communication received by you from Aurelius Palises, accountant of the repairs now being auspiciously carried out in the public warm baths, to examine a single persea tree which is in the city, and to make a report upon it to you in writing. I accordingly examined the persea tree and found that it had been barren for many years, and was quite dried up and unable to produce any more fruit, which facts I therefore report.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

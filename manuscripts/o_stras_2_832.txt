@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 2.832
+label:    O.STRAS 2.832
+name:     Receipt — Theben
+genre:    receipts
+date:     123 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (123 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       24394
+source:   https://papyri.info/ddbdp/o.stras;2;832
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηνται εἰς θησαυρὸν κωμῶν γενήματος ζ
+r.2    Ἁδριανοῦ τοῦ κυρίου Παῦ[νι] κθ
+r.3    ὀνόματος Ψεναμούνιος Ψενχώνσιος δ[ι]ὰ …
+r.4    Πετενοβδώιος κ … πυροῦ τέσσαρες, γίνονται πυροῦ δ.
+r.5    Απ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

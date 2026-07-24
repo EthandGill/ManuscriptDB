@@ -1,0 +1,30 @@
+[META]
+id:       SB 18.14062
+label:    SB 18.14062
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     556 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (556 CE)
+# hgv-keywords: Quittung (Matten) — Kloster — Abt — domus Apion
+tm:       18397
+source:   https://papyri.info/ddbdp/sb;18;14062
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐδόθη διὰ τῶν μοναζόντων μοναστηρίου ἀββᾶ Ἀνδρέου εἰς χρείαν τοῦ
+r.2    γεουχικοῦ λουτροῦ Φαμενὼθ ια ἰνδικτίωνος τετάρτης ψιάθια τέσσαρα,
+r.3    γίνονται ψιάθια δ μόνα. γίνονται ψιάθια τέσσερα.
+r.4    ἔτους σλβ καὶ σα Φαμενὼθ ια ἰνδικτίωνος τετάρτης.
+r.5    οἶκος Ἀπίωνος ψιάθια δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

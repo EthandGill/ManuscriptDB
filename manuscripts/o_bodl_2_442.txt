@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.442
+label:    O.BODL 2.442
+name:     Receipt — Theben
+genre:    receipts
+date:     174 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (174 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71143
+source:   https://papyri.info/ddbdp/o.bodl;2;442
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Τῦβι κγ τοῦ ιδ ἔτους ὀνόματος Παναμέως Λολοῦτος Φθουμίνιος
+r.2    ὑπὲρ ἐπικεφαλαίου ιγ ἔτους Χάρακος δραχμὰς δώδεκα
+r.3    γίνονται δραχμαὶ ιβ. Φ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

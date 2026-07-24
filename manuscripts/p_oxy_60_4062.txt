@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 60.4062
+label:    P.Oxy. 60.4062
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     163 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (163 CE)
+# hgv-keywords: Brief (amtlich) — NN an Calpurnius Artemidoros (Stratege des Oxyrhynchites)
+tm:       22546
+source:   https://papyri.info/ddbdp/p.oxy;60;4062
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Καλπουρνίῳ Ἀρτεμιδώρῳ τῷ καὶ Πτολεμαίῳ στρατηγῷ
+r.2    παρὰ Σευήρου χρηματίζοντος μητρὸς
+r.3    … ης καὶ Ἡρακλειδίωνος
+r.4    χρ[η]μ[ατ]ίζοντος μητρὸς Ἄλειτος
+r.5    [ἀμ]φο[τ]έρων ἀπʼ Ὀξυρύγχων πόλεως.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

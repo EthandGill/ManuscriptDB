@@ -1,0 +1,30 @@
+[META]
+id:       P.MON.APOLLO 1.4
+label:    P.MON.APOLLO 1.4
+name:     Documentary papyrus — Bawit
+genre:    documents
+date:     701 CE – 800 CE
+language: Greek (Koiné)
+found:    Bawit
+held:     Cambridge
+shelf:    
+content:  Documentary papyrus from Bawit (701 CE – 800 CE)
+# hgv-keywords: Aparche — Garantie
+tm:       86562
+source:   https://papyri.info/ddbdp/p.mon.apollo;1;4
+lat:      27.532343
+lon:      30.72925
+
+[GREEK]
+r.1    ⲁⲛⲟⲕ ⲡⲁⲥⲟⲛ ⲥⲉⲗⲃⲁⲛⲉ ⲡμοναχός ⲙⲡτόπος
+r.2    ⲛⲁⲡⲁ ⲁⲡⲟⲗⲗⲱ ⲉⲓⲥϩⲁⲓ ⲙⲡⲥⲁϩ ⲙⲁⲕⲁⲣⲉ ⲙⲛ ⲅⲉⲱⲣ[ⲅⲉ ]
+r.3    ⲡⲉϥⲥⲟⲛ ⲛμοναχός ⲙⲡⲓτόπος ⲛⲟⲩⲱⲧ ϫⲉ ἐπειδή
+r.4    ⲁⲧⲉⲧⲛσυμπείθειν ⲛⲙⲙⲁⲓ ⲁⲧⲉⲧⲛⲧⲓ ⲛⲁⲓ ⲙⲡⲥⲁⲕϩ …
+r.5    ⲙⲡⲓⲟⲙ πρός ⲛⲉⲙⲁ ⲉⲧⲏⲡ ⲉⲣⲟϥ ⲧⲣⲁⲥⲱⲕ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       O.CAIR 116
+label:    O.CAIR 116
+name:     Receipt — Theben
+genre:    receipts
+date:     218 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (218 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       73464
+source:   https://papyri.info/ddbdp/o.cair;;116
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα [θησαυροῦ] μητροπόλεως γενήματος τοῦ ἐνεστῶτος β ἔτους
+r.2    Ἐπεὶφ θ ὀνόματος Λολοῦτος Πεκύσιος
+r.3    Πετε ὑπὲρ κριθῆς ἀννώνης
+r.4    ἀρτάβης δ κδ. Δίδυμος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

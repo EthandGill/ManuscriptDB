@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 4.726
+label:    P.Oxy. 4.726
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     134 CE – 135 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (134 CE – 135 CE)
+# hgv-keywords: Vertrag — Vollmacht zur Vertretung in einem διαλογισμός des Gaues — Krankheit
+tm:       20426
+source:   https://papyri.info/ddbdp/p.oxy;4;726
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἔτους ἐννεακαιδεκάτου Αὐτοκράτορος
+r.2    Καίσαρος Τρα[ι]ανοῦ Ἁδριανοῦ
+r.3    Σεβαστοῦ Τῦβ[ι] ἐν Ὀξυρύγχων πόλει τῆς Θηβαίδος. ὁμολογεῖ Ἀπολλώνιος Ἀπολλων[ί]ου
+r.4    τοῦ Δι[ο]γένους μητρὸς Τανεχωταρίου τῆς [καὶ] Εὐτέρπης Διογένους ἀπʼ Ὀξυρύγχων πόλεως
+r.5    ἀπὸ τῆς αὐτῆς πόλεως, ἐν ἀγυιᾷ,
+r.6    οὐ δυνάμενος διʼ ἀ[σ]θένειαν
+r.7    πλεῦσαι ἐπὶ [τ]ὸν τοῦ νομοῦ
+r.8    διαλογισμ[ό]ν, αὐτόθεν συνεστακέναι τὸν
+r.9    τὸν ὑπὲρ αὐτοῦ λόγον ποιησόμενον περὶ τῶν πρὸς αὐτὸν
+r.10   ζητηθησομέ[ν]ων ἐπί τε τοῦ
+r.11   κρατίστου ἡγεμ[ό]νος Πετρωνίου
+r.12   [Μαμ]ερτείνου καὶ τοῦ ἐπιστρατή[γο]υ Γελλίου Βά[σ]σου ἢ κ[α]ὶ ἐφʼ ἑτέρων κριτῶν κ[αὶ] πάντα ἐπιτελέσοντα περὶ τῶν [κ]ατὰ τὴν σύστασιν,
+r.13   εὐδοκεῖ γὰρ ἐπὶ τούτοις.
+r.14   [κυρία ἡ ὁμολο]γία.
+
+[TRANSLATION]
+# HGV-EN: The 19th year of the Emperor Caesar Trajanus Hadrianus Augustus, Tubi __, at Oxyrhynchus in the Thebaid. Apollonius son of Apollonius son of Diogenes, his mother being Tanechotarion also called Euterpe, daughter of Diogenes, of Oxyrhynchus, acknowledges to _____, of the said city (the contract taking place in the street), since he is unable through sickness to make the voyage to the assize of the nome, that he has forthwith appointed _____ to represent him in the inquiry to be held against him before his highness the praefect Petronius Mamertinus or the epistrategus Gellius Bassus or other judges, and to carry out everything concerned with the trial; for he gives his consent on these terms. The agreement is valid.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

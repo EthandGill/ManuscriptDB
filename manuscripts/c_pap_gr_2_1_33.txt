@@ -1,0 +1,82 @@
+[META]
+id:       C.PAP.GR 2.1.33
+label:    C.PAP.GR 2.1.33
+name:     Documentary papyrus — Sentrempaei (Arsinoites)
+genre:    documents
+date:     136 CE
+language: Greek (Koiné)
+found:    Sentrempaei (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Sentrempaei (Arsinoites) (136 CE)
+# hgv-keywords: Anzeige — Tod
+tm:       12901
+source:   https://papyri.info/ddbdp/c.pap.gr;2.1;33
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἀπολλωνίωι βασιλικῶι
+r.2    γραμματεῖ Ἀρσινοίτου Θεμίστου
+r.3    παρὰ Θερμίου τῆς Σαταβοῦτος τῶν ἀπὸ κώμης
+r.4    Σεντρεπασεὶ τῆς αὐτῆς
+r.5    μερίδος μετὰ κυρίου [τοῦ] συνγενοῦς Πνεφερῶτος
+r.6    τοῦ Ἀρείου. ὁ προγεγραμμένος
+r.7    μου πατὴρ Σαταβοῦς
+r.8    Πανίβιος μητρὸς
+r.9    Ταρμούθιος ὑπερετὴς
+r.10   ἀναγραφόμενος ἐπὶ τῆς
+r.11   αὐτῆς κώμης ἐτελεύτησεν τῶι Θὼθ μηνὶ τοῦ
+r.12   ἐνεστῶτος πρώτου
+r.13   καὶ εἰκοστοῦ ἔτους Ἁδριανοῦ
+r.14   Καίσαρος τοῦ κυρίου. ἀξιῶ
+r.15   ταγῆναι αὐτοῦ τὸ ὄνομα ἐν τῇ τῶν τετελευτηκότων
+r.16   τάξει ὡς ἐπὶ τῶν ὁμοίων.
+r.17   Θέρμιον ὡς ἐτῶν μθ οὐλὴ δακτύλῳ πρώτῳ χειρὸς …
+r.18   Πνεφερῶς ὡς ἐτῶν με οὐλὴ δακτύλῳ χειρὸς ἀριστερᾶς.
+r.19   ἔτους κα Αὐτοκρά[τορος Καίσα]ρος
+r.20   Τραιανοῦ Ἁδριανοῦ Σεβαστοῦ
+r.21   Φαῶφι κθ.
+r.22   τῶι κωμογραμματεῖ. εἰ ταῖς ἀληθείαις
+r.23   ἐτελεύτησεν ὁ προγεγραμμένος, ἐπιτέλει ὡς καθήκει,
+r.24   ὡς πρὸς σὲ τοῦ λόγου
+r.25   ἐσομένου, ἐάν τι παρὰ
+r.26   τὸ δέον γένηται. Ἀνουβίων γραμματεὺς σεσημείωμαι.
+r.27   ἔτους κα Ἁδριανοῦ Καίσαρος
+r.28   τοῦ κυρίου Ἁθὺρ ϛ.
+r.29   Θερ[μοῦτ]ις Σαταβ[οῦτ]ος ὑπόμνημα. ἔτους κα
+r.30   Ἁθρὺ ζ.
+
+[TRANSLATION]
+# HGV-EN: ‘Apollonius, basilicogrammateus of the division of Themistes of the Arsinoite nome, from Thermioutis daughter of Satabous of the village of Sentrepasei in the said division, acting with her guardian Pnepheros son of Areius, her relative. My aforesaid father Satabous son of Panibis and Tarmouthis, aged over 60, registered in the said village, died in the month Thoth of the present 31st year of Hadrianus Caesar the lord. I request that his name be placed on the list of deceased persons, as in similar cases. Thermioutis, aged about 49, having a scar on the first finger of her … hand. Pnepheros, aged about 45, having a scar on the finger of his left hand. The 21st year of the Emperor Trajanus Hadrianus Augustus, Phaophi 39. ‘To the comogrammateus: if the aforesaid is in truth deceased, do what is proper, knowing that you will be held responsible if any contravention of what is right occurs. Signed by me, Anoubioh, scribe. The 21st year of Hadrianus Caesar the lord, Hathur 6. ‘Return of Thermioutis daughter of Satabous. The 21st year, Hathur 7.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    
+30    

@@ -1,0 +1,30 @@
+[META]
+id:       PSI 3.268
+label:    PSI 3.268
+name:     Receipt — Theben
+genre:    receipts
+date:     134 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (134 CE)
+# hgv-keywords: Quittung
+tm:       24397
+source:   https://papyri.info/ddbdp/psi;3;268
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ιη ἔτους
+r.2    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.3    Παχὼν κε ὑπὲρ Ἀγορῶν ὀνόματος Ἀσκλᾶς
+r.4    Ἀσκλᾶτος Π … ιος διὰ Ἑρμίου
+r.5    καὶ μετόχων πυροῦ τρεῖς γίνονται πυροῦ γ Η σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

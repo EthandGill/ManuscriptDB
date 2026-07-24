@@ -1,0 +1,22 @@
+[META]
+id:       P.ROSS.GEORG 2.5
+label:    P.ROSS.GEORG 2.5
+name:     Documentary papyrus — Memphis
+genre:    documents
+date:     135 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Documentary papyrus from Memphis (135 BCE)
+# hgv-keywords: Vermerk (Registrierung)
+tm:       2856
+source:   https://papyri.info/ddbdp/p.ross.georg;2;5
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    ἔτους κε Ἐπεὶφ ιε ἐν Μέμφει ἀναγέγραπται διὰ Ἰάσονος.
+
+[TRANSLATION]
+1     

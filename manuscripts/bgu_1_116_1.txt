@@ -1,0 +1,52 @@
+[META]
+id:       BGU 1.116_1
+label:    BGU 1.116_1
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     189 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (189 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       8889
+source:   https://papyri.info/ddbdp/bgu;1;116_1
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    ξβ
+r.2    [Ἁρποκρατίω]ν[ι] τ[ῷ κ]αὶ Ἱέρακι β[ασιλικῷ]
+r.3    [γραμματεῖ Ἀρσινοΐτου] Ἡρ[ακλείδου][ με]ρίδος
+r.4    [παρὰ] Ὡ[ριγέ]νους Ἰσιδ[ώ]ρο[υ]
+r.5    [τῶν ἀπὸ] τῆ[ς] μ[ητρ]οπόλεως ἀπογε[γρ]αμμένου
+r.6    [ἐπʼ ἀμφόδου ] … ερω Θε … μι … . ὑπάρχει μοι
+r.7    ἐπʼ ἀμφόδου Βιθ[υ]νῶν Ἰσίωνος δίμοιρον μέ[ρ]ος
+r.8    [οἰκίας καὶ ][αὐ]λῆς, ἐν ᾧ ἀπογράφομαι εἰς τὴν
+r.9    [τοῦ διεληλυθότος κη ἔτους κατʼ ][ο]ἰκίαν ἀπογραφὴν
+r.10   [ἐπὶ τοῦ αὐτοῦ ἀμ]φόδ[ου] Γυμνασίου,
+r.11   [ἐφʼ οὗ κ]αὶ τ[ῇ] τοῦ ιδ ἔτους ἀπογραφῇ
+r.12   [ἀπε]γραψάμην. καί ἐστιν Μέλας Ἡρα[κλ]ᾶτος Ζηνᾶ μητρὸς … ν …
+r.13   … λαογραφούμενος … υγ ἔτους … Ὡριγένης ἐπιδέδωκα.
+r.14   ἔτους κθ Αὐρηλίου Κομμόδου
+r.15   [Ἀντωνείνο]υ Καίσαρος [τοῦ] κυρίου Μεσορὴ ἐπαγομενῶν ε.
+
+[TRANSLATION]
+# HGV-EN: (m. 3) 62 (m. 1) To [Harpokratio]n alias Hierax, [royal scribe] of the [Arsinoite nome], Herakleides division, [from] Ho[rige]nes, son of Isid[o]ro[s of those from] the metropolis, registered [in the quarter M]eron The[.]mi . There belongs to me in the quarter of the Bithynians of Ision two thirds of a house and courtyard, in which I register for the house-by-house registration [of the past year 28] in the same Gymnasium quarter, in which I registered in the registration of year 14 as well. And there is Melas, son of Hera[kl]as, the son of Zenas, mother NN workman subject to poll-tax, [.]8 years old. (m. 2) I, Horigenes, have submitted (this registration) (m. 1) Year 29 of Aurelius Commodus [Antoninu]s Caesar, the lord, Mesore intercalary day 5.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

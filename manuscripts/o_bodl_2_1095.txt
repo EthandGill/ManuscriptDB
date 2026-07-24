@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1095
+label:    O.BODL 2.1095
+name:     Receipt — Theben
+genre:    receipts
+date:     69 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (69 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71782
+source:   https://papyri.info/ddbdp/o.bodl;2;1095
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … καὶ μέτοχοι τελῶναι
+r.2    … [Π]ετενεφώτῃ χαίρειν. ἔχομεν τέλος
+r.3    [καμήλω]ν θηλειῶν ὧν ἠγόρακας
+r.4    [παρ]ὰ Μενχῆς. ἔτους α Αὐτοκράτορος
+r.5    [Μάρ]κου Ὄθωνος Καίσαρος Σεβαστοῦ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

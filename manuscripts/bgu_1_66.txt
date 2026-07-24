@@ -1,0 +1,40 @@
+[META]
+id:       BGU 1.66
+label:    BGU 1.66
+name:     Receipt — Bakchias (Arsinoites)
+genre:    receipts
+date:     163 CE
+language: Greek (Koiné)
+found:    Bakchias (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Bakchias (Arsinoites) (163 CE)
+# hgv-keywords: Quittungen — Steuern
+tm:       9110
+source:   https://papyri.info/ddbdp/bgu;1;66
+lat:      29.536946
+lon:      31.0041595
+
+[GREEK]
+r.1    ἔτους γ Μάρκου Αὐρηλίου
+r.2    Ἀντωνίνου Εὐσεβοῦς
+r.3    Εὐτυχοῦς Σεβαστοῦ Μεχεὶρ ϛ.
+r.4    διέγραψεν Ὡρίωνι καὶ μετόχοις
+r.5    πράκτορσιν [ἀρ]γυρικῶν Βακχιάδος
+r.6    Λόνγο[ς] τελεσμάτων β ἔτους
+r.7    δευτέρου ἔτους δραχμὰς ὀκτώ γίνονται δραχμαὶ η
+r.8    Φαμενὼθ δ δραχμὰς
+r.9    ὀκτώ γίνονται δραχμαὶ η. ὁμοίως ἄλλας δραχμὰς ὀκτώ γίνονται δραχμαὶ η καὶ μὴ χρησάμενος ἑ[τέρ]ῳ συνβόλῳ
+
+[TRANSLATION]
+# HGV-EN: Year 3 of Marcus Aurelius Antoninus Pius Felix Augustus, Mecheir 6. Paid: Horion and his associates, collectors of [money taxes] of Bakchias, (on account of) Longos for the taxes of year 2 in the second year eight drachmas, = 8 drachmas. Phamenoth 4 eight drachmas, = 8 drachmas. Likewise a further eight drachmas, = 8 drachmas. And he did not avail himself another receipt.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

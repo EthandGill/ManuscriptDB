@@ -1,0 +1,44 @@
+[META]
+id:       P.Oxy. 72.4862
+label:    P.Oxy. 72.4862
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     122 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (122 CE)
+# hgv-keywords: Auftrag an den Sitologen von Ophis (diastolikon) — Giro - Überweisung von Weizen
+tm:       114242
+source:   https://papyri.info/ddbdp/p.oxy;72;4862
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Κλαύδιος Γερμαν[ὸς] οἰκονόμος
+r.2    Κλαυδίου Μουνατιανοῦ νεωτέρου
+r.3    σιτολόγῳ Ὤφεως χαίρειν.
+r.4    διάστειλον ἀφ’ οὗ ἔχεις τοῦ
+r.5    προγεγραμμένου Κλαυδίου
+r.6    Μουνατιανοῦ θέματος
+r.7    Δημητρίωι ἢ οἷς ἐὰν αἱρῆται
+r.8    πυροῦ γενήματος ϛ ἔτους Ἁδριανοῦ
+r.9    Καίσαρος τοῦ κυρ[ί]ου ἀρτάβας
+r.10   τριάκοντα [τέ]σσαρας ἥμισυ τέταρτον, γίνονται ἀρτάβαι λδ.
+r.11   ἔτους ϛ Ἁδριανοῦ Κ[αίσαρος τ]οῦ κυρίου
+
+[TRANSLATION]
+# HGV-EN: Claudius Germanus, steward of Claudius Munatianus the younger, to the sitologus of Ophis, greetings. Transfer, from the amount you hold on deposit for the aforesaid Claudius Munatianus, to Demetrius or to whomever he chooses, from the wheat-crop of the 6th year of Hadrianus Caesar the lord, thirty-four (and) a half (and) one-quarter artabas, total 34 art. Year 6 of Hadrianus Caesar the lord, month, day. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

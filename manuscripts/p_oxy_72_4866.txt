@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 72.4866
+label:    P.Oxy. 72.4866
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     122 CE – 123 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (122 CE – 123 CE)
+# hgv-keywords: Auftrag an den Sitologen von Ophis (?) (diastolikon) — Giro - Überweisung von Weizen
+tm:       114246
+source:   https://papyri.info/ddbdp/p.oxy;72;4866
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    [Δίδυμ]ος Πτολεμαίου τοῦ Πτολεμαίου σιτολόγῳ [ἀπηλιώτου] [τοπαρχίας]
+r.2    [Ὤφεως] [τόπων] χαίρειν. διάστειλον ἀφ’ οὗ ἔχεις μ[ου ἐν θέματι]
+r.3    [πυροῦ γε]νήματος τοῦ διελθόντος ἕκτου [ἔτους]
+r.4    [Ἁδριανοῦ Καί]σαρος τοῦ κυρίου Δημητρίωι Διογέν[ους]
+r.5    … [Φοβ]ωου πυροῦ ἀρτάβας τριάκοντα …
+r.6    … ἔτους ἑβδόμου Ἁδριανοῦ Καίσαρος τοῦ [κυρίου, ]
+
+[TRANSLATION]
+# HGV-EN: Didymus son of Ptolemaeus, grandson of Ptolemaeus, to the sitologus of the eastern(?) toparchy, district of Ophis(?), greetings. Transfer, from the amount you hold on deposit for me, from the wheat-crop of the past sixth year of Hadrianus Caesar the lord, to Demetrius son of Diogenes(?), . . . (for his account) at Phoboou, thirty . . . artabas of wheat. Year seventh of Hadrianus Caesar the lord, (month, day). (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

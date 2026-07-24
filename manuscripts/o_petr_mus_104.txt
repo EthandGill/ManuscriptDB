@@ -1,0 +1,26 @@
+[META]
+id:       O.PETR.MUS 104
+label:    O.PETR.MUS 104
+name:     Receipt — Theben
+genre:    receipts
+date:     92 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (92 BCE)
+# hgv-keywords: Quittung — Speicher — Getreide
+tm:       75317
+source:   https://papyri.info/ddbdp/o.petr.mus;;104
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κβ Φαρμοῦθι … [ μεμέτρηκεν εἰς τὸν ἐν Διὸς]
+r.2    [π]όλει τῆι μεγάληι θησαυρὸν …
+r.3    [Δω]σίθεος Ψα …
+
+[TRANSLATION]
+1     
+2     
+3     

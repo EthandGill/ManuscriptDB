@@ -1,0 +1,58 @@
+[META]
+id:       CHREST.WILCK 490
+label:    CHREST.WILCK 490
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     193 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (193 CE)
+# hgv-keywords: Erlaß des Präfekten Mantennius Sabinus — Feierlichkeiten in Alexandria anläßlich der Besteigung (Thron) von Pertinax
+tm:       9286
+source:   https://papyri.info/ddbdp/chrest.wilck;;490
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Μαντέ[ν]νιος Σαβεῖνος στρατηγοῖς ζ νομῶν
+r.2    καὶ Ἀρσινοΐτου χαίρειν. τοῦ πεμφθέντος εἰς
+r.3    τὴν λαμπρ[ο]τάτην Ἀλεξάνδρειαν
+r.4    διατάγματος ὑπʼ ἐμοῦ ἀντίγραφον ὑποταγῆναι ἐκέλευσα, ἵνα πάντες εἰδῆτε καὶ ταῖς ἴσαις ἡμέραις ἑορτάσητ[α]ι. ἐρρῶσθε ὑμᾶς βούλομαι.
+r.5    ἔτους α [Αὐτο]κράτορος Καίσαρος Πουβλίου
+r.6    Ἑλ[ουί]ου Περτίνακος Σεβαστοῦ Φαμε[ν]ὼθ ι. ἀντίγραφον διατάγματος·
+r.7    ἑορ[τ]άζοντας ὑμᾶς ἐπὶ τῇ εὐτυχ[ε]στάτῃ βασιλίᾳ τοῦ κυρίου
+r.8    ἡμῶν Αὐτοκράτορος Πουβλίου
+r.9    Ἁ[λουίο]υ Περτίν[ακ]ος τοῦ Σεβ[αστο]ῦ
+r.10   [πρώτ]ου τῆς ἱ[ε]ρ[ᾶς] συνκ[λ]ήτ[ου]
+r.11   π[ατρ]ὸς πατρίδος καὶ Πουβλίου
+r.12   Ἑ[λουίο]υ [Π]ερτίνακος τοῦ υἱέος
+r.13   [αὐτοῦ] καὶ Φ[λ]αυίας Τιττιανῆς
+r.14   [Σεβασ]τῆς [ἀ]κόλουθόν ἐστιν,
+r.15   [ὦ ἄνδρ]ες Ἀλεξανδρεῖς, πανδημεὶ
+r.16   [θ]ύο[ν]τας καὶ εὐχομένους ὑπέρ τε
+r.17   τοῦ διηνεκοῦς αὐτοκρατοῦς
+r.18   κ[αὶ] [το]ῦ σύνπαντος οἴκου στεφα[νηφ]ορῆσαι ἡμέρας πεντεκαίδε[κα] [ἀ]ρξαμένους ἀπὸ τῆς σήμ[ερο]ν.
+
+[TRANSLATION]
+# HGV-EN: Mante[n]nius Sabinus to the strategoi of the 7 nomes and of the Arsinoite greetings. I have ordered a copy of the edict sent by me to the most glorious Alexandria, to be appended, so that you are all informed and celebrate festivals for the same number of days. I wish you good health. Year 1 of Imperator Caesar Publius Hel[vi]us Pertinax Augustus, Phamenoth 10. Copy of the edict. It is fitting that you celebrate festivals for the most fortunate accession of our lord, Imperator Publius He[lviu]s Pertinax Augustus, princeps of the holy senate, father of his country, and of Publius H[elviu]s [P]ertinax, [his] son, and of F[l]avia Titiana Augusta, O men of Alexandria, offering sacrifices in full assembly and prayers on behalf of his lasting empire and all his house and wearing garlands for fifteen days beginning from today.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

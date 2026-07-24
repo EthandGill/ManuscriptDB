@@ -1,0 +1,38 @@
+[META]
+id:       P.SELECT 4
+label:    P.SELECT 4
+name:     Contract — unbekannt
+genre:    contracts
+date:     501 CE – 700 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Contract from unbekannt (501 CE – 700 CE)
+# hgv-keywords: Fragment — Arbeitsvertrag — Lohn — Kyria - Klausel
+tm:       36063
+source:   https://papyri.info/ddbdp/p.select;;4
+lat:      
+lon:      
+
+[GREEK]
+r.1    … [ δέξασθαι παρὰ σοῦ λ]όγῳ μ[ι]σθο[ῦ π]αντὸς [τ]οῦ χρόνου χρυσοῦ νομισμάτια
+r.2    [ἐννέα ἥμισυ] … τῇ ἐμῇ τροφῇ ἐκ τοῦ ἐμοῦ μισθο[ῦ]· προσομολογῶ δὲ
+r.3    [ἐσχηκέναι παρὰ σοῦ ἐντεῦθεν ἤδη διὰ χειρὸς λόγῳ ἀρραβῶνος χρυσοῦ] νομισμάτια δύο , τὰ δὲ ἄλλα νομισμάτ[ια] ἑπτὰ ἥμισυ
+r.4    … με· μὴ ἐξεῖν[αι δ]έ μοι ἐντὸς τοῦ χρόνου ἀναχωρεῖν ἀπὸ σοῦ
+r.5    [ἄνευ αἰτίας τινὸς ] … [ ἐὰν δέ ἀπαλλ]άξωμαι δώσω σοι λόγῳ προστίμου χρυσοῦ νομι[σμάτια ] …
+r.6    … [ ἐὰν δὲ βούλῃ ἐκβαλεῖν με ἐκ τῆς χρείας πρὸ συμπληρώσ]εως τοῦ χρόνου δίχα εὐλόγου αἰτίας [ὑ]ποκεῖσθαι τῷ ἴ[σῳ]
+r.7    [προστίμῳ. κυρία ἡ ὁμολογία ἁπλῆ γραφεῖσα καὶ ἐπερωτηθεὶς ὡμολόγησα] ὑπ[ο]θέμενος εἰς τὰ προγεγραμμένα πάντα ἅπαν[τα τὰ]
+r.8    [ὑπάρχοντα καὶ ὑπάρξοντά μοι ] … ὑποθήκης δικαίῳ καὶ ἐνεχύρ[ου] λ[όγῳ ] …
+
+[TRANSLATION]
+# HGV-EN: ... I have received by way of payment for the complete period nine golden solidi and a half ... out of my wages for my food. And moreover, I acknowledge receipt of two golden solidi received already as earnest-money, and the remaining seven solidi and a half ..., and that it is impossible for me to leave you before the end of this period without reason ..., but if I should run away, I shall give you ... golden solidi by way of fine ... and that you, if you should want to dismiss me before the end of this period without due reasons, will be subject to the same fine. The agreement, drawn up in single copy (or: in duplicate), is valid and in answer to the formal question I have given my assent, giving as a pledge for everything that has been written above everything I have ans hall have ... by right of mortgage and as security ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

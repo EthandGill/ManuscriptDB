@@ -1,0 +1,56 @@
+[META]
+id:       P.Oxy. 72.4889
+label:    P.Oxy. 72.4889
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     176 CE – 177 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (176 CE – 177 CE)
+# hgv-keywords: Auftrag an die Sitologen von Talao (diastolikon) — 13 Giro - Überweisungen von Weizen
+tm:       114270
+source:   https://papyri.info/ddbdp/p.oxy;72;4889
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Ἀπολλώνιος ὁ καὶ Εὐδαίμων Εὐδαίμονος
+r.2    ἀπʼ Ὀξυρύγχων πόλεως σιτολόγοις Ταλαω μέσης τόπων
+r.3    χαίρειν. διαστείλατε ἀφʼ ὧν ἔχετέ μου
+r.4    πυροῦ γενή[μα]τος τοῦ διελθόντος ιϛ Αὐρηλίου
+r.5    Ἀντωνίνου Καίσαρος τοῦ κυρίου Ἀθηνοδώρῳ καὶ Διονυσίῳ Σενοκώμεως ἀρτάβας κ, γίνονται
+r.6    ἀρτάβαι εἴκοσι, Ταχνού[β]ει Ἀμμωνίου μητρὸς
+r.7    Ἁράσιος Ταλαω ἀρτάβας δ, γίνονται ἀρτάβαι τέσσαρες,
+r.8    Κρονοῦτι Νεοπτολέμου Παώμεως ἀρτάβης 𐅸, Τήεως ἀρτάβας δ δ η
+r.9    Ἀμμωνᾶτι Ὠφελᾶτος Τήεως ἀρτάβης 𐅸, Ἰσχυρᾶτι
+r.10   Ἰσχυρ Σενεψαυ ἀρτάβην α η, γίνονται ἀρτάβαι ἑπτά, Διδυμ
+r.11   χρηματίζ μητρὸς Σινθώνιος Θώλθεως μέσης ἀρτάβας ε, γίνονται ἀρτάβαι πέντε,
+r.12   Ἀπολλωνίῳ Ἀλεξάνδρου ἀρτάβας λη δ χοίνικας β, γίνονται ἀρτάβαι τριάκοντα
+r.13   ὀκτὼ τέταρτον χοίνικες δύο, Ἡρῶτι Πτολεμαίου
+r.14   Ἰσείου Νεσλα ἀρτάβην α η, τῇ αὐτῇ Ἀθύχεως ἀρτάβην α η,
+r.15   Διονυσίᾳ καί Ταπεκύσει Ἀθύχεως καὶ Ποΰνεως ἀρτάβην α η χοίνικας η,
+r.16   [Ἡ]ρωίδι Ἀρχ Ἀθύχ[εως ἀρτάβας δ] δ, γίνονται ἀρτάβαι τέσσαρες τέταρτον
+r.17   [Σ]αραπίωνι … αρτ … χοίνικες ὀκτώ,
+
+[TRANSLATION]
+# HGV-EN: Apollonius alias Eudaemon, son of Eudaemon, from the city of the Oxyrhynchi, to the sitologi of the district of Talao Middle, greetings. Transfer, from the amount you hold for me, from the wheat-crop of the past 16th year of Aurelius Antoninus Caesar the lord, to Athenodorus and Dionysius, (for their account) at Senocomis, 20 art., total twenty artabas; to Tachnubis daughter of Ammonius, mother Harasis, (for her account) at Talao, 4 art., total four artabas; to Cronous daughter of Neoptolemus, (for her account) at Paomis, ¾ art., (and) at Teis, 4 ¼ ⅛ art.; to Ammonas son of Ophelas, (for his account) at Teis, ¾ art.; to Ischyras son of Ischyr—, (for his account) at Senepsau, 1 ⅛ art., total seven artabas; to Didym— officially known as the son/daughter of Sinthonis, for (his/ her account) at Tholthis Middle, 5 art., total five artabas; to Apollonius son of Alexander, 38 ¼ art. 2 choen., total thirty-eight (and) one-quarter artabas (and) two choenices; to Heros daughter of Ptolemaeus, (for her account) at Is(i)eion Nesla, 1 ⅛ art.; to the same (Heros), for (her account) at Athychis, 1 ⅛ art.; to Dionysia and Tapecysis, (for their account) at Athychis and Poynis, 1 ⅛ art. 8 choen.; to Herois daughter of Arch—, (for her account) at Athychis, 4 ¼ art., total four (and) one-quarter artabas; to Sarapion son of . . . eight choenices . . . (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

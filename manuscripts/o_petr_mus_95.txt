@@ -1,0 +1,26 @@
+[META]
+id:       O.PETR.MUS 95
+label:    O.PETR.MUS 95
+name:     Receipt — Theben
+genre:    receipts
+date:     110 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (110 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       43375
+source:   https://papyri.info/ddbdp/o.petr.mus;;95
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἱεροῦ ϛ.
+r.2    ἔτους ζ Παχὼν ιη μεμέτρηκεν ζ ἔτους
+r.3    Κόνων Δώρου πυροῦ δέκαπέντε γίνονται πυροῦ ιε.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,40 @@
+[META]
+id:       SB 30.17780
+label:    SB 30.17780
+name:     Contract — Oxyrhynchos (Oxyrhynchites, Ägypten)
+genre:    contracts
+date:     100 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (Oxyrhynchites, Ägypten)
+held:     Melbourne
+shelf:    
+content:  Contract from Oxyrhynchos (Oxyrhynchites, Ägypten) (100 CE)
+# hgv-keywords: Registrierung (?) — Kauf (Land)
+tm:       20585
+source:   https://papyri.info/ddbdp/sb;30;17780
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … βιβ … λ
+r.2    διὰ … ἀγορανόμου.
+r.3    Διονύσιος ὁ καὶ Ἄμοις ἐπιτηρητὴς καὶ χειριστὴς καταλοχισμῶν Ὀξυρυγχίτου
+r.4    τοῖς ἀγορανόμοις χαίρειν. Δημητροῦτος τῆς Ἀμμωνίου παρακ[ε]χωρημένης ὑπὸ Πτολέμας τῆς Διονυσίου μετὰ κυρίου τοῦ ἀνδρὸς Ἁρποκρατίωνος τοῦ Πτολεμαίου καθ’ ὁμολογία[ν] γεγονυῖαν διὰ τοῦ ἐν Ὀξυρύγχων πόλει ἀγορανομείου τῷ ἐνεστῶτι μηνὶ Φαῶφι τὰς ὑπαρχούσας αὐτῇ περὶ Σκὼ ἐκ τοῦ Στραβᾶ
+r.5    κλήρου κατοικικῆς καὶ [ἐ]ωνημένης
+r.6    ἀρούρας πεντήκοντα, μεταδίδωμι ἵν’ εἰδῆτε. ἔρρωσθε. ἔτους
+r.7    τετάρτου Αὐτοκράτορος Καίσαρο[ς]
+r.8    Νέρουα Τραιανοῦ Σεβαστοῦ Γερμαν[ι]κοῦ
+r.9    Φαῶφι κβ.
+
+[TRANSLATION]
+# HGV-EN: Dionysius alias Amois, superintendent and assistant of the katalochismoi registers of the Oxyrhynchite (nome), to the agoranomi, greetings. Demetrous, daughter of Ammonius, has had ceded to her by Ptolema, daughter of Dionysius, with her husband Harpocration, son of Ptolemaeus, as guardian, in accordance with the contract executed through the notarial office (agoranomeion) in the city of Oxyrhynchi, in the present month Phaophi, the fifty arouras of catoecic and bought (land) belonging to me (sic) around Sko from the allotment of Strabas. I communicate (this) so that you may know. Farewell. Year four of Imperator Caesar Nerva Traianus Augustus Germanicus, Phaophi 22.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

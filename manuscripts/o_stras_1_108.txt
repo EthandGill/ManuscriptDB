@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.108
+label:    O.STRAS 1.108
+name:     Receipt — Theben
+genre:    receipts
+date:     103 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (103 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75708
+source:   https://papyri.info/ddbdp/o.stras;1;108
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψε Πικῶς Παποντῶτος Πικῶτος ὑπὲρ
+r.2    μερισμοῦ ἀνδριάντος ε ἔτους τριώβολον. ἔτους ϛ Τραιανοῦ Καίσαρος
+r.3    τοῦ κυρίου Μεσορὴ λ.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 1.20
+label:    O.BODL 1.20
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     245 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (245 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       44073
+source:   https://papyri.info/ddbdp/o.bodl;1;20
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους γ Παῦνι κη διὰ Διονυσοδώρου
+r.2    ἁλικῆς
+r.3    Ψενασοῦχε δραχμ α.
+
+[TRANSLATION]
+1     
+2     
+3     

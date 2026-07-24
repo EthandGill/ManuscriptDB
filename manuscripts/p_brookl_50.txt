@@ -1,0 +1,28 @@
+[META]
+id:       P.BROOKL 50
+label:    P.BROOKL 50
+name:     Receipt — Charax (Theben)
+genre:    receipts
+date:     180 CE
+language: Greek (Koiné)
+found:    Charax (Theben)
+held:     
+shelf:    
+content:  Receipt from Charax (Theben) (180 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       18074
+source:   https://papyri.info/ddbdp/p.brookl;;50
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Θὼθ κε τοῦ [κα ἔτους ὀνόματος]
+r.2    Πικῶτος Μεσουήριος καὶ Φ …
+r.3    Μεσουήριος ὑπὲρ γεωμετρίας κ ἔτους Χάρακος
+r.4    δραχμὰς τέσσερας, γίνονται δραχμαὶ δ. Ε …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

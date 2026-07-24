@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.439
+label:    O.BODL 2.439
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (101 CE – 300 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71140
+source:   https://papyri.info/ddbdp/o.bodl;2;439
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ κζ τοῦ α ἔτους ὀνόματος
+r.2    Ἐσμίνιος Ἑριέως ὑπὲρ ἐπικεφαλαίου
+r.3    καὶ ἄλλων Ἀγορῶν δραχμὰς δύο ὀβολὸν
+r.4    γίνονται δραχμαὶ β ὀβολὸς. Δωρίων σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,26 @@
+[META]
+id:       O.NYU 33
+label:    O.NYU 33
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     5 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (5 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869436
+source:   https://papyri.info/ddbdp/o.nyu;;33
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λδ Τυβι ια τέλους ταριχευτ- λγ ἔτους
+r.2    Ἅρπηκις Σισόιτος δραχμὰς δέκα μίαν, γίνονται ια. Πίσηχθις.
+
+[TRANSLATION]
+# HGV-EN: Year 34, Tybi 11, for tax on tarich(eut- ) of the 33rd year, Harpekis son of Sisois, eleven (dr.), that is, 11 ⟨dr.⟩. Pise(chthis?).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

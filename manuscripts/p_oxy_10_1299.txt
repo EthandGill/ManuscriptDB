@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 10.1299
+label:    P.Oxy. 10.1299
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (301 CE – 400 CE)
+# hgv-keywords: Brief (privat) — Psais und Syra an Ision — Bericht über Genesung — Zubereitung von Nahrungsmitteln
+tm:       33637
+source:   https://papyri.info/ddbdp/p.oxy;10;1299
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    κυρίῳ μου υἱῷ Ἰσίων[ι] Ψᾶεις καὶ Σύρα
+r.2    πολλὰ χαίρειν.
+r.3    πρὸ μὲν πάντων εὔχομαί σε ὑγιαίνειν καὶ ὁλοκληρεῖν παρὰ τῷ κυρίῳ θεῷ· ἀσπάζεταί σοι πολλὰ Θῶνις ὁ [ἀ]δελφός
+r.4    σου. ἔπειτα ἀπὸ τοῦ νέου ἔτους πολλὰ ἐνοσοῦμεν, ἀλλὰ εὐχαριστοῦ[μ]εν τῷ θεῷ ὅτι πεπαυμένοι ἐσμέ[ν], καὶ μέχρι τούτου
+r.5    οὐ τεθύκαμεν τὰ χοιρίδια. προσδοκοῦμέν σοι ὅτι ἔρχε[ι]. οἶδας ὅτι πέρυσι οὐκ ἐταριχεύσαμεν γαρηρά, ἐφέτος δ[ὲ] ἐποιήσαμεν καὶ ἐὰν γένηται, ἑτοιμάσω αὐτὸ ἕως ἔρχῃ. καθὼς
+r.6    ἐνετειλάμην σ[ο]ι [περ]ὶ λωβιν μαχαιρῶν καὶ περὶ πιπεράδιον. ἀσπάζονταί σε [οἱ] ἀδελφοί σου Ὡρίων καὶ Ἡραΐσκος,
+r.7    ἀσπάζονταί σε Ἀν … ν καὶ τὰ τέκνα αὐτῆς, ἀσπάζονταί σε Ταχῶσ[ις] καὶ ὁ ἀνὴρ αὐτῆς, ἀσπάζονταί σε
+r.8    Τριάδελφος καὶ ἡ σύνβιος αὐτοῦ καὶ τὰ τέκνα αὐτοῦ.
+r.9    ἀσπάζομαι Κάμοκον καὶ τὸν οἶκον αὐτοῦ, ἀσπάζομαι τὸν Ἑψάτην καὶ τὴν σύνβιον αὐτοῦ σὺν
+r.10   τοῖς τέκνοις, ἀσπάζομαι Ἁτρῆν καὶ Ψέκη καὶ
+r.11   τοὺς ἡμῶν πάντα[ς] κατʼ ὄνομα.
+r.12   ἐρρῶσθαι ὑμᾶς εὔχομαι
+r.13   [ε]ἰς πολλοὺς χρόνους. Ἁθὺρ ι.
+r.14   ἀπόδος Ἰσίωνι … ρα … παρὰ Σύρας καὶ Ψάειτος γονέων.
+
+[TRANSLATION]
+# HGV-EN: To my lord and son Ision from Psaïs and Syra, many greetings. Before all else I pray to the Lord God for your health and prosperity; Thonis your brother sends you many salutations. Next, since the new year we have been very ill, but we give thanks to God that we have recovered; and up to the present time we have not sacrificed the pigs. We are expecting you to come. You know that on your account we have not salted any fish, but we have made the pickle yearly, and, if possible, I will prepare it for your coming. Do as I told you about the ... of knives and the pepper. Your brothers Horion and Heraiscus salute you, An...n and her children salute you, Tachosis and her husband salute you, Triadelphus and his wife and children salute you. I salute Kamokos and his household, I salute Hepsates and his wife with their children, I salute Hatres, Pseke, and all our friends by name. I pray for your long-continued health. Hathur 10. (Addressed) Deliver to Ision ... from his parents Syra and Psaïs.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

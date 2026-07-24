@@ -1,0 +1,56 @@
+[META]
+id:       P.Oxy. 6.891
+label:    P.Oxy. 6.891
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     294 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (294 CE)
+# hgv-keywords: Brief (amtlich) — die Bule von Oxyrhynchos an den Exegeten Ptoleminos alias Sarmates — Bestellung zu einer speziellen Aufgabe — Aufwendungen werden erstattet
+tm:       20354
+source:   https://papyri.info/ddbdp/p.oxy;6;891
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [ἐπὶ ὑ]πάτων τῶν κυρίων ἡμῶ[ν]
+r.2    [Κων]σταντί[ο]υ καὶ Μαξιμιανοῦ
+r.3    τῶν ἐπιφανεστάτων Καισάρων.
+r.4    Ὀξυρυγχιτῶν τῆς λαμπρᾶς καὶ
+r.5    λαμπροτάτης πόλεως ἡ κρατίστη βουλὴ διʼ Αὐρηλίου Κορνηλιανοῦ
+r.6    διασημοτάτου ἐνάρχου πρυτάνεως
+r.7    Πτολεμείνῳ τῷ καὶ Σαρμάτῃ
+r.8    ἐξηγητῇ τῷ φιλτάτῳ χαίρειν.
+r.9    ἐξηγητοῦ ζητουμένου εἰς τὰς
+r.10   α … ας Ἐπεὶφ ἕως ιζ,
+r.11   ἔδοξεν ὥστε σὲ μὲν προστῆναι, τὰ δὲ ἀναλώματα
+r.12   ἀπὸ τοῦ κοινοῦ τῶν ἀπὸ
+r.13   τοῦ τάγματος δοθῆναι· καὶ
+r.14   ἵνα τοῦτο εἰδέναι ἔχοις
+r.15   ἐπιστέλλεταί σοι, φίλτατε.
+r.16   ἐρρῶσθαί σε εὐχόμεθα,
+r.17   φίλτατε.
+
+[TRANSLATION]
+# HGV-EN: In the consulship of Valerius Constantius and Valerius Maximianus, the most renowned Caesars, The most high senate of the illustrious and most illustrious city of Oxyrhynchus through Aurelius Cornelianus ..., prytanis in office, to their dearest Ptoleminus also called Sarmates, exegetes, greeting. An exegetes being required for the ... of Epeiph up to the 17th, it was decided that you should preside, while the expenses should be paid by the whole body of those belonging to the order. This letter is accordingly sent to you, dear friend, for your information, We pray for your health, dear friend.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

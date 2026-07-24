@@ -1,0 +1,26 @@
+[META]
+id:       O.LEID 113
+label:    O.LEID 113
+name:     Receipt — Theben
+genre:    receipts
+date:     134 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (134 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24683
+source:   https://papyri.info/ddbdp/o.leid;;113
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … [ὑπὲρ λαογραφίας κα]ὶ [β]α[λανευτικοῦ] Χάρακος ιη ἔτους
+r.2    ῥυπαρὰς δραχμὰς δώδεκα,
+r.3    γίνονται ῥυπαραὶ δραχμαὶ ιβ. ἔτους ιη Ἁδριανοῦ τοῦ κυρίου Φαρμοῦθι ιγ.
+
+[TRANSLATION]
+1     
+2     
+3     

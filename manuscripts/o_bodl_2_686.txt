@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.686
+label:    O.BODL 2.686
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (101 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71376
+source:   https://papyri.info/ddbdp/o.bodl;2;686
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Εἰρηνίων καὶ μέτοχοι τελῶναι
+r.2    θησαυροῦ ἱερῶν Πετεαρουήρει
+r.3    Καμήτιος χαίρειν. ἀπέχομεν βαλανευτικὸν τοῦ
+r.4    δ ἔτους Τραιανοῦ Φαρμοῦθι κϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

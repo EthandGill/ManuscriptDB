@@ -1,0 +1,40 @@
+[META]
+id:       APF 67.351
+label:    APF 67.351
+name:     Receipt — Theadelphia (Arsinoites)
+genre:    receipts
+date:     134 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     New York
+shelf:    
+content:  Receipt from Theadelphia (Arsinoites) (134 CE)
+# hgv-keywords: Quittung — Zoll — Geld
+tm:       321934
+source:   https://papyri.info/ddbdp/apf;67;351
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ἔτους ὀκτωκαιδεκάτου
+r.2    Αὐτο[κ]ρ[άτορος Καί]σα[ρ]ος Τραιανοῦ
+r.3    Ἁδριανοῦ Σεβαστοῦ Ἐπεὶφ κϛ
+r.4    εἰς ἀρίθμησιν Παῦνι. διέγραψεν
+r.5    Ἀφροδίσιος Φιλίππου
+r.6    διὰ Στοτοήτιος ἐπιτηρητοῦ ἑκατοστῆς πεντηκοστῆς πύλης
+r.7    Διονυσιάδος ὀκτωκαιδεκάτου ἔτους
+r.8    δραχμὰς ἑκατὸν ὀγδοήκοντα τέσσαρας τριώβολον,
+r.9    γίνονται δραχμαὶ ρπδ τριώβολον.
+
+[TRANSLATION]
+# HGV-EN: Eighteenth year of Imperator Caesar Traianus Hadrianus Augustus, Epeiph 26, for the accounting period of Pauni. Aphrodisios, son of Philippos, paid through Stotoetis, superintendent of the 1-and-2% toll of the gate of Dionysias for the eighteenth year, one hundred eighty-four drachmas, three obols, which come to 184 dr., 3 ob.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

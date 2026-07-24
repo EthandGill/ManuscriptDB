@@ -1,0 +1,64 @@
+[META]
+id:       ZPE 194.194_1
+label:    ZPE 194.194_1
+name:     Receipt — Fundort: Theadelphia ? (Arsinoites); Schreibort: Theadelphia (Arsinoites)
+genre:    receipts
+date:     116 CE
+language: Greek (Koiné)
+found:    Fundort: Theadelphia ? (Arsinoites); Schreibort: Theadelphia (Arsinoites)
+held:     Ann Arbor
+shelf:    
+content:  Receipt from Fundort: Theadelphia ? (Arsinoites); Schreibort: Theadelphia (Arsinoites) (116 CE)
+# hgv-keywords: Quittung — Rückzahlung — Darlehen — Geld
+tm:       397805
+source:   https://papyri.info/ddbdp/zpe;194;194_1
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ὀφείλημα λ
+r.2    ἔτους ἐννεακαιδεκάτου Αὐτοκράτορος Καίσαρος
+r.3    Νέρ[ο]υα Τραι[αν]οῦ Ἀρίστου Σεβαστοῦ Γερμανικοῦ
+r.4    Δακ[ικ]ο[ῦ] Παρθικοῦ, μηνὸς Καισαρείου
+r.5    τετ[ράδι] καὶ ε[ἰκά]δι, ἐν Θεαδελφείᾳ τῆς Θεμίστου
+r.6    μερίδος [τοῦ] Ἀρσινοΐτου νομοῦ. ὁμολογεῖ
+r.7    Εἰρηναῖος Ἀφροδισίου, ὡς ἐτῶν τεσσεράκοντα
+r.8    δύο, οὐλὴ [γασ]τροκνημίᾳ δεξιᾷ, Ἥρωνι
+r.9    Ἑρμᾶ, ὡς [ἐτῶν] τ[ε]σσαράκοντα, οὐλὴ μετ[ώ]πῳ μέσῳ, [ἀ]πέχειν παρ’ αὐτοῦ ἀργυρίου
+r.10   δραχμ[ὰς] [ἑκατ]όν, ἃς ὤφειλεν
+r.11   ὁ Ἥρω[ν τῷ] Εἰρηναίωι, ὥς φησιν, κα[θ’]
+r.12   ὁμ[ολο]γίαν, ἣν καὶ προφέρεται παραπεπτωκέναι καὶ συγχωρεῖ ὁ Εἰρ[η]ναῖος ἄκυρον εἶναι ἑαυτῶι τε καὶ
+r.13   παντ[ὶ] τῶι ἐποίσοντι καὶ μηδὲν
+r.14   τὸν Εἰρηναῖον ἐγκαλεῖν μηδ’ ἐγκαλέσειν τῶι Ἥρωνι μηδὲ τοῖς παρ’ αὐτοῦ,
+r.15   μήτε περὶ ὧν ἀπέσχηκεν, καθότι πρόκειται, μηδὲ περὶ τόκων μηδὲ περὶ
+r.16   ἑτέρου ἁπλῶς πράγματος
+r.17   ἐγγράπτου ἀγράφου μέχρι τῆς
+r.18   ἐνεστώσης ἡμέρας τρόπῳ
+r.19   μηδενί. ἡ συγγραφή κυρία.
+r.20   ὑπογραφεὺς τοῦ Ἥρωνος
+r.21   … Ἀφροδισίου
+
+[TRANSLATION]
+# HGV-EN: Debt (?). 30. In the nineteenth year of Emperor Caesar Nerva Traianus Optimus Augustus Germanicus Dacicus Parthicus, on the twenty–fourth day of the month Kaisareios, in Theadelpheia in the Themistos division of the Arsinoite nome. Eirenaios, son of Aphrodisios, about forty-two years old, with a scar on the right calf of his leg acknowledges to Heron, son of Hermas, about forty years old, with a scar in the middle of his forehead, that he has received back from him one hundred drachmas in silver which Heron owed to Eirenaios, as he says, according to a contract which is claimed to have been lost and Eirenaios admits that it is invalid for him and for everyone who should bring it forth and that Eirenaios neither makes nor will make any claim against Heron or his assigns either about these things he has received, as stated above, or about the interest on them or about any other matter at all, written or unwritten, up to the present day, in any manner. The contract is incontestable. Subscriber for Heron ... of Aphrodisios.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    

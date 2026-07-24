@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1980
+label:    O.BODL 2.1980
+name:     Receipt — Theben
+genre:    receipts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (1 CE – 100 CE)
+# hgv-keywords: Quittung
+tm:       72656
+source:   https://papyri.info/ddbdp/o.bodl;2;1980
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Νιλεῦς Πακύβει καὶ
+r.2    Πετεχνούβει χαίρειν.
+r.3    ὁμολογοῦμεν ἀπέχειν
+r.4    εἰς πετ ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

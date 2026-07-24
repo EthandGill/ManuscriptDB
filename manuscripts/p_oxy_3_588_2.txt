@@ -1,0 +1,24 @@
+[META]
+id:       P.Oxy. 3.588_2
+label:    P.Oxy. 3.588_2
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     108 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (108 CE)
+# hgv-keywords: Vertrag — Kauf — Land — Parachoresis
+tm:       20660
+source:   https://papyri.info/ddbdp/p.oxy;3;588_2
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    παραχώρησις
+r.2    Φαμενὼθ α
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,26 @@
+[META]
+id:       O.EREM 23
+label:    O.EREM 23
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (101 CE – 200 CE)
+# hgv-keywords: Quittung — Abgaben
+tm:       27667
+source:   https://papyri.info/ddbdp/o.erem;;23
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … ν Ἀμωνίου καὶ Πετεαμγεὺς Ἀλουλίου καὶ οἱ μέτοχοι
+r.2    τελῶναι γερδίων Ἰναρῶτι χαίρειν. ἀπέχομεν
+r.3    παρὰ σοῦ ὑπὲρ τέλους Παχὼν δραχμὰς β ὀβολὸν.
+
+[TRANSLATION]
+1     
+2     
+3     

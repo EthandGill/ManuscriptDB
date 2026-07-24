@@ -1,0 +1,32 @@
+[META]
+id:       O.BRUX 8
+label:    O.BRUX 8
+name:     Receipt — Theben
+genre:    receipts
+date:     113 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (113 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       24373
+source:   https://papyri.info/ddbdp/o.brux;;8
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα εἰς θησαυρὸν μητροπόλεως γενήματος ιϛ ἔτους
+r.2    Τραιανοῦ Καίσαρος τοῦ κυρίου Ἐπεὶφ θ ὀνόματος Ὀννώφριος
+r.3    Ψενμίνιος πυροῦ ἀρτάβης ϛ καὶ ὀνόματος Πάφιος Πάφιος πυροῦ ἀρτάβης τρίτον
+r.4    γίνεται πυροῦ ἀρτάβης γ. Γάιος σεσημείωμαι.
+r.5    Γερμανὸς Ὡρίωνος πράκτωρ σιτικῶν μητροπόλεως
+r.6    [Ὀννώφρει] Ψενμίνιος. ἔσχον πυροῦ ἀρτάβης τέταρτον .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

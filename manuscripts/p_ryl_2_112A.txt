@@ -1,0 +1,44 @@
+[META]
+id:       P.RYL 2.112A
+label:    P.RYL 2.112A
+name:     Receipt — Theadelphia (Arsinoites)
+genre:    receipts
+date:     250 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Theadelphia (Arsinoites) (250 CE)
+# hgv-keywords: Quittung für Opfer (Decius, Christenverfolgung)
+tm:       12907
+source:   https://papyri.info/ddbdp/p.ryl;2;112A
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    τοῖς ἐπὶ τῶν θυσιῶν ᾑρημένοις
+r.2    παρὰ Αὐρηλίας Σουήλεως μητρὸς
+r.3    Ταήσεως ἀπὸ κώμης Θεαδελφείας.
+r.4    καὶ ἀεὶ μὲν θύουσα καὶ εὐσεβοῦσα τοῖς
+r.5    θεοῖς διετέλεσα καὶ νῦν ἐπὶ παρόντων ὑμῶν κατὰ τὰ προσταχθέντα [ἔ]θυσα καὶ ἔσπεισα καὶ τῶν ἱερείων ἐγευσάμην, καὶ [ἀ]ξιῶ ὑμᾶς
+r.6    ὑποσημειώσασθαι διευτυχεῖτε.
+r.7    Αὐρήλιοι Σερῆνος καὶ Ἑρμᾶς εἴδαμέν σε θυσιάζουσαν.
+r.8    Ἑρμᾶς σεσημείωμαι.
+r.9    ἔτους α Αὐτοκράτορος Καίσαρος Γαίου
+r.10   Μεσσίου Κυίντου Τραιανοῦ Δεκίου
+r.11   Εὐσεβοῦς Εὐτυχοῦς Σεβαστοῦ Παῦνι κϛ.
+
+[TRANSLATION]
+# HGV-EN: ‘To the commissioners of sacrifices from Aurelia Soueris whose mother is Taesis, of the village of Theadelphia. It has ever been my habit to sacrifice and pay reverence to the gods, and now I have in your presence, in accordance with the commands, made sacrifice and libation and tasted the offerings, and I beg you to certify my statement. Farewell. We, Aurelius Serenus and Aurelius Hermas saw you sacrificing. I, Hermas, have signed. The 1st year of the Emperor Caesar Gaius Messius Quintus Trajanus Decius Pius Felix Augustus, Pauni 26.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

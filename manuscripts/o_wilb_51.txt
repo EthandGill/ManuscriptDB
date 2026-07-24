@@ -1,0 +1,30 @@
+[META]
+id:       O.WILB 51
+label:    O.WILB 51
+name:     Receipt — Theben
+genre:    receipts
+date:     107 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (107 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       76560
+source:   https://papyri.info/ddbdp/o.wilb;;51
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ι, Μεσορὴ ιη μεμέτρηκεν εἰς τὸ
+r.2    [ι] ἔτος Ἀπολλώνιος Πραξίου πυροῦ ἀρτάβας
+r.3    [δέ]κα μίαν ἥμισυ γίνονται ια 𐅵
+r.4    [ἄλ]λας πυροῦ ἀρτάβας δέκα δύο 𐅵 γ
+r.5    γίνονται ιβ 𐅵 γ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

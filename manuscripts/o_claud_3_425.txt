@@ -1,0 +1,30 @@
+[META]
+id:       O.CLAUD 3.425
+label:    O.CLAUD 3.425
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     136 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (136 CE)
+# hgv-keywords: Quittung — Empfang — Ration (Öl, Linsen)
+tm:       73608
+source:   https://papyri.info/ddbdp/o.claud;3;425
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Σατορν[εῖλος Ἀ]λεξάνδρῳ κιβαρ[ιάτῃ] χαίρειν.
+r.2    ὁμολογῶ ἀπέχειν τὸ τρικότυλόν μου τοῦ ἐλαίου
+r.3    καὶ τὸ μάτιον τοῦ φακοῦ
+r.4    ὃ καὶ ἀποδώσις Εἰσίωνι
+r.5    μηνὸς Φαωφι. Σατορνεῖλος ἀπέχω.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       O.Wilck. 381
+label:    O.Wilck. 381
+name:     Receipt — Theben
+genre:    receipts
+date:     39 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (39 CE)
+# hgv-keywords: Quittung — Geld
+tm:       76898
+source:   https://papyri.info/ddbdp/o.wilck;;381
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Πτόλις Ψενενούφιος
+r.2    ὑπὲρ κουρέων γ ἔτους δύο ὀβολὸν γίνονται δραχμαὶ β ὀβολὸς
+r.3    καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου. ἔτους γ Γαίου Καίσαρος
+r.4    [Σε]βαστοῦ Γερμανικοῦ
+r.5    Μεσορὴ ζ. Π … τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

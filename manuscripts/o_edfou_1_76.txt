@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.76
+label:    O.EDFOU 1.76
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     107 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (107 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       47016
+source:   https://papyri.info/ddbdp/o.edfou;1;76
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [Πεσοῦ]ρις Ἰάσωνος
+r.2    [Φίλω]νος λαογραφίας ι ἔτους Τραιανοῦ
+r.3    [τοῦ] κυρίου δραχμὰς δ
+r.4    [ἔτους ι] Φαρμοῦθι ιβ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

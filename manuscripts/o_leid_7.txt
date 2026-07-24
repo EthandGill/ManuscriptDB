@@ -1,0 +1,32 @@
+[META]
+id:       O.LEID 7
+label:    O.LEID 7
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     153 BCE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     
+shelf:    
+content:  Receipt from Hermonthis (153 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       5926
+source:   https://papyri.info/ddbdp/o.leid;;7
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    ἔτους κη Παχὼν
+r.2    κζ τέτακται ἐπὶ τὴν ἐν Ἑρμώνθει τράπεζαν,
+r.3    ἐφʼ ἧς Διονύσιος σφραγισμοῦ μόσχων
+r.4    κη ἔτους Ἀσκληπιάδης
+r.5    οὗ ἀλλαγὴ τρεισχιλίας τριακοσίας, γίνονται Γτ.
+r.6    Διονύσιος τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

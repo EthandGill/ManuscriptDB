@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB 44
+label:    O.THEB 44
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     78 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Sydney
+shelf:    
+content:  Receipt from Theben (Ägypten) (78 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76414
+source:   https://papyri.info/ddbdp/o.theb;;44
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θέων καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν Μαιεύρι
+r.2    Ἁρφμόιτος καὶ Ψεναμούνει ἀδελφῷ χαίρειν. ἔσχομεν
+r.3    τὸ βαλανικὸν τοῦ ι ἔτους Οὐεσπασιανοῦ
+r.4    τοῦ κυρίου Παχὼν α.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

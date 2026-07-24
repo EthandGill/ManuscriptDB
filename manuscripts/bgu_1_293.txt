@@ -1,0 +1,50 @@
+[META]
+id:       BGU 1.293
+label:    BGU 1.293
+name:     Receipt — Ptolemais Nea (Arsinoites)
+genre:    receipts
+date:     150 CE
+language: Greek (Koiné)
+found:    Ptolemais Nea (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Ptolemais Nea (Arsinoites) (150 CE)
+# hgv-keywords: Quittungen — Miete — Kopie
+tm:       9038
+source:   https://papyri.info/ddbdp/bgu;1;293
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἀντίγραφον συμβόλου.
+r.2    ἔτους δωδεκάτου
+r.3    Αὐτοκράτορος Καίσαρος
+r.4    Τίτου Αἰλίου Ἁδριανοῦ
+r.5    Ἀντωνίνου Σεβαστοῦ Εὐσεβοῦς
+r.6    Ἁθὺρ κα. διέγραψε Ἀρτεμιδώρῳ
+r.7    καὶ μετόχοις ἐπιτηρηταῖς
+r.8    Πασίων τῶν περιγεινομένων ια ἔτους Πτολεμαίδος
+r.9    Νέας ἐνοικίου [δραχμὰς]
+r.10   δώδεκα, δραχμὰς ιβ.
+r.11   ιγ ἔτους Τῦβι κβ. ὁ αὐτὸς δι[έγραψε ὡ]σαύ[τω]ς περιγεινομένων
+r.12   [τ]οῦ δ[ιελη]λυθότος
+r.13   [δ]ωδεκάτου ἔτους
+r.14   δραχμαὶ ὀκτώ .
+
+[TRANSLATION]
+# HGV-EN: Copy of a receipt. Year twelve of Imperator Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, Hathyr 21. Pasion paid to Artemidoros and his associates, overseers, for the income of year 11 of Ptolemais Nea for rent on houses twelve [drachmas], 12 drachmas. Year 13, Tybi 22. The same person paid likewise for the income of the past year twelve, eight drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

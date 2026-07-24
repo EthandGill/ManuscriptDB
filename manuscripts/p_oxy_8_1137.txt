@@ -1,0 +1,32 @@
+[META]
+id:       P.Oxy. 8.1137
+label:    P.Oxy. 8.1137
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     562 CE – 563 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (562 CE – 563 CE)
+# hgv-keywords: Quittung — öffentliche Abgaben auf Land
+tm:       21755
+source:   https://papyri.info/ddbdp/p.oxy;8;1137
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἔσχον καὶ ἐπληρώθην [παρά] Μακάριος βουκόλος κώμης Σεραπίονος Χαιρήμωνος
+r.2    ὑπὲρ δημοσίου κτήματος Ἀκοῦτος ὑπὲρ ἑνδεκάτης ἰνδικτίωνος πλήρης χρυσοῦ κεράτια
+r.3    εἴκοσι τέταρτον, γίνεται χρυσοῦ κεράτια κ δ δημοσίου πλήρης, καὶ πρὸς τὴ[ν] ἀσφάλειαν
+r.4    τὴν ἀποχὴ[ν] ὡς πρόκειται. ἐγράφη μηνὶ Τῦβι ἰνδικτίωνος ια ἔτους σλθ ση.
+r.5    διʼ ἐμοῦ Ἱερημίου γραμματέως καὶ Φοιβάμμωνος μείζονος. στοιχεῖ μοι.
+
+[TRANSLATION]
+# HGV-EN: I, Macarius, assistant at the village of Serapion son of Chaeremon, have received and been paid in full on account of the public dues upon the land of Akous for the eleventh indiction, twenty and a quarter carats of gold, total 20 1/4 car. gold for dues in full, and for security (have issued) the receipt as above. Written in the month Tubi of the 11th indiction in the 239th which = the 208th year. (Signed) Through me, Jeremiah, scribe, and Phoebammon, official; agreed to by me.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

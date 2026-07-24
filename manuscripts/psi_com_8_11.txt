@@ -1,0 +1,26 @@
+[META]
+id:       PSI.COM 8.11
+label:    PSI.COM 8.11
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     485 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (485 CE)
+# hgv-keywords: Anweisung — Kirche an Serenos (Metzger) — Lieferung — Fleisch
+tm:       121935
+source:   https://papyri.info/ddbdp/psi.com;8;11
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    [ ἡ ἁγία ἐκκλησία Σερ]ήνῳ μαγείρῳ
+r.2    [παράσχου κρέως λίτρας ἕξ γίνονται λίτραι ϛ ἔτους ρξα ρλ Μ]εχεὶρ κγ η ἰνδικτίονος
+r.3    [ σεσημείωμαι κρέως λίτρας ἕξ γίνονται] κρέως λίτραι ϛ
+
+[TRANSLATION]
+1     
+2     
+3     

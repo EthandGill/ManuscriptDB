@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 1.125
+label:    O.BODL 1.125
+name:     Receipt — Elephantine (?)
+genre:    receipts
+date:     122 BCE
+language: Greek (Koiné)
+found:    Elephantine (?)
+held:     
+shelf:    
+content:  Receipt from Elephantine (?) (122 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       4637
+source:   https://papyri.info/ddbdp/o.bodl;1;125
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Δίδυμος καὶ οἱ παρʼ αὐτοῦ Τέλει
+r.2    ἔχομεν παρὰ Ὥρου καὶ τῆς
+r.3    γυναικὸς καὶ τοῦ υἱοῦ αὐτοῦ τὸ
+r.4    τέλος τῆς ζυτηρᾶς.
+r.5    ἔτους μθ Φαῶφι κα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

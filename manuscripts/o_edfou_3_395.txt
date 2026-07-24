@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 3.395
+label:    O.EDFOU 3.395
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     3 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (3 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       48966
+source:   https://papyri.info/ddbdp/o.edfou;3;395
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Πετεσθεὺς Παχομβῆκις
+r.2    ὑπὲρ τοῦ βαλανείου τοῦ
+r.3    λβ ἔτους Καίσαρος Φαμενὼθ δραχμὴν α
+
+[TRANSLATION]
+1     
+2     
+3     

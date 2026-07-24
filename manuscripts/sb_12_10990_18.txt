@@ -1,0 +1,30 @@
+[META]
+id:       SB 12.10990_18
+label:    SB 12.10990_18
+name:     Documentary papyrus — Abu Mena
+genre:    documents
+date:     401 CE – 600 CE
+language: Greek (Koiné)
+found:    Abu Mena
+held:     
+shelf:    
+content:  Documentary papyrus from Abu Mena (401 CE – 600 CE)
+# hgv-keywords: Anweisung — Lohn — Zahlung — Geld
+tm:       34935
+source:   https://papyri.info/ddbdp/sb;12;10990_18
+lat:      30.8416054715
+lon:      29.6670462965
+
+[GREEK]
+r.1    [πάρασχε τὸ φαγεῖν]
+r.2    [πατητῶννομίσματα][ι]γ,
+r.3    [κληρικῶν νομίσματα] γ,
+r.4    [ἀποστασαρίο]υ νόμισμα α·
+r.5    [Ἀλεξαν]δρείας νόμισμα α
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

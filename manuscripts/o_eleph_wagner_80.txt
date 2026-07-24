@@ -1,0 +1,26 @@
+[META]
+id:       O.ELEPH.WAGNER 80
+label:    O.ELEPH.WAGNER 80
+name:     Receipt — Elephantine
+genre:    receipts
+date:     155 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (155 CE)
+# hgv-keywords: Quittung
+tm:       24254
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;80
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ιη ἔτους Ἀ[ντωνίνου][ Καίσαρος τοῦ κυρίου Φαρμοῦ]θι κ. [διέγραψαν ] …
+r.2    μητρὸς Σε[ν] … [ καὶ ] …
+r.3    Πλή[νιος ] … [ ὑπὲρ ] …
+
+[TRANSLATION]
+1     
+2     
+3     

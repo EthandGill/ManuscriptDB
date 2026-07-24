@@ -1,0 +1,28 @@
+[META]
+id:       O.ELEPH.WAGNER 90
+label:    O.ELEPH.WAGNER 90
+name:     Letter — Elephantine
+genre:    letters
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Letter from Elephantine (201 CE – 300 CE)
+# hgv-keywords: Brief (amtlich) — Annius an den Strategen Aurelius Theon
+tm:       32233
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;90
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Αὐρ]ηλίῳ Θέωνι …
+r.2    … ῳ στρατηγῷ …
+r.3    … παρὰ Ἀννί[ου ] …
+r.4    … ενο …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

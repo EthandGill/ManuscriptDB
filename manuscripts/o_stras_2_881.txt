@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 2.881
+label:    O.STRAS 2.881
+name:     Receipt — Theben (Notos)
+genre:    receipts
+date:     181 CE
+language: Greek (Koiné)
+found:    Theben (Notos)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos) (181 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       80506
+source:   https://papyri.info/ddbdp/o.stras;2;881
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μέτρημα θησαυροῦ] μητροπόλεως γενήματος κα
+r.2    [Κομμόδου] Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.3    [ ὑπὲρ] Νότου ὀνόματος Ὥρου Πετεχεσποχράτου
+r.4    [Χαβον]χώνσιος διὰ γεωργοῦ Ψάιτος Ὀννώφριος
+r.5    [πυροῦ] [τεσσ]άρας, γίνονται πυροῦ δ. Ἀμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,32 @@
+[META]
+id:       BGU 2.528
+label:    BGU 2.528
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       28174
+source:   https://papyri.info/ddbdp/bgu;2;528
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ιδ ἔτους Φαῶ[φι ] … [ διέγραψε]
+r.2    Μάρων Πτολεμαίου
+r.3    ὑπὲρ μονοδεσμίας
+r.4    χόρτου καὶ ἄλλων εἰ[δῶν]
+r.5    τοῦ διεληλυθότος ιγ ἔτους δραχμὰς εἴκοσι γίνονται δραχμαὶ κ μ … [ σύμ]βολον.
+
+[TRANSLATION]
+# HGV-EN: Year 14, Phao[phi x]. Maron, son of Ptolemaios, [paid] for monodesmia of hay and other dues of the past year 13 twenty drachmas, = 20 drachmas, , receipt charge.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

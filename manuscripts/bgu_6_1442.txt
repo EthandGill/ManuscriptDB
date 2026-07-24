@@ -1,0 +1,26 @@
+[META]
+id:       BGU 6.1442
+label:    BGU 6.1442
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     107 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (107 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       4731
+source:   https://papyri.info/ddbdp/bgu;6;1442
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους ι Παχὼν ιδ εἰσμεμέτρηκεν εἰς θησαυρὸν
+r.2    Ἀπόλλωνος πόλεως εἰς τὸ αὐτὸ ἔτος Ἀραβίας Παχιρεθ[α]βάχθις Ψεναι πυροῦ μίαν ἥμισυ
+r.3    γίνονται πυροῦ α 𐅵. Κάστωρ.
+
+[TRANSLATION]
+1     
+2     
+3     

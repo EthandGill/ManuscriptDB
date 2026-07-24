@@ -1,0 +1,62 @@
+[META]
+id:       P.Oxy. 6.896coli
+label:    P.Oxy. 6.896coli
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     316 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (316 CE)
+# hgv-keywords: Bericht eines Malers an den Logistes — Voranschlag (Kosten) zur Ausmalung — zum Streichen eines Bades — Geld
+tm:       20358
+source:   https://papyri.info/ddbdp/p.oxy;6;896coli
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ρκζ
+r.2    Οὐαλερίῳ Ἀμμωνιανῷ τῷ καὶ Γεροντίῳ λ[ογιστῇ Ὀξυρυγχίτου]
+r.3    παρὰ Αὐρηλίου Ἀρτεμιδώρου Ἀρσινόου ἀπὸ τῆς
+r.4    λαμπρᾶς καὶ λαμπροτάτης Ὀξυρυγ χιτῶν πόλεως ζωγράφου τὴν
+r.5    ἐπιστήμην. ἐπιζητούσῃ τῇ σῇ ἐμμελείᾳ τὴν
+r.6    σύνοψιν τῶν δεομένων τόπων ζωγραφίας
+r.7    τοῦ εὐτυχῶς ἐπισκευαζομένου Τραιανῶν
+r.8    Ἁδριανῶν θερμῶν δημοσίου τῆς
+r.9    αὐτῆς πόλεως βαλανίου, κατὰ ταῦτα δηλῶ χρῄζειν εἰς λόγον ζωγραφίας τῶν τε δεομένων
+r.10   τόπων τῶν δύο ψυχροφόρων καὶ ἐμβατικοῦ
+r.11   [θ]όλου ἑνὸς καὶ ἀνδρομηκιαίων ὅλου ξυστοῦ
+r.12   [εἰ]σόδων καὶ ἐξόδων καὶ παραθολίων τεσσάρων
+r.13   [τ]οῦ ἐξωτέρου ξυστοῦ καὶ τῶν ἄλλων τόπων
+r.14   [εἰς μ]ὲν τιμὴν χρωμάτων ἀργυρίου δηναρίων
+r.15   [μυριάδ] … εου ζωγραφίας ὅλων ἔργων
+r.16   [ἀργυρίου δηναρίων ][μυ]ριάδα μίαν · ὅπερ
+r.17   [προσφωνῶ. ] …
+r.18   [ὑπατείας Καικινίου Σαβίνο]υ καὶ Οὐεττίου Ῥουφίνου
+r.19   [τῶν λαμπρωτάτων ] … Αὐρήλιος Ἀρτεμίδωρος
+r.20   [ἐπιδέδωκα. Αὐρήλιος ] … ων ἔγραψα ὑπὲρ αὐτοῦ μὴ εἰδότος.
+
+[TRANSLATION]
+# HGV-EN: To Valerius Ammonianus also called Gerontius, logistes of the Oxyrhynchite nome, from Aurelius Artemidorus son of Arsinotis, of the illustrious and most illustrious city of Oxyrhynchus, a painter by profession. In reply to the request of your grace for an inspection of the places requiring painting in the public bath of the said city now auspiciously under repair at the warm baths of Trajanus Hadrianus, I hereby declare that for the painting of the parts requiring it—of the two cold water conductors, and one vapour-bath, and the entrances and exits of the entire colonnade, and four passages round the vapour-bath in the outer colonnade, and the other places—there is required for cost of paint ... thousand denarii of silver, and of the ... painting of the whole work ten thousand denarii of silver; which I therefore report. The consulship of Caecinius Sabinus and Vettius Rufinus the most illustrious, . .. (Signed) I, Aurelius Artemidorus, have presented the report. I, Aurelius... on wrote for him, being illiterate.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

@@ -1,0 +1,42 @@
+[META]
+id:       P.CAIR.MICH 2.12c
+label:    P.CAIR.MICH 2.12c
+name:     Documentary papyrus — Karanis (Arsinoites)
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Karanis (Arsinoites) (101 CE – 200 CE)
+# hgv-keywords: Bericht — kriminelle (?) Ereignisse — Fragment
+tm:       397531
+source:   https://papyri.info/ddbdp/p.cair.mich;2;12c
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    … τῆς τρύγης δὲ β … βα …
+r.2    … τα πάντα αὐτοῦ ἔργα γεγο …
+r.3    … σεβους κτήματος καὶ του …
+r.4    … [μετ]ὰ ὀλίγας ἡμέρας δὲ Πασιω …
+r.5    … [ἠ]γόρακε αὐτῶι Ὀννωφρι …
+r.6    … [κα]τ’ ἀρχαίους, εἰργμένοι εἰς ισ …
+r.7    … [ἀδελ]φός σου ἔλεγε τῷ ὀνηλάτ[ῃ] …
+r.8    … ων εἰς χλωροφαγίαν τῶν …
+r.9    … νοῦθιν καὶ ὑπέρχηται λα …
+r.10   … τετρακοσίας δέσμας χ[όρτου] …
+
+[TRANSLATION]
+# HGV-EN: … of the vintage …, all his activities (have been performed?) …, of the productive possession and the … However, after a few days, Pasion … bought for Onnophris himself …, according to the old calendar; they were shut into …, your brother said to the donkey driver …, onto the prairy of the …? four hundred bundles of hay.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

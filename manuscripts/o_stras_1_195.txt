@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.195
+label:    O.STRAS 1.195
+name:     Receipt — Theben
+genre:    receipts
+date:     116 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (116 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75792
+source:   https://papyri.info/ddbdp/o.stras;1;195
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἰμούθης πράκτωρ ἀργυρικῶν
+r.2    Πι … Πα Ἀπολλοδώρου.
+r.3    ἔσχον ὑπὲρ χωματικοῦ Ἀγορᾶς βορρᾶ ιθ ἔτους ῥυπαρὰς δραχμὰς ἑπτὰ πεντώβολον γίνονται δραχμαὶ ζ πεντώβολον δίχαλκον.
+r.4    ἔτους κ Τραιανοῦ τοῦ κυρίου Θὼτ κε. Κομ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

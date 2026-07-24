@@ -1,0 +1,26 @@
+[META]
+id:       O.BANKES 89
+label:    O.BANKES 89
+name:     Receipt — Elephantine
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuer (?)
+tm:       699563
+source:   https://papyri.info/ddbdp/o.bankes;;89
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Θιναρο μερ[ισμ] …
+r.2    γίνονται δραχμαὶ η. ἔτους …
+r.3    τοῦ κυρίου.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,26 @@
+[META]
+id:       ZPE 217.172_1
+label:    ZPE 217.172_1
+name:     Documentary papyrus — Arsinoites ?
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Arsinoites ?
+held:     London
+shelf:    
+content:  Documentary papyrus from Arsinoites ? (101 CE – 200 CE)
+# hgv-keywords: Vorladung
+tm:       942810
+source:   https://papyri.info/ddbdp/zpe;217;172_1
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … [ἀν]άπεμψον Ἀμμωνίλλαν
+r.2    … [ἐγκαλου]μένους ὑπὸ Πακύσεως
+
+[TRANSLATION]
+# HGV-EN: … Send up Ammonilla (and …), who are accused by Pakysis …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

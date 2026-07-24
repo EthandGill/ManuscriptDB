@@ -1,0 +1,22 @@
+[META]
+id:       P.Oxy. 4.822
+label:    P.Oxy. 4.822
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     1 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (1 CE)
+# hgv-keywords: Brief (privat) — Lysimachos an seinen Bruder — εὖ πράσσειν statt χαίρειν in der Formel (Gruß)
+tm:       20474
+source:   https://papyri.info/ddbdp/p.oxy;4;822
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    εὖ πράσσειν
+
+[TRANSLATION]
+1     

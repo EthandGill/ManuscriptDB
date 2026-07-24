@@ -1,0 +1,44 @@
+[META]
+id:       P.Oxy. 10.1291
+label:    P.Oxy. 10.1291
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     30 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (30 CE)
+# hgv-keywords: Brief (privat) — Zois an Ischyrion — Sendung von Getreide — Mitfahrgelegenheit nach Alexandria
+tm:       21763
+source:   https://papyri.info/ddbdp/p.oxy;10;1291
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ζωὶς Ἰσχυρίωνι τῶι ἀδελφῷ
+r.2    χαίρειν.
+r.3    οὐδ[εί]ς μοι ἤνεγκεν
+r.4    ἐπιστολὴν περὶ ἄρτων,
+r.5    ἀλλʼ εὐθέως, εἰ ἔπεμψας διὰ Κολλούθου
+r.6    ἐπιστολήν, ἰδοὺ ἀρτάβη σοι γίνεται. ἐὰν
+r.7    δὲ θέλῃς εἰς Ἀλεξάνδρεια[ν] ἀπελθεῖν, Ἀπολλὼς Θέωνος ὑπάγει
+r.8    αὔριον. ἔρρωσο.
+r.9    ἔτους ιζ Τιβερίου Καίσαρος Σεβαστοῦ
+r.10   μηνὸς Νέου Σεβαστοῦ κθ.
+r.11   Ἰσχυρίωνι.
+
+[TRANSLATION]
+# HGV-EN: Zoïs to Ischyrion her brother, greeting. No one has brought me a letter about the bread, but if you send a letter by Colluthus, an artaba will come to you immediately. If you wish to depart for Alexandria, Apollos son of Theon is going tomorrow. Good-bye. The 17th year of Tiberius Caesar Augustus, the 29th of the month Neus Sebastus. (Addressed) To Ischyrion.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

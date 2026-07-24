@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.1000
+label:    O.BODL 2.1000
+name:     Receipt — Theben
+genre:    receipts
+date:     176 CE – 225 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (176 CE – 225 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71688
+source:   https://papyri.info/ddbdp/o.bodl;2;1000
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἐπεὶφ κζ τοῦ ε ἔτους ὀνόματος Ψενσενμώνθου Λολοῦτος Πετεχώνσιος
+r.2    ὑπὲρ τιμῆς φοινίκων γενήματος δ ἔτους διοικήσεως μητροπόλεως
+r.3    δραχμὰς τέσσαρας γίνονται δραχμαὶ δ. … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,26 @@
+[META]
+id:       P.Oxy. 10.1316
+label:    P.Oxy. 10.1316
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     57 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (57 CE)
+# hgv-keywords: Vertrag
+tm:       21766
+source:   https://papyri.info/ddbdp/p.oxy;10;1316
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐν ἀγυιᾷ
+r.2    ὁμολογεῖ … μήτʼ αὐτὸν τὸν ὁμο[λογοῦντα μ]ηδʼ ἄλλον ὑπὲρ αὐτοῦ ἐνκαλ[εῖν μηδὲ ἐνκαλέσειν] …
+r.3    Και[σα]ρείου ἐπαγομένων γ
+
+[TRANSLATION]
+1     
+2     
+3     

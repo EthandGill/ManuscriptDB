@@ -1,0 +1,64 @@
+[META]
+id:       P.HARR 3.297
+label:    P.HARR 3.297
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     586 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Birmingham
+shelf:    
+content:  Contract from Oxyrhynchos (586 CE)
+# hgv-keywords: Vertrag — Darlehen — Getreide — Saat
+tm:       998626
+source:   https://papyri.info/ddbdp/p.harr;3;297
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    βασιλεία[ς τοῦ θειοτάτου καὶ εὐσ]εβε[στάτου ἡμῶν δεσπότου]
+r.2    μ[ε]γίστου ε[ὐεργέτου Φλαου]ΐου Τιβ[ερίου Μαυρικίου τοῦ]
+r.3    αἰωνίου Αὐγ[ούστου Αὐτοκρ]άτορος ἔ[τους ε, ὑπατείας τοῦ]
+r.4    αὐτοῦ εὐσε[βεστάτου ἡμῶν δεσπότου ἔτου]ς δ … [ἰνδικτίωνος ε.]
+r.5    τοῖς ὑπερ[φυεστάτοις δια]δόχοις [τοῦ τῆς εὐκλεοῦς μνήμης]
+r.6    Ἀπίωνος γενομ[ένου] πρωτοπατρι[κίου γεουχοῦσιν]
+r.7    καὶ ἐνταῦθα τῇ λ[αμπρ]ᾷ Ὀξυρυγχιτῶ[ν πόλει διὰ Μηνᾶ οἰκέτου]
+r.8    τοῦ ἐπερωτῶ[ντος] καὶ προσπορίζοντ[ος τοῖς ἰδίοις δεσπόταις]
+r.9    τοῖς αὐτοῖς π[ανε]υφήμοις προσώ[ποις τὴν ἀγωγὴν καὶ]
+r.10   ἐνοχήν, Αὐρήλ[ι]οι Παμούθιος φρο[ντιστὴς υἱὸς] …
+r.11   μητρὸς Στεφαν[οῦ]δος καὶ Γεώργιος [υἱὸς] … [μητρὸς]
+r.12   Πρόκλας καὶ Π[α]ῦλος πρεσβύτε[ρος υἱὸς] …
+r.13   μητρὸς Θέκλας καὶ Τιενήσιος [υἱὸς] … [μητρὸς]
+r.14   Τεκραμπε κ[αὶ] Μηνᾶς υἱὸς Ἀνου … [μητρὸς] …
+r.15   οἱ πάντες ὁρ[μώ]μενοι ἀπὸ ἐποικ[ίου] … [τοῦ]
+r.16   Ὀξυρυγχίτο[υ νομοῦ] διαφέροντ[ος τῇ ὑμῶν ὑπερφυείᾳ]
+r.17   ἐναπόγραφοι [αὐτῆς γεωργοὶ] χ[αίρειν. ὁμολογοῦμεν]
+r.18   ἐσχηκέναι πα[ρὰ τῆς ὑμῶν ὑπερφυείας ἐντεῦθεν]
+r.19   ἤδη [λόγῳ σπερμοβολίας] …
+r.20   κ …
+r.21   γραμμάτιον σπερμοβολίας [τ]ῶν ἀπὸ κ …
+
+[TRANSLATION]
+# HGV-EN: In the reign of our most godly and most pious master, greatest benefactor, Flavius Tiberius Mauricius, the eternal Augustus Imperator, year 5, in the consulship of our same most pious master, year 4, …, indiction 5. To the most extraordinary successors of Apion of well-famed memory, former first patricius, landowners here also in the splendid city of the Oxyrhynchites, through Menas, oiketes, who puts the formal question and provides for his own masters, the same all-renowned persons, the conduct of and the responsibility for (the transaction), we, Aurelii Pamouthios, phrontistes, son of …, mother Spephanous, and Georgios son of …, mother Prokla, and Paulos, priest, son of …, mother Thekla, and Tienesios son of …, mother Tekrampe, and Menas son of Anou–, mother …, all originating from the hamlet of … of the Oxyrhynchite nome, which belongs to your extraordinariness, registered farmers of yours, greeting. We acknowledge that we have received from your extraordinariness now on the spot on account of the sowing … Contract for the sowing of those from …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    

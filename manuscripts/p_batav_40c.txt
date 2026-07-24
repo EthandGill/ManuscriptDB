@@ -1,0 +1,26 @@
+[META]
+id:       P.BATAV 40c
+label:    P.BATAV 40c
+name:     Documentary papyrus — Bompae (Panopolites)
+genre:    documents
+date:     201 CE – 225 CE
+language: Greek (Koiné)
+found:    Bompae (Panopolites)
+held:     
+shelf:    
+content:  Documentary papyrus from Bompae (Panopolites) (201 CE – 225 CE)
+# hgv-keywords: Mumienetikett
+tm:       31715
+source:   https://papyri.info/ddbdp/p.batav;;40c
+lat:      26.525085
+lon:      31.714189
+
+[GREEK]
+r.1    Σεναπολλώνιος
+r.2    Ἀπολλωνί[ου] μητρὸς Σεναρεμήφιος ἀπὸ Βομπαή
+
+[TRANSLATION]
+# HGV-EN: Translation from: P.L.Bat. 19.40A Senpsennêsis (daughter) of Apollônios, the mother is Senaremêphis. [Demotic] Her soul will serve Osiris-Sokaris, the great god, Lord of Abydos: Senpsennêsis, son of Apollônios, her mother is Senaremêphis. Translation from: P.L.Bat. 19.40B Sentôous, (son) of Apollônios, the mother is Senaremêphis. [Demotic] His soul will serve Osiris-Sokaris, the great god, Lord of Abydos: Sentôous, son of Apollônios, her mother is Senaremêphis. Translation from: P.L.Bat. 19.40C Senapollônios , (daughter) of Apollôni(os), the mother is Senaremêphis, from Bompaê. [Demotic] Her soul will serve Osiris-Sokaris, the great god, Lord of Abydos: Senapollônia, daughter of Apollônios, the mother is Senaremêphis, the woman (originating) from the village Bompaê.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.951
+label:    O.BODL 2.951
+name:     Receipt — Theben
+genre:    receipts
+date:     21 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (21 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71641
+source:   https://papyri.info/ddbdp/o.bodl;2;951
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πανσνῶς Πετεχειω …
+r.2    τέτακται φοινίκων τοῦ ι ἔτους
+r.3    δραχμὰς ιβ χαλκοῦ Γ. ἔτους ι Καίσαρος Θὼθ β.
+
+[TRANSLATION]
+1     
+2     
+3     

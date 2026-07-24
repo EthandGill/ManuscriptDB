@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 12.1464
+label:    P.Oxy. 12.1464
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     250 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (250 CE)
+# hgv-keywords: Erklärung über heidnische Opfer — libellus — Bitte um Bezeugung des Berichtes
+tm:       21866
+source:   https://papyri.info/ddbdp/p.oxy;12;1464
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [τοῖς] ἐπὶ τῶν θυσιῶν αἱρεθεῖσι τῆς
+r.2    [Ὀ]ξυρυγχειτῶν πόλεως
+r.3    [παρ]ὰ Αὐρηλίου Γαιῶνος Ἀμμωνίου
+r.4    [μη]τρὸς Ταεῦτος. ἀεὶ μὲν θύειν καὶ
+r.5    [σπέ]νδειν καὶ σέβειν θεοῖς εἰθισμένος
+r.6    [κατ]ὰ τὰ κελευσθέντα ὑπὸ τῆς θείας κρίσεως
+r.7    [καὶ] νῦν ἐνώπιον ὑμῶν θύων καὶ σπέν[δω]ν καὶ γευ[σ]άμενος τῶν ἱερείων ἅμα
+r.8    [Τα]ῶτι γυναικὶ [κ]αὶ Ἀμμωνίῳ καὶ Ἀμμω[νι]ανῷ υἱοῖς καὶ Θέκλᾳ θυγατρὶ διʼ ἐμοῦ κ[α]ὶ
+r.9    [ἀξι]ῶ ὑποσημειώσασθαί μοι. ἔτους α
+r.10   [Αὐ]τοκράτορος Κ[α]ί[σαρο]ς Γαίου Μεσσίου
+r.11   [Κυί]ντου Τ[ρ]αιανοῦ Δεκίου Εὐσεβοῦς
+r.12   [Εὐ]τυχοῦς Σεβαστοῦ Ἐπεὶφ γ. Αὐρή[λιος]
+r.13   [Γαι]ὼν ἐπιδέδωκα. Αὐρήλιος Σαραπίων
+r.14   [ὁ καὶ] Χαιρήμων ἔγρ[αψα] ὑπὲρ αὐτοῦ μὴ [εἰδό][τος] γράμματα.
+r.15   Βησᾶς, Ψεναμοῦνις
+
+[TRANSLATION]
+# HGV-EN: To the commissioners of sacrifices at Oxyrhynchus from Aurelius Gaion son of Ammonius and Taeus. It has ever been my habit to make sacrifices and libations and pay reverence to the gods in accordance with the orders of the divine decree, and now I have in your presence sacrificed and made libations and tasted the offerings with Taos my wife, Ammonius and Ammonianus my sons, and Thecla my daughter, acting through me, and I request you to certify my statement. The 1st year of the Emperor Caesar Gaius Messius Quintus Trajanus Decius Pius Felix Augustus, Epeiph 3. I, Aurelius Gaion, have presented this application. I,Aurelius Sarapion also called Chaeremon, wrote on his behalf, as he is illiterate.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

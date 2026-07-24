@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 45
+label:    O.LEID 45
+name:     Receipt — Theben
+genre:    receipts
+date:     15 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (15 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24617
+source:   https://papyri.info/ddbdp/o.leid;;45
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀσκλᾶς καὶ Χεσθώτης τελῶναι βαλανευτικοῦ
+r.2    Πικῶτι Πετεμενώφιος χαίρειν. ἀπέχομεν τὸν φόρον
+r.3    βαλανείου δραχμὰς β. ἔτους α Τιβερίου Καίσαρος Σεβαστοῦ
+r.4    Μεχεὶρ δ. ἔγραψα Πετεμενῶφις Πελαίου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

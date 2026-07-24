@@ -1,0 +1,32 @@
+[META]
+id:       O.CLAUD 1.120
+label:    O.CLAUD 1.120
+name:     Letter — Mons Claudianus
+genre:    letters
+date:     100 CE – 120 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Letter from Mons Claudianus (100 CE – 120 CE)
+# hgv-keywords: Brief — NN an NN — Arzt (?) — Aufträge
+tm:       24132
+source:   https://papyri.info/ddbdp/o.claud;1;120
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    πέμψεις [εἰς] τὸ τραῦμα
+r.2    διαστολίδιον σημεῖον
+r.3    ὅτι εἶπά σοι ἔπεχε τοῖς
+r.4    εἰς οἶκον πρὸς Ἀμολήιν
+r.5    δειπνῶ.
+r.6    ἔρρωσο.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

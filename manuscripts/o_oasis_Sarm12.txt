@@ -1,0 +1,30 @@
+[META]
+id:       O.OASIS Sarm12
+label:    O.OASIS Sarm12
+name:     Receipt — Oasis Parva
+genre:    receipts
+date:     403 CE – 413 CE
+language: Greek (Koiné)
+found:    Oasis Parva
+held:     
+shelf:    
+content:  Receipt from Oasis Parva (403 CE – 413 CE)
+# hgv-keywords: Quittung — Futter
+tm:       23821
+source:   https://papyri.info/ddbdp/o.oasis;;Sarm12
+lat:      28.373334
+lon:      28.8971005
+
+[GREEK]
+r.1    Σαρμάτῃ ἰδίῳ γε[ούχῳ Ἰσὰκ]
+r.2    Φιλήας γεωργὸς χα[ίρειν]
+r.3    ἀπέσχον παρὰ [σοῦ εἰς]
+r.4    χλωροφαγίας …
+r.5    ἡμίσους
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

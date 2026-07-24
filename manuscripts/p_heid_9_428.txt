@@ -1,0 +1,58 @@
+[META]
+id:       P.HEID 9.428
+label:    P.HEID 9.428
+name:     Letter — Herakleopolis
+genre:    letters
+date:     158 BCE
+language: Greek (Koiné)
+found:    Herakleopolis
+held:     
+shelf:    
+content:  Letter from Herakleopolis (158 BCE)
+# hgv-keywords: Brief (amtlich) — Dionysios (Königlicher Schreiber) an Aspheus (Potamophylax) — Entwurf; Bericht über die Eingabe eines Schiffseigners und eines Epiplus wegen eines Überfalls auf ihr Schiff und den Raub wertvoller Gegenstände
+tm:       89283
+source:   https://papyri.info/ddbdp/p.heid;9;428
+lat:      29.0855048
+lon:      30.9345750333
+
+[GREEK]
+r.1    ἀνέγνωσται ἔτους κγ Παχὼν ιδ.
+r.2    Ἀσφεῖ ποταμοφύλακι· Λεωνίδου ναυκλήρου τοῦ Κάστορος
+r.3    κερκούρου καὶ Μάρωνος …
+r.4    ἐπ’ αὐτῶι ἐπίπλου δόντων ἡμῖν ὑπ[όμνημα]
+r.5    ὑπὲρ τοῦ τῆι … [τοῦ] Φ[αρ]μοῦθι περὶ ὥρα[ν ] …
+r.6    ὁρμοῦντος τοῦ πλοίου ἐπ[ὶ τοῦ κατ’ Ἀγκυρῶν πόλιν]
+r.7    ὅρμου ἐπιθεμένους τινὰ[ς ] …
+r.8    [ἐπὶ τὸ προωνομ]ασμένον πλ[οῖον ] …
+r.9    … τ …
+r.10   ὠιχῆσθαι ἔχον[τ]ας λα.ε …
+r.11   ὧν εἶναι τὴν διατίμησιν εἰς χαλκοῦ τάλαντα κδ … με … ου κατακαῦ[σαι]
+r.12   … γίνονται τάλαντα λ …
+r.13   των … ν … [ … ἀποκατα]στάσεως τῆς λείας, τοῦ δὲ τοιούτο[υ οὐδὲ]
+r.14   μέχρι τοῦ παρόντος γεγενημένου τό τε πλοῖον
+r.15   ἐφορμεῖ τῶν ναυτικῶν προφερομένων μὴ ἂν δύνασθαι καταπλεῦσαι [ἐξ] Ἀγκυρῶν πόλεως … κω …
+r.16   κλαπέντ …
+r.17   πάλιν δια … ε … κ … φροντίσαι
+r.18   … άζω
+
+[TRANSLATION]
+# HGV-EN: Read year 23, Pachon 14. (in a second hand) To Aspheus, potamophylax. Leonidas, nauklêros of Kastor’s boat, and Maron, …, epiplous on it, submitted to us a report: on the [ --- ] of Pharmouthi, around the [ --- ] hour, while the ship was at anchor in the harbor of Ankyron Polis, certain individuals set upon the aforementioned ship… and left with… the value of which is 24 (?) talents of bronze… and they burned (?)… a total of 30 talents. …the return of the stolen goods; but as this has not happened up to the present time, the ship is still at anchor, with the sailors claiming that they are unable to sail down (?) from Ankyron Polis… stolen… again… to take care…. (J. Bauschatz, Law and Enforcement, p. 142)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

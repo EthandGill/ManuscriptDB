@@ -1,0 +1,30 @@
+[META]
+id:       P.EIRENE 3.31
+label:    P.EIRENE 3.31
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     484 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (484 CE)
+# hgv-keywords: Anweisung — Kirche an Serenos (Metzger) (?) — Lieferung — Fleisch für Soldaten (?)
+tm:       128672
+source:   https://papyri.info/ddbdp/p.eirene;3;31
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἡ ἁγία ἐκκλησία [ ] [Σερήνῳ μαγείρῳ]
+r.2    παράσχου τοῖς … [κρέως λίτρας δώδεκα γίνονται κρέως λίτραι ιβ] …
+r.3    Χοιὰκ η ἰνδικτίωνος …
+r.4    ἔτους ρξα ρλ Χοιὰκ … [ σεσημείωμαι κρέως]
+r.5    λίρτας δώδεκα γίνονται [κρέως λίτραι ιβ ]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

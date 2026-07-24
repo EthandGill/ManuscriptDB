@@ -1,0 +1,26 @@
+[META]
+id:       O.PETR.MUS 294
+label:    O.PETR.MUS 294
+name:     Receipt — Theben
+genre:    receipts
+date:     10 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (10 CE)
+# hgv-keywords: Quittung — Steuer (Schafe)
+tm:       77704
+source:   https://papyri.info/ddbdp/o.petr.mus;;294
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Σναχομνεῦς Πετεμώνθου τοῦ
+r.2    Χοιὰχ προβάτων ιε μ ἔτους
+r.3    Καίσαρος Χοιὰχ λ.
+
+[TRANSLATION]
+1     
+2     
+3     

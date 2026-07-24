@@ -1,0 +1,30 @@
+[META]
+id:       O.NYU 19
+label:    O.NYU 19
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     2 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (2 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869423
+source:   https://papyri.info/ddbdp/o.nyu;;19
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λβ Ἁθυρ ις τέτακται
+r.2    ταριχευτ- τοῦ αὐτοῦ ἔτους Τκαλῆς
+r.3    Σισόιτος δέκα μίαν, γίνονται ια.
+r.4    Καμ.
+
+[TRANSLATION]
+# HGV-EN: Year 32, Hathyr 16, has paid for taricheu(t- ) of the same year, Tkales daughter of Sisois, eleven ⟨dr.⟩, that is, 11 ⟨dr.⟩. Kam( ).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

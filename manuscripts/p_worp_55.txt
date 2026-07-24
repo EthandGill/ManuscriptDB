@@ -1,0 +1,30 @@
+[META]
+id:       P.WORP 55
+label:    P.WORP 55
+name:     Letter — Theben (?)
+genre:    letters
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Letter from Theben (?) (1 CE – 100 CE)
+# hgv-keywords: Brief (privat?) — ]ellos (centurio) an Pudens (curator der Garnison von Aphis) — unbestimmbar
+tm:       115583
+source:   https://papyri.info/ddbdp/p.worp;;55
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … ελλος ἑκατόνταρχος Πούδεντι
+r.2    [κουράτορι πραισί]διου Ἀπι χαίρειν.
+r.3    … ον Πετρωνιανὸν
+r.4    … [Πρ]όκλου ἐχκορ
+r.5    … ἔρρωσθε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

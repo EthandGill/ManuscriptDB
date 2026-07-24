@@ -1,0 +1,28 @@
+[META]
+id:       O.FRANGE 232
+label:    O.FRANGE 232
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Billet — Envoi — Blé? Vêtement — Archives de Frangé
+tm:       219774
+source:   https://papyri.info/ddbdp/o.frange;;232
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ϩⲁ ⲧϭⲁϭⲓⲧⲱⲛⲉ
+r.2    ϣⲗⲏⲗ ⲉϫⲱⲛ
+r.3    ⲛἀγάπη
+r.4    ⲓⲏⲥⲟⲩⲥ ⲡⲉⲭⲣⲓⲥⲧⲟⲥ θεός υἱός
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

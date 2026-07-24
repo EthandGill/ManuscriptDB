@@ -1,0 +1,54 @@
+[META]
+id:       BGU 1.139
+label:    BGU 1.139
+name:     Documentary papyrus — Karanis (Arsinoites)
+genre:    documents
+date:     202 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Karanis (Arsinoites) (202 CE)
+# hgv-keywords: Deklaration — Land (unbewässert)
+tm:       8915
+source:   https://papyri.info/ddbdp/bgu;1;139
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Δημητρίῳ στρατηγῷ Ἀρσινοΐτου Ἡρακλείδου μερίδος
+r.2    καὶ Κανώπῳ τῷ καὶ Ἀσκληπιάδῃ
+r.3    βασιλικῷ γραμματεῖ Ἀρσινοΐτου Ἡρακλείδου μερίδος
+r.4    καὶ κωμογραμματεῖ κώμης Καρανίδος
+r.5    παρὰ Οὐαλερίας Παυλίνας διὰ
+r.6    φροντιστοῦ Ὡριγένους. ἀπογράφομαι κατὰ τὰ
+r.7    κελευσθέντα ὑπὸ τοῦ λαμπροτάτου ἡγεμόνος τὰς ὑπαρχούσας μοι
+r.8    περὶ κώμην Καρανίδα ἐν τόπῳ Κοιλάδι Στρουθοῦ λεγομένῳ
+r.9    ἐν μιᾷ σφραγίδι γῆς ἰδιοκτήτου
+r.10   ἀρούρας [δ]ύο τελούσας ἀνὰ πυροῦ μίαν ἥμισυ σωματιζομένας εἰς Οὐαλερίαν Παυλῖναν
+r.11   ἠβροχηκυίας πρὸς τὸ ἐνεστὸς δέκατον ἔτος. διὸ ἐπιδίδωμι. Οὐαλερία Παυλίνα διὰ
+r.12   φροντιστοῦ Ὡριγένους ἐπιδέδωκα.
+r.13   ἀπεγράφη παρὰ στρατηγῷ ι ἔτους Φαμενὼθ α
+r.14   ἀπεγράφη παρὰ βασιλικῷ γραμματεῖ ι ἔτους Φαμενὼθ α
+r.15   Ἑριεὺς κωμογραμματεὺς ἔσχον τούτου
+r.16   τὸ ἴσον εἰς ἐξέτασιν.
+
+[TRANSLATION]
+# HGV-EN: To Demetrios, strategos of the Arsinoite nome, Herakleides division, and to Kanopos alias Asklepiades, royal scribe of the Arsinoite nome, Herakleides division, and the village scribe of the village of Karanis, from Valeria Paulina through my agent Horigenes. I register according to the orders of the Prefect, vir clarissimus, two arouras of private land belonging to me near the village of Karanis in the place called Koilas Strouthou in one parcel, taxed at one and a half (artabas) of wheat (pro aroura), registered for taxation in the name of Valeria Paulina, which have remained uninundated for the present tenth year. Therefore, I submit (this registration). I, Valeria Paulina through my agent Horigenes, have submitted (this registration). (m. 2) Registered at the office of the strategos, year 10 Phamenoth 1. (m. 3) Registered at the office of the royal scribe , year 10 Phamenoth 1. (m. 4) I, Herieus, village scribe, have received a duplicate of this for verification.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

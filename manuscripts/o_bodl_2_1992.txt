@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.1992
+label:    O.BODL 2.1992
+name:     Letter — Theben
+genre:    letters
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Letter from Theben (101 CE – 200 CE)
+# hgv-keywords: Brief (privat) — Psenmonthes an den Archiphylakiten von Ibion — Übergabe einer Person
+tm:       72668
+source:   https://papyri.info/ddbdp/o.bodl;2;1992
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ψενμώνθης ἀρχιφύλακι
+r.2    Ἰβίωνος· παράδος τῷ διδόντι σοι τὸ ὄστρακον
+r.3    Παμώνθην Σενπασήμιος.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.600
+label:    O.BODL 2.600
+name:     Receipt — Theben
+genre:    receipts
+date:     49 CE – 50 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (49 CE – 50 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71291
+source:   https://papyri.info/ddbdp/o.bodl;2;600
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [διαγ]έγραφε Πικῶς Πετεψάιος ὑπὲρ χωματικοῦ
+r.2    θ ἔτους δραχμὰς ἓξ τετρώβολον καὶ βαλανευτικοῦ τετρώβολον ἡμιωβέλιον
+r.3    γίνονται δραχμαὶ ζ ὀβολοὶ β 𐅵 καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου. ἔτους ι Τιβερίου
+r.4    Κλαυδίου Καίσαρος Σεβαστοῦ
+r.5    [Γερμ]ανικοῦ Αὐτοκράτορος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

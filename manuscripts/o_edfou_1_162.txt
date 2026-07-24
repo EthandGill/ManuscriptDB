@@ -1,0 +1,24 @@
+[META]
+id:       O.EDFOU 1.162
+label:    O.EDFOU 1.162
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (1 CE – 100 CE)
+# hgv-keywords: Quittung
+tm:       74200
+source:   https://papyri.info/ddbdp/o.edfou;1;162
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    … παιτ Πισαίτος
+r.2    … Παχόμψε[ως]
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,44 @@
+[META]
+id:       ZPE 186.257
+label:    ZPE 186.257
+name:     Documentary papyrus — Fundort: Karanis (Arsinoites, Ägypten); Schreibort: Krokodilopolis (Arsinoites, Ägypten)
+genre:    documents
+date:     222 CE – 235 CE
+language: Greek (Koiné)
+found:    Fundort: Karanis (Arsinoites, Ägypten); Schreibort: Krokodilopolis (Arsinoites, Ägypten)
+held:     Ann Arbor
+shelf:    
+content:  Documentary papyrus from Fundort: Karanis (Arsinoites, Ägypten); Schreibort: Krokodilopolis (Arsinoites, Ägypten) (222 CE – 235 CE)
+# hgv-keywords: Deklaration — Anmeldung — Haus (käuflich erworbenes) — Geld
+tm:       41717
+source:   https://papyri.info/ddbdp/zpe;186;257
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    [Μάρκος Αὐρήλι]ος Ἰσίδωρος [σεσημείωμαι.] [ … ] ἔτους Μάρκ[ου] Αὐρηλί[ου]
+r.2    [Σεουήρου Ἀλεξάνδ]ρου Εὐσε[βοῦ]ς Εὐτυχοῦς Σεβαστοῦ Φαμενὼθ ι …
+r.3    … καὶ Χαιρήμονι τῷ καὶ Σαραποδ[ώρῳ]
+r.4    [γεγυμνασιαρχηκόσι βιβλιοφύλαξι ἐγκτήσεων] [Ἀρ]σινοίτου
+r.5    [παρὰ Αὐρηλίου] … ος ἀφήλικος ἀπὸ ἀμφόδου Μ …
+r.6    [διὰ τοῦ πατρὸς αὐτοῦ Αὐρ]ηλίου Σαραπίωνος Εὐδαίμον[ος.]
+r.7    [κατὰ δημόσιον χρηματισμὸ]ν τελειωθέντα διʼ ἀρχείου ἐνθ[άδε]
+r.8    [τῇ ἐνστώσῃ ἡμέρᾳ ἐν τῇ μητ]ροπόλει ἐπʼ ἀμφόδου [Μο]ήρ[εως]
+r.9    [ἠγόρασα ἥμισυ μέρος κοινὸν κ]αὶ ἀδιαίρετον οἰκίας κα[ὶ] …
+r.10   … [πεπτ]ωκυίης, τιμῆς ἀρ[γυρίου]
+r.11   [δραχμῶν] …
+
+[TRANSLATION]
+# HGV-EN: [I, Marcus Aureli]us Isidorοs [have signed]. Year x of Marcus Aurelius [Severus Alexand]er Pius Felix Augustus, Phamenoth 10. (2nd hand) To NN and Chairemon alias Sarapodoros, [former gymnasiarchs, keepers of the property records of the] Arsinoite, [from Aurelius NN], a minor, of the district M[… through his father] Aurelius Sarapion, son of Eudaimon. [Under a public deed] executed through the archives here [today in the] metropolis in the district [Mo]er[is I have bought half share, common] and undivided, of a house and [… that has] collapsed, the price being x silver [drachmas …]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

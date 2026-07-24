@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 2.879
+label:    O.STRAS 2.879
+name:     Receipt — Theben (Nesoi)
+genre:    receipts
+date:     181 CE
+language: Greek (Koiné)
+found:    Theben (Nesoi)
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (Nesoi) (181 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       75215
+source:   https://papyri.info/ddbdp/o.stras;2;879
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος κα Κομμόδου
+r.2    Ἀντωνίνου Καίσαρος τοῦ κυρίου Ἐπεὶφ κα
+r.3    ὑπὲρ Νήσων ὀνόματος Πετεχεσποχράτου Χαβονχώνσιος καὶ τῶν μετόχων
+r.4    διὰ γεωργοῦ Φ … ο … πυροῦ εἴκοσι μίαν
+r.5    ἥμισυ κδ, γίνονται πυροῦ κα 𐅵 κδ. Ἀμώνιος [σεσημείωμαι].
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,26 @@
+[META]
+id:       O.LEID 42
+label:    O.LEID 42
+name:     Receipt — Theben
+genre:    receipts
+date:     7 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (7 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24614
+source:   https://papyri.info/ddbdp/o.leid;;42
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀπολλώνιος βαλανευτὴς
+r.2    Ἁροννώφρει … μ … υ
+r.3    ὁμοίως βαλανευτικοῦ χαλκοῦ ρο.
+
+[TRANSLATION]
+1     
+2     
+3     

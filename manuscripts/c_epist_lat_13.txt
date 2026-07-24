@@ -1,0 +1,22 @@
+[META]
+id:       C.EPIST.LAT 13
+label:    C.EPIST.LAT 13
+name:     Documentary papyrus — Alexandria
+genre:    documents
+date:     27 CE
+language: Greek (Koiné)
+found:    Alexandria
+held:     
+shelf:    
+content:  Documentary papyrus from Alexandria (27 CE)
+# hgv-keywords: Latein — römischer Ritter — Schulden — Rückzahlung — Wertgegenstände als Pfand — griechische Unterschrift des Schuldners
+tm:       16273
+source:   https://papyri.info/ddbdp/c.epist.lat;;13
+lat:      31.201435
+lon:      29.909773
+
+[GREEK]
+r.1    [Λούκιος] Κα[ι]κ[ί]λιος Σεκόνδος ἱππεὺς ὁ προγεγραμμέ[νος ἔλαβον ὡς πρόκειται ἔτους ιγ Τιβερίου Καίσαρος Σ]εβαστοῦ ἐπαγομένων β
+
+[TRANSLATION]
+1     

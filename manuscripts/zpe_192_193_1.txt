@@ -1,0 +1,30 @@
+[META]
+id:       ZPE 192.193_1
+label:    ZPE 192.193_1
+name:     Receipt — Elephantine
+genre:    receipts
+date:     113 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (113 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Geld
+tm:       382551
+source:   https://papyri.info/ddbdp/zpe;192;193_1
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διὲγραψεν Πετ …βύτου μητρὸς Θι[ … ,] [ὑπὲρ]
+r.2    λαογραφίας τοῦ [ιζ ἔτους Τραιανοῦ τοῦ]
+r.3    κυρίου, δραχ[μὰς] …
+r.4    ἔτους ιζ Τρα[ιανοῦ τοῦ κυρίου]
+r.5    κα Θώθ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,32 @@
+[META]
+id:       UPZ 1.95
+label:    UPZ 1.95
+name:     Documentary papyrus — Memphis
+genre:    documents
+date:     158 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Documentary papyrus from Memphis (158 BCE)
+# hgv-keywords: Abrechnung — Öl
+tm:       3486
+source:   https://papyri.info/ddbdp/upz;1;95
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    Τῦβι γ κῖκι κ[ο]τύλας ιε
+r.2    ιγ κοτύλας ιδ 𐅵
+r.3    Τῦβι κ κοτύλης 𐅵
+r.4    κδ κοτύλας ιδ 𐅵
+r.5    Μεχεὶρ δ κοτύλας ιδ 𐅵
+r.6    ιγ κοτύλας ιε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

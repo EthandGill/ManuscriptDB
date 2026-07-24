@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 1.13
+label:    O.BODL 1.13
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     239 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (239 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       44068
+source:   https://papyri.info/ddbdp/o.bodl;1;13
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους θ Φαρμοῦθι
+r.2    κγ ἁλικῆς διὰ
+r.3    Σωστράτου
+r.4    Θοτορταῖος δραχμ ὀβολ 1.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

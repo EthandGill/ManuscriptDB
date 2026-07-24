@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 34.2710
+label:    P.Oxy. 34.2710
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     261 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (261 CE)
+# hgv-keywords: Antrag — Stellung — Vormund — Frau
+tm:       16583
+source:   https://papyri.info/ddbdp/p.oxy;34;2710
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … ιτι … κ … τομ α
+r.2    ἑρμηνεία τῶν Ῥω[μαϊκ]ῶν
+r.3    Λουκίῳ Μουσσίῳ Αἰμιλιανῷ τῷ διασημοτάτῳ ἐπάρχῳ Αἰγύπτου
+r.4    παρὰ Αὐρηλίας Ἡρᾶτος Κάστορος μητρὸς Σύρας ἀπʼ Ὀξυρύγ χων πόλεως.
+r.5    ἐρωτῶ, κύριε, δοῦναί μοι κύριον ἐπ[ι]γρα[φ]ησόμενον κατὰ νόμον
+r.6    Ἰούλιον Τίτιον καὶ δόγμα συνκλήτου Αὐρήλιον Χαιρήμονα υἱὸν
+r.7    Διογένους ἀρχιερατεύσαντος τῆς αὐτῆς πόλεως·
+r.8    [ἐδό]θη κυρίοις ἡμῶν αὐτοκ[ρ]άτο[ρ]σι Μακριανῷ τὸ β καὶ Κυήτῳ
+r.9    [τὸ ] … ὑπάτοις ἔτους α Παχ[ὼν] κβ.
+
+[TRANSLATION]
+# HGV-EN: (From: edition.) … page … roll one. Translation of the Latin. To Lucius Mussius Aemilianus the most illustrious prefect of Egypt, from Aurelia Heras, daughter of Castor and Syra, from the city of the Oxyrhynchi. I beg you, lord, to give me, as guardian to be registered in accordance with the lex Iulia Titia and the senatusconsultum, Aurelius Chaeremon, son of Diogenes, who was chief-priest of the same city. Given in the consulship of our lords the emperors Macrianus, for the second time, and Quietus, for the second (?) time. First year; Pachon 22nd.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

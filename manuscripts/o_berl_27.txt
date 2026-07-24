@@ -1,0 +1,30 @@
+[META]
+id:       O.BERL 27
+label:    O.BERL 27
+name:     Receipt — Theben
+genre:    receipts
+date:     63 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (63 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       24419
+source:   https://papyri.info/ddbdp/o.berl;;27
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Σαχομνεὺς Ψενμώνθου
+r.2    καὶ μέτοχοι Ἑρμείᾳ Ἐπωνύχου
+r.3    χαίρειν. ἀπέχω τὸ τέλος Θὼτ καὶ
+r.4    Φαῶφι τοῦ ι ἔτους Νέρωνος
+r.5    τοῦ κυρίου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

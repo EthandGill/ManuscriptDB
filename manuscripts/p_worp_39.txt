@@ -1,0 +1,32 @@
+[META]
+id:       P.WORP 39
+label:    P.WORP 39
+name:     Receipt — Elephantine
+genre:    receipts
+date:     71 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (71 CE)
+# hgv-keywords: Quittung — Steuer (Landvermessungssteuer, geometria)
+tm:       115568
+source:   https://papyri.info/ddbdp/p.worp;;39
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Ῥουφώνιος Ἀντίγονος.
+r.2    διαγεγράφηκεν Νεμώνιος Παθιήμιoς ὑπὲρ γεομετρίας φοινικῶνος β ἔτους
+r.3    διὰ κοινoῦ ἡμῶν δραχμὰς κϛ τριώβολον. ἔτους γ
+r.4    Αὐτοκράτορος Καίσαρος Οὐεσπασιανοῦ
+r.5    Σεβαστοῦ Τῦβι κζ.
+
+[TRANSLATION]
+# HGV-EN: Rouphonios Antigonos. Nemonios, son of Pathiemis, has paid for the survey-tax on date-land of the 2nd year through our association: 26 drachmas, 3 obols. Year 3 of Imperator Caesar Vespasianus Augustus, on the 27th of Tubi.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

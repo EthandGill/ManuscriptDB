@@ -1,0 +1,52 @@
+[META]
+id:       P.LOND 4.1336
+label:    P.LOND 4.1336
+name:     Letter — Aphrodites Kome (Antaiopolites)
+genre:    letters
+date:     709 CE
+language: Greek (Koiné)
+found:    Aphrodites Kome (Antaiopolites)
+held:     
+shelf:    
+content:  Letter from Aphrodites Kome (Antaiopolites) (709 CE)
+# hgv-keywords: Brief (amtlich) — Kurrah ben Sharik an den Pagarchen Basileios — Sendung eines Schiffsbauers — seine Entlohnung
+tm:       19794
+source:   https://papyri.info/ddbdp/p.lond;4;1336
+lat:      26.9528190683
+lon:      31.5960498491
+
+[GREEK]
+r.1    … περὶ τεχνίτου α λουφοίων … τ … ω
+r.2    [ἐν ὀνόματι τοῦ Θεοῦ Κορρα] υἱὸς Σζεριχ σύμβουλος
+r.3    [Βασιλείῳ διοικ]ητῇ κώμης Ἀφροδιτώ. ἕνα τέκτον[α]
+r.4    [ἐτάξαμεν διὰ τῆς δ]ιοικήσεώς σου ἐπὶ μῆ[ν]α[ς] τέσσαρας
+r.5    [λόγῳ ἐργασία]ς λουφοίων μετακομιζόντων
+r.6    … εἰς τὸ Κλύσμα ἐπὶ τῆς παρ[ού]σης
+r.7    [ἰνδικτίονος ὀγδόη]ς θεματίσαντες τοὺς μισθοὺς καὶ τὴν δαπάνην
+r.8    [αὐτοῦ ἐκ τοῦ μην]ὸς νομίσματος δίμοιρον χωρὶς
+r.9    … [ διδόμενον] ἀπὸ τῆς σακέλ λης καὶ τὸ τούτου ἐντάγιον
+r.10   [ποιήσαντες ἐπέμ]ψαμέν σοι . τοῦτον οὖν μετὰ τῶν
+r.11   [ἐργαλείων αὐτοῦ πρὸς] τὴ[ν] δύναμιν τοῦ ἐνταγίου πέμψον
+r.12   [εὐθέως][ καὶ παράδ]ος Μααμεδ υἱῷ Αβι Αβιβα τῷ ἐπικειμένῳ
+r.13   [τῆς ἐργασίας. ἐγράφη μηνὸς ][Θ]ὼθ ϛ ἰνδικτίονος η
+r.14   [Κορρα υἱὸς Σζεριχ σύμβουλος] Βασιλείῳ διο[ικητῇ][ κώμης Ἀφροδιτώ]
+r.15   μηνὸς Θ[ὼθ] ἰνδικτίονος η ἠνέχθη διʼ Αβου Αμερ βερεδαρίου …
+
+[TRANSLATION]
+# HGV-EN: Concerning 1 skilled workman for the barges … In the name of God. Ḳurrah b. Sharīk, Governor, to Basil, administrator of the village of Aphrodito. We have apportioned to your administrative district 1 carpenter for 4 months for work at the barges which convey … to Clysma in the present 8th indiction, having fixed his wages and supplies at 2/3 solidus per month excluding …, to be paid from the Treasury, and having made out the demand note for him we have sent it to you. Send him, therefore, with his tools in accordance with the powers given by the demand note [immediately (?)], and hand him over to Muḥammad b. Abī Ḥabībah, who is in charge of the work. Written the 6th Thoth, 8th indiction.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

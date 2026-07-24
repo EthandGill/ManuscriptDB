@@ -1,0 +1,26 @@
+[META]
+id:       O.MICH 3.1037
+label:    O.MICH 3.1037
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     210 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (210 CE)
+# hgv-keywords: Quittung — ναύβιον
+tm:       9935
+source:   https://papyri.info/ddbdp/o.mich;3;1037
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ιθ ἔτους Φαῶφι ιβ
+r.2    Χαιρήμων μεγ
+r.3    ναύβ[ι]ον α παρέδωκεν.
+
+[TRANSLATION]
+1     
+2     
+3     

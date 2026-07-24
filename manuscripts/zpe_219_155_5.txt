@@ -1,0 +1,30 @@
+[META]
+id:       ZPE 219.155_5
+label:    ZPE 219.155_5
+name:     Documentary papyrus — Elephantine
+genre:    documents
+date:     169 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Documentary papyrus from Elephantine (169 CE)
+# hgv-keywords: receipt tax
+tm:       958942
+source:   https://papyri.info/ddbdp/zpe;219;155_5
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Μάκερ Διδύμου καὶ Ἀμμών …
+r.2    πράκτορες ἀργυρικῶν Ἐλεφαντίνης διὰ Ἀμμωνίου.
+r.3    διέγραψεν Παχνοῦβις Παχνούβιος
+r.4    μητρὸς Σεραπ ὑπὲρ μερισμοῦ θ ἔτους δραχμὰς
+r.5    τέσσαρας δραχμαὶ δ. ἔτους θ Παῦνι α.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,40 @@
+[META]
+id:       BGU 1.102
+label:    BGU 1.102
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     161 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (161 CE)
+# hgv-keywords: Quittung — Geld
+tm:       8877
+source:   https://papyri.info/ddbdp/bgu;1;102
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    Θεόφιλος Λουκιφέρου Καίσαρος ο[ἰ]κον[ό]μ[ο]υ οὐικάριος
+r.2    διεγράφην παρὰ πρεσβυτέρων καὶ κωμογραμματέως
+r.3    κώμης Σοκνοπαίων Νήσου φ[ό]ρου πρ[ο]βάτων [ἔτους] α
+r.4    δραχμὰς τετρακοσίας τεσσεράκοντα τ[ρ]εῖς τριώβολον,
+r.5    συμβόλου μία τρεῖς ἥμισυ. ἔτους α Αὐρηλίων Ἀντωνίνου
+r.6    καὶ Οὐήρου τῶν κυρίων Σεβαστῶν Ἐπ[εὶφ] η …
+r.7    Αἴλιος … θως ἐπηκολο[ύ]θησα ταῖς τοῦ ἀργυρίου
+r.8    δ[ρα]χμαῖς τετρακοσίαις τ[ε]σσαράκοντα τρισὶν
+r.9    τριώβολον ὡς πρόκειται.
+
+[TRANSLATION]
+# HGV-EN: Theophilos, representative of Lucifer, o[i]kon[o]m[o]s of Caesar: Paid by the elders and the village scribe of the village of Soknopaiou Nesos for dues for sheep of [year] 1 four hundred and forty three drachmas and three obols, for the receipt charge one (drachma) and three and a half (obols). Year 1 of Aure[lius] Antoninus and Verus, the lords Augusti, Epeiph 8 ***. (m. 2) I, Aelius [..]thos, supervised the four hundred and forty three silver drachmas and three obols, as aforesaid.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

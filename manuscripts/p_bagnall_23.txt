@@ -1,0 +1,26 @@
+[META]
+id:       P.BAGNALL 23
+label:    P.BAGNALL 23
+name:     Receipt — Elephantine
+genre:    receipts
+date:     217 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (217 BCE)
+# hgv-keywords: Quittung — Steuer — Salzsteuer
+tm:       219301
+source:   https://papyri.info/ddbdp/p.bagnall;;23
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔτους ς Παχὼνς ιθ. τέτακται
+r.2    Ἰμουτ Ἁύγχιος διὰ
+r.3    Δώρου τετρώβολον, Ταωρ γ[υνὴ] [ὀβολὸν ἡμιωβέλιον.]
+
+[TRANSLATION]
+1     
+2     
+3     

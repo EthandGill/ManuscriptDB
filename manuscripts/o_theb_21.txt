@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB 21
+label:    O.THEB 21
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     113 BCE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (113 BCE)
+# hgv-keywords: Quittung
+tm:       50404
+source:   https://papyri.info/ddbdp/o.theb;;21
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    ἔτους δ Παχὼν α
+r.2    μεμετρήκασιν δ ἔτους ἐξ ἀντιδιαγραφῆς Μεμνονείων Φῖβις
+r.3    Ψεμμώνθου καὶ τοῦ Φίβιος οἱ λοιποὶ πέντε ιβ
+r.4    γίνονται ε ιβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

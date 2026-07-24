@@ -1,0 +1,48 @@
+[META]
+id:       P.RYL 2.87
+label:    P.RYL 2.87
+name:     Documentary papyrus — Herakleopolites
+genre:    documents
+date:     201 CE – 225 CE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Documentary papyrus from Herakleopolites (201 CE – 225 CE)
+# hgv-keywords: Bericht eines Landvermessers
+tm:       31156
+source:   https://papyri.info/ddbdp/p.ryl;2;87
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    Ι … ων Σωτηρίχου καὶ Διονύσιος ἀδελφὸς Φ … ας ὑπολόγου προσόδου ὑπαρχόντων πρότερον Ἡρ …
+r.2    Ἀλιλᾶις
+r.3    Θμοιναχή
+r.4    … καὶ ποταμὸς, ἀπηλιώτου ἰδιωτικὴ γῆ καὶ δημοσία γῆ, λ[ιβὸς ] …
+r.5    [ὁ αὐτὸς ὁ]ριοδείκτης ἐπέδειξα ἐν σπόρῳ [ἀρούρας] μθ 𐅵 ιϛ ξδ καὶ ὑπʼ ἄμμῳ [ἀρούρας ] …
+r.6    … ντες ἐπὶ τὸν νότον ἐπα … Μενελάου κλήρου ἀρούρας ι 𐅵 ιϛ [ʼλβ καὶ]
+r.7    … κλήρου ἀρούρας ι, γίνονται ἄρουραι κ 𐅵 ιϛ λβ, γείτονες νότου Μεσσαλινιανὰ [ἐδάφη καὶ]
+r.8    … , βορρᾶ ἀπηλιώτου πεδία Ἀγκυ[ρ]ώνων, λιβὸς δημοσία γῆ. [ὁ αὐτὸς]
+r.9    [ὁριοδείκτ]ης ἐπέδειξα ἐπὶ γῆς. λ … λειχους κλήρου ἀρούρας α 𐅵 …
+r.10   … [ γείτονες] νότου γύης, βορρᾶ ἀπηλιώτου Μεσσαλινιανὰ [ἐδάφη], λιβὸς ἰδιωτικὴ γῆ. ὁ αὐτὸς
+r.11   [ὁριοδείκτ]ης ἐπέδειξα ἐπὶ γῆς.
+r.12   … ἔτους λόγος Φαρμοῦθι. Ἡρακλείδης Ὡρίωνος ἐπιδέδωκα διὰ Μέλανος
+r.13   … είου βοηθοῦ.
+
+[TRANSLATION]
+# HGV-EN: ‘[…In the holding of … arurae, … whereof the boundaries are on the south …, on the north …] and the river, on the east private and public land, on the west ... I the said surveyor have verified 49 37/64 arurae under seed and … arurae covered with sand ... to the south ... in the holding of Menelaus 10 19/32 arurae and in the holding of . . . 10 arurae, total 20 19/32 arurae, whereof the boundaries are on the south the estates of Messalina, and …, on the north and east the fields of Ancyronon, on the west public land … I the said surveyor have verified it on the spot. ... in the holding of … 1½ [ ] arurae, whereof the boundaries are on the south a field, on the north and east the estates of Messalina, on the west private land. I the said surveyor have verified it on the spot. … year, account (?) of Pharmouthi. I, Heraclides son of Horion, have presented the return through Melas son of …, assistant.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

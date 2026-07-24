@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.107
+label:    O.STRAS 1.107
+name:     Receipt — Theben
+genre:    receipts
+date:     103 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (103 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75707
+source:   https://papyri.info/ddbdp/o.stras;1;107
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν υἱῶν Παήριος Ὀννώφριος ὑπὲρ ἐπικ
+r.2    … Νότου ϛ ἔτους ὀβολὸν. ἔτους ϛ Τραιανοῦ Καίσαρος
+r.3    τοῦ κυρίου Μεσορὴ ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     

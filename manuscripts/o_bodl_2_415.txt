@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.415
+label:    O.BODL 2.415
+name:     Receipt — Theben
+genre:    receipts
+date:     33 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (33 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71118
+source:   https://papyri.info/ddbdp/o.bodl;2;415
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Παμώνθης Φ … [ ὑπὲρ λαογραφίας ιθ ἔτους]
+r.2    δραχμὰς δέκα γίνονται δραχμαὶ ι καὶ τὰ τ[ούτων προσδιαγραφόμενα ἐξ]
+r.3    ὀβολοῦ 𐅵. ἔτους ιθ Τιβερίου Κ[αίσαρος Σεβαστοῦ]
+r.4    Φαμενὼθ λ‡α. Π …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

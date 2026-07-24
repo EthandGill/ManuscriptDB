@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.641
+label:    O.BODL 2.641
+name:     Receipt — Theben
+genre:    receipts
+date:     159 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (159 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71332
+source:   https://papyri.info/ddbdp/o.bodl;2;641
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ὧρος πράκτωρ ἀργυρικῶν Χάρακος Πετεμενώφει
+r.2    πρεσβυτέρῳ Παναμέως. ἔσχον ὑπὲρ χωματικοῦ καὶ βαλανευτικοῦ
+r.3    κβ ἔτους δραχμὰς ἑπτὰ πεντώβολον χαλκοῦς β γίνονται δραχμαὶ ζ πεντώβολον χαλκοῖ β.
+r.4    ἔτους κγ Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.5    Φαῶφι κϛ. Α … γραμματεὺς σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

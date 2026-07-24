@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 12.1443
+label:    P.Oxy. 12.1443
+name:     Documentary papyrus — Psinomerp() (Antaiopolites)
+genre:    documents
+date:     227 CE
+language: Greek (Koiné)
+found:    Psinomerp() (Antaiopolites)
+held:     
+shelf:    
+content:  Documentary papyrus from Psinomerp() (Antaiopolites) (227 CE)
+# hgv-keywords: Bericht — Sitologen an einen Strategen — Empfang von Zahlungen — Weizen — Artaben — Defizite durch Rückstände — Überweisungen
+tm:       21846
+source:   https://papyri.info/ddbdp/p.oxy;12;1443
+lat:      26.9528190683
+lon:      31.5960498491
+
+[GREEK]
+r.1    Α[ὐρ]ηλίωι Διονυσίωι τῷ καὶ Ἀγ …
+r.2    στρατηγῷ Ἀνταιοπολίτου …
+r.3    παρὰ Αὐρηλίων Δείου καὶ Μέλαν[ος καὶ ] …
+r.4    καὶ μετόχων σιτολόγων Ψινομερπ. λόγ[ος ἐν κεφαλαίῳ]
+r.5    τῶν μεμετρημένων ἡμῖν εἰς μ[ῆνας Θὼθ καὶ]
+r.6    Φαῶφι τοῦ ἐνεστῶτος ζ ἔτους, ἔτι δὲ [τῶν μεμετρη]μένων ὑπὲρ αὐτοῦ τοῦ δ[ι]ελθόντος ϛ ἔτους. ἔ[στι δέ· ] …
+r.7    διοικήσεως καὶ ἱερατικῶν μετρήματος ἀρτάβαι ρο, δανείων [ἀρτάβαι η, κριθῆς ἀρτάβαι ] … [,]
+r.8    φ[α]κοῦ ἀρτάβαι ο, λαχάνων ἀρτάβαι οε, [καὶ ἐπίμε]τρον τοῦ πυροῦ διαρταβίας ποδώματος πυροῦ ἀρτάβαι γ 𐅵, [ἑκατοστῆς α ποδώματος ἀρταβῆς κδ,]
+r.9    ἡμιαρταβίου ποδώματος ἀρταβῆς μη, γίνονται ποδώματος καὶ προσμετρουμένων ἀρτάβαι [γ 𐅵 κδ μη,]
+r.10   σὺν δὲ ταῖς τοῦ μετρήματος πυροῦ ἀρτάβαις ροη [πυροῦ ἀρτάβαι ρπα 𐅵 κδ μη]
+r.11   καὶ ἐκλόγου τῶν αὐτῶν μηνῶν ἐλοιπογραφήθησαν [πυροῦ ἀρτάβαι ] … [,]
+r.12   κριθῆς ἀρτάβαι ν, φακοῦ ἀρτάβαι λ, γενή[ματος][ τοῦ ϛ ἔτους.]
+r.13   [κα]ὶ μ[ετ]εβλήθησαν ἐξ ἐπιστάλματος [Αὐρηλίου]
+r.14   Σ[α]ραπίωνος τοῦ καὶ Ἡρακλείδου βα[σιλικοῦ][ γραμματέως ] …
+r.15   … [μ]ετρημα Ἀχιλλί[ωνος] τὰς τ …
+
+[TRANSLATION]
+# HGV-EN: To Aurelius Dionysius also called Ag..., strategus of the Antaeopolite nome, from the Aurelii, Dius, Melas and ... and their associates, sitologi of Psinomerp ... Summary account of payments to us for the months Thoth and Phaophi of the present 7th year, and further of payments on account of the past 6th year, as follows. For the general revenue and temple revenue, in payments 170 artabae, loans 8 art., barley ..art., lentils 70 art., vegetables 75 art., and for extra payments upon the wheat, for the two-artabae for storage 3 1/2 art. of wheat, for 1 per cent. upon the storage-charge 1/24 art., for 1/2 art. upon the storage-charge 1/48 art., total for storage and percentages 3 27/48 art. of wheat, making with the 178 art. of wheat of the payments 181 27/48 art. of wheat. And for arrears of the said months there was entered a deficit of .. art. of wheat, 50 art. of barley, 30 art. of lentils, from the produce of the 6th year. And there were transferred by order of Aurelius Sarapion also called Heraclides, basilicogrammateus, ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

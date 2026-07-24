@@ -1,0 +1,62 @@
+[META]
+id:       P.LEID.INST 1.21
+label:    P.LEID.INST 1.21
+name:     Receipt — Ptolemais Euergetis (Arsinoites)
+genre:    receipts
+date:     78 BCE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Ptolemais Euergetis (Arsinoites) (78 BCE)
+# hgv-keywords: Quittung — Steuern für den Kauf von Land — Weinberg
+tm:       5235
+source:   https://papyri.info/ddbdp/p.leid.inst;1;21
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    ἔτους γ Παῦνι λ πέπτωκεν ἐπὶ τὴν
+r.2    ἐν Πτολεμαίδι Εὐεργέτιδι τράπεζαν Φιλοξένῳ τραπεζίτῃ
+r.3    ὡς βασιλεῖ παρὰ Ἑλένης τῆς
+r.4    Ἀφροδισίου τέλος ἀμπελῶνος συνφύτου ἀναδενδραδικοῦ
+r.5    ἡμιαρουρίου ἢ ὅσων ἐὰν ᾖ καὶ τοῦ
+r.6    ἐπιβάλλοντος πέμπτου μέρους ὑποδοχείου
+r.7    καὶ κρήνης λιθίνης καὶ τῶν συγκυρόντων πάντων
+r.8    τῶν ὄντων ἐν β … η … ς και … υφο
+r.9    περὶ Ἰβιῶνα Εἰκοσιπενταρούρων τῆς Πολέμωνος μερίδος, γείτονες νότου
+r.10   Σενήσιος τῆς Ζωισίμου ἀμπελὼν
+r.11   διʼ οὗ ποτίζεται ὁ προγεγραμμένος ἀμπελών, βορρᾶ εἴσοδος κοινὴ
+r.12   καὶ ὑδραγωγός, λιβὸς Ἰσιδώρας τῆς Ἰσιδώρου ἀμπελών,
+r.13   ἀπηλιώτουἩρωίδου τοῦ Ἀπολλωνίου
+r.14   ἐλαιωνοπαράδεισος ἀνὰ μέσον οὔσης τῆς … ης
+r.15   Ἑλένης δι … υπ … β, ὧν ἔφη ἠγορακέναι αὐτὸν
+r.16   [κατὰ] συγγραφὴν παρὰ Ζωισίμου τοῦ Νικάνορος
+r.17   καὶ τῆς τούτου γυναικὸς Διοδώρας
+r.18   τῆς Καλλίωνος ταλάντων ι χαλκοῦ πρὸς ἀργύριον τάλαντον α,
+r.19   γίνεται τάλαντον α.
+r.20   Πτολεμαίου ἔτους γ
+
+[TRANSLATION]
+# HGV-EN: Year 3, Payni 30. Paid into the bank of Ptolemais Euergetis to Philoxenus the banker as for the king, by Helene, daughter of Aphrodisius, as tax for a cultivated vineyard where the vines grow up the trees, of a half aroura, or as many as there might be, and for the concomitant fifth part of a reservoir and of a stone well and all appurtenances which are in ... near Ibion Eikosipentarouron in the district of Polemon, the adjacent properties being: on the South a vineyard of Senesis, daughter of Zosimus, through which the above-mentioned vineyard is watered, on the North a common entrance and an irrigation channel, on the West a vineyard of Isidora, daughter of Isidorus, on the East a garden with olive-plantation of Herodes, son of Apollonius, being in the middle, the ... belonging to Helene through ..., on the 10 talents for which she stated to have bought it by contract from Zosimus, son of Nikanor and his wife Diodora, daughter of Kallion, one talent in copper against silver, total 1 talent. (stamp) Year 3 of Ptolemaios
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

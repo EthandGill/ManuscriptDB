@@ -1,0 +1,26 @@
+[META]
+id:       O.PETR.MUS 381
+label:    O.PETR.MUS 381
+name:     Receipt — Theben
+genre:    receipts
+date:     184 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (184 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       75420
+source:   https://papyri.info/ddbdp/o.petr.mus;;381
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [μέτρημα θησαυροῦ] μητροπόλεως γενήματος κδ ἔτους Κομμόδου [Ἀντωνίνου]
+r.2    [Καίσ]αρος τοῦ κυρίου Παῦνι β [ὑπὲρ … ὀνόματος]
+r.3    … ἓξ ὄγδοον κδ ἄλλο πυροῦ ὄγδοον …
+
+[TRANSLATION]
+1     
+2     
+3     

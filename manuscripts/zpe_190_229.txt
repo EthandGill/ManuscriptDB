@@ -1,0 +1,58 @@
+[META]
+id:       ZPE 190.229
+label:    ZPE 190.229
+name:     Documentary papyrus — Oxyrhynchos (Oxyrhynchites, Ägypten)
+genre:    documents
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (Oxyrhynchites, Ägypten)
+held:     Cairo
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (Oxyrhynchites, Ägypten) (501 CE – 600 CE)
+# hgv-keywords: Liste — Zahlungen — Namen
+tm:       99614
+source:   https://papyri.info/ddbdp/zpe;190;229
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ὁ κόμες Φῆλιξ νομισμάτια γ
+r.2    Θεόδωρος ἀδελφὸς νομισμάτια ϛ
+r.3    Ἀνοῦπ ῥιπάριος νομισμάτια γ
+r.4    Σερῆνος ὁ λαμπρότατος νομισμάτια γ
+r.5    Παῦλος ἐπικείμενος νομισμάτια γ
+r.6    Ἀπολλῶς ἐπικείμενος νομισμάτια ϛ
+r.7    Οὔρβικος νομισμάτια ϛ
+r.8    Ἀπφουᾶς υἱὸς Ψόιτος νομισμάτια ϛ
+r.9    Γεώργιος ζυγοστάτης νομισμάτια γ
+r.10   Σερῆνος ἀδελφὸς νομισμάτια ϛ
+r.11   Πέτρος ζυγοστάτης νομισμάτια ϛ
+r.12   Πετρών[ι]ος βοηθὸς νομισμάτια ϛ
+r.13   Πετρώνιος γραμματεὺς νομισμάτια ϛ
+r.14   Σερῆνος γραμματεὺς νομισμάτια …
+r.15   Παπνούθιος βοηθ[ὸς] [νομισμάτια] …
+r.16   Σέργιος μαγιστριανὸς νομισμάτια γ
+r.17   Ἀπφουᾶς λαμπρότατος νομισμάτια ϛ
+r.18   Παμούθιος λαμπρότατος νομισμάτια ϛ
+
+[TRANSLATION]
+# HGV-EN: The Comes Felix (?): solidi 3 Theodorus his brother: solidi 6 Anoup the riparios: solidi 3 Serenus vir clarissimus: solidi 3 Paul the overseer: solidi 3 Apollos the overseer: solidi 6 Urbicus: solidi 6 Amphouas, son of Psois: solidi 6 George the public weigher: solidi 3 Serenus his brother: solidi 6 Peter the public weigher: solidi 6 Petronius the assistant: solidi 6 Petronius the secretary: solidi 6 Serenus the secretary: solidi … Papnouthios the assistant: solidi … Sergius the magistrianus: solidi 3 Apphouas vir clarissimus: solidi 6 Pamouthios vir clarissimus: solidi 6
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 73
+label:    O.PETR.MUS 73
+name:     Receipt — Theben
+genre:    receipts
+date:     236 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (236 BCE)
+# hgv-keywords: Quittung — Steuer — Salzsteuer
+tm:       50401
+source:   https://papyri.info/ddbdp/o.petr.mus;;73
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιβ Φαμενὼθ ε ἁ[λι]κῆς καὶ τῶν
+r.2    λοιπῶν διὰ Σωστράτου
+r.3    Ἁρσιῆσις δραχμὴ α πεντώβολον τέταρτον χαλκοῦς
+r.4    Χιβῶις γυνή δραχμὴ α ἡμιωβέλιον τέταρτον
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1337
+label:    O.BODL 2.1337
+name:     Receipt — Theben
+genre:    receipts
+date:     139 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (139 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       72019
+source:   https://papyri.info/ddbdp/o.bodl;2;1337
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν μητροπόλεως γενήματος β ἔτους
+r.2    Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.3    Παῦνι δ ὑπὲρ Χάρακος ὀνόματος Χαταβοῦτος Ἑριοφμόιτος
+r.4    πυροῦ ἀρτάβης δ γίνεται πυροῦ ἀρτάβης δ. Πετε σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,26 @@
+[META]
+id:       P.Oxy. 14.1755
+label:    P.Oxy. 14.1755
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     101 CE – 225 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (101 CE – 225 CE)
+# hgv-keywords: Brief (privat) — Apion an NN — Einladung zum Essen — Sarapis
+tm:       29020
+source:   https://papyri.info/ddbdp/p.oxy;14;1755
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐρωτᾷ σε Ἀπίων δειπνῆσαι ἐν τῷ οἴκῳ
+r.2    τοῦ Σαραπείου εἰς κλίνην τοῦ κυρίου Σαράπιδος τῇ ιγ ἀπὸ
+r.3    ὥρας θ.
+
+[TRANSLATION]
+1     
+2     
+3     

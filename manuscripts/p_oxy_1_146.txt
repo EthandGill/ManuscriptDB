@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 1.146
+label:    P.Oxy. 1.146
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     555 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (555 CE)
+# hgv-keywords: Quittung — Heu — Kloster
+tm:       20787
+source:   https://papyri.info/ddbdp/p.oxy;1;146
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐδόθη διὰ τῶν μοναζόντων μοναστηρίου ἀββᾶ Ἀνδρέου Σερήνῳ σταβλίτῃ τοῦ βαδιστικοῦ
+r.2    στάβλου εἰς χρείαν τοῦ κοβαλεῦσαι χόρτον καὶ ἄχυρον ἀπὸ τῆς γεουχικῆς χορτοθήκης ἕως τοῦ στάβλου ἐπὶ μηνὸς
+r.3    Ἀθὺρ ιη ἰνδικτίονος δ μουεῖον ἕν, γίνεται μουεῖον α μόνον. γίνεται μουεῖον α ἓν μόνον.
+r.4    ἔτους σλβ καὶ σα, Ἀθὺρ ιη, ἰνδικτίονος τετάρτης.
+r.5    οἴκου σχοινία.
+r.6    πιτ τάκιον τοῦ μοναστηρίου ἀββᾶ
+r.7    δ ἰνδικτίονος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

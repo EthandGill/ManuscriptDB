@@ -1,0 +1,28 @@
+[META]
+id:       O.ELKAB 83
+label:    O.ELKAB 83
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     132 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (132 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24518
+source:   https://papyri.info/ddbdp/o.elkab;;83
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    διέγραψε Πρεμμῆχις Ψεμονχήους
+r.2    μερισμοῦ ιϛ ἔτους Ἁδριανοῦ Καίσαρος
+r.3    τοῦ κυρίου δραχμὰς η, χωματικοῦ δραχμὰς ζ διώβολον.
+r.4    ἔτους ιϛ Μεσορὴ ιε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

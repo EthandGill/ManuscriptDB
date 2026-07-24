@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 12.1489
+label:    P.Oxy. 12.1489
+name:     Letter — Oxyrhynchites (?)
+genre:    letters
+date:     276 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites (?)
+held:     
+shelf:    
+content:  Letter from Oxyrhynchites (?) (276 CE – 300 CE)
+# hgv-keywords: Brief (privat) — Sattos an Euphrosyne (seine Schwester?) — Anweisungen über seinen Mantel — Verpflichtungen — Geld — Kuchen — Grüße
+tm:       31746
+source:   https://papyri.info/ddbdp/p.oxy;12;1489
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Σάττος Εὐφροσύνῃ. ἄσπασον Φίρμον καὶ Τεκοῦσαν καὶ τοὺς ἡμῶν πάντας παρὰ τοῖς θεοῖς τῆς πόλεως τῶν Ἀντινοέων. τὸ κιθώνιν ἐπιλέλησμαι παρὰ Τεκοῦσαν εἰς τὸν πυλῶνα· πέμψον μοι
+r.2    ὡς ἔπεμψάς μοι. καὶ ἐνοχλεῖς μοι ὅτι ὀφείλεις Ἀγαθῷ Δαίμονι χαλκόν. πεπλήρωκα αὐτόν. εἰ πεποι[ή]κατε ψωμία, πέμψον μοι
+r.3    ἕως τοῦ ἄλλο[υ] μηνὸς ἐλεύσομαι. εἴθε πάντας πεπλήρωκα ὡς Ἀγαθὸν
+r.4    Δαίμονα. οὐκ ἦς ἐμὸς ἀνάδοχος. οὐκ ἔχεις πρᾶγμα. μὴ ἐνοχλῇς.
+r.5    εἰ δεῖ, ἔρχομαι τῷ ἄλλῳ μηνί. παράδος τὸ κιθώνιν μου Κεραρέᾳ
+r.6    τῇ κουρίδι. ἀσπάζου Στράτ[ο]ν καὶ Στρατονίκην καὶ τὰ παιδ[ία]
+r.7    αὐτῶν. ἐρρῶσθαί σε εὔχομαι.
+r.8    [τῇ] ἀδελφῇ Εὐφ[φροσύ]νῃ Σάττος Ἁρποκράτου.
+
+[TRANSLATION]
+# HGV-EN: Sattos to Euphrosyne. Salute Firmus and Tecusa and all our friends before the gods of Antinoöpolis. I have left my cloak behind with Tecusa at the gateway; send it me as you sent it me before. You worry me about the money which you owe to Agathodaemon: I have paid him in full. If you have made any cakes, send them to me, as I shall return in another month. I wish that I had paid every one like Agathodaemon. You were not my security; it is not your affair; do not worry. If necessary, I shall return in another month. Deliver my cloak to Kerarea, the hairdresser. Salute Stratus and Stratonice and their children. I pray for your health. (Addressed) To my sister Euphrosyne from Sattos son of Harpocrates.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

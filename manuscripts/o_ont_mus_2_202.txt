@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.202
+label:    O.ONT.MUS 2.202
+name:     Receipt — Theben
+genre:    receipts
+date:     192 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (192 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75223
+source:   https://papyri.info/ddbdp/o.ont.mus;2;202
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Κάλλιστος π[ράκτωρ][ σιτικῶν ] … [ Πετε]μενώφιος Σεν …
+r.2    ἔσχον εἰς πρ[όσθεσιν][ πυροῦ ἀρτάβης μη γίνεται πυροῦ ἀρτάβης μη]
+r.3    καὶ κριθῆς ἀρτάβη γίνεται [κριθῆς]
+r.4    ἀρτάβη 1 γίνεται ἀρτάβης μη. ἔτους λβ Μ …
+r.5    Κάλλιστος σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

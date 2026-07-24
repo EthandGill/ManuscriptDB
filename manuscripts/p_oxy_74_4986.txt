@@ -1,0 +1,28 @@
+[META]
+id:       P.Oxy. 74.4986
+label:    P.Oxy. 74.4986
+name:     Documentary papyrus — Antinoopolis bzw. Oxyrhynchos
+genre:    documents
+date:     146 CE
+language: Greek (Koiné)
+found:    Antinoopolis bzw. Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Antinoopolis bzw. Oxyrhynchos (146 CE)
+# hgv-keywords: Deklaration — Zensus — Fragment — tomos synkollesimos
+tm:       128291
+source:   https://papyri.info/ddbdp/p.oxy;74;4986
+lat:      
+lon:      
+
+[GREEK]
+r.1    … γυμνασιαρχ Ἀν[τ]ινόου … πόλεως
+r.2    … του Πασέμσεως μη[τρὸς] … μη … ομαι
+r.3    … δ …
+
+[TRANSLATION]
+# HGV-EN: . . . (former?) gymnasiarch of Antinoopolis . . . (son of) . . . (grandson of) Pasemsis, mother . . . (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

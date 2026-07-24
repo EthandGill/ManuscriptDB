@@ -1,0 +1,24 @@
+[META]
+id:       O.KROK 1.145
+label:    O.KROK 1.145
+name:     Documentary papyrus — Krokodilo
+genre:    documents
+date:     98 CE – 138 CE
+language: Greek (Koiné)
+found:    Krokodilo
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Krokodilo (98 CE – 138 CE)
+# hgv-keywords: tessera — Datum (Monat, Tag) — Name eines praesidium (Persu)
+tm:       88742
+source:   https://papyri.info/ddbdp/o.krok;1;145
+lat:      25.9426109674
+lon:      33.4011614055
+
+[GREEK]
+r.1    Φαρμουθει κη
+r.2    Πέρσου
+
+[TRANSLATION]
+1     
+2     

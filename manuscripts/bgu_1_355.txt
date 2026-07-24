@@ -1,0 +1,54 @@
+[META]
+id:       BGU 1.355
+label:    BGU 1.355
+name:     Documentary papyrus — Soknopaiu Nesos (Arsinoites)
+genre:    documents
+date:     141 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Soknopaiu Nesos (Arsinoites) (141 CE)
+# hgv-keywords: Deklaration — Kamele
+tm:       9078
+source:   https://papyri.info/ddbdp/bgu;1;355
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    Σοκνοπαίου Νήσου κάμηλοι γ.
+r.2    Ἀπολλινάρι στρατηγῷ καὶ Σαραπίωνι
+r.3    βασιλικῷ γραμματεῖ Ἀρσινοίτου Ἡρακλείδου μερίδος
+r.4    παρὰ Σώτου τοῦ Ἀραβᾶ
+r.5    ἀπὸ ἀμφόδου Διονυσίου τόπων
+r.6    ἃς τῶι διεληλυθότι ἔτει ἀπεγραψάμην
+r.7    περὶ Σοκνοπαίου Νῆσον
+r.8    καμήλους τρεῖς , καὶ νῦν
+r.9    ἀπογράφομαι εἰς τὸ ἐνεστὸς δ ἔτους
+r.10   Ἀντωνείνου Καίσαρος
+r.11   τοῦ κυρίου ἐπὶ τῆς
+r.12   Σοκνοπαίου Νήσου.
+r.13   ἀπεγράφησαν στρατηγῷ κάμηλοι γ
+r.14   ἔτους δ Ἀντωνίνου Καίσαρος τοῦ
+r.15   [κυρίου] [Μ]εχεὶρ ε ἀπεγράφησαν βασιλικῷ
+r.16   [γραμματεῖ κάμηλοι γ ] …
+
+[TRANSLATION]
+# HGV-EN: Soknopaiou Nesos, 3 camels. To Apollinaris, strategos, and Sarapion, royal scribe of the Arsinoite nome, Herakleides division, from Sotas, son of Arabas, from the quarter of Dionysios’ areas. The three camels, which I registered in the past year near Soknopaiou Nesos, I register now as well for the present 4th year of Antoninus Caesar, the lord, in Soknopaiou Nesos. (m. 2) 3 camels were registered at the office of the strategos. Year 4 of Antoninus Caesar, the [lord, Mecheir x]. (m. 3) [3 camels] were registered at the office of the royal [scribe] – – –
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

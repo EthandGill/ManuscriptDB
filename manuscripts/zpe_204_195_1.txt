@@ -1,0 +1,38 @@
+[META]
+id:       ZPE 204.195_1
+label:    ZPE 204.195_1
+name:     Documentary papyrus — unbekannt
+genre:    documents
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     Vienna
+shelf:    
+content:  Documentary papyrus from unbekannt (101 CE – 300 CE)
+# hgv-keywords: Land — Grundstücksbeschreibung — königlicher Besitz
+tm:       738006
+source:   https://papyri.info/ddbdp/zpe;204;195_1
+lat:      
+lon:      
+
+[GREEK]
+r.1    μ …
+r.2    καὶ ἐν τόπῳ κατεργασίας ἄρουραι … [ βασιλικῆς, ὧν]
+r.3    γείτονες νότῳ Βαυθλᾶτος Ἡλιοδ[ώρου, βορρᾶ]
+r.4    Πασίωνος Νεμεσίωνος, λ[ιβὸς] …
+r.5    Μιύσιος, ἀπηλιώτου ὄρος.
+r.6    γίνονται αἱ προκείμεναι τῆς βασιλικῆς ἄρουραι … [, ὧν τὸ]
+r.7    αἱροῦν ὑπολόγου ἀφόρου ἄρουραι …
+r.8    ἐν τόπῳ Τεμνούρεως ἀπὸ ἀρουρῶν ι … [ βασιλικῆς ἀρουρῶν] … [ὑπολόγου]
+
+[TRANSLATION]
+# HGV-EN: … and in the region under cultivation x (ar.) [of royal land, of which] the neighbours are in the south Bauthlas, son of Heliod[oros, in the north] Pasion, son of Nemesion, [in the west NN son of] Miysis, in the east the desert. The total of the above-mentioned (arouras) of royal land amounts to n (ar.), [of which the share] that falls under unproductive land in deduction amounts to [n] (ar.). In the territory of Temnouris from 10 (?) [(ar.) of royal land n (ar.) of land in deduction].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

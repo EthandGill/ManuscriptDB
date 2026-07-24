@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.2260
+label:    O.BODL 2.2260
+name:     Receipt — Theben
+genre:    receipts
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (201 CE – 300 CE)
+# hgv-keywords: Quittung — Wein — Anweisung — Lieferung
+tm:       72893
+source:   https://papyri.info/ddbdp/o.bodl;2;2260
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    προσπέπτωκεν ἀπὸ τοῦ νέου
+r.2    οἴνου διπλᾶ β λοιπὰ διπλᾶ ι καὶ ἀπὸ τούτων
+r.3    δὸς Π … διπλᾶ β.
+
+[TRANSLATION]
+1     
+2     
+3     

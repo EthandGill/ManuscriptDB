@@ -1,0 +1,28 @@
+[META]
+id:       O.ELKAB 123
+label:    O.ELKAB 123
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (120 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24550
+source:   https://papyri.info/ddbdp/o.elkab;;123
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    Παμώνθης Ψε[μονχήους]
+r.2    τέλους δ ἔτους [Ἁδ]ρ[ιανοῦ Καίσαρος]
+r.3    τοῦ κυρί[ου δραχμὰς ] …
+r.4    ἔτους δ Τῦβι λ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

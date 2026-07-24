@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1058
+label:    O.BODL 2.1058
+name:     Receipt — Theben
+genre:    receipts
+date:     90 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (90 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71745
+source:   https://papyri.info/ddbdp/o.bodl;2;1058
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Π[ετε]χεσποχράτης Ὥρου καὶ μέτοχοι
+r.2    Α … ις Παναμέως χαίρειν.
+r.3    ἀπέχομεν παρὰ σοῦ δραχμὰς δ διώβολον τὸ τέλος
+r.4    Παχὼν Παοῖνι. ἔτους θ Δομιτιανοῦ Καίσαρος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

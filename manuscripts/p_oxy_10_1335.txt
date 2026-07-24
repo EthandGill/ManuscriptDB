@@ -1,0 +1,28 @@
+[META]
+id:       P.Oxy. 10.1335
+label:    P.Oxy. 10.1335
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     482 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (482 CE)
+# hgv-keywords: Anweisung — Zahlung — Fleisch
+tm:       21813
+source:   https://papyri.info/ddbdp/p.oxy;10;1335
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἰωάννης Σερήνῳ μαγείρῳ.
+r.2    παράσχου τοῖς παιδίοις τοῦ κόμιτος Διογένους κρέως λίτρας ἓξ μόνας.
+r.3    ἔτους ρνη ρκζ Φαμενὼθ ιβ ε ἰνδικτίονος. σεσημείωμαι κρέως λίτρας
+r.4    ἓξ μόνας
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

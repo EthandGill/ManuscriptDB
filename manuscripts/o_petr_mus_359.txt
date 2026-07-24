@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 359
+label:    O.PETR.MUS 359
+name:     Receipt — Theben
+genre:    receipts
+date:     100 CE – 117 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (100 CE – 117 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       75406
+source:   https://papyri.info/ddbdp/o.petr.mus;;359
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κ[ωμῶν γενήματος τοῦ] … [ἔτους]
+r.2    Τραιανοῦ Κα[ίσαρος τοῦ κυρίου]
+r.3    Μεσορὴ ιβ ὀν[όματος δεῖνος τοῦ δεῖνος]
+r.4    πυροῦ ἤμισυ δκδ [γίνονται ἤμισυ δκδ]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

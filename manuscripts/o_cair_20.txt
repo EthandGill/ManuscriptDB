@@ -1,0 +1,30 @@
+[META]
+id:       O.CAIR 20
+label:    O.CAIR 20
+name:     Receipt — Diospolis Magna (Theben)
+genre:    receipts
+date:     244 BCE
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     
+shelf:    
+content:  Receipt from Diospolis Magna (Theben) (244 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       73369
+source:   https://papyri.info/ddbdp/o.cair;;20
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    ἔτους δ Παχὼνς λ.
+r.2    μύρου τετάρτης εἰς τὸ δ ἔτος
+r.3    Παυῆς Ψεγχώνσιος
+r.4    δραχμὴν μίαν τριώβολον.
+r.5    Χαιρήμων.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,40 @@
+[META]
+id:       P.RYL 2.204
+label:    P.RYL 2.204
+name:     Documentary papyrus — Hermopolites
+genre:    documents
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Hermopolites
+held:     
+shelf:    
+content:  Documentary papyrus from Hermopolites (101 CE – 300 CE)
+# hgv-keywords: Abrechnung (Steuern, Korn) — Rückstände
+tm:       27889
+source:   https://papyri.info/ddbdp/p.ryl;2;204
+lat:      
+lon:      
+
+[GREEK]
+r.1    λόγος ὀφειλομένης κριθῆς ιβ ἔτους ὑπὲρ λοιπογραφίας
+r.2    Λευκοπυργίτου Ἄνω.
+r.3    κριθῆς λοιπογραφουμένης ια ἔτους Τέρτου Πετοχνούβεως ἀρτάβαι ε κδ
+r.4    ἀπὸ τῶν ὀφειλομένων Βουσίρεως Σιναρχήβεως ἀρταβῶν η 𐅵 γ η,
+r.5    λοιπαὶ γ 𐅵 γ ιβ.
+r.6    καὶ πρότερον βληθεῖσαι ἀρτάβαι β 𐅵.
+r.7    ιβ ἔτους Ποαμπιμήνεως ἀρτάβης 𐅵 δ κδ μη,
+r.8    Σιγκερή ἀρτάβαι δ γ ιβ μη,
+r.9    Τέρτου ἀρτάβαι ι κδ.
+
+[TRANSLATION]
+# HGV-EN: ‘Account of barley owing for the 12th year on account of arrears of the Upper Leucopurgite Toparchy. Of barley in arrears for the 1th year 5 1/24 artabae for Terton Petochnoubeos (are to be deducted) from the 8 23/24 owing for Bousiris Sinarchebeos, leaving 3 11/12; formerly paid 2 1/2 artabae. For the 12th year, Poampimenis 39/48 artaba, Sinkere 4 7/16 artabae, Terton 10 1/24 artabae.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

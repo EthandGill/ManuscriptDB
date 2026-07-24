@@ -1,0 +1,48 @@
+[META]
+id:       CHLA 4.233
+label:    CHLA 4.233
+name:     Petition — Oxyrhynchites
+genre:    petitions
+date:     258 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Petition from Oxyrhynchites (258 CE)
+# hgv-keywords: Petition — an d. Praefectus Aegypti Mussius Aemilianus — Beerben eines ohne Testament Verstorbenen
+tm:       21587
+source:   https://papyri.info/ddbdp/chla;4;233
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Αὐρήλιος Εὐδαίμων Κατιλλίου ἐπιδέδωκα
+r.2    αἰτούμενος διακατοχὴν κληρονομίας
+r.3    τοῦ πατρός μου τῶν κατὰ διαδοχὴν κληρονομηθέντων ὑπʼ αὐτοῦ ἀδιαθέτου τετελευτηκότος. Αὐρήλιος Θέων Ἁρπάλου ἔγραψα ὑπὲρ αὐτοῦ μὴ εἰδότος γράμματα.
+r.4    ἔτους ϛ Θωθ κζ. ex edicto : legi. τόμος εἷς .
+r.5    ἑρμηνεία τῶν Ῥωμαικῶν·
+r.6    Μουσσίωι Αἰμιλιανῷ τῷ λαμπροτάτωι
+r.7    διέποντι τὴν ἡγεμονίαν παρὰ Αὐρηλίου Εὐδαίμονος. ἐρωτῶ, κύριε, δοῦναί μοι διακατοχὴν
+r.8    ὑπ[α]ρχόντων πρότερον Κατιλλίου Οὐαριανοῦ πατρός
+r.9    μου τετελευτηκότος ἀδιαθέτου, ἐξ ἐκείνου τοῦ
+r.10   μέρους τοῦ διατάγματος τοῦ τοῖς νομίμοις
+r.11   κληρονόμοις τ[ὴ]ν διακατοχὴν διδόντος. ἐδόθη
+r.12   π[ρ]ὸ η καλανδῶν Ὀκτωβρίω[ν] Τούσκῳ καὶ Βάσσῳ
+r.13   ὑπάτοις. ἔτους ϛ Θὼθ κζ. ἐκ τοῦ διατάγματος· ἀνέγνων. κόλλημα δ, τόμος εἷς .
+
+[TRANSLATION]
+# HGV-EN: To Mussius Aemilianus the most illustrious, praefect of Egypt, from Aurelius Eudaemon. I beg you, my lord, to grant me possession of the property of my father Catillius Varianus ... I, Aurelius Eudaemon son of Catillius, have presented this petition asking for the succession to the inheritance of my father, namely the property inherited in turn by him, having died intestate. I, Aurelius Theon son of Harpalus, wrote for him as he was illiterate. The sixth year, Thoth 27, (Endorsed) In accordance with the edict; read by me. Sheet 4, volume 1. Translation of the Latin. To Mussius Aemilianus the most illustrious, deputy-praefect, from Aurelius Eudaemon. I beg you, my lord, to grant me the succession to the property formerly belonging to my father Catillius Varianus who has died intestate, in accordance with that portion of the edict which grants succession to the lawful heirs. Dated the 8th day before the calends of October, in the consulship of Tuscus and Bassus. The sixth year, Thoth 27. In accordance with the edict; read by me. Sheet 4, volume 1.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

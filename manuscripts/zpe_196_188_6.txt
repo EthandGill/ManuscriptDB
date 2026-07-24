@@ -1,0 +1,36 @@
+[META]
+id:       ZPE 196.188_6
+label:    ZPE 196.188_6
+name:     Documentary papyrus — Hibis (Oasis Magna)
+genre:    documents
+date:     326 CE – 400 CE
+language: Greek (Koiné)
+found:    Hibis (Oasis Magna)
+held:     New York
+shelf:    
+content:  Documentary papyrus from Hibis (Oasis Magna) (326 CE – 400 CE)
+# hgv-keywords: Abrechnung — Ziegel
+tm:       653474
+source:   https://papyri.info/ddbdp/zpe;196;188_6
+lat:      25.4764
+lon:      30.5552
+
+[GREEK]
+r.1    [παρ]έσχεν Ἰάκωβος πλίνθους …
+r.2    ὁμοίως πλίνθους υν
+r.3    ὁμοίως πλίνθους Αω
+r.4    ὁμοίως πλίνθους Βω
+r.5    ὁμοίως πλίνθους χ
+r.6    ὁμοίως πλίνθους χ
+r.7    [ὁ]μοίως πλίνθους Ασ
+
+[TRANSLATION]
+# HGV-EN: Jacob furnished […] bricks; likewise, 450 bricks; likewise, 1800 bricks; likewise, 2800 bricks; likewise, 600 bricks; likewise, 600 bricks; likewise, 1200 bricks.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

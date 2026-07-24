@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 1.260
+label:    O.BODL 1.260
+name:     Letter — Theben (?)
+genre:    letters
+date:     300 BCE – 201 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Letter from Theben (?) (300 BCE – 201 BCE)
+# hgv-keywords: Brief — Heras an Patseus
+tm:       70990
+source:   https://papyri.info/ddbdp/o.bodl;1;260
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἡρᾶς Πατσεῖ χαίρειν.
+r.2    ἀνάστασον ἤδη
+r.3    Παμώνθην εἰς τὴν
+r.4    προστάδα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,50 @@
+[META]
+id:       BGU 1.64
+label:    BGU 1.64
+name:     Documentary papyrus — Karanis (Arsinoites)
+genre:    documents
+date:     217 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Karanis (Arsinoites) (217 CE)
+# hgv-keywords: Bericht — Sitologen
+tm:       9108
+source:   https://papyri.info/ddbdp/bgu;1;64
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Αὐρηλίῳ Διονυσίῳ στρατηγῷ Ἀρσινοίτου Ἡρακλείδου μερίδος
+r.2    παρὰ Αὐρηλίων Λογγίνου τοῦ καὶ Ζωσίμου Λεωνίδου καὶ Ἁρπάλου
+r.3    Σαραπίωνος καὶ Ἥρων[ος] Κόπρητος και Ὡρίων[ος] Μάρωνος τῶν δ καὶ τῶν λοιπῶν
+r.4    σιτολόγων κώμης Καρανίδος.
+r.5    μηνιαῖος ἐνκεφαλαίῳ τοῦ Μεχεὶρ μηνὸς τοῦ ἐνεστῶτος κε ἀπὸ γενημάτων
+r.6    τοῦ διεληλυθότος κδ ἔτους εἰσὶν αἱ μετρηθεῖσαι ἡμῖν τῆς προκειμένης κώμης τῷδε τῷ μηνὶ
+r.7    πυροῦ ἀρτάβαι πζ 𐅵, ὧν Καρανίδος δημοσίων πυροῦ ἀρτάβαι ξη, κατοίκων πυροῦ ἀρτάβαι ιθ 𐅵, γίνονται κώμης πυροῦ ἀρτάβαι πζ 𐅵
+r.8    καὶ ταύταις προσαναλαμβάνονται ὑπὲρ φιλανθρώπου καὶ ἄλλων πυροῦ ἀρτάβαι β 𐅸
+r.9    γίνονται σὺν φιλανθρώπῳ πυροῦ ἀρτάβαι ϙ δ καὶ ἐγλόγῳ τοῦ προτέρου μηνὸς πυροῦ ἀρτάβαι Γψλα
+r.10   σὺν τῇ ἐγλ[όγῳ] πυροῦ ἀρτάβαι Γωκα δ …
+r.11   ἔτους κε Μάρκου Αὐρηλίου Σεουήρου Ἀντωνείνου Παρθικοῦ Μεγίστου
+r.12   Β[ρετανν]ικ[οῦ Μεγίστου] Γερμανικοῦ Μεγίστου Εὐτυχοῦς Εὐσεβοῦς Σεβαστοῦ
+r.13   … [ Α]ὐρήλιος Λογγίνου τοῦ καὶ Ζωσίμου Λεωνίδου
+r.14   … κας ὡς πρόκειται.
+
+[TRANSLATION]
+# HGV-EN: To Aurelius Dionysios, strategos of the Arsinoite nome, Herakleides division, from the Aurelii Longinus alias Zosimos, son of Leonides, and Harpalos, son of Sarapion, and Heron, son of Kopres, and Horion, son of Maron, all 4 and the remaining sitologoi of the village of Karanis. Monthly summary for the month of Mecheir of the present (year) 25 from the produce of the past year 24. There are 87 1/2 artabas of wheat, which were measured to us for the above mentioned village in this month, of which for Karanis for the cultivators of state land (there are) 68 artabas of wheat, for the katoikoi 19 1/2 artabas of wheat, = 87 1/2 artabas of wheat for the village. To these are added for an administrative fee as well as other (fees) 2 3/4 artabas of wheat, = 90 1/4 artabas of wheat including an administrative fee. And from the balance of the account of the previous month 3731 artabas of wheat, with the balance of this account 3821 1/4 artabas of wheat Year 25 of Marcus Aurelius Severus Antoninus Parthicus Maximus B[ritann]ic[us Maximus] Germanicus Maximus Felix Pius Augustus. [ (m. 2) A]urelius Longinus alias Zosimos, son of Leonides , as aforesaid.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

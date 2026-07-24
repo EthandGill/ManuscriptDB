@@ -1,0 +1,40 @@
+[META]
+id:       BGU 1.213
+label:    BGU 1.213
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     113 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (113 CE)
+# hgv-keywords: Quittungen für δίπλωμα ὄνων
+tm:       8976
+source:   https://papyri.info/ddbdp/bgu;1;213
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ἔτους πεντεκαιδεκάτου Αὐτο[κ]ράτορος
+r.2    Καίσαρος Νέρουα Τραιανοῦ Σεβαστοῦ
+r.3    [Γ]ερμανικοῦ Δακικοῦ Παῦνι β διέγραψε
+r.4    Μυσθαρίωνι μισθωτῇ διπλώματος ὄνων
+r.5    Καρανίδος Ἀπλωνοῦς Σεραπίωνος μηχαναρία ὑπὲρ
+r.6    [δ]ιπλώματος ιε ἔτους ὑπὲρ ὄνου ἑνὸς ἀργυρίου δραχμὰς
+r.7    [ὀ]κτὼ γίνονται δραχμαὶ η καὶ τῷ ιϛ ἔτει Τραιανοῦ Καίσαρ[ος]
+r.8    τοῦ κυρίου Φαμ[ε]νὼθ β ὑπὲρ ὄνου ἑνὸς ἀργυρίου
+r.9    δραχμὰς ὀκτὼ γίνονται δραχμαὶ η.
+
+[TRANSLATION]
+# HGV-EN: Year fifteen of Imperator Caesar Nerva Traianus Augustus [G]ermanicus Dacicus, Payni 2. Paid to Mystharion, tax farmer of the licence on donkeys of Karanis, (by) Aplonous, son of Serapion, mechanarios, for the licence of year 15 for one donkey eight silver drachmas, = 8 drachmas; and in year 16 of Traianus Caesar, the lord, Phamenoth 2 for one donkey eight silver drachmas, = 8 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

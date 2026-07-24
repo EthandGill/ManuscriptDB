@@ -1,0 +1,30 @@
+[META]
+id:       CPR 6.4
+label:    CPR 6.4
+name:     Receipt — Tanis (Arsinoites)
+genre:    receipts
+date:     182 CE
+language: Greek (Koiné)
+found:    Tanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Tanis (Arsinoites) (182 CE)
+# hgv-keywords: Quittung (Steuern, Weideland) — Namen — Nomarchen
+tm:       9875
+source:   https://papyri.info/ddbdp/cpr;6;4
+lat:      29.393521
+lon:      31.031412
+
+[GREEK]
+r.1    ἔτους κβ Μάρκου Αὐρηλίου Κ[ο]μμόδου
+r.2    Ἀντωνίνου Σεβαστοῦ. Παχὼν λ.
+r.3    διεγράφησαν Νεμεσίωνι καὶ τοῖς σὺν αὐτῷ
+r.4    γενομένοις νομάρχαις ὑπὲρ φό[ρο]υ νομῶν Τάνεως διὰ Ἄμμωνος Νεμεσίωνος κα ἔτους δραχμαὶ ἑκατόν .
+r.5    γίνονται [δραχμαὶ ρ]. διʼ Ἑρμι σεσημείωται
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

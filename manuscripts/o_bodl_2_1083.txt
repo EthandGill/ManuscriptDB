@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1083
+label:    O.BODL 2.1083
+name:     Receipt — Theben
+genre:    receipts
+date:     71 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (71 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71770
+source:   https://papyri.info/ddbdp/o.bodl;2;1083
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φθομώνθης Πτολεμαίου τελώνης πεντηκοστῆς
+r.2    Τωὺτ Φθειοῦτι Πορεγέβθιος χαίρειν.
+r.3    ἀπέχω παρὰ σοῦ τέλος φοινίκων
+r.4    ὄνων τριῶν . ἔτους δ Οὐεσπασιανοῦ
+r.5    τοῦ κυρίου Φαῶφι ιε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

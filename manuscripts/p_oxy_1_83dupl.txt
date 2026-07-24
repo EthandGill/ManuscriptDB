@@ -1,0 +1,68 @@
+[META]
+id:       P.Oxy. 1.83dupl
+label:    P.Oxy. 1.83dupl
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     328 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (328 CE)
+# hgv-keywords: Erklärung — Eid — Verkäufer (Eier) — zwei Exemplare
+tm:       20742
+source:   https://papyri.info/ddbdp/p.oxy;1;83dupl
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Φλαουίῳ Θαννύρᾳ λογιστῇ Ὀξυρυγχίτου
+r.2    παρὰ Αὐρηλίου Νίλου Διδύμου
+r.3    ἀπὸ τῆς λαμπρᾶς καὶ λαμπροτάτης Ὀξυρυγχιτῶν πόλεως
+r.4    ᾠοπώλου τὴν τέχνην.
+r.5    ὁμολογῶ ὀμνὺς τὸν σεβάσμιον
+r.6    θεῖον ὅρκον τῶν δεσποτῶν
+r.7    ἡμῶν Αὐτοκράτορός τε καὶ Καισάρων
+r.8    τὴν διάπρασίν με τῶν ᾠῶν
+r.9    ποιήσασθαι ἐπὶ τῆς ἀγορᾶς
+r.10   δημοσίᾳ πρὸς διάπρασιν
+r.11   καὶ εὐθενίαν τῆς αὐτῆς
+r.12   πόλεως ἡμερησίως
+r.13   ἀδιαλείπτως, καὶ μὴ ἐξεῖναί
+r.14   μοι εἰς τὸ ἐπιὸν κρυβῆ
+r.15   ἢ καὶ ἐν τῇ ἡμετέρᾳ οἰκίᾳ
+r.16   πωλεῖν. εἰ δὲ ὕστερον φα[νε]ίη[ν] ἐν τῇ οἰκίᾳ μου
+r.17   [πωλῶν ] … οις
+r.18   … μα …
+r.19   … υ …
+r.20   … τῶν λαμπροτάτων, Τῦβι κα.
+r.21   [Αὐρήλιος Ν]ῖλος ὤμοσα τὸν θεῖον
+r.22   [ὅρκο]ν ὡς πρόκειται. Αὐρήλιος Δῖος
+r.23   [ἔγραψα] ὑπὲρ αὐτοῦ μὴ εἰδότος γράμματα.
+
+[TRANSLATION]
+# HGV-EN: To Flavius Thennyras, logistes of the Oxyrhynchite nome, from Aurelius Nilus, son of Didymus, of the illustrious and most illustrious city of Oxyrhynchus, an egg-seller by trade. I hereby agree on the august, divine oath by our lords the Emperor and the Caesars to offer my eggs in the market-place publicly, for sale and for the supply of the said city, every day without intermission, and I acknowledge that it shall be unlawful for me in the future to sell secretly or in my house. If I am detected so doing, (I shall be liable to the penalty for breaking the oath).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    

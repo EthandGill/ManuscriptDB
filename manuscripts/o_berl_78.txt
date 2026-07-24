@@ -1,0 +1,24 @@
+[META]
+id:       O.BERL 78
+label:    O.BERL 78
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (101 CE – 200 CE)
+# hgv-keywords: Quittung (?)
+tm:       29932
+source:   https://papyri.info/ddbdp/o.berl;;78
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Χάρακος Νεχθανούφιος ὁμοίως καὶ
+r.2    ἀδελφός πυροῦ ἀρτάβης ϛ.
+
+[TRANSLATION]
+1     
+2     

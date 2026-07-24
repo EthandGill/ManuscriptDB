@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.436
+label:    O.STRAS 1.436
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     151 CE – 225 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (151 CE – 225 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       76024
+source:   https://papyri.info/ddbdp/o.stras;1;436
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἐπὶφ … τοῦ … ἔτους ὀνόματος
+r.2    Α … Ψενχεσπ[ισί]χιος
+r.3    ὑπὲρ Χάρακος πυροῦ ἥμισυ γίνεται πυροῦ 𐅵
+r.4    … π … σεσημείωμαι πυροῦ 𐅵.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

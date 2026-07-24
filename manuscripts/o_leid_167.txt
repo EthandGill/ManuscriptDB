@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 167
+label:    O.LEID 167
+name:     Receipt — Theben
+genre:    receipts
+date:     208 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (208 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24724
+source:   https://papyri.info/ddbdp/o.leid;;167
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁθὺρ ιε τοῦ ιζ ἔτους
+r.2    ὀνόματος Ψεντφοῦτος Πετεσούχου
+r.3    ὑπὲρ γεωμετρίας ιϛ ἔτους Νότου δραχμὰς τέσσαρας τετρώβολον,
+r.4    γίνονται δραχμαὶ δ τετρώβολον. Α σεσημείωμαι.
+r.5    ἄλλας Πετεχώνσιος Πικῶτος γεωμετρίας δραχμὰς δ τετρώβολον.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

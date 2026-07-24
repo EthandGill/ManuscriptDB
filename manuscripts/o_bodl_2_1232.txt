@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1232
+label:    O.BODL 2.1232
+name:     Receipt — Theben
+genre:    receipts
+date:     122 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (122 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       71915
+source:   https://papyri.info/ddbdp/o.bodl;2;1232
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κωμῶν γενήματος ϛ ἔτους
+r.2    Ἁδριανοῦ τοῦ κυρίου Ἐπεὶφ ιη ὀνόματος
+r.3    Κοίντου Ἀποληίου Ἁτερίου
+r.4    κριθῆς δύο γίνονται κριθῆς β. Γάιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       P.MUENCH 1.17
+label:    P.MUENCH 1.17
+name:     Documentary papyrus — Syene
+genre:    documents
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Syene
+held:     
+shelf:    
+content:  Documentary papyrus from Syene (501 CE – 600 CE)
+# hgv-keywords: Nicht erkennbar
+tm:       35831
+source:   https://papyri.info/ddbdp/p.muench;1;17
+lat:      24.0885745
+lon:      32.901491
+
+[GREEK]
+r.1    [ἐ]ξ ἐμῆ[ς ὑποστ]άσ[εως ] …
+r.2    εἰς χεῖρά μου …
+r.3    … ζ[υγῷ] Συήνης …
+r.4    ὁπ[όταν βουληθείης ἀν]υπερθέτως …
+r.5    διʼ ἐμοῦ Ἀρφ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

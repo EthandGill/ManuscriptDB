@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.373
+label:    O.STRAS 1.373
+name:     Receipt — Theben
+genre:    receipts
+date:     155 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (155 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75961
+source:   https://papyri.info/ddbdp/o.stras;1;373
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [μέτρημα θησαυροῦ] μητροπόλεως γενήματος ιη ἔτους Ἀντωνίνου
+r.2    [Καίσαρος τοῦ κυρί]ου Παῦνι ιδ ὑπὲρ Ἀγορᾶς
+r.3    [ὀνόματος ] … τος [Σ]ενπαμώνθου Πετο
+r.4    [πυροῦ δίμοιρον ][δ]ωδέκατον γίνεται 𐅷 ιβ.
+r.5    Μηνόδωρος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

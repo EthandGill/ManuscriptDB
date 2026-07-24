@@ -1,0 +1,30 @@
+[META]
+id:       PYLON 4.3_2
+label:    PYLON 4.3_2
+name:     Receipt — Diospolis Magna (Theben)
+genre:    receipts
+date:     120 BCE
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     Dublin
+shelf:    
+content:  Receipt from Diospolis Magna (Theben) (120 BCE)
+# hgv-keywords: Quittung — Erntesteuer — Getreide
+tm:       987700
+source:   https://papyri.info/ddbdp/pylon;4;3_2
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    ἔτους ν Μεσορη κ μεμέτρηκεν εἰς τὸν
+r.2    ἐν Διὸς πόλει τῆι μεγάληι θησαυρὸν ν ἔτους ὑπὲρ τοῦ τόπου
+r.3    Πτολεμαῖος Πύρρου πυροῦ δέκα ἓξ
+r.4    γίνονται πυροῦ ιϛ Ἀντιγένης
+
+[TRANSLATION]
+# HGV-EN: Year 50, Mesore 20(?). Ptolemaios, son of Pyrrhos, has measured to the granary in Diospolis Magna for year 50, for the district, 16 (artabai) of wheat, total 16 (artabai) of wheat. (subscription:) Ant(igenes).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

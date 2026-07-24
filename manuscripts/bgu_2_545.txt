@@ -1,0 +1,28 @@
+[META]
+id:       BGU 2.545
+label:    BGU 2.545
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     145 CE – 146 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (145 CE – 146 CE)
+# hgv-keywords: Titel eines Auszugs aus dem öffentlichen Archiv
+tm:       9230
+source:   https://papyri.info/ddbdp/bgu;2;545
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἐκ βιβλιοθήκης δημοσίων
+r.2    λόγων
+r.3    ἐξ ἀπογραφῆς θ ἔτους Ἀντωνίνου
+r.4    Καίσαρος τοῦ κυρίου κώμης
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

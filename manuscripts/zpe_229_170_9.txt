@@ -1,0 +1,30 @@
+[META]
+id:       ZPE 229.170_9
+label:    ZPE 229.170_9
+name:     Letter — Hermopolites
+genre:    letters
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Hermopolites
+held:     London
+shelf:    
+content:  Letter from Hermopolites (101 CE – 200 CE)
+# hgv-keywords: Brief — an den Strategen Hierax — Erben
+tm:       29253
+source:   https://papyri.info/ddbdp/zpe;229;170_9
+lat:      
+lon:      
+
+[GREEK]
+r.1    Ἱέραξ στρατηγὸς Ἑρμοπολίτου
+r.2    κληρονόμοις Διοσκόρου Ἥρωνος
+r.3    χαίρειν.
+r.4    ἐν … [ … ] … θείσαις …
+
+[TRANSLATION]
+# HGV-EN: ‘Hierax, strategus of the Hermopolite (nome), to the heirs of Dioskoros, son of Heron, ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

@@ -1,0 +1,36 @@
+[META]
+id:       P.HARR 3.320
+label:    P.HARR 3.320
+name:     Contract — unbekannt
+genre:    contracts
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     Birmingham
+shelf:    
+content:  Contract from unbekannt (401 CE – 500 CE)
+# hgv-keywords: Vertrag — Darlehen — Geld
+tm:       998649
+source:   https://papyri.info/ddbdp/p.harr;3;320
+lat:      
+lon:      
+
+[GREEK]
+r.1    … [ἀνυπερ]θέτως, γιγνομέν[ης σοι τῆς πράξεως ἔκ τε ἐμοῦ καὶ]
+r.2    ἐκ τῶν ὑπαρχόντων μοι πάν[των. κύριον τὸ γραμμάτιον]
+r.3    ἁπλοῦν γραφὲν καὶ ἐπερωτηθεὶς ὡμολόγησα. Α …
+r.4    Ἱέρακος διάκονος ἔχω καὶ ὀφείλω α … [τὰς]
+r.5    προκείμενα τοῦ χρυσοῦ νομισμα[τ- ] … [ἃ καὶ ἀποδώσω]
+r.6    ὁπόταν βουληθ[ῇς] ὡς πρόκειτ[αι] …
+r.7    χου ἔγραψα ὑπὲρ αὐτοῦ μὴ εἰδότ[ος γράμματα.] …
+
+[TRANSLATION]
+# HGV-EN: … without delay, you having the right of execution against me and against all my belongings. The deed is binding, written in a single copy, and in reply to the formal question I assented. I, …, son of Hierax, deacon, have and owe … the aforesaid … gold solidi, which I shall repay whenever you wish as aforesaid. I …, son of ...chos, wrote on his behalf as he does not know letters …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

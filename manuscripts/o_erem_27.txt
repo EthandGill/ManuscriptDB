@@ -1,0 +1,26 @@
+[META]
+id:       O.EREM 27
+label:    O.EREM 27
+name:     Receipt — Theben
+genre:    receipts
+date:     216 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (216 CE)
+# hgv-keywords: Quittung — Abgaben
+tm:       18346
+source:   https://papyri.info/ddbdp/o.erem;;27
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Αὐρήλιος Παμόντιος Παμόντιος ἀπαιτητὴς γράστεως
+r.2    κώμης Ψα. ἔσχον ὑπὲρ κδ ἔτους ὀνόματος Φαμίνιος Φαμίνιος Πετοσορβούχιος
+r.3    γράστιν ἀρουρῶν ζ η. ἔτους κδ Φαρμοῦθι ιη.
+
+[TRANSLATION]
+1     
+2     
+3     

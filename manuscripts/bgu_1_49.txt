@@ -1,0 +1,42 @@
+[META]
+id:       BGU 1.49
+label:    BGU 1.49
+name:     Receipt — Nilopolis (Arsinoites)
+genre:    receipts
+date:     178 CE
+language: Greek (Koiné)
+found:    Nilopolis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Nilopolis (Arsinoites) (178 CE)
+# hgv-keywords: Quittungen — Steuern
+tm:       9094
+source:   https://papyri.info/ddbdp/bgu;1;49
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους ὀκτωκαιδεκάτου Αὐρηλίων Ἀντωνίνου
+r.2    καὶ Κομμόδου τῶν κυρίων Σεβαστῶν
+r.3    Φαρμοῦθι κγ. διέγραψε Ἥρωνι πράκτορι [ἀ]ργυρικῶν κώμης Νείλου πόλεως Ὧρος Ἀπύγχεως
+r.4    ἐπιτηρητὴς γενηματογραφουμένων ὑπαρχόντων κώμης Νείλου πόλεως ὑπὲρ
+r.5    προσόδων ὑπαρχόντων τῆς προκειμένης
+r.6    ἐπιτηρήσεως τοῦ ὀκτωκαιδεκάτου ἔτους δραχμὰς εἴκοσι γίνονται δραχμαὶ κ. Ἐπεὶφ ε. ὁμοίως ἄλλας
+r.7    δραχμὰς τεσσαράκοντα γίνονται δραχμαὶ μ. ιθ ἔτους Θὼθ ζ
+r.8    ὑπὲρ τοῦ διεληλυθότος ὀκτωκαιδεκά[το]υ
+r.9    ἔτους δραχμὰς τεσσαράκοντα γίνονται δραχμαὶ μ.
+r.10   Ἁθὺρ η. ὁμοίως ὑπὲρ τοῦ διεληλυθόρος ἔτους δραχμὰς πεντήκοντα ἓξ γίνονται δραχμαὶ νϛ.
+
+[TRANSLATION]
+# HGV-EN: Year eighteen of the Aurelii Antoninus and Commodus, the lords Augusti, Pharmouthi 23. Paid to Heron, collector of money taxes of the village of Neilou Polis, (by) Horos, son of Apynchis, overseer of sequestrated properties of the village of Neilou Polis on behalf of the revenues of the properties of the above mentioned supervision of the properties of the eighteenth year 20 drachmas. (m. 2) Epeiph 5. Likewise a further forty drachmas, = 40 drachmas. (m. 3) Year 19, Thoth 7. For the past eighteenth year forty drachmas, = 40 drachmas. (m. 4) Hathyr 8: likewise on behalf of the past year fifty six drachmas, = 56 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

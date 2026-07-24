@@ -1,0 +1,36 @@
+[META]
+id:       APF 62.110
+label:    APF 62.110
+name:     Contract — Oxyrhynchos (Oxyrynchites, Ägypten)
+genre:    contracts
+date:     97 BCE – 89 BCE
+language: Greek (Koiné)
+found:    Oxyrhynchos (Oxyrynchites, Ägypten)
+held:     Wellesley
+shelf:    
+content:  Contract from Oxyrhynchos (Oxyrynchites, Ägypten) (97 BCE – 89 BCE)
+# hgv-keywords: Vertrag — Datierung
+tm:       5905
+source:   https://papyri.info/ddbdp/apf;62;110
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [βασιλεύον]τος Πτολεμαίου
+r.2    [θεοῦ Φιλο]μήτορος ἔτου[ς] [ … ,]
+r.3    [τὰ δ’ ἄλ]λα τῶν κοιν[ῶν ὡς ἐν]
+r.4    [Ἀλεξανδρ]είᾳ γράφεται, μ[ηνὸς Πανή][μου καὶ Πα]χων ιθ, [ἐν Ὀξυρύγ][χων πόλει] τῆς Θηβ[αΐδος.]
+r.5    … κράτης Ἀρισ …
+r.6    … ντεως …
+r.7    … καὶ Θατρῆτ[ι] …
+
+[TRANSLATION]
+# HGV-EN: In the reign of Ptolemy, god Philometor, year n, and the rest of the customary formulas as written in Alexandria, in the month of Panemos and Pachon 19, in the city of the Oxyrhynchi of the Thebaid. […]krates son of Aris[… (verb) (to) …] and (to) Thatres […]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

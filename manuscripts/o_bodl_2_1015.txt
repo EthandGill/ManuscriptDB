@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.1015
+label:    O.BODL 2.1015
+name:     Receipt — Theben
+genre:    receipts
+date:     49 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (49 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       50391
+source:   https://papyri.info/ddbdp/o.bodl;2;1015
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πετεμενῶφις Θοτέως
+r.2    ὑπὲρ λινύφων θ ἔτους δραχμὰς
+r.3    τέσσαρας γίνονται δραχμαὶ δ καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου.
+r.4    ἔτους θ Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ
+r.5    Γερμανικοῦ Αὐτοκράτορος Φαρμοῦθι λ‡ε.
+r.6    Ἀλέξανδρος Κεφάλου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

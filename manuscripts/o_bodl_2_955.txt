@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.955
+label:    O.BODL 2.955
+name:     Receipt — Theben
+genre:    receipts
+date:     42 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (42 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71645
+source:   https://papyri.info/ddbdp/o.bodl;2;955
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν … Πικῶς Πετουσορφίβιος
+r.2    ὑπὲρ φοινικώνων β ἔτους η ιϛ δραχμὰς γ ὀβολοὺς δ 𐅵 καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου. ἔτους γ Τιβερίου
+r.3    Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.4    Αὐτοκράτορος Φαῶφι κ. Πετεμενῶφις τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

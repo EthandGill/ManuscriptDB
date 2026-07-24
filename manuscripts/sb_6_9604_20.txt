@@ -1,0 +1,28 @@
+[META]
+id:       SB 6.9604_20
+label:    SB 6.9604_20
+name:     Receipt — Elephantine
+genre:    receipts
+date:     115 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (115 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       19127
+source:   https://papyri.info/ddbdp/sb;6;9604_20
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Διδυμίων πράκτωρ. διέγραψαν Πετορζμῆθις
+r.2    Φανώφεως καὶ Παχνοῦβις ἀδελφὸς
+r.3    ὑπὲρ μερισμοῦ ἀνακεχωρηκότων δραχμὰς ῥυπαρὰς τέσσαρ[α]ς τετρώβολον γίνονται δραχμαὶ δ τετρώβολον.
+r.4    ἔτους ιη Τραιανοῦ Ἀρίστου Καίσαρος τοῦ κυρίου Μεσορὴ κη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

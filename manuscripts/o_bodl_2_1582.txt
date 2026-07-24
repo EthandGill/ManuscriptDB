@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1582
+label:    O.BODL 2.1582
+name:     Receipt — Theben
+genre:    receipts
+date:     203 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (203 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       72265
+source:   https://papyri.info/ddbdp/o.bodl;2;1582
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ια ἔτους τῶν κυρίων
+r.2    Αὐτοκρατόρων Σεουήρου καὶ Ἀντωνίνου
+r.3    Εὐσεβῶν Σεβαστῶν Παῦνι λ ὑπὲρ Νήσων ὀνόματος Ἀσκλᾶτος
+r.4    Αἰλουρίωνος πυροῦ ἀρτάβης τρίτον δωδέκατον
+r.5    γίνεται πυροῦ ἀρτάβης γ ιβ. Σερῆνος σεσημείωμαι πυροῦ ἀρτάβης τρίτον δωδέκατον γίνεται πυροῦ ἀρτάβης γ ιβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

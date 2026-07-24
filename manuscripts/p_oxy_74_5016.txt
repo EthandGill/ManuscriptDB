@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 74.5016
+label:    P.Oxy. 74.5016
+name:     Contract — Sinkepha (Oxyrhynchites)
+genre:    contracts
+date:     276 CE – 325 CE
+language: Greek (Koiné)
+found:    Sinkepha (Oxyrhynchites)
+held:     
+shelf:    
+content:  Contract from Sinkepha (Oxyrhynchites) (276 CE – 325 CE)
+# hgv-keywords: Vertrag — Prostatai eines Dorfes mit dem Manager einer Musiktruppe — Anstellung — Künstler (Unterhaltung) — Fest
+tm:       128322
+source:   https://papyri.info/ddbdp/p.oxy;74;5016
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Αὐρήλιοι Κοπρεὺς Ἀμουνι …
+r.2    Σοντώουτος μητρὸς Θαήσι[ος] …στρας οἱ τρεῖς ἀπὸ κώμης Σιγκ[εφα] …
+r.3    προστάται τῆς α[ὐτῆς κώμης] … [τοῦ]
+r.4    ἐνεστῶτος μηνὸς Τυβι ιζ ἕω[ς] …
+r.5    Αὐρηλίῳ Κορ[ν]ηλι … πρ … [ἀπὸ τῆς λαμπρᾶς καὶ]
+r.6    λαμπροτάτης Ὀξυρυγχιτῶν πόλε[ως χαίρειν.] [παρειλήφα]μέν σε μετὰ τῆς συμφ[ωνίας] …
+r.7    … τιαριων συνπανη[γυρ] … [π]αίζειν καὶ κροταλίζ[ειν] …
+r.8    πληροῦν ἐπὶ τὰς …
+r.9    … τῇ ὅλῃ συμ[φωνίᾳ] …
+
+[TRANSLATION]
+# HGV-EN: Aurelius Copreus son of Amuni(u)s (and NN, Aurelius NN son of) Sontous and Thaesis, (Aurelius NN, son of NN and NN), the three from the village Sincepha . . . presidents of the same village (celebrating?) (from the?) 17th of the present month Tybi until . . . , to Aurelius Corneli(an)us the head(?) of a group of performers from the splendid and most splendid city of the Oxyrhynchites, greetings. We have engaged you with your group . . . to take part in the festivities . . . to entertain and to play the krotala . . . (We agree?) to pay for the (days?) . . . for the whole group . . . (M. Satama)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

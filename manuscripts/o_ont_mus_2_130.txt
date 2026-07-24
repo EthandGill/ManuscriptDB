@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.130
+label:    O.ONT.MUS 2.130
+name:     Receipt — Theben
+genre:    receipts
+date:     157 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (157 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75149
+source:   https://papyri.info/ddbdp/o.ont.mus;2;130
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Ψεν]αμοῦνις καὶ μέτοχοι πράκτορες
+r.2    ἀργυρικῶν Ἀγορῶν Ἀσκλᾶτος γ Ἑριέως
+r.3    Φα … ἔσχοµεν ὑπὲρ σ[κοπέλων] [κα]ὶ ἄλλων κ ἔτους δραχμὰς τέσσαρας
+r.4    γίνονται δραχμαὶ δ …
+r.5    Ἁθὺρ ιε …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

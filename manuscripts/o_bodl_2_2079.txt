@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.2079
+label:    O.BODL 2.2079
+name:     Receipt — Theben
+genre:    receipts
+date:     601 CE – 800 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (601 CE – 800 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       72752
+source:   https://papyri.info/ddbdp/o.bodl;2;2079
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔσχον παρὰ Σαμουὴλ Κυριακοῦ
+r.2    ὑπὲρ διαγράφου τρισκαιδεκάτης ἰνδικτίονος
+r.3    ἀριθμίου νομισματίου τρίτον … ζ ἰνδικτίονος ιδ Βασίλιος στοιχεῖ.
+
+[TRANSLATION]
+1     
+2     
+3     

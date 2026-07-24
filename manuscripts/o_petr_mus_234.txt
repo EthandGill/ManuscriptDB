@@ -1,0 +1,26 @@
+[META]
+id:       O.PETR.MUS 234
+label:    O.PETR.MUS 234
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     101 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (101 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer
+tm:       75353
+source:   https://papyri.info/ddbdp/o.petr.mus;;234
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    [διαγέγραφεν] Ὧρος Παήριος Ὥρου ὑπὲρ λαογραφίας Μεμνονείων δ ἔτους
+r.2    [δραχμὰς] … ἔτους δ Τραιανοῦ Καίσαρος τοῦ κυρίου Φαμενὼθ δ.
+r.3    ὁμοίως Φαμενὼθ λ δραχμὰς δ ὁμοίως Φαρμοῦθι κγ δραχμὰς η.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.876
+label:    O.BODL 2.876
+name:     Receipt — Theben
+genre:    receipts
+date:     77 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (77 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71566
+source:   https://papyri.info/ddbdp/o.bodl;2;876
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Σενφῖβις Ἐννομέως
+r.2    ὑπὲρ γεωμετρίας η ἔτους κ … ὀβολοὺς ε 𐅵. ἔτους ἐνάτου
+r.3    Οὐεσπασιανοῦ τοῦ κυρίου Μεχεὶρ κη.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,24 @@
+[META]
+id:       O.BODL 1.366
+label:    O.BODL 1.366
+name:     Receipt — Diospolis Magna (Theben)
+genre:    receipts
+date:     400 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     
+shelf:    
+content:  Receipt from Diospolis Magna (Theben) (400 BCE – 1 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       71072
+source:   https://papyri.info/ddbdp/o.bodl;1;366
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    [ἔτους ] … ιζ τέτακται
+r.2    [ἐπὶ τὴν ἐν Δ]ιὸς πόλει τῆι μεγάληι τράπεζαν.
+
+[TRANSLATION]
+1     
+2     

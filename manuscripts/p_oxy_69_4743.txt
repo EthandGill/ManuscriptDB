@@ -1,0 +1,32 @@
+[META]
+id:       P.Oxy. 69.4743
+label:    P.Oxy. 69.4743
+name:     Receipt — Tebtynis (Arsinoites) bzw. Oxyrhynchites
+genre:    receipts
+date:     193 CE
+language: Greek (Koiné)
+found:    Tebtynis (Arsinoites) bzw. Oxyrhynchites
+held:     
+shelf:    
+content:  Receipt from Tebtynis (Arsinoites) bzw. Oxyrhynchites (193 CE)
+# hgv-keywords: Quittung (Zoll, Torzoll, eremophylakia) — Esel — Seile für Korbmacher (?)
+tm:       80728
+source:   https://papyri.info/ddbdp/p.oxy;69;4743
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Τεπτύνεως ἴχνους ἐρημοφυλακίας
+r.2    Θῶνις ἐξάγων
+r.3    σχοίνους κανοπλοκικῶν ὄνους
+r.4    δέκα. ἔτους α Μεσορ[ὴ] ἐνάτῃ, θ.
+r.5    [χωρὶς] χα[ρ]ακτῆρος.
+
+[TRANSLATION]
+# HGV-EN: Paid through the gate of Tebtunis for the tax for the protection of the desert route by Thonis, exporting reeds for basket-weaving (?), ten donkey-loads. Year 1, Mesore ninth, 9th. Without seal. (M. Cottier)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

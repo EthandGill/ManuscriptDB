@@ -1,0 +1,36 @@
+[META]
+id:       O.CAIR 5
+label:    O.CAIR 5
+name:     Receipt — Pathyris
+genre:    receipts
+date:     106 BCE
+language: Greek (Koiné)
+found:    Pathyris
+held:     
+shelf:    
+content:  Receipt from Pathyris (106 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       73357
+source:   https://papyri.info/ddbdp/o.cair;;5
+lat:      25.369659
+lon:      32.473946
+
+[GREEK]
+r.1    ἔτους ια τοῦ καὶ η Φαρμοῦθι ϛ.
+r.2    τέτακται ἐπὶ τὴν ἐν Παθύρει τράπεζαν ἐφʼ ἧς
+r.3    Ἀπολλώνιος ἀπομοίρας Ἐπώτης
+r.4    Τοτοέους χαλκοῦ δισχιλίας
+r.5    ὀκτακοσίας ἑξήκοντα πέντε,
+r.6    γίνονται χαλκοῦ Βωξε.
+r.7    δραχμαὶ Γσ.
+r.8    Ἀπολλώνιος τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

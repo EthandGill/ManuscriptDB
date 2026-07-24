@@ -1,0 +1,24 @@
+[META]
+id:       O.BODL 2.1157
+label:    O.BODL 2.1157
+name:     Receipt — Theben
+genre:    receipts
+date:     168 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (168 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71841
+source:   https://papyri.info/ddbdp/o.bodl;2;1157
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεσορὴ ιε τοῦ η ἔτους ὀνόματος Ψενχώνσιος
+r.2    Παουψάιτος Ψενχώνσιος ὑπὲρ η ἔτους
+
+[TRANSLATION]
+1     
+2     

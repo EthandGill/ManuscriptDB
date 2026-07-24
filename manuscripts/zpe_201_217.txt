@@ -1,0 +1,40 @@
+[META]
+id:       ZPE 201.217
+label:    ZPE 201.217
+name:     Letter — Fundort: Philadelphia (Arsinoites, Ägypten)
+genre:    letters
+date:     250 BCE
+language: Greek (Koiné)
+found:    Fundort: Philadelphia (Arsinoites, Ägypten)
+held:     Cairo
+shelf:    
+content:  Letter from Fundort: Philadelphia (Arsinoites, Ägypten) (250 BCE)
+# hgv-keywords: Brief — Hierokles an Zenon — Bittschrift — Steuern — Schulden
+tm:       927
+source:   https://papyri.info/ddbdp/zpe;201;217
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    Ἱεροκλ[ῆς Ζήνωνι χαίρειν.] … ης ὁ τὴν ἐπισ[τολή]ν σοι ἀποδιδοὺς
+r.2    τυγχάνει ὢν τῆ[ς Ἀπολλοδότου γυ]ναικὸς οἰκεῖος. ἠγνοηκότες δὲ οἱ παρὰ
+r.3    Τληπολέμου κτ[ήματα αὐτοῦ ἀνεν]ηνόχασι εἰς τὸ βασιλικὸν καὶ προσεισπράσσεται ἐτῶν … [δραχμὰς] … [κ]αλῶς οὖν ποιήσεις σπουδάσας ὅπως
+r.4    ἂν ἐπίσχεσιν σ[υγχωρήσωσιν αὐτῶι ἕ]ως τῶν νέων. καὶ Ἀπολλόδοτος σπουδάζει,
+r.5    ὥστε πέπεισμαι ὅ[τι δύνηι οἰκονομ]ήσασθαι.
+r.6    ἔρρωσο.
+r.7    ἔτους λε, Τῦβι κα.
+r.8    Ἱεροκλῆς.
+r.9    [Ζ]ήν[ωνι].
+
+[TRANSLATION]
+# HGV-EN: Hierokles to Zenon, greetings. […]es, who delivers to you this letter, happens to be related to the wife of Apollodotos. In their ignorance thereof, the men of Tlepolemos have referred his possessions to the royal (treasury), and in addition [number] drachmas are exacted for [number] years. Please take care that they grant him a delay till the next harvest. Apollodotos too cares (about the matter), so that I am convinced that you can manage. Year 35, Tubi 21. Hierokles to Zenon.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

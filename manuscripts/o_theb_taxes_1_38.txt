@@ -1,0 +1,26 @@
+[META]
+id:       O.THEB.TAXES 1.38
+label:    O.THEB.TAXES 1.38
+name:     Receipt — Theben
+genre:    receipts
+date:     256 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (256 BCE)
+# hgv-keywords: Quittung — Steuer — Salzsteuer
+tm:       69706
+source:   https://papyri.info/ddbdp/o.theb.taxes;1;38
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους λ Ἐπεὶφ κε πέπτωκεν
+r.2    ἀλικῆς διὰ Κλειτάνδρου
+r.3    Ἀμενωθ πα Φαρατ τετρώβολον ἡμιωβέλιον
+
+[TRANSLATION]
+1     
+2     
+3     

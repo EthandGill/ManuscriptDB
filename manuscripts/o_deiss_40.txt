@@ -1,0 +1,24 @@
+[META]
+id:       O.DEISS 40
+label:    O.DEISS 40
+name:     Receipt — Theben ? (Ägypten)
+genre:    receipts
+date:     81 CE – 96 CE
+language: Greek (Koiné)
+found:    Theben ? (Ägypten)
+held:     Sydney
+shelf:    
+content:  Receipt from Theben ? (Ägypten) (81 CE – 96 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       73855
+source:   https://papyri.info/ddbdp/o.deiss;;40
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Σαχομνεὺς Ψ[εν]πεχύτου υἱὸς ὑπὲρ μαγδωλοφυλάκων … [ ἔτους ] …
+r.2    Δομιτιανοῦ τοῦ κυρίου Π … .
+
+[TRANSLATION]
+1     
+2     

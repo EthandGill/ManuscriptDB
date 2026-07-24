@@ -1,0 +1,36 @@
+[META]
+id:       P.MON.EPIPH 108
+label:    P.MON.EPIPH 108
+name:     Letter — Theben (Ägypten)
+genre:    letters
+date:     601 CE – 650 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     New York
+shelf:    
+content:  Letter from Theben (Ägypten) (601 CE – 650 CE)
+# hgv-keywords: Brief
+tm:       86641
+source:   https://papyri.info/ddbdp/p.mon.epiph;;108
+lat:      25.72493
+lon:      32.60255
+
+[GREEK]
+r.1    ϩⲁⲑⲉ μέν ⲛϩⲱⲃ ⲛ[ⲓⲙ] …
+r.2    ⲧⲉγραφή γάρ ϫⲱ ⲙⲙⲟ[ⲥ] …
+r.3    ϫⲉ ⲛⲉϩⲓⲟⲟⲩⲉ ⲛⲥⲓⲟⲛ …
+r.4    ⲥⲉⲃⲓ ⲛⲙⲙⲟⲟⲩ ⲛⲛαἰχμάλωτος …
+r.5    ϣⲣⲁ ⲙⲙⲟⲟⲩ ⲛⲉⲩⲃⲁⲗ ϫⲟⲧϩ ϣ …
+r.6    … ϭⲉ ⲛⲏⲧⲛ …
+r.7    … ⲙⲛ ⲓⲱϩⲁⲛⲛⲏⲥ ϩⲓⲧⲛ ⲉⲡⲉⲫⲁⲛⲓⲟⲥ ⲙⲡⲧⲟⲟⲩ ⲛϫⲉⲙⲉ
+
+[TRANSLATION]
+# HGV-EN: Before all things [...] For the scripture saith [...] the ways of Sion [...] and all her gates are destroyed (?) [...] have been taken captive [...] them, their eyes have failed [...] to you [...] and John, from Epiphanius of the mount of Jeme.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

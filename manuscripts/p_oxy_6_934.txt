@@ -1,0 +1,42 @@
+[META]
+id:       P.Oxy. 6.934
+label:    P.Oxy. 6.934
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (201 CE – 300 CE)
+# hgv-keywords: Brief (privat) — Aurelius Stephanos an Aurelius Chairemon — Lieferung — Mist — Geschäfte
+tm:       31323
+source:   https://papyri.info/ddbdp/p.oxy;6;934
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Αὐρήλιος Στέφανος Αὐρηλίῳ Χαιρήμονι
+r.2    τῷ ἀδελφῷ χαίρειν.
+r.3    ἐξιόντος μου εἰς Ἀλεξάνδριαν μετεβαλόμην τῷ σχοινιοπλόκῳ Πετοβάστει παρόντος Ἡρακλήου εἰς τιμὴν ζευκτηρίων
+r.4    δραχμὰς ἑξήκοντα , καὶ εἰς τιμὴν κ[ό]πρου
+r.5    ἐν Χύσει παρόντος Κοπρέως δραχμὰς μ, καὶ τῇ Καλῇ ὥστε Κοπρεῖ ἃς εἶχον μετὰ χεῖρας τὰς
+r.6    δραχμὰς μη. μὴ οὖν ἀμελήσῃς τοῦ βαλεῖν τὴν
+r.7    κόπρον. συνεφώνησα γὰρ ἀρτάβας κε δραχμῶν ρ παρόντος Κοπρέως· δώσεις οὖν τὰς λοιπὰς δραχμὰς ιβ. μὴ
+r.8    ἀμελήσῃς παραβαλεῖν ἐκεῖ καὶ τῇ γυναικὶ ἕως ἂν παραγένωμαι καὶ χάριν τῶν
+r.9    ποτισμῶν. εὗρον τὸν Αἰθίοπα καὶ καλῶς αὐτῷ ἐστιν. ἄσπασαι τοὺς ἡμῶν πάντας. ἐρρῶσθαί σε εὔχομαι.
+r.10   Αὐρηλίῳ Χαιρήμονι παρὰ Αὐρηλίου Στεφάνου.
+
+[TRANSLATION]
+# HGV-EN: Aurelius Stephanus to Aurelius Chaeremon, his brother, greeting. As I was setting forth for Alexandria I paid to the rope-weaver Petobastis in the presence of Heracleus as the price of yokes 60 drachmae, and as the price of manure at Chusis in the presence of Kopreus 40 drachmae, and to Kale for Kopreus the 48 drachmae which I had with me. Do not fail therefore to throw the manure on the land. I agreed to pay 100 drachmae for 25 artabae, in the presence of Kopreus; you will therefore give him the remaining 12 drachmae. Do not fail to go there, both to help my wife until I return, and for the sake of the irrigation. I found Aethiopas and it is well with him. Salute all our friends, I pray for your health. (Addressed) ‘To Aurelius Chaeremon from Aurelius Stephanus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

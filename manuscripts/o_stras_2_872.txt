@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 2.872
+label:    O.STRAS 2.872
+name:     Receipt — Theben (Notos)
+genre:    receipts
+date:     176 CE
+language: Greek (Koiné)
+found:    Theben (Notos)
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (Notos) (176 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       75210
+source:   https://papyri.info/ddbdp/o.stras;2;872
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μέτρημα θησαυροῦ] μητροπόλεως γενήματος ιϛ
+r.2    [Αὐρηλίο]υ Ἀντωνίνου Καίσαρος
+r.3    [τοῦ κυρίου] Παχὼν κη ὑπὲρ Νότου ὀνόματος Ὥρου
+r.4    [Πετεχεσποχράτου] [Χα]βονκώνσιος πυροῦ μίαν ἥμισυ
+r.5    … [, γίνεται πυροῦ α]𐅵 … . Ἀμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

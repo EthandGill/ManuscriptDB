@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 252
+label:    O.PETR.MUS 252
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     115 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (115 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, merismos)
+tm:       75452
+source:   https://papyri.info/ddbdp/o.petr.mus;;252
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [Πα]χεῦμις Σενφάφιος
+r.2    [μ]ερισμοῦ ιη ἔτους Τραιανοῦ Ἀρίστου
+r.3    τοῦ κυρίου δραχμὰς β. ἔτους ιη
+r.4    Τῦβι θ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

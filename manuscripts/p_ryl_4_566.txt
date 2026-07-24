@@ -1,0 +1,36 @@
+[META]
+id:       P.RYL 4.566
+label:    P.RYL 4.566
+name:     Letter — Philadelphia (Arsinoites)
+genre:    letters
+date:     249 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Letter from Philadelphia (Arsinoites) (249 BCE)
+# hgv-keywords: Brief (privat) — [...]os an Zenon — Begleitschreiben
+tm:       2422
+source:   https://papyri.info/ddbdp/p.ryl;4;566
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    … ος Ζήνωνι χαίρειν. ὑπογέγραφά σοι τῆς παρ[ὰ Κεφάλωνος]
+r.2    [ἐπιστο]λῆς τὸ ἀντίγραφον. ἔρρωσο. ἔτους λϛ Χοία[χ ] …
+r.3    [Κεφά]λων Ζήνωνι χαίρειν. ἔχω παρὰ Σπα …
+r.4    [εἰς] τὸν σκαφητὸν καὶ εἰς τομὴν καὶ εἰς φυτη[κομίαν]
+r.5    [δρα]χμὰς τριάκοντα . ἔρρωσο. ἔτους λϛ Χοία[χ ] …
+r.6    [ἔτους λϛ Χοία]χ κ Ζήνωνι.
+r.7    [ἀντίγραφον] ἐπιστολῆς Κεφάλωνος.
+
+[TRANSLATION]
+# HGV-EN: ‘… to Zenon greeting. I have appended for you a copy of the letter from Cephalon. Farewell. Year 36, Choiach … ‘Cephalon to Zenon greeting. I have received from Spa … for hoeing and cutting and dressing the trees thirty drachmae. Farewell. Year 36, Choiach … (Addressed) to Zenon. (Docketed) Year 36, Choiach 20. Copy of a letter of Cephalon.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

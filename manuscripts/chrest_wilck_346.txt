@@ -1,0 +1,34 @@
+[META]
+id:       CHREST.WILCK 346
+label:    CHREST.WILCK 346
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (158 CE – 159 CE)
+# hgv-keywords: Quittung — Sitologen
+tm:       8879
+source:   https://papyri.info/ddbdp/chrest.wilck;;346
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    σιτολόγοις Καρανίδος. ἔσχον προσφωνήσας χειρογραφίᾳ σπερμάτων
+r.2    κβ ἔτους Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.3    μζ Πτολεμαῖος Πνεφερῶτος
+r.4    καὶ Ἁρφαῆσις Μύσθου
+r.5    Ψεν Λουριανῆς ἀρούρας γ δ λβ ρκη,
+r.6    Κερκ προσόδου ἀρούρας γ.
+
+[TRANSLATION]
+# HGV-EN: To the sitologoi of Karanis. We received under declaration with a written sworn statement from the seed grain of year 22 of Antoninus Caesar, the lord. (m. 2) 47th (cleruchy) . Ptolemaios, son of Pnepheros (m. 3) and Harphaesis, son of Mysthes. At Psenarpsenesis for 3 1/4 1/64 1/128 arouras on the Lourian (estate), at Kerkesoucha for 3 arouras of revenue (land).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

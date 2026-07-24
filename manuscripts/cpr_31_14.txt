@@ -1,0 +1,32 @@
+[META]
+id:       CPR 31.14
+label:    CPR 31.14
+name:     Documentary papyrus — Hermopolis
+genre:    documents
+date:     801 CE – 1100 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Documentary papyrus from Hermopolis (801 CE – 1100 CE)
+# hgv-keywords: Lettre
+tm:       140873
+source:   https://papyri.info/ddbdp/cpr;31;14
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    ⲧⲓϣⲓⲛ ⲉⲣⲟⲕ καλῶς ⲉⲣⲉ ⲡϫⲟⲉⲓⲥ ⲕⲁⲁⲕ ⲁⲩⲱ ⲛϥⲧⲓ χάρις ⲛⲁⲕ
+r.2    ϩⲓ παρρησία ⲛⲛⲉϩⲟⲟⲩ ⲧⲏⲣⲟⲩ ⲙⲡⲉⲕⲱⲛⲁϩ ⲛⲃⲕⲁ ⲡⲉⲕⲣⲁϣⲉ
+r.3    ϩⲓ ⲧⲁψυχή ϣⲁ ⲡⲁϩⲁⲉ ⲛⲛⲓⲃⲉ ⲁⲩⲱ ϩⲓ ⲡⲙⲁ ⲛⲛⲉⲥⲟⲩⲟ ϩⲓ ⲡⲏ …
+r.4    ϩⲓⲧⲛ ⲡⲁϩⲱⲙⲱ υἱός ⲑⲉⲟⲇⲱⲣ
+r.5    εὐχαριστεῖν ⲛⲏⲧⲛ
+
+[TRANSLATION]
+# HGV-EN: I greet you well (καλῶς). The Lord shall preserve you and give you grace (χάρις) and confidence (παρρησία) of all your days of the life and he shall preserve your joy in my soul (ψυχή) to my last gap. And concerning the place of your wheat (pl.) as to (?) ... .................... By Pachomo, the son (υἱός) of Theodor. Thank (εὐχαριστέω) you.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

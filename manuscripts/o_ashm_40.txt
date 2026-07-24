@@ -1,0 +1,28 @@
+[META]
+id:       O.ASHM 40
+label:    O.ASHM 40
+name:     Receipt — Theben
+genre:    receipts
+date:     151 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (151 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70489
+source:   https://papyri.info/ddbdp/o.ashm;;40
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θοτεῦς ἀπαιτητὴς μερισμοῦ ἐνλείμματος τελωνικῶν Χάρακος Ψεναμούνιος Παναμέως. ἔσχον ὑπὲρ μερισμοῦ ιγ ἔτους
+r.2    δραχμὴν μίαν τετρώβολον γίνονται δραχμὴ α τετρώβολον. ἔτους ιδ
+r.3    Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.4    Ψαμενὼθ ια …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

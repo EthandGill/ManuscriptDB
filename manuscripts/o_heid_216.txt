@@ -1,0 +1,32 @@
+[META]
+id:       O.HEID 216
+label:    O.HEID 216
+name:     Receipt — Theben
+genre:    receipts
+date:     139 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (139 CE)
+# hgv-keywords: Quittung (Steuer, Begräbnissteuer, telos taphes)
+tm:       80436
+source:   https://papyri.info/ddbdp/o.heid;;216
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἑριεὺς καὶ μέτοχοι τελῶναι τέλους θησαυροῦ ἱερῶν τοῦ β ἔτους
+r.2    Κολάνθῃ [ ἔσχομεν παρὰ]
+r.3    σοῦ τέλος ταφῆς τοῦ β ἔτους Τίτου
+r.4    Αἰλίου Ἀντωνίνου
+r.5    Καίσαρος τοῦ κυρίου
+r.6    Τῦβι ιγ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

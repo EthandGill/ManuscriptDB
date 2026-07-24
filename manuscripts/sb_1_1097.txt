@@ -1,0 +1,32 @@
+[META]
+id:       SB 1.1097
+label:    SB 1.1097
+name:     Receipt — Elephantine
+genre:    receipts
+date:     41 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (41 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23052
+source:   https://papyri.info/ddbdp/sb;1;1097
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διαγεγράφηκεν Μνᾶσις Ψενχομχήμεως ὑπὲρ λαογραφίας πρώτου
+r.2    ἔτους Τιβερίου Κλαυδίου Καίσαρος
+r.3    Σεβαστοῦ Γερμανικοῦ
+r.4    Αὐτοκράτορος, Παοῖνι ιϛ,
+r.5    ἀργυρίου δραχμὰς ὀκτώ, δραχμὰς η.
+r.6    Ἀμώνιος Ἀμωνίου ἔγραψε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

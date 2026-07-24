@@ -1,0 +1,32 @@
+[META]
+id:       P.JOERDENS 19
+label:    P.JOERDENS 19
+name:     Receipt — Elephantine
+genre:    receipts
+date:     175 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Wimborne Minster
+shelf:    
+content:  Receipt from Elephantine (175 CE)
+# hgv-keywords: Quittung — Steuer (Fehlbetrag bei dem Preis für staatliche Datteln) — Geld
+tm:       699510
+source:   https://papyri.info/ddbdp/p.joerdens;;19
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Αἰβούτιος Νίγερ] πράκτωρ ἀργυρικῶν Ἐλεφαντίνης·
+r.2    [διέγραψεν Παχνοῦβι]ς Ἰήβεως ὑπὲρ δια[φόρου τιμῆς] δημοσίου φοίνικος
+r.3    [γενημάτων] ιγ ἔτους καὶ ιδ ἔτους δραχμὴν
+r.4    [μίαν ὀβολοὺς] πέντε, γίνονται δραχμὴ α πεντώβολον. ἔτους ιϛ
+r.5    [Αὐρηλίο]υ Ἀντωνίνου Καίσαρος
+r.6    [τοῦ κ]υρίου, Ἁδριανοῦ κζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

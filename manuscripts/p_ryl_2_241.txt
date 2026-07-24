@@ -1,0 +1,40 @@
+[META]
+id:       P.RYL 2.241
+label:    P.RYL 2.241
+name:     Letter — unbekannt
+genre:    letters
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Letter from unbekannt (201 CE – 300 CE)
+# hgv-keywords: Brief (privat) — NN an NN
+tm:       31171
+source:   https://papyri.info/ddbdp/p.ryl;2;241
+lat:      
+lon:      
+
+[GREEK]
+r.1    δώσεις Κασιανῷ
+r.2    τῷ κομίζοντ[ί]
+r.3    σοι αὐτὸ
+r.4    τὸ ἐπίσταλμ[α]
+r.5    ὃν ἔλαβες παρʼ [ἐ]μοῦ τε καὶ Σωκράτους καὶ
+r.6    μελησάτω σοι
+r.7    περὶ ὧν σοι
+r.8    ἐνετείλατο Σωκράτης.
+r.9    ἔρρωσο.
+
+[TRANSLATION]
+# HGV-EN: ‘… give to Casianus, the bearer of this letter, the missive which you received from me and Socrates, and be careful of the orders which Socrates gave you. Good-bye.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

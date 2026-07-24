@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.998
+label:    O.BODL 2.998
+name:     Receipt — Theben
+genre:    receipts
+date:     175 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (175 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71686
+source:   https://papyri.info/ddbdp/o.bodl;2;998
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν εἰς ἀρίθμησιν μηνὸς Παῦνι τοῦ ιε ἔτους ὀνόματος
+r.2    Θαήσιος Ὥρου καὶ Λολοῦτος Πατορμούθιος διὰ Ἐσουήριος καὶ
+r.3    Ταμηλ ὑπὲρ τιμῆς φοινίκων γενήματος ιδ ἔτους μητροπόλεως
+r.4    δραχμὰς τέσσαρας γίνονται δραχμαὶ δ. Διονύσιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

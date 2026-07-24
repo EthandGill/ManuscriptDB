@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 72.4877
+label:    P.Oxy. 72.4877
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     135 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (135 CE)
+# hgv-keywords: Auftrag an die Sitologen von Monimu (diastolikon) — Giro - Überweisung von Weizen
+tm:       114257
+source:   https://papyri.info/ddbdp/p.oxy;72;4877
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Ἀγα[θὸ]ς Δαίμων Δίου διὰ Σαραπίωνος
+r.2    … εως σιτολόγοις Μονίμου χαίρειν. διαστείλατε
+r.3    [ἀφʼ ὧ]ν ἔχετε ἐν θέματι τοῦ Ἀγαθοῦ Δαίμονος
+r.4    [πυροῦ γενήματος το]ῦ ἐννεακαιδεκάτου ἔτους Ἁδριανοῦ
+r.5    [Καίσ]αρος τοῦ κυρίου Διονυσίωι Φιλίσκου
+r.6    … ς ἀρτάβας ἑξήκοντα, γίνονται ἀρτάβαι ξ. ἔ[τους]
+r.7    [εἰκοστ]οῦ Αὐτοκ[ράτορο]ς Καίσαρος Τ[ρ]α[ϊανοῦ]
+r.8    [Ἁδριανοῦ] Σεβα[στοῦ, Θὼ]θ ιε.
+
+[TRANSLATION]
+# HGV-EN: Agathus Daemon son of Dius through Sarapion . . . , to the sitologi of Monimou, greetings. Transfer, from the amount you hold on deposit for Agathus Daemon, from the wheat-crop of the nineteenth year of Hadrianus Caesar the lord, to Dionysius son of Philiscus . . . , sixty artabas, total 60 art. Year twentieth of Imperator Caesar Traianus Hadrianus Augustus, Thoth 15. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

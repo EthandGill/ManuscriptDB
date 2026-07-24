@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.1681
+label:    O.BODL 2.1681
+name:     Receipt — Theben
+genre:    receipts
+date:     165 CE – 166 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (165 CE – 166 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       72365
+source:   https://papyri.info/ddbdp/o.bodl;2;1681
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    παρεκομίσθη εἰς τὴν σπεῖραν ὀνόματος
+r.2    Καμήτιος Πικῶτος ἀχύρου
+r.3    γόμος εἷς γίνεται γόμος α ὑπὲρ γενήματος ϛ ἔτους επιβ Ψεν σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

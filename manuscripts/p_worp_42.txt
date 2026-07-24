@@ -1,0 +1,36 @@
+[META]
+id:       P.WORP 42
+label:    P.WORP 42
+name:     Receipt — Elephantine
+genre:    receipts
+date:     128 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (128 CE)
+# hgv-keywords: Quittung — Steuer (Gewerbe, cheironaxion)
+tm:       115571
+source:   https://papyri.info/ddbdp/p.worp;;42
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ιβ ἔτους Ἁδριανοῦ Καίσαρος
+r.2    τοῦ κυρίου Παχὼν ιβ.
+r.3    Διοσκουρίδης διὰ Πανίσκου
+r.4    καὶ Λογγῖνος Κρίσπος.
+r.5    διέγραψεν Παχομπαρεώτης
+r.6    Σαραπίωνος μητρὸς Σεμπετορσμήθιος χειρωναξίου δραχμὰς εἴκοσι διώβολον
+r.7    Λογγῖνος σεσημείωμαι δραχμὰς κ διώβολον.
+
+[TRANSLATION]
+# HGV-EN: Year 12 of Hadrianus Caesar, the lord, on the 12th of Pachon. Dioskourides through Paniskos and Longinus Crispus. Pachompareotes, son of Sarapion, whose mother is Sempetorsmethis, paid for the trade-tax twenty drachmas, 2 obols. I, Longinus, have signed for 20 drachmas, 2 obols.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

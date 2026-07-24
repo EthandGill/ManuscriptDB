@@ -1,0 +1,28 @@
+[META]
+id:       P.RYL 2.197c
+label:    P.RYL 2.197c
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     200 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (200 CE)
+# hgv-keywords: Quittung (Zoll)
+tm:       40942
+source:   https://papyri.info/ddbdp/p.ryl;2;197c
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    [τετ]ελώνηται διὰ πύλης Σοκνοπαίου Νήσου λιμένος
+r.2    Μέμφεως Παεῖς ἐξάγων ἐπὶ ὄνοις δυσὶ
+r.3    ὀρ[ό]βου ἀρτάβας ἕξ . ἔτους θ [Φα]ῶφι ἐνάτῃ καὶ εἰκάδι, κθ.
+
+[TRANSLATION]
+# HGV-EN: ‘Paid at the custom-house of Socnopaei Nesus the dues for the harbour of Memphis by Paeis, importing six . . . on two donkeys. The 9th year, Phaophi 29.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 1.122
+label:    O.BODL 1.122
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     84 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (84 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       70901
+source:   https://papyri.info/ddbdp/o.bodl;1;122
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀπολλώνιος Νεκτανούφει χαίρειν. τέταξαι
+r.2    δραχμὰς ξ. ἔτους λδ Φαώφει
+r.3    κδ.
+r.4    ἐπικ δραχμαὶ ξ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

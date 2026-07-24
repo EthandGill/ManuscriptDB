@@ -1,0 +1,64 @@
+[META]
+id:       BGU 2.535
+label:    BGU 2.535
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (101 CE – 200 CE)
+# hgv-keywords: Abrechnung — Steuern — Geld
+tm:       28177
+source:   https://papyri.info/ddbdp/bgu;2;535
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … ς στεφα[νικοῦ] ε … α …
+r.2    ανχος Πατῆτος
+r.3    δ[ι]ὰ τῆς ἀδελφῆς
+r.4    ἐπὶ λόγου δ[ρ]αχμὰς
+r.5    ἑξήκον[τ]α δραχμὰς ξ
+r.6    ἀριθμήσεως Μεσορὴ
+r.7    ἡ αὐτὴ ἄλλα[ς] δραχμὰς
+r.8    εἴκοσι [ὀκτ]ὼ γίνονται δραχμαὶ κη
+r.9    ἀριθμήσεως Θὼθ
+r.10   ἡ αὐτὴ ἄλλας δραχμὰς
+r.11   τρεῖς δραχμαὶ γ, διαδεδωκέναι Ἀμμωνιανῷ
+r.12   στρατιώτῃ δραχμὰς ϛ.
+r.13   καὶ ὁμ[ο]ί[ω]ς ὑπὲρ ἀριθμήσεως Ἐπὶφ δραχμὰς
+r.14   δέκα δύο δραχμὰς ιβ
+r.15   ὁμοίως ὑπὲρ ιβ ἔτους
+r.16   ἄλλας δραχμὰς μ
+r.17   ἀριθμήσεως Χοιὰκ
+r.18   δραχμὰς [ε]ἴκ[ο]σι τέ[σσ]αρες
+r.19   γίνονται δραχμαὶ κ[δ] Φαρμοῦθι
+r.20   δραχμὰς ὀκτὼ γίνονται η.
+r.21   Παῦ[νι] δραχμὰς ὀκτώ δραχμὰς η.
+
+[TRANSLATION]
+# HGV-EN: – – – crown tax anchos, son of Pates, through his sister sixty drachmas on account, 60 drachmas: (m. 2) For the reckoning for Mesore, the same (person) a further twenty eight drachmas, = 28 drachmas. (m. 3) For the reckoning for Thoth, the same (person) a further eight drachmas, = 8 drachmas, three (drachmas), 3 drachmas, *** six drachmas to Ammonianos, the soldier. (m. 4) And likewise on behalf of the reckoning for Epeiph twelve drachmas, 12 drachmas. (m. 5) Likewise on behalf of year 12 a further 40 drachmas. (m. 6) For the reckoning for Choiak twenty four drachmas, = 2[4] drachmas. For Pharmouthi eight drachmas, = 8 drachmas. For Payni eight drachmas, 8 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    

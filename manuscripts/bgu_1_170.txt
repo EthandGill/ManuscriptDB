@@ -1,0 +1,34 @@
+[META]
+id:       BGU 1.170
+label:    BGU 1.170
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (158 CE – 159 CE)
+# hgv-keywords: Quittung — Getreide — Saat
+tm:       8935
+source:   https://papyri.info/ddbdp/bgu;1;170
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σπερμάτων κβ ἔτους
+r.2    Ἀντωνίνου Καίσαρος
+r.3    τοῦ κυρίου οθ
+r.4    κληρουχίας
+r.5    Πτολεμαῖος Κάστορος
+r.6    Πατσώντιος ἀρούρας ζ 𐅵
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 22 of Antoninus Caesar, the lord. 79th cleruchy. Ptolemaios, son of Kastor. At Patsontis 7 1/2 arouras.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

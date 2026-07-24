@@ -1,0 +1,28 @@
+[META]
+id:       O.CAIR 3
+label:    O.CAIR 3
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     133 BCE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     
+shelf:    
+content:  Receipt from Hermonthis (133 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       73355
+source:   https://papyri.info/ddbdp/o.cair;;3
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    ἔτους λζ Χοιὰχ κδ. τέτακται ἐπὶ τὴν ἐν Ἑρμώνθει
+r.2    τράπεζαν ἐφʼ ἧς Ἡρακλείδης ἀπομοίρας λζ ἔτουςὯρος
+r.3    Παοῦτος διʼ Ὥρου τοῦ Θοτορταίου τετρακοσίας, γίνονται υ.
+r.4    Ἡρακλείδης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

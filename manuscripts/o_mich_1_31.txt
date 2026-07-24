@@ -1,0 +1,28 @@
+[META]
+id:       O.MICH 1.31
+label:    O.MICH 1.31
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (1 CE – 100 CE)
+# hgv-keywords: Anweisung — Zahlung — Getreide
+tm:       42073
+source:   https://papyri.info/ddbdp/o.mich;1;31
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἀπολλώνιος Παμμένῃ χαίρειν. μέτρησον
+r.2    Ἀγαθ Μαρρήους εἰς λόγον Ἀπίωνος
+r.3    πυροῦ χοίνικα μίαν ἥμισυ τέταρτον,
+r.4    γίνεται χοῖνιξ α 𐅵 δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

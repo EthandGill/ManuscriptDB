@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 1.222
+label:    O.EDFOU 1.222
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     301 CE – 700 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (301 CE – 700 CE)
+# hgv-keywords: Quittung
+tm:       74257
+source:   https://papyri.info/ddbdp/o.edfou;1;222
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔδωκε Νῖλος
+r.2    Μνῖψις παρὰ
+r.3    τέταρτον.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,30 @@
+[META]
+id:       CPR 1.71
+label:    CPR 1.71
+name:     Contract — Herakleopolis
+genre:    contracts
+date:     201 CE – 250 CE
+language: Greek (Koiné)
+found:    Herakleopolis
+held:     
+shelf:    
+content:  Contract from Herakleopolis (201 CE – 250 CE)
+# hgv-keywords: Vertrag — Kauf (?)
+tm:       31844
+source:   https://papyri.info/ddbdp/cpr;1;71
+lat:      29.0855048
+lon:      30.9345750333
+
+[GREEK]
+r.1    … [ Εὐτ]υχοῦς Σε[βαστοῦ ] …
+r.2    … ν γραφομένων …
+r.3    … [ διʼ ἐπιτηρητ]ῶν ἀγοραν[ομίας ] …
+r.4    … [ Α]ὐρηλία Ἡρα[ίς ] …
+r.5    … [ ἀ]ναγραφομέν[η ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

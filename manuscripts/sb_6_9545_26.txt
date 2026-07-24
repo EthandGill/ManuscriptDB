@@ -1,0 +1,30 @@
+[META]
+id:       SB 6.9545_26
+label:    SB 6.9545_26
+name:     Receipt — Elephantine
+genre:    receipts
+date:     124 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (124 CE)
+# hgv-keywords: Quittung — Steuer (μερισμὸς ποταμοφυλακίδος) — Namen
+tm:       19088
+source:   https://papyri.info/ddbdp/sb;6;9545_26
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Παχομπατενεφώτης πράκτωρ διὰ Σαραπίωνος
+r.2    γραμματέως. διέγραψεν Πάνης Ζμετπῶτος
+r.3    μητρὸς Σενζμήθιος ὑπὲρ μερισμοῦ ποταμοφυλακίδος
+r.4    η ἔτους ῥυπαροὺς ὀβολοὺς δέκα . ἔτους η
+r.5    Ἁδρ[ιαν]οῦ τοῦ κυρίου Παῦνι κθ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

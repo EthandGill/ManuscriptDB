@@ -1,0 +1,26 @@
+[META]
+id:       O.ASHM 46
+label:    O.ASHM 46
+name:     Receipt — Theben
+genre:    receipts
+date:     174 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (174 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70495
+source:   https://papyri.info/ddbdp/o.ashm;;46
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαρμοῦθι ιη τοῦ ιδ ἔτους ὀνόματος Λολοῦτος
+r.2    Ἑριέως Παναμέως ὑπὲρ ἡμισείας λαογραφίας
+r.3    ιδ ἔτους Χάρακος δραχμὰς πέντε γίνονται δραχμαὶ ε. Φ …
+
+[TRANSLATION]
+1     
+2     
+3     

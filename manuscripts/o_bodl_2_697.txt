@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.697
+label:    O.BODL 2.697
+name:     Receipt — Theben
+genre:    receipts
+date:     121 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (121 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71387
+source:   https://papyri.info/ddbdp/o.bodl;2;697
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεχεσποχράτης καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    Ἀβῶτι Ἰναρῶτος χαίρειν. ἔσχομεν παρὰ σοῦ
+r.3    ὑπὲρ βαλανευτικοῦ τοῦ ε ἔτους Ἁδριανοῦ τοῦ κυρίου Ἐπεὶφ ιη.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1030
+label:    O.BODL 2.1030
+name:     Receipt — Theben
+genre:    receipts
+date:     194 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (194 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71717
+source:   https://papyri.info/ddbdp/o.bodl;2;1030
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Νεφερῶς καὶ μέτοχοι ἐπιτηρηταὶ τέλους γερ[δίων]
+r.2    Πετεμενώφει Σενπετεμενώφιος.
+r.3    ἐσχήκαμεν ὑπὲρ μηνὸς Ἁδριανοῦ καὶ
+r.4    Τῦβι καὶ Μεχεὶρ ἐσχήκαμεν τὸ καθῆκον
+r.5    τέλος. ἔτους β Μεχεὶρ κ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

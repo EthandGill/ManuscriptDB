@@ -1,0 +1,80 @@
+[META]
+id:       P.Oxy. 3.520
+label:    P.Oxy. 3.520
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     143 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (143 CE)
+# hgv-keywords: Deklaration — Kauf — Versteigerung von Waren eines Ladens
+tm:       20650
+source:   https://papyri.info/ddbdp/p.oxy;3;520
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    κζ, παντοπωλίου Χάρητος.
+r.2    προσάγγελμα παντοπωλίου λα …
+r.3    Χάρητος Ἀμμωνίωνι καὶ Ἡφαιστᾶι
+r.4    καὶ Λυκαρίωνι ἐπιτηρηταῖς ἔτους ϛ
+r.5    Ἀντωνείνου Καίσαρος τοῦ Κυρίου Ἐπε[ὶ]φ …
+r.6    Νείκυτος ταριχίων διπλῶν β [δραχμαὶ β],
+r.7    Διδύμου πλεκτῶν ϛ [δραχμαὶ ] …
+r.8    Πτολεμαίου ταριχίων διπλοῦ α [δραχμὴ α],
+r.9    ἔλασσον
+r.10   διώβολον
+r.11   Ἀμμων[ᾶτο]ς Γαίου Κερκενητ χω διπε …
+r.12   Ἰουλᾶτ[ο]ς στιβάδων γ …
+r.13   Σερᾶτος ταριχίων διπλῶν β [δραχμαὶ β],
+r.14   Σαραπίωνος γύρεως ἀρταβῶν β …
+r.15   ἑτέρου Σαραπίωνος σιλίων φορτ[ί]ων γ …
+r.16   τοῦ αὐτοῦ σιδήρου ἠργασμένου μνῶν β δραχμαὶ …
+r.17   Παρόδου σιδήρου ἠργασμένου μνῶν β [δραχμαὶ ] …
+r.18   Ἀρείου ψιάθων κδ …
+r.19   Ἰσιδώρου ποδῶν κλινῶν ϛ …
+r.20   τοῦ αὐτοῦ πορφυρίου στατήρων δ …
+r.21   Ἁρτώσι[ο]ς πλεκτῶν ιβ δραχμαὶ …
+r.22   Μώρου κύρτων πλεκτῶν η δραχμὴ α ὀβολὸς,
+r.23   Ἰσιπουτᾶτος ταριχίων διπλῶν β δραχμαὶ β,
+r.24   Ἡρώδου στροβίλων ν δραχμὴ α τριώβολον.
+r.25   γίνονται δραχμαὶ λδ ὀβολὸς,
+r.26   αἳ καὶ
+r.27   λδ τριώβολον.
+r.28   αἳ καὶ μετεβλήθησαν Ἀμμωνίωνι καὶ Ἡφαιστᾷ καὶ Λυκαρίωνι ἐπιτηρηταῖς.
+r.29   Κλαύδιος Διονύσιος σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: The 27th, Chares’ emporium. Report of the emporium ... of Chares, to Ammonion, Hephaestas and Lycarion, overseers, in the 6th year of Antoninus Caesar the lord, Epeiph .. Nicus, 2 double jars of pickled fish 2 drachmae; Didymus, 6 ropes ...; Ptolemaeus 1 double jar of pickled fish 1 drachma ; Ammonas son of Gaius, of Kerken...; Iulas 3 mattresses...; Seras 2 double jars of pickled fish 2 drachmae; Sarapion 2 artabae of meal...; another Sarapion 3 loads of ...; ditto 2 minae of wrought iron .. drachmae; Parodus 2 minae of wrought iron .. drachmae; Arius 24 mats...; Isidorus 6 couch-legs...; ditto 4 staters of purple ...; Hartosis 12 ropes..drachmae; Morus 8 plaited fishbaskets 1 drachma 1 obol; Isipoutas 2 double jars of pickled fish 2 drachmae; Herodes 50 wicks 1 drachma 3 obols; total 34 drachmae 1 obol , which sum was paid over to Ammonion, Hephaestas and Lycarion, overseers. (Signed) Certified by me, Claudius Dionysius.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+25    
+26    
+27    
+28    
+29    

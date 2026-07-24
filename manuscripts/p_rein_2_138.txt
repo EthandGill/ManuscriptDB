@@ -1,0 +1,28 @@
+[META]
+id:       P.REIN 2.138
+label:    P.REIN 2.138
+name:     Receipt — Thebais
+genre:    receipts
+date:     171 BCE
+language: Greek (Koiné)
+found:    Thebais
+held:     
+shelf:    
+content:  Receipt from Thebais (171 BCE)
+# hgv-keywords: Quittung — Abgabe — Lieferung — Spreu
+tm:       5280
+source:   https://papyri.info/ddbdp/p.rein;2;138
+lat:      26.25
+lon:      32.75
+
+[GREEK]
+r.1    ἔτους ι Παῦνι ιβ. παραδέδωκεν εἰς τὸ καθῆκον
+r.2    ἄχυρον τοῦ ι ἔτους Πορεγέβθις Ἐφονύχο[υ]
+r.3    φυπε τέσσαρα μώια δ γίνεται δ
+r.4    Προῖτος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

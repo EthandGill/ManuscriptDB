@@ -1,0 +1,38 @@
+[META]
+id:       P.PETR.KLEON 29
+label:    P.PETR.KLEON 29
+name:     Letter — Fundort: Gurob; Schreibort: Arsinoites
+genre:    letters
+date:     260 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Letter from Fundort: Gurob; Schreibort: Arsinoites (260 BCE – 249 BCE)
+# hgv-keywords: Brief — Dikaios an Kleon — Wasser
+tm:       388476
+source:   https://papyri.info/ddbdp/p.petr.kleon;;29
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    [Δίκα]ιος Κλέωνι χαίρειν.
+r.2    [καλ]ῶς ἂν ποιήσαις
+r.3    … αμενος ἦι πο… [δ]ύναται τὸ ὕδωρ
+r.4    … την
+r.5    … [ἐν τῆι] Μικρᾶι Λίμνηι
+r.6    … ἐὰν δύνω[μαι] … τους.
+r.7    Χοιὰχ θ παρὰ
+r.8    Δικαίου Κλέωνι
+
+[TRANSLATION]
+# HGV-EN: [Dika]ios to Kleon, greetings. Please [look] where the water can be [led (?) ...] in the Small Lake [...]. (m2) Choiak 9, from Dikaios. To Kleon
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

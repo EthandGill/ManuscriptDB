@@ -1,0 +1,36 @@
+[META]
+id:       O.FRANGE 666
+label:    O.FRANGE 666
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     601 CE – 800 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (601 CE – 800 CE)
+# hgv-keywords: Lettre — Cuir — Archives de Frangé (?)
+tm:       220204
+source:   https://papyri.info/ddbdp/o.frange;;666
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [ ⲁⲓϫⲓ ⲛⲉⲥ]ϩⲁⲓ ⲛⲧⲉⲧⲛ[ⲙⲛⲧⲉⲓⲱ]ⲧ ⲉⲧⲟⲩⲁⲁⲃ
+r.2    [ⲁⲩ]ⲱ ⲉ[ⲧ]ⲙⲉ ⲙⲡⲉΧριστός
+r.3    ⲁⲧⲁⲙⲛ[ⲧ]ἐλάχιστος ⲣⲡⲉⲙⲡϣⲁ ⲛⲟϣⲟⲩ ⲁⲡⲁ
+r.4    ϩⲏⲧ ⲙⲧⲟⲛ ϫⲉ ⲁⲓϩⲉ
+r.5    ⲉⲡⲟⲩϫⲁⲓ ⲛⲧⲉⲧⲛⲙⲛⲧⲉⲓⲱⲧ ⲉⲧ[ⲟⲩⲁⲁⲃ] [ⲉ]ⲃⲟⲗ ⲛϩⲏⲧ[ⲟⲩ] [ⲙⲛⲛ]ⲥⲱⲥ κατά …
+r.6    ϩⲁ ⲡϣⲁⲣ ⲛ …
+r.7    … ϫ …
+r.8    ⲟⲩ[ϫⲁⲓ ϩⲙ ⲡϫⲟⲉⲓⲥ ϣⲗ]ⲏⲗ ⲉϫⲱⲓ ⲛἀγάπη ⲛ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

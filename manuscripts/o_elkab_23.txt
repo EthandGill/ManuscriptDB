@@ -1,0 +1,26 @@
+[META]
+id:       O.ELKAB 23
+label:    O.ELKAB 23
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     96 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (96 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24471
+source:   https://papyri.info/ddbdp/o.elkab;;23
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    Ψεμονχῆς Σενφάφιος
+r.2    χωματικοῦ ιε ἔτους Δομιτιανοῦ
+r.3    δραχμὰς ϛ τετρώβολον. ἔτους ιε Παῦνι α.
+
+[TRANSLATION]
+1     
+2     
+3     

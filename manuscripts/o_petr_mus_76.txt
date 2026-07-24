@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 76
+label:    O.PETR.MUS 76
+name:     Receipt — Theben
+genre:    receipts
+date:     97 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (97 BCE)
+# hgv-keywords: Quittung — Steuer (tetarte halieon)
+tm:       43639
+source:   https://papyri.info/ddbdp/o.petr.mus;;76
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιζ Τῦβι κδ τέτακται τετάρτης ἁλιέων
+r.2    Διὸς πόλεως Ὧρος Λύκου καὶ οἱ μέτοχοι
+r.3    τάλαντον ἓν χξ γίνονται τάλαντον α χξ Κέφαλος τραπεζίτης.
+r.4    τάλαντον α Β.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

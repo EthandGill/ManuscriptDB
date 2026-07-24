@@ -1,0 +1,24 @@
+[META]
+id:       UPZ 1.130
+label:    UPZ 1.130
+name:     Documentary papyrus — Memphis
+genre:    documents
+date:     115 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Documentary papyrus from Memphis (115 BCE)
+# hgv-keywords: Vermerk (Registrierung)
+tm:       3522
+source:   https://papyri.info/ddbdp/upz;1;130
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    ἔτους β Φαμενὼθ ιη ἀναγέγραπται
+r.2    ἐν τῶι Ἀνουβιείωι διὰ Διφίλου.
+
+[TRANSLATION]
+1     
+2     

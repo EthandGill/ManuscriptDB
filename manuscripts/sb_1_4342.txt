@@ -1,0 +1,40 @@
+[META]
+id:       SB 1.4342
+label:    SB 1.4342
+name:     Receipt — Theben
+genre:    receipts
+date:     44 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (44 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       23101
+source:   https://papyri.info/ddbdp/sb;1;4342
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [δ]ιέγραψεν Ὧρος Παήσιος ὑπὲρ λαογραφίας δ [ἔτους]
+r.2    [Μεμνον]ίων δραχμὰς δ. ἔτους δ Τιβερίου Κλαυδίου
+r.3    [Καίσ]αρος Σεβαστοῦ Γερμανικοῦ
+r.4    [Αὐ]τοκράτορος, Φαμενὼθ κ Σεβαστῇ
+r.5    … ων … δ
+r.6    … ικων
+r.7    … ων Ἐπεὶφ κε ὑπὲρ τοῦ αὐτοῦ δ ἔτους
+r.8    … φ … ὑπὲρ βαλανικοῦ, γίνονται δραχμαὶ β …
+r.9    Ἐπεὶφ κη ὑπὲρ χωματικοῦ
+r.10   δραχμὰς γ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

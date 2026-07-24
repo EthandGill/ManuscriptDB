@@ -1,0 +1,38 @@
+[META]
+id:       P.PETRA 3.32
+label:    P.PETRA 3.32
+name:     Receipt — Petra oder Augustopolis (Tertia Palaestina Salutaris)
+genre:    receipts
+date:     593 CE
+language: Greek (Koiné)
+found:    Petra oder Augustopolis (Tertia Palaestina Salutaris)
+held:     
+shelf:    
+content:  Receipt from Petra oder Augustopolis (Tertia Palaestina Salutaris) (593 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       112467
+source:   https://papyri.info/ddbdp/p.petra;3;32
+lat:      29.8302636145
+lon:      35.0638174991
+
+[GREEK]
+r.1    κατέβαλαν κληρονόμοι τοῦ μακαριωτάτου Ἱερίου Πατροφίλου διὰ τ … [ὑπὲρ μέρους αὐτῶν]
+r.2    τῆς κληρονομίας Πανολβίου Θεοδώρου λόγῳ συντελειῶν [αὐτῶν καὶ τῶν ἰνδικτιόνων ἐτῶν δύο] …
+r.3    καὶ Γεωργίου τῶν μακαριωτάτων πολιτευομένων Αὐγουστοπόλεως κατ’ ἔτ[ος] … [ἀκολούθως τῇ θείᾳ]
+r.4    δηληγατίωνι. ἐγράφ[η] εἰδ[οῖς] Ἀπριλίοις ἰνδικτίονος ια χειρὶ Ἰω[άννου ] … [ἐδόθη]
+r.5    ὁμοῦ κατ’ ἔτος φόλλεις β, γίνεται τῶν β ἐτῶν φόλλεις η.
+r.6    Φλάουιος Μιχ[αήλιο]ς ὁ προγεγραμμένος ὑπεδεξ[άμην ] …
+r.7    Φλάουιος Βίκτωρ Γε … ίου πολιτευόμενος καὶ λο …
+r.8    ἀπόδειξ[ις] … υπ … ου περι …
+
+[TRANSLATION]
+# HGV-EN: † The heirs of the most blessed Hierios, son of Patrophilos, paid through [ . . . for their share] of the inheritance of Panolbios, son of Theodoros, on account of [their] taxes [for the . . . and . . . indictions, that is two years, . . . of . . . ] and of Georgios, the blessed politeuomenoi of Augustopolis, every year [ . . . according to the imperial] delegatio. (This receipt) was written on the Ides of April, in the 11th indiction, by the hand of Ioannes (?) [patronymic, title, EPA year?]. Altogether 2 folles [were given] per year, total for 2 years, 8 folles. † † (I,) Flavius Michaelios, [son of . . .]os, the above-mentioned, received [...] † (I,) Flavius Victor, son of Ge- . . . ios, politeuomenos, and lo[...] (Verso:) † Receipt [of . . .]os regarding (?) [...]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

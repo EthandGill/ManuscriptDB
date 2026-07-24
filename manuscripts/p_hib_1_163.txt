@@ -1,0 +1,22 @@
+[META]
+id:       P.HIB 1.163
+label:    P.HIB 1.163
+name:     Letter — Herakleopolites (?)
+genre:    letters
+date:     229 BCE
+language: Greek (Koiné)
+found:    Herakleopolites (?)
+held:     
+shelf:    
+content:  Letter from Herakleopolites (?) (229 BCE)
+# hgv-keywords: Schluß — Brief — NN an Kleitarchos
+tm:       8276
+source:   https://papyri.info/ddbdp/p.hib;1;163
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    περὶ κώμην Τμοινεθῦμιν τοῦ Ἡρακλεοπολίτου δραχμῶν κ εἰκοστὴν δραχμὴν α. ἔρρωσο. ἔτους ιη Ἁθὺρ κ.
+
+[TRANSLATION]
+1     

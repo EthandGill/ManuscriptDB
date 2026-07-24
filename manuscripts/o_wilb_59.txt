@@ -1,0 +1,30 @@
+[META]
+id:       O.WILB 59
+label:    O.WILB 59
+name:     Receipt — Theben
+genre:    receipts
+date:     135 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (135 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76567
+source:   https://papyri.info/ddbdp/o.wilb;;59
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν μητροπόλεως γενήματος
+r.2    ιθ ἔτους Ἁδριανοῦ τοῦ κυρίου
+r.3    Μεσορὴ α ὑπὲρ Νότου ὀνόματος κληρονόμων
+r.4    Ὡρίωνος Ἀμωνίου διὰ γεωργοῦ
+r.5    Παχνούμιος Παουφθειοῦτος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

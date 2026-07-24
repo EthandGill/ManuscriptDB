@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 1.95
+label:    O.BODL 1.95
+name:     Receipt — Diospolis Magna (Theben)
+genre:    receipts
+date:     111 BCE
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     
+shelf:    
+content:  Receipt from Diospolis Magna (Theben) (111 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       43808
+source:   https://papyri.info/ddbdp/o.bodl;1;95
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    ἔτους ϛ Παχὼν κζ τέτακται ἐπὶ τὴν ἐν
+r.2    Διὸς πόλει τῆι μεγάληι τράπεζαν παντοπωλῶν ϛ ἔτους
+r.3    Ἁσιῆς τάλαντα τρία Β γίνονται τάλαντα γ Β.
+r.4    Κέφαλος τραπεζίτης
+r.5    τάλαντα δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

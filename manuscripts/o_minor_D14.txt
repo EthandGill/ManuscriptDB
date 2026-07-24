@@ -1,0 +1,30 @@
+[META]
+id:       O.MINOR D14
+label:    O.MINOR D14
+name:     Receipt — Theben
+genre:    receipts
+date:     190 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (190 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75010
+source:   https://papyri.info/ddbdp/o.minor;;D14
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος λ ἔτους Κομμόδου
+r.2    Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.3    Παῦνι κζ ὑπὲρ Ἀγορῶν ὀνόματος Ἰναρῶτος
+r.4    ὁμοίως Ὥρου καὶ τ …
+r.5    γίνεται πυροῦ ϛ. Πανίσκος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

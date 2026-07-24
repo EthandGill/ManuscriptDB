@@ -1,0 +1,28 @@
+[META]
+id:       O.LUND 2
+label:    O.LUND 2
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     92 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (92 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       74866
+source:   https://papyri.info/ddbdp/o.lund;;2
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    χωματικοῦ ια ἔτους Δομιτιανοῦ
+r.2    ε μέρους Π … ειε Πατωουνθε δραχμὰς πέντε διώβολον, γίνονται ε διώβολον
+r.3    Φαρμοῦθι ια ἄλλας δραχμὰς πέντε διώβολον
+r.4    γίνονται δραχμαὶ ε διώβολον. ἔτους ιβ, Ἁθὺρ ι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

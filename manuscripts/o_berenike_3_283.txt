@@ -1,0 +1,30 @@
+[META]
+id:       O.BERENIKE 3.283
+label:    O.BERENIKE 3.283
+name:     Receipt — Berenike
+genre:    receipts
+date:     51 CE – 100 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     
+shelf:    
+content:  Receipt from Berenike (51 CE – 100 CE)
+# hgv-keywords: Quittung — Wasser — Dekania — Centurie
+tm:       641771
+source:   https://papyri.info/ddbdp/o.berenike;3;283
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    δεκανίας Κρόνι[ος] Σεραπίωνος
+r.2    Αλεξᾶς Παμίνεως
+r.3    Εἴλων ἑκατονταρχίας Μάγνου
+r.4    κεράμια λε
+
+[TRANSLATION]
+# HGV-EN: Dekania of Kronios son of Sarapion, Alexas son of Paminis. Eilon of the century of Magnus, 35 keramia.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

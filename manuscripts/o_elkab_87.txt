@@ -1,0 +1,28 @@
+[META]
+id:       O.ELKAB 87
+label:    O.ELKAB 87
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     119 CE – 120 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (119 CE – 120 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24522
+source:   https://papyri.info/ddbdp/o.elkab;;87
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    [Νιαραῦς Σεν]αρπτῶτος
+r.2    [γεωμετρίας γ ἔτους Ἁδρι]ανοῦ Καίσαρος
+r.3    [τοῦ κυρίου δραχμὰς ιε ] τετρώβολον, προσδιαγραφομένων δραχμὴν α
+r.4    … ἔτους δ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

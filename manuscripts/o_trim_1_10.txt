@@ -1,0 +1,30 @@
+[META]
+id:       O.TRIM 1.10
+label:    O.TRIM 1.10
+name:     Contract — Trimithis (Oasis Magna)
+genre:    contracts
+date:     350 CE – 370 CE
+language: Greek (Koiné)
+found:    Trimithis (Oasis Magna)
+held:     
+shelf:    
+content:  Contract from Trimithis (Oasis Magna) (350 CE – 370 CE)
+# hgv-keywords: Abrechnung — Weizen — Gerste — Pacht
+tm:       131058
+source:   https://papyri.info/ddbdp/o.trim;1;10
+lat:      25.6677395488
+lon:      28.8708832519
+
+[GREEK]
+r.1    χειμερινῆς ὕδρευμα χωρίου Ψεναμούνιος
+r.2    διὰ Ψάιτος Κόρακος φόρου
+r.3    σίτου δημοσίῳ μέτρῳ ἀρτάβας ε γ
+r.4    κριθῆς δημοσίῳ μέτρῳ ἀρτάβας β 𐅵
+
+[TRANSLATION]
+# HGV-EN: For the winter period, Hydreuma of the Vineyard of Psenamounis, through Psais son of Korax for rent, 5 1/3 art. of wheat by public measure, 2 ½ art. of barley by public measure.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

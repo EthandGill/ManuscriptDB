@@ -1,0 +1,44 @@
+[META]
+id:       P.RYL 2.183
+label:    P.RYL 2.183
+name:     Receipt — Euhemeria (Arsinoites)
+genre:    receipts
+date:     16 CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Euhemeria (Arsinoites) (16 CE)
+# hgv-keywords: Quittung (Heu)
+tm:       12960
+source:   https://papyri.info/ddbdp/p.ryl;2;183
+lat:      29.383296
+lon:      30.533289
+
+[GREEK]
+r.1    Ἀνχορίνφις Ἡρακλείδου προστάτης ἰδίων ὄνων
+r.2    Ἀπολλωνίου τοῦ Ἀλεξάνδρου ἐπισπουδαστοῦ Ἀφροδισίῳ
+r.3    καὶ Πετερμουθίωνι τοῖς δυσὶ Ἀσκληπιάδου χαίρειν. ἀπέχω
+r.4    παρʼ ὑμῶν τὰς ἐπεσταλμένας μοι δοθῆναι
+r.5    διὰ χρηματισμοῦ Εὐημέρου καὶ Φιλοξένου γενήματος
+r.6    πρώτου ἔτους Τιβερίου Καίσαρος Σεβαστοῦ
+r.7    χόρτου διμνώου δέσμας χιλίας ἐν Εὐημερί[ᾳ]
+r.8    ἐν μηνὶ Μεσορὴ τοῦ β ἔτους, γίνονται χόρτου δέσμαι Α. ἔτους β Τιβερίου
+r.9    Καίσαρος Σεβαστοῦ Μεσορὴ ιγ.
+r.10   ἔγραψεν ὑπὲρ αὐτοῦ Μάρων γραμματεὺς κτηνοτρόφων Εὐημερίας
+r.11   διὰ τὸ μὴ εἰδέναι αὐτὸν γράμματα.
+
+[TRANSLATION]
+# HGV-EN: ‘Anchorimphis son of Heraclides, superintendent of the private donkeys of Apollonius son of Alexander, transport-master, to Aphrodisius and Petermouthion, both sons of Asclepiades, greeting. I have received from you the 1,000 bundles of … hay from the produce of the 1st year of Tiberius Caesar Augustus ordered to be delivered to me through the notification of Euhemerus and Philoxenus in Euhemeria in the month Mesore of the and year, total 1,000 bundles of hay. The 2nd year of Tiberius Caesar Augustus, Mesore 13. Maron secretary of the herdsmen of Euhemeria wrote for him, as he is illiterate.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

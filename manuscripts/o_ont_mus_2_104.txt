@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.104
+label:    O.ONT.MUS 2.104
+name:     Receipt — Theben
+genre:    receipts
+date:     116 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (116 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75123
+source:   https://papyri.info/ddbdp/o.ont.mus;2;104
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἰμούθης πράκτωρ ἀργυρικῶν μητροπόλεως
+r.2    Ἁρφμόις Ψεναμούνιος ἔσχον ὑπὲρ σκοπέλων
+r.3    καὶ ἄλλων Ἀγορῶν βορρᾶ α … . ἔτους ῥυπαρὰς τρεῖς τριώβολον
+r.4    γίνονται δραχμαὶ γ τριώβολον. ἔτους ιζ Τραιανοῦ
+r.5    τοῦ κυρίου Χοίακ ϛ. Α σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

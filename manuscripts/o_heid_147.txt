@@ -1,0 +1,34 @@
+[META]
+id:       O.HEID 147
+label:    O.HEID 147
+name:     Receipt — Koptos (?)
+genre:    receipts
+date:     34 CE
+language: Greek (Koiné)
+found:    Koptos (?)
+held:     
+shelf:    
+content:  Receipt from Koptos (?) (34 CE)
+# hgv-keywords: Quittung — Steuer (Schneidersteuer, telos epeton)
+tm:       80370
+source:   https://papyri.info/ddbdp/o.heid;;147
+lat:      25.9967
+lon:      32.8167
+
+[GREEK]
+r.1    διὰ Ἁροννώφρεως καὶ τῶν μετόχων
+r.2    τελωνῶν ἠπητῶν Πασήμιος Ὥρου
+r.3    καὶ Θουσώτμιος. ἀπέχομεν παρʼ
+r.4    ὑμῶν τὸ τέλος τοῦ Χοιὰκ δραχμὰς δ
+r.5    τοῦ κα ἔτους Τιβερίου Καίσαρος Σεβαστοῦ
+r.6    Χοιὰκ ιθ.
+
+[TRANSLATION]
+# HGV-EN: Through Haronnophris and his associates, tax-collectors of the menders, Pasemios, son of Horos, and Thusotmios (have paid). We receive from you the tax for the month Choiak 4 drachmas, in the year 21 (?) of Tiberius Caesar Augustus, on the day 19 of Choiak.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

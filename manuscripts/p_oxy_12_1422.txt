@@ -1,0 +1,46 @@
+[META]
+id:       P.Oxy. 12.1422
+label:    P.Oxy. 12.1422
+name:     Letter — Gynaikopolites (?)
+genre:    letters
+date:     128 CE
+language: Greek (Koiné)
+found:    Gynaikopolites (?)
+held:     
+shelf:    
+content:  Letter from Gynaikopolites (?) (128 CE)
+# hgv-keywords: Brief (amtlich) — Demetrius (Stratege) an Agathos Daimon (Stratege) — Helfer eines flüchtigen Sklaven nicht auffindbar und verhaftbar
+tm:       21829
+source:   https://papyri.info/ddbdp/p.oxy;12;1422
+lat:      30.9179430488
+lon:      30.5113607073
+
+[GREEK]
+r.1    … ἐλάβομεν Μεχεὶρ ιδ. πζ.
+r.2    … [ Δ]ημήτριος στρατηγὸς
+r.3    [Γυναι]κοπολείτου Ἀγαθῷ Δαίμον[ι]
+r.4    [στρατη]γῶι Ὀξυρυγχείτου τῶι
+r.5    φιλτάτωι χαίρει[ν.]
+r.6    … Ἀχιλλεὺς ὃν ἐδήλωσας [ἐν][κεκλῆσθαι] ὑπὲρ ὑποδοχῆς δού[λου ] … [ ἐδη]λώθη καὶ ὑπὸ τῶν
+r.7    [κωμογρα]μματέων τοῦ ν[ομοῦ]
+r.8    [καὶ τῶν τῆς μη]τροπόλεως γραμ[ματέων ][ἀφανὴ]ς εἶναι. ἐρρῶσθαί σε
+r.9    [εὔχομαι ] … ταμιο γρ … κ.
+r.10   [ἔτους ιβ Αὐτοκράτορος Κα]ίσ[α]ρος Τραιανοῦ
+r.11   [Ἁδριανοῦ Σεβαστοῦ Τ]ῦβι κ.
+r.12   … [ Τῦβι] κδ.
+
+[TRANSLATION]
+# HGV-EN: Received on Mecheir 14. No. 87. ... Demetrius, strategus of the Gynaecopolite nome, to his dearest Agathodaemon, strategus of the Oxyrhynchite nome, greeting. ... Achilleus, who, as you stated, was accused of harbouring a slave ..., has been stated by both the village scribes of the nome and the scribes of the metropolis to be missing. I pray for your health ... The 12th year of the Emperor Caesar Trajanus Hadrianus Augustus, Tubi 20. Tubi 24 (?).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

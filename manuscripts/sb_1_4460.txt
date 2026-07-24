@@ -1,0 +1,22 @@
+[META]
+id:       SB 1.4460
+label:    SB 1.4460
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     97 BCE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (97 BCE)
+# hgv-keywords: Griechische Beischrift zu demotischer Urkunde
+tm:       43280
+source:   https://papyri.info/ddbdp/sb;1;4460
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους ιη, Θωὺθ ιβ. πέπτωκεν μοναχὴ εἰς ἀναγραφήν.
+
+[TRANSLATION]
+1     

@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 10.1263
+label:    P.Oxy. 10.1263
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     128 CE – 129 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (128 CE – 129 CE)
+# hgv-keywords: Anmeldung der Ausübung des Berufs eines Kanalarbeiters
+tm:       21770
+source:   https://papyri.info/ddbdp/p.oxy;10;1263
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Διογένει τῷ καὶ Ἑρμαίῳ
+r.2    τῶν ἑξηγητευσάντων γραμματεῖ πόλεως
+r.3    παρὰ Διοσκόρου ἀπελευθέρου Σαραπίωνος Σαραπίωνος τοῦ Διο …
+r.4    ἀπʼ Ὀξυρύγχων π[όλεως]
+r.5    ἀμφόδου Ἑρμαί[ου].
+r.6    βούλομαι πρώτως
+r.7    ἀπὸ τοῦ ἐνεστῶτος
+r.8    τρεισκαιδεκάτου
+r.9    ἔτου[ς] Ἁδριανοῦ Καίσαρος
+r.10   τοῦ κυρίου χρήσασθαι τῇ τῶν ἐργ[ατῶν]
+r.11   ποταμοῦ τέχ[νῃ].
+r.12   διὸ ἐπιδίδ[ωμι τὸ]
+r.13   ὑπόμνημα [ὡς πρό]κ[ιται. ἔτους] τρεισκα[ιδεκάτου]
+
+[TRANSLATION]
+# HGV-EN: To Diogenes also called Hermaeus, ex-exegetes, scribe of the city, from Dioscorus, freedman of Sarapion son of Sarapion son of Dio ..., inhabitant of Oxyrhynchus in the quarter of Hermaeus. I wish to begin from the present thirteenth year of Hadrianus Caesar the lord to practise the trade of a river-worker; accordingly I present this application as above.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

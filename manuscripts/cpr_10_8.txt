@@ -1,0 +1,32 @@
+[META]
+id:       CPR 10.8
+label:    CPR 10.8
+name:     Documentary papyrus — Memphites
+genre:    documents
+date:     609 CE
+language: Greek (Koiné)
+found:    Memphites
+held:     
+shelf:    
+content:  Documentary papyrus from Memphites (609 CE)
+# hgv-keywords: Auftrag — Zahlung — Erven — Rinder
+tm:       20845
+source:   https://papyri.info/ddbdp/cpr;10;8
+lat:      29.6279197277
+lon:      31.2486292477
+
+[GREEK]
+r.1    [ Στέφανος ][δ]οῦλος τῆς θεοτόκου Ἰωάννῃ ἀπαιτητῇ Πτολεμαίδος. παράσχου εἰς τροφὴν ταύρου α καὶ βοιδίων ϛ
+r.2    … ρ … τοῦ μοναστηρίου Πτολεμαίδος τρεφομένων διὰ Σαμοῦν προγεωργοῦ
+r.3    ὑπὲρ τοῦ Ἐπὶφ μηνὸς ια ἰνδικτίωνος ἑκάστῳ βοιδίῳ ἡμερῶν ζ γ
+r.4    [καὶ 𐅵 ὑπὲρ] ταύρου α γίνονται δύο ἥμισυ· γίνονται [ὀ]ρόβου ἀρτάβαι β 𐅵 μόνον, μηνὸς Φαρμοῦθι λ ἰνδικτίωνος ιβ.
+r.5    [ Φαρμοῦθι λ ][ἰνδ]ικτίωνος ιβ [γί]νονται [ὀρόβου ἀρτάβαι] δύο ἥμισυ
+r.6    [Φα]ρμοῦθι λ ἰνδικτίωνος ιβ μέρος ὀρόβου παρὰ τοῦ κύρου Στεφ[άνου].
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

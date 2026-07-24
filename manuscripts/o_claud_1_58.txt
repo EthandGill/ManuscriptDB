@@ -1,0 +1,26 @@
+[META]
+id:       O.CLAUD 1.58
+label:    O.CLAUD 1.58
+name:     Documentary papyrus — Mons Claudianus
+genre:    documents
+date:     106 CE – 117 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Mons Claudianus (106 CE – 117 CE)
+# hgv-keywords: Passierschein
+tm:       24070
+source:   https://papyri.info/ddbdp/o.claud;1;58
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ἀντωνεῖνος ἑκατοντάρχης στατιωναρίοις χαίρειν. πάρετε
+r.2    γυναῖκα μίαν καὶ παῖδας [δύο] .
+r.3    Φαῶφι ι .
+
+[TRANSLATION]
+1     
+2     
+3     

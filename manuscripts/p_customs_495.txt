@@ -1,0 +1,26 @@
+[META]
+id:       P.CUSTOMS 495
+label:    P.CUSTOMS 495
+name:     Receipt — Bakchias (Arsinoites)
+genre:    receipts
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Bakchias (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Bakchias (Arsinoites) (101 CE – 300 CE)
+# hgv-keywords: Quittung — Torzoll — Steuer
+tm:       28553
+source:   https://papyri.info/ddbdp/p.customs;;495
+lat:      29.536946
+lon:      31.0041595
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Βακχιάδος
+r.2    ἑκατοστὸν καὶ πεντηκοστὸν Σαραπίων ἐξάγων
+r.3    εἰς …
+
+[TRANSLATION]
+1     
+2     
+3     

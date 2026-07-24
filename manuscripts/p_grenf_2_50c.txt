@@ -1,0 +1,30 @@
+[META]
+id:       P.GRENF 2.50c
+label:    P.GRENF 2.50c
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     147 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (147 CE)
+# hgv-keywords: Quittung — Torzoll
+tm:       11336
+source:   https://papyri.info/ddbdp/p.grenf;2;50c
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Φιλαδελφίας ἐρημοφυλακίας Διωγένης
+r.2    ἐξάγων φοινίκων χλωρῶν ὄνον ἕνα
+r.3    καὶ πυροῦ ὄνον ἕνα . ἔτους ἑνδεκάτου
+r.4    Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.5    Θὼθ ὀκτωκαιδεκάτῃ, ιη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

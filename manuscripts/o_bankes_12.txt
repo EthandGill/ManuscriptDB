@@ -1,0 +1,42 @@
+[META]
+id:       O.BANKES 12
+label:    O.BANKES 12
+name:     Receipt — Elephantine
+genre:    receipts
+date:     172 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (172 CE)
+# hgv-keywords: Quittung — Steuer (Kopfsteuer, laographia)
+tm:       699485
+source:   https://papyri.info/ddbdp/o.bankes;;12
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Στέφα]νος καὶ Ἡρώδης
+r.2    [ἐπιτηρηταὶ] [ἱερᾶς] [πύ]λης Σοήνης διὰ Ἀμμωνίου
+r.3    [βοηθοῦ] [δι]έγραψεν Πατσίβτις Πετ[ορ]ζμήθου
+r.4    [μητρὸς Σε]νπελαίεις ὑπὲρ λαογραφίας
+r.5    [θ ἔτους δραχμὰς] [δ]έκα ἑπτὰ ὀβολόν,
+r.6    [γίνονται δραχμαὶ ιζ ὀβολός.] ἔτους θ
+r.7    [Αὐτοκρά]τορος Καίσαρος
+r.8    [Μάρκου Α]ὐρηλίου
+r.9    Ἀντωνίνου Σεβαστοῦ
+r.10   [Ἀρμενιακ]οῦ Μηδικοῦ,
+r.11   [Παρθικοῦ μεγίστου, Μ]εσορὴ α.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

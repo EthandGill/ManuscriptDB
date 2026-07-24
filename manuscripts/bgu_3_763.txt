@@ -1,0 +1,32 @@
+[META]
+id:       BGU 3.763
+label:    BGU 3.763
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (201 CE – 300 CE)
+# hgv-keywords: Quittung — Torzoll
+tm:       31233
+source:   https://papyri.info/ddbdp/bgu;3;763
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Φιλαδελφίας λιμένος Μέμφεως Αὐρήλιος
+r.2    Ἀϊὼν ἐξάγων ἐπὶ ὄνῳ ἑνὶ α ὀσπρέων
+r.3    ἀρτάβας ἀρτάβας δύο β ἔτους α
+r.4    Ἐπεὶφ δευτέρᾳ β χωρὶς
+r.5    χαρακτῆρος
+
+[TRANSLATION]
+# HGV-EN: Paid for the harbour of Memphis (for the passage) through the gate of Philadelphia by Aurelius Aion, exporting on one donkey, 1, 2 artabas of pulses (ὄσπρεα), = 2 artabas. Year 1, Epeiph, the second, 2, without a seal.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

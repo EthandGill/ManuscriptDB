@@ -1,0 +1,32 @@
+[META]
+id:       O.CLAUD 2.356
+label:    O.CLAUD 2.356
+name:     Documentary papyrus — Mons Claudianus
+genre:    documents
+date:     140 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Mons Claudianus (140 CE)
+# hgv-keywords: Liste — Namen — Nachtwache
+tm:       24007
+source:   https://papyri.info/ddbdp/o.claud;2;356
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    βίγλια Θὼθ κθ
+r.2    Ἰούλις Ἀλέξανδρος α
+r.3    Ὧρος Ὥρου β
+r.4    Ἰούλις Οὐάλης γ
+r.5    [Λον]γεῖνος Τούρβων δ
+r.6    [βί]γλια
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

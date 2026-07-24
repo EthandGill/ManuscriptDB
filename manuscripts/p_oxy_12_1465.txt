@@ -1,0 +1,46 @@
+[META]
+id:       P.Oxy. 12.1465
+label:    P.Oxy. 12.1465
+name:     Petition — Oxyrhynchites
+genre:    petitions
+date:     100 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Petition from Oxyrhynchites (100 BCE – 1 BCE)
+# hgv-keywords: Petition — Eingabe — Diebstahl von Getreide — Bitte um Verhaftung der Diebe — Verdacht
+tm:       43902
+source:   https://papyri.info/ddbdp/p.oxy;12;1465
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    [ἀ]νελθε[ῖν] ἀπὸ ἧς ἔ[χω ἅλω]
+r.2    περὶ τὸ Πεκύσιος Ἰσιεῖον ἀπ[η]νέγ[κα]ντο λῃστρικῶι τρόπωι εἰς πυροῦ ἀρτάβας δ,
+r.3    ὁμοίως καὶ ἀφʼ ἧ[ς ἔχ]ω περὶ τ[ὸ] αὐτὸ
+r.4    Ἰσιεῖον ἄλ[λ]ης ἅλω ἧς γεωργῶ
+r.5    βασιλικῆς [γ]ῆς εἰς ἄλλας πυροῦ [ἀρτάβας] δ.
+r.6    καθυπονοῶν οὖν εἰς Σαραπίωνα
+r.7    ἁλωνοφύλα[κ]α καὶ τοὺς ἄλλους τοὺς ἐκεῖ
+r.8    κοιταζο[μέ]νους, ὧν χάριν ἠνομημ[έ]νος π[ροσ]αγγέλλων, ἀξιῶ συντ[ά]ξαι ἐ[κ]ζητήσαντας τοὺς α[ἰτίο]υς
+r.9    καταστῆσαι ἐπὶ σέ, ὅπως ἐγὼ μὲν
+r.10   τὰ εἰλημμένα κομίσωμαι, οἱ δὲ φανησόμενοι αἴτιοι τύχω[σ]ι ὧν προσήκει
+r.11   πρὸς ἐπίστασιν ἄλλων, ἵνʼ ὦ ἀντειλημμένος.
+r.12   εὐτύχει.
+
+[TRANSLATION]
+# HGV-EN: ... before I returned, thievishly carried off from the threshing-floor, which I own near Iseum Pekusios, as much as 4 artabae of wheat, and likewise from another threshing-floor, which I own near the same Iseum for the Crown-land cultivated by me, as much as 4 more artabae of wheat. I have suspicions against Sarapion, guard of the threshing-floors, and the others who sleep there. Wherefore having been wronged I appeal to you, and request you to give orders (to your subordinates) to search out the guilty persons and bring them before you, in order that I may recover the stolen property, and the persons who shall be proved guilty may receive due punishment, so as to prevent others, and that I may obtain relief. Farewell.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

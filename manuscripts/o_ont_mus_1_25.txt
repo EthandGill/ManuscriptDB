@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 1.25
+label:    O.ONT.MUS 1.25
+name:     Receipt — Theben
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (144 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       50231
+source:   https://papyri.info/ddbdp/o.ont.mus;1;25
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Κα]ροῦρις καὶ Πετεχεσποχράτης Φατρήους καὶ µέτοχοι ἐπιτηρηταί κτημάτων γενηματογραφουμένων
+r.2    [μητροπόλεως] [Πε]τεψάιτι Πανκαμήτιος Φθουµώνθου ἔσχομεν εἰς πρόσθεσιν
+r.3    [ὑπὲρ τιμῆς] φοινίκων γενήματος ζ ἔτους ῥυπαρὰς δραχμὰς ὀκτὼ τριώβολον γίνονται δραχμαὶ η τριώβολον
+r.4    ἔτους η Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.5    Ἁθὺρ ις. Καροῦρις σεσηµείωµαι. ἄλλαι · κϛ ὁμοίως ῥυπαρὰς δραχμὰς ὀκτὼ τριώβολον γίνονται δραχμαὶ η τριώβολον Καροῦρις σεσηµείωµαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,48 @@
+[META]
+id:       P.WORP 19
+label:    P.WORP 19
+name:     Documentary papyrus — Mendesios
+genre:    documents
+date:     144 CE – 145 CE
+language: Greek (Koiné)
+found:    Mendesios
+held:     
+shelf:    
+content:  Documentary papyrus from Mendesios (144 CE – 145 CE)
+# hgv-keywords: Bericht — Stratege und Königlicher Schreiber des Mendesios sowie zwei Landbesitzer aus dem Busirites an NN — betrifft ἐπίσκεψις von Land
+tm:       115551
+source:   https://papyri.info/ddbdp/p.worp;;19
+lat:      31.25
+lon:      31.5
+
+[GREEK]
+r.1    παρὰ Ἀγαθοῦ Δαίμονος στ[ρατη]γοῦ καὶ Ἀμμωνίου τοῦ
+r.2    βασιλικοῦ γραμματέως Μενδησίου καὶ Ἡρακλάμμωνος
+r.3    Ἡρωδίωνος καὶ Ἁρποκρατίωνος Ἥρωνος τῶν β γεουχούντων ἐν νομῷ Βουσιρίτῃ κατασταθέντων
+r.4    ὑπὸ τοῦ ἐπιστρατήγου ἐπισκέψασθαι τὰ αὐτενιαυτὰ εἴδη καὶ τὰ
+r.5    ἄλλα τοῦ αὐτοῦ νομοῦ. πρὸς τὸ μεταδοθὲν ὑπὸ τοῦ
+r.6    ἑτέρου ἡμῶν βασιλικοῦ εἰς ἐπίσκεψιν εἶδος οὗ ἐστιν ἀντίγρ[αφον]
+r.7    ἔστι δέ
+r.8    πρὸς ἐ … μα … ωνη … [τ]ῷ διεληλυθότ[ι] ζ ἔτει …
+r.9    τιν … μ … πιο … τ … [ἐ]πιγραφῇ τὰ ὀ[φει]λόμε[ν]α τῷ α[ὐ]τῷ ἔτ[ε]ι ἀν[ελήμ]φθη καὶ ι …
+r.10   φθη … ουτως … καὶ οὐ πλεον … δονου … προαντ[ε]ποιήθη καὶ εἰ π[ρ]όσεστιν τῇ … [δη]μόσιον ἔδαφος ἐν [ἐκ]φορίοις μετεδόθη καὶ οἱ μετα … τες ἐδήλωσαν πεφ[ηνέ]ναι ἐν χέρσῳ ἔδαφος καὶ νῦν [με]ταδίδοται ἵνα τὰ προεπ[ε]ζητημένα ἐξετασθῆναι. Πτεγχὰτ Κεπτήι
+r.11   Ἀπολλώνιος Ἔρωτος Διοσκουρίδου ἀπὸ Θμούεω[ς πρώ]τως τῷ δ ἔτει Ἀντωνίνου Καίσαρος τοῦ κυρίου σημ[αν]θέντος προσδεδόσθαι τ[ῇ] ὑπαρχούσῃ αὐτῷ ἀμπέλῳ …
+r.12   καὶ ἀσπόρου ἰδιοκτήτου οἴκου Καίσαρος ἀπολ ψαμμ …
+r.13   ἀρούρας …
+
+[TRANSLATION]
+# HGV-EN: From Agathos Daimon strategos and Ammonios the royal scribe of the Mendesian and Heraklammon son of Herodion and Harpokration son of Heron, both landowners in the Bousirite nome, appointed by the epistrategos to inspect the categories (of land) valid for one year only and the other categories in the said nome.’ ‘With regard to the report in reference to the inspection submitted by one of us, the royal scribe, of which this is a copy, thus: ’‘With regard to the instruction (?) … in the past year 7 (?) … the amount due in the said year was recovered and … if the surface measured in arouras is so and not more (?) and no previous claim has been made on it, and if a public plot of land liable to rent is adjacent to the …, a report was submitted and those submitting the report made it clear that the plot had appeared to be desert land and it is now being reported so that what was previously enquired into may be examined.’ (2nd hand?) ‘Ptenchat: Kepte.’ (1st hand) ‘Apollonios son of Eros son of Dioskourides from Thmouis: It having been notified for the first time in year 4 of Antoninus Caesar the lord that x sandy (?) arouras of … and unsown land in private possession, released (?) from the oikos of Caesar, had been given in addition to the vineyard which belongs to him …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

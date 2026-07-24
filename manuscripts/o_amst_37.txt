@@ -1,0 +1,30 @@
+[META]
+id:       O.AMST 37
+label:    O.AMST 37
+name:     Receipt — Theben
+genre:    receipts
+date:     19 BCE – 18 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (19 BCE – 18 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70384
+source:   https://papyri.info/ddbdp/o.amst;;37
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἑρμίας Πετεαροήριος
+r.2    Ὥρου … λινύφων
+r.3    ἀργυρίου δραχμὰς τριάκοντα,
+r.4    γίνονται ἀργυρίου δραχμαὶ λ. ἔτους ιβ.
+r.5    Κέφαλος τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

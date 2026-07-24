@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.224
+label:    O.ONT.MUS 2.224
+name:     Receipt — Theben
+genre:    receipts
+date:     171 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (171 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       75245
+source:   https://papyri.info/ddbdp/o.ont.mus;2;224
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Περτε καὶ μέτοχοι ἀχυροπράκτορες μητροπόλεως Ἁρσιήσιος
+r.2    ὁμοίως παρεκόμισας εἰς Ὠφιήου ὑπὲρ γενήματος ια ἔτους
+r.3    γόμου ἕκτον γίνεται γόμου ϛ. ἔτους ιβ Αὐρηλίου
+r.4    Ἀντωνίνου Καίσαρος τοῦ κυρίου Θὼθ ιζ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

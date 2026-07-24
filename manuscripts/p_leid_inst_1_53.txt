@@ -1,0 +1,32 @@
+[META]
+id:       P.LEID.INST 1.53
+label:    P.LEID.INST 1.53
+name:     Letter — unbekannt
+genre:    letters
+date:     201 CE – 225 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Letter from unbekannt (201 CE – 225 CE)
+# hgv-keywords: Brief (privat) — Tryphon an seinen Vater — Bitte um die Weitersendung einer Rolle Papyrus
+tm:       30999
+source:   https://papyri.info/ddbdp/p.leid.inst;1;53
+lat:      
+lon:      
+
+[GREEK]
+r.1    Τρύφων τῷ πατρὶ πλεῖστα χαίρειν.
+r.2    καλῶς ποιήσεις, πάτερ, δοῦναι τῷ Ἐνᾶτι τὸ κόλλημα αὐτοῦ, ἐπεὶ ἀηδίαν πεποίηκα πρὸς Μάρωνα χάριν αὐτοῦ.
+r.3    μὴ οὖν αὐτὸν κατέχῃς καὶ ποιήσεις με ἀναβῆν[α]ι. ἔπεμψά σοι
+r.4    διὰ … τ[ὰ]ς ἄλλας
+r.5    πρᾶσις δεσ Εἰρήνης
+
+[TRANSLATION]
+# HGV-EN: (Translation: P. L. Bat. 25.53) Tryphon to his father, very many greetings. Be so kind, father, as to give Enas his sheet, for I have wronged Maron for it. Do not restrain him and make me come up. I have sent you the other ... through ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

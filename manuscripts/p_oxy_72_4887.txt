@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 72.4887
+label:    P.Oxy. 72.4887
+name:     Receipt — Oxyrhynchites
+genre:    receipts
+date:     175 CE – 176 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchites (175 CE – 176 CE)
+# hgv-keywords: Quittung — Sitologen — Einzahlung (Giro) von Weizen beim Speicher von Seryphis; Auftrag an den Sitologen (diastolikon) — Giro - Überweisung von Weizen
+tm:       114268
+source:   https://papyri.info/ddbdp/p.oxy;72;4887
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    διεστάλη πυροῦ γενήματος τοῦ διελθόντος ιε Αὐρηλίου
+r.2    Ἀντωνίνου Καίσαρος τοῦ κ[υρίο]υ
+r.3    διὰ σιτολόγων λιβὸς τοπαρχίας Σερύφεως τόπων ἀπὸ θέματος
+r.4    Φιλοξένου τοῦ καὶ Φιλίσκου Διονύσιος
+r.5    Ἁρθοώνιος θέμα ἀρτάβαι ἑξήκοντα, γίνονται πυροῦ ἀρτάβαι ξ. Διονύσιος σιτολόγος σεσημείωμαι.
+r.6    Διονύσιος Ἁρθοώνιος ὁ προγεγραμμένος. διάστειλον Διονυσίῳ
+r.7    Η … οῦτος τὰς προκειμένας ἀρτάβας ἑξήκοντα,
+r.8    γίνονται ἀρτάβαι ξ.
+
+[TRANSLATION]
+# HGV-EN: Transferred, from the wheat-crop of the past 15th year of Aurelius Antoninus Caesar the lord, through the sitologi of the western toparchy, district of Seryphis, from the deposit of Philoxenus also called Philiscus, to Dionysius son of Harthoonis, as a deposit, sixty artabas, total 60 art. of wheat. I, Dionysius, sitologus, have countersigned. I, Dionysius son of Harthoonis, the aforesaid. Transfer to Dionysius son of . . . the aforementioned sixty artabas, total 60 art. (J. De Jong)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

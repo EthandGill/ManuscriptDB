@@ -1,0 +1,30 @@
+[META]
+id:       O.MICH 1.211
+label:    O.MICH 1.211
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     339 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (339 CE)
+# hgv-keywords: Quittung — Heu
+tm:       41974
+source:   https://papyri.info/ddbdp/o.mich;1;211
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Ἁθὺρ β παρήνεγκε Καναοῦτ Οὐεναφρίου
+r.2    ιγ ἰνδικτίονος κώμης
+r.3    Κερανίδος ἀχύρου λίτρας
+r.4    ἑκατὸν εἴκοσι,
+r.5    λίτραι ρκ, μόνας.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

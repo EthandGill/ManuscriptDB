@@ -1,0 +1,56 @@
+[META]
+id:       P.Oxy. 10.1275
+label:    P.Oxy. 10.1275
+name:     Contract — Suis oder Oxyrhynchos
+genre:    contracts
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Suis oder Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Suis oder Oxyrhynchos (201 CE – 300 CE)
+# hgv-keywords: Vertrag (Arbeit) — Musiker für ein Dorffest — Garantie von Lohn und Abholung
+tm:       31729
+source:   https://papyri.info/ddbdp/p.oxy;10;1275
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    [ὁ]μολογοῦσιν ἀ[λλήλοις Αὐ]ρήλιοι Ὀννόφρις Ἀμμω[νίου] μητρὸς
+r.2    [Θα]ϊσοῦτος καὶ Ἀφῦγ χ[ις Ἡ]ρα[κ]λᾶτος μητρὸς
+r.3    Τ[α]υσείριος καὶ Ἑρμ[ογ]ένης Διονυσίου
+r.4    μητρὸς Ἡρακ[λο]ῦτος καὶ … σις Φ[ι]λώτου
+r.5    μητρ[ὸ]ς Ἀριστοῦτος κ[αὶ ] … Ἀμμ[ω]νίου,
+r.6    οἱ πέντε π[ρο]στάται κώμης Σούεως,
+r.7    καὶ Κοπρεὺς Σαραπάμμων[ος] ὁ προεστὼς συμφωνίας αὐλητῶν καὶ μουσικῶν,
+r.8    οἱ μὲν περὶ τὸν Ὀννῶφριν παρειληφέναι τὸν Κοπρέα μετὰ τῆς ἑαυτοῦ
+r.9    συμφωνίας λειτουργήσοντας τοῖς
+r.10   ἀπὸ τῆς προκιμένης κώμης ἐφʼ ἡμέρας ἑορτῶν πέντε ἀπὸ δεκάτης Φαμενὼθ τοῦ ἐνεστῶτος β ἔτους μισθοῦ ἡμερησίως δραχμῶν ἑκατὸν τεσσαράκοντα
+r.11   καὶ ἄρτων ζευγῶν τεσσαράκοντα
+r.12   ἐλαίου ῥαφανίνου κοτυλῶν ὀκτὼ καὶ
+r.13   ὅλων τῶν ἡμερῶν οἴνου κεραμίου ἑνὸς
+r.14   ὄξους κεραμίου ἑνός , ἐντεῦθεν δὲ
+r.15   ὁμολογεῖ ὁ Κοπρεὺς ἐσχηκέναι εἰς λό[γο]ν ἀρ[ρ]αβῶνος δραχμὰς εἴκοσι . παραλήμψ[ον]ται δὲ οἱ περὶ τὸν Ὀννῶφριν
+r.16   [τ]ὸν Κ[οπρ]έα μετὰ τῆς ἑαυτοῦ συμφωνίας
+r.17   ἀπὸ τοῦ Ὀ[ξ]υρυγ χείτου διὰ ὄνων δέκα καὶ ἀποκα[ταστήσ]ουσι εἰς τὴν προκιμένην κώμην
+
+[TRANSLATION]
+# HGV-EN: The Aurelii Onnophris son of Ammonius and Thaisous, Aphunchis son of Heraclas and Tausiris, Hermogenes son of Dionysius and Heraclous, ...sis son of Philotas and Aristous, and ...son of Ammonius, all five presidents of the village of Souis, and Copreus son of Sarapammon, chief of a company of flute-players and musicians, mutually acknowledge that on the one hand Onnophris and his associates have engaged Copreus with his company to perform for the inhabitants of the aforesaid village for five festal days beginning on the tenth of Phamenoth of the present 2nd year at the daily pay of one hundred and forty drachmae, forty pairs of loaves, and eight cotylae of raphanus-oil, and for the whole five days one jar of wine and one jar of vinegar; and on the other hand Copreus forthwith acknowledges that he has received as earnest-money twenty-drachmae. Onnophris and his associates shall receive Copreus and his company from the Oxyrhynchite nome with ten asses, and shall transport them to the aforesaid village ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

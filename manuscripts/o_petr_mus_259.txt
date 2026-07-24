@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 259
+label:    O.PETR.MUS 259
+name:     Receipt — Elephantine
+genre:    receipts
+date:     119 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (119 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, merismos potamophylakidon)
+tm:       75449
+source:   https://papyri.info/ddbdp/o.petr.mus;;259
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σανμοῦς πράκτωρ διέγραψε Παχνοῦβις Φανώφεως ὑπὲρ μερισ[μοῦ]
+r.2    ποταμοφυλακίδων γ ἔτους Ἁδριανοῦ τοῦ
+r.3    κυρίου [δραχμὴν μίαν] τριώβολον
+r.4    Σαραπίων γραμματεὺς ἔγραψα …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

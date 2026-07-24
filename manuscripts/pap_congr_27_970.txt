@@ -1,0 +1,28 @@
+[META]
+id:       PAP.CONGR 27.970
+label:    PAP.CONGR 27.970
+name:     Receipt — Elephantine
+genre:    receipts
+date:     148 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (148 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       702330
+source:   https://papyri.info/ddbdp/pap.congr;27;970
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Δο]μίτιος Φαννιανὸς καὶ
+r.2    [Γερ]μανὸς πράκτορες ἀργυρικῶν Ἐλεφαντίνης.
+r.3    [δι]έγραψεν Πετορζμῆθις Ἁρπαήσεος μητρὸς Τισᾶτις ὑπὲρ μερισμῶν ια ἔτους Ἀντωνίνου Καίσαρος
+r.4    τοῦ κυρίου ῥυπαρὰς δραχμὰς τέσσαρας δραχμὰς δ Φαρμούθι ς
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

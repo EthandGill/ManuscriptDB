@@ -1,0 +1,34 @@
+[META]
+id:       CDE 88.377_2
+label:    CDE 88.377_2
+name:     Documentary papyrus — Antinoopolis
+genre:    documents
+date:     729 CE – 730 CE
+language: Greek (Koiné)
+found:    Antinoopolis
+held:     Cambridge
+shelf:    
+content:  Documentary papyrus from Antinoopolis (729 CE – 730 CE)
+# hgv-keywords: Aufforderung zur Zahlung — Steuer — Geld
+tm:       336335
+source:   https://papyri.info/ddbdp/cde;88;377_2
+lat:      
+lon:      
+
+[GREEK]
+r.1    σὺν Θεῷ ⲉⲙⲣⲁⲛ υἱός ⲁⲃ …
+r.2    ⲡϥⲥϩⲁⲓ ⲛⲅⲉⲛ[ⲛⲁⲇⲓⲟⲥ] … [ϫⲉ ⲛⲁⲓ̈]
+r.3    ⲛⲉ ϣⲁⲥⲧⲁϩⲟⲕ ⲛ[ⲙⲟⲟⲩ] [ⲛⲅⲧⲁⲁⲩ] …
+r.4    ἔτος ⲣⲓⲁ ⲉⲧⲉ ⲛⲁⲓ̈ [ⲛⲉ] …
+r.5    ⲁⲩⲱ ⲁⲥⲧⲁϩⲟⲕ ⲛ[ⲙⲟⲟⲩ] [ⲛⲅⲧⲁⲁⲩ] …
+r.6    ϫⲉ ⲛⲛⲉⲕⲧⲓ ⲗⲁⲁ[ⲩ παρά] …
+
+[TRANSLATION]
+# HGV-EN: With God. Emran, son of A– […], writes to Gen[nadios(?) … These are] what is usually due from you [to pay …] year 111, which are these […] And it has been assigned to you [to pay …], so that you shall not pay anything [beyond? …] …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

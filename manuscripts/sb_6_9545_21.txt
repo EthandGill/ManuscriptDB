@@ -1,0 +1,30 @@
+[META]
+id:       SB 6.9545_21
+label:    SB 6.9545_21
+name:     Receipt — Elephantine
+genre:    receipts
+date:     63 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (63 CE)
+# hgv-keywords: Quittung — Steuer (γεωμετρία) — Namen
+tm:       19083
+source:   https://papyri.info/ddbdp/sb;6;9545_21
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σόσσιος Ἀλεξᾶς. διαγεγράφηκεν
+r.2    Ζμεπῶς Βιήνχιος ὑπὲρ γεωμετρίας
+r.3    φοινικώνων ἐνάτου ἔτους δραχμὰς
+r.4    ὀκτὼ παρὰ ὀβολοὺς δύο ἥμισυ,
+r.5    ἔτους ι Νέρωνος τοῦ κυρίου Χαίακ ιγ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

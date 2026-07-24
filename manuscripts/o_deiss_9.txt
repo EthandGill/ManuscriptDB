@@ -1,0 +1,28 @@
+[META]
+id:       O.DEISS 9
+label:    O.DEISS 9
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     112 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     Sydney
+shelf:    
+content:  Receipt from Apollonopolis (112 BCE)
+# hgv-keywords: Quittung — Geld
+tm:       73822
+source:   https://papyri.info/ddbdp/o.deiss;;9
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    τέτακται Πεβῶς
+r.2    Παχόιτος ἀπὸ τῆς
+r.3    συντάξεως χαλκοῦ ω.
+r.4    ἔτους ϛ Ἁθὺρ κη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

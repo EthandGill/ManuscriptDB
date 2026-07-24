@@ -1,0 +1,32 @@
+[META]
+id:       BGU 2.430
+label:    BGU 2.430
+name:     Documentary papyrus — Karanis (Arsinoites)
+genre:    documents
+date:     189 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Karanis (Arsinoites) (189 CE)
+# hgv-keywords: Adresse — an den Strategen Ammonios und den königlichen Schreiber Harpokration alias Hierax — Deklaration (Zensus) ?
+tm:       9165
+source:   https://papyri.info/ddbdp/bgu;2;430
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Ἀμμωνίῳ στρατηγῷ Ἀρσινοίτου Ἡρακλείδου μερίδος καὶ
+r.2    Ἁρποκρατίωνι τῷ καὶ Ἱέρακι βασιλικῷ γραμματεῖ
+r.3    τῆς αὐτῆς μερίδος καὶ Πτολεμαίῳ
+r.4    κωμογραμματεῖ κώμης Καρανίδος καὶ λαογράφοις
+r.5    [τῆς αυτῆς κ]ώμη[ς] …
+
+[TRANSLATION]
+# HGV-EN: To Ammonios, strategos of the Arsinoite nome, Herakleides division and Harpokration alias Hierax, royal scribe of the same division and Ptolemaios, village scribe of the village of Karanis and to the laographoi of [the same] village from
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

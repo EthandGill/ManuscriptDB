@@ -1,0 +1,36 @@
+[META]
+id:       O.ONT.MUS 2.175
+label:    O.ONT.MUS 2.175
+name:     Receipt — Theben
+genre:    receipts
+date:     135 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (135 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75194
+source:   https://papyri.info/ddbdp/o.ont.mus;2;175
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν μητροπόλεως γενήματος
+r.2    ιθ ἔτους Ἁδριανοῦ τοῦ κυρίου
+r.3    Ἐπεὶφ κα ὑπὲρ Νήσων ὀνόματος
+r.4    Ἁρβήχιος Πασήμιος πυροῦ ἀρτάβης ιβ. ἄλλο
+r.5    Μεσορὴ α τοῦ αὐτοῦ κδ καὶ ὀνόματος
+r.6    … Παήριος
+r.7    πυροῦ ἀρτάβης ιβ γίνεται πυροῦ ἀρτάβης ιβ. Κρ ιβ
+r.8    … σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

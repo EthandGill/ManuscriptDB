@@ -1,0 +1,64 @@
+[META]
+id:       C.PAP.GR 2.1.71
+label:    C.PAP.GR 2.1.71
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     212 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (212 CE)
+# hgv-keywords: Anzeige — Tod — Eid
+tm:       20326
+source:   https://papyri.info/ddbdp/c.pap.gr;2.1;71
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    πε
+r.2    Σερήνῳ ἀμφοδογραμματεῖ α φυλῆς β περιόδου.
+r.3    παρὰ Διογένους Παποντῶτος
+r.4    τοῦ Σπαρτᾶ μητρὸς Τερεῦτος
+r.5    ἀπʼ Ὀξυρύγχων πόλεως. ὁ
+r.6    ἐμοῦ καὶ τῆς ὁμοπατρίας μου
+r.7    ἀδελφῆς Θαήσιος δοῦλος Ἱστόρητος ὑπερετὴς ἄτεχνος ἀναγραφόμενος ἐπʼ ἀμφόδου Παμμένους
+r.8    Παραδείσου ἐτελεύτησε τῷ διελθόντι ἔτει.
+r.9    διὸ ἐπιδίδωμι τὸ ὑπόμνημα
+r.10   ἀξιῶν α[ὐ]τὸν ἀναγραφῆναι ἐν
+r.11   τῇ τῶν [ὁ]μοίων τάξει, καὶ
+r.12   ὀμνύω [τ]ὴν τοῦ κυρίου Μάρκου
+r.13   Αὐρηλίου [Σ]εουήρου Ἀντωνίνου
+r.14   τύχην μ[ὴ ἐ]ψεῦσθαι. ἔτους κα
+r.15   Αὐτοκράτ[ο]ρος Καίσαρος Μάρκου
+r.16   Αὐρηλίου [Σε]ουήρου Ἀντωνίνου
+r.17   Παρθικοῦ Μεγίστου Βρεταννικοῦ
+r.18   Μεγίστου Εὐσεβοῦς Σεβαστοῦ
+r.19   μηνὸς Ἁδριανοῦ κ. Διογένης
+r.20   Παποντῶτος ἐπιδέδωκα καὶ ὀμώμοκα τὸν ὅρκον.
+r.21   Σερῆνος ἀμφοδογραμματεὺς ἔσχον τούτου τὸ ἴσον.
+
+[TRANSLATION]
+# HGV-EN: No. 85. To Serenus, district-scribe of the first tribe, second circuit, from Diogenes son of Papontos son of Spartas, his mother being Tereus, of the city of Oxyrhynchus, The slave belonging to me and Thaësis, my full sister on the father’s side, Historetus, who was past age, had no handicraft, and was registered in the quarter of Pammenes’ Garden, died in the past year: I therefore present this memorandum begging that he be registered in the list of such persons, and I swear by the fortune of the Emperor Marcus Aurelius Severus Antoninus that I have made no false statement.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    

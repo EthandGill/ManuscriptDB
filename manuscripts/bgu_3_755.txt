@@ -1,0 +1,38 @@
+[META]
+id:       BGU 3.755
+label:    BGU 3.755
+name:     Receipt — Herakleia (Arsinoites)
+genre:    receipts
+date:     118 CE
+language: Greek (Koiné)
+found:    Herakleia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Herakleia (Arsinoites) (118 CE)
+# hgv-keywords: Quittung — Sitologen
+tm:       9329
+source:   https://papyri.info/ddbdp/bgu;3;755
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔ[τ]ους δευτέρου Α[ὐ]τοκράτορος Κ[αί]σαρος
+r.2    Τραιαν[ο]ῦ Ἁδριανοῦ Σεβαστοῦ μηνὶ Κ[αι]σαρή[ῳ]
+r.3    ια Ἡρα[κ]λείδης καὶ [μέ]τοχοι σ[ι]τολόγοι τόπων τῶν περὶ Ἡρακλείαν
+r.4    μεμετρήμεθα ἀπὸ τῶν γενημάτων τοῦ αὐτοῦ [ἔ]τους
+r.5    εἰς Στοτοῆτιν Ἀπύγχεως Ἡρακλείας κατοίκων
+r.6    [π]υροῦ μ[έ]τρ[ῳ] δ[η]μ[οσίῳ] [ξ]υστῷ ἔ[πα]ιτον ἀρτάβας δέκα
+r.7    ἑπτὰ ἡ[μ]ίσους τ[ετρακαιεικοστὸν][ γίνονται πυροῦ] ἀρτάβαι ιζ 𐅵 κδ
+r.8    καὶ τὰ προ[σμετρούμενα].
+
+[TRANSLATION]
+# HGV-EN: Year two of Imperator Caesar Traianos Hadrianos Augustus, 11th of the month of Kaisareios. We, Herakleides and associates, sitologoi of the areas around Herakleia, have had measured to us from the produce of the same year with respect to Stotoetis, son of Apynchis, for the dues on katoikoi of Herakleia by levelled public measure epaiton seventeen and a half and a twenty fourth artabas of wheat = 17 1/2 1/24 artabas of wheat and the extra charges.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

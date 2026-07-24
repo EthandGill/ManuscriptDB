@@ -1,0 +1,26 @@
+[META]
+id:       O.LEID 158
+label:    O.LEID 158
+name:     Receipt — Theben
+genre:    receipts
+date:     178 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (178 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       29964
+source:   https://papyri.info/ddbdp/o.leid;;158
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαρμοῦθι ι τοῦ ιη ἔτους ὀνόματος
+r.2    Φιλάμμονος Παμώνθου καὶ Πετεχώνσιος
+r.3    Πετεχώνσιος ὑπὲρ γεωμετρίας ιϛ ἔτους Ἀγορῶν δραχμὰς δεκατρεῖς διώβολον, γίνονται ιγ διώβολον. Ὧρος.
+
+[TRANSLATION]
+1     
+2     
+3     

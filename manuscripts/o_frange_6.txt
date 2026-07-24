@@ -1,0 +1,30 @@
+[META]
+id:       O.FRANGE 6
+label:    O.FRANGE 6
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Lettre — Voyage — Vêtements — Textiles — Archives de Frangé
+tm:       140895
+source:   https://papyri.info/ddbdp/o.frange;;6
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ⲣ ⲡⲛⲁ ⲛⲅϣⲗⲏⲗ ⲉϫⲱⲓ
+r.2    ⲙⲙⲟⲛ ⲁⲓϩⲓⲥⲉ ⲉⲓἀγωνίζεσθαι ⲉⲧⲙⲃⲱⲕ ⲙⲡⲟⲩⲕⲁⲁⲧ ⲉⲓϯ ⲡⲕⲟⲧ ⲉⲃⲟⲗ ⲉϣⲱⲡⲉ ϯⲟⲛϩ ϯⲛⲏⲩ ⲟⲛ πλήν ϩⲓⲧⲛ ⲛⲉⲕϣⲗⲏⲗ
+r.3    ⲙⲛ ⲛϣⲗⲏⲗ ⲛⲙⲙⲁⲓⲛⲟⲩⲧⲉ ⲁⲡⲁⲓⲥⲁⲁⲕ
+r.4    ⲙⲛ ⲁⲡⲁ ϩⲏⲗⲓⲁⲥ ⲡⲛⲟⲩⲧⲉ ⲛⲁⲣⲟⲉⲓⲥ ⲉⲣⲟⲉⲓ ϥⲓ ϯⲕⲁⲗⲏⲥ
+r.5    ⲉϩⲣⲁⲓ ⲉϩⲁϩⲧⲏⲕ ⲙⲛⲧⲥⲧⲁⲕⲟ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

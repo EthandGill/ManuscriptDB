@@ -1,0 +1,26 @@
+[META]
+id:       O.LEID 148
+label:    O.LEID 148
+name:     Receipt — Theben
+genre:    receipts
+date:     197 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (197 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24716
+source:   https://papyri.info/ddbdp/o.leid;;148
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παχὼν κη τοῦ ε ἔτους ὀνόματος Βησαρίωνος
+r.2    πρεσβυτέρου Ὥρου Διογένους ὑπὲρ τέλους
+r.3    ἀγορανομίας ε ἔτους δραχμὰς τεσσαράκοντα, γίνονται δραχμαὶ μ. σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

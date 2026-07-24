@@ -1,0 +1,22 @@
+[META]
+id:       O.BODL 2.2080r
+label:    O.BODL 2.2080r
+name:     Receipt — Theben
+genre:    receipts
+date:     601 CE – 800 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (601 CE – 800 CE)
+# hgv-keywords: Quittung — Steuer (diagraphon)
+tm:       72753
+source:   https://papyri.info/ddbdp/o.bodl;2;2080r
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ὑπὲρ διαγράφου δεκάτης ἰνδικτίονος
+
+[TRANSLATION]
+1     

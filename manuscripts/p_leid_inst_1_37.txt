@@ -1,0 +1,36 @@
+[META]
+id:       P.LEID.INST 1.37
+label:    P.LEID.INST 1.37
+name:     Receipt — Hermopolites (?)
+genre:    receipts
+date:     178 CE – 179 CE
+language: Greek (Koiné)
+found:    Hermopolites (?)
+held:     
+shelf:    
+content:  Receipt from Hermopolites (?) (178 CE – 179 CE)
+# hgv-keywords: Quittung — Zahlung — Pachtzins — Getreide
+tm:       18471
+source:   https://papyri.info/ddbdp/p.leid.inst;1;37
+lat:      
+lon:      
+
+[GREEK]
+r.1    [Ἰ]σίδωρος ὁ καὶ Ἀσκλη[π]ιάδης γεγυμνασιαρχηκὼς διὰ Αἰλιανοῦ Πάπῳ καὶ τοῖς ἀ[δ]ελφοῖς χαίρειν.
+r.2    [ἔ]σχον παρʼ ὑμῶν εἰς
+r.3    λόγον ἐκφορίων ἐπὶ
+r.4    λόγου πυροῦ ἀρτάβας
+r.5    ὀγδοήκοντα τέσ[σα]ρας, γίνονται πυροῦ ἀρτάβαι πδ, μὴ ἐλα[ττου]μένου μου περὶ τ[ῶν]
+r.6    [λ]οιπῶν η ὀφείλε[τε]
+r.7    [ἐ]κφορίων. ιθ ἔτους Αὐρ[ηλί][ων Ἀν]τωνίνου καὶ Κο[μμό][δου τῶν] κυρίων Αὐτ[ο][κρατόρων ] …
+
+[TRANSLATION]
+# HGV-EN: (Translation: P. L. Bat. 25.37) Isidorus alias Asclepiades, ex-gymnasiarch, represented by Aelianus, greets Papus and his brothers. I have received from you on account of rents as partial payment eighty-four artabas of wheat = 84 art. of wheat, without prejudice to my claim on the other artabas of rents you owe me. In the 19th year of the Aurelii Antoninus and Commodus, the imperial lords, (month day).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

@@ -1,0 +1,36 @@
+[META]
+id:       BGU 1.218
+label:    BGU 1.218
+name:     Receipt — Herakleia (Arsinoites, Ägypten)
+genre:    receipts
+date:     196 CE – 197 CE
+language: Greek (Koiné)
+found:    Herakleia (Arsinoites, Ägypten)
+held:     
+shelf:    
+content:  Receipt from Herakleia (Arsinoites, Ägypten) (196 CE – 197 CE)
+# hgv-keywords: Quittung — Sitologen
+tm:       8980
+source:   https://papyri.info/ddbdp/bgu;1;218
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους ε Λουκίου Σεπτ[ιμίου Σεουήρου]
+r.2    Εὐσεβοῦς Περτίνακος [Σεβαστοῦ ] … [ παρὰ]
+r.3    Κάστορος Ἥρωνος καὶ μ[ετόχων][ σιτολόγων κώμης Ἡρακλείας.]
+r.4    μεμετρήμ[ε]θα ἐπὶ [τῆς ] …
+r.5    τοῦ αὐτοῦ μηνὸς εἰς [θησαυρὸν ἀπὸ γενημάτων]
+r.6    ἱερᾶς κληρουχίας τῆς αὐτ[ῆς κώμης πυροῦ ἀρτά]βας τρεῖς γίνονται πυροῦ ἀρτάβαι γ. Κάστ[ωρ Ἥρωνος μεμέτρημαι],
+r.7    καθὼς πρόκειται. …
+
+[TRANSLATION]
+# HGV-EN: Year 5 of Lucius Sept[imius Severus] Pius Pertinax [Augustus – – –. From] Kastor, son of Heron and associates, [sitologoi of the village of Herakleia.] We have had measured to us on [the same day] of the same month with respect to [NN – – –] for Hiera (Nesos) for the dues on cleruchs of the same [village] three artabas [of wheat] = 3 artabas of wheat. I, Kast[or, son of Heron, have had measured to me], as aforesaid.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

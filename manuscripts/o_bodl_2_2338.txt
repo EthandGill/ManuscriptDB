@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.2338
+label:    O.BODL 2.2338
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (201 CE – 300 CE)
+# hgv-keywords: Abrechnung
+tm:       72971
+source:   https://papyri.info/ddbdp/o.bodl;2;2338
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    κη ἄρακος 𐅵 Κοπρῆς
+r.2    γύνη Καλάφιος εκτο …
+r.3    κδ Κοπρῆς 𐅵
+r.4    λ Κοπρῆς 𐅵
+r.5    … Κοπρῆς 𐅵
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       P.KOELN 9.376
+label:    P.KOELN 9.376
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     104 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (104 CE)
+# hgv-keywords: Quittung — Steuer — Geld — Deich- — Bade- — Wächter-
+tm:       78433
+source:   https://papyri.info/ddbdp/p.koeln;9;376
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Παλεύϊς Παμβήκιος χωματικοῦ
+r.2    ζ ἔτους Τραιανοῦ τοῦ κυρίου
+r.3    δραχμὰς β πεντώβολον ἡμιωβέλιον, βαλανευτικοῦ διώβολον, φυλάκων ὁμοίως διώβολον.
+r.4    ἔτους η Θὼθ ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

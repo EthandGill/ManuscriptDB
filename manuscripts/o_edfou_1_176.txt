@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 1.176
+label:    O.EDFOU 1.176
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     159 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (159 CE)
+# hgv-keywords: Quittung — Geld
+tm:       74214
+source:   https://papyri.info/ddbdp/o.edfou;1;176
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    διέγραψεν Σενπετεσθεῦς Ἀχιλλᾶτος [Ῥούφου ] … [ κβ ἔτους]
+r.2    Ἀντωνίνου Καίσαρος τοῦ κ[υρίου Σεβαστοῦ δραχμὰς]
+r.3    δύο ἔτους κγ Τῦβι α
+
+[TRANSLATION]
+1     
+2     
+3     

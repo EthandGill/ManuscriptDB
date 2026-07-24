@@ -1,0 +1,36 @@
+[META]
+id:       PYLON 3.6_1
+label:    PYLON 3.6_1
+name:     Contract — Hermopolites
+genre:    contracts
+date:     501 CE – 700 CE
+language: Greek (Koiné)
+found:    Hermopolites
+held:     Berlin
+shelf:    
+content:  Contract from Hermopolites (501 CE – 700 CE)
+# hgv-keywords: Vertrag — Pacht — Minderung — Weizen
+tm:       986870
+source:   https://papyri.info/ddbdp/pylon;3;6_1
+lat:      
+lon:      
+
+[GREEK]
+r.1    ⲓⲱⲁⲛⲛⲏⲥ ⲡϣⲉ ⲕⲟⲗⲗⲟⲩⲑⲟⲩ ⲡⲣⲱⲙ ϣⲙⲟⲩⲛ
+r.2    ⲡⲉϥⲥϩⲁⲓ ⲛⲓ … ⲡϣⲉ ⲡⲉⲧⲣⲁ ϫⲉ κατά
+r.3    δύναμις ⲛ[ⲧ]ⲉⲕμίσθωσις ⲛⲧⲁⲕⲥϩⲁⲓⲥ ⲛⲁⲓ
+r.4    ϯκουφίζειν ⲛⲁⲕ ⲛⲟⲩⲣⲧⲟϥ ⲟⲩϭⲟⲥ ⲛⲥⲟⲩⲟ ⲙⲛ ⲛⲟⲩⲣⲧⲟϥ ⲟⲩϭⲟⲥ ⲛⲓⲱⲧ
+r.5    ϩⲁ ⲧⲥⲓⲧⲓⲓⲱϩⲉ ⲙⲫⲟⲓ ⲛϩⲓⲃⲱⲩ ⲛⲧⲓⲣⲟⲙⲡⲉ ⲛⲟⲩⲱⲧ ⲉⲧⲉ ⲡκαρπός ⲡⲉ
+r.6    ⲛⲧⲉ πέμπτος ⲡⲉ ἐπειδή ⲙⲡⲉⲕϫⲟⲥ ⲛⲧⲉⲣⲟⲙⲡⲉ ⲛⲧⲁⲕμισθοῦν ϩⲓⲱⲱⲥ κατά ⲡⲁⲟⲩⲱⲛ ⲛϣⲟⲙⲛⲧ Ἰωάννης Κολλούθου ἀναγνώστης ἀπὸ Ἑρμοῦ πόλεως στοιχεῖ μοι ἡ
+r.7    χεὶρ ὡς πρόκειται. Φαωφι ιϛ δ ἰνδικτίωνος.
+
+[TRANSLATION]
+# HGV-EN: ⳨ It is Ioannes, son of Colluthus, man of Shmoun, who writes to I-, son of Petra: In keeping with the force of your lease document which you drew up for me, I relieve you from one and a half artabs of wheat and one and a half artabs of barley for the aroura of the (irrigated) field of Hibou for this very year, which is the harvest of the fifth (indiction year), because you have not tilled it in this year for which you leased it, according to my third share. ⳨ Ioannes son of Colluthus, lector from Hermopolis, this deed suits me as stated above. 16th of Phaophi of the 4th indiction year.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

@@ -1,0 +1,32 @@
+[META]
+id:       O.ASHM.SHELT 9
+label:    O.ASHM.SHELT 9
+name:     Receipt — Theben
+genre:    receipts
+date:     52 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (52 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70561
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;9
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Ψενχῶνσις Ψανσνῶτος ὑπὲρ χωματικοῦ
+r.2    ιβ ἔτους δραχμὰς ἓξ τετρώβολον, γίνονται δραχμαὶ ϛ τετρώβολον καὶ βαλανευτικοῦ ὀβολοὺς δ 𐅵,
+r.3    γίνονται [δραχμαὶ] ζ ὀβολοὶ β 𐅵 καὶ τούτων προσδιαγραφόμενα.
+r.4    ἔτους ιγ Τιβερίου Κλαυδίου Καίσαρος
+r.5    Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+r.6    μηνὸς Νέου Σεβαστοῦ κβ. Βάσσος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

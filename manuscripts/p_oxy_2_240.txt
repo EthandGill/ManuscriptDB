@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 2.240
+label:    P.Oxy. 2.240
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     37 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (37 CE)
+# hgv-keywords: Erklärung — Eid — keine Schikane durch Soldaten
+tm:       20509
+source:   https://papyri.info/ddbdp/p.oxy;2;240
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … [ κω]μογραμματεὺς
+r.2    … τοου Ἐρήμου.
+r.3    [ὀμνύω Τιβέριον Κα]ίσαρα Νέον Σεβαστὸν Αὐτοκράτορα
+r.4    [θεοῦ Διὸς Ἐλευθε]ρ[ίου] Σεβαστοῦ υἱὸν ἦ μὴν
+r.5    [μὴ συνε]ιδέναι με μηδενὶ διασεσεισμέ[νωι ἐπὶ] τῶν προκειμένων κωμῶν ὑπὸ
+r.6    … ος στρατιώτου καὶ τῶν παρʼ αὐτοῦ.
+r.7    [εὐορκοῦ]ντι μέν μοι εὖ εἴη, ἐφιορκοῦντι δὲ
+r.8    [τὰ ἐναν]τία. ἔτους κγ Τιβερίου Καίσαρος Σεβαστοῦ,
+r.9    Μεχεὶρ ιζ.
+
+[TRANSLATION]
+# HGV-EN: I swear by Tiberius Caesar Novus Augustus Imperator, son of the deified Jupiter Liberator Augustus, that I know of no one in the village aforesaid from whom extortions have been made by the soldier ... or his agents. If I swear truly, may it be well with me, but if falsely, the reverse. The 23rd year of Tiberius Caesar Augustus, Mecheir 17.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

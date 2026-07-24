@@ -1,0 +1,30 @@
+[META]
+id:       SB 14.11314
+label:    SB 14.11314
+name:     Documentary papyrus — Herakleopolites
+genre:    documents
+date:     86 BCE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Documentary papyrus from Herakleopolites (86 BCE)
+# hgv-keywords: Anweisung — Zahlung — Geld
+tm:       4216
+source:   https://papyri.info/ddbdp/sb;14;11314
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    Ἀπολλώνιος Πρωτάρχῳ τραπεζίτῃ
+r.2    χαίρειν· χρημάτισον Δωρίωνι
+r.3    χαλκοῦ δισχιλίας ω
+r.4    γίνονται Βω.
+r.5    ἔτους λβ Θὼθ κγ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

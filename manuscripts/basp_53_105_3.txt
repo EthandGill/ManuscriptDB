@@ -1,0 +1,44 @@
+[META]
+id:       BASP 53.105_3
+label:    BASP 53.105_3
+name:     Contract — Schreibort: Philagris (Arsinoites); Fundort: Theadelpheia (Arsinoites)
+genre:    contracts
+date:     7 CE
+language: Greek (Koiné)
+found:    Schreibort: Philagris (Arsinoites); Fundort: Theadelpheia (Arsinoites)
+held:     Ann Arbor
+shelf:    
+content:  Contract from Schreibort: Philagris (Arsinoites); Fundort: Theadelpheia (Arsinoites) (7 CE)
+# hgv-keywords: Vertrag — Darlehen — Geld — Arbeit — Paramone — Tochter
+tm:       703272
+source:   https://papyri.info/ddbdp/basp;53;105_3
+lat:      29.27687
+lon:      30.607072
+
+[GREEK]
+r.1    ὁμολογῶ ἔχειν παρὰ Θέωνος Πετ[ερμούθιος ἐλαιουργοῦ τοῦ ἐν Φιλ]αγρίδει Λιβίας καὶ Γερμανικοῦ Καίσ[αρος οὐσίας ἐλαιουργίου]
+r.2    ἀργυρίου ἐπισήμου κεφα[λ]αί[ο]υ δραχμ[ὰς] …
+r.3    … ἀντὶ τούτω[ν] καὶ δεόντων καὶ εἱμ[ατισμοῦ παρέξομεν τὴν]
+r.4    [θυγατ]έρα μ[ο]υ Ταα[υν]ῆν παρ[αμένουσαν τῷ Θέωνι ἐφ’]
+r.5    [ἔ]τη δύο ἀπὸ μηνὸς Ἁθὺρ τοῦ ἐνεστῶτ[ος ἑβδόμου καὶ τριακοστοῦ]
+r.6    ἔτους Καίσαρος παρεμβάλλουσαν [ἐπὶ τοῦ δηλουμένου] [ἐλαιουρ]γίῳ ἅμα δὲ καὶ διατρίβουσα[ν] καὶ π[οιοῦσαν πάντα τὰ ἐπιτασ]
+r.7    [σόμεν]α οὐ γινομένην ἀπόκο[ι]τον [οὐδ’ ἀφήμερον ἀλλὰ καὶ]
+r.8    [συνακολ]ουθοῦσαν αὐτῷ παν[ταχῇ κατὰ τὸν νομὸν ]
+r.9    … αλ …
+r.10   μετὰ τὸν χρόνον …
+r.11   να τὸν προκείμενον …
+
+[TRANSLATION]
+# HGV-EN: In the thirty-seventh year [of the dominion of Caesar,] son of a god, on the [seventeenth] of the month of Apellaios, [seven]teenth of Phaophi, in Philagris of the Themistos [meris of the Arsinoite] nome. Harthotes, son of Marres [ … ] Persian of the epigone, acknowledges to Theon, [son of Petermouthis, oilmaker of the [oil mill on the estate] of Livia and Germanicus [Caesar] in Philagris. Year 37 of Caesar, Phaophi [17, in Philagris. Registered through NN.] I, Harthotes son of Marres, Persian of the [epigone … ] acknowledge that I have received from Theon, son of Petermouthis, [oilmaker of the oil mill on the estate] of Livia and Germanicus Caesar in Philagris, [ … ] drachmas of minted silver as a capital sum [ … ] that in return for these, and for necessities and clothing, [I shall provide my daughter Tahaunes] to remain [with Theon for] two years from the month of Hathyr of the current [thirty-seventh] year of Caesar, feeding olives [at the indicated oil mill,] as well as staying and [doing everything ordered,] not being absent by night [or by day, but following him everywhere throughout the nome (?) … ] After the period (of the contract) [ … ] the aforementioned [ … ]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

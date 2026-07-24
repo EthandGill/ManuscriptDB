@@ -1,0 +1,54 @@
+[META]
+id:       P.Oxy. 12.1458
+label:    P.Oxy. 12.1458
+name:     Documentary papyrus — Athribites
+genre:    documents
+date:     216 CE – 217 CE
+language: Greek (Koiné)
+found:    Athribites
+held:     
+shelf:    
+content:  Documentary papyrus from Athribites (216 CE – 217 CE)
+# hgv-keywords: Registrierung von Schafen und Ziegen
+tm:       21859
+source:   https://papyri.info/ddbdp/p.oxy;12;1458
+lat:      30.5087064869
+lon:      31.2174901006
+
+[GREEK]
+r.1    Αὐρηλίωι Ἀ … νι βασιλικῷ γραμματεῖ Ἀθριβίτου
+r.2    Αὐρήλιος Αἰλ[ου]ρίων ἔναρχος κ[οσ]μητὴς βουλευτὴς τῆς
+r.3    Ἀθριβιτῶν πόλεως, πρὶν δ[ὲ]
+r.4    τυχεῖν τῆς Ῥωμαίων πολιτείας Αἰλουρίων Ζωίλου Νε[ο]κόσμι[ος] ὁ καὶ Ἀλθαιεύς. ἀπ[ε]γραψάμην τῷ διεληλυθότι κδ ἔτει ἐ[πὶ]
+r.5    τῆς μητροπόλεως πρ[όβατα][ ξ,]
+r.6    [ἄ]ρρενα ζ, θηλυκὰ γ … [,]
+r.7    [αἶ]γα α, ὑποτί[τ]θια β … [,]
+r.8    κα ἔτει πρόβατα ιθ, αἶγα α,
+r.9    γίνονται πρόβατα ἑβδομήκοντ[α]
+r.10   ἐννέα , αἶγες δύο ,
+r.11   ὧν πρόβατα ἄρρενα ιϛ, θηλυκὰ ϛ[γ,]
+r.12   αἶγες β. ἐξ ὧν
+r.13   διεφθάρη πρόβατα ἄρ[ρ]ενα … [,]
+r.14   [θη]λυκὰ ια, …
+r.15   Ἁρθῶνις, Δημητροῦς, Κεφαλοῦς
+r.16   [Ὀξυρύ]γχων πόλ ἐκ τοῦ Νεικάν[ κλήρ]ου
+
+[TRANSLATION]
+# HGV-EN: To Aurelius ..., basilicogrammateus of the Athribite nome, from Aurelius Aelurion, cosmetes in office and senator of Athribis, before he received Roman citizenship called Aelurion son of Zoïlus, of the Neocosmian tribe and Althaean deme. I registered in the past 24th year at the metropolis 60 sheep, 7 male, 3[.] female, 1 goat, 2[.] lambs, in the 21st year 19 sheep, 1 goat, total 79 sheep, 2 goats, of which 16 are male, 63 female, 2 goats. Out of these there have perished .. male, 11 female ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

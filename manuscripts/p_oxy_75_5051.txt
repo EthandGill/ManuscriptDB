@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 75.5051
+label:    P.Oxy. 75.5051
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     81 CE – 100 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (81 CE – 100 CE)
+# hgv-keywords: Schreiben (amtlich) — Chairemon an den Agoranomos — Auftrag zur Registrierung eines Vertrags (Kauf einer Sklavin)
+tm:       128892
+source:   https://papyri.info/ddbdp/p.oxy;75;5051
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Χαιρήμων τῷ ἀγορ[ανόμῳ]
+r.2    χαίρειν· κατάγραψον ὠνὴν
+r.3    Ἁρθοώνει τῷ καὶ Θέωνι Ἡρακ … τοῦ Ἁρθοώνιος
+r.4    τῶν ἀπ’ Ὀξυρύγχων πόλεως
+r.5    τῆς ὑπαρχούσης Σεραποῦτι
+r.6    Ζωίλου τοῦ Θέωνος δούλης Πλουσίας τῆς καὶ Καλῆς
+r.7    Φάσεως ὡς ἐτῶν κγ ἧς
+r.8    ἐπρίατο παρὰ τοῦ ὑπ’ αὐτῆς
+r.9    συνεσταμένου Σφίνιος
+r.10   τοῦ ῾Αρσιήσιος τοῦ Σφίνιος
+r.11   τῶν ἀπὸ τῆς αὐτῆς πόλεως
+r.12   ἱερέως Θοήριδος καὶ Ἴσιδος καὶ
+r.13   Σαράπιδος καὶ τῶν συννάων θεῶν μεγίστων
+r.14   χαλκοῦ ταλάντων ι πεντακισχιλίων
+
+[TRANSLATION]
+# HGV-EN: Chaeremon to the agoranomus, greetings. Register the sale to Harthoonis alias Theon, son of Herac— son of Harthoonis, from the city of Oxyrhynchus, of the slave Plousia alias Kalē Phasis, about 23 years of age, who belongs to Serapous, daughter of Zoilus son of Theon, (and) whom he bought from her representative Sphinis, son of Harsiesis son of Sphinis, from the same city, priest of Thoeris and Isis and Sarapis and the others who share their temple, most great gods, for 10 talents 5,000 drachmas in bronze. (M. Buchholz)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

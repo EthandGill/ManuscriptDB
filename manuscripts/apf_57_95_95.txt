@@ -1,0 +1,26 @@
+[META]
+id:       APF 57.95_95
+label:    APF 57.95_95
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     Cairo
+shelf:    
+content:  Receipt from Apollonopolis (601 CE – 700 CE)
+# hgv-keywords: Quittung (?) — Zahlung — Geld
+tm:       131697
+source:   https://papyri.info/ddbdp/apf;57;95_95
+lat:      24.9778875
+lon:      32.872446
+
+[GREEK]
+r.1    Κόλλουθος Βασιλείου διὰ Ἰσακ
+r.2    εξ … χρυσοῦ νοµίσµατος γ ιβ τρίτον δωδέκατον
+r.3    … ἰνδικτίωνος β Απαι … στοιχεῖ …
+
+[TRANSLATION]
+1     
+2     
+3     

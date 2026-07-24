@@ -1,0 +1,62 @@
+[META]
+id:       CPR 1.32
+label:    CPR 1.32
+name:     Contract — Soknopaiu Nesos (Arsinoites)
+genre:    contracts
+date:     218 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Soknopaiu Nesos (Arsinoites) (218 CE)
+# hgv-keywords: Vertrag — Pacht — Land
+tm:       9861
+source:   https://papyri.info/ddbdp/cpr;1;32
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    Αὐρηλίῳ Κασίῳ τῷ καὶ Διονυσίῳ
+r.2    βασιλικῷ γραμματει Ἀρσινοίτου Ἡρακλείδου μερίδος
+r.3    παρὰ Αὐρηλίων Τεβᾶς Τεβᾶτος
+r.4    καὶ Παειήους Καλαῆτος τῶν
+r.5    δύο ἀπὸ κώμης Σοκνοπαίου Νήσου.
+r.6    βουλόμεθα μισθώσασθαι ἐξ ἀλληλλεγγύης ἀπὸ καλυφῆς αἰγιαλοῦ
+r.7    ἀρούρας ἓξ περὶ τὴν προκιμένην
+r.8    κώμην πρὸς μόνον τὸ ἐνεστὸς
+r.9    β ἔτος ὧν γείτονες νότου χέρσος
+r.10   βορρᾶ αἰγιαλὸς ἐφυδωρ, ἀπηλιώτου αἰγιαλοῦ ἐδάφη, λιβὸς αἰγιαλοῦ ἐδάφη,
+r.11   ἐκφορίου κατʼ ἄρουραν πυροῦ ἀρταβῶν δύο ὧν καὶ τὴν ἀπόδοσιν
+r.12   ποιώμεθα, οὐδὲν δὲ ἕτερον
+r.13   πραχθησόμεθα χωρὶς τῶν
+r.14   προκειμένων ἐκφορίων.
+r.15   Αὐρήλιοι Τεβᾶς ἔτων νβ οὐλὴ
+r.16   ἀντικνημίῳ δεξιῷ καὶ
+r.17   Παειούεις ὡς ἐτῶν λ οὐλὴ δακτύλῳ μικρῷ ἀριστερᾶς.
+r.18   ἔτους β Αὐτοκράτορος Καίσαρος Μάρκου
+r.19   Αὐρηλίου Ἀντωνίνου Εὐσεβοῦς
+r.20   Εὐτυχοῦς Σεβαστοῦ Ἁθὺρ ιζ
+
+[TRANSLATION]
+# HGV-EN: To Aurelius Kasios, also known as Dionysios, royal secretary of the Arsinoite nome, district of Herakleides, from Aurelius Tebas, son of Tebas, and Aurelius Paies, son of Kalaes, both of the village of Soknopaiou Nesos. We wish, under mutual guarantee, to lease six arouras of the submersible land on the shore near the aforementioned village, just for the current, second, year, (this being bordered by: to the south, unproductive land; to the north, shore-land under water; on the east, fields on the shore; on the west, fields on the shore the rent being two artabas of wheat per aroura, payment of which we shall also make. We shall be subject to no other fees, except the aforementioned rents. Aurelius Tebas, 52 years old, with a scar on his right shin, and Aurelius Paies, about 30 years old, with a scar on his left little finger. Year 2 of Imperator Caesar Marcus Aurelius Antoninus Pius Felix Augustus, Hathyr 17.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

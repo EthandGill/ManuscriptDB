@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 2.895
+label:    O.STRAS 2.895
+name:     Receipt — Theben (Agorai)
+genre:    receipts
+date:     198 CE
+language: Greek (Koiné)
+found:    Theben (Agorai)
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (Agorai) (198 CE)
+# hgv-keywords: Quittung — Steuer (Kranzsteuer, στεφανικὸν χρῆμα)
+tm:       75053
+source:   https://papyri.info/ddbdp/o.stras;2;895
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Θὼθ ιγ τοῦ ζ ὀνόματος
+r.2    Ὥρου Χαβονχώνσιος
+r.3    ὑπὲρ στεφανικοῦ χρήματος ϛ Ἀγορῶν
+r.4    δραχμὰς τέσσαρας, γίνονται δραχμαὶ δ. … .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

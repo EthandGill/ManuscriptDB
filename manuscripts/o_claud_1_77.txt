@@ -1,0 +1,24 @@
+[META]
+id:       O.CLAUD 1.77
+label:    O.CLAUD 1.77
+name:     Documentary papyrus — Mons Claudianus
+genre:    documents
+date:     98 CE – 117 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Mons Claudianus (98 CE – 117 CE)
+# hgv-keywords: Passierschein
+tm:       24089
+source:   https://papyri.info/ddbdp/o.claud;1;77
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    [Ἰούλιος Κέ]λσος ἑκατοντάρχης ἐπιτ[η][ρηταῖς ὁδοῦ Ἀ]κανθίου χ[αίρειν. ] …
+r.2    … ες …
+
+[TRANSLATION]
+1     
+2     

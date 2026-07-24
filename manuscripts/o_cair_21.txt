@@ -1,0 +1,30 @@
+[META]
+id:       O.CAIR 21
+label:    O.CAIR 21
+name:     Receipt — Pathyris
+genre:    receipts
+date:     90 BCE
+language: Greek (Koiné)
+found:    Pathyris
+held:     
+shelf:    
+content:  Receipt from Pathyris (90 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       73370
+source:   https://papyri.info/ddbdp/o.cair;;21
+lat:      25.369659
+lon:      32.473946
+
+[GREEK]
+r.1    ἔτους κδ Τῦβι κα.
+r.2    τέτακται ἐπὶ τὴν ἐν Παθύρει τράπεζαν
+r.3    ἐφʼ ἧς [Ἰσίδωρος] γ περιστερεώνων Νεφ …
+r.4    Πετεαρσενθέως χαλκοῦ …
+r.5    Ἰσίδωρος …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

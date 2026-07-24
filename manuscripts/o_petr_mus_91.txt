@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 91
+label:    O.PETR.MUS 91
+name:     Receipt — Theben
+genre:    receipts
+date:     160 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (160 BCE)
+# hgv-keywords: Quittung — Speicher — Getreide
+tm:       75315
+source:   https://papyri.info/ddbdp/o.petr.mus;;91
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κα Μ[εσορὴ] … [μεμέτρηκεν]
+r.2    εἰς τὸν ἐν Διὸς π[όλει][ τῆι μεγάληι θησαυρὸν]
+r.3    ὑπὲρ τοῦ τό[που κα ἔτους]
+r.4    Πλάτων Σαμ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

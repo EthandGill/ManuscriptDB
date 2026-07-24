@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.63
+label:    O.STRAS 1.63
+name:     Receipt — Theben
+genre:    receipts
+date:     36 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (36 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75663
+source:   https://papyri.info/ddbdp/o.stras;1;63
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Τασῆμις … [ ὑπὲρ]
+r.2    φοινικῶνος κβ ἔτους η λβ δραχμὰς γ …
+r.3    κβ ἔτους ξ δ διώβολον. καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου. [ἔτους κγ Τιβερίου]
+r.4    Καίσαρος Σεβαστοῦ Σεβαστοῦ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

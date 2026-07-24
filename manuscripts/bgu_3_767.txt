@@ -1,0 +1,32 @@
+[META]
+id:       BGU 3.767
+label:    BGU 3.767
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (120 CE)
+# hgv-keywords: Quittung — Torzoll
+tm:       9338
+source:   https://papyri.info/ddbdp/bgu;3;767
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Σοκνοπαίου Νήσου
+r.2    ἑκατοστὸν καὶ πεντηκοστὸν Νεφερὼς ἐξάγων
+r.3    ἐπὶ ὄνῳ ἑνὶ φοίνικος
+r.4    ἀρτάβας δύο
+r.5    ἔτους δ Φαμενὼθ ιδ
+
+[TRANSLATION]
+# HGV-EN: Paid for the 1 and 2 per cent (for the passage) through the gate of Soknopaiou Nesos by Nepheros, exporting on one donkey two artabas of dates. Year 4, Phamenoth 14.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

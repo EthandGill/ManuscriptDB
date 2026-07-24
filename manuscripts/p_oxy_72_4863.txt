@@ -1,0 +1,36 @@
+[META]
+id:       P.Oxy. 72.4863
+label:    P.Oxy. 72.4863
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     122 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (122 CE)
+# hgv-keywords: Auftrag an den Sitologen von Ophis (?) (diastolikon) — Giro - Überweisung von Weizen
+tm:       114243
+source:   https://papyri.info/ddbdp/p.oxy;72;4863
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Κλαύδιος Μουνατιανὸς [σιτολόγωι] [Ὤφεως] [τόπων χαίρειν.]
+r.2    διάστειλον ἀφʼ οὗ ἔχεις [μου θέματος πυροῦ γενήματος]
+r.3    τοῦ διελθόντος ϛ Ἁδρ[ιανοῦ Καίσαρος τοῦ κυρίου]
+r.4    Διδύμῳ Πτολεμαίου τοῦ [Πτολεμαίου μητρὸς Πρίμας]
+r.5    ἀρτάβας ἑπτακοσίας, [γίνονται ἀρτάβαι ψ. ἔτους ζ]
+r.6    Αὐτοκράτορος Καίσαρος Τρα[ϊανοῦ Ἁδριανοῦ Σεβαστοῦ,]
+r.7    Θὼθ κθ. Λεοντᾶς τοῦ π[ρογεγραμμένου Κλαυδίου Μου]νατιανοῦ ἐπίτροπος σεσημεί[ωμαι τὰς προκειμένας] [ἑπτα]κοσία[ς], γίνονται ἀρτάβαι ψ. χρόνος ὁ αὐτός.
+
+[TRANSLATION]
+# HGV-EN: Claudius Munatianus to the sitologus of the district of Ophis(?), greetings. Transfer, from the amount you hold on deposit for me, from the wheat-crop of the past 6th year of Hadrianus Caesar the lord, to Didymus son of Ptolemaeus, grandson of Ptolemaeus, mother Prima, seven hundred artabas, total 700 art. Year 7 of Imperator Caesar Traianus Hadrianus Augustus, Thoth 29. (2nd hand) I, Leontas, overseer of the aforesaid Claudius Munatianus, have countersigned the aforementioned seven hundred, total 700 art. The same date. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

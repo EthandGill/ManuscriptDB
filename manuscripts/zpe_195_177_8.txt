@@ -1,0 +1,30 @@
+[META]
+id:       ZPE 195.177_8
+label:    ZPE 195.177_8
+name:     Receipt — Elephantine
+genre:    receipts
+date:     183 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (183 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Geld
+tm:       400198
+source:   https://papyri.info/ddbdp/zpe;195;177_8
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [ἔτους κε Μάρκου] Αὐρηλίου Κομμόδου
+r.2    [Ἀντωνί]νου Σεβαστοῦ Φαώφι η.
+r.3    [διέγραψεν] [Π]αχνοῦβις καὶ Παχνοῦβις νεώτερος
+r.4    [ὑπὲρ] [μερι]σμοῦ ἀνδρῶν ἀνακεχωρηκότων λημμάτων κδ ἔτους ἐκ δραχμῶν β τετρωβόλου ἡμιωβελίου, διὰ Σερ[ήνου]
+r.5    [β]οηθοῦ, δι’ ἐμοῦ Διονυσοδώρου ἐγράφη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

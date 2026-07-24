@@ -1,0 +1,24 @@
+[META]
+id:       O.CAIR 13
+label:    O.CAIR 13
+name:     Receipt — Pathyris
+genre:    receipts
+date:     180 BCE
+language: Greek (Koiné)
+found:    Pathyris
+held:     
+shelf:    
+content:  Receipt from Pathyris (180 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       4579
+source:   https://papyri.info/ddbdp/o.cair;;13
+lat:      25.369659
+lon:      32.473946
+
+[GREEK]
+r.1    ἔτους α Μεσορὴ κη. τέτακται ζυτηρᾶς τέλους Πατοῦς
+r.2    ὃς καὶ Πεταῦρις τοῦ Ὀνο τάλαντα ε Δ.
+
+[TRANSLATION]
+1     
+2     

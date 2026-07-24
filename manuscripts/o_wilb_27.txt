@@ -1,0 +1,28 @@
+[META]
+id:       O.WILB 27
+label:    O.WILB 27
+name:     Receipt — Elephantine
+genre:    receipts
+date:     146 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (146 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76539
+source:   https://papyri.info/ddbdp/o.wilb;;27
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σωτὴρ καὶ Πα[πρεμίθης πράκτορες]
+r.2    ἀργυρικῶν Ἐλεφα[ντίνης][. διέγραψεν]
+r.3    Καλασῖρις Φαν … [ μη]τρὸς Θιψενσνῶ[τος μερισ]μὸν θ ἔτους Ἀντωνίν[ου τοῦ]
+r.4    κυρίου δραχμὰς δ, Τῦβι κ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

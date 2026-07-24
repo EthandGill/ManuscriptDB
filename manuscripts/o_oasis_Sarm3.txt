@@ -1,0 +1,32 @@
+[META]
+id:       O.OASIS Sarm3
+label:    O.OASIS Sarm3
+name:     Receipt — Oasis Parva
+genre:    receipts
+date:     413 CE
+language: Greek (Koiné)
+found:    Oasis Parva
+held:     
+shelf:    
+content:  Receipt from Oasis Parva (413 CE)
+# hgv-keywords: Quittung — Eier
+tm:       23812
+source:   https://papyri.info/ddbdp/o.oasis;;Sarm3
+lat:      28.373334
+lon:      28.8971005
+
+[GREEK]
+r.1    Σαρμάτῃ ἰδίῳ γεούχῳ Ἰσὰκ
+r.2    Φιλήας γεωργὸς χαίρειν.
+r.3    ἔσχον παρὰ σοῦ ᾠὰ δ
+r.4    τέσσαρες
+r.5    ἔτους πθ Φαρμοῦθι
+r.6    ιη
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

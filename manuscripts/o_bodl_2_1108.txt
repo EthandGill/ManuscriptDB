@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1108
+label:    O.BODL 2.1108
+name:     Receipt — Theben
+genre:    receipts
+date:     220 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (220 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71795
+source:   https://papyri.info/ddbdp/o.bodl;2;1108
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θὼθ ιβ τοῦ δ ἔτους ὑπὲρ
+r.2    λημμάτων γ ἔτους ὀνόματος Πανεπᾶτος Ἰμούθου
+r.3    ὑπὲρ στεφανικοῦ χρήματος δραχμὴν μίαν
+r.4    ὀβολοὺς πέντε γίνεται δραχμὴ α πεντώβολον. Αὐρήλιος Κρο σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

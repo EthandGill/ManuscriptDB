@@ -1,0 +1,56 @@
+[META]
+id:       P.RYL 2.104
+label:    P.RYL 2.104
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     167 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (167 CE)
+# hgv-keywords: Musterung von Jungen
+tm:       12900
+source:   https://papyri.info/ddbdp/p.ryl;2;104
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    [π]αρὰ Ἥρωνος Σαρ … μητρὸς
+r.2    [Τ]ασ[ου]χαρί[ο]υ τῆς … ε … ου [ἀ]π[ὸ] τῆς μη[τρο]π[όλε]ως ἀναγραφομένου ἐπʼ [ἀμφόδου] Λιν[υ]φε[ίων.]
+r.3    [τ]οῦ ὁμοπατρίου κ[α]ὶ ὁ[μ]ο[μητρίο]υ [μο]υ ἀδ[ελ]φοῦ
+r.4    [Ἡ]ρακλείδου προ[σ]βάντο[ς εἰς τρισκαιδεκαετεῖς τ]ῷ ἐνεστῶ[τι] ζ ἔτει Ἀντωνείνου καὶ Οὐήρου [τ]ῶ[ν κ]υρίων
+r.5    [Σ]εβαστῶν καὶ ὀφ[εί]λοντος ἐπικρι[θῆναι] ὑπέταξα
+r.6    τὰ ἀμφοτέρων ἡμῶν δίκαια. οἱ μὲν οὖν γονεῖς
+r.7    [ἡ]μῶν [ἀ]πεγράψαντο ταῖς κατὰ καιρὸν κατʼ οἰκίαν
+r.8    [ἀ]πογραφαῖς μέχρι τῆς τοῦ κγ ἔτους θεοῦ Αἰλ[ί]ου [Ἀν]τω[ν]είνου
+r.9    κατʼ οἰκίαν ἀπ[ο]γραφῆς ἐπὶ τοῦ προκειμένου ἀμφόδου Λ[ι]νυ[φ]είων, συναπογραψάμενοι ἐν μὲν τῇ τ[ο]ῦ
+r.10   [ʼθ] ἔτους θεοῦ [Αἰ]λίου Ἀντωνείνου ἀπογραφῇ ἐμὲ τ[ὸ]ν
+r.11   [Ἥ]ρωνα, ἐν δὲ τῇ τοῦ κγ ἔτους κ[αὶ] τὸν ἐπι[κ]ρινόμεν[ό]ν μου ἀδελφὸν Ἡρακλείδην. διὸ
+r.12   [ἐ]πιδίδομ[εν. Ἥ]ρων ἐπι[δέ]δωκα.
+r.13   ἔτους ζ [Αὐτοκ]ράτορος Καίσαρος Μάρκου Αὐρηλίου
+r.14   [Ἀντ]ωνείν[ου Σ]εβαστοῦ Ἀρμενιακοῦ [Μηδι]κοῦ
+r.15   [Παρ]θικοῦ Μ[εγ]ίστου καὶ Αὐτοκράτορος Καίσαρος Λ[ο]υκίου
+r.16   [Αὐρηλί]ου [Οὐή]ρου Σεβαστοῦ Ἀρμενιακοῦ Μ[η]δικοῦ
+r.17   [Παρθι]κοῦ [Μεγ]ίστοῦ, Ἐπεὶφ κϛ.
+
+[TRANSLATION]
+# HGV-EN: ‘From Heron son of Sar …, his mother being Tasoucharion daughter of …, of the metropolis, registered in the Linen-factories’ quarter. Whereas Heraclides my brother on both father’s and mother’s side has reached in the present 7th year of Antoninus and Verus the lords Augusti the age of 13 and ought to be selected, I append the claims of both of us. Our parents were returned in the successive household censuses up to the census of the 23rd year of the deified Aelius Antoninus in the aforesaid Linen-factories’ quarter, returning along with themselves in the census of the 9th year of the deified Aelius Antoninus myself, Heron, and in the census of the 33rd year my brother Heraclides also who is now a candidate for selection ; accordingly we present this petition.’ Signature of Heron and date.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

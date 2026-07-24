@@ -1,0 +1,40 @@
+[META]
+id:       BGU 1.270
+label:    BGU 1.270
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     192 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (192 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       9019
+source:   https://papyri.info/ddbdp/bgu;1;270
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἔτους λγ Λουκίου
+r.2    Αἰλίου Αὐρηλίου Κομμόδου
+r.3    Καίσαρος τοῦ κυρίου Τυβι γ.
+r.4    διέγραψε Σ … καὶ μετόχοις πράκτορσι Σαταβοῦς
+r.5    Πακύσεως καὶ Στοτοῆτις
+r.6    Ὀννώφρεως ἡγούμενοι κώμης
+r.7    Σοκνοπαίου Νήσου τὸ τέλος ὑπὲρ λα ἔτους ἀργυρίου δραχμὰς
+r.8    τετρακοσίας γίνονται δραχμαὶ υ
+r.9    πλήρης
+
+[TRANSLATION]
+# HGV-EN: Year 33 of Lucius Aelius Aurelius Commodus Caesar, the lord, Tybi 3. Paid to S and his associates, tax collectors, (by) Satabous, son of Pakysis, and Stotoetis, son of Onnophris, principal of the village of Soknopaiou Nesos, for the tax of year 31 four hundred silver drachmas, = 400 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

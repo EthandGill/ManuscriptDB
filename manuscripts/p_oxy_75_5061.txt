@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 75.5061
+label:    P.Oxy. 75.5061
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     278 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (278 CE)
+# hgv-keywords: Quittung — Aurelius Heras gegenüber Theon (?) (γεοῦχος) — Empfang von Weizen (Saatgetreide?)
+tm:       128902
+source:   https://papyri.info/ddbdp/p.oxy;75;5061
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Αὐρήλιος Ἡρᾶς Παπιντῶτος
+r.2    Θεων … ς γεούχῳ χαίρειν·
+r.3    ὁμολογῶ ἐσχηκέναι παρὰ σοῦ
+r.4    πυροῦ γενήματος τοῦ διελθόντος ἔτους μέτρῳ δεκάτῳ ἀρτάβας
+r.5    ἕξ, γίνονται πυροῦ ἀρτάβαι ἕξ,
+r.6    ἀρτάβαι ϛ. ἔτους β τοῦ κυρίου ἡμῶν
+r.7    Αὐρηλίου Πρόβου Σεβαστοῦ,
+r.8    Ἁθὺρ α. Αὐρήλιος Σιλβανὸς ἔγραψα ὑπὲρ αὐτοῦ μὴ εἰδότος γράμματα.
+
+[TRANSLATION]
+# HGV-EN: Aurelius Heras son of Papintos, to Theo—, landowner, greetings. I acknowledge to have received from you from the harvest of the past year six artabas of wheat by the tenth measure, total six artabas of wheat, art. 6. Year 2 of our lord Aurelius Probus Augustus, Hathyr 1. I, Aurelius Silvanus, wrote for him who does not know letters. (O. Pelcer)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

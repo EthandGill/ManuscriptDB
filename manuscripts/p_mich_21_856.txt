@@ -1,0 +1,32 @@
+[META]
+id:       P.Mich. 21.856
+label:    P.Mich. 21.856
+name:     Letter — Fundort: Karanis (Arsinoites) - 1930
+genre:    letters
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Fundort: Karanis (Arsinoites) - 1930
+held:     Ann Arbor
+shelf:    
+content:  Letter from Fundort: Karanis (Arsinoites) - 1930 (101 CE – 300 CE)
+# hgv-keywords: Brief (privat) — Sempronius an Sabinus — Mantel
+tm:       756887
+source:   https://papyri.info/ddbdp/p.mich;21;856
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Σεμπρών[ιος] …
+r.2    Σαβίνῳ τῷ …
+r.3    χαίρει[ν.] …
+r.4    [γι]νώσκ[ειν σε θέλω ὅτι] …
+r.5    [ἱμ]άτιον …
+
+[TRANSLATION]
+# HGV-EN: Sempronius ... to Sabinus ... greetings. I want you to know that ... garment ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

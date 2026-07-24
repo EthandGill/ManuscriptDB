@@ -1,0 +1,26 @@
+[META]
+id:       O.MICH 2.800
+label:    O.MICH 2.800
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (1 CE – 100 CE)
+# hgv-keywords: Quittung — Bier
+tm:       42678
+source:   https://papyri.info/ddbdp/o.mich;2;800
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Διόνυσος Ἀθηνίωνος
+r.2    Ἐπεὶφ … ζύτου λάκκους γ,
+r.3    γίνονται γ.
+
+[TRANSLATION]
+1     
+2     
+3     

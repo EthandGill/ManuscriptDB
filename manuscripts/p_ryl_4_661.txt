@@ -1,0 +1,56 @@
+[META]
+id:       P.RYL 4.661
+label:    P.RYL 4.661
+name:     Documentary papyrus — Hermopolis
+genre:    documents
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Documentary papyrus from Hermopolis (401 CE – 500 CE)
+# hgv-keywords: Darlegung von Ansprüchen auf Land (?)
+tm:       35075
+source:   https://papyri.info/ddbdp/p.ryl;4;661
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    κυρίῳ μου ἀδελφ[ῷ]
+r.2    Φοιβάμμωνι
+r.3    Νεωτερὶς χαίρειν·
+r.4    ἐπειδὴ ἐποιησετ …
+r.5    … ε … α … λειν …
+r.6    ε … ἀμπελουργ …
+r.7    ἡμῶν ὑπὲρ το[ῦ]
+r.8    ἐμοῦ μέρους τα …
+r.9    διὰ τοῦτο ἐξέδω[κά]
+r.10   σοι ταύτην τὴν χεῖρα
+r.11   διὰ τὸ ὑπεδεξάμην
+r.12   ἅμα τῷ ἀδελφῷ
+r.13   ἐξ ἴσου· Αὐρηλία Νεωτερὶς ἡ προ[κε]ιμένη
+r.14   ἐξέδωκα τὴν χεῖρα·
+r.15   Αὐρήλιος Ἰωάννης ῥήτωρ
+r.16   βουλευτὴς Ἑρμοῦ πόλεως
+r.17   ἔγραψα ὑπὲρ αὐτῆς γράμματα μὴ εἰδυίης.
+
+[TRANSLATION]
+# HGV-EN: ‘Neoteris to my lord brother Phoebammon greeting. Since you have made …… in respect of my share … I have therefore executed this deed in your favour as I have received an equal share with my brother. I, Aurelia Neoteris the above-mentioned, have executed the deed. I, Aurelius John, advocate, councillor of Hermopolis, have written on her behalf as she is illiterate.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

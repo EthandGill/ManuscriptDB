@@ -1,0 +1,52 @@
+[META]
+id:       SB 5.7665
+label:    SB 5.7665
+name:     Contract — Arsinoites
+genre:    contracts
+date:     225 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Contract from Arsinoites (225 CE)
+# hgv-keywords: Vertrag — Pacht — Angebot (Land) — Dauer — Pachtzins — Namen — Signalement
+tm:       14033
+source:   https://papyri.info/ddbdp/sb;5;7665
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Αὐρηλίᾳ Φαβίᾳ ἀπάτορι, μητρὸς Τρυφᾶτος, ἀπὸ Βωναφίου
+r.2    παρὰ Αὐρηλίων Παπειρίου Ἀροῦτος, μητρὸς Ταορσενούφεως, ἀπὸ ἐποικίου Ἀβρόχου καὶ Πωλίωνος Ἑσπέρου
+r.3    ἀπὸ κώμης Βουβάστου καὶ Διονυσίου Σύρου, μητρὸς
+r.4    Διδύμης, ἀπὸ ἐ[π]οικίου Πεισαεὶ τῶν τριῶν. βο[υλό]μεθα
+r.5    μισθώσασθαι παρά σου ἐξ ἀλληλεγγύης τὰς ὑπαρχούσας σοι περὶ κώμην Ἡράκλειαν κλήρου κατοικικοῦ
+r.6    ἀρούρας ἓξ καὶ ἄλλην κλήρου κατοικικοῦ ἄρουραν α 𐅵εἰς ἔτη δύο ἀπὸ σπορᾶς τοῦ ἐνεστῶτος ε ἔτους, ἐκφορίου τοῦ παντὸς
+r.7    κατʼ ἔτος ἕκαστον πυροῦ ἀρταβῶν τεσ[σ]άρων περὶ ὧν
+r.8    καὶ ἐπιτελέσομεν τὰ κατʼ ἔτος ἔργα πάντα, ὅσα καθήκει, ἐ[κ] τοῦ ἰδίου τοῖς δέο[υ]σι καιροῖς βλάβος μηδὲν ποιοῦντες,
+r.9    [κα]ὶ τὸ κ[ατʼ ἔ]το[ς ἐκ]φόριον ἀποδώσομεν μηνὶ Παῦνι μέτρῳ δ[ρόμ]ῳ τετραχοινίκῳ τῶν δημοσίων πάντων ὄντων πρ[ὸς] σὲ τὴν κτήτορα, τῶν δὲ φολέτρων
+r.10   ὄντων πρὸς ἡμᾶς τοὺς μισθουμένους καὶ μετὰ χ[ρόνον]
+r.11   παραδώσομεν ἀπὸ συνκομιδῆς, ἐὰν φαίνηται μισθῶσαι.
+r.12   Αὐρηλία Φάβια ὡς ἐτῶν κϛ, οὐλὴ τραχήλῳ.
+r.13   ἔτους ε αὐτοκράτορος Καίσαρος Μάρκου Αὐρηλίου
+r.14   [Σ]εουήρ[ο]υ Ἀλεξάνδρου Εὐσεβοῦς Εὐτυχοῦς Σεβαστοῦ,
+r.15   Ἁθὺρ ιϛ.
+
+[TRANSLATION]
+# HGV-EN: To Aurelia Fabia, who has no father her mother being Tryphas, of Bonaphion from Aurelius Papirius son of Arus and Tarsenuphis of the epoikion Abrochon and Aurelius Polion son of Hesperus of the village [.]sebastus and Aurelius Dionysus, son of Syrus and Didyme, of the epoikion Pisae, the three. We wish to lease from you on mutual surety the six arurae of catoetic land you own near the village Heracleia and one other arura of catoetic land for the period of two years beginning with the sowing of the current fifth year. The annual rent of the whole will be four artabae of wheat for each arura, and we shall perform all the yearly necessary work at our own expense at the proper time without any damage and we shall pay the yearly rent in the month Payni with the tetrachoinic measure of the dromoi. All the public taxes are to be paid by you the owner, while the cost of carriage falls on us the lessees and after the time we shall give it back after the harvest, if you are willing to lease it. Aurelia Fabia old 26 years with a scar in her neck. The fifth year of the emperor Caesar Marcus Aurelius Severus Alexander Pius Felix Augustus the 16th Hathyr.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

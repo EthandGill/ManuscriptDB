@@ -1,0 +1,42 @@
+[META]
+id:       BASP 61.179_4
+label:    BASP 61.179_4
+name:     Contract — Theadelphia (Arsinoites, Ägypten)
+genre:    contracts
+date:     139 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites, Ägypten)
+held:     Manchester
+shelf:    
+content:  Contract from Theadelphia (Arsinoites, Ägypten) (139 CE)
+# hgv-keywords: Vertrag — Darlehen — Geld
+tm:       12991
+source:   https://papyri.info/ddbdp/basp;61;179_4
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ἔτους τρίτου Αὐτοκράτορος Καίσαρος Τίτου
+r.2    Αἰλίου Ἁδρια[νοῦ] Ἀ[ντωνίνου] [Σε]βαστοῦ Εὐσεβ[ο]ῦς
+r.3    Θῶθ μιᾷ καὶ εἰκάδι ἐν Θεα[δελ]φείᾳ τῆς Θεμ[ίστ]ου
+r.4    μερίδος τοῦ Ἀρσι[νο]ίτου νομοῦ. ὁμολογοῦσιν
+r.5    Διονύσιος Σωτηρίχου ὡ[ς] [ἐ]τ[ῶν] [ἑ]ξήκοντα [οὐ]λὴ
+r.6    δακτύλωι μικρῶι χειρὸς ἀριστερᾶς καὶ οἱ τούτου
+r.7    υἱοὶ Σωτήριχος ὡς ἐτῶν τριάκοντα οὐλὴ ἀντικνημίωι ἀριστερῶι καὶ Διόσκορος ὡς ἐτῶν εἴκοσι
+r.8    πέντε οὐλὴ ὀφρύι ἀριστερᾶι, οἱ τρεῖς Πέρσαι τῆς
+r.9    ἐπιγονῆς, ἀλλήλων ἔγγυοι εἰς ἔκτισιν Ἀφροδισίωι Φιλίππου Ἀντινοεῖ ὡς ἐτῶν τριάκοντα
+r.10   ἓξ οὐλὴ χεί[λ]ει [τῷ] κ[άτω] [ἐκ δεξιῶν] …
+
+[TRANSLATION]
+# HGV-EN: In the third year of the Emperor Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, on the twenty-first of Thoth, in Theadelphia of the Themistos division of the Arsinoite nome. Dionysios son of Soterichos, aged about sixty, with a scar on the little finger of his left hand, and his sons Soterichos, aged about thirty, with a scar on the left shin, and Dioskoros, aged about twenty-five, with a scar on the left eyebrow, the three of them Persians of the Epigone, mutual sureties for full repayment, acknowledge to Aphrodisios son of Philippos, Antinoite, aged about thirty-six, with a scar on [the right side] of his lower lip...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

@@ -1,0 +1,56 @@
+[META]
+id:       P.ABINN 48
+label:    P.ABINN 48
+name:     Petition — Hermopolis (Arsinoites)
+genre:    petitions
+date:     346 CE
+language: Greek (Koiné)
+found:    Hermopolis (Arsinoites)
+held:     
+shelf:    
+content:  Petition from Hermopolis (Arsinoites) (346 CE)
+# hgv-keywords: Eingabe — Aurelius Abul an Abinnaeus — Klage gegen Soldaten und Zivile — die ihm nachts die Schafe geschoren haben — Diebstahl von Ferkeln
+tm:       10038
+source:   https://papyri.info/ddbdp/p.abinn;;48
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Φλαουίῳ Ἀβινναίῳ ἐπάρχῳ εἴλης στρατιωτῶν κάστρων Δ[ι]ονυσιάδος τοῦ Ἀρσινοίτου
+r.2    νομοῦ παρὰ Αὐρηλίου Ἀβοῦλ Διονυσίου ἀπὸ κώμης Ἑρμοῦ [πόλε]ως τοῦ αὐτοῦ νομοῦ. ἐκέρθησάν μου π[ρό]βατα νυκτὸς τὸν ἀριθμὸν
+r.3    ἕνδεκα ὑπό τινων κακούργων, καὶ ἐμοῦ ἀναζητοῦντος τὴν τ[ῶ]ν προβάτων κουρὰ[ν] ἤκουσα
+r.4    Παῦλον τὸν σταρτιώτην τῶν ὑπὸ τὴν σὴν φροντίδα, καὶ ὑπέβαλεν τοὺς σὺν αὐτῷ κακοπραγμόνας Πέτρον υἱὸν Σαραπίωνος καὶ τὸν τούτου
+r.5    ἀδελφὸν Μέλαν στρατιώτην καὶ Ἀπίωνα υἱὸν
+r.6    Ὡρίωνος εἰρηνάρχου ἀπὸ τῆς αὐτῆς κώμης.
+r.7    διὰ αὐτὸ τοῦτ[ο] ἀ[ξι]ῶ καὶ δέομαί σου [τῆς] φιλανθρωπίας ὅ[π]ω[ς τούτο]υς συλλαβόμε[ν]ος [ἀ]ναγκάσῃς … βια … ὑπὸ τῶν κακοπραγμόνων
+r.8    τούτω[ν], εἶτα [τὰ] [γραφέ]ντα ὑπὸ ἐμοῦ εἰς γνῶσιν
+r.9    τοῦ κυρίο[υ μου δουκὸ]ς ἀνενέγκῃς· αὐτοῦ γ[ά]ρ ἐστιν
+r.10   [τοὺς] τὰ τοιαῦτ[α ][τολμῶ]ντας εκδικεῖν. καὶ τούτου τυχὼν
+r.11   χάρ[ι]τά [σ]οι ὁ[μο]λογήσω, κύριε. διευτύχει.
+r.12   Αὐρήλιος [Ἀβ]οῦλ ἐπιδέδωκα.
+r.13   ὑπατείας τῶν δεσπ[οτ]ῶν ἡμῶν Κωνσταντίου
+r.14   τὸ δ καὶ Κώνσταντος τὸ γ Αὐγούστων,
+r.15   Ἐπεὶφ ε.
+r.16   καὶ ἄλλοτε χοίρους μου ἀπήλασαν
+r.17   οἱ αὐτοὶ οι … ουρβης τὸν ἀριθμὸν ϛ.
+
+[TRANSLATION]
+# HGV-EN: [Translation from P. Abinn.] To Flavius Abinnaeus, praefectus alae of the troops in the camp of Dionysias in the Arsinoite nome, from Aurelius Aboul son of Dionysius, of the village of Hermopolis in the same nome. My sheep were shorn in the night, eleven in number, by certain criminals, and on my investigating the shearing of the sheep I heard (it was) Paul the soldier, one of those under your command, and he named as his fellow evil-doers Peter son of Sarapion and his brother Melas a soldier and Apion son of Horion the irenarch from the same village. Wherefore I ask and beseech your humanity to apprehend these men and compel them … by these evildoers, and then to bring my statement to the knowledge of my lord the Duke ; for his function it is to take vengeance on the perpetrators of such outrages. And obtaining this I shall acknowledge my gratitude to you, Sir. Farewell. I Aurelius Aboul have made this statement. Consulship of our masters Constantinus [sic] for the 4th time and Constans for the 3rd time, Augusti, Epeiph 5. P.S. On another occasion the same persons drove off pigs of mine to the number of 6.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.236
+label:    O.STRAS 1.236
+name:     Receipt — Theben
+genre:    receipts
+date:     148 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (148 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75833
+source:   https://papyri.info/ddbdp/o.stras;1;236
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ταῦρος νεώτερος πράκτωρ ἀργυρικῶν Χάρακος Ψενμώνθῃ
+r.2    Πε … . ἔχω ὑπὲρ μερισμοῦ ἀνακ ια ἔτους ῥυπαρὰν δραχμὴν μίαν
+r.3    γίνεται ῥυπαρὰ δραχμὴ α. ἔτους ιβ Ἀντωνίνου Καίσαρος
+r.4    τοῦ κυρίου Φαῶφι ϛ. Π … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

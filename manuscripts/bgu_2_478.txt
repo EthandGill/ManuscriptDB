@@ -1,0 +1,46 @@
+[META]
+id:       BGU 2.478
+label:    BGU 2.478
+name:     Documentary papyrus — Philoteris (Arsinoites)
+genre:    documents
+date:     153 CE
+language: Greek (Koiné)
+found:    Philoteris (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Philoteris (Arsinoites) (153 CE)
+# hgv-keywords: Bericht (amtlich) — an die βιβλιοφύλακες — keine neuen Deklarationen (Vieh)
+tm:       9200
+source:   https://papyri.info/ddbdp/bgu;2;478
+lat:      29.383026
+lon:      30.467953
+
+[GREEK]
+r.1    βιβλιοφύλαξι δημοσίων λόγων
+r.2    παρὰ Θ … εως Ὥρου τ[οῦ]
+r.3    Τήλεως καὶ τῶν λοιπῶν
+r.4    ἐπιτηρητῶν νομῶν
+r.5    Φιλωτερίδος διὰ τῶν
+r.6    ἀπὸ Ὀννείτων. δη[λοῦ]μεν μηδὲν π[εριγε]γονέναι ἀπὸ τ[ῆς προ]κειμένης ἐπιτηρ[ή]σεως τῶν α ἕως ε
+r.7    τοῦ Θὼθ μηνος το[ῦ]
+r.8    ἐνεστῶτος ιζ ἔτους
+r.9    Ἀντωνείνου Καίσαρος
+r.10   τοῦ κυρίου διὰ τὸ μὴ
+r.11   εἶναι θρέμματα
+r.12   [ἐν κώμῃ].
+
+[TRANSLATION]
+# HGV-EN: To the record keepers of the public accounts from This, son of Horos, the son of Teleus and the remaining superintendents of the pastures of Philoteris through those from Onneiton. We depose that nothing has accrued from the above mentioned superintendency from the 1st to the 5th of the month of Thoth of the present year 17 of Antoninus Caesar, the lord, because there were no beasts [in the village].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

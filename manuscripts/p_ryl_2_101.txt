@@ -1,0 +1,58 @@
+[META]
+id:       P.RYL 2.101
+label:    P.RYL 2.101
+name:     Documentary papyrus — Hermopolis
+genre:    documents
+date:     63 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Documentary papyrus from Hermopolis (63 CE)
+# hgv-keywords: Antrag — Eiskrisis — Exeget
+tm:       19497
+source:   https://papyri.info/ddbdp/p.ryl;2;101
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    [Φ]ρο[υρ]ίου Ἀπη[λιώτου][.]
+r.2    [Ἡρακλή]ωι Κρονίου ἐξηγητῇ [το]ῦ Ἑρμοπολίτου
+r.3    [παρʼ Ἀν]ουβίωνος τοῦ Διοσκόρ[ο]υ ἀπὸ γυμνασίου
+r.4    [τῶν τὸ] ιβ ἔτος Τιβερίου Καίσαρ[ο]ς Σεβαστοῦ ἐφηβευ[κότων.] τὸν υἱόν μου Διόσκορον μητρ[ὸ]ς Ἀντιγό[νης τῆς] Ὡρίωνος πατρὸς ἀπὸ γυμνα[σ]ίου ὥραν
+r.5    [ἔχοντα τῆς εἰς το]ὺς ἐφή[β]ους εἰσκρίσεως ἀξιῶ
+r.6    [συντάξαι ] … δῃ γραμματεῖ τοῦ γυμνασίου
+r.7    [τοῦτον εἰκονίσ]αι εἰς τοὺς τὸ ι ἔτος Νέρωνος Κλαυδίου
+r.8    [Καίσαρος Σεβαστο]ῦ Γερμαν[ικοῦ Α]ὐτοκράτορος
+r.9    [εἰσκρινομένους ἐ]φ[ήβους ] … ωι υ …
+r.10   … [Ἀ]πηλιώτου.
+r.11   … ἐξηγητῇ τοῦ Ἑρμοπ[ολίτου]
+r.12   … [ Ἀνουβίωνο]ς τοῦ Διοσκόρου ἀπ[ὸ]
+r.13   … [ Τιβερ]ίου Καίσαρος Σεβαστοῦ …
+r.14   … [ Διόσ]κορον μητρὸς Ἀ[ντιγόνης ] …
+r.15   … ἀπὸ γ[υ]μνασίου …
+r.16   … [ τῆ]ς εἰσκρίσεως …
+r.17   … [ γραμ]ματεῖ τοῦ γυμν[ασίου ] …
+r.18   … ι ἔτος Νέρωνος Κ[λαυδίου ] …
+
+[TRANSLATION]
+# HGV-EN: ‘Quarter of the Eastern Guard-house. To … son of Cronius, exegetes of the Hermopolite nome, from Anoubion son of Dioscorus, member of the gymnasium, one of those enrolled as ephebi in the I2th year of Tiberius Caesar Augustus. My son Dioscorus, whose mother is Antigone daughter of Horion, member of the gymnasium, having reached the age for admission as an ephebus, I request you to order …, scribe of the gymnasium, to inscribe him amongst those who are being admitted ephebi for the 10th year of Nero Claudius Caesar Augustus Germanicus…’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

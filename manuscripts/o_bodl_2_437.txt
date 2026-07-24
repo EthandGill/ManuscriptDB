@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.437
+label:    O.BODL 2.437
+name:     Receipt — Theben
+genre:    receipts
+date:     255 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (255 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71138
+source:   https://papyri.info/ddbdp/o.bodl;2;437
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … τοῦ γ ἔτους Οὐαλεριανοῦ
+r.2    καὶ Γαλλιηνοῦ Σεβαστῶν
+r.3    ὀνόματος Πα … π … Ἀλεξάνδρου
+r.4    ὑπὲρ ἐπικεφαλαίου β ἔτους Νότου δραχμὰς
+r.5    τέσσαρας γίνονται δραχμαὶ δ. Διόσκορος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

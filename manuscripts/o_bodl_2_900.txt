@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.900
+label:    O.BODL 2.900
+name:     Receipt — Theben
+genre:    receipts
+date:     138 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (138 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71590
+source:   https://papyri.info/ddbdp/o.bodl;2;900
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Σωτὴρ καὶ] Αἰλουρίων πράκτορες ἀργυρικῶν Χάρακος
+r.2    … μω Ψανσνῶτος. ἔσχομεν ὑπὲρ γεωμετρίας
+r.3    [α ἔτους ῥυπαρὰς ][δρ]αχμὰς ἓξ πεντώβολον γίνονται δραχμαὶ ϛ πεντώβολον. ἔτους β Ἀντωνείνου
+r.4    [Καίσαρο]ς τοῦ κυρίου Φαῶφι κα. Αἰλουρίων
+r.5    [διὰ Ὥρου] βοηθοῦ σεσημείωμαι. Ἀμενώθης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

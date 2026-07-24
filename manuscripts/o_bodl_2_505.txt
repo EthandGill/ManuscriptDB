@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.505
+label:    O.BODL 2.505
+name:     Receipt — Theben
+genre:    receipts
+date:     88 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (88 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71203
+source:   https://papyri.info/ddbdp/o.bodl;2;505
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πατώτης Ψενμώνθου
+r.2    Πιχόιτος ὑπὲρ λαογραφίας Χάρακος ζ ἔτους δραχμὰς δέκα
+r.3    βαλανευτικοῦ α ὀβολὸν α 𐅵 γίνονται ια ὀβολὸς α 𐅵
+r.4    καὶ τούτων προσδιαγραφόμενα.
+r.5    ἔτους ζ Δομιτιανοῦ Καίσαρος
+r.6    τοῦ κυρίου Φαρμοῦθι λ. Ἡρακλείδης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

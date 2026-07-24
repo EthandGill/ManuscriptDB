@@ -1,0 +1,32 @@
+[META]
+id:       O.CAMB 68
+label:    O.CAMB 68
+name:     Receipt — Theben
+genre:    receipts
+date:     172 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (172 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       73547
+source:   https://papyri.info/ddbdp/o.camb;;68
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ιβ ἔτους Ἀντω[νίνου]
+r.2    Καίσαρος τοῦ κυρίου Μεσορὴ ϛ ὑπὲρ Ἀγορῶν ὀν[όματος]
+r.3    Ἰναρῶτος ὁμοίως Ὥ[ρο]υ πυροῦ ἀρτάβης … τετρα[καιεικοστὸν]
+r.4    γίνεται πυροῦ κδ καὶ ὀνόµατος τοῦ αὐτοῦ [καὶ] Ταλῶτος ἀδελφῆς
+r.5    ὑπὲρ … πυροῦ δωδέκατον … γίνεται πυροῦ …
+r.6    … ὁμοίως πυροῦ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

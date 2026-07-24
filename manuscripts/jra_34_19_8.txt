@@ -1,0 +1,34 @@
+[META]
+id:       JRA 34.19_8
+label:    JRA 34.19_8
+name:     Letter — Fundort: Berkou
+genre:    letters
+date:     81 CE – 96 CE
+language: Greek (Koiné)
+found:    Fundort: Berkou
+held:     Egypt
+shelf:    
+content:  Letter from Fundort: Berkou (81 CE – 96 CE)
+# hgv-keywords: Brief — Transport
+tm:       978724
+source:   https://papyri.info/ddbdp/jra;34;19_8
+lat:      
+lon:      
+
+[GREEK]
+r.1    … Οὐαλερίῳ ἱππεῖ εἰς Βερκου
+r.2    … ος Οὐαλερίῳ τῷ ἀδελφῷ
+r.3    … πλεῖστα χαίρειν.
+r.4    [καλῶς ποι]ήσεις ταχέως μοι
+r.5    [πέμψα]ς τὰ δ μυροβρ[ο][χία κα]ὶ δύο θυ …
+r.6    … μοι α …
+
+[TRANSLATION]
+# HGV-EN: To [praenomen?] Valerius, horseman, at Berkou. […]os to Valerius, his brother, many greetings. You will do well to send me quickly the four unguent containers and two …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

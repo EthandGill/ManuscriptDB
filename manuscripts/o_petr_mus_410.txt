@@ -1,0 +1,34 @@
+[META]
+id:       O.PETR.MUS 410
+label:    O.PETR.MUS 410
+name:     Receipt — Theben
+genre:    receipts
+date:     190 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (190 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       77792
+source:   https://papyri.info/ddbdp/o.petr.mus;;410
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    παρεκομίσθησαν εἰς τὴν παρεμβολὴν ὀνόματος Ἀπολλωνίου
+r.2    Φθουμίνιος ὑπὲρ γενήματος λ ἔτους
+r.3    γόμοι δύο γίνονται γόμοι β.
+r.4    ἔτους λ Αὐρηλίου Κομμόδου
+r.5    Ἀντωνίνου τοῦ κυρίου
+r.6    Παῦνι κβ. Φθουμῖνις σεσημείωμαι.
+r.7    Ἀκεῖος σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

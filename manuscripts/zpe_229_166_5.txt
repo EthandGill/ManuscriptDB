@@ -1,0 +1,32 @@
+[META]
+id:       ZPE 229.166_5
+label:    ZPE 229.166_5
+name:     Letter — Arsinoites
+genre:    letters
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     London
+shelf:    
+content:  Letter from Arsinoites (1 CE – 100 CE)
+# hgv-keywords: Brief (privat?) — an den Strategen oder an den königlichen Schreiber — Duplicarius
+tm:       998563
+source:   https://papyri.info/ddbdp/zpe;229;166_5
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Τιβερίωι Κλαυδί[ωι] …
+r.2    μερίδος …
+r.3    παρὰ Μάρκου Ἀντων[ίου] …
+r.4    δουπλικαρίου …
+r.5    λαβε …
+
+[TRANSLATION]
+# HGV-EN: To Tiberius Claudius ..., ... of the Arsinoite nome, division of ..., from Marcus Antonius ..., duplicarius ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,52 @@
+[META]
+id:       PYLON 1.5
+label:    PYLON 1.5
+name:     Letter — unbekannt
+genre:    letters
+date:     626 CE – 675 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     London
+shelf:    
+content:  Letter from unbekannt (626 CE – 675 CE)
+# hgv-keywords: Brief (privat) — Fisch — Probleme — Grüße
+tm:       39584
+source:   https://papyri.info/ddbdp/pylon;1;5
+lat:      
+lon:      
+
+[GREEK]
+r.1    τὸ γράμμα τοῦ ἐμοῦ ἀδελφοῦ ἐδεξάμην· ἐδεξάμην δὲ
+r.2    τὰ εἴδη· τοὺς ὀκτὼ κοριάξους καὶ τέσσαρα
+r.3    ἀγρέμια· ἐπειδὴ οἶδας τὴν φιλίαν μεταξὺ
+r.4    ἡμῶν, ουκα … ου· γράψον ἐπιστολὴν
+r.5    ἵνα μὴ ἐπαρθῶσιν μάτην· ἐπειδὴ οἶδας ὅτι ἐγὼ καὶ σύ,
+r.6    μείζονες οἱ ἀπὸ Μιγτολεως, ἐπειδὴ οὖν
+r.7    οἶδα ὅτι πολλὰ σιαίνουσι· καὶ ἐπειδὴ ἤκουσα
+r.8    ὅτι ἀπῆλθες εἰς τὸ χωρίον σου πάλιν, πάνυ
+r.9    ἐχάρη ἡ ψυχή μου καὶ πάντες ἐκ τοῦ ὁσπιτίου·
+r.10   ἐγὼ Θαλητ προσκυνῶ· προσκύνησον δὲ τὴν κύραν Μαρίαν
+r.11   καὶ τὸ μικρὸν παιδίον αὐτῆς. κύριος Γεώργιος
+r.12   ταῦτα γράψας πλεῖστα ὑμᾶς ἀσπάζομαι
+r.13   ἐν κυρίῳ. προσκύνησον δὲ πολλὰ ἄπα
+r.14   Γερόντιον.
+r.15   τῷ ἐμῷ ἀδελφῷ [ sealing ] σὺν θεῷ …
+
+[TRANSLATION]
+# HGV-EN: I have received the letter of my brother, and I have received the articles, the eight koriaxos-fish and four (fresh) catches (of fish?). Since you know the friendship between us, you did not (?) ...: write a letter, so that they may not be roused in vain (?), since you know that, as for you and me, regarding the headmen (meizones) from Migtolis—since I know that they are causing considerable bother. Since I heard that you (?) have gone back to your land again, my soul rejoiced greatly, and (so did those of) all from the house. I embrace Thalet. Embrace lady Maria and her little child. Lord Georgios, who has written this, gives you very many greetings in the Lord. Embrace warmly Apa Gerontios. To my brother, with God, ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

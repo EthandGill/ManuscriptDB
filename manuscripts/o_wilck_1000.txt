@@ -1,0 +1,32 @@
+[META]
+id:       O.Wilck. 1000
+label:    O.Wilck. 1000
+name:     Receipt — Theben
+genre:    receipts
+date:     239 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (239 CE)
+# hgv-keywords: Quittung — Naturalien
+tm:       77476
+source:   https://papyri.info/ddbdp/o.wilck;;1000
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος β ἔτους τοῦ κυρίου
+r.2    ἡμῶν Αὐτοκράτορος Καίσαρος
+r.3    Μάρκου Ἀντωνίου Γορδιανοῦ Εὐσεβοῦς
+r.4    Εὐτυχοῦς Σεβαστοῦ Ἐπεὶφ ιη ὑπὲρ Χάρακος
+r.5    ὀνόματος Ὧρος Φθουμώνθου πυροῦ τρεῖς
+r.6    γίνονται πυροῦ γ. Αὐρήλιος Φιλόξενος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

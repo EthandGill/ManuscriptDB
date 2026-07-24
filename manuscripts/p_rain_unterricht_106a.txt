@@ -1,0 +1,30 @@
+[META]
+id:       P.RAIN.UNTERRICHT 106a
+label:    P.RAIN.UNTERRICHT 106a
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     759 CE – 775 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (759 CE – 775 CE)
+# hgv-keywords: Titel des Pagarchen Jahja b. Hilal
+tm:       12850
+source:   https://papyri.info/ddbdp/p.rain.unterricht;;106a
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … [Ἰ]αε[ι]ε υἱὸς Ἠλαλ ἐπικείμενος παγαρχίας
+r.2    … [Ἰ]αε[ι]ε υἱὸς Ἠλαλ ἐπικείμενος παγαρχίας
+r.3    … Ἰ[αει]ε υἱὸς Ἠλαλ ἐπικείμενος παγαρχίας
+r.4    … ουπ …
+
+[TRANSLATION]
+# HGV-EN: [...][ Y]ahya ben Hilal endowed with the Pagarchy [...][ Y]ahya ben Hilal endowed with the Pagarchy [...] Yahya ben Hilal endowed with the Pagarchy ... [...]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

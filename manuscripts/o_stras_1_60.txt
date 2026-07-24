@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.60
+label:    O.STRAS 1.60
+name:     Receipt — Theben
+genre:    receipts
+date:     32 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (32 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75660
+source:   https://papyri.info/ddbdp/o.stras;1;60
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [διαγεγράφηκεν ][Παερπῆ]ς Σναχομνέως χωμάτων
+r.2    [ιη ἔτους δραχμὰς ἓξ ][τε]τρώβολον καὶ βαλανείου
+r.3    [τετρώβολον ἥμισυ γίνονται δραχμαὶ ζ] ὀβολοὶ β 𐅵 καὶ τὰ
+r.4    [προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου.] ἔτους ιθ Τιβερίου
+r.5    [Καίσαρο]ς Σεβαστοῦ
+r.6    [Σεβ]αστοῦ λ ζ. Πικῶς Κεφάλου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

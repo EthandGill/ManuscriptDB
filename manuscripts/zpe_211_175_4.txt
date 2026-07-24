@@ -1,0 +1,30 @@
+[META]
+id:       ZPE 211.175_4
+label:    ZPE 211.175_4
+name:     Receipt — Elephantine
+genre:    receipts
+date:     115 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (115 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       832146
+source:   https://papyri.info/ddbdp/zpe;211;175_4
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Διδυ]μίων πράκτωρ. διέγραψεν …
+r.2    … ωνος ὑπὲρ γεωμετρίας φοινικῶνος [γενήματος ιη ἔτους Τραιανοῦ]
+r.3    [Ἀρίσ]του Καίσαρος τοῦ κυρίου δ[ραχμὰς] … [καὶ ὑπὲρ]
+r.4    [τιμῆς δ]ημοσίου φοίνικος δραχμὰς γ χαλκοῦς β γίνονται δραχμαὶ ϛ τριώβολον ἔτους [ιθ Τραιανοῦ Καίσαρος]
+r.5    [Ἀρίσ]του τοῦ κυρίου Ἁθὺρ ϛ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

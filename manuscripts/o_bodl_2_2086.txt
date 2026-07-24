@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.2086
+label:    O.BODL 2.2086
+name:     Receipt — Theben
+genre:    receipts
+date:     303 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (303 CE)
+# hgv-keywords: Quittung — Steuern — Fleisch
+tm:       72759
+source:   https://papyri.info/ddbdp/o.bodl;2;2086
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἐσχήκαμεν παρὰ
+r.2    Βησαρίωνος σχολαστικοῦ ὑπὲρ ἔτους ιθ καὶ ἔτους ιη
+r.3    καὶ ἔτους ια κρέως χοιρείου λίτρας ἑξήκοντα τέσσαρας διὰ τῶν
+r.4    ἀποδεκτῶν πόλεως
+r.5    Μεσορὴ β. Ἀμμώνιος Πανίσκου σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

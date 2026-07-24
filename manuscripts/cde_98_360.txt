@@ -1,0 +1,28 @@
+[META]
+id:       CDE 98.360
+label:    CDE 98.360
+name:     Receipt — Apollonopolis (Ägypten)
+genre:    receipts
+date:     158 BCE
+language: Greek (Koiné)
+found:    Apollonopolis (Ägypten)
+held:     Cairo
+shelf:    
+content:  Receipt from Apollonopolis (Ägypten) (158 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       957845
+source:   https://papyri.info/ddbdp/cde;98;360
+lat:      25.8851095
+lon:      32.7365555
+
+[GREEK]
+r.1    ἔτους κγ Παχὼν κα. μεμέτρηται κγ ἔτους
+r.2    ἄνω τοπαρχίας Πάτους Φατρέους [καὶ]
+r.3    Φῖβις Ἰαζαρίας πυροῦ πέντε ϛ, γίνονται ε ϛ.
+r.4    Εὐκλῆς.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

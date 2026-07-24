@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 12.1427
+label:    P.Oxy. 12.1427
+name:     Documentary papyrus — Kore (Delta)
+genre:    documents
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Kore (Delta)
+held:     
+shelf:    
+content:  Documentary papyrus from Kore (Delta) (201 CE – 300 CE)
+# hgv-keywords: Befehl an Arbeiter bei Dämmen im Delta — bezahlte Arbeit am Fluß Talu
+tm:       31742
+source:   https://papyri.info/ddbdp/p.oxy;12;1427
+lat:      
+lon:      
+
+[GREEK]
+r.1    Αὐρήλιος Τιθοητίων γραμματεὺς ποταμιτῶν Κορὴ διʼ
+r.2    ἐμοῦ Μέλανος φίλου συνγραμματεύοντι καὶ ποταμίταις
+r.3    χαίρειν. συνεχῶς ναυβίων μάλιστα τὸ κεφάλαιον
+r.4    ἐργάσασθε ἐν ὕδασι Τάλυ τοῦ συνήθους
+r.5    φόρου ἡμερῶν δεκαπέντε, γίνονται ιε.
+r.6    ἔτους γ Παῦνι κϛ.
+
+[TRANSLATION]
+# HGV-EN: Aurelius Tithoëtion, scribe of the river-workmen of Kore, through me, Melas, his friend, to his colleague and the river-workmen, greeting. By continuous labour dig the whole amount of naubia in the waters of Talu at the customary rate of payment for fifteen days, total 15. The 3rd year, Pauni 26.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

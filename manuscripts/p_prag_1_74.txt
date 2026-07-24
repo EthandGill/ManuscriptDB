@@ -1,0 +1,30 @@
+[META]
+id:       P.PRAG 1.74
+label:    P.PRAG 1.74
+name:     Receipt — Arsinoiton Polis
+genre:    receipts
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Arsinoiton Polis
+held:     
+shelf:    
+content:  Receipt from Arsinoiton Polis (601 CE – 700 CE)
+# hgv-keywords: Quittung — Steuer — Kirche — Geld
+tm:       40950
+source:   https://papyri.info/ddbdp/p.prag;1;74
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    κατέβαλεν Καλομηνᾶς Θεοδώρου
+r.2    ἀπὸ μερισμοῦ διαγραφῆς λαύρας
+r.3    τῆς ἁγίας Θέκλας κεράτια
+r.4    τρία, γίνονται κεράτια γ Ἀλεξανδρείας. Χοιὰκ λ
+r.5    ε ἰνδικτίονος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,34 @@
+[META]
+id:       BACPS 29.43
+label:    BACPS 29.43
+name:     Receipt — Elephantine
+genre:    receipts
+date:     142 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (142 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       704390
+source:   https://papyri.info/ddbdp/bacps;29;43
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Ἡρακλείδ]ης καὶ Ἰσίδω[ρος μισθωταὶ ἱερᾶς]
+r.2    [πύλης Σοήν]ης διὰ Παχομ[ψᾶχις βοηθοῦ] [διέ][γραψεν] Ταχνοῦβις Δ …
+r.3    … Ταχνούβι[ο]ς ὑ[πὲρ] [χειρωναξίου]
+r.4    [ε ἔτους] δραχμὰς εἴκοσι ὀβ[ολοὺς] [δύο]
+r.5    [γίνονται δραχμαὶ κ] ὀβολοὶ β ἔτους ε Ἀντω[νίνου]
+r.6    [Κα]ίσαρος τοῦ κυρίο[υ]
+r.7    Παῦνι ιβ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

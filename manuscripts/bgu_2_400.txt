@@ -1,0 +1,30 @@
+[META]
+id:       BGU 2.400
+label:    BGU 2.400
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     591 CE – 602 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (591 CE – 602 CE)
+# hgv-keywords: Datierung
+tm:       9149
+source:   https://papyri.info/ddbdp/bgu;2;400
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἐν ὀνόματι τοῦ κυρ[ί]ου καὶ
+r.2    δεσπότου Ἰησοῦ Χριστοῦ τοῦ θεοῦ
+r.3    καὶ σωτῆρος ἡμῶν, βασιλείας τοῦ
+r.4    δεσπότου ἡμῶν Φλαουίου Μαυρικίου
+r.5    Τιβ[ερίου τοῦ] αἰωνίου Αὐγούστου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

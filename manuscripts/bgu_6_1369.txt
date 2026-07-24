@@ -1,0 +1,38 @@
+[META]
+id:       BGU 6.1369
+label:    BGU 6.1369
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     114 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (114 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       4669
+source:   https://papyri.info/ddbdp/bgu;6;1369
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους γ Μεχεὶρ τέτακται ἐπὶ τὴν
+r.2    ἐν Ἀπόλλωνος πόλει τῇ
+r.3    μεγάλῃ τράπεζαν νιτρικῆς
+r.4    τοῦ αὐτοῦ ἔτους
+r.5    Ποῆρις Ἁρθώτου
+r.6    πεντακισχιλίας
+r.7    γίνονται Ε, ἄλλας
+r.8    χιλίας γίνονται Α.
+r.9    Χαρμογένης τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

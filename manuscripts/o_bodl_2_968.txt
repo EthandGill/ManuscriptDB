@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.968
+label:    O.BODL 2.968
+name:     Receipt — Theben
+genre:    receipts
+date:     11 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (11 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       50389
+source:   https://papyri.info/ddbdp/o.bodl;2;968
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφασιν υἱοὶ Ὥρου Ἑριέω[ς]
+r.2    τιμὴν πυροῦ μ ἔτους … εφοδ
+r.3    δραχμὰς τρεῖς γίνονται δραχμαὶ γ. ἔτους μα
+r.4    Καίσαρος Χοίαχ ιε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

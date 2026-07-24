@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 1.175
+label:    O.EDFOU 1.175
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     158 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (158 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       74213
+source:   https://papyri.info/ddbdp/o.edfou;1;175
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [διέγραψεν ][Σε]νπετεσθεῦς Ἀχιλλᾶτος Ῥούφου
+r.2    … [ κα ἔτους] Ἀντωνίνου Καίσαρος
+r.3    [τοῦ κυρίου] δραχμὰς η γίνονται δραχμαὶ ὄκτω ἔτους κβ Φαῶφι κγ
+
+[TRANSLATION]
+1     
+2     
+3     

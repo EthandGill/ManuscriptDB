@@ -1,0 +1,32 @@
+[META]
+id:       O.ELEPH.WAGNER 65
+label:    O.ELEPH.WAGNER 65
+name:     Receipt — Elephantine
+genre:    receipts
+date:     181 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (181 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24240
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;65
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Ἑρμ]όδωρος Σωτῆρος πράκτωρ ἀργυρικῶν
+r.2    [Ἐ]λεφαντίνης διʼ ἐμοῦ Σανσνῶτος βοηθοῦ.
+r.3    διέγραψεν Θινπαχοῦμ Πασῆνις
+r.4    ὑπὲρ τιμῆς δημοσίου φοινικῶνος γενήματος κα ἔτους ὀνόματος
+r.5    Πετορζμῆθις Βιήγχεως δραχμὰς β.
+r.6    ἔτους κβ Ἁθὺρ κη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,60 @@
+[META]
+id:       P.Oxy. 2.260dupl
+label:    P.Oxy. 2.260dupl
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     59 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (59 CE)
+# hgv-keywords: Erklärung — Eid — Erscheinen vor Gericht in Alexandria
+tm:       20530
+source:   https://papyri.info/ddbdp/p.oxy;2;260dupl
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἀντίγραφον.
+r.2    Ἀντιφάνης Ἀμμωνίου [τ]ῶν ἀπʼ Ὀξυρύγχων
+r.3    πόλεως τοῖς παρὰ Τιβερίου Κλαυδί[ο]υ
+r.4    Ἀμμωνίου στρατηγοῦ καὶ ἐπὶ τῶν προσόδων
+r.5    τοῦ Ὀξυρυγχείτου. ὀμνύω Νέρωνα Κλαύδιον
+r.6    Καίσαρα Σεβαστ[ὸν Γε]ρμανικὸν Αὐτοκράτορα
+r.7    ἦ μὴν κα[τ]ὰ [τὰ] συ[μ]φωνηθέντα ἐμοὶ
+r.8    κα[ὶ] Ἀντ[ι]φ[ά]νει Ἡρακλᾶτος ἐξ ἧς ἐποιησάμε[θα] πρὸ[ς] ἑαυτοὺ[ς] ἐπὶ τοῦ στρατηγοῦ
+r.9    Τιβερίου Κλ[αυ]δ[ίου] Ἀμμωνίου ἀντικαταστάσεως ἔσεσθα[ι][ ἐμ]φανῆ τῷ Σαραπίωνο[ς]
+r.10   ἀρχιδικαστοῦ [β]ήματι ἐπʼ Ἀλεξανδρείας
+r.11   ἕως τριακάδος τοῦ ἐνεστῶτος μηνὸς
+r.12   Ἐπείφ, καὶ προσκαρτερήσειν μέχρι οὗ
+r.13   ἃ ἔχωμεν πρὸς ἑαυτοὺς ἐγ[β]ιβασθῆι.
+r.14   εὐορκοῦντι μέν μοι εὖ εἴη, ἐφιορκ[οῦ]ντι δὲ
+r.15   τὰ ἐναντία. ἔτους πέμπτου Νέρωνος Κλαυδίου
+r.16   Καίσαρος Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορ[ο]ς,
+r.17   Ἐπεὶφ θ. Θέ[ω]ν Ὀννώφριος ὑπηρέτης ἐπηκολ[ού]θ[η]κα τῆι [α]ὐθεντι[κ]ῆι
+r.18   χειρογραφίᾳ. ἔτους ε Νέρωνος Κλαυδίου Καίσαρος
+r.19   [Σεβαστοῦ Γε]ρμαν[ικοῦ Α]ὐτ[ο]κράτορος, Ἐπεὶφ θ.
+
+[TRANSLATION]
+# HGV-EN: Copy. Antiphanes, son of Ammonius, of the city of Oxyrhynchus, to the agents of Tiberius Claudius Ammonius, strategus and superintendent of the revenues of the Oxyrhynchite nome. I swear by Nero Claudius Caesar Augustus Germanicus Imperator, that in accordance with the agreement made between me and Antiphanes, son of Heraclas, in consequence of our confronting each other before the strategus Tiberius Claudius Ammonius, I will appear at the court of the chief justice Sarapion at Alexandria until the 30th day of the present month Epeiph, and will remain until our suit is decided. If I swear truly may it be well with me, if falsely, the reverse. The 5th year of Nero Claudius Caesar Augustus Germanicus Imperator, Epeiph 9. I, Theon, son of Onnophris, assistant, have checked this authentic bond.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

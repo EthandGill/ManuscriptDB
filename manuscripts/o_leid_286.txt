@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 286
+label:    O.LEID 286
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (101 CE – 300 CE)
+# hgv-keywords: Abrechnung — Gemüse
+tm:       29989
+source:   https://papyri.info/ddbdp/o.leid;;286
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Χάρακος
+r.2    Φατρῆς ἀρούρης γ
+r.3    λαχάνου ιβ
+r.4    Ψ[α]νσνῶς Φατρήους ἀρούρης … μη
+r.5    λαχάνου μη
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

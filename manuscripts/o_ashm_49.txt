@@ -1,0 +1,26 @@
+[META]
+id:       O.ASHM 49
+label:    O.ASHM 49
+name:     Receipt — Theben
+genre:    receipts
+date:     239 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (239 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       70498
+source:   https://papyri.info/ddbdp/o.ashm;;49
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ ἐπαγομένων ε τοῦ β ἔτους ὑπὲρ λημμάτων α ἔτους
+r.2    Χάρακος ὀνόματος Σαραπάμωνος Ὥρου Καλλιμάχου ὑπὲρ ἐπικεφαλαίου α ἔτους Χάρακος δραχμὰς
+r.3    τέσσαρες γίνονται δραχμαὶ δ. Ἀμμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

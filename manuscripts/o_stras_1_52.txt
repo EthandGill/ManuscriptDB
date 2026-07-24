@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.52
+label:    O.STRAS 1.52
+name:     Receipt — Theben
+genre:    receipts
+date:     9 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (9 BCE)
+# hgv-keywords: Quittung — Steuern — Bank — Geld
+tm:       75652
+source:   https://papyri.info/ddbdp/o.stras;1;52
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν ἐπὶ τὴν Κεφάλου τράπεζαν
+r.2    … Ὀσοροῆρις ἱερατικῶν
+r.3    τοῦ ιθ ἔτους δραχμὰς πα τετρώβολον αμ … σ … ρ … λ
+r.4    ἔτους κα Καίσαρος Μεσορὴ ζ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

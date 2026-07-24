@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.255
+label:    O.ONT.MUS 2.255
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Documentary papyrus from Theben (101 CE – 200 CE)
+# hgv-keywords: Liste — Namen
+tm:       75275
+source:   https://papyri.info/ddbdp/o.ont.mus;2;255
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πεκύσιος Ἁρσιήσιος
+r.2    Παμῖν Ἁρσιήσιος
+r.3    Φθομώνθης Ὥρου
+r.4    Ὥρου Παμώνθου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,38 @@
+[META]
+id:       P.Fay. 77
+label:    P.Fay. 77
+name:     Receipt — Theadelphia (Arsinoites)
+genre:    receipts
+date:     147 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Theadelphia (Arsinoites) (147 CE)
+# hgv-keywords: Quittung — Penthemeros
+tm:       10920
+source:   https://papyri.info/ddbdp/p.fay;;77
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ἔ[τους δεκάτο]υ Αὐτοκράτορος Καίσαρος Τίτου
+r.2    Αἰλίου Ἁδρ[ι]ανοῦ Ἀντωνίνου Σεβαστοῦ
+r.3    Εὐσεβοῦς. εἴργασται ὑπὲρ χωματικῶν ἔργων
+r.4    τοῦ αὐτοῦ ι ἔτους Ἐπεὶφ ιϛ κ ἐν
+r.5    τῇ Ψιναλείτιδος διώρυγι Θεαδελφείας
+r.6    Ὧρος Πανεσνέως τοῦ
+r.7    Νεφερῶτος μητρὸς Σοήρεως.
+r.8    Μαρεῖνος σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: The 10th year of the Emperor Caesar Titus Aelius Hadrianus Antoninus Augustus Pius. Work has been done for the embankment works of the same tenth year from the 16th to the 20th Epeiph at the Psinali...dyke at Theadelphia by Horus, son of Panesneus, son of Nepheros, his mother being Soëris. Signed by me, Marinus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

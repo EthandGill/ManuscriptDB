@@ -1,0 +1,26 @@
+[META]
+id:       SB 5.8040
+label:    SB 5.8040
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     119 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (119 BCE)
+# hgv-keywords: Quittung — Naturalsteuer — Namen
+tm:       5708
+source:   https://papyri.info/ddbdp/sb;5;8040
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους να, Μεσορὴ ι· μεμέτρηκεν [εἰς θησαυρὸν]
+r.2    Ἀπόλλωνος πόλεως εἰς τὸ να ἔτος Ἀστ …
+r.3    Τεῶτος πυροῦ ἀρτάβην α ϛ γίνεται α ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     

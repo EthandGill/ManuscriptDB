@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 7.1055
+label:    P.Oxy. 7.1055
+name:     Documentary papyrus — Oxyrhynchos (Oxyrhynchites, Ägypten)
+genre:    documents
+date:     235 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (Oxyrhynchites, Ägypten)
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (Oxyrhynchites, Ägypten) (235 CE)
+# hgv-keywords: Anweisung — Zahlung — Wein
+tm:       20346
+source:   https://papyri.info/ddbdp/p.oxy;7;1055
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Πέκυλλος Θέω[ν]ι χαίρειν.
+r.2    παράδος Ἡρακλ[ε]ίδῃ οἰνεμπόρῳ τετάρτης ληνοῦ [κε]ρά[μ]ια διακόσια [τρία] , πέμπτης κεράμια ἑκατόν , σ[υ]μφωνηθέντα ὡς τῶν ρα δραχμῶν χιλίων ἑκατόν , ὧν ἡ τιμὴ χωρεῖ εἰς ἐπιθήκην
+r.3    Ἐμβητίωνος ταλάντων πέντε . δὸς τὰ τοῦ
+r.4    οἴνου κεράμια τριακόσια
+r.5    τρία .
+r.6    ἔτους ιδ Παῦνι ιζ.
+
+[TRANSLATION]
+# HGV-EN: Pecyllus to Theon, greeting. Deliver to Heraclides, wine-merchant, 203 jars from the fourth vat, and 100 jars from the fifth, of which the price has been agreed upon at the rate of 1,100 drachmae for 101 jars and the cost goes to make up the five talents of Embetion. (Signed) Pay the 303 jars of wine. The 14th year, Pauni 17.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

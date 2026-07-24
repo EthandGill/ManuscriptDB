@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.95
+label:    O.STRAS 1.95
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     70 CE – 79 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (70 CE – 79 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75695
+source:   https://papyri.info/ddbdp/o.stras;1;95
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [διέγραψε ] … αμις πρεσβύτερος Ὀννώφριος ὑπὲρ λαογραφίας
+r.2    … [ δραχμὰς ἕ]νδεκα … λ … γίνονται δραχμαὶ ια … καὶ προσδιαγραφόμενα.
+r.3    [ἔτους ] … [Αὐτ]οκράτορος Καίσαρος
+r.4    [Οὐεσ]πασιανοῦ Σεβαστοῦ
+r.5    … Μεχεὶρ κθ. Ἡρακλ σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: [Has paid] [...] the elder son of Onnophris for poll tax [...] eleven [drachmai] ..., that is 11 drachmai ... with extra charges. [Year] [...] of the Emperor Caesar Vespasianus Augustus [...], Mecheir 29. I, Herakl( ), have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 75.5050
+label:    P.Oxy. 75.5050
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     69 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (69 CE)
+# hgv-keywords: Quittung — Aspidas (Sekretär des C. Prosius Hospes) gegenüber Sarapion — Empfang des Kaufpreises für eine Achse (einer Bewässerungsmaschine ?)
+tm:       128891
+source:   https://papyri.info/ddbdp/p.oxy;75;5050
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἀσπιδᾶς χειριστὴς Γαΐου
+r.2    Πρωσίου Ὅσπιτος
+r.3    [Σ]αραπίωνι Διογένους
+r.4    χαίρειν. ἀπέχω παρὰ
+r.5    σοῦ τὴν τιμὴν οὗ εἶχον παρὰ σοὶ ἄξονος
+r.6    καὶ οὐδέν σοι ἐγκ[α]λῶ.
+r.7    ἔτους πρώτου Μάρκου Ὄθωνος
+r.8    [Καί]σαρος Σεβαστοῦ Α[ὐ]τοκράτορος,
+r.9    Φαμενὼθ β.
+
+[TRANSLATION]
+# HGV-EN: Aspidas, estate-manager of C. Prosius Hospes, to Sarapion, son of Diogenes, greetings. I have received from you the money for the axon that I used to keep with you, and I have no claim against you. In the first year of Marcus Otho Caesar Augustus Imperator, Phamenoth 2. (A. Hartmann)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

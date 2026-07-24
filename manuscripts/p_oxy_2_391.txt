@@ -1,0 +1,24 @@
+[META]
+id:       P.Oxy. 2.391
+label:    P.Oxy. 2.391
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (1 CE – 100 CE)
+# hgv-keywords: Abrechnung — Quittungen — Getreide
+tm:       25684
+source:   https://papyri.info/ddbdp/p.oxy;2;391
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    λόγος λημμάτων [π]υροῦ μετὰ λόγου …
+r.2    ἀγορασταὶ ὧν ἡ τιμὴ πρόσκειται.
+
+[TRANSLATION]
+1     
+2     

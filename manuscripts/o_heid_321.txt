@@ -1,0 +1,28 @@
+[META]
+id:       O.HEID 321
+label:    O.HEID 321
+name:     Receipt — Theben
+genre:    receipts
+date:     193 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (193 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       80528
+source:   https://papyri.info/ddbdp/o.heid;;321
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θὼθ ιγ τοῦ β ἔτους ὑπὲρ
+r.2    γενήματος τοῦ α ἔτους ὀνόματος Πετε
+r.3    Παουψάιτος ἀχύρου γόμου ϛ.
+r.4    Πλαντᾶς σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

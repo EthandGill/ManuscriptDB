@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 74.5015
+label:    P.Oxy. 74.5015
+name:     Contract — Thosbis (Oxyrhynchites)
+genre:    contracts
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Thosbis (Oxyrhynchites)
+held:     
+shelf:    
+content:  Contract from Thosbis (Oxyrhynchites) (201 CE – 300 CE)
+# hgv-keywords: Vertrag — Prostatai eines Dorfes mit dem Manager einer Musiktruppe — Anstellung — Künstler (Unterhaltung) — Fest
+tm:       128321
+source:   https://papyri.info/ddbdp/p.oxy;74;5015
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    ὁμολογοῦσιν ἀλλήλοις Αὐρήλιοι Ἁτρῆς Κορνηλίου καὶ Δίδυμος Ἀντέρωτος ἀμφότεροι
+r.2    προστάται κώμης Θώσβεως καὶ Καλλίνικος Ἄπειτος ἀπʼ Ὀξυρύγχων πόλεως προεστὼς ἐργαστηρίου αὐλητῶν τε καὶ κροταλιστ[ρ]ι[ῶ]ν, οἱ μὲν περὶ τὸν Ἁτρῆν παρειληφέναι τὸν Καλλίνικ[ο]ν σ[ὺν] τῇ αὐτῇ συμφωνίᾳ λειτουργήσοντας τοῖς
+r.3    ἀπὸ τῆς κώμης ἐφʼ ἡμέρας ἑορτῶν πέντε ἀ[πὸ] ι[γ] [τ]οῦ Φαωφι ἕως ιζ κα[ὶ] α[ὐτ]ῆς ιζ
+r.4    τοῦ αὐτοῦ μηνὸς μισθοῦ ἑκάστης ἡμέρας δραχμῶν ἑκατὸν εἴκοσι καὶ ἄρτων
+r.5    ζευγῶν τεσσαράκοντα καὶ ἐλαίου ῥαφανίν[ου] … [τῆς ἑο]ρτῆς οἴνου κεραμίου ἑνὸς καὶ ὄξους ἑνός,
+r.6    πάντων ὄντων καθαρῶν. αὐτόθι δὲ
+r.7    μετεβάλοντο οἱ περὶ τὸν Ἁτρῆν τῷ Κα[λ]λιν[ί]κ[ῳ] … [ὑ]πὲρ ἀ[ρραβῶνος] δρ[α]χμὰς εἴκοσι καὶ τοῦτον ἅμα τῇ συμφωνίᾳ παραλήμψονται χωρὶς
+r.8    θεοῦ βίας ἀπὸ τοῦ [Ὀξ]υρ[υγχ]ί[το]υ [δ]ιὰ
+
+[TRANSLATION]
+# HGV-EN: Aurelius Hatres son of Cornelius and Aurelius Didymus son of Anteros, both presidents of the village of Thosbis, and Callinicus son of Apeis from the city of the Oxyrhynchi, the head of an ergasterion of aulos-players and krotalistriai, mutually agree that on the one hand Hatres’ party has invited Callinicus and the said company to perform for those who reside at the village, for five festive days, beginning from the 13th of Phaophi until the 17th, including the 17th of the same month, at the wage each day of one hundred and twenty drachmas and forty pairs of loaves and eight(?) kotylai of radish-oil, (and for all the festive days(?)) one keramion of wine and one of vinegar, all free from encumbrances. On the other hand, Hatres’ party has remitted on the spot to Callinicus . . . (for earnest money?) twenty drachmas, and they will receive him with the company, act of God apart, from (anywhere within) the Oxyrhynchite nome . . . (M. Satama)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

@@ -1,0 +1,30 @@
+[META]
+id:       BGU 7.1505
+label:    BGU 7.1505
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     206 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (206 BCE)
+# hgv-keywords: Abrechnung — Weizen — Geld — Miete — Quittung — Rückzahlung — Darlehen
+tm:       4755
+source:   https://papyri.info/ddbdp/bgu;7;1505
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ἔτους ιϛ Τῦβι προσωφείληκέ μοι
+r.2    λοιπὸν Πρωτίων πυροῦ ἀρτάβας ριζ 𐅵
+r.3    καὶ χαλκῶν ἔχει τάλαντον α δραχμὰς Δτε τριώβολον.
+r.4    ἔχω παρὰ Πρωτίωνος πυροῦ ἀρτάβας ξ, ἔχει λοιπὰς Πρωτίων πυροῦ ἀρτάβας νζ 𐅵.
+r.5    ἔχει δὲ καὶ τὸ ἐνοίκιον Τοτασῶτος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       P.PETR.KLEON 27
+label:    P.PETR.KLEON 27
+name:     Letter — Fundort: Gurob; Schreibort: Arsinoites
+genre:    letters
+date:     252 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Letter from Fundort: Gurob; Schreibort: Arsinoites (252 BCE)
+# hgv-keywords: Brief — Bewässerung — Lipurgion
+tm:       388475
+source:   https://papyri.info/ddbdp/p.petr.kleon;;27
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    … [τὸ βά]θος τοῦ λιπουργίουπῆχυς εἶς ἡμίσυ, τὸ δὲ πλάτος πῆ[χ]υς
+r.2    … οεπ πλάτος. ἔστι δὲ τὸ ὕδωρ ἐπάνω αὐτοῦ πήχεις …
+r.3    ἔρρωσο. ἔτους λγ Παμενὰθ θ
+
+[TRANSLATION]
+# HGV-EN: [... the] depth of the lipourgion: one cubit and a half; the width: [...] cubit [...] width. The water above it is [...] cubits [...]. Farewell. Year 33, Phamenoth 9.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

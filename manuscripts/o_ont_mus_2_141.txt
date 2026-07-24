@@ -1,0 +1,36 @@
+[META]
+id:       O.ONT.MUS 2.141
+label:    O.ONT.MUS 2.141
+name:     Receipt — Theben
+genre:    receipts
+date:     190 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (190 CE)
+# hgv-keywords: Quittung
+tm:       75160
+source:   https://papyri.info/ddbdp/o.ont.mus;2;141
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀπολλωνίδης ἀπαι[τητὴς ] …
+r.2    ἔσχον παρʼ ὑμῶν …
+r.3    καὶ Πλήνιος ἀδελφο[ῦ ] …
+r.4    ὑπὲρ διμοίρου Θὼθ …
+r.5    ἔτους λ Τῦβι ιθ …
+r.6    ὁμοίως κδ δραχμὰς ὀκ[τὼ ] …
+r.7    ὑπὲρ τοῦ προκειμένου …
+r.8    ὑπὲρ τοῦ προκειμένου …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

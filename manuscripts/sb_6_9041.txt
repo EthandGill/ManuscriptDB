@@ -1,0 +1,28 @@
+[META]
+id:       SB 6.9041
+label:    SB 6.9041
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     262 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (262 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       41430
+source:   https://papyri.info/ddbdp/sb;6;9041
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ἔτους θ διέγραψας
+r.2    κωμάρχαις
+r.3    κώμης Φιλ[α]δελ[φίας]
+r.4    Μεχεὶρ δραχμὰς ρπ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

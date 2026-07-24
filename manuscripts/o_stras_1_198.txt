@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.198
+label:    O.STRAS 1.198
+name:     Receipt — Theben
+genre:    receipts
+date:     117 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (117 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75795
+source:   https://papyri.info/ddbdp/o.stras;1;198
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἀντίγραφον ἀποχῆς.
+r.2    Χεσφμόις πράκτωρ ἀργυρικῶν μητροπόλεως Πεμε ὁμοίως.
+r.3    ἔσχον ὑπὲρ γεωμετρίας β ἔτους ῥυπαρὰς δραχμὰς ἓξ ὀβολοὺς δύο ἥμισυ
+r.4    γίνονται ῥυπαραὶ δραχμαὶ ϛ ὀβολοὶ β 𐅵 καὶ ὀνόματος Ὀννώφριος Ψενμηο …
+r.5    ῥυπαρὰς δραχμὰς δύο ὀβολοὺς δύο δίχαλκον γίνονται δραχμαὶ β διώβολον χαλκοῖ β. ἔτους β
+r.6    Ἁδριανοῦ τοῦ κυρίου Ἁθὺρ κζ. Φθουμῖνις
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

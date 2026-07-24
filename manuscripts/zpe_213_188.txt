@@ -1,0 +1,58 @@
+[META]
+id:       ZPE 213.188
+label:    ZPE 213.188
+name:     Letter — Oxyrhynchos ? (Oxyrhynchites, Ägypten)
+genre:    letters
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos ? (Oxyrhynchites, Ägypten)
+held:     London
+shelf:    
+content:  Letter from Oxyrhynchos ? (Oxyrhynchites, Ägypten) (1 CE – 100 CE)
+# hgv-keywords: Brief (privat) — Panares an Heraklas — Geld
+tm:       832443
+source:   https://papyri.info/ddbdp/zpe;213;188
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Πανάρης Ἡρακλᾷ τῶι
+r.2    υἱῷ χαίρειν.
+r.3    ἀσπαζόμεθά σε μεγάλως ἐγὼ καὶ ἡ μήτηρ
+r.4    σου καὶ ἡ ἀδελφή σου
+r.5    καὶ τὸ παιδίον σου καὶ
+r.6    ἡ μικρὰ Ταψάις.
+r.7    ἀπῆλθα πρὸς Μνησίθεον
+r.8    καὶ ἔσχον δραχμὰς τ ὧν
+r.9    ἔδωκα ὑπὲρ ἀνκαλῶν
+r.10   δραχμὰς σ ∆ιονυσίῳ,
+r.11   δημοσίοις ὀνηλάταις
+r.12   ὑπὲρ σοῦ εἰς τὰς δύο
+r.13   συνόδους δραχμὰς ιβ.
+r.14   ἐρρ[ῶσθ]αι σ’ εὐχόμεθα.
+r.15   πειράθητι ἐρχόμενος ἀγοράσαι
+r.16   φακοῦ ὡσεὶ ἀρτ …
+r.17   ἐὰν εὑρήσῃ α …
+r.18   ἀπὸ Πανάρους Ἡρακλᾷ υἱῶι.
+
+[TRANSLATION]
+# HGV-EN: Panares to Heraklas his son, greetings. I, your mother, your sister and your child and the little Tapsais, we greet you. I visited Mnesitheos and got 300 drachmas, of which I gave Dionysios 200 drachmas for the sheaves, to the public donkey-drivers on your behalf for the two associations 12 drachmas. I pray for your health. Try to buy on your way about … artabs of lentils … if you find … From Panares to Heraklas his son.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

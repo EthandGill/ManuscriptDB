@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 12.1441
+label:    P.Oxy. 12.1441
+name:     Receipt — Oxyrhynchites
+genre:    receipts
+date:     197 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchites (197 CE – 200 CE)
+# hgv-keywords: Quittung — στέφανος - Steuer für Land — Geld
+tm:       21844
+source:   https://papyri.info/ddbdp/p.oxy;12;1441
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    [ἔτους ] … [ Λ]ουκίου Σεπτιμίου Σεουήρου
+r.2    [Εὐσε]βοῦς Περτίνακος καὶ Μάρκου
+r.3    [Αὐρη]λίου Ἀντωνίνου Καισάρων τῶν κυρίων.
+r.4    διέγραψαν Πλουτίωνι καὶ μετόχοις πράκτορσι στεφανικῶν
+r.5    κληρονόμοι Διονυσίου Ἀσκληπιάδου ἰδιωτικῆς
+r.6    ἀρουρῶν γ 𐅵 η δραχμὰς εἴκοσι ἐννέα, γίνονται δραχμαὶ κθ,
+r.7    βασ[ι]λικῆς ὁμοίως ἐπὶ λόγου δραχμὰς δεκαόκτω,
+r.8    [γίνονται δραχμαὶ] ιη. Σαραπίων σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: The [.]th year of Lucius Septimius Severus Pius Pertinax and Marcus Aurelius Antoninus Caesars the lords. The heirs of Dionysius son of Asclepiades have paid to Plution and partners, collectors of the crown-dues, upon 3 5/8 arurae of private land twenty-nine drachmae, total 29 dr.; likewise upon State land on account eighteen drachmae, total 18 dr. Signed by me, Sarapion.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

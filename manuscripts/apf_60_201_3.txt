@@ -1,0 +1,36 @@
+[META]
+id:       APF 60.201_3
+label:    APF 60.201_3
+name:     Contract — Arsinoites ?, Ägypten
+genre:    contracts
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Arsinoites ?, Ägypten
+held:     New Haven
+shelf:    
+content:  Contract from Arsinoites ?, Ägypten (501 CE – 600 CE)
+# hgv-keywords: Vertrag — Darlehen — Weizen
+tm:       381312
+source:   https://papyri.info/ddbdp/apf;60;201_3
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … [ἐ]ξ [ὑπαρχόντων μοι πάν]των καὶ ἐ[πε]ρωτηθεὶς ὡμολόγησα.
+r.2    Αὐρήλιος Ἰωάννη[ς υἱ]ὸς Μακαρίου [ὁ] προκείμενος ἔσχ[ον] τὰς τοῦ σίτου κεφαλαίου
+r.3    ἀρτάβας τρεῖς καὶ ἀποδώσω
+r.4    τῇ προθε[σ]μίᾳ ὡς πρόκειται.
+r.5    Αὐρήλιος Ἰωάννης υἱὸς Ἰωσὴφ ἀξιωθείς ἔγραψα ὑπὲρ αὐτοῦ
+r.6    παρόντος …
+r.7    γραμμάτιον …
+
+[TRANSLATION]
+# HGV-EN: … out of all my possessions, and having been asked the formal question, I assented. (Second hand) I, Aurelius Ioannes, son of Macarius, the aforementioned, received the three artabas of wheat as principal, and I shall return (them) at the predetermined time, as aforementioned. I, Aurelius Ioannes, son of Ioseph, having been asked, wrote on his behalf in his presence since he is illiterate. Contract …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

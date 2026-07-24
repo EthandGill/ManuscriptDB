@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB.TAXES 2.94
+label:    O.THEB.TAXES 2.94
+name:     Receipt — Theben
+genre:    receipts
+date:     241 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (241 BCE)
+# hgv-keywords: Quittung — Steuer (Deichsteuer, chomatikon)
+tm:       130095
+source:   https://papyri.info/ddbdp/o.theb.taxes;2;94
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ϛ Τυβι β ἔχει Διονύσιος
+r.2    παρὰ Ἁρσιήσιος Ἀμενώθου
+r.3    χωματικοῦ τοῦ ϛ ἔτους, δραχμὰς τέσσαρας
+r.4    Δώριων
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

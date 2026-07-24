@@ -1,0 +1,30 @@
+[META]
+id:       P.ANT 3.193
+label:    P.ANT 3.193
+name:     Letter — Antinoopolis
+genre:    letters
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Antinoopolis
+held:     
+shelf:    
+content:  Letter from Antinoopolis (601 CE – 700 CE)
+# hgv-keywords: Brief (privat) — Christodoros (Arzt) an NN (?)
+tm:       38676
+source:   https://papyri.info/ddbdp/p.ant;3;193
+lat:      27.8105625
+lon:      30.8810025
+
+[GREEK]
+r.1    παρά.
+r.2    καταξιώσῃ ἡ σὴ εὐδοκίμησις γνῶναι ὅτι ἀπήντησεν Φομῆτ ὁ ἀποδ[έκτης]
+r.3    ἀπʼ ἐχθὲς καὶ τοῦτον ἐξέπεμψα πρὸς ὑμᾶς δεδωκὼς αὐτῷ λόγον ἵνα καταξιωθῆτε
+r.4    παρασκευάσαι αὐτὸν ἀπαλλαγῆναι καὶ εὐχαριστῆσαι τούτοις μου τοῖς γράμμασι.
+r.5    … Χριστόδωρος ἰατρός.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

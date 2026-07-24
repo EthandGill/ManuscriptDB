@@ -1,0 +1,32 @@
+[META]
+id:       P.PETR.KLEON 18
+label:    P.PETR.KLEON 18
+name:     Letter — Zielort: Arsinoites; Schreibort: Arsinoites; Fundort: Gurob
+genre:    letters
+date:     256 BCE
+language: Greek (Koiné)
+found:    Zielort: Arsinoites; Schreibort: Arsinoites; Fundort: Gurob
+held:     London
+shelf:    
+content:  Letter from Zielort: Arsinoites; Schreibort: Arsinoites; Fundort: Gurob (256 BCE)
+# hgv-keywords: Brief (geschäftlich) — N.N. an N.N. — Schleusen — Schließen — Ortsnamen
+tm:       7635
+source:   https://papyri.info/ddbdp/p.petr.kleon;;18
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … [τὰς θύρα]ς τὰς ἐν Μοντίλαι κεκλιμένας καὶ τὴν διώρυγα
+r.2    … κατὰ Βουκόλων κώμην κέκλεικα
+r.3    … ιν. ἐπι … οὖν ὅτι τὰ χώματα καὶ αἱ διαβάθραι οὐ μὴ
+r.4    … το βουλεύσασθαι εἰ δεῖ μίαν θύραν κλεῖσαι ἐν Πτολεμαίδι.
+r.5    ἔρρωσο. ἔτους κθ Ἐπειφ ε.
+
+[TRANSLATION]
+# HGV-EN: [...] the sluice gates in Montila are closed and the canal [...] I have shut [...] near Boukolon Kome [... Know that] the dykes and the bridges cannot [...] to deliberate whether it is necessary to close one sluice gate in Ptolemais. Farewell. Year 29, Epeiph 5.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

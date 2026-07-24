@@ -1,0 +1,26 @@
+[META]
+id:       SB 14.11942
+label:    SB 14.11942
+name:     Documentary papyrus — Sakkâra (Memphites)
+genre:    documents
+date:     331 BCE
+language: Greek (Koiné)
+found:    Sakkâra (Memphites)
+held:     
+shelf:    
+content:  Documentary papyrus from Sakkâra (Memphites) (331 BCE)
+# hgv-keywords: Erlaß — Verbot — Zutritt
+tm:       4274
+source:   https://papyri.info/ddbdp/sb;14;11942
+lat:      29.6279197277
+lon:      31.2486292477
+
+[GREEK]
+r.1    Πευκέστου·
+r.2    μὴ παραπορεύεσθαι μηδένα· ἱερέως τὸ οἴκημα.
+
+[TRANSLATION]
+# HGV-EN: Of Peukestes No one is to pass. The chamber is that of a priest.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

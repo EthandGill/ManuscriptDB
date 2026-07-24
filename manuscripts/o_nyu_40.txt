@@ -1,0 +1,26 @@
+[META]
+id:       O.NYU 40
+label:    O.NYU 40
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     7 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (7 CE)
+# hgv-keywords: Quittung — Kopfsteuer — Geld
+tm:       869444
+source:   https://papyri.info/ddbdp/o.nyu;;40
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λζ Ἁθυρ ιγ λα[ο]γραφίας
+r.2    λϛ ἔτους Ἅρπηκις Σισόιτος
+r.3    δραχμὰς τέσσαρας, γίνονται δ. Πίσηχθις.
+
+[TRANSLATION]
+1     
+2     
+3     

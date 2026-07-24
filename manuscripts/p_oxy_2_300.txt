@@ -1,0 +1,46 @@
+[META]
+id:       P.Oxy. 2.300
+label:    P.Oxy. 2.300
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     76 CE – 100 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (76 CE – 100 CE)
+# hgv-keywords: Brief (privat) — Indike an Thaisus — Bitte um Bestätigung des Empfangs eines Korbes (Brot)
+tm:       25673
+source:   https://papyri.info/ddbdp/p.oxy;2;300
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἰνδικὴ Θαεισοῦτι τῇ κυρίᾳ
+r.2    χαίρειν.
+r.3    ἔπεμψά σοι διὰ τοῦ καμηλίτου
+r.4    Ταυρείνου τὸ πανάριν, περὶ οὗ
+r.5    καλῶς ποιήσεις ἀντιφωνήσασά
+r.6    μοι ὅτι ἐκομίσου. ἀσπάζου Θέωνα
+r.7    τὸν κύριον καὶ Νικόβουλον καὶ Διόσκορον καὶ Θέωνα καὶ Ἑρμοκλῆν τοὺς
+r.8    ἀβασκάντους. ἀσπάζεται ὑμᾶς
+r.9    Λογγεῖνος. ἔρρωσο.
+r.10   μηνὸς Γερμανικ β.
+r.11   εἰς τὸ γυμνάσιον Θέωνι Νικοβούλου
+r.12   ἐλαιοχρίστῃ.
+
+[TRANSLATION]
+# HGV-EN: Indike to Thaisous greeting. I sent you the bread-basket by Taurinus the camel man; please send me an answer that you have received it. Salute my friend Theon and Nicobulus and Dioscorus and Theon and Hermocles, who have my best wishes. Longinus salutes you. Good-bye.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

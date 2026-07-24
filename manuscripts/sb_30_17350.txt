@@ -1,0 +1,26 @@
+[META]
+id:       SB 30.17350
+label:    SB 30.17350
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     75 BCE – 26 BCE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Milan
+shelf:    
+content:  Receipt from Theben (Ägypten) (75 BCE – 26 BCE)
+# hgv-keywords: Quittung — Steuer (porthmis) — Fährboote — Bank
+tm:       133421
+source:   https://papyri.info/ddbdp/sb;30;17350
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    … μ α τέτακται πορθμίδων
+r.2    … ως Ὀσέους χαλκοῦ δραχμὰς Αχζ,
+r.3    [γίνονται δραχμαὶ] [Α]χζ. Ἡρακλείδης τραπεζίτης Β.
+
+[TRANSLATION]
+1     
+2     
+3     

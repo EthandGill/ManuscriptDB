@@ -1,0 +1,30 @@
+[META]
+id:       ZPE 229.164_3
+label:    ZPE 229.164_3
+name:     Documentary papyrus — Oxyrhynchos (Oxyrhynchites)
+genre:    documents
+date:     76 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (Oxyrhynchites)
+held:     London
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (Oxyrhynchites) (76 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       998560
+source:   https://papyri.info/ddbdp/zpe;229;164_3
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Τιβερίωι Κλαυδί[ωι Ἡρακλει- στρατηγῷ]
+r.2    καὶ Νικάνδρωι β[ασιλικῷ] [γραμματεῖ καὶ Διογένει]
+r.3    καὶ Ἀπολλοφάνει [γραμμα]τεῦσι Ὀξυρύγχω[ν πόλεως]
+r.4    καὶ Σαραπίωνι λ[αογράφῳ]
+
+[TRANSLATION]
+# HGV-EN: To Tiberius Claudius Heraklei-, strategus, and Nikandros, royal scribe, and Diogenes and Apollophanes, secretaries of the city of Oxyrhynchi, and Sarapion, laographos …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.739
+label:    O.BODL 2.739
+name:     Receipt — Theben
+genre:    receipts
+date:     29 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (29 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71429
+source:   https://papyri.info/ddbdp/o.bodl;2;739
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀσκλᾶς πράκτωρ θεαγῶν … ωνᾶτι Ἑρμίου. ἔχω ὑπὲρ
+r.2    βαλανευτικοῦ σίτου μα … ἔτους ιε Τιβερίου
+r.3    Καίσαρος Σεβαστοῦ Ἐπὶφ κδ.
+
+[TRANSLATION]
+1     
+2     
+3     

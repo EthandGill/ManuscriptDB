@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.1618
+label:    O.BODL 2.1618
+name:     Receipt — Theben
+genre:    receipts
+date:     202 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (202 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       72301
+source:   https://papyri.info/ddbdp/o.bodl;2;1618
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἐπεὶφ ια τοῦ ι ἔτους ὀνόματος
+r.2    Ψενσενκαμήτιος Πανσισώιος
+r.3    πυροῦ δέκα ἓξ γίνονται πυροῦ ἀρτάβαι ιϛ. Αὐρήλιος Θε … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

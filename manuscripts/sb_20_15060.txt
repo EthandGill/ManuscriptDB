@@ -1,0 +1,24 @@
+[META]
+id:       SB 20.15060
+label:    SB 20.15060
+name:     Receipt — Elephantine
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (101 CE – 200 CE)
+# hgv-keywords: Quittung? (Steuer)
+tm:       29515
+source:   https://papyri.info/ddbdp/sb;20;15060
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    παρεδεξ …
+r.2    Ἐπεὶφ …
+
+[TRANSLATION]
+1     
+2     

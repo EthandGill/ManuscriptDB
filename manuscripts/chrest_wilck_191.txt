@@ -1,0 +1,62 @@
+[META]
+id:       CHREST.WILCK 191
+label:    CHREST.WILCK 191
+name:     Documentary papyrus — Karanis (Arsinoites)
+genre:    documents
+date:     216 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Karanis (Arsinoites) (216 CE)
+# hgv-keywords: Bericht — Sitologen — Annona
+tm:       9221
+source:   https://papyri.info/ddbdp/chrest.wilck;;191
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    Αὐρηλίῳ Διονυσίῳ στρατηγῷ Ἀρσινοΐτου Ἡρακλείδου μερίδος
+r.2    παρὰ Αὐρηλίων Λογ γείνου τοῦ καὶ Ζωσίμου
+r.3    Λεωνίδου καὶ Ὡρίων[ος] Μάρωνος καὶ Ἁρπάλου
+r.4    Σαραπίωνος τῶν γ καὶ τῶν λοιπῶν σιτολόγων
+r.5    κώμης Καρανίδος. μηνιαῖ[ο]ς ἐν κεφαλαίῳ
+r.6    τοῦ Φαῶφι μηνὸς τοῦ ἐνεστῶτος κε ἔτους ἀπὸ γενήματος τοῦ διεληλυθότος ἔ[το]υς κδ ἔτους. εἰσὶν αἱ μετρηθεῖσαι ἡμῖν τῷδε τῷ μηνὶ ὑπὲρ ἀννώνας
+r.7    πυροῦ ἀρτάβαι ιε, κριθῆς ἀρτάβαι κβ, ὧν
+r.8    Καρανίδος ἀννώνας πυροῦ ἀρτάβαι ιε κριθῆς ἀρτάβαι ιϛ,
+r.9    Φειλοπάτορος ἀννώνας κριθῆς ἀρτάβαι ϛ
+r.10   καὶ ταύτα[ι]ς προ[σ]αναλαμβάνονται ὑπὲρ φιλανθρώπου καὶ ἄλλων πυροῦ ἀρτάβης 𐅵,
+r.11   κριθῆς ἀρτάβης δ κδ, γίνονται σὺν φιλανθρώπῳ πυροῦ ἀρτάβαι ιε 𐅵, κριθῆς ἀρτάβαι κβ δ κδ
+r.12   καὶ ἐκλόγου τοῦ προτέρου μηνὸς πυροῦ ἀρτάβαι σνη 𐅷 η,
+r.13   κριθῆς ἀρτάβαι σξδ 𐅵 γ κδ, σὺν δὲ τῇ ἐκλόγῳ
+r.14   πυροῦ ἀρτάβαι σοδ δ κδ, κριθῆς ἀρτάβαι σπζ ϛ.
+r.15   Αὐρήλιος Ἅρπαλος Σαραπίωνος σιτολόγος ἐπιδέδωκα.
+r.16   Αὐρήλιος Ὡρίων Μάρωνος συνεπιδέδωκα.
+r.17   ἔτους κε Μάρκου Αὐρηλίου Σεουήρου Ἀντωνίνου
+r.18   Παρ[θ]ικοῦ Μ[εγίσ]του Βρεντανικοῦ Μεγίστου
+r.19   Γερμανικ[οῦ Με]γίστου Εὐσεβοῦς Σεβαστοῦ
+r.20   Ἁθὺρ ια.
+
+[TRANSLATION]
+# HGV-EN: To Aurelius Dionysios, strategos of the Arsinoite nome, Herakleides division, from the Aurelii Longinus alias Zosimos, son of Leonides and Horion, son of Maron, and Harpalos, son of Sarapion, all 3 of them, and from the remaining sitologoi of the village of Karanis. Monthly summary of the month of Phaophi of the present year 25 from the produce of the past year 24. Measured to us in this month there are for the annona 15 artabas of wheat, 22 artabas of barley, of which for Karanis (there are) 15 artabas of wheat, 16 artabas of barley, for Philopator for the annona 6 artabas of barley. To these are added for an administrative fee as well as other (fees) 1/2 an artaba of wheat, 1/4 1/24 of an artaba of barley, = 15 1/2 artabas of wheat including an administrative fee, 22 1/4 1/24 artabas of barley. And from the balance of the account of the previous month 258 2/3 1/8 artabas of wheat, 264 1/2 1/3 1/24 artabas of barley, with the balance of this account 274 1/4 1/24 artabas of wheat, 287 1/6 artabas of barley. (m. 2) I, Aurelius Horion, son of Maron, have submitted (this summary) jointly. (m. 1) Year 25 of Marcus Au]relius Severus Antoninus Par[th]icus Maximus Britannicus Maximus Germanicus Maximus Pius Augustus, Hathyr 11.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

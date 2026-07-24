@@ -1,0 +1,58 @@
+[META]
+id:       BGU 1.312
+label:    BGU 1.312
+name:     Contract — Arsinoites
+genre:    contracts
+date:     658 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Contract from Arsinoites (658 CE)
+# hgv-keywords: Vertrag — Pacht — Datierung nach Diokletianischer Ära
+tm:       9047
+source:   https://papyri.info/ddbdp/bgu;1;312
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἐν ὀνόματι τοῦ κυρίου καὶ δεσπότ[ου Ἰησοῦ Χριστοῦ]
+r.2    τοῦ θεοῦ καὶ σωτῆρος ἡμῶν καὶ τῆς [δεσποίνης]
+r.3    ἡμῶν τῆς ἁγίας θεοτόκου καὶ πάντων τῶν ἁ[γίων]
+r.4    ἔτους Διοκλητιανοῦ τοδ· Τῦβι κδ· ιε ἰνδικτίωνος ἐπʼ Ἀρσινόης.
+r.5    Κο … ητᾶς διάκονος ἁγίας ἐκκλησίας το[ῦ ] …
+r.6    … ουμενη … υ …
+r.7    … οκλη … μενον
+r.8    [μετὰ παντὸς αὐτο]ῦ [τοῦ] δικ[αίου] ἐφʼ ὅσον
+r.9    [βούλει χρόνον ἀπὸ τετάρτη]ς καὶ εἰκάδος τοῦ
+r.10   [ὄντος μηνὸς Τῦβι τῆς παρού]σης πεντεκαιδε[κάτης ἰνδικτίωνος παρέχοντος ἐμ]οῦ τοῦ μισθωσαμένου
+r.11   [ὑπὲρ φόρου αὐτ] … [ ἐνιαυσί]ως χρυσο[ῦ] κεράτια
+r.12   … [ χρυσοῦ κεράτια ] … [. ἡ μ]ίσθωσις κυρία
+r.13   [καὶ ἐπερωτηθεὶς ὡμολόγησα. Κο] … [ητᾶ]ς διάκονος υἱὸς Ἄμμωνος
+r.14   … μη τῇ παρούσῃ μισθώσει
+r.15   … υἱὸς τοῦ μακαρίου Γεροντίου διάκονος
+r.16   [μαρτυρῶ τῇ μισθώσ]ε[ι] ὡς πρόκειται Χριστοφόρος
+r.17   … μαρτυρῶ τῇδε τῇ
+r.18   [μισθώσει ὡς πρόκειται ] …
+
+[TRANSLATION]
+# HGV-EN: Fr. 1 † In the name of the Lord and master [Jesus Christ], our God and Saviour and of our [mistress] the holy mother of God, and of all the saints. Diocletian year 374, Tybi 24, 15th indiction, in the city of the Arsinoites. Ko[m]etas, deacon of the holy church of – – – Fr. 2 – – – [(I acknowledge that I have leased from you) a – – –] unpartitioned, facing [– – – with every right attaching to it] for whatever [period you choose from] the twenty [fourth] of the [present month of Tybi of the present] fifteenth [indiction, with me, the lessee, providing on behalf or the rent of it yearly [x] gold keratia [– – – x gold keratia]. The lease is normative [and in answer to the formal question I gave my assent. (m. 2) I, [Kometa]s, deacon, son of Ammon the present lease. (m. 3) I, [NN], son of the blessed Gerontios, deacon, [– – – bear witness to the lease], as aforesaid. † (m. 4) † I, Christophoros bear witness [to this lease, as aforesaid]. – – –
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

@@ -1,0 +1,32 @@
+[META]
+id:       P.SIJP 42f
+label:    P.SIJP 42f
+name:     Documentary papyrus — Narmuthis (Arsinoites)
+genre:    documents
+date:     185 CE
+language: Greek (Koiné)
+found:    Narmuthis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Narmuthis (Arsinoites) (185 CE)
+# hgv-keywords: Bescheinigung — Arbeit — Deich
+tm:       110208
+source:   https://papyri.info/ddbdp/p.sijp;;42f
+lat:      29.19227245
+lon:      30.64189235
+
+[GREEK]
+r.1    ἔτους κε Μάρκου Αὐρηλίου
+r.2    Κομμόδου Ἀντωνείνου
+r.3    Σεβαστοῦ Εὐσεβοῦς. εἴργασται ὑπὲρ χωμάτων κε ἔτους
+r.4    Παῦνι ζ ἕως ια ἐν τῇ Φολήμεως διώρυγι Ναρμούθεως
+r.5    Ὀρσεῦς ἀπάτωρ Ταμιύσεως
+
+[TRANSLATION]
+# HGV-EN: Im 25. Regierungsjahr des Marcus Aurelius Commodus Antoninus Augustus Pius. Es hat gearbeitet an den Deichen für das 25. Jahr (hand 2) vom 7.-11. Payni am Pholemis-Kanal von Narmuthis, Orseus, apator, Sohn der Tamiysis.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,32 @@
+[META]
+id:       O.PETR.MUS 278
+label:    O.PETR.MUS 278
+name:     Receipt — Theben
+genre:    receipts
+date:     112 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (112 CE)
+# hgv-keywords: Quittung — Steuer (telos)
+tm:       75380
+source:   https://papyri.info/ddbdp/o.petr.mus;;278
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Καίσαρος τ[οῦ κυρίου ] …
+r.2    Καμήτιος χαίρειν. ἀ[πέχομεν] …
+r.3    παρὰ σοῦ τέλος Τῦβι καὶ Μεχεὶρ
+r.4    τοῦ αὐτοῦ ιε ἔτους Τραιανοῦ τοῦ κυρίου
+r.5    Φαμενὼθ ε.
+r.6    ἔγραψα Πετεμενῶφις Πετεμενώφιος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

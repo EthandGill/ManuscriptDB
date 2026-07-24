@@ -1,0 +1,28 @@
+[META]
+id:       O.WILB 52
+label:    O.WILB 52
+name:     Receipt — Theben
+genre:    receipts
+date:     123 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (123 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76561
+source:   https://papyri.info/ddbdp/o.wilb;;52
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ζ ἔτους
+r.2    Ἁδριανοῦ τοῦ κυρίου, Παῦνι κϛ
+r.3    ὀνόματος γεωργοῦ Ἀμμωνίου Προμάχου
+r.4    πυροῦ ἀρτάβης δίμοιρον γίνεται πυροῦ ἀρτάβης 𐅷.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,26 @@
+[META]
+id:       O.ELKAB 137
+label:    O.ELKAB 137
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     127 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (127 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24564
+source:   https://papyri.info/ddbdp/o.elkab;;137
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    Ἀρῆτος Ὀννώφριος Φθαῦτος
+r.2    χωματικοῦ ια ἔτους Ἁδριανοῦ τοῦ κ[υρίο]υ
+r.3    … ὀβολοὺς β 𐅵, μερισμοῦ τετρώβολον. ἔτους ια Ἐπὶφ κγ.
+
+[TRANSLATION]
+1     
+2     
+3     

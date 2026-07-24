@@ -1,0 +1,26 @@
+[META]
+id:       O.ONT.MUS 2.125
+label:    O.ONT.MUS 2.125
+name:     Receipt — Theben
+genre:    receipts
+date:     136 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (136 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75144
+source:   https://papyri.info/ddbdp/o.ont.mus;2;125
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πανίσκος [καὶ μέτοχοι ] … Ὧρος Ἁρφα … ἔσχ
+r.2    τέλος … δραχμὰς τέσσαρας
+r.3    γίνονται δραχμαὶ δ. ἔτους β … Ἁδριανοῦ τοῦ κυρίου Φαῶφι ιη
+
+[TRANSLATION]
+1     
+2     
+3     

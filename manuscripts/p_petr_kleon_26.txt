@@ -1,0 +1,32 @@
+[META]
+id:       P.PETR.KLEON 26
+label:    P.PETR.KLEON 26
+name:     Letter — Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+genre:    letters
+date:     253 BCE
+language: Greek (Koiné)
+found:    Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+held:     London
+shelf:    
+content:  Letter from Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob (253 BCE)
+# hgv-keywords: Brief (geschäftlich) — N.N. an Kleon (?) — Wasser — Arbeiter (?)
+tm:       7654
+source:   https://papyri.info/ddbdp/p.petr.kleon;;26
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … [τὸ χ]ῶμα τὸ ἐπὶ τῆς ἐκτροπῆς κατὰ Ψεναρύω
+r.2    … παρχης ὅπως αφῆι τὸ ὕδωρ. τὰ δὲ σώματα
+r.3    … [κ]ατὰ τὸ πολειμιεῖον. ἀποδεδώκαμεν δὲ τὸ
+r.4    … εως τοῦ πολειμιείου.
+r.5    ἔρρωσο. ἔτους λβ Παῦνι κϛ
+
+[TRANSLATION]
+# HGV-EN: [...] the dyke at the outlet near Psenaryo [...] so that he may release the water. The workmen [...] the temple of Polemis. We have given the [...] the temple of Polemis. Farewell. Year 32, Payni 26.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.193
+label:    O.STRAS 1.193
+name:     Receipt — Theben
+genre:    receipts
+date:     115 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (115 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75790
+source:   https://papyri.info/ddbdp/o.stras;1;193
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἰμούθης καὶ μέτοχοι Ψενμίνιος ὁμοίως τοῦ ὁμοίου μητρὸς Ταυῆτος.
+r.2    ἔσχομεν ὑπὲρ λαογραφίας καὶ βαλανείου
+r.3    Ἀγορᾶς βορρᾶ ιη ἔτους
+r.4    ῥυπαρὰς δραχμὰς δώδεκα γίνονται ῥυπαραὶ δραχμαὶ ιβ.
+r.5    ἔτους ιη Τραιανοῦ τοῦ κυρίου
+r.6    Μεχὶρ ια. …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

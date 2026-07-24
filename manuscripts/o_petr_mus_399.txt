@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 399
+label:    O.PETR.MUS 399
+name:     Receipt — Theben (Notos und Lips)
+genre:    receipts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Theben (Notos und Lips)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos und Lips) (1 CE – 100 CE)
+# hgv-keywords: Quittung — Zahlung von Weizen
+tm:       75403
+source:   https://papyri.info/ddbdp/o.petr.mus;;399
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    … ρ … χ … α Νείλου ὑπὲρ λικα …
+r.2    … λφων ἐμέτρησεν ὑπὲρ Νότου καὶ Λιβὸς …
+r.3    … Σεβαστοῦ γίνονται φορικῷ …
+r.4    … γίνονται πυροῦ φορικῷ …
+r.5    … Καίσαρος Σεβαστοῦ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

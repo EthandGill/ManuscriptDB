@@ -1,0 +1,36 @@
+[META]
+id:       UPZ 1.80
+label:    UPZ 1.80
+name:     Documentary papyrus — Memphis
+genre:    documents
+date:     158 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Documentary papyrus from Memphis (158 BCE)
+# hgv-keywords: Liste — Namen — Träume (?)
+tm:       3471
+source:   https://papyri.info/ddbdp/upz;1;80
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    περὶ τοῦ ἀδελφοῦ.
+r.2    περὶ Πτολεμαίου.
+r.3    περὶ Ταγῆτος.
+r.4    περὶ Σαραπίωνος,
+r.5    οὗ ἔσται.
+r.6    τὰ δὲ περὶ Ταγῆτος
+r.7    Ἁρπαήσι· Π[τ]ολεμαῖον
+r.8    ἀνθρακιῶι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

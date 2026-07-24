@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 1.276
+label:    O.BODL 1.276
+name:     Documentary papyrus — Theben (?)
+genre:    documents
+date:     183 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (?) (183 BCE)
+# hgv-keywords: Eid
+tm:       71005
+source:   https://papyri.info/ddbdp/o.bodl;1;276
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κβ Τῦβι ιε
+r.2    ὅρκος Δημέου πρὸς
+r.3    Λύκον Πετεχῶντος
+r.4    περὶ τῶν καταμμιν
+r.5    καὶ Φίλιππον τὸν ταύτης ἄνδρα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

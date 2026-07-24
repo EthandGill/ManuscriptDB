@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1069
+label:    O.BODL 2.1069
+name:     Receipt — Theben
+genre:    receipts
+date:     114 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (114 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71756
+source:   https://papyri.info/ddbdp/o.bodl;2;1069
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Ἁρποκρα]τίων καὶ μέτοχοι τελῶναι ἱματιοπωλῶν Ψενενούφει
+r.2    … [ἐσ]χομεν παρὰ σοῦ τέλος ὀθονίων ταφῆς
+r.3    [μιᾶς ἔτους ] … Τραιανοῦ Ἀρίστου τοῦ κυρίου
+r.4    Χοίακ γ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

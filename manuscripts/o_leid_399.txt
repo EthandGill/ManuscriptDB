@@ -1,0 +1,32 @@
+[META]
+id:       O.LEID 399
+label:    O.LEID 399
+name:     Receipt — Theben oder Hermonthis
+genre:    receipts
+date:     103 CE – 104 CE
+language: Greek (Koiné)
+found:    Theben oder Hermonthis
+held:     
+shelf:    
+content:  Receipt from Theben oder Hermonthis (103 CE – 104 CE)
+# hgv-keywords: Quittung — Naubion
+tm:       24849
+source:   https://papyri.info/ddbdp/o.leid;;399
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἡρακλεί[δης][ χωματεπιμελητὴς Νότου καὶ Λιβὸς περὶ Θήβας]
+r.2    Παναμεῦς … [ μητρὸς]
+r.3    Σενκαμήτιος ἀν[αβέβληκας]
+r.4    ἐπὶ χώματος Καβιρ … [ ναυβίου 𐅵]
+r.5    ἔτους ζ Τραιανοῦ τ[οῦ κυρίου ] …
+
+[TRANSLATION]
+# HGV-EN: (Translation from: O.Leiden 399, with corrections from B.L. 9, 387) Herakleides [dike-supervisor of Notos and Lips around Thebes] to Panameus [ son of ... and] Senkametis, you have heaped-up on the dike of Kabir( ) [so much]. Year 7 of Trajan the [lord, date].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,26 @@
+[META]
+id:       P.Oxy. 2.383
+label:    P.Oxy. 2.383
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     27 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (27 CE)
+# hgv-keywords: Quittungen — Getreide
+tm:       20600
+source:   https://papyri.info/ddbdp/p.oxy;2;383
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    δημοσίωι μέτρωι
+r.2    ὀφειλήματα
+r.3    τινῶν κωμῶν … μερίς
+
+[TRANSLATION]
+1     
+2     
+3     

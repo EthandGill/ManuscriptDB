@@ -1,0 +1,26 @@
+[META]
+id:       SB 10.10507
+label:    SB 10.10507
+name:     Receipt — Theben
+genre:    receipts
+date:     234 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (234 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       5809
+source:   https://papyri.info/ddbdp/sb;10;10507
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Τοτοῆς τριώβολον [ὀβολὸς]
+r.2    Πανᾶς τετρώβολον
+r.3    Ταυβάστις ὀβολὸς α 𐅵
+
+[TRANSLATION]
+1     
+2     
+3     

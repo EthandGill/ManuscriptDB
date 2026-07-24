@@ -1,0 +1,28 @@
+[META]
+id:       O.ELKAB 71
+label:    O.ELKAB 71
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     119 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (119 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       24506
+source:   https://papyri.info/ddbdp/o.elkab;;71
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    Σιφοῦρις Ψεμονχήους
+r.2    μερισμοῦ δ ἔτους Ἁδριανοῦ
+r.3    Καίσαρος τοῦ κυρίου δραχμὰς δ.
+r.4    ἔτους δ Φαῶφι …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

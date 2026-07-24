@@ -1,0 +1,46 @@
+[META]
+id:       P.Oxy. 4.721
+label:    P.Oxy. 4.721
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     13 CE – 14 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (13 CE – 14 CE)
+# hgv-keywords: Antrag an den Idioslogos Gaius Seppius Rufus auf den Kauf von Land — freie Stellen für Daten
+tm:       20420
+source:   https://papyri.info/ddbdp/p.oxy;4;721
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Γαίωι Σεππίῳ Ῥούφωι
+r.2    παρὰ Πολέμωνος τοῦ Τρύφωνος καὶ [Ἀρχελάου ] …
+r.3    βουλόμεθα ὠνήσασθαι ἐν τῶι Ὀξυρυγχ[είτηι ] … [ ἀπὸ]
+r.4    ὑπολόγου βασιλικῆς γῆς ἕως τοῦ ἔτους Καίσ[α]ρ[ος κλήρων ἐ]πὶ τοῦ ἔτους Καίσαρος ἀνειλημμένων καὶ ἀφόρ[ω]ν
+r.5    γεγονότων καὶ κλήρων τῶν ἕως τοῦ ἀνειλημμένων
+r.6    καὶ αὐτοῦ ἔτους Καίσαρος ἀνειλημμένων πλὴν ἱερᾶς εἰς κα[ρποὺς]
+r.7    τοῦ εἰσιόντος τετάρτου καὶ τεσσαρακοστοῦ ἔτους Καίσαρος, [ὁ μὲν]
+r.8    Πολέμων περὶ Θῶσβιν καὶ Τεποῦιν τῆ[ς] ἄνω τοπ[α]ρχ[ίας]
+r.9    ἀρούρας δεκαπέντε, γίνεται ἄρουραι ιε, ὁ δὲ Ἀρχέλ[αος περὶ ] … [ τῆς]
+r.10   Θμοισεφὼ τοπαρχίας ἀρούρας τέσσαρες, γίνεται ἄρουραι [δ, γίνεται ἄρουραι ιθ],
+r.11   ἐφʼ ᾧ παραδειχθέντες ταύτας διαγράψομ[εν εἰς τὴν ἐπὶ τῶν τό]πων [δη]μοσίαν τράπεζαν τὴν κεκρ[ιμένην] [τιμὴν ἑκάστης]
+r.12   ἀρούρας [ἀργυρίου δραχμὰς] δεκαδύο, ἕξομεν δὲ εἰς τὴν τού[των ἀναγωγὴν καὶ κα][τεργασίαν ἀτέλειαν ][ἔ]τη τρία ἀπὸ τοῦ [εἰσιόντος μδ ἔτους Καίσαρος]
+
+[TRANSLATION]
+# HGV-EN: To Gaius Seppius Rufus from Polemon son of Tryphon and Archelaus son of ... We wish to purchase in the Oxyrhynchite nome of the Crown land returned as unproductive up to the... year of Caesar, from the holdings which were confiscated in the ... year of Caesar and became unfruitful and the holdings confiscated up to and including the ... year of Caesar, exclusive of temple land, for cultivation in the coming 44th year of Caesar—namely Polemon at Thosbis and Tepouis in the upper toparchy fifteen arourae, total 15 arourae, and Archelaus at... in the toparchy of Thmoisepho, four arourae, total 4 arourae, total 19 arourae, with the understanding that on these being assigned to us we shall pay into the local State-bank the price ordered for each aroura, 12 drachmae of silver, and shall have for their reclamation and cultivation immunity from taxation for three years from the coming 44th year of Caesar...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

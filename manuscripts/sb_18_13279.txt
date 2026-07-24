@@ -1,0 +1,28 @@
+[META]
+id:       SB 18.13279
+label:    SB 18.13279
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     61 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     London
+shelf:    
+content:  Receipt from Theben (Ägypten) (61 CE)
+# hgv-keywords: Quittung
+tm:       18263
+source:   https://papyri.info/ddbdp/sb;18;13279
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Σαχομνεῦς Ψενμώνθου καὶ μέτοχοι
+r.2    Καμῆτις Σενφαήριος χαίρειν. ἀπέχομεν τὸ τέλος
+r.3    Φαμενὼτ καὶ Φαρμοῦθι τοῦ
+r.4    ζ ἔτους Νέρωνος τοῦ κυρίου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

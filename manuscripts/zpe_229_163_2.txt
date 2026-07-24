@@ -1,0 +1,32 @@
+[META]
+id:       ZPE 229.163_2
+label:    ZPE 229.163_2
+name:     Contract — Schreibort: Neilopolis (Arsinoites)
+genre:    contracts
+date:     55 CE
+language: Greek (Koiné)
+found:    Schreibort: Neilopolis (Arsinoites)
+held:     London
+shelf:    
+content:  Contract from Schreibort: Neilopolis (Arsinoites) (55 CE)
+# hgv-keywords: Vertrag
+tm:       998559
+source:   https://papyri.info/ddbdp/zpe;229;163_2
+lat:      29.529099
+lon:      30.8214
+
+[GREEK]
+r.1    [ἔτους π]ρώτου Νέρωνος Κλαυδίου Καίσαρος
+r.2    [Σεβαστο]ῦ Γερμανικοῦ Αὐτοκράτορ[ο]ς, μηνὸς
+r.3    [Καισαρ]είου ἐπαγομένων γ, ἐν Νείλου πόλει τῆς Ἡρα[κλείδου] μερίδος τοῦ Ἀρσινοΐτου νομοῦ. ὁμολογ[ε]ῖ
+r.4    … νεὺς Ἑριέως ὡς ἐτῶν τεσσαράκοντα
+r.5    … μετὰ κυρίου
+
+[TRANSLATION]
+# HGV-EN: Year first of Nero Claudius Caesar Augustus Germanicus Imperator, on the 3rd of the intercalary days of the month of Caesarius, at Nilopolis of the division of Herakleides of the Arsinoite nome. -neus daughter of Herieus, about forty(-…?) years old, …, with … as guardian, acknowledges …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

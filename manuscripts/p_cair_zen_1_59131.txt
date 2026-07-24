@@ -1,0 +1,30 @@
+[META]
+id:       P.Cair.Zen. 1.59131
+label:    P.Cair.Zen. 1.59131
+name:     Letter — Palästina (?)
+genre:    letters
+date:     256 BCE
+language: Greek (Koiné)
+found:    Palästina (?)
+held:     
+shelf:    
+content:  Letter from Palästina (?) (256 BCE)
+# hgv-keywords: Brief (geschäftlich) — Melas an Zenon
+tm:       780
+source:   https://papyri.info/ddbdp/p.cair.zen;1;59131
+lat:      31.25
+lon:      34.75
+
+[GREEK]
+r.1    Μέλας Ζήνωνι χαίρειν. …
+r.2    φέροντα Ἀρίστανδρον. …
+r.3    ἔτους κθ, Περιτίου ἐμβολίμου …
+r.4    Μέλας διότι μερίδα ἀπέσταλκεν.
+r.5    Ζήν[ωνι].
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

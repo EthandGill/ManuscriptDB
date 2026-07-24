@@ -1,0 +1,32 @@
+[META]
+id:       O.AMST 45
+label:    O.AMST 45
+name:     Receipt — Theben
+genre:    receipts
+date:     112 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (112 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70392
+source:   https://papyri.info/ddbdp/o.amst;;45
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πικῶς Τιθοήους
+r.2    διὰ Ἀμενώθου Πετοσίριος
+r.3    ὑπὲρ γεωμετρίας Χάρακος ἀργυρίου ῥυπαροῦ δραχμὰς
+r.4    τέσσαρας, γίνονται δραχμαὶ δ.
+r.5    ἔτους ιε Τραιανοῦ τοῦ κυρίου
+r.6    Παῦνι γ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

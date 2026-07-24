@@ -1,0 +1,68 @@
+[META]
+id:       P.RYL 2.229
+label:    P.RYL 2.229
+name:     Letter — Arsinoites
+genre:    letters
+date:     38 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Letter from Arsinoites (38 CE)
+# hgv-keywords: Brief (privat) — Ammonios an Aphrodisios
+tm:       12977
+source:   https://papyri.info/ddbdp/p.ryl;2;229
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἀμμώνιος Ἀφροδισίωι τῶι
+r.2    φιλτάτωι χαίρειν.
+r.3    ἔγραψα ἐπιστολὴν πρὸς Ἡράκληον
+r.4    τὸν π[ρ]οβατοκτηνοτρόφον ἵνα δῷ σοι ὄνον,
+r.5    καὶ Ὠφελίωνι ἐνετειλάμην
+r.6    ἵνα καὶ αὐτὸς δῷ ἑτέραν καὶ τοὺς
+r.7    ἄρτους μοι πέμψηι. ἐπεὶ οὖν
+r.8    ἔπεμψάς μοι ἀρτάβας γ ἐρωτῶ σε
+r.9    ἐκ παντὸς τρόπου εὐθέως μοι
+r.10   πέ[μ]ψαι τὰς ἄλλας ἀρτάβας γ καὶ τὸ
+r.11   ὀψάριον, ἐπεὶ ἐν πλοίῳ εἰμί.
+r.12   περὶ δὲ τῆς τροφῆς τῶν χοιριδίων
+r.13   καὶ τοῦ λοιποῦ τῆς τιμῆς τοῦ χόρτου πρόχρησον ἕως οὗ παραγένωμαι,
+r.14   δοκῶ γὰρ συναιρόμενος πρὸς σὲ
+r.15   λογάριον. παρεδεξάμην σοι πάντα.
+r.16   παρακάλεσον οὖν τὴν γυναῖκά
+r.17   σου τοῖς ἐμοῖς λόγοις ἵνα ἐπιμελῆται τῶν χοιριδίων· ἐπιμελοῦ δὲ
+r.18   καὶ τοῦ μόσχου. πάντως δέ, Ἀφροδίσιε,
+r.19   τοὺς ἄρτους μοι πέμψον καὶ τὸ ὀψάριον,
+r.20   ἐὰν δὲ θέλῃς γράψον μοι τίνι
+r.21   δῶ εἰς τὸν χόρτον καὶ εἰς τροφὴν ἄλλας δραχμὰς κ.
+r.22   ἔρρωσο. ἔτους β Γαίου Καίσαρος Σεβαστοῦ Γερμανικοῦ Μεχεὶρ κϛ.
+r.23   Ἀφροδισίωι ἐπιστάτῃ.
+
+[TRANSLATION]
+# HGV-EN: ‘Ammonius to his dearest Aphrodisius, greeting. I wrote a letter to the herdsman Heracleus that he should supply you with a donkey, and I bade Ophelion also to supply you with another and to send me the loaves. You have sent me 3 artabae ; I ask you therefore to do your utmost to send the remaining 3 artabae immediately and the relish, as I am on board a boat. As to the pigs’ fodder and the rest of the price for the hay make provision until I come; for I expect to make up an account with you. I have given you every allowance. Urge your wife from me to look after the pigs and do you also take care of the calf. Be sure, Aphrodisius, to send me the loaves and the relish; and if you will, write me to whom I shall pay a further 20 dr. for hay and fodder. Good-bye. The 2nd year of Gaius Caesar Augustus Germanicus, Mecheir 26. (Addressed) To Aphrodisius, agent.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    

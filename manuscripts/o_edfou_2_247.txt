@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 2.247
+label:    O.EDFOU 2.247
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     94 BCE – 93 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (94 BCE – 93 BCE)
+# hgv-keywords: Quittung
+tm:       43500
+source:   https://papyri.info/ddbdp/o.edfou;2;247
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους κα τέτακται ἀπομοίρας τοῦ αὐτοῦ ἔτους
+r.2    Παχοῦμις Κολιεύριος
+r.3    χίλιας γίνονται Α
+
+[TRANSLATION]
+1     
+2     
+3     

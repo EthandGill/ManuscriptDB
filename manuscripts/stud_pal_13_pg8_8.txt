@@ -1,0 +1,26 @@
+[META]
+id:       STUD.PAL 13.pg8_8
+label:    STUD.PAL 13.pg8_8
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     98 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (98 CE)
+# hgv-keywords: Quittung — Steuern — Geld — Juden
+tm:       23270
+source:   https://papyri.info/ddbdp/stud.pal;13;pg8_8
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Ἰωσῆπος Αἰσχύλου φυλάκων β ἔτους
+r.2    Τραιανοῦ τοῦ κυρίου δραχμὴν α τριώβολον,
+r.3    σκοπέλων β ἔτους ὀβολοὺς β. ἔτους β, Θὼθ κϛ.
+
+[TRANSLATION]
+1     
+2     
+3     

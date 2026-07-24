@@ -1,0 +1,30 @@
+[META]
+id:       O.CLAUD 3.620
+label:    O.CLAUD 3.620
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     136 CE – 138 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (136 CE – 138 CE)
+# hgv-keywords: Quittung — Empfang — Ration
+tm:       73802
+source:   https://papyri.info/ddbdp/o.claud;3;620
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Διονύσιος Εἱερακίωνι σκληρουργῷ χαίρειν.
+r.2    γράψας ὁμολογῶ προκεχρης …
+r.3    παρὰ σ[οῦ ] …
+r.4    … ἀναβῇ τὰ [κι][βά]ρια τοῦ Θω[θ]
+r.5    [μ]ηνὸς ἔτους
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

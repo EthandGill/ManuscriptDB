@@ -1,0 +1,38 @@
+[META]
+id:       SB 10.10506
+label:    SB 10.10506
+name:     Receipt — Theben
+genre:    receipts
+date:     234 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (234 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       5808
+source:   https://papyri.info/ddbdp/sb;10;10506
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους λγ Παῦνι κη
+r.2    ἁλικῆ[ς] διὰ Σωστράτου
+r.3    Προῖτος δραχμὴ α
+r.4    Ἀπολλωνία γυνὴ τριώβολον
+r.5    Θεοδότη θυγάτηρ τριώβολον
+r.6    Φιλέα θυγάτηρ τριώβολον
+r.7    Ἐλάφιν παιδίσκη τριώβολον
+r.8    Ἀπολλώνιος δραχμὴ α
+r.9    γίνονται δραχμαὶ δ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

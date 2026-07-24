@@ -1,0 +1,24 @@
+[META]
+id:       P.GASCOU 58
+label:    P.GASCOU 58
+name:     Receipt — Madīnat al-Fayyūm
+genre:    receipts
+date:     901 CE – 902 CE
+language: Greek (Koiné)
+found:    Madīnat al-Fayyūm
+held:     Paris
+shelf:    
+content:  Receipt from Madīnat al-Fayyūm (901 CE – 902 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       702559
+source:   https://papyri.info/ddbdp/p.gascou;;58
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    κδ ولشهر ربيع
+r.2    ιβ ولشهر رمضان ‪
+
+[TRANSLATION]
+1     
+2     

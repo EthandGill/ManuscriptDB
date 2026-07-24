@@ -1,0 +1,60 @@
+[META]
+id:       P.ERASM 2.38
+label:    P.ERASM 2.38
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     152 BCE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (152 BCE)
+# hgv-keywords: Quittung — Naukleros — Weizen — Bohnen
+tm:       5073
+source:   https://papyri.info/ddbdp/p.erasm;2;38
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους κθ Μεσορὴ ζ. πυροῦ φν, κυάμων ρκ[η][ 𐅵.]
+r.2    ἔτους κθ Μεσορὴ ζ. ὁμολογεῖ
+r.3    Μελήσανδρος ναύκληρ[ο]ς
+r.4    τῆς Δημέου προσαγωγίδος ἀγωγῆς Βϡ
+r.5    ἐμβεβλῆσθαι ἐπὶ τοῦ κατὰ τὴν
+r.6    Καινὴν ὅρμου ὥστʼ εἰς Ἀλεξάνδρειαν εἰς τὸ
+r.7    βασιλικὸν ἀπὸ τῶν γενημάτων τοῦ αὐτοῦ ἔτους
+r.8    παρὰ Διονυσίου τοῦ σιτολογοῦντος
+r.9    τὸ περὶ Ὀξύρυνχα ἐργαστήριον
+r.10   πυροῦ ἀρτάβας πεντακοσίας
+r.11   [πεντή]κοντα, γίνονται φν, κυάμων
+r.12   ἑκατὸν εἴκοσι [ὀκτὼ 𐅵,]
+r.13   γίνονται κυάμων ρκη 𐅵 μέτρωι δοχικῶι
+r.14   τῶι συμβεβλημένωι πρὸς τὸ χαλκοῦν
+r.15   κ[αὶ σ]κυτάλῃ δικαίαι καὶ οὐθὲν
+r.16   ἐγκαλῶ.
+r.17   ἔγραψεν Φίλιππος
+r.18   ἀξιωθεὶς διὰ τὸ μὴ ἐπίστασθαι
+r.19   αὐτὸν γράμματα.
+
+[TRANSLATION]
+# HGV-EN: Year 29, Mesore 7, 550 (artabas) of wheat, 128 1/2 (artabas) of beans. Year 29, Mesore 7, Melesandros, shipping agent of the προσαγωγίς-ship of Demeas, with a capacity of 2900 (artabas), declares that he has loaded, in the harbour at Kaine, with a destination the royal granary at Alexandria, from the harvest of the same year, from Dionysios, the granary official of the granary at Oxyrhyncha: five hundred and fifty artabas of wheat, total 550 (artabas) (and) one hundred and twenty eight and a half (artabas) of beans, total 128 1/2 (artabas) of beans, (measured out) with the δοχικόν-measure which has been calibrated on the basis of the bronze standard, and (leveled off) with the straight strickle, and I have no further claims. Philippos has written, asked to do so because he does not know letters.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

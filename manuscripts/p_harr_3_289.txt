@@ -1,0 +1,32 @@
+[META]
+id:       P.HARR 3.289
+label:    P.HARR 3.289
+name:     Documentary papyrus — unbekannt
+genre:    documents
+date:     401 CE – 600 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     Birmingham
+shelf:    
+content:  Documentary papyrus from unbekannt (401 CE – 600 CE)
+# hgv-keywords: Anweisung — Zahlung — gesalzener Fisch
+tm:       998618
+source:   https://papyri.info/ddbdp/p.harr;3;289
+lat:      
+lon:      
+
+[GREEK]
+r.1    Φοιβάμμων Σοφίᾳ·
+r.2    παράσχου ὁμοίως ὑπὲρ γαζιτίου ταριχίων μυριάδας
+r.3    διακοσίας εἴκοσι πέντε,
+r.4    γίνονται μυριάδες σκε. Φοιβάμμων
+r.5    σεσημείωμαι.
+
+[TRANSLATION]
+# HGV-EN: Phoibammon to Sophia. Pay likewise two hundred twenty-five myriads, total 225 myriads, for a Gaza-jar of salted fish. I, Phoibammon, have signed.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

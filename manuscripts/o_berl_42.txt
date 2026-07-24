@@ -1,0 +1,30 @@
+[META]
+id:       O.BERL 42
+label:    O.BERL 42
+name:     Receipt — Elephantine
+genre:    receipts
+date:     146 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (146 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       24434
+source:   https://papyri.info/ddbdp/o.berl;;42
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σωτὴρ καὶ Παπρεμίθης πρ[άκτορες][ ἀργυρικῶν]
+r.2    Ἐλεφαντίνης. διέγραψεν Πετορζμῆθις Παχν[ούβιος]
+r.3    μητρὸς Σεντιθοήους μερισμῶν
+r.4    θ ἔτους Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.5    δραχμὰς δ. ἔτους θ Φαμενὼθ η.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

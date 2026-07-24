@@ -1,0 +1,26 @@
+[META]
+id:       O.EDFOU 2.255
+label:    O.EDFOU 2.255
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     200 BCE – 101 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (200 BCE – 101 BCE)
+# hgv-keywords: Quittung
+tm:       44289
+source:   https://papyri.info/ddbdp/o.edfou;2;255
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Διονύσιος ἐξείλ[ηφ]α καθότι
+r.2    πρόκειται Ἁρεμσῦνις Φαράτου
+r.3    ἀρτάβης ιβ γίνονται ιβ
+
+[TRANSLATION]
+1     
+2     
+3     

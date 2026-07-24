@@ -1,0 +1,34 @@
+[META]
+id:       SB 20.14294
+label:    SB 20.14294
+name:     Receipt — Aphrodites Kome (Antaiopolites)
+genre:    receipts
+date:     538 CE – 539 CE
+language: Greek (Koiné)
+found:    Aphrodites Kome (Antaiopolites)
+held:     
+shelf:    
+content:  Receipt from Aphrodites Kome (Antaiopolites) (538 CE – 539 CE)
+# hgv-keywords: Quittung — Pacht — Land
+tm:       23712
+source:   https://papyri.info/ddbdp/sb;20;14294
+lat:      26.9528190683
+lon:      31.5960498491
+
+[GREEK]
+r.1    [ ] Φλάουιος Κῦρος λαμπρότατος πολιτευόμενο[ς][ διʼ ἐμοῦ Βίκτορος πρεσβυτέρου καὶ προνοητοῦ]
+r.2    Ἀπολλῶτι Διωσκόρο[υ][ ἀπὸ ][Ἀ]φροδίτη[ς][. ἐδεξάμην καὶ ἐπληρώθην]
+r.3    παρὰ σοῦ τὸν φόρον τῶν ὑπὸ [σὲ ] … [ ἀρουρῶν κλήρου Πιασε πε]ρὶ πεδία κώμης Φθλᾶ ν … [ ἀκολούθως]
+r.4    τῇ μισθώσει κανόνος δευτέρας [ἰνδικτίονος, καὶ εἰς σὴν ἀσφά-
+r.5    λειαν ][πε]ποίημαι ταύτην τὴν πληρωτικὴν [ἀποχὴν ὡς πρόκειται. Κῦρος ] …
+r.6    [διʼ] ἐμοῦ Βίκτορος πρεσβυτέρου κα[ὶ προνοητοῦ, στοιχεῖ μοι ἡ ἀποχὴ ὡς πρόκειται. ] …
+
+[TRANSLATION]
+# HGV-EN: Fl(avius) Kyros, the most brilliant member of the curial class, [through me, Victor, priest and overseer,] to Apollos, son of Dioscorus, [from] Aphrodite. [I have been paid in full] by you for the rent of the [arouras] under [your] control [in the allotment, 'The Field',] in the (5) vicinity of the level areas of the village of Phthla [..., in accordance with the] contract of lease, for tax of the second [indic(tion), and for your security] I have issued this [receipt] for full payment [as stated. Kyros …] through me, Victor, priest and [overseer--the receipt is acceptable to me as stated (date) ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

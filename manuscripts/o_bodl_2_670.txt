@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.670
+label:    O.BODL 2.670
+name:     Receipt — Theben
+genre:    receipts
+date:     60 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (60 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71360
+source:   https://papyri.info/ddbdp/o.bodl;2;670
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μ … καὶ μέτοχοι
+r.2    Πετεχώνσει Φθουμώνθου χαίρειν. ἀπέχομεν παρὰ σοῦ
+r.3    τὸ βαλανευτικὸν τοῦ ζ ἔτους ἱεροῦ Νέρωνος
+r.4    τοῦ κυρίου Φαῶφι κζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,32 @@
+[META]
+id:       O.HEID 213
+label:    O.HEID 213
+name:     Receipt — Theben
+genre:    receipts
+date:     138 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (138 CE)
+# hgv-keywords: Quittung — Steuer (Wachtturmsteuer)
+tm:       78328
+source:   https://papyri.info/ddbdp/o.heid;;213
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ψανσνῶς καὶ Κασιανὸς πράκτορες
+r.2    ἀργυρικῶν Ὀννώφρει Σποτοῦτος
+r.3    Παχνούμιος. ἔσχομεν ὑπὲρ σκοπέλων β ἔτους δραχμὰς
+r.4    τέσσαρες, γίνονται δραχμαὶ δ. ἔτους β Ἀντωνίνου
+r.5    Καίσαρος τοῦ κυρίου Ἁθὺρ α.
+r.6    Κασιανὸς διὰ Λουκᾶτος δραχμὰς δ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

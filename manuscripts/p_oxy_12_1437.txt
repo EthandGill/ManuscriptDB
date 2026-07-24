@@ -1,0 +1,44 @@
+[META]
+id:       P.Oxy. 12.1437
+label:    P.Oxy. 12.1437
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     208 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (208 CE)
+# hgv-keywords: Liste — Steuern für Land — Aruren — Geld
+tm:       21841
+source:   https://papyri.info/ddbdp/p.oxy;12;1437
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    γίνονται …
+r.2    ιϛ ἔτους [ἀμπελώνων ὧν ἀλλαγὴ ἄρουραι ] … [ τάλαντα ] … [ δραχμαὶ ] … [, προσδιαγραφομένων δραχμαὶ Δρ χαλκοῦς α, ]
+r.3    ὧ[ν σὺν διαφόροις δραχμαὶ Γρνθ διώβολον , ]
+r.4    ἰσονόμου ἄρουραι … τάλαντα … [ δραχμαὶ ] … [,]
+r.5    παραδείσων ὧν ἀλλαγὴ ἄρουραι ξ δ ιϛ ρκη φιβ δραχμαὶ ψνα διώβολον ἡμιωβέλιον χαλκοῦς α,
+r.6    ἰσονόμου ἄρουραι ιζ δ ιϛ ξδ δραχμαὶ σα ὀβολὸς χαλκοῦς α.
+r.7    γίνονται ἀπομοίρας τάλαντα η δραχμαὶ σιγ τετρώβολον χαλκοῖ β,
+r.8    προσδιαγραφομένων δραχμαὶ Δρ χαλκοῦς α, ὧν σὺν διαφόροις δραχμαὶ Γρνθ διώβολον,
+r.9    ἱερᾶς γῆς δραχμαὶ ωπε διώβολον χαλκοῖ β, προσδιαγραφομένων δραχμαὶ νε ὀβολὸς ἡμιωβέλιον χαλκοῖ γ, γίνονται δραχμαὶ ϡμ τετρώβολον χαλκοῦς α.
+r.10   γίνονται ἐ[πὶ τὸ αὐτὸ][ τάλαντα η] δραχμαὶ Δτιγ τετρώβολον χαλκοῖ γ.
+r.11   … [ δραχμαὶ ] … ιε διώβολον ἡμιωβέλιον
+
+[TRANSLATION]
+# HGV-EN: 16th year. Vine-land upon which an agio is charged ... arurae, . talents ... drachmae, for extra payments 4,100 dr. 1 chalcus(?), making with the difference 3,159 dr. 2 obols(?): vine-land at par .. ar., . tal. ... dr. Garden-land upon which an agio is charged 60 165/512 ar., 751 dr. 2 1/2 ob. 1 chal.: garden-land at par 17 21/64 ar., 201 dr. 1 ob. 1 chal. Total for apomoira 8 tal. 213 dr. 4 ob. 2 chal., extra payments 4,100 dr. 1 chal., making with the difference 3,159 dr. 2 ob. Temple-land 885 dr. 2 ob. 2 chal., extra payments 55 dr. 1 1/2 ob. 3 chal.; total 940 dr. 4 ob. 1 chal. Total of the whole 8 tal. 4,313 dr. 4 ob. 3 chal.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

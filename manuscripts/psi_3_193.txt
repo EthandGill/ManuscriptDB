@@ -1,0 +1,28 @@
+[META]
+id:       PSI 3.193
+label:    PSI 3.193
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     565 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (565 CE)
+# hgv-keywords: Quittung — Zahlung — Wein
+tm:       20026
+source:   https://papyri.info/ddbdp/psi;3;193
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [ ἐδόθη διὰ Σερή]νου οἰνοχειριστοῦ … λαοτόμοις ἀπὸ Φιλοστράτου
+r.2    … κίονας τοὺς βαλλομένους ε[ἰς τὸ ν]έον προάστιον ἔξω τῆς πύλης
+r.3    [ἐκ κελεύσεως τοῦ ][δ]εσπότου ἡμῶν τοῦ κυρο[ῦ ] … παλαιοῦ οἴνου διπλᾶ ἕξ, γίνεται οἴνου διπλᾶ ϛ μόνα.
+r.4    [ἔτους σμβ και σια] Φαῶφι α ἰνδικτίονος τεσ[σαρεσκαιδε]κάτης γίνεται οἴνου διπλᾶ ἕξ .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,52 @@
+[META]
+id:       BGU 3.762
+label:    BGU 3.762
+name:     Documentary papyrus — Soknopaiu Nesos (Arsinoites)
+genre:    documents
+date:     163 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Soknopaiu Nesos (Arsinoites) (163 CE)
+# hgv-keywords: Deklaration — Zensus — Kamele — eins wurde abgegeben zum Transport einer Säule (Porphyr)
+tm:       9334
+source:   https://papyri.info/ddbdp/bgu;3;762
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    Σοκνοπαίου Νήσου κάμηλοι ἐξαριθμηθέντες γ.
+r.2    Στεφάνῳ στρατηγῷ καὶ Ζω[ί]λῳ βασιλικῷ γραμματεῖ
+r.3    Ἀρσινοΐτου Ἡρακλείδου μερίδος
+r.4    παρὰ Σαταβοῦτος Σαταβοῦτος τοῦ
+r.5    Ἁρπαγάθου ἀπὸ κώμης Σοκνοπαίου
+r.6    Νήσου. ἀφʼ ὧν ἀπεγραψάμην τῷ διεληλυθότι β ἔτει
+r.7    ἐπὶ τῆς κώμης καμήλων δ καὶ πώλου α, λογιζομένου νυνὶ ἐν τελείοις, ἀπὸ τῶν ἐπὶ τὸ αὐτὸ καμήλων ε
+r.8    πέπρακα τῷ διεληλυθότι [μη]νὶ Τῦβι …
+r.9    ρωωρ … [ἀπὸ ἀ]μφόδου Διονυσίου
+r.10   Τόπων κάμηλον α, τοὺς δὲ λοιποὺς
+r.11   καμήλους δ ἀπογράφομαι εἰς τὸ ἐνεστὸς [γ] ἔτος Ἀντωνείνου καὶ Οὐήρου
+r.12   τῶν κυρίων Σεβαστῶν ἐκ δὲ τούτων ἐπέμφθη εἰς χρείας τοῦ καθελκομένου κίονος πορφυριτικοῦ ἐξ ἐνκελεύσεως Ἀννίου Συριακοῦ, τοῦ λαμπροτάτου ἡγεμόνος, κάμηλος ε[ἷς] ἐπὶ μισθοφορᾷ.
+r.13   ἀπογέγραπται στρατηγῷ κά[μηλοι] δ Μεχεὶρ ε
+r.14   ἀπογέγραπται βασιλικῷ κάμηλοι δ Μεχεὶρ ε
+r.15   ἐξηριθμήθη παρὰ στρατηγῷ συμφώνως.
+
+[TRANSLATION]
+# HGV-EN: Soknopaiou (Nesos), 3 camels counted. To Stephanos, strategos, and Zo[i]los, royal scribe of the Arsinoite nome, Herakleides division, from Satabous, son of Satabous, the son of Harpagathes, from the village of Soknopaiou Nesos. Of the 4 camels and 1 foal, now reckoned amongst the fully grown ones, – from 5 camels in total, which I registered in the past year in the village, I have sold in the past year in the month of Tybi to [NN] 1 camel, and the remaing 4 camels I register for the present [3rd] year of Antoninus and Verus, the lords Augusti. From these one camel was sent on hire for the service of transporting a porphyry column on the orders of the prefect, Annius Syriacus, vir clarissimus. (m. 2) 4 camels registered at the office of the strategos, Mecheir 5. (m. 3) 4 camels registered at the office of the royal scribe, Mecheir 5. (m. 4) It has been tallied at the office of the strategos in corroboration. – – –
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

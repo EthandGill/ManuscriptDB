@@ -1,0 +1,28 @@
+[META]
+id:       O.CAMB 47
+label:    O.CAMB 47
+name:     Receipt — Theben
+genre:    receipts
+date:     178 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (178 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       73526
+source:   https://papyri.info/ddbdp/o.camb;;47
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαρμοῦθι α τοῦ ιη ἔτους
+r.2    ὀνόματος Ἰναρῶτος ὁμοίως
+r.3    ὑπὲρ λαογραφίας καὶ ἄλλων ιη ἔτους Ἀγορῶν
+r.4    δραχμὰς ὀκτὼ γίνονται δραχμαὶ η … ρ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,28 @@
+[META]
+id:       O.FRANGE 801
+label:    O.FRANGE 801
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (601 CE – 700 CE)
+# hgv-keywords: Exercice — Citations bibliques?
+tm:       220331
+source:   https://papyri.info/ddbdp/o.frange;;801
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ⲟⲩⲛⲟⲕ ⲡⲉ ⲡϫⲟⲉⲓⲥ ⲡⲁⲛⲟⲩⲧⲉ
+r.2    ἐν ὀνόματι τοῦ πατρός
+r.3    ⲡⲁⲛⲟⲩⲧⲉ ⲡⲉ … ⲁ … ⲟⲩϩⲱⲃ
+r.4    ⲉⲡⲉϥⲟⲩϫⲁⲓ ⲡⲛⲟⲩⲧⲉ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 8.1135
+label:    P.Oxy. 8.1135
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     274 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (274 CE)
+# hgv-keywords: Quittung — Geld gegen Anabolicum
+tm:       21752
+source:   https://papyri.info/ddbdp/p.oxy;8;1135
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    διεγράφησαν ἀπαιτηταῖς
+r.2    ἱεροῦ ἀναβολικοῦ ὀνόματος κληρονόμων
+r.3    Σαραπᾶ διὰ τῆς γυναικὸς
+r.4    δραχμαὶ πεντήκοντα
+r.5    ἕξ, γίνεται δραχμαὶ νϛ.
+r.6    ἔτους ε Φαμεν[ὼ]θ ιθ.
+r.7    [Αὐρ]ήλιος Ἀντώ[νιος] [Ἀλ]έξανδρος
+r.8    [σεσημείωμαι.]
+
+[TRANSLATION]
+# HGV-EN: Paid to the collectors of the sacred anadolicum on account of the heirs of Sarapas through his wife, fifty-six drachmae, total 56 dr. Fifth year, Phamenoth 19. Signed by me, Aurelius Antonius Alexander.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

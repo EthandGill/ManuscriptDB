@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 12.1479
+label:    P.Oxy. 12.1479
+name:     Letter — Alexandria
+genre:    letters
+date:     25 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Alexandria
+held:     
+shelf:    
+content:  Letter from Alexandria (25 BCE – 1 BCE)
+# hgv-keywords: Brief (privat) — NN an Thrakidas — Dokumente in einer Sache des Gerichts — Bitte um Absud von Kohl — Grüße
+tm:       78571
+source:   https://papyri.info/ddbdp/p.oxy;12;1479
+lat:      31.201435
+lon:      29.909773
+
+[GREEK]
+r.1    … σ … ηι … ατ … γνω[σ]τήρ.
+r.2    ἐκομισάμην τ[ὸ] ἐπιστόλ[ι]ον Θρασυβούλου
+r.3    ἐν Κανώπωι. διὸ τὰ βιβλία οὔπω εἴληφα,
+r.4    ἀλλὰ κεῖται ἀντιβεβλημένα. Ἆπις
+r.5    δὲ ὁ συνήγορος οὔπω ἐπελήλυθεν
+r.6    τὰ βιβλία, ἀλλὰ καθʼ ἡμέραν διυπερτέθειται. ἀφʼ οὗ κεχώρισαι τῇ ιϛ
+r.7    [κ]εχρημάτικεν Σαβεῖνος. Φιλομούσῳ
+r.8    [ε]ἰρήκαμεν ἵνα ἐξέλθηι πρὸς σέ.
+r.9    [ἀπ]όστειλον ἐν τῷ γόμῳ κραμβεῖ[ο]ν
+r.10   [Πτ]ολλᾶτι. ἀσπάζεταί σε Ὅμηρος καὶ
+r.11   [Τα]ερμᾶν καὶ Φιλέρωτα κα[ὶ] τὴν γυναῖκα.
+r.12   [καὶ] σεαυτοῦ ἐπιμέλου ἵνʼ ὑγιαίνῃς. ἔρρωσο.
+r.13   ἔτους … [ μ]η[ν]ὸς Τῦ[βι ] …
+r.14   Θρᾳκίδᾳ.
+
+[TRANSLATION]
+# HGV-EN: ... I received the letter of Thrasybulus at Canopus; accordingly I have not yet obtained the documents, but they are lying collated. Apis the advocate has not yet examined the doeuments, but has delayed from day to day. Since you went away on the 16th, Sabinus has been acting in the business. I told Philomusus to come to you. Send a decoction of cabbage for Ptollas in the load. Homerus salutes you and Tahermas and Phileros and his wife. Take care of yourself, so that you keep in good health. Good-bye.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

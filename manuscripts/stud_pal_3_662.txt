@@ -1,0 +1,24 @@
+[META]
+id:       STUD.PAL 3.662
+label:    STUD.PAL 3.662
+name:     Receipt — Arsinoiton Polis
+genre:    receipts
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Arsinoiton Polis
+held:     
+shelf:    
+content:  Receipt from Arsinoiton Polis (601 CE – 700 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       41160
+source:   https://papyri.info/ddbdp/stud.pal;3;662
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    Μεχεὶρ κα α … ἰνδικτίωνος ὑπὲρ … λαύρας Παρεμβωλῆς Κολοθ Ἄπα Ἰουλ
+r.2    ὑπὲρ Ἄπα … ἥμισυ μόνον δι ἐμοῦ Ἀντ
+
+[TRANSLATION]
+1     
+2     

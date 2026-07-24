@@ -1,0 +1,26 @@
+[META]
+id:       O.SARGA 320
+label:    O.SARGA 320
+name:     Receipt — Wadi Sarga
+genre:    receipts
+date:     501 CE – 800 CE
+language: Greek (Koiné)
+found:    Wadi Sarga
+held:     
+shelf:    
+content:  Receipt from Wadi Sarga (501 CE – 800 CE)
+# hgv-keywords: Quittung — Wein
+tm:       36460
+source:   https://papyri.info/ddbdp/o.sarga;;320
+lat:      26.856142
+lon:      31.22027
+
+[GREEK]
+r.1    Θὼθ κθ Κουληυ
+r.2    οἴνου μικρὰ μ οἴνου μεγάλα ιδ
+r.3    Παησε καμηλίτης
+
+[TRANSLATION]
+1     
+2     
+3     

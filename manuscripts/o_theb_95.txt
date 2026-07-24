@@ -1,0 +1,24 @@
+[META]
+id:       O.THEB 95
+label:    O.THEB 95
+name:     Receipt — Theben
+genre:    receipts
+date:     182 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (182 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76465
+source:   https://papyri.info/ddbdp/o.theb;;95
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαρμοῦθι κη τοῦ κβ ἔτους ὀνόματος Ταλῶτος πρεσβυτέρας
+r.2    Σποτοῦτος ὑπὲρ στεφανικοῦ χρήματος Ἀγορῶν τριώβολον γίνονται τριώβολον. σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     

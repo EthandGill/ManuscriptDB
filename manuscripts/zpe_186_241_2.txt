@@ -1,0 +1,32 @@
+[META]
+id:       ZPE 186.241_2
+label:    ZPE 186.241_2
+name:     Receipt — Herakleopolites ?, Ägypten
+genre:    receipts
+date:     244 BCE
+language: Greek (Koiné)
+found:    Herakleopolites ?, Ägypten
+held:     Cairo
+shelf:    
+content:  Receipt from Herakleopolites ?, Ägypten (244 BCE)
+# hgv-keywords: Quittung — Zahlung — Geld — Steuern — Beer
+tm:       4581
+source:   https://papyri.info/ddbdp/zpe;186;241_2
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    ἔτους γ Παχὼνς ιγ, ζυτηρᾶς δραχμαὶ εἴκοσι.
+r.2    ἔτους γ Παχὼνς ιγ. [πέπτωκεν] ἐπὶ τὸ
+r.3    ἐν Φεβίχει λογευτήριον Νικολάωι τραπεζίτηι καὶ Στοτ[ο]ήτει δοκιμαστῆι παρὰ Πετ[ο]σίριος τὸ παρὰ Ταεμβέους ἐκ Ταλάη ζυτηρᾶς εἰς τὸν Φαρμοῦθι δραχμὰς δέκα μίαν καὶ εἰς τὸν Παχὼνς
+r.4    δραχμὰς ἐννέα γίνονται κ. παρόντος Δωρίωνος τὸ αὐτὸ
+r.5    δραχμαὶ εἴκοσι.
+
+[TRANSLATION]
+# HGV-EN: Year 3, Pachons 13, for the beer tax twenty drachmae. Year 3, Pachons 13. There has been paid into the tax office at Phebichis to Nikolaos the banker and Stotoetis the controller from Petosiris the (amount) due from Taembes from Talae for the beer tax on the account of Pharmouthi eleven drachmae and on the account of Pachons nine drachmae, total 20 drachmae. In the presence of Dorion, twenty drachmae in total. In front of Petosiris son of Nechtyris.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

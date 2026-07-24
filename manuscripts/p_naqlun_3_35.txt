@@ -1,0 +1,26 @@
+[META]
+id:       P.NAQLUN 3.35
+label:    P.NAQLUN 3.35
+name:     Documentary papyrus — Fundort: Naqlun (Arsinoites, Ägypten)
+genre:    documents
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Fundort: Naqlun (Arsinoites, Ägypten)
+held:     Naqlun
+shelf:    
+content:  Documentary papyrus from Fundort: Naqlun (Arsinoites, Ägypten) (501 CE – 600 CE)
+# hgv-keywords: Etikett — Sansneus an Nikolaos
+tm:       700732
+source:   https://papyri.info/ddbdp/p.naqlun;3;35
+lat:      29.193771
+lon:      30.876986
+
+[GREEK]
+r.1    δεσπότῃ ἐμῷ τὰ πάντα ὁσιωτάτῳ μακαριωτάτῳ πατρὶ πνευματικῷ ἄββα Νικ[ολάῳ ] ἐπισκόπῳ
+r.2    Σανσνεὺς ἐλάχιστος δοῦλος
+
+[TRANSLATION]
+# HGV-EN: To my lord, in all respects most holy and most blessed spiritual father, abba Nikolaos (?), bishop. Sansneus, the most humble servant.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     

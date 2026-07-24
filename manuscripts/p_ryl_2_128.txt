@@ -1,0 +1,62 @@
+[META]
+id:       P.RYL 2.128
+label:    P.RYL 2.128
+name:     Contract — Euhemeria (Arsinoites, Ägypten)
+genre:    contracts
+date:     30 CE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoites, Ägypten)
+held:     Manchester
+shelf:    
+content:  Contract from Euhemeria (Arsinoites, Ägypten) (30 CE)
+# hgv-keywords: Eingabe — epistates phylakiton — Vertragsbruch — Diebstahl
+tm:       12914
+source:   https://papyri.info/ddbdp/p.ryl;2;128
+lat:      29.383296
+lon:      30.533289
+
+[GREEK]
+r.1    Σεραπίωνι ἐπιστάτῃ φυλακιτῶν
+r.2    παρὰ Ἁτρήους τοῦ Μ. …τος ἐλαιουργοῦ τῶν ἐν
+r.3    Εὐημερίᾳ τῆς Θεμίστου
+r.4    μερίδος Γαίου Ἰουλίου Ἀθην[ο]δώρου καὶ Τιβερίου Καλπ[ο]υρνίου Τρύφωνος. ἡ παρʼ ἐμοὶ
+r.5    οὖσα ὑποσύνγραφος Σουῆρις
+r.6    Ἁρσύθμιος παρεμβάλλουσα ἀλλότρια φρονήσασα
+r.7    ἐνκαταλιποῦσα τὸ ἐλαιούργιον ἀπηλλάγη ψυχαγωγηθεῖσα ὑπὸ τοῦ
+r.8    πατρὸς αὐτῆς Ἁρσύθμιος
+r.9    ἔτι ἀπὸ τῆς ιθ τοῦ Μεχεὶρ τοῦ ιϛ ἔτους Τιβερίου
+r.10   Καίσαρος Σεβαστοῦ, μὴ στοχασαμένου ὧν ὀφείλει μοι
+r.11   σὺν τῇ γυναικὶ αὐτοῦ
+r.12   κατὰ παραμονήν, καὶ ἦρεν
+r.13   ἐκ τῆς οἰκίας μου ἱμάτιον ἄξιον ἀργυρίου δραχμῶν δ καὶ ἃς
+r.14   εἶχον εἰς διαγραφὴν τοῦ
+r.15   φόρου ἀργυρίου δραχμὰς μ, βλάβ[ο]ς δέ
+r.16   μοι ἐπηκ[ο]λούθησεν [ο]ὐκ ὀλίγον. διὸ ἀξιῶ ἀχθῆναι
+r.17   τοὺς ἐνκαλουμένους
+r.18   ἐπὶ σὲ πρὸς τὴν ἐσομένην
+r.19   ἐπέξοδον. εὐτύχει.
+r.20   Ἁτρῆς ἐτῶν λε οὐλὴ μετώπῳ μέσῳ.
+
+[TRANSLATION]
+# HGV-EN: ‘Serapion, chief of police, from Hatres son of …, oil-maker to Gaius Julius Athenodorus and Tiberius Calpurnius Tryphon in Euhemeria in the division of Themistes. Soueris daughter of Harsuthmis, the olive-carrier working with me under contract, changed her mind, left the mill, and departed, persuaded by her father Harsuthmis, as long ago as the 19th of Mecheir of the 16th year of Tiberius Caesar Augustus, her father being oblivious of the debt which he and his wife owe me in accordance with a contract of engagement; and she carried off from my house a cloak worth 4 silver drachmae and 40 silver drachmae which I was keeping for payment of rent. I have thereby suffered no slight injury. Wherefore I ask that the accused persons be brought before you for the ensuing punishment. Farewell. ‘Hatres, aged 35, with a scar on the middle of the forehead.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    

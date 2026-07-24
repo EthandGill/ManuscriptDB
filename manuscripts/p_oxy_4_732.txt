@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 4.732
+label:    P.Oxy. 4.732
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     150 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (150 CE)
+# hgv-keywords: Quittung — Steuer — Geld — Fähre
+tm:       20432
+source:   https://papyri.info/ddbdp/p.oxy;4;732
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Ἡλιόδωρος Ἡλιοδώρου καὶ Λεοντ[ᾶς Π]εκύρ[ιος] ἀπʼ
+r.2    Ὀξυρύγχ[ω]ν πόλε[ως]
+r.3    τελῶναι ὠνῆς πορθμίδων πόλεως καὶ Ἰσίου Ἄνω … [ κ]αὶ ἄλλων τ[ὸ] ἐνεστὸς ιγ ἔτος
+r.4    Ἀντωνίνου Καίσαρος τοῦ κυρίου Ἀχιλλᾶτι Θοώνιος [κα]ὶ Ἀπῖτ[ι] Ἀπῖτ[ος] ἀπὸ τῆς αὐτῆς
+r.5    πόλεως χαίρειν. ἔσχομεν παρʼ ὑμῶν ἀφʼ ὧν ὀφείλετε ἡμῖν ὑπ[ὲ]ρ φόρου πορθμείου Πανκύλεως ἐπὶ λόγου δραχμὰς διακ[οσί]ας, γίνονται δραχμαὶ σ. ἔτους ιγ
+r.6    Αὐτοκράτορος Καίσαρος Τίτου Αἰλίου Ἁδριανοῦ Ἀντωνίνου Σεβαστοῦ Εὐσεβοῦς
+r.7    Τῦβι κζ. Ἡλιόδωρος ὁ προγεγραμμένος ἔσχον σὺν τῷ Λεωντᾶτι τὰς προκειμένας
+r.8    δραχμὰς διακοσίας, γίνονται δραχμαὶ σ. Λεοντᾶς Πεκύριος
+r.9    ὁ προγεγραμμένος ἔσχον σὺν τῷ Ἡλιοδώρῳ
+r.10   [τ]ὰ[ς π]ροκιμένας δραχμὰς δι[α]κοσίας . χρόνος
+r.11   ὁ αὐτός. Ἡλιόδωρος ἔσχον σ[ὺ]ν τῷ Λεοντ[τᾶ]τι
+r.12   τὰς λοιπὰ[ς] δραχμὰς ἑκα[τό]ν . Λεοντᾶς ἔσ[χον σὺν]
+r.13   τῷ Ἡλιοδώ[ρῳ] ὡς πρ[όκι]ται.
+
+[TRANSLATION]
+# HGV-EN: Heliodorus son of Heliodorus and Leontas son of Pekuris, of Oxyrhynchus, farmers of the contract for the tax on ferry-boats at the city, Ision A..., and other (villages) for the present 13th year of Antoninus Caesar the lord, to Achillas son of Thodnis and Apeis son of Apeis, of the said city, greeting. We have received from you on account out of the sum which you owe us for the revenue from ferry-boats at Pankulis two hundred drachmae, total 200 dr.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

@@ -1,0 +1,32 @@
+[META]
+id:       O.THEB.TAXES 2.103
+label:    O.THEB.TAXES 2.103
+name:     Receipt — Theben
+genre:    receipts
+date:     219 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (219 BCE)
+# hgv-keywords: Quittung — Steuer — Weizen — Gerste
+tm:       50361
+source:   https://papyri.info/ddbdp/o.theb.taxes;2;103
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους γ Παχων η̅
+r.2    Ἀπολλώνιος καὶ Ἀσινᾶς
+r.3    πυροῦ μ γ ιβ
+r.4    οἱ αὐτοὶ β ιβ
+r.5    κριθὴς κβ ιβ
+r.6    Ἀπολλώνιος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

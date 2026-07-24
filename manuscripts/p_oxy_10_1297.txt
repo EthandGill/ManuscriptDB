@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 10.1297
+label:    P.Oxy. 10.1297
+name:     Letter — Oxyrhynchos ?
+genre:    letters
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos ?
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos ? (301 CE – 400 CE)
+# hgv-keywords: Brief (privat) — Sarmates an Dioskoros — Begleitbrief zu einer Lieferung von Waren (Öl, Körbe, Wein)
+tm:       33636
+source:   https://papyri.info/ddbdp/p.oxy;10;1297
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Σαρμάτης ἰδίῳ Διοσκόρῳ.
+r.2    ἀπέστειλά σοι διὰ Ἄμμωνος
+r.3    τοῦ ἱερέως μάριον
+r.4    ἐλαίου, ἅψαι αὐτὸ κεῖται,
+r.5    καὶ διὰ τοῦ ἀδελφοῦ Θεοδώρου σφυρίδια τέσ[σαρα] ,
+r.6    ἅ[ψ]αι αὐτὰ κεῖται, καὶ
+r.7    προ … εινάριον ἐλαίου,
+r.8    ἀνακαλύψαι αὐτὸν καὶ
+r.9    φάγαι, καὶ σπαθίον οἴνου,
+r.10   πιε[ῖ]ν αὐτὸν εἰς τὴν ἑορτήν, καὶ διὰ Ἴλιτος σφυρίδιον ἕν , ἅψαι αὐτὸν κεῖται. ἐὰν καταλάβῃ Θεόδωρος ἐκεῖ, δεῦ[ρο] μετʼ αὐτοῦ καὶ ἔνεγκε τοὺς
+r.11   ἄμητας ἐρχόμενος καὶ
+r.12   τὸ ξελεγνον, οὐ τὸ χαρτάριον. …
+r.13   ἐρρῶσθαι εὔχομαι.
+r.14   ἀπόδος τῇ μητρὶ καὶ πατρί μου
+r.15   Σαρμάτης.
+
+[TRANSLATION]
+# HGV-EN: Sarmates to his own Dioscorus. I sent you by Ammon the priest a marium of oil, which is meant for you to burn, and by my brother Theodorus four baskets, which are for you to burn, and a ... of oil for you to uncover and eat, and a spathium of wine for you to drink at the festival, and by Ilis one basket for you to burn. If Theodorus reaches you there, come here with him and bring the milk cakes when you come and the ..., not the papyrus. I pray for your health. (Addressed) Deliver to my mother and father from Sarmates.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

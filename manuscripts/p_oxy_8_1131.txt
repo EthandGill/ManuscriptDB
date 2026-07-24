@@ -1,0 +1,58 @@
+[META]
+id:       P.Oxy. 8.1131
+label:    P.Oxy. 8.1131
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (501 CE – 600 CE)
+# hgv-keywords: Versprechen — Zahlung — Schulden
+tm:       37836
+source:   https://papyri.info/ddbdp/p.oxy;8;1131
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … μ … οσις οἰνοχειριστῇ
+r.2    [τοῦ ][ἐνδό]ξου [οἴ]κου Ἰουλιανὸς
+r.3    [νομικάριος.] ἔχω τῆς σῆς
+r.4    ἀρετ[ῆ]ς καὶ χρεωστῶ
+r.5    [α]ὐτῇ ὑπὲρ τιμῆς οἴνου
+r.6    πραθέντος μοι παρὰ σο[ῦ]
+r.7    χρ[υ]σοῦ νομισμάτια
+r.8    δύο παρὰ κεράτια
+r.9    ὀκτώ, γίνεται χρυσοῦ νομισμάτια β παρὰ κεράτια η,
+r.10   καὶ ταῦτα ἑτο[ί]μως
+r.11   ἔχω παρασχεῖν τῇ σῇ
+r.12   ἀρετῇ ἐν τῇ λοιπογ[ρ]αφίᾳ
+r.13   τοῦ ἐνδόξου οἴκου
+r.14   ἀνυπερθέτως.
+r.15   ἐγράφη μηνὶ Παῦνι θ,
+r.16   ἰνδικτίωνος α. ὁ αὐτὸς Ἰουλιανὸς
+r.17   νομικάριος συμφωνῶ τὸ
+r.18   πιττάκιον ὡς πρόκειται.
+
+[TRANSLATION]
+# HGV-EN: To..., wine-dealer of the honourable house, from Julianus, lawyer. I have from your excellency and owe to you, for the price of wine sold to me by you, two solidi of gold less eight carats, total 2 solidi of gold less 8 carats, and this sum I am ready to pay your excellency at the collection of arrears of the honourable house without delay. Written on the 9th of the month Pauni, 1st indiction. I, the said Julianus, lawyer, assent to the deed as above.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

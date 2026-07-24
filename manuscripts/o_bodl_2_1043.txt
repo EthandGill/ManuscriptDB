@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1043
+label:    O.BODL 2.1043
+name:     Receipt — Theben
+genre:    receipts
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (1 CE – 200 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71730
+source:   https://papyri.info/ddbdp/o.bodl;2;1043
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φθουμῖνις Φθουμείνιος καὶ
+r.2    … απις Παναμεῦτος οἱ δύο
+r.3    τελῶναι ἠπητῶν τοῦ γ ἔτους Κολλούθηι
+r.4    Μενέφρωνος χαίρειν. ἀπέχομεν ὑπὲρ
+r.5    τέλους … και …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

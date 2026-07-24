@@ -1,0 +1,24 @@
+[META]
+id:       O.ASHM.SHELT 1
+label:    O.ASHM.SHELT 1
+name:     Receipt — Theben
+genre:    receipts
+date:     256 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (256 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       50359
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;1
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους λ Μεσορεὶ ς, πέπτωκεν ἁλικῆς διὰ Κλειτάνδρου Ἁρχὼνς
+r.2    Πετείσιος δραχμὴ α τριώβολον.
+
+[TRANSLATION]
+1     
+2     

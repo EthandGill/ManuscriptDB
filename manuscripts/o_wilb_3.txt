@@ -1,0 +1,30 @@
+[META]
+id:       O.WILB 3
+label:    O.WILB 3
+name:     Receipt — Theben
+genre:    receipts
+date:     152 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (152 BCE)
+# hgv-keywords: Quittung — Steuern — Kleinvieh
+tm:       43594
+source:   https://papyri.info/ddbdp/o.wilb;;3
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κθ, Παχὼν ιε.
+r.2    ἀπεγράψατο Τρύφων Θηδώρου πρόβατα πζ,
+r.3    ἄρνας λ, αἶγας ιε, ἔριφους ε
+r.4    γίνονται ρλζ ὧν καὶ τὰ
+r.5    τέλη τέτακται διὰ Ἀδαίου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

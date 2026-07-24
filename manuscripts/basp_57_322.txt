@@ -1,0 +1,52 @@
+[META]
+id:       BASP 57.322
+label:    BASP 57.322
+name:     Contract — Fundort: Oxyrhynchus (Oxyrhynchites, Ägypten)
+genre:    contracts
+date:     345 CE
+language: Greek (Koiné)
+found:    Fundort: Oxyrhynchus (Oxyrhynchites, Ägypten)
+held:     St. Louis
+shelf:    
+content:  Contract from Fundort: Oxyrhynchus (Oxyrhynchites, Ägypten) (345 CE)
+# hgv-keywords: Darlehen (Weizen) — Vertrag — Rückzahlung
+tm:       874403
+source:   https://papyri.info/ddbdp/basp;57;322
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [ὑπατείας Φλαο]υίων Ἀµαντίου καὶ Ἀλβίνου τῶν λ[αµπροτάτων]
+r.2    [Αὐρήλιος] … λος Πεκυσίου ἀπὸ κώµης
+r.3    [Σαραπίωνος] Χαιρήµονος ε πάγου τοῦ
+r.4    [Ὀξυρυγ]χίτου νοµ[ο]ῦ Αὐρηλίῳ
+r.5    [Πασίων]ι Ὡρίωνος βουλευτῇ τῆς λαµπρᾶς καὶ λαµπροτάτης
+r.6    [Ὀξ]υρ[υγ]χιτῶν πόλεως χαίρειν.
+r.7    [ὁµολογῶ] ἐσχηκέναι καὶ παραµεµετρῆσθαι
+r.8    [παρὰ σοῦ] ἐν χρήσει σίτ[ο]υ µὲν ἀρτάβης ἥµισυ
+r.9    [τέταρτον] γίνεται ἀρτάβης 𐅵δ καί κριθῆς ἀρτάβας
+r.10   … τὰ πάντα κεφαλαίου
+r.11   [ἅπερ σῖτον καὶ κριθὴν ] γένη νέα καθαρὰ
+r.12   [ἄδολα κεκοσκινευ]µένα ἐπάναγκες
+r.13   [ἀποδώσω σοι τῷ] … [µηνὶ] τοῦ ἐνεστῶτος
+r.14   [ἔτους κβ ιγ ἄνευ πάσης ὑπερθέ]σεως
+r.15   [καὶ εὑρησιλογίας, εἰ δὲ µή, ἐκτ]είσω σοι
+
+[TRANSLATION]
+# HGV-EN: [During the consulship] of Flavius Amantius and Flavius Albinus, viri clarissimi. [Aurelius …] son of Pekysis, from the village of Sarapionos Chairemonos in the fifth pagus of the Oxyrhynchite nome, to Aurelius [Pasion] (?), son of Horion, bouleutes of the glorious and most glorious city of the Oxyrhynchites, greetings. [I acknowledge] that I have received and have had measured out [from you] as a loan three quarters of an artaba of wheat, total 3/4 of an artaba, and … artabai of barley … altogether as a principal, [which wheat and barley (?)], fresh from harvest, new, clean, genuine, and sifted, [I shall repay you] of necessity [in the month of …] of the present [year 22 and 13, without any] delay [and excuse; and if not], I shall pay you …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

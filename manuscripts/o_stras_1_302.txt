@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.302
+label:    O.STRAS 1.302
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     153 BCE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (153 BCE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75895
+source:   https://papyri.info/ddbdp/o.stras;1;302
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    ἔτους κη Μεσορὴ …
+r.2    Μεμνονείων Ἀμενώθης Ψενα …
+r.3    πυροῦ ἀρτάβας εἴκοσι τρεῖς 𐅸 γίνονται κγ 𐅸.
+r.4    … σειημις κγ 𐅸.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

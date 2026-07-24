@@ -1,0 +1,28 @@
+[META]
+id:       O.ELEPH.WAGNER 26
+label:    O.ELEPH.WAGNER 26
+name:     Receipt — Elephantine
+genre:    receipts
+date:     95 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (95 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24206
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;26
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [διέγραψεν ] … Ἀμμωνίου ὑπὲρ
+r.2    [λαογραφίας ] … ἔτους Δομιτιανοῦ
+r.3    [τοῦ κυρίου ἐπὶ] λόγου δραχμὰς η ὁμοίως δραχμὰς θ
+r.4    [γίνεται δραχμαὶ ιζ.] Σωκράτης πράκτωρ ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

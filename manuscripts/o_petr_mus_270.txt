@@ -1,0 +1,34 @@
+[META]
+id:       O.PETR.MUS 270
+label:    O.PETR.MUS 270
+name:     Receipt — Theben
+genre:    receipts
+date:     128 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (128 CE)
+# hgv-keywords: Quittung — Steuer (Marktverkehrssteuer)
+tm:       75361
+source:   https://papyri.info/ddbdp/o.petr.mus;;270
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θέων καὶ μέτοχοι πράκτορες ἀργυρικῶν μητροπόλεως
+r.2    Βάσσῳ Ψεναμούνιος. ἔσχομεν
+r.3    ὑπὲρ τέλους ἀγορανομίας ὠνίων μηνὸς Ἁθὺρ
+r.4    τοῦ ιγ ἔτους Ἁδριανοῦ τοῦ κυρίου δραχμὰς
+r.5    ἑξηκοντατέσσαρες
+r.6    γίνονται δραχμαὶ ξδ. ἔτους ιγ Ἁδριανοῦ τοῦ κυρίου
+r.7    Ἁθὺρ κθ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

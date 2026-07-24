@@ -1,0 +1,26 @@
+[META]
+id:       O.LEID 85
+label:    O.LEID 85
+name:     Receipt — Theben
+genre:    receipts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (1 CE – 100 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       26430
+source:   https://papyri.info/ddbdp/o.leid;;85
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … ουη Φαήριος ὑπὲρ τιμῆς πυροῦ …
+r.2    … δραχμὰς τέσσαρες, γίνονται ῥυπαραὶ δραχμαὶ [δ ] …
+r.3    … [ τ]οῦ κυρίου Παῦνι λ‡θ. Ἡρ …
+
+[TRANSLATION]
+1     
+2     
+3     

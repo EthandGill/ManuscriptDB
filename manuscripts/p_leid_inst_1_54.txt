@@ -1,0 +1,50 @@
+[META]
+id:       P.LEID.INST 1.54
+label:    P.LEID.INST 1.54
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     272 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (272 CE)
+# hgv-keywords: Vertrag — Kauf — Haus
+tm:       18479
+source:   https://papyri.info/ddbdp/p.leid.inst;1;54
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [Αὐρήλιος ] … [ τῆς λαμπρᾶς καὶ] λαμπροτάτης Ὀξυρυγ χειτῶν [πόλεως]
+r.2    [Αὐρηλίᾳ ] … [ διὰ τοῦ προνοητοῦ ] … [ Ἀ]ρτεμιδώρου ἀπ[ὸ ] …
+r.3    … [ χωρὶς κυρίου χρηματιζούσῃ κατὰ τὰ Ῥωμαίων ἔθ]η δικαίῳ τ[έκ]νων χαίρε[ιν. ] …
+r.4    [ὁμολογῶ πεπρακέναι σοι ἀπὸ τοῦ νῦν εἰς τὸν ἀεὶ χρόνον ] … [ πρό]τερον τοῦ Νίλου …
+r.5    … [ κλ]ηρονόμῳ κατὰ τοὺς ν[όμους]
+r.6    … [ οἰκίας] καὶ αὐλῆς καὶ χρηστη[ρίων]
+r.7    … μένην κατὰ τὸν …
+r.8    … [ ὧν γείτονες· νότου ] … [ αὐ]λή, λιβὸς …
+r.9    … [ τιμῆς τῆς συμπεφωνημένης πρὸς ἀλλήλους τῆς προκειμένης] οἰκίας καὶ αὐλῆς [καὶ χρηστηρίων]
+r.10   … [ δραχμῶν ] … [ ἅσπερ αὐτόθι ἀπέσχον παρὰ σο]ῦ ἐκ πλήρους [διὰ χειρὸς καὶ ἐπ][ερωτηθεὶς ὡμολόγησα. κρατεῖν οὖν σε καὶ κυριεύειν σὺν ἐκγόνοις κα]ὶ τοῖς παρὰ σο[ῦ] μεταλημψ[ομένοις]
+r.11   [τῆς πωλουμένης σοι ὑπʼ ἐμοῦ ] … [ οἰκίας καὶ αὐλῆς καὶ χρη]στηρίων πάντων καὶ ἐξο[υσίαν]
+r.12   [ἔχειν καὶ χρᾶσθαι καὶ οἰκονομεῖν περὶ αὐτοῦ ὡς ἐὰν αἱρῇ, μηδεμιᾶς ἐμ]οὶ μηδʼ ἄλλῳ μηδενὶ ὑπὲρ ἐ[μοῦ ἐφό][δου καταλειπομένης ἐπʼ αὐτό ] … μ …
+r.13   … α
+r.14   … [ πρ]ονοητῇ
+
+[TRANSLATION]
+# HGV-EN: [Aurelius A, son of B, function, of the illustrious and] most illustrious city of the Oxyrhynchites, [to Aurelia X, through her steward (Y son of?)] Artemidorus, from [..., acting without a guardian according to the Roman] customs on the basis of the ius liberorum, greetings. [I acknowledge having sold to you from now on forever - -] formerly belonging to Nilus [- - - now fallen to me as an ?] heir according to the laws [... house] and courtyard and appurtenances [...] according to the [... of which the adjacent properties are: to the south: ...] courtyard, to the west: [- - at the price on which we agreed for the aforementioned house and courtyard [and appurtenances being - - drachmas, which I received from you forthwith] in full [and in cash and in answer to the formal question I gave my consent. Therefore you shall possess and own with your descendants] and your successors [the house that was sold by me to you and the courtyard and] all the appurtenances and have power [over and use and control it as you wish, while there is no claim on it left whatsoever] for me or any other person on my behalf ....
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

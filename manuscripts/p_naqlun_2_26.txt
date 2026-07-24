@@ -1,0 +1,40 @@
+[META]
+id:       P.NAQLUN 2.26
+label:    P.NAQLUN 2.26
+name:     Letter — Naqlun (Arsinoites)
+genre:    letters
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Naqlun (Arsinoites)
+held:     
+shelf:    
+content:  Letter from Naqlun (Arsinoites) (501 CE – 600 CE)
+# hgv-keywords: Zwei Fragmente — Protokoll (Verhandlung) — Brief (?, amtlich?) — NN an NN — Bericht über Mord und Diebstahl (Vieh) — erneute Untersuchung (retractatio) — der Angelegenheit
+tm:       115536
+source:   https://papyri.info/ddbdp/p.naqlun;2;26
+lat:      29.193771
+lon:      30.876986
+
+[GREEK]
+r.1    πάλιν μεταξὺ … ν …
+r.2    καὶ τῶν τοῦ Ἀπολλωνοπολίτου καὶ Λυκοπολίτου καὶ
+r.3    Ὑψηλῆς πάντων εἰς φόνους καὶ [ἀ]πελασίας σχολαζόντων
+r.4    … εικ … εν
+r.5    … ἀληθεια …
+r.6    … [ἀ]ναψηλαφηθῇ τὸ πρᾶγμα …
+r.7    … [προσ][α]χθῆναι αὐτοὺς καὶ ζητῆσαι …
+r.8    … [ἀπὸ τ]ῆς Λύκων ἀπελθεῖν μετὰ τοῦ δου[κός] …
+r.9    … ἀπὸ τοῦ ω κα …
+
+[TRANSLATION]
+# HGV-EN: ... once more later ... since all the people of the Apollonopolite and Lykopolite (nomes) and of Hypsele devote themselves to murders and driving away (animals) ... ... truth ... in order that the case be revised ... them to be called before the judge and to investigate ... went off from (?) Lykopolis together with the dux(?) ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

@@ -1,0 +1,30 @@
+[META]
+id:       O.BRUX 9
+label:    O.BRUX 9
+name:     Receipt — Theben
+genre:    receipts
+date:     122 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (122 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       24374
+source:   https://papyri.info/ddbdp/o.brux;;9
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηνται εἰς θησαυρὸν κωμῶν
+r.2    γενήματος ϛ ἔτους Ἁδριανοῦ Καίσαρος
+r.3    τοῦ κυρίου Παῦνι ιζ
+r.4    ὀνόματος Ὧρος Ἐσμίνιος
+r.5    πυροῦ [ἀρτάβαι] τρεῖς, γίνονται πυροῦ ἀρτάβαι γ. Ἀπολλώνιος σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

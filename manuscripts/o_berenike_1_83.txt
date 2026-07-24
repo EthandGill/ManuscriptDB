@@ -1,0 +1,26 @@
+[META]
+id:       O.BERENIKE 1.83
+label:    O.BERENIKE 1.83
+name:     Documentary papyrus — Berenike
+genre:    documents
+date:     26 CE – 75 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     
+shelf:    
+content:  Documentary papyrus from Berenike (26 CE – 75 CE)
+# hgv-keywords: Abrechnung — Wein
+tm:       70860
+source:   https://papyri.info/ddbdp/o.berenike;1;83
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    Πετερμῆνις Παμίνεως
+r.2    οἴνου λαδικηνὰ δ Γαίου Ἰουλίου
+r.3    Ἐπαφροδίτου εἰς ἐξαρτισμόν.
+
+[TRANSLATION]
+1     
+2     
+3     

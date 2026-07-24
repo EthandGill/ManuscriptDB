@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1641
+label:    O.BODL 2.1641
+name:     Receipt — Theben
+genre:    receipts
+date:     77 CE – 78 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (77 CE – 78 CE)
+# hgv-keywords: Quittung — Steuern — Spreu
+tm:       72325
+source:   https://papyri.info/ddbdp/o.bodl;2;1641
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Κάσσιος στρατιώτης
+r.2    Παμώνθῃ Πανστοῆτος χαίρειν.
+r.3    ἀπέχω παρὰ σοῦ γόμον ἀχύρου.
+r.4    ἔτους ι Οὐεσπασιανοῦ τοῦ κυρίου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

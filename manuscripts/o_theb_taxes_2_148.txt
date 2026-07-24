@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB.TAXES 2.148
+label:    O.THEB.TAXES 2.148
+name:     Receipt — Theben
+genre:    receipts
+date:     247 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (247 BCE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       130140
+source:   https://papyri.info/ddbdp/o.theb.taxes;2;148
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους λθ Φαρμουθι
+r.2    ια ἔχει … κο
+r.3    … ς παρὰ Αρατηρχ …
+r.4    … του … τριώβολον
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

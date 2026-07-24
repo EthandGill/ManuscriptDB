@@ -1,0 +1,24 @@
+[META]
+id:       O.LEID 414
+label:    O.LEID 414
+name:     Receipt — Theben
+genre:    receipts
+date:     1 CE – 400 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (1 CE – 400 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       26434
+source:   https://papyri.info/ddbdp/o.leid;;414
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαῶφι λ ιδ Παχὼν λ ια
+r.2    Ἀπολ
+
+[TRANSLATION]
+1     
+2     

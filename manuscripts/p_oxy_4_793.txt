@@ -1,0 +1,24 @@
+[META]
+id:       P.Oxy. 4.793
+label:    P.Oxy. 4.793
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     88 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (88 CE)
+# hgv-keywords: Quittungen — Getreide
+tm:       20451
+source:   https://papyri.info/ddbdp/p.oxy;4;793
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    εἰς τὸ δημόσιον
+r.2    ἀπὸ διαστολῆς
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,28 @@
+[META]
+id:       BGU 10.1920
+label:    BGU 10.1920
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     240 BCE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (240 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       4979
+source:   https://papyri.info/ddbdp/bgu;10;1920
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [βα]σιλεύοντος Πτολεμα[ίου τοῦ Πτολεμαίου]
+r.2    καὶ Ἀρσινόης θεῶν Ἀδελφῶν ἔτος ζ Χοιὰχ …
+r.3    ἔχει Διόδωρος ἐξ Ἑρμοῦ πόλεως …
+r.4    παρὰ Νικάνορος τρα[πεζίτου ἀπὸ τῆς ἐν Ὀξυρύγ][χοις τραπέζης]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

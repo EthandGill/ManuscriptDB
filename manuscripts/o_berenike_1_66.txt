@@ -1,0 +1,26 @@
+[META]
+id:       O.BERENIKE 1.66
+label:    O.BERENIKE 1.66
+name:     Documentary papyrus — Berenike
+genre:    documents
+date:     26 CE – 75 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     
+shelf:    
+content:  Documentary papyrus from Berenike (26 CE – 75 CE)
+# hgv-keywords: Anweisung — Wein
+tm:       70843
+source:   https://papyri.info/ddbdp/o.berenike;1;66
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    [Ἀ]νδουρ[ωι] [κουιν]τανησίῳ·πάρες Τ[ιβερίου Κλαυδίου]
+r.2    Δωρίω[νος ] … το Πακ[οίβεως οἴνου]
+r.3    ἰταλικὰ …
+
+[TRANSLATION]
+1     
+2     
+3     

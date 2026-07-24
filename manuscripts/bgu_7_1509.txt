@@ -1,0 +1,42 @@
+[META]
+id:       BGU 7.1509
+label:    BGU 7.1509
+name:     Documentary papyrus — Philadelphia (Arsinoites)
+genre:    documents
+date:     205 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Philadelphia (Arsinoites) (205 BCE)
+# hgv-keywords: Abrechnung — Transporte (Futter)
+tm:       4759
+source:   https://papyri.info/ddbdp/bgu;7;1509
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    [ἔτους ][ι]ζ ἀνενήνεκται … ρσων χόρτου φοραὶ κ,
+r.2    [ἀν]ενηνόχασι ἐκ τοῦ … [ χ]όρτον Παχὼν δ φορὰς η,
+r.3    [ε] φορὰς η, ϛ φορὰς η, ζ φορὰς [η, η] φορὰς η, θ φορὰς η, ια ϛ, ιβ η,
+r.4    [ι]γ η, ιδ φορὰς ϛ, ιε φορὰς [η], ιϛ φορὰς δ, ιθ φορὰς γ, κ φορὰς η,
+r.5    κα γ, κβ η, κγ η, κδ η, κε η γίνονται φοραὶ ρλδ.
+r.6    ιδ μίσθιοι ὄνοι β ἐποίησαν φορὰς β γίνονται φοραὶ δ,
+r.7    ιε μίσθιοι δ γίνονται φοραὶ η, ιϛ μίσθιοι δ μίαν
+r.8    φοράν γίνονται φοραὶ δ, ιθ μίσθιοι δ φορὰν μίαν
+r.9    γίνονται φοραὶ δ, κ ὄνοι β φορὰς δ, κβ φορὰς ε, κγ φορὰς ϛ
+r.10   γίνονται φοραὶ λε γίνονται τὰ πάντα
+r.11   φοραὶ ρξθ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

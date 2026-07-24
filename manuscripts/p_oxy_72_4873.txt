@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 72.4873
+label:    P.Oxy. 72.4873
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     132 CE – 133 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (132 CE – 133 CE)
+# hgv-keywords: Auftrag an die Sitologen von Thosbis (diastolikon) — Giro - Überweisung von Weizen
+tm:       114253
+source:   https://papyri.info/ddbdp/p.oxy;72;4873
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    … χ …
+r.2    [καὶ Π]αποντῶ[τι σιτολόγοις]
+r.3    [Θ]ώσβεως τόπων [χαίρειν. διαστείλα]τε ἀφʼ οὗ ἔχετέ [μου ἐν θέμα][τι] πυροῦ γενή[ματος τοῦ ἑκκαι]δεκάτου ἔτους Ἁ[δριανοῦ τοῦ]
+r.4    κυρίου Φανίαι …
+r.5    [ἢ ο]ἷς ἐὰν αἱρῆται π[υροῦ ἀρτάβας]
+r.6    [ἑκ]ατόν, γίνοντ[αι] [ἀρτάβαι ρ. ἔτους]
+r.7    ἑπτακαιδεκάτου Α[ὐτοκράτορος Καίσαρος]
+r.8    Τραϊανοῦ Ἁδριανοῦ [Σεβαστοῦ, ]
+r.9    κη.
+
+[TRANSLATION]
+# HGV-EN: . . . and Papontos, sitologi of the district of Thosbis, greetings. Transfer, from the amount you hold on deposit for me, from the wheat-crop of the sixteenth year of Hadrianus the lord, to Phanias . . . or whomever he chooses one hundred artabas of wheat, total 100 art. Year seventeenth of Imperator Caesar Traianus Hadrianus Augustus, month 28. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

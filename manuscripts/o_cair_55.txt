@@ -1,0 +1,26 @@
+[META]
+id:       O.CAIR 55
+label:    O.CAIR 55
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     101 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (101 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       73401
+source:   https://papyri.info/ddbdp/o.cair;;55
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    διαγεγράφασι Φθομώνθης Πιουήριος καὶ Ψ[ενμώνθης]
+r.2    Φθομώνθου ὑπὲρ ἐνκυκλίου Μεμνονείων δ ἔτους δραχμὰς … [ ἔτους ε Τραιανοῦ]
+r.3    Καίσαρος τοῦ κυρίου Φαῶφι κδ.
+
+[TRANSLATION]
+1     
+2     
+3     

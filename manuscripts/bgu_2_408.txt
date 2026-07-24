@@ -1,0 +1,56 @@
+[META]
+id:       BGU 2.408
+label:    BGU 2.408
+name:     Receipt — Philadelphia (Arsinoites, Ägypten) oder Aphroditopolites, Ägypten
+genre:    receipts
+date:     315 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites, Ägypten) oder Aphroditopolites, Ägypten
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites, Ägypten) oder Aphroditopolites, Ägypten (315 CE)
+# hgv-keywords: Quittung — Pachtzins — Getreide
+tm:       9152
+source:   https://papyri.info/ddbdp/bgu;2;408
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    Αὐρήλιος Βετῖλ Ἰσιδώρου μητρὸς Ἀειάδος ἀπὸ
+r.2    κώμης Φιλαδελφίας
+r.3    Αὐρηλίῳ Ἰσᾶ Ἀμούλη ἀπὸ
+r.4    τοῦ Ἀφροδιτοπολίτου χαίρειν.
+r.5    ἔσχον παρὰ σοῦ τὸ ἐκφόριον ὑπὲρ ὧν γεωργεῖς μου
+r.6    ἀρούρης ἥμισυ περὶ τὴν αὐτὴν
+r.7    κώμην Φιλαδελφίαν
+r.8    πυροῦ ἀρτάβην μίαν ἥμισυ, ἀρτάβη α 𐅵 καὶ οὐδένα
+r.9    λόγον ἔχω πρὸς σὲ
+r.10   πλῆρες, ὑπὲρ ὧν ἐγεώργησας μου ἐπʼ ἔτος η καὶ ϛ
+r.11   ὡς πρόκιται καὶ ἐπερωτηθεὶς ὡμολόγησα.
+r.12   Αὐρήλιος Σωκρᾶς ἔγραψα
+r.13   ὑπὲρ αὐτοῦ ἀγραμμάτου.
+r.14   ὑπατείας τῶν δεσποτῶν
+r.15   ἡμῶν Κωνσταντίνου
+r.16   καὶ Λικιννιανοῦ Λικιννίου Σεβαστῶν [τὸ δ]
+r.17   Ἁθὺρ κϛ.
+
+[TRANSLATION]
+# HGV-EN: Aurelius Betil, son of Isidoros, mother Aeias, from the village of Philadelphia, to Aurelius Isas, son of Amoule from the Aphroditopolite nome, greetings. I have received from you for rent in kind for the half aroura of mine near the same village of Philadelphia, which you farm, one and a half artabas, 1 ½ artabas, in full, and I have no claim against you, for that which you farmed for me for year 8 and 6, as aforesaid, and in answer to the formal question I gave my assent. Aurelius Sokras, wrote on his behalf, because he is illiterate. In the <3rd> consulship of our lords Constantinus and Licinius Licinianus, Augusti, Hathyr 26.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 49
+label:    O.LEID 49
+name:     Receipt — Theben
+genre:    receipts
+date:     31 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (31 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24621
+source:   https://papyri.info/ddbdp/o.leid;;49
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁρβῆχις Ἀγαθάμονος Παβοῦτι
+r.2    Παβούτιος χαίρειν· ἀπέσχηκα παρὰ σοῦ
+r.3    τὸ τέλος ἁμάξης ἕως τοῦ Μεχεὶρ μηνός.
+r.4    ἔτους ιζ Τιβερίου Καίσαρος
+r.5    Σεβαστοῦ Μεχὲρ ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

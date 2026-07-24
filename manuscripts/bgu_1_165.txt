@@ -1,0 +1,26 @@
+[META]
+id:       BGU 1.165
+label:    BGU 1.165
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (101 CE – 300 CE)
+# hgv-keywords: Quittung
+tm:       28229
+source:   https://papyri.info/ddbdp/bgu;1;165
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    β κλῆρος
+r.2    γείτονος ἐλαιῶνος κλῆρος ἔχον[τ]α οπου
+r.3    θέντα λε ἀνὰ μέσον τῶν καλάμ
+
+[TRANSLATION]
+1     
+2     
+3     

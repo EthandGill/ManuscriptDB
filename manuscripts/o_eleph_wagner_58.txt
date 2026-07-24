@@ -1,0 +1,26 @@
+[META]
+id:       O.ELEPH.WAGNER 58
+label:    O.ELEPH.WAGNER 58
+name:     Receipt — Elephantine
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (144 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24237
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;58
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Νεμώνιος Λόνγος ἐπιτηρητὴς] πεντηκοστῆς διὰ Διο[νυσίου ] … ς χαίρειν. ἄπεσχον παρὰ σοῦ
+r.2    … μόσχου α. ζ ἔτους
+r.3    [Ἀντωνίνου τοῦ κυρίου] Παῦνι δ.
+
+[TRANSLATION]
+1     
+2     
+3     

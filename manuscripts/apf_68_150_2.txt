@@ -1,0 +1,36 @@
+[META]
+id:       APF 68.150_2
+label:    APF 68.150_2
+name:     Receipt — Hermopolis (Hermopolites, Ägypten)
+genre:    receipts
+date:     501 CE – 700 CE
+language: Greek (Koiné)
+found:    Hermopolis (Hermopolites, Ägypten)
+held:     London
+shelf:    
+content:  Receipt from Hermopolis (Hermopolites, Ägypten) (501 CE – 700 CE)
+# hgv-keywords: Quittung
+tm:       38317
+source:   https://papyri.info/ddbdp/apf;68;150_2
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    δέδωκεν διαφόρων διὰ τοῦ θαυμασιωτάτου Φοιβάμμωνος
+r.2    ὑπὲρ τῆς ἐλευθέρας ὑπὲρ γ μέρους εἰς λόγον δημοσίων
+r.3    ἀννωνῶν τρεισκαιδεκάτης ἰνδικτίωνος χρυσοῦ
+r.4    κεράτιον ἓν ἥμισυ τρίτον δωδέκατον,
+r.5    γίνεται χρυσοῦ κεράτιον α 𐅵γιβ. Ἀφοῦς καὶ Ἰσὰκ διαστολεῖς
+r.6    δι’ ἐμοῦ Ἰακυβίου λογογράφου συμφωνοῦσι.
+r.7    ἀπόδειξις Ἰακυβίου πα …
+
+[TRANSLATION]
+# HGV-EN: There have been given for various (names) through the most admirable Phoibammon for his wife for the 1/3-share for the account of the public taxes of the annonae of the thirteenth indiction, one one-half one-third one-twelfth carat of gold, total 1 1/2 1/3 1/12 carat of gold. Aphous and Isak, diastoleis, through me, Iakybios, logographos, agree. Receipt of Iakybios …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

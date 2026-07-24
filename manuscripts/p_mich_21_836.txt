@@ -1,0 +1,40 @@
+[META]
+id:       P.Mich. 21.836
+label:    P.Mich. 21.836
+name:     Receipt — Fundort: Karanis (Arsinoites) - 1930
+genre:    receipts
+date:     129 CE
+language: Greek (Koiné)
+found:    Fundort: Karanis (Arsinoites) - 1930
+held:     Ann Arbor
+shelf:    
+content:  Receipt from Fundort: Karanis (Arsinoites) - 1930 (129 CE)
+# hgv-keywords: Quittung — Nomarchen — Geld
+tm:       756870
+source:   https://papyri.info/ddbdp/p.mich;21;836
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ἔτους τεσσαρεσκαιδεκά[τ]ου
+r.2    Αὐτοκράτορος Καίσαρος
+r.3    Τραιανοῦ Ἁδριανοῦ
+r.4    Σεβαστοῦ Θὼθ ϛ. Ἀπολλώνιος
+r.5    καὶ Θέων νομάρχαι ἔσχομεν
+r.6    διὰ Ἡρακλ χειριστοῦ ρν πύλης
+r.7    Καρανίδος, διὰ Ψεναμούνιος
+r.8    ἀραβοτοξότου δραχμὰς ἑκατὸν
+r.9    δεκατέσσερας, γίνονται δραχμαὶ ριδ.
+
+[TRANSLATION]
+# HGV-EN: Year 14 of Imperator Caesar Traianus Hadrianus Augustus, Thoth 6. We, Apollonios and Theon, nomarchs, have received through Herakl[...], assistant of the 1%-and-2% duty of the gate of Karanis, through Psenamounis, Arab archer, one hundred and fourteen drachmas, which comes to 114 dr.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

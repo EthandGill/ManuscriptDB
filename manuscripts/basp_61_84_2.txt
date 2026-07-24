@@ -1,0 +1,30 @@
+[META]
+id:       BASP 61.84_2
+label:    BASP 61.84_2
+name:     Receipt — Dios Polis
+genre:    receipts
+date:     49 CE
+language: Greek (Koiné)
+found:    Dios Polis
+held:     Uppsala
+shelf:    
+content:  Receipt from Dios Polis (49 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       1000259
+source:   https://papyri.info/ddbdp/basp;61;84_2
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    διαγέγραφε Σενμούθης Πετοσίριος διὰ Πετεμενώφιος ὑπὲρ
+r.2    φοινικώνων θ ἔτους [ἀρούρης] 𐅵 δ η ιϛ δραχμὰς ιη τετρώβολον ἡμιωβέλιον καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου
+r.3    ἔτους ι Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ
+r.4    Γερμανικοῦ Αὐτοκράτορος μηνὸς Νέου Σεβαστοῦ
+r.5    λ ια. Ἀλέξανδρος Κεφάλου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

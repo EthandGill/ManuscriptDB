@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 1.292
+label:    O.BODL 1.292
+name:     Documentary papyrus — Theben (?)
+genre:    documents
+date:     200 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (?) (200 BCE – 1 BCE)
+# hgv-keywords: Namen
+tm:       71017
+source:   https://papyri.info/ddbdp/o.bodl;1;292
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀπολλωνίῳ Ἀμμωνίου τοῦ Φιλ …
+r.2    Ἑρμοδώρῳ Ἠπιοδώρου … η …
+r.3    Ἀπολλωνίῳ Ἑρμοδώρου.
+r.4    Ἡραίδι τῇ τοῦ κ … λ
+r.5    Νικοστράτῳ Ἡρακλείδου.
+r.6    … εελαιτου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

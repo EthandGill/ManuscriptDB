@@ -1,0 +1,32 @@
+[META]
+id:       BGU 1.107
+label:    BGU 1.107
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (158 CE – 159 CE)
+# hgv-keywords: Quittung — Saat (Getreide)
+tm:       8881
+source:   https://papyri.info/ddbdp/bgu;1;107
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σπερμάτων κβ ἔτους Ἀντωνείνου
+r.2    Καίσαρος τοῦ κυρίου μα
+r.3    κληρουχίας Κόμων
+r.4    ἀπάτωρ Πατσώντεως βασιλικῆς
+r.5    ἀρούρης 𐅵
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 22 of Antoninus Caesar, the lord. 41st cleruchy. Komon, father unknown. At Patsontis 1/2 an aroura of royal (land).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

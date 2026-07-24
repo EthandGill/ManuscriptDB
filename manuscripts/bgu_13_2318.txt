@@ -1,0 +1,30 @@
+[META]
+id:       BGU 13.2318
+label:    BGU 13.2318
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     204 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (204 CE)
+# hgv-keywords: Quittung — Torzoll — Esel — Datteln
+tm:       31951
+source:   https://papyri.info/ddbdp/bgu;13;2318
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    τετελώνηται διὰ πύλης Φιλαδελφίας
+r.2    ἴχνους ἐρημοφυλακίας
+r.3    Τούρβων ἐξάγων ἐπὶ
+r.4    ὄνῳ ἑνί α φοίνικος ἀρτάβην μίαν α
+r.5    ἔτους ιβ Μεχεὶρ τρίτῃ γ· χωρὶς σφραγῖδος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

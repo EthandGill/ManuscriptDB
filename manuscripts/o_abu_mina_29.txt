@@ -1,0 +1,24 @@
+[META]
+id:       O.ABU.MINA 29
+label:    O.ABU.MINA 29
+name:     Documentary papyrus — Abu Mena
+genre:    documents
+date:     601 CE – 650 CE
+language: Greek (Koiné)
+found:    Abu Mena
+held:     
+shelf:    
+content:  Documentary papyrus from Abu Mena (601 CE – 650 CE)
+# hgv-keywords: Anweisung — Ausgabe von Wein
+tm:       116228
+source:   https://papyri.info/ddbdp/o.abu.mina;;29
+lat:      30.8416054715
+lon:      29.6670462965
+
+[GREEK]
+r.1    παράσχου Ἰακὼβ μονάζοντι
+r.2    ὑπὲρ τρυγ κόλλαθον ἥμισυ
+
+[TRANSLATION]
+1     
+2     

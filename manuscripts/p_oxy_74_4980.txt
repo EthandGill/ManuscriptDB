@@ -1,0 +1,46 @@
+[META]
+id:       P.Oxy. 74.4980
+label:    P.Oxy. 74.4980
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     34 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (34 CE)
+# hgv-keywords: Ende einer Deklaration (Zensus) — Eid (Kaisereid)
+tm:       128285
+source:   https://papyri.info/ddbdp/p.oxy;74;4980
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Καίσαρα …
+r.2    Σεβαστὸν [Αὐτοκράτορα θεοῦ]
+r.3    Σεβαστοῦ [υἱὸν ἦ μὴν ἐξ ὑγιοῦς]
+r.4    καὶ ἐπ᾽ ἀλη[θείας ἐπιδεδωκέναι]
+r.5    τὴν προ[κειμένην] … αν …
+r.6    γυναικῶν τ … τῶν παρ᾽ ἐμοὶ
+r.7    οἰκούντ[ων] … ᾗ παράκειται ἡ ἑκάστου … [καὶ] μηδένα ἕτερον
+r.8    μήτε Ῥωμ[αῖον μ]ηδὲ ἀπελεύθερον
+r.9    μηδὲ Ἀλ[εξαν]δρέα μηδὲ ἐπίξενον μηδ’ [ἄλλο]ν μηδένα τῷ καθόλου παρὲξ τῶν προγεγραμμένων οἰκεῖν παρ’ ἐμοί. εὐορκοῦντι μέν μοι εὖ εἴη,
+r.10   ἐπιορκοῦντι δὲ τὰ ἐναντία.
+r.11   ἔτους κ Τιβερίου Καίσαρος Σεβαστοῦ,
+r.12   Φαμενωθ ια.
+
+[TRANSLATION]
+# HGV-EN: . . . Caesar . . . Augustus Imperator, son of the divine Augustus, that I have indeed honestly and truthfully submitted the above (return?) of . . . women . . . who live with me . . . , to which everyone’s . . . is annexed, and that no one else, neither Roman nor freedman nor Alexandrian nor alien nor anyone else at all, lives with me except for the above-written. If I observe the oath, may it be well with me, but if I swear falsely, the reverse. Year 20 of Tiberius Caesar Augustus, Phamenoth 11. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 1.122
+label:    P.Oxy. 1.122
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     276 CE – 400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (276 CE – 400 CE)
+# hgv-keywords: Brief (amtlich) — Gaianos an den eparchos Agenor — Schwierigkeiten bei der Beschaffung wilder Tiere
+tm:       31348
+source:   https://papyri.info/ddbdp/p.oxy;1;122
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … ς Γαιανός· χρησ[τ]έ μου
+r.2    [ἄδελφ]ε Ἀγήνωρ, χαῖρε.
+r.3    [τὰ πα]ρὰ σοῦ κομισθέντα μοι
+r.4    [περὶ τὴ]ν τῶν Κρονίων ἡμέραν
+r.5    [ἡδ]έως ἔλαβον· ἐπεπόμφειν
+r.6    δʼ ἂν αὐτὸς θᾶττον πρὸς σὲ εἰ παρῆσάν μ[οι] πλείονες στρατιῶται,
+r.7    ἀλλʼ Ἐπ … ς ὑπέστρεφεν, ἡμεῖ[ς] δὲ ἀγρεύειν τῶν θηρίων
+r.8    δυνά[με]θα οὐδὲ ἕν . ἐπέμψαμεν
+r.9    δέ σοι κ … ων … ου ἀπὸ αειλων
+r.10   ᾧ χρή[σῃ ἡδέ]ω[ς][. ἐρ]ρῶσθαί σε,
+r.11   κύριέ μου ἄδελφε,
+r.12   πολλοῖς χρόνοις
+r.13   καὶ προκόπτειν εὔχομαι.
+r.14   … ιω Ἀγήνορι ἐπάρχῳ.
+
+[TRANSLATION]
+# HGV-EN: From ......s Gaianus. Greeting, my good brother Agenor! I received at once about the day of the Saturnalia what you dispatched to me. I should have sent to you myself more quickly if I had had more soldiers with me; but... went back and we cannot catch a single animal. I send for your use.... I pray, my dear brother, for your lasting health and prosperity.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

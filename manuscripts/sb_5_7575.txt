@@ -1,0 +1,36 @@
+[META]
+id:       SB 5.7575
+label:    SB 5.7575
+name:     Letter — Elephantine
+genre:    letters
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Letter from Elephantine (1 CE – 200 CE)
+# hgv-keywords: Brief (privat) — Petesuchos an Neilas — Kleidung — Einladung zum Fest
+tm:       25301
+source:   https://papyri.info/ddbdp/sb;5;7575
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Πετεσοῦχος Νειλᾷ τῷ ἀδελφῶι χαίρειν.
+r.2    ἔνεγκέ μοι κάλον λινοῦν
+r.3    σὺν τῷ ἐπικαρσίωι· τὸ γὰρ
+r.4    πρῶτον ἐπικάρσιον μικρόν
+r.5    ἐστι· καὶ τὴν φασκίαν
+r.6    ἔνεγκε· καὶ ἐλθὲ πρὸς
+r.7    τὴν ἑορτήν.
+
+[TRANSLATION]
+# HGV-EN: Petesouchos to Neilas my brother, greetings. Bring me the fine linen with the striped garment; for the previous striped garment is small; and bring the band, and come to the festival.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

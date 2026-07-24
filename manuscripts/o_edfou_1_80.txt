@@ -1,0 +1,32 @@
+[META]
+id:       O.EDFOU 1.80
+label:    O.EDFOU 1.80
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     110 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (110 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       47020
+source:   https://papyri.info/ddbdp/o.edfou;1;80
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Πεσοῦρις Ἰάσωνος
+r.2    μερισμοῦ δι ιβ ἔτους Τραιανοῦ τοῦ κυρίου
+r.3    ὀβολὸν ἡμιωβέλιον
+r.4    Δῶσας Πεσούριος
+r.5    ὀβολὸν α ἡμιωβέλιον ἔτους ιγ Παῦνι
+r.6    δ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

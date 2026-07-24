@@ -1,0 +1,24 @@
+[META]
+id:       O.BODL 2.2251
+label:    O.BODL 2.2251
+name:     Receipt — Theben
+genre:    receipts
+date:     174 CE – 175 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (174 CE – 175 CE)
+# hgv-keywords: Quittung — Steuern — Naturalien
+tm:       72885
+source:   https://papyri.info/ddbdp/o.bodl;2;2251
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    γενήματος ιε ἔτους
+r.2    δραχμὰς τεσσαράκοντα γίνονται δραχμαὶ μ
+
+[TRANSLATION]
+1     
+2     

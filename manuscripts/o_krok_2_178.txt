@@ -1,0 +1,44 @@
+[META]
+id:       O.KROK 2.178
+label:    O.KROK 2.178
+name:     Letter — Krokodilo
+genre:    letters
+date:     98 CE – 117 CE
+language: Greek (Koiné)
+found:    Krokodilo
+held:     Qift
+shelf:    
+content:  Letter from Krokodilo (98 CE – 117 CE)
+# hgv-keywords: Brief (privat) — Kapparis (?) an Philokles — Zusendung — Gefäße — Schlüßel — Tür
+tm:       704463
+source:   https://papyri.info/ddbdp/o.krok;2;178
+lat:      25.9426109674
+lon:      33.4011614055
+
+[GREEK]
+r.1    … Φιλοκλῆτι
+r.2    … [κ]έλλα σου η …
+r.3    … [τ]οὺς ἱππέας
+r.4    … [κ]αὶ οὐκ ἔδωκα
+r.5    … ω αὐτοὺς δύω
+r.6    … ες ἔπεμψα αὐ… [πα]ρὰ σοῦ τὴν ανεξ… θελις πωλῆ[σαι] … πέμψον μοι φα… [κ]αὶ δύω πίθους
+r.7    [κ]αὶ κρεμάστρα[ν] καὶ
+r.8    κλεῖδα καὶ θύρα[ν].
+r.9    λοιπόν, πέμψον
+r.10   μοι μετὰ αὐτοὺς σημεῖον.
+r.11   ἔρρωσο.
+
+[TRANSLATION]
+# HGV-EN: … send me word and two storage jars and a larder-hook and a key and a door. Finally, send me a sign with them. Farewell.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

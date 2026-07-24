@@ -1,0 +1,32 @@
+[META]
+id:       O.CLAUD 3.443
+label:    O.CLAUD 3.443
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     137 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (137 CE)
+# hgv-keywords: Quittung — Empfang — Ration (Getreide)
+tm:       73626
+source:   https://papyri.info/ddbdp/o.claud;3;443
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    [Πτολεμαῖος Εἰρη]ναίου Μενελάῳ κ[ιβ]αριάτῃ χαίρειν.
+r.2    [ὁμολογῶ ][προκε]χρῆσθαι παρὰ σοῦ [ὑ]πὲρ μηνὸς
+r.3    [Ἁθυρ τοῦ δευτέρ]ου καὶ εἰκοστ[οῦ ἔ]τους Ἁδριανοῦ
+r.4    [Καίσαρος τοῦ κυρ]ίου σίτου ἡ[μιαρ]τάβιον ὃ καὶ ἀπο[δώσεις Σεραπίων]ι Ἀνδρονείκ[ου. ἔτους κβ] Ἁδριανοῦ
+r.5    [Καίσαρος τοῦ κυρίο]ι Φαω[φι ] …
+r.6    [Πτολεμαῖος ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

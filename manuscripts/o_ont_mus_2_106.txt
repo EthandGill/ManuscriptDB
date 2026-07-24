@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.106
+label:    O.ONT.MUS 2.106
+name:     Receipt — Theben
+genre:    receipts
+date:     105 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (105 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75125
+source:   https://papyri.info/ddbdp/o.ont.mus;2;106
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φιλόξενος καὶ μέ[τοχοι] …
+r.2    Ἀπολ Φαήριο[ς ] …
+r.3    παρ τέλος τοῦ η [ἔτους ] …
+r.4    Αὐτοκράτορος Κ[αίσαρος Νέρουα Τραιανοῦ]
+r.5    Σεβαστοῦ Γερμανικοῦ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

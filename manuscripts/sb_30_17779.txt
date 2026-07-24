@@ -1,0 +1,36 @@
+[META]
+id:       SB 30.17779
+label:    SB 30.17779
+name:     Contract — Oxyrhynchos (Oxyrhynchites, Ägypten)
+genre:    contracts
+date:     95 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos (Oxyrhynchites, Ägypten)
+held:     Cambridge
+shelf:    
+content:  Contract from Oxyrhynchos (Oxyrhynchites, Ägypten) (95 CE)
+# hgv-keywords: Registrierung — Kauf (Land)
+tm:       20586
+source:   https://papyri.info/ddbdp/sb;30;17779
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [Φανίας] καὶ Ἡρακλᾶς καὶ Διογένης ὁ καὶ Ἑρμα[ῖ]ο[ς] οἱ ἀσχολούμενοι τοὺς καταλοχισμοὺς
+r.2    τοῖς ἀγορανόμοις χαίρειν. Θέωνος
+r.3    τοῦ Δημητρίου τοῦ Σαραπίωνος παρακεχωρημένου παρὰ Νικαρίου
+r.4    τῆς Διογένους τοῦ Ζωίλου μετὰ
+r.5    κυρίου τοῦ ἀνδρὸς Σαραπίωνος
+r.6    τοῦ Φανίου καθ’ ὁμολογίαν γεγονυῖαν διὰ τοῦ ἐν τῇ αὐτῇ πόλει μνημονείου τῷ ἐνεστῶτι μηνὶ Νέῳ Σεβαστῷ
+r.7    τὰς ὑπαρχούσας αὐτῇ περὶ Τοου
+
+[TRANSLATION]
+# HGV-EN: Phanias, Heraclas, and Diogenes alias Hermaeus, officials in charge of the katalochismoi registers, to the agoranomi, greetings. Theon, son of Demetrius, son of Sarapion, has had ceded to him by Nicarion, daughter of Diogenes, son of Zoilus, with her husband Sarapion, son of Phanias, as guardian, in accordance with the contract executed through the notarial office (mnemoneion) in the same city, in the present month Neos Sebastos, the (n arouras) belonging to her around Toou ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

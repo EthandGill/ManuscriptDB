@@ -1,0 +1,30 @@
+[META]
+id:       O.ELKAB 182
+label:    O.ELKAB 182
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     114 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (114 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24593
+source:   https://papyri.info/ddbdp/o.elkab;;182
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    Φῖβις Ὥρου χωματικοῦ ιζ ἔτους
+r.2    Τραιανοῦ Καίσαρος
+r.3    τοῦ κυρίου δραχμὰς β τετρώβολον, προσδιαγραφομένων ὀβολὸν,
+r.4    γίνονται δραχμαὶ β πεντώβολον, ἀφανῶν δραχμὴν α.
+r.5    ἔτους ιζ Ἐπὶφ δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

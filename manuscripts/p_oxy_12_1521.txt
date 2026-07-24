@@ -1,0 +1,28 @@
+[META]
+id:       P.Oxy. 12.1521
+label:    P.Oxy. 12.1521
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     113 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (113 CE)
+# hgv-keywords: Quittung — Zahlung (Teil) von Steuer (Kopf?) — Namen — Geld
+tm:       21896
+source:   https://papyri.info/ddbdp/p.oxy;12;1521
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ιζ ἔτους Τραιανοῦ Καίσαρος
+r.2    τοῦ κυρίου Ἁθὺρ ε. διέγραψε
+r.3    Δίῳ πράκτορι ἀργυρικῶν μητροπόλεως λαογραφίας τοῦ αὐτοῦ [ιζ] ἔτους Νότου Κρηπῖδος Εὐδαίμων
+r.4    Σαραπίωνος ἐπὶ λόγου δύο τριώβολον, γίνονται β τριώβολον, προσδιαγραφομένων χαλκοῦς β.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

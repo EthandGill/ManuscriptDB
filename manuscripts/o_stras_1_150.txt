@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.150
+label:    O.STRAS 1.150
+name:     Receipt — Theben
+genre:    receipts
+date:     210 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (210 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75751
+source:   https://papyri.info/ddbdp/o.stras;1;150
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσορὴ ιθ τοῦ ιη ἔτους ὀνόματος Θερμούθιος
+r.2    Ψεντκαλίβιος ὑπὲρ γεωμετρίας Ἀγορᾶς ιη ἔτους δραχμὰς τέσσαρας
+r.3    γίνονται δραχμαὶ δ. Ὧρος σεσημείωμαι. ἄλλας Θῶθ κε ὁμοίως δραχμὰς τέσσαρας
+r.4    γίνονται δραχμαὶ δ. Ὧρος σεσημείωμαι. ἄλλας Φαῶφι ιδ ὁμοίως δραχμὰς ἕξ τετρώβολον γίνονται δραχμαὶ ϛ τετρώβολον. Ὧρος
+r.5    σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

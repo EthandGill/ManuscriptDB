@@ -1,0 +1,26 @@
+[META]
+id:       O.ONT.MUS 2.118
+label:    O.ONT.MUS 2.118
+name:     Receipt — Theben
+genre:    receipts
+date:     118 CE – 119 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (118 CE – 119 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75137
+source:   https://papyri.info/ddbdp/o.ont.mus;2;118
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θέων πράκτωρ ἀργυρικῶν Φμόιτι
+r.2    Ἀπολλῶτος ἔσχον ὑπὲρ χωματικοῦ ὀνόματος Ζωίλ[ου]
+r.3    … ἔτους ιγ Ἁδριανοῦ Καίσαρ[ος ] …
+
+[TRANSLATION]
+1     
+2     
+3     

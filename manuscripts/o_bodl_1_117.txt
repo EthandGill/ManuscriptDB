@@ -1,0 +1,36 @@
+[META]
+id:       O.BODL 1.117
+label:    O.BODL 1.117
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     107 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (107 BCE)
+# hgv-keywords: Quittung — Steuern — Bank
+tm:       43606
+source:   https://papyri.info/ddbdp/o.bodl;1;117
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ι Φαμενὼθ …
+r.2    τέτακται
+r.3    Μ … εν … τ …
+r.4    … σκ γίνονται σκ
+r.5    τὸ γινόμενον
+r.6    τέλος.
+r.7    Τε … μ … κρατ …
+r.8    ερπιμο …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.126
+label:    O.STRAS 1.126
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     89 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (89 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75726
+source:   https://papyri.info/ddbdp/o.stras;1;126
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    διέγραψεν Παχοῦμις Καλήους Παχούμιος
+r.2    μερισμοῦ σκοπέλων θ ἔτους Δομιτιανοῦ
+r.3    δραχμὴν α, η ἔτους ὀβολοὺς γ.
+r.4    ἔτους θ Ἁθὺρ α.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

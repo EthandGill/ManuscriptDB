@@ -1,0 +1,42 @@
+[META]
+id:       BGU 2.463
+label:    BGU 2.463
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     148 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (148 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       9191
+source:   https://papyri.info/ddbdp/bgu;2;463
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἔτους ια Αὐτοκράτορος Καίσαρος
+r.2    Τίτου Αἰλίου Ἁδριανοῦ
+r.3    Ἀντωνίνου Σεβαστοῦ Εὐσεβοῦς
+r.4    Φαμενὼθ κϛ. διέγραψε Αἰλίωι Εὐτυχεῖ
+r.5    τῷ καὶ Κλέωνι νομάρχῃ διὰ Κλαυδίου
+r.6    Τυράννου Σοκνοπαίου τέλος μόσχου
+r.7    θυομένου τῇ αὐτῇ ἡμέραι ἐν Νήσωι
+r.8    Σοκνοπαίου Πακῦσις Πακύσεως
+r.9    τοῦ Ἑριέως ἀπὸ Σοκνοπαίου Νήσου
+r.10   δραχμὰς εἴκοσι τέσσαρες ὀβολοὺς δώδεκα.
+
+[TRANSLATION]
+# HGV-EN: Year 11 of Imperator Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, Phamenoth 26. Pakysis, son of Pakysis, the son of Herieus, from Soknopaiou Nesos, paid to Aelius Eutyches alias Kleon, nomarch, through Claudius Tyrannos, twenty four drachmas twelve obols for the tax on a calf, which is to be sacrificed for Soknopaios on the same day in Soknopaiou Nesos.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

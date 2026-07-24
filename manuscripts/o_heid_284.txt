@@ -1,0 +1,30 @@
+[META]
+id:       O.HEID 284
+label:    O.HEID 284
+name:     Receipt — Theben (Notos)
+genre:    receipts
+date:     166 CE
+language: Greek (Koiné)
+found:    Theben (Notos)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos) (166 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       80501
+source:   https://papyri.info/ddbdp/o.heid;;284
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μέτρημα θησαυροῦ] μητροπόλεως γενήματος ϛ ἔτους Ἀντωνίνου
+r.2    [καὶ Οὐήρου] τῶν κυρίων Σεβαστῶν
+r.3    [] [ὑ]πὲρ Νότου ὀνόματος Πετεαρ… Ἀμενρώσιος πυροῦ ἀρτάβας δύο,
+r.4    [γίνονται πυροῦ ἀρτάβαι β, καὶ] ὀνόματος Πετεαρ… υἱοῦ πυροῦ ἀρτάβας δύο,
+r.5    [γίνονται πυροῦ ἀρτάβαι β.] Ἀμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

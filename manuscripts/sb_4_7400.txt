@@ -1,0 +1,28 @@
+[META]
+id:       SB 4.7400
+label:    SB 4.7400
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     104 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (104 CE)
+# hgv-keywords: Quittung — Kopfsteuer — semitische Namen
+tm:       18047
+source:   https://papyri.info/ddbdp/sb;4;7400
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Σαμβαθίων ὁ καὶ Ἰησοῦς
+r.2    Παπίου λαογραφίας ζ ἔτους
+r.3    Τραιανοῦ τοῦ κυρίου δραχμὰς δ.
+r.4    ἔτους ζ, Παχὼν ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

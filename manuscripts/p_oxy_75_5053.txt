@@ -1,0 +1,32 @@
+[META]
+id:       P.Oxy. 75.5053
+label:    P.Oxy. 75.5053
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     149 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (149 CE)
+# hgv-keywords: Quittung — Steuern (Schweinesteuer)
+tm:       128894
+source:   https://papyri.info/ddbdp/p.oxy;75;5053
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ιβ Ἀντωνίνου Καίσαρος
+r.2    τοῦ κυρίου, Μεσορὴ κβ. διέγραψε
+r.3    διὰ Ἱέρακος χειριστοῦ υἱκῆς ιβ ῥύμης Γερμ
+r.4    Ἀπολ … νοδώρου διὰ Εὐδαίμονος δραχμὴν α πεντώβολον ἡμιωβέλιον,
+r.5    γίνονται δραχμὴ α πεντώβολον ἡμιωβέλιον.
+
+[TRANSLATION]
+# HGV-EN: 12th year of Antoninus Caesar the lord, Mesore 22. Apol— son of —nodorus has paid through Eudaemon, through the tax-collector Hierax, on account of pig-tax for the 12th year in the street of Germ( ), 1 drachma 5 ½ obols, total 1 dr. 5 ½ ob. (D. Montserrat)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

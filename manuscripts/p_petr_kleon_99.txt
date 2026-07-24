@@ -1,0 +1,44 @@
+[META]
+id:       P.PETR.KLEON 99
+label:    P.PETR.KLEON 99
+name:     Documentary papyrus — Fundort: Gurob; Schreibort: Arsinoites
+genre:    documents
+date:     260 BCE – 236 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Documentary papyrus from Fundort: Gurob; Schreibort: Arsinoites (260 BCE – 236 BCE)
+# hgv-keywords: Aufstellung — Überblick — Arbeiten — Bewässerung — Monatsnamen — Geld
+tm:       388492
+source:   https://papyri.info/ddbdp/p.petr.kleon;;99
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    Ἐπεὶφ δραχμαὶ ρκγ διώβολον
+r.2    Μεσορὴ φοδ τετρώβολον
+r.3    Τῦβι ϙθ διώβολον ἡμιωβέλιον
+r.4    γίνονται χαλκοῦ δραχμαὶ Ατοδ ἡμιωβέλιον
+r.5    … τῶν
+r.6    χωμάτων
+r.7    δ … ουδ … ν …
+r.8    Χοιὰχ λ …
+r.9    … ετρα …
+r.10   … [σ]πέρματος …
+r.11   … ἐν τοῖς ἄλλοις
+
+[TRANSLATION]
+# HGV-EN: Epeiph 123 dr. 2 ob. Mesore 574 dr. 4 ob. Tybi 99 dr. 2 1/2 ob. Total 1,374 bronze dr. 1/2 ob. [...] of dykes [...] Choiak 30 :[...]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

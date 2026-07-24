@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 1.158
+label:    P.Oxy. 1.158
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     501 CE – 700 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (501 CE – 700 CE)
+# hgv-keywords: Brief (amtlich) — Viktor an den Komes Kosmas — Verlangen einer Sicherheit von zwei Streichern (Ziegel) — die ihre Arbeit unfertig verlassen haben
+tm:       37147
+source:   https://papyri.info/ddbdp/p.oxy;1;158
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    δύο πλινθευταὶ ἀπὸ Τάμπετι ἠνέχθησαν ἐν τῇ Ἰβίωνος, καὶ παρακαλῶ
+r.2    τὴν ὑμετέραν λαμπρὰν γνησίαν ἀδελφότητα κελεῦσαι τῷ μείζονι τῆς αὐτῆ[ς]
+r.3    Τάμπετι λαβεῖν τὸ ἀσφαλὲς αὐτῶν ἵνα μὴ πάλιν φύγωσιν καὶ ἐάσωσιν τὸ ἔρ[γον]
+r.4    ἡμίσεον . ταῦτα γράψας πλεῖστα ὑμᾶς τοὺς λ[α]μπροτάτους προσκυνῶ, παρακαλῶν
+r.5    ὑμᾶς ἐφʼ ἑκάστης γράψαι μοι τὰ περὶ τῆς ὑγιείας ὑμῶν τῶν λαμπροτάτων.
+r.6    δεσπότῃ ἐμῷ τὰ πάντα λαμπροτάτῳ πάσης τιμῆς καὶ προσκυνήσεως ἀξίῳ γνησίῳ φίλῳ Κοσμᾷ κόμετι μειζοτέρῳ Βίκτωρ.
+
+[TRANSLATION]
+# HGV-EN: Two brickmakers from Tampeti were brought to Ibion, and I urge you, my true and illustrious brother, to order the overseer of Tampeti to take security of them, against their absconding again and leaving their work half done. I write with many expressions of respect for your eminence, and entreat you to take every opportunity of writing to me about the state of your eminence’s health.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.1841
+label:    O.BODL 2.1841
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     100 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (100 CE)
+# hgv-keywords: Abrechnung — Transport
+tm:       72524
+source:   https://papyri.info/ddbdp/o.bodl;2;1841
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    λόγος τῶν ὀνηλατῶν.
+r.2    Ὧρος Ἀμούνιος.
+r.3    Πετεμενώφιος Σενφαήριος.
+r.4    Φθουμίνιος Ἁρπήχιος.
+r.5    [ Ἁρο]ννώφριος Πιβέλφιος.
+r.6    … [ Π]ασήμιος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,36 @@
+[META]
+id:       CPR 10.34
+label:    CPR 10.34
+name:     Receipt — Elephantine
+genre:    receipts
+date:     45 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (45 CE)
+# hgv-keywords: Quittung — Steuer
+tm:       20852
+source:   https://papyri.info/ddbdp/cpr;10;34
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διαγέγραφεν Σῶρος
+r.2    Παχομπῶτος ὑπὲρ λαογραφίας
+r.3    πέμπτου ἔτους Τιβερίου
+r.4    Κλαυδίου Καίσαρος Σεβαστοῦ
+r.5    Γερμανικοῦ Αὐτοκράτορος
+r.6    Παοῖνι ια ἀργυρίου δραχμὰς δέκα ἕξ,
+r.7    γίνονται δραχμαὶ ιϛ· Ἀμώνιος Ἀμωνίου
+r.8    ἔγραψε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

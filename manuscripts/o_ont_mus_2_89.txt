@@ -1,0 +1,32 @@
+[META]
+id:       O.ONT.MUS 2.89
+label:    O.ONT.MUS 2.89
+name:     Receipt — Theben
+genre:    receipts
+date:     84 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (84 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75106
+source:   https://papyri.info/ddbdp/o.ont.mus;2;89
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πετο[σῖρις]
+r.2    Πετοσίριος ὑπὲρ χ[ωματικοῦ] …
+r.3    δραχμὰς ἓξ τετρώβολον καὶ προσδιαγραφόμενα γίνονται δραχμαὶ ϛ [τετρώβολον καὶ]
+r.4    προσδιαγραφόμενα. ἔτους γ Αὐτοκρ[άτορος]
+r.5    Καίσαρος Δομιτ[ιανοῦ]
+r.6    Μεσορὴ λ‡7 …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

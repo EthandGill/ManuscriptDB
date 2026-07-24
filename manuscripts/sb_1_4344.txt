@@ -1,0 +1,32 @@
+[META]
+id:       SB 1.4344
+label:    SB 1.4344
+name:     Receipt — Theben
+genre:    receipts
+date:     48 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (48 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23103
+source:   https://papyri.info/ddbdp/sb;1;4344
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … μωνγ Πταρμ
+r.2    Επρεμγε μητρὸς Πασήμιος
+r.3    ὑπὲρ λαογραφίας η ἔτους Μεμνονείων δραχμὰς ιϛ. ἔτους η
+r.4    Τιβερίου Κλαυδίου Καίσαρος
+r.5    Σεβαστοῦ Γερμανικοῦ
+r.6    Αὐτοκράτορος, Ἐπεὶφ κθ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

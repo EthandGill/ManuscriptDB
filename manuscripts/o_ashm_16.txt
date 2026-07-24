@@ -1,0 +1,28 @@
+[META]
+id:       O.ASHM 16
+label:    O.ASHM 16
+name:     Receipt — Elephantine
+genre:    receipts
+date:     117 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (117 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       70465
+source:   https://papyri.info/ddbdp/o.ashm;;16
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Ἀμμώνιος πράκτωρ διὰ … ιο. διέγραψεν
+r.2    Ἁρπαῆσις Φανώφεως μητρὸς Ταχομτβήκιος
+r.3    ὑπὲρ ὀψωνίου ναυτῶν ποταμοφυλακίδος κ ἔτους δραχμὴν μίαν
+r.4    τριώβολον . ἔτους κ Τραιανοῦ Ἀρίστου Φαμενὼθ … .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

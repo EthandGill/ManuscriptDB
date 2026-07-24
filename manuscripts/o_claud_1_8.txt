@@ -1,0 +1,28 @@
+[META]
+id:       O.CLAUD 1.8
+label:    O.CLAUD 1.8
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     111 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (111 CE)
+# hgv-keywords: Quittung — Naturalien
+tm:       24021
+source:   https://papyri.info/ddbdp/o.claud;1;8
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ἄλκιμος βοηθὸς
+r.2    Μαγίου Ἁρυώθῃ
+r.3    Παᾶπις χαίρειν. παρεκόμισας [ε]ἰς Κλαυδιανὸν [ἀ]ρτάβας ἑπτά,
+r.4    γίνονται [ἀρτάβαι ζ ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

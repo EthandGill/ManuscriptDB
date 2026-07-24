@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.50
+label:    O.EDFOU 1.50
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     79 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (79 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       46990
+source:   https://papyri.info/ddbdp/o.edfou;1;50
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Θεόδωτος ὃς καὶ Νίγερ
+r.2    Ἀντωνίου Ῥούφου
+r.3    φυλακιτικοῦ β ἔτους Τίτου δραχμὴν α
+r.4    ἔτους β Χοίακ γ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

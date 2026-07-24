@@ -1,0 +1,38 @@
+[META]
+id:       ZPE 186.239_1
+label:    ZPE 186.239_1
+name:     Receipt — Phebichis (Herakleopolites, Ägypten)
+genre:    receipts
+date:     245 BCE
+language: Greek (Koiné)
+found:    Phebichis (Herakleopolites, Ägypten)
+held:     Graz
+shelf:    
+content:  Receipt from Phebichis (Herakleopolites, Ägypten) (245 BCE)
+# hgv-keywords: Quittung — Zahlung — Steuern — Bier — Geld
+tm:       4592
+source:   https://papyri.info/ddbdp/zpe;186;239_1
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    ἔτους β Ἁθὺρ κδ, …
+r.2    ἔτους β Ἁθὺρ κδ. πέ[πτωκεν]
+r.3    ἐπὶ τὸ ἐμ Φεβίχι λογ[ευ]τ[ήριον]
+r.4    τοῦ Κωίτου Πάσωνι τ[ραπεζίτῃ]
+r.5    καὶ Στοτοήτι δοκιμα[σ]τῇ π[αρὰ]
+r.6    Ἁρενδώτου τὸ παρὰ Τ[αεμ]βέους ἐκ
+r.7    [Τα]λάη ζυτηρᾶς εἰς τὸν [Ἁ]θὺρ χαλκοῦ εἰς κδ τέταρτον
+r.8    [δραχμὰς ὀκτ]ὼ, γίνονται η. παρόντος Δωρίωνος.
+
+[TRANSLATION]
+# HGV-EN: Year 2, Hathyr 24. Year 2, Hathyr 24. There has been paid into the tax office at Phebichis of the Koites, to Pason the banker and Stotoetis the controller from Harendotes the amount due from Taembes from Talae for the beer tax on the account of Hathyr eight drachmae of bronze at 24 1/4 obols (for a stater), total 8 drachmae. In the presence of Dorion.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

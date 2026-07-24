@@ -1,0 +1,30 @@
+[META]
+id:       O.WILB 7
+label:    O.WILB 7
+name:     Receipt — Elephantine
+genre:    receipts
+date:     83 CE – 84 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (83 CE – 84 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76519
+source:   https://papyri.info/ddbdp/o.wilb;;7
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Παχομπαηιλοῦς
+r.2    ὑπὲρ λαογραφίας τρίτου ἔτους
+r.3    Δομιτιανοῦ τοῦ κυρίου
+r.4    δραχμὰς δέκα ἕξ γίνονται δραχμαὶ ιϛ
+r.5    Σωκράτης πράκτωρ ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

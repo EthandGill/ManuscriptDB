@@ -1,0 +1,26 @@
+[META]
+id:       O.Wilck. 326
+label:    O.Wilck. 326
+name:     Receipt — Theben
+genre:    receipts
+date:     100 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (100 BCE)
+# hgv-keywords: Quittung — Geld — Bank
+tm:       43638
+source:   https://papyri.info/ddbdp/o.wilck;;326
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους [ι]δ Μεσορὴ α τετάχαται τετάρτης ἁλιέων ιδ ἔτους Ὧρος καὶ οἱ μέτοχοι
+r.2    χαλκοῦ Ε γίνονται Ε. Κέφαλος τραπεζίτης.
+r.3    τάλαντον α.
+
+[TRANSLATION]
+1     
+2     
+3     

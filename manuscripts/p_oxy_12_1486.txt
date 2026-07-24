@@ -1,0 +1,24 @@
+[META]
+id:       P.Oxy. 12.1486
+label:    P.Oxy. 12.1486
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     201 CE – 325 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (201 CE – 325 CE)
+# hgv-keywords: Einladung zu einem Fest (Hochzeit) am gleichen Tag
+tm:       31745
+source:   https://papyri.info/ddbdp/p.oxy;12;1486
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    καλεῖ σε Ξενικὸς [ὁ] καὶ Πέλιος εἰς τοὺς γάμους αὑτοῦ λύκανον σήμερον Φαρμοῦθι κβ ἀπὸ ὥρας η.
+
+[TRANSLATION]
+# HGV-EN: Xenicus also called Pelius invites you to his wedding ... to-day, Pharmouthi 22, at the 8th hour.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     

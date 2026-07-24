@@ -1,0 +1,30 @@
+[META]
+id:       O.ASHM 59
+label:    O.ASHM 59
+name:     Receipt — Theben
+genre:    receipts
+date:     179 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (179 CE)
+# hgv-keywords: Quittung
+tm:       70508
+source:   https://papyri.info/ddbdp/o.ashm;;59
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ιθ ἔτους Αὐρηλίων
+r.2    Ἀντωνίνου καὶ Κομμόδου Καισάρων
+r.3    τῶν κυρίων Ἁθὺρ ιη τοῦ κ ἔτους
+r.4    ὑπὲρ Χάρακος ὀνόματος Σενμούθου νεωτέρας Πετεμενώφιος
+r.5    πυροῦ μίαν ὄγδοον γίνεται πυροῦ α η. Ἀμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

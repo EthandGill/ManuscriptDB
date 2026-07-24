@@ -1,0 +1,58 @@
+[META]
+id:       P.LOND 5.1715
+label:    P.LOND 5.1715
+name:     Contract — Antinoopolis
+genre:    contracts
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Antinoopolis
+held:     
+shelf:    
+content:  Contract from Antinoopolis (501 CE – 600 CE)
+# hgv-keywords: Vertrag — Pacht — Haus
+tm:       36928
+source:   https://papyri.info/ddbdp/p.lond;5;1715
+lat:      27.8105625
+lon:      30.8810025
+
+[GREEK]
+r.1    τῶν θείω[ν] ὀφφικίων … [ Αὐρήλιος Ἰωάννης]
+r.2    Σαλαμᾶ μητρὸς Εὐφημ[ίας ] … [ ὁρμώμενος μὲν ἀπὸ]
+r.3    Ἀλεξανδρείας, καταμέν[ων δὲ ἐν τῇ αὐτῇ Ἀντινοέω]ν. ὁμολογῶ
+r.4    ἑκουσίως καὶ αὐθ[αι]ρέτω[ς μεμισ]θῶ[σθ]αι π[α]ρὰ σοῦ
+r.5    ἐφʼ ὃν ἐὰν βουλη[θ]ῇς χρ[όνον λογιζ]όμενον ἀπὸ τοῦ ὄντος
+r.6    μηνὸς Παχὼν τῆς παρού[σης ] … [ δ]εκάτη[ς ἰ]νδικ[τ]ίονος
+r.7    τὴν ὑπάρχουσάν σοι οἰκ[ίαν ὁλόκ]ληρον δίστεγον οἵας
+r.8    ἐστὶν διαθέσεως σὺν χρησ[τηρί]οις πᾶσι διακειμένην
+r.9    ἐπὶ τῆς αὐτῆς Ἀντινοέων ἐν τῷ δ γράμματι πλινθείῳ δ ἐπὶ ῥύμης
+r.10   Αψα ἐνοικίου τοῦ πρὸς ἀλλήλους συμπεφωνημένου
+r.11   ἑκάστου μηνὸς ἀργυρίου μυριάδων τριακοσίων,
+r.12   γίνονται μυριάδες τ , ὅπερ ἐνοίκιον κατὰ μῆνα [ἕ]καστον
+r.13   ἀνϋπερθέτως σοι παρέξω καὶ μεθʼ ὃν βούλει χρόνον
+r.14   παραδώσω σοι τὴν αὐτὴν οἰκίαν σὺν ταῖς ἐφεστώσαις θύραις δυσὶ χωρὶς κλειδῶν ὡς παρείληφα.
+r.15   ἡ μίσθωσις κυρία καὶ β[ε]βαία καὶ ἐπερωτηθεὶς ὡμολόγησα.
+r.16   Αὐρήλιος Ἰωάννης Σαλαμᾶ ὁ προκείμενος μεμίσθωμαι
+r.17   [κ]αὶ ἀποδώ[σω] τὸ ἐνοίκιον καὶ πείθομαι πᾶσι
+r.18   [τοῖς ἐγγεγραμμένοις ] …
+
+[TRANSLATION]
+# HGV-EN: [...] of the imperial offices [...] Aurelius Ioannes, son of Salamas and Euphemia, hailing from Alexandria, but staying in the same Antinoopolis. I acknowledge readily and freely that I have leased from you for however long time you wish, counting from the current month of Pachon of this present [...]th indiction, the belonging to you entire house having two stories, in whatever condition it is, with all appurtenances, located in the same Antinoopolis, in the fourth district, fourth quarter, on the Apsa street. As agreed upon by both parties rent each month three hundred myriads of silver, that is 300 myriads, which rent I will provide you for each month without delay, and after whatever time you want I will give this house back to you with two installed doors without keys which I have received. The lease is secure and valid and having been asked the formal question I consented. I, the aforementioned Aurelius Ioannes, son of Salamas, have leased and will pay the rent and am convinced by all conditions [...] )
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

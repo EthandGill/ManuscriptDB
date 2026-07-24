@@ -1,0 +1,26 @@
+[META]
+id:       P.GRENF 2.14d
+label:    P.GRENF 2.14d
+name:     Letter — Arsinoites
+genre:    letters
+date:     225 BCE – 201 BCE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Letter from Arsinoites (225 BCE – 201 BCE)
+# hgv-keywords: Brief — Priester an NN — griechische Unterschrift — Friedhof (Krokodil)
+tm:       69146
+source:   https://papyri.info/ddbdp/p.grenf;2;14d
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    παρὰ τῶν ἱερέων τοῦ
+r.2    Σούχου περὶ τοῦ ἄλλου
+r.3    κροκοδιλοταφίου.
+
+[TRANSLATION]
+1     
+2     
+3     

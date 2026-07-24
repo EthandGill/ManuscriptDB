@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 8.1132
+label:    P.Oxy. 8.1132
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     162 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (162 CE)
+# hgv-keywords: Quittung — Rückzahlung — Darlehen
+tm:       21749
+source:   https://papyri.info/ddbdp/p.oxy;8;1132
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [Σ]αραπ
+r.2    Χαιρήμ[ω]ν Σαραπίωνος τοῦ …
+r.3    μητρὸς Ταπλουτᾶτος ἀπʼ Ὀξυρύγ[χων πό]λεως Τρ[ύ]φωνι Ἡρακλείδ[ο]υ τ[οῦ ] …
+r.4    ωνος μητρὸς Τααπολλωνίδο[υ ἀπὸ]
+r.5    τῆς αὐτῆ[ς] πόλεως χαίρειν. ὁμ[ολογῶ]
+r.6    ἀπέχειν παρὰ σοῦ ἀποδιδ[ό]ντο[ς ἑκου]σίως πρὸ προθεσμί[α]ς διὰ τῆς ἐπὶ τοῦ
+r.7    πρὸς Ὀξυρύγχων πόλει Σαραπείου Φανίο[υ]
+r.8    ἀρχιερατεύσαντος καὶ Πτολεμαίου τῶν
+r.9    σὺν Αὐδασίῳ Παυλείνῳ ἐπιτηρ[η]τῶν τραπέζης ἀργυρίου δραχμὰς ἑξ[α]κοσίας κεφαλαίου καὶ τοὺς τούτων
+r.10   μέχρι τοῦ νῦν τόκους ὡς τοῦ μηνὸς
+r.11   δραχμῶν δύο , τὸ δὲ κεφάλαιον δανεισθέν σοι ὑπʼ ἐμοῦ κατὰ χειρόγραφ[ον]
+r.12   διὰ τῆς αὐτῆς τραπέζης ταῖς ἐπαγομέναις τοῦ δευτέρου ἔτους Ἀντωνίνου
+r.13   καὶ Οὐήρου τῶν κυρίων Αὐτοκρατόρων
+r.14   [εἰς προ]θεσ[μίαν ] …
+
+[TRANSLATION]
+# HGV-EN: Chaeremon son of Sarapion son of ..., his mother being Taplutas, of the city of Oxyrhynchus, to Tryphon son of Heraclides son of ... on, his mother being Taapollonides, of the said city, greeting. I acknowledge that I have received from you, who are making payment of your own accord before the appointed term, through the bank at the Serapeum at Oxyrhynchus of Phanias, ex-chief priest, and Ptolemaeus, the overseers associated with Audasius Paulinus, the capital sum of six hundred silver drachmae with the interest thereon up to the present time at the rate of two drachmae per month, which sum was lent you by me in accordance with a note of hand through the said bank on the intercalary days of the second year of Antoninus and Verus, lords and Emperors, until ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

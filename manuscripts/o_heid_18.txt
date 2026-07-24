@@ -1,0 +1,30 @@
+[META]
+id:       O.HEID 18
+label:    O.HEID 18
+name:     Receipt — Theben
+genre:    receipts
+date:     151 BCE – 150 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (151 BCE – 150 BCE)
+# hgv-keywords: Quittung (Spreu)
+tm:       80277
+source:   https://papyri.info/ddbdp/o.heid;;18
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους λα. παραδέδωκεν
+r.2    εἰς τὸ αὐτὸ ἔτος Δωσίθεος
+r.3    Πυρρίου ἀχύρου μώια ιε γίνονται ιε.
+r.4    Ἰώσηπος.
+r.5    Δωσιθε Χαρμάγοντος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

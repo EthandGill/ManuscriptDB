@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 33
+label:    O.THEB 33
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     70 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (Ägypten) (70 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76403
+source:   https://papyri.info/ddbdp/o.theb;;33
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Πασῆμις Ψεναμούνιος Πατφάους
+r.2    ὑπὲρ λαογραφίας Φμαυ β ἔτους δραχμὰς ιβ. ἔτους β Οὐεσπασιανοῦ
+r.3    τοῦ κυρίου Φαρμοῦθι β. ὁμοίως Παχὼν
+r.4    κγ δραχμὰς η. ὁμοίως Ἐπεὶφ β δραχμὰς δ. ὁμοίως
+r.5    γ ἔτους Θὼθ γ χωματικοῦ δραχμὰς β ὀβολὸν αἳ καὶ β.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

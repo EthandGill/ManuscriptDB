@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.118
+label:    O.STRAS 1.118
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     103 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (103 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75718
+source:   https://papyri.info/ddbdp/o.stras;1;118
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Αὐρήλιος Πετοσορβοῦχις Τιθο[ῆ]τος ὑπὲρ λαογραφίας … νο
+r.2    ϛ ἔτους δραχμὰς η. ἔτους ϛ … τοῦ κυρίου
+r.3    Παχὼν η. ὁμοίως ιθ δραχμὰς δ. ὁμοίως Ἐπεὶφ ε δραχμὰς δ.
+r.4    ὁμοίως ζ ἔτους Θὼτ γ δραχμὰς δ. ὁμοίως ἀνδριάντος ε δραχμὰς τριώβολον.
+r.5    ὁμοίως Φαῶφι κδ χωμάτων δραχμὰς δ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

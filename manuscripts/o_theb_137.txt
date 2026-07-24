@@ -1,0 +1,38 @@
+[META]
+id:       O.THEB 137
+label:    O.THEB 137
+name:     Documentary papyrus — Theben (Ägypten)
+genre:    documents
+date:     297 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Toronto
+shelf:    
+content:  Documentary papyrus from Theben (Ägypten) (297 CE)
+# hgv-keywords: Abrechnung — Geld
+tm:       76507
+source:   https://papyri.info/ddbdp/o.theb;;137
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παμῖνις Παχώμιος μηνιαῖα γ.
+r.2    Ψῦρος Παποντῶτος μηνιαῖα δ.
+r.3    Πλῆνις Στράβωνος πρεσβυτέρου μηνιαῖα β.
+r.4    Παῆρις Παήριος νεωτέρου μηνιαῖον α.
+r.5    Ἀμενώθης Κυμαικὸς μηνιαῖα ε.
+r.6    Σενπεχύτης δηνάρια ν.
+r.7    Πρεμμοῦν δηνάρια ριδ
+r.8    γυνὴ Παττσέβθιος Φθομώνθου Πεκύσιος
+r.9    δηνάρια ιθ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

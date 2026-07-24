@@ -1,0 +1,28 @@
+[META]
+id:       O.BANKES 35
+label:    O.BANKES 35
+name:     Receipt — Elephantine
+genre:    receipts
+date:     192 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (192 CE)
+# hgv-keywords: Quittung — Steuer (Einnahmen aus Palmenhainen, prosodoi phoinikonos)
+tm:       699508
+source:   https://papyri.info/ddbdp/o.bankes;;35
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σερῆνος νεώτερος Παχνούβιος καὶ Μέττιος Τύραννος πράκτορες ἀργυρικῶν καὶ σιτικῶν
+r.2    Ἐλεφαντίνης διὰ Βιήγχεως βοηθοῦ· διέγραψεν Ταχνοῦμις ὑπὲρ προσόδου
+r.3    φοινικῶνος γενήματος λβ ἔτους ὀνόματος Θινπετορζμήθιος Ἀμμωνίου μητρὸς Θινψανσνῶτος
+r.4    δραχμὰς β. ἔτους λγ , Ἁδριανοῦ ιζ. Μέττιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

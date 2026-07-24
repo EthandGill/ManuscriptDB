@@ -1,0 +1,60 @@
+[META]
+id:       P.LEID.INST 1.28
+label:    P.LEID.INST 1.28
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     76 CE – 100 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (76 CE – 100 CE)
+# hgv-keywords: Liste — Ausgabe von Saatgut — Namen
+tm:       25426
+source:   https://papyri.info/ddbdp/p.leid.inst;1;28
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Σανσνεῦς Σανσνέως τοῦ Μ[ύσθου ] …
+r.2    προσόδου ἀρούρης 𐅸 λβ πυροῦ ἀρτάβης 𐅵 ιϛ καὶ κρ[ιθῆς][ ἀρταβ ] …
+r.3    Ὀρσεῦς Σανσνέως τοῦ Μύσθου …
+r.4    προσόδου ἀρούρης 𐅵 ιϛ ξδ πυροῦ ἀρτάβης γ η …
+r.5    Σι … ταμις Φάσει τοῦ Ὥρου διὰ …
+r.6    καὶ Ὀρσενοῦφις Ὀρσέως τοῦ Στο[τοήτεως ] …
+r.7    Ἥρων Ὀρσενούφεως τοῦ Ἥρ[ωνος ] …
+r.8    προσόδου ἀρούρης α δ ιϛ ξδ πυροῦ ἀρταβ …
+r.9    Ἥρων ἀπάτωρ μητρὸς Σωτηρίδος …
+r.10   Σώτας Σώτου τοῦ Ὀρσέως … ω …
+r.11   βασιλικῆς ἀρούρης α δ η ιϛ λβ ξδ [σ]πέρματος πυροῦ ἀρτάβην α …
+r.12   … Χιάσεως τοῦ Χιάσεως …
+r.13   Τεφερῶτος Σ[αν]σνέως …
+r.14   σπέρματο[ς ] …
+r.15   Σέλευκος ἀπά[τωρ μητρὸς ] …
+r.16   Φα … ς ἀπάτ[ωρ μητρὸς ] …
+r.17   σπέρματος …
+r.18   Εὔβιος ἀπάτ[ωρ μητρὸς ] …
+r.19   … συντάξε[ι]ς
+
+[TRANSLATION]
+# HGV-EN: Sansneus, son of Sansneus, grandson of Mysthes (?) - - - for 432 arouras of revenue land, 216 artabas of wheat and - - - artabas of barley f) Orseus, son of Sansneus, grandson of Mysthes - - - for 1/2 1/16 1/64 of revenue land, 1/3 1/6 artabas of wheat Sintamis (?), daughter of Phasis, granddaughter of Horus, represented by and Orsenouphis, son of Orseus, grandson of Stotoetis (?) - - - Heron, son of Orsenouphis, grandson of Heron (?) - - - for 1 1/4 1/16 1/64 arouras of revenue land, - - - artabas of wheat Heron, son of an unknown father, whose mother is Soteris - - - Sotas, son of Sotas, son of Orseus - - - for 1 1/4 1/8 1/16 1/32 1/64 arouras of royal land, 1/x artabas of wheat for seed - - - - - - son of Chiasis, grandson of Chiasis - - - son of Tepheros, grandson of Sansneus - - - for seed - - - Seleucus, son of an unknown father, whose mother is - - - Pharus (?), son of an unknown father, whose mother is - - - Eubius, son of an unknown father, whose mother is - - -
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

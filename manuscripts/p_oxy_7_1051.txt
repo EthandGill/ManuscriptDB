@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 7.1051
+label:    P.Oxy. 7.1051
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (201 CE – 300 CE)
+# hgv-keywords: Register — Kleidung
+tm:       31311
+source:   https://papyri.info/ddbdp/p.oxy;7;1051
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    δελματίκιν … [ α],
+r.2    δελματίκιν λι[νοῦν]
+r.3    ῥιζόσημον α, [ἀναβο]λάδιν ισνεν α, [κολό]βιν δίσημον [α, ῥιζό]σημον α, φ[ιβλατώ]ριν α, στιχάρ[ιν λιν]οῦν α, κολόβ[ιν λιν][ο]ῦν τριβακὸν [α, ] …
+r.4    … ανον ἀναβολ[άδιν]
+r.5    [α], φιβλατώριν α,
+r.6    [σι]νδόνιν α, ἡμιλίτριον πορφύρας ῥιζίου, κολόβιν γυναικεῖον
+r.7    ψευδοπόρφυρον α,
+r.8    δελματικὴ λινῆ α,
+r.9    μαπὶν αφρεν α,
+r.10   ὀξύβαφον κα[ὶ] πινάκιν, ἀργυρᾶ μαπα ε,
+r.11   … σάγον λευκὸς α,
+r.12   βαλανάριν α.
+r.13   Κυριλ[λ]οῦτος.
+
+[TRANSLATION]
+# HGV-EN: 1 Dalmatian vest, 1 linen Dalmatian vest with vegetable-purple stripe, 1 ... shawl, 1 shirt with double stripe, 1 with vegetable-purple stripe, 1 band with buckle, 1 linen tunic, 1 linen shawl, worn, 1 ... shawl, 1 band with buckle, 1 cambric, half a pound of vegetable-purple, 1 woman’s shirt of false purple, 1 linen Dalmatian vest, 1 ... napkin, a saucer and plate, 5 silvered napkins (?), 1 white blanket, 1 towel. The property of Cyrillous.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

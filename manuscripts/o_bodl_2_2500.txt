@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.2500
+label:    O.BODL 2.2500
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     201 CE – 400 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (201 CE – 400 CE)
+# hgv-keywords: Abrechnung
+tm:       73088
+source:   https://papyri.info/ddbdp/o.bodl;2;2500
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Κύριλλος …
+r.2    … καπ … δηνάρια σκα.
+r.3    … ιας Θεοφίλου δηνάρια ρπβ.
+
+[TRANSLATION]
+1     
+2     
+3     

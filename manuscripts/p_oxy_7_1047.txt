@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 7.1047
+label:    P.Oxy. 7.1047
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     324 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (324 CE)
+# hgv-keywords: Abrechnung — Steuern — Geld
+tm:       20342
+source:   https://papyri.info/ddbdp/p.oxy;7;1047
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    λόγος τοῦ κυρίου μου πραιποσίτου
+r.2    στιπενδίου καλανδῶν
+r.3    Σεπτεμβρίων δηναρίων μυριάδες γ Ϛ ,
+r.4    δωνατίουον πρὸ ὀκτὼ καλανδῶν
+r.5    Αὐγούστων δηνάρια Βφ.
+r.6    γίνονται ὁμοῦ μυριάδες γ [Η]φ .
+
+[TRANSLATION]
+# HGV-EN: Account of my lord the praepositus: for the stipend of September 1, 36,000 denarii, a present on July 25, 2,500 denarii, making together 38,500 denarii.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,46 @@
+[META]
+id:       P.RYL 2.234
+label:    P.RYL 2.234
+name:     Letter — unbekannt
+genre:    letters
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Letter from unbekannt (101 CE – 200 CE)
+# hgv-keywords: Brief — Klient an Patron — NN an Apollonios — epistrategos
+tm:       27905
+source:   https://papyri.info/ddbdp/p.ryl;2;234
+lat:      
+lon:      
+
+[GREEK]
+r.1    [Ἀπο]λλωνίωι …
+r.2    [ὑπ]ηρέτης τῷ [κυρίῳ χαίρειν.]
+r.3    [τῇ ] … ὥρᾳ α ἀνέδωκα τῶι κρατ[ίστῳ]
+r.4    [ἐπιστρ]ατήγῳ τὰς ἐπιστολὰς καὶ [ε]ὐθὺς
+r.5    μὲ[ν τ]ῷ γραμματεῖ αὐτοῦ ἔδωκεν, μ[ετʼ ὀ]λίγον δέ μου προσελθόντος τῷ γ[ραμ]ματεῖ πυνθανομένου περὶ τῶν [παρʼ ἐ]μοὶ ἀνθρώπων λέγει· πορεύου, ἀντιφωνηθήσεται διὰ τῶν στρατηγῶν.
+r.6    πάλιν δέ μου παρακαλέσαντος αὐτὸν καὶ λέγοντος μὴ δύνασθαι ἀπο[χ]ωρῆσαι, εἰ μὴ ἀντιφωνηθῇ, διὰ
+r.7    [τ]οὺς παρʼ ἐμοὶ ἀνθρώπους καὶ ὡς τὸ πρᾶγμα ἁδρόν ἐστι, φασί μοι· αὔριον καὶ ἐγὼ
+r.8    αὐτῷ παραναγνώσομαι ἵνα ἀντιφωνήσῃ.
+r.9    γράφω σοι οὖν, κύριε, ἵνʼ εἰδῇς, καὶ εἰ βούλει παραμεῖναί με ἐνθάδε μετὰ τῶν
+r.10   ἀνθρώπων ἕως ἂν ἢ ἀκουσθῶσι ἢ ἀντιφώνησιν λάβω. ἐρ[ρ]ῶσθαί σε εὔχομαι,
+r.11   κύριέ μου.
+r.12   Μεσορὴ ιβ.
+
+[TRANSLATION]
+# HGV-EN: ‘To my lord Apollonius from ... his servant, greeting. On the … th at the first hour I presented the letters to his excellency the epistrategus and he straightway gave them to his secretary. A little later, when I approached the secretary inquiring concerning the men who are with me, he answered :— “Go, the answer will be delivered through the strategi.” But when I again exhorted him and stated that I could not leave without an answer owing to the men with me and that the matter was urgent, I was told :— “I will to-morrow read it over to him myself so that he may state his reply.” I write therefore to you, my lord, that you may know, and (to inquire) whether you wish me to remain here with the men until either they are heard or I receive an answer. I pray for your good health, my lord. Mesore 12.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

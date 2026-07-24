@@ -1,0 +1,34 @@
+[META]
+id:       O.ONT.MUS 1.59
+label:    O.ONT.MUS 1.59
+name:     Receipt — Theben
+genre:    receipts
+date:     213 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (213 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75077
+source:   https://papyri.info/ddbdp/o.ont.mus;1;59
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος κα ἔτους Μ[άρκου Αὐρηλίου ] …
+r.2    Σεουήρου Ἀντωνίνου Καίσαρος [τοῦ κυρίου ] …
+r.3    ὑπὲρ Νήσων ὀνόματος Ἡρακλᾶτος Αἰλουρ[ίωνος] … [διὰ] [Ἐ]σουήριος Παναμέως αἳ διὰ Φίλωνος Δ …
+r.4    Πεκῦσις σεσημείωμαι πυροῦ ἀρτάβας ι …
+r.5    ἄλλας Ἐπεὶφ ια ὑπὲρ Νότου ὀνόματος …
+r.6    πυροῦ δωδέκατον κδ γίνεται [πυροῦ ἀρτάβης ιβ κδ]
+r.7    Πεκῦσις σεσημείωμαι πυροῦ ἀρτάβης ιβ [κδ]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

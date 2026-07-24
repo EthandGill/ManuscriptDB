@@ -1,0 +1,30 @@
+[META]
+id:       SB 1.1927
+label:    SB 1.1927
+name:     Receipt — Elephantine
+genre:    receipts
+date:     71 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (71 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23069
+source:   https://papyri.info/ddbdp/sb;1;1927
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν … [Πε]τορζμῆθις
+r.2    ὑπὲρ λαογραφίας τρίτου ἔτους
+r.3    Οὐεσπασιανοῦ τοῦ κυρίου
+r.4    Παχὼν β ἐπὶ λόγου ἀργυρίου δραχμὰς
+r.5    ὀκτώ, γίνονται δραχμαὶ η.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

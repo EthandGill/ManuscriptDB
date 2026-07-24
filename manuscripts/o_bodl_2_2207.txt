@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.2207
+label:    O.BODL 2.2207
+name:     Receipt — Theben
+genre:    receipts
+date:     16 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (16 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       72841
+source:   https://papyri.info/ddbdp/o.bodl;2;2207
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιδ Ἐπεὶφ δ …
+r.2    αρχης ιδ ἔτους …
+r.3    χε … δύο …
+r.4    Ἡρακλ .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

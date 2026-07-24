@@ -1,0 +1,32 @@
+[META]
+id:       O.HEID 102
+label:    O.HEID 102
+name:     Receipt — Theben
+genre:    receipts
+date:     188 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (188 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       80333
+source:   https://papyri.info/ddbdp/o.heid;;102
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος κη
+r.2    ἔτους [Κομμόδου Ἀντωνίνου]
+r.3    Καίσαρος τοῦ κυρίου … θ ὑπὲρ … [ ὀνόματος]
+r.4    Πεβρίχιος ὁμοίως Ἡρα … κλήους
+r.5    καὶ ὑπὲρ Νήσων πυροῦ ἀρτάβην μίαν, γίνεται
+r.6    πυροῦ ἀρτάβη α. Ὡρος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

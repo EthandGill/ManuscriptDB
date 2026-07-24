@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.454
+label:    O.STRAS 1.454
+name:     Receipt — Theben
+genre:    receipts
+date:     211 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (211 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       76042
+source:   https://papyri.info/ddbdp/o.stras;1;454
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀσκληπιάδης Πλήνιος καὶ μέτοχοι ἀχυροπράκτορες
+r.2    Μεμνονείων διὰ Καμήτιος βοηθοῦ. ἔσχομεν ὑπὲρ
+r.3    γενήματος ιθ ἔτους ὀνόματος Πασήμιος Ἁτρήους γόμου τέταρ[τον] γίνεται γόμου δ. ἔτους ιθ Ἐπεὶφ κδ.
+
+[TRANSLATION]
+1     
+2     
+3     

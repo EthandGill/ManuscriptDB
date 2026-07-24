@@ -1,0 +1,32 @@
+[META]
+id:       O.EREM 9
+label:    O.EREM 9
+name:     Receipt — Theben
+genre:    receipts
+date:     88 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (88 CE)
+# hgv-keywords: Quittung — Abgaben
+tm:       18276
+source:   https://papyri.info/ddbdp/o.erem;;9
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Παναμεὺς Νεφερῶτος
+r.2    ὑπὲρ λαογραφίας Χάρακος ζ ἔτους δραχμὰς ι,
+r.3    ἄλλα α ὀβολὸν α 𐅵 γίνονται δραχμαὶ ια ὀβολὸς α 𐅵.
+r.4    ἔτους ζ Δομιτιανοῦ τοῦ κυρίου
+r.5    Παῦνι ιθ.
+r.6    Ἡρακλείδης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

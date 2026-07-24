@@ -1,0 +1,68 @@
+[META]
+id:       P.Oxy. 10.1277
+label:    P.Oxy. 10.1277
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     257 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (257 CE)
+# hgv-keywords: Vertrag — Kauf — Triclinium
+tm:       21789
+source:   https://papyri.info/ddbdp/p.oxy;10;1277
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Αὐρηλία Σαραπιὰς Ἀρείου ἀστὴ
+r.2    χωρὶς κυρίου χρηματίζουσα τέκνων
+r.3    δικαίῳ κατὰ τὰ Ῥωμαίων ἔθη Αὐρηλίῳ Θέωνι Ἀμμωνίου τοῦ καὶ
+r.4    Ἀφύγχιος ἀπʼ Ὀξυρ[ύγ]χων πόλεως
+r.5    χαίρειν. ὁμολογῶ πεπρακέναι
+r.6    σοι τρίκλιν[ο]ν στρωμάτων λινῶν
+r.7    ποικιλτῶν διὰ ὅλ[ο]υ κα[ὶ] προσκεφάλαια τέσσαρα … α καὶ λινᾶ τῆς
+r.8    αὐτῆς ἰδέας τιμῆς δραχμῶν
+r.9    πεντακοσίων , γίνονται δραχμαὶ φ, ἃς καὶ ἐντεῦθεν ἀπέσχον. κυρία ἡ πρᾶσις
+r.10   ἁπλῆ γραφεῖσα καθαρὰ καὶ βεβαιώσω καὶ ἐπηρώτημαι ὡς πρόκειται.
+r.11   ἔτους δ Αὐτοκρατόρων Καισάρων
+r.12   Πουπλ[ί]ου Λικιννίου Οὐαλεριανοῦ
+r.13   καὶ Πο[υ]πλίου Λικιννίου Οὐαλεριανοῦ
+r.14   Γαλλιηνοῦ Γερμανικῶν Μεγίστων
+r.15   καὶ Πο[υ]πλίου Λικιννίου Κορνηλίου
+r.16   Οὐαλερ[ι]ανοῦ τοῦ ἐπιφανεστάτου
+r.17   Καίσα[ρος] Σεβαστῶν Μεσορὴ ιϛ.
+r.18   Α[ὐρη]λία Σαραπιὰς πέπρακα τὸ
+r.19   τρίκλινον καὶ τὰ προσκεφάλαια
+r.20   καὶ ἀπέσχον τὰς τῆς τιμῆς δραχμὰς φ
+r.21   καὶ βεβαιώσω καὶ ἐπηρώτημαι
+r.22   ὡς πρόκειται. Αὐρήλιος Ὡριγένης
+r.23   ἔγραψα ὑπὲρ τῆς μητρὸς γράμματα μὴ εἰδυίης.
+
+[TRANSLATION]
+# HGV-EN: Aurelia Sarapias daughter of Arius, citizen, acting without a guardian by right of her children according to Roman custom, to Aurelius Theon son of Ammonius also called Aphunchis,of Oxyrhynchus, greeting. I acknowledge that I have sold to you a three-sided couch with linen coverings embroidered throughout, and four ... linen cushions of the same quality for the price of five hundred drachmae, total 500 dr., which I thereupon received. This contract of sale of which there is a single copy, free from mistake, is valid, and I will guarantee the sale and have been asked the formal question, as aforesaid. The and year of the emperors and Caesars Publius Licinius Valerianus and Publius Licinius Valerianus Gallienus Germanici Maximi and Publius Licinius Cornelius Valerianus the most illustrious Caesar Augusti, Mesore 16. (Signed) I, Aurelia Sarapias, have sold the couch and cushions and received the 500 dr. for the price and will guarantee the sale, and have been asked the formal question, as aforesaid. I, Aurelius Origenes, wrote on behalf of my mother, who is illiterate.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    

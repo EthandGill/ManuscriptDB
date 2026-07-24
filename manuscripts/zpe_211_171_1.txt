@@ -1,0 +1,30 @@
+[META]
+id:       ZPE 211.171_1
+label:    ZPE 211.171_1
+name:     Receipt — Elephantine
+genre:    receipts
+date:     65 CE – 66 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (65 CE – 66 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       832143
+source:   https://papyri.info/ddbdp/zpe;211;171_1
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Ῥουφώνιο]ς Ἀντίγονος.
+r.2    [διαγεγράφηκεν] Πετερζμῆθις Πε… τος διὰ Πετερζμήθιος
+r.3    … αυς γεωμετρίας φοινικῶνος
+r.4    [ια ἔτους δραχμὰς] … ἔτους ιβ Νέρωνος
+r.5    [Καίσαρος το]ῦ κυρίου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

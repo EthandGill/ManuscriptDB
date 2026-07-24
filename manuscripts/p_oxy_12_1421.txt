@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 12.1421
+label:    P.Oxy. 12.1421
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (201 CE – 300 CE)
+# hgv-keywords: Befehl — Stratege an Komarchen — Verschiffen von Holz (Akazien)
+tm:       31741
+source:   https://papyri.info/ddbdp/p.oxy;12;1421
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    παρὰ τοῦ στρατηγοῦ
+r.2    κωμάρχαις καὶ δημοσίοις κωμῶν
+r.3    Τααμπέμου καὶ Σερύφ[ε]ως.
+r.4    τὸ ξ[ύ]λον τὸ ἀκάνθινον τὸ κεκομμένον ἐν τῇ Εἰόνθει ἐξαυτῆς
+r.5    [πέμψατε] εἰς [τὸ ] … [π]ορθμεῖον,
+r.6    [καὶ ἐμβάλεσθε αὐτὸ] εἰς τὸ ἐνταῦ[θα παρασταθὲν δη]μόσιον πλοῖον.
+
+[TRANSLATION]
+# HGV-EN: From the strategus to the comarchs and officials of the villages of Taampemou and Seruphis. Send at once the acacia-wood which has been cut at Ionthis to the ... ferry, and put it on board the State boat which is stationed there.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

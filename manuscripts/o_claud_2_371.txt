@@ -1,0 +1,22 @@
+[META]
+id:       O.CLAUD 2.371
+label:    O.CLAUD 2.371
+name:     Letter — Mons Claudianus
+genre:    letters
+date:     151 CE – 200 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Letter from Mons Claudianus (151 CE – 200 CE)
+# hgv-keywords: Brief (amtlich) — der Curator Aelius Serenus an den Curator Sarapion — Passierschein
+tm:       29772
+source:   https://papyri.info/ddbdp/o.claud;2;371
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Αἴλιος Σερῆνος κουράτωρ Κλαυδιανοῦ μετάλλου Σαραπίωνι Ἀπολλωνίου κουράτορι Ῥαειμα χαίρειν. διέρχεται διὰ σοῦ Θαριώτης.
+
+[TRANSLATION]
+1     

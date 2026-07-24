@@ -1,0 +1,34 @@
+[META]
+id:       O.STRAS 1.221
+label:    O.STRAS 1.221
+name:     Receipt — Theben
+genre:    receipts
+date:     133 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (133 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75818
+source:   https://papyri.info/ddbdp/o.stras;1;221
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Καμῆτις πράκτωρ ἀργυρικῶν
+r.2    Ἐπωνύχωι ὃς καὶ Ἀπάθης
+r.3    Ἡρακλήους. ἔσχον ὑπὲρ σκοπέλων καὶ φυλάκων καὶ ἄλλων …
+r.4    ἀνδριάντος Χάρακος ιη ἔτους ῥυπαρὰς δραχμὰς πέντε ὀβολοὺς β 𐅵
+r.5    γίνονται ῥυπαραὶ ε ὀβολοὶ β 𐅵. ἔτους ιη
+r.6    Ἁδριανοῦ τοῦ κυρίου
+r.7    Φαῶφι κε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

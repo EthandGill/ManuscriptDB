@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 280
+label:    O.PETR.MUS 280
+name:     Receipt — Theben
+genre:    receipts
+date:     50 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (50 CE)
+# hgv-keywords: Quittung — Steuer (Geldwert für Weizen)
+tm:       77719
+source:   https://papyri.info/ddbdp/o.petr.mus;;280
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Ψενχῶνσις Χεσθώτου
+r.2    ὑπὲρ τιμῆς πυροῦ γενήματος ι ἔτους ἀργυρίου
+r.3    ῥυπαροῦ δραχμὰς ὀκτὼ γίνονται δραχμαὶ η. ἔτους ια
+r.4    Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+r.5    Φαῶφι λη. Βάσσος Δέκμου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

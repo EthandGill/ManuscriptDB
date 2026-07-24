@@ -1,0 +1,32 @@
+[META]
+id:       ZPE 229.165_4v
+label:    ZPE 229.165_4v
+name:     Documentary papyrus — unbekannt
+genre:    documents
+date:     83 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     London
+shelf:    
+content:  Documentary papyrus from unbekannt (83 CE)
+# hgv-keywords: Entwurf — Präfekt — Laberius Maximus
+tm:       998561
+source:   https://papyri.info/ddbdp/zpe;229;165_4v
+lat:      
+lon:      
+
+[GREEK]
+r.1    … ἁμαρτήματα … μεν …
+r.2    … [τ]ῶν δὲ κατ’ οἰκίαν ἀπογραφῶν …
+r.3    … προςήκει. Λαβέριος Μάξιμος ἔπ[αρχος Αἰγύπτου] [λέγει· ]
+r.4    … [Ἑρ]μοπολίτου καὶ Βουσιρίτου ε …
+r.5    … νοια … πραγματικοὶ μη …
+
+[TRANSLATION]
+# HGV-EN: … errors … of the house-by-house registrations … is appropriate. Laberius Maximus, prefect of Egypt, says(?): … Hermopolite and Bousirite … officials(?) …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

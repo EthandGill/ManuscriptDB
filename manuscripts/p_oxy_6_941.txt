@@ -1,0 +1,42 @@
+[META]
+id:       P.Oxy. 6.941
+label:    P.Oxy. 6.941
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (501 CE – 600 CE)
+# hgv-keywords: Brief (privat) — N.N. (Philoxenos?) an Iohannes — Hinweis — wo und von wem gegen Pacht ein Stück Land zum Streichen (Ziegel) zu bekommen ist
+tm:       37134
+source:   https://papyri.info/ddbdp/p.oxy;6;941
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    π
+r.2    ἐπειδὴ ὁ πλινθευτὴς λέγει τὸν τόπον τοῦ υἱοῦ Νιννοῦδος ὀστρακώδη
+r.3    καὶ μὴ πεποιημένον εἰς πλινθεῦσαι, ὡς δὲ λέγει ὅτι ἐὰν σ[κ]υλῇ πρὸς τὸν υἱὸν
+r.4    τοῦ οἰκονόμου τοῦ ἁγίου Ἰούστου παρέχει σοι τόπον ὀλίγον ἢ ἀντὶς τοῦ μαρτυρίου
+r.5    ἢ ἐξ ἀρ[ι]στερῶν αὐτοῦ ἤγουν ἐκ δεξιῶν, καταξίωσον χαρίσασθαί μοι σκ[υ]λμὸν
+r.6    πρὸς αὐτὸν ἀλλʼ ἄρτι καὶ εἰπεῖν αὐτῷ. εἰκὸς παρέχει σοι τὴν χάριν, ἐκ τοῦ γὰρ
+r.7    ἐγ γύς ἐστιν. ἀλλʼ οὕτως λέγεις αὐτῷ ὅτι ἐὰν θέλῃς παρέχομέν σοι τὸ ἐνοίκιον,
+r.8    μόνον πάρεχέ μοι. τὸν δὲ θεόν σου εὐθὺς διὰ Φοιβάμμωνος δήλωσόν μοι
+r.9    τὴν παρʼ αὐτοῦ ἀπόκρισιν. εἰπὲ δὲ αὐτῷ ὅτι ὀλ[ίγη]ν μόν[ον θέλομ]εν καὶ οὐ πολλήν.
+r.10   ἐπίδος Ἰωάν[νῃ παρὰ ][Φιλοξ]ένου.
+
+[TRANSLATION]
+# HGV-EN: Since the brickmaker says that the place of the son of Ninnous (?) is full of sherds and not adapted for brickmaking, and as he says that if you will trouble to go to the son of the steward of the monastery of St. Justus he will provide you with a small space, either opposite the martyr’s shrine, or on the left of it, or on the right, vouchsafe me the favour of going to him and speaking to him now. It is likely that he will grant you this favour, for it is close by. Say to him this: “If you wish, we will pay you rent, only grant me the favour and God be with you(?)” Inform me immediately by Phoebammon of his answer. Tell him that we only want a little and not much. (Addressed) Deliver to John from...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

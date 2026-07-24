@@ -1,0 +1,44 @@
+[META]
+id:       SB 16.12813
+label:    SB 16.12813
+name:     Documentary papyrus — Arsinoites, Ägypten
+genre:    documents
+date:     200 BCE – 176 BCE
+language: Greek (Koiné)
+found:    Arsinoites, Ägypten
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites, Ägypten (200 BCE – 176 BCE)
+# hgv-keywords: Schreiben (amtlich) — Meldung — Beamte — Namen — Getreide — Transport — Verlust — Raub — Unterschlagung
+tm:       4174
+source:   https://papyri.info/ddbdp/sb;16;12813
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [ἔτους ] … Φαμενὼθ ιη.
+r.2    [προ]σάγγελμα Ὥρωι ἀρχιφυλακίτηι Ἀρσινόης τῆς κατὰ
+r.3    [Σε]βεννύτον καὶ τοῖ[ς] ἐπιστάταις τῆς Καρανίδος.
+r.4    τῆι η τοῦ αὐτοῦ μηνὸς παραγενόμενος μετ[ὰ τ]ῶν ἐπα[κ]ολουθούντων εἰς τὴν προγ[ε]γραμμένην κώμην
+r.5    ὥστε μετρῆσαι τὴν ἐπεσταλμένην σιτομετρίαν
+r.6    Ποσιδωνίωι τῶι σιτολόγωι· ἐπισκοπούμενοι δὲ τὸν
+r.7    ὑπάρχοντα σῖτον ἐν τοῖς σάκκ[ο]ις, εὕρομεν λίαν
+r.8    [γε]γενημένην πυροῦ εἰς ἱκανόν τι πλῆθος· ἔφην αὐτῶι
+r.9    ἀπ[αν]τήσειν. γέγ[ρ]αφε δὲ τὸ αὐτὸ καὶ Τιμοκράτει τῶι
+r.10   ἐπιστάτηι.
+r.11   Παυσανίας Τιμοκρ[ά]τει ἐπιστάτηι.
+
+[TRANSLATION]
+# HGV-EN: Year …, Phamenoth 18. Notification to Horos, archiphylakitês of Arsinoë near Sebennytos, and to the epistatai of Karanis. On the 8th of the same month, I arrived with my attendants in the aforementioned village so as to perform the grain-measurement for Posidonius the sitologos as ordered. Inspecting the corn which was in the sacks, we found that a plunder had occurred to a considerable amount of wheat. I told him to meet (me). He wrote the same thing to Timokrates the epistates.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

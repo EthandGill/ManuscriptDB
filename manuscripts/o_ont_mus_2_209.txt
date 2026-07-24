@@ -1,0 +1,26 @@
+[META]
+id:       O.ONT.MUS 2.209
+label:    O.ONT.MUS 2.209
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (101 CE – 300 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       75230
+source:   https://papyri.info/ddbdp/o.ont.mus;2;209
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … τοῦ κβ ἔτους ὀνόματος Ψάιτος
+r.2    … ὑπὲρ Χάρακος πυροῦ ἥμισυ
+r.3    ὄγδοον γίνεται πυροῦ ἀρτάβης 𐅵 η …
+
+[TRANSLATION]
+1     
+2     
+3     

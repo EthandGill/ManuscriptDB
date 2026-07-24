@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 217
+label:    O.PETR.MUS 217
+name:     Receipt — Theben (Charax)
+genre:    receipts
+date:     165 CE
+language: Greek (Koiné)
+found:    Theben (Charax)
+held:     
+shelf:    
+content:  Receipt from Theben (Charax) (165 CE)
+# hgv-keywords: Quittung — Steuer (Landvermessungssteuer, geometria)
+tm:       77810
+source:   https://papyri.info/ddbdp/o.petr.mus;;217
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁδριανοῦ ε τοῦ ϛ ἔτους ὀνόματος
+r.2    Παναμέως Περμάμιος καὶ
+r.3    Ψεντφοῦτος Ψεναμούνιος ὑπὲρ γεωμετρίας
+r.4    ε ἔτους Χάρακος ῥυπαρὰν δραχμὴν μίαν τριώβολον
+r.5    γίνεται δραχμὴ α τριώβολον Ὧρος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

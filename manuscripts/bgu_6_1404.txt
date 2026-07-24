@@ -1,0 +1,30 @@
+[META]
+id:       BGU 6.1404
+label:    BGU 6.1404
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     106 BCE – 105 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (106 BCE – 105 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       4703
+source:   https://papyri.info/ddbdp/bgu;6;1404
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    τέτακται τὰ πορθμικὰ
+r.2    εἰς τὸ ιβ ἔτος ὃ καὶ θ ἔτος
+r.3    Ἁρπαῆσις Ποήριος
+r.4    υ γίνονται υ.
+r.5    Ἀσκληπιάδης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

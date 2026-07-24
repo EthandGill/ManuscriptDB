@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 74.5007
+label:    P.Oxy. 74.5007
+name:     Documentary papyrus — Paomis (Oxyrhynchites) bzw. Oxyrhynchos
+genre:    documents
+date:     201 CE – 400 CE
+language: Greek (Koiné)
+found:    Paomis (Oxyrhynchites) bzw. Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Paomis (Oxyrhynchites) bzw. Oxyrhynchos (201 CE – 400 CE)
+# hgv-keywords: Befehl — decurio an die Komarchen und Demosioi — sich mit ihm zu treffen
+tm:       128313
+source:   https://papyri.info/ddbdp/p.oxy;74;5007
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    παρὰ τοῦ δεκαδάρχου κωμάρχαις
+r.2    καὶ δημοσίοις κώμης Παώμεως. ἐξαυτῆς λαβόντες
+r.3    γράμματα φροντίσατε
+r.4    συναντῆσαί μοι μέχρι τῆς
+r.5    συνορίας ὑμῶν ἅμα τῷ
+r.6    πεμφθέντι νομοφύλακι.
+
+[TRANSLATION]
+# HGV-EN: From the decurio to the comarchs and demosioi of the village of Paomis. Immediately after you receive (my) letter, see to it that you meet me with the dispatched nomophylax as far as your border. (2nd hand) I signed. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

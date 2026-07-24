@@ -1,0 +1,44 @@
+[META]
+id:       APF 69.114
+label:    APF 69.114
+name:     Receipt — Memphis
+genre:    receipts
+date:     225 CE – 245 CE
+language: Greek (Koiné)
+found:    Memphis
+held:     Berlin
+shelf:    
+content:  Receipt from Memphis (225 CE – 245 CE)
+# hgv-keywords: Quittung — Bestätigung — Übernahme — Schiff — Düngemittel
+tm:       23046
+source:   https://papyri.info/ddbdp/apf;69;114
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    Μᾶρκος Αὐρήλιος Σαραπίων Μικκάλου καὶ ὡς
+r.2    χρηματίζει Μάρκῳ Αὐρηλίῳ Ὡρίωνι
+r.3    οὐ[ετραν]ῷ τῶν ἐντίμως ἀπολυθέντων
+r.4    χαίρε[ι]ν. ὁμολογῶ παρειληφέναι παρὰ σοῦ
+r.5    πλοῖόν σου ποτάμιον ἀμμοκοπρηγόν, ᾧ παράσημ[ον] Μυρισμὸς σὺν ἱστῷ καὶ κέρατι καὶ ψιαθαρμένῳ … καὶ κοντοῖς σιδηροχήλοις
+r.6    τέτρασι … καὶ ἄλλοις [δ]υσὶ … σὺν σχοινίῳ
+r.7    αμ … καὶ α … ριοις, σὺν ποδώματι,
+r.8    [ὥστε ποιήσασ]θαι μὲ σ[ὺ]ν αὐτῷ τὴν ἀμμοκοπρηγ[ικ]ὴν ἐ[ρ]γασίαν, σὺν τοῖς αὐταρκοῦσι
+r.9    ναύτα[ις, ἐπὶ μῆ]νας δώδεκα ἀπὸ δεκάτης τοῦ
+r.10   ἐνε[σ]τ[ῶτος] μηνός. παντὸς δὲ τοῦ περιγινομένου [κοπρίο]υ τὸ αἱροῦν μέρος τρίτον τελέσω σοι [ἀμέμπτω]ς καὶ ἀνεγκλήτως. τελέσω δὲ
+r.11   παράλημψις Μυρισμ[οῦ]
+
+[TRANSLATION]
+# HGV-EN: Marcus Aurelius Sarapion, son of Mikkalos, and however I am styled, to Marcus Aurelius Horion, veteran honourably discharged, greetings. I acknowledge that I have received from you your ammokopregon river boat, with Myrismos as its ensign, with mast, and yard, and sails made (padded?) with rush-mats … with four punt poles with iron heads … and two other punt poles?, and with a rope … and anchor cables?, with bilge boards, so that I perform with it the ammokopregike work, with sufficient crew, for twelve months from the tenth of the present month. And of all produced fertiliser, I shall pay you the share of one third, blamelessly and in exemplary fashion. And I shall pay… Receipt of Myrismos
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

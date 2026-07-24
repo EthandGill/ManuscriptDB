@@ -1,0 +1,30 @@
+[META]
+id:       CDE 91.194
+label:    CDE 91.194
+name:     Letter — Hermopolites
+genre:    letters
+date:     576 CE – 625 CE
+language: Greek (Koiné)
+found:    Hermopolites
+held:     Wien
+shelf:    
+content:  Letter from Hermopolites (576 CE – 625 CE)
+# hgv-keywords: Brief (privat) — Textilien — Halfter
+tm:       701140
+source:   https://papyri.info/ddbdp/cde;91;194
+lat:      
+lon:      
+
+[GREEK]
+r.1    διὰ τὸν θεὸν μὴ ἐάσῃς τὸν τοπω …
+r.2    τὸ ὀθόνιον καὶ τὸ φακιάλιον. πέμψ[ον] …
+r.3    τηνα φορβειάν τὴν ἀνακρεμασθεῖσαν …
+r.4    … παρὰ Πέτρου.
+
+[TRANSLATION]
+# HGV-EN: For God’s sake, don’t let ... the linen cloth and the face-cloth. ... sent … halter that is hanged ... ... from Petros.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

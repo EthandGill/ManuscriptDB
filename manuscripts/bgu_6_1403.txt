@@ -1,0 +1,26 @@
+[META]
+id:       BGU 6.1403
+label:    BGU 6.1403
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     109 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (109 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       4702
+source:   https://papyri.info/ddbdp/bgu;6;1403
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    τέτακται εἰς τὰ πορθμικὰ
+r.2    τοῦ η ἔτους Πατοῦς Ἁρεμσύνιος
+r.3    χαλκοῦ υ γίνονται υ. ἔτους η Τῦβι ιε.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,34 @@
+[META]
+id:       BGU 1.160
+label:    BGU 1.160
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (158 CE – 159 CE)
+# hgv-keywords: Quittung — Getreide — Saat
+tm:       8928
+source:   https://papyri.info/ddbdp/bgu;1;160
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σπερμάτων κβ ἔτους Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου ϙβ
+r.3    κληρουχίας Ὀννῶφρις
+r.4    Πεθέως καὶ Σαταβοὺς Πεταυ
+r.5    Ψεναρψενήσεως Καμηλιανῆς ἀρούρας ζ η, Πτολεμαίδος Γερμανικιανῆς
+r.6    ἀρούρας δ 𐅵
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 22 of Antoninus Caesar, the lord. 92nd cleruchy. Onnophris, son of Petheus and Satabous, son of Petau. At Psenarpsenesis 7 1/8 arouras on the Camelian (estate), at Ptolemais 4 1/2 arouras on the Germanician (estate).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

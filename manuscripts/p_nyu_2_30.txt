@@ -1,0 +1,32 @@
+[META]
+id:       P.NYU 2.30
+label:    P.NYU 2.30
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (101 CE – 200 CE)
+# hgv-keywords: Aufstellung — erhaltene Zahlungen (Gehalt) — vier Einzelzahlungen
+tm:       121976
+source:   https://papyri.info/ddbdp/p.nyu;2;30
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [λ]όγος σαλαρίου καὶ
+r.2    [ὀψ]ωνί[ο]υ ὧν ἔσχομεν·
+r.3    α δόσις δραχμὰς ω·
+r.4    β δόσις δραχμὰς τμ·
+r.5    γ δόσις δραχμὰς σξ·
+r.6    δ δόσις δραχμὰς σ·
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

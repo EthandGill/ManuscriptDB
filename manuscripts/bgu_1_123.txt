@@ -1,0 +1,44 @@
+[META]
+id:       BGU 1.123
+label:    BGU 1.123
+name:     Documentary papyrus — Ptolemais Euergetis (Arsinoites)
+genre:    documents
+date:     175 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Ptolemais Euergetis (Arsinoites) (175 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       8900
+source:   https://papyri.info/ddbdp/bgu;1;123
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    [Ἀσκληπιάδῃ] βασιλικῷ γραμματεῖ [Ἀρσινοΐτου] Ἡρακλείδου μερ[ίδος]
+r.2    [παρὰ Τα]μύσθας Θέωνος τοῦ Δημ[η][τρίου μ]ετὰ κυρίου τοῦ συγγενοῦς
+r.3    … ωνίου τοῦ Θέωνος ἀπὸ τῆς μη[τρο][πόλεω]ς κ … μερῶν. ὑπάρχει μοι [ἐπʼ]
+r.4    [ἀμφό]δου Ὡρίωνος Ἱερακίου ὄγδοον μέρος
+r.5    [οἰκίας, ἐ]ν ᾧ ἀπογράφομαι τὸν ὑπογεγραμμένον ἔνοικ[ον]
+r.6    [εἰς τὴν τοῦ ][δ]ιεληλυθότος ιδ ἔτους Αὐρηλίου Ἀντωνί[νου]
+r.7    [Καίσαρος τοῦ] κυρί[ου] κατʼ οἰκίαν ἀπ[γ]ραφὴν ἐπʼ ἀ[μ][φόδου Γυμν]ασίου, [ἐ]φʼ οὗ καὶ τῇ [τ]οῦ κγ ἔτους
+r.8    [ἀπογραφῇ ][ἀπεγ]ραψάμην. καί ἐ[σ]τιν Δημή[τ]ριος
+r.9    … [ τοῦ Διον]υσίου μητρὸς …
+r.10   … [ἰδι]ώτης λα[ογραφούμενος] …
+r.11   … θα …
+
+[TRANSLATION]
+# HGV-EN: [To Asklepiades], royal scribe [of the Arsinoite nome], Herakleides division, [from Ta]mystha, daughter of Theon, son of Dem[etrios] with her guardian and kinsman onios, son of Theon from the Other Goosefarms quarter. There belongs to me [in] the quarter of the Hawk shrine of Horion an eighth of a house, in which I register the below mentioned lodger for the house-by-house registration of the past 14th year of Aurelius Antoni[nus Caesar, the] lord, in the [Gymn]asium quarter, in which I registered in the [registration] of year 23 as well. And there is Deme[t]rios, [son of NN, the son of Dion]ysios, mother [NN, scrutinized idi]otes, [subject to poll-tax]– – –
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

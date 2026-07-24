@@ -1,0 +1,42 @@
+[META]
+id:       P.Oxy. 9.1207
+label:    P.Oxy. 9.1207
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     175 CE – 176 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (175 CE – 176 CE)
+# hgv-keywords: Vertrag (Pacht) — Stall (Kamel) — Zahlung erfolgt jährlich in Geld und Naturalien
+tm:       21593
+source:   https://papyri.info/ddbdp/p.oxy;9;1207
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … [ ἀπʼ Ὀξυρύγχω]ν π[ό]λε[ως] ἐπὶ χρόνον
+r.2    ἔτη πέντε ἀπὸ α Θὼθ τοῦ εἰσιόντος ιζ ἔτους ὃν ἔχουσι ἐπʼ ἀμφόδου Ἑρμαίου καμηλῶνα σὺν τοῖς τούτου χρηστηρίοις πᾶσι εἰς ὀρνιθῶνα, παρὲξ τόπων
+r.3    ἐνχρῃζόντων εἰς ἐλαιουργεῖον ὧν ἐὰν αἱρῆται
+r.4    ὁ Ἐπίμαχος, ἐνοικίου τῶν λοιπῶν τόπων ἐπὶ
+r.5    τὴν πενταετίαν κατʼ ἔτος δραχμῶν τριακοσίων καὶ ἐκτάκτων ὁμοίως κατʼ ἔτος ἀλεκτρυόνων
+r.6    τελείων τεσσάρων , ὀρνίθων τελείων τοκάδων
+r.7    ὀκτώ , ᾠῶν ἑκατόν , καὶ σπονδ[ῆς] παιδαρίοις
+r.8    δραχμῶν ὀκτώ . βεβαιουμένης δὲ τῆς μισθώσεως ἀποδότω ὁ μεμισθωμένος τοῖς μεμισθωκόσι τὰ μὲν ἔκτακτα ὁπόταν βούλωνται τὸ δὲ ἐνοίκιον ἐν προθεσμίαις δυσὶ Φαμεννὼθ καὶ Μεσορὴ ἀνυπερθέτως. χράσθω οὖν ὁ αὐτὸς μεμισθωμένος σὺν τοῖς
+r.9    παρʼ αὐ[τ]οῦ υἱοῖς καὶ οἷς … [το]ῖς [μ]ισθουμ[έν]οι[ς]
+r.10   [αὐτῷ τόποις ] …
+
+[TRANSLATION]
+# HGV-EN: [... have leased to ...] of the city of Oxyrhynchus, for a period of five years from Thoth 1 of the coming 17th year the camel-stall which they have in the quarter of the Hermaeum together with al its appurtenances, for a fowl-house, excluding any parts needed for an oil-press that may be chosen by Epimachus, the rent for the rest of the premises for the term of five years being 300 drachmae annually, with an additional payment likewise annually of 4 cocks in perfect condition, 8 laying hens in perfect condition, 100 eggs, and 8 drachmae for the slaves for a libation. On the lease being guaranteed, the lessee shall pay to the lessors the additional payments whenever they wish and the rent at the two fixed dates of Phamenoth and Mesore with no delay. The lessee with his sons or [other agents] shall then utilize the premises leased to him ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

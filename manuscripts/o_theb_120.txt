@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 120
+label:    O.THEB 120
+name:     Receipt — Theben
+genre:    receipts
+date:     126 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (126 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       76490
+source:   https://papyri.info/ddbdp/o.theb;;120
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος
+r.2    ι ἔτους Ἁδριανοῦ τοῦ κυρίου Μεσορὴ κβ
+r.3    ὀνόματος Μαιεύριος Ἁρφμόιτος
+r.4    ὑπὲρ Ἀγορῶν πυροῦ τέταρτον γίνεται πυροῦ ἀρτάβης δ.
+r.5    Ἐπ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

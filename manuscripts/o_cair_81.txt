@@ -1,0 +1,28 @@
+[META]
+id:       O.CAIR 81
+label:    O.CAIR 81
+name:     Receipt — Elephantine
+genre:    receipts
+date:     118 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (118 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       73427
+source:   https://papyri.info/ddbdp/o.cair;;81
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σανμοῦς πράκτωρ. διέγραψεν Παχνοῦβις Πετορζμήθεως μητρὸς Τισάτιος ὑπὲρ
+r.2    μερισμοῦ ποταμοφυλακίδος τοῦ β ἔτους
+r.3    Ἁδριανοῦ τοῦ κυρίου ἀργυρίου δραχμὴν α τετρώβολον.
+r.4    Μεχεὶρ ε. Σαραπίων γραμματεὺς ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

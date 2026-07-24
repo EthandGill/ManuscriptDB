@@ -1,0 +1,44 @@
+[META]
+id:       P.HARR 3.277
+label:    P.HARR 3.277
+name:     Documentary papyrus — unbekannt
+genre:    documents
+date:     446 CE – 447 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     Birmingham
+shelf:    
+content:  Documentary papyrus from unbekannt (446 CE – 447 CE)
+# hgv-keywords: Dokument — Juristische Auseinandersetzung (?)
+tm:       998606
+source:   https://papyri.info/ddbdp/p.harr;3;277
+lat:      
+lon:      
+
+[GREEK]
+r.1    χμγ
+r.2    [μετὰ τὴν ὑπατείαν το]ῦ δεσπότου ἡμῶν Οὐαλεντινι[ανοῦ τοῦ αἰωνίου] …
+r.3    [Αὐγούστου τὸ ϛ καὶ ] … Νόμου τοῦ λαμπροτάτου …
+r.4    [Φλαουΐῳ] … [τ]ῷ λαμπροτάτῳ ἀπὸ πραίτο[ρος ] …
+r.5    … οι …
+r.6    … ς τοῦ κυρίου …
+r.7    … [πρ]οσβασ … σαμένου αὐτ …
+r.8    … ἐμοῦ δὲ τοῦ λαμπροτάτου Ἰωά[ννου] …
+r.9    … [τῆ]ς μελλούσης συγκροτ[ήσεως ] …
+r.10   … [ἀμφι]σβητήσεως καταλ …
+r.11   … ου Ἱερακί[ω]να καὶ σα …
+
+[TRANSLATION]
+# HGV-EN: After the consulship of our master Valentinianus, eternal Augustus, for the 6th time, and Flavius Nomus, vir clarissimus … To Flavius …, vir clarissimus, ex praetore, … of me, Ioannes, vir clarissimus, … of the future agreement … dispute … Hierakion …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

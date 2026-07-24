@@ -1,0 +1,32 @@
+[META]
+id:       P.RYL 2.206B
+label:    P.RYL 2.206B
+name:     Documentary papyrus — Hermopolis (?)
+genre:    documents
+date:     249 CE – 268 CE
+language: Greek (Koiné)
+found:    Hermopolis (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Hermopolis (?) (249 CE – 268 CE)
+# hgv-keywords: Anweisung (Zahlung)
+tm:       19528
+source:   https://papyri.info/ddbdp/p.ryl;2;206B
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    Αὐρήλιος Σαραπίων κοσμητεύσας βουλευτὴς [Α]ὐρηλίοις Θῶνι καὶ Ἀπίωνι [τοῖς]
+r.2    τιμιωτάτοις χαίρειν. καλῶς ποιήσετε με[τ]αβαλόμενοι ἀπὸ τιμῆ[ς] σί[το]υ ἐμοῦ
+r.3    εἰς λόγον διαγραφῆς μηνιαίου Ἁθὺρ ὑπὲρ Φαῶφι Διονυσί[ῳ ἀ]παιτητῇ Ἀμμωνᾶ
+r.4    δεκαπρώτου δραχμὰς διακοσίας πεντήκοντα δύο, γίνονται δραχμαὶ σνβ. ἐρρῶσθαι ὑμᾶς εὔχ[ο]μαι.
+r.5    ἔτους α Ἁθὺρ ιβ.
+
+[TRANSLATION]
+# HGV-EN: ‘Aurelius Sarapion, ex-cosmetes, senator, to his most esteemed Aurelius Thonis and Aurelius Apion, greeting. Please transfer from the price of my wheat on account of the monthly payments of Hathur for Phaophi to Dionysius, collector of Ammonas, decemprimus, 252 drachmae, total 252 dr. I pray for your health.’ The 1st year, Hathur 12.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

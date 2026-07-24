@@ -1,0 +1,70 @@
+[META]
+id:       P.Oxy. 10.1265
+label:    P.Oxy. 10.1265
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     336 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (336 CE)
+# hgv-keywords: Erklärung — Eid — ein Priester erklärt — sein Amt von seinem Vater ererbt zu haben
+tm:       21807
+source:   https://papyri.info/ddbdp/p.oxy;10;1265
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    μετὰ τὴν ὑπατείαν Ἰουλίου Κωνσταντίου
+r.2    πατρικίου ἀδελφοῦ τοῦ δεσπότου ἡμῶν
+r.3    Κωνσταντίνου Αὐγούστου καὶ Ῥουφίου
+r.4    Ἀλβίνου τῶν λαμπροτάτων.
+r.5    Φλαουίῳ Παιανίῳ τῷ καὶ Μακροβίῳ λογιστῇ Ὀξυρυγχίτου
+r.6    παρὰ Αὐρηλίου Θωνίου Δημητρίου
+r.7    ἀπὸ τῆς αὐτῆς πόλεως ἱερέως
+r.8    ἱεροῦ Διὸς καὶ Ἥρας καὶ τῶν συννάων
+r.9    θεῶν μεγίστων [κα]ὶ κωμαστοῦ
+r.10   θείων προτομῶν καὶ Νίκης αὐτῶν
+r.11   προαγούσης. ἐπέθετό μοι ἡ
+r.12   σὴ ἐμμέλε[ια ἐγγρά]φως δηλῶσαι
+r.13   πόθεν εἴην π[α]ρ[ῃ]ρηκὼς τὸ προκίμενον ἀξίωμα. κατὰ ταῦτα
+r.14   ὁμολογῶ ὀμνὺς τὸν σεβάσμιον θεῖον ὅρκον
+r.15   τῶν δεσποτῶν ἡμῶν Αὐτοκράτορός τε
+r.16   καὶ Καισάρων ἐκ διαδοχῆς τοῦ προειρημένου μου πατρὸς Δημητρίου
+r.17   [ἐ]σχηκέναι τὸ αὐτὸ ἀξίωμα
+r.18   καὶ ἐκείν[ο]υ τυγχάνοντος ἱερέως
+r.19   τῶν αὐτῶν ἱερέων καὶ κωμαστῶν θείων προτομῶν καὶ
+r.20   μηδὲν διεψεῦσθαι, ἢ ἔνοχος εἴην
+r.21   τῷ θείῳ ὅρκῷ.
+r.22   ὑπατείας τῆς προκειμένης Φαμενὼθ λ.
+r.23   [Α]ὐρήλιος Θώνιος ὤμοσα
+r.24   τὸν θεῖον ὅρκον ὡς πρόκειται.
+
+[TRANSLATION]
+# HGV-EN: The year after the consulship of Julius Constantius, patrician, brother of our master Constantinus Augustus, and Rufius Albinus, the most illustrious. To Flavius Paranius also called Macrobius, logistes of the Oxyrhynchite nome, from Aurelius Thonius son of Demetrius, of the same city, priest of the temple of Zeus, Hera, and the associated most great gods, celebrant of the divine images and their advancing victory. Your grace enjoined me to state in writing whence I obtained the aforesaid rank. Accordingly I acknowledge, swearing the holy, divine oath by our masters the Emperor and the Caesars, that I received the said rank in succession to my aforesaid father Demetrius, who was himself one of the said priests and celebrants of the divine images, and that I have made no false statement, under penalty of the consequences of the divine oath. In the consulate aforesaid, Phamenoth 30. I, Aurelius Thonius, have sworn the divine oath, as aforesaid.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    

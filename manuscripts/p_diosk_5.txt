@@ -1,0 +1,60 @@
+[META]
+id:       P.DIOSK 5
+label:    P.DIOSK 5
+name:     Petition — Herakleopolites
+genre:    petitions
+date:     146 BCE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Petition from Herakleopolites (146 BCE)
+# hgv-keywords: Eingabe an den Phrurarchen — illegaler Handel — Eselshäute — Bitte um Gewahrsam bis zur Verhandlung
+tm:       44721
+source:   https://papyri.info/ddbdp/p.diosk;;5
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    Διοσκουρίδῃ ἡγεμόνι
+r.2    καὶ φρουράρχωι παρʼ Ἰάσονος
+r.3    καὶ Πετάλου τῶν πραγματευομένων τὴν δερματηρὰν τοῦ Ἡρακλεοπολίτου εἰς τὸ λε ἔτος.
+r.4    τῆι κα τοῦ Χοιὰχ
+r.5    εὑρόντ[ε]ς βύρσας ὀνέας
+r.6    ἐννέα παρεδώκαμεν
+r.7    Ἀπολλωνίωι καὶ Ἐπιμάχωι
+r.8    τοῖς π[α]ρὰ σοῦ καὶ
+r.9    σοὶ δὲ Δίδυμον
+r.10   τον̀ κεκολπιτευκότα
+r.11   αὐτά. ἐὰν οὖν φαίνεται,
+r.12   συνεχέσθω ὅ τε ἄνθρωπος καὶ τὰ φορτία
+r.13   μέχρι τοῦ ἐν κοινῷ
+r.14   συνεδρίῳ διεξαχθῇ
+r.15   τὰ κατʼ αὐτόν.
+r.16   εὐτύχει. ἔτους λε Χοιὰχ
+r.17   κα.
+r.18   ἔτους λε Χοιὰχ κβ Ἰάσονος κατὰ Διδύμου
+r.19   περὶ ἐπιτίμου βυρσῶν.
+
+[TRANSLATION]
+# HGV-EN: To Dioskourides, hegemon and garrison commander, from Iason and Petalos, those in charge of the tax on hides in the Herakleopolite nome in year 35. On the 21st of Choiach, after discovering 9 donkey hides, we handed them over to Apollonios and Epimachos, your agents; and to you, we handed over Didymos, the man who had smuggled them. Therefore, if it seems best, let this man and the wares be detained until the accusations against him may be examined in a general tribunal. Farewell. Year 35, Choiach 21. (in a second hand) Year 35, Choiach 22. (Petition) of Iason against Didymos concerning the fine on hides.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

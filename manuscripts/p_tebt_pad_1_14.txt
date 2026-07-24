@@ -1,0 +1,32 @@
+[META]
+id:       P.TEBT.PAD 1.14
+label:    P.TEBT.PAD 1.14
+name:     Documentary papyrus — Tebtynis (Arsinoites, Ägypten)
+genre:    documents
+date:     94 BCE – 93 BCE
+language: Greek (Koiné)
+found:    Tebtynis (Arsinoites, Ägypten)
+held:     
+shelf:    
+content:  Documentary papyrus from Tebtynis (Arsinoites, Ägypten) (94 BCE – 93 BCE)
+# hgv-keywords: Auftrag zur Übersendung des Preises für eine Sklavin — Fragment
+tm:       412068
+source:   https://papyri.info/ddbdp/p.tebt.pad;1;14
+lat:      29.10713705
+lon:      30.7620317
+
+[GREEK]
+r.1    πέμψον παρὰ Μάρωνος τὴν
+r.2    τιμὴν τῆς παιδίσκης ἵνα μὴ
+r.3    ο … ἔτος κα
+r.4    … ντος …
+r.5    Ἰσιδοτ …
+
+[TRANSLATION]
+# HGV-EN: Send from Maron the price of a female slave lest [...] year 21 [...] Isidotos [...]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,32 @@
+[META]
+id:       O.LEID 66
+label:    O.LEID 66
+name:     Receipt — Theben
+genre:    receipts
+date:     53 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (53 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24638
+source:   https://papyri.info/ddbdp/o.leid;;66
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Σενφα[ῆ]ρις Παβούχιος
+r.2    ὑπὲρ φοινικώνων ἱερατικῶν ιγ ἔτους δραχμὰς ἑπτὰ τριώβολον,
+r.3    γίνονται δραχμαὶ ζ τριώβολον καὶ τὰ τούτων προσδιαγραφόμενα. ἔτους ιδ Τιβερίου
+r.4    Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.5    Αὐτοκράτορος μηνὸς Νέου Σεβαστοῦ κδ.
+r.6    Κέφαλος σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

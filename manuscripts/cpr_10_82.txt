@@ -1,0 +1,24 @@
+[META]
+id:       CPR 10.82
+label:    CPR 10.82
+name:     Receipt — Herakleopolites
+genre:    receipts
+date:     401 CE – 600 CE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Receipt from Herakleopolites (401 CE – 600 CE)
+# hgv-keywords: Namen — Brief? — Quittung?
+tm:       35356
+source:   https://papyri.info/ddbdp/cpr;10;82
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    Θεοδώρῳ
+r.2    Ἡράκλειος
+
+[TRANSLATION]
+1     
+2     

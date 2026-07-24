@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1167
+label:    O.BODL 2.1167
+name:     Receipt — Elephantine
+genre:    receipts
+date:     142 CE – 146 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (142 CE – 146 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71851
+source:   https://papyri.info/ddbdp/o.bodl;2;1167
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σωτὴρ πράκτωρ [ἀργυρικῶν Ἐλεφαντίνης. διέγραψεν]
+r.2    Πετορζμῆτις …
+r.3    μων …
+r.4    ἐπὶ λόγου …
+r.5    Σωτὴρ σε[σημείωμαι].
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

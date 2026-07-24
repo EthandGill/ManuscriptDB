@@ -1,0 +1,26 @@
+[META]
+id:       SB 4.7398
+label:    SB 4.7398
+name:     Receipt — Elephantine
+genre:    receipts
+date:     118 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (118 CE)
+# hgv-keywords: Quittung — Zahlung für Statue
+tm:       18045
+source:   https://papyri.info/ddbdp/sb;4;7398
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σανμοῦς πράκτωρ. διέγραψεν Ψενχνοῦβις Πελαίου ὑπὲρ συνεισφορᾶς ἀνδριάντος χαλκοῦ καὶ προτομῆς ἀργυρᾶς Ἁδριανοῦ τοῦ κυρίου
+r.2    ἀργυρίου δραχμὰς δ. ἔτους β,
+r.3    [Πα]χὼν κθ.
+
+[TRANSLATION]
+1     
+2     
+3     

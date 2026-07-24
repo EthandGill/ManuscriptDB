@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.429
+label:    O.STRAS 1.429
+name:     Receipt — Theben
+genre:    receipts
+date:     175 CE – 176 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (175 CE – 176 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       76017
+source:   https://papyri.info/ddbdp/o.stras;1;429
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    παρεκομίσθη εἰς τὴν
+r.2    σπεῖραν ὀνόματος Παναμέως
+r.3    Ψενμώνθου καὶ μετόχων ἀχύρου
+r.4    γόμου ἥμισυ γίνεται γόμου 𐅵
+r.5    ὑπὲρ γενήματος ιϛ ἔτους
+r.6    Αὐρηλίου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

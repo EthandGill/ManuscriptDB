@@ -1,0 +1,30 @@
+[META]
+id:       O.HEID 158
+label:    O.HEID 158
+name:     Receipt — Theben
+genre:    receipts
+date:     69 CE – 79 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (69 CE – 79 CE)
+# hgv-keywords: Quittung — Steuer (Badesteuer?)
+tm:       80381
+source:   https://papyri.info/ddbdp/o.heid;;158
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Χαταβοῦς καὶ μέτοχοι τελῶναι θησαυροῦ
+r.2    ἱερῶν Πετεχώνσει
+r.3    Ψανσνῶτος ἠπητῇ χαίρειν. ἀπέχομεν
+r.4    [τὸ βαλανευτικὸν τοῦ ] … ἔτους Οὐεσπασιανοῦ
+r.5    [τοῦ κυρίου ] … 1 ὀβολόν.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

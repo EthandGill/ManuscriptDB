@@ -1,0 +1,30 @@
+[META]
+id:       O.BERL 51
+label:    O.BERL 51
+name:     Receipt — Theben
+genre:    receipts
+date:     132 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (132 CE)
+# hgv-keywords: Quittung — Pachtzins
+tm:       24448
+source:   https://papyri.info/ddbdp/o.berl;;51
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα εἰς θησαυρὸν μητροπόλεως γενήματος ιϛ ἔτους Ἁδριανοῦ
+r.2    Καίσαρος τοῦ κυρίου Ἐπεὶφ κζ
+r.3    ὀνόματος Ψεναμούνιος Παμώνθου
+r.4    Ἀβῶτος ὑπὲρ Χάρακος πυροῦ ἀρτάβην μίαν ἥμισυ τέταρτον,
+r.5    γίνεται πυροῦ ἀρτάβη α 𐅵 δ Ε πυροῦ ἀρτάβην α 𐅵 δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

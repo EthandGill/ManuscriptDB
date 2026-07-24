@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 12.1460
+label:    P.Oxy. 12.1460
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     219 CE – 220 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (219 CE – 220 CE)
+# hgv-keywords: Revision von Listen der Besitzer (Land) gefordert — da Ungerechtigkeiten bei Abgaben (Getreide) — Liste unkorrect — ius liberorum
+tm:       21861
+source:   https://papyri.info/ddbdp/p.oxy;12;1460
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    … γ ἔτους
+r.2    … θ …
+r.3    Αὐρηλίωι Ἁρποκρα[τ]ίωνι στρατηγῷ Ὀ[ξυρυγχίτου]
+r.4    παρὰ Φλαυίας Μ[α]ρκέλλης χρημα[τιζούσης]
+r.5    χωρὶς κυρίου κατὰ τὰ Ῥωμαίων ἔθη [τέκνων]
+r.6    δικαίῳ. ἐπειδὴ ἡ ἀπαίτησι[ς] τῶν [σιτικῶν]
+r.7    ἐγείνετο ἀπὸ ἀρχαίων ὀνομάτων [τῶν πλεί]στων γενομένων ἐπιπλάστω[ν καὶ ἀπαί]τησιν ἐποιοῦ[ν]το ἐξ ἧς πολλοὶ ἠ[δικοῦντο,]
+r.8    ἐκελεύσθη ἀνανεωθῆναι εἰς τὰ ν …
+r.9    καὶ κατʼ ἔτος σωματισθῆναι καὶ κα[ταχωρισθῆ]ναι τύπῳ τῷδε. τί ἑκάστῳ ὑπ[ά]ρ[χει ἐφʼ ἑκά]στης κώμης καὶ ἐκ τοῦ ποίου εἴδ[ους][, τί]
+r.10   ἰδιωτικῆς γῆς, τί δὲ δημοσία[ς, ποῖαι]
+r.11   [δ]ὲ κα[ρ]πεῖα[ι] ἐπʼ ἀρουρηδῷ καθʼ ἕ[κ]αστο[ν ὄνομα]
+r.12   [σὺν το]ῖς ὀφειλομένοις γέ[νεσ]ι …
+r.13   … ἡ κρατίστη
+r.14   [βουλη ] …
+r.15   … τῳ ἐπιστρα[τηγ ] …
+
+[TRANSLATION]
+# HGV-EN: To Aurelius Harpocration, strategus of the Oxyrhynchite nome, from Flavia Marcella, acting without a guardian in accordance with Roman custom by the ius liberorum. Since the collection of corn-dues was being based upon old lists of names, most of which were fictitious, and collections were being made which involved injustice to many, orders were given that the dues should be revised ..., and should be entered on the lists annually and registered upon the following plan, namely with a statement how much is owned by each individual at each village and to what class it belongs, how much is private land and how much public, and what kind of crops are grown in each case on the particular arurae, together with the classes (of produce) due...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

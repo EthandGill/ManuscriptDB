@@ -1,0 +1,24 @@
+[META]
+id:       SB 6.9404
+label:    SB 6.9404
+name:     Documentary papyrus — Memphis
+genre:    documents
+date:     118 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Documentary papyrus from Memphis (118 BCE)
+# hgv-keywords: Vermerk — Verbuchung einer Urkunde
+tm:       5767
+source:   https://papyri.info/ddbdp/sb;6;9404
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    ἔτους [ν]β Μεσορὴ ἡμέρᾳ ἐπαγομένων ε ἐν Μέμφει ἀναγέγραπται
+r.2    διʼ Ἀπολλονίου τοῦ παρʼ Ἡρακλίδου
+
+[TRANSLATION]
+1     
+2     

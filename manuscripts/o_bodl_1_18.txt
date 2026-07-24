@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 1.18
+label:    O.BODL 1.18
+name:     Receipt — Theben
+genre:    receipts
+date:     245 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (245 BCE)
+# hgv-keywords: Quittung — Steuer — Salzsteuer
+tm:       44071
+source:   https://papyri.info/ddbdp/o.bodl;1;18
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους γ Παχὼνς α
+r.2    πέπτωκεν
+r.3    ἁλικῆς διὰ Διονυσοδώρου
+r.4    Τσονθῶυθ δραχμ 1.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

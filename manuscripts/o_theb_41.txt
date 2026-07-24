@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB 41
+label:    O.THEB 41
+name:     Receipt — Theben
+genre:    receipts
+date:     64 CE – 65 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (64 CE – 65 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76411
+source:   https://papyri.info/ddbdp/o.theb;;41
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πικῶς Παμώνθου καὶ μέτοχοι
+r.2    Σενφαήρει χαίρειν. ἀπέχομεν ἄλλας
+r.3    δραχμὰς τέσσαρας γίνονται δραχμαὶ δ τοῦ ια ἔτους Νέρωνος
+r.4    τοῦ κυρίου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,28 @@
+[META]
+id:       O.LEID 166
+label:    O.LEID 166
+name:     Receipt — Theben
+genre:    receipts
+date:     220 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (220 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24723
+source:   https://papyri.info/ddbdp/o.leid;;166
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παῦνι β τοῦ γ ἔτους ὀνόματος Ἀμμωνίου
+r.2    Ὥρου νεωτέρου Ψεναμούνιος διὰ Ψεναμούνιος
+r.3    ὑπὲρ στεφανικοῦ χρήματος τοῦ αὐτοῦ γ ἔτους
+r.4    δραχμὰς τέσσαρας, γίνονται δραχμαὶ δ. Αὐρήλιος Κρο σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

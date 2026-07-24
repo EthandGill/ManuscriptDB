@@ -1,0 +1,36 @@
+[META]
+id:       O.FRANGE 65
+label:    O.FRANGE 65
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Lettre — Demande d’envoi — Femme — Blé — Fromages — Archives de Frangé
+tm:       140987
+source:   https://papyri.info/ddbdp/o.frange;;65
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ⲁⲛⲟⲕ ϥⲣⲁⲛⲅⲉ
+r.2    ⲉϥⲥϩⲁⲓ ⲛⲧⲉϥϭⲓϫ
+r.3    ⲡⲉⲧⲛⲁⲛ ⲧⲉⲃⲗϫⲉ
+r.4    ⲛⲏ ϫⲟⲟⲩ ϣⲙⲟⲩⲛⲉ
+r.5    ⲙⲙⲁϫⲉ ⲛⲥⲟⲩⲟ ⲛⲁⲓ
+r.6    ⲛⲧⲟⲧϥ ⲙⲛ ϩⲉⲛϩⲁⲗⲱⲙ
+r.7    ⲙⲙⲟⲛ ⲡⲁϩⲏⲧ ϣⲱⲛⲉ
+r.8    ⲟⲩϫⲁⲓ ϩⲙ ⲡϫⲟⲉⲓⲥ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

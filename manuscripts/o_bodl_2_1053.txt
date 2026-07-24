@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1053
+label:    O.BODL 2.1053
+name:     Receipt — Theben
+genre:    receipts
+date:     62 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (62 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71740
+source:   https://papyri.info/ddbdp/o.bodl;2;1053
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἐπώνυχος Πικῶτος καὶ μέτοχοι
+r.2    Ἑρμίᾳ Ἐπωνύχου χαίρειν. ἀπέχομεν
+r.3    τὸ τέλος Ἁθὺρ Χοίαχ τοῦ
+r.4    θ ἔτους Νέρωνος
+r.5    τοῦ κυρίου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

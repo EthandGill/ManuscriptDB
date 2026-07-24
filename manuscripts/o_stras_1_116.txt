@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.116
+label:    O.STRAS 1.116
+name:     Receipt — Theben
+genre:    receipts
+date:     26 CE – 75 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (26 CE – 75 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75716
+source:   https://papyri.info/ddbdp/o.stras;1;116
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Παμώνθης Φατρήους
+r.2    ὑπὲρ λαογραφίας α ἔτους δραχμὰς δέκα …
+r.3    γίνονται δραχμὰς ι …
+
+[TRANSLATION]
+1     
+2     
+3     

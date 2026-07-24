@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1038
+label:    O.BODL 2.1038
+name:     Receipt — Theben
+genre:    receipts
+date:     85 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (85 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71725
+source:   https://papyri.info/ddbdp/o.bodl;2;1038
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φμόις Φθουμείνιος καὶ
+r.2    μέτοχος τελῶναι ἠπητῶν Τιθοεφμόιτι
+r.3    Πετεμενώφιος. ἀπέχομεν παρὰ σοῦ
+r.4    τὸ τέλος Ἁθὺρ Χύαχ.
+r.5    ἔτους ε Δομιτιανοῦ τοῦ κυρίου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       O.CAIR 45
+label:    O.CAIR 45
+name:     Receipt — Theben
+genre:    receipts
+date:     97 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (97 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       73391
+source:   https://papyri.info/ddbdp/o.cair;;45
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Κούτιος καὶ μέτοχοι ἐπιτηρηταὶ θησαυροῦ ἱερῶν
+r.2    Παναμεῖ Νεφερῶτος καὶ Πεκύσει
+r.3    ἀδελφῷ χαίρειν. ἀπέχομεν τὸ βαλανευτικὸν τοῦ α ἔτους Νέρουα
+r.4    Καίσαρος τοῦ κυρίου. Ἐφεὶφ ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

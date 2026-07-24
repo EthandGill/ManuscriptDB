@@ -1,0 +1,30 @@
+[META]
+id:       O.AMST 46
+label:    O.AMST 46
+name:     Receipt — Theben
+genre:    receipts
+date:     131 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (131 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70393
+source:   https://papyri.info/ddbdp/o.amst;;46
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεχεσποχράτης καὶ μέτοχοι τε[λῶναι]
+r.2    θησαυροῦ ἱερῶν Ψεναμούνει … μι Πετεχεσποχράτου
+r.3    χαίρειν· ἔσχομεν παρὰ σοῦ ὑπὲρ βαλανευτικοῦ
+r.4    τοῦ ιε ἔτους Ἁδριανοῦ
+r.5    τοῦ κυρίου Παχὼν β.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,26 @@
+[META]
+id:       P.KOELN 9.378
+label:    P.KOELN 9.378
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     183 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (183 CE)
+# hgv-keywords: Quittung — Steuer — Geld — Kopf-
+tm:       78435
+source:   https://papyri.info/ddbdp/p.koeln;9;378
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    λαογραφίας κγ ἔτους, Μεχεὶρ κγ,
+r.2    Σισόεις Διογένους δραχμὰς
+r.3    τέσσαρας γίνονται δραχμαὶ δ.
+
+[TRANSLATION]
+1     
+2     
+3     

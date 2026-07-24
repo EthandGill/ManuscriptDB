@@ -1,0 +1,24 @@
+[META]
+id:       O.ONT.MUS 1.6
+label:    O.ONT.MUS 1.6
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     300 BCE – 101 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Documentary papyrus from Theben (300 BCE – 101 BCE)
+# hgv-keywords: Abrechnung
+tm:       75029
+source:   https://papyri.info/ddbdp/o.ont.mus;1;6
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους γ Θώυθ ια
+r.2    Ἁρπαῆσις ω
+
+[TRANSLATION]
+1     
+2     

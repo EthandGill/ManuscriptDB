@@ -1,0 +1,32 @@
+[META]
+id:       O.BANKES 54
+label:    O.BANKES 54
+name:     Receipt — Elephantine
+genre:    receipts
+date:     161 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (161 CE)
+# hgv-keywords: Quittung — Pachtzins (?) — Geld
+tm:       699527
+source:   https://papyri.info/ddbdp/o.bankes;;54
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    … Ἀμμωνίου … καὶ
+r.2    … πιλλᾶτι χ[αίρει]ν.
+r.3    [ἔσχο]ν παρὰ σοῦ τὸν φόρ[ον] τη … του …
+r.4    πρότερον γῆς φοινικῶνος
+r.5    δραχμὰς εἴκοσι ὀκτώ, γίνονται δραχμαὶ [κη].
+r.6    ἔτους β , Τῦβι γ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

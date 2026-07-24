@@ -1,0 +1,30 @@
+[META]
+id:       O.NYU 8
+label:    O.NYU 8
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     18 BCE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (18 BCE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869411
+source:   https://papyri.info/ddbdp/o.nyu;;8
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους ιγ Χοιαχιε ταριχευτ- [ι]γ ἔτους
+r.2    Παν … δραχμὰς δεκατέσσαρας
+r.3    τετρώβολον, γίνονται δραχμαὶ ιδ τετρώβολον. Πλε … . ις ὁμοίως δραχμὰς ἑπτὰ ὀβολοὺς
+r.4    δύο, γίνονται δραχμαὶ ζ διώβολον. Πλε … .
+
+[TRANSLATION]
+# HGV-EN: Year 13, Choiach 15, for tarich(eut- ) of the 13th year, Pan..., fourteen drachmas four obols, that is, 14 dr. 4 ob. Ple... . On the 16th, likewise, seven drachmas two obols, that is, 7 dr. 2 ob. Ple... .
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

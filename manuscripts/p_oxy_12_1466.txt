@@ -1,0 +1,44 @@
+[META]
+id:       P.Oxy. 12.1466
+label:    P.Oxy. 12.1466
+name:     Petition — Oxyrhynchites
+genre:    petitions
+date:     245 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Petition from Oxyrhynchites (245 CE)
+# hgv-keywords: Petition — Bitte um Ernennung eines Vormundes (κύριος) — zustimmende Antwort des Präfekten
+tm:       21867
+source:   https://papyri.info/ddbdp/p.oxy;12;1466
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Erminum. ἔτους β Παχὼν κϛ. κόλλημα ϙδ τόμος εἷς .
+r.2    ἑρμηνεία τῶν Ῥω[μαϊκῶν·]
+r.3    Οὐαλερίῳ Φίρμῳ ἐπάρχῳ Αἰγύπτου πα[ρὰ Αὐρηλίας Ἀρσινόης. ἐρωτῶ, κύριε, δοῦναί μοι]
+r.4    κύριον ἐπιγραφόμενον κατὰ νόμον Ἰούλιον κ[αὶ Τίτιον καὶ δόγμα συγκλήτου Αὐρήλιον Ἑρμεῖνον. ἐδόθη]
+r.5    πρὸ ιβ καλανδῶν Ἰουνίων Αὐτοκρά[τορι Φιλίππῳ Σεβαστῷ καὶ Τιτιανῷ]
+r.6    ὑπάτοις. Αὐρηλία Ἀρσινόη Σαραπίωνος ἐ[πιδέδωκα αἰτουμένη τὸν Αὐρήλιον Ἑρμεῖ]νον κύριόν μου ἐπιγραφῆναι. Αὐρήλιος Τιμα[γένης ] … [ ἔγραψα ὑπὲρ αὐτῆς]
+r.7    μὴ εἰδυίας γράμματα. Αὐρήλιος Ἑρμεῖνος Διονυ[σίου εὐδοκῶ τῇ αἰτήσει. ἔτους β Παχὼν κϛ.]
+r.8    εἰ μὴ ἔχεις ἑτέρου κυρίου δίκαιον ὃν α[ἰτεῖ κύριον δίδωμι.]
+r.9    λ … α … ηου εἰς σφ ρ …
+r.10   Αὐρηλίου Ἀχιλλέως υἱοῦ φ,
+r.11   Αὐρηλίου Ἀμμωνίου Κεφαλ …
+
+[TRANSLATION]
+# HGV-EN: (From: J. Rowlandson, Women and Society in Greek and Roman Egypt, 1998, no. 140b.) To Valerius Firmus, prefect of Egypt, from Aurelia Arsinoe. I ask you, my lord, [to give me as a guardian according to the lex Iulia et Titia and the decree of the senate Aurelius] Herminos. Year 2, Pachon 26. Sheet 94, vol. 1 . Translation of the Latin: To Valerius Firmus, prefect of Egypt, from [Aurelia Arsinoe. I ask you, my lord, to give me] as a guardian according to the lex Iulia et [Titia] [Aureius Herminos. Presented] on the 12th day before the Kalends of June in the consulship of the Emperor Philippus Augustus and Titianus. I, Aurelia, Arsinoe daughter of Sarapion, [have presented this petition, requesting that Aurelius Hermi]nos should be appointed my guardian. I, Aurelius Tima[genes ?, son of … wrote for her as she is illiterate. I, Aurelius Herminos son of Dionysios, consent to the petition. Year 2, Pachon 26.] Unless you have the right to another guardian, [I grant you the guardian] for whom [you ask].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

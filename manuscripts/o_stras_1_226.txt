@@ -1,0 +1,34 @@
+[META]
+id:       O.STRAS 1.226
+label:    O.STRAS 1.226
+name:     Receipt — Theben
+genre:    receipts
+date:     137 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (137 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75823
+source:   https://papyri.info/ddbdp/o.stras;1;226
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀσκλᾶς καὶ Σωτὴρ πράκτορες ἀργυρικῶν μητροπόλεως
+r.2    Ἐπωνύχωι Ἡρακλήους Ἀπάθῃ. ἔσχομεν
+r.3    ὑπὲρ τέλους ἀληθικ μυομεν Χάρακος κα ἔτους ῥυπαρὰς δραχμὰς τέσσαρας
+r.4    γίνονται ῥυπαραὶ δραχμαὶ δ. ἔτους κα Ἁδριανοῦ τοῦ κυρίου Τῦβι γ.
+r.5    ἄλλας Παῦνι δ ὀνόματος τοῦ αὐτοῦ ὁμοίως ὑπὲρ ἀληθικ ῥυπαρὰς δραχμὰς
+r.6    τέσσαρας τριώβολον γίνονται δραχμαὶ δ τριώβολον. δραχμαὶ η τριώβολον
+r.7    Σωτὴρ σεσημείωμαι δραχμὰς η τριώβολον.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 10.1281
+label:    P.Oxy. 10.1281
+name:     Contract — Sinary (Oxyrhynchites, Ägypten)
+genre:    contracts
+date:     21 CE
+language: Greek (Koiné)
+found:    Sinary (Oxyrhynchites, Ägypten)
+held:     London
+shelf:    
+content:  Contract from Sinary (Oxyrhynchites, Ägypten) (21 CE)
+# hgv-keywords: Vertrag — Darlehen — Geld gegen Leinen
+tm:       21761
+source:   https://papyri.info/ddbdp/p.oxy;10;1281
+lat:      28.77959
+lon:      30.771891
+
+[GREEK]
+r.1    τῶ[ι Ἰωσήπωι ἐκ τ]οῦ Ἁ[ρπαήσιος καὶ] ἐκ τῶ[ν]
+r.2    ὑπαρχόντων αὐτῶι π[άντων καθάπ]ερ ἐκ δίκης.
+r.3    κυρία ἡ συγγραφή.
+r.4    ἀντίγραφον. Ἁρπαῆσις Πανρύμιος λίνυφος
+r.5    δεδάνεισμαι τὴν τιμὴν τῶν ἑκατὸν
+r.6    λίνων Σινυραιτικῶν σαμκαμυκῶ[ν],
+r.7    τὰς τοῦ ἀργυρίου δραχμὰς τ κεφαλαίου, καὶ ἀποδώ[σω]
+r.8    καθότι πρόκιται, ἐφʼ ὧι κομιζομένου [τοῦ]
+r.9    Ἰωσήπου ταῦτα πρότερον δώσει λόγο[ν]
+r.10   τούτων ἵνα μοι καθῇ τὰς ἑσταμ[ένα]ς ἀρ[γυρίου][ δραχμὰς]
+r.11   πεντήκοντα . Ἡράκλειος Ὥρου ἔγρα[ψα]
+r.12   ὑπὲρ αὐτοῦ μὴ εἰδότος γράμματα.
+r.13   ἀντίγραφον. ἔτους η Τιβερίου Καίσαρος
+r.14   Σεβαστοῦ Τῦβι ε, διὰ Ἀχιλλέως τοῦ πρὸς τῷ
+r.15   γραφείῳ κώμης Σιναρὺ καὶ ἑτέρων κωμῶν κεχρημάτισται.
+
+[TRANSLATION]
+# HGV-EN: ... Joseph [having the right of execution] upon Harpaësis and upon all his property, as if in consequence of a legal decision. This contract is valid. Copy. I, Harpaësis son of Panrumis, linen-weaver, have borrowed the price of the 100 ... Cloths of Sinaru, the capital sum of 300 drachmae of silver, and will repay it as aforesaid, on condition that when Joseph receives it he shall first render an account of it in order that ... the agreed 50 drachmae of silver. I, Heracleus son of Horus, wrote for him, as he is illiterate. Copy. The 8th year of Tiberius Caesar Augustus Tubi 5, executed by Achilles son of Proetus, scribe of the village of Sinaru and other villages.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

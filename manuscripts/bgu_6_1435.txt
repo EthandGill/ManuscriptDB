@@ -1,0 +1,30 @@
+[META]
+id:       BGU 6.1435
+label:    BGU 6.1435
+name:     Receipt — Pathyris
+genre:    receipts
+date:     119 BCE
+language: Greek (Koiné)
+found:    Pathyris
+held:     
+shelf:    
+content:  Receipt from Pathyris (119 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       4726
+source:   https://papyri.info/ddbdp/bgu;6;1435
+lat:      25.369659
+lon:      32.473946
+
+[GREEK]
+r.1    ἔτους να Παχὼν κθ μεμέτρηκεν εἰς τὴν
+r.2    ἐπιγραφὴν τοῦ αὐτοῦ ἔτους Ἀραβίας Πετοῦς
+r.3    Ἑριέως πυροῦ ἑπτὰ γίνονται πυροῦ ζ.
+r.4    ζαρ.
+r.5    Πετοῦς πυροῦ ζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

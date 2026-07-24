@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.131
+label:    O.ONT.MUS 2.131
+name:     Receipt — Theben
+genre:    receipts
+date:     164 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (164 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75150
+source:   https://papyri.info/ddbdp/o.ont.mus;2;131
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ὧρος καὶ μέτοχοι ἐπιτηρηταὶ τέλους θησαυροῦ ἱερῶν
+r.2    Ψεναμούνει … μει …
+r.3    ἔσ[χ]ομεν τὸ βαλανευτικὸν τοῦ δ ἔτους
+r.4    Ἀντωνίνου καὶ Οὐήρου Καισάρων
+r.5    Μεσορὴ γ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,26 @@
+[META]
+id:       O.CAMB 31
+label:    O.CAMB 31
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     86 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (86 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       73510
+source:   https://papyri.info/ddbdp/o.camb;;31
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    διέγραψε Παμώνθης … Πασήμιος
+r.2    ὑπὲρ λαογραφίας Μεμνονείων ε ἔτους δραχμὰς η. ἔτους ε Δομιτιανοῦ
+r.3    Καίσαρος τοῦ κυρίου Μεχεὶρ λ.
+
+[TRANSLATION]
+1     
+2     
+3     

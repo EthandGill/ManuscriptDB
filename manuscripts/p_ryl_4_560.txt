@@ -1,0 +1,36 @@
+[META]
+id:       P.RYL 4.560
+label:    P.RYL 4.560
+name:     Letter — Philadelphia (Arsinoites)
+genre:    letters
+date:     256 BCE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Letter from Philadelphia (Arsinoites) (256 BCE)
+# hgv-keywords: Brief (privat) — Apollonios an Zenon — Dank für Sendung von Kichererbsen
+tm:       2416
+source:   https://papyri.info/ddbdp/p.ryl;4;560
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    Ἀπολλώνιος Ζήνωνι χαίρειν. ὀρθῶς
+r.2    ἐποίησας ἀποστείλας τὸν ἐρέβινθον
+r.3    εἰς Μέμφιν.
+r.4    ἔρρωσο. ἔτους λ Λωίου ιϛ Μεσορὴ ιγ.
+r.5    Ζήνωνι
+r.6    ἔτους λ Λωίου ιδ Μεσορὴ ιδ
+r.7    Ἀπολλώνιος ἐρεβίνθου.
+
+[TRANSLATION]
+# HGV-EN: ‘Apollonius to Zenon, greeting. You did right to send the chickpeas to Memphis. Farewell. Year 30, Louis 16, Mesore 13. (Addressed) To Zenon. (Docketed) Year 30, Louis 14, Mesore 14. Apollonius about the chickpeas.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

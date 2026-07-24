@@ -1,0 +1,30 @@
+[META]
+id:       BGU 2.480
+label:    BGU 2.480
+name:     Documentary papyrus — Philoteris (Arsinoites)
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Philoteris (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Philoteris (Arsinoites) (101 CE – 200 CE)
+# hgv-keywords: Bericht (amtlich) — an die βιβλιοφύλακες — keine neuen Deklarationen (Vieh)
+tm:       28147
+source:   https://papyri.info/ddbdp/bgu;2;480
+lat:      29.383026
+lon:      30.467953
+
+[GREEK]
+r.1    βιβλιοφύλαξι δημοσίων λόγων
+r.2    παρὰ Μύσθης τοῦ Μύσθου
+r.3    καὶ τῶν λοιπῶν ἐπιτηρητῶν νομῶν Φιλωτερίδος διὰ τῶν ἀπὸ
+r.4    [Ὀ]ννείτων. δηλοῦ[μ]εν μηδ[ὲ]ν …
+
+[TRANSLATION]
+# HGV-EN: To the record keepers of the public accounts from Mysthes, son of Mysthes and the remaining superintendents of the pastures of Philoteris through those from [O]nneiton (Koitai / Koite). We depose that nothing
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

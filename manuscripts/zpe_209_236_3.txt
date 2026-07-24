@@ -1,0 +1,30 @@
+[META]
+id:       ZPE 209.236_3
+label:    ZPE 209.236_3
+name:     Documentary papyrus — Oxyrynchites ?, Ägypten
+genre:    documents
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Oxyrynchites ?, Ägypten
+held:     Ann Arbor
+shelf:    
+content:  Documentary papyrus from Oxyrynchites ?, Ägypten (501 CE – 600 CE)
+# hgv-keywords: Anweisung — Bezahlung — Lohn
+tm:       818064
+source:   https://papyri.info/ddbdp/zpe;209;236_3
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Ἀβραάμιος Φοιβάμμωνι
+r.2    παράσχου ὑπὲρ μισθοῦ ἐρέας
+r.3    ἀργυρίου μυριάδας ἐνενήκοντα
+r.4    γίνονται μυριάδες ϙ. Φαμενὼ[θ] … ἰνδικτίoνος ε.
+
+[TRANSLATION]
+# HGV-EN: ⳨ Abraham to Phoibammon. Give as wages for wool ninety myriads of silver = 90 myriads. Phamenoth …, indiction 5.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

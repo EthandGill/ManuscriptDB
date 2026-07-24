@@ -1,0 +1,32 @@
+[META]
+id:       O.WILB 60
+label:    O.WILB 60
+name:     Receipt — Theben
+genre:    receipts
+date:     138 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (138 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76568
+source:   https://papyri.info/ddbdp/o.wilb;;60
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς τησαυρὸν μητροπόλεως γενήματος
+r.2    κβ ἔτους Ἁριανοῦ τοῦ κυρίου
+r.3    Παῦνι δ ὑπὲρ Χάρακος ὀνόματος
+r.4    Παουκαλῆος Παχνούμιος
+r.5    πυροῦ ἀρτάβην μίαν ἥμισυ γίνεται πυροῦ ἀρτάβη α 𐅵
+r.6    Πετεχεσποχράτης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

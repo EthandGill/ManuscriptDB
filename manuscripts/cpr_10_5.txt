@@ -1,0 +1,44 @@
+[META]
+id:       CPR 10.5
+label:    CPR 10.5
+name:     Documentary papyrus — Memphites
+genre:    documents
+date:     609 CE
+language: Greek (Koiné)
+found:    Memphites
+held:     
+shelf:    
+content:  Documentary papyrus from Memphites (609 CE)
+# hgv-keywords: Auftrag — Zahlung — Weizen
+tm:       20842
+source:   https://papyri.info/ddbdp/cpr;10;5
+lat:      29.6279197277
+lon:      31.2486292477
+
+[GREEK]
+r.1    Στέφανος Ἰωάνν[ῃ] ἀπαιτητῇ Πτολεμαίδος.
+r.2    παράσχου ἀββᾷ Ἰσαὰκ μ[ε]ταφορεῖ
+r.3    εἰς μεταφορὰν ὕδατος εἰ[ς ] …
+r.4    ἁγίου Μ … ρ ὁρρίων Μέμφεως ὑπὲρ ὀψονίων
+r.5    διδομένων αὐτῷ ὑπὲρ τοῦ παρόντος Φ[α]μενὼθ …
+r.6    μέρος σίτου καγκέλλῳ Ἀλεξανδρείας σίτου ἀρτάβην α 𐅵 γ μόνον.
+r.7    Μεχὶρ κζ ἰνδικτίωνος ιβ.
+r.8    Φαμενὼθ δ ἰνδικτίωνος ιβ
+r.9    γίνεται σίτου ἀρτάβη μία ἥμισυ
+r.10   τρίτον
+r.11   μέρος σίτου κυρίου Στεφάνου σίτου ἀρτάβη α 𐅵 γ
+r.12   Φαμενὼθ δ ἰνδικτίωνος ιβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

@@ -1,0 +1,34 @@
+[META]
+id:       P.LEID.INST 1.60
+label:    P.LEID.INST 1.60
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     309 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (309 CE)
+# hgv-keywords: Vertrag — Antrag — Pacht — Fischrechte
+tm:       18481
+source:   https://papyri.info/ddbdp/p.leid.inst;1;60
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Αὐρηλίοις Σαραπίωνι Ἀφύγχι[ος κ]α[ὶ ] … [ καὶ Ἁρπο]κρατίωνι Νείλου τοῖς τρισὶ μισθωταῖς ἰχθυ[ηρᾶς πόλεως Ὀξυρυγχείτου ][ ]
+r.2    παρὰ Αὐρηλίων Ἀμμωνίου Σαραπάμμω[νος καὶ ] …
+r.3    ἀμφοτέρων ἀπὸ τῆς λαμπρᾶς καὶ λαμπροτάτης Ὀξυρυγχε[ιτῶν πόλεως. ][ ]
+r.4    ἑκουσίως ἐπιδεχόμεθα μισθώσασθαι πρ[ὸς ] …
+r.5    ἄγραν ἰχθύων ὑδάτων τῆς παρελθούσης ἀ[ναβάσεως ] …
+r.6    νομοῦ Ὀξυρυγχείτου ἀρχομένων ἀπὸ τ …
+
+[TRANSLATION]
+# HGV-EN: To the Aurelii Sarapion, son of Aphynchis, and - - -, son of - - -, and Harpocration, son of Nilus, the three contractors of the fishing tax [of the city (and) the Oxyrhynchite nome], from the Aurelii Ammonius, son of Sarapammon, and - - -, son of - - -, both from the glorious city of the Oxyrhynchites. Of our own volition we offer to lease for - - - the right to fish in the waters left by the past Nile flood - - - in the Oxyrhynchite nome, starting from - - -.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

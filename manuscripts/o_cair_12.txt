@@ -1,0 +1,26 @@
+[META]
+id:       O.CAIR 12
+label:    O.CAIR 12
+name:     Receipt — Pathyris
+genre:    receipts
+date:     146 BCE
+language: Greek (Koiné)
+found:    Pathyris
+held:     
+shelf:    
+content:  Receipt from Pathyris (146 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       4599
+source:   https://papyri.info/ddbdp/o.cair;;12
+lat:      25.369659
+lon:      32.473946
+
+[GREEK]
+r.1    ἔτους λϛ Χοιὰχ β.
+r.2    ζυτηρᾶς τέλος Ψεννῆσις χαλκοῦ τάλαντα ρ.
+r.3    Θ … νις τελώνης.
+
+[TRANSLATION]
+1     
+2     
+3     

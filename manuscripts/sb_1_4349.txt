@@ -1,0 +1,28 @@
+[META]
+id:       SB 1.4349
+label:    SB 1.4349
+name:     Receipt — Theben
+genre:    receipts
+date:     132 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (132 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       23108
+source:   https://papyri.info/ddbdp/sb;1;4349
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν μητροπόλεως γενήματος ιϛ ἔτους Ἁδριανοῦ Καίσαρος
+r.2    τοῦ κυρίου, Ἐπεὶφ λ, ὀνόματος Ψεναμούνιος
+r.3    Πετεμενκώφειος πυροῦ τέσσαρας ἕκτον, πυροῦ δ ϛ.
+r.4    σεσημείωμαι πυροῦ δ ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

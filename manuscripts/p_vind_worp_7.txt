@@ -1,0 +1,26 @@
+[META]
+id:       P.VIND.WORP 7
+label:    P.VIND.WORP 7
+name:     Receipt — Memphis
+genre:    receipts
+date:     161 CE – 166 CE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Receipt from Memphis (161 CE – 166 CE)
+# hgv-keywords: Steuer — Kopfsteuer — Quittung
+tm:       13697
+source:   https://papyri.info/ddbdp/p.vind.worp;;7
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    [ἔτους][ ] … του Ἀντωνίνου καὶ Οὐήρου τῶ[ν] κυρίων Κα[ι]σάρων Ἐπεὶφ κζ.
+r.2    [διέγραψεν] … Αἰβουτίῳ Διογᾶτι πράκτο[ρι] ἀργυρικῶν Μέμφεως Ἡρ[α]κλείδης
+r.3    … [ τ]οῦ Ἁρπαήσιος [λ]αογραφίας [τ]οῦ αὐτοῦ ἔτο[υ]ς ῥυπαρὰς δραχμὰς ὀκτώ, γίνονται δραχμαὶ η.
+
+[TRANSLATION]
+1     
+2     
+3     

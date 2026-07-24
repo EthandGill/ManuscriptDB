@@ -1,0 +1,30 @@
+[META]
+id:       O.HEID 97
+label:    O.HEID 97
+name:     Receipt — Theben (Notos?)
+genre:    receipts
+date:     187 CE
+language: Greek (Koiné)
+found:    Theben (Notos?)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos?) (187 CE)
+# hgv-keywords: Quittung (Speicherquittung, Weizen?)
+tm:       80329
+source:   https://papyri.info/ddbdp/o.heid;;97
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    [μέτρημα] θησαυροῦ μητροπόλεως γενήματος
+r.2    κζ ἔτους Κομμόδου Ἀντωνίνου
+r.3    [Καίσα]ρος τοῦ κυρίου Ἐπεὶφ ιθ ὑπὲρ Νότου ὀνόματος
+r.4    [Πε]βρίχιος ὁμοίως …
+r.5    … Ὡρος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

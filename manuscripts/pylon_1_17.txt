@@ -1,0 +1,36 @@
+[META]
+id:       PYLON 1.17
+label:    PYLON 1.17
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     216 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     Hamburg
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (216 CE)
+# hgv-keywords: Quittung — Steuern — Geld — Paradeisos
+tm:       971907
+source:   https://papyri.info/ddbdp/pylon;1;17
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    [ἔτους κδ Μάρκου Αὐρηλίου Σεου]ή[ρ]ο[υ]
+r.2    [Ἀντωνίνου] Παρθικοῦ Μεγίστου
+r.3    Βρεταννικ[ο]ῦ Μεγίστου Γερμανικοῦ
+r.4    Μεγίστου Εὐσεβοῦς Σεβαστοῦ Ἐπειφ κγ.
+r.5    διέγραψεν Αὐρηλίῳ Μέλανι γραμματεῖ πρακτόρων ἀργυρικῶν
+r.6    [Κ]αρανίδος Τερέντιος Ἰουλίας Λογγινίας
+r.7    … παραδείσου κβ ἔτους δραχμὰς τριάκοντα ἕξ, γίνονται δραχμαὶ λϛ.
+
+[TRANSLATION]
+# HGV-EN: Year 24 of Marcus Aurelius Severus Antoninus Parthicus Maximus Britannicus Maximus Germanicus Maximus Felix Pius Augustus, Epeiph 23. Terentius, son of Iulia Longinia, has paid thirty-six drachmas (36 dr.) in garden tax for year 22 to Aurelius Melas, secretary of the praktores argyrikon of Karanis.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

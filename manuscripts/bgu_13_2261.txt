@@ -1,0 +1,36 @@
+[META]
+id:       BGU 13.2261
+label:    BGU 13.2261
+name:     Documentary papyrus — Theadelphia (Arsinoites)
+genre:    documents
+date:     154 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Theadelphia (Arsinoites) (154 CE)
+# hgv-keywords: Bescheinigung — Arbeit — Deich
+tm:       9670
+source:   https://papyri.info/ddbdp/bgu;13;2261
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    … ϛ …
+r.2    [ἔτους ιζ] Αὐτοκράτορος Καίσαρος
+r.3    [Τίτου Αἰ]λίου Ἁδριανοῦ Ἀντωνείνου
+r.4    [Σεβαστ]οῦ Εὐσεβοῦς εἴργασται ὑπὲρ
+r.5    [χωματικῶν ἔργ]ων τοῦ αὐτοῦ ιζ ἔτους Μεσορὴ α ε
+r.6    … εσιος ἐπὶ πύλης Θεαδελφίας
+r.7    [Τέως Κρονίωνος] τοῦ Σνεφερῶτος μητρὸς Ταουεῖτος
+
+[TRANSLATION]
+# HGV-EN: 6. (Hd. 2) (Year 17) of Emperor Caesar (Titus) Aelius Hadrianus Antoninus (Augustus) Pius. Work done on the (dike-works) for the same 17th year (Hd. 3) Mesore 1-5 ... at the desert-gate on behalf of Theadelphia, by N.N., son of -ros and Taueis, and grandson of Snepheros.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

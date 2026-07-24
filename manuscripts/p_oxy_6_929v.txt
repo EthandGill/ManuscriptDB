@@ -1,0 +1,54 @@
+[META]
+id:       P.Oxy. 6.929v
+label:    P.Oxy. 6.929v
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     176 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (176 CE – 300 CE)
+# hgv-keywords: Brief (privat) — Nikanor an Ninnaros — Auftrag — Suche nach verschiedenen Stücken (Kleidung) bei einem Seemann — Palimpsest
+tm:       28339
+source:   https://papyri.info/ddbdp/p.oxy;6;929v
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Νεικάνωρ Νιννάρῳ τῶι ἀδελφῷ χαίρειν.
+r.2    εἰδώς σου τὸ σπουδαῖον
+r.3    τὸ πρὸς πάντας καὶ
+r.4    νῦν ἓν τοῦτό μοι ὑπηρετήσεις. καλῶς ποιήσεις ἀπαιτήσας Τιθόιν τὸν ναυτικὸν δύμα
+r.5    καρυΐνου χιτῶνος
+r.6    ἐν ᾧ λίνον καὶ λέντιον τριβακόν, καὶ ἔρια,
+r.7    ταῦτα δὲ πάντα συνενῆν εἰς τὸν χιτῶνα τὸν καρύϊνον καὶ ἐσφραγίσθη
+r.8    γῇ λευκῇ, καὶ σὺν τούτῳ ἄλλα δύματα πάντα, ὡς εἶναι ἐπὶ τὸ αὐτὸ
+r.9    ἀριθμῷ ἕξ , ἀποκαταστῆσαί μοι εἰς Ὀξυρυγχείτην
+r.10   ἐξ ὧν ἔσχον τὰ προκείμενα πάντα. διὸ γράφω
+r.11   σοι, ἀδελφέ, ἵνʼ εἰ ἀλλότριά
+r.12   ἐστιν εἴδῃς, ἐρεῖς δέ μοι ἐν
+r.13   τάχει περὶ τούτου.
+r.14   ἐρρῶσθαι σε εὔχομαι.
+r.15   Νιννάρῳ οἰκονόμῳ Ἀπίωνος στρατηγοῦ
+r.16   παρὰ Νεικάνορος.
+
+[TRANSLATION]
+# HGV-EN: Nicanor to Ninnarus his brother, greeting. Knowing your goodness to all, I ask you now to do me this one service, Please demand from Tithoïs the sailor a garment consisting of a brown tunic, inside which was a linen cloth, a worn towel, and some wool. All these were inside the brown tunic, and it was sealed with white clay, and with it send back to me all the other garments, making the total number six, to the Oxyrhynchite nome whence I obtained all the aforesaid articles. I write therefore to you, brother, to see if they are in some one else’s possession. Please tell me at once about this. I pray for your health. (Addressed) To Ninnarus steward of Apion, strategus(?), from Nicanor.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

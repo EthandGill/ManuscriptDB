@@ -1,0 +1,38 @@
+[META]
+id:       BGU 1.65
+label:    BGU 1.65
+name:     Receipt — Ptolemais Nea (Arsinoites)
+genre:    receipts
+date:     202 CE
+language: Greek (Koiné)
+found:    Ptolemais Nea (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Ptolemais Nea (Arsinoites) (202 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       9109
+source:   https://papyri.info/ddbdp/bgu;1;65
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους δεκάτου Φαμενὼθ κζ. διέγραψε
+r.2    ὑπὲρ εἰδῶν θ ἔτους διέγραψεν Ἡρακλείδης
+r.3    πράκτωρ ἀργυρικῶν κώμης Πτολεμαίδος Νέας δραχμὰς
+r.4    τέσσαρας γίνονται δραχμαὶ δ.
+r.5    μβ κληρουχίας
+r.6    Γάιος Οὐαλέριος Σερῆνος
+r.7    Ἀντώνιος υἱὸς καὶ
+r.8    Σωκράτης Σκίφα καὶ
+
+[TRANSLATION]
+# HGV-EN: Year ten, Phamenoth 27. Paid for eide of the 9th year. Paid: Herakleides, collector of money taxes of the village of Ptolemais Nea, four drachmas, = 4 drachmas. (m. 2) 42nd cleruchy. Gaius Valerius Serenus, Antonius his son and Sokrates, son of Skiphas and <– – –>
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

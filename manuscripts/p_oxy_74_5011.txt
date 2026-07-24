@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 74.5011
+label:    P.Oxy. 74.5011
+name:     Documentary papyrus — Arabon (Arsinoites?) bzw Oxyrhynchos
+genre:    documents
+date:     201 CE – 400 CE
+language: Greek (Koiné)
+found:    Arabon (Arsinoites?) bzw Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Arabon (Arsinoites?) bzw Oxyrhynchos (201 CE – 400 CE)
+# hgv-keywords: Befehl — beneficiarius an die Komarchen und den Epistates Eirenes — Überstellung
+tm:       128317
+source:   https://papyri.info/ddbdp/p.oxy;74;5011
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    παρὰ τοῦ βενεφικιαρίου.
+r.2    παράδοτε τῷ ἀποσταλέντι Ψάιν Οὐίβιος ἱερέα Ἀθηνᾶ[ς]
+r.3    ἢ ὑμεῖς ἥκετε.
+r.4    κωμάρχαις καὶ ἐπιστάτῃ εἰρήνης Ἀράβων.
+
+[TRANSLATION]
+# HGV-EN: From the beneficiarius. Hand over Psais son of Vibius, priest of Athena, to the person despatched, or come yourselves. To the comarchs and the epistates eirenes of Arabon. (D. Colomo)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

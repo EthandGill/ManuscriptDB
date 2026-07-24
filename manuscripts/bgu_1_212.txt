@@ -1,0 +1,38 @@
+[META]
+id:       BGU 1.212
+label:    BGU 1.212
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     158 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (158 CE)
+# hgv-keywords: Quittung — Abgaben — Usia — Geld
+tm:       8975
+source:   https://papyri.info/ddbdp/bgu;1;212
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἔτους δευτέρου καὶ εἰκοστοῦ
+r.2    Αὐτοκράτορος Καίσαρος Τίτου
+r.3    Αἰλίου Ἁδριανοῦ Ἀντωνίνου Σεβαστοῦ
+r.4    Εὐσεβοῦς Θῶθ κη διέγραψεν
+r.5    διʼ Ἐ[ρ]ιέως καὶ μετόχων πρακτόρων Στοτοῆτις
+r.6    Ἀπύγχεως φόρου πλοί[ων] Ἀντωνιανῆς
+r.7    οὐσίας εἰκοστοῦ ἔτους Σοκνοπαίου Νήσου
+r.8    ῥυπαρὰς δραχμὰς πεντήκοντα μίαν τριώβολον γίνονται δραχμαὶ να τριώβολον
+
+[TRANSLATION]
+# HGV-EN: Year twenty two of Imperator Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, Thoth 28. Paid through He[r]ieus and his associates, tax collectors, (by) Stotoetis, son of Apynchis, for the rent on boats of the Antonian estate in Soknopaiou Nesos of year twenty fifty one dirty drachmas 3 obols, = 51 drachmas 3 obols.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

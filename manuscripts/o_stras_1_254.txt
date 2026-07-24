@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.254
+label:    O.STRAS 1.254
+name:     Receipt — Theben
+genre:    receipts
+date:     134 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (134 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75851
+source:   https://papyri.info/ddbdp/o.stras;1;254
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μελανίων Αχ … Κάτωνος …
+r.2    Καμήτιος χ … Ἀμενώθης Ἁρβήχιος. ἔσχομεν
+r.3    παρὰ σοῦ ὑπὲρ ἀμπ[ελῶνος]
+r.4    ιζ ἔτους ῥυπαρὰς δραχμὰς τέσσαρ[ας διώβολον]
+r.5    γίνονται δραχμαὶ δ διώβολον ομο … .
+r.6    ἔτους ιη Ἁ[δ]ρ[ια]νοῦ τοῦ κυρ[ίου] Ἐπὶφ ε.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

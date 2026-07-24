@@ -1,0 +1,28 @@
+[META]
+id:       P.HARR 3.282
+label:    P.HARR 3.282
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     426 CE – 475 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Birmingham
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (426 CE – 475 CE)
+# hgv-keywords: Anweisung — Lieferung — Gefäße
+tm:       998611
+source:   https://papyri.info/ddbdp/p.harr;3;282
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    … Ἀνουθίῳ κεραμεῖ … λα …
+r.2    … οἴνου ῥύσεως ιγ ἰνδικτίωνος κοῦφα ἑξ[ακόσια] …
+r.3    … [σεσημ]είωμαι κοῦφα ἑξακόσια μόνα …
+
+[TRANSLATION]
+# HGV-EN: … to Anouthios, potter … for the wine flow of the 13th indiction, six hundred empty jars … (hand 2) I have signed for six hundred empty jars only …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

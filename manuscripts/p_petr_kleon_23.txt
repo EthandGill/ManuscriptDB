@@ -1,0 +1,42 @@
+[META]
+id:       P.PETR.KLEON 23
+label:    P.PETR.KLEON 23
+name:     Letter — Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+genre:    letters
+date:     255 BCE – 254 BCE
+language: Greek (Koiné)
+found:    Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+held:     Dublin
+shelf:    
+content:  Letter from Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob (255 BCE – 254 BCE)
+# hgv-keywords: Brief (geschäftlich?) — N.N. an Kleon — Arbeit — Geld
+tm:       7666
+source:   https://papyri.info/ddbdp/p.petr.kleon;;23
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … Κλέωνι χαί[ρ]ειν. ἐγὼ καθάπερ σοὶ
+r.2    [πλεο]νάκις εἴρηκα τοῦ Θωὺθ ζ διέγραψα
+r.3    [ε]ἰς τὰ ἔργα τὰ ἀπὸ Ἡφαιστιάδος ἕως Ναυτῦν
+r.4    [Ἐτ]εάρχωι δραχμὰς Α ἵνα ἔχηι ἀνα … αν
+r.5    … τοῖς ἐργαζομένοις διὰ τ … ε …
+r.6    … ηματι γεγράφθαι διὰ τούτου …
+r.7    … δὲ ἁθρ[ο]ῦν ἵνα τασ …
+r.8    ἔτους λα …
+r.9    παρ … τριου Κλ[έ]ωνι
+r.10   Κλέωνι
+
+[TRANSLATION]
+# HGV-EN: [...] to Kleon, greetings. As I have often told you, I have paid 1,000 dr. (through the bank) on the 7th of Thoyth to Etearchos for the works from Hephaistias up to Nautys, so that he can [...] for those working [...] has been written through this man [...] in one payment so that [...]. Year 31 [...]. From [...]. to Kleon. To Kleon
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

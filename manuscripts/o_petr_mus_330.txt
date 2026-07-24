@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 330
+label:    O.PETR.MUS 330
+name:     Receipt — Theben
+genre:    receipts
+date:     233 CE – 242 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (233 CE – 242 CE)
+# hgv-keywords: Quittung — Steuer auf Land — Kranzsteuer (?)
+tm:       75439
+source:   https://papyri.info/ddbdp/o.petr.mus;;330
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φιλώτας Ἀγαθοῦ Δαίμονος
+r.2    τοῦ … αιου διέγραψε διὰ
+r.3    Καμήτιος Ἀρχίου Ψεναμούνιος
+r.4    ὑπὲρ ἀρουρῶν α ξδ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       O.MICH 3.1057
+label:    O.MICH 3.1057
+name:     Documentary papyrus — Karanis (Arsinoites)
+genre:    documents
+date:     270 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Karanis (Arsinoites) (270 CE)
+# hgv-keywords: Lieferung — Korn (σάκκος) — Namen
+tm:       9938
+source:   https://papyri.info/ddbdp/o.mich;3;1057
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ἔτους β Μεχὲρ κη
+r.2    ὁριοδεικτίας Καρανίδος ὑπὲρ γενήματος α ἔτους ὀνόματος
+r.3    Σεύθου Πτολεμέου
+r.4    … σάκκοι
+r.5    δεκαπέντε .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

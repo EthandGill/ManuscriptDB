@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 41
+label:    O.LEID 41
+name:     Receipt — Theben
+genre:    receipts
+date:     8 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (8 CE)
+# hgv-keywords: Quittung — Steuern — Vieh
+tm:       24613
+source:   https://papyri.info/ddbdp/o.leid;;41
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Σαραπίων καὶ Μητρόδωρος Πι[κῶτι]
+r.2    Πετεμενώφιος χαίρειν· ἔχομεν νομὴν πρ[οβάτων]
+r.3    λε αἰγῶν ρ καὶ ἐριηρᾶς καὶ ἀκανθ
+r.4    τοῦ Ἁθὺρ καὶ Χοίαχ
+r.5    ἔτους λη Καίσαρος Χοίαχ λ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

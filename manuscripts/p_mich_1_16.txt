@@ -1,0 +1,32 @@
+[META]
+id:       P.Mich. 1.16
+label:    P.Mich. 1.16
+name:     Letter — Memphis
+genre:    letters
+date:     257 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Letter from Memphis (257 BCE)
+# hgv-keywords: Brief (geschäftlich) — Nikon an Zenon — Wolle zum Spinnen
+tm:       1921
+source:   https://papyri.info/ddbdp/p.mich;1;16
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    [Νίκων] Ζήνωνι χαίρειν. τῶν κριῶν τῶν δύο ὧν ἀπέλιπες εἰς στημόνια τὰ κώιδια αἰτεῖ Βία.
+r.2    γράψον οὖν ἡμῖν εἰ δεῖ δοθῆναι. ἔφη γὰρ χρείαν ἔχειν ἐρίων στημονίων καὶ διὰ τοῦτο καθυστερεῖν. ἐγὼ δὲ
+r.3    καὶ πρότερόν σοι ἐγεγράφειν περὶ τούτων.
+r.4    ἔρρωσο. ἔτους κθ, Φαρμοῦθι κε.
+r.5    [Νίκ]ων β κωιδίων, εἰ δεῖ Ζήνωνι. κωιδίων
+r.6    [δο]θῆναι Βίαι. ἔτους κθ, Δαισίου ια.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

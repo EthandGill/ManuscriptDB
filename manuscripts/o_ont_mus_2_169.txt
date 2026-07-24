@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.169
+label:    O.ONT.MUS 2.169
+name:     Receipt — Theben
+genre:    receipts
+date:     80 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (80 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75188
+source:   https://papyri.info/ddbdp/o.ont.mus;2;169
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηκεν εἰς τὸν τῶν ἱερατικῶν
+r.2    θησαυρὸν Ἄνω τοπαρχίας γενήματος β ἔτους
+r.3    Τίτου τοῦ κυρίου Ψεναμοῦνις
+r.4    πρεσβύτερος Ὥρου πυροῦ μίαν δωδέκατον
+r.5    γίνεται πυροῦ ἀρτάβη α ιβ [ἔτους β] Τίτου τοῦ κυρίου Ἐπεὶφ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 8.1138
+label:    P.Oxy. 8.1138
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     401 CE – 600 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (401 CE – 600 CE)
+# hgv-keywords: Quittung — Zahlung — Steuern für eine Kirche
+tm:       35571
+source:   https://papyri.info/ddbdp/p.oxy;8;1138
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    κατεβλήθη
+r.2    ἐπὶ τὸν ἐκκλησίας λόγον
+r.3    παρὰ Ἀπφουᾶ πρεσβυτέρου
+r.4    ὑπὲρ ἀργυρικῶν ι ἰνδικτίωνος
+r.5    χρυσοῦ ἰδιωτικῷ ζυγῷ
+r.6    νομισμάτια δώδεκα
+r.7    παρὰ κεράτια πεντήκοντα
+r.8    ἕν, γίνεται χρυσοῦ ἰδιωτικῷ ζυγῷ
+r.9    νομισμάτια ιβ παρὰ να, μόνα.
+r.10   Φαῶφι η ἰνδικτίωνος ια,
+r.11   διʼ ἐμοῦ Φὶβ γραμματέως.
+r.12   πρὸς ἅπαξ.
+r.13   ακα … α … βερεξακα ε …
+
+[TRANSLATION]
+# HGV-EN: Paid to the credit of the church by Apphouas, presbyter, for the money-dues of the 10th indiction, twelve solidi of gold less fifty-one carats on the private standard, total 12 solidi of gold less 51 carats private standard, and no more. Phaophi 8, 11th indiction, through me, Phib, scribe. Once for all.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

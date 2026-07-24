@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.2360
+label:    O.BODL 2.2360
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     1 CE – 400 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (1 CE – 400 CE)
+# hgv-keywords: Abrechnung
+tm:       72993
+source:   https://papyri.info/ddbdp/o.bodl;2;2360
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παμώνθης Ἀμμωνίου Μεχεὶρ κε α,
+r.2    Φαμενὼθ α α, γ α,
+r.3    θ α, ια α, Φαρμοῦθι α α,
+r.4    ιε 𐅵, ιϛ 𐅵, κ 𐅵, κη δ,
+r.5    [κ]θ 𐅵
+r.6    θ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

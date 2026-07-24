@@ -1,0 +1,36 @@
+[META]
+id:       BGU 6.1386
+label:    BGU 6.1386
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     112 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (112 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       4685
+source:   https://papyri.info/ddbdp/bgu;6;1386
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους ε Μεσορὴ τέτακται
+r.2    ἐπὶ τὴν ἐν Ἀπόλλωνος πόλει
+r.3    τῇ μεγάλῃ τράπεζαν πορθμίδων
+r.4    τοῦ αὐτοῦ ἔτους Ποῆρις
+r.5    Ἁρθώτου
+r.6    τάλαντον ἓν
+r.7    δραχμὰς τετρακισχιλίας
+r.8    γίνονται τάλαντον α Δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 264
+label:    O.PETR.MUS 264
+name:     Receipt — Theben
+genre:    receipts
+date:     41 CE – 54 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (41 CE – 54 CE)
+# hgv-keywords: Quittung — Steuer (pentaphylia?)
+tm:       169764
+source:   https://papyri.info/ddbdp/o.petr.mus;;264
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Ἁρβῆχις …
+r.2    [ὑ]πὲρ πενταφυλίας Ἀμενω …
+r.3    [τ]έσσαρας …
+r.4    … Τιβ[ερίου] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

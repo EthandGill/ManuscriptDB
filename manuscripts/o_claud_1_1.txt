@@ -1,0 +1,26 @@
+[META]
+id:       O.CLAUD 1.1
+label:    O.CLAUD 1.1
+name:     Documentary papyrus — Mons Claudianus
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Documentary papyrus from Mons Claudianus (101 CE – 200 CE)
+# hgv-keywords: Scherz — Geld
+tm:       29810
+source:   https://papyri.info/ddbdp/o.claud;1;1
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    ὃς ἄν τις εὕρῃ
+r.2    τοῦτο τὸ ὄστρακον, δώσει στατῆρα.
+r.3    ἔρρωσο.
+
+[TRANSLATION]
+1     
+2     
+3     

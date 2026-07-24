@@ -1,0 +1,22 @@
+[META]
+id:       SB 16.12884
+label:    SB 16.12884
+name:     Receipt — Theben
+genre:    receipts
+date:     38 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (38 CE)
+# hgv-keywords: Quittung — Zahlung — demotisch — Name
+tm:       16314
+source:   https://papyri.info/ddbdp/sb;16;12884
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεμενῶφις
+
+[TRANSLATION]
+1     

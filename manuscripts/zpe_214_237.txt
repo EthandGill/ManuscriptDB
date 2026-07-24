@@ -1,0 +1,34 @@
+[META]
+id:       ZPE 214.237
+label:    ZPE 214.237
+name:     Documentary papyrus — Hermopolites, Ägypten
+genre:    documents
+date:     150 CE – 225 CE
+language: Greek (Koiné)
+found:    Hermopolites, Ägypten
+held:     Ann Arbor
+shelf:    
+content:  Documentary papyrus from Hermopolites, Ägypten (150 CE – 225 CE)
+# hgv-keywords: Register — Steuern
+tm:       873049
+source:   https://papyri.info/ddbdp/zpe;214;237
+lat:      
+lon:      
+
+[GREEK]
+r.1    … τι Μῆνις Πευῆτος μητρὸς Εὖτο[ς] …
+r.2    … [ἀπὸ κώμης] Πρήκτεως καταγινόμενος [ἐν] …
+r.3    … κετου Ἡρακλέοντος, γίνονται γενηματογραφουμένων ὑπ[αρχόντων] …
+r.4    … Ἡρακλήου ἀρουρ- ιγ ἀπὸ τ …
+r.5    … Πτολέμου βασιλικῆς πρότερον Ἰουδαίω[ν] …
+r.6    … ἀρουρ- α πυροῦ ἀρταβῶν γ
+
+[TRANSLATION]
+# HGV-EN: […] Menis, son of Peues, whose mother is Eus [… from the village] of Prektis but dwelling [in …] of Herakleon; total for sequestered properties […] of Herakles, 13 arouras, from […] of Ptolemos, royal (land) previously belonging to the Jews […] 1 aroura, 3 artabas of wheat […]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

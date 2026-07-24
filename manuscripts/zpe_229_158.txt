@@ -1,0 +1,52 @@
+[META]
+id:       ZPE 229.158
+label:    ZPE 229.158
+name:     Documentary papyrus — Herakleopolites
+genre:    documents
+date:     200 BCE – 101 BCE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     Cologne
+shelf:    
+content:  Documentary papyrus from Herakleopolites (200 BCE – 101 BCE)
+# hgv-keywords: Hypomnema — Sklaven — Rückgabe
+tm:       644657
+source:   https://papyri.info/ddbdp/zpe;229;158
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    … σθαι συνέταξεν ἀποδοῦ[ναι τοὺς] παῖδας αὐτοῖς καὶ εὐθέως
+r.2    … [ἀ]ποδόντων ἡμῶν ἀπέδωκεν
+r.3    … μάχου τῶν ὑπηρετῶν.
+r.4    [διὸ ἀξ]ι[ο]ῦμεν, ἐὰν φαίνηται, συντάξαι
+r.5    [καταχ]ωρίσαι ἡμῶν τὸ ὑπόμνημα ἐν
+r.6    [χρημα]τισμῶι. εὐτύχει.
+r.7    … χου τοῦ Ἀριστοκλέους Μακεδόνος
+r.8    [ἱππ]άρχου ἐπ’ ἀνδρῶν ἐν Πεενέψυ
+r.9    [χαλκ]οῦ πρὸς ἀργύριον ταλάντων δύο.
+r.10   … ου τοῦ Μαχάτ ου ἐν τῆι αὐτῆι
+r.11   [ταλ]άντων δύο.
+r.12   … υ τοῦ Ἀρνάκου ἐν Ταγχὰ ταλάντων
+r.13   [τεσ]σάρων δραχμῶν τρισχιλίων.
+r.14   [ὁμοί]ως ἐν Κρήκει ταλάντων τριῶν.
+r.15   … καταχωρισθήτω.
+
+[TRANSLATION]
+# HGV-EN: […] he ordered to give the slaves back to them. And we gave those back [to him?] immediately (and) he gave them (sc. the slaves) back [through?] -machos, one of the hyperetai. We ask therefore, if it seems right to you, to order that our memorandum shall be registered on record. Farewell. [Name] son of Aristokles the Macedonian, hipparch over men in Peenepsy in the value of two talents of copper on the silver standard. [Name] son of Machatas in the same (village) in the value of two talents. [Name] son of Arnakes in Tanchais in the value of four talents and three thousand drachmas. Of the same person (?) in Krekis in the value of three talents. (m2) [date?] To be registered.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

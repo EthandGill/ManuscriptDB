@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 4.746
+label:    P.Oxy. 4.746
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     16 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (16 CE)
+# hgv-keywords: Brief (privat) — Theon an seinen Bruder Herakleides — den königlichen Schreiber des Oxyrhynchites und Kynopolites — Empfehlung des Überbringers Hermophilos
+tm:       20444
+source:   https://papyri.info/ddbdp/p.oxy;4;746
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Θέων Ἡρακλείδηι τῶι ἀδελφῶι
+r.2    πλεῖστα χαίρειν καὶ ὑγιαίνειν.
+r.3    Ἑρμόφιλος [ὁ] ἀποδ[ι]δούς σοι τὴν
+r.4    ἐπιστολήν [ἐ]στ[ι] … κ … μ … φ … ηρι
+r.5    … ερίου, καὶ ἠρώτησέν με γράψαι σοι.
+r.6    [π]ροφέρεται ἔχειν πραγμάτιον
+r.7    [ἐν τῆι] Κερκεμούνι. τοῦτο οὖν ἐάν
+r.8    σοι φα[ί]νηται σπουδάσεις κατὰ τὸ
+r.9    δίκαιον. τὰ δʼ ἄλλα σεαυτοῦ ἐπιμέλου
+r.10   ἵνʼ ὑγιαίνῃς.
+r.11   ἔρρωσο.
+r.12   ἔτους γ Τιβερίου Καίσαρος Σεβαστοῦ Φαῶφι γ.
+r.13   Ἡρακλείδηι βασιλικῷ γραμματεῖ Ὀξυρυγχίτου Κυνοπολίτου.
+
+[TRANSLATION]
+# HGV-EN: Theon to Heraclides his brother, many greetings and wishes for good health. Hermophilus the bearer of this letter is (the friend or relative) of ..erius, and asked me to write to you. Hermophilus declares that he has business at Kerkemounis. Please therefore further him in this matter, as is just. For the rest take care of yourself that you may remain in good health, Good-bye. The 3rd year of Tiberius Caesar Augustus, Phaophi 3. To Heraclides, basilicogrammateus of the Oxyrhynchite and Cynopolite nomes.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

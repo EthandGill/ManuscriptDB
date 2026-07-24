@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.485
+label:    O.STRAS 1.485
+name:     Receipt — Theben
+genre:    receipts
+date:     140 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (140 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76073
+source:   https://papyri.info/ddbdp/o.stras;1;485
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Π … καὶ μέτοχοι τελῶναι θησαυροῦ
+r.2    ἱερῶν Φατρῆτι ὁμοίως Φμόιτος.
+r.3    ἔσχον [τὸ] βαλανικὸν τοῦ γ ἔτους
+r.4    Ἀντω[νίν]ου Καίσαρος τοῦ κυρίου.
+r.5    Φαρμοῦθι κζ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

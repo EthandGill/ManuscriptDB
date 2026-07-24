@@ -1,0 +1,32 @@
+[META]
+id:       O.THEB 74
+label:    O.THEB 74
+name:     Receipt — Theben
+genre:    receipts
+date:     44 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (44 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76445
+source:   https://papyri.info/ddbdp/o.theb;;74
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … εικῶνις Πεχύτου …
+r.2    [τέ]λος ἠπητῶν διὰ Ἀμμωνοῦτος …
+r.3    … δραχμὰς ζ τριώβολον. ἔτους δ Τιβερίου Κλαυδ[ίου]
+r.4    Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.5    Αὐτοκράτορος Φαρμοῦθι ιδ. ὁμ[οίως]
+r.6    Φαρμοῦθι κθ δραχμὰς δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

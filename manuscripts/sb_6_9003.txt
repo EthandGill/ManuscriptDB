@@ -1,0 +1,30 @@
+[META]
+id:       SB 6.9003
+label:    SB 6.9003
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     293 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (293 CE)
+# hgv-keywords: Quittung — Spreu — Empfang
+tm:       14065
+source:   https://papyri.info/ddbdp/sb;6;9003
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    [Κ]αρανίδος
+r.2    [ἀχύρου] σαργάνη μία
+r.3    διὰ Ἀχιλλᾶ,
+r.4    [γίνεται] σαργάνη α
+r.5    ι ἔτους θ ἔτους β ἔτους Χοιὰκ δ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

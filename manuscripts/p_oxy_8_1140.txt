@@ -1,0 +1,32 @@
+[META]
+id:       P.Oxy. 8.1140
+label:    P.Oxy. 8.1140
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     293 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (293 CE)
+# hgv-keywords: Anordnung — Ausgabe von Saatgut
+tm:       21758
+source:   https://papyri.info/ddbdp/p.oxy;8;1140
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    παρὰ Σεύθου Σαραπίωνι γεωργῷ χαίρειν.
+r.2    δὸς Ἡρακλίῳ ὀνηλάτῃ λαχανόσπερμου
+r.3    μέτρῳ ἐλαιουργικῷ ἀρτάβην μίαν,
+r.4    γίνεται ἀρτάβη α. ἔρρωσο.
+r.5    ἔτους ἐνάτου καὶ η καὶ α Μεσορὴ λ.
+
+[TRANSLATION]
+# HGV-EN: From Seuthes to Sarapion, cultivator, greeting. Give Heraclius, donkey-driver, one artaba of vegetable seed by oil-makers’ measure, total 1 art. Good-bye. The 9th which = the 8th which = the 1st year. Mesore 30.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,24 @@
+[META]
+id:       O.CLAUD 3.530
+label:    O.CLAUD 3.530
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     145 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (145 CE)
+# hgv-keywords: Quittung — Empfang — Ration
+tm:       73713
+source:   https://papyri.info/ddbdp/o.claud;3;530
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ἐπάγαθος Θέωνος Ἀριστονίκῳ κιβαριάτῃ χαίριν. ὁμολογῶ προκεχρῆσθαι παρὰ σοῦ τὸ κιβάρι[όν μο]υ ὑπὲρ μηνὸς Πα[υνι ] … ἔτους Ἀντωνίνου
+r.2    … ου, Παχω[ν] κ.
+
+[TRANSLATION]
+1     
+2     

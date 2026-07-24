@@ -1,0 +1,34 @@
+[META]
+id:       P.BAGNALL 2
+label:    P.BAGNALL 2
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     301 CE – 400 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (301 CE – 400 CE)
+# hgv-keywords: Notiz — Festsetzung der Arbeitstage von Amtsdienern (?, ὑπηρέται) — Wochentage
+tm:       219284
+source:   https://papyri.info/ddbdp/p.bagnall;;2
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    ἐτυπώθησαν ὑπηρέται
+r.2    οὕτως·
+r.3    κυριακῇ καὶ Διός,
+r.4    οἱ ἀπὸ Θμοινεψώβθεως,
+r.5    Σελήνης καὶ Σαμβᾶ,
+r.6    οἱ ἀπὸ Κολόβης.
+
+[TRANSLATION]
+# HGV-EN: The assistants (hyperetai) were appointed thus: on Sunday and Thursday, those from Thmoinepsobthis; on Monday and Saturday, those from Kolobe.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

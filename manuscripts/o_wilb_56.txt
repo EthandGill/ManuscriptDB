@@ -1,0 +1,28 @@
+[META]
+id:       O.WILB 56
+label:    O.WILB 56
+name:     Receipt — Theben
+genre:    receipts
+date:     132 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (132 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76565
+source:   https://papyri.info/ddbdp/o.wilb;;56
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν μητροπόλεως γενήματος ιϛ ἔτους Ἁδριανοῦ
+r.2    Καίσαρος τοῦ κυρίου Ἐπεὶφ β ὀνόματος
+r.3    Παχνούμιος Παουφθειοῦτος ὑπὲρ Χάρακος
+r.4    πυροῦ ἀρτάβας τρεῖς τέταρτον γίνονται πυροῦ ἀρτάβαι γ δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

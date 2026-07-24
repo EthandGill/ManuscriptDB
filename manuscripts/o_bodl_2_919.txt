@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.919
+label:    O.BODL 2.919
+name:     Receipt — Theben
+genre:    receipts
+date:     165 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (165 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71609
+source:   https://papyri.info/ddbdp/o.bodl;2;919
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θὼθ θ τοῦ ϛ ἔτους
+r.2    ὀνόματος Σενηρακλήους
+r.3    Ἀπολλοδώρου ὑπὲρ γεωμετρίας ϛ ἔτους Χάρακος
+r.4    ῥυπαρὰς δραχμὰς δύο πεντώβολον γίνονται δραχμαὶ β πεντώβολον. Ὧρος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

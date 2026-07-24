@@ -1,0 +1,26 @@
+[META]
+id:       O.PETR.MUS 355
+label:    O.PETR.MUS 355
+name:     Receipt — Apollonopolis (?)
+genre:    receipts
+date:     18 BCE
+language: Greek (Koiné)
+found:    Apollonopolis (?)
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (?) (18 BCE)
+# hgv-keywords: Quittung (Speicherquittung)
+tm:       75475
+source:   https://papyri.info/ddbdp/o.petr.mus;;355
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους ιβ Καίσαρος Μεσ[ορὴ] … [εἰσμεμέτρηκεν εἰς]
+r.2    θησαυρὸν Ἀπόλλωνος πόλεως Κρόνιος …
+r.3    Κρονείου ἱερέως …
+
+[TRANSLATION]
+1     
+2     
+3     

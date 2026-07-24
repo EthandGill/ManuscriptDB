@@ -1,0 +1,30 @@
+[META]
+id:       SB 6.9545_9
+label:    SB 6.9545_9
+name:     Receipt — Elephantine
+genre:    receipts
+date:     75 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (75 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Namen
+tm:       19071
+source:   https://papyri.info/ddbdp/sb;6;9545_9
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Πατερζμῆθις Πατερζμήθιος ὑπὲρ
+r.2    λαογραφίας ἑβδόμου ἔτους
+r.3    Οὐεσπασιανοῦ τοῦ κυρίου
+r.4    Παχὼν κα τὰς λοιπὰς ἀργυρίου δραχμὰς
+r.5    ὀκτώ γίνονται δραχμαὶ ιϛ. Μελάνθις ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       STUD.PAL 8.744
+label:    STUD.PAL 8.744
+name:     Receipt — Arsinoiton Polis
+genre:    receipts
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Arsinoiton Polis
+held:     
+shelf:    
+content:  Receipt from Arsinoiton Polis (601 CE – 700 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer
+tm:       41224
+source:   https://papyri.info/ddbdp/stud.pal;8;744
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    Μεχεὶρ γ ἕκτ[ης ἰνδικτίονος ] …
+r.2    Εὐλ ἀπὸ διαγραφῆς
+r.3    λαύρας τῆς Θεοτόκου δευτέρου κανόνος
+r.4    κεράτια τέσσερα κεράτια δ
+r.5    Πέτρος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

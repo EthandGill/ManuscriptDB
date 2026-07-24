@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 7.1063
+label:    P.Oxy. 7.1063
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (101 CE – 300 CE)
+# hgv-keywords: Brief (privat) — NN an Amois — Besetzung des Amtes des Archephodos — private Intervention
+tm:       28332
+source:   https://papyri.info/ddbdp/p.oxy;7;1063
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    χαίροις, τέκνον Ἀμόι.
+r.2    σύμβαλε Ἡρώδῃ τῷ υἱῷ Ἀπίωνος τοῦ
+r.3    γυμνασιάρχου ἐξ ὀνόματός μου καὶ
+r.4    εἶπον αὐτῷ ὅτι σήμερον ὅτε ἔδωκά
+r.5    σοι ὀνόματα τρία ὡς εἰς ἀρχεφοδίαν καὶ τῇ ἑξῆς ἐμ[ο]ῦ σου πυθομένου τί ἔπραξας εἶπας οὐδένα ἐκείνων εἰς τὴν χρείαν ἔδωκα ἀλλὰ τὸν
+r.6    εἰπόντα πρὸς ὑμᾶς, τοῦτʼ ἔστιν
+r.7    Ἀντᾶν Δι[ο]νυσίου. τὸ ὄνομα οὖν
+r.8    τοῦτο συντήρησον· Ἁρσᾶν Λέοντος
+r.9    τοῦ Λέοντος μ[η]τρὸ[ς] Ταβόνφιος.
+r.10   ἐρρῶσθαί σε εὔχομαι.
+r.11   τὸ πιττά[κ]ιον ἀναγνοὺς μὴ ἀναδῷς
+r.12   τῷ Ἡρώ[δ]ῃ.
+r.13   ἀπόδος Ἀμόι[τι ] … ιτ …
+
+[TRANSLATION]
+# HGV-EN: Greeting, my son Amoïs! Go and see Herodes, the son of Apion the gymnasiarch, in my name and say to him “the other day I gave you three names for the office of archephodus, and the next day when I asked you what you had done you said ‘I have not given in any of them for the office but the man who told you of them, that is, Antas son of Dionysius.’ So keep this name: Harsas son of Leon son of Leon, his mother being Tabonphis”. I pray for your health. When you have read the letter do not give it to Herodes. (Addressed) Deliver to Amoïs ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

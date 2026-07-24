@@ -1,0 +1,30 @@
+[META]
+id:       APF 56.269_10
+label:    APF 56.269_10
+name:     Receipt — Theben
+genre:    receipts
+date:     127 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Uppsala
+shelf:    
+content:  Receipt from Theben (127 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       133437
+source:   https://papyri.info/ddbdp/apf;56;269_10
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    Παμώνθης καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    Θαυβάσθει Παουφθειοῦτος. ἔσχομεν παρὰ σοῦ
+r.3    ὑπὲρ ταφῶν β δραχμὰς β τοῦ ια ἔτους
+r.4    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.5    Ἐπεὶφ κα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

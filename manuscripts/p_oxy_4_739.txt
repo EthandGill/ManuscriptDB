@@ -1,0 +1,66 @@
+[META]
+id:       P.Oxy. 4.739
+label:    P.Oxy. 4.739
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     1 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (1 CE)
+# hgv-keywords: Abrechnung — Haushalt
+tm:       20438
+source:   https://papyri.info/ddbdp/p.oxy;4;739
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἔχει Ἰσᾶς παρὰ Ἀπολλωνίο[υ]
+r.2    ἀπὸ Κύνου δραχμὰς δ …
+r.3    ὧν δαπάνης· τιμῆς χι [Ν]εχθεῦτι δραχμαὶ κη,
+r.4    σιτοποιήτρων δραχμὴ α τετρώβολον,
+r.5    ἐλαίου δραχμαὶ δ διώβολον.
+r.6    δ. ἄλεστρα πεντώβολον,
+r.7    κονίου εἰς προσφάγιον ὀβολὸς.
+r.8    ε. κοφίνων γ ὀβολοὶ δ 𐅵.
+r.9    ϛ. βατανίων διώβολον,
+r.10   προσφαγίου οἰκοδόμου ὀβολὸς,
+r.11   ἐλαίου χοῦς δραχμαὶ δ διώβολον. γίνεται μ ὀβολοὶ γ 𐅵.
+r.12   ζ. προσφαγίου οἰκοδόμου ὀβολὸς.
+r.13   θ. ἐργάτου ὀβολοὶ 4,
+r.14   οἰκοδόμου προσφαγίου ὀβολὸς,
+r.15   τέκτον[ος ] …
+r.16   ιγ. τιμῆς ἐλα[ίου] δραχμαὶ δ τριώβολον,
+r.17   πορφύρας δραχμαὶ κ,
+r.18   στήμον[ος εἰς γυναι]κ[εῖ]ον
+r.19   ἱμάτι[ον] …
+r.20   Φιλουταρίῳ … β …
+r.21   κβ. τιμῆς ἐλαίου [δραχμαὶ δ] διώβολον.
+r.22   γίνονται …
+
+[TRANSLATION]
+# HGV-EN: Isas has received from Apollonius, an inhabitant of Cynus, 4[.] drachmae. Deduct on account of expenses: price of ... paid to Nechtheus 28 dr., for making bread 1 dr. 4 ob., (for oil 4 dr. 2 ob., erased). On the 4th, for grinding 5 ob., powder (?) for a relish 1 ob. 5th, 3 baskets 4 1/2 ob. 6th, plates 2 ob., a relish for the builder 1 ob., a chous of oil 4 dr. 2 ob. Total 40 dr. 3 1/2 ob. 7th, a relish for the builder 1 ob. 9th, for the workman 4 ob., a relish for the builder 1 ob., the carpenter... 13th, price of oil 4 dr. 3 ob., purple 20 dr., thread for a woman's robe..., to Philoutarion... 22nd, price of oil 4 dr. 2 ob. Total...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    

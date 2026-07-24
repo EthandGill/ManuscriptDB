@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 1.249
+label:    O.BODL 1.249
+name:     Documentary papyrus — Theben (?)
+genre:    documents
+date:     190 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (?) (190 BCE)
+# hgv-keywords: Anweisung — Zahlung
+tm:       70980
+source:   https://papyri.info/ddbdp/o.bodl;1;249
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Διοκλῇ· χρημάτισον τοῖς
+r.2    παρὰ Ξένωνος Θεοδώρωι
+r.3    καὶ Διοτέλῃ εἰς τὴν Παχράτου
+r.4    εἰς πλήρωσιν ιδ … ε β … ιε δραχμὰς λ.
+r.5    Ερη … ο.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

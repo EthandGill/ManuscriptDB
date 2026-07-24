@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1139
+label:    O.BODL 2.1139
+name:     Receipt — Theben
+genre:    receipts
+date:     256 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (256 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71826
+source:   https://papyri.info/ddbdp/o.bodl;2;1139
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψε Παῦνι λ τοῦ γ ἔτους
+r.2    τῶν κυρίων ἡμῶν Οὐαλεριανοῦ
+r.3    καὶ Γαλλιηνοῦ Σεβαστῶν ὀνόματος
+r.4    Ἁρυώθου ὁμοίως μητρὸς Σεν … υερωτος
+r.5    ὑπὲρ ἐπιβολῆς ἀρουρῶν β μ δραχμὰς τέσσαρας γίνονται δραχμαὶ δ. Ἀπολλώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

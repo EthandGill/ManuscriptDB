@@ -1,0 +1,38 @@
+[META]
+id:       P.Oxy. 8.1142
+label:    P.Oxy. 8.1142
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     276 CE – 300 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (276 CE – 300 CE)
+# hgv-keywords: Anordnung — Einkauf
+tm:       31721
+source:   https://papyri.info/ddbdp/p.oxy;8;1142
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐντολικὸν Ἀχιλλίδι. ὑποστάθμιον ἀγόρασον ἡμικοτύλην ξηρομύρου καλοῦ δραχμῶν ιϛ, πατήματος δραχμῶν η, βρέλλιον ὁλκῆς δ, ὄνυχος τέσσερα δηνάρια ὁλ κῆς, στυράκιν ὁλ κῆς δηναρ[ί]ου, στροβ[ί]λια δηναρ[ί]ου μεγάλα,
+r.2    ξήριον δραχμῶν ιβ, στήμιον δραχμῶν κ, κτενία πρὸς κεφαλὴν δύο δηναρί[ου] α,
+r.3    ἀρτύματος δηναρί[ο]υ α. λέγει Ὡρίων ὁ κλιβανεὺς ὅτι ἀγόρασόν μοι
+r.4    … τετρώβολα ὀριγάνου. — Διογέ[ν]ης … ς ὅτ[ι] ἀγόρασον χάρτην α.
+r.5    [ἀγόρασον] ἡμῖν χελάδριον …
+r.6    … [, ἀγόρα]σον ἡμῖν ἐλαίο[υ] ξέσ[τ ] … ις α, ἀγόρασον ἡμῖν
+r.7    … [ γλ]ύκιον ῥοιτικόν. ἐρ[ρ]ῶ[σθαί][ σε ][εὔχ]ομαι. —
+r.8    ἐντολικὸν Ἀχιλλίδι.
+
+[TRANSLATION]
+# HGV-EN: Order to Achillis. Buy half a cotyle of dry precipitate (?) of good perfume at 16 drachmae, some trodden grapes (?) at 8 drachmae, sweet gum (?) to the weight of 4 drachmae, onyx-shell to the weight of 4 denarii, incense to the weight of 1 denarius, some large cones at 1 denarius, dry powder at 12 drachmae, thread at 20 drachmae, 2 hair-combs at 1 denarius, sauce at 1denarius. Horion the baker says, buy me 4 obols of marjoram. Diogenes says, buy a sheet of papyrus. Buy us a bedstead... buy us 1 (?) sextarius of oil, buy us ... some pomegranate wine. I pray for your health.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

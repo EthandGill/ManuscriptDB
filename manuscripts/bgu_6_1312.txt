@@ -1,0 +1,28 @@
+[META]
+id:       BGU 6.1312
+label:    BGU 6.1312
+name:     Receipt — Theben
+genre:    receipts
+date:     94 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (94 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       4569
+source:   https://papyri.info/ddbdp/bgu;6;1312
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κ Παῦνι τέτακται τετάρτης ἁλιέων
+r.2    κ ἔτους Καμῆτις
+r.3    χαλκοῦ Αχξ. Κέφαλος τραπεζίτης
+r.4    Β.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

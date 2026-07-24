@@ -1,0 +1,38 @@
+[META]
+id:       P.LEID.INST 1.26
+label:    P.LEID.INST 1.26
+name:     Contract — unbekannt
+genre:    contracts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Contract from unbekannt (1 CE – 100 CE)
+# hgv-keywords: Vertrag — Darlehen — Geld
+tm:       25423
+source:   https://papyri.info/ddbdp/p.leid.inst;1;26
+lat:      
+lon:      
+
+[GREEK]
+r.1    Στοτοῆτις Ἁρπαγάθου
+r.2    τοῦ Ἁρπαγάθου
+r.3    Διογᾶτι χαίρειν.
+r.4    ὁμολογῶ ἔχειν
+r.5    παρὰ σοῦ εἰς χρῆσιν
+r.6    ἀργυρίου δραχμὰς
+r.7    διακοσίας γίνονται δραχμαὶ σ ἃς κ[αὶ]
+r.8    ἀποδώσω ὁπηνίκα ἐὰν αἱρῆται. ἐὰν μὴ ἀπο[δώ]σω καθὰ γεγραμ[μένα ἐστὶν ἀποτίσω]
+
+[TRANSLATION]
+# HGV-EN: (Translation: P. L. Bat. 25.26) Stotoetis, son of Harpagathes, grandson of Harpagathes, to Diogas, greetings. I acknowledge having received from you as a loan two hundred silver drachmas, totals dr. 200, which I shall repay whenever it is required. If I should not repay according to what has been written, I shall pay as a fine ....
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

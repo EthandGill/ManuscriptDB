@@ -1,0 +1,38 @@
+[META]
+id:       P.PETR.KLEON 17
+label:    P.PETR.KLEON 17
+name:     Letter — Zielort: Arsinoites; Fundort: Gurob; Schreibort: Arsinoites ?
+genre:    letters
+date:     257 BCE
+language: Greek (Koiné)
+found:    Zielort: Arsinoites; Fundort: Gurob; Schreibort: Arsinoites ?
+held:     London
+shelf:    
+content:  Letter from Zielort: Arsinoites; Fundort: Gurob; Schreibort: Arsinoites ? (257 BCE)
+# hgv-keywords: Brief (geschäftlich) — Panakestor an Kleon — Entsendung von Deicharbeitern
+tm:       2492
+source:   https://papyri.info/ddbdp/p.petr.kleon;;17
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Πανακέστωρ Κλέωνι χ[αί]ρειν. ἀπεστείλαμέν σοι καὶ [τ]ῆι κθ ὅπως ἂν ἀποστείληις π[λή]ρωμα ὃ κατασκ[ευ]ᾶι τοὺς ἀγκῶνας τῆς μικρᾶς διώρυγος. σὺ δὲ φαίνει
+r.2    παρεληλυθέναι εἰς τὴν Μικρὰ[ν] Λίμνην. οὐκ ἔδει μὲν οὖν σε π[α]ραπορεύεσθαι, ἀλλὰ καὶ
+r.3    πρὸς ἡμᾶς παραβαλεῖν ὥρ[α]ς μόριον καὶ τεθεαμένον σε μὴ βρεχομένην τὴν γῆν, ἐπερωτῆσαι
+r.4    [δι]ὰ τίνʼ αἰτίαν οὐ βρέχ[ο]μεν. οὐ γὰ[ρ] μόνον τέταξαι τὴν Μικρὰν Λίμνην ἀρχιτεκτονεῖν
+r.5    [ἀλλὰ] καὶ ταύτην. ἔτι οὖν κα[ὶ] νῦ[ν] συνάντησον ἡμῖν αὔριον ἐπὶ τὴν ἄφ[ε]σιν καὶ ἀρχιτεκ[τ]ό[νη]σο[ν] ὡς δεῖ τὸ ὕδωρ ἀγκω[νίζειν·][ἡμεῖς γὰρ] ἄπειροί ἐσμεν. σώματα δὲ κα[ὶ] τὴν λοιπὴν
+r.6    [χ]ορηγίαν ἡμεῖς παρέξομέν σοι, ὅ[ση]ν ἂν συντάσσηις. ἐὰν δὲ μὴ παραγένηι, ἀναγκασθησόμεθα
+r.7    [γ]ράφειν Ἀπολλωνίωι ὅτι μονωτάτη ἡ αὐτοῦ γῆ ἐν τῆι Λίμνηι ἄβροχός ἐστιν, ἡμῶν βουλομένων πᾶσαν χορηγίαν παρέχειν.
+r.8    ἔρρωσο. ἔτους κθ Μεσορὴ κα.
+
+[TRANSLATION]
+# HGV-EN: Panakestor to Kleon, greetings. We have already sent you (a letter) on the 29th also, asking you to send out a crew to construct the bends of the small canal. You seem to have passed by, however, on your way to the Little Lake. You should not have paid by, though, but rather have come along to us for a moment and, having seen for yourself that the land is not being irrigated, you should have asked for what reason we do not irrigate. For you have not been appointed to supervise only the works (at the) Little Lake, but also those at this (land). Even now, come to meet us tomorrow at the sluice and give instructions on how the water is to be conducted into side channels, for we lack experience. We will provide you with workmen and other supplies, as much as you order. If, however, you do not come, we will be compelled to write to Apollonios that his land alone in the Lake district is uninundated, even though we were willing to provide all that is needed. Farewell. Year 29, Mesore 21.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

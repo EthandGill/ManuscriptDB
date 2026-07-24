@@ -1,0 +1,46 @@
+[META]
+id:       P.Oxy. 72.4856
+label:    P.Oxy. 72.4856
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     118 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (118 CE)
+# hgv-keywords: Auftrag an den Sitologen von Seryphis (diastolikon) — Giro - Überweisung von Weizen
+tm:       114236
+source:   https://papyri.info/ddbdp/p.oxy;72;4856
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    σιτολόγ …
+r.2    Διονύσιος Παυσ[ιρ] …
+r.3    Σαραπίωνι σιτολόγῳ λιβὸς
+r.4    τοπαρχίας Σερύφεως τόπων χαίρειν.
+r.5    διάστειλ[ο]ν ἀφ’ ὧν ἔχεις ἐν
+r.6    θέματι παρὰ σοὶ πυροῦ γενήματος
+r.7    τοῦ [ἐ]νεστῶτος δευτέρου
+r.8    ἔτους Ἁδριανοῦ τοῦ κυρίου
+r.9    Διοσκόρῳ Διογένους θέμα
+r.10   πυροῦ ἀρτάβας ἑξήκοντα
+r.11   δύο, γίνονται πυροῦ ἀρτάβαι ξβ. ἔτους β Ἁδρια[νο]ῦ
+r.12   τοῦ κυρίου, Μεσορὴ θ.
+
+[TRANSLATION]
+# HGV-EN: (2nd hand?) Sitolog– of . . . (1st hand) Dionysius son of Pausir— to Sarapion, sitologus of the western toparchy, district of Seryphis, greetings. Transfer, from the amount you hold on deposit in your granary, from the wheat-crop of the current second year of Hadrianus the lord, to Dioscorus son of Diogenes, as a deposit, sixty-two artabas of wheat, total 62 art. of wheat. Year 2 of Hadrianus the lord, Mesore 9. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

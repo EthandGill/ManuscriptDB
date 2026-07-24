@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 73.4953
+label:    P.Oxy. 73.4953
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     48 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (48 CE)
+# hgv-keywords: Eingabe — Dios (Weber) an den Strategen Tiberius Claudius Pasion — Beschwerde wegen Erpressung (Geld) durch einen Praktor
+tm:       118644
+source:   https://papyri.info/ddbdp/p.oxy;73;4953
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Τιβερίῶι Κλαυδίω[ι Πα]σίωνι στρατηγῷ
+r.2    παρὰ Δίου τοῦ Πετεύριος τῶν ἀπ’ Ὀξυρύγχων πόλεως γερδίων λαύρας Ποιμενικῆς. διεσείσθην
+r.3    ὑπὸ Ἀμμωνίου γ[εν]ομένου
+r.4    πράκτορος τῶι ϛ ἔτει Τιβερίου Κλαυδίου
+r.5    Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.6    Αὐτοκράτορος ἀργυρίου δραχμὰς μ καὶ τῶι
+r.7    ζ ἔτει κατὰ μέρος ἄλλας ἀρ[γυρίου] δραχμὰς μ,
+r.8    ἐξ οὗ ἐφέλκομαι διὰ τὸ διάσεισμα τὸ τοῦ ζ ἔτους χειρωνάξιον. διὸ
+r.9    ἀξιῶ διαλαβ[ε]ῖν ὡς ἐάν σοι δόξηι. εὐτύχει.
+
+[TRANSLATION]
+# HGV-EN: To Tiberius Claudius Pasion, strategus, from Dius son of Peteuris, of those from the city of the Oxyrhynchi, of the weavers of the quarter of Poimenike. Ammonius, the ex-praktor, extorted from me in Year 6 of Tiberius Claudius Caesar Augustus Germanicus Imperator 40 drachmas of silver, and in Year 7, another 40 drachmas of silver, bit by bit. As a consequence, because of the extortion, I am in arrears for the trade tax for Year 7. I therefore request that you deal with (this) as you may see fit. Farewell. (J. Whitehorne)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

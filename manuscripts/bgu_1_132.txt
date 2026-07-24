@@ -1,0 +1,44 @@
+[META]
+id:       BGU 1.132
+label:    BGU 1.132
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     132 CE – 133 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (132 CE – 133 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       8909
+source:   https://papyri.info/ddbdp/bgu;1;132
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … ηθ
+r.2    … με … ἐπικ …
+r.3    … θεω ἀπὸ Πλατείας
+r.4    … [ Πλα]τείας ἐτῶν λβ ἄσημο
+r.5    … Διονυσια… υας
+r.6    … νοσιμο ἀπὸ
+r.7    λαογραφούμενος ἐτῶν ιδ ἄσημος, Διονᾶς ἄλλος υἱὸς
+r.8    μητρὸς τῆς αὐτῆς ἀναγεγραμμένος ἐτῶν θ ἄσημος,
+r.9    Ἑρμῆς ἄλλος υἱὸς μητρὸς τῆς αὐτῆς
+r.10   μὴ ἀναγεγραμμένος ἐτῶν γ, Ἥρων ἄλλος
+r.11   ὑιὸς μητρὸς τῆς αὐτῆς γεννηθεὶς ιζ ἔτους
+
+[TRANSLATION]
+# HGV-EN: Col. I scrutinized (?) from the Plateia (quarter) teia, 32 years old, without a distinguishing mark Dionysia Col. II subject to the poll-tax, 14 years old, Dionas, another son of the same mother <not> registered (in the list of those born since then), 9 years old, Hermes, another son of the same mother, not registered (in the list of those born since then), 3 years old, Heron, another son of the same mother, born in the year 17, – – –
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

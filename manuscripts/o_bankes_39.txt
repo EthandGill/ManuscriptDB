@@ -1,0 +1,30 @@
+[META]
+id:       O.BANKES 39
+label:    O.BANKES 39
+name:     Receipt — Elephantine
+genre:    receipts
+date:     101 CE – 125 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (101 CE – 125 CE)
+# hgv-keywords: Quittung — Steuer (Ersatzzahlung für Datteln, time demosiu phoinikos) (?)
+tm:       699512
+source:   https://papyri.info/ddbdp/o.bankes;;39
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Τιβέρ[ιος] …
+r.2    διέγραψεν …
+r.3    τιμῆς δημοσίου φ[οίνικος δραχμὰς]
+r.4    δέκα …
+r.5    ἔτους …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

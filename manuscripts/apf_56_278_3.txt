@@ -1,0 +1,24 @@
+[META]
+id:       APF 56.278_3
+label:    APF 56.278_3
+name:     Documentary papyrus — Herakleopolis
+genre:    documents
+date:     444 CE
+language: Greek (Koiné)
+found:    Herakleopolis
+held:     New Haven
+shelf:    
+content:  Documentary papyrus from Herakleopolis (444 CE)
+# hgv-keywords: Datierung
+tm:       130024
+source:   https://papyri.info/ddbdp/apf;56;278_3
+lat:      29.0855048
+lon:      30.9345750333
+
+[GREEK]
+r.1    [μετὰ τὴν ὑπατείαν Φλαουίων Μαξίμου τ]ὸ β καὶ Πατερίου τῶν λαμπροτάτων
+r.2    … [ι]β ἰνδικτίωνος ἐν Ἡρακλέους
+
+[TRANSLATION]
+1     
+2     

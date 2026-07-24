@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.634
+label:    O.BODL 2.634
+name:     Receipt — Theben
+genre:    receipts
+date:     144 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (144 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71325
+source:   https://papyri.info/ddbdp/o.bodl;2;634
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πόστομος πράκτωρ ἀργυρικῶν Χάρακος
+r.2    Ἀμενώθῃ Ἁρβήχιος Ἀμενώθου.
+r.3    ἔσχον ὑπὲρ χωματικοῦ καὶ βαλανευτικοῦ ζ ἔτους ῥυπαρὰς δραχμὰς
+r.4    ἑπτὰ πεντώβολον χαλκοῦς β γίνονται ῥυπαραὶ δραχμαὶ ζ πεντώβολον χαλκοῖ β. ἔτους ζ Ἀντωνίνου
+r.5    Καίσαρος τοῦ κυρίου Μεσορὴ ιϛ. Πόστομος
+r.6    διὰ Καρούριος βοηθοῦ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

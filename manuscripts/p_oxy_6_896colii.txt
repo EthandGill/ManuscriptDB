@@ -1,0 +1,56 @@
+[META]
+id:       P.Oxy. 6.896colii
+label:    P.Oxy. 6.896colii
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     316 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (316 CE)
+# hgv-keywords: Gutachten — Arzt — an den Logistes Valerius Ammonianos alias Gerontios
+tm:       20359
+source:   https://papyri.info/ddbdp/p.oxy;6;896colii
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [ρκη]
+r.2    Ο[ὐα]λ[ε]ρ[ίῳ Ἀμμωνιανῷ τῷ καὶ Γεροντίῳ λογιστῇ Ὀξυρυγχίτου]
+r.3    παρὰ Αὐρηλίων Ἥρωνος … [ καὶ Διδύμου]
+r.4    Διοσκόρου ἀμφοτέρων ἀπὸ τῆς λα[μπρᾶς][ καὶ] λαμπροτάτης Ὀξυ[ρυγχ]ιτῶν
+r.5    πόλεως δημοσίων ἰατρῶν. ἐπ[εσ]τάλημεν ὑπὸ σοῦ
+r.6    σήμερον ἥτις ἐστὶν Φαρμοῦθι ϛ [ἐκ] βιβλιδίων
+r.7    ἐπιδοθέντων σοι ὑπὸ Ἀπολλωνίου ὀφφικιαλίου ἡγουμένου
+r.8    Αἰγύπτου Ἡρκουλείας Αὐρηλίου Ἀντωνίου ὥστε γενέσθαι
+r.9    [ἐπ]ὶ τὴ[ν] οἰκίαν ἐν τῇ αὐτῇ πόλει καὶ τοῦτον ἐπιδεῖν
+r.10   καὶ [ἣ]ν ἂν καταλάβ[ωμε]ν περὶ αὐτὸν διάθεσιν ἐγγ[ράφω]ς προσφωνῆσαι. ὅθεν γενόμενοι ἔνθα ὁρῶμε[ν αὐτὸ]ν το[ῦτ]ον κλ[ινή]ρην ὄντα πυρετίοις
+r.11   ἀκ[ρ]ίτοι[ς] συνεχ[όμενον· ὅπερ] προσφωνοῦμεν.
+r.12   ὑπατείας Και[κι]νίου Σ[α]βίν[ου καὶ] Οὐεττίου Ῥουφίνου
+r.13   τῶν λαμπροτάτων Φαρμ[ο]ῦθι [ϛ].
+r.14   Αὐρήλιος Ἥρων ἐπιδέδωκα
+r.15   πρ[οσ]φωνῶν ὡς πρόκειται.
+r.16   Αὐρήλιος Δίδυμος ἐπιδέδωκα προσφωνῶν
+r.17   ὡς πρ[ό]κειται.
+
+[TRANSLATION]
+# HGV-EN: To Valerius Ammonianus also called Gerontius, logistes of the Oxyrhynchite nome, from the Aurelii Heron son of ... and Didymus son of Dioscorus, both of the illustrious and most illustrious city of Oxyrhynchus, public physicians. We were sent by you to-day, Pharmouthi 6, in consequence of a petition delivered to you by Apollonius, officer of Aurelius Antonius governor of Aegyptus Herculia, to go to the house in the said city and inspect this person, and to make a written report upon the condition in which we found him. Having therefore proceeded thither we saw the man himself lying on a bed seized with a slight ... fever; which we accordingly report.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    

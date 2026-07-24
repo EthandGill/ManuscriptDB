@@ -1,0 +1,30 @@
+[META]
+id:       O.HEID 297
+label:    O.HEID 297
+name:     Receipt — Theben (Kerameia)
+genre:    receipts
+date:     211 CE
+language: Greek (Koiné)
+found:    Theben (Kerameia)
+held:     
+shelf:    
+content:  Receipt from Theben (Kerameia) (211 CE)
+# hgv-keywords: Quittung — Speicherquittung — Weizen
+tm:       80513
+source:   https://papyri.info/ddbdp/o.heid;;297
+lat:      25.705501
+lon:      32.704914
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κωμῶν γενήματος ιθ ἔτους Ἀ[ντωνίνου καὶ]
+r.2    Γέτα Εὐσεβῶν Σεβ[αστῶν ]
+r.3    ὑπὲρ λημμάτων ιη ἔτους Κεραμείων ὀνόματος Φ[ … ]
+r.4    πυροῦ ἀρτάβαι δύο, γίνονται πυροῦ ἀρτάβαι β. Π σεσημείωμαι πυροῦ ἀρτάβαι β.
+
+[TRANSLATION]
+# HGV-EN: Payment in the granary of the villages from the produce of the 19th year of Antoninus and Geta Pii Augusti (month, day), for the receipts of the 18th year, for Kerameia, in the name of Ph-, two artabas of wheat, total 2 artabas of wheat. I, P-, have signed. 2 artabas of wheat.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     Measurement of the treasury of villages from the produce of the 19th year of A[ntoninus and].
+2     Geta, Pious [Augusti].
+3     For the receipts of the 18th year for Kerameia, in the name of Ph[…].
+4     Two artabas of wheat, total 2 artabas of wheat. I, P, have signed. 2 artabas of wheat.

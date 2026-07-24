@@ -1,0 +1,26 @@
+[META]
+id:       O.LEID 84
+label:    O.LEID 84
+name:     Receipt — Theben
+genre:    receipts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (1 CE – 100 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       26429
+source:   https://papyri.info/ddbdp/o.leid;;84
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πτολεμαῖος Παχράτου διὰ Γερμαν[οῦ ] …
+r.2    ὑποκειμένου τέλους λαχαν[ο]πωλῶν …
+r.3    τοῦ Τῦβι …
+
+[TRANSLATION]
+1     
+2     
+3     

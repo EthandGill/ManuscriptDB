@@ -1,0 +1,32 @@
+[META]
+id:       O.ELEPH.WAGNER 22
+label:    O.ELEPH.WAGNER 22
+name:     Receipt — Elephantine
+genre:    receipts
+date:     20 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (20 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24202
+source:   https://papyri.info/ddbdp/o.eleph.wagner;;22
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [διαγεγρά]φη[κεν Ζμή]θιος Παχ[νούβιος]
+r.2    ὑπὲρ λαογραφίας τοῦ
+r.3    ἕκτου [ἔτους] Τιβερίου
+r.4    Καίσαρος Σεβαστοῦ
+r.5    Μεσορὴι ιε
+r.6    ἀργυρίου ἀρχαίου δραχμὰς ιϛ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

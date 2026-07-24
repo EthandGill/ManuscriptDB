@@ -1,0 +1,32 @@
+[META]
+id:       O.HEID 63
+label:    O.HEID 63
+name:     Receipt — Theben
+genre:    receipts
+date:     110 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (110 CE)
+# hgv-keywords: Quittung — Steuer (Badesteuer?)
+tm:       80310
+source:   https://papyri.info/ddbdp/o.heid;;63
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀσφ … καὶ μέτοχοι τελῶναι
+r.2    θησαυροῦ [ἱερῶν]
+r.3    Ἡρακλεῖ Πεβρίχιος. ἔσχομεν
+r.4    τ[ὸ βαλανευτικὸν]
+r.5    τοῦ ιγ ἔτους Τραιανοῦ τ[οῦ κυρίου]
+r.6    Παῦνι γ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

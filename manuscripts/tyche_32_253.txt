@@ -1,0 +1,26 @@
+[META]
+id:       TYCHE 32.253
+label:    TYCHE 32.253
+name:     Documentary papyrus — Arsinoites ?, Ägypten
+genre:    documents
+date:     673 CE
+language: Greek (Koiné)
+found:    Arsinoites ?, Ägypten
+held:     Berlin
+shelf:    
+content:  Documentary papyrus from Arsinoites ?, Ägypten (673 CE)
+# hgv-keywords: Urkunde
+tm:       39657
+source:   https://papyri.info/ddbdp/tyche;32;253
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [ ἐν ὀνόματι τοῦ κυρίου] καὶ δεσπότου Ἰησοῦ Χριστοῦ τοῦ θεοῦ καὶ σωτῆρος
+r.2    [ἡμῶν καὶ τῆς δεσποίν]ης ἡμῶν τῆς ἁγίας θεοτόκου καὶ ἀειπαρθένου
+r.3    [Μαρίας καὶ πάντων τῶν ἁγ]ί[ων.] ἔ[τ]ους Διοκλητιανοῦ τϙ Φαμενὼθ ιβ α ἰνδικτίωνος.
+
+[TRANSLATION]
+1     
+2     
+3     

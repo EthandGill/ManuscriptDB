@@ -1,0 +1,28 @@
+[META]
+id:       O.CAMB 71
+label:    O.CAMB 71
+name:     Receipt — Theben
+genre:    receipts
+date:     198 CE – 210 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (198 CE – 210 CE)
+# hgv-keywords: Quittung
+tm:       73550
+source:   https://papyri.info/ddbdp/o.camb;;71
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [μ]έτρημα θησαυροῦ μητρομόλεως γεν[ήματος] … [ ἔτους τῶν κυρίων]
+r.2    [Ἀ]ὐτοκρατόρων Σ[εουήρου καὶ Ἀντωνίνου]
+r.3    [Εὐσεβῶ]ν Σεβαστῶν Ἐπεὶφ β …
+r.4    … Πετεμενώφιος Παναμέως …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

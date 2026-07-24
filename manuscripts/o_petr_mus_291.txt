@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 291
+label:    O.PETR.MUS 291
+name:     Receipt — Theben
+genre:    receipts
+date:     44 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (44 CE)
+# hgv-keywords: Quittung — Steuer (Dattelpalmenhaine)
+tm:       77715
+source:   https://papyri.info/ddbdp/o.petr.mus;;291
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Ἑρμίας Ζωείλου ὑπὲρ φοινικώνων δ ἔτους
+r.2    ιϛ λβ δραχμὴν α πεντώβολον καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου. ἔτους ε
+r.3    Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ
+r.4    Γερμανικοῦ Αὐτοκράτορος μηνὸς
+r.5    Σεβαστοῦ θ Αοη … θις σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

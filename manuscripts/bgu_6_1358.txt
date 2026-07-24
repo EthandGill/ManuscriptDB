@@ -1,0 +1,30 @@
+[META]
+id:       BGU 6.1358
+label:    BGU 6.1358
+name:     Receipt — Elephantine
+genre:    receipts
+date:     120 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (120 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       4585
+source:   https://papyri.info/ddbdp/bgu;6;1358
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [ἔτ]ους ν Παχὼν …
+r.2    τέτακται τὸ γινόμενον τέλ[ο]ς
+r.3    ζυτηρᾶς καὶ νιτρικῆς
+r.4    Σεγῶθις τῆς ἑξαμήνου
+r.5    χαλκοῦ ρκ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

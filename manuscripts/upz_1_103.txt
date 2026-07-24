@@ -1,0 +1,30 @@
+[META]
+id:       UPZ 1.103
+label:    UPZ 1.103
+name:     Documentary papyrus — Memphis
+genre:    documents
+date:     153 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Documentary papyrus from Memphis (153 BCE)
+# hgv-keywords: Abrechnung — Geld
+tm:       3494
+source:   https://papyri.info/ddbdp/upz;1;103
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    Ἀώνχειος λόγος·
+r.2    ἔτους κη Φαῶφι ἕως
+r.3    Παμενὼθ λ
+r.4    Γυ, Φαρμοῦθι ἕως Μεσορὴ λ
+r.5    δραχμαὶ Βχν γίνεται τάλαντον α
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

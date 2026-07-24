@@ -1,0 +1,58 @@
+[META]
+id:       P.Oxy. 12.1432
+label:    P.Oxy. 12.1432
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     214 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (214 CE)
+# hgv-keywords: Bericht — Pächter von Steuern an Stratege — Zahlung der Steuern von Händlern (Gemüse) — Geld
+tm:       21836
+source:   https://papyri.info/ddbdp/p.oxy;12;1432
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Αὐρηλίῳ Ἀνουβίω[νι] στρατηγῷ Ὀξυρυγχίτου
+r.2    παρὰ Ἡρακλᾶτος Σαρᾶ τ[ο]ῦ
+r.3    Ἀκοῦ μητρὸς Νικαίας
+r.4    ἀπʼ Ὀξυρύγχων πόλεως
+r.5    ὑποσχεσαρίου ὠνῆς
+r.6    ἀθηροπωλῶν καὶ ὀρβιοπωλῶν. μηνιαῖος λόγος
+r.7    τοῦ Παῦνι τοῦ ἐνεστῶτος
+r.8    κβ ἔτους Μάρκου Αὐρηλίο[υ]
+r.9    Σεουήρου Ἀντωνίνο[υ]
+r.10   Καίσαρος τοῦ κυρίου.
+r.11   ἔστι δέ. παρὰ ἀθηροπωλῶν καὶ ὀρβιοπωλῶν
+r.12   δραχμὰς ὀγδοήκοντα,
+r.13   γίνονται δραχμαὶ π, αἳ καὶ διαγράφοντ[αι]
+r.14   εἰς τὴν ἐπὶ τόπων
+r.15   δημοσίαν τράπεζαν.
+r.16   ἔτους κβ Αὐτοκ[ρ]άτορος
+r.17   Καίσαρος Μάρκου Αὐρηλίου
+r.18   [Σεουήρο]υ Ἀν[τ]ωνίνου
+
+[TRANSLATION]
+# HGV-EN: To Aurelius Anubion, strategus of the Oxyrhynchite nome, from Ieraclas son of Saras son of Akous, his mother being Nicaea (?), of the city of Oxyrhynchus, contractor for farming the tax on pulse-sellers and vetch-sellers. Monthly account for Pauni of the present 22nd year of Marcus Aurelius Severus Antoninus Caesar the lord, as follows. From the pulse-sellers and vetch-sellers eighty drachmae, total 80 dr., which were paid into the local public bank.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

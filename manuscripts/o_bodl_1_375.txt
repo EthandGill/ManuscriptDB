@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 1.375
+label:    O.BODL 1.375
+name:     Documentary papyrus — Theben (?)
+genre:    documents
+date:     400 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (?) (400 BCE – 1 BCE)
+# hgv-keywords: Liste — Namen
+tm:       71081
+source:   https://papyri.info/ddbdp/o.bodl;1;375
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἡρακλέωνος
+r.2    Ἀμμώνιος
+r.3    Εἰρηναίου
+
+[TRANSLATION]
+1     
+2     
+3     

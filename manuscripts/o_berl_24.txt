@@ -1,0 +1,30 @@
+[META]
+id:       O.BERL 24
+label:    O.BERL 24
+name:     Receipt — Elephantine
+genre:    receipts
+date:     32 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (32 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       24416
+source:   https://papyri.info/ddbdp/o.berl;;24
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διαγεγράφηκεν Παχομπασμῆθις
+r.2    κηπουρὸς ὑπὲρ λαογραφίας
+r.3    τοῦ ιη ἔτους Τιβερίου Καίσαρος Σεβαστοῦ
+r.4    Μεσορὴ λ ἀργυρίου δραχμὰς
+r.5    δεκαέξ, γίνονται δραχμαὶ ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

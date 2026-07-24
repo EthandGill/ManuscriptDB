@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 12
+label:    O.LEID 12
+name:     Receipt — Diospolis Magna (Theben)
+genre:    receipts
+date:     112 BCE
+language: Greek (Koiné)
+found:    Diospolis Magna (Theben)
+held:     
+shelf:    
+content:  Receipt from Diospolis Magna (Theben) (112 BCE)
+# hgv-keywords: Quittung — Steuern — Bank
+tm:       5925
+source:   https://papyri.info/ddbdp/o.leid;;12
+lat:      25.664781
+lon:      32.631884
+
+[GREEK]
+r.1    [ἔτους ] … θ τέτακται ἐπὶ τὴν ἐν
+r.2    [Διὸς πόλει] τῆι μεγάληι τράπεζαν περιστερεώνων
+r.3    … [ ἔτους] Ψεναπάθης Ἰναρῶτος
+r.4    [χαλκοῦ] Ασ. Κέφαλος τραπεζίτης.
+r.5    [χαλκοῦ] Ασ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,26 @@
+[META]
+id:       O.HEID 245
+label:    O.HEID 245
+name:     Receipt — Theben (Notos)
+genre:    receipts
+date:     182 CE
+language: Greek (Koiné)
+found:    Theben (Notos)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos) (182 CE)
+# hgv-keywords: Quittung — Steuer (Landvermessungssteuer, geometria)
+tm:       80463
+source:   https://papyri.info/ddbdp/o.heid;;245
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Μεσορὴ κθ τοῦ κβ ἔτους ὀνόματος
+r.2    Θατρῆτος Πικῶτος
+r.3    [ὑπὲρ] γεωμετρίας [κβ ἔτους Νότου] ὀβολοὺς 3 ἡμιωβέλιον. … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

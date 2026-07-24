@@ -1,0 +1,30 @@
+[META]
+id:       BGU 3.721
+label:    BGU 3.721
+name:     Receipt — Arsinoites
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Receipt from Arsinoites (158 CE – 159 CE)
+# hgv-keywords: Quittung — Saatgut
+tm:       9319
+source:   https://papyri.info/ddbdp/bgu;3;721
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    σπερμάτων κβ ἔτους Ἀντωνίνου Καίσ[αρος τοῦ]
+r.2    κυρίου Ψεναρψενήσεως βασιλικῆς ἄρουραι δ 𐅵 …
+r.3    ἄρουρη α δ λη κ[λ]ηρουχίας Πρ …
+r.4    Ὀρσενούφεως ρ … ἄρουραι β
+
+[TRANSLATION]
+# HGV-EN: From the seed reserves of year 22 of Antoninus Caes[ar, the] lord. At Psenarpsenesis 4 1/2 an aroura of royal (land). 1 1/4 of an aroura. 38th cleruchy. Pr[otas], son of Orsenouphis, 2 arouras of .
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

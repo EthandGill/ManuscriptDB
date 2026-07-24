@@ -1,0 +1,30 @@
+[META]
+id:       O.WILB 62
+label:    O.WILB 62
+name:     Receipt — Theben
+genre:    receipts
+date:     139 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (139 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76570
+source:   https://papyri.info/ddbdp/o.wilb;;62
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν μητροπόλεως γενήματος β ἔτους Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου Μεσορὴ θ ὑπὲρ Ἀγορῶν ὀνόματος Ποστόμου
+r.3    Θέωνος διὰ Ψενχώνσιος Παουψάιτος καὶ μετόχων πυροῦ ἀρτάβας πέντε ἥμισυ
+r.4    δωδέκατον γίνονται πυροῦ ε 𐅵 ιβ καὶ ὑπὲρ Κεραμείων ὀνόματος τοῦ αὐτοῦ διὰ γεωργῶν
+r.5    τῶν αὐτῶν πυροῦ ἀρτάβας ὀκτὼ ἕκτον γίνονται πυροῦ ἀρτάβαι η ϛ. Γάιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

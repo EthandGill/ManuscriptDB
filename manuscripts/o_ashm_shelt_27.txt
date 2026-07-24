@@ -1,0 +1,34 @@
+[META]
+id:       O.ASHM.SHELT 27
+label:    O.ASHM.SHELT 27
+name:     Receipt — Theben
+genre:    receipts
+date:     167 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (167 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       70579
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;27
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ζ ἔτους
+r.2    Ἀντωνίνου καὶ Οὐήρου
+r.3    τῶν κυρίων Σεβαστῶν,
+r.4    Ἐπεὶφ κη, ὑπὲρ Κεραμείων ὀνόματος Πανοβχο τοῦ καὶ Κομβη …
+r.5    Πα … θου διὰ Ἀσκληπιάδου
+r.6    Θαμ πυροῦ τρίτον τετρακαιεικοστὸν
+r.7    μη, γίνεται πυροῦ γ κδ μη. Ἀµώνιος σεσηµείωµαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

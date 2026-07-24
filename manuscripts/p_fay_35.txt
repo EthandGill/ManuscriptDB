@@ -1,0 +1,38 @@
+[META]
+id:       P.Fay. 35
+label:    P.Fay. 35
+name:     Receipt — Theadelphia (Arsinoites)
+genre:    receipts
+date:     150 CE – 151 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Theadelphia (Arsinoites) (150 CE – 151 CE)
+# hgv-keywords: Quittung — Lohn — Eintreiber von Steuern
+tm:       10880
+source:   https://papyri.info/ddbdp/p.fay;;35
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    Α … καὶ Ἅρπαλος Ἡρα[κλείδο]υ
+r.2    π … ωνι Χαιρήμ[ονος π]ράκτο[ρι ] … [ κ]ώ[μ]ης Θεαδελφείας.
+r.3    ἀπέχομ[εν παρὰ] σοῦ τὰς συνεσταμένας ἡμῖν ὑπὲρ σαλαρείου …
+r.4    πρακτ[ορ] … τοῦ ἐνεστῶτος ιδ ἔτους Ἀντωνεί[νου]
+r.5    Καίσαρος [τοῦ] κυρίου ἀργυρίου δραχμὰς διακοσίας, γίνονται [δραχμαὶ σ], καὶ ἀναδώσομέν σοι τὰς ἀποχὰς τῶν καταχωριζομένων βιβλίων
+r.6    τῆς τάξεως, μένοντος κυρίου τοῦ γενομένου
+r.7    εἰς ἡμᾶς συστατικοῦ. Μύστης ἔγραψα
+r.8    τὰ πλεῖστα.
+
+[TRANSLATION]
+# HGV-EN: A... and Harpalus, son of Heraclides, to ..., son of Chaeremon, collector of the ...tax of the village Theadelphia. We have received from you the sum agreed upon as our salary [as your deputies] for the present 14th year of Antoninus Caesar the lord, namely two hundred drachmae of silver, total 200 dr.; and we will render to you the receipts among the documents for registration concerning the tax, the agreement of appointment made with us remaining valid. (Signed) Written for the most part by me, Mystes.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

@@ -1,0 +1,26 @@
+[META]
+id:       O.ONT.MUS 2.164
+label:    O.ONT.MUS 2.164
+name:     Receipt — Theben
+genre:    receipts
+date:     212 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (212 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75183
+source:   https://papyri.info/ddbdp/o.ont.mus;2;164
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Αὐρήλιος Παπ καὶ μέτοχοι ἐπιτηρηταὶ τέλους
+r.2    γερδίων … Αὐρηλίῳ … χαίρειν. ἔσχομεν
+r.3    ὑπὲρ τέλους δραχμὴν μ[ία]ν ὀβολοὺς δ 𐅵 γίνονται δραχμὴ α ὀβολοὶ δ 𐅵
+
+[TRANSLATION]
+1     
+2     
+3     

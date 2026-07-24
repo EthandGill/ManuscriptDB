@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 8.1107
+label:    P.Oxy. 8.1107
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     401 CE – 600 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (401 CE – 600 CE)
+# hgv-keywords: Brief (amtlich) — Eudaimon an Johannes — Anweisung — Schutz — Besitz
+tm:       35569
+source:   https://papyri.info/ddbdp/p.oxy;8;1107
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐπειδὴ ἡ τροφὸς τοῦ κυρίου Σωφρονίου χρεωστεῖται φόρους παρὰ Ψοείου τοῦ φυγό[ν]τος
+r.2    τοῦ καὶ γεωργήσαντος αὐτῆς τὴν γῆν, μὴ συγχωρήσατε μηδενὶ ἀνθρώπους ἅψασθαι τοῦ
+r.3    ὑπολοίπου τῆς ἁλωνίας αὐτοῦ μήτε χόρτου ἄχρις ὅταν πληρωθῇ τοὺς φόρους ἑαυτῆς. πρὸς
+r.4    ὑμᾶς γὰρ ἔχω ταῦτα τὰ γραφέντα γενέσθαι, καὶ ἐὰν μάθω ὅτι τίς ποτε ἔλαβεν αὐτοῦ
+r.5    τί ποτε, ὑμᾶς οἴκοθεν ἀπαιτῶ πάντα τὰ χρεωστούμενα αὐτῇ παρʼ αὐτοῦ.
+r.6    ἐπίδος Ἰωάννῃ βοηθῷ παρὰ Εὐδαίμονος.
+
+[TRANSLATION]
+# HGV-EN: Since the nurse of the lord Sophronius is owed rent by Pstheious son of Phutos who cultivated her land, allow no one to touch what is left at his threshing-floor or the green crops until she has received her rent in full, I have to direct this letter to you, and if I learn that any one has taken any thing of his, I shall demand from you personally all that is owed her by him. (Addressed) Deliver to John, assistant, from Eudaemon.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

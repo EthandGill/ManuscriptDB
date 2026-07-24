@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.2203
+label:    O.BODL 2.2203
+name:     Receipt — Theben
+genre:    receipts
+date:     94 CE – 95 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (94 CE – 95 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       72837
+source:   https://papyri.info/ddbdp/o.bodl;2;2203
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Με … Πετεμενώφιος δεκανὸς ὑπὲρ
+r.2    κυνηγίδων … ιδ ἔτους ῥυπαρὰς δραχμὰς τέσσαρας
+r.3    ὀβολοὺς τέσσαρας … ἔτους ιδ Δομιτιανοῦ.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,30 @@
+[META]
+id:       O.Wilck. 825
+label:    O.Wilck. 825
+name:     Receipt — Theben
+genre:    receipts
+date:     127 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (127 CE)
+# hgv-keywords: Quittung — Naturalien
+tm:       77301
+source:   https://papyri.info/ddbdp/o.wilck;;825
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα εἰς θησαυρὸν μητροπόλεως γενήματος ια [ἔτους]
+r.2    Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.3    Ἐπεὶφ γ ὀνόματος Πικῶτος
+r.4    νεωτέρου … χρ … ο ὑπὲρ Χάρακος
+r.5    πυροῦ μίαν γίνεται πυροῦ α. Ἀ … φ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

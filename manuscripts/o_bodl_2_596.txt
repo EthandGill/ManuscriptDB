@@ -1,0 +1,32 @@
+[META]
+id:       O.BODL 2.596
+label:    O.BODL 2.596
+name:     Receipt — Theben
+genre:    receipts
+date:     44 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (44 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       50301
+source:   https://papyri.info/ddbdp/o.bodl;2;596
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Ἀσκλᾶς Πανᾶτος ὑπὲρ χωματικοῦ γ ἔτους
+r.2    δραχμὰς ἓξ τετρώβολον καὶ βαλανευτικοῦ τετρώβολον ἡμιωβέλιον γίνονται
+r.3    δραχμαὶ ζ ὀβολοὶ β 𐅵 καὶ προ[σ]διαγραφόμενα
+r.4    ἐξ ὀβολοῦ ἡμιωβελίου. ἔτους δ Τιβερίου Κλαυδίου Καίσαρος
+r.5    Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+r.6    Τῦβι λ‡β. Ε
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.1031
+label:    O.BODL 2.1031
+name:     Receipt — Theben
+genre:    receipts
+date:     195 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (195 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71718
+source:   https://papyri.info/ddbdp/o.bodl;2;1031
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πρεμαῶς καὶ μέτοχοι ἐπιτηρηταὶ τέλους γερδίων
+r.2    Φατρῆτι Τικῶτος. ἔσχομεν παρὰ σοῦ
+r.3    ὑπὲρ Φαρμοῦθι τὸ καθῆκον τέλος. ἔτους γ.
+
+[TRANSLATION]
+1     
+2     
+3     

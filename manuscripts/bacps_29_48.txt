@@ -1,0 +1,32 @@
+[META]
+id:       BACPS 29.48
+label:    BACPS 29.48
+name:     Receipt — Elephantine
+genre:    receipts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (101 CE – 200 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       704391
+source:   https://papyri.info/ddbdp/bacps;29;48
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    … Ἀβουνᾶς Νίγερος καὶ Παχνοῦβις Πετορζμήθου
+r.2    … πράκτορες ἀργυρικῆς Ἐλεφαντίνης διὰ Ἀντωνίου
+r.3    … [διέ]γραψεν Πετεπτενεψίλις μητρὸς
+r.4    … [Σενπετ]ορζμῆθις ὑπὲρ δαπάνης Τίρονος κ[αὶ]
+r.5    … [Τ]ροφονος καὶ ἄλλων δαπά[νων]
+r.6    … Παῦν[ι] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

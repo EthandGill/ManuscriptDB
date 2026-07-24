@@ -1,0 +1,26 @@
+[META]
+id:       PSI 4.290
+label:    PSI 4.290
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     401 CE – 600 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (401 CE – 600 CE)
+# hgv-keywords: Zahlungsanweisung
+tm:       35214
+source:   https://papyri.info/ddbdp/psi;4;290
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    τῇ ἀδελφῇ Ἄννᾳ Παπνουθίου ζυγοστάτου
+r.2    δὸς ὑπὲρ ὠμοβουβλίνου διὰ Παμβηχίου ζυγοστάτου
+r.3    κεράτια δύο· γίνονται κεράτια β μόνα. Θὼθ ζ.
+
+[TRANSLATION]
+1     
+2     
+3     

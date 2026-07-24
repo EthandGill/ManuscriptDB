@@ -1,0 +1,28 @@
+[META]
+id:       SB 20.15142
+label:    SB 20.15142
+name:     Receipt — Hermopolis
+genre:    receipts
+date:     159 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Receipt from Hermopolis (159 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23899
+source:   https://papyri.info/ddbdp/sb;20;15142
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    κβ ἔτους Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.2    Τῦβι ϛ γερδίων πρώτου καὶ εἰκοστοῦ ἔτους
+r.3    Βάτραχος δοῦλος Ἀχιλλέως σύμπαντι
+r.4    τρεῖς, γίνονται γ διὰ Ἑρμείνου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

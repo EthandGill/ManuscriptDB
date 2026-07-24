@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.407
+label:    O.BODL 2.407
+name:     Receipt — Theben
+genre:    receipts
+date:     23 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (23 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71112
+source:   https://papyri.info/ddbdp/o.bodl;2;407
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεμενῶφις Ψεναμούνιος λαογραφίας
+r.2    ζ ἔτους ἀργυρίου δραχμὰς ε γίνονται ἀργυρίου δραχμαὶ ε.
+r.3    ἔτους ζ Μεχεὶρ κγ.
+
+[TRANSLATION]
+1     
+2     
+3     

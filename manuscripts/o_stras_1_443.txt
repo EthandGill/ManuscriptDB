@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.443
+label:    O.STRAS 1.443
+name:     Receipt — Theben
+genre:    receipts
+date:     124 CE – 125 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (124 CE – 125 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       76031
+source:   https://papyri.info/ddbdp/o.stras;1;443
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀθᾶς ἀχ[υρ ] …
+r.2    Ἑριεῖ Π … [ ἔσχον ὑπὲρ]
+r.3    ἀχύρου σιτ[ικοῦ ] … [ γενήματος ] … [ ἔτους]
+r.4    Ἁδριανοῦ [γόμους ] … [ γίνονται γόμοι ] …
+r.5    ἔτους θ Ἁδρι[ανοῦ τοῦ κυρίου ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

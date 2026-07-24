@@ -1,0 +1,32 @@
+[META]
+id:       O.DEISS 35
+label:    O.DEISS 35
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     42 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     St Andrews
+shelf:    
+content:  Receipt from Theben (Ägypten) (42 CE)
+# hgv-keywords: Quittung — Steuer (Damm)
+tm:       73849
+source:   https://papyri.info/ddbdp/o.deiss;;35
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Σαιλῆς Ἑρμίου ὑπὲρ χωματικοῦ
+r.2    β ἔτους δραχμὰς ἓξ τετρώβολον καὶ βαλανευτικοῦ τετρώβολον ἡμιωβέλιον γίνονται δραχμαὶ ϛ διώβολον ἡμιωβέλιον,
+r.3    προσδιαγραφόμενα διώβολον. ἔτους γ Τιβερίου Κλαυδίου
+r.4    Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.5    Αὐτοκράτορος Νέου Σεβαστοῦ ιγ Κέφαλος
+r.6    Πετεμενῶφις Πικῶτος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1151
+label:    O.BODL 2.1151
+name:     Receipt — Theben
+genre:    receipts
+date:     98 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (98 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71835
+source:   https://papyri.info/ddbdp/o.bodl;2;1151
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [διαγεγράφασι ] … ρης Ψενχνούμιος καὶ μέτοχοι ὑπὲρ
+r.2    … [ α] ἔτους δραχμὰς εἴκοσι ἓξ ὀβολὸν α 𐅵
+r.3    [γίνονται δραχμαὶ κϛ ὀβολὸς α 𐅵] καὶ προσδιαγραφόμενα. ἔτους α Τραιανοῦ
+r.4    [τοῦ κυρί]ου Παῦνι λ ιδ. Ἡρακλείδης
+r.5    σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

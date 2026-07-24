@@ -1,0 +1,28 @@
+[META]
+id:       O.DID 58
+label:    O.DID 58
+name:     Receipt — Didymoi
+genre:    receipts
+date:     81 CE – 96 CE
+language: Greek (Koiné)
+found:    Didymoi
+held:     Qift
+shelf:    
+content:  Receipt from Didymoi (81 CE – 96 CE)
+# hgv-keywords: Quittung — Alkimos gegenüber Psenthotes — Empfang von Unterhalt (?)
+tm:       144624
+source:   https://papyri.info/ddbdp/o.did;;58
+lat:      25.7543330528
+lon:      33.3947791619
+
+[GREEK]
+r.1    Ἄλκιμος Ψενθώτ …
+r.2    παρὰ σοῦ ἐπιμ …
+r.3    εἴκοσι τέσσερα γίνεται [ … ἔτους … Αὐτοκράτορος]
+r.4    Καίσαρος Δομιτ[ιανοῦ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

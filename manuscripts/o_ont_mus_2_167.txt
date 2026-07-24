@@ -1,0 +1,26 @@
+[META]
+id:       O.ONT.MUS 2.167
+label:    O.ONT.MUS 2.167
+name:     Receipt — Theben
+genre:    receipts
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (201 CE – 300 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75186
+source:   https://papyri.info/ddbdp/o.ont.mus;2;167
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψε Μεσορὴ ϛ τοῦ … ἔτους Ἀσκλᾶτος Λολοῦτος
+r.2    … ὑπὲρ λαογραφίας ε ἔτους δραχμὰς εἴκοσι
+r.3    γίνονται δραχμαὶ κ. Δ σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     

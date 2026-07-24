@@ -1,0 +1,30 @@
+[META]
+id:       O.BERENIKE 3.383
+label:    O.BERENIKE 3.383
+name:     Receipt — Berenike
+genre:    receipts
+date:     79 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     
+shelf:    
+content:  Receipt from Berenike (79 CE)
+# hgv-keywords: Quittung — Wasser — Dekania
+tm:       641871
+source:   https://papyri.info/ddbdp/o.berenike;3;383
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    δεκανίας Ἀμφι[ῶμις] …
+r.2    Μάξιμος …
+r.3    ὕδατος πτολεμαικὰ …
+r.4    ἔτους α Αὐτοκράτορος Τίτου [Καίσαρος Οὐεσπασιανοῦ]
+r.5    Σεβαστοῦ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

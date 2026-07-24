@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.88
+label:    O.STRAS 1.88
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     68 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (68 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75688
+source:   https://papyri.info/ddbdp/o.stras;1;88
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Ὧρος Παχράτου Ὥρου μητρὸς Ταουῆτος
+r.2    γ … ὑπὲρ λαογραφίας … ιδ ἔτους δραχμὰς δ.
+r.3    ἔτους ιδ Νέρωνος τοῦ κυρίου Φαμενὼθ ε.
+r.4    ὁμοίως Φαρμοῦθι κ δραχμὰς η. ὁμοίως Παχὼν ι δραχμὰς δ.
+r.5    ὁμοίως Παῦνι κε δραχμὰς δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

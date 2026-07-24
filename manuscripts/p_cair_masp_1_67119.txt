@@ -1,0 +1,36 @@
+[META]
+id:       P.CAIR.MASP 1.67119
+label:    P.CAIR.MASP 1.67119
+name:     Documentary papyrus — Aphrodites Kome (Antaiopolites)
+genre:    documents
+date:     511 CE – 512 CE
+language: Greek (Koiné)
+found:    Aphrodites Kome (Antaiopolites)
+held:     
+shelf:    
+content:  Documentary papyrus from Aphrodites Kome (Antaiopolites) (511 CE – 512 CE)
+# hgv-keywords: Antrag — Umschreibung — Land (?) — Steuern
+tm:       36831
+source:   https://papyri.info/ddbdp/p.cair.masp;1;67119
+lat:      26.9528190683
+lon:      31.5960498491
+
+[GREEK]
+r.1    τοῖς πρω[τοκ]ωμήταις [καὶ τῷ δημοσίῳ λόγῳ κώμης]
+r.2    Ἀφροδίτης τοῦ [Ἀν]ταιοπολ[ίτουνομοῦ, ] [παρὰ Αὐρηλίου Βίκτορος]
+r.3    Κωσταντίου καὶ Ἰωάννου καὶ Ἀπολ[λῶτος, ]τῶν αὐτοῦ ἀδελφῶν
+r.4    ἀπὸ τῆς αὐτῆς κώμης, χαίρειν. σω[ματίσατε καὶ μετενέγκατε]
+r.5    εἰς ἡμῶν ὄνομ[α] ἀπὸ τῆς π[ροσηγορίας][ τοῦ]
+r.6    ἡμῶ[ν] πατρὸς Κωσταντίου καὶ τ …
+r.7    … ση … σφ …
+
+[TRANSLATION]
+# HGV-EN: To the village headmen (protokometai) and the Public Treasury of the village of Aphrodite of the Antaiopolite nome from Aurelius Victor, son of Constantius, and his brothers Ioannes and Apollos, from the same village, greetings. Put down in a document and transfer to our name from the name of our father Constantius and …
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

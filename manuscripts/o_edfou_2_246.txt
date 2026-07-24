@@ -1,0 +1,24 @@
+[META]
+id:       O.EDFOU 2.246
+label:    O.EDFOU 2.246
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     94 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (94 BCE)
+# hgv-keywords: Quittung
+tm:       43795
+source:   https://papyri.info/ddbdp/o.edfou;2;246
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους κα Θὼθ ιθ παραδέδωκεν εἰς [τὸ]
+r.2    ἐν Ἀπόλλωνος πόλει ἀποδόχιον Ἀπατηφῖσας Ἀπολλώνιος κ ἔτους Ἀραβίας βα μυ τέταρτον γίνονται δ Κάστωρ
+
+[TRANSLATION]
+1     
+2     

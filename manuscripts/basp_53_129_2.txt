@@ -1,0 +1,48 @@
+[META]
+id:       BASP 53.129_2
+label:    BASP 53.129_2
+name:     Receipt — Apias (Arsinoites); erworben: - 1924
+genre:    receipts
+date:     7 CE
+language: Greek (Koiné)
+found:    Apias (Arsinoites); erworben: - 1924
+held:     Ann Arbor
+shelf:    
+content:  Receipt from Apias (Arsinoites); erworben: - 1924 (7 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       703275
+source:   https://papyri.info/ddbdp/basp;53;129_2
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους λϛ Καίσαρος Μεχεὶρ β διέγραψεν
+r.2    [Ἀν]χόρινφις Ἰσχῖτος Ἡρακλᾷ τῶι
+r.3    [πα]ρὰ Πτολεμαίου Αρα δημοσίου τραπεζίτου εἰς συντάξιμον τοῦ αὐτοῦ ἔτους
+r.4    Ἀ[π]ιάδος ἀργυρίου δραχμὰς ὀκτώ, γίνονται δραχμαὶ η καὶ τῆι
+r.5    … τοῦ Φαρμοῦθι δραχμὰς δεκαδύο, γίνονται δραχμαὶ ιβ
+r.6    καὶ τῆι κγ τοῦ Παῦνι δραχμὰς δεκαδύο
+r.7    γίνονται δραχμαὶ ιβ καὶ τῆι α τοῦ Μεσορὴ δραχμὰς ὀκτώ,
+r.8    γίνονται [δραχμαὶ] [η]
+r.9    ἔτους λζ Καίσαρος Φαῶφι λ διέγραψεν
+r.10   Ἀνχόρινφις Ἰσχῖτος
+r.11   Ἡρακλᾷ τῶι παρὰ Πτολεμαίου Αρα δημοσίου
+r.12   τραπεζίτου [εἰ[ς]] [σ]υντάξιμον τοῦ ἕκτου καὶ τριακοστοῦ
+r.13   ἔτους α … δραχμὰς τέσσερας, γίνονται δραχμαὶ δ
+
+[TRANSLATION]
+# HGV-EN: In the 36th year of Caesar, on Mecheir 2, Anchorinphis, son of Ischis, paid to Heraklas, the agent of Ptolemaios (?), son of Ara( ) (?), public banker, for the syntaximon of the same year, for Apias, eight silver drachmas = 8 dr, and on the … of Pharmouthi, twelve dr. = 12 dr., and on the 23rd of Pauni, twelve dr. = 12 dr., and on the 1st of Mesore, eight dr. = 8 dr. Year 37 of Caesar, Phaophi 30. Anchorinphis, son of Ischis, paid to Heraklas, the agent of Psoaramounis, public banker, for the syntaximon of the thirty-sixth year … four silver (?) dr. = 4 dr.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

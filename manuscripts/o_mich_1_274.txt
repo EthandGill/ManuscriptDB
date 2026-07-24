@@ -1,0 +1,26 @@
+[META]
+id:       O.MICH 1.274
+label:    O.MICH 1.274
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     192 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (192 CE)
+# hgv-keywords: Quittung
+tm:       42036
+source:   https://papyri.info/ddbdp/o.mich;1;274
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    λβ ἔτους Ἐπὶφ δ Περιαγωγοῦ
+r.2    Ἱέρων μηχανάριος
+r.3    παρέδωκε.
+
+[TRANSLATION]
+1     
+2     
+3     

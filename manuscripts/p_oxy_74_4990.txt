@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 74.4990
+label:    P.Oxy. 74.4990
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     188 CE – 189 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (188 CE – 189 CE)
+# hgv-keywords: Deklaration — Zensus — an Strategen und Königlichen Schreiber; Präfekten (Tineius Demetrius und Aurelius Verianus)
+tm:       128295
+source:   https://papyri.info/ddbdp/p.oxy;74;4990
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐνετάγη …
+r.2    Ἡράμμωνι τῷ κα[ὶ Κάστορι στρατηγῷ καὶ Σαραπανού]βιδι βασιλι[κῷ γραμματεῖ]
+r.3    παρὰ Πετεαρ …
+r.4    Διοδώρου μητρ[ὸς] …
+r.5    θέσει Διογένους ἐπικαλουμ[ένου] … [καὶ] …
+r.6    γένους τοῦ καὶ Διονυσίου Ἑρμογένο[υς τοῦ] … [μητρὸς]
+r.7    Ἀρτέμιτος ἀμφοτέρων [ἀπ’ Ὀξυρύγχων πόλεως. κατὰ]
+r.8    τὰ κελευσθέντα ὑπ[ὸ Τινηΐου Δημητρίου τοῦ λαμπροτάτου]
+r.9    ἡγεμόνος καὶ Αὐρηλίου Οὐηριαν[οῦ] τοῦ [ἡγεμονεύσαντος]
+r.10   ἀπογραφόμεθα πρὸς τὴν τοῦ διελθόντος κη ἔτους Αὐρηλίο[υ Κομμόδου]
+r.11   Ἀντωνίνου Καίσαρος τοῦ κυρίου κατ’ [οἰκίαν ἀπογραφὴν]
+r.12   τὸ ὑπάρχον ἡμῖν ἐξ ἴσου ἐπ’ ἀμφόδου Δρ[όμου]
+r.13   Θοήριδος πρότερον Ἐπιτέλους Ἐπιτέλους [τοῦ Ἐπι]τέλους μητρὸς Θαΐδος ἀπὸ τῆς αὐτῆς πόλεως κληρο[νομι]κῷ δικαίῳ ἀκολούθως ᾗ ἔθετο διαθήκῃ τῇ καὶ λυθ[εί]σῃ οἰκίδιον … μέρος ἐφ’ οὗ ἀπογρ[αφόμεθα]
+r.14   αὐτὸς [ἐ]γὼ [Πετεαρ … ] …
+
+[TRANSLATION]
+# HGV-EN: (2nd hand) It has been enrolled (or: attached). (1st hand) To Herammon alias Castor, strategus, and Sarapanubis, royal scribe, from Petear— son of . . . , grandson of Diodorus, mother . . . , adopted son of Diogenes surnamed . . . , and from —genes alias Dionysius(?) son of Hermogenes, grandson of . . . , mother Artemis, both from the city of the Oxyrhynchi. According to the orders of the prefect Tineius Demetrius, vir clarissimus, and Aurelius Verianus, the ex-prefect, we register for the house by house registration of the past 28th year of Aurelius Commodus Antoninus Caesar the lord, a . . . part of a small house, formerly belonging to Epiteles son of Epiteles, grandson of Epiteles, mother Thais, from the same city, in the quarter of the Avenue of Thoeris, belonging to us in equal shares by right of inheritance in accordance with the testament that was opened, in which we register ourselves: I, myself, Petear— . . . (N. Litinas)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

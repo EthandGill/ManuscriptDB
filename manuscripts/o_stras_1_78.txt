@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.78
+label:    O.STRAS 1.78
+name:     Receipt — Theben
+genre:    receipts
+date:     55 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (55 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75678
+source:   https://papyri.info/ddbdp/o.stras;1;78
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Ἀμμώνιος Παμώνθου
+r.2    ὑπὲρ … φοινικῶνος … δ η δραχμὰς ζ τριώβολον καὶ τούτων
+r.3    πρ[οσ]διαγραφόμενα. ἔτους β Νέρωνος Κλαυδίου
+r.4    Καίσαρος Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+r.5    μηνὸς Σεβαστοῦ κζ καλ. Βάσσος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

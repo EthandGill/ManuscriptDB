@@ -1,0 +1,40 @@
+[META]
+id:       BGU 2.431
+label:    BGU 2.431
+name:     Receipt — unbekannt
+genre:    receipts
+date:     173 CE – 174 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Receipt from unbekannt (173 CE – 174 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       20164
+source:   https://papyri.info/ddbdp/bgu;2;431
+lat:      
+lon:      
+
+[GREEK]
+r.1    διέγραψεν ὑπὲρ μονοδεσμ[ίας]
+r.2    χόρτου καὶ ἄλ[λ]ων εἰδῶν
+r.3    διὰ πρεσβυτέ[ρ]ων κώμης
+r.4    Στράτωνος [τ]οῦ ιδ ἔτους
+r.5    Αὐρηλίου Ἀν[τωνίνου] Σ[ε]βα[στοῦ]
+r.6    Καίσαρος τοῦ κυρίου
+r.7    Παειποὺς Σι[σ]όιτος
+r.8    δραχμὰς π[έ]ντε
+r.9    γίνονται δραχμαὶ ε
+
+[TRANSLATION]
+# HGV-EN: Paid for monodesmia of hay and other dues through the elders of the village of Straton of year 14 of Aurelius An[toninus] Augustus Caesar, the lord, (by) Paeipous, son of Si[s]ois, five drachmas, = 5 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

@@ -1,0 +1,48 @@
+[META]
+id:       P.PETR.KLEON 33
+label:    P.PETR.KLEON 33
+name:     Letter — Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+genre:    letters
+date:     260 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+held:     London
+shelf:    
+content:  Letter from Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob (260 BCE – 249 BCE)
+# hgv-keywords: Brief (geschäftlich) — Thamous an Kleon — Arbeit — Deich — Überschwemmung
+tm:       7659
+source:   https://papyri.info/ddbdp/p.petr.kleon;;33
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Θάμωυς Κλέωνι
+r.2    χαίρειν. ἐξέλαβον
+r.3    τὸ ἔργον τὸ ἐν θανισμο͂ι καὶ λαβόντος
+r.4    τὸ σύμβολον παρὰ
+r.5    σοῦ συνγραψάντ[ων]
+r.6    ἡμῶν τὴν συνγραφὴν ἐδώκαμ[ε]ν τὸ [σ]ύμβ[ο]λον Πάσι[τι] …
+r.7    τριος ου … ἐάν τι μ …
+r.8    ἀντιγρ[αφ] …
+r.9    κωλῦσαι ἡμῖν δὲ
+r.10   γίνωσκε δὲ κατακλυζόμενον τὸ χῶμα.
+r.11   γεγράφαμέν σοι [ἵνα]
+r.12   μὴ αἰτιάση[ι ἡ]μᾶ[ς].
+r.13   [ἔρρωσο. ἔτους] …
+
+[TRANSLATION]
+# HGV-EN: Thamoys to Kleon, greetings. I have contracted the work in thanismos, and having received the symbolon from you, we have written the contract and have given the symbolon to Pasis. [...] to hinder [...]. Know that the dyke is being flooded. We have written you so that you do not hold us responsible. [Farewell. Date].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

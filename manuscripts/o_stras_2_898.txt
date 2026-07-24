@@ -1,0 +1,24 @@
+[META]
+id:       O.STRAS 2.898
+label:    O.STRAS 2.898
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     208 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (208 CE)
+# hgv-keywords: Quittung — Ablieferung (Spreu)
+tm:       128422
+source:   https://papyri.info/ddbdp/o.stras;2;898
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Π[α]ρ[εκό]μισας εἰς τὴν
+r.2    εἴλην ὀνόματος Χαβονχώνσιος Ὥρου ὑπὲρ γενήματος η
+
+[TRANSLATION]
+1     
+2     

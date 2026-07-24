@@ -1,0 +1,28 @@
+[META]
+id:       O.PETR.MUS 97
+label:    O.PETR.MUS 97
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     120 BCE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (120 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       75313
+source:   https://papyri.info/ddbdp/o.petr.mus;;97
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    ἔτους ν Μεχεὶρ ιθ μεμέτρηκεν
+r.2    ν ἔτους Μεμνονείων Ψεμμῖνις Ψενεμενώφιος σησάμου
+r.3    εἴκοσιτέσσαρες
+r.4    γίνονται σησάμου κδ Ἀπολλώνιος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

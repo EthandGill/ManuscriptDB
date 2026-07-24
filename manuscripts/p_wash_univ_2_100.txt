@@ -1,0 +1,26 @@
+[META]
+id:       P.WASH.UNIV 2.100
+label:    P.WASH.UNIV 2.100
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     401 CE – 600 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (401 CE – 600 CE)
+# hgv-keywords: Quittung (?) — Zahlung — Öl — Kirche
+tm:       35110
+source:   https://papyri.info/ddbdp/p.wash.univ;2;100
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἡ ἁγία ἐκκλησία ἤνεγκεν τὰ γενή[ματα]
+r.2    ἐλαιῶνος τοῦ Ψάρες εἰς τὴν οἰκονομία[ν]
+r.3    διʼ ἐμοῦ Χρύσου πρ ἐλαίου ξέστας οϛ ἑβδομήκ[ον]τα ἓξ μόνους μεχρι η ἰνδικτίωνος η θ.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,42 @@
+[META]
+id:       BGU 2.527
+label:    BGU 2.527
+name:     Contract — Ptolemais Euergetis (Arsinoites)
+genre:    contracts
+date:     197 CE
+language: Greek (Koiné)
+found:    Ptolemais Euergetis (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Ptolemais Euergetis (Arsinoites) (197 CE)
+# hgv-keywords: Vertrag — Kauf — Esel
+tm:       9219
+source:   https://papyri.info/ddbdp/bgu;2;527
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    ἔτους πέ[μπ]του Αὐτοκ[ράτορος Καίσαρος]
+r.2    Λουκίου Σεπ[τιμίου Σεουήρου Εὐσεβοῦς]
+r.3    Περτίνακος Σ[εβαστοῦ Ἀραβικοῦ Ἀδιαβηνικοῦ]
+r.4    μηνὸς Γερμανικείου Πα[χὼν ] … [ ἐν Πτο]λεμαίδι Εὐεργέτιδι τοῦ Ἀρσι[νοίτου νο]μοῦ. ὁμ[ο]λ[ογ]εῖ Ἁτρ[ῆς] Ἀφ[ροδισίου]
+r.5    μητρὸς Νεκφεραῦτος ἀπὸ [κώμης Κα]ρανίδος ὡς ἐτῶν μ οὐλὴ γ[όνατι ] … [ Χαι]ρᾶτι Πασί[ωνος] ἀπὸ τῆς [μητροπό]λεως ὡς [ἐτῶν ] …
+r.6    ἀριστερ πε[πρα]κέναι αὐτῷ τ[ὸ]ν ὁμ[ο]λογοῦντα ὄνον ἄρρενα πῶλον
+r.7    μυόχρ[ουν] τοῦ[τ]ον τοιοῦτον ἀν[α]πόρριφον [κα]ὶ παρειληφέναι [αὐτὸν]
+r.8    καὶ ἀπέχ[ειν τ]ὸν Ἁτρῆν τὰς τῆς
+r.9    τιμῆς ἀ[ρ]γ[υρίο]υ δραχμὰς τριακοσ[ίας]
+r.10   διὰ χειρ[ὸ]ς ἐ[κ] πλήρους καὶ βεβαιώσει ἀπὸ π[αντὸ]ς τοῦ ἐπιλημψομένου.
+
+[TRANSLATION]
+# HGV-EN: Year five of Imperator [Caesar] Lucius Sep[timius Severus Pius] Pertinax [Augustus Arabicus Adiabenicus] in the month of Gemanikeios, Pa[chon x, in Pto]lemais Euergetis of the Arsinoite nome. Hatr[es], son of Aph[rodisios], mother Nekpheraus, from [the village of Ka]ranis, about 40 years old, with a scar on his knee acknowledges [to Chai]ras, son of Pasi[on], from the [metropo]lis, about [x] years old [– – – with a scar on his left – – –] that he, the acknowledger (Hatres), has sold to him a male, mouse-coloured donkey foal on the spot, just as it is, unreturnable, and that [he] has received it, and that Hatres has received the price of three hundred silver drachmas from hand to hand in full. And he will guarantee against every claimant.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

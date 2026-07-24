@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 1.28
+label:    O.ONT.MUS 1.28
+name:     Receipt — Theben
+genre:    receipts
+date:     175 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (175 CE)
+# hgv-keywords: Quittung
+tm:       75048
+source:   https://papyri.info/ddbdp/o.ont.mus;1;28
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁθὺρ ιζ τοῦ ιϛ ἔτους ὀνόματος
+r.2    Ἁρυώθης Ἐπωνύχου
+r.3    ὑπὲρ μερισμῶν ιε ἔτους Νότου δραχμὰς δύο
+r.4    γίνονται δραχμαὶ β Ὡρ σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 7.1043
+label:    P.Oxy. 7.1043
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     578 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (578 CE)
+# hgv-keywords: Quittung — Öl
+tm:       20338
+source:   https://papyri.info/ddbdp/p.oxy;7;1043
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἐδόθησαν δ[ιὰ Σ]ερήνου ἐνοικολόγου Μακαρίῳ καὶ Ἠλίᾳ καὶ Καμοὺλ συμμάχοις παραμένουσι
+r.2    τῷ ἐνδόξῳ ο[ἴ]κῳ λόγῳ ἀναλωμάτων τῶν ἀπὸ μηνὸς Φαμενὼθ ιϛ ἕως λ τοῦ αὐτοῦ, ἡμερῶν ιε, ἐλαίου ξέσται
+r.3    τρεῖς, γίνονται ἐλαίου ξέσται γ μόνοι. γίνονται ἐλαίου ξέσται τρεῖς μόνοι.
+r.4    ἔτους σνδ σκγ Φαμενὼθ ιθ ἰνδικτίωνος ἑνδεκά[τη]ς.
+
+[TRANSLATION]
+# HGV-EN: Received through Serenus, collector, by Macarius and Elias and Kamoul, assistants attending on the honourable house, on account of expenses from the 16th of the month Phamenoth to the 30th of the same month, 15 days, three sextarii of oil, total 3 sextarii of oil, and no more. (Signed) Total three sextarii of oil and no more. The 254th = the 223rd year, Phamenoth 19, 11th indiction.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     They were given through [S]erenus, collector, to Macarius and Elias and Kamoul, assistants remaining
+2     to the honourable house on account of expenses from the month Phamenoth 16 until 30 of the same, 15 days, of oil xestai
+3     three, total oil xestai 3 alone. total oil xestai three alone.
+4     Year two hundred fifty-four = two hundred twenty-three, Phamenoth 19, eleventh indiction.

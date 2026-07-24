@@ -1,0 +1,32 @@
+[META]
+id:       O.HEID 137
+label:    O.HEID 137
+name:     Receipt — Theben
+genre:    receipts
+date:     138 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (138 CE)
+# hgv-keywords: Quittung — Steuer (Umlage, merismos, Zoll?)
+tm:       80362
+source:   https://papyri.info/ddbdp/o.heid;;137
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πανίσκος καὶ μέτοχοι ἀπαιτηταὶ …
+r.2    α ἔτους ὀνόμματος
+r.3    Μεχφρήους [Ὥρου] Μεχφρήους ἔσχομεν ὑπὲρ τοῦ [αὐτο]ῦ
+r.4    μερισμοῦ ῥυπαρὰς δραχμὰς τέσσαρας,
+r.5    γίνονται δραχμαὶ δ. ἔτους β
+r.6    Ἀντωνίνου Καίσαρος τοῦ κυρίου Φαῶφι β.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

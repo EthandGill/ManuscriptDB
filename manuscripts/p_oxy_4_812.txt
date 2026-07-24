@@ -1,0 +1,26 @@
+[META]
+id:       P.Oxy. 4.812
+label:    P.Oxy. 4.812
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     6 BCE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (6 BCE)
+# hgv-keywords: Brief (privat) — Militär — Ausrüstung
+tm:       20462
+source:   https://papyri.info/ddbdp/p.oxy;4;812
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    πεπίασται Λοκρίων …
+r.2    ρικαρις ὑπὸ Λουκίου ἤκουσα γὰρ ὅ[τ]ι …
+r.3    τὴν λωρῖκαν αὐτοῦ …
+
+[TRANSLATION]
+1     
+2     
+3     

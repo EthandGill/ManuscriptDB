@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 2.839
+label:    O.STRAS 2.839
+name:     Receipt — Theben (Notos)
+genre:    receipts
+date:     132 CE
+language: Greek (Koiné)
+found:    Theben (Notos)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos) (132 CE)
+# hgv-keywords: Quittung — Steuer (Kopfsteuer und Badesteuer)
+tm:       128382
+source:   https://papyri.info/ddbdp/o.stras;2;839
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    Ἑρμόδωρ[ος πράκτωρ ἀργυρικῶν]
+r.2    Ψάιτι Σενφθουμ[ώνθου.][ ἔσχον]
+r.3    ὑπὲρ λαογραφίας καὶ βαλανευτικοῦ [Νότου ι … ] ἔτους [ῥυπαρὰς]
+r.4    δραχμὰς ιβ, γίνονται δραχμαὶ ιβ. [ἔτους ι … Ἁδριανοῦ]
+r.5    [Καίσαρος τοῦ κυρίου] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

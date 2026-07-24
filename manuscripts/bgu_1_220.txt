@@ -1,0 +1,48 @@
+[META]
+id:       BGU 1.220
+label:    BGU 1.220
+name:     Receipt — Gynaikon Nesos? (Arsinoites)
+genre:    receipts
+date:     203 CE
+language: Greek (Koiné)
+found:    Gynaikon Nesos? (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Gynaikon Nesos? (Arsinoites) (203 CE)
+# hgv-keywords: Quittung — Abgaben — Fischerei — Geld
+tm:       8984
+source:   https://papyri.info/ddbdp/bgu;1;220
+lat:      30.88758
+lon:      30.573213
+
+[GREEK]
+r.1    ἔτους ιβ
+r.2    Λουκίου Σεπτιμίου
+r.3    [Σε]ουήρου Εὐσεβοῦς
+r.4    Περτίνακ[ο]ς καὶ Μάρκου
+r.5    Αὐρηλίου Ἀντωνίνου
+r.6    Εὐσεβοῦς Σεβαστῶν
+r.7    καὶ Πουβλίου Σεπτιμίου
+r.8    Γέτα Καίσαρος Σεβαστοῦ
+r.9    [Ἁθ]ὺρ λ διεγράφησαν Ἀπίωνι
+r.10   [νομάρχῃ ][Ἀρ]σινοίτου διὰ Ἀμμ[ωνίο]υ
+r.11   … ς Μύσθου …
+r.12   … ἁλιέων ἀ[πὸ π]οδ[ὸ]ς διʼ ἁλιέων …
+r.13   θ ἔτους δραχμαὶ δέκα ἕξ ὀβολοὶ δέκα ἕξ
+
+[TRANSLATION]
+# HGV-EN: Year 12 of Lucius Septimius [Se]verus Pius Pertinax and of Marcus Aurelius Antoninus Pius, Augusti, and of Publius Septimus Geta Caesar Augustus, [Hath]yr 30. Paid to Apion, [nomarch of the Ar]sinoite nome, through Mo[ro]s, alias Mysthes, assistant for diploma of the fishermen-on-foot through the fishermen for year 9 sixteen drachmas, sixteen obols [=] 1[6 drachmas, 16 obols].
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

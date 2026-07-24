@@ -1,0 +1,40 @@
+[META]
+id:       P.HERM 1
+label:    P.HERM 1
+name:     Letter — unbekannt
+genre:    letters
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     
+shelf:    
+content:  Letter from unbekannt (1 CE – 100 CE)
+# hgv-keywords: Brief (privat) — Herakles an Musaeus — Empfehlung
+tm:       25863
+source:   https://papyri.info/ddbdp/p.herm;;1
+lat:      
+lon:      
+
+[GREEK]
+r.1    Ἡρακλῆς Μουσαίω[ι τῶι]
+r.2    φιλτάτωι χαίρειν.
+r.3    ἐρωτῶ σε συνεσταμένον
+r.4    ἔχειν Διόσκορον τὸν ἀναδώσοντα σοι τὴν ἐπιστο[λήν]·
+r.5    ἔστιν μου λίαν ἀνα[γκαῖ]ος φίλος. τοῦτο δ[ὲ]
+r.6    ποιήσας χαριῇ μοι.
+r.7    ἔρρωσο. Φαρμοῦ[θι]
+r.8    ιγ.
+r.9    Μουσαίῳ τῷ φιλτ[άτῳ]
+
+[TRANSLATION]
+# HGV-EN: Heracles to his dearest Musaeus, greetings. I request you to regard as introduced to you Dioscorus, who will deliver the letter to you; he is a very close friend of mine. By doing this, you will be conferring a favour on me. Farewell. Pharmuthi 13 (?). To my dearest Musaeus.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB 77
+label:    O.THEB 77
+name:     Receipt — Theben
+genre:    receipts
+date:     75 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (75 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76448
+source:   https://papyri.info/ddbdp/o.theb;;77
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    κυνηγίδων ζ ἔτους Οὐεσπασιανοῦ τοῦ κυρίου
+r.2    Τῦβι ιθ Ἀγορῶν Νότου. Φαῆρις Ἁρβήχιος
+r.3    δεκανὸς καὶ μέτοχοι ῥυπαρὰς η τετρώβολον.
+r.4    Πεχύτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

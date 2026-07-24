@@ -1,0 +1,26 @@
+[META]
+id:       P.Tebt. 1.234
+label:    P.Tebt. 1.234
+name:     Documentary papyrus — Kerkeosiris? (Arsinoites)
+genre:    documents
+date:     114 BCE
+language: Greek (Koiné)
+found:    Kerkeosiris? (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Kerkeosiris? (Arsinoites) (114 BCE)
+# hgv-keywords: Abrechnung
+tm:       3867
+source:   https://papyri.info/ddbdp/p.tebt;1;234
+lat:      29.1357683
+lon:      30.6930389
+
+[GREEK]
+r.1    ἔτους δ Ἁθὺρ κδ. Ἡρακλείους Διονυσίου περε οἴνου κεράμια β Εχ, ἐλαίου πε, ἀρίστου ρλ,
+r.2    δείπνου σ, γίνονται τάλαντον α δραχμαὶ ιε
+r.3    παθινοί
+
+[TRANSLATION]
+1     
+2     
+3     

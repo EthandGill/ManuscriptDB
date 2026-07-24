@@ -1,0 +1,30 @@
+[META]
+id:       ZPE 219.153_4
+label:    ZPE 219.153_4
+name:     Receipt — Fundort: Elephantine
+genre:    receipts
+date:     133 CE
+language: Greek (Koiné)
+found:    Fundort: Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Fundort: Elephantine (133 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       958941
+source:   https://papyri.info/ddbdp/zpe;219;153_4
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Πετορζμῆθις πράκτωρ Ἐλεφαντίνης. διέγραψεν Γερμανὸς Μαικιανοῦ ὑπὲρ
+r.2    τιμῆς δημοσίου φοίνικος γενήματος
+r.3    ιζ ἔτους ῥυπαρὰς δραχμὰς δ δίχαλκον. ἔτους ιη Ἁδριανοῦ
+r.4    τοῦ κυρίου Φαῶφι κβ.
+
+[TRANSLATION]
+# HGV-EN: Petorzmethis, tax collector at Elephantine. Germanos son of Maecianus has paid for the price of the produce of public date palm of the 17th year 4 debased dr., 2 ch. Year 18 of Hadrian, the lord, 22nd Phaophi.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

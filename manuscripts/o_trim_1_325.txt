@@ -1,0 +1,36 @@
+[META]
+id:       O.TRIM 1.325
+label:    O.TRIM 1.325
+name:     Documentary papyrus — Trimithis (Oasis Magna)
+genre:    documents
+date:     350 CE – 370 CE
+language: Greek (Koiné)
+found:    Trimithis (Oasis Magna)
+held:     
+shelf:    
+content:  Documentary papyrus from Trimithis (Oasis Magna) (350 CE – 370 CE)
+# hgv-keywords: Anweisung — Lieferung
+tm:       131374
+source:   https://papyri.info/ddbdp/o.trim;1;325
+lat:      25.6677395488
+lon:      28.8708832519
+
+[GREEK]
+r.1    … χαίρειν.
+r.2    … κεράμια
+r.3    … παράσχου τῷ
+r.4    [ἀδε]λφῷ Σαμουν Μακαρίου
+r.5    ἵνα εὕρω αὐτὰ εἰς καταγγισμὸν τοῦ προλοίπου
+r.6    [καὶ] μὴ ἀμελήσῃς ἀξιωθείς. ἐρρῶσθαί σε εὔχομαι ἀδελφὲ πολλοῖς
+r.7    χρόνοις.
+
+[TRANSLATION]
+# HGV-EN: . . . greetings. Furnish . . . keramia to our colleague Samoun son of Makarios in order that I will find them for packing of the arrears, and do not forget to do as requested. I pray for your health for many years.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

@@ -1,0 +1,38 @@
+[META]
+id:       BGU 2.541
+label:    BGU 2.541
+name:     Contract — Arsinoites
+genre:    contracts
+date:     177 CE – 180 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Contract from Arsinoites (177 CE – 180 CE)
+# hgv-keywords: Vertrag — Kauf — Kleinvieh (weiblich)
+tm:       9226
+source:   https://papyri.info/ddbdp/bgu;2;541
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἀμ … ς Π … ε … τος
+r.2    Πακῦσις χ[αίρ]ειν
+r.3    ἀπέχω παρά σου τὴν τιμὴν
+r.4    ἣ[ν] πέπρα[κά] σ[οι ] …
+r.5    θήλεια[ν λε]υ[κὴν δ]ραχμῶν ἑκατὸν εἴκ[ο]σι
+r.6    ὀκτώ . [ἔτους ] … Κομμόδου
+r.7    τῶν κυρ[ί]ων Σε[βα]σ[τ]ῶν
+r.8    Χοίακ λ.
+
+[TRANSLATION]
+# HGV-EN: Am[moni]os (?), son of P[ap]eis, to Pakysis, greetings. I have received from you the price of one hundred and twenty eight drachmas, for which I have sold a female, white [donkey (?)] to you. [Year x of Antoninus] and Commodus, the lords, Augusti, Choiak 30.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

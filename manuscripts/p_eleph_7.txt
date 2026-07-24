@@ -1,0 +1,28 @@
+[META]
+id:       P.ELEPH 7
+label:    P.ELEPH 7
+name:     Documentary papyrus — Apollonopolis (?`)
+genre:    documents
+date:     224 BCE
+language: Greek (Koiné)
+found:    Apollonopolis (?`)
+held:     
+shelf:    
+content:  Documentary papyrus from Apollonopolis (?`) (224 BCE)
+# hgv-keywords: Erklärung — Eid — Angabe (Inhalt, griechisch)
+tm:       5841
+source:   https://papyri.info/ddbdp/p.eleph;;7
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ὅρκος Θ[ο]τμώσιος Ἅρσιος ἱερογραμματέως
+r.2    Ἀπόλλωνος πόλεως τῆς μεγάλης
+r.3    περὶ τῶν ὀφειλημάτων, ὅπως
+r.4    ἀγάγῃ εἰς ὁμόλογον.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

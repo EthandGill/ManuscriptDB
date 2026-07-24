@@ -1,0 +1,26 @@
+[META]
+id:       P.BROOKL 32
+label:    P.BROOKL 32
+name:     Receipt — Theben
+genre:    receipts
+date:     255 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (255 BCE)
+# hgv-keywords: Quittung — Salz — Steuern — Geld
+tm:       5029
+source:   https://papyri.info/ddbdp/p.brookl;;32
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους λα Παχὼνς ιβ πέπτωκεν ἁλικῆς διὰ Πολιάνθου Κάρνιος
+r.2    Θοτεὺς Φίβιος δραχμὴν α ὀβολοὺς γ
+r.3    Τιαῦς γυνὴ δραχμὴν α
+
+[TRANSLATION]
+1     
+2     
+3     

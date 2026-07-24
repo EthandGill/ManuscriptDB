@@ -1,0 +1,22 @@
+[META]
+id:       O.LEID 411
+label:    O.LEID 411
+name:     Receipt — Theben
+genre:    receipts
+date:     113 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (113 CE)
+# hgv-keywords: Quittung
+tm:       24850
+source:   https://papyri.info/ddbdp/o.leid;;411
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἰμούθης
+
+[TRANSLATION]
+1     

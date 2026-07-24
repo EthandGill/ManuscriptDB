@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.77
+label:    O.ONT.MUS 2.77
+name:     Receipt — Theben
+genre:    receipts
+date:     35 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (35 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       75094
+source:   https://papyri.info/ddbdp/o.ont.mus;2;77
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πα … [ ὑπὲρ χωματικοῦ]
+r.2    κ ἔτους δραχμὰς τρεῖς δυό[βολον][ γίνονται δραχμαὶ γ διώβολον καὶ]
+r.3    προσδιαγραφόμενα. ἔτους κα Τιβερ[ίου Καίσαρος]
+r.4    Σεβαστοῦ Τῦβι λ‡κα …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

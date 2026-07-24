@@ -1,0 +1,30 @@
+[META]
+id:       P.PETR.KLEON 67
+label:    P.PETR.KLEON 67
+name:     Letter — Fundort: Gurob; Schreibort: Arsinoites
+genre:    letters
+date:     254 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Letter from Fundort: Gurob; Schreibort: Arsinoites (254 BCE)
+# hgv-keywords: Brief — Ptolemaios an Kleon
+tm:       41569
+source:   https://papyri.info/ddbdp/p.petr.kleon;;67
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    Πτολεμαῖος Κλέωνι χ[αίρειν.] … γ … υ … ν
+r.2    ἐγλαβόντες πα …
+r.3    [Κλέωνι] ἀρχιτέκτονι. ἔτους λα Παῦνι κε
+r.4    παρὰ Πτολεμαίου Κλέωνι
+
+[TRANSLATION]
+# HGV-EN: Ptolemaios to Kleon, greetings. [...] [To Kleon], engineer. Year 31, Payni 25. From Ptolemaios. To Kleon.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

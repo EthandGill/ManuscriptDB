@@ -1,0 +1,26 @@
+[META]
+id:       O.VLEEM 18
+label:    O.VLEEM 18
+name:     Receipt — Elephantine
+genre:    receipts
+date:     251 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (251 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       3014
+source:   https://papyri.info/ddbdp/o.vleem;;18
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ἔτους λε Παῦνι ι ἔχει Δῶρος
+r.2    παρὰ Παλαια Ἰμούθου
+r.3    καὶ γυναικὸς Τανούτιος ἁλικῆς δραχμὴν α τριώβολον.
+
+[TRANSLATION]
+1     
+2     
+3     

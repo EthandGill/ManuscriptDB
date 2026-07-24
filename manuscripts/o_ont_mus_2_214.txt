@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.214
+label:    O.ONT.MUS 2.214
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (101 CE – 300 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75235
+source:   https://papyri.info/ddbdp/o.ont.mus;2;214
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … καὶ μέτοχοι πράκτορες σιτικῶν Μ …
+r.2    ἔσχομεν ε[ἰς] πρόσθεσιν ὀνόματος Πετεχ …
+r.3    Ταουέως ὑπὲρ γενήματος ιϛ ἔτους πυροῦ με
+r.4    ἀρτάβην μίαν τρίτον τετρακαιεικοστὸν γίνεται πυροῦ ἀρτάβη α γ κδ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

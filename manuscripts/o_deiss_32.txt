@@ -1,0 +1,30 @@
+[META]
+id:       O.DEISS 32
+label:    O.DEISS 32
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     33 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Sydney
+shelf:    
+content:  Receipt from Theben (Ägypten) (33 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       73846
+source:   https://papyri.info/ddbdp/o.deiss;;32
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [Παμᾶρις Ἑρμοδ]ώρου
+r.2    [τῷ δεῖνι. ][ἀπέ]χω παρὰ σοῦ
+r.3    [τέλος ἐπιξ]ένου Ἐπεὶφ καὶ
+r.4    [Μεσο]ρὴ δραχμαὶ δ. ἔτους ιθ Τιβερίου
+r.5    [Κα]ίσαρος Σεβαστοῦ. σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

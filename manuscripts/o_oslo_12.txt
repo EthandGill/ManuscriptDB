@@ -1,0 +1,28 @@
+[META]
+id:       O.OSLO 12
+label:    O.OSLO 12
+name:     Receipt — Tebtynis (Arsinoites)
+genre:    receipts
+date:     211 CE
+language: Greek (Koiné)
+found:    Tebtynis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Tebtynis (Arsinoites) (211 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       40836
+source:   https://papyri.info/ddbdp/o.oslo;;12
+lat:      29.10713705
+lon:      30.7620317
+
+[GREEK]
+r.1    ἔτους ιθ ἀριθμήσεως Παχὼν
+r.2    διέγραψεν Ἀπολλῶς ὑπὲρ ζυτηρᾶς
+r.3    κατʼ ἄνδρα κώμης Τεπτύνεως
+r.4    ἄλλας δραχμὰς δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

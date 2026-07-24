@@ -1,0 +1,28 @@
+[META]
+id:       O.VLEEM 21
+label:    O.VLEEM 21
+name:     Receipt — Elephantine
+genre:    receipts
+date:     248 BCE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (248 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       3017
+source:   https://papyri.info/ddbdp/o.vleem;;21
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [ἔτους] λζ Χοιὰχ ιδ πέπτωκεν
+r.2    Ἀσκληπιάδει τραπεζίτηι
+r.3    ἁλικῆς Ἰμούθου εἰς τὸ λζ ἔτος
+r.4    δραχμὰς τέσσαρας .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

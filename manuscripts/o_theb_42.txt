@@ -1,0 +1,32 @@
+[META]
+id:       O.THEB 42
+label:    O.THEB 42
+name:     Receipt — Theben
+genre:    receipts
+date:     133 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (133 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76412
+source:   https://papyri.info/ddbdp/o.theb;;42
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πασῆμις καὶ Ἀπίων ἀπαιτηταὶ μερισμοῦ
+r.2    ἀνδριάντων Ἀγορῶν δ Νότου Πετερμούθῃ
+r.3    Φαήριος. ἔσχομεν κέρματος ὀβολοὺς τέσσαρας
+r.4    κέρματος ὀβολοὺς δ. ἔτους ιη Ἁδριανοῦ Καίσαρος
+r.5    Θὼθ κη.
+r.6    Ἀπίων σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

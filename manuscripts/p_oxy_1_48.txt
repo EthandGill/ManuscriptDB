@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 1.48
+label:    P.Oxy. 1.48
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     86 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (86 CE)
+# hgv-keywords: Antrag an den Agoranomen auf Freilassung einer Sklavin — Bank
+tm:       20710
+source:   https://papyri.info/ddbdp/p.oxy;1;48
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Χαιρήμων [τ]ῶι ἀγορανόμωι
+r.2    χαίρειν. δὸς ἐλε[υ]θέρωσιν Εὐφροσύνῃ δούλῃ ὡς ἐτῶν λε,
+r.3    οἰκογενεῖ ἐκ δούλης Δημητροῦτος, τῇ ἐλευθερουμένηι
+r.4    ὑπὸ Δία Γῆν Ἥλιον ἐπὶ λύτροις
+r.5    ὑπὸ τῆς ἑαυτῆς δεσπότιδος
+r.6    Ἀλοίνης τῆς Κώμονος
+r.7    τοῦ Διονυσίου τῶν ἀπʼ Ὀξυρύγχων πόλεως, μετὰ κυρίου
+r.8    τοῦ τοῦ μετηλλαχότος αὐτῆς γνησίου ἀδελφοῦ Διοσκώρου υἱοῦ Κόμων[ο]ς, ἀ[ρ]γυρίου ἐπισήμου δραχμῶν δ[έ]κα καὶ χαλκ[ο]ῦ ταλάντων δέκα τρισχιλίων .
+r.9    ἔρρωσο.
+r.10   ἔτους ϛ Αὐτοκράτορος Καίσαρος
+r.11   Δομιτιανο[ῦ Σ]εβαστ[ο]ῦ [Γερ]μανικοῦ,
+r.12   Φαῶφι ιθ.
+r.13   Χαιρήμων, χρημάτισον
+r.14   … χ ερα … οι … δο Φαῶφι ιθ
+
+[TRANSLATION]
+# HGV-EN: Chaeremon to the agoranomus, greeting. Grant freedom to Euphrosyne, a slave, aged about 35 years, born in her owner’s house of the slave Demetrous. She is being set at liberty under..... by ransom by her mistress Aloine, daughter of Komon, son of Dionysius, of Oxyrhynchus, under the wardship of Komon, the son of Aloine’s deceased brother Dioscorus. The price paid is 10 drachmae of coined silver and 10 talents, 3,000 drachmae of copper. Farewell.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

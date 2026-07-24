@@ -1,0 +1,46 @@
+[META]
+id:       P.HARR 3.278
+label:    P.HARR 3.278
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     455 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     Birmingham
+shelf:    
+content:  Petition from Oxyrhynchos (455 CE)
+# hgv-keywords: Eingabe — Diebstahl
+tm:       998607
+source:   https://papyri.info/ddbdp/p.harr;3;278
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    μετὰ τὴν ὑπατείαν Φλαουΐων Ἀετίου καὶ Στουδίου τῶν λαμπροτάτων,
+r.2    Φαρμουθι κζ.
+r.3    Φλαουΐῳ Τατιανῷ τῷ αἰδεσίμῳ πολιτευομένῳ κ[αὶ] ῥιπαρίῳ τῆς Ὀξυρυγχιτῶν
+r.4    παρὰ Αὐρηλίου Παησίου υἱ[ο]ῦ Ἀνουτίου ἀπὸ ἐποικίου Τριαδέλφ[ο]υ τοῦ Ὀξυρυγχίτου νομοῦ.
+r.5    νυκτὶ τῇ φερούσῃ εἰς τὴν ἐνεστῶσαν ἡμέραν τινὲς κακοῦργοι
+r.6    ἐπιστάντες τῷ ἡμετέρῳ ἐποικίῳ καὶ διορυχὴν τ[ο]λμήσαντες εἰς [τ]ὴν ἐμὴν ἔπαυλιν ἀπῆλ[θ]ον … μόσχου
+r.7    τῶν τόπων καὶ ἐν τῷ ἀσφ[αλεῖ αὐτοὺς καταστῆσαι ἄχρις οὗ ἂν]
+r.8    ἀπολάβω τὰ ἀποκλαπ[έντα] …
+r.9    καὶ γένηται ἡ παρά[στασις ἡ τῶν κακο]ύργω[ν] τοῖ[ς νόμοις]
+r.10   πρὸς ἀπολογίαν. οὐκ ὀκνήσ[ω γὰρ] ὁρίσειν, εἰ δεῖ, δικαστ[ήρια]
+r.11   περὶ τούτου.
+r.12   Αὐρή[λ]ιος Παήσιος υ[ἱὸ]ς Ἀνουτίου ἐπιδέδ[ω]κα.
+
+[TRANSLATION]
+# HGV-EN: ‘After the consulship of Flavii Aetius and Studius, viri clarissimi, Pharmouthi 27. To Flavius Tatianos, the revered curialis and riparius of the (city) of the Oxyrhynchites, from Aurelius Paesios son of Anoutios, from the hamlet of Triadelphou of the Oxyrhynchite nome. On the night bringing to the present day, some criminals trespassed into our hamlet and dared to dig into my courtyard and went away … calf … (so that the responsible guards?) in the area (be brought up) and that you hold them in custody until I recover the stolen …, and that the criminals be presented to the laws to defend themselves. For I shall not hesitate to initiate legal action about this, if necessary. (2nd hand) ‘I, Aurelius Paesios son of Anoutios, have submitted (this).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

@@ -1,0 +1,28 @@
+[META]
+id:       BGU 6.1422
+label:    BGU 6.1422
+name:     Receipt — Theben
+genre:    receipts
+date:     141 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (141 BCE)
+# hgv-keywords: Quittung — Preis — Öl
+tm:       4719
+source:   https://papyri.info/ddbdp/bgu;6;1422
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κθ Ἐπεὶφ παραδέχεται τιμὴν ἐλαίων
+r.2    φορτικῶν ἄνω τόπου Πατκῶς τουτου κη ἔτους
+r.3    δραχμὰς ἓξ 𐅵 γίνονται ϛ 𐅵.
+r.4    Ἁρνοῦφις.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,30 @@
+[META]
+id:       SB 4.7399
+label:    SB 4.7399
+name:     Documentary papyrus — Elephantine
+genre:    documents
+date:     144 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Documentary papyrus from Elephantine (144 CE)
+# hgv-keywords: Erlaubnisschein — Hetäre
+tm:       18046
+source:   https://papyri.info/ddbdp/sb;4;7399
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Βασσίων τελώνης ἑταιρικοῦ
+r.2    Ἀφροδίτῃ· ἐπιτρέ[πω] σοι ἑταιρεῖν
+r.3    πρὸς μόνην τὴν ἐνεστῶσαν ἡμέραν, ἥτις ἐστὶν ιδ τοῦ ἐνεστῶτος
+r.4    η ἔτους Ἀντωνείνου Καίσαρος τοῦ κυρίου,
+r.5    Ἁθὺρ ιδ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

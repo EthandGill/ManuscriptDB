@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.804
+label:    O.BODL 2.804
+name:     Receipt — Theben
+genre:    receipts
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (101 CE – 300 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71493
+source:   https://papyri.info/ddbdp/o.bodl;2;804
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παχὼν δ τοῦ γ ἔτους ὀνόματος Ποριεύθου
+r.2    Ἰσιδώρου ὁμοίως Ἡρακλήους ὑπὲρ μερισμῶν
+r.3    γ ἔτους Χάρακος δραχμὰς τέσσαρας γίνονται δραχμαὶ δ. Φιλ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

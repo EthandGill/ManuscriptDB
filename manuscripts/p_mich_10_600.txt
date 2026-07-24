@@ -1,0 +1,30 @@
+[META]
+id:       P.Mich. 10.600
+label:    P.Mich. 10.600
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     304 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (304 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       12280
+source:   https://papyri.info/ddbdp/p.mich;10;600
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ἔτους κ καὶ ιβ ἔτους τῶν κυρίων ἡμῶν
+r.2    Διοκλητιανοῦ καὶ Μαξιμιανοῦ Σεβαστῶν
+r.3    καὶ Κωνσταντίου καὶ Μαξιμιανοῦ τῶν ἐπιφανεστάτων
+r.4    Καισάρων Ἐπεὶφ ϛ. διέγραψαν Ἄφον καὶ Παπέεις καὶ οἱ κοινωνοὶ
+r.5    τιμῆς πυροῦ ιη ἔτους καὶ ιζ ἔτους καὶ ι ἔτους Φιλαδελφείας τάλαντα εἴκοσι, γίνεται τάλαντα κ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

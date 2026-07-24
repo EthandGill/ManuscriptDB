@@ -1,0 +1,24 @@
+[META]
+id:       T.MOM.LOUVRE 123
+label:    T.MOM.LOUVRE 123
+name:     Documentary papyrus — Psonis (Panopolites)
+genre:    documents
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Psonis (Panopolites)
+held:     
+shelf:    
+content:  Documentary papyrus from Psonis (Panopolites) (1 CE – 200 CE)
+# hgv-keywords: Mumienetikett
+tm:       54606
+source:   https://papyri.info/ddbdp/t.mom.louvre;;123
+lat:      26.665459
+lon:      31.602632
+
+[GREEK]
+r.1    Σανσον … Χε[μ]σνέως τοῦ
+r.2    Πετεμίνιος ἀπὸ κώμης Ψώνεως νομοῦ Πανοπωλίτου
+
+[TRANSLATION]
+1     
+2     

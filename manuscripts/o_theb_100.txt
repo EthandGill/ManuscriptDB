@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 100
+label:    O.THEB 100
+name:     Receipt — Theben
+genre:    receipts
+date:     177 CE – 178 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (177 CE – 178 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76470
+source:   https://papyri.info/ddbdp/o.theb;;100
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … [ τ]οῦ ιη ἔτους Αὐρηλίων Ἀντωνίνου
+r.2    [καὶ Κομ]μόδου Καισάρων
+r.3    [τῶν κυρί]ων ὀνόματος Φθουμώνθου
+r.4    … [ ὑπὲρ] χωματικοῦ ιζ ἔτους Ἀγορῶν δραχμὰς ἑπτὰ πεντώβολον χαλκοῦς β.
+r.5    [δραχμαὶ ζ πεντώβολον χαλκοῖ β ] … σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

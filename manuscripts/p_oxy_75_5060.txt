@@ -1,0 +1,30 @@
+[META]
+id:       P.Oxy. 75.5060
+label:    P.Oxy. 75.5060
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     247 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (247 CE)
+# hgv-keywords: Auftrag — Sarapion alias Dionysios (?) an NN — Ablieferung von Weizen an den Dekaproten Ammonaros
+tm:       128901
+source:   https://papyri.info/ddbdp/p.oxy;75;5060
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Βωλ … Σαραπι …
+r.2    παράδος Ἀμμ[ων]άρῳ δεκαπρώτῳ λιβὸς τοπαρχίας ὑπὲρ ἐδαφῶν
+r.3    πόλεως τῆς Ὀξυρυγχιτῶν μέτρῳ
+r.4    δεκάτῳ πυρ[οῦ] ἀρτάβας τριάκοντα, ἀρτάβας λ. ἔτους ε, Θὼθ ιβ.
+
+[TRANSLATION]
+# HGV-EN: (To?) Bol— (from?) Sarap—. Deliver to Ammonarus, dekaprotos of the Eastern toparchy, for lands of the city of the Oxyrhynchites, thirty artabas of wheat, 30 artabas, (measured) by the dekaton measure. Year 5, Thoth 12(?). (N. Litinas)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

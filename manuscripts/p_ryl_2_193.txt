@@ -1,0 +1,60 @@
+[META]
+id:       P.RYL 2.193
+label:    P.RYL 2.193
+name:     Receipt — Hermopolis
+genre:    receipts
+date:     135 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Receipt from Hermopolis (135 CE)
+# hgv-keywords: Quittung (Steuern)
+tm:       19525
+source:   https://papyri.info/ddbdp/p.ryl;2;193
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    … [ ἔτους Ἁδριανοῦ Κ]αίσαρος τοῦ κυρί[ο]υ
+r.2    … λαογραφίας ιθ ἔτους Ἁρπαησίων
+r.3    … ὀκτώ, γίνονται η, δεσμοφυλακίας ὀβολὸν, πορθμείου ὀβολὸν χαλκοῦς β,
+r.4    … ὀκτώ, γίνονται η, ὑικῆς μίαν τετρώβολον
+r.5    [γίνεται α τετρώβολον ] … Ἀπολλωνι Ἑρμοφιλ Ὡρι… [ Σαρα]πάμμων ἀδελφὸς
+r.6    … πορθμείου ὀβολὸν χαλκοῦς β, διὰ Ἑρμείνου Φιλ
+r.7    … ιθ ἔτους Διόσκορος Ἁρπαησίωνος
+r.8    … δ[εσμοφυλακίας] ὀβολὸν, πορθμείου ὀβολὸν χαλκοῦς [β,] δ[ι]ὰ
+r.9    … [λα]ογραφίας ιθ ἔτους Ποτάμ[ων ] …
+r.10   … ἀδελφ [ὑικῆς] μίαν τετρώβολον, [γίνεται] α τετρώβολον
+r.11   … [ μία]ν ὀβολοὺς 4, γίνεται α τετρώβολον, διὰ Ἑρμείνου Φ[ι]λ.
+r.12   ιϛ ἔτους Ἁδριανοῦ Καίσαρος τοῦ κυρίου
+r.13   Φαρμοῦθι κβ, Πόλεως Λιβός, λαογραφίας ιϛ ἔτους Ἁροειποι
+r.14   Ἁρατς ὀκτώ, γίνονται η, δεσμοφυλακίας ὀβολὸν, πορθμείου ὀβολὸν χαλκοῦς β,
+r.15   διὰ Νικομάχου. Παῦνι κϛ
+r.16   ὁ αὐτὸς ὑικῆς μίαν τετρώβολον, γίνεται α τετρώβολον, διὰ τοῦ αὐτοῦ.
+r.17   Φ[ρο]υρίου Λιβὸς Ἀπηλιώτου, ιθ ἔτους Ἁδρ[ιανο]ῦ Κ[α]ί[σαρος]
+r.18   [το]ῦ κυρίου Τῦβι κγ, Διόσκ[ορος][ Ἁρπαησίωνος τέλους]
+r.19   μόσχοῦ ὀβολοὺς δέκα τέσσαρας , διὰ Καλλί[ο]υ.
+
+[TRANSLATION]
+# HGV-EN: ‘The 16th year of Hadrianus Caesar the lord, Pharmouthi 22, West-end Quarter, (paid by) Haroeipoi … son of Harats … for the poll-tax of the 16th year eight drachmae, total 8, for the prison-guard 1 obol, for the ferry-guard (?) 1 obol 2 ch., through Nicomachus. Pauni 26, (paid by) the same person through the same agency for pig-tax one drachma four obols, total 1 dr. 4 ob. ‘Quarters of the Western and Eastern Guard-houses, the 19th year of Hadrianus Caesar the lord, Tubi 23, (paid by) Dioscorus son of Harpaesion for the tax on a calf 14 obols, through Callias.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

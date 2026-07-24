@@ -1,0 +1,36 @@
+[META]
+id:       APF 62.398v
+label:    APF 62.398v
+name:     Documentary papyrus — Schreibort: Arsinoites; Fundort: Gurob
+genre:    documents
+date:     300 BCE – 201 BCE
+language: Greek (Koiné)
+found:    Schreibort: Arsinoites; Fundort: Gurob
+held:     Dublin
+shelf:    
+content:  Documentary papyrus from Schreibort: Arsinoites; Fundort: Gurob (300 BCE – 201 BCE)
+# hgv-keywords: Bericht — Mord
+tm:       8831
+source:   https://papyri.info/ddbdp/apf;62;398v
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    … ν τὴν γεγραμμένην αὐ[τ]ῶι
+r.2    … κατωι. καλῶς οὖν
+r.3    πο[ιήσει]ς … ειπων παρὰ
+r.4    περὶ Παχῶτ[ος] … εντων …
+r.5    μετεπεμ[ψ]άμεθα τὸν Παχῶν διὰ [τὸ] γρά[ψ]αι Ἀφθόνητονἐπισκέψασθαι περὶ τ[ο]ῦ φόνου οὗ ἐνεκάλεσεν Ιρο …
+r.6    … ρατος ἐκ … λα συνε …
+r.7    Θεοδότωι …
+
+[TRANSLATION]
+# HGV-EN: ... written to him ... Please ... about Pachos ... we summoned Pachos because Aphthonetos had written ⟦the following letter to Aphthonetos and because an accusation of murder was brought against him by ... him ...⟧ to investigate about the murder of which NN accused (him) ⟦and, if he would be found guilty, to procure ...⟧ ... ⟦... as Pachos came immediately⟧ ... Theodotos ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

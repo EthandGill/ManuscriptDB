@@ -1,0 +1,30 @@
+[META]
+id:       O.CLAUD 3.600
+label:    O.CLAUD 3.600
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     143 CE – 144 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (143 CE – 144 CE)
+# hgv-keywords: Fragment — Quittung (?)
+tm:       73782
+source:   https://papyri.info/ddbdp/o.claud;3;600
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    … ρος
+r.2    [Καίσ]αρος Τίτου
+r.3    Αἰλίου Ἁδριανοῦ
+r.4    Ἀντωνίνου Σεβαστοῦ Εὐσεβοῦς.
+r.5    Διονύσις ἀπέχω.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

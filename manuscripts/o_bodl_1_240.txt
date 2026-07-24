@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 1.240
+label:    O.BODL 1.240
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     129 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (129 BCE)
+# hgv-keywords: Quittung — Spreu
+tm:       70974
+source:   https://papyri.info/ddbdp/o.bodl;1;240
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους μα Φαρμοῦ[θι ] … [ παραδεδώκασιν εἰς τὸ καθῆκον ἄχυρον]
+r.2    τοῦ μα ἔτους …
+r.3    καὶ οἱ μέτοχοι ἀχύρ[ου μώια ] …
+
+[TRANSLATION]
+1     
+2     
+3     

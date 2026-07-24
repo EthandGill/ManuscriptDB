@@ -1,0 +1,26 @@
+[META]
+id:       O.HEID 431
+label:    O.HEID 431
+name:     Letter — Theben
+genre:    letters
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Letter from Theben (1 CE – 200 CE)
+# hgv-keywords: Brief (?, privat) — Präskript? — Gaius Arrius an Horos (?)
+tm:       80630
+source:   https://papyri.info/ddbdp/o.heid;;431
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Γάιος Ἄρριος
+r.2    Ὥρῳ Ὀσορουήριος
+r.3    χαίρειν. γίνεται α.
+
+[TRANSLATION]
+1     
+2     
+3     

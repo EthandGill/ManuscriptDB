@@ -1,0 +1,26 @@
+[META]
+id:       O.STRAS 1.383
+label:    O.STRAS 1.383
+name:     Receipt — Theben
+genre:    receipts
+date:     167 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (167 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75971
+source:   https://papyri.info/ddbdp/o.stras;1;383
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [μέτρημα θησαυροῦ κωμῶν ][γε]νήματος ζ ἔτους Ἀντωνίνου καὶ Οὐήρου
+r.2    [τῶν κυρίων Σε]βαστῶν Ἐπεὶφ ζ ὑπὲρ Χάρακος ὀνόματος
+r.3    … Ἁροννώφριος μητρὸς Σενπα… πυροῦ ἀρτάβας δύο γίνονται πυροῦ β. Ἀμώνιος σεσημείωμαι πυροῦ β.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 1.51
+label:    O.ONT.MUS 1.51
+name:     Receipt — Theben
+genre:    receipts
+date:     186 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (186 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75069
+source:   https://papyri.info/ddbdp/o.ont.mus;1;51
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ κωμῶν γενήματος κϛ ἔτους Κομμόδου Ἀντωνίνου
+r.2    Καίσαρος τοῦ κυρίου Ἐπεὶφ ιθ ὑπὲρ Ἀγορῶν ὀνόματος
+r.3    Φθουμώνθου Ἀσκλᾶτος πυροῦ ἀρτάβην μίαν ἥμισυ γίνεται πυροῦ ἀρτάβη α 𐅵
+r.4    καὶ ὑπὲρ Νότου ὁμοίως πυροῦ ἀρτάβας τέσσαρας γίνονται πυροῦ ἀρτάβαι δ Ἑριεὺς σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

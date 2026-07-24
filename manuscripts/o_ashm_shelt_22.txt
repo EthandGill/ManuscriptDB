@@ -1,0 +1,26 @@
+[META]
+id:       O.ASHM.SHELT 22
+label:    O.ASHM.SHELT 22
+name:     Receipt — Theben
+genre:    receipts
+date:     138 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (138 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       70574
+source:   https://papyri.info/ddbdp/o.ashm.shelt;;22
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [μ]έτρημα θησαυροῦ κωμῶν γενήματος β ἔτους Ἀντωνίνου
+r.2    … [ Φα]ῶφι ι, ὀνόματος Κλεοπᾶτος
+r.3    … υ διὰ Βάσσου Ψενα[μούνιος] πυροῦ τρεῖς, γίνονται πυροῦ γ. Πα σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

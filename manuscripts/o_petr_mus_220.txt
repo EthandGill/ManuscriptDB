@@ -1,0 +1,22 @@
+[META]
+id:       O.PETR.MUS 220
+label:    O.PETR.MUS 220
+name:     Receipt — Theben (Notos)
+genre:    receipts
+date:     184 CE
+language: Greek (Koiné)
+found:    Theben (Notos)
+held:     
+shelf:    
+content:  Receipt from Theben (Notos) (184 CE)
+# hgv-keywords: Notiz (Quittung?) — Steuer (Kopfsteuer, epikephalaion)
+tm:       75393
+source:   https://papyri.info/ddbdp/o.petr.mus;;220
+lat:      25.7188
+lon:      32.6573
+
+[GREEK]
+r.1    κε ἔτους Ἁθὺρ η ὀνόματος Πετεχώνσιος Ἁρπαήσιος ὑπὲρ ἐπιικεφαλαίου Νότου κδ ἔτους δραχμὰς δ τετρώβολον ἡμιωβέλιον
+
+[TRANSLATION]
+1     

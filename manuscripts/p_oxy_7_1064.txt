@@ -1,0 +1,46 @@
+[META]
+id:       P.Oxy. 7.1064
+label:    P.Oxy. 7.1064
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     218 CE – 219 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (218 CE – 219 CE)
+# hgv-keywords: Brief (privat) — Diogenes an Didymas — Bitte um Hilfe für einen gewissen Apis bei der Eintreibung (Steuern)
+tm:       20351
+source:   https://papyri.info/ddbdp/p.oxy;7;1064
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Διογένης Διδυμᾶτι τῶι
+r.2    ἀδελφῷ χαίρειν.
+r.3    γενόμενος πρὸς Ἀχιλλᾶν
+r.4    πυνθανόμενος περὶ σοῦ
+r.5    ἔφη ὅτι ἐν τῇ Ψώβθει ἐστίν.
+r.6    γράφω σοι οὖν εἰδώς σου τὸ
+r.7    σπουδαῖον ὅπως συνλάβῃς τῷ Ἄπει ἀπαιτοῦντι
+r.8    τὰ λήμματα τῆς Τακόνα,
+r.9    ξενίαν δὲ αὐτῷ ποιήσῃς,
+r.10   πρὸς τὸ ἐπανελθόντα αὐτὸν
+r.11   μαρτυρῆσαί μοι.
+r.12   ἔρρωσο.
+
+[TRANSLATION]
+# HGV-EN: Diogenes to his brother Didymas, greeting. I went to Achillas and inquired about you and he said “He is at Psobthis”. So knowing your goodness I write to you that you may assist Apis, who is collecting the revenues of Takona, and may show him hospitality, so that on his return he may bear witness of it to me. Good-bye.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

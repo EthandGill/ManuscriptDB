@@ -1,0 +1,26 @@
+[META]
+id:       SB 3.7072
+label:    SB 3.7072
+name:     Documentary papyrus — Bompae (Panopolites)
+genre:    documents
+date:     200 CE
+language: Greek (Koiné)
+found:    Bompae (Panopolites)
+held:     
+shelf:    
+content:  Documentary papyrus from Bompae (Panopolites) (200 CE)
+# hgv-keywords: Mumienetikett
+tm:       40655
+source:   https://papyri.info/ddbdp/sb;3;7072
+lat:      26.525085
+lon:      31.714189
+
+[GREEK]
+r.1    Πατααρμοῦ Ψεντατρείφιος μητρὸς
+r.2    Σεναρυώτιδος
+r.3    ἀπὸ Βομπαῆ.
+
+[TRANSLATION]
+1     
+2     
+3     

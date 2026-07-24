@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.450
+label:    O.BODL 2.450
+name:     Receipt — Elephantine
+genre:    receipts
+date:     19 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (19 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71151
+source:   https://papyri.info/ddbdp/o.bodl;2;450
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διαγεγράφηκεν
+r.2    Πετορζμῆθις Μακ …
+r.3    ὑπὲρ λαογραφίας τοῦ πέμπτου ἔτους Τιβερίου Καίσαρος
+r.4    Σεβαστοῦ Μεσορὴι λ
+r.5    ἀργυρίου ἀρχαίου δραχμὰς ιϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

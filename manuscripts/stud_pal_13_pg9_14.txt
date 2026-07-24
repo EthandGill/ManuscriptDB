@@ -1,0 +1,28 @@
+[META]
+id:       STUD.PAL 13.pg9_14
+label:    STUD.PAL 13.pg9_14
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     107 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (107 CE)
+# hgv-keywords: Quittung — Steuer (Juden)
+tm:       23129
+source:   https://papyri.info/ddbdp/stud.pal;13;pg9_14
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [δ] ἀμφόδου
+r.2    Σπόρος δοῦλος Ἀνινίου τελέσματος Ἰουδαίων ι ἔτους Τραιανοῦ τοῦ κυρίου
+r.3    δραχμὰς θ διώβολον. ἔτους
+r.4    ια Χοιὰκ κδ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

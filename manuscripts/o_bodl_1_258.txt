@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 1.258
+label:    O.BODL 1.258
+name:     Letter — Theben (?)
+genre:    letters
+date:     243 BCE – 225 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Letter from Theben (?) (243 BCE – 225 BCE)
+# hgv-keywords: Brief — Sostratos an Thameneus
+tm:       70988
+source:   https://papyri.info/ddbdp/o.bodl;1;258
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Σώστρατος Θαμενεῦτι χαίρειν.
+r.2    ἥκασιν εἰσπράσσοντες Ἐπώνυχον α
+r.3    οἱ λογευταί.
+
+[TRANSLATION]
+1     
+2     
+3     

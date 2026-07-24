@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 94
+label:    O.THEB 94
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     119 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Sydney
+shelf:    
+content:  Receipt from Theben (Ägypten) (119 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76464
+source:   https://papyri.info/ddbdp/o.theb;;94
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Χεσφμόις πράκτωρ ἀργυρικῶν μητροπόλεως
+r.2    Οὐεστνούτει Ψεναμούνιος. ἔσχον ὑπὲρ
+r.3    σκοπέλων καὶ ἄλλων δ ἔτους ῥυπαρὰς δραχµὰς τρεῖς τετρώβολον ἡµιωβέλιον
+r.4    γίνονται δραχμαὶ γ τετρώβολον ἡµιωβέλιον. ἔτους δ Ἁδριανοῦ Καίσαρος
+r.5    τοῦ κυρίου Φαῶφι κη. Πανίσκος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

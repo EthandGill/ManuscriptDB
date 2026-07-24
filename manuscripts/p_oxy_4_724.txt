@@ -1,0 +1,46 @@
+[META]
+id:       P.Oxy. 4.724
+label:    P.Oxy. 4.724
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     155 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (155 CE)
+# hgv-keywords: Vertrag — Ausbildung — Kurzschrift — Sklave
+tm:       20424
+source:   https://papyri.info/ddbdp/p.oxy;4;724
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Πα[ν]εχώτης ὁ καὶ Πανάρης τῶν κεκοσμητευκότων τῆς Ὀξυρυγχειτῶν
+r.2    πόλεως διὰ Γεμέλλου φίλου Ἀπολλωνίῳ σημειογράφῳ χαίρειν. συνέστησά σοι
+r.3    Χαιράμμωνα δοῦλον πρὸς μάθησιν σημείων ὧν ἐπίσταται ὁ υἱός σου
+r.4    Δι[ο]νύσιος ἐπὶ χρόνον ἔτη δύο ἀπὸ τοῦ ἐνεστῶτος μηνὸς Φαμενὼθ τοῦ
+r.5    ὀκτωκαιδεκάτου ἔτους Ἀντωνίνου Καίσαρος τοῦ κυρίου μισθοῦ τοῦ συμπεφωνημένου πρὸς ἀλλήλους ἀργυρίου δραχμῶν ἑκατὸν εἴκοσι χωρὶς ἑορτικῶν, ἐξ ὧν ἔσχες τὴν πρώτην δόσιν ἐν δραχμαῖς τεσσαράκοντα, τὴν δὲ
+r.6    δευτέραν λήψῃ τοῦ παιδὸς ἀνειληφότος τὸ κομεντάρ[ι]ον ὅλον ἐν δραχ[μ]αῖς τ[εσσ]αράκοντα, τὴν δὲ τρίτην λήψει ἐπὶ τέλει τοῦ χρόνου τοῦ
+r.7    παιδὸς ἐκ παντὸς λόγου πεζοῦ γράφοντος καὶ ἀναγιγνώσ[κον]τος ἀμέμπτως
+r.8    τὰς λοιπὰς δραχμὰς τεσσαράκοντα. ἐὰν δὲ ἐντὸς τοῦ χ[ρ]όνου αὐτὸν
+r.9    ἀπαρτίσῃς οὐκ ἐκδέξομαι τὴν προκειμένην προθεσμ[ί]αν, οὐκ ἐξόντος
+r.10   μοι ἐντὸς τοῦ χρόνου τὸν παῖδα ἀποσπᾶν, παραμενεῖ δέ σ[ο]ι μετὰ [τὸ]ν χρό[νον] ὅσας
+r.11   ἐὰν ἀργήσῃ ἡμέρας ἢ μῆνας. ἔτους ιη Αὐτοκράτορος Καίσαρος Τίτου Αἰλίου Ἁδριανοῦ
+r.12   Ἀντωνίνου Σεβαστοῦ Εὐσεβοῦς Φαμενὼθ ε.
+
+[TRANSLATION]
+# HGV-EN: Panechotes also called Panares, ex-cosmetes of Oxyrhynchus, through his friend Gemellus, to Apollonius, writer of shorthand, greeting. I have placed with you my slave Chaerammon to be taught the signs which your son Dionysius knows, for a period of two years dating from the present month Phamenoth of the 18th year of Antoninus Caesar the lord at the salary agreed upon between us, 120 silver drachmae, not including feast-days; of which sum you have received the first instalment amounting to 40 drachmae, and you will receive the second instalment consisting of 40 drachmae when the boy has learnt the whole system, and the third you will receive at the end of the period when the boy writes fluently in every respect and reads faultlessly, viz. the remaining 40 drachmae. If you make him perfect within the period, I will not wait for the aforesaid limit; but it is not lawful for me to take the boy away before the end of the period, and he shall remain with you after the expiration of it for as many days or months as he may have done no work. The 18th year of the Emperor Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, Phamenoth 5.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

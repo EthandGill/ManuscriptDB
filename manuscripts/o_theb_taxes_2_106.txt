@@ -1,0 +1,26 @@
+[META]
+id:       O.THEB.TAXES 2.106
+label:    O.THEB.TAXES 2.106
+name:     Receipt — Theben
+genre:    receipts
+date:     246 BCE – 205 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (246 BCE – 205 BCE)
+# hgv-keywords: Quittung — Steuer — Weizen
+tm:       130099
+source:   https://papyri.info/ddbdp/o.theb.taxes;2;106
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … ετ …
+r.2    πυροῦ τεσσ …
+r.3    Τρύφων
+
+[TRANSLATION]
+1     
+2     
+3     

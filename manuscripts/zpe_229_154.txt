@@ -1,0 +1,36 @@
+[META]
+id:       ZPE 229.154
+label:    ZPE 229.154
+name:     Receipt — Herakleopolites ?
+genre:    receipts
+date:     129 CE
+language: Greek (Koiné)
+found:    Herakleopolites ?
+held:     Durham (NC)
+shelf:    
+content:  Receipt from Herakleopolites ? (129 CE)
+# hgv-keywords: Eingabe (?) — Zahlung — Quittung (?)
+tm:       131883
+source:   https://papyri.info/ddbdp/zpe;229;154
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    … δ …
+r.2    ποιηση … ν … συμπεμφθήσ[εται] αὐτῶι εἰς ἃ νῦν
+r.3    ἐφ’ οὗ δια … μ … άμενοι καὶ συμπληρώσαντες αὐτὸν ὃ ἂν
+r.4    κ … ρισκώμεθα
+r.5    πρ … θ … σύμβολον ὅπως …
+r.6    … ε … μὴ … ς ἔτι παρενοχλῶσι.
+r.7    διε[υ]τύχει. ἔτους μα Παχὼν β
+
+[TRANSLATION]
+# HGV-EN: … do … there will be sent to him, for the present, for which (?), -ing and paying him in full whatever … we find (?), a token, so that … lest they continue to annoy. Farewell. Year 41, Pachon 2.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

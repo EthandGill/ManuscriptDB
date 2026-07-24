@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1433
+label:    O.BODL 2.1433
+name:     Receipt — Theben
+genre:    receipts
+date:     155 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (155 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       72115
+source:   https://papyri.info/ddbdp/o.bodl;2;1433
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ιη ἔτους
+r.2    Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.3    Παῦνι ιγ ὑπὲρ Χάρακος ὀνόματος Πολλίας Μαρίας
+r.4    νεωτέρας διὰ γεωργοῦ Ἐπωνύχου Πετεχώνσιος πυροῦ ἀρτάβη
+r.5    μία τρίτον γίνεται πυροῦ ἀρτάβη α γ. Μηνόδωρος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

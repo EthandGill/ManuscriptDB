@@ -1,0 +1,24 @@
+[META]
+id:       O.ONT.MUS 2.73
+label:    O.ONT.MUS 2.73
+name:     Receipt — Theben
+genre:    receipts
+date:     236 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (236 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       51039
+source:   https://papyri.info/ddbdp/o.ont.mus;2;73
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ιβ Παχὼν κθ ἁλικῆς διὰ Σωστράτου
+r.2    Ψεναμοῦνις Ἁρσιήσιος δραχμὴν α.
+
+[TRANSLATION]
+1     
+2     

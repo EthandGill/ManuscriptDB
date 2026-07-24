@@ -1,0 +1,32 @@
+[META]
+id:       O.CLAUD 1.7
+label:    O.CLAUD 1.7
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     111 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (111 CE)
+# hgv-keywords: Quittung — Brot
+tm:       24020
+source:   https://papyri.info/ddbdp/o.claud;1;7
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ἄλκιμος βοηθὸς Μαγίου
+r.2    Ψενοσίρει Περούσιος χαίρειν.
+r.3    παρεκόμισας εἰς Κλαυδιανὸν
+r.4    ἄρτων ἀρτάβας ἑπτά, γίνονται ἀρτάβαι ζ.
+r.5    ἔτους ιδ Τραιανοῦ τοῦ κυρίου
+r.6    Παχὼν κβ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 1.206
+label:    O.BODL 1.206
+name:     Receipt — Hermonthis
+genre:    receipts
+date:     103 BCE
+language: Greek (Koiné)
+found:    Hermonthis
+held:     
+shelf:    
+content:  Receipt from Hermonthis (103 BCE)
+# hgv-keywords: Quittung — Getreide
+tm:       70954
+source:   https://papyri.info/ddbdp/o.bodl;1;206
+lat:      25.61988
+lon:      32.54305
+
+[GREEK]
+r.1    ἔτους ιδ τοῦ καὶ ια Φαρμοῦθι
+r.2    κη μεμέτρηκεν εἰς τὸ αὐτὸ ἔτος Ἑρμώνθεως Ἀμμώνιος
+r.3    Ψεναμούνιος πυροῦ μίαν γίνεται πυροῦ α. Ἑρμίας.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 1.193
+label:    O.BODL 1.193
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     114 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (114 BCE)
+# hgv-keywords: Quittung — Getreide — Steuern
+tm:       44262
+source:   https://papyri.info/ddbdp/o.bodl;1;193
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους δ Φαῶφι ιε μεμέτρηκεν εἰς τὸ ἡμιαρτάβιον τοῦ γ ἔτους Πραξίας
+r.2    Δάμωνος πυροῦ τέσσαρ[ας]
+r.3    γίνονται πυροῦ δ.
+r.4    Ἀπολλώνιος σιτολόγος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,28 @@
+[META]
+id:       BGU 3.720
+label:    BGU 3.720
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     158 CE – 159 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (158 CE – 159 CE)
+# hgv-keywords: Quittung an Sitologen für Saatgut
+tm:       9318
+source:   https://papyri.info/ddbdp/bgu;3;720
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    σιτολόγοις Κ[α]ρανίδος. ἔσχον προσφωνήσας σπέρμα[τ]ος
+r.2    κβ ἔτους Ἀντωνείνου Καίσαρος τοῦ κυρίου
+r.3    μη [κληρουχίας] Μυσθαρίων [Ἰ]σχυρίωνος [Κ]αρανίδος Πα[τσώντεως] ἄρουραι …
+
+[TRANSLATION]
+# HGV-EN: To the sitologoi of Karanis. I received under declaration (with a written sworn statement) from the seed grain of year 22 of Antoninus Caesar, the lord. (m. 2) 48th (cleruchy). Mystharion, son of [I]schyrion. At Karanis for x arouras on the Pallantian (estate).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

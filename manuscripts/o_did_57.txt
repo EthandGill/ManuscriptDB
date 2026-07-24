@@ -1,0 +1,36 @@
+[META]
+id:       O.DID 57
+label:    O.DID 57
+name:     Receipt — Didymoi
+genre:    receipts
+date:     96 CE
+language: Greek (Koiné)
+found:    Didymoi
+held:     Qift
+shelf:    
+content:  Receipt from Didymoi (96 CE)
+# hgv-keywords: Quittung — Iulius (curator von Didymoi) gegenüber Aireio- (?) — Bestätigung des Empfangs von 3 Talenten Spreu
+tm:       144623
+source:   https://papyri.info/ddbdp/o.did;;57
+lat:      25.7543330528
+lon:      33.3947791619
+
+[GREEK]
+r.1    Ἰούλιος κουράτωρ
+r.2    Διδύμων Αιρειο …
+r.3    Σαδάλου χαίρειν. παρέλαβον εἰς Διδύμους ἀχύρου τάλαντα γ διὰ Πούδωνος ἱππέως.
+r.4    ἔτους ιε Αὐτοκράτορος Καίσαρος
+r.5    Δομιτιανοῦ Σεβαστοῦ Γερμανικοῦ,
+r.6    Παχων ε.
+r.7    ἔρρωσο
+r.8    ιουλ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

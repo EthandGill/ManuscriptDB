@@ -1,0 +1,36 @@
+[META]
+id:       P.LOND 3.1060
+label:    P.LOND 3.1060
+name:     Receipt — Hermopolis
+genre:    receipts
+date:     601 CE – 700 CE
+language: Greek (Koiné)
+found:    Hermopolis
+held:     
+shelf:    
+content:  Receipt from Hermopolis (601 CE – 700 CE)
+# hgv-keywords: Quittung — Steuern — Geld — Kirche
+tm:       39589
+source:   https://papyri.info/ddbdp/p.lond;3;1060
+lat:      27.7813573345
+lon:      30.8037580511
+
+[GREEK]
+r.1    ἡ ἁγία τοῦ θεοῦ ἐκκλησία Ἑρμουπόλεως διʼ ἐμοῦ
+r.2    Θεοδοσίου ἀπαιτητοῦ τῶν χρυσικῶν μερίδος
+r.3    Ἑρμουπόλεως ἀββᾶ Δανιηλίῳ. ἔσχον παρὰ σ[οῦ]
+r.4    ἀπὸ τοῦ φόρου καρπῶν ἑβδόμης ἰνδικτίονος
+r.5    χρυσοῦ κερ[ά]τια εἴκοσι τρία γίνεται χρυσοῦ κεράτια κγ
+r.6    τὰ καὶ δοθέντα Φ[ο]ιβάμμωνι περιχύτῃ τοῦ γυμνασίου
+r.7    ὑπὲρ ἐνταγίου Φαρμοῦθι ἰνδικτίονος ζ μόνον. ἐγράφη Παχὼν ια ἰνδικτίονος ζ.
+r.8    Θεοδόσιος ἀπαιτητὴς στοιχεῖ τὸ ἐντάγιον
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

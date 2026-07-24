@@ -1,0 +1,32 @@
+[META]
+id:       P.PETR.KLEON 72
+label:    P.PETR.KLEON 72
+name:     Contract — Fundort: Gurob; Schreibort: Arsinoites
+genre:    contracts
+date:     260 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Fundort: Gurob; Schreibort: Arsinoites
+held:     Dublin
+shelf:    
+content:  Contract from Fundort: Gurob; Schreibort: Arsinoites (260 BCE – 249 BCE)
+# hgv-keywords: Brief — Nikostratos an Kleon — Angeklagter wurde geschickt, damit Gerechtigkeit geschehe
+tm:       388486
+source:   https://papyri.info/ddbdp/p.petr.kleon;;72
+lat:      29.200151
+lon:      30.953521
+
+[GREEK]
+r.1    [Νικ]όστρατος Κλέω[νι] χαίρειν. ὧι ἐπε[κά]λει Λάηθις ἀπε[σ]τάλκαμεν …
+r.2    [πρ]ὸς σὲ ἵνα διὰ [σὲ δύ][ν]ηται τυχε[ῖν]
+r.3    … τῶν δικαίων
+r.4    Παῦνι ιδ
+r.5    Νικοστράτου ὧι Λάηθις ἐπεκάλει. Κλέωνι
+
+[TRANSLATION]
+# HGV-EN: Nikostratos to Kleon, greetings. We have [...] sent to you the man whom Laethis accused so that through you he may obtain justice. Payni 14. From Nikostratos, on the man whom Laethis accused. To Kleon.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

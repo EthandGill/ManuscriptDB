@@ -1,0 +1,30 @@
+[META]
+id:       P.CUSTOMS 188
+label:    P.CUSTOMS 188
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     59 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (59 CE)
+# hgv-keywords: Quittung — Torzoll — Esel — Olivenöl — Steuer
+tm:       10613
+source:   https://papyri.info/ddbdp/p.customs;;188
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    [πάρες][ διὰ πύλης] Νήσου Σοκνοπαίου λιμένος
+r.2    [Μέμφεως Σ]τοτοήθι ἐλαίου
+r.3    [ὄνον ἕνα ][μετ]ρητὴν ἕνα ἥμισυ,
+r.4    [γίνεται μετρητὴς] α 𐅵. ἔτους πέμ[πτου Ἀντωνίνου Καί]σαρος τοῦ κυρίου
+r.5    [Μεσο]ρὴ ιη. κζ ἄλλον ἕνα .
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

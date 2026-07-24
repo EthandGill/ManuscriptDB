@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 9.1189
+label:    P.Oxy. 9.1189
+name:     Letter — Herakleopolis
+genre:    letters
+date:     117 CE – 118 CE
+language: Greek (Koiné)
+found:    Herakleopolis
+held:     
+shelf:    
+content:  Letter from Herakleopolis (117 CE – 118 CE)
+# hgv-keywords: Brief (amtlich) — Akylios Polion (Stratege d. Herakleopolites) an Apollonios (Stratege d. Oxyrhynchites) — Liste v. Besitz d. Juden
+tm:       21576
+source:   https://papyri.info/ddbdp/p.oxy;9;1189
+lat:      29.0855048
+lon:      30.9345750333
+
+[GREEK]
+r.1    … [ τῷ κρατ]ίστῳ ἐπι[στρατήγῳ ] …
+r.2    … [ στρ]ατηγοῦ Λητοπο[λίτου ] …
+r.3    μδ.
+r.4    Ἀκύλιος Πωλίων στρατηγὸς
+r.5    Ἡρακλεοπολίτου Ἀπολλωνίῳ
+r.6    στρατηγῶι Ὀξυρυγχείτ[ο]υ
+r.7    τῶι φιλτάτωι χαίρειν.
+r.8    ἐπιστολὰς δύο ἃς ἔγραψα
+r.9    ἣν μὲν σοὶ ἣν δὲ Σαβείνῳ
+r.10   στρατηγῷ Κυνοπολείτου
+r.11   περὶ γραφῆς τῶν τοῖς [Ἰ]ουδαίοις ὑπαρξάντων κ[αὶ αὐτὴν]
+r.12   τὴν γραφὴν εὖ ποιήσεις
+r.13   κομισάμενος καὶ τὴν
+r.14   μὲν σοὶ ἱκνουμένην κατασχὼν τὴν δὲ εἰς τὸν Κυνοπολείτην διαπεμψάμε[νος ] …
+r.15   Ἀπολλωνίωι στρατηγῷ Ὀξυρυγχ[είτου. ] …
+
+[TRANSLATION]
+# HGV-EN: No. 44. Aquilius Polion, strategus of the Heracleopolite nome, to his dearest Apollonius, strategus of the Oxyrhynchite nome, greeting. Kindly receive two letters which I have written, one to you and one to Sabinus, strategus of the Cynopolite nome, about a list of property which belonged to the Jews, with the list itself, and keep the letter coming to you and forward the other to the Cynopolite nome ... (Addressed) To Apollonius, strategus of the Oxyrhynchite nome.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.201
+label:    O.STRAS 1.201
+name:     Receipt — Theben
+genre:    receipts
+date:     121 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (121 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75798
+source:   https://papyri.info/ddbdp/o.stras;1;201
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … ε … καὶ μέτοχοι πράκτορες ἀργυρικῶν Ψενσνῶτι Ἀβῶτος
+r.2    Ἰν[αρ]ῶτ[ος] μητρὸς Πεχοίτου. ἔσχον ὑπὲρ χωμάτων καὶ βαλανευτικοῦ
+r.3    Ἀγορᾶς βορρᾶ τοῦ ε ἔτους ῥυπαρὰς δραχμὰς δ πεντώβολον χαλκοῦς β γίνονται ῥυπαραὶ
+r.4    δραχμαὶ δ πεντώβολον χαλκοῖ β. ἔτους ε Ἁδριανοῦ
+r.5    τοῦ κυρίου Ἐπὶφ ϛ. Ψενχῶνσις διὰ Ἀνιω ἐσημειωσάμην.
+r.6    Παιχ ὃς καὶ Ὡρ … διὰ Κοτταρίωνος ἐσημειωσάμην. Ἀμ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

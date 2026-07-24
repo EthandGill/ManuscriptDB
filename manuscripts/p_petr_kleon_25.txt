@@ -1,0 +1,38 @@
+[META]
+id:       P.PETR.KLEON 25
+label:    P.PETR.KLEON 25
+name:     Letter — Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+genre:    letters
+date:     254 BCE
+language: Greek (Koiné)
+found:    Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob
+held:     Dublin
+shelf:    
+content:  Letter from Schreibort: Arsinoites; Zielort: Arsinoites; Fundort: Gurob (254 BCE)
+# hgv-keywords: Brief (geschäftlich) — Alexandros an Kleon — Kanal — Verschlammung — Arbeit daran — Holz — Brücken
+tm:       7651
+source:   https://papyri.info/ddbdp/p.petr.kleon;;25
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Ἀλέξανδρος Κλέωνι χαίρειν. τῆς ἐξαγωγοῦ τῆς φερούσης ἐκ Τεβέτνου
+r.2    καὶ Σαμαρείας εἰς Κερκέησιν ἣν ἐσκάψαμεν πέρυσι ἐγκατάλειμμα γέγονεν.
+r.3    καλῶς οὖν ποιήσεις συντάξας ὑπολογῆσαι εἰς τὰ ἁλικὰ τοῖς ἐκ Κερκεήσιος
+r.4    λαοῖς δραχμὰς σ ὧν ἀωίλια μετρήσουσιν εἰς ξ τῶν δ δραχμῶν ἵνα συντελεσθῆι καὶ ἡ γῆ μὴ κατάβροχος γίνηται. ἀπόστειλον δʼ ἡμῖν καὶ ξύλα τὰ λοιπὰ τῶν σ ὅτι εὐμηκέστατα καὶ
+r.5    παχύτατα ἵνʼ ἔχωμεν εἰς διατόναια ταῖς γεφύραις. τούτοις γὰρ κατακωλυόμεθα. ὡσαύτως δὲ καὶ σχοινία ρ, ἐὰν δὲ ὑπάρχηι πλέω σ.
+r.6    ἔρρωσο. ἔτους λα Παῦνι ιϛ
+r.7    ἔτους λα, Παυνι ιϛ Κλέωνι
+r.8    παρ ̓ Ἀλεξάνδρου.
+
+[TRANSLATION]
+# HGV-EN: Alexandros to Kleon, greetings. A remnant of the drainage channel running from Tebetnou and Samareia to Kerkeesis which we dug last year, is left unfinished. Please order that the salt tax for the natives of Kerkeesis be reduced by 200 drachmas, for which they shall pay in aoilia (of sand) removed, at the rate of 4 drachmas for every 60 aoilia, so that it may be completed and the land does not become waterlogged. Send us the rest of the 200 wooden beams, as long and as thick as possible, so that we have them to serve as joists for the bridges. For we are being held up by these. And send us ropes as well, 100 of them, but if there are more, 200. Farewell. Year 31, Payni 16. Year 31, Payni 16. From Alexandros. To Kleon.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

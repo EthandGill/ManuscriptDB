@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.985
+label:    O.BODL 2.985
+name:     Receipt — Theben
+genre:    receipts
+date:     82 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (82 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71673
+source:   https://papyri.info/ddbdp/o.bodl;2;985
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πικῶς καὶ μέτοχοι τελῶναι λαχαν τοῦ α ἔτους
+r.2    Πετεμενώφει Πετεθώτου χαίρειν.
+r.3    ἔχομεν τὸ τέλος Τῦβι ὑπὲρ ἐργαστηρίου δραχμὰς δ. ἔτους α Αὐτοκράτορος
+r.4    Δομιτιανοῦ τοῦ κυρίου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

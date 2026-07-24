@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.95
+label:    O.ONT.MUS 2.95
+name:     Receipt — Theben
+genre:    receipts
+date:     100 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (100 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75112
+source:   https://papyri.info/ddbdp/o.ont.mus;2;95
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … σις καὶ μέτοχοι τελῶναι [θησαυροῦ ἱερῶν ] …
+r.2    [Ψενα]μούνιος χαίρειν. ἀπέσχομεν πα[ρὰ σοῦ τὸ βαλανευτικὸν ]
+r.3    [τοῦ ] … [ ἔτους Τ]ραιανοῦ Καίσαρ[ος τοῦ κυρίου]
+r.4    Πα …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,50 @@
+[META]
+id:       P.Oxy. 1.44
+label:    P.Oxy. 1.44
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     66 CE – 70 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (66 CE – 70 CE)
+# hgv-keywords: Brief (amtlich) — der Stratege Papiskos an den königlichen Schreiber Asklepiades — Schwierigkeiten — Pächter (Steuern) zu finden — Bericht von der Antwort des Präfekten
+tm:       20706
+source:   https://papyri.info/ddbdp/p.oxy;1;44
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [Πα]πίσκος [κοσμητεύ]σας στρατηγὸς Ὀξυρυ[γ]χίτου
+r.2    [Ἀσ]κληπιάδ[ηι βασιλικῶ]ι γραμματεῖ τοῦ αὐτοῦ νομοῦ
+r.3    χαίρειν.
+r.4    ἐπὶ τῆς γενομένης διαπράσεως τῶν τελωνικῶν ὑπό τε ἐμοῦ καὶ σοῦ ἐπὶ παρόντων καὶ
+r.5    τῶν εἰωθότων, δυσπειθούντων τῶν τὸ ἐνκύκλιον ἀσχολουμένων καὶ τῶν τὸ ἀγορανόμιον δημοσιωνῶν ὡς ἱκανὰ βλαπτομένων καὶ κινδυνευόντων μεταναστῆναι, [τὸ] δόξαν ἡμῖν ἔγραψα τῶι κρατίστωι
+r.6    ἡγεμόνι περὶ τοῦ πράγματος. ἀντιγράψαντος οὖν αὐτοῦ μοι περὶ τοῦ ἐφιδόντα τὰς
+r.7    π[ρο]τέρας μισθώσεις κατὰ τὸ δυνατὸν
+r.8    [ἀνα]κουφίσαι τοὺς τελώνας ὑπὲρ τοῦ μὴ
+r.9    φυγ[ά]δας γενέσθαι τ[ο]ὺς πρὸς β[ίαν] ἀ[γο]μένους, καὶ πρότερόν σοι τὸ ἀντίγρ[αφο]ν
+r.10   τῆς ἐπιστολῆς μετέδωκα ἵνʼ εἰδῇς, καὶ
+r.11   ὅτι ἀποδημοῦντός σου καὶ τῶν ὠνῶν
+r.12   μὴ ἐπιδεδεγμένων ὑπὸ τῶν τελωνῶν
+r.13   μηδὲ μὴν ἄλλων προσερχ[ομ]ένων αὐτοῖς πολλάκις προκηρυχθεισῶν
+r.14   ἔλαβον χειρογραφίας τῶν τε τὸ ἐνκύκλιον καὶ τὸ γραφεῖον ἀσχολουμένων
+
+[TRANSLATION]
+# HGV-EN: Paniscus, strategus of the Oxyrhynchite nome, to Asclepiades, basilicogrammateus of the same nome, greeting. At the last sale of taxes held by myself and you in the presence of the customary officials, the farmers of the tax on sales and the farmer of the tax payable to the record office not only refused to bid, on the plea that they had incurred sufficient loss already, but seemed likely to abscond. I accordingly thought it best to write to his excellency the praefect on the matter. He replied requesting me to examine the terms under which the taxes had previously been farmed, and as far as possible to lighten the burden of the farmers, in order to prevent the disappearance of those who were being pressed to bid. I have therefore already sent you the copy of his letter to inform you, and to acquaint you with the fact that in your absence, as the taxes have been refused by the present farmers and no one else at all has come forward to undertake the responsibility, though the taxes have been put up to auction several times, I have taken declarations by the farmers of the tax upon sales and those payable to the record office.....
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

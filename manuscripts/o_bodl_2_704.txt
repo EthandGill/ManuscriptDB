@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.704
+label:    O.BODL 2.704
+name:     Receipt — Theben
+genre:    receipts
+date:     129 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (129 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71394
+source:   https://papyri.info/ddbdp/o.bodl;2;704
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παμώνθης καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    Φμόιτι Πετεχώνσιος. ἔσχομεν ὑπὲρ βαλανευτικοῦ
+r.3    τοῦ ιγ ἔτους Ἁδριανοῦ τοῦ κυρίου
+r.4    Τῦβι κδ. Ἐπικράτης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

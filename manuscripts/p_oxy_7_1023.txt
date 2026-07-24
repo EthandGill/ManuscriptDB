@@ -1,0 +1,36 @@
+[META]
+id:       P.Oxy. 7.1023
+label:    P.Oxy. 7.1023
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     138 CE – 161 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (138 CE – 161 CE)
+# hgv-keywords: Daten über einen Veteran — Epikrisis — Ausweis (?)
+tm:       20322
+source:   https://papyri.info/ddbdp/p.oxy;7;1023
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Πόπλιος Πετρώνιος
+r.2    Κέλερ ἀπολύσιμος
+r.3    στρατιώτης, πρώτως
+r.4    παρεπιδημήσας, δηλωθεὶς ἐπικεκρίσθαι
+r.5    ὑπὸ Κοείντου Ῥαμμί[ο]υ Μαρτιάλις
+r.6    τῷ α ἔτει Ἁδριανοῦ
+r.7    τοῦ κυρίου.
+
+[TRANSLATION]
+# HGV-EN: Publius Petronius Celer, discharged soldier, now for the first time residing, declared to have been placed on the list by Quintus Rammius Martialis in the first year of Hadrianus the lord.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

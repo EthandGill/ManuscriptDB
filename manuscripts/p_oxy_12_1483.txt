@@ -1,0 +1,54 @@
+[META]
+id:       P.Oxy. 12.1483
+label:    P.Oxy. 12.1483
+name:     Letter — Oxyrhynchites
+genre:    letters
+date:     176 CE – 225 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Letter from Oxyrhynchites (176 CE – 225 CE)
+# hgv-keywords: Brief (privat) — Dios an Zoilos — Verweis an Untergeordneten — Unzuverlässigkeit bei Einhalten von Termin und Zahlung von Rechnungen — Forderungen — Drohung
+tm:       28995
+source:   https://papyri.info/ddbdp/p.oxy;12;1483
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Δῖος Ζωΐλωι χαίρειν.
+r.2    ἐτάξω μοι ἐλθεῖν ἐντὸς κε
+r.3    τοῦ Τῦβι μηνὸς καὶ οὐκ ἦλθας.
+r.4    ἐξερχόμενος δὲ λόγον μοι δέδωκας ἀναγραφῆς ὧν διὰ σεαυτοῦ ἐξωδίασας. γράφεις δὲ
+r.5    ἐξωδιακέναι κεράμια λγ κηπουροῖς καὶ μόσχους δύο οὓς
+r.6    τέθυκα[ς,] καὶ ἐξωδίασας τοῖς
+r.7    αὐτοῖς ὧν οὐδὲ εἷς μοι παρεδέξατο τιμὴν ὡς σοῦ λαβόντος. ἕτερα δὲ εἴδη ἐν τῶι
+r.8    κτήματ[ι] ζητεῖται, ὧν τὸν
+r.9    λόγον δώσ[ει]ς ἐν τῷ [λ]ογιστηρίῳ.
+r.10   ἴσθι δὲ ὡς, ἐὰν μὴ διὰ τάχους πᾶν τελῇς καὶ ἐκβιβάσῃς τὰ [πρ]ὸς σὲ ζητούμενα,
+r.11   τὸν ἐγγυητήν σου κατέχω
+r.12   ἕως ἂν τ[ε]λῇς μοι τὴν τιμὴν
+r.13   τῶν ζητουμένων.
+r.14   ἐρρῶσθαί σε εὔχομαι.
+r.15   Ζωΐλωι παρὰ Δίου φί[λου][.]
+r.16   ἀπόδος Ζωΐλῳ παρὰ Δείου.
+
+[TRANSLATION]
+# HGV-EN: Dius to Zoïlus, greeting. You arranged with me to come before the 25th of the month of Tubi, and you have not come. When you went away, you rendered to me an account consisting of a list of what you had spent yourself. You write that you spent 33 jars upon the gardeners and two calves which you sacrificed, and you have spent upon them things of which absolutely no one has received the value, since you had it. Other claims are being made against you in the vineyard, of which you will have to render an account at the reckoning-office. Know that, unless you pay all quickly and discharge the claims made against you, I shall seize your surety, until you pay me the value of the claims. I pray for your health. (Addressed) To Zoïlus from his friend Dius. Deliver to Zoïlus from Dius.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

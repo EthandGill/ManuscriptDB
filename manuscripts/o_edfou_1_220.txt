@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.220
+label:    O.EDFOU 1.220
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     301 CE – 700 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (301 CE – 700 CE)
+# hgv-keywords: Quittung
+tm:       74255
+source:   https://papyri.info/ddbdp/o.edfou;1;220
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Μηνᾶ
+r.2    παρέσχεν Ἀπάδιμος μέταλλα
+r.3    … ιρ παρὰ τοῦ κυρίου Βασιλίου
+r.4    [πρὸς ][κε]ράτια εἴκοσι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

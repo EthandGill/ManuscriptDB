@@ -1,0 +1,38 @@
+[META]
+id:       O.FRANGE 25
+label:    O.FRANGE 25
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Lettre de salutation — Archives de Frangé
+tm:       88099
+source:   https://papyri.info/ddbdp/o.frange;;25
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [ ⲁ]ⲛⲟⲕ ϥⲣⲁⲛⲅⲉ
+r.2    [ⲡⲉⲓ]ἐλάχιστος ⲛⲣⲉϥ[ⲣⲛⲟⲃ]ⲉ ⲉϥⲥϩⲁⲓ ⲉϥϣⲓⲛⲉ
+r.3    [ⲉⲡⲉϥ]ⲙⲉⲣⲓⲧ ⲛϫⲟⲉⲓⲥ ⲛⲥⲟⲛ
+r.4    [ⲉⲧⲛⲁⲛ]ⲟⲩϥ ⲁⲡⲁ ⲓⲁⲕⲱⲃ
+r.5    [ϯϣⲓ]ⲛⲉ ⲉⲣⲟⲕ ⲉⲙⲁⲧⲉ ⲉⲙⲁⲧ[ⲉ]
+r.6    [ϩⲙ ⲡ]ϫⲱⲕ ⲧⲏⲣϥ ⲛⲧⲁψυχή
+r.7    [ⲁⲩⲱ] ϯϣⲓⲛⲉ ⲉⲡⲟⲩϫⲁ[ⲓ]
+r.8    [ⲙⲡⲉⲕ]ⲏⲓ ⲡⲉⲛϫⲟⲉⲓⲥ ⲛϥ[ⲥⲙⲟ]ⲩ ⲉⲣⲟⲕ ⲛϥϩⲁⲣ[ⲉϩ]
+r.9    [ⲉⲣⲟ]ⲕ ϩⲛ ϩⲱⲃ ⲛⲓ[ⲙ ⲉⲑⲟ][ⲟⲩ] ϩⲛ ⲟⲩεἰρήνη
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

@@ -1,0 +1,28 @@
+[META]
+id:       UPZ 1.100
+label:    UPZ 1.100
+name:     Documentary papyrus — Memphis
+genre:    documents
+date:     157 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Documentary papyrus from Memphis (157 BCE)
+# hgv-keywords: Notizen — Abrechnung
+tm:       3491
+source:   https://papyri.info/ddbdp/upz;1;100
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    Ἱππάλω[ι] καὶ Δυσιω[ι ] …
+r.2    ἔτους κε Θῶυθ ι
+r.3    Ἁροντώτης
+r.4    χηνοβοσκὸς δραχμαὶ Δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,26 @@
+[META]
+id:       P.LOUVRE 1.74
+label:    P.LOUVRE 1.74
+name:     Documentary papyrus — Kynopolis (?)
+genre:    documents
+date:     69 CE
+language: Greek (Koiné)
+found:    Kynopolis (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Kynopolis (?) (69 CE)
+# hgv-keywords: Siglen
+tm:       23919
+source:   https://papyri.info/ddbdp/p.louvre;1;74
+lat:      28.479495
+lon:      30.782897
+
+[GREEK]
+r.1    ἔτους πρώτου Αὐτοκρά[τορος ] …
+r.2    Καίσαρος Σεβαστοῦ, Φαμενὼθ λ …
+r.3    χρυσι- … Πετε- …
+
+[TRANSLATION]
+1     
+2     
+3     

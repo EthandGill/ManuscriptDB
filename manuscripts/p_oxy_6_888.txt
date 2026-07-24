@@ -1,0 +1,42 @@
+[META]
+id:       P.Oxy. 6.888
+label:    P.Oxy. 6.888
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     287 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (287 CE)
+# hgv-keywords: Edikt des Präfekten C. Valerius Pompeianus und Eingabe an einen Exegeten — Vormundschaft über minderjährige Waisen
+tm:       20352
+source:   https://papyri.info/ddbdp/p.oxy;6;888
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Γά[ιος][ Οὐαλέριος Πομπη]ιανὸς ὁ διαση[μό]τατος ἔπαρχος Αἰγύπτου λέγει·
+r.2    οἷς [ἐὰν μὴ πεποιημένοι ὦσ]ιν κηδεμόνες ὀρ[φαν]οῖς οἱ τοῦ χειροτονεῖν κύριοι καθ[εστῶτες]
+r.3    ἐν … [ ποι]είσθωσαν τοὺς καθʼ [ἡλ]ικίαν κηδεμόνας· οὕτω γὰρ συμβήσεται τῆς π[ροσ]ηκ[ούσης ἐπιμελείας τ]υγχάνειν, ὡς νῦν γε [π]ολλὰ τῶν ὀρφανικῶν πραγμάτων τῶν ἐπὶ το[ῖς]
+r.4    κη[δεμόσιν ὄντων ἀνα]βολῆς τυγ χάνειν διὰ τὸ μὴ παρεῖναι τοῖς ὀρφανοῖς ἐπιτρόπους ἤτοι
+r.5    κου[ράτορας. ἔτους] δ καὶ γ ἔτους τῶν κυρίων ἡμῶν Διοκλητιανοῦ καὶ Μαξιμιανοῦ Σεβαστῶν
+r.6    Φα[ῶφι ] … [ προετέθη ἐν Ὀξυ]ρύγχων τῷ αὐτῷ μην[ὶ] Φαῶφι κζ.
+r.7    … [ ἐ]νάρχῳ ἐξηγητῇ Ὀξυρυγ[χίτου κ]αὶ Μικρᾶς Ὀάσεως βουλευτῇ τῆς λαμπρᾶς καὶ λαμπροτάτης Ὀξυρύγ[χιτῶν][ πόλεως ] …
+r.8    [παρὰ ] … [ κα]ὶ Ἀπολλωνίας ἀμφοτ[έ]ρων Ὠριγένους μητρὸς Θαήσιος ἀπὸ τῆς λαμπρᾶς καὶ λαμπροτάτης
+r.9    [Ὀξυρυγχιτῶν πόλεως. τυχόντες τῆς κ]ηδεμονίας τῶν ἀφηλίκων ἀδελφιδῶν ἡμῶν, τέκνων τῆς μετηλλαχυ[ίας ] … [ Ὠριγ]ένους ἀπ[ὸ] τῆς
+r.10   [αὐτῆς πόλεως ] …
+
+[TRANSLATION]
+# HGV-EN: Proclamation of his excellency Flavius Valerius Pompeianus, praefect of Egypt. Orphans for whom no guardians have been assigned shall have guardians in accordance with their age created for them by those competent to make the appointment ...; for it will thus result that they receive proper attention, whereas at present much business concerning orphans and depending upon their guardians is delayed because the orphans are unattended by tutores or curatores. The 4th which = the 3rd year of our lords the Augusti Diocletianus and Maximianus, Phaophi... Published in Oxyrhynchus on the 247th of the same month Phaophi. To ..., exegetes in office of the Oxyrhynchite nome and the Small Oasis, senator of the illustrious and most illustrious city of Oxyrhynchus, from ... and Apollonia, both children of Origenes and Thaësis, of the illustrious and most illustrious city of Oxyrhynchus. We were given the guardianship of our nephews (or nieces), the children of our dead sister ... daughter of Origenes, of the said city...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

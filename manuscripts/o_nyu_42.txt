@@ -1,0 +1,24 @@
+[META]
+id:       O.NYU 42
+label:    O.NYU 42
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     8 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (8 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869446
+source:   https://papyri.info/ddbdp/o.nyu;;42
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λζΦαμενωθ κα τέτακται ταριχευτ- τοῦ αὐτοῦ ἔτους
+r.2    Ἅρπβηκις Σισόιτος δεκαοκτὼ ὀβολοὺς [δύο], γίνονται ιη διώβολον. Καμ.
+
+[TRANSLATION]
+1     
+2     

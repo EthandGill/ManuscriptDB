@@ -1,0 +1,26 @@
+[META]
+id:       P.Oxy. 78.5165
+label:    P.Oxy. 78.5165
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     24 BCE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (24 BCE)
+# hgv-keywords: Anweisung — Mikkalos an Apollophanes (Bankier) — Auszahlung von Geld
+tm:       170049
+source:   https://papyri.info/ddbdp/p.oxy;78;5165
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Μίκκαλος ὁ πα[ρ’ Ἀ]σκληπιάδῃ Ἀπολλοφάνει τραπεζίτῃ χαίρειν. χρημάτισον Μύρμηκι
+r.2    ἀφ’ οὗ ἔχεις μου ἐπιστάλματος ἀργυρίου τριακοσίας,
+r.3    γίνονται δραχμαὶ τ. ἔτους ϛ Καίσαρος, Μεχειρ β.
+
+[TRANSLATION]
+1     
+2     
+3     

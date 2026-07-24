@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.446
+label:    O.BODL 2.446
+name:     Receipt — Theben
+genre:    receipts
+date:     176 CE – 225 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (176 CE – 225 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71147
+source:   https://papyri.info/ddbdp/o.bodl;2;446
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἐπεὶφ ιζ τοῦ ϛ ἔτους ὀνόματος Διοσκόρου
+r.2    Πανίσκου Ἁτρείους ὑπὲρ ἐπικεφαλαίου ϛ ἔτους Χάρακος
+r.3    δραχμὰς τέσσαρας γίνονται δραχμαὶ δ. Πανίσκος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     

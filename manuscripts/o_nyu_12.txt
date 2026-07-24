@@ -1,0 +1,28 @@
+[META]
+id:       O.NYU 12
+label:    O.NYU 12
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     1 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (1 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869417
+source:   https://papyri.info/ddbdp/o.nyu;;12
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λα Χοιαχ κ τέτακται τέλους
+r.2    ταριχευτ- τοῦ αὐτοῦ ἔτους Ἅρπηκις Σισόιτος
+r.3    ἀργυρίου δραχμὰς δέκα μίαν, γίνονται ια. Πίσηχθις.
+
+[TRANSLATION]
+# HGV-EN: Year 31, Choiach 20, has paid for tax on tarich(eut- ) of the same year, Harpekis son of Sisois, eleven drachmas of silver, that is 11 dr. Pise(chthis ?)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     

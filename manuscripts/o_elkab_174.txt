@@ -1,0 +1,28 @@
+[META]
+id:       O.ELKAB 174
+label:    O.ELKAB 174
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     125 CE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (125 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24588
+source:   https://papyri.info/ddbdp/o.elkab;;174
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    Πεκῦσις Ψεμονχήους
+r.2    λαογραφίας θ ἔτους Ἁδριαν[οῦ]
+r.3    Καίσαρος τοῦ κυρίου δραχμὰς δ.
+r.4    ἔτους θ Φαρμοῦθι β.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

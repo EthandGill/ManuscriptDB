@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 6.890
+label:    P.Oxy. 6.890
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     234 CE – 238 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (234 CE – 238 CE)
+# hgv-keywords: Brief (amtlich) — der Prytane Lukios Septimios Aurelios Sarapion alias Apolinarios an den Strategen Aurelius Leonides — Namen von Leuten mit Schulden (Steuern)
+tm:       20353
+source:   https://papyri.info/ddbdp/p.oxy;6;890
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Λούκιος Σεπτίμιος Αὐρήλιος
+r.2    Σαραπίων ὁ καὶ Ἀπολινάριος καὶ ὡς
+r.3    χρηματίζω ἔναρχος πρύτανις τῆς
+r.4    Ὀξυρυγχειτῶν πόλεως Αὐρηλίῳ
+r.5    Λεωνίδῃ στρατηγῷ τῶι φιλτάτωι χαίρειν.
+r.6    τοὺς ἀπαιτεῖσ[θα]ι μέλλοντας ἀφʼ ὧν
+r.7    [ὀ]φ[είλ]ουσι τῇ π[όλει] χωρούντων
+r.8    [εἰς δι]αγραφὴν τῶν ἐκ λόγου τῆς
+r.9    [πόλε]ως διαγραφομένων καὶ νῦν
+r.10   [γράφομέν] σοι πρὸς τὸ μὴ ἐμποδί[ζεσθαι τὴ]ν εἴσπραξιν τοῦ ἱερωτάτου
+r.11   [ταμείου]. εἰσὶ δὲ Αὐρήλιοι
+r.12   … [ καὶ Ἀ]πολλώνιος καὶ Δομιτ τια[νὸς, οἱ τρεῖς Σ]αραπίωνος τοῦ καὶ
+r.13   … [ ἀγορ]ανομήσαντος, δραχμὰς υ,
+r.14   … [ Ἡρ]ακλᾶς ὀνόματος
+r.15   … ατ …
+
+[TRANSLATION]
+# HGV-EN: Lucius Septimius Aurelius Sarapion also called Apolinarius, and however I am styled, prytanis in office of Oxyrhynchus, to his dearest Aurelius Leonides, strategus, greeting. A written list of those from whom are to be exacted the sums which they owe to the city, and which are to be used in payment of moneys payable from the account of the city, is hereby given you in order that there may be no hindrance in collecting the revenues of the most sacred Treasury. They are Aurelius..., Aurelius Apollonius, and Aurelius Domitianus, all three sons of Sarapion also called ..., ex-agoranomus, 400 drachmae ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

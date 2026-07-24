@@ -1,0 +1,30 @@
+[META]
+id:       O.HEID 236
+label:    O.HEID 236
+name:     Receipt — Elephantine (?)
+genre:    receipts
+date:     172 CE
+language: Greek (Koiné)
+found:    Elephantine (?)
+held:     
+shelf:    
+content:  Receipt from Elephantine (?) (172 CE)
+# hgv-keywords: Quittung — Steuer (Weizen, Geld)
+tm:       80455
+source:   https://papyri.info/ddbdp/o.heid;;236
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    ιβ ἔτους Παχὼν κ.
+r.2    διέγραψεν Πετορζμῆθις Παχνούβιος
+r.3    πορευωνις η ἔτους διὰ τοῦ αὐτοῦ
+r.4    πυροῦ ἀρτάβας σλϛ δραχμὰς εἴκοσι πέντε
+r.5    χαλκίνην, γίνονται δραχμαὶ κε χαλκίνη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

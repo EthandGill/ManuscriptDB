@@ -1,0 +1,24 @@
+[META]
+id:       O.BERENIKE 3.288
+label:    O.BERENIKE 3.288
+name:     Receipt — Berenike
+genre:    receipts
+date:     51 CE – 100 CE
+language: Greek (Koiné)
+found:    Berenike
+held:     
+shelf:    
+content:  Receipt from Berenike (51 CE – 100 CE)
+# hgv-keywords: Quittung — Wasser — Dekania
+tm:       641776
+source:   https://papyri.info/ddbdp/o.berenike;3;288
+lat:      29.5306345642
+lon:      34.999966317
+
+[GREEK]
+r.1    δεκανίας Πακοῖβις Κατοίτου
+r.2    … φρις Ἀτακεος πτολεμαικὰ γίνεται μα
+
+[TRANSLATION]
+1     
+2     

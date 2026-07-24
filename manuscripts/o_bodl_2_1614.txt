@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1614
+label:    O.BODL 2.1614
+name:     Receipt — Theben
+genre:    receipts
+date:     222 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (222 CE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       72297
+source:   https://papyri.info/ddbdp/o.bodl;2;1614
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος α ἔτους Μάρκου Αὐρηλίου
+r.2    Σεουήρου Ἀλεξάνδρου Καίσαρος τοῦ κυρίου
+r.3    Μεσορὴ κ ὑπὲρ Χάρακος ὀνόματος Ἐσμίνιος Ἑριέως πυροῦ ἀρτάβη α 𐅵 η
+r.4    καὶ ὑπὲρ Νήσων ὀνόματος τοῦ αὐτοῦ πυροῦ ἀρτάβης 𐅵 καὶ ὑπὲρ Νότου ὀνόματος τοῦ αὐτοῦ
+r.5    πυροῦ ἀρτάβης ϛ κδ γίνονται πυροῦ ἀρτάβαι β γ. Αὐρήλιος Φιλ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

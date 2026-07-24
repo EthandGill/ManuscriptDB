@@ -1,0 +1,26 @@
+[META]
+id:       O.THEB.TAXES 1.33
+label:    O.THEB.TAXES 1.33
+name:     Receipt — Theben
+genre:    receipts
+date:     300 BCE – 201 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (300 BCE – 201 BCE)
+# hgv-keywords: Quittung — Steuer (Salzsteuer?)
+tm:       69698
+source:   https://papyri.info/ddbdp/o.theb.taxes;1;33
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    … Ἀθὺρ ι
+r.2    τ … σσ … τιρασ
+r.3    Σομμ … ντ τριώβολον
+
+[TRANSLATION]
+1     
+2     
+3     

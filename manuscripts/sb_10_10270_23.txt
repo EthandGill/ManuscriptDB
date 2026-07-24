@@ -1,0 +1,26 @@
+[META]
+id:       SB 10.10270_23
+label:    SB 10.10270_23
+name:     Receipt — Edfa (bei Panopolis)
+genre:    receipts
+date:     223 CE
+language: Greek (Koiné)
+found:    Edfa (bei Panopolis)
+held:     
+shelf:    
+content:  Receipt from Edfa (bei Panopolis) (223 CE)
+# hgv-keywords: Quittung — Hühner
+tm:       16715
+source:   https://papyri.info/ddbdp/sb;10;10270_23
+lat:      26.5648875
+lon:      31.7451755
+
+[GREEK]
+r.1    Αὐρήλιος Ὀσῆτος ὀρν[ι]θοτρόφοῦ μητροπόλεως ἔσχον
+r.2    παρὰ Ἁρομήφιος ὀρνιθοτρόφου Ἴτου τοκάδας δέκα
+r.3    ἔτους β Ἐπεὶφ …
+
+[TRANSLATION]
+1     
+2     
+3     

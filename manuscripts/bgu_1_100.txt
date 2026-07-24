@@ -1,0 +1,36 @@
+[META]
+id:       BGU 1.100
+label:    BGU 1.100
+name:     Contract — Arsinoites
+genre:    contracts
+date:     159 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Contract from Arsinoites (159 CE)
+# hgv-keywords: Vertrag — Kauf — Kamel
+tm:       8875
+source:   https://papyri.info/ddbdp/bgu;1;100
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Κόμων Μουσαίου τοῦ Ἡρακλείτου
+r.2    Πεκύσι Ὥρου χαίρειν. ὁμολογῶ πεπρακέναι σοι κάμηλον θήλειαν δευτερόβολον πυρρὰν κεχαραγμένο[ν]
+r.3    δεξιῷ, σιαγόνι ταύτην τοιαύτην
+r.4    ἀναπόριφον, καὶ ἀπέχω τὴν συ[ν]πεφωνημένην τιμὴν ἀργυρ[ί]ου δραχμὰς ἑπτακοσίας ὀγδοήκο[ν]τα καὶ βεβαιώσω πάσῃ βεβαιώσει.
+r.5    ἔτους δευτέρου καὶ εἰκοστοῦ
+r.6    Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.7    Τῦβι η.
+
+[TRANSLATION]
+# HGV-EN: Komon, son of Mousaios, the son of Herakleitos to Pekysis, son of Horos, greetings. I acknowledge that I have sold to you a female camel with its second change of teeth, reddish, branded on its right jaw, on the spot, just as it is, unreturnable, and I have received the price agreed upon of seven hundred and eighty silver drachmas and I shall guarantee with every guarantee. Year twenty two of Antoninus Caesar, the lord, Tybi 8.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

@@ -1,0 +1,32 @@
+[META]
+id:       O.PETR.MUS 208
+label:    O.PETR.MUS 208
+name:     Receipt — Theben
+genre:    receipts
+date:     17 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (17 CE)
+# hgv-keywords: Quittung — Steuer (Badesteuer) — Weizen
+tm:       75373
+source:   https://papyri.info/ddbdp/o.petr.mus;;208
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Μεσοῆρις Ἀμμωνίου
+r.2    καὶ μέτοχοι Παέρει Πετεμ … ν
+r.3    χαίρειν ἀπέχομεν παρὰ σοῦ φόρου
+r.4    βαλανείου πυροῦ ἀρτάβης κδ ἔτους γ Τιβερίου
+r.5    Καίσαρος Σεβαστοῦ
+r.6    Μεσορὴ ιγ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

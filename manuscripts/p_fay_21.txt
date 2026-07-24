@@ -1,0 +1,54 @@
+[META]
+id:       P.Fay. 21
+label:    P.Fay. 21
+name:     Receipt — Theadelphia (Arsinoites)
+genre:    receipts
+date:     134 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Theadelphia (Arsinoites) (134 CE)
+# hgv-keywords: Edikt des Präfekten Marcus Petronius Mamertinus — Ausstellung von Quittungen für jede Art von Leistung oder Zahlung
+tm:       10801
+source:   https://papyri.info/ddbdp/p.fay;;21
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    Μάρκος Πετρώνιος Μαμερτῖνος
+r.2    ἔπαρχος Αἰγύπτου λ[έ]γει·
+r.3    πρότερον μὲν ἀποχὰς ἀλλήλοις
+r.4    παρέχειν ἐκέλευσα π[ε]ρὶ τῶν ἐνγράφων διὰ τὰς ἀμφισβητήσεις
+r.5    τὰς ἐπʼ ἐμοῦ περὶ τούτων γενομένας, νυνὶ δὲ συνλήβδ[ην π]ερ[ὶ πάν]των ὁπωσοῦν διδομένων
+r.6    ἢ λογιζομένων εἰς τὸ δημόσιον εἴτʼ ἐν γένεσιν εἴτʼ ἐν ἀργυρίῳ εἴτʼ ἐν σωματικαῖς ἐργασίαις ἢ ἄλλῳ ὁτῳδήτινι
+r.7    τρόπῳ κελεύω παρέχειν ἀλλήλ[οις]
+r.8    ἀποχὰς τούς τε διδόντας καὶ τοὺς λαμβάν[ο]ντας, ἐπεξελευσόμενος ἐάν
+r.9    τις ἄλλα παρὰ ταῦτα ποιήσῃ. ἐπ[ε]ὶ
+r.10   δὲ καὶ τοῦτό τινες ἐμέμψαντο
+r.11   ὡς αὐτοὶ μὲν τὰ βιβλία προσφέροντες ο[ἷ]ς ὀφείλουσιν, ἐκείνους δὲ μὴ
+r.12   βουλομένους παρʼ αὐτῶν λαμβάνειν ἵνα τὴν παρολκὴν ἐξωνήσωνται τῷ τοῦ προστίμου φόβῳ,
+r.13   δυνήσονται μαρτυρίαν … ποιήσασθαι
+r.14   περὶ τῶν μὴ προσιεμένων οἱ μὴ διδόν[τε]ς [ὅπ]ως τῆς ἀπειθίας ἐκεῖνοι τὴν
+r.15   προσήκουσαν δίκη[ν ὑ]πόσχωσι.
+r.16   ἔτους ιη Αὐτοκράτορος Καίσαρος Τραιανοῦ Ἁδριανοῦ Σεβαστοῦ, Φαμενὼθ κϛ.
+
+[TRANSLATION]
+# HGV-EN: Proclamation of Marcus Petronius Mamertinus, praefect of Egypt. In a previous edict I commanded that receipts should be mutually given with reference to debts secured by documents, on account of the disputes concerning them which had occurred during my office. I now give orders generally with regard to all payments to the government made in any manner either actual or by credit, whether in kind or in money or in bodily labour or any other way whatsoever, that payer and payee shall mutually give receipts; and I will punish any one who acts in any other manner than that hereby directed. Since moreover the complaint has been made by debtors that though they present their accounts to their creditors, the latter are unwilling to accept payment from them in order that they may be induced by the fear of incurring penalties to buy off the delay, those who are thus prevented from paying shall be allowed to give evidence concerning the refusal to give up the bond, so that the creditors may pay the fitting penalty for their disobedience. Date.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

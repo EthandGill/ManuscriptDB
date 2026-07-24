@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.76
+label:    O.ONT.MUS 2.76
+name:     Receipt — Theben
+genre:    receipts
+date:     195 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (195 BCE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75093
+source:   https://papyri.info/ddbdp/o.ont.mus;2;76
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ι Παχὼν
+r.2    β τέτακται …
+r.3    δραχμὰς εἴκ[ο]σι …
+r.4    … ιλοκτ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

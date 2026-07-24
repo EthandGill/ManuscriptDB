@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.926
+label:    O.BODL 2.926
+name:     Receipt — Theben
+genre:    receipts
+date:     192 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (192 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71616
+source:   https://papyri.info/ddbdp/o.bodl;2;926
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θὼθ ζ τοῦ λγ ἔτους ὀνόματος
+r.2    Σενπετεμενώφιος Φθουμίνιος
+r.3    ὑπὲρ γεωμετρίας λβ ἔτους Χάρακος δραχμὰς δύο πεντώβολον
+r.4    γίνονται δραχμαὶ β πεντώβολον. Αμ σεσημείωμαι. ἄλλο Θὼθ ι ὁμοίως
+r.5    τριώβολον γίνονται τριώβολον. Αμ σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

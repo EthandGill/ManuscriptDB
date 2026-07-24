@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 12.1471
+label:    P.Oxy. 12.1471
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     81 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (81 CE)
+# hgv-keywords: Vertrag (Darlehen) — Geld — Zins — Strafe bei Versäumnis
+tm:       21872
+source:   https://papyri.info/ddbdp/p.oxy;12;1471
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ώ[ρ]ι[ο]ς
+r.2    λεως
+r.3    γείνου
+r.4    χμὰς
+r.5    χμιαίων
+r.6    μην
+r.7    σαι
+r.8    σους,
+r.9    [τ]ων
+
+[TRANSLATION]
+# HGV-EN: Debt: sheet [.]3. To Pallas, priest, archidicastes, and superintendent of the chrematistae and the other courts, from M. Longinus Castresius, an honourably discharged veteran, and from Teteoris daughter of P ..., Persian, with her guardian, her son ..., both inhabitants of the metropolis of the Oxyrhynchite nome, Teteoris acknowledges that she has received from M. Longinus Castresius from hand to hand a loan of 38 drachmae of Imperial silver coin at the interest of 1 drachma per mina each month, which she is to pay regularly to M. Longinus Castresius, and is bound to return the capital in four months from Tubi of the present 1st year of the Emperor Caesar Domitianus Augustus without any delay; otherwise she is liable to arrest and detention until she pays in full to M. Longinus Castresius forthwith the loan of 38 drachmae of silver increased by one half, and the interest, and the interest for overtime at the same rate, M. Longinus Castresius having the right of execution upon both Teteoris and all her property, as if by a legal decision.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

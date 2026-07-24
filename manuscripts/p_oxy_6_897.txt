@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 6.897
+label:    P.Oxy. 6.897
+name:     Documentary papyrus — Iseion Zapitu (Oxyrhynchites)
+genre:    documents
+date:     346 CE
+language: Greek (Koiné)
+found:    Iseion Zapitu (Oxyrhynchites)
+held:     
+shelf:    
+content:  Documentary papyrus from Iseion Zapitu (Oxyrhynchites) (346 CE)
+# hgv-keywords: Erklärung an Riparii — Eid — Gestellung eines Gesuchten ist nicht möglich
+tm:       20360
+source:   https://papyri.info/ddbdp/p.oxy;6;897
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    ὑπατείας τῶν δεσποτῶν ἡμῶν Κωνσταντίου
+r.2    τὸ δ καὶ Κώνσταντος τὸ γ Αὐγούστων.
+r.3    Φλαουίοις Εὐλογίῳ καὶ Διονυσαρίῳ ῥιπαρίοις Ὀξυρυγχίτου
+r.4    παρὰ Αὐρηλίων Ἀμόιτος Ὥρου καὶ Πατάπιος
+r.5    Παησίου καὶ Σαρμάτου πρεσβυτέρου καὶ Παπνουτίου
+r.6    Παησίου τῶν πάντων ἀπὸ κώμης Ἴστρου
+r.7    ζ πάγου. ἐπέθετο ἡμῖν ἡ ὑμῶν ἐμμέλεια
+r.8    ὥστε Χωοῦν Ἡρακλήου ὑποβληθέντα εἶναι ἀπὸ τῆς ἡμετέρας κώμης ἀναζητῆσαι καὶ παραστῆσαι. κατὰ ταῦτα
+r.9    ὁμολογοῦμεν ὀμνύντες τὸν σεβάσμιον
+r.10   θεῖον ὅρκον τῶν δεσποτῶν ἡμῶν Αὐγούστων
+r.11   [μ]ήτε τὸν Χωοῦν ἔτι εἶναι ἐπὶ τῆς
+r.12   [ἡμῶν κ]ώμης μήτε εἰδέναι ἡμᾶς
+r.13   [ὅπου πο]τέ ἐστιν, καὶ μηδὲν διεψεῦ[σ]θαι [ἢ ἔν]οχοι εἴ[ημεν τῷ] θε[ί]ῳ ὅρκῳ
+
+[TRANSLATION]
+# HGV-EN: In the consulship of our masters Constantius for the fourth time and Constans for the third time, the Augusti. To Flavius Eulogius and Flavius Dionysarius, riparii of the Oxyrhynchite nome, from Aurelius Amois son of Horus, and Aurelius Patapis son of Paësius, and Aurelius Sarmates the elder, and Aurelius Papnutius son of Paësius, all from the village of Ision Zapitou. Your grace required us to search out and produce Choous son of Heracleus, supposed to belong to our village. We therefore declare on the august divine oath by our masters the Augusti that Choous is no longer at our village, and that we do not know where he is, and that we have made no false statement, under pain of becoming liable to the consequences of the divine oath...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

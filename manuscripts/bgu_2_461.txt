@@ -1,0 +1,32 @@
+[META]
+id:       BGU 2.461
+label:    BGU 2.461
+name:     Receipt — Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     167 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Soknopaiu Nesos (Arsinoites) (167 CE)
+# hgv-keywords: Quittung — Steuern — Kamele
+tm:       9189
+source:   https://papyri.info/ddbdp/bgu;2;461
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἔτου[ς] ζ Ἀντωνίνου καὶ Οὐήρου τῶ[ν κυρί]ων Σεβαστῶν
+r.2    Ἀρμενιακῶν Μηδικῶν Παρθικῶ[ν] Μεγίστων
+r.3    Μεσ[ορὴ] [ἐπα]γομένων ε, ἀριθμήσεως Παχώ[ν, Πα]ῦνι. διέγραψε Στοτοῆτις
+r.4    πρεσβύτερος Στοτοήτεω[ς] τελεσμάτων καμήλων [Σοκν]οπαίου Νήσου ζ ἔτους δραχμὰς ἑκατόν
+r.5    γίνονται δραχμαὶ ρ προσδιαγραφόμενα ϛ ὀβολὸς ἡμιωβέλιον συμβολικοῦ ὀβολὸς ἡμιωβέλιον
+
+[TRANSLATION]
+# HGV-EN: Year 7 of Antoninus and Verus, the lords Augusti Armeniaci Medici Parthici Maximi, Mes[ore], intercalary day 5. For the reckoning of Pacho[n (and) Pa]yni. Stotoetis, the elder, son of Stotoetis, paid for the tax on camels of [Sok]nopaiou Nesos of year 7 100 drachmas, = 100 drachmas, for extra charges 6 (drachmas) 1 1/2 obols, for the receipt charge 1 1/2 obols.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

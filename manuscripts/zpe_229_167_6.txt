@@ -1,0 +1,34 @@
+[META]
+id:       ZPE 229.167_6
+label:    ZPE 229.167_6
+name:     Contract — Arsinoites
+genre:    contracts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     London
+shelf:    
+content:  Contract from Arsinoites (1 CE – 100 CE)
+# hgv-keywords: Verkauf — Esel
+tm:       998564
+source:   https://papyri.info/ddbdp/zpe;229;167_6
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Διονύσιος Ἡλιοδώρ[ου] …
+r.2    Τεσενούφιος χαίρειν. [ὁμολογῶ πε]πρακέναι σοι τὴν ὑπά[ρχουσάν μοι]
+r.3    ὄνον θήλειαν λευκόχρ[ουν σὺν τῷ]
+r.4    ἐπακολουθοῦντι π[ώλῳ] …χρῳ τούτ[ους] τοιο[ύτους] [ἀνα]πορρίφους καὶ ἀπέχ[ειν τὴν]
+r.5    [τ]ιμὴν πᾶσαν ἐκ πλ[ήρους]
+r.6    … αια …
+
+[TRANSLATION]
+# HGV-EN: Dionysios, son of Heliodoros, to ..., (child) of Tesenouphis. I acknowledge that I have sold to you the white-coloured female donkey that belongs to me, with the ...-coloured foal following, just as they are, not to be rejected, and I have received the whole price in full ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

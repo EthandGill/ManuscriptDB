@@ -1,0 +1,24 @@
+[META]
+id:       P.HIB 1.125
+label:    P.HIB 1.125
+name:     Contract — Oxyrhynchites
+genre:    contracts
+date:     250 BCE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Contract from Oxyrhynchites (250 BCE)
+# hgv-keywords: Schluß — Vertrag — Darlehen — Zenodoros an Menonides
+tm:       8253
+source:   https://papyri.info/ddbdp/p.hib;1;125
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    δραχμαὶ μδ
+r.2    Μενωνίδου ἀρτάβαι λα [δ.]
+
+[TRANSLATION]
+1     
+2     

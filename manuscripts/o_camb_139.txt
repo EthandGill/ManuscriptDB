@@ -1,0 +1,26 @@
+[META]
+id:       O.CAMB 139
+label:    O.CAMB 139
+name:     Receipt — Theben
+genre:    receipts
+date:     36 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (36 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       73599
+source:   https://papyri.info/ddbdp/o.camb;;139
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Διαγέγραφε Σενφθουμώνθης Ψενχώνσιος ὑπὲρ φοινικώνων
+r.2    κβ ἔτους δ ξδ δραχμὰς ε ὀβολὸν ἡμιωβέλιον καὶ προσδιαγραφόμενα ἐξ ὀβολοῦ 1 12. ἔτους κγ
+r.3    Τιβερίου Καίσαρος Σεβαστοῦ Νέου Σεβαστοῦ κγ. Πετεμενῶφις Πικῶτος.
+
+[TRANSLATION]
+1     
+2     
+3     

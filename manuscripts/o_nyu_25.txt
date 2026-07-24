@@ -1,0 +1,30 @@
+[META]
+id:       O.NYU 25
+label:    O.NYU 25
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     3 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (3 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869440
+source:   https://papyri.info/ddbdp/o.nyu;;25
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λγ Ἁθυρ κβ
+r.2    τέλους ταριχευτ- λβ ἔτους
+r.3    Ἅρπηκις Σισόιτος
+r.4    δραχμὰς ἑπτὰ ὀβολοὺς δύο, γίνονται ζ διώβολον. Πίσηχθις.
+
+[TRANSLATION]
+# HGV-EN: Year 33 (?) of Hathyr 22, for tax on tarich(eut- ) of the 32nd (?) year, Harpekis son of Sisois, seven drachmas two obols, that is, 7 ⟨dr.⟩ 2 ob. Pise(chthis ?).
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

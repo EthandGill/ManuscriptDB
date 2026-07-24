@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.660
+label:    O.BODL 2.660
+name:     Receipt — Theben
+genre:    receipts
+date:     36 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (36 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       50387
+source:   https://papyri.info/ddbdp/o.bodl;2;660
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεμενῶφις καὶ Ψεναμοῦνις πράκτορες βαλανευτικοῦ
+r.2    Φαῆρει Πετεμενώφιος [χ]αίρειν.
+r.3    ἔχομεν τὸ λοιπὸν τοῦ
+r.4    κβ ἔτους.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

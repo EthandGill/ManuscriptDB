@@ -1,0 +1,32 @@
+[META]
+id:       O.ONT.MUS 1.24
+label:    O.ONT.MUS 1.24
+name:     Receipt — Theben
+genre:    receipts
+date:     132 CE – 134 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (132 CE – 134 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75045
+source:   https://papyri.info/ddbdp/o.ont.mus;1;24
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Κροῦρις καὶ Φατρῆ[ς ἀπαιτηταὶ μερισμοῦ]
+r.2    τελωνικῶν τοῦ ιζ [ἔτους Ἁδριανοῦ τοῦ]
+r.3    κυρίου ὑπὲρ Νότου … ὀνόματος Π …
+r.4    Ψεναμούνιος διὰ Πετεαρ … Φ …
+r.5    κέρματος δραχμὴν μίαν …
+r.6    ἔτους ιη Ἁδριαν[οῦ τοῦ κυρίου ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

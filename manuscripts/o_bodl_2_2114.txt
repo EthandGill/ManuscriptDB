@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.2114
+label:    O.BODL 2.2114
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     301 CE – 500 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (301 CE – 500 CE)
+# hgv-keywords: Anweisung — Lieferung — Getreide
+tm:       72789
+source:   https://papyri.info/ddbdp/o.bodl;2;2114
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    παρὰ τοῦ διαδότου Φίλωνι
+r.2    Ἀναξαγόρου. δὸς Σουροῦτι
+r.3    σίτου μοδίους πέντε
+r.4    ὑπὲρ δεκάτης ἰνδικτίονος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,22 @@
+[META]
+id:       UPZ 1.135
+label:    UPZ 1.135
+name:     Documentary papyrus — Memphis
+genre:    documents
+date:     78 BCE
+language: Greek (Koiné)
+found:    Memphis
+held:     
+shelf:    
+content:  Documentary papyrus from Memphis (78 BCE)
+# hgv-keywords: Vermerk (Registrierung)
+tm:       45997
+source:   https://papyri.info/ddbdp/upz;1;135
+lat:      29.849491
+lon:      31.255061
+
+[GREEK]
+r.1    Πέτρων. ἀναγέγραπται διὰ τοῦ ἐν τῶ[ι Ἀ]νουβιείωι γραφείου ἔτους γ Τῦβι ζ.
+
+[TRANSLATION]
+1     

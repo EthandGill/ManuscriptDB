@@ -1,0 +1,32 @@
+[META]
+id:       CPR 5.1
+label:    CPR 5.1
+name:     Receipt — Oxyrhynchos
+genre:    receipts
+date:     66 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Receipt from Oxyrhynchos (66 CE)
+# hgv-keywords: Quittung — Steuern — Namen
+tm:       16024
+source:   https://papyri.info/ddbdp/cpr;5;1
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    ἔτους ιγ Νέρωνος Κλαυδίου Καίσαρος
+r.2    Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+r.3    μηνὸς Σεβαστοῦ ε. διαγέγραφε διὰ Δωρίωνος καὶ
+r.4    Χαιρήμονος τραπεζιτῶν χωματικοῦ ιβ ἔτους Τεμενούθεως Θέων Θέωνος
+r.5    τοῦ Θέωνος νεωτέρου μητρὸς Ἴσιτος Διογένους
+r.6    δραχμὰς ἓξ τετρώβολον, γίνονται ϛ τετρώβολον
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

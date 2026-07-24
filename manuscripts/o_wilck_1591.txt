@@ -1,0 +1,28 @@
+[META]
+id:       O.Wilck. 1591
+label:    O.Wilck. 1591
+name:     Receipt — Theben
+genre:    receipts
+date:     192 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (192 CE)
+# hgv-keywords: Quittung
+tm:       77885
+source:   https://papyri.info/ddbdp/o.wilck;;1591
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ψενεσο καὶ μέτοχοι ἐπιτηρηταὶ τέλους
+r.2    ἱματιοπωλῶν Ἐσουῆρις Πετ … ἔσχομεν
+r.3    ὑπὲρ ταφῆς α δραχμὰς β. ἔτους κδ
+r.4    Παῦνι κδ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

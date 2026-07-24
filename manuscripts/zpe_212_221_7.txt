@@ -1,0 +1,38 @@
+[META]
+id:       ZPE 212.221_7
+label:    ZPE 212.221_7
+name:     Receipt — Elephantine
+genre:    receipts
+date:     191 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Cairo
+shelf:    
+content:  Receipt from Elephantine (191 CE)
+# hgv-keywords: Quittung — Steuer — Geld — Wachposten — Boot
+tm:       832353
+source:   https://papyri.info/ddbdp/zpe;212;221_7
+lat:      24.0889
+lon:      32.8997
+
+[GREEK]
+r.1    [Π]απίριος Κορνήλιος καὶ Σαραπίων Παλαχήμιος ἀπαιτηταὶ πρακτορείας ἀργυρικῶν Σοήνης δι’ ἐμοῦ Σαραπίωνος Ἱππολύτου βοηθοῦ τοῦ Σαραπίωνος Παλαχήμιος.
+r.2    διέγραψεν Ἀτπεχνοῦβις τοῦ Πατρανσνούφεως μητρὸς Θινατπεχνούβιος ὁ καὶ
+r.3    Παρᾶς ὑπὲρ μερισμῶν λβ ἔτους στατίωνος
+r.4    καὶ πλοίου πραιτωρίου καὶ ποταμοφυλακίδος δραχμὴν μίαν τριώβολον
+r.5    γίνονται δραχμὴ α τριώβολον ἔτους λβ Λουκίου
+r.6    Αἰλίου Αὐρηλίου Κομμόδου
+r.7    Καίσαρος τοῦ κυρίου. Χοιὰκ
+r.8    ϛ
+
+[TRANSLATION]
+# HGV-EN: Papirius Kornelius and Sarapion son of Palachemis, collectors of the tax district of money taxes at Syene, through me Sarapion son of Hippolytos the assistant of Sarapion the son of Palachemis. Atpechnoubis son of Atpechnoubis his grandfather being Patransnouphis, his mother being Thinatpechnoubis, also called Paras, has paid for the contributions of the 32nd year for the guard post, and for the ship of the praetorium, and for the river guard boat, one drachma three obols, the total 1 dr. 3 ob. Year 32 of Lucius Ailius Aurelius Commodus Caesar the lord. Choiak 6.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

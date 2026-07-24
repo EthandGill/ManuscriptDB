@@ -1,0 +1,28 @@
+[META]
+id:       O.BODL 2.1699
+label:    O.BODL 2.1699
+name:     Receipt — Theben
+genre:    receipts
+date:     1 CE – 200 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (1 CE – 200 CE)
+# hgv-keywords: Quittung — Naubion
+tm:       72383
+source:   https://papyri.info/ddbdp/o.bodl;2;1699
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἑριεῦς Φθομώνθου καὶ μέτοχοι χωματεπιμεληταὶ Κόχλακος
+r.2    Καμήτει … Πατώτου Ψενμώνθου. εἴργασαι
+r.3    εἰς χωματικὰ τοῦ θ ἔτους ναυβίου 𐅵 δ.
+r.4    Κρατ σεσημείωμαι 𐅵 δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.736
+label:    O.BODL 2.736
+name:     Receipt — Theben
+genre:    receipts
+date:     184 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (184 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71426
+source:   https://papyri.info/ddbdp/o.bodl;2;736
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀσκλᾶς καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    Παοῦτι Σενπέφιος. ἔσχομεν
+r.3    τὸ βαλανευτικὸν τοῦ κδ ἔτους διώβολον. Μεχεὶρ κα.
+
+[TRANSLATION]
+1     
+2     
+3     

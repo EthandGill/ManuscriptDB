@@ -1,0 +1,30 @@
+[META]
+id:       O.STRAS 1.301
+label:    O.STRAS 1.301
+name:     Receipt — Theben
+genre:    receipts
+date:     153 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (153 BCE)
+# hgv-keywords: Quittung — Steuern — Getreide
+tm:       75894
+source:   https://papyri.info/ddbdp/o.stras;1;301
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κη Ἐπεὶφ ε μεμέτρηκεν κη ἔτους
+r.2    ἐξ ἀντιδιαγραφῆς Διὸς πόλεως Πανεχάτης
+r.3    Πετεμενώφιος πυροῦ ἀρτάβας δ δ γίνονται πυροῦ ἀρτάβαι δ δ.
+r.4    Ψεναμοῦνις … ε … ου πυροῦ ἀρτάβας δ δ γίνονται πυροῦ ἀρτάβαι δ δ.
+r.5    Κρα
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,40 @@
+[META]
+id:       BGU 2.621
+label:    BGU 2.621
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     175 CE – 176 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (175 CE – 176 CE)
+# hgv-keywords: Quittung — Lohn — Getreide
+tm:       9269
+source:   https://papyri.info/ddbdp/bgu;2;621
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    σιτολόγοις Καρανίδος γενήματος θ ἔτους
+r.2    Σαραπίων Ἀχιλλέως τοῦ Ἑρμαΐσκου Σωσικόσμειος ὁ καὶ Ἀλθαιεὺς καὶ
+r.3    … κλας Μέλανος καὶ Μύσθης
+r.4    … υρου τοῦ Ἀπολλωνίου καὶ Πασίων
+r.5    [Ἀκ]ουσιλάου [ο]ἱ δ ὑδροφύλακες Ποιμε[νι]κοῦ ποτά[μου]. ἀπέχομεν καὶ μεμετ[ρ]ήμεθα παρʼ ὑμῶν ἀπὸ γενήματος
+r.6    τοῦ αὐτοῦ θ ἔτους τὰς ἐπισταλείσας ἡμῖν
+r.7    ὑπὸ Ποτάμω[νο]ς στ[ρ]ατηγοῦ καὶ Ἀσκληπιάδου
+r.8    βα[σι]λικοῦ γραμματέως τῆς μερίδος τὸ ὀφει[λ]όμενον [ἡμῖ]ν ὀψώνιον μηνῶν
+r.9    … Μεχὶρ τοῦ θ ἔτους
+
+[TRANSLATION]
+# HGV-EN: To the sitologoi of Karanis for the produce of year 9. We, Sarapion, son of Achilleus, the son of Hermaiskos, of the Sosicomian tribe and the Althaean deme, and [Her]aklas (?), son of Melas and Mysthes, son of [Sa]tyros (?), the son of Apollonios and Pasion, son of [Ak]ousilaos, all 4, water guards of the Poime[ni]kos canal, have received and had measured to us from you from the produce of year 9 the (artabas?) which were ordered (to be given to) us by Potamon, strategos, and Asklepiades, royal scribe of the division, the pay owed to us for the months of [ and] Mecheir of year 9
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

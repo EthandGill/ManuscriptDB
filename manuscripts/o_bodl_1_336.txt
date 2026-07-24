@@ -1,0 +1,24 @@
+[META]
+id:       O.BODL 1.336
+label:    O.BODL 1.336
+name:     Documentary papyrus — Theben (?)
+genre:    documents
+date:     100 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (?) (100 BCE – 1 BCE)
+# hgv-keywords: Abrechnung
+tm:       71055
+source:   https://papyri.info/ddbdp/o.bodl;1;336
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔχω παρʼ Ἀπάθου τε … μεν
+r.2    ἀφʼ ὧν ἔχει μου χαλκοῦ τάλαντα γ Γ.
+
+[TRANSLATION]
+1     
+2     

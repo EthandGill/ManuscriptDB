@@ -1,0 +1,28 @@
+[META]
+id:       O.AMST 65
+label:    O.AMST 65
+name:     Receipt — Theben
+genre:    receipts
+date:     194 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (194 CE)
+# hgv-keywords: Quittung — Spreu
+tm:       70412
+source:   https://papyri.info/ddbdp/o.amst;;65
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁθὺρ ιδ τοῦ γ ἔτους ὀνόματος
+r.2    … Παναμέως Πετεμενώφιος νεωτέρου
+r.3    Ψενχώνσιος γόμου ἕκτον μη, γίνεται γόμου ϛ μη
+r.4    Ἀμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

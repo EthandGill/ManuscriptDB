@@ -1,0 +1,44 @@
+[META]
+id:       BGU 2.421
+label:    BGU 2.421
+name:     Contract — Karanis (Arsinoites, Ägypten)
+genre:    contracts
+date:     160 CE – 161 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites, Ägypten)
+held:     
+shelf:    
+content:  Contract from Karanis (Arsinoites, Ägypten) (160 CE – 161 CE)
+# hgv-keywords: Deklaration — Kamele — für zwei aufeinanderfolgende Jahre wird die Bezeichnung "bestehend" verwandt
+tm:       9161
+source:   https://papyri.info/ddbdp/bgu;2;421
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    [παρ]ὰ Πτολεμα[ίου] … [τοῦ]
+r.2    [Σ]ωκράτους ἀπὸ κώμης Καραν[ίδος.]
+r.3    [οὓς] ἀπεγραψάμην τῷ διεληλυθ[ότι]
+r.4    [κβ ἔτους ἐ]πὶ τῆς κώμης καμήλους ε, πέπρ[α][κα][ τ]ῷ ἐνεστῶτι κγ ἔτει μηνὶ Τῦβι Φαν[ομ][γεῖ Φα]νομγέω[ς] τοῦ Φανομγέως [ἀπὸ κώμης]
+r.5    [Κα]ρανίδος κάμ[ηλον α], τοὺς δὲ
+r.6    [λοιπ]οὺς καμήλους δ ἀπογράφο[μαι εἰς]
+r.7    [τὴν] τοῦ ἐνεστῶτος τρίτου καὶ εἰ[κοσ][τοῦ ἔ]τους Αὐτοκράτορος Καίσαρος [Τίτου]
+r.8    [Αἰ]λίου Ἁδριανοῦ Ἀντωνείνου [Σεβασ][τοῦ Εὐ]σεβοῦς [ἀπογραφὴν] σὺν τοῖς ἐξ ἐπ[ιγονῆς πώλοις] …
+r.9    … ων ἄλλων.
+r.10   … η προανειλημ[μένη ] …
+r.11   … κεφαλαίων τοῖς … [τοῦ ἐν][εσ]τῶτος τετάρτου [καὶ εἰκοστοῦ ἔτους]
+
+[TRANSLATION]
+# HGV-EN: from Ptolema[ios, son of NN, the son of S]okrates, from the village of Karan[is], [of the] 5 camels], which I registered in the past [22nd year] in the village, I sold in the present 23rd year in the month of Tybi to Phan[omgeus, son of Pha]nomgeus, the son of Phanomgeus, [from the village of Ka]ranis [1] camel, the remaining 4 camels I register for the of the present twenty third year of Imperator Caesar [Titus Ae]lius Hadrianus Antoninus [Augustus] Pius, along with the from the lineage . [– – – the] above listed [registration][ – – –] of the present [twenty] fourth [year]– – –
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

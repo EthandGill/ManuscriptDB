@@ -1,0 +1,30 @@
+[META]
+id:       O.FRANGE 194
+label:    O.FRANGE 194
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     701 CE – 750 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Documentary papyrus from Theben (701 CE – 750 CE)
+# hgv-keywords: Lettre — Forgeron — Archives de Frangé
+tm:       141116
+source:   https://papyri.info/ddbdp/o.frange;;194
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ⲁⲣⲓ ⲧἀγάπη
+r.2    ⲡⲁⲥⲟⲛ ⲡⲉϭⲱϣ
+r.3    ⲛⲅϯ ⲧⲉπλάξ
+r.4    ⲟⲩϫⲁⲓ ϩⲙ
+r.5    ⲡϫⲟⲉⲓⲥ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

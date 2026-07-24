@@ -1,0 +1,54 @@
+[META]
+id:       BGU 2.373
+label:    BGU 2.373
+name:     Contract — Arsinoites, Ägypten
+genre:    contracts
+date:     298 CE
+language: Greek (Koiné)
+found:    Arsinoites, Ägypten
+held:     
+shelf:    
+content:  Contract from Arsinoites, Ägypten (298 CE)
+# hgv-keywords: Vertrag — Kauf — Esel
+tm:       9140
+source:   https://papyri.info/ddbdp/bgu;2;373
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ὁμ[ολ]ογεῖ Αὐρήλιος
+r.2    Ἡλιόδωρος Διδίμου μητρὸς
+r.3    Ἀλιλλῆ[ς] ἀπὸ ἀμφόδου Βιθυνῶν ἄλλων τόπων πεπρακέναι Αὐρηλίῳ Ἁτρῇ Ἀβὸχ
+r.4    μητρὸς Θερμούθιο[ς] ἀπὸ κώμης
+r.5    Ἀρσινόης ὄνον πῶλον μικρὸν
+r.6    μέλανα τιμῆς τῆς συμπεφωνημένης πρὸς ἀλλήλους ἀργυρίου
+r.7    δραχμῶν τετρακισχιλίων,
+r.8    ἥνπερ [τι]μὴν ἀπ[έ]σχεν ὁ πεπρακὼς [πα]ρὰ τοῦ πρ[ι]αμένου
+r.9    πλήρης [διὰ] χειρὸς τ[ο]ῦτον τοιοῦτον ἀναπόρριφον. ἡ πρᾶσις
+r.10   κυρία καὶ ἐπερωτηθεὶς ὡμολόγησεν.
+r.11   ἔτους ιε καὶ ιδ καὶ ζ τῶν κυρίων ἡμῶν Διοκλητιανοῦ
+r.12   καὶ Μαξιμιανοῦ Σεβαστῶν καὶ Κωνσταντίου
+r.13   καὶ Μαξιμιανοῦ τῶν ἐπιφανεστάτων Καισάρων
+r.14   Θὼθ θ. Αὐρήλιος Κολλᾶς πέπέπρακα καὶ ἔσχον τὴν τιμὴν
+r.15   πλήρης ὡς πρόκιται. Αὐρήλιος
+r.16   Ἥρων ἔγραψα ὑπὲρ α[ὐτο]ῦ ἀγραμ[μάτου].
+
+[TRANSLATION]
+# HGV-EN: Aurelios Heliodoros, son of Didymos, mother Alille, from the quarter of the Bithynians and other areas, acknowledges that he has sold to Aurelios Hatres, son of Aboch, mother Thermouthis, from the village of Arsinoe, a small, black donkey foal for the prices agreed upon between them of [x] silver drachmas, which the seller has received in full from hand to hand, on the spot, just as it is, unreturnable. The sale is normative and in answer to the formal question I gave my assent. (m. 2 ?) Year 15 and 14 and 7 of our lords Diocletianus and Maximianus, Augusti, and Constantius and Maximianus, nobilissimi Caesares, Thoth 9. (m. 3) I, Aurelios Kollas, have sold and received the price in full, as aforesaid. I, Aurelios Heron, wrote on his behalf, because he is illiterate.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    

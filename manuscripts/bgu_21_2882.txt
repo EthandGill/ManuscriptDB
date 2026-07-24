@@ -1,0 +1,30 @@
+[META]
+id:       BGU 21.2882
+label:    BGU 21.2882
+name:     Receipt — Arsinoe
+genre:    receipts
+date:     501 CE – 700 CE
+language: Greek (Koiné)
+found:    Arsinoe
+held:     Berlin
+shelf:    
+content:  Receipt from Arsinoe (501 CE – 700 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       997954
+source:   https://papyri.info/ddbdp/bgu;21;2882
+lat:      29.3149635
+lon:      30.8399565
+
+[GREEK]
+r.1    παρέσχεν Σερῆνος ὀνελάτης
+r.2    ὑπὲρ νέου διαγράφου λαύρας τοῦ ἁγίου
+r.3    Βίκτορος ζ ἰνδικτίονος κεράτια ἓν ἥμισυ
+r.4    γίνονται κεράτια α ἥμισυ. Φαρμουθι α τῆς [α]ὐτῆς [ζ ἰνδικτίονος]
+r.5    Ἀπολλῶ[ς] [Κολλούθου]
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1049
+label:    O.BODL 2.1049
+name:     Receipt — Theben
+genre:    receipts
+date:     31 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (31 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71736
+source:   https://papyri.info/ddbdp/o.bodl;2;1049
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ψεμενῶφις Πικῶτος καὶ μέτοχοι Πετεχώνσει
+r.2    Ψενθώτου χαίρειν. ὁμολογοῦμεν ἀπέχειν παρὰ σοῦ
+r.3    ὑπὲρ Φαμενὼθ. ἔτους ιζ Τιβερίου
+r.4    Καίσαρος Σεβαστοῦ Φαμενὼθ κε.
+r.5    Κορνήλιος Κορνηλίου.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

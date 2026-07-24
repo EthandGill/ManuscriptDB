@@ -1,0 +1,26 @@
+[META]
+id:       O.CLAUD 2.284
+label:    O.CLAUD 2.284
+name:     Letter — Mons Claudianus
+genre:    letters
+date:     126 CE – 175 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Letter from Mons Claudianus (126 CE – 175 CE)
+# hgv-keywords: Brief (privat) — Zosimos an Kastor — Bitte um Sendung von Brot
+tm:       29701
+source:   https://papyri.info/ddbdp/o.claud;2;284
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ζώσιμος Κάστορι ἀδελφῷ χαίρειν. κα[λ]ῶς ποιήσις, ἄδελφε, πέμψαι μοι ἄρτους δύο. ὧδε γάρ
+r.2    μου σῖτος οὐκ ἀνέβη οὐδέτι.
+r.3    ἔρρωσο.
+
+[TRANSLATION]
+1     
+2     
+3     

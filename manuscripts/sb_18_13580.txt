@@ -1,0 +1,24 @@
+[META]
+id:       SB 18.13580
+label:    SB 18.13580
+name:     Receipt — Theben
+genre:    receipts
+date:     175 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (175 BCE)
+# hgv-keywords: Vermerk (Quittung)
+tm:       2626
+source:   https://papyri.info/ddbdp/sb;18;13580
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Τῦβι κ τέτακται τὸ γινόμενον τέλος Σενχῶνσις Ἀμενώθου τῶν
+r.2    προκειμένων Διονύσιος τὴν κʼ ὧν ὠνήσατο παρὰ Ἀμενώθου Ψενεντήριος.
+
+[TRANSLATION]
+1     
+2     

@@ -1,0 +1,26 @@
+[META]
+id:       O.BANKES 9
+label:    O.BANKES 9
+name:     Receipt — Elephantine
+genre:    receipts
+date:     152 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (152 CE)
+# hgv-keywords: Quittung — Steuer (Kopfsteuer, laographia)
+tm:       699482
+source:   https://papyri.info/ddbdp/o.bankes;;9
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Στλάκκιος μισθωτὴς ἱερᾶς πύλης Σοήνης] διὰ Ἀμ[μωνίου βοηθοῦ· διέγραψεν Πατσί]βτις Πε[τορζμήθ]ου [μητρὸς Σενπελαίας] ὑπὲρ λαογραφίας ιε ἔτους
+r.2    [δραχμὰς δέκα ἑπτὰ] ὀβολόν, γίνονται δραχμαὶ ιζ ὀβολός. ἔτους ιε
+r.3    [Ἀντωνίνου Καί]σαρος τοῦ κυρίου, Ἐπεὶφ κϛ.
+
+[TRANSLATION]
+1     
+2     
+3     

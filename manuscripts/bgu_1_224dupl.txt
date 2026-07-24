@@ -1,0 +1,68 @@
+[META]
+id:       BGU 1.224dupl
+label:    BGU 1.224dupl
+name:     Documentary papyrus — Soknopaiu Nesos (Arsinoites)
+genre:    documents
+date:     161 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Soknopaiu Nesos (Arsinoites) (161 CE)
+# hgv-keywords: Deklaration — Zensus
+tm:       8988
+source:   https://papyri.info/ddbdp/bgu;1;224dupl
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    Ἱέρ[ακι] στρατηγῷ [Ἀρσινοΐτου] Ἡρακλείδου
+r.2    με[ρίδ]ος
+r.3    παρ[ὰ] Ἁ[τρῆτος Σα]ταβοῦτος
+r.4    τοῦ Παν[εφρ]έμμ[εω]ς μη[τ]ρ[ὸς ][Σε]γάθιος ἀπὸ [κ]ώμης Σοκνο[πα]ίου Νήσ[ου] ἀπογράφομαι ἐμαυτ[όν] τε καὶ [τοὺς ἐμοὺς] εἰς τὴν τοῦ
+r.5    διεληλυθότος [κγ ἔτους Θεοῦ] Αἰλίου
+r.6    Ἀντωνίνου [κατʼ οἰ]κίαν ἀπογραφήν, [ἐν] ᾗ κα[ταγείνομ]αι ἐν οἰκίᾳ
+r.7    μητρικῇ ἐν τῇ [κώμῃ· κ]αὶ εἰμὶ δὲ
+r.8    ὁ προ[γ]εγ[ραμμένος] Ἁτρ[ῆς ἐτῶν κε] ἄσημος
+r.9    καὶ τὴν [γ]υναῖκ[ά μου Ἰσά]ρ[ιο]ν ἀπάτωρ[α] μη[τρ]ὸς [Τανεφρέμ]μεως
+r.10   τῆς Π[αν]ομ[ι]έ[ω]ς ἐτῶν [ιγ] [ἄσ]ημον·
+r.11   ὑπάρχει δὲ αὐτῇ ἐν τῇ [κ]ώμῃ
+r.12   οἰκίαι [δύο] καὶ τέταρτον μέρος
+r.13   μαμμικόν καὶ Ταπ[ετσῖρ]ις Στοτοήτιος τοῦ Πανεφρέ[μ]μεως
+r.14   μητρὸς Ταπετσίρεως
+r.15   ἐτῶν ιβ ἄσημ[ος] ὑπάρχει δὲ τῇ Ταπε[τσ]ίρι οἰκίαι δύο [καὶ] αὐλὴ
+r.16   καὶ τ[έταρτον] μέ[ρος πα]ππικὸν
+r.17   καὶ τέτα[ρτο]ν μέρος μαμμι[κόν]·
+r.18   διὸ ἐπιδίδωμι τὴν ἀπογραφήν.
+r.19   ἔτους α Α[ὐτοκ]ράτορος [Κα]ίσαρ[ο]ς
+r.20   Μάρκου Αὐρηλίου Ἀ[ντ]ωνίνου
+r.21   Σεβαστ[οῦ καὶ Α]ὐτοκράτορος
+r.22   Καίσαρος Λουκίου Αὐρη[λ]ίου
+r.23   Οὐήρου Σεβαστοῦ Μεσορὴ δ.
+
+[TRANSLATION]
+# HGV-EN: To Hier[ax], strategos [of the Arsinoite nome], Herakleides division from Ha[tres, son of Sa]tabous, the son of Pan[ephr]emm[is], mother [Se]gathis, from the village of Sokno[pa]iou Nes[os]. I register myself and [my family] for the house-by-house registration of the past [23rd year of the God] Aelius Antoninus, in the house, in which I live, which is in the [village] and is inherited from my mother. And I am the above mentioned Hatr[es, 25 years old], without a distinguishing mark and (I register) my wife [Isa]r[io]n, father unknown, mother [Tanephrem]mis, daughter of P[an]om[i]e[u]s, [13] years old, [without a distinguishing mark]. There belong to her in the village [two] houses and her grandmother’s quarter (inheritance). And (I register) Tap[etsir]is, daughter of Stotoetis, the son of Panephre[m]mis, mother Tapetsiris, 12 years old, without a distinguishing mark. There belongs to Tape[ts]iris two houses and a courtyard and her grandfather’s quarter and here grandmother’s quarter. Therefore I submit this registration. Year 1 of Imperator [Ca]esar Marcus Aurelius A[nt]oninus Augustus [and] Imperator Caesar Lucius Aure[l]ius Verus Augustus, Mesore 4.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    

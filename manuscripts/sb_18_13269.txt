@@ -1,0 +1,28 @@
+[META]
+id:       SB 18.13269
+label:    SB 18.13269
+name:     Receipt — Herakleopolites
+genre:    receipts
+date:     719 CE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Receipt from Herakleopolites (719 CE)
+# hgv-keywords: Quittung
+tm:       18409
+source:   https://papyri.info/ddbdp/sb;18;13269
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    παρέσχε Μηνᾶς Σενουθίου Βαουχ ὑπὲρ διαγράφου
+r.2    ἰνδικτίονος α … η ἀρίθμια νομίσματα β δύο μόνα Παῦνι α
+r.3    ἰνδικτίονος γ .
+r.4    γίνεται νομίσματα β.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

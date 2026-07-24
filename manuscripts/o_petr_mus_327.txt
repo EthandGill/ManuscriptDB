@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 327
+label:    O.PETR.MUS 327
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     101 CE – 300 CE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (101 CE – 300 CE)
+# hgv-keywords: Quittung — Steuer (?) — Geld (?)
+tm:       75389
+source:   https://papyri.info/ddbdp/o.petr.mus;;327
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παχὼν κδ ὀνόματος Ποριεύθου Πετεμενώφιος
+r.2    καὶ Ταυρίνου
+r.3    Ἀμμωνᾶτος ὑπὲρ τοῦ αὐτοῦ
+r.4    … Λολοῦτος
+r.5    … λου
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

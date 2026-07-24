@@ -1,0 +1,28 @@
+[META]
+id:       O.STRAS 1.156
+label:    O.STRAS 1.156
+name:     Receipt — Theben
+genre:    receipts
+date:     176 CE – 225 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (176 CE – 225 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75757
+source:   https://papyri.info/ddbdp/o.stras;1;156
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἁδριανοῦ ιγ το[ῦ ] … [ ἔτους ὀνόματος]
+r.2    Ψεντφοῦτος Ψά[ιτος][ Ὀννώφριος]
+r.3    υπ … γενήματος ἔτους ι …
+r.4    ἄλλας κθ ὁμοίως δραχμὴν μίαν ὀβολὸν α 𐅵 …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

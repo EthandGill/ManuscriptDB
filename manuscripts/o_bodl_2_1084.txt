@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1084
+label:    O.BODL 2.1084
+name:     Receipt — Theben
+genre:    receipts
+date:     84 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (84 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71771
+source:   https://papyri.info/ddbdp/o.bodl;2;1084
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φατρῆς καὶ μέτοχοι
+r.2    τελῶναι πεντηκοστῆς Τωὺτ Πουορενούβει
+r.3    χαίρειν. τετελώνηται ἐν Τωὺτ
+r.4    φοινίκων ἀρτάβαι λ. ἔτους δ Δομιτιανοῦ
+r.5    τοῦ κυρίου Θῶυτ ιγ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

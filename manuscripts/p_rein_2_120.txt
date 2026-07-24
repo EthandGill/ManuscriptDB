@@ -1,0 +1,30 @@
+[META]
+id:       P.REIN 2.120
+label:    P.REIN 2.120
+name:     Receipt — Theben
+genre:    receipts
+date:     140 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (140 BCE)
+# hgv-keywords: Quittung — Bank — Geld (Kaufpreis für Leinen)
+tm:       5271
+source:   https://papyri.info/ddbdp/p.rein;2;120
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους λα Χοίαχ β. τέτακται ἐπὶ τὴν [ἐν Διὸς πόλει]
+r.2    τῆι μεγάληι τράπεζαν, ἐφʼ ἧς Ἡρακλείδης, [ἀπὸ τιμῆς]
+r.3    ὀθονίων βασιλικῶν λα ἔτους Ψεν[χῶνσις]
+r.4    Πατήμιος δισχιλίας γίνονται Β
+r.5    Ἡρακλείδης τραπεζίτης Β
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,26 @@
+[META]
+id:       O.BODL 2.1120
+label:    O.BODL 2.1120
+name:     Receipt — Theben
+genre:    receipts
+date:     249 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (249 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71807
+source:   https://papyri.info/ddbdp/o.bodl;2;1120
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψε Παῦνι ιε τοῦ ϛ ἔτους Φίλων Λολοῦτος
+r.2    Περμάμιος ὑπὲρ φόρου ἱεροῦ ἀποτάκτου καὶ ἄλλων ϛ ἔτους
+r.3    δραχμὰς ὀκτὼ γίνονται δραχμαὶ η. Αὐρήλιος Δωρίων σεσημείωμαι. Ἀγορῶν.
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,32 @@
+[META]
+id:       BGU 1.264
+label:    BGU 1.264
+name:     Receipt — Philadelphia (Arsinoites)
+genre:    receipts
+date:     191 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites) (191 CE)
+# hgv-keywords: Quittung — Penthemeros
+tm:       9016
+source:   https://papyri.info/ddbdp/bgu;1;264
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    ἔτους λα Μάρκου Αὐρηλίου
+r.2    Κομμόδου Ἀντωνείνου Καίσαρος
+r.3    τοῦ κυρίου εἴργασται ὑπὲρ χωμάτων λα ἔτους
+r.4    Μεσορὴ ιγ ἕως ιζ ἐν ὀρινῇ Πατσώντιος Φιλαδελφίας
+r.5    πενθημέρου Ἑρμᾶς Γρύλλου
+
+[TRANSLATION]
+# HGV-EN: Year 31 of Marcus Aurelius Commodus Antoninus Caesar, the lord. Work has been done on the dike works of year 31, Mesore 13 to 17 in the desert canal of Patsontis for Philadelphia, five days, by Hermas, son of Gryllos.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

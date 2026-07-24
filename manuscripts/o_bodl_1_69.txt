@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 1.69
+label:    O.BODL 1.69
+name:     Receipt — Theben (?)
+genre:    receipts
+date:     138 BCE
+language: Greek (Koiné)
+found:    Theben (?)
+held:     
+shelf:    
+content:  Receipt from Theben (?) (138 BCE)
+# hgv-keywords: Quittung — Steuern — Bank
+tm:       43393
+source:   https://papyri.info/ddbdp/o.bodl;1;69
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους λβ Τῦβι κα τέτακται ἀπομοίρας τῶν ἄλλων
+r.2    χωρίων δευτέρου καὶ λ ἔτους Ἄνω τόπου Πετεμῖνις
+r.3    προστάτης τρισχιλίας διακοσίας
+r.4    γίνονται Γσ.
+r.5    Ἡρακλείδης τραπεζίτης Γτ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       O.ASHM 24
+label:    O.ASHM 24
+name:     Receipt — Theben
+genre:    receipts
+date:     9 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (9 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       70473
+source:   https://papyri.info/ddbdp/o.ashm;;24
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    τέτακται Νεφερῶς Πετεμίνιος
+r.2    ὑπὲρ Πετεμίνιος πατρὸς
+r.3    ὑπὲρ ἀριθμητικοῦ κατοίκων
+r.4    τοῦ κα ἔτους Καίσαρος ἀρουρῶν ιδ ἔτους διʼ Ἀμφείονος. ἔτους κα Καίσαρος Μεσορὴ ιη.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

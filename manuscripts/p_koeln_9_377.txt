@@ -1,0 +1,28 @@
+[META]
+id:       P.KOELN 9.377
+label:    P.KOELN 9.377
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     111 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (111 CE)
+# hgv-keywords: Quittung — Steuer — Geld — Deich- — Wachtschiff-
+tm:       78434
+source:   https://papyri.info/ddbdp/p.koeln;9;377
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Παχοῦμις πρε[σ]βύτερος Παχούμιος
+r.2    χωματικοῦ ιγ ἔτους Τραιανοῦ τοῦ κυρίου
+r.3    δραχμὴν α πεντώβολον ποταμοφυλακίδος ὀβολὸν γίνονται δραχμαὶ β. ἔτους ιδ
+r.4    Τῦβι ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

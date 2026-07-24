@@ -1,0 +1,30 @@
+[META]
+id:       P.AUST.HERR 6v
+label:    P.AUST.HERR 6v
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     159 BCE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (159 BCE)
+# hgv-keywords: Abrechnung
+tm:       7911
+source:   https://papyri.info/ddbdp/p.aust.herr;;6v
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους κβ Μεχεὶρ λ
+r.2    τάλαντα δ Αξ
+r.3    Διονυσίωι
+r.4    Ἀπολλώνιος· δέξασθα[ι]
+r.5    τὰ διὰ τοῦ ὑπομνήματος
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

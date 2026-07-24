@@ -1,0 +1,30 @@
+[META]
+id:       O.ONT.MUS 2.264
+label:    O.ONT.MUS 2.264
+name:     Documentary papyrus — Theben
+genre:    documents
+date:     1 CE – 400 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Documentary papyrus from Theben (1 CE – 400 CE)
+# hgv-keywords: Liste — Namen
+tm:       75284
+source:   https://papyri.info/ddbdp/o.ont.mus;2;264
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παναμεῦς …
+r.2    Πετε …
+r.3    Φαμῖνις
+r.4    Πετε …
+r.5    δεκανὸς Μιῦ[σις ] …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

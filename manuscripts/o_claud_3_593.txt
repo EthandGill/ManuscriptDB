@@ -1,0 +1,36 @@
+[META]
+id:       O.CLAUD 3.593
+label:    O.CLAUD 3.593
+name:     Receipt — Mons Claudianus
+genre:    receipts
+date:     153 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Receipt from Mons Claudianus (153 CE)
+# hgv-keywords: Quittung — Empfang — Ration
+tm:       73775
+source:   https://papyri.info/ddbdp/o.claud;3;593
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    … ς μονομάχος Διο… [ ἐκ] φαμιλίας χαίρειν.
+r.2    [ὁμολογῶ προκ]εχρῆσθαί μου
+r.3    … ν τοῦ ἐπερχομ[ένου] μην[ὸς] Ἐπειπ παρὰ σοῦ
+r.4    ὃ καὶ [ἀπο]δώσω καθὼς πρόκειται.
+r.5    ἔτους ἔτους ιϛ Αὐτοκράτορος [Κ]αίσαρος
+r.6    Τίτου Αἰλίου Ἁδριανοῦ Ἀντωνείνου
+r.7    Σεβαστοῦ Εὐσεβοῦς. ἔλαβον μηνὶ
+r.8    Παοινι κγ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

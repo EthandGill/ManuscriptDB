@@ -1,0 +1,30 @@
+[META]
+id:       SB 1.1925
+label:    SB 1.1925
+name:     Receipt — Elephantine
+genre:    receipts
+date:     77 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (77 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23067
+source:   https://papyri.info/ddbdp/sb;1;1925
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    διέγραψεν Ἀσκληπιάδης Βάσσου
+r.2    ὑπὲρ λαογραφίας ἐνάτου ἔτους
+r.3    Οὐεσπασιανοῦ τοῦ κυρίου
+r.4    ἀργυρίου δραχμὰς δέκα ἕξ, γίνονται δραχμαὶ ιϛ. Ἐπεὶφ κδ. Σωκράτης
+r.5    ἔγραψα.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

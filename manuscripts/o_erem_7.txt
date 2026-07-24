@@ -1,0 +1,30 @@
+[META]
+id:       O.EREM 7
+label:    O.EREM 7
+name:     Receipt — Theben
+genre:    receipts
+date:     35 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (35 CE)
+# hgv-keywords: Quittung — (Abgaben)
+tm:       18258
+source:   https://papyri.info/ddbdp/o.erem;;7
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν Ἰναρῶς Πετεεμγέως ὑπὲρ
+r.2    λαογραφίας κα ἔτους δραχμὰς δέκα καὶ βαλανευτικοῦ μίαν
+r.3    ὀβολὸν γίνονται δραχμαὶ ια ὀβολὸς καὶ τὰ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου.
+r.4    ἔτους κα Τιβερίου Καίσαρος Σεβαστοῦ
+r.5    Φαρμοῦθι λ‡ε. Πετεμενῶφις τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

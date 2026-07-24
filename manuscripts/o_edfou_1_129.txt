@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.129
+label:    O.EDFOU 1.129
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     80 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (80 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       47070
+source:   https://papyri.info/ddbdp/o.edfou;1;129
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    διέγραψεν Ἀκυντᾶς Καικιλλίας
+r.2    ἀπελεύθερος Σάρρας ὑπὲρ τιμῆς δηναρίων
+r.3    δύο Ἰουδαίων β ἔτους Τίτου [Κ]αίσαρος δραχμὰς δ ὀβολὸν
+r.4    ἀπαρχῆς τριώβολον ἔτους β Παῦνι κα
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

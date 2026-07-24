@@ -1,0 +1,42 @@
+[META]
+id:       P.NAQLUN 2.24
+label:    P.NAQLUN 2.24
+name:     Documentary papyrus — Herakleopolites bzw. Naqlun (Arsinoites)
+genre:    documents
+date:     701 CE – 800 CE
+language: Greek (Koiné)
+found:    Herakleopolites bzw. Naqlun (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Herakleopolites bzw. Naqlun (Arsinoites) (701 CE – 800 CE)
+# hgv-keywords: Register — Steuern — Ortschaften — Geld
+tm:       115535
+source:   https://papyri.info/ddbdp/p.naqlun;2;24
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    χωρίον Πυργωτο[ῦ] διὰ νομισμάτων λ διὰ νομισμάτων κη κερατίων δ
+r.2    χωρίον Πώεω[ς] [διὰ νομισμάτων] ρ … [νομίσματα] ϙγ κεράτια ιβ
+r.3    χωρίον Ποιμένων διὰ νομισμάτων ν νομίσματα μϛ κεράτια ις
+r.4    χωρίον Σίθεως διὰ νομισμάτων ιε νομίσματα ιδ
+r.5    … [κεράτια] ιϛ
+r.6    χωρίον Πεεμπιβύκεως διὰ …
+r.7    χωρίον Παραχώματος Μαχδιὰ …
+r.8    χωρίον Πετεχῶντος διὰ …
+r.9    χωρίον Σάσου Κ[άτω] …
+r.10   χωρίον Σώφθεως …
+
+[TRANSLATION]
+# HGV-EN: Chorion of Pyrgos: of 30 nom., 28 nom. 1 kar. [paid] Chorion of Pois: of 40 nom. Chorion of Poimenes (Shepherds): of 50 nom., 46 nom. 15 kar. [paid] Chorion of Sitheus : of 15 nom., 11 nom. [paid] Chorion of Peempibykis: of [ ? nom.] [...] Chorion of P.rch( ) of Machor: of [ ? nom.] [...] Chorion of Pedion: of [ ? nom.] [...] Chorion of Sasos: [...] Chorion of Sorbthis (?) [...]
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

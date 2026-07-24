@@ -1,0 +1,28 @@
+[META]
+id:       O.BANKES 56
+label:    O.BANKES 56
+name:     Receipt — Elephantine
+genre:    receipts
+date:     120 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (120 CE)
+# hgv-keywords: Ende einer Quittung
+tm:       699529
+source:   https://papyri.info/ddbdp/o.bankes;;56
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    … [ἔτους] τε[τάρτου]
+r.2    [Ἁδρι]ανοῦ τοῦ κ[υρίου,]
+r.3    Ἐπεὶφ κγ. ἄ[κυ][ρος] [ἔ]στω ἡ προτέρα
+r.4    ἀποχή.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,32 @@
+[META]
+id:       O.HEID 113
+label:    O.HEID 113
+name:     Receipt — Theben
+genre:    receipts
+date:     192 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (192 CE)
+# hgv-keywords: Quittung (Steuer, Begräbnissteuer, telos taphes)
+tm:       80340
+source:   https://papyri.info/ddbdp/o.heid;;113
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Παμώνθης καὶ μέτοχοι τελῶναι
+r.2    θησαυροῦ ἱερῶν
+r.3    Τκρώριος Πεβρίχιος. ἔσχομεν παρὰ σοῦ
+r.4    ὑπὲρ ταφῆς Λαβάιος ἀνδρὸς τὸ καθῆκον
+r.5    τέλος. ἔτους λβ Φαρμοῦθι η.
+r.6    Παμώνθης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

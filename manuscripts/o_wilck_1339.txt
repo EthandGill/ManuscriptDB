@@ -1,0 +1,28 @@
+[META]
+id:       O.Wilck. 1339
+label:    O.Wilck. 1339
+name:     Receipt — Theben
+genre:    receipts
+date:     258 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     London
+shelf:    
+content:  Receipt from Theben (258 BCE)
+# hgv-keywords: Quittung — Steuer (Salz)
+tm:       77691
+source:   https://papyri.info/ddbdp/o.wilck;;1339
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους κζ Ἁθὺρ ι
+r.2    τῆς δευτέρας
+r.3    Τορᾶς τριώβολον
+r.4    Παμῆς ὀβολοὺς δ δ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

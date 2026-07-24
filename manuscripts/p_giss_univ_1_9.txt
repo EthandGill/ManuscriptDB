@@ -1,0 +1,46 @@
+[META]
+id:       P.GISS.UNIV 1.9
+label:    P.GISS.UNIV 1.9
+name:     Documentary papyrus — Euhemeria (Arsinoites)
+genre:    documents
+date:     131 BCE
+language: Greek (Koiné)
+found:    Euhemeria (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Euhemeria (Arsinoites) (131 BCE)
+# hgv-keywords: Bitte — Verladung — verschiedene Zeugen
+tm:       42855
+source:   https://papyri.info/ddbdp/p.giss.univ;1;9
+lat:      29.383296
+lon:      30.533289
+
+[GREEK]
+r.1    [Ἀνικήτωι ἐπ]ιστάτει Εὐημερίας
+r.2    [παρὰ ] … ος τῆς Πετοσίριος
+r.3    τῶν ἐκ τῆς αὐτῆς. τῆι κα τοῦ
+r.4    Μεχεὶρ τοῦ λθ ἔτους ἔκ τινων
+r.5    ἀντιλογίαν πρός με συστησάμεναι
+r.6    Τνεφερσῶις Κεφάλωνος καὶ
+r.7    αἱ ταύτης θυγ[α]τέρες Δαφνὶς καὶ
+r.8    Σενβάγις καὶ οἱ υἱοί, ὧν τὰ ὀνόματα
+r.9    ἀγνοῶ, … [ πρ]οσπηδήσαντές μοι
+r.10   καὶ …
+r.11   παρ[όντων πλειό]νων, οἷς καὶ ἐγ[ὼ] ἐπεμαρτυράμην, ἀξιῶ ἐξαποσ[τεῖλαι]
+r.12   … ε …
+
+[TRANSLATION]
+# HGV-EN: To Aniketos, epistatês of Euhemeria, from [ --- ], daughter of Petosiris, of those from the same village. On the 21st of Mecheir, year 39, Tnephersoïs, daughter of Kephalon, her daughters Daphnis and Zenbagis, and her sons, whose names I do not know, started an argument with me for reasons I do not understand, and attacking me… and… while many people were present, whom I called to witness. I ask that you send…. (J. Bauschatz, Law and Enforcement, pp273–274)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

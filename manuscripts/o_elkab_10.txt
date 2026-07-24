@@ -1,0 +1,30 @@
+[META]
+id:       O.ELKAB 10
+label:    O.ELKAB 10
+name:     Receipt — Eileithyiopolis
+genre:    receipts
+date:     200 BCE – 1 BCE
+language: Greek (Koiné)
+found:    Eileithyiopolis
+held:     
+shelf:    
+content:  Receipt from Eileithyiopolis (200 BCE – 1 BCE)
+# hgv-keywords: Quittung — Bank — Steuern
+tm:       4580
+source:   https://papyri.info/ddbdp/o.elkab;;10
+lat:      25.1196418066
+lon:      32.7982665795
+
+[GREEK]
+r.1    [ἔτους ] … Θωὺθ κθ.
+r.2    [τέτακται ζ]υτηρᾶς
+r.3    [Πε]λαίας
+r.4    Οσέους λ.
+r.5    Ἀπολλώνιος τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

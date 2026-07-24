@@ -1,0 +1,46 @@
+[META]
+id:       BGU 3.711
+label:    BGU 3.711
+name:     Receipt — Bakchias oder Soknopaiu Nesos (Arsinoites)
+genre:    receipts
+date:     211 CE
+language: Greek (Koiné)
+found:    Bakchias oder Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Bakchias oder Soknopaiu Nesos (Arsinoites) (211 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       9311
+source:   https://papyri.info/ddbdp/bgu;3;711
+lat:      29.536946
+lon:      31.0041595
+
+[GREEK]
+r.1    Αὐνὴς πράκτωρ νομαρχικῶν
+r.2    κώμης Βακχιάδος Ἡφαιστιάδος
+r.3    πρεσβυτέροις κώμης
+r.4    Σοκνοπαίου Νήσου.
+r.5    ἔσχον εἰς λόγον μονοδεσμίας χόρτ[ο]υ καὶ ἄλλων εἰδῶν δραχμὰς
+r.6    ἑκατὸν ἑξήκοντα
+r.7    γίνονται δραχμαὶ ρξ. ἔτους ιθ Αὐτοκρατόρω[ν]
+r.8    Καισάρων [Μάρκο]υ Αὐρηλίου
+r.9    Ἀντωνίνου [κ]αὶ Π[ο]υβλίου
+r.10   Σεπτιμίου [Γ]έτα Β[ρε]ττανικῶν
+r.11   Μεγίστων Εὐσεβῶν
+r.12   Σεβαστῶν Παῦνι ε.
+
+[TRANSLATION]
+# HGV-EN: Aunes, collector of the dues for the nomarch of the village of Bakchias Hephaistias, to the elders of the village of Soknopaiou Nesos. I have received for the account of the monodesmia of hay and other dues one hundred and sixty drachmas, = 160 drachmas. Year 19 of Imperatores Caesares [Marc]us Aurelius Antoninus and Pu<b>lius Septimius [G]eta B[ri]tannici Maximi Pii Augusti, Payni 5.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    

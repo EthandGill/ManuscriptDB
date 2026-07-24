@@ -1,0 +1,30 @@
+[META]
+id:       P.AMH 2.54
+label:    P.AMH 2.54
+name:     Receipt — Theben
+genre:    receipts
+date:     112 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (112 BCE)
+# hgv-keywords: Quittung — Bank — Steuern
+tm:       21669
+source:   https://papyri.info/ddbdp/p.amh;2;54
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους ε Μεχεὶρ κϛ. τέτακται ἐπὶ τὴν ἐν Ἑρμώνθει τράπεζαν ἐφʼ ἧς διονύσιος δεκάτης ἐγκυκλίου ὠνῆς κατὰ διαγραφὴν
+r.2    Ψενχώνσιος ὑφʼ ἣν ὑπογράφει Ἀσκληπιάδης ὁ ἀντιγραφεὺς Πανᾶς Πεχύτου καὶ Ἁρσιῆσις καὶ Ὧρος ἀδελφοὶ
+r.3    οἴκου καθῃρημένου οὗ οἱ τοῖχοι περίεισιν καὶ εἴσοδος καὶ ἔξοδος ὃν ἠγόρασαν παρὰ Παβούριος
+r.4    καὶ Ταφιώμιος τῶν Ψενχώνσιος καὶ Πετοβάστιος τοῦ Ψενενούφιος χαλκοῦ ταλάντου α τέλος χ.
+r.5    Διονύσιος τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

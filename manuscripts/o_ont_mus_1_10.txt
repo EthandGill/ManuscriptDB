@@ -1,0 +1,32 @@
+[META]
+id:       O.ONT.MUS 1.10
+label:    O.ONT.MUS 1.10
+name:     Receipt — Theben
+genre:    receipts
+date:     72 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (72 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75032
+source:   https://papyri.info/ddbdp/o.ont.mus;1;10
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἡρακλείδης καὶ μέτοχοι τελῶναι πεντηκοστῆς τοῦ [δ ἔτους]
+r.2    Οὐεσπασιανοῦ τοῦ κυρ[ίου]
+r.3    Πεχω Οὐαρ χαίρειν ἀπέχομεν
+r.4    τέλος ἐξαγόντων … πεντήκοντα γίνονται ν
+r.5    ἔτους δ Οὐεσπασιανοῦ τοῦ κυρίου
+r.6    Μεσορὴ λ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

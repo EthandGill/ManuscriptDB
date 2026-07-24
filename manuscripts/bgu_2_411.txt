@@ -1,0 +1,48 @@
+[META]
+id:       BGU 2.411
+label:    BGU 2.411
+name:     Receipt — Philadelphia (Arsinoites, Ägypten)
+genre:    receipts
+date:     314 CE
+language: Greek (Koiné)
+found:    Philadelphia (Arsinoites, Ägypten)
+held:     
+shelf:    
+content:  Receipt from Philadelphia (Arsinoites, Ägypten) (314 CE)
+# hgv-keywords: Quittung — Pachtzins
+tm:       9155
+source:   https://papyri.info/ddbdp/bgu;2;411
+lat:      29.453786
+lon:      31.08033
+
+[GREEK]
+r.1    Αὐρήλιος Ποτάμμων Νίλου γεουχῶν
+r.2    ἐν κώμῃ Φιλαδελφίᾳ Αὐρηλίῳ Ἁτρῇ ἀλλοφύλου
+r.3    γεωργῷ χαίρε[ι]ν — ἔσχον παρὰ σοῦ
+r.4    τὸ ἐκφόριον, ὧν ἐγεώργησας μου
+r.5    περὶ κώμην Φιλαδελφίας ἀρουρῶν πέντε
+r.6    ὑπὲρ γενήματος ιθ ἔτους καὶ ζ καὶ ε καὶ γ πυροῦ
+r.7    ἀρτάβας δεκαδύο ἥμισ[υ] γίνονται ἀρτάβαι ιβ 𐅵 καὶ οὐδένα
+r.8    λόγον ἔχω πρὸς σὲ περὶ τοῦ ἐκφορίου.
+r.9    ὑπατείας Ῥουφίου Οὐολουσιανοῦ καὶ Πετρωνίου Ἀννιανοῦ
+r.10   τῶν λαμπροτάτων Παῦνι β.
+r.11   Αὐρήλιος Ποτά[μ]μων Νίλου ἔσχον τὸ ἐκφόριον
+r.12   πλήρης. Αὐρήλιος Ἀλύπιος ἀπὸ Φιλαδελφίας
+r.13   ἔγραψα ὑπὲρ αὐτοῦ ἀγραμμά[τ]ου ὄντος.
+
+[TRANSLATION]
+# HGV-EN: Aurelius Potammon, son of Nilos, landowner in the village of Philadelphia to Aurelius Hatres, tenant farmer from another area, greetings. I have received from you the rent in kind for the five arouras of mine near the village of Philadelphia, which you farmed, for the harvest of year 19 and 7 and 5 and 3, twelve and a half artabas of wheat, = 12 ½ artabas, and I have no claim against you with respect to the rent in kind. In the consulship of Rufius Volusianus and Petronius Annianus, viri clarissimi, Payni 2. I, Aurelius Pota[m]mon, son of Nilos, have received the rent in kind in full. I, Aurelius Alypios, from Philadelphia have written on his behalf because he is illiterate.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

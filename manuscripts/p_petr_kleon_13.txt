@@ -1,0 +1,36 @@
+[META]
+id:       P.PETR.KLEON 13
+label:    P.PETR.KLEON 13
+name:     Letter — Zielort: Arsinoites; Fundort: Gurob; Schreibort: Alexandria
+genre:    letters
+date:     260 BCE – 249 BCE
+language: Greek (Koiné)
+found:    Zielort: Arsinoites; Fundort: Gurob; Schreibort: Alexandria
+held:     Dublin
+shelf:    
+content:  Letter from Zielort: Arsinoites; Fundort: Gurob; Schreibort: Alexandria (260 BCE – 249 BCE)
+# hgv-keywords: Brief (privat) — Polykrates an seinen Vater (Kleon) — Anwesenheit gewünscht — Fest (Arsinoeia) — Vorhaben mit König — Geld
+tm:       7667
+source:   https://papyri.info/ddbdp/p.petr.kleon;;13
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    Πολυκράτης τῶι πατρὶ χαίρειν. καλῶς ποιεῖς εἰ ἔρρωσαι καὶ τὰ λοιπά σοι κατὰ γνώμην ἐστίν, ἐρρώμεθα δὲ καὶ ἡμεῖς. πολλάκις μὲν γέγραφά σοι παραγενέσθαι καὶ συστῆσαί με, ὅπως τῆς ἐπὶ τοῦ
+r.2    παρόντος σχολῆς ἀπολυθῶ. καὶ νῦν δὲ, εἰ δυνατόν ἐστιν καὶ μηθέν σε τῶν ἔργων κωλύει,
+r.3    πειράθητι ἐλθεῖν εἰς τὰ Ἀρσινοεία. ἐὰν γὰρ σὺ παραγένηι, πέπεισμαι ῥᾳδίως με τῶι βασιλεῖ
+r.4    συσταθήσεσθαι. γίνωσκε δέ με ἔχοντα παρὰ Φιλωνίδου δραχμὰς ο. ἀπὸ τούτου τὸ μὲν ἥμισυ
+r.5    εἰς τὰ δέοντα ὑπελιπόμην, τὸ δὲ λοιπὸν εἰς τὸ δάνειον κατέβαλον. τοῦτο δὲ γίνεται
+r.6    διὰ τὸ μὴ ἀθροῦν ἡμᾶς ἀλλὰ κατὰ μικρὸν λαμβάνειν. γράφε δʼ ἡμῖν καὶ σὺ ἵνα εἰδῶμεν ἐν οἷς εἶ καὶ μὴ ἀγωνιῶμεν. ἐπιμέλου δὲ καὶ σαυτοῦ ὅπως ὑγιαίνηις καὶ πρὸς ἡμᾶς ἐρρωμένος ἔλθηις. εὐτύχει.
+r.7    Κλέωνι
+
+[TRANSLATION]
+# HGV-EN: Polykrates to his father, greetings. If you are in good health and everything else is as you wish, this would be fine. We are in good health too. I have often written to you to come over and introduce me, so that I may be relieved from my present unemployment. And now, if it is possible and nothing of the works prevents you, try to come for the Arsinoeia. I am convinced that if you come, I will be easily introduced to the King. Know that I have received from Philonides 70 drachmas. From this I have left half for daily expenses, the remainder I have paid for the loan. That happens because we do not get all our money at once, but in small instalments. Do write us yourself also, so that we may know how you are and so that we do not worry. Take care of yourself that you may be well and that you may come to us in good health. Respectfully. To Kleon.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

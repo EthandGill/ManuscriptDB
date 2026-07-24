@@ -1,0 +1,30 @@
+[META]
+id:       O.WILB 66
+label:    O.WILB 66
+name:     Receipt — Theben
+genre:    receipts
+date:     145 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (145 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76574
+source:   https://papyri.info/ddbdp/o.wilb;;66
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μεμέτρηται εἰς θησαυρὸν μητροπόλεως γενήματος η ἔτους
+r.2    Ἀντωνίνου Καίσαρος τοῦ κυρίου
+r.3    Παῦνι θ ὑπὲρ Χάρακος ὀνόματος Παουφθειοῦτος
+r.4    Παοῦτος διὰ Παουφθειοῦτος Παου
+r.5    πυροῦ ἀρτάβας δ γίνονται πυροῦ ἀρτάβαι δ. Παῆσις σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

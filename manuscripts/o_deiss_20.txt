@@ -1,0 +1,26 @@
+[META]
+id:       O.DEISS 20
+label:    O.DEISS 20
+name:     Receipt — Theben ? (Ägypten)
+genre:    receipts
+date:     8 BCE
+language: Greek (Koiné)
+found:    Theben ? (Ägypten)
+held:     Sydney
+shelf:    
+content:  Receipt from Theben ? (Ägypten) (8 BCE)
+# hgv-keywords: Quittung — Steuern
+tm:       73833
+source:   https://papyri.info/ddbdp/o.deiss;;20
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφεν ἐπὶ τὴ[ν Κεφάλου τράπεζαν]
+r.2    Πετεχῶνσις Παμώνθου λαογραφίας
+r.3    κβ ἔτους [δραχμαὶ] η. ἔτους κβ Καίσαρος Παχὼν … .
+
+[TRANSLATION]
+1     
+2     
+3     

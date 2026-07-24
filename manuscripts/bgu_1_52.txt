@@ -1,0 +1,68 @@
+[META]
+id:       BGU 1.52
+label:    BGU 1.52
+name:     Documentary papyrus — Soknopaiu Nesos (Arsinoites)
+genre:    documents
+date:     145 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Soknopaiu Nesos (Arsinoites) (145 CE)
+# hgv-keywords: Deklaration — Kamele
+tm:       9097
+source:   https://papyri.info/ddbdp/bgu;1;52
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    Σοκνοπαίου κάμηλοι η, πῶλοι β.
+r.2    Αἰλίῳ Σαραπίωνι στρατηγῷ καὶ Σαρ[απίωνι]
+r.3    βασιλικῷ γραμματεῖ Ἀρσινοίτου Ἡρακλείδου μερίδος
+r.4    παρὰ Πανεφρέμμεως [Ὥρου]
+r.5    τοῦ Στοτοήτεως ἀπὸ κ[ώμη]ς
+r.6    Σοκνοπαίου Νήσου ἀφʼ ὧν ἀπεγραψάμην
+r.7    τῷ διεληλυθότι ζ ἔτει καμήλων η, πώλου α
+r.8    τῶν ἐπὶ τὸ αὐτὸ καμήλων θ, πέπρακα
+r.9    τῷ ἐνεστῶτι η ἔτους Παπεῖτι Ἐριέως
+r.10   τοῦ Παπεῖτος ἀπὸ τῆς αὐτῆς κώμης
+r.11   κάμηλον α, τοὺς δὲ λοιποὺς καμήλους η
+r.12   ἀπογράφομαι εἰς τὸ ἐνεστὸς η ἔτος Ἀντωνείνου
+r.13   Καίσαρος τοῦ κυρίου καὶ τοὺς ἐπιγεγινότας
+r.14   ἐξ ἐπιγονῆς πώλους β.
+r.15   ἀπεγράφη παρὰ στρατηγῷ διὰ Ἡρα βοηθοῦ κάμηλοι
+r.16   η, πῶλοι β·
+r.17   ἀπεγράφη βασιλικῷ γραμματεῖ· κάμηλοι η, πῶλοι β
+r.18   Ἀρτεμίδωρος ἐγμετρης ἐμετρη συνφώνως διὰ Ἀπολλωνίου συνφώνως διὰ Ἀπολλωνίου
+r.19   βοηθοῦ. Ἰσίδωρος· ἐξηριθμήθη συνφώνως
+r.20   ἐξηριθμήθη βασιλικῷ γραμματεῖ συνφώνως.
+r.21   διεφθάρησαν β
+r.22   καὶ προσβαίνουσι
+r.23   πῶλοι γ
+
+[TRANSLATION]
+# HGV-EN: Soknopaiou (Nesos), 8 camels, 2 foals. To Ailios Sarapion, strategos and to Sar[apion], royal scribe of the Arsinoite nome, Herakleides division, from Panephremmis, [son of Horos], the son of Stotoetis, from the village of Soknopaiou Nesos. Of the 8 camels and 1 foal, which I registered in the past 7th year, 9 camels in total, I have sold 1 camel in the present 8th year to Papeis, son of Herieus, the son of Papeis, from the same village, I register the remaining 8 camels for the present 8th year of Antoninus Caesar, the lord, and the 2 foals born to their lineage. (m. 2) 8 camels and 2 foals were declared at the office of Sarapion, the strategos, through a new declaration. (m. 3) 8 [camels] and 2 foals were declared at the office of the royal scribe. (m. 4) I, Artemidoros, have assessed by calculation and confirm through Apoll , assistant. (m. 5) I, Isidoros, have counted and confirm. (m. 6) I, the assistant, have counted and confirm. Marginal note (to the left of lines 3-5) (m. 5) 2 have died. And 3 foals are declared in addition.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    

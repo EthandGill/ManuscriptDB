@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 72.4876
+label:    P.Oxy. 72.4876
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     135 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (135 CE)
+# hgv-keywords: Auftrag an die Sitologen von Kerkethyris (diastolikon) — Giro - Überweisung von Weizen
+tm:       114256
+source:   https://papyri.info/ddbdp/p.oxy;72;4876
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    Δῖος Ἀκουσιλάου διὰ Διογένους
+r.2    γραμματέως σιτολόγοις Κερκ[ε]θύρεως
+r.3    χαίρειν. διαστείλ[α]τε
+r.4    ἀφʼ οὗ ἔχω ἐν θέματι πυροῦ
+r.5    γενήματος τοῦ ἐνεστῶτος ιθ ἔτους
+r.6    Ἁδριανοῦ Καίσαρος τοῦ κυρ[ίου]
+r.7    Πτολεμαίῳ Πτολεμαίου …
+r.8    Κερκευρα ἀρτάβας ὀκτώ,
+r.9    γίνονται ἀρτάβαι η, Θ … ει Νεοπτολέμου
+r.10   διὰ Ἁρμιύσι[ο]ς καὶ Ἡρᾶτος
+r.11   γεωργῶν Σενεψαυ ἀρτάβας
+r.12   ἑπτά, γίνονται πυροῦ ἀρτάβαι ζ, γίνονται ἐπὶ τὸ αὐτὸ ἀρτάβαι ιε.
+r.13   ἔτους ιθ Αὐτοκράτορος Καίσαρος
+r.14   Τραϊανοῦ Ἁδριανοῦ Σεβαστοῦ,
+r.15   Μεσο[ρὴ] ἐπαγομένων … .
+
+[TRANSLATION]
+# HGV-EN: Dius son of Acusilaus, through Diogenes, secretary, to the sitologi of Cercethyris, greetings. Transfer, from the amount I hold on deposit, from the wheat-crop of the current 19th year of Hadrianus Caesar the lord, to Ptolemaeus son of Ptolemaeus, (for his account) at Cerceura, eight artabas, total 8 art., (and) to Th— son(?) of Neoptolemus, through Harmiysis and Heras, farmers, (for his(?) account) at Senepsau, seven artabas, total 7 art. of wheat, grand total 15 art. Year 19 of Imperator Caesar Traianus Hadrianus Augustus, Mesore epagomenal n. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

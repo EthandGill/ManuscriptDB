@@ -1,0 +1,42 @@
+[META]
+id:       P.WORP 46
+label:    P.WORP 46
+name:     Receipt — Elephantine
+genre:    receipts
+date:     139 CE – 143 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (139 CE – 143 CE)
+# hgv-keywords: Quittung — Steuer (Gewerbe, cheironaxion)
+tm:       115575
+source:   https://papyri.info/ddbdp/p.worp;;46
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Ἡρακλείδης καὶ Ἰσ[ίδωρος μισθωταὶ Πύλης Σοήνης]
+r.2    διὰ Παχομψάχιος [βοηθοῦ. διέγραψεν]
+r.3    Πετόρζμηθις Ἁρπ[αήσεως μητρὸς]
+r.4    Μαρκίας ὑπὲρ χειρ[ωναξίου] [ ἔτους δραχμὰς]
+r.5    δεκαδύο γίνονται δραχμαὶ ιβ. [ἔτους ]
+r.6    Ἀντωνίνου [Καίσαρος]
+r.7    τοῦ κυρίου []
+r.8    ιβ. διέγραψεν ὁ [αὐτὸς ὑπὲρ χειρωναξίου ἔτους]
+r.9    δραχμὰς ὀκτὼ [διώβολον]
+r.10   γίνονται δραχμαὶ η διώβολον.
+
+[TRANSLATION]
+# HGV-EN: Herakleides and Isidoros, tax-farmers of the Gate of Syene, through the assistant Pachompsachis. Petorzmethis, son of Harpaesis, whose mother is Marcia, paid for trade-tax of the xth year twelve drachmas, makes 12 drachmas. Year x of Antoninus Caesar, the lord, on the 12th of (month). The same paid for trade-tax of the xth year eight drachmas, two obols, makes 8 drachmas 2 obols. (F. A. J. Hoogendijk)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

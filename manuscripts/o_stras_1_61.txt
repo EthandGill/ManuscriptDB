@@ -1,0 +1,32 @@
+[META]
+id:       O.STRAS 1.61
+label:    O.STRAS 1.61
+name:     Receipt — Theben
+genre:    receipts
+date:     35 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (35 CE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       75661
+source:   https://papyri.info/ddbdp/o.stras;1;61
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Μαιεῦρις Ὥρου ὑπὲρ λαογραφίας κα ἔτους
+r.2    δραχμὰς δέκα καὶ βαλανείου μίαν ὀβ[ο]λὸν γίνονται δραχμαὶ ια ὀβολὸς α 𐅵 καὶ
+r.3    τὰ προσδιαγραφόμενα ἐξ ὀβολοῦ ἡμιωβελίου. ἔτους κα Τιβερίου
+r.4    Καίσαρος Σεβαστοῦ Φαρμοῦθι κγ.
+r.5    Λα … μα τραπεζίτης.
+
+[TRANSLATION]
+# HGV-EN: A versé Maieuris, fils d'Horos, pour la capitation de l'an 21 10 drachmes, et pour le bain, 1 obole. Egale onze drachmes, un obole et les suppléments de l'obole. An 24 du règne de Tibère César Auguste. 23 Pharmouthi banquier
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

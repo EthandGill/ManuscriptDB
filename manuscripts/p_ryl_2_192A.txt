@@ -1,0 +1,58 @@
+[META]
+id:       P.RYL 2.192A
+label:    P.RYL 2.192A
+name:     Receipt — Theadelphia (Arsinoites)
+genre:    receipts
+date:     152 CE
+language: Greek (Koiné)
+found:    Theadelphia (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Theadelphia (Arsinoites) (152 CE)
+# hgv-keywords: Quittung (Steuern)
+tm:       12967
+source:   https://papyri.info/ddbdp/p.ryl;2;192A
+lat:      29.348065
+lon:      30.49696
+
+[GREEK]
+r.1    ἔτους πεντεκαιδεκάτου Αὐτ[οκράτορος]
+r.2    Καίσαρος Τίτου Αἰλίου Ἁδρια[νοῦ]
+r.3    Ἀντωνίνου Σεβαστοῦ Εὐσεβ[οῦς]
+r.4    Παῦνι κδ. διέγραψεν Ὤσι καὶ μετόχοις [πράκτορσιν]
+r.5    ἀργυρικῶν κώμης Θεαδελφίας Τῶις Σαραπίω[νος]
+r.6    διὰ Ἀθην[α]ίου Ἡρακλείδου [κατοίκων]
+r.7    χαλκοῦ ιη … ʼε, προσδιαγραφομένων χαλκοῦ ρπε, κολλύβου λε, συμβόλου ὀβολὸν α 𐅵,
+r.8    καὶ εἰς Διόδοτον τὸν καὶ Νίνναρον Ἀνουβίωνος
+r.9    κατοίκων χαλκοῦ α … ε, προσδιαγραφομένων κ, κολλύβου ε, συμβόλου ὀβολὸν α 𐅵,
+r.10   καὶ εἰς Σαβεῖνον Πρωτάρχου ἐναφεσίων χ, προσδιαγραφομένων α
+r.11   κολλύβου ιε, συμβόλου ὀβολὸν α 𐅵,
+r.12   καὶ εἰ[ς ] … Ἡρακλείδου κατοίκων [χαλκοῦ ] … [,]
+r.13   προσδιαγραφομένων γ … [,] κ[ολλύβου] ι, συμβόλου ὀβολὸν α 𐅵,
+r.14   καὶ εἰς [Δ]ημάριον πρεσβυτέραν Ἡρώδου κατοίκων
+r.15   χαλκοῦ α … [,] προσδιαγραφομένων ρι, κολλύβου κ, συμβόλου ὀβολὸν α 𐅵,
+r.16   κα[ὶ εἰς ] … ωνα Παππίωνος κατοίκων χαλκοῦ τ,
+r.17   [προσδιαγραφομένων λ, ][κ]ολλύβου [ʼι,] συμβόλου ὀβολὸν α 𐅵.
+r.18   γραφὴ ναυβίων
+
+[TRANSLATION]
+# HGV-EN: ‘The 15th year of the Emperor Caesar Titus Aelius Hadrianus Antoninus Augustus Pius, Pauni 24. Paid to Osis and the associate collectors of money-taxes for the village of Theadelphia by Tois daughter of Sarapion, through the agency of Athenaeus son of Heraclides, for (the naubion-tax on) catoeci 1,8[.]5 copper dr., for extra payments 185 copper dr., for change 35, for the receipt 1½ob.; and to the name of Diodotus also called Ninnarus, son of Anoubion, for (the naubion-tax on) catoeci 1[.]5 copper dr., for extra payments 20, for change 5, for the receipt 1½ ob.; and to the name of Sabinus son of Protarchus for (the naubion-tax on) enaphesii 600, for extra payments 120, for change 15, for the receipt 1½ ob.; and to the name of ... of Heraclides for (the naubion-tax on) catoeci … copper dr., for extra payments 3[.], for change 10, for the receipt 1½ ob.; and to the name of Demarion elder daughter of Herodes for (the naubion-tax on) catoeci 1[. . .] copper dr., for extra payments no, for change 30, for the receipt 1½ ob.; and to the name of … son of Pappion for (the naubion-tax on) catoeci 300 copper dr., for extra payments 130, for change 10, for the receipt 1½ ob.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

@@ -1,0 +1,34 @@
+[META]
+id:       P.Oxy. 72.4880
+label:    P.Oxy. 72.4880
+name:     Documentary papyrus — Oxyrhynchites
+genre:    documents
+date:     144 CE
+language: Greek (Koiné)
+found:    Oxyrhynchites
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchites (144 CE)
+# hgv-keywords: Auftrag an die Sitologen von Sinkepha (diastolikon) — Giro - Überweisung von Weizen
+tm:       114260
+source:   https://papyri.info/ddbdp/p.oxy;72;4880
+lat:      28.819983
+lon:      30.889994
+
+[GREEK]
+r.1    … ο … ωνος Νειλαναβάτειος
+r.2    ὁ καὶ Ἀλθαιεὺς σιτολόγοις Σιγκεφα τόπων
+r.3    χαίρειν. διαστείλατε Ἁκώρει
+r.4    Ἱέρακος πυροῦ ἀρτάβας πέντε,
+r.5    γίνονται πυροῦ ἀρτάβαι ε. ἔτους η Ἀντωνίνου
+r.6    Καίσαρος τοῦ κυρίου, Θὼθ ε.
+
+[TRANSLATION]
+# HGV-EN: . . . son of —on, of the Nilanabatean tribe and Althaean deme, to the sitologi of the district of Sincepha, greetings. Transfer to Hacoris son of Hierax five artabas of wheat, total 5 art. of wheat. Year 8 of Antoninus Caesar the lord, Thoth 5. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

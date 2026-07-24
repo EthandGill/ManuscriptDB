@@ -1,0 +1,52 @@
+[META]
+id:       PYLON 8.7_4
+label:    PYLON 8.7_4
+name:     Letter — unbekannt
+genre:    letters
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    unbekannt
+held:     Hamburg
+shelf:    
+content:  Letter from unbekannt (501 CE – 600 CE)
+# hgv-keywords: Brief (privat) — Zahlung — Geld
+tm:       1001068
+source:   https://papyri.info/ddbdp/pylon;8;7_4
+lat:      
+lon:      
+
+[GREEK]
+r.1    … κιμιωτάτου Ἰούστου μαλ …
+r.2    … [εὔχο]μαι τὼν πανελεωνυμoν[α θεὸν]
+r.3    … [παρακαλ]ῶ σε ἵναεἵνα ἀφῇς με ἕως Θὼθ …
+r.4    … ν κώμην ὥστ’ ἐν χώρᾳ …
+r.5    … των ἕως τοῦ πληρῶσαι …
+r.6    … μάτων πληρῶ τὰ Ἀλεκξ[αν][δρ- ][ … ]των κεφαλαίῳ σε τόκῳ …
+r.7    … [κ]οντα πέντε νομισμάτων
+r.8    … πληρωτικήν ἀποχὴ[ν]
+r.9    … υτων τρακτευτὴν
+r.10   … [α]υτα κατ[α]λάμβανε ἕως Μεσορ[ὴ]
+r.11   … [πα]ράσχω σὲ αὐτὰ μετὰ καλοῦ
+r.12   … μετὰ τῶν πριμικηρίων αὐθεντῶ[ν]
+r.13   … [προσα]γ[ο]ρεύω εἱ κυρά σου Τωμα
+r.14   ἐπίδος τῷ δεσπότῃ μου τὰ πάντα λαμπροτάτῳ καὶ εὐδοκιμωτάτῳ …
+r.15   [ἐ]πίδος τῷ δεσπότῃ μου τὰ πάντα λα[μπρ- ] …
+
+[TRANSLATION]
+# HGV-EN: ‘ … the most distinguished Iustus … I pray that the all-merciful God … [I beg (?)] you to let go of me until Thoth … the village, so that I … in [somebody’s] place … until the repayment … I pay for the Alexandrian? … x-five solidi … a payment receipt … the tractator … Come here until Mesorē and I will give them to you, if all goes well … together with our lords the primicerii… I, your lady Toma (?), send greetings. Deliver to my lord the most brilliant and distinguished in all …’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

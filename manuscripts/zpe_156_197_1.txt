@@ -1,0 +1,26 @@
+[META]
+id:       ZPE 156.197_1
+label:    ZPE 156.197_1
+name:     Receipt — Elephantine
+genre:    receipts
+date:     123 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Liverpool
+shelf:    
+content:  Receipt from Elephantine (123 CE)
+# hgv-keywords: Quittung — Steuer
+tm:       140217
+source:   https://papyri.info/ddbdp/zpe;156;197_1
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Σεμπρώνιος Κέλερ καὶ οἱ σ[ὺν] [αὐτῷ]
+r.2    ἐπιτηρηταὶ ἱερᾶς πύλης Σοήνη[ς]
+r.3    διὰ Σαραπίωνος. διέγραψεν
+
+[TRANSLATION]
+1     
+2     
+3     

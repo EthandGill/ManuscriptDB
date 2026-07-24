@@ -1,0 +1,32 @@
+[META]
+id:       P.SIJP 42e
+label:    P.SIJP 42e
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     176 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     
+shelf:    
+content:  Documentary papyrus from Arsinoites (176 CE)
+# hgv-keywords: Bescheinigung — Arbeit — Deich
+tm:       110207
+source:   https://papyri.info/ddbdp/p.sijp;;42e
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    ἔτους ιϛ Αὐρηλίου Ἀντωνίνου Καίσαρος
+r.2    τοῦ κυρίου. εἴργασται ὑπὲρ χωμάτων ιϛ ἔτους Παῦνι
+r.3    κθ ἕως Ἐπεὶφ γ ἐν χώματι δρυμοῦ
+r.4    Ψύων Β … Ἁρμιεῦς
+r.5    Δαμίωνος Ἁρμιέως Θατρήους
+
+[TRANSLATION]
+# HGV-EN: Im 16. Jahr des Aurelius Antoninus Caesar, des Herrn. Es hat gearbeitet an den Deichen für das 16. Jahr vom 19. Payni bis zum 3. Epeiph am Deich des Marschlandes von Psya für B. . . .( ), Harmieus, Sohn des Damion, Enkel des Harmieus, Sohn der Mutter Thatres lost.?lin
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     

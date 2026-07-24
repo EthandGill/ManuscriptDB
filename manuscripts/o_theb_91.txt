@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB 91
+label:    O.THEB 91
+name:     Receipt — Theben
+genre:    receipts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (1 CE – 100 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76461
+source:   https://papyri.info/ddbdp/o.theb;;91
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Γερμανὸς καὶ μέτοχοι τελῶναι
+r.2    πεντηκοστῆς Πετενχώνσει χαίρειν. ἔχω
+r.3    τέλος πυροῦ ἀρτάβας ὄνου ἑνός .
+r.4    ἔτους … [Φαμεν]ὼθ κβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

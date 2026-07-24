@@ -1,0 +1,32 @@
+[META]
+id:       O.THEB 125
+label:    O.THEB 125
+name:     Receipt — Theben
+genre:    receipts
+date:     252 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (252 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       76495
+source:   https://papyri.info/ddbdp/o.theb;;125
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    [μέτρημα] θησαυροῦ μητροπόλεως γενήματος β ἔτους τῶν κυρίων ἡμῶν
+r.2    Γάλλου καὶ Οὐολουσιανοῦ Σεβαστῶν Ἐπεὶφ η
+r.3    ὑπὲρ Ἀγορῶν α ὀνόματος Ἰσιδώρου νεωτέρου Ἀπολλοδώρου πρεσβυτέρου διὰ Φθομώνθου
+r.4    ἀπὸ γενήματος τοῦ αὐτοῦ β ἔτους πυροῦ ἀρτάβας δύο ἥμισυ
+r.5    τρίτον γίνονται πυροῦ ἀρτάβαι β 𐅵 γ. Αὐρήλιος Διόσκορος Α … σεσημείωμαι
+r.6    καὶ ἔσχον τὸν ὀβολόν.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

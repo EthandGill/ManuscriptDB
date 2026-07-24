@@ -1,0 +1,58 @@
+[META]
+id:       P.Oxy. 4.741
+label:    P.Oxy. 4.741
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (101 CE – 200 CE)
+# hgv-keywords: Liste — Gegenstände
+tm:       28352
+source:   https://papyri.info/ddbdp/p.oxy;4;741
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    λόγος ἐντολικῶν Εὐγενέτο[ρο]ς ἐν δισακκιδίῳ·
+r.2    σφυρὶς διπλῆ καρύων α,
+r.3    ἄλλα μικρὰ ε,
+r.4    γυργαθὸς α,
+r.5    ἀρνακὶς α,
+r.6    ψήκτρα α,
+r.7    σόλια ἀρσενικὰ ζεύγη η,
+r.8    [γυ]ναικεῖα ζεύγη ϛ,
+r.9    σανδάλια ὀνικὰ β,
+r.10   ἱππικὸν α,
+r.11   κελλάριον τριλάγυνον α,
+r.12   βι … ων ἀναβολὴ α,
+r.13   προχείρια β,
+r.14   ἐν οἷς ὑελα[ῖ] ἡμισυνθέσεις γ,
+r.15   ποτηρίων δεκατ δ ποτ α,
+r.16   βάτελλαι δ,
+r.17   σκουτλία β,
+r.18   ὀξύβαφον α.
+
+[TRANSLATION]
+# HGV-EN: Account of articles at order of Eugenetor in a double sack :— 1 double basket of nuts, 5 other small ones, 1 wicker crate, 1 sheepskin, 1 scraper, 8 pairs of men’s..., 6 pairs of women’s ditto, 2 donkey straps (?), 1 horse's ditto, 1 three-flagon jar, 1 bag(?) of ..., 2 hold-alls containing 3 half-sets of glass, 4 ... cups and 1 ..., 4 plates, 2 bowls, 1 saucer.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    

@@ -1,0 +1,48 @@
+[META]
+id:       P.Oxy. 1.57
+label:    P.Oxy. 1.57
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     195 CE – 196 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (195 CE – 196 CE)
+# hgv-keywords: Brief (amtlich) — der Stratege Aurelius Apolinarios an den Ex- Strategen des Antaiopolites Apion — Unterschlagung von Geld durch einen von dessen Beamten
+tm:       20719
+source:   https://papyri.info/ddbdp/p.oxy;1;57
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Αὐρήλιος Ἀπολινάριος στρατηγὸς
+r.2    Ὀξυρυγχείτου Ἀπίωνι στρατηγήσαντι Ἀνταιοπολίτου
+r.3    τῶι φιλτάτωι χαίρειν.
+r.4    Διόσκορος ὁ τοῦ Ἀνταιοπολείτου στρατηγός, διʼ οὗ ἐπέστειλέν
+r.5    μοι ἐπιστάλματος κεχρονισμένου εἰς τὸ διεληλυθὸς γ ἔτος, Ἐπεὶφ
+r.6    ιγ, ἐδήλωσεν τὸν τοῦ νομοῦ ἐγλογιστὴν Ποτάμωνα τὸν καὶ Σαραπίωνα ἀνειληφέναι ἐν λήμμασι διοικήσεως τοῦ γ ἔτους ἐν σοὶ
+r.7    ὑπὲρ τοῦ ὁλόκληρον [ποιῆσαι] τὴν ἐπίσκεψιν τῶν χωμάτων καὶ
+r.8    διωρύχων τοῦ β ἔτους τῇ ὁρισθείσῃ προθεσμίᾳ μὴ κατακεχωρικέναι εἰς τὸ τῆς διοικήσεως λογιστήριον δραχμὰς Γρπζ τριώβολον,
+r.9    βουληθείς με τὴν τούτων
+r.10   ἀπαίτησιν ποιησάμενον
+r.11   προσθέσθαι ὑπὲρ ἐκείνου τοῦ
+r.12   νομοῦ. ἵνʼ οὖν εἰδῇς καὶ ἄνευ
+r.13   πάσης ὑπερθέσεως τὴν ἀπόδο[σιν πο]ιήσῃ κατὰ τὰ γραφέν[τα ] …
+
+[TRANSLATION]
+# HGV-EN: Aurelius Apolinarius, strategus of the Oxyrhynchite nome, to his dear friend Apion, ex-strategus of the Antaeopolite nome, greeting. Dioscorus, strategus of the Antaeopolite nome, has sent me a despatch which has been delayed until Epeiph 13 of the past third year, explaining that Potamon, also called Sarapion, the collector of the nome, among the receipts of the revenue of the third year when you were in office, received towards the completion of the survey of the dykes and canals in the second year the sum of 3187 drachmae, 3 obols, which he did not pay over to the revenue office within the appointed time. Dioscorus now wishes me to ask that this should be refunded, and to credit it to the nome. In order therefore that you may be acquainted with these facts and lose no time in repaying the money in accordance with his letter....
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    

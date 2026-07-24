@@ -1,0 +1,26 @@
+[META]
+id:       O.DEISS 84
+label:    O.DEISS 84
+name:     Receipt — Theben ? (Ägypten)
+genre:    receipts
+date:     1 CE – 100 CE
+language: Greek (Koiné)
+found:    Theben ? (Ägypten)
+held:     Sydney
+shelf:    
+content:  Receipt from Theben ? (Ägypten) (1 CE – 100 CE)
+# hgv-keywords: Quittung — Geld
+tm:       73899
+source:   https://papyri.info/ddbdp/o.deiss;;84
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγεγράφηκεν Δῶρος Ἡρακλείδου Π …
+r.2    ὑπὲρ πλια α ἔτους [δραχμὰς τέσσαρας]
+r.3    γίνονται δραχμαὶ δ. ἔτους α …
+
+[TRANSLATION]
+1     
+2     
+3     

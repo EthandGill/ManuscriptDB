@@ -1,0 +1,28 @@
+[META]
+id:       APF 64.37_2
+label:    APF 64.37_2
+name:     Receipt — Ta Memnoneia (Theben)
+genre:    receipts
+date:     62 CE
+language: Greek (Koiné)
+found:    Ta Memnoneia (Theben)
+held:     Copenhagen
+shelf:    
+content:  Receipt from Ta Memnoneia (Theben) (62 CE)
+# hgv-keywords: Quittung — Steuer — Kopfsteuer — Geld
+tm:       756248
+source:   https://papyri.info/ddbdp/apf;64;37_2
+lat:      25.631139
+lon:      32.560331
+
+[GREEK]
+r.1    διαγέγραφεν Μονκορῆς Π … [ὑπὲρ λαογραφίας]
+r.2    Μεμνονείων η ἔτους δραχμὰς ιϛ. ἔτους η Νέρωνος
+r.3    τοῦ κυρίου, Παυνι δ. ὁμοίως
+r.4    Χοιακ ε ὑπὲρ χωματικοῦ δραχμὰς γ, ἡμιωβέλιον αἳ καθαραὶ δραχμαὶ β πεντώβολον ἡμιωβέλιον.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

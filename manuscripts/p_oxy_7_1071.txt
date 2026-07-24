@@ -1,0 +1,44 @@
+[META]
+id:       P.Oxy. 7.1071
+label:    P.Oxy. 7.1071
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     501 CE – 550 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (501 CE – 550 CE)
+# hgv-keywords: Brief (amtlich?) — Pambechis an Askalas — Sendung von Getreide statt Brot
+tm:       35310
+source:   https://papyri.info/ddbdp/p.oxy;7;1071
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    π
+r.2    καθὼς καὶ κατὰ πρόσωπον παρεκλήθης παρʼ ἐμοῦ καὶ παρὰ τοῦ κυρίου μου τοῦ ἐλλογιμοτάτου
+r.3    Κύρου σχολαστικοῦ ἕνεκεν τῶν ἑκατὸν σίτου ἐκ τοῦ παλαιοῦ γενήματος, καταξίωσον οὖν
+r.4    τελείωσον τὴ[ν] χάριν, ἀντίγραψον τοῖς ναύταις σου τὸ τί ὀφείλουσιν ποιήσουσιν. ἐὰν
+r.5    κελεύῃς ἵνα ποιήσουσιν αὐτὰ ψωμία ἐνταῦθα κ[α]ὶ πέμψουσιν αὐτὰ εἰς τὴν Ἰβίονος,
+r.6    γράψον αὐτοῖς, ἐὰν πάλιν κελεύῃς ἵνα πέμψουσιν τὸν σῖτον εἰς τὴν Ἰβίονος, πάλιν
+r.7    γράψον αὐτοῖς· καὶ γὰρ ἤδη ἔλαβεν Ἀνοὺπ τὰς πεντήκοντα αὐτοῦ καὶ ὁ ἄλλος ἔλαβεν
+r.8    τὰς πεντήκοντα αὐτοῦ. καταξίωσον οὖν γράψον αὐτοῖς διὰ τοῦ γραμματηφόρου
+r.9    τὸ τί ὀφείλουσιν ποιήσουσιν, δέσποτα.
+r.10   ἐπίδος τῷ κυρίῳ μου τῷ ἀδελφῷ Ἀσκλᾷ ναυκλήρῳ
+r.11   παρὰ Παμβήχιος πρ …
+
+[TRANSLATION]
+# HGV-EN: As you were urged in person by me and by my lord the most distinguished Cyrus, advocate, on account of the hundred artabae of corn from the old produce, vouchsafe to perform this favour and write to your sailors what they ought to do. If you order them to make the bread here and send it to the village of Ibion, write to them; or if you order them to send the corn to Ibion, again write to them. For Anoup has already taken his fifty, and the other man his fifty. Vouchsafe then to write to them by the letter-carrier what they ought to do, sir. (Addressed) Deliver to my lord and brother Askalas, captain, from Pambechis ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    

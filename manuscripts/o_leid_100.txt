@@ -1,0 +1,38 @@
+[META]
+id:       O.LEID 100
+label:    O.LEID 100
+name:     Receipt — Theben
+genre:    receipts
+date:     123 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (123 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24670
+source:   https://papyri.info/ddbdp/o.leid;;100
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πόστομος ὃς καὶ Ὧρος πράκτωρ ἀργυρικῶν
+r.2    Ἰμούθει Ψενμίνιος Ὀννώφριος
+r.3    ἔσχον ὑπὲρ λαογραφίας καὶ βαλανευτικοῦ ἑβδόμου
+r.4    ἔτους ῥυπαρὰς δραχμὰς δώδεκα, γίνονται ῥυπαραὶ
+r.5    δραχμαὶ ιβ, καὶ ὑπὲρ σκοπέλων καὶ φυλάκων καὶ ἄλλων τοῦ
+r.6    αὐτοῦ ζ ἔτους ῥυπαρὰς δραχμὰς τέσσαρας
+r.7    κέρματος [ὀ]βολοὺς πέντε, γίνονται ῥυπαραὶ
+r.8    δραχμαὶ δ κέρματος ὀβολοὶ ε. ἔτους ζ Ἁδριανοῦ
+r.9    [τοῦ κυρίου Φα]μενὼθ η. …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

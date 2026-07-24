@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 1.42
+label:    P.Oxy. 1.42
+name:     Documentary papyrus — Oxyrhynchos
+genre:    documents
+date:     323 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Documentary papyrus from Oxyrhynchos (323 CE)
+# hgv-keywords: Auftrag des Logistes Dioskurides zu Spielen (Epheben) — Entwurf
+tm:       20703
+source:   https://papyri.info/ddbdp/p.oxy;1;42
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Διοσκουρίδης λογιστὴς Ὀξυρυγχίτου.
+r.2    τῶν ἐφήβων σύμβλημα εἶναι αὔριον κδ,
+r.3    καὶ τὸ ἔθος ὁμοῦ τε καὶ ἡ πανήγυρις προάγουσα
+r.4    [σ]ημαίνει [ὅτ]ι προθυμότατα τοὺς ἐφήβους
+r.5    [τ]ὰ γυμνι[κὰ] ἐπιδείκνυσθαι προσήκει,
+r.6    δι[π]λῇ τῶν θεατῶν συνπαρεσο[μέ]νω[ν τῇ] τέρψει.
+r.7    [μετὰ τὴν ὑπατείαν] τῶν δεσποτῶν ἡμῶν Λικινίου Σεβαστοῦ τὸ ϛ καὶ
+r.8    [Λικινίου τοῦ ][ἐπ]ιφ[αν]εστάτου Καίσαρ[ο]ς τὸ β, τοῖς ἀποδειχθησομένοις ὑπάτοις τὸ γ,
+r.9    Τῦβι κγ.
+
+[TRANSLATION]
+# HGV-EN: Dioscurides, logistes of the Oxyrhynchite nome. The assault at arms by the youths will take place tomorrow, the 24th. Tradition, no less than the distinguished character of the festival, requires that they should do their utmost in the gymnastic display. The spectators will be present at two performances.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

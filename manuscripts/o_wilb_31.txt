@@ -1,0 +1,32 @@
+[META]
+id:       O.WILB 31
+label:    O.WILB 31
+name:     Receipt — Elephantine
+genre:    receipts
+date:     128 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (128 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76543
+source:   https://papyri.info/ddbdp/o.wilb;;31
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Πατεμπ … χις Μαιεῦτος.
+r.2    διέγραψεν Πετεαρουῆρις
+r.3    μαθητὴς οἰκοδόμος ὑπὲρ
+r.4    μηνὸς Χοίακ τοῦ ιγ ἔτους Ἁδριανοῦ
+r.5    Καίσαρος τοῦ κυρίου δραχμὴν μίαν
+r.6    τριώβολον δραχμὴ α τριώβολον. Εὐπ … ἔγραψα
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

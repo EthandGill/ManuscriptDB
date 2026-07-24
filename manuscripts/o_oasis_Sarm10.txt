@@ -1,0 +1,26 @@
+[META]
+id:       O.OASIS Sarm10
+label:    O.OASIS Sarm10
+name:     Receipt — Oasis Parva
+genre:    receipts
+date:     403 CE – 413 CE
+language: Greek (Koiné)
+found:    Oasis Parva
+held:     
+shelf:    
+content:  Receipt from Oasis Parva (403 CE – 413 CE)
+# hgv-keywords: Quittung — Hühner (?)
+tm:       23819
+source:   https://papyri.info/ddbdp/o.oasis;;Sarm10
+lat:      28.373334
+lon:      28.8971005
+
+[GREEK]
+r.1    Σαρμάτῃ ἰδί[ῳ γεούχῳ]
+r.2    Σαμβᾶς ἐπιμε[λητὴς] …
+r.3    ὄρνεα β δύο …
+
+[TRANSLATION]
+1     
+2     
+3     

@@ -1,0 +1,40 @@
+[META]
+id:       P.Oxy. 69.4746
+label:    P.Oxy. 69.4746
+name:     Contract — Oxyrhynchos
+genre:    contracts
+date:     244 CE – 249 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Contract from Oxyrhynchos (244 CE – 249 CE)
+# hgv-keywords: Vertrag — Verkauf (Eselin) — NN an NN — Soldat (imaginifer) ist Schreibhelfer
+tm:       80731
+source:   https://papyri.info/ddbdp/p.oxy;69;4746
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    [πέπ]ρ[ακ]α [τ]ὴν ὄνον
+r.2    καὶ ἀπέσχον τὴν τιμὴν καὶ βεβαιώσω
+r.3    ὡς πρόκειται καὶ ἐπερωτηθεὶς ὡμολόγησα.
+r.4    Τίτος Αἴλιος Ἄμμων
+r.5    ἱππεὺς ἰμαγίνιφερ
+r.6    ἴλης Ἀπριανῆς
+r.7    Φιλιππιανῶν
+r.8    [ἔγρ]αψα ὑπὲρ αὐτοῦ
+r.9    … [μ]ὴ εἰδότος γράμματα.
+
+[TRANSLATION]
+# HGV-EN: . . . I have sold the donkey and received the price and shall guarantee (it) as aforesaid, and in reply to the formal question I consented. I, Titus Aelius Ammon, eques imaginifer of the ala Apriana Philippianorum, wrote on his behalf . . . for he does not know letters. (N. Gonis)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     

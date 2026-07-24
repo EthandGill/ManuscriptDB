@@ -1,0 +1,24 @@
+[META]
+id:       O.DID 433
+label:    O.DID 433
+name:     Letter — Didymoi
+genre:    letters
+date:     100 CE – 110 CE
+language: Greek (Koiné)
+found:    Didymoi
+held:     Qift
+shelf:    
+content:  Letter from Didymoi (100 CE – 110 CE)
+# hgv-keywords: Brief (privat) — Magnus (vexillarius) an Lucia — unvollendet — nur Präskript
+tm:       144994
+source:   https://papyri.info/ddbdp/o.did;;433
+lat:      25.7543330528
+lon:      33.3947791619
+
+[GREEK]
+r.1    Μάγνος οὐιξιλλάριος Λουκιάτι
+r.2    τλ
+
+[TRANSLATION]
+1     
+2     

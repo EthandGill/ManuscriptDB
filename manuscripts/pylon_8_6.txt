@@ -1,0 +1,30 @@
+[META]
+id:       PYLON 8.6
+label:    PYLON 8.6
+name:     Documentary papyrus — Arsinoites
+genre:    documents
+date:     501 CE – 600 CE
+language: Greek (Koiné)
+found:    Arsinoites
+held:     Prague
+shelf:    
+content:  Documentary papyrus from Arsinoites (501 CE – 600 CE)
+# hgv-keywords: Anweisung (Theon an den Ölmüller Sambas)
+tm:       1001064
+source:   https://papyri.info/ddbdp/pylon;8;6
+lat:      29.2863267013
+lon:      30.7347325572
+
+[GREEK]
+r.1    [ Θέων Σα]μβᾷ ἐλαιουργῷ · πέντε ξέστας ἐλαίου π[αράσχου] …
+r.2    ὑ[π]ὲρ τροφῆς μηνὸς α ἕως Ἐπειφ ιη ἀ[ρ]χῇ ιδ ἰνδικτίονος, ἐλαίου ξέστας ε μ[όνους. month day ιγ ἰνδικτίονος. ἐσημειωσάμην ἐλαίου]
+r.3    [ξέστας] πέντε μόνον.
+r.4    δι’ ἐμοῦ Ποῦσι illegible text or tachygraphy
+
+[TRANSLATION]
+# HGV-EN: ⳨ Theon to Sambas, oil-maker: supply NN with five xestai of oil for their maintenance for one month // until Epeiph // 18th, at the beginning of the 14th indiction year, 5 xestai of oil exactly. [month, day,] 13th indiction. (hand 2) I have approved five xestai of oil exactly. (hand 1) † (Written) by me, Pousi. † (illegible text)
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     

@@ -1,0 +1,60 @@
+[META]
+id:       P.NAQLUN 2.21
+label:    P.NAQLUN 2.21
+name:     Contract — Naqlun bzw. Alexandru Nesos (Arsinoites)
+genre:    contracts
+date:     585 CE
+language: Greek (Koiné)
+found:    Naqlun bzw. Alexandru Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Contract from Naqlun bzw. Alexandru Nesos (Arsinoites) (585 CE)
+# hgv-keywords: Vertrag — Aurelius Makarios mit dem Mönch Apa Neilos — Darlehen — Geld
+tm:       115532
+source:   https://papyri.info/ddbdp/p.naqlun;2;21
+lat:      29.3084
+lon:      30.8428
+
+[GREEK]
+r.1    Φα[ῶ]φι κ [τετ]άρτης ἰνδικτίωνος.
+r.2    Αὐρηλίου Μακαρίου υἱοῦ Ἰακωπος ἀπὸ κώμης Ἀλεξάνδρου Νήσου τοῦ Ἀρσινοίτου νομοῦ
+r.3    τῷ εὐλαβ[εστ]άτῳ ἄπα Νείλῳ
+r.4    μονάζο[ντι κ]αὶ προεστώτι
+r.5    Πύργου κα[ὶ τοῦ] ἀ[γί]ου Φοιβάμμωνος
+r.6    [Ὄρους] Κελλῶν χ[αί]ρ[ε]ιν.
+r.7    [ ] ὁμολογῶ ἐσχηκέν[αι με]
+r.8    [πα]ρὰ σοῦ [δ]ιὰ χειρ[ὸς εἰς ἰδίαν]
+r.9    μου κ[αὶ ἀναγκαίαν χρείαν]
+r.10   … [κεφαλαίου καὶ λ]όγῳ τό[κου]
+r.11   αὐτοῦ κέρμ[α]τος μυρι[ά]δας
+r.12   ἑξακοσίας κέρματος μυριάδας χ
+r.13   εἰ δὲ τῇ προθεσμίᾳ μὴ τοῦτό
+r.14   σοι ἀποδώσω μετὰ τόκου
+r.15   ἀναμφιβόλως καὶ ἄνευ πάσης
+r.16   ἀντιλογίας , ἐξ ὑπαρχόντων
+r.17   [μου] πάντων. καὶ ἐπερωτηθεὶς ὡμολόγησα
+r.18   [ ] δ[ιʼ] ἐ[μοῦ] …
+r.19   χειρόγραφον Α[ὐρηλίου][ Μακαρίου υἱοῦ Ἰα]κω[πος τῷ ε]ὐλαβεστάτῳ ἄπα Νείλῳ μον[άζοντι]
+
+[TRANSLATION]
+# HGV-EN: (Chrysamon). Phaophi 20 of the 4th indiction. (From) Aurelius Makarios son of Iakop from the village of Alexandrou Nesos in the Arsinoite nome to the most pious apa Neilos, monk and proestos of the (monastery of) the Tower and of St. Phoibammon of the Mountain of Cells (Ὄρος Κελλῶν) greeting. I acknowledge that I have received from you in ready money for my own and necessary use … (sum) as capital, at an interest of six hundred myriads of bronze coins (kerma), 600 myr. br. If I do not return it to you on the declared date with interest, without question and without contradiction [you shall have the right of execution ] upon my whole estate. And when asked the formal question I declared [this deed] valid. By me ... (notary’s subscription) Cheirographon. (From) Aurelius Makarios son of Iakop to the most pious apa Neilos, monk.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

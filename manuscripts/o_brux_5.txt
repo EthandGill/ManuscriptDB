@@ -1,0 +1,28 @@
+[META]
+id:       O.BRUX 5
+label:    O.BRUX 5
+name:     Receipt — Elephantine
+genre:    receipts
+date:     149 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (149 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       24370
+source:   https://papyri.info/ddbdp/o.brux;;5
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Δομίτιος Φαννειανὸς καὶ
+r.2    Γερμανὸς πράκτορες ἀργυρικῶν Ἐλεφαντίνης. διέγραψεν Παχνοῦμις ὁ καὶ Ζμῆτις
+r.3    Βιήνχεως μητρὸς Θιψανσνῶτος ὑπὲρ μερισμῶν ιβ ἔτους Ἀντωνείνου
+r.4    Καίσαρος τοῦ κυρίου ῥυπαρὰς δραχμὰς τέσσαρας, δραχμαὶ δ. Φαμενὼθ κγ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

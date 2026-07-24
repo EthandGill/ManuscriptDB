@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.573
+label:    O.BODL 2.573
+name:     Receipt — Theben
+genre:    receipts
+date:     102 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (102 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71269
+source:   https://papyri.info/ddbdp/o.bodl;2;573
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πρεμτώτης
+r.2    Παμώνθου ὑπὲρ χωματικοῦ
+r.3    Ὠφιήου ε ἔτους ἓξ τετρώβολον
+r.4    καὶ προσδιαγραφόμενα. ἔτους ε Τραιανοῦ
+r.5    … Μεσορὴ κδ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

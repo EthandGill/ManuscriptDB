@@ -1,0 +1,22 @@
+[META]
+id:       O.DEISS 85
+label:    O.DEISS 85
+name:     Receipt — Theben (Ägypten)
+genre:    receipts
+date:     38 CE
+language: Greek (Koiné)
+found:    Theben (Ägypten)
+held:     Sydney
+shelf:    
+content:  Receipt from Theben (Ägypten) (38 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       73900
+source:   https://papyri.info/ddbdp/o.deiss;;85
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    ἔτους β Γαίου Καίσαρος [Σεβαστοῦ Γ]ερμανικοῦ Φαμενὼθ κε.
+
+[TRANSLATION]
+1     

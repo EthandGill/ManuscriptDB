@@ -1,0 +1,32 @@
+[META]
+id:       O.ONT.MUS 2.163
+label:    O.ONT.MUS 2.163
+name:     Receipt — Theben
+genre:    receipts
+date:     214 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (214 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75182
+source:   https://papyri.info/ddbdp/o.ont.mus;2;163
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Θὼθ κδ τοῦ κγ ἔτους ὀνόματος
+r.2    Παουήσιος Πετ ὑπὲρ ἐπικεφαλαίου
+r.3    Ἀγορῶν κα ἔτους δραχμὰς τέσσαρας
+r.4    γίνονται δραχμαὶ δ. Αρ σεσημείωμαι
+r.5    ἄλλας Ἁθ[ὺρ] …
+r.6    … γίνονται δραχμαὶ δ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

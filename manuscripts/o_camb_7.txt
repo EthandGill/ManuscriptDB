@@ -1,0 +1,22 @@
+[META]
+id:       O.CAMB 7
+label:    O.CAMB 7
+name:     Receipt — Theben
+genre:    receipts
+date:     119 BCE – 118 BCE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (119 BCE – 118 BCE)
+# hgv-keywords: Quittung — Bank
+tm:       44233
+source:   https://papyri.info/ddbdp/o.camb;;7
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Εἰρηναῖος τραπεζίτης.
+
+[TRANSLATION]
+1     

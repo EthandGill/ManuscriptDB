@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.1690
+label:    O.BODL 2.1690
+name:     Receipt — Theben
+genre:    receipts
+date:     217 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (217 CE)
+# hgv-keywords: Quittung — Grünfutter
+tm:       72374
+source:   https://papyri.info/ddbdp/o.bodl;2;1690
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Φαρμοῦθι ιθ ἔτους τοῦ κε ὀνόματος
+r.2    Φατρήους νεωτέρου Θαμίνιος Ἑριέως
+r.3    ὑπὲρ γράστεως κε ἔτους γράστιν ἀρούρης ρκη.
+r.4    ἔτους κε Φαρμοῦθι ιθ.
+r.5    Αὐρήλιος Ἀμώνιος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

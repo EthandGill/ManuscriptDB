@@ -1,0 +1,34 @@
+[META]
+id:       BGU 3.761
+label:    BGU 3.761
+name:     Receipt — Karanis (Arsinoites)
+genre:    receipts
+date:     131 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     
+shelf:    
+content:  Receipt from Karanis (Arsinoites) (131 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       9333
+source:   https://papyri.info/ddbdp/bgu;3;761
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    ἔτους πεντεκαιδεκάτου Αὐτοκράτορος
+r.2    Καίσαρος Τραιανοῦ Ἁδριανοῦ
+r.3    Σεβαστοῦ ἐπαγομενῶν γ. διέγραψε Ὡρίωνι
+r.4    καὶ μετόχοις πράκτορσι Σεμπρών[ι]ος Ἀπί[ω]νος
+r.5    περιγινομένων τοῦ αὐτοῦ ἔτους Καρανίδος οἰκοπέδων δραχμὰς τέσσαρας
+r.6    γίνονται δραχμαὶ δ.
+
+[TRANSLATION]
+# HGV-EN: Year fifteen of Imperator Caesar Traianus Hadrianus Augustus, intercalary day 3. Paid to Horion and his associates, tax collectors, (by) Sempron[i]us Api[a]nus for the revenues from buildings in Karanis for the same year four drachmas, = 4 drachmas.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     

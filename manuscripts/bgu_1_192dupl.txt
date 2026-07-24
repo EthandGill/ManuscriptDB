@@ -1,0 +1,36 @@
+[META]
+id:       BGU 1.192dupl
+label:    BGU 1.192dupl
+name:     Documentary papyrus — Soknopaiu Nesos (Arsinoites)
+genre:    documents
+date:     163 CE
+language: Greek (Koiné)
+found:    Soknopaiu Nesos (Arsinoites)
+held:     
+shelf:    
+content:  Documentary papyrus from Soknopaiu Nesos (Arsinoites) (163 CE)
+# hgv-keywords: Deklaration — Kamele — frühere Deklarationen
+tm:       8953
+source:   https://papyri.info/ddbdp/bgu;1;192dupl
+lat:      29.5334745
+lon:      30.668916
+
+[GREEK]
+r.1    ἀπογεγραμμένοι στρατηγῷ διʼ Ἀρτεμᾶ βοηθοῦ
+r.2    κάμηλοι β Μεχεὶρ δ.
+r.3    ἀπογεγραμμένοι βασιλικῷ γραμματεῖ διʼ Ἀδράστου
+r.4    βοηθοῦ κάμηλοι β Μεχεὶρ δ.
+r.5    ἐξηριθμκὼς παρὰ στρατηγῷ συμφωνῶ.
+r.6    ἐξηριθμκὼς παρὰ βασιλικῷ γραμματεῖ συμφωνῶ.
+r.7    ἐξηριθμκὼς παρὰ ξενου συμφωνῶ.
+
+[TRANSLATION]
+# HGV-EN: (m. 1) Registered at the office of the strategos, through Art , assistant, 2 camels, Mecheir 4. (m. 2) Registered at the office of the royal scribe, through Adrastos, assistant, 2 camels, Mecheir 4. (m. 3) It has been tallied at the office of the strategos in corroboration. (m. 4) It has been tallied at the office of the royal scribe in corroboration. (m. 5) It has been tallied by an unknown person in corroboration.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     

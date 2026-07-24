@@ -1,0 +1,32 @@
+[META]
+id:       O.EDFOU 1.53
+label:    O.EDFOU 1.53
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     75 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (75 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       46993
+source:   https://papyri.info/ddbdp/o.edfou;1;53
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    [Θεόδω]ρος Ἀντωνίου Ῥούφου
+r.2    [τι]μῆς δηναρίων δύο Ἰουδαίων ζ ἔτους Οὐεσπασιανοῦ
+r.3    δραχμὰς η διώβολον ἀπαρχῆς δραχμὴν α Νίκων Ἀντωνίου Ῥούφου ὁμοίως
+r.4    δραχμὰς η διώβολον ἀπαρχῆς δραχμὴν α Τρυφᾶς
+r.5    Νίκωνος ὁμοίως δραχμὰς η διώβολον
+r.6    ἀπαρχῆς δραχμὴν α ἔτους ζ Φαρμοῦθι κη
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

@@ -1,0 +1,30 @@
+[META]
+id:       O.BERL 36
+label:    O.BERL 36
+name:     Receipt — Elephantine
+genre:    receipts
+date:     128 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     
+shelf:    
+content:  Receipt from Elephantine (128 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24428
+source:   https://papyri.info/ddbdp/o.berl;;36
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    Καλασῖρις πράκτωρ. διέγραψεν Πᾶνες
+r.2    Ζμετπῶτος ὑπὲρ μερισμοῦ ἀνδριάντων δραχμὰς
+r.3    δύω, γίνονται δραχμαὶ β. ἔτους ιγ Ἁδριανοῦ
+r.4    τοῦ κυρίου Θὼθ κα. Σαραπίων
+r.5    Σιβύλεως βοηθός.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

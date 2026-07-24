@@ -1,0 +1,64 @@
+[META]
+id:       P.Oxy. 4.743
+label:    P.Oxy. 4.743
+name:     Letter — Alexandria (?)
+genre:    letters
+date:     2 BCE
+language: Greek (Koiné)
+found:    Alexandria (?)
+held:     
+shelf:    
+content:  Letter from Alexandria (?) (2 BCE)
+# hgv-keywords: Brief (privat) — Beglaubigung für Damas — der geschickt wurde — um Geld einzusammeln
+tm:       20441
+source:   https://papyri.info/ddbdp/p.oxy;4;743
+lat:      31.201435
+lon:      29.909773
+
+[GREEK]
+r.1    … θέλω δέ σε καὶ τὸν Καίσαρος
+r.2    … ἀναγνοῦναι, δεῖ γάρ σε
+r.3    εἰ καὶ π[ρ]ὸς ἄλλους εἶχον πρᾶγμα
+r.4    βοηθὸν αὐτοῦ γ[ε]νέσθαι διὰ ἣν
+r.5    ἔχομεν πρὸς ἑαυτοὺς φιλίαν. καὶ
+r.6    γὰρ ἐγὼ ὅλως διαπον[ο]ῦμαι εἰ Ἕλενος χαλκοὺς ἀπώλεσεν, παραγενομένου
+r.7    γὰρ Δαμᾶτος εἰς Ἀλεξάνδρειαν ἤλθαμεν ἐπὶ Ἐπαφρόδειτον καὶ εὑρέθη μήτε εἰληφὼς μήτε δεδωκώς.
+r.8    ὥστʼ ἂν τοῦτό σε θέλω γινώσκειν
+r.9    ὅτι ἐγὼ αὐτῷ διαστολὰς δεδώκειν
+r.10   τὸ βαδίσαι εἰς Τακόνα χάριν τῶν ἐκφορίων καὶ τὰ νῦν ἐπιπέπομφα
+r.11   αὐτὸν πάντα συνλέξαι καὶ περὶ πάντων αὐτῷ τὴν ἐπιτροπὴν δέδωκα.
+r.12   ἐν οἷς ἐὰν σοῦ προσδεῆται συνπροσγενέσθαι αὐτῶι ὡς ἀνθομολογησομένῳ
+r.13   ὑπέρ σου οὕτως ὡς ὑπέρ μου. ἐν τῷ δέ
+r.14   με περισπᾶσθαι οὐκ ἠδυνάσθην
+r.15   συντυχεῖν Ἀπολλωνίῳ τῷ Λιβικῷ ἵνα
+r.16   αὐτῷ αὐτὰ ταῦτα ὑποδείξω. καὶ σὺ
+r.17   δὲ ὑπὲρ ὧν ἐὰν θέλῃς γράφε μοι καὶ ἀνόκνως ποιήσω, Δαμᾶς γάρ μοι ἀνθωμολογήσατο
+r.18   πάντα. καλῶς δὲ γέγονεν τὸ ταχὺ
+r.19   αὐτὸν ἐλθεῖν, ὑφηγήσεται γάρ σοι.
+r.20   σεαυτοῦ ἐπιμέλου ἵνʼ ὑγιαίνῃς. ἐπισκοποῦ τοὺς σοὺς πάντα[ς].
+r.21   ἔρρω[σο]. ἔτους κθ Καίσαρος Φαῶφι ϛ.
+
+[TRANSLATION]
+# HGV-EN: ...I wish you and the ... of Caesar to read this (?), for although I (?) have had trouble with others you must assist him for the sake of our friendship. I am quite upset at Helenos’ loss of the money; for when Damas arrived at Alexandria we came to Epaphroditus, and it was discovered that he had neither received nor paid anything. I wish you therefore to know this that I had given him orders to go to Takona for the rents, and now I have dispatched him to collect them all and have entrusted to him the care of the whole matter. Whatever service he may require from you, stand by him, as he will agree in everything for you just as for me. Owing to my worries I was unable to meet Apollonius the Libyan in order to inform him of this. Write to me yourself about anything you want, and I will do it without hesitation; for Damas has agreed in everything with me. It is well for him to come quickly, for he will instruct you. Take care of yourself so that you may remain in good health. Look after all your household. Good-bye. The 29th year of Caesar, Phaophi 6.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    

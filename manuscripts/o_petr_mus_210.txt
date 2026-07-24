@@ -1,0 +1,30 @@
+[META]
+id:       O.PETR.MUS 210
+label:    O.PETR.MUS 210
+name:     Receipt — Theben
+genre:    receipts
+date:     154 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (154 CE)
+# hgv-keywords: Quittung — Steuer (Badesteuer)
+tm:       75375
+source:   https://papyri.info/ddbdp/o.petr.mus;;210
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ὡρίων καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν Καμ …
+r.2    Πεμαῦτος ἔσχομεν ὑπὲρ βαλανευτικοῦ δραχμὴν μίαν γίνεται δραχμὴ α
+r.3    τοῦ ιζ ἔτους Ἀντωνίνου Καίσαρος
+r.4    τοῦ κυρίου Φαρμοῦθι κ.
+r.5    Διόσκορος σεσημείωμαι
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,22 @@
+[META]
+id:       BGU 10.1922
+label:    BGU 10.1922
+name:     Letter — Oxyrhynchos
+genre:    letters
+date:     246 BCE – 221 BCE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Letter from Oxyrhynchos (246 BCE – 221 BCE)
+# hgv-keywords: Brief (amtlich) — Dionysios an Nikanor — wegen einer Eingabe
+tm:       4981
+source:   https://papyri.info/ddbdp/bgu;10;1922
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Διονύσιος Νικάνορι [χ]αίρειν. ἔδω[κ ] … [ τὴν ἔν]τευξιν γεγραμμ[έν]ην …
+
+[TRANSLATION]
+1     

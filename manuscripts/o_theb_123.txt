@@ -1,0 +1,28 @@
+[META]
+id:       O.THEB 123
+label:    O.THEB 123
+name:     Receipt — Theben
+genre:    receipts
+date:     211 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (211 CE)
+# hgv-keywords: Quittung — Getreide
+tm:       76493
+source:   https://papyri.info/ddbdp/o.theb;;123
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    μέτρημα θησαυροῦ μητροπόλεως γενήματος ιθ ἔτους Ἀντωνίνου καὶ Γέτα Εὐσεβῶν Σεβαστῶν
+r.2    Παῦνι κη ὑπὲρ Νήσων ὑπὲρ λημμάτων ιη ἔτους ὀνόματος Πεκύσιος Τρεμπαπουήσιος κριθῆς ἀρτάβης ἕκτον κδ γίνεται κριθῆς ἀρτάβης ϛ κδ. Εὐκη σεσημείωμαι.
+r.3    ἄλλο Θὼθ ιϛ ὑπὲρ λημμάτων ιη ἔτους ὀνόματος τοῦ αὐτοῦ κριθῆς ἀρτάβης ὄγδοον
+r.4    γίνεται κριθῆς ἀρτάβης η. Εὐκη σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

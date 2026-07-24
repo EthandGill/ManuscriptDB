@@ -1,0 +1,38 @@
+[META]
+id:       O.CLAUD 1.156
+label:    O.CLAUD 1.156
+name:     Contract — Mons Claudianus
+genre:    contracts
+date:     101 CE – 200 CE
+language: Greek (Koiné)
+found:    Mons Claudianus
+held:     Qift
+shelf:    
+content:  Contract from Mons Claudianus (101 CE – 200 CE)
+# hgv-keywords: Brief (privat) — Antigonos an Marion — Schwierigkeiten bei der Rückzahlung eines Darlehens
+tm:       29815
+source:   https://papyri.info/ddbdp/o.claud;1;156
+lat:      26.809167
+lon:      33.486944
+
+[GREEK]
+r.1    Ἀντίγονος Μαρίωνι τῷ ἀδελφῷ χαίρειν. ἔπεμψά σοι διὰ
+r.2    Καρπουννίου τοῦ συμπολίτου
+r.3    ἡμῶν τοῦ κιβαριάτου τὸ χειρόγραφον Ῥο[υ]τιλίου. ἐρωτῶ σε, ἄδελφε, ὡς ἠρώτησά σε εἰς Αἴγυπτον,
+r.4    ἵνα ἀπαιτήσῃς αὐτὸν εἴ τι ὀφείλει.
+r.5    οἶδα ὅτι γοργὸς εἶ μή σε περιγελάσῃ
+r.6    ῥήμασι. ὑπονοεῖ ὡς σὸν εἶναι
+r.7    τὸ γράμμα. ἐρεῖς καὶ τῇ ἐξουσίᾳ
+r.8    ὅτι πόσον χρόνον ἔχει τὸ χειρόγραφον καὶ οὐκ ἀπο[δέ]δωκεν. ἔρρωσο.
+
+[TRANSLATION]
+# HGV-EN: Antigonus to Marion his brother, greetings. I send you, through Calpurnius (?) our co-citizen, the cibariator, Rutilius' contract (cheirograph). I ask you, brother, as I asked you when you (were) in Egypt, to demand from him what he owes you. I know that you are fierce, so he will not ridicule you with words. He suspects that the note is yours. You will say, as is your right, how old the contract (cheirograph) is and that he has not paid up. Farewell.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     

@@ -1,0 +1,40 @@
+[META]
+id:       P.GRENF 1.26
+label:    P.GRENF 1.26
+name:     Receipt — Pathyris
+genre:    receipts
+date:     109 BCE
+language: Greek (Koiné)
+found:    Pathyris
+held:     
+shelf:    
+content:  Receipt from Pathyris (109 BCE)
+# hgv-keywords: Quittung — Rückzahlung — Darlehen — Getreide — inklusive Strafsumme
+tm:       48348
+source:   https://papyri.info/ddbdp/p.grenf;1;26
+lat:      25.369659
+lon:      32.473946
+
+[GREEK]
+r.1    ἔτους θ Ἁθὺρ ιγ ἐν Παθύρει ἐπὶ Σώσου ἀγορανόμου,
+r.2    ἐπελύσατ[ο] Ψενενοῦπις Ὀννώφριος δάνειον
+r.3    πυροῦ ἀρταβῶν νϛ, ἃ ἐδάνεισεν αὐτῷ Ἐριανοῦπις
+r.4    Παθώτου ἐν τῷ γ ἔτει Θῶυθ κατὰ συνγραφὴν δανείου
+r.5    [τὴν] τεθεῖσαν ἐπὶ τοῦ ἐν Παθύρει ἀρχε[ίο]υ,
+r.6    [ὃς] καὶ παρὼν ἐπὶ τοῦ ἀρχείου Ἐριανοῦπις
+r.7    [δ]ιωμολογήσατο ἀπέχειν, καὶ μὴ ἐπι[καλεῖν π]ερὶ τῶν διὰ τοῦ δανείου πάντων
+r.8    τρόπῳ μηδενί, τὴν δὲ ἡμιολί[α]ν ἀφεικέναι
+r.9    Ἑρμίας ὁ παρὰ Σώσου κεχρημάτικα.
+r.10   ἐπίλυσις Ψενενούπιος.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    

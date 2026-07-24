@@ -1,0 +1,28 @@
+[META]
+id:       O.EDFOU 1.123
+label:    O.EDFOU 1.123
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     106 CE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (106 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       47064
+source:   https://papyri.info/ddbdp/o.edfou;1;123
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    Σαββαθίων Ἰωσήπου λαογραφίας
+r.2    θ ἔτους Τραιανοῦ τοῦ κυρίου
+r.3    δραχμὰς η φυλακιτικοῦ τριώβολον σκοπέλου δραχμὴν α
+r.4    ἔτους θ Μεσορὴ κη
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

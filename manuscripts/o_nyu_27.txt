@@ -1,0 +1,26 @@
+[META]
+id:       O.NYU 27
+label:    O.NYU 27
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     4 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (4 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869429
+source:   https://papyri.info/ddbdp/o.nyu;;27
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λγ Μεχειρ λ συμβολ
+r.2    ταφικοῦ λβ ἔτους Ἅρπηκις Σισόιτος δραχμὰς
+r.3    τεσσαράκοντα τετρώβολον, γίνονται μ τετρώβολον. Πίσηχθις.
+
+[TRANSLATION]
+1     
+2     
+3     

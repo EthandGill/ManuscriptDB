@@ -1,0 +1,28 @@
+[META]
+id:       O.ONT.MUS 2.98
+label:    O.ONT.MUS 2.98
+name:     Receipt — Theben
+genre:    receipts
+date:     103 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (103 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       75115
+source:   https://papyri.info/ddbdp/o.ont.mus;2;98
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Ἑρμόδωρ[ος] …
+r.2    ὑπὲρ χωματικοῦ Ἀγορῶν Νότου ϛ [ἔτους]
+r.3    … τετρώβολον ἡµιωβέλιον καὶ προσδιαγραφόµενα. ἔτους ζ Τρα[ιανοῦ]
+r.4    τοῦ κυρίου Ἁθὺρ λβ
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

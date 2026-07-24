@@ -1,0 +1,28 @@
+[META]
+id:       O.AMST 43
+label:    O.AMST 43
+name:     Receipt — Theben
+genre:    receipts
+date:     90 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (90 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       70390
+source:   https://papyri.info/ddbdp/o.amst;;43
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Ποριεύθης νεώτερος Ὥρου
+r.2    Ἐσμίνιος ὑπὲρ γεωμετρίας Ἄνω τοπαρχίας θ ἔτους δραχμὰς τέσσαρας,
+r.3    γίνονται δ καὶ προσδιαγραφόμενα. ἔτους ι Δομιτιανοῦ τοῦ κυρίου Φαῶφι λγ.
+r.4    Σωκράτης σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

@@ -1,0 +1,52 @@
+[META]
+id:       P.Oxy. 1.38
+label:    P.Oxy. 1.38
+name:     Petition — Oxyrhynchos
+genre:    petitions
+date:     49 CE
+language: Greek (Koiné)
+found:    Oxyrhynchos
+held:     
+shelf:    
+content:  Petition from Oxyrhynchos (49 CE)
+# hgv-keywords: Eingabe — Tryphon an Gn. Vergilius Capito — weitere Schikanen durch den Finder eines Kindes — dessen Amme Tryphons Frau war
+tm:       20700
+source:   https://papyri.info/ddbdp/p.oxy;1;38
+lat:      28.542574
+lon:      30.65172
+
+[GREEK]
+r.1    Γναίωι Οὐεργιλίωι Καπίτωνι,
+r.2    παρὰ Τρύφωνος τοῦ Διονυσίου τῶν ἀπʼ Ὀξυρύγχων πόλεως. Σῦρος Σύρου ἐνεχείρισεν
+r.3    τῇ γυναικί μου Σαραεῦτι Ἀπίωνος τῶι ζ ἔτει
+r.4    Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανικοῦ
+r.5    Αὐτοκράτορος διʼ ἐγγύου ἐμοῦ ὃ ἀνῄρηται ἀπὸ
+r.6    κοπρίας ἀρσενικὸν σωμάτιον, ᾧ ὄνομα Ἡρακλᾶς,
+r.7    ὥστε τροφ[εῦσα]ι. τοῦ [οὖ]ν σωματίο[υ τε]τελευτηκότος, καὶ τοῦ Σύρ[ου] ἐπικεχειρηκότος ἀποσπάσαι
+r.8    εἰς δουλαγωγία[ν] τὸν ἀφήλικά μου υἱὸν Ἀπίωνα,
+r.9    π[α]ρῆλθον ἐπὶ τοῦ γενομένου τοῦ νομοῦ
+r.10   στρατηγοῦ Πασίωνος, ὑφʼ οὗ καὶ ἀποκατεστάθη μοι
+r.11   ὁ υἱὸς Ἀπίων ἀκολούθως τοῖς ὑπὸ σοῦ τοῦ εὐεργέτου προστεταγμένοις καὶ τοῖς γεγονόσι, ὑπὸ τοῦ
+r.12   Πασίωνος ὑπομνηματισμοῖς. τοῦ δὲ Σύρου
+r.13   μὴ βουλομένου ἐνμεῖναι τοῖς κεκριμένοις
+r.14   ἀλλὰ καὶ καταργοῦντός με χειρότεχνον ὄντα,
+r.15   ἐπὶ σὲ τὸν πάντων σωτῆρα τῶν δικαίων τυχεῖν. εὐτύχει.
+
+[TRANSLATION]
+# HGV-EN: To Gnaeus Vergilius Capito, from Tryphon, son of Dionysius, of the city of Oxyrhynchus. Syrus, son of Syrus, entrusted to the keeping of my wife Saraeus, daughter of Apion, in the seventh year of Tiberius Claudius Caesar Augustus Germanicus Imperator, on my security, a boy foundling named Heraclas, whom he had picked up from the gutter, to be nursed. The foundling died, and Syrus tried to carry off into slavery my infant son Apion. I accordingly applied to Pasion, the strategus of the nome, by whom my son Apion was restored to me in accordance with what you, my benefactor, had commanded, and the minutes entered by Pasion. Syrus, however, refuses to comply with the judgement, and hinders me in my trade. I therefore come to you, my preserver, in order to obtain my rights. Farewell.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    

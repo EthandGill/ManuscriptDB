@@ -1,0 +1,30 @@
+[META]
+id:       O.THEB 60
+label:    O.THEB 60
+name:     Receipt — Theben
+genre:    receipts
+date:     191 CE
+language: Greek (Koiné)
+found:    Theben
+held:     Toronto
+shelf:    
+content:  Receipt from Theben (191 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       76430
+source:   https://papyri.info/ddbdp/o.theb;;60
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πρεμαὼς καὶ μέτοχοι ἐπιτηρηταὶ τέλους γερδίων
+r.2    Πετεμενώφει Σενπετεμενώφιος χαίρειν.
+r.3    ἔσχομεν ὑπὲρ τέλους μηνὸς Φαμενὼθ τοῦ λα ἔτους
+r.4    δραχμὰς η γίνονται δραχμαὶ η.
+r.5    ἔτους λα Φαρμοῦθι ϛ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

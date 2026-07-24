@@ -1,0 +1,32 @@
+[META]
+id:       O.BRUX 3
+label:    O.BRUX 3
+name:     Receipt — Theben
+genre:    receipts
+date:     115 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (115 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       24368
+source:   https://papyri.info/ddbdp/o.brux;;3
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἰμούθης καὶ μέτοχοι Ψενχώνσει
+r.2    Πετοώφιος χαίρειν. ἔσχομεν ὑπὲρ λαογραφίας
+r.3    Χάρακος ιη ἔτους ῥυπαρὰς δραχμὰς δώδεκα,
+r.4    γίνονται ῥυπαραὶ δραχμαὶ ιβ. ἔτους ιη Τραιανοῦ
+r.5    Ἀρίστου τοῦ κυρίου
+r.6    Φαρμοῦθι κη. Α σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

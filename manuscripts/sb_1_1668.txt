@@ -1,0 +1,28 @@
+[META]
+id:       SB 1.1668
+label:    SB 1.1668
+name:     Receipt — Theben
+genre:    receipts
+date:     75 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (75 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       23061
+source:   https://papyri.info/ddbdp/sb;1;1668
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διέγραψεν Χεμτσνεὺς Πελείλιος Πουώριος καὶ
+r.2    Καβειρις Χεμτσνέως Πελείλιος ὑπὲρ μερισμοῦ Ὠφιήου
+r.3    ϛ ἔτους Φµαῦ δραχμὰς β ὀβολὸν. ἔτους ζ Οὐεσπασιανοῦ τοῦ κυρίου,
+r.4    Φαρμοῦθι α.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

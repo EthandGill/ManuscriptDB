@@ -1,0 +1,30 @@
+[META]
+id:       O.WILB 45
+label:    O.WILB 45
+name:     Receipt — Theben
+genre:    receipts
+date:     122 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (122 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       76556
+source:   https://papyri.info/ddbdp/o.wilb;;45
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πετεχεσποχράτης καὶ μέτοχοι τελῶναι θησαυροῦ ἱερῶν
+r.2    Παχνούμει Παουφθειοῦτος χαίρειν.
+r.3    ἔσχομεν παρὰ σοῦ ὑπὲρ βαλανευτικοῦ τοῦ ϛ ἔτους
+r.4    Ἁδριανοῦ τοῦ κυρίου
+r.5    Παῦνι κβ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

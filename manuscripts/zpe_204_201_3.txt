@@ -1,0 +1,50 @@
+[META]
+id:       ZPE 204.201_3
+label:    ZPE 204.201_3
+name:     Contract — Ägypten
+genre:    contracts
+date:     401 CE – 500 CE
+language: Greek (Koiné)
+found:    Ägypten
+held:     Vienna
+shelf:    
+content:  Contract from Ägypten (401 CE – 500 CE)
+# hgv-keywords: Pacht — Landkauf — Brief — Serenus an Sois
+tm:       738008
+source:   https://papyri.info/ddbdp/zpe;204;201_3
+lat:      
+lon:      
+
+[GREEK]
+r.1    [τῷ θαυμασιωτάτῳ κυρίῳ μ]ου πατρὶ Σόϊτι πρεσβυτέρῳ
+r.2    [καὶ οἰκονόμῳ] Σερῆνος Θεοδώρου.
+r.3    … ν μίσθωσιν θέσθαι τῷ κυρί[ῳ τῷ] … [κ]αὶ θαυμασιωτάτῳ ἀδελφῷ
+r.4    … δώρῳ τ … γιο … νω …
+r.5    … [ἀρουρῶν] [πέν]τε κ …
+r.6    … [μισθώσασθαι] πα[ρὰ τῆς αὐτοῦ θαυμασιότητος]
+r.7    [τὰς προγεγραμμένας ἀ]ρούρας πέ[ν]τε ἀπὸ
+r.8    [καρπῶν τῆς παρούσης ἑν]δεκάτης ἰνδικτίον[ο]ς
+r.9    … [καὶ καταβαλ]εῖν ἐπὶ τὴν αὐτοῦ θαυ[μασιότητα] τούτων
+r.10   [τὸν φόρον ἐκ πλήρ]ους τῆς ἑνδεκάτης [ἰνδικτίονος]. ἤδη
+r.11   … ἡ μί[σ]θωσις. τὰς [δ]ὲ προκτητικὰς
+r.12   [ἀσφαλείας αὐτῷ ἀνέ]δωκα, ἐπειδὴ πέπρακα γὰρ
+r.13   [τὰς προγεγραμμένα]ς ἀ[ρ]ούρας πέντε αὐτῷ
+r.14   [καὶ ἐπερωτηθεὶς ὡμολόγησεν]. Σερῆνος Θεοδώρου συμφωνῶ.
+
+[TRANSLATION]
+# HGV-EN: To my [most admirable master] Patriotes priest [and oeconomos] Serenus, son of Theodorus. [I thought it necessary] to draw up a lease of five arouras with the [...] lord and most admirable brother, [the...]dorus [...] [that he has leased from his admirableness] the five above-mentioned arouras [from the crops of the present] eleventh indiction [...] and that he has paid [fully] the rental for them of the eleventh indiction to his admirableness. The lease is already [effective?]. As to the titles of the previous owners, I handed them over to him, since I have sold, as you know, the above-mentioned arouras to him and [in answer to the formal questions, he has given his assent]. I, Serenus son of Theodorus agree.
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    

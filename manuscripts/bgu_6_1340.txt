@@ -1,0 +1,30 @@
+[META]
+id:       BGU 6.1340
+label:    BGU 6.1340
+name:     Receipt — Apollonopolis
+genre:    receipts
+date:     119 BCE
+language: Greek (Koiné)
+found:    Apollonopolis
+held:     
+shelf:    
+content:  Receipt from Apollonopolis (119 BCE)
+# hgv-keywords: Quittung — Steuern — Geld — Bank
+tm:       4647
+source:   https://papyri.info/ddbdp/bgu;6;1340
+lat:      24.978
+lon:      32.873
+
+[GREEK]
+r.1    ἔτους να Ἐπεὶφ τέτάκται ἐπὶ τὴν ἐν Ἀπόλλωνος πόλει τῆι μεγάληι τράπεζαν
+r.2    ἀπομοίρας τοῦ αὐτοῦ ἔτους
+r.3    Ἀπολλώνιος Δωσιθείου
+r.4    διακοσίας ο γίνονται σο.
+r.5    Χαρμογένης τραπεζίτης.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

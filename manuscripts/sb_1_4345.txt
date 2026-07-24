@@ -1,0 +1,34 @@
+[META]
+id:       SB 1.4345
+label:    SB 1.4345
+name:     Receipt — Theben
+genre:    receipts
+date:     49 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (49 CE)
+# hgv-keywords: Quittung — Steuern
+tm:       23104
+source:   https://papyri.info/ddbdp/sb;1;4345
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ζωίλος Ἀμμωνίου Χεμσνεῦς
+r.2    Πελίλιος χαίρειν. ἔχω παρὰ σοῦ
+r.3    εἰς λόγον μεταβόλων ὑπὲρ μηνῶν
+r.4    τριῶν ἕως Ἁθὺρ δ δραχμὰς ιβ. ἔτους ι Τιβερίου
+r.5    Κλαυδίου Καίσαρος Σεβαστοῦ Γερμανι[κοῦ]
+r.6    Αὐτοκράτορος, Χοιὰκ ιγ. ὁμοίως …
+r.7    … δραχμὰς δ τυδρ …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     
+7     

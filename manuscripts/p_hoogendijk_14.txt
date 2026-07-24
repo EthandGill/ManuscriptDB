@@ -1,0 +1,32 @@
+[META]
+id:       P.HOOGENDIJK 14
+label:    P.HOOGENDIJK 14
+name:     Receipt — Theben
+genre:    receipts
+date:     53 CE
+language: Greek (Koiné)
+found:    Theben
+held:     London
+shelf:    
+content:  Receipt from Theben (53 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       50772
+source:   https://papyri.info/ddbdp/p.hoogendijk;;14
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    διαγέγραφε Πεχύτης Ἁροννώφριος
+r.2    ὑπὲρ χωματικοῦ ιγ ἔτους δραχμὰς ἓξ τετρώβολον καὶ
+r.3    βαλανευτικοῦ τετρώβολον ἡμιωβέλιον γίνονται δραχμαὶ ζ ὀβολοὶ β ἡμιωβέλιον καὶ τούτων προσδιαγραφόμενα.
+r.4    ἔτους ιδ Τιβερίου Κλαυδίου Καίσαρος
+r.5    Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+r.6    Φαῶφι κα. Κέφαλος σεσημείωμαι.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     
+6     

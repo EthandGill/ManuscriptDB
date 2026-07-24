@@ -1,0 +1,60 @@
+[META]
+id:       BASP 57.27_2
+label:    BASP 57.27_2
+name:     Contract — Karanis (Arsinoites)
+genre:    contracts
+date:     98 CE
+language: Greek (Koiné)
+found:    Karanis (Arsinoites)
+held:     London
+shelf:    
+content:  Contract from Karanis (Arsinoites) (98 CE)
+# hgv-keywords: Vertrag — Darlehen — Geld
+tm:       25611
+source:   https://papyri.info/ddbdp/basp;57;27_2
+lat:      29.5182407695
+lon:      30.9034261769
+
+[GREEK]
+r.1    [ἔτους πρώτου Αὐτοκράτο]ρος Καίσαρος Νέρουα
+r.2    [Τραιανοῦ Σεβαστοῦ Γερμανικοῦ μ]ηνὸς Λωίου ιη Παῦνι ιη
+r.3    [ἐν Καρανίδι τῆς Ἡρακλείδου μερίδος τοῦ Ἀρσινοίτου νομο]ῦ. ὁμολογοῦσι Πετό[σι]ρις
+r.4    … [ὡς ἐτῶν] … οὐλὴ μετώπωι
+r.5    … ὡς ἐτῶν τριάκοντα
+r.6    … [Πέ]ρσαι τῆς ἐπιγονῆς ἀλλήλων
+r.7    [ἔγγυοι εἰς ἔκτεισιν Μικκάλῳ Πτο]λεμαίου ὡς ἐτῶν τεσσαρά[κοντα] [ὀκτώ ] [, οὐλὴ μετώπωι μέ]σωι ὑπὸ τρίχα ἔχειν
+r.8    [παρ’ αὐτοῦ] … δραχμὰς
+r.9    … ὧν καὶ τὴν ἀπό[δοσιν ἐπάναγκον ποιησάσθωσαν οἱ ὁ]μολογοῦντες τῶι
+r.10   [Μικκάλῳ ἐν μηνὶ] … [τοῦ εἰ]σίοντος δευτέρου ἔτους
+r.11   [Αὐτοκράτορος Καίσαρος Νέρουα Τραιαν]οῦ Σεβαστοῦ Γερμανικοῦ
+r.12   … [ὁ το]ύτων πατὴρ Πετόσιρις
+r.13   … ο
+r.14   … [γεινομένης] τ[ῶ]ι Μικκάλωι τῆς πράξεως
+r.15   [ἐκ τε τῶν ὁμολογούντων καὶ ἐξ οὗ] ἐὰν αὐτῶν αἱρῆται καὶ ἐκ τῶν
+r.16   [ὑπαρχόντων αὐτοῖς πάντων καθάπε]ρ ἐγ δίκης, ἐξουσίας οὔσης
+r.17   … ω … γρ … αρπ …
+r.18   [ὑπογραφεὺς τῶν ὁμολογούντων Ἥρων] [Σ]ατ[ύ]ρου ἐτῶν κη οὐλὴ μετώπῳ μέσῳ.
+r.19   [Πέτοσιρις] … ις οἱ δύο
+
+[TRANSLATION]
+# HGV-EN: [First year of Imperator] Caesar Nerva [Traianus Augustus Germanicus], 18th of the month Loios, 18th of Pauni, [in Karanis of the Herakleides division of the Arsinoite nome]. Petosiris [… about X years old], scar on the forehead … [and NN … ], about thirty… years old […] Persians of the epigone, mutual [sureties for full repayment], acknowledge [to Mikkalos], son of Ptolemaios, about forty-eight years old, [scar] on the middle [of the forehead] under the hair, that they have received [from him … ] drachmas … the repayment of which the acknowledging parties [will necessarily make to Mikkalos in the month of … of the] forthcoming second year [of Imperator Caesar Nerva Traianus] Augustus Germanicus … their father Petosiris … with the right of execution belonging to Mikkalos [from the acknowledging parties and from whomever] of them he so chooses and from [all their property, as if] resulting from a verdict … with there being the power to … [Subscriber for the acknowledging parties: Heron], son of Satyros, about 28 years old, scar on the middle of the forehead. [Petosiris ... ], the two men ...
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    

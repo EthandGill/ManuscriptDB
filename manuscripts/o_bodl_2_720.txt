@@ -1,0 +1,30 @@
+[META]
+id:       O.BODL 2.720
+label:    O.BODL 2.720
+name:     Receipt — Theben
+genre:    receipts
+date:     142 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (142 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       71410
+source:   https://papyri.info/ddbdp/o.bodl;2;720
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Πανίσκος καὶ μέτοχοι τελῶναι θησαυροῦ ἱερ[ῶν]
+r.2    Παμώνθῃ πρεσβυτέρῳ Κρούριος Παμώνθου.
+r.3    ἔσχομεν τὸ βαλανευτικὸν τοῦ ε ἔτους Ἀντωνίνου
+r.4    Καίσαρος τοῦ κυρίου
+r.5    Παχὼν α.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

@@ -1,0 +1,28 @@
+[META]
+id:       O.NYU 32
+label:    O.NYU 32
+name:     Receipt — Oberägypten
+genre:    receipts
+date:     5 CE
+language: Greek (Koiné)
+found:    Oberägypten
+held:     New York
+shelf:    
+content:  Receipt from Oberägypten (5 CE)
+# hgv-keywords: Quittung — Steuer — Geld
+tm:       869435
+source:   https://papyri.info/ddbdp/o.nyu;;32
+lat:      
+lon:      
+
+[GREEK]
+r.1    ἔτους λδ Τυβι ϛ
+r.2    τέλους ταριχευτ- λγ ἔτους Ἅρπηκις
+r.3    Σισόιτος δραχμὰς τρεῖς τετρώβολον, γίνονται γ τετρώβολον.
+r.4    Πίσηχθις.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

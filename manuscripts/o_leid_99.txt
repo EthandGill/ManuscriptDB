@@ -1,0 +1,30 @@
+[META]
+id:       O.LEID 99
+label:    O.LEID 99
+name:     Receipt — Theben
+genre:    receipts
+date:     121 CE
+language: Greek (Koiné)
+found:    Theben
+held:     
+shelf:    
+content:  Receipt from Theben (121 CE)
+# hgv-keywords: Quittung — Steuern — Geld
+tm:       24668
+source:   https://papyri.info/ddbdp/o.leid;;99
+lat:      27.5
+lon:      32.5
+
+[GREEK]
+r.1    Ἀπολλόδωρος καὶ μέτοχοι [τελῶναι θησαυροῦ]
+r.2    ἱερῶν Ψενχώνσει Ψ … [ ἔσχομεν]
+r.3    παρὰ σοῦ βαλαν[ευτικὸν ] …
+r.4    ἔτους ε Ἁδριανοῦ …
+r.5    Με …
+
+[TRANSLATION]
+1     
+2     
+3     
+4     
+5     

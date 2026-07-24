@@ -1,0 +1,28 @@
+[META]
+id:       SB 30.17707
+label:    SB 30.17707
+name:     Receipt — Elephantine
+genre:    receipts
+date:     171 CE
+language: Greek (Koiné)
+found:    Elephantine
+held:     Liverpool
+shelf:    
+content:  Receipt from Elephantine (171 CE)
+# hgv-keywords: Quittung — Steuer (Umlagen; Merismoi) — Geld
+tm:       140218
+source:   https://papyri.info/ddbdp/sb;30;17707
+lat:      24.09
+lon:      32.889
+
+[GREEK]
+r.1    [Ἀσίννιος] [Διδ]ύμου καὶ Ἀμώνιος πράκτορες
+r.2    [ἀργυρικῶν Ἐλεφαντίνης διὰ] βοηθοῦ. διέγραψεν Πετορζμῆθις
+r.3    … ρπ ὑπὲρ μερισμῶν ια ἔτους δραχμὰς δ πεντώβολον.
+r.4    [ἔτους ιβ][ ] Φαῶφι λ.
+
+[TRANSLATION]
+1     
+2     
+3     
+4     

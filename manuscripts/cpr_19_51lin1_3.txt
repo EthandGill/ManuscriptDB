@@ -1,0 +1,26 @@
+[META]
+id:       CPR 19.51lin1_3
+label:    CPR 19.51lin1_3
+name:     Documentary papyrus — Herakleopolites
+genre:    documents
+date:     401 CE – 450 CE
+language: Greek (Koiné)
+found:    Herakleopolites
+held:     
+shelf:    
+content:  Documentary papyrus from Herakleopolites (401 CE – 450 CE)
+# hgv-keywords: Auftrag — Olympios an Nemesianos (Bankier) — Auszahlung (Lohn)
+tm:       70220
+source:   https://papyri.info/ddbdp/cpr;19;51lin1_3
+lat:      29.0927896054
+lon:      31.0050305062
+
+[GREEK]
+r.1    Ὀλύμπιος Νεμεσιανοῦ δι’ Ἄπειτος
+r.2    … Φοιβάμμωνι βοηθῷ ὑπὲρ μισθοῦ
+r.3    ν[ομισμ ] … [ἀ]πὸ Θὼθ α ἀρχῇ.
+
+[TRANSLATION]
+1     
+2     
+3     

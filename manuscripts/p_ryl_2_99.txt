@@ -1,0 +1,36 @@
+[META]
+id:       P.RYL 2.99
+label:    P.RYL 2.99
+name:     Contract — Hermopolites
+genre:    contracts
+date:     201 CE – 300 CE
+language: Greek (Koiné)
+found:    Hermopolites
+held:     
+shelf:    
+content:  Contract from Hermopolites (201 CE – 300 CE)
+# hgv-keywords: Angebot einer Pacht (Land, Staat) — komogrammateus
+tm:       31160
+source:   https://papyri.info/ddbdp/p.ryl;2;99
+lat:      
+lon:      
+
+[GREEK]
+r.1    βούλομαι ἑκουσίως μισθώσασθαι ἐκ τοῦ δημοσίου εἰς ἔτη ε ἀπὸ οὐσιακοῦ
+r.2    λόγου ἐν τῷ Πασκὼ περὶ κωμογραμματείαν Τοοὺ
+r.3    οὐσίας μὲν πρότερον Δορυφόρου ἐκ τοῦ Δημητρίου κλήρου τὰς δηλουμένας διὰ τοῦ αὐτοῦ [οὐ]σιακοῦ λόγου πρότερον μεμισθῶσθαι ὑπὸ Οὐαλερίου Βερενικιανοῦ καὶ υἱῶν Οὐαλερίου Διοδώρου, οὐσίας
+r.4    μὲν πρότερον Δορυφόρο[υ] ἀμέστου ἀρούρας ϛ πρότερον δὲ Σενέκα ὁμοίως ἀρούρας β
+r.5    καὶ τὰ συνκύροντα καὶ χρηστήρια καὶ ὑδρεύματα καὶ φυτὰ
+r.6    καὶ ἀνήκοντα πάντα πρὸς πᾶν εἶδος, φόρου ἐτησίου
+r.7    κατʼ ἀνάλογον τοῦ τελεσθέντος τῇ ἀνὰ χεῖρα πενταετίᾳ, ᾧ προσάγω ὑπὲρ ἐπιθέματος τῆς ὅλης πενταετίας ἄλλας δραχμὰς ἑξήκοντα καθʼ αἱροῦν, ποιήσομαι δὲ τὴν τῆς ἀμέστου ἐπιμ[έ]λειαν ὃν προσήκει τρ[ό]πον, καὶ τὸν συναγόμενον φόρ[ο]ν διαγράψω ἐπὶ τὴν ἐν Ἑρμοῦ πόλει δημοσίαν τράπεζ[α]ν ταῖς εἰθισμέναις ἀριθμήσεσιν.
+
+[TRANSLATION]
+# HGV-EN: ‘I desire of my own free will to lease from the state for 5 years from the department of domains in the Pascho toparchy in the area of the village of Toou, out of the holding of Demetrius, the land stated by the said department of domains to have been leased by Valerius Berenicianus and the sons of Valerius Diodorus, namely of the estate formerly owned by Doryphorus ... 6 arurae, and of that formerly owned by Seneca likewise 2 arurae, including accessories, implements, irrigators, trees, and all appurtenances of every kind, at a yearly rental at the same rate as that paid during the current period of 5 years, to which I add as a further charge for the whole period of 5 years 60 drachmae distributed proportionally ; and I will look after the ... in a proper manner, and will pay the total rental to the official bank in Hermopolis in the customary instalments.’
+# ^ reference only (HGV prose) — lay it out line-by-line in the slots below.
+1     
+2     
+3     
+4     
+5     
+6     
+7     
