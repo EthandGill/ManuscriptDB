@@ -10799,5 +10799,124 @@
     "modern": "S. Peter Port",
     "lat": 49.4579,
     "lon": -2.5359
+  },
+  {
+    "id": "arabia-sethroites",
+    "name": "Arabia (Sethroites)",
+    "modern": "Egypt",
+    "lat": 30.588,
+    "lon": 31.7004
+  },
+  {
+    "id": "timonthis",
+    "name": "Timonthis",
+    "modern": "Egypt",
+    "lat": 41.0062,
+    "lon": 32.078
+  },
+  {
+    "id": "unterer-sebennytes",
+    "name": "Unterer Sebennytes",
+    "modern": "Egypt",
+    "lat": 31.3629,
+    "lon": 31.1404
+  },
+  {
+    "id": "heroopolis",
+    "name": "Heroopolis",
+    "modern": "Egypt",
+    "lat": 30.5534,
+    "lon": 32.0996
+  },
+  {
+    "id": "myos-hormos",
+    "name": "Myos Hormos",
+    "modern": "Egypt",
+    "lat": 26.1566,
+    "lon": 34.244
+  },
+  {
+    "id": "umm-balad",
+    "name": "Umm Balad",
+    "modern": "Egypt",
+    "lat": 27.1474,
+    "lon": 33.2914
+  },
+  {
+    "id": "maximianon",
+    "name": "Maximianon",
+    "modern": "Egypt",
+    "lat": 26.0009,
+    "lon": 33.7875
+  },
+  {
+    "id": "dios",
+    "name": "Dios",
+    "modern": "Egypt",
+    "lat": 25.1517,
+    "lon": 34.0564
+  },
+  {
+    "id": "abu-mena",
+    "name": "Abu Mena",
+    "modern": "Egypt",
+    "lat": 30.8416,
+    "lon": 29.667
+  },
+  {
+    "id": "abydos",
+    "name": "Abydos",
+    "modern": "Egypt",
+    "lat": 26.1851,
+    "lon": 31.9176
+  },
+  {
+    "id": "el-heita",
+    "name": "El-Heita",
+    "modern": "Egypt",
+    "lat": 26.6225,
+    "lon": 32.7702
+  },
+  {
+    "id": "berenike",
+    "name": "Berenike",
+    "modern": "Egypt",
+    "lat": 23.9106,
+    "lon": 35.4748
+  },
+  {
+    "id": "aphrodision",
+    "name": "Aphrodision",
+    "modern": "Egypt",
+    "lat": 35.3994,
+    "lon": 33.7365
+  },
+  {
+    "id": "darnis",
+    "name": "Darnis",
+    "modern": "Egypt",
+    "lat": 32.7661,
+    "lon": 22.6405
+  },
+  {
+    "id": "phthemphuth",
+    "name": "Phthemphuth",
+    "modern": "Egypt",
+    "lat": 30.8302,
+    "lon": 31.0721
+  },
+  {
+    "id": "khirbet-el-kom",
+    "name": "Khirbet el-Kom",
+    "modern": "Egypt",
+    "lat": 28.3086,
+    "lon": 33.8663
+  },
+  {
+    "id": "bossia",
+    "name": "Bossia",
+    "modern": "Egypt",
+    "lat": 29.8949,
+    "lon": 35.0608
   }
 ]
