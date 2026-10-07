@@ -244,9 +244,15 @@ def init_accounts(app):
     app.secret_key = secret
 
     url = os.environ.get("DATABASE_URL", "").strip()
-    # SQLAlchemy needs the postgresql:// scheme; Railway/Heroku give postgres://
+    # Railway/Heroku hand out a bare postgres://… URL. Normalise it to the
+    # postgresql:// scheme AND pin the psycopg2 driver explicitly: newer
+    # SQLAlchemy defaults a bare postgresql:// to the psycopg (v3) dialect,
+    # which we do not ship (we install psycopg2-binary), so without the explicit
+    # +psycopg2 the app fails to import with "No module named 'psycopg'".
     if url.startswith("postgres://"):
         url = "postgresql://" + url[len("postgres://"):]
+    if url.startswith("postgresql://"):
+        url = "postgresql+psycopg2://" + url[len("postgresql://"):]
     if not url:
         url = "sqlite:///" + os.path.join(os.path.dirname(__file__), "manuscriptdb.sqlite3")
 
