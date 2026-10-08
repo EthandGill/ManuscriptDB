@@ -197,6 +197,18 @@
 
     <!-- ── MAP ── -->
     <div id="map">
+        <!-- Tertius translation progress (static/tertius_badge.js, GET /api/tertius) -->
+        <div id="tertius-badge" hidden aria-live="polite">
+            <div class="tb-line">
+                <span class="tb-quill" aria-hidden="true">&#x2712;</span>
+                <span class="tb-long"><strong>Tertius</strong> has translated
+                    <span class="tb-n">0</span> of <span class="tb-m">0</span> sources</span>
+                <span class="tb-short"><strong>Tertius</strong> &middot;
+                    <span class="tb-n">0</span>/<span class="tb-m">0</span></span>
+            </div>
+            <div class="tb-bar"><span></span></div>
+            <div class="tb-detail"></div>
+        </div>
         <!-- AI search agent: tab attached to the sidebar edge + slide-out panel -->
         <button id="agent-tab" type="button" title="Search Our Data Base With Tertius" aria-label="Search Our Data Base With Tertius">
             <span class="agent-tab-text">Use our built in A.I. agent</span>
@@ -306,5 +318,6 @@
 <script src="{{ asset('pauline_network.js') }}"></script>
 <script src="{{ asset('manuscript_network.js') }}"></script>
 <script src="{{ asset('account.js') }}"></script>
+<script src="{{ asset('tertius_badge.js') }}"></script>
 </body>
 </html>

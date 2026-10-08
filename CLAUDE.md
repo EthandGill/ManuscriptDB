@@ -179,3 +179,28 @@ runs on your machine, not on a restricted host.
   }
 }
 ```
+
+## Tertius — the translating agent
+
+`tertius.py` works through every untranslated flat papyrus in `manuscripts/`,
+translating line-by-line with lacunae kept as `[...]` / `…` (the site tints them
+blue via `.ms-supplied`). It wraps `translate_mss_max.py` / `translate_mss_api.py`
+/ `_claude_max.py` (Max plan via `claude -p`, no API key) — change the prompt or
+parsing there, not in Tertius. Full spec: `TERTIUS-agent.md`.
+
+```
+Tertius.bat                  # double-click: run the backlog with the desktop pop-up
+py tertius.py --limit 10     # smoke test
+py tertius.py --status       # fractions + rewrite static/data/tertius_progress.json
+py tertius.py --review       # translations whose lacuna check failed
+py tertius.py --selftest
+```
+
+- Desktop pop-up: `tertius_widget.py` (Tkinter) reads `tertius_status.json`;
+  pause/stop via `tertius.control`. `py tertius_widget.py --demo` to preview.
+- Live badge: `static/tertius_badge.js` polls `GET /api/tertius`, which serves
+  `static/data/tertius_progress.json` (committed with every push of 25).
+- "N of M sources" counts flat papyri with Greek lines; multi-book NT
+  manuscripts (`[GREEK:Book]`) aren't Tertius's job.
+- `tertius_index.json` caches per-file state by mtime so restarts don't
+  re-parse ~60k files.

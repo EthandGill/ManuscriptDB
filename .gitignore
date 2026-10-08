@@ -42,3 +42,12 @@ idp.data/
 idp.data-master/
 pleiades-places-*.csv
 pleiades-places-*.csv.gz
+
+# Tertius (translating agent) — local state, never commit.
+# static/data/tertius_progress.json IS committed (it feeds the live badge).
+tertius_status.json
+tertius_status.json.tmp
+tertius_index.json
+tertius_index.json.tmp
+tertius_widget.json
+tertius.control

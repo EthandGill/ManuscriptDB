@@ -3249,3 +3249,67 @@ html, body {
 
 /* Manuscript-network routes use the standard route-planner line styles
    (set inline per edge type in manuscript_network.js) — no glow / shadow. */
+
+
+/* ── TERTIUS PROGRESS BADGE (top-right of the map) ─────────── */
+#tertius-badge {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    z-index: 1050;             /* above Leaflet panes, below agent tab / overlays */
+    max-width: calc(100% - 24px);
+    box-sizing: border-box;
+    padding: 9px 13px 8px;
+    background: rgba(14, 14, 14, 0.92);
+    border: 1px solid #2a2416;
+    border-radius: 10px;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.45);
+    color: #d4c9b8;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 12px;
+    line-height: 1.35;
+    cursor: default;
+    backdrop-filter: blur(2px);
+}
+#tertius-badge[hidden] { display: none; }
+#tertius-badge .tb-line { white-space: nowrap; }
+#tertius-badge strong {
+    font-family: 'Cinzel', Georgia, serif;
+    font-weight: 700;
+    color: #c9a96e;
+    letter-spacing: 0.02em;
+}
+#tertius-badge .tb-n,
+#tertius-badge .tb-m { color: #f0ece4; font-weight: 500; font-variant-numeric: tabular-nums; }
+#tertius-badge .tb-quill { color: #c9a96e; margin-right: 4px; }
+#tertius-badge.tb-working .tb-quill { animation: tb-pulse 1.6s ease-in-out infinite; }
+@keyframes tb-pulse { 50% { opacity: 0.35; } }
+#tertius-badge .tb-short { display: none; }
+#tertius-badge .tb-bar {
+    height: 3px;
+    margin-top: 7px;
+    background: #1e1e1e;
+    border-radius: 2px;
+    overflow: hidden;
+}
+#tertius-badge .tb-bar span {
+    display: block;
+    height: 100%;
+    width: 0;
+    background: #607888;       /* the lacuna blue (.ms-supplied) */
+    transition: width 0.6s ease;
+}
+#tertius-badge .tb-detail {
+    display: none;
+    margin-top: 6px;
+    font-size: 11px;
+    color: #7a7266;
+}
+#tertius-badge:hover .tb-detail,
+#tertius-badge.tb-open .tb-detail { display: block; }
+
+@media (max-width: 700px) {
+    #tertius-badge { top: 8px; right: 8px; padding: 6px 10px; font-size: 11px; }
+    #tertius-badge .tb-long { display: none; }
+    #tertius-badge .tb-short { display: inline; }
+}

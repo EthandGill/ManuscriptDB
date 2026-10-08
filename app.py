@@ -555,6 +555,34 @@ def api_agent_search():
     return jsonify(out)
 
 
+# ── TERTIUS PROGRESS BADGE ───────────────────────────────────────────────
+# tertius.py (the translating agent, run on the dev machine) commits
+# static/data/tertius_progress.json with every push. Serve it with no-cache so
+# the top-right badge ("Tertius has translated N of M sources") stays fresh.
+# Read once and re-read only when the file's mtime changes.
+_tertius_cache = {"m": None, "data": None}
+
+
+@app.route("/api/tertius")
+def api_tertius():
+    path = os.path.join(app.static_folder, "data", "tertius_progress.json")
+    try:
+        m = os.path.getmtime(path)
+    except OSError:
+        return jsonify({"available": False}), 404
+    if _tertius_cache["m"] != m:
+        import json as _json
+        try:
+            with open(path, encoding="utf-8") as f:
+                _tertius_cache["data"] = _json.load(f)
+            _tertius_cache["m"] = m
+        except Exception:
+            return jsonify({"available": False}), 503
+    resp = jsonify({"available": True, **_tertius_cache["data"]})
+    resp.headers["Cache-Control"] = "no-store"
+    return resp
+
+
 @app.route("/api/health")
 def api_health():
     """Lightweight diagnostic: confirms the DB layer and which backend is live.
